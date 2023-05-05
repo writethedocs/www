@@ -635,15 +635,49 @@ As in previous years, the bulk of the changes were moving from on-site to remote
 .. figure:: images/2022/2022-work-location-affected.svg
    :class: hide
 
+A sign that the situation is settling down, perhaps: 54.4% of respondents in this category reported that their work location change (or, in the case of 7.1% of respondents, multiple changes) had now become permanent, and 17.7% stated that the change had been temporary and was now changed back. 
 
-47.3% of respondents in this category reported that their location change was now permanent. 
+.. table:: Work location changes (2022)
+   :width: 100%
+   :widths: 70 15 15
+   :name: tbl-2022-work-location-changes
 
-TODO: table???
+   +--------------------------------------------------------+-----+-------+
+   | Change                                                 | No. | %     |
+   +========================================================+=====+=======+
+   | Work location changed permanently                      | 134 | 47.3% |
+   +--------------------------------------------------------+-----+-------+
+   | Work location changed temporarily, now back            | 50  | 17.7% |
+   +--------------------------------------------------------+-----+-------+
+   | Work location changed temporarily, not yet back        | 36  | 12.7% |
+   +--------------------------------------------------------+-----+-------+
+   | Work location changed multiple times, now permanent    | 24  | 8.5%  |
+   +--------------------------------------------------------+-----+-------+
+   | Work location changed multiple times, may change again | 20  | 7.1%  |
+   +--------------------------------------------------------+-----+-------+
+   | Other                                                  | 19  | 6.7%  |
+   +--------------------------------------------------------+-----+-------+
 
-TODO: feelings about work location change (affected by COVID-19)
+The attitude towards pandemic-related work location change is overwhelmingly a happy one: 73.5% felt that the change was "positive", and just over half of those felt it was "very positive", whereas only 5.6% reported "negative" or "very negative" feelings.  
 
+.. table:: Feelings about work location changes (2022)
+   :width: 100%
+   :widths: 70 15 15
+   :name: tbl-2022-work-location-changes-feelings
 
-
+   +-------------------------------------+-----+-------+
+   | Feelings about work location change | No. | %     |
+   +=====================================+=====+=======+
+   | Very positive                       | 107 | 37.8% |
+   +-------------------------------------+-----+-------+
+   | Positive                            | 101 | 35.7% |
+   +-------------------------------------+-----+-------+
+   | Neutral                             | 59  | 20.8% |
+   +-------------------------------------+-----+-------+
+   | Negative                            | 12  |  4.2% |
+   +-------------------------------------+-----+-------+
+   | Very negative                       | 4   |  1.4% |
+   +-------------------------------------+-----+-------+
 
 Not affected by COVID-19
 ------------------------
@@ -754,9 +788,6 @@ Combining the "current" work location for respondents affected by COVID-19 with 
 .. figure:: images/2022/2022-work-location-overall.svg
    :class: hide
 
-TODO: make different (but consistent) colours for attitude vs work location
-
-
 Just over half of respondents reported feeling "very positive" about their work location, and another 31.4% felt "positive". 13.7% were "neutral", and 3.2% reported negative feelings. Only 0.8% of all repondents - 4 individuals - reported "very negative" feelings. 
 
 .. table:: Feelings about work location - overall (2022)
@@ -777,6 +808,18 @@ Just over half of respondents reported feeling "very positive" about their work 
    +------------------------+-----+-------+
    | Very Positive          | 267 | 50.9% |
    +------------------------+-----+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Feelings about work location (combined) (2022)" aria-describedby="figure-work-location-combined-feelings_desc" type="image/svg+xml" data="/_images/2022-work-location-overall-feelings.svg">
+         <p id="figure-work-location-combined-feelings_desc">Donut chart showing feelings about work location for all respondents combined (those whose work location was affected by COVID-19 and those whose work location was not affected).</p>
+      </object> 
+      <figcaption>Figure: Feelings about work location (combined) (2022)</figcaption>
+   </figure>
+
+.. figure:: images/2022/2022-work-location-overall-feelings.svg
+   :class: hide
 
 Breaking this down by work location, the same patterns emerge. 89.1% of respondents who were working remote by choice reported feeling "very positive" (61.2%) or "positive" (27.9%), with only 0.9% feeling "negative" and no one reporting "very negative" feelings. For those working remote by requirement, while 92% were happy with the arrangement (67.1% "very positive" and 25.2% "positive"), 2.8% reported "negative" feelings.     
 
@@ -1532,6 +1575,18 @@ Just 5.3% of organizations - the smallest proportion - had a fully open pay tran
    | Yes - full pay transparency |  28 | 5.3%  |
    +-----------------------------+-----+-------+
 
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Pay transparency policy (2022)" aria-describedby="figure-pay-transparency-policy_desc" type="image/svg+xml" data="/_images/2022-pay-transparency-policy.svg">
+         <p id="figure-pay-transparency-policy_desc">Donut chart showing type of pay transparency policy, if any, at respondent's organizations.</p>
+      </object> 
+      <figcaption>Figure: Pay transparency policy (2022)</figcaption>
+   </figure>
+
+.. figure:: images/2022/2022-pay-transparency-policy.svg
+   :class: hide
+
 Pay transparency practise
 -------------------------
 
@@ -1553,6 +1608,18 @@ Regardless of official policy - or in the absence of an official policy - it see
    +-----------------------------+-----+-------+
    | Yes                         |   9 | 1.7%  |
    +-----------------------------+-----+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Pay transparency practise (2022)" aria-describedby="figure-pay-transparency-practise_desc" type="image/svg+xml" data="/_images/2022-pay-transparency-practise.svg">
+         <p id="figure-pay-transparency-practise_desc">Donut chart showing type of unofficial pay transparency practise, if any, at respondent's organizations.</p>
+      </object> 
+      <figcaption>Figure: Pay transparency practise (2022)</figcaption>
+   </figure>
+
+.. figure:: images/2022/2022-pay-transparency-practise.svg
+   :class: hide
 
 Pay transparency support
 ------------------------
@@ -1577,6 +1644,18 @@ Three quarters of all respondents expressed support for pay transparency, with 4
    +------------------+-----+-------+
    | Strongly support | 236 | 45.0% |
    +------------------+-----+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Pay transparency support (2022)" aria-describedby="figure-pay-transparency-support_desc" type="image/svg+xml" data="/_images/2022-pay-transparency-support.svg">
+         <p id="figure-pay-transparency-support_desc">Donut chart showing level of personal support for pay transparency among respondents.</p>
+      </object> 
+      <figcaption>Figure: Pay transparency support (2022)</figcaption>
+   </figure>
+
+.. figure:: images/2022/2022-pay-transparency-support.svg
+   :class: hide
 
 Organization demographics
 =========================
@@ -1969,6 +2048,18 @@ These proportions have not significantly changed over the four surveys conducted
    | Other           | 2   |  0.4% |
    +-----------------+-----+-------+
 
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Gender identity (2022)" aria-describedby="figure-gender-identity_desc" type="image/svg+xml" data="/_images/2022-gender-identity.svg">
+         <p id="figure-gender-identity_desc">Donut chart showing gender identity.</p>
+      </object> 
+      <figcaption>Figure: Gender identity (2022)</figcaption>
+   </figure>
+
+.. figure:: images/2022/2022-gender-identity.svg
+   :class: hide
+
 Experience
 ----------
 
@@ -2086,6 +2177,18 @@ Technical or vocational qualifications accounted for 2.1% of the responses, and 
    | Technical or vocational | 11  | 2.1%  |
    +-------------------------+-----+-------+
 
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Education level (2022)" aria-describedby="figure-education-level_desc" type="image/svg+xml" data="/_images/2022-education-level.svg">
+         <p id="figure-education-level_desc">Donut chart showing the highest education level achieved by respondents.</p>
+      </object> 
+      <figcaption>Figure: Education level (2022)</figcaption>
+   </figure>
+
+.. figure:: images/2022/2022-education-level.svg
+   :class: hide
+
 Location
 --------
 
@@ -2132,6 +2235,18 @@ Overall, 69.7% of respondents across all countries were city dwellers, 23.4% res
    +------------+-----+-------+
    | Rural      | 36  | 6.9%  |
    +------------+-----+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Respondent location - area type (2022)" aria-describedby="figure-respondent-location-area-type_desc" type="image/svg+xml" data="/_images/2022-respondent-location-area-type.svg">
+         <p id="figure-respondent-location-area-type_desc">Donut chart showing the area type that respondents live in: city/high density, suburban/semi-dense, or rural/low density.</p>
+      </object> 
+      <figcaption>Figure: Respondent location - area type (2022)</figcaption>
+   </figure>
+
+.. figure:: images/2022/2022-respondent-location-area-type.svg
+   :class: hide
 
 .. table:: Respondent location - region and country (2022)
    :width: 100%

@@ -9,26 +9,31 @@
   </defs>
   <title>Chart title (2022)</title>
   <desc>Vertical bar chart showing ...</desc>
-  <g class="x-axis">
-    <g class="axis-lines">
-       
+
+  <g class="bar-chart">
+
+    <g class="x-axis">
+      <g class="axis-lines">
+        
+      </g>
+      <g class="axis-values">
+        
+      </g>
+      <g class="axis-label">
+
+      </g>    
     </g>
-    <g class="axis-values">
-			
-		</g>
-    <g class="axis-label">
+    <g class="y-axis">
+      <g class="axis-values">
 
-    </g>    
+      </g>
+      <g class="axis-label">
+
+      </g>  
+    </g>
+    <g class="data">
+        
+    </g>
+
   </g>
-	<g class="y-axis">
-		<g class="axis-values">
-
-		</g>
-    <g class="axis-label">
-
-    </g>  
-	</g>
-  <g class="data">
-			
-	</g>
 </svg>

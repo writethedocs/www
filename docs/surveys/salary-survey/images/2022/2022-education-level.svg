@@ -1,0 +1,70 @@
+<svg height="100%" width="100%" viewBox="0 0 660 368" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2022-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+  <title>Education level (2022)</title>
+  <desc>Vertical bar chart showing highest education level achieved by respondents.</desc>
+
+<g class="bar-chart">
+
+	<g class="legend">
+		<path d="M256.5 28C256.5 29.8565 257.237 31.637 258.55 32.9497C259.863 34.2625 261.643 35 263.5 35C265.357 35 267.137 34.2625 268.45 32.9497C269.763 31.637 270.5 29.8565 270.5 28C270.5 26.1435 269.763 24.363 268.45 23.0503C267.137 21.7375 265.357 21 263.5 21C261.643 21 259.863 21.7375 258.55 23.0503C257.237 24.363 256.5 26.1435 256.5 28Z" class="seriesa"/>
+		<path d="M353.5 28C353.5 29.8565 354.237 31.637 355.55 32.9497C356.863 34.2625 358.643 35 360.5 35C362.357 35 364.137 34.2625 365.45 32.9497C366.763 31.637 367.5 29.8565 367.5 28C367.5 26.1435 366.763 24.363 365.45 23.0503C364.137 21.7375 362.357 21 360.5 21C358.643 21 356.863 21.7375 355.55 23.0503C354.237 24.363 353.5 26.1435 353.5 28Z" class="seriesb"/>
+		<g class="labels">
+			<text><tspan x="275.355" y="32.8843">Single</tspan></text>
+			<text><tspan x="371.74" y="32.8843">Multiple</tspan></text>
+		</g>
+	</g>
+
+  <g class="x-axis">
+    <g class="axis-lines">
+      <path d="M65 303.5H652"/>
+			<path d="M65 256.5H652"/>
+			<path d="M65 209.5H652"/>
+			<path d="M65 162.5H652"/>
+			<path d="M65 115.5H652"/>
+			<path d="M65 68.5H652"/>
+    </g>
+    <g class="axis-values">
+			<text><tspan x="109.521" y="323.884">Graduate</tspan></text>
+			<text><tspan x="241.669" y="323.884">Post-graduate</tspan></text>
+			<text><tspan x="394.954" y="323.884">High school</tspan></text>
+			<text><tspan x="510.731" y="323.884">Technical / vocational</tspan></text>
+		</g>
+    <g class="axis-label">
+			<text transform="translate(287 347)"><tspan x="0.234375" y="11.464">Education level</tspan></text>
+    </g>    
+  </g>
+	<g class="y-axis">
+		<g class="axis-values">
+			<text><tspan x="46.4004" y="307.884">0</tspan></text>
+			<text><tspan x="39.0039" y="260.884">50</tspan></text>
+			<text><tspan x="31.7852" y="213.884">100</tspan></text>
+			<text><tspan x="32.9883" y="166.884">150</tspan></text>
+			<text><tspan x="29.9805" y="119.884">200</tspan></text>
+			<text><tspan x="31.1836" y="72.8843">250</tspan></text>
+		</g>
+    <g class="axis-label">
+			<text transform="translate(10 229.5) rotate(-90)"><tspan x="0.132812" y="11.464">Respondents</tspan></text>
+    </g>  
+	</g>
+  <g class="data">
+		<g class="seriesa">
+			<path d="M188 61H88V304H188V61Z"/>
+			<path d="M335 121H235V304H335V121Z"/>
+			<path d="M482 289H382V304H482V289Z"/>
+			<path d="M629 294H529V304H629V294Z"/>
+		</g>
+		<g class="seriesb">
+			<path d="M188 46H88V59H188V46Z"/>
+			<path d="M335 95H235V119H335V95Z"/>
+		</g>
+	</g>
+
+</g>
+</svg>
