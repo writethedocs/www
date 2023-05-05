@@ -81,7 +81,7 @@ Lastly, some folks recommended spending time on simpler work: you can lose yours
 Featured job posts
 ------------------
 
-- `Senior Technical Writer, Security/Observability  <https://jobs.writethedocs.org/job/688/technical-communications-director/>`__, Cockroach Labs (Hybrid)
+- `Senior Technical Writer, Security/Observability  <https://jobs.writethedocs.org/job/1399/senior-technical-writer-security-observability/>`__, Cockroach Labs (Hybrid)
 
 *To apply for this job and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
