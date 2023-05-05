@@ -17,8 +17,10 @@ Exact timing information is available on our :doc:`/conf/{{shortcode}}/{{year}}/
 During the conference
 ---------------------
 
-Check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-cheatsheet` for a quick reference 
-that you can use during the conference to make the most out of Writing Day. 
+Attendees, folks looking for projects to contribute to, check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-cheatsheet`! 
+It's a great resources you can use during the conference to make the most out of Writing Day.
+
+Project leads and volunteers, check out the `Maximize your experience <https://www.writethedocs.org/conf/portland/2023/news/writing-day-announcement/#maximize-your-experience>`_ section of our *Write the Docs <3's OSS* blog post for helpful tips and tricks.
 
 Submit Your Project 
 -------------------
