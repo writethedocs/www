@@ -83,7 +83,7 @@ Our Writing Day goal is to:
 The Good Docs Project
 ~~~~~~~~~~~~~~~~~~~~~
 
-`The Good Docs Project <https://thegooddocsproject.dev/>`_ is an open source community of 50+ technical writers, doc tools 
+`The Good Docs Project <https://thegooddocsproject.dev/>`_ is an open-source community of 50+ technical writers, doc tools 
 experts, UX designers, and software engineers who are committed to improving the quality 
 of documentation in open source. We aim to educate and empower people to create 
 high-quality documentation by providing them with resources, best practices, and tools 
@@ -100,7 +100,7 @@ Get an early preview of `The Good Docs Project writing day agenda <https://tinyu
 Hank
 ~~~~
 
-Hank is an experimental prototype to see whether we can fine-tine an LLM to function as a
+Hank is an experimental prototype to see whether we can fine-tune an LLM to function as a
 style guide editor. The `initial results <https://technicalwriting.tools/posts/style-guide-fine-tuning/>`__ suggest that it could work. Let's keep going! 
 
 We are looking for contributors to help create training data. This requires no programming 
@@ -122,7 +122,7 @@ Rocky Linux
 
 `Rocky Linux <https://rockylinux.org/>`_ is a community Enterprise Linux distribution 
 for everything from desktops to hyperscale! It is under intensive development by the 
-open source community.
+open-source community.
 
 The `Rocky Linux Docs <https://docs.rockylinux.org>`_ use markdown and this `basic writing and formatting guide <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>`_ by GitHub.
 
@@ -142,7 +142,7 @@ dbt
 
 dbt enables data analysts and engineers to transform their data using the same 
 practices that software engineers use to build applications. `dbt Core <https://github.com/dbt-labs/dbt-core>`_ 
-is the center of our `open source repository <https://github.com/dbt-labs/docs.getdbt.com>`_.
+is the center of our `open-source repository <https://github.com/dbt-labs/docs.getdbt.com>`_.
 
 The dbt Labs Docs team is a small but mighty team and Writing Day is the first 
 time that we will be all together! We are looking for collaborators and dbt docs
@@ -150,7 +150,7 @@ contributions. We have **prizes** for the top contributors!
 
 Our Writing Day goals:
 
-- Give potential contributors an overview of the open source tool chain we use, Docusaurus and GitHub.
+- Give potential contributors an overview of the open-source tool chain we use, Docusaurus and GitHub.
 - `Address open doc issues <https://github.com/dbt-labs/docs.getdbt.com/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22>`_, 
   issues labelled **Good First Issue** can be addressed with little dbt knowledge.
 - `Draft an operating model <https://github.com/dbt-labs/docs.getdbt.com/blob/current/contributing/operating-model/outline.md>`_ 
@@ -190,7 +190,7 @@ pull requests, ranging from fixing small typos to contributing whole new section
 Our online documentation is marked up in AsciiDoc, lives in Git, and is built automatically into 
 a static site using GitHub Actions.
 
-Raspberry Pi is looking for Writing Day attendees to contribute to our open source documentation. 
+Raspberry Pi is looking for Writing Day attendees to contribute to our open-source documentation. 
 We're looking for contributions that focus on: 
 
 - Copy-editing
@@ -213,7 +213,7 @@ TLS and HTTPS work. You can find  `the codebase <https://github.com/smallstep/ce
 
 We’re looking for volunteers to help polish and make the style more consistent across 
 our most popular doc pages. Our docs are technically correct, but are not very concise. 
-We have opened issues for each of such pages and appriopately labeled them Writing Day.
+We have opened issues for each of such pages and appropriately labeled them Writing Day.
 
 Review each identified page and consider making the following types of improvements:
 
@@ -296,7 +296,7 @@ any questions, you can reach out to us in person or on
 Read the Docs
 ~~~~~~~~~~~~~
 
-Read the Docs is an open source hosting tool, mostly focused on Docs as Code.
+Read the Docs is an open-source hosting tool, mostly focused on Docs as Code.
 This sprint will give you a few options:
 
 * Contribute to their `public documentation <https://docs.readthedocs.io/en/stable/>`_ which is on GitHub
