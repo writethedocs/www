@@ -1,11 +1,12 @@
-{% if not flaghasschedule %}
-**WARNING**: This schedule has not been finalized and is subject to change. The schedule will be finalized around 1 month prior to the event.
-{% endif %}
-
 Write the Docs is more than a conference.
 Each year we organize a wide range of events so that people can come together, collaborate, and learn from each other in different ways.
 
 All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
+
+{% if not flaghasschedule %}
+**WARNING**: This schedule has not been finalized and is subject to change. The schedule will be finalized around 1 month prior to the event.
+{% endif %}
+
 
 .. contents::
     :local:
@@ -18,19 +19,26 @@ All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
 {{date.day_one.dotw}}, {{date.day_one.date}}
 --------------------------------------------------
 
-{% endif %}
+.. raw:: html
 
-{% if flaghashike %}
+   {{ date.day_one.summary }}
+
+{% if flaghasschedule %}
+
+{% with day_schedule=schedule.outing %}
+{% include "include/schedule2021.rst" %}
+{% endwith %}
+
+{% endif %}
 
 Hike
 ~~~~
 
-The only event scheduled on Saturday is the :doc:`annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/outing>`.
 If you get into town early, join us on the hike and take the chance to explore Portland in all of its glory.
 
 * **Where**: Lower Macleay Park or Macleay Park Entrance.
 {% if not flaghasschedule %}
-* **When**: **{{ date.day_two.hike_time }} {{ tz }}**
+* **When**: **{{ hike.date }} {{ tz }}**
 {% endif %}
 * **Details**: :doc:`Annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/outing>`
 
@@ -48,28 +56,20 @@ Further details will be announced later.
 
 {% endif %}
 
+.. raw:: html
+
+   <hr>
 
 {{date.day_two.dotw}}, {{date.day_two.date}}
 -----------------------------------------
 
-The Writing Day will be held in our **{{about.venue}}**.
+.. raw:: html
+
+   {{ date.day_two.summary }}
 
 {% if flaghasfood %}
-
-*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
-
+*Snacks and drinks will be provided throughout the day.*
 {% endif %}
-
-Writing Day
-~~~~~~~~~~~
-
-* **Where**: {{about.venue}}
-{% if not flaghasschedule %}
-* **When**: **{{ date.day_two.writing_day_time }} {{ tz }}**
-{% endif %}
-* **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
-
-.. separator to fix list formatting
 
 {% if flaghasschedule %}
 
@@ -81,50 +81,59 @@ Writing Day
   A detailed schedule will be announced soon.
 {% endif %}
 
+.. _{{shortcode}}-{{year}}-writing-day:
+
+Writing Day
+~~~~~~~~~~~
+
+Get together with other documentarians and work on an open source project and learn some new skills.
+
+* **Where**: {{about.unconfroom}}
+{% if not flaghasschedule %}
+* **When**: **{{ date.day_two.writing_day_time }} {{ tz }}**
+{% endif %}
+* **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
+
+Welcome Wagon Introduction
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Is this your first time at Write the Docs?
+Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees.
+We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new.
+
+* **Where**: {{about.unconfroom}}
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/welcome-wagon`
+
 {% if flaghasfood %}
 
 Reception
 ~~~~~~~~~
 
 We encourage everyone to drop by on Sunday evening for the conference reception.
-We're hoping to have some fun activities planned for the evening online.
+This is a great chance to meet other attendees,
+and make sure you know your way around the conference venue.
 
-* **Where**: {{about.venue}}, {{about.mainroom}}
+* **Where**: {{about.venue}}, {{about.unconfroom}}
 {% if not flaghasschedule %}
-* **When**: **{{ date.day_two.reception_time }} {{ tz }}**
+* **When**: **{{ date.day_two.reception_time }} {{ tz }}** 
 {% endif %}
 
 {% endif %}
-
 
 .. raw:: html
 
    <hr>
 
-
 {{date.day_three.dotw}}, {{date.day_three.date}}
 -----------------------------------------
 
-{{ date.day_three.summary }}
+.. raw:: html
+
+   {{ date.day_three.summary }}
 
 {% if flaghasfood %}
-
-*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
-
+*Snacks and drinks will be provided throughout the day.*
 {% endif %}
-
-Conference Talks
-~~~~~~~~~~~~~~~~
-
-* **Where**: {{about.venue}}
-{% if not flaghasschedule %}
-* **When**: **{{ date.day_three.talk_time }} {{ tz }}**
-{% endif %}
-* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
-
-Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each set of 2 talks.
-
-.. separator to fix list formatting
 
 {% if flaghasschedule %}
 
@@ -136,10 +145,22 @@ Talks are around 30 minutes. Most speakers will have a live, moderated Q&A sessi
     A detailed schedule will be announced soon.
 {% endif %}
 
+Conference Talks
+~~~~~~~~~~~~~~~~
+
+Talks are around 30 minutes, with moderated on-stage 10 minute Q&A.
+
+* **Where**: {{about.venue}}
+{% if not flaghasschedule %}
+* **When**: **{{ date.day_three.talk_time }} {{ tz }}**
+{% endif %}
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
+
 Unconference
 ~~~~~~~~~~~~
 
-The unconference sessions run in parallel to the main conference talks.
+The unconference sessions run in parallel to the main conference talks,
+with each session happening during a corresponding talk on the main stage.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
 {% if not flaghasschedule %}
@@ -147,48 +168,37 @@ The unconference sessions run in parallel to the main conference talks.
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
+{% if about.social_venue %}
+
 Social Event
 ~~~~~~~~~~~~
 
 The official Write the Docs social!
-Further details will be announced later,
-but expect some music and games,
-and bring your favorite beverage to your computer :)
+Expect a relaxed atmosphere where you can chat and network with your fellow documentarians. 
+
+Snacks and drinks (non-alcoholic & alcoholic) will be provided.
 
 * **Where**: {{ about.social_venue }}
 {% if not flaghasschedule %}
-* **When**: **{{ date.day_three.social_time }} {{ tz }}**
+* **When**: **{{ date.day_three.social_time }} {{ tz }}** 
 {% endif %}
-
 
 .. raw:: html
 
    <hr>
 
+{% endif %}
 
 {{date.day_four.dotw}}, {{date.day_four.date}}
 -----------------------------------------
 
-{{ date.day_four.summary }}
+.. raw:: html
+
+   {{ date.day_four.summary }}
 
 {% if flaghasfood %}
-
-*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
-
+*Snacks and drinks will be provided throughout the day.*
 {% endif %}
-
-Conference Talks
-~~~~~~~~~~~~~~~~
-
-* **Where**: {{about.venue}}
-{% if not flaghasschedule %}
-* **When**: **{{ date.day_four.talk_time }} {{ tz }}**
-{% endif %}
-* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
-
-Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each set of 2 talks.
-
-.. separator to fix list formatting
 
 {% if flaghasschedule %}
 
@@ -200,12 +210,24 @@ Talks are around 30 minutes. Most speakers will have a live, moderated Q&A sessi
   A detailed schedule will be announced soon.
 {% endif %}
 
+Conference Talks
+~~~~~~~~~~~~~~~~
+
+Talks are around 30 minutes, with moderated on-stage 10 minute Q&A.
+
+* **Where**: {{about.venue}}
+{% if not flaghasschedule %}
+* **When**: **{{ date.day_four.talk_time }} {{ tz }}**
+{% endif %}
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
+
 {% if flaghasjobfair %}
 
-Job Fair
-~~~~~~~~
+Sponsor Expo
+~~~~~~~~~~~~
 
-We'll be holding a job fair on Tuesday morning!
+The Sponsor Expo is a great chance to talk with some of our sponsors who are hiring,
+and get a sense of the job market.
 
 * **Where**: {{about.venue}}, {{about.job_fair_room }}
 {% if not flaghasschedule %}
@@ -218,7 +240,8 @@ We'll be holding a job fair on Tuesday morning!
 Unconference
 ~~~~~~~~~~~~
 
-The unconference sessions run in parallel to the main conference talks.
+The unconference sessions run in parallel to the main conference talks,
+with each session happening during a corresponding talk on the main stage.
 
 * **Where**: {{about.venue}}, {{about.unconfroom}}
 {% if not flaghasschedule %}

@@ -56,6 +56,15 @@ Pricing
 
 The price for reaching our audience is **$350** per month.
 
+Examples
+--------
+
+.. image:: /_static/img/sponsorship/newsletter-example.png
+   :width: 45%
+
+.. image:: /_static/img/sponsorship/newsletter-example-2.png
+   :width: 45%
+
 Contact
 -------
 

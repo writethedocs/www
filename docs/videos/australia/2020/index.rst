@@ -1,4 +1,4 @@
-Videos of Write the Docs AUSTRALIA 2020
+Videos of Write the Docs Australia 2020
 =============================================================
 
 .. toctree::

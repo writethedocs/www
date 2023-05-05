@@ -60,7 +60,7 @@ def convert_to_yaml(year, series, series_slug, yaml_output, pretalx_slug):
 def retrieve_speaker_info(speaker_codes, http_headers, pretalx_slug):
     result = []
     for speaker_code in speaker_codes:
-        speaker_url = f'https://pretalx.com/api/events/{pretalx_slug}/speakers/{speaker_code}/'
+        speaker_url = f'https://pretalx.com/api/events/{pretalx_slug}/speakers/{speaker_code}/?questions=all'
         print(f'Loading speaker info from {speaker_url}...')
         speaker_response = requests.get(speaker_url, headers=http_headers)
         if speaker_response.status_code != 200:
@@ -77,17 +77,19 @@ def retrieve_speaker_info(speaker_codes, http_headers, pretalx_slug):
 
         result.append(OrderedDict([
             ('name', speaker['name']),
-            ('pronouns', search_answers(speaker, 'pronouns')),
+            ('email', speaker['email']),
+            ('pronouns', search_answers(speaker, 'do you use')),
             ('facts', search_answers(speaker, 'facts')),
             ('pronounce', search_answers(speaker, 'pronounce')),
+            ('slack', search_answers(speaker, 'slack')),
         ]))
     return result
 
 if __name__ == '__main__':
     convert_to_yaml(
-        year='2021',
+        year='2023',
         series='Write the Docs Portland',
         series_slug='portland',
         yaml_output='../_data/mc-info.yaml',
-        pretalx_slug='write-the-docs-portland-2021'
+        pretalx_slug='wtd-portland-2023'
     )

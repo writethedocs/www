@@ -124,7 +124,7 @@ In your report please include, when possible:
 * If you believe this incident is ongoing.
 * Any other information you believe we should have.
 
-If you don’t all of this information at the time, please still make the report and include as much information as you have.
+If you don’t communicate all of this information at the time, please still make the report and include as much information as you have.
 
 If you feel unsafe reporting in person, you may choose someone to represent you. In this case, we’d need their contact information, but we’d ask you to make clear that this person represents you.
 
@@ -141,7 +141,7 @@ Reporting and contact information
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Each Write the Docs conference has a Code of Conduct team. For each conference, their names and contact details are listed below. They will be introduced at the start of the conference. You can also approach any other staff member, who can be identified by t-shirts or special badges.
-* For online platforms, we ask that you make any reports by emailing conduct@writethedocs.org. This is received by all members of the :ref:`core-team`. For reports on incidents on Slack, the core team may involve the :ref:`moderation-team`.
+* For online platforms, we ask that you make any reports by emailing conduct@writethedocs.org. This is received by all members of the :ref:`core-team`. For reports on incidents on Slack, the core team may involve the :ref:`moderation team <moderation-team>`.
 * For meetups, please report the incident to the local meetup organisers. If you feel uncomfortable with this, if you feel the incident was not well handled by the local organisers, or if you are a meetup organiser and would like to ask for input, you can email conduct@writethedocs.org.
 
 If you believe anyone is in physical danger, please notify appropriate law enforcement first when possible. If you are unsure which law enforcement agency is appropriate, please include this in your report and we will attempt to notify them.
@@ -149,7 +149,7 @@ If you believe anyone is in physical danger, please notify appropriate law enfor
 Reports about a Code of Conduct response team member
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If your report concerns a member of the Code of Conduct team of a conference, you can report the issue to any other team response member or any other organiser. For reports regarding meetup organisers, you can make the report to another meetup organiser, if there is one. If this is not possible, or for any reason you feel uncomfortable with this, you can also email conduct@writethedocs.org.
+If your report concerns a member of the Code of Conduct team of a conference, you can report the issue to any other response team member or any other organiser. For reports regarding meetup organisers, you can make the report to another meetup organiser, if there is one. If this is not possible, or for any reason you feel uncomfortable with this, you can also email conduct@writethedocs.org.
 
 If your report concerns a member of the :ref:`core-team`, which receives emails to conduct@writethedocs.org, you can report the issue individually to any of the other core team members.
 
@@ -158,8 +158,8 @@ Portland conference Code of Conduct Team
 
 .. include:: include/conf/coc/na-coc.rst
 
-Prague conference Code of Conduct Team
---------------------------------------
+Atlantic conference Code of Conduct Team
+----------------------------------------
 
 .. include:: include/conf/coc/eu-coc.rst
 
@@ -167,11 +167,6 @@ Australia Code-of-Conduct Team
 ------------------------------
 
 .. include:: include/conf/coc/au-coc.rst
-
-Vilnius Code-of-Conduct Team
-------------------------------
-
-.. include:: include/conf/coc/vilnius-coc.rst
 
 
 Thanks

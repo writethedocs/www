@@ -7,6 +7,7 @@ local_area: str()
 area: str()
 area_adj: str()
 tz: str()
+tz_header: str(required=False)
 email: str()
 color: str(required=False)
 hex: str(required=False)
@@ -36,7 +37,6 @@ unconf: include('unconf-details', required=False)
 lightning_talks: include('lightning_talks-details', required=False)
 hike: include('hike-details', required=False)
 
-
 flaghassponsors: bool()
 flagcfp: bool()
 flagticketsonsale: bool()
@@ -50,6 +50,7 @@ flaglivestreaming: bool(required=False)
 flagvideos: bool(required=False)
 flagpostconf: bool(required=False)
 flagcancelled: bool(required=False)
+flagisvirtual: bool(required=False)
 
 flaghasshirts: bool(required=False)
 
@@ -62,8 +63,6 @@ flaghasboat: bool()
 flaglanding: bool()
 flaghasbadgeflair: bool(required=False)
 flaghasfood: bool(required=False)
-
-
 
 ---
 
@@ -120,6 +119,7 @@ day-details:
   writing_day_time: str(required=False)
   talk_time: str(required=False)
   unconference_time: str(required=False)
+  reception_time: str(required=False)
   job_fair_time: str(required=False)
   social_time: str(required=False)
 
@@ -147,14 +147,13 @@ sponsors-details:
   writing_day: list(include('sponsor-detail'), required=False)
   in_kind: list(include('sponsor-detail'), required=False)
 
-
 sponsor-detail:
   name: str(required=True)
   link: str(required=True)
   brand: str(required=True)
   text: str(required=False)
   width: str(required=False)
-
+  min_width: str(required=False)
 
 about-details:
   summary: str(required=False)
@@ -188,6 +187,7 @@ shirts-details:
 
 unconf-details:
   url: str(required=True)
+  date: str(required=False)
 
 hike-details:
   date: str(required=False)

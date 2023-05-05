@@ -13,3 +13,5 @@ docs/meetups/events.rst
 .vscode
 docs/_data/mc-info.yaml
 docs/_scripts/mc-info.md
+*-cfp-reviews.csv
+*.code-workspace

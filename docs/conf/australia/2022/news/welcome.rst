@@ -4,10 +4,10 @@
    :tags: {{shortcode}}-{{year}}, website, tickets
 
 Announcing Write the Docs Australia {{year}}
-===================================================
+==============================================
 
 G'day and welcome to the official launch of `Write the Docs Australia {{year}} <https://www.writethedocs.org/conf/australia/{{year}}/>`_,
-our sixth virtual conference.
+our fifth virtual conference.
 
 We're excited to announce the dates for our next conference:
 **Write the Docs Australia 2022 will be on December 8-9, 2022**

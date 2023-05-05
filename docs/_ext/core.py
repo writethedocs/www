@@ -1,5 +1,6 @@
 from __future__ import print_function
 
+from jinja2 import TemplateError
 from yaml import YAMLError
 from .utils import load_yaml
 
@@ -77,7 +78,7 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
 
     # Do some additional contextual validation that can't be done by a YAML schema validator.
     # This aims to produce clear warnings rather than unexplained empty schedule output.
-    if data['flaghaswritingday'] and 'writing_day' not in schedule:
+    if data['flaghaswritingday'] and 'writing_day' not in schedule and shortcode != 'australia':
         raise Exception('ERROR Missing key "writing_day" while reading schedule from %s' %
                         schedule_yaml_file)
     for day in range(1, data['date']['total_talk_days'] + 1):
@@ -108,7 +109,7 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
                         (schedule_item.get('slug', schedule_item.get('title')), page)
                     )
                 schedule_item['time'] = item_start.strftime(TIME_FORMATS[data['time_format']])
-                if not next_item_default_start:  # first schedule item of the day
+                if not next_item_default_start and not data.get('flaghasfood'):  # first schedule item of the day
                     schedule_item['time'] += ' ' + data['tz']
                 next_item_default_start = item_start + duration
 
@@ -179,10 +180,13 @@ def render_rst_with_jinja(app, docname, source):
     conf_context = load_conference_page_context(app, docname)
     final_context.update(conf_context)
     src = source[0]
-    rendered = app.builder.templates.render_string(src, final_context)
-    source[0] = rendered
-
-
+    try:
+        rendered = app.builder.templates.render_string(src, final_context)
+        source[0] = rendered
+    except TemplateError as exc:
+        message = exc.message + f' - while rendering {docname}'
+        raise TemplateError(message=message)
+    
 def override_template_load_context(app, pagename, templatename, context, doctree):
     """
     Set the template to use when rendering the page.
