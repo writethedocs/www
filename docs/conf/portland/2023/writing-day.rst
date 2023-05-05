@@ -32,6 +32,52 @@ Project Listing
 
 Here are some of the projects that you can work on during Writing Day!
 
+Blueprint (morning session)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`Blueprint <https://github.com/dendronhq/blueprint>`_ is an experimental spec and toolchain to define the organization, structure, and 
+layout of docs. You can use blueprint to scaffold, migrate, analyze, and validate documentation. 
+
+Use blueprint to create **schemas** that describe the structure of common doc types like 
+reference docs, how tos, discussions, and tutorials. You can use schemas to create new docs as 
+well as validate that existing docs conform to the given schema.
+
+Blueprint is meant to work with any language via plugins and will come with built-in 
+support for github flavored markdown.
+
+Blueprint is at this stage more concept than implementation. Our Writing Day goal is to write 
+the documentation for some of Blueprint's core features!
+
+Depending on time, we plan to cover some or all of the following topics. We believe the initial 
+work here includes:
+
+* blueprint spec: the syntax used in defined blueprints
+* we will go over the syntax and clarify any ambiguity as well as add additional features: 
+  `blueprint validate <schema> <targetFile>`: check that <targetFile> matches a given blueprint     
+* we will go over what the output of validation should look like:
+  `blueprint migrate <schema>`: mechanisms to evolve schemas over time and apply the changes to all docs that implement the schema     
+* we will go over the means of a migration, how this is implemented, and how a developer can define a migration: 
+  `blueprint <your-idea-here>`: new blueprint functionality     
+
+Additionally, we'd love to go over any burning pain points you have with docs that you think a 
+tool like blueprint could solve.
+
+EkLine
+~~~~~~
+
+`EkLine <https://ekline.io/>`_ is a software solution that integrates seamlessly into your content creation pipeline.
+It provides automatic quality checks, utilizing a unique blend of grammar, style, and custom
+rules to ensure consistency across your documents. We use advanced AI, machine learning
+algorithms, and a diverse set of proofreading tools, including `vale.sh`, for high-quality suggestions.
+
+We are a software tool that makes technical writing easy, but ironically we are missing documentation
+for our customers.
+
+Our Writing Day goal is to:
+
+* Get input about our `current tech stack <https://github.com/ekline-io>`_
+* Brainstorm on an effective documentation strategy
+
 The Good Docs Project
 ~~~~~~~~~~~~~~~~~~~~~
 
