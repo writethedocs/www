@@ -1331,6 +1331,18 @@ Considering only their salary and benefits, employee respondents were asked to r
    | Very satisfied   |  134 | 27.3% |
    +------------------+------+-------+
 
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Salary satisfaction (2022)" aria-describedby="figure-salary-satisfaction_desc" type="image/svg+xml" data="/_images/2022-salary-satisfaction.svg">
+         <p id="figure-salary-satisfaction_desc">Donut chart showing level of satisfaction with salary and benefits for employee respondents.</p>
+      </object> 
+      <figcaption>Figure: Salary satisfaction (2022)</figcaption>
+   </figure>
+
+.. figure:: images/2022/2022-salary-satisfaction.svg
+   :class: hide
+
 Respondents were then asked to indicate reasons for any dissatisfaction - again, considering only their salary and benefits. The largest proportion of respondents - 42.4% - chose no reason (including 2 of the respondents who indicated they were "very unsatisfied").
 
 .. table:: Reasons for salary dissatisfaction (2022)
@@ -1387,6 +1399,18 @@ Respondents were asked to consider their overall employment situation - separate
    +------------------+-----+-------+
    | Very satisfied   | 160 | 32.6% |
    +------------------+-----+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Job satisfaction (2022)" aria-describedby="figure-job-satisfaction_desc" type="image/svg+xml" data="/_images/2022-job-satisfaction.svg">
+         <p id="figure-job-satisfaction_desc">Donut chart showing level of satisfaction with overall employment situation for employee respondents.</p>
+      </object> 
+      <figcaption>Figure: Job satisfaction (2022)</figcaption>
+   </figure>
+
+.. figure:: images/2022/2022-job-satisfaction.svg
+   :class: hide
 
 Respondents were then asked to select reasons for dissatisfaction, if any. Again, the largest proportion of respondents - 33.2% - did not choose or enter a reason (including one respondent who indicated they were "very unsatisfied"). 
 

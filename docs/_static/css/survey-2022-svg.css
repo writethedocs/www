@@ -1,7 +1,6 @@
 :root {
   --label-color: #A39F9F;
 
-
 	--color1: #00BBD8;
 	--color1-dark: #008197;
 	--color2: #FFA600;
@@ -44,13 +43,10 @@
 	--color-five-of-six: #BCBC1A;
 	--color-six-of-six: #FFA600;
 
-	
-
-
 }
 
 @font-face{font-family:"tabular-numbers";src:local("charter"),local("cambria");unicode-range:U+0030-0039}
-text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important;font-size:14px;fill:var(--label-color)}
+text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important;fill:var(--label-color)}
 
 /* legends */
 .legend .labels text{font-size:12px}
@@ -73,6 +69,12 @@ text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important;fo
 /* styles */
 .axis-lines path{stroke:#F0F0F0}
 .donut-chart .data path{stroke-width:2px;stroke:#FFF}
+
+/* wordcloud */
+.wordcloud .one-of-four{fill:var(--color-one-of-four)}
+.wordcloud .two-of-four{fill:var(--color-two-of-four)}
+.wordcloud .three-of-four{fill:var(--color-three-of-four)}
+.wordcloud .four-of-four{fill:var(--color-four-of-four)}
 
 /* data colors: one segment */
 .bar-chart .data path{fill:var(--color1)}
@@ -136,6 +138,18 @@ text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important;fo
 .connectors .neutral{stroke:var(--color-neutral)}
 .connectors .positive{stroke:var(--color-positive)}
 .connectors .very-positive{stroke:var(--color-very-positive)}
+
+/* data colors: satisfaction scale */
+.data .very-unsatisfied{fill:var(--color-very-negative)}
+.data .unsatisfied{fill:var(--color-negative)}
+.data .neutral-satisfaction{fill:var(--color-neutral)}
+.data .satisfied{fill:var(--color-positive)}
+.data .very-satisfied{fill:var(--color-very-positive)}
+.connectors .very-unsatisfied{stroke:var(--color-very-negative)}
+.connectors .unsatisfied{stroke:var(--color-negative)}
+.connectors .neutral-satisfaction{stroke:var(--color-neutral)}
+.connectors .satisfied{stroke:var(--color-positive)}
+.connectors .very-satisfied{stroke:var(--color-very-positive)}
 
 /* data colors: work location */
 .data .remote-required,.legend .remote-required{fill:var(--color-remote-required)}
