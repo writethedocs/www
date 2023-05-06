@@ -6,8 +6,8 @@ Sponsor Expo
 This year we're inviting our top sponsors to engage with our attendees at our Sponsor Expo.
 This is a combination of two things:
 
-* A job fair, where companies can talk with attendees who are interested in work
-* Product demos, for companies building products that our audience might use
+* Companies that are hiring, where companies can talk with attendees who are interested in work.
+* Companies that build products for docs folks, where you can learn more about what people are building.
 
 We're looking forward to facilitating constructive networking, connecting people with jobs and employers, and hearing more from some of our sponsors. 
 
