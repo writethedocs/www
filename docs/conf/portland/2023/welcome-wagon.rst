@@ -20,7 +20,7 @@ We've gathered info here that will help you navigate the conference like a pro a
 Welcome Wagon Tours
 ~~~~~~~~~~~~~~~~~~~
 
-+ Sunday at noon
++ Sunday at 11am
 + Sunday at 2:00pm
 + Monday morning at 8:15am
 

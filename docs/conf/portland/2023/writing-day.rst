@@ -34,6 +34,29 @@ Project Listing
 
 Here are some of the projects that you can work on during Writing Day!
 
+Metrics wonderland
+~~~~~~~~~~~~~~~~~~
+
+Welcome to Cyclone, we are building an analytics tool that shows how users interact 
+with your content, starting from your docs to other areas like creating support 
+tickets and APIs. We are designing our project to help understand what technical 
+writers need and we want your feedback to help us focus on the most important features.
+
+Looking to unleash the hidden superpower of technical writers? Imagine being able 
+to see everything users do after reading your docs! We believe technical writers’ 
+contribution deserves more recognition, especially in this tech downturn amid waves 
+of layoffs. We hope folks can gain a few ideas about showcasing their 
+impact after this exercise!
+
+Join us for a day of creative brainstorming or daydreaming! Our goal is to create a space 
+where to:
+
+* Collaborate on developing metrics that truly reflect the impact of your work. 
+* Write a captivating blog post about your findings.
+
+With your feedback and our expertise and passion for software engineering, let's see which 
+of these metrics can be brought to life!
+
 Blueprint (morning session)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
