@@ -9,7 +9,7 @@
 </defs>
 
 <title>Team breakdown (2022)</title>
-<desc>DDonut chart showing team breakdown: whether respondents worked solo (15.4%), as part of a team (45.3%), as part of multiple teams (21.9%), as a team leader (16.2%), or some other configuration (1.1%).</desc>
+<desc>Donut chart showing team breakdown: whether respondents worked solo (15.4%), as part of a team (45.3%), as part of multiple teams (21.9%), as a team leader (16.2%), or some other configuration (1.1%).</desc>
 	
 <g class="donut-chart">
 	<g class="data">
@@ -21,11 +21,11 @@
 		<path d="M325.478 44.6012C329.378 44.3302 333.286 44.1918 337.196 44.1864L337.316 130.416C335.361 130.418 333.407 130.487 331.457 130.623L325.478 44.6012Z" class="five-of-five"/>
 	</g>
 	<g class="connectors">
-		<path d="M543.338 187.068C538.251 187.068 512.08 190.923 510.067 191.219L508.053 191.516" class="one_of_five"/>
-		<path d="M254.007 403.9C259.095 403.9 269.304 379.496 270.09 377.618L270.875 375.741" class="two_of_five"/>
-		<path d="M129.422 211.858C134.51 211.858 160.956 212.482 162.99 212.53L165.025 212.578" class="three_of_five"/>
-		<path d="M225.651 43.967C230.739 43.967 244.644 66.4714 245.714 68.2025L246.783 69.9336" class="four_of_five"/>
-		<path d="M325.328 13.784C330.415 13.784 331.33 40.222 331.4 42.2557L331.471 44.2894" class="five_of_five"/>
+		<path d="M543.338 187.068C538.251 187.068 512.08 190.923 510.067 191.219L508.053 191.516" class="one-of-five"/>
+		<path d="M254.007 403.9C259.095 403.9 269.304 379.496 270.09 377.618L270.875 375.741" class="two-of-five"/>
+		<path d="M129.422 211.858C134.51 211.858 160.956 212.482 162.99 212.53L165.025 212.578" class="three-of-five"/>
+		<path d="M225.651 43.967C230.739 43.967 244.644 66.4714 245.714 68.2025L246.783 69.9336" class="four-of-five"/>
+		<path d="M325.328 13.784C330.415 13.784 331.33 40.222 331.4 42.2557L331.471 44.2894" class="five-of-five"/>
 	</g>
 	<g class="value-labels">
 		<text><tspan x="549.99" y="191.72">Team 45.3%</tspan></text>
