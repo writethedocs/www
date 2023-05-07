@@ -109,7 +109,7 @@ date: # how do we handle these? human readable would be nice.
   conference:
     event: Main Conference
     date: May 8-9
-    summary: The main days of the conference. We will be running one main track of talks, as well as a <a href="/conf/portland/2023/job-fair/">Job Fair</a>, <a href="/conf/portland/2023/lightning-talks/">Lightning Talks</a> & <a href="/conf/portland/2023/unconference/">Unconference</a>.
+    summary: The main days of the conference. We will be running one main track of talks, as well as a <a href="/conf/portland/2023/job-fair/">Sponsor Expo</a>, <a href="/conf/portland/2023/lightning-talks/">Lightning Talks</a> & <a href="/conf/portland/2023/unconference/">Unconference</a>.
     icon: conference
 
   # These are listed in the schedule
@@ -140,7 +140,7 @@ date: # how do we handle these? human readable would be nice.
   day_four:
     event: Conference Day 2
     date: May 9
-    summary: And the conference goes on! More talks and unconference today, along with our job fair!
+    summary: And the conference goes on! More talks and unconference today, along with our Sponsor Expo!
     dotw: Tuesday
     talk_time: 9am-4pm
     job_fair_time: 9-12pm
