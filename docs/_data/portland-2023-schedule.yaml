@@ -135,6 +135,8 @@ talks_day2:
     slug: great-big-engineering-org-itty-bitty-docs-team-kari-halsted
   - duration: '0:10'
     title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
   - duration: '0:30'
     slug: winning-over-coworkers-collaborators-and-customers-to-a-new-knowledge-experien-jennifer-a-swallow
   - duration: '0:10'
