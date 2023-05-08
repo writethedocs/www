@@ -45,7 +45,7 @@ talks_day1:
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: winning-over-coworkers-collaborators-and-customers-to-a-new-knowledge-experien-jennifer-a-swallow
+    slug: from-resistance-to-adoption-navigating-the-challenges-of-docs-like-code-adam-altman
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:15'
@@ -79,7 +79,7 @@ talks_day1:
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: from-resistance-to-adoption-navigating-the-challenges-of-docs-like-code-adam-altman
+    slug: doing-data-driven-content-maintenance-alex-garnett
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:10'
@@ -112,7 +112,7 @@ talks_day2:
   - duration: '0:15'
     title: '☕ Coffee break'
   - duration: '0:30'
-    slug: doing-data-driven-content-maintenance-alex-garnett
+    slug: winning-over-coworkers-collaborators-and-customers-to-a-new-knowledge-experien-jennifer-a-swallow
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:05'
