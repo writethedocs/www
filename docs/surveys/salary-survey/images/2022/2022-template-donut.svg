@@ -2,12 +2,12 @@
   <defs>
     <style type="text/css">
       <![CDATA[
-        @import url(/_static/css/survey-2021-svg.css);
+        @import url(/_static/css/survey-2022-svg.css);
       ]]>
     </style>
     
   </defs>
-  <title>Chart title (2021)</title>
+  <title>Chart title (2022)</title>
   <desc>Donut chart showing ...</desc>
  
 		<g class="legend">
