@@ -30,20 +30,20 @@ buttons:
   #     link: /welcome-wagon
   #   - text: See the Schedule!
   #     link: /schedule
-    # - text: Buy a Ticket!
-    #   link: /tickets
+  # - text: Buy a Ticket!
+  #   link: /tickets
   #  - text: See the talks!
   #    link: /speakers
-    - text: Schedule
-      link: /schedule
-    - text: Attendee Guide
-      link: /welcome-wagon
+  #  - text: Schedule
+  #    link: /schedule
+  #  - text: Attendee Guide
+  #    link: /welcome-wagon
   #   - text: Watch the Live Stream
   #     link: /livestream
   #   - text: Watch the videos!
   #     link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpnDhFvXG8GprqlLlzSQRBui
-  #   - text: Thanks for coming
-  #     link: /news/thanks-recap
+    - text: Thanks for coming
+      link: /news/thanks-recap
   bottom:
   #   - text: Welcome to our conference
   #     link: /news/welcome
@@ -51,8 +51,8 @@ buttons:
     #   link: /sponsors/prospectus
   #   - text: Submit a Talk
   #     link: /cfp
-    - text: See the Schedule
-      link: /schedule
+  #  - text: See the Schedule
+  #    link: /schedule
   #   - text: Date and ticket information
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: See the talks!
@@ -65,8 +65,8 @@ buttons:
   #    link: /schedule
   #   - text: Watch the Live Stream
   #     link: /livestream
-  #   - text: Browse the photos
-  #     link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+    - text: Browse the photos
+      link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720308088427
   #   - text: Watch the videos!
   #     link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
 
@@ -266,7 +266,7 @@ flaghasunconf: True
 flaghasshirts: False
 flaglivestreaming: True
 flagvideos: False
-flagpostconf: False
+flagpostconf: True
 
 # Truthy things that don't change
 flaghashike: True
