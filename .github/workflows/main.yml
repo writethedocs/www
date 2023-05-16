@@ -30,7 +30,7 @@ jobs:
           vale_flags: "--config=vale/vale.ini"
           reporter: github-pr-check
           fail_on_error: true
-          filter_mode: nofilter
+          filter_mode: file
 
 
       - name: Vale Guide Linter
@@ -44,7 +44,7 @@ jobs:
           vale_flags: "--config=vale/guide.ini"
           reporter: github-pr-check
           fail_on_error: true
-          filter_mode: nofilter
+          filter_mode: file
 
 
   yaml-validate:
