@@ -30,6 +30,8 @@ jobs:
           vale_flags: "--config=vale/vale.ini"
           reporter: github-pr-check
           fail_on_error: true
+          filter_mode: nofilter
+
 
       - name: Vale Guide Linter
         uses: errata-ai/vale-action@reviewdog
@@ -42,6 +44,8 @@ jobs:
           vale_flags: "--config=vale/guide.ini"
           reporter: github-pr-check
           fail_on_error: true
+          filter_mode: nofilter
+
 
   yaml-validate:
     runs-on: ubuntu-latest
