@@ -36,7 +36,7 @@ You can also subscribe to our `YouTube channel`_ so you don’t miss any future 
 Thanks again to all our presenters, moderator, and folks who asked wonderful questions!
 Huge thanks also to `Bart at Work`_ who flew out to handle the A/V production to great effect.
 
-.. _Videos of the talks: TODO
+.. _Videos of the talks: https://www.youtube.com/playlist?list=PLZAeFn6dfHpneQPsDWa4OmEpgW4pNiaZ2
 .. _Bart at Work: https://www.bartatwork.com/
 .. _YouTube channel: https://www.youtube.com/writethedocs
 
