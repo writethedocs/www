@@ -27,12 +27,12 @@ buttons:
     #  link: /welcome-wagon
     #- text: See the Schedule!
     #  link: /schedule
-    #- text: Buy a Ticket!
-    #  link: /tickets
+    - text: Buy a Ticket!
+      link: /tickets
     - text: Sponsor us
       link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
+    #- text: Submit a Talk
+    #  link: /cfp
 #    - text: See the talks!
 #      link: /speakers
     #- text: See the Schedule!
@@ -67,11 +67,11 @@ buttons:
 
 tickets:
   concierge:
-    price: €250
+    price: €300
   corporate:
-    price: €150
+    price: €200
   independent:
-    price: €100
+    price: €125
   student:
     price: €25
 
@@ -89,7 +89,7 @@ sponsorship:
 date:
   main: "**September 10-12, 2023, online**"
   short: Sep 10-12, 2023
-  tickets_live: "April 2023"
+  tickets_live: "May 2023"
   month: September
   # Conference is special for the index to show the combined conference days
   conference:
@@ -171,10 +171,10 @@ sponsors:
 
 
 # Things that change over time, listed in order of change
-flagcfp: True
+flagcfp: False
 flaglanding: False
 flaghassponsors: False
-flagticketsonsale: False
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False
