@@ -1,11 +1,11 @@
 :template: {{year}}/generic.html
 :banner: _static/conf/images/headers/venue.png
 
-.. post:: May 22, 2023
+.. post:: May 18, 2023
    :tags: recap, thanks, {{shortcode}}-{{year}}
 
-Conference highlights and thanks for attending!
-===============================================
+Conference videos, photos, and info to keep in touch
+====================================================
 
 Hey everyone,
 
@@ -15,7 +15,8 @@ everyone for helping to make our conference such a
 success. We appreciate everyone who makes the conference possible:
 speakers, sponsors, organizers, and attendees alike!
 
-Its especially gratifying to see so many folks join us in what has been a really tough year so for many, and in our first in-person conference in some years!
+Its especially gratifying to see so many folks join us in what has been a really tough year so for many,
+and in our first in-person conference in 4 years!
 
 Conference recap
 ----------------
@@ -30,27 +31,31 @@ Talk videos
 -----------
 
 `Videos of the talks`_ are now available on YouTube. This
-includes all conference talks and Q&A, as well as the lightning talks.
+includes all conference talks with Q&A, as well as the lightning talks.
 You can also subscribe to our `YouTube channel`_ so you don’t miss any future content.
 
 Thanks again to all our presenters, moderator, and folks who asked wonderful questions!
-Huge thanks also to `Bart at Work`_ who flew out to handle the A/V production to great effect.
 
 .. _Videos of the talks: https://www.youtube.com/playlist?list=PLZAeFn6dfHpneQPsDWa4OmEpgW4pNiaZ2
-.. _Bart at Work: https://www.bartatwork.com/
 .. _YouTube channel: https://www.youtube.com/writethedocs
+
+Conference Photos
+-----------------
+
+We have photos from the event available `on Flickr <https://www.flickr.com/photos/writethedocs/albums/72177720308088427>`_, thanks to our wonderful photographer `Kay <https://twitter.com/goatlady>`_! 
+We really love the photos each year, and you're welcome to use them for non-commercial purposes, such as conference write ups, as per our `Creative Commons License <https://creativecommons.org/licenses/by-nc-sa/2.0/>`_.
 
 Come see us at our Atlantic or Australia conferences
 ----------------------------------------------------------
 
-Don’t forget our `Atlantic online-only conference`_ on **September 10-12**, and our
-`Australia conference`_ on **Dec 7-8**.
+Don’t forget our `Atlantic virtual conference`_ on **September 10-12**, and our
+`Australia in-person conference`_ on **December 7-8**.
 
 We’re also looking for more sponsors to make our other events just as
 magical as this year’s Portland event. You can see all our `sponsorship options`_ on our website.
 
-.. _Atlantic online-only conference: https://www.writethedocs.org/conf/atlantic/2023/
-.. _Australia conference: https://www.writethedocs.org/conf/australia/2023/
+.. _Atlantic virtual conference: https://www.writethedocs.org/conf/atlantic/2023/
+.. _Australia in-person conference: https://www.writethedocs.org/conf/australia/2023/
 .. _sponsorship options: https://www.writethedocs.org/sponsorship/
 
 Write the Docs Slack
@@ -82,13 +87,8 @@ with other documentarians near your hometown. We have a number of
 meetups in cities across the country, and if you don’t see your city
 listed consider `starting`_ a meetup!
 
-New this year are our `Quorum Meetups`_ which are virtual and targeting
-large geographic areas. There’s already one covering most everyone in
-the US or in a similar timezone.
-
 .. _build the meetup community: http://www.writethedocs.org/meetups/
 .. _starting: http://www.writethedocs.org/organizer-guide/meetups/starting/
-.. _Quorum Meetups: https://www.writethedocs.org/meetups/#current-meetups-quorum
 
 Code of Conduct transparency report
 -----------------------------------
