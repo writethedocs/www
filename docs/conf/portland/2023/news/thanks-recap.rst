@@ -39,7 +39,7 @@ Thanks again to all our presenters, moderator, and folks who asked wonderful que
 .. _Videos of the talks: https://www.youtube.com/playlist?list=PLZAeFn6dfHpneQPsDWa4OmEpgW4pNiaZ2
 .. _YouTube channel: https://www.youtube.com/writethedocs
 
-Conference Photos
+Conference photos
 -----------------
 
 We have photos from the event available `on Flickr <https://www.flickr.com/photos/writethedocs/albums/72177720308088427>`_, thanks to our wonderful photographer `Kay <https://twitter.com/goatlady>`_! 
@@ -58,8 +58,8 @@ magical as this year’s Portland event. You can see all our `sponsorship option
 .. _Australia in-person conference: https://www.writethedocs.org/conf/australia/2023/
 .. _sponsorship options: https://www.writethedocs.org/sponsorship/
 
-Write the Docs Slack
---------------------
+Join our Slack Network
+----------------------
 
 Our Slack network has really grown more this last year. Our #general
 Slack channel has been extra busy in the days and weeks leading up to
@@ -69,8 +69,8 @@ the `Write the Docs Slack`_.
 
 .. _Write the Docs Slack: http://www.writethedocs.org/slack/
 
-Write the Docs Newsletter
--------------------------
+Subscribe to our Newsletter
+---------------------------
 
 Our `monthly newsletter`_ is the other place to keep track of everything
 that is happening with the community. Subscribe to make sure you hear
@@ -79,7 +79,7 @@ relevant conversations in our Slack.
 
 .. _monthly newsletter: http://writethedocs.org/newsletter/
 
-Local Meetups
+Join a meetup
 -------------
 
 We hope you continue to `build the meetup community`_ and keep in touch
@@ -125,5 +125,5 @@ Thanks so much to the following companies for supporting the Portland conference
 
 We're so grateful to our sponsors, speakers, volunteers, and attendees
 for making this conference possible. Whether you were able to come out
-this time or not, we hope to see you again next year – or
+this time or not, we hope to see you again next year - or
 even sooner at one of our other events!
