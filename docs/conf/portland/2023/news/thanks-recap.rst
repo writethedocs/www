@@ -61,11 +61,12 @@ magical as this year’s Portland event. You can see all our `sponsorship option
 Join our Slack Network
 ----------------------
 
-Our Slack network has really grown more this last year. Our #general
-Slack channel has been extra busy in the days and weeks leading up to
-the conference, and we hope that y’all continue the conversations
-throughout the year. If you haven’t joined, now is the time! Check out
-the `Write the Docs Slack`_.
+Our Slack network has really grown over the past few years.
+It has been extra busy in the days and weeks leading up to the conference,
+and we hope that y'all continue the conversations throughout the year. 
+
+If you haven’t joined, now is the time!
+Check out the `Write the Docs Slack`_.
 
 .. _Write the Docs Slack: http://www.writethedocs.org/slack/
 
@@ -100,7 +101,7 @@ We aim to be as transparent with CoC incidents and enforcement as we can.
 To ensure that our CoC was visible and accessible, we took a number of specific steps:
 
 - Every participant agreed to the Code of Conduct in advance during registration.
-- The CoC, or a summary, was included on the conference website and Hopin Reception
+- The CoC, or a summary, was included on the conference website and around the venue.
 - The CoC was repeatedly mentioned in our conference introduction and announcements.
 - We specifically stressed that the CoC applies to all conference spaces including the social event.
 - We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.
