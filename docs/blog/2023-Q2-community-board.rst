@@ -7,7 +7,7 @@ Write the Docs Community Board Quarterly Update Q2-2023
 
 Greetings, documentarians! Mikey Ariel here, chairperson of the WTD community board.
 
-Last quarter we published our first `quarterly update blog post <https://www.writethedocs.org/blog/2023-Q1-community-board/>`_, where we introduced the team and gave an overview of how the board will aim to support and evolve the community. 
+Last quarter we published our first `quarterly update blog post <https://www.writethedocs.org/blog/2023-Q1-community-board/>`_, where we introduced the team and gave an overview of how the board aims to support the WTD community. 
 
 Q2 quarterly meeting highlights
 -------------------------------
@@ -17,10 +17,10 @@ Our second meeting focused on further refining our meta-work, such as where the 
 Historically, WTD used a Kanban board to track ideas for community initiatives and cross-functional tasks, such as infrastructure maintenance and meetup support. 
 Between our Q1 meeting and the Q2 meeting, we have spent some time reviewing and organizing this Kanban board, with the intention of landing on a "clean backlog" that will help us prioritize work and help the team leads to track their tasks, share resources, and ask for help. 
 
-During the meeting we looked at the main areas of the community that had active tasks in the backlog, and agreed to take the information back to our respective teams, as well as consider them as team leads for further triage in the upcoming months. 
+During the meeting we looked at the main areas of the community that had active tasks in the backlog, and agreed to take the information back to our respective teams and consider them for further triage in the upcoming months. 
 
 Another topic of discussion was the the #bipoc Slack channel and BIPOC stories in the newsletter. 
-Recently, it has become apparent that the community engagement was lower in those spaces, so in order to prevent burnout of the coordinator we recommended to take a breather from actively sourcing content. 
+Recently, it has become apparent that the community engagement was lower in those spaces, so in order to prevent burnout of the coordinator the newsletter and Slack team leads suggested to take a breather from actively sourcing content. 
 
 Our community has always voted with its time and energy, and we believe that when the need arises again for content and discussions in those spaces, the community will make sure that we are aware of it and we will be happy to support it. 
 The announcement and thank-you to the coordinator, Heather Zoppetti, was published in the `May 2023 newsletter <https://www.writethedocs.org/blog/newsletter-may-2023/>`_.
@@ -31,7 +31,7 @@ We also hope to look at how the first in-person Portland conference since the be
 What is the community board
 ---------------------------
 
-The `Community Board <https://www.writethedocs.org/team/#community-board>`_ exists to curate the overall strategic direction of the community.
+The `Community Board <https://www.writethedocs.org/team/#community-board>`_ exists to curate the overall strategic direction of the community teams.
 
 The board members are team leads for each WTD team, as well as the conference chairs of our various conferences:
 
