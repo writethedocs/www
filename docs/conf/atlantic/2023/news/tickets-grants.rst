@@ -9,7 +9,7 @@ Announcing Ticket Sales and Grant Program
 Greetings, documentarians! Today we're happy to announce that tickets for our {{name}} conference are `on sale now <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_ and our `Opportunity Grant program <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/>`_ is open.
 
 Following the success of our previous virtual conferences, we look forward to our first Atlantic conference.
-The Call for Papers has closed and we're currently reviewing all proposals. We're looking forward to announcing
+The Call for Papers has closed and we're currently reviewing all proposals. We're planning to announce
 our speakers in the next few weeks.
 
 
