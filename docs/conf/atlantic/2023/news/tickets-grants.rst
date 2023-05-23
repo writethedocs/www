@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: May 1st, 2023
+.. post:: May 23rd, 2023
    :tags: {{shortcode}}-{{year}}, website, tickets
 
 Announcing Ticket Sales and Grant Program
@@ -10,13 +10,16 @@ Greetings, documentarians! Today we're happy to announce that tickets for {{name
 
 Following the success of our previous virtual conferences, we look forward to our first Atlantic conference.
 The Call for Papers has closed and we're currently reviewing all proposals. We're looking forward to announcing
-our speakers soon.
+our speakers in the next few weeks.
 
 
 Get your ticket for the conference
 ----------------------------------
 
 **The {{name}} conference will be held online on {{ date.short }}.** The `full event website <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/>`_ is live, with most details, and we'll be filling in more as it gets closer.
+The schedule will run from the
+early afternoon to early evening in most European/African timezones,
+and from early morning to late afternoon in US East Coast/South America timezones.
 
 Tickets are on sale now, so go ahead and `register for your ticket now <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_! Even though our capacity is more flexible due to the virtual event platform, we might still sell out to make sure we're providing a manageable event size for our attendees, as always.
 
