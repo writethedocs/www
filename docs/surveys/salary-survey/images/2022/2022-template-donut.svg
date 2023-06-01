@@ -1,0 +1,42 @@
+<svg width="100%" height="100%" viewBox="0 0 660 417" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2022-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+  <title>Chart title (2022)</title>
+  <desc>Donut chart showing ...</desc>
+ 
+		<g class="legend">
+
+		</g>
+
+		<g class="donut-chart left">
+		<g class="data">
+			
+			
+		</g>
+		<g class="connectors">
+			
+		</g>
+		<g class="value-labels">
+			
+		</g>
+	</g>
+
+	<g class="donut-chart right">
+		<g class="data">
+			
+
+		</g>
+		<g class="connectors">
+			
+		</g>
+		<g class="value-labels">
+			
+		</g>
+	</g>
+</svg>

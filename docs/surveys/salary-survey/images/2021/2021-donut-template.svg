@@ -9,12 +9,28 @@
   </defs>
   <title>Chart title (2021)</title>
   <desc>Donut chart showing ...</desc>
-	<g class="donut-chart">
+ 
+		<g class="legend">
+
+		</g>
+
+		<g class="donut-chart left">
 		<g class="data">
 			
-			<g class="gradient-overlay" style="mix-blend-mode:color-burn" opacity="0.5">
-				
-			</g>
+			
+		</g>
+		<g class="connectors">
+			
+		</g>
+		<g class="value-labels">
+			
+		</g>
+	</g>
+
+	<g class="donut-chart right">
+		<g class="data">
+			
+
 		</g>
 		<g class="connectors">
 			
