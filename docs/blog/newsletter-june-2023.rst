@@ -77,7 +77,7 @@ Cost is another thing to think about. Markdown and MkDocs are free, but CCMSs li
 
 You should also consider the documentation method. For example, a CCMS could be a good choice if you want one tool to manage and share user documentation for different user jobs and software modules. These tools can make PDFs and web-based documents and work with single sources from the start. Of course, you can also do this with static site generators, but you have to spend time and effort creating the build steps and themes.
 
-Your choice should be based on how willing you are to learn and understand a certain tool, how many resources you have, and your long-term goals for managing and delivering documentation. To find the best choice for your needs, research and compare different options, like those on the `Jamstack website <https://jamstack.org/>`.
+Your choice should be based on how willing you are to learn and understand a certain tool, how many resources you have, and your long-term goals for managing and delivering documentation. To find the best choice for your needs, research and compare different options, like those on the `Jamstack website <https://jamstack.org/>`__.
 
 ----------------
 From our sponsor
