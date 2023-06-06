@@ -5,7 +5,7 @@
 Write the Docs Newsletter – June 2023
 #####################################
 
-Shalom, documentarians! This month marks a year since I first started putting together this newsletter and it's been a great chance for me to learn morea bout all kinds of topics. If you've enjoyed the newsletter, help me learn even more by reacting the most insightful posts in Slack with the ``:suggest-for-newsletter:`` emoji. Although space is limited each month, I always enjoy seeing what everyone is learning from.
+Shalom, documentarians! This month marks a year since I first started putting together this newsletter and it's been a great chance for me to learn more about all kinds of topics. If you've enjoyed the newsletter, help me learn even more by reacting to the most insightful posts in Slack with the ``:suggest-for-newsletter:`` emoji. Although space is limited each month, I always enjoy seeing what everyone is learning.
 
 Last month, the Portland conference marked our successful return to in-person conferences. If you missed any part of it, catch up with the `conference recap </conf/portland/2023/news/thanks-recap/>`__, which includes a link to videos of all of the talks. After you get through all the talks, get your tickets for the `Atlantic conference </conf/atlantic/2023/tickets/>`__ and make plans for the `Australia conference </conf/australia/2023/news/welcome/>`__.
 
@@ -17,7 +17,7 @@ Public vs. private docs
 
 In the world of software documentation, it’s pretty common to have your docs free and open to use. But is that right for all products? This month, the community discussed some of the pros and cons.
 
-The main reason given across the board for keeping docs private: the advantages of secrecy. Some companies worry that open documentation allows competitors to copy your ideas and designs. And if you work on security or payments tools, exposing the details of how your software works can make it easier for bad actors to try to attack the tools. However, some folks expressed skepticism about whether keeping docs private is a very effective barrier.
+The main reason given for keeping docs private: the advantages of secrecy. Some companies worry that open documentation allows competitors to copy your ideas and designs. And if you work on security or payment tools, exposing the details of how your software works can make it easier for bad actors to try to attack the tools. However, some folks expressed skepticism about whether keeping docs private is a very effective barrier.
 
 The downsides of private docs were around two areas: friction and marketing. Open docs are easier for your users to access. If they have to remember login information, they may just give up and file a support ticket instead. And docs-as-marketing is a well-worn path: there’s the potential to impress evaluators if the doc set looks useful and explains the product clearly, with Stripe often used as the canonical example.
 
@@ -53,7 +53,7 @@ With the current spate of layoffs and recent graduations, interviewing practices
 Time
 ^^^^
 
-The general consensus was to limit any time spent to about 1 hour. Some indicated willingness to spend more time. One person indicated spening an hour doing the assignment, but then providing "an explanation of why I wasn't going to respond to all of their requests."
+The general consensus was to limit any time spent to about 1 hour. Some indicated willingness to spend more time. One person indicated spending an hour doing the assignment, but then providing "an explanation of why I wasn't going to respond to all of their requests."
 
 ^^^^^
 Money
@@ -65,7 +65,7 @@ Many in the thread cautioned about doing work about a company’s product for fr
 Ownership
 ^^^^^^^^^
 
-If you do a writing test, does it belong to you or to the company? In general, if you’re writing about a company’s product, it would belong to the company. You may want to get this clarified because it may affect how long you work on the test and whether you have rights to the work itself. If you spend a lot of time on a writing sample, it may work as a good portfolio piece. So it's worth reesolving the question.
+If you do a writing test, does it belong to you or to the company? In general, if you’re writing about a company’s product, it would belong to the company. You may want to get this clarified because it may affect how long you work on the test and whether you have rights to the work itself. If you spend a lot of time on a writing sample, it may work as a good portfolio piece. So it's worth resolving the question.
 
 ------------------------------------------
 Choosing a CCMS or a static site generator
