@@ -48,7 +48,7 @@ Grant program still open
 ------------------------
 
 Just a friendly reminder that our grant program is still open for application. 
-We're excited to be able to offer free tickets to a larger number of people, since there are no travel costs invovled in attending a virtual event.
+We're excited to be able to offer free tickets to a larger number of people, since there are no travel costs involved in attending a virtual event.
 
 You can apply until **{{ grants.ends }}** on `our website <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/>`_.
 
