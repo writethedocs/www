@@ -27,8 +27,8 @@ buttons:
     #  link: /welcome-wagon
     #- text: See the Schedule!
     #  link: /schedule
-    #- text: Buy a Ticket!
-    #  link: /tickets
+    - text: Tickets
+      link: /tickets
     - text: Sponsor us
       link: /sponsors/prospectus
     #- text: Submit a Talk
