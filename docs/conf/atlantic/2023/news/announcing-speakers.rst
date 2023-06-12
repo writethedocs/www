@@ -6,7 +6,7 @@
 Announcing speakers and talks
 =============================
 
-Greetings, documentarians! Today we're excited to announce that we've finalized our speakers for the our first virtual {{City}} conference!
+Greetings, documentarians! Today we're excited to announce that we've finalized our speakers for the our first virtual {{city}} conference!
 
 Thank you so much to everyone who took the time to send us a proposal – we literally wouldn't have an event without you!
 
