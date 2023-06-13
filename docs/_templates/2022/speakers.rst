@@ -1,7 +1,7 @@
 {% for talk in data %}
 
 {% for speaker in talk.speakers %}
-.. _speaker-{{ speaker.slug }}:
+.. _speaker-{{ speaker.slug }}-{{ talk.slug }}:
 {% endfor %}
 
 .. Comment to break up reference issues
