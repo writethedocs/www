@@ -52,6 +52,10 @@
     slug: josh-peacock
     twitter: 
     website: 
+  - name: Dennis Mortensen
+    slug: dennis-mortensen
+    twitter: 
+    website: 
   abstract: '<p>Your customer’s desire for self-service support options, and the importance
     of delivering superior self-service Support, is well documented. Today’s customers
     are savvy, self-reliant and more than comfortable finding answers to their questions
@@ -224,6 +228,10 @@
   speakers:
   - name: Chris Noonan
     slug: chris-noonan
+    twitter: 
+    website: 
+  - name: John Hannagan
+    slug: john-hannagan
     twitter: 
     website: 
   abstract: '<p>It''s difficult to determine how easy it is to read the content that
