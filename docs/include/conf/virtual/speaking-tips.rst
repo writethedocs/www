@@ -23,8 +23,12 @@ Presentation format
 Be sure to check the :doc:`/conf/{{shortcode}}/{{year}}/talk-recording-guidelines` before recording.
 
 If you haven’t spoken before, your recording time will likely run a bit shorter than when you are practicing.
-Matt Haughey wrote a guide on `giving a presentation <https://medium.com/@mathowie/an-introverts-guide-to-better-presentations-be7e772b2cb5>`__ that might be helpful if you are new to presenting to an audience.
-This `article on speaking <https://hynek.me/articles/speaking/>`__ from Hynek is also a wonderful resource, which covers the steps to preparing for a talk.
+
+Here are a couple of great resources for new speakers:
+
+- Matt Haughey wrote a guide on `giving a presentation <https://medium.com/@mathowie/an-introverts-guide-to-better-presentations-be7e772b2cb5>`__.
+- This `article on speaking <https://hynek.me/articles/speaking/>`__ from Hynek is also a wonderful resource, which covers the steps to preparing for a talk.
+- Sarah Greene wrote in detail about `preparing for speaking <https://sardoodle.substack.com/p/public-speaking-for-the-terrifiederrr>`__ when the very idea terrifies you.
 
 There are a lot of different ways of thinking through making your slides.
 Idan Gazit, a previous speaker, has written up a `great post <http://gazit.me/2012/12/05/designing-presentations.html>`__ on how his process works.
