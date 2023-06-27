@@ -4,7 +4,9 @@
 Writing Day
 ===========
 
-The Write the Docs Australia 2022 conference will feature a light Writing Day event as part of the regular conference activities. 
+The Write the Docs Australia 2023 conference will feature a light Writing Day event as part of the regular conference activities. 
+
+To be completed
 
 What is Writing Day?
 --------------------

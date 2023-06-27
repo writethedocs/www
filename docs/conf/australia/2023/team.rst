@@ -25,16 +25,6 @@ Samuel Wright
 
 {% include "bios/sam.rst" %}
 
-Linette Voller
-~~~~~~~~~~~~~~~~~~
-
-{% include "bios/linette.rst" %}
-
-Gaurav Nelson
-~~~~~~~~~~~~~~~~~~
-
-{% include "bios/gaurav.rst" %}
-
 Felicity Brand
 ~~~~~~~~~~~~~~~~~~
 
@@ -56,12 +46,12 @@ You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/e
 * **Swag coordinator** - Mikey Ariel
 * **Speaker wrangler** - Swapnil Ogale
 * **Infrastructure chair** - Samuel Wright
-* **Lightning Talk coordinator** - Gaurav Nelson
+* **Lightning Talk coordinator** - TBA
 * **Communication chair** - Swapnil Ogale
 * **Writing Day coordinator** - Felicity Brand
-* **Volunteer coordinator** - Swapnil Ogale
+* **Volunteer coordinator** - TBA
 * **Sponsorship** - Swapnil Ogale
 * **Unconference coordinator** - Jennifer Appleby
 * **Emcee** - Jared Morgan
 * **Welcome Wagon coordinators** - TBA
-* **Social media chair** - Swapnil Ogale
+* **Social media chair** - TBA
