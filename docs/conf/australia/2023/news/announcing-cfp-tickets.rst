@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: July 15, 2023
+.. post:: June 27, 2023
    :tags: {{shortcode}}-{{year}}, cfp
 
 Announcing Call for Proposals, Ticket Sales and the Grant program

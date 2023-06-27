@@ -10,6 +10,8 @@ Ticket Information
 
 **Tickets are on sale now!**
 
+We're excited to invite you to our {{ year }} conference in {{ city }}.
+
 {% elif flagsoldout %}
 
 Ticket status
@@ -26,11 +28,13 @@ Ticket status
 Ticket details
 ~~~~~~~~~~~~~~
 
-Write the Docs {{ name }} {{ year }} is a virtual conference. Each ticket includes:
+Write the Docs {{ name }} {{ year }} is an in-person conference. Each ticket includes:
 
-* Live streaming of all talks
-* Q&A with speakers after each talk (may not be available for all speakers)
-* Access to the conference chat with all other attendees, speakers and sponsors
+* Entry to all conference events and activities
+* Drinks and snacks on event days (Thursday-Friday)
+* Social Event with light snacks and drinks
+* Wifi throughout the event
+* Meeting lots of fantastic people in a spacious, inviting venue
 
 Refund Policy
 -------------
@@ -41,6 +45,58 @@ Refunds after this date are not possible.
 Ticket Types
 ------------
 
+.. class:: ticket
+
+**Student or Unemployed Tickets** *{{tickets.student.price}}*
+--------------------------------------------------------------
+
+Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
+
+{% if flagticketsonsale %}
+
+* `Buy Student or Unemployed Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
+
+{% endif %}
+
+.. class:: ticket
+
+**Independent Tickets** *{{tickets.independent.price}}*
+-------------------------------------------------------
+
+Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with fewer than 10 employees.
+
+{% if flagticketsonsale %}
+
+* `Buy Independent Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
+
+{% endif %}
+
+.. class:: ticket
+
+**Corporate Tickets** *{{tickets.corporate.price}}*
+---------------------------------------------------
+
+Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
+
+{% if flagticketsonsale %}
+
+* `Buy Corporate Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
+
+{% endif %}
+
+.. class:: ticket
+
+**Opportunity Grants**
+-----------------------
+
+If you need support in paying for your ticket, travel or other costs,
+you can apply to our Opportunity Grant program.
+
+{% if grants and grants.ends and grants.url %}
+You can apply until **{{ grants.ends }}, Midnight {{ tz }}** on `our website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/>`_.
+{% else %}
+Grant applications will open soon.
+{% endif %}
 
 {% if shirts and flaghasshirts %}
 
@@ -53,55 +109,4 @@ You can now visit our Write the Docs {{ name }} {{ year }} Pop-Up Shop and order
 
 * `Buy {{ name }} {{ year }} Shirt <{{ shirts.url }}>`_
 
-{% endif %}
-
-.. class:: ticket
-
-**Corporate Tickets** *{{tickets.corporate.price}}*
---------------------------------------------
-
-Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package. Tickets are in AUD.
-
-{% if flagticketsonsale %}
-
-* `Buy Corporate Ticket <https://ti.to/writethedocs/write-the-docs-australia-2023>`__
-
-{% endif %}
-
-.. class:: ticket
-
-**Independent Tickets** *{{tickets.independent.price}}*
---------------------------------------------
-
-Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with fewer than 10 employees. Tickets are in AUD.
-
-{% if flagticketsonsale %}
-
-* `Buy Independent Ticket <https://ti.to/writethedocs/write-the-docs-australia-2023>`__
-
-{% endif %}
-
-.. class:: ticket
-
-**Student or Unemployed Tickets** *{{tickets.student.price}}*
---------------------------------------------
-
-Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income. Tickets are in AUD.
-
-{% if flagticketsonsale %}
-
-* `Buy Student or Unemployed Ticket <https://ti.to/writethedocs/write-the-docs-australia-2023>`__
-
-{% endif %}
-
-.. class:: ticket
-
-**None of the above**
----------------------
-
-If you can't afford these prices and still wish to attend, you can apply for our grant program.
-{% if grants and grants.ends and grants.url %}
-You can apply until **{{ grants.ends }}, Midnight {{ tz }}** on `our website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/>`_.
-{% else %}
-Grant applications will open soon.
 {% endif %}
