@@ -18,12 +18,12 @@ photos:
 
 buttons:
   top:
-  #- text: Read our latest news
-  #   link: /news/welcome
-  #  - text: Sponsor us
-  #    link: /sponsors/prospectus
-   - text: Submit a Talk
-     link: /cfp
+  #   - text: Read our latest news
+  #     link: /news/welcome
+  #   - text: Sponsor us
+  #     link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp  
   #   - text: Date and ticket information
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: Read our conference guide
@@ -38,17 +38,17 @@ buttons:
   #    link: /schedule
   #  - text: Read our guide
   #    link: /welcome-wagon
-  #   - text: Watch the Live Stream
-  #     link: /livestream
-  #   - text: Watch the videos!
-  #     link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpnDhFvXG8GprqlLlzSQRBui
-  #   - text: Thanks for coming
-  #     link: /news/thanks-recap
+  #  - text: Watch the Live Stream
+  #    link: /livestream
+  #  - text: Watch the videos!
+  #    link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpnDhFvXG8GprqlLlzSQRBui
+  #  - text: Thanks for coming
+  #    link: /news/thanks-recap
   bottom:
      - text: Welcome to our conference
        link: /news/welcome
-  #  - text: Sponsor the conference
-  #    link: /sponsors/prospectus
+  #   - text: Sponsor the conference
+  #     link: /sponsors/prospectus
   #   - text: Submit a Talk
   #     link: /cfp
   #   - text: See the Schedule!
@@ -59,11 +59,11 @@ buttons:
   #     link: /speakers
   #   - text: Buy a Ticket!
   #     link: /tickets
-  #  - text: Read our guide
-  #    link: /welcome-wagon
-  #  - text: See the schedule!
-  #    link: /schedule
-  #   - text: Watch the Live Stream
+  #   - text: Read our guide
+  #     link: /welcome-wagon
+  #   - text: See the schedule!
+  #     link: /schedule
+  #    - text: Watch the Live Stream
   #     link: /livestream
   #   - text: Browse the photos
   #     link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
