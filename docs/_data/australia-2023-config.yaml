@@ -179,7 +179,7 @@ sponsors:
       brand: Read the Docs
 
 # Things that change over time, listed in order of change
-flaglanding: True
+flaglanding: False
 flaghassponsors: False
 flagcfp: True
 flagticketsonsale: True
