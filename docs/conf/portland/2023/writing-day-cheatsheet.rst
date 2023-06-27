@@ -4,4 +4,4 @@
 Writing Day Cheat Sheet
 =======================
 
-{% include "conf/virtual/writing-day-cheatsheet.rst" %}
+{% include "conf/portland/writing-day-cheatsheet.rst" %}

@@ -95,9 +95,9 @@ shirts:
   ends: "Dec 31, 2023"
 
 date: # how do we handle these? human readable would be nice.
-  main: "**December 7-8, 2022**"
-  short: Dec 7-8, 2022
-  tickets_live: "July 2022"
+  main: "**December 7-8, 2023**"
+  short: Dec 7-8, 2023
+  tickets_live: "July 2023"
   month: December
 
   # Conference is special for the index to show the combined conference days
@@ -143,12 +143,12 @@ about:
 cfp:
   url: https://pretalx.com/wtd-australia-2023/cfp # Open July 15, 2023, 8 weeks to submit
   ends: "September 15, 2023"           # 2 weeks to review and get confirmations
-  notification: "September 30, 2022"   # 8 weeks to write and prepare
+  notification: "September 30, 2023"   # 8 weeks to write and prepare
   slides_by: "December 01, 2023"       # 1 week before
   preview: "TODO"                      # Preview URL TODO
 
 unconf:
-  url: http://bit.ly/wtd-au-2022-ro
+  url: TODO
   date: "Thursday and Friday after the lunch break"
 
 

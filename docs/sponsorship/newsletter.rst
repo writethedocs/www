@@ -56,6 +56,8 @@ Pricing
 
 The price for reaching our audience is **$350** per month.
 
+You can pay for the newsletter via our `online payment form <https://buy.stripe.com/7sIfZm0bqeBncJG8wy>`_.
+
 Examples
 --------
 

@@ -10,11 +10,12 @@
                                       <ul class="uk-nav uk-navbar-dropdown-nav">
                                           {% if flaglivestreaming %}
                                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/livestream') }}">Live Stream</a></li>
+                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/qa') }}">Speaker Q&A</a></li>
                                           {% endif %}
+                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/schedule') }}">Schedule</a></li>
                                           {% if flagspeakersannounced %}
                                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/speakers') }}">Speakers</a></li>
                                           {% endif %}
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/schedule') }}">Schedule</a></li>
                                           {% if flaghaswritingday %}
                                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/writing-day') }}">Writing Day</a></li>
                                           {% endif %}

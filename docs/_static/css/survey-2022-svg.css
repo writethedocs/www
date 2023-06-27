@@ -1,0 +1,210 @@
+:root {
+  --label-color: #A39F9F;
+
+	--color1: #00BBD8;
+	--color1-dark: #008197;
+	--color2: #FFA600;
+	--color2-dark: #d28000;
+	--color3: #54C874;
+
+	--color-very-negative: #FF5331;
+	--color-negative: #EC9832;
+	--color-neutral: #D7C868;
+	--color-positive: #90BF60;
+	--color-very-positive: #24B270;
+
+	--color-remote-required: #8446D8;
+	--color-remote-not-required: #AB88D1;
+	--color-partial: #9CCFDD;
+	--color-on-site-not-required: #8DBE7E;
+	--color-on-site-required: #40B230;
+
+	--color-strongly-oppose: #FF5331;
+	--color-oppose: #EC9832;
+	--color-neutral-support: #D7C868;
+	--color-support: #90BF60;
+	--color-strongly-support: #24B270;
+
+	--color-one-of-four: #00BBD8;
+	--color-two-of-four: #00C5B4;
+	--color-three-of-four: #54C874;
+	--color-four-of-four: #ACC02A;
+
+	--color-one-of-five: #00BBD8;
+	--color-two-of-five: #00C5B4;
+	--color-three-of-five: #54C874;
+	--color-four-of-five: #ACC02A;
+	--color-five-of-five: #FFA600;
+
+	--color-one-of-six: #00BBD8;
+	--color-two-of-six: #00C4BE;
+	--color-three-of-six: #21C88F;
+	--color-four-of-six: #79C657;
+	--color-five-of-six: #BCBC1A;
+	--color-six-of-six: #FFA600;
+
+}
+
+@font-face{font-family:"tabular-numbers";src:local("charter"),local("cambria");unicode-range:U+0030-0039}
+text{font-family:'tabular-numbers',georgia,bitstream charter,serif !important;fill:var(--label-color)}
+
+/* legends */
+.legend .labels text{font-size:12px}
+.legend .labels-five text{font-size:12px} 
+.legend .seriesa{fill:var(--color1)} 
+.legend .seriesb{fill:var(--color2)} 
+
+/* labels */
+.pie-labels text{font-size:16px}
+.donut-chart .value-labels text{font-size:16px}
+
+.x-axis .axis-label text{font-size:14px}
+.x-axis .axis-values text{font-size:14px}
+.y-axis .axis-label text{font-size:14px}
+.y-axis .axis-values text{font-size:14px}
+
+.horizontal-bar-chart .overlapping-value-labels text{fill:#FFF;font-size:16px}
+.horizontal-bar-chart .data path{fill:var(--color1)}
+
+/* styles */
+.axis-lines path{stroke:#F0F0F0}
+.donut-chart .data path{stroke-width:2px;stroke:#FFF}
+
+/* wordcloud */
+.wordcloud .one-of-four{fill:var(--color-one-of-four)}
+.wordcloud .two-of-four{fill:var(--color-two-of-four)}
+.wordcloud .three-of-four{fill:var(--color-three-of-four)}
+.wordcloud .four-of-four{fill:var(--color-four-of-four)}
+
+/* data colors: one segment */
+.bar-chart .data path{fill:var(--color1)}
+
+/* data colors: two segments */
+.bar-chart .data .seriesa path{fill:var(--color1)}
+.bar-chart .data .seriesb path{fill:var(--color2)}
+
+/* data colors: three segments */
+.data .one-of-three{fill:var(--color1)}
+.data .two-of-three{fill:var(--color2)}
+.data .three-of-three{fill:var(--color3)}
+.connectors .one-of-three{stroke:var(--color1)}
+.connectors .two-of-three{stroke:var(--color2)}
+.connectors .three-of-three{stroke:var(--color3)}
+
+/* data colors: four segments */
+.data .one-of-four{fill:var(--color-one-of-four)}
+.data .two-of-four{fill:var(--color-two-of-four)}
+.data .three-of-four{fill:var(--color-three-of-four)}
+.data .four-of-four{fill:var(--color-four-of-four)}
+.connectors .one-of-four{stroke:var(--color-one-of-four)}
+.connectors .two-of-four{stroke:var(--color-two-of-four)}
+.connectors .three-of-four{stroke:var(--color-three-of-four)}
+.connectors .four-of-four{stroke:var(--color-four-of-four)}
+
+/* data colors: five segments */
+.data .one-of-five{fill:var(--color-one-of-five)}
+.data .two-of-five{fill:var(--color-two-of-five)}
+.data .three-of-five{fill:var(--color-three-of-five)}
+.data .four-of-five{fill:var(--color-four-of-five)}
+.data .five-of-five{fill:var(--color-five-of-five)}
+.connectors .one-of-five{stroke:var(--color-one-of-five)}
+.connectors .two-of-five{stroke:var(--color-two-of-five)}
+.connectors .three-of-five{stroke:var(--color-three-of-five)}
+.connectors .four-of-five{stroke:var(--color-four-of-five)}
+.connectors .five-of-five{stroke:var(--color-five-of-five)}
+
+/* data colors: six segments */
+.data .one-of-six{fill:var(--color-one-of-six)}
+.data .two-of-six{fill:var(--color-two-of-six)}
+.data .three-of-six{fill:var(--color-three-of-six)}
+.data .four-of-six{fill:var(--color-four-of-six)}
+.data .five-of-six{fill:var(--color-five-of-six)}
+.data .six-of-six{fill:var(--color-six-of-six)}
+.connectors .one-of-six{stroke:var(--color-one-of-six)}
+.connectors .two-of-six{stroke:var(--color-two-of-six)}
+.connectors .three-of-six{stroke:var(--color-three-of-six)}
+.connectors .four-of-six{stroke:var(--color-four-of-six)}
+.connectors .five-of-six{stroke:var(--color-five-of-six)}
+.connectors .six-of-six{stroke:var(--color-six-of-six)}
+
+/* data colors: positivity scale */
+.data .very-negative{fill:var(--color-very-negative)}
+.data .negative{fill:var(--color-negative)}
+.data .neutral{fill:var(--color-neutral)}
+.data .positive{fill:var(--color-positive)}
+.data .very-positive{fill:var(--color-very-positive)}
+.connectors .very-negative{stroke:var(--color-very-negative)}
+.connectors .negative{stroke:var(--color-negative)}
+.connectors .neutral{stroke:var(--color-neutral)}
+.connectors .positive{stroke:var(--color-positive)}
+.connectors .very-positive{stroke:var(--color-very-positive)}
+
+/* data colors: satisfaction scale */
+.data .very-unsatisfied{fill:var(--color-very-negative)}
+.data .unsatisfied{fill:var(--color-negative)}
+.data .neutral-satisfaction{fill:var(--color-neutral)}
+.data .satisfied{fill:var(--color-positive)}
+.data .very-satisfied{fill:var(--color-very-positive)}
+.connectors .very-unsatisfied{stroke:var(--color-very-negative)}
+.connectors .unsatisfied{stroke:var(--color-negative)}
+.connectors .neutral-satisfaction{stroke:var(--color-neutral)}
+.connectors .satisfied{stroke:var(--color-positive)}
+.connectors .very-satisfied{stroke:var(--color-very-positive)}
+
+/* data colors: work location */
+.data .remote-required,.legend .remote-required{fill:var(--color-remote-required)}
+.data .remote-not-required,.legend .remote-not-required{fill:var(--color-remote-not-required)}
+.data .partial,.legend .partial{fill:var(--color-partial)}
+.data .on-site-not-required,.legend .on-site-not-required{fill:var(--color-on-site-not-required)}
+.data .on-site-required,.legend .on-site-required{fill:var(--color-on-site-required)}
+.connectors .remote-required{stroke:var(--color-remote-required)}
+.connectors .remote-not-required{stroke:var(--color-remote-not-required)}
+.connectors .partial{stroke:var(--color-partial)}
+.connectors .on-site-not-required{stroke:var(--color-on-site-not-required)}
+.connectors .on-site-required{stroke:var(--color-on-site-required)}
+
+/* data colors: support scale */
+.data .strongly-oppose{fill:var(--color-strongly-oppose)}
+.data .oppose{fill:var(--color-oppose)}
+.data .neutral{fill:var(--color-neutral-support)}
+.data .support{fill:var(--color-support)}
+.data .strongly-support{fill:var(--color-strongly-support)}
+.connectors .strongly-oppose{stroke:var(--color-strongly-oppose)}
+.connectors .oppose{stroke:var(--color-oppose)}
+.connectors .neutral{stroke:var(--color-neutral-support)}
+.connectors .support{stroke:var(--color-support)}
+.connectors .strongly-support{stroke:var(--color-strongly-support)}
+
+/* data hover effect */
+.data path{
+	fill-opacity:80%;
+}
+
+.data path:hover,.data path:active{
+	fill-opacity: 100%;
+}
+
+
+@media screen and (max-width: 600px) {
+	text{font-size:19px}
+	.x-axis .axis-values text{font-size:17px}
+	.y-axis .axis-values text{font-size:17px}
+}
+
+@media screen and (max-width: 580px) {
+	text{font-size:20px}
+	.x-axis .axis-values text{font-size:18px}
+	.y-axis .axis-values text{font-size:18px}
+}
+
+@media screen and (max-width: 500px) {
+	text{font-size:22px}
+	.x-axis .axis-values text{font-size:20px}
+	.y-axis .axis-values text{font-size:20px}
+}
+
+@media screen and (max-width: 450px) {
+	text{font-size:24px}
+	.x-axis .axis-values text{font-size:22px}
+	.y-axis .axis-values text{font-size:22px}
+}

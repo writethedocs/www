@@ -17,8 +17,10 @@ Exact timing information is available on our :doc:`/conf/{{shortcode}}/{{year}}/
 During the conference
 ---------------------
 
-Check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-cheatsheet` for a quick reference 
-that you can use during the conference to make the most out of Writing Day. 
+Attendees, folks looking for projects to contribute to, check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-cheatsheet`! 
+It's a great resources you can use during the conference to make the most out of Writing Day.
+
+Project leads and volunteers, check out the `Maximize your experience <https://www.writethedocs.org/conf/portland/2023/news/writing-day-announcement/#maximize-your-experience>`_ section of our *Write the Docs <3's OSS* blog post for helpful tips and tricks.
 
 Submit Your Project 
 -------------------
@@ -32,10 +34,79 @@ Project Listing
 
 Here are some of the projects that you can work on during Writing Day!
 
+Metrics wonderland
+~~~~~~~~~~~~~~~~~~
+
+Welcome to Cyclone, we are building an analytics tool that shows how users interact 
+with your content, starting from your docs to other areas like creating support 
+tickets and APIs. We are designing our project to help understand what technical 
+writers need and we want your feedback to help us focus on the most important features.
+
+Looking to unleash the hidden superpower of technical writers? Imagine being able 
+to see everything users do after reading your docs! We believe technical writers’ 
+contribution deserves more recognition, especially in this tech downturn amid waves 
+of layoffs. We hope folks can gain a few ideas about showcasing their 
+impact after this exercise!
+
+Join us for a day of creative brainstorming or daydreaming! Our goal is to create a space 
+where to:
+
+* Collaborate on developing metrics that truly reflect the impact of your work. 
+* Write a captivating blog post about your findings.
+
+With your feedback and our expertise and passion for software engineering, let's see which 
+of these metrics can be brought to life!
+
+Blueprint (morning session)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`Blueprint <https://github.com/dendronhq/blueprint>`_ is an experimental spec and toolchain to define the organization, structure, and 
+layout of docs. You can use blueprint to scaffold, migrate, analyze, and validate documentation. 
+
+Use blueprint to create **schemas** that describe the structure of common doc types like 
+reference docs, how tos, discussions, and tutorials. You can use schemas to create new docs as 
+well as validate that existing docs conform to the given schema.
+
+Blueprint is meant to work with any language via plugins and will come with built-in 
+support for github flavored markdown.
+
+Blueprint is at this stage more concept than implementation. Our Writing Day goal is to write 
+the documentation for some of Blueprint's core features!
+
+Depending on time, we plan to cover some or all of the following topics. We believe the initial 
+work here includes:
+
+* blueprint spec: the syntax used in defined blueprints
+* we will go over the syntax and clarify any ambiguity as well as add additional features: 
+  `blueprint validate <schema> <targetFile>`: check that <targetFile> matches a given blueprint     
+* we will go over what the output of validation should look like:
+  `blueprint migrate <schema>`: mechanisms to evolve schemas over time and apply the changes to all docs that implement the schema     
+* we will go over the means of a migration, how this is implemented, and how a developer can define a migration: 
+  `blueprint <your-idea-here>`: new blueprint functionality     
+
+Additionally, we'd love to go over any burning pain points you have with docs that you think a 
+tool like blueprint could solve.
+
+EkLine
+~~~~~~
+
+`EkLine <https://ekline.io/>`_ is a software solution that integrates seamlessly into your content creation pipeline.
+It provides automatic quality checks, utilizing a unique blend of grammar, style, and custom
+rules to ensure consistency across your documents. We use advanced AI, machine learning
+algorithms, and a diverse set of proofreading tools, including `vale.sh`, for high-quality suggestions.
+
+We are a software tool that makes technical writing easy, but ironically we are missing documentation
+for our customers.
+
+Our Writing Day goal is to:
+
+* Get input about our `current tech stack <https://github.com/ekline-io>`_
+* Brainstorm on an effective documentation strategy
+
 The Good Docs Project
 ~~~~~~~~~~~~~~~~~~~~~
 
-`The Good Docs Project <https://thegooddocsproject.dev/>`_ is an open source community of 50+ technical writers, doc tools 
+`The Good Docs Project <https://thegooddocsproject.dev/>`_ is an open-source community of 50+ technical writers, doc tools 
 experts, UX designers, and software engineers who are committed to improving the quality 
 of documentation in open source. We aim to educate and empower people to create 
 high-quality documentation by providing them with resources, best practices, and tools 
@@ -52,7 +123,7 @@ Get an early preview of `The Good Docs Project writing day agenda <https://tinyu
 Hank
 ~~~~
 
-Hank is an experimental prototype to see whether we can fine-tine an LLM to function as a
+Hank is an experimental prototype to see whether we can fine-tune an LLM to function as a
 style guide editor. The `initial results <https://technicalwriting.tools/posts/style-guide-fine-tuning/>`__ suggest that it could work. Let's keep going! 
 
 We are looking for contributors to help create training data. This requires no programming 
@@ -74,7 +145,7 @@ Rocky Linux
 
 `Rocky Linux <https://rockylinux.org/>`_ is a community Enterprise Linux distribution 
 for everything from desktops to hyperscale! It is under intensive development by the 
-open source community.
+open-source community.
 
 The `Rocky Linux Docs <https://docs.rockylinux.org>`_ use markdown and this `basic writing and formatting guide <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>`_ by GitHub.
 
@@ -94,7 +165,7 @@ dbt
 
 dbt enables data analysts and engineers to transform their data using the same 
 practices that software engineers use to build applications. `dbt Core <https://github.com/dbt-labs/dbt-core>`_ 
-is the center of our `open source repository <https://github.com/dbt-labs/docs.getdbt.com>`_.
+is the center of our `open-source repository <https://github.com/dbt-labs/docs.getdbt.com>`_.
 
 The dbt Labs Docs team is a small but mighty team and Writing Day is the first 
 time that we will be all together! We are looking for collaborators and dbt docs
@@ -102,7 +173,7 @@ contributions. We have **prizes** for the top contributors!
 
 Our Writing Day goals:
 
-- Give potential contributors an overview of the open source tool chain we use, Docusaurus and GitHub.
+- Give potential contributors an overview of the open-source tool chain we use, Docusaurus and GitHub.
 - `Address open doc issues <https://github.com/dbt-labs/docs.getdbt.com/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22>`_, 
   issues labelled **Good First Issue** can be addressed with little dbt knowledge.
 - `Draft an operating model <https://github.com/dbt-labs/docs.getdbt.com/blob/current/contributing/operating-model/outline.md>`_ 
@@ -120,7 +191,7 @@ of content like overviews, how-to guides, and reference material. Our goal is to
 share best practices and help writers who are starting new projects discover
 templates that help them achieve their goals.
 
-We hope to expand our `template library <https://github.com/JetBrains/writerside-project-templates/blob/main/Writerside/topics/Default-topic.md>`_, to include:
+We hope to expand our `template library <https://github.com/JetBrains/writerside-templates-library>`_, to include:
 
 - Templates for different industries and audiences
 - Templates for entire projects
@@ -142,7 +213,7 @@ pull requests, ranging from fixing small typos to contributing whole new section
 Our online documentation is marked up in AsciiDoc, lives in Git, and is built automatically into 
 a static site using GitHub Actions.
 
-Raspberry Pi is looking for Writing Day attendees to contribute to our open source documentation. 
+Raspberry Pi is looking for Writing Day attendees to contribute to our open-source documentation. 
 We're looking for contributions that focus on: 
 
 - Copy-editing
@@ -165,7 +236,7 @@ TLS and HTTPS work. You can find  `the codebase <https://github.com/smallstep/ce
 
 We’re looking for volunteers to help polish and make the style more consistent across 
 our most popular doc pages. Our docs are technically correct, but are not very concise. 
-We have opened issues for each of such pages and appriopately labeled them Writing Day.
+We have opened issues for each of such pages and appropriately labeled them Writing Day.
 
 Review each identified page and consider making the following types of improvements:
 
@@ -248,7 +319,7 @@ any questions, you can reach out to us in person or on
 Read the Docs
 ~~~~~~~~~~~~~
 
-Read the Docs is an open source hosting tool, mostly focused on Docs as Code.
+Read the Docs is an open-source hosting tool, mostly focused on Docs as Code.
 This sprint will give you a few options:
 
 * Contribute to their `public documentation <https://docs.readthedocs.io/en/stable/>`_ which is on GitHub

@@ -12,16 +12,15 @@ Schedule
 - Date & Time: **{{date.day_two.dotw}}, {{date.day_two.date}}, {{date.day_two.writing_day_time}} {{tz}}**.
 - Location: **{{about.venue}}**.
 
-Your Project Here
------------------
+Project list
+------------
 
+Coming soon!
 
-Write the Docs Meetups
-----------------------
+Your project here
+^^^^^^^^^^^^^^^^^
 
-Organizing local Write the Docs meetup communities is a rewarding way to participate. During Writing Day, we'll have a table where we can share tips and best practices, especially in this time where all of our meetups are virtual.
+Submit your project using our Writing Day project form or send us a PR with your project info!
 
-During the conference
----------------------
-
-Check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-cheatsheet` for a quick reference that you can use during the conference to make the most out of Writing Day.
+Check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-project-faq` to review what information is 
+needed for your project submission as well as ways to maximize your event experience.

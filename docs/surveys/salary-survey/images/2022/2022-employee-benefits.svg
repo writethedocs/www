@@ -1,0 +1,66 @@
+<svg height="100%" width="100%" viewBox="0 0 660 460" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2022-svg.css);
+      ]]>
+    </style>    
+  </defs>
+  <title>Chart title (2022)</title>
+  <desc>Horizontal bar chart showing employee benefits. </desc>
+	<g class="horizontal-bar-chart">
+		<g class="x-axis">
+			<g class="axis-lines">
+				<path d="M89.6348 10V386"/>
+				<path d="M248.904 10V386"/>
+				<path d="M409.635 10V386"/>
+				<path d="M568.904 10V386"/>
+			</g>
+			<g class="axis-values">
+				<text><tspan x="76.9707" y="406.884">10%</tspan></text>
+				<text><tspan x="236.116" y="406.884">30%</tspan></text>
+				<text><tspan x="396.281" y="406.884">50%</tspan></text>
+				<text><tspan x="556.459" y="406.884">70%</tspan></text>
+			</g>
+			<g class="axis-label">
+				<text transform="translate(284.5 430)"><tspan x="0" y="12">Respondents</tspan></text>
+			</g>    
+		</g>
+		<g class="data">
+			<path d="M601.781 12H10V33H601.781V12Z"/>
+			<path d="M556.484 37H10V58H556.484V37Z"/>
+			<path d="M446.895 62H10V83H446.895V62Z"/>
+			<path d="M442.511 87H10V108H442.511V87Z"/>
+			<path d="M404.521 112H10V133H404.521V112Z"/>
+			<path d="M376.758 137H10V158H376.758V137Z"/>
+			<path d="M366.53 162H10V183H366.53V162Z"/>
+			<path d="M340.228 187H10V209H340.228V187Z"/>
+			<path d="M335.845 213H10V234H335.845V213Z"/>
+			<path d="M293.47 238H10V259H293.47V238Z"/>
+			<path d="M278.858 263H10V284H278.858V263Z"/>
+			<path d="M274.475 288H10V309H274.475V288Z"/>
+			<path d="M254.018 313H10V334H254.018V313Z"/>
+			<path d="M252.557 338H10V359H252.557V338Z"/>
+			<path d="M210.183 363H10V384H210.183V363Z"/>
+		</g>
+		<g class="y-axis">
+			<g class="overlapping-value-labels">
+				<text><tspan x="426.073" y="28.8843">Health insurance *</tspan></text>
+				<text><tspan x="376.073" y="52.8843">Paid vacation time</tspan></text>
+				<text><tspan x="326.073" y="77.8843">Other insurance</tspan></text>
+				<text><tspan x="246.073" y="102.884">Professional development</tspan></text>
+				<text><tspan x="186.073" y="127.884">Stocks, shares, options, equity</tspan></text>
+				<text><tspan x="216.073" y="152.884">Paid parental leave *</tspan></text>
+				<text><tspan x="146.073" y="177.884">Pension, super, retirement</tspan></text>
+				<text><tspan x="96.0732" y="202.884">Gym, fitness, sports, wellness</tspan></text>
+				<text><tspan x="96.0732" y="227.884">Home office/co-working</tspan></text>
+				<text><tspan x="86.0732" y="252.884">Meals/vouchers/food</tspan></text>
+				<text><tspan x="76.0732" y="277.884">Bonus/commission</tspan></text>
+				<text><tspan x="75.073" y="302.884">Unlimited PTO</tspan></text>
+				<text><tspan x="52" y="327.884">Community-related</tspan></text>
+				<text><tspan x="36.0732" y="352.884">Phone/internet</tspan></text>
+				<text><tspan x="26.0732" y="377.884">Transport</tspan></text>
+			</g>  
+		</g>
+	</g>
+</svg>
