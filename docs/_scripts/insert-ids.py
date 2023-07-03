@@ -9,7 +9,6 @@
 
 from pathlib import Path
 from ruamel import yaml
-from pprint import pprint
 import Levenshtein
 
 import sys
@@ -19,41 +18,40 @@ sys.path.append(docs_root)
 
 from _ext.utils import load_yaml
 
-def insert_id(yaml_file):
 
-    file_path = '_scripts/playlist.txt' 
-    loaded_data = load_data(file_path)
-    talks = load_yaml(yaml_file)
+def add_yt_ids(speaker_yaml_file):
+    talks = load_yaml(speaker_yaml_file)
+    playlist_path = '_scripts/playlist.txt'
+    playlist_data = load_yt_playlist(playlist_path)
 
     for index, talk in enumerate(talks):
-        existing_string = talk['title']
-        yt_id = find_most_similar_title(loaded_data, existing_string)
+        schedule_title = talk['title']
+        yt_id = find_most_similar_title(playlist_data, schedule_title)
         talk['youtubeId'] = yt_id
 
-    yaml.round_trip_dump(talks, open(yaml_file, 'w+'), default_flow_style=False)
+    yaml.round_trip_dump(talks, open(speaker_yaml_file, 'w+'), default_flow_style=False)
 
 
-def load_data(file_path):
+def load_yt_playlist(file_path):
     data = []
     with open(file_path, 'r') as file:
         for line in file:
             line = line.strip()
             if line:
-                id_, title = line.split(',', 1)
-                data.append((id_, title))
+                yt_id, title = line.split(',', 1)
+                data.append((yt_id, title))
     return data
 
-def find_most_similar_title(loaded_data, query_title):
+def find_most_similar_title(playlist_data, query_title):
     max_similarity = 0
-    most_similar_title = None
 
-    for id_, title in loaded_data:
-        similarity = Levenshtein.ratio(query_title.lower(), title.lower())
+    for yt_id, yt_title in playlist_data:
+        similarity = Levenshtein.ratio(query_title.lower(), yt_title.lower())
         if similarity > max_similarity:
             max_similarity = similarity
-            most_similar_title = title
 
-    return id_
+    return yt_id
+
 
 if __name__ == '__main__':
-    insert_id('_data/portland-2023-sessions.yaml')
+    add_yt_ids('_data/portland-2023-sessions.yaml')
