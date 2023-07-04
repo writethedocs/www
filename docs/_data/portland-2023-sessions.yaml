@@ -343,25 +343,36 @@
   speakers:
   - name: Ashleigh Rentz
     slug: ashleigh-rentz
-    twitter:
-    website:
-  abstract: "<p>In the software industry, welcoming and empathetic communities don't\
-    \ form by accident—it takes intention, effort, and commitment. Our Write The Docs\
-    \ community is special today because this has been a priority since the first\
-    \ conference 10 years ago. Inclusive language is one of the tools we use to nurture\
-    \ this environment, but it's often misunderstood (and sometimes disparaged) as\
-    \ a list of rules to memorize just to avoid offending anyone. How can we improve\
-    \ this approach?</p>\n<p>Trauma is complex, but can be succinctly described as\
-    \ a lasting emotional response to distressing events one has lived through. By\
-    \ examining empathy and inclusive language through the lens of trauma, we can:</p>\n\
-    <ul>\n<li>identify and evaluate potentially problematic language in advance</li>\n\
-    <li>understand how and why problematic language may negatively affect people</li>\n\
-    <li>advocate for inclusive language, even against resistance</li>\n</ul>\n<p>Trauma\
-    \ is far more widespread than we might first imagine, but we can avoid the dynamics\
-    \ that may bring those emotional responses back to the forefront. The words we\
-    \ choose genuinely matter.</p>\n<p>NOTE: Trauma is a heavy subject to examine.\
-    \ Content warnings will be provided both at the beginning of the talk and immediately\
-    \ prior to each slide they are relevant to. Please prioritize your well-being.</p>"
+    twitter: 
+    website: 
+  abstract: '<p>In the software industry, welcoming and empathetic communities don''t
+    form by accident—it takes intention, effort, and commitment. Our Write the Docs
+    community is special today because this has been a priority since the first conference
+    10 years ago. Inclusive language is one of the tools we use to nurture this environment,
+    but it''s often misunderstood (and sometimes disparaged) as a list of rules to
+    memorize just to avoid offending anyone. How can we improve this approach?</p>
+
+    <p>Trauma is complex, but can be succinctly described as a lasting emotional response
+    to distressing events one has lived through. By examining empathy and inclusive
+    language through the lens of trauma, we can:</p>
+
+    <ul>
+
+    <li>identify and evaluate potentially problematic language in advance</li>
+
+    <li>understand how and why problematic language may negatively affect people</li>
+
+    <li>advocate for inclusive language, even against resistance</li>
+
+    </ul>
+
+    <p>Trauma is far more widespread than we might first imagine, but we can avoid
+    the dynamics that may bring those emotional responses back to the forefront. The
+    words we choose genuinely matter.</p>
+
+    <p>NOTE: Trauma is a heavy subject to examine. Content warnings will be provided
+    both at the beginning of the talk and immediately prior to each slide they are
+    relevant to. Please prioritize your well-being.</p>'
   youtubeId: xy6bsPG4PLg
 - title: Did You Read the SOP? Procedure Writing for the Laboratory
   slug: did-you-read-the-sop-procedure-writing-for-the-laboratory-sarah-greene

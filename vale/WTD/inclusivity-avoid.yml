@@ -1,0 +1,6 @@
+message: "Don't say '%s'"
+extends: existence
+ignorecase: true
+level: error
+tokens:
+  - "Black sheep"

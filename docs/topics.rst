@@ -171,6 +171,7 @@ Other specific doc types
 
 Including how-tos, reference docs, tutorials, and books.
 
+- |:newspaper:| `Code samples: Comments and placeholder text </blog/newsletter-june-2023/#code-samples-comments-and-placeholder-text>`__
 - |:newspaper:| `Templates for concept documentation </blog/newsletter-may-2022/#templates-for-concept-documentation>`__
 - |:movie_camera:| `How to write a book for (and with) an open source community </videos/prague/2021/how-to-write-a-book-for-and-with-an-open-source-community-felicity-brand/>`__
 - |:movie_camera:| `So you need to give bad news to users… </videos/prague/2021/so-you-need-to-give-bad-news-to-users-ryan-macklin-he-they/>`__
@@ -214,6 +215,7 @@ Storytelling
 Writing doc sets
 ----------------
 
+- |:newspaper:| `Public vs. private docs </blog/newsletter-june-2023/#public-vs-private-docs>`__
 - |:movie_camera:| `Don’t shoot yourself in the foot with content reuse </videos/portland/2022/don-t-shoot-yourself-in-the-foot-with-content-reuse-anna-gasparyan/>`__
 - |:movie_camera:| `How to launch your startup with good docs </videos/prague/2019/how-to-launch-your-startup-with-good-docs-brian-lemke/>`__
 - |:movie_camera:| `Delivering Documents For All Three Use Cases </videos/au/2017/delivering-documents-for-all-three-use-cases-margaret-fero/>`__
@@ -283,6 +285,7 @@ Hiring
 Getting hired
 ~~~~~~~~~~~~~
 
+- |:newspaper:| `Extreme take-home tests </blog/newsletter-june-2023/#extreme-take-home-tests>`__
 - |:newspaper:| `Building an API portfolio </blog/newsletter-april-2023/#building-an-api-portfolio>`__
 - |:newspaper:| `Certifications and qualifications </blog/newsletter-july-2022/#certifications-and-qualifications>`__
 - |:newspaper:| `Breaking into tech writing </blog/newsletter-april-2022/#breaking-into-tech-writing>`__
@@ -465,6 +468,7 @@ User needs
 Doc tools
 ---------
 
+- |:newspaper:| `Choosing a CCMS or a static site generator </blog/newsletter-june-2023/#choosing-a-ccms-or-a-static-site-generator>`__
 - |:movie_camera:| `Two years of Markdoc: what we’ve learned about balancing developer and author experience </videos/prague/2022/two-years-of-markdoc-what-we-ve-learned-about-balancing-developer-and-author-ex-ryan-paul/>`__
 - |:newspaper:| `Standards in documentation tooling </blog/newsletter-december-2021/#standards-in-documentation-tooling>`__
 - |:movie_camera:| `Hitchhiker’s Guide to Documentation Tools and Processes </videos/prague/2021/hitchhiker-s-guide-to-documentation-tools-and-processes-lukas-reu-ner/>`__
