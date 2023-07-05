@@ -33,7 +33,7 @@
     \ our community site, and from an everyday work perspective, it’s a great way\
     \ to balance the need to always be publishing new tutorials with the time to look\
     \ after what we already have.</p>"
-  youtubeId: xy6bsPG4PLg
+  youtubeId: Y3SH0-iWWhc
 - title: Zen And The Art Of Automanually Creating API Documentation - An Inquiry Into
     Process
   slug: zen-and-the-art-of-automanually-creating-api-documentation-an-inquiry-into-pro-dan-grabski
@@ -70,7 +70,7 @@
     \ is a priority for everyone, not just technical writers?</li>\n</ul>\n<p>And\
     \ what can we learn from 24 hour psytrance at Burning Man that will help people\
     \ work together, anyway?</p>"
-  youtubeId: xy6bsPG4PLg
+  youtubeId: UHVAKNdvihE
 - title: The visuals your users never saw…wait that’s most of them
   slug: the-visuals-your-users-never-saw-wait-that-s-most-of-them-caitlin-davey
   series: Write the Docs Portland
@@ -96,7 +96,7 @@
     \ do’s, don’t’s, and nice-to-haves when considering diagrams or other visuals\
     \ within your documentation. Finally, I’ll provide some ideas on how to get started\
     \ updating the visual language of your documentation.</p>"
-  youtubeId: xy6bsPG4PLg
+  youtubeId: wKpnN075bfo
 - title: 'Myths, Mistakes, and Missed Opportunities: Lessons learned from a year of
     interviewing technical writers.'
   slug: myths-mistakes-and-missed-opportunities-lessons-learned-from-a-year-of-interv-linda-ikechukwu
@@ -128,7 +128,7 @@
     \ to other careers within your company.</li>\n<li>Transitioning from senior tech\
     \ writer to management</li>\n<li>Working with managers who do not understand the\
     \ importance of technical writers</li>\n</ul>"
-  youtubeId: xy6bsPG4PLg
+  youtubeId: h3Rl1cKarVA
 - title: Winning Over Coworkers, Collaborators, and Customers to a New Knowledge Experience
   slug: winning-over-coworkers-collaborators-and-customers-to-a-new-knowledge-experien-jennifer-a-swallow
   series: Write the Docs Portland
@@ -157,7 +157,7 @@
     \ awareness as new employees and new customers join</li>\n</ul>\n<p>If you are\
     \ tasked with creating a new, crowd sourced knowledge base or if you are managing\
     \ a knowledge base with low usage or low internal support, this talk is for you.</p>"
-  youtubeId: xy6bsPG4PLg
+  youtubeId: yUhLkF-YDZs
 - title: Navigating the Future of Technical Writing in a Rapidly Evolving Tech Landscape
   slug: navigating-the-future-of-technical-writing-in-a-rapidly-evolving-tech-landscape-scott-truelove
   series: Write the Docs Portland
@@ -182,7 +182,7 @@
     \ the role that human technical writers will play in the future and will highlight\
     \ the unique value that technical writers bring to the field and why AI will never\
     \ be able to fully replace them.</p>"
-  youtubeId: xy6bsPG4PLg
+  youtubeId: jcKCN9VhuPU
 - title: GREAT BIG ENGINEERING ORG; itty bitty docs team
   slug: great-big-engineering-org-itty-bitty-docs-team-kari-halsted
   series: Write the Docs Portland
@@ -216,7 +216,7 @@
     \ that go both directions.</li>\n<li>Fostering a “docs matter” mindset with product\
     \ managers.</li>\n<li>Building a strong, resilient team, and what that looks like.</li>\n\
     </ul>"
-  youtubeId: xy6bsPG4PLg
+  youtubeId: gdsmHokNdIs
 - title: The Descriptivist Manifesto
   slug: the-descriptivist-manifesto-ed-cormany
   series: Write the Docs Portland
@@ -245,7 +245,7 @@
     \ linguistic consensus within our teams and addressing our readers in language\
     \ that feels familiar builds truly communicative documentation, not merely \"\
     technical\" writing.</p>"
-  youtubeId: xy6bsPG4PLg
+  youtubeId: RbFxwuNJjWo
 - title: 'Is it (layer) cake: Thinking in content levels'
   slug: is-it-layer-cake-thinking-in-content-levels-ryan-young
   series: Write the Docs Portland
@@ -279,7 +279,7 @@
     \ a surprisingly great experience</li>\n</ul>\n<p>In this presentation, I’ll explain\
     \ how we developed this framework, compare it to other similar frameworks, talk\
     \ about how we’ve used it in our docs, and how others can start using it.</p>"
-  youtubeId: xy6bsPG4PLg
+  youtubeId: 0OKRNQvZbL4
 - title: 'From resistance to adoption: navigating the challenges of docs-like-code'
   slug: from-resistance-to-adoption-navigating-the-challenges-of-docs-like-code-adam-altman
   series: Write the Docs Portland
@@ -307,7 +307,7 @@
     \ documents with many dependencies.</li>\n<li>Inability to handle multimedia content,\
     \ such as images or videos.</li>\n<li>Lack of support for real-time collaboration\
     \ and feedback.</li>\n</ol>"
-  youtubeId: xy6bsPG4PLg
+  youtubeId: E12mXHjcQBE
 - title: 'Release-ready Docs: How a 2-person team keeps a help center consistently
     accurate'
   slug: release-ready-docs-how-a-2-person-team-keeps-a-help-center-consistently-accurat-daniel-murphey
@@ -333,7 +333,7 @@
     \ to keep our help center day-one release accurate</li>\n<li>Challenges we’ve\
     \ had to overcome</li>\n<li>Tips to open lines of communication, make helpful\
     \ friends, and achieve day-one docs</li>\n</ul>"
-  youtubeId: xy6bsPG4PLg
+  youtubeId: E_lKcCnK9I8
 - title: 'Trauma-Informed Documentation: Taking empathy and inclusive language to
     the next level'
   slug: trauma-informed-documentation-taking-empathy-and-inclusive-language-to-the-next-ashleigh-rentz
@@ -343,37 +343,26 @@
   speakers:
   - name: Ashleigh Rentz
     slug: ashleigh-rentz
-    twitter: 
-    website: 
-  abstract: '<p>In the software industry, welcoming and empathetic communities don''t
-    form by accident—it takes intention, effort, and commitment. Our Write the Docs
-    community is special today because this has been a priority since the first conference
-    10 years ago. Inclusive language is one of the tools we use to nurture this environment,
-    but it''s often misunderstood (and sometimes disparaged) as a list of rules to
-    memorize just to avoid offending anyone. How can we improve this approach?</p>
-
-    <p>Trauma is complex, but can be succinctly described as a lasting emotional response
-    to distressing events one has lived through. By examining empathy and inclusive
-    language through the lens of trauma, we can:</p>
-
-    <ul>
-
-    <li>identify and evaluate potentially problematic language in advance</li>
-
-    <li>understand how and why problematic language may negatively affect people</li>
-
-    <li>advocate for inclusive language, even against resistance</li>
-
-    </ul>
-
-    <p>Trauma is far more widespread than we might first imagine, but we can avoid
-    the dynamics that may bring those emotional responses back to the forefront. The
-    words we choose genuinely matter.</p>
-
-    <p>NOTE: Trauma is a heavy subject to examine. Content warnings will be provided
-    both at the beginning of the talk and immediately prior to each slide they are
-    relevant to. Please prioritize your well-being.</p>'
-  youtubeId: xy6bsPG4PLg
+    twitter:
+    website:
+  abstract: "<p>In the software industry, welcoming and empathetic communities don't\
+    \ form by accident—it takes intention, effort, and commitment. Our Write the Docs\
+    \ community is special today because this has been a priority since the first\
+    \ conference 10 years ago. Inclusive language is one of the tools we use to nurture\
+    \ this environment, but it's often misunderstood (and sometimes disparaged) as\
+    \ a list of rules to memorize just to avoid offending anyone. How can we improve\
+    \ this approach?</p>\n<p>Trauma is complex, but can be succinctly described as\
+    \ a lasting emotional response to distressing events one has lived through. By\
+    \ examining empathy and inclusive language through the lens of trauma, we can:</p>\n\
+    <ul>\n<li>identify and evaluate potentially problematic language in advance</li>\n\
+    <li>understand how and why problematic language may negatively affect people</li>\n\
+    <li>advocate for inclusive language, even against resistance</li>\n</ul>\n<p>Trauma\
+    \ is far more widespread than we might first imagine, but we can avoid the dynamics\
+    \ that may bring those emotional responses back to the forefront. The words we\
+    \ choose genuinely matter.</p>\n<p>NOTE: Trauma is a heavy subject to examine.\
+    \ Content warnings will be provided both at the beginning of the talk and immediately\
+    \ prior to each slide they are relevant to. Please prioritize your well-being.</p>"
+  youtubeId: 89PTxN85FVU
 - title: Did You Read the SOP? Procedure Writing for the Laboratory
   slug: did-you-read-the-sop-procedure-writing-for-the-laboratory-sarah-greene
   series: Write the Docs Portland
@@ -405,4 +394,4 @@
     \ look for in documentation? Often in high-stress situations, what works and what\
     \ doesn’t?</li>\n<li>What the lab experience can teach technical writers</li>\n\
     </ul>"
-  youtubeId: xy6bsPG4PLg
+  youtubeId: m23cLwiJyPU
