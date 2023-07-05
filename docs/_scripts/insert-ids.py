@@ -44,13 +44,15 @@ def load_yt_playlist(file_path):
 
 def find_most_similar_title(playlist_data, query_title):
     max_similarity = 0
+    most_similar_id = ''
 
     for yt_id, yt_title in playlist_data:
         similarity = Levenshtein.ratio(query_title.lower(), yt_title.lower())
         if similarity > max_similarity:
             max_similarity = similarity
+            most_similar_id = yt_id
 
-    return yt_id
+    return most_similar_id
 
 
 if __name__ == '__main__':
