@@ -7,7 +7,7 @@ Write the Docs Newsletter – July 2023
 
 Aloha! There's lots to cover this month, so let's dive in.
 
-Who makes up the Write the Docs community? What proportion support pay transparency?  Where are salaries highest? How many have started a new job in the past 12 months? All these questions and more are answered in the `2022 Write the Docs Salary Survey results <https://writethedocs.org/surveys>`__. Stay tuned: the survey for 2023 will be opening in early September.
+Who makes up the Write the Docs community? What proportion support pay transparency? Where are salaries highest? How many have started a new job in the past 12 months? All these questions and more are answered in the `2022 Write the Docs Salary Survey results <https://writethedocs.org/surveys>`__. Stay tuned: the survey for 2023 will be opening in early September.
 
 In conference news, we recently saw the announcement of the `speakers for the 2023 Atlantic conference </conf/atlantic/2023/news/announcing-speakers/>`__. So check out all the interesting things you can look forward to learning. And the `Australia conference </conf/australia/2023/news/welcome/>`__ is getting ready for the call for proposals and ticket sales so stand by for more about that.
 
@@ -35,7 +35,7 @@ A recent thread resurrected an enduring issue with documentarians: How do we get
 
 People indicated that there are two levels of questions: 1) general, high-level questions; and 2) specific, detailed questions. Documentarians ask general questions to get an overall understanding of a product or domain. After we have the higher-level understanding, we can determine what detailed questions to ask. Specific questions fill in the gaps in our knowledge.
 
-For general questions, you can ask them of product managers or customer support. Another potential resource could be any QA testers. We also have `learning resources on the topic </topics/#working-with-other-roles>`__ for interacting with people in other positions. If you're writing end-user documentation, this knowledge along with your personal experience of the product may be sufficient.
+For general questions, you can ask product managers or customer support. Another potential resource could be any QA testers. We also have `learning resources on the topic </topics/#working-with-other-roles>`__ for interacting with people in other positions. If you're writing end-user documentation, this knowledge along with your personal experience of the product may be sufficient.
 
 If you're writing for a more technical audience, you may need to approach subject-matter experts (SMEs; such as developers) for detailed information. See the `2020 article </blog/newsletter-may-2020/#getting-more-info-from-smes>`__ for interacting effectively with SMEs. A current poster mentioned that it's important "to show you've put effort into figuring things out before taking up their time." Another suggested asking very specific (not open-ended) questions based on your understanding because experts like to correct misunderstandings. In the 2020 article, this was indicated as Cunningham’s Law: “The best way to get the right answer on the internet isn't to ask a question; it’s to post the wrong answer.”
 
