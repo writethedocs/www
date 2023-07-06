@@ -286,7 +286,7 @@ Hiring
 Getting hired
 ~~~~~~~~~~~~~
 
-- |:newspaper:| `Setting Up for Success as a Neurodivergent Person </blog/newsletter-july-2023/#setting-up-for-success-as-a-eurodivergent-person>`__
+- |:newspaper:| `Setting Up for Success as a Neurodivergent Person </blog/newsletter-july-2023/#setting-up-for-success-as-a-neurodivergent-person>`__
 - |:newspaper:| `Extreme take-home tests </blog/newsletter-june-2023/#extreme-take-home-tests>`__
 - |:newspaper:| `Building an API portfolio </blog/newsletter-april-2023/#building-an-api-portfolio>`__
 - |:newspaper:| `Certifications and qualifications </blog/newsletter-july-2022/#certifications-and-qualifications>`__
