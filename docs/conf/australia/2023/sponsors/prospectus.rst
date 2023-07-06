@@ -88,8 +88,7 @@ The **Patron** package highlights your company as a force in the industry and co
 - Thirteen (13) tickets_
 - Seven (7) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 - A medium description (750 characters and logo of your company on the conference website
-- A **virtual sponsorship booth**
-- A featured table at our **virtual job fair**
+- A **sponsorship booth**
 - Small logo included in intermission slides and on talk videos
 - Name included in welcome announcement in email newsletters and social media
 - 5 minute sponsored lightning talk on main stage of the conference
@@ -107,8 +106,7 @@ The **Keystone** package highlights you as our main community partner:
 - Twenty (20) tickets_
 - Ten (10) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 - A large description (750 characters) and logo of your company on the conference website
-- A featured **virtual sponsorship booth**
-- A featured table at our **virtual job fair**
+- A featured **sponsorship booth**
 - Large logo included in intermission slides and on talk videos
 - Name included in welcome announcement in email newsletters and social media
 - 5 minute sponsored lightning talk on main stage of the conference
@@ -168,22 +166,6 @@ The Run of Show will be published closer to the event.
 This Run of Show provides more context about the event and answers some common questions you may have.
 Please let us know if there is any information missing that would be useful for you.
 
-Sponsorship platform
---------------------
-
-We will be using `Hopin <https://hopin.to/>`_ as our online conference platform. It has multiple unique spaces for attendees during the conference, and we hope it will allow for a good amount of interaction between attendees and sponsors.
-
-We will open the online platform 1 week prior to the conference starting. You will be able to create an account and be assigned roles by us, but it won't become fully active until the day of the conference.
-
-Sponsorship spaces
-------------------
-
-A quick overview of the important spaces in the "venue":
-
-* The *main stage* is where the talks happen. This is also where Lightning talks will be given.
-* The *Sessions area* is where the Writing Day, Unconference and Social event will happen.
-* The *Expo area* is where sponsors will be able to have booths available. You can provide videos that will play whenever attendees enter your booth, as well as chat or video-call directly with attendees.
-
 Sponsorship events
 ------------------
 
@@ -200,6 +182,14 @@ How do I get the most out of my sponsorship?
 --------------------------------------------
 
 Come prepared to engage with our community, and to learn just as much as you teach. Engage with our event as attendees as well as sponsors. Send technical staff who can chat with people on the interesting things your company is doing, and get value from the vast amount of insight in the room. We do have some decision makers in the room, but soft sells will work better than hard sales in the environment we strive for.
+
+Quick tips
+----------
+
+* **Arrive early**: The conference venue opens at 8am, so we recommend arriving around this time to get the most interaction with attendees.
+* **Bring swag (especially stickers)**: We recommend bringing a variety of swag to give away. Stickers are by far the most popular item for our attendees.
+* **Engage with folks as both a sponsor and attendee**: This is a great opportunity to meet folks in the community, so we recommend engaging with folks in an official capacity, but also as a regular attendee.
+* **Use QR codes**: QR codes are a great way to get people a website quickly. We recommend using a service like https://www.qr-code-generator.com/ to create these.
 
 Who is my primary contact?
 --------------------------
@@ -223,16 +213,5 @@ You will be given a discount code that will let you post them for free,
 please ask us for this if you don't have it!
 They will be published in our :doc:`Newsletter </newsletter>` every month,
 and displayed on our website as well.
-
-What does the platform look and feel like?
-------------------------------------------
-
-You can see a demo of the platform in this video.
-It's currently linked to the expo hall demo,
-but it has demos of all the other areas as well:
-
-.. raw:: html
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/JgGVOlbOPUU?start=465" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% endif %}
