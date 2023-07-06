@@ -171,7 +171,7 @@ Other specific doc types
 
 Including how-tos, reference docs, tutorials, and books.
 
-- |:newspaper:| `Documenting YAML Files </blog/newsletter-may-2023/#documenting-yaml-files>`__
+- |:newspaper:| `Documenting YAML Files </blog/newsletter-july-2023/#documenting-yaml-files>`__
 - |:newspaper:| `Code samples: Comments and placeholder text </blog/newsletter-june-2023/#code-samples-comments-and-placeholder-text>`__
 - |:newspaper:| `Templates for concept documentation </blog/newsletter-may-2022/#templates-for-concept-documentation>`__
 - |:movie_camera:| `How to write a book for (and with) an open source community </videos/prague/2021/how-to-write-a-book-for-and-with-an-open-source-community-felicity-brand/>`__
@@ -286,7 +286,7 @@ Hiring
 Getting hired
 ~~~~~~~~~~~~~
 
-- |:newspaper:| `Setting Up for Success as a Neurodivergent Person </blog/newsletter-may-2023/#setting=up-for-success-as-a-eurodivergent-person>`__
+- |:newspaper:| `Setting Up for Success as a Neurodivergent Person </blog/newsletter-july-2023/#setting-up-for-success-as-a-eurodivergent-person>`__
 - |:newspaper:| `Extreme take-home tests </blog/newsletter-june-2023/#extreme-take-home-tests>`__
 - |:newspaper:| `Building an API portfolio </blog/newsletter-april-2023/#building-an-api-portfolio>`__
 - |:newspaper:| `Certifications and qualifications </blog/newsletter-july-2022/#certifications-and-qualifications>`__
@@ -721,7 +721,7 @@ Working with other roles
 
 Including product managers, higher-ups, etc.
 
-- |:newspaper:| `Getting Info from Others </blog/newsletter-may-2023/#getting-info-from-thers>`__
+- |:newspaper:| `Getting Info from Others </blog/newsletter-july-2023/#getting-info-from-others>`__
 - |:newspaper:| `Setting boundaries </blog/newsletter-april-2023/#setting-boundaries>`__
 - |:newspaper:| `Push vs. pull for docs work </blog/newsletter-december-2022/#push-vs-pull-for-docs-work>`__
 - |:newspaper:| `Improving communication about what's in releases </blog/newsletter-september-2022/#improving-communication-about-what-s-in-releases>`__
@@ -754,7 +754,7 @@ Planning and how we work
 Prioritisation
 ~~~~~~~~~~~~~~
 
-- |:newspaper:| `Pushing Back When You're Overloaded </blog/newsletter-july-2023/#pushing-back-when-you-re-verloaded>`__
+- |:newspaper:| `Pushing Back When You're Overloaded </blog/newsletter-july-2023/#pushing-back-when-you-re-overloaded>`__
 - |:newspaper:| `Dealing with competing priorities </blog/newsletter-april-2019/#dealing-with-competing-priorities>`__
 - |:movie_camera:| `Just Add Data: Make it easier to prioritize your documentation </videos/portland/2019/just-add-data-make-it-easier-to-prioritize-your-documentation-sarah-moir/>`__
 - |:movie_camera:| `Document What Matters: Lean Best Practice for Process Documentation </videos/prague/2018/document-what-matters-lean-best-practice-for-process-documentation-gillian-von-runte/>`__
