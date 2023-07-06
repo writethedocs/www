@@ -25,7 +25,7 @@ All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
 
 {% if flaghasfood %}
 
-*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+*Morning tea and lunch will be provided, as well as snacks and drinks all day.*
 
 {% endif %}
 
@@ -38,7 +38,7 @@ Conference Talks
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each set of 2 talks.
+Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each talk.
 
 .. separator to fix list formatting
 
@@ -79,7 +79,7 @@ and bring your favorite beverage to your computer :)
 
 {% if flaghasfood %}
 
-*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+*Morning tea and lunch will be provided, as well as snacks and drinks all day.*
 
 {% endif %}
 
@@ -92,7 +92,7 @@ Conference Talks
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each set of 2 talks.
+Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each talk.
 
 .. separator to fix list formatting
 

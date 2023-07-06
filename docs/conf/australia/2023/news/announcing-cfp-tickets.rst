@@ -18,11 +18,11 @@ Call for Proposals
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
 We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!
 
-**For 2023 we are going back to an in-person event**.
+**For 2023, we are going back to an in-person event**.
 
 You can read our full `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`__ on the website.
 
-The Call for Proposals will be open until **11:59 PM {{cfp.ends}} {{ tz }}**.
+The Call for Proposals will be open until **11:59 PM {{cfp.ends}} AEST**.
 
 Tickets
 -------

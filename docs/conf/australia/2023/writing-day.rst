@@ -1,40 +1,9 @@
 :template: {{year}}/generic.html
 :banner: _static/conf/images/headers/writing-day.png
 
-Writing Day
-===========
-
-The Write the Docs Australia 2023 conference will feature a light Writing Day event as part of the regular conference activities. 
-
-To be completed
-
 What is Writing Day?
 --------------------
 The Writing Day event gives open-source project owners a chance to get some help on their project's documentation needs or their documentation-related projects. The project's maintainers usually prepare simple, modular activities that people can participate in to get introduced to the project and make a meaningful contribution.
-
-The Write the Docs Australia 2022 conference will feature workshops and events run by `The Good Docs Project <https://tinyurl.com/good-docs-australia-2022>`_. The Good Docs Project is an open source community of 35+ technical writers, doc tools experts, UX designers, and software engineers who are committed to improving the quality of documentation in open source. They aim to educate and empower people to create high-quality documentation by providing them with resources, best practices, and tools to enhance their documentation in open source and beyond.
-
-Schedule - Day one
-------------------
-The Writing Day events will take place both conference day mornings, for a few hours before the conference talks are scheduled. All times are listed in AEDT (Australian Eastern Daylight Time):
-
-**9:45 - 10:35** - Kickoff
-
-- Come get a general introduction to the Good Docs Project and an overview of the projects that we would like your help with today.
-
-**10:45 - 12:00** - Template roadmap workshop
-
-- The flagship initiative of our project is to create templates that can be used by both technical writers and non-technical writers to create high quality documentation. In this workshop, you'll participate in a fun, hands-on brainstorming activity to help us decide which templates we should add to our roadmap next. We'll close out this segment by showing you our roadmap and talking about how you can get involved to make the roadmap a reality if you'd like to contribute to the project beyond the Writing Day.
-
-
-Schedule - Day two
-------------------
-The Writing Day events will take place both conference day mornings, for a few hours before the conference talks are scheduled. All times are listed in AEDT (Australian Eastern Daylight Time):
-
-**9:30 - 11:30** - Template review workshop
-
-- We have a few templates that are ready for a deeper review from the wider community. Come join this segment of the Writing Day to provide feedback on our templates for How To, Release Notes, Contributing Guide, and README.
-
 
 How to participate in our Writing Day activities
 -------------------------------------------------
