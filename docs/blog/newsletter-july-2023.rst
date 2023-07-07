@@ -9,7 +9,7 @@ Aloha! There's lots to cover this month, so let's dive in.
 
 Who makes up the Write the Docs community? What proportion support pay transparency? Where are salaries highest? How many have started a new job in the past 12 months? All these questions and more are answered in the `2022 Write the Docs Salary Survey results <https://writethedocs.org/surveys>`__. Stay tuned: the survey for 2023 will be opening in early September.
 
-In conference news, we recently saw the announcement of the `speakers for the 2023 Atlantic conference </conf/atlantic/2023/news/announcing-speakers/>`__. So check out all the interesting things you can look forward to learning. And the `Australia conference </conf/australia/2023/news/welcome/>`__ is getting ready for the call for proposals and ticket sales so stand by for more about that.
+In conference news, we recently saw the announcement of the `speakers for the 2023 Atlantic conference </conf/atlantic/2023/news/announcing-speakers/>`__. So check out all the interesting things you can look forward to learning. And the Australia conference has released the `call for proposals </conf/australia/2023/cfp/>`__ and `ticket sales </conf/australia/2023/tickets/>`__ so get ready for good times in December.
 
 Away from the conferences and surveys, I'd like to extend thanks from all of Write the Docs to Daryl White. He has been coordinating the `book club in #learn-tech-writing </book-club/>`__ since January 2020 and facilitating many discussions. It's been a tremendous benefit to many people to be able to learn about various aspects of technical writing together with others on a similar journey. I know it's helped push me to read books and learn things I wouldn't have otherwise. Thank you for your contributions, Daryl.
 
