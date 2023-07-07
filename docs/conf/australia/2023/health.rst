@@ -14,7 +14,7 @@ This policy is up to date as of **July 2023**.
 Vaccine or Negative COVID-19 Test Requirement
 -------------------------------------------------
 
-Currently, there is no requirement for COvID-19 vaccination proof or a negative COVID-19 test for attending the Write the Docs Australia 2023 conference. 
+Currently, there is no requirement for COVID-19 vaccination proof or a negative COVID-19 test for attending the Write the Docs Australia 2023 conference. 
 If anything changes between now and closer to the event, attendees will be made fully aware of these requirements.
 
 Other Testing Encouraged
