@@ -11,10 +11,11 @@ This policy is up to date as of **July 2023**.
     :depth: 1
     :backlinks: none
 
-**Vaccine or Negative COVID-19 Test Requirement**
+Vaccine or Negative COVID-19 Test Requirement
 -------------------------------------------------
 
-According to the `current public health guidelines issued by the Victorian Government <https://www.coronavirus.vic.gov.au/information-travellers>`__, there is no vaccination, quarantine, permit, or testing requirement to enter Victoria.
+Currently, there is no requirement for COvID-19 vaccination proof or a negative COVID-19 test for attending the Write the Docs Australia 2023 conference. 
+If anything changes between now and closer to the event, attendees will be made fully aware of these requirements.
 
 Other Testing Encouraged
 ------------------------
@@ -27,7 +28,7 @@ Masks Encouraged and Provided
 -----------------------------
 
 We are not currently requiring that masks be worn at all times in the venue.
-We will be providing N95 and cloth masks to attendees at our registration desk.
+We will be providing N95 masks to attendees at our registration desk.
 There will also be signage indicating that masks are recommended.
 
 Of all our policies, this is the one most likely to change to a mask requirement if the COVID conditions require it.
@@ -48,6 +49,10 @@ Please expect the following measures to be in place at the event:
 At a minimum, we will also be following all mandated venue and state guidelines.
 **This list, and all protocols, are subject to change as the fluid COVID-19 situation changes.
 Changes to this policy will only add requirements, and will not remove requirements.**
+
+Current public health guidelines
+--------------------------------
+According to the `current public health guidelines issued by the Victorian Government <https://www.coronavirus.vic.gov.au/information-travellers>`__, there is no vaccination, quarantine, permit, or testing requirement to enter Victoria.
 
 Thanks
 ------
