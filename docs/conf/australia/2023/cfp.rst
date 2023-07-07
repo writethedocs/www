@@ -4,7 +4,9 @@ Call for Proposals
 ==================
 
 G'day fellow documentarians! It's that time of the year again.
-We’re very excited to announce that we are now accepting talk proposals for our next {{ city }} conference, coming up on {{date.main}}. The conference is virtual this year, so you can speak or attend from anywhere. We will use regular {{ city }} conference times for the scheduling.
+We’re very excited to announce that we are now accepting talk proposals for our next {{ city }} conference, coming up on {{date.main}}.
+
+As part of returning to an in-person conference, we're also introducing a new and more detailed :doc:`health and safety policy </conf/{{shortcode}}/{{year}}/health/>`. 
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you!
 Read on to learn more about the goals of the conference and what we look for in talk proposals.
@@ -115,7 +117,7 @@ If you are making those assumptions about what your audience knows, it helps eve
 It can be  helpful to check out topics that might be related to your talk from previous years as well:
 
 * `Australia {{year-1}} <https://www.writethedocs.org/conf/australia/{{year-1}}/speakers/>`_
-* `Australia {{year-2}} <https://www.writethedocs.org/conf/australia/{{year-2}}/speakers/>`_
+* `Australia {{year-3}} <https://www.writethedocs.org/conf/australia/{{year-3}}/speakers/>`_
 * `Portland {{year-1}} <https://www.writethedocs.org/conf/portland/{{year-1}}/speakers/>`_
 * `Prague {{year-1}} <https://www.writethedocs.org/conf/prague/{{year-1}}/speakers/>`_
 * `Portland {{year-2}} <https://www.writethedocs.org/conf/portland/{{year-2}}/speakers/>`_
@@ -133,8 +135,6 @@ If you need a hand preparing or honing your talk proposal, there are lots of goo
 * **Slack hivemind** – You can also hit up the hivemind directly on the Write the Docs Slack, any time of day! (If you're not registered yet, you can at `http://slack.writethedocs.org/ <http://slack.writethedocs.org/>`_.)
 * **Twitter hivemind** – If Twitter is more your speed, `#writethedocs <https://twitter.com/hashtag/writethedocs>`__ will get you there.
 
-Because the conference is virtual this year, there is no need for travel, and we're hoping this will make our CFP accessible to more documentarians. We will also provide resources and support for recording your talk.
-
 Selection process
 ------------------
 
@@ -146,12 +146,12 @@ We actively balance for diversity in as many ways as we can, which means that we
 Presentation format
 -------------------
 
-Presentations will be scheduled in 30-minute blocks. As the conference is virtual, all talks will be pre-recorded. We will offer resources and support for making your talk recording. After your talk, there will be a live Q&A session. You can opt out of the Q&A if you do not feel comfortable, but please let us know well in advance.
+Presentations will be scheduled in 30-minute blocks, delivered **in-person, on-stage, live**.
 
 Speaker benefits & logistics
 ----------------------------
 
-If you are selected to speak at Write the Docs, we will waive your attendance fee. As the conference is virtual, there are no travel costs.
+If you are selected to speak at Write the Docs, we will waive your attendance fee.
 If speaking incurs any costs that are difficult for you to cover, please `let us know <mailto:{{email}}>`_ and we'll do our best to help out.
 
 If you already have a ticket, we will of course refund it - just drop us an email at `{{email}} <mailto:{{email}}>`_.
@@ -159,7 +159,7 @@ If you already have a ticket, we will of course refund it - just drop us an emai
 {% if flagcfp %}
 **You’ll hear from us with our proposal decisions by the end of {{cfp.notification}}.**
 
-All talks will be shown prerecorded, and we'll be asking for a **completed video from you by {{cfp.video_by}}**. We have a host of options to support you in making this happen, including the possibility of a live recording call with our videographer. During the conference we'll ask you to participate in a moderated Q&A video session after your talk recording is shown.
+**You'll be delivering your talk live, in-person in Melbourne, Australia**.
 
 {% endif %}
 
