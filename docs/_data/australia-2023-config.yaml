@@ -18,37 +18,37 @@ photos:
 
 buttons:
   top:
-   - text: Read our latest news
-     link: /news/welcome
-  #  - text: Sponsor us
-  #    link: /sponsors/prospectus
-    # - text: Submit a Talk
-    #   link: /cfp
+  #   - text: Read our latest news
+  #     link: /news/welcome
+  #   - text: Sponsor us
+  #     link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp  
   #   - text: Date and ticket information
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: Read our conference guide
   #     link: /welcome-wagon
   #   - text: See the Schedule!
   #     link: /schedule
-  #  - text: Buy a Ticket!
-  #    link: /tickets
+    - text: Buy a Ticket!
+      link: /tickets
   #  - text: See the talks!
   #    link: /speakers
   #  - text: See the Schedule!
   #    link: /schedule
   #  - text: Read our guide
   #    link: /welcome-wagon
-  #   - text: Watch the Live Stream
-  #     link: /livestream
-  #   - text: Watch the videos!
-  #     link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpnDhFvXG8GprqlLlzSQRBui
-  #   - text: Thanks for coming
-  #     link: /news/thanks-recap
+  #  - text: Watch the Live Stream
+  #    link: /livestream
+  #  - text: Watch the videos!
+  #    link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpnDhFvXG8GprqlLlzSQRBui
+  #  - text: Thanks for coming
+  #    link: /news/thanks-recap
   bottom:
      - text: Welcome to our conference
        link: /news/welcome
-  #  - text: Sponsor the conference
-  #    link: /sponsors/prospectus
+  #   - text: Sponsor the conference
+  #     link: /sponsors/prospectus
   #   - text: Submit a Talk
   #     link: /cfp
   #   - text: See the Schedule!
@@ -59,11 +59,11 @@ buttons:
   #     link: /speakers
   #   - text: Buy a Ticket!
   #     link: /tickets
-  #  - text: Read our guide
-  #    link: /welcome-wagon
-  #  - text: See the schedule!
-  #    link: /schedule
-  #   - text: Watch the Live Stream
+  #   - text: Read our guide
+  #     link: /welcome-wagon
+  #   - text: See the schedule!
+  #     link: /schedule
+  #    - text: Watch the Live Stream
   #     link: /livestream
   #   - text: Browse the photos
   #     link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
@@ -76,7 +76,7 @@ tickets:
   independent:
     price: $150
   student:
-    price: $50
+    price: $75
 
 sponsorship:
   first_draft:
@@ -141,7 +141,7 @@ about:
   job_fair_room: "Sponsor area"
 
 cfp:
-  url: https://pretalx.com/wtd-australia-2023/cfp # Open June 15, 2023, 12 weeks to submit
+  url: https://pretalx.com/wtd-australia-2023/cfp # Open July 15, 2023, 8 weeks to submit
   ends: "September 15, 2023"           # 2 weeks to review and get confirmations
   notification: "September 30, 2023"   # 8 weeks to write and prepare
   slides_by: "December 01, 2023"       # 1 week before
@@ -153,7 +153,7 @@ unconf:
 
 
 grants:
-  url: https://docs.google.com/forms/d/e/1FAIpQLSfZczqqIwuz8Gj57O5MsJrPqW-K195bqD1-LovRw-dF_d4z5A/viewform
+  url: https://forms.gle/Pi7zm72XPjebNzS16
   ends: "October 15, 2023"
   notification: "October 31, 2023"
 
@@ -179,10 +179,10 @@ sponsors:
       brand: Read the Docs
 
 # Things that change over time, listed in order of change
-flaglanding: True
+flaglanding: False
 flaghassponsors: False
-flagcfp: False
-flagticketsonsale: False
+flagcfp: True
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False
