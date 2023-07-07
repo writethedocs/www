@@ -56,10 +56,9 @@ Talks are around 30 minutes. Most speakers will have a live, moderated Q&A sessi
 Social Event
 ~~~~~~~~~~~~
 
-The official Write the Docs social!
-Further details will be announced later,
-but expect some music and games,
-and bring your favorite beverage to your computer :)
+The official Write the Docs social! Expect a relaxed atmosphere where you can chat and network with your fellow documentarians.
+
+Snacks and drinks (non-alcoholic & alcoholic) will be provided.
 
 * **Where**: {{ about.social_venue }}
 {% if not flaghasschedule %}
