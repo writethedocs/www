@@ -24,21 +24,27 @@ async def get_events_info(meetup_link):
     soup = BeautifulSoup(response.content, 'html.parser')
 
     # Find the upcoming events div
-    upcoming_events = soup.find('div', class_=re.compile('eventsList-upcomingEvents'))
+    upcoming_events = soup.find('ul', class_=re.compile('eventList-list'))
     # If it doesn't exist, return an object with at least the location
     if upcoming_events is None:
         return [{'date': None, 'url': None, 'title': None,'location': meetup_link['location']}]
     else:
         # Find all event elements within the upcoming events div
-        events = upcoming_events.find_all('div', class_="chunk")
+        events = upcoming_events.find_all('li', class_="list-item")
         events_info = []
         # Loop through each event element
         for event in events:
             # Extract the date, URL, and title of each event
-            date = event.find('time').get('datetime')
-            event_link = event.find('a', class_="eventCard--link")
+            dateTime = event.find('time')
+            # Handle events with no date
+            if dateTime == None:
+                date = None
+            else:
+                date = dateTime.get('datetime')
+
+            event_link = event.find('a', class_="eventCardHead--title")
             event_url = event_link.get('href')
-            event_title = event_link.find('span').get_text()
+            event_title = event_link.get_text()
             events_info.append({'date': date, 'url': event_url, 'title': event_title,'location': meetup_link['location']})
         return events_info
 
@@ -71,7 +77,7 @@ for yaml_file in yaml_files:
         # If no city, just use the country
         except KeyError:
             location = f"{data['country']}"
-        meetup_links.append({"location": location, "url": f"https://www.meetup.com/{data['meetup']}"})
+        meetup_links.append({"location": location, "url": f"https://www.meetup.com/{data['meetup']}/events"})
 
 # Run the URL checks asynchronously
 results = asyncio.run(check_urls(meetup_links))
@@ -80,8 +86,13 @@ results = asyncio.run(check_urls(meetup_links))
 days_within = 37
 upcoming_events = []
 for result in results:
+    # Handle locations with no results
+    if len(result) == 0:
+        continue
+    # Handle events with no date
     if result[0]['date'] == None:
         continue
+    # Handle events with data
     for event in result:
         event_date = datetime.fromtimestamp(int(event['date']) / 1000)
         if (event_date - datetime.now()).days <= days_within:
