@@ -1,8 +1,8 @@
 :template: {{year}}/generic.html
 :banner: _static/conf/images/headers/{{ shortcode }}-group.png
 
-Online Sponsorship Prospectus
-#############################
+Sponsorship Prospectus
+#######################
 
 .. contents:: Sections
    :local:
@@ -12,9 +12,7 @@ Online Sponsorship Prospectus
 Introduction
 ============
 
-Welcome to our brand new **Online Conference Sponsorship Prospectus**.
-This document has been adapted for our new virtual conference format,
-including new benefits and increased value across our community.
+Welcome to our 2023 **Conference Sponsorship Prospectus**.
 
 We're excited to work with the organizations in our community to build the best possible event in {{ year }}.
 In particular, we would love your feedback on sponsorship levels and benefits.
@@ -24,7 +22,14 @@ but please let us know if there are other points of interaction with our communi
 Concept
 =======
 
-{% include "conf/sponsorship/concept.rst" %}
+Write the Docs Australia (http://www.writethedocs.org/) is a **two day conference** focusing on documentation systems, tech writing
+theory, and information delivery.
+
+Writing and maintaining documentation involves a multidisciplinary community of technical writers, designers, librarians, typesetters, developers,
+support teams, marketers and many others. This group of people can be collectively referred to as “documentarians”.
+
+**Write the Docs** creates a time and a place for this community to share information, discuss ideas, and work together to improve the art
+and science of documentation.
 
 Demographics
 ============
@@ -51,7 +56,7 @@ The **First Draft** package is only available to startups (under 15 employees), 
 - A short description (250 characters) and logo of your company on the conference website
 - Name included in welcome announcement in email newsletters and social media
 
-The **First Draft** package costs **{{sponsorship.first_draft.price}}**.
+The **First Draft** package costs AUD **{{sponsorship.first_draft.price}}**.
 
 Second Draft
 ------------
@@ -63,7 +68,7 @@ The **Second Draft** package is great for companies looking to hire or to promot
 - A short description (250 characters) and logo of your company on the conference website
 - Name included in welcome announcement in email newsletters and social media
 
-The **Second Draft** package costs **{{sponsorship.second_draft.price}}**.
+The **Second Draft** package costs AUD **{{sponsorship.second_draft.price}}**.
 
 Publisher
 ---------
@@ -76,7 +81,7 @@ The **Publisher** package is great for sending a team and getting to know the co
 - Name included in welcome announcement in email newsletters and social media
 - A small logo on all Write the Docs website pages for 3 months
 
-The **Publisher** package costs **{{sponsorship.publisher.price}}**.
+The **Publisher** package costs AUD **{{sponsorship.publisher.price}}**.
 
 Patron
 ------
@@ -88,8 +93,6 @@ The **Patron** package highlights your company as a force in the industry and co
 - Thirteen (13) tickets_
 - Seven (7) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 - A medium description (750 characters and logo of your company on the conference website
-- A **virtual sponsorship booth**
-- A featured table at our **virtual job fair**
 - Small logo included in intermission slides and on talk videos
 - Name included in welcome announcement in email newsletters and social media
 - 5 minute sponsored lightning talk on main stage of the conference
@@ -97,7 +100,7 @@ The **Patron** package highlights your company as a force in the industry and co
 - A logo on all Write the Docs website pages until the end of 2022. (30,000 pageviews/mo)
 - A :doc:`small ad </sponsorship/website>` displayed on all non-conferences pages of the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months.
 
-The **Patron** package costs **{{sponsorship.patron.price}}**.
+The **Patron** package costs AUD **{{sponsorship.patron.price}}**.
 
 Keystone
 --------
@@ -107,8 +110,6 @@ The **Keystone** package highlights you as our main community partner:
 - Twenty (20) tickets_
 - Ten (10) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 - A large description (750 characters) and logo of your company on the conference website
-- A featured **virtual sponsorship booth**
-- A featured table at our **virtual job fair**
 - Large logo included in intermission slides and on talk videos
 - Name included in welcome announcement in email newsletters and social media
 - 5 minute sponsored lightning talk on main stage of the conference
@@ -116,7 +117,7 @@ The **Keystone** package highlights you as our main community partner:
 - A logo on all Write the Docs website pages until the end of 2022. (30,000 pageviews/mo)
 - A :doc:`small ad </sponsorship/website>` on the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months
 
-The **Keystone** package costs **{{sponsorship.keystone.price}}**.
+The **Keystone** package costs AUD **{{sponsorship.keystone.price}}**.
 
 Other Sponsorship Opportunities
 ===============================
@@ -139,7 +140,7 @@ Benefits
 ~~~~~~~~
 
 * Your sponsor logo will be shown on the stage during all staff presentations as a grant sponsor (opening, closing).
-* We will mention your company as a grant sponsor on Twitter from the official Write the Docs account
+* We will mention your company as a grant sponsor on Twitter from the official Write the Docs account.
 
 Inquiries
 =========
