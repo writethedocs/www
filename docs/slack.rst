@@ -66,7 +66,7 @@ We considered that, and decided not to for the following reasons:
   Because it's a work-related community, a lot of people access the Write the Docs Slack from their work computers alongside their employers' Slack instances.
   They often cannot do the same for other chat platforms.
 - Migrating platforms is not a priority for the capacity of our small moderation team.
-  Our community has a *lot* of people in it - we're coming up on 20,000 registered members.
+  Our community has a *lot* of people in it - we've got over 20,000 registered members.
   Moving an active community that large to a different platform requires a lot of attention that we believe is better spent on other tasks to serve the community.
 
 Autoresponders
