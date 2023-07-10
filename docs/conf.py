@@ -175,7 +175,7 @@ global_sponsors = {}
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
     'newsletter_subs': '10,000',
-    'slack_members': '15,000',
+    'slack_members': '20,000',
     'website_visits': '20,000',
     'global_sponsors': global_sponsors,
     'cfp_variables': cfp_variables,
