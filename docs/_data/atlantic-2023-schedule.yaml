@@ -9,7 +9,7 @@ writing_day:
   - duration: '01:30'
     title: Welcome Wagon conference introduction and platform tour
   - duration: '01:30'
-    title: '🍲 Lunch Break - Determine length with table'
+    title: '🍲 Snack break - Determine length with table'
   - duration: '03:00'
     title: Welcome Wagon conference introduction and platform tour
   - duration: '00:00'
@@ -45,8 +45,8 @@ talks_day1:
     slug: graphs-not-trees-a-ground-up-approach-to-fixing-a-docs-site-matt-dodson
   - duration: '0:15'
     title: '✋ Q&A for the two previous talks'
-  - duration: '1:00'
-    title: '🍲 Lunch Break'
+  - duration: '0:30'
+    title: '🍲 Snack break'
   - duration: '0:30'
     title: ⚡️ Lightning Talks (30 mins)
   - duration: '0:40'
@@ -89,8 +89,8 @@ talks_day2:
     title: '✋ Q&A for the two previous talks'
   - duration: '0:00'
     title: "<b>Job Fair Ends</b>"
-  - duration: '1:00'
-    title: '🍲 Lunch Break'
+  - duration: '0:30'
+    title: '🍲 Snack break'
   - duration: '0:30'
     title: ⚡️ Lightning Talks (30 mins)
   - duration: '0:05'
