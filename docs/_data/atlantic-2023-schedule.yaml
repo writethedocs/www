@@ -1,5 +1,5 @@
 writing_day:
-  - time: '11:00'
+  - time: '10:00'
     title: 'Platform opens'
     duration: '01:00'
   - duration: '01:00'
@@ -16,7 +16,7 @@ writing_day:
     title: End of Writing Day
 
 talks_day1:
-  - time: '11:00'
+  - time: '10:00'
     title: Platform opens
     duration: '00:15'
   - duration: '00:45'
@@ -35,7 +35,7 @@ talks_day1:
     slug: one-glossary-to-rule-them-all-terminology-management-at-scale-ian-cowley
   - duration: '0:10'
     title: '✋ Q&A for the previous talk'
-  - duration: '0:15'
+  - duration: '0:20'
     title: '☕️ Coffee break'
   - duration: '0:30'
     slug: papercuts-stop-the-bleed-reducing-information-leakage-from-client-bound-docume-kristine-sihto
@@ -45,7 +45,7 @@ talks_day1:
     slug: graphs-not-trees-a-ground-up-approach-to-fixing-a-docs-site-matt-dodson
   - duration: '0:10'
     title: '✋ Q&A for the previous talk'
-  - duration: '0:30'
+  - duration: '0:20'
     title: '🍲 Snack break'
   - duration: '0:30'
     title: ⚡️ Lightning Talks (30 mins)
@@ -64,7 +64,7 @@ talks_day1:
 
 
 talks_day2:
-  - time: '11:00'
+  - time: '10:00'
     title: Platform opens
     duration: '1:00'
   - duration: '0:00'
@@ -77,7 +77,7 @@ talks_day2:
     slug: drop-the-docs-get-back-to-what-s-important-how-to-create-product-documentation-stephan-delbos
   - duration: '0:10'
     title: '✋ Q&A for the previous talk'
-  - duration: '0:15'
+  - duration: '0:20'
     title: '☕️ Coffee break'
   - duration: '0:30'
     slug: the-power-of-product-screenshots-in-your-help-documentation-and-how-keeping-the-josh-peacock
@@ -89,7 +89,7 @@ talks_day2:
     title: '✋ Q&A for the previous talk'
   - duration: '0:00'
     title: "<b>Job Fair Ends</b>"
-  - duration: '0:30'
+  - duration: '0:20'
     title: '🍲 Snack break'
   - duration: '0:30'
     title: ⚡️ Lightning Talks (30 mins)
