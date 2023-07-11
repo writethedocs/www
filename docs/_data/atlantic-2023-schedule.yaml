@@ -2,27 +2,25 @@ writing_day:
   - time: '10:00'
     title: 'Platform opens'
     duration: '01:00'
-  - duration: '01:00'
-    title: Morning introduction - Introduction to Sprints & Project Introductions
   - duration: '00:30'
+    title: Morning introduction - Introduction to Sprints & Project Introductions
+  - duration: '02:30'
     title: Team up and start working
-  - duration: '01:30'
-    title: Welcome Wagon conference introduction and platform tour
-  - duration: '01:30'
-    title: '🍲 Snack break - Determine length with table'
-  - duration: '03:00'
-    title: Welcome Wagon conference introduction and platform tour
+  - duration: '00:30'
+    title: <b>'Break</b>'
+  - duration: '02:30'
+    title: Continue working
   - duration: '00:00'
     title: End of Writing Day
 
 talks_day1:
   - time: '10:00'
     title: Platform opens
-    duration: '00:15'
-  - duration: '00:45'
-    title: Welcome Wagon conference introduction and platform tour
+    duration: '00:30'
+  - duration: '00:30'
+    title: Hallway track - Chat with other attendees
   - duration: '00:25'
-    title: Write the Docs Team - Community update
+    title: Write the Docs Team - Conference introduction
   - duration: '0:05'
     title: '⏲ 5 minute break'
   - duration: '0:00'
@@ -48,7 +46,7 @@ talks_day1:
   - duration: '0:20'
     title: '🍲 Snack break'
   - duration: '0:30'
-    title: ⚡️ Lightning Talks (30 mins)
+    title: ⚡️ Lightning Talks 
   - duration: '0:05'
     title: '⏲ 5 minute break'
   - duration: '0:30'
@@ -59,14 +57,18 @@ talks_day1:
     slug: creating-a-content-pipeline-for-the-eclipse-che-project-alexander-schwartz
   - duration: '0:10'
     title: '✋ Q&A for the previous talk'
+  - duration: '00:30'
+    title: Hallway track - Chat with other attendees
   - duration: '0:00'
-    title: Day 1 wraps up
+    title: <b>Day 1 ends</b>
 
 
 talks_day2:
   - time: '10:00'
+    duration: '00:30'
     title: Platform opens
-    duration: '1:00'
+  - duration: '00:30'
+    title: Hallway track - Chat with other attendees
   - duration: '0:00'
     title: "<b>Unconference Starts</b>"
   - duration: '0:30'
@@ -90,7 +92,7 @@ talks_day2:
   - duration: '0:20'
     title: '🍲 Snack break'
   - duration: '0:30'
-    title: ⚡️ Lightning Talks (30 mins)
+    title: ⚡️ Lightning Talks
   - duration: '0:05'
     title: '⏲ 5 minute break'
   - duration: '0:30'
@@ -101,8 +103,10 @@ talks_day2:
     slug: bootstrap-ia-development-with-in-house-usability-testing-adam-trujillo
   - duration: '0:10'
     title: '✋ Q&A for the previous talk'
-  - duration: '0:06'
+  - duration: '0:05'
     title: 'Closing address'
+  - duration: '00:30'
+    title: Hallway track - Chat with other attendees
   - duration: '0:00'
     title: '<b>Conference ends 😔</b>'
 
