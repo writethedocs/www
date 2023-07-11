@@ -68,7 +68,7 @@ talks_day2:
     title: Platform opens
     duration: '1:00'
   - duration: '0:00'
-    title: "<b>Job Fair Starts</b>"
+    title: "<b>Unconference Starts</b>"
   - duration: '0:30'
     slug: once-upon-a-time-there-were-docs-fabrizio-ferri-benedetti
   - duration: '0:10'
@@ -87,16 +87,12 @@ talks_day2:
     slug: ai-ethics-for-tech-writers-chris-meyns
   - duration: '0:10'
     title: '✋ Q&A for the previous talk'
-  - duration: '0:00'
-    title: "<b>Job Fair Ends</b>"
   - duration: '0:20'
     title: '🍲 Snack break'
   - duration: '0:30'
     title: ⚡️ Lightning Talks (30 mins)
   - duration: '0:05'
     title: '⏲ 5 minute break'
-  - duration: '0:00'
-    title: "<b>Unconference Starts</b>"
   - duration: '0:30'
     slug: openapi-for-documentarians-lorna-mitchell
   - duration: '0:10'
