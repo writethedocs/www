@@ -21,7 +21,7 @@ talks_day1:
     duration: '00:15'
   - duration: '00:45'
     title: Welcome Wagon conference introduction and platform tour
-  - duration: '00:45'
+  - duration: '00:25'
     title: Write the Docs Team - Community update
   - duration: '0:05'
     title: '⏲ 5 minute break'
