@@ -49,8 +49,6 @@ talks_day1:
     title: '🍲 Snack break'
   - duration: '0:30'
     title: ⚡️ Lightning Talks (30 mins)
-  - duration: '0:40'
-    title: Hallway break -- meet some folks in the unconference!
   - duration: '0:30'
     slug: metric-driven-documentation-chris-noonan
   - duration: '0:10'
