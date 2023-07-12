@@ -99,11 +99,3 @@ Several meetups are members of the Quorum North America West group:
     :region: Quorum-US-West
 
 Know of a meetup not shown here? `Add it to the list <https://github.com/writethedocs/www/tree/master/docs/_data/meetups>`_.
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-
-   nyc
-   philly
-   sf-bay
