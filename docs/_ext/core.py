@@ -22,10 +22,10 @@ TIME_FORMATS = {
     '12h': '%-I:%M %p',
 }
 
-# Some DST timezones aren't "real" timezones
-TIMEZONE_TRANSLATION = {
+# Some DST timezones aren't "real" timezones.
+TIMEZONE_TRANSLATION_PYTZ = {
     'CEST': 'CET',
-    'EDT': 'EST',
+    'EDT': 'US/Eastern',
 }
 
 def load_conference_page_context(app, page):
@@ -111,7 +111,7 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
         conf_timezone = pytz.timezone(data['tz'])
         display_timezone_names = re.split('[&,]', data['tz_header'])
         display_timezones = [(data['tz'], conf_timezone)] + [
-            (n.strip(), pytz.timezone(TIMEZONE_TRANSLATION.get(n.strip(), n.strip())))
+            (n.strip(), pytz.timezone(TIMEZONE_TRANSLATION_PYTZ.get(n.strip(), n.strip())))
             for n in display_timezone_names
         ]
     for day_schedule in schedule.values():
