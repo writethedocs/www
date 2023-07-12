@@ -115,7 +115,7 @@ Subject:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Subject:
-   WTD {{city}} {{year}} -- speaker logistics
+   WTD {{city}} {{year}} -- speaker logistics and schedule
 
 ::
 
@@ -123,13 +123,11 @@ Subject:
 
    Just wanted to drop you all a quick note covering some logistics.
 
-   ○  I've added some questions to our [CFP tool (Pretalx)]({{cfp.url}}) about your pronouns, interesting facts, name pronunciation, and slack username. Please log in at {{cfp.url}} and answer those (although we'll only need them closer to the event).
+   ○  I've added some questions to our [CFP tool (Pretalx)]({{cfp.url}}) about your pronouns, interesting facts, name pronunciation, and slack username. Please log in at {{cfp.url}} and answer those.
 
-   ○ If you haven't done so already, please upload a speaker pic to your Pretalx account while you're there, it'll look so much better than the anonymous outline.
+   ○ Private speaker slack channel! If you're not on the slack already, [join the WTD slack](https://join.slack.com/t/writethedocs/shared_invite/zt-1qvx3xd9z-jOX_0QZXidaAESji2miYXQ). Once you're signed up, or if you're already on there, ping me @plaindocs so I can add you to the private speaker channel. It contains many of our past speakers, who will be happy to offer advice or answer questions.
 
-   ○ Private speaker slack channel! If you're not on the slack already, [join the WTD slack]({{slack_join}}). Once you're signed up, or if you're already on there, ping me @plaindocs so I can add you to the private speaker channel. It contains all of our past speakers, who will be happy to offer advice or answer questions.
-
-   ○ [Speaker mentoring guidelines](https://www.writethedocs.org/organizer-guide/confs/cfp/#speaker-mentoring) -- let us know if you'd like to talk over your proposal or slide deck with a speaker from a previous year.
+   ○ We've got a [provisional schedule]({{cfp.preview}}) up, we're still tweaking a couple of things but it's mostly accurate. If you can't make your slot for any reason do let me know and I'll adjust. Note that we're trialing moderated Q&A in-person this year. We're hoping to publish the schedule on **Friday**.
 
    ○ While you're working on your talks, we'd love for you to check out our updated [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) page! It's got all sorts of details on talk format, tech specs, content guidelines, etc.
 
@@ -218,7 +216,7 @@ Subject:
 
    The Write the Docs Team
 
-04 - Hopin URL and calendly invites
+04 - Speaker tickets
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Tickets:
@@ -229,25 +227,25 @@ Calendly:
 ----
 
 Subject:
-   WTD {{city}} {{year}} -- hopin and calendly invites
+   WTD {{city}} {{year}} -- speaker tickets
 
 ::
 
    Hi {name},
 
-   The conference is almost upon us! First off, thank you all so much for all of the hard work you've put into getting the recordings done and uploaded. Most of the hard work is behind you, and you can settle in and enjoy the conference 😊, but before you relax entirely, please:
+   We're just over a month away from meeting up in Portland! I hope you're feeling relaxed and confident. 
 
-   ○ confirm that you've [uploaded your slides or vocabulary](https://bartatwork.stack.storage/s/tITmETk0y4Zz2nv8) for the captioners, **and** [answered the questions]({proposal_url}) that the emcee uses to record your intro by May 15th.
+   The conference schedule is [live](https://www.writethedocs.org/conf/portland/2023/schedule/#monday-may-8)! :-)
 
-   ○ register your free [Hopin speaker ticket]({{cfp_variables['ticket']}}) -- the entire conference is held in Hopin, from writing day on Sunday, all talks, unconference sessions, chat, etc. Only the Monday evening social will be held in Spatial.chat.
+   I've got a couple more small logistical checkboxes for you:
 
-   ○ schedule an [audio-visual check]({{cfp_variables['calendly']}}) with me or our AV tech **the day before** your talk. This helps me know you're around 😉 and logged in to Hopin, and lets us clear up any audio or visual issues before your Q&A. We recommend you do this even if you're confident about your setup. The audio-visual checks happen in a private Hopin room.
+   ○ please register your free [speaker ticket]({{cfp_variables['ticket']}}), it includes hoodies sizing for a conference hoodie.
 
-   Remember, all Q&A sessions this year will be a joint chat with the emcee and two speakers, and **start straight after every other talk**, in the Speaker Q&A session (the Monday and Tuesday Q&A sessions have different URLs).
+   ○ please make sure to log in to [Pretalx](https://pretalx.com/write-the-docs-portland-2023/login/) and fill out the questions on pronouns, name pronunciation and interests for our emcee intro.
 
-   Some speakers like to hang out in the event chat and answer questions during their talk, but that is entirely up to you. We'll be moderating questions before the Q&A regardless.
+   We're finalizing details on the tech check and Q&A over the next weeks, and we'll be in touch in a week or so asking for a copy of your slides for our captioners! 
 
-   If you have any questions at all about the event, you definitely know how to reach me by now.
+   In the meantime, if you have any questions at all about the event, you definitely know how to reach me by now.
 
    The Write the Docs Team
 
