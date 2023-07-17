@@ -6,13 +6,14 @@
                       <ul class="uk-nav-sub">
                           {% if flaglivestreaming %}
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/livestream') }}">Live Stream</a></li>
+                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/qa') }}">Speaker Q&A</a></li>
                           {% endif %}
-                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/speakers') }}">Speakers</a></li>
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/schedule') }}">Schedule</a></li>
+                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/speakers') }}">Speakers</a></li>
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/welcome-wagon') }}">Welcome Wagon</a></li>
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/lightning-talks') }}">Lightning Talks</a></li>
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/unconference') }}">Unconference</a></li>
-                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/job-fair') }}">Job Fair</a></li>
+                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/job-fair') }}">Sponsor Expo</a></li>
                           {% if flaghaswritingday %}
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/writing-day') }}">Writing Day</a></li>
                           {% endif %}

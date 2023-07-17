@@ -39,10 +39,12 @@ This includes, but is not limited to:
 * people of color
 * sexuality minorities, including asexual people
 * people with disabilities, both visible and invisible
-* neurodivergent people* people with chronic illnesses or diseases
+* neurodivergent people
+* people with chronic illnesses or diseases
 * religious and ethnic minorities
 * age minorities (under ~21, over ~50)
-* people experiencing poverty* homeless and home/food insecure people
+* people experiencing poverty
+* homeless and home/food insecure people
 * caregivers of children or other dependents
 * people who have experienced trauma and its aftermath (PTSD, anxiety, etc)
 * people living with or recovering from substance abuse

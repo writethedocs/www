@@ -30,29 +30,29 @@ buttons:
   #     link: /welcome-wagon
   #   - text: See the Schedule!
   #     link: /schedule
-    - text: Buy a Ticket!
-      link: /tickets
+  # - text: Buy a Ticket!
+  #   link: /tickets
   #  - text: See the talks!
   #    link: /speakers
-    - text: See the Schedule!
-      link: /schedule
-  #  - text: Read our guide
+  #  - text: Schedule
+  #    link: /schedule
+  #  - text: Attendee Guide
   #    link: /welcome-wagon
   #   - text: Watch the Live Stream
   #     link: /livestream
-  #   - text: Watch the videos!
-  #     link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpnDhFvXG8GprqlLlzSQRBui
-  #   - text: Thanks for coming
-  #     link: /news/thanks-recap
+    - text: Watch the videos
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpneQPsDWa4OmEpgW4pNiaZ2
+    - text: Conference recap
+      link: /news/thanks-recap
   bottom:
   #   - text: Welcome to our conference
   #     link: /news/welcome
-    - text: Sponsor the conference
-      link: /sponsors/prospectus
+  # - text: Sponsor the conference
+  #   link: /sponsors/prospectus
   #   - text: Submit a Talk
   #     link: /cfp
-  #   - text: See the Schedule!
-  #     link: /schedule
+  #  - text: See the Schedule
+  #    link: /schedule
   #   - text: Date and ticket information
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: See the talks!
@@ -65,8 +65,10 @@ buttons:
   #    link: /schedule
   #   - text: Watch the Live Stream
   #     link: /livestream
-  #   - text: Browse the photos
-  #     link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+    - text: Conference recap
+      link: /news/thanks-recap
+  # - text: Browse the photos
+  #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720308088427
   #   - text: Watch the videos!
   #     link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
 
@@ -109,7 +111,7 @@ date: # how do we handle these? human readable would be nice.
   conference:
     event: Main Conference
     date: May 8-9
-    summary: The main days of the conference. We will be running one main track of talks, as well as a <a href="/conf/portland/2023/job-fair/">Job Fair</a>, <a href="/conf/portland/2023/lightning-talks/">Lightning Talks</a> & <a href="/conf/portland/2023/unconference/">Unconference</a>.
+    summary: The main days of the conference. We will be running one main track of talks, as well as a <a href="/conf/portland/2023/job-fair/">Sponsor Expo</a>, <a href="/conf/portland/2023/lightning-talks/">Lightning Talks</a> & <a href="/conf/portland/2023/unconference/">Unconference</a>.
     icon: conference
 
   # These are listed in the schedule
@@ -140,21 +142,21 @@ date: # how do we handle these? human readable would be nice.
   day_four:
     event: Conference Day 2
     date: May 9
-    summary: And the conference goes on! More talks and unconference today, along with our job fair!
+    summary: And the conference goes on! More talks and unconference today, along with our Sponsor Expo!
     dotw: Tuesday
     talk_time: 9am-4pm
-    job_fair_time: 9:45am-12pm
+    job_fair_time: 9-12pm
     unconference_time: 1:35pm-4pm
     icon: conversation
   total_talk_days: 2
 
 about:
-  attendees: 400
+  attendees: 300
   summary:
     "The main presentation track takes place from **May 8-9 (Monday and Tuesday) from 9am to 6pm**.
     During the main event we also run an :doc:`/conf/portland/2023/unconference`."
 
-  social_venue: TBD
+  social_venue: Loyal Legion (710 SE 6th Ave)
   venue: Revolution Hall
   photos: TBD
   mainroom: Main stage
@@ -196,10 +198,13 @@ sponsors:
     - name: jetbrains
       link: https://www.jetbrains.com/
       brand: JetBrains
-    - name: paligo
-      link: https://paligo.net/
-      brand: Paligo
-      width: 200px
+    - name: bloomberg-engineering
+      link: https://www.bloomberg.com/company/careers/working-here/engineering/
+      brand: Bloomberg Engineering
+    # - name: paligo
+    #   link: https://paligo.net/
+    #   brand: Paligo
+    #   width: 200px
     # - name: stackblitz-svg
     #   link: https://stackblitz.com/
     #   brand: StackBlitz
@@ -261,9 +266,9 @@ flaghasschedule: True
 flagscheduleincomplete: True
 flaghasunconf: True
 flaghasshirts: False
+flaglivestreaming: True
 flagvideos: False
-flaglivestreaming: False
-flagpostconf: False
+flagpostconf: True
 
 # Truthy things that don't change
 flaghashike: True

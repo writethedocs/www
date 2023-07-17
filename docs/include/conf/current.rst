@@ -4,6 +4,7 @@
 
 - :doc:`Write the Docs Portland 2023 </conf/portland/2023/index>`, May 7-9, **Portland, Oregon, United States**
 - :doc:`Write the Docs Atlantic 2023 </conf/atlantic/2023/index>`, September 10-12, **Virtual - CEST and EDT**
+- :doc:`Write the Docs Australia 2023 </conf/australia/2023/index>`, December 7-8, **Melbourne, Australia**
 
 
 2022 Conferences

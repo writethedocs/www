@@ -100,6 +100,6 @@ virtual Python environment with the following command on Linux:
 
 `deactivate`
 
-If you have verified this command on MacOS or Windows, we invite you to submit a PR to include that information here.
+If you have verified this command on Windows, we invite you to submit a PR to include that information here.
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/writethedocs/www.svg)](https://greenkeeper.io/)

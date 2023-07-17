@@ -20,7 +20,7 @@ We've gathered info here that will help you navigate the conference like a pro a
 Welcome Wagon Tours
 ~~~~~~~~~~~~~~~~~~~
 
-+ Sunday at noon
++ Sunday at 11am
 + Sunday at 2:00pm
 + Monday morning at 8:15am
 
@@ -39,7 +39,7 @@ Where is everything?
 -  The Registration desk is on the first floor in the Library/Astoria Room on Sunday and on the second floor, outside of the main stage, on Monday and Tuesday.
 -  The conference main stage and lightning talks are in Revolution Hall on the second floor.
 -  The unconference takes place on the first floor in the Library/Astoria Room.
--  The Job Fair is on the first floor in the Library/Astoria Room.
+-  The Sponsor Expo is in the hallway outside of the main venue.
 -  Snacks and drinks are on the first floor in the Library/Astoria Room.
 -  The quiet room is on the second floor in the Sunset Room.
 
@@ -126,11 +126,11 @@ What are lightning talks, and should I give one?
 -  If you are interested in giving a lightning talk, be prepared! There is a great guide `here <https://www.writethedocs.org/conf/portland/2023/lightning-talks/?highlight=re>`__.
 
 
-How do I take part in the Job Fair?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+How do I take part in the Sponsor Expo?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  The Job Fair is on Tuesday morning in the Library/Astoria Room.
--  Companies with open jobs will have a staffed table.
+-  The Sponsor Expo is on Tuesday morning.
+-  Companies with will have a staffed table.
 -  Approach a table and introduce yourself! 
 
 
@@ -143,7 +143,7 @@ How do I make the most out of this conference?
 -  Speaking of breaks--conferences are exhilarating, but can also be exhausting. Give your brain a break! Grab a quiet spot in the Sunset Room or take a quick walk. Play a board game on your lunch break. Come back invigorated.
 -  Starting Monday morning, check the unconference schedule in the Library/Astoria Room to see if there are any sessions you are interested in attending. New sessions are added all the time, so check back periodically.
 -  Eat! You can use the energy. There will be snacks in the Library/Astoria Room.
--  Are you looking for a job or is there an opening at your company? Check out the job board and the job fair in the Library/Astoria Room.
+-  Are you looking for a job or is there an opening at your company? Check out the job board and the Sponsor Expo.
 
 
 Sample strategy for my first Write the Docs conference

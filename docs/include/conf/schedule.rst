@@ -174,8 +174,9 @@ Social Event
 ~~~~~~~~~~~~
 
 The official Write the Docs social!
-Full details will be announced closer to the conference,
-but expect a relaxed atmosphere where you can chat and network with your fellow documentarians. 
+Expect a relaxed atmosphere where you can chat and network with your fellow documentarians. 
+
+Snacks and drinks (non-alcoholic & alcoholic) will be provided.
 
 * **Where**: {{ about.social_venue }}
 {% if not flaghasschedule %}
@@ -219,12 +220,13 @@ Talks are around 30 minutes, with moderated on-stage 10 minute Q&A.
 * **When**: **{{ date.day_four.talk_time }} {{ tz }}**
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
+
 {% if flaghasjobfair %}
 
-Job Fair
-~~~~~~~~
+Sponsor Expo
+~~~~~~~~~~~~
 
-The Job Fair is a great chance to talk with some of our sponsors who are hiring,
+The Sponsor Expo is a great chance to talk with some of our sponsors who are hiring,
 and get a sense of the job market.
 
 * **Where**: {{about.venue}}, {{about.job_fair_room }}

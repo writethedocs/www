@@ -45,7 +45,7 @@ talks_day1:
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: winning-over-coworkers-collaborators-and-customers-to-a-new-knowledge-experien-jennifer-a-swallow
+    slug: from-resistance-to-adoption-navigating-the-challenges-of-docs-like-code-adam-altman
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:15'
@@ -78,12 +78,10 @@ talks_day1:
     title: '✋ 10 min Q&A'
   - duration: '0:05'
     title: '5 minute break'
-  - duration: '0:30'
-    slug: from-resistance-to-adoption-navigating-the-challenges-of-docs-like-code-adam-altman
   - duration: '0:10'
-    title: '✋ 10 min Q&A'
+    title: '<b>Group Photo!</b>'
   - duration: '0:00'
-    title: Day 1 wraps up
+    title: '<b>Conference day 1 ends</b>'
   - time: '19:00'
     title: "<b>Social Event</b>"
   - time: '21:00'
@@ -94,7 +92,7 @@ talks_day2:
     title: Doors open
     duration: '1:00'
   - duration: '0:00'
-    title: "<b>Job Fair Starts</b>"
+    title: "<b>Sponsor Expo Starts</b>"
   - duration: '0:00'
     title: "<b>Unconference Starts</b>"
   - duration: '0:30'
@@ -120,7 +118,7 @@ talks_day2:
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:00'
-    title: "<b>Job Fair Ends</b>"
+    title: "<b>Sponsor Expo Ends</b>"
   - duration: '1:20'
     title: '🍽️ Lunch Break (80 mins)'
   - duration: '0:30'
@@ -135,6 +133,12 @@ talks_day2:
     title: '☕ Coffee break'
   - duration: '0:30'
     slug: great-big-engineering-org-itty-bitty-docs-team-kari-halsted
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: winning-over-coworkers-collaborators-and-customers-to-a-new-knowledge-experien-jennifer-a-swallow
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:15'

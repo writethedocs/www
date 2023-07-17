@@ -18,6 +18,7 @@ people to have great experiences with software.
 * Attend one of :doc:`our conferences </conf/index>`
    - :doc:`Portland 2023 </conf/portland/2023/index>`, **May 7-9**, Portland, Oregon, United States
    - :doc:`Atlantic 2023 </conf/atlantic/2023/index>`, **September 10-12**, Virtual - CEST and EDT
+   - :doc:`Australia 2023 </conf/australia/2023/index>`, **December 7-8**, Melbourne, Australia
 
 Connect with the community
 --------------------------
@@ -35,7 +36,7 @@ Work with other documentarians.
 
 * Find or post a `docs related job <https://jobs.writethedocs.org/>`__ on our Job Board
 * Read our :doc:`Hiring Guide </hiring-guide/index>` to get started in the industry
-* Read our previous `salary survey <https://www.writethedocs.org/surveys/>`__ information to get a sense of the industry pay
+* Read our previous `salary survey </surveys/>`__ information to get a sense of the industry pay
 
 Learn from our resources
 ------------------------
