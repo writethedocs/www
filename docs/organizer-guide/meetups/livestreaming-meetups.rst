@@ -7,16 +7,14 @@ livestream or upload recorded presentations, thank you for taking on the extra w
 YouTube permissions
 -------------------
 
-We welcome audio and video streams or uploads to the Write the Docs Podcast & Meetups YouTube channel.
+As a Meetup organizer you are welcome to live-stream your events or upload recordings to the Write the Docs Podcast & Meetups YouTube channel.
 
-Here's how WTD Meetup organizers can request access to our YouTube Studio channel:
+You can request access to our YouTube Studio channel:
 
-* Request access when you fill out the *Meetup organizer contact information* form (check slack).
-* Request acces on WTD slack in the #meetup-organisers or #meetup-organizers-quorum tag. 
-  Tag @rose w, the Meetup lead. Other WTD Meetup team members or staff may be able to assist.
-* Email meetups@writethedocs.org to request access
+* Request access when you fill out the *Meetup organizer contact information* form (available on Slack).
+* Reach out to the Meetup team lead, Rose Williams on slack or by email.
 
-After you have access channel, you can upload a recorded meetup or livestream.
+After you have channel access, you can upload a recorded meetup or livestream future events.
 
 Record a Meetup presentation
 ----------------------------
@@ -39,7 +37,7 @@ Upload a recorded presentation
 This section assumes you have already requested and received access to the YouTube channel.
 
 1. Sign in to `YouTube Studio <http://studio.youtube.com/>`_
-2. Follow the appropriate instructions to upload your recorded Meetup presentation. 
+2. Follow the appropriate instructions for your device and system to upload your recorded Meetup presentation. 
    Checkout how to  `Upload videos in YouTube Studio <https://support.google.com/youtube/answer/57407?hl=en&co=GENIE.Platform%3DDesktop>`_.
 3. Add your recording to the **Meetup recordings** playlist.
 4. Fill out the description and metadata to make your recording findable.
@@ -47,34 +45,57 @@ This section assumes you have already requested and received access to the YouTu
 Stream a Meetup presentation
 ----------------------------
 
-Livestreaming a meetup event is a great way to interact with remote attendees. YouTube includes a live chat for livestream attendees. It does take more effort to setup in comparison to uploading a recorded meetup presentation.
+Live-streaming a meetup event is a great way to interact with remote attendees. YouTube includes a live chat for live-stream attendees. It does take more effort to setup in comparison to uploading a recorded meetup presentation.
 
 Here are some best practices for livestreaming a Meetup presentation:
 
-* **Schedule your livestream** - scheduling your livestream allows you to add the link to your Meetup event in advance.
+* **Schedule your livestream** - scheduling your live-stream allows you to add the link to your Meetup event in advance.
 * **Test your livestream** - test your slides, video, audio quality, and lighting.
 * **Background** - consider a virtual background for people on camera, if that's not an option you might want to tidy up the space around you.
 
-Start your livestream
-^^^^^^^^^^^^^^^^^^^^^
+Start your live-stream
+^^^^^^^^^^^^^^^^^^^^^^
 
-If you're happy with your tech setup and background, here's how you start your stream.
+The instructions vary based on your operating system and device, see `Get started with live streaming <https://support.google.com/youtube/answer/2474026?>`_ for specific instructions.
 
-1. Ensure you are logged in to the correct YouTube Studio channel.
-2. Click **Create** > **Go live** from the menu.
-3. 
+* Go to YouTube
+* Select **Create** > **Go Live**
 
-You can start a live stream by clicking the "Create > Go Live" button in the YouTube top menu. You can schedule a live stream for a future date from the same button and then set a date in the following settings screen.
+**.. important:: Enabling a live stream for the first time may take up to 24 hours. Once enabled, your stream can go live instantly.
 
-Give your live stream a name, and then click "Create Stream." The next screen gives you a stream key that you need to connect to desktop (or mobile) streaming software. `Read this guide <https://support.google.com/youtube/answer/2907883?hl=en>`_ for a full list of what YouTube supports, and we stick with OBS for this guide.
+You can schedule a live stream for a future date from the same button and then set a date in the following settings screen.
 
-In the main OBS window, click "Settings > Stream," select "YouTube/YouTube Gaming," and paste the stream key into the text field below.
+Previous Write the Docs Meetup organizer's created instructions to live-stream using an encoder and OBS. You can find those instructions below, let us know if they are still valid!
 
-Setup your audio and video inputs (which can include cameras, microphones, applications, and more) by reading `this OBS guide <https://obsproject.com/wiki/Sources-Guide>`_. It's a powerful application, and widely used, so you should be able to find lots of resources online to solve any issues you have. You can preview the stream your computer sends in the main preview window, and drag the video inputs to the locations and sizes you want. You can record and live stream at the same time by clicking both the "Start Streaming" and "Start Recording" buttons.
+Live-stream and record with OBS
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-When you're ready, click "Start Streaming," and you're live! Click "Start Streaming" again when you're finished to stop the stream.
+An encoder converts your video into a digital format to stream on YouTube. Some encoders are software apps on your computer, while others are standalone hardware.
+Review the `YouTube Live verified encoders https://support.google.com/youtube/answer/2907883?`_ section for a full list of what YouTube supports
 
-Use Your Personal Account
--------------------------
+`OBS <https://obsproject.com/wiki/Sources-Guide>`_ is a widely used and powerful application.
 
-Another option is for you to use your personal YouTube accounts to live-stream or record. Then click the three dots next to the video title in your YouTube creator studio to download the video file and send it to us to upload to our YouTube channel.
+In YouTube:
+
+* Go to YouTube.
+* Select **Create** > **Go Live**.
+* Give your live-stream a name and click **Create stream**.
+* Copy the **stream key**, the stream key allows you to connect to your desktop or mobile streaming software.
+
+In OBS:
+
+* In your main OBS window, click **Settings** > **Stream** and select **YouTube/YouTube Gaming**.
+* Paste the **stream key** into the text field.
+* Ensure your audio and video inputs are set up (such as cameras, microphones, applications, and more)
+
+When you are ready to go live and record:
+
+* In YouTube, click **Start Streaming**.
+* In OBS, click **Start recording**.
+
+Download from a personal account
+--------------------------------
+
+As a backup, you can use your personal YouTube account to live-stream and record an event. Then you can download the video and send it to us so we can upload it for you.
+
+To download the video file from your personal account, click the three dots next to the video title in your YouTube creator studio.
