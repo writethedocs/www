@@ -61,7 +61,7 @@ The instructions vary based on your operating system and device, see `Get starte
 * Go to YouTube
 * Select **Create** > **Go Live**
 
-**.. important:: Enabling a live stream for the first time may take up to 24 hours. Once enabled, your stream can go live instantly.
+**Important**: Enabling a live stream for the first time may take up to 24 hours. Once enabled, your stream can go live instantly.
 
 You can schedule a live stream for a future date from the same button and then set a date in the following settings screen.
 
