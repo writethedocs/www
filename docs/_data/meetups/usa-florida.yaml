@@ -1,8 +1,7 @@
 region: North America
 country: USA
 state: Florida
-city: Orlando
-website: https://www.meetup.com/write-the-docs-florida/
+website: https://www.meetup.com/write-the-docs-florida/events/
 meetup: Write-the-Docs-Florida
 organizers:
   - name: Barrie Byron
