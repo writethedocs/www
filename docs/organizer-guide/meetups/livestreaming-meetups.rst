@@ -7,7 +7,7 @@ livestream or upload recorded presentations, thank you for taking on the extra w
 YouTube permissions
 -------------------
 
-As a Meetup organizer you are welcome to live-stream your events or upload recordings to the Write the Docs Podcast & Meetups YouTube channel.
+As a Meetup organizer you are welcome to livestream your events or upload recordings to the Write the Docs Podcast & Meetups YouTube channel.
 
 You can request access to our YouTube Studio channel:
 
@@ -45,16 +45,16 @@ This section assumes you have already requested and received access to the YouTu
 Stream a Meetup presentation
 ----------------------------
 
-Live-streaming a meetup event is a great way to interact with remote attendees. YouTube includes a live chat for live-stream attendees. It does take more effort to setup in comparison to uploading a recorded meetup presentation.
+Livestreaming a meetup event is a great way to interact with remote attendees. YouTube includes a live chat for livestream attendees. It does take more effort to setup in comparison to uploading a recorded meetup presentation.
 
 Here are some best practices for livestreaming a Meetup presentation:
 
-* **Schedule your livestream** - scheduling your live-stream allows you to add the link to your Meetup event in advance.
+* **Schedule your livestream** - scheduling your livestream allows you to add the link to your Meetup event in advance.
 * **Test your livestream** - test your slides, video, audio quality, and lighting.
 * **Background** - consider a virtual background for people on camera, if that's not an option you might want to tidy up the space around you.
 
-Start your live-stream
-^^^^^^^^^^^^^^^^^^^^^^
+Start your livestream
+^^^^^^^^^^^^^^^^^^^^^
 
 The instructions vary based on your operating system and device, see `Get started with live streaming <https://support.google.com/youtube/answer/2474026?>`_ for specific instructions.
 
@@ -65,13 +65,13 @@ The instructions vary based on your operating system and device, see `Get starte
 
 You can schedule a live stream for a future date from the same button and then set a date in the following settings screen.
 
-Previous Write the Docs Meetup organizer's created instructions to live-stream using an encoder and OBS. You can find those instructions below, let us know if they are still valid!
+Previous Write the Docs Meetup organizer's created instructions to livestream using an encoder and OBS. You can find those instructions below, let us know if they are still valid!
 
-Live-stream and record with OBS
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Livestream and record with OBS
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 An encoder converts your video into a digital format to stream on YouTube. Some encoders are software apps on your computer, while others are standalone hardware.
-Review the `YouTube Live verified encoders https://support.google.com/youtube/answer/2907883?`_ section for a full list of what YouTube supports
+Review the `YouTube Live verified encoders <https://support.google.com/youtube/answer/2907883?>`_ section for a full list of what YouTube supports
 
 `OBS <https://obsproject.com/wiki/Sources-Guide>`_ is a widely used and powerful application.
 
@@ -79,7 +79,7 @@ In YouTube:
 
 * Go to YouTube.
 * Select **Create** > **Go Live**.
-* Give your live-stream a name and click **Create stream**.
+* Give your livestream a name and click **Create stream**.
 * Copy the **stream key**, the stream key allows you to connect to your desktop or mobile streaming software.
 
 In OBS:
@@ -96,6 +96,6 @@ When you are ready to go live and record:
 Download from a personal account
 --------------------------------
 
-As a backup, you can use your personal YouTube account to live-stream and record an event. Then you can download the video and send it to us so we can upload it for you.
+As a backup, you can use your personal YouTube account to livestream and record an event. Then you can download the video and send it to us so we can upload it for you.
 
 To download the video file from your personal account, click the three dots next to the video title in your YouTube creator studio.
