@@ -254,29 +254,25 @@ Subject:
 
 Feedback:
    {{cfp_variables['feedback_form']}}
-Gift:
-   {{cfp_variables['speaker_gift_form']}}
 
 ----
 
 Subject:
-   WTD {{city}} {{year}} -- feedback, hoodies and THANKS
+   WTD {{city}} {{year}} -- feedback and THANKS
 
 ::
 
    Hi {name},
 
-   It is a wrap! Thank you one last time for your hard work, insight and creativity.
+   It is a wrap! Thank you one last time for your hard work, insight and creativity. You were amazing! 
 
-   We'll be publishing the videos at some point this week or next, keep an eye on Twitter, Slack or the mailing list for those.
+   Videos of all talks are published on [YouTube](https://www.youtube.com/playlist?list=PLZAeFn6dfHpneQPsDWa4OmEpgW4pNiaZ2). Likewise, there are photos of all speakers up on [Flickr](https://www.flickr.com/photos/writethedocs/albums/72177720308088427), and more photos of the rest of the event will follow soon.
 
    We'd love to know how you found the whole process, from A to Z so we can improve next time. To that end we've got an anonymous (keep in mind that there aren't many speakers) feedback form for you here:
 
    ○ [Speaker feedback form]({{cfp_variables['feedback_form']}})
 
-   Finally, as is tradition at our in person events, we'd love to send you a free WTD speaker hoodie and sketchnote print of your talk, please fill in the form *within two weeks* of the end of the conference so we can mail things out in one go.
-
-   ○ [Speaker gift form]({{cfp_variables['speaker_gift_form']}})
+   Thanks, and see you next time!
 
    The Write the Docs Team
 
