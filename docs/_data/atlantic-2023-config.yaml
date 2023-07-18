@@ -165,6 +165,9 @@ sponsors:
   keystone:
   patron:
   publisher:
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com
+      brand: KnowledgeOwl
   second:
   media:
   in_kind:
@@ -173,7 +176,7 @@ sponsors:
 # Things that change over time, listed in order of change
 flagcfp: False
 flaglanding: False
-flaghassponsors: False
+flaghassponsors: True
 flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
