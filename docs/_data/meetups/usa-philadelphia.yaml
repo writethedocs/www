@@ -2,8 +2,7 @@ region: North America
 country: USA
 state: Pennsylvania
 city: Philadelphia
-page: ./philly/
-website: https://www.meetup.com/WTD-Philadelphia
+website: https://www.meetup.com/wtd-philadelphia/events/
 meetup: WTD-Philadelphia
 twitter: WriteTheDocsPHL
 organizers:
