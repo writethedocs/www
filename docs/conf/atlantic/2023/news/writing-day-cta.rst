@@ -17,7 +17,7 @@ unfamiliar with Writing Day, we got you:
 * `Write the Docs <https://www.writethedocs.org/conf/atlantic/{{year}}/>`_: The conference focused on all things related to software documentation
 
 * `Writing Day <https://www.writethedocs.org/conf/atlantic/{{year}}/writing-day/>`_: Is modeled after the concept of “code sprints” or “hackathons”, which are common in open-source conferences -- getting a bunch of 
-people together and have them work towards a shared goal, such as creating or improving documentation.
+   people together and have them work towards a shared goal, such as creating or improving documentation.
 
 The Write the Docs conference has many enthusiastic attendees. These attendees, documentarians, want to learn new 
 technologies, sharpen their skills, and add to their portfolios. The world of open source has a seemingly endless 
