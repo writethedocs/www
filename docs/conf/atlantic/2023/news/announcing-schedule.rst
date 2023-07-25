@@ -19,7 +19,8 @@ The conference will again be held on https://hopin.to/. Hopin not only provides 
 Our Welcome Wagon guide, to be released soon, will help it feel familiar before you've even arrived.
 Hopin will show you the conference schedule in your time zone, making it easy to follow the schedule.
 
-You will receive an invite to Hopin about one week before the conference.
+All ticket holders will receive an invite to Hopin about one week before the conference.
+If you don't have your ticket yet, `register one soon <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_, as we may sell out.
 
 Full presentation schedule
 --------------------------
@@ -49,7 +50,7 @@ Shirts still on sale
 
 The `Write the Docs {{city}} {{year}} Pop-Up Shop <https://shirt.writethedocs.org/>`_ is open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.
 
-The campaign will run in batches until September 30th. Shipping is available from the USA or Europe. However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.
+The campaign will run in batches until October 31st. Shipping is available from the USA or Europe. However, due to the global shipping situation, we recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new threads during the conference.
 
 All our events and activities
 -----------------------------
