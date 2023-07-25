@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: July 26, 2022
+.. post:: July 24, 2023
    :tags: {{year}}, {{shortcode}}-{{year}}, schedule
 
 Announcing Full Schedule
@@ -8,7 +8,7 @@ Announcing Full Schedule
 
 Hey everyone!
 
-We're just over six weeks away from the online {{city}} conference, and we're working hard to make sure it'll be as welcoming and fun as previous years.
+We're just over six weeks away from the first {{city}} conference, and we're working hard to make sure it'll be as welcoming and fun as previous years.
 
 Today we're announcing the full presentation schedule.
 
@@ -25,9 +25,9 @@ Full presentation schedule
 --------------------------
 
 The conference website is now updated with the :doc:`/conf/{{shortcode}}/{{year}}/schedule/` for the main stage presentations, so you can start planning your time (and getting excited!) for the conference. 
-We're excited to continue and adapt live Q&A after most talks. The Q&A will come from your questions but moderated by our MCs.
+We're excited to continue live Q&A after most talks. The Q&A will come from your questions but moderated by our MCs.
 
-As our attendees are in various time zones, we've planned a number of breaks. We are all trying to balance our screen time, so we wanted to make sure that your eyes get their rest!
+As our attendees are in various time zones, we've planned a number of equal breaks throughout the day. We are all trying to balance our screen time, so we wanted to make sure that your eyes get their rest!
 
 Instead of a separate social event, we've added time in the schedule before the start and after the end of each day for you to socialize in the hallway sessions or one on one.
 
@@ -39,8 +39,9 @@ Start thinking about Writing Day
 Our pre-conference `Writing Day <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/>`_ will happen on Sunday, and it is much more fun when folks come with their own projects in mind!
 
 If you have a project or are part of a community that you think would benefit from a writing sprint, start brainstorming now about what you might want to focus on.
-If you'd like us to include your project on the Writing Day page, drop us an email at `{{shortcode}}@writethedocs.org <mailto:{{shortcode}}@writethedocs.org>`_.
-You can also just show up on Sunday ready to introduce your project, but getting it on the website in advance may increase interest.
+If you'd like us to include your project on the Writing Day page `submit your project <https://forms.gle/KPo1ZPuRHqf7UZy37>`_ and we'll
+add it to our `Writing Day project list <https://www.writethedocs.org/conf/atlantic/{{year}}/writing-day/#your-project-here>`__.
+You can also just show up on Sunday ready to introduce your project, but getting it on the website in advance can increase interest.
 
 
 Shirts still on sale
