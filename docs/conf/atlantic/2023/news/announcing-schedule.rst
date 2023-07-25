@@ -26,11 +26,11 @@ Full presentation schedule
 --------------------------
 
 The conference website is now updated with the :doc:`/conf/{{shortcode}}/{{year}}/schedule/` for the main stage presentations, so you can start planning your time (and getting excited!) for the conference. 
-We're excited to continue live Q&A after most talks. The Q&A will come from your questions but moderated by our MCs.
+We'll continue to hold live Q&A sessions after most talks. The Q&A will come from your questions but moderated by our MCs.
 
 As our attendees are in various time zones, we've planned a number of equal breaks throughout the day. We are all trying to balance our screen time, so we wanted to make sure that your eyes get their rest!
 
-Instead of a separate social event, we've added time in the schedule before the start and after the end of each day for you to socialize in the hallway sessions or one on one.
+Instead of a separate social event, we've added time in the schedule before the start and after the end of each day, for you to socialize in the hallway sessions or one on one.
 
 **All talk videos will be published on our YouTube channel no later than 1 week after the conference.**
 
@@ -67,7 +67,7 @@ Thanks to our sponsors
 ----------------------
 
 Thanks in particular to our sponsors for supporting the conference this year.
-We've excited to have them at our Job Fair and around the entire conference participating in a few different ways.
+We've excited to have them at our Sponsor Expo and around the entire conference participating in a few different ways.
 
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-config.yaml
