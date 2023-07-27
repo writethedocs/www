@@ -28,25 +28,25 @@ You've just been asked by your team to create documentation for your project. Bu
 
 We're working on a set of templates to make it easier to write documentation by suggesting the content needed to create the minimum viable set of documentation for your project. Drop by if you have new documentation to create, or if you want to try your existing docs against our checklists, or if you just want to talk about templates.
 
-Reach out to @ccromwell on WTD slack if interested.
+Reach out to @ccromwell on WTD Slack if interested.
 
 **How would you customize a style guide?**
 
 We have a draft `Style guide template <https://docs.google.com/document/d/1HxtaiayAJZvF0ZfNjLvRH3vYMvGTEki_TK8hFilQNJ0>`_ and would love feedback from tech writers. (Please use comments rather than track changes in the doc - it is easier to maintain.)
 
-Reach out to @alyssa on WTD slack if interested.
+Reach out to @alyssa on WTD Slack if interested.
 
 **Transform templates to your wiki format**
 
 We want to be able to convert our markdown templates to your format? What tools, configuration settings, and how-tos should we have for this?
 
-Reach out to @ScriptAutomate on WTD slack if interested.
+Reach out to @ScriptAutomate on WTD Slack if interested.
 
 **What should a glossary or word list look like?**
 
 We are kicking off a pilot to define best practices for `cross-domain management of glossaries <https://docs.google.com/document/d/1Fjrl34ErnYammel9WmvXJ3rMWFANjoSiiGyyNSYOXUg/>`_. We want help defining what an ideal glossary entry or preferred word list entry should look like. Work will happen in this `glossary entry <https://docs.google.com/document/d/1wsSLQ_T8skVdlvjF5ayZa5IhKbTazdqm97lHX0qc16Q>`_ page.
 
-Reach out to @alyssa and @cameronshorter on WTD slack if interested. (@cameronshorter is in the Australian timezone.)
+Reach out to @alyssa and @cameronshorter on WTD Slack if interested. (@cameronshorter is in the Australian timezone.)
 
 **General chit-chat**
 
@@ -88,7 +88,7 @@ Yet, MDN Web Docs needs help from documentarians—whether you are a programmer,
 
 We have `tasks for you to help with content issues and editorial reviews <https://docs.google.com/document/d/1q6BiE1-RJPFoe2IAghqhRbm0vci24k2nBLqdd_Dqn7o/edit?usp=sharing>`_.
 
-Look for `@jmswisher` in the WTD slack for help and questions.
+Look for `@jmswisher` in the WTD Slack for help and questions.
 
 
 
