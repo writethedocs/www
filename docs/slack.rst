@@ -173,6 +173,7 @@ If your proposal is approved, then you and your consponsors must:
 #. Seed discussion in the new channel.
    For example, ask an open-ended question, share a link to discuss, or post a hot take.
 #. Make an announcement in **#general** and channels related to the new channel's topic.
+   For example, if there's a new a channel for underwater basket weaving, then make an announcement like "Join us in #underwater-basket-weaving to discuss techniques, materials, and what to store in all these baskets."
 
 Guidelines
 ----------
