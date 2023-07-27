@@ -172,7 +172,7 @@ If your proposal is approved, then you and your consponsors must:
 
 #. Seed discussion in the new channel.
    For example, ask an open-ended question, share a link to discuss, or post a hot take.
-#. Announce the creation of the channel in **#general** and channels related to the new channel's topic.
+#. Make an announcement in **#general** and channels related to the new channel's topic.
 
 Guidelines
 ----------
