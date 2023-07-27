@@ -168,6 +168,11 @@ If you still can't find a suitable channel, you can propose a new channel. To pr
 3. Post in **#meta** requesting a channel. Be sure to share your proposed channel name, description, and to tag your cosponsors.
 
 The Write the Docs moderation team will review your proposal.
+If your proposal is approved, then you and your consponsors must:
+
+#. Seed discussion in the new channel.
+   For example, ask an open-ended question, share a link to discuss, or post a hot take.
+#. Announce the creation of the channel in **#general** and channels related to the new channel's topic.
 
 Guidelines
 ----------
