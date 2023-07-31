@@ -49,7 +49,7 @@ The **Second Draft** package is great for companies looking to hire or to promot
 - Three (3) tickets_
 - Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 - A short description (250 characters) and logo of your company on the conference website
-- A table at our **virtual job fair**
+- A table at our **virtual sponsor expo**
 - Name included in welcome announcement in email newsletters and social media
 
 The **Second Draft** package costs **{{sponsorship.second_draft.price}}**.
@@ -62,7 +62,7 @@ The **Publisher** package is great for sending a team and getting to know the co
 - Seven (7) tickets_
 - Four (4) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 - A short description (250 characters) and logo of your company on the conference website
-- A table at our **virtual job fair**
+- A table at our **virtual sponsor expo**
 - Name included in welcome announcement in email newsletters and social media
 - A small logo on all Write the Docs website pages for 3 months
 
@@ -79,7 +79,7 @@ The **Patron** package highlights your company as a force in the industry and co
 - Seven (7) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 - A medium description (750 characters and logo of your company on the conference website
 - A **virtual sponsorship booth**
-- A featured table at our **virtual job fair**
+- A featured table at our **virtual sponsor expo**
 - Small logo included in intermission slides and on talk videos
 - Name included in welcome announcement in email newsletters and social media
 - 5 minute sponsored lightning talk on main stage of the conference
@@ -98,7 +98,7 @@ The **Keystone** package highlights you as our main community partner:
 - Ten (10) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 - A large description (750 characters) and logo of your company on the conference website
 - A featured **virtual sponsorship booth**
-- A featured table at our **virtual job fair**
+- A featured table at our **virtual sponsor expo**
 - Large logo included in intermission slides and on talk videos
 - Name included in welcome announcement in email newsletters and social media
 - 5 minute sponsored lightning talk on main stage of the conference
@@ -175,7 +175,7 @@ Sponsorship schedule
 
 * **MONDAY**: The conference platform is open all day from the morning, so we recommend arriving around the time it opens to get the most interaction with attendees. 
 
-* **TUESDAY**: The Job Fair will be on Tuesday morning in the Expo area of the online platform. It will take place in existing sponsorship booths. If you do not have a booth, a temporary booth will be set up for the job fair, and then removed during lunch.
+* **TUESDAY**: The Sponsor Expo will be on Tuesday morning in the Expo area of the online platform. It will take place in existing sponsorship booths. If you do not have a booth, a temporary booth will be set up for the sponsor expo, and then removed during lunch.
 
 See the :doc:`full schedule </conf/{{ shortcode }}/{{ year }}/schedule>` for exact timing details.
 
@@ -191,18 +191,22 @@ A quick overview of the important spaces in the "venue":
 
 * The *Main stage* is where the talks happen. This is also where Lightning talks will be given.
 * The *Sessions area* is where the Writing Day and Unconference will happen.
-* The *Expo area* is where the Job Fair will happen. You can chat in text or video directly with attendees.
+* The *Expo area* is where the Sponsor Expo will happen. You can chat in text or video directly with attendees.
 
 Sponsorship events
 ------------------
 
-Job Fair
-~~~~~~~~
+Sponsor Expo
+~~~~~~~~~~~~
 
-On Tuesday morning we hold our Job Fair,
-which is a wonderful place to connect with our over {{ about.attendees }} attendees.
-Many of them are looking for jobs now or will be in the near future,
+On Tuesday morning we hold our Sponsor Expo,
+which is a wonderful place to connect with our attendees.
+This gives you a chance to discuss whatever you'd like to with our attendees.
+
+Many attendees are looking for jobs now or will be in the near future,
 so it's a great chance to talk more about your company culture and open positions.
+Similarly,
+they are always looking for great products to use in their day to day workflows.
 
 **Logistics**: You will be assigned a sponsor booth in the *Expo area* where you can engage with attendees and answer questions.  We recommend that you answer general questions in the main session and then break off into private calls or chats to talk in more depth with specific people.
 
@@ -251,10 +255,11 @@ please ask us for this if you don't have it!
 They will be published in our :doc:`Newsletter </newsletter>` every month,
 and displayed on our website as well.
 
-What do I need for the job fair?
---------------------------------
+What do I need for the sponsor expo?
+-----------------------------------
 
-The job fair will be a low key event. Generally we recommend having links available to your job descriptions, and ways for attendees to engage with you online after the event.
+The Sponsor Expo will be a low key event.
+Generally we recommend having links available to resources, and ways for attendees to engage with you online after the event.
 
 What does the platform look and feel like?
 ------------------------------------------
