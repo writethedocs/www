@@ -256,7 +256,7 @@ They will be published in our :doc:`Newsletter </newsletter>` every month,
 and displayed on our website as well.
 
 What do I need for the sponsor expo?
------------------------------------
+------------------------------------
 
 The Sponsor Expo will be a low key event.
 Generally we recommend having links available to resources, and ways for attendees to engage with you online after the event.
