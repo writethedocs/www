@@ -3,7 +3,7 @@ Starting a Meetup
 
 Write the Docs :doc:`/meetups/index` provide
 a great way to connect and continue the conversations sparked by our
-:doc:`/conf/index`, `slack channel
+:doc:`/conf/index`, `Slack channel
 <http://slack.writethedocs.org/>`_ and `forum <http://forum.writethedocs.org/>`_ .
 If you don't have a Write the Docs Meetup nearby, we can help you get one started.
 With a little help, you can make it happen with a Meetup in your area!
