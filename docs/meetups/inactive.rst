@@ -1,3 +1,5 @@
+:orphan:
+
 Archived or inactive groups
 ===========================
 
