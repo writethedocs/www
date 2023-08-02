@@ -61,41 +61,4 @@ Current Meetups: Africa
 .. meetup-listing::
     :region: Africa
 
-
-Current Meetups: Quorum
------------------------
-
-The `Quorum program <https://github.com/write-the-docs-quorum/quorum-meetups>`_
-brings together various Write the Docs meetup chapters in nearby time zones
-to provide quarterly "super" meetups over Zoom throughout the year.
-
-Current Meetups: Quorum North America East / Central
-----------------------------------------------------
-
-Several meetups are members of the Quorum North America East group:
-
-* Austin
-* Detroit / Windsor
-* Florida
-* New England
-* Ottawa / Montreal
-* Philadelphia
-* Washington, D.C.
-
-.. meetup-listing::
-    :region: Quorum-US-East
-
-Current Meetups: Quorum North America West / Mountain
------------------------------------------------------
-
-Several meetups are members of the Quorum North America West group:
-
-* San Francisco Bay Area
-* Los Angeles
-* Portland (OR)
-* Seattle
-
-.. meetup-listing::
-    :region: Quorum-US-West
-
 Know of a meetup not shown here? `Add it to the list <https://github.com/writethedocs/www/tree/master/docs/_data/meetups>`_.
