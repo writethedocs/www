@@ -1,71 +1,84 @@
 Meetups
 =======
 
-.. note:: For information and updates regarding WTD meetup events during the COVID-19 restrictions, see `Meetups and COVID-19 <https://www.writethedocs.org/organizer-guide/meetups/covid-19-meetups/>`_.
-
 **Write the Docs Meetups** allow for documentarians to get to know their 
-community better. Meetup events are a great way to stay up to date 
-with the documentation world, and meet some great people in the process.
+community better. Meetup events are a great way to network and stay up 
+to date with the documentation world.
+
+Meetup now supports virtual events along with in-person events. Virtual 
+events are a great opportunity to network with people in your local 
+community as well as anyone who attends from an an overlapping time zone. 
+The events available at each Meetup depend on the organizer, their schedule,
+as well as the needs of their community.
+
+Meetup organization
+-------------------
 
 All of our meetups are organized by volunteers in their local communities.
-Each Meetup has its own style as unique as the locale they represent and those
-who organize it.
+Each Meetup has its own unique style that varies based on the organizers and
+the locale it represents.
 
-Meetup has updated their platform to support virtual events. organizers 
-can choose to host their events in person or virtually depending
-on their preferences and input from their communities.
+We love volunteers! If you are interested in starting a new meetup group
+or volunteering with an existing group, here is how you can reach out:
 
-Virtual Meetup events are a great opportunity to network with people in your
-local community as well as anyone in an overlapping time zone.
+* `Start a new Meetup group <https://forms.gle/Jx9CniuwEcLrEYPJ7>`_
+* `Volunteer for an existing Meetup group <https://forms.gle/DG8FagKdNgAFtEb47>`_
 
-
-
-We invite you to join a meetup in your local community. If your local community
-isn't listed here, feel free to `start one <../organizer-guide/meetups/starting>`_
-and let us know. We'd be happy to promote it and list it here.
-
-We have several pages of meetup documentation:
-
+We have documentation available to support potential and existing organizers:
 
 .. toctree::
    :maxdepth: 1
 
+   ../meetup/announcements
    ../organizer-guide/meetups/starting
    ../organizer-guide/meetups/faq-meetups
    ../organizer-guide/meetups/sustainable-meetups
 
-Current Meetups: North America
-------------------------------
+Current meetups
+---------------
+
+Anyone is welcome to join a meetup in their local community. If no local 
+community currently exists you are more than welcome to join any meetup
+that works for your time zone that hosts virtual events.
+
+If your local community isn't listed here let us know or `add it on GitHub <https://github.com/writethedocs/www/tree/master/docs/_data/meetups>`_. 
+We would love to add it to our list of active meetups.
+
+.. note:: We are removing inactive Meetup groups from this page. For record 
+    keeping purposes we created a `Meetup group archive <../inactive>`_ page. 
+    You can find a list of paused, inactive, and archived groups there. 
+
+North America
+-------------
 
 .. meetup-listing::
     :region: North America
 
 
-Current Meetups: Europe
------------------------
+Europe
+------
 
 .. meetup-listing::
     :region: Europe
 
 
-Current Meetups: Oceania
-------------------------
+Oceania
+-------
 
 .. meetup-listing::
     :region: Oceania
 
 
-Current Meetups: Asia
----------------------
+Asia
+----
 
 .. meetup-listing::
     :region: Asia
 
 
-Current Meetups: Africa
------------------------
+Africa
+------
 
 .. meetup-listing::
     :region: Africa
 
-Know of a meetup not shown here? `Add it to the list <https://github.com/writethedocs/www/tree/master/docs/_data/meetups>`_.
