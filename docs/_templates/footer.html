@@ -3,7 +3,7 @@
 /* Sponsors */
 .sponsors {
     float: left;
-    margin-top: 30px;
+    margin-top: 12px;
     text-align: center;
 }
 .sponsors .sponsor {
@@ -27,6 +27,14 @@
     text-align: center;
     line-height: 1.4;
 }
+.footer-links {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+#social-footer {
+  line-height: 1.5rem;
+}
 </style>
 <div class="footer">
       {% if "guide/" in pagename  %}
@@ -40,19 +48,21 @@
         </p>
       </div>
       {% endif %}
-      <div class="container">
-          <span style="float: left;">© Write the Docs</span>
-          <span style="float: left;">
-            &nbsp;<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+      <div class="container footer-links">
+        <div style="flex-basis: 20rem; text-align: left;">
+          <span>© Write the Docs</span>
+          <span>
+            &nbsp;<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0; vertical-align: middle;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
           </span>
-          <span id="social-footer" class="pull-right">
-            <span><a href="/contact/"><i class="iconf-email"></i>Contact Us</a></span> |
-            <span><a href="/site-map"><i class="iconf-github-circled-alt2"></i>Site map</a></span> |
-            <span><a href="https://github.com/writethedocs"><i class="iconf-github-circled-alt2"></i>GitHub</a></span> |
-            <span><a href="https://twitter.com/writethedocs"><i class="iconf-twitter-circled"></i>Twitter</a></span> |
-            <span><a href="{{ pathto('code-of-conduct') }}">Code&nbsp;of&nbsp;Conduct</a></span> |
-            <span><a href="https://jobs.writethedocs.org/">Job Board</a></span>
-          </span>
+        </div>
+        <div id="social-footer">
+          <span><a href="/contact/"><i class="iconf-email"></i>Contact Us</a></span> |
+          <span><a href="/site-map"><i class="iconf-github-circled-alt2"></i>Site map</a></span> |
+          <span><a href="https://github.com/writethedocs"><i class="iconf-github-circled-alt2"></i>GitHub</a></span> |
+          <span><a href="https://twitter.com/writethedocs"><i class="iconf-twitter-circled"></i>Twitter</a></span> |
+          <span><a href="{{ pathto('code-of-conduct') }}">Code&nbsp;of&nbsp;Conduct</a></span> |
+          <span><a href="https://jobs.writethedocs.org/">Job Board</a></span>
+        </div>
       </div>
 
     {% if theme_github_banner|lower != 'false' %}
