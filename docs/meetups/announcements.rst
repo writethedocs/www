@@ -1,7 +1,8 @@
 WTD Meetup announcements
 ========================
 
-Welcome to your meetup group updates!
+This page contains updates for our Write the Docs meetup organizers as
+well as our community as a whole.
 
 Updates Aug 4, 2023
 -------------------

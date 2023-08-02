@@ -6,19 +6,21 @@ Archived or inactive groups
 We wanted to list inactive and archived Write the Docs groups to acknowledge all of the hard work
 organizers and volunteers.
 
-Groups are categorized as either "inactive" or "archived." 
+Groups are categorized as paused, inactive, or archived:
 
-* **Paused** groups or programs that are on hiatus
-* **Inactive** groups are still listed on Meetup 
-* **Archived** groups have been removed from Meetup
+* **Paused groups**: A group or program that is on hiatus
+* **Inactive groups**: A group that is still listed on Meetup.com but has not hosted an event in 12+ months
+* **Archived groups**: A group that has been removed\* from Meetup.com
+
+\* Archived groups may include a group that is in the process of being removed from Meetup.com.
 
 Paused groups
 -------------
 
 Thank you Alyssa Rock for leading this program and spearheading both groups.
 
-* East/Central Quorum
-* West/Mountain Quorum
+* `East/Central Quorum <https://www.meetup.com/virtual-write-the-docs-east-coast-quorum/>`_
+* `West/Mountain Quorum <https://www.meetup.com/virtual-write-the-docs-west-coast-quorum/>`_
 
 Inactive groups
 ---------------

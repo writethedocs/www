@@ -7,7 +7,7 @@ to date with the documentation world.
 
 Meetup now supports virtual events along with in-person events. Virtual 
 events are a great opportunity to network with people in your local 
-community as well as anyone who attends from an an overlapping time zone. 
+community as well as anyone who attends from an overlapping time zone. 
 The events available at each Meetup depend on the organizer, their schedule,
 as well as the needs of their community.
 
@@ -41,11 +41,11 @@ Anyone is welcome to join a meetup in their local community. If no local
 community currently exists you are more than welcome to join any meetup
 that works for your time zone that hosts virtual events.
 
-If your local community isn't listed here let us know or `add it on GitHub <https://github.com/writethedocs/www/tree/master/docs/_data/meetups>`_. 
-We would love to add it to our list of active meetups.
+If your local community isn't listed here, let us know or `add it on GitHub <https://github.com/writethedocs/www/tree/master/docs/_data/meetups>`_. 
+We would love to add your group to our list of active meetups.
 
 .. note:: We are removing inactive Meetup groups from this page. For record 
-    keeping purposes we created a `Meetup group archive <../inactive>`_ page. 
+    keeping purposes we created a `Meetup group archive <inactive>`_ page. 
     You can find a list of paused, inactive, and archived groups there. 
 
 North America
