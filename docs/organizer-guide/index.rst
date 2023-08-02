@@ -23,6 +23,8 @@ Information about the global Write the Docs :doc:`/meetups/index`.
 .. toctree::
    :maxdepth: 2
 
+   meetups/announcements
+   meetups/inactive
    meetups/covid-19-meetups
    meetups/starting
    meetups/faq-meetups
