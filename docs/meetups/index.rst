@@ -41,7 +41,7 @@ Anyone is welcome to join a meetup in their local community. If no local
 community currently exists you are more than welcome to join any meetup
 that works for your time zone that hosts virtual events.
 
-If your local community isn't listed here, let us know or `add it on GitHub <https://github.com/writethedocs/www/tree/master/docs/_data/meetups>`_. 
+If your local community isn't listed here, let us know or `add it on GitHub <https://github.com/writethedocs/www/tree/main/docs/_data/meetups>`_. 
 We would love to add your group to our list of active meetups.
 
 .. note:: We are removing inactive Meetup groups from this page. For record 
