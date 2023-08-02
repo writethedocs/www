@@ -248,10 +248,20 @@ div.body {
   div.sphinxsidebar {
     width: calc(100% + 20px);
   }
+}
 
+@media screen and (max-width: 1000px) {
   div.footer {
     display: inherit;
     padding-top: 20px;
     width: 100%;
+  }
+}
+
+@media (min-width: 875px) and (max-width: 1000px) {
+  div.footer {
+    width: calc(100% - 40px);
+    margin-left: 20px;
+    margin-right: 20px;
   }
 }
