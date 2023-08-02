@@ -239,3 +239,7 @@ img.speaker-pic {
 .strike {
   text-decoration: line-through;
 }
+
+div.body {
+  min-width: inherit;
+}
