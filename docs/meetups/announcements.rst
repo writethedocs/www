@@ -1,5 +1,5 @@
-WTD Meetup annoucements
-=======================
+WTD Meetup announcements
+========================
 
 Welcome to your meetup group updates!
 
