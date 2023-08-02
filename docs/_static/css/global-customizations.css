@@ -248,4 +248,12 @@ div.body {
   div.sphinxsidebar {
     width: calc(100% + 20px);
   }
+
+  div.footer {
+    display: inherit;
+    padding-top: 20px;
+    width: 100%;
+  }
 }
+
+
