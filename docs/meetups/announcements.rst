@@ -17,7 +17,7 @@ their meetup funded by Write the Docs. Here are the highlights:
 
 Based on the survey results, here are our next steps:
 
-* Create a page for inactive and archived groups
+* Create a page for `inactive and archived groups <../inactive>`_
 * Shutdown inactive groups and remove their information from the Active meetups sections
 * Pause Quorum to research other time zone based options
 

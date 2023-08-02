@@ -29,7 +29,7 @@ We have documentation available to support potential and existing organizers:
 .. toctree::
    :maxdepth: 1
 
-   ../meetup/announcements
+   ../announcements
    ../organizer-guide/meetups/starting
    ../organizer-guide/meetups/faq-meetups
    ../organizer-guide/meetups/sustainable-meetups
