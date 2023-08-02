@@ -243,3 +243,9 @@ img.speaker-pic {
 div.body {
   min-width: inherit;
 }
+
+@media screen and (max-width: 875px) {
+  div.sphinxsidebar {
+    width: calc(100% + 20px);
+  }
+}
