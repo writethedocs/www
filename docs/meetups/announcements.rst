@@ -1,5 +1,3 @@
-:orphan:
-
 WTD Meetup announcements
 ========================
 
