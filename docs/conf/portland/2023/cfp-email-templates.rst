@@ -123,9 +123,9 @@ Subject:
 
    Just wanted to drop you all a quick note covering some logistics.
 
-   ○  I've added some questions to our [CFP tool (Pretalx)]({{cfp.url}}) about your pronouns, interesting facts, name pronunciation, and slack username. Please log in at {{cfp.url}} and answer those.
+   ○  I've added some questions to our [CFP tool (Pretalx)]({{cfp.url}}) about your pronouns, interesting facts, name pronunciation, and Slack username. Please log in at {{cfp.url}} and answer those.
 
-   ○ Private speaker slack channel! If you're not on the slack already, [join the WTD slack](https://join.slack.com/t/writethedocs/shared_invite/zt-1qvx3xd9z-jOX_0QZXidaAESji2miYXQ). Once you're signed up, or if you're already on there, ping me @plaindocs so I can add you to the private speaker channel. It contains many of our past speakers, who will be happy to offer advice or answer questions.
+   ○ Private speaker Slack channel! If you're not on the Slack already, [join the WTD Slack](https://join.slack.com/t/writethedocs/shared_invite/zt-1qvx3xd9z-jOX_0QZXidaAESji2miYXQ). Once you're signed up, or if you're already on there, ping me @plaindocs so I can add you to the private speaker channel. It contains many of our past speakers, who will be happy to offer advice or answer questions.
 
    ○ We've got a [provisional schedule]({{cfp.preview}}) up, we're still tweaking a couple of things but it's mostly accurate. If you can't make your slot for any reason do let me know and I'll adjust. Note that we're trialing moderated Q&A in-person this year. We're hoping to publish the schedule on **Friday**.
 
