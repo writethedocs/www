@@ -50,7 +50,7 @@ Reach out to @alyssa and @cameronshorter on WTD Slack if interested. (@cameronsh
 
 **General chit-chat**
 
-We hang out in [a group Slack workspace](https://join.slack.com/t/thegooddocs/shared_invite/enQtODkyNjI5MDc0NjE0LTUyNGFiZmU1MjIzNDMwN2E3NmQwODQwZmRkYWI5MDhlMzdjYzg4Nzg4YjM3ODA0NGE4MTgyYzdkMGViMTI2MDM).
+We hang out in [The Good Docs Slack workspace](https://join.slack.com/t/thegooddocs/shared_invite/enQtODkyNjI5MDc0NjE0LTUyNGFiZmU1MjIzNDMwN2E3NmQwODQwZmRkYWI5MDhlMzdjYzg4Nzg4YjM3ODA0NGE4MTgyYzdkMGViMTI2MDM).
 
 Write the Docs Meetups
 ----------------------
