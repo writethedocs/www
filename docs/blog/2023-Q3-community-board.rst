@@ -14,18 +14,18 @@ Q3 quarterly meeting highlights
 
 Our third meeting covered several topics: 
 
-Meetup organizer mailing list and survey::
+**Meetup organizer mailing list and survey**
     Earlier this year, our Meetups team lead Rose Williams created a mailing list of all the meetup organizers, in an effort to formalize communication channels so that we can support the various meetups around the world more easily. Rose also sent out a survey to all the meetup organizers where they can indicate whether their meetup is still active, and submit ideas on how to evolve local and regional meetup structure. 
     
     We appreciate all of the hard work that meetup organizers do to keep their communities engaged, and will continue to work with the meetup teams to adapt to the current the global landscape. If you want to start a new meetup or join an existing meetup, check out the `Meetups page <https://www.writethedocs.org/meetups/>`_ on our website.
 
-Slack channel naming and structure::
+**Slack channel naming and structure**
     Last year, the Slack Moderation team started working on a proposal to restructure the Slack channels and establish naming conventions. Since then, the initiative was set aside due to changing availability, but the community board agreed that there are community benefits to restarting that effort, so we will be crafting a WEP (Write the Docs Enhancement Proposal) and posting it soon on our `WEP repository <https://github.com/writethedocs/weps>`_ for community review. 
 
-Team lead communication channels::
+**Team lead communication channels**
     As a part of our continuous improvements to the organizational administration, we decided to create official WTD Google accounts for all team leads. This will enable them to interact with the community with WTD email addresses, and provide them with the ability to create google groups for their teams. These groups can be used for mailing lists (such as the meetup organizer mailing list) and Google Drive access for team and event resources. 
 
-2023 salary survey::
+**2023 salary survey**
     Now that the `2022 salary survey <https://www.writethedocs.org/surveys/salary-survey/2022/>`_ is published, we're starting to work on the next survey with Kay Smoljak, our-long term survey expert! Expect the survey to be opened around the Atlantic conference timeframe. 
 
 And as always, the board continues to review the community backlog to determine what are the most valuable efforts for the community in the short and long term. 
