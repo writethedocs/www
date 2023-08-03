@@ -52,6 +52,21 @@ We have an ever-increasing set of talk videos, articles, links, and resources:
 We're glad you stopped by!
 We hope you'll join us either online or in-person for an event soon.
 
+Site Content
+------------
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+
+   surveys/index
+   guide/index
+   book-club/index
+   Hiring guide <hiring-guide/index>
+   about/stay-connected
+   about/*
+
 .. toctree::
    :hidden:
    :glob:
@@ -73,4 +88,3 @@ We hope you'll join us either online or in-person for an event soon.
    conf/vilnius/*/*/*
    conf/cfp/*
    book-club/*/*
-   about/*
