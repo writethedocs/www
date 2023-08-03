@@ -70,7 +70,7 @@ If you're interested to get a sense of the overall state of software documentati
 What we're reading & listening to
 ---------------------------------
 
-The #bipoc group's been discussing the following materials on diversity, inclusion, and equity. Want to join the conversation? Join us in the `#bipoc slack channel <https://app.slack.com/client/T0299N2DL/C016STMEWJD>`__!
+The #bipoc group's been discussing the following materials on diversity, inclusion, and equity. Want to join the conversation? Join us in the `#bipoc Slack channel <https://app.slack.com/client/T0299N2DL/C016STMEWJD>`__!
 
 For a short read: This `twitter thread <https://twitter.com/HeyChelseaTroy/status/1396503832255942656?s=19>`__ from @HeyChelseaTroy breaks down why approaching inclusion like other business initiatives often fails.
 

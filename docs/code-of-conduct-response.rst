@@ -89,7 +89,7 @@ The most common resolutions the response team can decide on are:
 
 Resolutions are not restricted to these options. Any conversations with bad actors are done by two people from the response team, and notes from this conversation will be added to the record of the incident. Regarding apologies, do not place a reporter in a situation where they are pressured to accept apologies from the reported person.
 
-When deciding on a resolution, the basic goal is to address the report in an appropriate way, while also looking to prevent or reduce the risk of continuing harm in the future. For example, you may try to distinguish whether a violation occurred intentionally or not, especially in not too severe cases like inappropriate jokes. In intentional cases, or severe behaviour, stronger measures are probably appropriate. The response team can also use behaviour on social media, the conference slack or personal interactions to further build a picture of the person(s) involved.
+When deciding on a resolution, the basic goal is to address the report in an appropriate way, while also looking to prevent or reduce the risk of continuing harm in the future. For example, you may try to distinguish whether a violation occurred intentionally or not, especially in not too severe cases like inappropriate jokes. In intentional cases, or severe behaviour, stronger measures are probably appropriate. The response team can also use behaviour on social media, the conference Slack or personal interactions to further build a picture of the person(s) involved.
 
 To provide a number of examples, these are situations where immediate removal from a space is likely appropriate:
 

@@ -6,7 +6,7 @@ Welcome Wagon Guide
 Hello!
 
 We're your Welcome Wagon, and we're glad you're coming to Write the Docs!
-Feel free to ask questions in the Write the Docs Welcome Wagon slack channel or `email <mailto:canncrochet@gmail.com>`_ us if we can help make your first time at the conference easier.
+Feel free to ask questions in the Write the Docs Welcome Wagon Slack channel or `email <mailto:canncrochet@gmail.com>`_ us if we can help make your first time at the conference easier.
 When you get to the conference, come :ref:`say hello <say-hello-2023>`.
 
 We've gathered info here that will help you navigate the conference like a pro and make you feel more at home. The Welcome Wagon events give new attendees strategies and tips and connect them with people.
