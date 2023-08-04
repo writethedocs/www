@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Jul 26, 2023
+.. post:: Aug 4, 2023
    :tags: {{shortcode}}-{{year}}, cfp
 
 Projects needed for Writing Day!
