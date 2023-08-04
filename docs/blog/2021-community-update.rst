@@ -123,7 +123,7 @@ Thanks
 ------
 
 Thanks again for subscribing to our newsletter and for being a member of our community.
-We hope to see you soon at one of our online events, on our slack,
+We hope to see you soon at one of our online events, on our Slack,
 or continue to see you here via this newsletter.
 
 You can always reply to this email if you have any questions or comments.

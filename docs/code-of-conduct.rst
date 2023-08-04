@@ -119,7 +119,7 @@ In your report please include, when possible:
 * Your contact info (so we can get in touch with you)
 * Names or descriptions of anyone who was involved or who witnessed the incident.
 * When and where the incident occurred. Please be as specific as possible.
-* Your account of what occurred. If there is a written record (e.g. tweets or slack messages) please include screenshots, or otherwise a link.
+* Your account of what occurred. If there is a written record (e.g. tweets or Slack messages) please include screenshots, or otherwise a link.
 * Any extra context you believe existed for the incident.
 * If you believe this incident is ongoing.
 * Any other information you believe we should have.
