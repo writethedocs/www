@@ -5,7 +5,7 @@
 Write the Docs Community Board Quarterly Update Q3-2023
 =======================================================
 
-Greetings, documentarians! Mikey Ariel here, chairperson of the WTD community board, and I'm happy to share with you the third quarterly update for 2023. 
+Greetings, documentarians! Mikey Ariel here, chairperson of the WTD community board. I'm happy to share with you the third quarterly update for 2023. 
 
 To catch up on the previous quarterly updates, check out `Q1 blog post <https://www.writethedocs.org/blog/2023-Q1-community-board/>`_ and `Q2 blog post <https://www.writethedocs.org/blog/2023-Q2-community-board/>`_. 
 
@@ -40,7 +40,7 @@ The board members are team leads for each WTD team, as well as the conference ch
 * Mikey Ariel (CoreOps, Brand and design, board chair)
 * Eric Holscher (CoreOps, Portland chair)
 * Samuel Wright (CoreOps, Infrastructure)
-* Sasha Romijn (CoreOps, Support, Atlantic Chair)
+* Sasha Romijn (CoreOps, Support, Atlantic chair)
 * Rose Williams (Meetups)
 * Janine Chan (Slack moderation)
 * Aaron Collier (Newsletter)
