@@ -32,7 +32,7 @@ WIP (Work In Progress) Docs on how to do this:
 
 2. Make sure the directory `videos/<city>/<year>` is included in the Video Archive `toctree` in `docs/videos/index.rst`.
 
-3. In the [virtual environment](#prerequisites-for-generating-the-docs-locally), switch to the `docs` directory and run `BUILD_VIDEOS=True make html`.
+3. In the [virtual environment](#-prerequisites-for-generating-the-docs-locally), switch to the `docs` directory and run `BUILD_VIDEOS=True make html`.
 
 4. Commit the *relevant* changed files:
 
