@@ -1,13 +1,16 @@
 # ✍️ Write the Docs website
 
-| ⬅ Prerequisites for generating the docs locally                                                                                |
-|:--------------------------------------------------------------------------------------------------------------------------------|
-| Install `python 3.8.x` using your package manager, if not installed already. You'll probably need `root` privileges to do this. |
-| Use `virtualenv --python=/usr/bin/python3.8 venv` to generate a virtual environment for the WTD repo in the `venv` directory.   |
-
 🔵 This is the code that powers [www.writethedocs.org](http://www.writethedocs.org). It contains information about the Write the Docs group, as well as information about writing documentation.
 
 🔵 To contribute to the Write the Docs website, it's helpful to familiarize yourself with the [Sphinx site generator](https://www.sphinx-doc.org/), as well as [reStructuredText markup syntax](https://www.sphinx-doc.org/en/stable/rest.html).
+
+## Prerequisites for generating the docs locally
+
+1. Install `python 3.8.x` using your package manager, if not installed already. You'll probably need `root` privileges to do this.
+
+2. Generate a virtual environment for the WTD repo in the `venv` directory:
+
+    `virtualenv --python=/usr/bin/python3.8 venv`
 
 ## 🗃 Code Architecture
 
@@ -81,17 +84,17 @@ The Write the Docs website is hosted on [Read the Docs](https://readthedocs.org/
 
 Styling is maintained in `docs/_static/conf/css/` as SASS. Convert SASS to minified CSS by installing SASS
 
-```
+```bash
 npm install -g sass
 ```
 
  and then running (using a 2022 example):
 
-```
+```bash
 sass --style=compressed docs/_static/conf/scss/main-2022.scss docs/_static/conf/css/main-2022.min.css
 ```
 
-## ⏹ Deactivating venv
+## 💾 Deactivating venv to save resources
 
 After your work is complete, you can save resources by deactivating the
 virtual Python environment with the following command on Linux:
