@@ -5,9 +5,9 @@
 | Install `python 3.8.x` using your package manager, if not installed already. You'll probably need `root` privileges to do this. |
 | Use `virtualenv --python=/usr/bin/python3.8 venv` to generate a virtual environment for the WTD repo in the `venv` directory.   |
 
-This is the code that powers [www.writethedocs.org](http://www.writethedocs.org). It contains information about the Write the Docs group, as well as information about writing documentation.
+🔵 This is the code that powers [www.writethedocs.org](http://www.writethedocs.org). It contains information about the Write the Docs group, as well as information about writing documentation.
 
-To contribute to the Write the Docs website, it's helpful to familiarize yourself with the [Sphinx site generator](https://www.sphinx-doc.org/), as well as [reStructuredText markup syntax](https://www.sphinx-doc.org/en/stable/rest.html).
+🔵 To contribute to the Write the Docs website, it's helpful to familiarize yourself with the [Sphinx site generator](https://www.sphinx-doc.org/), as well as [reStructuredText markup syntax](https://www.sphinx-doc.org/en/stable/rest.html).
 
 ## 🗃 Code Architecture
 
