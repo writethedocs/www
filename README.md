@@ -1,6 +1,6 @@
 # ✍️ Write the Docs website
 
-| 🔙 Prerequisites for generating the docs locally                                                                                |
+| ⬅ Prerequisites for generating the docs locally                                                                                |
 |:--------------------------------------------------------------------------------------------------------------------------------|
 | Install `python 3.8.x` using your package manager, if not installed already. You'll probably need `root` privileges to do this. |
 | Use `virtualenv --python=/usr/bin/python3.8 venv` to generate a virtual environment for the WTD repo in the `venv` directory.   |
