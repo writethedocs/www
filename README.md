@@ -4,7 +4,7 @@
 
 🔵 To contribute to the Write the Docs website, it's helpful to familiarize yourself with the [Sphinx site generator](https://www.sphinx-doc.org/), as well as [reStructuredText markup syntax](https://www.sphinx-doc.org/en/stable/rest.html).
 
-## Prerequisites for generating the docs locally
+## ⬅ Prerequisites for generating the docs locally
 
 1. Install `python 3.8.x` using your package manager, if not installed already. You'll probably need `root` privileges to do this.
 
