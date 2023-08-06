@@ -172,7 +172,9 @@ To propose a channel:
    Be sure to share your proposed channel name, description, and to tag your cosponsors.
 #. Start thinking about how to seed the new channel with discussion, with an open-ended question, a link to discuss, or a hot take.
 
-The Write the Docs moderation team will review your proposal.
+The Write the Docs moderation team will review your proposal to make sure the new channel will be active, durable, and won't duplicate or create confusion with another channel.
+Whenever possible, the moderators work with channel sponsors on improvements to the proposal.
+
 If your proposal is approved, then you and your consponsors must:
 
 #. Seed discussion in the new channel.
