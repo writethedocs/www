@@ -15,7 +15,7 @@ Q3 quarterly meeting highlights
 Our third meeting covered several topics: 
 
 **Meetup organizer mailing list and survey**
-    Earlier this year, our Meetups team lead Rose Williams created a mailing list of all the meetup organizers, in an effort to formalize communication channels so that we can support the various meetups around the world more easily. Rose also sent out a survey to all the meetup organizers where they can indicate whether their meetup is still active, and submit ideas on how to evolve local and regional meetup structure. 
+This year the Meetup team is focusing on updating organizer resources and streamlining communication. To support our efforts, the Meetup team lead Rose Williams created an organizer mailing list and distributed a meetup activity survey. The survey assessed meetup activity and collected ideas for evolving the local and regional meetup structure.
     
     We appreciate all of the hard work that meetup organizers do to keep their communities engaged, and will continue to work with the meetup teams to adapt to the current the global landscape. If you want to start a new meetup or join an existing meetup, check out the `Meetups page <https://www.writethedocs.org/meetups/>`_ on our website.
 
