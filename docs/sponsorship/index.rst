@@ -9,7 +9,7 @@ your sponsorship on any one of them, at a level that suits you:
     - Our virtual :doc:`2023 Atlantic conference </conf/atlantic/2023/sponsors/prospectus>`
     - Our in-person :doc:`2023 Australia conference </conf/australia/2023/sponsors/prospectus>`
 * Our :doc:`/sponsorship/newsletter` with over {{ newsletter_subs }} subscribers
-* Our :doc:`/sponsorship/website` offers both logo sponsorships and advertising 
+* Our :doc:`/sponsorship/website` offers a sidebar ad on our website
 * Our :doc:`/sponsorship/slack` allows you to get in front of our Slack network
 
 In addition to these existing programs,
