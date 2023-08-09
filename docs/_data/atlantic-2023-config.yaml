@@ -169,8 +169,8 @@ sponsors:
       link: https://www.knowledgeowl.com
       brand: KnowledgeOwl
   second:
-    - name: jetbrains
-      link: https://www.jetbrains.com/?ref=writethedocs
+    - name: jetbrains-writerside
+      link: https://jb.gg/writerside
       brand: JetBrains
     - name: helpdocs
       link: https://www.helpdocs.io/?ref=writethedocs
