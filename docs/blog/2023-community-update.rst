@@ -79,11 +79,17 @@ This month's newsletter is sponsored by `KnowledgeOwl <https://www.knowledgeowl.
       <tbody>
         <tr>
           <td width="75%">
+          <p>
             As a documentarian, do you put your customers first in your sentences? Do you know how to write in a people-first way? Let WTD community member, Marcia Riefer Johnston, show you how it's done on our <a href="https://www.knowledgeowl.com/blog/posts/customer-first-in-your-sentences">blog</a>.
+        </p>
 
+          <p>
             KnowledgeOwl helps documentarians build knowledge base websites. And we always put people first. Check out our <a href="https://www.knowledgeowl.com/video-demo/">5-minute demo</a> or book a 15- minute call with us to learn how we can help you put your customers first.
+        </p>
 
+          <p>
             P.S. We love articles like Marcia's that deep dive into the craft of technical writing. Interested in sharing your ideas? We are always excited to feature WTD members and their ideas as <a href="https://www.knowledgeowl.com/opportunities/">paid guest blog writers</a>.
+        </p>
           </td>
           <td width="25%">
             <a href="https://www.knowledgeowl.com/">
