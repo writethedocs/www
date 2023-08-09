@@ -273,7 +273,6 @@ In addition to the guidance that applies to all participants, we expect self-pro
 - **Treat the community like friends, not customers.**
   The community tends to ignore or spam report posts that look like sales pitches.
   Avoid calls to action — `attempts to prompt an immediate response or sale <https://en.wikipedia.org/wiki/Call_to_action_(marketing)>`_ — such as requests to "buy", "subscribe", "retweet", or "share" (among others).
-  These posts are typically poorly received and frequently deleted.
 
 Common self-promotion situations
 ++++++++++++++++++++++++++++++++
