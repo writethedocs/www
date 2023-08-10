@@ -93,7 +93,7 @@ This month's newsletter is sponsored by `KnowledgeOwl <https://www.knowledgeowl.
           </td>
           <td width="25%">
             <a href="https://www.knowledgeowl.com/">
-              <img style="margin-left: 15px;" alt="SPONSOR" src="/_static/img/sponsors/knowledgeowl.png">
+              <img style="margin-left: 15px;" alt="SPONSOR" src="/_static/img/sponsors/knowledgeowl-square.png">
             </a>
           </td>
         </tr>
