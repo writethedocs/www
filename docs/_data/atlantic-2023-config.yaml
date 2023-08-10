@@ -168,13 +168,13 @@ sponsors:
     - name: knowledgeowl
       link: https://www.knowledgeowl.com
       brand: KnowledgeOwl
+    - name: helpdocs
+      link: https://www.helpdocs.io/?ref=writethedocs
+      brand: HelpDocs
   second:
     - name: jetbrains-writerside
       link: https://jb.gg/writerside
       brand: JetBrains
-    - name: helpdocs
-      link: https://www.helpdocs.io/?ref=writethedocs
-      brand: HelpDocs
   media:
   in_kind:
 
