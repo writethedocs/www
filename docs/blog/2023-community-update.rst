@@ -27,6 +27,7 @@ The `photos <https://www.flickr.com/photos/writethedocs/albums/72177720308088427
 We are still in the planning phrase for our 2024 conferences.
 We expect Portland to return in-person,
 and we will make a decision about the other conferences after the 2023 editions happen later this year.
+
 Overall, we are trying to balance between the accessibility of virtual events and the human interaction value of in-person events.
 The other major factor is organizer energy and availability,
 given that running a conference is a lot of work across many members of our organizer teams.
@@ -38,9 +39,9 @@ Community Board Updates
 -----------------------
 
 Our Community Board has been meeting each quarter for all of 2023,
-and we have been posting `meeting notes <https://www.writethedocs.org/blog/archive/tag/community-board/>`_ for each meeting.
+and we have been posting `meeting summaries <https://www.writethedocs.org/blog/archive/tag/community-board/>`_ for each meeting.
 
-The current structure of the board is to have each team lead from one of our teams, and each of our conference chairs, as a member.
+The current structure of the board includes the team leads from each of our teams, and each of our conference chairs.
 This allows us to get a good cross-section of the community,
 and share information between the teams.
 
