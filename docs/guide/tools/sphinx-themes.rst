@@ -73,3 +73,14 @@ This theme is default theme of Documatt Techwriter at work blog but you are welc
 
 .. image:: /_static/img/documatt.png
   :width: 80%
+
+Furo Theme
+------------
+
+Originally built for the pip documentation, this mobile friendly theme is minimal but customizable and has carefully
+designed navigation features (sidebar, inter-page links).
+
+* https://github.com/pradyunsg/furo
+
+.. image:: /_static/img/furo.png
+  :width: 80%

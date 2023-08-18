@@ -24,7 +24,7 @@ talks_day1:
   - duration: '0:05'
     title: '⏲ 5 minute break'
   - duration: '0:00'
-    title: "<b>Unconference Starts</b>"
+    title: "<b>Unconference starts</b>"
   - duration: '0:30'
     slug: working-with-user-experience-to-maximize-user-success-katie-riker
   - duration: '0:10'
@@ -70,7 +70,9 @@ talks_day2:
   - duration: '00:30'
     title: Hallway track - Chat with other attendees
   - duration: '0:00'
-    title: "<b>Unconference Starts</b>"
+    title: "<b>Unconference starts</b>"
+  - duration: '0:00'
+    title: "<b>Sponsor Expo starts</b>"
   - duration: '0:30'
     slug: once-upon-a-time-there-were-docs-fabrizio-ferri-benedetti
   - duration: '0:10'
@@ -89,6 +91,8 @@ talks_day2:
     slug: ai-ethics-for-tech-writers-chris-meyns
   - duration: '0:10'
     title: '✋ Q&A for the previous talk'
+  - duration: '0:00'
+    title: '<b>Sponsor Expo closes</b>'
   - duration: '0:20'
     title: '🍲 Snack break'
   - duration: '0:30'
