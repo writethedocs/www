@@ -173,9 +173,9 @@ Sponsorship schedule
 
 * **SUNDAY**: The conference online platform is open. You are welcome to hang out at your sponsorship booth and attend the Writing Day, but no formal sponsorship events are happening. You're also encouraged to lead a Writing Day project if your documentation is open source.
 
-* **MONDAY**: The conference platform is open all day from the morning, so we recommend arriving around the time it opens to get the most interaction with attendees. 
+* **MONDAY**: The conference platform is open all day, so we recommend arriving around the time it opens to get the most interaction with attendees. 
 
-* **TUESDAY**: The Sponsor Expo will be on Tuesday morning in the Expo area of the online platform. It will take place in existing sponsorship booths. If you do not have a booth, a temporary booth will be set up for the sponsor expo, and then removed during lunch.
+* **TUESDAY**: The Sponsor Expo will be on Tuesday in the first 3 hours, in the Expo area of the online platform. It will take place in existing sponsorship booths. If you do not have a booth, a temporary booth will be set up for the sponsor expo, and then removed after.
 
 See the :doc:`full schedule </conf/{{ shortcode }}/{{ year }}/schedule>` for exact timing details.
 
@@ -199,7 +199,7 @@ Sponsorship events
 Sponsor Expo
 ~~~~~~~~~~~~
 
-On Tuesday morning we hold our Sponsor Expo,
+On Tuesday, for the first 3 hours, we hold our Sponsor Expo,
 which is a wonderful place to connect with our attendees.
 This gives you a chance to discuss whatever you'd like to with our attendees.
 
@@ -226,7 +226,7 @@ Starting with these issues will make it much easier for people to start,
 and feel productive.
 Make sure you also have good installation instructions and other helpful beginners content as well.
 
-**Logistics**: We will send a signup sheet to the general attendee list a week before the conference, where you can sign up. You can introduce your project to attendees on Sunday morning during the Writing Day Introduction.
+**Logistics**: We will send a signup sheet to the general attendee list a week before the conference, where you can sign up. You can introduce your project to attendees on Sunday during the Writing Day Introduction.
 
 How do I get the most out of my sponsorship?
 --------------------------------------------
