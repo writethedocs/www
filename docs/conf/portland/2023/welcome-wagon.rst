@@ -137,7 +137,7 @@ How do I take part in the Sponsor Expo?
 How do I make the most out of this conference?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  The most important part of this conference (and any conference) is the people you meet. Set a goal for yourself to meet a few, new people. Find out who is attending the conference before you get there. Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__,
+-  The most important part of this conference (and any conference) is the people you meet. Set a goal for yourself to meet a few, new people. Find out who is attending the conference before you get there. Join the `Write the Docs Slack <https://writethedocs.org/slack/>`__, follow the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__,
    and review the `list of speakers <https://www.writethedocs.org/conf/portland/2023/speakers/>`__.
 -  You don't need to go to every talk. Look through the schedule of events before you arrive or while you are eating or taking a break. Figure out which talks you want to see the most. Spread out your time between talks, unconference sessions, networking, and breaks.
 -  Speaking of breaks--conferences are exhilarating, but can also be exhausting. Give your brain a break! Grab a quiet spot in the Sunset Room or take a quick walk. Play a board game on your lunch break. Come back invigorated.
@@ -149,7 +149,7 @@ How do I make the most out of this conference?
 Sample strategy for my first Write the Docs conference
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__, and participate in the Welcome Wagon chat room to start making conference connections.
+-  Join the `Write the Docs Slack <https://writethedocs.org/slack/>`__, and participate in the Welcome Wagon chat room to start making conference connections.
 -  Make a list of two people who are attending with some notes about them and questions for them. Either reach out by email before the conference to set up a meeting onsite or find them at the conference.
 -  Attend the Welcome Wagon tour.
 -  Join in the Saturday hike.

@@ -45,7 +45,7 @@ Have Fun
 Share the Love
 --------------
 
-* **Slack with your fellow documentarians.** Our `Slack <http://slack.writethedocs.org/>`_ is the place to coordinate dinners, ask questions, or share notes with fellow conference attendees. Please use the **#wtd-conferences** or **#prague** channels for group discussions.
+* **Slack with your fellow documentarians.** Our `Slack <https://writethedocs.org/slack/>`_ is the place to coordinate dinners, ask questions, or share notes with fellow conference attendees. Please use the **#wtd-conferences** or **#prague** channels for group discussions.
 * **Use the Twitter hash tag #writethedocs.** Twitter is another great way to communicate at events. If you arrive to Prague early and want to find others, use the hash tag `#writethedocs <https://twitter.com/search?q=%23writethedocs&src=tyah>`_.
 
 We're so excited to welcome you all to Prague in just a few days – see you there!

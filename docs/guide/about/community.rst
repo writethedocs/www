@@ -20,4 +20,4 @@ A community without people who help maintain standards and advance the state of 
 .. _Mailing List: https://groups.google.com/forum/?fromgroups=#!forum/write-the-docs
 .. _Twitter: http://twitter.com/writethedocs
 .. _GitHub: https://github.com/writethedocs
-.. _Slack: http://slack.writethedocs.org
+.. _Slack: https://writethedocs.org/slack
