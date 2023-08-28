@@ -161,13 +161,26 @@ Creating channels
 
 If you didn't see a channel that matches your interests, make sure to browse the complete channel list in Slack.
 
-If you still can't find a suitable channel, you can propose a new channel. To propose a channel:
+If you still can't find a suitable channel, you can propose a new channel.
+We use this process to help channels succeed at creating discussion and introducing documentarians to others who share their interests.
+To propose a channel:
 
-1. Find two other people to cosponsor your channel idea. Ask in related channels to find people who share your interest.
-2. Together, come up with a channel name and write a channel description.
-3. Post in **#meta** requesting a channel. Be sure to share your proposed channel name, description, and to tag your cosponsors.
+#. Find two other people to cosponsor your channel idea.
+   Ask in related channels to find people who share your interest.
+#. Together, come up with a channel name and write a channel description.
+#. Post in **#meta** requesting a channel.
+   Be sure to share your proposed channel name, description, and to tag your cosponsors.
+#. Start thinking about how to seed the new channel with discussion, with an open-ended question, a link to discuss, or a hot take.
 
-The Write the Docs moderation team will review your proposal.
+The Write the Docs moderation team will review your proposal to make sure the new channel will remain active and won't duplicate or create confusion with another channel.
+Whenever possible, the moderators work with channel sponsors on improvements to the proposal.
+
+If your proposal is approved, then you and your consponsors must:
+
+#. Seed discussion in the new channel.
+   A starter discussion helps others learn whether the channel is relevant to them and increases the number of documentarians who join the channel.
+#. Make an announcement in **#general** and channels related to the new channel's topic.
+   For example, if there's a new a channel for underwater basket weaving, then make an announcement like "Join us in #underwater-basket-weaving to discuss techniques, materials, and what to store in all these baskets."
 
 Guidelines
 ----------
