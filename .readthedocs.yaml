@@ -4,8 +4,11 @@ build:
   os: ubuntu-22.04
   tools:
     python: "3.7"
-      - requirements: requirements.txt
 
+
+python:
+  install:
+    - requirements: docs/requirements.txt
 
 # No .html on files
 sphinx:
