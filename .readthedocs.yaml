@@ -4,17 +4,13 @@ build:
   os: ubuntu-22.04
   tools:
     python: "3.7"
+      - requirements: requirements.txt
+
 
 # No .html on files
 sphinx:
   builder: dirhtml
   configuration: docs/conf.py
-
-# Newish Python
-python:
-  version: 3.7
-  install:
-    - requirements: requirements.txt
 
 # No PDF
 formats: []
