@@ -61,7 +61,7 @@ Surveys
 
 We sometimes create `surveys </surveys/>`_ that help us understand a bit more about our community.
 
-Latest: The `Write the Docs Salary Survey 2021 Results </surveys/salary-survey/2021/>`_ are now in.
+Latest: The `Write the Docs Salary Survey 2022 Results </surveys/salary-survey/2022/>`_ are now in.
 
 Book Club Write-ups
 ~~~~~~~~~~~~~~~~~~~
