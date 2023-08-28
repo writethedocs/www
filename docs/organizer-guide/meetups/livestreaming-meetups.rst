@@ -12,7 +12,7 @@ As a Meetup organizer you are welcome to livestream your events or upload record
 You can request access to our YouTube Studio channel:
 
 * Request access when you fill out the *Meetup organizer contact information* form (available on Slack).
-* Reach out to the Meetup team lead, Rose Williams on slack or by email.
+* Reach out to the Meetup team lead, Rose Williams on Slack or by email.
 
 After you have channel access, you can upload a recorded meetup or livestream future events.
 
