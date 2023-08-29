@@ -16,3 +16,6 @@ exceptions:
   - AsciiDoc
   - Git
   - Write the Docs
+  - Bootstrap
+  - FAQs
+  - Docs as Code

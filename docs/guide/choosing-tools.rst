@@ -53,8 +53,8 @@ Questions to ask
 - Will you need to consider translation work?
   If so, you need to make sure that your content works well with the translation pipeline.
 
-Consirations and "Gotchas"
---------------------------
+Considerations and "gotchas"
+----------------------------
 
 - Static Site Generators can be a great tooling choice, but the time spent spinning them up may cost as much as investing in a commercial tool.
   Consider contracting with an expert for your chosen tool or SSG to get your content looking how you want it.

@@ -1,4 +1,4 @@
-Starting on a New Piece of Documentation
+Starting on a new piece of documentation
 ========================================
 
 So you’ve been tasked with writing a brand-new piece of documentation. Where should you begin?

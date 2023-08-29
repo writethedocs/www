@@ -1,4 +1,4 @@
-Documentation Principles
+Documentation principles
 ========================
 
 Software development benefits from `philosophies`_ and `principles`_ such as

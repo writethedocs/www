@@ -1,5 +1,5 @@
 ========================
-Documentation Community
+Documentation community
 ========================
 
 We are bringing together a community around documentation. Communities need a `Third Place`_ to gather, and we hope to be that place. We currently have an IRC channel and mailing list for people to connect on:
