@@ -1,4 +1,4 @@
-Testing your Documentation
+Testing your documentation
 ==========================
 
 Testing your documentation allows you to make sure it is in a consistent state.
@@ -7,7 +7,7 @@ and reduces stress around common issues as a writer.
 
 This `article <https://opensource.com/business/15/7/continuous-integration-and-continuous-delivery-documentation>`_ by Anne Gentle is a good place to start to understand this concept.
 
-Continuous Integration
+Continuous integration
 ----------------------
 
 The most useful tests are run on each commit of your project.
@@ -19,7 +19,7 @@ We recommend checking out the following tools to get started:
 * `Travis CI <https://travis-ci.org>`_ (GitHub only, free for open source)
 * `AppVeyor <https://www.appveyor.com/>`_ (Windows support, free for open source)
 
-Build Errors
+Build errors
 ------------
 
 The easiest automated check to do is to make sure your documentation builds
@@ -37,7 +37,7 @@ want to make sure that your documentation is in good shape before you do.
 * Sphinx has `nitpicky mode <https://www.sphinx-doc.org/en/stable/config.html#confval-nitpicky>`_.
 * Jekyll has `strict mode <https://jekyllrb.com/docs/configuration/#liquid-options>`_.
 
-Link Testing
+Link testing
 ------------
 
 Making sure all the hyperlinks in your docs are working is a really great place to start.
@@ -76,7 +76,7 @@ HTMLProofer
 `HTMLProofer <https://github.com/gjtorikian/html-proofer>`_ checks links in
 HTML, as well as images, titles and tag validity.
 
-Style Guide Checking and Linting
+Style guide checking and linting
 ----------------------------------
 
 Linters are tools that automatically verify specific rules against your code or
