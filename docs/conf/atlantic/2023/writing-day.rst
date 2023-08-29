@@ -67,3 +67,20 @@ together and offer each other some feedback on the important documentation
 we're using to move our careers forward.
 
 Let's help each other get ready for the job fair!
+
+The Blog Writing Room: Blogging for technical writers and documentarians
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Struggling to get into blogging? Our project, The Blog Writing Room, is designed to 
+give technical writers and documentarians a space to come together to work on writing 
+blog posts in a supportive and collaborative environment.
+
+Join us in the morning and/or the afternoon session for fireside roundtable discussions 
+followed by blog writing workhops where we can help each other brainstorm topics, put
+pen to paper, and figure out how to share our ideas, tips, and tricks with the community.
+
+Our Writing Day goals:
+
+- Connect with other technical writers and documentarians who want to blog 
+- Harness the positive momentum of the community to get some blog posts written
+- Challenge ourselves to not only write the darn post but share it with the world
