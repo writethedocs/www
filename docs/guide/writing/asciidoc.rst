@@ -206,7 +206,7 @@ Inline::
 
     image:sunset.jpg[Sunset,150,150,role="right"] What a beautiful sunset!
 
-Source Code
+Source code
 ~~~~~~~~~~~
 
 Code block with title and syntax highlighting::
