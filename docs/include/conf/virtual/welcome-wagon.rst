@@ -80,7 +80,7 @@ To ask a question, either in the Stage during the talk or in the Q&A session:
 
 1. Open the **Chat** channel (on the right-hand side of the page).
    Make sure it is the Chat for the Stage/session (not the Event chat).
-2. Enter your question prefixed with ``Q: ``.
+2. Enter your question prefixed with ``Q:``.
 
 If there is time, a moderator will ask the question to the speaker.
 If your question isn’t asked live, chat with the speaker later and make a connection!
@@ -278,7 +278,7 @@ Pro tips
 
 - Conferences are exhilarating, but can also be exhausting. Give your brain a break! Grab a quiet spot or take a quick walk. Play a board game on your lunch break. Come back invigorated.
 - Find out who is attending the conference before you attend. Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__, and review the `list of speakers <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/speakers/>`__.
-- In case of technical issues with our main platform Hopin, please watch the `#wtd-conferences Slack channel <https://writethedocs.slack.com/archives/C1AKFQATH>`_ for status updates and alternative viewing links that might be posted.
+- In case of technical issues with our main platform Hopin, please watch the `#wtd-conferences Slack channel <https://writethedocs.slack.com/archives/C1AKFQATH>`__ for status updates and alternative viewing links that might be posted.
 
 FAQs
 ----
