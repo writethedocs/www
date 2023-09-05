@@ -1,9 +1,9 @@
 .. post:: September 05, 2023
    :tags: newsletter
 
-#####################################
+##########################################
 Write the Docs Newsletter – September 2023
-#####################################
+##########################################
 
 Hey, documentarians, the newsletter is back!
 
