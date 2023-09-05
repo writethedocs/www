@@ -6,11 +6,11 @@
 Get Ready for the conference!
 =============================
 
-Hey everyone!
+Hey everyone,
 
 We're just a few days from the start of the conference, and we're getting excited to see you soon! We're looking forward to gather for 3 days of content, collaboration, and conversation.
 
-We have a few reminders before we welcome you all next Sunday:
+We have a few reminders before we welcome you all on Sunday:
 
 * Ticket sales close this week, so grab yours now!
 * We have a great Welcome Wagon guide.
@@ -22,7 +22,7 @@ Ticket sales close on **Thursday September 8th**
 To help us manage capacity and make sure that our conference environment is cozy and friendly, we are going to close ticket sales on **Thursday, September 7, at 23:59 UTC**.
 If you haven't purchased your ticket yet we invite you to `get your tickets soon <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_.
 
-For those of you who already purchased your tickets, you're already received an email with our online conference platform (Hopin) registration link. We will also send a reminder on September 9th, in case you missed the first email, or registered later.
+For those of you who already purchased your tickets, you should have already received an email with our online conference platform (Hopin) registration link. We will also send a reminder on September 9th, in case you missed the first email, or registered later.
 This will give you the opportunity to set up your Hopin account and troubleshoot any access issues that you might have.
 
 
@@ -30,18 +30,18 @@ Welcome Wagon guide
 -------------------
 
 Each year we create a guide to help our attendees get the most out of the conference.
-Following the success of last year's conferences, we updated `our Welcome Wagon guide <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/welcome-wagon/>`_ to help you get the most out of our event this year.
+Head over to the website and check out the `Welcome Wagon guide <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/welcome-wagon/>`_ to help you get the most out of our event this year.
 
 
 All our events and activities
 -----------------------------
 
-There are many of events at the conference beyond the main track of speakers.
+There are many events at the conference beyond the main track of speakers.
 We hope that you'll get involved with some of our other events,
 and get to know more folks that are hanging out at the conference!
 
 * **Lightning Talks.** We'll have `lightning talks <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/lightning-talks/>`__ each day after lunch. Registration is handled on the day of the conference. These are 5-minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. We encourage first time speakers to submit as well. Slides are optional.
-* **Unconference.** We'll be running the `Unconference <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/unconference/>`_ all day Monday and on Tuesday afternoon. These are also planned day-of, and allow attendees to schedule a session to talk about any topic they wish. It's a great way to find others who share your specific interests. As a session lead you guide the session, but you definitely do not need to have a full plan.
+* **Unconference.** We'll be running the `Unconference <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/unconference/>`_ all day Monday and on Tuesday. These are also planned day-of, and allow attendees to schedule a session to talk about any topic they wish. It's a great way to find others who share your specific interests. As a session lead you guide the session, but you definitely do not need to have a full plan.
 * **Sponsor Expo**. On Tuesday morning we'll have a `sponsor expo <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/job-fair>`_ where you you'll find sponsors that have job openings or products relevant to documentarians.
 * **Hallway track**. We do not have a separate social event, but have set aside time at the start and end of each day to meet your fellow documentarians in the Hallway sessions. These sessions are also open throughout the conference.
 * **Conference Help Desk**. If you have any questions about navigating the virtual event, we'll be running the Write the Docs Helpdesk booth in the **Expo** area, where you can chat with one of the organizers and the Welcome Wagon team.
