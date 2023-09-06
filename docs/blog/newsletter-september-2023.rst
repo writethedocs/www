@@ -7,7 +7,7 @@ Write the Docs Newsletter – September 2023
 
 Hey, documentarians, the newsletter is back!
 
-In conference news, we have the `2023 Atlantic conference </conf/atlantic/2023/>`__ this weekend. If you don't have a ticket yet, grab one while you can (through 7 September). Looking forward to seeing you there. And after you get inspired, the Australia conference still has its `call for proposals </conf/australia/2023/cfp/>`__, but it closes 15 September, so get your ideas in soon.
+In conference news, we have the `2023 Atlantic conference </conf/atlantic/2023/>`__ running Sunday through Tuesday. If you don't have a ticket yet, grab one while you can (through 7 September). Looking forward to seeing you there. And after you get inspired, the Australia conference still has its `call for proposals </conf/australia/2023/cfp/>`__, but it closes 15 September, so get your ideas in soon.
 
 If you're interested in information about the Write the Docs community, take part in our `2023 Write the Docs Salary Survey <https://writethedocs.org/surveys>`__. It opens in just a few days.
 
