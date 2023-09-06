@@ -9,7 +9,9 @@ Hey, documentarians, the newsletter is back!
 
 In conference news, we have the `2023 Atlantic conference </conf/atlantic/2023/>`__ running Sunday through Tuesday. If you don't have a ticket yet, grab one while you can (through 7 September). Looking forward to seeing you there. And after you get inspired, the Australia conference still has its `call for proposals </conf/australia/2023/cfp/>`__, but it closes 15 September, so get your ideas in soon.
 
-If you're interested in information about the Write the Docs community, take part in our `2023 Write the Docs Salary Survey <https://writethedocs.org/surveys>`__. It opens in just a few days.
+It's almost that time again: the Write the Docs Salary Survey for 2023 is opening next week. We encourage everyone working in areas related to documentation to participate, whether you're working or currently unemployed, full-time or part-time, permanent or contract, employee or freelance, in all countries, all industries, and no matter what level of skill or experience you possess. Your contribution will help the whole community better understand what an appropriate salary is, and provide a basis for future negotiations.
+
+This year, we're removing the questions on workplace changes related to the pandemic, and including new questions about "return to the office" mandates, job changes and your thoughts on job security - issues at the top of a lot of people's minds. We'll be announcing when the survey goes live on Slack and Twitter, and as always you can find all the details at https://salary-survey.writethedocs.org/.
 
 I'd like to extend a special goodbye to Beth Aitman. This month marks the first newsletter in years that she hasn't participated in. Thanks for your leadership, help, and many other contributions.
 
