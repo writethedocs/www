@@ -57,7 +57,7 @@ For online documentation, people were less in favor of using numbers. The discus
 Dealing with Unpleasant People in Open-Source Projects
 ------------------------------------------------------
 
-Although open-source groups are famed for their collaborative attitude, dealing with problematic personalities can sometimes be challenging. A recent WtD discussion provided useful ideas for efficiently dealing with such circumstances.
+Although open-source groups are famed for their collaborative attitude, dealing with problematic personalities can sometimes be challenging. A recent WTD discussion provided useful ideas for efficiently dealing with such circumstances.
 
 In this conversation, advice was needed on how to deal with an individual whose behavior in an open-source project was troublesome. This person acted in ways that verged on being unacceptable without being overtly prohibited. Their perceived importance in the community added to the complication.
 
@@ -75,16 +75,16 @@ Fostering a communal feeling of respect and collaboration is critical in open-so
 Keeping Up-To-Date with Necessary Changes
 -----------------------------------------
 
-Even in periods when many people are taking vactions, an organization can have a lot going on. A recent discussion touched on how to stay on top of it all when you have many articles to keep track of. Some complained about working long hours to add documentation only to be told right after it was published that it no longer applied. The discussion turned to tools and processes to avoid such issues.
+Even in periods when many people are taking vacations, an organization can have a lot going on. A recent discussion touched on how to stay on top of it all when you have many articles to keep track of. Some complained about working long hours to add documentation only to be told right after it was published that it no longer applied. The discussion turned to tools and processes to avoid such issues.
 
 Many people used a ticketing system. Jira was popular because it was where others were working and so made it easier to follow changes. For similar reasons, others used GitHub or GitLab and followed changes directly in projects. Others had their own separate system in someplace like Asana with just what they needed.
 
-Outside of tools, people suggested setting up regular meetings with people like product managers, especially if these meetings line up with a release schedule. It helped to put in some sort of check of whether doc changes are necessary before release. Others suggested seeing if you can get rid of some content, such as pages with few visits. Then there's less to deal with.
+Other than tools, people also suggested setting up regular meetings with people like product managers, especially if these meetings line up with a release schedule. It helped to put in place some sort of check to determine whether doc changes are necessary before release. Others suggested seeing if you can get rid of some content, such as pages with few visits. Then there's less to deal with.
 
 Even with the best process, everyone misses some things. So it helps to think about how to find the things you've missed. For example, make it easy to report issues so you learn about anything that falls through. And multiple people noted the benefits of regular documentation audits, starting with the most important or most visited pages. Go through things slowly but steadily to check that everything still works as it should.
 
 ----------------
-From our sponsor
+From Our Sponsor
 ----------------
 
 This month’s newsletter is sponsored by ClickHelp:
