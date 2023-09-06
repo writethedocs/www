@@ -148,7 +148,7 @@ and make sure you know your way around the conference venue.
 Conference Talks
 ~~~~~~~~~~~~~~~~
 
-Talks are around 30 minutes, with moderated on-stage 10 minute Q&A.
+Talks are around 30 minutes, with moderated 10 minute Q&A.
 
 * **Where**: {{about.venue}}
 {% if not flaghasschedule %}
@@ -213,7 +213,7 @@ Snacks and drinks (non-alcoholic & alcoholic) will be provided.
 Conference Talks
 ~~~~~~~~~~~~~~~~
 
-Talks are around 30 minutes, with moderated on-stage 10 minute Q&A.
+Talks are around 30 minutes, with moderated 10 minute Q&A.
 
 * **Where**: {{about.venue}}
 {% if not flaghasschedule %}
