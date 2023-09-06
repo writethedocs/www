@@ -11,7 +11,7 @@ In conference news, we have the `2023 Atlantic conference </conf/atlantic/2023/>
 
 If you're interested in information about the Write the Docs community, take part in our `2023 Write the Docs Salary Survey <https://writethedocs.org/surveys>`__. It opens in just a few days.
 
-I'd like to extend a special goodbye to Beth Aitman. This month marks the first newsletter in years that she hasn't participated in. Thanks for your leadership, help, and many other contributions
+I'd like to extend a special goodbye to Beth Aitman. This month marks the first newsletter in years that she hasn't participated in. Thanks for your leadership, help, and many other contributions.
 
 The summer was a busy time, with too many conversations to cover here. For example, the `#career-advice channel <https://writethedocs.slack.com/archives/C6ADX1YVA>`__ had multiple discussions of resume formatting and resume peer checks. So if you're looking for help with your resume, join the discussion in the channel.
 
@@ -41,7 +41,7 @@ Numbering Section Headings
 
 To number or not was a question posed in recent months. In general, these queries related to printed (or PDF) manuals.
 
-Often reasons for numbering sections relate to using the number instead of the section title as a reference or to clarify about sequencing (or relationships) between sections. As one documentarian noted, "Titles alone do not tell users ... where they will find the information unless they are already ... familiar with the content structure of the document. When you have to check section 3, you know that it is before section 4 and ... after section 2."
+Often, the reasons for numbering section headings relate to using the number as a reference or clarifying the sequencing of sections and relationships between sections. As one documentarian noted, "Titles alone do not tell users ... where they will find the information unless they are already ... familiar with the content structure of the document. When you have to check section 3, you know that it is before section 4 and ... after section 2."
 
 Certain domains may also prefer or require section numbers. For example, if your readers are in a scientific community, a legal or academic environment, or a strictly regulated domain, they may expect to see section numbers.
 
@@ -59,7 +59,7 @@ Dealing with Unpleasant People in Open-Source Projects
 
 Although open-source groups are famed for their collaborative attitude, dealing with problematic personalities can sometimes be challenging. A recent WtD discussion provided useful ideas for efficiently dealing with such circumstances.
 
-In this conversation, advice on how to deal with an individual whose behavior in an open-source project was troublesome. This person acted in ways that on the verge of being unacceptable without being overtly prohibited. Their perceived importance in the community added to the complication.
+In this conversation, advice was needed on how to deal with an individual whose behavior in an open-source project was troublesome. This person acted in ways that verged on being unacceptable without being overtly prohibited. Their perceived importance in the community added to the complication.
 
 A critical initial step was suggested: reviewing the project’s code of conduct, ideally with clearly stated repercussions for violations. Reminding individuals of appropriate community conduct addresses the current issue while reassuring other community members.
 
