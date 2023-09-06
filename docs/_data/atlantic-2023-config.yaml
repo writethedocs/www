@@ -155,11 +155,11 @@ grants:
   ends: "August 15, 2022"
   notification: "August 25, 2022"
 
-#unconf:
-#  url: https://bit.ly/wtd-prg-2022-ro
+unconf:
+  url: https://bit.ly/wtd-at-2023-ro
 
-#lightning_talks:
-#  signup_url: https://forms.gle/BjeN5BkdTPg9n3nAA
+lightning_talks:
+  signup_url: https://forms.gle/NzmWLVaBXDtxps8R7
 
 sponsors:
   keystone:
