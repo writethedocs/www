@@ -111,7 +111,9 @@ Events Coming Up
 
 - 8 Sep, 08:30 EDT (New England and Florida, USA): `Focused conversation: Videos in documentation <https://www.meetup.com/write-the-docs-florida/events/295094684/>`__
 - 8 Sep, 19:30  IST (Bangalore, India): `Let's bring science into API documentation <https://www.meetup.com/write-the-docs-india/events/295604665/>`__
+- 10–12 Sep: `Atlantic conference </conf/atlantic/2023/>`__
 - 13 Sep, 18:00  MDT (Boulder/Denver, USA): `Building our own applications: Nextworld’s journey to Content 4.0 <https://www.meetup.com/write-the-docs-boulder-denver/events/295749600/>`__
+- 15 Sep, 24:00: Closing of the `call for proposals for the Australia conference </conf/australia/2023/cfp/>`__
 - 21 Sep, 10:00  AEST (Australia): `(Remote): Fight for your promotion in 3 steps <https://www.meetup.com/write-the-docs-australia/events/295577798/>`__
 - 21 Sep, 17:30  CDT (Austin, USA): `Write the Docs ATX Happy Hour Meetup: September 21 <https://www.meetup.com/writethedocs-atx-meetup/events/295309065/>`__
 - 22 Sep, 12:00  MDT (Boulder/Denver, USA): `Fourth Friday Write the Docs Co-working Social <https://www.meetup.com/write-the-docs-boulder-denver/events/295850155/>`__
