@@ -89,11 +89,28 @@ From Our Sponsor
 
 This month’s newsletter is sponsored by ClickHelp:
 
-In the world of technical documentation, the essential goals are to empower writers, enhance efficiency, and promote collaboration. ClickHelp emerges as a valuable ally in achieving these objectives.
 
-ClickHelp is a comprehensive cloud-based documentation platform for efficient teamwork. Its robust capabilities empower users to efficiently generate, review, and release documentation. The platform optimizes workflows through features like single sourcing and dynamic output, enhancing the overall process. Furthermore, it is flexible and customizable, with a fast and accurate import process. The tool promotes seamless collaboration and effortless version tracking. It is accessible across various devices and platforms, accommodating multiple formats.
+.. raw:: html
 
-Noteworthy functionalities include OpenAPI (Swagger) integration, seamless migration from Confluence, powerful navigation elements, effective translation management, and many more. Embark on your journey of exploration by initiating a free trial or scheduling a demo to experience its cutting-edge features. Join us on this transformative expedition with ClickHelp.
+  <hr>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
+      <tbody>
+        <tr>
+          <td width="75%">
+            <p>ClickHelp empowers teams to create awesome documentation experiences.</p>
+            <p>ClickHelp is a comprehensive cloud-based documentation platform. It offers a full range of content production functions that cover all stages of the content lifecycle: create, review, translate, publish, and update. You can also embed Context Help into web apps!</p>
+            <p>Single sourcing and dynamic output provide you with the tools you need to be productive. Create online user guides, API documentation, and nice-looking PDF documents - all in one professional platform.</p>
+            <p><a href="https://clickhelp.com/?utm_source=write-the-docs&utm_medium=email&utm_campaign=wtd-september-2023&utm_content=sponsor-message">Learn more about ClickHelp…</a></p>
+          </td>
+          <td width="25%">
+            <a href="https://clickhelp.com/?utm_source=write-the-docs&utm_medium=email&utm_campaign=wtd-september-2023&utm_content=sponsor-message">
+              <img style="margin-left: 15px;" alt="ClickHelp: intuitive documentation tool" src="/_static/img/sponsors/ClickHelp_Banner_WTD23.png">
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <hr>
 
 *Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
 
