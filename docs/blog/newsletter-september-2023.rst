@@ -1,4 +1,4 @@
-.. post:: September 05, 2023
+.. post:: September 07, 2023
    :tags: newsletter
 
 ##########################################
