@@ -296,8 +296,8 @@ How do I get into the virtual conference?
 
 Getting into the conference is a two-step process.
 
-1. Buy a ticket and get a link to register.
-2. When you register, you get a link to get into the conference.
+1. Buy a ticket.
+2. Around one week to several days before the conference, you will receive a link to register in Hopin, our virtual conference platform.
 
 Do I have to be on video during the conference?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
