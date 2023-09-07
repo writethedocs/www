@@ -97,6 +97,14 @@ Noteworthy functionalities include OpenAPI (Swagger) integration, seamless migra
 
 *Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
 
+------------------
+Featured Job Posts
+------------------
+
+- `Staff Technical Writer <https://jobs.writethedocs.org/job/1877/staff-technical-writer/>`__, Cockroach Labs (Hybrid; New York, San Francisco, Toronto)
+
+*To apply for this job and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
+
 ----------------
 Events Coming Up
 ----------------
