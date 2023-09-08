@@ -191,8 +191,8 @@ sponsors:
 flagcfp: False
 flaglanding: False
 flaghassponsors: True
-flagticketsonsale: True
-flagsoldout: False
+flagticketsonsale: False
+flagsoldout: True
 flagspeakersannounced: True
 flagrunofshow: True
 flaghasschedule: True
