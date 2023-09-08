@@ -102,7 +102,7 @@ We use `Codeberg Pages <https://docs.codeberg.org/codeberg-pages/>`_ to host our
 about `Codeberg <https://codeberg.org/>`_.
 
 We want to empower other small volunteer organizations to use Codeberg Pages. We recognize that 
-other volunteer organization in our industry may have a volunteers with a wide varity of backgrounds 
+other volunteer organization in our industry may have a volunteers with a wide variety of backgrounds 
 and technical experience. Our mission for Writing Day is to create a more beginner-friendly 
 version of the Codeberg Pages documentation to inspire these volunteers to create sustainable and
 maintainable sites for their organizations.
