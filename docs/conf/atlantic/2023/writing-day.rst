@@ -17,7 +17,7 @@ The first and second session time blocks are separated by a 30 minute snack brea
 
 First session:
 
-* 11:30 UTC to 14:00 UTC 
+* 10:00 UTC to 14:00 UTC 
 * 12:00 CEST to 16:00 CEST 
 * 06:00 EDT to 10:00 EDT
 
