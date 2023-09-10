@@ -101,9 +101,10 @@ Code for the Carolinas - Codeberg Pages
 We use `Codeberg Pages <https://docs.codeberg.org/codeberg-pages/>`_ to host our website, learn more
 about `Codeberg <https://codeberg.org/>`_.
 
-We want to empower other small volunteer organizations to use Codeberg Pages. We recognize that 
-other volunteer organization in our industry may have a volunteers with a wide variety of backgrounds 
-and technical experience. Our mission for Writing Day is to create a more beginner-friendly 
+We want to empower other small volunteer organizations to use Codeberg Page, which is a free, 
+open source software (FOSS) collaboration platform. We recognize that other volunteer 
+organization in our industry may have a volunteers with a wide variety of backgrounds 
+and technical experience. Our mission for Writing Day is to create a beginner-friendly 
 version of the Codeberg Pages documentation to inspire these volunteers to create sustainable and
 maintainable sites for their organizations.
 
