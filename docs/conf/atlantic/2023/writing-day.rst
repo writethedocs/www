@@ -126,3 +126,24 @@ Depending on timing and interest, there may be additional ooportunities to:
 
 - Use code comments to document HTML and CSS features of our website
 - Submit issues or pull requests to Codeberg for corrections to the official documentation
+
+Brainstorm a Help Center Style Guide
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*Note: First session only*
+
+As writers and documentarians, many of us have been tasked with creating style guides 
+for the projefts and companies we worked for to standardize and support our documentation
+efforts.
+
+The Brainstorm a Style Guide project aspires to support writers and documentarians,
+especially those new to the field, in creating their style guides.
+
+Writing Day goal: Outline a help center style guide that empowers others and helps
+them write help center articles with a consistent and unified voice. 
+
+We have an `example style guide <https://docs.google.com/document/d/1RzZ8XhB7S8aBmXuSsysZfZHPAb8AQu-5/edit>`_ to help get you started1
+
+Join us and share your ideas, best practices, and guidelines for style guides! We want
+to become a springboard for others attendees who are creating style guides for the OSS 
+projects, brands, and the companies they represent.
