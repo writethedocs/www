@@ -42,6 +42,7 @@ Specific writing questions
 
 One word vs another, using abbreviations, etc.
 
+- |:newspaper:| `Numbering Section Headings </blog/newsletter-september-2023/#numbering-section-headings>`__
 - |:newspaper:| `Gerunds in headings </blog/newsletter-october-2022/#gerunds-in-headings>`__
 - |:newspaper:| `When to use acronyms </blog/newsletter-september-2022/#when-to-use-acronyms>`__
 - |:newspaper:| `And another thing! Referring to other documents </blog/newsletter-july-2022/#and-another-thing-referring-to-other-documents>`__
@@ -604,6 +605,7 @@ Metrics
 Culture and community
 ---------------------
 
+- |:movie_camera:| `Dealing with Unpleasant People in Open-Source Projects </blog/newsletter-september-2023/#dealing-with-unpleasant-people-in-open-source-projects>`__
 - |:movie_camera:| `A guide to getting started in open source </videos/portland/2021/a-guide-to-getting-started-in-open-source-abigail-mccarthy/>`__
 - |:movie_camera:| `5 things I learned from my first open source contribution </videos/australia/2020/5-things-i-learned-from-my-first-open-source-contribution-andrea-szollossi/>`__
 - |:movie_camera:| `A Year in the Life of The Better Docs Project </videos/prague/2018/a-year-in-the-life-of-the-better-docs-project-rowan-cota/>`__
@@ -612,6 +614,7 @@ Culture and community
 Building docs culture
 ~~~~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `Motivating Contributions to Internal Docs </blog/newsletter-september-2023/#motivating-contributions-to-internal-docs>`__
 - |:newspaper:| `The importance of docs... in 30 minutes </blog/newsletter-may-2023/#the-importance-of-docs-in-30-minutes>`__
 - |:movie_camera:| `Adventures in setting up a knowledge system for a research group </videos/prague/2021/adventures-in-setting-up-a-knowledge-system-for-a-research-group-victor-sluiter/>`__
 - |:movie_camera:| `Almost None to Some: Driving DISQO’s Doc Culture as a Solo Documentarian </videos/portland/2021/almost-none-to-some-driving-disqo-s-doc-culture-as-a-solo-documentarian-falon-darville/>`__
@@ -740,6 +743,7 @@ Including product managers, higher-ups, etc.
 Planning and how we work
 ------------------------
 
+- |:newspaper:| `Keeping Up-To-Date with Necessary Changes </blog/newsletter-september-2023/#keeping-up-to-date-with-necessary-changes>`__
 - |:newspaper:| `Estimating docs work </blog/newsletter-october-2022/#estimating-docs-work>`__
 - |:newspaper:| `Estimating work </blog/newsletter-june-2022/#estimating-work>`__
 - |:movie_camera:| `Alchemy in Adversity (How to become better and more resilient tech writers in a turbulent work environment) </videos/prague/2021/alchemy-in-adversity-how-to-become-better-and-more-resilient-tech-writers-in-a-turbulent-work-environment-anna-korinna-n-meth-szab/>`__

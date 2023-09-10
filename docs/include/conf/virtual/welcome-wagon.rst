@@ -1,10 +1,10 @@
 Hello!
 
-We’re your Welcome Wagon, and we’re glad you’re attending Write the
+We’re your Welcome Wagon and we’re glad you’re attending Write the
 Docs! We realize a virtual conference might be totally new to you. This guide will help you navigate it, even if you’ve been to a
 Write the Docs conference before.
 
-Whether this is your first Write the Docs conference, or your first virtual Write the Docs conference, we'll be here to help you make the most of it. We’d love to
+Whether this is your first Write the Docs conference or your first virtual Write the Docs conference, we'll be here to help you make the most of it. We’d love to
 virtually meet you: feel free to reach out in Chat at the virtual
 conference if we can help make your time at the conference easier. You can also email us at {{ shortcode }}@writethedocs.org.
 
@@ -16,33 +16,35 @@ conference if we can help make your time at the conference easier. You can also 
 Where to get help
 -----------------
 
-Conference Intro and Tour
-~~~~~~~~~~~~~~~~~~~~~~~~~
-Join our Conference Intro and Tour by going to **Sessions** and selecting **Conference Intro and Tour**. Times are listed in the schedule. Your Welcome Wagon will take you on a tour of the virtual conference platform and show you how to navigate the conference. Learn tips and tricks, meet other attendees, and get to know how the conference works. This session is open to everyone, whether this is your first conference or your fifth.
-
 Guides
 ~~~~~~
 
-You can prepare for the conference by reading through this guide. Don’t worry if you forget any of it – there will be a recording you can watch in the Helpdesk booth. Select **Expo** > **Helpdesk** to watch it anytime.
+You can prepare for the conference by reading through this guide. Don’t worry if you forget any of it – there will be a recording you can watch in the Helpdesk booth.
+Select **Expo** > **Write the Docs Helpdesk** to watch it anytime.
 
-You can also watch the video directly from our `YouTube channel <https://youtu.be/aLtnc0ITzok>`__.
+You can also watch the `video directly on YouTube <https://www.youtube.com/watch?v=n8YXhL26YkE>`__.
 
 Helpdesk
 ~~~~~~~~
 
 Have a look at the `FAQ section <#faqs>`__ we put together based on questions we got at previous conferences.
 
-If you still have questions, reach out the Welcome Wagon staff at the Helpdesk anytime. Select **Expo** > **Helpdesk** > **Chat** and enter your question. A member of the Welcome Wagon will be online during conference hours to help you.
+If you still have questions, reach out the Welcome Wagon staff at the Helpdesk anytime.
+Select **Expo** > **Write the Docs Helpdesk** > **Chat** and enter your question.
+A member of the Welcome Wagon will be online during conference hours to help you.
 
-Message organisers
+Message organizers
 ~~~~~~~~~~~~~~~~~~
 
-If you want to contact one of the conference organizers, go to the **People** page and search for an organizer's name. You can also email us at {{ shortcode }}@writethedocs.org.
+If you want to contact one of the conference organizers,
+go to the **People** page and search for an organizer's name.
+You can also email us at {{ shortcode }}@writethedocs.org.
 
 Slack
 ~~~~~
 
-We'll also be posting important conference updates on the `#wtd-conferences channel in Slack <https://writethedocs.slack.com/archives/C1AKFQATH>`__. For example, if there are technical issues, we'll share the back-up stream link there as well.
+We'll also be posting important conference updates on the `#wtd-conferences channel in Slack <https://writethedocs.slack.com/archives/C1AKFQATH>`__.
+For example, if there are technical issues, we'll share the back-up stream link there as well.
 
 Reception: Your home base
 -------------------------
@@ -58,19 +60,32 @@ around.
 Conference talks and Q&A
 ------------------------
 
-- There’s a talk schedule on the **Reception** page and on the `Write the Docs website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/schedule/>`__. Select the Calendar icon next to the talks you want to see on the Reception page to add them to your calendar.
-- When it’s time for a talk you want to see, select **Stage**. Press play to start the stream.
-- If we have problems with the online platform, we will set up a back-up stream. If turned on, we will post links to the back-up stream in the conference chat and on the `conference Slack channel <https://writethedocs.slack.com/archives/C1AKFQATH>`__.
+Watching talks live
+~~~~~~~~~~~~~~~~~~~
+
+- There’s a talk schedule on the **Reception** page, by selecting **Schedule** from any other page,
+  and on the `Write the Docs website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/schedule/>`__.
+  In Hopin, select **Add to My Agenda** (bookmark icon) next to the talks you want to see to add them to your personal schedule in Hopin.
+  Or select **Add to Calendar** (calendar icon) to add them to an external calendar.
+- When it’s time for a talk you want to see, select **Stage**.
+- If we have problems with the online platform, we will set up a back-up stream.
+  If turned on, we will post links to the back-up stream in the conference chat and on the `#wtd-conferences channel in Slack <https://writethedocs.slack.com/archives/C1AKFQATH>`__.
 - After a talk, feel free to tweet about it with the hashtag #writethedocs.
 
-Asking questions
-~~~~~~~~~~~~~~~~
+Asking questions and getting answers
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-To attend the moderated Q&A after each talk, go to **Sessions** and select the **Q&A session**.
+You can ask questions during a talk or after in a Q&A session dedicated to the talk.
+To attend the moderated Q&A after each talk, select **Sessions** > **Speaker Q&A**.
 
-- Enter your questions into the **Chat** channel (always on the right-hand side of any page) prefixed with “Q:“, and the moderator will ask the speaker for you.
-- Make sure the **Session** toggle is on for the Chat, so your question will be seen by the moderator.
-- Due to time constraints, we might not be able to get to all of your questions. If your question isn’t asked live, chat with the speaker later and make a connection!
+To ask a question, either in the Stage during the talk or in the Q&A session:
+
+1. Open the **Chat** channel (on the right-hand side of the page).
+   Make sure it is the Chat for the Stage/session (not the Event chat).
+2. Enter your question prefixed with ``Q:``.
+
+If there is time, a moderator will ask the question to the speaker.
+If your question isn’t asked live, chat with the speaker later and make a connection!
 
 Watching talks after the conference
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -82,30 +97,47 @@ Other sessions (such as Unconference, Hallway, and Writing Day sessions) are not
 Participate in the conference
 -----------------------------
 
-The schedule is built around **sessions**. Almost all of the in-person interactions you’ll have at the virtual conference will be through sessions. Here's how to find and participate in sessions, and use these lessons for attending Writing Day, Unconference, Job Fair, and sponsor events.
+The schedule is built around **sessions**.
+Almost all of the in-person interactions you’ll have at the virtual conference will be through sessions.
+Here's how to find and participate in sessions.
+Use these lessons for attending Writing Day, Unconference, and sponsor sessions.
 
 Find events to participate in
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- You can view the schedule on the **Reception** page. You can also browse a list of events by selecting **Sessions**.
+- You can view the schedule on the **Reception** page or by selecting **Schedule** from any other page.
+  You can also browse a list of events by selecting **Sessions**.
 - When you select an event in the schedule, like a Writing Day or Unconference session, you are directed to the **Sessions** page.
 - Once you are on the **Sessions** page, select the session you want to attend.
-- Add events you want attend to your calendar, and view your list of events (including any video meetings you scheduled) on the **My Agenda** tab.
+- Add events you want attend and view your list of events (including any video meetings you scheduled) on the **My Agenda** tab.
 
-Note! If you select the **View Event Schedule** button while you are in a Session, you will automatically be removed from the Session and redirected to the schedule.
+Note! If you select **View Event Schedule** while you are in a session,
+you are automatically removed from the session and redirected to the schedule.
 
 Join an event
 ~~~~~~~~~~~~~
 
-- Once you select a session, you can either only view the session and use the Chat, or select **Share Audio and Video** to participate in the session by video. Sessions are limited to 20 active participants, but anyone can join and view the session without video.
+With events like the Unconference, you can join in more actively with audio and optionally video.
+
+Once you select a session, you start as only viewing the session and using the Chat.
+To participate in the session by video, select **Share Audio and Video**.
+
+Sessions are limited to 20 active participants, but anyone can join and view the session without video and audio.
+
+The Speaker Q&A and Lightning Talks sessions are not open for participation.
 
 Helpful settings
 ^^^^^^^^^^^^^^^^
 
-- Select the **Video Camera** icon to turn off your video.
-- Select the **Monitor** icon to share your screen. Multiple people can share their screens at once.
+- Select **Mute video** (a video camera icon) to turn off your video.
+- Select **Mute audio** (a microphone icon) to turn off your audio.
+  Consider muting your audio when you are not talking.
+- Select **Enable captions** (a CC icon) to enable automated captions. 
+  Unlike the talks and Speaker Q&A sessions, Unconference sessions and Hallway talks aren't manually captioned.
+- Select **Open share menu** (a monitor icon) to share your screen.
+  Multiple people can share their screens at once.
 - To make someone’s screen larger, double-click on it.
-- Select the **Settings** icon to change your audio or video settings.
+- Select **Device settings** (a gear icon) to change your audio or video settings.
 
 Writing Day
 -----------
@@ -132,12 +164,12 @@ Lead an unconference session
 
 - Anyone can lead an unconference session, as long as they have a discussion idea and a willingness to encourage attendees to talk about it.
 {% if unconf and unconf.url %}
-- Look for an empty slot on the `Unconference sign-up <{{unconf.url}}>`__, and add your Unconference topic. There will be a time and a table number for each slot.
+- Look for an empty slot on the `Unconference sign-up <{{unconf.url}}>`__ and add your Unconference topic. There will be a time and a table number for each slot.
 {% else %}
-- Look for an empty slot on the Unconference sign-up, and add your Unconference topic. There will be a time and a table number for each slot.
+- Look for an empty slot on the Unconference sign-up and add your Unconference topic. There will be a time and a table number for each slot.
 {% endif %}
 - When it’s time for your Unconference session to begin, go to **Sessions** and select the session that corresponds to your table number.
-- The previous unconference session will be in the same table. Let the attendees of the previous session know that their time is up, and your session will begin soon.
+- The previous unconference session will be at the same table. Let the attendees of the previous session know that their time is up and your session will begin soon.
 - Once a group has entered your session, start the conversation!
 - When the Unconference leader for the next session enters the session, finish up your discussion to make way for the next one.
 
@@ -147,7 +179,7 @@ Tips for your unconference session
 - Avoid doing roundtable introductions. You might run out of time to actually start the conversation!
 - Start the session with a prompt: think of a question that you have about the topic of your unconference and ask it. The conversation typically works itself out after that. If there’s a lull, ask the group if anyone else has a question to ask.
 - Up to 20 people can join the session with audio and video, but more people than that may join your Unconference through chat. Be sure to check the session chat regularly and include people there in the conversation.
-- Be on the lookout for people who aren’t joining in and invite them to speak. Don’t insist, if they make it clear they want to listen only.
+- Be on the lookout for people who aren’t joining in and invite them to speak. Don’t insist if they make it clear they want to listen only.
 
 Join an unconference session
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -166,22 +198,20 @@ Lightning talks
 ---------------
 
 - A Lightning Talk is a five-minute talk where you quickly share a concept or bit of info you find interesting. Lightning talks are a great way to practice public speaking, get people excited about your Unconference session, and test interest in a conference proposal idea.
-- If you are interested in giving a lightning talk, be prepared! There is a great guide `here <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/lightning-talks/>`__.
+- If you are interested in giving a lightning talk, be prepared!
+  Read our `guide to lightning talks <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/lightning-talks/>`__.
 - Watch the conference chat and **Reception** for an announcement that Lightning Talk sign-ups have opened and for directions on how to sign up.
-- If you are selected to speak, one of the Organisers will contact you with more information.
+- If you are selected to speak, one of the Organizers will contact you with more information.
 
-Job Fair
---------
-
-- The Job Fair takes place on Tuesday morning. Each company attending the Job Fair will have their own Session table. To view the Job Fair participants and booths, go to **Expo**.
-- Once you are in the session, check out the pinned message to review job and company information.
-- If you want to start a conversation with someone at the session, go to the **Chat** tab, make sure the **Expo** toggle is on, and ask your question. You can set up 1:1 conversations using chat or video, too.
-- Remember, there might be multiple people starting conversations, so there could be a wait.
-
-Sponsor booths
+Sponsor Expo
 --------------
 
-Select **Expo** to view Sponsor booths. Sponsors might have videos you can watch, information to review on the **Booth** tab, and people you can talk to on the **Chat** tab. Visiting Sponsor booths is a great way to make connections!
+The Sponsor Expo, highlighting companies that are hiring or offering products for docs, takes place on Tuesday.
+For the exact times, see the `schedule <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/schedule/>`__.
+
+Select **Expo** to view Sponsor booths.
+Sponsors might have videos you can watch, information to review on the **Booth** > **Home** tab, and people you can talk to on the **Booth** > **Chat** tab.
+Visiting Sponsor booths is a great way to make connections!
 
 Networking
 ----------
@@ -189,35 +219,44 @@ Networking
 Add info to your profile
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-To add information about yourself to your conference profile, select your initials > **Edit Profile**. Let people know what you are interested in chatting about by putting it in your Headline or About You sections. You can add something like, "Tech Writer interested in conversations about content reuse" or "Support Ops Manager open to talking about analytics." Check out Headlines from other attendees and head into a Hallway session or set up a small group video to connect and discuss. Headlines have a 100 character limit. About You has a 400 character limit.
+To add information about yourself to your conference profile, select the user menu (your initials) > **Edit Profile** > **Personal info**.
+Let people know what you are interested in chatting about by putting it in your Headline or About You sections.
+You can add something like, "Tech Writer interested in conversations about content reuse" or "Support Ops Manager open to talking about analytics."
+Headlines have a 100 character limit. About You has a 400 character limit.
 
-Important: Any info you add to your profile can be seen by everyone attending the conference. All conversations should adhere to the `Write the Docs Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`__.
+Check out Headlines from other attendees and head into a Hallway session or set up a small group video to connect and discuss.
+
+Important: Any info you add to your profile can be seen by everyone attending the conference.
+To limit who can send you direct messages or invite you to meetings, select the user menu (your initials) > **Edit Profile** > **Privacy settings**.
+All conversations should adhere to the `Write the Docs Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`__.
 
 Reach out to attendees
 ~~~~~~~~~~~~~~~~~~~~~~
 
-There are several ways to network using the virtual conference platform:
+There are several ways to network using the virtual conference platform.
 
 Direct message Chat
 ^^^^^^^^^^^^^^^^^^^
 
 - You can direct message attendees by finding them on the **People** tab.
-- To filter for Organisers or Speakers, select the **Filter** icon.
+- To filter for Organizers or Speakers, select the **Filter** button.
 - You can toggle between viewing **People** (a list of attendees) and **Messages** (a list of the messages you sent and received).
 
-Event and conference-wide Chat
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Conference-wide and session-specific Chat
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- When you chat on any of the main pages (Reception, Sessions, and Expo, you are chatting *the entire conference*.
-- When you attend a Session, view the main Stage, or visit an Expo booth, you’ll see a toggle for switching between conference-wide chat and event chat. When you select **Event**, you are chatting the entire conference. To chat just your session, toggle on the **Session** or **Booth** chat.
+- When you chat on any of the overview pages (Reception, Sessions, and Expo), you are chatting with *the entire conference*.
+- When you view the main Stage, attend a Session, or visit an Expo booth, you can switch between the conference-wide chat and a session-specific chat.
+  When you select **Event**, you are chatting with the entire conference.
+  To chat with just your session, select **Stage**, **Session**, or **Booth** and then **Chat**.
 
 Hallway sessions
 ^^^^^^^^^^^^^^^^
 
-Under **Sessions** you'll find one or more hallway sessions, for casually talking with other attendees.
-You can join with your own audio and video, or chat only.
+Under **Sessions**, you'll find multiple hallway sessions for casually talking with other attendees.
+You can join with your own audio and video or chat only.
 
-Here’s some icebreakers:
+Here are some icebreakers:
 
 - What are you reading for fun right now?
 - If you could start a business, what would it be?
@@ -227,33 +266,21 @@ Here’s some icebreakers:
 - What is the most surprising thing that happened to you in the past week?
 - What drew you to your work?
 
-Small group video chats
+Small group video calls
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-- When you Direct message Chat another attendee, you’ll see a button for starting 1:1 video chat.
-- You can start a 1:1 video chat with one person and then send the link to up to two other people, to start a 4-person video chat.
+- When you view another attendee's profile, you see a button to invite them to a video call or schedule a meeting.
+  This option is not available if they have limited who can invite them.
+- You can start a video call with 1 person and then send the link to up to 2 other people, to start a 4-person video call.
+  Or you can schedule a meeting with up to 19 other people at some time in the future.
 - This is a great way to continue a conversation that started in an Unconference or Hallway session.
-
-Monday night social
-^^^^^^^^^^^^^^^^^^^^^^^
-
-The Monday Night Social is a chance to chat informally with other conference attendees. Look for a link from the conference organizers at the conference on Monday. Spatial chat works just like real conversations, except in a virtual room.
-
-- Once you enter the spatial chat, you'll see a bubble with your video or name in it.
-- You can use the icons along the bottom to turn on or off your video or audio.
-- There will be several rooms to find people in. Look in the menu on the right-hand side and double-click on a room to enter it.
-- Once you are in a room, drag your bubble towards people to chat with them. The closer you are to other people, the better you can hear them.
-- If you want to chat with someone specific, find their name in the left-hand side menu and double-click to be taken to where they are in the virtual room.
-- Remember to follow the Pac Man rule and leave a space open in your group conversations for new people to join.
-
-This is new to everyone this year, so experiment and have fun! There is no wrong way to do this!
 
 Pro tips
 --------
 
 - Conferences are exhilarating, but can also be exhausting. Give your brain a break! Grab a quiet spot or take a quick walk. Play a board game on your lunch break. Come back invigorated.
 - Find out who is attending the conference before you attend. Join the `Write the Docs Slack <https://writethedocs.org/slack/>`__, follow the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__, and review the `list of speakers <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/speakers/>`__.
-- In case of technical issues with our main platform Hopin, please watch the `#wtd-conferences Slack channel <https://writethedocs.slack.com/archives/C1AKFQATH>`_ for status updates and alternative viewing links that might be posted.
+- In case of technical issues with our main platform Hopin, please watch the `#wtd-conferences Slack channel <https://writethedocs.slack.com/archives/C1AKFQATH>`__ for status updates and alternative viewing links that might be posted.
 
 FAQs
 ----
@@ -267,8 +294,10 @@ Are the talks recorded?
 How do I get into the virtual conference?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Getting into the conference is a two-step process.
-- You buy a ticket, and then you get a link to register. During this registration process, you will get a link to get into the conference.
+Getting into the conference is a two-step process.
+
+1. Buy a ticket.
+2. Around one week to several days before the conference, you will receive a link to register in Hopin, our virtual conference platform.
 
 Do I have to be on video during the conference?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -282,40 +311,24 @@ Do I have to be on video during the conference?
 How do I see what’s happening right now?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Go to Reception to see the talk schedule.
+- Go to **Reception** or select **Schedule** to see the talk schedule.
 - Go to the Write the Docs website to view the `full schedule <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/schedule/>`__.
 {% if unconf and unconf.url %}
-- View the `Integrated schedule <{{unconf.url}}>`__ to see what Writing Day and Unconference sessions are happening.
+- View the `Integrated Sessions Schedule <{{unconf.url}}>`__ to see what Writing Day and Unconference sessions are happening.
 {% else %}
-- View the Integrated schedule to see what Writing Day and Unconference sessions are happening.
+- View the Integrated Sessions Schedule to see what Writing Day and Unconference sessions are happening.
 {% endif %}
 - Go to the Expo to view Sponsor Booths.
-- If it’s Tuesday morning, go to the Expo to view the Job Fair.
 
 Someone sent me a message at the conference. Where can I see it?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- In the Chat tool, you can toggle between viewing People (a list of attendees) and Messages (a list of the messages you sent and received).
+Select **Direct Messages** (an envelope icon).
 
 I want to tag someone in a comment in chat. Why isn’t it working?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- The widget to search for users to tag in chat goes away while it's searching (which makes people think that it's not working) so just wait a bit.
-
-How do I ask a question to the speakers?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- There’s a Q&A session after each talk in Sessions. In Chat, enter your question preceded by a "Q:". The moderators will send your question to the speaker.
-- If your question isn’t answered during Q&A, you can reach out to the speaker directly in Chat by selecting the **People** tab and sending them a direct message.
-
-How should I prepare for the Job Fair?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- Each Job Fair booth participant will run their booth differently.
-- Typically, the booth will be staffed, so when you select it, you will be able to join a video chat with someone from the company or Chat with them in the booth chat.
-- There may be other people on the same video call with you, so be prepared to introduce yourself to booth staff and other job seekers.
-- Come prepared with questions for the booth staff about the company and the jobs they have available.
-- Some booths will not be staffed, but will have a video or text information about applying for jobs at the company.
+The widget to search for users to tag in chat goes away while it's searching (which makes people think that it's not working) so just wait a bit.
 
 
 I’m having a technical issue. What can I try?
@@ -325,7 +338,7 @@ If you are having issues with error messages or an inability to hear or particip
 
 - Refresh the Hopin page.
 - Make sure you’re using a browser supported by Hopin. List of supported browsers: https://hopin.zendesk.com/hc/en-gb/articles/360056078872-Browser-Compatibility-for-online-events-on-Hopin.
-- Make sure your browser allows Hopin to access your microphone and webcam. See troubleshooting guides below for more info.
+- Make sure your browser allows Hopin to access your microphone and webcam. For more info, see the `troubleshooting guides <#troubleshooting-guides>`__.
 - If you are using a Mac, check your privacy settings to allow your browser to access to your camera. See troubleshooting guides below for more info.
 - Try a different browser.
 - Try using an Incognito or private browsing window.
@@ -338,7 +351,9 @@ If you are having issues with error messages or an inability to hear or particip
 - Check that your router is not blocking video streaming.
 - If you are using your work computer and still running into issues, your company’s IT department may need to temporarily disable Restricted Mode or put Hopin on their allowlist. More details can be found here:  https://support.google.com/youtube/answer/174084?hl=en
 
-Troubleshooting guides:
+Troubleshooting guides
+^^^^^^^^^^^^^^^^^^^^^^
+
   - `I'm having Camera and/or Microphone issues on Mac <https://hopin.zendesk.com/hc/en-gb/articles/360056527911-I-m-having-Camera-and-or-Microphone-issues-on-Mac/>`__
   - `I'm having Camera and/or Microphone issues on Windows 10 <https://hopin.zendesk.com/hc/en-gb/articles/360059277232-I-m-having-Camera-and-or-Microphone-issues-on-Windows-10/>`__
 
@@ -354,9 +369,5 @@ If you are getting a “You need permission to access this published document”
 What can I do at the conference?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- You can watch talks, participate in the Unconference, visit the Job Fair, talk to our sponsors, give a Lightning Talk, and chat with other conference attendees. If you need help with any of it, reach out to the Welcome Wagon at **Expo** > **Helpdesk**.
-
-Where can I learn more?
-~~~~~~~~~~~~~~~~~~~~~~~
-
-Read the `Welcome Wagon guide <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/welcome-wagon/>`__ to the conference, the `Unconference Cheat Sheet <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/unconference-cheatsheet/>`__, `the Writing Day Cheat Sheet <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/writing-day-cheatsheet/>`__, and watch the `virtual conference intro video <https://youtu.be/aLtnc0ITzok>`__. You can learn how to reach out to attendees, what happens at each event, and how to get more help.
+You can watch talks, participate in the Unconference, talk to our sponsors, give a Lightning Talk, and chat with other conference attendees.
+If you need help with any of it, reach out to the Welcome Wagon at **Expo** > **Write the Docs Helpdesk**.
