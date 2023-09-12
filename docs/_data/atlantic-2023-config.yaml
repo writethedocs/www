@@ -199,7 +199,7 @@ flaghasschedule: True
 flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False
-flagpostconf: False
+flagpostconf: True
 
 # Truthy things that don't change
 flaghashike: False
