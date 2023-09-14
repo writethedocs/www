@@ -18,7 +18,7 @@ level or background.
 
 Depending on the number of applications, we may not be able to provide every applicant with a free ticket. We prioritize applications based on the overall impact that granting an application will have on the applicant, the Write the Docs community, and the applicant's wider community and country, compared to others.
 
-Grant applicants, like all other participants in the Write the Documents community, are required to conform to the Code of Conduct: https://www.writethedocs.org/code-of-conduct/.
+Grant applicants, like all other participants in the Write the Docs community, are required to conform to the Code of Conduct: https://www.writethedocs.org/code-of-conduct/.
 
 {% if grants and grants.ends %}
 **Grant applications are open until {{ grants.ends }}, Midnight {{ tz }}.**
@@ -32,7 +32,9 @@ Grant applicants, like all other participants in the Write the Documents communi
 What is covered
 ----------------
 
-All grants include a free conference ticket for the onsite conference.
+All grants include a free conference ticket for the conference.
+
+We can cover typical costs like travel and accommodation, but you may ask for us to cover other costs you need covered to be able to attend. The application form will ask for an estimate of your costs.
 
 Are you part of a marginalized or underrepresented group in tech?
 ------------------------------------------------------------------
