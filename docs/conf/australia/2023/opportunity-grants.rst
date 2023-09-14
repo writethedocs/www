@@ -10,7 +10,6 @@ To apply, fill in the form below.
 {% else %}
 We expect to open the grant program around the same time as ticket sales.
 {% endif %}
-As the conference is virtual this year, the grant offers you a single free ticket to the conference.
 
 We would like to encourage anyone to apply, who would otherwise have difficulties attending the conference.
 You are welcome to apply, even if you have received a grant before from our conferences or any others,
@@ -33,7 +32,7 @@ Grant applicants, like all other participants in the Write the Documents communi
 What is covered
 ----------------
 
-All grants include a free conference ticket for the virtual conference.
+All grants include a free conference ticket for the onsite conference.
 
 Are you part of a marginalized or underrepresented group in tech?
 ------------------------------------------------------------------
