@@ -231,15 +231,15 @@ Subject:
 
    Hi {name},
 
-   The conference is almost upon us! First off, thank you all so much for all of the hard work you've put into getting the recordings done and uploaded. Most of the hard work is behind you, and you can settle in and enjoy the conference 😊, but before you relax entirely, please:
+   The conference is almost upon us! First off, thank you all so much for all of the hard work you've put into getting the recordings and slides done and uploaded.
 
-   ○ confirm that you've [uploaded your slides or vocabulary](https://bartatwork.stack.storage/s/tITmETk0y4Zz2nv8) for the captioners, **and** [answered the questions]({proposal_url}) that the emcee uses to record your intro by May 15th.
+   Most of the hard work is behind you, and you can settle in and enjoy the conference 😊, but before you relax entirely, please:
 
-   ○ register your free [Hopin speaker ticket]({{cfp_variables['ticket']}}) -- the entire conference is held in Hopin, from writing day on Sunday, all talks, unconference sessions, chat, etc. Only the Monday evening social will be held in Spatial.chat.
+   ○ register your free [Hopin speaker ticket]({{cfp_variables['ticket']}}) -- the entire conference is held in Hopin, from writing day on Sunday, all talks, unconference sessions, chat, etc.
 
-   ○ schedule an [audio-visual check]({{cfp_variables['calendly']}}) with me or our AV tech **the day before** your talk. This helps me know you're around 😉 and logged in to Hopin, and lets us clear up any audio or visual issues before your Q&A. We recommend you do this even if you're confident about your setup. The audio-visual checks happen in a private Hopin room.
+   ○ schedule an [audio-visual check]({{cfp_variables['calendly']}}) with me **at least the day before** your talk, but ideally Sunday. This helps me know you're around 😉 and logged in to Hopin, and lets us clear up any audio or visual issues before your Q&A. We recommend you do this even if you're confident about your setup. The audio-visual checks happen in a private Hopin room.
 
-   Remember, all Q&A sessions this year will be a joint chat with the emcee and two speakers, and **start straight after every other talk**, in the Speaker Q&A session (the Monday and Tuesday Q&A sessions have different URLs).
+   Remember, all Q&A sessions **start straight after your talk**, in the Speaker Q&A session not the 'main stage' (the Monday and Tuesday Q&A sessions have different URLs).
 
    Some speakers like to hang out in the event chat and answer questions during their talk, but that is entirely up to you. We'll be moderating questions before the Q&A regardless.
 
@@ -272,9 +272,11 @@ Subject:
 
    ○ [Speaker feedback form]({{cfp_variables['feedback_form']}})
 
-   Finally, as is tradition at our in person events, we'd love to send you a free WTD speaker hoodie and sketchnote print of your talk, please fill in the form *within two weeks* of the end of the conference so we can mail things out in one go.
+   Finally, as is tradition at our in person events, we'd love to send you a free WTD speaker hoodie, please fill in the form *within two weeks* of the end of the conference so we can mail things out in one go.
 
    ○ [Speaker gift form]({{cfp_variables['speaker_gift_form']}})
+
+   Cheers,
 
    The Write the Docs Team
 
