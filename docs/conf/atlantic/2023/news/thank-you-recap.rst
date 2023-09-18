@@ -83,11 +83,11 @@ Local Meetups
 We hope you continue to `build your local or online communities`_ and keep in touch with other documentarians. 
 We have a number of meetups in cities across the country, and if you don’t see your city listed consider `starting`_ a meetup!
 
-New this year are our `Quorum Meetups`_ which are virtual and targeting large geographic areas. There’s already one covering most everyone in the US or in a similar timezone.
+Our `Quorum Meetups`_ are special meetups, which are virtual and target large geographic areas. There’s already two, covering most everyone in the US or in a similar timezone.
 
 .. _build your local or online communities: http://www.writethedocs.org/meetups/
 .. _starting: http://www.writethedocs.org/organizer-guide/meetups/starting/
-.. _Quorum Meetups: https://www.writethedocs.org/meetups/#current-meetups-quorum
+.. _Quorum Meetups: https://www.writethedocs.org/organizer-guide/meetups/quorum/
 
 Code of Conduct transparency report
 -----------------------------------
