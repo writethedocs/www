@@ -4,7 +4,7 @@
 .. post:: Sept 23, 2023
    :tags: recap, thanks, {{year}}, {{shortcode}}-{{year}}
 
-Conference highlights and thanks for attending!
+Conference highlights
 ===============================================
 
 Hey everyone,
@@ -16,16 +16,15 @@ Conference recap
 ----------------
 
 At **almost 300 attendees** this conference was a welcoming and friendly event.
-This was our first Atlantic conference, where we aimed to have a schedule that suited attendees from Europe, Africa, US East Coast and parts of South America.
-However, we also had attendees from other places around the world.
+This was our first Atlantic conference, where we intentionally created a schedule that suited attendees from Europe, Africa, US East Coast and parts of South America. In practice, we had attendees for all over the world, including the West coast of the United States and Asia. 
 
-We had the usual mix of talks on the main stage along with Q&A, lightning talks, unconference sessions, writing sprints, and a sponsor expo, similar to previous virtual conferences.
+We had the usual mix of talks on the main stage, along with moderated Q&A, lightning talks, unconference sessions, writing sprints, and a sponsor expo, similar to previous virtual conferences.
 
 Talk videos
 -----------
 
 `Videos of the talks`_ are now available on YouTube. This includes all conference talks and Q&A, as well as the lightning talks.
-You can also subscribe to our `YouTube channel`_ so you don’t miss any future content.
+You can also subscribe to our `YouTube channel`_ so you don’t miss any talk videos from our conferences.
 
 Thanks again to all our presenters, moderators, and folks who asked wonderful questions!
 Huge thanks also to `Bart at Work`_ for handling the A/V production on our event, it was flawless once again this year.
@@ -37,7 +36,7 @@ Huge thanks also to `Bart at Work`_ for handling the A/V production on our event
 Sketchnotes
 -----------
 
-We’re excited to share the `full resolution sketchnotes`_ from the conference on Flickr. You are welcome to use them for non-commercial purposes, like including in your write up from the conference :)
+We’re excited to share the `full resolution sketchnotes`_ from each talk. You are welcome to use them for non-commercial purposes, like including them in your conference write up ;)
 
 Thanks to `Dennis Dawson`_ for doing them this year!
 
@@ -48,16 +47,16 @@ Shirts still on sale
 --------------------
 
 If you want a souvenir from this year's conference, our `Write the Docs Atlantic 2023 Pop-Up Shop <https://shirt.writethedocs.org/>`_ is still open until September 30th!
-We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want.
+We have loose and fitted options from different fabrics, and you can choose the size and cut you want.
 
-The campaign will run in 3-day batches, and shipping is available from the USA or Europe.
+The campaign will run in 3-day batches, with shipping from the USA or Europe.
 
-Come see us at our Australia conference
----------------------------------------
+Attend Write the Docs Australia 
+-----------------------------------------------
 
 Don’t forget our `Australia conference`_ on **Dec 7-8, 2023**. The CFP is open until September 22nd.
 
-We’re also looking for more sponsors to make our other events just as magical as this year’s Prague event. You can see all our `sponsorship options`_ on our website.
+We’re also looking for more sponsors to make our other events just as magical as this year’s Atlantic event. You can see all our `sponsorship options`_ on our website.
 
 .. _Australia conference: https://www.writethedocs.org/conf/australia/2023/
 .. _sponsorship options: https://www.writethedocs.org/sponsorship/
@@ -65,7 +64,7 @@ We’re also looking for more sponsors to make our other events just as magical 
 Write the Docs Slack
 --------------------
 
-Our Slack network has really grown more this last year. Our #general Slack channel has been extra busy in the days and weeks leading up to the conference, and we hope that y’all continue the conversations throughout the year. If you haven’t joined, now is the time! 
+Our Slack network keeps on growing. Our #general channel in particular has been extra busy in the days and weeks leading up to the conference, and we hope that y’all continue the conversations throughout the year. If you haven’t joined, now is the time! 
 Check out the `Write the Docs Slack`_.
 
 .. _Write the Docs Slack: http://www.writethedocs.org/slack/
