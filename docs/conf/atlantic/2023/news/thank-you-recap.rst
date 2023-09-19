@@ -40,7 +40,7 @@ We’re excited to share the `full resolution sketchnotes`_ from each talk. You 
 
 Thanks to `Dennis Dawson`_ for doing them this year!
 
-.. _full resolution sketchnotes: https://flic.kr/ps/
+.. _full resolution sketchnotes: https://flic.kr/s/aHBqjAVj5o
 .. _Dennis Dawson: https://dennissdawson.wixsite.com/mr--dawson/portfolio
 
 Shirts still on sale
@@ -103,7 +103,7 @@ To ensure that our CoC was visible and accessible, we took a number of specific 
 - We specifically stressed that the CoC applies to all conference spaces including the social event.
 - We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.
 
-None of our organizers were approached about any CoC concerns at this event.
+None of our organizers were approached about any CoC concerns related to this event.
 We know that this is, in part, a reflection of the thoughtful and inclusive community that we're so lucky to have.
 
 That being said, we're also very conscious of the fact that just because nothing was reported doesn't mean nothing happened. 
