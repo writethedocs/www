@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 :banner: _static/conf/images/headers/venue.png
 
-.. post:: Sept 23, 2023
+.. post:: Sept 20, 2023
    :tags: recap, thanks, {{year}}, {{shortcode}}-{{year}}
 
 Conference highlights
