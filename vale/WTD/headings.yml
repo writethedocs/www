@@ -4,18 +4,18 @@ level: error
 scope: heading
 match: $sentence
 exceptions:
-  - XML
   - API Blueprint
-  - HTMLProofer
-  - reStructuredText
-  - Sphinx
-  - Read the Docs
-  - Guzzle
-  - Documatt
-  - DocOps
   - AsciiDoc
-  - Git
-  - Write the Docs
   - Bootstrap
-  - FAQs
+  - DocOps
   - Docs as Code
+  - Documatt
+  - FAQs
+  - Git
+  - Guzzle
+  - HTMLProofer
+  - Read the Docs
+  - Sphinx
+  - Write the Docs
+  - XML
+  - reStructuredText
