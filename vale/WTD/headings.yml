@@ -5,7 +5,7 @@ scope: heading
 match: $sentence
 exceptions:
   - XML
-  - Blueprint
+  - API Blueprint
   - HTMLProofer
   - reStructuredText
   - Sphinx
