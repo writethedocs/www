@@ -130,7 +130,7 @@ Attend the Welcome Wagon events. Make connections with other first-time attendee
 
 The most important part of this conference (and any conference) is the people you meet. Set a goal for yourself to meet a few, new people. Here are some tips:
 
--  Find out who is attending the conference before you get there. Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__,
+-  Find out who is attending the conference before you get there. Join the `Write the Docs Slack <https://writethedocs.org/slack/>`__, follow the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__,
    and review the `list of speakers <https://www.writethedocs.org/conf/portland/2018/speakers/>`__.
 -  Figure out which companies will be represented at the conference. If you see a job post you're interested in, you might want to ask them a few questions. This might be a great time to better understand what it's like to work at certain companies.
 -  Make a list of a few people you would like to meet, and write down some questions for them. If you can find contact information, email them before the conference and let them know you are looking forward to chatting.
@@ -139,7 +139,7 @@ The most important part of this conference (and any conference) is the people yo
 Sample strategy for my first Write the Docs conference
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__, and participate in the Welcome Wagon chat room to start making conference connections.
+-  Join the `Write the Docs Slack <https://writethedocs.org/slack/>`__, and participate in the Welcome Wagon chat room to start making conference connections.
 -  Make a list of two people who are attending with some notes about them and questions for them. Either reach out by email before the conference to set up a meeting onsite or find them at the conference.
 -  Attend the Welcome Wagon events.
 -  Join in the Saturday hike.

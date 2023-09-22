@@ -2,8 +2,8 @@
 Welcome to the Write the Docs documentation guide
 =================================================
 
-Contributing to Write the Docs Guide
-------------------------------------
+Contributing to the Write the Docs guide
+----------------------------------------
 
 If you want to help create an awesome documentation guide, you've come to the right place. Welcome! Please read on to understand what we're trying to do here and how you can help make it a better project.
 
