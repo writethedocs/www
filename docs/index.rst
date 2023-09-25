@@ -28,6 +28,7 @@ Get more information on how to meet the community, get involved, stay in touch.
 * Join our :doc:`Slack network </slack>` with thousands of other documentarians
 * Join a :doc:`local or online meetup </meetups/index>` to dive deeper into the community
 * Learn more about our :doc:`sponsorship options <sponsorship/index>` for your company
+* Take the `2023 Documentation Salary Survey <https://salary-survey.writethedocs.org>`_
 
 Find or advertise a job
 -----------------------
