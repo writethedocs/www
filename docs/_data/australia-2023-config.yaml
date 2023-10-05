@@ -23,7 +23,7 @@ buttons:
   #   - text: Sponsor us
   #     link: /sponsors/prospectus
     - text: Submit a Talk
-      link: /cfp  
+      link: /cfp
   #   - text: Date and ticket information
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: Read our conference guide
@@ -181,10 +181,10 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: True
-flagcfp: True
+flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
-flagspeakersannounced: False
+flagspeakersannounced: True
 flagrunofshow: False
 flaghasschedule: False
 flaghasunconf: True
@@ -201,4 +201,3 @@ flaghasboat: False
 flaghaswritingday: True
 flaghasjobfair: False
 flaghasbadgeflair: False
-
