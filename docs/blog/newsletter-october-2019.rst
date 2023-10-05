@@ -65,7 +65,7 @@ A couple of contributors suggested that WTD start its own mentoring program, whi
 Deciding on a new tool...
 -------------------------
 
-If you're struggling with the limitations of your docs tools, how do you decide what system to migrate to? In a recent coversation about trying to replace an old CMS, documentarians on Slack compared MadCap Flare, Paligo, static site generators and Adobe Suite, among others.
+If you're struggling with the limitations of your docs tools, how do you decide what system to migrate to? In a recent conversation about trying to replace an old CMS, documentarians on Slack compared MadCap Flare, Paligo, static site generators and Adobe Suite, among others.
 
 There was some consensus around establishing your specific business requirements before selecting a tool. What outputs do you need to publish? How much do you need to reuse content? Does OS compatibility matter? How long will migration take? The requirements matter because no single tool is right for all situations. If you understand your needs well, it'll really help - you might even realise that you don't need to switch.
 

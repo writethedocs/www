@@ -88,5 +88,5 @@ Changes to this policy will only add requirements, and will not remove requireme
 Thanks
 ------
 
-This COVID policy is largely based on the policy from PyCascades and PyCon US - thank you to the Python Software Foundation for allowing us to modify & re-use your content. 
+This COVID policy is largely based on the policy from PyCascades and PyCon US - thank you to the Python Software Foundation for allowing us to modify & reuse your content. 
  

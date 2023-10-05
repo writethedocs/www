@@ -545,7 +545,7 @@
     national laboratories and universities, we have developed an approach that embraces
     the idea of “document driven development”, by making all our documentation runnable
     within our continuous integration test suite. Most notably, for our tutorials
-    and examples, we re-use a set of Jupyter Notebooks in three ways: as the base
+    and examples, we reuse a set of Jupyter Notebooks in three ways: as the base
     for “live” tutorials and demos, as static documentation disseminated on web pages
     (and other generated forms), and as integration tests that we run in our continuous
     integration system.  While the idea of runnable examples is not new, their full
