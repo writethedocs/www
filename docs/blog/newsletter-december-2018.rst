@@ -27,7 +27,7 @@ Understanding what users need is at the heart of good technical writing. A recen
 
 * Ask your colleagues: product managers, support/success teams, developers...
 
-  Product mangers often have wide knowledge about user needs. Support can tell you about big and small customer pain points. Developers - particularly experienced ones - can give you insight into use cases, and the needs their code seeks to address.
+  Product managers often have wide knowledge about user needs. Support can tell you about big and small customer pain points. Developers - particularly experienced ones - can give you insight into use cases, and the needs their code seeks to address.
 * Also try reviewing support tickets, for a detailed view on how users really work with the product.
 * Take a look at customer requests, and analyse them carefully. You want to distinguish between what customers ask for, and what they actually need.
 
