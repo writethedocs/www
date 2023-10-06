@@ -37,7 +37,7 @@ If you put links within the content, `one reference suggested <https://readabili
 Personality in Technical Writing
 --------------------------------
 
-There are still different views among documentarians on the issue of the importance of personality, customization, and tone in technical writing. People recently shared their thoughts on the topic, giving different points of view on whether such things belong in technical documents.
+There are still different views among documentarians on the issue of the importance of personality, customization, and tone in technical writing.
 
 Some people said that strict accuracy was the most important in technical writing, while others said that there was room for creativity and humor as long as precision wasn’t compromised. In particular, they said that adding a bit of personality can make such writing more interesting, especially if the readers can handle it.
 
@@ -57,7 +57,7 @@ Some of the perceived drawbacks to keeping docs with app code included changes f
 
 People noted some potential benefits, including increased accountability for changes with PRs. Some also felt safer knowing any mistakes weren't theirs alone and that the CI checks and reviews helped keep entire pages from breaking. Someone also noted that with docs in the same repository as code, it was easier to enforce docs changes when code is updated, including potentially automating some changes.
 
-People had some suggestions to help overcome some roadblocks. Opening PRs early in the process lets reviewers check out changes locally to see the effects. Someone also suggested using the principle of pair programming in pair reviews for easier collaboration: run the docs locally and walk through the changes on a video call. It was also suggested to keep PRs small and therefore manageable, but batch really small things like typos together if each PR takes too long. And encourage improvements to the CI to catch typos earlier and also only run when needed (not linting untouched code).
+People had some suggestions to help overcome some roadblocks. Opening PRs early in the process lets reviewers check out changes locally to see the effects. Someone also suggested using the principle of pair programming in pair reviews for easier collaboration: run the docs locally and walk through the changes on a video call. Another idea was keeping PRs small and therefore manageable, but batching really small things like typos together if each PR takes too long. And encouraging improvements to the CI to catch typos earlier and also only runing when needed (not linting untouched code).
 
 Either setup can work and each works for some situations. As someone pointed out, if you're going to use docs-as-code, it's best to optimize for the code tools and processes available to you.
 
