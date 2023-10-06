@@ -11,7 +11,7 @@ The Write the Docs `Documentarian Salary Survey for 2023 <https://salary-survey.
 
 So whether you're an employee, contractor, freelancer, or currently unemployed, `head on over <https://salary-survey.writethedocs.org/>`_ and help us make this year's survey the most useful yet.
 
-In conference news, the in-person Australia conference has just `announced its speakers </conf/australia/2023/news/announcing-speakers/>. Check out the amazing talks you have to look forward to and then `grab a ticket </conf/australia/2023/tickets/>`__. If you'd like to apply for an `opportunity grant </conf/australia/2023/opportunity-grants/>`__, you have until 15 October.
+In conference news, the in-person Australia conference has just `announced its speakers </conf/australia/2023/news/announcing-speakers/>`__. Check out the amazing talks you have to look forward to and then `grab a ticket </conf/australia/2023/tickets/>`__. If you'd like to apply for an `opportunity grant </conf/australia/2023/opportunity-grants/>`__, you have until 15 October.
 
 The newsletter this month covers how to include links within your docs, whether you can show some of your personality in your docs, how to handle docs in the same repository as product source code, and how much (or little) to capitalize feature names. Hope you enjoy!
 
