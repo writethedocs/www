@@ -32,7 +32,7 @@ Grammar
 Naming and terminology
 ~~~~~~~~~~~~~~~~~~~~~~
 
-- |:newspaper:| `Capitalizing Feature Names </bblog/newsletter-2023-october/#capitalizing-feature-names>`__
+- |:newspaper:| `Capitalizing Feature Names </blog/newsletter-october-2023/#capitalizing-feature-names>`__
 - |:newspaper:| `Common words and how to identify them </blog/newsletter-june-2020/#common-words-and-how-to-identify-them>`__
 - |:movie_camera:| `Even Naming This Talk Is Hard </videos/na/2017/even-naming-this-talk-is-hard-ruthie-bendor/>`__
 - |:movie_camera:| `Whatchamacallit: Controlled Vocabularies for Technical Writers </videos/eu/2015/whatchamacallit-controlled-vocabularies-for-technical-writers-eboillat/>`__
@@ -43,7 +43,7 @@ Specific writing questions
 
 One word vs another, using abbreviations, etc.
 
-- |:newspaper:| `Hyperlink Text </blog/newsletter-2023-october/#hyperlink-text>`__
+- |:newspaper:| `Hyperlink Text </blog/newsletter-october-2023/#hyperlink-text>`__
 - |:newspaper:| `Numbering Section Headings </blog/newsletter-september-2023/#numbering-section-headings>`__
 - |:newspaper:| `Gerunds in headings </blog/newsletter-october-2022/#gerunds-in-headings>`__
 - |:newspaper:| `When to use acronyms </blog/newsletter-september-2022/#when-to-use-acronyms>`__
@@ -500,7 +500,7 @@ Doc tools
 Docs-as-code
 ~~~~~~~~~~~~
 
-- |:newspaper:| `Docs with Code Or Just as Code? </blog/newsletter-2023-october/#docs-with-code-or-just-as-code>`__
+- |:newspaper:| `Docs with Code Or Just as Code? </blog/newsletter-october-2023/#docs-with-code-or-just-as-code>`__
 - |:movie_camera:| `One AWS team’s move to docs as code: what worked, what didn’t, what’s next </videos/portland/2022/one-aws-team-s-move-to-docs-as-code-what-worked-what-didn-t-what-s-next-marcia-riefer-johnston/>`__
 - |:newspaper:| `To git or not to git docs as code </blog/newsletter-august-2020/#to-git-or-not-to-git-docs-as-code>`__
 - |:newspaper:| `Pros and cons of the docs-as-code approach </blog/newsletter-april-2020/#pros-and-cons-of-the-docs-as-code-approach>`__
