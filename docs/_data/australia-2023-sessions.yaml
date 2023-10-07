@@ -89,27 +89,35 @@
     shares what I’ve learned about how AI works and how we can think about it in relation
     to technical documentation.</p>
 
-    <p>The takeaways are:
+    <p>The takeaways are:</p>
 
-    * Practical knowledge that you can apply when thinking about AI and its impact
-    on our industry
+    <ul>
 
-    * Excitement and delight</p>
+    <li>Practical knowledge that you can apply when thinking about AI and its impact
+    on our industry</li>
 
-    <p>The talk will cover:
+    <li>Excitement and delight</li>
 
-    * A quick introduction to machine learning (ML) and artificial intelligence (AI)
+    </ul>
 
-    * What’s special about Large Language Models (LLMs) in comparison with other ML
-    models
+    <p>The talk will cover:</p>
 
-    * How companies are using LLMs to augment the information experience
+    <ul>
 
-    * Prompt engineering as a way of helping an LLM understand what you want from
-    it
+    <li>A quick introduction to machine learning (ML) and artificial intelligence (AI)</li>
 
-    * Embeddings as a way of helping an LLM use your docs as a trusted source of relevant
-    information</p>'
+    <li>What’s special about Large Language Models (LLMs) in comparison with other ML
+    models</li>
+
+    <li>How companies are using LLMs to augment the information experience</li>
+
+    <li>Prompt engineering as a way of helping an LLM understand what you want from
+    it</li>
+
+    <li>Embeddings as a way of helping an LLM use your docs as a trusted source of relevant
+    information</li>
+    
+    </ul>'
 - title: I will survive (weren't you the one who tried to hurt me with "Goodbye"?)
   slug: i-will-survive-weren-t-you-the-one-who-tried-to-hurt-me-with-goodbye-lana-brindley-she-her
   series: Write the Docs Australia
