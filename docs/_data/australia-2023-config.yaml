@@ -132,7 +132,7 @@ about:
     "The main presentation track takes place during **December 7-8 (Thursday and Friday) from 9:30am to 4:00pm AEDT**.
     During the main event we also run an :doc:`/conf/australia/2023/unconference`."
 
-  social_venue: TBD
+  social_venue: Tap831, 831 Bourke St, Docklands VIC 3008
   venue: Library at the Dock
   photos: TBD
   mainroom: Performance Space
@@ -186,7 +186,7 @@ flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
 flagrunofshow: False
-flaghasschedule: False
+flaghasschedule: True
 flaghasunconf: True
 flaghasshirts: False
 flagvideos: False
