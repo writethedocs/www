@@ -20,7 +20,7 @@ During the conference
 Attendees, folks looking for projects to contribute to, check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-cheatsheet`! 
 It's a great resources you can use during the conference to make the most out of Writing Day.
 
-Project leads and volunteers, check out the `Maximize your experience <https://www.writethedocs.org/conf/portland/2023/news/writing-day-announcement/#maximize-your-experience>`_ section of our *Write the Docs <3's OSS* blog post for helpful tips and tricks.
+Project leads and volunteers, check out the `Maximize your experience <https://www.writethedocs.org/conf/portland/2024/news/writing-day-announcement/#maximize-your-experience>`_ section of our *Write the Docs <3's OSS* blog post for helpful tips and tricks.
 
 Submit Your Project 
 -------------------
@@ -118,7 +118,7 @@ project. Throughout Writing Day, we’ll feature workshops that will give you a 
 to provide feedback on these key initiatives. Your feedback will help us improve and 
 shape our future roadmap! 
 
-Get an early preview of `The Good Docs Project writing day agenda <https://tinyurl.com/good-docs-portland-2023/>`_.
+Get an early preview of `The Good Docs Project writing day agenda <https://tinyurl.com/good-docs-portland-2024/>`_.
 
 Hank
 ~~~~

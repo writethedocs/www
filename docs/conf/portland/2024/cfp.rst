@@ -193,10 +193,10 @@ Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx accoun
 
 {% endif %}
 
-.. _Atlantic:
+.. _Atlantic-2024:
 
-Write the Docs Atlantic, online September 2023
+Write the Docs Atlantic, online September 2024
 ----------------------------------------------
 
-If you want to speak at Write the Docs but can't or don't want to attend an in-person event, keep an eye out for Write the Docs Atlantic, coming in September 2023. 
+If you want to speak at Write the Docs but can't or don't want to attend an in-person event, keep an eye out for Write the Docs Atlantic, coming in September 2024. 
 This conference is entirely virtual, between the Central European Summer Time (CEST) and Eastern Daylight Time (EDT) time zones, so you can present or attend from anywhere.

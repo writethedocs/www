@@ -36,14 +36,12 @@ Write the Docs {{ name }} {{ year }} is an in-person conference. Each ticket inc
 * Wifi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue
 
-All attendees are required to abide by our `Health and Safety Policy <https://www.writethedocs.org/conf/portland/2023/health/>`_,
-as well as our `Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`_.
+All attendees are required to abide by our `Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`_.
 
 Refund Policy
 -------------
 
 Refunds will be offered with a 10% processing fee until 2 weeks before the conference.
-Exceptions will be made according to our `Health and Safety Policy <https://www.writethedocs.org/conf/portland/2023/health/>`_.
 
 Ticket Types
 ------------

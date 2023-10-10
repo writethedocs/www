@@ -235,13 +235,13 @@ Subject:
 
    We're just over a month away from meeting up in Portland! I hope you're feeling relaxed and confident. 
 
-   The conference schedule is [live](https://www.writethedocs.org/conf/portland/2023/schedule/#monday-may-8)! :-)
+   The conference schedule is [live](https://www.writethedocs.org/conf/portland/2024/schedule/#monday-may-8)! :-)
 
    I've got a couple more small logistical checkboxes for you:
 
    ○ please register your free [speaker ticket]({{cfp_variables['ticket']}}), it includes hoodies sizing for a conference hoodie.
 
-   ○ please make sure to log in to [Pretalx](https://pretalx.com/write-the-docs-portland-2023/login/) and fill out the questions on pronouns, name pronunciation and interests for our emcee intro.
+   ○ please make sure to log in to [Pretalx](https://pretalx.com/write-the-docs-portland-2024/login/) and fill out the questions on pronouns, name pronunciation and interests for our emcee intro.
 
    We're finalizing details on the tech check and Q&A over the next weeks, and we'll be in touch in a week or so asking for a copy of your slides for our captioners! 
 

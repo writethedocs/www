@@ -14,7 +14,7 @@ Logistics
 
 **Please register for your ticket so we can contact you in advance for day-of weather and logistics information**
 
-- Tickets: `Register your hike ticket <https://ti.to/writethedocs/write-the-docs-portland-2023/with/hike-ticket>`_
+- Tickets: `Register your hike ticket <https://ti.to/writethedocs/write-the-docs-portland-2024/with/hike-ticket>`_
 - Date & Time: Leaves promptly at **{{ hike.date }}**.
 - Start: **Lower Macleay Park** (`Map link <https://goo.gl/maps/bU7MAMsKCJAbG3zFA>`__). There is a pavilion at the park entrance where we will gather.
 - End (**CHANGED**): **Lower Macleay Park** around 4pm. 
