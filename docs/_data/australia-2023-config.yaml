@@ -22,8 +22,8 @@ buttons:
   #     link: /news/welcome
   #   - text: Sponsor us
   #     link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp  
+  #  - text: Submit a Talk
+  #    link: /cfp
   #   - text: Date and ticket information
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: Read our conference guide
@@ -32,8 +32,8 @@ buttons:
   #     link: /schedule
     - text: Buy a Ticket!
       link: /tickets
-  #  - text: See the talks!
-  #    link: /speakers
+    - text: See the talks!
+      link: /speakers
   #  - text: See the Schedule!
   #    link: /schedule
   #  - text: Read our guide
@@ -181,10 +181,10 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: True
-flagcfp: True
+flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
-flagspeakersannounced: False
+flagspeakersannounced: True
 flagrunofshow: False
 flaghasschedule: False
 flaghasunconf: True
@@ -198,7 +198,6 @@ flagcancelled: False
 flaghashike: False
 flaghasfood: True
 flaghasboat: False
-flaghaswritingday: True
+flaghaswritingday: False
 flaghasjobfair: False
 flaghasbadgeflair: False
-

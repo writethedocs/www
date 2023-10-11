@@ -57,5 +57,5 @@ According to the `current public health guidelines issued by the Victorian Gover
 Thanks
 ------
 
-This COVID policy is largely based on the policy from PyCascades and PyCon US - thank you to the Python Software Foundation for allowing us to modify & re-use your content. 
+This COVID policy is largely based on the policy from PyCascades and PyCon US - thank you to the Python Software Foundation for allowing us to modify & reuse your content. 
  

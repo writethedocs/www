@@ -1,0 +1,313 @@
+- title: Tech Comms Today - Discussion Panel
+  slug: tech-comms-today-discussion-panel-felicity-brand
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2023
+  speakers:
+  - name: Felicity Brand
+    slug: felicity-brand
+    twitter: 
+    website: 
+  abstract: '<p>This moderated session will feature four experienced documentarians
+    from different backgrounds sharing their impressions of what''s happening in the
+    industry today, and how it may shape our future.</p>
+
+    <p>This session would work best as the final session of the conference.</p>'
+- title: 'Museums to docs: managing the unmanageable documentation'
+  slug: museums-to-docs-managing-the-unmanageable-documentation-leisa-taylor
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2023
+  speakers:
+  - name: Leisa Taylor
+    slug: leisa-taylor
+    twitter: 
+    website: 
+  abstract: '<p>As a museum consultant, I triaged difficult (and sometimes dangerous)
+    collections. Museums I worked with managed tens of thousands of items. Every item
+    has a database record containing every scrap of information known. Museum staff
+    have to care for the physical item and its digital counterpart. Despite this massive
+    responsibility, museums suffer from a lack of resources, staff, and time. Sound
+    familiar?</p>
+
+    <p>When I start as a technical writer - often in a newly established role - I
+    try to assess the state of the documentation. While contemplating the mess, I
+    find myself transported to another time. Where the mess was discovering another
+    storage space filled to the ceiling with objects of all sizes and shapes. Fragile
+    lace doilies on engines and delicate glass valves that are probably radioactive.
+    And the pièce de résistance? A mannequin lying face down in a puddle of water
+    from the latest roof leak. </p>
+
+    <p>My mess has become documentation instead of objects but museums taught me how
+    to manage the unmanageable. Surprisingly, there are countless overlaps between
+    museums and docs. Some that I want to share include:</p>
+
+    <ul>
+
+    <li>Audit/inventory management</li>
+
+    <li>Knowing what to throw away</li>
+
+    <li>Standards and style guides</li>
+
+    <li>Managing historic mistakes or blank spaces</li>
+
+    <li>Why I still can''t wear white to work</li>
+
+    </ul>'
+- title: The evolving landscape of Simplified English for software documentation.
+  slug: the-evolving-landscape-of-simplified-english-for-software-documentation-shumin-chen
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2023
+  speakers:
+  - name: Shumin Chen
+    slug: shumin-chen
+    twitter: 
+    website: 
+  abstract: <p>Simplified Technical English (STE) started in the aerospace industry,
+    where it emerged as a solution to address language, communication, and documentation
+    challenges. While it initially served the defence sector, STE’s inherent versatility
+    and adaptability have made it remarkably relevant and applicable to various industries.
+    This workshop explores the evolution of STE from an aerospace standard to its
+    potential in revolutionising documentation practices in the software industry.
+    By embracing STE, participants will gain insights into how this linguistic paradigm
+    shift can help organisations across diverse sectors enhance clarity, efficiency,
+    and comprehension in their software-related communication.</p>
+- title: Understanding AI and helping it understand you
+  slug: understanding-ai-and-helping-it-understand-you-sarah-maddox
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2023
+  speakers:
+  - name: Sarah Maddox
+    slug: sarah-maddox
+    twitter: 
+    website: 
+  abstract: '<p>Let’s take a practical, current look at AI, including ChatGPT and
+    Bard. AI technology is fascinating, fast-moving, and slightly scary. This talk
+    shares what I’ve learned about how AI works and how we can think about it in relation
+    to technical documentation.</p>
+
+    <p>The takeaways are:</p>
+
+    <ul>
+
+    <li>Practical knowledge that you can apply when thinking about AI and its impact
+    on our industry</li>
+
+    <li>Excitement and delight</li>
+
+    </ul>
+
+    <p>The talk will cover:</p>
+
+    <ul>
+
+    <li>A quick introduction to machine learning (ML) and artificial intelligence (AI)</li>
+
+    <li>What’s special about Large Language Models (LLMs) in comparison with other ML
+    models</li>
+
+    <li>How companies are using LLMs to augment the information experience</li>
+
+    <li>Prompt engineering as a way of helping an LLM understand what you want from
+    it</li>
+
+    <li>Embeddings as a way of helping an LLM use your docs as a trusted source of relevant
+    information</li>
+    
+    </ul>'
+- title: I will survive (weren't you the one who tried to hurt me with "Goodbye"?)
+  slug: i-will-survive-weren-t-you-the-one-who-tried-to-hurt-me-with-goodbye-lana-brindley-she-her
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2023
+  speakers:
+  - name: Lana Brindley (she/her)
+    slug: lana-brindley-she-her
+    twitter: 
+    website: 
+  abstract: <p>Inspired by the disco-classic by Gloria Gaynor, Steve and Lana discuss
+    the various job rejections they've experienced over far too many years, with hair-raising
+    stories from friends and colleagues, and examine the reasons why employers treat
+    us like we'd crumble, how you can grow strong, and learn to get along.</p>
+- title: What if you went back in time and all you found was pie?
+  slug: what-if-you-went-back-in-time-and-all-you-found-was-pie-claire-mahoney
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2023
+  speakers:
+  - name: Claire Mahoney
+    slug: claire-mahoney
+    twitter: 
+    website: 
+  abstract: "<p>It seems to be a regular wish of content designers and technical writers
+    everywhere to go back in time and be there when the big decisions get made. We
+    want to have a seat at the table and be part of tooling choices, strategy discussions,
+    product planning, naming and style decisions, designing, etc. Some of us are there
+    in those moments, but many of us arrive after all that has happened and inherit
+    conditions and problems that started way before we did.</p>\n<p>Working in a startup
+    might seem like an opportunity to go back and right all those wrongs, to start
+    with a clean slate, and an open road. But it's not quite that simple. I want to
+    share my experiences as a solo writer in a hectic startup, writing the docs, the
+    UI, the comms, the blogs, the everything. \nAnd to get the audience thinking about
+    what ideal writing conditions look like for them, and why they should stop dwelling
+    on what cannot be changed or prevented, in order to be a more resilient writer.</p>"
+- title: Improving Documentation at Scale
+  slug: improving-documentation-at-scale-paul-gustafson
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2023
+  speakers:
+  - name: Paul Gustafson
+    slug: paul-gustafson
+    twitter: 
+    website: 
+  abstract: '<p>Imagine your job is to help a software project produce high-quality
+    documentation. The current documentation is incomplete, confusing, out of date,
+    and poorly organized. While the leaders of the project recognize the current documentation
+    slows adoption by new users, and impedes potential contributors, it''s not clear
+    what needs to be done or who can do the work.</p>
+
+    <p>Now, multiply that challenge by 170+ software projects. </p>
+
+    <p>This talk introduces a new program designed to tackle exactly that challenge.
+    The session will describe the program, and highlight practices relevant to any
+    organization struggling with technical documentation, whether open source or not.
+    It will also explain how writers everywhere can benefit from the lessons learned.</p>'
+- title: Advocating for digital accessibility with empathy
+  slug: advocating-for-digital-accessibility-with-empathy-rhiannon-hall
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2023
+  speakers:
+  - name: Rhiannon Hall
+    slug: rhiannon-hall
+    twitter: 
+    website: 
+  abstract: '<p>For projects in any field, accessibility is an essential part of both
+    development and the end product. Unfortunately accessibility is often an afterthought
+    in design processes, and a lack of clear and effective documentation can be a
+    contributing factor. </p>
+
+    <p>Our team supports learning and teaching staff at a university with a repository
+    of resources and blog posts (which are also publicly available), and accessibility
+    is an area of focus for us. In higher education, inaccessible content can have
+    profoundly negative effects for students, ranging from poor learning experiences
+    to increased rates of non-completion for students with disabilities. </p>
+
+    <p>Our approach to creating documentation for accessibility brings together learning
+    and teaching practitioners, content designers and students with lived experience
+    of disability to encourage empathetic practice of accessibility principles. We
+    combine clear instructive content, real-life examples and student-created content
+    to emphasise the benefits of accessible practice for all students and the impacts
+    of inaccessibility. While our context is in higher education, this approach can
+    be applied in many different fields and scenarios that require documentation.
+    </p>
+
+    <p>This talk will cover: </p>
+
+    <ul>
+
+    <li>Our co-design process with students, and including people with lived experience</li>
+
+    <li>Using a range of content types to educate about accessibility (including articles,
+    supportive and instructional documentation, and video)</li>
+
+    <li>Helping users connect their accessibility practice with real world outcomes</li>
+
+    <li>Writing guidelines that are easy to follow for those who are new to accessibility</li>
+
+    <li>Encouraging accessibility compliance as best practice to benefit all users</li>
+
+    <li>Inclusive and empathetic communication for different projects and contexts</li>
+
+    </ul>'
+- title: 'Positive Learning Environment at Work: Equipping everyone to succeed at
+    writing docs'
+  slug: positive-learning-environment-at-work-equipping-everyone-to-succeed-at-writing-yvonne-perkins
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2023
+  speakers:
+  - name: Yvonne Perkins
+    slug: yvonne-perkins
+    twitter: 
+    website: 
+  abstract: '<p>In many workplaces, people who do not see themselves as writers are
+    required to write technical documentation. Engineers are often required to write
+    the first draft document which may or may not be refined in a subsequent review
+    by a technical writer. Part of the lack of importance given to writing documentation
+    by some engineers may be due to them feeling uncomfortable about writing. Some
+    engineers may have had negative experiences with writing in the past. In some
+    cases, their negative perception of themselves as a writer can impact their performance
+    when writing technical documentation. </p>
+
+    <p>The workplace can be conceived as a learning environment. This learning environment
+    needs to help people of all abilities to succeed and needs to recognise that negative
+    self-perception and negative prior experiences can be a significant impediment
+    to success. Drawing on research from the adult-education sector and other sources,
+    I will explore how we can adopt a ‘growth-mindset’ view of ourselves and our co-workers
+    instead of seeing people as having deficits in abilities. On this foundation,
+    I will then open a conversation about what practical steps, aside from formal
+    training, can be implemented in the workplace to help everyone feel that they
+    can succeed as writers.</p>'
+- title: '#worthit: Refactoring product-centric docs into task-based content'
+  slug: worthit-refactoring-product-centric-docs-into-task-based-content-janet-revell
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2023
+  speakers:
+  - name: Janet Revell
+    slug: janet-revell
+    twitter: 
+    website: 
+  abstract: '<p>"I''m not here to learn about your product. If your documentation
+    doesn''t answer my question or solve my problem, I''m not interested." That actual
+    quote from an actual Site Reliability Engineer neatly summarizes my goal as a
+    Tech Writer at early-stage start-ups: my job is not to describe your product,
+    my job is to help users become successful and confident using your software. And
+    yet, my nearly 20-year career in tech writing and management has focused almost
+    entirely on requirements that demand product-centric documentation that exhaustively
+    explains the parts, but fails to prescribe how to use the whole.</p>
+
+    <p>After countless doc plans and earnest entreaties to approach new documentation
+    projects from a user''s task-based perspective, I finally found myself with an
+    opportunity to write content that answers questions and solves problems. I''d
+    like to tell the story of how I refactored a complete set of software documentation
+    from "bland" to "much better" in a docs-as-code environment in which I focused
+    squarely on what the users need to know, not on what a company wants to say about
+    their products.</p>
+
+    <p>I''ll describe how I managed to coax my product management and engineering
+    colleagues into reimagining the documentation, how I organized the practical steps
+    to incrementally implement the changes, and I''ll discuss the early feedback from
+    users about their experience with a different kind of documentation.</p>'
+- title: 'Find the frequency: metrics for better docs and happier readers'
+  slug: find-the-frequency-metrics-for-better-docs-and-happier-readers-renee-carignan
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2023
+  speakers:
+  - name: Renee Carignan
+    slug: renee-carignan
+    twitter: 
+    website: 
+  abstract: '<p>When it comes to quantifying the "success" of documentation, trying
+    to use metrics to figure out if your docs are actually helping people can be a
+    daunting and frustrating task. Most analytics tools were built primarily with
+    marketers and product managers in mind, and sorting through the near-infinite
+    analytics features has lead many a documentarian to spend too much time tuned
+    into metrics that don''t result in any tangible docs improvements.</p>
+
+    <p>In this talk, I''ll share my insights into which metrics can provide the most
+    value for you as a docs writer based on my 4+ years leading the docs team at a
+    product analytics software company. Through lots of trial, error, and writing
+    meta-docs about analytics while grappling with them myself, I managed to suss
+    out several metrics which consistently resulted in tangible docs improvements
+    that made us (and our readers) happier.</p>
+
+    <p>By the end of this talk, you''ll have a handy list of metrics which may prove
+    beneficial  for your team, and a strengthened intuition for when a metric is simply
+    noise to tune out - and what may be worth tuning into.</p>'
