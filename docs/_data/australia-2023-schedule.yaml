@@ -1,0 +1,99 @@
+talks_day1:
+  - time: '8:30'
+    title: Doors open
+  - time: '9:15'
+    duration: '0:15'
+    title: Write the Docs Australia - Conference introduction
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: find-the-frequency-metrics-for-better-docs-and-happier-readers-renee-carignan
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:20'
+    title: '☕ Coffee break'
+  - duration: '0:30'
+    slug: understanding-ai-and-helping-it-understand-you-sarah-maddox
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:00'
+    title: "<b>Unconference Starts</b>"
+  - duration: '0:30'
+    slug: improving-documentation-at-scale-paul-gustafson
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: advocating-for-digital-accessibility-with-empathy-rhiannon-hall
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '1:00'
+    title: '🍽️ Lunch Break (60 mins)'
+  - duration: '0:20'
+    title: Lightning Talks (20 mins)
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '1:00'
+    slug: the-evolving-landscape-of-simplified-english-for-software-documentation-shumin-chen
+  - duration: '0:20'
+    title: '☕ Coffee break'
+  - duration: '0:40'
+    slug: the-evolving-landscape-of-simplified-english-for-software-documentation-shumin-chen
+  - duration: '0:05'
+    title: '<b>Group Photo!</b>'
+  - duration: '0:00'
+    title: '<b>Conference day 1 ends</b>'
+  - time: '17:00'
+    title: "<b>Social Event</b>"
+  - time: '19:00'
+    title: "<b>Social Event Ends</b>"
+
+talks_day2:
+  - time: '9:00'
+    title: Doors open
+    duration: '0:30'
+  - duration: '0:30'
+    slug: worthit-refactoring-product-centric-docs-into-task-based-content-janet-revell
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:20'
+    title: '☕ Coffee break'
+  - duration: '0:30'
+    slug: positive-learning-environment-at-work-equipping-everyone-to-succeed-at-writing-yvonne-perkins
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:00'
+    title: "<b>Unconference Starts</b>"
+  - duration: '0:30'
+    slug: museums-to-docs-managing-the-unmanageable-documentation-leisa-taylor
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: what-if-you-went-back-in-time-and-all-you-found-was-pie-claire-mahoney
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '1:00'
+    title: '🍽️ Lunch Break (60 mins)'
+  - duration: '0:20'
+    title: Lightning Talks (20 mins)
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: i-will-survive-weren-t-you-the-one-who-tried-to-hurt-me-with-goodbye-lana-brindley-steve-kowalik
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:20'
+    title: '☕ Coffee break'
+  - duration: '0:40'
+    slug: tech-comms-today-discussion-panel-felicity-brand
+  - duration: '0:15'
+    title: Write the Docs team - Conference closing
+  - duration: '0:00'
+    title: '<b>Conference ends 😔</b>'
