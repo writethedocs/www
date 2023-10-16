@@ -102,7 +102,7 @@ shirts:
 date: # how do we handle these? human readable would be nice.
   main: "**April 14-16, 2024**"
   short: April 14-16, 2024
-  tickets_live: "January 2024"
+  tickets_live: "December 2024"
   month: April
 
   # Conference is special for the index to show the combined conference days
