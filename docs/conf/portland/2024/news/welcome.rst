@@ -19,12 +19,6 @@ Every year, Write the Docs invites people from all across our community to come 
 We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!
 
 **We plan to launch our CFP in November** for those who are excited to speak.
-We're still working out the exact details for the CFP,
-but our current plan is to record all talks so that the experience will be comparable between online and in-person,
-for attendees and speakers.
-We hope that this will help maintain the accessibility level that remote presentations gave us,
-and invite speakers who cannot or do not feel comfortable attending in person.
-
 Start thinking about your talk proposal now,
 and we'll let you know as soon as the CFP opens.
 
