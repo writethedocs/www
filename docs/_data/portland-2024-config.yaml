@@ -63,8 +63,8 @@ buttons:
   #    link: /schedule
   #   - text: Watch the Live Stream
   #     link: /livestream
-    - text: Conference recap
-      link: /news/thanks-recap
+  # - text: Conference recap
+  #   link: /news/thanks-recap
   # - text: Browse the photos
   #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720308088427
   #   - text: Watch the videos!
