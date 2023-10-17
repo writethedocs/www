@@ -332,7 +332,7 @@ Posts in those channels not meeting the posting rules may result in :ref:`modera
 Reporting Issues
 ~~~~~~~~~~~~~~~~
 
-If you see a message in a public channel that looks like spam, you can react to it with the ``:spam:`` reactji to bring the moderators' attention to it.
+If you see a message in a public channel that needs moderator attention, you can react to it with the ``:attn-mods:`` or ``:spam:`` reactji.
 Note that this is a public action, so only take it if you're okay with the poster seeing you have done this. 
 
 If you see people not following the behavior guidelines you can:

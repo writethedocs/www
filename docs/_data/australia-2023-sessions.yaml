@@ -10,9 +10,7 @@
     website: 
   abstract: '<p>This moderated session will feature four experienced documentarians
     from different backgrounds sharing their impressions of what''s happening in the
-    industry today, and how it may shape our future.</p>
-
-    <p>This session would work best as the final session of the conference.</p>'
+    industry today, and how it may shape our future.</p>'
 - title: 'Museums to docs: managing the unmanageable documentation'
   slug: museums-to-docs-managing-the-unmanageable-documentation-leisa-taylor
   series: Write the Docs Australia
@@ -119,13 +117,17 @@
     
     </ul>'
 - title: I will survive (weren't you the one who tried to hurt me with "Goodbye"?)
-  slug: i-will-survive-weren-t-you-the-one-who-tried-to-hurt-me-with-goodbye-lana-brindley-she-her
+  slug: i-will-survive-weren-t-you-the-one-who-tried-to-hurt-me-with-goodbye-lana-brindley-steve-kowalik
   series: Write the Docs Australia
   series_slug: australia
   year: 2023
   speakers:
   - name: Lana Brindley (she/her)
     slug: lana-brindley-she-her
+    twitter: 
+    website: 
+  - name: Steve Kowalik (he/him)
+    slug: steve-kowalik-he-him
     twitter: 
     website: 
   abstract: <p>Inspired by the disco-classic by Gloria Gaynor, Steve and Lana discuss
