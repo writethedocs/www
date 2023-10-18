@@ -25,6 +25,7 @@ TAGS = [
     'australia-2022',
     'portland-2023',
     'atlantic-2023',
+    'portland-2024',
 ]
 
 
