@@ -37,13 +37,11 @@ talks_day1:
   - duration: '0:05'
     title: '5 minute break'
   - duration: '1:00'
-    title: STE Workshop - Part 1
-    slug: the-evolving-landscape-of-simplified-english-for-software-documentation-shumin-chen
+    slug: the-evolving-landscape-of-simplified-english-for-software-documentation-shumin-chen (Part 1)
   - duration: '0:20'
     title: '☕ Coffee break'
   - duration: '0:40'
-    title: STE Workshop - Part 2
-    slug: the-evolving-landscape-of-simplified-english-for-software-documentation-shumin-chen
+    slug: the-evolving-landscape-of-simplified-english-for-software-documentation-shumin-chen (Part 2)
   - duration: '0:05'
     title: '<b>Group Photo!</b>'
   - duration: '0:00'
