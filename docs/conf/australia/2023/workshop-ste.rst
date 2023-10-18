@@ -1,8 +1,8 @@
 :template: {{year}}/generic.html
 :banner: _static/conf/images/headers/writing-day.png
 
-Workshop: The evolving landscape of Simplified English for software documentation
-==================================================================================
+Workshop: Simplified English for software documentation
+========================================================
 
 Workshop host: **Shumin Chen**
 
@@ -35,8 +35,7 @@ Schedule
 --------
 
 - Date & Time: **Thursday, 7th December 2023, 2.10pm-4.10pm**.
-- Location: **Melbourne, Australia**. Find out more:
-  :doc:`/conf/australia/2023/venue`
+- Location: **Melbourne, Australia**. Find out more: :doc:`/conf/australia/2023/venue`
 
 Prerequisites
 -------------
