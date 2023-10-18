@@ -26,7 +26,7 @@ and we'll let you know as soon as the CFP opens.
 Tickets
 -------
 
-**Tickets will go on sale in {{ date.tickets_live }}**.
+Tickets will go on sale in {{ date.tickets_live }}.
 The ticket pricing will be as follows:
 
 * **Student or Unemployed Tickets**: *{{tickets.student.price}}*
@@ -52,13 +52,14 @@ Keep in touch
 
 Want to find out what's happening with the conference,
 or enjoy our monthly global community newsletter?
-Sign up to one or more of our `mailing lists <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/mailing-list/>`_. Your information will never be shared with any third-parties, and you can unsubscribe at any time.
+Sign up to one or more of our `mailing lists <https://www.writethedocs.org/newsletter/>`_. Your information will never be shared with anyone, and you can unsubscribe at any time.
 
 Want to connect with other documentarians in real-time?
-Join our `Slack <https://www.writethedocs.org/slack/>`_.
+Join our `Slack <https://www.writethedocs.org/slack/>`_,
+and look for announcements in the ``#wtd-conferences`` channel.
 
-See you again soon
-------------------
+See you in Portland
+-------------------
 
 We hope you will join us in Portland for another Write the Docs conference.
 Whether as a speaker, attendee, or sponsor, it should be another delightful year.
