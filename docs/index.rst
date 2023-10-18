@@ -16,9 +16,8 @@ tech writers, developer advocates, customer support, marketers, and anyone else 
 people to have great experiences with software.
 
 * Attend one of :doc:`our conferences </conf/index>`
-   - :doc:`Portland 2023 </conf/portland/2023/index>`, **May 7-9**, Portland, Oregon, United States
-   - :doc:`Atlantic 2023 </conf/atlantic/2023/index>`, **September 10-12**, Virtual - CEST and EDT
-   - :doc:`Australia 2023 </conf/australia/2023/index>`, **December 7-8**, Melbourne, Australia
+   - :doc:`Australia 2023 </conf/australia/2023/index>`, **December 7-8, 2023**, Melbourne, Australia
+   - :doc:`Portland 2024 </conf/portland/2024/index>`, **April 14-16, 2024**, Portland, Oregon, United States
 
 Connect with the community
 --------------------------
