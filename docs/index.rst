@@ -2,7 +2,7 @@
    :description: A series of events for technical writers,
                  documentarians,
                  and all those who write the docs.
-   :author: Write the Docs
+   :author: Damarcus Jones Write the Docs
    :geo.placename: Worldwide
 
 Welcome to our community!
