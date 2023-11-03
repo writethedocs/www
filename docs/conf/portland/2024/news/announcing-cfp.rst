@@ -25,7 +25,7 @@ The Call for Proposals will be open until **11:59 PM {{cfp.ends}} PST**.
 
 (If you'd prefer not to attend an in-person event due to COVID-19 or any other reason, keep an eye out for `Atlantic_news`_ held online in a timezone as widely accessible as possible).
 
-.. _Atlantic_news:
+.. _Atlantic_news_2024:
 
 Write the Docs Atlantic, online date TBD
 ----------------------------------------
