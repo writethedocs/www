@@ -22,8 +22,8 @@ buttons:
       link: /news/welcome/
     # - text: Sponsor us
     #   link: /sponsors/prospectus
-    # - text: Submit a Talk
-    #   link: /cfp
+    - text: Submit a Talk
+      link: /cfp
     #   - text: Read our conference guide
     #     link: /welcome-wagon
     #   - text: See the Schedule!
@@ -163,12 +163,11 @@ about:
   job_fair_room: Sponsor area
 
 cfp:
-  url: https://pretalx.com/wtd-portland-2024/cfp  # Open December 1, 2022, 9 weeks to submit
-  ends: "January 15, 2024"                       # (Mon) 1 week, to review. It'll take a little longer to announce
-  notification: "January 30, 2024"               # (Mon) 8 weeks to write and prepare
-  slides_by: "April 7, 2024"                       # (Mon) 1 week before
+  url: https://pretalx.com/wtd-portland-2024/cfp  # Open November 6 (Mon) -> 9 weeks to submit
+  ends: "January 15, 2024"                        # (Mon) 1 week, to review. It'll take a little longer to announce
+  notification: "January 30, 2024"                # (Mon) 8 weeks to write and prepare
+  slides_by: "April 7, 2024"                      # (Mon) 1 week before
   preview: "TODO"                                 # Preview URL TODO
-
 
 unconf:
   url: http://bit.ly/wtd-pdx-2024-ro
@@ -255,7 +254,7 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: True
 flaghassponsors: False
-flagcfp: False
+flagcfp: True
 flagticketsonsale: False
 flagsoldout: False
 flagspeakersannounced: False
