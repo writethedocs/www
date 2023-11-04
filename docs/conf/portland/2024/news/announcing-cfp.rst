@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Dec 02, 2022
+.. post:: Nov 06, 2023
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
 Announcing the Call for Proposals
@@ -37,7 +37,7 @@ This conference will be entirely virtual, in a timezone that works for as many p
 Tickets
 -------
 
-Tickets will officially go on sale early **2023**.
+Tickets will officially go on sale early **2024**.
 
 As always, we keep ticket prices low so that the event is accessible to the widest range of people possible.
 However, if you can't afford the tickets and still wish to attend, we will launch our grants program soon after opening ticket sales.
