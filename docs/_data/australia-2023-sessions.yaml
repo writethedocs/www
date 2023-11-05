@@ -10,7 +10,9 @@
     website: 
   abstract: '<p>This moderated session will feature four experienced documentarians
     from different backgrounds sharing their impressions of what''s happening in the
-    industry today, and how it may shape our future.</p>'
+    industry today, and how it may shape our future.</p>
+    <p>Check out the <a href=”https://www.writethedocs.org/conf/australia/2023/panel/”>
+    Discussion Panel</a> page for more detail.</p>'
 - title: 'Museums to docs: managing the unmanageable documentation'
   slug: museums-to-docs-managing-the-unmanageable-documentation-leisa-taylor
   series: Write the Docs Australia
