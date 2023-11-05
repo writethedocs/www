@@ -1,6 +1,5 @@
 :template: {{year}}/generic.html
 
-
 Discussion Panel: Tech Comms Today
 =============================
 
