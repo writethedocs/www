@@ -65,7 +65,7 @@ People emphasized that such an approach to measuring quality would take consider
 
 Someone pointed out the difficulty of measuring the usefulness of documentation when you’re not the end user, stressing the importance of identifying the reader and the document’s purpose.
 
-Ultimately, the consensus centered the complexity of the task, advocating for a content audit as a more comprehensive and accurate approach while acknowledging that evaluating documentation quality is a challenging but vital endeavor in maintaining effective knowledge bases.
+Ultimately, there was a consensus that the task was complex. For a more comprehensive and accurate approach, people advocated for ongoing content audits. Everyone acknowledged that evaluating documentation quality is a challenging but vital endeavor in maintaining effective knowledge bases.
 
 ----------------
 From Our Sponsor
