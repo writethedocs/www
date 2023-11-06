@@ -11,7 +11,7 @@
   abstract: '<p>This moderated session will feature four experienced documentarians
     from different backgrounds sharing their impressions of what''s happening in the
     industry today, and how it may shape our future.</p>
-    <p>Check out the <a href=”https://www.writethedocs.org/conf/australia/2023/panel/”>
+    <p>Check out the <a href="/conf/australia/2023/panel/">
     Discussion Panel</a> page for more detail.</p>'
 - title: 'Museums to docs: managing the unmanageable documentation'
   slug: museums-to-docs-managing-the-unmanageable-documentation-leisa-taylor
@@ -74,7 +74,7 @@
     By embracing STE, participants will gain insights into how this linguistic paradigm
     shift can help organisations across diverse sectors enhance clarity, efficiency,
     and comprehension in their software-related communication.</p>
-    <p> Check out the <a href=”https://www.writethedocs.org/conf/australia/2023/workshop-ste/”>STE Workshop</a> page for more detail.</p>
+    <p> Check out the <a href="/conf/australia/2023/workshop-ste/">STE Workshop</a> page for more detail.</p>
 - title: Understanding AI and helping it understand you
   slug: understanding-ai-and-helping-it-understand-you-sarah-maddox
   series: Write the Docs Australia
