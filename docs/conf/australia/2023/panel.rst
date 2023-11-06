@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 
 Discussion Panel: Tech Comms Today
-=============================
+===================================
 
 In a first for Write the Docs conferences everywhere, we’re thrilled to announce a thought-provoking discussion panel: "Tech Comms Today."
 
