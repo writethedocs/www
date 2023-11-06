@@ -71,44 +71,30 @@ Ultimately, there was a consensus that the task was complex. For a more comprehe
 From Our Sponsor
 ----------------
 
-This month’s newsletter is sponsored by Heretto:
+This month’s newsletter is sponsored by JetBrains Writerside:
 
-.. raw:: html
+------
 
-    <hr>
-    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
-      <tbody>
-        <tr>
-          <td width="75%">
-              <p>
-                Try a new documentation authoring solution from JetBrains 👇
-              </p>
-              <p>
-                JetBrains is well-known for its software development tools. Writerside is our first solution aimed at technical writers — and developers contributing to documentation. 
-              </p>
-              <p>
-                Writerside gives you the whole docs-as-code pipeline out of the box:
-              </p>
-              <ul>
-                <li>Support for both Markdown and XML</li>
-                <li>Live preview and local build</li>
-                <li>Doc quality automation</li>
-                <li>Single-source support</li>
-                <li>And more</li>
-              </ul>
-              <p>
-                Help us create the best solution for developers and writers alike 🤓 😎 -> <a href="https://jb.gg/writerside">Join the Early Access Program!</a>
-              </p>
-          </td>
-          <td width="25%">
-            <a href="https://jb.gg/writerside">
-              <img style="margin-left: 15px;" alt="JB Writerside logo" src="/_static/img/sponsors/JB_Writerside_logo.png">
-            </a>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-    <hr>
+.. image:: /_static/img/sponsors/JB_Writerside_logo.png
+  :align: center
+  :target: https://jb.gg/writerside
+  :alt: JetBrains Writerside logo
+
+Try a new documentation authoring solution from JetBrains 👇 
+
+JetBrains is well-known for its software development tools. Writerside is our first solution aimed at technical writers — and developers contributing to documentation. 
+
+Writerside gives you the whole docs-as-code pipeline out of the box:
+
+* Support for both Markdown and XML
+* Live preview and local build
+* Doc quality automation
+* Single-source support
+* And more
+
+Help us create the best solution for developers and writers alike 🤓 😎 -> `Join the Early Access Program! <https://jb.gg/writerside>`__
+
+------
 
 *Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
 
