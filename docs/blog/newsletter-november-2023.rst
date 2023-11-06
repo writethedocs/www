@@ -19,9 +19,9 @@ The newsletter this month covers whether and how to publish logs of changes to d
 Changelogs for Docs
 -------------------
 
-Technical writers often publish product-focused changelogs or release notes that describe new product features and fixes but may also publish changelogs that list new and updated content in the docs themselves. Tech writers might need to provide a docs changelog to satisfy standards like ISO, inform technical support engineers of new docs that can help with support cases, or ensure that stakeholders like marketing and product know about docs they can refer to in their materials. Docs changelogs are also useful for highlighting the quality and volume of the work the docs team does, building goodwill and enhancing the team's reputation throughout the organization.
+Technical writers often publish product-focused changelogs or release notes that describe new product features and fixes but may also publish changelogs that list new and updated content in the docs themselves. Tech writers might need to provide a docs changelog to satisfy standards like ISO, inform technical support engineers of new docs that can help with support cases, or ensure that stakeholders like marketing and product know about docs they can refer to in their materials. Docs changelogs are also useful for highlighting the quality and volume of the work the docs team does, building goodwill, and enhancing the team's reputation throughout the organization.
 
-Some writers collect their own commit messages as the basis for docs changelogs, either manually or with a tool based on a standard like `Conventional Commits <https://www.conventionalcommits.org/en/v1.0.0/>`_ that helps automate changelog builds. The `TinyMCE changelog <https://github.com/tinymce/tinymce-docs/blob/staging/docs-6/changelog.md>`__ is an example of a commit-based changelog. Others rely on features that are built in to the documentation tools they already use, like page histories that make it easier to figure out what changed. When you're deciding what to include, focus on new content and substantial updates and omit typo corrections and style changes.
+Some writers collect their own commit messages as the basis for docs changelogs, either manually or with a tool based on a standard like `Conventional Commits <https://www.conventionalcommits.org/en/v1.0.0/>`_ that helps automate changelog builds. The `TinyMCE changelog <https://github.com/tinymce/tinymce-docs/blob/staging/docs-6/changelog.md>`__ is an example of a commit-based changelog. Others rely on features that are built in to the documentation tools they already use, like page histories that make it easier to figure out what changed. When you're deciding what to include, consider focusing on new content and substantial updates and perhaps omitting typo corrections and style changes.
 
 Distribution methods for docs changelogs naturally depend on the intended audience. For example, you might share an internal-only changelog via the company Slack workspace or other established employee communication channels. For external audiences, the changelog might be published in the docs or posted in the docs repository. 
 
@@ -47,7 +47,7 @@ Measuring Docs Quality
 
 Evaluating documentation quality is a common practice, but it often presents a unique set of challenges. A recent conversation shed light on the complexities involved in this process, offering insights into how to approach it effectively.
 
-One person shared the dilemma of having to rate around 200 articles in their knowledge base on a scale of 1–5, all within a tight timeframe. The request came from their CTO, who believed it would only take 10 minutes.
+One person shared the dilemma of having to rate hundreds of articles in their knowledge base for quality within a tight timeframe. The request came from their CTO, who believed it would only take a few minutes in total.
 
 The conversation revealed a range of questions and concerns. First and foremost, people wondered about the purpose behind such an evaluation. Some speculated that it might set a baseline for future improvements, while others considered it a potential case for securing additional resources. Without clear initial motivations, the task becomes much more challenging.
 
@@ -61,7 +61,7 @@ Some suggested the development of a rubric to assess documentation quality, focu
 - Language
 - Visuals
 
-People emphasized that such an approach to measuring quality would take considerably more than the initially suggested 10 minutes. This led to the observation that it's important to clarify from the start the extent of rigor expected in the evaluation.
+People emphasized that such an approach to measuring quality would take considerably more than the initially suggested timeframe. This led to the observation that it's important to clarify from the start the extent of rigor expected in the evaluation.
 
 Someone pointed out the difficulty of measuring the usefulness of documentation when you’re not the end user, stressing the importance of identifying the reader and the document’s purpose.
 
