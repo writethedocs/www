@@ -16,6 +16,9 @@
                           {% if shortcode == "australia" %}
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/workshop-ste') }}">STE Workshop</a></li>
                           {% endif %}
+                          {% if shortcode == "australia" %}
+                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/panel') }}">Discussion Panel</a></li>
+                          {% endif %}
                           {% if flaghasjobfair %}
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/job-fair') }}">Sponsor Expo</a></li>
                           {% endif %}
