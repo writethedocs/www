@@ -5,15 +5,15 @@
 Write the Docs Newsletter – November 2023
 #########################################
 
-Salutations, documentarians. I hope you are able to find things in your life to be thankful for and also the time to be able to appreciate them. I'm thankful for the wonderful community of documentarians at Write the Docs and the insights they freely share with us every month.
+Salutations, documentarians. I hope you are able to find things in your life to be thankful for and also the time to be able to appreciate them. I'm thankful for the wonderful community of documentarians at Write the Docs and the insights they freely share with us every day.
 
-Have you filled out the `2023 Documentation Salary Survey <https://salary-survey.writethedocs.org/>`_ yet? If you have, we appreciate you - is there a friend or colleague you could spread the word to? If you haven't, please consider adding your data - the insights become more valuable with every submission. 
+Have you filled out the `2023 Documentation Salary Survey <https://salary-survey.writethedocs.org/>`_ yet? If you have, we appreciate you – is there a friend or colleague you could spread the word to? If you haven't, please consider adding your data – the insights become more valuable with every submission. 
 
-A special call to contractors, freelancers and self-employed people: to publish meaningful median rates, we still need a lot more data. The questions for non-employees have been updated to cater to a variety of independent work situations, and if they don't fit for you, please let us know in the feedback section of your submission how we can make it better.
+A special call to contractors, freelancers, and self-employed people: to publish meaningful median rates, we still need a lot more data. The questions for non-employees have been updated to cater to a variety of independent work situations, and if they don't fit for you, please let us know in the feedback section of your submission how we can make it better.
 
 In conference news, the Australia conference has now published its `full schedule </conf/australia/2023/news/announcing-speakers/>`__. Be sure to `book a ticket </conf/australia/2023/tickets/>`__ while you still can. And the Portland conference has announced `dates for 2024 </conf/portland/2024/news/welcome/>`__, so you can start making plans already.
 
-The newsletter this month covers whether and how to publish logs of changes to docs (not products), how the organization of docs teams might affect people on them, and how to measure the quality of docs.
+The newsletter this month covers whether and how to publish logs of changes to docs themselves, how the organization of docs teams might affect people on them, and how to measure the quality of docs.
 
 -------------------
 Changelogs for Docs
