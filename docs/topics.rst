@@ -166,6 +166,7 @@ In-app documentation
 Release notes
 ~~~~~~~~~~~~~~
 
+- |:newspaper:| `Changelogs for Docs </blog/newsletter-november-2023/#changelogs-for-docs>`__
 - |:newspaper:| `Do we tell users what’s new in the docs? </blog/newsletter-march-2020/#do-we-tell-users-what-s-new-in-the-docs>`__
 - |:movie_camera:| `Learning to love release notes </videos/prague/2018/learning-to-love-release-notes-anne-edwards/>`__
 
@@ -355,6 +356,7 @@ Building a team
 
 Including onboarding new writers
 
+- |:newspaper:| `Doc Team Organization </blog/newsletter-november-2023/#doc-team-organization>`__
 - |:newspaper:| `When less is NOT more </blog/newsletter-february-2023/#when-less-is-not-more>`__
 - |:movie_camera:| `How I convinced my boss to build our docs team </videos/prague/2022/how-i-convinced-my-boss-to-build-our-docs-team-karissa-van-baulen/>`__
 - |:movie_camera:| `From Me to Us: Building a docs team from the ground up </videos/portland/2022/from-me-to-us-building-a-docs-team-from-the-ground-up-lana-brindley-she-her/>`__
@@ -600,6 +602,7 @@ Measuring docs success
 Metrics
 ~~~~~~~
 
+- |:newspaper:| `Measuring Docs Quality </blog/newsletter-november-2023/#doc-team-organization>`__
 - |:movie_camera:| `Measuring the impact of your documentation </videos/prague/2018/measuring-the-impact-of-your-documentation-liam-keegan/>`__
 - |:newspaper:| `Documentation metrics </blog/newsletter-september-2017/#resources-for-documentation-metrics>`__
 - |:newspaper:| `More on metrics </blog/newsletter-april-2017/#documentation-metrics-what-to-track-and-how>`__
