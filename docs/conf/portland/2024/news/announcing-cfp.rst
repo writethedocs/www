@@ -37,7 +37,7 @@ This conference will be entirely virtual, in a timezone that works for as many p
 Tickets
 -------
 
-Tickets will officially go on sale early **2024**.
+Tickets will go on sale {{ tickets_live }}.
 
 As always, we keep ticket prices low so that the event is accessible to the widest range of people possible.
 However, if you can't afford the tickets and still wish to attend, we will launch our grants program soon after opening ticket sales.
