@@ -24,6 +24,8 @@ Submit your questions
 
 Help guide what the panel talks about. Got a burning question about docs tools, AI, recruitment, or dealing with challenging SMEs? We want to hear it! You'll have the opportunity to submit your questions and topics throughout the conference. 
 
+<iframe src="https://app.sli.do/event/cTyqznYbkECkDrEc2k9fm5" height="100%" width="100%" frameBorder="0" style="min-height: 560px;" title="Slido"></iframe>
+
 
 Join us for an engaging conversation
 -------------------------------------------------
