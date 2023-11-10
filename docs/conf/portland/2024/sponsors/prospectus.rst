@@ -9,7 +9,7 @@ Introduction
 
 Welcome to the Write the Docs {{ city }} {{ year }} sponsorship prospectus.
 We're excited to work with the organizations in our community to build the best documentation event in {{ year }}.
-Created in 2013 in Portland, Oregon, WTD has hosted conferences around the world in Prague, Berlin, Amsterdam, London and Melbourne.
+Created in 2013 in Portland, Oregon, WTD has hosted conferences around the world in Prague, Berlin, Sydney, London, and Melbourne.
 We’re excited to celebrate year 12 with your support!
 
 We expanded the offerings and introduced a lot of new things,
@@ -19,7 +19,7 @@ Concept
 =======
 
 Write the Docs (https://www.writethedocs.org/) is a
-**three day conference**, {{ date.short }} focusing on documentation systems, tech writing
+**three day conference** held on {{ about.date }} focusing on documentation systems, tech writing
 theory, and information delivery.
 
 Writing and maintaining documentation involves a multidisciplinary
@@ -34,14 +34,13 @@ and science of documentation.
 Demographics
 ============
 
-
 Our audience is primarily from companies in the software industry.
 
 Each conference we sell:
 
-* 80% Corporate tickets
-* 15% Independent tickets
-* 5% Student tickets
+* 70% Corporate tickets
+* 20% Independent tickets
+* 10% Student tickets
 
 For those people, they have a range of job titles.
 The most common job title is **Technical Writer**,
@@ -84,13 +83,12 @@ It's great for sending folks to the conference,
 and showing support for the community.
 
 Benefits
-~~~~~~~~
+^^^^^^^^
 
-- Three (3) tickets_
+- Two (2) tickets_, with additional available to purchase at a discounted rate of $500/ticket
 - A small logo & short text content (250 characters) on the conference website
 - Name included in welcome announcement in email newsletters and social media
 - Display promotional (“Swag”) items on the conference swag table (provided by sponsor)
-
 
 Publisher
 ---------
@@ -100,15 +98,13 @@ Publisher
 The **Publisher** package gets you a larger website presence and a visible on-site presence at our Sponsor Expo.
 
 Benefits
-~~~~~~~~
+^^^^^^^^
 
-- Seven (7) tickets_
+- Two (2) tickets_, with additional available to purchase at a discounted rate of $500/ticket
 - A medium logo & short text content (250 characters) on the conference website
 - Name included in welcome announcement in email newsletters and social media
 - Display promotional (“Swag”) items on the conference swag table (provided by sponsor)
-- Benefits from *either* the Hiring or Product package
-- A table at our **sponsor expo**
-- Three (3) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+- Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 - One product promotion highlight in our conference mailing list. Includes logo and 2 paragraphs of copy.
 
 
@@ -117,38 +113,38 @@ Patron
 
 **{{sponsorship.patron.price}}**
 
-The **Patron** package gives you a full-time on-site booth at the conference, and one additional interaction point for hiring or product promotion.
+The **Patron** package gives you a full-time on-site booth at the conference
 
 Benefits
-~~~~~~~~
+^^^^^^^^
 
-- Seven (7) tickets_
-- A **sponsorship booth**
-- Small logo included in intermission slides and on talk videos
+- Five (5) tickets_, with additional available to purchase at a discounted rate of $500/ticket
+- A **sponsorship booth** for the entire conference
+- A logo included in intermission slides and on talk videos
 - A large logo and long description (750 characters) on the conference website
 - Name included in welcome announcement in email newsletters and social media
-- Three (3) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+- Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
 - One product promotion highlight in our conference mailing list. Includes logo and 2 paragraphs of copy.
 
 Keystone
 --------
 
-**{{sponsorship.keystone.price}}**
+**{{sponsorship.keystone.price}}** - **Limit 2**
 
 The **Keystone** sponsorship highlights you as the primary sponsor of the conference. You get all in-person benefits, and the best placement for all physical spaces.
 
 Benefits
-~~~~~~~~
+^^^^^^^^
 
-- Ten (10) tickets_
-- The most visible **sponsorship booth**
+- Five (5) tickets_, with additional available to purchase at a discounted rate of $500/ticket
+- Most visible **sponsorship booth** location
 - Large logo included in intermission slides and on talk videos
 - A large logo and long description (750 characters) on the conference website
 - Name included in welcome announcement in email newsletters and social media
-- A table at our **sponsor expo**
 - Five (5) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- A 1 hour **sponsored tutorial** at the conference
-- One product promotion highlight in our conference mailing list. Includes logo and 2 paragraphs of copy.
+- Sponsorship of a primary Write the Docs conference event
+- Sponsorship promotion in Write the Docs Slack channel ahead of the conference
+- Sponsorship promotion in the Portland conference newsletter in conference welcome message
 
 
 Other Sponsorship Opportunities
@@ -157,7 +153,7 @@ Other Sponsorship Opportunities
 The following a la carte offerings are available either independently or
 combined with one of the previous packages to increase visibility at the event.
 
-Opportunity Grants - 
+Opportunity Grants
 ------------------
 
 **{{sponsorship.second_draft.price}}**
@@ -166,7 +162,7 @@ Provide additional funding for our Opportunity Grant program, which supports equ
 These individuals would otherwise not be able to attend. 
 
 Benefits
-~~~~~~~~
+^^^^^^^^
 
 * Your sponsor logo will be shown on the stage during all staff presentations as a grant sponsor (opening, closing).
 * We will mention your company as a grant sponsor on Twitter from the official Write the Docs account
@@ -180,6 +176,12 @@ Sponsor the Writing Day on Sunday, where we get together to help improve the doc
 This is great for any company that is looking for contributors to their open source projects.
 
 - **Logistics**: The Writing Day is Sunday only.
+
+Benefits
+^^^^^^^^
+
+* Your sponsor logo will be shown on the stage during all staff presentations as a Writing Day sponsor (opening, closing).
+* We will mention your company as the Writing Day sponsor on Twitter from the official Write the Docs account
 
 Inquiries
 =========
