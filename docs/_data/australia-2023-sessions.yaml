@@ -1,18 +1,3 @@
-- title: Tech Comms Today - Discussion Panel
-  slug: tech-comms-today-discussion-panel-felicity-brand
-  series: Write the Docs Australia
-  series_slug: australia
-  year: 2023
-  speakers:
-  - name: Felicity Brand
-    slug: felicity-brand
-    twitter: 
-    website: 
-  abstract: '<p>This moderated session will feature four experienced documentarians
-    from different backgrounds sharing their impressions of what''s happening in the
-    industry today, and how it may shape our future.</p>
-    <p>Check out the <a href="/conf/australia/2023/panel/">
-    Discussion Panel</a> page for more detail.</p>'
 - title: 'Museums to docs: managing the unmanageable documentation'
   slug: museums-to-docs-managing-the-unmanageable-documentation-leisa-taylor
   series: Write the Docs Australia
@@ -21,8 +6,8 @@
   speakers:
   - name: Leisa Taylor
     slug: leisa-taylor
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>As a museum consultant, I triaged difficult (and sometimes dangerous)
     collections. Museums I worked with managed tens of thousands of items. Every item
     has a database record containing every scrap of information known. Museum staff
@@ -63,8 +48,8 @@
   speakers:
   - name: Shumin Chen
     slug: shumin-chen
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: <p>Simplified Technical English (STE) started in the aerospace industry,
     where it emerged as a solution to address language, communication, and documentation
     challenges. While it initially served the defence sector, STE’s inherent versatility
@@ -83,8 +68,8 @@
   speakers:
   - name: Sarah Maddox
     slug: sarah-maddox
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Let’s take a practical, current look at AI, including ChatGPT and
     Bard. AI technology is fascinating, fast-moving, and slightly scary. This talk
     shares what I’ve learned about how AI works and how we can think about it in relation
@@ -117,7 +102,7 @@
 
     <li>Embeddings as a way of helping an LLM use your docs as a trusted source of relevant
     information</li>
-    
+
     </ul>'
 - title: I will survive (weren't you the one who tried to hurt me with "Goodbye"?)
   slug: i-will-survive-weren-t-you-the-one-who-tried-to-hurt-me-with-goodbye-lana-brindley-steve-kowalik
@@ -127,12 +112,12 @@
   speakers:
   - name: Lana Brindley (she/her)
     slug: lana-brindley-she-her
-    twitter: 
-    website: 
+    twitter:
+    website:
   - name: Steve Kowalik (he/him)
     slug: steve-kowalik-he-him
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: <p>Inspired by the disco-classic by Gloria Gaynor, Steve and Lana discuss
     the various job rejections they've experienced over far too many years, with hair-raising
     stories from friends and colleagues, and examine the reasons why employers treat
@@ -145,8 +130,8 @@
   speakers:
   - name: Claire Mahoney
     slug: claire-mahoney
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: "<p>It seems to be a regular wish of content designers and technical writers
     everywhere to go back in time and be there when the big decisions get made. We
     want to have a seat at the table and be part of tooling choices, strategy discussions,
@@ -167,8 +152,8 @@
   speakers:
   - name: Paul Gustafson
     slug: paul-gustafson
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Imagine your job is to help a software project produce high-quality
     documentation. The current documentation is incomplete, confusing, out of date,
     and poorly organized. While the leaders of the project recognize the current documentation
@@ -189,8 +174,8 @@
   speakers:
   - name: Rhiannon Hall
     slug: rhiannon-hall
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>For projects in any field, accessibility is an essential part of both
     development and the end product. Unfortunately accessibility is often an afterthought
     in design processes, and a lack of clear and effective documentation can be a
@@ -238,8 +223,8 @@
   speakers:
   - name: Yvonne Perkins
     slug: yvonne-perkins
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>In many workplaces, people who do not see themselves as writers are
     required to write technical documentation. Engineers are often required to write
     the first draft document which may or may not be refined in a subsequent review
@@ -266,8 +251,8 @@
   speakers:
   - name: Janet Revell
     slug: janet-revell
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>"I''m not here to learn about your product. If your documentation
     doesn''t answer my question or solve my problem, I''m not interested." That actual
     quote from an actual Site Reliability Engineer neatly summarizes my goal as a
@@ -297,8 +282,8 @@
   speakers:
   - name: Renee Carignan
     slug: renee-carignan
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>When it comes to quantifying the "success" of documentation, trying
     to use metrics to figure out if your docs are actually helping people can be a
     daunting and frustrating task. Most analytics tools were built primarily with
