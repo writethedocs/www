@@ -264,7 +264,7 @@ flaghasschedule: False
 flagscheduleincomplete: True
 flaghasunconf: True
 flaghasshirts: True
-flaglivestreaming: True
+flaglivestreaming: False
 flagvideos: False
 flagpostconf: False
 
