@@ -82,13 +82,13 @@ tickets:
 
 sponsorship:
   second_draft:
-    price: $3,500
+    price: $2,500
   publisher:
-    price: $5,500
+    price: $5,000
   patron:
-    price: $9,500
+    price: $7,500
   keystone:
-    price: $17,500
+    price: $12,500
 
 grants:
   url: 'https://docs.google.com/forms/d/e/1FAIpQLSfA1G4jnsUTWQeQnUtUJ3QUFcwokEAH8MrMamFaNs64LN-5Xg/viewform'
