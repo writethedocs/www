@@ -15,8 +15,8 @@ We’re excited to celebrate year 12 with your support!
 Concept
 =======
 
-Write the Docs (https://www.writethedocs.org/) is a
-**three day conference** held on {{ about.date }} focusing on documentation systems, tech writing
+Write the Docs {{ city }} is a
+**three day conference** held on {{ date.short }} focusing on documentation systems, tech writing
 theory, and information delivery.
 
 Writing and maintaining documentation involves a multidisciplinary
@@ -83,11 +83,11 @@ Benefits
 - Large logo included in intermission slides and on talk videos.
 - Logo and long description (500 characters) on the conference website.
 - Logo in conference email promotion.
-- Dedicated social media post on LinkedIn and Twitter.
 - Display promotional “Swag” items on the conference swag table (provided by sponsor).
-- Five (5) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
-- One product promotion highlight in our conference email list. Includes logo and 2 paragraphs of copy.
-- Sponsorship promotion in Write the Docs Slack channel ahead of the conference.
+- Dedicated social media post on LinkedIn and Twitter.
+- Three (3) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
+- One email promotion to our conference email list. Includes logo and 2 paragraphs of copy.
+- Slack Sponsorship promotion in Write the Docs Slack channel ahead of the conference.
 
 Patron
 ------
@@ -102,13 +102,12 @@ Benefits
 - Five (5) tickets_, with additional available to purchase at a discounted rate of $500/ticket.
 - A **sponsorship booth** for the entire conference.
 - Logo included in intermission slides and on talk videos.
-- Logo and description (250) characters) on the conference website.
+- Logo and description (250 characters) on the conference website.
 - Logo in conference email promotion.
 - Display promotional “Swag” items on the conference swag table (provided by sponsor).
 - Dedicated social media post on LinkedIn and Twitter.
 - Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
-- One product promotion highlight in our conference email list. Includes logo and 2 paragraphs of copy.
-
+- One email promotion to our conference email list. Includes logo and 2 paragraphs of copy.
 
 Publisher
 ---------
@@ -122,11 +121,10 @@ Benefits
 
 - Two (2) tickets_, with additional available to purchase at a discounted rate of $500/ticket.
 - A table at our **Sponsor Expo** on Tuesday morning of the conference, where you can promote job openings or a product.
-- Logo incuded on the conference website. 
-- Name included in welcome announcement in email newsletters and social media
+- Logo on the conference website.
+- Name included in all conference emails to attendees.
 - Display promotional “Swag” items on the conference swag table (provided by sponsor).
 - Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
-- One product promotion highlight in our conference email list. Includes logo and 2 paragraphs of copy.
 
 Second Draft
 ------------
@@ -140,7 +138,7 @@ Benefits
 
 - Two (2) tickets_, with additional available to purchase at a discounted rate of $500/ticket.
 - Logo on the conference website.
-- Name included in welcome announcement in email newsletters and social media.
+- Name included in all conference emails to attendees.
 - Display promotional (“Swag”) items on the conference swag table (provided by sponsor).
 
 Other Sponsorship Opportunities
@@ -152,11 +150,11 @@ combined with one of the previous packages to increase visibility at the event.
 Lightning Talks
 ---------------
 
-**{{sponsorship.publisher.price}}**
+**3,500** - **Limit 2**
 
-Sponsor the Lightning Talks, where attendees have 5 minutes to share something they are excited about working on.
+Sponsor one day of Lightning Talks, where attendees have 5 minutes to share something they are excited about working on.
 This dynamic part of the conference is on the main stage,
-and you'll have a chance to get in front of our attendees for a talk.
+and you'll have a chance to get in front of our attendees for a lightning talk.
 
 - **Logistics**: Lightning Talks are Monday & Tuesday after lunch
 
@@ -164,14 +162,14 @@ Benefits
 ^^^^^^^^
 
 - A 5-minute sponsored lightning talk slot, where you can highlight anything interesting you'd like to share with the community.
-- Logo will be shown on the stage during all staff presentations as the Lightning Talk sponsor (opening, closing).
+- Logo will be shown on the stage during all staff presentations as a Lightning Talk sponsor.
 - Logo on the conference website.
 - Name included in welcome announcement in email newsletters and social media.
 
 Opportunity Grants
 ------------------
 
-**{{sponsorship.second_draft.price}}**
+**$3,500** - **Limit 2**
 
 Provide additional funding for our Opportunity Grant program, which supports equity and accessibility and provides funding for low-income, marginalized people to attend the conference. 
 These individuals would otherwise not be able to attend. 
