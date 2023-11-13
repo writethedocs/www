@@ -138,11 +138,11 @@ Benefits
 
 - Five (5) tickets_, with additional available to purchase at a discounted rate of $500/ticket.
 - Most visible **sponsorship booth** location.
+- Sponsorship of a primary Write the Docs conference event (Unconference, Lightning Talks, Writing Day).
 - Large logo included in intermission slides and on talk videos.
-- A large logo and long description on the conference website.
+- A large logo and long description (750 characters) on the conference website.
 - Name included in welcome announcement in email newsletters and social media.
 - Five (5) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
-- Sponsorship of a primary Write the Docs conference event.
 - Sponsorship promotion in Write the Docs Slack channel ahead of the conference.
 - Sponsorship promotion in the Portland conference newsletter in conference welcome message.
 
@@ -170,7 +170,7 @@ Benefits
 Writing Day
 -----------
 
-**{{sponsorship.second_draft.price}}**
+**{{sponsorship.publisher.price}}**
 
 Sponsor the Writing Day on Sunday, where we get together to help improve the documentation of many projects.
 This is great for any company that is looking for contributors to their open source projects.
@@ -180,8 +180,45 @@ This is great for any company that is looking for contributors to their open sou
 Benefits
 ^^^^^^^^
 
-* Your sponsor logo will be shown on the stage during all staff presentations as a Writing Day sponsor (opening, closing).
-* We will mention your company as the Writing Day sponsor on Twitter from the official Write the Docs account
+* A dedicated table at Writing Day, to easily get attendees to engage with contributing to your projects.
+* Your sponsor logo will be shown on the stage during all staff presentations as the Writing Day sponsor (opening, closing).
+* We will mention your company as the Writing Day sponsor on social media from the official Write the Docs account
+
+Unconference
+-----------
+
+**{{sponsorship.publisher.price}}**
+
+Sponsor the Unconference, where attendees gather and discuss ideas throughout the main conference days.
+This is great for any company that is looking to have in-depth conversations with our attendees throughout the event outside of the sponsor area.
+
+- **Logistics**: The Unconference is all day Monday & Tuesday
+
+Benefits
+^^^^^^^^
+
+* A dedicated table during the Unconference, which can be scheduled with different discussions throughout the conference.
+* Your sponsor logo will be shown on the stage during all staff presentations as the Unconference sponsor (opening, closing).
+* We will mention your company as the Unconference sponsor on social media from the official Write the Docs account
+
+Lightning Talks
+---------------
+
+**{{sponsorship.publisher.price}}**
+
+Sponsor the Lightning Talks, where attendees have 5 minutes to share something they are excited about working on.
+This dynamic part of the conference is on the main stage,
+and you'll have a chance to get in front of our attendees for a talk.
+
+- **Logistics**: Lightning Talks are Monday & Tuesday after lunch
+
+Benefits
+^^^^^^^^
+
+* A sponsored lightning talk slot, where you can highlight anything interesting you'd like to share with the community.
+* Your sponsor logo will be shown on the stage during all staff presentations as the Lightning Talk sponsor (opening, closing).
+* We will mention your company as the Lightning Talk sponsor on social media from the official Write the Docs account
+
 
 Inquiries
 =========
