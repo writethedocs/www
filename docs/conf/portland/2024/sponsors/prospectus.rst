@@ -156,8 +156,6 @@ Sponsor one day of Lightning Talks, where attendees have 5 minutes to share some
 This dynamic part of the conference is on the main stage,
 and you'll have a chance to get in front of our attendees for a lightning talk.
 
-- **Logistics**: Lightning Talks are Monday & Tuesday after lunch
-
 Benefits
 ^^^^^^^^
 
