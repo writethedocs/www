@@ -1,5 +1,8 @@
-Run of Show
-===========
+:template: {{year}}/generic.html
+:banner: _static/conf/images/headers/{{ shortcode }}-group.png
+
+Sponsor Run of Show
+===================
 
 {% if not flagrunofshow %}
 

@@ -79,8 +79,7 @@ Second Draft
 **{{sponsorship.second_draft.price}}**
 
 The **Second Draft** package gives you visibility on the conference website and communications.
-It's great for sending folks to the conference,
-and showing support for the community.
+It's great for a startup or small company to send a couple folks and support the community.
 
 Benefits
 ^^^^^^^^
@@ -95,16 +94,17 @@ Publisher
 
 **{{sponsorship.publisher.price}}**
 
-The **Publisher** package gets you a larger website presence and a visible on-site presence at our Sponsor Expo.
+The **Publisher** package is great for a company looking to hire or promote a product. You'll get an on-site presense for part of the conference.
 
 Benefits
 ^^^^^^^^
 
-- Two (2) tickets_, with additional available to purchase at a discounted rate of $500/ticket
-- A medium logo & short text content (250 characters) on the conference website
-- Name included in welcome announcement in email newsletters and social media
-- Display promotional (“Swag”) items on the conference swag table (provided by sponsor)
-- Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+- Two (2) tickets_, with additional available to purchase at a discounted rate of $500/ticket.
+- A table at our **Sponsor Expo** on Tuesday morning of the conference, where you can promote job openings or a product.
+- A medium logo & short text content (250 characters) on the conference website.
+- Name included in welcome announcement in email newsletters and social media.
+- Display promotional (“Swag”) items on the conference swag table (provided by sponsor).
+- Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
 - One product promotion highlight in our conference mailing list. Includes logo and 2 paragraphs of copy.
 
 
@@ -113,17 +113,17 @@ Patron
 
 **{{sponsorship.patron.price}}**
 
-The **Patron** package gives you a full-time on-site booth at the conference
+The **Patron** package is great for a larger company to get in front of our attendees. It gives you a dedicated booth for the entire length of the conference.
 
 Benefits
 ^^^^^^^^
 
-- Five (5) tickets_, with additional available to purchase at a discounted rate of $500/ticket
-- A **sponsorship booth** for the entire conference
-- A logo included in intermission slides and on talk videos
-- A large logo and long description (750 characters) on the conference website
-- Name included in welcome announcement in email newsletters and social media
-- Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+- Five (5) tickets_, with additional available to purchase at a discounted rate of $500/ticket.
+- A **sponsorship booth** for the entire conference.
+- A logo included in intermission slides and on talk videos.
+- A large logo and long description (750 characters) on the conference website.
+- Name included in welcome announcement in email newsletters and social media.
+- Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
 - One product promotion highlight in our conference mailing list. Includes logo and 2 paragraphs of copy.
 
 Keystone
@@ -136,15 +136,15 @@ The **Keystone** sponsorship highlights you as the primary sponsor of the confer
 Benefits
 ^^^^^^^^
 
-- Five (5) tickets_, with additional available to purchase at a discounted rate of $500/ticket
-- Most visible **sponsorship booth** location
-- Large logo included in intermission slides and on talk videos
-- A large logo and long description (750 characters) on the conference website
-- Name included in welcome announcement in email newsletters and social media
-- Five (5) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- Sponsorship of a primary Write the Docs conference event
-- Sponsorship promotion in Write the Docs Slack channel ahead of the conference
-- Sponsorship promotion in the Portland conference newsletter in conference welcome message
+- Five (5) tickets_, with additional available to purchase at a discounted rate of $500/ticket.
+- Most visible **sponsorship booth** location.
+- Large logo included in intermission slides and on talk videos.
+- A large logo and long description on the conference website.
+- Name included in welcome announcement in email newsletters and social media.
+- Five (5) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
+- Sponsorship of a primary Write the Docs conference event.
+- Sponsorship promotion in Write the Docs Slack channel ahead of the conference.
+- Sponsorship promotion in the Portland conference newsletter in conference welcome message.
 
 
 Other Sponsorship Opportunities
