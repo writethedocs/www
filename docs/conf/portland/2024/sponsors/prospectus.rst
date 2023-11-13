@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/conf/images/headers/{{ shortcode }}-group.png
+:banner: _static/conf/images/headers/portland-group-2023.jpg
 
 Sponsorship Prospectus
 ######################
@@ -11,9 +11,6 @@ Welcome to the Write the Docs {{ city }} {{ year }} sponsorship prospectus.
 We're excited to work with the organizations in our community to build the best documentation event in {{ year }}.
 Created in 2013 in Portland, Oregon, WTD has hosted conferences around the world in Prague, Berlin, Sydney, London, and Melbourne.
 We’re excited to celebrate year 12 with your support!
-
-We expanded the offerings and introduced a lot of new things,
-but please let us know if there are other points of interaction with our community that would be valuable for you.
 
 Concept
 =======
@@ -42,9 +39,7 @@ Each conference we sell:
 * 20% Independent tickets
 * 10% Student tickets
 
-For those people, they have a range of job titles.
-The most common job title is **Technical Writer**,
-but we have many other people who attend our conferences:
+Each conference is attended by:
 
 - Technical Writers (60%)
 - Developers (10%)
@@ -55,8 +50,8 @@ but we have many other people who attend our conferences:
 Why Sponsor
 ===========
 
-By supporting a Write the Docs event, your company will gain not only visibility
-and credibility with front-line documentarians, but also valuable
+By supporting a Write the Docs event, your company will gain visibility
+and credibility with front-line documentarians, and valuable
 insights that will help you get the most out of your own documentation efforts.
 If you're hiring for docs positions, Write the Docs is also an excellent
 opportunity to meet top-notch talent.
@@ -70,43 +65,29 @@ and the people who build it.
 Sponsorship Packages
 ====================
 
-We can also customize sponsorships are required,
-so let us know what you need!
+All packages can be customized, so let us know what you need!
 
-Second Draft
-------------
+Keystone
+--------
 
-**{{sponsorship.second_draft.price}}**
+**{{sponsorship.keystone.price}}** - **Limit 2**
 
-The **Second Draft** package gives you visibility on the conference website and communications.
-It's great for a startup or small company to send a couple folks and support the community.
+The **Keystone** sponsorship highlights you as the primary sponsor of the conference. You get all in-person benefits,  and the best placement for all physical spaces.
 
 Benefits
 ^^^^^^^^
 
-- Two (2) tickets_, with additional available to purchase at a discounted rate of $500/ticket
-- A small logo & short text content (250 characters) on the conference website
-- Name included in welcome announcement in email newsletters and social media
-- Display promotional (“Swag”) items on the conference swag table (provided by sponsor)
-
-Publisher
----------
-
-**{{sponsorship.publisher.price}}**
-
-The **Publisher** package is great for a company looking to hire or promote a product. You'll get an on-site presense for part of the conference.
-
-Benefits
-^^^^^^^^
-
-- Two (2) tickets_, with additional available to purchase at a discounted rate of $500/ticket.
-- A table at our **Sponsor Expo** on Tuesday morning of the conference, where you can promote job openings or a product.
-- A medium logo & short text content (250 characters) on the conference website.
-- Name included in welcome announcement in email newsletters and social media.
-- Display promotional (“Swag”) items on the conference swag table (provided by sponsor).
-- Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
-- One product promotion highlight in our conference mailing list. Includes logo and 2 paragraphs of copy.
-
+- Five (5) tickets_, with additional available to purchase at a discounted rate of $500/ticket.
+- Most visible **sponsorship booth** location.
+- Sponsorship of a primary Write the Docs conference event (Unconference or Writing Day). Logo on print material.
+- Large logo included in intermission slides and on talk videos.
+- Logo and long description (500 characters) on the conference website.
+- Logo in conference email promotion.
+- Dedicated social media post on LinkedIn and Twitter.
+- Display promotional “Swag” items on the conference swag table (provided by sponsor).
+- Five (5) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
+- One product promotion highlight in our conference email list. Includes logo and 2 paragraphs of copy.
+- Sponsorship promotion in Write the Docs Slack channel ahead of the conference.
 
 Patron
 ------
@@ -120,86 +101,53 @@ Benefits
 
 - Five (5) tickets_, with additional available to purchase at a discounted rate of $500/ticket.
 - A **sponsorship booth** for the entire conference.
-- A logo included in intermission slides and on talk videos.
-- A large logo and long description (750 characters) on the conference website.
-- Name included in welcome announcement in email newsletters and social media.
+- Logo included in intermission slides and on talk videos.
+- Logo and description (250) characters) on the conference website.
+- Logo in conference email promotion.
+- Display promotional “Swag” items on the conference swag table (provided by sponsor).
+- Dedicated social media post on LinkedIn and Twitter.
 - Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
-- One product promotion highlight in our conference mailing list. Includes logo and 2 paragraphs of copy.
+- One product promotion highlight in our conference email list. Includes logo and 2 paragraphs of copy.
 
-Keystone
---------
 
-**{{sponsorship.keystone.price}}** - **Limit 2**
+Publisher
+---------
 
-The **Keystone** sponsorship highlights you as the primary sponsor of the conference. You get all in-person benefits, and the best placement for all physical spaces.
+**{{sponsorship.publisher.price}}**
+
+The **Publisher** package is great for a company looking to hire or promote a product. You'll get an on-site presence Tuesday morning of the conference.
 
 Benefits
 ^^^^^^^^
 
-- Five (5) tickets_, with additional available to purchase at a discounted rate of $500/ticket.
-- Most visible **sponsorship booth** location.
-- Sponsorship of a primary Write the Docs conference event (Unconference, Lightning Talks, Writing Day).
-- Large logo included in intermission slides and on talk videos.
-- A large logo and long description (750 characters) on the conference website.
-- Name included in welcome announcement in email newsletters and social media.
-- Five (5) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
-- Sponsorship promotion in Write the Docs Slack channel ahead of the conference.
-- Sponsorship promotion in the Portland conference newsletter in conference welcome message.
+- Two (2) tickets_, with additional available to purchase at a discounted rate of $500/ticket.
+- A table at our **Sponsor Expo** on Tuesday morning of the conference, where you can promote job openings or a product.
+- Logo incuded on the conference website. 
+- Name included in welcome announcement in email newsletters and social media
+- Display promotional “Swag” items on the conference swag table (provided by sponsor).
+- Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
+- One product promotion highlight in our conference email list. Includes logo and 2 paragraphs of copy.
 
+Second Draft
+------------
+
+**{{sponsorship.second_draft.price}}**
+
+The **Second Draft** package gives you visibility on the conference website and in communications. It's a great package for a startup or small company.
+
+Benefits
+^^^^^^^^
+
+- Two (2) tickets_, with additional available to purchase at a discounted rate of $500/ticket.
+- Logo on the conference website.
+- Name included in welcome announcement in email newsletters and social media.
+- Display promotional (“Swag”) items on the conference swag table (provided by sponsor).
 
 Other Sponsorship Opportunities
 ===============================
 
 The following a la carte offerings are available either independently or
 combined with one of the previous packages to increase visibility at the event.
-
-Opportunity Grants
-------------------
-
-**{{sponsorship.second_draft.price}}**
-
-Provide additional funding for our Opportunity Grant program, which supports equity and accessibility and provides funding for low-income, marginalized people to attend the conference. 
-These individuals would otherwise not be able to attend. 
-
-Benefits
-^^^^^^^^
-
-* Your sponsor logo will be shown on the stage during all staff presentations as a grant sponsor (opening, closing).
-* We will mention your company as a grant sponsor on Twitter from the official Write the Docs account
-
-Writing Day
------------
-
-**{{sponsorship.publisher.price}}**
-
-Sponsor the Writing Day on Sunday, where we get together to help improve the documentation of many projects.
-This is great for any company that is looking for contributors to their open source projects.
-
-- **Logistics**: The Writing Day is Sunday only.
-
-Benefits
-^^^^^^^^
-
-* A dedicated table at Writing Day, to easily get attendees to engage with contributing to your projects.
-* Your sponsor logo will be shown on the stage during all staff presentations as the Writing Day sponsor (opening, closing).
-* We will mention your company as the Writing Day sponsor on social media from the official Write the Docs account
-
-Unconference
------------
-
-**{{sponsorship.publisher.price}}**
-
-Sponsor the Unconference, where attendees gather and discuss ideas throughout the main conference days.
-This is great for any company that is looking to have in-depth conversations with our attendees throughout the event outside of the sponsor area.
-
-- **Logistics**: The Unconference is all day Monday & Tuesday
-
-Benefits
-^^^^^^^^
-
-* A dedicated table during the Unconference, which can be scheduled with different discussions throughout the conference.
-* Your sponsor logo will be shown on the stage during all staff presentations as the Unconference sponsor (opening, closing).
-* We will mention your company as the Unconference sponsor on social media from the official Write the Docs account
 
 Lightning Talks
 ---------------
@@ -215,10 +163,25 @@ and you'll have a chance to get in front of our attendees for a talk.
 Benefits
 ^^^^^^^^
 
-* A sponsored lightning talk slot, where you can highlight anything interesting you'd like to share with the community.
-* Your sponsor logo will be shown on the stage during all staff presentations as the Lightning Talk sponsor (opening, closing).
-* We will mention your company as the Lightning Talk sponsor on social media from the official Write the Docs account
+- A 5-minute sponsored lightning talk slot, where you can highlight anything interesting you'd like to share with the community.
+- Logo will be shown on the stage during all staff presentations as the Lightning Talk sponsor (opening, closing).
+- Logo on the conference website.
+- Name included in welcome announcement in email newsletters and social media.
 
+Opportunity Grants
+------------------
+
+**{{sponsorship.second_draft.price}}**
+
+Provide additional funding for our Opportunity Grant program, which supports equity and accessibility and provides funding for low-income, marginalized people to attend the conference. 
+These individuals would otherwise not be able to attend. 
+
+Benefits
+^^^^^^^^
+
+- Logo will be shown onstage during opening and closing staff presentations as a grant sponsor.
+- Logo on the conference website.
+- Name included in welcome announcement in email newsletters and social media.
 
 Inquiries
 =========
