@@ -3,16 +3,20 @@
 .. post:: Nov 06, 2023
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
-Announcing the Call for Proposals
-=======================================
+Announcing the Call for Proposals and Sponsorship Prospectus
+============================================================
 
 We're excited to announce our Portland `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_, starting earlier than last year, as the conference is also a little earlier in the year.
 
-Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
-If there is something you’d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!
+We're also launching our `Sponsorship Prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ for 2024 with all the information for sponsoring the conference.
+
+Read on for more details about how you can get involved this year.
 
 Call for Proposals
 ------------------
+
+Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
+If there is something you'd really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
 We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!
@@ -26,6 +30,15 @@ The Call for Proposals will be open until **11:59 PM {{cfp.ends}} PST**.
 (If you'd prefer not to attend an in-person event due to COVID-19 or any other reason, keep an eye out for `Atlantic_news_2024`_ held online in a timezone as widely accessible as possible).
 
 .. _Atlantic_news_2024:
+
+2024 Sponsorship Updates
+------------------------
+
+Our `Sponsorship Prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ is updated for 2024, with lots of new additions.
+Based on sponsor feedback,
+we've focused on in-person interaction at the conference.
+Our new venue has lots of space for sponsors to interact with attendees.
+We've also reduced the number of tickets in each package and added an option for buying additional tickets at a discounted rate.
 
 Write the Docs Atlantic, online date TBD
 ----------------------------------------
