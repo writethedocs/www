@@ -15,9 +15,15 @@ their users to be a member of our community. This can be programmers,
 tech writers, developer advocates, customer support, marketers, and anyone else who wants
 people to have great experiences with software.
 
-* Attend one of :doc:`our conferences </conf/index>`
+Attend a conference
+-------------------
+
+We have in-person and virtual conferences around the world:
+
    - :doc:`Australia 2023 </conf/australia/2023/index>`, **December 7-8, 2023**, Melbourne, Australia
    - :doc:`Portland 2024 </conf/portland/2024/index>`, **April 14-16, 2024**, Portland, Oregon, United States
+   - Atlantic 2024, Dates TBD, Virtual event, UTC timezone
+   - See all :doc:`our conferences </conf/index>` from the past years.
 
 Connect with the community
 --------------------------
