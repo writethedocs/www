@@ -79,7 +79,7 @@ Benefits
 
 - Five (5) tickets_, with additional available to purchase at a discounted rate of $500/ticket.
 - Most visible **sponsorship booth** location.
-- Sponsorship of a primary Write the Docs conference event (Unconference or Writing Day). Logo on print material.
+- Sponsorship of a primary Write the Docs conference event (Unconference, Writing Day). Logo on print material.
 - Large logo included in intermission slides and on talk videos.
 - Logo and long description (500 characters) on the conference website.
 - Logo in conference email promotion.
@@ -167,7 +167,7 @@ Benefits
 Opportunity Grants
 ------------------
 
-**$3,500** - **Limit 2**
+**$2,500** - **Limit 2**
 
 Provide additional funding for our Opportunity Grant program, which supports equity and accessibility and provides funding for low-income, marginalized people to attend the conference. 
 These individuals would otherwise not be able to attend. 
@@ -191,6 +191,4 @@ Payment
 
 Invoices must be paid **within 30 days of invoice receipt**, or no later than one (1) week before the conference.
 
-.. _ticket: https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/
 .. _tickets: https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/
-
