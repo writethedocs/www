@@ -1,6 +1,6 @@
 :template: {{year}}/index.html
 :banner: _static/conf/images/headers/{{ shortcode }}-group.png
-:og:image: _static/conf/images/headers/portland-2024-opengraph.png
+:og:image: _static/conf/images/headers/portland-2024-opengraph.jpg
 
 :orphan:
 
