@@ -58,9 +58,6 @@ If you want to speak at Write the Docs, but can't or don't want to attend an in-
 
 This conference will be entirely virtual, in a timezone that works for as many people as possible, so you can present or attend from anywhere.
 
-.. image:: 
-
-
 Stay Updated
 ------------
 
