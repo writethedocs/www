@@ -1,4 +1,5 @@
 :template: {{year}}/generic.html
+:banner: _static/conf/images/headers/portland-2024-speakers.jpg
 :og:image: _static/conf/images/headers/portland-2024-speakers.jpg
 
 .. post:: Nov 14, 2023
