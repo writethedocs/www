@@ -29,7 +29,6 @@ The Call for Proposals will be open until **11:59 PM {{cfp.ends}} PST**.
 
 (If you'd prefer not to attend an in-person event due to COVID-19 or any other reason, keep an eye out for `Atlantic_news_2024`_ held online in a timezone as widely accessible as possible).
 
-.. _Atlantic_news_2024:
 
 2024 Sponsorship Updates
 ------------------------
@@ -40,13 +39,6 @@ we've focused on in-person interaction at the conference.
 Our new venue has lots of space for sponsors to interact with attendees.
 We've also reduced the number of tickets in each package and added an option for buying additional tickets at a discounted rate.
 
-Write the Docs Atlantic, online date TBD
-----------------------------------------
-
-If you want to speak at Write the Docs, but can't or don't want to attend an in-person event, keep an eye out for Write the Docs Atlantic, an online conference coming later in 2024.
-
-This conference will be entirely virtual, in a timezone that works for as many people as possible, so you can present or attend from anywhere.
-
 Tickets
 -------
 
@@ -54,6 +46,15 @@ Tickets will go on sale {{ tickets_live }}.
 
 As always, we keep ticket prices low so that the event is accessible to the widest range of people possible.
 However, if you can't afford the tickets and still wish to attend, we will launch our grants program soon after opening ticket sales.
+
+.. _Atlantic_news_2024:
+
+Write the Docs Atlantic 2024
+----------------------------
+
+If you want to speak at Write the Docs, but can't or don't want to attend an in-person event, keep an eye out for Write the Docs Atlantic, an online conference coming later in 2024.
+
+This conference will be entirely virtual, in a timezone that works for as many people as possible, so you can present or attend from anywhere.
 
 Stay Updated
 ------------
