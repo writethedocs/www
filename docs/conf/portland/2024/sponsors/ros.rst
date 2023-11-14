@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/conf/images/headers/{{ shortcode }}-group.png
+:banner: _static/conf/images/headers/{{shortcode}}-{{year}}-group.jpg
 
 Sponsor Run of Show
 ===================

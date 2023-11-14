@@ -1,5 +1,5 @@
 :template: {{year}}/index.html
-:banner: _static/conf/images/headers/{{ shortcode }}-group.png
+:banner: _static/conf/images/headers/{{shortcode}}-{{year}}-group.jpg
 :og:image: _static/conf/images/headers/portland-2024-opengraph.jpg
 
 :orphan:
