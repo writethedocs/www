@@ -82,13 +82,13 @@ tickets:
 
 sponsorship:
   second_draft:
-    price: $3,500
+    price: $2,500
   publisher:
-    price: $5,500
+    price: $5,000
   patron:
-    price: $9,500
+    price: $8,500
   keystone:
-    price: $17,500
+    price: $14,000
 
 grants:
   url: 'https://docs.google.com/forms/d/e/1FAIpQLSfA1G4jnsUTWQeQnUtUJ3QUFcwokEAH8MrMamFaNs64LN-5Xg/viewform'
@@ -163,12 +163,11 @@ about:
   job_fair_room: Sponsor area
 
 cfp:
-  url: https://pretalx.com/wtd-portland-2024/cfp  # Open December 1, 2022, 9 weeks to submit
-  ends: "January 15, 2024"                       # (Mon) 1 week, to review. It'll take a little longer to announce
-  notification: "January 30, 2024"               # (Mon) 8 weeks to write and prepare
-  slides_by: "April 7, 2024"                       # (Mon) 1 week before
+  url: https://pretalx.com/wtd-portland-2024/cfp  # Open November 6 (Mon) -> 9 weeks to submit
+  ends: "January 15, 2024"                        # (Mon) 1 week, to review. It'll take a little longer to announce
+  notification: "January 30, 2024"                # (Mon) 8 weeks to write and prepare
+  slides_by: "April 7, 2024"                      # (Mon) 1 week before
   preview: "TODO"                                 # Preview URL TODO
-
 
 unconf:
   url: http://bit.ly/wtd-pdx-2024-ro
@@ -255,7 +254,7 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: True
-flagcfp: False
+flagcfp: True
 flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False

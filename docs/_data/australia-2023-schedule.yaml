@@ -96,7 +96,7 @@ talks_day2:
   - duration: '0:20'
     title: '☕ Coffee break'
   - duration: '0:40'
-    slug: tech-comms-today-discussion-panel-felicity-brand
+    title: '<a href="../panel/">Tech comms today discussion panel</a>'
   - duration: '0:15'
     title: Write the Docs team - Conference closing
   - duration: '0:00'
