@@ -3,7 +3,7 @@
 Call for Proposals
 ==================
 
-It's that time of year again: We’re now accepting talk proposals for our next **in-person** {{ city }} conference, coming up on {{date.main}}.
+It's that time of year again: We're now accepting talk proposals for our next **in-person** {{ city }} conference, coming up on {{date.main}}.
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you!
 Read on to learn more about the goals of the conference and what we look for in talk proposals.
@@ -195,5 +195,5 @@ Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx accoun
 Write the Docs Atlantic 2024
 ----------------------------
 
-If you want to speak at Write the Docs but can't or don't want to attend an in-person event, keep an eye out for Write the Docs Atlantic, coming later in 2024. 
+If you want to speak at Write the Docs but can't or don't want to attend an in-person event, keep an eye out for Write the Docs Atlantic, coming later in 2024.
 This conference is entirely virtual, between the Central European Summer Time (CEST) and Eastern Daylight Time (EDT) time zones, so you can present or attend from anywhere.
