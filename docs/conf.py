@@ -71,7 +71,7 @@ myst_heading_anchors = 4
 
 
 ogp_site_name = "Write the Docs"
-ogp_site_url = "https://www.writethedocs.org/"
+ogp_site_url = "/"
 ogp_image = 'https://www.writethedocs.org/_static/logo-opengraph.png'
 ogp_use_first_image = True
 ogp_enable_meta_description = True

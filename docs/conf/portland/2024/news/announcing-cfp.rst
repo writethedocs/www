@@ -1,4 +1,5 @@
 :template: {{year}}/generic.html
+:og:image: _static/conf/images/headers/portland-2024-speakers.jpg
 
 .. post:: Nov 14, 2023
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
@@ -55,6 +56,9 @@ Write the Docs Atlantic 2024
 If you want to speak at Write the Docs, but can't or don't want to attend an in-person event, keep an eye out for Write the Docs Atlantic, an online conference coming later in 2024.
 
 This conference will be entirely virtual, in a timezone that works for as many people as possible, so you can present or attend from anywhere.
+
+.. image:: 
+
 
 Stay Updated
 ------------
