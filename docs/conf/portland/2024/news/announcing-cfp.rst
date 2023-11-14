@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Nov 06, 2023
+.. post:: Nov 14, 2023
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
 Announcing the Call for Proposals and Sponsorship Prospectus
