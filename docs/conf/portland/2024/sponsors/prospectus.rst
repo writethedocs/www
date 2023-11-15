@@ -1,5 +1,6 @@
 :template: {{year}}/generic.html
-:banner: _static/conf/images/headers/portland-group-2023.jpg
+:banner: _static/conf/images/headers/{{shortcode}}-{{year}}-group.jpg
+:og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 Sponsorship Prospectus
 ######################
