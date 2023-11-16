@@ -20,10 +20,10 @@ buttons:
   top:
     # - text: Date and ticket information
     #   link: /news/welcome/
-    - text: Sponsor info
-      link: /sponsors/prospectus
     - text: Submit a Talk
       link: /cfp
+    - text: Sponsor us
+      link: /sponsors/prospectus
     #   - text: Read our conference guide
     #     link: /welcome-wagon
     #   - text: See the Schedule!
@@ -55,8 +55,8 @@ buttons:
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: See the talks!
   #     link: /speakers
-  #   - text: Buy a Ticket!
-  #     link: /tickets
+    # - text: Buy a Ticket!
+    #   link: /tickets
   #  - text: Read our guide
   #    link: /welcome-wagon
   #  - text: See the schedule!
@@ -107,9 +107,9 @@ date: # how do we handle these? human readable would be nice.
 
   # Conference is special for the index to show the combined conference days
   conference:
-    event: Main Conference
+    event: Speaker talks
     date: April 15-16
-    summary: The main days of the conference. We will be running one main track of talks, as well as a <a href="/conf/portland/2024/job-fair/">Sponsor Expo</a>, <a href="/conf/portland/2024/lightning-talks/">Lightning Talks</a> & <a href="/conf/portland/2024/unconference/">Unconference</a>.
+    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience. Currently accepting <a href="https://www.writethedocs.org/conf/portland/2024/cfp/">Call for Proposals</a>.
     icon: conference
 
   # These are listed in the schedule
@@ -117,13 +117,13 @@ date: # how do we handle these? human readable would be nice.
     event: Hike
     date: April 13
     # summary: We encourage you to go on a hike in your own beautiful home town.
-    summary: If you're in town early, join us for the  <a href="/conf/portland/2024/outing/">hike</a>. Portland has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
+    summary: If you're in town early, join us for the  <a href="/conf/portland/2024/outing/">hike</a>. Portland has excellent access to the woods right in the city.
     icon: hike
     dotw: Saturday
   day_two:
-    event: Writing Day
+    event: Writing Day & Reception
     date: April 14
-    summary: Join us for the <a href="/conf/portland/2024/writing-day/">Writing Day</a> and work with fellow documentarians on a project. Followed by the reception in the evening.
+    summary: Kick off the conference with <a href="/conf/portland/2024/writing-day/">Writing Day</a> and work with fellow documentarians on a project. Followed by the opening reception.
     icon: writing
     dotw: Sunday
     writing_day_time: 9am-5pm
@@ -253,9 +253,9 @@ sponsors:
 
 # Things that change over time, listed in order of change
 flaglanding: True
-flaghassponsors: False
+flaghassponsors: True
 flagcfp: True
-flagticketsonsale: False
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False
@@ -263,7 +263,7 @@ flaghasschedule: False
 flagscheduleincomplete: True
 flaghasunconf: True
 flaghasshirts: True
-flaglivestreaming: True
+flaglivestreaming: False
 flagvideos: False
 flagpostconf: False
 
@@ -274,3 +274,4 @@ flaghasboat: False
 flaghaswritingday: True
 flaghasjobfair: True
 flaghasbadgeflair: True
+flaghaslightningtalks: True
