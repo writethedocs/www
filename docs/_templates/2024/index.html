@@ -116,7 +116,7 @@ Home - Write the Docs {{ name }} {{ year }}
         <h2>What is Write the Docs?</h2>
         <p>
         Write the Docs is a global community of people who care
-        about documentation, Programmers, Tech Writers,
+        about documentation: Programmers, Tech Writers,
         Customer Support, Designers, Project Managers,
         Developer Advocates, and anyone else who wants people
         to have a great experience with software. 
@@ -129,7 +129,7 @@ Home - Write the Docs {{ name }} {{ year }}
         <p>
         We invite you to our 12th Portland conference to join {{ about.attendees }}
         other attendees to explore the art and science of
-        documentation! <strong>Tickets go on sale {{ date.tickets_live }}</strong>
+        documentation! <strong>Tickets go on sale {{ date.tickets_live }}</strong>.
         </p>
         <p>
         Interested in being a speaker? We’re accepting 
@@ -181,16 +181,18 @@ Home - Write the Docs {{ name }} {{ year }}
       </div>
       {% endif %}
 
-    {% if flaghasjobfair %}
+
+    {% if flaghasunconf %}
 
     <div class="schedule-item uk-width-1-{{ 1 + date.total_talk_days }}@s">
       <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/conversation-blue.svg', 1) }}" alt="" >
-      <h3>Sponsor Expo</h3>
-      <em>{{ date.day_four.date }}</em>
-      <p>Engage with our <a href="/conf/{{shortcode}}/{{year}}/sponsors/">Sponsors</a>, discuss job opportunities and interact with new products.</p>  
+      <h3>Unconference</h3>
+      <em>{{ date.conference.date }}</em> 
+      <p>Share ideas, solve problems and participate in discussions. Anyone can suggest, lead and attend an <a href="/conf/{{shortcode}}/{{year}}/unconference/">Unconference</a>.</p>
     </div>
 
     {% endif %}
+
 
     {% if flaghaslightningtalks %}
 
@@ -204,24 +206,24 @@ Home - Write the Docs {{ name }} {{ year }}
     {% endif %}
 
 
-    {% if flaghasunconf %}
+    {% if flaghasjobfair %}
 
     <div class="schedule-item uk-width-1-{{ 1 + date.total_talk_days }}@s">
       <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/conversation-blue.svg', 1) }}" alt="" >
-      <h3>Unconference</h3>
-      <em>{{ date.conference.date }}</em> 
-      <p>Share ideas, solve problems and participate in discussions. Anyone can suggest, lead and attend an <a href="/conf/{{shortcode}}/{{year}}/unconference/">Unconference</a>.</p>
+      <h3>Sponsor Expo</h3>
+      <em>{{ date.day_four.date }}</em>
+      <p>Engage with our <a href="/conf/{{shortcode}}/{{year}}/sponsors/">Sponsors</a>, discuss job opportunities and interact with new products.</p>  
     </div>
 
     {% endif %}
 
-      {# {% if flagspeakersannounced %} #}
+      {% if flagspeakersannounced %}
 
       <div class="learn-more">
         <a class="uk-align-right" href="{{ pathto('conf/' + shortcode + '/' + year_str + '/schedule') }}">See the Full Schedule</a>
       </div>
 
-      {# {% endif %} #}
+      {% endif %}
 
     </div>
   </div><!-- end schedule overview -->

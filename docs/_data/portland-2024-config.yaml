@@ -109,7 +109,7 @@ date: # how do we handle these? human readable would be nice.
   conference:
     event: Speaker talks
     date: April 15-16
-    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience. Currently accepting Call for Proposals.
+    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience. Currently accepting <a href="https://www.writethedocs.org/conf/portland/2024/cfp/">Call for Proposals</a>.
     icon: conference
 
   # These are listed in the schedule
