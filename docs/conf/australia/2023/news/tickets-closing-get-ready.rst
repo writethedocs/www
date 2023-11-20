@@ -42,8 +42,6 @@ Get involved at the conference
 -  **Join us at the Thursday night social.** This is an event just for conference attendees, held on *Thursday evening from 5pm-7pm*, with free snacks and drinks. It will be held at Tap831 (831 Bourke St, Docklands) with good non-alcoholic beverage options, as well as alcoholic. 
 -  **Participate in the panel discussion.** This session brings together a diverse group of industry experts and you, sharing perspectives on the latest trends and challenges facing documentarians today. You can submit your questions using the `Slido panel <https://www.writethedocs.org/conf/australia/2023/panel/>`__.
 
-The `Schedule page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/>`_ has the latest and most complete information about all our events. This is where we will also update any changes/cancellations if they should occur.
-
 Thanks so much to all our sponsors
 ----------------------------------
 
