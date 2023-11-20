@@ -10,7 +10,7 @@ We're 2 weeks out from the conference, and we hope everyone is getting excited!
 
 In this update we share a few updates as the conference approaches.
 
-Ticket Sales Closing Soon
+Ticket Sales closing soon
 --------------------------
 
 We will be closing ticket sales **Wednesday, 29th November**, so if you've been on the fence, now is the time to buy one!
