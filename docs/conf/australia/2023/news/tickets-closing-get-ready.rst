@@ -1,12 +1,12 @@
 :template: {{year}}/generic.html
 
-.. post:: November 21, 2023
+.. post:: November 20, 2023
    :tags: {{shortcode}}-{{year}}, tickets, visiting, sponsors
 
 Welcome to Write the Docs Australia 2023
 =========================================
 
-We're 2 weeks out from the conference, and we hope everyone is getting excited!
+We're just over 2 weeks out from the conference, and we hope everyone is getting excited!
 
 In this update we share a few updates as the conference approaches.
 
