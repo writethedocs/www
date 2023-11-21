@@ -9,9 +9,6 @@ Workshop host: **Shumin Chen**
 Simplified Technical English (STE) started in the aerospace industry, where it emerged as a solution to address language, communication, and documentation challenges. 
 While it initially served the defence sector, STE’s inherent versatility and adaptability have made it remarkably relevant and applicable to various industries. 
 
-As part of the Write the Docs Australia 2023 conference, we’re running a two-hour workshop on the evolving landscape of Simplified English for software documentation, applying principles and techniques of Simplified Technical English (STE) in the context of the tech industry. 
-Shumin will show participants how to correctly and effectively use STE in practice. She will also address some of the mistakes commonly found in technical writing and the frequent incorrect use of common STE writing rules.
-
 This workshop explores the evolution of STE from an aerospace standard to its potential in revolutionising documentation practices in the software industry. 
 By embracing STE, participants will gain insights into how this linguistic paradigm shift can help organisations across diverse sectors enhance clarity, efficiency, and comprehension in their software-related communication.
 The flexibility of Simplified Technical English allows for customisation to suit unique requirements. As the specification primarily involves additions to the dictionary, clients themselves often make customisations to cater to different projects within the organisation. 
