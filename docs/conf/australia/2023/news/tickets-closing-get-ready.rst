@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 
 .. post:: November 21, 2023
-   :tags: {{year}}, australia-2023, tickets
+   :tags: {{shortcode}}-{{year}}, tickets, visiting, sponsors
 
 Welcome to Write the Docs Australia 2023
 =========================================
