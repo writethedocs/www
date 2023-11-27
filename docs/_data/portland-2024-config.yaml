@@ -185,6 +185,9 @@ sponsors:
     # - name: google
     #   link: https://www.google.com
     #   brand: Google
+    - name: gitbook
+      link: https://www.gitbook.com/?ref=writethedocs
+      brand: GitBook
   publisher:
     # - name: mongodb-new
     #   link: https://www.mongodb.com/
