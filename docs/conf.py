@@ -163,16 +163,12 @@ suppress_warnings = ['image.nonlocal_uri']
 
 # Our additions
 
-# No global sponsors currently
-#
-# global_sponsors = yaml.safe_load("""
-# - name: archbee-new
-#   link: https://archbee.io/?utm_medium=banner&utm_source=footer&utm_campaign=wtd
-#   brand: Archbee
-#   comment: Community sponsor
-# """)
-
-global_sponsors = {}
+global_sponsors = yaml.safe_load("""
+- name: gitbook
+  link: https://www.gitbook.com/?utm_campaign=launch&utm_medium=display&utm_source=write_the_docs&utm_content=ad 
+  brand: GitBook
+  comment: Community sponsor
+""")
 
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
