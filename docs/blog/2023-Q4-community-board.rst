@@ -25,7 +25,7 @@ Our Q4 meeting covered multiple new topics and follow-ups on previously discusse
     Once again, we appreciate all of the hard work that meetup organizers do to keep their communities engaged, and will continue to work with the meetup teams to adapt to the current the global landscape. If you want to start a new meetup or join an existing meetup, check out the `Meetups page <https://www.writethedocs.org/meetups/>`_ on our website.
 
 **2023 salary survey promotion**
-    Now that the `2022 salary survey <https://www.writethedocs.org/surveys/salary-survey/2022/>`_ has been open for a little while, we are starting to see the data that is coming in as well as feedback. We are working on social media prompts to remind the community to participate before the survey closes at the end of this year, and special prompts for contractors and freelancers that will help us get enough responses to the survey. 
+    The `2023 salary survey <https://salary-survey.writethedocs.org/>`_ officially launched in September, and we are already starting to see great data coming in as well as valuable feedback from the participants. We are working on social media prompts to remind the community to participate before the survey closes at the end of this year, and special prompts for contractors and freelancers that will help us get enough responses to the survey. 
 
 As always, the board continues to review the community backlog to determine what are the most valuable efforts for the community in the short and long term. 
 
