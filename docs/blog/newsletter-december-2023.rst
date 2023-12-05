@@ -108,6 +108,29 @@ The thread acknowledged the emotional cost of discovering that a job previously 
 
 The community advocated for resilience in pursuing new opportunities, offering support, encouragement, and practical ideas. The thread showed a broad array of opportunities for anyone eager for a change, whether to teaching, content marketing, or even being a motorcycle instructor.
 
+----------------
+From Our Sponsor
+----------------
+
+This month’s newsletter is sponsored by `GitBook <https://www.gitbook.com/?utm_campaign=launch&utm_medium=email&utm_source=write_the_docs&utm_content=newsletter>`_:
+
+------
+
+.. image:: /_static/img/sponsors/gitbook.png
+  :align: center
+  :target: https://www.gitbook.com/?utm_campaign=launch&utm_medium=email&utm_source=write_the_docs&utm_content=newsletter
+  :alt: GitBook logo
+
+GitBook helps engineering teams create a single source of truth for their knowledge — with AI-powered integrations, search and insights that take the effort out of keeping documentation up to date.
+
+With GitBook, you can add to your knowledge base from tools like Slack and VS Code, find information faster using AI-powered search, and use smart insights to find and fix old documentation with the latest data.
+Take the effort out of technical documentation. `Get started with GitBook for free today. <https://www.gitbook.com/?utm_campaign=launch&utm_medium=email&utm_source=write_the_docs&utm_content=newsletter>`_
+
+------
+
+*Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
+
+
 ------------------
 Featured Job Posts
 ------------------
