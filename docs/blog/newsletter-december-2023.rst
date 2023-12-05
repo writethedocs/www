@@ -11,6 +11,8 @@ The end of the year means the last call for the 2023 Documentation Salary Survey
 
 The Australia conference is coming up this week. Ticket sales have closed, but I'm sure there will be many inspirational ideas coming out of the discussions. And the videos should be shared after the conference is finished. For your next conference opportunity, the in-person Portland conference is `accepting talk proposals </conf/portland/2024/cfp/>`__ until January 15.
 
+If you're curious about how Write the Docs keeps going, check out the `quarterly update from the Community Board </blog/2023-Q4-community-board/>`__. You'll learn what our board members are doing behind the scenes to support this valuable community.
+
 For your last newsletter of 2023, we have articles on whether documentarians should specialize or stay general, helpful questions to use when getting information about an upcoming change, a discussion of what technical documentation is, and what you might do after deciding to move on from documenting full-time.
 
 I hope you all have a peaceful end to the year. We'll be back in February with more exciting ideas.
