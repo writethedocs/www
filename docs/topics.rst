@@ -309,6 +309,7 @@ Getting hired
 Related roles
 ~~~~~~~~~~~~~
 
+- |:newspaper:| `Life After Documenting </blog/newsletter-december-2023/#life-after-documenting>`__
 - |:movie_camera:| `Is Tech Writer a Tester, and Vice Versa, Is Tester a Tech Writer? </videos/portland/2021/is-tech-writer-a-tester-and-vice-versa-is-tester-a-tech-writer-ines-stefanovic/>`__
 - |:newspaper:| `A tale of two careers </blog/newsletter-august-2020/#a-tale-of-two-careers>`__
 - |:movie_camera:| `What Writing Dictionaries Taught Me About Writing Documentation (And What I Had to Unlearn) </videos/portland/2018/what-writing-dictionaries-taught-me-about-writing-documentation-and-what-i-had-to-unlearn-erin-mckean/>`__
@@ -356,6 +357,7 @@ Building a team
 
 Including onboarding new writers
 
+- |:newspaper:| `Documentarians as Specialists or Generalists </blog/newsletter-december-2023/#documentarians-as-specialists-or-generalists>`__
 - |:newspaper:| `Doc Team Organization </blog/newsletter-november-2023/#doc-team-organization>`__
 - |:newspaper:| `When less is NOT more </blog/newsletter-february-2023/#when-less-is-not-more>`__
 - |:movie_camera:| `How I convinced my boss to build our docs team </videos/prague/2022/how-i-convinced-my-boss-to-build-our-docs-team-karissa-van-baulen/>`__
@@ -730,6 +732,7 @@ Working with other roles
 
 Including product managers, higher-ups, etc.
 
+- |:newspaper:| `Helpful Questions for Gathering Information </blog/newsletter-december-2023/#helpful-questions-for-gathering-information>`__
 - |:newspaper:| `Getting Info from Others </blog/newsletter-july-2023/#getting-info-from-others>`__
 - |:newspaper:| `Setting boundaries </blog/newsletter-april-2023/#setting-boundaries>`__
 - |:newspaper:| `Push vs. pull for docs work </blog/newsletter-december-2022/#push-vs-pull-for-docs-work>`__
@@ -820,6 +823,7 @@ Defining success
 Theories/Philosophy
 -------------------
 
+- |:newspaper:| `What Is Technical Documentation? </blog/newsletter-december-2023/#what-is-technical-documentation>`__
 - |:movie_camera:| `Cognitive Ergonomics in Technical Writing - Lessons from the Field </videos/prague/2021/cognitive-ergonomics-in-technical-writing-lessons-from-the-field-anita-diamond/>`__
 - |:movie_camera:| `7 Essential Tips for the Enlightened Tech Writer </videos/portland/2018/7-essential-tips-for-the-enlightened-tech-writer-ted-hudek/>`__
 - |:movie_camera:| `Peanuts and Minimalism and Technical Writing </videos/au/2017/peanuts-and-minimalism-and-technical-writing-brice-fallon/>`__
