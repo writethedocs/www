@@ -118,6 +118,7 @@ This month’s newsletter is sponsored by `GitBook <https://www.gitbook.com/?utm
 
 .. image:: /_static/img/sponsors/gitbook.png
   :align: center
+  :width: 75%
   :target: https://www.gitbook.com/?utm_campaign=launch&utm_medium=email&utm_source=write_the_docs&utm_content=newsletter
   :alt: GitBook logo
 
