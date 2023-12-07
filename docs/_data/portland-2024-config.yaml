@@ -14,7 +14,7 @@ hex: 4AC1E0
 time_format: 12h
 
 photos:
-  default: _static/conf/images/headers/group.png
+  default: _static/conf/images/headers/portland-2024-group.jpg
 
 buttons:
   top:
@@ -255,7 +255,7 @@ sponsors:
     #   brand: Read the Docs
 
 # Things that change over time, listed in order of change
-flaglanding: True
+flaglanding: False
 flaghassponsors: True
 flagcfp: True
 flagticketsonsale: True
