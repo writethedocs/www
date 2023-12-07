@@ -4,9 +4,12 @@ Each year we organize a wide range of events so that people can come together, c
 All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
 
 {% if not flaghasschedule %}
-**WARNING**: This schedule has not been finalized and is subject to change. The schedule will be finalized around 1 month prior to the event.
-{% endif %}
 
+Full schedule will be released in February 2024..
+
+See the `schedule overview </conf/{{shortcode}}/{{year}}/#schedule-overview>`_ for high level details.
+
+{% else %}
 
 .. contents::
     :local:
@@ -248,3 +251,5 @@ with each session happening during a corresponding talk on the main stage.
 * **When**: **{{ date.day_four.unconference_time }} {{ tz }}**
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
+
+{% endif %}
