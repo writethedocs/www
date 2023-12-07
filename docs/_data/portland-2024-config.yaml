@@ -269,6 +269,7 @@ flaghasshirts: True
 flaglivestreaming: False
 flagvideos: False
 flagpostconf: False
+flaghasbadgeflair: False
 
 # Truthy things that don't change
 flaghashike: True
@@ -276,5 +277,4 @@ flaghasfood: True
 flaghasboat: False
 flaghaswritingday: True
 flaghasjobfair: True
-flaghasbadgeflair: True
 flaghaslightningtalks: True
