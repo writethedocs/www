@@ -55,7 +55,7 @@ Logistics
 **Come prepared with the following tools:**
 
 -  Laptop, tablet, or other device 
--  `GitHub account <https://github.com/>`_ (you may also want a `GitLab account <https://about.gitlab.com/>'_
+-  `GitHub account <https://github.com/>`_ (you may also want a `GitLab account <https://about.gitlab.com/>`_
 -  Text editor of your choice for coding or content creation
 
 
@@ -67,7 +67,7 @@ Leading a project at Writing Day is a wonderful opportunity to engage with docum
 
 **Tips to create and lead a new project effectively:** 
 
--  **Provide a project overview with a specific focus or goals:** Your project overview is a 2 minute pitch that describes your project and clearly defines a focus area or goal. Here’s a good example from Writing Day 2022, the `Open Web Docs project https://www.writethedocs.org/conf/portland/2022/writing-day/#open-web-docs`_.
+-  **Provide a project overview with a specific focus or goals:** Your project overview is a 2 minute pitch that describes your project and clearly defines a focus area or goal. Here’s a good example from Writing Day 2022, the `Open Web Docs project <https://www.writethedocs.org/conf/portland/2022/writing-day/#open-web-docs>`_.
 -  **Pre-label tasks and issues:** Create a specific event label and label documentation tasks and issues. This empowers new contributors to find tasks that interest them.
 -  **Create a task filter:** This  helps contributors find issues more easily and see which issues have been assigned.
 -  **Clear onboarding:** Ensure your ReadMe, contribution guidelines, or onboarding instructions are accurate and up to date.

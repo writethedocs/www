@@ -14,7 +14,7 @@ All attendees are invited to lead a session on a topic -- sessions can be organi
 
 Everyone! 
 
-.. image:: /_static/img/2024/unconference-table.jpg
+.. image:: /_static/img/2024/unconference-board.jpg
 
 Unconference Schedule
 ---------------------
