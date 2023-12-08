@@ -70,8 +70,6 @@ These groups include, but are not limited to:
 
 You do not have to tell us which underrepresented group(s) you belong to.
 
-{% if grants and grants.url %}
-
 Grant Amounts
 ----------------
 
