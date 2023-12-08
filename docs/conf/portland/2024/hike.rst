@@ -2,8 +2,8 @@
 :banner: _static/conf/images/headers/hike.png
 :og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
-Write the Docs Hike
-===================
+Hike
+====
 
 Every year we have a conference hike that kicks off the *unofficial* beginning of the conference. It has become a fantastic tradition and is a wonderful way to gather the day before the conference begins. 
 

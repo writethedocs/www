@@ -9,7 +9,7 @@ Each year we invite our top sponsors to engage with our attendees throughout the
 * **Hiring:** Companies that are hiring and can speak with attendees about work and available jobs.
 * **Products:** Companies that build products for docs folks, where attendees can learn more about what people are building.
 
-Write the Docs looks forward to facilitating constructive networking, connecting people with jobs and employers, and hearing more from our sponsors. 
+Write the Docs looks forward to facilitating constructive networking, connecting people with jobs and employers, and hearing more from some of our sponsors. 
 
 Schedule
 --------

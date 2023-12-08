@@ -20,17 +20,17 @@ We want a mix of first time and experienced speakers!
 Schedule & Logistics
 --------------------
 
-- **Date & Time: Monday, April 15 & Tuesday April 16 after lunch**
-- **Sign up for lightning talks in person at the registration/check-in table during the conference.** 
+**Date & Time: Monday, April 15 & Tuesday April 16 after lunch**
+
+-  **Sign up for lightning talks in person at the registration/check-in table during the conference.** 
 -   Attendees can begin signing up on Sunday morning for Monday talks and Tuesday morning for Tuesday talks. Sign ups for Monday and Tuesday talks will close on their respective days at the end of the last morning break.
 -   We will announce selected speakers at the end of the morning talk before we break for lunch. We will also text, Slack, or email you to confirm your slot.
 -   If chosen to speak, show up at the main stage at the communicated arrival time. 
 -   While presenting, speakers will be able to track their five minutes through a countdown timer. The coordinator will cut you off promptly at the five minute mark.
 
- Exact times to be posted on the :doc:`/conf/{{shortcode}}/{{year}}/schedule` page.
+Exact times to be posted on the :doc:`/conf/{{shortcode}}/{{year}}/schedule` page.
 
-.. image:: /_static/img/2024/lightning-talks-submission.jpg
-   :width: 75%
+
 
 Planning for a Lightning Talk
 -----------------------------
@@ -43,7 +43,7 @@ A lightning talk is no more than **five minutes long**. This is sufficient time 
 - An idea for a website or product that would solve a problem you have.
 - A retrospective, or what went right/wrong during a project you did or are doing.
 - Anything relevant that the audience might be interested in knowing more about.
-
+- 
 **Create an Outline**
 
 - Consider the **audience**. What is the **goal** of your talk? What points do you need to make to help them understand your goal? 
@@ -77,14 +77,14 @@ Presentation Options
 Proceed at your own risk!
 
 You may have the urge to do a live demonstration. It seems like an easy way to help the audience see your vision, and it is… if it works!
-But in most cases, live demos are do not successfully convey your goals and often, fail. 
+But in most cases, live demos do not successfully convey your goals and often, fail. 
 
 A failed demo can derail all but the most skilled presenters, but if you choose to do a demo and it goes wrong, have a backup story to explain what the demo would have shown and revert to it if necessary.
 
 **EQUIPMENT**
 
 - Be self-sufficient. Bring everything you need to do your presentation - computer, cords, adaptors to connect to a monitor or projector, etc.
-- Download slides or load web pages you need into your browser beforehand. Do not rely on the internet as it has proven to
+- Download slides or load web pages you need into your browser beforehand. Do not rely on the internet as it has proven to drop the connection during talks."
 - Keep a backup copy of your presentation on a USB memory stick.
 
 
@@ -93,7 +93,7 @@ Your Five Minutes on Stage
 
 Take a deep breath and go for it. You are among friends and colleagues who are there to support you. Nobody will mind if you make mistakes.
 
-Many folks start out their public speaking career in the tech industry by giving lightning talks? You can assume your audience has been in your shoes before. Step on stage and embrace your five minutes! :)
+Many folks start out their public speaking career in the tech industry by giving lightning talks. You can assume your audience has been in your shoes before. Step on stage and embrace your five minutes! :)
 
 
 Finishing up
@@ -101,7 +101,7 @@ Finishing up
 
 In the final moments of your presentation, if you want to share it, let the audience know where they can access your slide presentation or find your example code online. Curious attendees may follow up, collaborate or provide feedback about your presentation.
 
-Thanks
+Tools
 ------
 
 Lightning Talks: A Guide for Beginners by Michelle Rowley of PDX Python is licensed under a `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License <http://creativecommons.org/licenses/by-nc-sa/4.0/>`__.
