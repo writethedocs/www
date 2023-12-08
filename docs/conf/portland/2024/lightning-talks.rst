@@ -43,7 +43,7 @@ A lightning talk is no more than **five minutes long**. This is sufficient time 
 - An idea for a website or product that would solve a problem you have.
 - A retrospective, or what went right/wrong during a project you did or are doing.
 - Anything relevant that the audience might be interested in knowing more about.
-- 
+
 **Create an Outline**
 
 - Consider the **audience**. What is the **goal** of your talk? What points do you need to make to help them understand your goal? 

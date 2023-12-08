@@ -7,7 +7,7 @@ The grant program for Write the Docs {{ name }} {{ year }} supports people who w
 
 {% if grants and grants.url %}
 To apply, fill in the form below.
-{% else %}
+{% endif %}
 
 Who is Eligible
 ----------------
@@ -85,5 +85,3 @@ Submit your application
 	<iframe src="{{ grants.url }}?embedded=true" width="760" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 You can also view `the application form <{{ grants.url }}>`_ in its own page.
-
-{% endif %}
