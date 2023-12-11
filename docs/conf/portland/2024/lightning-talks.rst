@@ -48,7 +48,7 @@ Exact times to be posted on the :doc:`/conf/{{shortcode}}/{{year}}/schedule` pag
 Plan your Lightning Talk
 ------------------------
 
-A lightning talk is no more than five minutes long! This is intentional and designed to encourage speakers to be tacticle in how they present their topic. Use your time to give an overview, provide insights, and encourage curiousity. 
+A lightning talk is no more than five minutes long! This is intentional and designed to encourage speakers to be tactile in how they present their topic. Use your time to give an overview, provide insights, and encourage curiosity. 
 
 Speakers can talk about anything, it does not have to be related to documentation. Some of our most popular lightning talk topics included legos, music, design software, to name a few.
 
