@@ -1,4 +1,6 @@
 :template: {{year}}/generic.html
+:og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
+
 
 Convince Your Manager
 =====================
@@ -52,4 +54,4 @@ When discussing how to pitch the conference, a few generally helpful tips emerge
 * If your company is looking to hire another documentarian, the job fair and networking at the event are an excellent resource.
 * Don't forget that one of the benefits to your attendance is that it raises the visibility of your company in the community. If your team wants a reputation for caring about their docs, having people at Write the Docs is a great way to do that.
 
-In addition, it can be useful to share some info about previous conferences. View the main page overview explaining what is Write the Docs, history and schedule overview.
+In addition, it can be useful to share some info about previous conferences. View the `main page overview </conf/{{shortcode}}/{{year}}/#schedule-overview>`_ explaining what is Write the Docs, history and schedule overview.
