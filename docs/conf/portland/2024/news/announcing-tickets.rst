@@ -1,6 +1,8 @@
 :template: {{year}}/generic.html
+:og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
-.. post:: Dec 8, 2023
+
+.. post:: Dec 12, 2023
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
 Tickets on Sale for Write the Docs Portland 2024
@@ -8,11 +10,11 @@ Tickets on Sale for Write the Docs Portland 2024
 
 Happy December, fellow documentarians!
 
-We’re excited to announce `tickets are on sale for Write the Docs Portland 2024 <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_! 
+We’re excited to announce that `tickets are on sale for Write the Docs Portland 2024 <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_! 
 
 We look forward to gathering with you for our 12th annual Portland Write the Docs conference. We are working to create a community-centered conference where documentarians of all backgrounds can gather to meet other like-minded folks in the industry, gain new skills, get inspired and have fun.
 
-`Buy your tickets for the conference now. <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_.
+`Buy your tickets for the conference now. <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_
 
 Conference Schedule
 -------------------
@@ -40,7 +42,7 @@ Opportunity Grants
 
 Interested in attending but need extra financial support? We strive to provide an accessible conference for folks of all backgrounds to join. Our opportunity grant application is now open. 
 
-`View our Opportunity Grants page for information and the application <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_.
+`View our Opportunity Grants page for information and the application <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/>`_.
 
 Thanks to our sponsors
 ----------------------
