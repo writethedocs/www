@@ -1,4 +1,5 @@
 :template: {{year}}/generic.html
+:og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 Opportunity grants
 ==================
@@ -27,8 +28,9 @@ Grant applicants, like all other participants in the Write the Documents communi
 
 Schedule
 ----------------
-**Now - February 1:** Grant applications open
-**February 14:** Grant recipients notified 
+
+* **Now - February 1:** Grant applications open
+* **February 14:** Grant recipients notified 
 
 What is covered
 ----------------
@@ -39,10 +41,11 @@ We can cover typical costs like travel and accommodation,
 but you may include other costs you need covered to be able to attend. 
 
 This list can include, but is not limited to:
-- Travel (flights, gas, rideshare, etc.)
-- Accommodations
-- Meals
-- Other costs (childcare, loss of wages, etc.)
+
+* Travel (flights, gas, rideshare, etc.)
+* Accommodations
+* Meals
+* Other costs (childcare, loss of wages, etc.)
 
 The application form will ask for an estimate of your costs.
 

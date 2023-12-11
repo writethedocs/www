@@ -4,51 +4,73 @@
 Lightning Talks
 ===============
 
-A lightning talk is a short talk, up to 5 minutes, where you share an idea, concept, or a bit of information you find interesting.
+What is a Lightning Talk?
+-------------------------
 
-They’re quick, easy, and a great way to speak in front of an audience for the first time. 
+A lightning talk is a short talk, up to 5 minutes, where you share an idea, concept, or a bit of information that you find interesting. The talks can cover technical or non-technical topics - whatever you are passionate about!
 
-Lightning talks allow attendees to discuss topics that were not covered, or only partially addressed, at the conference.
+Lightning talks are a fantastic opportunity for first time presenters. No matter what your speaking experience level is, you are invited to submit a talk.
 
-**We have two groups of speakers who submit talks:**
+Creating opportunities for first time speakers is important to us, so we have created **two groups of speakers**:
 
 * First-time speakers
 * Experienced speakers
 
-We want a mix of first time and experienced speakers!
+Our goal is to have a mix of first-time and experienced speakers. You can let us know your group on your submission form.
 
 Schedule & Logistics
---------------------
+----------------------
 
-**Date & Time: Monday, April 15 & Tuesday April 16 after lunch**
+**Date and time: Monday, April 15 & Tuesday April 16 after lunch**
 
--  **Sign up for lightning talks in person at the registration/check-in table during the conference.** 
--   Attendees can begin signing up on Sunday morning for Monday talks and Tuesday morning for Tuesday talks. Sign ups for Monday and Tuesday talks will close on their respective days at the end of the last morning break.
--   We will announce selected speakers at the end of the morning talk before we break for lunch. We will also text, Slack, or email you to confirm your slot.
--   If chosen to speak, show up at the main stage at the communicated arrival time. 
--   While presenting, speakers will be able to track their five minutes through a countdown timer. The coordinator will cut you off promptly at the five minute mark.
+- Submit your lightning talk in person at the registration/check-in table throughout the conference.
+-   Submissions are open:
+    -  During Writing Day.
+    -  Monday morning until the end of the last morning break.
+    -  Monday afternoon, post Monday Lightning Talks.
+    -  Tuesday morning until the end of the last morning break.
+- Speaker selection and announcements
+    - The coordinator selects the tentative speakers.
+    - The tentative speakers are announced on stage at the end of the last morning talk. You do not have to be present to be selected, but it is helpful. 
+    - The coordinator also contacts the speakers to confirm their acceptance and inform them of the time and place for the tech check.
+- Tech check - generally 10 minutes before lunch ends on the main stage. 
+    - Speaking order is confirmed during tech check.
+    - Speakers using tech, such as slides, etc, have the opportunity to test it.
+- Lightning Talks begin!
+    - The coordinator reminds all attendees how Lightning Talks work.
+    - Each speaker is introduced and they have 5 minutes to present.
+    - There is a countdown timer for each presentation. Speakers receive a notice when they have 1 minute remaining.
+    - The coordinator cuts off speakers at the 5 minute mark.
 
 Exact times to be posted on the :doc:`/conf/{{shortcode}}/{{year}}/schedule` page.
 
 
+Plan your Lightning Talk
+------------------------
 
-Planning for a Lightning Talk
------------------------------
+A lightning talk is no more than five minutes long! This is intentional and designed to encourage speakers to be tacticle in how they present their topic. Use your time to give an overview, provide insights, and encourage curiousity. 
 
-A lightning talk is no more than **five minutes long**. This is sufficient time to give an overview, provide valuable information and make people curious about your topic. Speakers can talk about anything that’s even remotely related to documentation.
+Speakers can talk about anything, it does not have to be related to documentation. Some of our most popular lightning talk topics included legos, music, design software, to name a few.
 
-**Choose a Topic** 
+**Choose a topic**
 
-- A concept, process, or tool that you learned recently or are still learning.
-- An idea for a website or product that would solve a problem you have.
-- A retrospective, or what went right/wrong during a project you did or are doing.
-- Anything relevant that the audience might be interested in knowing more about.
+You are welcome to submit any topic you are passionate about and can pitch in your submission summary.
 
-**Create an Outline**
+Topic selection tips:
 
-- Consider the **audience**. What is the **goal** of your talk? What points do you need to make to help them understand your goal? 
+- A concept, process, or tool that you are learning or learned recently.
+- A retrospective overview, what went right/wrong during a project you are doing or finished.
+- Any relevant content that the audience might be interested in knowing more about.
+
+Technical topics are wonderful and welcome but are not mandatory. We enjoy having a variety of topics to entice your fellow attendees.
+
+**Create an outline**
+
+- Consider the audience. 
+- What is the goal of your talk? 
+- What points do you need to make to help them understand your goal? 
  
-**Choose Points of Interest**
+**Choose points of interest**
 
 - What could you use this for or when could you use it? Have you already used it? How?
 - When would it not be as useful? What are some contraindications to using it?
@@ -62,48 +84,53 @@ Remember how quickly five minutes goes by when choosing what to include!
 Presentation Options
 --------------------
 
-**SLIDES**
+While there is a short tech check to acclimate you to the stage... all technology is optional and at your own risk.
 
+**Slides**
 
-- You do not need to create slides, as they are optional. However, if you’d like to, use a platform you are familiar with - Microsoft Word, Keynote, a PDF, a website, to name a few. Even a simple terminal or console window where you enter commands can work well for presenting your ideas.
+If you choose to use slides or similar presentation tools. Consider the following recommendations:
+
+- Use a platform you are familiar with - Microsoft Word, Keynote, a PDF, a website, to name a few. Even a terminal or console window where you enter commands can work well for presenting your ideas.
 - Don’t worry if it does not look polished; lightning talks do not need to be!
-- Keep in mind that the projector will be lower resolution, typically 1024x768. Low-contrast slides don't present well.
-- Remember to make your terminal or console font very large so that everyone can see what you’re typing.
-- If you're running code examples, have them written, debugged, and ready to go. Watching someone write code as they go can be great in a longer deep-dive type of talk, but it's not very well-suited to a lightning talk.
+- Keep in mind that the projector is lower resolution, typically 1024x768. Low-contrast slides don't display well.
+- Remember to adjust your font! This is key for terminal or console examples, you need a large font so everyone can see what you’re typing.
+- If you plan to use code examples, have them written, debugged, and ready to go. Watching someone write code as they go can be great in a longer deep-dive type of talk, but it's not very well-suited to a lightning talk.
 
 
-**LIVE DEMOS**
+**Live demos**
 
-Proceed at your own risk!
+You may have the urge to do a live demonstration. It seems like an easy way to help the audience see your vision, and it is… if it works! In most cases, live demos rarely convey your goals and often, fail. 
 
-You may have the urge to do a live demonstration. It seems like an easy way to help the audience see your vision, and it is… if it works!
-But in most cases, live demos do not successfully convey your goals and often, fail. 
+A derailed demo can distress even the most skilled presenters. If you choose to do a demo and it goes wrong, have a backup story to explain what the demo would have shown and revert to it if necessary.
 
-A failed demo can derail all but the most skilled presenters, but if you choose to do a demo and it goes wrong, have a backup story to explain what the demo would have shown and revert to it if necessary.
-
-**EQUIPMENT**
+**Equipment**
 
 - Be self-sufficient. Bring everything you need to do your presentation - computer, cords, adaptors to connect to a monitor or projector, etc.
-- Download slides or load web pages you need into your browser beforehand. Do not rely on the internet as it has proven to drop the connection during talks."
+- Download slides or load web pages you need into your browser beforehand. Do not rely on the internet as it has proven to drop the connection during talks.
 - Keep a backup copy of your presentation on a USB memory stick.
 
+Create Opportunities for Follow Up
+----------------------------------
 
-Your Five Minutes on Stage
---------------------------
+Lightning Talks can create wonderful opportunities such as hallway conversations, unconference sessions, and some times future presentations.
 
-Take a deep breath and go for it. You are among friends and colleagues who are there to support you. Nobody will mind if you make mistakes.
+If you are interested and able, consider using the final moments of your presentation to let the audience know how they can follow up with you. Let them know if you plan to share your content and how to access it. 
 
-Many folks start out their public speaking career in the tech industry by giving lightning talks. You can assume your audience has been in your shoes before. Step on stage and embrace your five minutes! :)
+Some presenters choose to share their social media information or host their own unconference session. While it is optional, it is something worth consideration.
+
+Your Time on Stage
+------------------
+
+Take a deep breath and go for it. You are among friends and colleagues. We are excited for your presentation! Nobody minds if you make mistakes; we are here to support you.
+
+This may be something you do once, or maybe it creates a love for presenting. Many folks begin their speaking career in the tech industry with lightning talks. 
+
+Enjoy your five minutes, you are going to do great! :)
 
 
-Finishing up
-------------
+Acknowledgements
+----------------
 
-In the final moments of your presentation, if you want to share it, let the audience know where they can access your slide presentation or find your example code online. Curious attendees may follow up, collaborate or provide feedback about your presentation.
-
-Tools
-------
+Special thanks to the Portland Python Users Group for use of this content.
 
 Lightning Talks: A Guide for Beginners by Michelle Rowley of PDX Python is licensed under a `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License <http://creativecommons.org/licenses/by-nc-sa/4.0/>`__.
-
-Thanks to the lovely Portland Python Users Group for use of this content.

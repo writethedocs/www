@@ -1,9 +1,11 @@
 :template: {{year}}/generic.html
-:banner: _static/conf/images/headers/writing-day.png
 :og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 Writing Day
 ===========
+
+What is Writing Day? 
+--------------------
 
 Writing Day is modeled after the concept of "sprints" or “hackathons”, which are common in open-source (OSS) conferences. 
 
@@ -30,7 +32,7 @@ Attendees are invited to submit their project pre-conference! It's a great way t
 -  Love letters
 -  The Documentarian Manifesto
 
-`View 2023 Project List for ideas! <https://www.writethedocs.org/conf/portland/2023/writing-day/>`_
+`View 2023 Project List for ideas! <https://www.writethedocs.org/conf/portland/2023/writing-day/#project-listing>`_
 
 Writing Day Schedule 
 --------------------
@@ -55,7 +57,7 @@ Logistics
 **Come prepared with the following tools:**
 
 -  Laptop, tablet, or other device 
--  `GitHub account <https://github.com/>`_ (you may also want a `GitLab account <https://about.gitlab.com/>`_
+-  `GitHub account <https://github.com/>`_ (you may also want a `GitLab account <https://about.gitlab.com/>`_)
 -  Text editor of your choice for coding or content creation
 
 
@@ -72,10 +74,10 @@ Leading a project at Writing Day is a wonderful opportunity to engage with docum
 -  **Create a task filter:** This  helps contributors find issues more easily and see which issues have been assigned.
 -  **Clear onboarding:** Ensure your ReadMe, contribution guidelines, or onboarding instructions are accurate and up to date.
 -  **Submit your Writing Day Project:** Adding your project to the Writing Day project list promotes your project to our attendees before the event. Many attendees have told us that their curiosity about certain projects incentivised their attendance.
--  **Project Experts:** We recommend having 1-2 project experts at Writing Day. We love our developer advocates, community managers, and subject matter experts! You’re welcome to call for virtual reinforcements from your community as well.
--  **Flexibility and Understanding:** Reminder that attendees may need additional info to be successful in onboarding to your project!
+-  **Project Experts:** We recommend having 1-2 project experts on your project. We love our developer advocates, community managers, and subject matter experts! You’re welcome to call for virtual reinforcements from your community as well.
+-  **Flexibility and Understanding:** Reminder that attendees may need additional info to be successful in onboarding to your project.
 
-These are suggestions and not requirements. It is perfectly valid to show up to Writing Day the day of, tell us about your project, and ask for volunteers! It’s been done before and it will be done again.
+These are suggestions and not requirements. It is perfectly valid to show up to Writing Day, tell us about your project day of, and ask for volunteers! It’s been done before and it will be done again.
 
 Contribute to a Project
 -----------------------
@@ -86,12 +88,13 @@ Check out the project list! Keep in mind that some attendees choose to announce 
 
 **Tips to contribute to a project:**
 
--  No matter your experience level, you are welcome! We are glad you’re here. - Even if you `feel <http://en.wikipedia.org/wiki/Impostor_syndrome>`__ as though you don't have the right skills or experience, or have never attended an event like Writing Day before, you’ll be surprised how much you can share.
--  Check out our `beginners guide <https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/>`_ to writing documentation. This should help you get started, and give you some ideas for how you can contribute to a project.
--  If at any time you get stuck with new concepts and tools, you are in a room full of friendly people from diverse backgrounds and experiences. Ask other people for help. If you are not sure who to ask, ask the Welcome Wagon or Registration staff or volunteers. We will help you find someone!
+-  **No matter your experience level, you are welcome!** We are glad you’re here. Even if you `feel <http://en.wikipedia.org/wiki/Impostor_syndrome>`__ as though you don't have the right skills or experience or have never attended an event like Writing Day before, you’ll be surprised how much you can share.
+-  **Check out our `beginners guide <https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/>`_ to writing documentation.** This should help you get started, and give you some ideas for how you can contribute to a project.
+-  **Ask people for help if you have a question.** If at any time you get stuck with new concepts and tools, you are in a room full of friendly people from diverse backgrounds and experiences.  If you are not sure who to ask, ask the Welcome Wagon or Registration staff or volunteers. We will help you find someone!
 
 Submit Your Project
 -------------------
+
 We encourage you to submit a Writing Day project in advance! We'll open project submissions in February/March. **Projects submitted by April 5 are promoted in our pre-conference Writing Day blog post and email.**
 
 Walk-on projects are always welcome. You always have the option to bring your project, sign up on site, and announce it during Writing Day.
