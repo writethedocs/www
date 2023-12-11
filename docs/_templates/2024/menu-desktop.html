@@ -92,4 +92,9 @@
   </li><!--- Parent element with it's children -->
 
   <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/news') }}">News</a></li>
+
+  {% if flagcfp %}
+  <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
+  {% endif %}
+
 </ul>
