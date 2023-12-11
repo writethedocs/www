@@ -11,7 +11,7 @@ The Unconference is attendee-driven sessions that provide the opportunity for an
 
 **Who can lead an Unconference session?**
 
-All attendees are invited to lead a session on a topic -- sessions can be organized around a presentation, group discussion or anything in between. 
+Anyone! All attendees are invited to lead a session on a topic -- sessions can be organized around a presentation, group discussion or anything in between. 
 
 **Who can attend an Unconference session?** 
 
