@@ -23,24 +23,32 @@ Schedule & Logistics
 
 **Date and time: Monday, April 15 & Tuesday April 16 after lunch**
 
-- Submit your lightning talk in person at the registration/check-in table throughout the conference.
--   Submissions are open:
-    -  During Writing Day.
-    -  Monday morning until the end of the last morning break.
-    -  Monday afternoon, post Monday Lightning Talks.
-    -  Tuesday morning until the end of the last morning break.
-- Speaker selection and announcements
-    - The coordinator selects the tentative speakers.
-    - The tentative speakers are announced on stage at the end of the last morning talk. You do not have to be present to be selected, but it is helpful. 
-    - The coordinator also contacts the speakers to confirm their acceptance and inform them of the time and place for the tech check.
-- Tech check - generally 10 minutes before lunch ends on the main stage. 
-    - Speaking order is confirmed during tech check.
-    - Speakers using tech, such as slides, etc, have the opportunity to test it.
-- Lightning Talks begin!
-    - The coordinator reminds all attendees how Lightning Talks work.
-    - Each speaker is introduced and they have 5 minutes to present.
-    - There is a countdown timer for each presentation. Speakers receive a notice when they have 1 minute remaining.
-    - The coordinator cuts off speakers at the 5 minute mark.
+Submit your lightning talk in person at the registration/check-in table throughout the conference.
+
+Submissions are open:
+
+-  During Writing Day.
+-  Monday morning until the end of the last morning break.
+-  Monday afternoon, post Monday Lightning Talks.
+-  Tuesday morning until the end of the last morning break.
+
+Speaker selection and announcements:
+
+- The coordinator selects the tentative speakers.
+- The tentative speakers are announced on stage at the end of the last morning talk. You do not have to be present to be selected, but it is helpful. 
+- The coordinator also contacts the speakers to confirm their acceptance and inform them of the time and place for the tech check.
+
+Tech check - generally 10 minutes before lunch ends on the main stage:
+
+- Speaking order is confirmed during tech check.
+- Speakers using tech, such as slides, etc, have the opportunity to test it.
+
+Lightning Talks begin:
+
+- The coordinator reminds all attendees how Lightning Talks work.
+- Each speaker is introduced and they have 5 minutes to present.
+- There is a countdown timer for each presentation. Speakers receive a notice when they have 1 minute remaining.
+- The coordinator cuts off speakers at the 5 minute mark.
 
 Exact times to be posted on the :doc:`/conf/{{shortcode}}/{{year}}/schedule` page.
 
