@@ -69,11 +69,9 @@ This Code of Conduct applies to all spaces managed by Write the Docs. This inclu
 * forum.writethedocs.org
 * Any other forums created by the which the community uses for communication.
 
-The Code of Conduct does not exclusively apply to events on an official agenda. For example, if after a scheduled social event you go to a bar with a group of fellow participants, and someone harasses you there, we would still treat that as a CoC violation. Similarly, harassment in Twitter direct messages related to Write the Docs can still be covered under this Code of Conduct.
+The Code of Conduct does not exclusively apply to events on an official agenda. For example, if after a scheduled social event you go to a bar with a group of fellow participts, and someone harasses you there, we would still treat that as a CoC violation. Similarly, harassment in Twitter direct messages related to Write the Docs can still be covered under this Code of Conduct.
 
 In addition, violations of this code outside our spaces may affect a person's ability to participate in them.
-
-.. _coc-sponsors:
 
 Sponsors, affiliates, and exhibitors
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -104,8 +102,6 @@ What to do in case of violations
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 If a Code of Conduct incident happens that affects you, or witness it affecting someone else, please contact the appropriate CoC team immediately. See the contact details below for the different teams for different spaces. In all cases, you may email conduct@writethedocs.org, but contacting local organisers may be faster. Email to the conduct@writethedocs.org is received by all members of the :ref:`core-team`.
-
-.. _coc-reporting:
 
 Guidelines for reporting incidents
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
