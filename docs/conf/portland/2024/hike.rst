@@ -25,9 +25,7 @@ Schedule & Logistics
 .. figure:: /_static/img/2015/hike/balch.jpg
    :alt: Balch Creek
 
-.. raw:: html
-
-   <br>
+   A view along the hike.
 
 What to Bring 
 -------------

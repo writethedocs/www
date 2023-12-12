@@ -19,11 +19,8 @@ Everyone!
 
 .. figure:: /_static/img/2024/unconference-board.jpg
 
-   Unconference board
+   Above is an example of what the unconference signup board will look like.
 
-.. raw:: html
-
-   <br>
 
 Unconference Schedule
 ---------------------
