@@ -1,117 +1,100 @@
-
-                <ul class="uk-nav uk-visible@s">
-                        <li>
-                          <ul class="uk-navbar-nav">
-                              <li>
-                                  <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/schedule') }}">Program</a>
-                                  <div class="uk-navbar-dropdown">
-                                      <ul class="uk-nav uk-navbar-dropdown-nav">
-                                          {% if flaglivestreaming %}
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/livestream') }}">Live Stream</a></li>
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/qa') }}">Speaker Q&A</a></li>
-                                          {% endif %}
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/schedule') }}">Schedule</a></li>
-                                          {% if flagspeakersannounced %}
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/speakers') }}">Speakers</a></li>
-                                          {% endif %}
-                                          {% if flaghaswritingday %}
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/writing-day') }}">Writing Day</a></li>
-                                          {% endif %}
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/lightning-talks') }}">Lightning Talks</a></li>
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/unconference') }}">Unconference</a></li>
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/job-fair') }}">Sponsor Expo</a></li>
-                                          {% if flaghashike %}
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/outing') }}">Hike</a></li>
-                                          {% endif %}
-                                          {% if flaghasboat %}
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/boat') }}">Boat Ride</a></li>
-                                          {% endif %}
-                                      </ul>
-                                  </div>
-                              </li>
-                          </ul>
-                        </li><!--- Parent element with it's children -->
-
-
-                        <li>
-                             <ul class="uk-navbar-nav">
-                                <li>
-                                    <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/tickets') }}">Tickets</a>
-                                    <div class="uk-navbar-dropdown">
-                                        <ul class="uk-nav uk-navbar-dropdown-nav">
-                                            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/tickets') }}">Tickets</a></li>
-                                            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/opportunity-grants') }}">Opportunity Grants</a></li>
-                                            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/convince-your-manager') }}">Convince Your Manager</a></li>
-                                        </ul>
-                                    </div>
-                                </li>
-                            </ul>
-                        </li>
+<ul class="uk-nav uk-visible@s">
+  <li>
+    <ul class="uk-navbar-nav">
+      <li>
+        <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/schedule') }}">Program</a>
+        <div class="uk-navbar-dropdown">
+          <ul class="uk-nav uk-navbar-dropdown-nav">
+            {% if flaglivestreaming %}
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/livestream') }}">Live Stream</a></li>
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/qa') }}">Speaker Q&A</a></li>
+            {% endif %}
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/schedule') }}">Schedule</a></li>
+            {% if flagspeakersannounced %}
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/speakers') }}">Speakers</a></li>
+            {% endif %}
+            {% if flagcfp %}
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/cfp') }}">Call for Proposals</a></li>
+            {% endif %}
+            {% if flaghaswritingday %}
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/writing-day') }}">Writing Day</a></li>
+            {% endif %}
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/lightning-talks') }}">Lightning Talks</a></li>
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/unconference') }}">Unconference</a></li>
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsor-expo') }}">Sponsor Expo</a></li>
+            {% if flaghashike %}
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/hike') }}">Hike</a></li>
+            {% endif %}
+            {% if flaghasboat %}
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/boat') }}">Boat Ride</a></li>
+            {% endif %}
+          </ul>
+        </div>
+      </li>
+    </ul>
+  </li><!--- Parent element with it's children -->
 
 
-                        <li>
-                          <ul class="uk-navbar-nav">
-                              <li>
-                                  <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/about') }}">About</a>
-                                  <div class="uk-navbar-dropdown">
-                                      <ul class="uk-nav uk-navbar-dropdown-nav">
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/about') }}">Overview</a></li>
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/welcome-wagon') }}">Attendee Guide</a></li>
-                                          {% if flaghasbadgeflair %}
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/badge-flair') }}">Badge Flair Contest</a></li>
-                                          {% endif %}
-                                          {% if flagcfp %}
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/cfp') }}">Call for Proposals</a></li>
-                                          {% endif %}
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/team') }}">Meet the Team</a></li>
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/contact') }}">Contact us</a></li>
-                                          <li><a href="{{ pathto('code-of-conduct') }}">Code of Conduct</a></li>
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/press-kit') }}">Press Kit</a></li>
-                                      </ul>
-                                  </div>
-                              </li>
-                          </ul>
-                        </li><!--- Parent element with it's children -->
+  <li>
+    <ul class="uk-navbar-nav">
+      <li>
+        <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/tickets') }}">Tickets</a>
+        <div class="uk-navbar-dropdown">
+          <ul class="uk-nav uk-navbar-dropdown-nav">
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/tickets') }}">Tickets</a></li>
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/opportunity-grants') }}">Opportunity Grants</a></li>
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/convince-your-manager') }}">Convince Your
+                Manager</a></li>
+          </ul>
+        </div>
+      </li>
+    </ul>
+  </li>
 
 
-                        <li>
-                          <ul class="uk-navbar-nav">
-                              <li>
-                                {% if not flagisvirtual %}
-                                  <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/visiting') }}">Visiting</a>
-                                  <div class="uk-navbar-dropdown">
-                                      <ul class="uk-nav uk-navbar-dropdown-nav">
-                                            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/visiting') }}">{{ city }}</a></li>
-                                            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/health') }}">Health and Safety Policy</a></li>
-                                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/venue') }}">Venue</a></li>
-                                      </ul>
-                                  </div>
-                                {% else %}
-                                  <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/venue') }}">Venue</a>
-                                {% endif %}
-                              </li>
-                          </ul>
-                        </li>
+  <li>
+    <ul class="uk-navbar-nav">
+      <li>
+        <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/') }}"">About</a>
+        <div class="uk-navbar-dropdown">
+          <ul class="uk-nav uk-navbar-dropdown-nav">
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/venue') }}">Venue</a></li>
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/health') }}">Health and Safety Policy</a></li>
+            {% if flagspeakersannounced %}
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/visiting') }}">Visiting {{ city }}</a></li>
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/welcome-wagon') }}">Attendee Guide</a></li>
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/team') }}">Meet the Team</a></li>
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/press-kit') }}">Press Kit</a></li>
+            {% endif %}
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/code-of-conduct') }}">Code of Conduct</a></li>
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/contact') }}">Contact us</a></li>
+            {% if flaghasbadgeflair %}
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/badge-flair') }}">Badge Flair Contest</a></li>
+            {% endif %}
+          </ul>
+        </div>
+      </li>
+    </ul>
+  </li><!--- Parent element with it's children -->
 
-                        <li>
-                            <ul class="uk-navbar-nav">
-                                <li>
-                                    <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsors') }}">Sponsors</a>
-                                    <div class="uk-navbar-dropdown">
-                                        <ul class="uk-nav uk-navbar-dropdown-nav">
-                                            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsors') }}">Our Sponsors</a></li>
-                                            {% if shortcode == 'portland' and year == 2020 %}
-                                              <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsors/online-prospectus') }}">Online prospectus</a></li>
-                                            {% else %}
-                                              <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsors/prospectus') }}">Prospectus</a></li>
-                                            {% endif %}
-                                        </ul>
-                                    </div>
-                                </li>
-                            </ul>
-                          </li><!--- Parent element with it's children -->
+  <li>
+    <ul class="uk-navbar-nav">
+      <li>
+        <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsors') }}">Sponsors</a>
+        <div class="uk-navbar-dropdown">
+          <ul class="uk-nav uk-navbar-dropdown-nav">
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsors/prospectus') }}">Prospectus</a></li>
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsors') }}">Our Sponsors</a></li>
+          </ul>
+        </div>
+      </li>
+    </ul>
+  </li><!--- Parent element with it's children -->
 
-                        <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/news') }}">News</a></li>
+  <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/news') }}">News</a></li>
 
-
-                </ul>
+  {% if flagcfp %}
+  <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
+  {% endif %}
+  
+</ul>

@@ -27,7 +27,7 @@ Home - Write the Docs {{ name }} {{ year }}
                             <em>{{ name }}</em> <br>
                             <em style="top: -20px;">{{ year }}</em>
                         </div>
-                      {% if not flaglanding %}
+                    {% if not flaglanding %}
                      {% include year_str + "/menu-mobile.html" %}
                      {% endif %}
             </div>
@@ -109,7 +109,7 @@ Home - Write the Docs {{ name }} {{ year }}
 
   {% endif %}
 
-  <div class="about">
+  <div class="about" id="about">
     <div class="uk-container">
 
       <div class="about-content">
@@ -129,7 +129,7 @@ Home - Write the Docs {{ name }} {{ year }}
         <p>
         We invite you to our 12th Portland conference to join {{ about.attendees }}
         other attendees to explore the art and science of
-        documentation! <strong>Tickets go on sale {{ date.tickets_live }}</strong>.
+        documentation! <strong><a href="/conf/{{shortcode}}/{{year}}/tickets/">Tickets</a> are on sale now</strong>.
         </p>
         <p>
         Interested in being a speaker? We’re accepting 
@@ -152,7 +152,7 @@ Home - Write the Docs {{ name }} {{ year }}
     </div>
   </div><!-- end about -->
 
-  <div class="schedule-overview">
+  <div class="schedule-overview" id="schedule-overview">
     <div class="uk-container" uk-grid>
       <h2>Schedule Overview</h2>
 
@@ -227,6 +227,27 @@ Home - Write the Docs {{ name }} {{ year }}
 
     </div>
   </div><!-- end schedule overview -->
+
+
+  <div class="about" id="about">
+    <div class="uk-container">
+      <div class="about-content">
+
+        <h2>Past attendees have said</h2>
+
+        <blockquote class="testimonial-text">
+          The most exciting part of attending Write the Docs is collaborating with open-source projects, networking, and meeting great people who care about documentation –you get to engage in incredible conversations and learn from fellow documentarians!
+        </blockquote>
+        <p class="testimonial-author">- <a href="https://www.linkedin.com/in/mario-morales-2780a176/">Mario Morales, Staff Technical Writer at Wizeline</a></p>
+
+        <blockquote class="testimonial-text">
+        By attending Write The Docs, I met so many documentation professionals, discovered new opportunities, and learned how to address problems I had yet to face before I faced them. It's clear how much the organizers care about running a thoughtful, inclusive conference, and they do so successfully -- I look forward to it every year.
+        </blockquote>
+        <p class="testimonial-author">- <a href="https://heyawhite.com/about/">Alexandra White, Senior Tech Writer at Google</a></p>
+
+      </div>
+    </div>
+  </div>
 
   {% if body %}
     {% block body %}

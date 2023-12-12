@@ -56,7 +56,7 @@ How should I dress?
 ~~~~~~~~~~~~~~~~~~~
 
 -  Portland is a casual-dress town and so is the Write the Docs conference. You'll be meeting business colleagues at this conference, though, so neat and comfortable are good dress guidelines.
--  If you are going on the `Write the Docs hike on Saturday <https://www.writethedocs.org/conf/portland/2024/outing/>`__, be sure
+-  If you are going on the `Write the Docs hike on Saturday <https://www.writethedocs.org/conf/portland/2024/hike/>`__, be sure
    to bring appropriate hiking clothes and shoes. This time of year, the Pacific Northwest tends to be muddy or raining with occasional swaths of blue skies. Layering is usually the way to go.
 
 
