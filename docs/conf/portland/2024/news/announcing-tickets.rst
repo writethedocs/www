@@ -16,7 +16,7 @@ We look forward to gathering with you for our 12th annual Portland Write the Doc
 
 `Buy your tickets for the conference now. <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_
 
-Conference Schedule
+Conference Overview
 -------------------
 
 The Portland conference will be held on {{ date.short }}. Check the `event website <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/>`_ for more information. Similar to our past conferences, we’ll be hosting:
@@ -29,6 +29,8 @@ The Portland conference will be held on {{ date.short }}. Check the `event websi
 - Conference Party
 
 We are returning to the same venue as last year, Revolution Hall, and are taking what we learned from year one at a new venue to enhance the experience and add more spaces for us to gather. Stay tuned for an updated Visiting Portland page with venue info, hotel recommendations, food and places to visit. 
+
+`Buy your tickets <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_ today! 
 
 Call for Proposals
 ------------------
