@@ -17,7 +17,9 @@ Anyone! All attendees are invited to lead a session on a topic -- sessions can b
 
 Everyone! 
 
-.. image:: /_static/img/2024/unconference-board.jpg
+.. figure:: /_static/img/2024/unconference-board.jpg
+
+   Unconference board
 
 .. raw:: html
 
@@ -27,8 +29,9 @@ Unconference Schedule
 ---------------------
 
 **Date: Monday, April 15 & Tuesday, April 16**
-*  Morning and afternoon sessions
-*  Each session is 40 minutes in length 
+
+- Morning and afternoon sessions
+- Each session is 40 minutes in length 
 
 Exact times to be posted on our :doc:`/conf/{{shortcode}}/{{year}}/schedule` page. 
 

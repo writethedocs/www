@@ -25,30 +25,31 @@ Schedule & Logistics
 
 Submit your lightning talk in person at the registration/check-in table throughout the conference.
 
-Submissions are open:
+**Submissions are open:**
 
 -  During Writing Day.
 -  Monday morning until the end of the last morning break.
 -  Monday afternoon, post Monday Lightning Talks.
 -  Tuesday morning until the end of the last morning break.
 
-Speaker selection and announcements:
+**Speaker selection and announcements:**
 
 - The coordinator selects the tentative speakers.
-- The tentative speakers are announced on stage at the end of the last morning talk. You do not have to be present to be selected, but it is helpful. 
+- The tentative speakers are announced on stage at the end of the last morning talk on Monday and Tuesday. You do not have to be present to be selected, but it is helpful. 
 - The coordinator also contacts the speakers to confirm their acceptance and inform them of the time and place for the tech check.
 
-Tech check - generally 10 minutes before lunch ends on the main stage:
+**Tech check**: 
 
+- Ten minutes before lunch ends on the main stage on Monday and Tuesaday.
 - Speaking order is confirmed during tech check.
 - Speakers using tech, such as slides, etc, have the opportunity to test it.
 
-Lightning Talks begin:
+**Lightning Talks begin:**
 
-- The coordinator reminds all attendees how Lightning Talks work.
+- The coordinator explains to attendees how Lightning Talks work.
 - Each speaker is introduced and they have 5 minutes to present.
 - There is a countdown timer for each presentation. Speakers receive a notice when they have 1 minute remaining.
-- The coordinator cuts off speakers at the 5 minute mark.
+- The coordinator stops speakers at the 5 minute mark.
 
 Exact times to be posted on the :doc:`/conf/{{shortcode}}/{{year}}/schedule` page.
 
@@ -60,11 +61,11 @@ A lightning talk is no more than five minutes long! This is intentional and desi
 
 Speakers can talk about anything, it does not have to be related to documentation. Some of our most popular lightning talk topics included legos, music, design software, to name a few.
 
-**Choose a topic**
+**1. Choose a topic**
 
 You are welcome to submit any topic you are passionate about and can pitch in your submission summary.
 
-Topic selection tips:
+**Topic selection tips:**
 
 - A concept, process, or tool that you are learning or learned recently.
 - A retrospective overview, what went right/wrong during a project you are doing or finished.
@@ -72,13 +73,13 @@ Topic selection tips:
 
 Technical topics are wonderful and welcome but are not mandatory. We enjoy having a variety of topics to entice your fellow attendees.
 
-**Create an outline**
+**2. Create an outline**
 
 - Consider the audience. 
 - What is the goal of your talk? 
 - What points do you need to make to help them understand your goal? 
  
-**Choose points of interest**
+**3. Choose points of interest**
 
 - What could you use this for or when could you use it? Have you already used it? How?
 - When would it not be as useful? What are some contraindications to using it?
@@ -120,11 +121,11 @@ A derailed demo can distress even the most skilled presenters. If you choose to 
 Create Opportunities for Follow Up
 ----------------------------------
 
-Lightning Talks can create wonderful opportunities such as hallway conversations, unconference sessions, and some times future presentations.
+Lightning Talks can create wonderful opportunities such as hallway conversations, unconference sessions, and sometimes, future presentations.
 
-If you are interested and able, consider using the final moments of your presentation to let the audience know how they can follow up with you. Let them know if you plan to share your content and how to access it. 
-
-Some presenters choose to share their social media information or host their own unconference session. While it is optional, it is something worth consideration.
+- Consider using the final moments of your presentation to let the audience know how to follow up with you. If you plan to share your content, let them know how to access it. 
+- Share your social media information (optional).
+- Host your own unconference session (optional).
 
 Your Time on Stage
 ------------------
