@@ -221,11 +221,9 @@ sponsors:
     - name: knowledgeowl
       link: https://www.knowledgeowl.com?ref=writethedocs
       brand: KnowledgeOwl
-      width: 250px
     - name: readthedocs
       link: https://about.readthedocs.com/?ref=writethedocs
       brand: Read the Docs
-      width: 250px
     # - name: raspberrypi
     #   link: https://www.raspberrypi.com/
     #   brand: Raspberry Pi
