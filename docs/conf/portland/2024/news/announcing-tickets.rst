@@ -33,16 +33,18 @@ We are returning to the same venue as last year, Revolution Hall, and are taking
 Call for Proposals
 ------------------
 
-We’re currently accepting speaker proposals for talks. **Submit your talk by January 15!**
+We’re currently accepting speaker proposals for talks. We are excited to welcome a variety of viewpoints on stage at the conference again this year.
 
-`Call for Proposals Information and Application <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_
+Our `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_ provides more information and includes a list of topics we’re interested in hearing about.
+
+**Submit your talk by January 15!**
 
 Opportunity Grants
 ------------------
 
 Interested in attending but need extra financial support? We strive to provide an accessible conference for folks of all backgrounds to join. Our opportunity grant application is now open. 
 
-`View our Opportunity Grants page for information and the application <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/>`_.
+View our `Opportunity Grants page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/>`_ for information and the grant application.
 
 Thanks to our sponsors
 ----------------------
@@ -55,8 +57,6 @@ Thanks so much to the following companies for supporting the conference this yea
    :source: /_data/{{shortcode}}-{{year}}-config.yaml
    :template: {{year}}/sponsors-simplelist.rst
 
-`Become a sponsor today! <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_
+Your company can `become a sponsor today! <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_
 
-Looking forward to seeing you all here soon.
-
-The Write the Docs Team
+We're looking forward to seeing everyone again in Portland.
