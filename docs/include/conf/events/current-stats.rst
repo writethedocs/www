@@ -1,2 +1,2 @@
 - :doc:`/blog/2022-january-community-update/`
-- :doc:`/blog/write-the-docs-2021-stats/`
+- :doc:`/blog/write-the-docs-2022-stats/`
