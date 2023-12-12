@@ -37,5 +37,4 @@ Please expect the following measures to be in place at the event:
 * Masks available at registration, while supplies last
 
 At a minimum, we will also be following all mandated venue and state guidelines.
-**This list, and all protocols, are subject to change as the fluid COVID-19 situation changes.
-Changes to this policy will only add requirements, and will not remove requirements.**
+This list, and all protocols, are subject to change as the fluid COVID-19 situation changes.

@@ -182,12 +182,12 @@ hike:
 sponsors:
   keystone:
   patron:
-    - name: readme
-      link: https://readme.com/?ref=writethedocs
-      brand: ReadMe
     - name: gitbook
       link: https://www.gitbook.com/?ref=writethedocs
       brand: GitBook
+    - name: readme
+      link: https://readme.com/?ref=writethedocs
+      brand: ReadMe
   publisher:
     # - name: mongodb-new
     #   link: https://www.mongodb.com/
