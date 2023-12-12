@@ -89,7 +89,7 @@ Check out the project list! Keep in mind that some attendees choose to announce 
 **Tips to contribute to a project:**
 
 -  **No matter your experience level, you are welcome!** We are glad you’re here. Even if you `feel <http://en.wikipedia.org/wiki/Impostor_syndrome>`__ as though you don't have the right skills or experience or have never attended an event like Writing Day before, you’ll be surprised how much you can share.
--  **Check out our `beginners guide <https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/>`_ to writing documentation.** This should help you get started, and give you some ideas for how you can contribute to a project.
+-  **Check out our guide to writing documentation.** Our `beginners guide <https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/>`_ will help you get started, and give you some ideas for how you can contribute to a project.
 -  **Ask people for help if you have a question.** If at any time you get stuck with new concepts and tools, you are in a room full of friendly people from diverse backgrounds and experiences.  If you are not sure who to ask, ask the Welcome Wagon or Registration staff or volunteers. We will help you find someone!
 
 Submit Your Project
