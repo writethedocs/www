@@ -3,18 +3,19 @@ template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
+# Health and Safety Policy 
 
-**This policy is up to date as of October 2023.**
+**This policy is up to date as of December 2023.**
 
-### No Vaccination or Testing Requirement
+## No Vaccination or Testing Requirement
 
 This year, we have removed our vaccination and testing mandate. We will not be requiring any specific COVID-related health measures to attend the event, however we will still provide a number of accommodations for people who have concerns.
 
-### Masks Provided
+## Masks Provided
 
 We are not currently requiring that masks be worn in the venue. We will provide masks to attendees at our registration desk.
 
-### Onsite health and safety measures
+## Onsite health and safety measures
 
 Please expect the following measures to be in place at the event:
 
