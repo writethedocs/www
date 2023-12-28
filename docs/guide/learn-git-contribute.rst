@@ -86,7 +86,7 @@ Start using Git and modify the source file of a page
 9. Open the ``www`` folder on your computer.
 
 10. | Open the file you wish to edit using a text editor like `Sublime
-      Text`_ or `Visual Studio Code`_, then save the file.
+      Text`_ , `CodeLobster`_ or `Visual Studio Code`_, then save the file.
 
 11. In your terminal window, type:
 
@@ -133,6 +133,7 @@ Start using Git and modify the source file of a page
 .. _associate your GitHub username with your local Git installation: https://help.github.com/en/articles/setting-your-username-in-git
 .. _Write the Docs www project: https://github.com/writethedocs/www
 .. _Sublime Text: https://www.sublimetext.com
+.. _CodeLobster: https://www.codelobster.com
 .. _Visual Studio Code: https://code.visualstudio.com/
 .. _write a good commit message: https://chris.beams.io/posts/git-commit/
 .. _GitHub pull request: https://help.github.com/en/articles/creating-a-pull-request
