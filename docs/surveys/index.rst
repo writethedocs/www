@@ -8,7 +8,7 @@ Overwhelmed by the positive response, we expanded the survey to collect informat
 2023 Salary Survey now closed
 -----------------------------
 
-The 2023 Salary Survey is now closed for submissions and we're working hard on processing the results, which will be published here (as well as in the newsletter, on Twitter, on LinkedIn and in Slack) during the first quarter for 2024.
+The 2023 Salary Survey is now closed for submissions and we're working hard on processing the results, which will be published here (as well as in the newsletter, on Twitter, on LinkedIn and in Slack) during the first quarter of 2024.
 
 A huge thank you to everyone in the community: with your help, the 2023 survey has broken all previous records for number of respondents, both employees and contractors/freelancers/self-employed people. More responses means more complete and useful information, which benefits everyone. So stay tuned - we can't wait to share the results with you!
 
