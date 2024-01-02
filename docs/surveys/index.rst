@@ -5,14 +5,12 @@ In 2019, we launched the first Write the Docs salary survey, to gather data abou
 
 Overwhelmed by the positive response, we expanded the survey to collect information about remote work, attitudes towards pay transparency, and satisfaction about salaries, benefits and overall job situations. Based on community feedback, we've continued to refine the questions each year - especially for independent contractors, freelancers and the self-employed. 
 
-2023 Salary Survey now open
-===========================
+2023 Salary Survey now closed
+-----------------------------
 
-The `2023 Salary Survey is now accepting submissions <https://salary-survey.writethedocs.org>`_. The survey will be open until the end of 2023, and results will be made available here in the first quarter of 2024. 
+The 2023 Salary Survey is now closed for submissions and we're working hard on processing the results, which will be published here (as well as in the newsletter, on Twitter, on LinkedIn and in Slack) during the first quarter of 2024.
 
-We encourage everyone working in areas related to documentation to complete this survey, no matter what country you live in, what level of skill or experience you possess, or what industry you operate in. The questions are for people of all employment statuses: working or unemployed, full-time or part-time, permanent or contract, employee or freelance/self-employed. With every contribution, we gain a clearer picture of salaries in our industry - so please add your voice and share with your colleagues. 
-
-`2023 WTD Documentation Salary Survey <https://salary-survey.writethedocs.org>`_
+A huge thank you to everyone in the community: with your help, the 2023 survey has broken all previous records for number of respondents, both employees and contractors/freelancers/self-employed people. More responses means more complete and useful information, which benefits everyone. So stay tuned - we can't wait to share the results with you!
 
 .. toctree::
    :caption: Survey Results
