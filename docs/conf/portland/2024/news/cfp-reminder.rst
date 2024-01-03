@@ -3,7 +3,7 @@
 .. post:: Jan 03, 2024
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
-Call for proposals and grant application reminder
+Call for Proposals and Grant Application Reminder
 ===================================================
 
 Happy New Year, fellow documentarians!
@@ -32,6 +32,11 @@ The most important dates to remember:
    :alt: Ashleigh Rentz speaking at WTD in 2023
 
 
+.. raw:: html
+
+    <br /><p />
+
+
 Get your ticket for the conference
 ----------------------------------
 
@@ -46,12 +51,12 @@ so we expect tickets to sell out a few weeks before the conference.
 
 Similar to our past conferences, we're going to keep as much of the spirit of the event as possible:
 
-* Excellent single track of presentations with wide-ranging talks
-* Writing Day
-* Unconference sessions
-* Job Fair
-* Sponsor booths
-* An expanded hallway track
+- Speaker Presentations
+- Writing Day
+- Unconference Sessions
+- Sponsor Expo + Job Fair
+- Welcome Reception
+- Conference Party
 
 We're excited to see you all in Portland again soon.
 
@@ -72,9 +77,6 @@ who believe in the collaborative and welcoming community spirit and help us make
 We have published our `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ for the conference,
 and are open for new sponsorship inquiries.
 
-We have some interesting new sponsorship options with sponsored workshops.
-We will also run the `job fair <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/job-fair/>`_ again this year,
-helping documentarians and organizations connect with each other.
 Check out the sponsorship prospectus for more details and to reserve your spot today.
 
 Looking forward to seeing you all here soon!
