@@ -27,6 +27,11 @@ The most important dates to remember:
 * Talk proposals are due by {{ cfp.ends }}.
 * Everyone who submits will get a response by {{ cfp.notification }}.
 
+.. image:: /_static/img/speakers.jpeg
+   :width: 400
+   :alt: Ashleigh Rentz speaking at WTD in 2023
+
+
 Get your ticket for the conference
 ----------------------------------
 
