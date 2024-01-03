@@ -65,7 +65,7 @@ Opportunity Grants
 
 Interested in attending but need extra financial support? We strive to provide an accessible conference for folks of all backgrounds to join. Our opportunity grant application is open until    **{{ grants.ends }}**.
 
-View our `Opportunity Grants page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/>`_ for information and the grant application, .
+View our `Opportunity Grants page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/>`_ for information and the grant application.
 
 
 Support our community by sponsoring
