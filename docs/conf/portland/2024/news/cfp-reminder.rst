@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Jan 03, 2024
+.. post:: Jan 04, 2024
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
 Call for Proposals and Grant Application Reminder
