@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 
 .. post:: Jan 04, 2024
-   :tags: {{shortcode}}-{{year}}, website, cfp, tickets
+   :tags: {{shortcode}}-{{year}}, cfp, tickets, grants
 
 Call for Proposals and Grant Application Reminder
 ===================================================
@@ -10,7 +10,7 @@ Happy New Year, fellow documentarians!
 
 This is your scheduled reminder to kick off 2024 by `submitting a talk <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`__ to Write the Docs Portland! You can do so until **{{ cfp.ends }}**.
 
-In other conference news, `tickets are on sale <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_, and you can still `apply for an opportunity grant <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/>`_, read on for more information on any of that good stuff.
+In other conference news, `tickets are on sale <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_, and you can still `apply for an opportunity grant <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/>`_, read on for more information.
 
 Submit your talk by **{{ cfp.ends }}**
 --------------------------------------------------
@@ -49,7 +49,7 @@ go ahead and `register for your ticket now <https://www.writethedocs.org/conf/{{
 We are still planning to limit capacity of the event to ensure that we have a safe and community-focused experience for everyone,
 so we expect tickets to sell out a few weeks before the conference.
 
-Similar to our past conferences, we're going to keep as much of the spirit of the event as possible:
+Similar to our past conferences, we're going to have a wide range of ways to engage:
 
 - Speaker Presentations
 - Writing Day
@@ -63,7 +63,7 @@ We're excited to see you all in Portland again soon.
 Opportunity Grants
 ------------------
 
-Interested in attending but need extra financial support? We strive to provide an accessible conference for folks of all backgrounds to join. Our opportunity grant application is open until    **{{ grants.ends }}**.
+Interested in attending but need extra financial support? We strive to provide an accessible conference for folks of all backgrounds to join. Our opportunity grant application is open until **{{ grants.ends }}**.
 
 View our `Opportunity Grants page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/>`_ for information and the grant application.
 
@@ -73,6 +73,12 @@ Support our community by sponsoring
 
 Every year we are fortunate to have the support of like-minded organizations and communities,
 who believe in the collaborative and welcoming community spirit and help us make our events great.
+
+Thanks so much to the following companies for supporting the conference this year:
+
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-config.yaml
+   :template: {{year}}/sponsors-simplelist.rst
 
 We have published our `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ for the conference,
 and are open for new sponsorship inquiries.
