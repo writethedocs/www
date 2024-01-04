@@ -127,14 +127,19 @@ Home - Write the Docs {{ name }} {{ year }}
         Amsterdam, London, and Melbourne.
         </p>
         <p>
-        We invite you to our 12th Portland conference to join {{ about.attendees }}
+        We invite you to our {{ name }} conference to join {{ about.attendees }}
         other attendees to explore the art and science of
-        documentation! <strong><a href="/conf/{{shortcode}}/{{year}}/tickets/">Tickets</a> are on sale now</strong>.
+        documentation!
+        {% if flagticketsonsale %}
+          <strong><a href="/conf/{{shortcode}}/{{year}}/tickets/">Tickets</a> are on sale now</strong>.
+        {% endif %}
         </p>
-        <p>
-        Interested in being a speaker? We’re accepting 
-        <a href="/conf/{{shortcode}}/{{year}}/cfp/">Call for Proposals</a> until {{ cfp.ends }}.
-        </p>
+        {% if flagcfp %}
+          <p>
+          Interested in being a speaker? We’re accepting
+          <a href="/conf/{{shortcode}}/{{year}}/cfp/">Call for Proposals</a> until {{ cfp.ends }}.
+          </p>
+        {% endif %}
 
       </div>
 
