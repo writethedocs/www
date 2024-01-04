@@ -1,4 +1,5 @@
 :template: {{year}}/generic.html
+:og:image: /_static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.png
 
 .. post:: Jan 04, 2024
    :tags: {{shortcode}}-{{year}}, cfp, tickets, grants
