@@ -75,6 +75,34 @@ Around mid 2024, we will announce dates and more details for the Australian conf
 We’re also looking for more sponsors to make our other events just as magical as this year’s Australia event.
 You can see all our `sponsorship options <https://www.writethedocs.org/sponsorship/>`__ on our website.
 
+Join our Slack Network
+----------------------
+
+Our Slack network has really grown over the past few years.
+It has been extra busy in the days and weeks leading up to the conference, and we hope that y'all continue the conversations throughout the year. 
+
+If you haven’t joined, now is the time! 
+Check out the `Write the Docs Slack`_.
+
+.. _Write the Docs Slack: http://www.writethedocs.org/slack/
+
+Subscribe to our Newsletter
+---------------------------
+
+Our `monthly newsletter`_ is the other place to keep track of everything that is happening with the community. Subscribe to make sure you hear
+about all the conferences, meetups, job postings, and summaries of relevant conversations in our Slack.
+
+.. _monthly newsletter: http://writethedocs.org/newsletter/
+
+Join a meetup
+-------------
+
+We hope you continue to `build the meetup community`_ and keep in touch with other documentarians near your hometown. We have a number of
+meetups in cities across the country, and if you don’t see your city listed consider `starting`_ a meetup!
+
+.. _build the meetup community: http://www.writethedocs.org/meetups/
+.. _starting: http://www.writethedocs.org/organizer-guide/meetups/starting/
+
 Thanks again
 ============
 
