@@ -38,7 +38,7 @@ We’re excited to share the `full resolution sketchnotes`_ from the conference 
 
 Thanks to `Angharad Neal-Williams`_ for doing them this year!
 
-.. _full resolution sketchnotes: https://www.flickr.com/photos/writethedocs/albums/72177720313823452/
+.. _full resolution sketchnotes: https://www.flickr.com/photos/writethedocs/albums/72177720313568124/
 .. _Angharad Neal-Williams: https://www.angharad.au/
 
 Code of Conduct transparency report
