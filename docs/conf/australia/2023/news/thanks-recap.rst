@@ -64,7 +64,7 @@ If there was any personal conduct or other aspect of the conference experience t
 Ready for more?
 ===============
 
-We are already in 2024 folks! Our `Portland conference <https://www.writethedocs.org/conf/portland/2024/>`__ is scheduled to happen 14-16 May and CFPs are now open.
+We are already in 2024 folks! Our `Portland conference <https://www.writethedocs.org/conf/portland/2024/>`__ is scheduled to happen 14-16 May and the call for proposals is now open.
 You can `submit a talk for the Portland conference <https://www.writethedocs.org/conf/portland/2024/cfp/>`__ until **midnight Pacific time 15 January 2024**.
 This conference will take place in-person in Portland.
 
@@ -106,5 +106,5 @@ meetups in cities across the country, and if you don’t see your city listed co
 Thanks again
 ============
 
-We're so grateful to our sponsors, speakers, volunteers, and attendees for making this conference possible.
+We're so grateful to our sponsor (KnowledgeOwl), speakers, volunteers, and attendees for making this conference possible.
 Whether you were able to come out this time or not, we hope to see you again next year – or even sooner at one of our other events!
