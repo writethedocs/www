@@ -9,7 +9,7 @@ Conference highlights and thanks to the community!
 
 G'day everyone,
 
-The Write the Docs Australia team is now emerging from the post-conference recovery period, and we wanted to send out a quick message to thank everyone for helping to make our 2023 Australia online conference such a success.
+The Write the Docs Australia team is now emerging from the post-conference recovery period, and we wanted to send out a quick message to thank everyone for helping to make our 2023 Australia conference such a success.
 We appreciate everyone who makes the conference possible: speakers, sponsors, organizers, volunteers, and attendees alike!
 We're happy to share some of the highlights with you.
 
