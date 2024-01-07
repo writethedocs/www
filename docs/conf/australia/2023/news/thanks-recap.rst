@@ -70,7 +70,7 @@ This conference will take place in-person in Portland.
 
 If you cannot make the Portland conference, we will also announce dates for the online Atlantic conference soon.
 
-Around mid 2024, we will announce dates and more details for the Australian conference.
+We will announce dates and more details for the next Australian conference in the middle of 2024.
 
 We’re also looking for more sponsors to make our other events just as magical as this year’s Australia event.
 You can see all our `sponsorship options <https://www.writethedocs.org/sponsorship/>`__ on our website.
