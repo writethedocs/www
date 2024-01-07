@@ -27,7 +27,7 @@ Overall, we were excited with how our awesome community came back together at ou
 Videos
 ======
 
-Videos of the talks and lightning talks are now available on `our Write the Docs Australia YouTube playlist <https://youtube.com/playlist?list=PLy70RNJ7dYrJB-2yuGw-bTppEDmQr5T56>`__. We also included the Q&A recordings for the main talks.
+Videos of the talks and lightning talks are now available on `our Write the Docs Australia YouTube playlist <https://www.youtube.com/playlist?list=PLy70RNJ7dYrJR66QtoHmTWSqm4iAlmH-m>`__. We also included the Q&A recordings for the main talks.
 
 Thanks again to Peter and Junko Fundeis for doing such a great job with these. You can also subscribe to the broader `Write the Docs YouTube channel <https://www.youtube.com/writethedocs>`__ or our very own `Write the Docs Australia YouTube channel <https://www.youtube.com/c/WriteTheDocsAus>`__ so you don't miss any future content!
 
