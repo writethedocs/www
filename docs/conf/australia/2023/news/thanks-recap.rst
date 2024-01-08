@@ -72,8 +72,19 @@ If you cannot make the Portland conference, we will also announce dates for the 
 
 We will announce dates and more details for the next Australian conference in the middle of 2024.
 
+Support our community by sponsoring
+====================================
+
+Every year we are fortunate to have the support of like-minded organizations and communities, who believe in the collaborative and welcoming community spirit and help us make our events great.
+
+Thanks so much to the following companies for supporting the conference this year:
+
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-config.yaml
+   :template: {{year}}/sponsors-simplelist.rst
+
 We’re also looking for more sponsors to make our other events just as magical as this year’s Australia event.
-You can see all our `sponsorship options <https://www.writethedocs.org/sponsorship/>`__ on our website.
+You can see all our `sponsorship options <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`__ for our Portland conference on our website.
 
 Join our Slack network
 =======================
@@ -106,5 +117,7 @@ meetups in cities across the country, and if you don’t see your city listed co
 Thanks again
 ============
 
-We're so grateful to our sponsor (KnowledgeOwl), speakers, volunteers, and attendees for making this conference possible.
+We're so grateful to our sponsor, speakers, volunteers, and attendees for making this conference possible.
 Whether you were able to come out this time or not, we hope to see you again next year – or even sooner at one of our other events!
+
+The Write the Docs Australia team
