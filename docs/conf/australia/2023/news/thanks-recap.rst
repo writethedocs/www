@@ -84,7 +84,7 @@ Thanks so much to the following companies for supporting the conference this yea
    :template: {{year}}/sponsors-simplelist.rst
 
 We’re also looking for more sponsors to make our other events just as magical as this year’s Australia event.
-You can see all our `sponsorship options <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`__ for our Portland conference on our website.
+You can see all our `sponsorship options <https://www.writethedocs.org/conf/portland/2024/sponsors/prospectus/>`__ for our Portland conference on our website.
 
 Join our Slack network
 =======================
@@ -105,13 +105,13 @@ about all the conferences, meetups, job postings, and summaries of relevant conv
 
 .. _monthly newsletter: http://writethedocs.org/newsletter/
 
-Join a meetup
-=============
+Attend a meetup event
+=====================
 
-We hope you continue to `build the meetup community`_ and keep in touch with other documentarians near your hometown. We have a number of
+We hope you continue to `build the meetup community in Australia`_ and keep in touch with other documentarians near your hometown. We have a number of
 meetups in cities across the country, and if you don’t see your city listed consider `starting`_ a meetup!
 
-.. _build the meetup community: http://www.writethedocs.org/meetups/
+.. _build the meetup community: https://www.meetup.com/write-the-docs-australia/
 .. _starting: http://www.writethedocs.org/organizer-guide/meetups/starting/
 
 Thanks again
