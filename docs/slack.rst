@@ -121,7 +121,7 @@ Everyone who joins the Slack will be added to these channels:
 * **#intros** - Introduce yourself! Let people know you're here, and why you care about docs :)
 * **#announcements** - Community-wide announcements from the Write the Docs organizers.
 * **#general** - The main channel for documentation-related conversation and questions.
-* **#jobs-posts-only** - Posting jobs. (Talk about your job search in **#work-wanted** and **#career-advice**.)
+* **#job-posts-only** - Posting jobs. (Talk about your job search in **#work-wanted** and **#career-advice**.)
 * **#wtd-conferences** - Questions and discussion for :doc:`/conf/index`. (Talk about other conferences in **#community-events**.)
 * **#meetups** - Questions and discussion for Write the Docs :doc:`/meetups/index`. (Talk about other meetups in **#community-events**.)
 * **#watercooler** - Off-topic chat. Get to know folks' other interests that aren't around documentation :)
