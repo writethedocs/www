@@ -20,9 +20,9 @@ Attend a conference
 
 We have in-person and virtual conferences around the world:
 
-   - :doc:`Australia 2023 </conf/australia/2023/index>`, **December 7-8, 2023**, Melbourne, Australia
    - :doc:`Portland 2024 </conf/portland/2024/index>`, **April 14-16, 2024**, Portland, Oregon, United States
    - **Atlantic 2024**, Dates TBD, Virtual event, UTC timezone
+   - **Australia 2024**, Dates and Venue TBD, AEDT timezone
 
 See all :doc:`our conferences </conf/index>` from past years.
 
