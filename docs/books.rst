@@ -16,6 +16,7 @@ Technical communication
 * `Practical Strategies for Technical Communication <https://www.goodreads.com/book/show/15875185-practical-strategies-for-technical-communication>`_, by Mike Markel and Stuart Selber
 * `The Product is Docs <https://www.splunk.com/en_us/blog/splunklife/the-product-is-docs.html>`_, by Christopher Gales - **1st edition read in our book club**
 * `Wicked, Incomplete, and Uncertain: User Support in the Wild and the Role of Technical Communication <https://www.goodreads.com/book/show/37864792-wicked-incomplete-and-uncertain>`_, by Jason Swarts
+* `Software Technical Writing: A Guidebook <https://jamesg.blog/book.pdf>`_, by James Gallagher
 
 E-Learning
 -----------
