@@ -26,12 +26,12 @@ You can read our previous posts from 2016_, 2017_, 2018_, 2019_, 2020_, 2021_, 2
 Conferences
 ~~~~~~~~~~~
 
-* 325 attendees in Portland (from 600 virtually)
-* 300 attendees in Atlantic (from 225)
-* 75 attendees in Australia (from 100 virtually)
+* 325 in-person attendees in Portland (from 600 online in 2022)
+* 300 online attendees in Atlantic (from 225 online at Prague 2022)
+* 75 in-person attendees in Australia (from 100 online in 2022)
 
 It was great to be back in person in 2023,
-as well as offer a new approach to our virtual events.
+as well as offer a new approach to our virtual event.
 
 Slack network
 ~~~~~~~~~~~~~
