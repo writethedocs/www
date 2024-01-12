@@ -16,19 +16,25 @@ Our 2024 conferences
 
 It was lovely to see everyone again in Portland & Australia conferences this year,
 and to connect with folks online at our Atlantic conference.
+It was a lot of work to move to a new venue in Portland,
+but we think it's a great space to build our community in the future.
+Planning for 2024 has felt a lot less stressful,
+with some small tweaks like adding additional space for the unconference and moving catering into a dedicated space.
+
 We're planning similar events for 2024:
 
 * `Portland <https://www.writethedocs.org/conf/portland/2024/>`_ will be in-person on **April 14-16**.
-* `Atlantic <https://www.writethedocs.org/conf/atlantic/2024/>`_ will be a virtual event, spanning the East Coast and European timezones, on **September 22-24**.
+* **Atlantic** will be a virtual event, spanning the East Coast and European timezones, on **September 22-24**.
 * Australia will likely be in-person again in December, but we're still working on the details.
 
 We are currently accepting `talk proposals <https://www.writethedocs.org/conf/portland/2024/cfp/>`_ and selling tickets for our Portland conference.
 **Submit your talk proposals by January 15th**.
+Ticket sales will remain open until the week before the conference. 
 
 We hope that you'll work with us to make all of our events unique again this year by submitting talks and showing up in-person or virtually.
 
-Community board and teams
--------------------------
+Community board, one year in
+----------------------------
 
 We've had our Community Board in place for a year now,
 and we've been posting `quarterly updates <https://www.writethedocs.com/blog/archive/tag/community-board/>`_ for everyone to read.
