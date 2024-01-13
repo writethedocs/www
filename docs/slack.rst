@@ -118,13 +118,13 @@ Default channels
 
 Everyone who joins the Slack will be added to these channels:
 
-* **announcements** - Where organizers post housekeeping and community-wide announcements.
-* **#general** - The main channel for documentation related conversation and questions.
-* **#watercooler** - For talking about things that are off-topic. Get to know folks other interests that aren't around documentation :)
-* **#jobs-posts-only** - Posting jobs. (You can look for jobs in **#career-advice**)
-* **#wtd-conferences** - Questions and other thoughts around the :doc:`/conf/index`.
-* **#meetups** - Questions and other thoughts about our :doc:`/meetups/index`.
 * **#intros** - Introduce yourself! Let people know you're here, and why you care about docs :)
+* **#announcements** - Community-wide announcements from the Write the Docs organizers.
+* **#general** - The main channel for documentation-related conversation and questions.
+* **#job-posts-only** - Posting jobs. (Talk about your job search in **#work-wanted** and **#career-advice**.)
+* **#wtd-conferences** - Questions and discussion for :doc:`/conf/index`. (Talk about other conferences in **#community-events**.)
+* **#meetups** - Questions and discussion for Write the Docs :doc:`/meetups/index`. (Talk about other meetups in **#community-events**.)
+* **#watercooler** - Off-topic chat. Get to know folks' other interests that aren't around documentation :)
 
 Other useful topical channels
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
