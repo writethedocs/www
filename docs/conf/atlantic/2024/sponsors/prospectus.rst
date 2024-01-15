@@ -85,7 +85,7 @@ Benefits
 - Logo and long description (500 characters) on the conference website.
 - Logo in conference email promotion.
 - Dedicated social media post on LinkedIn and Twitter.
-- Three (3) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
+- **Mix & Match**: Five (5) featured job postings on our Job Board or email promotions to our conference email list.
 - One email promotion to our conference email list. Includes logo and 2 paragraphs of copy.
 - Slack Sponsorship promotion in Write the Docs Slack channel ahead of the conference.
 {% if not flagisvirtual %}
@@ -108,8 +108,7 @@ Benefits
 - Logo and description (250 characters) on the conference website.
 - Logo in conference email promotion.
 - Dedicated social media post on LinkedIn and Twitter.
-- Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
-- One email promotion to our conference email list. Includes logo and 2 paragraphs of copy.
+- **Mix & Match**: Two (2) featured job postings on our Job Board or email promotions to our conference email list.
 {% if not flagisvirtual %}
 - Display promotional “Swag” items on the conference swag table (provided by sponsor).
 {% endif %}
@@ -128,7 +127,7 @@ Benefits
 - A table at our **Sponsor Expo** on Tuesday morning of the conference, where you can promote job openings or a product.
 - Logo on the conference website.
 - Name included in all conference emails to attendees.
-- Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
+- **Mix & Match**: Two (2) featured job postings on our Job Board or email promotions to our conference email list.
 {% if not flagisvirtual %}
 - Display promotional “Swag” items on the conference swag table (provided by sponsor).
 {% endif %}
