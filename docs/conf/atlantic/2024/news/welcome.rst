@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: January 4, 2024
+.. post:: January 14, 2024
    :tags: {{shortcode}}-{{year}}
 
 Announcing Write the Docs {{ city }} {{year}}
