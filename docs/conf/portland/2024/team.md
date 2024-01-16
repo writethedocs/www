@@ -3,6 +3,8 @@ template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
+[comment]: Use this comment to resize images: sips -Z 250 *.jpg
+
 # Meet the Team
 
 Our conference is organized by a dedicated team, many of whom are volunteers and give their time to bring the community together around documentation! This page outlines these folks and what their roles are.
