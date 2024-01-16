@@ -10,7 +10,7 @@ Welcome to Portand, the largest city in the state of Oregon with a population of
 
 "Portland is perhaps best known for being a sustainability-minded, bike-friendly city with easy access to nature; plentiful coffee, art, craft beer, delicious food and live music; and crafty people who celebrate individuality and creativity," writes [Travel Portland](https://www.travelportland.com/).
 
-![Photo of people on the venue roof deck](about-portland.jpg)
+![Photo of people on the venue roof deck](/_static/img/2024/about-portland.jpg)
 
 ## Where to Stay
 

@@ -63,7 +63,7 @@ If you drive to the conference, note that the venue does not have parking on-sit
 
 We are committed to hosting a conference that is accessible to everyone. Visit our Accessibility section (link) on the Venue page for more information.
 
-![Group of people talking](attendee-guide.jpg)
+![Group of people talking](/_static/img/2024/attendee-guide.jpg)
 
 ## How Do I Participate in the Conference?
 
