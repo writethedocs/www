@@ -6,7 +6,7 @@ city: Portland
 local_area: Oregon
 area: North America # European Australian
 area_adj: North American
-tz: Pacific Time  # PT until March, PST after... :/
+tz: Pacific Time # PT until March, PST after... :/
 email: portland@writethedocs.org
 color: blue
 rgb: 74, 193, 224
@@ -83,9 +83,9 @@ sponsorship:
     price: $14,000
 
 grants:
-  url: 'https://docs.google.com/forms/d/e/1FAIpQLScm8-8RLZYSxLl3a5Ttz5qAB0dXCn5E2IUL2U23jz2kSa3vmA/viewform'
-  ends: 'February 1, 2024'
-  notification: 'February 14, 2024'
+  url: "https://docs.google.com/forms/d/e/1FAIpQLScm8-8RLZYSxLl3a5Ttz5qAB0dXCn5E2IUL2U23jz2kSa3vmA/viewform"
+  ends: "February 1, 2024"
+  notification: "February 14, 2024"
 
 shirts:
   url: https://teespring.com/wtd-pdx-2024
@@ -155,11 +155,11 @@ about:
   job_fair_room: Sponsor area
 
 cfp:
-  url: https://pretalx.com/wtd-portland-2024/cfp  # Open November 6 (Mon) -> 9 weeks to submit
-  ends: "January 15, 2024"                        # (Mon) 1 week, to review. It'll take a little longer to announce
-  notification: "January 30, 2024"                # (Mon) 8 weeks to write and prepare
-  slides_by: "April 7, 2024"                      # (Mon) 1 week before
-  preview: "TODO"                                 # Preview URL TODO
+  url: https://pretalx.com/wtd-portland-2024/cfp # Open November 6 (Mon) -> 9 weeks to submit
+  ends: "January 15, 2024" # (Mon) 1 week, to review. It'll take a little longer to announce
+  notification: "January 30, 2024" # (Mon) 8 weeks to write and prepare
+  slides_by: "April 7, 2024" # (Mon) 1 week before
+  preview: "TODO" # Preview URL TODO
 
 unconf:
   url: http://bit.ly/wtd-pdx-2024-ro
