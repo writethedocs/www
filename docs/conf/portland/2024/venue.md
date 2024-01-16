@@ -2,6 +2,7 @@
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
+
 # Venue
 
 ## Revolution Hall
@@ -21,35 +22,35 @@ lockers in the hallway for that extra ambiance.
 
 **Location:**
 
-- 1st Floor: April 14
-- 2nd Floor: April 15-16
+-   1st Floor: April 14
+-   2nd Floor: April 15-16
 
 ### Writing Day, Unconference, and Welcome Reception
 
 **Location:** 1st Floor: Library/Astoria Room
 
-- Parent Room in 1st floor Show Bar Green Room
+-   Parent Room in 1st floor Show Bar Green Room
 
 ### Speaker Talks, Sponsor Expo, Catering, and Quiet Room
 
 **Location:** 2nd Floor Auditorium and surrounding spaces
 
-- Speaker Talks: Auditorium
-- Sponsor Expo: Hallway
-- Catering: Assembly Lounge
-- Quiet Room: Sunset Room
+-   Speaker Talks: Auditorium
+-   Sponsor Expo: Hallway
+-   Catering: Assembly Lounge
+-   Quiet Room: Sunset Room
 
-**VIDEO AND MAP DETAILING LAYOUT WILL BE RELEASED IN MARCH.**
+**VIDEO AND MAP OF VENUE LAYOUT WILL BE RELEASED IN MARCH.**
 
 ### Other Venue Spaces (open to the public)
 
-- Martha's Coffee Shop
+-   Martha's Coffee Shop
     - 7:30am-3:00pm
-- Show Bar
-    - 3:00-11:00pm
-- Roof Deck
-    - 3:00pm-late, weather permitting
-- Outdoor seating and city park
+-   Show Bar
+    -   3:00-11:00pm
+-   Roof Deck
+    -   3:00pm-late, weather permitting
+-   Outdoor seating and city park
 
 ## Accessibility
 
@@ -62,48 +63,48 @@ accommodations, please email us at portland@writethedocs.org.
 
 The venue has:
 
-- Wheelchair accessibility to all conference spaces
-- Step-free access to all areas of the conference
-- Elevator accessing the 2nd and 3rd floor, open and unlocked during
+-   Wheelchair accessibility to all conference spaces
+-   Step-free access to all areas of the conference
+-   Elevator accessing the 2nd and 3rd floor, open and unlocked during
     entire conference
-- Accessible, clearly labeled restrooms
+-   Accessible, clearly labeled restrooms
 
 ### Restrooms
 
-- 1st floor bathrooms are gender-neutral, single, and multi-stall
-- 2nd floor bathrooms (auditorium level) are gender-segregated and
+-   1st floor bathrooms are gender-neutral, single, and multi-stall
+-   2nd floor bathrooms (auditorium level) are gender-segregated and
     multi-stall
 
 ### Parking and Transportation
 
-- ADA spots (two) in the guest parking lot south of the venue
-- Street parking is east of the venue (15th Ave. and higher), allows
+-   ADA spots (two) in the guest parking lot south of the venue
+-   Street parking is east of the venue (15th Ave. and higher), allows
     for all-day parking
-- Bus transit stops are located nearby the venue. All transit in
+-   Bus transit stops are located nearby the venue. All transit in
     Portland announce stops verbally in English and most buses have a
     visual display of upcoming stops. Refer to the [TriMet
     website](https://trimet.org/access/index.htm) for more information.
 
 ### Low Vision or Hard of Hearing
 
-- Live captioning: If you are Deaf, Hard of Hearing, or hearing
+-   Live captioning: If you are Deaf, Hard of Hearing, or hearing
     impaired, and unable to view the captions, a staff member can move
     you to a closer seat.
-- Preferred seating: Please reach out to us so we can prioritize your
+-   Preferred seating: Please reach out to us so we can prioritize your
     seating.
-- Lighting sensitivity: Please contact us and we will do our best to
+-   Lighting sensitivity: Please contact us and we will do our best to
     accommodate.
 
 ### Seating
 
-- People can sit anywhere they would like in the main stage auditorium
+-   People can sit anywhere they would like in the main stage auditorium
     on the 2nd floor. Reserved seating will be available for those who
     need to be close enough to view the live captioning. For distanced
     seating, there is a 3rd floor balcony.
-- Additional seating and table space will be available for our
+-   Additional seating and table space will be available for our
     Unconference and Writing Day events. Catering will be located on the
     2nd floor.
-- There are various places around Revolution Hall with seating and
+-   There are various places around Revolution Hall with seating and
     tables including the Assembly Lounge, Show Bar, Quiet Room (no
     laptops), Martha's (coffee shop), hallways, and the rooftop and
     patio outside, if the weather is nice.
