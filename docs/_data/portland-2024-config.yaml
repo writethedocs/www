@@ -20,16 +20,16 @@ buttons:
   top:
     # - text: Date and ticket information
     #   link: /news/welcome/
-    - text: Submit a Talk
-      link: /cfp
+    #- text: Submit a Talk
+    #  link: /cfp
     - text: Sponsor us
       link: /sponsors/prospectus
     #   - text: Read our conference guide
     #     link: /welcome-wagon
     #   - text: See the Schedule!
     #     link: /schedule
-    # - text: Buy a Ticket!
-    #   link: /tickets
+    - text: Buy a Ticket!
+      link: /tickets
     #  - text: See the talks!
     #    link: /speakers
     #  - text: Schedule
@@ -43,12 +43,12 @@ buttons:
     # - text: Conference recap
     #   link: /news/thanks-recap
   bottom:
-    # - text: Welcome to our conference
-    #   link: /news/welcome
+    - text: Welcome to our conference
+      link: /news/welcome
     - text: Sponsor the conference
       link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
+  #  - text: Submit a Talk
+  #    link: /cfp
   #  - text: See the Schedule
   #    link: /schedule
   #   - text: Date and ticket information
@@ -256,7 +256,7 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: True
-flagcfp: True
+flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
