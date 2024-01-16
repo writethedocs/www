@@ -20,55 +20,47 @@ buttons:
   top:
     # - text: Date and ticket information
     #   link: /news/welcome/
-    #- text: Submit a Talk
-    #  link: /cfp
+    # - text: Submit a Talk
+    #   link: /cfp
     - text: Sponsor us
       link: /sponsors/prospectus
-    #   - text: Read our conference guide
-    #     link: /welcome-wagon
-    #   - text: See the Schedule!
-    #     link: /schedule
+    # - text: See the Schedule!
+    #   link: /schedule
     - text: Buy a Ticket!
       link: /tickets
-    #  - text: See the talks!
-    #    link: /speakers
-    #  - text: Schedule
-    #    link: /schedule
-    #  - text: Attendee Guide
-    #    link: /welcome-wagon
-    #   - text: Watch the Live Stream
-    #     link: /livestream
+    # - text: See the talks!
+    #   link: /speakers
+    # - text: Attendee Guide
+    #   link: /welcome-wagon
+    # - text: Watch the Live Stream
+    #   link: /livestream
     # - text: Watch the videos
     #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpneQPsDWa4OmEpgW4pNiaZ2
     # - text: Conference recap
     #   link: /news/thanks-recap
   bottom:
-    - text: Welcome to our conference
-      link: /news/welcome
+  # - text: Welcome to our conference
+  #   link: /news/welcome
     - text: Sponsor the conference
       link: /sponsors/prospectus
   #  - text: Submit a Talk
   #    link: /cfp
-  #  - text: See the Schedule
-  #    link: /schedule
-  #   - text: Date and ticket information
-  #     link: /news/announcing-virtual-conf-dates-tickets
-  #   - text: See the talks!
-  #     link: /speakers
-    # - text: Buy a Ticket!
-    #   link: /tickets
-  #  - text: Read our guide
-  #    link: /welcome-wagon
-  #  - text: See the schedule!
-  #    link: /schedule
-  #   - text: Watch the Live Stream
-  #     link: /livestream
+    - text: Buy a Ticket!
+      link: /tickets
+  # - text: See the Schedule
+  #   link: /schedule
+  # - text: See the talks!
+  #   link: /speakers
+  # - text: Read our guide
+  #   link: /welcome-wagon
+  # - text: Watch the Live Stream
+  #   link: /livestream
   # - text: Conference recap
   #   link: /news/thanks-recap
   # - text: Browse the photos
   #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720308088427
-  #   - text: Watch the videos!
-  #     link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+  # - text: Watch the videos!
+  #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
 
 tickets:
   concierge:
