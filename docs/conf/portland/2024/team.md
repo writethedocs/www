@@ -3,7 +3,7 @@ template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
-[comment]: Use this comment to resize images: sips -Z 250 *.jpg
+% Use this comment to resize images: sips -Z 250 *.jpg
 
 # Meet the Team
 
