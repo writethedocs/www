@@ -11,7 +11,7 @@ Our conference is organized by a dedicated team, many of whom are volunteers and
 
 ## Eric Holscher (he/him)
 
-## Conference Chair
+### Conference Chair
 
 ![](/_static/img/2024/team/eric.jpg)
 
@@ -19,7 +19,7 @@ Eric is one of the co-founders of Write the Docs, and also one of the co-founder
 
 ## Sam Wright (he/him)
 
-## Stage Manager
+### Stage Manager
 
 ![](/_static/img/2024/team/sam.jpg)
 
@@ -27,7 +27,7 @@ Sam writes docs for developers. He is into making computers do the boring bits o
 
 ## Katie Janovec (she/her)
 
-## Executive Producer
+### Executive Producer
 
 ![](/_static/img/2024/team/katie.jpg)
 
@@ -35,7 +35,7 @@ Katie Janovec is an Event Producer and Project Manager based in Portland, Oregon
 
 ## Alicia Lewis (she/her)
 
-## Welcome Wagon Coordinator
+### Welcome Wagon Coordinator
 
 ![](/_static/img/2024/team/alicia.jpg)
 
@@ -43,7 +43,7 @@ Alicia loves to explain complex things in easy-to-understand ways and is passion
 
 ## Brooke Wayne (she/her)
 
-## Welcome Wagon Coordinator
+### Welcome Wagon Coordinator
 
 ![](/_static/img/2024/team/brooke.jpg)
 
@@ -51,7 +51,7 @@ Brooke, also known as Batman, is a long time attendee of Write the Docs in Portl
 
 ## David Bastedo (he/him)
 
-## Welcome Wagon Coordinator
+### Welcome Wagon Coordinator
 
 ![](/_static/img/2024/team/david.jpg)
 
@@ -59,7 +59,7 @@ David is a support operations program manager based in Portland, Oregon. He work
 
 ## Janine Chan (she/her)
 
-## Emcee
+### Emcee
 
 ![](/_static/img/2024/team/janine.jpg)
 
@@ -67,7 +67,7 @@ Janine is a documentation nerd up in Canada. She feels so lucky to emcee at Writ
 
 ## Jerome Villegas (he/him)
 
-## Emcee
+### Emcee
 
 ![](/_static/img/2024/team/jerome.jpg)
 
@@ -75,7 +75,7 @@ Jerome is a lifelong learner and Seattle native. He's a technical writer, develo
 
 ## Jodie Putrino (she/her)
 
-## Lightning Talks Coordinator, Stage Support
+### Lightning Talks Coordinator, Stage Support
 
 ![](/_static/img/2024/team/jodie.jpg)
 
@@ -83,7 +83,7 @@ Jodie manages the DocOps team at NGINX, where she led the adoption of docs-as-co
 
 ## Mo Nishiyama
 
-## Welcome Wagon Coordinator, Social Media Coordinator
+### Welcome Wagon Coordinator, Social Media Coordinator
 
 ![](/_static/img/2024/team/mo.jpg)
 
@@ -91,35 +91,35 @@ Mo Nishiyama is a Technical Writer at Oregon Health & Science University's Infor
 
 ## Rose Williams
 
-## Writing Day Coordinator
+### Writing Day Coordinator
 
 ![](/_static/img/2024/team/rose.jpg)
 
 Rose is a documentation advocate, Meetup organizer, and Write the Docs community board member. She currently resides in Florida. She has had the pleasure of organizing WTD Meetup groups up and down the east and west coasts due to her frequent moves. Her board position focuses on supporting Meetup organizers and their events.
 
-## Mikey Ariel (she/her)
+## Joe Meersman (he/him)
 
-## Brand Coordinator
+### Unconference Coordinator
 
-![](/_static/img/2024/team/mikey.jpg)
+![](/_static/img/2024/team/joe.jpg)
 
-Mikey is one of the original Write the Docs Prague conference organizers, and since the beginning of 2023 she has been serving as the chairperson of the global community board. She is an avid singer as well as a dancer, and has probably traveled across more of Europe than you have. Mikey is a content strategist and former technical writer at Red Hat, living in Prague.
+Joe has been a Designer, Researcher, Principal, Manager, and Director of Design. He is currently a Partner at The Collective and has been an Adjunct Professor at UT Austin for over five years, teaching Visual Communication, Research, and Prototyping. He presents at conferences on topics ranging from Design Thinking, User Experience, Artificial Intelligence, and Creative Career Paths. He loves knowing "Texas" is a slang term for "Crazy" in Norway. 
 
 ## Sasha Romijn (she/her)
 
-## Grant Coordinator
+### Grant Coordinator
 
 ![](/_static/img/2024/team/sasha.jpg)
 
 Sasha is an independent developer and community organiser, mainly working on Python projects, many of them relating to internet routing. She has organised various conferences, first joining the Write the Docs organising team in 2017. Among other things, she works on support tickets, the website, and is chair of the Atlantic conference.
 
-## Joe Meersman (he/him)
+## Mikey Ariel (she/her)
 
-## Unconference Coordinator
+### Brand Coordinator
 
-![](/_static/img/2024/team/joe.jpg)
+![](/_static/img/2024/team/mikey.jpg)
 
-Joe has been a Designer, Researcher, Principal, Manager, and Director of Design. He is currently a Partner at The Collective and has been an Adjunct Professor at UT Austin for over five years, teaching Visual Communication, Research, and Prototyping. He presents at conferences on topics ranging from Design Thinking, User Experience, Artificial Intelligence, and Creative Career Paths. He loves knowing "Texas" is a slang term for "Crazy" in Norway. 
+Mikey is one of the original Write the Docs Prague conference organizers, and since the beginning of 2023 she has been serving as the chairperson of the global community board. She is an avid singer as well as a dancer, and has probably traveled across more of Europe than you have. Mikey is a content strategist and former technical writer at Red Hat, living in Prague.
 
 # Get involved
 
