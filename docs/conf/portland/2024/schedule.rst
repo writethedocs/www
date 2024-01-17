@@ -110,7 +110,7 @@ Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, an
 We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new.
 
 * **Where**: {{about.unconfroom}}
-* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/welcome-wagon`
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/attendee-guide`
 
 {% if flaghasfood %}
 

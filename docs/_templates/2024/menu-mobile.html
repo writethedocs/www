@@ -44,13 +44,11 @@
     <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/') }}"">About</a>
     <ul class="uk-nav-sub">
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/venue') }}">Venue</a></li>
-      <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/health') }}">Health and Safety Policy</a></li>
-      {% if flagspeakersannounced %}
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/visiting') }}">Visiting {{ city }}</a></li>
-      <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/welcome-wagon') }}">Attendee Guide</a></li>
+      <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/attendee-guide') }}">Attendee Guide</a></li>
+      <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/health') }}">Health and Safety Policy</a></li>
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/team') }}">Meet the Team</a></li>
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/press-kit') }}">Press Kit</a></li>
-      {% endif %}
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/team') }}">Code of Conduct</a></li>
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/contact') }}">Contact us</a></li>
       {% if flaghasbadgeflair %}
