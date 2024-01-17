@@ -31,7 +31,7 @@ buttons:
     # - text: See the talks!
     #   link: /speakers
     # - text: Attendee Guide
-    #   link: /welcome-wagon
+    #   link: /attendee-guide
     # - text: Watch the Live Stream
     #   link: /livestream
     # - text: Watch the videos
@@ -52,7 +52,7 @@ buttons:
     # - text: See the talks!
     #   link: /speakers
     # - text: Read our guide
-    #   link: /welcome-wagon
+    #   link: /attendee-guide
     # - text: Watch the Live Stream
     #   link: /livestream
     # - text: Conference recap

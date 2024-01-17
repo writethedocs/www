@@ -39,7 +39,7 @@ We'll share a video and map that will be released in March.
     -   Ingredients will be listed
     -   Please email katie@writethedocs.org for other dietary requirements
 -   Bring a water bottle to make it easier for you to stay hydrated.
--   There are many food and beverage options within .5 mile around the conference venue. Explore Portland's amazing food scene on the \[Portland\] (link) page.
+-   There are many food and beverage options within .5 mile around the conference venue. Explore Portland's amazing food scene on the [Portland](https://www.writethedocs.org/conf/portland/2024/visiting/#eating) page.
 -   The Welcome Wagon team will organize lunch and dinner meetups for folks interested in eating with others. Visit the WW table during conference days to sign up.
 
 ## Dress Code
@@ -56,12 +56,12 @@ If you drive to the conference, note that the venue does not have parking on-sit
 
 ## Hotels and Transportation
 
--   The conference is located in central Southeast Portland. There are many hotel options within a 5-10 minute drive, some of these are walking distance from the venue. View our \[Portland\] (link) page for recommended hotels.
--   Portland is an accessible city and there are many transportation options available including bus, MAX light rail, streetcar, rideshare, and taxi. View our \[Portland\] (link to Getting Around section) for information.
+-   The conference is located in central Southeast Portland. There are many hotel options within a 5-10 minute drive, some of these are walking distance from the venue. View our [Portland](https://www.writethedocs.org/conf/portland/2024/visiting/#where-to-stay) page for recommended hotels.
+-   Portland is an accessible city and there are many transportation options available including bus, MAX light rail, streetcar, rideshare, and taxi. View our [Portland](https://www.writethedocs.org/conf/portland/2024/visiting/#getting-around) for information.
 
 ## Accessibility
 
-We are committed to hosting a conference that is accessible to everyone. Visit our Accessibility section (link) on the Venue page for more information.
+We are committed to hosting a conference that is accessible to everyone. Visit our [Accessibility section](https://www.writethedocs.org/conf/portland/2024/venue/#accessibility) on the Venue page for more information.
 
 ![Group of people talking](/_static/img/2024/attendee-guide.jpg)
 

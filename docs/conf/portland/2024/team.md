@@ -113,9 +113,13 @@ Mikey is one of the original Write the Docs Prague conference organizers, and si
 
 Sasha is an independent developer and community organiser, mainly working on Python projects, many of them relating to internet routing. She has organised various conferences, first joining the Write the Docs organising team in 2017. Among other things, she works on support tickets, the website, and is chair of the Atlantic conference.
 
-## Jo Meersman
+## Joe Meersman (he/him)
 
 ## Unconference Coordinator
+
+![](/_static/img/2024/team/joe.jpg)
+
+Joe has been a Designer, Researcher, Principal, Manager, and Director of Design. He is currently a Partner at The Collective and has been an Adjunct Professor at UT Austin for over five years, teaching Visual Communication, Research, and Prototyping. He presents at conferences on topics ranging from Design Thinking, User Experience, Artificial Intelligence, and Creative Career Paths. He loves knowing "Texas" is a slang term for "Crazy" in Norway. 
 
 # Get involved
 
