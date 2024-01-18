@@ -10,7 +10,7 @@ og:image: _static/conf/images/headers/portland-2024-speakers.jpg
 ```
 
 
-# Write the Docs: Only 3 Months Away!
+# The Conference Is Only 3 Months Away!
 
 Our upcoming conference is right around the corner, and we are excited to reunite with everyone in Portland. Now is a great time to buy your tickets and plan travel arrangements.
 
@@ -50,7 +50,7 @@ This program is open to anyone who would otherwise have difficulties attending t
 
 [View more information on the Opportunity Grants page.](https://www.writethedocs.org/conf/portland/2024/opportunity-grants/)
 
-## Speakers Announced soon
+## Speakers Announced Soon
 
 Our Call for Proposals is officially closed. Stay tuned for our list of speakers and talks that will be announced in the next couple weeks! We had another amazing round of submissions and are excited for this year's speaker.
 
