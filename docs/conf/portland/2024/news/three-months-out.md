@@ -14,7 +14,7 @@ og:image: _static/conf/images/headers/portland-2024-speakers.jpg
 
 Our upcoming conference is right around the corner, and we are excited to reunite with everyone in Portland. Now is a great time to buy your tickets and plan travel arrangements.
 
-Explore more information below on the attendee guide, visiting Portland, strategies for convincing your manager, deadlines for the opportunity grant, and exciting upcoming speaker announcements.
+Read on for more information on the attendee guide, visiting Portland, strategies for convincing your manager, deadlines for the opportunity grant, and exciting upcoming speaker announcements.
 
 We look forward to seeing you soon!
 
@@ -30,7 +30,7 @@ Whether you're a student, currently unemployed, or employed at a non-profit, gov
 
 ## Attendee Guide and Visiting Portland
 
-Our [Attendee Guide](https://www.writethedocs.org/conf/portland/2024/attendee-guide/) and [Visiting Portland](https://www.writethedocs.org/conf/portland/2024/visiting/) pages are now live! We've gathered information that will help you navigate the conference like a pro and make you feel more at home in the city of Portland.
+Our [Attendee Guide](https://www.writethedocs.org/conf/portland/2024/attendee-guide/) and [Visiting Portland](https://www.writethedocs.org/conf/portland/2024/visiting/) pages are now live! We've gathered information that will help you navigate the conference comfortably and make you feel more at home in the city of Portland.
 
 The [Attendee Guide](https://www.writethedocs.org/conf/portland/2024/attendee-guide/) provides conference information and gives strategies and tips for new (and experienced) attendees to get plugged in and connect with others.
 
@@ -42,7 +42,7 @@ The [Visiting Portland](https://www.writethedocs.org/conf/portland/2024/visiting
 
 Do you need help justifying why your employer should send you to Write the Docs? Don't worry -- you're not alone. Based on the experiences of some of our previous attendees, we've put together a sample email and list of resources.
 
-[**Convince your manager.**](https://www.writethedocs.org/conf/portland/2024/convince-your-manager/)
+[**Convince your manager**](https://www.writethedocs.org/conf/portland/2024/convince-your-manager/)
 
 ## Opportunity Grant Deadline is February 1
 
