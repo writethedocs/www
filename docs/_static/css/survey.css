@@ -322,6 +322,6 @@
   #write-the-docs-salary-survey-2022-results .question.docutils.container blockquote{margin:0}
   #write-the-docs-salary-survey-2022-results .tablescroller{overflow-x:scroll}
   #write-the-docs-salary-survey-2022-results caption{text-align:left}
-  #write-the-docs-salary-survey-2022-results #median-salary-by-respondent-region-employees ul.simple li{float:left;width:50%}
+  #write-the-docs-salary-survey-2022-results #median-salary-by-respondent-region-employees ul.simple li{float:left;width:50% !important}
   #write-the-docs-salary-survey-2022-results table{width:100% !important}
 }
