@@ -40,22 +40,23 @@ Subject:
 
    ○ {confirmation_link}
 
-   Please **reply to this email as soon as possible** if you need to let us know either of the following
+   Please **reply to this email as soon as possible** if you need to let us know any of the following:
 
-   ○ If you have a strong preference for presenting on Monday or Tuesday, or in the morning or afternoon due to timezones or other restrictions.
+   ○ If you have a strong preference for presenting on Monday or Tuesday, or in the morning or afternoon.
    ○ If you already purchased a ticket so we can issue you a refund.
+   ○ If you would be interested in having another member of the Write the Docs community mentor you through the talk preparation process.
 
    Okay, with all that out of the way, it's time for the fun part: preparing your talk! To make sure everybody's on the same page, here are a few important things to keep in mind:
 
    * Remember that one of the biggest strengths of the Write the Docs community is that we come from a huge variety of professional and personal backgrounds.
      When you're writing your talk (just like when you're writing documentation), think about the diverse needs and interests of your audience, avoid (or define) any jargon-y language, and make sure you clearly express what people are going to learn from your talk.
    * Remember this is a community conference. If you're representing your employer it's okay to mention that, but please don't treat your talk as a marketing opportunity.
-   * If you would be interested in having another member of the Write the Docs community mentor you through the talk preparation process, please tell us! We'll do our best to connect you with someone to bounce ideas off, to review drafts, and to help you refine your talk before the conference.
-   * Make sure you plan your talk to fit in the allotted time.
+   * Make sure you plan your talk to fit in the allotted time. 30 mins for the the talk itself.There will be Q&A after the 30 mins.
    * Please review our Code of Conduct (http://writethedocs.org/code-of-conduct/) and make sure your talk content adheres to it. As a rule of thumb, if you're on the fence about whether something in your talk could be considered inappropriate or offensive, leave it out. If you have a question about the code, feel free to email us and ask!
 
    If you're concerned about travel expenses, let us know. We do have a budget for speaker expenses, but it can't cover all our speakers.
-   As we confirm your details, we'll publish your abstract, headshot, and information on the conference site. We'll also be emailing attendees so they can share in our excitement about the talks we'll be presenting this year!
+
+   As we confirm your details, we'll publish your abstract, profile pic, and information on the conference site. We'll also be emailing attendees so they can share in our excitement about the talks we'll be presenting this year!
 
    Thanks again for submitting your talk, we look forward to seeing you up on the Write the Docs stage! As you share the good news, remember to tag your posts with #writethedocs. And in the meantime, feel free to email us with any questions, concerns, or ideas.
 
@@ -233,7 +234,7 @@ Subject:
 
    Hi {name},
 
-   We're just over a month away from meeting up in Portland! I hope you're feeling relaxed and confident. 
+   We're just over a month away from meeting up in Portland! I hope you're feeling relaxed and confident.
 
    The conference schedule is [live](https://www.writethedocs.org/conf/portland/2024/schedule/#monday-may-8)! :-)
 
@@ -243,7 +244,7 @@ Subject:
 
    ○ please make sure to log in to [Pretalx](https://pretalx.com/write-the-docs-portland-2024/login/) and fill out the questions on pronouns, name pronunciation and interests for our emcee intro.
 
-   We're finalizing details on the tech check and Q&A over the next weeks, and we'll be in touch in a week or so asking for a copy of your slides for our captioners! 
+   We're finalizing details on the tech check and Q&A over the next weeks, and we'll be in touch in a week or so asking for a copy of your slides for our captioners!
 
    In the meantime, if you have any questions at all about the event, you definitely know how to reach me by now.
 
@@ -264,7 +265,7 @@ Subject:
 
    Hi {name},
 
-   It is a wrap! Thank you one last time for your hard work, insight and creativity. You were amazing! 
+   It is a wrap! Thank you one last time for your hard work, insight and creativity. You were amazing!
 
    Videos of all talks are published on [YouTube](https://www.youtube.com/playlist?list=PLZAeFn6dfHpneQPsDWa4OmEpgW4pNiaZ2). Likewise, there are photos of all speakers up on [Flickr](https://www.flickr.com/photos/writethedocs/albums/72177720308088427), and more photos of the rest of the event will follow soon.
 
