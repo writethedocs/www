@@ -210,9 +210,9 @@ sponsors:
     #   link: https://slack.com/
     #   brand: Slack
   second:
-    - name: knowledgeowl
-      link: https://www.knowledgeowl.com?ref=writethedocs
-      brand: KnowledgeOwl
+    # - name: knowledgeowl
+    #   link: https://www.knowledgeowl.com?ref=writethedocs
+    #   brand: KnowledgeOwl
     - name: readthedocs
       link: https://about.readthedocs.com/?ref=writethedocs
       brand: Read the Docs
