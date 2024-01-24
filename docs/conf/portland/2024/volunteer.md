@@ -33,30 +33,30 @@ Each volunteer must work two assigned shifts 3-4 hours in length. Each individua
 
 #### Writing Day
 
-Assist the Writing Day coordinator, direct attendees to specific tables, and help writing day project leads with logistical questions
+- Assist the Writing Day coordinator, direct attendees to specific tables, and support writing day project leads with logistical questions.
 
 #### Registration
 
-Check in attendees, provide general information inquires, answer venue questions, and field other requests or direct individuals to the correct staff member who can provide support
+Check in attendees, provide general information inquiries, answer venue questions, and field other requests or direct individuals to the correct staff member who can provide support.
 
 #### Stage Support
 
-Assist presenters at the time of their greatest need while on stage - issues with slides, video, or audio portions of their presentation. Please apply for this role if you have some A/V knowledge; not required but experience troubleshooting different operating systems is a plus!
+- Assist presenters while on stage - troubleshoot issues with slides, video, or audio portions of their presentation. Please apply for this role if you have some A/V knowledge; it is not required, but experience with different operating systems is a plus!
 
 #### Unconference
 
-Assist the Unconference coordinator, help folks sign up to host a session, maintain an updated schedule, direct individuals and groups to their tables, and minimal clean up of tables
+- Assist the Unconference coordinator, help folks sign up to host a session, maintain an updated schedule, direct individuals and groups to their tables, and minimal clean up of tables.
 
 #### Catering
 
-Set up catering, keep beverages and snacks replenished, and notify venue staff of coffee refills and greater cleaning needs
+- Set up catering, replenish beverages and snacks, and notify venue staff of coffee refills and cleaning needs.
 
 #### Venue Load Out
 
-What's more fun than setting things up? Taking them down! Load out conference set up and leave the conference hall better than we found it
+- What's more fun than setting things up? Taking them down! Load out conference set up and leave the conference hall better than we found it.
 
 ### Will travel assistance be provided?
 
-Unfortunately, we cannot offer travel assistance to volunteers. We encourage you to apply for the Opportunity Grant. Deadline is February 1, so apply today: https://www.writethedocs.org/conf/portland/2024/opportunity-grants/
+Unfortunately, we cannot offer travel assistance to volunteers. We encourage you to apply for the Opportunity Grant. Deadline is February 1. [Apply here today!](https://www.writethedocs.org/conf/portland/2024/opportunity-grants/) 
 
 Contact katie@writethedocs.org with any additional questions.
