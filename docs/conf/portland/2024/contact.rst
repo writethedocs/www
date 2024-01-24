@@ -14,4 +14,4 @@ Press Kit
 ---------
 
 If you're looking to get logos or other assets,
-you can find them on our :doc:`press kit <press-kit>` page.
+you can find them on our :doc:`/conf/{{shortcode}}/{{year}}/press-kit` page.
