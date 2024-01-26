@@ -3,7 +3,7 @@ template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
-# Volunteers
+# Volunteer Information
 
 Our Volunteer Application is open! We are looking for volunteers to provide support with a variety of conference roles - registration, writing day, unconference, stage support, catering, load out, and more.
 

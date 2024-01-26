@@ -25,15 +25,16 @@ Sign up today! Check out the [Volunteer page](https://writethedocs.org/conf/port
 
 ## Hotel Discounts
 
-[Jupiter Hotels](https://www.jupiterhotel.com/) and [KEX Hotels](https://kexhotels.com/) are providing 10% discounts to our attendees. These hotels are closely located to the venue and neighborhood coffee shops, restaurants, and bars. Bonus! They also both have cocktail bars and restaurants inside of their hotels. 
+[Jupiter Hotels](https://www.jupiterhotel.com/) and [KEX Hotels](https://kexhotels.com/) are providing 10% discounts to our attendees. These hotels are closely located to the venue and neighborhood coffee shops, restaurants, and bars. Bonus! They also have cocktail bars and restaurants inside of their hotels. 
 
 - [Jupiter Hotels](https://www.jupiterhotel.com/) 
     - **10% Off Discount Code: THEDOCS**
-    - Good for both hotels, NEXT and Original 
+    - Good for both hotels, NEXT and Original. 
 
 - [KEX Hotels](https://kexhotels.com/)
     - **10% Discount Code: THEDOCS**
-    - Guests who book before 3/31 receive 2 drink tokens for the bar
+    - [Use link here to book.](https://kexhotels.com/rooms#/kex/?startDate=2024-04-13&endDate=2024-04-17&adults=1&children=0&disabled=false&promo=THEDOCS)
+    - Guests who book before 3/31 receive 2 drink tokens for the bar.
 
 [View our Visiting Portland page for more information.](https://www.writethedocs.org/conf/portland/2024/visiting/)
 
