@@ -31,13 +31,13 @@ Sign up today! Check out the [volunteer page](https://writethedocs.org/conf/port
     - [Use link here to book.](https://kexhotels.com/rooms#/kex/?startDate=2024-04-13&endDate=2024-04-17&adults=1&children=0&disabled=false&promo=THEDOCS)
     - Guests who book before 3/31 receive 2 drink tokens for the bar.
 
-[View our visiting portland page for more information.](https://www.writethedocs.org/conf/portland/2024/visiting/)
+[View our Visiting Portland page for more information.](https://www.writethedocs.org/conf/portland/2024/visiting/)
 
 ## Opportunity Grant Deadline is February 1
 
-One more week to apply for an opportunity grant. This grant provides support for those facing financial challenges attending the conference.
+Everyone has one more week to apply for the Opportunity Grant. This grant provides support for those facing financial challenges attending the conference.
 
-[View more information on the opportunity grants page.](https://www.writethedocs.org/conf/portland/2024/opportunity-grants/)
+[View more information on the Opportunity Grants page.](https://www.writethedocs.org/conf/portland/2024/opportunity-grants/)
 
 ## Speaker Announcement on February 1
 
@@ -52,7 +52,8 @@ We are grateful to have the support of the following companies in 2024:
    :source: /_data/{{shortcode}}-{{year}}-config.yaml
    :template: {{year}}/sponsors-simplelist.rst
 ```
-Thanks so much for all your support! 
-Do you think your company would be a good fit? [View our sponsorship prospectus for our package options.](https://www.writethedocs.org/conf/portland/2024/sponsors/prospectus/)
 
-Looking forward to seeing you in April.
+Thanks so much for all your support! 
+Do you think your company would be a good fit? [View our Sponsorship Prospectus for our package options.](https://www.writethedocs.org/conf/portland/2024/sponsors/prospectus/)
+
+We look forward to seeing you in April.
