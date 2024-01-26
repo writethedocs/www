@@ -20,9 +20,6 @@ Application is open until early March, or when we have reached capacity.
 
 Sign up today! Check out the [Volunteer page](https://writethedocs.org/conf/portland/2024/volunteer/) and [Volunteer Application form](https://docs.google.com/forms/d/e/1FAIpQLSfvU7kB_miEAPmHKiIynJ1fh7zsUEpgM2Xsya6Bm20olo3mYw/viewform?usp=sf_link) for more information
 
-
-![Volunteer photo](/_static/img/2024/volunteer.jpg)
-
 ## Hotel Discounts
 
 [Jupiter Hotels](https://www.jupiterhotel.com/) and [KEX Hotels](https://kexhotels.com/) are providing 10% discounts to our attendees. These hotels are closely located to the venue and neighborhood coffee shops, restaurants, and bars. Bonus! They also have cocktail bars and restaurants inside of their hotels. 
