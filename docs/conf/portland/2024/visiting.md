@@ -12,6 +12,8 @@ Welcome to Portand, the largest city in the state of Oregon with a population of
 
 ## Where to Stay
 
+![Hotel room photo](/_static/img/2024/hotel.jpg)
+
 The venue is located in the historic Buckman neighborhood. It is surrounded by a mixture of vintage and modern housing.
 
 There are many neighborhood options on VRBO and Airbnb.
@@ -60,10 +62,9 @@ There are a number of hotels located within two miles of the venue. These are a 
 -   Boutique hotel
 -   1.7 miles to venue
 
-![Photo of people on the venue roof deck](/_static/img/2024/about-portland.jpg)
-
-
 ## Food and Beverages
+
+![Photo of people on the venue roof deck](/_static/img/2024/about-portland.jpg)
 
 Snacks and beverages are provided throughout conference times. Lunch and dinners are an opportunity to connect with new friends and explore Portland's vibrant scene. For attendees with specific dietary needs, Portland has inclusive and accommodating options.
 
