@@ -45,4 +45,16 @@ One more week to apply for the Opportunity Grant. This grant provides support fo
 
 We had an amazing 113 speaker proposals submitted this year!! Stay tuned for our 2024 speakers announcement on February 1.
 
+## Thanks to our sponsors
+
+We are grateful to have the support of the following companies in 2024:
+
+```{eval-rst}
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-config.yaml
+   :template: {{year}}/sponsors-simplelist.rst
+```
+Thanks so much for all your support! 
+Do you think your company would be a good fit? [View our Sponsorship Prospectus for our package options.](https://www.writethedocs.org/conf/portland/2024/sponsors/prospectus/)
+
 Looking forward to seeing you in April.
