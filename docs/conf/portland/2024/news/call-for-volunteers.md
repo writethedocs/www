@@ -12,13 +12,11 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 ## Call for Volunteers
 
-Our Volunteer Application is open! We are looking for volunteers to provide support with a variety of conference roles - registration, writing day, unconference, stage support, catering, load out, and more. 
+Our volunteer application is open! We are looking for volunteers to provide support with a variety of conference roles - registration, writing day, unconference, stage support, catering, load out, and more. 
 
-Each individual who volunteers for two or more 3-4 hour shifts receives a free ticket to the conference. 
+Each individual who volunteers for two or more 3-4 hour shifts receives a free ticket to the conference. Applications are open until early March, or when we have reached capacity. 
 
-Application is open until early March, or when we have reached capacity. 
-
-Sign up today! Check out the [Volunteer page](https://writethedocs.org/conf/portland/2024/volunteer/) and [Volunteer Application form](https://docs.google.com/forms/d/e/1FAIpQLSfvU7kB_miEAPmHKiIynJ1fh7zsUEpgM2Xsya6Bm20olo3mYw/viewform?usp=sf_link) for more information
+Sign up today! Check out the [volunteer page](https://writethedocs.org/conf/portland/2024/volunteer/) and [volunteer application form](https://docs.google.com/forms/d/e/1FAIpQLSfvU7kB_miEAPmHKiIynJ1fh7zsUEpgM2Xsya6Bm20olo3mYw/viewform?usp=sf_link) for more information
 
 ## Hotel Discounts
 
@@ -33,17 +31,17 @@ Sign up today! Check out the [Volunteer page](https://writethedocs.org/conf/port
     - [Use link here to book.](https://kexhotels.com/rooms#/kex/?startDate=2024-04-13&endDate=2024-04-17&adults=1&children=0&disabled=false&promo=THEDOCS)
     - Guests who book before 3/31 receive 2 drink tokens for the bar.
 
-[View our Visiting Portland page for more information.](https://www.writethedocs.org/conf/portland/2024/visiting/)
+[View our visiting portland page for more information.](https://www.writethedocs.org/conf/portland/2024/visiting/)
 
 ## Opportunity Grant Deadline is February 1
 
-One more week to apply for the Opportunity Grant. This grant provides support for those facing financial challenges attending the conference.
+One more week to apply for an opportunity grant. This grant provides support for those facing financial challenges attending the conference.
 
-[View more information on the Opportunity Grants page.](https://www.writethedocs.org/conf/portland/2024/opportunity-grants/)
+[View more information on the opportunity grants page.](https://www.writethedocs.org/conf/portland/2024/opportunity-grants/)
 
 ## Speaker Announcement on February 1
 
-We had an amazing 113 speaker proposals submitted this year!! Stay tuned for our 2024 speakers announcement on February 1.
+We had an amazing 113 speaker proposals submitted this year!! Stay tuned for our 2024 speaker announcement on February 1.
 
 ## Thanks to our sponsors
 
@@ -55,6 +53,6 @@ We are grateful to have the support of the following companies in 2024:
    :template: {{year}}/sponsors-simplelist.rst
 ```
 Thanks so much for all your support! 
-Do you think your company would be a good fit? [View our Sponsorship Prospectus for our package options.](https://www.writethedocs.org/conf/portland/2024/sponsors/prospectus/)
+Do you think your company would be a good fit? [View our sponsorship prospectus for our package options.](https://www.writethedocs.org/conf/portland/2024/sponsors/prospectus/)
 
 Looking forward to seeing you in April.
