@@ -10,8 +10,6 @@ Welcome to Portand, the largest city in the state of Oregon with a population of
 
 "Portland is perhaps best known for being a sustainability-minded, bike-friendly city with easy access to nature; plentiful coffee, art, craft beer, delicious food and live music; and crafty people who celebrate individuality and creativity," writes [Travel Portland](https://www.travelportland.com/).
 
-![Photo of people on the venue roof deck](/_static/img/2024/about-portland.jpg)
-
 ## Where to Stay
 
 The venue is located in the historic Buckman neighborhood. It is surrounded by a mixture of vintage and modern housing.
@@ -24,16 +22,20 @@ There are a number of hotels located within two miles of the venue. These are a 
 
 [Jupiter Hotel](https://www.jupiterhotel.com/)
 
+-   **10% Off Discount Code: THEDOCS** 
 -   Manages Jupiter Original and Jupiter NEXT hotels
-    -   Jupiter Original: lower priced, some rooms are located near restaurant/venue/patio and can be noisy
-    -   Jupiter NEXT: newer hotel, Hey Love restaurant/bar in lobby
--   0.6 miles to venue
+    -   Discount Code applies to both hotels
+- Hey Love restaurant/bar in NEXT lobby 
+- 0.6 miles to venue
 
-[KEX Portland](https://kexhotels.com/)
+[KEX Hotels](https://kexhotels.com/)
 
--   Charming private and shared room options
--   Restaurant in lobby
--   0.8 miles to venue
+-  **10% Off Discount Code: THEDOCS**
+    - [**Use link here to book**](https://kexhotels.com/rooms#/kex/?startDate=2024-04-13&endDate=2024-04-17&adults=1&children=0&disabled=false&promo=THEDOCS)
+-  Guests who book before 3/31 receive 2 drink tokens for the bar
+-  21 private and 3 shared rooms available *(as of 1/24)*
+-  Pacific Standard restaurant/bar in lobby
+-  0.8 miles to venue
 
 [Hotel Eastlund](https://www.hoteleastlund.com/)
 
@@ -57,6 +59,9 @@ There are a number of hotels located within two miles of the venue. These are a 
 
 -   Boutique hotel
 -   1.7 miles to venue
+
+![Photo of people on the venue roof deck](/_static/img/2024/about-portland.jpg)
+
 
 ## Food and Beverages
 
