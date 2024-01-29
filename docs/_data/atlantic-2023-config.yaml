@@ -25,12 +25,12 @@ buttons:
     #   link: /news/announcing-virtual-conf-dates-tickets
     #- text: Read our conference guide
     #  link: /welcome-wagon
-    - text: See the Schedule!
-      link: /schedule
+    #- text: See the Schedule!
+    #  link: /schedule
     #- text: Tickets
     # link: /tickets
-    - text: Sponsor us
-      link: /sponsors/prospectus
+    #- text: Sponsor us
+    #  link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
     #- text: See the talks!
@@ -41,15 +41,15 @@ buttons:
     #   link: /livestream
     # - text: See the sketchnotes
     #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157720128594755
-    # - text: Watch the videos!
-    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpnaoiOQyd9BYbQbprDGQjQ9
+    - text: Watch the videos!
+      link_absolute: https://youtube.com/playlist?list=PLZAeFn6dfHplddJfvbke1bpUzZGozb2Yj&si=AOwsHHgwGEXqbUm0
   bottom:
     # - text: Welcome to our conference
     #   link: /news/welcome
     #- text: See the Schedule!
     #  link: /schedule
-    - text: Sponsor the conference
-      link: /sponsors/prospectus
+    #- text: Sponsor the conference
+    #  link: /sponsors/prospectus
 #    - text: See the talks!
 #      link: /speakers
     #- text: Buy a Ticket!
@@ -62,8 +62,8 @@ buttons:
     #   link: /livestream
     # - text: Browse the photos
     #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
-    # - text: Watch the videos!
-    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+    - text: Watch the videos!
+      link_absolute: https://youtube.com/playlist?list=PLZAeFn6dfHplddJfvbke1bpUzZGozb2Yj&si=AOwsHHgwGEXqbUm0
 
 tickets:
   concierge:
@@ -155,20 +155,34 @@ grants:
   ends: "August 15, 2022"
   notification: "August 25, 2022"
 
-#unconf:
-#  url: https://bit.ly/wtd-prg-2022-ro
+unconf:
+  url: https://bit.ly/wtd-at-2023-ro
 
-#lightning_talks:
-#  signup_url: https://forms.gle/BjeN5BkdTPg9n3nAA
+lightning_talks:
+  signup_url: https://forms.gle/neYV6riRBw8gav9x6
 
 sponsors:
   keystone:
   patron:
   publisher:
     - name: knowledgeowl
-      link: https://www.knowledgeowl.com
+      link: https://www.knowledgeowl.com?ref=writethedocs
       brand: KnowledgeOwl
+    - name: helpdocs
+      link: https://www.helpdocs.io/?ref=writethedocs
+      brand: HelpDocs
+    - name: mongodb-new
+      link: https://www.mongodb.com/?ref=writethedocs
+      brand: MongoDB
   second:
+    - name: jetbrains-writerside
+      link: https://jb.gg/writerside?ref=writethedocs
+      brand: JetBrains
+    - name: clickhelp-new
+      link: https://clickhelp.com/?utm_source=write-the-docs&utm_medium=conference&utm_campaign=wtd-september-2023&utm_content=logo
+      brand: ClickHelp
+      text: "<b>ClickHelp</b> is a professional online documentation tool available in the arsenal of modern technical writers worldwide.  Effortlessly create advanced user manuals, knowledge bases, FAQs, tutorials, etc., and instantly publish them to your portal."
+
   media:
   in_kind:
 
@@ -177,15 +191,15 @@ sponsors:
 flagcfp: False
 flaglanding: False
 flaghassponsors: True
-flagticketsonsale: True
-flagsoldout: False
+flagticketsonsale: False
+flagsoldout: True
 flagspeakersannounced: True
 flagrunofshow: True
 flaghasschedule: True
 flaghasshirts: False
-flagvideos: False
+flagvideos: True
 flaglivestreaming: False
-flagpostconf: False
+flagpostconf: True
 
 # Truthy things that don't change
 flaghashike: False

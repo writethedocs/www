@@ -13,7 +13,7 @@ We ship a theme that allows your presentation to have the Write the Docs theme. 
 You can find the files here: https://github.com/writethedocs/www/tree/master/docs/guide/files/presentations
 
 
-Beginner Presentation
+Beginner presentation
 ~~~~~~~~~~~~~~~~~~~~~
 
 * Writing Docs: A beginners guide to writing documentation: https://github.com/writethedocs/www/tree/master/docs/guide/files/presentations

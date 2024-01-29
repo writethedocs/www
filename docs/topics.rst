@@ -32,6 +32,7 @@ Grammar
 Naming and terminology
 ~~~~~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `Capitalizing Feature Names </blog/newsletter-october-2023/#capitalizing-feature-names>`__
 - |:newspaper:| `Common words and how to identify them </blog/newsletter-june-2020/#common-words-and-how-to-identify-them>`__
 - |:movie_camera:| `Even Naming This Talk Is Hard </videos/na/2017/even-naming-this-talk-is-hard-ruthie-bendor/>`__
 - |:movie_camera:| `Whatchamacallit: Controlled Vocabularies for Technical Writers </videos/eu/2015/whatchamacallit-controlled-vocabularies-for-technical-writers-eboillat/>`__
@@ -42,6 +43,8 @@ Specific writing questions
 
 One word vs another, using abbreviations, etc.
 
+- |:newspaper:| `Hyperlink Text </blog/newsletter-october-2023/#hyperlink-text>`__
+- |:newspaper:| `Numbering Section Headings </blog/newsletter-september-2023/#numbering-section-headings>`__
 - |:newspaper:| `Gerunds in headings </blog/newsletter-october-2022/#gerunds-in-headings>`__
 - |:newspaper:| `When to use acronyms </blog/newsletter-september-2022/#when-to-use-acronyms>`__
 - |:newspaper:| `And another thing! Referring to other documents </blog/newsletter-july-2022/#and-another-thing-referring-to-other-documents>`__
@@ -163,6 +166,7 @@ In-app documentation
 Release notes
 ~~~~~~~~~~~~~~
 
+- |:newspaper:| `Changelogs for Docs </blog/newsletter-november-2023/#changelogs-for-docs>`__
 - |:newspaper:| `Do we tell users what’s new in the docs? </blog/newsletter-march-2020/#do-we-tell-users-what-s-new-in-the-docs>`__
 - |:movie_camera:| `Learning to love release notes </videos/prague/2018/learning-to-love-release-notes-anne-edwards/>`__
 
@@ -305,6 +309,7 @@ Getting hired
 Related roles
 ~~~~~~~~~~~~~
 
+- |:newspaper:| `Life After Documenting </blog/newsletter-december-2023/#life-after-documenting>`__
 - |:movie_camera:| `Is Tech Writer a Tester, and Vice Versa, Is Tester a Tech Writer? </videos/portland/2021/is-tech-writer-a-tester-and-vice-versa-is-tester-a-tech-writer-ines-stefanovic/>`__
 - |:newspaper:| `A tale of two careers </blog/newsletter-august-2020/#a-tale-of-two-careers>`__
 - |:movie_camera:| `What Writing Dictionaries Taught Me About Writing Documentation (And What I Had to Unlearn) </videos/portland/2018/what-writing-dictionaries-taught-me-about-writing-documentation-and-what-i-had-to-unlearn-erin-mckean/>`__
@@ -352,6 +357,8 @@ Building a team
 
 Including onboarding new writers
 
+- |:newspaper:| `Documentarians as Specialists or Generalists </blog/newsletter-december-2023/#documentarians-as-specialists-or-generalists>`__
+- |:newspaper:| `Doc Team Organization </blog/newsletter-november-2023/#doc-team-organization>`__
 - |:newspaper:| `When less is NOT more </blog/newsletter-february-2023/#when-less-is-not-more>`__
 - |:movie_camera:| `How I convinced my boss to build our docs team </videos/prague/2022/how-i-convinced-my-boss-to-build-our-docs-team-karissa-van-baulen/>`__
 - |:movie_camera:| `From Me to Us: Building a docs team from the ground up </videos/portland/2022/from-me-to-us-building-a-docs-team-from-the-ground-up-lana-brindley-she-her/>`__
@@ -497,6 +504,7 @@ Doc tools
 Docs-as-code
 ~~~~~~~~~~~~
 
+- |:newspaper:| `Docs with Code Or Just as Code? </blog/newsletter-october-2023/#docs-with-code-or-just-as-code>`__
 - |:movie_camera:| `One AWS team’s move to docs as code: what worked, what didn’t, what’s next </videos/portland/2022/one-aws-team-s-move-to-docs-as-code-what-worked-what-didn-t-what-s-next-marcia-riefer-johnston/>`__
 - |:newspaper:| `To git or not to git docs as code </blog/newsletter-august-2020/#to-git-or-not-to-git-docs-as-code>`__
 - |:newspaper:| `Pros and cons of the docs-as-code approach </blog/newsletter-april-2020/#pros-and-cons-of-the-docs-as-code-approach>`__
@@ -596,6 +604,7 @@ Measuring docs success
 Metrics
 ~~~~~~~
 
+- |:newspaper:| `Measuring Docs Quality </blog/newsletter-november-2023/#doc-team-organization>`__
 - |:movie_camera:| `Measuring the impact of your documentation </videos/prague/2018/measuring-the-impact-of-your-documentation-liam-keegan/>`__
 - |:newspaper:| `Documentation metrics </blog/newsletter-september-2017/#resources-for-documentation-metrics>`__
 - |:newspaper:| `More on metrics </blog/newsletter-april-2017/#documentation-metrics-what-to-track-and-how>`__
@@ -604,6 +613,7 @@ Metrics
 Culture and community
 ---------------------
 
+- |:movie_camera:| `Dealing with Unpleasant People in Open-Source Projects </blog/newsletter-september-2023/#dealing-with-unpleasant-people-in-open-source-projects>`__
 - |:movie_camera:| `A guide to getting started in open source </videos/portland/2021/a-guide-to-getting-started-in-open-source-abigail-mccarthy/>`__
 - |:movie_camera:| `5 things I learned from my first open source contribution </videos/australia/2020/5-things-i-learned-from-my-first-open-source-contribution-andrea-szollossi/>`__
 - |:movie_camera:| `A Year in the Life of The Better Docs Project </videos/prague/2018/a-year-in-the-life-of-the-better-docs-project-rowan-cota/>`__
@@ -612,6 +622,7 @@ Culture and community
 Building docs culture
 ~~~~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `Motivating Contributions to Internal Docs </blog/newsletter-september-2023/#motivating-contributions-to-internal-docs>`__
 - |:newspaper:| `The importance of docs... in 30 minutes </blog/newsletter-may-2023/#the-importance-of-docs-in-30-minutes>`__
 - |:movie_camera:| `Adventures in setting up a knowledge system for a research group </videos/prague/2021/adventures-in-setting-up-a-knowledge-system-for-a-research-group-victor-sluiter/>`__
 - |:movie_camera:| `Almost None to Some: Driving DISQO’s Doc Culture as a Solo Documentarian </videos/portland/2021/almost-none-to-some-driving-disqo-s-doc-culture-as-a-solo-documentarian-falon-darville/>`__
@@ -721,6 +732,7 @@ Working with other roles
 
 Including product managers, higher-ups, etc.
 
+- |:newspaper:| `Helpful Questions for Gathering Information </blog/newsletter-december-2023/#helpful-questions-for-gathering-information>`__
 - |:newspaper:| `Getting Info from Others </blog/newsletter-july-2023/#getting-info-from-others>`__
 - |:newspaper:| `Setting boundaries </blog/newsletter-april-2023/#setting-boundaries>`__
 - |:newspaper:| `Push vs. pull for docs work </blog/newsletter-december-2022/#push-vs-pull-for-docs-work>`__
@@ -740,6 +752,7 @@ Including product managers, higher-ups, etc.
 Planning and how we work
 ------------------------
 
+- |:newspaper:| `Keeping Up-To-Date with Necessary Changes </blog/newsletter-september-2023/#keeping-up-to-date-with-necessary-changes>`__
 - |:newspaper:| `Estimating docs work </blog/newsletter-october-2022/#estimating-docs-work>`__
 - |:newspaper:| `Estimating work </blog/newsletter-june-2022/#estimating-work>`__
 - |:movie_camera:| `Alchemy in Adversity (How to become better and more resilient tech writers in a turbulent work environment) </videos/prague/2021/alchemy-in-adversity-how-to-become-better-and-more-resilient-tech-writers-in-a-turbulent-work-environment-anna-korinna-n-meth-szab/>`__
@@ -810,6 +823,7 @@ Defining success
 Theories/Philosophy
 -------------------
 
+- |:newspaper:| `What Is Technical Documentation? </blog/newsletter-december-2023/#what-is-technical-documentation>`__
 - |:movie_camera:| `Cognitive Ergonomics in Technical Writing - Lessons from the Field </videos/prague/2021/cognitive-ergonomics-in-technical-writing-lessons-from-the-field-anita-diamond/>`__
 - |:movie_camera:| `7 Essential Tips for the Enlightened Tech Writer </videos/portland/2018/7-essential-tips-for-the-enlightened-tech-writer-ted-hudek/>`__
 - |:movie_camera:| `Peanuts and Minimalism and Technical Writing </videos/au/2017/peanuts-and-minimalism-and-technical-writing-brice-fallon/>`__

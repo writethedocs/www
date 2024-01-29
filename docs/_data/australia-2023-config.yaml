@@ -14,7 +14,7 @@ hex: ea6852
 time_format: 12h
 
 photos:
-  default: _static/conf/images/headers/WTDHeader.png
+  default: _static/conf/images/headers/atlantic-group.png
 
 buttons:
   top:
@@ -22,16 +22,16 @@ buttons:
   #     link: /news/welcome
   #   - text: Sponsor us
   #     link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp  
+  #  - text: Submit a Talk
+  #    link: /cfp
   #   - text: Date and ticket information
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: Read our conference guide
   #     link: /welcome-wagon
   #   - text: See the Schedule!
   #     link: /schedule
-    - text: Buy a Ticket!
-      link: /tickets
+  #  - text: Buy a Ticket!
+  #    link: /tickets
   #  - text: See the talks!
   #    link: /speakers
   #  - text: See the Schedule!
@@ -40,13 +40,13 @@ buttons:
   #    link: /welcome-wagon
   #  - text: Watch the Live Stream
   #    link: /livestream
-  #  - text: Watch the videos!
-  #    link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpnDhFvXG8GprqlLlzSQRBui
-  #  - text: Thanks for coming
-  #    link: /news/thanks-recap
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLy70RNJ7dYrJR66QtoHmTWSqm4iAlmH-m
+    - text: Thanks for coming
+      link: /news/thanks-recap
   bottom:
-     - text: Welcome to our conference
-       link: /news/welcome
+  #   - text: Welcome to our conference
+  #     link: /news/welcome
   #   - text: Sponsor the conference
   #     link: /sponsors/prospectus
   #   - text: Submit a Talk
@@ -65,10 +65,10 @@ buttons:
   #     link: /schedule
   #    - text: Watch the Live Stream
   #     link: /livestream
-  #   - text: Browse the photos
-  #     link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
-  #   - text: Watch the videos!
-  #     link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+     - text: Browse the photos
+       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720313823452/
+     - text: Watch the videos!
+       link_absolute: https://www.youtube.com/playlist?list=PLy70RNJ7dYrJR66QtoHmTWSqm4iAlmH-m
 
 tickets:
   corporate:
@@ -132,7 +132,7 @@ about:
     "The main presentation track takes place during **December 7-8 (Thursday and Friday) from 9:30am to 4:00pm AEDT**.
     During the main event we also run an :doc:`/conf/australia/2023/unconference`."
 
-  social_venue: TBD
+  social_venue: Tap831, 831 Bourke St, Docklands VIC 3008
   venue: Library at the Dock
   photos: TBD
   mainroom: Performance Space
@@ -142,14 +142,14 @@ about:
 
 cfp:
   url: https://pretalx.com/wtd-australia-2023/cfp # Open July 15, 2023, 8 weeks to submit
-  ends: "September 15, 2023"           # 2 weeks to review and get confirmations
+  ends: "September 22, 2023"           # 2 weeks to review and get confirmations
   notification: "September 30, 2023"   # 8 weeks to write and prepare
   slides_by: "December 01, 2023"       # 1 week before
   preview: "TODO"                      # Preview URL TODO
 
 unconf:
-  url: TODO
-  date: "Thursday and Friday after the lunch break"
+  url: https://bit.ly/wtd-au-2023
+  date: "Thursday and Friday after the morning tea break"
 
 
 grants:
@@ -181,24 +181,23 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: True
-flagcfp: True
-flagticketsonsale: True
+flagcfp: False
+flagticketsonsale: False
 flagsoldout: False
-flagspeakersannounced: False
+flagspeakersannounced: True
 flagrunofshow: False
-flaghasschedule: False
+flaghasschedule: True
 flaghasunconf: True
 flaghasshirts: False
-flagvideos: False
+flagvideos: True
 flaglivestreaming: False
-flagpostconf: False
+flagpostconf: True
 flagcancelled: False
 
 # Truthy things that don't change
 flaghashike: False
 flaghasfood: True
 flaghasboat: False
-flaghaswritingday: True
+flaghaswritingday: False
 flaghasjobfair: False
 flaghasbadgeflair: False
-

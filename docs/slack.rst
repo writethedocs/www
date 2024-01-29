@@ -118,13 +118,13 @@ Default channels
 
 Everyone who joins the Slack will be added to these channels:
 
-* **announcements** - Where organizers post housekeeping and community-wide announcements.
-* **#general** - The main channel for documentation related conversation and questions.
-* **#watercooler** - For talking about things that are off-topic. Get to know folks other interests that aren't around documentation :)
-* **#jobs-posts-only** - Posting jobs. (You can look for jobs in **#career-advice**)
-* **#wtd-conferences** - Questions and other thoughts around the :doc:`/conf/index`.
-* **#meetups** - Questions and other thoughts about our :doc:`/meetups/index`.
 * **#intros** - Introduce yourself! Let people know you're here, and why you care about docs :)
+* **#announcements** - Community-wide announcements from the Write the Docs organizers.
+* **#general** - The main channel for documentation-related conversation and questions.
+* **#job-posts-only** - Posting jobs. (Talk about your job search in **#work-wanted** and **#career-advice**.)
+* **#wtd-conferences** - Questions and discussion for :doc:`/conf/index`. (Talk about other conferences in **#community-events**.)
+* **#meetups** - Questions and discussion for Write the Docs :doc:`/meetups/index`. (Talk about other meetups in **#community-events**.)
+* **#watercooler** - Off-topic chat. Get to know folks' other interests that aren't around documentation :)
 
 Other useful topical channels
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -161,13 +161,26 @@ Creating channels
 
 If you didn't see a channel that matches your interests, make sure to browse the complete channel list in Slack.
 
-If you still can't find a suitable channel, you can propose a new channel. To propose a channel:
+If you still can't find a suitable channel, you can propose a new channel.
+We use this process to help channels succeed at creating discussion and introducing documentarians to others who share their interests.
+To propose a channel:
 
-1. Find two other people to cosponsor your channel idea. Ask in related channels to find people who share your interest.
-2. Together, come up with a channel name and write a channel description.
-3. Post in **#meta** requesting a channel. Be sure to share your proposed channel name, description, and to tag your cosponsors.
+#. Find two other people to cosponsor your channel idea.
+   Ask in related channels to find people who share your interest.
+#. Together, come up with a channel name and write a channel description.
+#. Post in **#meta** requesting a channel.
+   Be sure to share your proposed channel name, description, and to tag your cosponsors.
+#. Start thinking about how to seed the new channel with discussion, with an open-ended question, a link to discuss, or a hot take.
 
-The Write the Docs moderation team will review your proposal.
+The Write the Docs moderation team will review your proposal to make sure the new channel will remain active and won't duplicate or create confusion with another channel.
+Whenever possible, the moderators work with channel sponsors on improvements to the proposal.
+
+If your proposal is approved, then you and your consponsors must:
+
+#. Seed discussion in the new channel.
+   A starter discussion helps others learn whether the channel is relevant to them and increases the number of documentarians who join the channel.
+#. Make an announcement in **#general** and channels related to the new channel's topic.
+   For example, if there's a new a channel for underwater basket weaving, then make an announcement like "Join us in #underwater-basket-weaving to discuss techniques, materials, and what to store in all these baskets."
 
 Guidelines
 ----------
@@ -271,9 +284,8 @@ In addition to the guidance that applies to all participants, we expect self-pro
   If people aren't interested in what you're offering, don't take it as a license to become louder and more aggressive.
   If you're asked to stop, then stop.
 - **Treat the community like friends, not customers.**
-  Posts that resemble infomercials are harder for the community to engage with and for the moderation team to distinguish from spam.
-  If you post about things that aren't relevant to the documentation field or the channel you're posting in, moderators might delete your messages.
-  Make sure conversations stay relevant and not sales-focused, so you can have the chance to talk about work you're excited about.
+  The community tends to ignore or spam report posts that look like sales pitches.
+  Avoid calls to action — `attempts to prompt an immediate response or sale <https://en.wikipedia.org/wiki/Call_to_action_(marketing)>`_ — such as requests to "buy", "subscribe", "retweet", or "share" (among others).
 
 Common self-promotion situations
 ++++++++++++++++++++++++++++++++
@@ -320,7 +332,7 @@ Posts in those channels not meeting the posting rules may result in :ref:`modera
 Reporting Issues
 ~~~~~~~~~~~~~~~~
 
-If you see a message in a public channel that looks like spam, you can react to it with the ``:spam:`` reactji to bring the moderators' attention to it.
+If you see a message in a public channel that needs moderator attention, you can react to it with the ``:attn-mods:`` or ``:spam:`` reactji.
 Note that this is a public action, so only take it if you're okay with the poster seeing you have done this. 
 
 If you see people not following the behavior guidelines you can:

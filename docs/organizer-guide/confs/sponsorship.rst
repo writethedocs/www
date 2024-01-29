@@ -16,7 +16,7 @@ Hard Rules
 
 We have these rules around sponsorship:
 
-* Sponsors will follow our Code of Conduct, especially the :ref:`coc-sponsors` section.
+* Sponsors will follow our Code of Conduct, especially the Sponsors section.
 * Sponsors can't buy talk slots at our conferences. Any time sponsors will be on stage will be labeled as a sponsorship time.
 * We don't sell personal information about our attendees to sponsors (e.g., to add to their mailing list).
 * No hard selling of our attendees at the event

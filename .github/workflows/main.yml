@@ -31,6 +31,7 @@ jobs:
           reporter: github-pr-check
           fail_on_error: true
           filter_mode: file
+          version: 2.30.0
 
 
       - name: Vale Guide Linter
@@ -45,6 +46,7 @@ jobs:
           reporter: github-pr-check
           fail_on_error: true
           filter_mode: file
+          version: 2.30.0
 
 
   yaml-validate:

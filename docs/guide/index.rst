@@ -1,5 +1,5 @@
 ===================
-Documentation Guide
+Documentation guide
 ===================
 
 This guide gathers the collective wisdom of the Write the Docs community around best practices for creating software documentation.
@@ -8,7 +8,7 @@ This guide gathers the collective wisdom of the Write the Docs community around 
 
 Also feel free to send us any additions in any format to support@writethedocs.org.
 
-New to Caring About Documentation?
+New to caring about documentation?
 ----------------------------------
 
 .. toctree::
@@ -21,7 +21,7 @@ New to Caring About Documentation?
    imposter
 
 
-Foundational Resources
+Foundational resources
 ----------------------
 
 .. toctree::
@@ -33,7 +33,7 @@ Foundational Resources
 
 * Structuring your Documentation
 
-Approaches to Creating Docs
+Approaches to creating docs
 ---------------------------
 
 .. toctree::
@@ -47,7 +47,7 @@ Approaches to Creating Docs
 * Documentation and product development
 * Who writes the docs?
 
-Markup Languages
+Markup languages
 ----------------
 
 .. toctree::
@@ -58,7 +58,7 @@ Markup Languages
    writing/xml
    writing/asciidoc
 
-Tools of the Trade
+Tools of the trade
 ------------------
 
 .. toctree::
@@ -87,7 +87,7 @@ Tools of the Trade
 * Keeping your documentation up to date
 * Jekyll
 
-Documentation Guides
+Documentation guides
 --------------------
 
 * `Dozuki Guide to Technical Writing <https://www.dozuki.com/tech_writing/>`_
@@ -97,7 +97,7 @@ Documentation Guides
 
 .. _api-documentation:
 
-API Documentation
+API documentation
 -----------------
 
 .. toctree::
@@ -107,7 +107,7 @@ API Documentation
    api/generating-documents
    api/testing
 
-UI Text
+UI text
 -----------------
 
 .. toctree::
@@ -124,7 +124,7 @@ Distribution
     - Read the Docs Theme
     - Alabaster
 
-Writing Environments
+Writing environments
 --------------------
 
 * Text Editors
@@ -148,7 +148,7 @@ Documentation comes in many variations. Here are some examples to inspire you:
 * `Google Material Design <https://material.io/design/>`_ Good examples of different layouts
 * `IBM Knowledge Center <https://www.ibm.com/support/knowledgecenter/en/>`_ solid examples of code that isn’t necessarily API
 
-Additional Notes
+Additional notes
 ----------------
 
 .. toctree::
@@ -157,11 +157,11 @@ Additional Notes
    about/index
    contributing
 
-Write the Docs Resources
+Write the Docs resources
 ------------------------
 
 * Conference: https://www.writethedocs.org/
-* Slack: `Write the Docs <http://slack.writethedocs.org/>`__
+* Slack: `Write the Docs <https://writethedocs.org/slack/>`__
 * Twitter: http://twitter.com/writethedocs
 * Issues & feature requests: https://github.com/writethedocs/docs/issues
 * Source repository: https://github.com/writethedocs/docs

@@ -14,8 +14,8 @@ Videos
 * `Torrey Podmajersky: Strategic Writing for UX | Episode 046” <https://www.youtube.com/watch?v=o5YJ5W1UPqY>`_
 * `Beth Aitman: “ Before the Docs: Writing for User Interfaces” <https://www.youtube.com/watch?v=LemM9PHDX6w>`_
 
-Websites/blogs
---------------
+Websites and blogs
+------------------
 
 * `http://uxwritinghub.com/blog/ <http://uxwritinghub.com/blog/>`_
 * `BJohn Saito @ Medium <https://medium.com/@jsaito>`_

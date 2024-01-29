@@ -15,10 +15,16 @@ their users to be a member of our community. This can be programmers,
 tech writers, developer advocates, customer support, marketers, and anyone else who wants
 people to have great experiences with software.
 
-* Attend one of :doc:`our conferences </conf/index>`
-   - :doc:`Portland 2023 </conf/portland/2023/index>`, **May 7-9**, Portland, Oregon, United States
-   - :doc:`Atlantic 2023 </conf/atlantic/2023/index>`, **September 10-12**, Virtual - CEST and EDT
-   - :doc:`Australia 2023 </conf/australia/2023/index>`, **December 7-8**, Melbourne, Australia
+Attend a conference
+-------------------
+
+We have in-person and virtual conferences around the world:
+
+   - :doc:`Portland 2024 </conf/portland/2024/index>`, **April 14-16, 2024**, Portland, Oregon, United States
+   - :doc:`Atlantic 2024 </conf/atlantic/2024/index>`, **September 22-24**, Virtual - CEST and EDT
+   - **Australia 2024**, Dates and Venue TBD, AEDT timezone
+
+See all :doc:`our conferences </conf/index>` from past years.
 
 Connect with the community
 --------------------------
@@ -28,6 +34,7 @@ Get more information on how to meet the community, get involved, stay in touch.
 * Join our :doc:`Slack network </slack>` with thousands of other documentarians
 * Join a :doc:`local or online meetup </meetups/index>` to dive deeper into the community
 * Learn more about our :doc:`sponsorship options <sponsorship/index>` for your company
+* Take the `2023 Documentation Salary Survey <https://salary-survey.writethedocs.org>`_
 
 Find or advertise a job
 -----------------------
@@ -52,6 +59,21 @@ We have an ever-increasing set of talk videos, articles, links, and resources:
 We're glad you stopped by!
 We hope you'll join us either online or in-person for an event soon.
 
+Site Content
+------------
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+
+   surveys/index
+   guide/index
+   book-club/index
+   Hiring guide <hiring-guide/index>
+   about/stay-connected
+   about/*
+
 .. toctree::
    :hidden:
    :glob:
@@ -73,4 +95,3 @@ We hope you'll join us either online or in-person for an event soon.
    conf/vilnius/*/*/*
    conf/cfp/*
    book-club/*/*
-   about/*

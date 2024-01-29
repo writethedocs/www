@@ -25,7 +25,7 @@ All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
 
 {% if flaghasfood %}
 
-*Morning tea and lunch will be provided, as well as snacks and drinks all day.*
+*Morning tea, lunch, and afternoon tea will be provided.*
 
 {% endif %}
 
@@ -78,7 +78,7 @@ Snacks and drinks (non-alcoholic & alcoholic) will be provided.
 
 {% if flaghasfood %}
 
-*Morning tea and lunch will be provided, as well as snacks and drinks all day.*
+*Morning tea, lunch, and afternoon tea will be provided.*
 
 {% endif %}
 

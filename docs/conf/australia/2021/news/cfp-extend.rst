@@ -17,7 +17,7 @@ We added two extra weeks to the deadline because there are enough things to worr
 Make sure to get your talk in before the new deadline; we already have a lot of great proposals coming in, but we wanted to give everyone a chance to submit their ideas.
 
 Check out the `Call for Proposals <https://www.writethedocs.org/conf/australia/2021/cfp/>`_ page for tips and examples to help inspire you.
-And if you’ve got an idea but aren't sure what to do with it, feel free to ask for feedback on `Slack <http://slack.writethedocs.org/>`_. Your fellow documentarians will be happy to help!
+And if you’ve got an idea but aren't sure what to do with it, feel free to ask for feedback on `Slack <https://writethedocs.org/slack/>`_. Your fellow documentarians will be happy to help!
 
 We will send out the decision emails to all who submitted by **mid-September**, and the final talks will be published by **early October**.
 
