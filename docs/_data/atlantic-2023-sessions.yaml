@@ -1,0 +1,451 @@
+- title: 'One glossary to rule them all: terminology management at scale'
+  slug: one-glossary-to-rule-them-all-terminology-management-at-scale-ian-cowley
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2023
+  speakers:
+  - name: Ian Cowley
+    slug: ian-cowley
+    twitter: 
+    website: 
+  abstract: '<p>Simple glossaries are relatively easy to set up for individual projects,
+    but they become difficult to manage when you try to scale them - especially when
+    trying to scale the management of terms and definitions across multiple platforms,
+    projects and even organisations.</p>
+
+    <p>As our organisation grew in size, we quickly saw that we were using different
+    terms to describe very similar features across the company''s range of software
+    applications. A pressing requirement emerged to efficiently manage the terms that
+    we were using. It was important to have a single source of truth for all the terms
+    and definitions, and that source of truth had to be created in such a way so that
+    it could be adapted to a variety of outputs and formats (websites, API docs, translation
+    tools, etc.). This applied not only to software that came into our portfolio via
+    acquisitions, but also to new projects being developed in our R&amp;D departments.</p>
+
+    <p>Focusing on the technical writer''s role, this talk will discuss the following
+    aspects of my organisation''s terminology management journey:</p>
+
+    <ul>
+
+    <li>The challenges of arriving at consensus over terminology used across multiple
+    platforms</li>
+
+    <li>Creating an initial termbase</li>
+
+    <li>How we implemented a machine-readable, single-source, "mega" glossary</li>
+
+    <li>Standardising and automating glossary creation processes</li>
+
+    <li>Ensuring content reuse across different platforms</li>
+
+    <li>Ongoing internationalisation of the glossary</li>
+
+    </ul>'
+- title: The power of product screenshots in your help documentation. And how keeping
+    them updated can be automated!
+  slug: the-power-of-product-screenshots-in-your-help-documentation-and-how-keeping-the-josh-peacock
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2023
+  speakers:
+  - name: Josh Peacock
+    slug: josh-peacock
+    twitter: 
+    website: 
+  - name: Dennis Mortensen
+    slug: dennis-mortensen
+    twitter: 
+    website: 
+  abstract: '<p>Your customer’s desire for self-service support options, and the importance
+    of delivering superior self-service Support, is well documented. Today’s customers
+    are savvy, self-reliant and more than comfortable finding answers to their questions
+    online. And they increasingly use self-service as the first point of contact with
+    your support organization and, oftentimes, your company. However, as the focus
+    and emphasis on self-service support has increased over the years, the cornerstone
+    of self-service support has remained consistent. The help center remains the cornerstone
+    of self-service support and is overwhelmingly the preferred support channel for
+    customers. </p>
+
+    <p>But simply offering your customers a help center is not enough. To ensure you
+    are providing your customers with a high-quality self-service experience, one
+    that ultimately allows them to resolve their own issues, it is imperative that
+    your help documentation, and other instructional content, is easily digestible
+    and up-to-date. </p>
+
+    <p>Not only do product screenshots immediately convey to your customers what a
+    help article is about, they also make your content more interesting and engaging.
+    Your content only has a few seconds to make an impression on your customers, and
+    these product visuals make a big difference. Product screenshots allow you to
+    break your content into more understandable steps, and allow your customers to
+    digest the content in a more simplified way. They increase how engaged your customers
+    are with your help articles and increase the likelihood they will find the answer
+    they need.  </p>
+
+    <p>Topics covered in the talk will include:</p>
+
+    <ul>
+
+    <li>The importance of product screenshots in your help documentation and the key
+    metrics they will help you improve</li>
+
+    <li>The different approaches for including product screenshots in your help documentation
+    and when it is best to use each different approach</li>
+
+    <li>Using alerts to automate when your product screenshots, and help documentation,
+    has become outdated and an automated process to automatically update your product
+    screenshots</li>
+
+    </ul>'
+- title: Once Upon a Time There Were... Docs
+  slug: once-upon-a-time-there-were-docs-fabrizio-ferri-benedetti
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2023
+  speakers:
+  - name: Fabrizio Ferri-Benedetti
+    slug: fabrizio-ferri-benedetti
+    twitter: 
+    website: 
+  abstract: '<p>A year and a half ago, I had a crazy idea: I''d write <a href="https://www.splunk.com/en_us/resources/amir-and-the-magical-lens.html">a
+    children''s book on OpenTelemetry</a>. My goal was to learn the essentials of
+    the technology that I document every day at work while having fun along the way.
+    After lots of editing, reviews, and illustration efforts, the book finally went
+    live last year to enthusiastic reactions from the community.</p>
+
+    <p>Explaining the product to my kids through storytelling required deepening my
+    knowledge and exploring new mental models that I hadn''t tried yet. I learned
+    that the journey of creating something so different and creative mattered more
+    than the final deliverable, and that the way of reaching product truth is different
+    from person to person.</p>
+
+    <p>In this talk I''ll tell you how I created the book and got it published by
+    Splunk. Along the way, I''ll explain the Circles of Product Truth model and present
+    other ways in which unconventional technical communication and media can bridge
+    the gap between different levels of audience knowledge and provide a safe path
+    to product truth. Because this, too, is tech writing.</p>'
+- title: Bootstrap IA Development with In-house Usability Testing
+  slug: bootstrap-ia-development-with-in-house-usability-testing-adam-trujillo
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2023
+  speakers:
+  - name: Adam Trujillo
+    slug: adam-trujillo
+    twitter: 
+    website: 
+  - name: Jeffrey Boruszak
+    slug: jeffrey-boruszak
+    twitter: 
+    website: 
+  abstract: '<p>Until recently, our product’s software engineers were primarily responsible
+    for writing, updating, and organizing the product’s documentation. But years of
+    rapid growth and product evolution resulted in sprawling docs that are a hodge-podge
+    of logical constructions, writing styles, and information types. As the organization’s
+    first dedicated technical writers, we were tasked with reorganizing the content
+    to help both experienced practitioners who need to find specific information and
+    product novices who want to understand the product for their role or organization.
+    We had to complete this project before a major launch without additional resources.</p>
+
+    <p>In this presentation, we will share the steps we took to understand our documentation
+    and its needs, including how we audited content, analyzed and compared the structure
+    to market peers, designed and conducted an internal usability study, and translated
+    the results of the study into high impact “quick wins.” We will also share our
+    approach for planning the next steps toward improving our documentation and its
+    information architecture.</p>
+
+    <p>We will use our experience to highlight questions relevant for any IA and describe
+    how we approached the problem. Topics include:</p>
+
+    <ul>
+
+    <li>How do you determine your documentation’s most important information needs?</li>
+
+    <li>How do you design and conduct a usability study for your documentation?</li>
+
+    <li>How do you translate user behavior into information design principles?</li>
+
+    <li>What do you need to consider when starting a long term IA project?</li>
+
+    </ul>'
+- title: 'Papercuts: Stop the Bleed. Reducing information leakage from client-bound
+    documentation'
+  slug: papercuts-stop-the-bleed-reducing-information-leakage-from-client-bound-docume-kristine-sihto
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2023
+  speakers:
+  - name: Kristine Sihto
+    slug: kristine-sihto
+    twitter: 
+    website: 
+  abstract: '<p>Documentation is inherent to every organisation, and a lot of that
+    documentation is bound for external clients. Unfortunately, there are a lot of
+    places, both in the architecture of your documents, as well as in the content
+    itself, which give away key pieces of information about your organisation.
+
+    My presentation will address common places in documentation that may leak information
+    about staff, internal processes, and other clients, and discuss methods to reduce
+    the incidence of information leakage.</p>'
+- title: Working with User Experience to Maximize User Success
+  slug: working-with-user-experience-to-maximize-user-success-katie-riker
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2023
+  speakers:
+  - name: Katie Riker
+    slug: katie-riker
+    twitter: 
+    website: 
+  abstract: '<p>Documentation and user experience (UX) design teams may not seem like
+    they go together on the surface - isn’t one concerned with words and the other
+    with pictures?
+
+    But this is a false oversimplification!. Both documentation &amp; UX have the
+    same goal: The success of their users.</p>
+
+    <p>Documentation is a crucial part of a user’s experience: it is how users learn
+    how to use a product. Therefore, the involvement of documentation earlier in development
+    processes makes the product better and more usable. In the effort of influencing
+    and getting information within the development process, UX is the ideal stakeholder
+    for documentarians to work with. UX teams spend time not only designing workflows
+    and layouts, but also doing UI writing. A collaborative relationship between docs
+    and UX can help both teams to work more productively and at a higher quality.
+    </p>
+
+    <p>Based on collaborative success stories between technical writers and UX, I
+    will discuss strategies and techniques for:</p>
+
+    <ul>
+
+    <li>Getting early exposure to planned workflows and features</li>
+
+    <li>Contributing to user success through UI copy and onboarding</li>
+
+    <li>Gaining more strategic influence on products through UX collaboration.</li>
+
+    </ul>'
+- title: Metric driven documentation
+  slug: metric-driven-documentation-chris-noonan
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2023
+  speakers:
+  - name: Chris Noonan
+    slug: chris-noonan
+    twitter: 
+    website: 
+  - name: John Hannagan
+    slug: john-hannagan
+    twitter: 
+    website: 
+  abstract: '<p>It''s difficult to determine how easy it is to read the content that
+    you create. This is especially true for technical documentation, where complex
+    concepts and terms that are specific to your product and industry are described.
+    As writers, we rely on the style guide, peer review process, and customer feedback
+    to gauge our content, but this doesn''t give us the full picture.</p>
+
+    <p>Readability metrics have been around for a long time. Many of them were devised
+    before people used computers, and before software existed, so they''re sometimes
+    seen as an imperfect means of gauging readability for technical documentation.</p>
+
+    <p>Two years ago in Rebilly, we were starting a major overhaul of the docs, and
+    needed to document most of the product. I was interested in readability metrics
+    and the early insights they could provide. Instead of waiting for reviews or customer
+    feedback, I could proactively make changes and improve the content. Before this
+    point I had never found a good tool for this.</p>
+
+    <p>I got chatting with my colleague, John, who was also interested in this area.
+    John created an awesome tool that outputs data for each documentation change based
+    on several metrics. And, for the last two years we''ve been learning from these
+    metrics and using them to shape our content.</p>
+
+    <p>We''d like to share these insights and learnings with you.</p>'
+- title: 'Graphs, not trees: A ground-up approach to fixing a docs site.'
+  slug: graphs-not-trees-a-ground-up-approach-to-fixing-a-docs-site-matt-dodson
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2023
+  speakers:
+  - name: Matt Dodson
+    slug: matt-dodson
+    twitter: 
+    website: 
+  abstract: '<p>In this proposal, I argue for a reader-centered, bottom-up approach
+    to doc restructuring. To make my case, I draw parallels from the worlds of urban
+    design and architecture, citing examples of how top-down approaches often ignore
+    the needs of the people (readers and residents) who actually use an artifact.</p>
+
+    <p>The documentarian rarely inherits a perfectly structured set of docs.
+
+    Information structures are in a constant flux. Applications change, as do reader
+    demands. People leave; organizations re-organize; information plans get abandoned
+    in states of partial completion.
+
+    When a new writer joins,
+
+    everything may seem haphazard, confusing, and inhuman, like a dystopian city.</p>
+
+    <p>When approaching these cities of decaying information, a temptation is to take
+    a step back and start rearranging from the top down. Or maybe just rewriting the
+    whole thing.
+
+    I argue that this attitude often benefits writers more than readers.
+
+    What good is the birds-eye view for the person who is walking on the street?
+
+    Without testing the docs and using the application, how can we understand what
+    readers need?</p>
+
+    <p>This talk advocates for the ground-up approach to information restructuring.
+
+    Instead of onboarding sessions, experiment and tinker.
+
+    Some bottom-up strategies include:</p>
+
+    <ul>
+
+    <li>Testing and fixing key documents (like maintaining important intersections)</li>
+
+    <li>Gradually exploring how documents communicate with each other (like developing
+    important lines of public transportation)</li>
+
+    <li>Making small fixes to links and sentences all over the place (like fixing
+    potholes).</li>
+
+    </ul>
+
+    <p>In this process, documentarians develops a wider focus, which in turn gives
+    them the knowledge to make effective, high-level changes later.</p>'
+- title: Drop the Docs, Get Back to What’s Important! How to Create Product Documentation
+    that Encourages User Disengagement
+  slug: drop-the-docs-get-back-to-what-s-important-how-to-create-product-documentation-stephan-delbos
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2023
+  speakers:
+  - name: Stephan Delbos
+    slug: stephan-delbos
+    twitter: 
+    website: 
+  abstract: '<p>Throughout my career in content, including digital marketing, content
+    strategy and product content in the fast-paced world of tech startups, most strategic
+    decisions have been based on the goal of getting as many users to look at my content
+    as possible. But recently in Mews, we have been talking more about User Disengagement.
+    It’s a concept that will be familiar to those in touch with the world of product
+    design: in our case, we want hoteliers and guests to use our property management
+    system as little as possible. We envision a predictive system with no screens.
+    Imagine that! But how does this ambition translate to product documentation—and
+    how can we measure the success of documentation when disengagement, rather than
+    engagement, is the goal?  </p>
+
+    <p>This really got me thinking. About how we write and structure our documentation
+    and how we measure its success. At Mews, we decided to support both long-form
+    product documentation and shorter FAQ-style articles written by Customer Support.
+    We imposed a clear structure, including linkable navigational elements, and organizational
+    system titles, tags and subheadings. We brought our documentation into the product
+    as much as possible. And we created new reports, relying less on page views and
+    visits, and looking more closely at bounce rates, self-service and case deflection.  </p>
+
+    <p>This talk will condense everything I’ve learned about how the concept of user
+    disengagement can improve product documentation, including: </p>
+
+    <ul>
+
+    <li>Why user disengagement should be your guiding principle for docs </li>
+
+    <li>Why many traditional content metrics don’t work </li>
+
+    <li>How to write documentation that’s easier and faster to use </li>
+
+    <li>How to measure the business impact of product documentation</li>
+
+    </ul>'
+- title: Creating a content pipeline for the Eclipse Che project
+  slug: creating-a-content-pipeline-for-the-eclipse-che-project-alexander-schwartz
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2023
+  speakers:
+  - name: Alexander Schwartz
+    slug: alexander-schwartz
+    twitter: 
+    website: 
+  - name: Fabrice Flore-Thebault
+    slug: fabrice-flore-thebault
+    twitter: 
+    website: 
+  abstract: "<p>For a project of a reasonable size, there's usually more than one
+    source for the website that needs to be published. \nThis talk presents how the
+    Eclipse Che project leveraged Antra and Antora extensions to create a fully automated
+    process for docs as code for both the upstream Open Source version as well as
+    a productized version that is available with a subscription. </p>\n<p>For several
+    years, Antora is known as a site generator for documentation which pulls AsciiDoc
+    content from multiple Git repositories at once to support a docs as code approach.
+    In 2022, Antora made the leap to open its publishing process to plugins: They
+    allow pulling information dynamically during the build process to blend generated
+    and hand written content, and forward the content not only to a static HTML site,
+    but other targets like PDF as well. This talk outlines how the Eclipse Che project
+    used these extensions, and how it can be extended for custom needs.</p>"
+- title: AI ethics for tech writers
+  slug: ai-ethics-for-tech-writers-chris-meyns
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2023
+  speakers:
+  - name: Chris Meyns
+    slug: chris-meyns
+    twitter: 
+    website: 
+  abstract: '<p>Generative AI tools, especially those using large language models
+    (LLMs) such as Bing, Bard, and ChatGPT, or text-to-image models such as Stable
+    Diffusion or DALL·E 2, have been taking the technical writing space by storm over
+    the past year. While some tech writers have jumped right in, others have found
+    themselves unsure, overwhelmed, or even consciously disengaging because of concerns.</p>
+
+    <p>My aim in this talk is to provide technical writers with a conceptual toolkit
+    to help guide their ethical decision making about how and where to use generative
+    AI tools. In doing so, I want to go beyond the valid, commonly-voiced concerns
+    about shortcomings of the tools themselves—such as about toxicity, bias, unreliability,
+    and risks of ‘hallucination’. Specifically, I’ll zoom in on concrete ethical challenges
+    around the use of generative AI tools in three types of situation that will be
+    familiar to many tech writers: </p>
+
+    <ol>
+
+    <li>the production of documentation; </li>
+
+    <li>the use of documentation; and </li>
+
+    <li>professional development and responsibility. </li>
+
+    </ol>
+
+    <p>For each of these cases, I will foreground specific ethical issues that a tech
+    writer might run into, and will point to how, and the extent to which, they can
+    be addressed.</p>
+
+    <p>Generative AI tools are likely to have a huge continued impact on the technical
+    writing craft and profession over the years to come. By building a conceptual
+    toolkit, my aim is to empower tech writers to feel better equipped and more confident
+    in navigating the sometimes murky ethical questions around using generative AI
+    professionally in their work.</p>'
+- title: OpenAPI for Documentarians
+  slug: openapi-for-documentarians-lorna-mitchell
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2023
+  speakers:
+  - name: Lorna Mitchell
+    slug: lorna-mitchell
+    twitter: 
+    website: 
+  abstract: <p>OpenAPI descriptions are an excellent way of having all information
+    about an API in one place, and making that available to many different tools.
+    As a standard, it can be difficult to get started with, and the resulting files
+    are often large and unwieldy. In this session, you'll get an overview of the structure
+    of OpenAPI descriptions, details on taking advantage of OpenAPI features to create
+    documentation, and some tips on working around common problems. We'll look at
+    some of the tools available to help you through various stages of the API lifecycle,
+    and how these fit into your documentation workflow. This session is recommended
+    for technical writers, engineers, technical leaders and anyone else wanting to
+    make their APIs a better place for developers.</p>

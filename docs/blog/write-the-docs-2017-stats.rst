@@ -42,7 +42,7 @@ Newsletter
 
 * 3,406 subscribers (up from 2,485 in 2016)
 
-Our :doc:`newsletter </newsletter>` contains curated distillations from the slack conversations that you have every day.
+Our :doc:`newsletter </newsletter>` contains curated distillations from the Slack conversations that you have every day.
 
 Meetups
 =======

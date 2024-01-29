@@ -46,7 +46,7 @@ Instructions for installing Python and Sphinx on Windows can be found at the `Sp
 .. note:: Advanced users can install this in a virtualenv if they wish.
 
 
-Getting Started
+Getting started
 ---------------
 
 You'll want to read the `Sphinx Getting Started guide`_,
@@ -78,7 +78,7 @@ Inside of this is:
 
 Other ``*.rst`` files for specific subsections of documentation.
 
-Table of Contents Structure
+Table of contents structure
 ------------------------------------------
 
 The method for specifying a table of contents (TOC) structure in

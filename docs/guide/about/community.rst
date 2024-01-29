@@ -1,5 +1,5 @@
 ========================
-Documentation Community
+Documentation community
 ========================
 
 We are bringing together a community around documentation. Communities need a `Third Place`_ to gather, and we hope to be that place. We currently have an IRC channel and mailing list for people to connect on:
@@ -20,4 +20,4 @@ A community without people who help maintain standards and advance the state of 
 .. _Mailing List: https://groups.google.com/forum/?fromgroups=#!forum/write-the-docs
 .. _Twitter: http://twitter.com/writethedocs
 .. _GitHub: https://github.com/writethedocs
-.. _Slack: http://slack.writethedocs.org
+.. _Slack: https://writethedocs.org/slack

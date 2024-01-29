@@ -9,12 +9,15 @@ Technical communication
 * `Developing Quality Technical Information: A Handbook for Writers and Editors <https://www.goodreads.com/book/show/17349710-developing-quality-technical-information>`_ (multiple authors)
 * `Docs for Developers: An Engineer’s Field Guide to Technical Writing <https://www.apress.com/us/book/9781484272169>`_ by Jared Bhatti, Zachary Sarah Corleissen, Jen Lambourne, David Nunez, and Heidi Waterhouse
 * `Docs Like Code <https://www.docslikecode.com/book/>`_, by Anne Gentle - **Read in our book club**
+* `Docs-as-Ecosystem: The Community Approach to Engineering Documentation <https://www.goodreads.com/book/show/133207376-docs-as-ecosystem>`_, by Alejandra Quetzalli
 * `Living Documentation <https://www.goodreads.com/book/show/26865837-living-documentation-by-design-with-domain-driven-design>`_, by Cyrille Martraire
 * `Managing Writers: A Real World Guide to Managing Technical Documentation <https://www.goodreads.com/book/show/6322901-managing-writers>`_, by Richard L. Hamilton - **Read in our book club**
 * `Modern Technical Writing <https://www.goodreads.com/book/show/28433138-modern-technical-writing>`_, by Andrew Etter
 * `Practical Strategies for Technical Communication <https://www.goodreads.com/book/show/15875185-practical-strategies-for-technical-communication>`_, by Mike Markel and Stuart Selber
 * `The Product is Docs <https://www.splunk.com/en_us/blog/splunklife/the-product-is-docs.html>`_, by Christopher Gales - **1st edition read in our book club**
 * `Wicked, Incomplete, and Uncertain: User Support in the Wild and the Role of Technical Communication <https://www.goodreads.com/book/show/37864792-wicked-incomplete-and-uncertain>`_, by Jason Swarts
+* `Software Technical Writing: A Guidebook <https://jamesg.blog/book.pdf>`_, by James Gallagher
+* `The Docs as Code Primer: A practical handbook <https://leanpub.com/thedocsascodeprimer>`_, by Gijs Reijn
 
 E-Learning
 -----------
@@ -53,7 +56,7 @@ The craft of writing
 * `Everybody writes, 2nd Edition <https://annhandley.com/everybodywrites/>`_, by Ann Handley
 * `First You Write a Sentence <https://www.penguinrandomhouse.com/books/607260/first-you-write-a-sentence-by-joe-moran/>`_, by Joe Moran
 * `The Gotham Grammarian <https://www.calamaripress.com/Gotham_Grammarian.htm>`_, by Garielle Lutz
-* `It Was the Best of Sentences, It Was the Worst of Sentences <https://www.penguinrandomhouse.com/books/198856/it-was-the-best-of-sentences-it-was-the-worst-of-sentences-by-june-casagrande/>`_ , by June Casagrande
+* `It Was the Best of Sentences, It Was the Worst of Sentences <https://www.penguinrandomhouse.com/books/198856/it-was-the-best-of-sentences-it-was-the-worst-of-sentences-by-june-casagrande/>`_ , by June Casagrande - **Read in our book club**
 * `Nicely Said <http://www.nicelysaid.co/>`_, by Nicole Fenton and Kate Kiefer Lee
 * `On Writing <https://stephenking.com/works/nonfiction/on-writing-a-memoir-of-the-craft.html>`_, by Stephen King
 * `On Writing Well <https://www.goodreads.com/book/show/53343.On_Writing_Well>`_, by William Zinsser

@@ -31,7 +31,7 @@ Paragraphs don't require any special markup in AsciiDoc. A paragraph is just one
 
 To begin a new paragraph, separate it by at least one blank line. Newlines within a paragraph are not displayed.
 
-Text Formatting
+Text formatting
 ~~~~~~~~~~~~~~~
 
 ::
@@ -50,7 +50,7 @@ Text Formatting
     
     monospace bold italic `*_constrained_*` & ``**__un__**``constrained
 
-Section Titles (Headings)
+Section titles (headings)
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Headers are created using equal signs followed by a space. The number of equal signs matches the heading level in the HTML output. For example, Section Level 1 becomes an <h2> heading:::
@@ -206,7 +206,7 @@ Inline::
 
     image:sunset.jpg[Sunset,150,150,role="right"] What a beautiful sunset!
 
-Source Code
+Source code
 ~~~~~~~~~~~
 
 Code block with title and syntax highlighting::
@@ -281,7 +281,7 @@ Admonitions can also encapsulate any block content::
     . Celery makes them sad.
     ====
 
-Table of Contents
+Table of contents
 ~~~~~~~~~~~~~~~~~
 
 Document with ToC::
@@ -298,7 +298,7 @@ Document with ToC positioned on the right::
     v1.0, 2014-08-01
     :toc: right
 
-Include Files
+Include files
 ~~~~~~~~~~~~~
 
 ::

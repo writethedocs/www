@@ -86,7 +86,7 @@ This month's newsletter is sponsored by `JetBrains <https://www.jetbrains.com/>`
         <tr>
           <td width="75%">
               <p>
-              "Following the discussion on tools in the last newsletter: JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools, who sponsored this year's Write The Docs Prague. They're running a survey about help authoring tools and markup languages that are popular among technical writers: <a class="reference external" href="https://surveys.jetbrains.com/s3/authoring-tools-nl">surveys.jetbrains.com/s3/authoring-tools-nl</a>. Please take a moment to share your experience, to help JetBrains get a bird’s eye view of the documentation developer ecosystem."
+              "Following the discussion on tools in the last newsletter: JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools, who sponsored this year's Write the Docs Prague. They're running a survey about help authoring tools and markup languages that are popular among technical writers: <a class="reference external" href="https://surveys.jetbrains.com/s3/authoring-tools-nl">surveys.jetbrains.com/s3/authoring-tools-nl</a>. Please take a moment to share your experience, to help JetBrains get a bird’s eye view of the documentation developer ecosystem."
               </p>
           </td>
           <td width="25%">

@@ -1,4 +1,4 @@
-Conquering Imposter Syndrome
+Conquering imposter syndrome
 ============================
 You are a technical writer. At some point in your career, you may face the notion that you are "just" a technical writer. That notion might originate from the perception of your more technical coworkers, or your own self-doubt. 
 

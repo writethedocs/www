@@ -26,7 +26,7 @@ and still has some lockers in the hallway for that extra learning ambiance.
 The venue has a large and beautiful primary theater,
 as well as many other social spaces:
 
-* The Assembly Lounge where we will be hosting our Unconference discussions
+* The Library & Astoria Room where we will be hosting our Unconference discussions
 * The Sunset Room which will be our Quiet room
 * The Library room where our snacks and drinks catering will happen
 
@@ -76,7 +76,7 @@ Stay Updated
 Want to find out what's happening with the conference, or enjoy our monthly global community newsletter?
 Sign up to one or more of our `mailing lists <http://eepurl.com/cdWqc5>`_. Your information will never be shared with any third-parties, and you can unsubscribe at any time.
 
-Want to connect with other documentarians in real-time? Join our `Slack <http://slack.writethedocs.org/>`_.
+Want to connect with other documentarians in real-time? Join our `Slack <https://writethedocs.org/slack/>`_.
 
 Thanks
 ------

@@ -217,6 +217,6 @@ Pro Tips
 
 - Conferences are exhilarating, but can also be exhausting. Give your brain a break! Grab a quiet spot or take a quick walk. Play a board game on your lunch break. Come back invigorated.
 
-- Find out who is attending the conference before you attend. Join the `Write the Docs Slack <http://slack.writethedocs.org/>`__, follow the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__, and review the `list of speakers <https://www.writethedocs.org/conf/portland/2020/speakers/>`__.
+- Find out who is attending the conference before you attend. Join the `Write the Docs Slack <https://writethedocs.org/slack/>`__, follow the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__, and review the `list of speakers <https://www.writethedocs.org/conf/portland/2020/speakers/>`__.
 
 - In case of technical issues with our main platform Hopin, please watch the #wtd-conference Slack channel for status updates and alternative viewing links that might be posted.

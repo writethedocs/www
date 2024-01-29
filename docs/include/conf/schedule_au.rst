@@ -25,7 +25,7 @@ All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
 
 {% if flaghasfood %}
 
-*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+*Morning tea, lunch, and afternoon tea will be provided.*
 
 {% endif %}
 
@@ -38,7 +38,7 @@ Conference Talks
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each set of 2 talks.
+Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each talk.
 
 .. separator to fix list formatting
 
@@ -56,10 +56,9 @@ Talks are around 30 minutes. Most speakers will have a live, moderated Q&A sessi
 Social Event
 ~~~~~~~~~~~~
 
-The official Write the Docs social!
-Further details will be announced later,
-but expect some music and games,
-and bring your favorite beverage to your computer :)
+The official Write the Docs social! Expect a relaxed atmosphere where you can chat and network with your fellow documentarians.
+
+Snacks and drinks (non-alcoholic & alcoholic) will be provided.
 
 * **Where**: {{ about.social_venue }}
 {% if not flaghasschedule %}
@@ -79,7 +78,7 @@ and bring your favorite beverage to your computer :)
 
 {% if flaghasfood %}
 
-*Breakfast and lunch will be provided, as well as snacks and drinks all day.*
+*Morning tea, lunch, and afternoon tea will be provided.*
 
 {% endif %}
 
@@ -92,7 +91,7 @@ Conference Talks
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each set of 2 talks.
+Talks are around 30 minutes. Most speakers will have a live, moderated Q&A session after each talk.
 
 .. separator to fix list formatting
 

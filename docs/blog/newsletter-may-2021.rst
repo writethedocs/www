@@ -93,7 +93,7 @@ So here are the new pages! Thank you to everybody who contributed discussion and
 What we’re reading and watching
 -------------------------------
 
-The #bipoc group’s been discussing the following materials on diversity, inclusion, and equity. Want to join the conversation? Please join us in the #bipoc slack channel!
+The #bipoc group’s been discussing the following materials on diversity, inclusion, and equity. Want to join the conversation? Please join us in the #bipoc Slack channel!
 
 For a short read, check out `this article in Good Housekeeping <https://www.goodhousekeeping.com/life/a35630674/how-to-support-asian-american-community-hate-crimes-violence/>`__ about why some Asians are having a hard time speaking out about the ongoing Anti-Asian hate crimes and how you can show support.
 

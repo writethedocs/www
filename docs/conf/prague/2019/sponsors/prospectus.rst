@@ -186,7 +186,7 @@ It is included in all sponsorship packages this year.
 
 - **Layout**: Every participant will have a table and two chairs reserved for them. Giveaways/flyers are welcome, please make sure everything fits on your table.
 
-Note that the `Code of Conduct </code-of-conduct/>`_ and :ref:`coc-sponsors` apply to the Job Fair as well as to the rest of the conference.
+Note that the `Code of Conduct </code-of-conduct/>`_ apply to the Job Fair as well as to the rest of the conference.
 
 Lanyard
 -------

@@ -73,7 +73,7 @@ For bulleted lists, use indentation to indicate the level of nesting of a bullet
       
       + even more nested bullet point
 
-Code Samples
+Code samples
 ~~~~~~~~~~~~~~~~~~~
 
 To display code samples, or any text that should not be formatted, end the paragraph prior to the code sample with two colons (``::``) and indent the code sample::

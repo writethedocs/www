@@ -2,8 +2,7 @@ region: North America
 country: USA
 state: California
 city: San Francisco
-page: ./sf-bay/
-website: https://www.meetup.com/Write-the-Docs-Bay-Area/
+website: https://www.meetup.com/write-the-docs-bay-area/events/
 meetup: Write-the-Docs
 organizer:
    - name: Ilona Koren-Deutsch

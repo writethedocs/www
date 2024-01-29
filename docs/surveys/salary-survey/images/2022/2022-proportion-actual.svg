@@ -1,0 +1,51 @@
+<svg height="100%" width="100%" viewBox="0 0 660 263" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/css/survey-2022-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+  <title>Portion of role actually documentation-related (2022)</title>
+  <desc>Vertical bar chart showinf proportion of respondents' day-to-day tasks that are actually related to documentation in 2022.</desc>
+
+	<g class="bar-chart">
+		<g class="x-axis">
+			<g class="axis-lines">
+				<path d="M66.5 198.5H650.5"/>
+				<path d="M66.5 141.5H650.5"/>
+				<path d="M66.5 85.5H650.5"/>
+				<path d="M66.5 28.5H650.5"/>
+			</g>
+			<g class="axis-values">
+				<text><tspan x="119.252" y="218.884">0-25%</tspan></text>
+				<text><tspan x="255.565" y="218.884">26%-50%</tspan></text>
+				<text><tspan x="403.514" y="218.884">51%-75%</tspan></text>
+				<text><tspan x="544.346" y="218.884">76%-100%</tspan></text>
+			</g>
+			<g class="axis-label">
+				<text transform="translate(232 242)"><tspan x="0.210938" y="11.464">Percentage of day-to-day tasks</tspan></text>
+			</g>    
+		</g>
+		<g class="y-axis">
+			<g class="axis-values">
+				<text><tspan x="47.9004" y="202.884">0</tspan></text>
+				<text><tspan x="33.2852" y="146.884">100</tspan></text>
+				<text><tspan x="31.4805" y="89.8843">200</tspan></text>
+				<text><tspan x="31.5762" y="32.8843">300</tspan></text>
+			</g>
+			<g class="axis-label">
+				<text transform="translate(10 177) rotate(-90)"><tspan x="0" y="11.5">Respondents</tspan></text>
+			</g>  
+		</g>
+		<g class="data">
+			<g class="seriesa">
+				<path d="M200.5 185H78.5V199H200.5V185Z"/>
+				<path d="M346.5 172H224.5V199H346.5V172Z"/>
+				<path d="M492.5 108H370.5V199H492.5V108Z"/>
+				<path d="M638.5 33H516.5V199H638.5V33Z"/>
+			</g>
+		</g>
+	</g>
+</svg>

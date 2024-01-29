@@ -69,11 +69,9 @@ This Code of Conduct applies to all spaces managed by Write the Docs. This inclu
 * forum.writethedocs.org
 * Any other forums created by the which the community uses for communication.
 
-The Code of Conduct does not exclusively apply to events on an official agenda. For example, if after a scheduled social event you go to a bar with a group of fellow participants, and someone harasses you there, we would still treat that as a CoC violation. Similarly, harassment in Twitter direct messages related to Write the Docs can still be covered under this Code of Conduct.
+The Code of Conduct does not exclusively apply to events on an official agenda. For example, if after a scheduled social event you go to a bar with a group of fellow participts, and someone harasses you there, we would still treat that as a CoC violation. Similarly, harassment in Twitter direct messages related to Write the Docs can still be covered under this Code of Conduct.
 
 In addition, violations of this code outside our spaces may affect a person's ability to participate in them.
-
-.. _coc-sponsors:
 
 Sponsors, affiliates, and exhibitors
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -105,8 +103,6 @@ What to do in case of violations
 
 If a Code of Conduct incident happens that affects you, or witness it affecting someone else, please contact the appropriate CoC team immediately. See the contact details below for the different teams for different spaces. In all cases, you may email conduct@writethedocs.org, but contacting local organisers may be faster. Email to the conduct@writethedocs.org is received by all members of the :ref:`core-team`.
 
-.. _coc-reporting:
-
 Guidelines for reporting incidents
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -119,7 +115,7 @@ In your report please include, when possible:
 * Your contact info (so we can get in touch with you)
 * Names or descriptions of anyone who was involved or who witnessed the incident.
 * When and where the incident occurred. Please be as specific as possible.
-* Your account of what occurred. If there is a written record (e.g. tweets or slack messages) please include screenshots, or otherwise a link.
+* Your account of what occurred. If there is a written record (e.g. tweets or Slack messages) please include screenshots, or otherwise a link.
 * Any extra context you believe existed for the incident.
 * If you believe this incident is ongoing.
 * Any other information you believe we should have.
@@ -149,7 +145,7 @@ If you believe anyone is in physical danger, please notify appropriate law enfor
 Reports about a Code of Conduct response team member
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If your report concerns a member of the Code of Conduct team of a conference, you can report the issue to any other team response member or any other organiser. For reports regarding meetup organisers, you can make the report to another meetup organiser, if there is one. If this is not possible, or for any reason you feel uncomfortable with this, you can also email conduct@writethedocs.org.
+If your report concerns a member of the Code of Conduct team of a conference, you can report the issue to any other response team member or any other organiser. For reports regarding meetup organisers, you can make the report to another meetup organiser, if there is one. If this is not possible, or for any reason you feel uncomfortable with this, you can also email conduct@writethedocs.org.
 
 If your report concerns a member of the :ref:`core-team`, which receives emails to conduct@writethedocs.org, you can report the issue individually to any of the other core team members.
 
@@ -158,8 +154,8 @@ Portland conference Code of Conduct Team
 
 .. include:: include/conf/coc/na-coc.rst
 
-Prague conference Code of Conduct Team
---------------------------------------
+Atlantic conference Code of Conduct Team
+----------------------------------------
 
 .. include:: include/conf/coc/eu-coc.rst
 
@@ -167,11 +163,6 @@ Australia Code-of-Conduct Team
 ------------------------------
 
 .. include:: include/conf/coc/au-coc.rst
-
-Vilnius Code-of-Conduct Team
-------------------------------
-
-.. include:: include/conf/coc/vilnius-coc.rst
 
 
 Thanks
