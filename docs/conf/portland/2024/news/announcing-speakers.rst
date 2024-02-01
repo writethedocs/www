@@ -1,4 +1,5 @@
 :template: {{year}}/generic.html
+:og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 .. post:: Feb 1, 2024
    :tags: {{shortcode}}-{{year}}, speakers, tickets, visiting, sponsors
