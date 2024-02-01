@@ -20,16 +20,16 @@ buttons:
   top:
     # - text: Date and ticket information
     #   link: /news/welcome/
-    - text: Sponsor us
-      link: /sponsors/prospectus
+    #- text: Sponsor us
+    #  link: /sponsors/prospectus
     # - text: Submit a Talk
     #   link: /cfp
     # - text: See the Schedule!
     #   link: /schedule
     - text: Buy a Ticket!
       link: /tickets
-    # - text: See the talks!
-    #   link: /speakers
+    - text: See the talks!
+      link: /speakers
     # - text: Attendee Guide
     #   link: /attendee-guide
     # - text: Watch the Live Stream
@@ -254,7 +254,7 @@ flaghassponsors: True
 flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
-flagspeakersannounced: False
+flagspeakersannounced: True
 flagrunofshow: False
 flaghasschedule: False
 flagscheduleincomplete: True
