@@ -409,13 +409,13 @@
     website: 
   abstract: '<p>In 2023, the DORA research program found that high-quality documentation
     leads to 25% higher team performance relative to low-quality documentation. This
-    is just one of a set of findings about documentation from our 2023 State of DevOps
-    Report.</p>
+    is just one of a set of findings about internal documentation from our 2023 State
+    of DevOps Report.</p>
 
-    <p>Our research program is industry-wide, and documentation is only one of the
-    constructs that we study and measure. This means that we have respondents with
-    varying degrees of contexts and documentation quality. We can also analyze the
-    impact of the different constructs on each other. For example, we can quantify
+    <p>Our research program is industry-wide, and internal documentation is only one
+    of the constructs that we study and measure. This means that we have respondents
+    with varying degrees of contexts and documentation quality. We can also analyze
+    the impact of the different constructs on each other. For example, we can quantify
     the impact of documentation quality on the implementation of security practices.</p>
 
     <p>In this talk, I will:</p>
@@ -430,7 +430,8 @@
     <li>Describe ways that you can communicate the value of quality documentation,
     and metrics that might be helpful in your own context.</li>
 
-    <li>Discuss how these findings apply to different types of documentation.</li>
+    <li>Discuss how these findings apply to different types of documentation, including
+    end-user documentation.</li>
 
     </ul>
 
