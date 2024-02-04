@@ -116,6 +116,7 @@ Including videos, diagrams, and screenshots.
 Writing topics
 --------------
 
+- |:newspaper:| `To Outline Or Not To Outline </blog/newsletter-february-2024/#to-outline-or-not-to-outline>`__
 - |:newspaper:| `Minimum viable documentation </blog/newsletter-november-2022/#minimum-viable-documentation>`__
 - |:newspaper:| `Toward a theory of technical writing? </blog/newsletter-july-2022/#toward-a-theory-of-technical-writing>`__
 - |:newspaper:| `Can form follow function in techdoc? </blog/newsletter-april-2022/#can-form-follow-function-in-techdoc>`__
@@ -131,6 +132,7 @@ Writing topics
 Task-based writing
 ~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `Task-Based Writing </blog/newsletter-february-2024/#task-based-writing>`__
 - |:movie_camera:| `Start with the tasks, not the endpoints </videos/na/2017/start-with-the-tasks-not-the-endpoints-sarah-hersh/>`__
 - |:movie_camera:| `Let’s Tell a Story: Scenario-Based Documentation </videos/na/2015/let-s-tell-a-story-scenario-based-documentation-mness/>`__
 - |:movie_camera:| `User-Story Driven Docs </videos/na/2015/user-story-driven-docs-jfernandes/>`__
@@ -477,6 +479,7 @@ User needs
 Doc tools
 ---------
 
+- |:newspaper:| `Structured Authoring and Large Language Models (LLMs) </blog/newsletter-february-2024/#structured-authoring-and-large-language-models-llms>`__
 - |:newspaper:| `Choosing a CCMS or a static site generator </blog/newsletter-june-2023/#choosing-a-ccms-or-a-static-site-generator>`__
 - |:movie_camera:| `Two years of Markdoc: what we’ve learned about balancing developer and author experience </videos/prague/2022/two-years-of-markdoc-what-we-ve-learned-about-balancing-developer-and-author-ex-ryan-paul/>`__
 - |:newspaper:| `Standards in documentation tooling </blog/newsletter-december-2021/#standards-in-documentation-tooling>`__
@@ -596,6 +599,7 @@ Gathering it and acting on it.
 Measuring docs success
 ~~~~~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `Measuring Docs Effect on User Experience </blog/newsletter-february-2024/#measuring-docs-effect-on-user-experience>`__
 - |:newspaper:| `Measuring productivity of docs teams </blog/newsletter-april-2023/#measuring-productivity-of-docs-teams>`__
 - |:movie_camera:| `Measuring Documentation Success in Open Source: Findings from Google’s Season of Docs Program </videos/portland/2022/measuring-documentation-success-in-open-source-findings-from-google-s-season-of-kassandra-dhillon/>`__
 - |:newspaper:| `Objectives and key results (OKRs) for documentation </blog/newsletter-march-2019/#objectives-and-key-results-okrs-for-documentation>`__
