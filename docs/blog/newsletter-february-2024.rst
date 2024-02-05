@@ -12,7 +12,7 @@ and supportive people to help get it done.
 A very big thank you to everyone who filled out the 2023 salary survey and those who spread the word:
 the final tally was a record 1,017 submissions -
 938 from employees and 79 from contractors, freelancers, and self-employed people.
-Processing is now underway, but a little teaser for now:
+Processing is underway, but a little teaser for now:
 One of the new questions asked how respondents felt about their job security compared to the same time the previous year.
 In a potentially positive sign, 
 54% said they felt the same level of job security, 31% said they felt more secure, and only 15% said they felt less secure.
@@ -105,7 +105,7 @@ To Outline Or Not To Outline
 ----------------------------
 
 In the dynamic world of technical writing,
-debate over whether or not to outline return perennially.
+debate over whether or not to outline returns perennially.
 The decision strikes a delicate balance between structure and adaptability,
 catering to the specific demands of the document, the audience, and the ever-evolving nature of technology.
 
@@ -152,7 +152,7 @@ and how to use them to demonstrate business value.
 If you have an analytics tool for your product, it can help to use the same tool for your docs.
 This works even better if people can log in to your docs
 so you can connect reading the documentation to actions in your product.
-You want to about a user's journey through your entire product, including the documentation as part of that.
+You want to learn about a user's journey through your entire product, including the documentation as part of that.
 Fabrizio Ferri wrote a post describing this combined approach as `docs observability <https://passo.uno/docs-observability-do11y/>`__.
 
 In the end, the conclusion might be to look at what a successful user of your docs might do
