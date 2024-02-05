@@ -104,7 +104,31 @@ Janet Revell gave a `presentation <https://www.youtube.com/watch?v=N8QSq9mDjFw>`
 To Outline Or Not To Outline
 ----------------------------
 
-CONTENT.
+In the dynamic world of technical writing,
+debate over whether or not to outline returns perennially.
+The decision strikes a delicate balance between structure and adaptability,
+Catering to the specific demands of the document, the audience, and the ever-evolving nature of technology.
+
+For many documentarians,
+outlining is akin to constructing a sturdy framework for a complex edifice.
+An outline serves as the architectural blueprint,
+offering a systematic guide through intricate procedures and multifaceted software functionalities.
+This structured approach is particularly useful when dealing with comprehensive manuals or documentation of complicated processes.
+It provides a roadmap that ensures clarity, coherence, and completeness in conveying technical information.
+When working with large documentation sets,
+outlining can help maintain coherence.
+
+In contrast, a decision for spontaneity in technical writing,
+sometimes called “pantsing” (writing by the seat of one’s pants),
+may be more common in Agile environments.
+A rigid outline could be seen as stiffling creativity and responsiveness
+in scenarios where changes are frequent and adaptability is paramount.
+Pantsing allows writers to dive into documentation without the constraints of a predefined structure,
+fostering an environment where innovation can flourish.
+This approach aligns well with the iterative and collaborative nature of Agile methodologies.
+Similarly, quick-reference materials may benefit from a more spontaneous, adaptable approach.
+
+Some documentarians opt for a middle-ground in navigating this decision-making process. They may start with a loose structure, allowing room for spontaneity, and iteratively refine the outline as the document evolves. This adaptive approach acknowledges the nuanced demands of technical writing, ensuring that both clarity and creativity are seamlessly interwoven in the fabric of effective documentation.
 
 ----------------------------------------
 Measuring Docs Effect on User Experience
