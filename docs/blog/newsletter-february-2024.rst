@@ -14,7 +14,7 @@ the final tally was a record 1,017 submissions -
 938 from employees and 79 from contractors, freelancers, and self-employed people.
 Processing is now underway, but a little teaser for now:
 One of the new questions asked how respondents felt about their job security compared to the same time the previous year.
-In a potentially positive sign for the job market, 
+In a potentially positive sign, 
 54% said they felt the same level of job security, 31% said they felt more secure, and only 15% said they felt less secure.
 We're on track to publish the full results towards the end of March.
 
