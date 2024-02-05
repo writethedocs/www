@@ -79,7 +79,7 @@ Benefits
 ^^^^^^^^
 
 - Five (5) tickets_, with additional available to purchase at a discounted rate of $500/ticket.
-- Most visible **sponsorship booth** location.
+- Most visible **sponsorship booth** for the entire conference (Monday & Tuesday).
 - Sponsorship of a primary Write the Docs conference event (Unconference, Writing Day). Logo on print material.
 - Large logo included in intermission slides and on talk videos.
 - Logo and long description (500 characters) on the conference website.
@@ -101,7 +101,7 @@ Benefits
 ^^^^^^^^
 
 - Five (5) tickets_, with additional available to purchase at a discounted rate of $500/ticket.
-- A **sponsorship booth** for the entire conference.
+- A **sponsorship booth** for the entire conference (Monday & Tuesday).
 - Logo included in intermission slides and on talk videos.
 - Logo and description (250 characters) on the conference website.
 - Logo in conference email promotion.
