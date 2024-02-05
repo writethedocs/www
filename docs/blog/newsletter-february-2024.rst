@@ -105,9 +105,9 @@ To Outline Or Not To Outline
 ----------------------------
 
 In the dynamic world of technical writing,
-debate over whether or not to outline returns perennially.
+debate over whether or not to outline return perennially.
 The decision strikes a delicate balance between structure and adaptability,
-Catering to the specific demands of the document, the audience, and the ever-evolving nature of technology.
+catering to the specific demands of the document, the audience, and the ever-evolving nature of technology.
 
 For many documentarians,
 outlining is akin to constructing a sturdy framework for a complex edifice.
