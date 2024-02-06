@@ -127,7 +127,7 @@ Pantsing allows writers to dive into documentation without the constraints of a 
 fostering an environment where innovation can flourish.
 Similarly, quick-reference materials may benefit from a more spontaneous, adaptable approach.
 
-Other documentarians perfer beginning without an outline
+Other documentarians prefer beginning without an outline
 because it gives them flexibility later in the process.
 They add what information they have at the start,
 feeling comfortable that they can always reorganize later
