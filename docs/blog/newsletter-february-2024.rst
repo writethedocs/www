@@ -24,7 +24,7 @@ check out the `recap including links to videos </conf/australia/2023/news/thanks
 Looking forward, the Portland conference is coming up in April.
 See the `list of speakers </conf/portland/2024/news/announcing-speakers/>`__ and grab a ticket.
 
-We've got articles this month on structing content for LLMs, task-based documentation,
+We've got articles this month on structuring content for LLMs, task-based documentation,
 whether to outline before writing, and docs observability.
 It's all possible thanks to our contributors, Alia Michaels, Hillary Fraley, and Royce Cook.
 If you're interested in contributing yourself, whether regularly or just as a one-time special guest,
@@ -51,7 +51,7 @@ and indicate how much they already know to help control the results they receive
 
 Another possibility is that some large language models (LLMs) could use a body of text that includes many types of information
 and return responses based on words that the model expects should follow each other.
-In this model, LLMs would not operate like search engines that respect metadata like tags.
+In this model, LLMs would not operate like search engines that respect metadata such as tags.
 
 Still, responses from AI tools might be improved by the additional context that metadata provides.
 For example, the Copilot for Docs project seems to have been tuned to return responses only from a repository's documentation.
@@ -92,7 +92,7 @@ possibly due to not knowing best practices such as focusing on the audience.
 
 But what happens when documentarians see feature-based documentation
 and know that a task-focused strategy would be better for the company’s customers?
-Management may determine that there’s a need to ‘upgrade’ from feature-based documentation but not know how to proceed.
+Management may determine that there’s a need to "upgrade" from feature-based documentation but not know how to proceed.
 One person used an incremental approach by learning the software, developing use cases, and gradually rewriting the feature-based content.
 This worked because management could see the improvements in the documentation and their appeal to customers. 
 
