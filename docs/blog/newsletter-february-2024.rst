@@ -9,8 +9,8 @@ Cheerio, documentarians.
 I hope your year is off to a good start, full of interesting challenges to document
 and supportive people to help get it done.
 
-A very big thank you to everyone who filled out the 2023 salary survey and those who spread the word:
-the final tally was a record 1,017 submissions -
+A very big thank you to everyone who filled out the 2023 salary survey and those who spread the word.
+The final tally was a record 1,017 submissions:
 938 from employees and 79 from contractors, freelancers, and self-employed people.
 Processing is underway, but a little teaser for now:
 One of the new questions asked how respondents felt about their job security compared to the same time the previous year.
@@ -38,8 +38,8 @@ Structured Authoring and Large Language Models (LLMs)
 This month, the `Copilot for Docs <https://githubnext.com/projects/copilot-for-docs>`_ project inspired a discussion
 about how AI will affect structured authoring.
 As users increasingly rely on AI tools to interact with documentation,
-they will be able use targeted searches to retrieve the specific information they need.
-How will this shift change the way we think about organizing information for users?
+they could be able to use targeted searches to retrieve the specific information they need.
+How might this shift change the way we think about organizing information for users?
 Will documentarians begin to use structured authoring specifically for AI?
 
 Metadata that categorizes documents by purpose and structure may be important
@@ -49,16 +49,16 @@ and "Why does..." probably means the user wants an explanation.
 In the Copilot for Docs project, users could specify their desired level of detail
 and indicate how much they already know to help control the results they received.
 
-Another possibility is that some large language models (LLMs) will use a body of text that includes many types of information
+Another possibility is that some large language models (LLMs) could use a body of text that includes many types of information
 and return responses based on words that the model expects should follow each other.
 In this model, LLMs would not operate like search engines that respect metadata like tags.
 
-Still, responses from AI tools can be improved by the additional context that metadata provides.
+Still, responses from AI tools might be improved by the additional context that metadata provides.
 For example, the Copilot for Docs project seems to have been tuned to return responses only from a repository's documentation.
 A/B testing may be useful to determine whether and how metadata affects AI tool responses.
 
 Some documentarians have already found that headings, chapters in transcripts, and topic size are important to response quality.
-Perhaps instead of metadata, documentarians will focus more on standardizing terminology,
+Perhaps instead of metadata, documentarians may focus more on standardizing terminology,
 intentionally organizing content to help improve AI tool responses,
 defining guardrails and rules, and manually reviewing the results and fixing gaps.
 For more thoughts about technical documentation and AI tools, read `Why chatbots are not the future <https://wattenberger.com/thoughts/boo-chatbots>`__ by Amelia Wattenberger.
@@ -120,13 +120,19 @@ outlining can help maintain coherence.
 
 In contrast, a decision for spontaneity in technical writing,
 sometimes called “pantsing” (writing by the seat of one’s pants),
-may be more common in Agile environments.
-A rigid outline could be seen as stiffling creativity and responsiveness
+may be more common in continuous-development environments.
+A rigid outline could be seen as stifling creativity and responsiveness
 in scenarios where changes are frequent and adaptability is paramount.
 Pantsing allows writers to dive into documentation without the constraints of a predefined structure,
 fostering an environment where innovation can flourish.
-This approach aligns well with the iterative and collaborative nature of Agile methodologies.
 Similarly, quick-reference materials may benefit from a more spontaneous, adaptable approach.
+
+Other documentarians perfer beginning without an outline
+because it gives them flexibility later in the process.
+They add what information they have at the start,
+feeling comfortable that they can always reorganize later
+once they have more information.
+They are hesitant to put in an outline without knowing how much content there will be.
 
 Some documentarians opt for a middle-ground in navigating this decision-making process. They may start with a loose structure, allowing room for spontaneity, and iteratively refine the outline as the document evolves. This adaptive approach acknowledges the nuanced demands of technical writing, ensuring that both clarity and creativity are seamlessly interwoven in the fabric of effective documentation.
 
@@ -142,7 +148,7 @@ The discussion in the `#analytics channel <https://writethedocs.slack.com/archiv
 Some ideas included correlating docs with support tickets,
 such as how many tickets are created after reading a document
 or how quickly tickets with links to documentation are resolved vs. those without.
-If you're interested in contributing to the marketing funnel,
+If you're interested in how your docs contribute to getting new customers,
 people also suggested looking at how many customers signed up after reading the docs as compared to the standard conversion rate.
 One contributor cautioned to make sure to track support for existing customers as well,
 such as how much of the docs traffic comes from signed-in users.
