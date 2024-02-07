@@ -186,6 +186,9 @@ sponsors:
     - name: jetbrains
       link: https://www.jetbrains.com/?ref=writethedocs
       brand: JetBrains
+    - name: zoomin
+      link: https://www.zoominsoftware.com/?vert=Write_The_Docs_Portland&utm_medium=referral&utm_source=WriteTheDocs&utm_campaign=Write_The_Docs_Portland
+      brand: Zoomin
   publisher:
     # - name: redocly
     #   link: https://redoc.ly/
