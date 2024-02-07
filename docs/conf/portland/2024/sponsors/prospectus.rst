@@ -151,7 +151,7 @@ combined with one of the previous packages to increase visibility at the event.
 Lightning Talks
 ---------------
 
-**3,500** - **Limit 2**
+**$3,500** - **Limit 2**
 
 Sponsor one day of Lightning Talks, where attendees have 5 minutes to share something they are excited about working on.
 This dynamic part of the conference is on the main stage,
