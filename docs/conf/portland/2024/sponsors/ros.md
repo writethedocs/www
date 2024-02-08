@@ -13,6 +13,8 @@ The Run of Show will be published closer to the event.
 
 ## Sponsor schedule
 
+Below is a schedule overview. The full schedule, including break times will be published soon.
+
 **SUNDAY**:
 
 * 8:00am: Doors open
