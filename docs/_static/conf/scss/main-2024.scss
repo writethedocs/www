@@ -653,6 +653,12 @@ body .uk-offcanvas-slide a.uk-button-ghost {
     }
 }
 
+body .uk-open {
+    .uk-nav-sub li {
+        display: block;
+    }
+}
+
 .sponsors-footer {
     padding: 48px 24px;
     display: flex;
