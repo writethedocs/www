@@ -48,6 +48,6 @@ Thank you
 
 Thanks again to the team leads that participate in the community board, and to all the team members (mostly volunteers!) who work diligently to support the community and each other. If you want to join any of the WTD community teams, check out the `Team page <https://www.writethedocs.org/team/>`_ for team descriptions and contacts. 
 
-See you next year for the first quarterly update of 2024!
+See you in the next update, and wishing everyone a joyous and productive 2024!
 
 Mikey and the community board
