@@ -3,13 +3,15 @@ template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
-# Sponsor Information 
-
-## Run of Show
+# Sponsor Information
 
 {% if not flagrunofshow %}
 
-Below is a brief version of the Run of Show. The full Run of Show will be published in March.
+The Run of Show will be published closer to the event.
+
+{% else %}
+
+## Sponsor schedule
 
 **SUNDAY**:
 
@@ -33,11 +35,9 @@ Below is a brief version of the Run of Show. The full Run of Show will be publis
 * 9:00am-5:00pm: Speaker Talks and Unconference
 * 5:00pm: Conference wraps
 
-{% else %}
-
 Please let us know if there is any information missing that would be useful for you.
 
-## Sponsorship schedule
+## Sponsorship overview
 
 -   **SUNDAY**: The first day of the conference is Writing Day and is typically attended by one third of our attendees. We encourage you to lead a Writing Day table if you have ways for our attendees to engage with your product or contribute to your documentation.  Our Welcome Reception is in the evening and we see a flux of attendees come through for this. **There are no sponsor booths this day.
 -   **MONDAY**: Doors open at 8am and our remaining attendees check in early in the morning for the main conference. Speaker talks and the unconference begin at the same time. The unconference generally has higher attendance in the afternoon. Full conference booth sponsors have a booth for the full day. 
@@ -45,7 +45,7 @@ Please let us know if there is any information missing that would be useful for 
 
 **The most important times to be present are during the coffee breaks and start of lunch break**, since this is the time that all attendees are in the sponsor area. There are breaks between each talk where attendees can engage with sponsors as well.
 
-See the `full schedule </conf/{{ shortcode }}/{{ year }}/schedule>`{.interpreted-text role="doc"} for exact timing details.
+See the [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) for exact timing details.
 
 ## Sponsorship spaces
 
