@@ -653,7 +653,7 @@ body .uk-offcanvas-slide a.uk-button-ghost {
     }
 }
 
-body .uk-open {
+body.uk-offcanvas-container .uk-offcanvas.uk-open {
     .uk-nav-sub li {
         display: block;
     }
