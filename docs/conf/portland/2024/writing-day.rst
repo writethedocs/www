@@ -97,7 +97,7 @@ Call for Project Submissions
 
 Based on the positive response to Writing Day during Portland 2023, we strongly recommend that you `submit your Writing Day project in advance <https://forms.gle/ahSBu79ATFtjUzJh8>`__! **Projects submitted by March 28, 2024 are promoted in our pre-conference Writing Day blog post and email.**
 
-Learn more in our `Call for Project Announcement <https://www.writethedocs.org/conf/portland/{{year}}/call-for-projects-writing-day>`_.
+Learn more in our `Call for Project Announcement <https://www.writethedocs.org/conf/portland/{{year}}/news/call-for-projects-writing-day>`_.
 
 As usual, walk-on projects are always welcome. All attendees always have the option to bring a project, sign up on site, and announce it during Writing Day.
 
