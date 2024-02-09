@@ -48,7 +48,7 @@ methods, such as Slack, Discord, etc.
   * Onboard documentation enthusiasts to increase the likelihood of post-conference contributions
   * Strategically tackle documentation tickets and requests
   * Update existing documentation
-  * Peer review new and exisiting documentation
+  * Peer review new and existing documentation
 
   Conference Benefits:
 
