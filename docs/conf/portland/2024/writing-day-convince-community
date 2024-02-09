@@ -1,0 +1,68 @@
+:template: {{year}}/generic.html
+:og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
+
+
+Convince Your Comnmunity - Bring Your Project to Writing Day
+============================================================
+
+Do you need help justifying why your community or employer should attend Write the Docs 
+and bring their project to Writing Day? 
+
+Don't worry – you're not alone. Based on the experiences of some of our previous attendees, 
+we've put together a sample email and list of resources below.
+
+Feel free to adapt and share with your community or employer to show them the many benefits of attending!
+
+Sample email
+-------------
+
+Remember to change the things in `[brackets]`! You can edit this to work in more casual communication mediums, such as Slack, Discord, etc.
+
+----
+
+  FROM: [your name]
+
+  TO: [your employer or community lead's name]
+
+  SUBJECT: Docs hackathon: Documentation Community Conference
+
+  I'd like to attend Write the Docs {{city}}, which takes place {{ date.main }}. This three-day event explores the art and science of documentation, and covers a diverse range of topics related to documentation in the software industry. I am particularly interested in Writing Day, I believe this event can positively impact our project and community.
+  
+  Writing Day is a community event modeled after the concept of “code sprints” or “hackathons”, which are common in open-source conferences. The idea is to get a bunch of people together and have them work towards a shared goal, in this case the goal is creating or improving documentation or other related projects.
+
+  Costs:
+
+  * Conference ticket - {{tickets.corporate.price}}
+
+  Writing Day Benefits:
+
+  * Introduce our project and community to a new audience and demographic in our industry
+  * Get highlighted as a project in the conference blog and announcements - submit online by March 28, 2024
+  * Onboard documentation enthusiasts to increase the likelihood of post-conference contributions
+  * Strategically tackle documentation tickets and requests
+  * Update existing documentation
+  * Peer review new and exisiting documentation
+
+  Conference Benefits:
+
+  * Exposure to the latest ideas, techniques, and tools for software docs
+  * Opportunity to learn from the best doc teams in the industry
+  * Building professional connections with other documentarians
+
+Bringing our project to Writing Day benefits us as a community. It gives us the opportunity to increases our documentation standards and practices and create a more inclusive project.
+
+  Thanks in advance,
+  [your name]
+
+----
+
+Resources
+---------
+
+When discussing how to pitch Writing Day, a few generally helpful tips emerged:
+
+* Highlight a few specific projects that attended previous Writing Days. 
+* If your community is looking for regularly documentation contributions, Writing Day is a great place to onboard potential contributors to onboard documentarians, 
+* Don't forget that one of the benefits to your attendance is that it raises the visibility of your community and/or company in the Write the Docs community. If your project wants a reputation for caring about their docs, having people at Write the Docs is a great way to do that.
+
+In addition, it can be useful to share some info about previous conferences. View the `main page overview </conf/{{shortcode}}/{{year}}/#schedule-overview>`_ explaining what is Write the Docs, history and schedule overview.
