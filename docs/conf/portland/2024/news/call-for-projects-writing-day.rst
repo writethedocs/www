@@ -45,8 +45,7 @@ Writing Day Resources
 You don't have to be a developer advocate, community manager, or project lead - though you're all 
 welcome. Anyone with enthusiasm for their project and community is welcome to bring it to Writing Day!
 
-If you’re excited about Writing Day and want to lead a project but not sure where to begin, we have
- `tips and tricks for project leaders <https://www.writethedocs.org/conf/portland/{{year}}/writing-day/#lead-a-project>`_ to help maximize your experience. 
+If you’re excited about Writing Day and want to lead a project but not sure where to begin, we have `tips and tricks for project leaders <https://www.writethedocs.org/conf/portland/{{year}}/writing-day/#lead-a-project>`_ to help maximize your experience. 
 
 If you need additional information to advocate for Writing Day in your community, or help persuading 
 your corporate benefactors on the benefits of attending Writing Day, see the `Convince Your Community - Bring Your Project to Writing Day <https://www.writethedocs.org/conf/portland/{{year}}/writing-day-convince-community>`_ resource.
