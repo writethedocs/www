@@ -43,7 +43,7 @@ Writing Day is an all day event that is designed with flexibility in mind. Feel 
 
 -  Morning Introduction: The coordinator welcomes everyone and gives a Writing Day overview.
 -  Project announcements: Project leads are invited to give a 2 minute project summary.
--  Session 1: Projects and co-working begins
+-  Session 1: Projects and co-working begins.
 -  Lunch Break
 -  Project announcements: Project leads are invited to give a 2 minute project summary, starting with the afternoon-only projects.
 -  Session 2: Projects and co-working reconvene.
@@ -92,12 +92,14 @@ Check out the project list! Keep in mind that some attendees choose to announce 
 -  **Check out our guide to writing documentation.** Our `beginners guide <https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/>`_ will help you get started, and give you some ideas for how you can contribute to a project.
 -  **Ask people for help if you have a question.** If at any time you get stuck with new concepts and tools, you are in a room full of friendly people from diverse backgrounds and experiences.  If you are not sure who to ask, ask the Welcome Wagon or Registration staff or volunteers. We will help you find someone!
 
-Submit Your Project
--------------------
+Call for Project Submissions
+----------------------------
 
-We encourage you to submit a Writing Day project in advance! We'll open project submissions in February/March. **Projects submitted by April 5 are promoted in our pre-conference Writing Day blog post and email.**
+Based on the positive response to Writing Day during Portland 2023, we strongly recommend that you `submit your Writing Day project in advance <https://forms.gle/ahSBu79ATFtjUzJh8>`__! **Projects submitted by March 28, 2024 are promoted in our pre-conference Writing Day blog post and email.**
 
-Walk-on projects are always welcome. You always have the option to bring your project, sign up on site, and announce it during Writing Day.
+Learn more in our `Call for Project Announcement <https://www.writethedocs.org/conf/portland/{{year}}/call-for-projects-writing-day>`_.
+
+As usual, walk-on projects are always welcome. All attendees always have the option to bring a project, sign up on site, and announce it during Writing Day.
 
 Project List
 ------------
