@@ -78,7 +78,7 @@ Attendees are always looking for great products to use in their day to day workf
 -   Full conference booths: setup is Monday at 7:30am.
 -   Half day booths: setup is Tuesday at 7:30am.
 
-### Lightning Talks
+### Lightning talks
 
 If your sponsorship includes a lightning talk, you will be given a 5 minute slot to present to the entire conference. This is a great way to introduce your company to the entire audience.
 
@@ -88,7 +88,7 @@ If your sponsorship includes a lightning talk, you will be given a 5 minute slot
 
 Writing Day is on Sunday and modeled after the concept of “sprints”. This is a place where the community gathers to get actual work done. We encourage you to lead a Writing Day table if you have ways for our attendees to engage with your product or contribute to your documentation.
 
-If you want to participate in the Writing Day, we encourage you to read Lead a Project.
+If you want to participate in the Writing Day, we encourage you to read [Lead a Project](https://www.writethedocs.org/conf/portland/2024/writing-day/#lead-a-project).
 
 **Logistics**: We will post a form for attendees (including you!) to submit their Writing Day Projects. Remember, you are always welcome to introduce your project to attendees on the day of, Sunday morning, during the Writing Day Introduction.
 
@@ -114,7 +114,7 @@ You should have received a unique URL with a discount code for your sponsorship 
 You can post your jobs to our [job board](https://jobs.writethedocs.org/).
 You will be given a discount code that will let you post them for free,
 please ask us for this if you don\'t have it!
-They will be published in our `Newsletter </newsletter>`{.interpreted-text role="doc"} every month,
+They will be published in our [newsletter](/newsletter/) every month,
 and displayed on our website as well.
 
 ### What does the conference provide for my booth setup?
