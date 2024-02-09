@@ -652,13 +652,6 @@ body .uk-offcanvas-slide a.uk-button-ghost {
 
     }
 }
-
-body.uk-offcanvas-container .uk-offcanvas.uk-open {
-    .uk-nav-sub li {
-        display: block;
-    }
-}
-
 .sponsors-footer {
     padding: 48px 24px;
     display: flex;
@@ -1341,6 +1334,9 @@ body .uk-button-default, body .uk-button-secondary:hover {
 body .uk-navbar-dropdown-nav>li>a:focus, body .uk-navbar-dropdown-nav>li>a:hover {
     color: $main-color !important;
 }
+
+// ugly addition to stop mobile sub-menu items from displaying inline 
+.hero #offcanvas-nav.uk-open ul li ul li{display:block}
 
 // 2. Import default variables and available mixins.
 @import "variables-theme.scss";
