@@ -216,7 +216,7 @@ body .page-content {
                 color: #333333;
             }
 
-            a.headerlink {}
+            // a.headerlink {}
          }
 
          h2, p {
@@ -1363,5 +1363,8 @@ pre {
   white-space: pre-wrap;
 }
 
-// ugly addition to stop mobile sub-menu items from displaying inline 
-.hero .uk-offcanvas.uk-offcanvas-overlay.uk-open ul li .uk-nav-sub li{display:block}
+//@import "2024-override.css";
+
+.hero #offcanvas-nav.uk-open ul li .uk-nav-sub li {
+    display:block;
+}
