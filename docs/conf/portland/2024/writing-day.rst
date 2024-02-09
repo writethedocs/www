@@ -20,7 +20,7 @@ Attendees are invited to submit their project pre-conference! It's a great way t
 - Project leads: Attendees bringing ideas, content, or OSS projects to work on with contributors.
 - Contributors: Attendees looking to contribute to various content projects.
 
-**Here are some examples of projects that you might see at the conference:**
+**Here are examples of projects that you might see at the conference:**
 
 -  Open-source software documentation
 -  General documentation writing
@@ -32,7 +32,7 @@ Attendees are invited to submit their project pre-conference! It's a great way t
 -  Love letters
 -  The Documentarian Manifesto
 
-`View 2023 Project List for ideas! <https://www.writethedocs.org/conf/portland/2023/writing-day/#project-listing>`_
+If you find specific examples helpful, check out the `Portland Writing Day 2023 project list <https://www.writethedocs.org/conf/portland/2023/writing-day/#project-listing>`_.
 
 Writing Day Schedule 
 --------------------
@@ -95,7 +95,7 @@ Check out the project list! Keep in mind that some attendees choose to announce 
 Call for Project Submissions
 ----------------------------
 
-Based on the positive response to Writing Day during Portland 2023, we strongly recommend that you `submit your Writing Day project in advance <https://forms.gle/ahSBu79ATFtjUzJh8>`__! **Projects submitted by March 28, 2024 are promoted in our pre-conference Writing Day blog post and email.**
+Based on the positive response to Writing Day during Portland 2023, we strongly recommend that you `submit your Writing Day project in advance <https://forms.gle/5WPN8MGCKzKqZBWU6>`__! **Projects submitted by March 28, 2024 are promoted in our pre-conference Writing Day blog post and email.**
 
 Learn more in our `Call for Project Announcement <https://www.writethedocs.org/conf/portland/{{year}}/news/call-for-projects-writing-day>`_.
 

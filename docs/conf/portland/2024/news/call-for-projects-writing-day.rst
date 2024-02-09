@@ -8,9 +8,9 @@ Announcing the Writing Day Call for Projects
 ============================================
 
 Hey folks! We were so thrilled with your response to Writing Day last year that we are launching 
-a `Call for Projects <https://forms.gle/ahSBu79ATFtjUzJh8>`_ form!
+a `Call for Projects submission form<https://forms.gle/5WPN8MGCKzKqZBWU6>`_!
 
-For projects that submit by March 28, 2024, we have plans to highlight your information in our 
+For projects submitted by March 28, 2024, we have plans to highlight your information in our 
 pre-conference social media. We learned last year that projects that submit their information 
 pre-conference have higher attendance. In fact, perusing project details encourages documentarians 
 to join us earlier, stay longer, and check out multiple projects.
@@ -34,7 +34,7 @@ the docs, your open source project docs.
 
 We are looking for community/OSS projects for our in-person Writing Day at the Portland conference on April 14.
 
-The `Call for Proposals <https://forms.gle/ahSBu79ATFtjUzJh8>`_ is open until *11:59 PM, March 28, 2024 PST*.
+The `Call for Proposals submission form <https://forms.gle/5WPN8MGCKzKqZBWU6>`_ is open until *11:59 PM, March 28, 2024 PST*.
 
 (If you’d prefer not to attend an in-person event due to COVID-19 or any other reason, keep an eye out for our 
 Atlantic conference held online in a timezone as widely accessible as possible).
