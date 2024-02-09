@@ -1335,9 +1335,6 @@ body .uk-navbar-dropdown-nav>li>a:focus, body .uk-navbar-dropdown-nav>li>a:hover
     color: $main-color !important;
 }
 
-// ugly addition to stop mobile sub-menu items from displaying inline 
-.hero #offcanvas-nav.uk-open ul li ul li{display:block}
-
 // 2. Import default variables and available mixins.
 @import "variables-theme.scss";
 @import "mixins-theme.scss";
@@ -1365,3 +1362,6 @@ body .uk-navbar-dropdown-nav>li>a:focus, body .uk-navbar-dropdown-nav>li>a:hover
 pre {
   white-space: pre-wrap;
 }
+
+// ugly addition to stop mobile sub-menu items from displaying inline 
+.hero #offcanvas-nav.uk-open ul li ul li{display:block}
