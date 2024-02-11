@@ -10,10 +10,7 @@ Announcing the Writing Day Call for Projects
 Hey folks! We were so thrilled with your response to Writing Day last year that we are launching 
 a `Call for Projects submission form <https://forms.gle/5WPN8MGCKzKqZBWU6>`_!
 
-For projects submitted by March 28, 2024, we have plans to highlight your information in our 
-pre-conference social media. We learned last year that projects that submit their information 
-pre-conference have higher attendance. In fact, perusing project details encourages documentarians 
-to join us earlier, stay longer, and check out multiple projects.
+For projects submitted by March 28, 2024, we'll highlight your project on our social media, as we learned last year that projects that submit their information before the conference have higher attendance. In fact, perusing project details encourages documentarians to join us earlier, stay longer, and check out multiple projects.
 
 Our attendees are curious and want to know about you, your project, and your community - so 
 let's give the people what they want!
