@@ -101,6 +101,8 @@ Learn more in our `Call for Project Announcement <https://www.writethedocs.org/c
 
 As usual, walk-on projects are always welcome. All attendees always have the option to bring a project, sign up on site, and announce it during Writing Day.
 
+If you need additional information to advocate for Writing Day in your community or organization, see the `Convince Your Community <https://www.writethedocs.org/conf/portland/{{year}}/convince-day-manager/#convince-your-community>`_ resource.
+
 Project List
 ------------
 
