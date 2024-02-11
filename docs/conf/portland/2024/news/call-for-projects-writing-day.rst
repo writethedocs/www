@@ -37,7 +37,7 @@ We are looking for community/OSS projects for our in-person Writing Day at the P
 The `Call for Proposals submission form <https://forms.gle/5WPN8MGCKzKqZBWU6>`_ is open until *11:59 PM, March 28, 2024 PST*.
 
 (If you’d prefer not to attend an in-person event due to COVID-19 or any other reason, keep an eye out for our 
-Atlantic conference held online in a timezone as widely accessible as possible).
+Atlantic conference held online in timezone selected for accessibilty.
 
 Writing Day Resources
 ^^^^^^^^^^^^^^^^^^^^^
