@@ -19,8 +19,8 @@ photos:
 
 buttons:
   top:
-    - text: Welcome to our conference
-      link: /news/welcome
+    #- text: Welcome to our conference
+    #  link: /news/welcome
     # - text: Date and ticket information
     #   link: /news/announcing-virtual-conf-dates-tickets
     #- text: Read our conference guide
@@ -31,8 +31,8 @@ buttons:
     # link: /tickets
     - text: Sponsor us
       link: /sponsors/prospectus
-    #- text: Submit a Talk
-    #  link: /cfp
+    - text: Submit a Talk
+      link: /cfp
     #- text: See the talks!
     #  link: /speakers
     #- text: See the Schedule!
@@ -44,8 +44,8 @@ buttons:
     #- text: Watch the videos!
     #  link_absolute: https://youtube.com/playlist?list=PLZAeFn6dfHplddJfvbke1bpUzZGozb2Yj&si=AOwsHHgwGEXqbUm0
   bottom:
-     - text: Welcome to our conference
-       link: /news/welcome
+    # - text: Welcome to our conference
+    #   link: /news/welcome
     #- text: See the Schedule!
     #  link: /schedule
      - text: Sponsor the conference
@@ -146,12 +146,12 @@ about:
   job_fair_room: "Sponsor area"
 
 cfp:
-#  url: https://pretalx.com/wtd-atlantic-2024/cfp
-#  ends: "May 15, 2023"             # 2 weeks to review and get confirmation (Portland ends May 09)
-#  notification: "June 01, 2023"     # 5 weeks to write and record
-#  video_by: "August 15, 2023"       # 3 weeks before the conf
-#  slides_by: "September 01, 2023"      # 2 weeks before the conf
-#  preview: "https://writethedocs-www--1982.org.readthedocs.build/conf/atlantic/2023/schedule/"
+  url: https://pretalx.com/wtd-atlantic-2024/cfp
+  ends: "May 15, 2023"               # 2 weeks to review and get confirmation (Portland ends May 09)
+  notification: "June 01, 2023"      # 11 weeks to write and record
+  video_by: "August 23, 2023"        # 3 weeks before the conf
+  slides_by: "September 06, 2023"    # 2 weeks before the conf
+  #preview: "https://writethedocs-www--1982.org.readthedocs.build/conf/atlantic/2023/schedule/"
 
 grants:
 #  url: https://docs.google.com/forms/d/e/1FAIpQLSdHdUPNq949FGLws5JAMmhVNv48yKUVfnTqllKMpZSXS2Wuuw/viewform
@@ -177,7 +177,7 @@ sponsors:
 
 
 # Things that change over time, listed in order of change
-flagcfp: False
+flagcfp: True
 flaglanding: True
 flaghassponsors: False
 flagticketsonsale: False
