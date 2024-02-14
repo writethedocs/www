@@ -216,7 +216,7 @@ body .page-content {
                 color: #333333;
             }
 
-            a.headerlink {}
+            // a.headerlink {}
          }
 
          h2, p {
@@ -652,7 +652,6 @@ body .uk-offcanvas-slide a.uk-button-ghost {
 
     }
 }
-
 .sponsors-footer {
     padding: 48px 24px;
     display: flex;
@@ -1362,4 +1361,8 @@ body .uk-navbar-dropdown-nav>li>a:focus, body .uk-navbar-dropdown-nav>li>a:hover
 
 pre {
   white-space: pre-wrap;
+}
+
+.hero #offcanvas-nav.uk-open ul li {
+    display:block;
 }
