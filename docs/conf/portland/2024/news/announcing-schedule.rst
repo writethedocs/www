@@ -10,7 +10,7 @@ Hey folks!
 
 The {{city}} conference is less than two months away, and we're busy making things happen behind the scenes.
 
-You've already seen our list of :doc:`awesome speakers </conf/portland/{{year}}/sessions/>`, now we can also show you the schedule so you know when they will be presenting!
+You've already seen our list of :doc:`awesome speakers </conf/portland/{{year}}/speakers/>`, now we can also show you the schedule so you know when they will be presenting!
 
 Full presentation schedule
 --------------------------
