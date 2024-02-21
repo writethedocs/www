@@ -241,7 +241,7 @@ and get a sense of the job market.
 {% if not flaghasschedule %}
 * **When**: **{{ date.day_four.job_fair_time }} {{ tz }}**
 {% endif %}
-* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/job-fair`
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/sponsor-expo`
 
 {% endif %}
 
