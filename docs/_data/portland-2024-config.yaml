@@ -24,12 +24,12 @@ buttons:
     #  link: /sponsors/prospectus
     # - text: Submit a Talk
     #   link: /cfp
-    # - text: See the Schedule!
-    #   link: /schedule
+    - text: See the Schedule!
+      link: /schedule
     - text: Buy a Ticket!
       link: /tickets
-    - text: See the talks!
-      link: /speakers
+    #- text: See the talks!
+    #  link: /speakers
     # - text: Attendee Guide
     #   link: /attendee-guide
     # - text: Watch the Live Stream
@@ -41,14 +41,14 @@ buttons:
   bottom:
     # - text: Welcome to our conference
     #   link: /news/welcome
-    - text: Sponsor us
-      link: /sponsors/prospectus
+    #- text: Sponsor us
+    #  link: /sponsors/prospectus
     #  - text: Submit a Talk
     #    link: /cfp
     - text: Buy a Ticket!
       link: /tickets
-    # - text: See the Schedule
-    #   link: /schedule
+    - text: See the Schedule
+      link: /schedule
     # - text: See the talks!
     #   link: /speakers
     # - text: Read our guide
