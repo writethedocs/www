@@ -67,7 +67,7 @@ talks_day1:
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: quantifying-the-impact-of--findings-from-dora-research-michelle-irvine
+    slug: quantifying-the-impact-of-documentation-findings-from-dora-research-michelle-irvine
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:15'
