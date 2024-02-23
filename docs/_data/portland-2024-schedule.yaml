@@ -78,6 +78,12 @@ talks_day1:
     title: '✋ 10 min Q&A'
   - duration: '0:05'
     title: '5 minute break'
+  - duration: '0:30'
+    slug: case-study-how-we-delivered-a-seamless-in-product-help-experience-candy-morton
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
   - duration: '0:10'
     title: '<b>Group Photo!</b>'
   - duration: '0:00'
@@ -131,12 +137,6 @@ talks_day2:
     title: '✋ 10 min Q&A'
   - duration: '0:15'
     title: '☕ Coffee break'
-  - duration: '0:30'
-    slug: case-study-how-we-delivered-a-seamless-in-product-help-experience-candy-morton
-  - duration: '0:10'
-    title: '✋ 10 min Q&A'
-  - duration: '0:05'
-    title: '5 minute break'
   - duration: '0:30'
     slug: make-it-make-semantic-sense-semantic-strategies-for-all-of-us-nellie-mckesson
   - duration: '0:10'
