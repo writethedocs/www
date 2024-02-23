@@ -1,0 +1,319 @@
+.. raw:: html
+
+   <div class="survey-results">
+
+*****************************************
+Write the Docs Salary Survey 2023 Results
+*****************************************
+
+.. contents::
+   :local:
+   :depth: 2
+   :backlinks: none
+
+
+Introduction
+============ 
+
+The 2023 Write the Docs Salary Survey was completed by 1017 documentarians in x countries, working across x industries, with experience ranging from less than one year to over x years. In this fifth annual survey, we gathered data from a record-breaking 1017 individual respondents - 938 employees and 79 contractors, freelancers and self-employed people.
+
+[!] Want to jump straight to the numbers? [[Median Salary]] - [[Contract Rates]] 
+
+.. container:: note
+   
+   .. rubric:: Note on independent contractors, freelancers and the self-employed
+
+   In this year's survey, we asked those who filled out the survey as independent contractors, freelancers or self-employed people what term they used to describe their type of employment. Just over half (53.2%) preferred the term "contractor", another 27.8% used "self-employed", and 16.5% used "freelancer". Two respondents chose "other": the terms supplied were "agency" and "consultant".
+
+   In this report, we'll use the term "contractors" to refer to this group.
+
+Feedback
+--------
+
+We’d love your thoughts on this survey, so that we can continue to develop and refine it. Email us at support@writethedocs.org with your ideas.
+
+Employment parameters
+=====================
+
+This section establishes the parameters of the respondent's employment: the type of employment, number of hours worked, job title and type of role, length of time in current position, and how focused the role is on documentation.
+
+Basis of employment
+-------------------
+
+.. raw:: html
+   
+   <details><summary>What we asked (click to expand)</summary>
+
+.. container:: question
+
+   On what basis are you filling out this survey?
+
+   - I'm an employee
+   - I was an employee, but am not currently working
+   - I'm an independent contractor, freelance operator, or self-employed
+   - I was an independent contractor, freelance operator, or self-employed, but am not currently working
+
+.. raw:: html
+
+   </details>
+
+In 2023, 92.2% of respondents (938) were employees and 7.8% (79 individuals) were contractors. 
+
+Of the employees, 3% stated they were currently unemployed, while this number was only 0.5% for contractors. Respondents not currently working were asked to fill out the survey as if they were still at their previous employer or contract. 
+
+.. table:: Basis of employment (2019-2023)
+   :width: 100%
+   :widths: 50 25 25
+   :name: tbl-2023-basis-of-employment-history
+
+   +-------------+-------------+-------------+
+   | Survey year |  Employees  | Contractors |
+   +=============+=============+=============+
+   | 2019        | 652 (93.9%) | 42 (6.1%)   |
+   +-------------+-------------+-------------+
+   | 2020        | 748 (92.9%) | 57 (7.1%)   |
+   +-------------+-------------+-------------+
+   | 2021        | 887 (92.5%) | 72 (7.5%)   |
+   +-------------+-------------+-------------+
+   | 2022        | 491 (93.5%) | 34 (6.5%)   |
+   +-------------+-------------+-------------+
+   | 2023        | 938 (92.2%) | 79 (7.8%)   |
+   +-------------+-------------+-------------+
+
+Hours worked
+------------
+
+.. raw:: html
+   
+   <details><summary>What we asked</summary>
+
+.. container:: question
+
+   How many hours per week do you work?
+
+   - 1–20 hours
+   - 21–30 hours
+   - 31–40 hours
+   - 41–50 hours
+   - 51–60 hours
+   - More than 60 hours
+
+.. raw:: html
+
+   </details>
+
+As in previous years, the majority (96%) of respondents worked traditional "full-time" hours each week: 
+
+- 69.7% worked between 31 and 40 hours
+- 24.5% worked between 41 and 50 hours
+- 1.9% worked between 51 and 60 hours 
+
+Only one respondent worked more than 60 hours - this person indicated that they put in 95 hours per week.
+
+Of those that worked fewer hours: 
+
+- 2.2% worked 21 to 30 hours each week
+- 1.7% worked 1 to 20 hours 
+
+.. table:: Weekly hours worked (2023)
+   :width: 100%
+   :widths: 70 15 15
+   :name: tbl-2023-weekly-hours-worked
+
+   +--------------+-----+-------+
+   | Hours worked | No. | %     |
+   +==============+=====+=======+
+   | 1-20 hours   |  17 | 1.7%  |
+   +--------------+-----+-------+
+   | 21-30 hours  |  22 | 2.2%  |
+   +--------------+-----+-------+
+   | 31-40 hours  | 709 | 69.7% |
+   +--------------+-----+-------+
+   | 41-50 hours  | 249 | 24.5% |
+   +--------------+-----+-------+
+   | 51-60 hours  |  19 | 1.9%  |
+   +--------------+-----+-------+
+   | 61+ hours    |   1 | 0.8%  |
+   +--------------+-----+-------+
+
+Job title
+---------
+
+.. raw:: html
+   
+   <details><summary>What we asked</summary>
+
+.. container:: question
+
+   What is your job title?
+
+.. raw:: html
+
+   </details>
+
+With typos fixed, abbreviations expanded, stop words removed and keyword faceting applied, 275 unique job titles could be discerned. One respondent indicated that they did not have a job title.    
+
+As in previous years, the most widely used exact title was "Technical Writer", reported by 32% of respondents - in fact this phrase appeared in the top 5 job titles and in 67.9% of all job titles.  
+
+.. table:: Most widely-used job titles (2023)
+   :width: 100%
+   :widths: 70 15 15
+   :name: tbl-2023-top-job-titles
+
+   +----------------------------+-----+-----+
+   | Job title                  | No. | %   |
+   +============================+=====+=====+
+   | Technical Writer           | 321 | 32% |
+   +----------------------------+-----+-----+
+   | Senior Technical Writer    | 191 | 19% |
+   +----------------------------+-----+-----+
+   | Lead Technical Writer      | 39  | 4%  |
+   +----------------------------+-----+-----+
+   | Staff Technical Writer     | 24  | 2%  |
+   +----------------------------+-----+-----+
+   | Principal Technical Writer | 19  | 2%  |
+   +----------------------------+-----+-----+
+   | Documentation Manager      | 15  | 1%  |
+   +----------------------------+-----+-----+
+   | Technical Writing Manager  | 13  | 1%  |
+   +----------------------------+-----+-----+
+   | Technical Writer II        | 12  | 1%  |
+   +----------------------------+-----+-----+
+   | Documentation Specialist   | 8   | 1%  |
+   +----------------------------+-----+-----+
+   | Technical Author           | 7   | 1%  |
+   +----------------------------+-----+-----+
+
+Job titles that didn't include "technical writer":
+
+
+
+Type of role
+------------
+
+.. raw:: html
+   
+   <details><summary>What we asked</summary>
+
+.. container:: question
+
+   How would you categorize your role? Select multiple roles, if appropriate.
+
+   - Writer, content creator, producer, editor
+   - Developer, engineer
+   - Educator
+   - Customer support
+   - Advocate, community outreach
+   - Marketing
+   - Management
+   - Other
+
+   With regard to working with other people, are you typically (select multiple if appropriate):
+
+   - A solo worker
+   - Part of a team of people with the same or similar roles
+   - Part of a team of people with different roles
+   - Part of multiple teams
+   - A manager or team leader
+   - Other (please specify)
+
+.. raw:: html
+
+   </details>
+
+Role category
+~~~~~~~~~~~~~
+
+Most respondents identified their role as "writer, content creator, producer, editor" - 59.4% selected only this category, while 95.6% included it alongside other categories. The second most widely-selected was "management", with 15.5% of respondents selecting this along with other categories and 2.3% selecting it as their only role category, followed by "developer, engineer", inlcuded by 10.5% of all respondents. In total, respondents selected 63 different combinations of the 8 role categories. 
+
+.. table:: Top role category combinations (2023)
+   :width: 100%
+   :widths: 70 15 15
+   :name: tbl-2023-top-role-category-combinations
+
+   +---------------------------------------------------------+-----+-------+
+   | Category                                                | No. | %     |
+   +=========================================================+=====+=======+
+   | Writer/Creator/Editor                                   | 604 | 59.4% |
+   +---------------------------------------------------------+-----+-------+
+   | Writer/Creator/Editor + Management                      | 69  | 6.8%  |
+   +---------------------------------------------------------+-----+-------+
+   | Writer/Creator/Editor + Developer/Engineer              | 45  | 4.4%  |
+   +---------------------------------------------------------+-----+-------+
+   | Writer/Creator/Editor + Educator                        | 40  | 3.9%  |
+   +---------------------------------------------------------+-----+-------+
+   | Writer/Creator/Editor + Support                         | 24  | 2.4%  |
+   +---------------------------------------------------------+-----+-------+
+   | Management                                              | 23  | 2.3%  |
+   +---------------------------------------------------------+-----+-------+
+   | Writer/Creator/Editor + Advocate                        | 19  | 1.9%  |
+   +---------------------------------------------------------+-----+-------+
+   | Writer/Creator/Editor + Marketing                       | 17  | 1.7%  |
+   +---------------------------------------------------------+-----+-------+
+   | Writer/Creator/Editor + Other                           | 17  | 1.7%  |
+   +---------------------------------------------------------+-----+-------+
+   | Writer/Creator/Editor + Educator + Management           | 14  | 1.4%  |
+   +---------------------------------------------------------+-----+-------+
+   | Writer/Creator/Editor + Developer/Engineer + Management | 10  | 1%    |
+   +---------------------------------------------------------+-----+-------+
+
+Of those respondents who chose "Other" and provided more detail, the additional categories included project management, product management, process managment, information architecture, instructional design, QA/testing, content strategy, mentoring, and translation - as well as some terms which can be bundled under the heading "DocOps": documentation tool and workflow administration, repository maintenance, and documentation infrastructure development and support. 
+
+Team breakdown
+~~~~~~~~~~~~~~
+
+The most widely-selected team configurations were single category: 25.2% of respondents worked only on a team made up of people with the same or similar roles, while 12.7% worked only on a team made up of people with differing roles. 8.5% worked only solo, and 7.1% selected only management. These four configurations covered just over half of all respondents - the other half chose a combination of categories. 
+
+THIS IS MESSED UP: need to cut the data a different way:
+Looking at the overall ratios, 49% of respondents worked on teams of people with the same or similar roles at least part of the time, while 43.7% of respondents worked on teams with people of differing roles. 25.1% worked on multiple teams, while 26.4% worked solo some of the time and 18.8% performed the duties of a manager or team leader some of the time. 
+
+
+Length of time at current organization
+--------------------------------------
+
+.. raw:: html
+   
+   <details><summary>What we asked</summary>
+
+.. container:: question
+
+   Employees: 
+
+   How long have you worked at your current organization?
+   
+   Note:
+   Please select the length of time for your position at your current organization only – your total years of experience in documentation will be covered in the individual demographics section. If you have changed roles at the same organization, please select the length of time that you have been in your current role.
+
+   - Less than 1 year
+   - More than 1 year but less than 2 years
+   - More than 2 years but less than 5 years
+   - More than 5 years but less than 10 years
+   - More than 10 years
+
+   Contractors: 
+
+   How long have you worked as a contractor or freelancer, or been self-employed?
+
+   Note:
+   This is how long you have been a contractor or freelancer only - your total years of experience in documentation will be covered later on.
+
+   - Less than 1 year
+   - More than 1 year but less than 2 years
+   - More than 2 years but less than 5 years
+   - More than 5 years but less than 10 years
+   - More than 10 years
+
+.. raw:: html
+
+   </details>
+
+The length of time that an employee has been in their current role at their current organization can be used as a measure of how volatile the job market is - a spike in job durations of less than a year, first seen in 2021 and peaking in 2022, reflected 
+
+
+In 2022, a particularly volatile job market saw the proportion of respondents who had been in their current role for less than 1 year outstrip those who had held their current job for a medium or extended duration - for the first time since the survey began. This was building on a trend that was first seen in 2021, when new position
+
+That trend is starting to settle down in 2023 results - once again, the largest proportions are respondents who have been in the same role for a duration of 2-5 years, followed by a duration of 1-2 years. 
+
+.. raw:: html
+
+   </div>
