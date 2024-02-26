@@ -159,7 +159,7 @@ cfp:
   ends: "January 15, 2024"                        # (Mon) 1 week, to review. It'll take a little longer to announce
   notification: "January 30, 2024"                # (Mon) 8 weeks to write and prepare
   slides_by: "April 7, 2024"                      # (Mon) 1 week before
-  preview: "TODO"                                 # Preview URL TODO
+  preview: "https://writethedocs-www--2098.org.readthedocs.build/conf/portland/2024/schedule/"                                 # Preview URL TODO
 
 unconf:
   url: http://bit.ly/wtd-pdx-2024-ro
