@@ -106,7 +106,24 @@ If you need additional information to advocate for Writing Day in your community
 Project List
 ------------
 
-Incoming project information! Check back here for updates closer to the conference.
+Docs as Tests & Doc Detective: Help us test your docs!
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Meet the team, get set up with tools or strategies, run some tests.**
+
+`Doc Detective <https://doc-detective.com/>`__ is back at Writing Day again, this time with our friends, `Docs as Tests <www.docsastests.com>`__. Does your project or product have a UI? APIs? SDKs? We can help you test them and keep your docs accurate.
+
+Docs as Tests is a tool-agnostic strategy for validating doc content by performing documented tasks on projects using automation. By validating that doc contents work as written, you can: 
+
+* Prevent broken docs.
+* Ensure consistent UX between docs, projects, or products.
+* Build user trust.
+
+Our Writing Day goal is to test at least 10 docs projects! We want every writer to be confident in their docs. 
+
+Come by our table, and we'll help you set up Docs as Tests with whatever tools (such as Doc Detective) or strategies (like unit testing code snippets) are appropriate. Establish a zero-trust relationship between your docs and project, catching bugs in both as you go.
+
+*More projects coming, get excited!*
 
 Contact Us
 ----------
