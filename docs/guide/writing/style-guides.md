@@ -33,7 +33,8 @@ You can certainly create a style guide of your own. For the sake of simplicity, 
 - [Meet Content — Editorial Style for the Web](http://meetcontent.com/blog/elements-of-editorial-style-for-the-web/)
 - [Stanford — Creating a web style guide](https://swsblog.stanford.edu/blog/creating-web-style-guide-cardinal-work)
 - [Techwhirl – Developing a Style Guide for Technical Publications](http://techwhirl.com/developing-a-departmental-style-guide/)
-
+- [Transly Translation Agency – What is a style guide and how to create one?](https://transly.eu/what-is-a-style-guide/)
+  
 ## Traditional writing style guide resources
 
 Style guides have been around for as long as people have been publishing in any format. Traditional style guides originally intended for specific forms of print publication have become basic standards for many others to refer to, including documentarians:
