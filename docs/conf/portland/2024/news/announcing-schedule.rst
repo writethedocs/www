@@ -33,9 +33,12 @@ The hike will be on  **{{ hike.date }}**. Please register a `free ticket <https:
 Start thinking about Writing Day
 --------------------------------
 
-Our pre-conference `Writing Day <https://www.writethedocs.org/conf/portland/{{year}}/writing-day/>`_ is happening on Sunday. It's a great chance to learn from other attendees, and get some contributors on a project you have in mind. There is also room for having discussions and showing off fun new tools you've found.
+`Writing Day <https://www.writethedocs.org/conf/portland/{{year}}/writing-day/>`_ takes place on Sunday, the first day of the conference. It’s a great opportunity to get interesting people in the same room, sharing their passion and goals and collaborating to find creative solutions to solve a problem or issue.
 
-If you have a project or are part of a community that you think would benefit from a writing sprint, start brainstorming now about what you might want to focus on.
+**There are two ways to participate in Writing Day:**
+
+- Lead a project: Attendees bring ideas, content, or OSS projects to work on with contributors.
+- Contribute to a project: Attendees participate in various content projects.
 
 If you'd like us to include your project on the Writing Day page `submit your project here <https://forms.gle/5WPN8MGCKzKqZBWU6>`_ or drop us an email at `portland@writethedocs.org <mailto:portland@writethedocs.org>`_. You are also welcome to show up on Sunday ready to introduce your project!
 
