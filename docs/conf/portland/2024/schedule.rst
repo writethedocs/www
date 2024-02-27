@@ -71,6 +71,10 @@ Further details will be announced later.
 {{date.day_two.dotw}}, {{date.day_two.date}}
 -----------------------------------------
 
+Join us for Writing Day and work with fellow documentarians on a project.
+Check in is open all day, and there are multiple welcome wagon tours throughout the day.
+Meet other attendees at the reception in the evening.
+
 .. raw:: html
 
    {{ date.day_two.summary }}
@@ -134,6 +138,10 @@ and make sure you know your way around the conference venue.
 
 {{date.day_three.dotw}}, {{date.day_three.date}}
 -----------------------------------------
+
+This is the main event!
+We will have talks and unconference sessions running in parallel and sponsors available to chat all day.
+Join us for an enjoyable evening of drinks and appetizers at our conference social.
 
 .. raw:: html
 
@@ -199,6 +207,8 @@ Snacks and drinks (non-alcoholic & alcoholic) will be provided.
 
 {{date.day_four.dotw}}, {{date.day_four.date}}
 -----------------------------------------
+
+And the conference goes on! More talks and unconference today, along with our Sponsor booths.
 
 .. raw:: html
 

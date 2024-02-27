@@ -9,6 +9,8 @@ outing:
 writing_day:
   - time: '8:00'
     title: 'Doors open'
+  - time: '08:45'
+    title: 'Project leaders select and set up at available tables'
   - time: '9:00'
     title: Morning introduction - Introduction to Sprints & Project Introductions
   - time: '9:30'
@@ -90,9 +92,9 @@ talks_day1:
     title: '<b>Group Photo!</b>'
   - duration: '0:00'
     title: '<b>Conference day 1 ends</b>'
-  - time: '19:00'
+  - time: '18:30'
     title: "<b>Social Event</b>"
-  - time: '21:00'
+  - time: '20:30'
     title: "<b>Social Event Ends</b>"
 
 talks_day2:
