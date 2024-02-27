@@ -116,7 +116,7 @@ Docs as Tests & Doc Detective: Help us test your docs!
 Docs as Tests is a tool-agnostic strategy for validating doc content by performing documented tasks directly in your products using automation. By validating that doc contents work as written, you can: 
 
 * Prevent broken docs.
-* Ensure consistent UX between docs, projects, or products.
+* Ensure consistent UX between docs and products.
 * Build user trust.
 
 Our Writing Day goal is to test at least 10 docs sets! We want every writer to be confident in their docs. 
