@@ -9,15 +9,17 @@ outing:
 writing_day:
   - time: '8:00'
     title: 'Doors open'
-  - time: '9:15'
+  - time: '9:00'
     title: Morning introduction - Introduction to Sprints & Project Introductions
   - time: '9:30'
     title: Team up and start working
-  - time: '11:00'
+  - time: '11:50'
     title: '<i>Welcome Wagon conference introduction and venue tour</i>'
   - time: '12:00'
     title: Lunch Break - Determine length with table
-  - time: '14:00'
+  - time: '13:30'
+    title: '<i>Welcome Wagon conference introduction and venue tour</i>'
+  - time: '16:30'
     title: '<i>Welcome Wagon conference introduction and venue tour</i>'
   - time: '17:00'
     title: '<b>End of Writing Day</b>'
