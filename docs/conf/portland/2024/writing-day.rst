@@ -111,7 +111,7 @@ Docs as Tests & Doc Detective: Help us test your docs!
 
 **Meet the team, get set up with tools or strategies, run some tests.**
 
-`Doc Detective <https://doc-detective.com/>`__ is back at Writing Day again, this time with our friends, `Docs as Tests <www.docsastests.com>`__. Does your project or product have a UI? APIs? SDKs? We can help you test them and keep your docs accurate.
+`Doc Detective <https://doc-detective.com/>`__ is back at Writing Day again, this time with our friends, `Docs as Tests <https://www.docsastests.com>`__. Does your project or product have a UI? APIs? SDKs? We can help you test them and keep your docs accurate.
 
 Docs as Tests is a tool-agnostic strategy for validating doc content by performing documented tasks directly in your products using automation. By validating that doc contents work as written, you can: 
 
