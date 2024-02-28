@@ -10,7 +10,7 @@ Hey folks!
 
 The {{city}} conference is less than two months away, and we're busy making things happen behind the scenes.
 
-You've already seen our list of :doc:`awesome speakers </conf/portland/{{year}}/speakers/>`, now we can also show you the schedule so you know when they will be presenting!
+You've already seen our list of :doc:`awesome speakers </conf/portland/{{year}}/speakers/>`, now we're announcing our full schedule so you know when they will be presenting!
 
 Full presentation schedule
 --------------------------
@@ -58,7 +58,7 @@ The main events that you can participate in Monday & Tuesday are:
 
 * **Lightning Talks.** We'll have `lightning talks <https://www.writethedocs.org/conf/portland/{{year}}/lightning-talks/>`__ each conference day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want! This is your chance to share something you are passionate about with the audience. Slides are not required.
 * **Unconference.** We'll be running the `Unconference <https://www.writethedocs.org/conf/portland/{{year}}/unconference/>`_ as our formal "second track" at the conference. This is a place to schedule discussions about a specific topic, so you can find other attendees who care about the same niche topics that you love. Want to chat with like-minded folks about oxford commas or a specific docs as code tool? This is the place.
-* **Social event**. On Monday night we'll be hosting a quiet social event. This is a great chance to get to know more folks in the community and have a drink or two on us. Non-alcoholic options will be very available, as well as some snacks.
+* **Social event**. On Monday night we'll be hosting a social event. This is a great chance to get to know more folks in the community and have a drink or two on us. Non-alcoholic options will be very available, as well as some snacks.
 
 View our `Attendee Guide <https://www.writethedocs.org/conf/portland/2024/attendee-guide/>`_ for a comprehensive overview of how to participate in the conference.
 
