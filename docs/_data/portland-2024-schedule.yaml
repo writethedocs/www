@@ -18,9 +18,11 @@ writing_day:
   - time: '11:50'
     title: '<i>Welcome Wagon conference introduction and venue tour</i>'
   - time: '12:00'
-    title: Lunch Break - Determine length with table
+    title: Lunch Break
   - time: '13:30'
     title: '<i>Welcome Wagon conference introduction and venue tour</i>'
+  - time: '13:45'
+    title: 'Afternoon Session - all day groups reconvene and new group introductions'
   - time: '16:30'
     title: '<i>Welcome Wagon conference introduction and venue tour</i>'
   - time: '17:00'
@@ -86,10 +88,8 @@ talks_day1:
     slug: case-study-how-we-delivered-a-seamless-in-product-help-experience-candy-morton
   - duration: '0:10'
     title: '✋ 10 min Q&A'
-  - duration: '0:05'
-    title: '5 minute break'
   - duration: '0:10'
-    title: '<b>Group Photo!</b>'
+    title: '<b>Group Photo! Right after the Q&A ;-)</b>'
   - duration: '0:00'
     title: '<b>Conference day 1 ends</b>'
   - time: '18:30'
@@ -101,8 +101,6 @@ talks_day2:
   - time: '8:00'
     title: Doors open
     duration: '1:00'
-  - duration: '0:00'
-    title: "<b>Sponsor Expo Starts</b>"
   - duration: '0:00'
     title: "<b>Unconference Starts</b>"
   - duration: '0:30'
@@ -127,8 +125,6 @@ talks_day2:
     slug: sociological-considerations-in-designing-an-internal-documentation-platform-alistair-gray
   - duration: '0:10'
     title: '✋ 10 min Q&A'
-  - duration: '0:00'
-    title: "<b>Sponsor Expo Ends</b>"
   - duration: '1:20'
     title: '🍽️ Lunch Break (80 mins)'
   - duration: '0:30'
