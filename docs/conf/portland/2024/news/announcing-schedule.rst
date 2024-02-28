@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Feb 26, 2024
+.. post:: Feb 29, 2024
    :tags: {{year}}, {{shortcode}}-{{year}}, schedule
 
 Announcing Full Schedule
@@ -20,20 +20,20 @@ The conference website is now updated with the :doc:`schedule </conf/portland/{{
 We're keeping the moderated Q&A session after each speaker that we introduced last year. You'll have a chance to ask our speakers questions after the talk via our wonderful set of moderators.
 
 Now is a great time to buy your `tickets <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_ if you haven't already.
-Also please read over our `Health and Safety policy <https://www.writethedocs.org/conf/portland/{{year}}/health/>`__,
-so you understand the measures we're taking to keep our attendees safe.
 
 Join us for our hike again this year
 ------------------------------------
 
-We're reviving the traditional Pittock Mansion `hike <https://www.writethedocs.org/conf/portland/{{year}}/outing/>`_ on Saturday. This is a great way to experience the beauty that Portland holds within city limits, with a walk along a creek, a majestic view of Mount Hood, and finishing with a meader through Hoyt Arboritum with hundreds of different trees and plants. 
+Our hike will be in the amazing Forest Park, the largest urban forested park in the country. It is conveniently located in Northwest Portland, and has a beautiful walk along a creek.
 
-The hike will be on  **{{ hike.date }}**. Please register a `free ticket <https://ti.to/writethedocs/write-the-docs-portland-2024/with/hike-ticket>`_ so we can contact you with any last minute weather and logistics information.
+We'll be starting at Lower Macleay Park on Saturday, **{{ hike.date }}** at 1 PM. Please register a `free hike ticket <https://ti.to/writethedocs/write-the-docs-portland-2024/with/hike-ticket>`_ so we can contact you with any last minute weather and logistics information.
 
 Start thinking about Writing Day
 --------------------------------
 
 `Writing Day <https://www.writethedocs.org/conf/portland/{{year}}/writing-day/>`_ takes place on Sunday, the first day of the conference. It’s a great opportunity to get interesting people in the same room, sharing their passion and goals and collaborating to find creative solutions to solve a problem or issue.
+
+.. image:: /_static/conf/images/writing-day.jpg
 
 **There are two ways to participate in Writing Day:**
 
@@ -59,6 +59,8 @@ The main events that you can participate in Monday & Tuesday are:
 * **Lightning Talks.** We'll have `lightning talks <https://www.writethedocs.org/conf/portland/{{year}}/lightning-talks/>`__ each conference day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want! This is your chance to share something you are passionate about with the audience. Slides are not required.
 * **Unconference.** We'll be running the `Unconference <https://www.writethedocs.org/conf/portland/{{year}}/unconference/>`_ as our formal "second track" at the conference. This is a place to schedule discussions about a specific topic, so you can find other attendees who care about the same niche topics that you love. Want to chat with like-minded folks about oxford commas or a specific docs as code tool? This is the place.
 * **Social event**. On Monday night we'll be hosting a quiet social event. This is a great chance to get to know more folks in the community and have a drink or two on us. Non-alcoholic options will be very available, as well as some snacks.
+
+View our `Attendee Guide <https://www.writethedocs.org/conf/portland/2024/attendee-guide/>`_ for a comprehensive overview of how to participate in the conference.
 
 The `Schedule page <https://www.writethedocs.org/conf/portland/{{year}}/schedule/>`_ has the latest and most complete information about all our events.
 This is where we will also update any changes/cancellations if they should occur.
