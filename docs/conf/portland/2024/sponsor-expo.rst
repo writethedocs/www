@@ -14,6 +14,6 @@ Write the Docs looks forward to facilitating constructive networking, connecting
 Schedule
 --------
 
-- **{{ date.day_four.date }}, {{ date.day_four.job_fair_time }} {{tz}}**.
+Our sponsors will be available all day Monday & Tuesday.
 
-Exact times to be posted on our :doc:`/conf/{{shortcode}}/{{year}}/schedule` page.
+Exact times are posted on our :doc:`/conf/{{shortcode}}/{{year}}/schedule` page.
