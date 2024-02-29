@@ -6,7 +6,7 @@
 Announcing Full Schedule
 ========================
 
-Hey folks!
+Happy leap day folks!
 
 The {{city}} conference is less than two months away, and we're busy making things happen behind the scenes.
 
