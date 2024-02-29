@@ -43,7 +43,7 @@ talks_day1:
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:00'
-    title: "<b>Unconference Starts</b>"
+    title: "<b>Unconference starts</b>"
   - duration: '0:30'
     slug: graphic-relief-beyond-flowcharts-and-screenshots-dennis-dawson
   - duration: '0:10'
