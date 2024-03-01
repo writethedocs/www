@@ -37,7 +37,7 @@ If you find specific examples helpful, check out the `Portland Writing Day 2023 
 Writing Day Schedule 
 --------------------
 
-**Date: Sunday, April 14, 9am-4:30pm PST** 
+**Date: Sunday, April 14, 9am-5:00pm PST** 
 
 Writing Day is an all day event that is designed with flexibility in mind. Feel free to check out as many projects as make sense for you and your schedule!
 
