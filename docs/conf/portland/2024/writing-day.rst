@@ -123,6 +123,29 @@ Our Writing Day goal is to test at least 10 docs sets! We want every writer to b
 
 Come by our table, and we'll help you set up Docs as Tests with whatever tools (such as Doc Detective) or strategies (like unit testing code snippets) are appropriate. Establish a zero-trust relationship between your docs and product, catching bugs in both as you go.
 
+All the OpenAPI we cannot see (*morning only*)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Meet the team, learn about API docs, try new open source API doc options,.**
+
+Ready, set, doc! Interested in OpenAPI? In this morning-only session, we are going to take a special, fun OpenAPI specification file and generate open source API documentation. Our objective is to create a space for documentarians to try new open source, or commercial, options for API documentation.
+
+Our Writing Day goal is to have several documentarians work in teams to create 3 pages of API content, including:
+
+* Introduction
+* Authentication
+* Quickstart guide
+
+Here's what we're providing to participants to make this work: 
+
+* Access to a live server
+* Auth keys
+* General help and advice for new and experienced API writers
+
+At the end of the morning session, we will have the teams present their documentation to the table. Then we'll all vote on a "People's Choice Winner" - the winners receive [blank, bragging rights? swag?]
+
+All participants will have continued access to their team's open source API documentation. This session is great for attendees looking to expand their portfolio.
+
 *More projects coming, get excited!*
 
 Contact Us
