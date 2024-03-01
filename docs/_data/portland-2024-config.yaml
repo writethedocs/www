@@ -24,12 +24,12 @@ buttons:
     #  link: /sponsors/prospectus
     # - text: Submit a Talk
     #   link: /cfp
-    # - text: See the Schedule!
-    #   link: /schedule
+    - text: See the Schedule!
+      link: /schedule
     - text: Buy a Ticket!
       link: /tickets
-    - text: See the talks!
-      link: /speakers
+    #- text: See the talks!
+    #  link: /speakers
     # - text: Attendee Guide
     #   link: /attendee-guide
     # - text: Watch the Live Stream
@@ -41,14 +41,14 @@ buttons:
   bottom:
     # - text: Welcome to our conference
     #   link: /news/welcome
-    - text: Sponsor us
-      link: /sponsors/prospectus
+    #- text: Sponsor us
+    #  link: /sponsors/prospectus
     #  - text: Submit a Talk
     #    link: /cfp
     - text: Buy a Ticket!
       link: /tickets
-    # - text: See the Schedule
-    #   link: /schedule
+    - text: See the Schedule
+      link: /schedule
     # - text: See the talks!
     #   link: /speakers
     # - text: Read our guide
@@ -146,11 +146,11 @@ about:
     "The main presentation track takes place from **April 15-16 (Monday and Tuesday) from 9am to 5pm**.
     During the main event we also run an :doc:`/conf/portland/2024/unconference`."
 
-  social_venue: TBD
+  social_venue:  Grand Fir 1403 SE Stark St
   venue: Revolution Hall
   photos: TBD
   mainroom: Main stage
-  unconfroom: Library & Astoria room (Bottom floor)
+  unconfroom: Library & Astoria room (1st floor)
   projector_ratio: "16:9"
   job_fair_room: Sponsor area
 
@@ -159,7 +159,7 @@ cfp:
   ends: "January 15, 2024"                        # (Mon) 1 week, to review. It'll take a little longer to announce
   notification: "January 30, 2024"                # (Mon) 8 weeks to write and prepare
   slides_by: "April 7, 2024"                      # (Mon) 1 week before
-  preview: "TODO"                                 # Preview URL TODO
+  preview: "https://writethedocs-www--2098.org.readthedocs.build/conf/portland/2024/schedule/"                                 # Preview URL TODO
 
 unconf:
   url: http://bit.ly/wtd-pdx-2024-ro
@@ -183,16 +183,13 @@ sponsors:
     - name: mongodb-new
       link: https://www.mongodb.com/?ref=writethedocs
       brand: MongoDB
-    - name: jetbrains
-      link: https://www.jetbrains.com/?ref=writethedocs
+    - name: jetbrains-svg
+      link: https://jebrains.com/writethedocs
       brand: JetBrains
     - name: zoomin-small
       link: https://www.zoominsoftware.com/?vert=Write_The_Docs_Portland&utm_medium=referral&utm_source=WriteTheDocs&utm_campaign=Write_The_Docs_Portland
       brand: Zoomin
   publisher:
-    # - name: redocly
-    #   link: https://redoc.ly/
-    #   brand: Redocly
     # - name: jetbrains
     #   link: https://www.jetbrains.com/
     #   brand: JetBrains
@@ -219,9 +216,15 @@ sponsors:
     - name: nginx
       link: https://www.nginx.com/?ref=writethedocs
       brand: NGINX
+    - name: redocly
+      link: https://redoc.ly/
+      brand: Redocly
     - name: readthedocs
       link: https://about.readthedocs.com/?ref=writethedocs
       brand: Read the Docs
+    - name: netlify-new
+      link: https://www.netlify.com/?ref=writethedocs
+      brand: Netlify
     # - name: knowledgeowl
     #   link: https://www.knowledgeowl.com?ref=writethedocs
     #   brand: KnowledgeOwl
@@ -229,9 +232,6 @@ sponsors:
     #   link: https://www.raspberrypi.com/
     #   brand: Raspberry Pi
     # - name: readthedocs
-    # - name: netlify-new
-    #   link: https://www.netlify.com/
-    #   brand: Netlify
     # - name: livelike
     #   link: https://livelike.com/
     #   brand: LiveLike
@@ -262,7 +262,7 @@ flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
 flagrunofshow: True
-flaghasschedule: False
+flaghasschedule: True
 flagscheduleincomplete: True
 flaghasunconf: True
 flaghasshirts: False
