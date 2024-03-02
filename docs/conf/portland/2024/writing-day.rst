@@ -37,7 +37,7 @@ If you find specific examples helpful, check out the `Portland Writing Day 2023 
 Writing Day Schedule 
 --------------------
 
-**Date: Sunday, April 14, 9am-4:30pm PST** 
+**Date: Sunday, April 14, 9am-5:00pm PST** 
 
 Writing Day is an all day event that is designed with flexibility in mind. Feel free to check out as many projects as make sense for you and your schedule!
 
@@ -47,7 +47,7 @@ Writing Day is an all day event that is designed with flexibility in mind. Feel 
 -  Lunch Break
 -  Project announcements: Project leads are invited to give a 2 minute project summary, starting with the afternoon-only projects.
 -  Session 2: Projects and co-working reconvene.
--  Writing Day ends at 4:30pm.
+-  Writing Day ends at 5:00pm.
 
 Exact times to be posted on our :doc:`/conf/{{shortcode}}/{{year}}/schedule` page. 
 
