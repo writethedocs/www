@@ -236,7 +236,7 @@ Subject:
 
    ○ please register your free [speaker ticket]({{cfp_variables['ticket']}}).
 
-   ○ please make sure to log in to [Pretalx](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/) and fill out the questions on pronouns, name pronunciation and interests for our emcee intro. We aslo need your **hoodie size** for a free speaker hoodie! 
+   ○ please make sure to log in to [Pretalx](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/) and fill out the questions on pronouns, name pronunciation and interests for our emcee intro. We also need your **hoodie size** for a free speaker hoodie!
 
    We're finalizing details on the tech check and Q&A over the next weeks, and we'll be in touch in a couple of weeks for a copy of your slides for our captioners!
 
