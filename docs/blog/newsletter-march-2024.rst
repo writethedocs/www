@@ -71,9 +71,7 @@ This month’s newsletter is sponsored by `Zoomin <https://www.zoominsoftware.co
   :target: https://www.zoominsoftware.com/watch-a-demo?utm_medium=referral&utm_source=WTD&utm_campaign=march_newsletter&utm_content=watch_demo
   :alt: Zoomin is AI-infused content delivery
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Deliver a unified multichannel content experience with Zoomin
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+**Deliver a unified multichannel content experience with Zoomin**
 
 Is your content scattered across a maze of separate sites? Are different teams creating their own content, using their separate authoring tools and publishing to siloed channels? A fragmented content experience is frustrating for users who are forced to context-switch and may be navigating outdated and inconsistent content.
 
