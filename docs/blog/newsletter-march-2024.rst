@@ -9,7 +9,7 @@ Ahoy, documentarians! The sun is shining more and more each day where I am, whic
 
 In community news, the Portland 2024 conference has `announced its schedule </conf/portland/2024/news/announcing-schedule/>`__. So check out all the talks and start planning your experience.
 
-This month's articles cover iterating your writing with a chatbot, what good design is for documentation, and how to overcome frustration at bureaucracy. Hope you find something for you and if not, there's always next month!
+This month's articles cover iterating your writing with a chatbot, what good design is for documentation, and how to overcome frustration at bureaucracy. Hope you enjoy and see you again next month!
 
 --------------------------------
 Iterative Writing with a Chatbot
