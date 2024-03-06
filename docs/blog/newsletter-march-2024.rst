@@ -1,3 +1,5 @@
+:og:image: https://www.writethedocs.org/_static/logo-opengraph.png
+
 .. post:: March 06, 2024
   :tags: newsletter
 
