@@ -25,16 +25,7 @@ We will announce the CFP soon.
 
 {% if flagcfp %}
 
-Ready to submit your talk?
-You can do that here:
-
-.. raw:: html
-
-    <div class="announcement" style="background-color:white;">
-        <div class="uk-container">
-        <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}">Submit your proposal</a>
-        </div>
-    </div>
+Ready to `submit your talk <#submit-your-proposal>`_
 
 {% endif %}
 
@@ -93,6 +84,7 @@ What we’re looking for
 **Diverse topics**
 
 The focus of Write the Docs is software documentation, but we actively seek talks that address a wide range of related subjects, at various levels of expertise.
+
 Documentation perspectives from other fields are welcome, as are topics from adjacent fields!
 
 **Practicality and positivity**
@@ -104,6 +96,10 @@ Don't tell us why you hate something – tell us how you overcame the problems i
 
 We tend to avoid talks about specific tools, which often turn into marketing pitches or tutorials.
 We would much rather hear about process, culture, data, people, or the metaphysical side effects of spending your life thinking about docs.
+
+**Benfit to the community**
+
+How does your talk help improve the quality of documentation everywhere. Are you trying a new approach? Are you solving a known problem? Have you done the research into how folks have tried to solve your issue before?
 
 **Audience awareness**
 
@@ -177,7 +173,14 @@ If you have any questions, please email us at `{{email}} <mailto:{{email}}>`_ an
 Submit your proposal
 --------------------------
 
-Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx account, unless you already have one from a previous conference.
+Please make sure you read this entire page before submitting your proposal, and pay particular attention to the following points:
+
+- **Spoilers** it's pretty normal not to want to include your main point in your abstract, but please make sure to highlight it for the selection committee!
+- **Research** we don't need all talks to be about a new topic, but if you're suggesting a talk that looks really similar to one that was given last year, show you know that, and mention why yours is different.
+- **Tooling** we're pretty serious about preferring talks about people, process or principles than talks about tooling. If you are submitting a proposal about tooling, tell us what makes this one special.
+- **Example proposal** so you know what we expect to see in each field.
+
+You'll need to sign up for a Pretalx account, unless you already have one from a previous conference.
 
 .. raw:: html
 
