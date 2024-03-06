@@ -44,7 +44,7 @@ For visual communication books, see: `Stuck? Diagrams Help <https://abbycovert.c
 Dealing with Feeling Blocked by Bureaucracy
 -------------------------------------------
 
-As revealed in a recent discussion, stagnation amid bureaucratic challenges can be a common struggle. Documentarians expressed a sense of frustration and stagnation despite accumulating valuable skills. The recurring theme was them proposing solutions only to encounter bureaucratic obstacles, leading to a cycle of unfulfilled potential.
+As revealed in a recent discussion, stagnation amid bureaucratic challenges can be a common struggle. Documentarians expressed a sense of frustration and stagnation despite accumulating valuable skills. The recurring theme was proposing solutions only to encounter bureaucratic obstacles, leading to a cycle of unfulfilled potential.
 
 The discussion highlighted the dichotomy between environments conducive to “rest and vest” (encouraging stagnation) versus those providing continual challenges. Mid-career professionals emphasized the need for engagement through challenges. The conversation also highlighted the impact on specific roles, such as documentation, where blame was unfairly assigned amid broader organizational challenges.
 
