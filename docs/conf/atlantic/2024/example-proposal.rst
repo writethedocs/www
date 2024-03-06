@@ -8,7 +8,9 @@ Substitute a catchy title that promises practical lessons
 Abstract
 --------
 
-This is the content that Write the Docs would post on the conference schedule. To evaluate the quality of your proposal, the proposal committee also takes into account all of the other information that you provide.
+**This is where you tell the conference attendees what your talk is about. This is public.**
+
+This is the content that the goes on the conference schedule. To evaluate the quality of your proposal, the proposal committee also takes into account all of the other information that you provide.
 
 Include a brief story, typically two to four paragraphs, that describes your personal work experience with the topic. Make sure the abstract appeals to our audience of documentarians. We're suspicious of proposals that look like they belong at other conferences.
 
@@ -20,10 +22,12 @@ Include a list of things that our audience can learn from your talk, such as:
 
 Help your audience think: "Oh yes, this talk could help me when I do X in my work!"
 
-Avoid walls of text. We recommend that you limit your proposal to a maximum of 300 words. If your proposal is accepted, this is what the audience will see in the program when they preview your talk.
+Avoid walls of text. We recommend that you limit your proposal to a maximum of 300 words. 
 
 Who and Why
 -----------
+
+**This is where you should tell the selection committee why they should pick the talk described in the abstract. Not public.**
 
 Use this opportunity to show the selection committee that you empathize with your audience. Help them think: "Oh yes, this talk could help me when I do X in my work!"
 
@@ -42,6 +46,8 @@ Only the proposal committee will see the information that you include here.
 Other Information
 -----------------
 
+**Anything that does not fit in the previous two questions. Not public.**
+
 Based on your background, use this section to describe your qualifications to the selection committee.
 
 We welcome talks from first-time speakers, from industry experts, and from everyone in between. Whatever your background and experience, we prefer hearing about new approaches rather than about tried-and-tested technology. We especially welcome talks from underrepresented groups within the tech community.
@@ -58,3 +64,9 @@ We've accepted talks from people who work in a variety of roles, including:
 * Scientists
 * Librarians
 * Teachers
+
+{% if flagcfp %}
+
+Ready to `submit your talk </conf/atlantic/2024/cfp/#submit-your-proposal>`_
+
+{% endif %}
