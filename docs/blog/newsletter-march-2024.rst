@@ -5,7 +5,7 @@
 Write the Docs Newsletter – March 2024
 #########################################
 
-Ahoy, documentarians! The sun is shining more and more each day where I am, which brings with it a sense of growing optimism and energy. I hope you can find such postiive signs in your own lives, whatever they may be.
+Ahoy, documentarians! The sun is shining more and more each day where I am, which brings with it a sense of growing optimism and energy. I hope you can find such positive signs in your own lives, whatever they may be.
 
 In community news, the Portland 2024 conference has `announced its schedule </conf/portland/2024/news/announcing-schedule/>`__. So check out all the talks and start planning your experience.
 
