@@ -20,7 +20,7 @@ Every year, Write the Docs invites people from all across our community to come 
 We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!
 
 **The conference is virtual and all talks will be pre-recorded, allowing you to present and attend from anywhere!**
-Our video producer will be available to help with recording if you want it.
+Our video producer will be available to help with recording, at your request.
 Timezones permitting, there will be a remote live Q&A with our moderators after every talk.
 
 The schedule will run from the early afternoon to early evening in most European/African timezones,
