@@ -228,23 +228,56 @@ Subject:
 
    Hi {name},
 
-   We're just over a month away from meeting up in Portland! I hope you're feeling relaxed and confident.
+   We're just over a month away from meeting up in {{city}}! I hope you're feeling relaxed and confident.
 
-   The conference schedule is [live](https://www.writethedocs.org/conf/portland/2024/schedule/#monday-may-8)! :-)
+   The conference schedule is [live](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/)! :-)
 
    I've got a couple more small logistical checkboxes for you:
 
-   ○ please register your free [speaker ticket]({{cfp_variables['ticket']}}), it includes hoodies sizing for a conference hoodie.
+   ○ please register your free [speaker ticket]({{cfp_variables['ticket']}}).
 
-   ○ please make sure to log in to [Pretalx](https://pretalx.com/write-the-docs-portland-2024/login/) and fill out the questions on pronouns, name pronunciation and interests for our emcee intro.
+   ○ please make sure to log in to [Pretalx](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/) and fill out the questions on pronouns, name pronunciation and interests for our emcee intro. We also need your **hoodie size** for a free speaker hoodie!
 
-   We're finalizing details on the tech check and Q&A over the next weeks, and we'll be in touch in a week or so asking for a copy of your slides for our captioners!
+   We're finalizing details on the tech check and Q&A over the next weeks, and we'll be in touch in a couple of weeks for a copy of your slides for our captioners!
 
    In the meantime, if you have any questions at all about the event, you definitely know how to reach me by now.
 
    The Write the Docs Team
 
-05 - Post conf
+05 - Pre conf
+~~~~~~~~~~~~~~
+
+Slide uload dir:
+   {{cfp_variables['upload']}}
+
+
+----
+
+Subject:
+   WTD {{city}} {{year}} -- final touches
+
+::
+
+   Hi {name},
+
+   The conference is almost upon us! I hope you're all comfortably making the final touches to your presentations, and have your ideas lined up. I'm flying out next week, and am really looking forward to seeing what you'll all be sharing with us at the conference.
+
+   Here are a last few boxes to check when it comes to organization and logistics:
+
+   ○ Please [upload your slides]({{cfp_variables['upload']}}) for the captioners by {{cfp.slides_by}}. If you run into any trouble uploading them, please forward them as attachments to sam@writethedocs.org
+
+   ○ We'll be doing AV/laptop/slide checks at the stage, either first thing in the morning (8:00 am) or right before the lunch break. Please make sure you come say hi and do that, even if you think you don't need to 😉. I'll get some calendar invites out for those slots between now and then.
+
+   ○ If you've not already answered the questions about your pronouns, interests and names, please do [log in to Pretalx](https://pretalx.com/wwtd-{{shortcode}}-{{year}}/me/) and answer them, it makes life much easier for the folks doing the intros and Q&A.
+
+   There will be a quiet room for speakers where you can decompress before or after your talk, please ask me or the reg desk where to find it at the event.
+
+   If you have any questions at all about the event, you definitely know how to reach me by now.
+
+   The Write the Docs Team
+
+
+06 - Post conf
 ~~~~~~~~~~~~~~
 
 Feedback:

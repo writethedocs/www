@@ -158,7 +158,7 @@ cfp:
   url: https://pretalx.com/wtd-portland-2024/cfp  # Open November 6 (Mon) -> 9 weeks to submit
   ends: "January 15, 2024"                        # (Mon) 1 week, to review. It'll take a little longer to announce
   notification: "January 30, 2024"                # (Mon) 8 weeks to write and prepare
-  slides_by: "April 7, 2024"                      # (Mon) 1 week before
+  slides_by: "April 5, 2024"                      # (Mon) 1 week before
   preview: "https://writethedocs-www--2098.org.readthedocs.build/conf/portland/2024/schedule/"                                 # Preview URL TODO
 
 unconf:
