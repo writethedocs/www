@@ -185,6 +185,8 @@ Benefits
 Inquiries
 =========
 
+For more information on getting the most out of your sponsorship, see our  :doc:`/conf/{{shortcode}}/{{year}}/sponsors/information`.
+
 Please direct all inquiries to our sponsorship team at:
 
 - sponsorship@writethedocs.org
