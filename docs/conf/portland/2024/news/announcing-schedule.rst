@@ -26,7 +26,7 @@ Join us for our hike again this year
 
 Our hike will be in the amazing Forest Park, the largest urban forested park in the country. It is conveniently located in Northwest Portland, and has a beautiful walk along a creek.
 
-We'll be starting at Lower Macleay Park on Saturday, **{{ hike.date }}** at 1 PM. Please register a `free hike ticket <https://ti.to/writethedocs/write-the-docs-portland-2024/with/hike-ticket>`_ so we can contact you with any last minute weather and logistics information.
+We'll be starting at Lower Macleay Park on Saturday, **{{ hike.date }}** at 2 PM. Please register a `free hike ticket <https://ti.to/writethedocs/write-the-docs-portland-2024/with/hike-ticket>`_ so we can contact you with any last minute weather and logistics information.
 
 Start thinking about Writing Day
 --------------------------------

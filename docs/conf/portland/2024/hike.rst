@@ -14,7 +14,7 @@ It's rained on us in the past, but we have faith it will be beautiful this year!
 Schedule & Logistics
 --------------------
 
-- **Date:** **{{ hike.date }}**. Leaves promptly at 2pm. 
+- **Date:** **{{ hike.date }}**. Meet 15 minutes before the start time.
 - **Start:** Lower Macleay Park** (`Map link <https://goo.gl/maps/bU7MAMsKCJAbG3zFA>`__). Meet at the pavilion at the park entrance.
 - **End:** Oregon Zoo around 5pm, where we will take the MAX back to town. 
 
