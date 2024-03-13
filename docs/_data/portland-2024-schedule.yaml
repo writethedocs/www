@@ -1,9 +1,9 @@
 outing:
-  - time: '12:45'
+  - time: '13:45'
     title: Arrive at trailhead
-  - time: '13:00'
+  - time: '14:00'
     title: Hike starts
-  - time: '16:30'
+  - time: '17:00'
     title: Hike ends - end time approximate
 
 writing_day:
