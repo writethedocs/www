@@ -120,8 +120,9 @@ and displayed on our website as well.
 ### What does the conference provide for my booth setup?
 
 You will be given a booth in the main hallway on the 2nd floor of the venue. 
-- Each sponsor receives a 6 foot table and 2 chairs. 
-If you need a linen, please notify us by March 15.
+Each sponsor receives:
+- An 8 foot table and 2 chairs. 
+- If you need a linen, please notify us by March 15.
 - Power and wifi are provided. 
 
 ### What do I need for my booth?
