@@ -180,15 +180,20 @@ sponsors:
     - name: readme
       link: https://readme.com/?ref=writethedocs
       brand: ReadMe
+      text: "ReadMe transforms your API docs into interactive hubs that help developers succeed. Help developers make their first call faster, quickly troubleshoot issues along the way, and get insights into API usage to focus your team on the highest-impact improvements."
     - name: mongodb-new
       link: https://www.mongodb.com/?ref=writethedocs
       brand: MongoDB
+      text: "MongoDB's mission is to empower innovators to create, transform, and disrupt industries by unleashing the power of software and data. Built by developers, for developers, MongoDB's developer data platform is a database with an integrated set of related services that allow development teams to address the growing requirements for today's wide variety of modern applications."
     - name: jetbrains-svg
       link: https://jebrains.com/writethedocs
       brand: JetBrains
+      text: "JetBrains is a software development company known for best-of-class integrated development environments (IDEs) like IntelliJ IDEA, PyCharm, and WebStorm. With Writerside, JetBrains brings its expertise to technical writing."
     - name: zoomin-small
       link: https://www.zoominsoftware.com/?vert=Write_The_Docs_Portland&utm_medium=referral&utm_source=WriteTheDocs&utm_campaign=Write_The_Docs_Portland
       brand: Zoomin
+      text: "Zoomin is transforming the way enterprises offer and gain value from their product content.
+Our AI-infused content delivery platform lets you deliver knowledge from any source and format to wherever customers look for it, all within a personalized, unified and effortless experience. This radically improved content experience helps users successfully self-serve while deflecting cases away from overburdened support teams. Using proprietary analytics, Zoomin also provides actionable insights that guide decision-making across the enterprise. "
   publisher:
     # - name: jetbrains
     #   link: https://www.jetbrains.com/
@@ -225,6 +230,7 @@ sponsors:
     - name: google
       link: https://opensource.google/?ref=writethedocs
       brand: Google Open Source
+      text: "Google believes that open source is good for everyone. By being open and freely available, it enables and encourages collaboration and the development of technology."
     - name: readthedocs
       link: https://about.readthedocs.com/?ref=writethedocs
       brand: Read the Docs
