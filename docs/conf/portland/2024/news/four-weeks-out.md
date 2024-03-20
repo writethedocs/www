@@ -39,7 +39,7 @@ Online project submission is optional, and we have several day-of project submis
 
 ## How Do I Participate in the Conference? 
 
-There are a number of ways to engage in the conference. You can contribute to a Writing Day project, listen to Speaker Talks, facilitate an Unconference sesion, chat with our Sponsors, or join us on the Hike! 
+There are a number of ways to engage in the conference. You can contribute to a Writing Day project, listen to Speaker Talks, facilitate an Unconference session, chat with our Sponsors, or join us on the Hike! 
 
 View our [Attendee Guide](https://www.writethedocs.org/conf/portland/2024/attendee-guide/) for strategies and tips on how to get plugged in and connect with others!
 
