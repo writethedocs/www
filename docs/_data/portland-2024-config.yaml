@@ -234,6 +234,7 @@ Our AI-infused content delivery platform lets you deliver knowledge from any sou
     - name: readthedocs
       link: https://about.readthedocs.com/?ref=writethedocs
       brand: Read the Docs
+      text: "Read the Docs simplifies software documentation by building, versioning, and hosting of your docs, automatically. Treating documentation like code keeps your team in the same tools, and your documentation up to date."
     # - name: knowledgeowl
     #   link: https://www.knowledgeowl.com?ref=writethedocs
     #   brand: KnowledgeOwl

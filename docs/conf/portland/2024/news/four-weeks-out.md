@@ -13,7 +13,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 Write the Docs Portland is officially less than 4 weeks away! It's happening on April 14-16 this year.  Whether you're a programmer, tech writer, designer, project manager, developer advocate, we have talks and a community for you at Write the Docs.
 
-### Buy Your Tickets
+## Buy Your Tickets
 
 Still need a ticket? Now is a great time to [purchase your ticket](https://www.writethedocs.org/conf/portland/2024/tickets/) at one of our varying price levels.
 
@@ -21,7 +21,7 @@ Still need a ticket? Now is a great time to [purchase your ticket](https://www.w
 - Independent Tickets: $350
 - Corporate Tickets: $650
 
-### Volunteer
+## Volunteer
 
 Interested in attending the conference, being involved and getting a free ticket? Volunteering is an incredible opportunity to connect with others and contribute to making the conference a success.
 
@@ -29,7 +29,7 @@ Each individual who volunteers two 3-4 hours shifts receives a free ticket.
 
 **View our [Volunteer page](https://www.writethedocs.org/conf/portland/2024/volunteer/) for more information and complete the [Volunteer Application](https://docs.google.com/forms/d/e/1FAIpQLSfvU7kB_miEAPmHKiIynJ1fh7zsUEpgM2Xsya6Bm20olo3mYw/viewform) today.** 
 
-### Writing Day Projects
+## Writing Day Projects
 
 Writing Day online project submissions are open for one more week! Submit your project by **March 28, 2024,** to be promoted in our pre-conference Writing Day blog post and email.
 
@@ -46,9 +46,17 @@ View our [Attendee Guide](https://www.writethedocs.org/conf/portland/2024/attend
 View our [Schedule](https://www.writethedocs.org/conf/portland/2024/schedule/) page for exact times of the conference.
 
 
-### Thanks to our sponsors
+## Thanks to our sponsors
 
-We wanted to share a message from ReadMe, one of our sponsors:
+We are grateful to have the support of the following companies in 2024:
+
+```{eval-rst}
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-config.yaml
+   :template: {{year}}/sponsors-simplelist.rst
+```
+
+We wanted to share a message from ReadMe, one of our top sponsors:
 
 > **Create the best developer experience possible**
 
@@ -59,15 +67,5 @@ We wanted to share a message from ReadMe, one of our sponsors:
 > On the backend, real-time API metrics let you see which endpoints are the most popular, or where developers might be getting stuck, empowering your team to identify opportunities for improvement. When you pair that data (and the ability to quickly act on it) with interactive features like a personalized developer hub, the Try It! button, and Recipes, you have everything you need to create world-class API docs. 
 
 > Want to learn more? You can read [one technical writer’s ReadMe story](https://hubs.la/Q02pbD-S0) or [start your free trial today](https://hubs.la/Q02pbF6M0). 
-
--- 
-
-We are grateful to have the support of the following companies in 2024:
-
-```{eval-rst}
-.. datatemplate::
-   :source: /_data/{{shortcode}}-{{year}}-config.yaml
-   :template: {{year}}/sponsors-simplelist.rst
-```
 
 See you in April!
