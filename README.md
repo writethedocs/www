@@ -1,20 +1,28 @@
-## Write the Docs website
+# ✍️ Write the Docs website
 
-This is the code that powers [www.writethedocs.org](http://www.writethedocs.org). It contains information about the Write the Docs group, as well as information about writing documentation.
+🔵 This is the code that powers [www.writethedocs.org](http://www.writethedocs.org). It contains information about the Write the Docs group, as well as information about writing documentation.
 
-To contribute to the Write the Docs website, it's helpful to familiarize yourself with the [Sphinx site generator](https://www.sphinx-doc.org/), as well as [reStructuredText markup syntax](https://www.sphinx-doc.org/en/stable/rest.html).
+🔵 To contribute to the Write the Docs website, it's helpful to familiarize yourself with the [Sphinx site generator](https://www.sphinx-doc.org/), as well as [reStructuredText markup syntax](https://www.sphinx-doc.org/en/stable/rest.html).
 
-### Code Architecture
+## ⬅ Prerequisites for generating the docs locally
+
+1. Install `python 3.8.x` using your package manager, if not installed already. You'll probably need `root` privileges to do this.
+
+2. Generate a virtual environment for the WTD repo in the `venv` directory:
+
+    `virtualenv --python=/usr/bin/python3.8 venv`
+
+## 🗃 Code Architecture
 
 All of the generated website lives inside the `docs` directory, but many files outside the `conf/` directory are just static RST, as in any other Sphinx project.
 
 All RST files are rendered with [Jinja](https://jinja.palletsprojects.com/), which allows the use of Jinja tags in all of them. A few custom Jinja filters are available for things like generating photo paths for speakers.
 
-### Conference pages
+## 🎤 Conference pages
 
 For conferences, see [the conference site documentation](https://www.writethedocs.org/organizer-guide/confs/website/).
 
-### Videos
+## 🎞 Videos
 
 An even more fragile process that needs documenting and fixing.
 
@@ -24,7 +32,7 @@ WIP (Work In Progress) Docs on how to do this:
 
 2. Make sure the directory `videos/<city>/<year>` is included in the Video Archive `toctree` in `docs/videos/index.rst`.
 
-3. In the [virtual environment](#prerequisites-for-generating-the-docs-locally), switch to the `docs` directory and run `BUILD_VIDEOS=True make html`.
+3. In the [virtual environment](#-prerequisites-for-generating-the-docs-locally), switch to the `docs` directory and run `BUILD_VIDEOS=True make html`.
 
 4. Commit the *relevant* changed files:
 
@@ -36,7 +44,7 @@ WIP (Work In Progress) Docs on how to do this:
 
     1. Run `BUILD_VIDEOS=True make livehtml` and browse the new video pages at `http://127.0.0.1:8888`.
 
-#### Troubleshooting
+### 🧰 Troubleshooting
 
 If you run into trouble with broken links to video files, have a look at `_ext/fix_video_yaml.py`:
 
@@ -48,15 +56,7 @@ If you run into trouble with broken links to video files, have a look at `_ext/f
 
 3. Commit the fixed `_data/<year>.<city>.speakers.yaml` file.
 
-### Prerequisites for generating the docs locally
-
-1. Install `python 3.8.x` using your package manager, if not installed already. You'll probably need `root` privileges to do this.
-
-2. Generate a virtual environment for the WTD repo in the `venv` directory:
-
-    `virtualenv --python=/usr/bin/python3.8 venv`
-
-### Installing the project requirements
+## ⚙️ Installing the project requirements
 
 1. Activate the virtual environment according to your operating system:
 
@@ -69,8 +69,9 @@ If you run into trouble with broken links to video files, have a look at `_ext/f
 
 2. In the repository root directory (`www` by default), run `pip install -r requirements.txt` to install sphinx and other requirements.
 
-### Previewing the docs locally
+## 📖 Previewing the docs locally
 
+> ℹ Note:
 > Remember to activate the virtual environment using the appropriate command for your OS and Shell before running the following commands.
 
 1. In the `docs` directory, run `make livehtml` to view the docs on <http://127.0.0.1:8888/>.
@@ -79,21 +80,21 @@ If you're not seeing new content in the local preview, run `make clean` to delet
 
 The Write the Docs website is hosted on [Read the Docs](https://readthedocs.org/projects/writethedocs-www).
 
-### Updating the CSS
+## 🔄 Updating the CSS
 
 Styling is maintained in `docs/_static/conf/css/` as SASS. Convert SASS to minified CSS by installing SASS
 
-```
+```bash
 npm install -g sass
 ```
 
  and then running (using a 2022 example):
 
-```
+```bash
 sass --style=compressed docs/_static/conf/scss/main-2022.scss docs/_static/conf/css/main-2022.min.css
 ```
 
-### Deactivating venv
+## 💾 Deactivating venv to save resources
 
 After your work is complete, you can save resources by deactivating the
 virtual Python environment with the following command on Linux:
