@@ -48,17 +48,9 @@ View our [Schedule](https://www.writethedocs.org/conf/portland/2024/schedule/) p
 
 ## Thanks to our sponsors
 
-We are grateful to have the support of the following companies in 2024:
-
-```{eval-rst}
-.. datatemplate::
-   :source: /_data/{{shortcode}}-{{year}}-config.yaml
-   :template: {{year}}/sponsors-simplelist.rst
-```
+We wanted to share a message from [ReadMe](https://hubs.la/Q02pbF6M0), one of our top sponsors:
 
 ---
-
-We wanted to share a message from ReadMe, one of our top sponsors:
 
 **Create the best developer experience possible**
 
@@ -71,5 +63,14 @@ On the backend, real-time API metrics let you see which endpoints are the most p
 Want to learn more? You can read [one technical writer’s ReadMe story](https://hubs.la/Q02pbD-S0) or [start your free trial today](https://hubs.la/Q02pbF6M0). 
 
 ---
+
+We are grateful to have the support of the following companies in 2024:
+
+```{eval-rst}
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-config.yaml
+   :template: {{year}}/sponsors-simplelist.rst
+```
+
 
 See you in April!
