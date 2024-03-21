@@ -56,16 +56,20 @@ We are grateful to have the support of the following companies in 2024:
    :template: {{year}}/sponsors-simplelist.rst
 ```
 
+---
+
 We wanted to share a message from ReadMe, one of our top sponsors:
 
-> **Create the best developer experience possible**
+**Create the best developer experience possible**
 
-> ReadMe makes it easy to create beautiful, interactive API documentation that developers actually want to use. Getting started can be as simple as syncing your OpenAPI Spec file — after that, anyone can write content or make edits directly through ReadMe, in their choice of WYSIWYG or Markdown editors. 
+ReadMe makes it easy to create beautiful, interactive API documentation that developers actually want to use. Getting started can be as simple as syncing your OpenAPI Spec file — after that, anyone can write content or make edits directly through ReadMe, in their choice of WYSIWYG or Markdown editors. 
 
-> Three levels of nested content and clear navigation make it easy for users to drill down and find exactly the information they need, when they need it. Reusable Content Blocks save you the time of copying and pasting the same information onto every relevant page — and when it’s time to update that content, you only need to do it once. The result? A simpler workflow with fewer engineering bottlenecks. 
+Three levels of nested content and clear navigation make it easy for users to drill down and find exactly the information they need, when they need it. Reusable Content Blocks save you the time of copying and pasting the same information onto every relevant page — and when it’s time to update that content, you only need to do it once. The result? A simpler workflow with fewer engineering bottlenecks. 
 
-> On the backend, real-time API metrics let you see which endpoints are the most popular, or where developers might be getting stuck, empowering your team to identify opportunities for improvement. When you pair that data (and the ability to quickly act on it) with interactive features like a personalized developer hub, the Try It! button, and Recipes, you have everything you need to create world-class API docs. 
+On the backend, real-time API metrics let you see which endpoints are the most popular, or where developers might be getting stuck, empowering your team to identify opportunities for improvement. When you pair that data (and the ability to quickly act on it) with interactive features like a personalized developer hub, the Try It! button, and Recipes, you have everything you need to create world-class API docs. 
 
-> Want to learn more? You can read [one technical writer’s ReadMe story](https://hubs.la/Q02pbD-S0) or [start your free trial today](https://hubs.la/Q02pbF6M0). 
+Want to learn more? You can read [one technical writer’s ReadMe story](https://hubs.la/Q02pbD-S0) or [start your free trial today](https://hubs.la/Q02pbF6M0). 
+
+---
 
 See you in April!
