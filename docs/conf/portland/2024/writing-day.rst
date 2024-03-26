@@ -123,6 +123,13 @@ Our Writing Day goal is to test at least 10 docs sets! We want every writer to b
 
 Come by our table, and we'll help you set up Docs as Tests with whatever tools (such as Doc Detective) or strategies (like unit testing code snippets) are appropriate. Establish a zero-trust relationship between your docs and product, catching bugs in both as you go.
 
+Mutual Aid for Tech Writer/Documentarian Job Hunters
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Coordinated by Kenzie Woodbridge, they/them. Let's help each other get ready for our job searches!
+
+Are you thinking of applying for a new or different tech writer/documentarian jobs and would appreciate feedback on your resume? Or, are you responsible for hiring and know what you're looking for in a resume and application? Let's get together and offer each other some feedback on the important documentation we're using to move our careers forward.
+
 Meet the new GitBook
 ^^^^^^^^^^^^^^^^^^^^
 
