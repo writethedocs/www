@@ -136,13 +136,14 @@ Our Writing Day goal is to have several documentarians work in teams to create 3
 * Authentication
 * Quickstart guide
 
-Here's what we're providing to participants to make this work: 
+Here's what we're providing to participants: 
 
+* OpenAPI specification file
 * Access to a live server
 * Auth keys
 * General help and advice for new and experienced API writers
 
-At the end of the morning session, we will have the teams present their documentation to the table. Then we'll all vote on a "People's Choice Winner" - the winners receive [blank, bragging rights? swag?]
+At the end of the morning session, we will have the teams present their documentation to the table. Then we'll all vote on a "People's Choice" winner - the winners receive [blank, bragging rights? swag?]
 
 All participants will have continued access to their team's open source API documentation. This session is great for attendees looking to expand their portfolio.
 
