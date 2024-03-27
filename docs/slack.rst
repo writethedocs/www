@@ -237,7 +237,7 @@ Please be mindful with the following behaviors:
 - **Respect the Community's Privacy**
   Do not share WtD Slack content externally without permission from participants of that discussion. 
   Think of it like the `Chatham House Rule <https://en.wikipedia.org/wiki/Chatham_House_rule>`, and either ask for permission or anonymize the content.
-  Violating this rule may lead to an immediate ban of your account.
+  It is your responsibility, not the participants, to ensure that everyone has consented to your sharing of the content.
 
 Posting rules
 ~~~~~~~~~~~~~
