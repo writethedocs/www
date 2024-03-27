@@ -234,6 +234,10 @@ Please be mindful with the following behaviors:
 - **Avoid technology competitions.**
   It doesn't matter if your tool is faster or better in some metric.
   We care about creating great documentation for our users.
+- **Respect the Community's Privacy**
+  Do not share WtD Slack content externally without permission from participants of that discussion. 
+  Think of it like the `Chatham House Rule <https://en.wikipedia.org/wiki/Chatham_House_rule>`, and either ask for permission or sufficiently anonymize the content where no one could reasonably guess the author or source.
+  Violating this rule may lead to an immediate ban of your account.
 
 Posting rules
 ~~~~~~~~~~~~~
