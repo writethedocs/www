@@ -128,7 +128,28 @@ Mutual Aid for Tech Writer/Documentarian Job Hunters
 
 Coordinated by Kenzie Woodbridge, they/them. Let's help each other get ready for our job searches!
 
-Are you thinking of applying for a new or different tech writer/documentarian jobs and would appreciate feedback on your resume? Or, are you responsible for hiring and know what you're looking for in a resume and application? Let's get together and offer each other some feedback on the important documentation we're using to move our careers forward.
+Are you thinking of applying for a new or different tech writer/documentarian job and would appreciate feedback on your resume? Or, are you responsible for hiring and know what you're looking for in a resume and application? Let's get together and offer each other some feedback on the important documentation we're using to move our careers forward.
+
+Meet the new GitBook
+^^^^^^^^^^^^^^^^^^^^
+
+**Meet the team, explore the new GitBook, publish your first site**
+
+Our mission at `GitBook <https://gitbook.com/>`__ is to help you harness your team's knowledge!
+
+Our Writing Day goal is to teach you how to use your team's internal knowledge to the fullest. Documenting internal knowledge is often the last task in a sprint and most likely to be skipped or forgotten. This leads to knowledge gaps that can slow the progress towards your team's ultimate goals and reduce efficiency. GitBook is here to help you combat the knowledge gap and make docs effortlessly epic!
+
+That's not all, GitBook is bringing three Writing Day challenges. No matter your experience level, these challenges are designed to guide you through the tasks necessary to publish your first, but hopefully not last, GitBook knowledge site! The content on your knowledge site is up to you, it can be documentation, a company knowledge base, or something to help you plan the rest of your sprint. GitBook staff will be around to answer any questions you have.
+
+Writing Day challenges:
+
+- Publish your first site with GitBook
+- Install the Slack Integration and capture your first snippet
+- Import your docs from an existing repo or an open source project
+
+It gets better! For every challenge completed, you'll receive one (1) entry for our raffle to win an epic swag box! That means if you complete all 3 challenges, you'll get three (3) entries. More information about the raffle entry is available during each session.
+
+Already familiar with GitBook? We're looking for people like you to brainstorm features as. Help us make the ultimate documentation platform!
 
 *More projects coming, get excited!*
 
