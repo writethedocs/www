@@ -162,7 +162,7 @@ The `Museum API <https://github.com/Redocly/museum-openapi-example/tree/main>`__
 
 Our Writing Day goal is to onboard contributors and improve the Museum API definition. Help us create more complex use case examples like discriminator, webhooks, oneOf, allOf, etc. 
 
-Our end goal is to update the Museum API to better demonstrate all that OpenAPI has to offer.
+The Museum API was built specifically to teach OpenAPI concepts and to create a better developer experience. The more realistic and complex the Museum API is, the better it can demonstrate all that OpenAPI has to offer.
 
 *More projects coming, get excited!*
 
