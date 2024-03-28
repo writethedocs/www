@@ -25,6 +25,7 @@ Thank you Alyssa Rock for leading this program and spearheading both groups.
 Inactive groups
 ---------------
 
+* `Ottawa, ON, Canada <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/>`. Thank you Andrew Johnston for organizing.
 * `Istanbul, Turkey <https://www.meetup.com/wtdistanbul/>`_. Thank you Uğur Arıcı for organizing.
 * `Dublin, Ireland <https://www.meetup.com/write-the-docs-ireland/>`_. Thank you Vladislava Grosu for organizing.
 * `Budapest, Hungary <https://www.meetup.com/budapest-technical-content-creators/>`_. Thank you Rob Gillespie for organizing.
@@ -34,8 +35,10 @@ Inactive groups
 Archived groups
 ---------------
 
+* Location, Location. Thank you for organizing.
 * Philadelphia, PA (USA). Thank you Nathan Melehan, Leslie Salazar, and Andy Stevens for organizing.
 * Nashville, TN (USA). Thank you Pratishtha Singh for organizing.
 * Indianapolic, IN (USA). Thank you to Kevin Kuhns, Rachel Mahan, and Kelsey Lambert for organizing.
 * Chicago, IL (USA). Thank you Anthony Sansone for organizing.
+* Karlsruhe, Germany. Thank you Jana Aydinbas and Björn Wewer for organizing.
 * Rhineland, Germany. Thank you Juliane and Andrew for organizing.
