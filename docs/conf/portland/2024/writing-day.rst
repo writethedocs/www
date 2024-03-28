@@ -160,7 +160,7 @@ Project organizer Heather Cloward, she/her.
 
 The `Museum API <https://github.com/Redocly/museum-openapi-example/tree/main>`__is a sample OpenAPI description. It offers a set of endpoints to interact with a museum's services -- such as retrieving museum hours, managing special events, and purchasing tickets.
 
-Our Writing Day goal is to onboard contributers and improve the Museum API definition. Help us create more complex use case examples like discriminator, x-webhooks, nullable, recursive property, oneOf example, etc. 
+Our Writing Day goal is to onboard contributors and improve the Museum API definition. Help us create more complex use case examples like discriminator, webhooks, oneOf, allOf, etc. 
 
 Our end goal is to update the Museum API to better demonstrate all that OpenAPI has to offer.
 
