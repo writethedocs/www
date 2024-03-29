@@ -33,15 +33,15 @@ To lead an unconf session, propose a topic and pick a time; unconf sessions are 
 
 {% if unconf and unconf.url %}
 
-Sessions take place in Hopin, but you propose a session by adding your topic to a timeslot and table number in the  `Unconference sign-up sheet <{{unconf.url}}>`__.
+Sessions take place in the virtual conference platform, but you propose a session by adding your topic to a timeslot and table number in the  `Unconference sign-up sheet <{{unconf.url}}>`__.
 
 {% else %}
 
-Sessions take place in Hopin, but you propose a session by adding your topic to a timeslot and table number in the  Unconference sign-up sheet, which will be linked here closer to the event.
+Sessions take place in the virtual conference platform, but you propose a session by adding your topic to a timeslot and table number in the  Unconference sign-up sheet, which will be linked here closer to the event.
 
 {% endif %}
 
-When it's time for your session to begin, join the session in Hopin that corresponds to the table number you signed up for. There's a 15 minute break between sessions, but the previous session might still be running, so let them know it's time to switch. Give attendees a few minutes to join, then start the conversation!
+When it's time for your session to begin, join the session in the virtual conference platform that corresponds to the table number you signed up for. There's a 15 minute break between sessions, but the previous session might still be running, so let them know it's time to switch. Give attendees a few minutes to join, then start the conversation!
 
 When the next session leader joins your session, it's time to finish up the conversation and let the next session begin. Or your group can end with time to take a break before the next session.
 
@@ -49,13 +49,13 @@ We will start promoting the unconference sessions early in the day on the days o
 
 Keep in mind the following tips (inspired by the “Open Space Technology” infographic):
 
-* Whoever comes is the right people. You can get great results with 5 people or 20 people (the maximum size of sessions in Hopin). Sometimes it can be to have a smaller, but more engaged group in your session; sometimes your proposed topic will be very popular, and you'll need to pay attention to make sure that everyone has a chance to participate as they want.
+* Whoever comes is the right people. You can get great results with 5 people or 20 people (the maximum size of sessions in the virtual conference platform). Sometimes it can be to have a smaller, but more engaged group in your session; sometimes your proposed topic will be very popular, and you'll need to pay attention to make sure that everyone has a chance to participate as they want.
 
 * Whenever it starts within your allotted time slot is the right time. People might come and go during the session and that’s ok! If you are worried about lack of attendance, see the previous tip.
 
 * Whatever happens is the only thing that could have happened. Even though the session starts out with a topic, keep an open mind to the discussions that occur, and you might end up with a totally different outcome.
 
-* When it’s over, it’s over. The time slots help organize the sessions, but you can finish early if that's how things develop. If a group of you wants to continue the conversation after your time slot is over, you can organize your own session in Hopin, but be aware that it won't appear on the Hopin schedule, so it's up to the group that wants to keep talking to make sure everyone winds up in the right session.
+* When it’s over, it’s over. The time slots help organize the sessions, but you can finish early if that's how things develop. If a group of you wants to continue the conversation after your time slot is over, you can organize your own session in the virtual conference platform, but be aware that it won't appear on that schedule, so it's up to the group that wants to keep talking to make sure everyone winds up in the right session.
 
 Attend a session
 ----------------
@@ -66,7 +66,7 @@ Attend a session
 
 {% endif %}
 
-* At the time your chosen sessions start, join the session in Hopin that correspsond to the table number of the session. Sessions are limited to 20 participants, but you can check out a session without joining it too.
+* At the time your chosen sessions start, join the session in the virtual conference platform that correspond to the table number of the session. Sessions are limited to 20 participants, but you can check out a session without joining it too.
 
 * It's fine to join a session, decide it's not right for you, bow out politely, and join another session.
 
