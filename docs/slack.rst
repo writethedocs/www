@@ -237,7 +237,7 @@ Please be mindful with the following behaviors:
 - **Respect the privacy of your fellow community members.**
   We love it when people get inspired by the conversations they have in the Write the Docs Slack! When doing so, make sure you follow best practices when sharing information about those conversations in things like blog and LinkedIn posts.
   Make sure you always get permission in a public channel from participants in a discussion before sharing anything with any names attached. It is your responsibility, not the participants', to ensure that everyone has consented to be named in any external publications.
-  Otherwise, you can use the `Chatham House Rule <https://en.wikipedia.org/wiki/Chatham_House_rule>`as a guideline, and anonymize the content where no one could reasonably guess the author(s) or source.
+  Otherwise, you can use the `Chatham House Rule <https://en.wikipedia.org/wiki/Chatham_House_rule>`_ as a guideline, and anonymize the content where no one could reasonably guess the author(s) or source.
 
 Posting rules
 ~~~~~~~~~~~~~
