@@ -95,7 +95,7 @@ date:
   conference:
     event: Main Conference
     date: September 23-24
-#    summary: The main days of the conference. We will be running one main track, and an <a href="/conf/atlantic/2023/unconference/">Unconference</a>.
+#    summary: The main days of the conference. We will be running one main track, and an <a href="/conf/atlantic/2024/unconference/">Unconference</a>.
     summary: The main days of the conference. We will be running one main track, and an Unconference.
     icon: conference
   # These are listed in the schedule
@@ -137,7 +137,7 @@ about:
   summary:
     "The main presentation track takes place on **September 23-24 (Monday and Tuesday) from 12:00 to 18:00 UTC**.
     During the main event we also run an unconference."
-    #During the main event we also run an :doc:`/conf/atlantic/2023/unconference`."
+    #During the main event we also run an :doc:`/conf/atlantic/2024/unconference`."
   venue: "Hopin online conference platform"
   photos:
   mainroom: "Stage area"
@@ -147,11 +147,11 @@ about:
 
 cfp:
   url: https://pretalx.com/wtd-atlantic-2024/cfp
-  ends: "May 15, 2023"               # 2 weeks to review and get confirmation (Portland ends May 09)
-  notification: "June 01, 2023"      # 11 weeks to write and record
-  video_by: "August 23, 2023"        # 3 weeks before the conf
-  slides_by: "September 06, 2023"    # 2 weeks before the conf
-  #preview: "https://writethedocs-www--1982.org.readthedocs.build/conf/atlantic/2023/schedule/"
+  ends: "May 15, 2024"               # 2 weeks to review and get confirmation (Portland ends May 09)
+  notification: "June 01, 2024"      # 11 weeks to write and record
+  video_by: "August 23, 2024"        # 3 weeks before the conf
+  slides_by: "September 06, 2024"    # 2 weeks before the conf
+  #preview: "https://writethedocs-www--1982.org.readthedocs.build/conf/atlantic/2024/schedule/"
 
 grants:
 #  url: https://docs.google.com/forms/d/e/1FAIpQLSdHdUPNq949FGLws5JAMmhVNv48yKUVfnTqllKMpZSXS2Wuuw/viewform
@@ -159,7 +159,7 @@ grants:
 #  notification: "August 25, 2022"
 
 unconf:
-#  url: https://bit.ly/wtd-at-2023-ro
+#  url: https://bit.ly/wtd-at-2024-ro
 
 lightning_talks:
 #  signup_url: https://forms.gle/neYV6riRBw8gav9x6
