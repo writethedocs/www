@@ -164,6 +164,31 @@ Our Writing Day goal is to onboard contributors and improve the Museum API defin
 
 The Museum API was built specifically to teach OpenAPI concepts and to create a better developer experience. The more realistic and complex the Museum API is, the better it can demonstrate all that OpenAPI has to offer.
 
+Hyperlint - Let's tidy up your docs!
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Project organizer Bill Chambers, he/him.
+
+Calling all documentarians, we want to help you edit your documentation! 
+
+`Hyperlint <hyperlint.com>`__ is a docs-as-code tool for teams to more easily write and maintain their technical documentation.
+
+Our mission for Writing Day is to help you take the toil out of technical writing and make it easier to maintain documentation.
+
+Come to our table and we'll help you get setup with Hyperlint on YOUR docs repository, give you with free credits, and set you off on your way to improve your docs at the click of a button!
+
+After you set up Hyperlint, here's what you can do during Writing Day:
+
+1. Check to make sure you don't have any broken links on your website or get cross-link recommendations.
+2. Run large scale content editing and copyediting (everyone's favorite) on new or existing documentation for your project.
+3. Get actionable feedback on your documentation's information architecture. 
+4. Check for gaps in your existing OpenAPI specification and your existing documentation site.
+5. Run spelling and grammar checking on your OpenAPI specification.
+
+We want you to use Hyperlint to improve your documentation. We're providing this service to do two things: (1) benefit the documentarian community and (2) get product feedback since we've recently launched!
+
+Documentation is the entry way for your users, let's make sure it's a great experience!
+
 *More projects coming, get excited!*
 
 Contact Us
