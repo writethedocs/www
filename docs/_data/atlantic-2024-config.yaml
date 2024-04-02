@@ -96,6 +96,7 @@ date:
     event: Main Conference
     date: September 23-24
     summary: The main days of the conference. We will be running one main track, and an <a href="/conf/atlantic/2024/unconference/">Unconference</a>.
+    icon: conference
 #    summary: The main days of the conference. We will be running one main track, and an Unconference.ence
   # These are listed in the schedule
   day_one:
@@ -152,7 +153,7 @@ cfp:
   #preview: "https://writethedocs-www--1982.org.readthedocs.build/conf/atlantic/2024/schedule/"
 
 grants:
-  url: https://docs.google.com/forms/d/e/TODO/viewform
+  url: https://docs.google.com/forms/d/e/1FAIpQLSdfnmeZj_yl506GujA5-PvsZQxNCWCm3uCiQeuVbO3dRK_d6A/viewform
   ends: "August 1st, 2024"
   notification: "August 10th, 2024"
 

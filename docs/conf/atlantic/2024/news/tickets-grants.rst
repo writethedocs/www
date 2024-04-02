@@ -60,7 +60,7 @@ and are open for new sponsorship inquiries.
 
 .. _virtual sponsorship prospectus: https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/
 
-We will still run the `job fair <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/job-fair/>`_, helping documentarians and organizations connect with each other. Check out the sponsorship prospectus for more details and to reserve your spot today.
+Check out the sponsorship prospectus for more details and to reserve your spot today.
 
 Looking forward to seeing you all in our virtual space!
 
