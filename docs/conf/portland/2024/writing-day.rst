@@ -164,6 +164,19 @@ Our Writing Day goal is to onboard contributors and improve the Museum API defin
 
 The Museum API was built specifically to teach OpenAPI concepts and to create a better developer experience. The more realistic and complex the Museum API is, the better it can demonstrate all that OpenAPI has to offer.
 
+Write the Docs Documentation Salary Survey
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Project Organizer Kay Smoljak, she/her
+
+The WTD Salary Survey has been running annually since 2019, with the goal of identifying appropriate salary ranges and providing a basis for pay negotiations, as well as spark discussion on other topics such as remote work, pay transparency, and job satisfaction.   
+ 
+The format, questions and instructions have evolved each year, based on the submitted responses and feedback from the community, but it's largely been a one-person effort. The 2023 results - which will be available before Writing Day - are drawn from the largest respondent pool yet, and for the first time include structured as well as freeform feedback on the survey itself.
+
+Our Writing Day goal is to improve the clarity, inclusivity, neutrality, and relevance of the questions, the instructions, and the general flow of the survey. We're particularly interested in better catering to contractors, freelancers and self-employed people, as well as addressing potential privacy concerns and exploring ways to expand the respondent base. 
+
+This will be an afternoon project. Using a GitHub project with the site content and question text, we'll go over the constraints of the project, the feedback that's been received, and the areas we think are most in need of attention. Then it's over to you - everyone who works in documentation is a subject matter expert on this topic, and we want your ideas on how to make the survey better benefit the community as a whole. 
+
 *More projects coming, get excited!*
 
 Contact Us
