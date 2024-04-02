@@ -44,9 +44,11 @@
     <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/') }}"">About</a>
     <ul class="uk-nav-sub">
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/venue') }}">Venue</a></li>
-      <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/visiting') }}">Visiting {{ city }}</a></li>
-      <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/attendee-guide') }}">Attendee Guide</a></li>
-      <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/health') }}">Health and Safety Policy</a></li>
+      {% if not flagisvirtual %}
+          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/visiting') }}">Visiting {{ city }}</a></li>
+          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/attendee-guide') }}">Attendee Guide</a></li>
+          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/health') }}">Health and Safety Policy</a></li>
+      {% endif %}
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/code-of-conduct') }}">Code of Conduct</a></li>
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/volunteer') }}">Volunteer Info</a></li>
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/team') }}">Meet the Team</a></li>
