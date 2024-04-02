@@ -132,8 +132,8 @@ Let's help each other get ready for our job searches! Are you thinking of applyi
 
 Let's get together and offer each other some feedback on the important documentation we're using to move our careers forward.
 
-Meet the new GitBook
-^^^^^^^^^^^^^^^^^^^^
+Meet the new GitBook (Sponsor)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Project organizer Addison Schultz, he/him.
 
@@ -156,13 +156,38 @@ Already familiar with GitBook? We're looking for people like you to brainstorm f
 Use OpenAPI with the Museum API
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Project organizer Heather Cloward, she/her.
+Project organizer Heather Cloward, she/her. The `Museum API <https://github.com/Redocly/museum-openapi-example/tree/main>`__ wass built by Redocly for educational purposes.
 
-The `Museum API <https://github.com/Redocly/museum-openapi-example/tree/main>`__ is a sample OpenAPI description. It offers a set of endpoints to interact with a museum's services -- such as retrieving museum hours, managing special events, and purchasing tickets.
+The Museum API is a sample OpenAPI description. It offers a set of endpoints to interact with a museum's services -- such as retrieving museum hours, managing special events, and purchasing tickets.
 
 Our Writing Day goal is to onboard contributors and improve the Museum API definition. Help us create more complex use case examples like discriminator, webhooks, oneOf, allOf, etc. 
 
 The Museum API was built specifically to teach OpenAPI concepts and to create a better developer experience. The more realistic and complex the Museum API is, the better it can demonstrate all that OpenAPI has to offer.
+
+Write the Docs Documentation Salary Survey
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Project Organizer Kay Smoljak, she/her. Afternoon session.
+
+The WTD Salary Survey has been running annually since 2019, with the goal of identifying appropriate salary ranges and providing a basis for pay negotiations. It has sparked discussions on other topics such as remote work, pay transparency, and job satisfaction.
+
+The 2023 results - which will be announced before Writing Day - are drawn from the largest respondent pool yet, and for the first time include structured as well as freeform feedback on the survey itself.
+
+Our Writing Day project centers on updating the survey site content and question text on GitHub. We'll go over the: 
+
+* Constraints of the project.
+* Feedback we have received.
+* Areas we think are most in need of attention.
+
+Our Writing Day goal is to improve the clarity, inclusivity, neutrality, and relevance of the questions, the instructions, and the general flow of the survey. The format, questions, and instructions have evolved each year, based on the submitted responses and feedback from the community, but it's largely been a one-person effort.
+
+We're particularly interested in: 
+
+* Better catering to contractors, freelancers and self-employed people.
+* Addressing potential privacy concerns.
+* Exploring ways to expand the respondent base.
+
+This is where we need you the most! Everyone who works in documentation is a subject matter expert on this topic, and we want your ideas on how to make the survey better benefit the community as a whole.
 
 *More projects coming, get excited!*
 
