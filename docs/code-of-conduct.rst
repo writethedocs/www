@@ -152,17 +152,17 @@ If your report concerns a member of the :ref:`core-team`, which receives emails 
 Portland conference Code of Conduct Team
 ----------------------------------------
 
-.. include:: include/conf/coc/na-coc.rst
+.. include:: /include/conf/coc/na-coc.rst
 
 Atlantic conference Code of Conduct Team
 ----------------------------------------
 
-.. include:: include/conf/coc/eu-coc.rst
+.. include:: /include/conf/coc/eu-coc.rst
 
 Australia Code-of-Conduct Team
 ------------------------------
 
-.. include:: include/conf/coc/au-coc.rst
+.. include:: /include/conf/coc/au-coc.rst
 
 
 Thanks
