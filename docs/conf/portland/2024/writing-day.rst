@@ -132,8 +132,8 @@ Let's help each other get ready for our job searches! Are you thinking of applyi
 
 Let's get together and offer each other some feedback on the important documentation we're using to move our careers forward.
 
-Meet the new GitBook
-^^^^^^^^^^^^^^^^^^^^
+Meet the new GitBook (Sponsor)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Project organizer Addison Schultz, he/him.
 
@@ -156,9 +156,9 @@ Already familiar with GitBook? We're looking for people like you to brainstorm f
 Use OpenAPI with the Museum API
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Project organizer Heather Cloward, she/her.
+Project organizer Heather Cloward, she/her. The `Museum API <https://github.com/Redocly/museum-openapi-example/tree/main>`__ wass built by Redocly for educational purposes.
 
-The `Museum API <https://github.com/Redocly/museum-openapi-example/tree/main>`__ is a sample OpenAPI description. It offers a set of endpoints to interact with a museum's services -- such as retrieving museum hours, managing special events, and purchasing tickets.
+The Museum API is a sample OpenAPI description. It offers a set of endpoints to interact with a museum's services -- such as retrieving museum hours, managing special events, and purchasing tickets.
 
 Our Writing Day goal is to onboard contributors and improve the Museum API definition. Help us create more complex use case examples like discriminator, webhooks, oneOf, allOf, etc. 
 
@@ -167,15 +167,27 @@ The Museum API was built specifically to teach OpenAPI concepts and to create a 
 Write the Docs Documentation Salary Survey
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Project Organizer Kay Smoljak, she/her
+Project Organizer Kay Smoljak, she/her. Afternoon session.
 
-The WTD Salary Survey has been running annually since 2019, with the goal of identifying appropriate salary ranges and providing a basis for pay negotiations, as well as sparking discussion on other topics such as remote work, pay transparency, and job satisfaction.   
- 
-The format, questions and instructions have evolved each year, based on the submitted responses and feedback from the community, but it's largely been a one-person effort. The 2023 results - which will be available before Writing Day - are drawn from the largest respondent pool yet, and for the first time include structured as well as freeform feedback on the survey itself.
+The WTD Salary Survey has been running annually since 2019, with the goal of identifying appropriate salary ranges and providing a basis for pay negotiations. It has sparked discussions on other topics such as remote work, pay transparency, and job satisfaction.
 
-Our Writing Day goal is to improve the clarity, inclusivity, neutrality, and relevance of the questions, the instructions, and the general flow of the survey. We're particularly interested in better catering to contractors, freelancers and self-employed people, as well as addressing potential privacy concerns and exploring ways to expand the respondent base. 
+The 2023 results - which will be announced before Writing Day - are drawn from the largest respondent pool yet, and for the first time include structured as well as freeform feedback on the survey itself.
 
-This will be an afternoon project. Using a GitHub project with the site content and question text, we'll go over the constraints of the project, the feedback that's been received, and the areas we think are most in need of attention. Then it's over to you - everyone who works in documentation is a subject matter expert on this topic, and we want your ideas on how to make the survey better benefit the community as a whole. 
+Our Writing Day project centers on updating the survey site content and question text on GitHub. We'll go over the: 
+
+* Constraints of the project.
+* Feedback we have received.
+* Areas we think are most in need of attention.
+
+Our Writing Day goal is to improve the clarity, inclusivity, neutrality, and relevance of the questions, the instructions, and the general flow of the survey. The format, questions, and instructions have evolved each year, based on the submitted responses and feedback from the community, but it's largely been a one-person effort.
+
+We're particularly interested in: 
+
+* Better catering to contractors, freelancers and self-employed people.
+* Addressing potential privacy concerns.
+* Exploring ways to expand the respondent base.
+
+This is where we need you the most! Everyone who works in documentation is a subject matter expert on this topic, and we want your ideas on how to make the survey better benefit the community as a whole.
 
 *More projects coming, get excited!*
 
