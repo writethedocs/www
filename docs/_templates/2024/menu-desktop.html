@@ -17,7 +17,9 @@
             {% endif %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/lightning-talks') }}">Lightning Talks</a></li>
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/unconference') }}">Unconference</a></li>
-            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsor-expo') }}">Sponsor Expo</a></li>
+            {% if not flagisvirtual %}
+              <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsor-expo') }}">Sponsor Expo</a></li>
+            {% endif %}
             {% if flaghashike %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/hike') }}">Hike</a></li>
             {% endif %}
