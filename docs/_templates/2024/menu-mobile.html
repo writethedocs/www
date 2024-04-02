@@ -2,10 +2,6 @@
   <li class="uk-parent">
     <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/schedule') }}">Program</a>
     <ul class="uk-nav-sub">
-      {% if flaglivestreaming %}
-      <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/livestream') }}">Live Stream</a></li>
-      <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/qa') }}">Speaker Q&A</a></li>
-      {% endif %}
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/schedule') }}">Schedule</a></li>
       {% if flagspeakersannounced %}
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/speakers') }}">Speakers</a></li>
@@ -24,6 +20,10 @@
       {% endif %}
       {% if flaghasboat %}
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/boat') }}">Boat Ride</a></li>
+      {% endif %}
+      {% if flaglivestreaming %}
+      <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/livestream') }}">Live Stream</a></li>
+      <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/qa') }}">Speaker Q&A</a></li>
       {% endif %}
     </ul>
   </li>
