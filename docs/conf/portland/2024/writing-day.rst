@@ -169,7 +169,7 @@ Write the Docs Documentation Salary Survey
 
 Project Organizer Kay Smoljak, she/her
 
-The WTD Salary Survey has been running annually since 2019, with the goal of identifying appropriate salary ranges and providing a basis for pay negotiations, as well as spark discussion on other topics such as remote work, pay transparency, and job satisfaction.   
+The WTD Salary Survey has been running annually since 2019, with the goal of identifying appropriate salary ranges and providing a basis for pay negotiations, as well as sparking discussion on other topics such as remote work, pay transparency, and job satisfaction.   
  
 The format, questions and instructions have evolved each year, based on the submitted responses and feedback from the community, but it's largely been a one-person effort. The 2023 results - which will be available before Writing Day - are drawn from the largest respondent pool yet, and for the first time include structured as well as freeform feedback on the survey itself.
 
