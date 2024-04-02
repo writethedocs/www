@@ -156,7 +156,7 @@ Already familiar with GitBook? We're looking for people like you to brainstorm f
 Use OpenAPI with the Museum API
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Project organizer Heather Cloward, she/her. The `Museum API <https://github.com/Redocly/museum-openapi-example/tree/main>`__ wass built by Redocly for educational purposes.
+Project organizer Heather Cloward, she/her. The `Museum API <https://github.com/Redocly/museum-openapi-example/tree/main>`__ was built by Redocly for educational purposes.
 
 The Museum API is a sample OpenAPI description. It offers a set of endpoints to interact with a museum's services -- such as retrieving museum hours, managing special events, and purchasing tickets.
 
