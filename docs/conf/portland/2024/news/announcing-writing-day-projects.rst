@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 :og:image: /_static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
-.. post:: Apr 4, 2024
+.. post:: Apr 3, 2024
    :tags: {{shortcode}}-{{year}}, writing day, projects, oss projects
 
 Meet the first 5 Writing Day 2024 Projects
