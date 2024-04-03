@@ -16,21 +16,21 @@ Get excited, get delighted, and get ready to meet our first **5 Writing Day proj
 Docs as Tests & Doc Detective: Help us test your docs!
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Returning to us for their second Writing Day is Doc Detective with organizer Manny Silva, he/him. 
+Returning to us for their second Writing Day is Doc Detective with organizer Manny Silva (he/him). 
 
 "Does your project or product have a UI? APIs? SDKs? We can help you test them and keep your docs accurate." Check out their `project listing <https://www.writethedocs.org/conf/portland/2024/writing-day/#docs-as-tests-doc-detective-help-us-test-your-docs>`__ for more details.
 
 Mutual Aid for Tech Writer/Documentarian Job Hunters
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-They are joined by another fantastic returning project coordinated by Kenzie Woodbridge, they/them. Kenzie has hosted this `Writing Day session <https://www.writethedocs.org/conf/portland/2024/writing-day/#mutual-aid-for-tech-writer-documentarian-job-hunters>`__ at multiple Write the Docs conferences and we are absolutely thrilled that they continue to host it.
+They are joined by another fantastic returning project coordinated by Kenzie Woodbridge (they/them). Kenzie has hosted this `Writing Day session <https://www.writethedocs.org/conf/portland/2024/writing-day/#mutual-aid-for-tech-writer-documentarian-job-hunters>`__ at multiple Write the Docs conferences and we are absolutely thrilled that they continue to host it.
 
 "Let's get together and offer each other feedback on the important documentation we're using to move our careers forward."
 
 Meet the new GitBook (Sponsor)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Long time sponsor but first time submitter to Writing Day, swing by to `Meet the new GitBook <https://www.writethedocs.org/conf/portland/2024/writing-day/#meet-the-new-gitbook-sponsor>`__ and give a wave to Addison Schultz, he/him.
+Long time sponsor but first time submitter to Writing Day, swing by to `Meet the new GitBook <https://www.writethedocs.org/conf/portland/2024/writing-day/#meet-the-new-gitbook-sponsor>`__ and give a wave to Addison Schultz (he/him).
 
 "Our Writing Day goal is to teach you how to use your team's internal knowledge to the fullest."
 
@@ -39,7 +39,7 @@ That's not all, GitBook's Writing Day activities include 3 challenges. Completin
 Use OpenAPI with the Museum API
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-If you're an API enthusiast or want to be, find Heather Cloward, she/her, and check out the `Museum API <https://www.writethedocs.org/conf/portland/2024/writing-day/#use-openapi-with-the-museum-api>`__ project. The Museum API was built by our sponsor, Redocly, for educational purposes.
+If you're an API enthusiast or want to be, find Heather Cloward (she/her), and check out the `Museum API <https://www.writethedocs.org/conf/portland/2024/writing-day/#use-openapi-with-the-museum-api>`__ project. The Museum API was built by our sponsor, Redocly, for educational purposes.
 
 "Our Writing Day goal is to onboard contributors and improve the Museum API definition... The Museum API was built specifically to teach OpenAPI concepts and to create a better developer experience. The more realistic and complex the Museum API is, the better it can demonstrate all that OpenAPI has to offer."
 
@@ -48,14 +48,16 @@ Write the Docs Documentation Salary Survey
 
 Have you ever wanted to edit or suggest a question for the `WTD Documentation Salary Survey <https://www.writethedocs.org/conf/portland/2024/writing-day/#write-the-docs-documentation-salary-survey>`__? It is finally your moment!
 
-Join project organizer Kay Smoljak, she/her, for an afternoon only session focused on updating the salary survey.
+Join project organizer Kay Smoljak (she/her), for an afternoon only session focused on updating the salary survey.
 
-"Our Writing Day goal is to improve the clarity, inclusivity, neutrality, and relevance of the questions, the instructions, and the general flow of the survey... Everyone who works in documentation is a subject matter expert on this topic, and we want your ideas on how to make the survey better benefit the community as a whole." 
+"Our Writing Day goal is to improve the clarity, inclusivity, neutrality, and relevance of the questions, the instructions, and the flow of the survey.
+
+Everyone who works in documentation is a subject matter expert on this topic, and we want your ideas on how to make the survey better benefit the community as a whole." 
 
 Tabletop Game Rules Writing Workshop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-For those crafting tabletop games and their rulebooks, `this session <https://www.writethedocs.org/conf/portland/2024/writing-day/#tabletop-game-rules-writing-workshop>`__ is for you. Ryan Macklin, he/they, invites you to bring your enthusiasm and your own work-in-progress rules documents.
+For those crafting tabletop games and their rulebooks, `this session <https://www.writethedocs.org/conf/portland/2024/writing-day/#tabletop-game-rules-writing-workshop>`__ is for you. Ryan Macklin (he/they), invites you to bring your enthusiasm and your own work-in-progress rules documents.
 
 "Tabletop game rules are a neat and weird form of technical documentation!"
 
