@@ -192,7 +192,7 @@ This is where we need you the most! Everyone who works in documentation is a sub
 Tabletop game rules writing workshop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Project Organizer Ryan Macklin, they/he. Afternoon only session.
+Project Organizer Ryan Macklin, he/they. Afternoon only session.
 
 Tabletop game rules are a neat and weird form of technical documentation! 
 
@@ -200,7 +200,7 @@ If you're working on writing tabletop game rules or are interested in learning a
 
 The purpose for this Writing Day workship is to help:
 
-* Technical writers, who are also tabletop game writers, with their rules writing
+* Technical writers turning their craft toward game rules writing
 * Tabletop game writers understand that their skills are applicable to technical writing as a career
 
 **Note**: This is not a game design or playtesting session, purely a session about helping one another with the difficult task of rules writing.
