@@ -167,7 +167,7 @@ The Museum API was built specifically to teach OpenAPI concepts and to create a 
 Write the Docs Documentation Salary Survey
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Project Organizer Kay Smoljak, she/her. Afternoon session.
+Project Organizer Kay Smoljak, she/her. Afternoon only session.
 
 The WTD Salary Survey has been running annually since 2019, with the goal of identifying appropriate salary ranges and providing a basis for pay negotiations. It has sparked discussions on other topics such as remote work, pay transparency, and job satisfaction.
 
@@ -188,6 +188,22 @@ We're particularly interested in:
 * Exploring ways to expand the respondent base.
 
 This is where we need you the most! Everyone who works in documentation is a subject matter expert on this topic, and we want your ideas on how to make the survey better benefit the community as a whole.
+
+Tabletop game rules writing workshop
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Project Organizer Ryan Macklin, he/they. Afternoon only session.
+
+Tabletop game rules are a neat and weird form of technical documentation! 
+
+If you're working on writing tabletop game rules or are interested in learning about that, join me during the Writing Day afternoon session. You can bring your own work-in-progress rules documents, and I'll have some work-in-progress rules as well. 
+
+The purpose for this Writing Day workship is to help:
+
+* Technical writers turning their craft toward game rules writing
+* Tabletop game writers understand that their skills are applicable to technical writing as a career
+
+**Note**: This is not a game design or playtesting session, purely a session about helping one another with the difficult task of rules writing.
 
 *More projects coming, get excited!*
 
