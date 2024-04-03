@@ -70,7 +70,7 @@ Remember, you can still `submit a project <https://www.writethedocs.org/conf/por
 
 No matter when you sign up, you are welcome here.
 
-With excitement, delightment, and enthusiam,
+With excitement, delightment, and enthusiasm,
 
 Rose Williams 
 Writing Day Coordinator
