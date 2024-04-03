@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: April 2nd, 2024
+.. post:: April 3rd, 2024
    :tags: {{shortcode}}-{{year}}, website, tickets
 
 Announcing Ticket Sales and Grant Program
