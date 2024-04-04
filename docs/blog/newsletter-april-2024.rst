@@ -123,9 +123,9 @@ Zoomin's 2024 Technical Content Benchmark report analyzes content interactions o
 
 * How your peers are faring in deflecting cases through documentation
 * The search KPIs you should be benchmarking
-* The data you need to measure content efficiency.
+* The data you need to measure content efficiency
 
-`Access the report here <https://go.zoominsoftware.com/l/1018802/2024-04-04/2brkz>`_
+`Access the report here <https://go.zoominsoftware.com/l/1018802/2024-04-04/2brkz>`_.
 
 P.S. - We're sponsoring Write the Docs Portland! Come by the Zoomin booth to learn more about quantifying technical content impact.
 
