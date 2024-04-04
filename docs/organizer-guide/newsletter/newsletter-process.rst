@@ -50,6 +50,8 @@ Assemble & review the newsletter (2-3 days before shipping)
 
 Once all the story drafts have come in, it's time to assemble, based on the outline template::
 
+   :og:image: https://www.writethedocs.org/_static/logo-opengraph.png
+
    .. post:: January 01, 2022
       :tags: newsletter
 
