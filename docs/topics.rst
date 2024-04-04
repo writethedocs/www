@@ -280,6 +280,7 @@ Jobs and careers
 Hiring
 ~~~~~~~
 
+- |:newspaper:| `Questions To Ask as an Interviewer </blog/newsletter-april-2024/#questions-to-ask-as-an-interviewer>`__
 - |:movie_camera:| `Fostering Technical Writing in Developing Nations </videos/prague/2019/fostering-technical-writing-in-developing-nations-prerana-pradhan/>`__
 - |:newspaper:| `Using writing tests when hiring </blog/newsletter-august-2019/#using-writing-tests-when-hiring>`__
 - |:newspaper:| `Running objective interviews </blog/newsletter-june-2019/#running-objective-interviews>`__
@@ -508,6 +509,7 @@ Doc tools
 Docs-as-code
 ~~~~~~~~~~~~
 
+- |:newspaper:| `Docs with Code Or Just as Code? </blog/newsletter-april-2024/#docs-with-code-or-just-as-code>`__
 - |:newspaper:| `Docs with Code Or Just as Code? </blog/newsletter-october-2023/#docs-with-code-or-just-as-code>`__
 - |:newspaper:| `Semantic Linefeeds </blog/newsletter-march-2023/#semantic-linefeeds>`__
 - |:movie_camera:| `One AWS team’s move to docs as code: what worked, what didn’t, what’s next </videos/portland/2022/one-aws-team-s-move-to-docs-as-code-what-worked-what-didn-t-what-s-next-marcia-riefer-johnston/>`__
@@ -538,6 +540,7 @@ DITA
 AI and LLMs
 ~~~~~~~~~~~
 
+- |:newspaper:| `Accelerating Documentation Creation with AI </blog/newsletter-april-2024/#accelerating-documentation-creation-with-ai>`__
 - |:newspaper:| `Iterative Writing with a Chatbot </blog/newsletter-march-2024/#iterative-writing-with-a-chatbot>`__
 - |:newspaper:| `Structured Authoring and Large Language Models (LLMs) </blog/newsletter-february-2024/#structured-authoring-and-large-language-models-llms>`__
 - |:newspaper:| `Documenting AI </blog/newsletter-march-2023/#documenting-ai>`__
@@ -617,7 +620,8 @@ Measuring docs success
 Metrics
 ~~~~~~~
 
-- |:newspaper:| `Measuring Docs Quality </blog/newsletter-november-2023/#doc-team-organization>`__
+- |:newspaper:| `Do Readability Scores Have Value? </blog/newsletter-april-2024/#do-readability-scores-have-value>`__
+- |:newspaper:| `Measuring Docs Quality </blog/newsletter-november-2023/#measuring-docs-quality>`__
 - |:movie_camera:| `Measuring the impact of your documentation </videos/prague/2018/measuring-the-impact-of-your-documentation-liam-keegan/>`__
 - |:newspaper:| `Documentation metrics </blog/newsletter-september-2017/#resources-for-documentation-metrics>`__
 - |:newspaper:| `More on metrics </blog/newsletter-april-2017/#documentation-metrics-what-to-track-and-how>`__
