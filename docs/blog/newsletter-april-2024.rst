@@ -111,17 +111,23 @@ This month’s newsletter is sponsored by `Zoomin <https://www.zoominsoftware.co
 
 ------
 
-.. image:: /_static/img/sponsors/zoomin-2024.jpg
+.. image:: /_static/img/sponsors/zoomin-apr-2024.jpg
   :align: center
   :width: 75%
-  :target: https://www.zoominsoftware.com/watch-a-demo?utm_medium=referral&utm_source=WTD&utm_campaign=march_newsletter&utm_content=watch_demo
-  :alt: Zoomin is AI-infused content delivery
+  :target: https://go.zoominsoftware.com/l/1018802/2024-04-04/2brkz
+  :alt: 2024 Technical Content Benchmark Report
 
-**Deliver a unified multichannel content experience with Zoomin**
+**Measure your content performance against industry benchmarks**
 
-Is your content scattered across a maze of separate sites? Are different teams creating their own content, using their separate authoring tools and publishing to siloed channels? A fragmented content experience is frustrating for users who are forced to context-switch and may be navigating outdated and inconsistent content.
+Zoomin's 2024 Technical Content Benchmark report analyzes content interactions of over 97 million user sessions to provide a detailed overview of what good looks like in techcomm and the KPIs you should be looking at. Download the report to learn more about:
 
-`Zoomin <https://www.zoominsoftware.com/>`__'s content delivery platform helps you provide a seamlessly unified self-service experience to your users. We ingest your enterprise's entire corpus of content, no matter who created it or which  formats they use. We then surface it at every channel where your customers are looking for answers: your docs portal, developer portal, support site, inside your product and more. Sprinkle in some powerful search, navigation, personalization and AI capabilities and you have a truly effortless self-service experience. See `our product walkthrough <https://www.zoominsoftware.com/watch-a-demo?utm_medium=referral&utm_source=WTD&utm_campaign=march_newsletter&utm_content=watch_demo>`__ or `schedule a meeting <https://www.zoominsoftware.com/book-a-meeting>`__ to learn more.
+* How your peers are faring in deflecting cases through documentation
+* The search KPIs you should be benchmarking
+* The data you need to measure content efficiency.
+
+`Access the report here <https://go.zoominsoftware.com/l/1018802/2024-04-04/2brkz>`_
+
+P.S. - We're sponsoring Write the Docs Portland! Come by the Zoomin booth to learn more about quantifying technical content impact.
 
 ------
 
