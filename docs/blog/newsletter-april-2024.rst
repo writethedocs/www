@@ -7,11 +7,11 @@ Write the Docs Newsletter – April 2024
 
 Hail to you, documentarians! I am writing with birds singing outside my window to celebrate the coming of spring (or so I tell myself). I hope you are able to find some sounds that bring you hope for the future.
 
-In the near future, the `Portland 2024 conference </conf/portland/2024/>`__ is just around the corner, starting on April 14th. I hope all of you who are able to attend come away with amazing ideas and connections. For the rest of us, Write the Docs Atlantic 2024 has now opened `ticket sales and grant applications </conf/atlantic/2024/news/tickets-grants/>`__. Plus the `Call for Proposals </conf/atlantic/2024/cfp/>`__ is still open until May 15th, so submit your proposals while you can.
+In the near future, the `Portland 2024 conference </conf/portland/2024/>`__ is starting on April 14th. I hope all of you who are able to attend come away with amazing ideas and connections. For the rest of us, Write the Docs Atlantic 2024 has now opened `ticket sales and grant applications </conf/atlantic/2024/news/tickets-grants/>`__. Plus the `Call for Proposals </conf/atlantic/2024/cfp/>`__ is still open until May 15th, so submit your proposals while you can.
 
-Speaking of conferences, we're furiously putting the finishing touches on the results of the 2023 Documentation Salary Survey so we can publish before the Portland conference starts. The best ever response for this survey has meant that there's been a mountain of really fascinating data to process, and we can't wait to share the insights with you! If you're going to be attending Writing Day in Portland this year, we're going to be running a session to improve the clarity, inclusivity, and relevance of the questions. 
+Speaking of conferences, we're furiously putting the finishing touches on the results of the 2023 Documentation Salary Survey so we can publish before the Portland conference starts. The most ever responses for this survey has meant that there's been a mountain of really fascinating data to process, and we can't wait to share the insights with you! If you're going to be in Portland this year, we're also going to be running a Writing Day session to improve the clarity, inclusivity, and relevance of the questions. 
 
-Our articles this month cover the value of measuring docs by readability scores, whether AI is helping speed up docs creation right now, what questions to ask when hiring for a documentarian position, and whether and how to combine docs and code changes. I hope you enjoy and let us know what you're thinking about.
+Our articles this month cover the value of measuring docs by readability scores, whether AI is speeding up docs creation, what questions to ask when hiring a documentarian, and whether and how to combine docs and code changes. I hope you enjoy and let us know what you're thinking about.
 
 ---------------------------------
 Do Readability Scores Have Value?
@@ -62,10 +62,6 @@ The WTD community offers valuable resources for job seekers, many captured in th
 - Do you take the initiative on docs retros or create presentations for the team?
 
 - Do you like to stretch beyond writing?
-
-- What other profession would you like to try?
-
- - This isn't a common interview question, so it shows how candidates respond to something they may not be prepared for.
 
 - What's one thing we're doing wrong?
 
