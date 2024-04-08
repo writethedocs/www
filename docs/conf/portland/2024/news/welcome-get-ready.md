@@ -77,7 +77,7 @@ We have a wonderful community of diverse and amazing people. We expect everyone 
 
 **Join us at our opening Welcome Reception Sunday evening from 5-7pm.** Pick up your badge and enjoy a couple of drinks and snacks on us. Meet attendees before the conference starts, and skip the Monday morning check-in rush!
 
-**Attend our speaker talks on Monday and Tuesday!** Have you looked at our schedule and selected the talks you want to attend? [View our lineup here.](https://www.writethedocs.org/conf/portland/2023/speakers/) 
+**Attend our speaker talks on Monday and Tuesday!** Have you looked at our schedule and selected the talks you want to attend? [View our lineup here.](https://www.writethedocs.org/conf/portland/2024/speakers/) 
 
 **Lead or attend an Unconference session.** Want to chat with like-minded folks about a very specific topic? The [Unconference](https://www.writethedocs.org/conf/portland/2024/unconference/) is your place. Sessions are all day Monday and Tuesday, and sign ups to lead a session begins on Sunday. 
 
