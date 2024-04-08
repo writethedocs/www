@@ -142,11 +142,10 @@ If you have a specific idea for your booth, send us an email and let us know!
 
 ### How should I send my booth materials?
 
-We allow shipping ahead of time, but the venue doesn't accept packages. You'll be given shipping information for an organizer, and they will bring your materials to the venue for you.
+We allow shipping ahead of time, but the venue doesn't accept packages. You'll be given shipping information for an organizer, and they will bring your materials to the venue for you. Please contact us for the shipping address.
 
 Sponsors are responsible for all sponsorship materials after they arrive at the venue.
 We recommend that you bring a return shipping label to send your materials back,
 and arranging with the shipping company to pick up your materials after the conference.
-
 
 {% endif %}
