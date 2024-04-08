@@ -24,18 +24,20 @@ Below is a schedule overview. The full schedule, including break times will be p
 **MONDAY**:
 
 * 7:30am: Sponsor Arrival and Booth Set up (Full Conference Sponsors)
-* 8:00am: Doors to Venue and Check in
+* 8:00am: Doors to Venue
+* 8:30am: Sponsor booths officially open
 * 9:00am-4:30pm: Speaker Talks and Unconference
 * 4:30-6:30pm: Evening Break
 * 6:30-8:30pm: Evening Party!
 
 **TUESDAY**:
 
-* 7:30am: Sponsor Arrival (Half Day Sponsors)
+* 7:30am: Sponsor Arrival and Booth Set up (Half Day Sponsors)
 * 8:00am: Doors to Venue
-* 9:00am-12:00pm: Sponsor Expo
-* 9:00am-5:00pm: Speaker Talks and Unconference
-* 5:00pm: Conference wraps
+* 8:30am: Sponsor booths officially open
+* 9:00am-4:00pm: Speaker Talks and Unconference
+* 4:00pm: Conference wraps
+* 4:30pm: Sponsor teardown 
 
 Please let us know if there is any information missing that would be useful for you.
 
@@ -137,6 +139,14 @@ We recommend:
 -   QR codes, handouts and ways for attendees to engage with you online after the event.
 
 If you have a specific idea for your booth, send us an email and let us know!
+
+### How should I send my booth materials?
+
+We allow shipping ahead of time, but the venue doesn't accept packages. You'll be given shipping information for an organizer, and they will bring your materials to the venue for you.
+
+Sponsors are responsible for all sponsorship materials after they arrive at the venue.
+We recommend that you bring a return shipping label to send your materials back,
+and arranging with the shipping company to pick up your materials after the conference.
 
 
 {% endif %}
