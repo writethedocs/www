@@ -15,11 +15,11 @@ We officially have arrived at conference week. We hope you are as excited as we 
 
 This email includes a few updates for those not attending, and all the information that is useful if you are!
 
-## Live Stream
+## Livestream
 
-If you are unable to attend the conference in person, we will be broadcasting all the main stage presentations on April 15 and 16 on our [Live Stream page](https://www.writethedocs.org/conf/portland/2024/livestream/). 
+If you are unable to attend the conference in person, we will be broadcasting all the main stage presentations on April 15 and 16 on our [Livestream page](https://www.writethedocs.org/conf/portland/2024/livestream/). 
 
-If you watch the livestream and get value from it, we have an optional Livestream ticket you can purchase. It has a suggested price of $50, but you're welcome to pay what you can.
+If you watch the livestream and get value from it, we have an optional ticket you can purchase. It has a suggested price of $50, but you're welcome to pay what you can.
 
 Join the #wtd-conferences channel on Slack to connect with other remote attendees, ask questions, and troubleshoot technical issues with the stream. We are excited that folks can watch the conference talks from anywhere in the world with an internet connection!
 
