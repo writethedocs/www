@@ -45,7 +45,10 @@ We are grateful to have the support of the following companies in 2024:
    :template: {{year}}/sponsors-simplelist.rst
 ```
 
+## Attendee information
 
+The following info will be sent out to each attendee directly,
+but we wanted to share it here as well.
 
 ### Read the Attendee Guide
 
