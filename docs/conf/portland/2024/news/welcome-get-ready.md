@@ -33,7 +33,7 @@ GitBook combines powerful docs with AI-powered search and insights to give techn
 
 And if you need private documentation for specific users or groups? No problem! With visitor authentication you can easily protect access to your published docs so only your chosen customers, team members or authorized users can view your content.
 
-Check out [gitbook.com](https://www.gitbook.com/?ref=writethedocs) or come see us at Write The Docs Portland to learn more (and grab some epic swag)!
+Check out [gitbook.com](https://www.gitbook.com/?ref=writethedocs) or come see us at Write the Docs Portland to learn more (and grab some epic swag)!
 
 ---
 
