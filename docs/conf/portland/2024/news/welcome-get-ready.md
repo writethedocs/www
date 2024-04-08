@@ -9,13 +9,13 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
    :tags: {{shortcode}}-{{year}}, tickets, guide, visiting
 ```
 
-## Welcome to Write the Docs Portland 2024
+# Welcome to Write the Docs Portland 2024
 
 We officially have arrived at conference week. We hope you are as excited as we are! We still [have tickets available](https://www.writethedocs.org/conf/portland/2024/tickets/) if you are able to join us.
 
 This email includes a few updates for those not attending, and all the information that is useful if you are!
 
-### Live Stream
+## Live Stream
 
 If you are unable to attend the conference in person, we will be broadcasting all the main stage presentations on April 15 and 16 on our [Live Stream page](https://www.writethedocs.org/conf/portland/2024/livestream/). 
 
@@ -23,20 +23,43 @@ If you watch the livestream and get value from it, we have an optional Livestrea
 
 Join the #wtd-conferences channel on Slack to connect with other remote attendees, ask questions, and troubleshoot technical issues with the stream. We are excited that folks can watch the conference talks from anywhere in the world with an internet connection!
 
+## Thanks to our Sponsors!
 
-#### Read the Attendee Guide
+We wanted to share a message from [GitBook](https://www.gitbook.com/?ref=writethedocs), one of our top sponsors:
+
+---
+
+GitBook combines powerful docs with AI-powered search and insights to give technical writers, developers and teams a single source of truth for their documentation. From keeping your documentation in sync with your codebase through two-way Git Sync to quickly finding and fixing outdated info with AI, GitBook makes it effortless to create, surface and improve documentation that your users and teams will love.
+
+And if you need private documentation for specific users or groups? No problem! With visitor authentication you can easily protect access to your published docs so only your chosen customers, team members or authorized users can view your content.
+
+Check out [gitbook.com](https://www.gitbook.com/?ref=writethedocs) or come see us at Write The Docs Portland to learn more (and grab some epic swag)!
+
+---
+
+We are grateful to have the support of the following companies in 2024:
+
+```{eval-rst}
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-config.yaml
+   :template: {{year}}/sponsors-simplelist.rst
+```
+
+
+
+### Read the Attendee Guide
 
 Our [**Attendee Guide**](https://www.writethedocs.org/conf/portland/2024/attendee-guide/) provides conference information and gives strategies and tips for new and experienced attendees to get plugged in. We just added the conference layout map to help you navigate your experience. Our Welcome Wagon Team is available to make your conference experience better. Join a tour or stop by their table! 
 
-#### Read the Visiting Portland information 
+### Read the Visiting Portland information 
 
 View our [**Visiting Portland**](https://www.writethedocs.org/conf/portland/2024/visiting/) page on where to stay, eat, drink, get around, and other things to do while you’re in town.
 
-#### Review the Schedule 
+### Review the Schedule 
 
 The [**Schedule**](https://www.writethedocs.org/conf/portland/2024/schedule/#) page has the latest and most complete information about conference events. This is where we will also post updates if any changes occur.
 
-#### Review the Code of Conduct
+### Review the Code of Conduct
 
 We have a wonderful community of diverse and amazing people. We expect everyone to behave in a respectful manner at all conference events, off-site events, and in online channels. View our [**Code of Conduct**](https://www.writethedocs.org/code-of-conduct/). 
 
@@ -90,8 +113,6 @@ The Quiet Room on the 2nd floor is designated for a moment to turn off the noise
 **Do you have a Mother's Room?**
 
 Yes, visit Registration to get the location and code.  
-
-## Thanks to our Sponsors!
 
 
 
