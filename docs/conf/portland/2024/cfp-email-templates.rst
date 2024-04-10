@@ -183,7 +183,7 @@ Provisional schedule:
 ----
 
 Subject:
-   WTD {{city}} {{year}} -- schedule and upload drive
+   WTD {{city}} {{year}} -- provisional schedule
 
 ::
 
@@ -191,25 +191,19 @@ Subject:
 
    Hope you're all well!
 
-   We're about five weeks out from the conference now, lots of stuff is happening behind the scenes, and I hope you're feeling good about recording.
+   We're about seven weeks out from the conference now, lots of stuff is happening behind the scenes, and I hope you're feeling good about writing and speaking.
 
-   We've got a [provisional schedule]({{cfp.preview}}) up, and I'd *love it* if you could check your time-slot and make sure you can do a live Q&A shortly after your talk is streamed. I've tried to cater to all timezone requirements, but if you can't make your Q&A slot let me know and I'll refactor. We'll be publishing the schedule on **Monday**.
+   We've got a [provisional schedule]({{cfp.preview}}) up, I've taken note of all of your requests, but I'd *love it* if you could check your time-slot and make sure it works for you.
 
-   We're trying something new this year, and doing one Q&A for two talks, so it'll be live call with the emcee, and two speakers (or more for talks with multiple speakers). A mini panel if you will. The exact format for each Q&A will be casual conversation style, the emcee passing moderated questions from the audience to one speaker or the other (or even both where applicable).
+   We're keeping the Q&A sessions in our live envent. Questions submitted by the audience are moderated by the emcee, and asked in a conversation style directionly after your talk.
 
-   A few folks asked where to upload talk recordings when you have them (by **{{cfp.video_by}}** right?):
+   You might find it useful to check out the [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) and the [what to expect guide](https://www.writethedocs.org/blog/what-to-expect-as-a-speaker/).
 
-   * [Talk recording upload]({{cfp_variables['upload']}})
+   As we've done for the past few years we'll be live captioning all talks, and it makes the [captioners](https://www.youtube.com/watch?v=xFnM6vmvWaI) lives *much* easier if you can send in a copy of your slides, or even a word list of unusual words that you might use. We'll let you know where to send these a few weeks before the conference.
 
-   If you'd like help recording that, let me know and I'll book you a slot with our videographer Bart.
+   In a few weeks I'll be in touch with some calendar invites for a sound check during the conference, to make sure we're all good with slides, audio and video.
 
-   You might find it useful to check out the [Recording guidelines](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/talk-recording-guidelines/) and [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) for virtual conferences.
-
-   And while we're here, 😉 if you don't have a profile picture set in [Pretalx](https://pretalx.com/write-the-docs-portland-2022/login/), now would be a great time to add one, and to fill out the questions on pronouns, name pronuniation and interests for our emcee intro.
-
-   As we've done for the past few years we'll be live captioning all talks, and it makes the [captioners](https://www.youtube.com/watch?v=xFnM6vmvWaI) lives *much* easier if you can send in a copy of your slides, or even a word list of unusual words that you might use. Please upload those to the [Talk recording drive]({{cfp_variables['upload']}}) by **{{cfp.slides_by}}**.
-
-   In a few weeks I'll be in touch with some calendar invites for a sound check during the conference, to make sure you're all sorted with Hopin logins, audio and video, and to answer any questions you might have.
+   Lastly, if you'd like to share your talk with your social networks, we've got a page to [help with that](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-media/).
 
    And I think that is it! I'm excited to see this taking shape and excited to see all of your hard work on the virtual stage!
 
@@ -234,23 +228,56 @@ Subject:
 
    Hi {name},
 
-   We're just over a month away from meeting up in Portland! I hope you're feeling relaxed and confident.
+   We're just over a month away from meeting up in {{city}}! I hope you're feeling relaxed and confident.
 
-   The conference schedule is [live](https://www.writethedocs.org/conf/portland/2024/schedule/#monday-may-8)! :-)
+   The conference schedule is [live](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/)! :-)
 
    I've got a couple more small logistical checkboxes for you:
 
-   ○ please register your free [speaker ticket]({{cfp_variables['ticket']}}), it includes hoodies sizing for a conference hoodie.
+   ○ please register your free [speaker ticket]({{cfp_variables['ticket']}}).
 
-   ○ please make sure to log in to [Pretalx](https://pretalx.com/write-the-docs-portland-2024/login/) and fill out the questions on pronouns, name pronunciation and interests for our emcee intro.
+   ○ please make sure to log in to [Pretalx](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/) and fill out the questions on pronouns, name pronunciation and interests for our emcee intro. We also need your **hoodie size** for a free speaker hoodie!
 
-   We're finalizing details on the tech check and Q&A over the next weeks, and we'll be in touch in a week or so asking for a copy of your slides for our captioners!
+   We're finalizing details on the tech check and Q&A over the next weeks, and we'll be in touch in a couple of weeks for a copy of your slides for our captioners!
 
    In the meantime, if you have any questions at all about the event, you definitely know how to reach me by now.
 
    The Write the Docs Team
 
-05 - Post conf
+05 - Pre conf
+~~~~~~~~~~~~~~
+
+Slide uload dir:
+   {{cfp_variables['upload']}}
+
+
+----
+
+Subject:
+   WTD {{city}} {{year}} -- final touches
+
+::
+
+   Hi {name},
+
+   The conference is almost upon us! I hope you're all comfortably making the final touches to your presentations, and have your ideas lined up. I'm flying out next week, and am really looking forward to seeing what you'll all be sharing with us at the conference.
+
+   Here are a last few boxes to check when it comes to organization and logistics:
+
+   ○ Please [upload your slides]({{cfp_variables['upload']}}) for the captioners by {{cfp.slides_by}}. If you run into any trouble uploading them, please forward them as attachments to sam@writethedocs.org
+
+   ○ We'll be doing AV/laptop/slide checks at the stage, either first thing in the morning (8:00 am) or right before the lunch break. Please make sure you come say hi and do that, even if you think you don't need to 😉. I'll get some calendar invites out for those slots between now and then.
+
+   ○ If you've not already answered the questions about your pronouns, interests and names, please do [log in to Pretalx](https://pretalx.com/wwtd-{{shortcode}}-{{year}}/me/) and answer them, it makes life much easier for the folks doing the intros and Q&A.
+
+   There will be a quiet room for speakers where you can decompress before or after your talk, please ask me or the reg desk where to find it at the event.
+
+   If you have any questions at all about the event, you definitely know how to reach me by now.
+
+   The Write the Docs Team
+
+
+06 - Post conf
 ~~~~~~~~~~~~~~
 
 Feedback:

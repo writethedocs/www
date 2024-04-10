@@ -1,5 +1,6 @@
 ---
 template: {{year}}/generic.html
+banner: _static/conf/images/headers/portland-2024-venue.jpg
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
@@ -13,8 +14,6 @@ high school, and converted into the versatile space it is today,
 including an 850-seat auditorium, coffee shop, bar/restaurant, rooftop
 bar, rooms to support events, and local businesses. It still has some
 lockers in the hallway for that extra ambiance.
-
-![Revolution Hall](/_static/conf/images/pics/rev-hall-outside.jpg)
 
 ## Conference Layout
 
