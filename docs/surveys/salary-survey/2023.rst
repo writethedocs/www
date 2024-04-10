@@ -304,7 +304,7 @@ Type of role
 Role category
 ~~~~~~~~~~~~~
 
-Most respondents identified their role as "writer, content creator, producer, editor" - 59.4% selected only this category, while 95.6% included it alongside other categories. The second most widely-selected was "management", with 15.5% of respondents selecting this along with other categories and 2.3% selecting it as their only role category, followed by "developer, engineer", inlcuded by 10.5% of all respondents. In total, respondents selected 63 different combinations of the 8 role categories. 
+Most respondents identified their role as "writer, content creator, producer, editor" - 59.4% selected only this category, while 95.6% included it alongside other categories. The second most widely-selected was "management", with 15.5% of respondents selecting this along with other categories and 2.3% selecting it as their only role category, followed by "developer, engineer", included by 10.5% of all respondents. In total, respondents selected 63 different combinations of the 8 role categories. 
 
 .. table:: Top role category combinations
    :widths: 70 15 15
@@ -336,7 +336,7 @@ Most respondents identified their role as "writer, content creator, producer, ed
    | Writer/Creator/Editor + Developer/Engineer + Management | 10  | 1%    |
    +---------------------------------------------------------+-----+-------+
 
-Of those respondents who chose "Other" and provided more detail, the additional categories included project management, product management, process managment, information architecture, instructional design, QA/testing, content strategy, mentoring, and translation - as well as some terms which can be bundled under the heading "DocOps": documentation tool and workflow administration, repository maintenance, and documentation infrastructure development and support. 
+Of those respondents who chose "Other" and provided more detail, the additional categories included project management, product management, process management, information architecture, instructional design, QA/testing, content strategy, mentoring, and translation - as well as some terms which can be bundled under the heading "DocOps": documentation tool and workflow administration, repository maintenance, and documentation infrastructure development and support. 
 
 Team breakdown
 ~~~~~~~~~~~~~~
