@@ -2976,7 +2976,7 @@ Respondent location regional breakdowns
 
 .. raw:: html
 
-   <div class="tab-wrap"><input type="radio" id="tabH62-2" name="tabGroupH62" class="tab" checked><label for="tabH62-1">USA</label><input type="radio" id="tabH62-2" name="tabGroupH62" class="tab"><label for="tabH62-2">Canada</label><input type="radio" id="tabH62-3" name="tabGroupH62" class="tab"><label for="tabH62-3">Australia</label><div class="tab__content">
+   <div class="tab-wrap"><input type="radio" id="tabH62-1" name="tabGroupH62" class="tab" checked><label for="tabH62-1">USA</label><input type="radio" id="tabH62-2" name="tabGroupH62" class="tab"><label for="tabH62-2">Canada</label><input type="radio" id="tabH62-3" name="tabGroupH62" class="tab"><label for="tabH62-3">Australia</label><div class="tab__content">
 
 .. table:: Respondent location - US state
    :widths: 70 15 15
