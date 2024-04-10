@@ -534,7 +534,6 @@ main {
 				color: var(--text-1);
 				background: var(--surface-5);
 				text-align: left;
-				white-space: nowrap;
 			}
 		}
 		tbody {
