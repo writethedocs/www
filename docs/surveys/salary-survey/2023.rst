@@ -2369,7 +2369,7 @@ As in previous years, medium-sized organizations make up the largest proportion 
    :name: tbl-2023-organization-size-employees
 
    +--------------------------------------------+-----+-------+
-   | Organization size (by number of employees) | No. | %     |
+   | Organization size (employees)              | No. | %     |
    +============================================+=====+=======+
    | 101-1000                                   | 347 | 37.0% |
    +--------------------------------------------+-----+-------+
@@ -2395,7 +2395,7 @@ As in previous years, medium-sized organizations make up the largest proportion 
    :name: tbl-2023-organization-size-contractors
 
    +--------------------------------------------+-----+-------+
-   | Organization size (by number of employees) | No. | %     |
+   | Organization size (employees)              | No. | %     |
    +============================================+=====+=======+
    | 1-10                                       | 12  | 15.2% |
    +--------------------------------------------+-----+-------+
