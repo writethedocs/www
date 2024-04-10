@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap');
+
+:root {
+	/* manual import from open-props */
+	--gray-0: #f8f9fa;
+	--gray-1: #f1f3f5;
+	--gray-2: #e9ecef;
+	--gray-3: #dee2e6;
+	--gray-4: #ced4da;
+	--gray-5: #adb5bd;
+	--gray-6: #868e96;
+	--gray-7: #495057;
+	--gray-8: #343a40;
+	--gray-9: #212529;
+	--gray-10: #16191d;
+	--gray-11: #0d0f12;
+	--gray-12: #030507;
+	--indigo-0: #edf2ff;
+	--indigo-1: #dbe4ff;
+	--indigo-2: #bac8ff;
+	--indigo-3: #91a7ff;
+	--indigo-4: #748ffc;
+	--indigo-5: #5c7cfa;
+	--indigo-6: #4c6ef5;
+	--indigo-7: #4263eb;
+	--indigo-8: #3b5bdb;
+	--indigo-9: #364fc7;
+	--indigo-10: #2f44ad;
+	--indigo-11: #283a94;
+	--indigo-12: #21307a;
+	--cyan-0: #e3fafc;
+	--cyan-1: #c5f6fa;
+	--cyan-2: #99e9f2;
+	--cyan-3: #66d9e8;
+	--cyan-4: #3bc9db;
+	--cyan-5: #22b8cf;
+	--cyan-6: #15aabf;
+	--cyan-7: #1098ad;
+	--cyan-8: #0c8599;
+	--cyan-9: #0b7285;
+	--cyan-10: #095c6b;
+	--cyan-11: #074652;
+	--cyan-12: #053038;
+	--teal-0: #e6fcf5;
+	--teal-1: #c3fae8;
+	--teal-2: #96f2d7;
+	--teal-3: #63e6be;
+	--teal-4: #38d9a9;
+	--teal-5: #20c997;
+	--teal-6: #12b886;
+	--teal-7: #0ca678;
+	--teal-8: #099268;
+	--teal-9: #087f5b;
+	--teal-10: #066649;
+	--teal-11: #054d37;
+	--teal-12: #033325;
+	--font-weight-1: 100;
+	--font-weight-2: 200;
+	--font-weight-3: 300;
+	--font-weight-4: 400;
+	--font-weight-5: 500;
+	--font-weight-6: 600;
+	--font-weight-7: 700;
+	--font-weight-8: 800;
+	--font-weight-9: 900;
+	--font-lineheight-00: .95;
+	--font-lineheight-0: 1.1;
+	--font-lineheight-1: 1.25;
+	--font-lineheight-2: 1.375;
+	--font-lineheight-3: 1.5;
+	--font-lineheight-4: 1.75;
+	--font-lineheight-5: 2;
+	--font-letterspacing-0: -.05em;
+	--font-letterspacing-1: .025em;
+	--font-letterspacing-2: .050em;
+	--font-letterspacing-3: .075em;
+	--font-letterspacing-4: .150em;
+	--font-letterspacing-5: .500em;
+	--font-letterspacing-6: .750em;
+	--font-letterspacing-7: 1em;
+	--font-size-00: .5rem;
+	--font-size-0: .75rem;
+	--font-size-1: 1rem;
+	--font-size-2: 1.1rem;
+	--font-size-3: 1.25rem;
+	--font-size-4: 1.5rem;
+	--font-size-5: 2rem;
+	--font-size-6: 2.5rem;
+	--font-size-7: 3rem;
+	--font-size-8: 3.5rem;
+	--font-size-fluid-0: clamp(.75rem,2vw,1rem);
+	--font-size-fluid-1: clamp(1rem,4vw,1.5rem);
+	--font-size-fluid-2: clamp(1.5rem,6vw,2.5rem);
+	--font-size-fluid-3: clamp(2rem,9vw,3.5rem);
+	--size-000: -.5rem;
+	--size-00: -.25rem;
+	--size-1: .25rem;
+	--size-2: .5rem;
+	--size-3: 1rem;
+	--size-4: 1.25rem;
+	--size-5: 1.5rem;
+	--size-6: 1.75rem;
+	--size-7: 2rem;
+	--size-8: 3rem;
+	--size-9: 4rem;
+	--size-10: 5rem;
+	--size-11: 7.5rem;
+	--size-12: 10rem;
+	--size-13: 15rem;
+	--size-14: 20rem;
+	--size-15: 30rem;
+	--size-fluid-1: clamp(.5rem,1vw,1rem);
+	--size-fluid-2: clamp(1rem,2vw,1.5rem);
+	--size-fluid-3: clamp(1.5rem,3vw,2rem);
+	--size-fluid-4: clamp(2rem,4vw,3rem);
+	--size-fluid-5: clamp(4rem,5vw,5rem);
+	--size-fluid-6: clamp(5rem,7vw,7.5rem);
+	--size-fluid-7: clamp(7.5rem,10vw,10rem);
+	--size-fluid-8: clamp(10rem,20vw,15rem);
+	--size-fluid-9: clamp(15rem,30vw,20rem);
+	--size-fluid-10: clamp(20rem,40vw,30rem);
+
+
+
+	--font-sans: Open Sans, sans-serif;
+	--font-serif: Domine, serif;
+	--font-mono: Roberto Mono, monospace;
+	--brand-light: var(--indigo-9);
+	--text-1-light: var(--gray-8);
+	--text-2-light: var(--gray-7);
+	--surface-1-light: var(--gray-0);
+	--surface-2-light: var(--gray-1);
+	--surface-3-light: var(--gray-2);
+	--surface-4-light: var(--gray-3);
+	--brand-dark: var(--indigo-3);
+  --text-1-dark: var(--gray-3);
+  --text-2-dark: var(--gray-5);
+  --surface-1-dark: var(--gray-10);
+  --surface-2-dark: var(--gray-9);
+  --surface-3-dark: var(--gray-8);
+  --surface-4-dark: var(--gray-7);
+}
+
+/* light theme by default */
+:root {
+  --text-1: var(--text-1-light);
+	--brand: var(--brand-light);
+	--series-a: var(--brand-light);
+	font-family: var(--font-mono);
+}
+
+/* dark theme by user agent choice */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-1: var(--text-1-dark);
+		--brand: var(--brand-dark);
+		--series-a: var(--brand-dark);
+  }
+}
+
+.stamp { 
+	path {
+		fill: var(--text-1);
+	}
+	rect {
+		stroke: var(--text-1);
+	}
+}
+
+
+
+
+.bar-chart {
+
+	.data-series {
+
+		.a {
+			
+			.axis-labels {
+				fill: var(--text-1);
+				font-size: var(--font-size-0);
+			}
+
+			.bars {
+				fill: var(--series-a);
+				fill-opacity: 0.3;
+			}
+
+			.bars path:hover {
+				filter: brightness(1.2);
+			}
+
+			.value-labels text{
+				fill: var(--surface-1-light);
+				transform: translateY(2rem);
+				font-size: var(--font-size-0);
+			}
+
+		}
+
+	}
+
+}
