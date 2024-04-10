@@ -13,6 +13,8 @@ We're excited to work with the organizations in our community to build the best 
 Created in 2013 in Portland, Oregon, WTD has hosted conferences around the world in Prague, Berlin, Sydney, London, and Melbourne.
 We’re excited to celebrate year 12 with your support!
 
+For more information on getting the most out of your sponsorship, see our  :doc:`/conf/{{shortcode}}/{{year}}/sponsors/information`.
+
 Concept
 =======
 
@@ -182,6 +184,8 @@ Benefits
 
 Inquiries
 =========
+
+For more information on getting the most out of your sponsorship, see our  :doc:`/conf/{{shortcode}}/{{year}}/sponsors/information`.
 
 Please direct all inquiries to our sponsorship team at:
 

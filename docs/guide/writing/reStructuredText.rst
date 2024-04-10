@@ -22,7 +22,7 @@ How to use reStructuredText
 Formatting the main text
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Paragraphs in reStructuredText are blocks of text separated by at least one blank line. All lines in the paragraph must be indented by the same amount.
+Paragraphs in reStructuredText are blocks of text separated by at least one blank line. All lines in the paragraph must be indented by the same number of characters.
 
 Inline markup for font styles is similar to MarkDown:
 
@@ -47,7 +47,7 @@ If inserted in the same document, this creates a header at a different level::
 
 Having an underline-only is acceptable, as is having both an underline and an overline. If you use the same non-alphanumeric character for underline-only and underline-and-overline headers, they will be considered to be at *different* levels.
 
-The row of non-alphanumeric characters should have at least as long as the header text.
+The row of non-alphanumeric characters should be at least as long as the header text.
 
 
 Lists

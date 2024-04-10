@@ -14,13 +14,14 @@ It's rained on us in the past, but we have faith it will be beautiful this year!
 Schedule & Logistics
 --------------------
 
-- **Date:** **{{ hike.date }}**. Leaves promptly at 1pm. 
+- **Date:** **{{ hike.date }}**. Meet 15 minutes before the start time.
+- **Lunch:** (Optional) Join us at the `Nob Hill Food carts <https://maps.app.goo.gl/LFdYXc69v8daeKSG8>`_ at 12:30pm for lunch.
 - **Start:** Lower Macleay Park** (`Map link <https://goo.gl/maps/bU7MAMsKCJAbG3zFA>`__). Meet at the pavilion at the park entrance.
-- **End:** Lower Macleay Park around 4pm. 
-
-**Please register for your ticket so we can contact you in advance for day-of weather and logistics information.**
-
+- **End:** Oregon Zoo around 5pm, where we will take the MAX back to town.
 - **Tickets:** `Register your hike ticket <https://ti.to/writethedocs/write-the-docs-portland-2024/with/hike-ticket>`_
+
+Please register for your ticket so we can contact you in advance for day-of weather and logistics information.
+
 
 .. figure:: /_static/img/2015/hike/balch.jpg
    :alt: Balch Creek
