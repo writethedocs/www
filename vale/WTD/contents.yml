@@ -1,0 +1,7 @@
+message: "Don't use in-page TOC in newsletter posts"
+extends: existence
+ignorecase: true
+level: error
+scope: raw
+raw:
+  - 'contents::'
