@@ -620,6 +620,24 @@ main {
 				}
 			}
 		}
+		&&.medians {
+			thead {
+				th {
+					text-align: right;
+					&&:nth-of-type(1) {
+						text-align: left;
+					}
+				}
+			}
+			tbody {
+				td {
+					text-align: right;
+					&&:nth-of-type(1) {
+						text-align: left;
+					}
+				}
+			}
+		}
 	}
 }
 @media screen and (max-width: 869px) { /* tablet table layout */
