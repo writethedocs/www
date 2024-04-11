@@ -430,7 +430,7 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
    :class: std3col
 
    +-------------------------+-----+-------+
-   | Length of time in years | No. | %     |
+   | Years                   | No. | %     |
    +=========================+=====+=======+
    | 0-1                     | 206 | 20.3% |
    +-------------------------+-----+-------+
@@ -2335,11 +2335,10 @@ Organizations with pay transparency are open about salaries and benefits for exi
 
    .. rubric:: |icon-info| Pay transparency legislation
 
-   A number of US states have made some level of pay transparency law - Maryland, Colorado, Connecticut, Nevada, Rhode Island, Washington, California and New York - and a number of others are considering doing so. The exact requirements, level of compliance and enforcement mechanisms vary from state to state, and as most laws have only been enacted recently, it will take some time for the effects to be felt.
+   A number of US states have made some level of pay transparency law - Maryland, Colorado, Connecticut, Nevada, Rhode Island, Washington, California and New York - and a number of others are considering doing so. The exact requirements, level of compliance and enforcement mechanisms vary from state to state, and as most laws have only been enacted recently, it will take some time for the effects to be felt. An overview is available here: [https://www.americanprogress.org/article/quick-facts-about-state-salary-range-transparency-laws/]
 
-   Additionally, The European Parliament approved a new Pay Transparency Directive in March 2023. EU member states have three years to enact legislation based on the directive. Part of the directive involves measuring and eliminating any gender-based pay discrepancies. 
+   Additionally, The European Parliament approved a new Pay Transparency Directive in March 2023. EU member states have three years to enact legislation based on the directive. Part of the directive involves measuring and eliminating any gender-based pay discrepancies. More information is available here: [https://ec.europa.eu/commission/presscorner/detail/en/ip_22_7739]
 
-   TODO: add links to more info
 
 Official pay transparency policy
 --------------------------------
@@ -2717,7 +2716,162 @@ Organization origin and location
 
    </details>
 
-Lorem ipsum resultorum.
+79.8% of respondents reported that their employer organization was a multinational organization - one with office locations and business operations in two or more countries. These respondents were asked to specify the location where the organization originated.
+
+A total of 63.3% of organizations originated in North America, with the bulk of those being US-based. 
+
+.. raw:: html
+
+   <div class="tab-wrap"><input type="radio" id="tabG3-1" name="tabGroupG3" class="tab" checked tabindex="0"><label for="tabG3-1">North America</label><input type="radio" id="tabG3-2" name="tabGroupG3" class="tab"><label for="tabG3-2">Europe</label><input type="radio" id="tabG3-3" name="tabGroupG3" class="tab"><label for="tabG3-3">Other regions</label><div class="tab__content">
+
+.. table:: Organization location - North America
+   :widths: 70 15 15
+   :name: tbl-2023-organization-location-north-america
+   :class: std3col
+
+   +----------------------------------------+---------+-----------+
+   | Region                                 |   No.   |         % |
+   +========================================+=========+===========+
+   | **North America**                      | **644** | **63.3%** |
+   +----------------------------------------+---------+-----------+
+   | - United States                        |   587   |           |
+   +----------------------------------------+---------+-----------+
+   | - Canada                               |    52   |           |
+   +----------------------------------------+---------+-----------+
+   | - United States Minor Outlying Islands |    3    |           |
+   +----------------------------------------+---------+-----------+
+   | - Mexico                               |    2    |           |
+   +----------------------------------------+---------+-----------+
+ 
+.. raw:: html
+
+	</div><div class="tab__content">
+
+.. table:: Organization location - Europe
+   :widths: 70 15 15
+   :name: tbl-2023-organization-location-europe
+   :class: std3col
+
+   +----------------------------------------+---------+-----------+
+   | Region                                 |   No.   |         % |
+   +========================================+=========+===========+
+   | **Europe**                             | **288** | **28.3%** |
+   +----------------------------------------+---------+-----------+
+   | - United Kingdom                       |    52   |           |
+   +----------------------------------------+---------+-----------+
+   | - Germany                              |    49   |           |
+   +----------------------------------------+---------+-----------+
+   | - Ukraine                              |    31   |           |
+   +----------------------------------------+---------+-----------+
+   | - France                               |    28   |           |
+   +----------------------------------------+---------+-----------+
+   | - Russia                               |    13   |           |
+   +----------------------------------------+---------+-----------+
+   | - Switzerland                          |    13   |           |
+   +----------------------------------------+---------+-----------+
+   | - Netherlands                          |    13   |           |
+   +----------------------------------------+---------+-----------+
+   | - Finland                              |    11   |           |
+   +----------------------------------------+---------+-----------+
+   | - Sweden                               |    10   |           |
+   +----------------------------------------+---------+-----------+
+   | - Denmark                              | 8       |           |
+   +----------------------------------------+---------+-----------+
+   | - Spain                                | 7       |           |
+   +----------------------------------------+---------+-----------+
+   | - Czech Republic                       | 7       |           |
+   +----------------------------------------+---------+-----------+
+   | - Portugal                             | 5       |           |
+   +----------------------------------------+---------+-----------+
+   | - Belgium                              | 5       |           |
+   +----------------------------------------+---------+-----------+
+   | - Norway                               | 5       |           |
+   +----------------------------------------+---------+-----------+
+   | - Romania                              | 5       |           |
+   +----------------------------------------+---------+-----------+
+   | - Poland                               | 4       |           |
+   +----------------------------------------+---------+-----------+
+   | - Malta                                | 4       |           |
+   +----------------------------------------+---------+-----------+
+   | - Italy                                | 3       |           |
+   +----------------------------------------+---------+-----------+
+   | - Ireland                              | 3       |           |
+   +----------------------------------------+---------+-----------+
+   | - Greece                               | 2       |           |
+   +----------------------------------------+---------+-----------+
+   | - Estonia                              | 2       |           |
+   +----------------------------------------+---------+-----------+
+   | - Hungary                              | 2       |           |
+   +----------------------------------------+---------+-----------+
+   | - Lithuania                            | 1       |           |
+   +----------------------------------------+---------+-----------+
+   | - Slovenia                             | 1       |           |
+   +----------------------------------------+---------+-----------+
+   | - Austria                              | 1       |           |
+   +----------------------------------------+---------+-----------+
+   | - Gibraltar                            | 1       |           |
+   +----------------------------------------+---------+-----------+
+   | - North Macedonia                      | 1       |           |
+   +----------------------------------------+---------+-----------+
+   | - Cyprus                               | 1       |           |
+   +----------------------------------------+---------+-----------+
+
+.. raw:: html
+
+	</div><div class="tab__content">
+
+.. table:: Organization location - Other regions
+   :widths: 70 15 15
+   :name: tbl-2023-organization-location-other-regions
+   :class: std3col
+
+   +----------------------------------------+---------+-----------+
+   | Region                                 |   No.   |         % |
+   +========================================+=========+===========+
+   | **Oceania**                            | **35**  | **3.4%**  |
+   +----------------------------------------+---------+-----------+
+   | - Australia                            | 32      |           |
+   +----------------------------------------+---------+-----------+
+   | - New Zealand                          | 3       |           |
+   +----------------------------------------+---------+-----------+
+   | **Asia**                               | **26**  | **2.6%**  |
+   +----------------------------------------+---------+-----------+
+   | - India                                | 12      |           |
+   +----------------------------------------+---------+-----------+
+   | - Japan                                | 7       |           |
+   +----------------------------------------+---------+-----------+
+   | - Singapore                            | 3       |           |
+   +----------------------------------------+---------+-----------+
+   | - Hong Kong                            | 2       |           |
+   +----------------------------------------+---------+-----------+
+   | - South Korea                          | 1       |           |
+   +----------------------------------------+---------+-----------+
+   | - China                                | 1       |           |
+   +----------------------------------------+---------+-----------+
+   | **Middle East**                        | **17**  | **1.7%**  |
+   +----------------------------------------+---------+-----------+
+   | - Israel                               | 15      |           |
+   +----------------------------------------+---------+-----------+
+   | - Saudi Arabia                         | 1       |           |
+   +----------------------------------------+---------+-----------+
+   | - United Arab Emirates                 | 1       |           |
+   +----------------------------------------+---------+-----------+
+   | **South America**                      | **5**   | **0.5%**  |
+   +----------------------------------------+---------+-----------+
+   | - Brazil                               |    5    |           |
+   +----------------------------------------+---------+-----------+
+   | **Central America**                    | **1**   | **0.1%**  |
+   +----------------------------------------+---------+-----------+
+   | - Costa Rica                           |    1    |           |
+   +----------------------------------------+---------+-----------+
+   | **Africa**                             | **1**   | **0.1%**  |
+   +----------------------------------------+---------+-----------+
+   | - South Africa                         |    1    |           |
+   +----------------------------------------+---------+-----------+
+
+.. raw:: html
+
+   </div></div>
 
 Respondent demographics
 =======================

@@ -671,6 +671,9 @@ table:has(+ div.tbl-footnote) {
 
 .tbl-footnote {
 	margin-bottom: var(--size-8);
+	p {
+		font-size: var(--font-size-0)
+	}
 }
 
 /* specific table overrrides */
