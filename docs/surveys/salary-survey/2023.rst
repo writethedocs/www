@@ -601,6 +601,74 @@ Employment or contract status change
 
 Of the employees experiencing employment changes, starting a new position at a new organization was the most reported change (46%). 28.8% were promoted within the same organization.
 
+Of the contractors, having a contract or project ending prematurely was the most reported change (41%). 35.3% started a new contract.
+
+.. raw:: html
+
+   <div class="tab-wrap">
+
+.. raw:: html
+
+   <input type="radio" id="tabB2-1" name="tabGroupB2" class="tab" checked tabindex="0"><label for="tabB2-1"><span>Employees</span></label><input type="radio" id="tabB2-2" name="tabGroupB2" class="tab"><label for="tabB2-2">Contractors</label><div class="tab__content">
+
+.. table:: Employment change - employees
+   :widths: 70 15 15
+   :name: tbl-2023-employment-change-employees
+   :class: std3col
+
+   +---------------------+-----+-------+
+   | Change              | No. | %     |
+   +=====================+=====+=======+
+   | New position        | 155 | 46.0% |
+   +---------------------+-----+-------+
+   | Promotion           |  97 | 28.8% |
+   +---------------------+-----+-------+
+   | Redundancy          |  84 | 24.9% |
+   +---------------------+-----+-------+
+   | Resigned with offer |  54 | 16.0% |
+   +---------------------+-----+-------+
+   | Lateral move        |  21 |  6.2% |
+   +---------------------+-----+-------+
+   | Resigned            |  13 |  3.9% |
+   +---------------------+-----+-------+
+   | Terminated          |  11 |  3.3% |
+   +---------------------+-----+-------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Employment change - contractors
+   :widths: 70 15 15
+   :name: tbl-2023-employment-change-contractors
+   :class: std3col
+
+   +---------------------+-----+-------+
+   | Change              | No. | %     |
+   +=====================+=====+=======+
+   | Ended prematurely   |  14 | 41.2% |
+   +---------------------+-----+-------+
+   | New contract        |  12 | 35.3% |
+   +---------------------+-----+-------+
+   | Left employment     |   8 | 23.5% |
+   +---------------------+-----+-------+
+   | Ended normally      |   7 | 20.6% |
+   +---------------------+-----+-------+
+   | Pipeline            |   6 | 17.6% |
+   +---------------------+-----+-------+
+   | Not renewed         |   5 | 14.7% |
+   +---------------------+-----+-------+
+   | Resigned with offer |   4 | 11.8% |
+   +---------------------+-----+-------+
+   | Fired client        |   3 |  8.8% |
+   +---------------------+-----+-------+
+   | Left contracting    |   2 |  5.9% |
+   +---------------------+-----+-------+
+
+.. raw:: html
+
+   </div></div>
+
 Job or contract search status
 -----------------------------
 
