@@ -6,29 +6,9 @@
 
 	<i class="fa-solid fa-circle-info"></i>
 
-.. |tabgroup-start| raw:: html
+.. |icon-question| raw:: html
 
-   <div class="tab-wrap">
-
-.. |tab-start| raw:: html
-
-   <div class="tab__content">
-
-.. |tab-between| raw:: html
-
-   </div><div class="tab__content">
-
-.. |tabgroup-end| raw:: html
-
-   </div></div>
-
-.. |hscroll-start| raw:: html
-
-   <div class="tablescroller">
-
-.. |hscroll-end| raw:: html
-
-   </div>
+   <i class="fa-solid fa-circle-question"></i>
 
 .. raw:: html   
    
@@ -57,6 +37,8 @@ Introduction
 
 In this, the fifth annual Write the Docs documentation salary survey, we gathered data from a record-breaking 1017 individual respondents - 938 employees and 79 contractors - in 53 countries, working across dozens of industries, with experience ranging from less than one year to over 40 years. 
 
+In a hurry? Jump straight to `Median salary`_ or `Median hourly rate`_.
+
 .. container:: note
 
    .. rubric:: |icon-info| Note on independent contractors, freelancers and the self-employed
@@ -73,6 +55,8 @@ Here are just some of the anonymous comments that respondents submitted in 2024:
 .. pull-quote::
 
    I have a pretty good grasp on what salary I should be aiming for thanks to this survey! I hope other writers find this information as useful as I have. 
+
+   WTD surveys (along with TechCommNZ surveys) are very useful in salary negotiations and my manager really appreciates that I bring facts and data to the table. In fact, we wait until info is available before sitting down each year.
 
    WTD Salary Survey helped me understand the value of my work. I decided to look for another job with a better pay range because of it. It gave me the courage to make that leap and get a higher-paying job.
 
@@ -92,7 +76,7 @@ Basis of employment
 
 .. container:: question
 
-   On what basis are you filling out this survey?
+   |icon-question| On what basis are you filling out this survey?
 
    - I'm an employee
    - I was an employee, but am not currently working
@@ -108,23 +92,24 @@ In 2023, 92.2% of respondents (938) were employees and 7.8% (79 individuals) wer
 Of the employees, 3% stated they were currently unemployed, while this number was only 0.5% for contractors. Respondents not currently working were asked to fill out the survey as if they were still at their previous employer or contract. 
 
 .. table:: Basis of employment (2019-2023)
+   :widths: 40 10 10 20 10 10
    :name: tbl-2023-basis-of-employment-history
 
-   +-------------+-------------+-------------+
-   | Survey year | Employees   | Contractors |
-   +=============+=====+=======+======+======+
-   |             | No. | %     | No.  | %    |
-   +-------------+-----+-------+------+------+
-   | 2019        | 652 | 93.9% |   42 | 6.1% |
-   +-------------+-----+-------+------+------+
-   | 2020        | 748 | 92.9% |   57 | 7.1% |
-   +-------------+-----+-------+------+------+
-   | 2021        | 887 | 92.5% |   72 | 7.5% |
-   +-------------+-----+-------+------+------+
-   | 2022        | 491 | 93.5% |   34 | 6.5% |
-   +-------------+-----+-------+------+------+
-   | 2023        | 938 | 92.2% |   79 | 7.8% |
-   +-------------+-----+-------+------+------+
+   +-------------+-------------+-+-------------+
+   | Survey year | Employees   | | Contractors |
+   +=============+=====+=======+=+======+======+
+   |             | No. | %     | | No.  | %    |
+   +-------------+-----+-------+-+------+------+
+   | 2019        | 652 | 93.9% | |   42 | 6.1% |
+   +-------------+-----+-------+-+------+------+
+   | 2020        | 748 | 92.9% | |   57 | 7.1% |
+   +-------------+-----+-------+-+------+------+
+   | 2021        | 887 | 92.5% | |   72 | 7.5% |
+   +-------------+-----+-------+-+------+------+
+   | 2022        | 491 | 93.5% | |   34 | 6.5% |
+   +-------------+-----+-------+-+------+------+
+   | 2023        | 938 | 92.2% | |   79 | 7.8% |
+   +-------------+-----+-------+-+------+------+
 
 Hours worked
 ------------
@@ -135,7 +120,7 @@ Hours worked
 
 .. container:: question
 
-   How many hours per week do you work?
+   |icon-question| How many hours per week do you work?
 
    - 1–20 hours
    - 21–30 hours
@@ -164,6 +149,7 @@ Of those that worked fewer hours:
 .. table:: Weekly hours worked
    :widths: 70 15 15
    :name: tbl-2023-weekly-hours-worked
+   :class: std3col
 
    +--------------+-----+-------+
    | Hours worked | No. | %     |
@@ -190,7 +176,7 @@ Job title
 
 .. container:: question
 
-   What is your job title?
+   |icon-question| What is your job title?
 
 .. raw:: html
 
@@ -207,6 +193,7 @@ As in previous years, the most widely used exact title was "Technical Writer", r
 .. table:: Most widely-used job titles
    :widths: 70 15 15
    :name: tbl-2023-top-job-titles
+   :class: std3col
 
    +----------------------------+-----+-----+
    | Job title                  | No. | %   |
@@ -239,6 +226,7 @@ As in previous years, the most widely used exact title was "Technical Writer", r
 .. table:: Job titles excluding "technical writer"
    :widths: 70 15 15
    :name: tbl-2023-job-titles-excluding-technical-writer
+   :class: std3col
 
    +---------------------------------------+-----+------+
    | Title                                 | No. | %    |
@@ -277,7 +265,7 @@ Type of role
 
 .. container:: question
 
-   How would you categorize your role? Select multiple roles, if appropriate.
+   |icon-question| How would you categorize your role? Select multiple roles, if appropriate.
 
    - Writer, content creator, producer, editor
    - Developer, engineer
@@ -309,6 +297,7 @@ Most respondents identified their role as "writer, content creator, producer, ed
 .. table:: Top role category combinations
    :widths: 70 15 15
    :name: tbl-2023-top-role-category-combinations
+   :class: std3col
 
    +---------------------------------------------------------+-----+-------+
    | Category                                                | No. | %     |
@@ -348,6 +337,7 @@ Of the 18.8% who indicated that they worked as a manager or team leader, 62.3% a
 .. table:: Team breakdown
    :widths: 70 15 15
    :name: tbl-2023-team-breakdown
+   :class: std3col
 
    +--------------------------------------------------------------------------------------+-----+-------+
    | Team breakdown                                                                       | No. | %     |
@@ -402,7 +392,7 @@ Length of time at current organization
 
 .. container:: question
 
-   Employees: 
+   |icon-question| Employees: 
 
    How long have you worked at your current organization?
    
@@ -437,6 +427,7 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
 .. table:: Length of time in current role
    :widths: 70 15 15
    :name: tbl-2023-length-of-time-in-current-role
+   :class: std3col
 
    +-------------------------+-----+-------+
    | Length of time in years | No. | %     |
@@ -473,7 +464,7 @@ Proportion of role related to documentation
 
 .. container:: question
 
-   Documentation is:
+   |icon-question| Documentation is:
 
    - the whole of my official job description
    - part of my official job description
@@ -504,6 +495,7 @@ The majority of respondents (73.5% in 2023, almost exactly the same proportion a
 .. table:: Portion of role officially documentation-related
    :widths: 70 15 15
    :name: tbl-2023-portion-of-role-officially-documentation-related
+   :class: std3col
 
    +--------------------------------------+-----+-------+
    | Portion of role                      | No. | %     |
@@ -524,6 +516,7 @@ The majority of respondents (73.5% in 2023, almost exactly the same proportion a
 .. table:: Portion of role actually documentation-related
    :widths: 70 15 15
    :name: tbl-2023-portion-of-role-actually-documentation-related
+   :class: std3col
 
    +--------------------------------------+-----+-------+
    | Portion of role                      | No. | %     |
@@ -555,7 +548,7 @@ Employment or contract status change
 
 .. container:: question
 
-   Employees:
+   |icon-question| Employees:
 
    Has your employment status changed in the past year? 
    
@@ -617,7 +610,7 @@ Job or contract search status
 
 .. container:: question
 
-   Employees:
+   |icon-question| Employees:
 
    What is your current job search status?
 
@@ -652,6 +645,7 @@ The majority of respondents - 46.3% of employees and 38% of contractors - stated
 .. table:: Current job search status - employees
    :widths: 70 15 15
    :name: tbl-2023-current-job-search-status-employees
+   :class: std3col
 
    +--------------------------------------------------------+-----+-------+
    | Search status                                          | No. | %     |
@@ -672,6 +666,7 @@ The majority of respondents - 46.3% of employees and 38% of contractors - stated
 .. table:: Current work search status - contractors
    :widths: 70 15 15
    :name: tbl-2023-current-work-search-status-contractors
+   :class: std3col
 
    +--------------------------------------------------------+-----+-------+
    | Search status                                          | No. | %     |
@@ -698,7 +693,7 @@ Job security and stability
 
 .. container:: question
 
-   How would you characterize your current feelings of job security and stability, or contract/freelance income security and stability, compared to this time last year?
+   |icon-question| How would you characterize your current feelings of job security and stability, or contract/freelance income security and stability, compared to this time last year?
 
    - I'm less confident in my job security or contract/freelance income security than I was last year
    - My confidence level is around the same
@@ -712,9 +707,10 @@ Note: Employees and contractors who had indicated that they were currently unemp
 
 Just over half of all respondents (54.1%) reported feeling the same level of job security and stability, compared to the previous year. 30.5% felt less secure, and only 15.4% felt more secure. The difference in responses between employees and contractors for this question was not significantly different.
 
-.. table:: Feelings of job security and stability - employees and contractors combined
+.. table:: Feelings of job security and stability
    :widths: 70 15 15
    :name: tbl-2023-feelings-of-job-security-combined
+   :class: std3col
 
    +----------------------------------------+-----+-------+
    | Feelings of job security and stability | No. | %     |
@@ -735,7 +731,7 @@ Job offer considerations
 
 .. container:: question
 
-   When considering an offer of employment, how important do you consider the following 13 factors? 
+   |icon-question| When considering an offer of employment, how important do you consider the following 13 factors? 
    
    The options for each were: not relevant, not very important, somewhat important, very important.
 
@@ -779,7 +775,7 @@ Work location
 
 .. container:: question
 
-   What is your current work location?
+   |icon-question| What is your current work location?
 
    - I am required to be on-site full time
    - I am on-site full time, but it is not required
@@ -804,6 +800,7 @@ The majority of respondents reported working remotely, with the number doing so 
 .. table:: Work location
    :widths: 70 15 15
    :name: tbl-2023-work-location
+   :class: std3col
 
    +-----------------------+-----+-------+
    | Work location         | No. | %     |
@@ -824,6 +821,7 @@ The majority of respondents (80.8%) reported feeling "positive" about their work
 .. table:: Feelings about work location
    :widths: 70 15 15
    :name: tbl-2023-feelings-about-work-location
+   :class: std3col
 
    +------------------------------+-----+-------+
    | Feelings about work location | No. | %     |
@@ -854,7 +852,7 @@ The majority of respondents (80.8%) reported feeling "positive" about their work
 
 .. container:: question
 
-   Has your organization implemented a "return to the office" policy - requesting or requiring that remote or "work from home" employees return to working on-site?
+   |icon-question| Has your organization implemented a "return to the office" policy - requesting or requiring that remote or "work from home" employees return to working on-site?
 
    - Yes, it's required all of the time
    - Yes, it's required but only part of the time (hybrid work is ok)
@@ -891,6 +889,7 @@ For those that have been affected, most reported that a hybrid model was being m
 .. table:: Not affected by mandates
    :widths: 70 15 15
    :name: tbl-2023-return-to-the-office-mandates-not-affected
+   :class: std3col
 
    +------------------------------------------------------+-----+-------+
    | Status                                               | No. | %     |
@@ -911,6 +910,7 @@ For those that have been affected, most reported that a hybrid model was being m
 .. table:: Affected by mandates
    :widths: 70 15 15
    :name: tbl-2023-return-to-the-office-mandates-affected
+   :class: std3col
 
    +------------------------------------------------------------------+-----+-------+
    | Status                                                           | No. | %     |
@@ -945,7 +945,7 @@ Preferred work location
 
 .. container:: question
 
-   Regardless of the policy at your current organization or your current situation, what is your preferred work location?
+   |icon-question| Regardless of the policy at your current organization or your current situation, what is your preferred work location?
 
    - I prefer to work on-site on a full-time basis
    - I prefer to work remotely/from home on a full-time basis
@@ -961,6 +961,7 @@ Regardless of their current situation, 58% of all respondents said that their pr
 .. table:: Preferred work location
    :widths: 70 15 15
    :name: tbl-2023-preferred-work-location
+   :class: std3col
 
    +-------------------------+-----+-------+
    | Preferred work location | No. | %     |
@@ -983,8 +984,8 @@ With this year's survey amassing the highest number of submissions yet, we can n
 
 In regions or categories meet the minimum threshold of 30 respondents, we're also providing the 25th percentile (the value below which 25% of the data falls) and 75th percentile (the value below which 75% of the data falls) figures.
 
-Currency, pay interval and salary
----------------------------------
+Currency
+--------
 
 .. raw:: html
    
@@ -992,11 +993,7 @@ Currency, pay interval and salary
 
 .. container:: question
 
-   What currency are you paid in? 
-
-   Would you prefer to enter your salary as a yearly or monthly amount?
-
-   What is your total (gross) salary (including tax)? Note: If your total compensation is made up of a base salary and significant bonus, equity or commission payments, please enter your total compensation here (or an average, if it fluctuates).
+   |icon-question| What currency are you paid in? 
 
 .. raw:: html
 
@@ -1007,6 +1004,7 @@ Employee respondents reported being paid in 26 different currencies. To make com
 .. table:: Currencies and exchange rates - employees
    :widths: 55 10 10 10 15
    :name: tbl-2023-currencies-employees
+   :class: std3col
 
    +--------------------------------------+------+---------+
    | Currency (code)                      | No.  | Rate    |
@@ -1064,8 +1062,37 @@ Employee respondents reported being paid in 26 different currencies. To make com
    | Danish Krone (DKK)                   | 1    | 0.14532 |
    +--------------------------------------+------+---------+
 
+Pay interval
+------------
+
+.. raw:: html
+   
+   <details><summary>What we asked</summary>
+
+.. container:: question
+
+   |icon-question| Would you prefer to enter your salary as a yearly or monthly amount?
+
+.. raw:: html
+
+   </details>
 
 In some locations, it is customary to discuss salary as a yearly figure, while in other it is more common to talk about monthly salaries. Respondents were asked to specify if they were entering a yearly or monthly figure, and all monthly salaries were multiplied by 12 to allow for comparison. In total, 81.1% of employee respondents chose to enter their salary as a yearly figure, with 18.9% choosing monthly. 
+
+Median salary
+-------------
+
+.. raw:: html
+   
+   <details><summary>What we asked</summary>
+
+.. container:: question
+
+   |icon-question| What is your total (gross) salary (including tax)? Note: If your total compensation is made up of a base salary and significant bonus, equity or commission payments, please enter your total compensation here (or an average, if it fluctuates).
+
+.. raw:: html
+
+   </details>
 
 As in previous years, salaries for those working part-time hours (less than 30 per week) have been omitted from the figures in this section. The median salaries are based on 922 full-time employee respondents.  
 
@@ -1252,7 +1279,7 @@ Employee benefits
 
 .. container:: question
 
-   Does your salary package include any additional benefits? Check all that apply, or select "none of the above".
+   |icon-question| Does your salary package include any additional benefits? Check all that apply, or select "none of the above".
 
    - Paid vacation time (in excess of government-mandated minimums)
    - Paid parental leave (in excess of government-mandated minimum)
@@ -1285,6 +1312,7 @@ Employee benefits
 .. table:: Employee benefits
    :widths: 70 15 15
    :name: tbl-2023-employee-benefits
+   :class: std3col
 
    +----------------------------------------------------------------------------+------+-------+
    | Benefit                                                                    | No.  | %     |
@@ -1293,7 +1321,7 @@ Employee benefits
    +----------------------------------------------------------------------------+------+-------+
    | Paid vacation time *                                                       | 653  | 69.6% |
    +----------------------------------------------------------------------------+------+-------+
-   | Pension, superannuation, 401(k) matching or retirement fund *              | 536  | 57.1% |
+   | Pension, superannuation plan, 401(k) matching or retirement fund *         | 536  | 57.1% |
    +----------------------------------------------------------------------------+------+-------+
    | Other types of insurance eg life, accident, income protection              | 517  | 55.1% |
    +----------------------------------------------------------------------------+------+-------+
@@ -1331,7 +1359,7 @@ Employee satisfaction
 
 .. container:: question
 
-   Considering only your salary and benefits, rate your level of satisfaction:
+   |icon-question| Considering only your salary and benefits, rate your level of satisfaction:
 
    - Very unsatisfied
    - Unsatisfied
@@ -1422,6 +1450,7 @@ Looking at all regions, 68.7% of all employee respondents were satisfied with th
 .. table:: Employee salary satisfaction
    :widths: 70 15 15
    :name: tbl-2023-employee-salary-satisfaction
+   :class: std3col
 
    +---------------------+-----+-------+
    | Salary satisfaction | No. | %     |
@@ -1444,6 +1473,7 @@ Looking at all regions, 68.7% of all employee respondents were satisfied with th
 .. table:: Employee job satisfaction
    :widths: 70 15 15
    :name: tbl-2023-employee-job-satisfaction
+   :class: std3col
 
    +--------------------------+-----+-----+
    | Job satisfaction         | No. | %   |
@@ -1473,6 +1503,7 @@ As a result of 5 submissions in the "other" category, a new factor was added, "N
 .. table:: Factors affecting employee salary satisfaction
    :widths: 70 15 15
    :name: tbl-2023-factors-affecting-employee-salary-satisfaction
+   :class: std3col
 
    +-----------------------------------------------------------------------+-----+-------+
    | Factor                                                                | No. | %     |
@@ -1516,6 +1547,7 @@ Of the 19 respondents who selected "other" and provided more detail, those that 
 .. table:: Factors affecting employee job satisfaction
    :widths: 70 15 15
    :name: tbl-2023-factors-affecting-employee-job-satisfaction
+   :class: std3col
 
    +--------------------------------------------------------------------------------------+-----+-------+
    | Factor                                                                               | No. | %     |
@@ -1585,6 +1617,7 @@ Of those respondents who selected "other" and provided more detail, factors incl
 .. table:: Factors enhancing employee job satisfaction
    :widths: 70 15 15
    :name: tbl-2023-factors-enhancing-employee-job-satisfaction
+   :class: std3col
 
    +----------------------------------------------------------------------------------------------------+-----+-----+
    | Factor                                                                                             | No. | %   |
@@ -1636,7 +1669,7 @@ Preferred term
 
 .. container:: question
 
-   What's your preferred term to describe the kind of work you do?
+   |icon-question| What's your preferred term to describe the kind of work you do?
 
    - I consider myself a contractor
    - I consider myself a freelancer
@@ -1654,6 +1687,7 @@ Several contractor respondents indicated that they were contractors by necessity
 .. table:: Preferred term - contractors
    :widths: 70 15 15
    :name: tbl-2023-preferred-term-contractors
+   :class: std3col
 
    +----------------+-----+-------+
    | Preferred term | No. | %     |
@@ -1676,7 +1710,7 @@ Type of contract work
 
 .. container:: question
 
-   What kind of contract, freelance or self-employed work do you typically engage in? Check all that apply. 
+   |icon-question| What kind of contract, freelance or self-employed work do you typically engage in? Check all that apply. 
 
    - I work for multiple clients at the same time
    - I work for one client at a time
@@ -1699,6 +1733,7 @@ Contractor work type - clients
 .. table:: Contractor work type - clients
    :widths: 70 15 15
    :name: tbl-2023-contractor-work-type-clients
+   :class: std3col
 
    +----------------------------------+-----+-----+
    | Client type                      | No. | %   |
@@ -1718,6 +1753,7 @@ Contractor work type - duration
 .. table:: Contractor work type - duration
    :widths: 70 15 15
    :name: tbl-2023-contractor-work-type-duration
+   :class: std3col
 
    +--------------------------------------------------+-----+-------+
    | Typical contract length                          | No. | %     |
@@ -1745,6 +1781,7 @@ Contractor work type - products and services
 .. table:: Contractor work type - products and services
    :widths: 70 15 15
    :name: tbl-2023-contractor-work-type-products-and-services
+   :class: std3col
 
    +-----------------------------------------------------+------+-------+
    | Product or service offering                         | No.  | %     |
@@ -1767,7 +1804,7 @@ Currency and rates
 
 .. container:: question
 
-   What is the primary currency that you use?
+   |icon-question| What is the primary currency that you use?
 
    What is your hourly rate?
    What is you day rate?
@@ -1815,6 +1852,7 @@ Location of contractors
 .. table:: Location - North America - contractors
    :widths: 70 15 15
    :name: tbl-2023-geographical-location-north-america-contractors
+   :class: std3col
 
    +------------------+-----+-------+
    | Region           | No. | %     |
@@ -1833,6 +1871,7 @@ Location of contractors
 .. table:: Location - Europe - contractors
    :widths: 70 15 15
    :name: tbl-2023-geographical-location-europe-contractors
+   :class: std3col
 
    +------------------+-----+-------+
    | Region           | No. | %     |
@@ -1867,6 +1906,7 @@ Location of contractors
 .. table:: Location - other regions - contractors
    :widths: 70 15 15
    :name: tbl-2023-geographical-location-other-regions-contractors
+   :class: std3col
 
    +------------------+-----+-------+
    | Region           | No. | %     |
@@ -1929,7 +1969,7 @@ Contractor satisfaction
 
 .. container:: question
 
-   Considering only your contractor or freelance rates, gauge your level of satisfaction:
+   |icon-question| Considering only your contractor or freelance rates, gauge your level of satisfaction:
 
    - Very unsatisfied
    - Unsatisfied
@@ -2020,6 +2060,7 @@ Contractor satisfaction
 .. table:: Rate satisfaction - contractors
    :widths: 70 15 15
    :name: tbl-2023-rate-satisfaction-contractors
+   :class: std3col
 
    +-------------------+-----+-------+
    | Rate satisfaction | No. | %     |
@@ -2042,6 +2083,7 @@ Contractor satisfaction
 .. table:: Overall satisfaction - contractors
    :widths: 70 15 15
    :name: tbl-2023-overall-satisfaction-contractors
+   :class: std3col
 
    +----------------------+-----+-------+
    | Overall satisfaction | No. | %     |
@@ -2069,6 +2111,7 @@ Factors affecting contractor satisfaction
 .. table:: Factors affecting rate satisfaction - contractors
    :widths: 70 15 15
    :name: tbl-2023-factors-affecting-rate-satisfaction-contractors
+   :class: std3col
 
    +-----------------------------------------------------------------------------------+-----+-------+
    | Factor                                                                            | No. | %     |
@@ -2097,6 +2140,7 @@ Factors affecting contractor satisfaction
 .. table:: Factors affecting overall satisfaction - contractors
    :widths: 70 15 15
    :name: tbl-2023-factors-affecting-overall-satisfaction-contractors
+   :class: std3col
 
    +--------------------------------------------------------------------------------------+-----+------+
    | Factor                                                                               | No. | %    |
@@ -2161,6 +2205,7 @@ Factors affecting contractor satisfaction
 .. table:: Factors enhancing overall satisfaction - contractors
    :widths: 70 15 15
    :name: tbl-2023-factors-enhancing-overall-satisfaction-contractors
+   :class: std3col
 
    +----------------------------------------------------------------------------------------------------+-----+-------+
    | Factor                                                                                             | No. | %     |
@@ -2218,7 +2263,7 @@ Official pay transparency policy
 
 .. container:: question
 
-   Is there an official pay transparency policy at your organization?
+   |icon-question| Is there an official pay transparency policy at your organization?
 
    - Yes - compensation is disclosed for all roles, levels, and job listings to all employees and candidates
    - Yes - but disclosure is limited to certain roles, levels, candidacy or employment status, or location
@@ -2237,6 +2282,7 @@ Official pay transparency policy
 .. table:: Pay transparency policy
    :widths: 70 15 15
    :name: tbl-2023-pay-transparency-policy
+   :class: std3col
 
    +----------------------------------+-----+-------+
    | Official policy                  | No. | %     |
@@ -2261,7 +2307,7 @@ Pay transparency culture
 
 .. container:: question
 
-   Regardless of official policy, is there a culture of sharing salary information at your organization?
+   |icon-question| Regardless of official policy, is there a culture of sharing salary information at your organization?
 
    - Yes - all or most of my co-workers openly share salary information
    - Partial - some of my co-workers share salary information
@@ -2277,6 +2323,7 @@ Showing that salary is still very much a taboo subject, 67.1% of respondents rep
 .. table:: Pay transparency culture
    :widths: 70 15 15
    :name: tbl-2023-pay-transparency-culture
+   :class: std3col
 
    +----------------------------+-----+-------+
    | Pay transparency culture   | No. | %     |
@@ -2299,7 +2346,7 @@ Feelings abut pay transparency
 
 .. container:: question
 
-   Regardless of the situation at your organization, how do you personally feel about pay transparency?
+   |icon-question| Regardless of the situation at your organization, how do you personally feel about pay transparency?
 
    - Strongly oppose
    - Oppose
@@ -2316,6 +2363,7 @@ Feelings abut pay transparency
 .. table:: Feelings about pay transparency
    :widths: 70 15 15
    :name: tbl-2023-feelings-about-pay-transparency
+   :class: std3col
 
    +---------------------------------+-----+-------+
    | Feelings about pay transparency | No. | %     |
@@ -2345,7 +2393,7 @@ Organization size
 
 .. container:: question
 
-   What is the approximate size of your organization, in number of employees?
+   |icon-question| What is the approximate size of your organization, in number of employees?
 
    - Less than 10
    - 11 - 50
@@ -2368,6 +2416,7 @@ As in previous years, medium-sized organizations make up the largest proportion 
 .. table:: Organization size - employees only
    :widths: 70 15 15
    :name: tbl-2023-organization-size-employees
+   :class: std3col
 
    +--------------------------------------------+-----+-------+
    | Organization size (employees)              | No. | %     |
@@ -2394,6 +2443,7 @@ As in previous years, medium-sized organizations make up the largest proportion 
 .. table:: Organization size - contractors only
    :widths: 70 15 15
    :name: tbl-2023-organization-size-contractors
+   :class: std3col
 
    +--------------------------------------------+-----+-------+
    | Organization size (employees)              | No. | %     |
@@ -2426,7 +2476,7 @@ Organization type and industry
 
 .. container:: question
 
-   This organization is primarily:
+   |icon-question| This organization is primarily:
 
    - A non-profit, community, political, educational or governmental organization, or an NGO
    - A business, corporation or other for-profit organization
@@ -2482,6 +2532,7 @@ Based on feedback and "other" entries for industry, the final list of industries
 .. table:: Organization industry
    :widths: 70 15 15
    :name: tbl-2023-organization-industry
+   :class: std3col
 
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
    | Industry                                                                                                                                                                   | No. | %     |
@@ -2563,7 +2614,7 @@ Organization origin and location
 
 .. container:: question
 
-   Is this a multinational organization? Note: A multinational organization is defined as one that has office locations and business operations in two or more countries.
+   |icon-question| Is this a multinational organization? Note: A multinational organization is defined as one that has office locations and business operations in two or more countries.
 
    Where is your organization based?
 
@@ -2595,7 +2646,7 @@ Age group
 
 .. container:: question
 
-   What is your age?
+   |icon-question| What is your age?
 
    - 18-25
    - 26-35
@@ -2614,6 +2665,7 @@ The age group split was very neat this year - approximately one third of respond
 .. table:: Age group
    :widths: 70 15 15
    :name: tbl-2023-age-group
+   :class: std3col
 
    +---------------+-----+-------+
    | Age group     | No. | %     |
@@ -2642,7 +2694,7 @@ Gender identity
 
 .. container:: question
 
-   What gender identity do you most identify with?
+   |icon-question| What gender identity do you most identify with?
 
    - Woman
    - Man
@@ -2659,6 +2711,7 @@ The majority of respondents in 2023 were women - accounting for 59.9% of the tot
 .. table:: Gender identity
    :widths: 70 15 15
    :name: tbl-2023-gender-identity
+   :class: std3col
 
    +-----------------+-----+-------+
    | Gender identity | No. | %     |
@@ -2683,7 +2736,7 @@ Experience
 
 .. container:: question
 
-   How many years of experience do you have in documentation?
+   |icon-question| How many years of experience do you have in documentation?
 
    - Less than 1 year
    - More than 1 year but less than  2 years
@@ -2705,6 +2758,7 @@ The experience level of respondents in 2023 was similar to previous years - arou
 .. table:: Experience in documentation
    :widths: 70 15 15
    :name: tbl-2023-experience
+   :class: std3col
 
    +---------------------+-----+-------+
    | Years of experience | No. | %     |
@@ -2739,7 +2793,7 @@ Education level
 
 .. container:: question
 
-   What is the highest level of education that you have completed?
+   |icon-question| What is the highest level of education that you have completed?
    If your education level isn't listed, choose the option that's the closest equivalent to the level you have completed. We're asking for the highest level completed, so if you are still working towards a qualification, please select the highest level you have actually finished.
 
    - High school
@@ -2760,9 +2814,10 @@ Overall, most respondents are university- or college-educated: 93.9% held at lea
 .. table:: Highest education level completed
    :widths: 70 15 15
    :name: tbl-2023-education
+   :class: std3col
 
    +-------------------------+-----+-------+
-   | Education Level         | No. | %     |
+   | Education level         | No. | %     |
    +=========================+=====+=======+
    | Graduate                | 499 | 49.1% |
    +-------------------------+-----+-------+
@@ -2790,7 +2845,7 @@ Location
 
 .. container:: question
 
-   Which of the following best describes the type of area where you reside?
+   |icon-question| Which of the following best describes the type of area where you reside?
 
    - Rural area (low population density, ≤5000 people)
    - Town or suburban area (medium population density, ≤50,000 people)
@@ -2819,6 +2874,7 @@ TODO: Degree of Urbanization
 .. table:: Respondent location - North America
    :widths: 70 15 15                
    :name: tbl-2023-respondent-location-north-america
+   :class: std3col
 
    +------------------------+-----+--------+
    | Region                 | No. | %      |
@@ -2843,6 +2899,7 @@ TODO: Degree of Urbanization
 .. table:: Respondent location - Europe
    :widths: 70 15 15
    :name: tbl-2023-respondent-location-europe
+   :class: std3col
 
    +------------------------+-----+--------+
    | Region                 | No. | %      |
@@ -2921,6 +2978,7 @@ TODO: Degree of Urbanization
 .. table:: Respondent location - Other regions
    :widths: 70 15 15
    :name: tbl-2023-respondent-location-other-regions
+   :class: std3col
 
    +------------------------+-----+--------+
    | Region                 | No. | %      |
@@ -2982,6 +3040,7 @@ Respondent location regional breakdowns
 .. table:: Respondent location - US state
    :widths: 70 15 15
    :name: tbl-2023-respondent-location-us-state
+   :class: std3col
 
    +-----------------+-----+-------+
    | US State        | No. | %     |
@@ -3080,6 +3139,7 @@ Respondent location regional breakdowns
 .. table:: Respondent location - Canadian province
    :widths: 70 15 15
    :name: tbl-2023-respondent-location-canadian-province
+   :class: std3col
 
    +---------------------------+-----+-------+
    | Province                  | No. | %     |
@@ -3114,6 +3174,7 @@ Respondent location regional breakdowns
 .. table:: Respondent location - Australian state
    :widths: 70 15 15
    :name: tbl-2023-respondent-location-australian-state
+   :class: std3col
 
    +-------------------+-----+-------+
    | State             | No. | %     |
@@ -3152,7 +3213,7 @@ For the first time this year, we included a mini "meta-survey" - a handful of qu
 
 .. container:: question
 
-   Have you participated in a WTD Salary Survey before?
+   |icon-question| Have you participated in a WTD Salary Survey before?
 
    How would you rate the following three aspects of the survey? Options given for each were: excellent, good, OK, not great, no opinion.
 

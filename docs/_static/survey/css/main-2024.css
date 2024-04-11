@@ -285,6 +285,8 @@ a[target="_blank"]::after, a.external::after {
 
 /* "What we asked" collapsing details blocks */
 details {
+	position: relative;
+	overflow: hidden;
 	border-radius: var(--radius-2);
 	box-shadow: var(--shadow);
 	background: var(--surface-0);
@@ -296,6 +298,14 @@ details {
 			outline: dotted 1px;
 			outline-offset: var(--size-4);
 		}
+	}
+	i { /* fontawesome icon */
+		color: var(--brand);
+		position: absolute;
+		font-size: 12rem;
+		right: -2.75rem;
+		top: -1.75rem;
+		opacity: 0.05;
 	}
 }
 
@@ -584,6 +594,32 @@ main {
 			
 
 		}
+		&&.std3col {
+			thead {
+				tr {
+					th {
+						&&:nth-of-type(2) {
+							text-align: center;
+						}
+						&&:nth-of-type(3) {
+							text-align: right;
+						}
+					}
+				}
+			}
+			tbody {
+				tr {
+					td {
+						&&:nth-of-type(2) {
+							text-align: center;
+						}
+						&&:nth-of-type(3) {
+							text-align: right;
+						}
+					}
+				}
+			}
+		}
 	}
 }
 @media screen and (max-width: 869px) { /* tablet table layout */
@@ -610,6 +646,37 @@ main {
 		}
 	}
 }
+
+/* specific table overrrides */
+#tbl-2023-basis-of-employment-history {
+	thead {
+		th {
+			&&:nth-of-type(2) {
+				text-align: center;
+			}
+			&&:nth-of-type(4) {
+				text-align: center;
+			}
+		}
+	}
+	tbody {
+		td {
+			&&:nth-of-type(2) {
+				text-align: center;
+			}
+			&&:nth-of-type(3) {
+				text-align: right;
+			}
+			&&:nth-of-type(5) {
+				text-align: center;
+			}
+			&&:nth-of-type(6) {
+				text-align: right;
+			}
+		}
+	}
+}
+
 
 /* CSS tabs */
 .tab-wrap {
