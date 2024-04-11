@@ -665,6 +665,14 @@ main {
 	}
 }
 
+table:has(+ div.tbl-footnote) {
+	margin-bottom: 0;
+}
+
+.tbl-footnote {
+	margin-bottom: var(--size-8);
+}
+
 /* specific table overrrides */
 #tbl-2023-basis-of-employment-history {
 	thead {

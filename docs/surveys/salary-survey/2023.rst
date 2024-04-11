@@ -643,27 +643,27 @@ Of the contractors, having a contract or project ending prematurely was the most
    :name: tbl-2023-employment-change-contractors
    :class: std3col
 
-   +---------------------+-----+-------+
-   | Change              | No. | %     |
-   +=====================+=====+=======+
-   | Ended prematurely   |  14 | 41.2% |
-   +---------------------+-----+-------+
-   | New contract        |  12 | 35.3% |
-   +---------------------+-----+-------+
-   | Left employment     |   8 | 23.5% |
-   +---------------------+-----+-------+
-   | Ended normally      |   7 | 20.6% |
-   +---------------------+-----+-------+
-   | Pipeline            |   6 | 17.6% |
-   +---------------------+-----+-------+
-   | Not renewed         |   5 | 14.7% |
-   +---------------------+-----+-------+
-   | Resigned with offer |   4 | 11.8% |
-   +---------------------+-----+-------+
-   | Fired client        |   3 |  8.8% |
-   +---------------------+-----+-------+
-   | Left contracting    |   2 |  5.9% |
-   +---------------------+-----+-------+
+   +----------------------------+-----+-------+
+   | Change                     | No. | %     |
+   +============================+=====+=======+
+   | Contract ended prematurely |  14 | 41.2% |
+   +----------------------------+-----+-------+
+   | New contract               |  12 | 35.3% |
+   +----------------------------+-----+-------+
+   | Left employment            |   8 | 23.5% |
+   +----------------------------+-----+-------+
+   | Contracted ended normally  |   7 | 20.6% |
+   +----------------------------+-----+-------+
+   | Pipeline dried up          |   6 | 17.6% |
+   +----------------------------+-----+-------+
+   | Contract not renewed       |   5 | 14.7% |
+   +----------------------------+-----+-------+
+   | Resigned with offer        |   4 | 11.8% |
+   +----------------------------+-----+-------+
+   | Fired client               |   3 |  8.8% |
+   +----------------------------+-----+-------+
+   | Left contracting           |   2 |  5.9% |
+   +----------------------------+-----+-------+
 
 .. raw:: html
 
@@ -1420,7 +1420,13 @@ Employee benefits
    | Transportation-related benefits (car, parking, fuel, public transport etc) | 184  | 19.6% |
    +----------------------------------------------------------------------------+------+-------+
 
+.. raw:: html 
+   
+   <div class="tbl-footnote">
+
 \* in excess of any government-mandated minimums
+
+.. raw:: html 
 
 Employee satisfaction
 ---------------------
@@ -1601,7 +1607,15 @@ As a result of 5 submissions in the "other" category, a new factor was added, "N
    | No raises or adjustments for inflation *                              |   5 |  0.5% |
    +-----------------------------------------------------------------------+-----+-------+
 
+.. raw:: html 
+   
+   <div class="tbl-footnote">
+
 \* A new factor, added as a result of multiple submissions in the "other" category
+
+.. raw:: html 
+
+   </div>
 
 Factors affecting overall job satisfaction
 ------------------------------------------
