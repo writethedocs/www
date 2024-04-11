@@ -3106,7 +3106,26 @@ Location
 
 While most questions in this section were optional, general geographical location was not - this is because without country and state/province/region, we cannot calculate regional median salaries, which is one of the main objectives of the survey. For privacy reasons, finer-grained geographical location is optional.
 
-TODO: Degree of Urbanization
+The majority of respondents - 70.3% - reported living in a city or urban area, with 23.7% in a town or suburban (semi-dense) location and only 6% living in a rural area. 
+
+.. table:: Degree of urbanization 
+   :widths: 70 15 15                
+   :name: tbl-2023-degree-of-urbanization
+   :class: std3col
+
+   +-----------------------+-----+-------+
+   | Area type             | No. | %     |
+   +=======================+=====+=======+
+   | City or urban area    | 715 | 70.3% |
+   +-----------------------+-----+-------+
+   | Town or suburban area | 241 | 23.7% |
+   +-----------------------+-----+-------+
+   | Rural area            | 61  | 6.0%  |
+   +-----------------------+-----+-------+
+
+A little over half of respondents (55.7%) were based in North America, the bulk of those in the United States. 
+
+New countries appearing in the results for 2023 include the Carribean islands of St Kitts & Nevis, Puerto Rico, United Arab Emirates, Lebanon, and Rwanda. 
 
 .. raw:: html
 
