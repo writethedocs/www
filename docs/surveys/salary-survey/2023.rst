@@ -10,6 +10,12 @@
 
    <i class="fa-solid fa-circle-question"></i>
 
+.. |25| replace:: 25\ :sup:`th`
+
+.. |50| replace:: 50\ :sup:`th`
+
+.. |75| replace:: 75\ :sup:`th`
+
 .. raw:: html   
    
   <nav>
@@ -255,6 +261,19 @@ As in previous years, the most widely used exact title was "Technical Writer", r
 .. raw:: html
 
    </div></div>
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Job title word cloud" aria-describedby="figure_job-title-word-cloud_desc" type="image/svg+xml" data="/_images/2023-job-title-word-cloud.svg">
+         <p id="figure_job-title-word-cloud_desc">Word cloud showing relative weights of job title keywords</p>
+      </object> 
+      <figcaption>Figure: Job title word cloud</figcaption>
+   </figure>
+
+.. figure:: images/2023/2023-job-title-word-cloud.svg
+   :class: hide
+
 
 Type of role
 ------------
@@ -1048,7 +1067,7 @@ Employee salary, benefits and satisfaction
 
 To protect the privacy of our community, we do not publish median salary figures for any region or category with less than 10 respondents. In previous years, this has meant that median salaries could only be given for a few regions and countries, and a handful of US states.     
 
-With this year's survey amassing the highest number of submissions yet, we can now provide a more extensive range of salary breakdowns. Alongside the baseline data for Africa, which encompasses respondents from South Africa, Kenya, and Nigeria, we have gathered enough data to publish medians for 15 individual countries, 17 US states, 3 Canadian provinces (including separate figures for each province's capital city), and 3 Australian states.
+With this year's survey amassing the highest number of submissions yet, we can now provide a more extensive range of salary breakdowns. Alongside the baseline data for Africa, which encompasses respondents from South Africa, Kenya, and Nigeria, we have gathered enough data to publish median salaries (50th percentile) for 15 individual countries, 17 US states, 3 Canadian provinces (including separate figures for each province's capital city), and 3 Australian states.
 
 In regions or categories meet the minimum threshold of 30 respondents, we're also providing the 25th percentile (the value below which 25% of the data falls) and 75th percentile (the value below which 75% of the data falls) figures.
 
@@ -1164,10 +1183,6 @@ Median salary
 
 As in previous years, salaries for those working part-time hours (less than 30 per week) have been omitted from the figures in this section. The median salaries are based on 922 full-time employee respondents.  
 
-The median salary for all regions combined in 2023 was USD $82,418 (meaning that half of all respondents earned more, and half earned less). This is the highest overall median reported since the survey began. 
-
-The 25th percentile salary for all regions was USD $58,534 and the 75th percentile salary was USD $118,571. 
-
 Median salary by respondent region
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1187,13 +1202,15 @@ Given the range of socio-economic differences in the countries in the survey res
    - Africa: South Africa, Kenya, Nigeria 
    - South America: Brazil, Argentina 
 
-.. table:: Median salary (USD) by respondent region
-   :name: tbl-2023-median-salary-by-respondent-region
+.. table:: Salary (USD) by respondent region
+   :name: tbl-2023-salary-by-respondent-region
    :class: medians
 
    +-------------------------+-------------+--------------+--------------+
-   | Region (No.)            | 25th %ile   | Median       | 75th %ile    |
+   | Region (No.)            | |25|        |  |50|        | |75|         |
    +=========================+=============+==============+==============+
+   | **Worldwide** (922)     | **$58,534** | **$82,418**  | **$118,571** |
+   +-------------------------+-------------+--------------+--------------+
    | **North America** (526) | **$80,000** | **$105,000** | **$140,000** |
    +-------------------------+-------------+--------------+--------------+
    | - USA (444)             |     $86,962 |     $114,000 |     $147,000 |
@@ -1240,18 +1257,18 @@ Given the range of socio-economic differences in the countries in the survey res
 Median salary by respondent region - further breakdowns
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-37 US states were represented in the results. Of these, 17 had more than the minimum 10 respondents required to calculate a state-based median salary. Where possible, major city breakdowns are also provided. For the first time, the 2024 results included enough Canadian-based respondents to publish median salaries, for three provinces and three major cities as well as the country overall. Also for the first time, the 2024 results included enough Australian respondents to publish median salaries for three states. 
+Where respondent numbers for individual US and Australian states, 
 
 .. raw:: html
 
    <div class="tab-wrap"><input type="radio" id="tabD3-1" name="tabGroupD3" class="tab" checked><label for="tabD3-1">United States</label><input type="radio" id="tabD3-2" name="tabGroupD3" class="tab"><label for="tabD3-2">Canada</label><input type="radio" id="tabD3-3" name="tabGroupD3" class="tab"><label for="tabD3-3">Australia</label><div class="tab__content">
 
-.. table:: Median salary (USD) by respondent region - US state
-   :name: tbl-2023-median-salary-by-respondent-region-us-state
+.. table:: Salary (USD) by respondent region - USA
+   :name: tbl-2023-salary-by-respondent-region-usa
    :class: medians
 
    +---------------------+-----------+----------+-----------+
-   | State (No.)         | 25th %ile | Median   | 75th %ile |
+   | State (No.)         | |25|      | |50|     | |75|      |
    +=====================+===========+==========+===========+
    | California (65)     |  $100,995 | $149,347 |  $180,000 |
    +---------------------+-----------+----------+-----------+
@@ -1300,12 +1317,12 @@ Median salary by respondent region - further breakdowns
 
    </div><div class="tab__content">
 
-.. table:: Median salary (USD) by respondent region - Canadian province
-   :name: tbl-2023-median-salary-by-respondent-region-canadian-province
+.. table:: Salary (USD) by respondent region - Canada
+   :name: tbl-2023-salary-by-respondent-region-canada
    :class: medians
 
    +-----------------------+-----------+---------+-----------+
-   | Province (No.)        | 25th %ile | Median  | 75th %ile |
+   | Province (No.)        | |25|      | |50|    | |75|      |
    +=======================+===========+=========+===========+
    | Ontario (37)          |   $62,217 | $70,365 |   $85,179 |
    +-----------------------+-----------+---------+-----------+
@@ -1324,12 +1341,12 @@ Median salary by respondent region - further breakdowns
 
    </div><div class="tab__content">
 
-.. table:: Median salary (USD) by respondent region - Australian state
-   :name: tbl-2023-median-salary-by-respondent-region-australian-state
+.. table::Salary (USD) by respondent region - Australian state
+   :name: tbl-2023-salary-by-respondent-region-australian-state
    :class: std3col
 
    +-----------------+-----+--------------+
-   | State           | No. | Median       |
+   | State           | No. | |50|         |
    +=================+=====+==============+
    | Queensland      | 12  | $84,990      |
    +-----------------+-----+--------------+
@@ -1337,6 +1354,383 @@ Median salary by respondent region - further breakdowns
    +-----------------+-----+--------------+
    | Victoria        | 11  | $93,556      |
    +-----------------+-----+--------------+
+
+.. raw:: html
+
+   </div></div>
+
+Median salary by gender identity
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Due to numbers, we are only able to break down salary by gender identity for women (59.9% of all respondents) and men (34.7% of all respondents). In every region, men earned more than women, by as much as XX% (in YY region).
+
+.. raw:: html
+
+   <div class="tab-wrap"><input type="radio" id="tabD33-1" name="tabGroupD33" class="tab" checked><label for="tabD33-1">Women</label><input type="radio" id="tabD33-2" name="tabGroupD33" class="tab"><label for="tabD33-2">Men</label><div class="tab__content">
+
+.. table:: Salary (USD) by gender identity - women
+   :name: tbl-2023-salary-by-gender-identity-women
+   :class: medians
+
+   +-------------------------+-------------+--------------+--------------+
+   | Region (No.)            | |25|        | |50|         | |75|         |
+   +=========================+=============+==============+==============+
+   | **Worldwide** (544)     | **$55,060** | **$80,000**  | **$114,250** |
+   +-------------------------+-------------+--------------+--------------+
+   | **North America** (310) | **$80,000** | **$107,338** | **$140,000** |
+   +-------------------------+-------------+--------------+--------------+
+   | - United States (262)   |     $86,512 |     $112,700 |     $144,750 |
+   +-------------------------+-------------+--------------+--------------+
+   | - Canada (43)           |     $62,588 |      $70,365 |      $96,289 |
+   +-------------------------+-------------+--------------+--------------+
+   | **Europe** (179)        | **$34,063** | **$52,030**  | **$71,682**  |
+   +-------------------------+-------------+--------------+--------------+
+   | - United Kingdom (34)   |     $57,283 |      $72,058 |      $81,073 |
+   +-------------------------+-------------+--------------+--------------+
+   | - Ukraine (28)          |             |      $27,081 |              |
+   +-------------------------+-------------+--------------+--------------+
+   | - Germany (20)          |             |      $74,251 |              |
+   +-------------------------+-------------+--------------+--------------+
+   | - France (15)           |             |      $45,526 |              |
+   +-------------------------+-------------+--------------+--------------+
+   | - Romania (15)          |             |      $38,502 |              |
+   +-------------------------+-------------+--------------+--------------+
+   | - Poland (11)           |             |      $32,519 |              |
+   +-------------------------+-------------+--------------+--------------+
+   | - Ireland (10)          |             |      $80,051 |              |
+   +-------------------------+-------------+--------------+--------------+
+   | **Oceania** (21)        | **--**      | **$80,612**  | **--**       |
+   +-------------------------+-------------+--------------+--------------+
+   | - Australia (17)        |             |      $82,356 |              |
+   +-------------------------+-------------+--------------+--------------+
+   | **Asia** (20)           | **--**      | **$21,762**  | **--**       |
+   +-------------------------+-------------+--------------+--------------+
+   | - India (15)            |             |      $19,344 |              |
+   +-------------------------+-------------+--------------+--------------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Salary (USD) by gender identity - men
+   :name: tbl-2023-salary-by-gender-identity-men
+   :class: medians
+
+   +-------------------------+-------------+--------------+--------------+
+   | Region (No.)            | |25|        | |50|         | |75|         |
+   +=========================+=============+==============+==============+
+   | **Worldwide** (326)     | **$62,671** | **$90,000**  | **$128,840** |
+   +-------------------------+-------------+--------------+--------------+
+   | **North America** (185) | **$80,000** | **$105,000** | **$147,665** |
+   +-------------------------+-------------+--------------+--------------+
+   | - United States (156)   |     $87,369 |     $114,000 |     $150,000 |
+   +-------------------------+-------------+--------------+--------------+
+   | - Canada (26)           |             |      $77,772 |              |
+   +-------------------------+-------------+--------------+--------------+
+   | **Europe** (94)         | **$43,832** | **$65,355**  | **$91,762**  |
+   +-------------------------+-------------+--------------+--------------+
+   | - United Kingdom (18)   |             |      $74,124 |              |
+   +-------------------------+-------------+--------------+--------------+
+   | - Germany (11)          |             |      $80,755 |              |
+   +-------------------------+-------------+--------------+--------------+
+   | **Oceania** (19)        | **--**      | **$93,556**  | **--**       |
+   +-------------------------+-------------+--------------+--------------+
+   | - Australia (19)        |             | $93,556      |              |
+   +-------------------------+-------------+--------------+--------------+
+   | **Asia** (13)           | **--**      | **$38,495**  | **--**       |
+   +-------------------------+-------------+--------------+--------------+
+   | - India (10)            |             |      $33,489 |              |
+   +-------------------------+-------------+--------------+--------------+
+
+.. raw:: html
+
+   </div></div>
+
+Median salary by years of experience
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. raw:: html
+
+   <div class="tab-wrap"><input type="radio" id="tabD43-1" name="tabGroupD43" class="tab" checked><label for="tabD43-1">0-2 years</label><input type="radio" id="tabD43-2" name="tabGroupD43" class="tab"><label for="tabD43-2">2-5 years</label><input type="radio" id="tabD43-3" name="tabGroupD43" class="tab"><label for="tabD43-3">5-10 years</label><div class="tab__content">
+
+.. table:: Salary (USD) by experience - 0-2 years
+   :name: tbl-2023-salary-by-experience-0-2yrs
+   :class: medians
+
+   +----------------------+-----------+--------------+-----------+
+   | Region (No.)         | |25|      |       |50|   | |75|      |
+   +======================+===========+==============+===========+
+   | Worldwide (78)       |   $39,028 |      $60,000 |   $75,251 |
+   +----------------------+-----------+--------------+-----------+
+   | North America (43)   |   $60,000 |      $70,000 |   $86,525 |
+   +----------------------+-----------+--------------+-----------+
+   | - United States (38) |   $60,400 |      $72,400 |   $88,263 |
+   +----------------------+-----------+--------------+-----------+
+   | Europe (28)          |           |      $39,377 |           |
+   +----------------------+-----------+--------------+-----------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Salary (USD) by experience - 2-5 years
+   :name: tbl-2023-salary-by-experience-2-5yrs
+   :class: medians
+
+   +----------------------+-----------+---------+-----------+
+   | Region (No.)         | |25|      | |50|    | |75|      |
+   +======================+===========+=========+===========+
+   | Worldwide (186)      |   $39,309 | $65,109 |   $85,750 |
+   +----------------------+-----------+---------+-----------+
+   | North America (84)   |   $68,786 | $81,695 |  $100,000 |
+   +----------------------+-----------+---------+-----------+
+   | - United States (63) |   $78,205 | $90,000 |  $109,500 |
+   +----------------------+-----------+---------+-----------+
+   | - Canada (18)        |           | $64,069 |           |
+   +----------------------+-----------+---------+-----------+
+   | Europe (85)          |   $32,519 | $45,526 |   $62,653 |
+   +----------------------+-----------+---------+-----------+
+   | - Ukraine (17)       |           | $27,316 |           |
+   +----------------------+-----------+---------+-----------+
+   | - Germany (11)       |           | $72,625 |           |
+   +----------------------+-----------+---------+-----------+
+   | - Poland (11)        |           | $34,845 |           |
+   +----------------------+-----------+---------+-----------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Salary (USD) by experience - 5-10 years
+   :name: tbl-2023-salary-by-experience-5-10yrs
+   :class: medians
+
+   +-----------------------+---------+----------+----------+
+   | Region (No.)          | |25|    | |50|     | |75|     |
+   +=======================+=========+==========+==========+
+   | Worldwide (256)       | $59,618 |  $80,800 | $119,427 |
+   +-----------------------+---------+----------+----------+
+   | North America (141)   | $78,250 | $105,000 | $140,000 |
+   +-----------------------+---------+----------+----------+
+   | - United States (120) | $85,750 | $115,000 | $147,587 |
+   +-----------------------+---------+----------+----------+
+   | - Canada (19)         | $61,477 |  $67,798 |  $94,437 |
+   +-----------------------+---------+----------+----------+
+   | Europe (86)           | $42,215 |  $64,460 |  $79,783 |
+   +-----------------------+---------+----------+----------+
+   | - United Kingdom (19) |         |  $75,126 |          |
+   +-----------------------+---------+----------+----------+
+   | - Germany (11)        |         |  $77,070 |          |
+   +-----------------------+---------+----------+----------+
+   | Oceania (11)          |         |  $82,447 |          |
+   +-----------------------+---------+----------+----------+
+   | Asia (10)             |         |  $25,733 |          |
+   +-----------------------+---------+----------+----------+
+
+.. raw:: html
+
+   </div></div>
+
+.. raw:: html
+
+   <div class="tab-wrap"><input type="radio" id="tabD53-1" name="tabGroupD53" class="tab" checked><label for="tabD53-1">10-15 years</label><input type="radio" id="tabD53-2" name="tabGroupD53" class="tab"><label for="tabD53-2">15-20 years</label><input type="radio" id="tabD53-3" name="tabGroupD53" class="tab"><label for="tabD53-3">20+ years</label><div class="tab__content">
+
+.. table:: Salary (USD) by experience - 10-15 years
+   :name: tbl-2023-salary-by-experience-10-15yrs
+   :class: medians
+
+   +----------------------+---------+----------+----------+
+   | Region (No.)         | |25|    | |50|     | |75|     |
+   +======================+=========+==========+==========+
+   | Worldwide (147)      | $62,545 |  $90,017 | $133,000 |
+   +----------------------+---------+----------+----------+
+   | North America (78)   | $87,000 | $128,812 | $155,158 |
+   +----------------------+---------+----------+----------+
+   | - United States (67) | $97,000 | $135,000 | $162,500 |
+   +----------------------+---------+----------+----------+
+   | - Canada (10)        |         |  $72,217 |          |
+   +----------------------+---------+----------+----------+
+   | Europe (50)          | $48,240 |  $63,483 |  $90,005 |
+   +----------------------+---------+----------+----------+
+   | Oceania (11)         |         |  $90,262 |          |
+   +----------------------+---------+----------+----------+
+   | - Australia (10)     |         |  $90,986 |          |
+   +----------------------+---------+----------+----------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Salary (USD) by experience - 15-20 years
+   :name: tbl-2023-salary-by-experience-15-20yrs
+   :class: medians
+
+   +----------------------+---------+----------+----------+
+   | Region (No.)         | |25|    | |50|     | |75|     |
+   +======================+=========+==========+==========+
+   | Worldwide (95)       | $75,955 |  $96,000 | $124,500 |
+   +----------------------+---------+----------+----------+
+   | North America (54)   | $94,250 | $115,000 | $142,500 |
+   +----------------------+---------+----------+----------+
+   | - United States (47) | $98,450 | $122,000 | $146,000 |
+   +----------------------+---------+----------+----------+
+   | Europe (22)          |         |  $70,913 |          |
+   +----------------------+---------+----------+----------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Salary (USD) by experience - 20+ years
+   :name: tbl-2023-salary-by-experience-20-plus-yrs
+   :class: medians
+
+   +-----------------------+----------+----------+----------+
+   | Region (No.)          |     |25| |     |50| |     |75| |
+   +=======================+==========+==========+==========+
+   | Worldwide (156)       |  $95,000 | $115,149 | $147,783 |
+   +-----------------------+----------+----------+----------+
+   | North America (122)   | $104,250 | $125,000 | $160,000 |
+   +-----------------------+----------+----------+----------+
+   | - United States (106) | $108,000 | $126,473 | $163,000 |
+   +-----------------------+----------+----------+----------+
+   | - Canada (15)         |          | $112,584 |          |
+   +-----------------------+----------+----------+----------+
+   | Europe (16)           |          |  $62,390 |          |
+   +-----------------------+----------+----------+----------+
+
+.. raw:: html
+
+   </div></div>
+
+Median salary by organization size (employees)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. raw:: html
+
+   <div class="tab-wrap"><input type="radio" id="tabD63-1" name="tabGroupD63" class="tab" checked><label for="tabD63-1">1-100</label><input type="radio" id="tabD63-2" name="tabGroupD63" class="tab"><label for="tabD63-2">101-1K</label><input type="radio" id="tabD63-3" name="tabGroupD63" class="tab"><label for="tabD63-3">1,001-10K</label><div class="tab__content">
+
+.. table:: Salary (USD) by org size - 1-100 employees
+   :name: tbl-2023-salary-by-org-size-1-100
+   :class: medians
+
+   +----------------------+---------+----------+----------+
+   | Region (No.)         |    |25| |     |50| |     |75| |
+   +======================+=========+==========+==========+
+   | Worldwide (130)      | $49,007 |  $71,289 | $100,000 |
+   +----------------------+---------+----------+----------+
+   | North America (56)   | $73,841 |  $98,050 | $141,250 |
+   +----------------------+---------+----------+----------+
+   | - United States (46) | $88,119 | $101,440 | $143,750 |
+   +----------------------+---------+----------+----------+
+   | Europe (53)          | $35,771 |  $54,632 |  $70,457 |
+   +----------------------+---------+----------+----------+
+   | Oceania (10)         |         |  $72,473 |          |
+   +----------------------+---------+----------+----------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Salary (USD) by org size - 101-1,000 employees
+   :name: tbl-2023-salary-by-org-size-101-1000
+   :class: medians
+
+   +-----------------------+---------+----------+----------+
+   | Region (No.)          |    |25| |     |50| |     |75| |
+   +=======================+=========+==========+==========+
+   | Worldwide (340)       | $56,580 |  $80,000 | $105,000 |
+   +-----------------------+---------+----------+----------+
+   | North America (176)   | $77,133 |  $98,000 | $130,009 |
+   +-----------------------+---------+----------+----------+
+   | - United States (140) | $81,875 | $105,000 | $137,625 |
+   +-----------------------+---------+----------+----------+
+   | - Canada (34)         | $63,328 |  $73,791 |  $87,956 |
+   +-----------------------+---------+----------+----------+
+   | Europe (124)          | $42,000 |  $58,534 |  $77,855 |
+   +-----------------------+---------+----------+----------+
+   | - United Kingdom (24) |         |  $73,561 |          |
+   +-----------------------+---------+----------+----------+
+   | - Germany (17)        |         |  $77,070 |          |
+   +-----------------------+---------+----------+----------+
+   | - Ukraine (13)        |         |  $32,519 |          |
+   +-----------------------+---------+----------+----------+
+   | - France (12)         |         |  $47,375 |          |
+   +-----------------------+---------+----------+----------+
+   | Oceania (17)          |         |  $82,356 |          |
+   +-----------------------+---------+----------+----------+
+   | - Australia (15)      |         |  $82,356 |          |
+   +-----------------------+---------+----------+----------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Salary (USD) by org size - 1,001-10,000 employees
+   :name: tbl-2023-salary-by-org-size-1001-10000
+   :class: medians
+
+   +-----------------------+---------+----------+----------+
+   | Region (No.)          |    |25| |     |50| |     |75| |
+   +=======================+=========+==========+==========+
+   | Worldwide (258)       | $60,559 |  $82,490 | $118,382 |
+   +-----------------------+---------+----------+----------+
+   | North America (158)   | $78,255 | $106,250 | $133,643 |
+   +-----------------------+---------+----------+----------+
+   | - United States (137) | $82,534 | $110,000 | $140,000 |
+   +-----------------------+---------+----------+----------+
+   | - Canada (19)         | $62,217 |  $67,798 |  $77,519 |
+   +-----------------------+---------+----------+----------+
+   | Europe (74)           | $34,726 |  $54,993 |  $79,783 |
+   +-----------------------+---------+----------+----------+
+   | - United Kingdom (13) | $56,156 |  $62,605 |  $80,001 |
+   +-----------------------+---------+----------+----------+
+   | - Ukraine (11)        | $18,000 |  $25,200 |  $44,032 |
+   +-----------------------+---------+----------+----------+
+   | Asia (12)             | $22,278 |  $31,968 |  $55,312 |
+   +-----------------------+---------+----------+----------+
+
+.. raw:: html
+
+   </div></div>
+
+.. raw:: html
+
+   <div class="tab-wrap"><input type="radio" id="tabD73-1" name="tabGroupD73" class="tab" checked><label for="tabD73-1">10,001-100K</label><input type="radio" id="tabD73-2" name="tabGroupD73" class="tab"><label for="tabD73-2">100K +</label><div class="tab__content">
+
+.. table:: Salary (USD) by org size - 10,001-100K employees
+   :name: tbl-2023-salary-by-org-size-10001-100k
+   :class: medians
+
+   +----------------------+---------+----------+----------+
+   | Region (No.)         |    |25| |     |50| |     |75| |
+   +======================+=========+==========+==========+
+   | Worldwide (139)      | $70,891 | $100,000 | $133,750 |
+   +----------------------+---------+----------+----------+
+   | North America (99)   | $90,000 | $110,000 | $148,500 |
+   +----------------------+---------+----------+----------+
+   | - United States (90) | $94,050 | $112,700 | $152,700 |
+   +----------------------+---------+----------+----------+
+   | Europe (28)          | $38,853 |  $54,430 |  $72,747 |
+   +----------------------+---------+----------+----------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Salary (USD) by org size - 100K + employees
+   :name: tbl-2023-salary-by-org-size-100k-plus
+   :class: medians
+
+   +----------------------+----------+----------+----------+
+   | Region (No.)         |     |25| |     |50| |     |75| |
+   +======================+==========+==========+==========+
+   | Worldwide (55)       |  $55,315 | $128,623 | $160,500 |
+   +----------------------+----------+----------+----------+
+   | North America (37)   | $115,448 | $152,258 | $190,000 |
+   +----------------------+----------+----------+----------+
+   | - United States (31) | $129,312 | $158,900 | $199,500 |
+   +----------------------+----------+----------+----------+
 
 .. raw:: html
 
