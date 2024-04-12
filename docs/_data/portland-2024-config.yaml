@@ -88,7 +88,7 @@ grants:
   notification: 'February 14, 2024'
 
 shirts:
-  url: https://teespring.com/wtd-pdx-2024
+  url: https://shirt.writethedocs.org/
   ends: "May 31, 2024"
 
 date: # how do we handle these? human readable would be nice.
