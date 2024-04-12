@@ -385,22 +385,6 @@ Of the 18.8% who indicated that they worked as a manager or team leader, 62.3% a
    +--------------------------------------------------------------------------------------+-----+-------+
    | Multiple teams                                                                       | 28  | 2.8%  |
    +--------------------------------------------------------------------------------------+-----+-------+
-   | Solo worker, Team - similar roles, Team - different roles                            | 19  | 1.9%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Team - different roles, Manager or team leader                                       | 16  | 1.6%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Solo worker, Team - similar roles                                                    | 15  | 1.5%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Solo worker, Team - similar roles, Team - different roles, Multiple teams            | 14  | 1.4%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Team - similar roles, Team - different roles, Multiple teams, Manager or team leader | 13  | 1.3%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Solo worker, Multiple teams                                                          | 12  | 1.2%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Solo worker, Manager or team leader                                                  | 10  | 1.0%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Team - different roles, Multiple teams, Manager or team leader                       | 10  | 1.0%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
 
 Length of time at current organization
 --------------------------------------
@@ -1069,7 +1053,7 @@ To protect the privacy of our community, we do not publish median salary figures
 
 With this year's survey amassing the highest number of submissions yet, we can now provide a more extensive range of salary breakdowns. Alongside the baseline data for Africa, which encompasses respondents from South Africa, Kenya, and Nigeria, we have gathered enough data to publish median salaries (50th percentile) for 15 individual countries, 17 US states, 3 Canadian provinces (including separate figures for each province's capital city), and 3 Australian states.
 
-In regions or categories meet the minimum threshold of 30 respondents, we're also providing the 25th percentile (the value below which 25% of the data falls) and 75th percentile (the value below which 75% of the data falls) figures.
+In regions or categories meet the minimum threshold of 30 respondents, we're also providing the 25th percentile (the value below which 25% of the data falls) and 75th percentile (the value below which 75% of the data falls).
 
 Currency
 --------
@@ -1341,8 +1325,8 @@ Where respondent numbers for individual US and Australian states,
 
    </div><div class="tab__content">
 
-.. table::Salary (USD) by respondent region - Australian state
-   :name: tbl-2023-salary-by-respondent-region-australian-state
+.. table:: Salary (USD) by respondent region - Australia
+   :name: tbl-2023-salary-by-respondent-region-australia
    :class: std3col
 
    +-----------------+-----+--------------+
@@ -1821,6 +1805,8 @@ Employee benefits
 \* in excess of any government-mandated minimums
 
 .. raw:: html 
+
+   </div>
 
 Employee satisfaction
 ---------------------
