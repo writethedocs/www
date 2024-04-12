@@ -2803,8 +2803,8 @@ Showing that salary is still very much a taboo subject, 67.1% of respondents rep
    | Yes                        | 13  | 1.4%  |
    +----------------------------+-----+-------+
 
-Feelings abut pay transparency
-------------------------------
+Feelings about pay transparency
+-------------------------------
 
 .. raw:: html
    
