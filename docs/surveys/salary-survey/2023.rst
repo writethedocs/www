@@ -201,29 +201,29 @@ As in previous years, the most widely used exact title was "Technical Writer", r
    :name: tbl-2023-top-job-titles
    :class: std3col
 
-   +----------------------------+-----+-----+
-   | Job title                  | No. | %   |
-   +============================+=====+=====+
-   | Technical Writer           | 321 | 32% |
-   +----------------------------+-----+-----+
-   | Senior Technical Writer    | 191 | 19% |
-   +----------------------------+-----+-----+
-   | Lead Technical Writer      | 39  | 4%  |
-   +----------------------------+-----+-----+
-   | Staff Technical Writer     | 24  | 2%  |
-   +----------------------------+-----+-----+
-   | Principal Technical Writer | 19  | 2%  |
-   +----------------------------+-----+-----+
-   | Documentation Manager      | 15  | 1%  |
-   +----------------------------+-----+-----+
-   | Technical Writing Manager  | 13  | 1%  |
-   +----------------------------+-----+-----+
-   | Technical Writer II        | 12  | 1%  |
-   +----------------------------+-----+-----+
-   | Documentation Specialist   | 8   | 1%  |
-   +----------------------------+-----+-----+
-   | Technical Author           | 7   | 1%  |
-   +----------------------------+-----+-----+
+   +----------------------------+-----+-------+
+   | Job title                  | No. | %     |
+   +============================+=====+=======+
+   | Technical Writer           | 321 | 31.6% |
+   +----------------------------+-----+-------+
+   | Senior Technical Writer    | 191 | 18.8% |
+   +----------------------------+-----+-------+
+   | Lead Technical Writer      | 39  | 3.8%  |
+   +----------------------------+-----+-------+
+   | Staff Technical Writer     | 24  | 2.4%  |
+   +----------------------------+-----+-------+
+   | Principal Technical Writer | 19  | 1.9%  |
+   +----------------------------+-----+-------+
+   | Documentation Manager      | 15  | 1.5%  |
+   +----------------------------+-----+-------+
+   | Technical Writing Manager  | 13  | 1.3%  |
+   +----------------------------+-----+-------+
+   | Technical Writer II        | 12  | 1.2%  |
+   +----------------------------+-----+-------+
+   | Documentation Specialist   | 8   | 0.8%  |
+   +----------------------------+-----+-------+
+   | Technical Author           | 7   | 0.7%  |
+   +----------------------------+-----+-------+
 
 .. raw:: html
 
@@ -341,7 +341,7 @@ Most respondents identified their role as "writer, content creator, producer, ed
    +---------------------------------------------------------+-----+-------+
    | Writer/Creator/Editor + Educator + Management           | 14  | 1.4%  |
    +---------------------------------------------------------+-----+-------+
-   | Writer/Creator/Editor + Developer/Engineer + Management | 10  | 1%    |
+   | Writer/Creator/Editor + Developer/Engineer + Management | 10  | 1.0%  |
    +---------------------------------------------------------+-----+-------+
 
 Of those respondents who chose "Other" and provided more detail, the additional categories included project management, product management, process management, information architecture, instructional design, QA/testing, content strategy, mentoring, and translation - as well as some terms which can be bundled under the heading "DocOps": documentation tool and workflow administration, repository maintenance, and documentation infrastructure development and support. 
@@ -703,7 +703,7 @@ Job or contract search status
 
    </details>
 
-The majority of respondents - 46.3% of employees and 38% of contractors - stated that while they were not actively looking for new positions or contracts, they were open to any offers that might come their way. 14% of employees and 29.1% of contractors said they were actively looking for new work. 
+The majority of respondents - 46.3% of employees and 38% of contractors - stated that while they were not actively looking for new positions or contracts, they were open to considering offers that might come their way. 14% of employees and 29.1% of contractors said they were actively looking for new work. 
 
 .. raw:: html
 
@@ -725,9 +725,9 @@ The majority of respondents - 46.3% of employees and 38% of contractors - stated
    +--------------------------------------------------------+-----+-------+
    | Not actively looking, not open to offers               | 298 | 31.8% |
    +--------------------------------------------------------+-----+-------+
-   | Actively looking                                       | 131 | 14%   |
+   | Actively looking                                       | 131 | 14.0% |
    +--------------------------------------------------------+-----+-------+
-   | Not looking yet, but expect to be within the next year | 75  | 8%    |
+   | Not looking yet, but expect to be within the next year | 75  | 8.0%  |
    +--------------------------------------------------------+-----+-------+
 
 .. raw:: html
@@ -1933,19 +1933,19 @@ Looking at all regions, 68.7% of all employee respondents were satisfied with th
    :name: tbl-2023-employee-job-satisfaction
    :class: std3col
 
-   +--------------------------+-----+-----+
-   | Job satisfaction         | No. | %   |
-   +==========================+=====+=====+
-   | Satisfied                | 436 | 46% |
-   +--------------------------+-----+-----+
-   | Very satisfied           | 224 | 24% |
-   +--------------------------+-----+-----+
-   | Neutral                  | 165 | 18% |
-   +--------------------------+-----+-----+
-   | Unsatisfied              | 95  | 10% |
-   +--------------------------+-----+-----+
-   | Very unsatisfied         | 18  | 2%  |
-   +--------------------------+-----+-----+
+   +--------------------------+-----+-------+
+   | Job satisfaction         | No. | %     |
+   +==========================+=====+=======+
+   | Satisfied                | 436 | 46.5% |
+   +--------------------------+-----+-------+
+   | Very satisfied           | 224 | 23.9% |
+   +--------------------------+-----+-------+
+   | Neutral                  | 165 | 17.6% |
+   +--------------------------+-----+-------+
+   | Unsatisfied              | 95  | 10.1% |
+   +--------------------------+-----+-------+
+   | Very unsatisfied         | 18  | 1.9%  |
+   +--------------------------+-----+-------+
 
 .. raw:: html
 
@@ -1956,7 +1956,7 @@ Factors affecting salary satisfaction
 
 35.1% of employee respondents - the largest group - said that they had no reasons for dissatisfaction with their salary and benefits. The next most-selected option was "salary is too low", with 30.5%.
 
-As a result of 5 submissions in the "other" category, a new factor was added, "No raises or adjustments for inflation". It's worth noting that had this option been included in the question, other respondents may have selected it, so it's possible that this factor is affecting the industry more than these results would suggest.
+As a result of 5 submissions in the "other" category, a new factor was added to these results, "No raises or adjustments for inflation", which will be included as an option for this question in 2024. It's worth noting that had this option been included in the question, other respondents may have selected it, so it's possible that this factor is affecting the industry more than these results would suggest.
 
 .. table:: Factors affecting employee salary satisfaction
    :widths: 70 15 15
@@ -1991,7 +1991,7 @@ As a result of 5 submissions in the "other" category, a new factor was added, "N
    
    <div class="tbl-footnote">
 
-\* A new factor, added as a result of multiple submissions in the "other" category
+\* A new factor, added to the 2023 results as a result of multiple submissions in the "other" category
 
 .. raw:: html 
 
@@ -2085,35 +2085,35 @@ Of those respondents who selected "other" and provided more detail, factors incl
    :name: tbl-2023-factors-enhancing-employee-job-satisfaction
    :class: std3col
 
-   +----------------------------------------------------------------------------------------------------+-----+-----+
-   | Factor                                                                                             | No. | %   |
-   +====================================================================================================+=====+=====+
-   | I like and/or respect my co-workers                                                                | 794 | 85% |
-   +----------------------------------------------------------------------------------------------------+-----+-----+
-   | I have flexibility in working hours or location                                                    | 673 | 72% |
-   +----------------------------------------------------------------------------------------------------+-----+-----+
-   | My manager's expectations are realistic/reasonable                                                 | 610 | 65% |
-   +----------------------------------------------------------------------------------------------------+-----+-----+
-   | I feel I have work-life balance                                                                    | 608 | 65% |
-   +----------------------------------------------------------------------------------------------------+-----+-----+
-   | My workload is manageable                                                                          | 584 | 62% |
-   +----------------------------------------------------------------------------------------------------+-----+-----+
-   | The work is sufficiently interesting and/or challenging                                            | 558 | 60% |
-   +----------------------------------------------------------------------------------------------------+-----+-----+
-   | I'm satisfied with my benefits                                                                     | 511 | 55% |
-   +----------------------------------------------------------------------------------------------------+-----+-----+
-   | I'm compensated fairly for the work I do                                                           | 499 | 53% |
-   +----------------------------------------------------------------------------------------------------+-----+-----+
-   | I like and/or respect the organization I work for                                                  | 494 | 53% |
-   +----------------------------------------------------------------------------------------------------+-----+-----+
-   | My contributions are valued                                                                        | 466 | 50% |
-   +----------------------------------------------------------------------------------------------------+-----+-----+
-   | I feel respected                                                                                   | 456 | 49% |
-   +----------------------------------------------------------------------------------------------------+-----+-----+
-   | I feel I am making a positive impact (in my organization, industry, community, or the wider world) | 411 | 44% |
-   +----------------------------------------------------------------------------------------------------+-----+-----+
-   | I have opportunities for career development and advancement                                        | 252 | 27% |
-   +----------------------------------------------------------------------------------------------------+-----+-----+
+   +----------------------------------------------------------------------------------------------------+-----+-------+
+   | Factor                                                                                             | No. | %     |
+   +====================================================================================================+=====+=======+
+   | I like and/or respect my co-workers                                                                | 794 | 84.8% |
+   +----------------------------------------------------------------------------------------------------+-----+-------+
+   | I have flexibility in working hours or location                                                    | 673 | 71.9% |
+   +----------------------------------------------------------------------------------------------------+-----+-------+
+   | My manager's expectations are realistic/reasonable                                                 | 610 | 65.2% |
+   +----------------------------------------------------------------------------------------------------+-----+-------+
+   | I feel I have work-life balance                                                                    | 608 | 65.0% |
+   +----------------------------------------------------------------------------------------------------+-----+-------+
+   | My workload is manageable                                                                          | 584 | 62.4% |
+   +----------------------------------------------------------------------------------------------------+-----+-------+
+   | The work is sufficiently interesting and/or challenging                                            | 558 | 59.6% |
+   +----------------------------------------------------------------------------------------------------+-----+-------+
+   | I'm satisfied with my benefits                                                                     | 511 | 54.6% |
+   +----------------------------------------------------------------------------------------------------+-----+-------+
+   | I'm compensated fairly for the work I do                                                           | 499 | 53.3% |
+   +----------------------------------------------------------------------------------------------------+-----+-------+
+   | I like and/or respect the organization I work for                                                  | 494 | 52.8% |
+   +----------------------------------------------------------------------------------------------------+-----+-------+
+   | My contributions are valued                                                                        | 466 | 49.8% |
+   +----------------------------------------------------------------------------------------------------+-----+-------+
+   | I feel respected                                                                                   | 456 | 48.7% |
+   +----------------------------------------------------------------------------------------------------+-----+-------+
+   | I feel I am making a positive impact (in my organization, industry, community, or the wider world) | 411 | 43.9% |
+   +----------------------------------------------------------------------------------------------------+-----+-------+
+   | I have opportunities for career development and advancement                                        | 252 | 26.9% |
+   +----------------------------------------------------------------------------------------------------+-----+-------+
 
 Contract rates and satisfaction
 ===============================
@@ -2194,24 +2194,24 @@ Type of contract work
 Contractor work type - clients
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-48% of contractor clients indicated that they worked exclusively for a single client at a time. Another 34% indicated that they worked exclusively for multiple clients at a time. 13% worked worked at times for either a single client or multiple clients, and 5% did not indicate whether they worked for a single client or multiple. 
+48% of contractor clients indicated that they worked exclusively for a single client at a time. Another 34% indicated that they worked exclusively for multiple clients at a time. 13% worked at times for either a single client or multiple clients, and 5% did not indicate whether they worked for a single client or multiple. 
 
 .. table:: Contractor work type - clients
    :widths: 70 15 15
    :name: tbl-2023-contractor-work-type-clients
    :class: std3col
 
-   +----------------------------------+-----+-----+
-   | Client type                      | No. | %   |
-   +==================================+=====+=====+
-   | Single client                    |  38 | 48% |
-   +----------------------------------+-----+-----+
-   | Multiple clients                 |  27 | 34% |
-   +----------------------------------+-----+-----+
-   | Both single and multiple clients |  10 | 13% |
-   +----------------------------------+-----+-----+
-   | Not specified                    |   4 |  5% |
-   +----------------------------------+-----+-----+
+   +----------------------------------+-----+-------+
+   | Client type                      | No. | %     |
+   +==================================+=====+=======+
+   | Single client                    |  38 | 48.1% |
+   +----------------------------------+-----+-------+
+   | Multiple clients                 |  27 | 34.2% |
+   +----------------------------------+-----+-------+
+   | Both single and multiple clients |  10 | 12.7% |
+   +----------------------------------+-----+-------+
+   | Not specified                    |   4 |  5.1% |
+   +----------------------------------+-----+-------+
 
 Contractor work type - duration
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2425,7 +2425,7 @@ Looking only at Europe (13 respondents), the median day rate was USD $242.
 Median monthly rate
 ~~~~~~~~~~~~~~~~~~~
 
-The median monthly rate across all regions (34 respondents) was USD 4,168. There were not enough monthly rate values entered to publish a figure for North America or the United States, but examining Europe only (20 respondents) the median was USD $3,519. No further breakdowns are possible.
+The median monthly rate across all regions (34 respondents) was USD $4,168. There were not enough monthly rate values entered to publish a figure for North America or the United States, but examining Europe only (20 respondents) the median was USD $3,519. No further breakdowns are possible.
 
 Contractor satisfaction
 -----------------------
@@ -2884,23 +2884,23 @@ As in previous years, medium-sized organizations make up the largest proportion 
    :name: tbl-2023-organization-size-employees
    :class: std3col
 
-   +--------------------------------------------+-----+-------+
-   | Organization size (employees)              | No. | %     |
-   +============================================+=====+=======+
-   | 101-1000                                   | 347 | 37.0% |
-   +--------------------------------------------+-----+-------+
-   | 1001-10,000                                | 261 | 27.8% |
-   +--------------------------------------------+-----+-------+
-   | 10,001-100,000                             | 141 | 15.0% |
-   +--------------------------------------------+-----+-------+
-   | 51-100                                     |  75 | 8.0%  |
-   +--------------------------------------------+-----+-------+
-   | 100,000+                                   |  55 | 5.9%  |
-   +--------------------------------------------+-----+-------+
-   | 11-50                                      |  52 | 5.5%  |
-   +--------------------------------------------+-----+-------+
-   | 1-10                                       |   7 | 0.7%  |
-   +--------------------------------------------+-----+-------+
+   +-------------------------------+-----+-------+
+   | Organization size (employees) | No. |     % |
+   +===============================+=====+=======+
+   | 1-10                          |  7  |  0.7% |
+   +-------------------------------+-----+-------+
+   | 11-50                         |  52 |  5.5% |
+   +-------------------------------+-----+-------+
+   | 51-100                        |  75 |  8.0% |
+   +-------------------------------+-----+-------+
+   | 101-1,000                     | 347 | 37.0% |
+   +-------------------------------+-----+-------+
+   | 1,001-10,000                  | 261 | 27.8% |
+   +-------------------------------+-----+-------+
+   | 10,001-100,000                | 141 | 15.0% |
+   +-------------------------------+-----+-------+
+   | 100,000+                      |  55 |  5.9% |
+   +-------------------------------+-----+-------+
 
 .. raw:: html
 
@@ -3289,21 +3289,21 @@ The age group split was very neat this year - approximately one third of respond
    :class: std3col
 
    +---------------+-----+-------+
-   | Age group     | No. | %     |
+   | Age group     | No. |     % |
    +===============+=====+=======+
-   | 36-45         | 342 | 33.6% |
+   | 18-25         |  33 |  3.2% |
    +---------------+-----+-------+
    | 26-35         | 339 | 33.3% |
    +---------------+-----+-------+
+   | 36-45         | 342 | 33.6% |
+   +---------------+-----+-------+
    | 46-55         | 175 | 17.2% |
    +---------------+-----+-------+
-   | 56-65         | 100 | 9.8%  |
+   | 56-65         | 100 |  9.8% |
    +---------------+-----+-------+
-   | 18-25         | 33  | 3.2%  |
+   | 66+           |  16 |  1.6% |
    +---------------+-----+-------+
-   | 66+           | 16  | 1.6%  |
-   +---------------+-----+-------+
-   | Not specified | 12  | 1.2%  |
+   | not-specified |  12 |  1.2% |
    +---------------+-----+-------+
 
 Gender identity
@@ -3437,25 +3437,25 @@ Overall, most respondents are university- or college-educated: 93.9% held at lea
    :name: tbl-2023-education
    :class: std3col
 
-   +-------------------------+-----+-------+
-   | Education level         | No. | %     |
-   +=========================+=====+=======+
-   | Graduate                | 499 | 49.1% |
-   +-------------------------+-----+-------+
-   | Post-graduate           | 382 | 37.6% |
-   +-------------------------+-----+-------+
-   | High school             | 40  | 3.9%  |
-   +-------------------------+-----+-------+
-   | Multiple post-graduate  | 38  | 3.7%  |
-   +-------------------------+-----+-------+
-   | Multiple graduate       | 36  | 3.5%  |
-   +-------------------------+-----+-------+
-   | Technical or vocational | 16  | 1.6%  |
-   +-------------------------+-----+-------+
-   | Not specified           | 4   | 0.4%  |
-   +-------------------------+-----+-------+
-   | None                    | 2   | 0.2%  |
-   +-------------------------+-----+-------+
+   +----------------------------+-----+-------+
+   | Education Level            | No. |     % |
+   +============================+=====+=======+
+   | High school                |  40 |  3.9% |
+   +----------------------------+-----+-------+
+   | Technical or vocational    |  16 |  1.6% |
+   +----------------------------+-----+-------+
+   | Graduate                   | 499 | 49.1% |
+   +----------------------------+-----+-------+
+   | Multiple graduate          |  36 |  3.5% |
+   +----------------------------+-----+-------+
+   | Post-graduate              | 382 | 37.6% |
+   +----------------------------+-----+-------+
+   | Multiple post-graduate     |  38 |  3.7% |
+   +----------------------------+-----+-------+
+   | Not specified              |  4  |  0.4% |
+   +----------------------------+-----+-------+
+   | None of the listed options |  2  |  0.2% |
+   +----------------------------+-----+-------+
 
 Location
 --------
