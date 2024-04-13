@@ -210,7 +210,7 @@
 		.a {
 			
 			.axis-labels text{
-				fill: #000;
+				fill: var(--text-1);
 				font-size: var(--font-size-0);
 			}
 
@@ -225,12 +225,35 @@
 
 			.value-labels text{
 				fill: var(--text-contrast);
-				/*transform: translateX(-4rem);*/
 				font-size: var(--font-size-0);
 			}
 
 		}
 
+	}
+
+}
+
+.donut-chart {
+
+	.slices path {
+		stroke: white;
+		stroke-width: 2;
+		fill-opacity: 0.8;
+	}
+
+	.slices path:hover {
+		filter: brightness(1.2);
+	}
+
+	.value-labels-inner text{
+		fill: var(--text-contrast);
+		font-size: var(--font-size-0);
+	}
+
+	.value-labels-outer text{
+		fill: var(--text-1);
+		font-size: var(--font-size-0);
 	}
 
 }
