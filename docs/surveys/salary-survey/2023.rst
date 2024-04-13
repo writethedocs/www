@@ -386,8 +386,8 @@ Of the 18.8% who indicated that they worked as a manager or team leader, 62.3% a
    | Multiple teams                                                                       | 28  | 2.8%  |
    +--------------------------------------------------------------------------------------+-----+-------+
 
-Length of time at current organization
---------------------------------------
+Length of time in current role
+------------------------------
 
 .. raw:: html
    
@@ -397,7 +397,7 @@ Length of time at current organization
 
    |icon-question| Employees: 
 
-   How long have you worked at your current organization?
+   How long have you worked in your current role, at your current organization?
    
    Note:
    Please select the length of time for your position at your current organization only – your total years of experience in documentation will be covered in the individual demographics section. If you have changed roles at the same organization, please select the length of time that you have been in your current role.
@@ -449,13 +449,13 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Length of time in current role" aria-describedby="figure_length-of-time-in-current-role_desc" type="image/svg+xml" data="/_images/2023-placeholder.svg">
-         <p id="figure_length-of-time-in-current-role_desc">Length of time in current role (at current organization - respondents who have changed roles at the same organization were instructed to specify the length of time they had been in their current role only, not the total length of time at the organization)</p>
+      <object role="img" aria-label="Length of time in current role at current organization" aria-describedby="figure_length-of-time-in-current-role_desc" type="image/svg+xml" data="/_images/2023-length-of-time-in-current-role.svg">
+         <p id="figure_length-of-time-in-current-role_desc">Length of time in current role (at current organization - employee respondents who have changed roles at the same organization were instructed to specify the length of time they had been in their current role only, not the total length of time at the organization)</p>
       </object> 
       <figcaption>Figure: Length of time in current role</figcaption>
    </figure>
 
-.. figure:: images/2023/2023-placeholder.svg
+.. figure:: images/2023/2023-length-of-time-in-current-role.svg
    :class: hide
 
 Proportion of role related to documentation
@@ -2032,6 +2032,19 @@ As a result of 5 submissions in the "other" category, a new factor was added to 
 .. raw:: html 
 
    </div>
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Factors affecting salary satisfaction" aria-describedby="figure_factors-affecting-salary-satisfaction_desc" type="image/svg+xml" data="/_images/2023-factors-affecting-salary-satisfaction.svg">
+         <p id="figure_factors-affecting-salary-satisfaction_desc">Horizontal bar chart showing factors affecting salary satisfaction, as reported by employee respondents in 2023.</p>
+      </object> 
+      <figcaption>Figure: Factors affecting salary satisfaction</figcaption>
+   </figure>
+
+.. figure:: images/2023/2023-factors-affecting-salary-satisfaction.svg
+   :class: hide
+
 
 Factors affecting overall job satisfaction
 ------------------------------------------

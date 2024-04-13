@@ -128,6 +128,7 @@
 	--brand-light: var(--indigo-9);
 	--text-1-light: var(--gray-8);
 	--text-2-light: var(--gray-7);
+	--text-contrast: #FFF;
 	--surface-1-light: var(--gray-0);
 	--surface-2-light: var(--gray-1);
 	--surface-3-light: var(--gray-2);
@@ -149,14 +150,14 @@
 	font-family: var(--font-mono);
 }
 
-/* dark theme by user agent choice */
+/* dark theme by user agent choice 
 @media (prefers-color-scheme: dark) {
   :root {
     --text-1: var(--text-1-dark);
 		--brand: var(--brand-dark);
 		--series-a: var(--brand-dark);
   }
-}
+}*/
 
 .stamp { 
 	path {
@@ -170,7 +171,7 @@
 
 
 
-.bar-chart {
+.bar-chart-vertical {
 
 	.data-series {
 
@@ -183,7 +184,7 @@
 
 			.bars {
 				fill: var(--series-a);
-				fill-opacity: 0.3;
+				fill-opacity: 0.8;
 			}
 
 			.bars path:hover {
@@ -193,6 +194,38 @@
 			.value-labels text{
 				fill: var(--surface-1-light);
 				transform: translateY(2rem);
+				font-size: var(--font-size-0);
+			}
+
+		}
+
+	}
+
+}
+
+.bar-chart-horizontal {
+
+	.data-series {
+
+		.a {
+			
+			.axis-labels text{
+				fill: #000;
+				font-size: var(--font-size-0);
+			}
+
+			.bars {
+				fill: var(--series-a);
+				fill-opacity: 0.8;
+			}
+
+			.bars path:hover {
+				filter: brightness(1.2);
+			}
+
+			.value-labels text{
+				fill: var(--text-contrast);
+				/*transform: translateX(-4rem);*/
 				font-size: var(--font-size-0);
 			}
 
