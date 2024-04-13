@@ -1346,11 +1346,13 @@ Where respondent numbers for individual US and Australian states,
 Median salary by gender identity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Due to numbers, we are only able to break down salary by gender identity for women (59.9% of all respondents) and men (34.7% of all respondents). In every region, men earned more than women, by as much as XX% (in YY region).
+Due to numbers, we are only able to break down salary by gender identity for women (59.9% of all respondents) and men (34.7% of all respondents). In almost every region, men earned more than women, by as much as 76% in Asia - although with such a small sample size that is unlikely to be truly representative. 
+
+The only region where the median for women was higher was North America overall - but even here, the 75th percentile salary was higher for men, and when looking at the two largest countries in that region (the United States and Canada) men were paid more overall. 
 
 .. raw:: html
 
-   <div class="tab-wrap"><input type="radio" id="tabD33-1" name="tabGroupD33" class="tab" checked><label for="tabD33-1">Women</label><input type="radio" id="tabD33-2" name="tabGroupD33" class="tab"><label for="tabD33-2">Men</label><div class="tab__content">
+   <div class="tab-wrap"><input type="radio" id="tabD33-1" name="tabGroupD33" class="tab" checked><label for="tabD33-1">Women</label><input type="radio" id="tabD33-2" name="tabGroupD33" class="tab"><label for="tabD33-2">Men</label><input type="radio" id="tabD33-3" name="tabGroupD33" class="tab"><label for="tabD33-3">Comparison</label><div class="tab__content">
 
 .. table:: Salary (USD) by gender identity - women
    :name: tbl-2023-salary-by-gender-identity-women
@@ -1425,6 +1427,40 @@ Due to numbers, we are only able to break down salary by gender identity for wom
    +-------------------------+-------------+--------------+--------------+
    | - India (10)            |             |      $33,489 |              |
    +-------------------------+-------------+--------------+--------------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Median salary (USD) by gender identity - comparison
+   :name: tbl-2023-salary-by-gender-identity-comparison
+   :class: medians
+
+   +----------------------+--------------+--------------+-----------+
+   | Region               |    Women     |      Men     |  Diff     |
+   +======================+==============+==============+===========+
+   | **Worldwide**        |  **$80,000** |  **$90,000** | **12.5%** |
+   +----------------------+--------------+--------------+-----------+
+   | **North America**    | **$107,338** | **$105,000** | **-2.2%** |
+   +----------------------+--------------+--------------+-----------+
+   | - United States      | $112,700     | $114,000     |  1.2%     |
+   +----------------------+--------------+--------------+-----------+
+   | - Canada             |  $70,365     |  $77,772     | 10.5%     |
+   +----------------------+--------------+--------------+-----------+
+   | **Europe**           |  **$52,030** |  **$65,355** | **25.6%** |
+   +----------------------+--------------+--------------+-----------+
+   | - United Kingdom     |  $72,058     |  $74,124     |  2.9%     |
+   +----------------------+--------------+--------------+-----------+
+   | - Germany            |  $74,251     |  $80,755     |  8.8%     |
+   +----------------------+--------------+--------------+-----------+
+   | **Oceania**          |  **$80,612** |  **$93,556** | **16.0%** |
+   +----------------------+--------------+--------------+-----------+
+   | - Australia          |  $82,356     |  $93,556     | 13.6%     |
+   +----------------------+--------------+--------------+-----------+
+   | **Asia**             |  **$21,762** |  **$38,495** | **76.9%** |
+   +----------------------+--------------+--------------+-----------+
+   | - India              |  $19,344     |  $33,489     | 73.1%     |
+   +----------------------+--------------+--------------+-----------+
 
 .. raw:: html
 
