@@ -886,19 +886,31 @@ The majority of respondents reported working remotely, with the number doing so 
    :name: tbl-2023-work-location
    :class: std3col
 
-   +-----------------------+-----+-------+
-   | Work location         | No. | %     |
-   +=======================+=====+=======+
-   | Remote (not required) | 368 | 36.2% |
-   +-----------------------+-----+-------+
-   | Remote (required)     | 295 | 29.0% |
-   +-----------------------+-----+-------+
-   | Hybrid                | 287 | 28.2% |
-   +-----------------------+-----+-------+
-   | Onsite (not required) | 35  | 3.4%  |
-   +-----------------------+-----+-------+
-   | Onsite (required)     | 32  | 3.1%  |
-   +-----------------------+-----+-------+
+   +------------------------+-----+-------+
+   | Work location          | No. | %     |
+   +========================+=====+=======+
+   | Remote (not required)  | 368 | 36.2% |
+   +------------------------+-----+-------+
+   | Remote (required)      | 295 | 29.0% |
+   +------------------------+-----+-------+
+   | Hybrid                 | 287 | 28.2% |
+   +------------------------+-----+-------+
+   | On-site (not required) | 35  | 3.4%  |
+   +------------------------+-----+-------+
+   | On-site (required)     | 32  | 3.1%  |
+   +------------------------+-----+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Work location" aria-describedby="figure_work-location_desc" type="image/svg+xml" data="/_images/2023-work-location.svg">
+         <p id="figure_work-location_desc">Donut chart showing current work location - remote, hybrid, on-site - and whether the location is their choice or their employer's.</p>
+      </object> 
+      <figcaption>Figure: Work location</figcaption>
+   </figure>
+
+.. figure:: images/2023/2023-work-location.svg
+   :class: hide
 
 The majority of respondents (80.8%) reported feeling "positive" about their work location, with 51.8% feeling "very positive". 
 
