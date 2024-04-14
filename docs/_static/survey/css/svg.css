@@ -210,7 +210,7 @@
 		.a {
 			
 			.axis-labels text{
-				fill: var(--text-1);
+				fill: var(--text-contrast);
 				font-size: var(--font-size-0);
 			}
 
