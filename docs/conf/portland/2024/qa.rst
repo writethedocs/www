@@ -10,7 +10,7 @@ Refresh this page on the day of the conference talks to see them!
 
 .. raw:: html
 
-    <iframe src="https://app.sli.do/event/5mkfQpUhzWRb3nW1d5MPjS" height="100%" width="100%" frameBorder="0" style="min-height: 560px;" title="Slido"></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2s4xkCbyz-U?si=FbjkgVw2cdKmIqZn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 You can also use this link: https://app.sli.do/event/5mkfQpUhzWRb3nW1d5MPjS
 
