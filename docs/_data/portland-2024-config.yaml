@@ -280,7 +280,7 @@ flaghasunconf: True
 flaghasshirts: True
 flaglivestreaming: True
 flagvideos: False
-flagpostconf: False
+flagpostconf: True
 flaghasbadgeflair: False
 
 # Truthy things that don't change
