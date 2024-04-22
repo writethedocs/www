@@ -48,20 +48,13 @@ Conference photos
 We have photos from the event available in our `Portland 2024 photo album <https://www.flickr.com/photos/writethedocs/albums/72177720316224454>`_, thanks to our wonderful photographer `Kay <https://twitter.com/goatlady>`_! 
 We really love the photos each year, and you're welcome to use them for non-commercial purposes, such as conference write ups, as per our `Creative Commons License <https://creativecommons.org/licenses/by-nc-sa/2.0/>`_.
 
-Sketchnotes
------------
+Talk Sketchnotes
+----------------
 
 We also have sketchnotes for each of our talks!
 Check out our `Portland 2024 sketchnotes album on Flickr <https://www.flickr.com/photos/writethedocs/sets/72177720316395160>`_ to see the visual summaries of the talks and sessions.
 Thanks to our sketchnoter, `Dennis Dawson <https://www.linkedin.com/in/dennissdawson/>`_, for capturing the essence of the conference in such a unique way,
 while also presenting our first talk!
-
-Come to our Atlantic or Australia conferences
----------------------------------------------
-
-Don't forget our `Atlantic virtual conference <https://www.writethedocs.org/conf/atlantic/2024/>`_ in September, and our **Australia in-person conference** later in the year. The CFP is open for Atlantic, and dates will be announced soon for Australia.
-
-We're also looking for more sponsors to make our events just as magical as this year's event. You can see our prospectus for `Atlantic <http://www.writethedocs.org/conf/atlantic/2024/sponsors/prospectus/>`_. Get in touch if you have any questions.
 
 Code of Conduct transparency report
 -----------------------------------
@@ -85,6 +78,13 @@ We had 2 reports of CoC incidents at the conference:
 
 Attendees can always report incidents, even after the conference,
 by emailing us at `conduct@writethedocs.org <mailto:conduct@writethedocs.org>`_.
+
+Come to our Atlantic or Australia conferences
+---------------------------------------------
+
+Don't forget our `Atlantic virtual conference <https://www.writethedocs.org/conf/atlantic/2024/>`_ in September, and our **Australia in-person conference** later in the year. The CFP is open for Atlantic, and dates will be announced soon for Australia.
+
+We're also looking for more sponsors to make our events just as magical as this year's event. You can see our prospectus for `Atlantic <http://www.writethedocs.org/conf/atlantic/2024/sponsors/prospectus/>`_. Get in touch if you have any questions.
 
 Thanks again
 ------------
