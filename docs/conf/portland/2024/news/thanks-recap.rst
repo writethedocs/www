@@ -84,7 +84,7 @@ We had 2 reports of CoC incidents at the conference:
 * A staff member reported that an attendee was acting in an aggressive manner to staff about a conference selection process. This was addressed by the staff member with the attendee, and no further action was taken, other than the staff member noting the incident as a Code of Conduct report.
 
 Attendees can always report incidents, even after the conference,
-but emailing us at `conduct@writethedocs.org <mailto:conduct@writethedocs.org>`_.
+by emailing us at `conduct@writethedocs.org <mailto:conduct@writethedocs.org>`_.
 
 Thanks again
 ------------
