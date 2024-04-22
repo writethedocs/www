@@ -5,12 +5,12 @@
 .. post:: Apr 25, 2024
    :tags: {{shortcode}}-{{year}}, thanks, recap
 
-Portland 2024 Recap - Talk Videos, Photos, and Community
-========================================================
+Portland 2024 Recap - Talk Videos, Photos, Sketchnotes, CoC Report
+==================================================================
 
 Hey everyone,
 
-Our team is now emerging from the post-conference
+Our team is slowly emerging from the post-conference
 recovery period, and we wanted to send out a quick message to thank
 everyone for helping to make our conference such a
 success. We appreciate everyone who makes the conference possible:
@@ -28,16 +28,16 @@ lightning talks, unconference sessions,
 writing sprints, social event, and sponsor expo.
 
 We used more spaces in the venue this year,
-and it really felt like the flow of the overall conference was improved.
+and it really felt like the overall flow of the conference was smoother.
 
 Talk videos
 -----------
 
 `Videos of the talks`_ are now available on YouTube.
 This includes all conference talks with Q&A, as well as the lightning talks.
-You can subscribe to our `YouTube channel`_ so you don’t miss any future content.
+You can subscribe to our `YouTube channel`_ so you don’t miss any talks from our other conferences.
 
-Thanks again to all our presenters, moderator, and folks who asked wonderful questions!
+Thanks again to all our presenters, emcees, and folks who asked wonderful questions!
 
 .. _Videos of the talks: https://www.youtube.com/playlist?list=PLZAeFn6dfHpm4FboYSTD1Bs8Yp8k_JvAL
 .. _YouTube channel: https://www.youtube.com/writethedocs
@@ -53,8 +53,10 @@ Talk Sketchnotes
 
 We also have sketchnotes for each of our talks!
 Check out our `Portland 2024 sketchnotes album on Flickr <https://www.flickr.com/photos/writethedocs/sets/72177720316395160>`_ to see the visual summaries of the talks and sessions.
-Thanks to our sketchnoter, `Dennis Dawson <https://www.linkedin.com/in/dennissdawson/>`_, for capturing the essence of the conference in such a unique way,
-while also presenting our first talk!
+Thanks to our sketchnoter, `Dennis Dawson <https://www.linkedin.com/in/dennissdawson/>`_,
+for capturing the essence of the conference in such a unique way,
+while also presenting the first conference talk on Monday,
+his first full length talk at Write the Docs!
 
 Code of Conduct transparency report
 -----------------------------------
