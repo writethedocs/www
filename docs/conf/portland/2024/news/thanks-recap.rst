@@ -80,7 +80,7 @@ To ensure that our CoC was visible and accessible, we took a number of specific 
 
 We had 2 reports of CoC incidents at the conference:
 
-* An attendee reported an incident where someone shouted a comment during a talk about documentation tools that was not appropriate. We were unable to identify the person at the confernce, but staff apologized to the speaker, and noted during on-stage announcements and social media that this behavior was not acceptable.
+* An attendee reported an incident where someone shouted a comment during a talk about documentation tools that was not appropriate. We were unable to identify the person at the conference, but staff apologized to the speaker, and noted during on-stage announcements and social media that this behavior was not acceptable.
 * A staff member reported that an attendee was acting in an aggressive manner to staff about a conference selection process. This was addressed by the staff member with the attendee, and no further action was taken, other than the staff member noting the incident as a Code of Conduct report.
 
 Attendees can always report incidents, even after the conference,
