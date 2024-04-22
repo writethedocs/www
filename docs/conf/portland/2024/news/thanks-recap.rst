@@ -48,7 +48,7 @@ Conference photos
 We have photos from the event available in our `Portland 2024 photo album <https://www.flickr.com/photos/writethedocs/albums/72177720316224454>`_, thanks to our wonderful photographer `Kay <https://twitter.com/goatlady>`_! 
 We really love the photos each year, and you're welcome to use them for non-commercial purposes, such as conference write ups, as per our `Creative Commons License <https://creativecommons.org/licenses/by-nc-sa/2.0/>`_.
 
-Talk Sketchnotes
+Talk sketchnotes
 ----------------
 
 We also have sketchnotes for each of our talks!
