@@ -51,8 +51,9 @@ We really love the photos each year, and you're welcome to use them for non-comm
 Talk sketchnotes
 ----------------
 
-We also have sketchnotes for each of our talks!
-Check out our `Portland 2024 sketchnotes album on Flickr <https://www.flickr.com/photos/writethedocs/sets/72177720316395160>`_ to see the visual summaries of the talks and sessions.
+We also have sketchnotes for each of our talks,
+which are being uploaded as they are colored.
+Check out our `Portland 2024 sketchnotes album on Flickr <https://www.flickr.com/photos/writethedocs/sets/72177720316421327>`_ to see the visual summaries of the talks and sessions.
 Thanks to our sketchnoter, `Dennis Dawson <https://www.linkedin.com/in/dennissdawson/>`_,
 for capturing the essence of the conference in such a unique way,
 while also presenting the first conference talk on Monday,
