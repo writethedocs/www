@@ -1,8 +1,8 @@
 :template: {{year}}/generic.html
-:banner: _static/conf/images/headers/portland-2024-speakers.jpg
+:banner: _static/conf/images/headers/portland-2024-all-speakers.jpg
 :og:image: /_static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
-.. post:: Apr 25, 2024
+.. post:: Apr 24, 2024
    :tags: {{shortcode}}-{{year}}, thanks, recap
 
 Portland 2024 Recap - Talk Videos, Photos, Sketchnotes, CoC Report
