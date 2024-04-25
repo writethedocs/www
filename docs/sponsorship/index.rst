@@ -7,7 +7,7 @@ your sponsorship on any one of them, at a level that suits you:
 * Our conferences each have their own sponsorship prospectus
     - Our in-person :doc:`2024 Portland conference </conf/portland/2024/sponsors/prospectus>`
     - Our virtual :doc:`2024 Atlantic conference </conf/atlantic/2024/sponsors/prospectus>`
-    - Our in-person :doc:`2023 Australia conference </conf/australia/2023/sponsors/prospectus>`
+    - Our in-person 2024 Australia conference will be announced soon
 * Our :doc:`/sponsorship/newsletter` with over {{ newsletter_subs }} subscribers
 * Our :doc:`/sponsorship/website` offers a sidebar ad on our website
 * Our :doc:`/sponsorship/slack` allows you to get in front of our Slack network
