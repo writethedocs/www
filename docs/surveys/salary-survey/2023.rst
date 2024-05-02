@@ -14,13 +14,17 @@
 
 .. |25th| replace:: 25\ :sup:`th`
 
-.. |50| replace:: :abbr:`50 (50th percentile or median - half of all salaries were higher than this valu, half were lower)`:sup:`th`
+.. |50| replace:: :abbr:`50 (50th percentile or median - half of all salaries were higher than this value, half were lower)`:sup:`th`
 
 .. |50th| replace:: 50\ :sup:`th`
 
 .. |75| replace:: :abbr:`75 (75th percentile - one quarter of all salaries were higher than this value)`:sup:`th`
 
 .. |75th| replace:: 75\ :sup:`th`
+
+.. |N| replace:: :abbr:`No. (Number of respondents)`
+
+.. |%| replace:: :abbr:`% (Percentage of total respondents)`
 
 .. raw:: html   
    
@@ -110,7 +114,7 @@ Of the employees, 3% stated they were currently unemployed, while this number wa
    +-------------+-------------+-+-------------+
    | Survey year | Employees   | | Contractors |
    +=============+=====+=======+=+======+======+
-   |             | No. | %     | | No.  | %    |
+   |             | |N| | |%|   | | |N|  | |%|  |
    +-------------+-----+-------+-+------+------+
    | 2019        | 652 | 93.9% | |   42 | 6.1% |
    +-------------+-----+-------+-+------+------+
@@ -164,7 +168,7 @@ Of those that worked fewer hours:
    :class: std3col
 
    +--------------+-----+-------+
-   | Hours worked | No. | %     |
+   | Hours worked | |N| | |%|   |
    +==============+=====+=======+
    | 1-20 hours   |  17 | 1.7%  |
    +--------------+-----+-------+
@@ -208,7 +212,7 @@ As in previous years, the most widely used exact title was "Technical Writer", r
    :class: std3col
 
    +----------------------------+-----+-------+
-   | Job title                  | No. | %     |
+   | Job title                  | |N| | |%|   |
    +============================+=====+=======+
    | Technical Writer           | 321 | 31.6% |
    +----------------------------+-----+-------+
@@ -241,7 +245,7 @@ As in previous years, the most widely used exact title was "Technical Writer", r
    :class: std3col
 
    +---------------------------------------+-----+------+
-   | Title                                 | No. | %    |
+   | Title                                 | |N| | |%|  |
    +=======================================+=====+======+
    | Information Developer                 | 5   | 1.7% |
    +---------------------------------------+-----+------+
@@ -325,7 +329,7 @@ Most respondents identified their role as "writer, content creator, producer, ed
    :class: std3col
 
    +---------------------------------------------------------+-----+-------+
-   | Category                                                | No. | %     |
+   | Category                                                | |N| | |%|   |
    +=========================================================+=====+=======+
    | Writer/Creator/Editor                                   | 604 | 59.4% |
    +---------------------------------------------------------+-----+-------+
@@ -365,7 +369,7 @@ Of the 18.8% who indicated that they worked as a manager or team leader, 62.3% a
    :class: std3col
 
    +--------------------------------------------------------------------------------------+-----+-------+
-   | Team breakdown                                                                       | No. | %     |
+   | Team breakdown                                                                       | |N| | |%|   |
    +======================================================================================+=====+=======+
    | Team - similar roles                                                                 | 256 | 25.2% |
    +--------------------------------------------------------------------------------------+-----+-------+
@@ -439,7 +443,7 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
    :class: std3col
 
    +-------------------------+-----+-------+
-   | Years                   | No. | %     |
+   | Years                   | |N| | |%|   |
    +=========================+=====+=======+
    | 0-1                     | 206 | 20.3% |
    +-------------------------+-----+-------+
@@ -507,7 +511,7 @@ The majority of respondents (73.5% in 2023, almost exactly the same proportion a
    :class: std3col
 
    +--------------------------------------+-----+-------+
-   | Portion of role                      | No. | %     |
+   | Portion of role                      | |N| | |%|   |
    +======================================+=====+=======+
    | Wholly documentation                 | 747 | 73.5% |
    +--------------------------------------+-----+-------+
@@ -528,7 +532,7 @@ The majority of respondents (73.5% in 2023, almost exactly the same proportion a
    :class: std3col
 
    +--------------------------------------+-----+-------+
-   | Portion of role                      | No. | %     |
+   | Portion of role                      | |N| | |%|   |
    +======================================+=====+=======+
    | 76-100%                              | 582 | 57.2% |
    +--------------------------------------+-----+-------+
@@ -639,7 +643,7 @@ Of the contractors, having a contract or project ending prematurely was the most
    :class: std3col
 
    +---------------------+-----+-------+
-   | Change              | No. | %     |
+   | Change              | |N| | |%|   |
    +=====================+=====+=======+
    | New position        | 155 | 46.0% |
    +---------------------+-----+-------+
@@ -666,7 +670,7 @@ Of the contractors, having a contract or project ending prematurely was the most
    :class: std3col
 
    +----------------------------+-----+-------+
-   | Change                     | No. | %     |
+   | Change                     | |N| | |%|   |
    +============================+=====+=======+
    | Contract ended prematurely |  14 | 41.2% |
    +----------------------------+-----+-------+
@@ -738,7 +742,7 @@ The majority of respondents - 46.3% of employees and 38% of contractors - stated
    :class: std3col
 
    +--------------------------------------------------------+-----+-------+
-   | Search status                                          | No. | %     |
+   | Search status                                          | |N| | |%|   |
    +========================================================+=====+=======+
    | Not actively looking, but open to offers               | 434 | 46.3% |
    +--------------------------------------------------------+-----+-------+
@@ -759,7 +763,7 @@ The majority of respondents - 46.3% of employees and 38% of contractors - stated
    :class: std3col
 
    +--------------------------------------------------------+-----+-------+
-   | Search status                                          | No. | %     |
+   | Search status                                          | |N| | |%|   |
    +========================================================+=====+=======+
    | Not actively looking, but open to offers               | 30  | 38.0% |
    +--------------------------------------------------------+-----+-------+
@@ -803,7 +807,7 @@ Just over half of all respondents (54.1%) reported feeling the same level of job
    :class: std3col
 
    +----------------------------------------+-----+-------+
-   | Feelings of job security and stability | No. | %     |
+   | Feelings of job security and stability | |N| | |%|   |
    +========================================+=====+=======+
    | The same as last year                  | 531 | 54.1% |
    +----------------------------------------+-----+-------+
@@ -893,7 +897,7 @@ The majority of respondents reported working remotely, with the number doing so 
    :class: std3col
 
    +------------------------+-----+-------+
-   | Work location          | No. | %     |
+   | Work location          | |N| | |%|   |
    +========================+=====+=======+
    | Remote (not required)  | 368 | 36.2% |
    +------------------------+-----+-------+
@@ -926,7 +930,7 @@ The majority of respondents (80.8%) reported feeling "positive" about their work
    :class: std3col
 
    +------------------------------+-----+-------+
-   | Feelings about work location | No. | %     |
+   | Feelings about work location | |N| | |%|   |
    +==============================+=====+=======+
    | Very positive                | 527 | 51.8% |
    +------------------------------+-----+-------+
@@ -1006,7 +1010,7 @@ For those that have been affected, most reported that a hybrid model was being m
    :class: std3col
 
    +------------------------------------------------------+-----+-------+
-   | RTO Status                                           | No. | %     |
+   | RTO Status                                           | |N| | |%|   |
    +======================================================+=====+=======+
    | No, remote work is still allowed/encouraged/required | 266 | 47.5% |
    +------------------------------------------------------+-----+-------+
@@ -1027,7 +1031,7 @@ For those that have been affected, most reported that a hybrid model was being m
    :class: std3col
 
    +------------------------------------------------------------------+-----+-------+
-   | RTO Status                                                       | No. | %     |
+   | RTO Status                                                       | |N| | |%|   |
    +==================================================================+=====+=======+
    | Yes, it's required but only part of the time (hybrid work is ok) | 246 | 56.6% |
    +------------------------------------------------------------------+-----+-------+
@@ -1078,7 +1082,7 @@ Regardless of their current situation, 58% of all respondents said that their pr
    :class: std3col
 
    +-------------------------+-----+-------+
-   | Preferred work location | No. | %     |
+   | Preferred work location | |N| | |%|   |
    +=========================+=====+=======+
    | Remote                  | 590 | 58.0% |
    +-------------------------+-----+-------+
@@ -1094,9 +1098,9 @@ Employee salary, benefits and satisfaction
 
 To protect the privacy of our community, we do not publish median salary figures for any region or category with less than 10 respondents. In previous years, this has meant that median salaries could only be given for a few regions and countries, and a handful of US states.     
 
-With this year's survey amassing the highest number of submissions yet, we can now provide a more extensive range of salary breakdowns. Alongside the baseline data for Africa, which encompasses respondents from South Africa, Kenya, and Nigeria, we have gathered enough data to publish median salaries (50th percentile) for 15 individual countries, 17 US states, 3 Canadian provinces (including separate figures for each province's capital city), and 3 Australian states.
+With this year's survey amassing the highest number of submissions yet, we can now provide a more extensive range of salary breakdowns. Alongside the baseline data for Africa, which encompasses respondents from South Africa, Kenya, and Nigeria, we have gathered enough data to publish median salaries (|50th| percentile) for 15 individual countries, 17 US states, 3 Canadian provinces (including separate figures for each province's capital city), and 3 Australian states.
 
-In regions or categories meet the minimum threshold of 30 respondents, we're also providing the 25th percentile (the value below which 25% of the data falls) and 75th percentile (the value below which 75% of the data falls).
+In regions or categories meet the minimum threshold of 30 respondents, we're also providing the |25th| percentile (the value below which 25% of the data falls) and |75th| percentile (the value below which 75% of the data falls).
 
 Currency
 --------
@@ -1121,7 +1125,7 @@ Employee respondents reported being paid in 26 different currencies. To make com
    :class: std3col
 
    +--------------------------------------+------+---------+
-   | Currency (code)                      | No.  | Rate    |
+   | Currency (code)                      | |N|  | Rate    |
    +======================================+======+=========+
    | United States Dollar (USD)           | 487  | 1.00000 |
    +--------------------------------------+------+---------+
@@ -1247,7 +1251,7 @@ Given the range of socio-economic differences in the countries in the survey res
    :class: medians
 
    +-------------------------+-------------+--------------+--------------+
-   | Region (No.)            | |25|        |  |50|        | |75|         |
+   | Region (|N|)            | |25|        |  |50|        | |75|         |
    +=========================+=============+==============+==============+
    | **Worldwide** (922)     | **$58,534** | **$82,418**  | **$118,571** |
    +-------------------------+-------------+--------------+--------------+
@@ -1308,7 +1312,7 @@ Respondent numbers allow some additional breakdowns by US state, Candian provinc
    :class: medians
 
    +---------------------+-----------+----------+-----------+
-   | State (No.)         | |25|      | |50|     | |75|      |
+   | State (|N|)         | |25|      | |50|     | |75|      |
    +=====================+===========+==========+===========+
    | California (65)     |  $100,995 | $149,347 |  $180,000 |
    +---------------------+-----------+----------+-----------+
@@ -1362,7 +1366,7 @@ Respondent numbers allow some additional breakdowns by US state, Candian provinc
    :class: medians
 
    +-----------------------+-----------+---------+-----------+
-   | Province (No.)        | |25|      | |50|    | |75|      |
+   | Province (|N|)        | |25|      | |50|    | |75|      |
    +=======================+===========+=========+===========+
    | Ontario (37)          |   $62,217 | $70,365 |   $85,179 |
    +-----------------------+-----------+---------+-----------+
@@ -1386,7 +1390,7 @@ Respondent numbers allow some additional breakdowns by US state, Candian provinc
    :class: std3col
 
    +-----------------+-----+--------------+
-   | State           | No. | |50|         |
+   | State           | |N| | |50|         |
    +=================+=====+==============+
    | Queensland      | 12  | $84,990      |
    +-----------------+-----+--------------+
@@ -1415,7 +1419,7 @@ The only region where the median for women was higher was North America overall 
    :class: medians
 
    +-------------------------+-------------+--------------+--------------+
-   | Region (No.)            | |25|        | |50|         | |75|         |
+   | Region (|N|)            | |25|        | |50|         | |75|         |
    +=========================+=============+==============+==============+
    | **Worldwide** (544)     | **$55,060** | **$80,000**  | **$114,250** |
    +-------------------------+-------------+--------------+--------------+
@@ -1459,7 +1463,7 @@ The only region where the median for women was higher was North America overall 
    :class: medians
 
    +-------------------------+-------------+--------------+--------------+
-   | Region (No.)            | |25|        | |50|         | |75|         |
+   | Region (|N|)            | |25|        | |50|         | |75|         |
    +=========================+=============+==============+==============+
    | **Worldwide** (326)     | **$62,671** | **$90,000**  | **$128,840** |
    +-------------------------+-------------+--------------+--------------+
@@ -1534,7 +1538,7 @@ Median salary by years of experience
    :class: medians
 
    +----------------------+-----------+--------------+-----------+
-   | Region (No.)         | |25|      |       |50|   | |75|      |
+   | Region (|N|)         | |25|      |       |50|   | |75|      |
    +======================+===========+==============+===========+
    | Worldwide (78)       |   $39,028 |      $60,000 |   $75,251 |
    +----------------------+-----------+--------------+-----------+
@@ -1554,7 +1558,7 @@ Median salary by years of experience
    :class: medians
 
    +----------------------+-----------+---------+-----------+
-   | Region (No.)         | |25|      | |50|    | |75|      |
+   | Region (|N|)         | |25|      | |50|    | |75|      |
    +======================+===========+=========+===========+
    | Worldwide (186)      |   $39,309 | $65,109 |   $85,750 |
    +----------------------+-----------+---------+-----------+
@@ -1582,7 +1586,7 @@ Median salary by years of experience
    :class: medians
 
    +-----------------------+---------+----------+----------+
-   | Region (No.)          | |25|    | |50|     | |75|     |
+   | Region (|N|)          | |25|    | |50|     | |75|     |
    +=======================+=========+==========+==========+
    | Worldwide (256)       | $59,618 |  $80,800 | $119,427 |
    +-----------------------+---------+----------+----------+
@@ -1616,7 +1620,7 @@ Median salary by years of experience
    :class: medians
 
    +----------------------+---------+----------+----------+
-   | Region (No.)         | |25|    | |50|     | |75|     |
+   | Region (|N|)         | |25|    | |50|     | |75|     |
    +======================+=========+==========+==========+
    | Worldwide (147)      | $62,545 |  $90,017 | $133,000 |
    +----------------------+---------+----------+----------+
@@ -1642,7 +1646,7 @@ Median salary by years of experience
    :class: medians
 
    +----------------------+---------+----------+----------+
-   | Region (No.)         | |25|    | |50|     | |75|     |
+   | Region (|N|)         | |25|    | |50|     | |75|     |
    +======================+=========+==========+==========+
    | Worldwide (95)       | $75,955 |  $96,000 | $124,500 |
    +----------------------+---------+----------+----------+
@@ -1662,7 +1666,7 @@ Median salary by years of experience
    :class: medians
 
    +-----------------------+----------+----------+----------+
-   | Region (No.)          |     |25| |     |50| |     |75| |
+   | Region (|N|)          |     |25| |     |50| |     |75| |
    +=======================+==========+==========+==========+
    | Worldwide (156)       |  $95,000 | $115,149 | $147,783 |
    +-----------------------+----------+----------+----------+
@@ -1691,7 +1695,7 @@ Median salary by organization size (employees)
    :class: medians
 
    +----------------------+---------+----------+----------+
-   | Region (No.)         |    |25| |     |50| |     |75| |
+   | Region (|N|)         |    |25| |     |50| |     |75| |
    +======================+=========+==========+==========+
    | Worldwide (130)      | $49,007 |  $71,289 | $100,000 |
    +----------------------+---------+----------+----------+
@@ -1713,7 +1717,7 @@ Median salary by organization size (employees)
    :class: medians
 
    +-----------------------+---------+----------+----------+
-   | Region (No.)          |    |25| |     |50| |     |75| |
+   | Region (|N|)          |    |25| |     |50| |     |75| |
    +=======================+=========+==========+==========+
    | Worldwide (340)       | $56,580 |  $80,000 | $105,000 |
    +-----------------------+---------+----------+----------+
@@ -1747,7 +1751,7 @@ Median salary by organization size (employees)
    :class: medians
 
    +-----------------------+---------+----------+----------+
-   | Region (No.)          |    |25| |     |50| |     |75| |
+   | Region (|N|)          |    |25| |     |50| |     |75| |
    +=======================+=========+==========+==========+
    | Worldwide (258)       | $60,559 |  $82,490 | $118,382 |
    +-----------------------+---------+----------+----------+
@@ -1779,7 +1783,7 @@ Median salary by organization size (employees)
    :class: medians
 
    +----------------------+---------+----------+----------+
-   | Region (No.)         |    |25| |     |50| |     |75| |
+   | Region (|N|)         |    |25| |     |50| |     |75| |
    +======================+=========+==========+==========+
    | Worldwide (139)      | $70,891 | $100,000 | $133,750 |
    +----------------------+---------+----------+----------+
@@ -1799,7 +1803,7 @@ Median salary by organization size (employees)
    :class: medians
 
    +----------------------+----------+----------+----------+
-   | Region (No.)         |     |25| |     |50| |     |75| |
+   | Region (|N|)         |     |25| |     |50| |     |75| |
    +======================+==========+==========+==========+
    | Worldwide (55)       |  $55,315 | $128,623 | $160,500 |
    +----------------------+----------+----------+----------+
@@ -1857,7 +1861,7 @@ Employee benefits
    :class: std3col
 
    +----------------------------------------------------------------------------+------+-------+
-   | Benefit                                                                    | No.  | %     |
+   | Benefit                                                                    | |N|  | |%|   |
    +============================================================================+======+=======+
    | Health insurance *                                                         | 729  | 77.7% |
    +----------------------------------------------------------------------------+------+-------+
@@ -2003,7 +2007,7 @@ Looking at all regions, 68.7% of all employee respondents were satisfied with th
    :class: std3col
 
    +---------------------+-----+-------+
-   | Salary satisfaction | No. | %     |
+   | Salary satisfaction | |N| | |%|   |
    +=====================+=====+=======+
    | Satisfied           | 398 | 43.2% |
    +---------------------+-----+-------+
@@ -2026,7 +2030,7 @@ Looking at all regions, 68.7% of all employee respondents were satisfied with th
    :class: std3col
 
    +--------------------------+-----+-------+
-   | Job satisfaction         | No. | %     |
+   | Job satisfaction         | |N| | |%|   |
    +==========================+=====+=======+
    | Satisfied                | 436 | 46.5% |
    +--------------------------+-----+-------+
@@ -2056,7 +2060,7 @@ As a result of 5 submissions in the "other" category, a new factor was added to 
    :class: std3col
 
    +-----------------------------------------------------------------------+-----+-------+
-   | Factor                                                                | No. | %     |
+   | Factor                                                                | |N| | |%|   |
    +=======================================================================+=====+=======+
    | None of the above                                                     | 329 | 35.1% |
    +-----------------------------------------------------------------------+-----+-------+
@@ -2121,7 +2125,7 @@ Of the 19 respondents who selected "other" and provided more detail, those that 
    :class: std3col
 
    +--------------------------------------------------------------------------------------+-----+-------+
-   | Factor                                                                               | No. | %     |
+   | Factor                                                                               | |N| | |%|   |
    +======================================================================================+=====+=======+
    | Role is undervalued or underfunded                                                   | 320 | 34.7% |
    +--------------------------------------------------------------------------------------+-----+-------+
@@ -2191,7 +2195,7 @@ Of those respondents who selected "other" and provided more detail, factors incl
    :class: std3col
 
    +----------------------------------------------------------------------------------------------------+-----+-------+
-   | Factor                                                                                             | No. | %     |
+   | Factor                                                                                             | |N| | |%|   |
    +====================================================================================================+=====+=======+
    | I like and/or respect my co-workers                                                                | 794 | 84.8% |
    +----------------------------------------------------------------------------------------------------+-----+-------+
@@ -2261,7 +2265,7 @@ Several contractor respondents indicated that they were contractors by necessity
    :class: std3col
 
    +----------------+-----+-------+
-   | Preferred term | No. | %     |
+   | Preferred term | |N| | |%|   |
    +================+=====+=======+
    | Contractor     | 42  | 53.2% |
    +----------------+-----+-------+
@@ -2307,7 +2311,7 @@ Contractor work type - clients
    :class: std3col
 
    +----------------------------------+-----+-------+
-   | Client type                      | No. | %     |
+   | Client type                      | |N| | |%|   |
    +==================================+=====+=======+
    | Single client                    |  38 | 48.1% |
    +----------------------------------+-----+-------+
@@ -2327,7 +2331,7 @@ Contractor work type - duration
    :class: std3col
 
    +--------------------------------------------------+-----+-------+
-   | Typical contract length                          | No. | %     |
+   | Typical contract length                          | |N| | |%|   |
    +==================================================+=====+=======+
    | No term selected                                 |  29 | 36.7% |
    +--------------------------------------------------+-----+-------+
@@ -2355,7 +2359,7 @@ Contractor work type - products and services
    :class: std3col
 
    +-----------------------------------------------------+------+-------+
-   | Product or service offering                         | No.  | %     |
+   | Product or service offering                         | |N|  | |%|   |
    +=====================================================+======+=======+
    | Offering neither                                    |   56 | 70.9% |
    +-----------------------------------------------------+------+-------+
@@ -2397,7 +2401,7 @@ Contractor respondents were paid in 7 different currencies. To make comparisons 
    :class: std3col
 
    +------------------------------+-----+---------+
-   | Currency                     | No. | Rate    |
+   | Currency                     | |N| | Rate    |
    +==============================+=====+=========+
    | United States Dollar (USD)   | 44  |       1 |
    +------------------------------+-----+---------+
@@ -2427,7 +2431,7 @@ Location of contractors
    :class: std3col
 
    +------------------+-----+-------+
-   | Region           | No. | %     |
+   | Region           | |N| | |%|   |
    +==================+=====+=======+
    | North America    |  35 | 44.3% |
    +------------------+-----+-------+
@@ -2446,7 +2450,7 @@ Location of contractors
    :class: std3col
 
    +------------------+-----+-------+
-   | Region           | No. | %     |
+   | Region           | |N| | |%|   |
    +==================+=====+=======+
    | Europe           |  34 | 43.0% |
    +------------------+-----+-------+
@@ -2481,7 +2485,7 @@ Location of contractors
    :class: std3col
 
    +------------------+-----+-------+
-   | Region           | No. | %     |
+   | Region           | |N| | |%|   |
    +==================+=====+=======+
    | Oceania          |   6 |  7.6% |
    +------------------+-----+-------+
@@ -2635,7 +2639,7 @@ Contractor satisfaction
    :class: std3col
 
    +-------------------+-----+-------+
-   | Rate satisfaction | No. | %     |
+   | Rate satisfaction | |N| | |%|   |
    +===================+=====+=======+
    | Satisfied         | 39  | 49.4% |
    +-------------------+-----+-------+
@@ -2658,7 +2662,7 @@ Contractor satisfaction
    :class: std3col
 
    +----------------------+-----+-------+
-   | Overall satisfaction | No. | %     |
+   | Overall satisfaction | |N| | |%|   |
    +======================+=====+=======+
    | Satisfied            | 39  | 49.4% |
    +----------------------+-----+-------+
@@ -2686,7 +2690,7 @@ Factors affecting contractor satisfaction
    :class: std3col
 
    +-----------------------------------------------------------------------------------+-----+-------+
-   | Factor                                                                            | No. | %     |
+   | Factor                                                                            | |N| | |%|   |
    +===================================================================================+=====+=======+
    | Discrepancy between rate and cost of living in my area                            | 17  | 21.3% |
    +-----------------------------------------------------------------------------------+-----+-------+
@@ -2715,7 +2719,7 @@ Factors affecting contractor satisfaction
    :class: std3col
 
    +--------------------------------------------------------------------------------------+-----+------+
-   | Factor                                                                               | No. | %    |
+   | Factor                                                                               | |N| | |%|  |
    +======================================================================================+=====+======+
    | Role is undervalued or underfunded                                                   | 25  | 9.9% |
    +--------------------------------------------------------------------------------------+-----+------+
@@ -2780,7 +2784,7 @@ Factors affecting contractor satisfaction
    :class: std3col
 
    +----------------------------------------------------------------------------------------------------+-----+-------+
-   | Factor                                                                                             | No. | %     |
+   | Factor                                                                                             | |N| | |%|   |
    +====================================================================================================+=====+=======+
    | I like and/or respect my co-workers                                                                | 61  | 11.8% |
    +----------------------------------------------------------------------------------------------------+-----+-------+
@@ -2856,7 +2860,7 @@ Official pay transparency policy
    :class: std3col
 
    +----------------------------------+-----+-------+
-   | Official policy                  | No. | %     |
+   | Official policy                  | |N| | |%|   |
    +==================================+=====+=======+
    | No policy                        | 490 | 52.2% |
    +----------------------------------+-----+-------+
@@ -2897,7 +2901,7 @@ Showing that salary is still very much a taboo subject, 67.1% of respondents rep
    :class: std3col
 
    +----------------------------+-----+-------+
-   | Pay transparency culture   | No. | %     |
+   | Pay transparency culture   | |N| | |%|   |
    +============================+=====+=======+
    | No sharing                 | 629 | 67.1% |
    +----------------------------+-----+-------+
@@ -2937,7 +2941,7 @@ Feelings about pay transparency
    :class: std3col
 
    +---------------------------------+-----+-------+
-   | Feelings about pay transparency | No. | %     |
+   | Feelings about pay transparency | |N| | |%|   |
    +=================================+=====+=======+
    | Strongly support                | 429 | 45.7% |
    +---------------------------------+-----+-------+
@@ -2990,7 +2994,7 @@ As in previous years, medium-sized organizations make up the largest proportion 
    :class: std3col
 
    +-------------------------------+-----+-------+
-   | Organization size (employees) | No. |     % |
+   | Organization size (employees) | |N| |   |%| |
    +===============================+=====+=======+
    | 1-10                          |  7  |  0.7% |
    +-------------------------------+-----+-------+
@@ -3017,7 +3021,7 @@ As in previous years, medium-sized organizations make up the largest proportion 
    :class: std3col
 
    +--------------------------------------------+-----+-------+
-   | Organization size (employees)              | No. | %     |
+   | Organization size (employees)              | |N| | |%|   |
    +============================================+=====+=======+
    | 1-10                                       | 12  | 15.2% |
    +--------------------------------------------+-----+-------+
@@ -3106,7 +3110,7 @@ Based on feedback and "other" entries for industry, the final list of industries
    :class: std3col
 
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
-   | Industry                                                                                                                                                                   | No. | %     |
+   | Industry                                                                                                                                                                   | |N| | |%|   |
    +============================================================================================================================================================================+=====+=======+
    | Software, Software Development, Software Development Tools, Open Source                                                                                                    | 420 | 26.5% |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
@@ -3215,7 +3219,7 @@ A total of 63.3% of organizations originated in North America, with the bulk of 
    :class: std3col
 
    +----------------------------------------+---------+-----------+
-   | Region                                 |   No.   |         % |
+   | Region                                 |   |N|   |       |%| |
    +========================================+=========+===========+
    | **North America**                      | **644** | **63.3%** |
    +----------------------------------------+---------+-----------+
@@ -3238,7 +3242,7 @@ A total of 63.3% of organizations originated in North America, with the bulk of 
    :class: std3col
 
    +----------------------------------------+---------+-----------+
-   | Region                                 |   No.   |         % |
+   | Region                                 |   |N|   |       |%| |
    +========================================+=========+===========+
    | **Europe**                             | **288** | **28.3%** |
    +----------------------------------------+---------+-----------+
@@ -3311,7 +3315,7 @@ A total of 63.3% of organizations originated in North America, with the bulk of 
    :class: std3col
 
    +----------------------------------------+---------+-----------+
-   | Region                                 |   No.   |         % |
+   | Region                                 |   |N|   |       |%| |
    +========================================+=========+===========+
    | **Oceania**                            | **35**  | **3.4%**  |
    +----------------------------------------+---------+-----------+
@@ -3394,7 +3398,7 @@ The age group split was very neat this year - approximately one third of respond
    :class: std3col
 
    +---------------+-----+-------+
-   | Age group     | No. |     % |
+   | Age group     | |N| |   |%| |
    +===============+=====+=======+
    | 18-25         |  33 |  3.2% |
    +---------------+-----+-------+
@@ -3440,7 +3444,7 @@ The majority of respondents in 2023 were women - accounting for 59.9% of the tot
    :class: std3col
 
    +-----------------+-----+-------+
-   | Gender identity | No. | %     |
+   | Gender identity | |N| | |%|   |
    +=================+=====+=======+
    | Woman           | 609 | 59.9% |
    +-----------------+-----+-------+
@@ -3487,7 +3491,7 @@ The experience level of respondents in 2023 was similar to previous years - arou
    :class: std3col
 
    +---------------------+-----+-------+
-   | Years of experience | No. | %     |
+   | Years of experience | |N| | |%|   |
    +=====================+=====+=======+
    | 0-1                 | 30  | 2.9%  |
    +---------------------+-----+-------+
@@ -3543,7 +3547,7 @@ Overall, most respondents are university- or college-educated: 93.9% held at lea
    :class: std3col
 
    +----------------------------+-----+-------+
-   | Education Level            | No. |     % |
+   | Education Level            | |N| |   |%| |
    +============================+=====+=======+
    | High school                |  40 |  3.9% |
    +----------------------------+-----+-------+
@@ -3599,7 +3603,7 @@ The majority of respondents - 70.3% - reported living in a city or urban area, w
    :class: std3col
 
    +-----------------------+-----+-------+
-   | Area type             | No. | %     |
+   | Area type             | |N| | |%|   |
    +=======================+=====+=======+
    | City or urban area    | 715 | 70.3% |
    +-----------------------+-----+-------+
@@ -3622,7 +3626,7 @@ New countries appearing in the results for 2023 include the Caribbean nation St 
    :class: std3col
 
    +------------------------+-----+--------+
-   | Region                 | No. | %      |
+   | Region                 | |N| | |%|    |
    +========================+=====+========+
    | North America          | 566 |  55.7% |
    +------------------------+-----+--------+
@@ -3647,7 +3651,7 @@ New countries appearing in the results for 2023 include the Caribbean nation St 
    :class: std3col
 
    +------------------------+-----+--------+
-   | Region                 | No. | %      |
+   | Region                 | |N| | |%|    |
    +========================+=====+========+
    | Europe                 | 330 | 32.4%  |
    +------------------------+-----+--------+
@@ -3726,7 +3730,7 @@ New countries appearing in the results for 2023 include the Caribbean nation St 
    :class: std3col
 
    +------------------------+-----+--------+
-   | Region                 | No. | %      |
+   | Region                 | |N| | |%|    |
    +========================+=====+========+
    | Oceania                |  51 |   5.0% |
    +------------------------+-----+--------+
@@ -3788,7 +3792,7 @@ Respondent location regional breakdowns
    :class: std3col
 
    +-----------------+-----+-------+
-   | US State        | No. | %     |
+   | US State        | |N| | |%|   |
    +=================+=====+=======+
    | California      | 70  | 14.7% |
    +-----------------+-----+-------+
@@ -3887,7 +3891,7 @@ Respondent location regional breakdowns
    :class: std3col
 
    +---------------------------+-----+-------+
-   | Province                  | No. | %     |
+   | Province                  | |N| | |%|   |
    +===========================+=====+=======+
    | Ontario                   | 41  | 50.6% |
    +---------------------------+-----+-------+
@@ -3922,7 +3926,7 @@ Respondent location regional breakdowns
    :class: std3col
 
    +-------------------+-----+-------+
-   | State             | No. | %     |
+   | State             | |N| | |%|   |
    +===================+=====+=======+
    | Queensland        | 16  | 34.0% |
    +-------------------+-----+-------+
