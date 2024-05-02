@@ -24,20 +24,20 @@ buttons:
     #  link: /sponsors/prospectus
     # - text: Submit a Talk
     #   link: /cfp
-    - text: See the Schedule!
-      link: /schedule
+    # - text: See the Schedule!
+    #   link: /schedule
     # - text: Buy a Ticket!
     #   link: /tickets
     #- text: See the talks!
     #  link: /speakers
-    - text: Attendee Guide
-      link: /attendee-guide
+    # - text: Attendee Guide
+    #   link: /attendee-guide
     # - text: Watch the Live Stream
     #   link: /livestream
-    # - text: Watch the videos
-    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpneQPsDWa4OmEpgW4pNiaZ2
-    # - text: Conference recap
-    #   link: /news/thanks-recap
+    - text: Watch the videos
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpm4FboYSTD1Bs8Yp8k_JvAL
+    - text: Conference recap
+      link: /news/thanks-recap
   bottom:
     # - text: Welcome to our conference
     #   link: /news/welcome
@@ -47,20 +47,20 @@ buttons:
     #    link: /cfp
     # - text: Buy a Ticket!
     #   link: /tickets
-    - text: See the Schedule
-      link: /schedule
+    # - text: See the Schedule
+    #   link: /schedule
     # - text: See the talks!
     #   link: /speakers
-    - text: Read our guide
-      link: /attendee-guide
+    # - text: Read our guide
+    #   link: /attendee-guide
     # - text: Watch the Live Stream
     #   link: /livestream
-    # - text: Conference recap
-    #   link: /news/thanks-recap
+    - text: Conference recap
+      link: /news/thanks-recap
     # - text: Browse the photos
     #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720308088427
-    # - text: Watch the videos!
-    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpm4FboYSTD1Bs8Yp8k_JvAL
 
 tickets:
   concierge:
@@ -280,7 +280,7 @@ flaghasunconf: True
 flaghasshirts: True
 flaglivestreaming: True
 flagvideos: False
-flagpostconf: False
+flagpostconf: True
 flaghasbadgeflair: False
 
 # Truthy things that don't change
