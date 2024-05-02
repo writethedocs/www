@@ -48,7 +48,7 @@ Link liberally to resources that you find useful, but make sure to provide appro
 For anyone new to GitHub and Git
 --------------------------------
 
-If you've never worked with Git and GitHub before, this resource is great for getting started: `How to Contribute to an Open Source Project on GitHub <https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-github>`_
+If you've never worked with Git and GitHub before, this resource is great for getting started: `How to Contribute to an Open Source Project on GitHub <https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-github>`_.
 
 To suggest small changes, you can `submit issues <https://github.com/writethedocs/www/issues>`_ via the GitHub interface. 
 
