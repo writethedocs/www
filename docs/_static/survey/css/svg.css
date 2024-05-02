@@ -232,6 +232,22 @@
 
 	}
 
+	.data-series-stacked {
+
+		.a {
+			
+			.axis-labels text{
+				font-size: var(--font-size-0);
+			}
+
+			.value-labels text{
+				font-size: var(--font-size-0);
+			}
+
+		}
+
+	}
+
 }
 
 .donut-chart {
@@ -256,4 +272,9 @@
 		font-size: var(--font-size-0);
 	}
 
+}
+
+.legend text {
+	font-size: var(--font-size-0);
+	fill: var(--text-1);
 }

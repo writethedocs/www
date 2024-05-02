@@ -1,0 +1,141 @@
+<svg width="100%" height="100%" viewBox="0 0 650 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+	<defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+	<g class="bar-chart-horizontal">
+
+		<g class="data-series-stacked">
+		
+			<g class="a">
+
+				<g class="axis-labels">
+					
+				</g>
+
+				<g class="bars">
+					
+					<path d="M325.5 37H2.5V69H325.5V37Z" fill="#1E73BE"/>
+					<path d="M321.5 84H23.5V117H321.5V84Z" fill="#1E73BE"/>
+					<path d="M300.5 132H8.5V164H300.5V132Z" fill="#1E73BE"/>
+					<path d="M283.5 179H11.5V212H283.5V179Z" fill="#1E73BE"/>
+					<path d="M243.5 227H34.5V259H243.5V227Z" fill="#1E73BE"/>
+					<path d="M211.5 275H20.5V307H211.5V275Z" fill="#1E73BE"/>
+					<path d="M228.5 322H49.5V355H228.5V322Z" fill="#1E73BE"/>
+					<path d="M200.5 370H34.5V402H200.5V370Z" fill="#1E73BE"/>
+					<path d="M232.5 418H122.5V450H232.5V418Z" fill="#1E73BE"/>
+					<path d="M189.5 465H83.5V498H189.5V465Z" fill="#1E73BE"/>
+					<path d="M207.5 513H102.5V545H207.5V513Z" fill="#1E73BE"/>
+					<path d="M212.5 560H127.5V593H212.5V560Z" fill="#1E73BE"/>
+					<path d="M267.5 608H242.5V640H267.5V608Z" fill="#1E73BE"/>
+					<path d="M397.5 37H327.5V69H397.5V37Z" fill="#1E73BE" fill-opacity="0.75"/>
+					<path d="M397.5 84H323.5V117H397.5V84Z" fill="#1E73BE" fill-opacity="0.75"/>
+					<path d="M397.5 132H302.5V164H397.5V132Z" fill="#1E73BE" fill-opacity="0.75"/>
+					<path d="M397.5 179H285.5V212H397.5V179Z" fill="#1E73BE" fill-opacity="0.75"/>
+					<path d="M397.5 227H245.5V259H397.5V227Z" fill="#1E73BE" fill-opacity="0.75"/>
+					<path d="M397.5 275H213.5V307H397.5V275Z" fill="#1E73BE" fill-opacity="0.75"/>
+					<path d="M396.5 322H230.5V355H396.5V322Z" fill="#1E73BE" fill-opacity="0.75"/>
+					<path d="M397.5 370H202.5V402H397.5V370Z" fill="#1E73BE" fill-opacity="0.75"/>
+					<path d="M397.5 418H234.5V450H397.5V418Z" fill="#1E73BE" fill-opacity="0.75"/>
+					<path d="M397.5 465H191.5V498H397.5V465Z" fill="#1E73BE" fill-opacity="0.75"/>
+					<path d="M397.5 513H209.5V545H397.5V513Z" fill="#1E73BE" fill-opacity="0.75"/>
+					<path d="M397.5 560H214.5V593H397.5V560Z" fill="#1E73BE" fill-opacity="0.75"/>
+					<path d="M396.5 608H269.5V640H396.5V608Z" fill="#1E73BE" fill-opacity="0.75"/>
+					<path d="M399.5 37H404.5V69H399.5V37Z" fill="#FF5D92" fill-opacity="0.85"/>
+					<path d="M416.5 84H399.5V117H416.5V84Z" fill="#FF5D92" fill-opacity="0.85"/>
+					<path d="M408.5 132H399.5V164H408.5V132Z" fill="#FF5D92" fill-opacity="0.85"/>
+					<path d="M404.5 179H399.5V212H404.5V179Z" fill="#FF5D92" fill-opacity="0.85"/>
+					<path d="M425.5 227H399.5V259H425.5V227Z" fill="#FF5D92" fill-opacity="0.85"/>
+					<path d="M414.5 275H399.5V307H414.5V275Z" fill="#FF5D92" fill-opacity="0.85"/>
+					<path d="M437.5 322H398.5V355H437.5V322Z" fill="#FF5D92" fill-opacity="0.85"/>
+					<path d="M427.5 370H399.5V402H427.5V370Z" fill="#FF5D92" fill-opacity="0.85"/>
+					<path d="M486.5 418H399.5V450H486.5V418Z" fill="#FF5D92" fill-opacity="0.85"/>
+					<path d="M475.5 465H399.5V498H475.5V465Z" fill="#FF5D92" fill-opacity="0.85"/>
+					<path d="M492.5 513H399.5V545H492.5V513Z" fill="#FF5D92" fill-opacity="0.85"/>
+					<path d="M503.5 560H399.5V593H503.5V560Z" fill="#FF5D92" fill-opacity="0.85"/>
+					<path d="M590.5 608H398.5V640H590.5V608Z" fill="#FF5D92" fill-opacity="0.85"/>
+					<path d="M418.5 84H423.5V117H418.5V84Z" fill="#FF5D92"/>
+					<path d="M410.5 132H415.5V164H410.5V132Z" fill="#FF5D92"/>
+					<path d="M432.5 227H427.5V259H432.5V227Z" fill="#FF5D92"/>
+					<path d="M416.5 275H420.5V307H416.5V275Z" fill="#FF5D92"/>
+					<path d="M443.5 322H439.5V355H443.5V322Z" fill="#FF5D92"/>
+					<path d="M517.5 418H488.5V450H517.5V418Z" fill="#FF5D92"/>
+					<path d="M482.5 465H477.5V498H482.5V465Z" fill="#FF5D92"/>
+					<path d="M501.5 513H494.5V545H501.5V513Z" fill="#FF5D92"/>
+					<path d="M522.5 560H505.5V593H522.5V560Z" fill="#FF5D92"/>
+					<path d="M637.5 608H592.5V640H637.5V608Z" fill="#FF5D92"/>
+
+				</g>
+
+				<g class="value-labels">
+					<text fill="white"  x="282.5" y="58.3843">81.9&#x200b;%</text>
+					<text fill="white"  x="278.5" y="105.384">75.6&#x200b;%</text>
+					<text fill="white"  x="257.5" y="153.384">74.2&#x200b;%</text>
+					<text fill="white"  x="240.5" y="200.384">69.1&#x200b;%</text>
+					<text fill="white"  x="200.5" y="248.384">53.1&#x200b;%</text>
+					<text fill="white"  x="168.5" y="296.384">48.7%&#x200b;</text>
+					<text fill="white"  x="185.5" y="343.384">45.6%&#x200b;</text>
+					<text fill="white"  x="157.5" y="389.384">42.3%&#x200b;</text>
+					<text fill="#002956"  x="354.5" y="58.3843">18.0%&#x200b;</text>
+					<text fill="#002956"  x="354.5" y="105.384">19.2%&#x200b;</text>
+					<text fill="#002956"  x="354.5" y="153.384">24.4&#x200b;%</text>
+					<text fill="#002956"  x="354.5" y="200.384">28.7&#x200b;%</text>
+					<text fill="#002956"  x="354.5" y="248.384">38.8%&#x200b;</text>
+					<text fill="#002956"  x="354.5" y="296.384">46.8%&#x200b;</text>
+					<text fill="#002956"  x="353.5" y="343.384">42.5%&#x200b;</text>
+					<text fill="#002956"  x="354.5" y="391.384">49.7%&#x200b;</text>
+					<text fill="#002956"  x="354.5" y="439.384">41.6%&#x200b;</text>
+					<text fill="#002956"  x="354.5" y="486.384">52.3%&#x200b;</text>
+					<text fill="#002956"  x="354.5" y="534.384">48.0%&#x200b;</text>
+					<text fill="#002956"  x="354.5" y="581.384">46.7%&#x200b;</text>
+					<text fill="#002956"  x="353.5" y="629.384">32.7%&#x200b;</text>
+					<text fill="#390000"  x="547.5" y="629.384">48.9%&#x200b;</text>
+					<text fill="#390000"  x="599" y="629.384">11.7%&#x200b;</text>
+					<text fill="#390000"  x="460.5" y="581.384">26.7%</text>
+					<text fill="white"  x="15.4648" y="57.3843">Salary</text>
+					<text fill="white"  x="36.4531" y="105.384">Location</text>
+					<text fill="white"  x="21.4707" y="153.384">Hours</text>
+					<text fill="white"  x="24.4531" y="200.384">Benefits</text>
+					<text fill="white"  x="47.4766" y="248.384">Team</text>
+					<text fill="white"  x="33.4531" y="295.384">Workload</text>
+					<text fill="white"  x="62.459" y="343.384">Culture</text>
+					<text fill="#002956"  x="215.447" y="391.384">Stability</text>
+					<text fill="#002956"  x="247.447" y="438.384">Diversity</text>
+					<text fill="#002956"  x="204.436" y="486.384">Development</text>
+					<text fill="#390000"  x="449.5" y="534.384">24.0%</text>
+					<text fill="#390000"  x="432.5" y="485.384">19.6%</text>
+					<text fill="#002956"  x="222.465" y="534.384">Career</text>
+					<text fill="#002956"  x="227.406" y="581.384">Pay Transparency</text>
+					<text fill="#390000"  x="411.447" y="629.384">Community</text>
+					<text fill="white"  x="189.5" y="438.384">28.1%&#x200b;</text>
+					<text fill="white"  x="146.5" y="485.384">27.2%&#x200b;</text>
+					<text fill="white"  x="169.5" y="581.384">21.7%&#x200b;</text>
+					<text fill="white"  x="164.5" y="533.384">26.9%&#x200b;</text>
+					<text fill="#390000"  x="443.5" y="438.384">22.4%</text>
+				</g>
+
+			</g>
+
+		</g>
+
+		<g class="legend">
+			<path d="M0.5 5.5C0.5 6.82608 1.02678 8.09785 1.96447 9.03553C2.90215 9.97322 4.17392 10.5 5.5 10.5C6.82608 10.5 8.09785 9.97322 9.03553 9.03553C9.97322 8.09785 10.5 6.82608 10.5 5.5C10.5 4.17392 9.97322 2.90215 9.03553 1.96447C8.09785 1.02678 6.82608 0.5 5.5 0.5C4.17392 0.5 2.90215 1.02678 1.96447 1.96447C1.02678 2.90215 0.5 4.17392 0.5 5.5Z" fill="#1E73BE"/>
+			<text x="14.5" y="10.3843">Very important</text>
+			<path d="M168.159 5.5C168.159 6.82608 168.685 8.09785 169.623 9.03553C170.561 9.97322 171.832 10.5 173.159 10.5C174.485 10.5 175.756 9.97322 176.694 9.03553C177.632 8.09785 178.159 6.82608 178.159 5.5C178.159 4.17392 177.632 2.90215 176.694 1.96447C175.756 1.02678 174.485 0.5 173.159 0.5C171.832 0.5 170.561 1.02678 169.623 1.96447C168.685 2.90215 168.159 4.17392 168.159 5.5Z" fill="#1E73BE" fill-opacity="0.75"/>
+			<text x="182.159" y="10.3843">Somewhat important</text>
+			<path d="M359.817 6C359.817 7.32608 360.344 8.59785 361.282 9.53553C362.219 10.4732 363.491 11 364.817 11C366.143 11 367.415 10.4732 368.353 9.53553C369.29 8.59785 369.817 7.32608 369.817 6C369.817 4.67392 369.29 3.40215 368.353 2.46447C367.415 1.52678 366.143 1 364.817 1C363.491 1 362.219 1.52678 361.282 2.46447C360.344 3.40215 359.817 4.67392 359.817 6Z" fill="#FF75A2"/>
+			<text x="372.841" y="10.3843">Not very important</text>
+			<path d="M550.5 5.5C550.5 6.82608 551.027 8.09785 551.964 9.03553C552.902 9.97322 554.174 10.5 555.5 10.5C556.826 10.5 558.098 9.97322 559.036 9.03553C559.973 8.09785 560.5 6.82608 560.5 5.5C560.5 4.17392 559.973 2.90215 559.036 1.96447C558.098 1.02678 556.826 0.5 555.5 0.5C554.174 0.5 552.902 1.02678 551.964 1.96447C551.027 2.90215 550.5 4.17392 550.5 5.5Z" fill="#FF5D92"/>
+			<text x="564.5" y="10.3843">Not relevant</text>
+			<line y1="24.5" x2="638" y2="24.5" stroke="black" stroke-opacity="0.2"/>
+		</g>
+
+	</g>
+
+</svg>
