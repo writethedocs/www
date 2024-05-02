@@ -34,10 +34,10 @@ Support our community by sponsoring
 
 Every year we are fortunate to have the support of like-minded organizations and communities, who believe in the collaborative and welcoming community spirit and help us make our events great.
 
-We have published our `virtual sponsorship prospectus`_ for the conference,
+We have published our `virtual conference sponsorship prospectus`_ for the conference,
 and are open for new sponsorship inquiries.
 
-.. _virtual sponsorship prospectus: https://www.writethedocs.org/conf/atlantic/{{year}}/sponsors/prospectus/
+.. _virtual conference sponsorship prospectus: https://www.writethedocs.org/conf/atlantic/{{year}}/sponsors/prospectus/
 
 Looking forward to seeing you all in our virtual space!
 
