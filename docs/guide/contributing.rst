@@ -59,7 +59,7 @@ If you really don't want to deal with GitHub at all, we'll take attachments or i
 Markup
 ------
 
-Some of the current files in the guide are written in `Markdown <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github>`_, and some are written in `reStructured Text (rST) <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`_. Either one is acceptable, although we'd prefer rST.
+Some of the current files in the guide are written in `Markdown <https://www.writethedocs.org/guide/writing/markdown/>`_, and some are written in `reStructured Text (rST) <https://www.writethedocs.org/guide/writing/reStructuredText/>`_. Either one is acceptable, although we'd prefer rST.
 
 Community
 ----------------
