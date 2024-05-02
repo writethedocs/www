@@ -706,6 +706,16 @@ table:has(+ div.tbl-footnote) {
 	}
 }
 
+#tbl-2023-employee-job-offer-considerations {
+	thead {
+		th {
+			&&:nth-of-type(2) {
+				text-align: center;
+			}
+		}
+	}
+}
+
 
 /* CSS tabs */
 .tab-wrap {
