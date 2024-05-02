@@ -10,11 +10,17 @@
 
    <i class="fa-solid fa-circle-question"></i>
 
-.. |25| replace:: 25\ :sup:`th`
+.. |25| replace:: :abbr:`25 (25th percentile - one quarter of all salaries were lower than this value)`:sup:`th`
 
-.. |50| replace:: 50\ :sup:`th`
+.. |25th| replace:: 25\ :sup:`th`
 
-.. |75| replace:: 75\ :sup:`th`
+.. |50| replace:: :abbr:`50 (50th percentile or median - half of all salaries were higher than this valu, half were lower)`:sup:`th`
+
+.. |50th| replace:: 50\ :sup:`th`
+
+.. |75| replace:: :abbr:`75 (75th percentile - one quarter of all salaries were higher than this value)`:sup:`th`
+
+.. |75th| replace:: 75\ :sup:`th`
 
 .. raw:: html   
    
@@ -1204,6 +1210,19 @@ Median salary
 
 As in previous years, salaries for those working part-time hours (less than 30 per week) have been omitted from the figures in this section. The median salaries are based on 922 full-time employee respondents.  
 
+
+.. container:: note
+
+   .. rubric:: |icon-info| Definition of percentile values
+
+   Previous survey results have only reported the median salary - the number in the middle of the range, sometimes referred to as the |50th| percentile. Due to the increase in numbers and finer-grained location data, we're able this year to also publish figures for the |25th| and |75th| percentile figures, for regions where there are more than 30 respondents. 
+
+   In the following tables, the following definitions apply:
+
+   - |25th| percentile: one quarter of all respondents earned less, three quarters earned more
+   - |50th| percentile (median): half of all respondents earned more, half earned less
+   - |75th| percentile: one quarter of all respondents earned more, three  quarters earned less
+
 Median salary by respondent region
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -1278,7 +1297,7 @@ Given the range of socio-economic differences in the countries in the survey res
 Median salary by respondent region - further breakdowns
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Where respondent numbers for individual US and Australian states, 
+Respondent numbers allow some additional breakdowns by US state, Candian province and Australian state, as well as a handful of North American cities. 
 
 .. raw:: html
 
