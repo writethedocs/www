@@ -933,14 +933,26 @@ The majority of respondents (80.8%) reported feeling "positive" about their work
    | Very negative                | 10  | 1.0%  |
    +------------------------------+-----+-------+
 
-"Return to the office" mandates
--------------------------------
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Work location" aria-describedby="figure_feelings-about-work-location_desc" type="image/svg+xml" data="/_images/2023-feelings-about-work-location.svg">
+         <p id="figure_feelings-about-work-location_desc">Donut chart showing respondents feelings about their work location.</p>
+      </object> 
+      <figcaption>Figure: Feelings about Work location</figcaption>
+   </figure>
+
+.. figure:: images/2023/2023-feelings-about-work-location.svg
+   :class: hide
+
+"Return to office" (RTO) mandates
+---------------------------------
 
 .. container:: note
 
    .. rubric:: |icon-info| Note on use of the term "post-pandemic"
 
-   The survey questions originally included the term "post-pandemic" to describe "return to the office" mandates. However, as was correctly pointed out by several community members, the COVID-19 pandemic is not over, and is still very much a concern for at-risk groups. Removing this term does not alter the meaning or intention of the question and so has been left out of this report. 
+   The survey questions originally included the term "post-pandemic" to describe "return to office" mandates. However, as was correctly pointed out by several community members, the COVID-19 pandemic is not over, and is still very much a concern for at-risk groups. Removing this term does not alter the meaning or intention of the question and so has been left out of this report. 
 
 .. raw:: html
    
@@ -948,7 +960,7 @@ The majority of respondents (80.8%) reported feeling "positive" about their work
 
 .. container:: question
 
-   |icon-question| Has your organization implemented a "return to the office" policy - requesting or requiring that remote or "work from home" employees return to working on-site?
+   |icon-question| Has your organization implemented a "return to office" policy - requesting or requiring that remote or "work from home" employees return to working on-site?
 
    - Yes, it's required all of the time
    - Yes, it's required but only part of the time (hybrid work is ok)
@@ -960,7 +972,7 @@ The majority of respondents (80.8%) reported feeling "positive" about their work
    - No, my position was always on-site only
    - I don't know
 
-   How do you feel about your organization's "return to the office" policy?
+   How do you feel about your organization's "return to office" policy?
 
    - Very negative
    - Negative
@@ -972,7 +984,7 @@ The majority of respondents (80.8%) reported feeling "positive" about their work
 
    </details>
 
-55.1% of respondents reported that they have not been affected by "return to the office" policies. 42.8% have been affected, with only 2.2% unsure. 
+55.1% of respondents reported that they have not been affected by "return to office" (RTO) policies. 42.8% have been affected, with only 2.2% unsure. 
 
 Of those that were not affected, 26.2% - the largest segment overall - reported that remote work was still allowed, encouraged or required, with another 23.4% stating that their position was always remote-only. 
 
@@ -988,7 +1000,7 @@ For those that have been affected, most reported that a hybrid model was being m
    :class: std3col
 
    +------------------------------------------------------+-----+-------+
-   | Status                                               | No. | %     |
+   | RTO Status                                           | No. | %     |
    +======================================================+=====+=======+
    | No, remote work is still allowed/encouraged/required | 266 | 47.5% |
    +------------------------------------------------------+-----+-------+
@@ -1009,7 +1021,7 @@ For those that have been affected, most reported that a hybrid model was being m
    :class: std3col
 
    +------------------------------------------------------------------+-----+-------+
-   | Status                                                           | No. | %     |
+   | RTO Status                                                       | No. | %     |
    +==================================================================+=====+=======+
    | Yes, it's required but only part of the time (hybrid work is ok) | 246 | 56.6% |
    +------------------------------------------------------------------+-----+-------+
@@ -1024,13 +1036,13 @@ For those that have been affected, most reported that a hybrid model was being m
 
    </div></div>
 
-Those who reported being affected by a "return to the office" policy were asked about their feelings on the situation. 
+Those who reported being affected by an RTO policy were asked about their feelings on the situation. 
 
 Those who were required to return to the office on a part-time basis were quite evenly split between neutral (32.9%), negative (26%) and very negative (22%). Those who were positive (14.6%) or very positive (4.5%) were in the minority.
 
 Those who reported that a return was being encouraged by not required were less negative overall - 41% reported "neutral", with the remainder split evenly between positive and negative. 
 
-Those affected by a full time return to the office mandate felt predominantly negative, with only 3 individuals reporting positive feelings. 
+Those affected by a full time RTO mandate felt predominantly negative, with only 3 individuals reporting positive feelings. 
 
 Preferred work location
 -----------------------
