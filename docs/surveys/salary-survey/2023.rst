@@ -807,7 +807,7 @@ Just over half of all respondents (54.1%) reported feeling the same level of job
    :class: std3col
 
    +----------------------------------------+-----+-------+
-   | Feelings of job security and stability | |N| | |%|   |
+   | Feelings                               | |N| | |%|   |
    +========================================+=====+=======+
    | The same as last year                  | 531 | 54.1% |
    +----------------------------------------+-----+-------+
@@ -851,7 +851,54 @@ Note: This question - new for 2023 - was only shown to employees.
 
 While some obvious factors were given high importance by most respondents - salary, work location, hours, and benefits - other factors resulted in more varied results. The only factor that the majority of respondents agreed was not very important was community involvement. Stability, diversity, professional development, career advancement and pay transparency were all found to be "somewhat important" by the majority of respondents, but for all of these factors there was a wide range of variations in the responses. 
 
+.. table:: Employee job offer considerations
+   :widths: 32 17 17 17 17
+   :name: tbl-2023-employee-job-offer-considerations
+   :class: fivecol
 
+   +------------------+------------------------------------------+
+   | Factor           |                Importance                |
+   |                  +-------+----------+----------+------------+
+   |                  | Very  | Somewhat | Not very | None       |
+   +==================+=======+==========+==========+============+
+   | Salary           | 81.9% | 18.0%    | 0.1%     | 0%         |
+   +------------------+-------+----------+----------+------------+
+   | Location         | 75.6% | 19.2%    | 4.8%     | 0.4%       |
+   +------------------+-------+----------+----------+------------+
+   | Hours            | 74.2% | 24.4%    | 1.4%     | 0%         |
+   +------------------+-------+----------+----------+------------+
+   | Benefits         | 69.1% | 28.7%    | 1.7%     | 0.5%       |
+   +------------------+-------+----------+----------+------------+
+   | Team             | 53.1% | 38.8%    | 7.2%     | 0.9%       |
+   +------------------+-------+----------+----------+------------+
+   | Workload         | 48.7% | 46.8%    | 4.3%     | 0.2%       |
+   +------------------+-------+----------+----------+------------+
+   | Culture          | 45.6% | 42.5%    | 10.3%    | 1.5%       |
+   +------------------+-------+----------+----------+------------+
+   | Stability        | 42.3% | 49.7%    | 7.6%     | 0.4%       |
+   +------------------+-------+----------+----------+------------+
+   | Diversity        | 28.1% | 41.6%    | 22.4%    | 7.9%       |
+   +------------------+-------+----------+----------+------------+
+   | Development      | 27.2% | 52.3%    | 19.6%    | 0.9%       |
+   +------------------+-------+----------+----------+------------+
+   | Career           | 26.9% | 48.0%    | 24.0%    | 1.2%       |
+   +------------------+-------+----------+----------+------------+
+   | Pay transparency | 21.7% | 46.7%    | 26.7%    | 4.9%       |
+   +------------------+-------+----------+----------+------------+
+   | Community        | 6.6%  | 32.7%    | 48.9%    | 11.7%      |
+   +------------------+-------+----------+----------+------------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Job offer considerations" aria-describedby="figure_job-offer-considerations_desc" type="image/svg+xml" data="/_images/2023-job-offer-considerations.svg">
+         <p id="figure_job-offer-considerations_desc">Diverging stacked horizontal bar chart showing level of importance given to various factors by employee respondents when considering an offer of employment.</p>
+      </object> 
+      <figcaption>Figure: Employee job offer considerations</figcaption>
+   </figure>
+
+.. figure:: images/2023/2023-job-offer-considerations.svg
+   :class: hide
 
 Workplace
 =========
@@ -934,7 +981,7 @@ The majority of respondents (80.8%) reported feeling "positive" about their work
    :class: std3col
 
    +------------------------------+-----+-------+
-   | Feelings about work location | |N| | |%|   |
+   | Feelings                     | |N| | |%|   |
    +==============================+=====+=======+
    | Very positive                | 527 | 51.8% |
    +------------------------------+-----+-------+
@@ -953,7 +1000,7 @@ The majority of respondents (80.8%) reported feeling "positive" about their work
       <object role="img" aria-label="Work location" aria-describedby="figure_feelings-about-work-location_desc" type="image/svg+xml" data="/_images/2023-feelings-about-work-location.svg">
          <p id="figure_feelings-about-work-location_desc">Donut chart showing respondents feelings about their work location.</p>
       </object> 
-      <figcaption>Figure: Feelings about Work location</figcaption>
+      <figcaption>Figure: Feelings about work location</figcaption>
    </figure>
 
 .. figure:: images/2023/2023-feelings-about-work-location.svg
@@ -2828,9 +2875,9 @@ Organizations with pay transparency are open about salaries and benefits for exi
 
    .. rubric:: |icon-info| Pay transparency legislation
 
-   A number of US states have made some level of pay transparency law - Maryland, Colorado, Connecticut, Nevada, Rhode Island, Washington, California and New York - and a number of others are considering doing so. The exact requirements, level of compliance and enforcement mechanisms vary from state to state, and as most laws have only been enacted recently, it will take some time for the effects to be felt. An overview is available here: [https://www.americanprogress.org/article/quick-facts-about-state-salary-range-transparency-laws/]
+   A number of US states have made some level of pay transparency law - Maryland, Colorado, Connecticut, Nevada, Rhode Island, Washington, California and New York - and a number of others are considering doing so. The exact requirements, level of compliance and enforcement mechanisms vary from state to state, and as most laws have only been enacted recently, it will take some time for the effects to be felt. An overview is available here: `Quick facts about state salary range transparency laws <https://www.americanprogress.org/article/quick-facts-about-state-salary-range-transparency-laws/>`_
 
-   Additionally, The European Parliament approved a new Pay Transparency Directive in March 2023. EU member states have three years to enact legislation based on the directive. Part of the directive involves measuring and eliminating any gender-based pay discrepancies. More information is available here: [https://ec.europa.eu/commission/presscorner/detail/en/ip_22_7739]
+   Additionally, The European Parliament approved a new Pay Transparency Directive in March 2023. EU member states have three years to enact legislation based on the directive. Part of the directive involves measuring and eliminating any gender-based pay discrepancies. More information is available here: `Commission welcomes the political agreement on new EU rules for pay transparency <https://ec.europa.eu/commission/presscorner/detail/en/ip_22_7739>`_
 
 
 Official pay transparency policy
@@ -2945,7 +2992,7 @@ Feelings about pay transparency
    :class: std3col
 
    +---------------------------------+-----+-------+
-   | Feelings about pay transparency | |N| | |%|   |
+   | Feelings                        | |N| | |%|   |
    +=================================+=====+=======+
    | Strongly support                | 429 | 45.7% |
    +---------------------------------+-----+-------+

@@ -644,10 +644,10 @@ main {
 	main {
 		table {
 			padding: var(--size-2) var(--size-0) var(--size-0) var(--size-0);
-		}
-		tbody {
-			td {
-				padding: var(--size-1);
+			tbody {
+				td {
+					padding: var(--size-1);
+				}
 			}
 		}
 	}
@@ -656,10 +656,10 @@ main {
 	main {
 		table {
 			padding: var(--size-2) var(--size-0) var(--size-0) var(--size-0);
-		}
-		tbody {
-			td {
-				padding: var(--size-1);
+			tbody {
+				td {
+					padding: var(--size-1);
+				}
 			}
 		}
 	}
