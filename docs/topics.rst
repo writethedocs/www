@@ -245,6 +245,7 @@ Information architecture
 Legacy docs
 ~~~~~~~~~~~
 
+- |:newspaper:| `Announcing Feature Deprecation </blog/newsletter-may-2024/#announcing-feature-deprecation>`__
 - |:movie_camera:| `Organizing a Confluence hoard, or, does this page spark joy? </videos/prague/2020/organizing-a-confluence-hoard-or-does-this-page-spark-joy-abigail-sutherland/>`__
 - |:movie_camera:| `Legacy content from various perspectives </videos/australia/2020/legacy-content-from-various-perspectives-marcelina-haftka/>`__
 - |:movie_camera:| `When Agile Fails: Working on Large Documentation Projects </videos/australia/2020/when-agile-fails-working-on-large-documentation-projects-lana-brindley/>`__
@@ -270,6 +271,7 @@ Maintenance
 Jobs and careers
 ----------------
 
+- |:newspaper:| `Should Technical Communication Be Its Own Department? </blog/newsletter-may-2024/#should-technical-communication-be-its-own-department>`__
 - |:newspaper:| `What to do after surviving layoffs </blog/newsletter-may-2023/#what-to-do-after-surviving-layoffs>`__
 - |:newspaper:| `Knowledge transfer for documentarians </blog/newsletter-november-2022/#knowledge-transfer-for-documentarians>`__
 - |:newspaper:| `Joining as a manager </blog/newsletter-november-2022/#joining-as-a-manager>`__
@@ -509,6 +511,7 @@ Doc tools
 Docs-as-code
 ~~~~~~~~~~~~
 
+- |:newspaper:| `Is Docs-as-Code Worth It? </blog/newsletter-may-2024/#is-docs-as-code-worth-it>`__
 - |:newspaper:| `Drafting Docs with Code Changes </blog/newsletter-april-2024/#drafting-docs-with-code-changes>`__
 - |:newspaper:| `Docs with Code Or Just as Code? </blog/newsletter-october-2023/#docs-with-code-or-just-as-code>`__
 - |:newspaper:| `Semantic Linefeeds </blog/newsletter-march-2023/#semantic-linefeeds>`__
@@ -577,6 +580,7 @@ Search
 Metrics and analytics
 ---------------------
 
+- |:newspaper:| `Docs Metrics To Track </blog/newsletter-may-2024/#docs-metrics-to-track>`__
 - |:newspaper:| `Discovering user needs </blog/newsletter-august-2019/#starting-out-with-analytics-and-then-upping-your-game>`__
 - |:movie_camera:| `Don’t trust the numbers! </videos/portland/2022/don-t-trust-the-numbers-kumar-dhanagopal/>`__
 - |:movie_camera:| `The Importance of Using Analytics and Feedback for your Documentation </videos/prague/2020/the-importance-of-using-analytics-and-feedback-for-your-documentation-karissa-van-baulen/>`__
