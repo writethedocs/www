@@ -4093,3 +4093,76 @@ Regarding the relevance of the questions, 52.2% rated them "excellent", and anot
 Concerning the usability of the survey form and website, over half rated it "excellent", with another 28.8% rating it "good". 6.1% chose "ok", 1.1% thought it was "no great" and 0.5% had no opinion. 
 
 The length of the survey has been an area of concern for the survey team, so we were quite relieved to find that 80.3% of respondents said that the length was "just right". However, a significant proportion - 13.6% - were of the opinion that the survey was too long (and another 1.2% chose "far too long") so this is something we will take into consideration in future surveys. 4% had no opinion and a very small percentage of survey fans (0.8%) said that it was "too short". 
+
+.. raw:: html
+
+   <div class="tab-wrap"><input type="radio" id="tabW1-1" name="tabGroupW1" class="tab" checked><label for="tabW1-1">Length</label><input type="radio" id="tabW1-2" name="tabGroupW1" class="tab"><label for="tabW1-2">Relevance</label><input type="radio" id="tabW1-3" name="tabGroupW1" class="tab"><label for="tabW1-3">Usability</label><div class="tab__content">
+
+.. table:: Survey feedback - length
+   :widths: 70 15 15
+   :name: tbl-2023-survey-feedback-length
+   :class: std3col
+
+   +--------------+------+-------+
+   | Opinion      | No.  | %     |
+   +==============+======+=======+
+   | Just right   | 817  | 80.3% |
+   +--------------+------+-------+
+   | Too short    | 8    |  0.8% |
+   +--------------+------+-------+
+   | Too long     | 138  | 13.6% |
+   +--------------+------+-------+
+   | Far too long | 12   |  1.2% |
+   +--------------+------+-------+
+   | No opinion   | 42   |  4.1% |
+   +--------------+------+-------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Survey feedback - relevance
+   :widths: 70 15 15
+   :name: tbl-2023-survey-feedback-relevance
+   :class: std3col
+
+   +------------+-----+-------+
+   | Opinion    | No. | %     |
+   +============+=====+=======+
+   | Excellent  | 531 | 52.2% |
+   +------------+-----+-------+
+   | Good       | 395 | 38.8% |
+   +------------+-----+-------+
+   | OK         | 78  |  7.7% |
+   +------------+-----+-------+
+   | Not great  | 5   |  0.5% |
+   +------------+-----+-------+
+   | No opinion | 8   |  0.8% |
+   +------------+-----+-------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Survey feedback - usability
+   :widths: 70 15 15
+   :name: tbl-2023-survey-feedback-usability
+   :class: std3col
+
+   +------------+-----+-------+
+   | Opinion    | No. | %     |
+   +============+=====+=======+
+   | Excellent  | 646 | 63.5% |
+   +------------+-----+-------+
+   | Good       | 293 | 28.8% |
+   +------------+-----+-------+
+   | OK         | 62  |  6.1% |
+   +------------+-----+-------+
+   | Not great  | 11  |  1.1% |
+   +------------+-----+-------+
+   | No opinion | 5   |  0.5% |
+   +------------+-----+-------+
+
+.. raw:: html
+
+   </div></div>
