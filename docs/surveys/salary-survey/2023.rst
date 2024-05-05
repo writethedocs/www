@@ -3479,6 +3479,19 @@ The age group split was very neat this year - approximately one third of respond
    | not-specified |  12 |  1.2% |
    +---------------+-----+-------+
 
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Respondent age group" aria-describedby="figure_respondent-age-group_desc" type="image/svg+xml" data="/_images/2023-respondent-age-group.svg">
+         <p id="figure_respondent-age-group_desc">Vertical bar chart showing age groupings of respondents. </p>
+      </object> 
+      <figcaption>Figure: Respondent age group</figcaption>
+   </figure>
+
+.. figure:: images/2023/2023-respondent-age-group.svg
+   :class: hide
+
+
 Gender identity
 ---------------
 
