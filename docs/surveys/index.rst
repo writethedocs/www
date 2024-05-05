@@ -8,9 +8,7 @@ Overwhelmed by the positive response, we expanded the survey to collect informat
 2023 Salary Survey results available
 ------------------------------------
 
-The 2023 Salary Survey results are now available. 
-
-A huge thank you to everyone in the community: with your help, the 2023 survey broke all previous records for number of respondents, both employees and contractors/freelancers/self-employed people. More responses means more complete and useful information, which benefits everyone.
+A huge thank you to everyone in the WTD community: with your help, the 2023 survey broke all previous records for number of respondents, both employees and contractors. Along with finer-grained lcoation data, this has allowed us to publish more than four times as many median salary breakdowns as in previous years. 
 
 .. toctree::
    :caption: Survey Results
