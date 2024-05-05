@@ -1,21 +1,19 @@
 :template: {{year}}/generic.html
 
-.. post:: May 1, 2023
+.. post:: May 10, 2024
    :tags: {{shortcode}}-{{year}}, website, tickets
 
 Announcing Write the Docs Australia {{year}}
 ==============================================
 
 G'day and welcome to the official launch of `Write the Docs Australia {{year}} <https://www.writethedocs.org/conf/australia/{{year}}/>`_,
-our sixth conference.
+our seventh conference.
 
 We're excited to announce the dates for our next conference:
-**Write the Docs Australia 2023 will be on December 7-8, 2023, in Melbourne**.
+**Write the Docs Australia 2024 will be on November 28-29, in Melbourne**.
 
 Write the Docs Australia will be an in-person conference, similar to our pre-COVID conferences. 
 Speakers will be present in person and speaking from the conference stage.
-
-The conference will follow all local COVID regulations that apply at the time, and we will announce more specific policies before our tickets go on sale so people can make an informed decision.
 
 The conference will take place during day time in AEDT_.
 
