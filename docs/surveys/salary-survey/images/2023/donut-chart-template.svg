@@ -3,7 +3,7 @@
 		<defs>
     <style type="text/css">
       <![CDATA[
-        @import url(/_static/css/survey-2023-svg.css);
+        @import url(/_static/survey/css/svg.css);
       ]]>
     </style>
     
