@@ -3491,7 +3491,6 @@ The age group split was very neat this year - approximately one third of respond
 .. figure:: images/2023/2023-respondent-age-group.svg
    :class: hide
 
-
 Gender identity
 ---------------
 
@@ -3533,6 +3532,18 @@ The majority of respondents in 2023 were women - accounting for 59.9% of the tot
    +-----------------+-----+-------+
    | Other           | 3   | 0.3%  |
    +-----------------+-----+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Respondent gender identity" aria-describedby="figure_respondent-gender-identity_desc" type="image/svg+xml" data="/_images/2023-respondent-gender-identity.svg">
+         <p id="figure_respondent-gender-identity_desc">Donut chart showing gender identity of respodnents.</p>
+      </object> 
+      <figcaption>Figure: Respondent gender identity</figcaption>
+   </figure>
+
+.. figure:: images/2023/2023-respondent-gender-identity.svg
+   :class: hide
 
 Experience
 ----------
