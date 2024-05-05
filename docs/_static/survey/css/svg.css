@@ -168,9 +168,6 @@
 	}
 }
 
-
-
-
 .bar-chart-vertical {
 
 	.data-series {
@@ -192,6 +189,11 @@
 			}
 
 			.value-labels text{
+				fill: var(--surface-1-light);
+				font-size: var(--font-size-0);
+			}
+
+			.value-labels.transform text{
 				fill: var(--surface-1-light);
 				transform: translateY(2rem);
 				font-size: var(--font-size-0);

@@ -21,7 +21,7 @@
 				<path d="M644.531 35.5699H508.406V455.826H644.531V35.5699Z"/>
 			</g>
 
-			<g class="value-labels">
+			<g class="value-labels transform">
 				<text x="78" y="384.384">4.2%&#x200b;</text>
 				<text x="238" y="355.384">8.6%&#x200b;</text>
 				<text x="396" y="214.384">30.0%&#x200b;</text>

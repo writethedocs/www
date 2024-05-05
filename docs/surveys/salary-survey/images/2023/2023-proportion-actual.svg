@@ -29,7 +29,7 @@
 					<path d="M635 39H503V437H635V39Z"/>
 				</g>
 
-				<g class="value-labels">
+				<g class="value-labels transform">
 					<text x="78" y="384.384">4.2%</text>
 					<text x="238" y="355.384">8.6%</text>
 					<text x="396" y="214.384">30.0%</text>
