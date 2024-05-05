@@ -559,6 +559,19 @@ The majority of respondents (73.5% in 2023, almost exactly the same proportion a
 .. figure:: images/2023/2023-portion-of-role-officially-docs-related.svg
    :class: hide
 
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Portion of role actually documentation-related" aria-describedby="figure_proportion-of-role-actually-docs-related_desc" type="image/svg+xml" data="/_images/2023-proportion-actual.svg">
+         <p id="figure_proportion-of-role-actually-docs-related_desc">Donut chart showing what proportion of respondents actual day-to-day tasks are documentation-related.</p>
+      </object> 
+      <figcaption>Figure: Portion of role actually documentation-related</figcaption>
+   </figure>
+
+.. figure:: images/2023/2023-proportion-actual.svg
+   :class: hide
+
+
 
 Job changes
 ===========
