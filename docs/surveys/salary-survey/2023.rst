@@ -4088,6 +4088,18 @@ For the first time this year, we included a mini "meta-survey" - a handful of qu
 
 More than half of the 2023 respondents - 58.2% - were first-time WTD Salary Survey participants. 
 
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="First-time vs repeat survey participants" aria-describedby="figure_first-time-vs-repeat-participants_desc" type="image/svg+xml" data="/_images/2023-first-time-vs-repeat-participants.svg">
+         <p id="figure_first-time-vs-repeat-participants_desc">Donut chart showing proportion of first-time to repeat survey participants.</p>
+      </object> 
+      <figcaption>Figure: First time vs repeat survey participants</figcaption>
+   </figure>
+
+.. figure:: images/2023/2023-first-time-vs-repeat-participants.svg
+   :class: hide
+
 Regarding the relevance of the questions, 52.2% rated them "excellent", and another 38.8% thought they were "good". 7.7% felt they were just "OK", and only 0.5% chose "not great". 0.8% chose not to share an opinion. 
 
 Concerning the usability of the survey form and website, over half rated it "excellent", with another 28.8% rating it "good". 6.1% chose "ok", 1.1% thought it was "no great" and 0.5% had no opinion. 
