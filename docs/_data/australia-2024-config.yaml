@@ -72,11 +72,11 @@ buttons:
 
 tickets:
   corporate:
-    price: $250
+    price: $300
   independent:
-    price: $150
+    price: $250
   student:
-    price: $75
+    price: $100
 
 sponsorship:
   first_draft:
@@ -99,31 +99,35 @@ date: # how do we handle these? human readable would be nice.
   short: Nov 28-29, 2024
   tickets_live: "July 2024"
   month: November
-
   # Conference is special for the index to show the combined conference days
-  # conference:
-    # event: Main Conference
-    # date: Dec 8-9
-    # summary: The main days of the conference. We will be running one main track, as well as <a href="/conf/australia/2022/lightning-talks/">Lightning Talks</a> & <a href="/conf/australia/2022/unconference/">Unconference</a>.
-    # icon: conference
+  conference:
+    event: Main Conference
+    date: November 28-29
+    summary: The main days of the conference. We will be running one main track, and an <a href="/conf/aaustralia/2024/unconference/">Unconference</a>.
+    icon: conference
 
+#    summary: The main days of the conference. We will be running one main track, and an Unconference.
   # These are listed in the schedule
   day_one:
+    event: Outing
+    date: On your own or crowd-sourced
+    summary: If you are in town early, we encourage you to go exploring one of the most liveable cities in the world, Melbourne.
+    icon: hike
+    dotw: Wednesday
+  day_two:
     event: Conference Day 1
     date: November 28
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Thursday
     talk_time: 09:30-16:30
-    unconference_time: 13:30-15:30
-    icon: conference
-  day_two:
+    unconference_time: 11:00-15:00
+  day_three:
     event: Conference Day 2
     date: November 29
-    summary: And the conference goes on! We are already starting to miss you.
+    summary: And the conference goes on! We are already starting to miss you. |:heart:|
     dotw: Friday
     talk_time: 09:30-16:00
-    unconference_time: 13:30-15:30
-    icon: conference
+    unconference_time: 11:00-15:00
   total_talk_days: 2
 
 about:
