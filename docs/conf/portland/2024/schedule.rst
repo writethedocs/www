@@ -48,7 +48,7 @@ If you get into town early, join us on the hike and take the chance to explore P
 {% if not flaghasschedule %}
 * **When**: **{{ hike.date }} {{ tz }}**
 {% endif %}
-* **Details**: :doc:`Annual hike to Pittock Mansion </conf/{{shortcode}}/{{year}}/hike>`
+* **Details**: :doc:`Annual hike </conf/{{shortcode}}/{{year}}/hike>`
 
 {% endif %}
 
@@ -110,7 +110,7 @@ Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, an
 We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new.
 
 * **Where**: {{about.unconfroom}}
-* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/welcome-wagon`
+* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/attendee-guide`
 
 {% if flaghasfood %}
 
@@ -228,22 +228,6 @@ Talks are around 30 minutes, with moderated 10 minute Q&A.
 * **When**: **{{ date.day_four.talk_time }} {{ tz }}**
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
-
-{% if flaghasjobfair %}
-
-Sponsor Expo
-~~~~~~~~~~~~
-
-The Sponsor Expo is a great chance to talk with some of our sponsors who are hiring,
-and get a sense of the job market.
-
-* **Where**: {{about.venue}}, {{about.job_fair_room }}
-{% if not flaghasschedule %}
-* **When**: **{{ date.day_four.job_fair_time }} {{ tz }}**
-{% endif %}
-* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/job-fair`
-
-{% endif %}
 
 Unconference
 ~~~~~~~~~~~~

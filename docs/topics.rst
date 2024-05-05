@@ -116,6 +116,7 @@ Including videos, diagrams, and screenshots.
 Writing topics
 --------------
 
+- |:newspaper:| `To Outline Or Not To Outline </blog/newsletter-february-2024/#to-outline-or-not-to-outline>`__
 - |:newspaper:| `Minimum viable documentation </blog/newsletter-november-2022/#minimum-viable-documentation>`__
 - |:newspaper:| `Toward a theory of technical writing? </blog/newsletter-july-2022/#toward-a-theory-of-technical-writing>`__
 - |:newspaper:| `Can form follow function in techdoc? </blog/newsletter-april-2022/#can-form-follow-function-in-techdoc>`__
@@ -131,6 +132,7 @@ Writing topics
 Task-based writing
 ~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `Task-Based Writing </blog/newsletter-february-2024/#task-based-writing>`__
 - |:movie_camera:| `Start with the tasks, not the endpoints </videos/na/2017/start-with-the-tasks-not-the-endpoints-sarah-hersh/>`__
 - |:movie_camera:| `Let’s Tell a Story: Scenario-Based Documentation </videos/na/2015/let-s-tell-a-story-scenario-based-documentation-mness/>`__
 - |:movie_camera:| `User-Story Driven Docs </videos/na/2015/user-story-driven-docs-jfernandes/>`__
@@ -278,6 +280,7 @@ Jobs and careers
 Hiring
 ~~~~~~~
 
+- |:newspaper:| `Questions To Ask as an Interviewer </blog/newsletter-april-2024/#questions-to-ask-as-an-interviewer>`__
 - |:movie_camera:| `Fostering Technical Writing in Developing Nations </videos/prague/2019/fostering-technical-writing-in-developing-nations-prerana-pradhan/>`__
 - |:newspaper:| `Using writing tests when hiring </blog/newsletter-august-2019/#using-writing-tests-when-hiring>`__
 - |:newspaper:| `Running objective interviews </blog/newsletter-june-2019/#running-objective-interviews>`__
@@ -324,7 +327,9 @@ Related roles
 Career growth
 ~~~~~~~~~~~~~
 
+- |:newspaper:| `Dealing with Feeling Blocked by Bureaucracy </blog/newsletter-march-2024/#dealing-with-feeling-blocked-by-bureaucracy>`__
 - |:newspaper:| `How to describe career progression </blog/newsletter-may-2023/#how-to-describe-career-progression>`__
+- |:newspaper:| `Loneliness of the “Lone-ly” Documentarian </blog/newsletter-march-2023/#loneliness-of-the-lone-ly-documentarian>`__
 - |:newspaper:| `Is coding necessary to write good docs? </blog/newsletter-september-2022/#is-coding-necessary-to-write-good-docs>`__
 - |:newspaper:| `What’s in a (role) name, after all? </blog/newsletter-may-2022/#what-s-in-a-role-name-after-all>`__
 - |:movie_camera:| `Beating the Virginia Blues: Thru-hiking strategies to help you survive your next big project </videos/portland/2022/beating-the-virginia-blues-thru-hiking-strategies-to-help-you-survive-your-next-kate-mueller/>`__
@@ -504,7 +509,9 @@ Doc tools
 Docs-as-code
 ~~~~~~~~~~~~
 
+- |:newspaper:| `Drafting Docs with Code Changes </blog/newsletter-april-2024/#drafting-docs-with-code-changes>`__
 - |:newspaper:| `Docs with Code Or Just as Code? </blog/newsletter-october-2023/#docs-with-code-or-just-as-code>`__
+- |:newspaper:| `Semantic Linefeeds </blog/newsletter-march-2023/#semantic-linefeeds>`__
 - |:movie_camera:| `One AWS team’s move to docs as code: what worked, what didn’t, what’s next </videos/portland/2022/one-aws-team-s-move-to-docs-as-code-what-worked-what-didn-t-what-s-next-marcia-riefer-johnston/>`__
 - |:newspaper:| `To git or not to git docs as code </blog/newsletter-august-2020/#to-git-or-not-to-git-docs-as-code>`__
 - |:newspaper:| `Pros and cons of the docs-as-code approach </blog/newsletter-april-2020/#pros-and-cons-of-the-docs-as-code-approach>`__
@@ -530,10 +537,18 @@ DITA
 
 - |:newspaper:| `DITA vs docs-as-code </blog/newsletter-june-2019/#dita-vs-docs-as-code>`__
 
+AI and LLMs
+~~~~~~~~~~~
+
+- |:newspaper:| `Accelerating Documentation Creation with AI </blog/newsletter-april-2024/#accelerating-documentation-creation-with-ai>`__
+- |:newspaper:| `Iterative Writing with a Chatbot </blog/newsletter-march-2024/#iterative-writing-with-a-chatbot>`__
+- |:newspaper:| `Structured Authoring and Large Language Models (LLMs) </blog/newsletter-february-2024/#structured-authoring-and-large-language-models-llms>`__
+- |:newspaper:| `Documenting AI </blog/newsletter-march-2023/#documenting-ai>`__
+- |:newspaper:| `Will AI take over documentation? </blog/newsletter-february-2023/#will-ai-take-over-documentation>`__
+
 Automation
 ~~~~~~~~~~
 
-- |:newspaper:| `Will AI take over documentation? </blog/newsletter-february-2023/#will-ai-take-over-documentation>`__
 - |:newspaper:| `Link-checking tools </blog/newsletter-may-2022/#link-checking-tools>`__
 - |:movie_camera:| `Unit Test the Docs: Why You Should Test Your Code Examples </videos/portland/2022/unit-test-the-docs-why-you-should-test-your-code-examples-ben-perlmutter/>`__
 - |:movie_camera:| `Beyond spell checking - what else can we check automatically? </videos/prague/2022/beyond-spell-checking-what-else-can-we-check-automatically-tibs/>`__
@@ -596,6 +611,7 @@ Gathering it and acting on it.
 Measuring docs success
 ~~~~~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `Measuring Docs Effect on User Experience </blog/newsletter-february-2024/#measuring-docs-effect-on-user-experience>`__
 - |:newspaper:| `Measuring productivity of docs teams </blog/newsletter-april-2023/#measuring-productivity-of-docs-teams>`__
 - |:movie_camera:| `Measuring Documentation Success in Open Source: Findings from Google’s Season of Docs Program </videos/portland/2022/measuring-documentation-success-in-open-source-findings-from-google-s-season-of-kassandra-dhillon/>`__
 - |:newspaper:| `Objectives and key results (OKRs) for documentation </blog/newsletter-march-2019/#objectives-and-key-results-okrs-for-documentation>`__
@@ -604,7 +620,8 @@ Measuring docs success
 Metrics
 ~~~~~~~
 
-- |:newspaper:| `Measuring Docs Quality </blog/newsletter-november-2023/#doc-team-organization>`__
+- |:newspaper:| `Do Readability Scores Have Value? </blog/newsletter-april-2024/#do-readability-scores-have-value>`__
+- |:newspaper:| `Measuring Docs Quality </blog/newsletter-november-2023/#measuring-docs-quality>`__
 - |:movie_camera:| `Measuring the impact of your documentation </videos/prague/2018/measuring-the-impact-of-your-documentation-liam-keegan/>`__
 - |:newspaper:| `Documentation metrics </blog/newsletter-september-2017/#resources-for-documentation-metrics>`__
 - |:newspaper:| `More on metrics </blog/newsletter-april-2017/#documentation-metrics-what-to-track-and-how>`__

@@ -13,6 +13,8 @@ We're excited to work with the organizations in our community to build the best 
 Created in 2013 in Portland, Oregon, WTD has hosted conferences around the world in Prague, Berlin, Sydney, London, and Melbourne.
 We’re excited to celebrate year 12 with your support!
 
+For more information on getting the most out of your sponsorship, see our  :doc:`/conf/{{shortcode}}/{{year}}/sponsors/information`.
+
 Concept
 =======
 
@@ -79,7 +81,7 @@ Benefits
 ^^^^^^^^
 
 - Five (5) tickets_, with additional available to purchase at a discounted rate of $500/ticket.
-- Most visible **sponsorship booth** location.
+- Most visible **sponsorship booth** for the entire conference (Monday & Tuesday).
 - Sponsorship of a primary Write the Docs conference event (Unconference, Writing Day). Logo on print material.
 - Large logo included in intermission slides and on talk videos.
 - Logo and long description (500 characters) on the conference website.
@@ -101,7 +103,7 @@ Benefits
 ^^^^^^^^
 
 - Five (5) tickets_, with additional available to purchase at a discounted rate of $500/ticket.
-- A **sponsorship booth** for the entire conference.
+- A **sponsorship booth** for the entire conference (Monday & Tuesday).
 - Logo included in intermission slides and on talk videos.
 - Logo and description (250 characters) on the conference website.
 - Logo in conference email promotion.
@@ -151,7 +153,7 @@ combined with one of the previous packages to increase visibility at the event.
 Lightning Talks
 ---------------
 
-**3,500** - **Limit 2**
+**$3,500** - **Limit 2**
 
 Sponsor one day of Lightning Talks, where attendees have 5 minutes to share something they are excited about working on.
 This dynamic part of the conference is on the main stage,
@@ -182,6 +184,8 @@ Benefits
 
 Inquiries
 =========
+
+For more information on getting the most out of your sponsorship, see our  :doc:`/conf/{{shortcode}}/{{year}}/sponsors/information`.
 
 Please direct all inquiries to our sponsorship team at:
 

@@ -118,13 +118,13 @@ Default channels
 
 Everyone who joins the Slack will be added to these channels:
 
-* **announcements** - Where organizers post housekeeping and community-wide announcements.
-* **#general** - The main channel for documentation related conversation and questions.
-* **#watercooler** - For talking about things that are off-topic. Get to know folks other interests that aren't around documentation :)
-* **#jobs-posts-only** - Posting jobs. (You can look for jobs in **#career-advice**)
-* **#wtd-conferences** - Questions and other thoughts around the :doc:`/conf/index`.
-* **#meetups** - Questions and other thoughts about our :doc:`/meetups/index`.
 * **#intros** - Introduce yourself! Let people know you're here, and why you care about docs :)
+* **#announcements** - Community-wide announcements from the Write the Docs organizers.
+* **#general** - The main channel for documentation-related conversation and questions.
+* **#job-posts-only** - Posting jobs. (Talk about your job search in **#work-wanted** and **#career-advice**.)
+* **#wtd-conferences** - Questions and discussion for :doc:`/conf/index`. (Talk about other conferences in **#community-events**.)
+* **#meetups** - Questions and discussion for Write the Docs :doc:`/meetups/index`. (Talk about other meetups in **#community-events**.)
+* **#watercooler** - Off-topic chat. Get to know folks' other interests that aren't around documentation :)
 
 Other useful topical channels
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -234,6 +234,10 @@ Please be mindful with the following behaviors:
 - **Avoid technology competitions.**
   It doesn't matter if your tool is faster or better in some metric.
   We care about creating great documentation for our users.
+- **Honor the community's trust and confidence.**
+  In the Write the Docs Slack, we are privileged to be able to discuss complex or sensitive situations with other docs practitioners.
+  But those discussions can only happen in an environment of discretion and trust.
+  The Chatham House Rule <https://www.chathamhouse.org/about-us/chatham-house-rule>`_ applies: you're welcome to use the information shared, but never reveal names, job titles, employers, or other identifying information about other participants outside of Slack, unless you've received their explicit permission to do so.
 
 Posting rules
 ~~~~~~~~~~~~~

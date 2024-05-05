@@ -1,0 +1,200 @@
+name: Atlantic
+
+shortcode: atlantic
+year: 2024
+city: Atlantic
+local_area: Atlantic
+area: Atlantic
+area_adj: Atlantic
+tz: UTC
+tz_header: CEST & EDT
+email: atlantic@writethedocs.org
+color: blue
+rgb: 74, 193, 224
+hex: 4AC1E0
+time_format: 24h
+
+photos:
+  default: _static/conf/images/headers/atlantic-group.png
+
+buttons:
+  top:
+    #- text: Welcome to our conference
+    #  link: /news/welcome
+    # - text: Date and ticket information
+    #   link: /news/announcing-virtual-conf-dates-tickets
+    #- text: Read our conference guide
+    #  link: /welcome-wagon
+    #- text: See the Schedule!
+    #  link: /schedule
+    - text: Tickets
+      link: /tickets
+#    - text: Sponsor us
+#      link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp
+    #- text: See the talks!
+    #  link: /speakers
+    #- text: See the Schedule!
+    #  link: /schedule
+    # - text: Watch the Live Stream
+    #   link: /livestream
+    # - text: See the sketchnotes
+    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157720128594755
+    #- text: Watch the videos!
+    #  link_absolute: https://youtube.com/playlist?list=PLZAeFn6dfHplddJfvbke1bpUzZGozb2Yj&si=AOwsHHgwGEXqbUm0
+  bottom:
+    # - text: Welcome to our conference
+    #   link: /news/welcome
+    #- text: See the Schedule!
+    #  link: /schedule
+    - text: Sponsor the conference
+      link: /sponsors/prospectus
+#    - text: See the talks!
+#      link: /speakers
+    - text: Buy a Ticket!
+      link: /tickets
+    # - text: Prepare with the Welcome Wagon
+    #   link: /welcome-wagon
+    # - text: See the schedule!
+    #   link: /schedule
+    # - text: Watch the Live Stream
+    #   link: /livestream
+    # - text: Browse the photos
+    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
+    #- text: Watch the videos!
+    #  link_absolute: https://youtube.com/playlist?list=PLZAeFn6dfHplddJfvbke1bpUzZGozb2Yj&si=AOwsHHgwGEXqbUm0
+
+tickets:
+  concierge:
+    price: €300
+  corporate:
+    price: €200
+  independent:
+    price: €125
+  student:
+    price: €25
+
+sponsorship:
+  second_draft:
+    price: €1,250
+  publisher:
+    price: €3,000
+  patron:
+    price: €5,000
+  keystone:
+    price: €8,500
+
+
+date:
+  main: "**September 22-24, 2024, online**"
+  short: Sep 22-24, 2024
+  tickets_live: "May 2024"
+  month: September
+  # Conference is special for the index to show the combined conference days
+  conference:
+    event: Main Conference
+    date: September 23-24
+    summary: The main days of the conference. We will be running one main track, and an <a href="/conf/atlantic/2024/unconference/">Unconference</a>.
+    icon: conference
+#    summary: The main days of the conference. We will be running one main track, and an Unconference.ence
+  # These are listed in the schedule
+  day_one:
+    event: Outing
+    date: On your own
+    summary: We encourage you to go on an outing in your own beautiful home town.
+    #summary: If you're in town early, join us for the Hike. prague has excellent access to the woods right in the city, and we'll be exploring Forest Park and the Hoyt Arboretum.
+    icon: hike
+    dotw: Saturday
+  day_two:
+    event: Writing Day
+    date: September 22
+#    summary: Join us for the Writing Day. The first official day of the conference is full of chances to interact with other documentarians.
+    summary: Join us for the <a href="/conf/atlantic/2024/writing-day/">Writing Day</a>. The first official day of the conference is full of chances to interact with other documentarians.
+    #summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
+    icon: writing
+    dotw: Sunday
+    writing_day_time: 12:00-18:00
+  day_three:
+    event: Conference Day 1
+    date: September 23
+    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
+    dotw: Monday
+    talk_time: 12:00-18:00
+    unconference_time: 10:00-20:00
+  day_four:
+    event: Conference Day 2
+    date: September 24
+    summary: And the conference goes on! We are already starting to miss you. |:heart:|
+    dotw: Tuesday
+    talk_time: 12:00-18:00
+    job_fair_time: 10:00-12:00  # disabled for now
+    unconference_time: 10:00-20:00
+  total_talk_days: 2
+
+about:
+  attendees: 300
+  summary:
+    "The main presentation track takes place on **September 23-24 (Monday and Tuesday) from 12:00 to 18:00 UTC**.
+    During the main event we also run an :doc:`/conf/atlantic/2024/unconference`."
+  venue: "Hopin online conference platform"
+  photos:
+  mainroom: "Stage area"
+  unconfroom: "Sessions area"
+  projector_ratio: "16:9"
+  job_fair_room: "Sponsor area"
+
+cfp:
+  url: https://pretalx.com/wtd-atlantic-2024/cfp
+  ends: "May 15, 2024"               # 2 weeks to review and get confirmation (Portland ends May 09)
+  notification: "June 01, 2024"      # 11 weeks to write and record
+  video_by: "August 23, 2024"        # 3 weeks before the conf
+  slides_by: "September 06, 2024"    # 2 weeks before the conf
+  #preview: "https://writethedocs-www--1982.org.readthedocs.build/conf/atlantic/2024/schedule/"
+
+grants:
+  url: https://docs.google.com/forms/d/e/1FAIpQLSdfnmeZj_yl506GujA5-PvsZQxNCWCm3uCiQeuVbO3dRK_d6A/viewform
+  ends: "August 1st, 2024"
+  notification: "August 10th, 2024"
+
+unconf:
+#  url: https://bit.ly/wtd-at-2024-ro
+
+lightning_talks:
+#  signup_url: https://forms.gle/neYV6riRBw8gav9x6
+
+sponsors:
+  keystone:
+  patron:
+  publisher:
+ #   - name: mongodb-new
+ #     link: https://www.mongodb.com/?ref=writethedocs
+ #     brand: MongoDB
+  second:
+  media:
+  in_kind:
+
+
+# Things that change over time, listed in order of change
+flagcfp: True
+flaglanding: False
+flaghassponsors: False
+flagticketsonsale: True
+flagsoldout: False
+flagspeakersannounced: False
+flagrunofshow: False
+flaghasschedule: False
+flaghasshirts: False
+flagvideos: False
+flaglivestreaming: False
+flagpostconf: False
+
+# Truthy things that don't change
+flaghashike: False
+flaghasboat: False
+flaghasunconf: True
+flaghaswritingday: True
+flaghasjobfair: True
+flaghasbadgeflair: False
+flaghaslightningtalks: True
+flagisvirtual: True

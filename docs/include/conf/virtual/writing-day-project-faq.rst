@@ -60,7 +60,7 @@ We have seen that the more projects we have available for attendees to potential
 they are to attend to learn more. It benefits us, them, and you!
 
 Need help convincing your OSS project community or corporate benefactors on the benefits of attending Writing Day? 
-See :ref:`making-writing-day-case`.
+See :ref:`making-writing-day-case-{{year}}`.
 
 Submit your project
 ^^^^^^^^^^^^^^^^^^^
@@ -100,7 +100,7 @@ get the most value out of Writing Day came prepared in the following ways:
 
 **Reminder**: Documentarians have a variety of backgrounds and may need additional info to be successful in onboarding to your project!
 
-.. _making-writing-day-case:
+.. _making-writing-day-case-{{year}}:
 
 Make a case for Writing Day
 ---------------------------

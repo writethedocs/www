@@ -127,14 +127,19 @@ Home - Write the Docs {{ name }} {{ year }}
         Amsterdam, London, and Melbourne.
         </p>
         <p>
-        We invite you to our 12th Portland conference to join {{ about.attendees }}
+        We invite you to our {{ name }} conference to join {{ about.attendees }}
         other attendees to explore the art and science of
-        documentation! <strong><a href="/conf/{{shortcode}}/{{year}}/tickets/">Tickets</a> are on sale now</strong>.
+        documentation!
+        {% if flagticketsonsale %}
+          <strong><a href="/conf/{{shortcode}}/{{year}}/tickets/">Tickets</a> are on sale now</strong>.
+        {% endif %}
         </p>
-        <p>
-        Interested in being a speaker? We’re accepting 
-        <a href="/conf/{{shortcode}}/{{year}}/cfp/">Call for Proposals</a> until {{ cfp.ends }}.
-        </p>
+        {% if flagcfp %}
+          <p>
+          Interested in being a speaker? We’re accepting
+          <a href="/conf/{{shortcode}}/{{year}}/cfp/">Call for Proposals</a> until {{ cfp.ends }}.
+          </p>
+        {% endif %}
 
       </div>
 
@@ -197,7 +202,7 @@ Home - Write the Docs {{ name }} {{ year }}
     {% if flaghaslightningtalks %}
 
     <div class="schedule-item uk-width-1-{{ 1 + date.total_talk_days }}@s">
-      <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/conference-blue.svg', 1) }}" alt="" >
+      <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/lightning-blue.svg', 1) }}" alt="" >
       <h3>Lightning Talks</h3>
       <em>{{ date.conference.date }} </em>
       <p>A <a href="/conf/{{shortcode}}/{{year}}/lightning-talks/">Lightning Talk</a> is a short talk where you share an idea or concept. Great for first time speakers, sign ups occur on-site.</p>
@@ -209,9 +214,9 @@ Home - Write the Docs {{ name }} {{ year }}
     {% if flaghasjobfair %}
 
     <div class="schedule-item uk-width-1-{{ 1 + date.total_talk_days }}@s">
-      <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/conversation-blue.svg', 1) }}" alt="" >
-      <h3>Sponsor Expo</h3>
-      <em>{{ date.day_four.date }}</em>
+      <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/sponsor-expo-blue.svg', 1) }}" alt="" >
+      <h3>Sponsor Booths</h3>
+      <em>{{ date.conference.date }}</em>
       <p>Engage with our <a href="/conf/{{shortcode}}/{{year}}/sponsors/">Sponsors</a>, discuss job opportunities and interact with new products.</p>  
     </div>
 
@@ -231,21 +236,33 @@ Home - Write the Docs {{ name }} {{ year }}
 
   <div class="about" id="about">
     <div class="uk-container">
-      <div class="about-content">
 
+      <div class="about-content">
         <h2>Past attendees have said</h2>
 
-        <blockquote class="testimonial-text">
+        <p>
           The most exciting part of attending Write the Docs is collaborating with open-source projects, networking, and meeting great people who care about documentation –you get to engage in incredible conversations and learn from fellow documentarians!
-        </blockquote>
+        </p>
         <p class="testimonial-author">- <a href="https://www.linkedin.com/in/mario-morales-2780a176/">Mario Morales, Staff Technical Writer at Wizeline</a></p>
 
-        <blockquote class="testimonial-text">
+        <p>
         By attending Write The Docs, I met so many documentation professionals, discovered new opportunities, and learned how to address problems I had yet to face before I faced them. It's clear how much the organizers care about running a thoughtful, inclusive conference, and they do so successfully -- I look forward to it every year.
-        </blockquote>
+        </p>
         <p class="testimonial-author">- <a href="https://heyawhite.com/about/">Alexandra White, Senior Tech Writer at Google</a></p>
-
       </div>
+
+     <div class="picture-set">
+        <div data-aos="pictrue-03" data-aos-once="true">
+        <img src="{{ pathto('_static/conf/images/pics/pictrue-03.jpg', 1)  }}" alt="" >
+        </div>
+        <div data-aos="pictrue-02" data-aos-once="true">
+        <img src="{{ pathto('_static/conf/images/pics/pictrue-02.jpg', 1)  }}" alt="" >
+        </div>
+        <div data-aos="pictrue-01" data-aos-once="true">
+        <img src="{{ pathto('_static/conf/images/pics/pictrue-01.jpg', 1)  }}" alt="" >
+        </div>
+      </div>
+
     </div>
   </div>
 
