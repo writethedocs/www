@@ -11,28 +11,20 @@
 
 	<g class="donut-chart">
 
-		<g class="data-series">
-		
-			<g class="a">
-
-				<g class="slices">
-
-				</g>
-
-				<g class="off-donut-labels">
-
-				</g>
-
-				<g class="on-donut-labels">
-					
-				</g>
-
-			</g>
+		<g class="slices">
 
 		</g>
 
-		<g class="legend">
-		
+		<g class="pointers">
+
+		</g>
+
+		<g class="value-labels-inner">
+
+		</g>
+
+		<g class="value-labels-outer">
+			
 		</g>
 
 	</g>
