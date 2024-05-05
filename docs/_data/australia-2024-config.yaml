@@ -103,7 +103,7 @@ date: # how do we handle these? human readable would be nice.
   conference:
     event: Main Conference
     date: November 28-29
-    summary: The main days of the conference. We will be running one main track, and an <a href="/conf/aaustralia/2024/unconference/">Unconference</a>.
+    summary: The main days of the conference. We will be running one main track, and an <a href="/conf/australia/2024/unconference/">Unconference</a>.
     icon: conference
 
 #    summary: The main days of the conference. We will be running one main track, and an Unconference.
