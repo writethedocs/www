@@ -3892,7 +3892,7 @@ New countries appearing in the results for 2023 include the Caribbean nation St 
    </div></div>
 
 Respondent location regional breakdowns
----------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
 
