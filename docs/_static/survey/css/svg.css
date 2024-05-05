@@ -147,6 +147,7 @@
   --text-1: var(--text-1-light);
 	--brand: var(--brand-light);
 	--series-a: var(--brand-light);
+	--series-b: #A06BC7;
 	font-family: var(--font-mono);
 }
 
@@ -172,6 +173,11 @@
 
 	.data-series {
 
+		.value-labels-outer text {
+			fill: var(--text-1);
+			font-size: var(--font-size-0);
+		}
+
 		.a {
 			
 			.axis-labels {
@@ -196,6 +202,40 @@
 			.value-labels.transform text{
 				fill: var(--surface-1-light);
 				transform: translateY(2rem);
+				font-size: var(--font-size-0);
+			}
+
+		}
+
+		.b {
+			
+			.axis-labels {
+				fill: var(--text-1);
+				font-size: var(--font-size-0);
+			}
+
+			.bars {
+				fill: var(--series-b);
+				fill-opacity: 0.8;
+			}
+
+			.bars path:hover {
+				filter: brightness(1.2);
+			}
+
+			.value-labels text {
+				fill: var(--surface-1-light);
+				font-size: var(--font-size-0);
+			}
+
+			.value-labels.transform text {
+				fill: var(--surface-1-light);
+				transform: translateY(2rem);
+				font-size: var(--font-size-0);
+			}
+
+			.external-labels text {
+				fill: var(--text-1);
 				font-size: var(--font-size-0);
 			}
 
