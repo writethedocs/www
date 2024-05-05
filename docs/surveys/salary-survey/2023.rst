@@ -3602,6 +3602,18 @@ The experience level of respondents in 2023 was similar to previous years - arou
    | Not specified       | 4   | 0.4%  |
    +---------------------+-----+-------+
 
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Respondent years of experience" aria-describedby="figure_respondent-years-experience_desc" type="image/svg+xml" data="/_images/2023-respondent-years-experience.svg">
+         <p id="figure_respondent-years-experience_desc">Vertical bar chart showing respondents' years of expereience in documentation. </p>
+      </object> 
+      <figcaption>Figure: Years of experience in documentation</figcaption>
+   </figure>
+
+.. figure:: images/2023/2023-respondent-years-experience.svg
+   :class: hide
+
 Education level
 ---------------
 
