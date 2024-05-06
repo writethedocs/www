@@ -9,7 +9,7 @@ Write the Docs Newsletter – May 2024
 
 Hello once again, fellow documentarians. I hope all is well with you and yours.
 
-Our online Atlantic conference is planned for September and there's still time to get your proposal in to speak. Check out the `Call for Proposals </conf/atlantic/2024/cfp/>`__ and get your ideas in by May 15. The Atlantic conference welcomes speakers from around the world and you don't even have to travel to give the talk. So if you've ever considered giving a talk before, send in your proposal and give it a try.
+Our online Atlantic conference is planned for September and there's still time to get in your proposal to speak. Check out the `Call for Proposals </conf/atlantic/2024/cfp/>`__ and get your ideas in by May 15. The Atlantic conference welcomes speakers from around the world and you don't even have to travel to give the talk. So if you've ever considered giving a talk before, send in your proposal and give it a try.
 
 If you'd like some inspiration from past speakers, the Portland conference wrapped up since our last newsletter. See the `conference recap </conf/portland/2024/news/thanks-recap/>`__ and see `videos of all the talks <https://www.youtube.com/playlist?list=PLZAeFn6dfHpm4FboYSTD1Bs8Yp8k_JvAL>`__ to get a taste of what the conference was like. And then get inspired and `submit a talk for Atlantic 2024 </conf/atlantic/2024/cfp/>`__!
 
