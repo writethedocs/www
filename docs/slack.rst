@@ -237,7 +237,7 @@ Please be mindful with the following behaviors:
 - **Honor the community's trust and confidence.**
   In the Write the Docs Slack, we are privileged to be able to discuss complex or sensitive situations with other docs practitioners.
   But those discussions can only happen in an environment of discretion and trust.
-  The Chatham House Rule <https://www.chathamhouse.org/about-us/chatham-house-rule>`_ applies: you're welcome to use the information shared, but never reveal names, job titles, employers, or other identifying information about other participants outside of Slack, unless you've received their explicit permission to do so.
+  The Chatham House Rule `<https://www.chathamhouse.org/about-us/chatham-house-rule>`_ applies: you're welcome to use the information shared, but never reveal names, job titles, employers, or other identifying information about other participants outside of Slack, unless you've received their explicit permission to do so.
 
 Posting rules
 ~~~~~~~~~~~~~
