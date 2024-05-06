@@ -63,7 +63,7 @@ Relying solely on metrics without context or interpretation can lead to misunder
 Is Docs-as-Code Worth It?
 -------------------------
 
-The busiest topic in the WtD Slack this past month began in the `#docs-as-code channel <https://writethedocs.slack.com/archives/C72NZ18FR>`__ with a question about what bugs people about a docs-as-code approach. It set off a series of conversations touching on issues with docs-as-code as well as what people hope to gain from such an approach and what the next steps in its evolution could be.
+The busiest topic in the WTD Slack this past month began in the `#docs-as-code channel <https://writethedocs.slack.com/archives/C72NZ18FR>`__ with a question about what bugs people about a docs-as-code approach. It set off a series of conversations touching on issues with docs-as-code as well as what people hope to gain from such an approach and what the next steps in its evolution could be.
 
 Many of the main problems people discussed had to do with barriers to contributing to docs. For example, Git was universally acknowledged as something that seems complicated and might scare people away from suggesting improvements. Few people want to learn Git, they just want to get things done. Also, any syntax used to add features to docs, such as content reuse, adds another thing people have to learn before they can contribute.
 
