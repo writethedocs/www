@@ -13,7 +13,7 @@ Our online Atlantic conference is planned for September and there's still time t
 
 If you'd like some inspiration from past speakers, the Portland conference wrapped up since our last newsletter. See the `conference recap </conf/portland/2024/news/thanks-recap/>`__ and see `videos of all the talks <https://www.youtube.com/playlist?list=PLZAeFn6dfHpm4FboYSTD1Bs8Yp8k_JvAL>`__ to get a taste of what the conference was like. And then get inspired and `submit a talk for Atlantic 2024 </conf/atlantic/2024/cfp/>`__!
 
-In other exciting news... the 2023 Documentation Salary Survey results are out! Thanks to a record number of submissions and finer-grained location data, we are able to publish median salaries for many more regions that we have been able to cover previously. And it's possible, we're also showing more data on salaries, such as the 25th and 75th percentile values. For all the numbers, head over to the `2023 salary survey results </surveys/salary-survey/2023/>`__.
+In other exciting news... the 2023 Documentation Salary Survey results are out! Thanks to a record number of submissions and finer-grained location data, we are able to publish median salaries for many more regions than we have been able to cover previously. And where it's possible, we're also showing more data on salaries, such as the 25th and 75th percentile values. For all the numbers, head over to the `2023 salary survey results </surveys/salary-survey/2023/>`__.
 
 In the newsletter this month, we have great topics for you about announcing deprecations, how technical communications can gain prestige, tracking metrics about your docs, and whether a docs-as-code approach is worth it. Enjoy!
 
