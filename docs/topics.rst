@@ -580,7 +580,7 @@ Search
 Metrics and analytics
 ---------------------
 
-- |:newspaper:| `Docs Metrics To Track </blog/newsletter-may-2024/#docs-metrics-to-track>`__
+- |:newspaper:| `Gaining Insight from Docs Metrics </blog/newsletter-may-2024/#gaining-insight-from-docs-metrics>`__
 - |:newspaper:| `Discovering user needs </blog/newsletter-august-2019/#starting-out-with-analytics-and-then-upping-your-game>`__
 - |:movie_camera:| `Don’t trust the numbers! </videos/portland/2022/don-t-trust-the-numbers-kumar-dhanagopal/>`__
 - |:movie_camera:| `The Importance of Using Analytics and Feedback for your Documentation </videos/prague/2020/the-importance-of-using-analytics-and-feedback-for-your-documentation-karissa-van-baulen/>`__
