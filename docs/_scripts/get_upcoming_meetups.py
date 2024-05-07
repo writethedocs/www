@@ -5,6 +5,8 @@ import re
 import yaml
 import os
 from datetime import datetime, timezone
+from dateutil import tz
+import json
 
 # This script scrapes the pages for meetups to see if there are upcoming events.
 # If there are, they're returned in the right format for the newsletter.
@@ -12,8 +14,6 @@ from datetime import datetime, timezone
 # To run it, install the necessary dependencies and run the script with Python
 # such as `python docs/_scripts/get_upcoming_meetups.py`.
 # Then copy the resulting list into the newsletter article.
-# All the times will be in your local timezone,
-# so you may want to convert them to the timezone local to each meeting.
 
 # Look at a specific Meetup.com page and return data for any upcoming events
 async def get_events_info(meetup_link):
@@ -32,17 +32,28 @@ async def get_events_info(meetup_link):
         events_info = []
         # Loop through each event element
         for event in upcoming_events:
-            # Extract the date, URL, and title of each event
-            dateTime = event.find('time')
-            # Handle events with no date
-            if dateTime == None:
-                date = None
-            else:
-                date = dateTime.getText()
-
+            # Get the URL for the event
             event_link = event.get('href')
-            event_title = event.find('span', class_=re.compile('cardTitle')).getText()
-            events_info.append({'date': date, 'url': event_link, 'title': event_title,'location': meetup_link['location']})
+            # Get the event page
+            response = await asyncio.get_event_loop().run_in_executor(None, requests.get, event_link)
+
+            # Parse the HTML content of the page using BeautifulSoup
+            event_soup = BeautifulSoup(response.content, 'html.parser')
+            
+            # Get JSON object with info on the event
+            event_data_raw = event_soup.find("script", {"id": "__NEXT_DATA__"})
+            event_json = json.loads(event_data_raw.contents[0])
+            event_data = event_json['props']['pageProps']['event']
+
+            # Extract the date and timezone for the event
+            dateTime = event_data['dateTime']
+            event_timezone = event_data['timezone'] 
+
+            # Get the event name
+            event_title = event_soup.find('h1').getText()
+
+            # Add all data on the event to the list
+            events_info.append({'date': dateTime, 'timezone': event_timezone, 'url': event_link, 'title': event_title,'location': meetup_link['location']})
         return events_info
 
 # Separate the link checks into asynchronous events and do them at once
@@ -91,13 +102,14 @@ for result in results:
         continue
     # Handle events with data
     for event in result:
-        event_date = datetime.now()
+        current_datetime = datetime.now(timezone.utc)
+        event_date = current_datetime
         try:
-            event_date = datetime.strptime(event['date'], '%a, %b %d, %Y, %I:%M %p %Z')
+            event_date = datetime.fromisoformat(event['date'])
         except:
             # If a problem with time zone, just ignore it
             event_date = datetime.strptime(event['date'].rsplit(' ',1)[0], '%a, %b %d, %Y, %I:%M %p')
-        if (event_date - datetime.now()).days <= days_within:
+        if (event_date - current_datetime).days <= days_within:
             event['date'] = event_date
             upcoming_events.append(event)
 
@@ -107,6 +119,6 @@ sorted_upcoming_events = sorted(upcoming_events, key=lambda upcoming_event: upco
 # Turn into newsletter format
 upcoming_event_links = []
 for upcoming_event in sorted_upcoming_events:
-    upcoming_event_links.append(f"- {upcoming_event['date'].strftime('%-d %b, %H:%M %Z')} {datetime.now(timezone.utc).astimezone().tzinfo} ({upcoming_event['location']}): `{upcoming_event['title']} <{upcoming_event['url']}>`__")
+    upcoming_event_links.append(f"- {upcoming_event['date'].strftime('%-d %b, %H:%M')} {upcoming_event['date'].astimezone(tz=tz.gettz(upcoming_event['timezone'])).tzname()} ({upcoming_event['location']}): `{upcoming_event['title']} <{upcoming_event['url']}>`__")
 
 print('\n'.join(upcoming_event_links))
