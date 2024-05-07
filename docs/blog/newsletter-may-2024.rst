@@ -1,6 +1,6 @@
 :og:image: https://www.writethedocs.org/_static/logo-opengraph.png
 
-.. post:: May 06, 2024
+.. post:: May 07, 2024
     :tags: newsletter
 
 #########################################
@@ -9,9 +9,11 @@ Write the Docs Newsletter – May 2024
 
 Hello once again, fellow documentarians. I hope all is well with you and yours.
 
-Our online Atlantic conference is planned for September and there's still time to get in your proposal to speak. Check out the `Call for Proposals </conf/atlantic/2024/cfp/>`__ and get your ideas in by May 15. The Atlantic conference welcomes speakers from around the world and you don't even have to travel to give the talk. So if you've ever considered giving a talk before, send in your proposal and give it a try.
+Our online Atlantic 2024 conference is planned for September and there's still time to get in your proposal to speak. Check out the `Call for Proposals </conf/atlantic/2024/cfp/>`__ and get your ideas in by May 15. The Atlantic 2024 conference welcomes speakers from around the world and you don't even have to travel to give the talk. So if you've ever considered giving a talk before, send in your proposal and give it a try.
 
-If you'd like some inspiration from past speakers, the Portland conference wrapped up since our last newsletter. See the `conference recap </conf/portland/2024/news/thanks-recap/>`__ and see `videos of all the talks <https://www.youtube.com/playlist?list=PLZAeFn6dfHpm4FboYSTD1Bs8Yp8k_JvAL>`__ to get a taste of what the conference was like. And then get inspired and `submit a talk for Atlantic 2024 </conf/atlantic/2024/cfp/>`__!
+If you'd like some inspiration from past speakers, the Portland 2024 conference wrapped up since our last newsletter. See the `conference recap </conf/portland/2024/news/thanks-recap/>`__ and see `videos of all the talks <https://www.youtube.com/playlist?list=PLZAeFn6dfHpm4FboYSTD1Bs8Yp8k_JvAL>`__ to get a taste of what the conference was like. And then get inspired and `submit a talk for Atlantic 2024 </conf/atlantic/2024/cfp/>`__!
+
+We'd also like to announce the Australia 2024 conference dates. This year, the conference will take place in Melbourne on 28 and 29 November. We'll share more details around venue, tickets, and the CFP process in a couple of weeks.
 
 In other exciting news... the 2023 Documentation Salary Survey results are out! Thanks to a record number of submissions and finer-grained location data, we are able to publish median salaries for many more regions than we have been able to cover previously. And where it's possible, we're also showing more data on salaries, such as the 25th and 75th percentile values. For all the numbers, head over to the `2023 salary survey results </surveys/salary-survey/2023/>`__.
 
