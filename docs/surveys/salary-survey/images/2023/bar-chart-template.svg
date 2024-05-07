@@ -1,0 +1,52 @@
+<svg width="100%" height="100%" viewBox="0 0 660 579" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+		<defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+	<g class="bar-chart">
+
+		<g class="y-axis">
+
+			<g class="gridlines">
+				
+			</g>
+
+			<g class="labels">
+				
+			</g>
+
+		</g>
+
+		<g class="data-series">
+		
+			<g class="a">
+
+				<g class="axis-labels">
+					
+				</g>
+
+				<g class="bars">
+
+				</g>
+
+				<g class="value-labels">
+					
+				</g>
+
+			</g>
+
+		</g>
+
+		<g class="legend">
+		
+		</g>
+
+	</g>
+
+</svg>

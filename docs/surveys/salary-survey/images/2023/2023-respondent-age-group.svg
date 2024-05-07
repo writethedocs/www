@@ -1,0 +1,51 @@
+<svg width="100%" height="100%" viewBox="0 0 603 559" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+		<defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+	<g class="bar-chart-vertical">
+
+		<g class="data-series">
+		
+			<g class="a">
+
+				<g class="axis-labels">
+					<text x="31" y="556">18-25</text>
+					<text x="134" y="556">26-35</text>
+					<text x="236" y="556">36-45</text>
+					<text x="339" y="556">46-55</text>
+					<text x="443" y="556">56-65</text>
+					<text x="551" y="556">66+</text>
+				</g>
+
+				<g class="bars">
+					<path d="M88 487H0V538H88V487Z"/>
+					<path d="M191 4H103V538H191V4Z"/>
+					<path d="M294 0H206V538H294V0Z"/>
+					<path d="M397 262H309V538H397V262Z"/>
+					<path d="M500 381H412V538H500V381Z"/>
+					<path d="M603 512H515V538H603V512Z"/>
+				</g>
+
+				<g class="value-labels">
+					<text x="34" y="507">3.2%</text>
+					<text x="134" y="24">33.3%</text>
+					<text x="237" y="20">33.6%</text>
+					<text x="340" y="282">17.2%</text>
+					<text x="446" y="401">9.8%</text>
+					<text x="548" y="530">1.6%</text>
+				</g>
+
+			</g>
+
+		</g>
+
+	</g>
+
+</svg>
