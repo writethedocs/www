@@ -15,12 +15,13 @@ Schedule & Logistics
 --------------------
 
 - **Date:** **{{ hike.date }}**. Meet 15 minutes before the start time.
+- **Lunch:** (Optional) Join us at the `Nob Hill Food carts <https://maps.app.goo.gl/LFdYXc69v8daeKSG8>`_ at 12:30pm for lunch. Leaving for the trailhead at 1:40pm.
 - **Start:** Lower Macleay Park** (`Map link <https://goo.gl/maps/bU7MAMsKCJAbG3zFA>`__). Meet at the pavilion at the park entrance.
-- **End:** Oregon Zoo around 5pm, where we will take the MAX back to town. 
-
-**Please register for your ticket so we can contact you in advance for day-of weather and logistics information.**
-
+- **End:** Oregon Zoo around 5pm, where we will take the MAX back to town.
 - **Tickets:** `Register your hike ticket <https://ti.to/writethedocs/write-the-docs-portland-2024/with/hike-ticket>`_
+
+Please register for your ticket so we can contact you in advance for day-of weather and logistics information.
+
 
 .. figure:: /_static/img/2015/hike/balch.jpg
    :alt: Balch Creek
@@ -40,12 +41,9 @@ The temperature will likely be in the upper 50s and 60s, with a chance of rain. 
 The Hike
 --------
 
-The hike will be around 5 miles long, and have 1000 feet of elevation gain. This classifies as a *moderate* hike. We'll be going nice and slow so people can appreciate the views and forest.
-
-You can find a full description here: https://www.oregonhikers.org/field_guide/Pittock_Mansion_Hike
+The hike will be around 5 miles long, and have 1,200 feet of elevation gain. This classifies as a *moderate* hike. We'll be going nice and slow so people can appreciate the views and forest.
 
 We hope you will join us for this pre-conference activity!
-
 
 .. figure:: /_static/img/2015/hike/pittock.jpg
    :alt: The view from Pittock Mansion

@@ -1,0 +1,74 @@
+<svg width="100%" height="100%" viewBox="0 0 610 585" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+		<defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+	<g class="bar-chart-vertical">
+
+		<g class="data-series">
+		
+			<g class="a">
+
+				<g class="axis-labels">
+					<text x="23" y="582">High school</text>
+					<text x="136" y="582">Tech/vocational</text>
+					<text x="282" y="582">Graduate</text>
+					<text x="392" y="582">Post-graduate</text>
+					<text x="524" y="582">None/other</text>
+				</g>
+
+				<g class="bars">
+					<path d="M110 522H0V564H110V522Z"/>
+					<path d="M235 547H125V564H235V547Z"/>
+					<path d="M360 39H250V564H360V39Z"/>
+					<path d="M485 162H375V564H485V162Z"/>
+					<path d="M610 558H500V564H610V558Z"/>
+				</g>
+
+				<g class="value-labels">
+					<text x="45" y="544">3.9%</text>
+					<text x="292" y="61">49.1%</text>
+					<text x="417" y="184">37.6%</text>
+				</g>
+
+				<g class="value-labels-outer">
+					<text x="170" y="532">1.6%</text>
+					<text x="542" y="543">0.6%</text>
+				</g>
+
+			</g>
+
+			<g class="b">
+
+				<g class="bars">
+					<path d="M360 0H250V37H360V0Z" fill="#A06BC7"/>
+					<path d="M485 121H375V160H485V121Z" fill="#A06BC7"/>		
+				</g>
+
+				<g class="pointers">
+					<path d="M412.943 70C407.648 73.6867 404.588 112.998 404.353 116.022L404.118 119.046" stroke="#A06BC7"/>
+					<path d="M413 39C410.239 32.3874 369.298 19.4265 366.149 18.4295L363 17.4325" stroke="#A06BC7"/>
+				</g>
+
+				<g class="value-labels">
+					<text x="295" y="22">3.5%</text>
+					<text x="420" y="143">3.7%</text>
+				</g>
+
+				<g class="external-labels">
+					<text x="409" y="56">Multiple qualifications</text>
+				</g>
+
+			</g>
+
+		</g>
+
+	</g>
+
+</svg>

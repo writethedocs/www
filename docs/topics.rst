@@ -245,6 +245,7 @@ Information architecture
 Legacy docs
 ~~~~~~~~~~~
 
+- |:newspaper:| `Announcing Feature Deprecation </blog/newsletter-may-2024/#announcing-feature-deprecation>`__
 - |:movie_camera:| `Organizing a Confluence hoard, or, does this page spark joy? </videos/prague/2020/organizing-a-confluence-hoard-or-does-this-page-spark-joy-abigail-sutherland/>`__
 - |:movie_camera:| `Legacy content from various perspectives </videos/australia/2020/legacy-content-from-various-perspectives-marcelina-haftka/>`__
 - |:movie_camera:| `When Agile Fails: Working on Large Documentation Projects </videos/australia/2020/when-agile-fails-working-on-large-documentation-projects-lana-brindley/>`__
@@ -270,6 +271,7 @@ Maintenance
 Jobs and careers
 ----------------
 
+- |:newspaper:| `Should Technical Communication Be Its Own Department? </blog/newsletter-may-2024/#should-technical-communication-be-its-own-department>`__
 - |:newspaper:| `What to do after surviving layoffs </blog/newsletter-may-2023/#what-to-do-after-surviving-layoffs>`__
 - |:newspaper:| `Knowledge transfer for documentarians </blog/newsletter-november-2022/#knowledge-transfer-for-documentarians>`__
 - |:newspaper:| `Joining as a manager </blog/newsletter-november-2022/#joining-as-a-manager>`__
@@ -280,6 +282,7 @@ Jobs and careers
 Hiring
 ~~~~~~~
 
+- |:newspaper:| `Questions To Ask as an Interviewer </blog/newsletter-april-2024/#questions-to-ask-as-an-interviewer>`__
 - |:movie_camera:| `Fostering Technical Writing in Developing Nations </videos/prague/2019/fostering-technical-writing-in-developing-nations-prerana-pradhan/>`__
 - |:newspaper:| `Using writing tests when hiring </blog/newsletter-august-2019/#using-writing-tests-when-hiring>`__
 - |:newspaper:| `Running objective interviews </blog/newsletter-june-2019/#running-objective-interviews>`__
@@ -508,6 +511,8 @@ Doc tools
 Docs-as-code
 ~~~~~~~~~~~~
 
+- |:newspaper:| `Is Docs-as-Code Worth It? </blog/newsletter-may-2024/#is-docs-as-code-worth-it>`__
+- |:newspaper:| `Drafting Docs with Code Changes </blog/newsletter-april-2024/#drafting-docs-with-code-changes>`__
 - |:newspaper:| `Docs with Code Or Just as Code? </blog/newsletter-october-2023/#docs-with-code-or-just-as-code>`__
 - |:newspaper:| `Semantic Linefeeds </blog/newsletter-march-2023/#semantic-linefeeds>`__
 - |:movie_camera:| `One AWS team’s move to docs as code: what worked, what didn’t, what’s next </videos/portland/2022/one-aws-team-s-move-to-docs-as-code-what-worked-what-didn-t-what-s-next-marcia-riefer-johnston/>`__
@@ -538,6 +543,7 @@ DITA
 AI and LLMs
 ~~~~~~~~~~~
 
+- |:newspaper:| `Accelerating Documentation Creation with AI </blog/newsletter-april-2024/#accelerating-documentation-creation-with-ai>`__
 - |:newspaper:| `Iterative Writing with a Chatbot </blog/newsletter-march-2024/#iterative-writing-with-a-chatbot>`__
 - |:newspaper:| `Structured Authoring and Large Language Models (LLMs) </blog/newsletter-february-2024/#structured-authoring-and-large-language-models-llms>`__
 - |:newspaper:| `Documenting AI </blog/newsletter-march-2023/#documenting-ai>`__
@@ -574,6 +580,7 @@ Search
 Metrics and analytics
 ---------------------
 
+- |:newspaper:| `Gaining Insight from Docs Metrics </blog/newsletter-may-2024/#gaining-insight-from-docs-metrics>`__
 - |:newspaper:| `Discovering user needs </blog/newsletter-august-2019/#starting-out-with-analytics-and-then-upping-your-game>`__
 - |:movie_camera:| `Don’t trust the numbers! </videos/portland/2022/don-t-trust-the-numbers-kumar-dhanagopal/>`__
 - |:movie_camera:| `The Importance of Using Analytics and Feedback for your Documentation </videos/prague/2020/the-importance-of-using-analytics-and-feedback-for-your-documentation-karissa-van-baulen/>`__
@@ -617,7 +624,8 @@ Measuring docs success
 Metrics
 ~~~~~~~
 
-- |:newspaper:| `Measuring Docs Quality </blog/newsletter-november-2023/#doc-team-organization>`__
+- |:newspaper:| `Do Readability Scores Have Value? </blog/newsletter-april-2024/#do-readability-scores-have-value>`__
+- |:newspaper:| `Measuring Docs Quality </blog/newsletter-november-2023/#measuring-docs-quality>`__
 - |:movie_camera:| `Measuring the impact of your documentation </videos/prague/2018/measuring-the-impact-of-your-documentation-liam-keegan/>`__
 - |:newspaper:| `Documentation metrics </blog/newsletter-september-2017/#resources-for-documentation-metrics>`__
 - |:newspaper:| `More on metrics </blog/newsletter-april-2017/#documentation-metrics-what-to-track-and-how>`__

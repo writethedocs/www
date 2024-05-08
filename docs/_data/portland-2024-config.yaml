@@ -24,20 +24,20 @@ buttons:
     #  link: /sponsors/prospectus
     # - text: Submit a Talk
     #   link: /cfp
-    - text: See the Schedule!
-      link: /schedule
-    - text: Buy a Ticket!
-      link: /tickets
+    # - text: See the Schedule!
+    #   link: /schedule
+    # - text: Buy a Ticket!
+    #   link: /tickets
     #- text: See the talks!
     #  link: /speakers
     # - text: Attendee Guide
     #   link: /attendee-guide
     # - text: Watch the Live Stream
     #   link: /livestream
-    # - text: Watch the videos
-    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpneQPsDWa4OmEpgW4pNiaZ2
-    # - text: Conference recap
-    #   link: /news/thanks-recap
+    - text: Watch the videos
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpm4FboYSTD1Bs8Yp8k_JvAL
+    - text: Conference recap
+      link: /news/thanks-recap
   bottom:
     # - text: Welcome to our conference
     #   link: /news/welcome
@@ -45,22 +45,22 @@ buttons:
     #  link: /sponsors/prospectus
     #  - text: Submit a Talk
     #    link: /cfp
-    - text: Buy a Ticket!
-      link: /tickets
-    - text: See the Schedule
-      link: /schedule
+    # - text: Buy a Ticket!
+    #   link: /tickets
+    # - text: See the Schedule
+    #   link: /schedule
     # - text: See the talks!
     #   link: /speakers
     # - text: Read our guide
     #   link: /attendee-guide
     # - text: Watch the Live Stream
     #   link: /livestream
-    # - text: Conference recap
-    #   link: /news/thanks-recap
+    - text: Conference recap
+      link: /news/thanks-recap
     # - text: Browse the photos
     #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720308088427
-    # - text: Watch the videos!
-    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkBJAPYFrob6gqdiBuePwGJ
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpm4FboYSTD1Bs8Yp8k_JvAL
 
 tickets:
   concierge:
@@ -88,7 +88,7 @@ grants:
   notification: 'February 14, 2024'
 
 shirts:
-  url: https://teespring.com/wtd-pdx-2024
+  url: https://shirt.writethedocs.org/
   ends: "May 31, 2024"
 
 date: # how do we handle these? human readable would be nice.
@@ -101,7 +101,7 @@ date: # how do we handle these? human readable would be nice.
   conference:
     event: Speaker talks
     date: April 15-16
-    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience. Currently accepting <a href="https://www.writethedocs.org/conf/portland/2024/cfp/">Call for Proposals</a>.
+    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience. See our <a href="https://www.writethedocs.org/conf/portland/2024/speakers/">full list of speakers</a>.
     icon: conference
 
   # These are listed in the schedule
@@ -127,7 +127,7 @@ date: # how do we handle these? human readable would be nice.
     dotw: Monday
     talk_time: 9am-5pm
     unconference_time: 9:45am-5pm
-    social_time: 7-9pm
+    social_time: 6:30pm-8:30pm
     icon: conference
   day_four:
     event: Conference Day 2
@@ -146,7 +146,7 @@ about:
     "The main presentation track takes place from **April 15-16 (Monday and Tuesday) from 9am to 5pm**.
     During the main event we also run an :doc:`/conf/portland/2024/unconference`."
 
-  social_venue:  Grand Fir 1403 SE Stark St
+  social_venue:  Grand Fir, 1403 SE Stark St
   venue: Revolution Hall
   photos: TBD
   mainroom: Main stage
@@ -177,6 +177,8 @@ sponsors:
     - name: gitbook
       link: https://www.gitbook.com/?ref=writethedocs
       brand: GitBook
+      text: "GitBook combines powerful docs with AI-powered search and insights to give technical teams a single source of truth for their knowledge. 
+             Effortlessly create, surface and improve public and internal documentation that your users and teams will love. "
     - name: readme
       link: https://readme.com/?ref=writethedocs
       brand: ReadMe
@@ -193,7 +195,7 @@ sponsors:
       link: https://www.zoominsoftware.com/?vert=Write_The_Docs_Portland&utm_medium=referral&utm_source=WriteTheDocs&utm_campaign=Write_The_Docs_Portland
       brand: Zoomin
       text: "Zoomin is transforming the way enterprises offer and gain value from their product content.
-Our AI-infused content delivery platform lets you deliver knowledge from any source and format to wherever customers look for it, all within a personalized, unified and effortless experience. This radically improved content experience helps users successfully self-serve while deflecting cases away from overburdened support teams. Using proprietary analytics, Zoomin also provides actionable insights that guide decision-making across the enterprise. "
+             Our AI-infused content delivery platform lets you deliver knowledge from any source and format to wherever customers look for it, all within a personalized, unified and effortless experience. This radically improved content experience helps users successfully self-serve while deflecting cases away from overburdened support teams. Using proprietary analytics, Zoomin also provides actionable insights that guide decision-making across the enterprise. "
   publisher:
     # - name: jetbrains
     #   link: https://www.jetbrains.com/
@@ -275,10 +277,10 @@ flagrunofshow: True
 flaghasschedule: True
 flagscheduleincomplete: True
 flaghasunconf: True
-flaghasshirts: False
-flaglivestreaming: False
+flaghasshirts: True
+flaglivestreaming: True
 flagvideos: False
-flagpostconf: False
+flagpostconf: True
 flaghasbadgeflair: False
 
 # Truthy things that don't change
