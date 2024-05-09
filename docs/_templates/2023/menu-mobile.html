@@ -13,7 +13,15 @@
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/welcome-wagon') }}">Welcome Wagon</a></li>
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/lightning-talks') }}">Lightning Talks</a></li>
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/unconference') }}">Unconference</a></li>
+                          {% if shortcode == "australia" %}
+                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/workshop-ste') }}">STE Workshop</a></li>
+                          {% endif %}
+                          {% if shortcode == "australia" %}
+                          <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/panel') }}">Discussion Panel</a></li>
+                          {% endif %}
+                          {% if flaghasjobfair %}
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/job-fair') }}">Sponsor Expo</a></li>
+                          {% endif %}
                           {% if flaghaswritingday %}
                           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/writing-day') }}">Writing Day</a></li>
                           {% endif %}

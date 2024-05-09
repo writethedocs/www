@@ -2,8 +2,7 @@ region: North America
 country: USA
 state: New York
 city: New York City
-page: ./nyc/
-website: https://www.meetup.com/WriteTheDocsNYC/
+website: https://www.meetup.com/writethedocsnyc/events/
 meetup: WriteTheDocsNYC
 twitter: WriteTheDocsNYC
 organizers:

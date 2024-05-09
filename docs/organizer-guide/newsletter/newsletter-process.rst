@@ -50,6 +50,8 @@ Assemble & review the newsletter (2-3 days before shipping)
 
 Once all the story drafts have come in, it's time to assemble, based on the outline template::
 
+   :og:image: https://www.writethedocs.org/_static/logo-opengraph.png
+
    .. post:: January 01, 2022
       :tags: newsletter
 
@@ -91,7 +93,7 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
    CONTENT.
 
    ----------------
-   From our sponsor
+   From Our Sponsor
    ----------------
 
    This month’s newsletter is sponsored by SPONSOR:
@@ -120,7 +122,7 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
    *Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
 
    ------------------
-   Featured job posts
+   Featured Job Posts
    ------------------
 
    - `TITLE <https://jobs.writethedocs.org/LINK>`__, COMPANY (LOCATION)
@@ -128,7 +130,7 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
    *To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
    ----------------
-   Events coming up
+   Events Coming Up
    ----------------
 
    - 00 MONTH, TIME ZONE (location) - `TITLE <https://www.meetup.com/LINK>`__

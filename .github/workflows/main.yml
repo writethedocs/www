@@ -20,9 +20,19 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Vale Linter
-        uses: errata-ai/vale-action@v2.0.1
+        uses: errata-ai/vale-action@reviewdog
+        env:
+          # Required, set by GitHub actions automatically:
+          # https://docs.github.com/en/actions/security-guides/automatic-token-authentication#about-the-github_token-secret
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         with:
           files: docs/
+          vale_flags: "--config=vale/vale.ini"
+          reporter: github-pr-check
+          fail_on_error: true
+          filter_mode: file
+          version: 3.4.2
+
 
       - name: Vale Guide Linter
         uses: errata-ai/vale-action@reviewdog
@@ -33,7 +43,11 @@ jobs:
         with:
           files: docs/guide/
           vale_flags: "--config=vale/guide.ini"
+          reporter: github-pr-check
           fail_on_error: true
+          filter_mode: file
+          version: 3.4.2
+
 
   yaml-validate:
     runs-on: ubuntu-latest
@@ -61,7 +75,7 @@ jobs:
       - uses: codespell-project/actions-codespell@v1
         name: Check spelling
         with:
-          skip: "*.pdf,*.svg,*.js,*.map,*.css,*.scss,docs/_data/201[5|6|7]*"
+          skip: "*.pdf,*.svg,*.js,*.map,*.css,*.scss,docs/_data/201[5|6|7]*,docs/_static_html/*"
           ignore_words_file: "codespell/ignore.txt"
           path: docs
 

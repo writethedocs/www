@@ -33,9 +33,8 @@ Content
 Naming conventions (titles)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-For page titles, or Heading1 as they are sometimes called, we use title-case.
-
-If the page includes multiple sub-headings (H2, H3), we usually use sentence-case unless the titles include terminology that is supposed to be capitalized, such as "Writing Day".
+We use sentence case for page titles and sub-headings (H2, H3).
+We do capitalize terminology that is supposed to be capitalized, such as "Writing Day".
 
 Jargon
 ~~~~~~

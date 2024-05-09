@@ -96,7 +96,7 @@ The toolchains also generally differ. Typically, DITA uses a closed content mana
 
 DITA also emphasizes certain features, like content reuse, that don't come out of the box with most docs-as-code tools. However, you can often add those features in - Tom Johnson's `blog series comparing DITA and Jekyll <https://idratherbewriting.com/2015/03/23/new-series-jekyll-versus-dita/>`__ discusses this. He warns that with lots of customisations, you risk locking yourself into a particular toolchain - but others pointed out that it's never "easy" to change docs systems anyway.
 
-Some people pointed out the ideological differences. A lot of the point of DITA is the structure, allowing sophisticated content re-use. Docs-as-code/markdown/SSGs don’t come with the same feature set because they sometimes no have structure at all, even to the point of being anti-structure.
+Some people pointed out the ideological differences. A lot of the point of DITA is the structure, allowing sophisticated content reuse. Docs-as-code/markdown/SSGs don’t come with the same feature set because they sometimes no have structure at all, even to the point of being anti-structure.
 
 So while you can potentially unite the two, it's worth remembering that the philosophies underlying docs-as-code and DITA are quite different.
 

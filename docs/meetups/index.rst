@@ -1,109 +1,84 @@
 Meetups
 =======
 
-.. note:: For information and updates regarding WTD meetup events during the COVID-19 restrictions, see `Meetups and COVID-19 <https://www.writethedocs.org/organizer-guide/meetups/covid-19-meetups/>`_.
+**Write the Docs Meetups** allow for documentarians to get to know their 
+community better. Meetup events are a great way to network and stay up 
+to date with the documentation world.
 
-**Write the Docs Meetups** allow for documentarians to get to know their
-local community better. Meeting in person is a great way to stay up to
-date with the documentation world, and meet some great people in the
-process.
+Meetup now supports virtual events along with in-person events. Virtual 
+events are a great opportunity to network with people in your local 
+community as well as anyone who attends from an overlapping time zone. 
+The events available at each Meetup depend on the organizer, their schedule,
+as well as the needs of their community.
 
-All of our local meetups are organized by members of the community in
-their own town. They vary in style as much as the individual cities
-themselves vary. The main thread that brings people together is caring
-about great communication and users of their product.
+Meetup organization
+-------------------
 
-We invite you to join a meetup in your local community. If your local community
-isn't listed here, feel free to `start one <../organizer-guide/meetups/starting>`_
-and let us know. We'd be happy to promote it and list it here.
+All of our meetups are organized by volunteers in their local communities.
+Each Meetup has its own unique style that varies based on the organizers and
+the locale it represents.
 
-We have several pages of meetup documentation:
+We love volunteers! If you are interested in starting a new meetup group
+or volunteering with an existing group, here is how you can reach out:
 
+* `Start a new Meetup group <https://forms.gle/Jx9CniuwEcLrEYPJ7>`_
+* `Volunteer for an existing Meetup group <https://forms.gle/DG8FagKdNgAFtEb47>`_
+
+We have documentation available to support potential and existing organizers:
 
 .. toctree::
    :maxdepth: 1
 
+   announcements
    ../organizer-guide/meetups/starting
    ../organizer-guide/meetups/faq-meetups
    ../organizer-guide/meetups/sustainable-meetups
 
-Current Meetups: North America
-------------------------------
+Current meetups
+---------------
+
+Anyone is welcome to join a meetup in their local community. If no local 
+community currently exists you are more than welcome to join any meetup
+that works for your time zone that hosts virtual events.
+
+If your local community isn't listed here, let us know or `add it on GitHub <https://github.com/writethedocs/www/tree/main/docs/_data/meetups>`_. 
+We would love to add your group to our list of active meetups.
+
+.. note:: We are removing inactive Meetup groups from this page. For record 
+    keeping purposes we created a `Meetup group archive <inactive>`_ page. 
+    You can find a list of paused, inactive, and archived groups there. 
+
+North America
+-------------
 
 .. meetup-listing::
     :region: North America
 
 
-Current Meetups: Europe
------------------------
+Europe
+------
 
 .. meetup-listing::
     :region: Europe
 
 
-Current Meetups: Oceania
-------------------------
+Oceania
+-------
 
 .. meetup-listing::
     :region: Oceania
 
 
-Current Meetups: Asia
----------------------
+Asia
+----
 
 .. meetup-listing::
     :region: Asia
 
 
-Current Meetups: Africa
------------------------
+Africa
+------
 
 .. meetup-listing::
     :region: Africa
 
-
-Current Meetups: Quorum
------------------------
-
-The `Quorum program <https://github.com/write-the-docs-quorum/quorum-meetups>`_
-brings together various Write the Docs meetup chapters in nearby time zones
-to provide quarterly "super" meetups over Zoom throughout the year.
-
-Current Meetups: Quorum North America East / Central
-----------------------------------------------------
-
-Several meetups are members of the Quorum North America East group:
-
-* Austin
-* Detroit / Windsor
-* Florida
-* New England
-* Ottawa / Montreal
-* Philadelphia
-* Washington, D.C.
-
-.. meetup-listing::
-    :region: Quorum-US-East
-
-Current Meetups: Quorum North America West / Mountain
------------------------------------------------------
-
-Several meetups are members of the Quorum North America West group:
-
-* San Francisco Bay Area
-* Los Angeles
-* Portland (OR)
-* Seattle
-
-.. meetup-listing::
-    :region: Quorum-US-West
-
-Know of a meetup not shown here? `Add it to the list <https://github.com/writethedocs/www/tree/master/docs/_data/meetups>`_.
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-
-   nyc
-   philly
-   sf-bay

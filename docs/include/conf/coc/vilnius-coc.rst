@@ -1,9 +1,9 @@
 **Karina Klinkeviciute**
 
 * karina.klinkeviciute@gmail.com
-* slack: 
+* Slack: 
 
 **Aidis Stukas**
 
 * aidiss@gmail.com 
-* slack: aidiss
+* Slack: aidiss

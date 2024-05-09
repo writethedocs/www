@@ -5,6 +5,8 @@ import re
 import yaml
 import os
 from datetime import datetime, timezone
+from dateutil import tz
+import json
 
 # This script scrapes the pages for meetups to see if there are upcoming events.
 # If there are, they're returned in the right format for the newsletter.
@@ -12,34 +14,46 @@ from datetime import datetime, timezone
 # To run it, install the necessary dependencies and run the script with Python
 # such as `python docs/_scripts/get_upcoming_meetups.py`.
 # Then copy the resulting list into the newsletter article.
-# All the times will be in your local timezone,
-# so you may want to convert them to the timezone local to each meeting.
 
 # Look at a specific Meetup.com page and return data for any upcoming events
 async def get_events_info(meetup_link):
     # Make a GET request to the Meetup organization page
-    response = await asyncio.get_event_loop().run_in_executor(None, requests.get, meetup_link['url'])
+    response = await asyncio.get_event_loop().run_in_executor(None, requests.get, f"{meetup_link['url']}?type=upcoming")
 
     # Parse the HTML content of the page using BeautifulSoup
     soup = BeautifulSoup(response.content, 'html.parser')
 
-    # Find the upcoming events div
-    upcoming_events = soup.find('div', class_=re.compile('eventsList-upcomingEvents'))
-    # If it doesn't exist, return an object with at least the location
-    if upcoming_events is None:
+    # Find all upcoming events
+    upcoming_events = soup.find_all('a', id=re.compile('event-card'))
+    # If there are no upcoming events, return an object with at least the location
+    if not upcoming_events:
         return [{'date': None, 'url': None, 'title': None,'location': meetup_link['location']}]
     else:
-        # Find all event elements within the upcoming events div
-        events = upcoming_events.find_all('div', class_="chunk")
         events_info = []
         # Loop through each event element
-        for event in events:
-            # Extract the date, URL, and title of each event
-            date = event.find('time').get('datetime')
-            event_link = event.find('a', class_="eventCard--link")
-            event_url = event_link.get('href')
-            event_title = event_link.find('span').get_text()
-            events_info.append({'date': date, 'url': event_url, 'title': event_title,'location': meetup_link['location']})
+        for event in upcoming_events:
+            # Get the URL for the event
+            event_link = event.get('href')
+            # Get the event page
+            response = await asyncio.get_event_loop().run_in_executor(None, requests.get, event_link)
+
+            # Parse the HTML content of the page using BeautifulSoup
+            event_soup = BeautifulSoup(response.content, 'html.parser')
+            
+            # Get JSON object with info on the event
+            event_data_raw = event_soup.find("script", {"id": "__NEXT_DATA__"})
+            event_json = json.loads(event_data_raw.contents[0])
+            event_data = event_json['props']['pageProps']['event']
+
+            # Extract the date and timezone for the event
+            dateTime = event_data['dateTime']
+            event_timezone = event_data['timezone'] 
+
+            # Get the event name
+            event_title = event_soup.find('h1').getText()
+
+            # Add all data on the event to the list
+            events_info.append({'date': dateTime, 'timezone': event_timezone, 'url': event_link, 'title': event_title,'location': meetup_link['location']})
         return events_info
 
 # Separate the link checks into asynchronous events and do them at once
@@ -71,7 +85,7 @@ for yaml_file in yaml_files:
         # If no city, just use the country
         except KeyError:
             location = f"{data['country']}"
-        meetup_links.append({"location": location, "url": f"https://www.meetup.com/{data['meetup']}"})
+        meetup_links.append({"location": location, "url": f"https://www.meetup.com/{data['meetup']}/events"})
 
 # Run the URL checks asynchronously
 results = asyncio.run(check_urls(meetup_links))
@@ -80,11 +94,22 @@ results = asyncio.run(check_urls(meetup_links))
 days_within = 37
 upcoming_events = []
 for result in results:
+    # Handle locations with no results
+    if len(result) == 0:
+        continue
+    # Handle events with no date
     if result[0]['date'] == None:
         continue
+    # Handle events with data
     for event in result:
-        event_date = datetime.fromtimestamp(int(event['date']) / 1000)
-        if (event_date - datetime.now()).days <= days_within:
+        current_datetime = datetime.now(timezone.utc)
+        event_date = current_datetime
+        try:
+            event_date = datetime.fromisoformat(event['date'])
+        except:
+            # If a problem with time zone, just ignore it
+            event_date = datetime.strptime(event['date'].rsplit(' ',1)[0], '%a, %b %d, %Y, %I:%M %p')
+        if (event_date - current_datetime).days <= days_within:
             event['date'] = event_date
             upcoming_events.append(event)
 
@@ -94,6 +119,6 @@ sorted_upcoming_events = sorted(upcoming_events, key=lambda upcoming_event: upco
 # Turn into newsletter format
 upcoming_event_links = []
 for upcoming_event in sorted_upcoming_events:
-    upcoming_event_links.append(f"- {upcoming_event['date'].strftime('%-d %b, %H:%M %Z')} {datetime.now(timezone.utc).astimezone().tzinfo} ({upcoming_event['location']}): `{upcoming_event['title']} <https://www.meetup.com{upcoming_event['url']}>`__")
+    upcoming_event_links.append(f"- {upcoming_event['date'].strftime('%-d %b, %H:%M')} {upcoming_event['date'].astimezone(tz=tz.gettz(upcoming_event['timezone'])).tzname()} ({upcoming_event['location']}): `{upcoming_event['title']} <{upcoming_event['url']}>`__")
 
 print('\n'.join(upcoming_event_links))

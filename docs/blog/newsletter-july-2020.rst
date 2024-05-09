@@ -72,7 +72,7 @@ Tracking documentation work can be challenging, especially if you're handling do
 * Jira: You can include a documentation component within your project. This allows people in your organization can log issues against the docs, and you can use Jira's features to track your issues by filtering on that documentation component.
 * Meetings: The old-fashioned way! You can hold regular meetings with your stakeholders to give them status updates on how your work that concerns them is progressing. It's also an opportunity to get details on what's coming up on their roadmap, and to hear about key priority changes so they don't surprise you at the last minute.
 
-If you have found a great way to track your docs work, or you'd like to ask for more tips, jump into the slack!
+If you have found a great way to track your docs work, or you'd like to ask for more tips, jump into the Slack!
 
 -----------------------------------
 Resources for diverse example names

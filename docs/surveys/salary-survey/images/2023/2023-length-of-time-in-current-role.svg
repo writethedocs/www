@@ -1,0 +1,47 @@
+<svg width="100%" height="100%" viewBox="0 0 544 505" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+	<defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/svg.css);
+      ]]>
+    </style>  
+	</defs>
+
+<g class="bar-chart-vertical">
+
+	<g class="data-series">
+		
+		<g class="a">
+
+			<g class="axis-labels">
+				<text x="45" y="490">0-1 years</text>
+				<text x="147" y="490">1-2 years</text>
+				<text x="250" y="490">2-5 years</text>
+				<text x="350" y="490">5-10 years</text>
+				<text x="453" y="490">10+ years</text>
+			</g>
+
+			<g class="bars">
+				<path d="M117 204H29V472H117V204Z"/>
+				<path d="M220 168H132V472H220V168Z"/>
+				<path d="M323 48H235V472H323V48Z"/>
+				<path d="M426 257H338V472H426V257Z"/>
+				<path d="M529 362H441V472H529V362Z"/>
+			</g>
+
+			<g class="value-labels transform">
+				<text x="56" y="199">20.3%</text>
+				<text x="160" y="163">23.0%</text>
+				<text x="263" y="43">32.1%</text>
+				<text x="367" y="252">16.3%</text>
+				<text x="471" y="357">8.3%</text>
+			</g>
+
+		</g>
+
+	</g>
+
+</g>
+
+</svg>

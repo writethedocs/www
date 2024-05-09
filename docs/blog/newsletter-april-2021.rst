@@ -64,7 +64,7 @@ Finally, editing challenges are sometimes not about words but relationships. Som
 What we're reading/listening to/watching
 ----------------------------------------
 
-The #bipoc group's been discussing the following materials on diversity, inclusion, and equity. Want to join the conversation? Join us in the #bipoc slack channel!
+The #bipoc group's been discussing the following materials on diversity, inclusion, and equity. Want to join the conversation? Join us in the #bipoc Slack channel!
 
 For a short read, check out: `Words Matter: Finally, Tech Looks at Removing Exclusionary Language <https://thenewstack.io/words-matter-finally-tech-looks-at-removing-exclusionary-language>`__ by Jennifer Riggins, June 2020. It discusses the tech industry’s look at the language it uses, because words do matter.
 

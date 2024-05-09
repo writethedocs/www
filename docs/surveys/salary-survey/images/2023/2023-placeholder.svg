@@ -1,0 +1,44 @@
+<svg width="100%" height="100%" viewBox="0 0 660 478" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+	<defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/svg.css);
+      ]]>
+    </style>  
+	</defs>
+
+<g class="bar-chart-vertical">
+
+	<g class="data-series">
+		
+		<g class="a">
+
+			<g class="bars">
+				<path d="M149.531 405.142H13.4062V455.826H149.531V405.142Z"/>
+				<path d="M314.531 374.52H178.406V455.826H314.531V374.52Z"/>
+				<path d="M479.531 225.635H343.406V455.826H479.531V225.635Z"/>
+				<path d="M644.531 35.5699H508.406V455.826H644.531V35.5699Z"/>
+			</g>
+
+			<g class="value-labels transform">
+				<text x="78" y="384.384">4.2%&#x200b;</text>
+				<text x="238" y="355.384">8.6%&#x200b;</text>
+				<text x="396" y="214.384">30.0%&#x200b;</text>
+				<text x="556" y="34.3843">57.2%&#x200b;</text>
+			</g>
+
+			<g class="axis-labels">
+				<text x="46.9805" y="474.657">Category One</text>
+				<text x="211.98" y="474.657">Category Two</text>
+				<text x="370.975" y="474.657">Category Three</text>
+				<text x="538.978" y="474.657">Category Four</text>
+			</g>
+
+		</g>
+
+	</g>
+
+</g>
+
+</svg>

@@ -9,9 +9,9 @@
               <div class="item-content">
                   <div class="item-description">
                   {% if session.title %}
-                      {{ session.title }}
+                      {{ session.title | safe }}
                   {% elif session.data %}
-                     <a href="../speakers/#speaker-{{ session.data.speakers.0.slug }}">{{ session.speaker_names }} - {{ session.data.title }}</a>
+                     <a href="../speakers/#speaker-{{ session.data.speakers.0.slug }}-{{ session.data.slug }}">{{ session.speaker_names }} - {{ session.data.title }}</a>
                   {% else %}
                      ERROR: {{ session }}
                   {% endif %}

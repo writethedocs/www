@@ -13,7 +13,7 @@ We're excited to announce the dates for our next conference:
 **Write the Docs Australia 2023 will be on December 7-8, 2023, in Melbourne**.
 
 Write the Docs Australia will be an in-person conference, similar to our pre-COVID conferences. 
-Speakers will be present in person and speaking from the conference stage. We will also offer a free livestream of the talks, and remote participants are encouraged to participate in our Slack. The unconference will not be streamed.
+Speakers will be present in person and speaking from the conference stage.
 
 The conference will follow all local COVID regulations that apply at the time, and we will announce more specific policies before our tickets go on sale so people can make an informed decision.
 
@@ -72,7 +72,7 @@ Stay Updated
 Want to find out what's happening with the conference, or enjoy our monthly global community newsletter?
 Sign up to one or more of our `mailing lists <http://eepurl.com/cdWqc5>`_. Your information will never be shared with any third-parties, and you can unsubscribe at any time.
 
-Want to connect with other documentarians in real-time? Join our `Slack <http://slack.writethedocs.org/>`_.
+Want to connect with other documentarians in real-time? Join our `Slack <https://writethedocs.org/slack/>`_.
 
 Conclusion
 ----------

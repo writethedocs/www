@@ -1,4 +1,4 @@
-Sphinx Themes
+Sphinx themes
 =============
 
 These are the Sphinx themes that we recommend.
@@ -12,7 +12,7 @@ Requirements to be included on this list:
 * Installable as a Python module
 * Maintained and documented
 
-Read the Docs Theme
+Read the Docs theme
 -------------------
 
 The official theme for Read the Docs.
@@ -39,7 +39,7 @@ It's great for text content where you just want to make the words front and cent
 .. image:: /_static/img/paramiko.png
    :width: 80%
 
-Sphinx Bootstrap Theme
+Sphinx Bootstrap theme
 ----------------------
 
 A basic Sphinx theme that uses Bootstrap for nice styling.
@@ -51,7 +51,7 @@ or just wants a simple good looking theme.
 .. image:: /_static/img/bootstrap.png
    :width: 80%
 
-Guzzle Theme
+Guzzle theme
 ------------
 
 Originally built for Guzzle (PHP HTTP client), this theme is another
@@ -62,7 +62,7 @@ mobile friendly alternative with nice colors.
 .. image:: /_static/img/guzzle.png
   :width: 80%
 
-Documatt Theme
+Documatt theme
 --------------
 
 Mobile friendly Sphinx theme designed to provide great documentation reading experience with beautiful typography.
@@ -72,4 +72,15 @@ This theme is default theme of Documatt Techwriter at work blog but you are welc
 * https://pypi.org/project/sphinx-documatt-theme/
 
 .. image:: /_static/img/documatt.png
+  :width: 80%
+
+Furo theme
+------------
+
+Originally built for the pip documentation, this mobile friendly theme is minimal but customizable and has carefully
+designed navigation features (sidebar, inter-page links).
+
+* https://github.com/pradyunsg/furo
+
+.. image:: /_static/img/furo.png
   :width: 80%

@@ -66,7 +66,7 @@ We considered that, and decided not to for the following reasons:
   Because it's a work-related community, a lot of people access the Write the Docs Slack from their work computers alongside their employers' Slack instances.
   They often cannot do the same for other chat platforms.
 - Migrating platforms is not a priority for the capacity of our small moderation team.
-  Our community has a *lot* of people in it - we're coming up on 20,000 registered members.
+  Our community has a *lot* of people in it - we've got over 20,000 registered members.
   Moving an active community that large to a different platform requires a lot of attention that we believe is better spent on other tasks to serve the community.
 
 Autoresponders
@@ -118,13 +118,13 @@ Default channels
 
 Everyone who joins the Slack will be added to these channels:
 
-* **announcements** - Where organizers post housekeeping and community-wide announcements.
-* **#general** - The main channel for documentation related conversation and questions.
-* **#watercooler** - For talking about things that are off-topic. Get to know folks other interests that aren't around documentation :)
-* **#jobs-posts-only** - Posting jobs. (You can look for jobs in **#career-advice**)
-* **#wtd-conferences** - Questions and other thoughts around the :doc:`/conf/index`.
-* **#meetups** - Questions and other thoughts about our :doc:`/meetups/index`.
 * **#intros** - Introduce yourself! Let people know you're here, and why you care about docs :)
+* **#announcements** - Community-wide announcements from the Write the Docs organizers.
+* **#general** - The main channel for documentation-related conversation and questions.
+* **#job-posts-only** - Posting jobs. (Talk about your job search in **#work-wanted** and **#career-advice**.)
+* **#wtd-conferences** - Questions and discussion for :doc:`/conf/index`. (Talk about other conferences in **#community-events**.)
+* **#meetups** - Questions and discussion for Write the Docs :doc:`/meetups/index`. (Talk about other meetups in **#community-events**.)
+* **#watercooler** - Off-topic chat. Get to know folks' other interests that aren't around documentation :)
 
 Other useful topical channels
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -161,13 +161,26 @@ Creating channels
 
 If you didn't see a channel that matches your interests, make sure to browse the complete channel list in Slack.
 
-If you still can't find a suitable channel, you can propose a new channel. To propose a channel:
+If you still can't find a suitable channel, you can propose a new channel.
+We use this process to help channels succeed at creating discussion and introducing documentarians to others who share their interests.
+To propose a channel:
 
-1. Find two other people to cosponsor your channel idea. Ask in related channels to find people who share your interest.
-2. Together, come up with a channel name and write a channel description.
-3. Post in **#meta** requesting a channel. Be sure to share your proposed channel name, description, and to tag your cosponsors.
+#. Find two other people to cosponsor your channel idea.
+   Ask in related channels to find people who share your interest.
+#. Together, come up with a channel name and write a channel description.
+#. Post in **#meta** requesting a channel.
+   Be sure to share your proposed channel name, description, and to tag your cosponsors.
+#. Start thinking about how to seed the new channel with discussion, with an open-ended question, a link to discuss, or a hot take.
 
-The Write the Docs moderation team will review your proposal.
+The Write the Docs moderation team will review your proposal to make sure the new channel will remain active and won't duplicate or create confusion with another channel.
+Whenever possible, the moderators work with channel sponsors on improvements to the proposal.
+
+If your proposal is approved, then you and your consponsors must:
+
+#. Seed discussion in the new channel.
+   A starter discussion helps others learn whether the channel is relevant to them and increases the number of documentarians who join the channel.
+#. Make an announcement in **#general** and channels related to the new channel's topic.
+   For example, if there's a new a channel for underwater basket weaving, then make an announcement like "Join us in #underwater-basket-weaving to discuss techniques, materials, and what to store in all these baskets."
 
 Guidelines
 ----------
@@ -221,6 +234,10 @@ Please be mindful with the following behaviors:
 - **Avoid technology competitions.**
   It doesn't matter if your tool is faster or better in some metric.
   We care about creating great documentation for our users.
+- **Honor the community's trust and confidence.**
+  In the Write the Docs Slack, we are privileged to be able to discuss complex or sensitive situations with other docs practitioners.
+  But those discussions can only happen in an environment of discretion and trust.
+  The `Chatham House Rule <https://www.chathamhouse.org/about-us/chatham-house-rule>`_ applies: you're welcome to use the information shared, but never reveal names, job titles, employers, or other identifying information about other participants outside of Slack, unless you've received their explicit permission to do so.
 
 Posting rules
 ~~~~~~~~~~~~~
@@ -250,13 +267,13 @@ Self-promotion, surveys, and sales
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You're welcome to share, link to, and mention your own work, including blog posts, social media, events, and paid products or services.
-That said, posts where you stand to benefit from others' money, personal information, or labor come with higher expectations.
+That said, posts where you stand to benefit from others' money, personal information, attention, or labor come with higher expectations.
 When this applies, make sure you follow the general guidelines closely.
 
 In addition to the guidance that applies to all participants, we expect self-promotion on the Write the Docs Slack to follow these additional guidelines:
 
 - **Be transparent.**
-  Clearly explain what you are promoting, why it matters to documentarians, and your involvement.
+  Clearly explain what you are promoting, why it matters to documentarians, and your involvement (current/former employee, contractor, friend of a friend, etc.).
   Be up front about paywalls, registration requirements, referral benefits, or commissions.
   If you're running a survey, say when and how the results will be published.
 - **Give more than you take.**
@@ -271,9 +288,40 @@ In addition to the guidance that applies to all participants, we expect self-pro
   If people aren't interested in what you're offering, don't take it as a license to become louder and more aggressive.
   If you're asked to stop, then stop.
 - **Treat the community like friends, not customers.**
-  Posts that resemble infomercials are harder for the community to engage with and for the moderation team to distinguish from spam.
-  If you post about things that aren't relevant to the documentation field or the channel you're posting in, moderators might delete your messages.
-  Make sure conversations stay relevant and not sales-focused, so you can have the chance to talk about work you're excited about.
+  The community tends to ignore or spam report posts that look like sales pitches.
+  Avoid calls to action — `attempts to prompt an immediate response or sale <https://en.wikipedia.org/wiki/Call_to_action_(marketing)>`_ — such as requests to "buy", "subscribe", "retweet", or "share" (among others).
+
+Common self-promotion situations
+++++++++++++++++++++++++++++++++
+
+Here are some examples of common self-promotion situations and how to self-promote responsibly (and irresponsibly):
+
+- You've written a blog post (Medium, Hashnode, etc.) that you want to share with the community, but it's not closely related to an ongoing discussion.
+
+  **Do** share it in **#community-showcase** and tell us why it is relevant to the practice of writing, creating, maintaining, or building docs.
+
+  **Don't** cross-post that content across multiple channels or use the **#community-showcase** (or any other) channel for link-farming or drive-by engagement only.
+
+- Your employer is hosting an event to promote their product or service (even if it's not the primary purpose of the event).
+
+  **Do** share it in **#community-events** and tell others your connection to the event.
+
+  **Don't** obscure the purpose of the event, your relationship to the employer, or the costs associated to attendance.
+
+- Someone else has asked a question and you're the author of an article, blog, book, or similar resource that answers the question.
+
+  **Do** reply by briefly summarizing your work, noting your authorship, and linking to the resource.
+
+  **Don't** cross-post a reply outside the thread or channel or send the person asking the question a direct message.
+
+- A moderator has raised one or more of your posts as violating the self-promotion guidelines, and provided you with feedback and guidance.
+
+  **Do** read the guidance, review our rules, and modify your posting patterns to respect the Write the Docs community.
+
+  **Don't** use DMs, alt-accounts, clever interpretations of the rules/guidance, or other methods to ignore or get around the moderator feedback.
+
+Suggested channels for self-promotion
++++++++++++++++++++++++++++++++++++++
 
 Here are some channels specifically for wholesome self-promotion:
 
@@ -283,10 +331,12 @@ Here are some channels specifically for wholesome self-promotion:
 - **#community-help-wanted** is a good place to share surveys, calls for research interview subjects, and calls for participation on open-source projects.
 - **#community-showcase** is a space for responsible self-promotion.
 
+Posts in those channels not meeting the posting rules may result in :ref:`moderation action <moderation-action>`, such as a warning or deletion.
+
 Reporting Issues
 ~~~~~~~~~~~~~~~~
 
-If you see a message in a public channel that looks like spam, you can react to it with the ``:spam:`` reactji to bring the moderators' attention to it.
+If you see a message in a public channel that needs moderator attention, you can react to it with the ``:attn-mods:`` or ``:spam:`` reactji.
 Note that this is a public action, so only take it if you're okay with the poster seeing you have done this. 
 
 If you see people not following the behavior guidelines you can:
