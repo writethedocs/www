@@ -1,0 +1,32 @@
+<svg width="100%" height="100%" viewBox="0 0 660 579" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+		<defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+	<g class="donut-chart">
+
+		<g class="slices">
+
+		</g>
+
+		<g class="pointers">
+
+		</g>
+
+		<g class="value-labels-inner">
+
+		</g>
+
+		<g class="value-labels-outer">
+			
+		</g>
+
+	</g>
+
+</svg>
