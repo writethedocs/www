@@ -1162,7 +1162,7 @@ Employee salary, benefits and satisfaction
 
 To protect the privacy of our community, we do not publish median salary figures for any region or category with less than 10 respondents. In previous years, this has meant that median salaries could only be given for a few regions and countries, and a handful of US states.     
 
-With this year's survey amassing the highest number of submissions yet, we can now provide a more extensive range of salary breakdowns. Alongside the baseline data for Africa, which encompasses respondents from South Africa, Kenya, and Nigeria, we have gathered enough data to publish median salaries (|50th| percentile) for 15 individual countries, 17 US states, 3 Canadian provinces (including separate figures for each province's capital city), and 3 Australian states.
+With this year's survey amassing the highest number of submissions yet, we can now provide a more extensive range of salary breakdowns. Alongside the baseline data for Africa, which encompasses respondents from South Africa, Kenya, and Nigeria, we have gathered enough data to publish median salaries (|50th| percentile) for 15 individual countries, 17 US states, 3 Canadian provinces (including separate figures for each province's largest city), and 3 Australian states.
 
 In regions or categories meet the minimum threshold of 30 respondents, we're also providing the |25th| percentile (the value below which 25% of the data falls) and |75th| percentile (the value below which 75% of the data falls).
 
