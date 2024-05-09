@@ -12,14 +12,18 @@ Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel a
 Upcoming Book Club
 ------------------
 
-Our next book club starts Monday, June 5, 2023.
+Our next book club starts Monday, June 3, 2024.
 
-Book: Laura Kalbag's `Accessibility for Everyone <https://abookapart.com/products/accessibility-for-everyone>`_
+Book: Elton Stoneman's `Learn Kubernetes in a Month of Lunches <https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches>`_
+
+Note: Unlike most WTD book club reads, this book club will be in the #kubernetes channel in the WTD Slack community.
 
 
 Previous Book club reads
 ------------------------
 
+* March - May 2024: Alejandra Quetzalli's `Docs-as-Ecosystem <https://www.docsasecosystem.com/>`_
+* July - August 2023: Laura Kalbag's `Accessibility for Everyone <https://abookapart.com/products/accessibility-for-everyone>`_
 * February - April 2023: June Casagrande's `It Was the Best of Sentences, It Was the Worst of Sentences <https://www.penguinrandomhouse.com/books/198856/it-was-the-best-of-sentences-it-was-the-worst-of-sentences-by-june-casagrande/>`_
 * September - December 2022: Torrey Podmajersky's `Strategic Writing for UX <https://torreypodmajersky.com/strategic-writing-for-ux/>`_
 * April - June 2022: Rick Umali's `Learn Git in a Month of Lunches <https://www.manning.com/books/learn-git-in-a-month-of-lunches>`_
