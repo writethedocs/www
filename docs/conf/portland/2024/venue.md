@@ -39,8 +39,6 @@ lockers in the hallway for that extra ambiance.
 -   Catering: Assembly Lounge
 -   Quiet Room: Sunset Room
 
-**VIDEO AND MAP OF VENUE LAYOUT WILL BE RELEASED IN MARCH.**
-
 ### Other Venue Spaces (open to the public)
 
 -   Martha's Coffee Shop
@@ -50,6 +48,14 @@ lockers in the hallway for that extra ambiance.
 -   Roof Deck
     -   3:00pm-late, weather permitting
 -   Outdoor seating and city park
+
+### Sunday Conference Map
+
+![Attendee map](/_static/conf/images/2024-map-sunday.png)
+
+### Monday & Tuesday Conference Map
+
+![Attendee map](/_static/conf/images/2024-map-monday.png)
 
 ## Accessibility
 

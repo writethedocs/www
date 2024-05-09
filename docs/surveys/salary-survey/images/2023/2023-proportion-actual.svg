@@ -1,0 +1,45 @@
+<svg width="100%" height="100%" viewBox="0 0 660 478" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+		<defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+	<g class="bar-chart-vertical">
+
+		<g class="data-series">
+		
+			<g class="a">
+
+				<g class="axis-labels">
+					<text x="75.4854" y="455.384">0-25%</text>
+					<text x="232.482" y="455.384">26-50%</text>
+					<text x="392.482" y="455.384">51-75%</text>
+					<text x="549.479" y="455.384">76-100%</text>
+				</g>
+
+				<g class="bars">
+					<path d="M155 389H23V437H155V389Z"/>
+					<path d="M315 360H183V437H315V360Z"/>
+					<path d="M475 219H343V437H475V219Z"/>
+					<path d="M635 39H503V437H635V39Z"/>
+				</g>
+
+				<g class="value-labels transform">
+					<text x="78" y="384.384">4.2%</text>
+					<text x="238" y="355.384">8.6%</text>
+					<text x="396" y="214.384">30.0%</text>
+					<text x="556" y="34.3843">57.2%</text>
+				</g>
+
+			</g>
+
+		</g>
+
+	</g>
+
+</svg>

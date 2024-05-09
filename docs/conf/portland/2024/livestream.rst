@@ -5,7 +5,7 @@ Live Stream
 
 .. raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DBrKx8PbsRg?si=Lj0AjpCZcUpZkfRR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2s4xkCbyz-U?si=kpaF9s4G9pdvuM_K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The livestream page will be updated with the live stream link shortly before the event starts.
 Refresh the page on the day of the conference talks to see them!

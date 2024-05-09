@@ -31,8 +31,6 @@ Join us for an introduction to Write the Docs. We'll go on a short tour of the v
 
 Review our [Venue](https://www.writethedocs.org/conf/portland/2024/venue/) page for details on the accessibility and layout of conference spaces.
 
-We'll share a video and map that will be released in March.
-
 ## Eating
 
 -   Snacks, coffee, tea, and water are provided on conference days in the Assembly Lounge on the 2nd floor.
