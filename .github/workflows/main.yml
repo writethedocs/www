@@ -55,8 +55,8 @@ jobs:
           # https://docs.github.com/en/actions/security-guides/automatic-token-authentication#about-the-github_token-secret
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         with:
-          files: "docs/conf/*/*/news"
-          vale_flags: "--config=vale/news.ini"
+          files: all
+          vale_flags: "--config=vale/news.ini --glob='docs/conf/**/news/*'"
           reporter: github-pr-check
           fail_on_error: true
           filter_mode: file
