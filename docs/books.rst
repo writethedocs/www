@@ -9,7 +9,7 @@ Technical communication
 * `Developing Quality Technical Information: A Handbook for Writers and Editors <https://www.goodreads.com/book/show/17349710-developing-quality-technical-information>`_ (multiple authors)
 * `Docs for Developers: An Engineer’s Field Guide to Technical Writing <https://www.apress.com/us/book/9781484272169>`_ by Jared Bhatti, Zachary Sarah Corleissen, Jen Lambourne, David Nunez, and Heidi Waterhouse
 * `Docs Like Code <https://www.docslikecode.com/book/>`_, by Anne Gentle - **Read in our book club**
-* `Docs-as-Ecosystem: The Community Approach to Engineering Documentation <https://www.goodreads.com/book/show/133207376-docs-as-ecosystem>`_, by Alejandra Quetzalli
+* `Docs-as-Ecosystem: The Community Approach to Engineering Documentation <https://www.goodreads.com/book/show/133207376-docs-as-ecosystem>`_, by Alejandra Quetzalli - **Read in our book club**
 * `Living Documentation <https://www.goodreads.com/book/show/26865837-living-documentation-by-design-with-domain-driven-design>`_, by Cyrille Martraire
 * `Managing Writers: A Real World Guide to Managing Technical Documentation <https://www.goodreads.com/book/show/6322901-managing-writers>`_, by Richard L. Hamilton - **Read in our book club**
 * `Modern Technical Writing <https://www.goodreads.com/book/show/28433138-modern-technical-writing>`_, by Andrew Etter
