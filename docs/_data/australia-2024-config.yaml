@@ -84,11 +84,11 @@ sponsorship:
   second_draft:
     price: $2,500
   publisher:
-    price: $4,500
+    price: $5,000
   patron:
     price: $8,500
   keystone:
-    price: $12,500
+    price: $13,500
 
 shirts:
   url: https://teespring.com/wtd-pdx-2023
@@ -110,7 +110,7 @@ date: # how do we handle these? human readable would be nice.
   # These are listed in the schedule
   day_one:
     event: Outing
-    date: On your own or crowd-sourced
+    date: On your own or community-sourced
     summary: If you are in town early, we encourage you to go exploring one of the most liveable cities in the world, Melbourne.
     icon: hike
     dotw: Wednesday

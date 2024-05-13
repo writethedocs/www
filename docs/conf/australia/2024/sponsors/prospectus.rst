@@ -12,7 +12,7 @@ Sponsorship Prospectus
 Introduction
 ============
 
-Welcome to our 2023 **Conference Sponsorship Prospectus**.
+Welcome to our 2024 **Conference Sponsorship Prospectus**.
 
 We're excited to work with the organizations in our community to build the best possible event in {{ year }}.
 In particular, we would love your feedback on sponsorship levels and benefits.
@@ -51,10 +51,10 @@ First Draft
 
 The **First Draft** package is only available to startups (under 15 employees), non-profits, and open source organizations.
 
-- Two (2) tickets_
-- One (1) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- A short description (250 characters) and logo of your company on the conference website
-- Name included in welcome announcement in email newsletters and social media
+- Two (2) tickets_.
+- Logo on the conference website.
+- Name included in all conference emails to attendees.
+- Display promotional (“Swag”) items on the conference swag table (provided by sponsor).
 
 The **First Draft** package costs AUD **{{sponsorship.first_draft.price}}**.
 
@@ -64,9 +64,9 @@ Second Draft
 The **Second Draft** package is great for companies looking to hire or to promote a product.
 
 - Three (3) tickets_
-- Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- A short description (250 characters) and logo of your company on the conference website
-- Name included in welcome announcement in email newsletters and social media
+- Logo on the conference website.
+- Name included in all conference emails to attendees.
+- Display promotional (“Swag”) items on the conference swag table (provided by sponsor).
 
 The **Second Draft** package costs AUD **{{sponsorship.second_draft.price}}**.
 
@@ -75,11 +75,11 @@ Publisher
 
 The **Publisher** package is great for sending a team and getting to know the community.
 
-- Seven (7) tickets_
+- Seven (7) tickets_, with additional available to purchase at a discounted rate of $300/ticket.
 - Four (4) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- A short description (250 characters) and logo of your company on the conference website
-- Name included in welcome announcement in email newsletters and social media
-- A small logo on all Write the Docs website pages for 3 months
+- Logo on the conference website.
+- Name included in all conference emails to attendees.
+- Display promotional “Swag” items on the conference swag table (provided by sponsor).
 
 The **Publisher** package costs AUD **{{sponsorship.publisher.price}}**.
 
@@ -90,15 +90,14 @@ Patron
 
 The **Patron** package highlights your company as a force in the industry and community:
 
-- Thirteen (13) tickets_
-- Seven (7) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- A medium description (750 characters and logo of your company on the conference website
-- Small logo included in intermission slides and on talk videos
-- Name included in welcome announcement in email newsletters and social media
-- 5 minute sponsored lightning talk on main stage of the conference
-- One newsletter sponsorship (logo & 300 characters) in our newsletter ({{ newsletter_subs }}+ subscribers)
-- A logo on all Write the Docs website pages until the end of 2023. (30,000 pageviews/mo)
-- A :doc:`small ad </sponsorship/website>` displayed on all non-conferences pages of the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months.
+- Ten (10) tickets_, with additional available to purchase at a discounted rate of $300/ticket.
+- Logo included in intermission slides and on talk videos.
+- Logo and description (250 characters) on the conference website.
+- Logo in conference email promotion.
+- Display promotional “Swag” items on the conference swag table (provided by sponsor).
+- Dedicated social media post on LinkedIn and Twitter.
+- Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
+- One email promotion to our conference email list. Includes logo and 2 paragraphs of copy
 
 The **Patron** package costs AUD **{{sponsorship.patron.price}}**.
 
@@ -107,15 +106,16 @@ Keystone
 
 The **Keystone** package highlights you as our main community partner:
 
-- Twenty (20) tickets_
-- Ten (10) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
-- A large description (750 characters) and logo of your company on the conference website
-- Large logo included in intermission slides and on talk videos
-- Name included in welcome announcement in email newsletters and social media
-- 5 minute sponsored lightning talk on main stage of the conference
-- Two newsletter sponsorships (logo & 300 characters) in our newsletter ({{ newsletter_subs }}+ subscribers)
-- A logo on all Write the Docs website pages until the end of 2023. (30,000 pageviews/mo)
-- A :doc:`small ad </sponsorship/website>` on the Write the Docs website (240x180px, 180 characters, 10,000 pageviews/mo) for 3 months
+- Fifteen (15) tickets_, with additional available to purchase at a discounted rate of $300/ticket.
+- Sponsorship of a primary Write the Docs conference event (Unconference, Writing Day). Logo on print material.
+- Large logo included in intermission slides and on talk videos.
+- Logo and long description (500 characters) on the conference website.
+- Logo in conference email promotion.
+- Display promotional “Swag” items on the conference swag table (provided by sponsor).
+- Dedicated social media post on LinkedIn and Twitter.
+- Three (3) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
+- One email promotion to our conference email list. Includes logo and 2 paragraphs of copy.
+- Slack Sponsorship promotion in Write the Docs Slack channel ahead of the conference.
 
 The **Keystone** package costs AUD **{{sponsorship.keystone.price}}**.
 
@@ -153,7 +153,7 @@ Please direct all inquiries to our sponsorship team at:
 Payment
 =======
 
-Invoices must be paid **within 30 days of invoice receipt**, or no later than one (1) week before the virtual conference.
+Invoices must be paid **within 30 days of invoice receipt**, or no later than two (2) weeks before the conference.
 
 .. _ticket: https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/
 .. _tickets: https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/

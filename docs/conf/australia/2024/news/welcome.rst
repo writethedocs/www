@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: May 10, 2024
+.. post:: May 15, 2024
    :tags: {{shortcode}}-{{year}}, website, tickets
 
 Announcing Write the Docs Australia {{year}}
@@ -12,29 +12,29 @@ our seventh conference.
 We're excited to announce the dates for our next conference:
 **Write the Docs Australia 2024 will be on November 28-29, in Melbourne**.
 
-Write the Docs Australia will be an in-person conference, similar to our pre-COVID conferences. 
-Speakers will be present in person and speaking from the conference stage.
+We are excited to welcome everyone to  a new (and bigger) venue in Melbourne for another year of great talks and community building.
 
 The conference will take place during day time in AEDT_.
 
 .. _AEDT: https://time.is/AEDT
 
-Our venue: Library at the Dock
---------------------------------
+Our venue: Melbourne City Conference Centre
+--------------------------------------------
 
-Our Australian conference will be held at `Library at the Dock`_. 
+Our Australian conference will be held at `Melbourne City Conference Centre`_. 
 It is a beautiful library space located alongside the Yarra river, at the Docklands precinct of Melbourne.
 
-.. image:: /_static/conf/images/pics/Lib-Dock.jpg
+.. image:: /_static/conf/images/pics/mccc.jpg
 
-Library at The Dock is Australia’s first 6 star Green Star rated public building and we will have access to these spaces:
+Melbourne City Conference Centre is a leading multi-venue meeting and conference centre in the heart of Melbourne's Central Business District (CBD). 
+We will have access to the following spaces during the conference:
 
-* The Performance space where we will be hosting our conference talks.
-* The Community Room which will host the unconference sessions, and where our snacks and drinks catering will happen.
+* The Auditorium where we will be hosting our conference talks.
+* The Price Hall which will host the unconference sessions, and where our snacks and drinks catering will happen.
 
-It also has *outdoor seating* and a *park* directly on the property for plenty of fresh air and free space.
+The venue is centrally located and well serviced by Melbourne's public transport system, including buses, trams, and a train station right next to the venue.
 
-.. _Library at the Dock: https://www.melbourne.vic.gov.au/community/hubs-bookable-spaces/the-dock/library-at-the-dock/Pages/library-at-the-dock.aspx
+.. _Melbourne City Conference Centre: https://melbourneccc.com.au/
 
 Call for Proposals
 ------------------
@@ -59,10 +59,9 @@ Sponsorship
 
 We are planning to do similar sponsorship levels again this year as last year.
 In addition to the regular sponsorship levels, we have additional ways to sponsor our online events.
-See our `sponsorship prospectus <https://www.writethedocs.org/conf/australia/2023/sponsors/prospectus/>`_ for all the options.
+See our `sponsorship prospectus <https://www.writethedocs.org/conf/australia/2024/sponsors/prospectus/>`_ for all the options.
 
-We're always open to customisations on our sponsorships, especially given the new online format.
-You can always reach us with ideas or questions at sponsorship@writethedocs.org.
+We're always open to customisations on our sponsorships, so freel free to reach out with ideas or questions at australia@writethedocs.org.
 
 Stay Updated
 ------------
