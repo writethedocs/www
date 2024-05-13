@@ -48,18 +48,18 @@ Link liberally to resources that you find useful, but make sure to provide appro
 For anyone new to GitHub and Git
 --------------------------------
 
-If you've never worked with Git and GitHub before, try these resources:
+If you've never worked with Git and GitHub before, this resource is great for getting started: `How to Contribute to an Open Source Project on GitHub <https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-github>`_.
 
-`How to Contribute to an Open Source Project on GitHub <https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-github>`_ is a great resource to help you get started.
+To suggest small changes, you can `submit issues <https://github.com/writethedocs/www/issues>`_ via the GitHub interface. 
 
-For small changes, you can submit issues, which you can do in the GitHub interface, but for anything larger you'll probably want to learn how to fork and branch, how to work locally (although you can do most things in the GitHub interface in your branch), and how to keep your fork in sync with the main repository.
+For large changes, you'll probably want to learn how to fork and branch, how to work locally (although you can do most things in the GitHub interface in your branch), and how to keep your fork in sync with the main repository.
 
 If you really don't want to deal with GitHub at all, we'll take attachments or inline text emailed to guide@writethedocs.org. But we'd like to encourage you to learn some of the basic tools that we use.
 
 Markup
 ------
 
-Some of the current files in the guide are written in Markdown, and some are written in reStructured Text (rST). Either one is acceptable, although we'd prefer rST.
+Some of the current files in the guide are written in `Markdown </guide/writing/markdown/>`_, and some are written in `reStructured Text (rST) </guide/writing/reStructuredText/>`_. Either one is acceptable, although we'd prefer rST.
 
 Community
 ----------------
