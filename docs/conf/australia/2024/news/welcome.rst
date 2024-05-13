@@ -19,10 +19,9 @@ The conference will take place during day time in AEDT_.
 .. _AEDT: https://time.is/AEDT
 
 Our venue: Melbourne City Conference Centre
---------------------------------------------
+---------------------------------------------
 
 Our Australian conference will be held at `Melbourne City Conference Centre`_. 
-It is a beautiful library space located alongside the Yarra river, at the Docklands precinct of Melbourne.
 
 .. image:: /_static/conf/images/pics/mccc.jpg
 
@@ -37,13 +36,13 @@ The venue is centrally located and well serviced by Melbourne's public transport
 .. _Melbourne City Conference Centre: https://melbourneccc.com.au/
 
 Call for Proposals
-------------------
+-------------------
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
 We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!
 
 We plan to launch our CFP early to mid June and have it last until sometime until mid-September.
-Start thinking about  ideas for your talk now. ;-)
+Get started coming up with ideas for the conference now.
 
 Tickets
 -------
