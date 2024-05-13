@@ -43,7 +43,7 @@ Every year, Write the Docs invites people from all across our community to come 
 We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!
 
 We plan to launch our CFP early to mid June and have it last until sometime until mid-September.
-Get started coming up with ideas for the conference now.
+Start thinking about  ideas for your talk now. ;-)
 
 Tickets
 -------
