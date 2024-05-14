@@ -110,7 +110,7 @@ date: # how do we handle these? human readable would be nice.
   # These are listed in the schedule
   day_one:
     event: Outing
-    date: On your own or community-sourced
+    date: Self-organized
     summary: If you are in town early, we encourage you to go exploring one of the most liveable cities in the world, Melbourne.
     icon: hike
     dotw: Wednesday
