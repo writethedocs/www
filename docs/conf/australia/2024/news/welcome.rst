@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: May 15, 2024
+.. post:: May 14, 2024
    :tags: {{shortcode}}-{{year}}, website, tickets
 
 Announcing Write the Docs Australia {{year}}
