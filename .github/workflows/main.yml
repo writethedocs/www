@@ -56,7 +56,7 @@ jobs:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         with:
           files: docs
-          vale_flags: "--config=vale/news.ini --glob='docs/conf/**/news/*'"
+          vale_flags: "--config=vale/news.ini --glob='docs/conf/*/*/news/*'"
           reporter: github-pr-check
           fail_on_error: true
           filter_mode: file
