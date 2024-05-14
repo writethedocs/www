@@ -59,7 +59,7 @@ jobs:
           vale_flags: "--config=vale/news.ini --glob='docs/conf/*/*/news/*'"
           reporter: github-pr-check
           fail_on_error: true
-          filter_mode: file
+          filter_mode: no_filter
           version: 3.4.2
 
   yaml-validate:
