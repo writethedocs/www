@@ -48,6 +48,19 @@ jobs:
           filter_mode: file
           version: 3.4.2
 
+      - name: Vale Conf news Linter
+        uses: errata-ai/vale-action@reviewdog
+        env:
+          # Required, set by GitHub actions automatically:
+          # https://docs.github.com/en/actions/security-guides/automatic-token-authentication#about-the-github_token-secret
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        with:
+          files: docs
+          vale_flags: "--config=vale/news.ini --glob=docs/conf/**/news/*"
+          reporter: github-pr-check
+          fail_on_error: true
+          filter_mode: file
+          version: 3.4.2
 
   yaml-validate:
     runs-on: ubuntu-latest
