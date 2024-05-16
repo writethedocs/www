@@ -176,7 +176,7 @@ sponsors:
 
 
 # Things that change over time, listed in order of change
-flagcfp: True
+flagcfp: False
 flaglanding: False
 flaghassponsors: False
 flagticketsonsale: True
