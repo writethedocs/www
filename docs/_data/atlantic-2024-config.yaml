@@ -29,10 +29,10 @@ buttons:
     #  link: /schedule
     - text: Tickets
       link: /tickets
-#    - text: Sponsor us
-#      link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
+    - text: Sponsor us
+      link: /sponsors/prospectus
+    #- text: Submit a Talk
+    #  link: /cfp
     #- text: See the talks!
     #  link: /speakers
     #- text: See the Schedule!
@@ -176,7 +176,7 @@ sponsors:
 
 
 # Things that change over time, listed in order of change
-flagcfp: True
+flagcfp: False
 flaglanding: False
 flaghassponsors: False
 flagticketsonsale: True
