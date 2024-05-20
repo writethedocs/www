@@ -43,8 +43,9 @@ def load_meetups_by_region():
             'organizers',
             'website',
             'twitter',
+            'meetup_alt',
         ]])
-        if 'meetup' not in meetup:
+        if 'meetup' not in meetup and 'meetup_alt' not in meetup:
             raise ExtensionError('Meetup missing `meetup` key: file={0}'.format(
                 yaml_file
             ))
