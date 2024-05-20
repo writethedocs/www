@@ -22,7 +22,7 @@ We have in-person and virtual conferences around the world:
 
    - :doc:`Portland 2024 </conf/portland/2024/index>`, **April 14-16, 2024**, Portland, Oregon, United States
    - :doc:`Atlantic 2024 </conf/atlantic/2024/index>`, **September 22-24**, Virtual - CEST and EDT
-   - **Australia 2024**, Dates and Venue TBD, AEDT timezone
+   - :doc:`Australia 2024 </conf/australia/2024/index>`, **November 28-29**, Melbourne, Australia
 
 See all :doc:`our conferences </conf/index>` from past years.
 
