@@ -195,7 +195,7 @@ Subject:
 
    We've got a [provisional schedule]({{cfp.preview}}) up, I've taken note of all of your requests, but I'd *love it* if you could check your time-slot and make sure it works for you.
 
-   We're keeping the Q&A sessions in our live envent. Questions submitted by the audience are moderated by the emcee, and asked in a conversation style directionly after your talk.
+   We're keeping the Q&A sessions in our live event. Questions submitted by the audience are moderated by the emcee, and asked in a conversation style directionly after your talk.
 
    You might find it useful to check out the [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) and the [what to expect guide](https://www.writethedocs.org/blog/what-to-expect-as-a-speaker/).
 
