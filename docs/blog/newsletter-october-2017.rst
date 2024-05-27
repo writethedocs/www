@@ -61,7 +61,7 @@ The ensuing conversation made it clear that whether you call it developer relati
 * The line between "evangelist" and "advocate" gets blurry. Often, though, the evangelist side is about bringing the product out to the community, while the advocate side focuses on bringing the community's voice back to the product team.
 * Although these roles may have gotten their start in the open source community, they're becoming increasingly common across the industry.
 
-For further reading on the topic, this Medium post has lots of good thoghts: `https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b <https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b>`_
+For further reading on the topic, this Medium post has lots of good thoughts: `https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b <https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b>`_
 
 *************************
 Upcoming community events
