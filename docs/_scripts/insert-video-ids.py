@@ -56,4 +56,4 @@ def find_most_similar_title(playlist_data, query_title):
 
 
 if __name__ == '__main__':
-    add_yt_ids('_data/portland-2023-sessions.yaml')
+    add_yt_ids('_data/portland-2024-sessions.yaml')
