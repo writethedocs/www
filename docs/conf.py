@@ -7,8 +7,6 @@ import sys
 import yaml
 import ablog
 
-import subprocess
-
 # Only for windows compatibility - Forces default encoding to UTF8, which it may not be on windows
 if os.name == 'nt':
     reload(sys)
@@ -186,10 +184,6 @@ html_context = {
 if build_videos:
 
     html_context.update(videos.main())
-
-    # Fix legacy stuff
-    subprocess.run(['git', 'checkout', '--', 'videos/portland/2019/documentation-for-good-riona-macnamara.rst'])
-    subprocess.run(['rm', 'videos/prague/2018/tackling-technical-debt-in-the-docs-louise-fahey.rst'])
 
 notfound_no_urls_prefix = True
 
