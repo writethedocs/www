@@ -134,11 +134,12 @@ def main():
                 fp.write(generate_video_listing(year, region))
 
             for idx, speaker in enumerate(data['speakers']):
-                video_slug = generate_video_slug(speaker)
-                video_path = os.path.join(index_path, video_slug)
-                video_content = generate_video_content(speaker, year, region, idx)
-                with io.open(video_path + '.rst', 'w+') as fp:
-                    fp.write(video_content)
+                if year > 2023:
+                    video_slug = generate_video_slug(speaker)
+                    video_path = os.path.join(index_path, video_slug)
+                    video_content = generate_video_content(speaker, year, region, idx)
+                    with io.open(video_path + '.rst', 'w+') as fp:
+                        fp.write(video_content)
 
     return {
         'conf_py_root': os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
