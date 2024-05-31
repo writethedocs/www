@@ -28,6 +28,7 @@ exclude_patterns = [
     'include',
     #'_data',
     'node_modules',
+    'videos/prague/2018/tackling-technical-debt-in-the-docs-louise-fahey.rst',
 ]
 
 html4_writer = True
