@@ -250,7 +250,6 @@ Legacy docs
 - |:movie_camera:| `Legacy content from various perspectives </videos/australia/2020/legacy-content-from-various-perspectives-marcelina-haftka/>`__
 - |:movie_camera:| `When Agile Fails: Working on Large Documentation Projects </videos/australia/2020/when-agile-fails-working-on-large-documentation-projects-lana-brindley/>`__
 - |:movie_camera:| `How to tear down existing documentation and rewrite docs that actually work </videos/prague/2018/how-to-tear-down-existing-documentation-and-rewrite-docs-that-actually-work-alexandra-white/>`__
-- |:movie_camera:| `Tackling technical debt in the docs </videos/prague/2018/tackling-technical-debt-in-the-docs-louise-fahey/>`__
 - |:movie_camera:| `Where do I start? The art and practice of documentation triage </videos/portland/2018/where-do-i-start-the-art-and-practice-of-documentation-triage-neal-kaplan/>`__
 - |:movie_camera:| `Rewrite the Docs!: Field Notes from the Radical IT department </videos/portland/2018/rewrite-the-docs-field-notes-from-the-radical-it-department-camille-acey/>`__
 - |:movie_camera:| `Deprecate and destroy: documenting your software’s last days </videos/eu/2017/deprecate-and-destroy-documenting-your-software-s-last-days-daniel-d-beck/>`__
