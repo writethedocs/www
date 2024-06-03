@@ -72,7 +72,7 @@ buttons:
 
 tickets:
   corporate:
-    price: $300
+    price: $350
   independent:
     price: $250
   student:
@@ -148,9 +148,9 @@ about:
   job_fair_room: "Sponsor area"
 
 cfp:
-  url: https://pretalx.com/wtd-australia-2023/cfp # Open July 15, 2023, 8 weeks to submit
-  ends: "September 22, 2023"           # 2 weeks to review and get confirmations
-  notification: "September 30, 2023"   # 8 weeks to write and prepare
+  url: https://pretalx.com/wtd-australia-2024/cfp # Open June 17, 2024, 10 weeks to submit
+  ends: "August 30, 2023"              # 2 weeks to review and get confirmations
+  notification: "September 13, 2023"   # 10 weeks to write and prepare
   slides_by: "December 01, 2023"       # 1 week before
   preview: "TODO"                      # Preview URL TODO
 
@@ -160,9 +160,9 @@ unconf:
 
 
 grants:
-  url: https://forms.gle/Pi7zm72XPjebNzS16
-  ends: "October 15, 2023"
-  notification: "October 31, 2023"
+  url: https://forms.gle/va1aFysrH3N83jGk9
+  ends: "October 4, 2024"
+  notification: "October 11, 2024"
 
 
 sponsors:
@@ -186,10 +186,10 @@ sponsors:
       brand: Read the Docs
 
 # Things that change over time, listed in order of change
-flaglanding: True
+flaglanding: False
 flaghassponsors: False
-flagcfp: False
-flagticketsonsale: False
+flagcfp: True
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False
