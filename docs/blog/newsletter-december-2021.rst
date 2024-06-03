@@ -8,7 +8,7 @@ Write the Docs Newsletter – December 2021
 
 Hey everyone, 
 
-The year is drawing to a close - thank goodness, if you ask me - and we’re back with the very last edtion of the newsletter for 2021. It’s been a _complicated_ year but not without its highlights - our second year of virtual conferences plus the just-wrapped-up Australia super-meetup. Thanks for being such a great community through it all 💖
+The year is drawing to a close - thank goodness, if you ask me - and we’re back with the very last edition of the newsletter for 2021. It’s been a _complicated_ year but not without its highlights - our second year of virtual conferences plus the just-wrapped-up Australia super-meetup. Thanks for being such a great community through it all 💖
 
 One last call for folks who haven’t yet filled out the `Salary Survey <https://salary-survey.writethedocs.org/>`__. We’d love it if you would consider contributing the details of your compensation. It’s all anonymous and the anonymised results are released for free, so everyone in the community can benefit. `Fill it out here <https://salary-survey.writethedocs.org/>`__.
 

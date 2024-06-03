@@ -97,7 +97,7 @@ Don't tell us why you hate something – tell us how you overcame the problems i
 We tend to avoid talks about specific tools, which often turn into marketing pitches or tutorials.
 We would much rather hear about process, culture, data, people, or the metaphysical side effects of spending your life thinking about docs.
 
-**Benfit to the community**
+**Benefit to the community**
 
 How does your talk help improve the quality of documentation everywhere. Are you trying a new approach? Are you solving a known problem? Have you done the research into how folks have tried to solve your issue before?
 
