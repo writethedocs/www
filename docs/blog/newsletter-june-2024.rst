@@ -19,7 +19,7 @@ This month's newsletter offers ideas about how to demonstrate the value of what 
 Demonstrate value from docs
 ---------------------------
 
-How do documentarians justify their salaries (and promotions or salary increases)? Do individual documentarians perceive the value that their employers gain from their work? The value of documentation and your role in producing good documentation are actually wide ranging. To justify your employment, you may have to quantify some aspects of your role.
+How do documentarians justify their salaries (and promotions or salary increases)? Do individual documentarians perceive the value that their employers gain from their work? The value of documentation and your role in producing good documentation are actually wide-ranging. To justify your employment, you may have to quantify some aspects of your role.
 
 +++++++
 Support
