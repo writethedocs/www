@@ -43,7 +43,7 @@ Sales and marketing
 Developers and engineers
 ++++++++++++++++++++++++
 
-- Improves developer productivity. A `GitHub Octoverse report <https://octoverse.github.com/2021/creating-documentation/>`_ from 2021 claimed good documentation boosts developer productivity by 50%. May be particularly when documenting APIs or SDKs.
+- Improves developer productivity. A `GitHub Octoverse report <https://octoverse.github.com/2021/creating-documentation/>`_ from 2021 claimed good documentation boosts developer productivity by 50%. This may be particularly true when documenting APIs or SDKs.
 - Provides a different perspective. During SME interviews, when explaining the product and its features, engineers may discover design flaws, uncover unexpected edge cases, observe inefficiencies, and so on.
 
 ++++++++++++
@@ -63,7 +63,7 @@ Joining a team of documentarians after working as a lone writer can be quite an 
 
 At the same time, you'll have to let go of some independence and share responsibility. You probably won't get to choose the toolchain, and you'll have to follow processes and style guides that reflect more than just your perspective. If the team is comfortable with the processes and tools they're using, it can be difficult to make improvements even if something isn't working well. You may not get every project you want when the work is distributed among several writers. You may be frustrated when quality differs among writers. Also, some writers on docs teams feel more exposed to layoffs since there are others on the team who do the same kind of work.
 
-When you're the new writer on a docs team after working solo, it's important to be patient and assume good faith. Be kind to those with less seniority, take a servant leader approach when needed, and try to remember that you have plenty to learn. For more tips based on this discussion, read `Things I remind myself when working with others <https://passo.uno/tips-working-tech-writers-team/>`__ by Fabrizio Ferri Benedetti.
+When you're the new writer on a docs team after working solo, it's important to be patient and assume good faith. Be kind to those with less seniority, take a servant-leader approach when needed, and try to remember that you have plenty to learn. For more tips based on this discussion, read `Things I remind myself when working with others <https://passo.uno/tips-working-tech-writers-team/>`__ by Fabrizio Ferri Benedetti.
 
 ----------------------------
 Title case vs. sentence case
@@ -77,7 +77,7 @@ Sentence case is often favored for simplicity and accessibility, especially for 
 
 On the other hand, some agreed on the value of title case for its potential to add clarity and emphasis. If the decisions are being made by professional writers, casing should not be too difficult. There are tools (such as `Capitalize My Title <https://capitalizemytitle.com/>`__) that can help even non-professionals adapt to a standard.
 
-When choosing between a title and sentence case, it's crucial to consider our audience's needs and the text's context. As one member said, "It's the job of the formatting and layout to clearly distinguish headings from body text." This approach ensures that our design decisions are driven by user requirements.
+When choosing between title and sentence case, it's crucial to consider our audience's needs and the text's context. As one member said, "It's the job of the formatting and layout to clearly distinguish headings from body text." This approach ensures that our design decisions are driven by user requirements.
 
 The debate continues, but the main principle remains: choose a style, document it in your style guide, and apply it consistently. This approach enhances clarity and supports a seamless, accessible user experience.
 
