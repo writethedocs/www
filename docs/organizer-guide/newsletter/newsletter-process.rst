@@ -69,25 +69,25 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
 
 
    ------------------
-   TTILE OF ARTICLE 1
+   TITLE OF ARTICLE 1
    ------------------
 
    CONTENT.
 
    ------------------
-   TTILE OF ARTICLE 2
+   TITLE OF ARTICLE 2
    ------------------
 
    CONTENT.
 
    ------------------
-   TTILE OF ARTICLE 3
+   TITLE OF ARTICLE 3
    ------------------
 
    CONTENT.
 
    ------------------
-   TTILE OF ARTICLE 4
+   TITLE OF ARTICLE 4
    ------------------
 
    CONTENT.
