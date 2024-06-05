@@ -10,8 +10,8 @@ Identify the page you want to edit
    https://www.writethedocs.org/documentarians/ is produced by
    ``/docs/documentarians.rst``. (You’ll need this filename later for
    making changes on your local copy.)
-3. This is a ReStructuredText (.rst) file, so you may want to review the
-   `RST documentation`_. Other common markup formats are Markdown (.md)
+3. This is a reStructuredText (.rst) file, so you may want to review an
+   `RST primer`_. Other common markup formats are Markdown (.md)
    and AsciiDoc (.adoc).
 
 Prerequisites
@@ -127,7 +127,7 @@ Start using Git and modify the source file of a page
 
 
 .. _existing issue: https://github.com/writethedocs/www/issues
-.. _RST documentation: https://docutils.readthedocs.io/en/sphinx-docs/user/rst/quickstart.html
+.. _RST primer: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
 .. _Create a GitHub account: https://github.com/join
 .. _Download and install Git: https://git-scm.com/downloads
 .. _associate your GitHub username with your local Git installation: https://help.github.com/en/articles/setting-your-username-in-git
@@ -136,4 +136,3 @@ Start using Git and modify the source file of a page
 .. _Visual Studio Code: https://code.visualstudio.com/
 .. _write a good commit message: https://chris.beams.io/posts/git-commit/
 .. _GitHub pull request: https://help.github.com/en/articles/creating-a-pull-request
-.. _Write the Docs www project: https://github.com/writethedocs/www
