@@ -127,7 +127,7 @@ Zoomin's 2024 Technical Content Benchmark report analyzes content interactions o
 Featured job posts
 ------------------
 
-- `Technical Writer for data labelling of hardware documentation <Technical Writer for data labelling of hardware documentation>`__, Contextual AI (Remote)
+- `Technical Writer for data labelling of hardware documentation <https://jobs.writethedocs.org/job/3251/technical-writer-for-data-labelling-of-hardware-documentation/>`__, Contextual AI (Remote)
 
 *To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
