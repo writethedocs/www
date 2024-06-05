@@ -126,6 +126,10 @@
     slug: gayathri-krishnaswamy
     twitter: 
     website: 
+  - name: Annette Williams
+    slug: annette-williams
+    twitter: 
+    website: 
   abstract: '<p>A documentation plan outlines an approach for creating, organizing,
     and maintaining documentation for a software product. It serves as a blueprint
     for the documentation process, detailing the scope, content types, user journeys,
@@ -287,6 +291,10 @@
   speakers:
   - name: Diana Breza
     slug: diana-breza
+    twitter: 
+    website: 
+  - name: Lena Larionova
+    slug: lena-larionova
     twitter: 
     website: 
   abstract: '<p>Documentarian. Tooling guru. Website maintainer. Graphic designer.
