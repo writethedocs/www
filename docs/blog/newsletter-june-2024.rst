@@ -9,7 +9,7 @@ Write the Docs Newsletter – June 2024
 
 Howdy, documentarians. Maybe it's the ups and downs of the weather (from scorching hot to soaking wet), maybe it's all the reports of AI coming for jobs, but it seems everything is in flux these days. It's important to me to see the way documentarians support each other through these shifts. Maybe the only thing permanent these days is change. That and another monthly newsletter packed full of insights from our `Slack community </slack/>`__.
 
-If you're interested what's been happening recently in the community, check out the `Q2 Community Board quarterly update </blog/2024-Q2-community-board/>`__. We also saw the first large `gathering of the Write the Docs community in Kenya <https://wtdkenya.hashnode.dev/write-the-docs-kenya-summit-2024>`__.
+If you're interested in what's been happening recently in the community, check out the `Q2 Community Board quarterly update </blog/2024-Q2-community-board/>`__. We also saw the first large `gathering of the Write the Docs community in Kenya <https://wtdkenya.hashnode.dev/write-the-docs-kenya-summit-2024>`__.
 
 And coming up in the future, we have the Atlantic 2024 conference. Speakers will be announced any day now, so `follow the website </conf/atlantic/2024/>`__ and be sure to `grab a ticket </conf/atlantic/2024/tickets/>`__ to see the talks.
 
@@ -35,7 +35,7 @@ Sales and marketing
 +++++++++++++++++++
 
 - Turns online browsing into actual sales. When evaluating competitive products, potential users can browse and make decisions based on publicly available documentation. 
-- Provides sales resources to help drive sales by answering questions about features and how to use the product. This can lower customer acquisition cost.
+- Helps drive sales by answering questions about features and how to use the product. This can lower customer acquisition cost.
 - Enhances branding and the company’s reputation. Consistent application of company style guides along with voice and tone presents a good face for the company. 
 - Retains existing customers and reduces customer turnover.
 
