@@ -20,8 +20,8 @@ buttons:
   top:
   #   - text: Read our latest news
   #     link: /news/welcome
-     - text: Sponsor us
-       link: /sponsors/prospectus
+    - text: Sponsor us
+      link: /sponsors/prospectus
     - text: Submit a Talk
       link: /cfp
   #   - text: Date and ticket information
@@ -45,12 +45,12 @@ buttons:
   #  - text: Thanks for coming
   #    link: /news/thanks-recap
   bottom:
-     - text: Welcome to our conference
-       link: /news/welcome
+    - text: Welcome to our conference
+      link: /news/welcome
   #   - text: Sponsor the conference
   #     link: /sponsors/prospectus
-     - text: Submit a Talk
-       link: /cfp
+    - text: Submit a Talk
+      link: /cfp
   #   - text: See the Schedule!
   #     link: /schedule
   #   - text: Date and ticket information
