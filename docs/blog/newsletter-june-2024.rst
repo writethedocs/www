@@ -21,34 +21,34 @@ Demonstrate value from docs
 
 How do documentarians justify their salaries (and promotions or salary increases)? Do individual documentarians perceive the value that their employers gain from their work? The value of documentation and your role in producing good documentation are actually wide-ranging. To justify your employment, you may have to quantify some aspects of your role.
 
-+++++++
+^^^^^^^
 Support
-+++++++
+^^^^^^^
 
 - Assists users with setting up, learning, and troubleshooting a product. Saves support personnel from dealing with unnecessary support calls.
 - Contributes to the support team by helping support personnel do their work and eliminating duplicate work. 
 
 One resource for ideas about adding value to your documentation is Kathy Sierra's book `Badass: Making Users Awesome <https://www.oreilly.com/library/view/badass-making-users/9781491919057/>`__, which discusses helping your customers use your product.
 
-+++++++++++++++++++
+^^^^^^^^^^^^^^^^^^^
 Sales and marketing
-+++++++++++++++++++
+^^^^^^^^^^^^^^^^^^^
 
 - Turns online browsing into actual sales. When evaluating competitive products, potential users can browse and make decisions based on publicly available documentation. 
 - Helps drive sales by answering questions about features and how to use the product. This can lower customer acquisition cost.
 - Enhances branding and the company’s reputation. Consistent application of company style guides along with voice and tone presents a good face for the company. 
 - Retains existing customers and reduces customer turnover.
 
-++++++++++++++++++++++++
+^^^^^^^^^^^^^^^^^^^^^^^^
 Developers and engineers
-++++++++++++++++++++++++
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Improves developer productivity. A `GitHub Octoverse report <https://octoverse.github.com/2021/creating-documentation/>`_ from 2021 claimed good documentation boosts developer productivity by 50%. This may be particularly true when documenting APIs or SDKs.
 - Provides a different perspective. During SME interviews, when explaining the product and its features, engineers may discover design flaws, uncover unexpected edge cases, observe inefficiencies, and so on.
 
-++++++++++++
+^^^^^^^^^^^^
 Company wide
-++++++++++++
+^^^^^^^^^^^^
 
 - Helps onboard new hires who need to learn about the company’s products.
 - Encourages existing employees to learn, relearn, or become experts in the company’s products.
@@ -69,15 +69,15 @@ When you're the new writer on a docs team after working solo, it's important to 
 Title case vs. sentence case
 ----------------------------
 
-The ongoing debate between title case and sentence case for headers, labels, and buttons in UI design is not just a theoretical discussion. It's a practical consideration that directly impacts the user experience. The key to a smart decision lies in consistency and accessibility, rather than the inherent superiority of one style over the other.
+The ongoing debate between title case and sentence case for headers, labels, and buttons in UI design is not just a theoretical discussion. It's a practical consideration that directly affects the user experience. The key to a smart decision lies in consistency and accessibility, rather than the inherent superiority of one style over the other.
 
 One person in a recent discussion emphasized the importance of consistency: "Pick one, stick it in your style guide, then ruthlessly follow whatever you decide." Others echoed this, stressing the need for a documented and standardized approach.
 
-Sentence case is often favored for simplicity and accessibility, especially for non-professional writers, a practical consideration in workplaces where technical writers are scarce. Another person argued against title case, highlighting the complexity: "Title case rules in English vary wildly." Sentence case, being simpler, reduces editorial workload and aids translators.
+Sentence case is often favored for simplicity and accessibility, especially for non-professional writers, which is a practical consideration in workplaces where technical writers are scarce. Another person argued against title case, highlighting the complexity: "Title case rules in English vary wildly." Sentence case, being simpler, reduces editorial workload and aids translators.
 
 On the other hand, some agreed on the value of title case for its potential to add clarity and emphasis. If the decisions are being made by professional writers, casing should not be too difficult. There are tools (such as `Capitalize My Title <https://capitalizemytitle.com/>`__) that can help even non-professionals adapt to a standard.
 
-When choosing between title and sentence case, it's crucial to consider our audience's needs and the text's context. As one member said, "It's the job of the formatting and layout to clearly distinguish headings from body text." This approach ensures that our design decisions are driven by user requirements.
+When choosing between title and sentence case, it's crucial to consider audience needs and the context. As one member said, "It's the job of the formatting and layout to clearly distinguish headings from body text." This approach ensures that our design decisions are driven by user requirements.
 
 The debate continues, but the main principle remains: choose a style, document it in your style guide, and apply it consistently. This approach enhances clarity and supports a seamless, accessible user experience.
 
@@ -87,13 +87,13 @@ Search platform tips for documentation websites
 
 With Algolia/DocSearch holding a top spot among documentation search platforms, writers shared their alternative preferred search platforms in a recent community discussion. Popular alternate choices included Inkeep, Typesense, Meilisearch, Scroll Viewport, lunr.js, and Pagefind.
 
-One writer detailed their approach to optimizing content with AI by asking AI to list how human and non-human readers might misinterpret the content and describe what a user might be doing that led them to the document. Another contributor highlighted the efficiency of Pagefind while acknowledging the complexity of customizing its UI.
+One writer detailed their approach to optimizing content with AI. They asked AI to list how human and non-human readers might misinterpret the content and describe what a user might be doing that led them to the document. Another contributor highlighted the efficiency of Pagefind while acknowledging the complexity of customizing its UI.
 
 A key, unanimous takeaway was the critical role of well-maintained, clear, and current content in achieving effective search results. The discussion underscored the importance of ongoing content optimization and SEO to ensure users find relevant information quickly and accurately.
 
 Additionally, accommodating various search terminologies, including outdated or industry-specific jargon, was seen as a way to improve the user search experience. However, the discussion suggested using balance, avoiding keyword stuffing, and using care when mixing terms in the documentation.
 
-Accommodation strategies included pinning search terms to documentation and creating term aliases. It was mentioned how platforms like Inkeep allow you to add a Q&A with an uncommon term in the question and provide an answer so search results are returned for uncommon search terms.
+Accommodation strategies included pinning search terms to documentation and creating term aliases. With some platforms, such as Inkeep, to provide an answer for uncommon search terms, you can add a Q&A with the uncommon term in the question and provide an answer.
 
 ----------------
 From our sponsor
