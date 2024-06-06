@@ -1,17 +1,18 @@
 name: Australia
 
-shortcode: australia # prague australia?
+shortcode: australia
 year: 2024
 city: Melbourne
 local_area: Australia
 area: Australia
 area_adj: Australian
 tz: AEDT
+tz_header: AEDT
 email: australia@writethedocs.org
 color: blue
 rgb: 74, 193, 224
 hex: 4AC1E0
-time_format: 12h
+time_format: 24h
 
 photos:
   default: _static/conf/images/headers/atlantic-group.png
@@ -100,18 +101,25 @@ date: # how do we handle these? human readable would be nice.
   tickets_live: "June 2024"
   month: November
 
-#    summary: The main days of the conference. We will be running one main track, and an Unconference.
+# Conference is special for the index to show the combined conference days
+  conference:
+    event: Conference Day 2
+    date: November 29
+    summary: The second main day of the conference. Listen to a diverse panel of speakers share their insights and experience.
+    icon: conference
+
+# summary: The main days of the conference. We will be running one main track, and an Unconference.
   # These are listed in the schedule
   day_one:
-    event: Outing
-    date: Self-organized
+    event: Outing, Self-organized
+    date: November 27
     summary: If you are in town early, we encourage you to go exploring one of the most liveable cities in the world, Melbourne.
     icon: hike
     dotw: Wednesday
   day_two:
     event: Conference Day 1
     date: November 28
-    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
+    summary: Day 1 of the event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Thursday
     talk_time: 09:30-16:30
     unconference_time: 11:00-15:00
@@ -125,7 +133,7 @@ date: # how do we handle these? human readable would be nice.
     talk_time: 09:30-16:00
     unconference_time: 11:00-15:00
     icon: conversation
-  total_talk_days: 2
+  total_talk_days: 3
 
 about:
   attendees: 100
@@ -134,10 +142,10 @@ about:
     During the main event we also run an :doc:`/conf/australia/2024/unconference`."
 
   social_venue: TBA
-  venue: TBA
+  venue: Auditorium
   photos: TBD
   mainroom: TBA
-  unconfroom: TBA
+  unconfroom: Price Hall
   projector_ratio: "16:9"
   job_fair_room: "Sponsor area"
 
