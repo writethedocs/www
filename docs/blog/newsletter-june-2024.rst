@@ -1,6 +1,6 @@
 :og:image: https://www.writethedocs.org/_static/logo-opengraph.png
 
-.. post:: June 05, 2024
+.. post:: June 06, 2024
   :tags: newsletter
 
 #########################################
