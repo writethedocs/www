@@ -19,7 +19,7 @@ Each individual who volunteers for two or more 3-4 hour shifts receives a **free
 -   Oct 15: Volunteer sign-up form emailed with specific timed shifts
 -   Nov 15: Volunteer schedule emailed
 
-**[Sign up today! View the Volunteer Application form for more information.](https://docs.google.com/forms/d/e/1FAIpQLSfvU7kB_miEAPmHKiIynJ1fh7zsUEpgM2Xsya6Bm20olo3mYw/viewform?usp=sf_link)**
+**[Sign up today! View the Volunteer Application form for more information.](https://forms.gle/1bm2T7HtU3pbWJqM9)**
 
 ![Volunteer photo](/_static/img/2024/volunteer.jpg)
 
