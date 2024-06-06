@@ -11,7 +11,7 @@ Howdy, documentarians. Maybe it's the ups and downs of the weather (from scorchi
 
 If you're interested in what's been happening recently in the community, check out the `Q2 Community Board quarterly update </blog/2024-Q2-community-board/>`__. We also saw the first large `gathering of the Write the Docs community in Kenya <https://wtdkenya.hashnode.dev/write-the-docs-kenya-summit-2024>`__.
 
-And coming up in the future, we have the Atlantic 2024 conference. Speakers will be announced any day now, so `follow the website </conf/atlantic/2024/>`__ and be sure to `grab a ticket </conf/atlantic/2024/tickets/>`__ to see the talks.
+And coming up in the future, we have the Atlantic 2024 conference. Check out the `speaker announcement </conf/atlantic/2024/news/announcing-speakers/>`__ to see the interesting talks that await you and be sure to `grab a ticket </conf/atlantic/2024/tickets/>`__.
 
 This month's newsletter offers ideas about how to demonstrate the value of what you do, tips on transitioning from working alone to being on a team, a resurrection of the old debate about using sentence or title case, and tips on optimizing the search on your docs website.
 
