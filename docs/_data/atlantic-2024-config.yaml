@@ -167,6 +167,11 @@ lightning_talks:
 sponsors:
   keystone:
   patron:
+    - name: gitbook
+      link: https://www.gitbook.com/?ref=writethedocs
+      brand: GitBook
+      text: "GitBook combines powerful docs with AI-powered search and insights to give technical teams a single source of truth for their knowledge. 
+             Effortlessly create, surface and improve public and internal documentation that your users and teams will love. "
   publisher:
  #   - name: mongodb-new
  #     link: https://www.mongodb.com/?ref=writethedocs
