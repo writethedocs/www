@@ -20,10 +20,10 @@ buttons:
   top:
   #   - text: Read our latest news
   #     link: /news/welcome
-  #   - text: Sponsor us
-  #     link: /sponsors/prospectus
-  #  - text: Submit a Talk
-  #    link: /cfp
+     - text: Sponsor us
+       link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp
   #   - text: Date and ticket information
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: Read our conference guide
@@ -45,12 +45,12 @@ buttons:
   #  - text: Thanks for coming
   #    link: /news/thanks-recap
   bottom:
-  #   - text: Welcome to our conference
-  #     link: /news/welcome
+     - text: Welcome to our conference
+       link: /news/welcome
   #   - text: Sponsor the conference
   #     link: /sponsors/prospectus
-  #   - text: Submit a Talk
-  #     link: /cfp
+     - text: Submit a Talk
+       link: /cfp
   #   - text: See the Schedule!
   #     link: /schedule
   #   - text: Date and ticket information
@@ -187,7 +187,7 @@ sponsors:
 
 # Things that change over time, listed in order of change
 flaglanding: False
-flaghassponsors: False
+flaghassponsors: True
 flagcfp: True
 flagticketsonsale: True
 flagsoldout: False
