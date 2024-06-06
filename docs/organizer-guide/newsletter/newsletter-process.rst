@@ -69,31 +69,31 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
 
 
    ------------------
-   TTILE OF ARTICLE 1
+   TITLE OF ARTICLE 1
    ------------------
 
    CONTENT.
 
    ------------------
-   TTILE OF ARTICLE 2
+   TITLE OF ARTICLE 2
    ------------------
 
    CONTENT.
 
    ------------------
-   TTILE OF ARTICLE 3
+   TITLE OF ARTICLE 3
    ------------------
 
    CONTENT.
 
    ------------------
-   TTILE OF ARTICLE 4
+   TITLE OF ARTICLE 4
    ------------------
 
    CONTENT.
 
    ----------------
-   From Our Sponsor
+   From our sponsor
    ----------------
 
    This month’s newsletter is sponsored by SPONSOR:
@@ -122,7 +122,7 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
    *Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
 
    ------------------
-   Featured Job Posts
+   Featured job posts
    ------------------
 
    - `TITLE <https://jobs.writethedocs.org/LINK>`__, COMPANY (LOCATION)
@@ -130,7 +130,7 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
    *To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
    ----------------
-   Events Coming Up
+   Events coming up
    ----------------
 
    - 00 MONTH, TIME ZONE (location) - `TITLE <https://www.meetup.com/LINK>`__

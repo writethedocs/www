@@ -127,4 +127,4 @@ Virtual events coming up
 
 - 07 December, 08:30 EST (Florida, US) - `Morning social <https://www.meetup.com/write-the-docs-florida/events/280769273>`__
 - 09 December, 19:00 CET (Barcelona, Spain) - `Working remotely from your team <https://www.meetup.com/Write-the-Docs-Barcelona/events/282186027>`__
-- 14 December, 08:00 PST (Seattle, US) - `WtD Seattle: Casual Caffeine Hour <https://www.meetup.com/Write-The-Docs-Seattle/events/282133165>`__
+- 14 December, 08:00 PST (Seattle, US) - `WTD Seattle: Casual Caffeine Hour <https://www.meetup.com/Write-The-Docs-Seattle/events/282133165>`__
