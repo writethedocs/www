@@ -47,7 +47,7 @@ If you drive to the conference, note that the venue does not have parking on-sit
 
 ## Hotels and Transportation
 
--   The conference is located in Melbourne Central Business District (CBD). There are many hotel options within a 5-10 minute drive, some of these are walking distance from the venue. View our [Visting Melbourne](https://www.writethedocs.org/conf/australia/2024/visiting/#where-to-stay) page for recommended hotels.
+-   The conference is located in Melbourne Central Business District (CBD). There are many hotel options within a 5-10 minute drive, some of these are walking distance from the venue. View our [Visiting Melbourne](https://www.writethedocs.org/conf/australia/2024/visiting/#where-to-stay) page for recommended hotels.
 -   Melbourne is an accessible city and there are many transportation options available including buses, trams, rideshare, and taxis. View our [Visiting Melbourne](https://www.writethedocs.org/conf/australia/2024/visiting/#getting-around) for information.
 
 ## Accessibility
