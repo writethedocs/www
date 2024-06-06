@@ -14,7 +14,7 @@ Full speaker line-up
 --------------------
 
 Every year, we look to bring a wide range of voices to the Write the Docs stage. 
-Because the role of "documentarian" looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure.
+Because the role of "documentarian" looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – as well as some that cater to experts in the field and some that cater to beginners.
 We hope you're as excited about our program as we are!
 
 .. datatemplate::
@@ -29,7 +29,7 @@ Tickets are going fast!
 
 If you don't have your ticket yet, now's a great time to snap one up. Conference tickets have sold out for the last several years, and they go faster along with the speaker announcement, so if you're planning to come, don't leave it to the last minute.
 
-We will close registrations around one week before the conference, to give folks enough time to set up their Hopin credentials.
+We will close registrations around one week before the conference, to give folks enough time to set up their conference platform (TBD) credentials.
 
 `Buy your tickets here! <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_
 
@@ -46,9 +46,7 @@ Thanks to our sponsors
 
 We are so grateful to have our sponsors help in bringing our events to life every year.
 
-Head over to our `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ for details on how your company can get involved!
-
-We have several types of sponsorship available, including tables at the job fair that we'll be hosting on Tuesday.
+Head over to our `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ for details on how your company can get involved! We have several types of sponsorship available.
 
 Stay tuned for more details in the next week about the schedule and other activities.
 We hope you're all getting as excited as we are! 
