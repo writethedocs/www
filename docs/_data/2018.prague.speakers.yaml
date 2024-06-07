@@ -88,7 +88,6 @@
     website: ''
   title: Tackling technical debt in the docs
   year: '2018'
-  youtubeId: AxETZU7sFvQ
 - abstract: "<p>A year ago (or so) BuzzFeed realized we had a documentation problem.\
     \ Our docs were kept in numerous places, from Google Drive to Wikis to Github\
     \ folders to...places we may not even have found yet! In response we started a\

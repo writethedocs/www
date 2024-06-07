@@ -1,8 +1,11 @@
 """
 
+
+
 1. Install yt-dlp
-2. yt-dlp --print "%(id)s,%(title)s" https://www.youtube.com/playlist?list=PLZAeFn6dfHpneQPsDWa4OmEpgW4pNiaZ2  > docs/_scripts/playlist.txt
-3. Edit `__main__` and run
+2. Pip install Levenshtein
+2. yt-dlp --print "%(id)s,%(title)s" --no-abort-on-error --flat-playlist https://www.youtube.com/playlist?list=PLZAeFn6dfHpm4FboYSTD1Bs8Yp8k_JvAL
+3. Edit `__main__` and run `python _scripts/insert-video-ids.py`
 4. Commit `_data/`  with new added video ids
 
 """
@@ -56,4 +59,4 @@ def find_most_similar_title(playlist_data, query_title):
 
 
 if __name__ == '__main__':
-    add_yt_ids('_data/portland-2023-sessions.yaml')
+    add_yt_ids('_data/portland-2024-sessions.yaml')
