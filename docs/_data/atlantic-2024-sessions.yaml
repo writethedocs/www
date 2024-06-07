@@ -1,0 +1,427 @@
+- title: How and Why Technical Writers should Lead Onboarding
+  slug: how-and-why-technical-writers-should-lead-onboarding-gideon-behrensmeyer
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2024
+  speakers:
+  - name: Gideon Behrensmeyer
+    slug: gideon-behrensmeyer
+    twitter: 
+    website: 
+  abstract: '<p>In this talk, I want to share with you my thoughts on how and why
+    technical writers should drive the onboarding process in their company. In my
+    role as Head of Documentation and Training, I realized that we had a problem with
+    onboarding. Customers were taking too long to onboard and at the end of it, they
+    didn’t really know how to use the product. After analyzing our customer onboarding
+    sessions, I realized that much of the flow could be automated into content that
+    turned the customer onboarding experience from a Support Agent-led experience
+    to a self-service experience.</p>
+
+    <p>In this presentation, I will share with you my process for identifying information
+    that can be converted into content to create a self-service onboard process for
+    your customers. Through this process, we were able to reduce the amount of time
+    it took to onboard customers and our users were able to achieve more at the end
+    of their onboarding while using fewer resources.  </p>
+
+    <p>The goal of this talk is to help you:</p>
+
+    <ul>
+
+    <li>Onboard your customers faster with content</li>
+
+    <li>Reduce the effort it takes to onboard</li>
+
+    <li>Convert more users into champions</li>
+
+    </ul>'
+- title: 'Clicks Without Limits: Content Design for Everyone, Everywhere'
+  slug: clicks-without-limits-content-design-for-everyone-everywhere-eric-zrinsky
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2024
+  speakers:
+  - name: Eric Zrinsky
+    slug: eric-zrinsky
+    twitter: 
+    website: 
+  abstract: '<p>In this talk, titled "<strong>Clicks Without Limits: Content Design
+    for Everyone, Everywhere</strong>," we explore the transformative power of accessibility
+    in documentation. As technical writers, technologists, and people managers at
+    AVEVA, we''ve spearheaded initiatives to integrate accessibility into our documentation
+    and documentation portal. We’ve moved from a mere <strong>50%</strong> WCAG compliance
+    to nearly <strong>97%</strong> WCAG compliance within months. This journey began
+    with a challenge: our legacy portal was a maze of inaccessible content, post-merger.
+    Fueled by a drive to make information universally accessible, we embarked on a
+    mission to redefine our content strategy.</p>
+
+    <p>Our talk will detail practical steps taken to enhance accessibility, from implementing
+    user-friendly widgets to incorporating alt-text in images and beyond. Attendees
+    will learn about:</p>
+
+    <ul>
+
+    <li>Integrating accessibility without disrupting existing workflows.</li>
+
+    <li>Leveraging user feedback to prioritize accessibility improvements.</li>
+
+    <li>Simple, impactful accessibility enhancements that can be applied immediately.</li>
+
+    </ul>
+
+    <p>This session will resonate with documentarians seeking to make their content
+    more inclusive, ensuring that our methods can be adapted regardless of the tools
+    or platforms used.</p>'
+- title: 'GraphQL Docs: Beyond the Schema'
+  slug: graphql-docs-beyond-the-schema-sarah-sanders
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2024
+  speakers:
+  - name: Sarah Sanders
+    slug: sarah-sanders
+    twitter: 
+    website: 
+  abstract: '<p>GraphQL Docs: Beyond the Schema proposes in how Technical Writers
+    and DevEx teams approach GraphQL documentation. While GraphQL schemas are "self-documenting",
+    developers want more than static docs and descriptions of queries and objects.
+    </p>
+
+    <p>To challenge the notion that GraphQL documentation starts and ends with a schema,
+    this session will advocate for interactive documentation as a solution. The presentation
+    will start by defining interactive documentation. One example of interactive documentation
+    is embedding usable code samples linked to users'' sandbox environments, allowing
+    them to test their integration directly from the docs. The goal is to inspire
+    other Technical Writers and DevEx teams to think outside the box and provide rich
+    experiences and tooling for their audiences.</p>'
+- title: 'RAGs to Riches: How Our Content Affects Retrieval Augmented Generation'
+  slug: rags-to-riches-how-our-content-affects-retrieval-augmented-generation-manny-silva
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2024
+  speakers:
+  - name: Manny Silva
+    slug: manny-silva
+    twitter: 
+    website: 
+  abstract: '<p>LLMs have a knowledge problem: their training data is often out of
+    date, and the info we want to leverage often isn''t included in the training data
+    in the first place. Retrieval Augmented Generation (RAG) is an approach to dynamically
+    give LLMs the information we need them to have right when we need them to have
+    it. Want an LLM to know about your products, procedures, or users? RAG is the
+    solution.</p>
+
+    <p>But how do docs affect RAG? Doc content, its formatting, and how it''s processed
+    all impact whether the LLM responds with knowledge and (reasonable) confidence
+    or whether the response is full of hallucinations. Come learn about RAG, how technical
+    communicators can make use of it, how our docs affect RAG performance, and what
+    we can do to make sure our users (and our LLMs) get the content they need when
+    they need it.</p>'
+- title: 'Navigating the Maze: Strategies for Successful Documentation Planning'
+  slug: navigating-the-maze-strategies-for-successful-documentation-planning-gayathri-krishnaswamy
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2024
+  speakers:
+  - name: Gayathri Krishnaswamy
+    slug: gayathri-krishnaswamy
+    twitter: 
+    website: 
+  - name: Annette Williams
+    slug: annette-williams
+    twitter: 
+    website: 
+  abstract: '<p>A documentation plan outlines an approach for creating, organizing,
+    and maintaining documentation for a software product. It serves as a blueprint
+    for the documentation process, detailing the scope, content types, user journeys,
+    priorities, and content involved in creating comprehensive documentation for the
+    product. </p>
+
+    <p>At OutSystems, until recently, we adopted a feature-driven approach without
+    a solid documentation plan for documenting product enhancements. This approach
+    was less user-centric and more product-focused, leading to limited collaboration
+    with teams like UX or training. As a result, our documentation was less comprehensive,
+    and felt disconnected from the user''s journey throughout the product.</p>
+
+    <p>Hence, early last year, for all our significant product enhancements and new
+    features, we started developing a comprehensive documentation plan that resembled
+    the real-life journey of an OutSystems user. This involved close collaboration
+    with the Research and Development (R&amp;D), UX, and training teams, which helped
+    us gain insights into our users'' needs. This increased understanding enabled
+    us to create a more user-centric documentation set that enhanced our product''s
+    usability and contributed to a positive user experience. </p>
+
+    <p>Based on our experiences, we''ll present how developing a solid documentation
+    plan enabled us to:</p>
+
+    <ul>
+
+    <li>Spend adequate time researching and mapping the user journey before creating
+    our first drafts.</li>
+
+    <li>Prioritize content delivery so the team does not face burnout and still delivers
+    the most helpful content to our users.</li>
+
+    <li>Deliver content that covers the user''s knowledge needs.</li>
+
+    </ul>
+
+    <p>The cherry on top is that we will share a usable template of our documentation
+    plan that you can readily use for your documentation projects.</p>'
+- title: 'From morphemes to manuscripts: How linguistics can make you a better writer'
+  slug: from-morphemes-to-manuscripts-how-linguistics-can-make-you-a-better-writer-chloe-guttmann
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2024
+  speakers:
+  - name: Chloe Guttmann
+    slug: chloe-guttmann
+    twitter: 
+    website: 
+  abstract: '<p>As documentarians and writers, we use language every day—but do we
+    really understand it on a fundamental level? </p>
+
+    <p>Linguistics is the study of language. That’s pretty broad though—not everyone
+    realizes it, but there are many subsets of the field. In this talk, you''ll learn
+    how each branch of linguistics can help you write and communicate more effectively:</p>
+
+    <ul>
+
+    <li>Semantics: Logic and meaning </li>
+
+    <li>Do you know the difference between vague and ambiguous writing?</li>
+
+    <li>Syntax: The structure of sentences</li>
+
+    <li>What is a complementizer and why should you use them?</li>
+
+    <li>Sociolinguistics: Social factors like class, race, and gender</li>
+
+    <li>Your teachers were wrong about a lot of things. You can in fact end a sentence
+    in a preposition! </li>
+
+    <li>Morphology: Word formation </li>
+
+    <li>When you write, do you ever think about how some words in English can mean
+    multiple things? (Spoiler: this is called syncretism) </li>
+
+    </ul>
+
+    <p>You’ll learn through many real-life examples to guide you beyond theory and
+    into practice. Even if you’ve never learned about linguistics before, images and
+    metaphors throughout the presentation will help solidify concepts. The perfect
+    attendee is anyone who communicates at work; no need to be a linguist, or even
+    a technical writer.</p>
+
+    <p>Ultimately, you’ll learn how to communicate efficiently, unambiguously, and
+    accessibly. By the end of the talk, you’ll feel challenged and energized to continue
+    learning about how language fundamentally works.</p>'
+- title: What's in a Word? Lessons from Localizing Kubernetes Documentation to Arabic
+  slug: what-s-in-a-word-lessons-from-localizing-kubernetes-documentation-to-arabic-ali-d
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2024
+  speakers:
+  - name: Ali D
+    slug: ali-d
+    twitter: 
+    website: 
+  abstract: '<p>Translating technical documentation presents challenges in preserving
+    contextual meaning across languages and cultures. This talk explores strategies
+    from the pioneering effort to localize Kubernetes documentation into Arabic -
+    a language rich in traditions but nascent in modern software contexts.</p>
+
+    <p>Through examples and personal experiences, Ali Dowair will share lessons on
+    translating complex technical concepts, jargon, idioms, and abbreviations into
+    Arabic. You''ll gain perspectives on recreating shared understanding, balancing
+    language conventions with audience familiarity, and expressing technical ideas
+    across cultural spheres.</p>
+
+    <p>Key Takeaways:</p>
+
+    <ol>
+
+    <li>Making documentation accessible across languages and cultures</li>
+
+    <li>Approaches for translating technical terms into languages with varying cultural
+    roots</li>
+
+    <li>Bridging linguistic gaps to recreate contextual meaning</li>
+
+    <li>Balancing formal standards with audience comprehension</li>
+
+    <li>Enriching technical communication by uniting diverse linguistic heritages</li>
+
+    </ol>
+
+    <p>Whether localizing docs or collaborating across languages, this talk provides
+    a roadmap for fostering inclusive communication through thoughtful translation.</p>'
+- title: DevOps Your Docs
+  slug: devops-your-docs-lorna-mitchell
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2024
+  speakers:
+  - name: Lorna Mitchell
+    slug: lorna-mitchell
+    twitter: 
+    website: 
+  abstract: '<p>Take the tools of software development, the process and culture obsession
+    of operations, and apply the resulting mixture to your documentation.
+
+    In this talk we''ll cover how modern software practices are lending themselves
+    to documentation projects, and how you can add these ingredients to your own projects.
+
+    To collaborate safely across complex projects, use source control and gain the
+    side benefits of clear changesets with attribution.
+
+    To ensure the finished product is up to scratch, automate quality checks such
+    as link checking, validation and formatting.
+
+    To empower all contributors to work efficiently, invest time and effort in their
+    skillsets and the tools they use, as well as in the CI pipeline.
+
+    Bring the best bits of modern technology to your pipeline and learn how to DevOps
+    your documentation; this talk is ideal for writers of all levels, and project
+    leads.</p>'
+- title: 'We’re writers, not designers: Unblocking your organization with diagrams-as-code'
+  slug: we-re-writers-not-designers-unblocking-your-organization-with-diagrams-as-code-diana-breza
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2024
+  speakers:
+  - name: Diana Breza
+    slug: diana-breza
+    twitter: 
+    website: 
+  - name: Lena Larionova
+    slug: lena-larionova
+    twitter: 
+    website: 
+  abstract: '<p>Documentarian. Tooling guru. Website maintainer. Graphic designer.
+    </p>
+
+    <p>These are all things Kong’s team of three technical writers are responsible
+    for. As release cadence increased, we found we had less time for all these other
+    “hats” that writers wear, but demand for technical diagrams in our docs was still
+    growing. After testing out tools built for graphic designers and hacky Google
+    Slide diagram workarounds, we knew we needed a solution that would make it easier
+    to create, maintain, and share diagrams. </p>
+
+    <p>This pivotal decision led us to embrace Mermaid.js, an open-source Java Script
+    library that simplifies diagram creation through a markdown-like syntax. This
+    tool was perfectly suited for our small, agile team, enabling us to produce easy-to-maintain
+    diagrams efficiently. The straightforward usability of Mermaid.js facilitated
+    its rapid adoption not only within our docs team, but also across various departments.
+    Its integration reached beyond internal processes; even some of our customers
+    took notice and incorporated it into their docs and our engineering team added
+    it to one of our products. </p>
+
+    <p>This presentation delves deeper than just discussing Mermaid.js as a tool.
+    It explores how innovative thinking can empower docs teams to influence far-reaching
+    aspects of a business. We’ll examine how our small team’s shift in approach not
+    only enhanced our docs, but sparked changes in product development and customer
+    engagement. Through our case study of adopting Mermaid.js, we aim to demonstrate
+    that stepping outside of conventional boundaries can lead to substantial organizational
+    impacts, illustrating the profound influence that docs writers can have beyond
+    just documentation.</p>'
+- title: 'Welcome to the World of Technical Writing: A Guide for Newcomers'
+  slug: welcome-to-the-world-of-technical-writing-a-guide-for-newcomers-kruno-golubi
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2024
+  speakers:
+  - name: Kruno Golubić
+    slug: kruno-golubi
+    twitter: 
+    website: 
+  abstract: '<p>Breaking into the field of technical writing can be somewhat scary
+    for newcomers, but there’s no reason for that. This talk is tailored for those
+    who are new to technical writing or considering a career in it. Drawing from my
+    own experiences, I will share practical tips and essential insights that I’ve
+    learned along the way.</p>
+
+    <p>Small things can make a huge difference and make your work easier and more
+    enjoyable:</p>
+
+    <ul>
+
+    <li>Creating effective naming conventions for files, issues, and tickets to streamline
+    documentation.</li>
+
+    <li>The importance of well-written ticket assignments and what they should include.</li>
+
+    <li>Working with other teams (visual designers, marketing, etc.).</li>
+
+    <li>Strategies for dealing with insufficient information and how to seek clarity.</li>
+
+    <li>Best practices for asking subject matter experts (SMEs) for additional details.</li>
+
+    </ul>
+
+    <p>Don''t be afraid to enter the kingdom of technical writing—there is room for
+    everyone here!</p>'
+- title: Pull it together! How we unified software and hardware documentation to create
+    a consistent user experience.
+  slug: pull-it-together-how-we-unified-software-and-hardware-documentation-to-create-a-ois-n-fitzgerald
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2024
+  speakers:
+  - name: Oisín FitzGerald
+    slug: ois-n-fitzgerald
+    twitter: 
+    website: 
+  abstract: '<p>Integrating a diverse array of documentation into a cohesive user
+    experience can be a daunting task, especially when multiple markup languages and
+    processes are involved. At our company, we faced the challenge of maintaining
+    our established documentation practices—specifically, our partially open-source
+    SDK documentation and our hardware documentation, which were historically handled
+    separately and with different systems. Despite these differences, we aimed to
+    provide a consistent look and feel across all documentation without altering our
+    internal workflows.</p>
+
+    <p>In this talk, I will detail how we successfully unified our documentation experience
+    while maintaining our distinct internal documentation processes and standardizing
+    the output. This strategy ensured that while our technical teams could continue
+    working in their preferred methods and languages, the end result was a seamless
+    and integrated user experience.</p>'
+- title: What Is a Template and How Can I Create One
+  slug: what-is-a-template-and-how-can-i-create-one-susan-armstrong
+  series: Write the Docs Atlantic
+  series_slug: atlantic
+  year: 2024
+  speakers:
+  - name: Susan Armstrong
+    slug: susan-armstrong
+    twitter: 
+    website: 
+  abstract: '<p>We use Templates in our documentation to force a similar style on
+    the sections and pages of our documents so that the only difference is the content.
+    This uniformity makes it easier for our readers to scan our documents. It also
+    makes it easier for Search Engines to parse them. And, incidentally, it makes
+    it easier for us to write them.</p>
+
+    <p>At its most basic, a Template lays out information that provides an outline
+    for a document type or subtype. A template for a Programmer''s Guide is its outline.
+    A HowTos’ template defines the HowTo’s approach on how to use the product''s features,
+    preferably in the order in which they would be used to get the product up and
+    running. A feature’s template is a list of Tutorials on how to use the feature
+    (again, in the order in which to use them). A Tutorial template (among the smallest
+    particles of a document) provides common sections that outline how to prepare
+    for and perform one or more related tasks to accomplish one goal in using one
+    feature. </p>
+
+    <p>In this presentation, I intend to:</p>
+
+    <ul>
+
+    <li>Describe Tutorial templates. Since they are more universal in nature and less
+    dependent on the contents of the product, they can be more easily presented in
+    a more detailed form than other Templates types.</li>
+
+    <li>Provide examples of Tutorials from the mid-20th century to today. </li>
+
+    <li>Provide background information on why I believe the Tutorial Templates I will
+    show you are among the best.</li>
+
+    </ul>'

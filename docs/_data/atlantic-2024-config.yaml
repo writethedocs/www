@@ -29,12 +29,12 @@ buttons:
     #  link: /schedule
     - text: Tickets
       link: /tickets
-    - text: Sponsor us
-      link: /sponsors/prospectus
+    #- text: Sponsor us
+    #  link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
-    #- text: See the talks!
-    #  link: /speakers
+    - text: See the talks!
+      link: /speakers
     #- text: See the Schedule!
     #  link: /schedule
     # - text: Watch the Live Stream
@@ -151,6 +151,7 @@ cfp:
   video_by: "August 23, 2024"        # 3 weeks before the conf
   slides_by: "September 06, 2024"    # 2 weeks before the conf
   #preview: "https://writethedocs-www--1982.org.readthedocs.build/conf/atlantic/2024/schedule/"
+  preview: "NA"
 
 grants:
   url: https://docs.google.com/forms/d/e/1FAIpQLSdfnmeZj_yl506GujA5-PvsZQxNCWCm3uCiQeuVbO3dRK_d6A/viewform
@@ -181,7 +182,7 @@ flaglanding: False
 flaghassponsors: False
 flagticketsonsale: True
 flagsoldout: False
-flagspeakersannounced: False
+flagspeakersannounced: True
 flagrunofshow: False
 flaghasschedule: False
 flaghasshirts: False
