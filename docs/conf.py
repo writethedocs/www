@@ -28,6 +28,7 @@ exclude_patterns = [
     'include',
     #'_data',
     'node_modules',
+    'videos/prague/2018/tackling-technical-debt-in-the-docs-louise-fahey.rst',
 ]
 
 html4_writer = True
@@ -183,12 +184,6 @@ html_context = {
 
 if build_videos:
 
-    if os.environ.get('MEETUP_API_KEY'):
-        try:
-            from _ext.meetup_events import main as meetup_main
-            html_context.update(meetup_main())
-        except:
-            print('Could not get meetup events.')
     html_context.update(videos.main())
 
 notfound_no_urls_prefix = True

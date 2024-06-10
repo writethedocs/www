@@ -11,7 +11,7 @@ tags: newsletter, march, formatting, bylines, alt text, job titles, community
 
 Hello, Write the Docs! Obviously, the end of the cold season depends entirely on what coast (or continent) you're on, but here in the western US, we're rapidly approaching springtime – which means Write the Docs North America is right around the corner!
 
-This month's newsletter is a little behind schedule (apologies!) because we were holding out so we could include details about this year's awesome speaker lineup for North America! We're also excited to announce ticket sales for the EU conference, as well as an updated version of our community Code of Conduct (more details on both, at the end of the newsletter). It's been a big month for WtD events!
+This month's newsletter is a little behind schedule (apologies!) because we were holding out so we could include details about this year's awesome speaker lineup for North America! We're also excited to announce ticket sales for the EU conference, as well as an updated version of our community Code of Conduct (more details on both, at the end of the newsletter). It's been a big month for WTD events!
 
 We've also had one of our most active months on the community Slack channel! We've cleared 1500 members, and we're to the point where there's almost always something going on, pretty much 24/7. Thanks to all of you for making this community so engaged and lively!
 
@@ -51,7 +51,7 @@ As a rule of thumb, this what one member of the community suggested, when consid
 
 ## Studies in comparative job titles
 
-Every once a while, discussion in the WtD Slack turns to titles...job titles, that is. This month, some of us shared our actual job titles and some dream job titles.
+Every once a while, discussion in the WTD Slack turns to titles...job titles, that is. This month, some of us shared our actual job titles and some dream job titles.
 
 Actual titles included:
 * Information Coordinator
@@ -76,6 +76,6 @@ As we mentioned up top, there's been a ton of exciting developments across the c
 * **EU conference announced** – We've gone live with dates and ticket sales for the EU conference, coming up Sept 10-12, 2017, in Prague, Czech Republic: [https://www.writethedocs.org/conf/eu/2017/news/announcing-website-tickets/](https://www.writethedocs.org/conf/eu/2017/news/announcing-website-tickets/)
 * **Updated Code of Conduct** – Our board of directors took some time to update and refresh our community code of conduct, which we take very seriously. It's one of our best tools for ensuring that our community is inclusive, welcoming, and safe for all its members. Take a look, when you get a chance: [https://www.writethedocs.org/blog/new-community-coc/](https://www.writethedocs.org/blog/new-community-coc/)
 * **New episode of the Write the Docs podcast** – In case you missed it, the latest episode of the Write the Docs Podcast went live last week. You can have a listen here: [http://podcast.writethedocs.org/2017/03/05/episode-4-continuous-integration-and-docs-like-code/](http://podcast.writethedocs.org/2017/03/05/episode-4-continuous-integration-and-docs-like-code/)
-* **WtD Meetup organizers are building a speaker pool** – With Write the Docs Meetups now happening regularly, clear across the world, our intrepid organizers are often on the hunt for Meetup speakers. If you're interested in putting your name in the hat (whether you're an experienced speaker or not), head over to our google form to share your details with our Meetup organizers: [https://goo.gl/forms/IGdEJCg227JDginY2](https://goo.gl/forms/IGdEJCg227JDginY2)
+* **WTD Meetup organizers are building a speaker pool** – With Write the Docs Meetups now happening regularly, clear across the world, our intrepid organizers are often on the hunt for Meetup speakers. If you're interested in putting your name in the hat (whether you're an experienced speaker or not), head over to our google form to share your details with our Meetup organizers: [https://goo.gl/forms/IGdEJCg227JDginY2](https://goo.gl/forms/IGdEJCg227JDginY2)
 
 Thanks for reading, and see you again next month!

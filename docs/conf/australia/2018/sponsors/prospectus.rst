@@ -47,7 +47,7 @@ unconference sessions. We expect around 100-120 people to attend.
 Write the Docs holds other annual conferences, including one in Portland, USA
 in May, and one in Prague, Europe in September. Attendance is approximately 400
 in the USA and 300 in Europe. Both conferences have sold out last two years.
-We are also hosting our first WtD conference in association with Open Help at
+We are also hosting our first WTD conference in association with Open Help at
 Cincinnati, Ohio in August 2018.
 
 Our audience is made up of:
