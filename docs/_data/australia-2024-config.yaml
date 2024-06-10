@@ -103,9 +103,9 @@ date: # how do we handle these? human readable would be nice.
 
 # Conference is special for the index to show the combined conference days
   conference:
-    event: Conference Day 2
-    date: November 29
-    summary: The second main day of the conference. Listen to a diverse panel of speakers share their insights and experience.
+    event: Speaker talks
+    date: November 28-29
+    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience.
     icon: conference
 
 # summary: The main days of the conference. We will be running one main track, and an Unconference.
@@ -123,7 +123,7 @@ date: # how do we handle these? human readable would be nice.
     dotw: Thursday
     talk_time: 09:30-16:30
     unconference_time: 11:00-15:00
-    social_time: 17:00pm-19:00pm
+    social_time: 18:00pm-20:00pm
     icon: conference
   day_three:
     event: Conference Day 2
