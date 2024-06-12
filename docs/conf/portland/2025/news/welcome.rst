@@ -6,11 +6,12 @@
 Announcing Write the Docs {{ city }} {{year}}
 ===========================================
 
-Welcome to the official launch of `Write the Docs Portland {{year}} <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/>`_.
-We're excited to announce the dates for our next conference:
+We're excited to announce the dates for our Portland 2025 conference!
+
 **Write the Docs {{ city }} {{ year }} will be on {{ date.short }}**
 
-We are excited to welcome everyone back to Revolution Hall in Portland for another year of great talks and community building.
+We'll be back at Revolution Hall for another year,
+full of great talks, networking, and community building.
 
 Call for Proposals
 ------------------
