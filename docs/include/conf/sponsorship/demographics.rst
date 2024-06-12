@@ -11,8 +11,8 @@ For those people, they have a range of job titles.
 The most common job title is **Technical Writer**,
 but we have many other people who attend our conferences:
 
-- Technical Writers (60%)
-- Developers (10%)
-- Support Staff (10%)
+- Technical Writers (75%)
 - Managers (10%)
-- Community Contributors, Enthusiasts & Other Folks (10%)
+- Developers (5%)
+- Support Staff (5%)
+- Community Contributors, Enthusiasts & Other Folks (5%)
