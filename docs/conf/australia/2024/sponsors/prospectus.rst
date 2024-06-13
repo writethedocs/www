@@ -22,14 +22,18 @@ but please let us know if there are other points of interaction with our communi
 Concept
 =======
 
-Write the Docs Australia (http://www.writethedocs.org/) is a **two day conference** focusing on documentation systems, tech writing
-theory, and information delivery.
+Write the Docs Australia (http://www.writethedocs.org/) is a **two day conference** dedicated to connecting content 
+professionals from various disciplines. Our community includes technical writers, programmers, support teams, developer 
+advocates, content strategists and more. 
+We collectively refer to ourselves as “`documentarians <https://www.writethedocs.org/documentarians/>`_”. 
 
-Writing and maintaining documentation involves a multidisciplinary community of technical writers, designers, librarians, typesetters, developers,
-support teams, marketers and many others. This group of people can be collectively referred to as “documentarians”.
+Each year, we 
+invite community members to share their insights and experiences. Between the talks on stage, discussions in the unconference
+sessions, collaboration during the writing day, and hallway conversations — 100% of our conference content comes from our 
+community.
 
-**Write the Docs** creates a time and a place for this community to share information, discuss ideas, and work together to improve the art
-and science of documentation.
+**Write the Docs Australia** is an opportunity to explore and celebrate the craft of documentation in an inclusive 
+environment, with a particular emphasis on underrepresented voices in the tech community.
 
 Demographics
 ============
