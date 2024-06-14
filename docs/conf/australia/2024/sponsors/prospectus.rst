@@ -28,7 +28,7 @@ advocates, content strategists and more.
 We collectively refer to ourselves as “`documentarians <https://www.writethedocs.org/documentarians/>`_”. 
 
 Each year, we 
-invite community members to share their insights and experiences. Between the talks on stage, discussions in the unconference
+encourage community members to share their insights and experiences. Between the talks on stage, discussions in the unconference
 sessions, collaboration during the writing day, and hallway conversations — 100% of our conference content comes from our 
 community.
 
