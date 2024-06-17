@@ -28,7 +28,7 @@ Our audience is made up of:
 Sponsored entry format
 ----------------------
 
-Our sponsorship format is similar to our normal newsletter entries.
+Our sponsorship format is similar to our normal newsletter entries, with an added company logo.
 
 It includes:
 
