@@ -20,8 +20,7 @@ The current newsletter stats are:
 * Over {{ newsletter_subs }} subscribers
 * 42% open rate
 
-The best idea of who is visiting our site is the information we have from our conferences.
-Our audience is made up of:
+We don't exact demographic data for our newsletter subscribers, but according to the data gathered from our conferences, our audience is made up of:
 
 .. include:: /include/demographics.rst
 
