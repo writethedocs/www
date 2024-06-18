@@ -17,18 +17,13 @@ Audience
 Our audience is made up of technical writers and decision makers in the software documentation industry.
 The current Slack stats are:
 
-* Over 17,000 users
+* Over {{ slack_members }} users
 * 100+ channels
 
-We don't have specific demographic data for our Slack,
-but our conferences are made up of:
+The best idea of who is visiting our site is the information we have from our conferences.
+Our audience is made up of:
 
-- Technical Writers (60%)
-- Developers (10%)
-- Support Staff (10%)
-- Managers (10%)
-- Community Contributors, Enthusiasts & Other Folks (10%)
-
+.. include:: /include/demographics.rst
 
 Sponsored entry format
 ----------------------
@@ -40,21 +35,15 @@ so your message will be very visible in the community.
 
 The current format is:
 
-* Up to 300 characters of copy
-* Up to 2 links in that copy - we generally recommend inline links, so that some of your text is linked.
-  - These links will be auto-expanded into a rich embed in Slack.
-
-We're still experimenting with exact format details,
-so let us know if you have any questions.
+* Up to 2 paragraphs of copy
+* Up to 1 link in that copy - we generally recommend inline links, so that some of your text is linked, and the links will be expanded in Slack.
 
 Content Guidance
 ----------------
 
 The provided copy must respect our general `Slack
 Rules <https://www.writethedocs.org/slack/>`__ and `Code of
-Conduct <https://www.writethedocs.org/code-of-conduct/>`__. All other
-community engagement by your employees, contractors, or other affiliates
-*must* respect the general Slack rules.
+Conduct <https://www.writethedocs.org/code-of-conduct/>`__. 
 
 With regards to the *No Sales-Y Content* rule, sponsored posts have an
 exemption to the *No Direct Pitches*, *No links without context*, and
@@ -90,4 +79,4 @@ The price for reaching our audience is **$350** per month.
 Contact
 -------
 
-Please email us at sponsorship@writethedocs.org in order to purchase a Slack sponsorship.
+Email us at sponsorship@writethedocs.org to purchase a Slack sponsorship.

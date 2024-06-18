@@ -1,12 +1,13 @@
 Newsletter Sponsorship
 ======================
 
-Write the Docs is a community focused on all things related to software documentation.
-Our newsletter is a monthly update for all the folks in our community.
+Write the Docs is a global community focused on anything related to software documentation.
+Our newsletter is our monthly update that includes community news, Slack conversation summaries, job postings, and sponsorship content.
+
 Sponsorship of the newsletter does two things:
 
-* It allows us to cover the cost of producing the newsletter for our community
 * It allows you to get your name and message in front of our audience of :doc:`/documentarians`
+* It allows us to cover the cost of producing the newsletter for our community
 
 You can see our `newsletter archives </blog/archive/tag/newsletter/>`__ to get a better idea of the content that we produce.
 
@@ -16,47 +17,37 @@ Audience
 Our audience is made up of technical writers and decision makers in the software documentation industry.
 The current newsletter stats are:
 
-* Over 5,000 subscribers
-* 37% open rate
-* 6% click rate
-* 70% of subscribers are based in the United States
+* Over {{ newsletter_subs }} subscribers
+* 42% open rate
 
-We don't have specific demographic data for our newsletter,
-but our conferences are made up of:
+We don't exact demographic data for our newsletter subscribers, but according to the data gathered from our conferences, our audience is made up of:
 
-- Technical Writers (60%)
-- Developers (10%)
-- Support Staff (10%)
-- Managers (10%)
-- Community Contributors, Enthusiasts & Other Folks (10%)
-
+.. include:: /include/demographics.rst
 
 Sponsored entry format
 ----------------------
 
-The current format is:
+Our sponsorship format is similar to our normal newsletter entries, with an added company logo.
 
-* 300x300 pixel logo image
-* Up to 300 characters of copy
+It includes:
+
+* Up to 400x400px logo image
+* Up to 2 paragraphs of copy
 * Up to 2 links in that copy
-
-We're still experimenting with exact format details,
-so let us know if you have any questions.
 
 Schedule
 --------
 
-We publish the newsletter 10 times a year.
-The months that we skip are January and August.
-In January we do a community update,
-which goes to the same list and has the same sponsorship opportunities.
+We publish the newsletter once a month, typically in the first week of the month.
+**We ask that your assets be submitted by the end of the month prior to the newsletter being published.**
 
 Pricing
 -------
 
-The price for reaching our audience is **$350** per month.
+The price for our newsletter sponsorship is **$500** per month.
 
-You can pay for the newsletter via our `online payment form <https://buy.stripe.com/7sIfZm0bqeBncJG8wy>`_.
+You can pay for the newsletter via our `online payment form <https://buy.stripe.com/3cs6oMgao9h3eRO8wC>`_,
+or we can issue you an invoice.
 
 Examples
 --------
@@ -67,7 +58,7 @@ Examples
 .. image:: /_static/img/sponsorship/newsletter-example-2.png
    :width: 45%
 
-Contact
--------
+Ordering
+--------
 
-Please email us at sponsorship@writethedocs.org in order to purchase a newsletter sponsorship.
+Email us at sponsorship@writethedocs.org to purchase a Newsletter sponsorship.
