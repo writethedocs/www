@@ -174,7 +174,7 @@ global_sponsors = yaml.safe_load("""
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
     'newsletter_subs': '10,000',
-    'slack_members': '20,000',
+    'slack_members': '22,500',
     'website_visits': '20,000',
     'global_sponsors': global_sponsors,
     'cfp_variables': cfp_variables,
