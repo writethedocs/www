@@ -7,7 +7,6 @@ local_area: Australia
 area: Australia
 area_adj: Australian
 tz: AEDT
-tz_header: AEDT
 email: australia@writethedocs.org
 color: blue
 rgb: 74, 193, 224
@@ -31,8 +30,8 @@ buttons:
   #     link: /welcome-wagon
   #   - text: See the Schedule!
   #     link: /schedule
-  #  - text: Buy a Ticket!
-  #    link: /tickets
+    - text: Buy a Ticket!
+      link: /tickets
   #  - text: See the talks!
   #    link: /speakers
   #  - text: See the Schedule!
@@ -144,10 +143,10 @@ about:
   job_fair_room: "Sponsor area"
 
 cfp:
-  url: https://pretalx.com/wtd-australia-2024/cfp # Open June 17, 2024, 10 weeks to submit
-  ends: "August 30, 2023"              # 2 weeks to review and get confirmations
-  notification: "September 13, 2023"   # 10 weeks to write and prepare
-  slides_by: "December 01, 2023"       # 1 week before
+  url: https://pretalx.com/wtd-australia-2024/cfp # Open June 19, 2024, 10 weeks to submit
+  ends: "August 30, 2024"              # 2 weeks to review and get confirmations
+  notification: "September 13, 2024"   # 10 weeks to write and prepare
+  slides_by: "November 21, 2024"       # 1 week before
   preview: "TODO"                      # Preview URL TODO
 
 unconf:
@@ -159,6 +158,7 @@ grants:
   url: https://forms.gle/W51eYRFvb6dzom4t6
   ends: "October 1, 2024"
   notification: "October 15, 2024"
+
 
 sponsors:
   keystone:
