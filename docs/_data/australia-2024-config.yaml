@@ -45,7 +45,7 @@ buttons:
   #  - text: Thanks for coming
   #    link: /news/thanks-recap
   bottom:
-    - text: News and updates
+    - text: Welcome to the conference
       link: /news/welcome
     - text: Sponsor us
       link: /sponsors/prospectus
@@ -57,8 +57,8 @@ buttons:
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: See the talks!
   #     link: /speakers
-     - text: Tickets
-       link: /tickets
+    - text: Tickets
+      link: /tickets
   #   - text: Read our guide
   #     link: /welcome-wagon
   #   - text: See the schedule!
