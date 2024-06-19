@@ -1,4 +1,4 @@
-UX Writing
+UX writing
 ==========
 
 UX writing is the practice of creating text that users see in the interface of a software, e.g. buttons, labels, error messages, etc - i.e. all the copy that guides users through the product. This texts is often referred to as “microcopy”. 
