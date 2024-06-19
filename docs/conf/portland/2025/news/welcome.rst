@@ -17,7 +17,7 @@ Call for Proposals
 ------------------
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
-**We plan to launch our CFP in November**,
+**We plan to launch our CFP later this year**,
 and now is a great time to start thinking about topics to present!
 
 You can always look at our `previous years' talks <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year - 1 }}/speakers/>`_ for inspiration.
