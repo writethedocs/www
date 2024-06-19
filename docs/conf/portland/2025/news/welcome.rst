@@ -6,7 +6,8 @@
 Announcing Write the Docs {{ city }} {{year}}
 ===========================================
 
-We're excited to already be able to announce the dates for our Portland 2025 conference! Block those calendars off now!
+We're excited to already be able to announce the dates for our Portland 2025 conference!
+Block those calendars off now!
 
 **Write the Docs {{ city }} {{ year }} will be on {{ date.short }}**
 
@@ -26,7 +27,8 @@ Tickets
 -------
 
 Tickets will go on sale in {{ date.tickets_live }}.
-The ticket pricing will be as follows:
+
+**Ticket pricing will be the same as last year:**
 
 * **Student or Unemployed Tickets**: *{{tickets.student.price}}*
 * **Independent Tickets**: *{{tickets.independent.price}}*
