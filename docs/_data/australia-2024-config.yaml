@@ -1,6 +1,6 @@
 name: Australia
 
-shortcode: australia # prague australia?
+shortcode: australia
 year: 2024
 city: Melbourne
 local_area: Australia
@@ -11,7 +11,7 @@ email: australia@writethedocs.org
 color: blue
 rgb: 74, 193, 224
 hex: 4AC1E0
-time_format: 12h
+time_format: 24h
 
 photos:
   default: _static/conf/images/headers/atlantic-group.png
@@ -20,18 +20,18 @@ buttons:
   top:
   #   - text: Read our latest news
   #     link: /news/welcome
-  #   - text: Sponsor us
-  #     link: /sponsors/prospectus
-  #  - text: Submit a Talk
-  #    link: /cfp
+    - text: Sponsor us
+      link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp
   #   - text: Date and ticket information
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: Read our conference guide
   #     link: /welcome-wagon
   #   - text: See the Schedule!
   #     link: /schedule
-  #  - text: Buy a Ticket!
-  #    link: /tickets
+    - text: Tickets
+      link: /tickets
   #  - text: See the talks!
   #    link: /speakers
   #  - text: See the Schedule!
@@ -45,20 +45,20 @@ buttons:
   #  - text: Thanks for coming
   #    link: /news/thanks-recap
   bottom:
-  #   - text: Welcome to our conference
-  #     link: /news/welcome
-  #   - text: Sponsor the conference
-  #     link: /sponsors/prospectus
-  #   - text: Submit a Talk
-  #     link: /cfp
+    - text: Welcome to the conference
+      link: /news/welcome
+    - text: Sponsor us
+      link: /sponsors/prospectus
+  #  - text: Submit a Talk
+  #    link: /cfp
   #   - text: See the Schedule!
   #     link: /schedule
   #   - text: Date and ticket information
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: See the talks!
   #     link: /speakers
-  #   - text: Buy a Ticket!
-  #     link: /tickets
+    - text: Tickets
+      link: /tickets
   #   - text: Read our guide
   #     link: /welcome-wagon
   #   - text: See the schedule!
@@ -72,7 +72,7 @@ buttons:
 
 tickets:
   corporate:
-    price: $300
+    price: $350
   independent:
     price: $250
   student:
@@ -92,38 +92,33 @@ sponsorship:
 
 shirts:
   url: https://teespring.com/wtd-pdx-2023
-  ends: "Dec 31, 2023"
+  ends: "Dec 31, 2024"
 
 date: # how do we handle these? human readable would be nice.
   main: "**November 28-29, 2024**"
   short: Nov 28-29, 2024
-  tickets_live: "July 2024"
+  tickets_live: "June 2024"
   month: November
-  # Conference is special for the index to show the combined conference days
+
+# Conference is special for the index to show the combined conference days
   conference:
-    event: Main Conference
+    event: Speaker talks
     date: November 28-29
-    summary: The main days of the conference. We will be running one main track, and an <a href="/conf/australia/2024/unconference/">Unconference</a>.
+    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience.
     icon: conference
 
-#    summary: The main days of the conference. We will be running one main track, and an Unconference.
+# summary: The main days of the conference. We will be running one main track, and an Unconference.
   # These are listed in the schedule
   day_one:
-    event: Outing
-    date: Self-organized
-    summary: If you are in town early, we encourage you to go exploring one of the most liveable cities in the world, Melbourne.
-    icon: hike
-    dotw: Wednesday
-  day_two:
     event: Conference Day 1
     date: November 28
-    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
+    summary: Day 1 of the event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Thursday
     talk_time: 09:30-16:30
     unconference_time: 11:00-15:00
-    social_time: 17:00pm-19:00pm
+    social_time: 18:00pm-20:00pm
     icon: conference
-  day_three:
+  day_two:
     event: Conference Day 2
     date: November 29
     summary: And the conference goes on! We are already starting to miss you. |:heart:|
@@ -140,18 +135,18 @@ about:
     During the main event we also run an :doc:`/conf/australia/2024/unconference`."
 
   social_venue: TBA
-  venue: TBA
+  venue: Auditorium
   photos: TBD
   mainroom: TBA
-  unconfroom: TBA
+  unconfroom: Price Hall
   projector_ratio: "16:9"
   job_fair_room: "Sponsor area"
 
 cfp:
-  url: https://pretalx.com/wtd-australia-2023/cfp # Open July 15, 2023, 8 weeks to submit
-  ends: "September 22, 2023"           # 2 weeks to review and get confirmations
-  notification: "September 30, 2023"   # 8 weeks to write and prepare
-  slides_by: "December 01, 2023"       # 1 week before
+  url: https://pretalx.com/wtd-australia-2024/cfp # Open June 19, 2024, 10 weeks to submit
+  ends: "August 30, 2024"              # 2 weeks to review and get confirmations
+  notification: "September 13, 2024"   # 10 weeks to write and prepare
+  slides_by: "November 21, 2024"       # 1 week before
   preview: "TODO"                      # Preview URL TODO
 
 unconf:
@@ -173,11 +168,6 @@ sponsors:
   #    link: https://www.atlassian.com/
   #    brand: Atlassian
   #    width: 750px
-  #  - name: knowledgeowl
-  #    link: https://www.knowledgeowl.com
-  #    brand: KnowledgeOwl
-  #   width: 450px
-  #    text: "<p>KnowledgeOwl makes knowledge base software. We value excellent customer support and service-driven ethical business practices.</p> <p>KnowledgeOwl​ is looking for more contributors for our ​company blog​. This is an opportunity to write about a topic that interests you and get paid for it :)</p> <p>KnowledgeOwl also sponsors and hosts The Not-Boring Tech Writer podcast. We are always looking for new guests to share their stories, experience, and expertise with the world.</p> <p>Feel free to stop by and ask us more about KnowledgeOwl, these opportunities, or anything else!</p>"
   second:
   first:
   in_kind:
@@ -186,10 +176,10 @@ sponsors:
       brand: Read the Docs
 
 # Things that change over time, listed in order of change
-flaglanding: True
-flaghassponsors: False
-flagcfp: False
-flagticketsonsale: False
+flaglanding: False
+flaghassponsors: True
+flagcfp: True
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False
