@@ -78,6 +78,8 @@ Grant Amounts
 
 The total amount of grant funds to be distributed is based upon sponsors and number of tickets sold. We will not know the full amount until we near the deadline. In 2023, $4,000 was distributed in grant funds. There is no limit on the amount you request but please note, we do not award partial grants. Free conference tickets are the most possible for us to grant. 
 
+{% if grants and grants.url %}
+
 Submit your application
 --------------------------
 
@@ -86,3 +88,5 @@ Submit your application
 	<iframe src="{{ grants.url }}?embedded=true" width="760" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 You can also view `the application form <{{ grants.url }}>`_ in its own page.
+
+{% endif %}
