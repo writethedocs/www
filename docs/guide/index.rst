@@ -27,6 +27,7 @@ Resources for technical writers
    writing/style-guides
    writing/accessibility
    writing/reducing-bias
+   writing/support-team
    ux-writing
 
 Approaches to creating documentation
