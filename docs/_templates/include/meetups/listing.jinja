@@ -2,8 +2,9 @@
     <dl class="meetup-listing">
         {% for meetup in meetups %}
         <dt class="meetup-listing-detail">
-
-            <a href="{% if meetup['page'] %}{{ meetup['page'] }}{% else %}http://www.meetup.com/{{ meetup['meetup'] }}/{% endif %}">
+            <a href="{% if meetup['page'] %}{{ meetup['page'] }}
+                     {% elif meetup['meetup_alt'] %}{{ meetup['meetup_alt'] }}
+                     {% else %}http://www.meetup.com/{{ meetup['meetup'] }}/{% endif %}">
                 {% if meetup['city'] %}{{ meetup['city'] }}, {% endif -%}
                 {% if meetup['state'] %}{{ meetup|state_abbr }}, {% endif -%}
                 {{ meetup['country'] -}}
