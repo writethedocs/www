@@ -1,15 +1,12 @@
-===================
-Documentation guide
-===================
+Software documentation guide
+============================
 
-This guide gathers the collective wisdom of the Write the Docs community around best practices for creating software documentation.
+This guide gathers the collective wisdom of the Write the Docs community around best practices for creating software documentation and technical writing.
 
-**This is a living, breathing guide.** If you'd like to contribute, take a look at the :doc:`guidelines for contributing to the guide <contributing>`. If you have any questions about contributing, you can send them along to guide@writethedocs.org.
+**This is a living, breathing guide.** If you'd like to contribute, take a look at the :doc:`guidelines for contributing to the guide <contributing>`. 
 
-Also feel free to send us any additions in any format to support@writethedocs.org.
-
-New to caring about documentation?
-----------------------------------
+New to documentation?
+---------------------
 
 .. toctree::
    :maxdepth: 2
@@ -21,8 +18,8 @@ New to caring about documentation?
    imposter
 
 
-Foundational resources
-----------------------
+Resources for documentarians
+-------------------------------
 
 .. toctree::
    :maxdepth: 2
@@ -30,22 +27,18 @@ Foundational resources
    writing/style-guides
    writing/accessibility
    writing/reducing-bias
+   writing/support-team
+   ux-writing
 
-* Structuring your Documentation
-
-Approaches to creating docs
----------------------------
+Approaches to creating documentation
+------------------------------------
 
 .. toctree::
    :maxdepth: 2
 
    docs-as-code
    doc-ops
-   Producing documentation inside a Support team <writing/support-team>
-   Starting-a-new-doc
 
-* Documentation and product development
-* Who writes the docs?
 
 Markup languages
 ----------------
@@ -66,34 +59,7 @@ Tools of the trade
 
    choosing-tools
    tools/index
-   learn-git-contribute
    seo
-
-* Dictionaries
-    * `Merriam-Webster <https://www.merriam-webster.com/>`_
-    *  https://www.dictionary.com | https://www.thesaurus.com | https://www.vocabulary.com
-    * `Linguee <https://www.linguee.com/>`_ (phrases/idioms)
-    * `Lexique Pro <http://www.lexiquepro.com/>`_ (offline dictionary/term list builder…dated)
-* Grammar and Complexity
-    * `Center for plain language <https://centerforplainlanguage.org/>`_
-    * `Simple English Checker <https://www.online-utility.org/english/simple_basic_helper.jsp>`_
-    * `Acrolinx <https://www.acrolinx.com/>`_
-    * `Hemingway Editor <http://www.hemingwayapp.com/>`_
-    * `Grammarly <https://www.grammarly.com/>`_
-* Translation Tools
-    * `Google Translate <https://translate.google.com>`_
-    * https://www.deepl.com/translator
-    * `X-bench <https://www.xbench.net/>`_
-* Keeping your documentation up to date
-* Jekyll
-
-Documentation guides
---------------------
-
-* `Dozuki Guide to Technical Writing <https://www.dozuki.com/tech_writing/>`_
-* `Hitchhiker’s Guide to Documentation <https://docs-guide.readthedocs.io/en/latest/>`_
-* `Wikiversity Technical Writing <https://en.wikiversity.org/wiki/Technical_writing>`_
-* `Write the Docs <http://www.writethedocs.org/guide/>`_
 
 .. _api-documentation:
 
@@ -107,61 +73,20 @@ API documentation
    api/generating-documents
    api/testing
 
-UI text
------------------
-
-.. toctree::
-   :maxdepth: 2
-
-   ux-writing
-
-Distribution
-------------
-
-* Common Output formats
-* Documentation Styles
-    - Slate
-    - Read the Docs Theme
-    - Alabaster
-
-Writing environments
---------------------
-
-* Text Editors
-* IDEs
-* Live Previews
-
-Talks & slide decks
--------------------
-
-.. toctree::
-   :maxdepth: 2
-
-   presentations/index
-
-Examples
---------
-
-Documentation comes in many variations. Here are some examples to inspire you:
-
-* `Stripe <https://stripe.com/docs>`_ Great example of API docs
-* `Google Material Design <https://material.io/design/>`_ Good examples of different layouts
-* `IBM Knowledge Center <https://www.ibm.com/support/knowledgecenter/en/>`_ solid examples of code that isn’t necessarily API
-
-Additional notes
-----------------
+Contribution information
+------------------------
 
 .. toctree::
    :maxdepth: 2
 
    about/index
+   learn-git-contribute
    contributing
 
 Write the Docs resources
 ------------------------
 
-* Conference: https://www.writethedocs.org/
-* Slack: `Write the Docs <https://writethedocs.org/slack/>`__
+* `WTD Slack Network <https://writethedocs.org/slack/>`__
+* `WTD Newsletters <https://writethedocs.org/newsletter/>`__
 * Twitter: http://twitter.com/writethedocs
 * Issues & feature requests: https://github.com/writethedocs/docs/issues
-* Source repository: https://github.com/writethedocs/docs
