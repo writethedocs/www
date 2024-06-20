@@ -18,7 +18,7 @@ New to documentation?
    imposter
 
 
-Resources for technical writers
+Resources for documentarians
 -------------------------------
 
 .. toctree::
