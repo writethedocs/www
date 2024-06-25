@@ -1,6 +1,6 @@
 :template: {{year}}/index.html
 :banner: _static/conf/images/headers/{{shortcode}}-{{year}}-group.jpg
-:og:image: _static/conf/images/headers/portland-2025-opengraph.png
+:og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.png
 
 :orphan:
 
