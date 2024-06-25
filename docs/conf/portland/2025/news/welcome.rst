@@ -1,4 +1,5 @@
 :template: {{year}}/generic.html
+:og:image: _static/conf/images/headers/portland-2025-opengraph.png
 
 .. post:: June 24, 2024
    :tags: {{shortcode}}-{{year}}
