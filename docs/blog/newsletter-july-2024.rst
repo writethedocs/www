@@ -9,7 +9,7 @@ Write the Docs Newsletter – July 2024
 
 Cheers, documentarians! This week has seen a cooling off of temperatures after a heat wave across Europe. Joni Mitchell sang that you don't know what you got till it's gone, and it seems the same is true for things you don't want. I hope you are all able to avoid any unwelcome extremes in your lives, whatever forms they make take.
 
-In conference news, Write the Docs Australia has `announced its call for proposals along with ticket sales </conf/australia/2024/news/announcing-cfp-tickets/>`__, so start getting your ideas in now. And if you're looking farther into the future, the Portland conference has `official dates </conf/portland/2025/news/welcome/>`__, May 4--6, 2025, so mark the time in your calendar.
+In conference news, our Atlantic conference is coming up in September, so `get a ticket </conf/atlantic/2024/tickets/>`__ while you still can. Write the Docs Australia has `announced its call for proposals along with ticket sales </conf/australia/2024/news/announcing-cfp-tickets/>`__, so start getting your ideas in now. And if you're looking farther into the future, the Portland conference has `official dates </conf/portland/2025/news/welcome/>`__, May 4--6, 2025, so mark the time in your calendar.
 
 We'll be taking our traditional break for August, but we have plenty to tide you over until then. Read about why networking can be good (even if it's just being nice), how analytics can help you take action on your docs, what technical skills you might want to focus on learning, and updating legacy docs while keeping up with new changes.
 
