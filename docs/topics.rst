@@ -375,6 +375,7 @@ Including onboarding new writers
 Learning...
 ~~~~~~~~~~~
 
+- |:newspaper:| `Technical skills for documentarians </blog/newsletter-july-2024/#technical-skills-for-documentarians>`__
 - |:movie_camera:| `The Art of Asking Questions </videos/prague/2022/the-art-of-asking-questions-jeff-smith/>`__
 - |:newspaper:| `What we’re learning in #learn-tech-writing </blog/newsletter-october-2020/#what-we-re-learning-in-learn-tech-writing>`__
 - |:movie_camera:| `Read the Rules: What technical writers can learn from board game design </videos/portland/2020/read-the-rules-what-technical-writers-can-learn-from-board-game-design-matthew-baldwin/>`__
@@ -623,6 +624,7 @@ Measuring docs success
 Metrics
 ~~~~~~~
 
+- |:newspaper:| `How to think about docs metrics </blog/newsletter-july-2024/#how-to-think-about-docs-metrics>`__
 - |:newspaper:| `Do Readability Scores Have Value? </blog/newsletter-april-2024/#do-readability-scores-have-value>`__
 - |:newspaper:| `Measuring Docs Quality </blog/newsletter-november-2023/#measuring-docs-quality>`__
 - |:movie_camera:| `Measuring the impact of your documentation </videos/prague/2018/measuring-the-impact-of-your-documentation-liam-keegan/>`__
@@ -633,6 +635,7 @@ Metrics
 Culture and community
 ---------------------
 
+- |:newspaper:| `The benefits of networking </blog/newsletter-july-2024/#the-benefits-of-networking>`__
 - |:movie_camera:| `Dealing with Unpleasant People in Open-Source Projects </blog/newsletter-september-2023/#dealing-with-unpleasant-people-in-open-source-projects>`__
 - |:movie_camera:| `A guide to getting started in open source </videos/portland/2021/a-guide-to-getting-started-in-open-source-abigail-mccarthy/>`__
 - |:movie_camera:| `5 things I learned from my first open source contribution </videos/australia/2020/5-things-i-learned-from-my-first-open-source-contribution-andrea-szollossi/>`__
