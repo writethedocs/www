@@ -1,49 +1,60 @@
-=================================================
-Welcome to the Write the Docs documentation guide
-=================================================
-
+=========================================
 Contributing to the Write the Docs guide
-----------------------------------------
+=========================================
 
-If you want to help create an awesome documentation guide, you've come to the right place. Welcome! Please read on to understand what we're trying to do here and how you can help make it a better project.
+If you want to contribute an awesome documentation guide, you've come to the right place. 
+Welcome! Read on to understand what our guides are and how you can help.
 
-Ways you can contribute
------------------------
+Ways to contribute
+-------------------
 
-The guide is meant to address all aspects of software documentation. Depending on what you're comfortable with, here are the basic ways to contribute:
+We encourage contributions from anyone regardless of professional or tool experience. 
+Contributions thare treated with respect if they respect the current effort and state of 
+our guide.
 
-* Fork, branch, and submit a pull request
-* Submit an issue. You can use issues to suggest new content, or to file bugs against existing content.
+The guide at Write the Docs is meant to address all aspects of software 
+documentation. There are several ways to contribute to the content:
+
+* Fork, branch, and submit a pull request.
+* `Submit an issue <https://github.com/writethedocs/www/issues>`_ to suggest new content 
+or to file bugs against existing content.
 
 Where to start
 --------------
 
-The guide has its origins in the efforts of developers to understand and explain documentation to each other. Since then, Write the Docs has expanded its focus and its community. We've recently reorganized the guide to provide a clearer top-level structure, but there's much work to be done. Feel free to suggest further changes to the organization. Here's where we need your contributions:
+We especially need contributions in these areas:
 
-* More :ref:`api-documentation` content!
-* Helping non-writers understand what makes good documentation
-* Helping writers new to developer tools or docs-as-code workflows to understand these toolchains and workflows
-* High-level discussions of common tools and toolchains. Please avoid advocacy here! But thoughtful presentation of specific use cases, how you solved them, what worked well, and what didn't work so well, are most welcome. If you want to write this kind of topic, consider starting with an issue in GitHub, or contact one of the new guide editors.
+* :ref:`Tools and best practices for documenting APIs <api-documentation>`.
+* Documentation best practices.
+* Developer tools or docs-as-code toolchains and workflows.
+* High-level discussions of common tools. 
 
-If you didn't find a topic you were looking for, file an `issue in GitHub <https://github.com/writethedocs/www/issues>`_.
+For help finding where a new set of topics best fit into the rest of 
+the guide, ask in Slack or file a GitHub issue.
 
-What to leave out
------------------
+Guidelines
+-----------
 
-The guide is not a place to plug your favorite toolchain, even if it's open source. If you want to include a page that describes a documentation problem you solved using a particular toolchain, great, but make sure that it's of interest to a general audience.
+The guide is not a place to plug your favorite toolchain, even if it's open source. 
+Follow these guidelines for discussing tools: 
 
-If you want to add a new set of topics, consider where they would fit best into the rest of the guide. If it's not obvious where the new topics should go, ask in Slack, or file an issue.
+* Ensure your content is of interest to a general audience.
+* Avoid advocacy.
+* Present specific use cases, how problems were solved, and what 
+worked or didn't work well. 
+* Consider first creating a GitHub issue or contacting one of the guide editors.
 
-The main focus is general principles and best practices, and we'd like to keep it that way. This means no bikeshedding -- arguing over minor points at the expense of major principles of clarity and communication. And do avoid preferential editing -- offering only your personal preferences for dealing with a particular writing situation. If you recommend a particular word choice, for example, explain why it matters to the larger world of the audience you want to address.
+Keep content focused on general principles and best practices instead of arguing over minor 
+points at the expense of major principles of clarity and communication. Avoid preferential 
+editing that only offers your personal preferences for dealing with a particular writing 
+situation. For example, if you recommend a particular word choice, tell the audience why it 
+matters.
 
-What we expect from you, and what you can expect from us
---------------------------------------------------------
+Keep your tone friendly and encouraging. It's a good way to write docs in general, so practice 
+with docs about docs!
 
-We encourage contributions from experienced folks and from newcomers, whether you're new to documentation, to software, to GitHub, or to Write the Docs. We expect you to respect the effort that's gone into whatever the current state of the guide might be, and we'll treat your contributions with respect in turn.
-
-Keep your tone friendly and encouraging. It's a good way to write docs in general, so practice with docs about docs!
-
-Link liberally to resources that you find useful, but make sure to provide appropriate attribution. And make sure to add something about how or why you find them useful.
+Link liberally to resources but provide appropriate attribution and mention how or why you 
+find the resources useful.
 
 For anyone new to GitHub and Git
 --------------------------------
@@ -71,3 +82,149 @@ For help, questions, or discussion, the Write the Docs community is available he
 - `Conferences <https://www.writethedocs.org/conf/>`_
 
 You can also check out our `local meetups <https://www.writethedocs.org/meetups>`_.
+
+
+
+
+
+
+
+
+Learn Git by editing the Write the Docs website
+===============================================
+
+Identify the page you want to edit
+----------------------------------
+
+1. Find an `existing issue`_, or a page you want to improve.
+2. In the repo UI, find the file that corresponds to the page. For
+   example:
+   https://www.writethedocs.org/documentarians/ is produced by
+   ``/docs/documentarians.rst``. (You’ll need this filename later for
+   making changes on your local copy.)
+3. This is a reStructuredText (.rst) file, so you may want to review an
+   `RST primer`_. Other common markup formats are Markdown (.md)
+   and AsciiDoc (.adoc).
+
+Prerequisites
+-------------
+
+1. `Create a GitHub account`_.
+2. `Download and install Git`_.
+3. Open a terminal window and follow the instructions to `associate your
+   GitHub username with your local Git installation`_.
+
+   1. In macOS: Open the **Terminal** app.
+   2. In Windows: From the Start Menu, open **Git Bash**.
+
+Start using Git and modify the source file of a page
+----------------------------------------------------
+
+1.  Visit the `Write the Docs www project`_.
+
+2.  Click the **Fork** button in the upper-right corner to create a
+    copy of the project in your GitHub account. The new page for the
+    forked project opens.
+
+3.  Click the **Clone or download** button and copy the https URL from
+    the project page.
+
+4.  Open a terminal window so that you can run ``git`` commands.
+
+    1. In macOS: Open the **Terminal** app.
+    2. In Windows: From the Start Menu, open **Git Bash**.
+
+5.  Navigate to or create the directory to where you want to clone the repository. 
+
+6.  In your terminal window, type ``git clone``, followed by a space,
+    and then paste the project URL:
+
+    ::
+
+       git clone https://github.com/myname/www.git
+
+6.  Press Enter. The command copies files from GitHub to a folder named
+    ``www`` on your local machine.
+
+7.  In the terminal window, go to the ``www`` directory.
+
+    ::
+
+       cd www
+
+8.  Create and switch to a branch. Using the commands below,
+    replace ``branch-name`` with a name that briefly describes the
+    changes you’ll make, preferably use dashes between words. For
+    example, ``important-typo-fix``.
+
+    a. Create a branch with:
+
+       ::
+
+          git branch branch-name
+
+       Switch to the branch:
+
+       ::
+
+          git checkout branch-name
+
+    b. Alternatively, use one command to perform both steps at once:
+
+       ::
+
+          git checkout -b branch-name
+
+9. Open the ``www`` folder on your computer.
+
+10. | Open the file you wish to edit using a text editor like `Sublime
+      Text`_ or `Visual Studio Code`_, then save the file.
+
+11. In your terminal window, type:
+
+    ::
+
+       git status
+
+    This will show you all the files that you have updated.
+
+12. If your changes look accurate, enter the following in your terminal window:
+
+   ::
+
+      git add -A
+
+   This will add any new and changed files to your local project.
+
+13. To save your changes, enter the following in your terminal window:
+
+   ::
+
+      git commit -m "Your message"
+
+   This will save all of your edited files. Replace ``Your message``
+   with a description of the update you made. *Protip*: Learn how
+   to `write a good commit message`_.
+
+   You can repeat the same process to add multiple commits in your
+   branch.
+
+14. Send your commit(s) to your GitHub project using ``git push``. Enter the following in your terminal window:
+
+   ::
+
+      git push -u origin branch-name
+
+15. Create a `GitHub pull request`_ in the `Write the Docs www project`_.
+
+
+.. _existing issue: https://github.com/writethedocs/www/issues
+.. _RST primer: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
+.. _Create a GitHub account: https://github.com/join
+.. _Download and install Git: https://git-scm.com/downloads
+.. _associate your GitHub username with your local Git installation: https://help.github.com/en/articles/setting-your-username-in-git
+.. _Write the Docs www project: https://github.com/writethedocs/www
+.. _Sublime Text: https://www.sublimetext.com
+.. _Visual Studio Code: https://code.visualstudio.com/
+.. _write a good commit message: https://chris.beams.io/posts/git-commit/
+.. _GitHub pull request: https://help.github.com/en/articles/creating-a-pull-request
