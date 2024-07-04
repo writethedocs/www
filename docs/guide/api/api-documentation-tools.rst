@@ -5,7 +5,7 @@ API documentation tools
 Specialized descriptive languages help when writing API documentation. 
 Some of our favorite descriptive languages include:
 
-* API Blueprint
+* :ref:`API Blueprint`
 * Swagger
 
 When specifying a descriptive language for your API, you'll also need tools to create engaging 
