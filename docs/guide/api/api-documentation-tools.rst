@@ -13,7 +13,7 @@ documents. Several tools work best with our favorite descriptive languages:
 
 * :ref:`apiary-overview`
 * Aglio
-* :doc:`/guide/tools/sphinx`
+* :doc:`Sphinx </guide/tools/sphinx>`
 
 .. _apiary-overview:
 
