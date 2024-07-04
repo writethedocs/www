@@ -101,7 +101,7 @@ The structure for an ``.apib`` file is::
 Building API Blueprint docs
 -------------
 
-The two most popular tools for generating documents from API Blueprints are :ref:`Apiary<apiary-building-docs>` and 
+The two most popular tools for generating documents from API Blueprints are :ref:`Apiary <apiary-building-docs>` and 
 `Aglio <https://github.com/danielgtaylor/aglio>`_.
 
 Testing API docs
