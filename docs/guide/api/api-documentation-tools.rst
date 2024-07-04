@@ -22,12 +22,8 @@ Apiary
 
 Apiary is a service that allows you to edit and host documentation online.
 
-.. vale off
-
 Hosting Apiary docs
 -------------------
-
-.. vale on
 
 Apiary provides a service for creating and hosting API documentation described in the :ref:`blueprint`
 or Swagger format. Once the API description is complete, Apiary generates interactive documentation in a
@@ -36,12 +32,8 @@ programming languages. It also enables the user to make requests to your live AP
 
 .. _apiary-building-docs:
 
-.. vale off
-
 Building Apiary docs
 --------------------
-
-.. vale on
 
 To build Apiary docs locally, follow these steps:
 
