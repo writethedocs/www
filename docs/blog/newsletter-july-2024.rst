@@ -58,9 +58,9 @@ A recent Slack discussion explored which area is most worth learning for documen
 
 Some urged first learning how to work with command-line interfaces, Docker, or even Kubernetes. Operational examples included understanding the basics of file systems, networking, certificates, and SSHing into a virtual machine. Many agreed on the importance of knowing how to work with cloud computing infrastructure, but also that Python programming skills are useful for documenting APIs.
 
-+++++++++++++++++++++++++
-Choosing what comes first
-+++++++++++++++++++++++++
+++++++++++++++++++++++++++++
+Choosing what to learn first
+++++++++++++++++++++++++++++
 
 Operational tooling often requires a documentarian to learn scripting anyway. For instance, modifying a CI/CD content pipeline requires scripts in your pipeline, for tasks such as configuring Docker containers.
 
@@ -77,11 +77,17 @@ Documentarians may struggle to document tools or features they can’t use. Howe
 
 In general, quality suffers when documentarians can't use the tools or features they write about. In many companies, documentarians also play a role within quality assurance and when they can't use the product the development team misses out on useful feedback.
 
-------------------
-TITLE OF ARTICLE 4
-------------------
+-----------------------------------
+Updating the old along with the new
+-----------------------------------
 
-CONTENT.
+In a recent discussion focused on how to deal with a large amount of inherited content, documentarians emphasized the need to tell essential documentation apart from excessive, unnecessary content. The consensus was clear: focus on what truly adds value. For outdated content, the suggestion was to hand over useful legacy documents to users while prioritizing new content that delivers value.
+
+One great piece of advice was to say "no" to unfeasible requests early on. This helps avoid last-minute rejections and ultimately benefits the company more. Simplifyingdocumentation was another key step, together with streamlining or eliminating outdated text to free up time for future tasks.
+
+Regularly reviewing content keeps it relevant and valuable, preventing the buildup of redundant information. You can even use an "update-as-you-go" strategy, focusing on new features and addressing old documentation only when an update affects it. This means prioritizing new content and selectively updating older guides based on metrics, necessity, or available time.
+
+Overall, the conversation highlighted the importance of efficient, focused documentation management. By regularly reviewing and updating content, companies can ensure their documentation stays current, is aligned with business objectives, and supports better operational efficiency and outcomes.
 
 ----------------
 From our sponsor
