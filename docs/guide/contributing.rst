@@ -56,21 +56,26 @@ with docs about docs!
 Link liberally to resources but provide appropriate attribution and mention how or why you 
 find the resources useful.
 
+
+
+
+
+
 For anyone new to GitHub and Git
 --------------------------------
 
 If you've never worked with Git and GitHub before, this resource is great for getting started: `How to Contribute to an Open Source Project on GitHub <https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-github>`_.
 
-To suggest small changes, you can `submit issues <https://github.com/writethedocs/www/issues>`_ via the GitHub interface. 
+To suggest small changes, `submit issues <https://github.com/writethedocs/www/issues>`_ via the GitHub interface. 
 
-For large changes, you'll probably want to learn how to fork and branch, how to work locally (although you can do most things in the GitHub interface in your branch), and how to keep your fork in sync with the main repository.
+For large changes, learn how to fork and branch, how to work locally (although you can do most things in the GitHub interface in your branch), and how to keep your fork in sync with the main repository.
 
-If you really don't want to deal with GitHub at all, we'll take attachments or inline text emailed to guide@writethedocs.org. But we'd like to encourage you to learn some of the basic tools that we use.
+If you really don't want to deal with GitHub, we'll take attachments or inline text emailed to guide@writethedocs.org but we encourage you to learn some of the basic tools we use.
 
 Markup
 ------
 
-Some of the current files in the guide are written in `Markdown </guide/writing/markdown/>`_, and some are written in `reStructured Text (rST) </guide/writing/reStructuredText/>`_. Either one is acceptable, although we'd prefer rST.
+Some files in the guide are written in `Markdown </guide/writing/markdown/>`_, and some are written in `reStructured Text (rST) </guide/writing/reStructuredText/>`_. We prefer rST althouth either format is acceptable.
 
 Community
 ----------------
@@ -90,7 +95,7 @@ You can also check out our `local meetups <https://www.writethedocs.org/meetups>
 
 
 
-Learn Git by editing the Write the Docs website
+Editing the Write the Docs website
 ===============================================
 
 Identify the page you want to edit
@@ -216,7 +221,6 @@ Start using Git and modify the source file of a page
       git push -u origin branch-name
 
 15. Create a `GitHub pull request`_ in the `Write the Docs www project`_.
-
 
 .. _existing issue: https://github.com/writethedocs/www/issues
 .. _RST primer: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
