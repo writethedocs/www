@@ -11,7 +11,7 @@ Cheers, documentarians! This week has seen a cooling off of temperatures after a
 
 In conference news, our Atlantic conference is coming up in September, so `get a ticket </conf/atlantic/2024/tickets/>`__ while you still can. Write the Docs Australia has `announced its call for proposals along with ticket sales </conf/australia/2024/news/announcing-cfp-tickets/>`__, so start getting your ideas in now. And if you're looking farther into the future, the Portland conference has `official dates </conf/portland/2025/news/welcome/>`__, May 4--6, 2025, so mark the time in your calendar.
 
-We'll be taking our traditional break for August, but we have plenty to tide you over until then. Read about why networking can be good (even if it's just being nice), how analytics can help you take action on your docs, what technical skills you might want to focus on learning, and updating legacy docs while keeping up with new changes.
+We'll be taking our traditional newsletter break for August, but we have plenty to tide you over until then. Read about why networking can be good (even if it's just being nice), how analytics can help you take action on your docs, what technical skills you might want to focus on learning, and updating legacy docs while keeping up with new changes.
 
 --------------------------
 The benefits of networking
@@ -33,7 +33,7 @@ How to think about docs metrics
 
 Documentarians in the `#analytics channel <https://writethedocs.slack.com/archives/C5WF43X6G>`__ discussed whether you can effectively improve documentation using docs metrics alone. Most agreed that working from an analytics-generated list of pages and focusing on the worst-performing pages each month is not the best plan. A better approach is to audit the docs content and combine the findings with your own expertise about the product and content along with metrics such as page views, user sentiment, time on page, and scroll depth.
 
-Content knowledge is essential to properly interpreting metrics. For example, low time-on-page could mean that the search serves the wrong page... or that the answer to the most common question is in the first sentence. Metrics also can't tell you whether a problem is due to navigation or content.
+To properly interpret metrics, you need to know the content. For example, low time-on-page could mean that the search serves the wrong page... or that the answer to the most common question is in the first sentence. Metrics also can't tell you whether a problem is due to navigation or content.
 
 You can get actionable information for improving documentation without analytics or metrics. Talking to internal docs users, such as the support team, is a quick way to get information about fixes that may immediately improve quality. You might also consider having subject matter experts review, test, and make suggestions for individual pages.
 
@@ -56,13 +56,13 @@ A recent Slack discussion explored which area is most worth learning for documen
 - Programming or scripting languages such as Python and Bash
 - Infrastructure or operations tools such as Docker and Kubernetes
 
-Some urged first learning how to work with command-line interfaces, Docker, or even Kubernetes. Operational examples included understanding the basics of file systems, networking, certificates, and SSHing into a virtual machine. Many agreed on the importance of cloud knowledge but also that Python programming skills are useful for documenting APIs.
+Some urged first learning how to work with command-line interfaces, Docker, or even Kubernetes. Operational examples included understanding the basics of file systems, networking, certificates, and SSHing into a virtual machine. Many agreed on the importance of knowing how to work with cloud computing infrastructure, but also that Python programming skills are useful for documenting APIs.
 
-+++++++++++++++++++++++++++++++++++++++++
-Challenges with choosing what to focus on
-+++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++
+Choosing what comes first
++++++++++++++++++++++++++
 
-Operational tooling often requires a documentarian to learn scripting anyway. For instance, modifying a CI/CD content pipeline requires scripts in your pipeline, such as to configure Docker containers.
+Operational tooling often requires a documentarian to learn scripting anyway. For instance, modifying a CI/CD content pipeline requires scripts in your pipeline, for tasks such as configuring Docker containers.
 
 Also, the area to learn first depends on the focus of your current role and the specific product that requires documentation. For instance, roles that work with developer portals and SDKs require programming skills. Alternatively, in some roles, subject matter experts deliver draft content to clean and publish, leaving less need to learn such skills.
 
