@@ -9,7 +9,7 @@ Ways to contribute
 -------------------
 
 We encourage contributions from anyone regardless of professional or tool experience. 
-Contributions thare treated with respect if they respect the current effort and state of 
+Contributions are treated with respect if they respect the current effort and state of 
 our guide.
 
 The guide at Write the Docs is meant to address all aspects of software 
@@ -50,43 +50,17 @@ editing that only offers your personal preferences for dealing with a particular
 situation. For example, if you recommend a particular word choice, tell the audience why it 
 matters.
 
-Keep your tone friendly and encouraging. It's a good way to write docs in general, so practice 
+Use a friendly and encouraging tone. It's a good way to write docs in general, so practice 
 with docs about docs!
 
-Link liberally to resources but provide appropriate attribution and mention how or why you 
-find the resources useful.
+When linking to resources, attribute the links appropriately and mention why the resources 
+are useful.
+
+Some files in the guide are written in `Markdown </guide/writing/markdown/>`_, and some 
+are written in `reStructured Text (rST) </guide/writing/reStructuredText/>`_. We prefer rST 
+although either format is acceptable.
 
 
-
-
-
-
-For anyone new to GitHub and Git
---------------------------------
-
-If you've never worked with Git and GitHub before, this resource is great for getting started: `How to Contribute to an Open Source Project on GitHub <https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-github>`_.
-
-To suggest small changes, `submit issues <https://github.com/writethedocs/www/issues>`_ via the GitHub interface. 
-
-For large changes, learn how to fork and branch, how to work locally (although you can do most things in the GitHub interface in your branch), and how to keep your fork in sync with the main repository.
-
-If you really don't want to deal with GitHub, we'll take attachments or inline text emailed to guide@writethedocs.org but we encourage you to learn some of the basic tools we use.
-
-Markup
-------
-
-Some files in the guide are written in `Markdown </guide/writing/markdown/>`_, and some are written in `reStructured Text (rST) </guide/writing/reStructuredText/>`_. We prefer rST althouth either format is acceptable.
-
-Community
-----------------
-
-For help, questions, or discussion, the Write the Docs community is available here:
-
-- `Slack <https://www.writethedocs.org/slack/>`_
-
-- `Conferences <https://www.writethedocs.org/conf/>`_
-
-You can also check out our `local meetups <https://www.writethedocs.org/meetups>`_.
 
 
 
@@ -98,18 +72,17 @@ You can also check out our `local meetups <https://www.writethedocs.org/meetups>
 Editing the Write the Docs website
 ===============================================
 
-Identify the page you want to edit
-----------------------------------
+If you've never worked with Git and GitHub, use this section to get started. 
 
-1. Find an `existing issue`_, or a page you want to improve.
-2. In the repo UI, find the file that corresponds to the page. For
-   example:
-   https://www.writethedocs.org/documentarians/ is produced by
-   ``/docs/documentarians.rst``. (You’ll need this filename later for
-   making changes on your local copy.)
-3. This is a reStructuredText (.rst) file, so you may want to review an
-   `RST primer`_. Other common markup formats are Markdown (.md)
-   and AsciiDoc (.adoc).
+To suggest small changes, `submit issues <https://github.com/writethedocs/www/issues>`_ via 
+the GitHub interface. 
+
+For changes that span multiple files, create a fork and branch, work locally (although you can 
+do most things in the GitHub interface in your branch), and keep your fork in sync with the main 
+repository.
+
+We encourage you to learn some of the basic tools we use but, if you don't want to deal with 
+GitHub, email attachments or inline text to guide@writethedocs.org.
 
 Prerequisites
 -------------
@@ -122,19 +95,25 @@ Prerequisites
    1. In macOS: Open the **Terminal** app.
    2. In Windows: From the Start Menu, open **Git Bash**.
 
-Start using Git and modify the source file of a page
-----------------------------------------------------
+4. In the repo UI, find the file name corresponding to an `existing issue`_ or page you want to improve. 
+
+For example, ``/docs/documentarians.rst`` creates https://www.writethedocs.org/documentarians/. 
+
+5. Review formatting guidelines for the Markup style the file uses. The example file above uses `reStructuredText (.rst) Markup`_. Other Markup styles include Markdown (.md) and AsciiDoc (.adoc).
+
+Update a guide in git
+----------------------
 
 1.  Visit the `Write the Docs www project`_.
 
-2.  Click the **Fork** button in the upper-right corner to create a
+2.  Click **Fork** in the upper-right corner to create a
     copy of the project in your GitHub account. The new page for the
     forked project opens.
 
 3.  Click the **Clone or download** button and copy the https URL from
     the project page.
 
-4.  Open a terminal window so that you can run ``git`` commands.
+4.  Open a terminal window to run ``git`` commands.
 
     1. In macOS: Open the **Terminal** app.
     2. In Windows: From the Start Menu, open **Git Bash**.
@@ -232,3 +211,12 @@ Start using Git and modify the source file of a page
 .. _Visual Studio Code: https://code.visualstudio.com/
 .. _write a good commit message: https://chris.beams.io/posts/git-commit/
 .. _GitHub pull request: https://help.github.com/en/articles/creating-a-pull-request
+
+Community
+----------------
+
+The Write the Docs community is available for help, questions, or discussion:
+
+- `Slack <https://www.writethedocs.org/slack/>`_
+- `Conferences <https://www.writethedocs.org/conf/>`_
+- `Local meetups <https://www.writethedocs.org/meetups>`_
