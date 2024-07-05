@@ -201,11 +201,10 @@ The Write the Docs community is available for help, questions, or discussion:
 
 
 .. _existing issue: https://github.com/writethedocs/www/issues
-.. _RST primer: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
+.. _reStructuredText (.rst) Markup: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
 .. _Create a GitHub account: https://github.com/join
 .. _Download and install Git: https://git-scm.com/downloads
 .. _associate your GitHub username with your local Git installation: https://help.github.com/en/articles/setting-your-username-in-git
-.. _Write the Docs www project: https://github.com/writethedocs/www
 .. _Sublime Text: https://www.sublimetext.com
 .. _Visual Studio Code: https://code.visualstudio.com/
 .. _write a good commit message: https://chris.beams.io/posts/git-commit/
