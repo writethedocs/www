@@ -31,21 +31,21 @@ Realize that helping others is one way to build your network. If you help others
 How to think about docs metrics
 -------------------------------
 
-Documentarians in the `#analytics channel <https://writethedocs.slack.com/archives/C5WF43X6G>`__ discussed whether you can effectively improve documentation using docs metrics alone. Most agreed that working from an analytics-generated list of pages and focusing on the worst-performing pages each month is not the best plan. A better approach is to audit the docs content and combine the findings with your own expertise about the product and content along with metrics such as page views, user sentiment, time on page, and scroll depth.
+Documentarians in the `#analytics channel <https://writethedocs.slack.com/archives/C5WF43X6G>`__ discussed whether you can effectively improve documentation using docs metrics alone. Most agreed that working from an analytics-generated list of pages and focusing on the worst-performing pages each month is not the best plan. A better approach is to audit the docs' content and combine the findings with your own expertise about the product and content along with metrics such as page views, user sentiment, time on page, and scroll depth.
 
 To properly interpret metrics, you need to know the content. For example, low time-on-page could mean that the search serves the wrong page... or that the answer to the most common question is in the first sentence. Metrics also can't tell you whether a problem is due to navigation or content.
 
 You can get actionable information for improving documentation without analytics or metrics. Talking to internal docs users, such as the support team, is a quick way to get information about fixes that may immediately improve quality. You might also consider having subject matter experts review, test, and make suggestions for individual pages.
 
-Information from user surveys and feedback mechanisms is helpful, with the caveats that these tools take time to create and implement, may have low response rates, and usually don't allow you to clarify user comments. You can also collect user feedback in collaboration with those in customer-facing roles such as sales and support if you develop follow-up questions for them to ask when customers volunteer docs feedback. Examples include:
+Information from user surveys and feedback mechanisms is helpful, with the caveats that these tools take time to create and implement, may have low response rates, and usually don't allow you to clarify user comments. You can also collect user feedback in collaboration with those in customer-facing roles such as sales and support if you develop follow-up questions for them to ask when customers volunteer feedback about the docs. Examples include:
 
 * Is the documentation incorrect? Difficult to understand? Missing?
 * Did you have trouble finding what you needed?
 * How is the documentation unhelpful? Does it fail to address your questions? Is it irrelevant?
 
-Documentation benefit maps can be helpful frameworks for thinking about docs quality. A documentation benefit map shows the links between docs activities, outputs, outcomes, and benefits. For example, if "Creating and publishing articles" is listed as an activity, the output might be more articles, with the outcome of decreased onboarding and training costs and the benefit of increased product revenue.
+Documentation benefit maps can be helpful frameworks for thinking about docs quality. A documentation benefit map shows the links between activities, outputs, outcomes, and benefits. For example, if "Creating and publishing articles" is listed as an activity, the output might be more articles, with the outcome of decreased onboarding and training costs and the benefit of increased product revenue.
 
-For more about on docs quality and metrics, listen to the MLOps Podcast episode `Just When We Started to Solve Software Docs, AI Blew Everything Up <https://podcasts.apple.com/gb/podcast/just-when-we-started-to-solve-software-docs-ai-blew/id1505372978?i=1000656918860>`__ or read `Beyond Accuracy: What Documentation Quality Means to Readers <https://www.researchgate.net/publication/331088095_Beyond_Accuracy_What_Documentation_Quality_Means_to_Readers>`__ by Yoel Strimling.
+For more about docs quality and metrics, listen to the MLOps Podcast episode `Just When We Started to Solve Software Docs, AI Blew Everything Up <https://podcasts.apple.com/gb/podcast/just-when-we-started-to-solve-software-docs-ai-blew/id1505372978?i=1000656918860>`__ or read `Beyond Accuracy: What Documentation Quality Means to Readers <https://www.researchgate.net/publication/331088095_Beyond_Accuracy_What_Documentation_Quality_Means_to_Readers>`__ by Yoel Strimling.
 
 -----------------------------------
 Technical skills for documentarians
@@ -72,8 +72,8 @@ Implications of knowledge limitations
 
 Documentarians may struggle to document tools or features they can’t use. However, this limitation is necessary in certain scenarios:
 
-- The learning curve for the undocumented tool or feature is too steep to meet the writing deadline
-- They don't have access to the systems they're writing about
+- The learning curve for the undocumented tool or feature is too steep to meet the writing deadline.
+- They don't have access to the systems they're writing about.
 
 In general, quality suffers when documentarians can't use the tools or features they write about. In many companies, documentarians also play a role within quality assurance and when they can't use the product the development team misses out on useful feedback.
 
@@ -81,9 +81,9 @@ In general, quality suffers when documentarians can't use the tools or features 
 Updating the old along with the new
 -----------------------------------
 
-In a recent discussion focused on how to deal with a large amount of inherited content, documentarians emphasized the need to tell essential documentation apart from excessive, unnecessary content. The consensus was clear: focus on what truly adds value. For outdated content, the suggestion was to hand over useful legacy documents to users while prioritizing new content that delivers value.
+In a recent discussion focused on how to deal with a large amount of inherited content, documentarians emphasized the need to distinguish essential documentation from excessive, unnecessary content. The consensus was clear: focus on what truly adds value. For outdated content, one suggestion was to hand over useful legacy documents to users while prioritizing new content that delivers value.
 
-One great piece of advice was to say "no" to unfeasible requests early on. This helps avoid last-minute rejections and ultimately benefits the company more. Simplifyingdocumentation was another key step, together with streamlining or eliminating outdated text to free up time for future tasks.
+One great piece of advice was to say "no" to unfeasible requests early on. This helps avoid last-minute rejections and ultimately benefits the company more. Simplifying documentation was another key step, together with streamlining or eliminating outdated text to free up time for future updates.
 
 Regularly reviewing content keeps it relevant and valuable, preventing the buildup of redundant information. You can even use an "update-as-you-go" strategy, focusing on new features and addressing old documentation only when an update affects it. This means prioritizing new content and selectively updating older guides based on metrics, necessity, or available time.
 
