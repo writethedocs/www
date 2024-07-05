@@ -60,17 +60,8 @@ Some files in the guide are written in `Markdown </guide/writing/markdown/>`_, a
 are written in `reStructured Text (rST) </guide/writing/reStructuredText/>`_. We prefer rST 
 although either format is acceptable.
 
-
-
-
-
-
-
-
-
-
 Editing the Write the Docs website
-===============================================
+-----------------------------------
 
 If you've never worked with Git and GitHub, use this section to get started. 
 
@@ -85,7 +76,7 @@ We encourage you to learn some of the basic tools we use but, if you don't want 
 GitHub, email attachments or inline text to guide@writethedocs.org.
 
 Prerequisites
--------------
+~~~~~~~~~~~~~~
 
 1. `Create a GitHub account`_.
 2. `Download and install Git`_.
@@ -102,104 +93,112 @@ For example, ``/docs/documentarians.rst`` creates https://www.writethedocs.org/d
 5. Review formatting guidelines for the Markup style the file uses. The example file above uses `reStructuredText (.rst) Markup`_. Other Markup styles include Markdown (.md) and AsciiDoc (.adoc).
 
 Update a guide in git
-----------------------
+~~~~~~~~~~~~~~~~~~~~~~
 
-1.  Visit the `Write the Docs www project`_.
+In the GitHub UI:
+++++++++++++++++++
 
-2.  Click **Fork** in the upper-right corner to create a
-    copy of the project in your GitHub account. The new page for the
-    forked project opens.
+1.  `Fork the Write the Docs www project <https://github.com/writethedocs/www/fork>`_.
 
-3.  Click the **Clone or download** button and copy the https URL from
-    the project page.
+2.  Click **Create fork**.
 
-4.  Open a terminal window to run ``git`` commands.
+3.  Click **< > Code**. 
 
-    1. In macOS: Open the **Terminal** app.
-    2. In Windows: From the Start Menu, open **Git Bash**.
+4.  Copy the HTTPS URL for cloning the repository.
 
-5.  Navigate to or create the directory to where you want to clone the repository. 
+In a terminal window:
+++++++++++++++++++++++
 
-6.  In your terminal window, type ``git clone``, followed by a space,
+1.  Open a terminal.
+
+    * In macOS: open the **Terminal** app.
+    * In Windows: from the Start Menu, open **Git Bash**.
+
+2.  Go to a directory for storing the cloned repository. 
+
+3.  Type ``git clone``, followed by a space,
     and then paste the project URL:
 
-    ::
+       ::
 
-       git clone https://github.com/myname/www.git
+          git clone https://github.com/myname/www.git
 
-6.  Press Enter. The command copies files from GitHub to a folder named
-    ``www`` on your local machine.
+    git clone copies files from GitHub to a folder named ``www`` on your computer.
 
-7.  In the terminal window, go to the ``www`` directory.
+4.  Go to the ``www`` directory:
 
-    ::
+       ::
 
-       cd www
+          cd www
 
-8.  Create and switch to a branch. Using the commands below,
-    replace ``branch-name`` with a name that briefly describes the
-    changes you’ll make, preferably use dashes between words. For
-    example, ``important-typo-fix``.
-
-    a. Create a branch with:
+5.  Create a new branch:
 
        ::
 
           git branch branch-name
 
-       Switch to the branch:
+    Replace ``branch-name`` with a brief description of your proposed changes. 
+    Use dashes between words. For example: ``git branch important-typo-fix``.
+
+6. Switch to the new branch:
 
        ::
 
           git checkout branch-name
 
-    b. Alternatively, use one command to perform both steps at once:
+In any text editor like `Sublime Text`_ or `Visual Studio Code`_:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1. Open the file you want to edit.
+
+2. Edit and save the file.
+
+In a terminal window:
+++++++++++++++++++++++
+
+1. List the files you updated.
 
        ::
 
-          git checkout -b branch-name
+          git status
 
-9. Open the ``www`` folder on your computer.
+2. If the list of updated files looks accurate, add any new or changed files to your local git project:
 
-10. | Open the file you wish to edit using a text editor like `Sublime
-      Text`_ or `Visual Studio Code`_, then save the file.
+       ::
 
-11. In your terminal window, type:
+          git add -A
 
-    ::
+3. Save your changes:
 
-       git status
+       ::
 
-    This will show you all the files that you have updated.
+          git commit -m "Your message"
 
-12. If your changes look accurate, enter the following in your terminal window:
-
-   ::
-
-      git add -A
-
-   This will add any new and changed files to your local project.
-
-13. To save your changes, enter the following in your terminal window:
-
-   ::
-
-      git commit -m "Your message"
-
-   This will save all of your edited files. Replace ``Your message``
-   with a description of the update you made. *Protip*: Learn how
+   git commit saves all of your edited files. Replace ``Your message``
+   with a description of the update you made. Learn how
    to `write a good commit message`_.
 
-   You can repeat the same process to add multiple commits in your
-   branch.
+   You can repeat the same process to add multiple commits to your branch.
 
-14. Send your commit(s) to your GitHub project using ``git push``. Enter the following in your terminal window:
+4. Send your commit(s) to your GitHub project:
 
-   ::
+       ::
 
-      git push -u origin branch-name
+          git push -u origin branch-name
 
-15. Create a `GitHub pull request`_ in the `Write the Docs www project`_.
+   Remember to replace ``branch-name`` with the branch name you created earlier.
+
+5. Create a `GitHub pull request`_ in the `Write the Docs www project`_.
+
+Community
+----------
+
+The Write the Docs community is available for help, questions, or discussion:
+
+- `Slack <https://www.writethedocs.org/slack/>`_
+- `Conferences <https://www.writethedocs.org/conf/>`_
+- `Local meetups <https://www.writethedocs.org/meetups>`_
+
 
 .. _existing issue: https://github.com/writethedocs/www/issues
 .. _RST primer: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
@@ -211,12 +210,3 @@ Update a guide in git
 .. _Visual Studio Code: https://code.visualstudio.com/
 .. _write a good commit message: https://chris.beams.io/posts/git-commit/
 .. _GitHub pull request: https://help.github.com/en/articles/creating-a-pull-request
-
-Community
-----------------
-
-The Write the Docs community is available for help, questions, or discussion:
-
-- `Slack <https://www.writethedocs.org/slack/>`_
-- `Conferences <https://www.writethedocs.org/conf/>`_
-- `Local meetups <https://www.writethedocs.org/meetups>`_
