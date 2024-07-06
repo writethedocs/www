@@ -16,8 +16,7 @@ The guide at Write the Docs is meant to address all aspects of software
 documentation. There are several ways to contribute to the content:
 
 * Fork, branch, and submit a pull request.
-* `Submit an issue <https://github.com/writethedocs/www/issues>`_ to suggest new content 
-or to file bugs against existing content.
+* `Submit an issue <https://github.com/writethedocs/www/issues>`_ to suggest new content or to file bugs against existing content.
 
 Where to start
 --------------
@@ -40,8 +39,7 @@ Follow these guidelines for discussing tools:
 
 * Ensure your content is of interest to a general audience.
 * Avoid advocacy.
-* Present specific use cases, how problems were solved, and what 
-worked or didn't work well. 
+* Present specific use cases, how problems were solved, and what worked or didn't work well. 
 * Consider first creating a GitHub issue or contacting one of the guide editors.
 
 Keep content focused on general principles and best practices instead of arguing over minor 
