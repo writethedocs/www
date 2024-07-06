@@ -81,7 +81,6 @@ Contribution information
    :maxdepth: 2
 
    about/index
-   learn-git-contribute
    contributing
 
 Write the Docs resources
