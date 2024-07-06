@@ -95,8 +95,7 @@ For example, ``/docs/documentarians.rst`` creates https://www.writethedocs.org/d
 Update a guide in git
 ~~~~~~~~~~~~~~~~~~~~~~
 
-In the GitHub UI:
-++++++++++++++++++
+**In the GitHub UI:**
 
 1.  `Fork the Write the Docs www project <https://github.com/writethedocs/www/fork>`_.
 
@@ -106,8 +105,7 @@ In the GitHub UI:
 
 4.  Copy the HTTPS URL for cloning the repository.
 
-In a terminal window:
-++++++++++++++++++++++
+**In a terminal window:**
 
 1.  Open a terminal.
 
@@ -146,15 +144,13 @@ In a terminal window:
 
           git checkout branch-name
 
-In any text editor like `Sublime Text`_ or `Visual Studio Code`_:
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+**In any text editor like `Sublime Text`_ or `Visual Studio Code`_:**
 
 1. Open the file you want to edit.
 
 2. Edit and save the file.
 
-In a terminal window:
-++++++++++++++++++++++
+**In a terminal window:**
 
 1. List the files you updated.
 
