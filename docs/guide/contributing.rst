@@ -70,7 +70,7 @@ For changes that span multiple files, create a fork and branch, work locally (al
 do most things in the GitHub interface in your branch), and keep your fork in sync with the main 
 repository.
 
-We encourage you to learn some of the basic tools we use but, if you don't want to deal with 
+We encourage you to learn some of the basic tools we use, but if you don't want to deal with 
 GitHub, email attachments or inline text to guide@writethedocs.org.
 
 Prerequisites
