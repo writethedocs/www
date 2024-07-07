@@ -2,7 +2,7 @@
 Contributing to the Write the Docs guide
 =========================================
 
-If you want to contribute an awesome documentation guide, you've come to the right place. 
+If you want to contribute to an awesome documentation guide, you've come to the right place. 
 Welcome! Read on to understand what our guides are and how you can help.
 
 Ways to contribute
