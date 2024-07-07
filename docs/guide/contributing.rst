@@ -88,7 +88,7 @@ Prerequisites
 
 For example, ``/docs/documentarians.rst`` creates https://www.writethedocs.org/documentarians/. 
 
-5. Review formatting guidelines for the Markup style the file uses. The example file above uses `reStructuredText (.rst) Markup`_. Other Markup styles include Markdown (.md) and AsciiDoc (.adoc).
+5. Review formatting guidelines for the Markup style the file uses. The example file above uses `reStructuredText (.rst) Markup`_. Other Markup styles for our guides include Markdown (.md).
 
 Update a guide in git
 ~~~~~~~~~~~~~~~~~~~~~~
