@@ -29,7 +29,7 @@ We especially need contributions in these areas:
 * High-level discussions of common tools. 
 
 For help finding where a new set of topics best fit into the rest of 
-the guide, ask in Slack, or file a GitHub issue.
+the guide, :ref:`ask in Slack <writethedocs.org/slack>`, or :ref:`file a GitHub issue <https://github.com/writethedocs/www/issues/new>`.
 
 Guidelines
 -----------
