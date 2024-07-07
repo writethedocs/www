@@ -29,7 +29,7 @@ We especially need contributions in these areas:
 * High-level discussions of common tools. 
 
 For help finding where a new set of topics best fit into the rest of 
-the guide, ask in Slack or file a GitHub issue.
+the guide, ask in Slack, or file a GitHub issue.
 
 Guidelines
 -----------
@@ -40,7 +40,7 @@ Follow these guidelines for discussing tools:
 * Ensure your content is of interest to a general audience.
 * Avoid advocacy.
 * Present specific use cases, how problems were solved, and what worked or didn't work well. 
-* Consider first creating a GitHub issue or contacting one of the guide editors.
+* Consider first creating a GitHub issue or contacting one of the guide editors at guide@writethedocs.org.
 
 Keep content focused on general principles and best practices instead of arguing over minor 
 points at the expense of major principles of clarity and communication. Avoid preferential 
