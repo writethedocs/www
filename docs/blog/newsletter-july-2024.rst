@@ -7,11 +7,11 @@
 Write the Docs Newsletter – July 2024
 #####################################
 
-Cheers, documentarians! This week has seen a cooling off of temperatures after a heat wave across Europe. Joni Mitchell sang that you don't know what you got till it's gone, and it seems the same is true for things you don't want. I hope you are all able to avoid any unwelcome extremes in your lives, whatever forms they make take.
+Cheers, documentarians! This week has seen a cooling off of temperatures after a heat wave across Europe. Joni Mitchell sang that you don't know what you got till it's gone, and it seems the same is true for things you don't want. I hope you are all able to avoid any unwelcome extremes in your lives, whatever forms they may take.
 
 In conference news, our Atlantic conference is coming up in September, so `get a ticket </conf/atlantic/2024/tickets/>`__ while you still can. Write the Docs Australia has `announced its call for proposals along with ticket sales </conf/australia/2024/news/announcing-cfp-tickets/>`__, so start getting your ideas in now. And if you're looking farther into the future, the Portland conference has `official dates </conf/portland/2025/news/welcome/>`__, May 4--6, 2025, so mark the time in your calendar.
 
-We'll be taking our traditional newsletter break for August, but we have plenty to tide you over until then. Read about why networking can be good (even if it's just being nice), how analytics can help you take action on your docs, what technical skills you might want to focus on learning, and updating legacy docs while keeping up with new changes.
+We'll be taking our traditional newsletter break for August, but we have plenty to tide you over until then. Read about why networking can be good (even if it's just being nice), how analytics can help you take action on your docs, what technical skills you might want to focus on learning, and how to update legacy docs while keeping up with new changes.
 
 --------------------------
 The benefits of networking
@@ -19,9 +19,9 @@ The benefits of networking
 
 In the simplest terms, networking is building relationships with others. As documentarians, we may focus on networking for professional reasons, but building effective social networks may also be professionally valuable. The benefits of any networking may not manifest right away, but contacts can prove valuable in the far-off (and possibly not-so-far-off) future. So if any of the following benefits seem important to you, realize that effective networking starts now… not in the future when you already need it.
 
-These days, with documentarians getting laid off, a major reason for developing a professional network is for finding your next job. It's possible to get a job without personal referrals, but many people get hired because they do have a personal connection to someone. A contact may be someone who knows someone who can recommend you. Having personal, trusted referrals can be particularly valuable when competing with hundreds of unfamiliar qualified applicants. 
+These days, with documentarians getting laid off, a major reason for developing a professional network is to find your next job. It's possible to get a job without personal referrals, but many people get hired because they do have a personal connection to someone. A contact may be someone who knows someone who can recommend you. Having personal, trusted referrals can be particularly valuable when competing with hundreds of unfamiliar qualified applicants. 
 
-A recent thread had several anecdotes related to using network connections when job hunting. One person’s connection was from 40 years ago; another’s was from 20 years ago. Others mentioned getting hired permanently after working as contractors or getting referrals because of contracting elsewhere. 
+A recent Slack thread had several anecdotes related to using network connections when job hunting. One person’s connection was from 40 years ago; another’s was from 20 years ago. Others mentioned getting hired permanently after working as contractors or getting referrals because of contracting elsewhere. 
 
 Other networking benefits include professional development (exposure outside your current domain or mentoring within it), finding trusted people to hire yourself, getting effective information (and, possibly, content reviews) from subject matter experts, and developing a community to lean on when needed (not just job hunting — perhaps help with 'imposter syndrome' or safe venting to someone external).
 
@@ -43,7 +43,7 @@ Information from user surveys and feedback mechanisms is helpful, with the cavea
 * Did you have trouble finding what you needed?
 * How is the documentation unhelpful? Does it fail to address your questions? Is it irrelevant?
 
-Documentation benefit maps can be helpful frameworks for thinking about docs quality. A documentation benefit map shows the links between activities, outputs, outcomes, and benefits. For example, if "Creating and publishing articles" is listed as an activity, the output might be more articles, with the outcome of decreased onboarding and training costs and the benefit of increased product revenue.
+Documentation benefit maps can be helpful frameworks for thinking about docs quality. A documentation benefit map shows the links between activities, outputs, outcomes, and benefits. For example, if "creating and publishing articles" is listed as an activity, the output might be more articles, with the outcome of decreased onboarding and training costs and the benefit of increased product revenue.
 
 For more about docs quality and metrics, listen to the MLOps Podcast episode `Just When We Started to Solve Software Docs, AI Blew Everything Up <https://podcasts.apple.com/gb/podcast/just-when-we-started-to-solve-software-docs-ai-blew/id1505372978?i=1000656918860>`__ or read `Beyond Accuracy: What Documentation Quality Means to Readers <https://www.researchgate.net/publication/331088095_Beyond_Accuracy_What_Documentation_Quality_Means_to_Readers>`__ by Yoel Strimling.
 
@@ -81,7 +81,7 @@ In general, quality suffers when documentarians can't use the tools or features 
 Updating the old along with the new
 -----------------------------------
 
-In a recent discussion focused on how to deal with a large amount of inherited content, documentarians emphasized the need to distinguish essential documentation from excessive, unnecessary content. The consensus was clear: focus on what truly adds value. For outdated content, one suggestion was to hand over useful legacy documents to users while prioritizing new content that delivers value.
+In a recent discussion on how to deal with a large amount of inherited content, documentarians emphasized the need to distinguish essential documentation from excessive, unnecessary content. The consensus was clear: focus on what truly adds value. For outdated content, one suggestion was to hand over useful legacy documents to users while prioritizing new content that delivers value.
 
 One great piece of advice was to say "no" to unfeasible requests early on. This helps avoid last-minute rejections and ultimately benefits the company more. Simplifying documentation was another key step, together with streamlining or eliminating outdated text to free up time for future updates.
 
