@@ -18,7 +18,7 @@ documentation. There are several ways to contribute to the content:
 * For changes that span multiple files :ref:`create a fork, a branch, and a pull request <update-guide-in-git>`.
 * `Submit an issue`_ to suggest small changes, new content, or to file bugs against existing content.
 
-We encourage you to learn some of the basic tools we use, but if you don't want to deal with 
+We encourage you to learn some of the tools we use, but if you don't want to deal with 
 GitHub, email attachments or inline text to guide@writethedocs.org.
 
 Where to start
