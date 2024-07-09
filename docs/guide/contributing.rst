@@ -16,7 +16,7 @@ The guides at Write the Docs are meant to address all aspects of software
 documentation. There are several ways to contribute to the content:
 
 * For changes that span multiple files :ref:`create a fork, a branch, and a pull request <update-guide-in-git>`.
-* `Submit an issue <https://github.com/writethedocs/www/issues>`_ to suggest small changes, new content, or to file bugs against existing content.
+* `Submit an issue`_ to suggest small changes, new content, or to file bugs against existing content.
 
 We encourage you to learn some of the basic tools we use, but if you don't want to deal with 
 GitHub, email attachments or inline text to guide@writethedocs.org.
@@ -32,7 +32,7 @@ We especially need contributions in these areas:
 * High-level discussions of common tools. 
 
 For help finding where a new set of topics best fit into the rest of 
-the guide, `ask in Slack <writethedocs.org/slack>`, or `file a GitHub issue <https://github.com/writethedocs/www/issues/new>`.
+the guide, `ask in Slack`_, or `file a GitHub issue`_.
 
 Guidelines
 -----------
@@ -42,7 +42,7 @@ Follow these guidelines for discussing tools:
 * Ensure your content is of interest to a general audience.
 * Avoid advocacy and plugs about your favorite toolchain, even if it's open source.
 * Present specific use cases, how problems were solved, and what worked or didn't work well. 
-* Consider to first `create a GitHub issue <https://github.com/writethedocs/www/issues>` or contact one of the guide editors at guide@writethedocs.org.
+* Consider to first `Submit an issue`_ or contact one of the guide editors at guide@writethedocs.org.
 
 Keep content focused on general principles and best practices instead of arguing over minor 
 points at the expense of major principles of clarity and communication. Avoid preferential 
@@ -56,8 +56,8 @@ with docs about docs!
 When linking to resources, attribute the links appropriately and mention why the resources 
 are useful.
 
-Some files in the guide are written in `Markdown </guide/writing/markdown/>`_, and some 
-are written in `reStructured Text (rST) </guide/writing/reStructuredText/>`_. We prefer rST 
+Some files in the guide are written in `Markdown`_, and some 
+are written in `reStructured Text (rST) </guide/writing/reStructuredText/>`. We prefer rST 
 although either format is acceptable.
 
 Prerequisites
@@ -86,7 +86,7 @@ If you've never worked with Git and GitHub, use this section to get started.
 
 **In the GitHub UI:**
 
-1.  `Fork the Write the Docs www project <https://github.com/writethedocs/www/fork>`_.
+1.  `Fork the Write the Docs www project`_.
 
 2.  Click **Create fork**.
 
@@ -186,6 +186,11 @@ The Write the Docs community is available for help, questions, or discussion:
 
 
 .. _existing issue: https://github.com/writethedocs/www/issues
+.. _ask in Slack: https://www.writethedocs.org/slack
+.. _Markdown: /guide/writing/markdown/
+.. _Fork the Write the Docs www project: https://github.com/writethedocs/www/fork
+.. _file a GitHub issue: https://github.com/writethedocs/www/issues/new
+.. _Submit an issue: https://github.com/writethedocs/www/issues/new
 .. _reStructuredText (.rst) Markup: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
 .. _Create a GitHub account: https://github.com/join
 .. _Download and install Git: https://git-scm.com/downloads
