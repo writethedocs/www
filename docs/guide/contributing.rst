@@ -29,18 +29,17 @@ We especially need contributions in these areas:
 * High-level discussions of common tools. 
 
 For help finding where a new set of topics best fit into the rest of 
-the guide, :ref:`ask in Slack <writethedocs.org/slack>`, or :ref:`file a GitHub issue <https://github.com/writethedocs/www/issues/new>`.
+the guide, `ask in Slack <writethedocs.org/slack>`, or `file a GitHub issue <https://github.com/writethedocs/www/issues/new>`.
 
 Guidelines
 -----------
 
-The guide is not a place to plug your favorite toolchain, even if it's open source. 
 Follow these guidelines for discussing tools: 
 
 * Ensure your content is of interest to a general audience.
-* Avoid advocacy.
+* Avoid advocacy and plugs about your favorite toolchain, even if it's open source.
 * Present specific use cases, how problems were solved, and what worked or didn't work well. 
-* Consider first creating a GitHub issue or contacting one of the guide editors at guide@writethedocs.org.
+* Consider to first `create a GitHub issue <https://github.com/writethedocs/www/issues>` or contact one of the guide editors at guide@writethedocs.org.
 
 Keep content focused on general principles and best practices instead of arguing over minor 
 points at the expense of major principles of clarity and communication. Avoid preferential 
