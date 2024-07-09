@@ -15,7 +15,7 @@ our guide.
 The guides at Write the Docs are meant to address all aspects of software 
 documentation. There are several ways to contribute to the content:
 
-* For changes that span multiple files :ref:`create a fork, a branch, and a pull request`.
+* For changes that span multiple files :ref:`create a fork, a branch, and a pull request <Update a guide in Write the Docs via a pull request>`.
 * `Submit an issue <https://github.com/writethedocs/www/issues>`_ to suggest small changes, new content, or to file bugs against existing content.
 
 We encourage you to learn some of the basic tools we use, but if you don't want to deal with 
