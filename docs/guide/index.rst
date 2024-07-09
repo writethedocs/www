@@ -1,7 +1,8 @@
 Software documentation guide
 ============================
 
-This guide gathers the collective wisdom of the Write the Docs community around best practices for creating software documentation and technical writing.
+This guide gathers the collective wisdom of the Write the Docs community around best practices for creating software documentation and technical writing. The guide originally started for developers to understand and explain documentation to each other. 
+Since then, the focus and community of Write the Docs has expanded. 
 
 **This is a living, breathing guide.** If you'd like to contribute, take a look at the :doc:`guidelines for contributing to the guide <contributing>`. 
 
@@ -78,7 +79,6 @@ Contribution information
    :maxdepth: 2
 
    about/index
-   learn-git-contribute
    contributing
 
 Write the Docs resources
