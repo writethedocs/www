@@ -15,7 +15,7 @@ our guide.
 The guides at Write the Docs are meant to address all aspects of software 
 documentation. There are several ways to contribute to the content:
 
-* For changes that span multiple files `create a fork, a branch, and a pull request <Update a guide in Write the Docs via a pull request>`.
+* For changes that span multiple files :ref:`create a fork, a branch, and a pull request <update-guide-in-git>`.
 * `Submit an issue <https://github.com/writethedocs/www/issues>`_ to suggest small changes, new content, or to file bugs against existing content.
 
 We encourage you to learn some of the basic tools we use, but if you don't want to deal with 
@@ -76,6 +76,8 @@ Prerequisites
 For example, ``/docs/documentarians.rst`` creates https://www.writethedocs.org/documentarians/. 
 
 5. Review formatting guidelines for the Markup style the file uses. The example file above uses `reStructuredText (.rst) Markup`_. Other Markup styles for our guides include Markdown (.md).
+
+.. _update-guide-in-git:
 
 Update a guide in Write the Docs via a pull request
 ----------------------------------------------------
