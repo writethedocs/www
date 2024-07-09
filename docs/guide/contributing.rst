@@ -42,7 +42,7 @@ Follow these guidelines for discussing tools:
 * Ensure your content is of interest to a general audience.
 * Avoid advocacy and plugs about your favorite toolchain, even if it's open source.
 * Present specific use cases, how problems were solved, and what worked or didn't work well. 
-* Consider to first `Submit an issue`_ or contact one of the guide editors at guide@writethedocs.org.
+* Consider to first `file a GitHub issue`_ or contact one of the guide editors at guide@writethedocs.org.
 
 Keep content focused on general principles and best practices instead of arguing over minor 
 points at the expense of major principles of clarity and communication. Avoid preferential 
@@ -57,7 +57,7 @@ When linking to resources, attribute the links appropriately and mention why the
 are useful.
 
 Some files in the guide are written in `Markdown`_, and some 
-are written in `reStructured Text (rST) </guide/writing/reStructuredText/>`. We prefer rST 
+are written in `reStructured Text (rST)`. We prefer rST 
 although either format is acceptable.
 
 Prerequisites
@@ -183,6 +183,7 @@ The Write the Docs community is available for help, questions, or discussion:
 - `Slack <https://www.writethedocs.org/slack/>`_
 - `Conferences <https://www.writethedocs.org/conf/>`_
 - `Local meetups <https://www.writethedocs.org/meetups>`_
+- `Newsletter <https://www.writethedocs.org/newsletter/>`_
 
 
 .. _existing issue: https://github.com/writethedocs/www/issues
