@@ -69,9 +69,7 @@ API documentation
 .. toctree::
    :maxdepth: 2
 
-   api/languages
-   api/generating-documents
-   api/testing
+   api/api-documentation-tools
 
 Contribution information
 ------------------------
