@@ -12,11 +12,14 @@ We encourage contributions from anyone regardless of professional or tool experi
 Contributions are treated with respect if they respect the current effort and state of 
 our guide.
 
-The guide at Write the Docs is meant to address all aspects of software 
+The guides at Write the Docs are meant to address all aspects of software 
 documentation. There are several ways to contribute to the content:
 
-* Fork, branch, and submit a pull request.
-* `Submit an issue <https://github.com/writethedocs/www/issues>`_ to suggest new content or to file bugs against existing content.
+* For changes that span multiple files :ref:`create a fork, a branch, and a pull request`.
+* `Submit an issue <https://github.com/writethedocs/www/issues>`_ to suggest small changes, new content, or to file bugs against existing content.
+
+We encourage you to learn some of the basic tools we use, but if you don't want to deal with 
+GitHub, email attachments or inline text to guide@writethedocs.org.
 
 Where to start
 --------------
@@ -57,23 +60,8 @@ Some files in the guide are written in `Markdown </guide/writing/markdown/>`_, a
 are written in `reStructured Text (rST) </guide/writing/reStructuredText/>`_. We prefer rST 
 although either format is acceptable.
 
-Editing the Write the Docs website
------------------------------------
-
-If you've never worked with Git and GitHub, use this section to get started. 
-
-To suggest small changes, `submit issues <https://github.com/writethedocs/www/issues>`_ via 
-the GitHub interface. 
-
-For changes that span multiple files, create a fork and branch, work locally (although you can 
-do most things in the GitHub interface in your branch), and keep your fork in sync with the main 
-repository.
-
-We encourage you to learn some of the basic tools we use, but if you don't want to deal with 
-GitHub, email attachments or inline text to guide@writethedocs.org.
-
 Prerequisites
-~~~~~~~~~~~~~~
+--------------
 
 1. `Create a GitHub account`_.
 2. `Download and install Git`_.
@@ -89,8 +77,10 @@ For example, ``/docs/documentarians.rst`` creates https://www.writethedocs.org/d
 
 5. Review formatting guidelines for the Markup style the file uses. The example file above uses `reStructuredText (.rst) Markup`_. Other Markup styles for our guides include Markdown (.md).
 
-Update a guide in git
-~~~~~~~~~~~~~~~~~~~~~~
+Update a guide in Write the Docs via a pull request
+----------------------------------------------------
+
+If you've never worked with Git and GitHub, use this section to get started. 
 
 **In the GitHub UI:**
 
