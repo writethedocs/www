@@ -14,7 +14,7 @@ our guide.
 
 There are several ways to contribute to the content:
 
-* Edit a single guide directly in GitHub.
+* :ref:`Edit a single guide directly in GitHub <update-guide-via-github>`.
 * For changes that span multiple files :ref:`create a fork, a branch, and a pull request <update-guide-in-git>`.
 * `Submit an issue`_ to suggest small changes, new content, or to file bugs against existing content.
 
@@ -75,6 +75,8 @@ Prerequisites for contributing
 For example, ``/docs/documentarians.rst`` creates https://www.writethedocs.org/documentarians/. 
 
 5. Review formatting guidelines for the Markup style the file uses. The example file above uses `reStructuredText (.rst)`_.
+
+.. _update-guide-via-github
 
 Editing a single guide directly in the GitHub UI
 --------------------------------------------------
