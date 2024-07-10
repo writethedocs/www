@@ -39,8 +39,7 @@ Contribution guidelines
 
 General guidelines include:
 
-* Use a friendly and encouraging tone. It's a good way to write docs, so practice 
-with a guide at Write the Docs!
+* Use a friendly and encouraging tone. It's a good way to write docs, so practice with a guide at Write the Docs!
 
 * Attribute links and mention why linked resources are useful.
 
