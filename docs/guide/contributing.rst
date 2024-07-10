@@ -37,7 +37,6 @@ the guide, `ask in Slack`_, or `file a GitHub issue`_.
 Contribution guidelines
 -------------------------
 
-General guidelines include:
 
 * Use a friendly and encouraging tone. It's a good way to write docs, so practice with a guide at Write the Docs!
 
