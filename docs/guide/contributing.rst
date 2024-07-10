@@ -31,7 +31,7 @@ We especially need contributions in these areas:
 * Developer tools or docs-as-code toolchains and workflows.
 * High-level discussions of common tools. 
 
-For help finding the best fit for new topics into the rest of 
+For help finding the best fit for new topics in the rest of 
 the guide, `ask in Slack`_, or `file a GitHub issue`_.
 
 Contribution guidelines
@@ -59,6 +59,8 @@ Additionally, follow these guidelines when discussing tools:
 * Present specific use cases, how problems were solved, and what worked or didn't work well. 
 * Consider to first `file a GitHub issue`_ or contact a guide editor at guide@writethedocs.org.
 
+.. _prerequisites:
+
 Prerequisites for contributing
 -------------------------------
 
@@ -70,16 +72,28 @@ Prerequisites for contributing
    1. In macOS: Open the **Terminal** app.
    2. In Windows: From the Start Menu, open **Git Bash**.
 
-4. In the repo UI, find the file name corresponding to an `existing issue`_ or page you want to improve. 
+4. In the `Write the Docs www project`_, find the file name corresponding to an `existing issue`_ or page you want to improve. 
 
 For example, ``/docs/documentarians.rst`` creates https://www.writethedocs.org/documentarians/. 
 
 5. Review formatting guidelines for the Markup style the file uses. The example file above uses `reStructuredText (.rst)`_.
 
-.. _update-guide-via-github
+.. _update-guide-via-github:
 
 Editing a single guide directly in the GitHub UI
 --------------------------------------------------
+
+1. :ref:`Complete the prerequisites <prerequisites>`.
+
+2. Click the pencil icon to edit this file in your fork of the www repo.
+
+3. Make your edits.
+
+4. Click *Commit changes...*.
+
+5. Click *Propose changes*.
+
+6. Click *Create pull request*.
 
 .. _update-guide-in-git:
 
@@ -90,13 +104,15 @@ If you've never worked with Git and GitHub, use this section to get started.
 
 **In the GitHub UI:**
 
-1.  `Fork the Write the Docs www project`_.
+1. :ref:`Complete the prerequisites <prerequisites>`.
 
-2.  Click **Create fork**.
+2. `Fork the Write the Docs www project`_.
 
-3.  Click **< > Code**. 
+3.  Click **Create fork**.
 
-4.  Copy the HTTPS URL for cloning the repository.
+4.  Click **< > Code**. 
+
+5.  Copy the HTTPS URL for cloning the repository.
 
 **In a terminal window:**
 
