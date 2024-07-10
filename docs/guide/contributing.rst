@@ -21,8 +21,8 @@ There are several ways to contribute to the content:
 We encourage you to learn some of the tools we use, but if you don't want to use 
 GitHub, email attachments or inline text to guide@writethedocs.org.
 
-Where to contribute
---------------------
+What to contribute
+-------------------
 
 We especially need contributions in these areas:
 
