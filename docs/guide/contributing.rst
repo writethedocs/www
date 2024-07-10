@@ -46,11 +46,9 @@ with a guide at Write the Docs!
 
 * Although some files in the guide are written in `Markdown`_, we prefer `reStructuredText (.rst)`_.
 
-* Focus content on general principles and best practices instead of arguing over minor 
-points that impede clarity and communication. 
+* Focus content on general principles and best practices instead of arguing over minor points that impede clarity and communication. 
 
-* Avoid preferential editing that only offers your personal preferences for dealing with a particular 
-writing situation. For example, if you recommend a word choice, tell the audience why it matters.
+* Avoid preferential editing that only offers your personal preferences for dealing with a particular writing situation. For example, if you recommend a word choice, tell the audience why it matters.
 
 Additionally, follow these guidelines when discussing tools: 
 
