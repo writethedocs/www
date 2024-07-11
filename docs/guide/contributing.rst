@@ -15,7 +15,7 @@ our guide.
 There are several ways to contribute to the content:
 
 * Edit a single guide directly in GitHub.
-* For changes that span multiple files :ref:`create a fork, a branch, and a pull request <update-guide-in-git>`.
+* For changes that span multiple files, :ref:`create a fork, a branch, and a pull request <update-guide-in-git>`.
 * `Submit an issue`_ to suggest small changes, new content, or to file bugs against existing content.
 
 What to contribute
