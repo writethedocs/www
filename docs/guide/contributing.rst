@@ -81,7 +81,7 @@ Editing a single guide directly in the GitHub UI
 
 1. :ref:`Complete the prerequisites <prerequisites>`.
 
-2. Click the pencil icon to edit this file in your fork of the www repo.
+2. Click the pencil icon to create a fork of the `www` repo and start editing the file in it.
 
 3. Make your edits.
 
