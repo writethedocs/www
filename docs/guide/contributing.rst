@@ -14,7 +14,7 @@ current effort and state are treated with respect.
 There are several ways to contribute:
 
 * :ref:`Edit a single guide directly in the GitHub UI <update-guide-via-github>`.
-* :ref:`Edit files via git <update-guide-in-git>`.
+* :ref:`Edit files using Git <update-guide-in-git>`.
 * `Submit an issue`_ to suggest small changes, new content, or to note bugs in existing content.
 
 What to contribute
