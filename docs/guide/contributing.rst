@@ -14,12 +14,9 @@ our guide.
 
 There are several ways to contribute to the content:
 
-* :ref:`Edit a single guide directly in GitHub <update-guide-via-github>`.
+* Edit a single guide directly in GitHub.
 * For changes that span multiple files :ref:`create a fork, a branch, and a pull request <update-guide-in-git>`.
 * `Submit an issue`_ to suggest small changes, new content, or to file bugs against existing content.
-
-We encourage you to learn some of the tools we use, but if you don't want to use 
-GitHub, email attachments or inline text to guide@writethedocs.org.
 
 What to contribute
 -------------------
@@ -55,10 +52,15 @@ Additionally, follow these guidelines when discussing tools:
 * Present specific use cases, how problems were solved, and what worked or didn't work well. 
 * Consider to first `file a GitHub issue`_ or contact a guide editor at guide@writethedocs.org.
 
-.. _prerequisites:
+.. _update-guide-in-git:
 
-Prerequisites for contributing
--------------------------------
+Update a guide in Write the Docs via a pull request
+----------------------------------------------------
+
+If you've never worked with Git and GitHub, use this section to get started. 
+
+Prerequisites
+~~~~~~~~~~~~~~
 
 1. `Create a GitHub account`_.
 2. `Download and install Git`_.
@@ -74,41 +76,18 @@ For example, ``/docs/documentarians.rst`` creates https://www.writethedocs.org/d
 
 5. Review formatting guidelines for the Markup style the file uses. The example file above uses `reStructuredText (.rst)`_.
 
-.. _update-guide-via-github:
-
-Editing a single guide directly in the GitHub UI
---------------------------------------------------
-
-1. :ref:`Complete the prerequisites <prerequisites>`.
-
-2. Click the pencil icon to create a fork of the `www` repo and start editing the file in it.
-
-3. Make your edits.
-
-4. Click *Commit changes...*.
-
-5. Click *Propose changes*.
-
-6. Click *Create pull request*.
-
-.. _update-guide-in-git:
-
-Update a guide in Write the Docs via a pull request
-----------------------------------------------------
-
-If you've never worked with Git and GitHub, use this section to get started. 
+Create a pull request with your changes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **In the GitHub UI:**
 
-1. :ref:`Complete the prerequisites <prerequisites>`.
+1. `Fork the Write the Docs www project`_.
 
-2. `Fork the Write the Docs www project`_.
+2.  Click **Create fork**.
 
-3.  Click **Create fork**.
+3.  Click **< > Code**. 
 
-4.  Click **< > Code**. 
-
-5.  Copy the HTTPS URL for cloning the repository.
+4.  Copy the HTTPS URL for cloning the repository.
 
 **In a terminal window:**
 
