@@ -5,18 +5,17 @@ Contributing to the Write the Docs guide
 Welcome! The guides at Write the Docs are meant to address all aspects of software documentation. 
 To contribute to a guide, read on to understand our guides and how you can help.
 
-Ways to contribute
+How to contribute
 -------------------
 
-Anyone can contribute regardless of professional or tool experience. 
-Contributions are treated with respect if they respect the current effort and state of 
-our guide.
+Anyone can contribute regardless of professional or tool experience. Contributions that respect our guide's 
+current effort and state are treated with respect.
 
-There are several ways to contribute to the content:
+There are several ways to contribute:
 
-* Edit a single guide directly in GitHub.
-* For changes that span multiple files, :ref:`create a fork, a branch, and a pull request <update-guide-in-git>`.
-* `Submit an issue`_ to suggest small changes, new content, or to file bugs against existing content.
+* :ref:`Edit a single guide directly in the GitHub UI <update-guide-via-github>`.
+* :ref:`Edit files via git <update-guide-in-git>`.
+* `Submit an issue`_ to suggest small changes, new content, or to note bugs in existing content.
 
 What to contribute
 -------------------
@@ -28,22 +27,20 @@ We especially need contributions in these areas:
 * Developer tools or docs-as-code toolchains and workflows.
 * High-level discussions of common tools. 
 
-For help finding the best fit for new topics in the rest of 
-the guide, `ask in Slack`_, or `file a GitHub issue`_.
+For help organizing a new topic within the current guide, `ask in Slack`_, or `file a GitHub issue`_.
 
 Contribution guidelines
 -------------------------
-
 
 * Use a friendly and encouraging tone. It's a good way to write docs, so practice with docs about docs!
 
 * Attribute links and mention why linked resources are useful.
 
-* Although some files in the guide are written in `Markdown`_, we prefer `reStructuredText (.rst)`_.
+* Use `reStructuredText (.rst)`_ (`Markdown`_ is also acceptable).
 
-* Focus content on general principles and best practices instead of arguing over minor points that impede clarity and communication. 
+* Focus content on general principles and best practices. Arguing over minor points impedes clarity. 
 
-* Avoid preferential editing that only offers your personal preferences for dealing with a particular writing situation. For example, if you recommend a word choice, tell the audience why it matters.
+* Avoid enforcing personal preferences. For example, if you recommend a word choice, tell the audience why it matters.
 
 Additionally, follow these guidelines when discussing tools: 
 
@@ -52,15 +49,30 @@ Additionally, follow these guidelines when discussing tools:
 * Present specific use cases, how problems were solved, and what worked or didn't work well. 
 * Consider to first `file a GitHub issue`_ or contact a guide editor at guide@writethedocs.org.
 
+.. _update-guide-via-github:
+
+Editing a single guide via the GitHub UI
+-------------------------------------------
+
+1. Click the pencil icon to edit this file in your fork of the www repo.
+
+2. Make your edits.
+
+3. Click *Commit changes...*.
+
+4. Click *Propose changes*.
+
+5. Click *Create pull request*.
+
 .. _update-guide-in-git:
 
-Update a guide in Write the Docs via a pull request
-----------------------------------------------------
+Updating a guide via a pull request
+-------------------------------------
 
 If you've never worked with Git and GitHub, use this section to get started. 
 
-Prerequisites
-~~~~~~~~~~~~~~
+Before you begin
+~~~~~~~~~~~~~~~~~
 
 1. `Create a GitHub account`_.
 2. `Download and install Git`_.
@@ -134,7 +146,7 @@ Create a pull request with your changes
 
 2. Edit and save the file.
 
-**In a terminal window:**
+**In your terminal window:**
 
 1. List the files you updated.
 
