@@ -54,15 +54,21 @@ Additionally, follow these guidelines when discussing tools:
 Editing a single guide via the GitHub UI
 -------------------------------------------
 
-1. Click the pencil icon to edit this file in your fork of the www repo.
+1. In the `Write the Docs www project`_, find the file for the content you want to improve. 
 
-2. Make your edits.
+For example, ``/docs/documentarians.rst`` creates https://www.writethedocs.org/documentarians/. 
 
-3. Click *Commit changes...*.
+2. Review formatting guidelines for the file's Markup style. For example, ``/docs/documentarians.rst`` uses `reStructuredText (.rst)`_.
 
-4. Click *Propose changes*.
+3. Click the pencil icon to edit this file in your fork of the www repo.
 
-5. Click *Create pull request*.
+4. Make your edits.
+
+5. Click *Commit changes...*.
+
+6. Click *Propose changes*.
+
+7. Click *Create pull request*.
 
 .. _update-guide-in-git:
 
@@ -199,7 +205,7 @@ The Write the Docs community is available for help, questions, or discussion:
 .. _Fork the Write the Docs www project: https://github.com/writethedocs/www/fork
 .. _file a GitHub issue: https://github.com/writethedocs/www/issues/new
 .. _Submit an issue: https://github.com/writethedocs/www/issues/new
-.. _reStructuredText (.rst): https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
+.. _reStructuredText (.rst): /guide/writing/reStructuredText/
 .. _Create a GitHub account: https://github.com/join
 .. _Download and install Git: https://git-scm.com/downloads
 .. _associate your GitHub username with your local Git installation: https://help.github.com/en/articles/setting-your-username-in-git
