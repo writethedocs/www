@@ -2,27 +2,23 @@
 Contributing to the Write the Docs guide
 =========================================
 
-If you want to contribute to an awesome documentation guide, you've come to the right place. 
-Welcome! Read on to understand what our guides are and how you can help.
+Welcome! The guides at Write the Docs are meant to address all aspects of software documentation. 
+To contribute to a guide, read on to understand our guides and how you can help.
 
-Ways to contribute
+How to contribute
 -------------------
 
-We encourage contributions from anyone regardless of professional or tool experience. 
-Contributions are treated with respect if they respect the current effort and state of 
-our guide.
+Anyone can contribute regardless of professional or tool experience. Contributions that respect our guide's 
+current effort and state are treated with respect.
 
-The guides at Write the Docs are meant to address all aspects of software 
-documentation. There are several ways to contribute to the content:
+There are several ways to contribute:
 
-* For changes that span multiple files :ref:`create a fork, a branch, and a pull request <update-guide-in-git>`.
-* `Submit an issue`_ to suggest small changes, new content, or to file bugs against existing content.
+* :ref:`Edit a single guide directly in the GitHub UI <update-guide-via-github>`.
+* :ref:`Edit files using Git <update-guide-in-git>`.
+* `Submit an issue`_ to suggest small changes, new content, or to note bugs in existing content.
 
-We encourage you to learn some of the tools we use, but if you don't want to deal with 
-GitHub, email attachments or inline text to guide@writethedocs.org.
-
-Where to start
---------------
+What to contribute
+-------------------
 
 We especially need contributions in these areas:
 
@@ -31,37 +27,58 @@ We especially need contributions in these areas:
 * Developer tools or docs-as-code toolchains and workflows.
 * High-level discussions of common tools. 
 
-For help finding where a new set of topics best fit into the rest of 
-the guide, `ask in Slack`_, or `file a GitHub issue`_.
+For help organizing a new topic within the current guide, `ask in Slack`_, or `file a GitHub issue`_.
 
-Guidelines
------------
+Contribution guidelines
+-------------------------
 
-Follow these guidelines for discussing tools: 
+* Use a friendly and encouraging tone. It's a good way to write docs, so practice with docs about docs!
+
+* Attribute links and mention why linked resources are useful.
+
+* Use `reStructuredText (.rst)`_ (`Markdown`_ is also acceptable).
+
+* Focus content on general principles and best practices. Arguing over minor points impedes clarity. 
+
+* Avoid enforcing personal preferences. For example, if you recommend a word choice, tell the audience why it matters.
+
+Additionally, follow these guidelines when discussing tools: 
 
 * Ensure your content is of interest to a general audience.
 * Avoid advocacy and plugs about your favorite toolchain, even if it's open source.
 * Present specific use cases, how problems were solved, and what worked or didn't work well. 
-* Consider to first `file a GitHub issue`_ or contact one of the guide editors at guide@writethedocs.org.
+* Consider to first `file a GitHub issue`_ or contact a guide editor at guide@writethedocs.org.
 
-Keep content focused on general principles and best practices instead of arguing over minor 
-points at the expense of major principles of clarity and communication. Avoid preferential 
-editing that only offers your personal preferences for dealing with a particular writing 
-situation. For example, if you recommend a particular word choice, tell the audience why it 
-matters.
+.. _update-guide-via-github:
 
-Use a friendly and encouraging tone. It's a good way to write docs in general, so practice 
-with docs about docs!
+Editing a single guide via the GitHub UI
+-------------------------------------------
 
-When linking to resources, attribute the links appropriately and mention why the resources 
-are useful.
+1. In the `Write the Docs www project`_, find the file for the content you want to improve. 
 
-Some files in the guide are written in `Markdown`_, and some 
-are written in `reStructured Text (rST)`. We prefer rST 
-although either format is acceptable.
+For example, ``/docs/documentarians.rst`` creates https://www.writethedocs.org/documentarians/. 
 
-Prerequisites
---------------
+2. Review formatting guidelines for the file's Markup style. For example, ``/docs/documentarians.rst`` uses `reStructuredText (.rst)`_.
+
+3. Click the pencil icon to edit this file in your fork of the www repo.
+
+4. Make your edits.
+
+5. Click **Commit changes...**.
+
+6. Click **Propose changes**.
+
+7. Click **Create pull request**.
+
+.. _update-guide-in-git:
+
+Updating a guide via a pull request
+-------------------------------------
+
+If you've never worked with Git and GitHub, use this section to get started. 
+
+Before you begin
+~~~~~~~~~~~~~~~~~
 
 1. `Create a GitHub account`_.
 2. `Download and install Git`_.
@@ -71,22 +88,18 @@ Prerequisites
    1. In macOS: Open the **Terminal** app.
    2. In Windows: From the Start Menu, open **Git Bash**.
 
-4. In the repo UI, find the file name corresponding to an `existing issue`_ or page you want to improve. 
+4. In the `Write the Docs www project`_, find the file name corresponding to an `existing issue`_ or page you want to improve. 
 
 For example, ``/docs/documentarians.rst`` creates https://www.writethedocs.org/documentarians/. 
 
-5. Review formatting guidelines for the Markup style the file uses. The example file above uses `reStructuredText (.rst) Markup`_. Other Markup styles for our guides include Markdown (.md).
+5. Review formatting guidelines for the Markup style the file uses. The example file above uses `reStructuredText (.rst)`_.
 
-.. _update-guide-in-git:
-
-Update a guide in Write the Docs via a pull request
-----------------------------------------------------
-
-If you've never worked with Git and GitHub, use this section to get started. 
+Create a pull request with your changes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **In the GitHub UI:**
 
-1.  `Fork the Write the Docs www project`_.
+1. `Fork the Write the Docs www project`_.
 
 2.  Click **Create fork**.
 
@@ -139,7 +152,7 @@ If you've never worked with Git and GitHub, use this section to get started.
 
 2. Edit and save the file.
 
-**In a terminal window:**
+**In your terminal window:**
 
 1. List the files you updated.
 
@@ -192,7 +205,7 @@ The Write the Docs community is available for help, questions, or discussion:
 .. _Fork the Write the Docs www project: https://github.com/writethedocs/www/fork
 .. _file a GitHub issue: https://github.com/writethedocs/www/issues/new
 .. _Submit an issue: https://github.com/writethedocs/www/issues/new
-.. _reStructuredText (.rst) Markup: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
+.. _reStructuredText (.rst): /guide/writing/reStructuredText/
 .. _Create a GitHub account: https://github.com/join
 .. _Download and install Git: https://git-scm.com/downloads
 .. _associate your GitHub username with your local Git installation: https://help.github.com/en/articles/setting-your-username-in-git
