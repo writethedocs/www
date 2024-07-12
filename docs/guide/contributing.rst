@@ -64,11 +64,11 @@ For example, ``/docs/documentarians.rst`` creates https://www.writethedocs.org/d
 
 4. Make your edits.
 
-5. Click *Commit changes...*.
+5. Click **Commit changes...**.
 
-6. Click *Propose changes*.
+6. Click **Propose changes**.
 
-7. Click *Create pull request*.
+7. Click **Create pull request**.
 
 .. _update-guide-in-git:
 
