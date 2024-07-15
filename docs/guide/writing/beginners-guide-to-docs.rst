@@ -2,7 +2,6 @@ How to write code documentation
 ================================
 
 There is a magical feeling that comes from releasing code.
-*Someone is using my code?!*
 The feeling is a mix of terror and excitement.
 You're eager to tell the world about your new project but despair at where to start. Even professional writers 
 know the mixed emotions caused by a blank page.
