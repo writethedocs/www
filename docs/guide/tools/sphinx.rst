@@ -1,3 +1,5 @@
+.. _intro-sphinx:
+
 ======================
 Introduction to Sphinx
 ======================
@@ -27,8 +29,8 @@ complexity.
 Just know that some of the awkward syntax allows you to do more interesting
 things further down the line.
 In particular, it is extensible: it has a formal way of adding markup
-`directives`_ that allow more sophisticated parsing. 
-For example, Sphinx includes directives to relate documentation of 
+`directives`_ that allow more sophisticated parsing.
+For example, Sphinx includes directives to relate documentation of
 modules, classes and methods to the corresponding code.
 
 Installing Sphinx
@@ -105,12 +107,12 @@ following ``toctree`` directive in TopLevel1::
      Child1
      Child2
      Child3
- 
+
 Different Sphinx themes will have different ways of displaying the TOC
 in the sidebar. You can also configure whether or not to display the
 toctree directive as a mini-toc within the topic itself, by adding a
 ``:hidden:`` option to the ``toctree`` directive.
-     
+
 Writing docs
 ------------
 

@@ -184,7 +184,7 @@ sponsors:
 # Things that change over time, listed in order of change
 flagcfp: False
 flaglanding: False
-flaghassponsors: False
+flaghassponsors: True
 flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
