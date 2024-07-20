@@ -1,17 +1,17 @@
-How to write code documentation
-================================
+How to write software documentation
+====================================
 
 There is a magical feeling that comes from releasing code.
 The feeling is a mix of terror and excitement.
 You're eager to tell the world about your new project but despair at where to start. Even professional writers 
 know the mixed emotions caused by a blank page.
 
-Good code documentation helps relieve that fear. So, have no fear! Use this guide to document your first open-source project for 
+Good software documentation helps relieve that fear. So, have no fear! Use this guide to document your first open-source project for 
 public release. 
 
 .. _why:
 
-Why write code documentation?
+Why write software documentation?
 ---------------------------------------
 
 Understand your code in 6 months
@@ -24,7 +24,7 @@ users who need good documentation.
 Get people to use your code
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Just like code comments explain the *why* and not the *how*, code documentation states the *why* behind the code.
+Just like code comments explain the *why* and not the *how*, software documentation states the *why* behind the code.
 Good documentation solves a few 
 common reasons people won't use your code:
 
@@ -59,8 +59,8 @@ Start simple to achieve the best results.
 
 .. _write:
 
-What to include in code documentation
---------------------------------------
+What to include in software documentation
+------------------------------------------
 
 Give users the information they need, but not too much.
 
@@ -146,8 +146,8 @@ BSD? MIT? GPL? A project's license might not matter to you, but the people who w
 
 .. _template:
 
-Next steps for code documentation
-----------------------------------
+Next steps for software documentation
+--------------------------------------
 
 After following this guide,
 we know your code is ready for success!
@@ -156,8 +156,8 @@ see `how to maintain an open source project`_.
 
 .. _how to maintain an open source project: https://medium.com/p/aaa2a5437d3a
 
-Tools for writing code documentation
--------------------------------------
+Tools for writing software documentation
+-----------------------------------------
 
 Programmers live in a world of plain text.
 Their documentation tooling and workflows should function similarly while being powerful and easy to use.
