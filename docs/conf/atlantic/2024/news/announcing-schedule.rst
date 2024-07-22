@@ -42,7 +42,7 @@ Start thinking about Writing Day
 Our pre-conference `Writing Day <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/>`_ will happen on Sunday, and it is much more fun when folks come with their own projects in mind!
 
 If you have a project or are part of a community that you think would benefit from a writing sprint, start brainstorming now about what you might want to focus on.
-If you'd like us to include your project on the Writing Day page `submit your project <https://forms.gle/j44pUr31RNyzy5pL6>`_ and we'll
+If you'd like us to include your project on the Writing Day page, `submit your project <https://forms.gle/j44pUr31RNyzy5pL6>`_ and we'll
 add it to our `Writing Day project list <https://www.writethedocs.org/conf/atlantic/{{year}}/writing-day/#your-project-here>`__.
 You can also just show up on Sunday ready to introduce your project, but getting it on the website in advance can increase interest.
 
