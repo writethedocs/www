@@ -125,7 +125,7 @@ date:
   day_four:
     event: Conference Day 2
     date: September 24
-    summary: And the conference goes on! We are already starting to miss you. |:heart:|
+    summary: And the conference goes on! We are already starting to miss you ❤️
     dotw: Tuesday
     talk_time: 12:00-18:00
     job_fair_time: 10:00-12:00  # disabled for now
@@ -137,10 +137,10 @@ about:
   summary:
     "The main presentation track takes place on **September 23-24 (Monday and Tuesday) from 12:00 to 18:00 UTC**.
     During the main event we also run an :doc:`/conf/atlantic/2024/unconference`."
-  venue: "Hopin online conference platform"
+  venue: "Online conference platform"
   photos:
   mainroom: "Stage area"
-  unconfroom: "Sessions area"
+  unconfroom: "Channels area"
   projector_ratio: "16:9"
   job_fair_room: "Sponsor area"
 
