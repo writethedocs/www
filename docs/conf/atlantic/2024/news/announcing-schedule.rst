@@ -8,14 +8,14 @@ Announcing Full Schedule
 
 Hey everyone!
 
-We're around two months away from the next online {{city}} conference, and we're working hard to make sure it'll be as welcoming and fun as previous years.
+We're around two months away from the next virtual {{city}} conference, and we're working hard to make sure it'll be as welcoming and fun as previous years.
 
 Today we're announcing the full presentation schedule.
 
 Conference platform
 --------------------
 
-The conference will again be held on Venueless this year, so some things might looks a little different.
+This year, the conference will be held on a new platform, Venueless, so some things will look a little different.
 But you'll find the usual spaces and experiences anyhow, including a stage for our amazing speakers,
 integrated chat, unconference rooms with breakout calls, and expo booths.
 
@@ -42,7 +42,7 @@ Start thinking about Writing Day
 Our pre-conference `Writing Day <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/>`_ will happen on Sunday, and it is much more fun when folks come with their own projects in mind!
 
 If you have a project or are part of a community that you think would benefit from a writing sprint, start brainstorming now about what you might want to focus on.
-If you'd like us to include your project on the Writing Day page `submit your project <https://forms.gle/KPo1ZPuRHqf7UZy37>`_ and we'll
+If you'd like us to include your project on the Writing Day page `submit your project <https://forms.gle/j44pUr31RNyzy5pL6>`_ and we'll
 add it to our `Writing Day project list <https://www.writethedocs.org/conf/atlantic/{{year}}/writing-day/#your-project-here>`__.
 You can also just show up on Sunday ready to introduce your project, but getting it on the website in advance can increase interest.
 
@@ -57,7 +57,7 @@ The campaign will run in batches until October 31st. Shipping is available from 
 All our events and activities
 -----------------------------
 
-Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge. And even though this years conference is held online, we're holding to that plan.
+Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge. We've done so for over a decade, and are holding to that plan in our virtual events.
 
 * **Lightning Talks.** We'll have `lightning talks <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/lightning-talks/>`__ each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.
 * **Unconference.** We'll be running the `Unconference <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/unconference/>`_ all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a specific thing? This is the place.
