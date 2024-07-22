@@ -19,7 +19,7 @@ The conference will again be held on Venueless this year, so some things might l
 But you'll find the usual spaces and experiences anyhow, including a stage for our amazing speakers,
 integrated chat, unconference rooms with breakout calls, and expo booths.
 
-Our updated Welcome Wagon guide, availalbe soon, will help it feel familiar before you've even arrived.
+Our updated Welcome Wagon guide, available soon, will help it feel familiar before you've even arrived.
 
 All ticket holders will receive an invite to Venuless around one week before the conference.
 If you don't have your ticket yet, `register one soon <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_, as we may sell out.
