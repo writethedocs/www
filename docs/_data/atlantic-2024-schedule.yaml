@@ -1,0 +1,116 @@
+writing_day:
+  - time: '10:00'
+    title: 'Platform opens'
+    duration: '01:00'
+  - duration: '00:30'
+    title: Morning introduction - Introduction to Sprints & Project Introductions
+  - duration: '02:30'
+    title: Team up and start working
+  - duration: '00:30'
+    title: 'Snack break'
+  - duration: '02:30'
+    title: Continue working
+  - duration: '00:00'
+    title: End of Writing Day
+
+talks_day1:
+  - time: '10:00'
+    title: Platform opens
+    duration: '00:30'
+  - duration: '00:30'
+    title: Hallway track - Chat with other attendees
+  - duration: '00:25'
+    title: Write the Docs Team - Conference introduction
+  - duration: '0:05'
+    title: '⏲ 5 minute break'
+  - duration: '0:00'
+    title: "<b>Unconference starts</b>"
+  - duration: '0:30'
+    slug: devops-your-docs-lorna-mitchell
+  - duration: '0:10'
+    title: '✋ Q&A for the previous talk'
+  - duration: '0:30'
+    slug: pull-it-together-how-we-unified-software-and-hardware-documentation-to-create-a-ois-n-fitzgerald
+  - duration: '0:10'
+    title: '✋ Q&A for the previous talk'
+  - duration: '0:20'
+    title: '☕️ Coffee break'
+  - duration: '0:30'
+    slug: we-re-writers-not-designers-unblocking-your-organization-with-diagrams-as-code-diana-breza
+  - duration: '0:10'
+    title: '✋ Q&A for the previous talk'
+  - duration: '0:30'
+    slug: what-is-a-template-and-how-can-i-create-one-susan-armstrong
+  - duration: '0:10'
+    title: '✋ Q&A for the previous talk'
+  - duration: '0:20'
+    title: '🍲 Snack break'
+  - duration: '0:30'
+    title: ⚡️ Lightning Talks
+  - duration: '0:05'
+    title: '⏲ 5 minute break'
+  - duration: '0:30'
+    slug: clicks-without-limits-content-design-for-everyone-everywhere-eric-zrinsky
+  - duration: '0:10'
+    title: '✋ Q&A for the previous talk'
+  - duration: '0:30'
+    slug: graphql-docs-beyond-the-schema-sarah-sanders
+  - duration: '0:10'
+    title: '✋ Q&A for the previous talk'
+  - duration: '00:30'
+    title: Hallway track - Chat with other attendees
+  - duration: '0:00'
+    title: <b>Day 1 ends</b>
+
+
+talks_day2:
+  - time: '10:00'
+    duration: '00:30'
+    title: Platform opens
+  - duration: '00:30'
+    title: Hallway track - Chat with other attendees
+  - duration: '0:00'
+    title: "<b>Unconference starts</b>"
+  - duration: '0:00'
+    title: "<b>Sponsor Expo starts</b>"
+  - duration: '0:30'
+    slug: what-s-in-a-word-lessons-from-localizing-kubernetes-documentation-to-arabic-ali-d
+  - duration: '0:10'
+    title: '✋ Q&A for the previous talk'
+  - duration: '0:30'
+    slug: ZZZhow-and-why-technical-writers-should-lead-onboarding-gideon-behrensmeyerZZZZZZZZZZZZZZ
+  - duration: '0:10'
+    title: '✋ Q&A for the previous talk'
+  - duration: '0:20'
+    title: '☕️ Coffee break'
+  - duration: '0:30'
+    slug: navigating-the-maze-strategies-for-successful-documentation-planning-gayathri-krishnaswamy
+  - duration: '0:10'
+    title: '✋ Q&A for the previous talk'
+  - duration: '0:30'
+    slug: welcome-to-the-world-of-technical-writing-a-guide-for-newcomers-kruno-golubi
+  - duration: '0:10'
+    title: '✋ Q&A for the previous talk'
+  - duration: '0:00'
+    title: '<b>Sponsor Expo closes</b>'
+  - duration: '0:20'
+    title: '🍲 Snack break'
+  - duration: '0:30'
+    title: ⚡️ Lightning Talks
+  - duration: '0:05'
+    title: '⏲ 5 minute break'
+  - duration: '0:30'
+    slug: rags-to-riches-how-our-content-affects-retrieval-augmented-generation-manny-silva
+  - duration: '0:10'
+    title: '✋ Q&A for the previous talk'
+  - duration: '0:30'
+    slug: from-morphemes-to-manuscripts-how-linguistics-can-make-you-a-better-writer-chloe-guttmann
+  - duration: '0:10'
+    title: '✋ Q&A for the previous talk'
+  - duration: '0:05'
+    title: 'Closing address'
+  - duration: '00:30'
+    title: Hallway track - Chat with other attendees
+  - duration: '0:00'
+    title: '<b>Conference ends 😔</b>'
+
