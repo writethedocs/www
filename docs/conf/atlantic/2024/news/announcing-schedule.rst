@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: July 26, 202
+.. post:: July 22, 202
    :tags: {{year}}, {{shortcode}}-{{year}}, schedule
 
 Announcing Full Schedule
