@@ -33,7 +33,7 @@ Second session:
 Project list
 ------------
 
-Submit your project using our `Writing Day project form <https://forms.gle/KPo1ZPuRHqf7UZy37>`_ or send us a PR with your project info!
+Submit your project using our `Writing Day project form <https://forms.gle/B2pWvz9e1igC4cS56>`_ or send us a PR with your project info!
 
 Check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-project-faq` to review what information is 
 needed for your project submission as well as ways to maximize your event experience.
