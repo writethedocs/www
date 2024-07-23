@@ -114,22 +114,22 @@ date:
     #summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
     icon: writing
     dotw: Sunday
-    writing_day_time: 12:00-18:00
+    writing_day_time: 10:30-17:00
   day_three:
     event: Conference Day 1
     date: September 23
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Monday
-    talk_time: 12:00-18:00
-    unconference_time: 10:00-20:00
+    talk_time: 10:00-17:15
+    unconference_time: 11:30-17:15
   day_four:
     event: Conference Day 2
     date: September 24
     summary: And the conference goes on! We are already starting to miss you ❤️
     dotw: Tuesday
-    talk_time: 12:00-18:00
+    talk_time: 10:00-16:50
     job_fair_time: 10:00-12:00  # disabled for now
-    unconference_time: 10:00-20:00
+    unconference_time: 14:00-16:15
   total_talk_days: 2
 
 about:
