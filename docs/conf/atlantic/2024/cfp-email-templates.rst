@@ -196,7 +196,7 @@ Subject:
 
    We're about eight weeks out from the conference now, lots of stuff is happening behind the scenes, and I hope you're feeling good about recording.
 
-   We've got a [provisional schedule]({{cfp.preview}}) up, and I'd *love it* if you could check your time-slot and make sure you can do a live Q&A shortly after your talk is streamed. I've tried to cater to all timezone requests and requirments, but if you can't make your Q&A slot let me know and I'll refactor. We'll be publishing the schedule early next week. Q&A sessions will be casual conversation style, the emcee passing moderated questions from the audience.
+   We've got a [provisional schedule]({{cfp.preview}}) up, and I'd *love it* if you could check your time-slot and make sure you can do a live Q&A shortly after your talk is streamed. I've tried to cater to all timezone requests and requirements, but if you can't make your Q&A slot let me know and I'll refactor. We'll be publishing the schedule early next week. Q&A sessions will be casual conversation style, the emcee passing moderated questions from the audience.
 
    A few folks asked where to upload talk recordings when you have them (by **{{cfp.video_by}}** right?):
 
