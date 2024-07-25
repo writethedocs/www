@@ -155,9 +155,9 @@ Subject:
 
    Now those essentials are covered, a little more info about the event itself:
 
-   * We'll be using [Hopin](https://hopin.to/) for the event, over the coming weeks we'll get you account details so you can update head-shots and taglines on there.
+   * We'll be using [Venuless](https://venueless.events/) for the event, over the coming weeks we'll get you account details so you can update head-shots and taglines on there.
    * We'll be live captioning as usual, and if you can get copies of your slides to make the captioners work easier that would be delightful. We need those a week or so before the event, so no rush.
-   * In a change from our in person event, we'll be hosting moderated Q&A in a separate Hopin room, directly after each talk.
+   * In a change from our in person event, we'll be hosting moderated Q&A in a separate Venuless room, directly after each talk.
 
    Next week I'll send over a provisional schedule, and if having a particular slot would make it easier to attend the Q&A, let me know and I'll see what I can do.
 
@@ -194,7 +194,7 @@ Subject:
 
    We're about eight weeks out from the conference now, lots of stuff is happening behind the scenes, and I hope you're feeling good about recording.
 
-   We've got a [provisional schedule]({{cfp.preview}}) up, and I'd *love it* if you could check your time-slot and make sure you can do a live Q&A shortly after your talk is streamed. I've tried to cater to all timezone requirements, but if you can't make your Q&A slot let me know and I'll refactor. We'll be publishing the schedule early next week. Q&A sessions will be casual conversation style, the emcee passing moderated questions from the audience.
+   We've got a [provisional schedule]({{cfp.preview}}) up, and I'd *love it* if you could check your time-slot and make sure you can do a live Q&A shortly after your talk is streamed. I've tried to cater to all timezone requests and requirments, but if you can't make your Q&A slot let me know and I'll refactor. We'll be publishing the schedule early next week. Q&A sessions will be casual conversation style, the emcee passing moderated questions from the audience.
 
    A few folks asked where to upload talk recordings when you have them (by **{{cfp.video_by}}** right?):
 
@@ -206,7 +206,7 @@ Subject:
 
    As we've done for the past few years we'll be live captioning all talks, and it makes the [captioners](https://www.youtube.com/watch?v=xFnM6vmvWaI) lives *much* easier if you can send in a copy of your slides, or even a word list of unusual words that you might use. Please upload those to the [Talk recording drive]({{cfp_variables['upload']}}) by **{{cfp.slides_by}}**.
 
-   In a few weeks I'll be in touch with some calendar invites for a sound check during the conference, to make sure you're all sorted with Hopin logins, audio and video, and to answer any questions you might have.
+   In a few weeks I'll be in touch with some calendar invites for a sound check during the conference, to make sure you're all sorted with Venuless logins, audio and video, and to answer any questions you might have.
 
    And I think that is it! I'm excited to see this taking shape and excited to see all of your hard work on the virtual stage!
 
@@ -214,8 +214,8 @@ Subject:
 
    The Write the Docs Team
 
-04 - Hopin URL and calendly invites
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+04 - Venuless URL and calendly invites
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Tickets:
    {{cfp_variables['ticket']}}
@@ -225,7 +225,7 @@ Calendly:
 ----
 
 Subject:
-   WTD {{city}} {{year}} -- hopin and calendly invites
+   WTD {{city}} {{year}} -- Venuless and calendly invites
 
 ::
 
@@ -235,9 +235,9 @@ Subject:
 
    Most of the hard work is behind you, and you can settle in and enjoy the conference 😊, but before you relax entirely, please:
 
-   ○ register your free [Hopin speaker ticket]({{cfp_variables['ticket']}}) -- the entire conference is held in Hopin, from writing day on Sunday, all talks, unconference sessions, chat, etc.
+   ○ register your free [Venuless speaker ticket]({{cfp_variables['ticket']}}) -- the entire conference is held in Venuless, from writing day on Sunday, all talks, unconference sessions, chat, etc.
 
-   ○ schedule an [audio-visual check]({{cfp_variables['calendly']}}) with me **at least the day before** your talk, but ideally Sunday. This helps me know you're around 😉 and logged in to Hopin, and lets us clear up any audio or visual issues before your Q&A. We recommend you do this even if you're confident about your setup. The audio-visual checks happen in a private Hopin room.
+   ○ schedule an [audio-visual check]({{cfp_variables['calendly']}}) with me **at least the day before** your talk, but ideally Sunday. This helps me know you're around 😉 and logged in to Venuless, and lets us clear up any audio or visual issues before your Q&A. We recommend you do this even if you're confident about your setup. The audio-visual checks happen in a private Venuless room.
 
    Remember, all Q&A sessions **start straight after your talk**, in the Speaker Q&A session not the 'main stage' (the Monday and Tuesday Q&A sessions have different URLs).
 

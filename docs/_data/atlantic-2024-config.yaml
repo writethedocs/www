@@ -150,8 +150,7 @@ cfp:
   notification: "June 01, 2024"      # 11 weeks to write and record
   video_by: "August 23, 2024"        # 3 weeks before the conf
   slides_by: "September 06, 2024"    # 2 weeks before the conf
-  #preview: "https://writethedocs-www--1982.org.readthedocs.build/conf/atlantic/2024/schedule/"
-  preview: "NA"
+  preview: "https://writethedocs-www--2177.org.readthedocs.build/conf/atlantic/2024/schedule/"
 
 grants:
   url: https://docs.google.com/forms/d/e/1FAIpQLSdfnmeZj_yl506GujA5-PvsZQxNCWCm3uCiQeuVbO3dRK_d6A/viewform
