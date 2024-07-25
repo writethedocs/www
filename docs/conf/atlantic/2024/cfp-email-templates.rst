@@ -119,9 +119,11 @@ Subject:
 
    Hi {name},
 
-   Just wanted to drop you all a quick note covering some logistics. Talks are pre-recorded again this year, we'd love to get those recordings from you before {{cfp.video_by}}. We do have a videographer who can help you record remotely, drop us a line if that is something you're interested in. We're finalizing details on the live Q&A for each talk.
+   Just wanted to drop you all a quick note covering some logistics. Talks are pre-recorded again this year, we'd love to get those recordings from you before {{cfp.video_by}}. The **30 minute** talk time is for the recorded talk, Q&A will be extra. We're finalizing details on the live Q&A for each talk.
 
-   ○  I've added some questions to our [CFP tool (Pretalx)]({{cfp.url}}) about your pronouns, interesting facts, name pronunciation, and Slack username. Please log in at {{cfp.url}} and answer those (although we'll only need them closer to the event).
+   We do have a videographer who can help you record remotely, drop us a line if that is something you're interested in. Other questions about the recording process and specs should be covered in the [recording guidelines](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/talk-recording-guidelines/).
+
+   ○  I've added some questions to our [CFP tool (Pretalx)]({{cfp.url}}) about your pronouns, facts about you for the emcee intro, and name pronunciation. Please log in at {{cfp.url}} and answer those (although we'll only need them closer to the event).
 
    ○ If you haven't done so already, please upload a speaker pic to your Pretalx account while you're there, it'll look so much better than the anonymous outline.
 
@@ -149,17 +151,17 @@ Subject:
 
    Here are the important details you've been waiting for! I'll get into specifics below, but first the important ones:
 
-   ○ We'd love you to upload your recorded talk by the **{{ cfp.video_by }}**, or soon after. If you're likely to need more time, please let me know in advance.
-   ○ We have folks who can help you record online, both in US and EU time zones, if this is of interest just let me know and I'll get a slot booked. [Recording guidelines](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/talk-recording-guidelines/).
-   ○ As well as the tips in the recording guidelines we've updated the [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) for virtual conferences.
+   ○ We'd love you to upload your recorded talk by the **{{ cfp.video_by }}**, or soon after. If you're likely to need more time, please let me know *in advance*.
+   ○ We have folks who can help you record online, if this is of interest just let me know and I'll get a slot booked.
+   ○ Check out the [Recording guidelines](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/talk-recording-guidelines/) and [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) for virtual conferences.
 
    Now those essentials are covered, a little more info about the event itself:
 
-   * We'll be using [Hopin](https://hopin.to/) for the event, over the coming weeks we'll get you account details so you can update head-shots and taglines on there.
+   * We'll be using [Venueless](https://venueless.org/en/) for the event, over the coming weeks we'll get you account details so you can update head-shots and taglines on there.
    * We'll be live captioning as usual, and if you can get copies of your slides to make the captioners work easier that would be delightful. We need those a week or so before the event, so no rush.
-   * In a change from our in person event, we'll be hosting moderated Q&A in a separate Hopin room, directly after each talk.
+   * We'll be hosting moderated Q&A, in a casual conversational format, directly after each talk.
 
-   Next week I'll send over a provisional schedule, and if having a particular slot would make it easier to attend the Q&A, let me know and I'll see what I can do.
+   Next week I'll send over a provisional schedule.
 
    And while we're here, ;-) if you don't have a profile picture set in [Pretalx](https://pretalx.com/write-the-docs-{{shortcode}}-{{year}}/login/), now would be a great time to add one.
 
