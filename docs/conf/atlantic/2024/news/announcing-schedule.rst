@@ -28,7 +28,7 @@ Full presentation schedule
 --------------------------
 
 The conference website is now updated with the :doc:`/conf/{{shortcode}}/{{year}}/schedule/` for the main stage presentations, so you can start planning your time (and getting excited!) for the conference.
-We'll continue to hold live Q&A sessions after most talks. The Q&A will come from your questions but moderated by our MCs.
+We'll continue to hold live Q&A sessions after most talks. The Q&A will come from your questions but be moderated by our MCs.
 
 As our attendees are in various time zones, we've planned a number of equal breaks throughout the day. We are all trying to balance our screen time, so we wanted to make sure that your eyes get their rest!
 
@@ -59,7 +59,7 @@ All our events and activities
 
 Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge. We've done so for over a decade, and are holding to that plan in our virtual events.
 
-* **Lightning Talks.** We'll have `lightning talks <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/lightning-talks/>`__ each day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. Slides are not required.
+* **Lightning Talks.** We'll have `lightning talks <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/lightning-talks/>`__ each day after lunch. These are 5-minute presentations and a lot of fun. They can be about anything you want; this is your chance to share something you are passionate about with the audience. Slides are not required.
 * **Unconference.** We'll be running the `Unconference <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/unconference/>`_ all day Monday and on Tuesday afternoon. Want to chat with like-minded folks about a specific thing? This is the place.
 * **Conference Help Desk**. If you have any questions about navigating the virtual event, we'll be running the Write the Docs Helpdesk booth, where you can chat with one of the organizers and the Welcome Wagon team.
 
