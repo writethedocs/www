@@ -81,8 +81,6 @@ Further details will be announced later.
   A detailed schedule will be announced soon.
 {% endif %}
 
-.. _{{shortcode}}-{{year}}-writing-day:
-
 Writing Day
 ~~~~~~~~~~~
 
