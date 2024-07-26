@@ -21,7 +21,7 @@ integrated chat, unconference rooms with breakout calls, and expo booths.
 
 Our updated Welcome Wagon guide, available soon, will help it feel familiar before you've even arrived.
 
-All ticket holders will receive an invite to Venuless around one week before the conference.
+All ticket holders will receive an invite to Venueless around one week before the conference.
 If you don't have your ticket yet, `register one soon <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_, as we may sell out.
 
 Full presentation schedule
