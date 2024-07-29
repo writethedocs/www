@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: July 22, 2024
+.. post:: July 30, 2024
    :tags: {{year}}, {{shortcode}}-{{year}}, schedule
 
 Announcing Full Schedule
