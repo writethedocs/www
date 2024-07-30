@@ -33,10 +33,10 @@ buttons:
     #  link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
-    - text: See the talks!
-      link: /speakers
-    #- text: See the Schedule!
-    #  link: /schedule
+    #- text: See the talks!
+    #  link: /speakers
+    - text: See the Schedule!
+      link: /schedule
     # - text: Watch the Live Stream
     #   link: /livestream
     # - text: See the sketchnotes
@@ -114,22 +114,22 @@ date:
     #summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
     icon: writing
     dotw: Sunday
-    writing_day_time: 12:00-18:00
+    writing_day_time: 10:30-17:00
   day_three:
     event: Conference Day 1
     date: September 23
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Monday
-    talk_time: 12:00-18:00
-    unconference_time: 10:00-20:00
+    talk_time: 10:00-17:15
+    unconference_time: 11:30-17:15
   day_four:
     event: Conference Day 2
     date: September 24
-    summary: And the conference goes on! We are already starting to miss you. |:heart:|
+    summary: And the conference goes on! We are already starting to miss you ❤️
     dotw: Tuesday
-    talk_time: 12:00-18:00
+    talk_time: 10:00-16:50
     job_fair_time: 10:00-12:00  # disabled for now
-    unconference_time: 10:00-20:00
+    unconference_time: 14:00-16:15
   total_talk_days: 2
 
 about:
@@ -137,10 +137,10 @@ about:
   summary:
     "The main presentation track takes place on **September 23-24 (Monday and Tuesday) from 12:00 to 18:00 UTC**.
     During the main event we also run an :doc:`/conf/atlantic/2024/unconference`."
-  venue: "Hopin online conference platform"
+  venue: "Online conference platform"
   photos:
   mainroom: "Stage area"
-  unconfroom: "Sessions area"
+  unconfroom: "Channels area"
   projector_ratio: "16:9"
   job_fair_room: "Sponsor area"
 
@@ -150,8 +150,7 @@ cfp:
   notification: "June 01, 2024"      # 11 weeks to write and record
   video_by: "August 23, 2024"        # 3 weeks before the conf
   slides_by: "September 06, 2024"    # 2 weeks before the conf
-  #preview: "https://writethedocs-www--1982.org.readthedocs.build/conf/atlantic/2024/schedule/"
-  preview: "NA"
+  preview: "https://writethedocs-www--2177.org.readthedocs.build/conf/atlantic/2024/schedule/"
 
 grants:
   url: https://docs.google.com/forms/d/e/1FAIpQLSdfnmeZj_yl506GujA5-PvsZQxNCWCm3uCiQeuVbO3dRK_d6A/viewform
@@ -170,7 +169,7 @@ sponsors:
     - name: gitbook
       link: https://www.gitbook.com/?ref=writethedocs
       brand: GitBook
-      text: "GitBook combines powerful docs with AI-powered search and insights to give technical teams a single source of truth for their knowledge. 
+      text: "GitBook combines powerful docs with AI-powered search and insights to give technical teams a single source of truth for their knowledge.
              Effortlessly create, surface and improve public and internal documentation that your users and teams will love. "
   publisher:
  #   - name: mongodb-new
@@ -189,7 +188,7 @@ flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
 flagrunofshow: False
-flaghasschedule: False
+flaghasschedule: True
 flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False

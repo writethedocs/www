@@ -86,7 +86,7 @@ Writing Day
 
 Get together with other documentarians and work on an open source project and learn some new skills.
 
-* **Where**: {{about.unconfroom}}
+* **Where**: {{about.venue}}, {{about.unconfroom}}
 {% if not flaghasschedule %}
 * **When**: **{{ date.day_two.writing_day_time }} {{ tz }}**
 {% endif %}
@@ -99,7 +99,7 @@ Is this your first time at Write the Docs?
 Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees.
 We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new.
 
-* **Where**: {{about.unconfroom}}
+* **Where**: {{about.venue}}, {{about.unconfroom}}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/welcome-wagon`
 
 {% if flaghasfood %}
@@ -224,8 +224,7 @@ Talks are around 30 minutes, with moderated 10 minute Q&A.
 Sponsor Expo
 ~~~~~~~~~~~~
 
-The Sponsor Expo is a great chance to talk with some of our sponsors who are hiring,
-and get a sense of the job market.
+The Sponsor Expo highlights companies that are hiring or offering products for documentarians.
 
 * **Where**: {{about.venue}}, {{about.job_fair_room }}
 {% if not flaghasschedule %}
