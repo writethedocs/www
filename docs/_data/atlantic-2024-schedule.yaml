@@ -36,7 +36,7 @@ talks_day1:
   - duration: '0:20'
     title: '☕️ Coffee break'
   - duration: '0:30'
-    slug: we-re-writers-not-designers-unblocking-your-organization-with-diagrams-as-code-diana-breza
+    slug: clicks-without-limits-content-design-for-everyone-everywhere-eric-zrinsky
   - duration: '0:10'
     title: '✋ Q&A for the previous talk'
   - duration: '0:30'
@@ -50,7 +50,7 @@ talks_day1:
   - duration: '0:05'
     title: '⏲ 5 minute break'
   - duration: '0:30'
-    slug: clicks-without-limits-content-design-for-everyone-everywhere-eric-zrinsky
+    slug: we-re-writers-not-designers-unblocking-your-organization-with-diagrams-as-code-diana-breza
   - duration: '0:10'
     title: '✋ Q&A for the previous talk'
   - duration: '0:30'
