@@ -17,9 +17,12 @@ The first and second session time blocks are separated by a 30 minute snack brea
 
 First session:
 
-* 10:00 UTC to 14:00 UTC 
-* 12:00 CEST to 16:00 CEST 
-* 06:00 EDT to 10:00 EDT
+* 10:30 UTC to 14:00 UTC 
+* 12:30 CEST to 16:00 CEST 
+* 06:30 EDT to 10:00 EDT
+
+We will do a shared intro session at 11:00 UTC where projects can pitch their plans.
+If you'd like to pitch a project, please join the platform early to acclimate to the space and test your audio/video.
 
 Second session:
 
@@ -30,7 +33,7 @@ Second session:
 Project list
 ------------
 
-Submit your project using our `Writing Day project form <https://forms.gle/KPo1ZPuRHqf7UZy37>`_ or send us a PR with your project info!
+Submit your project using our `Writing Day project form <https://forms.gle/B2pWvz9e1igC4cS56>`_ or send us a PR with your project info!
 
 Check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-project-faq` to review what information is 
 needed for your project submission as well as ways to maximize your event experience.
