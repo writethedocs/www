@@ -84,7 +84,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: codespell-project/codespell-problem-matcher@v2
       - uses: codespell-project/actions-codespell@v2
         name: Check spelling
         with:
