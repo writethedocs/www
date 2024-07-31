@@ -26,8 +26,6 @@ We have in-person and virtual conferences around the world:
 
 See all :doc:`our conferences </conf/index>` from past years.
 
-Conect
-
 Connect with the community
 --------------------------
 
