@@ -69,6 +69,14 @@ First, know which of these common audiences you're writing for:
 * Users - want to use your code and don't care how it works.
 * Developers - want to contribute to your code.
 
+Importantly, beware of overusing Frequently Asked Questions (FAQs) as documentation. Although FAQs can be useful starter documentation for new projects until you have time to write better documentation, FAQs quickly outgrow their use due to many drawbacks: 
+
+* Become quickly outdated.
+* Accumulate disparate content on unrelated topics.
+* Become hard to sort and search through as content is added.
+* Are rarely an actual list of frequently asked questions from real users.
+* Tempt you to add content as a quick fix in lieu of creating actual, thorough documentation.
+
 Show what problem your code solves
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -98,19 +106,6 @@ so make your code easy to contribute.
 The `Python Guide`_ does a good job of this.
 
 .. _Python Guide: http://docs.python-guide.org/en/latest/index.html
-
-Create frequently asked questions (FAQs)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Many people have the same problems. If certain issues happen often, fix your documentation or the code 
-to resolve the issues. However, there are always questions about your project, things that can't be changed, etc. 
-Document those in an FAQ and **keep them up to date**. 
-
-FAQs get outdated fast but are a great resource when done well. 
-
-Tastypie_ did a great job of this with their "Cookbook" concept.
-
-.. _Tastypie: http://django-tastypie.readthedocs.org/en/latest/cookbook.html
 
 Tell how to get support
 ~~~~~~~~~~~~~~~~~~~~~~~~
