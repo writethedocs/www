@@ -6,8 +6,8 @@ Since then, the focus and community of Write the Docs has expanded.
 
 **This is a living, breathing guide.** If you'd like to contribute, take a look at the :doc:`guidelines for contributing to the guide <contributing>`. 
 
-New to documentation?
----------------------
+How to start writing technical documentation
+---------------------------------------------
 
 .. toctree::
    :maxdepth: 2
@@ -19,8 +19,8 @@ New to documentation?
    imposter
 
 
-Resources for documentarians
--------------------------------
+Resources for creating documentation
+-------------------------------------
 
 .. toctree::
    :maxdepth: 2
@@ -52,8 +52,8 @@ Markup languages
    writing/xml
    writing/asciidoc
 
-Tools of the trade
-------------------
+Documentation tools
+--------------------
 
 .. toctree::
    :maxdepth: 2
