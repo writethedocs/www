@@ -1,7 +1,7 @@
 How to write software documentation
 ====================================
 
-There is a magical feeling that comes from releasing code.
+As a software developer or engineer, there is a magical feeling that comes from releasing open-source code.
 The feeling is a mix of terror and excitement.
 You're eager to tell the world about your new project but despair at where to start. Even professional writers 
 know the mixed emotions caused by a blank page.
