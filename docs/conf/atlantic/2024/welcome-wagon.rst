@@ -3,4 +3,4 @@
 Welcome Wagon Guide
 ===================
 
-{% include "conf/virtual/welcome-wagon.rst" %}
+Our guide will follow closer to the event.

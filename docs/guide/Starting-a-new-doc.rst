@@ -1,3 +1,5 @@
+:orphan:
+
 Starting on a new piece of documentation
 ========================================
 

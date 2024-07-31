@@ -28,6 +28,7 @@ exclude_patterns = [
     'include',
     #'_data',
     'node_modules',
+    'videos/prague/2018/tackling-technical-debt-in-the-docs-louise-fahey.rst',
 ]
 
 html4_writer = True
@@ -173,22 +174,16 @@ global_sponsors = yaml.safe_load("""
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
     'newsletter_subs': '10,000',
-    'slack_members': '20,000',
+    'slack_members': '22,500',
     'website_visits': '20,000',
     'global_sponsors': global_sponsors,
     'cfp_variables': cfp_variables,
-    'slack_join': "https://join.slack.com/t/writethedocs/shared_invite/zt-12k7dh46o-eNMS1sHejK2OiiBfnBf6hw",
+    'slack_join': "https://join.slack.com/t/writethedocs/shared_invite/zt-2le6owut0-0WqJ3z5dtQyrIerk97YNlw",
     'slack_form': "https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform?usp=sf_link",
 }
 
 if build_videos:
 
-    if os.environ.get('MEETUP_API_KEY'):
-        try:
-            from _ext.meetup_events import main as meetup_main
-            html_context.update(meetup_main())
-        except:
-            print('Could not get meetup events.')
     html_context.update(videos.main())
 
 notfound_no_urls_prefix = True

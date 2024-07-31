@@ -24,11 +24,11 @@ For conferences, see [the conference site documentation](https://www.writethedoc
 
 ## 🎞 Videos
 
-An even more fragile process that needs documenting and fixing.
+An even more fragile process that needs documenting and fixing. Note specifically `if year > 2023:` around line 134 of `docs/_ext/videos.py`.
 
 WIP (Work In Progress) Docs on how to do this:
 
-1. In `_data/<year>.<city>.speakers.yaml`, add a `youtubeId: 12345678901` key value pair to each talk.
+1. In `_data/<year>.<city>.speakers.yaml`, add a `youtubeId: 12345678901` key value pair to each talk. See also `_scripts/insert-video-ids.py`.
 
 2. Make sure the directory `videos/<city>/<year>` is included in the Video Archive `toctree` in `docs/videos/index.rst`.
 

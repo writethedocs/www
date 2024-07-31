@@ -4,7 +4,10 @@ level: error
 scope: heading
 match: $sentence
 exceptions:
+  - Apiary
+  - API
   - API Blueprint
+  - ARID
   - AsciiDoc
   - Bootstrap
   - DocOps
@@ -15,7 +18,12 @@ exceptions:
   - Guzzle
   - HTMLProofer
   - Read the Docs
+  - README
+  - SEO
   - Sphinx
+  - UI
+  - UX
   - Write the Docs
+  - WTD
   - XML
   - reStructuredText

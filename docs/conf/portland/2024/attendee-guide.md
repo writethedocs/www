@@ -20,17 +20,16 @@ The Welcome Wagon Team is available to make your conference experience better! S
 
 Join us for an introduction to Write the Docs. We'll go on a short tour of the venue and review information about the conference. While tours are designed to give first-time attendees all the information they need to feel comfortable at the conference, returning attendees often find them helpful as well. This gives everyone a chance to meet someone new. Bring any questions you may have!
 
--   Sunday AM TBD
--   Sunday PM TBD
--   Monday AM TBD
+-   Sunday 11:50 AM
+-   Sunday 1:30 PM
+-   Sunday 4:30 PM
+-   Monday 8:15 AM
 
 *Sunday tours will meet on the 1st floor at the Welcome Wagon table. Monday tour meets on the 2nd floor at the Welcome Wagon table.*
 
 ## Conference Layout
 
 Review our [Venue](https://www.writethedocs.org/conf/portland/2024/venue/) page for details on the accessibility and layout of conference spaces.
-
-We'll share a video and map that will be released in March.
 
 ## Eating
 

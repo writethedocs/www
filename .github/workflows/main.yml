@@ -17,7 +17,7 @@ jobs:
   vale-runner:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Vale Linter
         uses: errata-ai/vale-action@reviewdog
@@ -31,7 +31,7 @@ jobs:
           reporter: github-pr-check
           fail_on_error: true
           filter_mode: file
-          version: 2.30.0
+          version: 3.4.2
 
 
       - name: Vale Guide Linter
@@ -46,16 +46,29 @@ jobs:
           reporter: github-pr-check
           fail_on_error: true
           filter_mode: file
-          version: 2.30.0
+          version: 3.4.2
 
+      - name: Vale Conf news Linter
+        uses: errata-ai/vale-action@reviewdog
+        env:
+          # Required, set by GitHub actions automatically:
+          # https://docs.github.com/en/actions/security-guides/automatic-token-authentication#about-the-github_token-secret
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        with:
+          files: docs
+          vale_flags: "--config=vale/news.ini --glob=docs/conf/**/news/*"
+          reporter: github-pr-check
+          fail_on_error: true
+          filter_mode: file
+          version: 3.4.2
 
   yaml-validate:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     - name: Set up Python 3.8
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
         python-version: 3.8
 
@@ -70,9 +83,8 @@ jobs:
   spellcheck:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: codespell-project/codespell-problem-matcher@v1
-      - uses: codespell-project/actions-codespell@v1
+      - uses: actions/checkout@v4
+      - uses: codespell-project/actions-codespell@v2
         name: Check spelling
         with:
           skip: "*.pdf,*.svg,*.js,*.map,*.css,*.scss,docs/_data/201[5|6|7]*,docs/_static_html/*"
@@ -83,14 +95,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     - name: Set up Python 3.8
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
         python-version: 3.8
 
     - name: Cache python env
-      uses: actions/cache@v2
+      uses: actions/cache@v4
       with:
         path: ${{ env.pythonLocation }}
         key: v2-${{ env.pythonLocation }}-${{ hashFiles('requirements.txt') }}
@@ -112,7 +124,7 @@ jobs:
       run: tar -czf html.tar.gz docs/_build/html
 
     - name: Archive site HTML
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: html
         path: html.tar.gz
@@ -124,7 +136,7 @@ jobs:
 
     steps:
       - name: Download site HTML
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v4
         with:
           name: html
 

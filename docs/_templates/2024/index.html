@@ -202,7 +202,7 @@ Home - Write the Docs {{ name }} {{ year }}
     {% if flaghaslightningtalks %}
 
     <div class="schedule-item uk-width-1-{{ 1 + date.total_talk_days }}@s">
-      <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/conference-blue.svg', 1) }}" alt="" >
+      <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/lightning-blue.svg', 1) }}" alt="" >
       <h3>Lightning Talks</h3>
       <em>{{ date.conference.date }} </em>
       <p>A <a href="/conf/{{shortcode}}/{{year}}/lightning-talks/">Lightning Talk</a> is a short talk where you share an idea or concept. Great for first time speakers, sign ups occur on-site.</p>
@@ -214,9 +214,9 @@ Home - Write the Docs {{ name }} {{ year }}
     {% if flaghasjobfair %}
 
     <div class="schedule-item uk-width-1-{{ 1 + date.total_talk_days }}@s">
-      <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/conversation-blue.svg', 1) }}" alt="" >
-      <h3>Sponsor Expo</h3>
-      <em>{{ date.day_four.date }}</em>
+      <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/sponsor-expo-blue.svg', 1) }}" alt="" >
+      <h3>Sponsor Booths</h3>
+      <em>{{ date.conference.date }}</em>
       <p>Engage with our <a href="/conf/{{shortcode}}/{{year}}/sponsors/">Sponsors</a>, discuss job opportunities and interact with new products.</p>  
     </div>
 

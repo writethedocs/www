@@ -20,9 +20,9 @@ Attend a conference
 
 We have in-person and virtual conferences around the world:
 
-   - :doc:`Portland 2024 </conf/portland/2024/index>`, **April 14-16, 2024**, Portland, Oregon, United States
+   - :doc:`Portland 2025 </conf/portland/2025/index>`, **May 4-6, 2025**, Portland, Oregon, United States
    - :doc:`Atlantic 2024 </conf/atlantic/2024/index>`, **September 22-24**, Virtual - CEST and EDT
-   - **Australia 2024**, Dates and Venue TBD, AEDT timezone
+   - :doc:`Australia 2024 </conf/australia/2024/index>`, **November 28-29**, Melbourne, Australia
 
 See all :doc:`our conferences </conf/index>` from past years.
 
@@ -34,7 +34,7 @@ Get more information on how to meet the community, get involved, stay in touch.
 * Join our :doc:`Slack network </slack>` with thousands of other documentarians
 * Join a :doc:`local or online meetup </meetups/index>` to dive deeper into the community
 * Learn more about our :doc:`sponsorship options <sponsorship/index>` for your company
-* Take the `2023 Documentation Salary Survey <https://salary-survey.writethedocs.org>`_
+* Browse the results of the latest `Documentation Salary Survey </surveys/salary-survey/2023/>`__
 
 Find or advertise a job
 -----------------------

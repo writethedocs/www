@@ -1,0 +1,415 @@
+- title: A Strategic Documentation Template for Startups
+  slug: a-strategic-documentation-template-for-startups-sofiya-minnath
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2024
+  speakers:
+  - name: Sofiya Minnath
+    slug: sofiya-minnath
+    twitter:
+    website:
+  abstract: "<p>For nearly six years, my involvement in documentation across various\
+    \ startups has revealed common challenges. In the early stages, developers, not\
+    \ well-versed in documentation best practices, handle the task. To shape it effectively,\
+    \ they bring in junior writers, creating a cycle of frustration. Writers become\
+    \ uncertain about meeting user needs, and developers attempt various solutions,\
+    \ often resulting in customer complaints, keeping documentation a significant\
+    \ problem.</p>\n<p>To address this, companies often bring in managers from other\
+    \ areas of the organization, even if lacking documentation experience, to lead\
+    \ the documentation team. However, this manager's lack of experience can unintentionally\
+    \ hinder providing writers with the right tools, keeping documentation as a pain\
+    \ point. This manager must also communicate with other stakeholders upset with\
+    \ documentation quality and show empathy. That is the starting point, and the\
+    \ journey after that is challenging and intense, pushing me to create a plan to\
+    \ align documentation with the product's plan.</p>\n<p>My story is about understanding\
+    \ startup struggles where developers manage documentation and helping them create\
+    \ a plan.</p>\n<p>In this session, I'll share a strategic approach to transform\
+    \ startup documentation into a valuable asset. I'll guide you on treating documentation\
+    \ as a product, aligning it with the product roadmap and strategy, and providing\
+    \ practical steps at each phase. Another essential aspect I'll cover is implementing\
+    \ clear guidelines and processes, emphasizing a data-driven approach highlighted\
+    \ by surveys to identify pain points. Throughout the session, you'll learn how\
+    \ to create prototypes for incremental changes and explore the power of A/B testing\
+    \ to secure organization-wide buy-in. Beyond fixing content, this session serves\
+    \ as a practical toolkit, simplifying the intricacies of startup documentation\
+    \ and providing essential strategies for scaling success.</p>\n<p>Key Takeaways:</p>\n\
+    <ul>\n<li>Navigate documentation challenges in startup environments through a\
+    \ structured, phased approach.</li>\n<li>Strategies for seamlessly integrating\
+    \ documentation into the overall product roadmap.</li>\n</ul>"
+  youtubeId: G16QwwJY4Vs
+- title: 'Graphic Relief: Beyond Flowcharts and Screenshots'
+  slug: graphic-relief-beyond-flowcharts-and-screenshots-dennis-dawson
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2024
+  speakers:
+  - name: Dennis Dawson
+    slug: dennis-dawson
+    twitter:
+    website:
+  abstract: "<p>When I joined Ripple, we already had comprehensive documentation.\
+    \ While our docs were thorough, I found them dense, detailed, and difficult to\
+    \ parse. They needed reorganization, a new navigation layer, and a lighter touch.</p>\n\
+    <p>Technical documentation should not be boring or opaque. No one ever said, “yes,\
+    \ that documentation was thorough, but I wish it had been more bland and mind-numbing.”</p>\n\
+    <p>Over the past two years, I’ve had the opportunity to revise and enhance our\
+    \ documentation in several key ways:</p>\n<ul>\n<li>Reduced cognitive load by\
+    \ adding white space and reinforcing graphics</li>\n<li>Created graphic representations\
+    \ of abstract processes</li>\n<li>Used video to illustrate background workflows</li>\n\
+    </ul>\n<p>We had several of these updates underway when my manager and I attended\
+    \ Write the Docs Portland 2023. Presentations by Caitlin Davey and Ryan Young\
+    \ gave us confidence that we were making sensible changes, and gave us the vocabulary\
+    \ to explain the rationale behind our enhancements to our stakeholders.</p>\n\
+    <p>My presentation covers:</p>\n<ul>\n<li>Coordinating with visual designers to\
+    \ create a corporate graphic style</li>\n<li>Using graphics to enhance engagement</li>\n\
+    <li>Producing effective educational video on a shoestring</li>\n<li>Working with\
+    \ UX testers to validate and challenge assumptions</li>\n</ul>"
+  youtubeId: Ss43qc7hdW8
+- title: Applying Engineering Principles to Technical Writing
+  slug: applying-engineering-principles-to-technical-writing-mario-morales
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2024
+  speakers:
+  - name: Mario Morales
+    slug: mario-morales
+    twitter:
+    website:
+  abstract: "<p>It is common to find these questions in Technical Writing forums on\
+    \ the Internet: Is engineering required for technical writing? Do I need an Engineering\
+    \ degree to become a Technical Writer? We know the short answer is \"No,\" and\
+    \ it is a fact that many technical writers come from different fields and non-technical\
+    \ backgrounds. But we also know that technical knowledge and a fundamental understanding\
+    \ of Engineering are advantageous for the job.</p>\n<p>I started my career as\
+    \ a technical writer with a Bachelor of Arts in Language and Literature, so I\
+    \ naturally asked myself those questions at some point, even though I learned\
+    \ programming many years before that. Today, I have a master's degree in Applied\
+    \ Informatics, and I've been a technical writer for six years. During this time,\
+    \ I've dealt with many different documentation needs from customers of diverse\
+    \ industries. I've also learned from my fellow team members, including UX designers,\
+    \ QA, Data, SRE, and software engineers.</p>\n<p>I am still convinced that you\
+    \ don't need an engineering degree to be a successful technical writer, but I've\
+    \ found out you can apply some basic engineering principles to it. In this talk,\
+    \ I'll share some insights on how to apply engineering principles to the technical\
+    \ writing discipline, including the following:</p>\n<ul>\n<li>The Engineering\
+    \ Black Box</li>\n<li>What's at the heart of Engineering?</li>\n<li>The Engineering\
+    \ Design process</li>\n</ul>\n<p>You don't need an Engineering degree to enjoy\
+    \ this talk!</p>"
+  youtubeId: cOg9C_-CNOc
+- title: 'Make It Make Semantic Sense: Semantic Strategies for All of Us'
+  slug: make-it-make-semantic-sense-semantic-strategies-for-all-of-us-nellie-mckesson
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2024
+  speakers:
+  - name: Nellie McKesson
+    slug: nellie-mckesson
+    twitter:
+    website:
+  abstract: "<p>Semantics: a word that inspires eyes to glaze over in almost any crowd,\
+    \ and yet is one of the most fundamental tools for creating accessible and scalable\
+    \ content.</p>\n<p>I’ve put words in a lot of different places as part of my role\
+    \ as a toolchain developer. I’ve helped math scholars get their papers published\
+    \ in print; I’ve helped build GUI tools for computer experts to streamline their\
+    \ writing process; I’ve built processes for major publishers to get best-selling\
+    \ novels out into the world as both print and ebooks simultaneously; I’ve helped\
+    \ technical documentation teams create websites, books, and whitepapers all from\
+    \ the same content. And there are a few things I’ve learned in the process:</p>\n\
+    <p>Good writing is more than good words. Good writing is easy to navigate, it\
+    \ reaches people of all levels of ability, and it retains its meaning even when\
+    \ the presentational format changes. </p>\n<p>One element that powers all of those\
+    \ things is good semantics. Semantics describes the parts of a written document:\
+    \ which bits are the headings?  Which paragraphs are body text? Which blocks are\
+    \ part of the main narrative, and which are asides? While it may seem basic, this\
+    \ information is crucial if you want to create content that can flow into streamlined\
+    \ workflows and reach all users, and it’s something that is often invisible and\
+    \ often overlooked.</p>\n<p>In this presentation, I’ll cover:</p>\n<ul>\n<li>A\
+    \ definition of semantics, in the context of writing and documentation</li>\n\
+    <li>Why are semantics good and important?</li>\n<li>The importance of differentiating\
+    \ semantics from visual design</li>\n<li>What strategies I have worked with when\
+    \ helping authors of differing technical backgrounds apply good semantics</li>\n\
+    <li>Who, what, when, and how: choosing a good semantic strategy for your own work\
+    \ or team, and finding the tools to support it</li>\n</ul>"
+  youtubeId: vQINsqqVmfQ
+- title: The Four Stages of OpenAPI
+  slug: the-four-stages-of-openapi-robert-delwood
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2024
+  speakers:
+  - name: Robert Delwood
+    slug: robert-delwood
+    twitter:
+    website:
+  abstract: "<p>For API documentation, you made the decision to move to OpenAPI. OpenAPI\
+    \ is a remarkable specification and framework. It became the industry standard\
+    \ in 2016. This standard provides API documentation with structure, consistency,\
+    \ and versatility. This is an important milestone in that it moves API documentation\
+    \ away from Word files, PDFs, and other unstructured formats.</p>\n<p>However,\
+    \ making that decision is only the initial step on a longer journey:</p>\n<ol>\n\
+    <li>New documentation, API documentation writers</li>\n<li>Documentation only,\
+    \ API documentation writers and developers</li>\n<li>Prototyping, API documentation\
+    \ writers, and program managers</li>\n<li>API-First, API documentation writers,\
+    \ and developers</li>\n</ol>\n<p>The complexity increases as you go down the list\
+    \ as do the rewards. The product gets more mature, and the team, more experienced.\
+    \ Each stage has its own set of challenges and different team members supporting\
+    \ it. The other realization is that API documentation is no longer a writer-only\
+    \ endeavor. It takes a team. </p>\n<p>In this presentation, I will share these\
+    \ four stages. This helps you understand the project in a long-term view. It also\
+    \ enables you manage to expectations when getting started. I discuss:</p>\n<ul>\n\
+    <li>Why you want to follow this progression,</li>\n<li>What each stage means,</li>\n\
+    <li>What the expectations are.</li>\n</ul>\n<p>You don’t have to already be an\
+    \ API documentation writer. You may be interested or new to the field and want\
+    \ to know more. Neither do you have to know programming or a specific programming\
+    \ language to begin. As long as writers treat this as a craft, the documentation\
+    \ will seem to write itself.</p>"
+  youtubeId: 6v5mHxgZGvk
+- title: 'Misadventures in SEO: How to self-sabotage your documentation'
+  slug: misadventures-in-seo-how-to-self-sabotage-your-documentation-steven-hicks
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2024
+  speakers:
+  - name: Steven Hicks
+    slug: steven-hicks
+    twitter:
+    website:
+  abstract: "<p>We can all agree — documentation is a critical feature in the developer\
+    \ experience of any product. When your docs are sparse, confusing, or nonexistent,\
+    \ developers can't use your product.</p>\n<p>What if your docs are great, but\
+    \ no one can find them? I assure you, from personal experience — you'll end up\
+    \ with frustration all around. From the docs team who can't figure out what's\
+    \ happening, to the users who can't find anything, to the support team that must\
+    \ memorize the entire documentation structure in order to help users.</p>\n<p>In\
+    \ this session we'll look at my team's misadventures in the SEO of our product\
+    \ documentation. Our best intentions were outdone by our misunderstanding of SEO\
+    \ concepts, and we accidentally eliminated the ability to search our documentation.</p>\n\
+    <p>It was a difficult hole to crawl out of, but we got there. I'll share the steps\
+    \ we've taken that have helped, the steps that haven't helped, and how we're applying\
+    \ this learning to our other documentation sites.</p>\n<p>You'll leave with a\
+    \ better understanding of SEO, and how it applies to your product's documentation.</p>"
+  youtubeId: pQJBFn4tomA
+- title: 'Beyond Words: Strategies for Leveling Up Your Tech Writing Career'
+  slug: beyond-words-strategies-for-leveling-up-your-tech-writing-career-calvin-fung
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2024
+  speakers:
+  - name: Calvin Fung
+    slug: calvin-fung
+    twitter:
+    website:
+  abstract: "<p>Leveling up your tech writing career can be difficult. You can get\
+    \ plenty of work done, but talking about it and presenting it in a meaningful\
+    \ manner can be challenging. You can do everything possible to stay on schedule,\
+    \ but the folks you work with don’t always operate on the same time table. You\
+    \ can have a great quarter and deliver a bunch of impactful projects, but struggle\
+    \ to replicate that success in the next quarter. And the one after that.</p>\n\
+    <p>I’d like to share some of the solutions I’ve found to these problems.</p>\n\
+    <p>My name is Calvin Fung and I have seven years of technical writing experience.\
+    \ I have written standard operating procedures (SOPs) for the manufacturing industry\
+    \ and user guides and API documentation for software developers. I currently lead\
+    \ a team of writers in managing one of the largest doc sets in cloud computing\
+    \ at AWS. </p>\n<p>In this talk, you’ll learn about some of the practical steps\
+    \ I’ve taken to answer questions like these:</p>\n<ul>\n<li>How do I determine\
+    \ what to work on next?</li>\n<li>How do I figure out what to learn to continuously\
+    \ expand my skill set?</li>\n<li>How do I promote my work so it gets recognized?</li>\n\
+    <li>How do I collaborate with people from other teams and turn them into my biggest\
+    \ fans?</li>\n<li>How do I communicate the right details to my leadership team\
+    \ without drowning them in information?</li>\n</ul>\n<p>This is not a theoretical\
+    \ talk - I will show you the artifacts that I actually use day-to-day. While there\
+    \ are many ways to do this, I’m sharing with you what’s worked for me and what\
+    \ I like to share with other writers. They’ve found it useful and I hope you do\
+    \ too.</p>"
+  youtubeId: n6rBa0eXlE8
+- title: 'Case study: How we delivered a seamless in-product help experience'
+  slug: case-study-how-we-delivered-a-seamless-in-product-help-experience-candy-morton
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2024
+  speakers:
+  - name: Candy Morton
+    slug: candy-morton
+    twitter:
+    website:
+  abstract: "<p>At Automation Anywhere, we realized we had a problem. When users needed\
+    \ technical content while they were using our products, they were being shifted\
+    \ out of the product and navigated to our documentation portal in an external\
+    \ browser. This created a fragmented journey that disrupted the seamless product\
+    \ experience we wanted for our customers.</p>\n<p>So, we embarked on a project\
+    \ uniting the power of our UX and docs groups to streamline the user experience\
+    \ and deliver all the product information our users needed from right within the\
+    \ product. Our vision was to deliver exceptional contextual user experience in\
+    \ line with Automation Anywhere’s high standards for CX, that would ultimately\
+    \ increase product adoption, customer satisfaction and growth. </p>\n<p>I’ll share\
+    \ the steps we took to bring this vision to life. I’ll explain the process, tooling\
+    \ and internal collaboration required to create a unified experience for users.\
+    \ I’ll also reveal the productivity gains we achieved by reducing our reliance\
+    \ on our development group, as well as digging into the results we’ve seen so\
+    \ far.</p>"
+  youtubeId: QOs2aUYqQOM
+- title: Design Reviews, capturing context at speed
+  slug: design-reviews-capturing-context-at-speed-shawn-aldridge
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2024
+  speakers:
+  - name: Shawn Aldridge
+    slug: shawn-aldridge
+    twitter:
+    website:
+  abstract: "<p>I've got two simple questions for you, and two upsetting ones.</p>\n\
+    <p>We'll do the easy ones first. What's the oldest software system that you personally\
+    \ work with regularly, and what does it do? I would have to check GitHub dates,\
+    \ but at Tinder off the top of my head I'd guess our iOS purchase flow, and it\
+    \ provides features in exchange for payment tokens.</p>\n<p>Now come the upsetting\
+    \ ones. How does it do that, and <em>why</em> does it do it in that way? Answering\
+    \ these two would take me hours to talk through, and days or possibly weeks to\
+    \ research, and that's assuming all of the information is actually available today\
+    \ (it's not).</p>\n<p>Decisions about how to build software are made in environments\
+    \ teeming with context. They are influenced by factors ranging from the current\
+    \ financial state of a company to the personal preferences of the engineer(s)\
+    \ building them. In any given distributed system you may find incomplete features,\
+    \ abandoned migrations, and compromises made that have changed API contracts,\
+    \ but greatly eased integrations. Many, if not all, of these factors may be invisible\
+    \ once code has shipped.</p>\n<p>At Tinder some of our teams try to capture this\
+    \ valuable context, as well as share engineering standards and preserve tribal\
+    \ knowledge, via Software Design Reviews. We recently formed a Design Review Working\
+    \ Group to improve this process, as well as to make it more generally available\
+    \ across our engineering teams. In this talk I will share the findings of our\
+    \ research, what we ended up implementing, and what results it has shown in the\
+    \ past 12 months of general availability.</p>\n<p>Questions in this talk that\
+    \ others might find informative:</p>\n<ul>\n<li>How did we minimize documenter\
+    \ effort, while improving operational excellence, and optimizing for documentation\
+    \ that remains useful over time?</li>\n<li>How did we alter our design review\
+    \ documentation system to serve the needs of diverse, cross-functional teams?</li>\n\
+    <li>How did we build broad consensus across an engineering department with little\
+    \ cross-team structure?</li>\n</ul>"
+  youtubeId: 7YWmjFEpEWE
+- title: 'Quantifying the Impact of Documentation: Findings from DORA Research'
+  slug: quantifying-the-impact-of-documentation-findings-from-dora-research-michelle-irvine
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2024
+  speakers:
+  - name: Michelle Irvine
+    slug: michelle-irvine
+    twitter:
+    website:
+  abstract: "<p>In 2023, the DORA research program found that high-quality documentation\
+    \ leads to 25% higher team performance relative to low-quality documentation.\
+    \ This is just one of a set of findings about internal documentation from our\
+    \ 2023 State of DevOps Report.</p>\n<p>Our research program is industry-wide,\
+    \ and internal documentation is only one of the constructs that we study and measure.\
+    \ This means that we have respondents with varying degrees of contexts and documentation\
+    \ quality. We can also analyze the impact of the different constructs on each\
+    \ other. For example, we can quantify the impact of documentation quality on the\
+    \ implementation of security practices.</p>\n<p>In this talk, I will:</p>\n<ul>\n\
+    <li>Present our findings about the impact of quality documentation, including\
+    \ why documentation is like sunshine.</li>\n<li>Give some insight into the creation\
+    \ and maintenance of quality documentation.</li>\n<li>Describe ways that you can\
+    \ communicate the value of quality documentation, and metrics that might be helpful\
+    \ in your own context.</li>\n<li>Discuss how these findings apply to different\
+    \ types of documentation, including end-user documentation.</li>\n</ul>\n<p>This\
+    \ talk is valuable for anyone in technical roles such as developers, technical\
+    \ writers, and for leaders looking to improve the quality of their organization’s\
+    \ documentation and other performance metrics.</p>"
+  youtubeId: 90gaMmYseFY
+- title: '"The vibes were off": Adapting Agile story points estimation to technical
+    writing'
+  slug: the-vibes-were-off-adapting-agile-story-points-estimation-to-technical-writin-tom-edmonds
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2024
+  speakers:
+  - name: Tom Edmonds
+    slug: tom-edmonds
+    twitter:
+    website:
+  abstract: "<p>As writers and documentarians, being tasked with figuring out how\
+    \ to measure our productivity with tidy quantitative metrics can be an anxiety-inducing,\
+    \ onerous, or seemingly impossible task.</p>\n<p>Time tracking is tedious and\
+    \ impractical when you're slicing your time among many simultaneous assignments,\
+    \ and it doesn't account for the difference in cognitive load between an hour\
+    \ spent editing existing content versus an hour researching or writing about a\
+    \ complex new topic. Tracking word counts is not only impractical but also counter-intuitive\
+    \ when your goal is to be concise, and it fails to capture the research, planning,\
+    \ review, and editing that also goes into the process.</p>\n<p>Some technical\
+    \ writers might be tempted to redirect the attention of their higher-ups toward\
+    \ more qualitative accomplishments or markers of productivity. Others might tap\
+    \ their well-honed storytelling skills to try to convince leaders that many traditional\
+    \ productivity metrics won’t work for technical writing teams and that our experienced\
+    \ and informed – but ultimately subjective – assessments of our workload and capacity\
+    \ will have to suffice.</p>\n<p>But what happens when you decide to tell a different\
+    \ story? What happens when you embrace quantitative metrics by borrowing a proven\
+    \ strategy from developers?</p>\n<p>This is the story of how my team adapted the\
+    \ concept of Agile story points estimation to our technical writing work, including:</p>\n\
+    <ul>\n<li>How and why we moved away from “vibes-based” estimation of workload\
+    \ and capacity based on past experience and gut feelings toward a more systematic,\
+    \ consistent, and data-driven model for scoping our work.</li>\n<li>Our methodology\
+    \ for numerically scoring each task in a way that attempts to account for all\
+    \ aspects of the work and minimize subjectivity.</li>\n<li>How we’re collecting\
+    \ and analyzing story points data.</li>\n<li>What worked, what didn’t, what we’ve\
+    \ learned, and what we’re still figuring out.</li>\n</ul>"
+  youtubeId: 6MvwJ1u01nE
+- title: 'Code in Content: Using Dynamic, Interactive Elements in your Technical Writing'
+  slug: code-in-content-using-dynamic-interactive-elements-in-your-technical-writing-taylor-krusen
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2024
+  speakers:
+  - name: Taylor Krusen
+    slug: taylor-krusen
+    twitter:
+    website:
+  abstract: "<p>As modern web technology has evolved, documentation has grown with\
+    \ it – leading to documentation that delivers an app-like experience to end users.\
+    \ For technical writers, there’s a growing emphasis on integrating code and logic\
+    \ directly into your content. New tools, like MDX and Markdoc, have emerged to\
+    \ bridge that gap, making it possible for writers to create dynamic, interactive\
+    \ content while writing in familiar Markdown syntax. But combining code and content\
+    \ can be challenging, add complexity, and create new and interesting ways to break\
+    \ things. So how should we think about and use these new tools to supplement our\
+    \ technical writing? </p>\n<p>This talk will cover the “why” and “how” behind\
+    \ the code-in-content trend and examine the technologies powering it. We’ll introduce\
+    \ and compare Markdoc with MDX using real examples to explore the authoring experience\
+    \ they provide. We’ll take a pragmatic look at the practical benefits and tradeoffs\
+    \ of these tools, then consider how they fit into your writing by centering the\
+    \ end-user’s experience. You’ll leave this session with the knowledge and context\
+    \ you need to start using code in content, ready to transform your documentation\
+    \ into a powerful educational tool (without overdoing it).</p>"
+  youtubeId: jsv8eYNRCKw
+- title: Sociological considerations in designing an internal documentation platform
+  slug: sociological-considerations-in-designing-an-internal-documentation-platform-alistair-gray
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2024
+  speakers:
+  - name: Alistair Gray
+    slug: alistair-gray
+    twitter:
+    website:
+  abstract: "<p>Internal documentation – in this talk, canonical reference material\
+    \ written by software engineers for their colleagues – is crucial for the smooth\
+    \ functioning of a company, as can be attested to by anyone who’s been woken at\
+    \ 3 AM by an automated detector that nobody seems to have explained anywhere.\
+    \ But it’s also subject to very different tradeoffs than end-user-facing documentation\
+    \ is; prototypically, you’d imagine a <em>lot</em> more docs, subject to fewer\
+    \ review cycles, written by teams with very different norms, for which a content\
+    \ strategy is <em>way</em> harder to direct from on high.</p>\n<p>The upsides\
+    \ of those trade-offs are very real: internal docs can make some simplifying assumptions\
+    \ about their audience, are lower-friction to edit, and are less constrained by\
+    \ a need to fit into a company-wide content strategy. Magnified by scale, however,\
+    \ the downsides of these trade-offs – like how much easier it becomes to let docs\
+    \ go stale or become fragmented – can grow into systemic sociological issues with\
+    \ internal docs culture. </p>\n<p>So, what can we as documentarians do to ensure\
+    \ that our internal docs overcome those issues and remain effective? I’ll be talking\
+    \ about my experience at Stripe’s team tasked with answering that question. Most\
+    \ of my talk will focus on what sociological issues we’ve found in our internal\
+    \ documentation posture (many of which we think are generalizable!) – ones around\
+    \ freshness, fragmentation, discoverability, and more – as well as what opinionated\
+    \ unique features we’ve designed into our in-house internal docs platform to combat\
+    \ those issues. We think our approach has helped (developer satisfaction with\
+    \ Stripe-internal documentation has gone way up!) and want to share how we’ve\
+    \ recognized and remediated these kinds of problems.</p>"
+  youtubeId: DxbXKLl-URo

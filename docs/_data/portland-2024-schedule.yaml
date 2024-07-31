@@ -1,0 +1,155 @@
+outing:
+  - time: '13:45'
+    title: Arrive at trailhead
+  - time: '14:00'
+    title: Hike starts
+  - time: '17:00'
+    title: Hike ends - end time approximate
+
+writing_day:
+  - time: '8:00'
+    title: 'Doors open'
+  - time: '08:45'
+    title: 'Project leaders select and set up at available tables'
+  - time: '9:00'
+    title: Morning introduction - Introduction to Sprints & Project Introductions
+  - time: '9:30'
+    title: Team up and start working
+  - time: '11:50'
+    title: '<i>Welcome Wagon conference introduction and venue tour</i>'
+  - time: '12:00'
+    title: Lunch Break
+  - time: '13:30'
+    title: '<i>Welcome Wagon conference introduction and venue tour</i>'
+  - time: '13:45'
+    title: 'Afternoon Session - all day groups reconvene and new group introductions'
+  - time: '16:30'
+    title: '<i>Welcome Wagon conference introduction and venue tour</i>'
+  - time: '17:00'
+    title: '<b>End of Writing Day</b>'
+  - time: '17:00'
+    title: '<b>Reception starts</b>'
+  - time: '19:00'
+    title: '<b>Reception ends</b>'
+
+talks_day1:
+  - time: '8:00'
+    title: Doors open
+  - time: '8:15'
+    title: '<i>Welcome Wagon conference introduction and venue tour</i>'
+  - time: '8:30'
+    title: '<b>Sponsor booths open</b>'
+  - time: '9:00'
+    duration: '0:25'
+    title: Write the Docs team - Conference introduction
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:00'
+    title: "<b>Unconference starts</b>"
+  - duration: '0:30'
+    slug: graphic-relief-beyond-flowcharts-and-screenshots-dennis-dawson
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: code-in-content-using-dynamic-interactive-elements-in-your-technical-writing-taylor-krusen
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:15'
+    title: '☕ Coffee break'
+  - duration: '0:30'
+    slug: applying-engineering-principles-to-technical-writing-mario-morales
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '1:20'
+    title: '🍽️ Lunch Break (80 mins)'
+  - duration: '0:30'
+    title: Lightning Talks (30 mins)
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: misadventures-in-seo-how-to-self-sabotage-your-documentation-steven-hicks
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: quantifying-the-impact-of-documentation-findings-from-dora-research-michelle-irvine
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:15'
+    title: '☕ Coffee break'
+  - duration: '0:30'
+    slug: beyond-words-strategies-for-leveling-up-your-tech-writing-career-calvin-fung
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: case-study-how-we-delivered-a-seamless-in-product-help-experience-candy-morton
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:10'
+    title: '<b>Group Photo! Right after the Q&A ;-)</b>'
+  - duration: '0:00'
+    title: '<b>Conference day 1 ends</b>'
+  - time: '18:30'
+    title: "<b>Social Event</b>"
+  - time: '20:30'
+    title: "<b>Social Event Ends</b>"
+
+talks_day2:
+  - time: '8:00'
+    title: Doors open
+    duration: '0:30'
+  - time: '8:30'
+    title: '<b>Sponsor booths open</b>'
+    duration: '0:30'
+  - duration: '0:00'
+    title: "<b>Unconference Starts</b>"
+  - duration: '0:30'
+    slug: a-strategic-documentation-template-for-startups-sofiya-minnath
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: the-four-stages-of-openapi-robert-delwood
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:15'
+    title: '☕ Coffee break'
+  - duration: '0:30'
+    slug: the-vibes-were-off-adapting-agile-story-points-estimation-to-technical-writin-tom-edmonds
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: sociological-considerations-in-designing-an-internal-documentation-platform-alistair-gray
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '1:20'
+    title: '🍽️ Lunch Break (80 mins)'
+  - duration: '0:30'
+    title: Lightning Talks (30 mins)
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: design-reviews-capturing-context-at-speed-shawn-aldridge
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:15'
+    title: '☕ Coffee break'
+  - duration: '0:30'
+    slug: make-it-make-semantic-sense-semantic-strategies-for-all-of-us-nellie-mckesson
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:15'
+    title: Write the Docs team - Conference closing
+  - duration: '0:20'
+    title: '<b>Main stage talks done</b>'
+  - duration: '0:00'
+    title: '<b>Conference ends 😔</b>'
+

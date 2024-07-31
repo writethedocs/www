@@ -31,7 +31,6 @@ You can certainly create a style guide of your own. For the sake of simplicity, 
 - [Gather Content — Developing a Content style guide](http://blog.gathercontent.com/tone-of-voice-guide)
 - [HubSpot — How to Create a Writing style guide Built for the Web](http://blog.hubspot.com/blog/tabid/6307/bid/31247/The-Simple-Template-for-a-Thorough-Content-Style-Guide.aspx)
 - [Meet Content — Editorial Style for the Web](http://meetcontent.com/blog/elements-of-editorial-style-for-the-web/)
-- [Stanford — Creating a web style guide](https://swsblog.stanford.edu/blog/creating-web-style-guide-cardinal-work)
 - [Techwhirl – Developing a Style Guide for Technical Publications](http://techwhirl.com/developing-a-departmental-style-guide/)
 
 ## Traditional writing style guide resources

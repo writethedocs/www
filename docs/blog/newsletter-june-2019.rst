@@ -81,7 +81,7 @@ Over the years, how to organize your docs been a really popular topic at Write t
 - `Backseat content strategy <https://www.youtube.com/watch?v=omwamA30e_Y&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=4>`__ - Laura Bailey, Australia 2018
 - `Where do I start? The art and practice of documentation triage </videos/portland/2018/where-do-i-start-the-art-and-practice-of-documentation-triage-neal-kaplan>`__ - Neil Kaplan, Portland 2018
 - `How to tear down existing documentation and rewrite docs that actually work </videos/prague/2018/how-to-tear-down-existing-documentation-and-rewrite-docs-that-actually-work-alexandra-white>`__ - Alexandra White, Prague 2018
-- `Tackling technical debt in the docs </videos/prague/2018/tackling-technical-debt-in-the-docs-louise-fahey>`__ - Louise Fahey, Prague 2018
+- Tackling technical debt in the docs - Louise Fahey, Prague 2018
 - `A year in the life of the better docs project </videos/prague/2018/a-year-in-the-life-of-the-better-docs-project-rowan-cota>`__ - Rowan Cota, Prague 2018
 
 --------------------
