@@ -32,8 +32,6 @@ common reasons people won't use your code:
 * They can't find how to install your code.
 * They can't see how to use your code.
 
-Few people will source dive to use code, but most 
-people will use properly documented code.
 Therefore, if you love your project, document it so others can use it.
 
 Increase contributions to your code
