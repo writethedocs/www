@@ -107,8 +107,8 @@ The `Python Guide`_ does a good job of this.
 
 .. _Python Guide: http://docs.python-guide.org/en/latest/index.html
 
-Tell how to get support
-~~~~~~~~~~~~~~~~~~~~~~~~
+Tell people how to get support
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Whether from a mailing list or IRC Channel, document how to get help and interact with the community. 
 
