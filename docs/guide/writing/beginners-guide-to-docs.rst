@@ -18,7 +18,7 @@ Understand your code in 6 months
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Your code from 6 months ago looks like code that someone else wrote.
-Things once obvious are now unclear and you now empathize with potential 
+Things that were obvious six months ago are now unclear, and you now empathize with potential 
 users who need good documentation.
 
 Get people to use your code
