@@ -41,8 +41,8 @@ Approaches to creating documentation
    doc-ops
 
 
-Markup languages
-----------------
+Understanding markup languages
+-------------------------------
 
 .. toctree::
    :maxdepth: 2
@@ -64,7 +64,7 @@ Documentation tools
 
 .. _api-documentation:
 
-API documentation
+How to write API documentation
 -----------------
 
 .. toctree::
@@ -72,8 +72,8 @@ API documentation
 
    api/api-documentation-tools
 
-Contribution information
-------------------------
+Contributing to Write the Docs
+-------------------------------
 
 .. toctree::
    :maxdepth: 2
