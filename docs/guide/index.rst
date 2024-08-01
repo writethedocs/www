@@ -65,7 +65,7 @@ Documentation tools
 .. _api-documentation:
 
 How to write API documentation
------------------
+------------------------------
 
 .. toctree::
    :maxdepth: 2
