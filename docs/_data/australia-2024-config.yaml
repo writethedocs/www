@@ -169,6 +169,9 @@ sponsors:
   #    brand: Atlassian
   #    width: 750px
   second:
+    - name: google
+      link: https://www.google.com/
+      brand: Google
   first:
   in_kind:
     - name: rtd
