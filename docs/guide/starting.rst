@@ -3,7 +3,7 @@ Starting off: documentation best practices for developers
 =======================================================================
 
 Want to write the docs for your project?
-You've come to the write [sic] place.
+You've come to the *write* place.
 
 Developers need to write documentation for many situations.
 This guide leads you to relevant documentation tactics for several situations. 
