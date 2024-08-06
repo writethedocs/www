@@ -2,11 +2,10 @@
 Starting off: documentation best practices for developers
 =======================================================================
 
-Want to write the docs for your project?
+Are you a developer who wants to write the docs for your project?
 You've come to the *write* place.
 
-Developers need to write documentation for many situations.
-This guide leads you to relevant documentation tactics for several situations. 
+Use this guide to find relevant documentation best practices depending on your situation. 
 
 Writing documentation as an open-source developer
 -------------------------------------------------
