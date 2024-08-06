@@ -176,6 +176,9 @@ sponsors:
  #     link: https://www.mongodb.com/?ref=writethedocs
  #     brand: MongoDB
   second:
+    - name: helpdocs
+      link: https://www.helpdocs.io/?ref=writethedocs
+      brand: HelpDocs
   media:
   in_kind:
 
