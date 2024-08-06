@@ -3,18 +3,19 @@
 .. post:: August 6, 2024
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
-Ticket Sales, Grant Program, and Call for Proposals Reminder
+Call for Proposals, Ticket Sales, and Grant Program Reminder
 =============================================================
 
-Greetings, documentarians! Just a quick reminder that tickets are `on sale now <https://www.writethedocs.org/conf/australia/{{year}}/tickets/>`_, and to remind you that our `Call for Proposals <https://www.writethedocs.org/conf/australia/{{year}}/cfp/>`_ is still open.
-
-Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
-If there is something you’d really like to see a talk about this year, submit a proposal for it or refer someone else who would be good!
+Greetings, documentarians! Just a quick reminder that our `Call for Proposals <https://www.writethedocs.org/conf/australia/{{year}}/cfp/>`_ is still open, 
+tickets are `on sale now <https://www.writethedocs.org/conf/australia/{{year}}/tickets/>`_, and you can still apply for our Grants program on `our website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/>`_.
 
 Submit your talk by {{ cfp.ends }}
 ------------------------------------
 
 There are only a few weeks left to submit your proposal! Check out the `Call for Proposals page <https://www.writethedocs.org/conf/australia/{{year}}/cfp/>`_ for more details about what we are looking for.
+
+Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
+If there is something you’d really like to see a talk about this year, submit a proposal for it or refer someone else who would be good!
 
 And if you already have an idea but you’re having a hard time getting your proposal to come together, you can always ask for feedback on the `Write the Docs Slack <https://www.writethedocs.org/slack/>`_. The community is there to help!
 
@@ -44,7 +45,7 @@ Grant program
 --------------
 
 Our grant program offers tickets to people who would otherwise not be able to attend.
-We're excited to be able to offer free tickets to a few people this year. However, we may prioritise applications from people who are part of a marginalized
+We're excited to be able to support a few people this year. However, we may prioritise applications from people who are part of a marginalized
 or underrepresented group in tech.
 
 You can apply until **October 1, 2024, midnight AEST** on `our website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/>`_.
