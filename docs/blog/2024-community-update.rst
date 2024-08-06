@@ -26,6 +26,8 @@ Kenya Event and Community Engagement
 We are thrilled to work with the Meetup team in Kenya to put on `a small gathering for their community <https://wtdkenya.hashnode.dev/write-the-docs-kenya-summit-2024>`_ this year! It was a great way to continue building the community locally, and we're excited to see more events like this in the future.
 
 If you're interested in organizing a community event, please feel free to reach out to the core team. We have resources and support to help you get started on a Meetup, or to grow your meetup into a larger community event.
+As part of this effort, we're going to be building on our Grant program for conference to extend it to other types of events.
+Look for more updates on that in the coming months.
 
 Job Board Transition
 --------------------
