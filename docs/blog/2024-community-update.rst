@@ -9,7 +9,7 @@ Hey there documentarians!
 
 Eric Holscher here filling in for the Newsletter team as they take their normal August break.
 
-We're looking forward to seeing everyone online for our virtual `Atlantic <http://www.writethedocs.org/conf/atlantic/2024/>`_ on **September 22-24**. The event is scheduled to be available for both folks in EDT and CEST timezones. Tickets are still on sale until a few days before the event, so grab yours now if you haven't yet.
+We're looking forward to seeing everyone online for our virtual `Atlantic <http://www.writethedocs.org/conf/atlantic/2024/>`_ on **September 22-24**. The event is scheduled to be available for both folks in EDT and CEST timezones. Tickets are still on sale until a few days before the event, though we may sell out earlier, so grab yours now if you haven't yet.
 
 We're also getting excited about our upcoming `Australia <http://www.writethedocs.org/conf/australia/2024/>`_ conference on **November 28-29** in Melbourne. The `Australia conference CFP <https://www.writethedocs.org/conf/australia/2024/cfp/>`_ is open for a few more weeks if you have ideas, and can make it to Melbourne.
 
@@ -23,7 +23,7 @@ We are still in the planning phase for our 2025 conferences, but expect the stru
 Kenya Event and Community Engagement
 ------------------------------------
 
-We are thrilled to work with the Meetup team in Kenya to put on `a small gathering for their community <https://wtdkenya.hashnode.dev/write-the-docs-kenya-summit-2024>`_ this year! It was a great way to continue building the community locally, and we're excited to see more events like this in the future.
+We are thrilled to work with the Meetup team in Kenya to put on `a gathering for their community <https://wtdkenya.hashnode.dev/write-the-docs-kenya-summit-2024>`_ this year! It was a great way to continue building the community locally, and we're excited to see more events like this in the future.
 
 If you're interested in organizing a community event, please feel free to reach out to the core team. We have resources and support to help you get started on a Meetup, or to grow your meetup into a larger community event.
 As part of this effort, we're going to be building on our Grant program for conference to extend it to other types of events.
@@ -32,7 +32,7 @@ Look for more updates on that in the coming months.
 Job Board Transition
 --------------------
 
-We are looking at transitioning away from a job board and to a job sponsorship model that works similarly to our other `community sponsorship options <https://www.writethedocs.org/sponsorship/>`_. Our current job board vendor has raised their rates significantly, which caused us to reevaluate how to promote jobs in the community. Our Slack ``#job-posts-only`` channel has quite active with job postings, and we're looking to expand on that success.
+We are looking at transitioning away from a job board and to a job sponsorship model that works similarly to our other `community sponsorship options <https://www.writethedocs.org/sponsorship/>`_. We have been reevaluating how to promote jobs in the community, and felt the job board was no longer the best fit. Our Slack ``#job-posts-only`` channel has quite active with job postings, and we're looking to expand on that success.
 
 The new format will likely have the option to promote a job in the newsletter, on Slack, or both. We're still working out the details, but we're excited to continue to help connect great companies with great documentarians.
 
