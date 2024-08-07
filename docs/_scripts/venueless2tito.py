@@ -37,7 +37,7 @@ TICKET_NAME_TO_TRAIT = {
     "speaker": ["speaker"],
     "sponsor": ["sponsor"],
 }
-DEFAULT_TRAITS = ["participant"]
+DEFAULT_TRAITS = ["attendee"]
 
 ###############################################################################
 
@@ -91,7 +91,7 @@ with connect(VENUELESS_WSS_URL) as ws_client:
 
     for ticket_slug, traits in pending_tickets:
         ws_client.send(
-            json.dumps(["world.tokens.generate", venueless_rq_count, {"number": 1, "days": 90, "traits": [traits]}])
+            json.dumps(["world.tokens.generate", venueless_rq_count, {"number": 1, "days": 90, "traits": traits}])
         )
         message = json.loads(ws_client.recv())
         assert message[0] == "success"
