@@ -1,5 +1,5 @@
 =======================================================================
-Starting off: documentation best practices for developers
+Getting started: documentation best practices for developers
 =======================================================================
 
 Are you a developer who wants to write the docs for your project?
