@@ -1,53 +1,27 @@
-============
-Starting off
-============
+=======================================================================
+Getting started: documentation best practices for developers
+=======================================================================
 
-So, you want to write the docs for your project?
+Are you a developer who wants to write the docs for your project?
+You've come to the *write* place.
 
-    *Where on earth do I start?*
+Use this guide to find relevant documentation best practices depending on your situation. 
 
-Well, you've come to the write [sic] place.
+Writing documentation as an open-source developer
+-------------------------------------------------
 
-The goal here is to explain how to write docs,
-how to get the time to write docs,
-and what you should be striving for with those docs.
-A lot of projects are different, and a lot are the same.
-We will be covering the tactics for a few different groups.
+You have awesome open-source code, but do people know how to use it?
+Good documentation improves the chance of someone discovering and using your code.
 
-Open source developers
-----------------------
+If you are an open-source developer, see :doc:`writing/beginners-guide-to-docs`,
+for practical advice on getting started.
 
-You have some awesome open source code, but nobody knows how to use it.
-The chance of someone discovering and using your awesome code goes up
-greatly with good documentation.
+Justifying documentation as a developer at a company
+----------------------------------------------------
 
-Start with the :doc:`writing/beginners-guide-to-docs`,
-which provides practical advice on getting started.
+How do you justify writing documentation for your project?
+Your deadlines hardly allow time to write tests,
+and docs are always delayed until the end.
 
-
-Developers at a company
------------------------
-
-You need help justifying writing documentation for your project.
-It seems the timelines you're given hardly allow any time to write tests,
-and docs always get put off until the end.
-Well, here are some ways that you can show value to your boss,
-and hopefully get the time to write the docs.
-
-Get started with :doc:`writing/mindshare`,
-which should give you a blueprint for how you can implement a documentation
-solution in your company.
-
-Enterprise users
-----------------
-
-You are a SAAS or Services company and you have developers as your target
-audience.
-If you don't have great documentation,
-your competitors will leave you in the dust.
-It will also jack up your support costs,
-because customers can't help themselves.
-
-This page of :ref:`interesting-approaches` is a good starting point to see
-some documentation that is well done.
-
+To show the value of documentation to your boss and get a blueprint for 
+implementing a documentation solution at your company, see :doc:`writing/mindshare`.
