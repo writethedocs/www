@@ -216,13 +216,13 @@
     accessibly. By the end of the talk, you’ll feel challenged and energized to continue
     learning about how language fundamentally works.</p>'
 - title: What's in a Word? Lessons from Localizing Kubernetes Documentation to Arabic
-  slug: what-s-in-a-word-lessons-from-localizing-kubernetes-documentation-to-arabic-ali-d
+  slug: what-s-in-a-word-lessons-from-localizing-kubernetes-documentation-to-arabic-ali-dowair
   series: Write the Docs Atlantic
   series_slug: atlantic
   year: 2024
   speakers:
-  - name: Ali D
-    slug: ali-d
+  - name: Ali Dowair
+    slug: ali-dowair
     twitter: 
     website: 
   abstract: '<p>Translating technical documentation presents challenges in preserving
