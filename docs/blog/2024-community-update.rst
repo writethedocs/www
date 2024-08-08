@@ -18,7 +18,7 @@ We held our second Portland conference in our new venue this year, and it felt l
 2025 Conferences
 ----------------
 
-We are still in the planning phase for our 2025 conferences, but expect the structure to remain similar. Our Portland conference will be **May 4-6, 2025**, and expect more updates about the other events as we get closer to the end of the year.
+We are still in the planning phase for our 2025 conferences, but expect the structure to remain similar. Our Portland conference will be **May 4-6, 2025**, you can expect more updates about the other events later in the year.
 
 Kenya Event and Community Engagement
 ------------------------------------
@@ -32,7 +32,7 @@ Look for more updates on that in the coming months.
 Job Board Transition
 --------------------
 
-We are looking at transitioning away from a job board and to a job sponsorship model that works similarly to our other `community sponsorship options <https://www.writethedocs.org/sponsorship/>`_. We have been reevaluating how to promote jobs in the community, and felt the job board was no longer the best fit. Our Slack ``#job-posts-only`` channel has quite active with job postings, and we're looking to expand on that success.
+We are looking at transitioning away from a job board and to a job sponsorship model that works similarly to our other `community sponsorship options <https://www.writethedocs.org/sponsorship/>`_. We have been reevaluating how to promote jobs in the community, and felt the job board was no longer the best fit. Our Slack ``#job-posts-only`` channel has been consistently active with job postings, and we're looking to expand on that success.
 
 The new format will likely have the option to promote a job in the newsletter, on Slack, or both. We're still working out the details, but we're excited to continue to help connect great companies with great documentarians.
 
