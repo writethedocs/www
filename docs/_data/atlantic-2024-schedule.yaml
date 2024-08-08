@@ -74,7 +74,7 @@ talks_day2:
   - duration: '0:00'
     title: "<b>Sponsor Expo starts</b>"
   - duration: '0:30'
-    slug: what-s-in-a-word-lessons-from-localizing-kubernetes-documentation-to-arabic-ali-d
+    slug: what-s-in-a-word-lessons-from-localizing-kubernetes-documentation-to-arabic-ali-dowair
   - duration: '0:10'
     title: '✋ Q&A for the previous talk'
   - duration: '0:30'
