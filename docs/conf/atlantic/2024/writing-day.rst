@@ -4,10 +4,93 @@
 Writing Day
 ===========
 
-{% include "conf/events/writing-day.rst" %}
+What is Writing Day? 
+--------------------
+
+Writing Day is modeled after the concept of "sprints" or “hackathons”, which are common in open-source (OSS) conferences. 
+
+Held on Sunday, the first day of the conference, attendees are encouraged to bring a project or contribute to someone else's project. 
+
+The main goal is to get interesting people in the same room, sharing their passion and goals and collaborating to find creative solutions to solve a problem or issue.
+
+Attendees are invited to submit their project pre-conference! It's a great way to get other attendees excited about contributing.
+
+**There are two main types of Writing Day attendees:**
+
+- Project leads: Attendees bringing ideas, content, or OSS projects to work on with contributors.
+- Contributors: Attendees looking to contribute to various content projects.
+
+**Here are examples of projects that you might see at the conference:**
+
+-  Open-source software documentation
+-  General documentation writing
+-  Best practices manual (for your company, or the world)
+-  Resume, cover letter, and portfolio reviews
+-  Blog posts
+-  Tips and tricks
+-  Great works of fiction
+-  Love letters
+-  The Documentarian Manifesto
+
+If you find specific examples helpful, check out the `Portland Writing Day 2023 project list <https://www.writethedocs.org/conf/portland/2023/writing-day/#project-listing>`_.
+
+
+Lead a Project
+^^^^^^^^^^^^^^
+
+Leading a project at Writing Day is a wonderful opportunity to engage with documentarians from a variety of backgrounds, experience, and expertise. Their collective wealth of experience can help upgrade your documentation and create a more inclusive project. This empowers all of us to work together to create opportunities for each other and bigger, better communities.
+
+
+**Tips to create and lead a new project effectively:** 
+
+-  **Provide a project overview with a specific focus or goals:** Your project overview is a 2 minute pitch that describes your project and clearly defines a focus area or goal. Here’s a good example from Writing Day 2022, the `Open Web Docs project <https://www.writethedocs.org/conf/portland/2022/writing-day/#open-web-docs>`_.
+-  **Pre-label tasks and issues:** Create a specific event label and label documentation tasks and issues. This empowers new contributors to find tasks that interest them.
+-  **Create a task filter:** This  helps contributors find issues more easily and see which issues have been assigned.
+-  **Clear onboarding:** Ensure your ReadMe, contribution guidelines, or onboarding instructions are accurate and up to date.
+-  **Submit your Writing Day Project:** Adding your project to the Writing Day project list promotes your project to our attendees before the event. Many attendees have told us that their curiosity about certain projects incentivised their attendance.
+-  **Project Experts:** We recommend having 1-2 project experts on your project. We love our developer advocates, community managers, and subject matter experts! You’re welcome to call for virtual reinforcements from your community as well.
+-  **Flexibility and Understanding:** Reminder that attendees may need additional info to be successful in onboarding to your project.
+
+These are suggestions and not requirements. It is perfectly valid to show up to Writing Day, tell us about your project day of, and ask for volunteers! It’s been done before and it will be done again.
+
+
+Contribute to a Project
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Writing Day is the perfect opportunity to learn about new projects and technologies. Some attendees stay at one table all day, others table hop. Do what feels right to you.
+
+Check out the project list! Keep in mind that some attendees choose to announce their projects during Writing Day and the information is not available on the project list.
+
+**Tips to contribute to a project:**
+
+-  **No matter your experience level, you are welcome!** We are glad you’re here. Even if you `feel <http://en.wikipedia.org/wiki/Impostor_syndrome>`__ as though you don't have the right skills or experience or have never attended an event like Writing Day before, you’ll be surprised how much you can share.
+-  **Check out our guide to writing documentation.** Our `beginners guide <https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/>`_ will help you get started, and give you some ideas for how you can contribute to a project.
+-  **Ask people for help if you have a question.** If at any time you get stuck with new concepts and tools, you are in a room full of friendly people from diverse backgrounds and experiences.  If you are not sure who to ask, ask the Welcome Wagon or Registration staff or volunteers. We will help you find someone!
+
+Logistics
+---------
+
+**Come prepared with the following tools:**
+
+-  Laptop, tablet, or other device 
+-  `GitHub account <https://github.com/>`_ (you may also want a `GitLab account <https://about.gitlab.com/>`_)
+-  Text editor of your choice for coding or content creation
+
+
+Call for Project Submissions
+----------------------------
+
+We strongly recommend that you `submit your Writing Day project in advance <https://forms.gle/uTkWHV3fesyNQEyk9>`__! **Projects submitted by *September 6, 2024* are promoted in our pre-conference Writing Day blog post and email.**
+
+As usual, virtual walk-on projects are always welcome. All attendees always have the option to bring a project, sign up on site, and announce it during Writing Day.
+
+If you need additional information to advocate for Writing Day in your community or organization, see the `Convince Your Community <https://www.writethedocs.org/conf/atlantic/{{year}}/convince-day-manager/#convince-your-community>`_ resource.
 
 Schedule
 --------
+
+Writing Day is an all day event that is designed with flexibility in mind. Feel free to check out as many projects as make sense for you and your schedule!
+
 
 - Date & Time: **{{date.day_two.dotw}}, {{date.day_two.date}}, {{date.day_two.writing_day_time}} {{tz}}**.
 - Location: **{{about.venue}}**.
@@ -15,16 +98,23 @@ Schedule
 Writing Day projects are welcome to join us for the entire event, the first session, or the second session. 
 The first and second session time blocks are separated by a 30 minute snack break.
 
-First session:
+We will do a shared intro session at 10:30 UTC and 14:30 UTC. Project leaders should join the platform early to acclimate to the space and test your audio/video.
+
+Project setup:
+
+* 10:00 UTC to 10:30 UTC
+* 12:00 CEST to 12:30 CEST
+* 06:00 EDT to 06:30 EDT
+
+First session and introductions:
 
 * 10:30 UTC to 14:00 UTC 
 * 12:30 CEST to 16:00 CEST 
 * 06:30 EDT to 10:00 EDT
 
-We will do a shared intro session at 11:00 UTC where projects can pitch their plans.
-If you'd like to pitch a project, please join the platform early to acclimate to the space and test your audio/video.
+Snack break: 14:00 - 14:30 UTC
 
-Second session:
+Second session and announcements:
 
 * 14:30 UTC to 17:00 UTC
 * 16:30 CEST to 19:00 CEST
@@ -33,7 +123,7 @@ Second session:
 Project list
 ------------
 
-Submit your project using our `Writing Day project form <https://forms.gle/B2pWvz9e1igC4cS56>`_ or send us a PR with your project info!
+Submit your project using our `Writing Day project form <https://forms.gle/uTkWHV3fesyNQEyk9>`_ or send us a PR with your project info!
 
 Check out the :doc:`/conf/{{shortcode}}/{{year}}/writing-day-project-faq` to review what information is 
 needed for your project submission as well as ways to maximize your event experience.
