@@ -1,6 +1,6 @@
 # Accessibility guidelines: for writing and beyond
 
-Writing for accessibility includes ensuring screenreaders can read copy, content is organized, style and color of text emphasis are readible, and more.
+Writing for accessibility includes ensuring screenreaders can read copy, content is organized, style and color of text emphasis are readable, and more.
 
 Accessibility is an important aspect of any good web project, and docs are no exception. As one advocate puts it, "... if the content design is simple, concise, and clear you are already doing a lot for both a11y and localization."
 
