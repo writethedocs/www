@@ -15,6 +15,9 @@ The main goal is to get interesting people in the same room, sharing their passi
 
 Attendees are invited to submit their project pre-conference! It's a great way to get other attendees excited about contributing.
 
+Note that a ticket for the conference is required to participate in Writing Day.
+This of course also grants entry to the other two conference days, with talks, unconference sessions and other activities.
+
 **There are two main types of Writing Day attendees:**
 
 - Project leads: Attendees bringing ideas, content, or OSS projects to work on with contributors.
