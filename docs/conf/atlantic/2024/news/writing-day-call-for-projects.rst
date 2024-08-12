@@ -15,7 +15,7 @@ For projects submitted by Friday, September 6, 2024, we'll highlight your projec
 Our attendees are curious and want to know about you, your project, and your community - so 
 let's give the people what they want!
 
-You are of course welcome to submit and announce your project at Writing Day. This is a time honored 
+You are of course welcome to submit and announce your project at Writing Day. This is a time-honored 
 tradition and we appreciate all of our projects.
 
 Call for Projects
@@ -27,7 +27,7 @@ Write the Docs attendees.
 The Write the Docs conference has many enthusiastic attendees. These attendees, documentarians, want 
 to learn new technologies, sharpen their skills, and add to their portfolios. The world of open 
 source has a seemingly endless number of wonderful open source projects. Documentarians want to write 
-the docs, your open source project docs.
+the docs, e.g., your open source project docs.
 
 We are looking for community/OSS projects for our virtual Writing Day at the Atlantic conference on 
 September 22.
