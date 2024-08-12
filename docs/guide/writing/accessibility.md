@@ -29,9 +29,6 @@ And for general writing style, see [style guides](https://www.writethedocs.org/g
 - [WebAIM, from the Center for Persons with Disabilities at Utah State University](https://webaim.org/)
 - [Collection of articles and other resources from Stark, a commercial a11y company](https://www.getstark.co/library/)
 - [IBM's Equal Access Toolkit](https://www.ibm.com/able/)
-
-Writing for accessibility includes making sure copy can be read by screenreaders, content organization, style and color of text emphasis, and more.
-
 - [Atlassian Design System - Inclusive writing reference](https://atlassian.design/content/inclusive-writing)
 - [MailChimp's writing style guide](https://styleguide.mailchimp.com/writing-for-accessibility/)
 - [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
