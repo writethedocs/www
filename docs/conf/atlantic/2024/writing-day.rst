@@ -49,7 +49,7 @@ Leading a project at Writing Day is a wonderful opportunity to engage with docum
 -  **Provide a clear onboarding process:** Ensure your ReadMe, contribution guidelines, or onboarding instructions are accurate and up to date.
 -  **Add your project to the Writing Day project list:** Adding your project to the list promotes your project to our attendees before the event. Many attendees have told us that their curiosity about certain projects incentivised their attendance.
 -  **Invite project experts to attend:** We recommend having 1-2 project experts on your project. We love our developer advocates, community managers, and subject matter experts! You’re welcome to call for virtual reinforcements from your community as well.
--  **Practice flexibility and understanding:** Rememember, some attendees may need additional info to successfully onboard to your project.
+-  **Practice flexibility and understanding:** Remember, some attendees may need additional info to successfully onboard to your project.
 
 These are suggestions and not requirements. It is perfectly valid to show up to Writing Day, tell us about your project the day of, and ask for volunteers! It’s been done before and it will be done again.
 
