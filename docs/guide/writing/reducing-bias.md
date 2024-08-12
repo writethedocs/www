@@ -20,12 +20,11 @@ Free guides:
 
 Free resources:
 
-- [Internet Engineering Task Force (IETF) on Terminology, Power, and Oppressive Language](https://tools.ietf.org/id/draft-knodel-terminology-00.html)
+- [Internet Engineering Task Force (IETF) on Terminology, Power, and Oppressive Language](https://www.ietf.org/archive/id/draft-knodel-terminology-09.html)
 - [The Conscious Style Guide - a collection of resources](https://consciousstyleguide.com/)
 - [Diversity Style Guide](https://www.diversitystyleguide.com/)
 - [Linguistic Society of America Guidelines for Inclusive Language](https://www.linguisticsociety.org/resource/guidelines-inclusive-language)
 - [Linguistic Society of America Additional Inclusive Language Resources](https://www.linguisticsociety.org/content/further-content-related-inclusive-language-guidelines)
-- [American Psychological Association (APA)'s Guide on Bias-Free Language](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/)
 
 Paid resources:
 
