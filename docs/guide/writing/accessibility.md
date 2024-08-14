@@ -1,8 +1,8 @@
 # Accessibility guidelines: for writing and beyond
 
-Accessibility is an important aspect of any good web project, and docs are no exception. As one advocate puts it, "... if the content design is simple, concise, and clear you are already doing a lot for both a11y and localization."
+Writing for accessibility includes ensuring screenreaders can read the text, content is organized, style and color of text emphasis are readable, and more.
 
-And to make this page as accessible as possible: the term `a11y` is what's called a numeronym, or shorthand in this case for "accessibility", where `11` is the number of letters between the `a` and the `y`.
+Accessibility is an important aspect of any good web project, and docs are no exception. As one advocate puts it, "... if the content design is simple, concise, and clear you are already doing a lot for both a11y and localization." The term `a11y` is what's called a numeronym, or shorthand in this case for "accessibility", where `11` is the number of letters between the `a` and the `y`.
 
 See also [reducing bias in your writing](https://www.writethedocs.org/guide/writing/reducing-bias).
 
@@ -29,20 +29,14 @@ And for general writing style, see [style guides](https://www.writethedocs.org/g
 - [WebAIM, from the Center for Persons with Disabilities at Utah State University](https://webaim.org/)
 - [Collection of articles and other resources from Stark, a commercial a11y company](https://www.getstark.co/library/)
 - [IBM's Equal Access Toolkit](https://www.ibm.com/able/)
-
-
-Writing for accessibility includes making sure copy can be read by screenreaders, content organization, style and color of text emphasis, and more.
-
+- [Atlassian Design System - Inclusive writing reference](https://atlassian.design/content/inclusive-writing)
 - [MailChimp's writing style guide](https://styleguide.mailchimp.com/writing-for-accessibility/)
 - [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
 - [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) by bitsofcode
 - [Microsoft Style Guide Accessibility Terms](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)
-
 
 ## Relevant talks from Write the Docs:
 
 - [Moving beyond empathy: a11y in documentation](https://www.writethedocs.org/videos/portland/2020/moving-beyond-empathy-a11y-in-documentation-alexandra-white/)
 - [A11y-Friendly Documentation](https://www.writethedocs.org/videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/) at Write the Docs Prague 2018
 - [Inclusive Tech Docs - TechComm Meets Accessibility](http://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015
-
-
