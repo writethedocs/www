@@ -26,9 +26,9 @@ Our Q3 meeting covered several initiatives that the team leads have been working
 
 * **Slack moderation:** The WTD Slack is continuing to enjoy a stable and relatively low volume of spammer blog posts, and the moderators have not had to handle as many reports as this time last year. Janine Chan will continue to coordinate with her team on any new issues that might come up.
 
-* **Portland:** The Portland conference team has already started working on the 2025 edition, and dates have been published on our website. To check out the conference dates, see `Write the Docs Portland 2025 <https://www.writethedocs.org/conf/portland/2025/>`_.
+* **Portland:** The Portland conference team has already started working on `Write the Docs Portland 2025 <https://www.writethedocs.org/conf/portland/2025/>`_, and dates have been published on our website.
 
-* **Australia:** The Australia conference team is happy to celebrate its 8th birthday! The Call for Proposals is closing this week, but tickets are available and all the information is available on the `Write the Docs Australia 2024 <https://www.writethedocs.org/conf/australia/2024/>`_ website.
+* **Australia:** The Australia conference team is celebrating its 8th birthday! The Call for Proposals is closing this week, but tickets are available and all the information is available on the `Write the Docs Australia 2024 <https://www.writethedocs.org/conf/australia/2024/>`_ website.
 
 As always, the board continues to review the community backlog to determine what are the most valuable efforts for the community in the short and long term. 
 
