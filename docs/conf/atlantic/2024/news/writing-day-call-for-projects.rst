@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 :og:image: /_static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
-.. post:: Aug 10, 2024
+.. post:: Aug 15, 2024
    :tags: {{shortcode}}-{{year}}, writing day, projects, oss projects
 
 Announcing the Writing Day Call for Projects
