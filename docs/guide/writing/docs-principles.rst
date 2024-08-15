@@ -1,5 +1,5 @@
-Documentation principles
-========================
+Good documentation practices and principles for developers
+===========================================================
 
 Software development benefits from `philosophies`_ and `principles`_ such as
 `DRY`_, `KISS`_, `code reuse`_, and many more. With these commonly understood
@@ -13,10 +13,10 @@ accountable to producing high-quality code.
 .. _KISS: https://en.wikipedia.org/wiki/KISS_principle
 .. _Code Reuse: https://en.wikipedia.org/wiki/Code_reuse
 
-This set of principles seeks to define similar standards for software
-*documentation* that, when practiced, will foster clean and intuitive
-content. The end goal is ultimately to delight and empower readers by
-making information easier for them to acquire.
+These principles define similar standards for software
+*documentation* to foster clean and intuitive
+content. The goal is to delight and empower readers with
+easy-to-find information.
 
 Overview, by component
 ----------------------
