@@ -1,15 +1,14 @@
-Good documentation practices and principles for developers
-===========================================================
+Documentation principles for developers
+========================================
 
 Software development benefits from `philosophies`_ and `principles`_ such as
 `DRY`_, `KISS`_, `code reuse`_, and many more. With these commonly understood
 and accepted standards, developers can hold themselves and each other
-accountable to producing high-quality code.
+accountable for producing high-quality code.
 
 .. _philosophies: https://en.wikipedia.org/wiki/Category:Software_development_philosophies
 .. _principles: https://en.wikipedia.org/wiki/Category:Programming_principles
 .. _DRY: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
-.. _Don't Repeat Yourself: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 .. _KISS: https://en.wikipedia.org/wiki/KISS_principle
 .. _Code Reuse: https://en.wikipedia.org/wiki/Code_reuse
 
@@ -144,8 +143,7 @@ your code will need to be described *again* in your documentation.
 In an ideal world, an automated system would generate documentation from
 the software's source code, *and* the system would be smart enough to
 generate *good* documentation without any additional input.
-Unfortunately we do not (yet) live in that world, and today the best
-documentation is hand-written, which means that just by writing *any*
+Unfortunately, today, the best documentation is hand-written, which means that just by writing *any*
 documentation, you are repeating yourself. Sure, `documentation generators`_
 exist and are useful, but it's important to acknowledge that they still
 require input from humans to function.
