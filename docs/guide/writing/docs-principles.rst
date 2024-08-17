@@ -2,107 +2,38 @@ Documentation principles for developers
 ========================================
 
 Software development benefits from `philosophies`_ and `principles`_ such as
-`DRY`_, `KISS`_, `code reuse`_, and many more. With these commonly understood
-and accepted standards, developers can hold themselves and each other
-accountable for producing high-quality code.
+`DRY`_, `KISS`_, `code reuse`_, and many more. Developers use these commonly understood
+standards to produce high-quality code.
 
 .. _philosophies: https://en.wikipedia.org/wiki/Category:Software_development_philosophies
 .. _principles: https://en.wikipedia.org/wiki/Category:Programming_principles
 .. _DRY: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
+.. _Don't Repeat Yourself: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 .. _KISS: https://en.wikipedia.org/wiki/KISS_principle
 .. _Code Reuse: https://en.wikipedia.org/wiki/Code_reuse
 
-These principles define similar standards for software
+These principles can also apply to software
 *documentation* to foster clean and intuitive
-content. The goal is to delight and empower readers with
+content that delights and empowers readers with
 easy-to-find information.
 
-Overview, by component
-----------------------
+General documentation principles
+--------------------------------------
 
-All documentation
-~~~~~~~~~~~~~~~~~
-
-In general, documentation should be...
+In general, all documentation should be...
 
 * `Precursory <#precursory>`__
 * `Participatory <#participatory>`__
-
-Content
-~~~~~~~
-
-*"Content" is the conceptual information within documentation.*
-
-**Content** should be...
-
-* `ARID <#arid>`__
-* `Skimmable <#skimmable>`__
-* `Exemplary <#exemplary>`__
-* `Consistent <#consistent>`__
-* `Current <#current>`__
-
-Sources
-~~~~~~~
-
-*A "source" refers to a system used to store and edit content.
-Examples of sources include: text files written using
-reStructuredText or Markdown, HTML content in a CMS database, help
-text stored within strings in application code, code comments to be
-assembled later into formalized documentation, and others too.*
-
-All **sources** should be...
-
-* `Nearby <#nearby>`__
-* `Unique <#unique>`__
-
-
-Publications
-~~~~~~~~~~~~
-
-*A "publication" refers to a single, cohesive tool that readers use to consume
-documentation.
-It may be static or interactive — digital or paper. Multiple
-publications may be created from a single source (such as web and PDF
-versions of the same manual). Although rarer, multiple sources may
-be used to create a single publication. More examples of
-publications include: API reference, man page, command line
-``--help`` output, in-application help tips, online tutorials,
-internal engineering manuals, and others too.*
-
-Each **publication** should be...
-
-* `Discoverable <#discoverable>`__
-* `Addressable <#addressable>`__
-* `Cumulative <#cumulative>`__
-* `Complete <#complete>`__
-* `Beautiful <#beautiful>`__
-
-Body
-~~~~
-
-*A "body" refers to the collection of all the publications within a software
-project and any of its sub-projects*
-
-A documentation **body** should be...
-
-* `Comprehensive <#comprehensive>`__
-
-
-===============================================================================
-
-
-In general, documentation should be...
---------------------------------------
 
 Precursory
 ~~~~~~~~~~
 
 *Begin documenting before you begin developing.*
 
-Before coding, write requirements and specifications that also serve as
+Before coding, write requirements and specifications that serve as
 the first draft of documentation. These texts no doubt will need a bit
-of clean up before publishing, but by front-loading the documentation,
-you lay a clear path forwards. Early documentation also helps facilitate
+of cleanup before publishing, but by front-loading the documentation,
+you lay a clear path forward. Early documentation also helps facilitate
 peer feedback and group decisions to guide your work. This model is the
 sentiment behind `documentation driven design <../style-guides#documentation-driven-design>`_.
 
@@ -118,17 +49,27 @@ the software's contributors. Developers and engineers are the people
 with the best access to in-demand information, and getting them to
 document it will help foster a *culture* of documentation.
 
-As well, documentation *readers* (i.e., users) should have clear avenues
+Documentation *readers* (i.e., users) should also have clear avenues
 towards involvement in documentation. A good first step is to give
-readers the ability to offer feedback in the form of comments or
+readers the ability to offer feedback through comments or
 suggestions. Allowing readers to edit documentation directly (e.g., in a
 wiki) can also be effective but must be weighed against the need and
 capacity for editorial oversight.
 
 Encourage *everyone* to become a :doc:`documentarian </documentarians>`!
 
-Content should be...
---------------------
+Principles for great content
+-----------------------------
+
+*"Content" is the conceptual information within documentation.*
+
+**Content** should be...
+
+* `ARID <#arid>`__
+* `Skimmable <#skimmable>`__
+* `Exemplary <#exemplary>`__
+* `Consistent <#consistent>`__
+* `Current <#current>`__
 
 ARID
 ~~~~
@@ -175,7 +116,7 @@ writing like a newspaper instead of a novel.
 Specifically:
 
 -  Headings — should be descriptive and concise.
--  Hyperlinks — should surround words which describe the link itself
+-  Hyperlinks — should surround words that describe the link itself
    (and never phrases like "click here" or "this page").
 -  Paragraphs and list items — should begin with identifiable concepts
    as early as possible.
@@ -221,19 +162,30 @@ Be aware as well that some users will remain on older versions of your
 software, and thus require older versions of your documentation. Proper
 documentation platforms will accommodate such needs gracefully.
 
-Sources should be...
---------------------
+Principles for content sources
+-------------------------------
+
+*A "source" refers to a system used to store and edit content.
+Examples of sources include: text files written using
+reStructuredText or Markdown, HTML content in a CMS database, help
+text stored within strings in application code, code comments to be
+assembled later into formalized documentation, and others too.*
+
+All **sources** should be...
+
+* `Nearby <#nearby>`__
+* `Unique <#unique>`__
 
 Nearby
 ~~~~~~
 
 *Store sources as close as possible to the code which they document.*
 
-Give developers systems which allow them to easily make documentation
+Give developers systems that allow them to easily make documentation
 changes along with their code changes. One way is to store documentation
 content in comment blocks within application source code. Another is to
 store it in separate text files but within the same repository as the
-application's source code. Either way, the goal is merge (as much as
+application's source code. Either way, the goal is to merge (as much as
 possible) the workflows for development and documentation.
 
 Unique
@@ -246,8 +198,26 @@ each source is clearly defined and disjoint with other sources. The goal
 here is to prevent any parallel maintenance (or worse — *lack* of
 maintenance) of the same information across multiple sources.
 
-Each publication should be...
+Principles for publications
 -----------------------------
+
+*A "publication" refers to a single, cohesive tool that readers use to consume
+documentation.
+It may be static or interactive — digital or paper. Multiple
+publications may be created from a single source (such as web and PDF
+versions of the same manual). Although rarer, multiple sources may
+be used to create a single publication. More examples of
+publications include: API reference, man page, command line
+``--help`` output, in-application help tips, online tutorials,
+internal engineering manuals, and others too.*
+
+Each **publication** should be...
+
+* `Discoverable <#discoverable>`__
+* `Addressable <#addressable>`__
+* `Cumulative <#cumulative>`__
+* `Complete <#complete>`__
+* `Beautiful <#beautiful>`__
 
 Discoverable
 ~~~~~~~~~~~~
@@ -268,7 +238,7 @@ it, does it exist? `Discoverability`_ says "no".
 Addressable
 ~~~~~~~~~~~
 
-*Provide addresses to readers which link directly to content at a
+*Provide addresses to readers that link directly to content at a
 granular level.*
 
 The ability to reference *specific* sections deep within a body of
@@ -303,7 +273,7 @@ confused.
 Complete
 ~~~~~~~~
 
-*Within each publication, cover concepts in-full, or not at all.*
+*Within each publication, cover concepts in full, or not at all.*
 
 Picture some documentation of software like a map of a neighborhood. If
 the map displays roads, readers will expect it to display *all* roads
@@ -315,7 +285,7 @@ shortcoming. "Complete" does not mean that the map must describe *all*
 characteristics of the land. It means simply that, for the
 characteristics it chooses to describe, it should describe *all* of
 them. A map that displays fifty out of one hundred fire hydrants in a
-neighborhood is *worse* than a map which displays none.
+neighborhood is *worse* than a map that displays none.
 
 As a good example, ``iconv`` is a command line tool for working with
 character encodings. Its `man page`_ covers *all*
@@ -344,8 +314,15 @@ and capitalization. If visual style is not important to you personally,
 then consider soliciting stylistic improvements from others for whom it
 is.
 
-A documentation body should be...
----------------------------------
+Principles for the body of publications
+-----------------------------------------
+
+*A "body" refers to the collection of all the publications within a software
+project and any of its sub-projects*
+
+A documentation **body** should be...
+
+* `Comprehensive <#comprehensive>`__
 
 Comprehensive
 ~~~~~~~~~~~~~
