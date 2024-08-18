@@ -2,7 +2,7 @@ Documentation principles for developers
 ========================================
 
 Software development benefits from `philosophies`_ and `principles`_ such as
-`DRY`_, `KISS`_, `code reuse`_, and many more. Developers use these commonly understood
+`DRY`_, `KISS`_, `code reuse`_, and more. Developers use these commonly understood
 standards to produce high-quality code.
 
 .. _philosophies: https://en.wikipedia.org/wiki/Category:Software_development_philosophies
@@ -12,7 +12,7 @@ standards to produce high-quality code.
 .. _KISS: https://en.wikipedia.org/wiki/KISS_principle
 .. _Code Reuse: https://en.wikipedia.org/wiki/Code_reuse
 
-These principles can also apply to software
+These principles also apply to software
 *documentation* to foster clean and intuitive
 content that delights and empowers readers with
 easy-to-find information.
@@ -31,7 +31,7 @@ Precursory
 *Begin documenting before you begin developing.*
 
 Before coding, write requirements and specifications that serve as
-the first draft of documentation. These texts no doubt will need a bit
+the first draft of documentation. These texts need a bit
 of cleanup before publishing, but by front-loading the documentation,
 you lay a clear path forward. Early documentation also helps facilitate
 peer feedback and group decisions to guide your work. This model is the
@@ -44,7 +44,7 @@ Participatory
 users.*
 
 Integrate documentation into the standard workflow of developers, and
-seek to reduce silos that solicit documentation from only a subset of
+reduce silos that solicit documentation from only a subset of
 the software's contributors. Developers and engineers are the people
 with the best access to in-demand information, and getting them to
 document it will help foster a *culture* of documentation.
@@ -78,8 +78,8 @@ ARID
 
 If you want to write good code, `Don't Repeat Yourself`_. But
 if you adhere strictly to this DRY principle when writing documentation,
-you won't get very far. *Some* amount of business logic described by
-your code will need to be described *again* in your documentation.
+you won't get far. *Some* amount of business logic described by
+your code must be described *again* in your documentation.
 
 In an ideal world, an automated system would generate documentation from
 the software's source code, *and* the system would be smart enough to
@@ -106,7 +106,7 @@ Skimmable
 ~~~~~~~~~
 
 *Structure content to help readers identify and skip over concepts which
-they already understand or see are not relevant to their immediate
+they already understand or are not relevant to their immediate
 questions.*
 
 Burying concepts in prose and verbiage demands more time from readers
@@ -158,7 +158,7 @@ less need of maintenance. For example, generalize version numbers of
 software when they occur in tutorials (such as extracting a source code
 tarball with the version number in the file name).
 
-Be aware as well that some users will remain on older versions of your
+Some users will remain on older versions of your
 software, and thus require older versions of your documentation. Proper
 documentation platforms will accommodate such needs gracefully.
 
