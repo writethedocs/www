@@ -158,10 +158,10 @@ grants:
   notification: "August 10th, 2024"
 
 unconf:
-#  url: https://bit.ly/wtd-at-2024-ro
+  url: https://bit.ly/wtd-at-2024-ro
 
 lightning_talks:
-#  signup_url: https://forms.gle/neYV6riRBw8gav9x6
+  signup_url: https://forms.gle/ggsgjf54NyVtG6nK6
 
 sponsors:
   keystone:
@@ -172,9 +172,9 @@ sponsors:
       text: "GitBook combines powerful docs with AI-powered search and insights to give technical teams a single source of truth for their knowledge.
              Effortlessly create, surface and improve public and internal documentation that your users and teams will love. "
   publisher:
- #   - name: mongodb-new
- #     link: https://www.mongodb.com/?ref=writethedocs
- #     brand: MongoDB
+    - name: mongodb-new
+      link: https://www.mongodb.com/?ref=writethedocs
+      brand: MongoDB
   second:
     - name: helpdocs
       link: https://www.helpdocs.io/?ref=writethedocs
