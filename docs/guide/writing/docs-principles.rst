@@ -1,5 +1,5 @@
-Documentation principles for creating great content
-====================================================
+Documentation principles
+=========================
 
 Software development benefits from `philosophies`_ and `principles`_ such as
 `DRY`_, `KISS`_, `code reuse`_, and more. Developers use these commonly understood
@@ -20,7 +20,7 @@ easy-to-find information.
 General documentation principles
 --------------------------------------
 
-In general, all documentation should be...
+All documentation should be...
 
 * `Precursory <#precursory>`__
 * `Participatory <#participatory>`__
