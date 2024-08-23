@@ -13,7 +13,7 @@ The conference is now just under three months away, and we hope you’re already
 New deadline to submit your proposal is 6th Sept
 --------------------------------------------------
 
-We added an extra week to the deadline in case you may missed the closing date announcements, and we wanted to give you some more time to prepare your submissions.
+We added an extra week to the deadline in case you may have missed the closing date announcements, and we wanted to give you some more time to prepare your submissions.
 Make sure to get your talk in before the new deadline; we already have a lot of great proposals come in.
 
 Check out the `Call for Proposals <https://www.writethedocs.org/conf/australia/2024/cfp/>`_ page for tips and examples to help inspire you.
