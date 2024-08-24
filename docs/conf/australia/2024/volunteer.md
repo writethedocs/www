@@ -15,9 +15,9 @@ Each individual who volunteers for two or more 3-4 hour shifts receives a **free
 
 **Timeline:**
 
--   Now until August 15 (or volunteer capacity is reached): Volunteer application open
--   Oct 15: Volunteer sign-up form emailed with specific timed shifts
--   Nov 15: Volunteer schedule emailed
+- Now until August 15 (or volunteer capacity is reached): Volunteer application open
+- Oct 15: Volunteer sign-up form emailed with specific timed shifts
+- Nov 15: Volunteer schedule emailed
 
 **[Sign up today! View the Volunteer Application form for more information.](https://forms.gle/1bm2T7HtU3pbWJqM9)**
 
@@ -53,6 +53,6 @@ Check in attendees, provide general information inquiries, answer venue question
 
 ### Will travel assistance be provided?
 
-Unfortunately, we cannot offer travel assistance to volunteers. We encourage you to apply for the Opportunity Grant. Deadline is OCtober 4. [Apply here today!](https://www.writethedocs.org/conf/australia/2024/opportunity-grants/)
+Unfortunately, we cannot offer travel assistance to volunteers. We encourage you to apply for the Opportunity Grant. Deadline is October 4. [Apply here today!](https://www.writethedocs.org/conf/australia/2024/opportunity-grants/)
 
 Contact swapnil@writethedocs.org with any additional questions.
