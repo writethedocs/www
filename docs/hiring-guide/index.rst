@@ -5,9 +5,6 @@ Guide to Hiring and Getting Hired
 Welcome! This guide aims to help those looking to hire documentarians find the perfect candidate, and to help job-seeking documentarians find the perfect position.
 Its content focuses on tricky points in the process of hiring a documentarian.
 
-A great place to start on your hiring or job-seeking journey is by posting to or browsing the job board.
-Check it out over at https://jobs.writethedocs.org/.
-
 .. contents:: Table of Contents
     :depth: 3
 
@@ -33,7 +30,7 @@ Interview questions
 -------------------
 
 .. toctree::
-   :maxdepth: 2 
+   :maxdepth: 2
 
    interview-questions
 
@@ -41,7 +38,7 @@ Useful skills for a technical writer
 ------------------------------------
 
 .. toctree::
-   :maxdepth: 2 
+   :maxdepth: 2
 
    useful-skills
    portfolios
