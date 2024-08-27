@@ -166,7 +166,7 @@ suppress_warnings = ['image.nonlocal_uri']
 
 global_sponsors = yaml.safe_load("""
 - name: gitbook
-  link: https://www.gitbook.com/?utm_campaign=launch&utm_medium=display&utm_source=write_the_docs&utm_content=ad 
+  link: https://www.gitbook.com/?utm_campaign=launch&utm_medium=display&utm_source=write_the_docs&utm_content=ad
   brand: GitBook
   comment: Community sponsor
 """)
@@ -210,6 +210,5 @@ def setup(app):
     app.add_directive('datatemplate-video', videos.DataTemplateVideo)
     app.add_css_file('css/global-customizations.css')
     app.add_css_file('css/survey.css')
-    app.add_js_file('js/jobs.js')
 
     app.config.wtd_cache = {}
