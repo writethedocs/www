@@ -175,6 +175,7 @@ sponsors:
   first:
     - name: linux-australia
       link: https://linux.org.au/
+      width: 250px
       brand: Linux Australia
   in_kind:
     - name: rtd
