@@ -173,6 +173,9 @@ sponsors:
       link: https://www.google.com/
       brand: Google
   first:
+    - name: linux-australia
+      link: https://linux.org.au/
+      brand: Linux Australia
   in_kind:
     - name: rtd
       link: https://readthedocs.com/
