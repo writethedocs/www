@@ -127,3 +127,17 @@ Project list
 ------------
 
 Submit your project using our `Writing Day project form <https://forms.gle/uTkWHV3fesyNQEyk9>`_ or send us a PR with your project info!
+
+How far is it to Jupyter? (Session 2)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Join project organizer, Mike O'Neill, during the second session of the day.
+
+Learn how to use `Jupyter <https://jupyter.org/>`__ to be a more effective technical writer. The goal of this Writing Day project is to help you understand how using Jupyter in your tool chain can assist you in creating docs.
+
+1. What is possible with Jupyter
+2. What are the common obstacles
+3. Should technical writing include (cost benefit)
+4. Critical analysis and recommendations
+
+Check out this `example GitHub repo <Check out this exap>`__.
