@@ -127,3 +127,43 @@ Project list
 ------------
 
 Submit your project using our `Writing Day project form <https://forms.gle/uTkWHV3fesyNQEyk9>`_ or send us a PR with your project info!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Audinix - Stash and Publish a User Guide (Session 1)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Join project organizer, Hank Lee, during the first Writing Day session.
+
+`Audinux <https://audinux.github.io/>`__ is a repository for FOSS music applications and plugins. We want to empower creative people and help them use Audinux to it's full potential! To do that, we need documentarians to help us create a user guide.
+
+Our Writing Day goal is to work together and create a user guide for Audinux. Creating a user guide will positively impact our users and encourage new users.
+
+Our plan is to create new documentation pages within the 'User Guide' templates. This means you can contribute using the GitHub web editor or using whatever Git-workflow from your favorite local writing setup and text editor. If you are unfamiliar with GitHub, we recommend using the `hackMD <https://hackmd.io/>`__ integration with GitHub.
+
+Tentative outline and table of contents:
+
+- Introduction to Audinux
+- How to find right Audio/Music packages for your creative work
+- Plugins vs hardware outboard gear
+- Initial configuration
+- Plugin host (carla) and format in Linux
+- Use cases: Home recording
+- How to find subpackages that complement plugins and install subpackages
+- How to load plugins to DAW (Digital Audio Workstation) and OBS Studio
+- Rack and patchbay
+
+Anyone and everyone who is interested is welcome to join us. We are excited to see you at Writing Day.
