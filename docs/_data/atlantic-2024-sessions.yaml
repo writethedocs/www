@@ -6,8 +6,8 @@
   speakers:
   - name: Gideon Behrensmeyer
     slug: gideon-behrensmeyer
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>In this talk, I want to share with you my thoughts on how and why
     technical writers should drive the onboarding process in their company. In my
     role as Head of Documentation and Training, I realized that we had a problem with
@@ -42,8 +42,8 @@
   speakers:
   - name: Eric Zrinsky
     slug: eric-zrinsky
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>In this talk, titled "<strong>Clicks Without Limits: Content Design
     for Everyone, Everywhere</strong>," we explore the transformative power of accessibility
     in documentation. As technical writers, technologists, and people managers at
@@ -79,8 +79,8 @@
   speakers:
   - name: Sarah Sanders
     slug: sarah-sanders
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>GraphQL Docs: Beyond the Schema proposes in how Technical Writers
     and DevEx teams approach GraphQL documentation. While GraphQL schemas are "self-documenting",
     developers want more than static docs and descriptions of queries and objects.
@@ -101,8 +101,8 @@
   speakers:
   - name: Manny Silva
     slug: manny-silva
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>LLMs have a knowledge problem: their training data is often out of
     date, and the info we want to leverage often isn''t included in the training data
     in the first place. Retrieval Augmented Generation (RAG) is an approach to dynamically
@@ -124,12 +124,12 @@
   speakers:
   - name: Gayathri Krishnaswamy
     slug: gayathri-krishnaswamy
-    twitter: 
-    website: 
+    twitter:
+    website:
   - name: Annette Williams
     slug: annette-williams
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>A documentation plan outlines an approach for creating, organizing,
     and maintaining documentation for a software product. It serves as a blueprint
     for the documentation process, detailing the scope, content types, user journeys,
@@ -175,8 +175,8 @@
   speakers:
   - name: Chloe Guttmann
     slug: chloe-guttmann
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>As documentarians and writers, we use language every day—but do we
     really understand it on a fundamental level? </p>
 
@@ -223,8 +223,8 @@
   speakers:
   - name: Ali Dowair
     slug: ali-dowair
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Translating technical documentation presents challenges in preserving
     contextual meaning across languages and cultures. This talk explores strategies
     from the pioneering effort to localize Kubernetes documentation into Arabic -
@@ -263,8 +263,8 @@
   speakers:
   - name: Lorna Mitchell
     slug: lorna-mitchell
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Take the tools of software development, the process and culture obsession
     of operations, and apply the resulting mixture to your documentation.
 
@@ -291,12 +291,12 @@
   speakers:
   - name: Diana Breza
     slug: diana-breza
-    twitter: 
-    website: 
+    twitter:
+    website:
   - name: Lena Larionova
     slug: lena-larionova
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Documentarian. Tooling guru. Website maintainer. Graphic designer.
     </p>
 
@@ -332,8 +332,8 @@
   speakers:
   - name: Kruno Golubić
     slug: kruno-golubi
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Breaking into the field of technical writing can be somewhat scary
     for newcomers, but there’s no reason for that. This talk is tailored for those
     who are new to technical writing or considering a career in it. Drawing from my
@@ -360,31 +360,6 @@
 
     <p>Don''t be afraid to enter the kingdom of technical writing—there is room for
     everyone here!</p>'
-- title: Pull it together! How we unified software and hardware documentation to create
-    a consistent user experience.
-  slug: pull-it-together-how-we-unified-software-and-hardware-documentation-to-create-a-ois-n-fitzgerald
-  series: Write the Docs Atlantic
-  series_slug: atlantic
-  year: 2024
-  speakers:
-  - name: Oisín FitzGerald
-    slug: ois-n-fitzgerald
-    twitter: 
-    website: 
-  abstract: '<p>Integrating a diverse array of documentation into a cohesive user
-    experience can be a daunting task, especially when multiple markup languages and
-    processes are involved. At our company, we faced the challenge of maintaining
-    our established documentation practices—specifically, our partially open-source
-    SDK documentation and our hardware documentation, which were historically handled
-    separately and with different systems. Despite these differences, we aimed to
-    provide a consistent look and feel across all documentation without altering our
-    internal workflows.</p>
-
-    <p>In this talk, I will detail how we successfully unified our documentation experience
-    while maintaining our distinct internal documentation processes and standardizing
-    the output. This strategy ensured that while our technical teams could continue
-    working in their preferred methods and languages, the end result was a seamless
-    and integrated user experience.</p>'
 - title: What Is a Template and How Can I Create One
   slug: what-is-a-template-and-how-can-i-create-one-susan-armstrong
   series: Write the Docs Atlantic
@@ -393,8 +368,8 @@
   speakers:
   - name: Susan Armstrong
     slug: susan-armstrong
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>We use Templates in our documentation to force a similar style on
     the sections and pages of our documents so that the only difference is the content.
     This uniformity makes it easier for our readers to scan our documents. It also
