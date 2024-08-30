@@ -127,3 +127,68 @@ Project list
 ------------
 
 Submit your project using our `Writing Day project form <https://forms.gle/uTkWHV3fesyNQEyk9>`_ or send us a PR with your project info!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WTD Meetup resources for organizers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Join project organizer, Rose Williams, for the second Writing Day session.
+
+Our goal is to update the content infrastructure, consolidate resources, and add templates to better support Write the Docs Meetup organizers.
+
+Agenda:
+
+- Strategize to create a better content infrastructure for Meetup related pages.
+- Update the `Starting a Meetup <https://www.writethedocs.org/organizer-guide/meetups/starting/>`__ page
+- Update the `Make your Meetups more sustainable <https://www.writethedocs.org/organizer-guide/meetups/sustainable-meetups/>`__
+- Review the `Meetup FAQ <https://www.writethedocs.org/organizer-guide/meetups/faq-meetups/>`__
+
+I recommend contributing to this project using the built in `GitHub web-based editor <https://docs.github.com/en/codespaces/the-githubdev-web-based-editor>`__. Mostly because I am not a Git or GitHub expert.
