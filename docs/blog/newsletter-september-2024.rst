@@ -45,7 +45,7 @@ This month, documentarians discussed what to prioritize when you get an opportun
 
 * Implement `contract testing <https://smartbear.com/blog/api-contract-testing-for-a-design-first-world/>`_ to ensure that all examples work as documented. Establish a process for adding examples to the tests as needed.
 
-* Adopt an `API-first <https://www.youtube.com/watch?v=ODjX_3tGeeM&t=446>`_ approach: Designing APIs up front saves time and effort and ensures that the documentation is always up-to-date.
+* Adopt an `API-first <https://www.youtube.com/watch?v=ODjX_3tGeeM&t=446>`_ approach: Designing APIs up front saves time and effort and ensures that the documentation is always up to date.
 
 * Provide a Postman collection or other easy way to test each API. Postman collections and other such tools make it easier for writers to run every request to ensure accuracy before publishing documentation and help customers get started using the APIs more quickly.
 
