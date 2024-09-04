@@ -3,9 +3,9 @@
 .. post:: September 04, 2024
   :tags: newsletter
 
-#########################################
+##########################################
 Write the Docs Newsletter – September 2024
-#########################################
+##########################################
 
 Howdy, documentarians. I hope everything is going well in your part of the world. We're back from out regular August break and already setting records. So far, it's just heat records here, but maybe we'll set the record for most documentarians inspired this month.
 
