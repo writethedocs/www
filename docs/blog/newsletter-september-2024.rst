@@ -9,7 +9,7 @@ Write the Docs Newsletter – September 2024
 
 Howdy, documentarians. I hope everything is going well in your part of the world. We're back from out regular August break and already setting records. So far, it's just heat records here, but maybe we'll set the record for most documentarians inspired this month.
 
-In conference news, the Atlantic conference is coming up this month on 22–24 September. It's virtual so there's still time to get a ticket and you don't have to worry about travel. See the `planned talks </conf/atlantic/2024/speakers/>`__ and then `grab a ticket </conf/atlantic/2024/tickets/>`__. And if seeing the list of talks gets you more inspired, the deadline for `talk proposals for the Australia conference </conf/australia/2024/cfp/>`__ is this Friday (6 September). So get your ideas in while you still can!
+In conference news, the Atlantic conference is coming up this month on 22–24 September. It's virtual so there's still time to get a ticket and you don't have to worry about travel. See the `planned talks </conf/atlantic/2024/speakers/>`__ and then `grab a ticket </conf/atlantic/2024/tickets/>`__. And if seeing the list of talks gets you more inspired, the deadline for `talk proposals for the Australia conference </conf/australia/2024/cfp/>`__ is this Friday (6 September). So get your ideas in while you still can! The speaker lineup will be announced by the end of September so you can start planning travel to the conference.
 
 In other community news, check out the `Q3 update from the WTD Community Board </blog/2024-Q3-community-board/>`__ to see everything going on to make this wonderful community possible.
 
