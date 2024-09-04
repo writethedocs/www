@@ -1,8 +1,12 @@
-Hiring Sponsorship
-==================
+Job Posting Sponsorship
+=======================
 
 We have added a new sponsorship opportunity for companies looking to hire documentarians.
-This sponsorship level includes: 
+It's a great way to promote your job to our community,
+which is full of folks that are passionate about software documentation,
+in particular around Docs as Code, API documentation, and developer experience.
+
+This sponsorship includes: 
 
 * A job posting in our monthly newsletter jobs section (Over {{ newsletter_subs }} subscribers)
 * A highlighted job posting in our ``#job-posts-only`` Slack channel ({{ slack_members }} members)
