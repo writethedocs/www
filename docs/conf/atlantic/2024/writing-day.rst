@@ -164,7 +164,7 @@ Plan and Publish User Guide for Audinux, a repository for FOSS music application
 
 Our Writing Day goal is to work together and create a user guide for Audinux. Creating a user guide will positively impact our users and encourage new users.
 
-Our plan is to create new documentation pages within the 'User Guide' templates, check out our `project repository <https://github.com/audinux/audinux.github.io/tree/main/pages/user_guide)>`__. This means you can contribute using the GitHub web editor or using whatever Git-workflow from your favorite local writing setup and text editor.
+Our plan is to create new documentation pages within the 'User Guide' templates, check out our `project repository <https://github.com/audinux/audinux.github.io/tree/main/pages/user_guide>`__. This means you can contribute using the GitHub web editor or using whatever Git-workflow from your favorite local writing setup and text editor.
 
 Check out the `Audinux issue tracker <https://github.com/audinux/audinux.github.io/issues/created_by/hankuoffroad>`__. During Writing Day you are encouraged to select a ticket to work on, that is the best place to track the work you've done and ask any specific questions.
 
