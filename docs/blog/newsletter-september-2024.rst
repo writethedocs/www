@@ -1,6 +1,6 @@
 :og:image: https://www.writethedocs.org/_static/logo-opengraph.png
 
-.. post:: September 04, 2024
+.. post:: September 05, 2024
   :tags: newsletter
 
 ##########################################
