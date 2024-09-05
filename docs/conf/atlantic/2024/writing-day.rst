@@ -136,3 +136,19 @@ Join project organizer, Kenzie Woodbridge (they/them), during the second Writing
 Let's help each other get ready for our job searches! Are you thinking of applying for a new or different tech writer/documentarian jobs and would appreciate feedback on your resume? Or, are you responsible for hiring and know what you're looking for in a resume and application? 
 
 Let's get together and offer each other some feedback on the important documentation we're using to move our careers forward.
+
+WTD Meetup resources for organizers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Join project organizer, Rose Williams, for the second Writing Day session.
+
+Our goal is to update the content infrastructure, consolidate resources, and add templates to better support Write the Docs Meetup organizers.
+
+Agenda:
+
+- Strategize to create a better content infrastructure for Meetup related pages.
+- Update the `Starting a Meetup <https://www.writethedocs.org/organizer-guide/meetups/starting/>`__ page
+- Update the `Make your Meetups more sustainable <https://www.writethedocs.org/organizer-guide/meetups/sustainable-meetups/>`__
+- Review the `Meetup FAQ <https://www.writethedocs.org/organizer-guide/meetups/faq-meetups/>`__
+
+I recommend contributing to this project using the built in `GitHub web-based editor <https://docs.github.com/en/codespaces/the-githubdev-web-based-editor>`__. Mostly because I am not a Git or GitHub expert.
