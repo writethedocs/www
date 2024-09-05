@@ -127,3 +127,12 @@ Project list
 ------------
 
 Submit your project using our `Writing Day project form <https://forms.gle/uTkWHV3fesyNQEyk9>`_ or send us a PR with your project info!
+
+Mutual Aid for Tech Writer/Documentarian Job Hunters
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Join project organizer, Kenzie Woodbridge (they/them), during the second Writing Day session.
+
+Let's help each other get ready for our job searches! Are you thinking of applying for a new or different tech writer/documentarian jobs and would appreciate feedback on your resume? Or, are you responsible for hiring and know what you're looking for in a resume and application? 
+
+Let's get together and offer each other some feedback on the important documentation we're using to move our careers forward.
