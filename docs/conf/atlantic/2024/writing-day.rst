@@ -128,7 +128,7 @@ Project list
 
 Submit your project using our `Writing Day project form <https://forms.gle/uTkWHV3fesyNQEyk9>`_ or send us a PR with your project info!
 
-Audinix - Plan and Publish a User Guide (All day)
+Audinux - Plan and Publish a User Guide (All day)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Join project organizer, Hank Lee, during Writing Day.
