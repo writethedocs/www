@@ -133,11 +133,13 @@ How far is it to Jupyter? (Session 2)
 
 Join project organizer, Mike O'Neill, during the second session of the day.
 
-Learn how to use `Jupyter <https://jupyter.org/>`__ to be a more effective technical writer. The goal of this Writing Day project is to help you understand how using Jupyter in your tool chain can assist you in creating docs.
+Note, this project was designed with more experienced documentarians, those who focus on technical and developer documentation. This project is a great opportunity for attendees with a software development, or similar, background.
+
+Learn how to use `Jupyter <https://jupyter.org/>`__, a web-based interactive development environment for notebooks, code, and data, to be a more effective technical writer. The goal of this Writing Day project is to help you understand how using Jupyter's interactive development environment and how it can assist you in creating docs.
 
 1. What is possible with Jupyter
 2. What are the common obstacles
 3. Should technical writing include (cost benefit)
 4. Critical analysis and recommendations
 
-Check out this `example GitHub repo <Check out this exap>`__.
+Check out this `example GitHub repo <https://sciustechnologia.github.io/>`__.
