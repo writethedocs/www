@@ -143,27 +143,41 @@ Submit your project using our `Writing Day project form <https://forms.gle/uTkWH
 
 
 
-Audinix - Stash and Publish a User Guide (Session 1)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Audinix - Plan and Publish a User Guide (All day)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Join project organizer, Hank Lee, during the first Writing Day session.
+Join project organizer, Hank Lee, during Writing Day.
 
-`Audinux <https://audinux.github.io/>`__ is a repository for FOSS music applications and plugins. We want to empower creative people and help them use Audinux to it's full potential! To do that, we need documentarians to help us create a user guide.
+Plan and Publish User Guide for Audinux, a repository for FOSS music applications and plugins
+
+`Audinux <https://audinux.github.io/>`__  is a repository for FOSS music applications and plugins. We want to empower creative people and help them use Audinux to it's full potential! To do that, we need documentarians to help us create a user guide.
 
 Our Writing Day goal is to work together and create a user guide for Audinux. Creating a user guide will positively impact our users and encourage new users.
 
-Our plan is to create new documentation pages within the 'User Guide' templates. This means you can contribute using the GitHub web editor or using whatever Git-workflow from your favorite local writing setup and text editor. If you are unfamiliar with GitHub, we recommend using the `hackMD <https://hackmd.io/>`__ integration with GitHub.
+Our plan is to create new documentation pages within the 'User Guide' templates, check out our `project repository <https://github.com/audinux/audinux.github.io/tree/main/pages/user_guide)>`__. This means you can contribute using the GitHub web editor or using whatever Git-workflow from your favorite local writing setup and text editor.
 
-Tentative outline and table of contents:
+Check out the `Audinux issue tracker <https://github.com/audinux/audinux.github.io/issues/created_by/hankuoffroad>`__. During Writing Day you are encouraged to select a ticket to work on, that is the best place to track the work you've done and ask any specific questions.
+
+**Session 1**:
 
 - Introduction to Audinux
+- Intended audience
+- Content type
+- Tools for publication
+- End to end processes
+- Template: Initial configuration for music creation (Instrument: Electric guitar)
+- Audio tools
+
+**Session 2**:
+
 - How to find right Audio/Music packages for your creative work
-- Plugins vs hardware outboard gear
-- Initial configuration
-- Plugin host (carla) and format in Linux
-- Use cases: Home recording
+- Audio Plug-ins
+
+*Topics to choose from*:
+
 - How to find subpackages that complement plugins and install subpackages
 - How to load plugins to DAW (Digital Audio Workstation) and OBS Studio
 - Rack and patchbay
+- Use cases: Home recording
 
-Anyone and everyone who is interested is welcome to join us. We are excited to see you at Writing Day.
+We are looking for anyone interested in this effort to join us.
