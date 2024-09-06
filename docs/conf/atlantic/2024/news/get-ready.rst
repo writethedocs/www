@@ -38,6 +38,7 @@ There are many events at the conference beyond the main track of speakers.
 We hope that you'll get involved with some of our other events,
 and get to know more folks that are hanging out at the conference!
 
+* **Writing Day.** On Sunday, `Writing Day <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/>`__ takes place. Join up with a project, or introduce your own project during the introduction session.
 * **Lightning Talks.** We'll have `lightning talks <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/lightning-talks/>`__ each day. Registration is handled during the conference, signup opens on Sunday. These are 5-minute presentations and a lot of fun. They can be about anything you want, this is your chance to share something you are passionate about with the audience. We encourage first time speakers to submit as well. Slides are optional.
 * **Unconference.** We'll be running the `Unconference <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/unconference/>`_ all day Monday and on Tuesday. These are also planned starting Sunday, and allow attendees to schedule a session to talk about any topic they wish. It's a great way to find others who share your specific interests. As a session lead you guide the session, but you definitely do not need to have a full plan.
 * **Sponsor Expo**. On Tuesday morning we'll have a `sponsor expo <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/job-fair>`_ where you you'll find sponsors that have job openings or products relevant to documentarians.
