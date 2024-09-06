@@ -191,3 +191,17 @@ Check out the `Audinux issue tracker <https://github.com/audinux/audinux.github.
 - Use cases: Home recording
 
 We are looking for anyone interested in this effort to join us.
+
+Improve Ekline's Open Source Docs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`Ekline <https://ekline.atlassian.net/wiki/external/MDJmNWI3MjBkMzE4NGQyMzhlYjkxNjUwNDVhYjBlOGQ>`__ is looking for documentarians to contribute to our `open source project documentation <https://github.com/ekline-io/ekline-github-action>`__ .
+
+Our goals for Writing Day:
+
+- Configure and apply style guides in EkLine for open-source projects.
+- Fix documentation issues for the open-source projects.
+
+EkLine will be working along side contributors help automate style guide fixes and improve consistency across docs. 
+
+Join us to make impactful contributions to open-source documentation while learning a valuable tool.
