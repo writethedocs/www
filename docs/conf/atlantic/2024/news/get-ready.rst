@@ -16,7 +16,7 @@ We have a few reminders before we welcome you all on Sunday:
 * There are lots of ways to get involved at the conference on the day-of, which we list out below so you can prep a bit for them.
 
 Ticket sales close on **Thursday September 19th**
-------------------------------------------------
+-------------------------------------------------
 
 To help us manage capacity and make sure that our conference environment is cozy and friendly, we are going to close ticket sales on **Thursday, September 19, at 23:59 UTC**.
 If you haven't purchased your ticket yet we invite you to `get your tickets soon <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_.
