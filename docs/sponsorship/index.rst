@@ -44,4 +44,5 @@ We also run incidental activities, such as our recent salary survey, and are cur
    newsletter
    website
    slack
+   jobs
 
