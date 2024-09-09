@@ -202,6 +202,6 @@ Our goals for Writing Day:
 - Configure and apply style guides in EkLine for open-source projects.
 - Fix documentation issues for the open-source projects.
 
-EkLine will be working along side contributors help automate style guide fixes and improve consistency across docs. 
+EkLine will be working along side contributors to help automate style guide fixes and improve consistency across docs. 
 
 Join us to make impactful contributions to open-source documentation while learning a valuable tool.
