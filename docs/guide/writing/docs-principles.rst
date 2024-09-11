@@ -207,8 +207,8 @@ It may be static or interactive — digital or paper. Multiple
 publications may be created from a single source (such as web and PDF
 versions of the same manual). Although rarer, multiple sources may
 be used to create a single publication. More examples of
-publications include: API reference, man page, command line
-``--help`` output, in-application help tips, online tutorials,
+publications include: API reference, man page, command line*
+``--help`` *output, in-application help tips, online tutorials,
 internal engineering manuals, and others too.*
 
 Each **publication** should be...
