@@ -14,7 +14,7 @@ This sponsorship includes:
 Sponsored entry format
 ----------------------
 
-The main goal here is to provide the company information, and a link to the job posting.
+This entry format is about putting your information front and centre, and putting the link to your job posting in front of our community.
 The format is:
 
 * Company name
@@ -23,7 +23,7 @@ The format is:
 * Salary (optional)
 * Link to job posting
 
-This will be used to create a newsletter entry, and a Slack post.
+This information will be used to create a newsletter entry and a Slack post.
 
 Schedule
 --------
