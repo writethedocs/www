@@ -8,12 +8,12 @@ Get Ready for the conference!
 
 Hey everyone,
 
-We're just a few days from the start of the conference, and we're getting excited to see you soon! We're looking forward to gather for 3 days of content, collaboration, and conversation.
+We're just a few days from the start of the conference, and we're getting excited to see you soon! We're looking forward to gathering for three days of content, collaboration, and conversation.
 
 We have a few reminders before we welcome you all on Sunday:
 
 * Ticket sales close this week, so grab yours now!
-* There are lots of ways to get involved at the conference on the day-of, which we list out below so you can prep a bit for them.
+* There are lots of ways to get involved at the conference on the day-of, which we list out below so you can prepare for them if you'd like to.
 
 Ticket sales close on **Thursday September 19th**
 -------------------------------------------------
