@@ -30,7 +30,7 @@ talks_day1:
   - duration: '0:10'
     title: '✋ Q&A for the previous talk'
   - duration: '0:30'
-    title: TBD
+    slug: rags-to-riches-how-our-content-affects-retrieval-augmented-generation-manny-silva
   - duration: '0:10'
     title: '✋ Q&A for the previous talk'
   - duration: '0:20'
@@ -100,9 +100,9 @@ talks_day2:
   - duration: '0:05'
     title: '⏲ 5 minute break'
   - duration: '0:30'
-    slug: rags-to-riches-how-our-content-affects-retrieval-augmented-generation-manny-silva
-  - duration: '0:10'
-    title: '✋ Q&A for the previous talk'
+    title: ⚡️ Lightning Talks
+  - duration: '0:05'
+    title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: from-morphemes-to-manuscripts-how-linguistics-can-make-you-a-better-writer-chloe-guttmann
   - duration: '0:10'
@@ -113,4 +113,3 @@ talks_day2:
     title: Hallway track - Chat with other attendees
   - duration: '0:00'
     title: '<b>Conference ends 😔</b>'
-
