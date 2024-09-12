@@ -11,6 +11,7 @@ your sponsorship on any one of them, at a level that suits you:
 * Our :doc:`/sponsorship/newsletter` with over {{ newsletter_subs }} subscribers
 * Our :doc:`/sponsorship/website` offers a sidebar ad on our website
 * Our :doc:`/sponsorship/slack` allows you to get in front of our Slack network
+* Our :doc:`/sponsorship/jobs` gets your job posting in front of our community
 
 In addition to these existing programs,
 we're always interested in working together with organizations in our community to build new approaches to sponsorship. 
@@ -43,4 +44,5 @@ We also run incidental activities, such as our recent salary survey, and are cur
    newsletter
    website
    slack
+   jobs
 

@@ -1,16 +1,16 @@
 writing_day:
-  - time: '10:00'
+  - time: '10:30'
     title: 'Platform opens'
     duration: '01:00'
-  - duration: '00:30'
-    title: Morning introduction - Introduction to Sprints & Project Introductions
-  - duration: '02:30'
-    title: Team up and start working
-  - duration: '00:30'
+  - time: '11:00'
+    title: Morning introduction - Introduction to Writing Day & Project Introductions
+  - time: '11:30'
+    title: Team up and start the first session
+  - time: '14:00'
     title: 'Snack break'
-  - duration: '02:30'
-    title: Continue working
-  - duration: '00:00'
+  - time: '14:30'
+    title: Second session
+  - time: '17:00'
     title: End of Writing Day
 
 talks_day1:
@@ -30,7 +30,7 @@ talks_day1:
   - duration: '0:10'
     title: '✋ Q&A for the previous talk'
   - duration: '0:30'
-    slug: pull-it-together-how-we-unified-software-and-hardware-documentation-to-create-a-ois-n-fitzgerald
+    slug: rags-to-riches-how-our-content-affects-retrieval-augmented-generation-manny-silva
   - duration: '0:10'
     title: '✋ Q&A for the previous talk'
   - duration: '0:20'
@@ -100,10 +100,6 @@ talks_day2:
   - duration: '0:05'
     title: '⏲ 5 minute break'
   - duration: '0:30'
-    slug: rags-to-riches-how-our-content-affects-retrieval-augmented-generation-manny-silva
-  - duration: '0:10'
-    title: '✋ Q&A for the previous talk'
-  - duration: '0:30'
     slug: from-morphemes-to-manuscripts-how-linguistics-can-make-you-a-better-writer-chloe-guttmann
   - duration: '0:10'
     title: '✋ Q&A for the previous talk'
@@ -113,4 +109,3 @@ talks_day2:
     title: Hallway track - Chat with other attendees
   - duration: '0:00'
     title: '<b>Conference ends 😔</b>'
-

@@ -127,3 +127,67 @@ Project list
 ------------
 
 Submit your project using our `Writing Day project form <https://forms.gle/uTkWHV3fesyNQEyk9>`_ or send us a PR with your project info!
+
+Mutual Aid for Tech Writer/Documentarian Job Hunters
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Join project organizer, Kenzie Woodbridge (they/them), during the second Writing Day session.
+
+Let's help each other get ready for our job searches! Are you thinking of applying for new or different tech writer/documentarian jobs and would appreciate feedback on your resume? Or, are you responsible for hiring and know what you're looking for in a resume and application? 
+
+Let's get together and offer each other some feedback on the important documentation we're using to move our careers forward.
+
+WTD Meetup resources for organizers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Join project organizer, Rose Williams, for the second Writing Day session.
+
+Our goal is to update the content infrastructure, consolidate resources, and add templates to better support Write the Docs Meetup organizers.
+
+Agenda:
+
+- Strategize to create a better content infrastructure for Meetup related pages.
+- Update the `Starting a Meetup <https://www.writethedocs.org/organizer-guide/meetups/starting/>`__ page
+- Update the `Make your Meetups more sustainable <https://www.writethedocs.org/organizer-guide/meetups/sustainable-meetups/>`__ page
+- Review the `Meetup FAQ <https://www.writethedocs.org/organizer-guide/meetups/faq-meetups/>`__
+
+I recommend contributing to this project using the built in `GitHub web-based editor <https://docs.github.com/en/codespaces/the-githubdev-web-based-editor>`__. Mostly because I am not a Git or GitHub expert.
+
+Audinux - Plan and Publish a User Guide (All day)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Join project organizer, Hank Lee, during Writing Day.
+
+Plan and Publish User Guide for Audinux, a repository for FOSS music applications and plugins
+
+`Audinux <https://audinux.github.io/>`__  is a repository for FOSS music applications and plugins. We want to empower creative people and help them use Audinux to its full potential! To do that, we need documentarians to help us create a user guide.
+
+Our Writing Day goal is to work together and create a user guide for Audinux. Creating a user guide will positively impact our users and encourage new users.
+
+Our plan is to create new documentation pages within the 'User Guide' templates, check out our `project repository <https://github.com/audinux/audinux.github.io/tree/main/pages/user_guide>`__. This means you can contribute using the GitHub web editor or using whatever Git-workflow from your favorite local writing setup and text editor.
+
+Check out the `Audinux issue tracker <https://github.com/audinux/audinux.github.io/issues/created_by/hankuoffroad>`__. During Writing Day you are encouraged to select a ticket to work on, that is the best place to track the work you've done and ask any specific questions.
+
+**Session 1**:
+
+- Introduction to Audinux
+- Intended audience
+- Content type
+- Tools for publication
+- End to end processes
+- Template: Initial configuration for music creation (Instrument: Electric guitar)
+- Audio tools
+
+**Session 2**:
+
+- How to find right Audio/Music packages for your creative work
+- Audio Plug-ins
+
+*Topics to choose from*:
+
+- How to find subpackages that complement plugins and install subpackages
+- How to load plugins to DAW (Digital Audio Workstation) and OBS Studio
+- Rack and patchbay
+- Use cases: Home recording
+
+We are looking for anyone interested in this effort to join us.
