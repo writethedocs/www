@@ -3,4 +3,6 @@
 Welcome Wagon Guide
 ===================
 
-Our guide will follow closer to the event.
+.. |WelcomeWagonNames| replace:: Aaron Collier and Kat Stoica Ostenfeld
+
+{% include "conf/virtual/welcome-wagon.rst" %}
