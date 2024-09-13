@@ -10,7 +10,9 @@ Welcome to the pre-conference, Writing Day project sneak peak. Let's get pumped 
 
 Didn't get the chance to submit your project early? Fear not, you can submit it at any time between now and September 20 or you can bring it and submit it live during Writing Day. Day of project submissions are a time honored WTD tradition that we look forward to seeing continue.
 
-Get excited, get delighted, and get ready to meet our Writing Day projects for Write the Docs Atlantic 2024.
+Get excited, get delighted, and get ready to meet our Writing Day projects for Write the Docs Atlantic 2024!
+
+Writing Day is included in our conference tickets. Sales close Thursday, September 19, at 23:59 UTC, so `get your tickets soon <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_.
 
 Mutual Aid for Tech Writer/Documentarian Job Hunters
 -----------------------------------------------------
