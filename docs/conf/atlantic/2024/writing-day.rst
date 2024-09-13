@@ -195,13 +195,16 @@ We are looking for anyone interested in this effort to join us.
 Improve Ekline's Open Source Docs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-`Ekline <https://ekline.atlassian.net/wiki/external/MDJmNWI3MjBkMzE4NGQyMzhlYjkxNjUwNDVhYjBlOGQ>`__ is looking for documentarians to contribute to our `open source project documentation <https://github.com/ekline-io/ekline-github-action>`__ .
+`Ekline <https://ekline.atlassian.net/wiki/external/MDJmNWI3MjBkMzE4NGQyMzhlYjkxNjUwNDVhYjBlOGQ>`__  is at Writing Day to introduce their open core license for OSS projects.
 
-Our goals for Writing Day:
+During Writing Day, OSS projects, or their regular contributors, can receive a `free Ekline license <https://github.com/ekline-io/ekline-github-action>`__  to apply to their project.
 
-- Configure and apply style guides in EkLine for open-source projects.
-- Fix documentation issues for the open-source projects.
+Folks from Ekline will be available during Writing Day to help you and your project:
 
-EkLine will be working along side contributors to help automate style guide fixes and improve consistency across docs. 
+- Onboard to Ekline
+- Run a scan (or whatever it is)
+- Submit their fixes based on what Ekline discovers
+
+Ekline’s project is appropriate for open source project maintainers and regular contributors. It is not necessarily appropriate for those who do not have a relationship with an OSS project to use randomly.
 
 Join us to make impactful contributions to open-source documentation while learning a valuable tool.
