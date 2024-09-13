@@ -192,18 +192,18 @@ Check out the `Audinux issue tracker <https://github.com/audinux/audinux.github.
 
 We are looking for anyone interested in this effort to join us.
 
-Improve Open Source Docs with Ekline
+Improve Open Source Docs with EkLine
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-`Ekline <https://ekline.atlassian.net/wiki/external/MDJmNWI3MjBkMzE4NGQyMzhlYjkxNjUwNDVhYjBlOGQ>`__  is at Writing Day to introduce their open core license for OSS projects.
+`EkLine <https://ekline.atlassian.net/wiki/external/MDJmNWI3MjBkMzE4NGQyMzhlYjkxNjUwNDVhYjBlOGQ>`__  is at Writing Day to offer their open-core license for OSS projects.
 
-During Writing Day, OSS projects, or their regular contributors, can receive a `free Ekline license <https://github.com/ekline-io/ekline-github-action>`__  to apply to their project.
+During Writing Day, OSS projects (or their regular contributors), can receive a `free EkLine license <https://github.com/ekline-io/ekline-github-action>`__  to apply to their project.
 
-Folks from Ekline will be available during Writing Day to help you and your project:
+Folks from EkLine will be available during Writing Day to help you and your project:
 
-- Onboard to Ekline
+- Onboard to EkLine
 - Run a scan (or whatever it is)
-- Submit their fixes based on what Ekline discovers
+- Submit project fixes based on what EkLine discovers
 
 Ekline’s project is appropriate for open source project maintainers and regular contributors. It is not necessarily appropriate for those who do not have a relationship with an OSS project to use randomly.
 
