@@ -1,6 +1,6 @@
 Hello!
 
-We’re |WelcomeWagonNames|, your Welcome Wagon, and we’re glad you’re attending Write the Docs!
+We’re |WelcomeWagonNames| your Welcome Wagon, and we’re glad you’re attending Write the Docs!
 We realize a virtual conference might be totally new to you.
 This guide will help you navigate it,
 even if you’ve been to a Write the Docs conference before.
