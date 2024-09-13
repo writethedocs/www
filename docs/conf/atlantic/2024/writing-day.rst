@@ -192,8 +192,8 @@ Check out the `Audinux issue tracker <https://github.com/audinux/audinux.github.
 
 We are looking for anyone interested in this effort to join us.
 
-Improve Ekline's Open Source Docs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Improve Open Source Docs with Ekline
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 `Ekline <https://ekline.atlassian.net/wiki/external/MDJmNWI3MjBkMzE4NGQyMzhlYjkxNjUwNDVhYjBlOGQ>`__  is at Writing Day to introduce their open core license for OSS projects.
 
