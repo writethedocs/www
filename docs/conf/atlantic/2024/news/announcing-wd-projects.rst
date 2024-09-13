@@ -29,9 +29,14 @@ Audinux - Plan and Publish a User Guide
 
 We are delighted to welcome Hank Lee and Audimux to their first Writing Day! Audinux is repository for FOSS music applications and pluginss. As a project, they want to empower creative people and help them use Audinux to its full potential! To do that, they need documentarians to help create a user guide.
 
+Improve Open Source Docs with Ekline
+------------------------------------
+
+Give Puneet Arora a warm welcome for his third Writing Day and first virtual Atlantic Writing Day! Ekline is here to introduce their open core licenses for OSS projects. Puneet be available to help folks onboard to Ekline on their OSS project and show them how to use it to improve their documentation.
+
 And more projects incoming!
 ---------------------------
 
-We have two other projects incoming! We are currently working with their organizers to get them added to the Writing Day page. They'll be added to the Project List as soon as they are ready. 
+We have other projects incoming! We are currently working with their organizers to get them added to the Writing Day page. They'll be added to the Project List as soon as they are ready. 
 
 Remember! Writing Day traditionally has projects that opt to join and announce themself that day. These projects are exclusively posted in the event.
