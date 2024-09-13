@@ -119,7 +119,7 @@ def load_pretalx_resource(url, http_headers):
 
 if __name__ == '__main__':
     get_review_scores(
-        pretalx_slug='wtd-portland-2024',
+        pretalx_slug='wtd-australia-2024',
         previous_slugs=[
             'wtd-portland-2020',
             'wtd-prague-2020',
@@ -132,5 +132,6 @@ if __name__ == '__main__':
             'wtd-atlantic-2023',
             'wtd-portland-2023',
             'wtd-australia-2023',
+            'wtd-portland-2024',
         ],
     )
