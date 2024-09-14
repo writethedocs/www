@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Sept 11, 2024
+.. post:: Sept 14, 2024
    :tags: atlantic-2024, speakers, tickets, shirts
 
 Let's meet the Writing Day projects!
