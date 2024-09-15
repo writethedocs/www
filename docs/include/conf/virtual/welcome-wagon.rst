@@ -7,7 +7,9 @@ even if you’ve been to a Write the Docs conference before.
 
 Whether this is your first Write the Docs conference or your first virtual Write the Docs conference,
 we'll be here to help you make the most of it.
-We’d love to virtually meet you: feel free to send us a direct message at the virtual conference
+We’d love to virtually meet you:
+feel free to ask anything in the #helpdesk channel at the virtual conference (not private)
+or send us a direct message
 if we can help make your time at the conference easier.
 You can also email us at {{ shortcode }}@writethedocs.org.
 
@@ -24,7 +26,7 @@ Guides
 
 You can prepare for the conference by reading through this guide.
 Don’t worry if you forget any of it –
-we'll be waiting at the Helpdesk booth for any questions you might have.
+we'll be waiting at the #helpdesk channel on Venueless for any questions you might have.
 
 Helpdesk
 ~~~~~~~~
@@ -32,7 +34,7 @@ Helpdesk
 Have a look at the `FAQ section <#faqs>`__ we put together based on questions we got at previous conferences.
 
 If you still have questions, reach out the Welcome Wagon staff at the Helpdesk anytime.
-Find **Helpdesk** under *Channels*.
+Find **#helpdesk** under *Channels*.
 If you don't see it there, select **Browse all channels** and join the **Helpdesk**.
 A member of the Welcome Wagon will be online during conference hours to help you.
 
@@ -41,6 +43,7 @@ Message organizers
 
 If you want to contact one of the conference organizers,
 select **+Open a direct message** and search for an organizer's name.
+It's best to use the #helpdesk channel as not all organizers are available all the time.
 You can also email us at {{ shortcode }}@writethedocs.org.
 
 Slack
@@ -85,6 +88,7 @@ To ask a question, during either the talk or the Q&A session:
 3. Enter your question and select **Submit your question**.
 
 If there is time, a moderator will ask the question to the speaker.
+Note that the moderator might put their own twist on the questions or their order.
 
 View all questions asked and vote for those you find most interesting in the **Questions** tab.
 If your question isn’t asked live, chat with the speaker later and make a connection!
@@ -93,7 +97,7 @@ Watching talks after the conference
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Don't worry if you miss something in a talk!
-Stage talks and Q&A sessions are recorded.
+Stage talks, Q&A sessions, and lightning talks are recorded.
 Videos will be published in the `Write the Docs Video Archive <https://www.writethedocs.org/videos/>`__ shortly after the conference
 (typically about a week after the conference ends).
 To be notified when videos are published, `sign up for our newsletter <https://www.writethedocs.org/newsletter/>`__
@@ -232,6 +236,7 @@ Join an unconference session
   ind the table under *Channels* that corresponds to the one in the Unconference schedule.
 {% endif %}
 - The session leader will begin the session when the group has gathered.
+- You do not need to sign up anywhere to join a session.
 
 Lightning talks
 ---------------
@@ -243,6 +248,9 @@ Lightning talks
   and test interest in a conference proposal idea.
 - If you are interested in giving a lightning talk, be prepared!
   Read our `guide to lightning talks <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/lightning-talks/>`__.
+- Sign-ups for Lightning Talks will open on Sunday at the start of Writing Day,
+  close a while before the first session to allow us to select talks,
+  and then reopen right after the Monday Lightning Talk session.
 - Watch the conference chat and your browser window
   for an announcement that Lightning Talk sign-ups have opened and for directions on how to sign up.
 - If you are selected to speak, one of the Organizers will contact you with more information.
