@@ -182,6 +182,7 @@ Check out the `Audinux issue tracker <https://github.com/audinux/audinux.github.
 
 - How to find right Audio/Music packages for your creative work
 - Audio Plug-ins
+- The Good Docs Project
 
 *Topics to choose from*:
 
@@ -208,3 +209,13 @@ Folks from EkLine will be available during Writing Day to help you and your proj
 Ekline’s project is appropriate for open source project maintainers and regular contributors. It is not necessarily appropriate for those who do not have a relationship with an OSS project to use randomly.
 
 Join us to make impactful contributions to open-source documentation while learning a valuable tool.
+
+
+The Good Docs Project - Template adoption workshop (second session only)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`The Good Docs Project writing day agenda <https://www.thegooddocsproject.dev/>`__ is an open source community of 75+ technical writers, doc tools experts, UX designers, and software engineers who are committed to improving the quality of documentation in open source. We aim to educate and empower people to create high-quality documentation by providing them with templates, resources, best practices, and tools to enhance their documentation in open source and beyond.
+
+For Writing Day, we'll give a brief introduction to our project, followed by a workshop that will give you a chance to provide feedback on how we can help more people use templates in their daily documentation workflows.
+
+Get an early preview of `The Good Docs Project writing day agenda <https://tinyurl.com/good-docs-atlantic-2024>`__.
