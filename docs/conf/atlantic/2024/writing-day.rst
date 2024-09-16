@@ -191,3 +191,20 @@ Check out the `Audinux issue tracker <https://github.com/audinux/audinux.github.
 - Use cases: Home recording
 
 We are looking for anyone interested in this effort to join us.
+
+Improve Open Source Docs with EkLine
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`EkLine <https://ekline.atlassian.net/wiki/external/MDJmNWI3MjBkMzE4NGQyMzhlYjkxNjUwNDVhYjBlOGQ>`__  is at Writing Day to offer their open-core license for OSS projects.
+
+During Writing Day, OSS projects (or their regular contributors), can receive a `free EkLine license <https://github.com/ekline-io/ekline-github-action>`__  to apply to their project.
+
+Folks from EkLine will be available during Writing Day to help you and your project:
+
+- Onboard to EkLine
+- Run a scan (or whatever it is)
+- Submit project fixes based on what EkLine discovers
+
+Ekline’s project is appropriate for open source project maintainers and regular contributors. It is not necessarily appropriate for those who do not have a relationship with an OSS project to use randomly.
+
+Join us to make impactful contributions to open-source documentation while learning a valuable tool.
