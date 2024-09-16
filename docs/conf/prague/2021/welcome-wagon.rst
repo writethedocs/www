@@ -3,4 +3,6 @@
 Welcome Wagon Guide
 ===================
 
+.. |WelcomeWagonNames| unicode:: 32
+
 {% include "conf/virtual/welcome-wagon.rst" %}
