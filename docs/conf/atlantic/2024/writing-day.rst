@@ -128,8 +128,8 @@ Project list
 
 Submit your project using our `Writing Day project form <https://forms.gle/uTkWHV3fesyNQEyk9>`_ or send us a PR with your project info!
 
-Mutual Aid for Tech Writer/Documentarian Job Hunters
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Mutual Aid for Tech Writer/Documentarian Job Hunters (second session)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Join project organizer, Kenzie Woodbridge (they/them), during the second Writing Day session.
 
@@ -137,8 +137,8 @@ Let's help each other get ready for our job searches! Are you thinking of applyi
 
 Let's get together and offer each other some feedback on the important documentation we're using to move our careers forward.
 
-WTD Meetup resources for organizers
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+WTD Meetup resources for organizers (second session)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Join project organizer, Rose Williams, for the second Writing Day session.
 
@@ -182,7 +182,6 @@ Check out the `Audinux issue tracker <https://github.com/audinux/audinux.github.
 
 - How to find right Audio/Music packages for your creative work
 - Audio Plug-ins
-- The Good Docs Project
 
 *Topics to choose from*:
 
@@ -210,9 +209,8 @@ Ekline’s project is appropriate for open source project maintainers and regula
 
 Join us to make impactful contributions to open-source documentation while learning a valuable tool.
 
-
-The Good Docs Project - Template adoption workshop (second session only)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The Good Docs Project - Template adoption workshop (second session)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 `The Good Docs Project writing day agenda <https://www.thegooddocsproject.dev/>`__ is an open source community of 75+ technical writers, doc tools experts, UX designers, and software engineers who are committed to improving the quality of documentation in open source. We aim to educate and empower people to create high-quality documentation by providing them with templates, resources, best practices, and tools to enhance their documentation in open source and beyond.
 
