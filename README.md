@@ -6,7 +6,7 @@ To contribute to the Write the Docs website, it's helpful to familiarize yoursel
 
 ### Code Architecture
 
-All of the generated website lives inside the `docs` directory, but many files outside the `conf/` directory are just static RST just like any other Sphinx project.
+All of the generated website lives inside the `docs` directory, but many files outside the `conf/` directory are just static RST like any other Sphinx project.
 
 All RST files are rendered with [Jinja](https://jinja.palletsprojects.com/), which allows the use of Jinja tags in all of them. A few custom Jinja filters are available for things like generating photo paths for speakers.
 
