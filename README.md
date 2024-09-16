@@ -2,11 +2,11 @@
 
 This is the code that powers [www.writethedocs.org](http://www.writethedocs.org). It contains information about the Write the Docs group, as well as information about writing documentation.
 
-To contribute to the Write the Docs website, it's helpful to familiarize yourself with the [Sphinx site generator](https://www.sphinx-doc.org/), as well as [reStructuredText markup syntax](https://www.sphinx-doc.org/en/stable/rest.html).
+To contribute to the Write the Docs website, it's helpful to familiarize yourself with the [Sphinx site generator](https://www.sphinx-doc.org/) and [reStructuredText markup syntax](https://www.sphinx-doc.org/en/stable/rest.html).
 
 ### Code Architecture
 
-All of the generated website lives inside the `docs` directory, but many files outside the `conf/` directory are just static RST, as in any other Sphinx project.
+All of the generated website lives inside the `docs` directory, but many files outside the `conf/` directory are just static RST just like any other Sphinx project.
 
 All RST files are rendered with [Jinja](https://jinja.palletsprojects.com/), which allows the use of Jinja tags in all of them. A few custom Jinja filters are available for things like generating photo paths for speakers.
 
@@ -58,7 +58,7 @@ If you run into trouble with broken links to video files, have a look at `_ext/f
 
 ### Installing the project requirements
 
-1. Activate the virtual environment according to your operating system:
+1. Activate the virtual environment as per your operating system:
 
     * On Linux-based systems, run `source venv/bin/activate`.
     * On Windows using the Command Prompt, run `venv\Scripts\activate.bat`.
