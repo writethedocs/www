@@ -1,10 +1,36 @@
-@ECHO OFF
+@echo off
 
 REM Command file for Sphinx documentation
+SETLOCAL ENABLEDELAYEDEXPANSION
+
+set _found_python_path=""
+
+
+for /f "tokens=1" %%a in ('REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Python\PythonCore /s /f InstallPath ^| findstr "HKEY_LOCAL_MACHINE"') do (
+  set _python_reg=%%a
+
+  for /f "tokens=3" %%b in ('REG QUERY !_python_reg! /v ExecutablePath') do (
+    set _python_path=%%b
+  )
+
+  for /f "tokens=5 delims=\" %%v in ("%%a") Do (
+    set _version=%%v
+
+    IF !_version! == 3.8 (
+        set _found_python_path=!_python_path!
+    )
+  )
+)
+
+IF "%_found_python_path%" == "" (
+    echo.Python 3.8 installation not found.
+    goto end
+)
 
 if "%SPHINXBUILD%" == "" (
-	set SPHINXBUILD=sphinx-build
+	set SPHINXBUILD=!_found_python_path! -m sphinx-build
 )
+
 set BUILDDIR=_build
 set ALLSPHINXOPTS=-d %BUILDDIR%/doctrees %SPHINXOPTS% .
 if NOT "%PAPER%" == "" (
@@ -49,7 +75,7 @@ if "%1" == "html" (
 )
 
 if "%1" == "livehtml" (
-	sphinx-autobuild -p 8888  -z _data -b dirhtml %ALLSPHINXOPTS% %BUILDDIR%/html
+	!_found_python_path! -m sphinx-autobuild -p 8888  -z _data -b dirhtml %ALLSPHINXOPTS% %BUILDDIR%/html
 )
 
 if "%1" == "dirhtml" (
@@ -158,3 +184,5 @@ results in %BUILDDIR%/doctest/output.txt.
 )
 
 :end
+
+ENDLOCAL
