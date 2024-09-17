@@ -91,6 +91,7 @@ else:
 
 extensions = [
     'ablog',
+    'sphinx.ext.intersphinx',
     'sphinxcontrib.datatemplates',
     'notfound.extension',
     'sphinxemoji.sphinxemoji',
