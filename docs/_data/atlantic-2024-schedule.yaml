@@ -17,8 +17,10 @@ talks_day1:
   - time: '10:00'
     title: Platform opens
     duration: '00:30'
-  - duration: '00:30'
+  - duration: '00:10'
     title: Hallway track - Chat with other attendees
+  - duration: '00:20'
+    title: Tour of the platform in the Welcome Wagon Tour channel
   - duration: '00:25'
     title: Write the Docs Team - Conference introduction
   - duration: '0:05'
