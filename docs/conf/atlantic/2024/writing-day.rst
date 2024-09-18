@@ -212,7 +212,7 @@ Join us to make impactful contributions to open-source documentation while learn
 The Good Docs Project - Template adoption workshop (second session)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-`The Good Docs Project writing day agenda <https://www.thegooddocsproject.dev/>`__ is an open source community of 75+ technical writers, doc tools experts, UX designers, and software engineers who are committed to improving the quality of documentation in open source. We aim to educate and empower people to create high-quality documentation by providing them with templates, resources, best practices, and tools to enhance their documentation in open source and beyond.
+`The Good Docs Project <https://www.thegooddocsproject.dev/>`__ is an open source community of 75+ technical writers, doc tools experts, UX designers, and software engineers who are committed to improving the quality of documentation in open source. We aim to educate and empower people to create high-quality documentation by providing them with templates, resources, best practices, and tools to enhance their documentation in open source and beyond.
 
 For Writing Day, we'll give a brief introduction to our project, followed by a workshop that will give you a chance to provide feedback on how we can help more people use templates in their daily documentation workflows.
 
