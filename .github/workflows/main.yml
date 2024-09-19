@@ -149,3 +149,28 @@ jobs:
       - name: Check links
         run: |
           htmlproofer --ignore-files "/404/,/2013/,/2014/,/2015/,/2016/,/2017/,/search\/index.html/" --allow-hash-href=true --enforce-https=false --ignore-missing-alt=true --disable-external=true docs/_build/html
+
+  windows:
+    runs-on: windows-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v5
+      with:
+        python-version: 3.8
+
+    - name: Cache python env
+      uses: actions/cache@v4
+      with:
+        path: ${{ env.pythonLocation }}
+        key: v2-${{ env.pythonLocation }}-${{ hashFiles('requirements.txt') }}
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip wheel
+        pip install -r requirements.txt
+
+    - name: Build docs
+      shell: cmd
+      run: make.bat
