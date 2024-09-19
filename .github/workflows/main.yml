@@ -173,4 +173,4 @@ jobs:
 
     - name: Build docs
       shell: cmd
-      run: make.bat
+      run: docs/make.bat
