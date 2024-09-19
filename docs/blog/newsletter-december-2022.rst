@@ -33,7 +33,7 @@ When working with other documentarians, it’s useful to be able to criticise co
 
 Trying to give better feedback is hard work, but it’s also worth the effort. If you have colleagues whose writing could be better, they’re not likely to improve without thoughtful criticism. That's where some useful tips, shared by our community this month, come in.
 
-First up, if you're faced with a bad piece of writing: Know that giving constructive criticism to help someone else improve it _will_ take longer than just rewriting it yourself. You have to accept that this is an investment of time today, which will only pay off in the long run.
+First up, if you're faced with a bad piece of writing: Know that giving constructive criticism to help someone else improve it *will* take longer than just rewriting it yourself. You have to accept that this is an investment of time today, which will only pay off in the long run.
 
 In the same vein, the idea is to help another writer grow. So consider what exact area they need to work on and then focus on that. It may feel less scary to focus on corrections to spelling and grammar, but those comments won’t help your colleague improve if their real issue is wordiness or a lack of clarity.
 

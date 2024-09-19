@@ -128,17 +128,17 @@ Project list
 
 Submit your project using our `Writing Day project form <https://forms.gle/uTkWHV3fesyNQEyk9>`_ or send us a PR with your project info!
 
-Mutual Aid for Tech Writer/Documentarian Job Hunters
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Mutual Aid for Tech Writer/Documentarian Job Hunters (second session)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Join project organizer, Kenzie Woodbridge (they/them), during the second Writing Day session.
 
-Let's help each other get ready for our job searches! Are you thinking of applying for a new or different tech writer/documentarian jobs and would appreciate feedback on your resume? Or, are you responsible for hiring and know what you're looking for in a resume and application? 
+Let's help each other get ready for our job searches! Are you thinking of applying for new or different tech writer/documentarian jobs and would appreciate feedback on your resume? Or, are you responsible for hiring and know what you're looking for in a resume and application? 
 
 Let's get together and offer each other some feedback on the important documentation we're using to move our careers forward.
 
-WTD Meetup resources for organizers
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+WTD Meetup resources for organizers (second session)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Join project organizer, Rose Williams, for the second Writing Day session.
 
@@ -148,7 +148,7 @@ Agenda:
 
 - Strategize to create a better content infrastructure for Meetup related pages.
 - Update the `Starting a Meetup <https://www.writethedocs.org/organizer-guide/meetups/starting/>`__ page
-- Update the `Make your Meetups more sustainable <https://www.writethedocs.org/organizer-guide/meetups/sustainable-meetups/>`__
+- Update the `Make your Meetups more sustainable <https://www.writethedocs.org/organizer-guide/meetups/sustainable-meetups/>`__ page
 - Review the `Meetup FAQ <https://www.writethedocs.org/organizer-guide/meetups/faq-meetups/>`__
 
 I recommend contributing to this project using the built in `GitHub web-based editor <https://docs.github.com/en/codespaces/the-githubdev-web-based-editor>`__. Mostly because I am not a Git or GitHub expert.
@@ -160,7 +160,7 @@ Join project organizer, Hank Lee, during Writing Day.
 
 Plan and Publish User Guide for Audinux, a repository for FOSS music applications and plugins
 
-`Audinux <https://audinux.github.io/>`__  is a repository for FOSS music applications and plugins. We want to empower creative people and help them use Audinux to it's full potential! To do that, we need documentarians to help us create a user guide.
+`Audinux <https://audinux.github.io/>`__  is a repository for FOSS music applications and plugins. We want to empower creative people and help them use Audinux to its full potential! To do that, we need documentarians to help us create a user guide.
 
 Our Writing Day goal is to work together and create a user guide for Audinux. Creating a user guide will positively impact our users and encourage new users.
 
@@ -191,3 +191,29 @@ Check out the `Audinux issue tracker <https://github.com/audinux/audinux.github.
 - Use cases: Home recording
 
 We are looking for anyone interested in this effort to join us.
+
+Improve Open Source Docs with EkLine
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`EkLine <https://ekline.atlassian.net/wiki/external/MDJmNWI3MjBkMzE4NGQyMzhlYjkxNjUwNDVhYjBlOGQ>`__  is at Writing Day to offer their open-core license for OSS projects.
+
+During Writing Day, OSS projects (or their regular contributors), can receive a `free EkLine license <https://github.com/ekline-io/ekline-github-action>`__  to apply to their project.
+
+Folks from EkLine will be available during Writing Day to help you and your project:
+
+- Onboard to EkLine
+- Run a scan (or whatever it is)
+- Submit project fixes based on what EkLine discovers
+
+Ekline’s project is appropriate for open source project maintainers and regular contributors. It is not necessarily appropriate for those who do not have a relationship with an OSS project to use randomly.
+
+Join us to make impactful contributions to open-source documentation while learning a valuable tool.
+
+The Good Docs Project - Template adoption workshop (second session)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`The Good Docs Project <https://www.thegooddocsproject.dev/>`__ is an open source community of 75+ technical writers, doc tools experts, UX designers, and software engineers who are committed to improving the quality of documentation in open source. We aim to educate and empower people to create high-quality documentation by providing them with templates, resources, best practices, and tools to enhance their documentation in open source and beyond.
+
+For Writing Day, we'll give a brief introduction to our project, followed by a workshop that will give you a chance to provide feedback on how we can help more people use templates in their daily documentation workflows.
+
+Get an early preview of `The Good Docs Project writing day agenda <https://tinyurl.com/good-docs-atlantic-2024>`__.
