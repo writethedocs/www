@@ -8,6 +8,7 @@ from yaml import YAMLError
 from .utils import load_yaml
 
 import logging
+import sys
 from datetime import datetime, time, timedelta
 
 try:
@@ -17,10 +18,16 @@ except ImportError:
 
 log = logging.getLogger(__name__)
 
-TIME_FORMATS = {
-    '24h': '%H:%M',
-    '12h': '%-I:%M %p',
-}
+if sys.platform.startswith('win'):
+    TIME_FORMATS = {
+        '24h': '%H:%M',
+        '12h': '%-H:%M %p',
+    }
+else:
+    TIME_FORMATS = {
+        '24h': '%H:%M',
+        '12h': '%-I:%M %p',
+    }
 
 # Some DST timezones aren't "real" timezones.
 TIMEZONE_TRANSLATION_PYTZ = {
