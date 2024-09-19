@@ -9,8 +9,38 @@ import ablog
 
 # Only for windows compatibility - Forces default encoding to UTF8, which it may not be on windows
 if os.name == 'nt':
-    reload(sys)
-    sys.setdefaultencoding('UTF8')
+    # monkeypatches sphinxcontrib.datatemplates so it uses utf-8 as the encoding
+    # instead of cp1252 when opening a file. using sys.setdefaultencoding does
+    # not alter the encoding when opening a file for reading.
+
+    from sphinxcontrib.datatemplates import directive
+    from xml.etree import ElementTree as ET
+    import mimetypes
+
+    old_load_data = directive.DataTemplateLegacy._load_data
+
+    def _load_data(self, env, data_source, encoding):
+        rel_filename, filename = env.relfn2path(data_source)
+        if data_source.endswith('.yaml'):
+            return self._load_yaml(filename, 'utf-8')
+        elif data_source.endswith('.json'):
+            return self._load_json(filename, 'utf-8')
+        elif data_source.endswith('.csv'):
+            return self._load_csv(filename, 'utf-8')
+        elif "xml" in mimetypes.guess_type(data_source)[0]:
+            # there are many XML based formats
+            return ET.parse(filename).getroot()
+        else:
+            raise NotImplementedError('cannot load file type of %s' %
+                                      data_source)
+
+
+    directive.DataTemplateLegacy._load_data = _load_data
+    setattr(
+        sys.modules['sphinxcontrib.datatemplates.directive'].DataTemplateLegacy,
+        '_load_data',
+        _load_data
+    )
 
 
 sys.path.append(os.getcwd())  # noqa
@@ -166,7 +196,7 @@ suppress_warnings = ['image.nonlocal_uri']
 
 global_sponsors = yaml.safe_load("""
 - name: gitbook
-  link: https://www.gitbook.com/?utm_campaign=launch&utm_medium=display&utm_source=write_the_docs&utm_content=ad 
+  link: https://www.gitbook.com/?utm_campaign=launch&utm_medium=display&utm_source=write_the_docs&utm_content=ad
   brand: GitBook
   comment: Community sponsor
 """)
@@ -210,6 +240,5 @@ def setup(app):
     app.add_directive('datatemplate-video', videos.DataTemplateVideo)
     app.add_css_file('css/global-customizations.css')
     app.add_css_file('css/survey.css')
-    app.add_js_file('js/jobs.js')
 
     app.config.wtd_cache = {}

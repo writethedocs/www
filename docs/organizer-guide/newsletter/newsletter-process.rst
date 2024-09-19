@@ -125,9 +125,7 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
    Featured job posts
    ------------------
 
-   - `TITLE <https://jobs.writethedocs.org/LINK>`__, COMPANY (LOCATION)
-
-   *To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
+  TODO
 
    ----------------
    Events coming up
@@ -151,7 +149,7 @@ When the content for the newsletter is all in place, upload the file to a new br
 
 Allow 1-2 days for folks to review and leave comments. (Not *everyone* has to review it, but 2-3 sets of extra eyeballs is ideal.)
 
-Resolve all comments, and then when you're ready to send it... 
+Resolve all comments, and then when you're ready to send it...
 
 Ship the newsletter (0 days before shipping)
 ********************************************

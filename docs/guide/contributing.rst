@@ -146,7 +146,7 @@ Create a pull request with your changes
 
           git checkout branch-name
 
-**In any text editor like `Sublime Text`_ or `Visual Studio Code`_:**
+**In any text editor like** `Sublime Text`_ **or** `Visual Studio Code`_ **:**
 
 1. Open the file you want to edit.
 

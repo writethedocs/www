@@ -88,7 +88,7 @@ Benefits
 - Logo in conference email promotion.
 - Display promotional “Swag” items on the conference swag table (provided by sponsor).
 - Dedicated social media post on LinkedIn and Twitter.
-- Three (3) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
+- Three (3) featured job postings in our Jobs Slack channel, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
 - One email promotion to our conference email list. Includes logo and 2 paragraphs of copy.
 - Slack Sponsorship promotion in Write the Docs Slack channel ahead of the conference.
 
@@ -109,7 +109,7 @@ Benefits
 - Logo in conference email promotion.
 - Display promotional “Swag” items on the conference swag table (provided by sponsor).
 - Dedicated social media post on LinkedIn and Twitter.
-- Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
+- Two (2) featured job postings in our Jobs Slack channel, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
 - One email promotion to our conference email list. Includes logo and 2 paragraphs of copy.
 
 Publisher
@@ -127,7 +127,7 @@ Benefits
 - Logo on the conference website.
 - Name included in all conference emails to attendees.
 - Display promotional “Swag” items on the conference swag table (provided by sponsor).
-- Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
+- Two (2) featured job postings in our Jobs Slack channel, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
 
 Second Draft
 ------------
@@ -172,8 +172,8 @@ Opportunity Grants
 
 **$2,500** - **Limit 2**
 
-Provide additional funding for our Opportunity Grant program, which supports equity and accessibility and provides funding for low-income, marginalized people to attend the conference. 
-These individuals would otherwise not be able to attend. 
+Provide additional funding for our Opportunity Grant program, which supports equity and accessibility and provides funding for low-income, marginalized people to attend the conference.
+These individuals would otherwise not be able to attend.
 
 Benefits
 ^^^^^^^^
