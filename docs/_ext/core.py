@@ -19,7 +19,7 @@ except ImportError:
 log = logging.getLogger(__name__)
 
 
-def get_24_hour_time(dt):
+def get_24hour_time(dt):
     return dt.strftime('%H:%M')
 
 
@@ -30,7 +30,7 @@ def get_12hour_time(dt):
 
 
 TIME_FORMATS = {
-    '24h': get_24_hour_time,
+    '24h': get_24hour_time,
     '12h': get_12hour_time,
 }
 
