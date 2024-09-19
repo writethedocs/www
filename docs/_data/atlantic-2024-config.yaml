@@ -47,7 +47,7 @@ buttons:
     # - text: Welcome to our conference
     #   link: /news/welcome
     - text: See the Schedule!
-     link: /schedule
+      link: /schedule
     # - text: Sponsor the conference
     #   link: /sponsors/prospectus
     - text: See the talks!
