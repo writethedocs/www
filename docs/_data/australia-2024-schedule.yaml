@@ -97,7 +97,7 @@ talks_day2:
     title: '✋ 10 min Q&A'
   - duration: '0:05'
     title: '5 minute break'
-    duration: '0:15'
+  - duration: '0:15'
     title: Write the Docs team - Conference closing
   - duration: '0:00'
     title: '<b>Conference ends 😔</b>'
