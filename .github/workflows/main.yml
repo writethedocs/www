@@ -173,4 +173,5 @@ jobs:
 
     - name: Build docs
       shell: cmd
-      run: docs/make.bat html
+      working-directory: ./docs
+      run: make.bat html
