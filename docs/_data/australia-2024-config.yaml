@@ -190,7 +190,7 @@ flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
 flagrunofshow: True
-flaghasschedule: False
+flaghasschedule: True
 flaghasunconf: True
 flaghasshirts: False
 flagvideos: False

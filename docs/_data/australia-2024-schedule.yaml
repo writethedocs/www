@@ -1,0 +1,103 @@
+talks_day1:
+  - time: '8:30'
+    title: Doors open
+  - time: '9:15'
+    duration: '0:15'
+    title: Write the Docs Australia - Conference introduction
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    title: Featured speaker - TBC
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: naming-guidelines-so-many-naming-guidelines-jay-stephens
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:20'
+    title: '☕ Coffee break'
+  - duration: '0:30'
+    slug: what-if-we-just-got-ai-to-write-the-docs-lana-brindley-she-her
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: global-voices-inclusive-docs-how-open-source-sets-the-standard-for-inclusivity-eeshaan-sawant
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '1:00'
+    title: '🍽️ Lunch Break (60 mins)'
+  - duration: '0:20'
+    title: Lightning Talks (20 mins)
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:00'
+    title: Brick Docs Workshop - Part 1
+  - duration: '1:00'
+    slug: brick-docs-workshop-yvonne-perkins
+  - duration: '0:20'
+    title: '☕ Coffee break'
+  - duration: '0:00'
+    title: Brick Docs Workshop - Part 2
+  - duration: '0:40'
+    slug: brick-docs-workshop-yvonne-perkins
+  - duration: '0:05'
+    title: '<b>Group Photo!</b>'
+  - duration: '0:00'
+    title: '<b>Conference day 1 ends</b>'
+  - time: '17:00'
+    title: "<b>Social Event</b>"
+  - time: '19:00'
+    title: "<b>Social Event Ends</b>"
+
+talks_day2:
+  - time: '9:00'
+    title: Doors open
+    duration: '0:30'
+  - duration: '0:30'
+    title: Featured speaker - TBC
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: where-journalism-and-advertising-writing-skills-overlap-with-technical-writing-justine-stewart
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:20'
+    title: '☕ Coffee break'
+  - duration: '0:30'
+    slug: how-we-improved-qualitative-feedback-in-our-documentation-austin-lai
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: snack-videos-for-your-audience-ruth
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '1:00'
+    title: '🍽️ Lunch Break (60 mins)'
+  - duration: '0:20'
+    title: Lightning Talks (20 mins)
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: toot-your-own-horn-the-benefits-of-keeping-a-brag-doc-theo-harris
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:20'
+    title: '☕ Coffee break'
+  - duration: '0:30'
+    slug: creating-truly-accessible-documentation-felicia-sephodi
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+    duration: '0:15'
+    title: Write the Docs team - Conference closing
+  - duration: '0:00'
+    title: '<b>Conference ends 😔</b>'
