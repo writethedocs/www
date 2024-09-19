@@ -95,8 +95,6 @@ talks_day2:
     slug: creating-truly-accessible-documentation-felicia-sephodi
   - duration: '0:10'
     title: '✋ 10 min Q&A'
-  - duration: '0:05'
-    title: '5 minute break'
   - duration: '0:15'
     title: Write the Docs team - Conference closing
   - duration: '0:00'

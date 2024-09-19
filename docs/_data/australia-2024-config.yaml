@@ -28,7 +28,7 @@ buttons:
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: Read our conference guide
   #     link: /welcome-wagon
-    - text: See the Schedule!
+    - text: Schedule
       link: /schedule
     - text: Tickets
       link: /tickets
@@ -167,7 +167,6 @@ sponsors:
     - name: atlassian
       link: https://www.atlassian.com/
       brand: Atlassian
-      width: 750px
   second:
     - name: google
       link: https://www.google.com/
@@ -175,7 +174,6 @@ sponsors:
   first:
     - name: linux-australia
       link: https://linux.org.au/
-      width: 250px
       brand: Linux Australia
   in_kind:
     - name: rtd
