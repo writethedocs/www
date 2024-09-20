@@ -27,14 +27,14 @@ buttons:
     #  link: /welcome-wagon
     #- text: See the Schedule!
     #  link: /schedule
-    - text: Tickets
-      link: /tickets
+    # - text: Ticket
+    #   link: /tickets
     #- text: Sponsor us
     #  link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
-    #- text: See the talks!
-    #  link: /speakers
+    - text: See the talks!
+      link: /speakers
     - text: See the Schedule!
       link: /schedule
     # - text: Watch the Live Stream
@@ -46,14 +46,14 @@ buttons:
   bottom:
     # - text: Welcome to our conference
     #   link: /news/welcome
-    #- text: See the Schedule!
-    #  link: /schedule
-    - text: Sponsor the conference
-      link: /sponsors/prospectus
-#    - text: See the talks!
-#      link: /speakers
-    - text: Buy a Ticket!
-      link: /tickets
+    - text: See the Schedule!
+      link: /schedule
+    # - text: Sponsor the conference
+    #   link: /sponsors/prospectus
+    - text: See the talks!
+      link: /speakers
+    # - text: Buy a Ticket!
+    #   link: /tickets
     # - text: Prepare with the Welcome Wagon
     #   link: /welcome-wagon
     # - text: See the schedule!
@@ -187,8 +187,8 @@ sponsors:
 flagcfp: False
 flaglanding: False
 flaghassponsors: True
-flagticketsonsale: True
-flagsoldout: False
+flagticketsonsale: False
+flagsoldout: True
 flagspeakersannounced: True
 flagrunofshow: False
 flaghasschedule: True

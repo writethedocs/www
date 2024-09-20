@@ -1,0 +1,252 @@
+- title: How We Improved Qualitative Feedback In Our Documentation
+  slug: how-we-improved-qualitative-feedback-in-our-documentation-austin-lai
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2024
+  speakers:
+  - name: Austin Lai
+    slug: austin-lai
+    twitter: 
+    website: 
+  abstract: '<p>Datadog is a monitoring company, and we excel at collecting discrete
+    data about systems to make them better. However, collecting meaningful feedback
+    from our technical documentation was a challenge. Getting feedback on whether
+    your docs are helpful to users is difficult. Standard metrics like conversion
+    (when there’s no checkout process) or time spent (longer sessions may indicate
+    difficulty) don’t apply well to documentation. </p>
+
+    <p>In an effort to get better feedback, we implemented a documentation survey
+    six years ago which allowed users to rank the content and include a screenshot
+    of their issues, but it didn’t empower them to provide actionable feedback. Our
+    documentation survey required deliberate intervention to refine its structure,
+    incorporate additional logic, and benefit from a user researcher’s perspective
+    to enhance the flow and ensure a seamless user experience. </p>
+
+    <p>Technical documentation should not be a barrier to understanding. No one (or
+    at least we hope no one) has ever said “the documentation was thorough, but I
+    wish it had been more bland and boring”. Instead, we wanted to open the floodgates,
+    encourage users to provide meaningful feedback, and even feel empowered to contribute
+    to our open source <a href="https://github.com/Datadog/documentation">documentation
+    repository</a>.</p>'
+- title: Creating truly accessible documentation
+  slug: creating-truly-accessible-documentation-felicia-sephodi
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2024
+  speakers:
+  - name: Felicia Sephodi
+    slug: felicia-sephodi
+    twitter: 
+    website: 
+  abstract: '<p>I recently gave a talk at another conference on accessible development
+    and after I gave the talk, I had to take a technical writing for accessibility
+    course where I learned about the art of creating useful alt text. It happened
+    that during my slides creation, some of my examples were not inclusive of audiences
+    with disabilities, I later realized that was also a pattern in my workplace. </p>
+
+    <p>This session is a mixture of what I learned in detail, creating documentation
+    for all users and advanced ways for making documentation usable for everyone.</p>'
+- title: Where journalism and advertising writing skills overlap with technical writing
+    – and where they don’t
+  slug: where-journalism-and-advertising-writing-skills-overlap-with-technical-writing-justine-stewart
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2024
+  speakers:
+  - name: Justine Stewart
+    slug: justine-stewart
+    twitter: 
+    website: 
+  abstract: "<p>It may not seem like journalism and writing adverts have much to do
+    with each other, let alone with technical writing, but I’ve got a different perspective.
+    I LOVE my job, which is writing documents for SaaS customers, including release
+    notes, how-tos, and online learning materials, but it wasn’t a straightforward
+    path to this point.</p>\n<p>This presentation will cover how the lack of technical
+    background can become your technical writing superpower, as long as you’re driven
+    by both curiosity AND altruism. </p>\n<p>I want to explain why translating developers’
+    explanations of software into “what’s that mean for me” for end users has a lot
+    in common with writing a well-structured news story. </p>\n<p>Some further enticing
+    bullet points (because if you can’t get meta in this context, when can you?!):
+    </p>\n<p>• Specific writing techniques taught in journalism school that can become
+    part of your technical writing skillset.\n• Things journalism and advertisement
+    copywriting definitely DON’T have in common with technical writing – and yet,
+    what tips from these disciplines you might find useful. \nBONUS: How the above
+    can help you identify and ‘correct’ a particular feature of many AI-written documents.\n•
+    What the research says about the link between emotions and understanding instructions.\n•
+    Uncovering the best motivation to be a better technical writer.</p>\n<p>All the
+    answers? Definitely not. But it's always a good thing to throw around some questions!</p>"
+- title: 'Toot Your Own Horn: The Benefits of Keeping a Brag Doc'
+  slug: toot-your-own-horn-the-benefits-of-keeping-a-brag-doc-theo-harris
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2024
+  speakers:
+  - name: Theo Harris
+    slug: theo-harris
+    twitter: 
+    website: 
+  abstract: '<p>Ever been stumped in an interview when asked about your proudest achievements
+    from the last six months? Felt like your manager didn’t understand your contributions
+    during a performance evaluation? Struggled to celebrate your professional wins?</p>
+
+    <p>As working professionals, we often get so wrapped up in daily tasks that recalling
+    impactful work becomes difficult when needed. After experiencing this firsthand,
+    I volunteered to create and run a Brag Doc Working Group at my company. This initiative
+    aims to help my teammates and me better capture, reflect on, and celebrate our
+    professional achievements.</p>
+
+    <p>In this talk, we’ll cover:</p>
+
+    <ul>
+
+    <li>The purpose of keeping a Brag Doc</li>
+
+    <li>Practical examples of what a Brag Doc can look like</li>
+
+    <li>The ups and downs of building a working group for your company</li>
+
+    <li>How your Brag Doc can be utilised as a professional tool in different contexts</li>
+
+    </ul>
+
+    <p>You''ll learn how to systematically document your achievements, making it easier
+    to communicate your value during reviews, interviews, and stakeholder meetings.
+    I’ll also share my experience in creating a supportive community around documenting
+    wins and how this practice can improve team morale and personal growth.</p>
+
+    <p>Join us to explore how a simple Brag Doc can become a powerful tool for your
+    professional success.</p>'
+- title: What if we just got AI to write the docs?
+  slug: what-if-we-just-got-ai-to-write-the-docs-lana-brindley-she-her
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2024
+  speakers:
+  - name: Lana Brindley (she/her)
+    slug: lana-brindley-she-her
+    twitter: 
+    website: 
+  abstract: '<p>ChatGPT is everywhere now, and all us documentarians are presumably
+    going to be first up against the wall when the AI revolution comes. So what if
+    we just took the opportunity to get a large language model to write all our documentation
+    for us, and we can sit back and enjoy all that spare time before we have to learn
+    potato farming?</p>
+
+    <p>Lana and a small group of colleagues at Shippit decided to put generative AI
+    to the test. We needed a bunch of developer documentation written last week, we
+    had some basic docs that we thought would be a great starting point, and we had
+    two days to work on whatever we liked. Generative AI was just the thing we needed
+    to deliver results.</p>
+
+    <p>And results were delivered. Of sorts. This talk covers which LLMs we considered,
+    what content we gave the tool, and what we didn''t, the prompts we used to get
+    results, and the results themselves. Lana will also discuss the benefits and drawbacks
+    of this approach to documentation, and - if the demo gods are with us - throw
+    in a live demo or two.</p>'
+- title: Naming Guidelines- so many naming guidelines
+  slug: naming-guidelines-so-many-naming-guidelines-jay-stephens
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2024
+  speakers:
+  - name: Jay Stephens
+    slug: jay-stephens
+    twitter: 
+    website: 
+  abstract: "<p>Organisations can be very heterogeneous in their naming conventions
+    and in their naming needs. How do we go about developing naming guidelines in
+    these cases?\nDifferent business units may be siloed and have strong standards
+    and long-established conventions, and these standards often contradict.\nA recent
+    project at CSIRO developing IT naming guidelines has provided me with a template
+    for any future such projects. \nTo succeed in getting buy-in for the adoption
+    of naming guidelines from management and stakeholders, both the discovery process
+    and the final deliverables must carefully balance factors such as:\n- Prescriptive
+    rules vs. loose guidance\n- Overall consistency vs. necessary differences in approach
+    between business units\n- Grandfathering existing practice vs. starting fresh\n-
+    Meaningfulness and searchability vs. uniqueness (e.g. including IDs in names)\n-
+    Detailed guidance vs. quick reference value\n- Addressing current project scope
+    vs. later scalability to organisation-wide guidelines</p>"
+- title: Snack Videos for your Audience
+  slug: snack-videos-for-your-audience-ruth
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2024
+  speakers:
+  - name: Ruth
+    slug: ruth
+    twitter: 
+    website: 
+  abstract: "<p>We wanted to make our knowledge centres' content more digestible.
+    While our current articles are available to be read, but what about people who
+    have difficulty reading or learning. We recognized the need for alternative methods
+    of learning for those who struggle with reading, comprehension, or prefer visual
+    learning.\nIt was time to make a change, so we invested in making short videos
+    instead of the previous hour-long videos or re-purposed webinars. Now, people
+    can snack video instead of eating a meal.\nIn this talk, I will cover the following:\n•
+    \  Reasons behind our approach with looking at how different generations learn
+    and the importance of learning accessibility. \n•   Explore the video foundations,
+    such as scripts, as it is still important to have written words. \n•   Look at
+    the learner’s mental models and how bite-sized learning can be easily digested.
+    \n•   Give an overview of the production process that you can implement.\nAnd
+    finally, it is showtime and we will watch 2 short videos.</p>"
+- title: 'Global Voices, Inclusive Docs: How Open-Source Sets the Standard for Inclusivity
+    and How You Can Too'
+  slug: global-voices-inclusive-docs-how-open-source-sets-the-standard-for-inclusivity-eeshaan-sawant
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2024
+  speakers:
+  - name: Eeshaan Sawant
+    slug: eeshaan-sawant
+    twitter: 
+    website: 
+  abstract: <p>Open Source thrives on the diversity of its global contributors, which
+    has driven the creation of some of the most inclusive documentation practices
+    in the industry. Yet, nearly 80% of the global tech community remains underrepresented
+    and faces numerous inclusivity barriers, extending beyond just language. In this
+    talk, we'll see how open-source documentarians have harnessed their diverse voices
+    to craft documentation inclusive of all identities, including gender representations
+    and multilingual accessibility. By the end of this talk, attendees will gain practical
+    insights to implement these inclusive standards in their work, ensuring their
+    documentation is welcoming and accessible to all.</p>
+- title: Brick Docs Workshop
+  slug: brick-docs-workshop-yvonne-perkins
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2024
+  speakers:
+  - name: Yvonne Perkins
+    slug: yvonne-perkins
+    twitter: 
+    website: 
+  - name: Alexandra Perkins
+    slug: alexandra-perkins
+    twitter: 
+    website: 
+  abstract: '<p>Do you work with engineers who find it challenging to write technical
+    documentation that is concise, simple, and understandable by the intended audience?
+    Is documentation something that makes your team shudder, because they feel out
+    of their depth, and like writing is not a skill they can master?</p>
+
+    <p>Brick Docs is a 1 hour fun learning activity using LEGO® bricks that technical
+    writers can run with engineers who are responsible for writing internal documentation.
+    It is a judgment-free way to learn essential writing skills, all while having
+    fun with LEGO®!</p>
+
+    <p>We will take you through the activity and give you a set of instructions as
+    well as a list of the LEGO® bricks that you need to run this workshop yourself.</p>
+
+    <p>See if you can be the first to guess what it is you are building! </p>
+
+    <p><strong>Skills developed:</strong></p>
+
+    <ul>
+
+    <li>Identifying problems in documentation and how to improve the writing, with
+    a focus on writing to meet the needs of the user</li>
+
+    <li>Practising collaboration skills</li>
+
+    <li>Facilitating this workshop</li>
+
+    </ul>'
