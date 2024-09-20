@@ -3,13 +3,13 @@ writing_day:
     title: 'Platform opens'
     duration: '01:00'
   - time: '10:30'
-    title: First session: Writing Day Introduction & Project Announcements
+    title: 'First session: Writing Day Introduction & Project Announcements'
   - time: '11:00'
     title: Team up and start the first session
   - time: '14:00'
     title: 'Snack break'
   - time: '14:30'
-    title: Second session: Writing Day Introduction & Project Announcements
+    title: 'Second session: Writing Day Introduction & Project Announcements'
   - time: '14:45'
     title: Team up and start the second session
   - time: '17:00'
