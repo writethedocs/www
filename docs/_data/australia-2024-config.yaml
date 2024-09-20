@@ -22,14 +22,14 @@ buttons:
   #     link: /news/welcome
     - text: Sponsor us
       link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
+  #   - text: Submit a Talk
+  #     link: /cfp
   #   - text: Date and ticket information
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: Read our conference guide
   #     link: /welcome-wagon
-  #   - text: See the Schedule!
-  #     link: /schedule
+  #  - text: See the Schedule!
+  #    link: /schedule
     - text: Tickets
       link: /tickets
   #  - text: See the talks!
@@ -45,8 +45,8 @@ buttons:
   #  - text: Thanks for coming
   #    link: /news/thanks-recap
   bottom:
-    - text: Welcome to the conference
-      link: /news/welcome
+  #  - text: Welcome to the conference
+  #    link: /news/welcome
     - text: Sponsor us
       link: /sponsors/prospectus
   #  - text: Submit a Talk
@@ -134,10 +134,10 @@ about:
     "The main presentation track takes place during **November 28-29 (Thursday and Friday) from 9:30am to 4:30pm AEDT**.
     During the main event we also run an :doc:`/conf/australia/2024/unconference`."
 
-  social_venue: TBA
-  venue: Auditorium
+  social_venue: Oxford Scholar, 427 Swanston St, Melbourne, VIC 3000
+  venue: Melbourne City Conference Centre
   photos: TBD
-  mainroom: TBA
+  mainroom: Auditorium
   unconfroom: Price Hall
   projector_ratio: "16:9"
   job_fair_room: "Sponsor area"
@@ -164,10 +164,9 @@ sponsors:
   keystone:
   patron:
   publisher:
-  #  - name: atlassian
-  #    link: https://www.atlassian.com/
-  #    brand: Atlassian
-  #    width: 750px
+    - name: atlassian
+      link: https://www.atlassian.com/
+      brand: Atlassian
   second:
     - name: google
       link: https://www.google.com/
@@ -175,7 +174,6 @@ sponsors:
   first:
     - name: linux-australia
       link: https://linux.org.au/
-      width: 250px
       brand: Linux Australia
   in_kind:
     - name: rtd
@@ -185,13 +183,13 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: True
-flagcfp: True
+flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
-flagspeakersannounced: False
-flagrunofshow: False
-flaghasschedule: False
-flaghasunconf: False
+flagspeakersannounced: True
+flagrunofshow: True
+flaghasschedule: True
+flaghasunconf: True
 flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False
