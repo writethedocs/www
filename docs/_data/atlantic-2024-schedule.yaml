@@ -1,10 +1,10 @@
 writing_day:
-  - time: '10:30'
+  - time: '10:00'
     title: 'Platform opens'
     duration: '01:00'
-  - time: '11:00'
+  - time: '10:30'
     title: Morning introduction - Introduction to Writing Day & Project Introductions
-  - time: '11:30'
+  - time: '11:00'
     title: Team up and start the first session
   - time: '14:00'
     title: 'Snack break'
