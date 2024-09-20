@@ -1,0 +1,24 @@
+name: Spellcheck
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  workflow_dispatch:
+
+env:
+  BUILD_VIDEOS: true
+
+jobs:    
+  spellcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: codespell-project/actions-codespell@v2
+        name: Check spelling
+        with:
+          skip: "*.pdf,*.svg,*.js,*.map,*.css,*.scss,docs/_data/201[5|6|7]*,docs/_static_html/*"
+          ignore_words_file: "codespell/ignore.txt"
+          path: docs
