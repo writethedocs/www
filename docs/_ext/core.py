@@ -8,6 +8,7 @@ from yaml import YAMLError
 from .utils import load_yaml
 
 import logging
+import sys
 from datetime import datetime, time, timedelta
 
 try:
@@ -17,10 +18,22 @@ except ImportError:
 
 log = logging.getLogger(__name__)
 
+
+def get_24hour_time(dt):
+    return dt.strftime('%H:%M')
+
+
+def get_12hour_time(dt):
+    hour = dt.strftime('%I')
+    hour = hour.lstrip('0')
+    return f'{hour}:{dt.strftime("%M %p")}'
+
+
 TIME_FORMATS = {
-    '24h': '%H:%M',
-    '12h': '%-I:%M %p',
+    '24h': get_24hour_time,
+    '12h': get_12hour_time,
 }
+
 
 # Some DST timezones aren't "real" timezones.
 TIMEZONE_TRANSLATION_PYTZ = {
@@ -134,7 +147,7 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
                     )
                 if not display_timezones:
                     # In a single-tz schedule, render just naive time, first schedule item with TZ
-                    schedule_item['time'] = naive_item_start.strftime(TIME_FORMATS[data['time_format']])
+                    schedule_item['time'] = TIME_FORMATS[data['time_format']](naive_item_start)
                     if not naive_next_item_default_start and not data.get('flaghasfood'):
                         schedule_item['time'] += ' ' + data['tz']
                 if display_timezones:
@@ -142,7 +155,7 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
                     # Note that we need to combine with conf date to know whether there is DST.
                     aware_item_start = datetime.combine(conf_date, naive_item_start.time()).replace(tzinfo=conf_timezone)
                     schedule_item['time'] = '<br>'.join([
-                        aware_item_start.astimezone(tz).strftime(TIME_FORMATS[data['time_format']]) + ' ' + tz_name
+                        TIME_FORMATS[data['time_format']](aware_item_start.astimezone(tz)) + ' ' + tz_name
                         for tz_name, tz in display_timezones
                     ])
                 naive_next_item_default_start = naive_item_start + duration
