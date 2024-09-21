@@ -31,9 +31,7 @@ Full presentation schedule
 
 The conference website is now updated with the :doc:`schedule </conf/australia/{{year}}/schedule/>` for the main stage presentations, so you can start planning your time (and getting excited!) for the conference. 
 
-We're learning and adapting from our events from the past few years, so we're introducing a moderated Q&A session after each speaker. You'll have a chance to ask most of our speakers questions after the talk via our wonderful set of moderators.
-
-Now is a great time to buy your `tickets <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_ if you haven't already.
+We're learning and adapting from our events from the past few years, so we're introducing a moderated Q&A session with the speaker, after each talk. You'll have a chance to ask most of our speakers questions after the talk via our wonderful set of moderators.
 
 Join us for a group activity pre-conference
 --------------------------------------------
