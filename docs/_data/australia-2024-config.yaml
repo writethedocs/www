@@ -28,8 +28,8 @@ buttons:
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: Read our conference guide
   #     link: /welcome-wagon
-  #  - text: See the Schedule!
-  #    link: /schedule
+    - text: See the Schedule!
+      link: /schedule
     - text: Tickets
       link: /tickets
   #  - text: See the talks!
