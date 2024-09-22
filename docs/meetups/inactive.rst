@@ -28,7 +28,6 @@ Inactive groups
 * `Paris, France <https://www.meetup.com/Write-the-Docs-Paris/>`. Thank you François Violette for organizing.
 * `Ottawa, ON, Canada <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/>`. Thank you Andrew Johnston for organizing.
 * `Istanbul, Turkey <https://www.meetup.com/wtdistanbul/>`_. Thank you Uğur Arıcı for organizing.
-* `Dublin, Ireland <https://www.meetup.com/write-the-docs-ireland/>`_. Thank you Vladislava Grosu for organizing.
 * `Budapest, Hungary <https://www.meetup.com/budapest-technical-content-creators/>`_. Thank you Rob Gillespie for organizing.
 * `Seoul, Korea <https://www.meetup.com/write-the-docs-seoul/>`_. Thank you JiHwan Leo Hyun, SeungHo (Alan) Kim for organizing.
 
