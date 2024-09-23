@@ -167,10 +167,12 @@ sponsors:
     - name: atlassian
       link: https://www.atlassian.com/
       brand: Atlassian
+      width: 750px
   second:
     - name: google
       link: https://www.google.com/
       brand: Google
+      width: 450px
   first:
     - name: linux-australia
       link: https://linux.org.au/

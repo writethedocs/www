@@ -24,7 +24,9 @@ We're really excited about the `presentations <https://www.writethedocs.org/conf
    :template: {{year}}/speakers-simple-list.rst
 
 We hope there's something there for everyone to enjoy, and also something that will broaden your horizons a bit.
-We also have a couple of featured speakers this year, folks who we have invited to speak about their vast experiences with technical content, and also how they are seeing the whole user experience from the outside.
+
+This year, we also have a couple of featured speakers, folks who we have invited to speak about their vast experiences with technical content, and also how they are seeing the whole user experience from the outside. 
+We are super excited to have them present at our conference, and we think you will appreciate hearing from them too!
 
 Full presentation schedule
 ---------------------------
