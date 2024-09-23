@@ -250,3 +250,64 @@
     <li>Facilitating this workshop</li>
 
     </ul>'
+- title: Don’t make me think - the UX of Developer Experience
+  slug: don-t-make-me-think-the-ux-of-developer-experience-theresa-neate
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2024
+  speakers:
+  - name: Theresa Neate
+    slug: theresa-neate
+    twitter: 
+    website: 
+  abstract: '<p>In this talk I will discuss with you what Developer Experience (DX)
+    is and how it draws directly from User Experience (UX) guidelines and principles.
+    It is beautiful and intuitive and a joy to experience, very much like excellent
+    documentation.</p>
+
+    <p>As technical documentarians, you are also developer advocates. You advocate
+    TO developers and FOR developers. You have the privilege of contributing directly
+    to developers’ experience (DX), not only with your documentation but also with
+    their experience and perception of the wider product, system or tool the documentation
+    supports.</p>
+
+    <p>While we say in UX “Don’t Make me Think”, we in fact always think. When Daniel
+    Kahneman talks about “Thinking Fast and Slow”, it is your users’ Thinking Fast
+    system that shapes the developer experience of your product and its documentation.</p>
+
+    <p>What then, do Thinking Fast and Don’t Make me Think, have in common? And how
+    do these connect with UX, DX and documentation?</p>'
+- title: A view from the sidelines
+  slug: a-view-from-the-sidelines-gerry-gaffney
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2024
+  speakers:
+  - name: Gerry Gaffney
+    slug: gerry-gaffney
+    twitter: 
+    website: 
+  abstract: '<p>Everything is changing so fast that predictions are beginning to sound
+    like history lessons.</p>
+
+    <p>Once upon a time, jobs became redundant little by little. Switchboard operators
+    were replaced by automated exchanges. Typists and assembly line workers disappeared.
+    Now entire business models are on the brink of or in the midst of revolutionary
+    change. New assembly lines with AI overseers and automated quality assurance.
+    Software systems that write and review legal documents. Virtual researchers that
+    schedule and conduct interviews, analyse the results and make design recommendations.
+    News corporations that abandon old-style journalism in favour of prompted outputs
+    from compliant bots. Content created by machines predicting what the content would
+    be if humans were producing it.</p>
+
+    <p>Purveyors of AI systems try to reassure us (or themselves perhaps) that AI
+    and humans will continue to work hand-in-(what?) marching towards a brighter future.</p>
+
+    <p>And all the while AI''s environmental cost grows rapidly, perhaps exponentially.</p>
+
+    <p>Where should we position ourselves on these shifting sands? Will tech comms
+    people disappear like the switchboard operators of old? Will there be a "Write
+    the Docs" conference next year, in 5 years, in 10?</p>
+
+    <p>Without "skin in the game" Gerry is perhaps in a good position to offer a view
+    from the sidelines of the maelstrom.</p>'
