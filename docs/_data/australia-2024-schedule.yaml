@@ -7,7 +7,7 @@ talks_day1:
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    title: Featured speaker - TBC
+    title: don-t-make-me-think-the-ux-of-developer-experience-theresa-neate
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:05'
@@ -58,7 +58,7 @@ talks_day2:
     title: Doors open
     duration: '0:30'
   - duration: '0:30'
-    title: Featured speaker - TBC
+    title: a-view-from-the-sidelines-gerry-gaffney
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:05'
