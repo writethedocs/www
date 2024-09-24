@@ -1,0 +1,63 @@
+name: Ubuntu Build
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  workflow_dispatch:
+
+env:
+  BUILD_VIDEOS: true
+  NOKOGIRI_USE_SYSTEM_LIBRARIES: true  # for faster htmlproofer install
+
+
+jobs:
+  sphinx-ubuntu:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v5
+      with:
+        python-version: 3.8
+
+    - name: Cache python env
+      uses: actions/cache@v4
+      with:
+        path: ${{ env.pythonLocation }}
+        key: v2-${{ env.pythonLocation }}-${{ hashFiles('requirements.txt') }}
+        
+    - name: Install html-proofer
+      run: sudo gem install html-proofer -v '<4.4'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip wheel
+        pip install -r requirements.txt
+
+    - name: Build
+      uses: rickstaa/sphinx-action@master
+      with:
+        docs-folder: "./docs"
+        build-command: "sphinx-build -q -W -b dirhtml -d _build/doctrees . _build/html"
+
+    # Upload performance is awful on the many small files our build generates,
+    # so it's compressed locally before uploading
+    # we archive the html and set it as an artifact prior to checking the links.
+    # this allows for review should it fail.
+    - name: Compress site
+      run: tar -czf html.tar.gz docs/_build/html
+
+    - name: Archive site HTML
+      uses: actions/upload-artifact@v4
+      with:
+        name: html
+        path: html.tar.gz
+        
+    - name: Check links
+      if: success()
+      run:  |
+          htmlproofer --ignore-files "/404/,/2013/,/2014/,/2015/,/2016/,/2017/,/search\/index.html/" --allow-hash-href=true --enforce-https=false --ignore-missing-alt=true --disable-external=true docs/_build/html

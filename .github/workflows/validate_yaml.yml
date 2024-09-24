@@ -1,0 +1,31 @@
+name: Validate YAML
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  workflow_dispatch:
+
+env:
+  BUILD_VIDEOS: true
+
+jobs:
+  validate-yaml:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v5
+      with:
+        python-version: 3.8
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -U yamale ruamel.yaml
+
+    - name: Validate YAML
+      run: docs/_scripts/validate-yaml.sh
