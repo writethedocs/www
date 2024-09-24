@@ -67,7 +67,7 @@ Who are we looking for?
 
 The ideal organizer is someone who is friendly with an understanding of software or similar documentation. A big part of your role is welcoming people to the group and helping them make connections with other members. 
 
-Successful organizers know their local community well and undestand their tech scene. Whether you're coming into the role with connections to your local tech scene or hoping to make them through this experience, a passion for community-building is a must!
+Successful organizers know their local community well and understand their tech scene. Whether you're coming into the role with connections to your local tech scene or hoping to make them through this experience, a passion for community-building is a must!
 
 But you're not in this alone! We encourage you to apply even if you don't think you're a perfect match. We're here to help.
 
