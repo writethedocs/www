@@ -20,16 +20,16 @@ buttons:
   top:
   #   - text: Read our latest news
   #     link: /news/welcome
-    - text: Sponsor us
-      link: /sponsors/prospectus
+  #   - text: Sponsor us
+  #     link: /sponsors/prospectus
   #   - text: Submit a Talk
   #     link: /cfp
   #   - text: Date and ticket information
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: Read our conference guide
   #     link: /welcome-wagon
-  #  - text: See the Schedule!
-  #    link: /schedule
+    - text: See the Schedule!
+      link: /schedule
     - text: Tickets
       link: /tickets
   #  - text: See the talks!
@@ -167,10 +167,12 @@ sponsors:
     - name: atlassian
       link: https://www.atlassian.com/
       brand: Atlassian
+      width: 750px
   second:
     - name: google
       link: https://www.google.com/
       brand: Google
+      width: 450px
   first:
     - name: linux-australia
       link: https://linux.org.au/
