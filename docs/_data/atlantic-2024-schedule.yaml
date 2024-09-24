@@ -99,10 +99,8 @@ talks_day2:
     title: '<b>Sponsor Expo closes</b>'
   - duration: '0:20'
     title: '🍲 Snack break'
-  - duration: '0:30'
+  - duration: '0:50'
     title: ⚡️ Lightning Talks
-  - duration: '0:05'
-    title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: from-morphemes-to-manuscripts-how-linguistics-can-make-you-a-better-writer-chloe-guttmann
   - duration: '0:10'
