@@ -82,6 +82,7 @@ Code samples
 Formatting
 ~~~~~~~~~~
 
+- |:newspaper:| `Using callouts/admonitions in tech docs </blog/newsletter-october-2024/#using-callouts-admonitions-in-tech-docs>`__
 - |:newspaper:| `What to do about text wrapping </blog/newsletter-july-2019/#what-to-do-about-text-wrapping>`__
 - |:newspaper:| `Number formatting in data tables </blog/newsletter-april-2018/#number-formatting-in-data-tables>`__
 - |:newspaper:| `Formatting and updating images and screenshots </blog/newsletter-november-2017/#worth-it-images-screenshots>`__
@@ -140,6 +141,7 @@ Task-based writing
 API docs
 ~~~~~~~~
 
+- |:newspaper:| `Should APIs be documented with code? </blog/newsletter-october-2024/#should-apis-be-documented-with-code>`__
 - |:newspaper:| `API design with docs in mind </blog/newsletter-september-2024/#api-design-with-docs-in-mind>`__
 - |:movie_camera:| `Shuffle ball change: Sashay your way to clearer API documentation </videos/portland/2021/shuffle-ball-change-sashay-your-way-to-clearer-api-documentation-rachael-stavchansky/>`__
 - |:movie_camera:| `Write the API docs before the API exists </videos/prague/2019/write-the-api-docs-before-the-api-exists-ben-ahmady/>`__
@@ -271,6 +273,7 @@ Maintenance
 Jobs and careers
 ----------------
 
+- |:newspaper:| `Working as a contractor or freelancer </blog/newsletter-october-2024/#working-as-a-contractor-or-freelancer>`__
 - |:newspaper:| `Should Technical Communication Be Its Own Department? </blog/newsletter-may-2024/#should-technical-communication-be-its-own-department>`__
 - |:newspaper:| `What to do after surviving layoffs </blog/newsletter-may-2023/#what-to-do-after-surviving-layoffs>`__
 - |:newspaper:| `Knowledge transfer for documentarians </blog/newsletter-november-2022/#knowledge-transfer-for-documentarians>`__
@@ -605,6 +608,7 @@ User feedback
 
 Gathering it and acting on it.
 
+- |:newspaper:| `Managing mountains of feedback </blog/newsletter-october-2024/#managing-mountains-of-feedback>`__
 - |:newspaper:| `Collecting helpful user feedback </blog/newsletter-september-2022/#collecting-helpful-user-feedback>`__
 - |:movie_camera:| `Customer Feedback is the Fuel in our Engine </videos/prague/2021/customer-feedback-is-the-fuel-in-our-engine-kevin-hwang/>`__
 - |:newspaper:| `Gathering documentation feedback </blog/newsletter-july-2020/#gathering-documentation-feedback>`__
