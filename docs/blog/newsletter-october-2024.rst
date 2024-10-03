@@ -11,7 +11,7 @@ Hello hello, wonderful documentarians! I hope you all are able to find sources o
 
 The most recent conference was the Atlantic 2024 conference. If you missed it, or just want to recall the insights, check out the `videos from the conference <https://www.youtube.com/playlist?list=PLZAeFn6dfHpn8IckCiREggN0f9oWEMomW>`__. And once you've seen those, check out the next conference, Australia 2024, which just announced its `speakers and full schedule </conf/australia/2024/news/announcing-speakers-schedule/>`__. Be sure to grab a ticket for November 28–29 in Melbourne if you can.
 
-In other community news, the 2024 WTD Documentation Salary Survey - our 6th annual survey - will be open for submissions very soon! We're implementing a couple of frequently-requested usability improvements and are still ironing out a few issues, but keep an eye on the `survey website <https://salary-survey.writethedocs.org/>`__ and follow Write the Docs on Twitter and LinkedIn, where it will be announced as soon as it's ready.
+In other community news, the 2024 WTD Documentation Salary Survey -- our 6th annual survey -- will be open for submissions very soon! We're implementing a couple of frequently requested usability improvements and are still ironing out a few issues, but keep an eye on the `survey website <https://salary-survey.writethedocs.org/>`__ and follow Write the Docs on Twitter and LinkedIn, where it will be announced as soon as it's ready.
 
 Relatedly, the Write the Docs job board has been replaced. In its place, we have a `new sponsorship opportunity </sponsorship/jobs/>`__ for for companies looking to hire documentarians. We're still hoping to provide useful information about job openings, just closer to where our community is.
 
@@ -25,7 +25,7 @@ Resolving feedback on documentation can mean anything from making straightforwar
 
 * Tag feedback tickets with information about their required effort so that writers can take on the quick fixes as a mental break from more involved work. Schedule bigger tickets and critical issues alongside product work.
 
-* If it works with your release cadence, schedule time each month or quarter for a bug bash devoted entirely to addressing docs feedback.
+* If it works with your release cadence, schedule time each month or quarter for a "bug bash" devoted entirely to addressing docs feedback.
 
 * Filter feedback through customer-facing colleagues to identify high-quality requests for docs changes. When appropriate, consider diverting tickets that describe product problems, such as a confusing user interface or functionality, to other teams as requested improvements.
 
@@ -66,7 +66,7 @@ As a contractor working on site, you normally bill for hours on site based on yo
 Using callouts/admonitions in tech docs
 ---------------------------------------
 
-When it comes to creating clear and effective technical documentation, knowing when to use callouts and admonitions (boxes that stand out from the surrounding text) and avoiding overuse is key to creating user-friendly content. They can highlight important information and ensure your documentation remains accessible and easy to navigate.
+When it comes to creating clear and effective technical documentation, knowing when to use callouts and admonitions (sections, often boxes, that stand out from the surrounding text) and avoiding overuse is key to creating user-friendly content. They can highlight important information and ensure your documentation remains accessible and easy to navigate.
 
 Some style guides follow a tiered system to ensure proper use:
 
@@ -75,7 +75,7 @@ Some style guides follow a tiered system to ensure proper use:
 - Important: Information that, if missed, could lead to frustration or additional work.
 - Warning: Critical details about data loss or security risks, where overlooking the warning could cause significant problems.
 
-The key is moderation. Too many boxed notes, tips, or warnings can cause “admonition fatigue” and lead to readers skipping over important information. When deciding between boxed content or inline text, weigh the impact. If it’s crucial and might be missed, box it. Otherwise, integrating it into the main body ensures smoother flow and readability.
+The key is moderation. Too many individual notes, tips, or warnings can cause “admonition fatigue” and lead to readers skipping over important information. When deciding between separated content or inline text, weigh the impact. If it’s crucial and might be missed, make it stand out. Otherwise, integrating it into the main body ensures smoother flow and readability.
 
 By setting clear guidelines and using these tools purposefully, you can help users focus on what’s most important—without overwhelming them.
 
@@ -87,7 +87,7 @@ A recent question about documenting APIs in code in the `#documenting-apis chann
 
 The reasons given for separating docs and code included the idea that because docs in code relies on automated tools, their syntax is much less human-readable. It was also noted that modifying code might require specialized skills and privileges that some documentarians don't have. Having to compile and test an entire code source for a small docs change was also viewed as a barrier to entry, whereas a separate reference file means documentarians can work independently. 
 
-The responses focused on the benefits of automatic generation and how it meant the reference was much more likely to stay up-to-date, especially compared to maintaining API definitions by hand. They celebrated the dependence on the code. It was also seen as a way to meet developers where they already are and so lower their barriers to contributing. People advocating for docs in code also said they keep all formatting in code to a minimum, with anything more complex in a guide separate from the API reference.
+The responses focused on the benefits of automatic generation and how it meant the reference was much more likely to stay up to date, especially compared to maintaining API definitions by hand. They celebrated the dependence on the code. It was also seen as a way to meet developers where they already are and so lower their barriers to contributing. People advocating for docs in code also said they keep all formatting in code to a minimum, with anything more complex in a guide separate from the API reference.
 
 In the end, almost everyone agreed that the best solution is a single OpenAPI description that acts as a single source of truth for both the product and the docs, focusing on API design first. If this isn't possible, it comes down to your circumstances. If you and your fellow documentarians are code-literate and have access to the code, you may find it best to update API docs in the code itself. If making changes to the product code is difficult, you may need to make modifications to a generated reference or even mirror code changes in your own OpenAPI description.
 
