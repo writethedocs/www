@@ -9,7 +9,7 @@ Write the Docs Newsletter – October 2024
 
 Hello hello, wonderful documentarians! I hope you all are able to find sources of inspiration around you. The ideas coming from the Write the Docs community and conferences recently have provided me with hope for the future that I hope continues to inspire.
 
-The most recent conference was the Atlantic 2024 conference. If you missed it, or just want to recall the insights, check out the `videos from the conference <https://www.youtube.com/@writethedocs>`__. And once you've seen those, check out the next conference, Australia 2024, which just announced its `speakers and full schedule </conf/australia/2024/news/announcing-speakers-schedule/>`__. Be sure to grab a ticket for November 28–29 in Melbourne if you can.
+The most recent conference was the Atlantic 2024 conference. If you missed it, or just want to recall the insights, check out the `videos from the conference <https://www.youtube.com/playlist?list=PLZAeFn6dfHpn8IckCiREggN0f9oWEMomW>`__. And once you've seen those, check out the next conference, Australia 2024, which just announced its `speakers and full schedule </conf/australia/2024/news/announcing-speakers-schedule/>`__. Be sure to grab a ticket for November 28–29 in Melbourne if you can.
 
 In other community news, the 2024 WTD Documentation Salary Survey - our 6th annual survey - will be open for submissions very soon! We're implementing a couple of frequently-requested usability improvements and are still ironing out a few issues, but keep an eye on the `survey website <https://salary-survey.writethedocs.org/>`__ and follow Write the Docs on Twitter and LinkedIn, where it will be announced as soon as it's ready.
 
