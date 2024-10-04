@@ -7,9 +7,9 @@
 Write the Docs Newsletter – October 2024
 ########################################
 
-Hello hello, wonderful documentarians! I hope you all are able to find sources of inspiration around you. The ideas coming from the Write the Docs community and conferences recently have provided me with hope for the future that I hope continues to inspire.
+Hello hello, wonderful documentarians! I hope you all are able to find sources of inspiration around you. The ideas coming from the Write the Docs community and conferences recently have provided me with hope for the future.
 
-The most recent conference was the Atlantic 2024 conference. If you missed it, or just want to recall the insights, check out the `videos from the conference <https://www.youtube.com/playlist?list=PLZAeFn6dfHpn8IckCiREggN0f9oWEMomW>`__. And once you've seen those, check out the next conference, Australia 2024, which just announced its `speakers and full schedule </conf/australia/2024/news/announcing-speakers-schedule/>`__. Be sure to grab a ticket for November 28–29 in Melbourne if you can.
+Our most recent conference was the Atlantic 2024 conference. If you missed it, or just want to revisit, check out the `videos from the conference <https://www.youtube.com/playlist?list=PLZAeFn6dfHpn8IckCiREggN0f9oWEMomW>`__ and the `sketchnotes of every talk <https://www.flickr.com/photos/writethedocs/albums/72177720320644083>`__. And once you've seen those, check out the next conference, Australia 2024, which just announced its `speakers and full schedule </conf/australia/2024/news/announcing-speakers-schedule/>`__. Be sure to grab a ticket for November 28–29 in Melbourne if you can.
 
 In other community news, the 2024 WTD Documentation Salary Survey -- our 6th annual survey -- will be open for submissions very soon! We're implementing a couple of frequently requested usability improvements and are still ironing out a few issues, but keep an eye on the `survey website <https://salary-survey.writethedocs.org/>`__ and follow Write the Docs on Twitter and LinkedIn, where it will be announced as soon as it's ready.
 
@@ -48,11 +48,11 @@ Rates for technical writers vary widely and depend on many factors.
 * The type of work requested: Charge less for minor editing. Rewriting or creating new content costs more. Re-organizing content (information architecture) or, in a docs-as-code environment, setting up and working with a tool chain would command higher rates.
 * Your skills and experience: Highly skilled and experienced professionals can ask for higher rates.
 
-To calculate an hourly rate (in the US) determine the salary for an equivalent position, divide that by 52x40, and then double or triple that to compensate for benefits. Check job postings and the  `2023 WTD Salary Survey <https://www.writethedocs.org/surveys/salary-survey/2023/>`_ for salaries. Freelancers and consultants can ask for higher rates than contractors.
+To calculate an hourly rate (in the US) determine the salary for an equivalent position, divide that by 52x40, and then double or triple that to compensate for benefits. Check job postings and the  `2023 WTD Salary Survey <https://www.writethedocs.org/surveys/salary-survey/2023/>`_ for salaries.
 
 **Can I assume that the client pays taxes?**
 
-If you’re working as a W2 contractor in the US, the agency takes out federal taxes. As a freelancer (1099), you pay all taxes. In other countries, check your local tax requirements, which vary widely.
+If you’re working as a W2 contractor in the US, the agency takes out federal taxes. As a freelancer in the US (1099), you pay all taxes. In other countries, check your local tax requirements, which vary widely.
 
 **How often will I get paid?**
 
