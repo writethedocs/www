@@ -51,15 +51,18 @@ We have loose and fitted options from different fabrics, and you can choose the 
 
 The campaign will run in 3-day batches, with shipping from the USA or Europe.
 
-Attend Write the Docs Australia 
--------------------------------
+Upcoming conferences
+--------------------
 
-Don’t forget our `Australia conference`_ on **Nov 28-29, 2024**.
-
+Our next event is the `Australia conference`_ on **Nov 28-29, 2024**.
 We’re also looking for more sponsors to make our other events just as magical as this year’s Atlantic event. You can see all our `sponsorship options`_ on our website.
+
+Write the Docs `Portland 2025`_, will take place on May 4-6 in Portland, Oregon.
+We plan to open the Call for Papers later in the year.
 
 .. _Australia conference: https://www.writethedocs.org/conf/australia/2024/
 .. _sponsorship options: https://www.writethedocs.org/sponsorship/
+.. _Portland 2025: https://www.writethedocs.org/conf/portland/2025/
 
 Write the Docs Slack
 --------------------
