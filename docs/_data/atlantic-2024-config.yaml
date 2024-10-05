@@ -39,8 +39,8 @@ buttons:
 #      link: /schedule
     # - text: Watch the Live Stream
     #   link: /livestream
-    - text: See the sketchnotes
-      link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720320644083
+    - text: Read the recap
+      link_absolute: https://www.writethedocs.org/conf/atlantic/2024/news/thank-you-recap/
     - text: Watch the videos!
       link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpn8IckCiREggN0f9oWEMomW
   bottom:
@@ -60,8 +60,8 @@ buttons:
     #   link: /schedule
     # - text: Watch the Live Stream
     #   link: /livestream
-    - text: See the sketchnotes
-      link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720320644083
+    - text: Read the recap
+      link_absolute: https://www.writethedocs.org/conf/atlantic/2024/news/thank-you-recap/
     - text: Watch the videos!
       link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpn8IckCiREggN0f9oWEMomW
 
