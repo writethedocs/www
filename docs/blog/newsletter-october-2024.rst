@@ -1,6 +1,6 @@
 :og:image: https://www.writethedocs.org/_static/logo-opengraph.png
 
-.. post:: October 3, 2022
+.. post:: October 3, 2024
   :tags: newsletter
 
 ########################################
