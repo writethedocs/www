@@ -50,7 +50,7 @@ sys.path.append(os.getcwd())  # noqa
 # https://about.readthedocs.com/blog/2024/07/addons-by-default/
 
 # Define the canonical URL if you are using a custom domain on Read the Docs
-html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "www.writethedocs.org")
+html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "https://www.writethedocs.org")
 
 # Tell Jinja2 templates the build is running on Read the Docs
 if os.environ.get("READTHEDOCS", "") == "True":
