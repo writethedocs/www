@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 :banner: _static/conf/images/headers/venue.png
 
-.. post:: Oct 3, 2024
+.. post:: Oct 7, 2024
    :tags: recap, thanks, {{year}}, {{shortcode}}-{{year}}
 
 Conference highlights
