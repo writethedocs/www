@@ -35,6 +35,13 @@
               </div>
             {% endif %}
 
+            {# Other internet presence  #}
+            {% if meetup['website'] %}
+              <div>
+                Elsewhere: <a href="{{ meetup['website']}}">{{ meetup['website'] }}</a>
+              </div>
+            {% endif %}
+
             {# On twitter #}
             {% if meetup['twitter'] %}
               <div>
