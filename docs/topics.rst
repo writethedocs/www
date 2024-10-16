@@ -82,6 +82,7 @@ Code samples
 Formatting
 ~~~~~~~~~~
 
+- |:newspaper:| `Using callouts/admonitions in tech docs </blog/newsletter-october-2024/#using-callouts-admonitions-in-tech-docs>`__
 - |:newspaper:| `What to do about text wrapping </blog/newsletter-july-2019/#what-to-do-about-text-wrapping>`__
 - |:newspaper:| `Number formatting in data tables </blog/newsletter-april-2018/#number-formatting-in-data-tables>`__
 - |:newspaper:| `Formatting and updating images and screenshots </blog/newsletter-november-2017/#worth-it-images-screenshots>`__
@@ -140,6 +141,8 @@ Task-based writing
 API docs
 ~~~~~~~~
 
+- |:newspaper:| `Should APIs be documented with code? </blog/newsletter-october-2024/#should-apis-be-documented-with-code>`__
+- |:newspaper:| `API design with docs in mind </blog/newsletter-september-2024/#api-design-with-docs-in-mind>`__
 - |:movie_camera:| `Shuffle ball change: Sashay your way to clearer API documentation </videos/portland/2021/shuffle-ball-change-sashay-your-way-to-clearer-api-documentation-rachael-stavchansky/>`__
 - |:movie_camera:| `Write the API docs before the API exists </videos/prague/2019/write-the-api-docs-before-the-api-exists-ben-ahmady/>`__
 - |:newspaper:| `Documenting APIs with "interesting" design choices </blog/newsletter-february-2019/#documenting-apis-with-interesting-design-choices>`__
@@ -250,7 +253,6 @@ Legacy docs
 - |:movie_camera:| `Legacy content from various perspectives </videos/australia/2020/legacy-content-from-various-perspectives-marcelina-haftka/>`__
 - |:movie_camera:| `When Agile Fails: Working on Large Documentation Projects </videos/australia/2020/when-agile-fails-working-on-large-documentation-projects-lana-brindley/>`__
 - |:movie_camera:| `How to tear down existing documentation and rewrite docs that actually work </videos/prague/2018/how-to-tear-down-existing-documentation-and-rewrite-docs-that-actually-work-alexandra-white/>`__
-- |:movie_camera:| `Tackling technical debt in the docs </videos/prague/2018/tackling-technical-debt-in-the-docs-louise-fahey/>`__
 - |:movie_camera:| `Where do I start? The art and practice of documentation triage </videos/portland/2018/where-do-i-start-the-art-and-practice-of-documentation-triage-neal-kaplan/>`__
 - |:movie_camera:| `Rewrite the Docs!: Field Notes from the Radical IT department </videos/portland/2018/rewrite-the-docs-field-notes-from-the-radical-it-department-camille-acey/>`__
 - |:movie_camera:| `Deprecate and destroy: documenting your software’s last days </videos/eu/2017/deprecate-and-destroy-documenting-your-software-s-last-days-daniel-d-beck/>`__
@@ -271,6 +273,7 @@ Maintenance
 Jobs and careers
 ----------------
 
+- |:newspaper:| `Working as a contractor or freelancer </blog/newsletter-october-2024/#working-as-a-contractor-or-freelancer>`__
 - |:newspaper:| `Should Technical Communication Be Its Own Department? </blog/newsletter-may-2024/#should-technical-communication-be-its-own-department>`__
 - |:newspaper:| `What to do after surviving layoffs </blog/newsletter-may-2023/#what-to-do-after-surviving-layoffs>`__
 - |:newspaper:| `Knowledge transfer for documentarians </blog/newsletter-november-2022/#knowledge-transfer-for-documentarians>`__
@@ -295,6 +298,7 @@ Hiring
 Getting hired
 ~~~~~~~~~~~~~
 
+- |:newspaper:| `Handling employment gaps </blog/newsletter-september-2024/#handling-employment-gaps>`__
 - |:newspaper:| `Setting Up for Success as a Neurodivergent Person </blog/newsletter-july-2023/#setting-up-for-success-as-a-neurodivergent-person>`__
 - |:newspaper:| `Extreme take-home tests </blog/newsletter-june-2023/#extreme-take-home-tests>`__
 - |:newspaper:| `Building an API portfolio </blog/newsletter-april-2023/#building-an-api-portfolio>`__
@@ -376,6 +380,7 @@ Including onboarding new writers
 Learning...
 ~~~~~~~~~~~
 
+- |:newspaper:| `Technical skills for documentarians </blog/newsletter-july-2024/#technical-skills-for-documentarians>`__
 - |:movie_camera:| `The Art of Asking Questions </videos/prague/2022/the-art-of-asking-questions-jeff-smith/>`__
 - |:newspaper:| `What we’re learning in #learn-tech-writing </blog/newsletter-october-2020/#what-we-re-learning-in-learn-tech-writing>`__
 - |:movie_camera:| `Read the Rules: What technical writers can learn from board game design </videos/portland/2020/read-the-rules-what-technical-writers-can-learn-from-board-game-design-matthew-baldwin/>`__
@@ -603,6 +608,7 @@ User feedback
 
 Gathering it and acting on it.
 
+- |:newspaper:| `Managing mountains of feedback </blog/newsletter-october-2024/#managing-mountains-of-feedback>`__
 - |:newspaper:| `Collecting helpful user feedback </blog/newsletter-september-2022/#collecting-helpful-user-feedback>`__
 - |:movie_camera:| `Customer Feedback is the Fuel in our Engine </videos/prague/2021/customer-feedback-is-the-fuel-in-our-engine-kevin-hwang/>`__
 - |:newspaper:| `Gathering documentation feedback </blog/newsletter-july-2020/#gathering-documentation-feedback>`__
@@ -624,6 +630,7 @@ Measuring docs success
 Metrics
 ~~~~~~~
 
+- |:newspaper:| `How to think about docs metrics </blog/newsletter-july-2024/#how-to-think-about-docs-metrics>`__
 - |:newspaper:| `Do Readability Scores Have Value? </blog/newsletter-april-2024/#do-readability-scores-have-value>`__
 - |:newspaper:| `Measuring Docs Quality </blog/newsletter-november-2023/#measuring-docs-quality>`__
 - |:movie_camera:| `Measuring the impact of your documentation </videos/prague/2018/measuring-the-impact-of-your-documentation-liam-keegan/>`__
@@ -634,6 +641,7 @@ Metrics
 Culture and community
 ---------------------
 
+- |:newspaper:| `The benefits of networking </blog/newsletter-july-2024/#the-benefits-of-networking>`__
 - |:movie_camera:| `Dealing with Unpleasant People in Open-Source Projects </blog/newsletter-september-2023/#dealing-with-unpleasant-people-in-open-source-projects>`__
 - |:movie_camera:| `A guide to getting started in open source </videos/portland/2021/a-guide-to-getting-started-in-open-source-abigail-mccarthy/>`__
 - |:movie_camera:| `5 things I learned from my first open source contribution </videos/australia/2020/5-things-i-learned-from-my-first-open-source-contribution-andrea-szollossi/>`__
@@ -753,6 +761,7 @@ Working with other roles
 
 Including product managers, higher-ups, etc.
 
+- |:newspaper:| `Dealing with difficult-to-understand drafts </blog/newsletter-september-2024/#dealing-with-difficult-to-understand-drafts>`__
 - |:newspaper:| `Helpful Questions for Gathering Information </blog/newsletter-december-2023/#helpful-questions-for-gathering-information>`__
 - |:newspaper:| `Getting Info from Others </blog/newsletter-july-2023/#getting-info-from-others>`__
 - |:newspaper:| `Setting boundaries </blog/newsletter-april-2023/#setting-boundaries>`__

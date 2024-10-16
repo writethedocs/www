@@ -67,7 +67,7 @@ Short advice for writing error messages
 ---------------------------------------
 This month, the hivemind fielded a request for advice about writing good error messages. Attached to the request, though, was a familiar (and vital) caveat: They needed short, easy-to-digest pointers, rather than longer, meatier reads, in an effort to boost the odds that their developer teams would actually find the time to read what they shared.
 
-One of the top suggestions was Kate Voss's `Error Messages talk at WtD Portland 2017 <https://www.writethedocs.org/videos/na/2017/error-messages-being-humble-human-and-helpful-will-make-users-happy-kate-voss/>`_ We'll admit that a 15-minute video doesn't fit the "short" parameter...but Kate's own distillation of her talk brings it down to three concise rules: Humble, Helpful, and Human.
+One of the top suggestions was Kate Voss's `Error Messages talk at WTD Portland 2017 <https://www.writethedocs.org/videos/na/2017/error-messages-being-humble-human-and-helpful-will-make-users-happy-kate-voss/>`_ We'll admit that a 15-minute video doesn't fit the "short" parameter...but Kate's own distillation of her talk brings it down to three concise rules: Humble, Helpful, and Human.
 
 * **Humble**: apologize and acknowledge the error
 * **Helpful**: make sure the error message tells users what to do next

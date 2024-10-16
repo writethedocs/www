@@ -10,14 +10,11 @@ Website Stats
 -------------
 
 Our website currently gets {{ website_visits }}+ visits a month.
+
 The best idea of who is visiting our site is the information we have from our conferences.
 Our audience is made up of:
 
-- Technical writers (60%)
-- Developers (10%)
-- Support staff (10%)
-- Managers (10%)
-- Students, enthusiasts, and other folks (10%)
+.. include:: /include/demographics.rst
 
 Sidebar Advertising
 -------------------

@@ -69,31 +69,31 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
 
 
    ------------------
-   TTILE OF ARTICLE 1
+   TITLE OF ARTICLE 1
    ------------------
 
    CONTENT.
 
    ------------------
-   TTILE OF ARTICLE 2
+   TITLE OF ARTICLE 2
    ------------------
 
    CONTENT.
 
    ------------------
-   TTILE OF ARTICLE 3
+   TITLE OF ARTICLE 3
    ------------------
 
    CONTENT.
 
    ------------------
-   TTILE OF ARTICLE 4
+   TITLE OF ARTICLE 4
    ------------------
 
    CONTENT.
 
    ----------------
-   From Our Sponsor
+   From our sponsor
    ----------------
 
    This month’s newsletter is sponsored by SPONSOR:
@@ -122,15 +122,13 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
    *Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
 
    ------------------
-   Featured Job Posts
+   Featured job posts
    ------------------
 
-   - `TITLE <https://jobs.writethedocs.org/LINK>`__, COMPANY (LOCATION)
-
-   *To apply for these jobs and more, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
+  TODO
 
    ----------------
-   Events Coming Up
+   Events coming up
    ----------------
 
    - 00 MONTH, TIME ZONE (location) - `TITLE <https://www.meetup.com/LINK>`__
@@ -151,7 +149,7 @@ When the content for the newsletter is all in place, upload the file to a new br
 
 Allow 1-2 days for folks to review and leave comments. (Not *everyone* has to review it, but 2-3 sets of extra eyeballs is ideal.)
 
-Resolve all comments, and then when you're ready to send it... 
+Resolve all comments, and then when you're ready to send it...
 
 Ship the newsletter (0 days before shipping)
 ********************************************

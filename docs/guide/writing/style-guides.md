@@ -4,12 +4,6 @@ A style guide contains a set of standards for writing and designing content. It 
 
 A consistent tone and style makes your content easier to read, reducing your users' [cognitive load](https://en.wikipedia.org/wiki/Cognitive_load) and increasing their confidence in the content's authority.
 
-
-Some content that used to live on this page has moved. See:
-
-- [Accessibility guidelines](https://www.writethedocs.org/guide/writing/accessibility)
-- [Reducing bias in your writing](https://www.writethedocs.org/guide/writing/reducing-bias)
-
 ## Structure of this page
 
 - General style guide information and examples
@@ -23,15 +17,12 @@ A style guide can be something as simple as a list of decisions you've made abou
 
 You can certainly create a style guide of your own. For the sake of simplicity, this approach might work if you're a lone writer or just starting a small docs group. But neither software nor its documentation operates in a vacuum, so it's a good idea to consult other resources as well. Working from an existing style guide can also help you figure out which things matter in your style guide.
 
-
-
 ### How-to articles for writing a style guide
 
 - [Creative Blog — Create a website style guide](http://www.creativebloq.com/design/create-website-style-guide-6123030)
 - [Gather Content — Developing a Content style guide](http://blog.gathercontent.com/tone-of-voice-guide)
 - [HubSpot — How to Create a Writing style guide Built for the Web](http://blog.hubspot.com/blog/tabid/6307/bid/31247/The-Simple-Template-for-a-Thorough-Content-Style-Guide.aspx)
 - [Meet Content — Editorial Style for the Web](http://meetcontent.com/blog/elements-of-editorial-style-for-the-web/)
-- [Stanford — Creating a web style guide](https://swsblog.stanford.edu/blog/creating-web-style-guide-cardinal-work)
 - [Techwhirl – Developing a Style Guide for Technical Publications](http://techwhirl.com/developing-a-departmental-style-guide/)
 
 ## Traditional writing style guide resources
@@ -71,43 +62,18 @@ Classics for software documentation include:
 - [Princeton Editorial Style Guide](https://communications.princeton.edu/guides-tools/princeton-editorial-style-guide)
 - [Federal Plain Language Style Guide](https://www.plainlanguage.gov/guidelines/)
 
-
 ### Style guides from open source projects
 
 - [Open SUSE Style Guide](https://documentation.suse.com/style/current/single-html/docu_styleguide/)
 - [gnome Style Guide](https://developer.gnome.org/documentation/guidelines/devel-docs.html)
 - [Write the Docs Official Website Style Guide](/guide/writing/style-guides)
 
-
 ## Thinking about accessibility and bias
 
-It's important to consider accessibility and biases in your style guide to ensure that all readers can understand the content you produce. 
+It's important to consider accessibility and biases in your style guide to ensure that all readers can understand the content you produce. For details, see:
 
-### Writing for accessibility
-
-Writing for accessibility includes making sure copy can be read by screenreaders, content organization, style and color of text emphasis, and more.
-
-- [Atlassian Design System - Inclusive writing reference](https://atlassian.design/content/inclusive-writing)
-- [MailChimp's writing style guide](https://styleguide.mailchimp.com/writing-for-accessibility/)
-- [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
-- [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) by bitsofcode
-- [Microsoft Style Guide Accessibility Terms](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)
-
-
-Relevant talks from Write the Docs:
-
-- [A11y-Friendly Documentation](https://www.writethedocs.org/videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/) at Write the Docs Prague 2018
-- [Inclusive Tech Docs - TechComm Meets Accessibility](http://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015
-
-### Reducing bias in your writing
-
-You can reduce bias in your writing by considering the meanings and origins of your word choices and how those might be perceived or understood by your readers.
-Even thinking twice about what example user names you include in your documentation can significantly reduce bias in your documentation.
-Fortunately, resources are increasingly available to help you with this kind of attention to your writing.
-
-Relevant talk from Write the Docs:
-
-- [What They Don't Tell You About Creating New Style Guides](https://www.writethedocs.org/videos/portland/2018/what-they-don-t-tell-you-about-creating-new-style-guides-thursday-bram/) at WTD Portland 2018
+- [Accessibility guidelines](https://www.writethedocs.org/guide/writing/accessibility)
+- [Reducing bias in your writing](https://www.writethedocs.org/guide/writing/reducing-bias)
 
 ## Developer documentation and APIs
 

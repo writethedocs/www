@@ -20,7 +20,7 @@ Attend a conference
 
 We have in-person and virtual conferences around the world:
 
-   - :doc:`Portland 2024 </conf/portland/2024/index>`, **April 14-16, 2024**, Portland, Oregon, United States
+   - :doc:`Portland 2025 </conf/portland/2025/index>`, **May 4-6, 2025**, Portland, Oregon, United States
    - :doc:`Atlantic 2024 </conf/atlantic/2024/index>`, **September 22-24**, Virtual - CEST and EDT
    - :doc:`Australia 2024 </conf/australia/2024/index>`, **November 28-29**, Melbourne, Australia
 
@@ -41,7 +41,6 @@ Find or advertise a job
 
 Work with other documentarians.
 
-* Find or post a `docs related job <https://jobs.writethedocs.org/>`__ on our Job Board
 * Read our :doc:`Hiring Guide </hiring-guide/index>` to get started in the industry
 * Read our previous `salary survey </surveys/>`__ information to get a sense of the industry pay
 

@@ -9,11 +9,55 @@ import ablog
 
 # Only for windows compatibility - Forces default encoding to UTF8, which it may not be on windows
 if os.name == 'nt':
-    reload(sys)
-    sys.setdefaultencoding('UTF8')
+    # monkeypatches sphinxcontrib.datatemplates so it uses utf-8 as the encoding
+    # instead of cp1252 when opening a file. using sys.setdefaultencoding does
+    # not alter the encoding when opening a file for reading.
+
+    from sphinxcontrib.datatemplates import directive
+    from xml.etree import ElementTree as ET
+    import mimetypes
+
+    old_load_data = directive.DataTemplateLegacy._load_data
+
+    def _load_data(self, env, data_source, encoding):
+        rel_filename, filename = env.relfn2path(data_source)
+        if data_source.endswith('.yaml'):
+            return self._load_yaml(filename, 'utf-8')
+        elif data_source.endswith('.json'):
+            return self._load_json(filename, 'utf-8')
+        elif data_source.endswith('.csv'):
+            return self._load_csv(filename, 'utf-8')
+        elif "xml" in mimetypes.guess_type(data_source)[0]:
+            # there are many XML based formats
+            return ET.parse(filename).getroot()
+        else:
+            raise NotImplementedError('cannot load file type of %s' %
+                                      data_source)
+
+
+    directive.DataTemplateLegacy._load_data = _load_data
+    setattr(
+        sys.modules['sphinxcontrib.datatemplates.directive'].DataTemplateLegacy,
+        '_load_data',
+        _load_data
+    )
 
 
 sys.path.append(os.getcwd())  # noqa
+
+
+# Updates for RTD changes
+# https://about.readthedocs.com/blog/2024/07/addons-by-default/
+
+# Define the canonical URL if you are using a custom domain on Read the Docs
+html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "https://www.writethedocs.org")
+
+# Tell Jinja2 templates the build is running on Read the Docs
+if os.environ.get("READTHEDOCS", "") == "True":
+    if "html_context" not in globals():
+        html_context = {}
+    html_context["READTHEDOCS"] = True
+
 
 from _ext.core import (
     render_rst_with_jinja, override_template_load_context, set_html_context, unset_html_context
@@ -28,6 +72,7 @@ exclude_patterns = [
     'include',
     #'_data',
     'node_modules',
+    'videos/prague/2018/tackling-technical-debt-in-the-docs-louise-fahey.rst',
 ]
 
 html4_writer = True
@@ -165,7 +210,7 @@ suppress_warnings = ['image.nonlocal_uri']
 
 global_sponsors = yaml.safe_load("""
 - name: gitbook
-  link: https://www.gitbook.com/?utm_campaign=launch&utm_medium=display&utm_source=write_the_docs&utm_content=ad 
+  link: https://www.gitbook.com/?utm_campaign=launch&utm_medium=display&utm_source=write_the_docs&utm_content=ad
   brand: GitBook
   comment: Community sponsor
 """)
@@ -173,22 +218,16 @@ global_sponsors = yaml.safe_load("""
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
     'newsletter_subs': '10,000',
-    'slack_members': '20,000',
+    'slack_members': '22,500',
     'website_visits': '20,000',
     'global_sponsors': global_sponsors,
     'cfp_variables': cfp_variables,
-    'slack_join': "https://join.slack.com/t/writethedocs/shared_invite/zt-12k7dh46o-eNMS1sHejK2OiiBfnBf6hw",
+    'slack_join': "https://join.slack.com/t/writethedocs/shared_invite/zt-2le6owut0-0WqJ3z5dtQyrIerk97YNlw",
     'slack_form': "https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform?usp=sf_link",
 }
 
 if build_videos:
 
-    if os.environ.get('MEETUP_API_KEY'):
-        try:
-            from _ext.meetup_events import main as meetup_main
-            html_context.update(meetup_main())
-        except:
-            print('Could not get meetup events.')
     html_context.update(videos.main())
 
 notfound_no_urls_prefix = True
@@ -215,6 +254,5 @@ def setup(app):
     app.add_directive('datatemplate-video', videos.DataTemplateVideo)
     app.add_css_file('css/global-customizations.css')
     app.add_css_file('css/survey.css')
-    app.add_js_file('js/jobs.js')
 
     app.config.wtd_cache = {}

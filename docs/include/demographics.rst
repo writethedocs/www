@@ -1,0 +1,5 @@
+- Technical Writers (75%)
+- Managers (10%)
+- Developers (5%)
+- Support Staff (5%)
+- Community Contributors, Enthusiasts & Other Folks (5%)

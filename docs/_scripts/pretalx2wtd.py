@@ -109,10 +109,12 @@ def retrieve_speaker_info(speaker_codes, http_headers, pretalx_slug):
     return result
 
 if __name__ == '__main__':
+    year='2024'
+    place="Australia"
     convert_to_yaml(
-        year='2024',
-        series='Write the Docs Portland',
-        series_slug='portland',
-        yaml_output='../_data/portland-2024-sessions.yaml',
-        pretalx_slug='wtd-portland-2024'
+        year,
+        series='Write the Docs '+place,
+        series_slug=place.lower(),
+        yaml_output='../_data/'+place.lower()+'-'+year+'-sessions.yaml',
+        pretalx_slug='wtd-'+place.lower()+'-'+year
     )

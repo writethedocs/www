@@ -19,7 +19,7 @@ Moving swiftly on - it's been a month of great conversations on Slack, so let's 
 Job listings and managing your assumptions
 ------------------------------------------
 
-How should you approach a job search when you're more of the "writer who quickly learns technical topics" than the "developer who likes to write" sort of technical writer? February's conversation on this subject included tips for targeting and expanding your search, as well a discusssion about avoiding the limits of your own assumptions.
+How should you approach a job search when you're more of the "writer who quickly learns technical topics" than the "developer who likes to write" sort of technical writer? February's conversation on this subject included tips for targeting and expanding your search, as well a discussion about avoiding the limits of your own assumptions.
 
 In terms of tips, try searching for job listings that mention more traditional tech writer tools, like MadCap Flare. These jobs may involve more focus on writing and less focus on programming experience. You could also search for different job titles: tech-writing-adjacent roles like UI/UX writer, content designer or content strategist, technical editor, information designer, documentation specialist, and product writer or product education.
 

@@ -6,8 +6,6 @@ Call for Proposals
 G'day fellow documentarians! It's that time of the year again.
 We’re very excited to announce that we are now accepting talk proposals for our next {{ city }} conference, coming up on {{date.main}}.
 
-As part of returning to an in-person conference, we're also introducing a new and more detailed :doc:`health and safety policy </conf/{{shortcode}}/{{year}}/health/>`. 
-
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you!
 Read on to learn more about the goals of the conference and what we look for in talk proposals.
 

@@ -52,12 +52,12 @@ clean:
 	rm -rf $(BUILDDIR)/*
 
 html:
-	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/html
+	$(SPHINXBUILD) -j auto -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/html
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 
 livehtml:
-	sphinx-autobuild --port 8888 --watch _data -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/html
+	sphinx-autobuild --port 8888 -j auto --watch _data -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/html
 
 oldhtml:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml

@@ -52,7 +52,7 @@ If you're a lone writer, you've probably been in the unenviable position of not 
 ************************************************
 Defining developer relations/evangelism/advocacy
 ************************************************
-This month, someone asked a question which many of us have wondered about, at one point or another: "What does a developer advocate or evangelist actually do?" (You may have even wondered this _as_ a developer advocate/evangelist...)
+This month, someone asked a question which many of us have wondered about, at one point or another: "What does a developer advocate or evangelist actually do?" (You may have even wondered this *as* a developer advocate/evangelist...)
 
 The ensuing conversation made it clear that whether you call it developer relations (DevRel), developer evangelism, or developer advocacy, it can mean a lot of different things. But some common themes emerged:
 
@@ -61,7 +61,7 @@ The ensuing conversation made it clear that whether you call it developer relati
 * The line between "evangelist" and "advocate" gets blurry. Often, though, the evangelist side is about bringing the product out to the community, while the advocate side focuses on bringing the community's voice back to the product team.
 * Although these roles may have gotten their start in the open source community, they're becoming increasingly common across the industry.
 
-For further reading on the topic, this Medium post has lots of good thoghts: `https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b <https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b>`_
+For further reading on the topic, this Medium post has lots of good thoughts: `https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b <https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b>`_
 
 *************************
 Upcoming community events

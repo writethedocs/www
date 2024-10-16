@@ -35,6 +35,10 @@ Jennifer Appleby
 
 {% include "bios/jenniferau.rst" %}
 
+Shiham Jamaldeen
+~~~~~~~~~~~~~~~~~~
+
+{% include "bios/shiham.rst" %}
 
 
 Primary Roles
@@ -43,15 +47,14 @@ Primary Roles
 You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/event-roles` doc.
 
 * **Conference chair** - Swapnil Ogale
-* **Swag coordinator** - Mikey Ariel
-* **Speaker wrangler** - Swapnil Ogale
+* **Swag coordinator** - Mikey Ariel and Shiham Jamaldeen
+* **Speaker wrangler** - Jared Morgan
 * **Infrastructure chair** - Samuel Wright
-* **Lightning Talk coordinator** - TBA
+* **Lightning Talk coordinator** - Felicity Brand
 * **Communication chair** - Swapnil Ogale
-* **Writing Day coordinator** - Felicity Brand
 * **Volunteer coordinator** - TBA
 * **Sponsorship** - Swapnil Ogale
-* **Unconference coordinator** - Jennifer Appleby
+* **Unconference coordinator** - TBA
 * **Emcee** - Jared Morgan
-* **Welcome Wagon coordinators** - TBA
+* **Welcome Wagon coordinators** - Shiham Jamaldeen and Shubhangi Verma
 * **Social media chair** - TBA

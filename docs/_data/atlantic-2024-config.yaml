@@ -27,43 +27,43 @@ buttons:
     #  link: /welcome-wagon
     #- text: See the Schedule!
     #  link: /schedule
-    - text: Tickets
-      link: /tickets
-    - text: Sponsor us
-      link: /sponsors/prospectus
+    # - text: Ticket
+    #   link: /tickets
+    #- text: Sponsor us
+    #  link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
-    #- text: See the talks!
-    #  link: /speakers
-    #- text: See the Schedule!
-    #  link: /schedule
+#    - text: See the talks!
+#      link: /speakers
+#    - text: See the Schedule!
+#      link: /schedule
     # - text: Watch the Live Stream
     #   link: /livestream
-    # - text: See the sketchnotes
-    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157720128594755
-    #- text: Watch the videos!
-    #  link_absolute: https://youtube.com/playlist?list=PLZAeFn6dfHplddJfvbke1bpUzZGozb2Yj&si=AOwsHHgwGEXqbUm0
+    - text: Read the recap
+      link_absolute: https://www.writethedocs.org/conf/atlantic/2024/news/thank-you-recap/
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpn8IckCiREggN0f9oWEMomW
   bottom:
     # - text: Welcome to our conference
     #   link: /news/welcome
-    #- text: See the Schedule!
-    #  link: /schedule
-    - text: Sponsor the conference
-      link: /sponsors/prospectus
+#    - text: See the Schedule!
+#      link: /schedule
+    # - text: Sponsor the conference
+    #   link: /sponsors/prospectus
 #    - text: See the talks!
 #      link: /speakers
-    - text: Buy a Ticket!
-      link: /tickets
+    # - text: Buy a Ticket!
+    #   link: /tickets
     # - text: Prepare with the Welcome Wagon
     #   link: /welcome-wagon
     # - text: See the schedule!
     #   link: /schedule
     # - text: Watch the Live Stream
     #   link: /livestream
-    # - text: Browse the photos
-    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
-    #- text: Watch the videos!
-    #  link_absolute: https://youtube.com/playlist?list=PLZAeFn6dfHplddJfvbke1bpUzZGozb2Yj&si=AOwsHHgwGEXqbUm0
+    - text: Read the recap
+      link_absolute: https://www.writethedocs.org/conf/atlantic/2024/news/thank-you-recap/
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpn8IckCiREggN0f9oWEMomW
 
 tickets:
   concierge:
@@ -114,22 +114,22 @@ date:
     #summary: Join us for the Writing Day and Welcome Reception. The first official day of the conference is full of chances to interact with other documentarians.
     icon: writing
     dotw: Sunday
-    writing_day_time: 12:00-18:00
+    writing_day_time: 10:30-17:00
   day_three:
     event: Conference Day 1
     date: September 23
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Monday
-    talk_time: 12:00-18:00
-    unconference_time: 10:00-20:00
+    talk_time: 10:00-17:15
+    unconference_time: 11:30-17:15
   day_four:
     event: Conference Day 2
     date: September 24
-    summary: And the conference goes on! We are already starting to miss you. |:heart:|
+    summary: And the conference goes on! We are already starting to miss you ❤️
     dotw: Tuesday
-    talk_time: 12:00-18:00
+    talk_time: 10:00-16:50
     job_fair_time: 10:00-12:00  # disabled for now
-    unconference_time: 10:00-20:00
+    unconference_time: 14:00-16:15
   total_talk_days: 2
 
 about:
@@ -137,10 +137,10 @@ about:
   summary:
     "The main presentation track takes place on **September 23-24 (Monday and Tuesday) from 12:00 to 18:00 UTC**.
     During the main event we also run an :doc:`/conf/atlantic/2024/unconference`."
-  venue: "Hopin online conference platform"
+  venue: "Online conference platform"
   photos:
   mainroom: "Stage area"
-  unconfroom: "Sessions area"
+  unconfroom: "Channels area"
   projector_ratio: "16:9"
   job_fair_room: "Sponsor area"
 
@@ -150,7 +150,7 @@ cfp:
   notification: "June 01, 2024"      # 11 weeks to write and record
   video_by: "August 23, 2024"        # 3 weeks before the conf
   slides_by: "September 06, 2024"    # 2 weeks before the conf
-  #preview: "https://writethedocs-www--1982.org.readthedocs.build/conf/atlantic/2024/schedule/"
+  preview: "https://writethedocs-www--2177.org.readthedocs.build/conf/atlantic/2024/schedule/"
 
 grants:
   url: https://docs.google.com/forms/d/e/1FAIpQLSdfnmeZj_yl506GujA5-PvsZQxNCWCm3uCiQeuVbO3dRK_d6A/viewform
@@ -158,19 +158,27 @@ grants:
   notification: "August 10th, 2024"
 
 unconf:
-#  url: https://bit.ly/wtd-at-2024-ro
+  url: https://bit.ly/wtd-at-2024-ro
 
 lightning_talks:
-#  signup_url: https://forms.gle/neYV6riRBw8gav9x6
+  signup_url: https://forms.gle/ggsgjf54NyVtG6nK6
 
 sponsors:
   keystone:
   patron:
+    - name: gitbook
+      link: https://www.gitbook.com/?ref=writethedocs
+      brand: GitBook
+      text: "GitBook combines powerful docs with AI-powered search and insights to give technical teams a single source of truth for their knowledge.
+             Effortlessly create, surface and improve public and internal documentation that your users and teams will love. "
   publisher:
- #   - name: mongodb-new
- #     link: https://www.mongodb.com/?ref=writethedocs
- #     brand: MongoDB
+    - name: mongodb-new
+      link: https://www.mongodb.com/?ref=writethedocs
+      brand: MongoDB
   second:
+    - name: helpdocs
+      link: https://www.helpdocs.io/?ref=writethedocs
+      brand: HelpDocs
   media:
   in_kind:
 
@@ -178,16 +186,16 @@ sponsors:
 # Things that change over time, listed in order of change
 flagcfp: False
 flaglanding: False
-flaghassponsors: False
-flagticketsonsale: True
-flagsoldout: False
-flagspeakersannounced: False
+flaghassponsors: True
+flagticketsonsale: False
+flagsoldout: True
+flagspeakersannounced: True
 flagrunofshow: False
-flaghasschedule: False
+flaghasschedule: True
 flaghasshirts: False
-flagvideos: False
+flagvideos: True
 flaglivestreaming: False
-flagpostconf: False
+flagpostconf: True
 
 # Truthy things that don't change
 flaghashike: False

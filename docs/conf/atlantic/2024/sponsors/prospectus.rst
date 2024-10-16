@@ -85,7 +85,7 @@ Benefits
 - Logo and long description (500 characters) on the conference website.
 - Logo in conference email promotion.
 - Dedicated social media post on LinkedIn and Twitter.
-- **Mix & Match**: Five (5) featured job postings on our Job Board or email promotions to our conference email list.
+- **Mix & Match**: Five (5) featured job postings on our Job channel or email promotions to our conference email list.
 - One email promotion to our conference email list. Includes logo and 2 paragraphs of copy.
 - Slack Sponsorship promotion in Write the Docs Slack channel ahead of the conference.
 {% if not flagisvirtual %}
@@ -108,7 +108,7 @@ Benefits
 - Logo and description (250 characters) on the conference website.
 - Logo in conference email promotion.
 - Dedicated social media post on LinkedIn and Twitter.
-- **Mix & Match**: Two (2) featured job postings on our Job Board or email promotions to our conference email list.
+- **Mix & Match**: Two (2) featured job postings on our job channel or email promotions to our conference email list.
 {% if not flagisvirtual %}
 - Display promotional “Swag” items on the conference swag table (provided by sponsor).
 {% endif %}
@@ -127,7 +127,7 @@ Benefits
 - A table at our **Sponsor Expo** on Tuesday morning of the conference, where you can promote job openings or a product.
 - Logo on the conference website.
 - Name included in all conference emails to attendees.
-- **Mix & Match**: Two (2) featured job postings on our Job Board or email promotions to our conference email list.
+- **Mix & Match**: Two (2) featured job postings on our job channel or email promotions to our conference email list.
 {% if not flagisvirtual %}
 - Display promotional “Swag” items on the conference swag table (provided by sponsor).
 {% endif %}
@@ -177,8 +177,8 @@ Opportunity Grants
 
 **{{sponsorship.second_draft.price}}** - **Limit 2**
 
-Provide additional funding for our Opportunity Grant program, which supports equity and accessibility and provides funding for low-income, marginalized people to attend the conference. 
-These individuals would otherwise not be able to attend. 
+Provide additional funding for our Opportunity Grant program, which supports equity and accessibility and provides funding for low-income, marginalized people to attend the conference.
+These individuals would otherwise not be able to attend.
 
 Benefits
 ^^^^^^^^

@@ -22,14 +22,18 @@ but please let us know if there are other points of interaction with our communi
 Concept
 =======
 
-Write the Docs Australia (http://www.writethedocs.org/) is a **two day conference** focusing on documentation systems, tech writing
-theory, and information delivery.
+Write the Docs Australia (http://www.writethedocs.org/) is a **two day conference** dedicated to connecting content
+professionals from various disciplines. Our community includes technical writers, programmers, support teams, developer
+advocates, content strategists and more.
+We collectively refer to ourselves as “`documentarians <https://www.writethedocs.org/documentarians/>`_”.
 
-Writing and maintaining documentation involves a multidisciplinary community of technical writers, designers, librarians, typesetters, developers,
-support teams, marketers and many others. This group of people can be collectively referred to as “documentarians”.
+Each year, we
+encourage community members to share their insights and experiences. Between the talks on stage, discussions in the unconference
+sessions, collaboration during the writing day, and hallway conversations — 100% of our conference content comes from our
+community.
 
-**Write the Docs** creates a time and a place for this community to share information, discuss ideas, and work together to improve the art
-and science of documentation.
+**Write the Docs Australia** is an opportunity to explore and celebrate the craft of documentation in an inclusive
+environment, with a particular emphasis on underrepresented voices in the tech community.
 
 Demographics
 ============
@@ -76,7 +80,7 @@ Publisher
 The **Publisher** package is great for sending a team and getting to know the community.
 
 - Seven (7) tickets_, with additional available to purchase at a discounted rate of $300/ticket.
-- Four (4) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers)
+- Four (4) featured job postings in our Jobs Slack channel, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
 - Logo on the conference website.
 - Name included in all conference emails to attendees.
 - Display promotional “Swag” items on the conference swag table (provided by sponsor).
@@ -96,7 +100,7 @@ The **Patron** package highlights your company as a force in the industry and co
 - Logo in conference email promotion.
 - Display promotional “Swag” items on the conference swag table (provided by sponsor).
 - Dedicated social media post on LinkedIn and Twitter.
-- Two (2) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
+- Two (2) featured job postings in our Jobs Slack channel, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
 - One email promotion to our conference email list. Includes logo and 2 paragraphs of copy
 
 The **Patron** package costs AUD **{{sponsorship.patron.price}}**.
@@ -113,7 +117,7 @@ The **Keystone** package highlights you as our main community partner:
 - Logo in conference email promotion.
 - Display promotional “Swag” items on the conference swag table (provided by sponsor).
 - Dedicated social media post on LinkedIn and Twitter.
-- Three (3) featured job postings on our Job Board, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
+- Three (3) featured job postings in our Jobs Slack channel, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
 - One email promotion to our conference email list. Includes logo and 2 paragraphs of copy.
 - Slack Sponsorship promotion in Write the Docs Slack channel ahead of the conference.
 

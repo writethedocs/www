@@ -5,12 +5,13 @@ We support our community in a variety of ways, and you can choose to focus
 your sponsorship on any one of them, at a level that suits you:
 
 * Our conferences each have their own sponsorship prospectus
-    - Our in-person :doc:`2024 Portland conference </conf/portland/2024/sponsors/prospectus>`
+    - Our in-person :doc:`2025 Portland conference </conf/portland/2025/sponsors/prospectus>`
     - Our virtual :doc:`2024 Atlantic conference </conf/atlantic/2024/sponsors/prospectus>`
     - Our in-person 2024 Australia conference will be announced soon
 * Our :doc:`/sponsorship/newsletter` with over {{ newsletter_subs }} subscribers
 * Our :doc:`/sponsorship/website` offers a sidebar ad on our website
 * Our :doc:`/sponsorship/slack` allows you to get in front of our Slack network
+* Our :doc:`/sponsorship/jobs` gets your job posting in front of our community
 
 In addition to these existing programs,
 we're always interested in working together with organizations in our community to build new approaches to sponsorship. 
@@ -43,4 +44,5 @@ We also run incidental activities, such as our recent salary survey, and are cur
    newsletter
    website
    slack
+   jobs
 

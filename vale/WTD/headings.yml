@@ -4,6 +4,7 @@ level: error
 scope: heading
 match: $sentence
 exceptions:
+  - Apiary
   - API
   - API Blueprint
   - ARID
