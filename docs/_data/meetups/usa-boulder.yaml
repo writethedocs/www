@@ -3,7 +3,8 @@ country: USA
 state: Colorado
 city: Boulder/Denver
 website: https://www.meetup.com/write-the-docs-boulder-denver/events/
-meetup: Write-the-Docs-Boulder-Denver
+source:
+  meetup: Write-the-Docs-Boulder-Denver
 organizers:
   - name: Kaylyn Sigler
     link: https://www.linkedin.com/in/kaylyn-cheatham-sigler/

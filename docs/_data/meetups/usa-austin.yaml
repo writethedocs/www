@@ -3,7 +3,8 @@ country: USA
 state: Texas
 city: Austin
 website: https://www.meetup.com/writethedocs-atx-meetup/events/
-meetup: WriteTheDocs-ATX-Meetup
+source:
+  meetup: WriteTheDocs-ATX-Meetup
 organizers:
   - name: Caley Burton
     link: https://www.linkedin.com/in/caley-burton/

@@ -3,7 +3,8 @@ country: USA
 state: Washington
 city: Seattle
 website: https://www.meetup.com/write-the-docs-seattle/events/
-meetup: Write-The-Docs-Seattle
+source:
+  meetup: Write-The-Docs-Seattle
 organizers:
   - name: Jerome Villegas
     link: http://twitter.com/__jfv__/

@@ -3,7 +3,8 @@ country: USA
 state: Pennsylvania
 city: Pittsburgh
 website: https://www.meetup.com/write-the-docs-pittsburgh/events/
-meetup: write-the-docs-pittsburgh
+source:
+  meetup: write-the-docs-pittsburgh
 organizers:
   - name: Rachael Stavchansky
     link: https://twitter.com/RMStav

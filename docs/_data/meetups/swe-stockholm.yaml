@@ -2,7 +2,8 @@ region: Europe
 country: Sweden
 city: Stockholm
 website: https://www.meetup.com/write-the-docs-stockholm/events/
-meetup: write-the-docs-stockholm
+source:
+  meetup: write-the-docs-stockholm
 organizers:
   - name: Gunilla Svanfeldt
     link: https://www.linkedin.com/in/gunillasvanfeldt/

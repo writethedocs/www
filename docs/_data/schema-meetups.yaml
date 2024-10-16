@@ -1,0 +1,21 @@
+region: str(required=True)
+country: str(required=True)
+state: str(required=False)
+city: str(required=False)
+website: str(required=False)
+twitter: str(required=False)
+organizers: list(include('organizer-detail'), min=1, max=9)
+
+source: any(include('source_meetup'), include('source_other'), required=True)
+
+---
+
+organizer-detail:
+  name: str(required=True)
+  link: str(required=False, none=False)
+
+source_meetup:
+  meetup: str(required=True, none=False)
+
+source_other:
+  other: str(required=True, none=False)

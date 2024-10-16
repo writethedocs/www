@@ -2,7 +2,8 @@ region: Europe
 country: Netherlands
 city: Amsterdam
 website: https://www.meetup.com/write-the-docs-amsterdam/events/
-meetup: Write-The-Docs-Amsterdam
+source:
+  meetup: Write-The-Docs-Amsterdam
 organizers:
   - name: Laura Vass
     link: https://www.meetup.com/Write-The-Docs-Amsterdam/members/183302865/

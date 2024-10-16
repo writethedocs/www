@@ -2,7 +2,8 @@ region: Europe
 country: United Kingdom
 city: London
 website: https://www.meetup.com/write-the-docs-london/events/
-meetup: Write-The-Docs-London
+source:
+  meetup: Write-The-Docs-London
 organizers:
   - name: Kristof Van Tomme
     link: http://twitter.com/kvantomme/

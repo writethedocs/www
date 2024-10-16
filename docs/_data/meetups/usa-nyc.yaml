@@ -3,7 +3,8 @@ country: USA
 state: New York
 city: New York City
 website: https://www.meetup.com/writethedocsnyc/events/
-meetup: WriteTheDocsNYC
+source:
+  meetup: WriteTheDocsNYC
 twitter: WriteTheDocsNYC
 organizers:
   - name: Ricardo Feliciano

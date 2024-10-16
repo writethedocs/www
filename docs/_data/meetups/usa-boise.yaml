@@ -3,7 +3,8 @@ country: USA
 state: Idaho
 city: Boise
 website: https://www.meetup.com/write-the-docs-boise/events/
-meetup: Write-the-Docs-Boise
+source:
+  meetup: Write-the-Docs-Boise
 organizers:
   - name: Mike Taylor
     link: https://www.linkedin.com/in/miketaylor86/
