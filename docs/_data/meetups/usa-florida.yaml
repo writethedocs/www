@@ -2,7 +2,8 @@ region: North America
 country: USA
 state: Florida
 website: https://www.meetup.com/write-the-docs-florida/events/
-meetup: Write-the-Docs-Florida
+source:
+  meetup: Write-the-Docs-Florida
 organizers:
   - name: Barrie Byron
     link: https://www.linkedin.com/in/barriebyron/
@@ -10,4 +11,4 @@ organizers:
     link: https://twitter.com/MrContentDesign
   - name: Rose Williams (founder, former organizer)
     link: https://www.linkedin.com/in/williamsrose/
- 
+

@@ -2,7 +2,8 @@ region: Asia
 country: Israel
 city: Tel Aviv+
 website: https://www.meetup.com/write-the-docs-taplus/events/
-meetup: Write-The-Docs-TAplus
+source:
+  meetup: Write-The-Docs-TAplus
 organizers:
   - name: Laura Novich
     link: https://www.linkedin.com/in/lauranovich/

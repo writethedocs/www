@@ -1,6 +1,7 @@
 region: Asia
 country: Armenia
-meetup_alt: https://t.me/technicalwritersEVN
+source:
+  other: https://t.me/technicalwritersEVN
 organizers:
   - name: Ani Asatryan
     link: https://www.linkedin.com/in/ani-asatryan-85565b196/

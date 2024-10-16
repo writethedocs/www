@@ -2,7 +2,8 @@ region: Europe
 country: Ireland
 city: Dublin
 website: https://www.meetup.com/write-the-docs-ireland/events/
-meetup: Write-The-Docs-Ireland
+source:
+  meetup: Write-The-Docs-Ireland
 organizers:
   - name: Artem Konev
     link: https://www.linkedin.com/in/artemkonev
