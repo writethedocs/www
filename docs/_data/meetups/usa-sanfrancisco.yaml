@@ -4,6 +4,6 @@ state: California
 city: San Francisco
 website: https://www.meetup.com/write-the-docs-bay-area/events/
 meetup: Write-the-Docs
-organizer:
+organizers:
    - name: Ilona Koren-Deutsch
      link: https://twitter.com/nitsekees
