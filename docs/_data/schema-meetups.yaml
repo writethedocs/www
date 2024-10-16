@@ -12,4 +12,4 @@ organizers: list(include('organizer-detail'), min=1, max=9)
 
 organizer-detail:
   name: str(required=True)
-  link: str(required=False)
+  link: str(required=False, none=False)
