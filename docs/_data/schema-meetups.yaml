@@ -1,0 +1,15 @@
+region: str(required=True)
+country: str(required=True)
+state: str(required=False)
+city: str(required=False)
+website: str(required=False)
+twitter: str(required=False)
+meetup: str(required=False) # I can't figure out how to validate must contain either meetup or meetup_alt
+meetup_alt: str(required=False)
+organizers: list(include('organizer-detail'), min=1, max=9)
+
+---
+
+organizer-detail:
+  name: str(required=True)
+  link: str(required=False)
