@@ -1,15 +1,17 @@
 writing_day:
-  - time: '10:30'
+  - time: '10:00'
     title: 'Platform opens'
     duration: '01:00'
+  - time: '10:30'
+    title: 'First session: Writing Day Introduction & Project Announcements'
   - time: '11:00'
-    title: Morning introduction - Introduction to Writing Day & Project Introductions
-  - time: '11:30'
     title: Team up and start the first session
   - time: '14:00'
     title: 'Snack break'
   - time: '14:30'
-    title: Second session
+    title: 'Second session: Writing Day Introduction & Project Announcements'
+  - time: '14:45'
+    title: Team up and start the second session
   - time: '17:00'
     title: End of Writing Day
 
@@ -17,8 +19,10 @@ talks_day1:
   - time: '10:00'
     title: Platform opens
     duration: '00:30'
-  - duration: '00:30'
+  - duration: '00:10'
     title: Hallway track - Chat with other attendees
+  - duration: '00:20'
+    title: Tour of the platform in the Welcome Wagon Tour channel
   - duration: '00:25'
     title: Write the Docs Team - Conference introduction
   - duration: '0:05'
@@ -95,10 +99,8 @@ talks_day2:
     title: '<b>Sponsor Expo closes</b>'
   - duration: '0:20'
     title: '🍲 Snack break'
-  - duration: '0:30'
+  - duration: '0:50'
     title: ⚡️ Lightning Talks
-  - duration: '0:05'
-    title: '⏲ 5 minute break'
   - duration: '0:30'
     slug: from-morphemes-to-manuscripts-how-linguistics-can-make-you-a-better-writer-chloe-guttmann
   - duration: '0:10'

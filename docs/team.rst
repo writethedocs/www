@@ -1,7 +1,7 @@
 Team
 ====
 
-The different facets of the Write the Docs community are kept running smoothly by a wonderful team of folks. We are always looking for more people to help organize conferences and meetups, help out with websites and guides, or take leadership roles in the community. 
+The different facets of the Write the Docs community are kept running smoothly by a wonderful team of folks. We are always looking for more people to help organize conferences and meetups, help out with websites and guides, or take leadership roles in the community.
 
 If you're interested in helping out, get in touch with someone on the team you're curious about. Messaging folks on the Write the Docs :doc:`slack` is probably the best way to get in touch with folks.
 
@@ -31,9 +31,9 @@ Terminology
 How teams operate and interact
 ------------------------------
 
-- **All membership and leadership roles are staffed by enthusiastic opt-in.** We want to prioritize the well-being of our contributors, and we're happy to have you if you're happy to contribute to the community. 
+- **All membership and leadership roles are staffed by enthusiastic opt-in.** We want to prioritize the well-being of our contributors, and we're happy to have you if you're happy to contribute to the community.
 - Each team operates independently except for actions that impact other teams or the community.
-- Each team is responsible for implementing and monitoring community guidelines, including CoC, within their team's area. 
+- Each team is responsible for implementing and monitoring community guidelines, including CoC, within their team's area.
 - Teams leads are paid positions and have a seat on the community board, which can propose and vote on internal organizational changes and processes. Team budgets are determined by the team leads and voted on by the community board.
 - CoreOps team members act as backup team leads in a case team lead steps down without a replacement.
 - Teams are generally comprised of volunteers. Depending on the scope and time investment of team members, they can step up to be a team lead after an agreed upon duration of service on the team.
@@ -43,7 +43,7 @@ Joining and leaving teams
 
   Team members
     - Team members serve for a minimum of three months.
-    - Membership renews automatically after joining. To step down from the team, members need to give a 14-day notice to the team lead before the end of the term. **In case of unexpected change of circumstances such as illness or burnout, team members can pause their membership immediately by notifying their team lead**. 
+    - Membership renews automatically after joining. To step down from the team, members need to give a 14-day notice to the team lead before the end of the term. **In case of unexpected change of circumstances such as illness or burnout, team members can pause their membership immediately by notifying their team lead**.
     - Team membership requirements:
 
       - be an active member of the community for at least one year (online or at events)
@@ -52,7 +52,7 @@ Joining and leaving teams
       - have sufficient English communication skills to perform the role in the teams, (English editorial skills are required in all teams that communicate in an official capacity, such as the Newsletter or Social Media team)
 
   Team leads
-    - Team leads serve for a minimum of one year. 
+    - Team leads serve for a minimum of one year.
     - Membership renews automatically after joining. To step down from the team, team leads need to give a 30-day notice to the community board before the end of the term. **In case of unexpected change of circumstances such as illness or burnout, team leads can pause their membership immediately by notifying the CoreOps team or the community board**.
     - Team lead role requirements:
 
@@ -88,7 +88,7 @@ Membership
 
 - All team leads are included in the community board (no external membership)
 - The CoreOps team moderates the quarterly meetings and curates the quarterly report
-    
+
 Members
 ~~~~~~~
     - `Mikey Ariel <https://twitter.com/thatdocslady>`_ (board chair)
@@ -107,7 +107,7 @@ Responsibilities
     - Financial and legal compliance
     - Trademark and brand development
     - Support and enable all teams and team leads
-  
+
   Organizational process and best practices
     - Triage incoming WEPs according to the WEP process that is defined in `WEP0 <https://github.com/writethedocs/weps/blob/master/accepted/WEP0000.rst>`__
     - Maintain and develop WEP format, templates, and requirements
@@ -128,7 +128,7 @@ Responsibilities
     - Review and support incoming proposed changes to the Website (GitHub)
     - Develop and maintain commonly-used email auto-respond templates
     - At least one team member must check the Support inbox daily
-  
+
   Salary survey
     - Oversee and review the salary survey each year
 
@@ -143,12 +143,12 @@ Members
 
 - `Eric Holscher <https://twitter.com/ericholscher>`_ (business owner)
 - `Mikey Ariel <https://twitter.com/thatdocslady>`_ (board chair)
-- `Sasha Romijn <https://twitter.com/mxsash>`_ 
+- `Sasha Romijn <https://twitter.com/mxsash>`_
 - `Samuel Wright <https://twitter.com/plaindocs>`_
 
 
 .. _conference-chairs:
-  
+
 Conference teams
 ................
 
@@ -181,9 +181,9 @@ Slack
 Responsibilities
 ~~~~~~~~~~~~~~~~
 
-- Monitor the WTD Slack space and handle CoC issues, rotation 
+- Monitor the WTD Slack space and handle CoC issues, rotation
 - Full team procedures and processes are currently in the process of being finalized in a separate WEP: WEP0002
-      
+
 Membership
 ~~~~~~~~~~
 
@@ -205,7 +205,7 @@ Meetups
 Responsibilities
 ~~~~~~~~~~~~~~~~
 
-- Support local and regional meetups 
+- Support local and regional meetups
 - Create and manage meetup.com accounts
 - Assist with CoC escalations from meetup organizers
 - Maintain a mailing list for meetup organizers
@@ -222,7 +222,7 @@ Membership
 Members
 ~~~~~~~
 
-- `Rose Williams <https://twitter.com/ZelWms>`_ 
+- `Rose Williams <https://twitter.com/ZelWms>`_
 - `Alyssa Whipple Rock <https://alyssarock.pro/>`_
 
 
@@ -261,8 +261,7 @@ Sales and sponsorships
 Responsibilities
 ~~~~~~~~~~~~~~~~
 
-- Serve as the point of contact for the `WTD Job Board <https://jobs.writethedocs.org/>`__
-- Develop and implement strategies for the job board and other career-related channels for the community
+- Develop and implement strategies for career-related channels for the community
 - Initial point of contact for community sponsorship requests and liaison with conference sponsorship contacts
 
 Membership
@@ -287,7 +286,7 @@ Responsibilities
     - Point of contact for the WTD accounts on `Twitter <https://twitter.com/writethedocs>`_, Facebook, and LinkedIn
     - Manage and develop social media strategy for the community
     - Source updates and publications from other teams and manage scheduled posts
-    
+
   Brand and design
     - Maintain and develop brand design assets
     - Coordinate web and print design with vendors
@@ -297,7 +296,7 @@ Responsibilities
 Membership
 ~~~~~~~~~~
 
-- Team members must have English editorial skills and some experience with social media or brand management 
+- Team members must have English editorial skills and some experience with social media or brand management
 
 Members
 ~~~~~~~
@@ -316,7 +315,7 @@ Responsibilities
 
 - Point of contact for the `Learning Resources <https://www.writethedocs.org/about/learning-resources/>`_  section of the community website
 - Curate and develop new sections and topics
-- Identify new contributors and help them get started 
+- Identify new contributors and help them get started
 
 Membership
 ~~~~~~~~~~

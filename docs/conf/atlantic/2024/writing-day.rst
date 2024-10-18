@@ -128,8 +128,8 @@ Project list
 
 Submit your project using our `Writing Day project form <https://forms.gle/uTkWHV3fesyNQEyk9>`_ or send us a PR with your project info!
 
-Mutual Aid for Tech Writer/Documentarian Job Hunters
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Mutual Aid for Tech Writer/Documentarian Job Hunters (second session)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Join project organizer, Kenzie Woodbridge (they/them), during the second Writing Day session.
 
@@ -137,8 +137,8 @@ Let's help each other get ready for our job searches! Are you thinking of applyi
 
 Let's get together and offer each other some feedback on the important documentation we're using to move our careers forward.
 
-WTD Meetup resources for organizers
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+WTD Meetup resources for organizers (second session)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Join project organizer, Rose Williams, for the second Writing Day session.
 
@@ -208,3 +208,39 @@ Folks from EkLine will be available during Writing Day to help you and your proj
 Ekline’s project is appropriate for open source project maintainers and regular contributors. It is not necessarily appropriate for those who do not have a relationship with an OSS project to use randomly.
 
 Join us to make impactful contributions to open-source documentation while learning a valuable tool.
+
+The Good Docs Project - Template adoption workshop (second session)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`The Good Docs Project <https://www.thegooddocsproject.dev/>`__ is an open source community of 75+ technical writers, doc tools experts, UX designers, and software engineers who are committed to improving the quality of documentation in open source. We aim to educate and empower people to create high-quality documentation by providing them with templates, resources, best practices, and tools to enhance their documentation in open source and beyond.
+
+For Writing Day, we'll give a brief introduction to our project, followed by a workshop that will give you a chance to provide feedback on how we can help more people use templates in their daily documentation workflows.
+
+Get an early preview of `The Good Docs Project writing day agenda <https://tinyurl.com/good-docs-atlantic-2024>`__.
+
+Code with the Carolinas
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Join `Code with the Carolinas <https://codewiththecarolinas.org/>`__ to update and enhance our `Codeberg Repository Documentation <https://codeberg.org/Code_with_the_Carolinas/pages , https://codeberg.org/Code_with_the_Carolinas/pages/src/branch/main/CONTRIBUTING.md>`__. Codeberg is a free, open-source (FOSS) alternative to GitHub. Our goal is to develop inclusive documentation that is easier to understand and navigate.
+    
+Code with the Carolinas is a small, all-volunteer civic tech organization focused on using technology to benefit the community. We use Codeberg, an open source collaborative coding platform. The 'pages' repository maintained on Codeberg hosts the code for the website and a wiki with documentation. Our documentation and website have improved considerably since we brought this project to Writing Day for the first time in 2023.
+
+Our goal for this year's Writing Day is to update the wiki and create more inclusive documentation for current and future contributors in the organization.  We want clearer guidance for our contributors, regardless of their experience level. 
+
+To help align our project for Writing Day we have the following personas:
+
+- Advanced contributors - regular contributors who use VSCode or similar text editors
+- Beginner contributors - new or occasional contributeors who make small changes inline
+- Core team contributors - core team members, founding team members, and Codeberg administrators
+
+With your help, here's what we want to accomplish during Writing Day:
+
+- Clearer onboarding documentation aimed at the new contributor persona
+- Navigation improvements for the documentation wiki
+- Create best practices for keeping documentation up to date 
+- Implement test cases for pull requests for content verification and compliance
+- Review existing documentation to confirm it meets the needs of our user personas
+- Create technical guides for merging code collaboratively authored in Codeberg
+- Fixing content in our documentation using issues from the repository
+
+We believe Writing Day will help us explore opportunities to attract contributors and encourage them to continue to collaborate with us. Thank you for your assistance and happy coding!
