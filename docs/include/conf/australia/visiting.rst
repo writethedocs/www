@@ -14,7 +14,7 @@ Read more about the `transport options <https://www.melbourneairport.com.au/gett
 
 **Flights**
 
-Melbourne's international airport, `Tullamarine airport`_, provides access to many full service and low cost airlines, such as Qantas, Virgin, Jetstar and Rex Airways.
+Melbourne's international airport, `Tullamarine airport`_, provides access to many full service and low cost airlines, such as Qantas, Virgin, and Jetstar.
 
 .. _Tullamarine airport: https://www.melbourneairport.com.au/
 
@@ -63,6 +63,7 @@ The closest train station is Melbourne Station (a 5 min walk to the conference v
 **Tram**
 Catch trams 3, 3a, 5, 6, 30, 35, 64, or 67 to the State Library tram stop (the venue is 2 minute walk from the tram stop). Trams in the CBD are free (you do not need to tap on or off) for travelling.
 For more information, refer to the `free tram zone <https://www.ptv.vic.gov.au/assets/PTV-default-site/Maps-and-Timetables-PDFs/Maps/Network-maps/Free-Tram-Zone-Map-Map-2021.pdf>`_.
+For inspiration on visiting Melbourne landmarks by tram, check out this article on `Lonely Planet <https://www.lonelyplanet.com/articles/melbourne-by-tram>`_.
 
 Where to stay
 -------------
