@@ -8,7 +8,7 @@ Get ready for Write the Docs Australia 2024
 
 We're just over 4 weeks out from the conference, and we hope everyone is getting excited!
 
-In this update we share a few updates as the conference approaches.
+Read on to see what's coming.
 
 Ticket sales closing soon
 --------------------------
