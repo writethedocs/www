@@ -29,6 +29,8 @@ sphinxemoji==0.2.0
 # For atom feed support
 Werkzeug==0.16.1 # pyup: <1.0
 # For fancy 404 pages
-sphinx-notfound-page==0.8
+sphinx-notfound-page==1.0.0
 # For fancy twitter previews
 sphinxext-opengraph==0.8.1
+
+pytz==2024.2
