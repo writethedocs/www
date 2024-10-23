@@ -75,8 +75,6 @@ exclude_patterns = [
     'videos/prague/2018/tackling-technical-debt-in-the-docs-louise-fahey.rst',
 ]
 
-html4_writer = True
-
 # We use these *local* environment variables for private info like free ticket links
 
 cfp_variables = {}
