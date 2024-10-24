@@ -69,7 +69,9 @@ If you're a WTD conference organizer, please only submit talks to conferences yo
 
 **People on stage**
 
-We *strongly* prefer talks written and given by one *single speaker*. If you're planning to submit with a co-speaker, please let us know why you're doing so.
+We *strongly* prefer talks written and given by one *single speaker*. If you're planning to submit with a co-speaker, please let us know why, and take note that it will affect the chances of your talk being selected.
+
+You are of course welcome to write the talk with other people as long as only one person is presenting.
 
 **Mix of roles and perspectives**
 
@@ -111,6 +113,10 @@ Don't tell us why you hate something – tell us how you overcame the problems i
 
 We avoid talks about specific tooling, which often turn into marketing pitches or tutorials.
 We would much rather hear about process, culture, data, people, or the metaphysical side effects of spending your life thinking about docs.
+
+**Benefit to the community**
+
+How does your talk help improve the quality of documentation everywhere. Are you trying a new approach? Are you solving a known problem? Have you done the research into how folks have tried to solve your issue before?
 
 **Audience awareness**
 
@@ -201,6 +207,13 @@ If you have any questions about any part of this process, please email us at `{{
 
 Submit your proposal
 --------------------------
+
+Please make sure you read this entire page before submitting your proposal, and pay particular attention to the following points:
+
+- **Spoilers** it's pretty normal not to want to include your main point in your abstract, but please make sure to highlight it for the selection committee!
+- **Research** we don't need all talks to be about a new topic, but if you're suggesting a talk that looks really similar to one that was given last year, show you know that, and mention why yours is different.
+- **Tooling** we're pretty serious about preferring talks about people, process or principles than talks about tooling. If you are submitting a proposal about tooling, tell us what makes this one special.
+- **Example proposal** so you know what we expect to see in each field.
 
 Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx account, unless you already have one from a previous conference.
 
