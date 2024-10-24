@@ -71,7 +71,7 @@ If you're a WTD conference organizer, please only submit talks to conferences yo
 
 We *strongly* prefer talks written and given by one *single speaker*. If you're planning to submit with a co-speaker, please let us know why, and take note that it will affect the chances of your talk being selected.
 
-You are of course welcome to write the talk with other people as long as only one person is presenting.
+You are of course welcome to write the talk with other people, as long as only one person is presenting.
 
 **Mix of roles and perspectives**
 
@@ -129,7 +129,7 @@ It can be  helpful to check out topics that might be related to your talk from p
 * `Portland {{year-1}} <https://www.writethedocs.org/conf/portland/{{year-1}}/speakers/>`_
 * `Atlantic {{year-1}} <https://www.writethedocs.org/conf/atlantic/{{year-1}}/speakers/>`_
 * `Portland {{year-2}} <https://www.writethedocs.org/conf/portland/{{year-2}}/speakers/>`_
-* `Prague {{year-2}} <https://www.writethedocs.org/conf/prague/{{year-2}}/speakers/>`_
+* `Atlantic {{year-2}} <https://www.writethedocs.org/conf/atlantic/{{year-2}}/speakers/>`_
 
 Not sure about speaking?
 ------------------------
