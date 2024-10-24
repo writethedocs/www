@@ -29,7 +29,7 @@ Get involved at the conference
 ------------------------------
 
 -  **Attend the Brick Docs workshop.** This year, similar to our last few conferences, we will have a workshop on Day 1 after the lightning talks.
-   The workshop is free for all conference attendees and is included in your ticket price, so you do not have pay anything on top of the conference registration.
+   The workshop is free for all conference attendees.
 -  **Plan an unconference session.** We’ll be running the `Unconference <https://www.writethedocs.org/conf/australia/2024/unconference/>`__
    both days. Want to chat with like-minded folks about a very specific thing? This is the place. We’ll have a sign-up board
    so you know what’s happening, and supplies to help you brainstorm.
