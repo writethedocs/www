@@ -142,7 +142,7 @@ Selection process
 
 We have a small panel of proposal reviewers, and make sure to have a similar diversity in the panel as we're aiming for in our speakers.
 
-We rate talks out of five, and then discuss the top rated proposals, as well as intresting exceptions from that list.
+We rate talks out of five, and then discuss the top rated proposals, as well as interesting exceptions from that list.
 
 We actively balance for diversity in as many ways as we can, which means that we do not review talks anonymously. Maybe one day the industry will be in a place where can do that, but we're not there yet.
 
@@ -182,7 +182,7 @@ Timeline overview
     We'll ask you for a copy of your slides so that our human captioners can prepare for your talk
 
 **{{cfp.info_by}}**
-    We'll ask you for your pronouns, how your pronounce your name and some intersting facts about you so our emcee can prepare to introduce you.
+    We'll ask you for your pronouns, how your pronounce your name and some interesting facts about you so our emcee can prepare to introduce you.
 
 **{{date.short}}**
     Folks start giving talks on stage!
