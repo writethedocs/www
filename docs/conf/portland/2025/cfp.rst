@@ -64,10 +64,12 @@ We welcome talks from first-time speakers, from industry experts, and from every
 Whatever your background and experience, we prefer hearing about new approaches rather than about tried-and-tested technology.
 We especially welcome talks from underrepresented groups within the tech community.
 We want to hear a variety of viewpoints, so we limit speakers to two talks in any four year period at each location.
-That said, we do strongly prefer talks written and given by a single speaker, and if you're planning to submit with a co-speaker, please let us know why you're doing so.
 
 If you're a WTD conference organizer, please only submit talks to conferences you're not actively organizing.
 
+**People on stage**
+
+We *strongly* prefer talks written and given by one *single speaker*. If you're planning to submit with a co-speaker, please let us know why you're doing so.
 
 **Mix of roles and perspectives**
 
@@ -97,7 +99,7 @@ What we’re looking for
 
 **Diverse topics**
 
-The focus of Write the Docs is software documentation, but we actively seek talks that address a wide range of related subjects, at various levels of expertise.
+The focus of Write the Docs is software documentation, and we actively seek talks that address a wide range of related subjects, at various levels of expertise.
 Documentation perspectives from other fields are welcome, as are topics from adjacent fields!
 
 **Practicality and positivity**
@@ -107,7 +109,7 @@ Don't tell us why you hate something – tell us how you overcame the problems i
 
 **Process over tooling**
 
-We tend to avoid talks about specific tools, which often turn into marketing pitches or tutorials.
+We avoid talks about specific tooling, which often turn into marketing pitches or tutorials.
 We would much rather hear about process, culture, data, people, or the metaphysical side effects of spending your life thinking about docs.
 
 **Audience awareness**
@@ -139,7 +141,8 @@ Selection process
 ------------------
 
 We have a small panel of proposal reviewers, and make sure to have a similar diversity in the panel as we're aiming for in our speakers.
-We rate talks out of five, and then discuss the top rated proposals.
+
+We rate talks out of five, and then discuss the top rated proposals, as well as intresting exceptions from that list.
 
 We actively balance for diversity in as many ways as we can, which means that we do not review talks anonymously. Maybe one day the industry will be in a place where can do that, but we're not there yet.
 
@@ -166,6 +169,24 @@ If you already have a ticket, we will of course refund it - just drop us an emai
 
 Note that all Speakers must read, understand, and agree to our :doc:`/code-of-conduct`. All talks and slides will need to follow our Code of Conduct. If you are unsure about any aspect of this, please ask us for clarification.
 
+Timeline overview
+-----------------
+
+**{{cfp.ends}}**
+    Call for Proposal ends
+
+**{{cfp.notification}}**
+    We'll let you know whether your proposal was accepted
+
+**{{cfp.slides_by}}**
+    We'll ask you for a copy of your slides so that our human captioners can prepare for your talk
+
+**{{cfp.info_by}}**
+    We'll ask you for your pronouns, how your pronounce your name and some intersting facts about you so our emcee can prepare to introduce you.
+
+**{{date.short}}**
+    Folks start giving talks on stage!
+
 Example proposal
 ----------------
 
@@ -174,7 +195,7 @@ If you'd like some guidance on how to create a talk proposal, take a look at our
 Questions?
 ----------
 
-If you have any questions, please email us at `{{email}} <mailto:{{email}}>`_ and let us know.
+If you have any questions about any part of this process, please email us at `{{email}} <mailto:{{email}}>`_, we'll be happy to chat.
 
 {% if flagcfp %}
 
@@ -191,10 +212,15 @@ Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx accoun
         </div>
     </div>
 
+You'll be able to edit your proposal up until we start reviewing talks.
+
 {% endif %}
 
-Write the Docs Atlantic 2024
-----------------------------
+Write the Docs Atlantic
+-----------------------
 
-If you want to speak at Write the Docs but can't or don't want to attend an in-person event, keep an eye out for Write the Docs Atlantic, coming later in 2024.
-This conference is entirely virtual, between the Central European Summer Time (CEST) and Eastern Daylight Time (EDT) time zones, so you can present or attend from anywhere.
+If you want to speak at Write the Docs but can't or don't want to attend an in-person event, keep an eye out for Write the Docs Atlantic, coming later in the year.
+
+This conference is entirely virtual, between the Central European Summer Time (CEST) and Eastern Daylight Time (EDT) time zones, so you can present or attend from almost anywhere.
+
+Talks for Write the Docs Atlantic are pre-recorded, with live Question and Answer sessions.
