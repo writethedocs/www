@@ -46,6 +46,30 @@
 
     <p>This session is a mixture of what I learned in detail, creating documentation
     for all users and advanced ways for making documentation usable for everyone.</p>'
+- title: Tips for great review comments
+  slug: tips-for-great-review-comments-cameron-shorter
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2024
+  speakers:
+  - name: Cameron Shorter
+    slug: cameron-shorter
+    twitter: 
+    website: 
+  abstract: '<p>Ever received prickly feedback from a subject matter expert to your
+    review of their doc? Or received vague suggestions like “make this better” and
+    thought, “how?” Off-target or unintentionally insensitive comments can derail
+    collaboration, especially between technical writers, developers, and non-writers.
+
+    When reviewing a colleague’s work, you want to improve the content while recognizing
+    the author’s effort. On the flip side, as the author, you often need feedback
+    from stakeholders who may not communicate effectively or even understand the writing
+    process.
+
+    In this session, you’ll learn how to give precise, respectful feedback and how
+    to ask for—and handle—constructive criticism. We’ll share practical tips for navigating
+    feedback challenges from a diverse range of stakeholders like developers, product
+    owners, authors, and anyone else who wants to stick their oar in.</p>'
 - title: Where journalism and advertising writing skills overlap with technical writing
     – and where they don’t
   slug: where-journalism-and-advertising-writing-skills-overlap-with-technical-writing-justine-stewart
@@ -75,47 +99,6 @@
     What the research says about the link between emotions and understanding instructions.\n•
     Uncovering the best motivation to be a better technical writer.</p>\n<p>All the
     answers? Definitely not. But it's always a good thing to throw around some questions!</p>"
-- title: 'Toot Your Own Horn: The Benefits of Keeping a Brag Doc'
-  slug: toot-your-own-horn-the-benefits-of-keeping-a-brag-doc-theo-harris
-  series: Write the Docs Australia
-  series_slug: australia
-  year: 2024
-  speakers:
-  - name: Theo Harris
-    slug: theo-harris
-    twitter: 
-    website: 
-  abstract: '<p>Ever been stumped in an interview when asked about your proudest achievements
-    from the last six months? Felt like your manager didn’t understand your contributions
-    during a performance evaluation? Struggled to celebrate your professional wins?</p>
-
-    <p>As working professionals, we often get so wrapped up in daily tasks that recalling
-    impactful work becomes difficult when needed. After experiencing this firsthand,
-    I volunteered to create and run a Brag Doc Working Group at my company. This initiative
-    aims to help my teammates and me better capture, reflect on, and celebrate our
-    professional achievements.</p>
-
-    <p>In this talk, we’ll cover:</p>
-
-    <ul>
-
-    <li>The purpose of keeping a Brag Doc</li>
-
-    <li>Practical examples of what a Brag Doc can look like</li>
-
-    <li>The ups and downs of building a working group for your company</li>
-
-    <li>How your Brag Doc can be utilised as a professional tool in different contexts</li>
-
-    </ul>
-
-    <p>You''ll learn how to systematically document your achievements, making it easier
-    to communicate your value during reviews, interviews, and stakeholder meetings.
-    I’ll also share my experience in creating a supportive community around documenting
-    wins and how this practice can improve team morale and personal growth.</p>
-
-    <p>Join us to explore how a simple Brag Doc can become a powerful tool for your
-    professional success.</p>'
 - title: What if we just got AI to write the docs?
   slug: what-if-we-just-got-ai-to-write-the-docs-lana-brindley-she-her
   series: Write the Docs Australia
@@ -309,4 +292,5 @@
     people disappear like the switchboard operators of old? Will there be a "Write
     the Docs" conference next year, in 5 years, in 10?</p>
 
-    <p>Without "skin in the game" Gerry is neither a true believer in AI nor a denier of its potential, and is perhaps in a good position to offer a view from the sidelines of the maelstrom.</p>'
+    <p>Without "skin in the game" Gerry is perhaps in a good position to offer a view
+    from the sidelines of the maelstrom.</p>'
