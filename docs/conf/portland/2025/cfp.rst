@@ -69,7 +69,7 @@ If you're a WTD conference organizer, please only submit talks to conferences yo
 
 **People on stage**
 
-We *strongly* prefer talks written and given by one *single speaker*. If you're planning to submit with a co-speaker, please let us know why, and take note that it will affect the chances of your talk being selected.
+We *strongly* prefer talks presented by one *single speaker*. If you're planning to submit with a co-speaker, please let us know why, and take note that it will affect the chances of your talk being selected.
 
 You are of course welcome to write the talk with other people, as long as only one person is presenting.
 
