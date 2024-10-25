@@ -116,7 +116,7 @@ We would much rather hear about process, culture, data, people, or the metaphysi
 
 **Benefit to the community**
 
-How does your talk help improve the quality of documentation everywhere. Are you trying a new approach? Are you solving a known problem? Have you done the research into how folks have tried to solve your issue before?
+How does your talk help improve the quality of documentation everywhere? Are you trying a new approach? Are you solving a known problem? Have you done the research into how folks have tried to solve your issue before?
 
 **Audience awareness**
 
@@ -188,7 +188,7 @@ Timeline overview
     We'll ask you for a copy of your slides so that our human captioners can prepare for your talk
 
 **{{cfp.info_by}}**
-    We'll ask you for your pronouns, how your pronounce your name and some interesting facts about you so our emcee can prepare to introduce you.
+   We'll ask you for your pronouns, how you pronounce your name, and some interesting facts about you so our emcee can prepare to introduce you.
 
 **{{date.short}}**
     Folks start giving talks on stage!
