@@ -174,7 +174,7 @@ html_copy_source = False
 html_sidebars = {
     '**': [
         'about.html',
-        'postcard.html',
+        'ablog/postcard.html',
         'info.html',
         'searchbox.html',
         'navigation.html',
