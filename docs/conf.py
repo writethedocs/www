@@ -141,7 +141,7 @@ blog_locations = {
 blog_default_location = None
 fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'
 
-templates_path = ['_templates', 'include', ablog.get_html_templates_path()]
+templates_path = ['_templates', 'include']
 html_extra_path = ['_static_html']
 source_suffix = ['.rst', '.md']
 
