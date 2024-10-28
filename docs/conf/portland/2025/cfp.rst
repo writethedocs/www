@@ -182,13 +182,11 @@ Timeline overview
     Call for Proposal ends
 
 **{{cfp.notification}}**
-    We'll let you know whether your proposal was accepted
+    We'll let you know whether your proposal was accepted, and ask you for some suplimentary information about you.
+    Make sure to confirm your talk as soon as you get the email.
 
 **{{cfp.slides_by}}**
     We'll ask you for a copy of your slides so that our human captioners can prepare for your talk
-
-**{{cfp.info_by}}**
-   We'll ask you for your pronouns, how you pronounce your name, and some interesting facts about you so our emcee can prepare to introduce you.
 
 **{{date.short}}**
     Folks start giving talks on stage!
