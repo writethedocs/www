@@ -173,7 +173,7 @@ If you already have a ticket, we will of course refund it - just drop us an emai
 
 {% endif %}
 
-Note that all Speakers must read, understand, and agree to our :doc:`/code-of-conduct`. All talks and slides will need to follow our Code of Conduct. If you are unsure about any aspect of this, please ask us for clarification.
+Note that all speakers must read, understand, and agree to our :doc:`/code-of-conduct`. All talks and slides will need to follow our Code of Conduct. If you are unsure about any aspect of this, please ask us for clarification.
 
 Timeline overview
 -----------------
@@ -182,11 +182,11 @@ Timeline overview
     Call for Proposal ends
 
 **{{cfp.notification}}**
-    We'll let you know whether your proposal was accepted, and ask you for some suplimentary information about you.
+    We'll let you know whether your proposal was accepted, and ask for some supplementary information about you.
     Make sure to confirm your talk as soon as you get the email.
 
 **{{cfp.slides_by}}**
-    We'll ask you for a copy of your slides so that our human captioners can prepare for your talk
+    We'll ask for a copy of your slides so our human captioners can prepare for your talk
 
 **{{date.short}}**
     Folks start giving talks on stage!
@@ -199,7 +199,7 @@ If you'd like some guidance on how to create a talk proposal, take a look at our
 Questions?
 ----------
 
-If you have any questions about any part of this process, please email us at `{{email}} <mailto:{{email}}>`_, we'll be happy to chat.
+If you have any questions about any part of this process, please email us at `{{email}} <mailto:{{email}}>`_; we'll be happy to chat.
 
 {% if flagcfp %}
 
@@ -209,9 +209,9 @@ Submit your proposal
 Please make sure you read this entire page before submitting your proposal, and pay particular attention to the following points:
 
 - **Spoilers** it's pretty normal not to want to include your main point in your abstract, but please make sure to highlight it for the selection committee!
-- **Research** we don't need all talks to be about a new topic, but if you're suggesting a talk that looks really similar to one that was given last year, show you know that, and mention why yours is different.
+- **Research** We don't need all talks to be about an entirely new topic, but if you're suggesting a talk that looks really similar to one that was given last year, demonstrate that you realize this and mention why yours is different.
 - **Tooling** we're pretty serious about preferring talks about people, process or principles than talks about tooling. If you are submitting a proposal about tooling, tell us what makes this one special.
-- **Example proposal** so you know what we expect to see in each field.
+- **Example proposal** Check out our example so you know what we expect to see in each field.
 
 Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx account, unless you already have one from a previous conference.
 
@@ -223,7 +223,7 @@ Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx accoun
         </div>
     </div>
 
-You'll be able to edit your proposal up until we start reviewing talks.
+You'll be able to edit your proposal up until the submission deadline. Please be considerate of our reviewers when making changes to talks you've already submitted.
 
 {% endif %}
 

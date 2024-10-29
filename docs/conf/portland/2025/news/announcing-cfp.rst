@@ -8,9 +8,9 @@
 Announcing the Call for Proposals and Sponsorship Prospectus
 ============================================================
 
-We're excited to announce our Portland `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_, opening even earlier than last year, even though the conference back at the start of May this time around.
+We're excited to announce our Portland `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_, opening even earlier than last year.
 
-We're also launching our `Sponsorship Prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ for 2024 with all the information for sponsoring the conference.
+We're also launching our `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ with all the information for sponsoring the conference.
 
 Read on for more details about how you can get involved this year.
 
@@ -18,7 +18,7 @@ Call for Proposals
 ------------------
 
 Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
-If there is something you'd really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good!
+If there's something you'd really like to see a talk on this year, submit a proposal, or send the submission link to someone else you would like to hear from!
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
 We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!
@@ -35,36 +35,30 @@ The Call for Proposals will be open until **11:59 PM {{cfp.ends}} PST**, so harn
 Sponsorship Updates
 -------------------
 
-Our `Sponsorship Prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ is updated for {{ year }},
+Our `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ is updated for {{ year }},
 with various improvements based on sponsor feedback.
 
-We're focussing on in-person interaction at the conference, taking full advantage of {{ about.venue }} with plenty of space for sponsors to interact with attendees.
+We're focusing on in-person interaction at the conference, taking full advantage of {{ about.venue }} with a dedicated space for sponsors in the hallway outside the main venue.
 
 Tickets
 -------
 
 Tickets will go on sale in {{ date.tickets_live }}.
 
-As always, we keep ticket prices low so that the event is accessible to the widest range of people possible.
-However, if you can't afford the tickets and still wish to attend, we will launch our grants program soon after opening ticket sales.
+As always, we try to keep ticket prices low so that the event is accessible to the widest range of people.
+If you can't afford the tickets and still wish to attend, we will launch our grants program soon after opening ticket sales.
 
-Write the Docs Atlantic {{ year }}
----------------------------------
-
-If you want to speak at Write the Docs, but can't or don't want to attend an in-person event, keep an eye out for Write the Docs Atlantic, an online conference coming later in {{ year }}.
-
-This conference will be entirely virtual, in a timezone that works for as many people as possible, so you can present and attend from anywhere.
 
 Stay Updated
 ------------
 
 Want to find out what's happening with the conference, or enjoy our monthly global community newsletter?
-Sign up to one or more of our `mailing lists <http://eepurl.com/cdWqc5>`_. Your information will never be shared with any third-parties, and you can unsubscribe at any time.
+Sign up to one or more of our `mailing lists <http://eepurl.com/cdWqc5>`_. Your information will never be shared with any third parties, and you can unsubscribe at any time.
 
-Want to connect with other documentarians in real-time? Join our `Slack <https://writethedocs.org/slack/>`_.
+Want to connect with other documentarians in real-time? Join our `Slack <https://www.writethedocs.org/slack/>`_.
 
 Thanks
 ------
 
-We hope you will join us in-person for yet another Write the Docs conference.
+We hope you will join us in person for yet another Write the Docs conference.
 Whether as a speaker or attendee, you can bet it will be another excellent year.
