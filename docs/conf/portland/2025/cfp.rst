@@ -138,7 +138,7 @@ If you need a hand preparing or honing your talk proposal, there are lots of goo
 * **Twitter hivemind** – If Twitter is more your speed, `#writethedocs <https://twitter.com/hashtag/writethedocs>`__ will get you there.
 
 Selection process
-------------------
+-----------------
 
 We have a small panel of proposal reviewers. We ensure that the diversity in the panel reflects who we aim to have as speakers. 
 
@@ -147,7 +147,7 @@ Proposals are rated on a scale of five, after which we meet and discuss the top-
 To actively promote diversity, we choose not to review talks anonymously, allowing us to intentionally balance various perspectives and backgrounds.
 
 Speaker benefits & logistics
----------------------------
+----------------------------
 
 **Benefits** 
 - Opportunity to share your views and perspectives with the community!
@@ -256,8 +256,8 @@ If you have any questions, please email us at `{{email}} <mailto:{{email}}>`_ an
 
 {% if flagcfp %}
 
-Write the Docs Atlantic 2024
-----------------------------
+Write the Docs Atlantic 
+-----------------------
 
 If you want to speak at Write the Docs but can't or don't want to attend an in-person event, keep an eye out for Write the Docs Atlantic, coming later in the year.
 
