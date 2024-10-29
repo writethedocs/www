@@ -208,9 +208,9 @@ Submit your proposal
 
 Please make sure you read this entire page before submitting your proposal, and pay particular attention to the following points:
 
-- **Spoilers** it's pretty normal not to want to include your main point in your abstract, but please make sure to highlight it for the selection committee!
+- **Spoilers** It's pretty normal not to want to include your main point in your abstract, but please make sure to highlight it for the selection committee!
 - **Research** We don't need all talks to be about an entirely new topic, but if you're suggesting a talk that looks really similar to one that was given last year, demonstrate that you realize this and mention why yours is different.
-- **Tooling** we're pretty serious about preferring talks about people, process or principles than talks about tooling. If you are submitting a proposal about tooling, tell us what makes this one special.
+- **Tooling** We're pretty serious about preferring talks about people, process or principles than talks about tooling. If you are submitting a proposal about tooling, tell us what makes this one special.
 - **Example proposal** Check out our example so you know what we expect to see in each field.
 
 Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx account, unless you already have one from a previous conference.
