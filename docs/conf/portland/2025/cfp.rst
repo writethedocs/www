@@ -59,7 +59,7 @@ We welcome first-time speakers, industry experts, and everyone in between. We es
 
 We want to hear a variety of viewpoints, so we limit speakers to two talks in any four year period at each location.
 
-**Single vs. co-speakers**
+**Number of speakers**
 
 We do strongly prefer talks written and given by a single speaker, and if you're planning to submit with a co-speaker, please let us know why you're doing so.
 
@@ -75,7 +75,7 @@ Talks from the scientific community, fiction writers, system administrators, and
 
 **Past speakers**
 
-View our past speaker roles, and always remember, you do not have to fit one of these to be a speaker!
+Our speakers come from all over the industry, and have included the following roles 
 
 * Writers
 * Developers
@@ -102,7 +102,7 @@ We prefer talks backed by experience and experimentation to talks about theory, 
 
 **Process over tooling**
 
-We tend to avoid talks about specific tools, which often turn into marketing pitches or tutorials. We would much rather hear about process, culture, data, people, or the metaphysical side effects of spending your life thinking about docs.
+We tend to avoid talks about specific tooling, which often turn into marketing pitches or tutorials. We would much rather hear about process, culture, data, people, or the metaphysical side effects of spending your life thinking about docs.
 
 **New ideas**
 
@@ -160,7 +160,7 @@ If you already have a ticket, we will of course refund it - just drop us an emai
 
 **Logistics**
 
-Presentations will be **May 5-6, 2025**, scheduled in 30-minute blocks, delivered **in-person, on-stage, live in Portland, Oregon.**
+Presentations will be **{{date.short}}**, scheduled in 30-minute blocks, delivered **in-person, on-stage, live in {{city}}.**
 
 All Speakers must read, understand, and agree to our :doc:`/code-of-conduct`. All talks and slides will need to follow our Code of Conduct. If you are unsure about any aspect of this, please ask us for clarification.
 
@@ -252,7 +252,7 @@ You'll be able to edit your proposal up until the submission deadline. Please be
 Questions?
 ----------
 
-If you have any questions, please email us at `{{email}} <mailto:{{email}}>`_ and let us know.
+Email any questions about this process to us at `{{email}} <mailto:{{email}}>`_.
 
 {% if flagcfp %}
 
