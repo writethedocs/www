@@ -35,6 +35,11 @@ You can do that here:
 
 {% endif %}
 
+.. contents::
+    :local:
+    :depth: 1
+    :backlinks: none
+
 Conference goals
 ----------------
 
@@ -65,28 +70,13 @@ We do strongly prefer talks written and given by a single speaker, and if you're
 
 **People on stage**
 
-We *strongly* prefer talks presented by one *single speaker*. If you're planning to submit with a co-speaker, please let us know why, and take note that it will affect the chances of your talk being selected.
+We *strongly* prefer talks _presented_ by one *single speaker*. If you're planning to submit with a co-speaker, please let us know why, and take note that it will affect the chances of your talk being selected.
 
 You are of course welcome to write the talk with other people, as long as only one person is presenting.
 
 **Mix of roles and perspectives**
 
 Talks from the scientific community, fiction writers, system administrators, and support staff – as well as technical writers and software developers – all are valuable to our attendees.
-
-**Past speakers**
-
-Our speakers come from all over the industry, and have included the following roles 
-
-* Writers
-* Developers
-* Designers
-* Testers
-* Support folks
-* Developer advocates
-* Community managers
-* Scientists
-* Librarians
-* Teachers
 
 What we’re looking for
 ----------------------
@@ -106,7 +96,7 @@ We tend to avoid talks about specific tooling, which often turn into marketing p
 
 **New ideas**
 
-Whatever your background and experience, we prefer hearing about new approaches rather than about tried-and-tested technology.
+This isn't a hard and fast rule, but we're more likely to include talks on topics that have not been covered before than talks that have been touched on in multiple recent conferences.
 
 **Benefit to the community**
 
@@ -140,7 +130,7 @@ If you need a hand preparing or honing your talk proposal, there are lots of goo
 Selection process
 -----------------
 
-We have a small panel of proposal reviewers. We ensure that the diversity in the panel reflects who we aim to have as speakers. 
+We have a small panel of proposal reviewers. We ensure that the diversity in the panel reflects who we aim to have as speakers.
 
 Proposals are rated on a scale of five, after which we meet and discuss the top-rated submissions in detail.
 
@@ -149,7 +139,7 @@ To actively promote diversity, we choose not to review talks anonymously, allowi
 Speaker benefits & logistics
 ----------------------------
 
-**Benefits** 
+**Benefits**
 - Opportunity to share your views and perspectives with the community!
 - Waived attendance fee.
 - Supplemental financial support if needed. If speaking incurs any costs that are difficult for you to cover, `contact us <mailto:{{email}}>`_ and we'll do our best to help out.
@@ -185,45 +175,7 @@ Timeline overview
 Example proposal
 ----------------
 
-Below is additional information and ideas to better complete specific prompts in the proposal. 
-
-**Abstract**
-
-This is the content Write the Docs posts on the conference schedule.
-
-Include a brief story, typically two to four paragraphs, describing your personal work experience with the topic. Write to appeal to our audience of documentarians. We’re suspicious of proposals that look like they belong at other conferences.
-
-Include a list of takeaways that our audience can learn from your talk, such as:
-
-- Lessons the audience can apply in their own work
-- Ideas the audience should research further
-- Spoilers that provide details about the talk
-
-Avoid walls of text. We recommend that you limit your abstract to a maximum of 300 words. If your proposal is accepted, this is what the audience will see in the program when they preview your talk.
-
-**Who and Why**
-
-Answer the questions:
-- Who is this talk for?
-- Why is this helpful, applicable, important, etc.? 
- 
-Help your audience think: “Oh yes, this talk could help me when I do X in my work!”
-
-Our audience creates documentation primarily for software. Given the variety of tools used for software documentation, we rarely accept talks that focus on a specific software tool or set of tools. If a talk does include tools, you should also discuss the wider context, applications, and implications of implementing the tools.
-
-Our audience goes beyond the technical writing community. Here’s a typical demographic distribution of people who attend our conferences:
-
-- Technical Writers (60%)
-- Developers (10%)
-- Support Staff (10%)
-- Managers (10%)
-- Community Contributors, Enthusiasts & Other Folks (10%)
-
-**Other Information**
-
-Based on your background, use this section to describe your qualifications to the selection committee.
-
-As discussed above, we've welcomed talks from first-time speakers, industry experts, and everyone in between. If you believe that you have something valuable to share, tell us why and submit your proposal.
+Take a look at our :doc:`Example proposal <example-proposal>`, with additional guidance on the proposal format:
 
 Submit your proposal
 --------------------------
@@ -233,7 +185,7 @@ Please make sure you read this entire page before submitting your proposal, and 
 - **Spoilers** It's pretty normal not to want to include your main point in your abstract, but please make sure to highlight it for the selection committee!
 - **Research** We don't need all talks to be about an entirely new topic, but if you're suggesting a talk that looks really similar to one that was given last year, demonstrate that you realize this and mention why yours is different.
 - **Tooling** We're pretty serious about preferring talks about people, process or principles than talks about tooling. If you are submitting a proposal about tooling, tell us what makes this one special.
-- **Example proposal** Check out our example so you know what we expect to see in each field.
+- **Example proposal** Check out our :doc:`example proposal <example-proposal>` so you know what we expect to see in each field.
 
 Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx account, unless you already have one from a previous conference.
 
@@ -253,16 +205,3 @@ Questions?
 ----------
 
 Email any questions about this process to us at `{{email}} <mailto:{{email}}>`_.
-
-{% if flagcfp %}
-
-Write the Docs Atlantic 
------------------------
-
-If you want to speak at Write the Docs but can't or don't want to attend an in-person event, keep an eye out for Write the Docs Atlantic, coming later in the year.
-
-This conference is entirely virtual, between the Central European Summer Time (CEST) and Eastern Daylight Time (EDT) time zones, so you can present or attend from almost anywhere.
-
-Talks for Write the Docs Atlantic are pre-recorded, with live Question and Answer sessions.
-
-{% endif %}
