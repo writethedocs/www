@@ -17,6 +17,9 @@
       {% if not flagisvirtual %}
         <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsor-expo') }}">Sponsor Expo</a></li>
       {% endif %}
+      {% if shortcode == "australia" %}
+        <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/panel') }}">Tales From the Trenches</a></li>
+      {% endif %}
       {% if flaghashike %}
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/hike') }}">Hike</a></li>
       {% endif %}
