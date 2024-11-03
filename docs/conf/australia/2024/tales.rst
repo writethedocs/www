@@ -3,7 +3,7 @@
 Tales from the Trenches
 =======================
 
-**Where real stories meet tech docs.** This year, Write the Docs Australia is excited to introduce "Tales from the Trenches"—a new initiative inviting attendees to share their unique experiences and offer fresh perspectives. We’re offering the usual [lightning talks](https://www.writethedocs.org/conf/australia/2024/lightning-talks/) session on Day 1, but with "Tales from the Trenches" on Day 2, we’re setting three broad topics to help spark ideas and focus your stories. 
+**Where real stories meet tech docs.** This year, Write the Docs Australia is excited to introduce "Tales from the Trenches"—a new initiative inviting attendees to share their unique experiences and offer fresh perspectives. We’re offering the usual `lightning talks`_ session on Day 1, but with "Tales from the Trenches" on Day 2, we’re setting three broad topics to help spark ideas and focus your stories. 
 
 Why join in?
 ------------
@@ -18,7 +18,7 @@ Who’s it for?
 How It Works
 ------------
                                                                                                                                                                                                                                                                             
-- **Talks on Day 2**: Tales from the Trenches" will close out Day 2 with 5-7 minute lightning-style talks—no slides, just you and your story.  
+- **Talks on Day 2**: "Tales from the Trenches" will close out Day 2 with 5-7 minute lightning-style talks—no slides, just you and your story.  
 - **Pick a topic**: We’ll have three themes to get your ideas flowing.  
 - **Sign up**: Add your name to the sheet when you register to claim your spot under a topic. If spots fill up fast, we’ll draw names to keep things fair.
 
@@ -35,3 +35,5 @@ Your five minutes of fame!
 Whether it’s a documentation horror story, a tech-writing hack, or a valuable lesson learned, your story matters. Step up, share a tale, and make your mark at the conference\! Plus, by contributing, you’ll be adding to a rich, diverse experience that everyone can learn from.
 
 **Note:** All talks will be recorded and shared on the Write the Docs Australia YouTube channel.
+
+.. _lightning talks: https://www.writethedocs.org/conf/australia/2024/lightning-talks/
