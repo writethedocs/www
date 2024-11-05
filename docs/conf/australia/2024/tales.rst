@@ -32,7 +32,7 @@ Topics for your tales
 ---------------------
 
 - **AI in documentation** – What problem did AI ***not*** solve for you? How has AI changed how you work? This could include experiences with AI tools, automation, challenges, and how tech writers are navigating the world of AI.  
-- **Tech writing fails & documentation horror stories** – We’ve all been there. Whether it’s an embarrassing moment, a big mistake, or just a funny story, we’ve all had fails. Tell us what happened and what you learned\!  
+- **Tech writing fails & documentation horror stories** – We’ve all been there. Whether it’s an embarrassing moment, a big mistake, or just a funny story, we’ve all had fails. Tell us what happened and what you learned!  
 - **Soft skills in technical writing** – What’s a soft skill that’s made a difference in your work? Share stories about resilience, time management, dealing with imposter syndrome, mentoring others, or balancing feedback.
 
 Your five minutes of fame!
