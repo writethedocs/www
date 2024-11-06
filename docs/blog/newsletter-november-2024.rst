@@ -68,7 +68,7 @@ Originally created to address customer concerns over unclear documentation, the 
 3. Fix: Explain what exactly was done to resolve it.
 4. Result: Detail the outcome post-fix.
 
-This template has helped transform release notes from being a pain point to a respected tool that even supported sales by demonstrating the transparency and reliability of their product updates. Introducing a structure like CCFR in your team, particularly if people who aren't focused on writing are managing release notes, can help standardize the content and increase its effectiveness. It's a strategy worth considering, especially if you want to illustrate the added value a documentarian can bring to release documentation.
+This template helped transform release notes from being a pain point to a respected tool that even supported sales by demonstrating the transparency and reliability of their product updates. Introducing a structure like CCFR in your team, particularly if people who aren't focused on writing are managing release notes, may help standardize the content and increase its effectiveness. It's a strategy worth considering, especially if you want to illustrate the added value a documentarian can bring to release documentation.
 
 ------------------
 Featured job posts
