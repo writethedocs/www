@@ -59,8 +59,9 @@ If you will reuse images, consider storing all images within a single directory,
 Featured job posts
 ------------------
 
-`Technical Documentation Lead <https://nutrient.bamboohr.com/hiring/jobs/161>`__, Nutrient (Remote)
+`Technical Documentation Lead <https://nutrient.bamboohr.com/careers/161>`__, Nutrient (Remote)
 
+Interested in promoting your open position? See our `job posting sponsorship <https://www.writethedocs.org/sponsorship/jobs/>`__ for more details.
 ----------------
 Events coming up
 ----------------
