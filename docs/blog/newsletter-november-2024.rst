@@ -59,7 +59,7 @@ If you will reuse images, consider storing all images within a single directory,
 Streamline your release notes with a template
 ---------------------------------------------
 
-For members of the Write the Docs community, the topic of release notes often sparks lively discussion. Whether you're a solo technical writer or part of a larger team, establishing a structured approach to release notes can streamline workflows and enhance the value of documentation. One celebrated approach is a template pioneered at Red Hat focused on cause, consequence, fix, and result (CCFR). This format has proven to be a simple yet powerful way to ensure that release notes are clear, actionable, and highly useful to both internal and external audiences.
+For members of the Write the Docs community, the topic of release notes often sparks lively discussion. Whether you're a solo technical writer or part of a larger team, establishing a structured approach to release notes can streamline workflows and enhance the value of documentation. One celebrated approach is a template pioneered by Brian Forté at Red Hat focused on cause, consequence, fix, and result (CCFR). This format has proven to be a simple yet powerful way to ensure that release notes are clear, actionable, and highly useful to both internal and external audiences.
 
 Originally created to address customer concerns over unclear documentation, the CCFR template provides a straightforward method for documenting each change:
 
