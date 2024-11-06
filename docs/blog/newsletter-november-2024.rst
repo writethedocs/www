@@ -1,6 +1,6 @@
 :og:image: https://www.writethedocs.org/_static/logo-opengraph.png
 
-.. post:: November 05, 2024
+.. post:: November 06, 2024
   :tags: newsletter
 
 #########################################
@@ -13,7 +13,7 @@ If you have enough calm and want some inspiration, good news: The Write the Docs
 
 The `WTD Salary Survey for 2024 <https://salary-survey.writethedocs.org/>`__ is now open! New this year: you can fill the survey out as both an employee and contractor if you've worked as both during the past year; answers can be edited before the final submission; and for privacy, salary/rate fields are masked by default. Head on over and share your insights – each contribution helps build a clearer picture of what fair, equitable, and transparent compensation looks like in our industry. Full-time or part-time, permanent or contract, working or currently between jobs – we want your input!
 
-And in the newsletter this month, we have insights into whether to use emoji in docs, whether you need to know a tool before applying to work with it, and dealing with assets with docs-as-code. Enjoy!
+And in the newsletter this month, we have insights into whether to use emoji in docs, whether you need to know a tool before applying to work with it, dealing with assets with docs-as-code, and using a template for release notes. Enjoy!
 
 ----------------------------------------------
 Emoji in documentation: :yes-please: or :yuk:?
@@ -54,6 +54,21 @@ Unsurprisingly, the answers on what to do varied based on what was required. For
 If you land somewhere in between, your organizational options may depend on your build tool. Some require images to be stored in specific places to take advantage of their workflows. If your tool is more flexible, consider whether you're likely to reuse the images across docs. If not, consider storing the images in a subdirectory with the doc. For example, `src/get-started/intro.md` could have images like `src/get-started/img/flow.png`. Doing this keeps files organized by topic.
 
 If you will reuse images, consider storing all images within a single directory, which you can separate into subdirectories by topic or product. When images are separate from the docs, see if you can use a helper tool like a `path autocomplete extension for your IDE <https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete>`__ to make writing the locations easier.
+
+---------------------------------------------
+Streamline your release notes with a template
+---------------------------------------------
+
+For members of the Write the Docs community, the topic of release notes often sparks lively discussion. Whether you're a solo technical writer or part of a larger team, establishing a structured approach to release notes can streamline workflows and enhance the value of documentation. One celebrated approach is a template pioneered at Red Hat focused on cause, consequence, fix, and result (CCFR). This format has proven to be a simple yet powerful way to ensure that release notes are clear, actionable, and highly useful to both internal and external audiences.
+
+Originally created to address customer concerns over unclear documentation, the CCFR template provides a straightforward method for documenting each change:
+
+1. Cause: Describe what triggers the issue.
+2. Consequence: Outline the effects of the issue.
+3. Fix: Explain what exactly was done to resolve it.
+4. Result: Detail the outcome post-fix.
+
+This template has helped transform release notes from being a pain point to a respected tool that even supported sales by demonstrating the transparency and reliability of their product updates. Introducing a structure like CCFR in your team, particularly if people who aren't focused on writing are managing release notes, can help standardize the content and increase its effectiveness. It's a strategy worth considering, especially if you want to illustrate the added value a documentarian can bring to release documentation.
 
 ------------------
 Featured job posts
