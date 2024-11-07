@@ -26,6 +26,7 @@ This is a safe space: no pressure, no judgments – just a creative and supporti
 Schedule
 --------
 
+- **Time:** Day 1, Thursday 28 November 2024, 2.10pm.
 - **Duration:** 2-hour session with a coffee break in the middle.
 
   - **Workshop time:** The Brick Docs workshop itself takes one hour, designed to fit within the typical time constraints of the average office. We want to make it practical for you to replicate when you get back to work.  
