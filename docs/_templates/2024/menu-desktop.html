@@ -23,6 +23,9 @@
             {% if shortcode == "australia" %}
              <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/tales') }}">Tales From the Trenches</a></li>
             {% endif %}
+             {% if shortcode == "australia" %}
+             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/workshop') }}">Brick Docs Workshop</a></li>
+            {% endif %}
             {% if flaghashike %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/hike') }}">Hike</a></li>
             {% endif %}
