@@ -2,17 +2,17 @@
 :banner: _static/conf/images/headers/portland-2024-speakers.jpg
 :og:image: _static/conf/images/headers/portland-2024-speakers.jpg
 
-.. post:: Oct 28, 2024
+.. post:: Nov 11, 2024
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
 Announcing the Call for Proposals and Sponsorship Prospectus
 ============================================================
 
-We're excited to announce our Portland `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_, opening even earlier than last year.
+We're excited to announce our Portland `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_!
 
 We're also launching our `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ with all the information for sponsoring the conference.
 
-Read on for more details about how you can get involved this year.
+Read on for more details about getting involved this year.
 
 Call for Proposals
 ------------------
@@ -30,7 +30,6 @@ You can read our full `Call for Proposals <https://www.writethedocs.org/conf/por
 The Call for Proposals will be open until **11:59 PM {{cfp.ends}} PST**, so harness that new year energy!
 
 (If you'd prefer not to attend an in-person event due to COVID-19 or any other reason, keep an eye out for our Atlantic conference held online in a timezone accessible to people all over the world).
-
 
 Sponsorship Updates
 -------------------
