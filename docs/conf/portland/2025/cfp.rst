@@ -49,7 +49,7 @@ Write the Docs conferences are our opportunity to get together to explore and ce
 
 Between the talks on stage, the discussions in the Unconference, the collaboration on Writing Day and other conversations, 100% of the content for our conferences comes from our community! Your perspective on what makes good docs is what this conference is all about.
 
- You'll have the chance to compare notes on what's happening in the industry, dig into questions of convention and good practice, and generally nerd out about all the things we love about documentation.
+You'll have the chance to compare notes on what's happening in the industry, dig into questions of convention and good practice, and generally nerd out about all the things we love about documentation.
 
 Who we're looking for
 ---------------------
@@ -111,6 +111,17 @@ Check out topics that might be related to your talk from previous years:
 * `Portland {{year-2}} <https://www.writethedocs.org/conf/portland/{{year-2}}/speakers/>`_
 * `Atlantic {{year-2}} <https://www.writethedocs.org/conf/atlantic/{{year-2}}/speakers/>`_
 
+Writing your proposal
+---------------------
+
+Make sure you read this entire page before putting your proposal together, and pay particular attention to the following points:
+
+- **Spoilers** It's pretty normal not to want to include your main point in your abstract, but please make sure to highlight it for the selection committee!
+- **Research** We don't need all talks to be about an entirely new topic, but if you're suggesting a talk that looks really similar to one that was given last year, demonstrate that you realize this and mention why yours is different.
+- **Tooling** We're pretty serious about preferring talks about people, process or principles than talks about tooling. If you are submitting a proposal about tooling, tell us what makes this one special.
+- **Example proposal** Check out our :doc:`example proposal <example-proposal>` so you know what we expect to see in each field.
+
+
 Unsure about speaking?
 ------------------------
 
@@ -132,25 +143,24 @@ Proposals are rated on a scale of five, after which we meet and discuss the top-
 
 To actively promote diversity, we choose not to review talks anonymously, allowing us to intentionally balance various perspectives and backgrounds.
 
-Speaker benefits & logistics
-----------------------------
+{% if flagcfp %}
 
-**Benefits**
+Speaker benefits
+----------------
+
 - Opportunity to share your views and perspectives with the community!
 - Waived attendance fee.
 - Supplemental financial support if needed. If speaking incurs any costs that are difficult for you to cover, `contact us <mailto:{{email}}>`_ and we'll do our best to help out.
 
 If you already have a ticket, we will of course refund it - just drop us an email at `{{email}} <mailto:{{email}}>`_.
 
-{% if flagcfp %}
+Speaker logistics
+-----------------
 
-**Logistics**
-
-Presentations will be **{{date.short}}**, scheduled in 30-minute blocks, delivered **in-person, on-stage, live in {{city}}.**
+Presentations will be **{{date.short}}**, scheduled in 30-minute blocks, delivered **in-person, on-stage, live in {{city}}**.
+Please plan to attend the whole event.
 
 All Speakers must read, understand, and agree to our :doc:`/code-of-conduct`. All talks and slides will need to follow our Code of Conduct. If you are unsure about any aspect of this, please ask us for clarification.
-
-Note that all speakers must read, understand, and agree to our :doc:`/code-of-conduct`. All talks and slides will need to follow our Code of Conduct. If you are unsure about any aspect of this, please ask us for clarification.
 
 Timeline overview
 -----------------
@@ -175,13 +185,6 @@ Take a look at our :doc:`Example proposal <example-proposal>`, with additional g
 
 Submit your proposal
 --------------------------
-
-Please make sure you read this entire page before submitting your proposal, and pay particular attention to the following points:
-
-- **Spoilers** It's pretty normal not to want to include your main point in your abstract, but please make sure to highlight it for the selection committee!
-- **Research** We don't need all talks to be about an entirely new topic, but if you're suggesting a talk that looks really similar to one that was given last year, demonstrate that you realize this and mention why yours is different.
-- **Tooling** We're pretty serious about preferring talks about people, process or principles than talks about tooling. If you are submitting a proposal about tooling, tell us what makes this one special.
-- **Example proposal** Check out our :doc:`example proposal <example-proposal>` so you know what we expect to see in each field.
 
 Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx account, unless you already have one from a previous conference.
 
