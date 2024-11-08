@@ -54,47 +54,41 @@ talks_day1:
     title: "<b>Social Event Ends</b>"
 
 talks_day2:
-  - time: '9:00'
+  - time: '9:15'
     title: Doors open
     duration: '0:30'
   - duration: '0:30'
     slug: a-view-from-the-sidelines-gerry-gaffney
   - duration: '0:10'
     title: '✋ 10 min Q&A'
-  - duration: '0:05'
-    title: '5 minute break'
+  - duration: '0:20'
+    title: '☕ Coffee break'
   - duration: '0:30'
     slug: where-journalism-and-advertising-writing-skills-overlap-with-technical-writing-justine-stewart
   - duration: '0:10'
     title: '✋ 10 min Q&A'
-  - duration: '0:20'
-    title: '☕ Coffee break'
+  - duration: '0:05'
+    title: '5 minute break'
   - duration: '0:30'
     slug: how-we-improved-qualitative-feedback-in-our-documentation-austin-lai
   - duration: '0:10'
     title: '✋ 10 min Q&A'
-  - duration: '0:05'
-    title: '5 minute break'
+  - duration: '1:00'
+    title: '🍽️ Lunch Break (60 mins)'
   - duration: '0:30'
     slug: snack-videos-for-your-audience-ruth
   - duration: '0:10'
     title: '✋ 10 min Q&A'
-  - duration: '1:00'
-    title: '🍽️ Lunch Break (60 mins)'
-  - duration: '0:20'
-    title: Lightning Talks (20 mins)
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
     slug: tips-for-great-review-comments-cameron-shorter
   - duration: '0:10'
     title: '✋ 10 min Q&A'
-  - duration: '0:20'
+  - duration: '0:25'
     title: '☕ Coffee break'
-  - duration: '0:30'
+  - duration: '0:45'
     title: '<a href="../tales/">Tales from the Trenches</a>'
-  - duration: '0:10'
-    title: '✋ 10 min Q&A'
   - duration: '0:15'
     title: Write the Docs team - Conference closing
   - duration: '0:00'
