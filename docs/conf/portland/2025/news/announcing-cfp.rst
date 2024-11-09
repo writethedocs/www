@@ -50,6 +50,12 @@ Prices are the same as last year:
 * **Independent Tickets**: *{{tickets.independent.price}}*
 * **Corporate Tickets**: *{{tickets.corporate.price}}*
 
+Prices are the same as last year:
+
+* **Student or Unemployed Tickets**: *{{tickets.student.price}}*
+* **Independent Tickets**: *{{tickets.independent.price}}*
+* **Corporate Tickets**: *{{tickets.corporate.price}}*
+
 As always, we try to keep ticket prices low so that the event is accessible to the widest range of people.
 If you can't afford the tickets and still wish to attend, we will launch our grants program soon after opening ticket sales.
 
