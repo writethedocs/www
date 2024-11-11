@@ -32,31 +32,6 @@
     <p>In this session, I’ll share the journey of implementing a documentation survey and 
     fixing it by dissecting the survey mechanism, enhancing feedback paths, updating our 
     survey design, and integrating survey results with our data analytics platform.</p>'
-- title: Creating truly accessible documentation
-  slug: creating-truly-accessible-documentation-felicia-sephodi
-  series: Write the Docs Australia
-  series_slug: australia
-  year: 2024
-  speakers:
-  - name: Felicia Sephodi
-    slug: felicia-sephodi
-    twitter: 
-    website: 
-  abstract: '<p>I recently gave a talk at another conference on accessible development
-    and after I gave the talk, I had to take a technical writing for accessibility
-    course where I learned about the art of creating useful alt text. It happened
-    that during my slides creation, some of my examples were not inclusive of audiences
-    with disabilities, I later realized that was also a pattern in my workplace. This 
-    session is a mixture of what I learned in detail, creating documentation
-    for all users and advanced ways for making documentation usable for everyone.</p>
-    
-    <p>Understanding the art of creating disability-friendly content, I will explain 
-    the problem with the alt text during my talk and how I solved it. Additionally, 
-    I will show ways to create effective alt text and content that adapts
-    depending on the user. The session will also touch on inclusive design patterns as 
-    a method for helping create accessible documentation. Lastly, I will highlight 
-    efforts for collaboration, testing and ensuring that everyone is on board with 
-    accessibility in documentation design.</p>'
 - title: Mastering review comments — Fine-tuning feedback for better docs
   slug: tips-for-great-review-comments-cameron-shorter
   series: Write the Docs Australia
@@ -281,7 +256,9 @@
 
     <li>Facilitating this workshop</li>
 
-    </ul>'
+    </ul>
+    
+    <p>Check out the <a href="/conf/australia/2024/workshop/">Brick Docs Workshop</a> page for more detail.</p>'
 - title: Don’t make me think - the UX of Developer Experience
   slug: don-t-make-me-think-the-ux-of-developer-experience-theresa-neate
   series: Write the Docs Australia

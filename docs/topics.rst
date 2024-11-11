@@ -43,6 +43,7 @@ Specific writing questions
 
 One word vs another, using abbreviations, etc.
 
+- |:newspaper:| `Emoji in documentation: :yes-please: or :yuk:? </blog/newsletter-november-2024/#emoji-in-documentation-yes-please-or-yuk>`__
 - |:newspaper:| `Hyperlink Text </blog/newsletter-october-2023/#hyperlink-text>`__
 - |:newspaper:| `Numbering Section Headings </blog/newsletter-september-2023/#numbering-section-headings>`__
 - |:newspaper:| `Gerunds in headings </blog/newsletter-october-2022/#gerunds-in-headings>`__
@@ -298,6 +299,7 @@ Hiring
 Getting hired
 ~~~~~~~~~~~~~
 
+- |:newspaper:| `Are tool experience requirements a myth? </blog/newsletter-november-2024/#are-tool-experience-requirements-a-myth>`__
 - |:newspaper:| `Handling employment gaps </blog/newsletter-september-2024/#handling-employment-gaps>`__
 - |:newspaper:| `Setting Up for Success as a Neurodivergent Person </blog/newsletter-july-2023/#setting-up-for-success-as-a-neurodivergent-person>`__
 - |:newspaper:| `Extreme take-home tests </blog/newsletter-june-2023/#extreme-take-home-tests>`__
@@ -516,6 +518,7 @@ Doc tools
 Docs-as-code
 ~~~~~~~~~~~~
 
+- |:newspaper:| `Dealing with images and other assets in docs-as-code </blog/newsletter-november-2024/#dealing-with-images-and-other-assets-in-docs-as-code>`__
 - |:newspaper:| `Is Docs-as-Code Worth It? </blog/newsletter-may-2024/#is-docs-as-code-worth-it>`__
 - |:newspaper:| `Drafting Docs with Code Changes </blog/newsletter-april-2024/#drafting-docs-with-code-changes>`__
 - |:newspaper:| `Docs with Code Or Just as Code? </blog/newsletter-october-2023/#docs-with-code-or-just-as-code>`__
