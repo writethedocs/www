@@ -29,7 +29,7 @@ You can read our full `Call for Proposals <https://www.writethedocs.org/conf/por
 
 The Call for Proposals will be open until **11:59 PM {{cfp.ends}} PST**, so harness that new year energy!
 
-(If you'd prefer not to attend an in-person event due to COVID-19 or any other reason, keep an eye out for our Atlantic conference held online in a timezone accessible to people all over the world).
+(If you'd prefer not to attend an in-person event, keep an eye out for our Atlantic conference held online in a timezone accessible to people all over the world).
 
 Sponsorship Updates
 -------------------
@@ -43,12 +43,6 @@ Tickets
 -------
 
 Tickets will go on sale in {{ date.tickets_live }}.
-
-Prices are the same as last year:
-
-* **Student or Unemployed Tickets**: *{{tickets.student.price}}*
-* **Independent Tickets**: *{{tickets.independent.price}}*
-* **Corporate Tickets**: *{{tickets.corporate.price}}*
 
 Prices are the same as last year:
 
