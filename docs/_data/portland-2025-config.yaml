@@ -1,6 +1,6 @@
 name: Portland
 
-shortcode: portland 
+shortcode: portland
 year: 2025
 city: Portland
 local_area: Oregon
@@ -22,8 +22,8 @@ buttons:
       link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
-    # - text: Submit a Talk
-    #   link: /cfp
+    - text: Submit a Talk
+      link: /cfp
     # - text: See the Schedule!
     #   link: /schedule
     # - text: Buy a Ticket!
@@ -155,11 +155,11 @@ about:
   job_fair_room: Sponsor area
 
 cfp:
-  url: ""                                         # Open October 6 (Mon) -> 9 weeks to submit
-  ends: "January 21, 2025"                        # (Mon) 1 week, to review. It'll take a little longer to announce
+  url: "https://pretalx.com/wtd-portland-2025/cfp" # Open October 6 (Mon) -> 9 weeks to submit
+  ends: "January 21, 2025"                         # (Mon) 1 week, to review. It'll take a little longer to announce
   notification: "February 04, 2025"                # (Mon) 8 weeks to write and prepare
   slides_by: "April 28, 2025"                      # (Mon) 1 week before
-  preview: "TODO"                                 # Preview URL TODO
+  preview: "TODO"                                  # Preview URL TODO
 
 unconf:
   url: ""
@@ -174,7 +174,7 @@ sponsors:
     # - name: gitbook
     #   link: https://www.gitbook.com/?ref=writethedocs
     #   brand: GitBook
-    #   text: "GitBook combines powerful docs with AI-powered search and insights to give technical teams a single source of truth for their knowledge. 
+    #   text: "GitBook combines powerful docs with AI-powered search and insights to give technical teams a single source of truth for their knowledge.
     #          Effortlessly create, surface and improve public and internal documentation that your users and teams will love. "
     # - name: readme
     #   link: https://readme.com/?ref=writethedocs
@@ -263,7 +263,7 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: True
 flaghassponsors: True
-flagcfp: False
+flagcfp: True
 flagticketsonsale: False
 flagsoldout: False
 flagspeakersannounced: False
