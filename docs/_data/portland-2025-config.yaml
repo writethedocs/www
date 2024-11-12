@@ -18,10 +18,10 @@ photos:
 
 buttons:
   top:
-    - text: Date and ticket information
-      link: /news/welcome
-    # - text: Sponsor us
-    #   link: /sponsors/prospectus
+    # - text: Date and ticket information
+    #   link: /news/welcome
+    - text: Sponsor us
+      link: /sponsors/prospectus
     - text: Submit a Talk
       link: /cfp
     # - text: See the Schedule!
