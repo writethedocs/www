@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
-:banner: _static/conf/images/headers/portland-2024-speakers.jpg
-:og:image: _static/conf/images/headers/portland-2024-speakers.jpg
+:banner: _static/conf/images/headers/portland-2025-speakers.jpg
+:og:image: _static/conf/images/headers/portland-2025-speakers.jpg
 
 .. post:: Nov 11, 2024
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
