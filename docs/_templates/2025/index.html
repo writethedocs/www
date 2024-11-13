@@ -113,47 +113,42 @@ Home - Write the Docs {{ name }} {{ year }}
     <div class="uk-container">
 
       <div class="about-content">
-        <h2>What is Write the Docs?</h2>
+      <h2>What is Write the Docs?</h2>
+      <p>
+      Write the Docs is a global community of people who care
+      about documentation: Programmers, Tech Writers,
+      Customer Support, Designers, Project Managers,
+      Developer Advocates, and anyone else who wants people
+      to have a great experience with software. 
+      </p>
+      <p>
+      Created in 2013 in Portland, Oregon, WTD has hosted
+      conferences around the world in Prague, Sydney,
+      Amsterdam, London, and Melbourne.
+      </p>
+      <p>
+      We invite you to our {{ name }} conference to join {{ about.attendees }}
+      other attendees to explore the art and science of
+      documentation!
+
+      {% if flagticketsonsale %}
+        <strong><a href="/conf/{{shortcode}}/{{year}}/tickets/">Tickets</a> are on sale now</strong>.
+      {% endif %}
+      </p>
+
+      {% if flagcfp %}
         <p>
-        Write the Docs is a global community of people who care
-        about documentation: Programmers, Tech Writers,
-        Customer Support, Designers, Project Managers,
-        Developer Advocates, and anyone else who wants people
-        to have a great experience with software. 
+        Interested in being a speaker? We’re accepting
+        <a href="/conf/{{shortcode}}/{{year}}/cfp/">Call for Proposals</a> until {{ cfp.ends }}.
         </p>
-        <p>
-        Created in 2013 in Portland, Oregon, WTD has hosted
-        conferences around the world in Prague, Sydney,
-        Amsterdam, London, and Melbourne.
-        </p>
-        <p>
-        We invite you to our {{ name }} conference to join {{ about.attendees }}
-        other attendees to explore the art and science of
-        documentation!
-        {% if flagticketsonsale %}
-          <strong><a href="/conf/{{shortcode}}/{{year}}/tickets/">Tickets</a> are on sale now</strong>.
-        {% endif %}
-        </p>
-        {% if flagcfp %}
-          <p>
-          Interested in being a speaker? We’re accepting
-          <a href="/conf/{{shortcode}}/{{year}}/cfp/">Call for Proposals</a> until {{ cfp.ends }}.
-          </p>
-        {% endif %}
+      {% endif %}
 
       </div>
 
       <div class="picture-set">
-        <div data-aos="pictrue-03" data-aos-once="true">
-        <img src="{{ pathto('_static/conf/images/pics/pictrue-03.jpg', 1)  }}" alt="" >
-        </div>
-        <div data-aos="pictrue-02" data-aos-once="true">
-        <img src="{{ pathto('_static/conf/images/pics/pictrue-02.jpg', 1)  }}" alt="" >
-        </div>
-        <div data-aos="pictrue-01" data-aos-once="true">
-        <img src="{{ pathto('_static/conf/images/pics/pictrue-01.jpg', 1)  }}" alt="" >
-        </div>
+        <img src="{{ pathto('_static/conf/images/pics/writing-day.jpg', 1) }}" alt="Group photo" style="padding: 10px;">
       </div>
+
     </div>
   </div><!-- end about -->
 
@@ -251,16 +246,7 @@ Home - Write the Docs {{ name }} {{ year }}
         <p class="testimonial-author">- <a href="https://heyawhite.com/about/">Alexandra White, Senior Tech Writer at Google</a></p>
       </div>
 
-     <div class="picture-set">
-        <div data-aos="pictrue-03" data-aos-once="true">
-        <img src="{{ pathto('_static/conf/images/pics/pictrue-03.jpg', 1)  }}" alt="" >
-        </div>
-        <div data-aos="pictrue-02" data-aos-once="true">
-        <img src="{{ pathto('_static/conf/images/pics/pictrue-02.jpg', 1)  }}" alt="" >
-        </div>
-        <div data-aos="pictrue-01" data-aos-once="true">
-        <img src="{{ pathto('_static/conf/images/pics/pictrue-01.jpg', 1)  }}" alt="" >
-        </div>
+     <div class="picture-set" style="padding: 5px;">
       </div>
 
     </div>
