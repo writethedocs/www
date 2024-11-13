@@ -101,7 +101,7 @@ date: # how do we handle these? human readable would be nice.
   conference:
     event: Speaker Talks
     date: May 5-6
-    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience. See our full list of speakers.
+    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience.
     icon: conference
 
   # These are listed in the schedule
