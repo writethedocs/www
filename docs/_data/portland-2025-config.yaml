@@ -1,6 +1,6 @@
 name: Portland
 
-shortcode: portland 
+shortcode: portland
 year: 2025
 city: Portland
 local_area: Oregon
@@ -18,12 +18,12 @@ photos:
 
 buttons:
   top:
-    - text: Date and ticket information
-      link: /news/welcome
-    # - text: Sponsor us
-    #   link: /sponsors/prospectus
-    # - text: Submit a Talk
-    #   link: /cfp
+    # - text: Date and ticket information
+    #   link: /news/welcome
+    - text: Sponsor us
+      link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp
     # - text: See the Schedule!
     #   link: /schedule
     # - text: Buy a Ticket!
@@ -99,9 +99,9 @@ date: # how do we handle these? human readable would be nice.
 
   # Conference is special for the index to show the combined conference days
   conference:
-    event: Speaker talks
+    event: Speaker Talks
     date: May 5-6
-    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience. See our <a href="https://www.writethedocs.org/conf/portland/2025/speakers/">full list of speakers</a>.
+    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience.
     icon: conference
 
   # These are listed in the schedule
@@ -109,13 +109,13 @@ date: # how do we handle these? human readable would be nice.
     event: Hike
     date: May 3
     # summary: We encourage you to go on a hike in your own beautiful home town.
-    summary: If you're in town early, join us for the  <a href="/conf/portland/2025/hike/">Hike</a>. Portland has excellent access to the woods right in the city.
+    summary: If you're in town early, join us for the Hike. Portland has excellent access to the woods right in the city.
     icon: hike
     dotw: Saturday
   day_two:
-    event: Writing Day & Reception
+    event: Writing Day
     date: May 4
-    summary: Kick off the conference with <a href="/conf/portland/2025/writing-day/">Writing Day</a> and work with fellow documentarians on a project. Followed by the opening reception.
+    summary: Kick off the conference with Writing Day and work with fellow documentarians on a project. Followed by the opening reception.
     icon: writing
     dotw: Sunday
     writing_day_time: 9am-5pm
@@ -155,11 +155,11 @@ about:
   job_fair_room: Sponsor area
 
 cfp:
-  url: ""                                         # Open October 6 (Mon) -> 9 weeks to submit
-  ends: "January 21, 2025"                        # (Mon) 1 week, to review. It'll take a little longer to announce
+  url: "https://pretalx.com/wtd-portland-2025/cfp" # Open October 6 (Mon) -> 9 weeks to submit
+  ends: "January 21, 2025"                         # (Mon) 1 week, to review. It'll take a little longer to announce
   notification: "February 04, 2025"                # (Mon) 8 weeks to write and prepare
   slides_by: "April 28, 2025"                      # (Mon) 1 week before
-  preview: "TODO"                                 # Preview URL TODO
+  preview: "TODO"                                  # Preview URL TODO
 
 unconf:
   url: ""
@@ -174,7 +174,7 @@ sponsors:
     # - name: gitbook
     #   link: https://www.gitbook.com/?ref=writethedocs
     #   brand: GitBook
-    #   text: "GitBook combines powerful docs with AI-powered search and insights to give technical teams a single source of truth for their knowledge. 
+    #   text: "GitBook combines powerful docs with AI-powered search and insights to give technical teams a single source of truth for their knowledge.
     #          Effortlessly create, surface and improve public and internal documentation that your users and teams will love. "
     # - name: readme
     #   link: https://readme.com/?ref=writethedocs
@@ -263,7 +263,7 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: True
-flagcfp: False
+flagcfp: True
 flagticketsonsale: False
 flagsoldout: False
 flagspeakersannounced: False

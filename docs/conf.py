@@ -136,7 +136,8 @@ blog_authors = {
 blog_default_author = 'Team'
 blog_feed_archives = True
 blog_feed_fulltext = True
-blog_feed_length = 10
+# Only show 1 blog so we don't overload Mailchimp
+blog_feed_length = 1
 blog_locations = {
     'PDX': ('Portland, Oregon', 'http://www.portlandhikersfieldguide.org/'),
 }
