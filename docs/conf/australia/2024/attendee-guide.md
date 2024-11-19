@@ -9,19 +9,12 @@ The Attendee Guide provides conference information and gives strategies and tips
 
 ## Where can I ask a question?
 
-The Welcome Wagon Team is available to make your conference experience better! Stop by the Welcome Wagon table or feel free to ask questions in the [#welcomewagon Slack channel](https://www.writethedocs.org/slack/). Whether you have a question about the schedule, where to eat, or how to connect with other attendees, they are your go-to for conference questions. If they don't know the answer, they'll find someone who does!
+The Welcome Wagon Team is available to make your conference experience better! Stop by the Welcome Wagon table or feel free to ask questions in the [#australia-oceania Slack channel](https://www.writethedocs.org/slack/). Whether you have a question about the schedule, where to eat, or how to connect with other attendees, they are your go-to for conference questions. If they don't know the answer, they'll find someone who does!
 
-**Location and Availability:**
+**Location and availability:**
 
-- Welcome Wagon table is located directly next to the Registration table
+- The Welcome Wagon table is located directly next to the Registration table
 - Team will be available during all conference hours
-
-## Welcome Wagon Tours
-
-Join us for an introduction to Write the Docs. We'll go on a short tour of the venue and review information about the conference. While tours are designed to give first-time attendees all the information they need to feel comfortable at the conference, returning attendees often find them helpful as well. This gives everyone a chance to meet someone new. Bring any questions you may have!
-
-- Thursday 1:30 PM
-- Friday 1:30 PM
 
 ## Conference Layout
 
@@ -29,12 +22,12 @@ Review our [Venue](https://www.writethedocs.org/conf/australia/2024/venue/) page
 
 ## Eating
 
-- Snacks, coffee, tea, and water are provided on conference days in the Foyer close to Price Hall.
+- Coffee, tea, and water are provided on conference days in the Foyer close to Price Hall.
   - Vegan, vegetarian, gluten-free, and dairy-free options will be offered
   - Ingredients will be listed
   - Please email swapnil@writethedocs.org for other dietary requirements
 - Bring a water bottle to make it easier for you to stay hydrated.
-- There are many food and beverage options within 0.5 kms around the conference venue. Explore Melbourne's amazing food scene on the [Portland](https://www.writethedocs.org/conf/australia/2024/visiting/#eating) page.
+- There are many food and beverage options within 0.5 kms around the conference venue. Explore Melbourne's amazing food scene on the [Visting Melbourne](https://www.writethedocs.org/conf/australia/2024/visiting/) page.
 
 ## Dress Code
 
@@ -43,7 +36,9 @@ Review our [Venue](https://www.writethedocs.org/conf/australia/2024/venue/) page
 
 ## Driving and Parking
 
-If you drive to the conference, note that the venue does not have parking on-site. You are able to park in the nearby streets (hourly) or commercial car parks. The venue is centrally located, and minutes within public transport, including trains and trams, so public transport is definitely recommended.
+If you drive to the conference, note that the venue does not have parking on-site. You are able to park in the nearby streets (hourly) or commercial  car parks. The nearest commercial parking is at QV Parking Complex, one block down from our conference venue. Be mindful that the venue is located in an extremely high-pedestrian traffic area, so finding on-street parking close to the venue for long hours may be a challenge.
+
+The conference venue is located within a 5-minute walk of Melbourne Central Train Station, and very close to tram lines that run along La Trobe, Swanston and Elizabeth Streets, so public transport is definitely recommended.
 
 ## Hotels and Transportation
 
@@ -77,9 +72,13 @@ The [Unconference](https://www.writethedocs.org/conf/australia/2024/unconference
 
 - Sign up to give a talk! Sign up at the registration table.
 
+### Tales from the Trenches
+
+[Tales from the trenches](https://www.writethedocs.org/conf/australia/2024/tales/) is a slightly different concept we are trialling out this year, where we invite you to share your unique experiences and offer fresh perspectives on three broad topics to help spark ideas.
+
 ### Self-organised outing
 
-- If you arrive a day or two earlier, explore the beautiful downtown attractions or join fellow documentarians for a walk and some fresh air!
+If you arrive a day or two earlier, explore the beautiful downtown attractions or join fellow documentarians for a walk and some fresh air!
 
 ### Thursday Social Event
 
@@ -89,12 +88,11 @@ This is our main social event of the conference and held outside of the main ven
 
 **FULL DETAILED SCHEDULE RELEASED CLOSER TO THE CONFERENCE.**
 
-## Tips to Have a Great Conference
+## Tips to gave a great conference
 
 - Before the conference, join the Write the Docs [Slack](https://www.writethedocs.org/slack/), and follow Write the Docs on [LinkedIn](https://www.linkedin.com/company/18284823/admin/feed/posts/) and [X, formerly known as Twitter](https://twitter.com/writethedocs).
-- Attend a Welcome Wagon tour!
 - Talk with people - attendees, volunteers, staff, and speakers. Don't forget to use Eric Holscher's [Pac-Man Rule](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/) to leave room for others to join! The most important part of this conference (and any conference) is the people you meet. Set a goal for yourself to meet a few new people.
 - Review the speaker schedule and choose which talks you want to attend the most. Spread out your time between talks, unconference sessions, networking, and breaks.
 - Starting Thursday morning, check the Unconference schedule to discover if there are any sessions you are interested in attending. New sessions are added all the time, so check back periodically.
 - Give yourself and your brain a break! Conferences are exhilarating, but can also be exhausting. Grab a quiet spot in the Foyer/Price Hall or take a quick walk.
-- Eat! There will be snacks available but there are many restaurants close by.
+- Eat and drink! There will be tea or coffee available but there are many restaurants close by.
