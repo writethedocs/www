@@ -27,7 +27,7 @@ Review our [Venue](https://www.writethedocs.org/conf/australia/2024/venue/) page
   - Ingredients will be listed
   - Please email swapnil@writethedocs.org for other dietary requirements
 - Bring a water bottle to make it easier for you to stay hydrated.
-- There are many food and beverage options within 0.5 kms around the conference venue. Explore Melbourne's amazing food scene on the [Visting Melbourne](https://www.writethedocs.org/conf/australia/2024/visiting/) page.
+- There are many food and beverage options within 0.5 kms around the conference venue. Explore Melbourne's amazing food scene on the [Visiting Melbourne](https://www.writethedocs.org/conf/australia/2024/visiting/) page.
 
 ## Dress Code
 
