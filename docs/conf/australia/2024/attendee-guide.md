@@ -86,8 +86,6 @@ This is our main social event of the conference and held outside of the main ven
 
 - Come for an hour or stay the entire time!
 
-**FULL DETAILED SCHEDULE RELEASED CLOSER TO THE CONFERENCE.**
-
 ## Tips to gave a great conference
 
 - Before the conference, join the Write the Docs [Slack](https://www.writethedocs.org/slack/), and follow Write the Docs on [LinkedIn](https://www.linkedin.com/company/18284823/admin/feed/posts/) and [X, formerly known as Twitter](https://twitter.com/writethedocs).
