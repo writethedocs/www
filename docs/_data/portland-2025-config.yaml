@@ -99,9 +99,9 @@ date: # how do we handle these? human readable would be nice.
 
   # Conference is special for the index to show the combined conference days
   conference:
-    event: Speaker talks
+    event: Speaker Talks
     date: May 5-6
-    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience. See our <a href="https://www.writethedocs.org/conf/portland/2025/speakers/">full list of speakers</a>.
+    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience.
     icon: conference
 
   # These are listed in the schedule
@@ -109,13 +109,13 @@ date: # how do we handle these? human readable would be nice.
     event: Hike
     date: May 3
     # summary: We encourage you to go on a hike in your own beautiful home town.
-    summary: If you're in town early, join us for the  <a href="/conf/portland/2025/hike/">Hike</a>. Portland has excellent access to the woods right in the city.
+    summary: If you're in town early, join us for the Hike. Portland has excellent access to the woods right in the city.
     icon: hike
     dotw: Saturday
   day_two:
-    event: Writing Day & Reception
+    event: Writing Day
     date: May 4
-    summary: Kick off the conference with <a href="/conf/portland/2025/writing-day/">Writing Day</a> and work with fellow documentarians on a project. Followed by the opening reception.
+    summary: Kick off the conference with Writing Day and work with fellow documentarians on a project. Followed by the opening reception.
     icon: writing
     dotw: Sunday
     writing_day_time: 9am-5pm
