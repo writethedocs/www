@@ -29,7 +29,6 @@ Our Q4 meeting covered several initiatives that the team leads have been working
     
     The newsletter team is looking into various options to improve volunteer engagement beyond the newsletter itself, and will be sending out calls to action for folks who might be interested in more long-term involvement as well as possible short-term internship-style contributions. 
 
-
 **The future of meetups**::
     The meetups team continues to diligently manage active meetup.com groups that WTD has been supporting, to ensure that active meetups get the support they need while ensuring that the WTD organization is not paying for meetup groups that have been inactive for an extended period of time. They are also reviewing possible alternatives to meetup.com and continuing to observe global trends in online engagement for meetups and community groups. 
 
