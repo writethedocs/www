@@ -7,7 +7,7 @@ Brick Docs Workshop – Build better technical writing skills with LEGO®
 Workshop hosts: **Yvonne Perkins and Alexandra Perkins**
 
 Do you work with engineers who find it challenging to write clear, concise, and user-focused technical documentation? Does writing feel like a 
-stumbling block for your team? The Brick Docs Workshop is designed to address these challenges in a way that’s fun and engaging, using LEGO® bricks as a hands-on tool for learning!
+stumbling block for your team? The `Brick Docs Workshop`_ is designed to address these challenges in a way that’s fun and engaging, using LEGO® bricks as a hands-on tool for learning!
 
 In this one-hour session, we’ll guide participants through practical exercises that show how effective writing can be both achievable and enjoyable.
 Brick Docs is a judgment-free learning space where technical writers and engineers can strengthen their skills together, making technical writing accessible and fun for everyone involved.
@@ -57,3 +57,5 @@ Get ready to build better docs!
 -------------------------------
 
 Don’t miss this unique opportunity to improve documentation skills in a fun, collaborative way. Join us for Brick Docs, where technical writing meets creativity!
+
+.. _Brick Docs Workshop: https://brickdocs.com.au/
