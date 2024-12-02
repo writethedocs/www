@@ -75,8 +75,6 @@ exclude_patterns = [
     'videos/prague/2018/tackling-technical-debt-in-the-docs-louise-fahey.rst',
 ]
 
-html4_writer = True
-
 # We use these *local* environment variables for private info like free ticket links
 
 cfp_variables = {}
@@ -144,7 +142,7 @@ blog_locations = {
 blog_default_location = None
 fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'
 
-templates_path = ['_templates', 'include', ablog.get_html_templates_path()]
+templates_path = ['_templates', 'include']
 html_extra_path = ['_static_html']
 source_suffix = ['.rst', '.md']
 
@@ -177,7 +175,7 @@ html_copy_source = False
 html_sidebars = {
     '**': [
         'about.html',
-        'postcard.html',
+        'ablog/postcard.html',
         'info.html',
         'searchbox.html',
         'navigation.html',
