@@ -5,7 +5,7 @@ Write the Docs :doc:`/meetups/index` provide
 a great way to connect and continue the conversations sparked by our
 :doc:`/conf/index`, `Slack channel
 <https://writethedocs.org/slack/>`_ and `forum <http://forum.writethedocs.org/>`_ .
-If you don't have a Write the Docs Meetup nearby, we can help you get one started.
+If you don't have a Write the Docs Meetup nearby, we can help you get one started. 
 With a little help, you can make it happen with a Meetup in your area!
 
 Start by watching this video:
@@ -13,6 +13,8 @@ Start by watching this video:
 .. raw:: html
 
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/ZwQ8Kd48d0w" frameborder="0" allowfullscreen></iframe>
+
+Still interested in starting or revitalizing a meetup group? Follow this guide or reach out to the `Meetup Coordinators team <https://www.writethedocs.org/team/#meetups>`_ with your questions. Note: The Meetup Coordinators team can also be contacted about retiring a meetup, setting up a Slack channel for a meetup, requesting access to the Zoom account, participating in the Quorum program, presenting at a meetup, and more.
 
 Write the Docs Worldview
 ------------------------
@@ -47,7 +49,7 @@ create events, contact Meetup members, sp your sponsors, and more.
 - For advice on running meetups, or questions not covered here or in the :doc:`/organizer-guide/meetups/faq-meetups/`, drop us a line in `#meetup-organisers <https://writethedocs.slack.com/messages/meetup-organisers/>`_ on Slack.
 - For help with Meetup fees or technical issues, `email us <mailto:support@writethedocs.org>`_.
 
-Create a Meetup Page:
+Create a Meetup Page
 ~~~~~~~~~~~~~~~~~~~~~
 
 Go to the `Meetup website <https://secure.meetup.com/create/>`_ and follow the instructions.
@@ -121,10 +123,10 @@ Sometimes, alternative locations are better for smaller groups. For example, one
 of our groups has a regular `coffee klatch <http://www.meetup.com/Write-The-Docs-Seattle/events/231890982/>`_.
 
 
-Find attendees, speakers, and topics
+Find Attendees, Speakers, and Topics
 ------------------------------------
 
-Attendees:
+Attendees
 ~~~~~~~~~~
 
 After you publish your meetup page, promote it! Here's a few suggestions to get started:
@@ -143,7 +145,7 @@ After you publish your meetup page, promote it! Here's a few suggestions to get 
 Figure out your approximate ratio between RSVP / attendees. This might be around 50%.
 
 
-Speakers:
+Speakers
 ~~~~~~~~~
 
 * Look for previous and future speakers at `Write the Docs conferences <https://www.writethedocs.org/conf/>`__.
@@ -167,7 +169,7 @@ Try different formats. Alternatives:
 * Workshops
 
 
-Topics:
+Topics
 ~~~~~~~
 
 The following are examples of topics that have worked well for other meetups:
@@ -228,10 +230,10 @@ Starting and Running the Meetup
 * Use supportive language.
 
 
-Joint meetup
+Joint Meetup
 ~~~~~~~~~~~~
 
-Write the Docs shares interests with other meetups, such as
+Write the Docs shares interests with other meetups, such as:
 
 * APIs
 * Agile
@@ -245,14 +247,14 @@ You can set up topics of interest to multiple meetups.
 Meetup Logistics
 ----------------
 
-Event Page:
+Event Page
 ~~~~~~~~~~~
 
 Include a `description <http://www.meetup.com/Write-The-Docs-PDX/events/231735823/>`_ of your topic, a speaker bio (if available), a
 `schedule <http://www.meetup.com/Write-the-Docs-SF/events/232289251/>`_, and details about your meeting location.
 
 
-Venue:
+Venue
 ~~~~~~
 
 Ideal location: an office with easy access to your community via car or
@@ -269,7 +271,7 @@ Make sure your location includes:
 * Access for anyone who is disabled.
 
 
-Meetup Day Checklist:
+Meetup Day Checklist
 ---------------------
 
 * Arrive early.
@@ -288,7 +290,7 @@ Meetups don't always go according to plan. The following list summarizes some
 of the problems that you might encounter with potential solutions:
 
 
-What happens when your speaker cancels
+What Happens When Your Speaker Cancels
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 When a speaker cancels, think of it as an opportunity! While it's not convenient,
