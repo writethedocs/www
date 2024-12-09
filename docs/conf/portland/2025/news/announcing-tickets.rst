@@ -13,32 +13,14 @@ We’re thrilled to announce that `tickets are now available for Write the Docs 
 
 Join us for our 13th annual conference in Portland. It's a great opportunity to meet fellow documentarians, learn new skills, and get inspired.
 
-`Get your tickets now. <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_
+We have some high-level information for you below.
 
-Conference Overview
--------------------
+Full website is available
+-------------------------
 
-The conference will be held on {{ date.short }} at Revolution Hall. Check the `event website <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/>`_ for more details. We’ll have:
+Our `full event website <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/>`_ is live with information about all the events and basic travel information.
 
-- Speaker Presentations
-- Writing Day
-- Unconference Sessions
-- Sponsor Expo + Job Fair
-- Welcome Reception
-- Conference Party
-
-Stay tuned for updates on venue info, hotels, and local attractions.
-
-`Buy your tickets <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_ today!
-
-Call for Proposals
-------------------
-
-Our Call for Proposals is still open, and we'd love for you to be part of the conference this year.
-
-Our `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_ page has more details, and all the information you need to submit a talk.
-
-**Submit your talk by {{ cfp.ends }}!**
+The website has lots of information about the conference events. Stay tuned for updates more updates on food, transportation and other information.
 
 Opportunity Grants
 ------------------
@@ -53,6 +35,15 @@ Volunteers
 Our volunteers make the conference happen each year, and it's a great group of folks. Want to help out and attend for free? Volunteer with us this year!
 
 Visit our `volunteer page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/volunteer/>`_ to learn more and sign up.
+
+Call for Proposals
+------------------
+
+Our Call for Proposals is still open, and we'd love for you to be part of the conference this year.
+
+Our `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_ page has more details, and all the information you need to submit a talk.
+
+**Submit your talk by {{ cfp.ends }}!**
 
 Thanks to our sponsors
 ----------------------
