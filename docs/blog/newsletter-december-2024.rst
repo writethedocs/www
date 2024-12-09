@@ -35,13 +35,13 @@ AI in technical writing: Balancing innovation with practicality
 
 The role of AI in technical communication is generating cautious optimism among some documentarians, as seen in recent discussions within the Write the Docs community. While some were skeptical that generative AI tools could ever provide value, others shared examples of how they were already helping.
 
-AI tools have proved useful for repetitive tasks, such as summarizing product requirement documents, reformatting content into tables, and drafting tutorials for frameworks like Diátaxis. Custom implementations, such as private ChatGPT models, are also enabling advanced use cases, including pattern recognition, content audits, and integrating style guides into editing workflows.
+AI tools have proved useful for repetitive tasks, such as summarizing product requirement documents, reformatting content into tables, and drafting tutorials for frameworks like Diátaxis. Custom implementations, such as private ChatGPT models, are also enabling advanced use cases such as pattern recognition, content audits, and integrating style guides into editing workflows.
 
 However, challenges remain. AI-generated content often requires extensive manual editing to meet quality standards, particularly when dealing with proprietary or specialized material. The limitations of AI tools, such as context constraints and compatibility issues with closed systems like MadCap Flare, add extra steps that can diminish productivity gains.
 
 Key insights from the community:
 
-- AI is most valuable as a tool for “Intelligent Automation,” enhancing existing workflows rather than replacing human expertise.
+- AI is most valuable as a tool for “intelligent automation”: enhancing existing workflows rather than replacing human expertise.
 - Critical thinking is essential when using AI to evaluate its output and adapt it effectively.
 
 Documentarians may want to experiment with AI, share their experiences, and explore how it fits into their unique workflows. By taking a thoughtful and adaptive approach, technical communicators can harness the potential of AI tools while upholding the high standards of their craft.
