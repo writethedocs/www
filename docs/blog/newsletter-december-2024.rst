@@ -9,7 +9,7 @@ Write the Docs Newsletter – December 2024
 
 Salutations, documentarians. I hope 2024 has been good to you personally and professionally. As the year ends, it's a good time to make plans for all of the ways we will make the world better, and better documented, in 2025.
 
-If you have ideas for how to help others document better, the `Call for Proposals for the Portland 2025 conference <https://www.writethedocs.org/conf/portland/2025/cfp/>`__ is now open. So share your best practices and ideas, and start looking forward to seeing what others can bring as ticket sales will open soon.
+If you have ideas for how to help others document better, the `Call for Proposals for the Portland 2025 conference <https://www.writethedocs.org/conf/portland/2025/cfp/>`__ is now open. So share your best practices and ideas by January 21, 2025, and start looking forward to seeing what others can bring as ticket sales will open soon.
 
 We've also been looking to the future as part of the Write the Docs Community Board. You can see what areas are being covered in the `Q4 Quarterly Update <https://www.writethedocs.org/blog/2024-Q4-community-board/>`__.
 
@@ -44,7 +44,7 @@ Key insights from the community:
 - AI is most valuable as a tool for “Intelligent Automation,” enhancing existing workflows rather than replacing human expertise.
 - Critical thinking is essential when using AI to evaluate its output and adapt it effectively.
 
-Documentarians are encouraged to experiment with AI, share their experiences, and explore how it fits into their unique workflows. By taking a thoughtful and adaptive approach, technical communicators can harness the potential of AI tools while upholding the high standards of their craft.
+Documentarians may want to experiment with AI, share their experiences, and explore how it fits into their unique workflows. By taking a thoughtful and adaptive approach, technical communicators can harness the potential of AI tools while upholding the high standards of their craft.
 
 ---------------------------------------------
 Should we optimize for searching or browsing?
