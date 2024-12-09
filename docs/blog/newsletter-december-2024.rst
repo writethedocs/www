@@ -76,7 +76,7 @@ Searching and browsing are complementary actions. The method used by any one per
 Events coming up
 ----------------
 
-- 11 Dec, 20:30 CET (Berlin, Germany): `Bears in the Swamp: Write The Docs Berlin Xmas Social <https://www.meetup.com/write-the-docs-berlin/events/304651076/>`__
+- 11 Dec, 20:30 CET (Berlin, Germany): `Bears in the Swamp: Write the Docs Berlin Xmas Social <https://www.meetup.com/write-the-docs-berlin/events/304651076/>`__
 - 13 Dec, 08:30 EST (East Coast Virtual,USA): `AI-Powered Chatbots <https://www.meetup.com/write-the-docs-florida/events/303544535/>`__
 - 13 Dec, 08:30 EST (Boston, MA, USA): `AI-Powered Chatbots <https://www.meetup.com/ne-write-the-docs/events/304324020/>`__
 - 17 Dec, 09:30 MST (Boulder/Denver, USA): `December virtual coffee chat <https://www.meetup.com/write-the-docs-boulder-denver/events/304905201/>`__
