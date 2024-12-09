@@ -77,12 +77,11 @@ Events coming up
 ----------------
 
 - 11 Dec, 20:30 CET (Berlin, Germany): `Bears in the Swamp: Write the Docs Berlin Xmas Social <https://www.meetup.com/write-the-docs-berlin/events/304651076/>`__
-- 13 Dec, 08:30 EST (East Coast Virtual,USA): `AI-Powered Chatbots <https://www.meetup.com/write-the-docs-florida/events/303544535/>`__
-- 13 Dec, 08:30 EST (Boston, MA, USA): `AI-Powered Chatbots <https://www.meetup.com/ne-write-the-docs/events/304324020/>`__
+- 13 Dec, 08:30 EST (East Coast Virtual, USA): `AI-Powered Chatbots <https://www.meetup.com/write-the-docs-florida/events/303544535/>`__
 - 17 Dec, 09:30 MST (Boulder/Denver, USA): `December virtual coffee chat <https://www.meetup.com/write-the-docs-boulder-denver/events/304905201/>`__
 - 18 Dec, 19:00 EST (Toronto, Canada): `Write the Docs Toronto  <https://www.meetup.com/write-the-docs-toronto/events/304560659/>`__
 - 9 Jan, 17:30 CST (Austin, USA): `Conferences Are Coming: How to Write a Presentation Proposal That Gets Selected <https://www.meetup.com/writethedocs-atx-meetup/events/304779137/>`__
-- 10 Jan, 08:30 EST (East Coast Virtual,USA): `Write the Docs East Coast Virtual Meetup <https://www.meetup.com/ne-write-the-docs/events/304952794/>`__
+- 10 Jan, 08:30 EST (East Coast Virtual, USA): `Write the Docs East Coast Virtual Meetup <https://www.meetup.com/ne-write-the-docs/events/304952794/>`__
 - 15 Jan, 19:00 EST (Toronto, Canada): `Write the Docs Toronto  <https://www.meetup.com/write-the-docs-toronto/events/mnpqgsyhccbtb/>`__
-- 24 Jan, 08:30 EST (East Coast Virtual,USA): `Write the Docs East Coast Virtual Meetup <https://www.meetup.com/ne-write-the-docs/events/vxkgptyhccbgc/>`__
-- 7 Feb, 08:30 EST (East Coast Virtual,USA): `Write the Docs East Coast Virtual Meetup <https://www.meetup.com/ne-write-the-docs/events/vxkgptyhcdbkb/>`__
+- 24 Jan, 08:30 EST (East Coast Virtual, USA): `Write the Docs East Coast Virtual Meetup <https://www.meetup.com/ne-write-the-docs/events/vxkgptyhccbgc/>`__
+- 7 Feb, 08:30 EST (East Coast Virtual, USA): `Write the Docs East Coast Virtual Meetup <https://www.meetup.com/ne-write-the-docs/events/vxkgptyhcdbkb/>`__
