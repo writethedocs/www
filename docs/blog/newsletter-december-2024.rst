@@ -72,6 +72,15 @@ Searching and browsing are complementary actions. The method used by any one per
 * `Complete Beginner’s Guide to Information Architecture <https://uxbooth.com/articles/complete-beginners-guide-to-information-architecture/>`__ (UX Booth)
 * `How To Make Sense of Any Mess <https://abbycovert.com/make-sense/>`_ (book by Abby Covert)
 
+------------------
+Featured job posts
+------------------
+
+`Technical Communications Lecturer in Computer Science <https://careers.hprod.onehcm.usg.edu/psp/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=3000&JobOpeningId=278755&PostingSeq=1>`__, Georgia Tech - *Atlanta, Georgia*
+
+Interested in promoting your open position? See our `job posting sponsorship <https://www.writethedocs.org/sponsorship/jobs/>`__ for more details.
+
+
 ----------------
 Events coming up
 ----------------
