@@ -27,7 +27,7 @@ Asking subject matter experts (SMEs) and product managers for a concept-level re
 
 Another approach is asking "obvious" questions of SMEs, especially about anything that you don't understand. The `curse of knowledge <https://en.m.wikipedia.org/wiki/Curse_of_knowledge>`__ may cause SMEs to overestimate the domain knowledge of their users or assume that all users share their background. Prompting SMEs to explain what they assume everyone already knows can help unearth gaps that should be documented.
 
-Finally, talk to support and technical sales staff to gather valuable information about the user's perspective. Ask what readers need to know to keep them from opening support tickets or to believe that the feature is worth adopting or the product worth buying.
+Finally, talk to support and technical sales staff to gather valuable information about user perspectives. Ask what readers need to know to keep them from opening support tickets and what could convince them that the feature is worth adopting or the product worth buying.
 
 ---------------------------------------------------------------
 AI in technical writing: Balancing innovation with practicality
