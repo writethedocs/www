@@ -51,7 +51,7 @@ Exact times to be posted on our [Schedule](/conf/{{shortcode}}/{{year}}/schedule
 
 A Lightning Talk is five minutes and intentionally designed to encourage speakers to be mindful in how they communicate their topic. Use the time to give an overview, provide insights, and ignite curiosity. 
 
-#### 1. Choose a topic
+### 1. Choose a topic
 
 You are welcome to submit any topic you are passionate about. It does not have to be related to documentation. Some of our most popular Lightning Talk topics included legos, music, design software, and more.
 
@@ -63,13 +63,13 @@ You are welcome to submit any topic you are passionate about. It does not have t
 - Any relevant content that the audience might be interested in knowing more about.
 - Technical topics are wonderful and welcome but not mandatory.
 
-#### 2. Create an outline
+### 2. Create an outline
 
 - Who is your audience?
 - What is the goal of your talk?
 - What points do you need to make to help the audience understand your goal?
 
-#### 3. Choose points of interest
+### 3. Choose points of interest
 
 - What could you use this for or when could you use it? Have you already used it? How?
 - When would it not be as useful? What are some contraindications to using it?

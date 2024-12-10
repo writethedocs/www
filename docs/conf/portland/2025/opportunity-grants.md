@@ -7,7 +7,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 The grant program for Write the Docs Portland 2025 supports people who would otherwise not be able to attend the conference, by covering ticket and/or attendance costs. 
 
-### Eligibility
+## Eligibility
 
 Applications are open to anyone who wants to attend Write the Docs. We encourage anyone to apply who would otherwise have difficulty attending.
 
@@ -19,12 +19,12 @@ We prioritize applications based on the overall impact that granting an applicat
 
 Grant applicants, like all other participants in the Write the Documents community, are required to follow the [Code of Conduct](https://www.writethedocs.org/conf/portland/2025/code-of-conduct/).
 
-### Schedule
+## Schedule
 
 - **Now - February 5:** Grant applications open
 - **February 14:** Grant recipients notified
 
-### What is Covered
+## What is Covered
 
 **All grants include a free conference ticket.** This is the most common and possible grant for us to award. View our [ticket page](https://www.writethedocs.org/conf/portland/2025/tickets/) for what is included with a conference ticket.
 
@@ -39,11 +39,11 @@ This list can include, but is not limited to:
 
 The application form will ask for an estimate of your costs.
 
-### Grant Amounts
+## Grant Amounts
 
 The total amount of grant funds to be distributed is based upon sponsors and number of tickets sold. We will not know the full amount until we near the deadline. In 2024, $3,500 was distributed in grant funds. There is no limit on the amount you request, but please consider this amount when making your request. We rarely fund only one individual and aim to use our budget for two or more people. We do not award partial grants.
 
-### Are you part of a marginalized or underrepresented group in tech?
+## Are you part of a marginalized or underrepresented group in tech?
 
 We encourage and may prioritize applications from people who are part of a marginalized or underrepresented group in tech. 
 
@@ -67,7 +67,7 @@ You do not have to tell us which underrepresented group(s) you belong to.
 
 **Note:** Grant applications will be seen only by the conference team, and we will never publish grant applications or publicly name grant recipients. You are of course free to share if you applied or received a grant yourself.
 
-### Application
+## Application
 
 <iframe src="{{ grants.url }}?embedded=true" width="760" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
