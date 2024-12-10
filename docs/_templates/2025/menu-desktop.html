@@ -5,7 +5,9 @@
         <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/schedule') }}">Program</a>
         <div class="uk-navbar-dropdown">
           <ul class="uk-nav uk-navbar-dropdown-nav">
+          {% if flaghasschedule %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/schedule') }}">Schedule</a></li>
+          {% endif %}
             {% if flagspeakersannounced %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/speakers') }}">Speakers</a></li>
             {% endif %}

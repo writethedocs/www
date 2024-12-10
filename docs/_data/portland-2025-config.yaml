@@ -84,7 +84,7 @@ sponsorship:
 
 grants:
   url: https://docs.google.com/forms/d/e/1FAIpQLSf3fGfW_8W1x3oeKeoUpg8ZPLvyY4cQvO5Bii_OTrgW97cLNw/viewform?embedded=true
-  ends: 'February 1, 2025'
+  ends: 'February 5, 2025'
   notification: 'February 14, 2025'
 
 shirts:
@@ -268,7 +268,7 @@ sponsors:
 flaglanding: False
 flaghassponsors: True
 flagcfp: True
-flagticketsonsale: False
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False

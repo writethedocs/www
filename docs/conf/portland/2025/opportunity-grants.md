@@ -21,8 +21,8 @@ Grant applicants, like all other participants in the Write the Documents communi
 
 ## Schedule
 
-- **Now - February 5:** Grant applications open
-- **February 14:** Grant recipients notified
+- **Now - {{ grants.ends }}:** Grant applications open
+- **{{ grants.notification }}:** Grant recipients notified
 
 ## What is Covered
 
