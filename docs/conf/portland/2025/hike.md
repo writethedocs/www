@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-:banner: _static/conf/images/headers/hike.png
+banner: _static/conf/images/headers/hike.png
 ---
 
 # Hike
@@ -16,8 +16,7 @@ It’s rained on us in the past, but we have faith it will be beautiful this yea
 
 ## Schedule & Logistics
 
-**Date: {{ hike.date }}** 
-
+- **Date: {{ hike.date }}** 
 - **Arrival:** Meet 15 minutes before the start time.
 - **Lunch (optional):** Join us at the [Nob Hill food carts](https://www.google.com/maps/place/Nob+Hill+Food+Carts/@45.5360531,-122.7007924,19.6z/data=!4m7!3m6!1s0x54950942eb34ca71:0xe277fed8c0cec152!8m2!3d45.5362156!4d-122.7000932!15sChZmb29kIGNhcnRzIG53IHBvcnRsYW5kkgEKZm9vZF9jb3VydOABAA!16s%2Fg%2F11vwhg4f9_?entry=tts) at 12:30pm for lunch. We'll leave for the trailhead at 1:40pm.
 - **Start:** [Lower Macleay Park](https://www.google.com/maps/place/Lower+Macleay+Park/@45.5336665,-122.7234215,16z/data=!4m7!3m6!1s0x549509e9f2adf02d:0x1b3668a7adc941d9!8m2!3d45.5359671!4d-122.7125142!15sChVNYWNsZWF5IFBhcmsgRW50cmFuY2VaFyIVbWFjbGVheSBwYXJrIGVudHJhbmNlkgEEcGFya5oBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOb2RWQklaRzluUlJBQuABAA!16s%2Fg%2F11g7wcqxt9?coh=164777&entry=tt&shorturl=1). Meet at the pavilion at the park entrance.
