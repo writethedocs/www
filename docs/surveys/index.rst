@@ -5,6 +5,13 @@ In 2019, we launched the first Write the Docs salary survey, to gather data abou
 
 Overwhelmed by the positive response, we expanded the survey to collect information about remote work, attitudes towards pay transparency, and satisfaction about salaries, benefits and overall job situations. Based on community feedback, we've continued to refine the questions each year - especially for independent contractors, freelancers and the self-employed. 
 
+2024 Salary Survey open for submissions
+---------------------------------------
+
+`The survey is now open! <https://salary-survey.writethedocs.org/>`__ New for this year: you can now edit your responses before the final submission, and for privacy reasons the salary/rate inputs are masked. You can now fill out the survey as both an employee and a contractor. 
+
+So no matter what country you live in, what level of skill or experience you possess, or what industry you operate in, we encourage you to contribute. The questions are for people of all employment types: full-time or part-time, permanent or contract, employee or freelance/self-employed – or any combination thereof. If you are currently unemployed, but have worked at least part of the past year, we would like your contribution.
+
 2023 Salary Survey results available
 ------------------------------------
 

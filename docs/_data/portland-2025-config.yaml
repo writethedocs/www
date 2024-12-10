@@ -171,6 +171,10 @@ hike:
 sponsors:
   keystone:
   patron:
+    - name: mintlify
+      link: https://mintlify.com/?ref=writethedocs
+      brand: Mintlify
+      text: Meet the modern standard for public-facing documentation. Beautiful out of the box, easy to maintain, and built to convert users.
     # - name: gitbook
     #   link: https://www.gitbook.com/?ref=writethedocs
     #   brand: GitBook
@@ -220,9 +224,9 @@ sponsors:
     # - name: nginx
     #   link: https://www.nginx.com/?ref=writethedocs
     #   brand: NGINX
-    # - name: redocly
-    #   link: https://redoc.ly/
-    #   brand: Redocly
+    - name: redocly
+      link: https://redoc.ly/
+      brand: Redocly
     # - name: netlify-new
     #   link: https://www.netlify.com/?ref=writethedocs
     #   brand: Netlify

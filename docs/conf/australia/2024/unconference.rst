@@ -10,7 +10,7 @@ Anyone can suggest and lead a session on a topic -- sessions can be organized as
 
 If you've never attended an unconference, expect to interact closely with others from the community.
 
-Unconference sessions run after lunch both days on Thursday and Friday afternoon.
+Unconference sessions run after morning coffee both days on Thursday and Friday afternoon.
 
 How does an unconference session work?
 --------------------------------------
@@ -33,7 +33,7 @@ To lead an unconf session, propose a topic and pick a time; unconf sessions are 
 
 {% if flaghasschedule %}
 
-Sessions take place in Hopin, but you propose a session by adding your topic to a timeslot and table number in the  `Unconference sign-up sheet <{{unconf.url}}>`__.
+Propose a session by adding your topic to a timeslot and table number on the whiteboard in the Foyer.
 
 {% else %}
 
@@ -41,7 +41,7 @@ Sessions take place in Hopin, but you propose a session by adding your topic to 
 
 {% endif %}
 
-When it's time for your session to begin, join the session in Hopin that corresponds to the table number you signed up for. There's a 15 minute break between sessions, but the previous session might still be running, so let them know it's time to switch. Give attendees a few minutes to join, then start the conversation!
+When it's time for your session to begin, join the table number you signed up for. There's a 15 minute break between sessions, but the previous session might still be running, so let them know it's time to switch. Give attendees a few minutes to join, then start the conversation!
 
 When the next session leader joins your session, it's time to finish up the conversation and let the next session begin. Or your group can end with time to take a break before the next session.
 
@@ -62,7 +62,7 @@ Attend a session
 
 {% if flaghasschedule %}
 
-* Starting Thursday morning, check the `Unconference sign-up sheet <{{ unconf.url }}>`__ to see whether there are any sessions you want to join. New sessions are added all the time, so check back periodically.
+* Starting Thursday morning, check the whiteboard in the Foyer to see whether there are any sessions you want to join. New sessions are added all the time, so check back periodically.
 
 {% endif %}
 
