@@ -5,7 +5,9 @@
         <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/schedule') }}">Program</a>
         <div class="uk-navbar-dropdown">
           <ul class="uk-nav uk-navbar-dropdown-nav">
+          {% if flaghasschedule %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/schedule') }}">Schedule</a></li>
+          {% endif %}
             {% if flagspeakersannounced %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/speakers') }}">Speakers</a></li>
             {% endif %}
@@ -17,9 +19,6 @@
             {% endif %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/lightning-talks') }}">Lightning Talks</a></li>
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/unconference') }}">Unconference</a></li>
-            {% if not flagisvirtual %}
-              <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsor-expo') }}">Sponsor Expo</a></li>
-            {% endif %}
             {% if flaghashike %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/hike') }}">Hike</a></li>
             {% endif %}
