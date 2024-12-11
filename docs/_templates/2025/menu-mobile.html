@@ -69,7 +69,9 @@
     </ul>
   </li>
 
-  <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/news') }}">News</a></li>
+  <li class="uk-parent">
+  <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/news') }}">News</a>
+  </li>
 
   {% if flagcfp %}
   <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/cfp') }}"
