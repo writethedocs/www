@@ -61,6 +61,8 @@ Come with the following tools:
 - GitHub account (you may also want a GitLab account)
 - Text editor of your choice for coding or content creation
 
+![Writing Day 2](/_static/conf/images/pics/2025/writing-day-2.jpg)
+
 ## Lead a Project
 
 Leading a project at Writing Day is a wonderful opportunity to engage with documentarians from a variety of backgrounds, experience, and expertise. Their collective wealth of experience can upgrade your documentation and create a more inclusive project. This empowers all of us to work together to create opportunities for each other and bigger, better communities.
