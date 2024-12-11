@@ -193,11 +193,11 @@ unconf-details:
   date: str(required=False)
 
 writing_day-details:
-  url: str(required=True)
-  date: str(required=False)
+  url: str(required=False)
+  date: str(required=True)
 
 hike-details:
-  date: str(required=False)
+  date: str(required=True)
 
 lightning_talks-details:
   signup_url: str(required=True)
