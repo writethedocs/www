@@ -30,7 +30,7 @@ Everyone!
 
 Exact times to be posted on our [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page.
 
-### Leading a Session
+## Leading a Session
 
 Sessions take place at tables and focus on small group interaction. There is no stage at an Unconference session.
 
@@ -57,7 +57,7 @@ These ideas were borrowed from Scott Berkun. Read more of his [post on Unconfere
 
 Select above tips inspired by the “Open Space Technology” infographic.
 
-### Attending a Session
+## Attending a Session
 
 - View the Session Schedule. This will be posted online and in the Unconference room during the conference only.
 - Find the table and have a seat. You can also join mid-session!

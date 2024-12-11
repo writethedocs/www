@@ -10,7 +10,7 @@ A Lightning Talk is a brief presentation, lasting up to five minutes, where you 
 
 Lightning Talks are a fantastic opportunity for first-time speakers. Regardless of your speaking experience, we invite you to submit a talk.
 
-Supporting first-time speakers is important to us, so we have created two speaker categories:
+**Supporting first-time speakers is important to us, so we have created two speaker categories:**
 
 - First-time speakers
 - Experienced speakers
@@ -87,13 +87,12 @@ While there is a short tech check to acclimate you to the stage, all technology 
 
 **Slides**
 
-Consider the following recommendations:
 
 - Use a platform you are familiar with - Microsoft Word, Keynote, a PDF, a website, etc. Even a terminal or console window where you enter commands can work well for presenting your ideas.
 - Don’t worry if it does not look polished; Lightning Talks do not need to be!
 - Keep in mind that the projector is lower resolution, typically 1024x768. Low-contrast slides don’t display well.
 - Remember to adjust your font! This is key for terminal or console examples, you need a large font so everyone can see what you’re typing.
-- If you plan to use code examples, have them written, debugged, and ready to go. Watching someone write code as they go can be great in a longer deep-dive type of talk, but it’s not very well-suited to a lightning talk.
+- If you plan to use code examples, have them written, debugged, and ready to go. Watching someone write code as they go can be great in a longer deep-dive type of talk, but it’s not very well-suited to a Lightning Talk.
 
 **Live demos**
 
@@ -116,12 +115,12 @@ This may be something you do once, or maybe it will spark a love for presenting 
 Enjoy your five minutes; you are going to do great! :)
 
 ## Create Opportunities for Follow Up
-Lightning Talks can create wonderful opportunities such as hallway conversations, unconference sessions, and sometimes, future presentations.
+Lightning Talks can create wonderful opportunities such as hallway conversations, Unconference sessions, and sometimes, future presentations.
 
 - Consider using the final moments of your presentation to let the audience know how to follow up with you.
 - If you plan to share your content, let them know how to access it.
 - Share your social media information (optional).
-- Host your own unconference session (optional).
+- Host your own Unconference session (optional).
 - Be available to speak afterwards in the hallway (optional).
 
 ## Acknowledgements

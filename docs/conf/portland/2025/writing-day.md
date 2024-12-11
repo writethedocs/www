@@ -15,10 +15,10 @@ The primary goal is to bring interested individuals into the same room, sharing 
 
 If you have a project, we encourage you to submit it before the conference! This is a great way to build momentum and get other attendees excited to participate in your project. We’ll open project submissions in February/March. As usual, day-of projects are always welcome too - you'll have the option to sign up onsite and announce it during Writing Day.
 
-**There are two ways to participate in Writing Day:**
+## How to participate in Writing Day:
 
-- Project Lead: You bring an idea, content, or OSS project to work on with contributors.
-- Contributors: You are looking to contribute to various hosted projects.
+- **Project Lead:** You bring an idea, content, or OSS project to work on with contributors.
+- **Contributors:** You are looking to contribute to various hosted projects.
 
 **Here are examples of projects that you might see at the conference:**
 
@@ -40,15 +40,15 @@ Find specific examples on the [Portland Writing Day 2023 project list](https://w
 
 Writing Day is an all day event designed with flexibility in mind. Feel free to check out as many projects as make sense for you and your schedule!
 
-- Morning Session: 
+- **Morning Session:** 
     - Welcome and overview
     - Project announcements: Leads give a 2 minute summary
     - Projects and co-working begins
-- Lunch Break
-- Afternoon Session
+- **Lunch Break**
+- **Afternoon Session**
     - Project announcements: Leads give a 2 minute project summary, starting with the afternoon-only projects
     - Projects and co-working reconvenes
-- Writing Day ends at 5pm
+- **Writing Day ends at 5pm**
 
 Exact times to be posted on our [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page.
 
@@ -62,7 +62,7 @@ Come with the following tools:
 
 ## Lead a Project
 
-Leading a project at Writing Day is a wonderful opportunity to engage with documentarians from a variety of backgrounds, experience, and expertise. Their collective wealth of experience can upgrade your documentation and create a more inclusive project. This empowers all of us to work together to create opportunities for each other and bigger, better communities
+Leading a project at Writing Day is a wonderful opportunity to engage with documentarians from a variety of backgrounds, experience, and expertise. Their collective wealth of experience can upgrade your documentation and create a more inclusive project. This empowers all of us to work together to create opportunities for each other and bigger, better communities.
 
 **Tips to create and lead a new project effectively:**
 
@@ -88,4 +88,4 @@ Writing Day is the perfect opportunity to participate and learn about new projec
 - **Ask questions!** If you encounter challenges with new concepts and tools, you are in a room surrounded by friendly people from diverse backgrounds and experiences. You can always ask the Welcome Wagon or Registration staff and volunteers. We will help you connect with the right person!
 - **View the project list.** Check out the projects that have been submitted in advance. Keep in mind that some attendees choose to announce their projects during Writing Day itself, so these projects might not appear on the list in advance.
 
-### We're excited to have another wonderful Writing Day!
+**We're excited to have another wonderful Writing Day!**
