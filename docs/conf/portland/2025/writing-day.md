@@ -37,7 +37,7 @@ Find specific examples on the [Portland Writing Day 2023 project list](https://w
 
 ## Schedule
 
-**Date: {{ date.conference.date }}**
+**Date: {{ writing_day.date }}**
 
 Writing Day is an all day event designed with flexibility in mind. Feel free to check out as many projects as make sense for you and your schedule!
 

@@ -162,7 +162,11 @@ cfp:
 
 unconf:
   url: ""
-  date: "All day Monday and Tuesday"
+  date: "All day, Monday, May 5 and Tuesday, May 6"
+
+writing_day:
+  url: ""
+  date: Sunday, May 4, 9 AM - 5 PM
 
 hike:
   date: Saturday, May 3, 2 PM
