@@ -172,7 +172,7 @@ sponsors:
   keystone:
   patron:
     - name: mintlify
-      link: https://mintlify.com/?ref=writethedocs
+      link: https://mintlify.com/?utm_source=writethedocs&utm_medium=referral
       brand: Mintlify
       text: Meet the modern standard for public-facing documentation. Beautiful out of the box, easy to maintain, and built to convert users.
     # - name: gitbook
