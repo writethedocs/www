@@ -15,13 +15,12 @@ Each individual who volunteers for two or more 3-4 hour shifts receives a **free
 
 **Timeline:**
 
--   Now until March 1 (or volunteer capacity is reached): Volunteer application open
--   March 1: Volunteer sign-up form emailed with specific timed shifts
--   March 15: Volunteer schedule emailed
+- Now - February 14: Volunteer application open
+- February 14 - March 26: Volunteer schedule sign up open
+- End of March: Volunteer schedule emailed
 
-**[Sign up today! View the Volunteer Application form for more information.](https://docs.google.com/forms/d/e/1FAIpQLSfvU7kB_miEAPmHKiIynJ1fh7zsUEpgM2Xsya6Bm20olo3mYw/viewform?usp=sf_link)**
 
-![Volunteer photo](/_static/img/2024/volunteer.jpg)
+**[Sign up today! View the Volunteer Application form for more information.](https://docs.google.com/forms/d/e/1FAIpQLSeO5JMVVn1F2NN6keihd0qrLRnytaCMyBAefBjWGW_sz0Iwwg/viewform?usp=sf_link)**
 
 ## FAQs
 
