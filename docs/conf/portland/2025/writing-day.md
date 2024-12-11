@@ -4,8 +4,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 banner: _static/conf/images/headers/2025/writing-day.jpg
 ---
 
-What is Writing Day?
-====================
+# What is Writing Day?
 
 Writing Day is modeled after the concept of “sprints” or “hackathons”, which are common in open-source software (OSS) conferences.
 
@@ -14,6 +13,8 @@ On the first day of the conference, Sunday, attendees are encouraged to bring an
 The primary goal is to bring interested individuals into the same room, sharing their passions and aspirations while collaborating to develop creative solutions to solve a problem or issue.
 
 If you have a project, we encourage you to submit it before the conference! This is a great way to build momentum and get other attendees excited to participate in your project. We’ll open project submissions in February/March. As usual, day-of projects are always welcome too - you'll have the option to sign up onsite and announce it during Writing Day.
+
+![Writing Day](/_static/conf/images/pics/2025/writing-day.jpg)
 
 ## How to participate in Writing Day:
 

@@ -48,6 +48,8 @@ The coordinator, with staff support, selects the speakers. The speakers are anno
 
 Exact times to be posted on our [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page.
 
+![Lightning Talks](/_static/conf/images/pics/2025/lightning-talks.jpg)
+
 ## Planning Your Lightning Talk
 
 A Lightning Talk is five minutes and intentionally designed to encourage speakers to be mindful in how they communicate their topic. Use the time to give an overview, provide insights, and ignite curiosity. 
