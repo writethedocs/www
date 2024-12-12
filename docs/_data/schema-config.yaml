@@ -34,6 +34,7 @@ cfp: include('cfp-details', required=False)
 grants: include('grants-details', required=False)
 shirts: include('shirts-details', required=False)
 unconf: include('unconf-details', required=False)
+writing_day: include('writing_day-details', required=False)
 lightning_talks: include('lightning_talks-details', required=False)
 hike: include('hike-details', required=False)
 
@@ -191,8 +192,12 @@ unconf-details:
   url: str(required=True)
   date: str(required=False)
 
+writing_day-details:
+  url: str(required=False)
+  date: str(required=True)
+
 hike-details:
-  date: str(required=False)
+  date: str(required=True)
 
 lightning_talks-details:
   signup_url: str(required=True)

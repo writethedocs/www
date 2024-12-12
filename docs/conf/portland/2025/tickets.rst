@@ -4,9 +4,6 @@
 Tickets
 =======
 
-Ticket Information
-------------------
-
 {% if flagticketsonsale %}
 
 **Tickets are on sale now!**
@@ -14,9 +11,6 @@ Ticket Information
 We're excited to invite you to our {{ year }} conference in {{ city }}.
 
 {% elif flagsoldout %}
-
-Ticket status
-~~~~~~~~~~~~~
 
 **Tickets are sold out!**
 
@@ -26,13 +20,13 @@ Ticket status
 
 {% endif %}
 
-Ticket details
-~~~~~~~~~~~~~~
+Ticket Information
+------------------
 
 Write the Docs {{ name }} {{ year }} is an in-person conference. Each ticket includes:
 
 * Entry to all conference events and activities
-* Drinks and snacks on event days (Sunday-Tuesday)
+* Snacks and drinks on event days (Sunday-Tuesday)
 * Welcome Reception and Social Event with light snacks and drinks
 * Wifi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue

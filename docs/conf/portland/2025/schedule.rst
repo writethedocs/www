@@ -9,7 +9,7 @@ Each year we organize a wide range of events so that people can come together, c
 
 {% if not flaghasschedule %}
 
-**Full schedule will be released in March 2024.** See the `schedule overview </conf/{{shortcode}}/{{year}}/#schedule-overview>`_ for high level details.
+**Full schedule will be released closer to the conference.** See the `schedule overview </conf/{{shortcode}}/{{year}}/#schedule-overview>`_ for high level details.
 
 {% else %}
 

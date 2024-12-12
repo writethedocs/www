@@ -1,5 +1,4 @@
 name: Portland
-
 shortcode: portland
 year: 2025
 city: Portland
@@ -14,7 +13,7 @@ hex: 3dd94a
 time_format: 12h
 
 photos:
-  default: _static/conf/images/headers/portland-2024-group.jpg
+  default: _static/conf/images/headers/portland-2025-small-group.jpg
 
 buttons:
   top:
@@ -83,8 +82,8 @@ sponsorship:
     price: $14,000
 
 grants:
-  url: ""
-  ends: 'February 1, 2025'
+  url: https://docs.google.com/forms/d/e/1FAIpQLSf3fGfW_8W1x3oeKeoUpg8ZPLvyY4cQvO5Bii_OTrgW97cLNw/viewform?embedded=true
+  ends: 'February 5, 2025'
   notification: 'February 14, 2025'
 
 shirts:
@@ -163,7 +162,11 @@ cfp:
 
 unconf:
   url: ""
-  date: "All day Monday and Tuesday"
+  date: "All day, Monday, May 5 and Tuesday, May 6"
+
+writing_day:
+  url: ""
+  date: Sunday, May 4, 9 AM - 5 PM
 
 hike:
   date: Saturday, May 3, 2 PM
@@ -265,10 +268,10 @@ sponsors:
     #   brand: Read the Docs
 
 # Things that change over time, listed in order of change
-flaglanding: True
+flaglanding: False
 flaghassponsors: True
 flagcfp: True
-flagticketsonsale: False
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False
