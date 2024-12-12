@@ -3,11 +3,13 @@ template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
-# Convince Your Employer
+# Convince Your Manager
 
-Do you need help justifying why your employer should send you to Write the Docs? Do you need help convincing your community to submit a Writing Day Project? Don’t worry – you’re not alone. Based on the experiences of some of our previous attendees, we’ve put together two sample emails and a list of resources below. Feel free to adapt and share with your employer and community to convince them that there are many benefits of attending!
+Do you need help justifying why your manager should send you to Write the Docs? Do you need help convincing your community to submit a Writing Day Project? Don’t worry – you’re not alone. Based on the experiences of some of our previous attendees, we’ve put together two sample emails and a list of resources below. Feel free to adapt and share with your employer and community to convince them that there are many benefits of attending!
 
-## Sample email
+## Sample Email #1
+
+### Convince your manager to send you to Write the Docs
 
 Remember to change the things in [brackets]!
 
@@ -21,11 +23,11 @@ Remember to change the things in [brackets]!
 
 *Write the Docs conferences bring together everyone who writes the docs – Tech Writers, Developers, Developer Relations, Customer Support – making the events an ideal networking opportunity. Each conference successfully combines a number of different event formats to deliver engaging, practical, and timely content.*
 
-*There is a single track of talks, a parallel unconference event, and a community writing day. The sessions from last year will give you a good idea of the kinds of topics covered, many of which are relevant to my work.*
+*There is a single track of talks, a parallel unconference event, and a community writing day. The [sessions from last year](https://www.writethedocs.org/conf/portland/2024/speakers/) will give you a good idea of the kinds of topics covered, many of which are relevant to my work.*
 
 *Costs:*
 
-- *Conference ticket - $650*
+- *[Conference ticket](https://www.writethedocs.org/conf/portland/2025/tickets/) - $650*
 
 *Benefits:*
 
@@ -36,7 +38,7 @@ Remember to change the things in [brackets]!
 
 *Thanks in advance, [your name]*
 
-## Corporate Resources
+### Corporate Resources
 
 When discussing how to pitch the conference, a few generally helpful tips emerged:
 
@@ -46,10 +48,11 @@ When discussing how to pitch the conference, a few generally helpful tips emerge
 - Establishes your team's reputation for caring about their docs.
 - Share info about previous conferences. View the [main page overview](https://www.writethedocs.org/conf/portland/2025/) explaining Write the Docs, history, and schedule overview.
 
-## Convince your employer or community to participate in Writing Day
+## Sample Email # 2
+
+### Convince your manager or community to participate in Writing Day
 
 
-### Sample email
 
 Remember to change the things in [brackets]!
 
@@ -65,7 +68,7 @@ Remember to change the things in [brackets]!
 
 *Costs:*
 
-- *[Conference tickets](https://www.writethedocs.org/conf/portland/2025/tickets/)*
+- *[Conference ticket](https://www.writethedocs.org/conf/portland/2025/tickets/) - $650*
 
 *Writing Day Benefits:*
 

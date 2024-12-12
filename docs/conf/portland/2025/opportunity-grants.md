@@ -3,7 +3,7 @@ template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
-# Opportunity grants
+# Opportunity Grants
 
 The grant program for Write the Docs Portland 2025 supports people who would otherwise not be able to attend the conference, by covering ticket and/or attendance costs. 
 

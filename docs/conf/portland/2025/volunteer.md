@@ -7,7 +7,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 Our volunteer applications are open! We are looking for volunteers to provide support with a variety of conference roles - registration, Writing Day, Unconference, stage support, catering, load out, and more.
 
-Completing this form gives us an idea of what days and roles you are interested in volunteering. Another form will be sent out once the speaker schedule is released in early March.
+Completing this form signs you up to volunteer. We will close the form once volunteer capacity is reached. Another form will be sent out once the speaker schedule is released mid-February.
 
 Each individual must volunteer two assigned 3-4   for two or more 3-4 hour shifts receives a **free ticket** to the conference.
 
