@@ -5,29 +5,23 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 # Volunteer Information
 
-Our volunteer applications are open! We are looking for volunteers to provide support with a variety of conference roles - registration, writing day, Unconference, stage support, catering, load out, and more.
+Our volunteer applications are open! We are looking for volunteers to provide support with a variety of conference roles - registration, Writing Day, Unconference, stage support, catering, load out, and more.
 
 Completing this form gives us an idea of what days and roles you are interested in volunteering. Another form will be sent out once the speaker schedule is released in early March.
 
-Each individual who volunteers for two or more 3-4 hour shifts receives a **free ticket** to the conference.
+Each individual must volunteer two assigned 3-4   for two or more 3-4 hour shifts receives a **free ticket** to the conference.
 
-## Apply today
+## Apply to Volunteer
+
+#### [Sign up today! View the Volunteer Application form for more information.](https://docs.google.com/forms/d/e/1FAIpQLSeO5JMVVn1F2NN6keihd0qrLRnytaCMyBAefBjWGW_sz0Iwwg/viewform?usp=sf_link)
 
 **Timeline:**
 
 - Now - February 14: Volunteer applications open
 - February 14 - March 26: Volunteer schedule sign up open
 - End of March: Volunteer schedule emailed
-
-**[Sign up today! View the Volunteer Application form for more information.](https://docs.google.com/forms/d/e/1FAIpQLSeO5JMVVn1F2NN6keihd0qrLRnytaCMyBAefBjWGW_sz0Iwwg/viewform?usp=sf_link)**
-
-## FAQs
-
-### How many shifts am I required to volunteer?
-
-Each volunteer must work two assigned shifts 3-4 hours in length. Each individual who volunteers for two shifts receives a free ticket to the conference. If you want to volunteer more shifts, please contact katie@writethedocs.org.
-
-### What volunteer roles do you have?
+  
+## Volunteer Roles
 
 #### Writing Day
 
@@ -35,7 +29,7 @@ Each volunteer must work two assigned shifts 3-4 hours in length. Each individua
 
 #### Registration
 
-Check in attendees, provide general information inquiries, answer venue questions, and field other requests or direct individuals to the correct staff member who can provide support.
+- Check in attendees, provide general information inquiries, answer venue questions, and field other requests or direct individuals to the correct staff member who can provide support.
 
 #### Stage Support
 
@@ -55,6 +49,6 @@ Check in attendees, provide general information inquiries, answer venue question
 
 ### Will travel assistance be provided?
 
-Unfortunately, we cannot offer travel assistance to volunteers. We encourage you to apply for the Opportunity Grant. Deadline is February 1. [Apply here today!](https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/) 
+Unfortunately, we cannot offer travel assistance to volunteers. We encourage you to apply for the Opportunity Grant. [View grant application here!](https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/) 
 
 Contact katie@writethedocs.org with any additional questions.
