@@ -59,8 +59,6 @@ These ideas were borrowed from Scott Berkun. Read more of his [post on Unconfere
 - **Ask Unconference staff/volunteers for support to wrangle logistics.** The room can get crowded especially when a popular topic is scheduled.
 - **When it’s over, it’s over.** There are time slots to help organize the sessions but you can finish early or continue the discussion elsewhere.
 
-Select above tips inspired by the “Open Space Technology” infographic.
-
 ## Attending a Session
 
 - View the Session Schedule. This will be posted online and in the Unconference room during the conference only.

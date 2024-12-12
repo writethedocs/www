@@ -13,7 +13,7 @@ hex: 3dd94a
 time_format: 12h
 
 photos:
-  default: _static/conf/images/headers/portland-2024-group.jpg
+  default: _static/conf/images/headers/portland-2025-small-group.jpg
 
 buttons:
   top:

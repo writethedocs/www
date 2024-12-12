@@ -6,7 +6,7 @@ banner: _static/conf/images/headers/2025/volunteer.jpg
 
 # Volunteer Information
 
-Our volunteer applications are open! We are looking for volunteers to provide support with a variety of conference roles - registration, Writing Day, Unconference, stage support, catering, load out, and more.
+Our volunteer application is open! We are looking for volunteers to provide support with a variety of conference roles - registration, Writing Day, Unconference, stage support, catering, load out, and more.
 
 Completing this form signs you up to volunteer. We will close the form once volunteer capacity is reached. Another form will be sent out once the speaker schedule is released mid-February.
 
@@ -15,6 +15,8 @@ Each individual must volunteer two assigned 3-4   for two or more 3-4 hour shift
 ## Apply to Volunteer
 
 #### [Sign up today! View the Volunteer Application form for more information.](https://docs.google.com/forms/d/e/1FAIpQLSeO5JMVVn1F2NN6keihd0qrLRnytaCMyBAefBjWGW_sz0Iwwg/viewform?usp=sf_link)
+
+![Volunteer](/_static/conf/images/pics/2025/volunteer.jpg)
 
 **Timeline:**
 
