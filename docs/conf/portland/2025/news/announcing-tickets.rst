@@ -20,7 +20,7 @@ Full website is available
 
 Our `full event website <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/>`_ is live with information about all the events and basic travel information.
 
-The website has lots of information about the conference events. Stay tuned for updates more updates on food, transportation and other information.
+The website has lots of details about the conference events. Stay tuned for more updates on food, transportation and more.
 
 Opportunity Grants
 ------------------
@@ -41,7 +41,7 @@ Call for Proposals
 
 Our Call for Proposals is still open, and we'd love for you to be part of the conference this year.
 
-Our `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_ page has more details, and all the information you need to submit a talk.
+Our `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_ page has details, and all the information you need to submit a talk.
 
 **Submit your talk by {{ cfp.ends }}!**
 
