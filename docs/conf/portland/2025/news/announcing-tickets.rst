@@ -1,8 +1,8 @@
 :template: {{year}}/generic.html
 :og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
-.. post:: Dec 12, 2024
-   :tags: {{shortcode}}-{{year}}, website, cfp, tickets
+.. post:: Dec 16, 2024
+   :tags: {{shortcode}}-{{year}}, website, tickets, grants, volunteers, cfp, sponsors
 
 Tickets on Sale for Write the Docs Portland 2025
 ================================================

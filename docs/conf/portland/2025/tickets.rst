@@ -4,9 +4,6 @@
 Tickets
 =======
 
-Ticket Information
-------------------
-
 {% if flagticketsonsale %}
 
 **Tickets are on sale now!**
@@ -14,9 +11,6 @@ Ticket Information
 We're excited to invite you to our {{ year }} conference in {{ city }}.
 
 {% elif flagsoldout %}
-
-Ticket status
-~~~~~~~~~~~~~
 
 **Tickets are sold out!**
 
@@ -26,8 +20,8 @@ Ticket status
 
 {% endif %}
 
-Ticket details
-~~~~~~~~~~~~~~
+Ticket Information
+------------------
 
 Write the Docs {{ name }} {{ year }} is an in-person conference. Each ticket includes:
 
