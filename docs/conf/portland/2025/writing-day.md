@@ -49,7 +49,7 @@ Writing Day is an all day event designed with flexibility in mind. Feel free to 
 - **Afternoon Session**
     - Project announcements: Leads give a 2 minute project summary, starting with the afternoon-only projects
     - Projects and co-working reconvenes
-- **Writing Day ends at 5pm**
+- **Writing Day ends at 5 PM**
 
 Exact times to be posted on our [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page.
 
