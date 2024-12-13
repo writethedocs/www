@@ -70,12 +70,12 @@
     </div><!-- end post header -->
 
     {% if 'banner' not in meta %}
-    <div class="page-banner" style="background-image: url({{ pathto(photos['default'], 1) }});">
+    <div class="page-banner" style="background-image: url({{ pathto(photos['default'] | random, 1) }});">
     {% else %}
     <div class="page-banner" style="background-image: url({{ pathto(meta['banner'], 1) }});">
     {% endif %}
         <div class="uk-container">
-            <h1>{% block pagename %}{{ title }}{% endblock %}</h1>
+            <h1 style="background-color: rgba(1, 1, 1, 0.5); padding: 10px 20px; border-radius: 8px; display: inline-block;">{% block pagename %}{{ title }}{% endblock %}</h1>
         </div>
     </div>
     <!-- end page-banner -->
