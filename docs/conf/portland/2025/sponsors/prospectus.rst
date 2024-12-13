@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
-:banner: _static/conf/images/headers/{{shortcode}}-{{year}}-group.jpg
 :og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
+:banner: _static/conf/images/headers/2025/sponsors.jpg
 
 Sponsorship Prospectus
 ######################
