@@ -42,12 +42,12 @@ buttons:
     # - text: Conference recap
     #   link: /news/thanks-recap
   bottom:
-    - text: Welcome to our conference
-      link: /news/welcome
-    # - text: Sponsor us
-    #   link: /sponsors/prospectus
-    #  - text: Submit a Talk
-    #    link: /cfp
+    # - text: Welcome to our conference
+    #   link: /news/welcome
+    - text: Sponsor us
+      link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp
     # - text: Buy a Ticket!
     #   link: /tickets
     # - text: See the Schedule
@@ -145,10 +145,6 @@ date: # how do we handle these? human readable would be nice.
 
 about:
   attendees: 400
-  summary:
-    "The main presentation track takes place from **May 5-6 (Monday and Tuesday) from 9am to 5pm**.
-    During the main event we also run an :doc:`/conf/portland/2025/unconference`."
-
   social_venue:  TBD
   venue: Revolution Hall
   photos: TBD
