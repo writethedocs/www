@@ -21,7 +21,7 @@ You are welcome to apply regardless of your experience level, background or reas
 
 We prioritize applications based on the overall impact that granting an application will have on the applicant, the Write the Docs community, and the applicant's wider community and country, compared to others. However, there are no requirements for you to meet. **In other words, if you're not sure, feel free to apply.**
 
-Grant applicants, like all other participants in the Write the Documents community, are required to follow the Code of Conduct: https://www.writethedocs.org/code-of-conduct/.
+Grant applicants, like all other participants in the Write the Docs community, are required to follow the Code of Conduct: https://www.writethedocs.org/code-of-conduct/.
 
 *Please note: Grant applications will be seen only by the conference team, and we will never publish grant applications or publicly name grant recipients.*
 
