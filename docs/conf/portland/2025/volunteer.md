@@ -20,9 +20,9 @@ Each individual must volunteer two assigned 3-4   for two or more 3-4 hour shift
 
 **Timeline:**
 
-- Now - February 14: Volunteer applications open
-- February 14 - March 26: Volunteer schedule sign up open
-- End of March: Volunteer schedule emailed
+- **Now - February 14**: Volunteer applications open
+- **February 14 - March 26**: Volunteer schedule sign up open
+- **End of March**: Volunteer schedule emailed
   
 ## Volunteer Roles
 

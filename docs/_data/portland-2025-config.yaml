@@ -138,7 +138,7 @@ date: # how do we handle these? human readable would be nice.
     summary: And the conference goes on! More talks and unconference today, along with our Sponsor Expo!
     dotw: Tuesday
     talk_time: 9am-4pm
-    job_fair_time: 9-12pm
+    job_fair_time: 9am-12pm
     unconference_time: 1:35pm-4pm
     icon: conversation
   total_talk_days: 2
@@ -156,7 +156,7 @@ about:
 cfp:
   url: "https://pretalx.com/wtd-portland-2025/cfp" # Open October 6 (Mon) -> 9 weeks to submit
   ends: "January 21, 2025"                         # (Mon) 1 week, to review. It'll take a little longer to announce
-  notification: "February 04, 2025"                # (Mon) 8 weeks to write and prepare
+  notification: "February 4, 2025"                # (Mon) 8 weeks to write and prepare
   slides_by: "April 28, 2025"                      # (Mon) 1 week before
   preview: "TODO"                                  # Preview URL TODO
 
