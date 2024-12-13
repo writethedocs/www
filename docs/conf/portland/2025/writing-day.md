@@ -16,7 +16,7 @@ If you have a project, we encourage you to submit it before the conference! This
 
 ![Writing Day](/_static/conf/images/pics/2025/writing-day.jpg)
 
-## How to participate in Writing Day:
+## How to participate in Writing Day
 
 - **Project Lead:** You bring an idea, content, or OSS project to work on with contributors.
 - **Contributors:** You are looking to contribute to various hosted projects.
@@ -75,7 +75,7 @@ Leading a project at Writing Day is a wonderful opportunity to engage with docum
 - **Clear onboarding:** Ensure your ReadMe, contribution guidelines, or onboarding instructions are accurate and up to date.
 - **Project experts:** We recommend having 1-2 project experts on your project. We love our developer advocates, community managers, and subject matter experts! You’re welcome to ask for virtual reinforcements from your community as well.
 - **Flexibility and understanding:** Reminder that attendees may need additional info to be successful in onboarding to your project.
-- **Submit your Writing Day before the conference:** Projects submitted by April 17, 2025, are featured in our pre-conference blog post and email. Many attendees have shared that their curiosity for specific projects motivated them to attend. Project submissions open in February/March.
+- **Submit your Writing Day before the conference:** Projects submitted by **April 17, 2025**, are featured in our pre-conference blog post and email. Many attendees have shared that their curiosity for specific projects motivated them to attend. Project submissions open in February/March.
 
 These are suggestions and not requirements. It is perfectly valid to show up to Writing Day, tell us about your project day of, and ask for attendee contribution! It’s been done before and it will be done again.
 
