@@ -121,32 +121,32 @@ date: # how do we handle these? human readable would be nice.
     summary: Kick off the conference with Writing Day and work with fellow documentarians on a project. Followed by the opening reception.
     icon: writing
     dotw: Sunday
-    writing_day_time: 9am-5pm
-    reception_time: 5-7pm
+    writing_day_time: 9 PM-5 PM
+    reception_time: 5-7 PM
   day_three:
     event: Conference Day 1
     date: May 5
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Monday
-    talk_time: 9am-5pm
-    unconference_time: 9:45am-5pm
-    social_time: 6:30pm-8:30pm
+    talk_time: 9 AM-5 PM
+    unconference_time: 9:45 AM-5 PM
+    social_time: 6:30 PM-8:30 PM
     icon: conference
   day_four:
     event: Conference Day 2
     date: May 6
     summary: And the conference goes on! More talks and unconference today, along with our Sponsor Expo!
     dotw: Tuesday
-    talk_time: 9am-4pm
-    job_fair_time: 9-12pm
-    unconference_time: 1:35pm-4pm
+    talk_time: 9 AM-4 PM
+    job_fair_time: 9 AM-12 PM
+    unconference_time: 1:35-4 PM
     icon: conversation
   total_talk_days: 2
 
 about:
   attendees: 400
   summary:
-    "The main presentation track takes place from **May 5-6 (Monday and Tuesday) from 9am to 5pm**.
+    "The main presentation track takes place from **May 5-6 (Monday and Tuesday) from 9 AM to 5 PM**.
     During the main event we also run an :doc:`/conf/portland/2025/unconference`."
 
   social_venue:  TBD
