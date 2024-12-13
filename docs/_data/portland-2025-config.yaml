@@ -130,7 +130,7 @@ date: # how do we handle these? human readable would be nice.
     dotw: Monday
     talk_time: 9 AM-5 PM
     unconference_time: 9:45 AM-5 PM
-    social_time: 6:30 PM-8:30 PM
+    social_time: 6:30-8:30 PM
     icon: conference
   day_four:
     event: Conference Day 2
