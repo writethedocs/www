@@ -56,4 +56,4 @@ We appreciate the support of our sponsors. Thank you to the following companies:
 
 Your company can `become a sponsor <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ today!
 
-We're excited to see everyone in Portland.
+We're excited to see everyone in Portland in May.
