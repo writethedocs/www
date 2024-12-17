@@ -41,7 +41,7 @@ Call for Proposals
 
 Our Call for Proposals is still open, and we'd love for you to be part of the conference this year.
 
-Our `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_ page has details, and all the information you need to submit a talk.
+The `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_ page has details, and all the information you need to submit a talk.
 
 **Submit your talk by {{ cfp.ends }}!**
 
