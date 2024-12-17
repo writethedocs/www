@@ -9,7 +9,7 @@ Tickets on Sale for Write the Docs Portland 2025
 
 Happy December, documentarians!
 
-**We’re thrilled to announce that `tickets are now available for Write the Docs Portland 2025 <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_!**
+We’re thrilled to announce that `tickets are now available for Write the Docs Portland 2025 <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_!
 
 Join us for our 13th annual conference in Portland. It's a great opportunity to meet fellow documentarians, learn new skills, and get inspired.
 
