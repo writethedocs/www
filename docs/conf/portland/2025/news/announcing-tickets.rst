@@ -15,12 +15,12 @@ Join us for our 13th annual conference in Portland. It's a great opportunity to 
 
 We have some high-level information for you below.
 
-Full website is available
--------------------------
+Website is Live
+---------------
 
-Our `full event website <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/>`_ is live with information about all the events and basic travel information.
+Our `event website <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/>`_ offers detailed information about our conference events - Speaker Talks, Writing Day, Unconference, Lightning Talks, and more! We also offer opportunities to connect outside of the conference programming through our Welcome Reception and Conference Party. View our `event homepage <https://www.writethedocs.org/conf/portland/2025/>`_ for a schedule overview. 
 
-The website has lots of details about the conference events. Stay tuned for more updates on food, transportation and more.
+And stay tuned for more updates on hotel recommendations, food, and getting around Portland.
 
 Opportunity Grants
 ------------------
@@ -32,20 +32,20 @@ Visit our `Opportunity Grants page <https://www.writethedocs.org/conf/{{shortcod
 Volunteers
 ----------
 
-Our volunteers make the conference happen each year, and it's a great group of folks. Want to help out and attend for free? Volunteer with us this year!
+Want to help out and attend for free? Volunteer with us this year! Our volunteers make the conference happen each year, and it's always a wonderful group of people. 
 
-Visit our `volunteer page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/volunteer/>`_ to learn more and sign up.
+Visit our `Volunteer page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/volunteer/>`_ to learn more and sign up.
 
 Call for Proposals
 ------------------
 
 Our Call for Proposals is still open, and we'd love for you to be part of the conference this year.
 
-Our `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_ page has details, and all the information you need to submit a talk.
+The `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_ page has details, and all the information you need to submit a talk.
 
 **Submit your talk by {{ cfp.ends }}!**
 
-Thanks to our sponsors
+Thanks to our Sponsors
 ----------------------
 
 We appreciate the support of our sponsors. Thank you to the following companies:
@@ -56,4 +56,4 @@ We appreciate the support of our sponsors. Thank you to the following companies:
 
 Your company can `become a sponsor <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ today!
 
-We're excited to see everyone in Portland.
+We're excited to see everyone in Portland in May.
