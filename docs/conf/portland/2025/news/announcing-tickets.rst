@@ -34,7 +34,7 @@ Volunteers
 
 Want to help out and attend for free? Volunteer with us this year! Our volunteers make the conference happen each year, and it's always a wonderful group of people. 
 
-Visit our `volunteer page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/volunteer/>`_ to learn more and sign up.
+Visit our `Volunteer page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/volunteer/>`_ to learn more and sign up.
 
 Call for Proposals
 ------------------
