@@ -9,18 +9,18 @@ Tickets on Sale for Write the Docs Portland 2025
 
 Happy December, documentarians!
 
-We’re thrilled to announce that `tickets are now available for Write the Docs Portland 2025 <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_!
+**We’re thrilled to announce that `tickets are now available for Write the Docs Portland 2025 <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_!**
 
 Join us for our 13th annual conference in Portland. It's a great opportunity to meet fellow documentarians, learn new skills, and get inspired.
 
 We have some high-level information for you below.
 
-Full website is available
+Website is Live
 -------------------------
 
-Our `full event website <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/>`_ is live with information about all the events and basic travel information.
+Our `event website <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/>`_ offers detailed information about our conference events - Speaker Talks, Writing Day, Unconference, Lightning Talks, and more! View our [homepage](https://www.writethedocs.org/conf/portland/2025/) for a schedule overview. Additionally, we have a Welcome Reception and Conference Party, offering opportunities to connect outside of the conference programming. 
 
-The website has lots of details about the conference events. Stay tuned for more updates on food, transportation and more.
+Stay tuned for more updates on food, transportation and more.
 
 Opportunity Grants
 ------------------
@@ -32,7 +32,7 @@ Visit our `Opportunity Grants page <https://www.writethedocs.org/conf/{{shortcod
 Volunteers
 ----------
 
-Our volunteers make the conference happen each year, and it's a great group of folks. Want to help out and attend for free? Volunteer with us this year!
+Want to help out and attend for free? Volunteer with us this year! Our volunteers make the conference happen each year, and it's always a wonderful group of people. 
 
 Visit our `volunteer page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/volunteer/>`_ to learn more and sign up.
 
@@ -45,7 +45,7 @@ Our `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}
 
 **Submit your talk by {{ cfp.ends }}!**
 
-Thanks to our sponsors
+Thanks to our Sponsors
 ----------------------
 
 We appreciate the support of our sponsors. Thank you to the following companies:
