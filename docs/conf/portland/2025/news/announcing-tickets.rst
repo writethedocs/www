@@ -18,7 +18,7 @@ We have some high-level information for you below.
 Website is Live
 -------------------------
 
-Our `event website <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/>`_ offers detailed information about our conference events - Speaker Talks, Writing Day, Unconference, Lightning Talks, and more! We also offer opportunities to connect outside of the conference programming through our Welcome Reception and Conference Party. View our [homepage](https://www.writethedocs.org/conf/portland/2025/) for a schedule overview. 
+Our `event website <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/>`_ offers detailed information about our conference events - Speaker Talks, Writing Day, Unconference, Lightning Talks, and more! We also offer opportunities to connect outside of the conference programming through our Welcome Reception and Conference Party. View our `homepage <https://www.writethedocs.org/conf/portland/2025/>` for a schedule overview. 
 
 And stay tuned for more updates on hotel recommendations, food, and getting around Portland.
 
