@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 :og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-:banners: _static/conf/images/headers/2025/tickets.jpg
+:banner: _static/conf/images/headers/2025/tickets.jpg
 
 Tickets
 =======
