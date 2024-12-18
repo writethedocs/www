@@ -14,9 +14,9 @@ Everyone! All attendees are invited to lead a session on a topic. Sessions can b
 
 **Who can attend an Unconference session?**
 
-![Unconference 1](/_static/conf/images/pics/2025/unconference.jpg)
-
 Everyone!
+
+![Unconference 1](/_static/conf/images/pics/2025/unconference.jpg)
 
 ## Schedule
 
