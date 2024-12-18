@@ -32,8 +32,6 @@ Everyone!
 
 Exact times to be posted on our [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page.
 
-![Unconference 2](/_static/conf/images/pics/2025/unconference.jpg)
-
 ## Leading a Session
 
 Sessions take place at tables and focus on small group interaction. There is no stage at an Unconference session.
