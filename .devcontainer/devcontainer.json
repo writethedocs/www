@@ -1,0 +1,5 @@
+{
+	"name": "Python 3",
+	"image": "mcr.microsoft.com/devcontainers/python:1-3.8-bookworm",
+	"postCreateCommand": "pip3 install --user -r requirements.txt"
+}
