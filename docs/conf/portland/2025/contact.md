@@ -1,6 +1,5 @@
 ---
 template: {{year}}/generic.html
-banner: _static/conf/images/headers/team.png
 ---
 
 # Contact Us

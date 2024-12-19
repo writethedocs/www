@@ -227,7 +227,7 @@ sponsors:
     # - name: nginx
     #   link: https://www.nginx.com/?ref=writethedocs
     #   brand: NGINX
-    - name: redocly
+    - name: redocly-new
       link: https://redoc.ly/
       brand: Redocly
     # - name: netlify-new
