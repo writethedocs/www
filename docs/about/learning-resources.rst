@@ -7,7 +7,6 @@ Learning Resources
    :hidden:
 
    /topics
-   /videos/index
    /podcast
    /organizer-guide/index
    /hiring-guide/index
