@@ -39,10 +39,10 @@ jobs:
         pip install -r requirements.txt
 
     - name: Build
-      uses: rickstaa/sphinx-action@master
-      with:
-        docs-folder: "./docs"
-        build-command: "sphinx-build -q -W -b dirhtml -d _build/doctrees . _build/html"
+      run: |
+        cd docs
+        sphinx-build -q -W -b dirhtml -d _build/doctrees . _build/html
+        cd ../
 
     # Upload performance is awful on the many small files our build generates,
     # so it's compressed locally before uploading
