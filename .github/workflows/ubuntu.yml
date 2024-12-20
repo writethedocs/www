@@ -39,7 +39,7 @@ jobs:
         pip install -r requirements.txt
 
     - name: Build
-      uses: rickstaa/sphinx-action@master
+      uses: ammaraskar/sphinx-action@5.3.0
       with:
         docs-folder: "./docs"
         build-command: "sphinx-build -q -W -b dirhtml -d _build/doctrees . _build/html"
