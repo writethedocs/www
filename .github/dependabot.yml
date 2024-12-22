@@ -2,10 +2,11 @@
 
 version: 2
 updates:
-
-  - package-ecosystem: "github-actions"
-    # `/` is correct for `github/workflows` according to https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot
+  - package-ecosystem: "pip"
     directory: "/"
     schedule:
-      # Check for updates to GitHub Actions every week
+      interval: "weekly"
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
       interval: "weekly"
