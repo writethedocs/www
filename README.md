@@ -103,3 +103,20 @@ virtual Python environment with the following command on Linux:
 If you have verified this command on Windows, we invite you to submit a PR to include that information here.
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/writethedocs/www.svg)](https://greenkeeper.io/)
+
+### Using devcontainer
+
+In addition to local development with Python `venv`, it is also possible to use the devcontainer found in the root of the project.
+
+### Requirements
+
+Make sure all of the following is installed.
+
+- [Docker](https://docs.docker.com/get-started/get-docker/)
+- [Supported IDE](https://containers.dev/supporting#editors)
+
+Follow the steps below to open the development environment.
+
+1. Open a [supported IDE](https://containers.dev/supporting#editors)
+2. Click the "Open in devcontainer" popup
+3. The development environment starts in an containerized environment
