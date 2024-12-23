@@ -21,7 +21,7 @@ sphinxcontrib.datatemplates==0.9.1
 meetup-api==0.1.1
 urllib3[secure]==2.2.3
 yamale==4.0.4
-markdown==3.3.6
+markdown==3.7
 ruamel.yaml==0.17.21
 lxml==4.8.0
 # For emoji
