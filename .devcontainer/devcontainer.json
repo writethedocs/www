@@ -1,5 +1,10 @@
 {
-	"name": "Python 3",
-	"image": "mcr.microsoft.com/devcontainers/python:1-3.8-bookworm",
-	"postCreateCommand": "pip3 install --user -r requirements.txt"
+  "name": "Python and Ruby",
+  "image": "mcr.microsoft.com/devcontainers/python:1-3.8-bookworm",
+  "features": {
+    "ghcr.io/devcontainers/features/ruby:1": {
+      "version": "3.4.1"
+    }
+  },
+  "postCreateCommand": "pip3 install --user -r requirements.txt && bundle install"
 }

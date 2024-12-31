@@ -30,9 +30,6 @@ jobs:
         path: ${{ env.pythonLocation }}
         key: v2-${{ env.pythonLocation }}-${{ hashFiles('requirements.txt') }}
         
-    - name: Install html-proofer
-      run: sudo gem install html-proofer -v '<4.4'
-
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip wheel
@@ -56,6 +53,12 @@ jobs:
       with:
         name: html
         path: html.tar.gz
+
+    - name: Set up Ruby
+    - uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.4'
+        bundler-cache: true
         
     - name: Check links
       if: success()
