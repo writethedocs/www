@@ -4,7 +4,7 @@ Sphinx==5.3.0
 sphinx_autobuild==2021.3.14
 
 # Markdown support
-myst-parser==0.18.0
+myst-parser==3.0.1
 
 # Blogging
 ablog==0.10.31  # pyup: ignore
