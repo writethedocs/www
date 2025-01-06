@@ -43,11 +43,8 @@ def load_meetups_by_region():
             'organizers',
             'website',
             'twitter',
+            'meetup_alt',
         ]])
-        if 'meetup' not in meetup:
-            raise ExtensionError('Meetup missing `meetup` key: file={0}'.format(
-                yaml_file
-            ))
         result[meetup['region']].append(meetup)
     for _, meetups in list(result.items()):
         meetups.sort(key=lambda m: m.get('city', m['country']))

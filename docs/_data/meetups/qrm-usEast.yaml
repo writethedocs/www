@@ -3,8 +3,8 @@ country: USA
 state: East Coast
 city:
 website: https://www.meetup.com/virtual-write-the-docs-east-coast-quorum/events/
-meetup: Virtual-Write-The-Docs-East-Coast-Quorum
-twitter:
+source:
+  meetup: Virtual-Write-The-Docs-East-Coast-Quorum
 organizers:
   - name: Rose Williams
     link: https://twitter.com/ZelWms

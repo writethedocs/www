@@ -3,7 +3,8 @@ country: USA
 state: DC
 city: Washington
 website: https://www.meetup.com/write-the-docs-dc/events/
-meetup: Write-the-Docs-DC
+source:
+  meetup: Write-the-Docs-DC
 organizers:
   - name: Allison Gisinger
     link: https://www.linkedin.com/in/allisongisinger

@@ -22,4 +22,11 @@ do
 	yamale -s docs/_data/schema-sessions.yaml $y -p ruamel
 done
 
+# Meetups
+
+for y in ../_data/meetups/*.yaml
+do
+	yamale -s docs/_data/schema-meetups.yaml $y -p ruamel
+done
+
 cd -

@@ -3,7 +3,8 @@ country: USA
 state: Tennessee
 city: Nashville
 website: https://www.meetup.com/write-the-docs-nashville/events/
-meetup: Write-the-Docs-Nashville
+source:
+  meetup: Write-the-Docs-Nashville
 organizers:
   - name: Pratishtha Singh
     link: https://www.meetup.com/Write-the-Docs-Nashville/members/257049966/
