@@ -16,7 +16,8 @@ but we continuing to refine our approach to conferences and building community.
 ----------------------------
 
 The `2024 Salary Survey <https://salary-survey.writethedocs.org/>`_ is still open until January 15.
-We've had fewer responses than last year,
+We've only had 636 responses so far,
+which is quite a bit smaller than last year,
 so please take a moment to fill it out or share it with a friend if you haven't already.
 We plan to release the results in Q2, in time for the Portland conference.
 
