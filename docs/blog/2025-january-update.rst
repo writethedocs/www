@@ -44,7 +44,7 @@ Here are some highlights from 2024:
 
 * **Jobs and hiring support:** To better align with changing trends in the documentarian jobs market, we removed the job board and launched a new job sponsorship offering. We are also reviewing job-related Slack spaces to ensure they serve the community effectively.
 * **Meetups:** The meetups team is auditing active meetup.com accounts and exploring alternatives to meetup.com. They are also updating guidelines for WTD sponsorship of meetup.com accounts.
-* **Slack moderation:** Our moderation team continues to fight spam and maintain a welcoming environment in our Slack community. We are exploring ways to improve the onboarding experience for new members, but overall the community is in a good place.
+* **Slack moderation:** Our moderation team continues to maintain a welcoming environment and fight spam in our Slack community. We are exploring ways to improve the onboarding experience for new members, but overall the community is in a good place.
 * **Website and learning content:** We are seeking more dedicated maintainers for our website content and documentation guides. We're also trying to find better ways to promote our learning resources, including via social media.
 
 You can find the full archives of Community Board updates on the `Community board blog tag <https://www.writethedocs.org/blog/archive/tag/community-board/>`_,
