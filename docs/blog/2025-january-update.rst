@@ -12,6 +12,13 @@ I'm here with our traditional January community update while the newsletter team
 We don't have any major new initiatives planned,
 but we're continuing to refine our approach to conferences and building community.
 
+We have 2 main actions for you to take today if you haven't already:
+
+* Submit a `talk proposal <https://www.writethedocs.org/conf/portland/2025/cfp/>`__ for our Portland conference by January 21.
+* Fill out our `2024 Documentation Salary Survey <https://salary-survey.writethedocs.org/>`__ by January 31.
+
+More details below.
+
 2024 Salary Survey ends soon
 ----------------------------
 
