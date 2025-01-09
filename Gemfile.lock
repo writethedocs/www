@@ -6,6 +6,7 @@ GEM
     ethon (0.16.0)
       ffi (>= 1.15.0)
     ffi (1.17.1-aarch64-linux-gnu)
+    ffi (1.17.1-x86_64-linux-gnu)
     html-proofer (4.3.2)
       addressable (~> 2.3)
       mercenary (~> 0.3)
@@ -18,6 +19,8 @@ GEM
     mercenary (0.4.0)
     nokogiri (1.18.1-aarch64-linux-gnu)
       racc (~> 1.4)
+    nokogiri (1.18.1-x86_64-linux-gnu)
+      racc (~> 1.4)
     parallel (1.26.3)
     public_suffix (6.0.1)
     racc (1.8.1)
@@ -29,6 +32,7 @@ GEM
 
 PLATFORMS
   aarch64-linux-gnu
+  x86_64-linux
 
 DEPENDENCIES
   html-proofer (< 4.4)
