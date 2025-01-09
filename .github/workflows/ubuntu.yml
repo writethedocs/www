@@ -60,6 +60,9 @@ jobs:
         ruby-version: '3.4'
         bundler-cache: true
         
+      - name: Install Ruby dependencies
+      run: bundle install
+        
     # TODO: Look into why we need to ignore archive/tag/index    
     - name: Check links
       if: success()
