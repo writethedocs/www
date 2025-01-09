@@ -15,7 +15,7 @@ but we're continuing to refine our approach to conferences and building communit
 2024 Salary Survey ends soon
 ----------------------------
 
-The `2024 Salary Survey <https://salary-survey.writethedocs.org/>`_ is still open until January 15.
+The `2024 Salary Survey <https://salary-survey.writethedocs.org/>`_ is still open until January 31.
 We've had less responses than last year so far, 
 so please take a moment to fill it out or share it with a friend if you haven't already.
 We plan to release the results in Q2, in time for the Portland conference.
@@ -51,7 +51,7 @@ You can find the full archives of Community Board updates on the `Community boar
 where we share status updates each quarter to keep the community informed.
 
 Have a great year!
------------------
+------------------
 
 Thanks again for being part of our community and sharing the documentarian journey with us and with each other.
 
