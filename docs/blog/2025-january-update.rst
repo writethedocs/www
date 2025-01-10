@@ -23,7 +23,7 @@ More details below.
 ----------------------------
 
 The `2024 Salary Survey <https://salary-survey.writethedocs.org/>`_ is still open until January 31.
-We've had less responses than last year so far, 
+We've had fewer responses than last year so far, 
 so please take a moment to fill it out or share it with a friend if you haven't already.
 We plan to release the results in Q2, in time for the Portland conference.
 
@@ -34,7 +34,7 @@ It was wonderful to see everyone at our 2024 Portland, Atlantic, and Australia c
 Our 2025 conferences will look similar to last year:
 
 * `Portland <https://www.writethedocs.org/conf/portland/2025/>`_ will be in-person on **May 4-6**.
-* **Atlantic** will be a virtual event, spanning the East Coast and European timezones. We might push it a bit later in the year to avoid the many conferences that happen in mid Septermber, but haven't firmed up dates.
+* **Atlantic** will be a virtual event, spanning the East Coast and European timezones. We might push it a bit later in the year to avoid the many conferences that happen in mid September, but haven't firmed up dates.
 * Australia just happened a month ago, and we haven't started planning for 2025 yet.
 
 We are currently accepting `talk proposals <https://www.writethedocs.org/conf/portland/2025/cfp/>`_ and selling tickets for our Portland conference.
