@@ -36,7 +36,7 @@ You can do that here:
 
 {% endif %}
 
-.. contents::
+.. contents:: Sections
     :local:
     :depth: 1
     :backlinks: none
