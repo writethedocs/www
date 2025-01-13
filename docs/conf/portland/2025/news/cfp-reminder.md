@@ -3,7 +3,6 @@ template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
-
 ```{eval-rst}
 .. post:: Jan 13, 2025
    :tags: {{shortcode}}-{{year}}
@@ -28,7 +27,7 @@ If you already have an idea but are having a difficult time getting your proposa
 
 ```{figure} /_static/conf/images/headers/portland-2024-all-speakers.jpg
 
-Thanks to our lovely 2024 speakers
+Thanks to our lovely 2024 speakers!
 ```
 
 ## [Buy your ticket](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/) for the conference
