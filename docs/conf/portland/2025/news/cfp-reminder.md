@@ -26,6 +26,11 @@ If you already have an idea but are having a difficult time getting your proposa
 - Talk proposals are due by {{ cfp.ends }}.
 - Everyone who submits will receive a response by {{ cfp.notification }}.
 
+```{figure} /_static/conf/images/headers/portland-2024-all-speakers.jpg
+
+Thanks to our lovely 2024 speakers
+```
+
 ## [Buy your ticket](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/) for the conference
 
 The Portland conference is {{ date.short }}. If you're excited to join us, go ahead and buy your ticket today! The [Tickets page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/) has all the information about pricing and what is included.
