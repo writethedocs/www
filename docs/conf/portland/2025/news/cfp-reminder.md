@@ -8,7 +8,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
    :tags: {{shortcode}}-{{year}}
 ```
 
-# Call for Proposals Reminder, Tickets, and Opportunity Grants!
+# Call for Proposals Reminder, Tickets, and Opportunity Grants
 
 Happy New Year, fellow documentarians!
 
@@ -27,7 +27,7 @@ If you already have an idea but are having a difficult time getting your proposa
 
 ```{figure} /_static/conf/images/headers/portland-2024-all-speakers.jpg
 
-Thanks to our lovely 2024 speakers!
+Thanks to our lovely 2024 speakers ❤️
 ```
 
 ## [Buy your ticket](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/) for the conference
@@ -43,7 +43,7 @@ Similar to our past conferences, we'll have great programming and social activit
 - Sunday Welcome Reception
 - Monday Night Social
 
-The full [event website](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/) is live. We'll be updating it with information about where to stay and visiting Portland in the next couple of weeks, so stay tuned!
+The full [event website](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/) is live. We'll be updating it with information about where to stay and visiting Portland in the next couple of weeks, so stay tuned.
 
 ### Opportunity Grants
 
@@ -51,7 +51,7 @@ Interested in attending but need extra financial support? We strive to provide a
 
 View our [Opportunity Grants page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/) for information and the grant application.
 
-### Calling all Volunteers!
+### Calling all volunteers
 
 Interested in being a part of making the conference happen? Apply through our [Volunteer page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/volunteer/).
 
@@ -67,6 +67,6 @@ Thanks to our current sponsors:
    :template: {{year}}/sponsors-simplelist.rst
 ```
 
-**Check out our [sponsorship prospectus](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/) to learn more and join the community!**
+Check out our [sponsorship prospectus](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/) to learn more and join the community.
 
 Looking forward to a wonderful 2025!
