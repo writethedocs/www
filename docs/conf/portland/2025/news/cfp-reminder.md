@@ -3,6 +3,12 @@ template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
+
+```{eval-rst}
+.. post:: Jan 13, 2025
+   :tags: {{shortcode}}-{{year}}
+```
+
 # Call for Proposals Reminder, Tickets, and Opportunity Grants!
 
 Happy New Year, fellow documentarians!
