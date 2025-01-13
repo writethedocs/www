@@ -51,11 +51,11 @@ Interested in attending but need extra financial support? We strive to provide a
 
 View our [Opportunity Grants page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/) for information and the grant application.
 
-### Calling all volunteers
+### Calling all Volunteers
 
 Interested in being a part of making the conference happen? Apply through our [Volunteer page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/volunteer/).
 
-### Join our community of Sponsors
+### Join our Community of Sponsors
 
 Each year, we are grateful for the support of like-minded organizations that share our belief in a collaborative and welcoming community spirit, helping to make the conference a success.
 
