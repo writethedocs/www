@@ -14,7 +14,7 @@ Happy New Year, fellow documentarians!
 
 As we enter 2025, we're looking forward to Write the Docs and sending some reminders to kick the year off. We hope you're planning to join us for the 2025 conference.
 
-Today is mostly a reminder that we're accepting Talk Proposals until **January 21**. Opportunity Grants and Volunteer applications are open now. And of course, tickets are on sale!
+Today is mostly a reminder that we're accepting Talk Proposals until **January 21**. Opportunity Grants and Volunteer applications are still open as well. And of course, tickets are on sale!
 
 ## [Submit your talk](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp) by {{ cfp.ends }}
 
