@@ -45,7 +45,7 @@ Similar to our past conferences, we'll have great programming and social activit
 
 The full [event website](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/) is live. We'll be updating it with information about where to stay and visiting Portland in the next couple of weeks, so stay tuned.
 
-### Opportunity Grants
+### Opportunity Grants are still open
 
 Interested in attending but need extra financial support? We strive to provide an accessible conference for folks of all backgrounds to join. Our opportunity grant application is open until **{{ grants.ends }}**.
 
@@ -55,7 +55,7 @@ View our [Opportunity Grants page](https://www.writethedocs.org/conf/{{shortcode
 
 Interested in being a part of making the conference happen? Apply through our [Volunteer page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/volunteer/).
 
-### Join our Community of Sponsors
+## Join our Community of Sponsors
 
 Each year, we are grateful for the support of like-minded organizations that share our belief in a collaborative and welcoming community spirit, helping to make the conference a success.
 
