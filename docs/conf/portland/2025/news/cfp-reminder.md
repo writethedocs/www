@@ -16,7 +16,7 @@ As we enter 2025, we're looking forward to Write the Docs Portland and sending s
 
 Today is mostly a reminder that we're accepting Talk Proposals until **January 21**. Opportunity Grants and Volunteer applications are still open as well. And of course, tickets are on sale!
 
-## [Submit your talk](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp) by {{ cfp.ends }}
+## Submit your talk by {{ cfp.ends }}
 
 You still have just over one week to submit your talk to the conference. Check out the [Call for Proposals page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp) for more details about what would make a great talk.
 
@@ -30,7 +30,7 @@ If you already have an idea but are having a difficult time getting your proposa
 Thanks to our lovely 2024 speakers ❤️
 ```
 
-## [Buy your ticket](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/) for the conference
+## Buy your ticket for the conference
 
 The Portland conference is {{ date.short }}. If you're excited to join us, go ahead and buy your ticket today! The [Tickets page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/) has all the information about pricing and what is included.
 
