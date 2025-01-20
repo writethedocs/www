@@ -67,4 +67,4 @@ jobs:
     - name: Check links
       if: success()
       run:  |
-          htmlproofer --ignore-files "/404/,/2013/,/2014/,/2015/,/2016/,/2017/,/search\/index.html/,/archive\/tag\/index/" --allow-hash-href=true --enforce-https=false --ignore-missing-alt=true --disable-external=true docs/_build/html
+          bundle exec htmlproofer --ignore-files "/404/,/2013/,/2014/,/2015/,/2016/,/2017/,/search\/index.html/,/archive\/tag\/index/" --allow-hash-href=true --enforce-https=false --ignore-missing-alt=true --disable-external=true docs/_build/html
