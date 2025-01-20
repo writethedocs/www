@@ -9,7 +9,7 @@ banner: _static/conf/images/headers/2025/lightning-talks.jpg
    :tags: {{shortcode}}-{{year}}, visiting
 ```
 
-# Visiting Portland information is live and a last CFP reminder
+# Visiting Portland Information is Live and a Last CFP Reminder
 
 Hello, fellow documentarians!
 
