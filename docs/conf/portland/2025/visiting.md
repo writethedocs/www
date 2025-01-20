@@ -24,18 +24,18 @@ There are wonderful hotels located within two miles of the venue. Many of these 
 
 - **10% Off Discount Code: THEDOCS**
 - Offers two hotel options
-- NEXT has newer rooms
-- The Original, while a boutique hotel, has more street noise
-- [Hey Love](https://www.heylovepdx.com/) restaurant/bar in lobby (won Best U.S. Hotel Bar 2023)
+  - NEXT has newer rooms
+  - The Original, while a boutique hotel, has more street noise
+- [Hey Love](https://www.heylovepdx.com/) restaurant/bar in the lobby (won Best U.S. Hotel Bar 2023)
 - **Bonus!** We're having our Monday evening social here
-- 0.6 miles to venue
+- 0.6 miles to the venue
 
 [KEX Hotels](https://kexhotels.com/)
 
 - **20% Off Discount Code: DOCS2025**
-- Pacific Standard restaurant/bar in lobby
+- Pacific Standard restaurant/bar in the lobby
 - Historic building near shops and restaurants
-- 0.8 miles to venue
+- 0.8 miles to the venue
 
 ### Hotels Downtown/West Portland
 
@@ -43,13 +43,13 @@ There are wonderful hotels located within two miles of the venue. Many of these 
 
 - Boutique hotel with private and shared room options
 - Close to Powell's bookstore and the Pearl District
-- 1.8 miles to venue
+- 1.8 miles to the venue
 
 [Woodlark Hotel](https://woodlarkhotel.com/)
 
 - Luxury hotel
 - Good Coffee and cocktail bar, Abigail Hall, located inside
-- 1.7 miles to venue
+- 1.7 miles to the venue
 
 ## Food and Beverages
 
