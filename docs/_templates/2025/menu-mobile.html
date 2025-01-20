@@ -46,8 +46,8 @@
     <ul class="uk-nav-sub">
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/venue') }}">Venue</a></li>
       {% if not flagisvirtual %}
-          {% if flagspeakersannounced %}
           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/visiting') }}">Visiting {{ city }}</a></li>
+          {% if flagspeakersannounced %}
           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/attendee-guide') }}">Attendee Guide</a></li>
           {% endif %}
           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/health') }}">Health and Safety Policy</a></li>
