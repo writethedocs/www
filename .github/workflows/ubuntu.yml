@@ -30,9 +30,6 @@ jobs:
         path: ${{ env.pythonLocation }}
         key: v2-${{ env.pythonLocation }}-${{ hashFiles('requirements.txt') }}
         
-    - name: Install html-proofer
-      run: sudo gem install html-proofer -v '<4.4'
-
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip wheel
@@ -56,9 +53,18 @@ jobs:
       with:
         name: html
         path: html.tar.gz
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.4'
+        bundler-cache: true
+        
+    - name: Install Ruby dependencies
+      run: bundle install
         
     # TODO: Look into why we need to ignore archive/tag/index    
     - name: Check links
       if: success()
       run:  |
-          htmlproofer --ignore-files "/404/,/2013/,/2014/,/2015/,/2016/,/2017/,/search\/index.html/,/archive\/tag\/index/" --allow-hash-href=true --enforce-https=false --ignore-missing-alt=true --disable-external=true docs/_build/html
+          bundle exec htmlproofer --ignore-files "/404/,/2013/,/2014/,/2015/,/2016/,/2017/,/search\/index.html/,/archive\/tag\/index/" --allow-hash-href=true --enforce-https=false --ignore-missing-alt=true --disable-external=true docs/_build/html
