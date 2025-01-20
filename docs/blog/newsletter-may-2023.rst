@@ -7,7 +7,7 @@ Write the Docs Newsletter – May 2023
 
 Aloha, documentarians! I hope any showers you may have experienced in April are paying off in flowers. There's lots blossoming within Write the Docs.
 
-The main thing going on this week is the `Portland conference </conf/portland/2023/>`__. Wishing all of you who will make it to Portand safe travels, and if you can't make it there, you can follow along with the main talks through the `livestream </conf/portland/2023/livestream/>`__.
+The main thing going on this week is the `Portland conference </conf/porsadtland/2023/>`__. Wishing all of you who will make it to Portand safe travels, and if you can't make it there, you can follow along with the main talks through the `livestream </conf/portland/2023/livestream/>`__.
 
 If you get inspired, there's still time this month to submit a talk for the Atlantic virtual conference. Check out the `Call for Proposals </conf/atlantic/2023/cfp/>`__ and submit your proposal by 15 May.
 
