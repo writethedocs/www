@@ -70,4 +70,4 @@ We're grateful that the Jupiter Hotel and KEX Portland are offering discounts fo
    :template: {{year}}/sponsors-simplelist.rst
 ```
 
-View our [Sponsorship Prospectus](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/) to learn more and join the community.
+View our [Sponsorship Prospectus](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/) to learn more about sponsorship.
