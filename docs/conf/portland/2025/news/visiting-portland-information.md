@@ -27,13 +27,11 @@ We're excited to read your talk ideas and select our 2025 speakers!
 </table>
 </p>
 
-![Speaker Q&A](/_static/conf/images/pages/speaker-qa.jpg)
-
 ### Our Visiting Portland Page is Live!
 
 Our [Visiting Portland](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/) page has details on where to stay, hotel discounts, food and beverage recommendations, and info on how to get around Portland.
 
-We're grateful that the Jupiter Hotel and KEX Portland are offering discounts for hotel stays.
+We're grateful that the Jupiter Hotel and KEX Portland are offering discounts for hotel stays:
 
 [Jupiter Hotel](https://www.jupiterhotel.com/)
 
