@@ -28,7 +28,7 @@ We hear you and will do our best to improve your experience with this conference
 Videos
 ======
 
-Videos of the talks and lightning talks are now available on `our Write the Docs Australia YouTube playlist <https://youtube.com/playlist?list=PLy70RNJ7dYrLlo1cnSh-dK5VUO8zOyB_S&si=V4_9hXO_qPm1zpe7>`__. We also included the Q&A recordings for the main talks.
+Videos of the talks and lightning talks are now available on `our Write the Docs Australia YouTube playlist <https://www.youtube.com/playlist?list=PLy70RNJ7dYrLlo1cnSh-dK5VUO8zOyB_S>`__. We also included the Q&A recordings for the main talks.
 
 Thanks to Aarya H for doing such a great job with these. You can also subscribe to the broader `Write the Docs YouTube channel <https://www.youtube.com/writethedocs>`__ or our very own `Write the Docs Australia YouTube channel <https://www.youtube.com/c/WriteTheDocsAus>`__ so you don't miss any future content!
 
@@ -66,8 +66,7 @@ To ensure that our CoC was visible and accessible, we took a number of specific 
 - We specifically stressed that the CoC applies to all conference spaces including the social event.
 - We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.
 
-We had one CoC incident reported to the organizer. 
-- We approached the person who was reported and asked them to be considerate of their actions which may have been construed as enroaching people's personal space.
+We had one CoC incident reported to the organizer. We approached the person who was reported and asked them to be considerate of their actions which may have been construed as enroaching people's personal space.
 
 If there was any personal conduct or other aspect of the conference experience that did not meet the expectations of behaviour set out in the CoC, please email us at `conduct@writethedocs.org <mailto:conduct@writethedocs.org>`_.
 
