@@ -24,15 +24,17 @@ photos:
 
 buttons:
   top:
-    - text: Sponsor us
-      link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
+    - text: Welcome to our conference
+      link: /news/welcome
+    # - text: Sponsor us
+    #   link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #   link: /cfp
   bottom:
-    - text: Sponsor us
-      link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
+    # - text: Sponsor us
+    #   link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #   link: /cfp
 
 tickets:
   concierge:
@@ -91,21 +93,18 @@ about:
 
 cfp:
   url: "https://sessionize.com/wtdkenya-conf/"
-  ends: "January 21, 2025"
-  notification: "February 4, 2025"
-  slides_by: "April 28, 2025"
+  ends: "April 30, 2025"
+  notification: "May 15, 2025"
+  slides_by: "May 31, 2025"
   preview: "TODO"
 
 unconf:
   url: ""
-  date: "All day, Saturday, June 7"
+  date: ""
 
 writing_day:
   url: ""
-  date: Friday, June 6, 9 AM - 5 PM
-
-hike:
-  date: Thursday, June 5, 2 PM
+  date: ""
 
 sponsors:
   keystone: []
