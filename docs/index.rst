@@ -92,5 +92,7 @@ Site Content
    conf/australia/*/*/*
    conf/vilnius/*/*
    conf/vilnius/*/*/*
+   conf/kenya/*/*
+   conf/kenya/*/*/*
    conf/cfp/*
    book-club/*/*

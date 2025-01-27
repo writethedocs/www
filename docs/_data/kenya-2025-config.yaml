@@ -1,0 +1,139 @@
+name: Kenya
+shortcode: kenya
+year: 2025
+city: Nairobi
+local_area: Kenya
+area: Africa
+area_adj: African
+tz: East Africa Time
+email: support@writethedocs.org
+color: green
+rgb: 61, 217, 74
+hex: 3dd94a
+time_format: 12h
+
+photos:
+  default:
+    - _static/conf/images/headers/2025/grants.jpg
+    - _static/conf/images/headers/2025/unconference.jpg
+    - _static/conf/images/headers/2025/volunteer.jpg
+    - _static/conf/images/headers/2025/writing-day.jpg
+  index:
+    - _static/conf/images/pics/kenya-1.jpg
+    - _static/conf/images/pics/kenya-2.jpg
+
+buttons:
+  top:
+    - text: Sponsor us
+      link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp
+  bottom:
+    - text: Sponsor us
+      link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp
+
+tickets:
+  concierge:
+    price: free
+  corporate:
+    price: free
+  independent:
+    price: free
+  student:
+    price: free
+
+sponsorship:
+  first_draft:
+    price: $500
+  second_draft:
+    price: $1,000
+  publisher:
+    price: $1,500
+  patron:
+    price: $2,000
+  keystone:
+    price: $3,000
+
+grants:
+  url: ""
+  ends: 'February 5, 2025'
+  notification: 'February 14, 2025'
+
+shirts:
+  url: https://shirt.writethedocs.org/
+  ends: "May 31, 2025"
+
+date:
+  main: "**June 7, 2025**"
+  short: June 7, 2025
+  tickets_live: "February 2024"
+  month: June
+
+  day_one:
+    event: Conference Day 1
+    date: June 7
+    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day.
+    dotw: Saturday
+    talk_time: 9am-5pm
+    icon: conference
+
+about:
+  attendees: 400
+  social_venue:  TBD
+  venue: TBD
+  photos: TBD
+  mainroom: Main stage
+  unconfroom: TBD
+  projector_ratio: "16:9"
+  job_fair_room: Sponsor area
+
+cfp:
+  url: "https://sessionize.com/wtdkenya-conf/"
+  ends: "January 21, 2025"
+  notification: "February 4, 2025"
+  slides_by: "April 28, 2025"
+  preview: "TODO"
+
+unconf:
+  url: ""
+  date: "All day, Saturday, June 7"
+
+writing_day:
+  url: ""
+  date: Friday, June 6, 9 AM - 5 PM
+
+hike:
+  date: Thursday, June 5, 2 PM
+
+sponsors:
+  keystone: []
+  patron: []
+  publisher: []
+  second: []
+  first: []
+  in_kind: []
+
+flaglanding: True
+flaghassponsors: False
+flagcfp: True
+flagticketsonsale: True
+flagsoldout: False
+flagspeakersannounced: False
+flagrunofshow: False
+flaghasschedule: False
+flagscheduleincomplete: True
+flaghasshirts: False
+flaglivestreaming: False
+flagvideos: False
+flagpostconf: False
+flaghasbadgeflair: False
+
+flaghasunconf: False
+flaghashike: False
+flaghasfood: True
+flaghaswritingday: False
+flaghaslightningtalks: False
+flaghasjobfair: False
+flaghasboat: False

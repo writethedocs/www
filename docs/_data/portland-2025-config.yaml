@@ -19,6 +19,10 @@ photos:
     - _static/conf/images/headers/2025/volunteer.jpg
     - _static/conf/images/headers/2025/writing-day.jpg
 
+  index:
+    - _static/conf/images/pics/reg.jpg
+    - _static/conf/images/pics/writing-day.jpg
+
 buttons:
   top:
     # - text: Date and ticket information
