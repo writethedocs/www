@@ -14,10 +14,7 @@ time_format: 12h
 
 photos:
   default:
-    - _static/conf/images/headers/2025/grants.jpg
-    - _static/conf/images/headers/2025/unconference.jpg
-    - _static/conf/images/headers/2025/volunteer.jpg
-    - _static/conf/images/headers/2025/writing-day.jpg
+    - _static/conf/images/headers/kenya-2025-group.jpg
   index:
     - _static/conf/images/pics/kenya-1.jpg
     - _static/conf/images/pics/kenya-2.jpg
