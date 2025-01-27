@@ -71,7 +71,7 @@ date:
   month: June
 
   day_one:
-    event: Conference Day 1
+    event: Main conference
     date: June 7
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day.
     dotw: Saturday
@@ -79,7 +79,7 @@ date:
     icon: conference
 
 about:
-  attendees: 400
+  attendees: 100
   social_venue:  TBD
   venue: TBD
   photos: TBD

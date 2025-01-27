@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 :og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.png
 
-.. post:: February 1, 2025
+.. post:: Jan 27, 2025
    :tags: {{shortcode}}-{{year}}
 
 Announcing Write the Docs {{ city }} {{year}}
