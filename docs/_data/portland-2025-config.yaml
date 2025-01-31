@@ -277,7 +277,7 @@ flagspeakersannounced: False
 flagrunofshow: False
 flaghasschedule: False
 flagscheduleincomplete: True
-flaghasshirts: False
+flaghasshirts: True
 flaglivestreaming: False
 flagvideos: False
 flagpostconf: False
