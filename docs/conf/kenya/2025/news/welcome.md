@@ -8,19 +8,20 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.png
    :tags: {{shortcode}}-{{year}}
 ```
 
-# Announcing Write the Docs {{ city }} {{year}}
+<!-- Ignore above here, it's metadata for the website. -->
 
-We're excited to announce the dates for our Kenya 2025 conference!
-There was a Kenya Summit last year,
-and this year it's being expanded into a full conference.
+# Announcing Write the Docs Kenya 2025
 
-**Write the Docs {{ city }} {{ year }} will be on {{ date.short }}**
+We're excited to announce the dates for our first official Kenya conference!
+There was a Kenya Summit last year, and this year it's being expanded into a full conference.
 
-We'll in Nairobi for another year full of great talks, networking, and community building.
+**Write the Docs Kenya 2025 will be on 7th June**
 
-## Call for Proposals
+We'll be in Nairobi for another year full of great talks, networking, and community building.
 
-Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. **We plan to launch our CFP later this year**, and now is a great time to start thinking about topics to present!
+## Call for proposals
+
+Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. [**Submit your talk proposal through our CFP**](https://sessionize.com/wtdkenya-conf/) if you're ready or start thinking about topics to present!
 
 ## Sponsorship
 
