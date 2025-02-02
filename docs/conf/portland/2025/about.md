@@ -11,4 +11,4 @@ The Write the Docs conference covers any topic related to documentation in the s
 Past talks have also covered such diverse topics as empathy, the history of math symbols, and using emoji to keep your users' attention.
 
 Write the Docs brings *everyone* who writes the docs together in the same room: Writers, developers, support engineers, community managers, developer relations, and more.
-We all have things to learn, and there's no better way than coming together in the same room and getting to know each other.
+We all have things to learn, and there's no better way than coming together at our events and sharing our passion and knowledge.
