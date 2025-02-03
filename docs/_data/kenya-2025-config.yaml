@@ -25,8 +25,8 @@ buttons:
       link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
-    # - text: Submit a Talk
-    #   link: /cfp
+    - text: Submit a Talk
+      link: https://sessionize.com/wtdkenya-conf/
   bottom:
     # - text: Sponsor us
     #   link: /sponsors/prospectus
