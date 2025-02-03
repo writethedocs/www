@@ -46,7 +46,7 @@ Subject:
       ○ If you already purchased a ticket so we can issue you a refund.
       ○ If you would like to have an experienced member of the Write the Docs community mentor you through the talk preparation process.
 
-   3. Update your [Pretalx profile]({{cfp.url}}/me) with a bio and other information that we'll use to create your speaker profile and get our audience excited about your talk.
+   3. Update your [Pretalx profile](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/) with a bio and other information that we'll use to create your speaker profile and get our audience excited about your talk.
 
    Okay, with all that out of the way, it's time for the fun part: preparing your talk! To make sure everybody's on the same page, here are a few important things to keep in mind:
 
