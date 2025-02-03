@@ -26,9 +26,9 @@ buttons:
     # - text: Sponsor us
     #   link: /sponsors/prospectus
     - text: Submit a Talk
-      link: https://sessionize.com/wtdkenya-conf/
+      link_absolute: https://sessionize.com/wtdkenya-conf/
   bottom:
-    - text: Welcome to our conference
+    - text: Conference information
       link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
