@@ -229,9 +229,10 @@ sponsors:
       link: https://jebrains.com/writethedocs
       brand: JetBrains
       text: "JetBrains is a software development company known for best-of-class integrated development environments (IDEs) like IntelliJ IDEA, PyCharm, and WebStorm. With Writerside, JetBrains brings its expertise to technical writing."
-    # - name: netlify-new
-    #   link: https://www.netlify.com/?ref=writethedocs
-    #   brand: Netlify
+      width: 7em
+    - name: hyperlint
+      link: https://hyperlint.com/?ref=writethedocs
+      brand: Hyperlint
     # - name: google
     #   link: https://opensource.google/?ref=writethedocs
     #   brand: Google Open Source
