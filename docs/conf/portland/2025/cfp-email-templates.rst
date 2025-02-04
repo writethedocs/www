@@ -42,9 +42,9 @@ Subject:
 
    2. Let us know any of the following:
 
-      ○ If you have a strong preference for presenting on Monday or Tuesday, or in the morning or afternoon.
-      ○ If you already purchased a ticket so we can issue you a refund.
-      ○ If you would like to have an experienced member of the Write the Docs community mentor you through the talk preparation process.
+       ○ If you have a strong preference for presenting on Monday or Tuesday, or in the morning or afternoon.
+       ○ If you already purchased a ticket so we can issue you a refund.
+       ○ If you would like to have an experienced member of the Write the Docs community mentor you through the talk preparation process.
 
    3. Update your [Pretalx profile](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/) with a bio and other information that we'll use to create your speaker profile and get our audience excited about your talk.
 
