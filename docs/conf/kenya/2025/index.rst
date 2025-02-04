@@ -1,5 +1,5 @@
 :template: {{year}}/index.html
-:banner: _static/conf/images/headers/portland-2025-small-group.jpg
+:banner: _static/conf/images/headers/kenya-2025-group.jpg
 :og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.png
 
 :orphan:
@@ -28,3 +28,4 @@
       </section>
     </div>
   </div><!--- end news block -->
+
