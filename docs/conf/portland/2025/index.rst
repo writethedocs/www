@@ -28,4 +28,3 @@
       </section>
     </div>
   </div><!--- end news block -->
-
