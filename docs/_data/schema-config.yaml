@@ -70,6 +70,7 @@ flaghasfood: bool(required=False)
 
 photo-default:
   default: any(str, list)
+  index: any(str, list, required=False)
 
 cobrand-details:
   brand: str()

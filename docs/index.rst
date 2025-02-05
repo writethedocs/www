@@ -21,8 +21,7 @@ Attend a conference
 We have in-person and virtual conferences around the world:
 
    - :doc:`Portland 2025 </conf/portland/2025/index>`, **May 4-6, 2025**, Portland, Oregon, United States
-   - :doc:`Atlantic 2024 </conf/atlantic/2024/index>`, **September 22-24**, Virtual - CEST and EDT
-   - :doc:`Australia 2024 </conf/australia/2024/index>`, **November 28-29**, Melbourne, Australia
+   - :doc:`Kenya 2025 </conf/kenya/2025/index>`, June 7, 2025, **Nairobi, Kenya**
 
 See all :doc:`our conferences </conf/index>` from past years.
 
@@ -34,7 +33,6 @@ Get more information on how to meet the community, get involved, stay in touch.
 * Join our :doc:`Slack network </slack>` with thousands of other documentarians
 * Join a :doc:`local or online meetup </meetups/index>` to dive deeper into the community
 * Learn more about our :doc:`sponsorship options <sponsorship/index>` for your company
-* Fill out our `2024 Documentation Salary Survey <https://salary-survey.writethedocs.org/>`__ and `browse previous survey results  </surveys/>`__
 
 Find or advertise a job
 -----------------------
@@ -92,5 +90,7 @@ Site Content
    conf/australia/*/*/*
    conf/vilnius/*/*
    conf/vilnius/*/*/*
+   conf/kenya/*/*
+   conf/kenya/*/*/*
    conf/cfp/*
    book-club/*/*
