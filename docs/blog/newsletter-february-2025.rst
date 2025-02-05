@@ -88,7 +88,16 @@ See more Write the Docs resources about `AI and LLMs </topics/#TOPIC_LINK>`__.
 From our sponsor
 ----------------
 
-This month’s newsletter is sponsored by Document360.
+This month’s newsletter is sponsored by `Document360 <https://document360.com/signup/?utm_source=nl&utm_medium=write_the_docs>`_.
+
+------
+
+.. image:: /_static/img/sponsors/document360.png
+  :align: center
+  :width: 50%
+  :target: https://document360.com/signup/?utm_source=nl&utm_medium=write_the_docs
+  :alt: Document360 logo
+
 
 Note from Saravana Kumar, Document360 CEO:
 
