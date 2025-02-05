@@ -111,7 +111,7 @@ Subscribe to our Newsletter
 Our `monthly newsletter`_ is the other place to keep track of everything that is happening with the community. Subscribe to make sure you hear
 about all the conferences, meetups, job postings, and summaries of relevant conversations in our Slack.
 
-.. _monthly newsletter: https://writethedocs.org/newsletter/
+.. _monthly newsletter: https://www.writethedocs.org/newsletter/
 
 Attend a meetup event
 =====================
