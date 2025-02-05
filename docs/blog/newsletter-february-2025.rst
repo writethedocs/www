@@ -90,8 +90,6 @@ From our sponsor
 
 This month’s newsletter is sponsored by `Document360 <https://document360.com/signup/?utm_source=nl&utm_medium=write_the_docs>`_.
 
-------
-
 .. image:: /_static/img/sponsors/document360.png
   :align: center
   :width: 50%
