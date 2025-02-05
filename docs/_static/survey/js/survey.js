@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
-  var submenuLinks = document.querySelectorAll(".simple > li > ul > li > a");
+  var submenuLinks = document.querySelectorAll(".simple li > ul > li > a");
 
   submenuLinks.forEach(function(link) {
     link.addEventListener("click", function(event) {
