@@ -203,7 +203,7 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
-suppress_warnings = ['image.nonlocal_uri']
+suppress_warnings = ['image.nonlocal_uri', 'myst.header']
 
 # Our additions
 

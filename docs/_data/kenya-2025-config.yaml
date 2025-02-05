@@ -1,0 +1,137 @@
+name: Kenya
+shortcode: kenya
+year: 2025
+city: Nairobi
+local_area: Kenya
+area: Africa
+area_adj: African
+tz: East Africa Time
+email: support@writethedocs.org
+color: green
+rgb: 61, 217, 74
+hex: 3dd94a
+time_format: 12h
+
+photos:
+  default:
+    - _static/conf/images/headers/kenya-2025-group.jpg
+  index:
+    - _static/conf/images/pics/kenya-1.jpg
+    - _static/conf/images/pics/kenya-2.jpg
+
+buttons:
+  top:
+    - text: Welcome to our conference
+      link: /news/welcome
+    # - text: Sponsor us
+    #   link: /sponsors/prospectus
+    - text: Submit a Talk
+      link_absolute: https://sessionize.com/wtdkenya-conf/
+  bottom:
+    - text: Conference information
+      link: /news/welcome
+    # - text: Sponsor us
+    #   link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #   link: /cfp
+
+tickets:
+  concierge:
+    price: free
+  corporate:
+    price: free
+  independent:
+    price: free
+  student:
+    price: free
+
+sponsorship:
+  first_draft:
+    price: $500
+  second_draft:
+    price: $1,000
+  publisher:
+    price: $1,500
+  patron:
+    price: $2,000
+  keystone:
+    price: $3,000
+
+grants:
+  url: ""
+  ends: 'February 5, 2025'
+  notification: 'February 14, 2025'
+
+shirts:
+  url: https://shirt.writethedocs.org/
+  ends: "May 31, 2025"
+
+date:
+  main: "**June 7, 2025**"
+  short: June 7, 2025
+  tickets_live: "February 2024"
+  month: June
+
+  day_one:
+    event: Main conference
+    date: June 7
+    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day.
+    dotw: Saturday
+    talk_time: 9am-5pm
+    icon: conference
+
+about:
+  attendees: 100
+  social_venue:  TBD
+  venue: TBD
+  photos: TBD
+  mainroom: Main stage
+  unconfroom: TBD
+  projector_ratio: "16:9"
+  job_fair_room: Sponsor area
+
+cfp:
+  url: "https://sessionize.com/wtdkenya-conf/"
+  ends: "April 30, 2025"
+  notification: "May 15, 2025"
+  slides_by: "May 31, 2025"
+  preview: "TODO"
+
+unconf:
+  url: ""
+  date: ""
+
+writing_day:
+  url: ""
+  date: ""
+
+sponsors:
+  keystone: []
+  patron: []
+  publisher: []
+  second: []
+  first: []
+  in_kind: []
+
+flaglanding: True
+flaghassponsors: False
+flagcfp: True
+flagticketsonsale: True
+flagsoldout: False
+flagspeakersannounced: False
+flagrunofshow: False
+flaghasschedule: False
+flagscheduleincomplete: True
+flaghasshirts: False
+flaglivestreaming: False
+flagvideos: False
+flagpostconf: False
+flaghasbadgeflair: False
+
+flaghasunconf: False
+flaghashike: False
+flaghasfood: True
+flaghaswritingday: False
+flaghaslightningtalks: False
+flaghasjobfair: False
+flaghasboat: False
