@@ -11,7 +11,7 @@ Ahoy, documentarians, and greetings in 2025! I hope the year is off to a splendi
 
 We were saddened to start the year learning that the Society for Technical Communication is shutting down. We appreciate all the work they've put into sharing knowledge and building community over the years. We will keep up the work they started, making documentation and communication a highly valued part of industry, and continue to welcome any and all STC members into the community.
 
-Our community is excited to welcome a new conference in Kenya this year. `Write the Docs Kenya 2025 </conf/kenya/2025/>`__ will take place on June 7 in Nairobi, Kenya. If you're interested, submit an `idea for a talk <https://sessionize.com/wtdkenya-conf/>`__.
+Our community is excited to welcome a new conference in Kenya this year. `Write the Docs Kenya 2025 </conf/kenya/2025/>`__ will take place on June 7 in Nairobi, Kenya. If you're interested, submit an `idea for a talk <https://sessionize.com/wtdkenya-conf/>`__. An announcement for speakers in `Portland </conf/portland/2025/>`__ will be coming soon, so keep an eye out for that.
 
 The 2024 Salary Survey is now closed – a big thanks to everyone who participated! We're now hard at work crunching the numbers and will release the results before the `Portland conference </conf/portland/2025/>`__. 
 
