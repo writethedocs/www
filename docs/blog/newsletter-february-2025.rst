@@ -82,7 +82,7 @@ Another strategy was to focus on semantics. This could involve exposing semantic
 
 If you work with a specific tool for chat, talk with the vendor about what works for that tool or check out their docs (such as the `recommendations from kapa.ai <https://docs.kapa.ai/blog/optimizing-technical-documentation-for-llms>`__). If you want to make your content generally available, consider an `llms.txt file <https://llmstxt.org/>`__. In most cases, if you do the minimum and focus on making your documentation useful to humans, the content will be able to shine in any interface.
 
-See more Write the Docs resources about `AI and LLMs </topics/#TOPIC_LINK>`__.
+See more Write the Docs resources about `AI and LLMs </topics/#ai-and-llms>`__.
 
 ----------------
 From our sponsor
