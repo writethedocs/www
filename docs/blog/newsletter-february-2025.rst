@@ -9,7 +9,7 @@ Write the Docs Newsletter – February 2025
 
 Ahoy, documentarians, and greetings in 2025! I hope the year is off to a splendid start for all of you, full of documentation projects so promising they almost complete themselves, just needing a little nudge from you.
 
-We were saddened start the year learning that the Society for Technical Communication is shutting down. We appreciate all the work they've put into sharing knowledge and building community over the years. We will keep up the work they started, making documentation and communication a highly valued part of industry, and continue to welcome any and all STC members into the community.
+We were saddened to start the year learning that the Society for Technical Communication is shutting down. We appreciate all the work they've put into sharing knowledge and building community over the years. We will keep up the work they started, making documentation and communication a highly valued part of industry, and continue to welcome any and all STC members into the community.
 
 Our community is excited to welcome a new conference in Kenya this year. `Write the Docs Kenya 2025 </conf/kenya/2025/>`__ will take place on June 7 in Nairobi, Kenya. If you're interested, submit an `idea for a talk <https://sessionize.com/wtdkenya-conf/>`__.
 
@@ -23,11 +23,11 @@ How to make your work as a documentarian shine: Beyond "just writing docs"
 
 It's a common challenge for documentarians: underselling the complexity and value of our work. Once tasks start feeling like second nature, we start underestimating how much we contribute to organizational success. If you've ever thought, "I just write docs," it's time to shift that mindset. Here's how to frame your work in language that can help others see the impact you make.
 
-- **Be loud and visible**: Visibility matters. Share your wins! Send monthly updates, create a quarterly newsletter, or give shoutouts in company-wide channels. Showcase not just what you did but how it made an impact—think before-and-after stories that illustrate real change.
+- **Be loud and visible**: Visibility matters. Share your wins! Send monthly updates, create a quarterly newsletter, or give shoutouts in company-wide channels. Showcase not just what you did but how it made an impact – think before-and-after stories that illustrate real change.
 
 - **Track and report everything**: Time-tracking, KPIs, and regular reports help you prove your worth. Document coaching sessions, workshops, and cross-departmental consulting. Use ticketing systems to create a paper trail of your efforts.
 
-- **Embrace strategic terminology**: Think beyond writing and describe your work with terms that resonate with leadership. Use phrases like "stakeholder management," "internal consulting," "change management," and "scalability." You're not just documenting processes—you're enabling knowledge retention, improving self-service, and enhancing productivity across teams.
+- **Embrace strategic terminology**: Think beyond writing and describe your work with terms that resonate with leadership. Use phrases like "stakeholder management," "internal consulting," "change management," and "scalability." You're not just documenting processes – you're enabling knowledge retention, improving self-service, and enhancing productivity across teams.
 
 - **Tie your work to business value**: Executives care about outcomes such as cost reduction, scalability, and operational efficiency. Demonstrate how documentation reduces support tickets, speeds up onboarding, and eliminates knowledge silos. If you can quantify time saved or efficiency gained, you're sure to be heard.
 
@@ -76,7 +76,7 @@ Writing AI-friendly *and* human-readable documentation
 
 A recent discussion in the `#ai channel <https://writethedocs.slack.com/archives/C1NEAD7D4>`__ touched on how to write documentation that could easily be parsed by large language models (LLMs) but still be nice for humans to read. One participant pointed to a `recent somewhat infamous decision <https://github.com/MicrosoftDocs/WSL/pull/2021#issuecomment-2546627586>`__ to close a proposed change to the Microsoft docs because tables might not work well for an AI chat bot. But no one wanted documentation that was only for machines.
 
-Multiple people commented that focusing on writing well for humans is the most effective way. People focused on standard documentation practices, such as using structured writing and simple, clear language. Others noted that focusing on making your documentation accessible can also help, as good alternative text for images and clear labels can help tools that don't interact with the content in the same way as some humans.
+Multiple people commented that focusing on writing well for humans is the most effective way to make it usable for everyone, and everything. People focused on standard documentation practices, such as using structured writing and simple, clear language. Others noted that focusing on making your documentation accessible can also help, as good alternative text for images and clear labels can help tools that don't interact with the content in the same way as some humans.
 
 Another strategy was to focus on semantics. This could involve exposing semantic types, rather than keeping them hidden in XML tags. It can also mean making sure you chunk your documentation based on meaning when using techniques such as `retrieval-augmented generation <https://en.wikipedia.org/wiki/Retrieval-augmented_generation>`__. Some thought focusing on traditionally structured documents would be enough to solve this.
 
