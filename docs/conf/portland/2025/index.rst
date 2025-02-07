@@ -6,7 +6,6 @@
 
 .. title:: Home | Write the docs {{ name }} {{ year }}
 
-
 .. raw:: html
 
   <div class="news-block">
