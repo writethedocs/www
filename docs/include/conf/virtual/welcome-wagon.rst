@@ -334,7 +334,7 @@ Pro tips
   Play a board game on your lunch break.
   Come back invigorated.
 - Find out who is attending the conference before you attend.
-  Join the `Write the Docs Slack <https://writethedocs.org/slack/>`__,
+  Join the `Write the Docs Slack <https://www.writethedocs.org/slack/>`__,
   follow `Write the Docs on Twitter <https://twitter.com/writethedocs>`__,
   and review the `list of speakers <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/speakers/>`__.
 - In case of technical issues with our main platform,

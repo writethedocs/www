@@ -7,7 +7,7 @@ Write the Docs Newsletter – July 2023
 
 Aloha! There's lots to cover this month, so let's dive in.
 
-Who makes up the Write the Docs community? What proportion support pay transparency? Where are salaries highest? How many have started a new job in the past 12 months? All these questions and more are answered in the `2022 Write the Docs Salary Survey results <https://writethedocs.org/surveys>`__. Stay tuned: the survey for 2023 will be opening in early September.
+Who makes up the Write the Docs community? What proportion support pay transparency? Where are salaries highest? How many have started a new job in the past 12 months? All these questions and more are answered in the `2022 Write the Docs Salary Survey results <https://www.writethedocs.org/surveys>`__. Stay tuned: the survey for 2023 will be opening in early September.
 
 In conference news, we recently saw the announcement of the `speakers for the 2023 Atlantic conference </conf/atlantic/2023/news/announcing-speakers/>`__. So check out all the interesting things you can look forward to learning. And the Australia conference has released the `call for proposals </conf/australia/2023/cfp/>`__ and `ticket sales </conf/australia/2023/tickets/>`__ so get ready for good times in December.
 
