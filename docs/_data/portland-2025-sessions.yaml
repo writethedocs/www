@@ -6,8 +6,8 @@
   speakers:
   - name: Alex Garnett
     slug: alex-garnett
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>We do not want AI to write the docs. We know this. It does a bad job,
     and it’s depressing to think about! However, what AI is inevitably going to do
     is read the docs, and then? Then we can talk.</p>
@@ -43,8 +43,8 @@
   speakers:
   - name: Yanjie Niu
     slug: yanjie-niu
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>As a technical writer leading documentation initiatives, I observed
     a persistent challenge: while documenting new products and features follows established
     processes, improving existing content often lacks a systematic approach - both
@@ -99,8 +99,8 @@
   speakers:
   - name: Stephanie Fuller
     slug: stephanie-fuller
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Where do you start when your Docs-as-Code repository is a large, disorganized,
     poorly written, and outdated shipwreck?</p>
 
@@ -125,8 +125,8 @@
   speakers:
   - name: Rachel  Rigdon
     slug: rachel-rigdon
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>One of the most frustrating experiences as a tech writer is hearing
     secondhand that a customer complained about the documentation—especially when
     it’s a nebulous complaint that leaves no clear path for improvement. Receiving
@@ -177,8 +177,8 @@
   speakers:
   - name: Holly Mickelson
     slug: holly-mickelson
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: "<p>Eventually, every technical writer is faced with the same troubling
     question about a new project: Which regulations and standards apply, and what
     will that mean for my documentation? While for some specializations this is fairly
@@ -212,8 +212,8 @@
   speakers:
   - name: Manny Silva
     slug: manny-silva
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Outdated docs break user trust. Sometimes it''s small—a screenshot
     that doesn''t match the UI. Sometimes it''s a one-and-done broken relationship—a
     critical procedure that fails at a key moment. You don''t always get a second
@@ -261,8 +261,8 @@
   speakers:
   - name: Heather Zoppetti
     slug: heather-zoppetti
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>My journey into technical writing has been anything but conventional.
     I moved from software engineer, to knitwear designer, to craft business owner,
     and ultimately, to technical writer. I’ve discovered a varied background is a
@@ -285,8 +285,8 @@
   speakers:
   - name: Janine
     slug: janine
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: "<p>As someone with a completely non-technical background (an English
     degree), and who now works in software as a technical writer, I get a lot of questions
     about how I made that leap. They often jump directly to the practical: how did
@@ -322,8 +322,8 @@
   speakers:
   - name: Leah Catania
     slug: leah-catania
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>We’ve all been in this situation before: you’ve been asked to build
     a new type of documentation, and a stakeholder (maybe a product manager with a
     lot of ownership, an executive, or even the CEO) has a specific idea about how
@@ -371,8 +371,8 @@
   speakers:
   - name: Ravind Kumar
     slug: ravind-kumar
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Our toolchains are the backbone of the docs we produce. Over time
     the files, pre-build scripts, builders, post-build scripts, and a variety of tacked-on
     supporting frameworks become the tentacles and hooked beak of the infamous kraken.
@@ -384,7 +384,7 @@
     extendability, and ease-of-use as our overall product grew in size and complexity.</p>
 
     <p>I’ll talk about the problems our team faced as our company’s product catalog
-    grew into a mixed ecosystem of Open Source and Proprietary softwares across operating
+    grew into a mixed ecosystem of Open Source and Proprietary software across operating
     systems and infrastructures. I’ll talk about technical considerations - why we
     chose one tool or feature to solve a problem and the problems we predicted and
     actually encountered as a result. We’ll end on the Great Question that eventually
@@ -409,8 +409,8 @@
   speakers:
   - name: Jodie Landes
     slug: jodie-landes
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>In the world of technical documentation, merging two established systems
     is no small feat. This presentation will take the audience on a journey through
     the ambitious unification of ForgeRock and Ping Identity''s documentation ecosystems,
@@ -495,8 +495,8 @@
   speakers:
   - name: Colin Loretz
     slug: colin-loretz
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>What happens when your documentation is public, and anyone can contribute?
     </p>
 
@@ -544,8 +544,8 @@
   speakers:
   - name: Elise Davis
     slug: elise-davis
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>If you’re lucky, you work at an organization with enormous growth
     potential and a clear upward trajectory. But how do you keep excelling at your
     job, when the company you work for is structurally and strategically different
