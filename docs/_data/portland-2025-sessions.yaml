@@ -73,20 +73,24 @@
     insights, you''ll walk away with actionable strategies to transform your documentation
     process.</p>
 
-    <p>Key takeaways:
+    <p>Key takeaways:</p>
 
-    * A framework for identifying and prioritizing documentation improvements using
-    multiple data sources
+    <ul>
 
-    * Strategies for effective collaboration between technical writers and support
-    engineers
+    <li>A framework for identifying and prioritizing documentation improvements using
+    multiple data sources</li>
 
-    * Methods for measuring and validating content improvements through documentation
-    and support metrics
+    <li>Strategies for effective collaboration between technical writers and support
+    engineers</li>
 
-    * Techniques for balancing new feature documentation with existing content improvement
+    <li>Methods for measuring and validating content improvements through documentation
+    and support metrics</li>
 
-    * Approaches for using support cases to enhance technical writers'' domain expertise</p>'
+    <li>Techniques for balancing new feature documentation with existing content improvement</li>
+
+    <li>Approaches for using support cases to enhance technical writers'' domain expertise</li>
+
+    </ul>'
 - title: Writing the Shipwreck
   slug: writing-the-shipwreck-stephanie-fuller
   series: Write the Docs Portland
@@ -140,23 +144,27 @@
     how user engagement can drive meaningful improvements in both documentation and
     the product itself.</p>
 
-    <p>Key takeaways include:
+    <p>Key takeaways include:</p>
 
-    - Building a Feedback System That Works: Learn the essential components needed
+    <ul>
+
+    <li>Building a Feedback System That Works: Learn the essential components needed
     to ensure your feedback mechanism encourages constructive input instead of becoming
-    a pile of complaints.
+    a pile of complaints.</li>
 
-    - Making Connections: Discover how fostering cross-functional teamwork and community
-    building enhances the feedback-gathering process.
+    <li>Making Connections: Discover how fostering cross-functional teamwork and community
+    building enhances the feedback-gathering process.</li>
 
-    - Adapting to Your Team’s Realities: Learn strategies for tailoring your feedback
-    approach to fit your team’s constraints without sacrificing impact.
+    <li>Adapting to Your Team’s Realities: Learn strategies for tailoring your feedback
+    approach to fit your team’s constraints without sacrificing impact.</li>
 
-    - Amplifying User Voices: Understand how to ensure the right stakeholders hear
-    and act on user concerns.
+    <li>Amplifying User Voices: Understand how to ensure the right stakeholders hear
+    and act on user concerns.</li>
 
-    - Demonstrating Your Value: Gain insights into showcasing how tech writers’ proximity
-    to users strengthens product development.</p>
+    <li>Demonstrating Your Value: Gain insights into showcasing how tech writers’
+    proximity to users strengthens product development.</li>
+
+    </ul>
 
     <p>This talk is designed for anyone seeking to prioritize user feedback effectively
     and transform customer responses into actionable insights that elevate both documentation
@@ -181,18 +189,18 @@
     area or are just curious about writing in highly regulated markets, join me for
     an investigation into four regulatory hurdles I consistently encounter in the
     very international world of medical devices and the opportunities they bring with
-    them. </p>\n<p>•   “Is that a device, or a system?” \nWe’ll investigate how two
-    major regulating bodies, the FDA and MDR, agree and disagree about classification
-    systems, and what that means for bringing a device to market and managing documentation.</p>\n<p>•
-    \  “Oh, there’s a battery in that? Well then…” \nWe’ll delve into the ever-evolving
-    and very global world of industry-specific standards, and how seemingly small
-    details can throw everything you think you knew off balance. </p>\n<p>•   “That
+    them. </p>\n<ul>\n<li>\n<p>“Is that a device, or a system?” \nWe’ll investigate
+    how two major regulating bodies, the FDA and MDR, agree and disagree about classification
+    systems, and what that means for bringing a device to market and managing documentation.</p>\n</li>\n<li>\n<p>“Oh,
+    there’s a battery in that? Well then…” \nWe’ll delve into the ever-evolving and
+    very global world of industry-specific standards, and how seemingly small details
+    can throw everything you think you knew off balance. </p>\n</li>\n<li>\n<p>“That
     made perfect sense in English.” \nIn some markets, products cannot be sold unless
     documentation is available in the local language. We’ll consider the role translation
-    plays, both before you even start writing and well after you finish. </p>\n<p>•
-    \  “No man, it’s the BOM!” \nFinally, we’ll look at how the long-ignored topic
-    of cybersecurity in the medical device industry has suddenly risen to the top,
-    not only as part of the device development process, but also within your documentation.</p>\n<p>Along
+    plays, both before you even start writing and well after you finish. </p>\n</li>\n<li>\n<p>“No
+    man, it’s the BOM!” \nFinally, we’ll look at how the long-ignored topic of cybersecurity
+    in the medical device industry has suddenly risen to the top, not only as part
+    of the device development process, but also within your documentation.</p>\n</li>\n</ul>\n<p>Along
     the way, I’ll offer up some tips about anticipating areas of conflict within regulations
     and standards as well as planning for international use cases, and also provide
     some sure fire ways to ensure your writing will sail through translation.</p>"
@@ -268,24 +276,7 @@
     career you love. </p>
 
     <p>Whether you’re just starting out or considering a career pivot, this session
-    will inspire you to see your diverse experiences as strengths, not detours.</p>
-
-    <p>Spoilers not for abstract:
-
-    - As a software engineer you may appreciate documentation, but are often taught
-    to disdain contributing
-
-    - I fell in love with knitting and saw patterns as programs with their own syntax
-    and style guides
-
-    - As a knitwear designer, I learned how effective communication can make or break
-    a pattern
-
-    - Looking to return to tech, I discovered technical writing and applied to jobs
-    using my knitting patterns as samples
-
-    - Now a technical writer for 6.5 years, I attribute most of my skill in the craft
-    to knitting</p>'
+    will inspire you to see your diverse experiences as strengths, not detours.</p>'
 - title: Seven habits of increasingly technical technical writers
   slug: seven-habits-of-increasingly-technical-technical-writers-janine
   series: Write the Docs Portland
@@ -333,27 +324,44 @@
     slug: leah-catania
     twitter: 
     website: 
-  abstract: "<p>We’ve all been in this situation before: you’ve been asked to build
+  abstract: '<p>We’ve all been in this situation before: you’ve been asked to build
     a new type of documentation, and a stakeholder (maybe a product manager with a
     lot of ownership, an executive, or even the CEO) has a specific idea about how
     this documentation should look, how it should be organized, what content should
-    be included, or all three! </p>\n<p>As a writer, you also know that those opinions
-    aren’t usually based on real theory or practical experience and can sometimes
-    lead to a lot of wasted time for the writing team. But what can you do when an
-    important stakeholder gives you a mandate? Often, the best strategy is to give
-    your stakeholders data and real-world examples that support your points by systematically
-    analyzing how your competitors solve the same documentation problem. </p>\n<p>This
-    talk will dive deep into how to conduct a competitive analysis to effectively
+    be included, or all three! </p>
+
+    <p>As a writer, you also know that those opinions aren’t usually based on real
+    theory or practical experience and can sometimes lead to a lot of wasted time
+    for the writing team. But what can you do when an important stakeholder gives
+    you a mandate? Often, the best strategy is to give your stakeholders data and
+    real-world examples that support your points by systematically analyzing how your
+    competitors solve the same documentation problem. </p>
+
+    <p>This talk will dive deep into how to conduct a competitive analysis to effectively
     convince stakeholders–whether you have a good idea you want to implement or you
     think that the documentation should go in a different direction than stakeholders
-    originally envisioned. You’ll learn how to:\n- Identify the best competitors to
-    analyze.\n- Call out the specific aspects of a documentation type or content strategy
-    that you want to compare. \n- Break down the work between multiple people to get
-    results quickly. \n- Systematically and efficiently review the competitors so
-    you can easily analyze the findings. \n- Tailor your findings to your specific
-    stakeholders, ensuring they walk away approving your proposal. </p>\n<p>Thorough
-    competitive analyses are worth every minute of effort you put into them, and they’re
-    simple to conduct once you understand what you’re trying to get out of them.</p>"
+    originally envisioned. You’ll learn how to:</p>
+
+    <ul>
+
+    <li>Identify the best competitors to analyze.</li>
+
+    <li>Call out the specific aspects of a documentation type or content strategy
+    that you want to compare. </li>
+
+    <li>Break down the work between multiple people to get results quickly. </li>
+
+    <li>Systematically and efficiently review the competitors so you can easily analyze
+    the findings. </li>
+
+    <li>Tailor your findings to your specific stakeholders, ensuring they walk away
+    approving your proposal. </li>
+
+    </ul>
+
+    <p>Thorough competitive analyses are worth every minute of effort you put into
+    them, and they’re simple to conduct once you understand what you’re trying to
+    get out of them.</p>'
 - title: 'Embracing the Kraken : How to build a docs-toolchain monster and why it’s
     OK'
   slug: embracing-the-kraken-how-to-build-a-docs-toolchain-monster-and-why-it-s-ok-ravind-kumar
@@ -403,30 +411,81 @@
     slug: jodie-landes
     twitter: 
     website: 
-  abstract: "<p>In the world of technical documentation, merging two established systems
+  abstract: '<p>In the world of technical documentation, merging two established systems
     is no small feat. This presentation will take the audience on a journey through
-    the ambitious unification of ForgeRock and Ping Identity's documentation ecosystems,
+    the ambitious unification of ForgeRock and Ping Identity''s documentation ecosystems,
     showcasing how a Docs as Code approach can successfully scale to meet enterprise
-    needs. </p>\n<p>The Challenge\nWhen ForgeRock and Ping Identity merged in September
-    2023, we faced a monumental task:\n - Integrate two vastly different documentation
-    systems\n - Convert 48,000 pages of DITA content to AsciiDoc\n - Build a new,
-    unified website and infrastructure with a rebranded look &amp; feel\n - Include
-    a reader feedback system \n - Implement advanced search capabilities, including
-    GenAI responses\n - Manage redirects\n - Train writers on new tools and processes\n
-    - Accomplish this project in a 10-month timeframe, driven by expiring 3rd-party
-    contracts and a vision for a unified \"One Ping\" approach</p>\n<p>Our Solution\nWe'll
-    dive into the three key areas that formed the backbone of our unification strategy:\n1.
-    Content Conversion: How we transformed DITA to AsciiDoc using custom XSLT and
-    Python scripts\n2. Infrastructure Overhaul: Building a new website with improved
-    UX, AWS configuration, and CI/CD pipelines\n3. Team Alignment: Creating a unified
-    style guide and training writers on new tools and workflows</p>\n<p>The Results\nBy
-    October 2024, we successfully launched a unified documentation platform that:\n
-    - Merged two complex documentation sets\n - Implemented enterprise search across
-    all content sources\n - Introduced a RAG-based GenAI search approach\n - Streamlined
-    the writing and review process</p>\n<p>Lessons Learned\nWe'll share insights on:\n
-    - Managing large-scale content migrations\n - Balancing technical debt with innovation\n
-    - Fostering a \"possibility mindset\" in a merged team\n - Scaling Docs as Code
-    for enterprise needs</p>"
+    needs. </p>
+
+    <p>When ForgeRock and Ping Identity merged in September 2023, we faced a monumental
+    task:</p>
+
+    <ul>
+
+    <li>Integrate two vastly different documentation systems</li>
+
+    <li>Convert 48,000 pages of DITA content to AsciiDoc</li>
+
+    <li>Build a new, unified website and infrastructure with a rebranded look &amp;
+    feel</li>
+
+    <li>Include a reader feedback system </li>
+
+    <li>Implement advanced search capabilities, including GenAI responses</li>
+
+    <li>Manage redirects</li>
+
+    <li>Train writers on new tools and processes</li>
+
+    <li>Accomplish this project in a 10-month timeframe, driven by expiring 3rd-party
+    contracts and a vision for a unified "One Ping" approach</li>
+
+    </ul>
+
+    <p>We''ll dive into the three key areas that formed the backbone of our unification
+    strategy:</p>
+
+    <ol>
+
+    <li>Content Conversion: How we transformed DITA to AsciiDoc using custom XSLT
+    and Python scripts</li>
+
+    <li>Infrastructure Overhaul: Building a new website with improved UX, AWS configuration,
+    and CI/CD pipelines</li>
+
+    <li>Team Alignment: Creating a unified style guide and training writers on new
+    tools and workflows</li>
+
+    </ol>
+
+    <p>By October 2024, we successfully launched a unified documentation platform
+    that:</p>
+
+    <ul>
+
+    <li>Merged two complex documentation sets</li>
+
+    <li>Implemented enterprise search across all content sources</li>
+
+    <li>Introduced a RAG-based GenAI search approach</li>
+
+    <li>Streamlined the writing and review process</li>
+
+    </ul>
+
+    <p>We''ll share insights on:</p>
+
+    <ul>
+
+    <li>Managing large-scale content migrations</li>
+
+    <li>Balancing technical debt with innovation</li>
+
+    <li>Fostering a "possibility mindset" in a merged team</li>
+
+    <li>Scaling Docs as Code for enterprise needs</li>
+
+    </ul>'
 - title: 'Open Docs, Open Collaboration: Building Better Documentation with Community
     PRs'
   slug: open-docs-open-collaboration-building-better-documentation-with-community-prs-colin-loretz
@@ -456,21 +515,26 @@
     organization, this talk will provide actionable insights and lessons from real-world
     experiences.</p>
 
-    <p><strong>Key Takeaways:</strong>
+    <p><strong>Key Takeaways:</strong></p>
 
-    - Why opening your documentation to community contributions can improve quality
-    and reduce update times.
+    <ul>
 
-    - Practical strategies for managing contributions at scale while maintaining consistency.
+    <li>Why opening your documentation to community contributions can improve quality
+    and reduce update times.</li>
 
-    - Tools and processes we’ve developed to review, approve, and merge community-submitted
-    PRs efficiently.
+    <li>Practical strategies for managing contributions at scale while maintaining
+    consistency.</li>
 
-    - How to build a culture of documentation ownership and collaboration within your
-    community.
+    <li>Tools and processes we’ve developed to review, approve, and merge community-submitted
+    PRs efficiently.</li>
 
-    - Lessons learned: What worked, what didn’t, and how we’re evolving our approach
-    to better serve our developers.</p>'
+    <li>How to build a culture of documentation ownership and collaboration within
+    your community.</li>
+
+    <li>Lessons learned: What worked, what didn’t, and how we’re evolving our approach
+    to better serve our developers.</li>
+
+    </ul>'
 - title: 'Scaling a unicorn: how to mature your documentation program and support
     a changing business'
   slug: scaling-a-unicorn-how-to-mature-your-documentation-program-and-support-a-changi-elise-davis
@@ -482,27 +546,44 @@
     slug: elise-davis
     twitter: 
     website: 
-  abstract: "<p>If you’re lucky, you work at an organization with enormous growth
+  abstract: '<p>If you’re lucky, you work at an organization with enormous growth
     potential and a clear upward trajectory. But how do you keep excelling at your
     job, when the company you work for is structurally and strategically different
-    from the one you joined (and it won’t stop changing)? </p>\n<p>The company I work
-    for is a marketing automation and data platform that has grown from a small, niche
-    email service provider into a successful public company with a sizable, loyal
-    customer base and a market cap of $11.77 billion dollars (at the time of writing).
-    I’ve been with the company since 2019, with numerous pivots both in business strategy
-    and documentation needs. </p>\n<p>In this talk, I’ll share how our documentation
-    team adjusted its strategies alongside a changing business. You’ll learn our approach
-    to adapting to a changing environment and how to create a team whose expertise
-    is valued across the organization and contributes to your company’s success. </p>\n<p>Our
-    journey of adapting to a growing, changing company has included: \n- Getting rid
-    of an entire category of documentation\n- Clearly delimiting the documentation
-    team’s responsibilities as the organization structure changed (e.g., video, strategic
-    content, marketing collateral, developer vs. user docs, and more) \n- Developing
-    relationships with influential figures across the org\n- Prioritizing retention,
-    so our team is full of experts who can contextualize problems, provide historical
-    context, and dive into tricky issues without unnecessary oversight \n- Creating
-    an ownership-based team culture, so every tech writer feels both responsible and
-    empowered to solve problems, try new things, and learn from mistakes. </p>\n<p>I’ll
-    share what’s worked, what hasn’t, and the tangible steps we took to evolve from
-    a scrappy, small team at a tech startup to a mature department with the respect
-    of our partners across the organization.</p>"
+    from the one you joined (and it won’t stop changing)? </p>
+
+    <p>The company I work for is a marketing automation and data platform that has
+    grown from a small, niche email service provider into a successful public company
+    with a sizable, loyal customer base and a market cap of $11.77 billion dollars
+    (at the time of writing). I’ve been with the company since 2019, with numerous
+    pivots both in business strategy and documentation needs. </p>
+
+    <p>In this talk, I’ll share how our documentation team adjusted its strategies
+    alongside a changing business. You’ll learn our approach to adapting to a changing
+    environment and how to create a team whose expertise is valued across the organization
+    and contributes to your company’s success. </p>
+
+    <p>Our journey of adapting to a growing, changing company has included: </p>
+
+    <ul>
+
+    <li>Getting rid of an entire category of documentation</li>
+
+    <li>Clearly delimiting the documentation team’s responsibilities as the organization
+    structure changed (e.g., video, strategic content, marketing collateral, developer
+    vs. user docs, and more) </li>
+
+    <li>Developing relationships with influential figures across the org</li>
+
+    <li>Prioritizing retention, so our team is full of experts who can contextualize
+    problems, provide historical context, and dive into tricky issues without unnecessary
+    oversight </li>
+
+    <li>Creating an ownership-based team culture, so every tech writer feels both
+    responsible and empowered to solve problems, try new things, and learn from mistakes.
+    </li>
+
+    </ul>
+
+    <p>I’ll share what’s worked, what hasn’t, and the tangible steps we took to evolve
+    from a scrappy, small team at a tech startup to a mature department with the respect
+    of our partners across the organization.</p>'
