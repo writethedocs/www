@@ -16,7 +16,7 @@ Our volunteer application is open! We are looking for volunteers to provide supp
 
 Each individual who volunteers for two or more 3-4 hour shifts receives a free ticket to the conference. Applications are open until early March, or when we have reached capacity. 
 
-Sign up today! Check out the [volunteer page](https://writethedocs.org/conf/portland/2024/volunteer/) and [volunteer application form](https://docs.google.com/forms/d/e/1FAIpQLSfvU7kB_miEAPmHKiIynJ1fh7zsUEpgM2Xsya6Bm20olo3mYw/viewform?usp=sf_link) for more information
+Sign up today! Check out the [volunteer page](https://www.writethedocs.org/conf/portland/2024/volunteer/) and [volunteer application form](https://docs.google.com/forms/d/e/1FAIpQLSfvU7kB_miEAPmHKiIynJ1fh7zsUEpgM2Xsya6Bm20olo3mYw/viewform?usp=sf_link) for more information
 
 ## Hotel Discounts
 

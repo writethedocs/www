@@ -53,8 +53,8 @@ Subject:
    * Remember that one of the biggest strengths of the Write the Docs community is that we come from a huge variety of professional and personal backgrounds.
      When you're writing your talk (just like when you're writing documentation), think about the diverse needs and interests of your audience, avoid (or define) any jargon-y language, and make sure you clearly express what people are going to learn from your talk.
    * Remember this is a community conference. If you're representing your employer it's okay to mention that, but please don't treat your talk as a marketing opportunity.
-   * Make sure you plan your talk to fit in the allotted time: 30 mins for the the talk itself. There will be Q&A after the 30 mins.
-   * Please review our Code of Conduct (http://writethedocs.org/code-of-conduct/) and make sure your talk content adheres to it. As a rule of thumb, if you're on the fence about whether something in your talk could be considered inappropriate or offensive, leave it out. If you have a question about the code, feel free to email us and ask!
+   * Make sure you plan your talk to fit in the allotted time. 30 mins for the the talk itself.There will be Q&A after the 30 mins.
+   * Please review our Code of Conduct (https://www.writethedocs.org/code-of-conduct/) and make sure your talk content adheres to it. As a rule of thumb, if you're on the fence about whether something in your talk could be considered inappropriate or offensive, leave it out. If you have a question about the code, feel free to email us and ask!
 
    If you're concerned about travel expenses, let us know. We do have a budget for speaker expenses, but it can't cover all our speakers.
 
