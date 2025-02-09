@@ -47,7 +47,7 @@ Learn from our resources
 
 We have an ever-increasing set of talk videos, articles, links, and resources:
 
-* Subscribe to one of :doc:`newsletter and conference </newsletter>` mailing lists
+* Subscribe to our :doc:`newsletter and conference </newsletter>` mailing lists
 * Browse our :doc:`topic index </topics>`
 * Read the latest in our :doc:`blog </blog/index>`
 * Learn about :doc:`Write the Docs <about/about-the-org>`
