@@ -113,7 +113,12 @@ for result in results:
             event_date = datetime.fromisoformat(event['date'])
         except:
             # If a problem with time zone, just ignore it
-            event_date = datetime.strptime(event['date'].rsplit(' ',1)[0], '%a, %b %d, %Y, %I:%M %p')
+            # If date in UTC time
+            if re.match(r".*Z$", event['date']):
+                event_date = datetime.strptime(event['date'], '%Y-%m-%dT%H:%M:%S%z')
+            # Otherwise, try other format
+            else:
+                event_date = datetime.strptime(event['date'].rsplit(' ',1)[0], '%a, %b %d, %Y, %I:%M %p')
         if (event_date - current_datetime).days <= days_within:
             event['date'] = event_date
             upcoming_events.append(event)

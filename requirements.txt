@@ -32,4 +32,4 @@ Werkzeug==0.16.1 # pyup: <1.0
 # For fancy 404 pages
 sphinx-notfound-page==0.8
 # For fancy twitter previews
-sphinxext-opengraph==0.8.1
+sphinxext-opengraph==0.9.1
