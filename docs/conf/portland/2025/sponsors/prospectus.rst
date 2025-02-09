@@ -2,6 +2,9 @@
 :og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 :banner: _static/conf/images/headers/2025/sponsors.jpg
 
+.. role:: strike
+    :class: strike
+
 Sponsorship Prospectus
 ######################
 
@@ -71,7 +74,7 @@ All packages can be customized, so let us know what you need!
 Keystone
 --------
 
-**{{sponsorship.keystone.price}}** - **Limit 1**
+**{{sponsorship.keystone.price}}** - :strike:`Limit 1` (Sold out)
 
 The **Keystone** sponsorship highlights you as the primary sponsor of the conference. You get all in-person benefits, and the best placement for all physical spaces.
 
@@ -152,7 +155,7 @@ combined with one of the previous packages to increase visibility at the event.
 Lightning Talks
 ---------------
 
-**$3,500** - **Limit 2**
+**$3,500** - :strike:`Limit 2` (Sold out)
 
 Sponsor one day of Lightning Talks, where attendees have 5 minutes to share something they are excited about working on. You will have 60 seconds at the start to introduce your company.
 
