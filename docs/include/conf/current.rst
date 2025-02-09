@@ -4,6 +4,8 @@
 - :doc:`Write the Docs Portland 2025 </conf/portland/2025/index>`, May 4-6, 2025, **Portland, Oregon, United States**
 - :doc:`Write the Docs Kenya 2025 </conf/kenya/2025/index>`, June 7, 2025, **Nairobi, Kenya**
 
+We're working on finalizing the details for our other conferences for 2025.
+
 2024 Conferences
 ----------------
 
