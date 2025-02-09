@@ -1,31 +1,28 @@
 :template: {{year}}/generic.html
 :og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
-.. post:: Feb 7, 2025
+.. post:: Feb 10, 2025
    :tags: {{shortcode}}-{{year}}, speakers, tickets, visiting, sponsors
 
-Announcing Portland conference speakers
-=======================================
+Announcing {{city}} {{year}} conference speakers
+================================================
 
-Our Portland conference is almost 3 months away, and we're super excited to see you all there.
-Now is the perfect time to buy your tickets and arrange your travel.
+Our {{year}} {{city}} conference is three months away, and we can't wait to see you all there! Now is the ideal time to buy your tickets and make your travel plans.
 
-Today's news is the list of awesome speakers and their talks.
-A huge thank you to everyone who submitted a proposal;
-our event wouldn't be possible without you!
+The big news today—our speaker lineup is here! Check out the list of speakers and their talks below.
 
-{{year}} {{city}} conference speakers
-----------------------------------------
+`Buy your ticket today! <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`__
 
-Every year we bring a diverse array of voices to our stage. As the role of "documentarian" varies greatly among us, we aim for topics that cover a broad spectrum of practical, philosophical, and technical ideas, and a sprinkle of whimsical ones for good measure.
+{{year}} {{city}} speakers
+----------------------------------
 
-We're excited about the `talks <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/>`_ we've got lined up for this year:
+We're excited to anounce the `lineup of speakers and talks <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/>`__ for {{city}}'s {{year}} conference! A huge thank you to everyone who submitted a proposal—this conference wouldn’t be possible without your contributions.
+
+Each year, we curate a diverse range of voices to share insights from our community. As the role of “documentarian” varies greatly among us, we aim for topics that cover practical, philosophical, and technical ideas, with a touch of whimsy for good measure:
 
 .. datatemplate::
   :source: /_data/{{shortcode}}-{{year}}-sessions.yaml
   :template: {{year}}/speakers-simple-list.rst
-
-We think that there's something for everyone to appreciate, and also something that will expand your perspectives.
 
 Secure your tickets soon
 ------------------------
@@ -35,8 +32,18 @@ Please ensure to arrange your travel only after buying a conference ticket.
 If you need additional information, we have a few resources to help you:
 
 * Visit our `Convince Your Manager page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/convince-your-manager/>`_ for assistance in making the case for attendance.
-* Purchase your tickets on our `Tickets page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_.
-* Plan your journey with our `Visiting Portland page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>`_.
+* Purchase your tickets on our `Tickets page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_.
+* Plan your journey with our `Visiting {{city}} page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>`_.
+
+
+Planning Your Trip
+-------------------
+
+Now is a wonderful time to begin making plans to attend. View the resources below for how to speak with your employer and visit our {{city}} page for information on hotel, food, and more!
+
+- `Convince Your Manager <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/convince-your-manager/>`__
+- `Visiting {{city}} <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>`__
+- `Purchase Your Tickets <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`__
 
 Thanks again to our sponsors
 ----------------------------
@@ -51,6 +58,4 @@ A big thank you to each of these companies for supporting our community:
 If your company is interested in sponsoring,
 you can find all the necessary information in our `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_.
 
-That's the latest update on the Portland conference.
-We hope you're all as eager as we are!
-Stay tuned for the complete schedule and further details in the upcoming weeks.
+We look forward to seeing you in {{city}}!
