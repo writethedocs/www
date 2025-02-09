@@ -21,9 +21,9 @@ Every year we bring a diverse array of voices to our stage. As the role of "docu
 
 We're excited about the `talks <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/>`_ we've got lined up for this year:
 
-.. .. datatemplate::
-..   :source: /_data/{{shortcode}}-{{year}}-sessions.yaml
-..   :template: {{year}}/speakers-simple-list.rst
+.. datatemplate::
+  :source: /_data/{{shortcode}}-{{year}}-sessions.yaml
+  :template: {{year}}/speakers-simple-list.rst
 
 We think that there's something for everyone to appreciate, and also something that will expand your perspectives.
 
