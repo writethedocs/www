@@ -222,11 +222,11 @@ sponsors:
     - name: redocly-new
       link: https://redoc.ly/?ref=writethedocs
       brand: Redocly
-    - name: jetbrains-svg
-      link: https://jebrains.com/writethedocs
-      brand: JetBrains
-      text: "JetBrains is a software development company known for best-of-class integrated development environments (IDEs) like IntelliJ IDEA, PyCharm, and WebStorm. With Writerside, JetBrains brings its expertise to technical writing."
-      width: 7em
+    # - name: jetbrains-svg
+    #   link: https://jebrains.com/writethedocs
+    #   brand: JetBrains
+    #   text: "JetBrains is a software development company known for best-of-class integrated development environments (IDEs) like IntelliJ IDEA, PyCharm, and WebStorm. With Writerside, JetBrains brings its expertise to technical writing."
+      # width: 7em
     - name: hyperlint
       link: https://hyperlint.com/?ref=writethedocs
       brand: Hyperlint
