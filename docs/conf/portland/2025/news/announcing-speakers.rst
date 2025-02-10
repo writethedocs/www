@@ -26,7 +26,7 @@ The big news today—our speaker lineup is here! Check out the list of speakers 
 {{city}} {{year}} speakers
 ----------------------------------
 
-We're excited to announce the `lineup of speakers and talks <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/>`__ for {{city}}'s {{year}} conference! A huge thank you to everyone who submitted a proposal—this conference wouldn’t be possible without your contributions.
+We're excited to announce the `lineup of speakers and talks <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/>`__ for our {{city}} {{year}} conference! A huge thank you to everyone who submitted a proposal—this conference wouldn’t be possible without your contributions.
 
 Each year, we curate a diverse range of voices to share insights from our community. As the role of “documentarian” varies greatly among us, we aim for topics that cover practical, philosophical, and technical ideas, with a touch of whimsy for good measure:
 
