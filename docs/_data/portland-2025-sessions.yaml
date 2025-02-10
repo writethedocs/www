@@ -283,8 +283,8 @@
   series_slug: portland
   year: 2025
   speakers:
-  - name: Janine
-    slug: janine
+  - name: Janine Chan
+    slug: janine-chan
     twitter:
     website:
   abstract: "<p>As someone with a completely non-technical background (an English
@@ -362,7 +362,7 @@
     <p>Thorough competitive analyses are worth every minute of effort you put into
     them, and they’re simple to conduct once you understand what you’re trying to
     get out of them.</p>'
-- title: 'Embracing the Kraken : How to build a docs-toolchain monster and why it’s
+- title: 'Embracing the Kraken: How to build a docs-toolchain monster and why it’s
     OK'
   slug: embracing-the-kraken-how-to-build-a-docs-toolchain-monster-and-why-it-s-ok-ravind-kumar
   series: Write the Docs Portland
