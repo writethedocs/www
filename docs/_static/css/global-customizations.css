@@ -265,3 +265,24 @@ div.body {
     margin-right: 20px;
   }
 }
+
+.announcement-banner {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.announcement-banner-wrapper {
+    padding: 0 0 12px 0;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.announcement-banner a {
+    color: #fff;
+    text-decoration: underline;
+}
