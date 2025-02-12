@@ -18,8 +18,6 @@ We have two categories for people who submit talks:
 We do this so we have a mix of first time and experienced speakers.
 We also want first-time speakers to know that we care about them having a chance to get on stage.
 
-**You can sign up for lightning talks each day of the conference** `on our Google Form <https://forms.gle/ULLEXmkXHymanNEP9>`_.
-
 Planning: What goes into a lightning talk?
 ------------------------------------------
 
@@ -31,6 +29,8 @@ First, you need a **topic**. Your topic might be:
 - An idea for a website or product that would solve a problem you have
 - A retrospective, or what went right/wrong during a project you did or are doing
 - Anything relevant that the audience might be interested in knowing more about
+
+**Stuck for an idea?** Check out `Tales from the Trenches`_, a session for lightning talks focussed around three different topics. 
 
 Next, you need an **outline** for the content. Think about the **audience**, and the **goal** of your talk. Choose points to make that will be understandable by the audience and achieve your presentation goal. Remember how quickly five minutes goes by when choosing what to include!
 
@@ -80,3 +80,5 @@ License
 Thanks to the lovely Portland Python Users Group for use of this content.
 
 Lightning Talks: A Guide for Beginners by Michelle Rowley of PDX Python is licensed under a `Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License <http://creativecommons.org/licenses/by-nc-sa/4.0/>`__.
+
+.. _Tales from the Trenches: https://www.writethedocs.org/conf/australia/2024/tales/

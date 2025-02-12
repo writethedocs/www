@@ -5,7 +5,9 @@
         <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/schedule') }}">Program</a>
         <div class="uk-navbar-dropdown">
           <ul class="uk-nav uk-navbar-dropdown-nav">
+          {% if flaghasschedule %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/schedule') }}">Schedule</a></li>
+          {% endif %}
             {% if flagspeakersannounced %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/speakers') }}">Speakers</a></li>
             {% endif %}
@@ -17,9 +19,6 @@
             {% endif %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/lightning-talks') }}">Lightning Talks</a></li>
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/unconference') }}">Unconference</a></li>
-            {% if not flagisvirtual %}
-              <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsor-expo') }}">Sponsor Expo</a></li>
-            {% endif %}
             {% if flaghashike %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/hike') }}">Hike</a></li>
             {% endif %}
@@ -57,18 +56,22 @@
   <li>
     <ul class="uk-navbar-nav">
       <li>
-        <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/') }}"">About</a>
+        <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/about') }}"">About</a>
         <div class="uk-navbar-dropdown">
           <ul class="uk-nav uk-navbar-dropdown-nav">
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/venue') }}">Venue</a></li>
             {% if not flagisvirtual %}
                 <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/visiting') }}">Visiting {{ city }}</a></li>
+            {% if flagspeakersannounced %}
                 <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/attendee-guide') }}">Attendee Guide</a></li>
+            {% endif %}
                 <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/health') }}">Health and Safety Policy</a></li>
                 <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/volunteer') }}">Volunteer Info</a></li>
             {% endif %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/code-of-conduct') }}">Code of Conduct</a></li>
+            {% if flagspeakersannounced %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/team') }}">Meet the Team</a></li>
+            {% endif %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/contact') }}">Contact us</a></li>
             {% if flaghasbadgeflair %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/badge-flair') }}">Badge Flair Contest</a></li>
@@ -93,10 +96,16 @@
     </ul>
   </li><!--- Parent element with it's children -->
 
-  <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/news') }}">News</a></li>
+  <li>
+    <ul class="uk-navbar-nav">
+      <li>
+        <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/news') }}">News</a>
+      </li>
+    </ul>
+  </li>
 
   {% if flagcfp %}
   <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
   {% endif %}
-  
+
 </ul>

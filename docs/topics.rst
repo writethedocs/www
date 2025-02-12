@@ -43,6 +43,7 @@ Specific writing questions
 
 One word vs another, using abbreviations, etc.
 
+- |:newspaper:| `Emoji in documentation: :yes-please: or :yuk:? </blog/newsletter-november-2024/#emoji-in-documentation-yes-please-or-yuk>`__
 - |:newspaper:| `Hyperlink Text </blog/newsletter-october-2023/#hyperlink-text>`__
 - |:newspaper:| `Numbering Section Headings </blog/newsletter-september-2023/#numbering-section-headings>`__
 - |:newspaper:| `Gerunds in headings </blog/newsletter-october-2022/#gerunds-in-headings>`__
@@ -82,6 +83,7 @@ Code samples
 Formatting
 ~~~~~~~~~~
 
+- |:newspaper:| `Using callouts/admonitions in tech docs </blog/newsletter-october-2024/#using-callouts-admonitions-in-tech-docs>`__
 - |:newspaper:| `What to do about text wrapping </blog/newsletter-july-2019/#what-to-do-about-text-wrapping>`__
 - |:newspaper:| `Number formatting in data tables </blog/newsletter-april-2018/#number-formatting-in-data-tables>`__
 - |:newspaper:| `Formatting and updating images and screenshots </blog/newsletter-november-2017/#worth-it-images-screenshots>`__
@@ -140,6 +142,7 @@ Task-based writing
 API docs
 ~~~~~~~~
 
+- |:newspaper:| `Should APIs be documented with code? </blog/newsletter-october-2024/#should-apis-be-documented-with-code>`__
 - |:newspaper:| `API design with docs in mind </blog/newsletter-september-2024/#api-design-with-docs-in-mind>`__
 - |:movie_camera:| `Shuffle ball change: Sashay your way to clearer API documentation </videos/portland/2021/shuffle-ball-change-sashay-your-way-to-clearer-api-documentation-rachael-stavchansky/>`__
 - |:movie_camera:| `Write the API docs before the API exists </videos/prague/2019/write-the-api-docs-before-the-api-exists-ben-ahmady/>`__
@@ -178,6 +181,7 @@ Other specific doc types
 
 Including how-tos, reference docs, tutorials, and books.
 
+- |:newspaper:| `Tips for improving code documentation </blog/newsletter-february-2025/#tips-for-improving-code-documentation>`__
 - |:newspaper:| `Documenting YAML Files </blog/newsletter-july-2023/#documenting-yaml-files>`__
 - |:newspaper:| `Code samples: Comments and placeholder text </blog/newsletter-june-2023/#code-samples-comments-and-placeholder-text>`__
 - |:newspaper:| `Templates for concept documentation </blog/newsletter-may-2022/#templates-for-concept-documentation>`__
@@ -271,6 +275,7 @@ Maintenance
 Jobs and careers
 ----------------
 
+- |:newspaper:| `Working as a contractor or freelancer </blog/newsletter-october-2024/#working-as-a-contractor-or-freelancer>`__
 - |:newspaper:| `Should Technical Communication Be Its Own Department? </blog/newsletter-may-2024/#should-technical-communication-be-its-own-department>`__
 - |:newspaper:| `What to do after surviving layoffs </blog/newsletter-may-2023/#what-to-do-after-surviving-layoffs>`__
 - |:newspaper:| `Knowledge transfer for documentarians </blog/newsletter-november-2022/#knowledge-transfer-for-documentarians>`__
@@ -295,6 +300,7 @@ Hiring
 Getting hired
 ~~~~~~~~~~~~~
 
+- |:newspaper:| `Are tool experience requirements a myth? </blog/newsletter-november-2024/#are-tool-experience-requirements-a-myth>`__
 - |:newspaper:| `Handling employment gaps </blog/newsletter-september-2024/#handling-employment-gaps>`__
 - |:newspaper:| `Setting Up for Success as a Neurodivergent Person </blog/newsletter-july-2023/#setting-up-for-success-as-a-neurodivergent-person>`__
 - |:newspaper:| `Extreme take-home tests </blog/newsletter-june-2023/#extreme-take-home-tests>`__
@@ -330,6 +336,7 @@ Related roles
 Career growth
 ~~~~~~~~~~~~~
 
+- |:newspaper:| `The highs and lows of writing alone </blog/newsletter-february-2025/#the-highs-and-lows-of-writing-alone>`__
 - |:newspaper:| `Dealing with Feeling Blocked by Bureaucracy </blog/newsletter-march-2024/#dealing-with-feeling-blocked-by-bureaucracy>`__
 - |:newspaper:| `How to describe career progression </blog/newsletter-may-2023/#how-to-describe-career-progression>`__
 - |:newspaper:| `Loneliness of the “Lone-ly” Documentarian </blog/newsletter-march-2023/#loneliness-of-the-lone-ly-documentarian>`__
@@ -513,6 +520,7 @@ Doc tools
 Docs-as-code
 ~~~~~~~~~~~~
 
+- |:newspaper:| `Dealing with images and other assets in docs-as-code </blog/newsletter-november-2024/#dealing-with-images-and-other-assets-in-docs-as-code>`__
 - |:newspaper:| `Is Docs-as-Code Worth It? </blog/newsletter-may-2024/#is-docs-as-code-worth-it>`__
 - |:newspaper:| `Drafting Docs with Code Changes </blog/newsletter-april-2024/#drafting-docs-with-code-changes>`__
 - |:newspaper:| `Docs with Code Or Just as Code? </blog/newsletter-october-2023/#docs-with-code-or-just-as-code>`__
@@ -545,6 +553,7 @@ DITA
 AI and LLMs
 ~~~~~~~~~~~
 
+- |:newspaper:| `Writing AI-friendly *and* human-readable documentation </blog/newsletter-february-2025/#writing-ai-friendly-and-human-readable-documentation>`__
 - |:newspaper:| `Accelerating Documentation Creation with AI </blog/newsletter-april-2024/#accelerating-documentation-creation-with-ai>`__
 - |:newspaper:| `Iterative Writing with a Chatbot </blog/newsletter-march-2024/#iterative-writing-with-a-chatbot>`__
 - |:newspaper:| `Structured Authoring and Large Language Models (LLMs) </blog/newsletter-february-2024/#structured-authoring-and-large-language-models-llms>`__
@@ -605,6 +614,7 @@ User feedback
 
 Gathering it and acting on it.
 
+- |:newspaper:| `Managing mountains of feedback </blog/newsletter-october-2024/#managing-mountains-of-feedback>`__
 - |:newspaper:| `Collecting helpful user feedback </blog/newsletter-september-2022/#collecting-helpful-user-feedback>`__
 - |:movie_camera:| `Customer Feedback is the Fuel in our Engine </videos/prague/2021/customer-feedback-is-the-fuel-in-our-engine-kevin-hwang/>`__
 - |:newspaper:| `Gathering documentation feedback </blog/newsletter-july-2020/#gathering-documentation-feedback>`__
@@ -757,6 +767,7 @@ Working with other roles
 
 Including product managers, higher-ups, etc.
 
+- |:newspaper:| `How to make your work as a documentarian shine: Beyond "just writing docs" </blog/newsletter-february-2025/#how-to-make-your-work-as-a-documentarian-shine-beyond-just-writing-docs>`__
 - |:newspaper:| `Dealing with difficult-to-understand drafts </blog/newsletter-september-2024/#dealing-with-difficult-to-understand-drafts>`__
 - |:newspaper:| `Helpful Questions for Gathering Information </blog/newsletter-december-2023/#helpful-questions-for-gathering-information>`__
 - |:newspaper:| `Getting Info from Others </blog/newsletter-july-2023/#getting-info-from-others>`__

@@ -45,6 +45,20 @@ if os.name == 'nt':
 
 sys.path.append(os.getcwd())  # noqa
 
+
+# Updates for RTD changes
+# https://about.readthedocs.com/blog/2024/07/addons-by-default/
+
+# Define the canonical URL if you are using a custom domain on Read the Docs
+html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "https://www.writethedocs.org")
+
+# Tell Jinja2 templates the build is running on Read the Docs
+if os.environ.get("READTHEDOCS", "") == "True":
+    if "html_context" not in globals():
+        html_context = {}
+    html_context["READTHEDOCS"] = True
+
+
 from _ext.core import (
     render_rst_with_jinja, override_template_load_context, set_html_context, unset_html_context
 )
@@ -60,8 +74,6 @@ exclude_patterns = [
     'node_modules',
     'videos/prague/2018/tackling-technical-debt-in-the-docs-louise-fahey.rst',
 ]
-
-html4_writer = True
 
 # We use these *local* environment variables for private info like free ticket links
 
@@ -122,7 +134,8 @@ blog_authors = {
 blog_default_author = 'Team'
 blog_feed_archives = True
 blog_feed_fulltext = True
-blog_feed_length = 10
+# Only show 1 blog so we don't overload Mailchimp
+blog_feed_length = 1
 blog_locations = {
     'PDX': ('Portland, Oregon', 'http://www.portlandhikersfieldguide.org/'),
 }
@@ -190,7 +203,7 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
-suppress_warnings = ['image.nonlocal_uri']
+suppress_warnings = ['image.nonlocal_uri', 'myst.header']
 
 # Our additions
 

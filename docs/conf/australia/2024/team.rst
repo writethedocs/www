@@ -40,6 +40,16 @@ Shiham Jamaldeen
 
 {% include "bios/shiham.rst" %}
 
+Shubhangi Verma
+~~~~~~~~~~~~~~~~
+
+{% include "bios/shubhangi.rst" %}
+
+Simar Singh
+~~~~~~~~~~~~
+
+{% include "bios/simar.rst" %}
+
 
 Primary Roles
 -------------
@@ -54,7 +64,7 @@ You can read descriptions of all the roles in our :doc:`/organizer-guide/confs/e
 * **Communication chair** - Swapnil Ogale
 * **Volunteer coordinator** - TBA
 * **Sponsorship** - Swapnil Ogale
-* **Unconference coordinator** - TBA
+* **Unconference coordinator** - Jennifer Appleby
 * **Emcee** - Jared Morgan
 * **Welcome Wagon coordinators** - Shiham Jamaldeen and Shubhangi Verma
 * **Social media chair** - TBA

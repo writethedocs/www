@@ -113,47 +113,46 @@ Home - Write the Docs {{ name }} {{ year }}
     <div class="uk-container">
 
       <div class="about-content">
-        <h2>What is Write the Docs?</h2>
+      <h2>What is Write the Docs?</h2>
+      <p>
+      Write the Docs is a global community of people who care
+      about documentation: Programmers, Tech Writers,
+      Customer Support, Designers, Project Managers,
+      Developer Advocates, and anyone else who wants people
+      to have a great experience with software. 
+      </p>
+      <p>
+      Created in 2013 in Portland, Oregon, WTD has hosted
+      conferences around the world in Prague, Sydney,
+      Amsterdam, London, and Melbourne.
+      </p>
+      <p>
+      We invite you to our {{ name }} conference to join {{ about.attendees }}
+      other attendees to explore the art and science of
+      documentation!
+
+      {% if flagticketsonsale %}
+        <strong><a href="/conf/{{shortcode}}/{{year}}/tickets/">Tickets</a> are on sale now</strong>.
+      {% endif %}
+      </p>
+
+      {% if flagcfp %}
         <p>
-        Write the Docs is a global community of people who care
-        about documentation: Programmers, Tech Writers,
-        Customer Support, Designers, Project Managers,
-        Developer Advocates, and anyone else who wants people
-        to have a great experience with software. 
+        Interested in being a speaker? We’re accepting
+        <a href="/conf/{{shortcode}}/{{year}}/cfp/">Call for Proposals</a> until {{ cfp.ends }}.
         </p>
-        <p>
-        Created in 2013 in Portland, Oregon, WTD has hosted
-        conferences around the world in Prague, Sydney,
-        Amsterdam, London, and Melbourne.
-        </p>
-        <p>
-        We invite you to our {{ name }} conference to join {{ about.attendees }}
-        other attendees to explore the art and science of
-        documentation!
-        {% if flagticketsonsale %}
-          <strong><a href="/conf/{{shortcode}}/{{year}}/tickets/">Tickets</a> are on sale now</strong>.
-        {% endif %}
-        </p>
-        {% if flagcfp %}
-          <p>
-          Interested in being a speaker? We’re accepting
-          <a href="/conf/{{shortcode}}/{{year}}/cfp/">Call for Proposals</a> until {{ cfp.ends }}.
-          </p>
-        {% endif %}
+      {% endif %}
 
       </div>
 
-      <div class="picture-set">
-        <div data-aos="pictrue-03" data-aos-once="true">
-        <img src="{{ pathto('_static/conf/images/pics/pictrue-03.jpg', 1)  }}" alt="" >
-        </div>
-        <div data-aos="pictrue-02" data-aos-once="true">
-        <img src="{{ pathto('_static/conf/images/pics/pictrue-02.jpg', 1)  }}" alt="" >
-        </div>
-        <div data-aos="pictrue-01" data-aos-once="true">
-        <img src="{{ pathto('_static/conf/images/pics/pictrue-01.jpg', 1)  }}" alt="" >
-        </div>
+     <div class="picture-set" style="max-width: 45%; padding: 5px;">
+      <span style="padding: 5px; display: flex; align-items: center; justify-content: center; height: 100%;">
+        {% if photos.index is defined %}
+        <img src="{{ pathto(photos.index[1], 1) }}" alt="Group photo" style="padding: 25px;">
+        {% endif %}
+        </span>
       </div>
+
     </div>
   </div><!-- end about -->
 
@@ -193,7 +192,7 @@ Home - Write the Docs {{ name }} {{ year }}
       <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/conversation' + '-' + color +  '.svg', 1) }}" alt="" >
       <h3>Unconference</h3>
       <em>{{ date.conference.date }}</em> 
-      <p>Share ideas, solve problems and participate in discussions. Anyone can suggest, lead and attend an <a href="/conf/{{shortcode}}/{{year}}/unconference/">Unconference</a>.</p>
+      <p>Share ideas, solve problems and participate in discussions. Anyone can suggest, lead and attend an Unconference.</p>
     </div>
 
     {% endif %}
@@ -205,7 +204,7 @@ Home - Write the Docs {{ name }} {{ year }}
       <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/lightning' + '-' + color +  '.svg', 1) }}"" alt="" >
       <h3>Lightning Talks</h3>
       <em>{{ date.conference.date }} </em>
-      <p>A <a href="/conf/{{shortcode}}/{{year}}/lightning-talks/">Lightning Talk</a> is a short talk where you share an idea or concept. Great for first time speakers, sign ups occur on-site.</p>
+      <p>A Lightning Talk is a short talk where you share an idea or concept. Great for first time speakers, sign ups happen on-site.</p>
     </div>
 
     {% endif %}
@@ -215,9 +214,9 @@ Home - Write the Docs {{ name }} {{ year }}
 
     <div class="schedule-item uk-width-1-{{ 1 + date.total_talk_days }}@s">
       <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/sponsor-expo' + '-' + color +  '.svg', 1) }}"" alt="" >
-      <h3>Sponsor Booths</h3>
+      <h3>Sponsor Expo</h3>
       <em>{{ date.conference.date }}</em>
-      <p>Engage with our <a href="/conf/{{shortcode}}/{{year}}/sponsors/">Sponsors</a>, discuss job opportunities and interact with new products.</p>  
+      <p>Engage with our sponsors, discuss job opportunities and interact with new products.</p>  
     </div>
 
     {% endif %}
@@ -237,6 +236,15 @@ Home - Write the Docs {{ name }} {{ year }}
   <div class="about" id="about">
     <div class="uk-container">
 
+     <div class="picture-set" style="max-width: 45%; padding: 5px;">
+      <span style="padding: 5px; display: flex; align-items: center; justify-content: center; height: 100%;">
+        {% if photos.index is defined %}
+        <img src="{{ pathto(photos.index[0], 1) }}" alt="Group photo" style="padding: 25px;">
+        {% endif %}
+        </span>
+      </div>
+
+
       <div class="about-content">
         <h2>Past attendees have said</h2>
 
@@ -249,18 +257,6 @@ Home - Write the Docs {{ name }} {{ year }}
         By attending Write The Docs, I met so many documentation professionals, discovered new opportunities, and learned how to address problems I had yet to face before I faced them. It's clear how much the organizers care about running a thoughtful, inclusive conference, and they do so successfully -- I look forward to it every year.
         </p>
         <p class="testimonial-author">- <a href="https://heyawhite.com/about/">Alexandra White, Senior Tech Writer at Google</a></p>
-      </div>
-
-     <div class="picture-set">
-        <div data-aos="pictrue-03" data-aos-once="true">
-        <img src="{{ pathto('_static/conf/images/pics/pictrue-03.jpg', 1)  }}" alt="" >
-        </div>
-        <div data-aos="pictrue-02" data-aos-once="true">
-        <img src="{{ pathto('_static/conf/images/pics/pictrue-02.jpg', 1)  }}" alt="" >
-        </div>
-        <div data-aos="pictrue-01" data-aos-once="true">
-        <img src="{{ pathto('_static/conf/images/pics/pictrue-01.jpg', 1)  }}" alt="" >
-        </div>
       </div>
 
     </div>

@@ -46,7 +46,7 @@
     {% if include_text %}
     <div class="uk-width-1-1@s" id="{{ sponsor.name }}">
       {% else %}
-    <div class="uk-width-1-2@s" id="{{ sponsor.name }}">
+    <div class="uk-width-1-1@s" id="{{ sponsor.name }}">
     {% endif %}
       <a href="{{ sponsor.link }}">
         <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("300px", true) }}; min-width: {{ sponsor.min_width|default("200px", true) }};" />

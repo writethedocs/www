@@ -33,25 +33,25 @@ buttons:
     #  link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
-    - text: See the talks!
-      link: /speakers
-    - text: See the Schedule!
-      link: /schedule
+#    - text: See the talks!
+#      link: /speakers
+#    - text: See the Schedule!
+#      link: /schedule
     # - text: Watch the Live Stream
     #   link: /livestream
-    # - text: See the sketchnotes
-    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157720128594755
-    #- text: Watch the videos!
-    #  link_absolute: https://youtube.com/playlist?list=PLZAeFn6dfHplddJfvbke1bpUzZGozb2Yj&si=AOwsHHgwGEXqbUm0
+    - text: Read the recap
+      link_absolute: https://www.writethedocs.org/conf/atlantic/2024/news/thank-you-recap/
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpn8IckCiREggN0f9oWEMomW
   bottom:
     # - text: Welcome to our conference
     #   link: /news/welcome
-    - text: See the Schedule!
-      link: /schedule
+#    - text: See the Schedule!
+#      link: /schedule
     # - text: Sponsor the conference
     #   link: /sponsors/prospectus
-    - text: See the talks!
-      link: /speakers
+#    - text: See the talks!
+#      link: /speakers
     # - text: Buy a Ticket!
     #   link: /tickets
     # - text: Prepare with the Welcome Wagon
@@ -60,10 +60,10 @@ buttons:
     #   link: /schedule
     # - text: Watch the Live Stream
     #   link: /livestream
-    # - text: Browse the photos
-    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
-    #- text: Watch the videos!
-    #  link_absolute: https://youtube.com/playlist?list=PLZAeFn6dfHplddJfvbke1bpUzZGozb2Yj&si=AOwsHHgwGEXqbUm0
+    - text: Read the recap
+      link_absolute: https://www.writethedocs.org/conf/atlantic/2024/news/thank-you-recap/
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpn8IckCiREggN0f9oWEMomW
 
 tickets:
   concierge:
@@ -193,9 +193,9 @@ flagspeakersannounced: True
 flagrunofshow: False
 flaghasschedule: True
 flaghasshirts: False
-flagvideos: False
+flagvideos: True
 flaglivestreaming: False
-flagpostconf: False
+flagpostconf: True
 
 # Truthy things that don't change
 flaghashike: False

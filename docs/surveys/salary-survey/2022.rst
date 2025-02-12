@@ -788,7 +788,7 @@ Combining the "current" work location for respondents affected by COVID-19 with 
 .. figure:: images/2022/2022-work-location-overall.svg
    :class: hide
 
-Just over half of respondents reported feeling "very positive" about their work location, and another 31.4% felt "positive". 13.7% were "neutral", and 3.2% reported negative feelings. Only 0.8% of all repondents - 4 individuals - reported "very negative" feelings. 
+Just over half of respondents reported feeling "very positive" about their work location, and another 31.4% felt "positive". 13.7% were "neutral", and 3.2% reported negative feelings. Only 0.8% of all respondents - 4 individuals - reported "very negative" feelings.
 
 .. table:: Feelings about work location - overall (2022)
    :width: 100%

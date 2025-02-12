@@ -43,6 +43,9 @@ body h1 {
     font-family: $secondary-font-family;
 }
 
+body .page-content ul ul {
+    padding: 0;
+}
 body .page-content ul {
     list-style: none;
     padding: 0 0 20px 0;
@@ -57,6 +60,10 @@ body .page-content ul {
             content: "•  ";
             color: $main-color;
             padding-right: 10px;
+        }
+
+        p {
+            display: inline;
         }
     }
 }
@@ -1365,4 +1372,20 @@ pre {
 
 .hero #offcanvas-nav.uk-open ul li {
     display:block;
+}
+
+
+figure {
+    text-align: center; /* Center align the entire figure (including image and caption) */
+}
+
+figure figcaption {
+    margin-top: 10px; /* Add spacing between the image and the caption */
+}
+
+figure .caption-text {
+    display: block; /* Ensures the text behaves like a block element */
+    text-align: center; /* Centers the caption text */
+    font-size: 1rem; /* Optional: Adjust font size if needed */
+    color: #333; /* Optional: Customize text color */
 }

@@ -2,11 +2,11 @@
 
 This is the code that powers [www.writethedocs.org](http://www.writethedocs.org). It contains information about the Write the Docs group, as well as information about writing documentation.
 
-To contribute to the Write the Docs website, it's helpful to familiarize yourself with the [Sphinx site generator](https://www.sphinx-doc.org/), as well as [reStructuredText markup syntax](https://www.sphinx-doc.org/en/stable/rest.html).
+To contribute to the Write the Docs website, it's helpful to familiarize yourself with the [Sphinx site generator](https://www.sphinx-doc.org/) and [reStructuredText markup syntax](https://www.sphinx-doc.org/en/stable/rest.html).
 
 ### Code Architecture
 
-All of the generated website lives inside the `docs` directory, but many files outside the `conf/` directory are just static RST, as in any other Sphinx project.
+All of the generated website lives inside the `docs` directory, but many files outside the `conf/` directory are just static RST like any other Sphinx project.
 
 All RST files are rendered with [Jinja](https://jinja.palletsprojects.com/), which allows the use of Jinja tags in all of them. A few custom Jinja filters are available for things like generating photo paths for speakers.
 
@@ -50,15 +50,15 @@ If you run into trouble with broken links to video files, have a look at `_ext/f
 
 ### Prerequisites for generating the docs locally
 
-1. Install `python 3.8.x` using your package manager, if not installed already. You'll probably need `root` privileges to do this.
+1. Install `python 3.9.x` using your package manager, if not installed already. You'll probably need `root` privileges to do this.
 
 2. Generate a virtual environment for the WTD repo in the `venv` directory:
 
-    `virtualenv --python=/usr/bin/python3.8 venv`
+    `virtualenv --python=/usr/bin/python3.9 venv`
 
 ### Installing the project requirements
 
-1. Activate the virtual environment according to your operating system:
+1. Activate the virtual environment as per your operating system:
 
     * On Linux-based systems, run `source venv/bin/activate`.
     * On Windows using the Command Prompt, run `venv\Scripts\activate.bat`.
@@ -103,3 +103,20 @@ virtual Python environment with the following command on Linux:
 If you have verified this command on Windows, we invite you to submit a PR to include that information here.
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/writethedocs/www.svg)](https://greenkeeper.io/)
+
+### Using devcontainer
+
+In addition to local development with Python `venv`, it is also possible to use the devcontainer found in the root of the project.
+
+### Requirements
+
+Make sure all of the following is installed.
+
+- [Docker](https://docs.docker.com/get-started/get-docker/)
+- [Supported IDE](https://containers.dev/supporting#editors)
+
+Follow the steps below to open the development environment.
+
+1. Open a [supported IDE](https://containers.dev/supporting#editors)
+2. Click the "Open in devcontainer" popup
+3. The development environment starts in an containerized environment

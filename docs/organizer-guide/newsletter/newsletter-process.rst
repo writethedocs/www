@@ -52,7 +52,7 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
 
    :og:image: https://www.writethedocs.org/_static/logo-opengraph.png
 
-   .. post:: January 01, 2022
+   .. post:: January 01, 2025
       :tags: newsletter
 
    #########################################
@@ -67,12 +67,13 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
 
    Segue into articles.
 
-
    ------------------
    TITLE OF ARTICLE 1
    ------------------
 
    CONTENT.
+
+   See more Write the Docs resources about `{TOPIC_NAME} </topics/#TOPIC_LINK>`__.
 
    ------------------
    TITLE OF ARTICLE 2
@@ -80,17 +81,23 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
 
    CONTENT.
 
+   See more Write the Docs resources about `{TOPIC_NAME} </topics/#TOPIC_LINK>`__.
+
    ------------------
    TITLE OF ARTICLE 3
    ------------------
 
    CONTENT.
 
+   See more Write the Docs resources about `{TOPIC_NAME} </topics/#TOPIC_LINK>`__.
+
    ------------------
    TITLE OF ARTICLE 4
    ------------------
 
    CONTENT.
+
+   See more Write the Docs resources about `{TOPIC_NAME} </topics/#TOPIC_LINK>`__.
 
    ----------------
    From our sponsor
@@ -121,11 +128,20 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
 
    *Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
 
+
    ------------------
    Featured job posts
    ------------------
 
-  TODO
+   `JOB TITLE <JOB LINK>`__, COMPANY - *LOCATION*
+
+   *Interested in promoting your open position? See our `job posting sponsorship </sponsorship/jobs/>`__ for more details.*
+ 
+   ------------------------
+   Write the Docs resources
+   ------------------------
+
+   Write the Docs offers lots of valuable resources related to documentation. See all of the Write the Docs `learning resources </about/learning-resources/>`__. To discuss any of these ideas or others related to documentation, join the conversation in the `Write the Docs Slack community </slack/>` in one of the many `channels </slack/#channel-guide>`__.
 
    ----------------
    Events coming up

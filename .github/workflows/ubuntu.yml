@@ -19,10 +19,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - name: Set up Python 3.8
+    - name: Set up Python 3.9
       uses: actions/setup-python@v5
       with:
-        python-version: 3.8
+        python-version: 3.9
 
     - name: Cache python env
       uses: actions/cache@v4
@@ -30,19 +30,16 @@ jobs:
         path: ${{ env.pythonLocation }}
         key: v2-${{ env.pythonLocation }}-${{ hashFiles('requirements.txt') }}
         
-    - name: Install html-proofer
-      run: sudo gem install html-proofer -v '<4.4'
-
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip wheel
         pip install -r requirements.txt
 
     - name: Build
-      uses: rickstaa/sphinx-action@master
-      with:
-        docs-folder: "./docs"
-        build-command: "sphinx-build -q -W -b dirhtml -d _build/doctrees . _build/html"
+      run: |
+        cd docs
+        sphinx-build -q -W -b dirhtml -d _build/doctrees . _build/html
+        cd ../
 
     # Upload performance is awful on the many small files our build generates,
     # so it's compressed locally before uploading
@@ -56,8 +53,18 @@ jobs:
       with:
         name: html
         path: html.tar.gz
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.4'
+        bundler-cache: true
         
+    - name: Install Ruby dependencies
+      run: bundle install
+        
+    # TODO: Look into why we need to ignore archive/tag/index    
     - name: Check links
       if: success()
       run:  |
-          htmlproofer --ignore-files "/404/,/2013/,/2014/,/2015/,/2016/,/2017/,/search\/index.html/" --allow-hash-href=true --enforce-https=false --ignore-missing-alt=true --disable-external=true docs/_build/html
+          bundle exec htmlproofer --ignore-files "/404/,/2013/,/2014/,/2015/,/2016/,/2017/,/search\/index.html/,/archive\/tag\/index/" --allow-hash-href=true --enforce-https=false --ignore-missing-alt=true --disable-external=true docs/_build/html

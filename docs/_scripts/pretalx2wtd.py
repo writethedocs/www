@@ -109,8 +109,8 @@ def retrieve_speaker_info(speaker_codes, http_headers, pretalx_slug):
     return result
 
 if __name__ == '__main__':
-    year='2024'
-    place="Australia"
+    year='2025'
+    place="Portland"
     convert_to_yaml(
         year,
         series='Write the Docs '+place,

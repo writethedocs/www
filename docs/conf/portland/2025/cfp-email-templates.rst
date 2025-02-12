@@ -32,19 +32,21 @@ Subject:
 
    The Write the Docs {{city}} talk selection committee has finished the review process and we'd love it if you could join us as a speaker!
 
-   Write the Docs {{city}} {{year}} is back **in person** in {{city}} on **{{date.short}}**.
+   Write the Docs {{city}} {{year}} is **in person** in {{city}} on **{{date.short}}**.
 
-   We think your talk: '{proposal_title}' would be a great fit for the conference. We'd love to have you prepare it for a **30-minute** time slot.
+   We think your talk: '{proposal_title}' would be a great fit for the conference. We'd love to have you prepare it for a **30-minute** time slot, with additional questions and answers after that.
 
-   Please click this link to confirm your attendance **in-person**:
+   First up, make sure to confirm your speaking slot by doing these **three things** by **Friday 7th February**:
 
-   ○ {confirmation_link}
+   1. Confirm your **attendance in-person** in {{city}} by clicking the {confirmation_link}
 
-   Please **reply to this email as soon as possible** if you need to let us know any of the following:
+   2. Let us know any of the following:
 
-   ○ If you have a strong preference for presenting on Monday or Tuesday, or in the morning or afternoon.
-   ○ If you already purchased a ticket so we can issue you a refund.
-   ○ If you would be interested in having another member of the Write the Docs community mentor you through the talk preparation process.
+       ○ If you have a strong preference for presenting on Monday or Tuesday, or in the morning or afternoon.
+       ○ If you already purchased a ticket so we can issue you a refund.
+       ○ If you would like to have an experienced member of the Write the Docs community mentor you through the talk preparation process.
+
+   3. Update your [Pretalx profile](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/) with a bio and other information that we'll use to create your speaker profile and get our audience excited about your talk.
 
    Okay, with all that out of the way, it's time for the fun part: preparing your talk! To make sure everybody's on the same page, here are a few important things to keep in mind:
 
@@ -52,7 +54,7 @@ Subject:
      When you're writing your talk (just like when you're writing documentation), think about the diverse needs and interests of your audience, avoid (or define) any jargon-y language, and make sure you clearly express what people are going to learn from your talk.
    * Remember this is a community conference. If you're representing your employer it's okay to mention that, but please don't treat your talk as a marketing opportunity.
    * Make sure you plan your talk to fit in the allotted time. 30 mins for the the talk itself.There will be Q&A after the 30 mins.
-   * Please review our Code of Conduct (http://writethedocs.org/code-of-conduct/) and make sure your talk content adheres to it. As a rule of thumb, if you're on the fence about whether something in your talk could be considered inappropriate or offensive, leave it out. If you have a question about the code, feel free to email us and ask!
+   * Please review our Code of Conduct (https://www.writethedocs.org/code-of-conduct/) and make sure your talk content adheres to it. As a rule of thumb, if you're on the fence about whether something in your talk could be considered inappropriate or offensive, leave it out. If you have a question about the code, feel free to email us and ask!
 
    If you're concerned about travel expenses, let us know. We do have a budget for speaker expenses, but it can't cover all our speakers.
 
@@ -86,7 +88,7 @@ Subject:
 
    Keep in mind that we do run several batches of lightning talks that you can sign up for at the event. We also have an unconference space which is a great chance for more informal discussions. We'd love to have you, your ideas, and your passion at the conference--on stage or not, they're what make this event great!
 
-   If you're not planning on attending Write the Docs {{city}}, or just want to hone your talk online, the [Write the Docs Quorum](https://www.writethedocs.org/organizer-guide/meetups/quorum/) holds quarterly virtual meetups, and is always looking for speakers
+   If you're not planning on attending Write the Docs {{city}}, or just want to hone your talk online, various [Write the Docs meetups](https://www.writethedocs.org/meetups/) hold virtual meetups, and are always looking for speakers.
 
    Thanks again for your proposal. We strongly encourage you to submit again, for future events, and in the meantime we hope to see you in {{city}} or online!
 
