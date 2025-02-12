@@ -216,11 +216,10 @@ global_sponsors = yaml.safe_load("""
 """)
 
 # Dynamic announcement message
-today = datetime.date.today()
 announcement_message = None
 
-if datetime.date(2025, 2, 1) <= today <= datetime.date(2025, 5, 4):
-    announcement_message = "Portland 2025 speakers announced. <a href='/conf/portland/2025/'>Buy your ticket now.</a>"
+if datetime.date(2025, 2, 1) <= datetime.date.today() <= datetime.date(2025, 5, 4):
+    announcement_message = "Portland 2025 speakers announced. <a href='/conf/portland/2025/'>Buy your ticket now</a>"
 
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
