@@ -16,6 +16,8 @@ We're excited to work with the organizations in our community to build the best 
 Created in 2013 in Portland, Oregon, WTD has hosted conferences around the world in Prague, Berlin, Sydney, London, and Melbourne.
 We’re excited to celebrate year 12 with your support!
 
+You can also view the `sponsorship prospectus deck as a PDF <https://drive.google.com/file/d/1CCs5nSG6HTUsYNy8tV9UqjW0yXq8PsQC/view?usp=sharing>`_.
+
 Concept
 =======
 
@@ -70,6 +72,7 @@ Sponsorship Packages
 ====================
 
 All packages can be customized, so let us know what you need!
+
 
 Keystone
 --------
