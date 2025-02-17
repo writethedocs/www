@@ -241,9 +241,9 @@ sponsors:
       link: https://about.readthedocs.com/?ref=writethedocs
       brand: Read the Docs
       text: "Read the Docs simplifies software documentation by building, versioning, and hosting of your docs, automatically. Treating documentation like code keeps your team in the same tools, and your documentation up to date."
-    # - name: knowledgeowl
-    #   link: https://www.knowledgeowl.com?ref=writethedocs
-    #   brand: KnowledgeOwl
+    - name: helpdocs
+      link: https://www.helpdocs.io/?utm_source=writethedocs&utm_medium=sponsor&utm_campaign=wtdp25
+      brand: HelpDocs
     # - name: raspberrypi
     #   link: https://www.raspberrypi.com/
     #   brand: Raspberry Pi
