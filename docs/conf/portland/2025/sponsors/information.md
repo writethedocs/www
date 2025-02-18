@@ -6,12 +6,6 @@ banner: _static/conf/images/headers/2025/sponsors.jpg
 
 # Sponsor Information
 
-{% if not flagrunofshow %}
-
-The Run of Show will be published closer to the event.
-
-{% else %}
-
 ## Sponsor schedule
 
 Below is a schedule overview. The full schedule, including break times will be published soon.
@@ -148,5 +142,3 @@ We allow shipping ahead of time, but the venue doesn't accept packages. You'll b
 Sponsors are responsible for all sponsorship materials after they arrive at the venue.
 We recommend that you bring a return shipping label to send your materials back,
 and arranging with the shipping company to pick up your materials after the conference.
-
-{% endif %}

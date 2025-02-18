@@ -80,7 +80,6 @@ Jennifer helps write docs and microcopy for MinIO (object storage). She's been h
 #### Emcee
 
 ![](/_static/img/2024/team/jerome.jpg)
-https://drive.google.com/file/d/1NqYpL8uhSiuZumYi7lFa-Lncb6V9kCl4/view?usp=drive_link
 
 Jerome is a technical writer from Seattle and happy to be MC again at Write the Docs! He transitioned from education years ago and has experience working with organizations from open source, start ups, medium-sized companies, and consulting for large enterprises. He’s typically busy spending time with his family, continuing ongoing fixes to their century home, and rotating through his numerous hobbies.
 
@@ -112,7 +111,7 @@ Rose is a documentation advocate, Meetup organizer, and Write the Docs community
 
 #### Unconference Co-coordinator
 
-https://drive.google.com/file/d/17bRvj457s233K051ejFcLI8Vx7hzQjOG/view?usp=drive_link
+![](/_static/img/2024/team/ryan.jpg)
 
 Ryan splits his cerebral time between being tech writing, UXing, coding, and occasionally game design. By day, Ryan writes and edits software and hardware requirements. Otherwise, he works on game or tooling projects, some light woodworking, and land improvement projects on his homestead in southern Michigan. Warning: Ask him about UX in games, and he may talk your ear off.
 
