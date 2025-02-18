@@ -30,7 +30,7 @@ Our first meeting of the year included an informal retrospective of the previous
     We're still aiming to hold these events in the autumn or early winter, and we're still keeping accessibility at the top of our priority list. Our organizing teams for both conferences are already hard at work brainstorming ideas, and we'll be sharing more news in the coming weeks. 
 
 **The community is changing**
-    While many of the changes in the world have been felt to a certain extent in our community, we're fortunate to still have a strong foundation in our community members, volunteers, staff, and sponsors. We w0ould like to once again express our gratitude to all of our conferences, meetup, Slack, and infrastructure teams for their dedication to the community, and do our documentarians - we appreciate your enthusiasm and flexibility as we continue to experiment and improve our events and resources. 
+    While many of the changes in the world have been felt to a certain extent in our community, we're fortunate to still have a strong foundation in our community members, volunteers, staff, and sponsors. We would like to once again express our gratitude to all of our conferences, meetup, Slack, and infrastructure teams for their dedication to the community, and to our documentarians - we appreciate your enthusiasm and flexibility as we continue to experiment and improve our events and resources. 
 
 As always, the board continues to review the community backlog to determine what are the most valuable efforts for the community in the short and long term. 
 
