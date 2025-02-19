@@ -92,7 +92,7 @@ Benefits
 - Large logo included in intermission slides and on talk videos.
 - Logo and long description (500 characters) on the conference website.
 - Name in all conference email promotion.
-- Dedicated social media post on LinkedIn and X.
+- Dedicated social media post.
 - One email promotion to our conference email list. Includes logo and 2 paragraphs of copy.
 - Slack Sponsorship promotion in Write the Docs Slack channel ahead of the conference.
 - Display promotional “Swag” items on the conference swag table (provided by sponsor).
@@ -112,7 +112,7 @@ Benefits
 - A **sponsorship booth** for the entire conference (Monday & Tuesday).
 - **30 second introduction** on the main stage introducing your company.
 - A table at Writing Day on Sunday OR Unconference Monday or Tuesday, where you can engage in an official event space.
-- Dedicated social media post on LinkedIn and X.
+- Dedicated social media post.
 - Logo included in intermission slides and on talk videos.
 - Logo and description (250 characters) on the conference website.
 - Name in conference email promotion.
