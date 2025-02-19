@@ -253,6 +253,9 @@ nav {
 		font-size: var(--font-size-1);
 		line-height: var(--font-lineheight-2);
 	}
+	p {
+		display: inline;
+	}
 }
 
 /* default color */
@@ -524,6 +527,9 @@ main {
 				display: inline-block;
 				padding: var(--size-2);
 			}
+		}
+		p {
+			display: inline;
 		}
 		&&::after { /* add box-shadow */
 			display: block;
