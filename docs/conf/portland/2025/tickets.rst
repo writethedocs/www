@@ -83,6 +83,20 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 
 .. class:: ticket
 
+**Opportunity Grants**
+----------------------
+
+If you need support in paying for your ticket, travel or other costs,
+you can apply to our Opportunity Grant program.
+
+{% if grants and grants.ends and grants.url %}
+You can apply until **{{ grants.ends }}, 11:59 PM {{ tz }}** on `our website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/>`_.
+{% else %}
+Grant applications will open soon.
+{% endif %}
+
+.. class:: ticket
+
 **Corporate Concierge Tickets** *{{tickets.concierge.price}}*
 ------------------------------------------------------
 
@@ -95,20 +109,6 @@ The minimum purchase is three tickets.
 
 * Contact us at `{{email}} <mailto:{{email}}>`_ for this service.
 
-{% endif %}
-
-.. class:: ticket
-
-**Opportunity Grants**
-----------------------
-
-If you need support in paying for your ticket, travel or other costs,
-you can apply to our Opportunity Grant program.
-
-{% if grants and grants.ends and grants.url %}
-You can apply until **{{ grants.ends }}, 11:59 PM {{ tz }}** on `our website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/>`_.
-{% else %}
-Grant applications will open soon.
 {% endif %}
 
 {% if shirts and flaghasshirts %}

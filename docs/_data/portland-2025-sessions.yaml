@@ -1,0 +1,589 @@
+- title: Docs AI Tooling is Better (and Better for Us) than You Think
+  slug: docs-ai-tooling-is-better-and-better-for-us-than-you-think-alex-garnett
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2025
+  speakers:
+  - name: Alex Garnett
+    slug: alex-garnett
+    twitter:
+    website:
+  abstract: '<p>We do not want AI to write the docs. We know this. It does a bad job,
+    and it’s depressing to think about! However, what AI is inevitably going to do
+    is read the docs, and then? Then we can talk.</p>
+
+    <p>I recently inherited maintenance responsibilities for a docs site that already
+    had some AI tooling built into it – note, I probably would not have done this
+    myself – and gradually found myself more and more impressed. AI search in docs
+    complements our “traditional” search functionality, and many search and AI docs
+    integrations are providing UX that is genuinely configurable, transparent, and
+    accessible.</p>
+
+    <p>Better still, docs AI is able to scrape several other entry points – GitHub
+    issues, developer forums and community Slacks; essentially everything that would
+    normally fall under the umbrella of “Community” – and integrate them into query
+    responses. And unlike many AI agents in other domains, docs AI integrations can
+    always be made to cite their sources, driving traffic back to the relevant source
+    material. Did I mention the usefulness of the query logs for finding coverage
+    gaps?</p>
+
+    <p>This talk will compare the state of the art of docs AI tooling across several
+    vendors, and demonstrate the way that it’s been helpful to us. It will be delivered
+    by someone who is skeptical-bordering-on-hostile to AI in other domains, but who
+    loves helping people access our docs across contexts so darn much that he can’t
+    help but be impressed here. It will also not include a single horror story about
+    trying or being pressured to write our docs with AI, because the best part of
+    this tooling is that it points us in the exact opposite direction.</p>'
+- title: 'The Power of Two: How Support and Documentation Teams Transform Technical
+    Content Quality'
+  slug: the-power-of-two-how-support-and-documentation-teams-transform-technical-conten-yanjie-niu
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2025
+  speakers:
+  - name: Yanjie Niu
+    slug: yanjie-niu
+    twitter:
+    website:
+  abstract: '<p>As a technical writer leading documentation initiatives, I observed
+    a persistent challenge: while documenting new products and features follows established
+    processes, improving existing content often lacks a systematic approach - both
+    due to limited bandwidth and insufficient data. The traditional approach of relying
+    solely on doc metrics and sporadic customer feedback wasn''t providing a full
+    picture of where and how to improve the documentation. </p>
+
+    <p>Discover how combining the expertise of technical writers and support engineers
+    can revolutionize your documentation improvement process through systematic, data-driven
+    collaboration. Drawing from my experience, I''ll demonstrate how teams can harness
+    multiple data sources - documentation analytics, support ticket data, and direct
+    support cases - to drive strategic content improvements. You''ll learn how to
+    establish a collaborative rhythm where technical writers and support engineers
+    work together to share and expand their expertise. </p>
+
+    <p>This approach has proven transformative beyond documentation quality. You''ll
+    discover practical strategies for combining diverse data sources to prioritize
+    improvements and measure impact, while building a scalable process where both
+    teams grow: technical writers deepen their product technical knowledge through
+    real support cases, and support engineers strengthen their technical communication
+    skills. </p>
+
+    <p>Whether you''re a documentation manager looking to implement data-driven processes,
+    a technical writer seeking to balance new feature documentation with post-launch
+    documentation improvements, or a support lead aiming to better utilize your team''s
+    insights, you''ll walk away with actionable strategies to transform your documentation
+    process.</p>
+
+    <p>Key takeaways:</p>
+
+    <ul>
+
+    <li>A framework for identifying and prioritizing documentation improvements using
+    multiple data sources</li>
+
+    <li>Strategies for effective collaboration between technical writers and support
+    engineers</li>
+
+    <li>Methods for measuring and validating content improvements through documentation
+    and support metrics</li>
+
+    <li>Techniques for balancing new feature documentation with existing content improvement</li>
+
+    <li>Approaches for using support cases to enhance technical writers'' domain expertise</li>
+
+    </ul>'
+- title: Writing the Shipwreck
+  slug: writing-the-shipwreck-stephanie-fuller
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2025
+  speakers:
+  - name: Stephanie Fuller
+    slug: stephanie-fuller
+    twitter:
+    website:
+  abstract: '<p>Where do you start when your Docs-as-Code repository is a large, disorganized,
+    poorly written, and outdated shipwreck?</p>
+
+    <p>Most of us have been there. You accept a new job where you’re the sole technical
+    writer or part of a very small technical writing team. You obtain access to the
+    docs repo. Slowly, realization and then dread grows. The large documentation repository
+    you’ve inherited is outdated. It lacks coherent structure. There is no company
+    style guide, and the industry style guide - the one that was supposed to guide
+    prior technical writers - was not followed consistently. There are no documented
+    processes, even for setting up your tools. In addition, your tools are severely
+    outdated, existing formatting is haphazard, and the documents are tidal wave-sized
+    walls of text that are crying out to be chunked.</p>
+
+    <p>How do you bring order to the tsunami of chaos? How can your small team possibly
+    address all the competing priorities? How do you continue to document new features
+    and fixes while also trying to right the Documentation ship?</p>'
+- title: 'Quest for the Holy Grail: Turning User Feedback into Meaningful Change'
+  slug: quest-for-the-holy-grail-turning-user-feedback-into-meaningful-change-rachel-rigdon
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2025
+  speakers:
+  - name: Rachel  Rigdon
+    slug: rachel-rigdon
+    twitter:
+    website:
+  abstract: '<p>One of the most frustrating experiences as a tech writer is hearing
+    secondhand that a customer complained about the documentation—especially when
+    it’s a nebulous complaint that leaves no clear path for improvement. Receiving
+    quality user feedback is often seen as the Holy Grail of documentation: elusive,
+    invaluable, and transformative. Yet, gathering relevant, actionable insights is
+    an ongoing challenge.</p>
+
+    <p>In June 2024, SailPoint embarked on a journey to address this challenge by
+    adding a mechanism for users to provide feedback directly on our documentation
+    pages.</p>
+
+    <p>While implementing a comment option isn’t groundbreaking, this presentation
+    will focus on what we discovered during our quest: the lessons about our value
+    as tech writers, the priorities we identified in gathering user feedback, and
+    how user engagement can drive meaningful improvements in both documentation and
+    the product itself.</p>
+
+    <p>Key takeaways include:</p>
+
+    <ul>
+
+    <li>Building a Feedback System That Works: Learn the essential components needed
+    to ensure your feedback mechanism encourages constructive input instead of becoming
+    a pile of complaints.</li>
+
+    <li>Making Connections: Discover how fostering cross-functional teamwork and community
+    building enhances the feedback-gathering process.</li>
+
+    <li>Adapting to Your Team’s Realities: Learn strategies for tailoring your feedback
+    approach to fit your team’s constraints without sacrificing impact.</li>
+
+    <li>Amplifying User Voices: Understand how to ensure the right stakeholders hear
+    and act on user concerns.</li>
+
+    <li>Demonstrating Your Value: Gain insights into showcasing how tech writers’
+    proximity to users strengthens product development.</li>
+
+    </ul>
+
+    <p>This talk is designed for anyone seeking to prioritize user feedback effectively
+    and transform customer responses into actionable insights that elevate both documentation
+    and the product experience.</p>'
+- title: Regulate This! Writing for the Medical Device Industry
+  slug: regulate-this-writing-for-the-medical-device-industry-holly-mickelson
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2025
+  speakers:
+  - name: Holly Mickelson
+    slug: holly-mickelson
+    twitter:
+    website:
+  abstract: "<p>Eventually, every technical writer is faced with the same troubling
+    question about a new project: Which regulations and standards apply, and what
+    will that mean for my documentation? While for some specializations this is fairly
+    straightforward, in the medical device industry, the sheer number of regulations
+    and other seemingly whimsical factors that shape content is so central that, even
+    in a volatile market, we continue to enjoy our job security. </p>\n<p>If you’re
+    just starting out in technical documentation, looking for an exciting specialty
+    area or are just curious about writing in highly regulated markets, join me for
+    an investigation into four regulatory hurdles I consistently encounter in the
+    very international world of medical devices and the opportunities they bring with
+    them. </p>\n<ul>\n<li>\n<p>“Is that a device, or a system?” \nWe’ll investigate
+    how two major regulating bodies, the FDA and MDR, agree and disagree about classification
+    systems, and what that means for bringing a device to market and managing documentation.</p>\n</li>\n<li>\n<p>“Oh,
+    there’s a battery in that? Well then…” \nWe’ll delve into the ever-evolving and
+    very global world of industry-specific standards, and how seemingly small details
+    can throw everything you think you knew off balance. </p>\n</li>\n<li>\n<p>“That
+    made perfect sense in English.” \nIn some markets, products cannot be sold unless
+    documentation is available in the local language. We’ll consider the role translation
+    plays, both before you even start writing and well after you finish. </p>\n</li>\n<li>\n<p>“No
+    man, it’s the BOM!” \nFinally, we’ll look at how the long-ignored topic of cybersecurity
+    in the medical device industry has suddenly risen to the top, not only as part
+    of the device development process, but also within your documentation.</p>\n</li>\n</ul>\n<p>Along
+    the way, I’ll offer up some tips about anticipating areas of conflict within regulations
+    and standards as well as planning for international use cases, and also provide
+    some sure fire ways to ensure your writing will sail through translation.</p>"
+- title: 'Docs as Tests: A Strategy for Resilient Docs'
+  slug: docs-as-tests-a-strategy-for-resilient-docs-manny-silva
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2025
+  speakers:
+  - name: Manny Silva
+    slug: manny-silva
+    twitter:
+    website:
+  abstract: '<p>Outdated docs break user trust. Sometimes it''s small—a screenshot
+    that doesn''t match the UI. Sometimes it''s a one-and-done broken relationship—a
+    critical procedure that fails at a key moment. You don''t always get a second
+    chance.</p>
+
+    <p>When product updates are frequent, it''s easy to accept that outdated docs
+    are a sad reality of our work, but that doesn''t have to be the case. "Docs as
+    Tests" is a strategy that transforms docs from a liability to a trusted asset
+    by <em>literally</em> treating documentation as testable assertions of product
+    behavior.
+
+    This talk demonstrates how to implement Docs as Tests to catch documentation issues
+    before your users do. I''ll show you:</p>
+
+    <ul>
+
+    <li>How to identify testable assertions in your docs, from simple UI procedures
+    to complex API workflows</li>
+
+    <li>Practical examples of testing docs against web interfaces, APIs, and CLIs
+    using tools you likely already have or could easily adopt</li>
+
+    <li>Techniques for maintaining test coverage as your documentation grows</li>
+
+    <li>Real examples of how testing caught breaking changes before they impacted
+    users</li>
+
+    <li>Strategies for building support across engineering, product, and leadership
+    teams</li>
+
+    </ul>
+
+    <p>You''ll leave with concrete steps to start testing your own docs, whether you''re
+    a solo writer or part of a larger team. The result? Documentation that stays accurate
+    as your product changes, building and maintaining user trust.</p>
+
+    <p>This talk is for anyone who''s tired of finding out their docs are broken from
+    their users. No programming experience required—just a desire to make your docs
+    more resilient.</p>'
+- title: Knitting Together a Technical Writing Career
+  slug: knitting-together-a-technical-writing-career-heather-zoppetti
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2025
+  speakers:
+  - name: Heather Zoppetti
+    slug: heather-zoppetti
+    twitter:
+    website:
+  abstract: '<p>My journey into technical writing has been anything but conventional.
+    I moved from software engineer, to knitwear designer, to craft business owner,
+    and ultimately, to technical writer. I’ve discovered a varied background is a
+    powerful asset. While my experience in software engineering provided a sound foundation,
+    my time in hand-crafts taught me the skills I use every day as a technical writer.</p>
+
+    <p>In this talk, I’ll explore how unconventional experiences can shape your professional
+    career, offering unique perspectives and skills. I’ll share how the detail-oriented
+    world of knitting influenced my approach to technical communication, how a knitting
+    pattern is like software, and how embracing a non-linear path can help craft a
+    career you love. </p>
+
+    <p>Whether you’re just starting out or considering a career pivot, this session
+    will inspire you to see your diverse experiences as strengths, not detours.</p>'
+- title: Seven habits of increasingly technical technical writers
+  slug: seven-habits-of-increasingly-technical-technical-writers-janine
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2025
+  speakers:
+  - name: Janine Chan
+    slug: janine-chan
+    twitter:
+    website:
+  abstract: "<p>As someone with a completely non-technical background (an English
+    degree), and who now works in software as a technical writer, I get a lot of questions
+    about how I made that leap. They often jump directly to the practical: how did
+    you become a technical writer in software, if you went in only knowing how to
+    analyze Shakespeare? Are there any courses you took that made you Officially Technical?
+    Is there a book I can read that will transform me into a Technical Person? You
+    get to a point where your commit history stops being embarrassing...right?</p>\n<p>It
+    can feel like a letdown or a cop-out when I tell them the answer to all of those
+    questions is no (the last one resoundingly so).</p>\n<p>Picking up new skills
+    can sometimes feel intimidating - and it’s easy to go to work every day without
+    examining your assumptions, thought patterns or habits, so that process might
+    not improve. But when I started thinking about the successful technical writers
+    in my life, I noticed they share a pattern of attitudes and behaviours that make
+    picking up technical skills an easier, and even deeply satisfying, part of the
+    job.</p>\n<p>Adapting similar attitudes can keep your learning process moving,
+    and building up those technical skills will happen naturally as part of getting
+    your writing tasks done. In doing so, you'll find that <strong>the real secret
+    to being \"technical\" isn't any specific skill you have - it's a habit.</strong></p>\n<p>So
+    I've come up with seven suggestions for building habits that are still practical,
+    but that feed the underlying drive and ability to pick up technical skills:</p>\n<ol>\n<li>Don't
+    essentialize your lack of experience\n   (i.e., don't tell yourself, \"I'm not
+    a technical person\" - tell yourself, \"I haven't learned this technical skill
+    yet\")</li>\n<li>Redirect overwhelm into curiosity</li>\n<li>Turn your knowledge
+    gaps into specific questions</li>\n<li>Get tinkering</li>\n<li>Notice how many
+    people you admire are in the same boat</li>\n<li>Don't let \"perfect\" become
+    the enemy of \"good enough\"</li>\n<li>Learn to love the process - and know if
+    you can't</li>\n</ol>"
+- title: Using Competitive Analysis to Your Advantage
+  slug: using-competitive-analysis-to-your-advantage-leah-catania
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2025
+  speakers:
+  - name: Leah Catania
+    slug: leah-catania
+    twitter:
+    website:
+  abstract: '<p>We’ve all been in this situation before: you’ve been asked to build
+    a new type of documentation, and a stakeholder (maybe a product manager with a
+    lot of ownership, an executive, or even the CEO) has a specific idea about how
+    this documentation should look, how it should be organized, what content should
+    be included, or all three! </p>
+
+    <p>As a writer, you also know that those opinions aren’t usually based on real
+    theory or practical experience and can sometimes lead to a lot of wasted time
+    for the writing team. But what can you do when an important stakeholder gives
+    you a mandate? Often, the best strategy is to give your stakeholders data and
+    real-world examples that support your points by systematically analyzing how your
+    competitors solve the same documentation problem. </p>
+
+    <p>This talk will dive deep into how to conduct a competitive analysis to effectively
+    convince stakeholders–whether you have a good idea you want to implement or you
+    think that the documentation should go in a different direction than stakeholders
+    originally envisioned. You’ll learn how to:</p>
+
+    <ul>
+
+    <li>Identify the best competitors to analyze.</li>
+
+    <li>Call out the specific aspects of a documentation type or content strategy
+    that you want to compare. </li>
+
+    <li>Break down the work between multiple people to get results quickly. </li>
+
+    <li>Systematically and efficiently review the competitors so you can easily analyze
+    the findings. </li>
+
+    <li>Tailor your findings to your specific stakeholders, ensuring they walk away
+    approving your proposal. </li>
+
+    </ul>
+
+    <p>Thorough competitive analyses are worth every minute of effort you put into
+    them, and they’re simple to conduct once you understand what you’re trying to
+    get out of them.</p>'
+- title: 'Embracing the Kraken: How to build a docs-toolchain monster and why it’s
+    OK'
+  slug: embracing-the-kraken-how-to-build-a-docs-toolchain-monster-and-why-it-s-ok-ravind-kumar
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2025
+  speakers:
+  - name: Ravind Kumar
+    slug: ravind-kumar
+    twitter:
+    website:
+  abstract: '<p>Our toolchains are the backbone of the docs we produce. Over time
+    the files, pre-build scripts, builders, post-build scripts, and a variety of tacked-on
+    supporting frameworks become the tentacles and hooked beak of the infamous kraken.
+    Maybe it''s a kraken that you lovingly grew yourself: from scratch as part of
+    a new project, or as a redesign intended to get rid of a previous monster.</p>
+
+    <p>In this talk I will walk through why I built two krakens for the MinIO docs.
+    Each solved (or introduced) specific problems around single sourcing, cross referencing,
+    extendability, and ease-of-use as our overall product grew in size and complexity.</p>
+
+    <p>I’ll talk about the problems our team faced as our company’s product catalog
+    grew into a mixed ecosystem of Open Source and Proprietary software across operating
+    systems and infrastructures. I’ll talk about technical considerations - why we
+    chose one tool or feature to solve a problem and the problems we predicted and
+    actually encountered as a result. We’ll end on the Great Question that eventually
+    raises about our special home-grown monsters - is it time to wield the great harpoon
+    of a redesign and put our Krakens into retirement?</p>
+
+    <p>I’ll give you a spoiler: the answer is probably no. We ultimately build new
+    (and hopefully better) monsters in our pursuit of problem solving. And that’s
+    OK, because we did solve the problem. Are there numerous other ways to have solved
+    that problem, and the new one, and the next one? Yes, but that will always be
+    true. </p>
+
+    <p>The take-away is to focus on using tooling to solve problems knowing that they
+    are imperfect solutions, regardless of intent and the number of design sessions.
+    Rather than avoiding the Kraken, accept it and harness the power of what you have
+    for your own ends.</p>'
+- title: 'Unifying Documentation: A Tale of Two Security Giants'
+  slug: unifying-documentation-a-tale-of-two-security-giants-jodie-landes
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2025
+  speakers:
+  - name: Jodie Landes
+    slug: jodie-landes
+    twitter:
+    website:
+  abstract: '<p>In the world of technical documentation, merging two established systems
+    is no small feat. This presentation will take the audience on a journey through
+    the ambitious unification of ForgeRock and Ping Identity''s documentation ecosystems,
+    showcasing how a Docs as Code approach can successfully scale to meet enterprise
+    needs. </p>
+
+    <p>When ForgeRock and Ping Identity merged in September 2023, we faced a monumental
+    task:</p>
+
+    <ul>
+
+    <li>Integrate two vastly different documentation systems</li>
+
+    <li>Convert 48,000 pages of DITA content to AsciiDoc</li>
+
+    <li>Build a new, unified website and infrastructure with a rebranded look &amp;
+    feel</li>
+
+    <li>Include a reader feedback system </li>
+
+    <li>Implement advanced search capabilities, including GenAI responses</li>
+
+    <li>Manage redirects</li>
+
+    <li>Train writers on new tools and processes</li>
+
+    <li>Accomplish this project in a 10-month timeframe, driven by expiring 3rd-party
+    contracts and a vision for a unified "One Ping" approach</li>
+
+    </ul>
+
+    <p>We''ll dive into the three key areas that formed the backbone of our unification
+    strategy:</p>
+
+    <ol>
+
+    <li>Content Conversion: How we transformed DITA to AsciiDoc using custom XSLT
+    and Python scripts</li>
+
+    <li>Infrastructure Overhaul: Building a new website with improved UX, AWS configuration,
+    and CI/CD pipelines</li>
+
+    <li>Team Alignment: Creating a unified style guide and training writers on new
+    tools and workflows</li>
+
+    </ol>
+
+    <p>By October 2024, we successfully launched a unified documentation platform
+    that:</p>
+
+    <ul>
+
+    <li>Merged two complex documentation sets</li>
+
+    <li>Implemented enterprise search across all content sources</li>
+
+    <li>Introduced a RAG-based GenAI search approach</li>
+
+    <li>Streamlined the writing and review process</li>
+
+    </ul>
+
+    <p>We''ll share insights on:</p>
+
+    <ul>
+
+    <li>Managing large-scale content migrations</li>
+
+    <li>Balancing technical debt with innovation</li>
+
+    <li>Fostering a "possibility mindset" in a merged team</li>
+
+    <li>Scaling Docs as Code for enterprise needs</li>
+
+    </ul>'
+- title: 'Open Docs, Open Collaboration: Building Better Documentation with Community
+    PRs'
+  slug: open-docs-open-collaboration-building-better-documentation-with-community-prs-colin-loretz
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2025
+  speakers:
+  - name: Colin Loretz
+    slug: colin-loretz
+    twitter:
+    website:
+  abstract: '<p>What happens when your documentation is public, and anyone can contribute?
+    </p>
+
+    <p>Discord''s developer documentation isn’t just published for developers to use.
+    It’s written alongside our developer community. </p>
+
+    <p>By making our docs public and inviting the community to submit pull requests,
+    we’ve turned documentation into a collaborative effort, leading to faster updates,
+    higher accuracy, and better overall quality.</p>
+
+    <p>In this talk, I’ll share the challenges and opportunities of opening up documentation
+    to the community. From maintaining quality control to developing processes that
+    ensure consistent and meaningful contributions, we’ll explore practical strategies
+    that help organizations build sustainable contributor ecosystems. Whether you''re
+    considering opening up your own docs or want to improve collaboration within your
+    organization, this talk will provide actionable insights and lessons from real-world
+    experiences.</p>
+
+    <p><strong>Key Takeaways:</strong></p>
+
+    <ul>
+
+    <li>Why opening your documentation to community contributions can improve quality
+    and reduce update times.</li>
+
+    <li>Practical strategies for managing contributions at scale while maintaining
+    consistency.</li>
+
+    <li>Tools and processes we’ve developed to review, approve, and merge community-submitted
+    PRs efficiently.</li>
+
+    <li>How to build a culture of documentation ownership and collaboration within
+    your community.</li>
+
+    <li>Lessons learned: What worked, what didn’t, and how we’re evolving our approach
+    to better serve our developers.</li>
+
+    </ul>'
+- title: 'Scaling a unicorn: how to mature your documentation program and support
+    a changing business'
+  slug: scaling-a-unicorn-how-to-mature-your-documentation-program-and-support-a-changi-elise-davis
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2025
+  speakers:
+  - name: Elise Davis
+    slug: elise-davis
+    twitter:
+    website:
+  abstract: '<p>If you’re lucky, you work at an organization with enormous growth
+    potential and a clear upward trajectory. But how do you keep excelling at your
+    job, when the company you work for is structurally and strategically different
+    from the one you joined (and it won’t stop changing)? </p>
+
+    <p>The company I work for is a marketing automation and data platform that has
+    grown from a small, niche email service provider into a successful public company
+    with a sizable, loyal customer base and a market cap of $11.77 billion dollars
+    (at the time of writing). I’ve been with the company since 2019, with numerous
+    pivots both in business strategy and documentation needs. </p>
+
+    <p>In this talk, I’ll share how our documentation team adjusted its strategies
+    alongside a changing business. You’ll learn our approach to adapting to a changing
+    environment and how to create a team whose expertise is valued across the organization
+    and contributes to your company’s success. </p>
+
+    <p>Our journey of adapting to a growing, changing company has included: </p>
+
+    <ul>
+
+    <li>Getting rid of an entire category of documentation</li>
+
+    <li>Clearly delimiting the documentation team’s responsibilities as the organization
+    structure changed (e.g., video, strategic content, marketing collateral, developer
+    vs. user docs, and more) </li>
+
+    <li>Developing relationships with influential figures across the org</li>
+
+    <li>Prioritizing retention, so our team is full of experts who can contextualize
+    problems, provide historical context, and dive into tricky issues without unnecessary
+    oversight </li>
+
+    <li>Creating an ownership-based team culture, so every tech writer feels both
+    responsible and empowered to solve problems, try new things, and learn from mistakes.
+    </li>
+
+    </ul>
+
+    <p>I’ll share what’s worked, what hasn’t, and the tangible steps we took to evolve
+    from a scrappy, small team at a tech startup to a mature department with the respect
+    of our partners across the organization.</p>'

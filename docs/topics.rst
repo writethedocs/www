@@ -181,6 +181,7 @@ Other specific doc types
 
 Including how-tos, reference docs, tutorials, and books.
 
+- |:newspaper:| `Tips for improving code documentation </blog/newsletter-february-2025/#tips-for-improving-code-documentation>`__
 - |:newspaper:| `Documenting YAML Files </blog/newsletter-july-2023/#documenting-yaml-files>`__
 - |:newspaper:| `Code samples: Comments and placeholder text </blog/newsletter-june-2023/#code-samples-comments-and-placeholder-text>`__
 - |:newspaper:| `Templates for concept documentation </blog/newsletter-may-2022/#templates-for-concept-documentation>`__
@@ -335,6 +336,7 @@ Related roles
 Career growth
 ~~~~~~~~~~~~~
 
+- |:newspaper:| `The highs and lows of writing alone </blog/newsletter-february-2025/#the-highs-and-lows-of-writing-alone>`__
 - |:newspaper:| `Dealing with Feeling Blocked by Bureaucracy </blog/newsletter-march-2024/#dealing-with-feeling-blocked-by-bureaucracy>`__
 - |:newspaper:| `How to describe career progression </blog/newsletter-may-2023/#how-to-describe-career-progression>`__
 - |:newspaper:| `Loneliness of the “Lone-ly” Documentarian </blog/newsletter-march-2023/#loneliness-of-the-lone-ly-documentarian>`__
@@ -551,6 +553,7 @@ DITA
 AI and LLMs
 ~~~~~~~~~~~
 
+- |:newspaper:| `Writing AI-friendly *and* human-readable documentation </blog/newsletter-february-2025/#writing-ai-friendly-and-human-readable-documentation>`__
 - |:newspaper:| `Accelerating Documentation Creation with AI </blog/newsletter-april-2024/#accelerating-documentation-creation-with-ai>`__
 - |:newspaper:| `Iterative Writing with a Chatbot </blog/newsletter-march-2024/#iterative-writing-with-a-chatbot>`__
 - |:newspaper:| `Structured Authoring and Large Language Models (LLMs) </blog/newsletter-february-2024/#structured-authoring-and-large-language-models-llms>`__
@@ -764,6 +767,7 @@ Working with other roles
 
 Including product managers, higher-ups, etc.
 
+- |:newspaper:| `How to make your work as a documentarian shine: Beyond "just writing docs" </blog/newsletter-february-2025/#how-to-make-your-work-as-a-documentarian-shine-beyond-just-writing-docs>`__
 - |:newspaper:| `Dealing with difficult-to-understand drafts </blog/newsletter-september-2024/#dealing-with-difficult-to-understand-drafts>`__
 - |:newspaper:| `Helpful Questions for Gathering Information </blog/newsletter-december-2023/#helpful-questions-for-gathering-information>`__
 - |:newspaper:| `Getting Info from Others </blog/newsletter-july-2023/#getting-info-from-others>`__

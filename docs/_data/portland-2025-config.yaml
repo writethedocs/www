@@ -18,6 +18,9 @@ photos:
     - _static/conf/images/headers/2025/unconference.jpg
     - _static/conf/images/headers/2025/volunteer.jpg
     - _static/conf/images/headers/2025/writing-day.jpg
+  index:
+    - _static/conf/images/pics/writing-day.jpg
+    - _static/conf/images/pics/reg.jpg
 
 buttons:
   top:
@@ -25,12 +28,12 @@ buttons:
     #   link: /news/welcome
     - text: Sponsor us
       link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
+    #- text: Submit a Talk
+    #  link: /cfp
     # - text: See the Schedule!
     #   link: /schedule
-    # - text: Buy a Ticket!
-    #   link: /tickets
+    - text: Buy a Ticket!
+      link: /tickets
     #- text: See the talks!
     #  link: /speakers
     # - text: Attendee Guide
@@ -46,14 +49,14 @@ buttons:
     #   link: /news/welcome
     - text: Sponsor us
       link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
+    #- text: Submit a Talk
+    #  link: /cfp
     # - text: Buy a Ticket!
     #   link: /tickets
     # - text: See the Schedule
     #   link: /schedule
-    # - text: See the talks!
-    #   link: /speakers
+    - text: See the talks!
+      link: /speakers
     # - text: Read our guide
     #   link: /attendee-guide
     # - text: Watch the Live Stream
@@ -189,15 +192,9 @@ sponsors:
     - name: developerhub-io
       link: https://developerhub.io/?ref=writethedocs
       brand: DeveloperHub
-    # - name: mongodb-new
-    #   link: https://www.mongodb.com/?ref=writethedocs
-    #   brand: MongoDB
-    #   text: "MongoDB's mission is to empower innovators to create, transform, and disrupt industries by unleashing the power of software and data. Built by developers, for developers, MongoDB's developer data platform is a database with an integrated set of related services that allow development teams to address the growing requirements for today's wide variety of modern applications."
-    # - name: zoomin-small
-    #   link: https://www.zoominsoftware.com/?vert=Write_The_Docs_Portland&utm_medium=referral&utm_source=WriteTheDocs&utm_campaign=Write_The_Docs_Portland
-    #   brand: Zoomin
-    #   text: "Zoomin is transforming the way enterprises offer and gain value from their product content.
-    #          Our AI-infused content delivery platform lets you deliver knowledge from any source and format to wherever customers look for it, all within a personalized, unified and effortless experience. This radically improved content experience helps users successfully self-serve while deflecting cases away from overburdened support teams. Using proprietary analytics, Zoomin also provides actionable insights that guide decision-making across the enterprise. "
+    - name: mongodb-new
+      link: https://www.mongodb.com/?ref=writethedocs
+      brand: MongoDB
   publisher:
     # - name: bloomberg-engineering
     #   link: https://www.bloomberg.com/company/careers/working-here/engineering/
@@ -218,18 +215,21 @@ sponsors:
     # - name: slack
     #   link: https://slack.com/
     #   brand: Slack
+    - name: expert-support
+      link: https://expertsupport.com/?ref=writethedocs
+      brand: Expert Support
   second:
     # - name: nginx
     #   link: https://www.nginx.com/?ref=writethedocs
     #   brand: NGINX
     - name: redocly-new
-      link: https://redoc.ly/
+      link: https://redoc.ly/?ref=writethedocs
       brand: Redocly
-    - name: jetbrains-svg
-      link: https://jebrains.com/writethedocs
-      brand: JetBrains
-      text: "JetBrains is a software development company known for best-of-class integrated development environments (IDEs) like IntelliJ IDEA, PyCharm, and WebStorm. With Writerside, JetBrains brings its expertise to technical writing."
-      width: 7em
+    # - name: jetbrains-svg
+    #   link: https://jebrains.com/writethedocs
+    #   brand: JetBrains
+    #   text: "JetBrains is a software development company known for best-of-class integrated development environments (IDEs) like IntelliJ IDEA, PyCharm, and WebStorm. With Writerside, JetBrains brings its expertise to technical writing."
+      # width: 7em
     - name: hyperlint
       link: https://hyperlint.com/?ref=writethedocs
       brand: Hyperlint
@@ -241,9 +241,9 @@ sponsors:
       link: https://about.readthedocs.com/?ref=writethedocs
       brand: Read the Docs
       text: "Read the Docs simplifies software documentation by building, versioning, and hosting of your docs, automatically. Treating documentation like code keeps your team in the same tools, and your documentation up to date."
-    # - name: knowledgeowl
-    #   link: https://www.knowledgeowl.com?ref=writethedocs
-    #   brand: KnowledgeOwl
+    - name: helpdocs
+      link: https://www.helpdocs.io/?utm_source=writethedocs&utm_medium=sponsor&utm_campaign=wtdp25
+      brand: HelpDocs
     # - name: raspberrypi
     #   link: https://www.raspberrypi.com/
     #   brand: Raspberry Pi
@@ -270,14 +270,14 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: True
-flagcfp: True
+flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
-flagspeakersannounced: False
+flagspeakersannounced: True
 flagrunofshow: False
 flaghasschedule: False
 flagscheduleincomplete: True
-flaghasshirts: False
+flaghasshirts: True
 flaglivestreaming: False
 flagvideos: False
 flagpostconf: False

@@ -1,6 +1,15 @@
 {%- extends "!layout.html" %}
 
 {%- block document %}
+
+  {%- if announcement_message %}
+  <div class="announcement-banner-wrapper">
+    <div class="announcement-banner">
+      <p>{{ announcement_message | safe }}</p>
+    </div>
+  </div>
+  {%- endif %}
+
   <div class="documentwrapper">
   {%- if render_sidebar %}
     <div class="bodywrapper">
@@ -23,8 +32,7 @@
     </div>
   {%- endif %}
   </div>
-    {%- endblock %}
-
+{%- endblock %}
 
 {%- block footer %}
   {% include "footer.html" %}

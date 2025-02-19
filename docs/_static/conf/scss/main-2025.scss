@@ -870,6 +870,11 @@ footer {
     }
 }
 
+#tickets .ticket h2 {
+    a.headerlink {
+        display: none;
+    }
+}
 
 @media  (min-width: 640px) {
     #tickets .ticket h2 {
@@ -885,9 +890,6 @@ footer {
             font-style: normal;
         }
 
-        a.headerlink {
-            display: none;
-        }
     }
 }
 

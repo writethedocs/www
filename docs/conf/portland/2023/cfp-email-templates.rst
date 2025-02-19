@@ -52,7 +52,7 @@ Subject:
    * Remember this is a community conference. If you're representing your employer it's okay to mention that, but please don't treat your talk as a marketing opportunity.
    * If you would be interested in having another member of the Write the Docs community mentor you through the talk preparation process, please tell us! We'll do our best to connect you with someone to bounce ideas off, to review drafts, and to help you refine your talk before the conference.
    * Make sure you plan your talk to fit in the allotted time.
-   * Please review our Code of Conduct (http://writethedocs.org/code-of-conduct/) and make sure your talk content adheres to it. As a rule of thumb, if you're on the fence about whether something in your talk could be considered inappropriate or offensive, leave it out. If you have a question about the code, feel free to email us and ask!
+   * Please review our Code of Conduct (https://www.writethedocs.org/code-of-conduct/) and make sure your talk content adheres to it. As a rule of thumb, if you're on the fence about whether something in your talk could be considered inappropriate or offensive, leave it out. If you have a question about the code, feel free to email us and ask!
 
    If you're concerned about travel expenses, let us know. We do have a budget for speaker expenses, but it can't cover all our speakers.
    As we confirm your details, we'll publish your abstract, headshot, and information on the conference site. We'll also be emailing attendees so they can share in our excitement about the talks we'll be presenting this year!

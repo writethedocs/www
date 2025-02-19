@@ -2,6 +2,9 @@
 :og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 :banner: _static/conf/images/headers/2025/sponsors.jpg
 
+.. role:: strike
+    :class: strike
+
 Sponsorship Prospectus
 ######################
 
@@ -12,6 +15,8 @@ Welcome to the Write the Docs {{ city }} {{ year }} sponsorship prospectus.
 We're excited to work with the organizations in our community to build the best documentation event in {{ year }}.
 Created in 2013 in Portland, Oregon, WTD has hosted conferences around the world in Prague, Berlin, Sydney, London, and Melbourne.
 We’re excited to celebrate year 12 with your support!
+
+You can also view the `sponsorship prospectus deck as a PDF <https://drive.google.com/file/d/1CCs5nSG6HTUsYNy8tV9UqjW0yXq8PsQC/view?usp=sharing>`_.
 
 Concept
 =======
@@ -68,10 +73,11 @@ Sponsorship Packages
 
 All packages can be customized, so let us know what you need!
 
+
 Keystone
 --------
 
-**{{sponsorship.keystone.price}}** - **Limit 1**
+**{{sponsorship.keystone.price}}** - :strike:`Limit 1` (Sold out)
 
 The **Keystone** sponsorship highlights you as the primary sponsor of the conference. You get all in-person benefits, and the best placement for all physical spaces.
 
@@ -152,7 +158,7 @@ combined with one of the previous packages to increase visibility at the event.
 Lightning Talks
 ---------------
 
-**$3,500** - **Limit 2**
+**$3,500** - :strike:`Limit 2` (Sold out)
 
 Sponsor one day of Lightning Talks, where attendees have 5 minutes to share something they are excited about working on. You will have 60 seconds at the start to introduce your company.
 
