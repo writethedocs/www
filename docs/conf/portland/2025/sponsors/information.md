@@ -56,7 +56,7 @@ We'll share a venue map in March with a more detailed layout.
 
 ## Media Kit
 
-[Download copy and graphics from our Media Kit](https://drive.google.com/drive/folders/1GMr65VQ9d0cXQXAmqfZfEuyZENTS3i8R?usp=drive_link)
+Download copy and graphics from our [Media Kit](https://drive.google.com/drive/folders/1GMr65VQ9d0cXQXAmqfZfEuyZENTS3i8R?usp=drive_link).
 
 This includes:
 
