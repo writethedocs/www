@@ -30,7 +30,7 @@ Conference shirts are also available. See the `Official Conference Shirts`_ sect
 Ticket Information
 ------------------
 
-Write the Docs {{ name }} {{ year }} is an in-person conference. Each ticket includes:
+Write the Docs {{ name }} {{ year }} is a hybrid conference, which you can attend in person or virtually. Each in-person ticket includes:
 
 * Entry to all conference events and activities
 * Snacks and drinks on event days (Sunday-Tuesday)
@@ -38,7 +38,9 @@ Write the Docs {{ name }} {{ year }} is an in-person conference. Each ticket inc
 * Wifi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue
 
-All attendees are required to abide by our `Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`_.
+Learn more about the `virtual attendance experience </conf/portland/2025/virtual/>`_.
+
+All attendees, in person or virtual, are required to abide by our `Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`_.
 
 Refund Policy
 -------------
