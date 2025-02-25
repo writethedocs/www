@@ -95,22 +95,6 @@ You can apply until **{{ grants.ends }}, 11:59 PM {{ tz }}** on `our website <ht
 Grant applications will open soon.
 {% endif %}
 
-.. class:: ticket
-
-**Corporate Concierge Tickets** *{{tickets.concierge.price}}*
-------------------------------------------------------
-
-We offer a corporate concierge service if your company is unable to follow our regular ticket sales process through the website.
-We can offer payment by invoice, process purchase orders, bank transfers, fill in supplier registration forms, and offer other support.
-Your tickets will be issued after we have received payment.
-The minimum purchase is three tickets.
-
-{% if flagticketsonsale %}
-
-* Contact us at `{{email}} <mailto:{{email}}>`_ for this service.
-
-{% endif %}
-
 {% if shirts and flaghasshirts %}
 
 .. class:: ticket
@@ -121,5 +105,21 @@ The minimum purchase is three tickets.
 You can now visit our Write the Docs {{ name }} {{ year }} Pop-Up Shop and order this year’s branded shirt. The campaign will run until **{{ shirts.ends }}**.
 
 * `Buy {{ name }} {{ year }} Shirt <{{ shirts.url }}>`_
+
+{% endif %}
+
+.. class:: ticket
+
+**Corporate Concierge Tickets** 
+------------------------------------------------------
+
+We offer a corporate concierge service if your company is unable to follow our regular ticket sales process through the website.
+We can offer payment by invoice, process purchase orders, bank transfers, fill in supplier registration forms, and offer other support.
+Your tickets will be issued after we have received payment.
+The minimum purchase is three tickets at $750 per ticket.
+
+{% if flagticketsonsale %}
+
+* Contact us at `{{email}} <mailto:{{email}}>`_ for this service.
 
 {% endif %}
