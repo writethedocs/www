@@ -11,6 +11,12 @@ Tickets
 
 We're excited to invite you to our {{ year }} conference in {{ city }}.
 
+{% if shirts and flaghasshirts %}
+Conference shirts are also available. See the `Official Conference Shirts`_ section below for details.
+
+{% endif %}
+
+
 {% elif flagsoldout %}
 
 **Tickets are sold out!**
