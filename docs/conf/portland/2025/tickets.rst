@@ -89,6 +89,19 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 
 .. class:: ticket
 
+**Virtual Tickets** *{{tickets.virtual.price}}*
+--------------------------------------------
+
+Join us virtually for the main conference days (May 5-6).
+
+{% if flagticketsonsale %}
+
+* `Buy Virtual Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
+
+{% endif %}
+
+.. class:: ticket
+
 **Opportunity Grants**
 ----------------------
 

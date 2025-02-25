@@ -92,6 +92,7 @@ ticket-details:
   corporate: include('price-type')
   independent: include('price-type')
   student: include('price-type')
+  virtual: include('price-type')
 
 price-type:
   price: str()

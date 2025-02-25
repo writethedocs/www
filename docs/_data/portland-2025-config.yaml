@@ -77,6 +77,8 @@ tickets:
     price: $350
   student:
     price: $100
+  virtual:
+    price: $75
 
 sponsorship:
   second_draft:
