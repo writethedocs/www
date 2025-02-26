@@ -62,9 +62,7 @@
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/venue') }}">Venue</a></li>
             {% if not flagisvirtual %}
                 <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/visiting') }}">Visiting {{ city }}</a></li>
-            {% if flagspeakersannounced %}
-                <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/attendee-guide') }}">Attendee Guide</a></li>
-            {% endif %}
+                {# <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/attendee-guide') }}">Attendee Guide</a></li> #}
                 <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/health') }}">Health and Safety Policy</a></li>
                 <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/volunteer') }}">Volunteer Info</a></li>
             {% endif %}
