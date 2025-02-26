@@ -71,7 +71,7 @@ for recipient, discount_code in codes:
 Hello,
 
 Thanks for applying to the Opportunity Grant program for {conference_name}.
-As part of your grant, you wil receive a free ticket for the conference.
+As part of your grant, you will receive a free ticket for the conference.
 
 The ticket can be registered on the following URL:
 {url}
