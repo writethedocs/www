@@ -220,7 +220,7 @@ flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
-flagrunofshow: False
+flagrunofshow: True
 flaghasschedule: False
 flagscheduleincomplete: True
 flaghasshirts: True
