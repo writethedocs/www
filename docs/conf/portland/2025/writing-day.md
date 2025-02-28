@@ -12,7 +12,7 @@ On the first day of the conference, Sunday, attendees are encouraged to bring an
 
 The primary goal is to bring interested individuals into the same room, sharing their passions and aspirations while collaborating to develop creative solutions to solve a problem or issue.
 
-If you have a project, we encourage you to submit it before the conference! This is a great way to build momentum and get other attendees excited to participate in your project. We’ll open project submissions in February/March. As usual, day-of projects are always welcome too - you'll have the option to sign up onsite and announce it during Writing Day.
+If you have a project, we encourage you to submit it before the conference! This is a great way to build momentum and get other attendees excited to participate in your project. We’ll open project submissions in March. As usual, day-of projects are always welcome too - you'll have the option to sign up onsite and announce it during Writing Day.
 
 ![Writing Day](/_static/conf/images/pics/2025/writing-day.jpg)
 
@@ -87,7 +87,7 @@ Leading a project at Writing Day is a wonderful opportunity to engage with docum
 - **Clear onboarding:** Ensure your ReadMe, contribution guidelines, or onboarding instructions are accurate and up to date.
 - **Project experts:** We recommend having 1-2 project experts on your project. We love our developer advocates, community managers, and subject matter experts! You’re welcome to ask for virtual reinforcements from your community as well.
 - **Flexibility and understanding:** Reminder that attendees may need additional info to be successful in onboarding to your project.
-- **Submit your Writing Day before the conference:** Projects submitted by **April 17, 2025** are featured in our pre-conference blog post and email. Many attendees have shared that their curiosity for specific projects motivated them to attend. Project submissions open in February/March.
+- **Submit your Writing Day before the conference:** Projects submitted by **April 23, 2025** are featured in our pre-conference blog post and email. Many attendees have shared that their curiosity for specific projects motivated them to attend. Project submissions open in February/March.
 
 These are suggestions and not requirements. It is perfectly valid to show up to Writing Day, tell us about your project day of, and ask for attendee contribution! It’s been done before and it will be done again.
 
