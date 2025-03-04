@@ -341,7 +341,7 @@ nav ul {
 
 
 /* first internal nav link becomes heading */
-#id1 {
+nav div.contents.local.topic ul.simple > li > p > a.reference.internal { 
 	font-size: var(--font-size-2);
 	font-weight: var(--font-weight-6);
 	text-decoration: none;
@@ -354,13 +354,13 @@ nav ul {
 }
 /* except on mobile */
 @media screen and (max-width: 869px) {
-	#id1 {
+	nav div.contents.local.topic ul.simple > li > p > a.reference.internal {
 		display: none;
 	}
 }
 
 nav #contents #id2 {
-	display: none; /* hide introduction and submenu to prevent weird jumps */
+	/* display: none;  hide introduction and submenu to prevent weird jumps */
 }
 
 .simple ul ul {
@@ -671,6 +671,7 @@ main {
 	}
 }
 
+/* custom footnotes */
 table:has(+ div.tbl-footnote) {
 	margin-bottom: 0;
 }
@@ -678,9 +679,24 @@ table:has(+ div.tbl-footnote) {
 .tbl-footnote {
 	margin-bottom: var(--size-8);
 	p {
-		font-size: var(--font-size-0)
+		font-size: var(--font-size-0);
 	}
 }
+
+/* built-in footnotes */
+a.footnote-reference.brackets {
+	vertical-align: super;
+	font-size: var(--font-size-0);
+}
+
+table:has(a.footnote-reference.brackets) {
+	margin-bottom: 0;
+}
+
+dl.footnote.brackets {
+	/* TODO: style these */
+}
+
 
 /* specific table overrrides */
 #tbl-2023-basis-of-employment-history {
