@@ -41,6 +41,8 @@ The virtual ticket option includes:
 
 Head to our [Tickets page](https://www.writethedocs.org/conf/portland/2025/tickets/) to get your virtual ticket.
 
+![Writing Day photo](/_static/conf/images/pics/2025/writing-day-3.jpg)
+
 ### Writing Day Project Submissions Open
 
 Our Writing Day Call for Projects is open. If you're interested in leading a project, we *highly* encourage you to submit your project ahead of time. This is a great way to build momentum and prepare attendees to show up ready to contribute to your project. 

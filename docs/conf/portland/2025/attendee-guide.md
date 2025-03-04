@@ -81,9 +81,7 @@ We have a dedicated parents room that is available as needed. Please check in wi
 
 Service Animals are welcome at our conference venue.
 
-**Thank you to Djangocon US for inspiration on this page.**
-
-*Insert photo *https://drive.google.com/file/d/1Gh1xFZ-ff7fN1j3xma8772owWsBaqTdo/view
+![Writing Day photo](/_static/conf/images/pics/2025/writing-day-3.jpg)
 
 ## Tips to Have a Great Conference
 
