@@ -18,14 +18,14 @@ Join us for an introduction to Write the Docs. We’ll go on a short tour of the
 
 Welcome Wagon Tours are scheduled for:
 
-- Sunday before lunch
-- Sunday after lunch
-- Sunday before the Welcome Reception
-- Monday morning
+- **Sunday** - meet on the 1st floor at Registration by Martha's Cafe
+  - Before lunch
+  - After lunch
+  - Before the Welcome Reception
+- **Monday** - meet on the 2nd floor at the Registration table
+  - Morning
 
 *Exact times to come
-
-**Tour Start Location:** Sunday tours will meet on the 1st floor at Registration by Martha's Cafe. Monday tour meets on the 2nd floor at the Registration table.
 
 ## Conference Layout
 
@@ -38,7 +38,7 @@ We will provide a venue map in April.
 - Snacks, coffee, tea, and water are included with your ticket. Vegan, vegetarian, gluten-free, and dairy-free options will be offered. 
 - Bring a water bottle as there are refill stations located around the venue.
 - 🆕 **NEW this year:** Two food carts will be brought in for Monday and Tuesday lunches from 12-2pm. This is a great option for folks who want to stay onsite.
-- There are many food and beverage options within .5 miles around the conference venue. Explore Portland’s amazing food scene on the [Visiting Portland page](https://www.writethedocs.org/conf/portland/2025/visiting/).
+- There are many food and beverage options within 0.5 miles (0.8 km) around the conference venue. Explore Portland’s amazing food scene on the [Visiting Portland page](https://www.writethedocs.org/conf/portland/2025/visiting/).
 - The Welcome Wagon team will organize lunch and dinner meetups for folks interested in eating with others. Visit the **Registration** table during conference days to sign up.
 
 ## Dress Code
@@ -71,7 +71,7 @@ We are committed to hosting a conference that is accessible to everyone. Below a
 
 ### Dietary Requirements
 
-We aim to provide snacks that meet varying dietary requirements including vegan, vegetarian, gluten-free, and dairy-free. Our catering menu and ingredients will be listed. Please email katie@writethedocs.org for other dietary requirements.
+We aim to provide snacks that meet varying dietary requirements including vegan, vegetarian, gluten-free, and dairy-free. Our catering menu and ingredients will be listed. Please email <katie@writethedocs.org> for other dietary requirements.
 
 ### Parents Room
 
@@ -104,13 +104,13 @@ Service Animals are welcome at our conference venue.
 
 ### Writing Day:
 
-[Writing Day](https://www.writethedocs.org/conf/portland/2025/writing-day/) is modeled after the concept of “sprints”. The main goal is to get interesting people in the same room, sharing their passion and goals and collaborating to find creative solutions to solve a problem or issue.
+[Writing Day](https://www.writethedocs.org/conf/portland/2025/writing-day/) is modeled after the concept of “sprints”. The main goal is to get interesting people in the same room, sharing their passions and goals, and collaborating to find creative solutions to solve a problem or issue.
 
 - Sign up or bring a project to lead.
 - Attend and contribute to someone else’s project.
 
 ### Unconference:
-The [Unconference](https://www.writethedocs.org/conf/portland/2025/unconference/) consists attendee-driven sessions that provide the opportunity for anyone to lead, contribute, share ideas, and discuss ideas.
+The [Unconference](https://www.writethedocs.org/conf/portland/2025/unconference/) consists of attendee-driven sessions that provide the opportunity for anyone to lead, contribute, share ideas, and discuss ideas.
 
 - Join and attend an unconference session.
 - Sign up to lead a session at the schedule board.
@@ -119,7 +119,7 @@ The [Unconference](https://www.writethedocs.org/conf/portland/2025/unconference/
 
 [Lightning Talks](https://www.writethedocs.org/conf/portland/2025/lightning-talks/) are short talks, up to 5 minutes, where you share an idea, concept, or a bit of information that you find interesting.
 
-- Sign up to give a talk! Sign up at the **Registration** table.
+- Sign up to give a talk! Sign up at the **Registration** table. Selections are announced on Monday and Tuesday before the lunch breaks.
 
 ### Sponsor Expo:
 
@@ -133,7 +133,7 @@ Join us for our Sunday night welcome party! Stop by and say hello to the Welcome
 
 ### Monday Conference Party:
 
-This is our main social event of the conference and this year, is held at [Jupiter NEXT](https://www.jupiterhotel.com/). Drinks and snacks provided by us. 
+This is our main social event of the conference, and this year is held at [Jupiter NEXT](https://www.jupiterhotel.com/). Drinks and snacks provided by us. 
 
 It is a time to connect with other attendees outside of the scheduled programming.  Come for an hour or stay the entire time!
 
@@ -151,4 +151,4 @@ The [Hike](https://www.writethedocs.org/conf/portland/2025/hike/) is the unoffic
 
 ## Did we miss anything?
 
-Is there anything that would make your attendance possible or improve your experience? Please email us at portland@writethedocs.org, and we’ll do what we can to provide it.
+Is there anything that would make your attendance possible or improve your experience? Please email us at <portland@writethedocs.org>, and we’ll do what we can to provide it.
