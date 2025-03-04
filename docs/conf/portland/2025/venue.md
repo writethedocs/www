@@ -15,9 +15,9 @@ Our conference will be held at Revolution Hall, a beautiful venue located in the
 
 ## Driving and Parking
 
-If you drive to the conference, note that the venue does not have parking onsite. There is street parking east of the venue (15th Ave. and higher) and allows for all-day free parking. Additionally, there is 1-2 hour street parking directly around the venue. 
+If you drive to the conference, note that the venue does not have parking onsite. There is street parking east of the venue (15th Ave. and higher street numbers) and allows for all-day free parking. Additionally, there is 1-2 hour street parking directly around the venue. 
 
-Bus transit stops are located nearby the venue. All transit in Portland announce manor stops verbally in English, and most buses have a visual display of upcoming stops. Refer to the [Visiting Portland page](https://www.writethedocs.org/conf/portland/2025/visiting/) for more information on public transportation.
+Bus transit stops are located near the venue. All transit in Portland announce major stops verbally in English, and most buses have a visual display of upcoming stops. Refer to the [Visiting Portland page](https://www.writethedocs.org/conf/portland/2025/visiting/) for more information on public transportation.
 
 ## Conference Layout
 
