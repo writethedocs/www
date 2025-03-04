@@ -149,9 +149,6 @@ Jupiter Hotel
 
 The [Hike](https://www.writethedocs.org/conf/portland/2025/hike/) is the unofficial beginning of the conference. If you arrive before Saturday afternoon, join us for a walk and some fresh air!
 
-FULL DETAILED SCHEDULE RELEASED CLOSER TO THE CONFERENCE.
-
-
 ## Did we miss anything?
 
 Is there anything that would make your attendance possible or improve your experience? Please email us at portland@writethedocs.org, and we’ll do what we can to provide it.
