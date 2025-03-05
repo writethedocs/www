@@ -38,10 +38,7 @@ Community organizers have access to:
 - Discounts for conference tickets
 - Organizer-only Slack channel
 - Write the Docs Zoom account for hosting virtual events
-
-Coming soon:
-
-- Community Organizer office hour hosted by the Meetups and Community Coordinator
+- (Coming soon) Community Organizer office hour hosted by the Meetups and Community Coordinator
 - Templates
 
 What's expected
