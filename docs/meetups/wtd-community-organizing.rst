@@ -36,7 +36,7 @@ What's in it for you?
 Community organizers have access to:
 
 - Discounts for conference tickets
-- Organizer-only slack channel
+- Organizer-only Slack channel
 - Write the Docs Zoom account for hosting virtual events
 
 Coming soon:
