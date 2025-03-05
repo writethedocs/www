@@ -6,7 +6,7 @@ We are connecting the global Write the Docs (WTD) community by empowering local 
 Who are Write the Docs community organizers?
 --------------------------------------------
 
-Write the Docs communinity organizers are volunteers who build and support WTD communities around the world. Their goal is to create a space for documentarians to build relationships and support each other in their local, or time zone based, communities.
+Write the Docs community organizers are volunteers who build and support WTD communities around the world. Their goal is to create a space for documentarians to build relationships, exchange knowledge, and support each other in their local or time zone based communities.
 
 Interested in volunteering as an organizer? Read more and `apply today <https://forms.gle/Jx9CniuwEcLrEYPJ7>`__!
 
