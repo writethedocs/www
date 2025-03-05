@@ -13,7 +13,7 @@ Write the Docs community organizers are volunteers who build and support WTD com
 Write the Docs meetups and similar communities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Write the Docs brings together local documentarians and tech enthusiasts through our network of more than 20 meetup groups as well as similar community sites.
+Write the Docs brings together documentarians and tech enthusiasts through our global network of more than 20 local meetup groups as well as similar community sites.
 
 Our meetup groups and community events are welcoming spaces for you to learn, connect, and grow in your journey as a documentarian.
 
