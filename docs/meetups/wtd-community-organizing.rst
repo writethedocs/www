@@ -10,7 +10,7 @@ Write the Docs community organizers are volunteers who build and support WTD com
 
 **Interested in volunteering as an organizer? Read more and `apply today <https://forms.gle/Jx9CniuwEcLrEYPJ7>`__!**
 
-Write the Docs Meetups and similar communities
+Write the Docs meetups and similar communities
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Write the Docs brings together local documentarians and tech enthusiasts through our network of more than 20 meetup groups as well as similar community sites.
