@@ -34,7 +34,7 @@ buttons:
     #   link: /schedule
     - text: Buy a Ticket
       link: /tickets
-    - text: See the talks
+    - text: See the Speakers
       link: /speakers
     # - text: Attendee Guide
     #   link: /attendee-guide
@@ -55,9 +55,9 @@ buttons:
     #   link: /tickets
     # - text: See the Schedule
     #   link: /schedule
-    - text: See the talks
+    - text: See the Talks
       link: /speakers
-    - text: Read the guide
+    - text: Read the Guide
       link: /attendee-guide
     # - text: Watch the Live Stream
     #   link: /livestream
