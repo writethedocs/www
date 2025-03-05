@@ -1,4 +1,4 @@
-Volunteer to become a Write the Docs Community Organizer!
+Volunteer to become a Write the Docs community organizer!
 =========================================================
 
 We are connecting the global Write the Docs (WTD) community by empowering local meetups and similar community events near you.
