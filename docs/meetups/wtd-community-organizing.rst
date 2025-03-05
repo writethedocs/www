@@ -24,7 +24,7 @@ How to become a community organizer
 All of our organizers are volunteers local to the area or time zone that they serve. Follow these steps if you'd like to start organizing:
 
 1. Determine if you are interested and have the capacity for this role
-2. Complete the volunteer application
+2. Complete the `volunteer application <https://forms.gle/Jx9CniuwEcLrEYPJ7>`__
 3. Join an introductory call with the Meetups and Community Coordinator
 4. Onboard to to Meetup.com, or to a similarly agreed community platform, and start organizing events!
 
