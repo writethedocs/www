@@ -33,7 +33,7 @@ If you are interested in volunteering with an established meetup group, fill out
 What's in it for you?
 ^^^^^^^^^^^^^^^^^^^^^
 
-Community organizers have access to:
+Besides the support of the WTD organization and networking opportunities that organizing local events provide, community organizers have access to:
 
 - Discounts for conference tickets
 - Organizer-only Slack channel
