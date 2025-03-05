@@ -41,7 +41,7 @@ Besides the support of the WTD organization and networking opportunities that or
 - (Coming soon) Community Organizer office hour hosted by the Meetups and Community Coordinator
 - Templates
 
-What's expected
+What does the community organizer role include
 ^^^^^^^^^^^^^^^
 
 Write the Docs Community Organizers plan, schedule, and run a minimum of four meetups per year for their groups. Our expectation is that you will run the group in compliance with our code of conduct and that you will act in the best interest of the group.
