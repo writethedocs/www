@@ -18,7 +18,7 @@ Write the Docs brings together documentarians and tech enthusiasts through our g
 Our meetup groups and community events are welcoming and inclusive spaces for you to learn, connect, and grow in your journey as a documentarian.
 
 
-The path to being an organizer
+How to become a community organizer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 All of our organizers are volunteers local to the area, or time zone they serve.
