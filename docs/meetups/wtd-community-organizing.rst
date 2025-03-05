@@ -26,7 +26,7 @@ All of our organizers are volunteers local to the area or time zone that they se
 1. Determine if you are interested and have the capacity for this role
 2. Complete the volunteer application
 3. Join an introductory call with the Meetups and Community Coordinator
-4. Onboard to to Meetup, or similarly agreed community platform, and start organizing events!
+4. Onboard to to Meetup.com, or to a similarly agreed community platform, and start organizing events!
 
 If you are interested in volunteering with an established meetup group, fill out the `volunteer form <https://forms.gle/DG8FagKdNgAFtEb47>`__ instead. You will follow a similar process that includes an introduction to that particular organizer team.
 
