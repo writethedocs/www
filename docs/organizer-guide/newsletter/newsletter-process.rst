@@ -103,28 +103,15 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
    From our sponsor
    ----------------
 
-   This month’s newsletter is sponsored by SPONSOR:
+   This month’s newsletter is sponsored by `SPONSOR NAME <SPONSOR LINK>`_.
 
-   .. raw:: html
+   .. image:: /_static/img/sponsors/SPONSOR.png
+     :align: center
+     :width: 50%
+     :target: SPONSOR LINK
+     :alt: SPONSOR NAME logo
 
-       <hr>
-       <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
-         <tbody>
-           <tr>
-             <td width="75%">
-                 <p>
-                 CONTENT
-                 </p>
-             </td>
-             <td width="25%">
-               <a href="https://www.LINK.COM">
-                 <img style="margin-left: 15px;" alt="SPONSOR" src="/_static/img/sponsors/rtd.png">
-               </a>
-             </td>
-           </tr>
-         </tbody>
-       </table>
-       <hr>
+   SPONSOR COPY
 
    *Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
 
