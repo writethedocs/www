@@ -29,7 +29,7 @@ Others noted that they rely on vocal tone and body language when communicating i
 
 Is it safe or proper to express one’s personality, sense of humor, and personal, non-work opinions at work? Some have a “what you see [or read] is what you get” attitude. Some indicate that they are more conscious of word choice and limit personal sharing when interacting at work -- unless they’re with work friends.
 
-For those people who primarily work online, some expressed concerns about too many text messages and notifications or excessive use of emojis. They caution others to be sensitive to over texting: writing too much or too often. 
+For those people who primarily work online, some expressed concerns about too many text messages and notifications or excessive use of emojis. They caution others to be sensitive to over-texting: writing too much or too often. 
 
 See more Write the Docs resources about `working across roles </topics/#working-across-roles>`__.
 
@@ -37,7 +37,7 @@ See more Write the Docs resources about `working across roles </topics/#working-
 Contending with unresponsive stakeholders
 -----------------------------------------
 
-When stakeholders like subject matter experts (SMEs) don't provide feedback, it can be difficult or impossible to stick to project timelines and meet your goals. To encourage accountability on docs projects, consider a policy that directly addresses what will happen when you can't get feedback form stakeholders.
+When stakeholders like subject matter experts (SMEs) don't provide feedback, it can be difficult or impossible to stick to project timelines and meet your goals. To encourage accountability on docs projects, consider a policy that directly addresses what will happen when you can't get feedback from stakeholders.
 
 Establishing a policy that specifies timelines for feedback can work well. The policy might be that after a certain number of unsuccessful attempts to obtain feedback, a project is moved to the backlog until the next planning cycle. For time-sensitive docs that can't languish in the backlog, the policy might be that the docs will be published as-is after a certain number of requests for feedback go unanswered.
 
@@ -57,7 +57,7 @@ Effective meetings are essential for keeping documentation teams aligned, engage
 
   - Keep a regular meeting schedule to foster team connection, particularly in remote environments.
   - Use meetings to check in, share updates, and reinforce team rapport.
-  - Even if there are no pressing topics, use the time for casual catch-ups or knowledge-sharing.
+  - Even if there are no pressing topics, use the time for casual catch-ups or knowledge sharing.
 
 - Introduce special topics and deep dives.
 
@@ -90,7 +90,7 @@ Where to keep content for reuse in docs-as-code
 
 A recent question about `#docs-as-code <https://writethedocs.slack.com/archives/C72NZ18FR>`__ focused on whether to store content that would be available for reuse (through `transclusion <https://en.wikipedia.org/wiki/Transclusion>`__) together with the rest of your content (colocation) or in a separate directory (such as `_partials`). The asker felt strongly that a separate location was best, but was getting some pushback that developers not focused on writing would prefer colocation.
 
-The arguments for a separate location included a greater sense of order, relief from fear that the snippets to include would be built as complete pages, and the use of import aliases to not have to worry about relative paths. One person offered the analogy of utility functions in code, which almost no one would advocate for colocating with code if they're reused in various files.
+The arguments for a separate location included a greater sense of order, relief from fear that the snippets to include would be built as complete pages, and not having to worry about relative paths through the use of import aliases. One person offered the analogy of utility functions in code, which almost no one would advocate for colocating with code if they're reused in various files.
 
 Not everyone immediately jumped in to support this as the right way to do things. Some pointed to colocation being more convenient in the short term. Others noted the need to consider that there is no single right way to approach any project like this.
 
@@ -131,7 +131,7 @@ Featured job posts
 Write the Docs resources
 ------------------------
 
-Write the Docs offers lots of valuable resources related to documentation. See all of the Write the Docs `learning resources </about/learning-resources/>`__. To discuss any of these ideas or others related to documentation, join the conversation in the `Write the Docs Slack community </slack/>` in one of the many `channels </slack/#channel-guide>`__.
+Write the Docs offers lots of valuable resources related to documentation. See all of the Write the Docs `learning resources </about/learning-resources/>`__. To discuss any of these ideas or others related to documentation, join the conversation in the `Write the Docs Slack community </slack/>`_ in one of the many `channels </slack/#channel-guide>`__.
 
 ----------------
 Events coming up

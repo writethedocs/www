@@ -769,7 +769,7 @@ Working with other roles
 
 Including product managers, higher-ups, etc.
 
-- |:newspaper:| `Contending with unresponsive stakeholders¶ </blog/newsletter-march-2025/#contending-with-unresponsive-stakeholders>`__
+- |:newspaper:| `Contending with unresponsive stakeholders </blog/newsletter-march-2025/#contending-with-unresponsive-stakeholders>`__
 - |:newspaper:| `How to make your work as a documentarian shine: Beyond "just writing docs" </blog/newsletter-february-2025/#how-to-make-your-work-as-a-documentarian-shine-beyond-just-writing-docs>`__
 - |:newspaper:| `Dealing with difficult-to-understand drafts </blog/newsletter-september-2024/#dealing-with-difficult-to-understand-drafts>`__
 - |:newspaper:| `Helpful Questions for Gathering Information </blog/newsletter-december-2023/#helpful-questions-for-gathering-information>`__
