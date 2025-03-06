@@ -520,7 +520,7 @@ Doc tools
 Docs-as-code
 ~~~~~~~~~~~~
 
-- |:newspaper:| `Where to keep content for reuse in docs-as-code </blog/nnewsletter-march-2025/#where-to-keep-content-for-reuse-in-docs-as-code>`__
+- |:newspaper:| `Where to keep content for reuse in docs-as-code </blog/newsletter-march-2025/#where-to-keep-content-for-reuse-in-docs-as-code>`__
 - |:newspaper:| `Dealing with images and other assets in docs-as-code </blog/newsletter-november-2024/#dealing-with-images-and-other-assets-in-docs-as-code>`__
 - |:newspaper:| `Is Docs-as-Code Worth It? </blog/newsletter-may-2024/#is-docs-as-code-worth-it>`__
 - |:newspaper:| `Drafting Docs with Code Changes </blog/newsletter-april-2024/#drafting-docs-with-code-changes>`__
