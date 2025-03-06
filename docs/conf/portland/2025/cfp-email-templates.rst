@@ -118,7 +118,7 @@ Subject:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Subject:
-   WTD {{city}} {{year}} -- speaker logistics and schedule
+   WTD {{city}} {{year}} -- speaker logistics
 
 ::
 
@@ -126,13 +126,13 @@ Subject:
 
    Just wanted to drop you all a quick note covering some logistics.
 
-   ○  I've added some questions to our [CFP tool (Pretalx)]({{cfp.url}}) about your pronouns, interesting facts, name pronunciation, and Slack username. Please log in at {{cfp.url}} and answer those.
+   ○  First up, if you wanted a mentor, all of those intros have been sent out. Check your inboxes and spam folders and start talking to the good folks who've agreed to support you in your preparation.
 
-   ○ Private speaker Slack channel! If you're not on the Slack already, [join the WTD Slack](https://join.slack.com/t/writethedocs/shared_invite/zt-1qvx3xd9z-jOX_0QZXidaAESji2miYXQ). Once you're signed up, or if you're already on there, ping me @plaindocs so I can add you to the private speaker channel. It contains many of our past speakers, who will be happy to offer advice or answer questions.
+   ○ Private speaker Slack channel! If you're not on the Slack already, [join the WTD Slack](https://join.slack.com/t/writethedocs/shared_invite/zt-2vbvjxiiv-ZUWUdIuimXQ5Q9q_WDPaQw). Once you're signed up, or if you're already on there, ping me @plaindocs so I can add you to the private speaker channel. It contains many of our past speakers, who will be happy to offer advice or answer questions.
 
-   ○ We've got a [provisional schedule]({{cfp.preview}}) up, we're still tweaking a couple of things but it's mostly accurate. If you can't make your slot for any reason do let me know and I'll adjust. Note that we're trialing moderated Q&A in-person this year. We're hoping to publish the schedule on **Friday**.
+   ○ We're working on a provisional schedule, taking into account all requested preferences, I hope to be able to share that with you next week.
 
-   ○ While you're working on your talks, we'd love for you to check out our updated [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) page! It's got all sorts of details on talk format, tech specs, content guidelines, etc.
+   ○ While you're working on your talks, we'd love for you to check out our [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) page! It's got all sorts of details on talk format, tech specs, content guidelines, etc.
 
    Also, if you're ever in doubt about whether something you're writing would be appropriate or not, we'd like to refer you to our conference Code of Conduct, which asks that you refrain from any sexually suggestive or harassing language of any kind. Check it out in full, drop me a line if you have questions: http://www.writethedocs.org/code-of-conduct/
 
