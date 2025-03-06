@@ -102,19 +102,19 @@ See more Write the Docs resources about `Where to keep content for reuse in docs
 From our sponsor
 ----------------
 
-This month’s newsletter is sponsored by `Mintlify <https://mintlify.com/>`_.
+This month’s newsletter is sponsored by `Mintlify <https://mintlify.link/ZZO1Kan>`_.
 
 .. image:: /_static/img/sponsors/mintlify.png
   :align: center
   :width: 50%
-  :target: https://mintlify.com/
+  :target: https://mintlify.link/ZZO1Kan
   :alt: Mintlify logo
 
-Mintlify helps you create beautiful documentation that converts users.
+`Mintlify <https://mintlify.link/ZZO1Kan>`__ helps you create beautiful documentation that converts users.
 
 Documentation is as important as the product, so we help your docs look polished and stay up to date without having to bug your engineers. From AI-powered writing assistance to Git syncing for better collaboration, Mintlify takes care of the technical details so you can focus on writing quality content.
 
-We’re passionate about up-leveling docs across the board, so we created a technical writing guide for non-writers—give it a read and let us know if you have any suggestions!
+We’re passionate about up-leveling docs across the board, so we created a `technical writing guide <https://mintlify.link/4ayAHSQ>`__ for non-writers—give it a read and let us know if you have any suggestions!
 
 *Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
 
