@@ -103,7 +103,7 @@ While we've open sourced our enterprise [documentation repository](https://githu
 
 We love all types of contributions. Examples:
 
-- We have not copmleted our move towards "sentence case" in our headings
+- We have not completed our move towards "sentence case" in our headings
 - We are missing alternative text for a few of our screenshots
 
 Of course, if you know Git, we also would love your contributions. 
