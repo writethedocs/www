@@ -12,7 +12,7 @@ On the first day of the conference, Sunday, attendees are encouraged to bring an
 
 The primary goal is to bring interested individuals into the same room, sharing their passions and aspirations while collaborating to develop creative solutions to solve a problem or issue.
 
-If you have a project, we encourage you to submit it before the conference! This is a great way to build momentum and get other attendees excited to participate in your project. We’ll open project submissions in February/March. As usual, day-of projects are always welcome too - you'll have the option to sign up onsite and announce it during Writing Day.
+If you have a project, we encourage you to submit it before the conference! This is a great way to build momentum and get other attendees excited to participate in your project. We’ll open project submissions in March. As usual, day-of projects are always welcome too - you'll have the option to sign up onsite and announce it during Writing Day.
 
 ![Writing Day](/_static/conf/images/pics/2025/writing-day.jpg)
 
@@ -34,6 +34,12 @@ If you have a project, we encourage you to submit it before the conference! This
 - The Documentarian Manifesto
 
 Find specific examples on the [Portland Writing Day 2023 project list](https://www.writethedocs.org/conf/portland/2023/writing-day/#project-listing).
+
+<div class="announcement" style="background-color:white;">
+    <div class="uk-container">
+    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="https://forms.gle/aCsZqb6peUUtxHJ49">Submit your Writing Day project</a>
+    </div>
+</div>
 
 ## Schedule
 
@@ -67,6 +73,12 @@ Come with the following tools:
 
 Leading a project at Writing Day is a wonderful opportunity to engage with documentarians from a variety of backgrounds, experience, and expertise. Their collective wealth of experience can upgrade your documentation and create a more inclusive project. This empowers all of us to work together to create opportunities for each other and bigger, better communities.
 
+<div class="announcement" style="background-color:white;">
+    <div class="uk-container">
+    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="https://forms.gle/aCsZqb6peUUtxHJ49">Submit your Writing Day project</a>
+    </div>
+</div>
+
 **Tips to create and lead a new project effectively:**
 
 - **Provide a project overview with a specific focus or goals:** Your overview is a 2 minute pitch that describes your project and clearly defines a focus area or goal.
@@ -75,7 +87,7 @@ Leading a project at Writing Day is a wonderful opportunity to engage with docum
 - **Clear onboarding:** Ensure your ReadMe, contribution guidelines, or onboarding instructions are accurate and up to date.
 - **Project experts:** We recommend having 1-2 project experts on your project. We love our developer advocates, community managers, and subject matter experts! You’re welcome to ask for virtual reinforcements from your community as well.
 - **Flexibility and understanding:** Reminder that attendees may need additional info to be successful in onboarding to your project.
-- **Submit your Writing Day before the conference:** Projects submitted by **April 17, 2025** are featured in our pre-conference blog post and email. Many attendees have shared that their curiosity for specific projects motivated them to attend. Project submissions open in February/March.
+- **Submit your Writing Day before the conference:** Projects submitted by **April 23, 2025** are featured in our pre-conference blog post and email. Many attendees have shared that their curiosity for specific projects motivated them to attend. Project submissions open in February/March.
 
 These are suggestions and not requirements. It is perfectly valid to show up to Writing Day, tell us about your project day of, and ask for attendee contribution! It’s been done before and it will be done again.
 
@@ -92,6 +104,7 @@ Writing Day is the perfect opportunity to participate and learn about new projec
 - **View the project list.** Check out the projects that have been submitted in advance. Keep in mind that some attendees choose to announce their projects during Writing Day itself, so these projects might not appear on the list in advance.
 
 **We're excited to have another wonderful Writing Day!**
+
 
 ## Project List
 
@@ -111,3 +124,4 @@ Of course, if you know Git, we also would love your contributions.
 If you're a technical guru, our Good first issues give you the chance to test our how-tos and tutorials! If you remember Manny Silva's [Docs as Tests](https://www.docsastests.com/), several of our Good first issues include testable procedures.
 
 And we hope to have interesting swag!
+=======
