@@ -122,7 +122,7 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
 
    `JOB TITLE <JOB LINK>`__, COMPANY - *LOCATION*
 
-   *Interested in promoting your open position? See our `job posting sponsorship </sponsorship/jobs/>`__ for more details.*
+   *Interested in promoting your open position? See our* `job posting sponsorship </sponsorship/jobs/>`__ *for more details.*
  
    ------------------------
    Write the Docs resources
