@@ -124,29 +124,56 @@ Employees combined: 714 (88.4%)
 Contractors combined: 94 (11.6%)
 Combined totals: 808 sets of salary/rate data
 
+
+Working vs not working: employees
+working: 669 (97.5%)
+not-working: 17 (2.5%)
+
+Working vs not working: contractors
+working: 59 (89.4%)
+not-working: 7 (10.6%)
+
+
+working vs not working: employee-contractors
+as employee
+- working: 24 (85.7%)
+- not working: 4 (14.3%)
+
+as contractor
+- working: 17 (60.7%)
+- not working: 11 (39.3%)
+
+working both: 
+not-working both:
+working employee not working contractor:
+working contractor not working employee: 
+
+
+
+
 .. table:: Basis of employment (2019-2024)
    :widths: 40 10 10 20 10 10
    :name: tbl-2024-basis-of-employment-history
 
-   +-------------+-------------+-+--------------+
-   | Survey year | Employees   | | Contractors  |
-   +=============+=====+=======+=+======+=======+
-   |             | |N| | |%|   | | |N|  |  |%|  |
-   +-------------+-----+-------+-+------+-------+
-   | 2019        | 652 | 93.9% | |   42 |  6.1% |
-   +-------------+-----+-------+-+------+-------+
-   | 2020        | 748 | 92.9% | |   57 |  7.1% |
-   +-------------+-----+-------+-+------+-------+
-   | 2021        | 887 | 92.5% | |   72 |  7.5% |
-   +-------------+-----+-------+-+------+-------+
-   | 2022        | 491 | 93.5% | |   34 |  6.5% |
-   +-------------+-----+-------+-+------+-------+
-   | 2023        | 938 | 92.2% | |   79 |  7.8% |
-   +-------------+-----+-------+-+------+-------+
-   | 2024 [#]_   | 714 | 88.4% | |   94 | 11.6% |
-   +-------------+-----+-------+-+------+-------+
+   +-------------+-----------------+-+------------------+
+   | Survey year | Employees       | | Contractors      |
+   +=============+=========+=======+=+==========+=======+
+   |             | |N|     | |%|   | | |N|      |  |%|  |
+   +-------------+---------+-------+-+----------+-------+
+   | 2019        | 652     | 93.9% | |   42     |  6.1% |
+   +-------------+---------+-------+-+----------+-------+
+   | 2020        | 748     | 92.9% | |   57     |  7.1% |
+   +-------------+---------+-------+-+----------+-------+
+   | 2021        | 887     | 92.5% | |   72     |  7.5% |
+   +-------------+---------+-------+-+----------+-------+
+   | 2022        | 491     | 93.5% | |   34     |  6.5% |
+   +-------------+---------+-------+-+----------+-------+
+   | 2023        | 938     | 92.2% | |   79     |  7.8% |
+   +-------------+---------+-------+-+----------+-------+
+   | 2024 [*]_   | 714     | 88.4% | |   94     | 11.6% |
+   +-------------+---------+-------+-+----------+-------+
 
-.. [#] Includes data from respondents who worked as both employee and contractor 
+.. [*] Totals include 66 respondents who worked as both employee and contractor 
 
 Hours worked 
 ------------
@@ -172,36 +199,34 @@ Hours worked
 
 As in previous years, the majority (96%) of respondents worked traditional "full-time" hours each week: 
 
-- 69.7% worked between 31 and 40 hours
-- 24.5% worked between 41 and 50 hours
-- 1.9% worked between 51 and 60 hours 
+- 68.2% worked between 31 and 40 hours
+- 24.9% worked between 41 and 50 hours
+- 2.2% worked between 51 and 60 hours 
 
-Only one respondent worked more than 60 hours - this person indicated that they put in 95 hours per week.
+For the first time this year, no respondents reported working more than 60 hours.
 
 Of those that worked fewer hours: 
 
-- 2.2% worked 21 to 30 hours each week
-- 1.7% worked 1 to 20 hours 
+- 2.7% worked 21 to 30 hours each week
+- 2.1% worked 1 to 20 hours 
 
-.. table:: Weekly hours worked
+.. table:: Weekly hours worked (2024)
    :widths: 70 15 15
-   :name: tbl-2023-weekly-hours-worked
-   :class: std3col
+   :name: tbl-2024-weekly-hours-worked
+   :class: std3col sortable
 
    +--------------+-----+-------+
    | Hours worked | |N| | |%|   |
    +==============+=====+=======+
-   | 1-20 hours   |  17 | 1.7%  |
+   | 31-40        | 532 | 68.2% |
    +--------------+-----+-------+
-   | 21-30 hours  |  22 | 2.2%  |
+   | 41-50        | 194 | 24.9% |
    +--------------+-----+-------+
-   | 31-40 hours  | 709 | 69.7% |
+   | 21-30        | 21  | 2.7%  |
    +--------------+-----+-------+
-   | 41-50 hours  | 249 | 24.5% |
+   | 51-60        | 17  | 2.2%  |
    +--------------+-----+-------+
-   | 51-60 hours  |  19 | 1.9%  |
-   +--------------+-----+-------+
-   | 61+ hours    |   1 | 0.8%  |
+   | 1-20         | 16  | 2.1%  |
    +--------------+-----+-------+
 
 Job title

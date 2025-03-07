@@ -687,6 +687,7 @@ table:has(+ div.tbl-footnote) {
 a.footnote-reference.brackets {
 	vertical-align: super;
 	font-size: var(--font-size-0);
+	text-decoration: none;
 }
 
 table:has(a.footnote-reference.brackets) {
@@ -694,7 +695,23 @@ table:has(a.footnote-reference.brackets) {
 }
 
 dl.footnote.brackets {
-	/* TODO: style these */
+	margin-top: 0;
+	p, a {
+		font-size: var(--font-size-0) !important;
+	}
+	dt {
+		display: inline-block;
+		a {
+			text-decoration: none;
+		}
+	}
+	dd {
+		display: inline-block;
+		margin-inline-start: 10px;
+		a {
+			text-decoration: none;
+		}
+	}
 }
 
 
