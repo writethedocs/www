@@ -203,7 +203,7 @@ Subject:
 
    As we've done for the past few years we'll be live captioning all talks, and it makes the [captioners](https://www.youtube.com/watch?v=xFnM6vmvWaI) lives *much* easier if you can send in a copy of your slides, or even a word list of unusual words that you might use. We'll let you know where to send these a few weeks before the conference.
 
-   Lastly, if you'd like to share your talk with your social networks, we've got a page to [help with that](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-media/).
+   Lastly, if you'd like to share your talk with your social networks, we've got a page to [help with that](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-media-kit/).
 
    And I think that is it! I'm excited to see this taking shape and excited to see all of your hard work on stage!
 
