@@ -24,7 +24,7 @@ Join us for the hike again this year
 
 The hike will be in the amazing Forest Park, the largest urban forested park in the country. It is conveniently located in Northwest Portland, and has a beautiful walk along a creek.
 
-We'll be starting at Lower Macleay Park on Saturday, **{{ hike.date }}** at 2 PM. Please register a `free hike ticket <https://ti.to/writethedocs/write-the-docs-portland-2024/with/hike-ticket>`_ so we can contact you with any last minute weather and logistics information.
+We'll be starting at Lower Macleay Park on Saturday, **{{ hike.date }}** at 2 PM. Please register a `free hike ticket <https://ti.to/writethedocs/write-the-docs-{{city}}-{{year}}/with/hike-ticket>`_ so we can contact you with any last minute weather and logistics information.
 
 Attending virtually? Heading outside on the Saturday is a great way to relax and prepare to make the most of the conference.
 
@@ -40,7 +40,7 @@ Start thinking about Writing Day
 - Lead a project: Attendees bring ideas, content, or OSS projects to work on with contributors.
 - Contribute to a project: Attendees participate in various content projects.
 
-If you'd like us to include your project on the Writing Day page `submit your project here <TODO>`_ or drop us an email at `portland@writethedocs.org <mailto:portland@writethedocs.org>`_. You are also welcome to show up on Sunday ready to introduce your project!
+If you'd like us to include your project on the Writing Day page `submit your project here <{{writing_day.url}}>`_ or drop us an email at `portland@writethedocs.org <mailto:portland@writethedocs.org>`_. You are also welcome to show up on Sunday ready to introduce your project!
 
 T-shirts are now available
 --------------------------
@@ -60,7 +60,7 @@ The main events that you can participate in Monday & Tuesday are:
 * **Unconference.** We'll be running the `Unconference <https://www.writethedocs.org/conf/portland/{{year}}/unconference/>`_ as our formal "second track" at the conference. This is a place to schedule discussions about a specific topic, so you can find other attendees who care about the same niche topics that you love. Want to chat with like-minded folks about oxford commas or a specific docs as code tool? This is the place.
 * **Social event**. On Monday night we'll be hosting a social event. This is a great chance to get to know more folks in the community and have a drink or two on us. Non-alcoholic options will be very available, as well as some snacks.
 
-View our `Attendee Guide <https://www.writethedocs.org/conf/portland/2024/attendee-guide/>`_ for a comprehensive overview of how to participate in the conference.
+View our `Attendee Guide <https://www.writethedocs.org/conf/{{city}}/{{year}}/attendee-guide/>`_ for a comprehensive overview of how to participate in the conference.
 
 The `Schedule page <https://www.writethedocs.org/conf/portland/{{year}}/schedule/>`_ has the latest and most complete information about all our events.
 This is where we will also update any changes/cancellations if they should occur.

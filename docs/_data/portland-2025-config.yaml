@@ -150,7 +150,7 @@ date: # how do we handle these? human readable would be nice.
 
 about:
   attendees: 400
-  social_venue:  TBD
+  social_venue:  Jupiter NEXT
   venue: Revolution Hall
   photos: TBD
   mainroom: Main stage
@@ -161,7 +161,7 @@ about:
 cfp:
   url: "https://pretalx.com/wtd-portland-2025/cfp" # Open October 6 (Mon) -> 9 weeks to submit
   ends: "January 21, 2025"                         # (Mon) 1 week, to review. It'll take a little longer to announce
-  notification: "February 4, 2025"                # (Mon) 8 weeks to write and prepare
+  notification: "February 4, 2025"                 # (Mon) 8 weeks to write and prepare
   slides_by: "April 28, 2025"                      # (Mon) 1 week before
   preview: "TODO"                                  # Preview URL TODO
 
@@ -170,7 +170,7 @@ unconf:
   date: "All day, Monday, May 5 and Tuesday, May 6"
 
 writing_day:
-  url: ""
+  url: "https://docs.google.com/forms/u/1/d/e/1FAIpQLSeHMZ1uXTfnT0HMm-KfsgxYV1w3tmS7bMPtBx4H9cktJpSrdg/viewform?usp=dialog"
   date: Sunday, May 4, 9 AM - 5 PM
 
 hike:
