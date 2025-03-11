@@ -51,7 +51,7 @@ Documentation Salary Survey 2024 Results
 Introduction
 ============ 
 
-[intro]
+[779 respondents in 2024]
 
 In a hurry? Jump straight to `Median salary`_ or `Median hourly rate`_.
 
@@ -59,7 +59,7 @@ In a hurry? Jump straight to `Median salary`_ or `Median hourly rate`_.
 
    .. rubric:: |icon-info| Note on independent contractors, freelancers and the self-employed
 
-   [contractors note]
+   In this year’s survey, we asked those who filled out the survey as independent contractors, freelancers or self-employed people what term they used to describe their type of employment. More than half (63.8%) preferred the term “contractor”, with only 18.1% using “freelancer” and 10.6% using “self-employed”. In this report, we’ll use the term “contractors” to refer to this entire group.
 
 Feedback
 --------
@@ -112,44 +112,9 @@ Basis of employment
 
    </details>
 
-As in previous surveys, employees made up the majority of respondents - 686 (87.9%). 
+As in previous surveys, employees made up the majority of respondents (686, or 87.9%). Contractors made up 8.5% (66 individuals).
 
-This year, for the first time, we included an option for respondents who had worked in the past year as both employee and contractor. 28 respondents (3.6%) chose this option. Combined with the 66 respondents (8.5%) who only worked as contractors, this means that in 2024 we collected more contractor rate data than in any previous year, from a total of 94 individuals. 
-
-Contractors only: 66 (8.5%)
-Employees only: 686 (87.9%)
-Both: 28 (3.6%)
-
-Employees combined: 714 (88.4%)
-Contractors combined: 94 (11.6%)
-Combined totals: 808 sets of salary/rate data
-
-
-Working vs not working: employees
-working: 669 (97.5%)
-not-working: 17 (2.5%)
-
-Working vs not working: contractors
-working: 59 (89.4%)
-not-working: 7 (10.6%)
-
-
-working vs not working: employee-contractors
-as employee
-- working: 24 (85.7%)
-- not working: 4 (14.3%)
-
-as contractor
-- working: 17 (60.7%)
-- not working: 11 (39.3%)
-
-working both: 
-not-working both:
-working employee not working contractor:
-working contractor not working employee: 
-
-
-
+For the first time this year, we included a third option - for respondents who had worked in the past year as both employee and contractor. 28 respondents (3.6%) chose this option, and provided both salary and contract rate data. This means that in total there are 714 employee responses and 94 contractor responses.
 
 .. table:: Basis of employment (2019-2024)
    :widths: 40 10 10 20 10 10
@@ -160,20 +125,24 @@ working contractor not working employee:
    +=============+=========+=======+=+==========+=======+
    |             | |N|     | |%|   | | |N|      |  |%|  |
    +-------------+---------+-------+-+----------+-------+
-   | 2019        | 652     | 93.9% | |   42     |  6.1% |
+   | 2019        | 652     | 93.9% | | 42       |  6.1% |
    +-------------+---------+-------+-+----------+-------+
-   | 2020        | 748     | 92.9% | |   57     |  7.1% |
+   | 2020        | 748     | 92.9% | | 57       |  7.1% |
    +-------------+---------+-------+-+----------+-------+
-   | 2021        | 887     | 92.5% | |   72     |  7.5% |
+   | 2021        | 887     | 92.5% | | 72       |  7.5% |
    +-------------+---------+-------+-+----------+-------+
-   | 2022        | 491     | 93.5% | |   34     |  6.5% |
+   | 2022        | 491     | 93.5% | | 34       |  6.5% |
    +-------------+---------+-------+-+----------+-------+
-   | 2023        | 938     | 92.2% | |   79     |  7.8% |
+   | 2023        | 938     | 92.2% | | 79       |  7.8% |
    +-------------+---------+-------+-+----------+-------+
-   | 2024 [*]_   | 714     | 88.4% | |   94     | 11.6% |
+   | 2024 [*]_   | 714     | 88.4% | | 94       | 11.6% |
    +-------------+---------+-------+-+----------+-------+
 
 .. [*] Totals include 66 respondents who worked as both employee and contractor 
+
+As in previous years, we encouraged those currently not working to respond as though still at their previous job/contract, provided they had worked at least some of the past year. 16 employees (2.3%) and 7 contractors (10.6%) filled out the survey on this basis.
+
+Of the 28 respondents who had worked as both employee and contractor in the past year, 15 were currently working in both capacities. 9 were currently working as employee but not contractor, 2 were currently working as contractor but not as employee, and another 2 were not currently working in either capacity. 
 
 Hours worked 
 ------------
@@ -205,7 +174,7 @@ As in previous years, the majority (96%) of respondents worked traditional "full
 
 For the first time this year, no respondents reported working more than 60 hours.
 
-Of those that worked fewer hours: 
+4.8% of respondents worked fewer hours: 
 
 - 2.7% worked 21 to 30 hours each week
 - 2.1% worked 1 to 20 hours 
