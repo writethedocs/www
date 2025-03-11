@@ -119,7 +119,7 @@ We love all types of contributions. Examples:
 - We have not completed our move towards "sentence case" in our headings
 - We are missing alternative text for a few of our screenshots
 
-Of course, if you know Git, we also would love your contributions. 
+If you've never used git or if you're already an expert, we welcome your contributions. 
 
 If you're a technical expert, our Good first issues give you the chance to test our how-tos and tutorials! If you remember Manny Silva's [Docs as Tests](https://www.docsastests.com/), several of our Good first issues include testable procedures.
 
