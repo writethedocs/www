@@ -104,3 +104,24 @@ Writing Day is the perfect opportunity to participate and learn about new projec
 - **View the project list.** Check out the projects that have been submitted in advance. Keep in mind that some attendees choose to announce their projects during Writing Day itself, so these projects might not appear on the list in advance.
 
 **We're excited to have another wonderful Writing Day!**
+
+
+## Project List
+
+### Enhance Your Portfolio! Contribute to an Open Source Repository
+
+Project organizer: Mike Jang, he/him.
+
+While we've open sourced our enterprise [documentation repository](https://github.com/nginx/documentation), we've done something different. We've set up [Good first issues](https://github.com/nginx/documentation/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22) that do not require Git knowledge.
+
+We love all types of contributions. Examples:
+
+- We have not completed our move towards "sentence case" in our headings
+- We are missing alternative text for a few of our screenshots
+
+If you've never used git or if you're already an expert, we welcome your contributions. 
+
+If you're a technical expert, our Good first issues give you the chance to test our how-tos and tutorials! If you remember Manny Silva's [Docs as Tests](https://www.docsastests.com/), several of our Good first issues include testable procedures.
+
+And we hope to have interesting swag!
+=======
