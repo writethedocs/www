@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 :og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
-.. post:: Mar 14, 2025
+.. post:: Mar 13, 2025
    :tags: {{shortcode}}-{{year}}, tickets, speakers
 
 Announcing Docs in Discussion: Speaker Series
