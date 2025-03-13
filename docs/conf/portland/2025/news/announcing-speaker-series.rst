@@ -18,7 +18,7 @@ These discussions, hosted by `Joe Meersman <https://www.linkedin.com/in/meersman
 - **March 24, 12:00-12:45 PM:** `Manny Silva <https://www.writethedocs.org/conf/portland/2025/speakers/#speaker-manny-silva-docs-as-tests-a-strategy-for-resilient-docs-manny-silva>`__ and `Alex Garnett <https://www.writethedocs.org/conf/portland/2025/speakers/#speaker-alex-garnett-docs-ai-tooling-is-better-and-better-for-us-than-you-think-alex-garnett>`__
 - **April 1, 12:00-12:30 PM:** `Jodie Landes <https://www.writethedocs.org/conf/portland/2025/speakers/#speaker-jodie-landes-unifying-documentation-a-tale-of-two-security-giants-jodie-landes>`__
 
-Register for your free ticket so you can tune in to all three sessions!
+Register for your free ticket so you can tune in to all three sessions! We'll email you a Zoom link after you register.
 
 .. raw:: html
 
