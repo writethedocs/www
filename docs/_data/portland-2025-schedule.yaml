@@ -1,8 +1,8 @@
 outing:
   - time: '13:45'
-    title: Arrive at trailhead
+    title: Arrive at <b>Lower Macleay Park or Macleay Park Entrance</b>
   - time: '14:00'
-    title: Hike starts
+    title: '<a href="../hike">Hike starts</a>'
   - time: '17:00'
     title: Hike ends - end time approximate
 
@@ -14,17 +14,17 @@ writing_day:
   - time: '9:00'
     title: Morning introduction - Introduction to Sprints & Project Introductions
   - time: '9:30'
-    title: Team up and start working
+    title: 'Team up and <a href="../writing-day">start writing</a>'
   - time: '11:50'
-    title: '<i>Welcome Wagon conference introduction and venue tour</i>'
+    title: '<a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a>'
   - time: '12:00'
     title: Lunch Break
   - time: '13:30'
     title: '<i>Welcome Wagon conference introduction and venue tour</i>'
   - time: '13:45'
-    title: 'Afternoon Session - all day groups reconvene and new group introductions'
+    title: 'Afternoon Session - <a href="../writing-day">all day groups reconvene and new group introductions</a>'
   - time: '16:30'
-    title: '<i>Welcome Wagon conference introduction and venue tour</i>'
+    title: '<a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a>'
   - time: '17:00'
     title: '<b>End of Writing Day</b>'
   - time: '17:00'
@@ -43,7 +43,7 @@ talks_day1:
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:00'
-    title: "<b>Unconference starts</b>"
+    title: "<b><a href='../unconference'>Unconference</a> starts</b>"
   - duration: '0:30'
     slug: quest-for-the-holy-grail-turning-user-feedback-into-meaningful-change-rachel-rigdon
   - duration: '0:10'
@@ -106,7 +106,7 @@ talks_day2:
   - duration: '0:05'
     title: "Welcome address"
   - duration: '0:00'
-    title: "<b>Unconference Starts</b>"
+    title: "<b><a href='../unconference'>Unconference</a> Starts</b>"
   - duration: '0:30'
     slug: docs-ai-tooling-is-better-and-better-for-us-than-you-think-alex-garnett
   - duration: '0:10'
