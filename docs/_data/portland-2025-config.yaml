@@ -206,9 +206,6 @@ sponsors:
     - name: not-boring-tech-writer
       link: https://thenotboringtechwriter.com/?ref=writethedocs
       brand: The Not-Boring Tech Writer, from KnowledgeOwl
-    - name: clickhelp 
-      link: https://clickhelp.com/?utm_source=conference&utm_medium=wtd&utm_campaign=portland_2025
-      brand: ClickHelp
     - name: readthedocs
       link: https://about.readthedocs.com/?ref=writethedocs
       brand: Read the Docs
@@ -216,6 +213,9 @@ sponsors:
     - name: helpdocs
       link: https://www.helpdocs.io/?utm_source=writethedocs&utm_medium=sponsor&utm_campaign=wtdp25
       brand: HelpDocs
+    - name: clickhelp 
+      link: https://clickhelp.com/?utm_source=conference&utm_medium=wtd&utm_campaign=portland_2025
+      brand: ClickHelp
     
   first:
   in_kind:
