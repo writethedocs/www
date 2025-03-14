@@ -34,11 +34,9 @@ writing_day:
 
 talks_day1:
   - time: '8:00'
-    title: Doors open
+    title: Doors and Sponsor Booths open
   - time: '8:15'
     title: '<i>Welcome Wagon conference introduction and venue tour</i>'
-  - time: '8:30'
-    title: '<b>Sponsor booths open</b>'
   - time: '9:00'
     duration: '0:25'
     title: Write the Docs team - Conference introduction
@@ -96,18 +94,17 @@ talks_day1:
     title: '<b>Group Photo! Right after the Q&A ;-)</b>'
   - duration: '0:00'
     title: '<b>Conference day 1 ends</b>'
-  - time: '18:30'
+  - time: '19:00'
     title: "<b>Social Event</b>"
-  - time: '20:30'
+  - time: '21:00'
     title: "<b>Social Event Ends</b>"
 
 talks_day2:
   - time: '8:00'
-    title: Doors open
-    duration: '0:30'
-  - time: '8:30'
-    title: '<b>Sponsor booths open</b>'
-    duration: '0:30'
+    title: Doors and Sponsor Booths open
+    duration: '0:25'
+  - duration: '0:05'
+    title: "Welcome address"
   - duration: '0:00'
     title: "<b>Unconference Starts</b>"
   - duration: '0:30'
