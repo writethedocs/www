@@ -30,12 +30,12 @@ buttons:
     #   link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
-    # - text: See the Schedule!
-    #   link: /schedule
+    - text: See the Schedule!
+      link: /schedule
     - text: Buy a Ticket
       link: /tickets
-    - text: See the Speakers
-      link: /speakers
+    #- text: See the Speakers
+    #  link: /speakers
     # - text: Attendee Guide
     #   link: /attendee-guide
     # - text: Watch the Live Stream
@@ -140,7 +140,7 @@ date: # how do we handle these? human readable would be nice.
   day_four:
     event: Conference Day 2
     date: May 6
-    summary: And the conference goes on! More talks and unconference today, along with our Sponsor Expo!
+    summary: And the conference goes on! More talks and unconference today!
     dotw: Tuesday
     talk_time: 9am-4pm
     job_fair_time: 9am-12pm
@@ -150,7 +150,7 @@ date: # how do we handle these? human readable would be nice.
 
 about:
   attendees: 400
-  social_venue:  Jupiter NEXT
+  social_venue:  Jupiter NEXT, 9000 E Burnside St (2nd floor)
   venue: Revolution Hall
   photos: TBD
   mainroom: Main stage
@@ -213,7 +213,7 @@ sponsors:
     - name: helpdocs
       link: https://www.helpdocs.io/?utm_source=writethedocs&utm_medium=sponsor&utm_campaign=wtdp25
       brand: HelpDocs
-    
+
   first:
   in_kind:
 
