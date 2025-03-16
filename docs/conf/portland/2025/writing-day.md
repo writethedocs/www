@@ -131,7 +131,7 @@ Project organizer: Manny Silva, he/him.
 
 [Docs as Tests](https://www.docsastests.com/) and [Doc Detective](https://doc-detective.com/) are back at Writing Day and our goal is to test at least 10 docs sets! Does your project or product have a UI? APIs? SDKs? We can help you test them and keep your docs accurate.
 
-Docs as Tests is a strategy for keeping docs up-to-date by treating procedures and code snippets as testable assertions of product behavior. You have the docs, so let's get testing! By validating that documenation contents work as written, you can:
+Docs as Tests is a strategy for keeping docs up-to-date by treating procedures and code snippets as testable assertions of product behavior. You have the docs, so let's get testing! By validating that documentation contents work as written, you can:
 
 - Prevent broken docs
 - Ensure consistent UX between docs and products
