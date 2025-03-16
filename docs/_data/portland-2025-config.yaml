@@ -152,6 +152,7 @@ about:
   attendees: 400
   social_venue:  TBD
   venue: Revolution Hall
+  venue_address: Revolution Hall, 1300 SE Stark St, Portland, Oregon 97214
   photos: TBD
   mainroom: Main stage
   unconfroom: Library & Astoria room (1st floor)
@@ -161,8 +162,10 @@ about:
 cfp:
   url: "https://pretalx.com/wtd-portland-2025/cfp" # Open October 6 (Mon) -> 9 weeks to submit
   ends: "January 21, 2025"                         # (Mon) 1 week, to review. It'll take a little longer to announce
-  notification: "February 4, 2025"                # (Mon) 8 weeks to write and prepare
+  notification: "February 4, 2025"                 # (Mon) 8 weeks to write and prepare
+  speaker_tickets: April 04, 2025                  # Approx 4 weeks before
   slides_by: "April 28, 2025"                      # (Mon) 1 week before
+  slides_upload: https://drive.google.com/drive/u/1/folders/1OyQy4K3f6KACZuBaw6_3u-o9y5k-XjT1
   preview: "TODO"                                  # Preview URL TODO
 
 unconf:
@@ -213,10 +216,10 @@ sponsors:
     - name: helpdocs
       link: https://www.helpdocs.io/?utm_source=writethedocs&utm_medium=sponsor&utm_campaign=wtdp25
       brand: HelpDocs
-    - name: clickhelp 
+    - name: clickhelp
       link: https://clickhelp.com/?utm_source=conference&utm_medium=wtd&utm_campaign=portland_2025
       brand: ClickHelp
-    
+
   first:
   in_kind:
 
