@@ -123,5 +123,18 @@ If you've never used git or if you're already an expert, we welcome your contrib
 
 If you're a technical expert, our Good first issues give you the chance to test our how-tos and tutorials! If you remember Manny Silva's [Docs as Tests](https://www.docsastests.com/), several of our Good first issues include testable procedures.
 
-And we hope to have interesting swag!
-=======
+**And we hope to have interesting swag!**
+
+### Docs as Tests and Doc Detective: Help us test your docs!
+
+Project organizer: Manny Silva, he/him.
+
+[Docs as Tests](https://www.docsastests.com/) and [Doc Detective](https://doc-detective.com/) are back at Writing Day and our goal is to test at least 10 docs sets! Does your project or product have a UI? APIs? SDKs? We can help you test them and keep your docs accurate.
+
+Docs as Tests is a strategy for keeping docs up-to-date by treating procedures and code snippets as testable assertions of product behavior. You have the docs, so let's get testing! By validating that documenation contents work as written, you can:
+
+- Prevent broken docs
+- Ensure consistent UX between docs and products
+- Build user trust
+
+We want every writer to be confident in their docs. Come by our table, and we’ll help you set up Docs as Tests with whatever tools (like Doc Detective) or strategies (like unit testing code snippets) are appropriate. Establish a zero-trust relationship between your docs and product, catching bugs in both as you go.
