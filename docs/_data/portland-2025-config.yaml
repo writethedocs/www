@@ -79,6 +79,18 @@ tickets:
     price: $100
   virtual:
     price: $75
+  button: >
+    .. raw:: html
+
+      <p style="margin: 2em 0;">
+      <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
+      <tr>
+          <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
+            <a href="https://ti.to/writethedocs/write-the-docs-portland-2025/" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Get your ticket</a>
+          </td>
+      </tr>
+      </table>
+      </p>
 
 sponsorship:
   second_draft:
@@ -213,7 +225,7 @@ sponsors:
     - name: helpdocs
       link: https://www.helpdocs.io/?utm_source=writethedocs&utm_medium=sponsor&utm_campaign=wtdp25
       brand: HelpDocs
-    - name: clickhelp 
+    - name: clickhelp
       link: https://clickhelp.com/?utm_source=conference&utm_medium=wtd&utm_campaign=portland_2025
       brand: ClickHelp
   first:

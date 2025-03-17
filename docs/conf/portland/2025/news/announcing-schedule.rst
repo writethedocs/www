@@ -10,6 +10,8 @@ The {{city}} conference is just over six weeks away, and we're busy getting read
 
 You've already seen our list of :doc:`awesome speakers </conf/portland/{{year}}/speakers/>`; now we're announcing our full conference schedule so you know when they will be presenting!
 
+{{ tickets.button }}
+
 Speaker Schedule
 ----------------
 
