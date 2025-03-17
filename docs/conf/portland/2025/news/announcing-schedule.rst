@@ -17,8 +17,6 @@ The website is updated with the :doc:`schedule </conf/portland/{{year}}/schedule
 
 We'll continue to have a moderated Q&A session after each speaker. You'll have a chance to ask our speakers questions after the talk via our wonderful set of moderators. Virtual attendees can ask questions using the same QR code as folks attending locally.
 
-Now is a great time to buy your `tickets <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_.
-
 Virtual Conference Tickets
 ------------------------------------
 
