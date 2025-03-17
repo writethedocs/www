@@ -3,35 +3,31 @@
 .. post:: Mar 13, 2025
    :tags: {{year}}, {{shortcode}}-{{year}}, schedule
 
-Announcing Full Schedule
+Announcing Our Conference Schedule
 ========================
 
-The {{city}} conference is less than two months away, and we're busy getting things ready behind the scenes.
+The {{city}} conference is just over six weeks away, and we're busy getting ready behind the scenes.
 
-You've already seen our list of :doc:`awesome speakers </conf/portland/{{year}}/speakers/>`, now we're announcing our full schedule so you know when they will be presenting!
+You've already seen our list of :doc:`awesome speakers </conf/portland/{{year}}/speakers/>`; now we're announcing our full conference schedule so you know when they will be presenting!
 
-Full presentation schedule
+Speaker Schedule
 --------------------------
 
-The conference website is now updated with the :doc:`schedule </conf/portland/{{year}}/schedule/>` for the main stage presentations, so you can start planning your time (and getting excited!) for the conference.
+The website is updated with the :doc:`schedule </conf/portland/{{year}}/schedule/>` for the full conference, including main stage speaker talks, so you can start planning your time (and getting excited!) for the conference. 
 
-We're keeping the moderated Q&A session after each speaker that we introduced last year. You'll have a chance to ask our speakers questions after the talk via our wonderful set of moderators. Remote attendees with virtual tickets can ask questions using the same QR code as folks attending locally.
+We'll continue to have a moderated Q&A session after each speaker. You'll have a chance to ask our speakers questions after the talk via our wonderful set of moderators. Virtual attendees can ask questions using the same QR code as folks attending locally.
 
-Now is a great time to buy your `tickets <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_ if you haven't already.
+Now is a great time to buy your `tickets <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_.
 
-Join us for the hike again this year
+Virtual Conference Tickets
 ------------------------------------
 
-The hike will be in the amazing Forest Park, the largest urban forested park in the country. It is conveniently located in Northwest Portland, and has a beautiful walk along a creek.
+Interested in listening to the Speaker Talks in real time but unable to attend in person? This year, we are excited to have added a Virtual Ticket option. View more about :doc: 'attending virtual here </conf/portland/{{year}}/virtual/>`. All in-person tickets also receive access to watch virtually as well. 
 
-We'll be starting at Lower Macleay Park on Saturday, **{{ hike.date }}** at 2 PM. Please register a `free hike ticket <https://ti.to/writethedocs/write-the-docs-{{city}}-{{year}}/with/hike-ticket>`_ so we can contact you with any last minute weather and logistics information.
-
-Attending virtually? Heading outside on the Saturday is a great way to relax and prepare to make the most of the conference.
-
-Start thinking about Writing Day
+Start Preparing For Writing Day
 --------------------------------
 
-`Writing Day <https://www.writethedocs.org/conf/portland/{{year}}/writing-day/>`_ takes place on Sunday, the first day of the conference. It’s a great opportunity to get interesting people in the same room, sharing their passion and goals and collaborating to find creative solutions to solve a problem or issue.
+`Writing Day <https://www.writethedocs.org/conf/portland/{{year}}/writing-day/>`_ happens on Sunday, the opening day of the conference. It’s a valuable opportunity to bring interested individuals into the same room, sharing their passions and aspirations while collaborating to develop creative solutions to solve a problem or issue.
 
 .. image:: /_static/conf/images/writing-day.jpg
 
@@ -40,37 +36,38 @@ Start thinking about Writing Day
 - Lead a project: Attendees bring ideas, content, or OSS projects to work on with contributors.
 - Contribute to a project: Attendees participate in various content projects.
 
-If you'd like us to include your project on the Writing Day page `submit your project here <{{writing_day.url}}>`_ or drop us an email at `portland@writethedocs.org <mailto:portland@writethedocs.org>`_. You are also welcome to show up on Sunday ready to introduce your project!
+Are you interested in leading Writing Day project? We highly encourage you to `submit your project here <{{writing_day.url}}>`_. As always, you are welcome to show up on Sunday and introduce your project then!
 
-T-shirts are now available
+Events and Activities
+-----------------------------
+
+Write the Docs is more than a conference. In addition to Speaker Talks, Writing Day, Unconference, and Lightning Talks, we offer additional activities for our attendees to enjoy, connect, engage in discussions, and meet new people.
+
+* **Saturday Hike:** Join us for the hike in the amazing Forest Park, the largest urban forested park in the country. We'll be hiking along a beautiful creek and start at Lower Macleay Park at 2 PM. Please register a `free hike ticket <https://ti.to/writethedocs/write-the-docs-{{city}}-{{year}}/with/hike-ticket>`_ so we can contact you with any last minute weather and logistics information.
+* ** Sunday Welcome Reception:** Join us for our evening conference reception. This is a great chance to meet other attendees, get your badge (if you don't have it yet), and familiarize yourself with the venue. Drinks and snacks provided by us. 
+* **Monday Conference Party event**. On Monday night we'll be hosting a social event off-site at 'Jupiter NEXT <https://www.jupiterhotel.com/)>'_, 900 E Burnside St, 2nd floor. This is a great chance to get to know more folks in the community and have a drink or two on us. Non-alcoholic options and snacks also provided. Event is 7-9 PM.
+
+Docs in Discussion: Speaker Series
+--------------------------
+
+**NEW this year:** We're hosting three pre-conference virtual discussions with a few of our speakers. Join us on March 24 with Manny Silva and Alex Garnett and April 1 with Jodie Landes. All dialogues are at 12 PM PST. 'View more here <https://www.writethedocs.org/conf/{{city}}/{{year}}/news/announcing-speaker-series/>`_ and 'get your free ticket today <https://ti.to/writethedocs/write-the-docs-portland-2025/with/free-livestream>'_.
+
+T-shirts Are Now Available
 --------------------------
 
 The `Write the Docs {{city}} {{year}} Pop-Up Shop <https://shirt.writethedocs.org/>`_ is open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want. As in previous years, we're doing the pop-up shop option so people can order the exact shirt they want, if they want one.
 
 The campaign will run in batches until May 31st. Shipping is available from the USA or Europe. We recommend you order your shirt at least 2-3 weeks in advance if you want to sport your fancy new garb during the conference.
 
-All our events and activities
------------------------------
-
-Write the Docs is more than a conference. Every year we make sure to have a variety of activities that our attendees can enjoy, whether you want to learn something, meet new people, or share knowledge.
-
-The main events that you can participate in Monday & Tuesday are:
-
-* **Lightning Talks.** We'll have `lightning talks <https://www.writethedocs.org/conf/portland/{{year}}/lightning-talks/>`__ each conference day after lunch. These are 5 minute presentations and a lot of fun. They can be about anything you want! This is your chance to share something you are passionate about with the audience. Slides are not required.
-* **Unconference.** We'll be running the `Unconference <https://www.writethedocs.org/conf/portland/{{year}}/unconference/>`_ as our formal "second track" at the conference. This is a place to schedule discussions about a specific topic, so you can find other attendees who care about the same niche topics that you love. Want to chat with like-minded folks about oxford commas or a specific docs as code tool? This is the place.
-* **Social event**. On Monday night we'll be hosting a social event. This is a great chance to get to know more folks in the community and have a drink or two on us. Non-alcoholic options will be very available, as well as some snacks.
+Website Resources
+----------------------
 
 View our `Attendee Guide <https://www.writethedocs.org/conf/{{city}}/{{year}}/attendee-guide/>`_ for a comprehensive overview of how to participate in the conference.
 
-The `Schedule page <https://www.writethedocs.org/conf/portland/{{year}}/schedule/>`_ has the latest and most complete information about all our events.
-This is where we will also update any changes/cancellations if they should occur.
-
-Thanks to our sponsors
+Thanks To Our Sponsors
 ----------------------
 
-Thanks to our sponsors for supporting the conference again this year.
-We've excited to have them around the conference participating in a few different ways,
-and hope you get a chance to talk with them while you're here.
+Thanks to our sponsors for supporting the conference this year. A number of them will be tabling on Monday and Tuesday. We hope you get a chance to talk with them while you're here.
 
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-config.yaml
@@ -78,9 +75,9 @@ and hope you get a chance to talk with them while you're here.
 
 Head over to our `sponsorship prospectus <https://www.writethedocs.org/conf/portland/{{year}}/sponsors/prospectus/>`_ for details on how your company can get involved!
 
-See you soon
+See You Soon!
 ------------
 
-Thanks so much for all your support and enthusiasm! We're so excited to see you all soon!
+Thanks so much for all your support and enthusiasm. We're so excited to be with you all soon!
 
-The Write the Docs team
+Write the Docs Team
