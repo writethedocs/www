@@ -22,7 +22,7 @@ We'll continue to have a moderated Q&A session after each speaker. You'll have a
 Virtual Conference Tickets
 --------------------------
 
-Interested in listening to the Speaker Talks in real time but unable to attend in person? This year, we are excited to have added a Virtual Ticket option. View more about :doc: 'attending virtual here </conf/portland/{{year}}/virtual/>`. All in-person tickets also receive access to watch virtually as well.
+Interested in listening to the Speaker Talks in real time but unable to attend in person? This year, we are excited to have added a Virtual Ticket option. View more about :doc:`attending virtual here </conf/portland/{{year}}/virtual/>`. All in-person tickets also receive access to watch virtually as well.
 
 Start Preparing For Writing Day
 -------------------------------
@@ -43,14 +43,14 @@ Events and Activities
 
 Write the Docs is more than a conference. In addition to Speaker Talks, Writing Day, Unconference, and Lightning Talks, we offer additional activities for our attendees to enjoy, connect, engage in discussions, and meet new people.
 
-* **Saturday Hike:** Join us for the hike in the amazing Forest Park, the largest urban forested park in the country. We'll be hiking along a beautiful creek and start at Lower Macleay Park at 2 PM. Please register a `free hike ticket <https://ti.to/writethedocs/write-the-docs-{{city}}-{{year}}/with/hike-ticket>`_ so we can contact you with any last minute weather and logistics information.
+* **Saturday Hike:** Join us for the hike in the amazing Forest Park, the largest urban forested park in the country. We'll be hiking along a beautiful creek and start at Lower Macleay Park at 2 PM. Please register a `free hike ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/with/hike-ticket>`_ so we can contact you with any last minute weather and logistics information.
 * **Sunday Welcome Reception:** Join us for our evening conference reception. This is a great chance to meet other attendees, get your badge (if you don't have it yet), and familiarize yourself with the venue. Drinks and snacks provided by us.
-* **Monday Conference Party**. On Monday night we'll be hosting a social event off-site at 'Jupiter NEXT <https://www.jupiterhotel.com/)>'_, 900 E Burnside St, 2nd floor. This is a great chance to get to know more folks in the community and have a drink or two on us. Non-alcoholic options and snacks also provided. Event is 7-9 PM.
+* **Monday Conference Party**. On Monday night we'll be hosting a social event off-site at `Jupiter NEXT <https://www.jupiterhotel.com/>`_, 900 E Burnside St, 2nd floor. This is a great chance to get to know more folks in the community and have a drink or two on us. Non-alcoholic options and snacks also provided. Event is 7-9 PM.
 
 Docs in Discussion: Speaker Series
 ----------------------------------
 
-**NEW this year:** We're hosting three pre-conference virtual discussions with a few of our speakers. Join us on March 24 with Manny Silva and Alex Garnett and April 1 with Jodie Landes. All dialogues are at 12 PM PST. 'View more here <https://www.writethedocs.org/conf/{{city}}/{{year}}/news/announcing-speaker-series/>`_ and 'get your free ticket today <https://ti.to/writethedocs/write-the-docs-portland-2025/with/free-livestream>'_.
+**NEW this year:** We're hosting three pre-conference virtual discussions with a few of our speakers. Join us on March 24 with Manny Silva and Alex Garnett and April 1 with Jodie Landes. All dialogues are at 12 PM PST. `View more here <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/news/announcing-speaker-series/>`_ and `get your free ticket today <https://ti.to/writethedocs/write-the-docs-portland-2025/with/free-livestream>`_.
 
 T-shirts Are Now Available
 --------------------------
