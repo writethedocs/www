@@ -22,7 +22,7 @@ We'll continue to have a moderated Q&A session after each speaker. You'll have a
 Virtual Conference Tickets
 --------------------------
 
-Interested in listening to the Speaker Talks in real time but unable to attend in person? This year, we are excited to have added a Virtual Ticket option. View more about :doc:`attending virtual here </conf/portland/{{year}}/virtual/>`. All in-person tickets also receive access to watch virtually as well.
+Interested in listening to the Speaker Talks in real time but unable to attend in person? This year, we are excited to have added a Virtual Ticket option. View more about :doc:`attending virtually here </conf/portland/{{year}}/virtual/>`. All in-person tickets also receive access to watch virtually as well.
 
 Start Preparing For Writing Day
 -------------------------------
@@ -36,7 +36,7 @@ Start Preparing For Writing Day
 - Lead a project: Attendees bring ideas, content, or OSS projects to work on with contributors.
 - Contribute to a project: Attendees participate in various content projects.
 
-Are you interested in leading Writing Day project? We highly encourage you to `submit your project here <{{writing_day.url}}>`_. As always, you are welcome to show up on Sunday and introduce your project then!
+Are you interested in leading a Writing Day project? We highly encourage you to `submit your project here <{{writing_day.url}}>`_. As always, you are welcome to show up on Sunday and introduce your project then!
 
 Events and Activities
 ---------------------
