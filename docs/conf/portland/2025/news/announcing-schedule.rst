@@ -42,8 +42,8 @@ Events and Activities
 Write the Docs is more than a conference. In addition to Speaker Talks, Writing Day, Unconference, and Lightning Talks, we offer additional activities for our attendees to enjoy, connect, engage in discussions, and meet new people.
 
 * **Saturday Hike:** Join us for the hike in the amazing Forest Park, the largest urban forested park in the country. We'll be hiking along a beautiful creek and start at Lower Macleay Park at 2 PM. Please register a `free hike ticket <https://ti.to/writethedocs/write-the-docs-{{city}}-{{year}}/with/hike-ticket>`_ so we can contact you with any last minute weather and logistics information.
-* ** Sunday Welcome Reception:** Join us for our evening conference reception. This is a great chance to meet other attendees, get your badge (if you don't have it yet), and familiarize yourself with the venue. Drinks and snacks provided by us. 
-* **Monday Conference Party event**. On Monday night we'll be hosting a social event off-site at 'Jupiter NEXT <https://www.jupiterhotel.com/)>'_, 900 E Burnside St, 2nd floor. This is a great chance to get to know more folks in the community and have a drink or two on us. Non-alcoholic options and snacks also provided. Event is 7-9 PM.
+* **Sunday Welcome Reception:** Join us for our evening conference reception. This is a great chance to meet other attendees, get your badge (if you don't have it yet), and familiarize yourself with the venue. Drinks and snacks provided by us. 
+* **Monday Conference Party**. On Monday night we'll be hosting a social event off-site at 'Jupiter NEXT <https://www.jupiterhotel.com/)>'_, 900 E Burnside St, 2nd floor. This is a great chance to get to know more folks in the community and have a drink or two on us. Non-alcoholic options and snacks also provided. Event is 7-9 PM.
 
 Docs in Discussion: Speaker Series
 --------------------------
