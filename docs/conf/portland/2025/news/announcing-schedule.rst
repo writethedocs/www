@@ -8,7 +8,7 @@ Announcing Our Conference Schedule
 
 The {{city}} conference is just over six weeks away, and we're busy getting ready behind the scenes.
 
-You've already seen our list of :doc:`awesome speakers </conf/portland/{{year}}/speakers/>`; now we're announcing our full conference schedule so you know when they will be presenting!
+You've already seen our list of awesome speakers; now we're announcing our :doc:`full conference schedule </conf/portland/{{year}}/schedule/> so you know when they will be presenting!
 
 {{ tickets.button }}
 
