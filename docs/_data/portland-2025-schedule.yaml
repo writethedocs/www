@@ -98,7 +98,7 @@ talks_day1:
   - time: '19:00'
     title: '<b><a href="../social-events">Social Event</a> starts</b>'
   - time: '21:00'
-    title: '<b>Social Event Ends</b>'
+    title: '<b>Social Event ends</b>'
 
 talks_day2:
   - time: '8:00'
