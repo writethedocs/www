@@ -80,20 +80,6 @@ We'll pass on some information about the conference specifically for first-timer
 
 {% if flaghasfood %}
 
-Reception
-~~~~~~~~~
-
-We encourage everyone to drop by on Sunday evening for the conference reception.
-This is a great chance to meet other attendees,
-and make sure you know your way around the conference venue.
-
-* **Where**: {{about.venue}}, {{about.unconfroom}}
-{% if not flaghasschedule %}
-* **When**: **{{ date.day_two.reception_time }} {{ tz }}**
-{% endif %}
-
-{% endif %}
-
 .. raw:: html
 
    <hr>
@@ -122,21 +108,6 @@ and make sure you know your way around the conference venue.
 
 {% else %}
     A detailed schedule will be announced soon.
-{% endif %}
-
-{% if about.social_venue %}
-
-Social Event
-~~~~~~~~~~~~
-
-The official Write the Docs social!
-Expect a relaxed atmosphere where you can chat and network with your fellow documentarians.
-
-Snacks and drinks (non-alcoholic & alcoholic) will be provided.
-
-* **Where**: {{ about.social_venue }}
-{% if not flaghasschedule %}
-* **When**: **{{ date.day_three.social_time }} {{ tz }}**
 {% endif %}
 
 .. raw:: html
