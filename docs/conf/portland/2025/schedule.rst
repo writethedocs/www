@@ -53,7 +53,9 @@ All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
    {{ date.day_two.summary }}
 
 {% if flaghasfood %}
-Writing day is held in {{about.unconfroom}}. *Snacks and drinks will be provided throughout the day.*
+Writing day is held in {{about.venue}}, {{about.unconfroom}}.
+
+*Snacks and drinks will be provided throughout the day.*
 {% endif %}
 
 {% if flaghasschedule %}
@@ -101,7 +103,9 @@ and make sure you know your way around the conference venue.
 
 .. raw:: html
 
+   <p>
    {{ date.day_three.summary }}
+   </p>
 
 - Conference talks are held in {{about.venue}}
 - Unconference is held in {{about.venue}}, {{about.unconfroom}}
@@ -146,7 +150,9 @@ Snacks and drinks (non-alcoholic & alcoholic) will be provided.
 
 .. raw:: html
 
+   <p>
    {{ date.day_four.summary }}
+   </p>
 
 - Conference talks are held in {{about.venue}}
 - Unconference is held in {{about.venue}}, {{about.unconfroom}}
