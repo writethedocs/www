@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: Mar 13, 2025
+.. post:: Mar 18, 2025
    :tags: {{year}}, {{shortcode}}-{{year}}, schedule
 
 Announcing Our Conference Schedule
@@ -55,7 +55,7 @@ Docs in Discussion: Speaker Series
 T-shirts Are Now Available
 --------------------------
 
-The `Write the Docs {{city}} {{year}} Pop-Up Shop <https://shirt.writethedocs.org/>`_ is open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want. As in previous years, we're doing the pop-up shop option so people can order the exact shirt they want, if they want one.
+The `Write the Docs {{city}} {{year}} T-shirt Shop <https://shirt.writethedocs.org/>`_ is open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want. As in previous years, we're doing a mail order shop so people can order the exact shirt they want, if they want one.
 
 The campaign will run in batches until May 31st. Shipping is available from the USA or Europe. We recommend you order your shirt at least 2-3 weeks in advance if you want to sport your fancy new garb during the conference.
 
@@ -80,4 +80,3 @@ See You Soon!
 
 Thanks so much for all your support and enthusiasm. We're so excited to be with you all soon!
 
-Write the Docs Team
