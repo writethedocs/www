@@ -10,7 +10,7 @@ Speaker Overview
 - The more you practice your talk, the more comfortable you'll be when presenting. In addition to practicing by yourself, we strongly recommend you do it in front of at least one other human.
 - If you haven't spoken before, your time will likely be shorter than when you are practicing.
 - Make sure your slides are high contrast
-- Include where you want people to find you i.e. LinkedIn, Bluesky, so people can properly attribute your brilliance :)
+- Include where you want people to find you (e.g., LinkedIn, Bluesky) so people can properly attribute your brilliance. :)
 
 If you want to get some of that sweet internet buzz for your talk, we use the #writethedocs hashtag throughout the event.
 
