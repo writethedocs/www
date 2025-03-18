@@ -30,12 +30,12 @@ buttons:
     #   link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
-    # - text: See the Schedule!
-    #   link: /schedule
+    - text: See the Schedule!
+      link: /schedule
     - text: Buy a Ticket
       link: /tickets
-    - text: See the Speakers
-      link: /speakers
+    #- text: See the Speakers
+    #  link: /speakers
     # - text: Attendee Guide
     #   link: /attendee-guide
     # - text: Watch the Live Stream
@@ -79,6 +79,18 @@ tickets:
     price: $100
   virtual:
     price: $75
+  button: >
+    .. raw:: html
+
+      <p style="margin: 2em 0;">
+      <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
+      <tr>
+          <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
+            <a href="https://ti.to/writethedocs/write-the-docs-portland-2025/" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Get your ticket</a>
+          </td>
+      </tr>
+      </table>
+      </p>
 
 sponsorship:
   second_draft:
@@ -140,7 +152,7 @@ date: # how do we handle these? human readable would be nice.
   day_four:
     event: Conference Day 2
     date: May 6
-    summary: And the conference goes on! More talks and unconference today, along with our Sponsor Expo!
+    summary: And the conference goes on! More talks and unconference today!
     dotw: Tuesday
     talk_time: 9am-4pm
     job_fair_time: 9am-12pm
@@ -150,7 +162,7 @@ date: # how do we handle these? human readable would be nice.
 
 about:
   attendees: 400
-  social_venue:  TBD
+  social_venue:  Jupiter NEXT, 9000 E Burnside St (2nd floor)
   venue: Revolution Hall
   photos: TBD
   mainroom: Main stage
@@ -161,7 +173,7 @@ about:
 cfp:
   url: "https://pretalx.com/wtd-portland-2025/cfp" # Open October 6 (Mon) -> 9 weeks to submit
   ends: "January 21, 2025"                         # (Mon) 1 week, to review. It'll take a little longer to announce
-  notification: "February 4, 2025"                # (Mon) 8 weeks to write and prepare
+  notification: "February 4, 2025"                 # (Mon) 8 weeks to write and prepare
   slides_by: "April 28, 2025"                      # (Mon) 1 week before
   preview: "TODO"                                  # Preview URL TODO
 
@@ -170,7 +182,7 @@ unconf:
   date: "All day, Monday, May 5 and Tuesday, May 6"
 
 writing_day:
-  url: ""
+  url: "https://docs.google.com/forms/u/1/d/e/1FAIpQLSeHMZ1uXTfnT0HMm-KfsgxYV1w3tmS7bMPtBx4H9cktJpSrdg/viewform?usp=dialog"
   date: Sunday, May 4, 9 AM - 5 PM
 
 hike:
@@ -213,10 +225,9 @@ sponsors:
     - name: helpdocs
       link: https://www.helpdocs.io/?utm_source=writethedocs&utm_medium=sponsor&utm_campaign=wtdp25
       brand: HelpDocs
-    - name: clickhelp 
+    - name: clickhelp
       link: https://clickhelp.com/?utm_source=conference&utm_medium=wtd&utm_campaign=portland_2025
       brand: ClickHelp
-    
   first:
   in_kind:
 
@@ -228,7 +239,7 @@ flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
 flagrunofshow: True
-flaghasschedule: False
+flaghasschedule: True
 flagscheduleincomplete: True
 flaghasshirts: True
 flaglivestreaming: False
