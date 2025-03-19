@@ -79,8 +79,6 @@ We'll pass on some information about the conference specifically for first-timer
 * **Where**: {{about.unconfroom}}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/attendee-guide`
 
-{% if flaghasfood %}
-
 .. raw:: html
 
    <hr>
@@ -114,8 +112,6 @@ We'll pass on some information about the conference specifically for first-timer
 .. raw:: html
 
    <hr>
-
-{% endif %}
 
 {{date.day_four.dotw}}, {{date.day_four.date}}
 -----------------------------------------
