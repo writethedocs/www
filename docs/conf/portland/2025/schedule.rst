@@ -53,6 +53,7 @@ All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
    {{ date.day_two.summary }}
 
 {% if flaghasfood %}
+
 Writing day is held in {{about.venue}}, {{about.unconfroom}}.
 
 *Snacks and drinks will be provided throughout the day.*
