@@ -20,6 +20,7 @@ Virtual attendance includes:
 * Ability to participate in Q&A with speakers
 * Real-time chat with other virtual attendees
 * Virtual networking spaces  
+* Conference talk videos available 2-3 weeks after the event
 
 ## Schedule
 
