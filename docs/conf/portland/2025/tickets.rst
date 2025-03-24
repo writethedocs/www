@@ -47,7 +47,7 @@ Refund Policy
 
 Refunds are offered with a 10% processing fee, up to 2 weeks before the conference.
 
-If you need to cancel your ticket because of fear of traveling internationally to the United States or illness prior to the conference, we will offer a 100% refund. 
+If you need to cancel your ticket because of fear of traveling internationally to the United States or getting COVID-19 prior to the conference, we will offer a 100% refund. 
 
 Ticket Types
 ------------
