@@ -1,7 +1,7 @@
 Sphinx==5.3.0
 
 # make livehtml support
-sphinx_autobuild==2024.10.3
+sphinx_autobuild==2021.3.14
 
 # Markdown support
 myst-parser==0.18.0
@@ -11,7 +11,7 @@ ablog==0.10.31  # pyup: ignore
 
 # Sphinx (checked with 4.3) requires docutils=<0.18
 docutils==0.17.1   # pyup: <0.18
-PyYAML==6.0.2 
+PyYAML==6.0.2
 pytz==2024.2
 
 # Additional libraries
