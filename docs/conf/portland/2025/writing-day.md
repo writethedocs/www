@@ -145,4 +145,4 @@ Project organizer: Kay Smoljak, she/her. Project session: Afternoon.
 
 The [Write the Docs Salary Survey](https://github.com/writethedocs/salary-survey?tab=readme-ov-file#write-the-docs-annual-documentation-salary-survey) has been running annually since 2019, with the goal of identifying appropriate salary ranges and providing a basis for pay negotiations.
 
-Our goal for Writing Day is to improve the clarity, inclusivity, neutrality and relevance of the questions, instructions, as well as the general flow of the survey.
+Our goal for Writing Day is to improve the clarity, inclusivity, neutrality and relevance of the questions, instructions, and general flow of the survey.
