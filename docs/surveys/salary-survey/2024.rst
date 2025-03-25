@@ -1,4 +1,6 @@
 :template: survey/layout.html
+:survey_year: 2024
+:description: The 6th annual WTD Documentation Salary Survey was filled out by xxx documentarians in xx countries, working across dozens of industries. Check out the full results here!
 
 .. title:: Documentation Salary Survey Results 2024
 
@@ -26,6 +28,8 @@
 
 .. |%| replace:: :abbr:`% (Percentage of total respondents)`
 
+.. TODO: check documentation for sortable library re excluding % column
+
 .. raw:: html   
    
   <nav>
@@ -37,10 +41,15 @@
 
 .. raw:: html
 
+   <p class="nav-heading">Previous Survey Results:</p>
+   <a href="/surveys/salary-survey/2023/">2023</a>
+   <a href="/surveys/salary-survey/2022/">2022</a>
+   <a href="/surveys/salary-survey/2021/">2021</a>
+   <a href="/surveys/salary-survey/2020/">2020</a>
+   <a href="/surveys/salary-survey/2019/">2019</a>
   </nav>
    <div class="breadcrumbs"><a href="/">Home</a> &raquo; <a href="/surveys/">Salary Surveys</a> &raquo;</div>
   <main>
-      
 
 .. _top:
 
@@ -49,11 +58,13 @@ Documentation Salary Survey 2024 Results
 ****************************************
 
 Introduction
-============ 
+============
 
-[779 respondents in 2024]
+.. TODO: write intro
 
 In a hurry? Jump straight to `Median salary`_ or `Median hourly rate`_.
+
+.. TODO: reorganization idea: put median salaries first, and then provide the background information that went into the median figures.
 
 .. container:: note
 
@@ -70,13 +81,13 @@ Here are just some of the anonymous comments that respondents submitted in 2024:
 
 .. pull-quote::
 
-   [quote 1]
+   I used the results of this survey to ask for a raise a few years ago. It helped enormously - I got the most significant raise I've ever received!
 
-   [quote 2]
+   I negotiated a much higher salary bracket when hiring a new team member. Other (paid) salary calibrators don't have enough info for tech writers and the 'AI' estimates are always too low.
 
-   [quote 3]
+   Data from past years helped me understand how underpaid I was at the time and gave me confidence to negotiate with the next opportunity. 
 
-   [quote 4]
+   In 2025, I expect to convert from a contractor to a full-time employee. I fully expect that I will need to negotiate my salary and will lean heavily on the WTD Salary Survey to do so.
 
 Employment parameters
 =====================
@@ -198,6 +209,8 @@ For the first time this year, no respondents reported working more than 60 hours
    | 1-20         | 16  | 2.1%  |
    +--------------+-----+-------+
 
+.. TODO: contractor hours vs employee hours?
+
 Job title
 ---------
 
@@ -213,42 +226,42 @@ Job title
 
    </details>
 
-With typos fixed, abbreviations expanded, stop words removed and keyword faceting applied, 275 unique job titles could be discerned. One respondent indicated that they did not have a job title.    
+With typos fixed, abbreviations expanded, stop words removed and keyword faceting applied, 217 unique job titles could be discerned. One respondent indicated that they did not have a job title.    
       
-As in previous years, the most widely used exact title was "Technical Writer", reported by 32% of respondents - in fact this phrase appeared in the top 5 job titles and in 67.9% of all job titles.  
+As in previous years, the most widely used exact title was "Technical Writer", reported by 26.8% of respondents. This exact phrase appeared in 6 of the top 10 job titles, in 51 of the 217 unique job titles, and in 65.2% of all job titles.  
 
 .. raw:: html
 
-   <div class="tab-wrap"><input type="radio" id="tabA3-1" name="tabGroupA3" class="tab" checked tabindex="0"><label for="tabA3-1">Technical Writer</label><input type="radio" id="tabA3-2" name="tabGroupA3" class="tab"><label for="tabA3-2">Other titles</label><div class="tab__content">
+   <div class="tab-wrap"><input type="radio" id="tabA3-1" name="tabGroupA3" class="tab" checked tabindex="0"><label for="tabA3-1">Top job titles</label><input type="radio" id="tabA3-2" name="tabGroupA3" class="tab"><label for="tabA3-2">Excluding "technical writer"</label><div class="tab__content">
 
 .. table:: Most widely-used job titles
    :widths: 70 15 15
-   :name: tbl-2023-top-job-titles
-   :class: std3col
+   :name: tbl-2024-top-job-titles
+   :class: std3col sortable
 
-   +----------------------------+-----+-------+
-   | Job title                  | |N| | |%|   |
-   +============================+=====+=======+
-   | Technical Writer           | 321 | 31.6% |
-   +----------------------------+-----+-------+
-   | Senior Technical Writer    | 191 | 18.8% |
-   +----------------------------+-----+-------+
-   | Lead Technical Writer      | 39  | 3.8%  |
-   +----------------------------+-----+-------+
-   | Staff Technical Writer     | 24  | 2.4%  |
-   +----------------------------+-----+-------+
-   | Principal Technical Writer | 19  | 1.9%  |
-   +----------------------------+-----+-------+
-   | Documentation Manager      | 15  | 1.5%  |
-   +----------------------------+-----+-------+
-   | Technical Writing Manager  | 13  | 1.3%  |
-   +----------------------------+-----+-------+
-   | Technical Writer II        | 12  | 1.2%  |
-   +----------------------------+-----+-------+
-   | Documentation Specialist   | 8   | 0.8%  |
-   +----------------------------+-----+-------+
-   | Technical Author           | 7   | 0.7%  |
-   +----------------------------+-----+-------+
+   +-------------------------------------+-----+-------+
+   | Title                               | |N| | |%|   |
+   +=====================================+=====+=======+
+   | Technical Writer                    | 209 | 26.8% |
+   +-------------------------------------+-----+-------+
+   | Senior Technical Writer             | 158 | 20.3% |
+   +-------------------------------------+-----+-------+
+   | Lead Technical Writer               | 32  | 4.1%  |
+   +-------------------------------------+-----+-------+
+   | Staff Technical Writer              | 26  | 3.3%  |
+   +-------------------------------------+-----+-------+
+   | Principal Technical Writer          | 16  | 2.1%  |
+   +-------------------------------------+-----+-------+
+   | Documentation Manager               | 12  | 1.5%  |
+   +-------------------------------------+-----+-------+
+   | Technical Writer II                 | 12  | 1.5%  |
+   +-------------------------------------+-----+-------+
+   | Manager, Technical Writing          | 10  | 1.3%  |
+   +-------------------------------------+-----+-------+
+   | Technical Author                    | 8   | 1.0%  |
+   +-------------------------------------+-----+-------+
+   | Senior Documentation Manager        | 6   | 0.8%  |
+   +-------------------------------------+-----+-------+
 
 .. raw:: html
 
@@ -256,32 +269,32 @@ As in previous years, the most widely used exact title was "Technical Writer", r
 
 .. table:: Job titles excluding "technical writer"
    :widths: 70 15 15
-   :name: tbl-2023-job-titles-excluding-technical-writer
-   :class: std3col
+   :name: tbl-2024-job-titles-excluding-technical-writer
+   :class: std3col sortable
 
-   +---------------------------------------+-----+------+
-   | Title                                 | |N| | |%|  |
-   +=======================================+=====+======+
-   | Information Developer                 | 5   | 1.7% |
-   +---------------------------------------+-----+------+
-   | Content Developer                     | 5   | 1.7% |
-   +---------------------------------------+-----+------+
-   | Information Architect                 | 4   | 1.3% |
-   +---------------------------------------+-----+------+
-   | Technical Editor                      | 4   | 1.3% |
-   +---------------------------------------+-----+------+
-   | Knowledge Manager                     | 4   | 1.3% |
-   +---------------------------------------+-----+------+
-   | Head of Documentation                 | 3   | 1%   |
-   +---------------------------------------+-----+------+
-   | Senior Technical Curriculum Developer | 3   | 1%   |
-   +---------------------------------------+-----+------+
-   | Documentation Engineer                | 3   | 1%   |
-   +---------------------------------------+-----+------+
-   | UX Writer                             | 2   | 0.7% |
-   +---------------------------------------+-----+------+
-   | Product Manager                       | 2   | 0.7% |
-   +---------------------------------------+-----+------+
+   +-------------------------------------+-----+------+
+   | Title                               | |N| | |%|  |
+   +=====================================+=====+======+
+   | Documentation Manager               | 12  | 7.1% |
+   +-------------------------------------+-----+------+
+   | Documentation Specialist            | 6   | 3.6% |
+   +-------------------------------------+-----+------+
+   | Senior Documentation Manager        | 6   | 3.6% |
+   +-------------------------------------+-----+------+
+   | Content Developer                   | 5   | 3.0% |
+   +-------------------------------------+-----+------+
+   | Knowledge Manager                   | 5   | 3.0% |
+   +-------------------------------------+-----+------+
+   | Documentation Engineer              | 5   | 3.0% |
+   +-------------------------------------+-----+------+
+   | User Assistance Developer           | 4   | 2.4% |
+   +-------------------------------------+-----+------+
+   | Documentation Team Lead             | 4   | 2.4% |
+   +-------------------------------------+-----+------+
+   | Information Developer               | 4   | 2.4% |
+   +-------------------------------------+-----+------+
+   | Manager, Product Documentation      | 3   | 1.8% |
+   +-------------------------------------+-----+------+
 
 .. raw:: html
 
@@ -290,18 +303,19 @@ As in previous years, the most widely used exact title was "Technical Writer", r
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Job title word cloud" aria-describedby="figure_job-title-word-cloud_desc" type="image/svg+xml" data="/_images/2023-job-title-word-cloud.svg">
+      <object role="img" aria-label="Job title word cloud" aria-describedby="figure_job-title-word-cloud_desc" type="image/svg+xml" data="/_images/2024-job-title-word-cloud.svg">
          <p id="figure_job-title-word-cloud_desc">Word cloud showing relative weights of job title keywords</p>
       </object> 
       <figcaption>Figure: Job title word cloud</figcaption>
    </figure>
 
-.. figure:: images/2023/2023-job-title-word-cloud.svg
+.. figure:: images/2024/2024-job-title-word-cloud.svg
    :class: hide
 
+.. TODO: contractor job titles vs employee job titles?
 
-Type of role
-------------
+Role category
+-------------
 
 .. raw:: html
    
@@ -309,36 +323,121 @@ Type of role
 
 .. container:: question
 
-   |icon-question| How would you categorize your role? Select multiple roles, if appropriate.
+   |icon-question| How would you categorize your primary role?
 
-   - Writer, content creator, producer, editor
+   Please select one category - you will be able to select additional categories in the next question.
+
+   - Technical writer
+   - UX writer
+   - Editor
+   - Programmer-writer (code, sample apps etc)
+   - Content producer (visual, audio, interactive content, etc)
+   - Educator, trainer, instructional designer
    - Developer, engineer
-   - Educator
-   - Customer support
-   - Advocate, community outreach
-   - Marketing
-   - Management
-   - Other
-
-   With regard to working with other people, are you typically (select multiple if appropriate):
-
-   - A solo worker
-   - Part of a team of people with the same or similar roles
-   - Part of a team of people with different roles
-   - Part of multiple teams
-   - A manager or team leader
+   - Support
+   - Developer relations, outreach
+   - Translation, localization
+   - Project or product manager
+   - Testing, quality assurance
+   - Information architecture
+   - DocOps (infrastructure, tools etc)
    - Other (please specify)
+
+   |icon-question| What additional roles do you also perform?
+
+   Select multiple if appropriate, or select "None".
+
+   - Technical writer
+   - UX writer
+   - Editor
+   - Programmer-writer (code, sample apps etc)
+   - Content producer (visual, audio, interactive content etc)
+   - Educator, trainer, instructional designer
+   - Developer, engineer
+   - Support
+   - Developer relations, outreach, advocate
+   - Subject matter expert
+   - Translation, localization
+   - Project or product manager
+   - Testing, quality assurance
+   - Information architecture
+   - DocOps (infrastructure, process, tools etc)
+   - Manager or team leader
+   - Marketing
+   - Mentoring
+   - Other (please specify)
+   - None
+
+.. raw:: html
+
+   </details>
+   <details><summary>Question background</summary>
+
+.. container:: question
+
+   |icon-info| Given that job titles and the responsibilities they entail varies widely, this question attempts to add context to the salary data by identifying the type of work being primarily performed. 
+   
+   We added the original version of this question - which asked respondents to broadly categorize their role into one of a limited set of options - in the second survey, in 2020. Starting in 2022, we allowed respondents to choose multiple role categories. This highlighted the breadth of talent in our community, but made comparing salaries more difficult.
+
+   After community consultation in 2024, we split this question into two parts - one for primary role category, and one for additional roles - and expanded the number of options. 
+   
 
 .. raw:: html
 
    </details>
 
-Role category
-~~~~~~~~~~~~~
+Primary role category
+~~~~~~~~~~~~~~~~~~~~~
 
-Most respondents identified their role as "writer, content creator, producer, editor" - 59.4% selected only this category, while 95.6% included it alongside other categories. The second most widely-selected was "management", with 15.5% of respondents selecting this along with other categories and 2.3% selecting it as their only role category, followed by "developer, engineer", included by 10.5% of all respondents. In total, respondents selected 63 different combinations of the 8 role categories. 
+Technical writer was by far the most widely-selected primary role category, chosen by 83.7% of respondents. Editor, DocOps and project/product manager counted for around 2% each. 
 
-.. table:: Top role category combinations
+7 respondents selected "other" and provided more detail: most were all-rounders who performed a combination of roles, although "content strategist", "communications writer" and "rebranding tech" were also mentioned.
+
+.. table:: Primary role categories
+   :widths: 70 15 15
+   :name: tbl-2024-top-role-categories
+   :class: std3col sortable
+
+   +------------------------------------------------+-----+-------+
+   | Role category                                  | |N| | |%|   |
+   +================================================+=====+=======+
+   | Technical writer                               | 652 | 84.7% |
+   +------------------------------------------------+-----+-------+
+   | Editor                                         | 20  | 2.6%  |
+   +------------------------------------------------+-----+-------+
+   | DocOps                                         | 18  | 2.3%  |
+   +------------------------------------------------+-----+-------+
+   | Project or product manager                     | 16  | 2.1%  |
+   +------------------------------------------------+-----+-------+
+   | Programmer-writer                              | 12  | 1.6%  |
+   +------------------------------------------------+-----+-------+
+   | UX writer                                      | 10  | 1.3%  |
+   +------------------------------------------------+-----+-------+
+   | Support                                        | 9   | 1.2%  |
+   +------------------------------------------------+-----+-------+
+   | Content producer                               | 8   | 1.0%  |
+   +------------------------------------------------+-----+-------+
+   | Information architecture                       | 6   | 0.8%  |
+   +------------------------------------------------+-----+-------+
+   | Developer or engineer                          | 4   | 0.5%  |
+   +------------------------------------------------+-----+-------+
+   | Developer relations, outreach or advocate      | 4   | 0.5%  |
+   +------------------------------------------------+-----+-------+
+   | Educator, trainer, or instructional designer   | 2   | 0.3%  |
+   +------------------------------------------------+-----+-------+
+   | Testing, quality assurance                     | 2   | 0.3%  |
+   +------------------------------------------------+-----+-------+
+
+
+Additional role categories
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. TODO: writeup additional role categories
+
+.. TODO: additional role categories table
+
+
+.. table:: Additional role categories
    :widths: 70 15 15
    :name: tbl-2023-top-role-category-combinations
    :class: std3col
@@ -369,14 +468,35 @@ Most respondents identified their role as "writer, content creator, producer, ed
    | Writer/Creator/Editor + Developer/Engineer + Management | 10  | 1.0%  |
    +---------------------------------------------------------+-----+-------+
 
-Of those respondents who chose "Other" and provided more detail, the additional categories included project management, product management, process management, information architecture, instructional design, QA/testing, content strategy, mentoring, and translation - as well as some terms which can be bundled under the heading "DocOps": documentation tool and workflow administration, repository maintenance, and documentation infrastructure development and support. 
+Team confguration
+-----------------
 
-Team breakdown
-~~~~~~~~~~~~~~
+.. raw:: html
+   
+   <details><summary>What we asked</summary>
 
-The most widely-selected team configurations were single category: 25.2% of respondents worked only on a team made up of people with the same or similar roles, while 12.7% worked only on a team made up of people with differing roles. 8.5% worked only solo, and 7.1% selected only management. These four configurations covered just over half of all respondents - the other half chose a combination of categories. 
+.. container:: question
 
-Of the 18.8% who indicated that they worked as a manager or team leader, 62.3% also fulfilled other team roles. 
+   |icon-question| When working with other people, what is your typical role?
+
+   Select multiple options, if appropriate.
+
+   - A solo worker
+   - Part of a team of people with the same or similar roles
+   - Part of a team of people with different roles
+   - Part of multiple teams
+   - A manager or team leader
+   - Other (please specify)
+
+.. raw:: html
+
+   </details>
+
+.. TODO: check team configuration question wording and update if necessary
+
+.. TODO: writeup 2024 team breakdown
+
+.. TODO: update team breakdown table
 
 .. table:: Team breakdown
    :widths: 70 15 15
@@ -413,6 +533,13 @@ Of the 18.8% who indicated that they worked as a manager or team leader, 62.3% a
 
 Length of time in current role
 ------------------------------
+
+.. TODO: check "time in current role" question wording and update if necessary
+
+.. TODO: writeup 2024 "time in current role"
+
+.. TODO: update "time in current role" table
+
 
 .. raw:: html
    
@@ -471,6 +598,8 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
    | 10+ years               | 84  | 8.3%  |
    +-------------------------+-----+-------+
 
+.. TODO: chart for "time in current role"
+
 .. raw:: html
 
    <figure>
@@ -480,7 +609,7 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
       <figcaption>Figure: Length of time in current role</figcaption>
    </figure>
 
-.. figure:: images/2023/2023-length-of-time-in-current-role.svg
+.. figure:: images/2024/2024-length-of-time-in-current-role.svg
    :class: hide
 
 Proportion of role related to documentation
@@ -509,6 +638,12 @@ Proportion of role related to documentation
 .. raw:: html
 
    </details>
+
+.. TODO: write up "proportion of role"
+
+.. TODO: update tables for "proportion of role"
+
+.. TODO: charts for "proportion of role"
 
 The majority of respondents (73.5% in 2023, almost exactly the same proportion as in 2022) reported that documentation makes up both their whole official job description, and most or all of their day-to-day tasks (87.2% reporting more than 51% of their daily workload). The portion of respondents performing documentation-related tasks even though it's not part of their job description remained steady. 
 
@@ -571,7 +706,7 @@ The majority of respondents (73.5% in 2023, almost exactly the same proportion a
       <figcaption>Figure: Portion of role officially documentation-related</figcaption>
    </figure>
 
-.. figure:: images/2023/2023-portion-of-role-officially-docs-related.svg
+.. figure:: images/2024/2024-portion-of-role-officially-docs-related.svg
    :class: hide
 
 .. raw:: html
@@ -583,7 +718,7 @@ The majority of respondents (73.5% in 2023, almost exactly the same proportion a
       <figcaption>Figure: Portion of role actually documentation-related</figcaption>
    </figure>
 
-.. figure:: images/2023/2023-proportion-actual.svg
+.. figure:: images/2024/2024-proportion-actual.svg
    :class: hide
 
 
@@ -591,10 +726,14 @@ The majority of respondents (73.5% in 2023, almost exactly the same proportion a
 Job changes
 ===========
 
+.. TODO: add "question background" section for job changes
+
 In the 2022 survey results, we saw more employee respondents in new positions - jobs that they'd held for less than one year - than in any previous survey. To better explore how the job market shake-up of the past few years is affecting our community - both employees and contractors - we added this new section for job changes.
 
 Employment or contract status change
 ------------------------------------
+
+.. TODO: update question wording for 2024
 
 .. raw:: html
    
@@ -651,11 +790,15 @@ Employment or contract status change
 
    </details>
 
+.. TODO: writeup job changes findings
+
 36.5% of respondents reported undergoing a change in their employment status in the past year, with contractors reporting changes at a slightly higher rate (43%) than employees (35.9%).
 
 Of the employees experiencing employment changes, starting a new position at a new organization was the most reported change (46%). 28.8% were promoted within the same organization.
 
 Of the contractors, having a contract or project ending prematurely was the most reported change (41%). 35.3% started a new contract.
+
+.. TODO: update tables for job changes
 
 .. raw:: html
 
@@ -726,6 +869,8 @@ Of the contractors, having a contract or project ending prematurely was the most
 Job or contract search status
 -----------------------------
 
+.. TODO: check "job search status" question wording and update if necessary
+
 .. raw:: html
    
    <details><summary>What we asked</summary>
@@ -754,7 +899,11 @@ Job or contract search status
 
    </details>
 
+.. TODO: writeup findings for job search status
+
 The majority of respondents - 46.3% of employees and 38% of contractors - stated that while they were not actively looking for new positions or contracts, they were open to considering offers that might come their way. 14% of employees and 29.1% of contractors said they were actively looking for new work. 
+
+.. TODO: update tables for job search status
 
 .. raw:: html
 
@@ -809,6 +958,8 @@ The majority of respondents - 46.3% of employees and 38% of contractors - stated
 Job security and stability
 --------------------------
 
+.. TODO: check "job security and stability" question wording and update if necessary
+
 .. raw:: html
    
    <details><summary>What we asked</summary>
@@ -825,9 +976,13 @@ Job security and stability
 
    </details>
 
+.. TODO: writeup findings for job security and stability
+
 Note: Employees and contractors who had indicated that they were currently unemployed were not shown this question. 
 
 Just over half of all respondents (54.1%) reported feeling the same level of job security and stability, compared to the previous year. 30.5% felt less secure, and only 15.4% felt more secure. The difference in responses between employees and contractors for this question was not significantly different.
+
+.. TODO: update tables for job security and stability
 
 .. table:: Feelings of job security and stability
    :widths: 70 15 15
@@ -844,90 +999,6 @@ Just over half of all respondents (54.1%) reported feeling the same level of job
    | More secure than last year             | 151 | 15.4% |
    +----------------------------------------+-----+-------+
 
-Job offer considerations
-------------------------
-
-.. raw:: html
-   
-   <details><summary>What we asked</summary>
-
-.. container:: question
-
-   |icon-question| When considering an offer of employment, how important do you consider the following 13 factors? 
-   
-   The options for each were: not relevant, not very important, somewhat important, very important.
-
-   - Salary
-   - Benefits (i.e. paid vacation, pension, insurance etc)
-   - Hours and flexibility
-   - Workload and responsibilities
-   - Career advancement opportunities
-   - Professional development opportunities
-   - Work location (remote/on-site/hybrid)
-   - Management/team/co-workers
-   - Organization's reputation, financial standing/stability, and job security
-   - Organization's culture
-   - Organization's community involvement
-   - Organization's pay transparency policy
-   - Organization's diversity/inclusivity policy
-
-.. raw:: html
-
-   </details>
-
-Note: This question - new for 2023 - was only shown to employees. 
-
-While some obvious factors were given high importance by most respondents - salary, work location, hours, and benefits - other factors resulted in more varied results. The only factor that the majority of respondents agreed was not very important was community involvement. Stability, diversity, professional development, career advancement and pay transparency were all found to be "somewhat important" by the majority of respondents, but for all of these factors there was a wide range of variations in the responses. 
-
-.. table:: Employee job offer considerations
-   :widths: 32 17 17 17 17
-   :name: tbl-2023-employee-job-offer-considerations
-   :class: fivecol
-
-   +------------------+------------------------------------------+
-   | Factor           |                Importance                |
-   |                  +-------+----------+----------+------------+
-   |                  | Very  | Somewhat | Not very | None       |
-   +==================+=======+==========+==========+============+
-   | Salary           | 81.9% | 18.0%    | 0.1%     | 0%         |
-   +------------------+-------+----------+----------+------------+
-   | Location         | 75.6% | 19.2%    | 4.8%     | 0.4%       |
-   +------------------+-------+----------+----------+------------+
-   | Hours            | 74.2% | 24.4%    | 1.4%     | 0%         |
-   +------------------+-------+----------+----------+------------+
-   | Benefits         | 69.1% | 28.7%    | 1.7%     | 0.5%       |
-   +------------------+-------+----------+----------+------------+
-   | Team             | 53.1% | 38.8%    | 7.2%     | 0.9%       |
-   +------------------+-------+----------+----------+------------+
-   | Workload         | 48.7% | 46.8%    | 4.3%     | 0.2%       |
-   +------------------+-------+----------+----------+------------+
-   | Culture          | 45.6% | 42.5%    | 10.3%    | 1.5%       |
-   +------------------+-------+----------+----------+------------+
-   | Stability        | 42.3% | 49.7%    | 7.6%     | 0.4%       |
-   +------------------+-------+----------+----------+------------+
-   | Diversity        | 28.1% | 41.6%    | 22.4%    | 7.9%       |
-   +------------------+-------+----------+----------+------------+
-   | Development      | 27.2% | 52.3%    | 19.6%    | 0.9%       |
-   +------------------+-------+----------+----------+------------+
-   | Career           | 26.9% | 48.0%    | 24.0%    | 1.2%       |
-   +------------------+-------+----------+----------+------------+
-   | Pay transparency | 21.7% | 46.7%    | 26.7%    | 4.9%       |
-   +------------------+-------+----------+----------+------------+
-   | Community        | 6.6%  | 32.7%    | 48.9%    | 11.7%      |
-   +------------------+-------+----------+----------+------------+
-
-.. raw:: html
-
-   <figure>
-      <object role="img" aria-label="Job offer considerations" aria-describedby="figure_job-offer-considerations_desc" type="image/svg+xml" data="/_images/2023-job-offer-considerations.svg">
-         <p id="figure_job-offer-considerations_desc">Diverging stacked horizontal bar chart showing level of importance given to various factors by employee respondents when considering an offer of employment.</p>
-      </object> 
-      <figcaption>Figure: Employee job offer considerations</figcaption>
-   </figure>
-
-.. figure:: images/2023/2023-job-offer-considerations.svg
-   :class: hide
-
 Workplace
 =========
 
@@ -941,6 +1012,8 @@ The questions in this section relate to respondents' workplace: whether they wor
 
 Work location
 -------------
+
+.. TODO: check "work location" question wording and update if necessary
 
 .. raw:: html
    
@@ -968,7 +1041,11 @@ Work location
 
    </details>
 
+.. TODO: writeup findings for work location
+
 The majority of respondents reported working remotely, with the number doing so by choice (36.2%) higher than the number required to do so by their employer (29%). 
+
+.. TODO: update tables for work location
 
 .. table:: Work location
    :widths: 70 15 15
@@ -989,6 +1066,8 @@ The majority of respondents reported working remotely, with the number doing so 
    | On-site (required)     | 32  | 3.1%  |
    +------------------------+-----+-------+
 
+.. TODO: chart for work location
+
 .. raw:: html
 
    <figure>
@@ -998,10 +1077,14 @@ The majority of respondents reported working remotely, with the number doing so 
       <figcaption>Figure: Work location</figcaption>
    </figure>
 
-.. figure:: images/2023/2023-work-location.svg
+.. figure:: images/2024/2024-work-location.svg
    :class: hide
 
+.. TODO: writeup findings for feelings about work location
+
 The majority of respondents (80.8%) reported feeling "positive" about their work location, with 51.8% feeling "very positive". 
+
+.. TODO: update tables for feelings about work location
 
 .. table:: Feelings about work location
    :widths: 70 15 15
@@ -1022,6 +1105,8 @@ The majority of respondents (80.8%) reported feeling "positive" about their work
    | Very negative                | 10  | 1.0%  |
    +------------------------------+-----+-------+
 
+.. TODO: chart for feelings about work location
+
 .. raw:: html
 
    <figure>
@@ -1031,17 +1116,13 @@ The majority of respondents (80.8%) reported feeling "positive" about their work
       <figcaption>Figure: Feelings about work location</figcaption>
    </figure>
 
-.. figure:: images/2023/2023-feelings-about-work-location.svg
+.. figure:: images/2024/2024-feelings-about-work-location.svg
    :class: hide
 
 "Return to office" (RTO) mandates
 ---------------------------------
 
-.. container:: note
-
-   .. rubric:: |icon-info| Note on use of the term "post-pandemic"
-
-   The survey questions originally included the term "post-pandemic" to describe "return to office" mandates. However, as was correctly pointed out by several community members, the COVID-19 pandemic is not over, and is still very much a concern for at-risk groups. Removing this term does not alter the meaning or intention of the question and so has been left out of this report. 
+.. TODO: check "return to office" question wording and update if necessary
 
 .. raw:: html
    
@@ -1073,11 +1154,16 @@ The majority of respondents (80.8%) reported feeling "positive" about their work
 
    </details>
 
+.. TODO: writeup findings for "return to office" mandates
+
 55.1% of respondents reported that they have not been affected by "return to office" (RTO) policies. 42.8% have been affected, with only 2.2% unsure. 
 
 Of those that were not affected, 26.2% - the largest segment overall - reported that remote work was still allowed, encouraged or required, with another 23.4% stating that their position was always remote-only. 
 
 For those that have been affected, most reported that a hybrid model was being mandated (24.2% overall).  
+
+
+.. TODO: update tables for "return to office" mandates
 
 .. raw:: html
 
@@ -1125,6 +1211,8 @@ For those that have been affected, most reported that a hybrid model was being m
 
    </div></div>
 
+.. TODO: writeup findings for feelings about "return to office" mandates
+
 Those who reported being affected by an RTO policy were asked about their feelings on the situation. 
 
 Those who were required to return to the office on a part-time basis were quite evenly split between neutral (32.9%), negative (26%) and very negative (22%). Those who were positive (14.6%) or very positive (4.5%) were in the minority.
@@ -1135,6 +1223,8 @@ Those affected by a full time RTO mandate felt predominantly negative, with only
 
 Preferred work location
 -----------------------
+
+.. TODO: check "preferred work location" question wording and update if necessary 
 
 .. raw:: html
    
@@ -1153,7 +1243,11 @@ Preferred work location
 
    </details>
 
+.. TODO: writeup findings for preferred work location
+
 Regardless of their current situation, 58% of all respondents said that their preferred work location is remote. Another 38.2% favored a hybrid model (some days in the office, some days working from home or another location). Only 2.6% said they preferred working on-site at their employer's office, and 1.3% stated no preference. 
+
+.. TODO: update tables for preferred work location
 
 .. table:: Preferred work location
    :widths: 70 15 15
@@ -1172,8 +1266,12 @@ Regardless of their current situation, 58% of all respondents said that their pr
    | No preference           | 13  | 1.3%  |
    +-------------------------+-----+-------+
 
+.. TODO: chart for preferred work location
+
 Employee salary, benefits and satisfaction
 ==========================================
+
+.. TODO: update "employee salary, benefits and satisfaction" intro
 
 To protect the privacy of our community, we do not publish median salary figures for any region or category with less than 10 respondents. In previous years, this has meant that median salaries could only be given for a few regions and countries, and a handful of US states.     
 
@@ -1183,6 +1281,10 @@ In regions or categories meet the minimum threshold of 30 respondents, we're als
 
 Currency
 --------
+
+.. TODO: add one "what we asked" section which includes all salary parts
+
+.. TODO: writeup findings for currency
 
 .. raw:: html
    
@@ -1197,6 +1299,8 @@ Currency
    </details>
 
 Employee respondents reported being paid in 26 different currencies. To make comparisons possible, all currencies were converted to USD using mid-market exchange rates, averaged for the whole of 2023.
+
+.. TODO: update tables for currency
 
 .. table:: Currencies and exchange rates - employees
    :widths: 55 10 10 10 15
@@ -1293,6 +1397,9 @@ Median salary
 
 As in previous years, salaries for those working part-time hours (less than 30 per week) have been omitted from the figures in this section. The median salaries are based on 922 full-time employee respondents.  
 
+.. TODO: create view excluding non-full-time employees
+
+.. TODO: update definition of percentile values section
 
 .. container:: note
 
@@ -1311,6 +1418,8 @@ Median salary by respondent region
 
 Given the range of socio-economic differences in the countries in the survey results, median salary figures broken down by country of residence of employee is more useful than overall median salary.
 
+.. TODO: update privacy section with excluded countries
+
 .. container:: note
 
    .. rubric:: |icon-info| Privacy and salary information
@@ -1324,6 +1433,8 @@ Given the range of socio-economic differences in the countries in the survey res
    - Middle East: United Arab Emirates, Lebanon
    - Africa: South Africa, Kenya, Nigeria 
    - South America: Brazil, Argentina 
+
+.. TODO: update table for median salary by respondent region 
 
 .. table:: Salary (USD) by respondent region
    :name: tbl-2023-salary-by-respondent-region
@@ -1379,6 +1490,8 @@ Given the range of socio-economic differences in the countries in the survey res
 
 Median salary by respondent region - further breakdowns
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. TODO: update tables for median salary by respondent region - further breakdowns 
 
 Respondent numbers allow some additional breakdowns by US state, Candian province and Australian state, as well as a handful of North American cities. 
 
@@ -1485,9 +1598,13 @@ Respondent numbers allow some additional breakdowns by US state, Candian provinc
 Median salary by gender identity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. TODO: writeup median salary by gender identity  
+
 Due to numbers, we are only able to break down salary by gender identity for women (59.9% of all respondents) and men (34.7% of all respondents). In almost every region, men earned more than women, by as much as 76% in Asia - although with such a small sample size that is unlikely to be truly representative. 
 
 The only region where the median for women was higher was North America overall - but even here, the 75th percentile salary was higher for men, and when looking at the two largest countries in that region (the United States and Canada) men were paid more overall. 
+
+.. TODO: update tables for median salary by gender identity
 
 .. raw:: html
 
@@ -1608,6 +1725,8 @@ The only region where the median for women was higher was North America overall 
 Median salary by years of experience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. TODO: update tables for median salary by years of experience
+
 .. raw:: html
 
    <div class="tab-wrap"><input type="radio" id="tabD43-1" name="tabGroupD43" class="tab" checked><label for="tabD43-1">0-2 years</label><input type="radio" id="tabD43-2" name="tabGroupD43" class="tab"><label for="tabD43-2">2-5 years</label><input type="radio" id="tabD43-3" name="tabGroupD43" class="tab"><label for="tabD43-3">5-10 years</label><div class="tab__content">
@@ -1690,6 +1809,8 @@ Median salary by years of experience
 
    </div></div>
 
+.. TODO: update tables for median salary by years of experience
+
 .. raw:: html
 
    <div class="tab-wrap"><input type="radio" id="tabD53-1" name="tabGroupD53" class="tab" checked><label for="tabD53-1">10-15 years</label><input type="radio" id="tabD53-2" name="tabGroupD53" class="tab"><label for="tabD53-2">15-20 years</label><input type="radio" id="tabD53-3" name="tabGroupD53" class="tab"><label for="tabD53-3">20+ years</label><div class="tab__content">
@@ -1764,6 +1885,8 @@ Median salary by years of experience
 
 Median salary by organization size (employees)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. TODO: update tables for median salary by organization size
 
 .. raw:: html
 
@@ -1898,6 +2021,10 @@ Median salary by organization size (employees)
 Employee benefits
 -----------------
 
+.. TODO: update question for employee benefits
+
+.. TODO: add question background section for employee benefits
+
 .. raw:: html
    
    <details><summary>What we asked</summary>
@@ -1928,11 +2055,7 @@ Employee benefits
 
    </details>
 
-.. container:: note
-
-   .. rubric:: |icon-info| Differences in international labor laws
-
-   In nearly all countries outside the US, the law ensures that employees receive paid vacation time and sick leave, with many also requiring pension contributions and/or offering paid parental leave. Likewise, many countries provide some level of universal health care, eliminating the necessity for employer-provided health coverage. To make this clearer, we asked respondents to indicate only those benefits — vacation time, health insurance, pension plans, and parental leave — that are in excess of the legal requirements in their country of residence.
+.. TODO: update tables for employee benefits
 
 .. table:: Employee benefits
    :widths: 70 15 15
@@ -1985,6 +2108,10 @@ Employee benefits
 
 Employee satisfaction
 ---------------------
+
+.. TODO: update question text for employee satisfaction
+
+.. TODO: add question background section for employee satisfaction
 
 .. raw:: html
    
@@ -2074,7 +2201,11 @@ Employee satisfaction
 
    </details>
 
+.. TODO: write up employee satisfaction results
+
 Looking at all regions, 68.7% of all employee respondents were satisfied with their salary and benefits package - 25.6% rated themselves "very satisfied". 
+
+.. TODO: update tables for employee satisfaction
 
 .. raw:: html
 
@@ -2129,6 +2260,8 @@ Looking at all regions, 68.7% of all employee respondents were satisfied with th
 Factors affecting salary satisfaction
 -------------------------------------
 
+.. TODO: work out how to compare 2024 satisfaction data to previous years
+
 35.1% of employee respondents - the largest group - said that they had no reasons for dissatisfaction with their salary and benefits. The next most-selected option was "salary is too low", with 30.5%.
 
 As a result of 5 submissions in the "other" category, a new factor was added to these results, "No raises or adjustments for inflation", which will be included as an option for this question in 2024. It's worth noting that had this option been included in the question, other respondents may have selected it, so it's possible that this factor is affecting the industry more than these results would suggest.
@@ -2171,6 +2304,8 @@ As a result of 5 submissions in the "other" category, a new factor was added to 
 .. raw:: html 
 
    </div>
+
+.. TODO: chart for employee salary satisfaction factors
 
 .. raw:: html
 
@@ -2306,6 +2441,8 @@ Of those respondents who selected "other" and provided more detail, factors incl
 Contract rates and satisfaction
 ===============================
 
+.. TODO: determine if we have publishable data for median contract rates and update note text
+
 .. container:: note
 
    .. rubric:: |icon-info| Note on median rates for contractors
@@ -2316,6 +2453,8 @@ Contract rates and satisfaction
 
 Preferred term
 --------------
+
+.. TODO: update question text for preferred term
 
 .. raw:: html
    
@@ -2334,9 +2473,13 @@ Preferred term
 
    </details>
 
+.. TODO: write up preferred term results
+
 For the first time this year, we asked those respondents who are not employees what term they use to describe the kind of work they do. 53.2% term themselves "contractors", while 27.8% prefer "self-employed" and 16.5% use "freelancer". Of those who chose "other", the two terms added were "agency" and "consultant".
 
 Several contractor respondents indicated that they were contractors by necessity rather than choice, taking contracts either because they were unable to find a suitable employment offer, or anticipating an employment offer after a period of contracting. 
+
+.. TODO: update tables for preferred term
 
 .. table:: Preferred term - contractors
    :widths: 70 15 15
@@ -2357,6 +2500,8 @@ Several contractor respondents indicated that they were contractors by necessity
 
 Type of contract work
 ---------------------
+
+.. TODO: check question text for type of contract work
 
 .. raw:: html
    
@@ -2382,7 +2527,13 @@ Type of contract work
 Contractor work type - clients
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. TODO: writeup for contractor work type - clients
+
 48% of contractor clients indicated that they worked exclusively for a single client at a time. Another 34% indicated that they worked exclusively for multiple clients at a time. 13% worked at times for either a single client or multiple clients, and 5% did not indicate whether they worked for a single client or multiple. 
+
+.. TODO: update table for contractor work type
+
+.. TODO: check: would this be better in tabbed tables?
 
 .. table:: Contractor work type - clients
    :widths: 70 15 15
@@ -2403,6 +2554,8 @@ Contractor work type - clients
 
 Contractor work type - duration
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. TODO: update table for contractor work type - duration
 
 .. table:: Contractor work type - duration
    :widths: 70 15 15
@@ -2432,6 +2585,8 @@ Contractor work type - duration
 Contractor work type - products and services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. TODO: update tables for contractor work type - products and services
+
 .. table:: Contractor work type - products and services
    :widths: 70 15 15
    :name: tbl-2023-contractor-work-type-products-and-services
@@ -2451,6 +2606,8 @@ Contractor work type - products and services
 
 Currency and rates
 ------------------
+
+.. TODO: update question text for currency and rates
 
 .. raw:: html
    
@@ -2472,7 +2629,11 @@ Currency and rates
 Currencies
 ~~~~~~~~~~
 
+.. TODO: write up currency summary
+
 Contractor respondents were paid in 7 different currencies. To make comparisons possible, all currencies were converted to USD using mid-market exchange rates, averaged for the whole of 2023.
+
+.. TODO: update table for currencies
 
 .. table:: Currencies and exchange rates - contractors
    :widths: 70 15 15 
@@ -2499,6 +2660,8 @@ Contractor respondents were paid in 7 different currencies. To make comparisons 
 
 Location of contractors
 ~~~~~~~~~~~~~~~~~~~~~~~
+
+.. TODO: is this section useful?
 
 .. raw:: html
 
@@ -2590,6 +2753,8 @@ Location of contractors
 Fee structures
 ~~~~~~~~~~~~~~
 
+TODO: write up fee structures
+
 Comparing payment rates for contractors is difficult due to the number of different ways that individuals in this group operate. To simplify this as much as possible while still allowing comparisons, contractors were asked to estimate their hourly rate, day rate or monthly rate - or one of each type of rate, if appropriate - even if they normally used a different fee structure. Contractors charging multiple rates or in multiple currencies were asked to enter their most common rate, or an average if they felt that was more representative.  
 
 The hourly rate was the most popular option, utilized by 73.4% of respondents (and exclusively by 41.8%). Next was monthly rates, entered by 43% of respondents (exclusively by 20.3%). Day rates were entered by 38% of respondents, but only exclusively by 6.3%.
@@ -2617,6 +2782,10 @@ The median monthly rate across all regions (34 respondents) was USD $4,168. Ther
 
 Contractor satisfaction
 -----------------------
+
+.. TODO: update question text for contractor satisfaction
+
+.. TODO: add question background section for contractor satisfaction
 
 .. raw:: html
    
@@ -2708,6 +2877,8 @@ Contractor satisfaction
 
    </details>
 
+.. TODO: update tables for contractor satisfaction 
+
 .. raw:: html
 
    <div class="tab-wrap"><input type="radio" id="tabF1b-1" name="tabGroupF1b" class="tab" checked><label for="tabF1b-1">Rate satisfaction</label><input type="radio" id="tabF1b-2" name="tabGroupF1b" class="tab"><label for="tabF1b-2">Overall satisfaction</label><div class="tab__content">
@@ -2758,6 +2929,8 @@ Contractor satisfaction
 
 Factors affecting contractor satisfaction
 -----------------------------------------
+
+.. TODO: work out how to present satisfaction factors for contractors and compare with previous format
 
 .. raw:: html
 
@@ -2897,7 +3070,11 @@ Factors affecting contractor satisfaction
 Pay transparency
 ================
 
+.. TODO: update pay transparency intro
+
 Organizations with pay transparency are open about salaries and benefits for existing and prospective employees and contractors. Due to feedback from contractors in 2022, pay transparency questions were only shown to employee respondents. 
+
+.. TODO: is there updated pay transparency legislation information?
 
 .. container:: note
 
@@ -2910,6 +3087,8 @@ Organizations with pay transparency are open about salaries and benefits for exi
 
 Official pay transparency policy
 --------------------------------
+
+.. TODO: check question text for official pay transparency policy
 
 .. raw:: html
    
@@ -2929,9 +3108,13 @@ Official pay transparency policy
 
    </details>
 
+.. TODO: writeup for official pay transparency policy
+
 52.2% of respondents reported that there was no official pay transparency policy at their organization, and 23.9% were unsure. These numbers are almost exactly the same as last year, which was the first time that this question was included. 
 
 9.8% of organizations had a partial policy, and 6.8% had a full open pay transparency (slightly up from 5.3% last year). 7.2% had a policy forbidding any pay disclosure, which is slightly down from 9% last year. 
+
+.. TODO: update table for official pay transparency policy
 
 .. table:: Pay transparency policy
    :widths: 70 15 15
@@ -2955,6 +3138,8 @@ Official pay transparency policy
 Pay transparency culture
 ------------------------
 
+.. TODO: check question text for pay transparency culture
+
 .. raw:: html
    
    <details><summary>What we asked</summary>
@@ -2972,7 +3157,11 @@ Pay transparency culture
 
    </details>
 
+.. TODO: writeup for pay transparency culture
+
 Showing that salary is still very much a taboo subject, 67.1% of respondents reported that there was no sharing between colleagues at their organization. 18.7% said there was some sharing, and only 1.4% reported that their co-workers were open about salary.
+
+.. TODO: update table for pay transparency culture
 
 .. table:: Pay transparency culture
    :widths: 70 15 15
@@ -2994,6 +3183,8 @@ Showing that salary is still very much a taboo subject, 67.1% of respondents rep
 Feelings about pay transparency
 -------------------------------
 
+.. TODO: check question text for feelings about pay transparency
+
 .. raw:: html
    
    <details><summary>What we asked</summary>
@@ -3012,7 +3203,11 @@ Feelings about pay transparency
 
    </details>
 
+.. TODO: writeup for feelings about pay transparency
+
 74.9% of respondents were supportive of pay transparency, with 45.7% expressing strong support. Those in opposition were in the minority (3.6%).   
+
+.. TODO: update table for feelings about pay transparency
 
 .. table:: Feelings about pay transparency
    :widths: 70 15 15
@@ -3035,6 +3230,8 @@ Feelings about pay transparency
 
 Organization demographics
 =========================
+
+.. TODO: update organization demographics intro to include contractor changes in 2024
 
 This section concerns employing organizations. Contractors were asked to either answer about the main organization they work for, or a typical/respresentative organization, whichever felt most appropriate to them.
 
@@ -3061,7 +3258,11 @@ Organization size
 
    </details>
 
+.. TODO: writeup for organization size
+
 As in previous years, medium-sized organizations make up the largest proportion of the results. When separating the employee respondents from the contractor respondents, a different pattern emerges - contractors are generally spread much more evenly between small, medium and large organizations.  
+
+.. TODO: update tables for organization size (is contractor information still relevant? what if we only look at contractors working for a single organization?)
 
 .. raw:: html
 
@@ -3124,6 +3325,8 @@ As in previous years, medium-sized organizations make up the largest proportion 
 Organization type and industry
 ------------------------------
 
+.. TODOL update question text for organization type and industry
+
 .. raw:: html
    
    <details><summary>What we asked</summary>
@@ -3175,6 +3378,8 @@ Organization type and industry
 
    </details>
 
+.. TODO: writeup for organization type and industry
+
 Respondents who selected software development or software development tools were asked to also select the industries that the software product or service created by the organization primarily caters to, if possible. For example, e-learning software would also be categorized as "Education, Training" and point of sale software for restaurants would also be "Food, Beverages". 
 
 The majority of organizations represented in the results - 94.8% - were for-profit businesses or corporations rather than non-profit, community, political, educational or government organizations, or NGOs.
@@ -3182,6 +3387,8 @@ The majority of organizations represented in the results - 94.8% - were for-prof
 Based on feedback and "other" entries for industry, the final list of industries has been adjusted for the final results. One entirely new industry group has been added - Parks, Recreation, Nature, Wildnerness, Outdoors, Conservation, Ecotourism - and several others have had their definitions expanded.
 
 69.3% of respondents chose a single industry from the list, and 20% selected two, and 6% selected three different industries. 
+
+.. TODO: update tables for organization type and industry
 
 .. table:: Organization industry
    :widths: 70 15 15
@@ -3262,6 +3469,9 @@ Based on feedback and "other" entries for industry, the final list of industries
 Organization origin and location
 --------------------------------
 
+.. TODO: update question text for organization origin and location
+
+
 .. raw:: html
    
    <details><summary>What we asked</summary>
@@ -3284,9 +3494,13 @@ Organization origin and location
 
    </details>
 
+.. TODO: writeup for organization origin and location
+
 79.8% of respondents reported that their employer organization was a multinational organization - one with office locations and business operations in two or more countries. These respondents were asked to specify the location where the organization originated.
 
 A total of 63.3% of organizations originated in North America, with the bulk of those being US-based. 
+
+.. TODO: update tables for organization location
 
 .. raw:: html
 
@@ -3469,41 +3683,43 @@ Age group
 
    </details>
 
-The age group split was very neat this year - approximately one third of respondents were in the 26-35 year old age group, and another third were in the 36-45 year old age group. The remaining third were mostly in the older groups - 46-55, 56-65, and 66+ - although 3.2% fell into the 18-25 year old group and 1.2% chose not to supply an answer. 
+The age group split in 2024 was similar to previous years, with the majority of respondents falling into the 26-35 and 36-45 age groups.
 
 .. table:: Age group
    :widths: 70 15 15
-   :name: tbl-2023-age-group
-   :class: std3col
+   :name: tbl-2024-age-group
+   :class: std3col sortable
 
-   +---------------+-----+-------+
-   | Age group     | |N| |   |%| |
-   +===============+=====+=======+
-   | 18-25         |  33 |  3.2% |
-   +---------------+-----+-------+
-   | 26-35         | 339 | 33.3% |
-   +---------------+-----+-------+
-   | 36-45         | 342 | 33.6% |
-   +---------------+-----+-------+
-   | 46-55         | 175 | 17.2% |
-   +---------------+-----+-------+
-   | 56-65         | 100 |  9.8% |
-   +---------------+-----+-------+
-   | 66+           |  16 |  1.6% |
-   +---------------+-----+-------+
-   | not-specified |  12 |  1.2% |
-   +---------------+-----+-------+
+   +------------------+-----+-------+
+   | Age group        | |N| | |%|   |
+   +==================+=====+=======+
+   | 18-25            | 30  | 3.9%  |
+   +------------------+-----+-------+
+   | 26-35            | 255 | 32.7% |
+   +------------------+-----+-------+
+   | 36-45            | 244 | 31.3% |
+   +------------------+-----+-------+
+   | 46-55            | 156 | 20.0% |
+   +------------------+-----+-------+
+   | 56-65            | 76  | 9.8%  |
+   +------------------+-----+-------+
+   | 66+              | 13  | 1.7%  |
+   +------------------+-----+-------+
+   | not-specified    | 5   | 0.6%  |
+   +------------------+-----+-------+
+
+.. TODO: chart for age group
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Respondent age group" aria-describedby="figure_respondent-age-group_desc" type="image/svg+xml" data="/_images/2023-respondent-age-group.svg">
+      <object role="img" aria-label="Respondent age group" aria-describedby="figure_respondent-age-group_desc" type="image/svg+xml" data="/_images/2024-respondent-age-group.svg">
          <p id="figure_respondent-age-group_desc">Vertical bar chart showing age groupings of respondents. </p>
       </object> 
       <figcaption>Figure: Respondent age group</figcaption>
    </figure>
 
-.. figure:: images/2023/2023-respondent-age-group.svg
+.. figure:: images/2024/2024-respondent-age-group.svg
    :class: hide
 
 Gender identity
@@ -3527,37 +3743,37 @@ Gender identity
 
    </details>
 
-The majority of respondents in 2023 were women - accounting for 59.9% of the total, slightly higher than in previous surveys. Men made up 34.7% - slightly lower than in previous surveys. 2.9% of respondents were non-binary, 0.3% chose "other", and 2.2% did not provide an answer. 
+As in previous surveys, the majority of respondents in 2024 were women - 57% - with men making up 37.2%. 3.9% of respondents were non-binary, transgender or other, and 1.7% chose to not provide an answer. 
 
 .. table:: Gender identity
    :widths: 70 15 15
-   :name: tbl-2023-gender-identity
-   :class: std3col
+   :name: tbl-2024-gender-identity
+   :class: std3col sortable
 
-   +-----------------+-----+-------+
-   | Gender identity | |N| | |%|   |
-   +=================+=====+=======+
-   | Woman           | 609 | 59.9% |
-   +-----------------+-----+-------+
-   | Man             | 353 | 34.7% |
-   +-----------------+-----+-------+
-   | Non-binary      | 30  | 2.9%  |
-   +-----------------+-----+-------+
-   | Not specified   | 22  | 2.2%  |
-   +-----------------+-----+-------+
-   | Other           | 3   | 0.3%  |
-   +-----------------+-----+-------+
+   +---------------------+-----+-------+
+   | Gender identity     | |N| | |%|   |
+   +=====================+=====+=======+
+   | Woman               | 444 | 57.0% |
+   +---------------------+-----+-------+
+   | Man                 | 290 | 37.2% |
+   +---------------------+-----+-------+
+   | Non-binary          | 32  | 4.2%  |
+   +---------------------+-----+-------+
+   | Not specified       | 13  | 1.7%  |
+   +---------------------+-----+-------+
+
+.. TODO: chart for gender identity
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Respondent gender identity" aria-describedby="figure_respondent-gender-identity_desc" type="image/svg+xml" data="/_images/2023-respondent-gender-identity.svg">
-         <p id="figure_respondent-gender-identity_desc">Donut chart showing gender identity of respodnents.</p>
+      <object role="img" aria-label="Respondent gender identity" aria-describedby="figure_respondent-gender-identity_desc" type="image/svg+xml" data="/_images/2024-respondent-gender-identity.svg">
+         <p id="figure_respondent-gender-identity_desc">Donut chart showing gender identity of respondents.</p>
       </object> 
       <figcaption>Figure: Respondent gender identity</figcaption>
    </figure>
 
-.. figure:: images/2023/2023-respondent-gender-identity.svg
+.. figure:: images/2024/2024-respondent-gender-identity.svg
    :class: hide
 
 Experience
@@ -3572,61 +3788,63 @@ Experience
    |icon-question| How many years of experience do you have in documentation?
 
    - Less than 1 year
-   - More than 1 year but less than  2 years
-   - More than 2 years but less than  5 years
-   - More than 5 years but less than 10 years
-   - More than 10 years but less than 15 years
-   - More than 15 years but less than 20 years
-   - More than 20 years but less than 25 years
-   - More than 25 years but less than 30 years
-   - More than 30 years (please specify)
+   - 1 year or more but less than 2 years
+   - 2 years or more but less than 5 years
+   - 5 years or more but less than 10 years
+   - 10 years or more but less than 15 years
+   - 15 years or more but less than 20 years
+   - 20 years or more but less than 25 years
+   - 25 years or more but less than 30 years
+   - 30 years or more (please specify)
    - I'd rather not say
 
 .. raw:: html
 
    </details>
 
-The experience level of respondents in 2023 was similar to previous years - around half fell into either the 5-10 years range (27.8%) or 2-5 years range (20%). 43.4% of respondents were spread out over the most experienced ranges - starting from 10 years of experience and going all the way up to 50 years in the documentation game. Only 8.3% were new documentarians (2.9% with less than one year and 5.4% with 1-2 years). 0.4% did not provide an answer. 
+The experience level spread of respondents echoed previous years - most falling into the 5-10 years range (28.2%), 10-15 years range (15.8%) and 2-5 years range (20.0%). New documentarians - those with less than 2 years of experience - made up 8.3% of respondents, and the most experienced documentarians - those with more than 20 years of experience - made up 17.7%. The five most experienced respondents had 40, 41 or 42 years in the game. 0.3% chose not to provide an answer.
 
 .. table:: Experience in documentation
    :widths: 70 15 15
-   :name: tbl-2023-experience
-   :class: std3col
+   :name: tbl-2024-experience
+   :class: std3col sortable
 
    +---------------------+-----+-------+
    | Years of experience | |N| | |%|   |
    +=====================+=====+=======+
-   | 0-1                 | 30  | 2.9%  |
+   | 0-1                 | 12  | 1.5%  |
    +---------------------+-----+-------+
-   | 1-2                 | 55  | 5.4%  |
+   | 1-2                 | 28  | 3.6%  |
    +---------------------+-----+-------+
-   | 2-5                 | 203 | 20.0% |
+   | 2-5                 | 138 | 17.7% |
    +---------------------+-----+-------+
-   | 5-10                | 283 | 27.8% |
+   | 5-10                | 220 | 28.2% |
    +---------------------+-----+-------+
-   | 10-15               | 161 | 15.8% |
+   | 10-15               | 145 | 18.6% |
    +---------------------+-----+-------+
-   | 15-20               | 101 | 9.9%  |
+   | 15-20               | 74  | 9.5%  |
    +---------------------+-----+-------+
-   | 20-25               | 70  | 6.9%  |
+   | 20-25               | 63  | 8.1%  |
    +---------------------+-----+-------+
-   | 25-30               | 63  | 6.2%  |
+   | 25-30               | 62  | 8.0%  |
    +---------------------+-----+-------+
-   | 30+                 | 47  | 4.6%  |
+   | 30+                 | 35  | 4.5%  |
    +---------------------+-----+-------+
-   | Not specified       | 4   | 0.4%  |
+   | Not specified       | 2   | 0.3%  |
    +---------------------+-----+-------+
+
+.. TODO: chart for years of experience
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Respondent years of experience" aria-describedby="figure_respondent-years-experience_desc" type="image/svg+xml" data="/_images/2023-respondent-years-experience.svg">
+      <object role="img" aria-label="Respondent years of experience" aria-describedby="figure_respondent-years-experience_desc" type="image/svg+xml" data="/_images/2024-respondent-years-experience.svg">
          <p id="figure_respondent-years-experience_desc">Vertical bar chart showing respondents' years of experience in documentation. </p>
       </object> 
       <figcaption>Figure: Years of experience in documentation</figcaption>
    </figure>
 
-.. figure:: images/2023/2023-respondent-years-experience.svg
+.. figure:: images/2024/2024-respondent-years-experience.svg
    :class: hide
 
 Education level
@@ -3654,43 +3872,45 @@ Education level
 
    </details>
 
-Overall, most respondents are university- or college-educated: 93.9% held at least one undergraduate qualification, and 41.3% also held a postgraduate qualification. 3.5% held multiple undergraduate qualifications, and 3.7% held multiple post-graduate qualifications. 0.4% chose not to answer, and 2 individuals indicated that they had none of the listed qualifications.     
+As in previous years, most respondents are university- or college-educated: 94.2% held at least one graduate qualification, and 39.9% also held one or more post-graduate qualifications. 
 
 .. table:: Highest education level completed
    :widths: 70 15 15
-   :name: tbl-2023-education
-   :class: std3col
+   :name: tbl-2024-education
+   :class: std3col sortable
 
-   +----------------------------+-----+-------+
-   | Education Level            | |N| |   |%| |
-   +============================+=====+=======+
-   | High school                |  40 |  3.9% |
-   +----------------------------+-----+-------+
-   | Technical or vocational    |  16 |  1.6% |
-   +----------------------------+-----+-------+
-   | Graduate                   | 499 | 49.1% |
-   +----------------------------+-----+-------+
-   | Multiple graduate          |  36 |  3.5% |
-   +----------------------------+-----+-------+
-   | Post-graduate              | 382 | 37.6% |
-   +----------------------------+-----+-------+
-   | Multiple post-graduate     |  38 |  3.7% |
-   +----------------------------+-----+-------+
-   | Not specified              |  4  |  0.4% |
-   +----------------------------+-----+-------+
-   | None of the listed options |  2  |  0.2% |
-   +----------------------------+-----+-------+
+   +--------------------------------+-----+-------+
+   | Education level                | |N| | |%|   |
+   +================================+=====+=======+
+   | Graduate                       | 403 | 51.7% |
+   +--------------------------------+-----+-------+
+   | Post-graduate                  | 270 | 34.7% |
+   +--------------------------------+-----+-------+
+   | Multiple post-graduate         | 41  | 5.3%  |
+   +--------------------------------+-----+-------+
+   | High school                    | 22  | 2.8%  |
+   +--------------------------------+-----+-------+
+   | Multiple graduate              | 20  | 2.6%  |
+   +--------------------------------+-----+-------+
+   | Technical or vocational        | 17  | 2.2%  |
+   +--------------------------------+-----+-------+
+   | Not specified                  | 4   | 0.5%  |
+   +--------------------------------+-----+-------+
+   | None of the listed options     | 2   | 0.3%  |
+   +--------------------------------+-----+-------+
+
+.. TODO: chart for education level
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Respondent education level" aria-describedby="figure_respondent-education-level_desc" type="image/svg+xml" data="/_images/2023-respondent-education.svg">
+      <object role="img" aria-label="Respondent education level" aria-describedby="figure_respondent-education-level_desc" type="image/svg+xml" data="/_images/2024-respondent-education.svg">
          <p id="figure_respondent-education-level_desc">Vertical bar chart showing respondents' highest completed level of education. </p>
       </object> 
       <figcaption>Figure: Education level</figcaption>
    </figure>
 
-.. figure:: images/2023/2023-respondent-education.svg
+.. figure:: images/2024/2024-respondent-education.svg
    :class: hide
 
 Location
@@ -3702,46 +3922,21 @@ Location
 
 .. container:: question
 
-   |icon-question| Which of the following best describes the type of area where you reside?
-
-   - Rural area (low population density, ≤5000 people)
-   - Town or suburban area (medium population density, ≤50,000 people)
-   - City or urban area (high population density, >50,000 people)
+   While most questions in this section are optional, general geographical location is not - this is because without it, we cannot calculate median salaries, which is one of the main objectives of the survey. For privacy reasons, finer-grained geographical location is optional.
    
-   Please refer to this World Bank article on Degree of Urbanization [https://blogs.worldbank.org/sustainablecities/how-do-we-define-cities-towns-and-rural-areas] for more clarification.
+   |icon-question| Please enter your country, state or province, and town or city, or the nearest large city that you feel comfortable specifying. If the autofill does not include a state or province for your location, please enter N/A.
 
    Country: 
-   
    State/Province/Region: 
-   
    City/Town (optional): 
 
 .. raw:: html
 
    </details>
 
-While most questions in this section were optional, general geographical location was not - this is because without country and state/province/region, we cannot calculate regional median salaries, which is one of the main objectives of the survey. For privacy reasons, finer-grained geographical location is optional.
+Around half of all respondents (55.3%) were based in North America, the bulk of those (80% of this region, or 44.3% overall) in the United States. In total, 55 countries were represented.
 
-The majority of respondents - 70.3% - reported living in a city or urban area, with 23.7% in a town or suburban (semi-dense) location and only 6% living in a rural area. 
-
-.. table:: Degree of urbanization 
-   :widths: 70 15 15                
-   :name: tbl-2023-degree-of-urbanization
-   :class: std3col
-
-   +-----------------------+-----+-------+
-   | Area type             | |N| | |%|   |
-   +=======================+=====+=======+
-   | City or urban area    | 715 | 70.3% |
-   +-----------------------+-----+-------+
-   | Town or suburban area | 241 | 23.7% |
-   +-----------------------+-----+-------+
-   | Rural area            | 61  | 6.0%  |
-   +-----------------------+-----+-------+
-
-A little over half of respondents (55.7%) were based in North America, the bulk of those in the United States. 
-
-New countries appearing in the results for 2023 include the Caribbean nation St Kitts & Nevis, Puerto Rico, United Arab Emirates, Lebanon, and Rwanda. 
+.. TODO: year to year country statistics
 
 .. raw:: html
 
@@ -3749,24 +3944,22 @@ New countries appearing in the results for 2023 include the Caribbean nation St 
 
 .. table:: Respondent location - North America
    :widths: 70 15 15                
-   :name: tbl-2023-respondent-location-north-america
-   :class: std3col
+   :name: tbl-2024-respondent-location-north-america
+   :class: std3col sortable
 
-   +------------------------+-----+--------+
-   | Region                 | |N| | |%|    |
-   +========================+=====+========+
-   | North America          | 566 |  55.7% |
-   +------------------------+-----+--------+
-   | - United States        | 477 |  46.9% |
-   +------------------------+-----+--------+
-   | - Canada               |  81 |   8.0% |
-   +------------------------+-----+--------+
-   | - Mexico               | 6   | 0.6%   |
-   +------------------------+-----+--------+
-   | - St Kitts & Nevis     | 1   | 0.1%   |
-   +------------------------+-----+--------+
-   | - Puerto Rico          | 1   | 0.1%   |
-   +------------------------+-----+--------+
+   +----------------------+-----+-------+
+   | Region               | |N| | |%|   |
+   +======================+=====+=======+
+   | North America        | 431 | 55.3% |
+   +----------------------+-----+-------+
+   | - United States      | 345 | 44.3% |
+   +----------------------+-----+-------+
+   | - Canada             | 82  | 10.5% |
+   +----------------------+-----+-------+
+   | - Mexico             | 3   | 0.4%  |
+   +----------------------+-----+-------+
+   | - Puerto Rico        | 1   | 0.1%  |
+   +----------------------+-----+-------+
 
 .. raw:: html
 
@@ -3774,78 +3967,74 @@ New countries appearing in the results for 2023 include the Caribbean nation St 
 
 .. table:: Respondent location - Europe
    :widths: 70 15 15
-   :name: tbl-2023-respondent-location-europe
-   :class: std3col
+   :name: tbl-2024-respondent-location-europe
+   :class: std3col sortable
 
-   +------------------------+-----+--------+
-   | Region                 | |N| | |%|    |
-   +========================+=====+========+
-   | Europe                 | 330 | 32.4%  |
-   +------------------------+-----+--------+
-   | - United Kingdom       | 62  | 6.1%   |
-   +------------------------+-----+--------+
-   | - Ukraine              | 45  | 4.4%   |
-   +------------------------+-----+--------+
-   | - Germany              | 36  | 3.5%   |
-   +------------------------+-----+--------+
-   | - Poland               | 27  | 2.7%   |
-   +------------------------+-----+--------+
-   | - France               | 21  | 2.1%   |
-   +------------------------+-----+--------+
-   | - Romania              | 17  | 1.7%   |
-   +------------------------+-----+--------+
-   | - Netherlands          | 15  | 1.5%   |
-   +------------------------+-----+--------+
-   | - Portugal             | 12  | 1.2%   |
-   +------------------------+-----+--------+
-   | - Ireland              | 12  | 1.2%   |
-   +------------------------+-----+--------+
-   | - Russia               | 12  | 1.2%   |
-   +------------------------+-----+--------+
-   | - Czech Republic       | 10  | 1.0%   |
-   +------------------------+-----+--------+
-   | - Spain                | 10  | 1.0%   |
-   +------------------------+-----+--------+
-   | - Finland              | 9   | 0.9%   |
-   +------------------------+-----+--------+
-   | - Italy                | 5   | 0.5%   |
-   +------------------------+-----+--------+
-   | - Croatia              | 4   | 0.4%   |
-   +------------------------+-----+--------+
-   | - Switzerland          | 4   | 0.4%   |
-   +------------------------+-----+--------+
-   | - Sweden               | 4   | 0.4%   |
-   +------------------------+-----+--------+
-   | - Slovenia             | 3   | 0.3%   |
-   +------------------------+-----+--------+
-   | - Austria              | 3   | 0.3%   |
-   +------------------------+-----+--------+
-   | - Serbia               | 3   | 0.3%   |
-   +------------------------+-----+--------+
-   | - Belgium              | 2   | 0.2%   |
-   +------------------------+-----+--------+
-   | - Estonia              | 2   | 0.2%   |
-   +------------------------+-----+--------+
-   | - Greece               | 2   | 0.2%   |
-   +------------------------+-----+--------+
-   | - Hungary              | 2   | 0.2%   |
-   +------------------------+-----+--------+
-   | - Lithuania            | 1   | 0.1%   |
-   +------------------------+-----+--------+
-   | - Norway               | 1   | 0.1%   |
-   +------------------------+-----+--------+
-   | - Turkey               | 1   | 0.1%   |
-   +------------------------+-----+--------+
-   | - Cyprus               | 1   | 0.1%   |
-   +------------------------+-----+--------+
-   | - Montenegro           | 1   | 0.1%   |
-   +------------------------+-----+--------+
-   | - Georgia              | 1   | 0.1%   |
-   +------------------------+-----+--------+
-   | - Bulgaria             | 1   | 0.1%   |
-   +------------------------+-----+--------+
-   | - Denmark              | 1   | 0.1%   |
-   +------------------------+-----+--------+
+   +-----------------------+-----+-------+
+   | Region                | |N| | |%|   |
+   +=======================+=====+=======+
+   | Europe                | 210 | 27.0% |
+   +-----------------------+-----+-------+
+   | - United Kingdom      | 47  | 6.0%  |
+   +-----------------------+-----+-------+
+   | - Germany             | 32  | 4.1%  |
+   +-----------------------+-----+-------+
+   | - France              | 20  | 2.6%  |
+   +-----------------------+-----+-------+
+   | - Ukraine             | 9   | 1.2%  |
+   +-----------------------+-----+-------+
+   | - Sweden              | 9   | 1.2%  |
+   +-----------------------+-----+-------+
+   | - Netherlands         | 8   | 1.0%  |
+   +-----------------------+-----+-------+
+   | - Spain               | 8   | 1.0%  |
+   +-----------------------+-----+-------+
+   | - Poland              | 8   | 1.0%  |
+   +-----------------------+-----+-------+
+   | - Serbia              | 8   | 1.0%  |
+   +-----------------------+-----+-------+
+   | - Romania             | 7   | 0.9%  |
+   +-----------------------+-----+-------+
+   | - Czechia             | 6   | 0.8%  |
+   +-----------------------+-----+-------+
+   | - Croatia             | 5   | 0.6%  |
+   +-----------------------+-----+-------+
+   | - Ireland             | 5   | 0.6%  |
+   +-----------------------+-----+-------+
+   | - Hungary             | 4   | 0.5%  |
+   +-----------------------+-----+-------+
+   | - Finland             | 3   | 0.4%  |
+   +-----------------------+-----+-------+
+   | - Bulgaria            | 3   | 0.4%  |
+   +-----------------------+-----+-------+
+   | - Norway              | 3   | 0.4%  |
+   +-----------------------+-----+-------+
+   | - Italy               | 3   | 0.4%  |
+   +-----------------------+-----+-------+
+   | - Greece              | 3   | 0.4%  |
+   +-----------------------+-----+-------+
+   | - Portugal            | 3   | 0.4%  |
+   +-----------------------+-----+-------+
+   | - Russia              | 3   | 0.4%  |
+   +-----------------------+-----+-------+
+   | - Estonia             | 2   | 0.3%  |
+   +-----------------------+-----+-------+
+   | - Denmark             | 2   | 0.3%  |
+   +-----------------------+-----+-------+
+   | - Austria             | 2   | 0.3%  |
+   +-----------------------+-----+-------+
+   | - Switzerland         | 2   | 0.3%  |
+   +-----------------------+-----+-------+
+   | - Georgia             | 1   | 0.1%  |
+   +-----------------------+-----+-------+
+   | - Slovenia            | 1   | 0.1%  |
+   +-----------------------+-----+-------+
+   | - Malta               | 1   | 0.1%  |
+   +-----------------------+-----+-------+
+   | - Turkey              | 1   | 0.1%  |
+   +-----------------------+-----+-------+
+   | - Lithuania           | 1   | 0.1%  |
+   +-----------------------+-----+-------+
 
 .. raw:: html
 
@@ -3853,54 +4042,64 @@ New countries appearing in the results for 2023 include the Caribbean nation St 
 
 .. table:: Respondent location - Other regions
    :widths: 70 15 15
-   :name: tbl-2023-respondent-location-other-regions
-   :class: std3col
+   :name: tbl-2024-respondent-location-other-regions
+   :class: std3col sortable
 
-   +------------------------+-----+--------+
-   | Region                 | |N| | |%|    |
-   +========================+=====+========+
-   | Oceania                |  51 |   5.0% |
-   +------------------------+-----+--------+
-   | - Australia            | 47  | 4.6%   |
-   +------------------------+-----+--------+
-   | - New Zealand          | 4   | 0.4%   |
-   +------------------------+-----+--------+
-   | Asia                   |  36 |   3.5% |
-   +------------------------+-----+--------+
-   | - India                | 28  | 2.8%   |
-   +------------------------+-----+--------+
-   | - Japan                | 5   | 0.5%   |
-   +------------------------+-----+--------+
-   | - Singapore            | 1   | 0.1%   |
-   +------------------------+-----+--------+
-   | - Indonesia            | 1   | 0.1%   |
-   +------------------------+-----+--------+
-   | - Thailand             | 1   | 0.1%   |
-   +------------------------+-----+--------+
-   | Middle East            | 14  | 1.4%   |
-   +------------------------+-----+--------+
-   | - Israel               | 12  | 1.2%   |
-   +------------------------+-----+--------+
-   | - United Arab Emirates | 1   | 0.1%   |
-   +------------------------+-----+--------+
-   | - Lebanon              | 1   | 0.1%   |
-   +------------------------+-----+--------+
-   | Africa                 | 13  | 1.3%   |
-   +------------------------+-----+--------+
-   | - South Africa         | 9   | 0.9%   |
-   +------------------------+-----+--------+
-   | - Nigeria              | 2   | 0.2%   |
-   +------------------------+-----+--------+
-   | - Rwanda               | 1   | 0.1%   |
-   +------------------------+-----+--------+
-   | - Kenya                | 1   | 0.1%   |
-   +------------------------+-----+--------+
-   | South America          | 7   | 0.7%   |
-   +------------------------+-----+--------+
-   | - Brazil               | 5   | 0.5%   |
-   +------------------------+-----+--------+
-   | - Argentina            | 2   | 0.2%   |
-   +------------------------+-----+--------+
+   +----------------------------+-----+------+
+   | Region                     | |N| | |%|  |
+   +============================+=====+======+
+   | Asia                       | 52  | 6.7% |
+   +----------------------------+-----+------+
+   | - India                    | 42  | 5.4% |
+   +----------------------------+-----+------+
+   | - Japan                    | 2   | 0.3% |
+   +----------------------------+-----+------+
+   | - Philippines              | 2   | 0.3% |
+   +----------------------------+-----+------+
+   | - Pakistan                 | 1   | 0.1% |
+   +----------------------------+-----+------+
+   | - Taiwan                   | 1   | 0.1% |
+   +----------------------------+-----+------+
+   | - Thailand                 | 1   | 0.1% |
+   +----------------------------+-----+------+
+   | - Kazakhstan               | 1   | 0.1% |
+   +----------------------------+-----+------+
+   | - China                    | 1   | 0.1% |
+   +----------------------------+-----+------+
+   | - Sri Lanka                | 1   | 0.1% |
+   +----------------------------+-----+------+
+   | Oceania                    | 47  | 6.0% |
+   +----------------------------+-----+------+
+   | - Australia                | 43  | 5.5% |
+   +----------------------------+-----+------+
+   | - New Zealand              | 4   | 0.5% |
+   +----------------------------+-----+------+
+   | Middle East                | 29  | 3.7% |
+   +----------------------------+-----+------+
+   | - Israel                   | 27  | 3.5% |
+   +----------------------------+-----+------+
+   | - United Arab Emirates     | 1   | 0.1% |
+   +----------------------------+-----+------+
+   | - Lebanon                  | 1   | 0.1% |
+   +----------------------------+-----+------+
+   | South America              | 6   | 0.8% |
+   +----------------------------+-----+------+
+   | - Brazil                   | 2   | 0.3% |
+   +----------------------------+-----+------+
+   | - Colombia                 | 2   | 0.3% |
+   +----------------------------+-----+------+
+   | - Argentina                | 1   | 0.1% |
+   +----------------------------+-----+------+
+   | - Chile                    | 1   | 0.1% |
+   +----------------------------+-----+------+
+   | Africa                     | 4   | 0.5% |
+   +----------------------------+-----+------+
+   | - South Africa             | 2   | 0.3% |
+   +----------------------------+-----+------+
+   | - Nigeria                  | 1   | 0.1% |
+   +----------------------------+-----+------+
+   | - Rwanda                   | 1   | 0.1% |
+   +----------------------------+-----+------+
 
 .. raw:: html
 
@@ -3909,104 +4108,106 @@ New countries appearing in the results for 2023 include the Caribbean nation St 
 Respondent location regional breakdowns
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Cities with at least 10 respondents are shown.
+
 .. raw:: html
 
    <div class="tab-wrap"><input type="radio" id="tabH62-1" name="tabGroupH62" class="tab" checked><label for="tabH62-1">USA</label><input type="radio" id="tabH62-2" name="tabGroupH62" class="tab"><label for="tabH62-2">Canada</label><input type="radio" id="tabH62-3" name="tabGroupH62" class="tab"><label for="tabH62-3">Australia</label><div class="tab__content">
 
 .. table:: Respondent location - US state
    :widths: 70 15 15
-   :name: tbl-2023-respondent-location-us-state
-   :class: std3col
+   :name: tbl-2024-respondent-location-us-state
+   :class: std3col sortable
 
-   +-----------------+-----+-------+
-   | US State        | |N| | |%|   |
-   +=================+=====+=======+
-   | California      | 70  | 14.7% |
-   +-----------------+-----+-------+
-   | - San Francisco | 10  |       |
-   +-----------------+-----+-------+
-   | Texas           | 44  | 9.2%  |
-   +-----------------+-----+-------+
-   | - Austin        | 20  |       |
-   +-----------------+-----+-------+
-   | Oregon          | 29  | 6.1%  |
-   +-----------------+-----+-------+
-   | - Portland      | 20  |       |
-   +-----------------+-----+-------+
-   | North Carolina  | 27  | 5.7%  |
-   +-----------------+-----+-------+
-   | Washington      | 27  | 5.7%  |
-   +-----------------+-----+-------+
-   | - Seattle       | 12  |       |
-   +-----------------+-----+-------+
-   | Colorado        | 24  | 5.0%  |
-   +-----------------+-----+-------+
-   | Massachusetts   | 22  | 4.6%  |
-   +-----------------+-----+-------+
-   | New York        | 20  | 4.2%  |
-   +-----------------+-----+-------+
-   | Florida         | 20  | 4.2%  |
-   +-----------------+-----+-------+
-   | Virginia        | 19  | 4.0%  |
-   +-----------------+-----+-------+
-   | Michigan        | 16  | 3.4%  |
-   +-----------------+-----+-------+
-   | Pennsylvania    | 15  | 3.1%  |
-   +-----------------+-----+-------+
-   | Minnesota       | 15  | 3.1%  |
-   +-----------------+-----+-------+
-   | Wisconsin       | 14  | 2.9%  |
-   +-----------------+-----+-------+
-   | Ohio            | 13  | 2.7%  |
-   +-----------------+-----+-------+
-   | Georgia         | 12  | 2.5%  |
-   +-----------------+-----+-------+
-   | Utah            | 11  | 2.3%  |
-   +-----------------+-----+-------+
-   | Illinois        | 10  | 2.1%  |
-   +-----------------+-----+-------+
-   | New Jersey      | 9   | 1.9%  |
-   +-----------------+-----+-------+
-   | Missouri        | 7   | 1.5%  |
-   +-----------------+-----+-------+
-   | Vermont         | 7   | 1.5%  |
-   +-----------------+-----+-------+
-   | Maryland        | 6   | 1.3%  |
-   +-----------------+-----+-------+
-   | Indiana         | 5   | 1.0%  |
-   +-----------------+-----+-------+
-   | Arizona         | 5   | 1.0%  |
-   +-----------------+-----+-------+
-   | Tennessee       | 5   | 1.0%  |
-   +-----------------+-----+-------+
-   | New Hampshire   | 4   | 0.8%  |
-   +-----------------+-----+-------+
-   | Kansas          | 4   | 0.8%  |
-   +-----------------+-----+-------+
-   | Nevada          | 3   | 0.6%  |
-   +-----------------+-----+-------+
-   | Alabama         | 3   | 0.6%  |
-   +-----------------+-----+-------+
-   | Oklahoma        | 2   | 0.4%  |
-   +-----------------+-----+-------+
-   | Delaware        | 1   | 0.2%  |
-   +-----------------+-----+-------+
-   | South Carolina  | 1   | 0.2%  |
-   +-----------------+-----+-------+
-   | Louisiana       | 1   | 0.2%  |
-   +-----------------+-----+-------+
-   | Iowa            | 1   | 0.2%  |
-   +-----------------+-----+-------+
-   | Alaska          | 1   | 0.2%  |
-   +-----------------+-----+-------+
-   | South Dakota    | 1   | 0.2%  |
-   +-----------------+-----+-------+
-   | Nebraska        | 1   | 0.2%  |
-   +-----------------+-----+-------+
-   | Rhode Island    | 1   | 0.2%  |
-   +-----------------+-----+-------+
-   | Connecticut     | 1   | 0.2%  |
-   +-----------------+-----+-------+
+   +---------------------------+-----+------+
+   | US State                  | |N| | |%|  |
+   +===========================+=====+======+
+   | California                | 52  | 6.7% |
+   +---------------------------+-----+------+
+   | - San Francisco           | 24  |      |
+   +---------------------------+-----+------+
+   | Washington                | 26  | 3.3% |
+   +---------------------------+-----+------+
+   | - Seattle                 | 20  |      |
+   +---------------------------+-----+------+
+   | Texas                     | 21  | 2.7% |
+   +---------------------------+-----+------+
+   | New York                  | 19  | 2.4% |
+   +---------------------------+-----+------+
+   | - New York                | 11  |      |
+   +---------------------------+-----+------+
+   | North Carolina            | 19  | 2.4% |
+   +---------------------------+-----+------+
+   | Ohio                      | 18  | 2.3% |
+   +---------------------------+-----+------+
+   | Oregon                    | 18  | 2.3% |
+   +---------------------------+-----+------+
+   | - Portland                | 14  |      |
+   +---------------------------+-----+------+
+   | Pennsylvania              | 16  | 2.1% |
+   +---------------------------+-----+------+
+   | Colorado                  | 12  | 1.5% |
+   +---------------------------+-----+------+
+   | Massachusetts             | 12  | 1.5% |
+   +---------------------------+-----+------+
+   | Minnesota                 | 11  | 1.4% |
+   +---------------------------+-----+------+
+   | Utah                      | 10  | 1.3% |
+   +---------------------------+-----+------+
+   | Illinois                  | 10  | 1.3% |
+   +---------------------------+-----+------+
+   | Virginia                  | 10  | 1.3% |
+   +---------------------------+-----+------+
+   | Michigan                  | 10  | 1.3% |
+   +---------------------------+-----+------+
+   | Florida                   | 8   | 1.0% |
+   +---------------------------+-----+------+
+   | Wisconsin                 | 8   | 1.0% |
+   +---------------------------+-----+------+
+   | District of Columbia      | 7   | 0.9% |
+   +---------------------------+-----+------+
+   | Georgia                   | 7   | 0.9% |
+   +---------------------------+-----+------+
+   | Arizona                   | 6   | 0.8% |
+   +---------------------------+-----+------+
+   | Tennessee                 | 5   | 0.6% |
+   +---------------------------+-----+------+
+   | Vermont                   | 4   | 0.5% |
+   +---------------------------+-----+------+
+   | New Jersey                | 4   | 0.5% |
+   +---------------------------+-----+------+
+   | Missouri                  | 4   | 0.5% |
+   +---------------------------+-----+------+
+   | Michgan                   | 3   | 0.4% |
+   +---------------------------+-----+------+
+   | Indiana                   | 3   | 0.4% |
+   +---------------------------+-----+------+
+   | Maryland                  | 3   | 0.4% |
+   +---------------------------+-----+------+
+   | Not specified             | 3   | 0.4% |
+   +---------------------------+-----+------+
+   | New Hampshire             | 2   | 0.3% |
+   +---------------------------+-----+------+
+   | Oklahoma                  | 2   | 0.3% |
+   +---------------------------+-----+------+
+   | Kentucky                  | 2   | 0.3% |
+   +---------------------------+-----+------+
+   | New Mexico                | 2   | 0.3% |
+   +---------------------------+-----+------+
+   | Montana                   | 2   | 0.3% |
+   +---------------------------+-----+------+
+   | Louisiana                 | 1   | 0.1% |
+   +---------------------------+-----+------+
+   | South Carolina            | 1   | 0.1% |
+   +---------------------------+-----+------+
+   | Alabama                   | 1   | 0.1% |
+   +---------------------------+-----+------+
+   | Idaho                     | 1   | 0.1% |
+   +---------------------------+-----+------+
+   | Nebraska                  | 1   | 0.1% |
+   +---------------------------+-----+------+
+   | Nevada                    | 1   | 0.1% |
+   +---------------------------+-----+------+
 
 .. raw:: html
 
@@ -4014,34 +4215,38 @@ Respondent location regional breakdowns
 
 .. table:: Respondent location - Canadian province
    :widths: 70 15 15
-   :name: tbl-2023-respondent-location-canadian-province
-   :class: std3col
+   :name: tbl-2024-respondent-location-canadian-province
+   :class: std3col sortable
 
-   +---------------------------+-----+-------+
-   | Province                  | |N| | |%|   |
-   +===========================+=====+=======+
-   | Ontario                   | 41  | 50.6% |
-   +---------------------------+-----+-------+
-   | - Toronto                 | 17  |       |
-   +---------------------------+-----+-------+
-   | Quebec                    | 14  | 17.3% |
-   +---------------------------+-----+-------+
-   | - Montreal                | 11  |       |
-   +---------------------------+-----+-------+
-   | British Columbia          | 13  | 16.0% |
-   +---------------------------+-----+-------+
-   | - Vancouver               | 10  |       |
-   +---------------------------+-----+-------+
-   | Alberta                   | 7   | 8.6%  |
-   +---------------------------+-----+-------+
-   | New Brunswick             | 2   | 2.5%  |
-   +---------------------------+-----+-------+
-   | Saskatchewan              | 2   | 2.5%  |
-   +---------------------------+-----+-------+
-   | Manitoba                  | 1   | 1.2%  |
-   +---------------------------+-----+-------+
-   | Newfoundland and Labrador | 1   | 1.2%  |
-   +---------------------------+-----+-------+
+   +--------------------------------+-----+------+
+   | Province                       | |N| | |%|  |
+   +================================+=====+======+
+   | Ontario                        | 34  | 4.4% |
+   +--------------------------------+-----+------+
+   | - Toronto                      | 18  |      |
+   +--------------------------------+-----+------+
+   | British Columbia               | 16  | 2.1% |
+   +--------------------------------+-----+------+
+   | - Vancouver                    | 10  |      |
+   +--------------------------------+-----+------+
+   | Quebec                         | 13  | 1.7% |
+   +--------------------------------+-----+------+
+   | - Montreal                     | 10  |      |
+   +--------------------------------+-----+------+
+   | Alberta                        | 6   | 0.8% |
+   +--------------------------------+-----+------+
+   | Nova Scotia                    | 4   | 0.5% |
+   +--------------------------------+-----+------+
+   | Not specified                  | 3   | 0.4% |
+   +--------------------------------+-----+------+
+   | Saskatchewan                   | 2   | 0.3% |
+   +--------------------------------+-----+------+
+   | New Brunswick                  | 2   | 0.3% |
+   +--------------------------------+-----+------+
+   | Newfoundland and Labrador      | 1   | 0.1% |
+   +--------------------------------+-----+------+
+   | Manitoba                       | 1   | 0.1% |
+   +--------------------------------+-----+------+
 
 .. raw:: html
 
@@ -4049,39 +4254,35 @@ Respondent location regional breakdowns
 
 .. table:: Respondent location - Australian state
    :widths: 70 15 15
-   :name: tbl-2023-respondent-location-australian-state
-   :class: std3col
+   :name: tbl-2024-respondent-location-australian-state
+   :class: std3col sortable
 
-   +-------------------+-----+-------+
-   | State             | |N| | |%|   |
-   +===================+=====+=======+
-   | Queensland        | 16  | 34.0% |
-   +-------------------+-----+-------+
-   | - Brisbane        | 9   |       |
-   +-------------------+-----+-------+
-   | Victoria          | 14  | 29.8% |
-   +-------------------+-----+-------+
-   | - Melbourne       | 11  |       |
-   +-------------------+-----+-------+
-   | New South Wales   | 13  | 27.7% |
-   +-------------------+-----+-------+
-   | - Sydney          | 6   |       |
-   +-------------------+-----+-------+
-   | South Australia   | 2   | 4.3%  |
-   +-------------------+-----+-------+
-   | Tasmania          | 1   | 2.1%  |
-   +-------------------+-----+-------+
-   | Western Australia | 1   | 2.1%  |
-   +-------------------+-----+-------+
+   +------------------------+-----+------+
+   | State                  | |N| | |%|  |
+   +========================+=====+======+
+   | Victoria               | 18  | 2.3% |
+   +------------------------+-----+------+
+   | - Melbourne            | 16  |      |
+   +------------------------+-----+------+
+   | New South Wales        | 11  | 1.4% |
+   +------------------------+-----+------+
+   | Queensland             | 10  | 1.3% |
+   +------------------------+-----+------+
+   | Western Australia      | 3   | 0.4% |
+   +------------------------+-----+------+
+   | South Australia        | 1   | 0.1% |
+   +------------------------+-----+------+
 
 .. raw:: html
 
    </div></div>
 
+.. TODO: is there any useful way to chart respondent location data?
+
 Survey feedback
 ===============
 
-For the first time this year, we included a mini "meta-survey" - a handful of questions about the survey itself.  
+Following on from last year, we again included some questions about the survey itself.  
 
 .. raw:: html
    
@@ -4091,35 +4292,22 @@ For the first time this year, we included a mini "meta-survey" - a handful of qu
 
    |icon-question| Have you participated in a WTD Salary Survey before?
 
-   How would you rate the following three aspects of the survey? Options given for each were: excellent, good, OK, not great, no opinion.
+   - Yes
+   - No
 
-   - Relevance of the questions
-   - Usability of the survey form and website
-   - Length of the survey
+   |icon-question| How strongly do you agree with the following statements about this survey? [Strongly agree] [Agree] [Neutral] [Disagree] [Strongly disagree]
+
+   - The questions are relevant
+   - The survey form and website are usable
+   - The length of the survey is appropriate
 
 .. raw:: html
 
    </details>
 
-More than half of the 2023 respondents - 58.2% - were first-time WTD Salary Survey participants. 
+Half of respondents were repeat participants, with 50.1% having taken part in a previous survey.
 
-.. raw:: html
-
-   <figure>
-      <object role="img" aria-label="First-time vs repeat survey participants" aria-describedby="figure_first-time-vs-repeat-participants_desc" type="image/svg+xml" data="/_images/2023-first-time-vs-repeat-participants.svg">
-         <p id="figure_first-time-vs-repeat-participants_desc">Donut chart showing proportion of first-time to repeat survey participants.</p>
-      </object> 
-      <figcaption>Figure: First time vs repeat survey participants</figcaption>
-   </figure>
-
-.. figure:: images/2023/2023-first-time-vs-repeat-participants.svg
-   :class: hide
-
-Regarding the relevance of the questions, 52.2% rated them "excellent", and another 38.8% thought they were "good". 7.7% felt they were just "OK", and only 0.5% chose "not great". 0.8% chose not to share an opinion. 
-
-Concerning the usability of the survey form and website, over half rated it "excellent", with another 28.8% rating it "good". 6.1% chose "ok", 1.1% thought it was "no great" and 0.5% had no opinion. 
-
-The length of the survey has been an area of concern for the survey team, so we were quite relieved to find that 80.3% of respondents said that the length was "just right". However, a significant proportion - 13.6% - were of the opinion that the survey was too long (and another 1.2% chose "far too long") so this is something we will take into consideration in future surveys. 4% had no opinion and a very small percentage of survey fans (0.8%) said that it was "too short". 
+Overall, most respondents were positive about the survey, with "Strongly agree" and "Agree" being the top options selected for each of the feedback rating scales. 2.7% felt that the length of the survey was not appropriate, and 0.6% felt the questions were not relevant. 3% expressed doubts about the usability of the survey form and website, undoubtedly caused by known issues with the performance and layout on mobile devices.  
 
 .. raw:: html
 
@@ -4127,22 +4315,22 @@ The length of the survey has been an area of concern for the survey team, so we 
 
 .. table:: Survey feedback - length
    :widths: 70 15 15
-   :name: tbl-2023-survey-feedback-length
-   :class: std3col
+   :name: tbl-2024-survey-feedback-length
+   :class: std3col sortable
 
-   +--------------+------+-------+
-   | Opinion      | No.  | %     |
-   +==============+======+=======+
-   | Just right   | 817  | 80.3% |
-   +--------------+------+-------+
-   | Too short    | 8    |  0.8% |
-   +--------------+------+-------+
-   | Too long     | 138  | 13.6% |
-   +--------------+------+-------+
-   | Far too long | 12   |  1.2% |
-   +--------------+------+-------+
-   | No opinion   | 42   |  4.1% |
-   +--------------+------+-------+
+   +----------------------------+-----+-------+
+   | Length is appropriate      | |N| | |%|   |
+   +============================+=====+=======+
+   | Strongly agree             | 429 | 55.1% |
+   +----------------------------+-----+-------+
+   | Agree                      | 285 | 36.6% |
+   +----------------------------+-----+-------+
+   | Neutral                    | 44  | 5.6%  |
+   +----------------------------+-----+-------+
+   | Disagree                   | 18  | 2.3%  |
+   +----------------------------+-----+-------+
+   | Strongly disagree          | 3   | 0.4%  |
+   +----------------------------+-----+-------+
 
 .. raw:: html
 
@@ -4150,22 +4338,22 @@ The length of the survey has been an area of concern for the survey team, so we 
 
 .. table:: Survey feedback - relevance
    :widths: 70 15 15
-   :name: tbl-2023-survey-feedback-relevance
-   :class: std3col
+   :name: tbl-2024-survey-feedback-relevance
+   :class: std3col sortable
 
-   +------------+-----+-------+
-   | Opinion    | No. | %     |
-   +============+=====+=======+
-   | Excellent  | 531 | 52.2% |
-   +------------+-----+-------+
-   | Good       | 395 | 38.8% |
-   +------------+-----+-------+
-   | OK         | 78  |  7.7% |
-   +------------+-----+-------+
-   | Not great  | 5   |  0.5% |
-   +------------+-----+-------+
-   | No opinion | 8   |  0.8% |
-   +------------+-----+-------+
+   +-----------------------------+-----+-------+
+   | Questions are relevant      | |N| | |%|   |
+   +=============================+=====+=======+
+   | Strongly agree              | 456 | 58.5% |
+   +-----------------------------+-----+-------+
+   | Agree                       | 297 | 38.1% |
+   +-----------------------------+-----+-------+
+   | Neutral                     | 21  | 2.7%  |
+   +-----------------------------+-----+-------+
+   | Disagree                    | 4   | 0.5%  |
+   +-----------------------------+-----+-------+
+   | Strongly disagree           | 1   | 0.1%  |
+   +-----------------------------+-----+-------+
 
 .. raw:: html
 
@@ -4173,23 +4361,25 @@ The length of the survey has been an area of concern for the survey team, so we 
 
 .. table:: Survey feedback - usability
    :widths: 70 15 15
-   :name: tbl-2023-survey-feedback-usability
-   :class: std3col
+   :name: tbl-2024-survey-feedback-usability
+   :class: std3col sortable
 
-   +------------+-----+-------+
-   | Opinion    | No. | %     |
-   +============+=====+=======+
-   | Excellent  | 646 | 63.5% |
-   +------------+-----+-------+
-   | Good       | 293 | 28.8% |
-   +------------+-----+-------+
-   | OK         | 62  |  6.1% |
-   +------------+-----+-------+
-   | Not great  | 11  |  1.1% |
-   +------------+-----+-------+
-   | No opinion | 5   |  0.5% |
-   +------------+-----+-------+
+   +----------------------------+-----+-------+
+   | Form/website is usable     | |N| | |%|   |
+   +============================+=====+=======+
+   | Strongly agree             | 447 | 57.4% |
+   +----------------------------+-----+-------+
+   | Agree                      | 273 | 35.0% |
+   +----------------------------+-----+-------+
+   | Neutral                    | 36  | 4.6%  |
+   +----------------------------+-----+-------+
+   | Disagree                   | 20  | 2.6%  |
+   +----------------------------+-----+-------+
+   | Strongly disagree          | 3   | 0.4%  |
+   +----------------------------+-----+-------+
 
 .. raw:: html
 
    </div></div>
+
+.. TODO: bar charts for survey feedback

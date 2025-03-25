@@ -6,6 +6,7 @@
 }
 
 /* define fonts and colors */
+/* 1. common */
 html {
 	--size-max: 1100px;
 	--figure-max-width: 800px;
@@ -32,7 +33,7 @@ html {
 	--brand-dark: var(--indigo-3);
   --text-1-dark: var(--stone-3);
   --text-2-dark: var(--stone-5);
-	--surface-highlight-dark: var(--indigo-1);
+	--surface-highlight-dark: var(--cyan-1);
 	--surface-00-dark: var(--stone-12);
 	--surface-0-dark: var(--stone-11);
   --surface-1-dark: var(--stone-10);
@@ -43,6 +44,32 @@ html {
 	--shadow: 0 1px 2px -1px hsl(220 40% 2% /calc(25% + 9%));
 	--icon-external-link: url('data:image/svg+xml,<svg\ xmlns=\"http://www.w3.org/2000/svg\"\ viewBox=\"0\ 0\ 20\ 20\"><g\ style=\"stroke:rgb\(35,82,124\);stroke-width:1\"><line\ x1=\"5\"\ y1=\"5\"\ x2=\"5\"\ y2=\"14\"\ /><line\ x1=\"14\"\ y1=\"9\"\ x2=\"14\"\ y2=\"14\"\ /><line\ x1=\"5\"\ y1=\"14\"\ x2=\"14\"\ y2=\"14\"\ /><line\ x1=\"5\"\ y1=\"5\"\ x2=\"9\"\ y2=\"5\"\ \ /><line\ x1=\"10\"\ y1=\"2\"\ x2=\"17\"\ y2=\"2\"\ /><line\ x1=\"17\"\ y1=\"2\"\ x2=\"17\"\ y2=\"9\"\ /><line\ x1=\"10\"\ y1=\"9\"\ x2=\"17\"\ y2=\"2\"\ style=\"stroke-width:1.5\"\ /></g></svg>');
 }
+/* 2. override colors for 2024  */
+html:has(.surveytheme-2024) {
+	--brand-light: var(--indigo-9);
+	--text-1-light: var(--stone-10);
+	--text-2-light: var(--stone-8);
+	--surface-highlight-light: var(--cyan-0);
+	--surface-00-light: #FFF;
+	--surface-0-light: var(--cyan-0);
+	--surface-1-light: var(--cyan-1);
+	--surface-2-light: var(--cyan-2);
+	--surface-3-light: var(--cyan-3);
+	--surface-4-light: var(--cyan-4);
+	--surface-5-light: var(--cyan-5);
+	--brand-dark: var(--indigo-3);
+	--text-1-dark: var(--stone-3);
+	--text-2-dark: var(--stone-5);
+	--surface-highlight-dark: var(--cyan-6);
+	--surface-00-dark: var(--stone-12);
+	--surface-0-dark: var(--cyan-11);
+	--surface-1-dark: var(--cyan-10);
+	--surface-2-dark: var(--cyan-9);
+	--surface-3-dark: var(--cyan-8);
+	--surface-4-dark: var(--cyan-7);
+	--surface-4-dark: var(--cyan-6);
+}
+
 
 /* tablet definitions */
 @media screen and (max-width: 869px) {
@@ -58,7 +85,7 @@ html {
 	}
 }
 
-/* tablet definitions */
+/* mobile definitions */
 @media screen and (max-width: 480px) {
 	html {
 		--size-max: 100%;
@@ -91,18 +118,19 @@ html {
 /* dark theme by user agent choice 
 @media (prefers-color-scheme: dark) {
   :root {
-    --brand: var(--brand-dark);
-    --text-1: var(--text-1-dark);
-    --text-2: var(--text-2-dark);
+		--brand: var(--brand-dark);
+		--text-1: var(--text-1-dark);
+		--text-2: var(--text-2-dark);
+		--surface-highlight: var(--surface-highlight-dark);
 		--surface-00: var(--surface-00-dark);
 		--surface-0: var(--surface-0-dark);
-    --surface-1: var(--surface-1-dark);
-    --surface-2: var(--surface-2-dark);
-    --surface-3: var(--surface-3-dark);
-    --surface-4: var(--surface-4-dark);
+		--surface-1: var(--surface-1-dark);
+		--surface-2: var(--surface-2-dark);
+		--surface-3: var(--surface-3-dark);
+		--surface-4: var(--surface-4-dark);
+		--surface-5: var(--surface-5-dark);
   }
 }*/
-
 
 /* DESKTOP LAYOUT */
 body {
@@ -238,6 +266,10 @@ h4, h5 {
 	font-size: var(--font-size-h4);
 }
 
+li p {
+	margin: 0;
+}
+
 nav {
 	li {
 		font-size: var(--font-size-body);
@@ -260,10 +292,14 @@ nav {
 
 /* default color */
 html {
-  background-color: var(--surface-1);
+  background-color: var(--surface-00);
   color: var(--text-1);
   accent-color: var(--brand);
 } 
+
+body {
+	/*background-color: hsl(var(--stone-0-hsl) / 60%); */
+}
 
 h1,h2,h3,h4,p,dt {
   color: var(--text-1);
@@ -311,6 +347,10 @@ details {
 		opacity: 0.05;
 	}
 }
+/* when there's two together, reduce spacing */
+details + details {
+	margin-top: 0.5em;
+}
 
 /* NAV */
 
@@ -341,7 +381,8 @@ nav ul {
 
 
 /* first internal nav link becomes heading */
-nav div.contents.local.topic ul.simple > li > p > a.reference.internal { 
+nav div.contents.local.topic ul.simple > li > p > a.reference.internal,
+p.nav-heading { 
 	font-size: var(--font-size-2);
 	font-weight: var(--font-weight-6);
 	text-decoration: none;
@@ -418,7 +459,7 @@ blockquote.pull-quote {
 		font-style: italic;
 		text-align: center;
 		position: relative;
-		width: 60%;
+		width: 70%;
 		border-radius: var(--radius-blob-4);
 		background-color: var(--surface-00);
 		padding: var(--size-6);

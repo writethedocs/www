@@ -97,6 +97,9 @@ build_videos = str(os.environ.get('BUILD_VIDEOS')).lower() == 'true'
 if not on_rtd and not build_videos:
     print('EXCLUDING VIDEO PATHS. Video links will not work.')
     exclude_patterns.append('videos')
+    exclude_patterns.append('conf')
+    exclude_patterns.append('blog')
+    exclude_patterns.append('about')
     REWRITE_FEED = False
 else:
     print('BUILDING VIDEOS. All video links should work.')
@@ -108,7 +111,6 @@ extensions = [
     'notfound.extension',
     'sphinxemoji.sphinxemoji',
     'myst_parser',
-    'sphinxext.opengraph',
 ]
 
 myst_heading_anchors = 4
@@ -241,6 +243,13 @@ notfound_no_urls_prefix = True
 
 
 def setup(app):
+
+    # add any metadata from the template into the page context
+    def add_metadata(app, pagename, templatename, context, doctree):
+        metadata = app.env.metadata.get(pagename, {})
+        context.update(metadata)
+    app.connect("html-page-context", add_metadata)
+
     # Set up our custom jinja filters
     app.connect("builder-inited", add_jinja_filters_to_app)
 
