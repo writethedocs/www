@@ -36,7 +36,7 @@ Pre conference schedule
 
 **{{cfp.notification}}**
     We'll let you know whether your proposal was accepted, and ask for some supplementary information about you.
-    Make sure to confirm your talk as soon as you get the email, and update your photo and bio in Pretalx.
+    Make sure to confirm your talk as soon as you get the email, and update your pronouns, photo, and bio in Pretalx.
 
 **{{cfp.speaker_tickets}}**
     Register your free speaker ticket with dietary preferences.
@@ -66,7 +66,7 @@ MONDAY
 
 - 8:00-8:30am: Morning Speaker tech checks
 - 9:00am-11:55am: Speaker Talks
-- 11:55am-12:25pm: Afternoon Speaker tech
+- 11:55am-12:25pm: Afternoon Speaker tech checks
 - 1:45pm-4:40pm: Speaker Talks
 
 TUESDAY
@@ -74,7 +74,7 @@ TUESDAY
 
 - 8:00am-8:30am: Morning Speaker tech checks
 - 9:00-12:05pm: Speaker Talks
-- 12:05-12:25pm: Afternoon Speaker tech
+- 12:05-12:25pm: Afternoon Speaker tech checkss
 - 2:00-3:50pm: Afternoon Speaker Talks
 
 Speaking tips
@@ -85,7 +85,8 @@ Speaking tips
 Media Kit
 ----------
 
-Download suggested text and graphics from our `Media Kit <https://drive.google.com/drive/folders/1gVmIjX5hMklJiFitAllukzENA4SIBic9?usp=sharing>`__.
+Share with your communities that you are speaking at the conference.
+Download copy and graphics from our `Media Kit <https://drive.google.com/drive/folders/1gVmIjX5hMklJiFitAllukzENA4SIBic9?usp=sharing>`__.
 
 This includes:
 
