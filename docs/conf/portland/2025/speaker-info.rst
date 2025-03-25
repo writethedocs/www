@@ -38,7 +38,7 @@ Pre conference schedule
     We'll let you know whether your proposal was accepted, and ask for some supplementary information about you.
     Make sure to confirm your talk as soon as you get the email, and update your pronouns, photo, and bio in Pretalx.
 
-**{{cfp.speaker_tickets}}**
+**{{cfp.speaker_tickets_by}}**
     Register your free speaker ticket with dietary preferences.
 
 **{{cfp.slides_by}}**
