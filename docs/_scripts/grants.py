@@ -17,6 +17,9 @@ import mandrill
 
 
 codes = []
+conference_name = "Write the Docs Portland 2025"
+conference_email = "portland@writethedocs.org"
+conference_tito_slug = "write-the-docs-portland-2025"
 
 for recipient in sys.stdin:
     discount_code = 'GRANT-' + ''.join(random.choices('BCDFGHKMNPQRSTVWXYZ2356789', k=10))
@@ -25,7 +28,7 @@ for recipient in sys.stdin:
 
 with open('grants.csv', 'w') as f:
     f.write(
-        'Code*,Type [Flat|Percent]*,Value*,Quantity,Only Show Attached Tickets,Reveal Secret Tickets,Description for Organizer,Opportunity Grant\n')
+        '"Code*","Type [Flat|Percent]*","Value*","Quantity","Available From","Available To","Min. Tickets","Max. Tickets","Show Public Tickets","Show Secret Tickets","Source Code","Disable If Volume Pricing","Block Orders If Not Applicable","Description for Organizer","Virtual conference","Student Ticket","Independent Ticket","Corporate Ticket","Concierge Ticket","Livestream Ticket","Volunteer Ticket","Staff Ticket","Speaker Ticket","Sponsor Ticket","Opportunity Grant Ticket","Outreach Ticket","Hike Ticket"\n')
 
     for recipient, discount_code in codes:
         row = [
@@ -33,9 +36,27 @@ with open('grants.csv', 'w') as f:
             'Percent',
             '100',
             '1',  # number of tickets
-            'Y',  # only show attached
-            'Y',  # reveal secret tickets that are attached
-            f'Grant program for {recipient}',
+            '', # available from
+            '', # available to
+            '1', # min tickets
+            '1', # max tickets
+            'only_attached',  # show public tickets
+            'if_discount_code_available',  # show secret tickets
+            '', # source code,
+            '', # disable for volume
+            '', # block orders if not avail
+            f'Grant program for {recipient}', # descr
+            # Ticket types
+            'N',
+            'N',
+            'N',
+            'N',
+            'N',
+            'N',
+            'N',
+            'N',
+            'N',
+            'N',
             'Y',
         ]
         f.write(','.join(row) + '\n')
@@ -43,14 +64,14 @@ with open('grants.csv', 'w') as f:
 input('Discounts file generated, press enter to send out emails - after uploading discounts to tito')
 
 for recipient, discount_code in codes:
-    url = 'https://ti.to/writethedocs/write-the-docs-prague-2022/discount/' + discount_code
+    url = f'https://ti.to/writethedocs/{conference_tito_slug}/discount/{discount_code}'
     print(f'Email to {recipient}: {url}')
 
     text = f"""
 Hello,
 
-Thanks for applying to the Opportunity Grant program for Write the Docs.
-I’m happy to inform you that we will provide you with a free ticket for the upcoming Prague conference!
+Thanks for applying to the Opportunity Grant program for {conference_name}.
+As part of your grant, you will receive a free ticket for the conference.
 
 The ticket can be registered on the following URL:
 {url}
@@ -65,9 +86,9 @@ Write the Docs
     try:
         mandrill_client = mandrill.Mandrill()
         message = {
-            'from_email': 'prague@writethedocs.org',
-            'from_name': 'Write the Docs Prague',
-            'subject': 'Write the Docs Prague Opportunity Grant',
+            'from_email': conference_email,
+            'from_name': conference_name,
+            'subject': f'{conference_name} Opportunity Grant',
             'text': text,
             'to': recipients,
         }

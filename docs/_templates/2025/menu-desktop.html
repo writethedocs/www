@@ -25,6 +25,7 @@
             {% if flaghasboat %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/boat') }}">Boat Ride</a></li>
             {% endif %}
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/social-events') }}">Social Events</a></li>
             {% if flaglivestreaming %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/livestream') }}">Live Stream</a></li>
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/qa') }}">Speaker Q&A</a></li>
@@ -56,7 +57,7 @@
   <li>
     <ul class="uk-navbar-nav">
       <li>
-        <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/about') }}"">About</a>
+        <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/about') }}">About</a>
         <div class="uk-navbar-dropdown">
           <ul class="uk-nav uk-navbar-dropdown-nav">
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/venue') }}">Venue</a></li>

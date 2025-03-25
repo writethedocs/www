@@ -39,29 +39,6 @@ All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
 
 {% endif %}
 
-Hike
-~~~~
-
-If you get into town early, join us on the hike and take the chance to explore Portland in all of its glory.
-
-* **Where**: Lower Macleay Park or Macleay Park Entrance.
-{% if not flaghasschedule %}
-* **When**: **{{ hike.date }} {{ tz }}**
-{% endif %}
-* **Details**: :doc:`Annual hike </conf/{{shortcode}}/{{year}}/hike>`
-
-{% endif %}
-
-{% if flaghasboat %}
-
-Boat Ride
-~~~~~~~~~
-
-The only event scheduled on Saturday is the :doc:`Prague Boat Ride </conf/{{shortcode}}/{{year}}/outing>`.
-If you get into town early, join us and experience Prague from the water.
-
-Further details will be announced later.
-
 {% endif %}
 
 .. raw:: html
@@ -76,6 +53,9 @@ Further details will be announced later.
    {{ date.day_two.summary }}
 
 {% if flaghasfood %}
+
+Writing day is held in {{about.venue}}, {{about.unconfroom}}.
+
 *Snacks and drinks will be provided throughout the day.*
 {% endif %}
 
@@ -89,19 +69,6 @@ Further details will be announced later.
   A detailed schedule will be announced soon.
 {% endif %}
 
-.. _{{shortcode}}-{{year}}-writing-day:
-
-Writing Day
-~~~~~~~~~~~
-
-Get together with other documentarians and work on an open source project and learn some new skills.
-
-* **Where**: {{about.unconfroom}}
-{% if not flaghasschedule %}
-* **When**: **{{ date.day_two.writing_day_time }} {{ tz }}**
-{% endif %}
-* **Details**: :doc:`Writing Day documentation sprints </conf/{{shortcode}}/{{year}}/writing-day>`
-
 Welcome Wagon Introduction
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -112,22 +79,6 @@ We'll pass on some information about the conference specifically for first-timer
 * **Where**: {{about.unconfroom}}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/attendee-guide`
 
-{% if flaghasfood %}
-
-Reception
-~~~~~~~~~
-
-We encourage everyone to drop by on Sunday evening for the conference reception.
-This is a great chance to meet other attendees,
-and make sure you know your way around the conference venue.
-
-* **Where**: {{about.venue}}, {{about.unconfroom}}
-{% if not flaghasschedule %}
-* **When**: **{{ date.day_two.reception_time }} {{ tz }}** 
-{% endif %}
-
-{% endif %}
-
 .. raw:: html
 
    <hr>
@@ -137,7 +88,12 @@ and make sure you know your way around the conference venue.
 
 .. raw:: html
 
+   <p>
    {{ date.day_three.summary }}
+   </p>
+
+- Conference talks are held in {{about.venue}}
+- Unconference is held in {{about.venue}}, {{about.unconfroom}}
 
 {% if flaghasfood %}
 *Snacks and drinks will be provided throughout the day.*
@@ -153,56 +109,21 @@ and make sure you know your way around the conference venue.
     A detailed schedule will be announced soon.
 {% endif %}
 
-Conference Talks
-~~~~~~~~~~~~~~~~
-
-Talks are around 30 minutes, with moderated 10 minute Q&A.
-
-* **Where**: {{about.venue}}
-{% if not flaghasschedule %}
-* **When**: **{{ date.day_three.talk_time }} {{ tz }}**
-{% endif %}
-* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
-
-Unconference
-~~~~~~~~~~~~
-
-The unconference sessions run in parallel to the main conference talks,
-with each session happening during a corresponding talk on the main stage.
-
-* **Where**: {{about.venue}}, {{about.unconfroom}}
-{% if not flaghasschedule %}
-* **When**: **{{ date.day_three.unconference_time }} {{ tz }}**
-{% endif %}
-* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
-
-{% if about.social_venue %}
-
-Social Event
-~~~~~~~~~~~~
-
-The official Write the Docs social!
-Expect a relaxed atmosphere where you can chat and network with your fellow documentarians. 
-
-Snacks and drinks (non-alcoholic & alcoholic) will be provided.
-
-* **Where**: {{ about.social_venue }}
-{% if not flaghasschedule %}
-* **When**: **{{ date.day_three.social_time }} {{ tz }}** 
-{% endif %}
-
 .. raw:: html
 
    <hr>
-
-{% endif %}
 
 {{date.day_four.dotw}}, {{date.day_four.date}}
 -----------------------------------------
 
 .. raw:: html
 
+   <p>
    {{ date.day_four.summary }}
+   </p>
+
+- Conference talks are held in {{about.venue}}
+- Unconference is held in {{about.venue}}, {{about.unconfroom}}
 
 {% if flaghasfood %}
 *Snacks and drinks will be provided throughout the day.*
@@ -217,28 +138,5 @@ Snacks and drinks (non-alcoholic & alcoholic) will be provided.
 {% else %}
   A detailed schedule will be announced soon.
 {% endif %}
-
-Conference Talks
-~~~~~~~~~~~~~~~~
-
-Talks are around 30 minutes, with moderated 10 minute Q&A.
-
-* **Where**: {{about.venue}}
-{% if not flaghasschedule %}
-* **When**: **{{ date.day_four.talk_time }} {{ tz }}**
-{% endif %}
-* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
-
-Unconference
-~~~~~~~~~~~~
-
-The unconference sessions run in parallel to the main conference talks,
-with each session happening during a corresponding talk on the main stage.
-
-* **Where**: {{about.venue}}, {{about.unconfroom}}
-{% if not flaghasschedule %}
-* **When**: **{{ date.day_four.unconference_time }} {{ tz }}**
-{% endif %}
-* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/unconference`
 
 {% endif %}
