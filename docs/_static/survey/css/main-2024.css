@@ -1003,8 +1003,23 @@ dl.footnote.brackets {
 	content: "▴"
 }
 
-.sortable.sticky thead th {
+/* make all table headers sticky */
+.sortable thead th {
 	position: sticky;
 	top: 0;
 	z-index: 1
+}
+
+/* class to disable sticky headers */
+.sortable.nostick thead td {
+	position: static;
+}
+
+/* table sorting exceptions */
+
+/* standard 3 column table */
+.std3col.sortable {     
+    th:nth-of-type(3) { /* third column (%) not sortable */
+      pointer-events: none;
+    }	
 }

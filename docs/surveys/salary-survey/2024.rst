@@ -130,6 +130,7 @@ For the first time this year, we included a third option - for respondents who h
 .. table:: Basis of employment (2019-2024)
    :widths: 40 10 10 20 10 10
    :name: tbl-2024-basis-of-employment-history
+   :class: sortable
 
    +-------------+-----------------+-+------------------+
    | Survey year | Employees       | | Contractors      |
@@ -440,7 +441,7 @@ Additional role categories
 .. table:: Additional role categories
    :widths: 70 15 15
    :name: tbl-2023-top-role-category-combinations
-   :class: std3col
+   :class: std3col sortable
 
    +---------------------------------------------------------+-----+-------+
    | Category                                                | |N| | |%|   |
@@ -468,8 +469,8 @@ Additional role categories
    | Writer/Creator/Editor + Developer/Engineer + Management | 10  | 1.0%  |
    +---------------------------------------------------------+-----+-------+
 
-Team confguration
------------------
+Team configuration
+------------------
 
 .. raw:: html
    
@@ -501,7 +502,7 @@ Team confguration
 .. table:: Team breakdown
    :widths: 70 15 15
    :name: tbl-2023-team-breakdown
-   :class: std3col
+   :class: std3col sortable
 
    +--------------------------------------------------------------------------------------+-----+-------+
    | Team breakdown                                                                       | |N| | |%|   |
@@ -582,7 +583,7 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
 .. table:: Length of time in current role
    :widths: 70 15 15
    :name: tbl-2023-length-of-time-in-current-role
-   :class: std3col
+   :class: std3col sortable
 
    +-------------------------+-----+-------+
    | Years                   | |N| | |%|   |
@@ -658,7 +659,7 @@ The majority of respondents (73.5% in 2023, almost exactly the same proportion a
 .. table:: Portion of role officially documentation-related
    :widths: 70 15 15
    :name: tbl-2023-portion-of-role-officially-documentation-related
-   :class: std3col
+   :class: std3col sortable
 
    +--------------------------------------+-----+-------+
    | Portion of role                      | |N| | |%|   |
@@ -679,7 +680,7 @@ The majority of respondents (73.5% in 2023, almost exactly the same proportion a
 .. table:: Portion of role actually documentation-related
    :widths: 70 15 15
    :name: tbl-2023-portion-of-role-actually-documentation-related
-   :class: std3col
+   :class: std3col sortable
 
    +--------------------------------------+-----+-------+
    | Portion of role                      | |N| | |%|   |
@@ -811,7 +812,7 @@ Of the contractors, having a contract or project ending prematurely was the most
 .. table:: Employment change - employees
    :widths: 70 15 15
    :name: tbl-2023-employment-change-employees
-   :class: std3col
+   :class: std3col sortable
 
    +---------------------+-----+-------+
    | Change              | |N| | |%|   |
@@ -838,7 +839,7 @@ Of the contractors, having a contract or project ending prematurely was the most
 .. table:: Employment change - contractors
    :widths: 70 15 15
    :name: tbl-2023-employment-change-contractors
-   :class: std3col
+   :class: std3col sortable
 
    +----------------------------+-----+-------+
    | Change                     | |N| | |%|   |
@@ -916,7 +917,7 @@ The majority of respondents - 46.3% of employees and 38% of contractors - stated
 .. table:: Current job search status - employees
    :widths: 70 15 15
    :name: tbl-2023-current-job-search-status-employees
-   :class: std3col
+   :class: std3col sortable
 
    +--------------------------------------------------------+-----+-------+
    | Search status                                          | |N| | |%|   |
@@ -937,7 +938,7 @@ The majority of respondents - 46.3% of employees and 38% of contractors - stated
 .. table:: Current work search status - contractors
    :widths: 70 15 15
    :name: tbl-2023-current-work-search-status-contractors
-   :class: std3col
+   :class: std3col sortable
 
    +--------------------------------------------------------+-----+-------+
    | Search status                                          | |N| | |%|   |
@@ -987,7 +988,7 @@ Just over half of all respondents (54.1%) reported feeling the same level of job
 .. table:: Feelings of job security and stability
    :widths: 70 15 15
    :name: tbl-2023-feelings-of-job-security-combined
-   :class: std3col
+   :class: std3col sortable
 
    +----------------------------------------+-----+-------+
    | Feelings                               | |N| | |%|   |
@@ -1050,7 +1051,7 @@ The majority of respondents reported working remotely, with the number doing so 
 .. table:: Work location
    :widths: 70 15 15
    :name: tbl-2023-work-location
-   :class: std3col
+   :class: std3col sortable
 
    +------------------------+-----+-------+
    | Work location          | |N| | |%|   |
@@ -1089,7 +1090,7 @@ The majority of respondents (80.8%) reported feeling "positive" about their work
 .. table:: Feelings about work location
    :widths: 70 15 15
    :name: tbl-2023-feelings-about-work-location
-   :class: std3col
+   :class: std3col sortable
 
    +------------------------------+-----+-------+
    | Feelings                     | |N| | |%|   |
@@ -1172,7 +1173,7 @@ For those that have been affected, most reported that a hybrid model was being m
 .. table:: Not affected by mandates
    :widths: 70 15 15
    :name: tbl-2023-return-to-the-office-mandates-not-affected
-   :class: std3col
+   :class: std3col sortable
 
    +------------------------------------------------------+-----+-------+
    | RTO Status                                           | |N| | |%|   |
@@ -1193,7 +1194,7 @@ For those that have been affected, most reported that a hybrid model was being m
 .. table:: Affected by mandates
    :widths: 70 15 15
    :name: tbl-2023-return-to-the-office-mandates-affected
-   :class: std3col
+   :class: std3col sortable
 
    +------------------------------------------------------------------+-----+-------+
    | RTO Status                                                       | |N| | |%|   |
@@ -1252,7 +1253,7 @@ Regardless of their current situation, 58% of all respondents said that their pr
 .. table:: Preferred work location
    :widths: 70 15 15
    :name: tbl-2023-preferred-work-location
-   :class: std3col
+   :class: std3col sortable
 
    +-------------------------+-----+-------+
    | Preferred work location | |N| | |%|   |
@@ -1305,7 +1306,7 @@ Employee respondents reported being paid in 26 different currencies. To make com
 .. table:: Currencies and exchange rates - employees
    :widths: 55 10 10 10 15
    :name: tbl-2023-currencies-employees
-   :class: std3col
+   :class: std3col sortable
 
    +--------------------------------------+------+---------+
    | Currency (code)                      | |N|  | Rate    |
@@ -1438,7 +1439,7 @@ Given the range of socio-economic differences in the countries in the survey res
 
 .. table:: Salary (USD) by respondent region
    :name: tbl-2023-salary-by-respondent-region
-   :class: medians
+   :class: medians sortable
 
    +-------------------------+-------------+--------------+--------------+
    | Region (|N|)            | |25|        |  |50|        | |75|         |
@@ -1501,7 +1502,7 @@ Respondent numbers allow some additional breakdowns by US state, Candian provinc
 
 .. table:: Salary (USD) by respondent region - USA
    :name: tbl-2023-salary-by-respondent-region-usa
-   :class: medians
+   :class: medians sortable
 
    +---------------------+-----------+----------+-----------+
    | State (|N|)         | |25|      | |50|     | |75|      |
@@ -1555,7 +1556,7 @@ Respondent numbers allow some additional breakdowns by US state, Candian provinc
 
 .. table:: Salary (USD) by respondent region - Canada
    :name: tbl-2023-salary-by-respondent-region-canada
-   :class: medians
+   :class: medians sortable
 
    +-----------------------+-----------+---------+-----------+
    | Province (|N|)        | |25|      | |50|    | |75|      |
@@ -1579,7 +1580,7 @@ Respondent numbers allow some additional breakdowns by US state, Candian provinc
 
 .. table:: Salary (USD) by respondent region - Australia
    :name: tbl-2023-salary-by-respondent-region-australia
-   :class: std3col
+   :class: std3col sortable
 
    +-----------------+-----+--------------+
    | State           | |N| | |50|         |
@@ -1612,7 +1613,7 @@ The only region where the median for women was higher was North America overall 
 
 .. table:: Salary (USD) by gender identity - women
    :name: tbl-2023-salary-by-gender-identity-women
-   :class: medians
+   :class: medians sortable
 
    +-------------------------+-------------+--------------+--------------+
    | Region (|N|)            | |25|        | |50|         | |75|         |
@@ -1656,7 +1657,7 @@ The only region where the median for women was higher was North America overall 
 
 .. table:: Salary (USD) by gender identity - men
    :name: tbl-2023-salary-by-gender-identity-men
-   :class: medians
+   :class: medians sortable
 
    +-------------------------+-------------+--------------+--------------+
    | Region (|N|)            | |25|        | |50|         | |75|         |
@@ -1690,7 +1691,7 @@ The only region where the median for women was higher was North America overall 
 
 .. table:: Median salary (USD) by gender identity - comparison
    :name: tbl-2023-salary-by-gender-identity-comparison
-   :class: medians
+   :class: medians sortable
 
    +----------------------+--------------+--------------+-----------+
    | Region               |    Women     |      Men     |  Diff     |
@@ -1733,7 +1734,7 @@ Median salary by years of experience
 
 .. table:: Salary (USD) by experience - 0-2 years
    :name: tbl-2023-salary-by-experience-0-2yrs
-   :class: medians
+   :class: medians sortable
 
    +----------------------+-----------+--------------+-----------+
    | Region (|N|)         | |25|      |       |50|   | |75|      |
@@ -1753,7 +1754,7 @@ Median salary by years of experience
 
 .. table:: Salary (USD) by experience - 2-5 years
    :name: tbl-2023-salary-by-experience-2-5yrs
-   :class: medians
+   :class: medians sortable
 
    +----------------------+-----------+---------+-----------+
    | Region (|N|)         | |25|      | |50|    | |75|      |
@@ -1781,7 +1782,7 @@ Median salary by years of experience
 
 .. table:: Salary (USD) by experience - 5-10 years
    :name: tbl-2023-salary-by-experience-5-10yrs
-   :class: medians
+   :class: medians sortable
 
    +-----------------------+---------+----------+----------+
    | Region (|N|)          | |25|    | |50|     | |75|     |
@@ -1817,7 +1818,7 @@ Median salary by years of experience
 
 .. table:: Salary (USD) by experience - 10-15 years
    :name: tbl-2023-salary-by-experience-10-15yrs
-   :class: medians
+   :class: medians sortable
 
    +----------------------+---------+----------+----------+
    | Region (|N|)         | |25|    | |50|     | |75|     |
@@ -1843,7 +1844,7 @@ Median salary by years of experience
 
 .. table:: Salary (USD) by experience - 15-20 years
    :name: tbl-2023-salary-by-experience-15-20yrs
-   :class: medians
+   :class: medians sortable
 
    +----------------------+---------+----------+----------+
    | Region (|N|)         | |25|    | |50|     | |75|     |
@@ -1863,7 +1864,7 @@ Median salary by years of experience
 
 .. table:: Salary (USD) by experience - 20+ years
    :name: tbl-2023-salary-by-experience-20-plus-yrs
-   :class: medians
+   :class: medians sortable
 
    +-----------------------+----------+----------+----------+
    | Region (|N|)          |     |25| |     |50| |     |75| |
@@ -1894,7 +1895,7 @@ Median salary by organization size (employees)
 
 .. table:: Salary (USD) by org size - 1-100 employees
    :name: tbl-2023-salary-by-org-size-1-100
-   :class: medians
+   :class: medians sortable
 
    +----------------------+---------+----------+----------+
    | Region (|N|)         |    |25| |     |50| |     |75| |
@@ -1916,7 +1917,7 @@ Median salary by organization size (employees)
 
 .. table:: Salary (USD) by org size - 101-1,000 employees
    :name: tbl-2023-salary-by-org-size-101-1000
-   :class: medians
+   :class: medians sortable
 
    +-----------------------+---------+----------+----------+
    | Region (|N|)          |    |25| |     |50| |     |75| |
@@ -1950,7 +1951,7 @@ Median salary by organization size (employees)
 
 .. table:: Salary (USD) by org size - 1,001-10,000 employees
    :name: tbl-2023-salary-by-org-size-1001-10000
-   :class: medians
+   :class: medians sortable
 
    +-----------------------+---------+----------+----------+
    | Region (|N|)          |    |25| |     |50| |     |75| |
@@ -1982,7 +1983,7 @@ Median salary by organization size (employees)
 
 .. table:: Salary (USD) by org size - 10,001-100K employees
    :name: tbl-2023-salary-by-org-size-10001-100k
-   :class: medians
+   :class: medians sortable
 
    +----------------------+---------+----------+----------+
    | Region (|N|)         |    |25| |     |50| |     |75| |
@@ -2002,7 +2003,7 @@ Median salary by organization size (employees)
 
 .. table:: Salary (USD) by org size - 100K + employees
    :name: tbl-2023-salary-by-org-size-100k-plus
-   :class: medians
+   :class: medians sortable
 
    +----------------------+----------+----------+----------+
    | Region (|N|)         |     |25| |     |50| |     |75| |
@@ -2060,7 +2061,7 @@ Employee benefits
 .. table:: Employee benefits
    :widths: 70 15 15
    :name: tbl-2023-employee-benefits
-   :class: std3col
+   :class: std3col sortable
 
    +----------------------------------------------------------------------------+------+-------+
    | Benefit                                                                    | |N|  | |%|   |
@@ -2214,7 +2215,7 @@ Looking at all regions, 68.7% of all employee respondents were satisfied with th
 .. table:: Employee salary satisfaction
    :widths: 70 15 15
    :name: tbl-2023-employee-salary-satisfaction
-   :class: std3col
+   :class: std3col sortable
 
    +---------------------+-----+-------+
    | Salary satisfaction | |N| | |%|   |
@@ -2237,7 +2238,7 @@ Looking at all regions, 68.7% of all employee respondents were satisfied with th
 .. table:: Employee job satisfaction
    :widths: 70 15 15
    :name: tbl-2023-employee-job-satisfaction
-   :class: std3col
+   :class: std3col sortable
 
    +--------------------------+-----+-------+
    | Job satisfaction         | |N| | |%|   |
@@ -2269,7 +2270,7 @@ As a result of 5 submissions in the "other" category, a new factor was added to 
 .. table:: Factors affecting employee salary satisfaction
    :widths: 70 15 15
    :name: tbl-2023-factors-affecting-employee-salary-satisfaction
-   :class: std3col
+   :class: std3col sortable
 
    +-----------------------------------------------------------------------+-----+-------+
    | Factor                                                                | |N| | |%|   |
@@ -2336,7 +2337,7 @@ Of the 19 respondents who selected "other" and provided more detail, those that 
 .. table:: Factors affecting employee job satisfaction
    :widths: 70 15 15
    :name: tbl-2023-factors-affecting-employee-job-satisfaction
-   :class: std3col
+   :class: std3col sortable
 
    +--------------------------------------------------------------------------------------+-----+-------+
    | Factor                                                                               | |N| | |%|   |
@@ -2406,7 +2407,7 @@ Of those respondents who selected "other" and provided more detail, factors incl
 .. table:: Factors enhancing employee job satisfaction
    :widths: 70 15 15
    :name: tbl-2023-factors-enhancing-employee-job-satisfaction
-   :class: std3col
+   :class: std3col sortable
 
    +----------------------------------------------------------------------------------------------------+-----+-------+
    | Factor                                                                                             | |N| | |%|   |
@@ -2484,7 +2485,7 @@ Several contractor respondents indicated that they were contractors by necessity
 .. table:: Preferred term - contractors
    :widths: 70 15 15
    :name: tbl-2023-preferred-term-contractors
-   :class: std3col
+   :class: std3col sortable
 
    +----------------+-----+-------+
    | Preferred term | |N| | |%|   |
@@ -2538,7 +2539,7 @@ Contractor work type - clients
 .. table:: Contractor work type - clients
    :widths: 70 15 15
    :name: tbl-2023-contractor-work-type-clients
-   :class: std3col
+   :class: std3col sortable
 
    +----------------------------------+-----+-------+
    | Client type                      | |N| | |%|   |
@@ -2560,7 +2561,7 @@ Contractor work type - duration
 .. table:: Contractor work type - duration
    :widths: 70 15 15
    :name: tbl-2023-contractor-work-type-duration
-   :class: std3col
+   :class: std3col sortable
 
    +--------------------------------------------------+-----+-------+
    | Typical contract length                          | |N| | |%|   |
@@ -2590,7 +2591,7 @@ Contractor work type - products and services
 .. table:: Contractor work type - products and services
    :widths: 70 15 15
    :name: tbl-2023-contractor-work-type-products-and-services
-   :class: std3col
+   :class: std3col sortable
 
    +-----------------------------------------------------+------+-------+
    | Product or service offering                         | |N|  | |%|   |
@@ -2638,7 +2639,7 @@ Contractor respondents were paid in 7 different currencies. To make comparisons 
 .. table:: Currencies and exchange rates - contractors
    :widths: 70 15 15 
    :name: tbl-2023-currencies-exchange-rates-contractors
-   :class: std3col
+   :class: std3col sortable
 
    +------------------------------+-----+---------+
    | Currency                     | |N| | Rate    |
@@ -2670,7 +2671,7 @@ Location of contractors
 .. table:: Location - North America - contractors
    :widths: 70 15 15
    :name: tbl-2023-geographical-location-north-america-contractors
-   :class: std3col
+   :class: std3col sortable
 
    +------------------+-----+-------+
    | Region           | |N| | |%|   |
@@ -2689,7 +2690,7 @@ Location of contractors
 .. table:: Location - Europe - contractors
    :widths: 70 15 15
    :name: tbl-2023-geographical-location-europe-contractors
-   :class: std3col
+   :class: std3col sortable
 
    +------------------+-----+-------+
    | Region           | |N| | |%|   |
@@ -2724,7 +2725,7 @@ Location of contractors
 .. table:: Location - other regions - contractors
    :widths: 70 15 15
    :name: tbl-2023-geographical-location-other-regions-contractors
-   :class: std3col
+   :class: std3col sortable
 
    +------------------+-----+-------+
    | Region           | |N| | |%|   |
@@ -2886,7 +2887,7 @@ Contractor satisfaction
 .. table:: Rate satisfaction - contractors
    :widths: 70 15 15
    :name: tbl-2023-rate-satisfaction-contractors
-   :class: std3col
+   :class: std3col sortable
 
    +-------------------+-----+-------+
    | Rate satisfaction | |N| | |%|   |
@@ -2909,7 +2910,7 @@ Contractor satisfaction
 .. table:: Overall satisfaction - contractors
    :widths: 70 15 15
    :name: tbl-2023-overall-satisfaction-contractors
-   :class: std3col
+   :class: std3col sortable
 
    +----------------------+-----+-------+
    | Overall satisfaction | |N| | |%|   |
@@ -2939,7 +2940,7 @@ Factors affecting contractor satisfaction
 .. table:: Factors affecting rate satisfaction - contractors
    :widths: 70 15 15
    :name: tbl-2023-factors-affecting-rate-satisfaction-contractors
-   :class: std3col
+   :class: std3col sortable
 
    +-----------------------------------------------------------------------------------+-----+-------+
    | Factor                                                                            | |N| | |%|   |
@@ -2968,7 +2969,7 @@ Factors affecting contractor satisfaction
 .. table:: Factors affecting overall satisfaction - contractors
    :widths: 70 15 15
    :name: tbl-2023-factors-affecting-overall-satisfaction-contractors
-   :class: std3col
+   :class: std3col sortable
 
    +--------------------------------------------------------------------------------------+-----+------+
    | Factor                                                                               | |N| | |%|  |
@@ -3033,7 +3034,7 @@ Factors affecting contractor satisfaction
 .. table:: Factors enhancing overall satisfaction - contractors
    :widths: 70 15 15
    :name: tbl-2023-factors-enhancing-overall-satisfaction-contractors
-   :class: std3col
+   :class: std3col sortable
 
    +----------------------------------------------------------------------------------------------------+-----+-------+
    | Factor                                                                                             | |N| | |%|   |
@@ -3119,7 +3120,7 @@ Official pay transparency policy
 .. table:: Pay transparency policy
    :widths: 70 15 15
    :name: tbl-2023-pay-transparency-policy
-   :class: std3col
+   :class: std3col sortable
 
    +----------------------------------+-----+-------+
    | Official policy                  | |N| | |%|   |
@@ -3166,7 +3167,7 @@ Showing that salary is still very much a taboo subject, 67.1% of respondents rep
 .. table:: Pay transparency culture
    :widths: 70 15 15
    :name: tbl-2023-pay-transparency-culture
-   :class: std3col
+   :class: std3col sortable
 
    +----------------------------+-----+-------+
    | Pay transparency culture   | |N| | |%|   |
@@ -3212,7 +3213,7 @@ Feelings about pay transparency
 .. table:: Feelings about pay transparency
    :widths: 70 15 15
    :name: tbl-2023-feelings-about-pay-transparency
-   :class: std3col
+   :class: std3col sortable
 
    +---------------------------------+-----+-------+
    | Feelings                        | |N| | |%|   |
@@ -3271,7 +3272,7 @@ As in previous years, medium-sized organizations make up the largest proportion 
 .. table:: Organization size - employees only
    :widths: 70 15 15
    :name: tbl-2023-organization-size-employees
-   :class: std3col
+   :class: std3col sortable
 
    +-------------------------------+-----+-------+
    | Organization size (employees) | |N| |   |%| |
@@ -3298,8 +3299,8 @@ As in previous years, medium-sized organizations make up the largest proportion 
 .. table:: Organization size - contractors only
    :widths: 70 15 15
    :name: tbl-2023-organization-size-contractors
-   :class: std3col
-
+   :class: std3col sortable
+ 
    +--------------------------------------------+-----+-------+
    | Organization size (employees)              | |N| | |%|   |
    +============================================+=====+=======+
@@ -3393,7 +3394,7 @@ Based on feedback and "other" entries for industry, the final list of industries
 .. table:: Organization industry
    :widths: 70 15 15
    :name: tbl-2023-organization-industry
-   :class: std3col
+   :class: std3col sortable
 
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
    | Industry                                                                                                                                                                   | |N| | |%|   |
@@ -3509,7 +3510,7 @@ A total of 63.3% of organizations originated in North America, with the bulk of 
 .. table:: Organization location - North America
    :widths: 70 15 15
    :name: tbl-2023-organization-location-north-america
-   :class: std3col
+   :class: std3col sortable
 
    +----------------------------------------+---------+-----------+
    | Region                                 |   |N|   |       |%| |
@@ -3532,7 +3533,7 @@ A total of 63.3% of organizations originated in North America, with the bulk of 
 .. table:: Organization location - Europe
    :widths: 70 15 15
    :name: tbl-2023-organization-location-europe
-   :class: std3col
+   :class: std3col sortable
 
    +----------------------------------------+---------+-----------+
    | Region                                 |   |N|   |       |%| |
@@ -3605,7 +3606,7 @@ A total of 63.3% of organizations originated in North America, with the bulk of 
 .. table:: Organization location - Other regions
    :widths: 70 15 15
    :name: tbl-2023-organization-location-other-regions
-   :class: std3col
+   :class: std3col sortable
 
    +----------------------------------------+---------+-----------+
    | Region                                 |   |N|   |       |%| |
