@@ -141,7 +141,8 @@ We want every writer to be confident in their docs. Come by our table, and we’
 
 ### Help improve the WTD Salary Survey
 
-Project organizer: Kay Smoljak, she/her. Project session: Afternoon.
+* Project organizer: Kay Smoljak, she/her. 
+* Project session: Afternoon.
 
 The [Write the Docs Salary Survey](https://writethedocs.org/surveys/) has been running annually since 2019, with the goal of identifying appropriate salary ranges and providing a basis for pay negotiations.
 
