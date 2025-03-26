@@ -28,8 +28,6 @@
 
 .. |%| replace:: :abbr:`% (Percentage of total respondents)`
 
-.. TODO: check documentation for sortable library re excluding % column
-
 .. raw:: html   
    
   <nav>
@@ -344,7 +342,7 @@ Role category
    - DocOps (infrastructure, tools etc)
    - Other (please specify)
 
-   |icon-question| What additional roles do you also perform?
+   What additional roles do you also perform?
 
    Select multiple if appropriate, or select "None".
 
@@ -493,19 +491,18 @@ Team configuration
 
    </details>
 
-.. TODO: check team configuration question wording and update if necessary
 
 .. TODO: writeup 2024 team breakdown
 
 .. TODO: update team breakdown table
 
-.. table:: Team breakdown
+.. table:: Team configuration
    :widths: 70 15 15
-   :name: tbl-2023-team-breakdown
+   :name: tbl-2023-team-configuration
    :class: std3col sortable
 
    +--------------------------------------------------------------------------------------+-----+-------+
-   | Team breakdown                                                                       | |N| | |%|   |
+   | Team configuration                                                                   | |N| | |%|   |
    +======================================================================================+=====+=======+
    | Team - similar roles                                                                 | 256 | 25.2% |
    +--------------------------------------------------------------------------------------+-----+-------+
@@ -535,12 +532,9 @@ Team configuration
 Length of time in current role
 ------------------------------
 
-.. TODO: check "time in current role" question wording and update if necessary
-
 .. TODO: writeup 2024 "time in current role"
 
 .. TODO: update "time in current role" table
-
 
 .. raw:: html
    
@@ -550,29 +544,29 @@ Length of time in current role
 
    |icon-question| Employees: 
 
-   How long have you worked in your current role, at your current organization?
+   How long have you worked at your current organization, in your current role?
    
-   Note:
-   Please select the length of time for your position at your current organization only – your total years of experience in documentation will be covered in the individual demographics section. If you have changed roles at the same organization, please select the length of time that you have been in your current role.
+   Please select the length of time for your current position at your current organization only - your total years of experience in documentation will be covered in the individual demographics section.
+
+   If you have changed roles at the same organization, please select the length of time that you have been in your current role.
 
    - Less than 1 year
-   - More than 1 year but less than 2 years
-   - More than 2 years but less than 5 years
-   - More than 5 years but less than 10 years
-   - More than 10 years
+   - 1 year or more but less than 2 years
+   - 2 years or more but less than 5 years
+   - 5 years or more but less than 10 years
+   - 10 years or more (please specify)
 
    Contractors: 
 
    How long have you worked as a contractor or freelancer, or been self-employed?
 
-   Note:
    This is how long you have been a contractor or freelancer only - your total years of experience in documentation will be covered later on.
 
    - Less than 1 year
-   - More than 1 year but less than 2 years
-   - More than 2 years but less than 5 years
-   - More than 5 years but less than 10 years
-   - More than 10 years
+   - 1 year or more but less than 2 years
+   - 2 years or more but less than 5 years
+   - 5 years or more but less than 10 years
+   - 10 years or more (please specify)
 
 .. raw:: html
 
@@ -727,14 +721,8 @@ The majority of respondents (73.5% in 2023, almost exactly the same proportion a
 Job changes
 ===========
 
-.. TODO: add "question background" section for job changes
-
-In the 2022 survey results, we saw more employee respondents in new positions - jobs that they'd held for less than one year - than in any previous survey. To better explore how the job market shake-up of the past few years is affecting our community - both employees and contractors - we added this new section for job changes.
-
-Employment or contract status change
-------------------------------------
-
-.. TODO: update question wording for 2024
+Salary or contract earnings changes
+-----------------------------------
 
 .. raw:: html
    
@@ -742,64 +730,44 @@ Employment or contract status change
 
 .. container:: question
 
-   |icon-question| Employees:
+   |icon-question| 
 
-   Has your employment status changed in the past year? 
-   
-   - Yes
-   - No
+   Employees:
 
-   Examples of an employment status change: you left a job; were promoted, laid off, made redundant or terminated; you started a new role.
+   Has your salary changed in the past year? Please do not take outside factors such as inflation, cost of living or currency conversion rates into account - just the actual amount of compensation you receive.
 
-   What are the circumstances of your employment status change? Check all that apply.
-
-   - I was promoted within the same organization
-   - I moved to another position within the same organization
-   - I started a new position in a new organization
-   - I was made redundant, downsized or laid off due to restructuring/bankruptcy/closure
-   - My employment was terminated for another reason
-   - I resigned in order to accept another offer of employment
-   - I resigned, but not to accept another offer of employment
-   - I would rather not say
-   - Other (please specify)
+   - Yes - my salary increased
+   - Yes - my salary decreased
+   - No - my salary stayed the same
 
    Contractors:
 
-   Has your contract/freelance status changed in the past year? 
+   Have your total contract or freelance earnings changed in the past year?
 
-   - Yes
-   - No
+   Please do not take outside factors such as inflation, cost of living or currency conversion rates into account - just the total amount of money you received from work you have done in the past year.
 
-   Examples of a contract/freelance status change: a contract or project cancelled prematurely; your regular freelance workload dried up unexpectedly; you started a new contract.
+   - Yes - my earnings increased
+   - Yes - my earnings decreased
+   - No - my earnings stayed the same   
 
-   What are the circumstances of your contract/freelance status change? Check all that apply.
+.. raw:: html
 
-   - I started a new contract or freelance project (or multiple projects)
-   - A contract or freelance project ended prematurely
-   - A contract or freelance project ended as expected
-   - My contract was not renewed as expected
-   - I resigned in order to start another contract
-   - I resigned, but not to start another contract
-   - I "fired" a freelance client
-   - My freelance work pipeline dried up
-   - I left employment in order to start as a contractor/freelancer
-   - I finished contracting/freelancing in order to accept a position as an employee
-   - I would rather not say
-   - Other (please specify)
+   </details>
+   <details><summary>Question background</summary>
+
+.. container:: question
+
+   |icon-info| In the 2022 survey results, we saw more employee respondents in new positions - jobs that they'd held for less than one year - than in any previous survey. To better explore how the job market shake-up of the past few years is affecting our community - both employees and contractors - we added this new section for job changes in 2023.
+
+   After community input in 2024, we changed the format of the question to ask about salary or earnings changes directly, rather than asking about changes in employment or contract status.
 
 .. raw:: html
 
    </details>
 
-.. TODO: writeup job changes findings
+Of the 713 respondents who worked as employees in the past year, 75% reported that their salary had increased in the past year. 22.3% reported no change, and 2.7% reported a decrease.
 
-36.5% of respondents reported undergoing a change in their employment status in the past year, with contractors reporting changes at a slightly higher rate (43%) than employees (35.9%).
-
-Of the employees experiencing employment changes, starting a new position at a new organization was the most reported change (46%). 28.8% were promoted within the same organization.
-
-Of the contractors, having a contract or project ending prematurely was the most reported change (41%). 35.3% started a new contract.
-
-.. TODO: update tables for job changes
+Among the 94 respondents who had worked on a contract basis, only 46.8% reported an earnings increase. 37.2% reported no change, and 16% reported a decrease.
 
 .. raw:: html
 
@@ -807,61 +775,284 @@ Of the contractors, having a contract or project ending prematurely was the most
 
 .. raw:: html
 
-   <input type="radio" id="tabB2-1" name="tabGroupB2" class="tab" checked tabindex="0"><label for="tabB2-1"><span>Employees</span></label><input type="radio" id="tabB2-2" name="tabGroupB2" class="tab"><label for="tabB2-2">Contractors</label><div class="tab__content">
+   <input type="radio" id="tabB22-1" name="tabGroupB22" class="tab" checked tabindex="0"><label for="tabB22-1"><span>Employees</span></label><input type="radio" id="tabB22-2" name="tabGroupB22" class="tab"><label for="tabB22-2">Contractors</label><div class="tab__content">
 
-.. table:: Employment change - employees
+.. table:: Salary change
    :widths: 70 15 15
-   :name: tbl-2023-employment-change-employees
+   :name: tbl-2024-salary-change
    :class: std3col sortable
 
-   +---------------------+-----+-------+
-   | Change              | |N| | |%|   |
-   +=====================+=====+=======+
-   | New position        | 155 | 46.0% |
-   +---------------------+-----+-------+
-   | Promotion           |  97 | 28.8% |
-   +---------------------+-----+-------+
-   | Redundancy          |  84 | 24.9% |
-   +---------------------+-----+-------+
-   | Resigned with offer |  54 | 16.0% |
-   +---------------------+-----+-------+
-   | Lateral move        |  21 |  6.2% |
-   +---------------------+-----+-------+
-   | Resigned            |  13 |  3.9% |
-   +---------------------+-----+-------+
-   | Terminated          |  11 |  3.3% |
-   +---------------------+-----+-------+
+   +-------------------+------+-------+
+   | Salary change     | |N|  | |%|   |
+   +===================+======+=======+
+   | Increase          | 535  | 75.0% |
+   +-------------------+------+-------+
+   | No change         | 159  | 22.3% |
+   +-------------------+------+-------+
+   | Decrease          | 19   | 2.7%  |
+   +-------------------+------+-------+
 
 .. raw:: html
 
    </div><div class="tab__content">
 
-.. table:: Employment change - contractors
+.. table:: Contract earnings change
    :widths: 70 15 15
-   :name: tbl-2023-employment-change-contractors
+   :name: tbl-2024-earnings-change
    :class: std3col sortable
 
-   +----------------------------+-----+-------+
-   | Change                     | |N| | |%|   |
-   +============================+=====+=======+
-   | Contract ended prematurely |  14 | 41.2% |
-   +----------------------------+-----+-------+
-   | New contract               |  12 | 35.3% |
-   +----------------------------+-----+-------+
-   | Left employment            |   8 | 23.5% |
-   +----------------------------+-----+-------+
-   | Contracted ended normally  |   7 | 20.6% |
-   +----------------------------+-----+-------+
-   | Pipeline dried up          |   6 | 17.6% |
-   +----------------------------+-----+-------+
-   | Contract not renewed       |   5 | 14.7% |
-   +----------------------------+-----+-------+
-   | Resigned with offer        |   4 | 11.8% |
-   +----------------------------+-----+-------+
-   | Fired client               |   3 |  8.8% |
-   +----------------------------+-----+-------+
-   | Left contracting           |   2 |  5.9% |
-   +----------------------------+-----+-------+
+   +--------------------+-----+-------+
+   | Earnings change    | |N| | |%|   |
+   +====================+=====+=======+
+   | Increase           | 44  | 46.8% |
+   +--------------------+-----+-------+
+   | No change          | 35  | 37.2% |
+   +--------------------+-----+-------+
+   | Decrease           | 15  | 16.0% |
+   +--------------------+-----+-------+
+
+.. raw:: html
+
+   </div></div>
+
+Reasons for salary increase or decrease
+---------------------------------------
+
+.. raw:: html
+   
+   <details><summary>What we asked</summary>
+
+.. container:: question
+
+   |icon-question| 
+
+   Why did your salary increase? Select multiple, if appropriate.
+
+   - I received or negotiated a raise
+   - I was promoted within the same organization
+   - I moved to another position within the same organization
+   - I started a new position in a new organization
+   - Other (please specify)
+
+   OR
+
+   Why did your salary decrease? Select multiple, if appropriate.
+
+   - Organizational salary cuts
+   - I was made redundant, downsized or laid off due to restructuring/bankruptcy/closure
+   - My employment was terminated
+   - I resigned
+   - I moved to another position with the same organization at a lower salary
+   - I started a new position in a new organization at a lower salary
+   - Other (please specify)
+
+   Regardless of outcome, did you attempt to negotiate a salary increase in the past year? This could be through formal or informal procedures.
+   
+   - yes
+   - no
+
+.. raw:: html
+
+   </details>
+   
+61.6% of employees reporting an increase in salary attributed this to a raise. 17.4% received a promotion, and 13.9% started a new position.
+
+After examining the responses entered by those respondents who selected "Other" and provided more detail, four addiional options were added to the reasons for salary increase: 
+
+- "Adjustment" refers to a salary increase to account for inflation, cost-of-living increases, currency exchange rates or similar - rather than a performance, merit or tenure-based raise;
+- "Position change" refers to a change in location, increase in responsibilities or wider scope of tasks that warranted a salary increase, without actually being a promotion or lateral move;
+- "Equity" refers to the maturation of stock options or other equity-based compensation increases; and
+- "Bonus" refers to a one-time or annual bonus payment that was not part of the respondent's regular salary.
+
+50% of employees reporting a decrease in salary attributed this to starting a new position at a lower salary. 20.8% were made redundant, 12.5% experienced organizational salary cuts, and 8.3% had their employment terminated.
+
+There was only one "other" response for salary decrease, representing a potentially common option which was added:
+
+-  "Relocation" refers to a decrease in salary due to a move to a location with a lower cost of living or lower salary expectations.
+
+32.8% of employees attempted to negotiate a salary increase in the past year.
+
+.. raw:: html
+
+   <div class="tab-wrap">
+
+.. raw:: html
+
+   <input type="radio" id="tabB32-1" name="tabGroupB32" class="tab" checked tabindex="0"><label for="tabB32-1"><span>Salary increase</span></label><input type="radio" id="tabB32-2" name="tabGroupB32" class="tab"><label for="tabB32-2">Salary decrease</label><div class="tab__content">
+
+.. table:: Salary increase
+   :widths: 70 15 15
+   :name: tbl-2024-salary-increase
+   :class: std3col sortable
+
+   +--------------------+-----+-------+
+   | Increase reason    | |N| | |%|   |
+   +====================+=====+=======+
+   | Raise              | 369 | 61.6% |
+   +--------------------+-----+-------+
+   | Promotion          | 104 | 17.4% |
+   +--------------------+-----+-------+
+   | New position       | 83  | 13.9% |
+   +--------------------+-----+-------+
+   | Adjustment         | 24  | 4.0%  |
+   +--------------------+-----+-------+
+   | Lateral move       | 9   | 1.5%  |
+   +--------------------+-----+-------+
+   | Position change    | 7   | 1.2%  |
+   +--------------------+-----+-------+
+   | Equity             | 2   | 0.3%  |
+   +--------------------+-----+-------+
+   | Bonus              | 1   | 0.2%  |
+   +--------------------+-----+-------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Salary decrease
+   :widths: 70 15 15
+   :name: tbl-2024-salary-decrease
+   :class: std3col sortable
+
+   +-------------------------+-----+-------+
+   | Decrease reason         | |N| | |%|   |
+   +=========================+=====+=======+
+   | New position            | 12  | 50.0% |
+   +-------------------------+-----+-------+
+   | Redundancy              | 5   | 20.8% |
+   +-------------------------+-----+-------+
+   | Organizational cuts     | 3   | 12.5% |
+   +-------------------------+-----+-------+
+   | Termination             | 2   | 8.3%  |
+   +-------------------------+-----+-------+
+   | Lateral                 | 1   | 4.2%  |
+   +-------------------------+-----+-------+
+   | Relocation              | 1   | 4.2%  |
+   +-------------------------+-----+-------+
+
+.. raw:: html
+
+   </div></div>
+
+Reasons for contract earnings increase or decrease
+--------------------------------------------------
+
+.. raw:: html
+   
+   <details><summary>What we asked</summary>
+
+.. container:: question
+
+   |icon-question| 
+
+   Why did your contract or freelance earnings increase? Select multiple, if appropriate.
+
+   - I started a new contract or freelance project (or multiple projects)
+   - I raised my rate
+   - I worked more hours
+   - Other (please specify)
+
+   OR 
+
+   Why did your contract or freelance earnings decrease? Select multiple, if appropriate.
+
+   - A contract or freelance project ended prematurely
+   - A contract or freelance project ended as expected
+   - My contract was not renewed or extended as expected
+   - I resigned from a contract or "fired" a freelance client
+   - My freelance work pipeline dried up
+   - I lowered my rate
+   - I worked fewer hours
+   - Other (please specify)
+
+   Regardless of outcome, did you attempt to negotiate a contract or freelance rate increase in the past year?
+
+   - yes
+   - no
+
+.. raw:: html
+
+   </details>
+
+Of those contractors reporting an increase in their earnings, 36.5% raised their rate, 34.9% started new contracts or projects, and 14.3% worked more hours.
+
+Four additional options were added to the reasons for contract earnings increase, based on responses entered by those who selected "Other" and provided more detail:
+
+   - "Received a raise" - as distinct from "raised rate" - applies to those contactors who work a single contract in the manner of a regular employee, and received a raise from their client/employer;
+   - "Job changes" to describe taking on additional responsibility or work scope within the same contract, leading to an increase in earnings;
+   - "Bonus" for a one-off additional payment; and
+   - "Promotion" for a change in role or responsibility - again applying to those contractors working a single contract in the manner of a regular employee.
+
+Of those contractors reporting a decrease in their earnings, 20% reported that their pipeline dried up, 16% worked fewer hours, and 16% had a contract end prematurely.
+
+Two new options were added to the reasons for earnings decrease, based on responses entered by those who selected "Other":
+
+   - "Stopgap contracting" for those who took on contracts at a lower rate as a temporary measure after losing permanent employment, while searching for a new permanent position; and
+   - "Relocation" for those who moved to a location with a lower cost of living or lower salary expectations.
+
+45.7% of contractors reported that they attempted to negotiate a rate increase in the past year.
+
+.. raw:: html
+
+   <div class="tab-wrap">
+
+.. raw:: html
+
+   <input type="radio" id="tabB2-1" name="tabGroupB2" class="tab" checked tabindex="0"><label for="tabB2-1"><span>Earnings increase</span></label><input type="radio" id="tabB2-2" name="tabGroupB2" class="tab"><label for="tabB2-2">Earnings decrease</label><div class="tab__content">
+
+.. table:: Earnings increase
+   :widths: 70 15 15
+   :name: tbl-2024-earnings-increase
+   :class: std3col sortable
+
+   +-----------------------------+-----+-------+
+   | Increase reason             | |N| | |%|   |
+   +=============================+=====+=======+
+   | Raised rate                 | 23  | 36.5% |
+   +-----------------------------+-----+-------+
+   | New contract(s)/project(s)  | 22  | 34.9% |
+   +-----------------------------+-----+-------+
+   | Worked more hours           | 9   | 14.3% |
+   +-----------------------------+-----+-------+
+   | Received a raise            | 5   | 7.9%  |
+   +-----------------------------+-----+-------+
+   | Job changes                 | 2   | 3.2%  |
+   +-----------------------------+-----+-------+
+   | Bonus                       | 1   | 1.6%  |
+   +-----------------------------+-----+-------+
+   | Promotion                   | 1   | 1.6%  |
+   +-----------------------------+-----+-------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Earnings decrease
+   :widths: 70 15 15
+   :name: tbl-2024-earnings-decrease
+   :class: std3col sortable
+
+   +--------------------------------+-----+-------+
+   | Decrease reason                | |N| | |%|   |
+   +================================+=====+=======+
+   | Pipeline dried up              | 5   | 20.0% |
+   +--------------------------------+-----+-------+
+   | Stopgap contracting            | 4   | 16.0% |
+   +--------------------------------+-----+-------+
+   | Fewer hours                    | 4   | 16.0% |
+   +--------------------------------+-----+-------+
+   | Contract ended prematurely     | 4   | 16.0% |
+   +--------------------------------+-----+-------+
+   | Contracted ended normally      | 2   | 8.0%  |
+   +--------------------------------+-----+-------+
+   | Contract not renewed           | 2   | 8.0%  |
+   +--------------------------------+-----+-------+
+   | Lowered rate                   | 2   | 8.0%  |
+   +--------------------------------+-----+-------+
+   | Resigned or fired client       | 1   | 4.0%  |
+   +--------------------------------+-----+-------+
+   | Relocation                     | 1   | 4.0%  |
+   +--------------------------------+-----+-------+
 
 .. raw:: html
 
@@ -869,8 +1060,6 @@ Of the contractors, having a contract or project ending prematurely was the most
 
 Job or contract search status
 -----------------------------
-
-.. TODO: check "job search status" question wording and update if necessary
 
 .. raw:: html
    
@@ -886,6 +1075,7 @@ Job or contract search status
    - I'm not looking for a new position, but am open to employment offers
    - I'm not looking for a new position, but expect to be within the next year
    - I'm actively looking for a new position
+   - I'm actively looking for a new position and would also consider contract/freelance opportunities
 
    Contractors: 
 
@@ -895,16 +1085,19 @@ Job or contract search status
    - I'm not looking for new contracts or freelance projects, but am open to offers
    - I'm not looking for new contracts or freelance projects, but expect to be within the next year
    - I'm actively looking for new contracts or freelance projects
+   - I'm actively looking for new contracts or freelance projects and would also consider taking a permanent position
+   - I'm only contracting while I search for a permanent position
 
 .. raw:: html  
 
    </details>
 
-.. TODO: writeup findings for job search status
+The top two responses to "what is your job/contract search status" were the same for employees and contractors: 
 
-The majority of respondents - 46.3% of employees and 38% of contractors - stated that while they were not actively looking for new positions or contracts, they were open to considering offers that might come their way. 14% of employees and 29.1% of contractors said they were actively looking for new work. 
+- 46.8% of employees and 30.9% of contractors reported that they were not actively looking for new positions, but were open to offers; whereas 
+- 29.5% of employees and 23.4% of contractors reported that they were not actively looking for new positions and were not open to offers.
 
-.. TODO: update tables for job search status
+5.5% of employees were actively looking for new positions and would also consider contract/freelance opportunities, while 18.1% of contractors were actively looking for new contracts or freelance projects and would also consider taking a permanent position. 17% of contractors were only contracting while searching for a permanent position.
 
 .. raw:: html
 
@@ -916,20 +1109,22 @@ The majority of respondents - 46.3% of employees and 38% of contractors - stated
 
 .. table:: Current job search status - employees
    :widths: 70 15 15
-   :name: tbl-2023-current-job-search-status-employees
+   :name: tbl-2024-current-job-search-status-employees
    :class: std3col sortable
 
-   +--------------------------------------------------------+-----+-------+
-   | Search status                                          | |N| | |%|   |
-   +========================================================+=====+=======+
-   | Not actively looking, but open to offers               | 434 | 46.3% |
-   +--------------------------------------------------------+-----+-------+
-   | Not actively looking, not open to offers               | 298 | 31.8% |
-   +--------------------------------------------------------+-----+-------+
-   | Actively looking                                       | 131 | 14.0% |
-   +--------------------------------------------------------+-----+-------+
-   | Not looking yet, but expect to be within the next year | 75  | 8.0%  |
-   +--------------------------------------------------------+-----+-------+
+   +------------------------------------------------------------+-----+-------+
+   | Search status                                              | |N| | |%|   |
+   +============================================================+=====+=======+
+   | Not actively looking - open to offers                      | 334 | 46.8% |
+   +------------------------------------------------------------+-----+-------+
+   | Not actively looking - not open to offers                  | 210 | 29.5% |
+   +------------------------------------------------------------+-----+-------+
+   | Actively looking                                           | 66  | 9.3%  |
+   +------------------------------------------------------------+-----+-------+
+   | Not looking yet, but expect to be within the next year     | 64  | 9.0%  |
+   +------------------------------------------------------------+-----+-------+
+   | Actively looking, would consider contract                  | 39  | 5.5%  |
+   +------------------------------------------------------------+-----+-------+
 
 .. raw:: html
 
@@ -937,20 +1132,24 @@ The majority of respondents - 46.3% of employees and 38% of contractors - stated
 
 .. table:: Current work search status - contractors
    :widths: 70 15 15
-   :name: tbl-2023-current-work-search-status-contractors
+   :name: tbl-2024-current-work-search-status-contractors
    :class: std3col sortable
 
-   +--------------------------------------------------------+-----+-------+
-   | Search status                                          | |N| | |%|   |
-   +========================================================+=====+=======+
-   | Not actively looking, but open to offers               | 30  | 38.0% |
-   +--------------------------------------------------------+-----+-------+
-   | Actively looking                                       | 23  | 29.1% |
-   +--------------------------------------------------------+-----+-------+
-   | Not actively looking, not open to offers               | 18  | 22.8% |
-   +--------------------------------------------------------+-----+-------+
-   | Not looking yet, but expect to be within the next year | 8   | 10.1% |
-   +--------------------------------------------------------+-----+-------+
+   +-------------------------------------------------------------+-----+-------+
+   | Search status                                               | |N| | |%|   |
+   +=============================================================+=====+=======+
+   | Not actively looking - open to offers                       | 29  | 30.9% |
+   +-------------------------------------------------------------+-----+-------+
+   | Not actively looking - not open to offers                   | 22  | 23.4% |
+   +-------------------------------------------------------------+-----+-------+
+   | Actively looking, would consider a permanent position       | 17  | 18.1% |
+   +-------------------------------------------------------------+-----+-------+
+   | Only contracting while looking for a permanent position     | 16  | 17.0% |
+   +-------------------------------------------------------------+-----+-------+
+   | Not looking yet, but expect to be within the next year      | 6   | 6.4%  |
+   +-------------------------------------------------------------+-----+-------+
+   | Actively looking for new contracts/freelance projects       | 4   | 4.3%  |
+   +-------------------------------------------------------------+-----+-------+
 
 .. raw:: html
 
