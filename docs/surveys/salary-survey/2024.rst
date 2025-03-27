@@ -1158,7 +1158,86 @@ The top two responses to "what is your job/contract search status" were the same
 Job security and stability
 --------------------------
 
-.. TODO: check "job security and stability" question wording and update if necessary
+.. raw:: html
+   
+   <details><summary>What we asked</summary>
+
+.. container:: question
+
+   |icon-question| 
+   
+   Employees who are currently working:
+   
+   How would you characterize your current feelings of job security and stability compared to this time last year?
+
+   - More confident
+   - Around the same
+   - Less confident
+
+   Contractors who are currently working:
+
+   How would you characterize your current feelings of contract/freelance income security and stability compared to this time last year?
+
+   - More confident
+   - Around the same
+   - Less confident
+
+.. raw:: html
+
+   </details>
+
+Employees and contractors who had indicated that they were currently unemployed were not shown this question. 
+
+Around half of all employees (51.4%) and half of all contractors (50% exactly) reported that their confidence in their job security and stability was around the same as last year. However, while 26.6% of employees reported feeling more confident, only 19.7% of contractors did. Conversely, 21.9% of employees reported feeling less confident, compared to 30.3% of contractors.
+
+.. raw:: html
+
+   <div class="tab-wrap">
+
+   <input type="radio" id="tabB553-1" name="tabGroupB553" class="tab" checked><label for="tabB553-1">Employees</label><input type="radio" id="tabB553-2" name="tabGroupB553" class="tab"><label for="tabB553-2">Contractors</label><div class="tab__content">
+
+.. table:: Employee job security
+   :widths: 70 15 15
+   :name: tbl-2024-job-security-employees
+   :class: std3col sortable
+
+   +-------------------------------------------+-----+-------+
+   | Job security confidence vs last year      | |N| | |%|   |
+   +===========================================+=====+=======+
+   | Around the same                           | 357 | 51.5% |
+   +-------------------------------------------+-----+-------+
+   | More confident                            | 184 | 26.6% |
+   +-------------------------------------------+-----+-------+
+   | Less confident                            | 152 | 21.9% |
+   +-------------------------------------------+-----+-------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Contractor job security
+   :widths: 70 15 15
+   :name: tbl-2024-job-security-contractor
+   :class: std3col sortable
+
+   +------------------------------------------+-----+-------+
+   | Job security confidence vs last year     | |N| | |%|   |
+   +==========================================+=====+=======+
+   | Around the same                          | 38  | 50.0% |
+   +------------------------------------------+-----+-------+
+   | Less confident                           | 23  | 30.3% |
+   +------------------------------------------+-----+-------+
+   | More confident                           | 15  | 19.7% |
+   +------------------------------------------+-----+-------+
+
+.. raw:: html
+
+	</div></div>
+
+.. TODO: chart for job security
+
+Job search confidence
+---------------------
 
 .. raw:: html
    
@@ -1166,38 +1245,91 @@ Job security and stability
 
 .. container:: question
 
-   |icon-question| How would you characterize your current feelings of job security and stability, or contract/freelance income security and stability, compared to this time last year?
+   |icon-question| 
 
-   - I'm less confident in my job security or contract/freelance income security than I was last year
-   - My confidence level is around the same
-   - I'm more confident in my job security or contract/freelance income security than I was last year
+   Employees who are currently not working, or who indicated that they were actively looking for a new position:
+
+   How would you characterize your confidence in your ability to secure a new position with terms favorable to you?
+
+   - Very confident
+   - Confident
+   - Neutral
+   - Not confident
+   - Not confident at all
+
+   Contractors who are currently not working, or who indicated that they were actively looking for new contracts or freelance projects:
+
+   How would you characterize your confidence in your ability to secure a new contract or freelance project/client with terms favorable to you?
+
+   - Very confident
+   - Confident
+   - Neutral
+   - Not confident
+   - Not confident at all
+
+.. raw:: html
+   
+   </details>
+
+Employees and contractors were shown this question if they indicated that they were currently not working, or if they indicated that they were actively looking for a new position or new contract.
+
+Amongst employees, job search confidence was mixed, with around a third (30%) feeling "confident" and another third (27.5%) feeling "not confident". Similarly, a smaller proportion (10%) felt "very confident" and an almost equal number (11.3%) "not confident at all".
+
+Amongst contractors - a smaller number of respondents overall - the trend was towards the negative, with 40.9% feeling "not confident" and 13.6% feeling "not confident at all". 
 
 .. raw:: html
 
-   </details>
+   <div class="tab-wrap">
 
-.. TODO: writeup findings for job security and stability
+   <input type="radio" id="tabB563-1" name="tabGroupB563" class="tab" checked><label for="tabB563-1">Employees</label><input type="radio" id="tabB563-2" name="tabGroupB563" class="tab"><label for="tabB563-2">Contractors</label><div class="tab__content">
 
-Note: Employees and contractors who had indicated that they were currently unemployed were not shown this question. 
-
-Just over half of all respondents (54.1%) reported feeling the same level of job security and stability, compared to the previous year. 30.5% felt less secure, and only 15.4% felt more secure. The difference in responses between employees and contractors for this question was not significantly different.
-
-.. TODO: update tables for job security and stability
-
-.. table:: Feelings of job security and stability
+.. table:: Employee job search confidence
    :widths: 70 15 15
-   :name: tbl-2023-feelings-of-job-security-combined
+   :name: tbl-2024-job-search-confidence-employees
    :class: std3col sortable
 
-   +----------------------------------------+-----+-------+
-   | Feelings                               | |N| | |%|   |
-   +========================================+=====+=======+
-   | The same as last year                  | 531 | 54.1% |
-   +----------------------------------------+-----+-------+
-   | Less secure than last year             | 299 | 30.5% |
-   +----------------------------------------+-----+-------+
-   | More secure than last year             | 151 | 15.4% |
-   +----------------------------------------+-----+-------+
+   +---------------------------+-----+-------+
+   | Job search confidence     | |N| | |%|   |
+   +===========================+=====+=======+
+   | Confident                 | 24  | 30.0% |
+   +---------------------------+-----+-------+
+   | Not confident             | 22  | 27.5% |
+   +---------------------------+-----+-------+
+   | Neutral                   | 17  | 21.3% |
+   +---------------------------+-----+-------+
+   | Not confident at all      | 9   | 11.3% |
+   +---------------------------+-----+-------+
+   | Very confident            | 8   | 10.0% |
+   +---------------------------+-----+-------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Contractor job search confidence
+   :widths: 70 15 15
+   :name: tbl-2024-job-search-confidence-contractor
+   :class: std3col sortable
+
+   +----------------------------+-----+-------+
+   | Contract search confidence | |N| | |%|   |
+   +============================+=====+=======+
+   | Not confident              | 9   | 40.9% |
+   +----------------------------+-----+-------+
+   | Very confident             | 4   | 18.2% |
+   +----------------------------+-----+-------+
+   | Neutral                    | 3   | 13.6% |
+   +----------------------------+-----+-------+
+   | Not confident at all       | 3   | 13.6% |
+   +----------------------------+-----+-------+
+   | Confident                  | 3   | 13.6% |
+   +----------------------------+-----+-------+
+
+.. raw:: html
+
+	</div></div>
+
+.. TODO: chart for job search confidence
 
 Workplace
 =========
