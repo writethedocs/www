@@ -29,13 +29,20 @@ sys.path.append(docs_root)
 ###############################################################################
 # Settings
 
-TITO_EVENT = "write-the-docs-atlantic-2024"
+TITO_EVENT = "write-the-docs-portland-2025"
 VENUELESS_PUBLIC_URL = "https://writethedocs.venueless.events/"  # include trailing /
-VENUELESS_EVENT_SLUG = "wtd24"
+VENUELESS_EVENT_SLUG = "wtd25"
+# If not listed in here, ticket is skipped
+ACTIVITY_NAME_TO_TRAIT = {
+    "conference": ["onsite"],
+    "virtual conference": ["virtual"],
+}
+# If not listed in here, only gets DEFAULT_TRAITS
 TICKET_NAME_TO_TRAIT = {
-    "staff": ["staff"],
-    "speaker": ["speaker"],
-    "sponsor": ["sponsor"],
+    "staff ticket": ["staff"],
+    "speaker ticket": ["speaker"],
+    "volunteer ticket": ["volunteer"],
+    "sponsor ticket": ["sponsor"],
 }
 DEFAULT_TRAITS = ["attendee"]
 
@@ -63,9 +70,10 @@ pending_tickets = []
 # NOTE: in tito UI, this is called an attendee
 tickets_response = requests.get(
     f"https://api.tito.io/v3/writethedocs/{TITO_EVENT}/tickets",
-    params={"page[size]": 1000, "search[states][]": "complete", "expand": "release"},
+    params={"page[size]": 1000, "search[states][]": "complete", "expand": "release,activities"},
     headers=headers,
 )
+
 for ticket in tickets_response.json()["tickets"]:
     ticket_slug = ticket["slug"]
     ticket_reference = ticket["reference"]
@@ -76,7 +84,13 @@ for ticket in tickets_response.json()["tickets"]:
     traits += DEFAULT_TRAITS
     traits.append(ticket_reference)
 
-    is_staff = ticket["release"]["title"] == "Staff"
+    try:
+        activity_name = ticket["activities"][0]["name"].lower()
+        traits += ACTIVITY_NAME_TO_TRAIT[activity_name]
+    except (IndexError, KeyError):
+        continue
+
+    is_staff = ticket["release"]["title"] == "Staff Ticket"
     print(f'Found ticket {ticket["name"]}: {ticket_reference=} {traits=} {venueless_meta=} {is_staff=}')
     if not venueless_meta and is_staff:
         pending_tickets.append((ticket_slug, traits))
