@@ -1345,8 +1345,6 @@ The questions in this section relate to respondents' workplace: whether they wor
 Work location
 -------------
 
-.. CHECK: "work location" question wording
-
 .. raw:: html
    
    <details><summary>What we asked</summary>
@@ -1454,15 +1452,13 @@ The majority of respondents (80.8%) reported feeling "positive" about their work
 "Return to office" (RTO) mandates
 ---------------------------------
 
-.. CHECK: "return to office" question wording
-
 .. raw:: html
    
    <details><summary>What we asked</summary>
 
 .. container:: question
 
-   |icon-question| Has your organization implemented a "return to office" policy - requesting or requiring that remote or "work from home" employees return to working on-site?
+   |icon-question|  In the past year, has your organization (or for contractors, any organization that you work for) implemented an RTO (return to office) policy - requesting or requiring that remote or "work from home" employees/contractors return to working on-site?
 
    - Yes, it's required all of the time
    - Yes, it's required but only part of the time (hybrid work is ok)
@@ -1472,7 +1468,7 @@ The majority of respondents (80.8%) reported feeling "positive" about their work
    - No, my position was always remote-only
    - No, my position was always hybrid
    - No, my position was always on-site only
-   - I don't know
+   - I don't know, or it doesn't apply to the kind of work I do
 
    How do you feel about your organization's "return to office" policy?
 
@@ -1556,8 +1552,6 @@ Those affected by a full time RTO mandate felt predominantly negative, with only
 Preferred work location
 -----------------------
 
-.. CHECK: "preferred work location" question wording 
-
 .. raw:: html
    
    <details><summary>What we asked</summary>
@@ -1569,7 +1563,7 @@ Preferred work location
    - I prefer to work on-site on a full-time basis
    - I prefer to work remotely/from home on a full-time basis
    - I prefer the flexibility of a hybrid work location (partly on-site, partly remote)
-   - I have no strong preference
+   - I have no strong preference / it depends on the situation
 
 .. raw:: html
 
@@ -2353,25 +2347,49 @@ Median salary by organization size (employees)
 Employee benefits
 -----------------
 
-.. CHECK: question text for employee benefits
-
-.. WRITE: add question background section for employee benefits
-
 .. raw:: html
    
    <details><summary>What we asked</summary>
 
 .. container:: question
 
-   |icon-question| Does your salary package include any additional benefits? Check all that apply, or select "none of the above".
+   |icon-question| Does your salary package include any of the following statutory benefits?
 
-   - Paid vacation time (in excess of government-mandated minimums)
-   - Paid parental leave (in excess of government-mandated minimum)
+   Labor laws in some countries mandate that employees receive some or all of the following benefits as part of their employment (in some cases depending on the size or type of employer).
+
+   Please indicate if you have access to any of the following statutory benefits. Check all that apply, or select "none of the above".
+
+   - Paid vacation
+   - Paid parental leave
+   - Paid sick leave
+   - Healthcare benefits
+   - Pension / superannuation / retirement
+   - None of the above
+
+   Does your salary package include any of the following statutory benefits, in excess of the required minimums?
+
+   Please indicate if you receive any of the following benefits, in excess of any government-mandated minimums that may apply, as part of your salary package.
+
+   Check all that apply, or select "none of the above".
+
+   For example, in Germany, employees are legally entitled to 20 days of paid vacation per year. An employee living in Germany who has a paid vacation allowance of 30 days would therefore select "paid vacation" for this question, as they receive more than the government mandated minimum.
+
+   - Paid vacation
+   - Paid parental leave
+   - Paid sick leave
+   - Healthcare benefits
+   - Pension / superannuation / retirement
+   - I'm not sure
+   - None of the above
+
+   Does your salary package include any of the following non-statutory benefits?
+
+   Check all that apply, or select "none of the above".
+
    - Time off or bonuses for community-related activities
+   - 401(k) matching or equivalent (additional pension contributions)
    - Unlimited PTO (paid/personal time off)
-   - Health insurance (in excess of government-mandated minimums)
-   - Other types of insurance e.g. life insurance, accident insurance, income protection insurance
-   - Pension, superannuation, 401(k) matching or retirement fund (in excess of any government-mandated minimums)
+   - Insurance e.g. life, accident, income protection
    - Stocks, shares, stock options, or equity
    - Commission or bonus payments
    - Professional development / ongoing education / conference budget
@@ -2380,12 +2398,27 @@ Employee benefits
    - Transportation-related benefits (company car, public transport passes, parking, fuel vouchers or reimbursements for any transport-related cost)
    - Home office or co-working office budget (including for laptops or other equipment)
    - Phone and/or internet-related benefits or reimbursements
-   - None of the above
    - Other (please specify)
+   - None of the above
 
 .. raw:: html
 
    </details>
+   <details><summary>Question background</summary>
+
+.. container:: question
+
+   |icon-info| 
+
+   This question was overhauled in 2024 to distinguish between benefits that are mandated by law in the country of employment, and those that are provided by the employer in addition to what is legally required. Instead of one questoion asking about all benefits, we now ask three separate questions: one about statutory benefits, one about statutory benefits in excess of legal requirements, and one about non-statutory benefits.
+
+.. raw:: html
+
+   </details>
+
+.. WRITE: employee benefits
+
+writeup
 
 .. TABLE: employee benefits
 
@@ -2441,10 +2474,6 @@ Employee benefits
 Employee satisfaction
 ---------------------
 
-.. CHECK: question text for employee satisfaction
-
-.. WRITE: add question background section for employee satisfaction
-
 .. raw:: html
    
    <details><summary>What we asked</summary>
@@ -2459,19 +2488,6 @@ Employee satisfaction
    - Satisfied
    - Very satisfied
 
-   What reasons do you have for dissatisfaction with your salary and benefits, if any? Check all that apply, or check "none of the above":
-
-   - Salary is too low
-   - Benefits are missing or insufficient
-   - Discrepancy between salary and cost of living in my area
-   - Unfair or inconsistent salary across similar roles in my organization
-   - I know or suspect a gender pay gap exists in my organization
-   - I work too many hours
-   - I don't work enough hours
-   - Responsibilities exceed pay grade
-   - None of the above
-   - Other (please specify)
-
    Considering your overall employment conditions - separate from your salary and benefits - rate your level of satisfaction:
 
    - Very unsatisfied
@@ -2480,58 +2496,55 @@ Employee satisfaction
    - Satisfied
    - Very satisfied
 
-   What reasons do you have for dissatisfaction with your overall employment conditions, if any? Check all that apply, or check "none of the above":
+   How strongly do you agree with the following statements about your salary and benefits? 
 
-   - My workload is too high
-   - My workload is too low
-   - There is too much stress or pressure
-   - The work is not interesting or challenging enough
-   - Role is undervalued or underfunded
-   - No opportunities for advancement
-   - Unsupportive work environment
-   - Insufficient opportunities for professional development
-   - Outdated, inadequate or unsatisfactory toolset
-   - Management not open to change
-   - No opportunity for remote work
-   - I don't feel supported as a remote worker
-   - No office location is available to me
-   - I don't feel respected
-   - I am discriminated against on the basis of gender
-   - I am discriminated against on the basis of race or nationality
-   - I am discriminated against on the basis of age
-   - I am discriminated against on the basis of education level
-   - I am discriminated against for some other reason, or a reason I do not wish to share
-   - Too much bureaucratic overhead/too many meetings
-   - Issues with co-workers
-   - Bullying and/or harassment
-   - Organizational politics
-   - Lack of pay transparency
-   - Job instability
-   - None of the above
-   - Other (please specify)
+   - I'm paid fairly 
+   - My salary keeps up with inflation / cost-of-living 
+   - My benefits are sufficient 
 
-   Considering your salary, benefits, and overall employment conditions, what do you like about your current job? Check all that apply, or check "none of the above":
+   How strongly do you agree with the following statements about your job?
 
-   - I like and/or respect my co-workers
-   - I like and/or respect the organization I work for
-   - I'm compensated fairly for the work I do
-   - I'm satisfied with my benefits
+   - My hours are reasonable
+   - I have flexibility in my hours
+   - My responsibilities are reasonable
    - My workload is manageable
-   - My manager's expectations are realistic/reasonable
-   - The work is sufficiently interesting and/or challenging
-   - My contributions are valued
-   - I feel respected
-   - I feel I am making a positive impact (in my organization, industry, community, or the wider world)
-   - I have opportunities for career development and advancement
-   - I have opportunities for professional development/learning
-   - I have flexibility in working hours or location
-   - I feel I have work-life balance
-   - None of the above
-   - Other (please specify)
+   - I have opportunities for career advancement
+   - I have opportunities for professional development
+   - My work is sufficiently interesting/challenging
+   - I'm satisfied with the systems and toolsets I use
+
+   How strongly do you agree with the following statements about your workplace (remote, on-site or hybrid environment)?
+
+   - I have flexibility in my work location
+   - Our remote work systems, tools and practices function well
+   - Our on-site work systems, tools and practices function well
+   - Our hybrid work systems, tools and practices function well
+
+   How strongly do you agree with the following statements about your team and organization?
+
+   - To my knowledge, salaries are consistent across similar roles
+   - To my knowledge, all genders are paid equally
+   - My role is sufficiently valued/funded
+   - I like and/or respect my managers and team leaders
+   - I like and/or respect my co-workers
+   - I like and/or respect my organization
+   - I'm satisfied with our methodologies, systems and practices
 
 .. raw:: html
 
    </details>
+   <details><summary>Question background</summary>
+
+.. container:: question
+
+   |icon-info| 
+
+   This question was overhauled in 2024 to be more positive in outlook. Rather than asking respondents to choose from a list of factors that may affect their satisfaction, we asked them to rate their agreement with a series of statements about their salary and benefits, job, workplace, team and organization.
+
+.. raw:: html
+
+   </details>
+
 
 .. WRITE: employee satisfaction results
 
@@ -2786,8 +2799,6 @@ Contract rates and satisfaction
 Preferred term
 --------------
 
-.. CHECK: question text for preferred term
-
 .. raw:: html
    
    <details><summary>What we asked</summary>
@@ -2800,6 +2811,19 @@ Preferred term
    - I consider myself a freelancer
    - I consider myself self-employed
    - I prefer a different term (please specify)
+
+.. raw:: html
+
+   </details>
+   <details><summary>Question background</summary>
+
+.. container:: question
+
+   |icon-info| In the first few surveys, we often struggled with the wording to describe the group of respondents who are not employees - "contractors, freelance operators, and self-employed people" is cumbersome and doesn't really "roll off the tongue". While we often used "contractor" as a catch-all shorthand term, we were aware that this might not be the preferred term for everyone.
+
+   In 2023, we asked respondents who are not employees what term they prefer to describe the kind of work they do. The results from that year indicated that "contractor" was the most widely-used term, so that's what we used as a shorthand term throughout 2023's results and in the survey form for 2024. 
+
+   We'll continue to ask this question in future surveys to ensure that we're using the most appropriate term.  
 
 .. raw:: html
 
@@ -2833,8 +2857,6 @@ Several contractor respondents indicated that they were contractors by necessity
 Type of contract work
 ---------------------
 
-.. CHECK: question text for type of contract work
-
 .. raw:: html
    
    <details><summary>What we asked</summary>
@@ -2845,12 +2867,26 @@ Type of contract work
 
    - I work for multiple clients at the same time
    - I work for one client at a time
-   - I work on short-term projects (spanning days or weeks)
-   - I work on medium-term projects (spanning 1 to 6 months)
+   - I work on short-term projects (days or weeks)
+   - I work on medium-term projects (1 to 6 months)
    - I work on long-term projects (6 to 12 months or longer)
    - I offer a specific product or products
    - I offer a specific service or services
+   - I work as a contractor or freelance to supplement my regular employment income
+   - I work as a contractor or freelance as a stopgap while looking for permanent employment
+   - I work as a contractor or freelance with a view to securing permanent employment with the same organization
    - Other (please specify)
+
+.. raw:: html
+
+   </details>
+   <details><summary>Question background</summary>
+
+.. container:: question
+
+   |icon-info| 
+
+.. WRITE: question background for type of contract work
 
 .. raw:: html
 
@@ -2934,10 +2970,8 @@ Contractor work type - products and services
    | Offering both                                       |    1 |  1.3% |
    +-----------------------------------------------------+------+-------+
 
-Currency and rates
-------------------
-
-.. CHECK: question text for currency and rates
+Contract rates
+--------------
 
 .. raw:: html
    
@@ -2945,12 +2979,15 @@ Currency and rates
 
 .. container:: question
 
-   |icon-question| What is the primary currency that you use?
+   |icon-question| Comparing payment rates for contractors, freelancers and self-employed people is difficult due to the number of different ways that individuals in this group operate.
 
-   What is your hourly rate?
-   What is you day rate?
-   What is your monthly rate?
-   Note: Please don't include any VAT, GST or sales tax. 
+   To simplify this as much as possible while still allowing comparisons, please estimate one or more of the following rate types, even if you normally use a different fee structure.
+
+   Don't include any VAT, GST or sales tax. If you normally charge different rates, enter your most common rate, or an average if you feel that is more representative.
+
+   - My hourly rate is: [currency] [rate]
+   - My day rate is: [currency] [rate]
+   - My monthly rate is: [currency] [rate]
 
 .. raw:: html
 
@@ -2991,7 +3028,9 @@ Contractor respondents were paid in 7 different currencies. To make comparisons 
 Location of contractors
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-.. CHECK: is this section useful?
+.. WRITE: contractor location summary
+
+.. TABLE: contractor location
 
 .. raw:: html
 
@@ -3113,17 +3152,13 @@ The median monthly rate across all regions (34 respondents) was USD $4,168. Ther
 Contractor satisfaction
 -----------------------
 
-.. CHECK: question text for contractor satisfaction
-
-.. WRITE: add question background section for contractor satisfaction
-
 .. raw:: html
    
    <details><summary>What we asked</summary>
 
 .. container:: question
 
-   |icon-question| Considering only your contractor or freelance rates, gauge your level of satisfaction:
+   |icon-question| Considering only your contract or freelance earnings, rate your level of satisfaction:
 
    - Very unsatisfied
    - Unsatisfied
@@ -3131,21 +3166,7 @@ Contractor satisfaction
    - Satisfied
    - Very satisfied
 
-   What reasons do you have for dissatisfaction with your contract or freelance rates, if any? Check all that apply, or check "none of the above". 
-   Note: Due to the many different types of contract and freelance work, some of these may not apply to your situation.
- 
-   - Rate is too low
-   - Discrepancy between rate and cost of living in my area
-   - Unfair or inconsistent rates across similar roles in the organizations I work for
-   - I know or suspect a gender pay gap exists in the organizations I work for
-   - I work too many hours
-   - I don't work enough hours
-   - Responsibilities exceed pay grade
-   - Accounting/management overhead is too high
-   - None of the above
-   - Other (please specify)
-
-   Considering your overall contract or freelance conditions - separate from your rates - gauge your level of satisfaction:
+   Considering your overall job situation - separate from your earnings - rate your level of satisfaction:
 
    - Very unsatisfied
    - Unsatisfied
@@ -3153,55 +3174,50 @@ Contractor satisfaction
    - Satisfied
    - Very satisfied
 
-   What reasons do you have for dissatisfaction with your overall contract or freelance situation, if any? Check all that apply, or check "none of the above".
-   Note: Due to the many different types of contract and freelance work, some of these may not apply to your situation.
+   How strongly do you agree with the following statements about your contract or freelance earnings?
 
-   - My workload is too high
-   - My workload is too low
-   - There is too much stress or pressure
-   - The work is not interesting or challenging enough
-   - Role is undervalued or underfunded
-   - No opportunities for advancement
-   - Difficulty increasing rates
-   - Unsupportive work environment
-   - Insufficient opportunities for professional development
-   - Outdated, inadequate or unsatisfactory toolset
-   - Management not open to change
-   - No opportunity for remote or hybrid work
-   - I don't feel supported as a remote worker
-   - No office location is available to me
-   - I don't feel respected
-   - I am discriminated against on the basis of gender
-   - I am discriminated against on the basis of race or nationality
-   - I am discriminated against on the basis of age
-   - I am discriminated against on the basis of education level
-   - I am discriminated against for some other reason, or a reason I do not wish to share
-   - Too much bureaucratic overhead/too many meetings
-   - Issues with co-workers
-   - Bullying and/or harassment
-   - Organizational politics
-   - Lack of pay transparency
-   - Job instability
-   - None of the above
-   - Other (please specify)
+   - My rates keep pace with inflation / cost-of-living
+   - My rates match the expectations of my clients
+   - I am comfortable managing the overhead (accounting, insurance, etc.) associated with contracting/freelancing
 
-   Considering both your rates and overall conditions, what do you like about your current contract, freelance or self-employment situation? Check all that apply, or check "none of the above":
+   How strongly do you agree with the following statements about your contracts or projects?
 
-   - I like and/or respect my co-workers
-   - I like and/or respect the organization/s I contract for
-   - I'm compensated fairly for the work I do
+   - My hours are reasonable
+   - I have flexibility in my hours
+   - My responsibilities are reasonable
    - My workload is manageable
-   - The expectations upon me are realistic/reasonable
-   - The work is sufficiently interesting and/or challenging
-   - My contributions are valued
-   - I feel respected
-   - I feel I am making a positive impact (in my organization, industry, community, or the wider world)
-   - I have opportunities for career development and advancement
-   - I have opportunities for professional development/learning
-   - I have flexibility in working hours or location
-   - I feel I have work-life balance
-   - None of the above
-   - Other (please specify)
+   - I have opportunities for career advancement
+   - I have opportunities for professional development
+   - My work is sufficiently interesting/challenging
+   - I'm satisfied with the systems and toolsets I use
+
+   How strongly do you agree with the following statements about your workplace(s) (remote, on-site or hybrid environment)?
+
+   - I have flexibility in my work location
+   - Our remote work environment functions well
+   - Our on-site work environment functions well
+   - Our hybrid work environment functions well
+
+   How strongly do you agree with the following statements about the people and organizations that you work with?
+
+   - To my knowledge, salaries are consistent across similar roles
+   - To my knowledge, all genders are paid equally
+   - My role is sufficiently valued/funded
+   - I like and/or respect my managers and team leaders
+   - I like and/or respect my co-workers
+   - I like and/or respect my organization
+   - I'm satisfied with our methodologies, systems and practices
+
+.. raw:: html
+
+   </details>
+   <details><summary>Question background</summary>
+
+.. container:: question
+
+   |icon-info| 
+
+.. WRITE: question background for contractor satisfaction - include "earnings" terminology explanation
 
 .. raw:: html
 
@@ -3396,167 +3412,6 @@ Factors affecting contractor satisfaction
 .. raw:: html
 
    </div></div>
-
-Pay transparency
-================
-
-.. WRITE: pay transparency intro
-
-Organizations with pay transparency are open about salaries and benefits for existing and prospective employees and contractors. Due to feedback from contractors in 2022, pay transparency questions were only shown to employee respondents. 
-
-.. CHECK: is there updated pay transparency legislation information?
-
-.. container:: note
-
-   .. rubric:: |icon-info| Pay transparency legislation
-
-   A number of US states have made some level of pay transparency law - Maryland, Colorado, Connecticut, Nevada, Rhode Island, Washington, California and New York - and a number of others are considering doing so. The exact requirements, level of compliance and enforcement mechanisms vary from state to state, and as most laws have only been enacted recently, it will take some time for the effects to be felt. An overview is available here: `Quick facts about state salary range transparency laws <https://www.americanprogress.org/article/quick-facts-about-state-salary-range-transparency-laws/>`_
-
-   Additionally, The European Parliament approved a new Pay Transparency Directive in March 2023. EU member states have three years to enact legislation based on the directive. Part of the directive involves measuring and eliminating any gender-based pay discrepancies. More information is available here: `Commission welcomes the political agreement on new EU rules for pay transparency <https://ec.europa.eu/commission/presscorner/detail/en/ip_22_7739>`_
-
-
-Official pay transparency policy
---------------------------------
-
-.. CHECK: question text for official pay transparency policy
-
-.. raw:: html
-   
-   <details><summary>What we asked</summary>
-
-.. container:: question
-
-   |icon-question| Is there an official pay transparency policy at your organization?
-
-   - Yes - compensation is disclosed for all roles, levels, and job listings to all employees and candidates
-   - Yes - but disclosure is limited to certain roles, levels, candidacy or employment status, or location
-   - Yes - the policy forbids disclosure on compensation
-   - No - there is no policy on compensation disclosure
-   - I am not sure
-
-.. raw:: html
-
-   </details>
-
-.. WRITE: official pay transparency policy
-
-52.2% of respondents reported that there was no official pay transparency policy at their organization, and 23.9% were unsure. These numbers are almost exactly the same as last year, which was the first time that this question was included. 
-
-9.8% of organizations had a partial policy, and 6.8% had a full open pay transparency (slightly up from 5.3% last year). 7.2% had a policy forbidding any pay disclosure, which is slightly down from 9% last year. 
-
-.. TABLE: official pay transparency policy
-
-.. table:: Pay transparency policy
-   :widths: 70 15 15
-   :name: tbl-2023-pay-transparency-policy
-   :class: std3col sortable
-
-   +----------------------------------+-----+-------+
-   | Official policy                  | |N| | |%|   |
-   +==================================+=====+=======+
-   | No policy                        | 490 | 52.2% |
-   +----------------------------------+-----+-------+
-   | Unsure                           | 224 | 23.9% |
-   +----------------------------------+-----+-------+
-   | Yes - partial transparency       | 92  | 9.8%  |
-   +----------------------------------+-----+-------+
-   | Yes - disclosure is forbidden    | 68  | 7.2%  |
-   +----------------------------------+-----+-------+
-   | Yes - full transparency          | 64  | 6.8%  |
-   +----------------------------------+-----+-------+
-
-Pay transparency culture
-------------------------
-
-.. CHECK: question text for pay transparency culture
-
-.. raw:: html
-   
-   <details><summary>What we asked</summary>
-
-.. container:: question
-
-   |icon-question| Regardless of official policy, is there a culture of sharing salary information at your organization?
-
-   - Yes - all or most of my co-workers openly share salary information
-   - Partial - some of my co-workers share salary information
-   - No - salary information is not openly shared
-   - I'm not sure, or I do not participate
-
-.. raw:: html
-
-   </details>
-
-.. WRITE: pay transparency culture
-
-Showing that salary is still very much a taboo subject, 67.1% of respondents reported that there was no sharing between colleagues at their organization. 18.7% said there was some sharing, and only 1.4% reported that their co-workers were open about salary.
-
-.. TABLE: pay transparency culture
-
-.. table:: Pay transparency culture
-   :widths: 70 15 15
-   :name: tbl-2023-pay-transparency-culture
-   :class: std3col sortable
-
-   +----------------------------+-----+-------+
-   | Pay transparency culture   | |N| | |%|   |
-   +============================+=====+=======+
-   | No sharing                 | 629 | 67.1% |
-   +----------------------------+-----+-------+
-   | Partial sharing            | 175 | 18.7% |
-   +----------------------------+-----+-------+
-   | Unsure / don't participate | 121 | 12.9% |
-   +----------------------------+-----+-------+
-   | Yes                        | 13  | 1.4%  |
-   +----------------------------+-----+-------+
-
-Feelings about pay transparency
--------------------------------
-
-.. CHECK: question text for feelings about pay transparency
-
-.. raw:: html
-   
-   <details><summary>What we asked</summary>
-
-.. container:: question
-
-   |icon-question| Regardless of the situation at your organization, how do you personally feel about pay transparency?
-
-   - Strongly oppose
-   - Oppose
-   - Neutral
-   - support
-   - Strongly support
-
-.. raw:: html
-
-   </details>
-
-.. WRITE: feelings about pay transparency
-
-74.9% of respondents were supportive of pay transparency, with 45.7% expressing strong support. Those in opposition were in the minority (3.6%).   
-
-.. TABLE: feelings about pay transparency
-
-.. table:: Feelings about pay transparency
-   :widths: 70 15 15
-   :name: tbl-2023-feelings-about-pay-transparency
-   :class: std3col sortable
-
-   +---------------------------------+-----+-------+
-   | Feelings                        | |N| | |%|   |
-   +=================================+=====+=======+
-   | Strongly support                | 429 | 45.7% |
-   +---------------------------------+-----+-------+
-   | Support                         | 274 | 29.2% |
-   +---------------------------------+-----+-------+
-   | Neutral                         | 201 | 21.4% |
-   +---------------------------------+-----+-------+
-   | Oppose                          | 29  | 3.1%  |
-   +---------------------------------+-----+-------+
-   | Strongly oppose                 | 5   | 0.5%  |
-   +---------------------------------+-----+-------+
 
 Organization demographics
 =========================
@@ -3794,6 +3649,180 @@ Based on feedback and "other" entries for industry, the final list of industries
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
    | Parks, Recreation, Nature, Wildnerness, Outdoors, Conservation, Ecotourism                                                                                                 |   1 |  0.1% |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
+
+Pay transparency
+----------------
+
+.. raw:: html
+   
+   <details><summary>What we asked</summary>
+
+.. container:: question
+
+   |icon-question| Is there an official pay transparency policy at your organization?
+
+   Organizations with pay transparency are open about salaries and benefits for existing and prospective employees.
+
+   - Yes - compensation is disclosed for all roles, levels, and job listings to all employees and candidates
+   - Yes - but disclosure is limited to certain roles, levels, candidacy or employment status, or location
+   - Yes - the policy forbids disclosure on compensation
+   - No - there is no policy on compensation disclosure
+   - I am not sure
+
+   Is pay transparency required by law in the location where your organization operates? `Check in this Wikipedia article <https://en.wikipedia.org/wiki/Equal_pay_for_equal_work#Transparency_laws>`_.
+
+   - Yes
+   - No
+   - I'm not sure
+
+   Regardless of official policy, is there a culture of sharing salary information at your organization?
+
+   - Yes - all or most of my co-workers openly share salary information
+   - Partial - some of my co-workers share salary information
+   - No - salary information is not openly shared
+   - I'm not sure, or I do not participate
+
+   Regardless of the situation at your organization, how do you personally feel about pay transparency?
+
+   - Strongly support
+   - Support
+   - Neutral
+   - Oppose
+   - Strongly oppose
+
+.. raw:: html
+
+   </details>
+   <details><summary>Question background</summary>
+
+.. container:: question
+
+   |icon-info| 
+
+   Pay transparency was first included in the 2022 survey. Due to feedback from contractors in this first year, pay transparency questions were only shown to employee respondents in 2023. However, as some contractors work long-term contracts for single clients in the manner of regular employees, pay transparency may still be relevant. 
+
+   In 2024, we moved the pay transparency questions to the "organization demographics" section. Contractors were given the option of filling out this section or skipping it, depending on whether they deemed it relevant to their situation or not. The question about the legal requirement for pay transparency in the organization's location was also added. 
+
+.. raw:: html
+
+   </details>
+
+.. container:: note
+
+   .. rubric:: |icon-info| Pay transparency legislation
+
+   A number of US states have made some level of pay transparency law - Maryland, Colorado, Connecticut, Nevada, Rhode Island, Washington, California and New York - and a number of others are considering doing so. The exact requirements, level of compliance and enforcement mechanisms vary from state to state, and as most laws have only been enacted recently, it will take some time for the effects to be felt. An overview is available here: `Quick facts about state salary range transparency laws <https://www.americanprogress.org/article/quick-facts-about-state-salary-range-transparency-laws/>`_
+
+   Additionally, The European Parliament approved a new Pay Transparency Directive in March 2023. EU member states have three years to enact legislation based on the directive, and several - including Sweden, Belgium, Poland, and Ireland - have already taken steps. Part of the directive involves measuring and eliminating any gender-based pay discrepancies. More information is available here: `Commission welcomes the political agreement on new EU rules for pay transparency <https://ec.europa.eu/commission/presscorner/detail/en/ip_22_7739>`_
+
+Pay transparency policy and legal requirements
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. WRITE: official pay transparency policy
+
+47.6% of respondants - the majority - reported that their organization had no pay transparency policy. The next largest group, at 27.9%, were unsure if there was a policy or not. The final 24.5% were fairly evenly split between partial disclosure (9.5%), disclosure forbidden (8.3%), and full disclosure (6.7%).
+
+The proportions of organizations in each category has not changed significantly over the three years we have asked this question.
+
+We asked for the firs time in 2024 if respondents were aware of the legal requirement for pay transparency in their organization's location. 44.6% were unsure, 42.9% reported that there was no legal requirement, and 12.5% said that pay transparency was legally required.
+
+.. raw:: html
+
+   <div class="tab-wrap"><input type="radio" id="tabGa1-1" name="tabGroupGa1" class="tab" checked tabindex="0"><label for="tabGa1-1">Policy</label><input type="radio" id="tabGa1-2" name="tabGroupGa1" class="tab"><label for="tabGa1-2">Legal requirements</label><div class="tab__content">
+
+.. table:: Pay transparency policy
+   :widths: 70 15 15
+   :name: tbl-2024-pay-transparency-policy
+   :class: std3col sortable
+
+   +-----------------------------------+-----+-------+
+   | Policy                            | |N| | |%|   |
+   +===================================+=====+=======+
+   | No policy                         | 367 | 47.6% |
+   +-----------------------------------+-----+-------+
+   | Unsure                            | 215 | 27.9% |
+   +-----------------------------------+-----+-------+
+   | Yes - partial disclosure          | 73  | 9.5%  |
+   +-----------------------------------+-----+-------+
+   | Yes - disclosure is forbidden     | 64  | 8.3%  |
+   +-----------------------------------+-----+-------+
+   | Yes - full disclosure             | 52  | 6.7%  |
+   +-----------------------------------+-----+-------+
+
+.. raw:: html
+
+	</div><div class="tab__content">
+
+.. table:: Pay transparency law
+   :widths: 70 15 15
+   :name: tbl-2024-pay-transparency-law
+   :class: std3col sortable
+
+   +-------------------------------+-----+-------+
+   | Legal requirement in location | |N| | |%|   |
+   +===============================+=====+=======+
+   | Unsure                        | 344 | 44.6% |
+   +-------------------------------+-----+-------+
+   | No, not legally required      | 331 | 42.9% |
+   +-------------------------------+-----+-------+
+   | Yes, legally required         | 96  | 12.5% |
+   +-------------------------------+-----+-------+
+
+.. raw:: html
+
+   </div></div>
+
+.. CHART: Pay transparency policy / law
+
+Pay transparency culture
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+The majority of respondents reported that there was not a culture of sharing salary information at their organization. 66.3% said that salary information was not openly shared, and 19.3% said that only some co-workers shared salary information. Only 1.6% reported that all or most of their co-workers openly shared salary information.
+
+.. table:: Pay transparency culture
+   :widths: 70 15 15
+   :name: tbl-2024-pay-transparency-culture
+   :class: std3col sortable
+
+   +--------------------------------------------+-----+-------+
+   | Pay transparency practice                  | |N| | |%|   |
+   +============================================+=====+=======+
+   | No, information is not openly shared       | 511 | 66.3% |
+   +--------------------------------------------+-----+-------+
+   | Partial - some co-workers openly share     | 149 | 19.3% |
+   +--------------------------------------------+-----+-------+
+   | Unsure                                     | 99  | 12.8% |
+   +--------------------------------------------+-----+-------+
+   | Yes, co-workers openly share               | 12  | 1.6%  |
+   +--------------------------------------------+-----+-------+
+
+.. CHART: Pay transparency culture
+
+Attitudes towards pay transparency
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+76% of respondents were supportive of pay transparency, with 46.8% expressing strong support. Those in opposition were in the minority (4.5%).   
+
+.. table:: Attitudes towards pay transparency
+   :widths: 70 15 15
+   :name: tbl-2024-attitudes-pay-transparency
+   :class: std3col sortable
+
+   +----------------------------+-----+-------+
+   | Pay transparency attitude  | |N| | |%|   |
+   +============================+=====+=======+
+   | Strongly support           | 361 | 46.8% |
+   +----------------------------+-----+-------+
+   | Support                    | 225 | 29.2% |
+   +----------------------------+-----+-------+
+   | Neutral                    | 150 | 19.5% |
+   +----------------------------+-----+-------+
+   | Oppose                     | 27  | 3.5%  |
+   +----------------------------+-----+-------+
+   | Strongly oppose            | 8   | 1.0%  |
+   +----------------------------+-----+-------+
+
+.. CHART: Pay transparency attitudes
 
 Organization origin and location
 --------------------------------
