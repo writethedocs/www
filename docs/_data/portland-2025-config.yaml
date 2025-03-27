@@ -26,15 +26,15 @@ buttons:
   top:
     # - text: Date and ticket information
     #   link: /news/welcome
-    - text: Sponsor us
-      link: /sponsors/prospectus
+    # - text: Sponsor us
+    #   link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
-    # - text: See the Schedule!
-    #   link: /schedule
-    - text: Buy a Ticket!
+    - text: See the Schedule!
+      link: /schedule
+    - text: Buy a Ticket
       link: /tickets
-    #- text: See the talks!
+    #- text: See the Speakers
     #  link: /speakers
     # - text: Attendee Guide
     #   link: /attendee-guide
@@ -47,18 +47,18 @@ buttons:
   bottom:
     # - text: Welcome to our conference
     #   link: /news/welcome
-    - text: Sponsor us
-      link: /sponsors/prospectus
+    # - text: Sponsor us
+    #   link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
     # - text: Buy a Ticket!
     #   link: /tickets
     # - text: See the Schedule
     #   link: /schedule
-    - text: See the talks!
+    - text: See the Talks
       link: /speakers
-    # - text: Read our guide
-    #   link: /attendee-guide
+    - text: Read the Guide
+      link: /attendee-guide
     # - text: Watch the Live Stream
     #   link: /livestream
     # - text: Conference recap
@@ -77,6 +77,20 @@ tickets:
     price: $350
   student:
     price: $100
+  virtual:
+    price: $75
+  button: >
+    .. raw:: html
+
+      <p style="margin: 2em 0;">
+      <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
+      <tr>
+          <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
+            <a href="https://ti.to/writethedocs/write-the-docs-portland-2025/" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Get your ticket</a>
+          </td>
+      </tr>
+      </table>
+      </p>
 
 sponsorship:
   second_draft:
@@ -138,7 +152,7 @@ date: # how do we handle these? human readable would be nice.
   day_four:
     event: Conference Day 2
     date: May 6
-    summary: And the conference goes on! More talks and unconference today, along with our Sponsor Expo!
+    summary: And the conference goes on! More talks and unconference today!
     dotw: Tuesday
     talk_time: 9am-4pm
     job_fair_time: 9am-12pm
@@ -148,7 +162,7 @@ date: # how do we handle these? human readable would be nice.
 
 about:
   attendees: 400
-  social_venue:  TBD
+  social_venue:  Jupiter NEXT, 900 E Burnside St (2nd floor)
   venue: Revolution Hall
   photos: TBD
   mainroom: Main stage
@@ -159,7 +173,7 @@ about:
 cfp:
   url: "https://pretalx.com/wtd-portland-2025/cfp" # Open October 6 (Mon) -> 9 weeks to submit
   ends: "January 21, 2025"                         # (Mon) 1 week, to review. It'll take a little longer to announce
-  notification: "February 4, 2025"                # (Mon) 8 weeks to write and prepare
+  notification: "February 4, 2025"                 # (Mon) 8 weeks to write and prepare
   slides_by: "April 28, 2025"                      # (Mon) 1 week before
   preview: "TODO"                                  # Preview URL TODO
 
@@ -168,7 +182,7 @@ unconf:
   date: "All day, Monday, May 5 and Tuesday, May 6"
 
 writing_day:
-  url: ""
+  url: "https://docs.google.com/forms/u/1/d/e/1FAIpQLSeHMZ1uXTfnT0HMm-KfsgxYV1w3tmS7bMPtBx4H9cktJpSrdg/viewform?usp=dialog"
   date: Sunday, May 4, 9 AM - 5 PM
 
 hike:
@@ -179,64 +193,44 @@ sponsors:
     - name: mintlify
       link: https://mintlify.com/?utm_source=writethedocs&utm_medium=referral
       brand: Mintlify
-      text: Meet the modern standard for public-facing documentation. Beautiful out of the box, easy to maintain, and built to convert users.
+      text: |
+        <p>
+        Mintlify helps you create beautiful documentation that converts users.
+        </p>
+
+        <p>
+        Whether you're documenting APIs, product guides, or internal wikis, we ensure your content looks modern and is easy-to-use, with no lift on engineering. Mintlify also simplifies your entire editing workflow, from AI-driven writing assistance to Git syncing for better collaboration.
+        </p>
+
+        <p>
+        Over 6,000 leaders, such as Anthropic, X, Fidelity, & Zapier, choose Mintlify to uplevel their documentation.
+        </p>
   patron:
-    # - name: gitbook
-    #   link: https://www.gitbook.com/?ref=writethedocs
-    #   brand: GitBook
-    #   text: "GitBook combines powerful docs with AI-powered search and insights to give technical teams a single source of truth for their knowledge.
-    #          Effortlessly create, surface and improve public and internal documentation that your users and teams will love. "
     - name: readme
       link: https://readme.com/?ref=writethedocs
       brand: ReadMe
+      text: <p>ReadMe transforms static API docs into interactive developer hubs. Help developers make their first call faster, quickly troubleshoot issues along the way, and get insights into API usage to focus your team on the highest-impact improvements.</p>
     - name: developerhub-io
       link: https://developerhub.io/?ref=writethedocs
       brand: DeveloperHub
+      text: <p>At DeveloperHub, we help enterprises like OPSWAT and Platform9 create world-leading product and API docs without writing a line of code - improving user experience and reducing support costs. If you need a powerful yet easy-to-use documentation tool, we’re built for you.</p>
     - name: mongodb-new
       link: https://www.mongodb.com/?ref=writethedocs
       brand: MongoDB
   publisher:
-    # - name: bloomberg-engineering
-    #   link: https://www.bloomberg.com/company/careers/working-here/engineering/
-    #   brand: Bloomberg Engineering
-    # - name: paligo
-    #   link: https://paligo.net/
-    #   brand: Paligo
-    #   width: 200px
-    # - name: stackblitz-svg
-    #   link: https://stackblitz.com/
-    #   brand: StackBlitz
-    # - name: cncf
-    #   link: https://www.cncf.io/
-    #   brand: Cloud Native Computing Foundation
-    # - name: twilio
-    #   link: https://www.twilio.com/
-    #   brand: Twilio
-    # - name: slack
-    #   link: https://slack.com/
-    #   brand: Slack
     - name: expert-support
       link: https://expertsupport.com/?ref=writethedocs
       brand: Expert Support
   second:
-    # - name: nginx
-    #   link: https://www.nginx.com/?ref=writethedocs
-    #   brand: NGINX
     - name: redocly-new
       link: https://redoc.ly/?ref=writethedocs
       brand: Redocly
-    # - name: jetbrains-svg
-    #   link: https://jebrains.com/writethedocs
-    #   brand: JetBrains
-    #   text: "JetBrains is a software development company known for best-of-class integrated development environments (IDEs) like IntelliJ IDEA, PyCharm, and WebStorm. With Writerside, JetBrains brings its expertise to technical writing."
-      # width: 7em
     - name: hyperlint
       link: https://hyperlint.com/?ref=writethedocs
       brand: Hyperlint
-    # - name: google
-    #   link: https://opensource.google/?ref=writethedocs
-    #   brand: Google Open Source
-    #   text: "Google believes that open source is good for everyone. By being open and freely available, it enables and encourages collaboration and the development of technology."
+    - name: not-boring-tech-writer
+      link: https://thenotboringtechwriter.com/?ref=writethedocs
+      brand: The Not-Boring Tech Writer, from KnowledgeOwl
     - name: readthedocs
       link: https://about.readthedocs.com/?ref=writethedocs
       brand: Read the Docs
@@ -244,28 +238,11 @@ sponsors:
     - name: helpdocs
       link: https://www.helpdocs.io/?utm_source=writethedocs&utm_medium=sponsor&utm_campaign=wtdp25
       brand: HelpDocs
-    # - name: raspberrypi
-    #   link: https://www.raspberrypi.com/
-    #   brand: Raspberry Pi
-    # - name: readthedocs
-    # - name: livelike
-    #   link: https://livelike.com/
-    #   brand: LiveLike
-    # - name: openwebdocs-logo
-    #   link: https://opencollective.com/open-web-docs
-    #   brand: Open Web Docs
-    #   width: 150px
-    # - name: juniper
-    #   link: https://www.juniper.net/
-    #   brand: Juniper
-    # - name: starburst
-    #   link: https://www.starburst.io/
-    #   brand: Starburst
+    - name: clickhelp
+      link: https://clickhelp.com/?utm_source=conference&utm_medium=wtd&utm_campaign=portland_2025
+      brand: ClickHelp
   first:
   in_kind:
-    # - name: rtd
-    #   link: https://readthedocs.com/
-    #   brand: Read the Docs
 
 # Things that change over time, listed in order of change
 flaglanding: False
@@ -274,8 +251,8 @@ flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
-flagrunofshow: False
-flaghasschedule: False
+flagrunofshow: True
+flaghasschedule: True
 flagscheduleincomplete: True
 flaghasshirts: True
 flaglivestreaming: False
