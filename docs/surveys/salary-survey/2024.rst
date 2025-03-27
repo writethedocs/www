@@ -58,11 +58,11 @@ Documentation Salary Survey 2024 Results
 Introduction
 ============
 
-.. TODO: write intro
+.. WRITE: write intro
 
 In a hurry? Jump straight to `Median salary`_ or `Median hourly rate`_.
 
-.. TODO: reorganization idea: put median salaries first, and then provide the background information that went into the median figures.
+.. IDEA: reorganization idea: put median salaries first, and then provide the background information that went into the median figures.
 
 .. container:: note
 
@@ -208,7 +208,7 @@ For the first time this year, no respondents reported working more than 60 hours
    | 1-20         | 16  | 2.1%  |
    +--------------+-----+-------+
 
-.. TODO: contractor hours vs employee hours?
+.. IDEA: split contractor hours vs employee hours?
 
 Job title
 ---------
@@ -311,7 +311,7 @@ As in previous years, the most widely used exact title was "Technical Writer", r
 .. figure:: images/2024/2024-job-title-word-cloud.svg
    :class: hide
 
-.. TODO: contractor job titles vs employee job titles?
+.. IDEA: split contractor job titles vs employee job titles?
 
 Role category
 -------------
@@ -431,9 +431,9 @@ Technical writer was by far the most widely-selected primary role category, chos
 Additional role categories
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. TODO: writeup additional role categories
+.. WRITE: additional role categories
 
-.. TODO: additional role categories table
+.. TABLE: additional role categories table
 
 
 .. table:: Additional role categories
@@ -492,9 +492,9 @@ Team configuration
    </details>
 
 
-.. TODO: writeup 2024 team breakdown
+.. WRITE: writeup 2024 team breakdown
 
-.. TODO: update team breakdown table
+.. TABLE: update team breakdown table
 
 .. table:: Team configuration
    :widths: 70 15 15
@@ -532,9 +532,9 @@ Team configuration
 Length of time in current role
 ------------------------------
 
-.. TODO: writeup 2024 "time in current role"
+.. WRITE: writeup 2024 "time in current role"
 
-.. TODO: update "time in current role" table
+.. TABLE: time in current role
 
 .. raw:: html
    
@@ -593,7 +593,7 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
    | 10+ years               | 84  | 8.3%  |
    +-------------------------+-----+-------+
 
-.. TODO: chart for "time in current role"
+.. CHART: chart for "time in current role"
 
 .. raw:: html
 
@@ -634,11 +634,11 @@ Proportion of role related to documentation
 
    </details>
 
-.. TODO: write up "proportion of role"
+.. WRITE: write up "proportion of role"
 
-.. TODO: update tables for "proportion of role"
+.. TABLE: update tables for "proportion of role"
 
-.. TODO: charts for "proportion of role"
+.. CHART: charts for "proportion of role"
 
 The majority of respondents (73.5% in 2023, almost exactly the same proportion as in 2022) reported that documentation makes up both their whole official job description, and most or all of their day-to-day tasks (87.2% reporting more than 51% of their daily workload). The portion of respondents performing documentation-related tasks even though it's not part of their job description remained steady. 
 
@@ -1234,7 +1234,7 @@ Around half of all employees (51.4%) and half of all contractors (50% exactly) r
 
 	</div></div>
 
-.. TODO: chart for job security
+.. CHART: job security
 
 Job search confidence
 ---------------------
@@ -1329,7 +1329,7 @@ Amongst contractors - a smaller number of respondents overall - the trend was to
 
 	</div></div>
 
-.. TODO: chart for job search confidence
+.. CHART: job search confidence
 
 Workplace
 =========
@@ -1345,7 +1345,7 @@ The questions in this section relate to respondents' workplace: whether they wor
 Work location
 -------------
 
-.. TODO: check "work location" question wording and update if necessary
+.. CHECK: "work location" question wording
 
 .. raw:: html
    
@@ -1373,11 +1373,11 @@ Work location
 
    </details>
 
-.. TODO: writeup findings for work location
+.. WRITE: writeup findings for work location
 
 The majority of respondents reported working remotely, with the number doing so by choice (36.2%) higher than the number required to do so by their employer (29%). 
 
-.. TODO: update tables for work location
+.. TABLE: work location
 
 .. table:: Work location
    :widths: 70 15 15
@@ -1398,7 +1398,7 @@ The majority of respondents reported working remotely, with the number doing so 
    | On-site (required)     | 32  | 3.1%  |
    +------------------------+-----+-------+
 
-.. TODO: chart for work location
+.. CHART: work location
 
 .. raw:: html
 
@@ -1412,11 +1412,11 @@ The majority of respondents reported working remotely, with the number doing so 
 .. figure:: images/2024/2024-work-location.svg
    :class: hide
 
-.. TODO: writeup findings for feelings about work location
+.. WRITE: writeup findings for feelings about work location
 
 The majority of respondents (80.8%) reported feeling "positive" about their work location, with 51.8% feeling "very positive". 
 
-.. TODO: update tables for feelings about work location
+.. TABLE: feelings about work location
 
 .. table:: Feelings about work location
    :widths: 70 15 15
@@ -1437,7 +1437,7 @@ The majority of respondents (80.8%) reported feeling "positive" about their work
    | Very negative                | 10  | 1.0%  |
    +------------------------------+-----+-------+
 
-.. TODO: chart for feelings about work location
+.. CHART: feelings about work location
 
 .. raw:: html
 
@@ -1454,7 +1454,7 @@ The majority of respondents (80.8%) reported feeling "positive" about their work
 "Return to office" (RTO) mandates
 ---------------------------------
 
-.. TODO: check "return to office" question wording and update if necessary
+.. CHECK: "return to office" question wording
 
 .. raw:: html
    
@@ -1486,7 +1486,7 @@ The majority of respondents (80.8%) reported feeling "positive" about their work
 
    </details>
 
-.. TODO: writeup findings for "return to office" mandates
+.. WRITE: "return to office" mandates
 
 55.1% of respondents reported that they have not been affected by "return to office" (RTO) policies. 42.8% have been affected, with only 2.2% unsure. 
 
@@ -1495,7 +1495,7 @@ Of those that were not affected, 26.2% - the largest segment overall - reported 
 For those that have been affected, most reported that a hybrid model was being mandated (24.2% overall).  
 
 
-.. TODO: update tables for "return to office" mandates
+.. TABLE: "return to office" mandates
 
 .. raw:: html
 
@@ -1543,7 +1543,7 @@ For those that have been affected, most reported that a hybrid model was being m
 
    </div></div>
 
-.. TODO: writeup findings for feelings about "return to office" mandates
+.. WRITE: feelings about "return to office" mandates
 
 Those who reported being affected by an RTO policy were asked about their feelings on the situation. 
 
@@ -1556,7 +1556,7 @@ Those affected by a full time RTO mandate felt predominantly negative, with only
 Preferred work location
 -----------------------
 
-.. TODO: check "preferred work location" question wording and update if necessary 
+.. CHECK: "preferred work location" question wording 
 
 .. raw:: html
    
@@ -1575,11 +1575,11 @@ Preferred work location
 
    </details>
 
-.. TODO: writeup findings for preferred work location
+.. WRITE: preferred work location
 
 Regardless of their current situation, 58% of all respondents said that their preferred work location is remote. Another 38.2% favored a hybrid model (some days in the office, some days working from home or another location). Only 2.6% said they preferred working on-site at their employer's office, and 1.3% stated no preference. 
 
-.. TODO: update tables for preferred work location
+.. TABLE: preferred work location
 
 .. table:: Preferred work location
    :widths: 70 15 15
@@ -1598,12 +1598,12 @@ Regardless of their current situation, 58% of all respondents said that their pr
    | No preference           | 13  | 1.3%  |
    +-------------------------+-----+-------+
 
-.. TODO: chart for preferred work location
+.. CHART: preferred work location
 
 Employee salary, benefits and satisfaction
 ==========================================
 
-.. TODO: update "employee salary, benefits and satisfaction" intro
+.. WRITE: "employee salary, benefits and satisfaction" intro
 
 To protect the privacy of our community, we do not publish median salary figures for any region or category with less than 10 respondents. In previous years, this has meant that median salaries could only be given for a few regions and countries, and a handful of US states.     
 
@@ -1614,9 +1614,9 @@ In regions or categories meet the minimum threshold of 30 respondents, we're als
 Currency
 --------
 
-.. TODO: add one "what we asked" section which includes all salary parts
+.. WRITE: add one "what we asked" section which includes all salary parts
 
-.. TODO: writeup findings for currency
+.. WRITE: currency
 
 .. raw:: html
    
@@ -1632,7 +1632,7 @@ Currency
 
 Employee respondents reported being paid in 26 different currencies. To make comparisons possible, all currencies were converted to USD using mid-market exchange rates, averaged for the whole of 2023.
 
-.. TODO: update tables for currency
+.. TABLE: currency
 
 .. table:: Currencies and exchange rates - employees
    :widths: 55 10 10 10 15
@@ -1729,9 +1729,9 @@ Median salary
 
 As in previous years, salaries for those working part-time hours (less than 30 per week) have been omitted from the figures in this section. The median salaries are based on 922 full-time employee respondents.  
 
-.. TODO: create view excluding non-full-time employees
+.. IDEA: create view excluding non-full-time employees
 
-.. TODO: update definition of percentile values section
+.. WRITE: update definition of percentile values section
 
 .. container:: note
 
@@ -1750,7 +1750,7 @@ Median salary by respondent region
 
 Given the range of socio-economic differences in the countries in the survey results, median salary figures broken down by country of residence of employee is more useful than overall median salary.
 
-.. TODO: update privacy section with excluded countries
+.. WRITE: update privacy section with excluded countries
 
 .. container:: note
 
@@ -1766,7 +1766,7 @@ Given the range of socio-economic differences in the countries in the survey res
    - Africa: South Africa, Kenya, Nigeria 
    - South America: Brazil, Argentina 
 
-.. TODO: update table for median salary by respondent region 
+.. TABLE: update table for median salary by respondent region 
 
 .. table:: Salary (USD) by respondent region
    :name: tbl-2023-salary-by-respondent-region
@@ -1823,7 +1823,7 @@ Given the range of socio-economic differences in the countries in the survey res
 Median salary by respondent region - further breakdowns
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. TODO: update tables for median salary by respondent region - further breakdowns 
+.. TABLE: median salary by respondent region - further breakdowns 
 
 Respondent numbers allow some additional breakdowns by US state, Candian province and Australian state, as well as a handful of North American cities. 
 
@@ -1930,13 +1930,13 @@ Respondent numbers allow some additional breakdowns by US state, Candian provinc
 Median salary by gender identity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. TODO: writeup median salary by gender identity  
+.. WRITE: median salary by gender identity  
 
 Due to numbers, we are only able to break down salary by gender identity for women (59.9% of all respondents) and men (34.7% of all respondents). In almost every region, men earned more than women, by as much as 76% in Asia - although with such a small sample size that is unlikely to be truly representative. 
 
 The only region where the median for women was higher was North America overall - but even here, the 75th percentile salary was higher for men, and when looking at the two largest countries in that region (the United States and Canada) men were paid more overall. 
 
-.. TODO: update tables for median salary by gender identity
+.. TABLE: median salary by gender identity
 
 .. raw:: html
 
@@ -2057,7 +2057,7 @@ The only region where the median for women was higher was North America overall 
 Median salary by years of experience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. TODO: update tables for median salary by years of experience
+.. TABLE: median salary by years of experience
 
 .. raw:: html
 
@@ -2141,7 +2141,7 @@ Median salary by years of experience
 
    </div></div>
 
-.. TODO: update tables for median salary by years of experience
+.. TABLE: median salary by years of experience
 
 .. raw:: html
 
@@ -2218,7 +2218,7 @@ Median salary by years of experience
 Median salary by organization size (employees)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. TODO: update tables for median salary by organization size
+.. TABLE: update tables for median salary by organization size
 
 .. raw:: html
 
@@ -2353,9 +2353,9 @@ Median salary by organization size (employees)
 Employee benefits
 -----------------
 
-.. TODO: update question for employee benefits
+.. CHECK: question text for employee benefits
 
-.. TODO: add question background section for employee benefits
+.. WRITE: add question background section for employee benefits
 
 .. raw:: html
    
@@ -2387,7 +2387,7 @@ Employee benefits
 
    </details>
 
-.. TODO: update tables for employee benefits
+.. TABLE: employee benefits
 
 .. table:: Employee benefits
    :widths: 70 15 15
@@ -2441,9 +2441,9 @@ Employee benefits
 Employee satisfaction
 ---------------------
 
-.. TODO: update question text for employee satisfaction
+.. CHECK: question text for employee satisfaction
 
-.. TODO: add question background section for employee satisfaction
+.. WRITE: add question background section for employee satisfaction
 
 .. raw:: html
    
@@ -2533,11 +2533,11 @@ Employee satisfaction
 
    </details>
 
-.. TODO: write up employee satisfaction results
+.. WRITE: employee satisfaction results
 
 Looking at all regions, 68.7% of all employee respondents were satisfied with their salary and benefits package - 25.6% rated themselves "very satisfied". 
 
-.. TODO: update tables for employee satisfaction
+.. TABLE: employee satisfaction
 
 .. raw:: html
 
@@ -2592,7 +2592,7 @@ Looking at all regions, 68.7% of all employee respondents were satisfied with th
 Factors affecting salary satisfaction
 -------------------------------------
 
-.. TODO: work out how to compare 2024 satisfaction data to previous years
+.. IDEA: work out how to compare 2024 satisfaction data to previous years
 
 35.1% of employee respondents - the largest group - said that they had no reasons for dissatisfaction with their salary and benefits. The next most-selected option was "salary is too low", with 30.5%.
 
@@ -2637,7 +2637,7 @@ As a result of 5 submissions in the "other" category, a new factor was added to 
 
    </div>
 
-.. TODO: chart for employee salary satisfaction factors
+.. CHART: chart for employee salary satisfaction factors
 
 .. raw:: html
 
@@ -2773,7 +2773,7 @@ Of those respondents who selected "other" and provided more detail, factors incl
 Contract rates and satisfaction
 ===============================
 
-.. TODO: determine if we have publishable data for median contract rates and update note text
+.. WRITE: determine if we have publishable data for median contract rates and update note text
 
 .. container:: note
 
@@ -2786,7 +2786,7 @@ Contract rates and satisfaction
 Preferred term
 --------------
 
-.. TODO: update question text for preferred term
+.. CHECK: question text for preferred term
 
 .. raw:: html
    
@@ -2805,13 +2805,13 @@ Preferred term
 
    </details>
 
-.. TODO: write up preferred term results
+.. WRITE: preferred term results
 
 For the first time this year, we asked those respondents who are not employees what term they use to describe the kind of work they do. 53.2% term themselves "contractors", while 27.8% prefer "self-employed" and 16.5% use "freelancer". Of those who chose "other", the two terms added were "agency" and "consultant".
 
 Several contractor respondents indicated that they were contractors by necessity rather than choice, taking contracts either because they were unable to find a suitable employment offer, or anticipating an employment offer after a period of contracting. 
 
-.. TODO: update tables for preferred term
+.. TABLE: preferred term
 
 .. table:: Preferred term - contractors
    :widths: 70 15 15
@@ -2833,7 +2833,7 @@ Several contractor respondents indicated that they were contractors by necessity
 Type of contract work
 ---------------------
 
-.. TODO: check question text for type of contract work
+.. CHECK: question text for type of contract work
 
 .. raw:: html
    
@@ -2859,13 +2859,11 @@ Type of contract work
 Contractor work type - clients
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. TODO: writeup for contractor work type - clients
+.. WRITE: writeup for contractor work type - clients
 
 48% of contractor clients indicated that they worked exclusively for a single client at a time. Another 34% indicated that they worked exclusively for multiple clients at a time. 13% worked at times for either a single client or multiple clients, and 5% did not indicate whether they worked for a single client or multiple. 
 
-.. TODO: update table for contractor work type
-
-.. TODO: check: would this be better in tabbed tables?
+.. TABLE: contractor work type (use tabbed tables on this section?)
 
 .. table:: Contractor work type - clients
    :widths: 70 15 15
@@ -2887,7 +2885,7 @@ Contractor work type - clients
 Contractor work type - duration
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. TODO: update table for contractor work type - duration
+.. TABLE: contractor work type - duration
 
 .. table:: Contractor work type - duration
    :widths: 70 15 15
@@ -2917,7 +2915,7 @@ Contractor work type - duration
 Contractor work type - products and services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. TODO: update tables for contractor work type - products and services
+.. TABLE: contractor work type - products and services
 
 .. table:: Contractor work type - products and services
    :widths: 70 15 15
@@ -2939,7 +2937,7 @@ Contractor work type - products and services
 Currency and rates
 ------------------
 
-.. TODO: update question text for currency and rates
+.. CHECK: question text for currency and rates
 
 .. raw:: html
    
@@ -2961,11 +2959,11 @@ Currency and rates
 Currencies
 ~~~~~~~~~~
 
-.. TODO: write up currency summary
+.. WRITE: currency summary
 
 Contractor respondents were paid in 7 different currencies. To make comparisons possible, all currencies were converted to USD using mid-market exchange rates, averaged for the whole of 2023.
 
-.. TODO: update table for currencies
+.. TABLE: currencies
 
 .. table:: Currencies and exchange rates - contractors
    :widths: 70 15 15 
@@ -2993,7 +2991,7 @@ Contractor respondents were paid in 7 different currencies. To make comparisons 
 Location of contractors
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-.. TODO: is this section useful?
+.. CHECK: is this section useful?
 
 .. raw:: html
 
@@ -3085,7 +3083,7 @@ Location of contractors
 Fee structures
 ~~~~~~~~~~~~~~
 
-TODO: write up fee structures
+WRITE: fee structures
 
 Comparing payment rates for contractors is difficult due to the number of different ways that individuals in this group operate. To simplify this as much as possible while still allowing comparisons, contractors were asked to estimate their hourly rate, day rate or monthly rate - or one of each type of rate, if appropriate - even if they normally used a different fee structure. Contractors charging multiple rates or in multiple currencies were asked to enter their most common rate, or an average if they felt that was more representative.  
 
@@ -3115,9 +3113,9 @@ The median monthly rate across all regions (34 respondents) was USD $4,168. Ther
 Contractor satisfaction
 -----------------------
 
-.. TODO: update question text for contractor satisfaction
+.. CHECK: question text for contractor satisfaction
 
-.. TODO: add question background section for contractor satisfaction
+.. WRITE: add question background section for contractor satisfaction
 
 .. raw:: html
    
@@ -3209,7 +3207,7 @@ Contractor satisfaction
 
    </details>
 
-.. TODO: update tables for contractor satisfaction 
+.. TABLE: contractor satisfaction 
 
 .. raw:: html
 
@@ -3262,7 +3260,7 @@ Contractor satisfaction
 Factors affecting contractor satisfaction
 -----------------------------------------
 
-.. TODO: work out how to present satisfaction factors for contractors and compare with previous format
+.. IDEA: work out how to present satisfaction factors for contractors and compare with previous format
 
 .. raw:: html
 
@@ -3402,11 +3400,11 @@ Factors affecting contractor satisfaction
 Pay transparency
 ================
 
-.. TODO: update pay transparency intro
+.. WRITE: pay transparency intro
 
 Organizations with pay transparency are open about salaries and benefits for existing and prospective employees and contractors. Due to feedback from contractors in 2022, pay transparency questions were only shown to employee respondents. 
 
-.. TODO: is there updated pay transparency legislation information?
+.. CHECK: is there updated pay transparency legislation information?
 
 .. container:: note
 
@@ -3420,7 +3418,7 @@ Organizations with pay transparency are open about salaries and benefits for exi
 Official pay transparency policy
 --------------------------------
 
-.. TODO: check question text for official pay transparency policy
+.. CHECK: question text for official pay transparency policy
 
 .. raw:: html
    
@@ -3440,13 +3438,13 @@ Official pay transparency policy
 
    </details>
 
-.. TODO: writeup for official pay transparency policy
+.. WRITE: official pay transparency policy
 
 52.2% of respondents reported that there was no official pay transparency policy at their organization, and 23.9% were unsure. These numbers are almost exactly the same as last year, which was the first time that this question was included. 
 
 9.8% of organizations had a partial policy, and 6.8% had a full open pay transparency (slightly up from 5.3% last year). 7.2% had a policy forbidding any pay disclosure, which is slightly down from 9% last year. 
 
-.. TODO: update table for official pay transparency policy
+.. TABLE: official pay transparency policy
 
 .. table:: Pay transparency policy
    :widths: 70 15 15
@@ -3470,7 +3468,7 @@ Official pay transparency policy
 Pay transparency culture
 ------------------------
 
-.. TODO: check question text for pay transparency culture
+.. CHECK: question text for pay transparency culture
 
 .. raw:: html
    
@@ -3489,11 +3487,11 @@ Pay transparency culture
 
    </details>
 
-.. TODO: writeup for pay transparency culture
+.. WRITE: pay transparency culture
 
 Showing that salary is still very much a taboo subject, 67.1% of respondents reported that there was no sharing between colleagues at their organization. 18.7% said there was some sharing, and only 1.4% reported that their co-workers were open about salary.
 
-.. TODO: update table for pay transparency culture
+.. TABLE: pay transparency culture
 
 .. table:: Pay transparency culture
    :widths: 70 15 15
@@ -3515,7 +3513,7 @@ Showing that salary is still very much a taboo subject, 67.1% of respondents rep
 Feelings about pay transparency
 -------------------------------
 
-.. TODO: check question text for feelings about pay transparency
+.. CHECK: question text for feelings about pay transparency
 
 .. raw:: html
    
@@ -3535,11 +3533,11 @@ Feelings about pay transparency
 
    </details>
 
-.. TODO: writeup for feelings about pay transparency
+.. WRITE: feelings about pay transparency
 
 74.9% of respondents were supportive of pay transparency, with 45.7% expressing strong support. Those in opposition were in the minority (3.6%).   
 
-.. TODO: update table for feelings about pay transparency
+.. TABLE: feelings about pay transparency
 
 .. table:: Feelings about pay transparency
    :widths: 70 15 15
@@ -3563,7 +3561,7 @@ Feelings about pay transparency
 Organization demographics
 =========================
 
-.. TODO: update organization demographics intro to include contractor changes in 2024
+.. WRITE: update organization demographics intro to include contractor changes in 2024
 
 This section concerns employing organizations. Contractors were asked to either answer about the main organization they work for, or a typical/respresentative organization, whichever felt most appropriate to them.
 
@@ -3590,11 +3588,11 @@ Organization size
 
    </details>
 
-.. TODO: writeup for organization size
+.. WRITE: organization size
 
 As in previous years, medium-sized organizations make up the largest proportion of the results. When separating the employee respondents from the contractor respondents, a different pattern emerges - contractors are generally spread much more evenly between small, medium and large organizations.  
 
-.. TODO: update tables for organization size (is contractor information still relevant? what if we only look at contractors working for a single organization?)
+.. TABLE: organization size (is contractor information still relevant? what if we only look at contractors working for a single organization?)
 
 .. raw:: html
 
@@ -3710,7 +3708,7 @@ Organization type and industry
 
    </details>
 
-.. TODO: writeup for organization type and industry
+.. WRITE: organization type and industry
 
 Respondents who selected software development or software development tools were asked to also select the industries that the software product or service created by the organization primarily caters to, if possible. For example, e-learning software would also be categorized as "Education, Training" and point of sale software for restaurants would also be "Food, Beverages". 
 
@@ -3720,7 +3718,7 @@ Based on feedback and "other" entries for industry, the final list of industries
 
 69.3% of respondents chose a single industry from the list, and 20% selected two, and 6% selected three different industries. 
 
-.. TODO: update tables for organization type and industry
+.. TABLE: organization type and industry
 
 .. table:: Organization industry
    :widths: 70 15 15
@@ -3797,12 +3795,10 @@ Based on feedback and "other" entries for industry, the final list of industries
    | Parks, Recreation, Nature, Wildnerness, Outdoors, Conservation, Ecotourism                                                                                                 |   1 |  0.1% |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
 
-
 Organization origin and location
 --------------------------------
 
-.. TODO: update question text for organization origin and location
-
+.. CHECK: question text for organization origin and location
 
 .. raw:: html
    
@@ -3826,13 +3822,13 @@ Organization origin and location
 
    </details>
 
-.. TODO: writeup for organization origin and location
+.. WRITE: organization origin and location
 
 79.8% of respondents reported that their employer organization was a multinational organization - one with office locations and business operations in two or more countries. These respondents were asked to specify the location where the organization originated.
 
 A total of 63.3% of organizations originated in North America, with the bulk of those being US-based. 
 
-.. TODO: update tables for organization location
+.. TABLE: organization location
 
 .. raw:: html
 
@@ -4040,7 +4036,7 @@ The age group split in 2024 was similar to previous years, with the majority of 
    | not-specified    | 5   | 0.6%  |
    +------------------+-----+-------+
 
-.. TODO: chart for age group
+.. CHART: age group
 
 .. raw:: html
 
@@ -4094,7 +4090,7 @@ As in previous surveys, the majority of respondents in 2024 were women - 57% - w
    | Not specified       | 13  | 1.7%  |
    +---------------------+-----+-------+
 
-.. TODO: chart for gender identity
+.. CHART: gender identity
 
 .. raw:: html
 
@@ -4165,7 +4161,7 @@ The experience level spread of respondents echoed previous years - most falling 
    | Not specified       | 2   | 0.3%  |
    +---------------------+-----+-------+
 
-.. TODO: chart for years of experience
+.. CHART: chart for years of experience
 
 .. raw:: html
 
@@ -4231,7 +4227,7 @@ As in previous years, most respondents are university- or college-educated: 94.2
    | None of the listed options     | 2   | 0.3%  |
    +--------------------------------+-----+-------+
 
-.. TODO: chart for education level
+.. CHART: chart for education level
 
 .. raw:: html
 
@@ -4268,7 +4264,7 @@ Location
 
 Around half of all respondents (55.3%) were based in North America, the bulk of those (80% of this region, or 44.3% overall) in the United States. In total, 55 countries were represented.
 
-.. TODO: year to year country statistics
+.. WRITE: year to year country statistics
 
 .. raw:: html
 
@@ -4609,7 +4605,7 @@ Cities with at least 10 respondents are shown.
 
    </div></div>
 
-.. TODO: is there any useful way to chart respondent location data?
+.. CHART: is there any useful way to chart respondent location data?
 
 Survey feedback
 ===============
@@ -4714,4 +4710,4 @@ Overall, most respondents were positive about the survey, with "Strongly agree" 
 
    </div></div>
 
-.. TODO: bar charts for survey feedback
+.. CHART: bar charts for survey feedback
