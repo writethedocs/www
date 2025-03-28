@@ -1371,30 +1371,26 @@ Work location
 
    </details>
 
-.. WRITE: writeup findings for work location
-
-The majority of respondents reported working remotely, with the number doing so by choice (36.2%) higher than the number required to do so by their employer (29%). 
-
-.. TABLE: work location (Looker Studio file exists)
+For the first time since 2019, hybrid work has overtaken fully remote work as the most common work location, with 32.3% of respondents reporting that they work in a hybrid environment. 30% work fully remote by choice, while 28.9% are required to work fully remote. Those working on-site, whether by choice or necessity, make up only 8.7% of respondents.
 
 .. table:: Work location
    :widths: 70 15 15
-   :name: tbl-2023-work-location
+   :name: tbl-2024-work-location
    :class: std3col sortable
 
-   +------------------------+-----+-------+
-   | Work location          | |N| | |%|   |
-   +========================+=====+=======+
-   | Remote (not required)  | 368 | 36.2% |
-   +------------------------+-----+-------+
-   | Remote (required)      | 295 | 29.0% |
-   +------------------------+-----+-------+
-   | Hybrid                 | 287 | 28.2% |
-   +------------------------+-----+-------+
-   | On-site (not required) | 35  | 3.4%  |
-   +------------------------+-----+-------+
-   | On-site (required)     | 32  | 3.1%  |
-   +------------------------+-----+-------+
+   +------------------------------+-----------+-----------+
+   | Work location                | |N|       | |%|       |
+   +==============================+===========+===========+
+   | Hybrid                       | 252       | 32.3%     |
+   +------------------------------+-----------+-----------+
+   | Remote (not required)        | 234       | 30.0%     |
+   +------------------------------+-----------+-----------+
+   | Remote (required)            | 225       | 28.9%     |
+   +------------------------------+-----------+-----------+
+   | On-site (required)           | 42        | 5.4%      |
+   +------------------------------+-----------+-----------+
+   | On-site (not required)       | 26        | 3.3%      |
+   +------------------------------+-----------+-----------+
 
 .. CHART: work location
 
@@ -1410,32 +1406,28 @@ The majority of respondents reported working remotely, with the number doing so 
 .. figure:: images/2024/2024-work-location.svg
    :class: hide
 
-.. WRITE: writeup findings for feelings about work location
+The majority of respondents (82.6% overall) reported feeling "positive" about their work location, with 48.8% feeling "very positive".  Only 5.6% reported negative feelings, with 1.5% feeling "very negative".
 
-The majority of respondents (80.8%) reported feeling "positive" about their work location, with 51.8% feeling "very positive". 
-
-.. TABLE: feelings about work location
-
-.. table:: Feelings about work location
+.. table:: Attitudes towards work location
    :widths: 70 15 15
-   :name: tbl-2023-feelings-about-work-location
+   :name: tbl-2023-attitudes-towards-work-location
    :class: std3col sortable
 
-   +------------------------------+-----+-------+
-   | Feelings                     | |N| | |%|   |
-   +==============================+=====+=======+
-   | Very positive                | 527 | 51.8% |
-   +------------------------------+-----+-------+
-   | Positive                     | 295 | 29.0% |
-   +------------------------------+-----+-------+
-   | Neutral                      | 134 | 13.2% |
-   +------------------------------+-----+-------+
-   | Negative                     | 51  | 5.0%  |
-   +------------------------------+-----+-------+
-   | Very negative                | 10  | 1.0%  |
-   +------------------------------+-----+-------+
+   +----------------------+-----------+-----------+
+   | Attitudes            | |N|       | |%|       |
+   +======================+===========+===========+
+   | Very positive        | 380       | 48.8%     |
+   +----------------------+-----------+-----------+
+   | Positive             | 263       | 33.8%     |
+   +----------------------+-----------+-----------+
+   | Neutral              | 92        | 11.8%     |
+   +----------------------+-----------+-----------+
+   | Negative             | 32        | 4.1%      |
+   +----------------------+-----------+-----------+
+   | Very negative        | 12        | 1.5%      |
+   +----------------------+-----------+-----------+
 
-.. CHART: feelings about work location
+.. CHART: attitudes towards work location
 
 .. raw:: html
 
@@ -1482,72 +1474,115 @@ The majority of respondents (80.8%) reported feeling "positive" about their work
 
    </details>
 
-.. WRITE: "return to office" mandates
+In 2024, 51.4% of respondents reported that they have not been affected by RTO policies - either because remote work was still possible, or because their position was always on-site. 
 
-55.1% of respondents reported that they have not been affected by "return to office" (RTO) policies. 42.8% have been affected, with only 2.2% unsure. 
+For those that have been affected, most reported that a hybrid model was being mandated (25% overall). 9.4% reported that a return was encouraged but not mandatory, and 7.6% reported that it was mandatory for some roles.
 
-Of those that were not affected, 26.2% - the largest segment overall - reported that remote work was still allowed, encouraged or required, with another 23.4% stating that their position was always remote-only. 
-
-For those that have been affected, most reported that a hybrid model was being mandated (24.2% overall).  
-
-
-.. TABLE: "return to office" mandates
-
-.. raw:: html
-
-   <div class="tab-wrap"><input type="radio" id="tabC3-1" name="tabGroupC3" class="tab" checked><label for="tabC3-1">Not affected</label><input type="radio" id="tabC3-2" name="tabGroupC3" class="tab"><label for="tabC3-2">Affected</label><div class="tab__content">
-
-.. table:: Not affected by mandates
+.. table:: RTO mandates
    :widths: 70 15 15
-   :name: tbl-2023-return-to-the-office-mandates-not-affected
+   :name: tbl-2024-rto-mandates
    :class: std3col sortable
 
-   +------------------------------------------------------+-----+-------+
-   | RTO Status                                           | |N| | |%|   |
-   +======================================================+=====+=======+
-   | No, remote work is still allowed/encouraged/required | 266 | 47.5% |
-   +------------------------------------------------------+-----+-------+
-   | No, my position was always remote-only               | 238 | 42.5% |
-   +------------------------------------------------------+-----+-------+
-   | No, my position was always hybrid                    | 37  | 6.6%  |
-   +------------------------------------------------------+-----+-------+
-   | No, my position was always on-site only              | 19  | 3.4%  |
-   +------------------------------------------------------+-----+-------+
-
-.. raw:: html
-
-	</div><div class="tab__content">
-
-.. table:: Affected by mandates
-   :widths: 70 15 15
-   :name: tbl-2023-return-to-the-office-mandates-affected
-   :class: std3col sortable
-
-   +------------------------------------------------------------------+-----+-------+
-   | RTO Status                                                       | |N| | |%|   |
-   +==================================================================+=====+=======+
-   | Yes, it's required but only part of the time (hybrid work is ok) | 246 | 56.6% |
-   +------------------------------------------------------------------+-----+-------+
-   | Yes, it's encouraged but not mandatory                           | 102 | 23.4% |
-   +------------------------------------------------------------------+-----+-------+
-   | Yes, but only for some roles                                     | 64  | 14.7% |
-   +------------------------------------------------------------------+-----+-------+
-   | Yes, it's required all of the time                               | 23  | 5.3%  |
-   +------------------------------------------------------------------+-----+-------+
-
-.. raw:: html
-
-   </div></div>
-
-.. WRITE: feelings about "return to office" mandates
+   +----------------------------------------+-----------+-----------+
+   | RTO policy                             | |N|       | |%|       |
+   +========================================+===========+===========+
+   | No - remote work is still ok           | 382       | 49.0%     |
+   +----------------------------------------+-----------+-----------+
+   | Yes - hybrid                           | 195       | 25.0%     |
+   +----------------------------------------+-----------+-----------+
+   | Yes - not mandatory                    | 73        | 9.4%      |
+   +----------------------------------------+-----------+-----------+
+   | Yes - for some roles                   | 59        | 7.6%      |
+   +----------------------------------------+-----------+-----------+
+   | Don't know or doesn't apply            | 28        | 3.6%      |
+   +----------------------------------------+-----------+-----------+
+   | Yes - full-time                        | 23        | 3.0%      |
+   +----------------------------------------+-----------+-----------+
+   | No - position was always on-site       | 19        | 2.4%      |
+   +----------------------------------------+-----------+-----------+
 
 Those who reported being affected by an RTO policy were asked about their feelings on the situation. 
 
-Those who were required to return to the office on a part-time basis were quite evenly split between neutral (32.9%), negative (26%) and very negative (22%). Those who were positive (14.6%) or very positive (4.5%) were in the minority.
+Overall, the split between positive, negative and neutral feelings was fairly even - 33.4% reported feeling neutral, 39.4% negative or very negative, and 27.1% positive or very positive.
 
-Those who reported that a return was being encouraged by not required were less negative overall - 41% reported "neutral", with the remainder split evenly between positive and negative. 
+Those who were affected by partial RTO mandates were split in a similar manner - 35.5% reported feeling neutral, 37% negative, and 27.5% positive.
 
-Those affected by a full time RTO mandate felt predominantly negative, with only 3 individuals reporting positive feelings. 
+Those affected by a full time RTO mandate felt predominantly negative - 73.9% reported feeling negative or very negative, while only 21.7% reported feeling positive or very positive.
+
+.. raw:: html
+
+   <div class="tab-wrap">
+
+   <input type="radio" id="tabB5663-1" name="tabGroupB5663" class="tab" checked><label for="tabB5663-1">All affected</label><input type="radio" id="tabB5663-2" name="tabGroupB5663" class="tab"><label for="tabB5663-2">Partial RTO</label><input type="radio" id="tabB5663-3" name="tabGroupB5663" class="tab"><label for="tabB5663-3">Full RTO</label><div class="tab__content">
+
+.. table:: Attitude to RTO - all affected
+   :widths: 70 15 15
+   :name: tbl-2024-rto-attitude-all
+   :class: std3col sortable
+
+   +-------------------+-----------+-----------+
+   | Attitudes         | |N|       | |%|       |
+   +===================+===========+===========+
+   | Neutral           | 117       | 33.4%     |
+   +-------------------+-----------+-----------+
+   | Negative          | 95        | 27.1%     |
+   +-------------------+-----------+-----------+
+   | Positive          | 68        | 19.4%     |
+   +-------------------+-----------+-----------+
+   | Very negative     | 43        | 12.3%     |
+   +-------------------+-----------+-----------+
+   | Very positive     | 27        | 7.7%      |
+   +-------------------+-----------+-----------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Attitudes to partial RTO
+   :widths: 70 15 15
+   :name: tbl-2024-rto-attitude-partial
+   :class: std3col sortable
+
+   +--------------------+-----------+-----------+
+   | Attitudes          | |N|       | |%|       |
+   +====================+===========+===========+
+   | Neutral            | 116       | 35.5%     |
+   +--------------------+-----------+-----------+
+   | Negative           | 89        | 27.2%     |
+   +--------------------+-----------+-----------+
+   | Positive           | 64        | 19.6%     |
+   +--------------------+-----------+-----------+
+   | Very negative      | 32        | 9.8%      |
+   +--------------------+-----------+-----------+
+   | Very positive      | 26        | 8.0%      |
+   +--------------------+-----------+-----------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Attitudes to full RTO
+   :widths: 70 15 15
+   :name: tbl-2024-rto-attitude-full
+   :class: std3col sortable
+
+   +-------------------+-----------+-----------+
+   | Attitudes         | |N|       | |%|       |
+   +===================+===========+===========+
+   | Very negative     | 11        | 47.8%     |
+   +-------------------+-----------+-----------+
+   | Negative          | 6         | 26.1%     |
+   +-------------------+-----------+-----------+
+   | Positive          | 4         | 17.4%     |
+   +-------------------+-----------+-----------+
+   | Very positive     | 1         | 4.3%      |
+   +-------------------+-----------+-----------+
+   | Neutral           | 1         | 4.3%      |
+   +-------------------+-----------+-----------+
+
+.. raw:: html
+
+	</div></div>
 
 Preferred work location
 -----------------------
@@ -1569,30 +1604,26 @@ Preferred work location
 
    </details>
 
-.. WRITE: preferred work location
-
-Regardless of their current situation, 58% of all respondents said that their preferred work location is remote. Another 38.2% favored a hybrid model (some days in the office, some days working from home or another location). Only 2.6% said they preferred working on-site at their employer's office, and 1.3% stated no preference. 
-
-.. TABLE: preferred work location
+Regardless of their current situation, 52.1% of all respondents said that their preferred work location is remote. Another 40.6% favored a hybrid model (some days in the office, some days working from home or another location). Only 2.8% said they preferred working on-site at their employer's office, and 4.5% stated no preference or that their preference depended upon the situation. 
 
 .. table:: Preferred work location
    :widths: 70 15 15
-   :name: tbl-2023-preferred-work-location
+   :name: tbl-2024-preferred-work-location
    :class: std3col sortable
 
-   +-------------------------+-----+-------+
-   | Preferred work location | |N| | |%|   |
-   +=========================+=====+=======+
-   | Remote                  | 590 | 58.0% |
-   +-------------------------+-----+-------+
-   | Hybrid                  | 388 | 38.2% |
-   +-------------------------+-----+-------+
-   | On-site                 | 26  | 2.6%  |
-   +-------------------------+-----+-------+
-   | No preference           | 13  | 1.3%  |
-   +-------------------------+-----+-------+
+   +----------------------------------+-----------+-----------+
+   | Preferred work location          | |N|       | |%|       |
+   +==================================+===========+===========+
+   | Remote                           | 406       | 52.1%     |
+   +----------------------------------+-----------+-----------+
+   | Hybrid                           | 316       | 40.6%     |
+   +----------------------------------+-----------+-----------+
+   | No preference, or it depends     | 35        | 4.5%      |
+   +----------------------------------+-----------+-----------+
+   | On-site                          | 22        | 2.8%      |
+   +----------------------------------+-----------+-----------+
 
-.. CHART: preferred work location
+.. CHART: preferred work location - also over time?
 
 Employee salary, benefits and satisfaction
 ==========================================
@@ -1760,7 +1791,7 @@ Given the range of socio-economic differences in the countries in the survey res
    - Africa: South Africa, Kenya, Nigeria 
    - South America: Brazil, Argentina 
 
-.. TABLE: update table for median salary by respondent region 
+.. TABLE: median salary by respondent region 
 
 .. table:: Salary (USD) by respondent region
    :name: tbl-2023-salary-by-respondent-region
