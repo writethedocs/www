@@ -32,8 +32,13 @@
    
   <nav>
 
-.. contents::
-   :local:
+.. STYLE: dropdown for previous salary survey results menu
+
+.. STYLE: current menu section and sub-sections: make them clearer - what about automatically updating as you scroll?
+
+.. IDEA: work out how to implement the nav menu on mobile - hamburger?
+
+.. contents:: Table of contents
    :depth: 3
    :backlinks: none
 
@@ -49,11 +54,15 @@
    <div class="breadcrumbs"><a href="/">Home</a> &raquo; <a href="/surveys/">Salary Surveys</a> &raquo;</div>
   <main>
 
+.. STYLE: add survey-only newsletter signup form 
+
 .. _top:
 
 ****************************************
 Documentation Salary Survey 2024 Results
 ****************************************
+
+.. STYLE: table tabs
 
 Introduction
 ============
@@ -208,7 +217,6 @@ For the first time this year, no respondents reported working more than 60 hours
    | 1-20         | 16  | 2.1%  |
    +--------------+-----+-------+
 
-.. IDEA: split contractor hours vs employee hours?
 
 Job title
 ---------
@@ -310,8 +318,6 @@ As in previous years, the most widely used exact title was "Technical Writer", r
 
 .. figure:: images/2024/2024-job-title-word-cloud.svg
    :class: hide
-
-.. IDEA: split contractor job titles vs employee job titles?
 
 Role category
 -------------
@@ -2243,7 +2249,7 @@ Median salary by years of experience
 Median salary by organization size (employees)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. TABLE: update tables for median salary by organization size
+.. TABLE: median salary by organization size
 
 .. raw:: html
 
@@ -2581,7 +2587,7 @@ Employee satisfaction
 
 Looking at all regions, 68.7% of all employee respondents were satisfied with their salary and benefits package - 25.6% rated themselves "very satisfied". 
 
-.. TABLE: employee satisfaction
+.. TABLE: salary satisfaction
 
 .. raw:: html
 
@@ -2610,6 +2616,8 @@ Looking at all regions, 68.7% of all employee respondents were satisfied with th
 
    </div><div class="tab__content">
 
+.. TABLE: job satisfaction
+
 .. table:: Employee job satisfaction
    :widths: 70 15 15
    :name: tbl-2023-employee-job-satisfaction
@@ -2637,6 +2645,8 @@ Factors affecting salary satisfaction
 -------------------------------------
 
 .. IDEA: work out how to compare 2024 satisfaction data to previous years
+
+.. WRITE: salary satisfaction
 
 35.1% of employee respondents - the largest group - said that they had no reasons for dissatisfaction with their salary and benefits. The next most-selected option was "salary is too low", with 30.5%.
 
@@ -2860,30 +2870,24 @@ Preferred term
 
    </details>
 
-.. WRITE: preferred term results
+63.8% of non-employee respondents term themselves "contractors", while 18.1% prefer "freelancer" and 10.6% use "self-employed". Of the 7 individuals who chose "other", 3 indicated that they consider themselves full time employees working under a service agreement (temporary or otherwise), 2 specified "consultant", one specified "agency worker", and the final respondent entered "N/A".  
 
-For the first time this year, we asked those respondents who are not employees what term they use to describe the kind of work they do. 53.2% term themselves "contractors", while 27.8% prefer "self-employed" and 16.5% use "freelancer". Of those who chose "other", the two terms added were "agency" and "consultant".
-
-Several contractor respondents indicated that they were contractors by necessity rather than choice, taking contracts either because they were unable to find a suitable employment offer, or anticipating an employment offer after a period of contracting. 
-
-.. TABLE: preferred term
-
-.. table:: Preferred term - contractors
+.. table:: Preferred term
    :widths: 70 15 15
-   :name: tbl-2023-preferred-term-contractors
+   :name: tbl-2024-contractor-preferred-term
    :class: std3col sortable
 
-   +----------------+-----+-------+
-   | Preferred term | |N| | |%|   |
-   +================+=====+=======+
-   | Contractor     | 42  | 53.2% |
-   +----------------+-----+-------+
-   | Self-employed  | 22  | 27.8% |
-   +----------------+-----+-------+
-   | Freelancer     | 13  | 16.5% |
-   +----------------+-----+-------+
-   | Other          | 2   | 2.5%  |
-   +----------------+-----+-------+
+   +---------------------+-----------+-----------+
+   | Preferred term      | |N|       | |%|       |
+   +=====================+===========+===========+
+   | Contractor          | 60        | 63.8%     |
+   +---------------------+-----------+-----------+
+   | Freelancer          | 17        | 18.1%     |
+   +---------------------+-----------+-----------+
+   | Self-employed       | 10        | 10.6%     |
+   +---------------------+-----------+-----------+
+   | Other               | 7         | 7.4%      |
+   +---------------------+-----------+-----------+
 
 Type of contract work
 ---------------------
@@ -2923,83 +2927,83 @@ Type of contract work
 
    </details>
 
-Contractor work type - clients
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Contractor type
+~~~~~~~~~~~~~~~
 
 .. WRITE: writeup for contractor work type - clients
 
+To illustrate how varied contractor working situations are, out of the 94 total contractor respondents, there were 59 different combinations of client type, contract or project type, and product or service offering. 
+
 48% of contractor clients indicated that they worked exclusively for a single client at a time. Another 34% indicated that they worked exclusively for multiple clients at a time. 13% worked at times for either a single client or multiple clients, and 5% did not indicate whether they worked for a single client or multiple. 
 
-.. TABLE: contractor work type (use tabbed tables on this section?)
+.. raw:: html
 
-.. table:: Contractor work type - clients
+   <div class="tab-wrap"><input type="radio" id="tabA113-1" name="tabGroupA113" class="tab" checked tabindex="0"><label for="tabA113-1">Type of client</label><input type="radio" id="tabA113-2" name="tabGroupA113" class="tab"><label for="tabA113-2">Contract length</label><input type="radio" id="tabA113-3" name="tabGroupA113" class="tab"><label for="tabA113-3">Products and services</label><div class="tab__content">
+
+.. table:: Contractor type - type of client
    :widths: 70 15 15
-   :name: tbl-2023-contractor-work-type-clients
+   :name: tbl-2024-contractor-type-clients
    :class: std3col sortable
 
-   +----------------------------------+-----+-------+
-   | Client type                      | |N| | |%|   |
-   +==================================+=====+=======+
-   | Single client                    |  38 | 48.1% |
-   +----------------------------------+-----+-------+
-   | Multiple clients                 |  27 | 34.2% |
-   +----------------------------------+-----+-------+
-   | Both single and multiple clients |  10 | 12.7% |
-   +----------------------------------+-----+-------+
-   | Not specified                    |   4 |  5.1% |
-   +----------------------------------+-----+-------+
+   +-------------------------------------+--------+--------+
+   | Client type                         | |N|    | |%|    |
+   +=====================================+========+========+
+   | Single client                       |     50 |  53.2% |
+   +-------------------------------------+--------+--------+
+   | Multiple clients                    |     26 |  27.7% |
+   +-------------------------------------+--------+--------+
+   | Both single and multiple clients    |      5 |   5.3% |
+   +-------------------------------------+--------+--------+
+   | Not specified                       |     13 |  13.8% |
+   +-------------------------------------+--------+--------+
 
-Contractor work type - duration
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. raw:: html
 
-.. TABLE: contractor work type - duration
+	</div><div class="tab__content">
 
-.. table:: Contractor work type - duration
+.. table:: Contractor type - contract length
    :widths: 70 15 15
-   :name: tbl-2023-contractor-work-type-duration
+   :name: tbl-2024-contractor-type-contract-length
    :class: std3col sortable
 
-   +--------------------------------------------------+-----+-------+
-   | Typical contract length                          | |N| | |%|   |
-   +==================================================+=====+=======+
-   | No term selected                                 |  29 | 36.7% |
-   +--------------------------------------------------+-----+-------+
-   | Exclusively long term (6 to 12 months or longer) |  16 | 20.3% |
-   +--------------------------------------------------+-----+-------+
-   | Medium and long term                             |  10 | 12.7% |
-   +--------------------------------------------------+-----+-------+
-   | Short, medium and long term                      |  10 | 12.7% |
-   +--------------------------------------------------+-----+-------+
-   | Exclusively medium term (1 to 6 months)          |   5 |  6.3% |
-   +--------------------------------------------------+-----+-------+
-   | Short and medium term                            |   4 |  5.1% |
-   +--------------------------------------------------+-----+-------+
-   | Short and long term                              |   4 |  5.1% |
-   +--------------------------------------------------+-----+-------+
-   | Exclusively short term (days or weeks)           |   1 |  1.3% |
-   +--------------------------------------------------+-----+-------+
+   +-------------------------------------------+----------+----------+
+   | Typical contract length                   | |N|      | |%|      |
+   +===========================================+==========+==========+
+   | No contract length specified              |       34 |    36.2% |
+   +-------------------------------------------+----------+----------+
+   | Long term only (6-12 months or longer)    |       29 |    30.9% |
+   +-------------------------------------------+----------+----------+
+   | Mixed contract lengths                    |       22 |    23.4% |
+   +-------------------------------------------+----------+----------+
+   | Medium term only (1 - 6 months)           |        7 |     7.4% |
+   +-------------------------------------------+----------+----------+
+   | Short term only (days or weeks)           |        2 |     2.1% |
+   +-------------------------------------------+----------+----------+
 
-Contractor work type - products and services
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. raw:: html
 
-.. TABLE: contractor work type - products and services
+	</div><div class="tab__content">
 
-.. table:: Contractor work type - products and services
+.. table:: Contractor type - products and services
    :widths: 70 15 15
-   :name: tbl-2023-contractor-work-type-products-and-services
+   :name: tbl-2024-contractor-type-products-services
    :class: std3col sortable
 
-   +-----------------------------------------------------+------+-------+
-   | Product or service offering                         | |N|  | |%|   |
-   +=====================================================+======+=======+
-   | Offering neither                                    |   56 | 70.9% |
-   +-----------------------------------------------------+------+-------+
-   | Exclusively offering a service/services             |   21 | 26.6% |
-   +-----------------------------------------------------+------+-------+
-   | Exclusively offering a product/products             |    1 |  1.3% |
-   +-----------------------------------------------------+------+-------+
-   | Offering both                                       |    1 |  1.3% |
-   +-----------------------------------------------------+------+-------+
+   +----------------------------------+--------+--------+
+   | Product or service offering      | |N|    | |%|    |
+   +==================================+========+========+
+   | Offering neither                 |     61 |  64.9% |
+   +----------------------------------+--------+--------+
+   | Offering a service/services      |     27 |  28.7% |
+   +----------------------------------+--------+--------+
+   | Offering both                    |      5 |   5.3% |
+   +----------------------------------+--------+--------+
+   | Offering a product/products      |      1 |   1.1% |
+   +----------------------------------+--------+--------+
+
+.. raw:: html
+
+   </div></div>
 
 Contract rates
 --------------
