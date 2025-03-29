@@ -30,44 +30,23 @@ html {
 	--surface-3-light: var(--stone-3);
 	--surface-4-light: var(--stone-4);
 	--surface-5-light: var(--stone-5);
-	--brand-dark: var(--indigo-3);
-  --text-1-dark: var(--stone-3);
-  --text-2-dark: var(--stone-5);
-	--surface-highlight-dark: var(--cyan-1);
-	--surface-00-dark: var(--stone-12);
-	--surface-0-dark: var(--stone-11);
-  --surface-1-dark: var(--stone-10);
-  --surface-2-dark: var(--stone-9);
-  --surface-3-dark: var(--stone-8);
-  --surface-4-dark: var(--stone-7);
-	--surface-4-dark: var(--stone-6);
 	--shadow: 0 1px 2px -1px hsl(220 40% 2% /calc(25% + 9%));
 	--icon-external-link: url('data:image/svg+xml,<svg\ xmlns=\"http://www.w3.org/2000/svg\"\ viewBox=\"0\ 0\ 20\ 20\"><g\ style=\"stroke:rgb\(35,82,124\);stroke-width:1\"><line\ x1=\"5\"\ y1=\"5\"\ x2=\"5\"\ y2=\"14\"\ /><line\ x1=\"14\"\ y1=\"9\"\ x2=\"14\"\ y2=\"14\"\ /><line\ x1=\"5\"\ y1=\"14\"\ x2=\"14\"\ y2=\"14\"\ /><line\ x1=\"5\"\ y1=\"5\"\ x2=\"9\"\ y2=\"5\"\ \ /><line\ x1=\"10\"\ y1=\"2\"\ x2=\"17\"\ y2=\"2\"\ /><line\ x1=\"17\"\ y1=\"2\"\ x2=\"17\"\ y2=\"9\"\ /><line\ x1=\"10\"\ y1=\"9\"\ x2=\"17\"\ y2=\"2\"\ style=\"stroke-width:1.5\"\ /></g></svg>');
 }
 /* 2. override colors for 2024  */
 html:has(.surveytheme-2024) {
 	--brand-light: var(--indigo-9);
-	--text-1-light: var(--stone-10);
-	--text-2-light: var(--stone-8);
-	--surface-highlight-light: var(--cyan-0);
+	--text-1-light: var(--gray-12);
+	--text-2-light: var(--gray-9);
+	--surface-highlight-light: var(--indigo-0);
 	--surface-00-light: #FFF;
-	--surface-0-light: var(--cyan-0);
-	--surface-1-light: var(--cyan-1);
-	--surface-2-light: var(--cyan-2);
+	--surface-0-light: var(--stone-0);
+	--surface-1-light: var(--stone-1);
+	--surface-2-light: var(--stone-2);
+	
 	--surface-3-light: var(--cyan-3);
 	--surface-4-light: var(--cyan-4);
 	--surface-5-light: var(--cyan-5);
-	--brand-dark: var(--indigo-3);
-	--text-1-dark: var(--stone-3);
-	--text-2-dark: var(--stone-5);
-	--surface-highlight-dark: var(--cyan-6);
-	--surface-00-dark: var(--stone-12);
-	--surface-0-dark: var(--cyan-11);
-	--surface-1-dark: var(--cyan-10);
-	--surface-2-dark: var(--cyan-9);
-	--surface-3-dark: var(--cyan-8);
-	--surface-4-dark: var(--cyan-7);
-	--surface-4-dark: var(--cyan-6);
 }
 
 
@@ -114,23 +93,6 @@ html:has(.surveytheme-2024) {
   --surface-4: var(--surface-4-light);
 	--surface-5: var(--surface-5-light);
 }
-
-/* dark theme by user agent choice 
-@media (prefers-color-scheme: dark) {
-  :root {
-		--brand: var(--brand-dark);
-		--text-1: var(--text-1-dark);
-		--text-2: var(--text-2-dark);
-		--surface-highlight: var(--surface-highlight-dark);
-		--surface-00: var(--surface-00-dark);
-		--surface-0: var(--surface-0-dark);
-		--surface-1: var(--surface-1-dark);
-		--surface-2: var(--surface-2-dark);
-		--surface-3: var(--surface-3-dark);
-		--surface-4: var(--surface-4-dark);
-		--surface-5: var(--surface-5-dark);
-  }
-}*/
 
 /* DESKTOP LAYOUT */
 body {
@@ -292,20 +254,16 @@ nav {
 
 /* default color */
 html {
-  background-color: var(--surface-00);
-  color: var(--text-1);
+  background-color: var(--surface-0);
+  color: var(--text-2);
   accent-color: var(--brand);
 } 
 
-body {
-	/*background-color: hsl(var(--stone-0-hsl) / 60%); */
-}
-
-h1,h2,h3,h4,p,dt {
+h1, h2, h3, h4, h5, h6, caption, dt, .topic-title, summary, th, th p {
   color: var(--text-1);
 }
 
-h5,h6,small,dd {
+p, li, td, small, dd {
   color: var(--text-2);
 }
 
@@ -314,6 +272,17 @@ a {
 }
 
 /* element-specific styling (incl. typography & color) */
+
+hr {
+	border: 0;
+	height: 0;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	margin: var(--size-6) 0;
+	padding: 0;
+}
+
+
 
 /* external links */
 a[target="_blank"]::after, a.external::after {
@@ -328,7 +297,7 @@ details {
 	overflow: hidden;
 	border-radius: var(--radius-2);
 	box-shadow: var(--shadow);
-	background: var(--surface-0);
+	background: var(--surface-00);
 	padding: var(--size-4);
 	summary {
 		cursor: pointer;
@@ -352,7 +321,7 @@ details + details {
 	margin-top: 0.5em;
 }
 
-/* NAV */
+/* TOC */
 
 nav ul { 
 	margin: 0;
@@ -360,6 +329,9 @@ nav ul {
 	list-style-type: none;
 	li {
 		padding: var(--size-1) 0;
+		a {
+			/* display: inline-block; */
+		}
 		ul { 
 			margin: var(--size-2) var(--size-3);
 			padding: 0;
@@ -379,29 +351,28 @@ nav ul {
 	}
 } 
 
+/* TOC title */
+.topic-title {
+	margin: 0; 
+	padding: 0;
+	font-family: var(--font-serif);
 
-/* first internal nav link becomes heading */
-nav div.contents.local.topic ul.simple > li > p > a.reference.internal,
+}
+
+/* hide first internal nav link */
+nav div.contents.topic ul.simple > li > p > a.reference.internal,
 p.nav-heading { 
-	font-size: var(--font-size-2);
-	font-weight: var(--font-weight-6);
-	text-decoration: none;
-	display: block;
-	margin: 0 0 var(--size-2) 0;
-	color: var(--text-1);
-	&&:hover {
-		color: var(--brand);
-	}
-}
-/* except on mobile */
-@media screen and (max-width: 869px) {
-	nav div.contents.local.topic ul.simple > li > p > a.reference.internal {
-		display: none;
-	}
+	display: none;
 }
 
-nav #contents #id2 {
-	/* display: none;  hide introduction and submenu to prevent weird jumps */
+/* hide introduction */
+nav div.contents.topic ul.simple > li > ul > li:nth-of-type(1) {
+	display: none;
+}
+
+/* reduce padding before first internal nav link */
+ul.simple > li {
+	padding-top: 0;
 }
 
 .simple ul ul {
@@ -410,6 +381,7 @@ nav #contents #id2 {
 
 .simple > li > ul {
   display: block;
+	margin: 0;
 }
 
 .simple > li > ul > li > a {
@@ -427,19 +399,26 @@ nav #contents #id2 {
 
 .simple > li > ul > li.active > ul {
   display: block;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+	padding-left: var(--size-2);
 }
 
 .simple > li > ul > li.active > a::before {
   transform: rotate(90deg); /* Rotate the arrow for active state */
 }
 
-.simple li.active {
+.simple li.active > p {
 	font-weight: var(--font-weight-6);
 }
 
+
+
 /* clickable section anchors */
 .headerlink {
-	color: var(--surface-4);
+	color: var(--surface-highlight);
 	padding: 0 0 0 2px;
 	text-decoration: none;
 	font-size: var(--font-size-1);
@@ -508,7 +487,7 @@ blockquote.pull-quote {
 	margin-top: var(--size-8);
 	margin-bottom: var(--size-8);
 	padding: var(--size-1) var(--size-4) var(--size-2) var(--size-4);	
-	background-color: #FFF;
+	background-color: var(--surface-00);
 	box-shadow: var(--shadow);
 	border-radius: var(--radius-2);
 	.rubric {
@@ -516,12 +495,12 @@ blockquote.pull-quote {
 		line-height: var(--font-lineheight-1);
 		font-family: var(--font-serif);
 		i { /* fontawesome icon */
-			color: var(--brand);
+			color: var(--surface-highlight);
 			position: absolute;
+			z-index: -1;
 			font-size: 12rem;
 			right: -2.75rem;
 			top: -1.75rem;
-			opacity: 0.05;
 		}
 	}
 }
@@ -552,18 +531,17 @@ main {
 	}
 	table {
 		position: relative;
-		background-color: var(--surface-0);
+		background-color: var(--surface-00);
 		border-radius: 0 0 var(--radius-2) var(--radius-2);
 		width: 100%;
 		padding: var(--size-2) var(--size-6) var(--size-6) var(--size-6);
 		border-spacing: 0;
 		margin: 0 0 var(--size-8) 0;
 		caption {
-			background-color: var(--surface-0);
 			border-radius: var(--radius-2) var(--radius-2) 0 0;
-			color: var(--text-1);
 			font-weight: var(--font-weight-5);
 			text-align: center;
+			background-color: var(--surface-00);
 			.caption-text {
 				display: inline-block;
 				padding: var(--size-2);
@@ -589,8 +567,11 @@ main {
 				padding: var(--size-2) var(--size-2) var(--size-2) var(--size-2);
 				font-weight: var(--font-weight-5);
 				color: var(--text-1);
-				background: var(--surface-5);
+				background: var(--surface-2);
 				text-align: left;
+			}
+			&&:hover th {
+				background: var(--indigo-1);
 			}
 		}
 		tbody {
@@ -611,31 +592,23 @@ main {
 			tr:nth-child(even) { 
 				td {
 					background: var(--surface-1);
-					border-top: 1px solid var(--surface-1);
-					border-bottom: 1px solid var(--surface-1);
 					&&:has(strong) {
 						background: var(--surface-4);
 					} 
 				}
 				&&:hover td {
 					background: var(--surface-highlight);
-					border-top: 1px solid var(--indigo-2);
-					border-bottom: 1px solid var(--indigo-2);
 				}
 			}
 			tr:nth-child(odd) {
 				td {
-					background: var(--surface-2);
-					border-top: 1px solid var(--surface-1);
-					border-bottom: 1px solid var(--surface-1);
+					background: var(--surface-0);
 					&&:has(strong) {
-						background: var(--surface-4);
+						background: var(--surface-2);
 					} 
 				}
 				&&:hover td {
 					background: var(--surface-highlight);
-					border-top: 1px solid var(--indigo-2);
-					border-bottom: 1px solid var(--indigo-2);
 				}
 			}
 			
@@ -901,7 +874,7 @@ dl.footnote.brackets {
 				color: var(--text-1);
 				flex-grow: 3;
 				text-align: center;
-				background-color: #f2f2f2;
+				background-color: var(--surface-1);
 				-webkit-user-select: none;
 					-moz-user-select: none;
 						-ms-user-select: none;
@@ -912,7 +885,7 @@ dl.footnote.brackets {
 				padding: var(--size-2);
 			}
 			& + label:hover {
-				background-color: #f9f9f9;
+				background-color: var(--surface-0);
 				box-shadow: 0 1px 0 #f4f4f4 inset;
 			}
 		}
