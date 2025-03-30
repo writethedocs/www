@@ -28,7 +28,7 @@ Talk length
 Microphones
     We have both over ear (preferred) and handheld
 
-Pre conference schedule
+Pre-conference Schedule
 -----------------------
 
 **{{cfp.ends}}**
@@ -36,18 +36,18 @@ Pre conference schedule
 
 **{{cfp.notification}}**
     We'll let you know whether your proposal was accepted, and ask for some supplementary information about you.
-    Make sure to confirm your talk as soon as you get the email, and update your pronouns, photo, and bio in Pretalx.
+    Make sure to confirm your talk as soon as you get the email, and update your pronouns, photo, name pronunciation, and bio in Pretalx.
 
 **{{cfp.speaker_tickets_by}}**
-    Register your free speaker ticket with dietary preferences.
+    Register your free speaker ticket with dietary preferences (we'll drop you a ticket link beforehand).
 
 **{{cfp.slides_by}}**
-    We'll ask for a copy of your slides so our human captioners can prepare for your talk.
+    Upload a copy of your slides so our human captioners can prepare for your talk. We'll email you an upload link beforehand.
 
 **{{date.short}}**
     Folks start giving talks on stage!
 
-Conference schedule
+Conference Schedule
 --------------------
 
 Your speaker tech check will be directly before the morning or afternoon session you are speaking at, bring the laptop you'll be using to present.
@@ -77,7 +77,7 @@ TUESDAY
 - 12:05-12:25pm: Afternoon Speaker tech checkss
 - 2:00-3:50pm: Afternoon Speaker Talks
 
-Speaking tips
+Speaking Tips
 -------------
 
 {% include "conf/portland/speaking-tips-2025.rst" %}
