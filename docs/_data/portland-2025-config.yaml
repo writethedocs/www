@@ -233,6 +233,9 @@ sponsors:
     - name: not-boring-tech-writer
       link: https://thenotboringtechwriter.com/?ref=writethedocs
       brand: The Not-Boring Tech Writer, from KnowledgeOwl
+    - name: google
+      link: https://opensource.google/?ref=writethedocs
+      brand: Google
     - name: readthedocs
       link: https://about.readthedocs.com/?ref=writethedocs
       brand: Read the Docs

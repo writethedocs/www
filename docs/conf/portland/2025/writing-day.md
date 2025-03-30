@@ -127,7 +127,7 @@ If you're a technical expert, our Good first issues give you the chance to test 
 
 ### Docs as Tests and Doc Detective: Help us test your docs!
 
-Project organizer: Manny Silva, he/him.
+Project organizer: Manny Silva, he/him. Project session: All day.
 
 [Docs as Tests](https://www.docsastests.com/) and [Doc Detective](https://doc-detective.com/) are back at Writing Day and our goal is to test at least 10 docs sets! Does your project or product have a UI? APIs? SDKs? We can help you test them and keep your docs accurate.
 
@@ -138,3 +138,12 @@ Docs as Tests is a strategy for keeping docs up-to-date by treating procedures a
 - Build user trust
 
 We want every writer to be confident in their docs. Come by our table, and we’ll help you set up Docs as Tests with whatever tools (like Doc Detective) or strategies (like unit testing code snippets) are appropriate. Establish a zero-trust relationship between your docs and product, catching bugs in both as you go.
+
+### Help improve the WTD Salary Survey
+
+* Project organizer: Kay Smoljak, she/her. 
+* Project session: Afternoon.
+
+The [Write the Docs Salary Survey](https://writethedocs.org/surveys/) has been running annually since 2019, with the goal of identifying appropriate salary ranges and providing a basis for pay negotiations.
+
+Our goal for Writing Day is to improve the clarity, inclusivity, neutrality and relevance of the [questions, instructions, and general flow of the survey](https://github.com/writethedocs/salary-survey?tab=readme-ov-file#write-the-docs-annual-documentation-salary-survey).
