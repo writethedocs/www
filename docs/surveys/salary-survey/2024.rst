@@ -497,48 +497,31 @@ Team configuration
 
    </details>
 
-
-.. WRITE: writeup 2024 team breakdown
-
-.. TABLE: update team breakdown table
+50.6% of respondents reported that they were part of a team of people with the same or similar roles, while 45.6% reported being part of a team with different roles. 26.2% reported being part of multiple teams, and 25.3% reported being a solo worker.
 
 .. table:: Team configuration
    :widths: 70 15 15
-   :name: tbl-2023-team-configuration
+   :name: tbl-2024-team-configuration
    :class: std3col sortable
 
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Team configuration                                                                   | |N| | |%|   |
-   +======================================================================================+=====+=======+
-   | Team - similar roles                                                                 | 256 | 25.2% |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Team - different roles                                                               | 129 | 12.7% |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Solo worker                                                                          | 86  | 8.5%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Manager or team leader                                                               | 72  | 7.1%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Team - similar roles, Team - different roles                                         | 58  | 5.7%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Solo worker, Team - different roles                                                  | 58  | 5.7%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Team - similar roles, Team - different roles, Multiple teams                         | 52  | 5.1%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Team - different roles, Multiple teams                                               | 31  | 3.0%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Team - similar roles, Manager or team leader                                         | 31  | 3.0%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Team - similar roles, Multiple teams                                                 | 30  | 2.9%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Solo worker, Team - different roles, Multiple teams                                  | 29  | 2.9%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Multiple teams                                                                       | 28  | 2.8%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
+   +----------------------------+--------+--------+
+   | Team configuration         | |N|    | |%|    |
+   +============================+========+========+
+   | Team - similar roles       | 394    |  50.6% |
+   +----------------------------+--------+--------+
+   | Team - different roles     | 355    |  45.6% |
+   +----------------------------+--------+--------+
+   | Multiple teams             | 204    |  26.2% |
+   +----------------------------+--------+--------+
+   | Solo worker                | 197    |  25.3% |
+   +----------------------------+--------+--------+
+   | Manager                    | 148    |  19.0% |
+   +----------------------------+--------+--------+
+   | Other                      | 3      |   0.4% |
+   +----------------------------+--------+--------+
 
 Length of time in current role
 ------------------------------
-
-.. WRITE: writeup 2024 "time in current role"
 
 .. raw:: html
    
@@ -576,28 +559,57 @@ Length of time in current role
 
    </details>
 
+.. WRITE: writeup 2024 "time in current role"
+
+.. IDEA: use JS to add sort order data attribute to time in current role/time contracting tables
+
 A spike in respondents with new jobs was first seen in 2021, with 31.7% of respondents reported being in their current position at their current organization for less than a year. In 2022, this number peaked at 36.8% - when respondents with new jobs outstripped the number who had held their current position for medium or long terms. In 2023, the number of respondents with new jobs has fallen again, to 20.3% - lower than in 2020 although still well above the 9% reported in 2019. 
 
-.. TABLE: time in current role
+.. raw:: html
 
-.. table:: Length of time in current role
+   <div class="tab-wrap"><input type="radio" id="tabD963-1" name="tabGroupD963" class="tab" checked><label for="tabD963-1">Employees</label><input type="radio" id="tabD963-2" name="tabGroupD963" class="tab"><label for="tabD963-2">Contractors</label><div class="tab__content">
+
+.. table:: Length of time in current role - employees
    :widths: 70 15 15
-   :name: tbl-2023-length-of-time-in-current-role
+   :name: tbl-2024-length-of-time-in-current-role-employees
    :class: std3col sortable
 
-   +-------------------------+-----+-------+
-   | Years                   | |N| | |%|   |
-   +=========================+=====+=======+
-   | 0-1 years               | 206 | 20.3% |
-   +-------------------------+-----+-------+
-   | 1-2 years               | 235 | 23.1% |
-   +-------------------------+-----+-------+
-   | 2-5 years               | 326 | 32.1% |
-   +-------------------------+-----+-------+
-   | 5-10 years              | 166 | 16.3% |
-   +-------------------------+-----+-------+
-   | 10+ years               | 84  | 8.3%  |
-   +-------------------------+-----+-------+
+   +---------------------------+--------+--------+
+   | Time in current role      | |N|    | |%|    |
+   +===========================+========+========+
+   | 2-5 years                 | 274    | 38.4%  |
+   +---------------------------+--------+--------+
+   | 0-1 year                  | 156    | 21.8%  |
+   +---------------------------+--------+--------+
+   | 1-2 years                 | 131    | 18.3%  |
+   +---------------------------+--------+--------+
+   | 5-10 years                | 110    | 15.4%  |
+   +---------------------------+--------+--------+
+   | 10+ years                 | 43     | 6.0%   |
+   +---------------------------+--------+--------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Length of time contracting - contractors
+   :widths: 70 15 15
+   :name: tbl-2024-length-of-time-in-current-role-contractors
+   :class: std3col sortable
+
+   +------------------------+--------+--------+
+   | Time contracting       | |N|    | |%|    |
+   +========================+========+========+
+   | 1-2                    | 23     | 24.5%  |
+   +------------------------+--------+--------+
+   | 0-1                    | 19     | 20.2%  |
+   +------------------------+--------+--------+
+   | 10                     | 18     | 19.1%  |
+   +------------------------+--------+--------+
+   | 5-10                   | 18     | 19.1%  |
+   +------------------------+--------+--------+
+   | 2-5                    | 16     | 17.0%  |
+   +------------------------+--------+--------+
 
 .. CHART: chart for "time in current role"
 
