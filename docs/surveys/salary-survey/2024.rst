@@ -1640,20 +1640,7 @@ Regardless of their current situation, 52.1% of all respondents said that their 
 Employee salary, benefits and satisfaction
 ==========================================
 
-.. WRITE: "employee salary, benefits and satisfaction" intro
-
-To protect the privacy of our community, we do not publish median salary figures for any region or category with less than 10 respondents. In previous years, this has meant that median salaries could only be given for a few regions and countries, and a handful of US states.     
-
-With this year's survey amassing the highest number of submissions yet, we can now provide a more extensive range of salary breakdowns. Alongside the baseline data for Africa, which encompasses respondents from South Africa, Kenya, and Nigeria, we have gathered enough data to publish median salaries (|50th| percentile) for 15 individual countries, 17 US states, 3 Canadian provinces (including separate figures for each province's largest city), and 3 Australian states.
-
-In regions or categories meet the minimum threshold of 30 respondents, we're also providing the |25th| percentile (the value below which 25% of the data falls) and |75th| percentile (the value below which 75% of the data falls).
-
-Currency
---------
-
-.. WRITE: add one "what we asked" section which includes all salary parts
-
-.. WRITE: currency
+To protect the privacy of our community, we do not publish median salary figures for any region or category with less than 10 respondents. In regions or categories that meet the minimum threshold of 30 respondents, we're also providing the |25th| percentile (the value below which 25% of the data falls) and |75th| percentile (the value below which 75% of the data falls).
 
 .. raw:: html
    
@@ -1661,76 +1648,97 @@ Currency
 
 .. container:: question
 
-   |icon-question| What currency are you paid in? 
+   |icon-question| 
+   
+   Please enter your salary before taxes are taken out, and indicate whether this is a monthly or yearly amount (in some countries it is customary to talk about monthly salary, while in others yearly figures are more common). Monthly figures will be multiplied by 12 for comparison with yearly figures.
+
+   If your total compensation is made up of a base salary and significant bonus, equity or commission payments, please enter your total compensation (or an average, if it fluctuates).
+
+   [ currency ] [ salary amount ] [ monthly/yearly ]
 
 .. raw:: html
 
    </details>
 
-Employee respondents reported being paid in 26 different currencies. To make comparisons possible, all currencies were converted to USD using mid-market exchange rates, averaged for the whole of 2023.
+Currency
+--------
 
-.. TABLE: currency
+Employee respondents reported being paid in 33 different currencies. To make comparisons possible, all currencies were converted to USD using mid-market exchange rates, averaged for the whole of 2024.
 
 .. table:: Currencies and exchange rates - employees
    :widths: 55 10 10 10 15
-   :name: tbl-2023-currencies-employees
-   :class: std3col sortable
+   :name: tbl-2024-currencies-employees
+   :class: sortable tbl_currency
 
-   +--------------------------------------+------+---------+
-   | Currency (code)                      | |N|  | Rate    |
-   +======================================+======+=========+
-   | United States Dollar (USD)           | 487  | 1.00000 |
-   +--------------------------------------+------+---------+
-   | Euro (EUR)                           | 147  | 1.08396 |
-   +--------------------------------------+------+---------+
-   | Canadian Dollar (CAD)                | 73   | 0.74068 |
-   +--------------------------------------+------+---------+
-   | British Pound Sterling (GBP)         | 55   | 1.25209 |
-   +--------------------------------------+------+---------+
-   | Australian Dollar (AUD)              | 41   | 0.65884 |
-   +--------------------------------------+------+---------+
-   | Indian Rupee (INR)                   | 27   | 0.01209 |
-   +--------------------------------------+------+---------+
-   | Romanian Leu (RON)                   | 17   | 0.23000 |
-   +--------------------------------------+------+---------+
-   | Polish Zloty (PLN)                   | 13   | 0.24198 |
-   +--------------------------------------+------+---------+
-   | Russian Ruble (RUB)                  | 12   | 0.01190 |
-   +--------------------------------------+------+---------+
-   | Israeli New Shekel (NIS)             | 12   | 0.26921 |
-   +--------------------------------------+------+---------+
-   | Czech Koruna (CZK)                   | 8    | 0.04484 |
-   +--------------------------------------+------+---------+
-   | South African Rand (ZAR)             | 7    | 0.05359 |
-   +--------------------------------------+------+---------+
-   | Ukrainian Hryvnia (UAH)              | 6    | 0.02720 |
-   +--------------------------------------+------+---------+
-   | Mexican Peso (MXN)                   | 5    | 0.05734 |
-   +--------------------------------------+------+---------+
-   | Japanese Yen (JPY)                   | 5    | 0.00700 |
-   +--------------------------------------+------+---------+
-   | Brazilian Real (BRL)                 | 4    | 0.20030 |
-   +--------------------------------------+------+---------+
-   | New Zealand Dollar (NZD)             | 4    | 0.61072 |
-   +--------------------------------------+------+---------+
-   | Swedish Krona (SEK)                  | 4    | 0.09427 |
-   +--------------------------------------+------+---------+
-   | Swiss Franc (CHF)                    | 4    | 1.12614 |
-   +--------------------------------------+------+---------+
-   | Norwegian Krone (NOK)                | 1    | 0.09413 |
-   +--------------------------------------+------+---------+
-   | United Arab Emirates Dirham (AED)    | 1    | 0.27227 |
-   +--------------------------------------+------+---------+
-   | Indonesian Rupiah (IDR)              | 1    | 0.00007 |
-   +--------------------------------------+------+---------+
-   | Kenyan Shilling (KES)                | 1    | 0.00720 |
-   +--------------------------------------+------+---------+
-   | Thai Baht (THB)                      | 1    | 0.02851 |
-   +--------------------------------------+------+---------+
-   | Singapore Dollar (SGD)               | 1    | 0.74368 |
-   +--------------------------------------+------+---------+
-   | Danish Krone (DKK)                   | 1    | 0.14532 |
-   +--------------------------------------+------+---------+
+   +-----------------------------------+------------+--------+--------+
+   | Currency (code)                   | Rate       | |N|    | |%|    |
+   +===================================+============+========+========+
+   | United States Dollar (USD)        | 1.0        | 321    |  45.0% |
+   +-----------------------------------+------------+--------+--------+
+   | Euro (EUR)                        | 1.08       | 105    |  14.7% |
+   +-----------------------------------+------------+--------+--------+
+   | Canadian Dollar (CAD)             | 0.7303     | 76     |  10.7% |
+   +-----------------------------------+------------+--------+--------+
+   | British Pound Sterling (GBP)      | 1.28       | 43     |   6.0% |
+   +-----------------------------------+------------+--------+--------+
+   | Indian Rupee (INR)                | 0.012      | 40     |   5.6% |
+   +-----------------------------------+------------+--------+--------+
+   | Australian Dollar (AUD)           | 0.6602     | 40     |   5.6% |
+   +-----------------------------------+------------+--------+--------+
+   | Israeli New Shekel (NIS)          | 0.2703     | 26     |   3.6% |
+   +-----------------------------------+------------+--------+--------+
+   | Swedish Krona (SEK)               | 0.0947     | 9      |   1.3% |
+   +-----------------------------------+------------+--------+--------+
+   | Romanian Leu (RON)                | 0.2176     | 7      |   1.0% |
+   +-----------------------------------+------------+--------+--------+
+   | Czech Koruna (CZK)                | 0.0431     | 6      |   0.8% |
+   +-----------------------------------+------------+--------+--------+
+   | New Zealand Dollar (NZD)          | 0.6055     | 4      |   0.6% |
+   +-----------------------------------+------------+--------+--------+
+   | Hungarian Forint (HUF)            | 0.0027     | 3      |   0.4% |
+   +-----------------------------------+------------+--------+--------+
+   | Norwegian Krone (NOK)             | 0.0931     | 3      |   0.4% |
+   +-----------------------------------+------------+--------+--------+
+   | Colombian Peso (COP)              | 0.0002     | 2      |   0.3% |
+   +-----------------------------------+------------+--------+--------+
+   | Serbian Dinar (RSD)               | 0.0092     | 2      |   0.3% |
+   +-----------------------------------+------------+--------+--------+
+   | Kazakhstani Tenge (KZT)           | 0.0021     | 2      |   0.3% |
+   +-----------------------------------+------------+--------+--------+
+   | Mexican Peso (MXN)                | 0.0549     | 2      |   0.3% |
+   +-----------------------------------+------------+--------+--------+
+   | Polish Złoty (PLN)                | 0.2514     | 2      |   0.3% |
+   +-----------------------------------+------------+--------+--------+
+   | United Arab Emirates Dirham (AED) | 0.2723     | 2      |   0.3% |
+   +-----------------------------------+------------+--------+--------+
+   | Brazilian Real (BRL)              | 0.1866     | 2      |   0.3% |
+   +-----------------------------------+------------+--------+--------+
+   | Philippine Peso (PHP)             | 0.0175     | 2      |   0.3% |
+   +-----------------------------------+------------+--------+--------+
+   | Japanese Yen (JPY)                | 0.0066     | 2      |   0.3% |
+   +-----------------------------------+------------+--------+--------+
+   | Russian Ruble (RUB)               | 0.0108     | 2      |   0.3% |
+   +-----------------------------------+------------+--------+--------+
+   | Danish Krone (DKK)                | 0.1451     | 1      |   0.1% |
+   +-----------------------------------+------------+--------+--------+
+   | Pakistani Rupee (PKR)             | 0.0036     | 1      |   0.1% |
+   +-----------------------------------+------------+--------+--------+
+   | Turkish Lira (TRY)                | 0.0305     | 1      |   0.1% |
+   +-----------------------------------+------------+--------+--------+
+   | Chilean Peso (CLP)                | 0.0011     | 1      |   0.1% |
+   +-----------------------------------+------------+--------+--------+
+   | Swiss Franc (CHF)                 | 1.14       | 1      |   0.1% |
+   +-----------------------------------+------------+--------+--------+
+   | Argentine Peso (ARS)              | 0.0011     | 1      |   0.1% |
+   +-----------------------------------+------------+--------+--------+
+   | South African Rand (ZAR)          | 0.0546     | 1      |   0.1% |
+   +-----------------------------------+------------+--------+--------+
+   | Thai Baht (THB)                   | 0.0284     | 1      |   0.1% |
+   +-----------------------------------+------------+--------+--------+
+   | Chinese Yuan Renminbi (CNY)       | 0.139      | 1      |   0.1% |
+   +-----------------------------------+------------+--------+--------+
+   | Bulgarian Lev (BGN)               | 0.5534     | 1      |   0.1% |
+   +-----------------------------------+------------+--------+--------+
 
 Pay interval
 ------------
@@ -3080,37 +3088,51 @@ Contract rates
 
    </details>
 
+.. WRITE: 94 contractor rates entered - breakdown by type
+
 Currencies
 ~~~~~~~~~~
 
-.. WRITE: currency summary
-
-Contractor respondents were paid in 7 different currencies. To make comparisons possible, all currencies were converted to USD using mid-market exchange rates, averaged for the whole of 2023.
-
-.. TABLE: currencies
+Contractor respondents were paid in 15 different currencies. To make comparisons possible, all currencies were converted to USD using mid-market exchange rates, averaged for the whole of 2024.
 
 .. table:: Currencies and exchange rates - contractors
    :widths: 70 15 15 
-   :name: tbl-2023-currencies-exchange-rates-contractors
-   :class: std3col sortable
+   :name: tbl-2024-currencies-exchange-rates-contractors
+   :class: sortable tbl_currency
 
-   +------------------------------+-----+---------+
-   | Currency                     | |N| | Rate    |
-   +==============================+=====+=========+
-   | United States Dollar (USD)   | 44  |       1 |
-   +------------------------------+-----+---------+
-   | Euro (EUR)                   | 15  | 1.08396 |
-   +------------------------------+-----+---------+
-   | Canadian Dollar (CAD)        | 7   | 0.74068 |
-   +------------------------------+-----+---------+
-   | Australian Dollar (AUD)      | 5   | 0.65884 |
-   +------------------------------+-----+---------+
-   | British Pound Sterling (GBP) | 5   | 1.25209 |
-   +------------------------------+-----+---------+
-   | Ukrainian Hryvnia (UAH)      | 2   |  0.0272 |
-   +------------------------------+-----+---------+
-   | Polish Zloty (PLN)           | 1   | 0.24198 |
-   +------------------------------+-----+---------+
+   +-----------------------------------+------------+--------+--------+
+   | Currency (code)                   | Rate       | |N|    | |%|    |
+   +===================================+============+========+========+
+   | United States Dollar (USD)        | 1          | 56     |  59.6% |
+   +-----------------------------------+------------+--------+--------+
+   | Euro (EUR)                        | 1.08       | 13     |  13.8% |
+   +-----------------------------------+------------+--------+--------+
+   | British Pound Sterling (GBP)      | 1.28       | 7      |   7.4% |
+   +-----------------------------------+------------+--------+--------+
+   | Australian Dollar (AUD)           | 0.6602     | 3      |   3.2% |
+   +-----------------------------------+------------+--------+--------+
+   | Canadian Dollar (CAD)             | 0.7303     | 3      |   3.2% |
+   +-----------------------------------+------------+--------+--------+
+   | Polish Złoty (PLN)                | 0.2514     | 2      |   2.1% |
+   +-----------------------------------+------------+--------+--------+
+   | Israeli New Shekel (NIS)          | 0.2703     | 2      |   2.1% |
+   +-----------------------------------+------------+--------+--------+
+   | Danish Krone (DKK)                | 0.1451     | 1      |   1.1% |
+   +-----------------------------------+------------+--------+--------+
+   | New Taiwan Dollar (TWD)           | 0.0312     | 1      |   1.1% |
+   +-----------------------------------+------------+--------+--------+
+   | Norwegian Krone (NOK)             | 0.0931     | 1      |   1.1% |
+   +-----------------------------------+------------+--------+--------+
+   | Japanese Yen (JPY)                | 0.0066     | 1      |   1.1% |
+   +-----------------------------------+------------+--------+--------+
+   | New Zealand Dollar (NZD)          | 0.6055     | 1      |   1.1% |
+   +-----------------------------------+------------+--------+--------+
+   | Indian Rupee (INR)                | 0.012      | 1      |   1.1% |
+   +-----------------------------------+------------+--------+--------+
+   | South African Rand (ZAR)          | 0.0546     | 1      |   1.1% |
+   +-----------------------------------+------------+--------+--------+
+   | Sri Lankan Rupee (LKR)            | 0.0033     | 1      |   1.1% |
+   +-----------------------------------+------------+--------+--------+
 
 Location of contractors
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -3220,6 +3242,8 @@ The hourly rate was the most popular option, utilized by 73.4% of respondents (a
 Median hourly rate
 ~~~~~~~~~~~~~~~~~~
 
+.. WRITE: median hourly rate
+
 The median hourly rate across all regions (from 58 respondents) was USD $53. Drilling down to North America (34 respondents), that rises to USD $55, and this number stays the same when examining the United States only (27 respondents). 
 
 Looking at Europe, the median hourly rate was USD $33 (19 respondents). No further splits are possible in this region. 
@@ -3227,12 +3251,16 @@ Looking at Europe, the median hourly rate was USD $33 (19 respondents). No furth
 Median day rate
 ~~~~~~~~~~~~~~~
 
+.. WRITE: median day rate
+
 The median day rate across all regions (30 respondents) was USD $447. Looking at North America only (12 respondents), this goes up to USD $465, and in the United States only (10 respondents) to USD $480.  
 
 Looking only at Europe (13 respondents), the median day rate was USD $242.
 
 Median monthly rate
 ~~~~~~~~~~~~~~~~~~~
+
+.. WRITE: median monthly rate
 
 The median monthly rate across all regions (34 respondents) was USD $4,168. There were not enough monthly rate values entered to publish a figure for North America or the United States, but examining Europe only (20 respondents) the median was USD $3,519. No further breakdowns are possible.
 
