@@ -559,11 +559,9 @@ Length of time in current role
 
    </details>
 
-.. WRITE: writeup 2024 "time in current role"
-
 .. IDEA: use JS to add sort order data attribute to time in current role/time contracting tables
 
-A spike in respondents with new jobs was first seen in 2021, with 31.7% of respondents reported being in their current position at their current organization for less than a year. In 2022, this number peaked at 36.8% - when respondents with new jobs outstripped the number who had held their current position for medium or long terms. In 2023, the number of respondents with new jobs has fallen again, to 20.3% - lower than in 2020 although still well above the 9% reported in 2019. 
+A spike in respondents with new jobs was first seen in 2021, with 31.7% of respondents reported being in their current position at their current organization for less than a year. In 2022, this number peaked at 36.8% - when respondents with new jobs outstripped the number who had held their current position for medium or long terms. In 2023, the number of respondents with new jobs fell again, to 20.3% - lower than in 2020 although still well above the 9% reported in 2019, and this number has remained steady in 2024, at 21.8%.
 
 .. raw:: html
 
@@ -652,11 +650,7 @@ Proportion of role related to documentation
 
    </details>
 
-.. WRITE: write up "proportion of role"
-
-.. TABLE: update tables for "proportion of role"
-
-.. CHART: charts for "proportion of role"
+.. WRITE: proportion of role
 
 The majority of respondents (73.5% in 2023, almost exactly the same proportion as in 2022) reported that documentation makes up both their whole official job description, and most or all of their day-to-day tasks (87.2% reporting more than 51% of their daily workload). The portion of respondents performing documentation-related tasks even though it's not part of their job description remained steady. 
 
@@ -670,20 +664,20 @@ The majority of respondents (73.5% in 2023, almost exactly the same proportion a
 
 .. table:: Portion of role officially documentation-related
    :widths: 70 15 15
-   :name: tbl-2023-portion-of-role-officially-documentation-related
+   :name: tbl-2024-portion-of-role-officially-documentation-related
    :class: std3col sortable
 
-   +--------------------------------------+-----+-------+
-   | Portion of role                      | |N| | |%|   |
-   +======================================+=====+=======+
-   | Wholly documentation                 | 747 | 73.5% |
-   +--------------------------------------+-----+-------+
-   | Partly documentation                 | 238 | 23.4% |
-   +--------------------------------------+-----+-------+
-   | Not documentation, but it's expected | 22  | 2.2%  |
-   +--------------------------------------+-----+-------+
-   | Not documentation, and not expected  | 10  | 1.0%  |
-   +--------------------------------------+-----+-------+
+   +------------------------------------------+--------+--------+
+   | Portion of role                          | |N|    | |%|    |
+   +==========================================+========+========+
+   | Wholly documentation                     | 537    | 68.85% |
+   +------------------------------------------+--------+--------+
+   | Partly documentation                     | 215    | 27.56% |
+   +------------------------------------------+--------+--------+
+   | Not documentation, but it's expected     | 20     | 2.56%  |
+   +------------------------------------------+--------+--------+
+   | Not documentation, and not expected      | 8      | 1.03%  |
+   +------------------------------------------+--------+--------+
 
 .. raw:: html
 
@@ -691,29 +685,32 @@ The majority of respondents (73.5% in 2023, almost exactly the same proportion a
 
 .. table:: Portion of role actually documentation-related
    :widths: 70 15 15
-   :name: tbl-2023-portion-of-role-actually-documentation-related
+   :name: tbl-2024-portion-of-role-actually-documentation-related
    :class: std3col sortable
 
-   +--------------------------------------+-----+-------+
-   | Portion of role                      | |N| | |%|   |
-   +======================================+=====+=======+
-   | 76-100%                              | 582 | 57.2% |
-   +--------------------------------------+-----+-------+
-   | 51-75%                               | 305 | 30.0% |
-   +--------------------------------------+-----+-------+
-   | 26-50%                               |  87 | 8.6%  |
-   +--------------------------------------+-----+-------+
-   | 0-25%                                | 43  | 4.2%  |
-   +--------------------------------------+-----+-------+   
+   +--------------------------+--------+--------+
+   | Portion of role          | |N|    | |%|    |
+   +==========================+========+========+
+   | 76-100%                  | 427    | 54.74% |
+   +--------------------------+--------+--------+
+   | 51-75%                   | 248    | 31.79% |
+   +--------------------------+--------+--------+
+   | 26-50%                   | 75     | 9.62%  |
+   +--------------------------+--------+--------+
+   | 0-25%                    | 30     | 3.85%  |
+   +--------------------------+--------+--------+
 
 .. raw:: html
 
    </div></div>
 
+
+.. CHART: proportion of role; actual portion vs official portion
+
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Portion of role officially documentation-related" aria-describedby="figure_proportion-of-role-officially-docs-related_desc" type="image/svg+xml" data="/_images/2023-portion-of-role-officially-docs-related.svg">
+      <object role="img" aria-label="Portion of role officially documentation-related" aria-describedby="figure_proportion-of-role-officially-docs-related_desc" type="image/svg+xml" data="/_images/2024-portion-of-role-officially-docs-related.svg">
          <p id="figure_proportion-of-role-officially-docs-related_desc">Donut chart showing what proportion of respondents official job description was documentation-related.</p>
       </object> 
       <figcaption>Figure: Portion of role officially documentation-related</figcaption>
