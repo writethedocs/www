@@ -38,6 +38,8 @@
 
 .. IDEA: work out how to implement the nav menu on mobile - hamburger?
 
+.. IDEA: make hidden sort column in tables
+
 .. contents:: Table of contents
    :depth: 3
    :backlinks: none
@@ -2642,64 +2644,59 @@ Employee satisfaction
 
    </details>
 
-
-.. WRITE: employee satisfaction results
-
-Looking at all regions, 68.7% of all employee respondents were satisfied with their salary and benefits package - 25.6% rated themselves "very satisfied". 
-
-.. TABLE: salary satisfaction
+The majority of employee respondents (71.8%) said they were satisfied (46%) or very satisfied (25.8%) with their salary and benefits, while a similar percentage (71.3%) said they were satisfied (44.9%) or very satisfied (26.4%) with their overall employment conditions.
 
 .. raw:: html
 
-   <div class="tab-wrap"><input type="radio" id="tabF1a-1" name="tabGroupF1a" class="tab" checked><label for="tabF1a-1">Salary satisfaction</label><input type="radio" id="tabF1a-2" name="tabGroupF1a" class="tab"><label for="tabF1a-2">Job satisfaction</label><div class="tab__content">
+   <div class="tab-wrap"><input type="radio" id="tabF1a-1" name="tabGroupF1a" class="tab" checked><label for="tabF1a-1">Salary satisfaction</label><input type="radio" id="tabF1a-2" name="tabGroupF1a" class="tab"><label for="tabF1a-2">Overall satisfaction</label><div class="tab__content">
 
-.. table:: Employee salary satisfaction
+.. table:: Salary satisfaction
    :widths: 70 15 15
-   :name: tbl-2023-employee-salary-satisfaction
+   :name: tbl-2024-employee-salary-satisfaction
    :class: std3col sortable
 
-   +---------------------+-----+-------+
-   | Salary satisfaction | |N| | |%|   |
-   +=====================+=====+=======+
-   | Satisfied           | 398 | 43.2% |
-   +---------------------+-----+-------+
-   | Very satisfied      | 237 | 25.7% |
-   +---------------------+-----+-------+
-   | Neutral             | 150 | 16.3% |
-   +---------------------+-----+-------+
-   | Unsatisfied         | 119 | 12.9% |
-   +---------------------+-----+-------+
-   | Very unsatisfied    | 18  | 2.0%  |
-   +---------------------+-----+-------+
+   +-------------------------+--------+--------+
+   | Salary satisfaction     | |N|    | |%|    |
+   +=========================+========+========+
+   | Satisfied               | 328    | 46.0%  |
+   +-------------------------+--------+--------+
+   | Very satisfied          | 184    | 25.8%  |
+   +-------------------------+--------+--------+
+   | Neutral                 | 109    | 15.3%  |
+   +-------------------------+--------+--------+
+   | Unsatisfied             | 79     | 11.1%  |
+   +-------------------------+--------+--------+
+   | Very unsatisfied        | 13     | 1.8%   |
+   +-------------------------+--------+--------+
 
 .. raw:: html
 
    </div><div class="tab__content">
 
-.. TABLE: job satisfaction
-
-.. table:: Employee job satisfaction
+.. table:: Overall satisfaction
    :widths: 70 15 15
-   :name: tbl-2023-employee-job-satisfaction
+   :name: tbl-2024-employee-overall-satisfaction
    :class: std3col sortable
 
-   +--------------------------+-----+-------+
-   | Job satisfaction         | |N| | |%|   |
-   +==========================+=====+=======+
-   | Satisfied                | 436 | 46.5% |
-   +--------------------------+-----+-------+
-   | Very satisfied           | 224 | 23.9% |
-   +--------------------------+-----+-------+
-   | Neutral                  | 165 | 17.6% |
-   +--------------------------+-----+-------+
-   | Unsatisfied              | 95  | 10.1% |
-   +--------------------------+-----+-------+
-   | Very unsatisfied         | 18  | 1.9%  |
-   +--------------------------+-----+-------+
+   +--------------------------+--------+--------+
+   | Overall satisfaction     | |N|    | |%|    |
+   +==========================+========+========+
+   | Satisfied                | 320    | 44.9%  |
+   +--------------------------+--------+--------+
+   | Very satisfied           | 188    | 26.4%  |
+   +--------------------------+--------+--------+
+   | Neutral                  | 128    | 18.0%  |
+   +--------------------------+--------+--------+
+   | Unsatisfied              | 61     | 8.6%   |
+   +--------------------------+--------+--------+
+   | Very unsatisfied         | 16     | 2.2%   |
+   +--------------------------+--------+--------+
 
 .. raw:: html
 
    </div></div>
+
+.. CHART: salary and overall job satisfaction
 
 Factors affecting salary satisfaction
 -------------------------------------
@@ -3133,100 +3130,6 @@ Contractor respondents were paid in 15 different currencies. To make comparisons
    +-----------------------------------+------------+--------+--------+
    | Sri Lankan Rupee (LKR)            | 0.0033     | 1      |   1.1% |
    +-----------------------------------+------------+--------+--------+
-
-Location of contractors
-~~~~~~~~~~~~~~~~~~~~~~~
-
-.. WRITE: contractor location summary
-
-.. TABLE: contractor location
-
-.. raw:: html
-
-   <div class="tab-wrap"><input type="radio" id="tabZ3-1" name="tabGroupZ3" class="tab" checked><label for="tabZ3-1">North America</label><input type="radio" id="tabZ3-2" name="tabGroupZ3" class="tab"><label for="tabZ3-2">Europe</label><input type="radio" id="tabZ3-3" name="tabGroupZ3" class="tab"><label for="tabZ3-3">Other regions</label><div class="tab__content">
-
-.. table:: Location - North America - contractors
-   :widths: 70 15 15
-   :name: tbl-2023-geographical-location-north-america-contractors
-   :class: std3col sortable
-
-   +------------------+-----+-------+
-   | Region           | |N| | |%|   |
-   +==================+=====+=======+
-   | North America    |  35 | 44.3% |
-   +------------------+-----+-------+
-   | - United States  |  28 |       |
-   +------------------+-----+-------+
-   | - Canada         |   7 |       |
-   +------------------+-----+-------+
-
-.. raw:: html
-
-   </div><div class="tab__content">
-
-.. table:: Location - Europe - contractors
-   :widths: 70 15 15
-   :name: tbl-2023-geographical-location-europe-contractors
-   :class: std3col sortable
-
-   +------------------+-----+-------+
-   | Region           | |N| | |%|   |
-   +==================+=====+=======+
-   | Europe           |  34 | 43.0% |
-   +------------------+-----+-------+
-   | - Poland         |   9 |       |
-   +------------------+-----+-------+
-   | - Ukraine        |   9 |       |
-   +------------------+-----+-------+
-   | - United Kingdom |   5 |       |
-   +------------------+-----+-------+
-   | - Netherlands    |   3 |       |
-   +------------------+-----+-------+
-   | - Germany        |   2 |       |
-   +------------------+-----+-------+
-   | - Hungary        |   2 |       |
-   +------------------+-----+-------+
-   | - Portugal       |   1 |       |
-   +------------------+-----+-------+
-   | - Spain          |   1 |       |
-   +------------------+-----+-------+
-   | - Georgia        |   1 |       |
-   +------------------+-----+-------+
-   | - Austria        |   1 |       |
-   +------------------+-----+-------+
-   
-.. raw:: html
-
-   </div><div class="tab__content">
-
-.. table:: Location - other regions - contractors
-   :widths: 70 15 15
-   :name: tbl-2023-geographical-location-other-regions-contractors
-   :class: std3col sortable
-
-   +------------------+-----+-------+
-   | Region           | |N| | |%|   |
-   +==================+=====+=======+
-   | Oceania          |   6 |  7.6% |
-   +------------------+-----+-------+
-   | - Australia      |   6 |       |
-   +------------------+-----+-------+
-   | Africa           |   3 |  3.8% |
-   +------------------+-----+-------+
-   | - Nigeria        |   1 |       |
-   +------------------+-----+-------+
-   | - South Africa   |   1 |       |
-   +------------------+-----+-------+
-   | - Rwanda         |   1 |       |
-   +------------------+-----+-------+
-   | South America    |   1 |  1.3% |
-   +------------------+-----+-------+
-   | - Argentina      |   1 |       |
-   +------------------+-----+-------+
-
-.. raw:: html
-
-   </div></div>
 
 Fee structures
 ~~~~~~~~~~~~~~
