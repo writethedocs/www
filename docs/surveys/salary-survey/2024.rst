@@ -650,9 +650,7 @@ Proportion of role related to documentation
 
    </details>
 
-.. WRITE: proportion of role
-
-The majority of respondents (73.5% in 2023, almost exactly the same proportion as in 2022) reported that documentation makes up both their whole official job description, and most or all of their day-to-day tasks (87.2% reporting more than 51% of their daily workload). The portion of respondents performing documentation-related tasks even though it's not part of their job description remained steady. 
+The majority of respondents (68.8%) reported that documentation makes up their whole official job description, and most or all of their day-to-day tasks (54.7% reporting more than 76% of their daily workload). The portion of respondents performing documentation-related tasks even though it's not part of their job description remained steady at 2.6%.
 
 .. raw:: html
 
@@ -703,7 +701,6 @@ The majority of respondents (73.5% in 2023, almost exactly the same proportion a
 .. raw:: html
 
    </div></div>
-
 
 .. CHART: proportion of role; actual portion vs official portion
 
