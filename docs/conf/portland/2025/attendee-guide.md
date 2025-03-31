@@ -19,13 +19,12 @@ Join us for an introduction to Write the Docs. We’ll go on a short tour of the
 Welcome Wagon Tours are scheduled for:
 
 - **Sunday** - meet on the 1st floor at Registration by Martha's Cafe
-  - Before lunch
-  - After lunch
-  - Before the Welcome Reception
-- **Monday** - meet on the 2nd floor at the Registration table
-  - Morning
+  - 11:50am - Before lunch
+  - 1:30pm - After lunch
+  - 4:30pm - Before the Welcome Reception
 
-*Exact times to come
+- **Monday** - meet on the 2nd floor at the Registration table
+  - 8:15am - Before the conference starts
 
 ## Conference Layout
 
@@ -37,7 +36,9 @@ We will provide a venue map in April.
 
 - Snacks, coffee, tea, and water are included with your ticket. Vegan, vegetarian, gluten-free, and dairy-free options will be offered. 
 - Bring a water bottle as there are refill stations located around the venue.
-- 🆕 **NEW this year:** Two food carts will be brought in for Monday and Tuesday lunches from 12-2pm. This is a great option for folks who want to stay onsite.
+- 🆕 **NEW this year:** Two food carts will be brought in for Monday and Tuesday lunches from 11:30am-2pm. This is a great option for folks who want to stay onsite.
+  - [Let's Roll](https://www.letsrollpdx.com/)
+  - [Nacho's House](https://nachospdx.com/)
 - There are many food and beverage options within 0.5 miles (0.8 km) around the conference venue. Explore Portland’s amazing food scene on the [Visiting Portland page](https://www.writethedocs.org/conf/portland/2025/visiting/).
 - The Welcome Wagon team will organize lunch and dinner meetups for folks interested in eating with others. Visit the **Registration** table during conference days to sign up.
 
