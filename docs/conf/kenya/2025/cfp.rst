@@ -124,7 +124,7 @@ Make sure you read this entire page before putting your proposal together, and p
 
 
 Unsure about speaking?
-------------------------
+----------------------
 
 Don't worry too much about whether we will accept your talk proposal. We encourage you to submit it anyway! You may be unsure if your topic is a good fit, whether you have enough speaking experience, or if someone else might give a better talk on your topic, but that does not mean you don't have valuable and awesome insights to share.
 
@@ -185,7 +185,7 @@ Example proposal
 Take a look at our :doc:`Example proposal <example-proposal>`, with additional guidance on the proposal format:
 
 Submit your proposal
---------------------------
+--------------------
 
 Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx account, unless you already have one from a previous conference.
 
