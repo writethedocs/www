@@ -32,13 +32,13 @@
    
   <nav>
 
-.. STYLE: dropdown for previous salary survey results menu
+.. IDEA: dropdown for previous salary survey results menu
 
-.. STYLE: current menu section and sub-sections: make them clearer - what about automatically updating as you scroll?
+.. IDEA: current menu section and sub-sections: make them clearer - what about automatically updating as you scroll?
 
 .. IDEA: work out how to implement the nav menu on mobile - hamburger?
 
-.. IDEA: make hidden sort column in tables
+.. IDEA: try alternative table sorting library that works with hidden sort columns
 
 .. contents:: Table of contents
    :depth: 3
@@ -56,15 +56,13 @@
    <div class="breadcrumbs"><a href="/">Home</a> &raquo; <a href="/surveys/">Salary Surveys</a> &raquo;</div>
   <main>
 
-.. STYLE: add survey-only newsletter signup form 
+.. IDEA: add survey-only newsletter signup form 
 
 .. _top:
 
 ****************************************
 Documentation Salary Survey 2024 Results
 ****************************************
-
-.. STYLE: table tabs
 
 Introduction
 ============
@@ -137,29 +135,26 @@ As in previous surveys, employees made up the majority of respondents (686, or 8
 For the first time this year, we included a third option - for respondents who had worked in the past year as both employee and contractor. 28 respondents (3.6%) chose this option, and provided both salary and contract rate data. This means that in total there are 714 employee responses and 94 contractor responses.
 
 .. table:: Basis of employment (2019-2024)
-   :widths: 60 20 20 
    :name: tbl-2024-basis-of-employment-history
    :class: sortable
 
-   +-------------+-----------------+------------------+
-   | Survey year | Employees       | Contractors      |
-   +             +---------+-------+----------+-------+
-   |             | |N|     | |%|   | |N|      |  |%|  |
-   +=============+=========+=======+==========+=======+
-   | 2019        | 652     | 93.9% | 42       |  6.1% |
-   +-------------+---------+-------+----------+-------+
-   | 2020        | 748     | 92.9% | 57       |  7.1% |
-   +-------------+---------+-------+----------+-------+
-   | 2021        | 887     | 92.5% | 72       |  7.5% |
-   +-------------+---------+-------+----------+-------+
-   | 2022        | 491     | 93.5% | 34       |  6.5% |
-   +-------------+---------+-------+----------+-------+
-   | 2023        | 938     | 92.2% | 79       |  7.8% |
-   +-------------+---------+-------+----------+-------+
-   | 2024 [*]_   | 714     | 88.4% | 94       | 11.6% |
-   +-------------+---------+-------+----------+-------+
+   +-----------------+-------------+-------------+
+   | Survey year     | Employees   | Contractors |
+   +=================+=============+=============+
+   | 2019            | 652 (93.9%) |  42 (6.1%)  |
+   +-----------------+-------------+-------------+
+   | 2020            | 748 (92.9%) |  57 (7.1%)  |
+   +-----------------+-------------+-------------+
+   | 2021            | 887 (92.5%) |  72 (7.5%)  |
+   +-----------------+-------------+-------------+
+   | 2022            | 491 (93.5%) |  34 (6.5%)  |
+   +-----------------+-------------+-------------+
+   | 2023            | 938 (92.2%) |  79 (7.8%)  |
+   +-----------------+-------------+-------------+
+   | 2024 [*]_       | 714 (88.4%) | 94 (11.6%)  |
+   +-----------------+-------------+-------------+
 
-.. [*] Totals include 66 respondents who worked as both employee and contractor 
+.. [*] Includes 66 employee-contractor respondents who are counted twice - once as an employee and once as a contractor 
 
 As in previous years, we encouraged those currently not working to respond as though still at their previous job/contract, provided they had worked at least some of the past year. 16 employees (2.3%) and 7 contractors (10.6%) filled out the survey on this basis.
 
@@ -561,8 +556,6 @@ Length of time in current role
 
    </details>
 
-.. IDEA: use JS to add sort order data attribute to time in current role/time contracting tables
-
 A spike in respondents with new jobs was first seen in 2021, with 31.7% of respondents reported being in their current position at their current organization for less than a year. In 2022, this number peaked at 36.8% - when respondents with new jobs outstripped the number who had held their current position for medium or long terms. In 2023, the number of respondents with new jobs fell again, to 20.3% - lower than in 2020 although still well above the 9% reported in 2019, and this number has remained steady in 2024, at 21.8%.
 
 .. raw:: html
@@ -572,21 +565,21 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
 .. table:: Length of time in current role - employees
    :widths: 70 15 15
    :name: tbl-2024-length-of-time-in-current-role-employees
-   :class: std3col sortable
+   :class: std3col sortable 
 
-   +---------------------------+--------+--------+
-   | Time in current role      | |N|    | |%|    |
-   +===========================+========+========+
-   | 2-5 years                 | 274    | 38.4%  |
-   +---------------------------+--------+--------+
-   | 0-1 year                  | 156    | 21.8%  |
-   +---------------------------+--------+--------+
-   | 1-2 years                 | 131    | 18.3%  |
-   +---------------------------+--------+--------+
-   | 5-10 years                | 110    | 15.4%  |
-   +---------------------------+--------+--------+
-   | 10+ years                 | 43     | 6.0%   |
-   +---------------------------+--------+--------+
+   +-------------------------+-----+-------+
+   | Time in current role    | |N| | |%|   |
+   +=========================+=====+=======+
+   | 2-5 years               | 274 | 38.4% |
+   +-------------------------+-----+-------+
+   | 0-1 year                | 156 | 21.8% |
+   +-------------------------+-----+-------+
+   | 1-2 years               | 131 | 18.3% |
+   +-------------------------+-----+-------+
+   | 5-10 years              | 110 | 15.4% |
+   +-------------------------+-----+-------+
+   | more than 10 years      | 43  | 6.0%  |
+   +-------------------------+-----+-------+
 
 .. raw:: html
 
@@ -600,15 +593,15 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
    +------------------------+--------+--------+
    | Time contracting       | |N|    | |%|    |
    +========================+========+========+
-   | 1-2                    | 23     | 24.5%  |
+   | 1-2 years              | 23     | 24.5%  |
    +------------------------+--------+--------+
-   | 0-1                    | 19     | 20.2%  |
+   | 0-1 year               | 19     | 20.2%  |
    +------------------------+--------+--------+
-   | 10                     | 18     | 19.1%  |
+   | more than 10 years     | 18     | 19.1%  |
    +------------------------+--------+--------+
-   | 5-10                   | 18     | 19.1%  |
+   | 5-10 year              | 18     | 19.1%  |
    +------------------------+--------+--------+
-   | 2-5                    | 16     | 17.0%  |
+   | 2-5 years              | 16     | 17.0%  |
    +------------------------+--------+--------+
 
 .. CHART: chart for "time in current role"

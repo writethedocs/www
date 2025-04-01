@@ -272,7 +272,6 @@ a {
 }
 
 /* element-specific styling (incl. typography & color) */
-
 hr {
 	border: 0;
 	height: 0;
@@ -281,8 +280,6 @@ hr {
 	margin: var(--size-6) 0;
 	padding: 0;
 }
-
-
 
 /* external links */
 a[target="_blank"]::after, a.external::after {
@@ -356,7 +353,6 @@ nav ul {
 	margin: 0; 
 	padding: 0;
 	font-family: var(--font-serif);
-
 }
 
 /* hide first internal nav link */
@@ -614,7 +610,7 @@ main {
 			
 
 		}
-		&&.std3col {
+		&&.std3col:not(.sortcol) {
 			thead {
 				tr {
 					th {
@@ -634,6 +630,32 @@ main {
 							text-align: center;
 						}
 						&&:nth-of-type(3) {
+							text-align: right;
+						}
+					}
+				}
+			}
+		}
+		&&.std3col.sortcol {
+			thead {
+				tr {
+					th {
+						&&:nth-of-type(3) {
+							text-align: center;
+						}
+						&&:nth-of-type(4) {
+							text-align: right;
+						}
+					}
+				}
+			}
+			tbody {
+				tr {
+					td {
+						&&:nth-of-type(3) {
+							text-align: center;
+						}
+						&&:nth-of-type(4) {
 							text-align: right;
 						}
 					}
@@ -791,6 +813,11 @@ dl.footnote.brackets {
 	}
 }
 
+#tbl-2024-basis-of-employment-history {
+
+
+}
+
 
 /* CSS tabs */
 .tab-wrap {
@@ -924,75 +951,76 @@ dl.footnote.brackets {
 
 /* table sorting */
 .sortable thead th:not(.no-sort) {
-	cursor: pointer
+	cursor: pointer;
 }
 
 .sortable thead th:not(.no-sort)::after,
 .sortable thead th:not(.no-sort)::before {
 	transition: color .1s ease-in-out;
 	font-size: 1.2em;
-	color: rgba(0, 0, 0, 0)
+	color: rgba(0, 0, 0, 0);
 }
 
 .sortable thead th:not(.no-sort)::after {
 	margin-left: 3px;
-	content: "▸"
+	content: "▸";
 }
 
 .sortable thead th:not(.no-sort):hover::after {
-	color: inherit
+	color: inherit;
 }
 
 .sortable thead th:not(.no-sort)[aria-sort=descending]::after {
 	color: inherit;
-	content: "▾"
+	content: "▾";
 }
 
 .sortable thead th:not(.no-sort)[aria-sort=ascending]::after {
 	color: inherit;
-	content: "▴"
+	content: "▴";
 }
 
 .sortable thead th:not(.no-sort).indicator-left::after {
-	content: ""
+	content: "";
 }
 
 .sortable thead th:not(.no-sort).indicator-left::before {
 	margin-right: 3px;
-	content: "▸"
+	content: "▸";
 }
 
 .sortable thead th:not(.no-sort).indicator-left:hover::before {
-	color: inherit
+	color: inherit;
 }
 
 .sortable thead th:not(.no-sort).indicator-left[aria-sort=descending]::before {
 	color: inherit;
-	content: "▾"
+	content: "▾";
 }
 
 .sortable thead th:not(.no-sort).indicator-left[aria-sort=ascending]::before {
 	color: inherit;
-	content: "▴"
+	content: "▴";
 }
 
 /* make all table headers sticky */
 .sortable thead th {
 	position: sticky;
 	top: 0;
-	z-index: 1
+	z-index: 1;
 }
 
 /* class to disable sticky headers */
-.sortable.nostick thead td {
+.sortable.nostick thead th {
 	position: static;
 }
 
 /* table sorting exceptions */
 
 /* standard 3 column table */
-.std3col.sortable {     
+.std3col.sortable:not(.sortcol) {     
     th:nth-of-type(3) { /* third column (%) not sortable */
       pointer-events: none;
     }	
 }
+
