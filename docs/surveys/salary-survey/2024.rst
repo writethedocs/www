@@ -32,8 +32,6 @@
    
   <nav>
 
-.. IDEA: dropdown for previous salary survey results menu
-
 .. IDEA: current menu section and sub-sections: make them clearer - what about automatically updating as you scroll?
 
 .. IDEA: work out how to implement the nav menu on mobile - hamburger?
@@ -64,8 +62,6 @@ Introduction
 .. WRITE: write intro
 
 In a hurry? Jump straight to `Median salary`_ or `Median hourly rate`_.
-
-.. IDEA: reorganization idea: put median salaries first, and then provide the background information that went into the median figures.
 
 .. container:: note
 
@@ -2458,8 +2454,6 @@ Employee benefits
    </details>
 
 .. WRITE: employee benefits
-
-.. TABLE: individuals with both statutory and eqiuvalent extra benefit i.e. vacation plus extra, healthcare plus extra  
 
 .. raw:: html
 

@@ -49,3 +49,19 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 });
+
+// Show the "Back to Top" button when scrolling
+window.onscroll = function() {
+  let button = document.getElementById("back-to-top");
+  if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+    button.style.display = "block";
+  } else {
+    button.style.display = "none";
+  }
+};
+
+// Scroll to top when the button is clicked
+document.getElementById("back-to-top").onclick = function() {
+  window.scrollTo({ top: 0, behavior: "smooth" });
+  return false;  // Prevent default action
+};

@@ -318,8 +318,24 @@ details + details {
 	margin-top: 0.5em;
 }
 
-/* TOC */
+/* back to top link */
+#back-to-top {
+  position: fixed;
+  bottom: var(--size-4);
+  right: var(--size-4);
+  color: var(--text-2);
+  padding: var(--size-2);
+  font-size: var(--font-size-1);
+  display: none;
+  cursor: pointer;
+	text-decoration: none;
+}
 
+#back-to-top:hover {
+ 
+}
+
+/* TOC */
 nav ul { 
 	margin: 0;
 	padding: 0;
