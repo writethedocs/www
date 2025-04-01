@@ -1,22 +1,17 @@
 Are you giving a talk at this year's in-person {{city}} Write the Docs? Great! Here are a
 few things that may help you plan for preparing and presenting your talk.
 
-Speaker Overview
-~~~~~~~~~~~~~~~~
-
-- Your talk is 30 minutes in length and should take up the entire slot, or close to it.
-- The venue projector is 1920 x 1200 resolution at 60Hz via HDMI, DisplayPort or VGA.
-- There will be a moderated live Q&A, around 10 minutes long, immediately following your talk.
 - The more you practice your talk, the more comfortable you'll be when presenting. In addition to practicing by yourself, we strongly recommend you do it in front of at least one other human.
 - If you haven't spoken before, your time will likely be shorter than when you are practicing.
 - Make sure your slides are high contrast.
-- Include where you want people to find you (e.g., LinkedIn, Bluesky) so people can properly attribute your brilliance. :)
+- Include where you want people to find you (e.g., LinkedIn, Bluesky) so people can properly attribute your brilliance.
 
 If you want to get some of that sweet internet buzz for your talk, we use the #writethedocs hashtag throughout the event.
 
-**Presentation Resources**
+Presentation Resources
+~~~~~~~~~~~~~~~~~~~~~~
 
-Here are a couple of great resources for new speakers:
+Here are some great resources for new speakers:
 
 - `An Introvert's Guide to Better Presentations <https://medium.com/@mathowie/an-introverts-guide-to-better-presentations-be7e772b2cb5>`__
 - `On Conference Speaking <https://hynek.me/articles/speaking/>`__

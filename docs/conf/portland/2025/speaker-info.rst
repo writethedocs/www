@@ -52,7 +52,7 @@ Conference Schedule
 
 Your speaker tech check will be directly before the morning or afternoon session you are speaking at, bring the laptop you'll be using to present.
 
-For example if you speak at 10:00am on Tuesday, your tech will be at 8:00am on Tuesday.
+For example if you speak at 10:00am on Tuesday, your tech will be at 8:00am on Tuesday. Meet in front of the main stage.
 
 View the full `attendee schedule <https://www.writethedocs.org/conf/portland/2025/schedule/>`__.
 
@@ -64,17 +64,17 @@ There are no speaker-specific requirements this day but we encourage you to join
 MONDAY
 ~~~~~~
 
-- 8:00-8:30am: Morning Speaker tech checks
+- 8:00-8:30am: Morning Speaker tech checks at main stage
 - 9:00am-11:55am: Speaker Talks
-- 11:55am-12:25pm: Afternoon Speaker tech checks
+- 11:55am-12:25pm: Afternoon Speaker tech checks at main stage
 - 1:45pm-4:40pm: Speaker Talks
 
 TUESDAY
 ~~~~~~~
 
-- 8:00am-8:30am: Morning Speaker tech checks
+- 8:00am-8:30am: Morning Speaker tech checks at main stage
 - 9:00-12:05pm: Speaker Talks
-- 12:05-12:25pm: Afternoon Speaker tech checkss
+- 12:05-12:25pm: Afternoon Speaker tech checkss at main stage
 - 2:00-3:50pm: Afternoon Speaker Talks
 
 Speaking Tips
@@ -86,7 +86,7 @@ Media Kit
 ----------
 
 Share with your communities that you are speaking at the conference.
-Download copy and graphics from our `Media Kit <https://drive.google.com/drive/folders/1gVmIjX5hMklJiFitAllukzENA4SIBic9?usp=sharing>`__.
+Download copy and graphics from our `Speaker Media Kit <https://drive.google.com/drive/folders/1gVmIjX5hMklJiFitAllukzENA4SIBic9?usp=sharing>`__.
 
 This includes:
 
