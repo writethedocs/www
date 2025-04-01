@@ -411,6 +411,20 @@ ul.simple > li {
 }
 
 
+/* other surveys jump menu */
+.survey-nav {
+	margin: var(--size-4) 0;
+	div {
+		margin: var(--size-2) 0;
+		display: flex;
+	}
+	select {
+		width: 60%;
+		margin-right: var(--size-4);
+	}
+}
+
+
 
 /* clickable section anchors */
 .headerlink {
@@ -610,7 +624,7 @@ main {
 			
 
 		}
-		&&.std3col:not(.sortcol) {
+		&.std3col {
 			thead {
 				tr {
 					th {
@@ -636,33 +650,31 @@ main {
 				}
 			}
 		}
-		&&.std3col.sortcol {
+		&.col2center {
 			thead {
-				tr {
-					th {
-						&&:nth-of-type(3) {
-							text-align: center;
-						}
-						&&:nth-of-type(4) {
-							text-align: right;
-						}
-					}
+				th:nth-of-type(2) {
+					text-align: center;
 				}
 			}
 			tbody {
-				tr {
-					td {
-						&&:nth-of-type(3) {
-							text-align: center;
-						}
-						&&:nth-of-type(4) {
-							text-align: right;
-						}
-					}
+				td:nth-of-type(2) {
+					text-align: center;
 				}
 			}
 		}
-		&&.medians {
+		&.col3center {
+			thead {
+				th:nth-of-type(3) {
+					text-align: center;
+				}
+			}
+			tbody {
+				td:nth-of-type(3) {
+					text-align: center;
+				}
+			}
+		}
+		&.medians {
 			thead {
 				th {
 					text-align: right;
@@ -812,12 +824,6 @@ dl.footnote.brackets {
 		}
 	}
 }
-
-#tbl-2024-basis-of-employment-history {
-
-
-}
-
 
 /* CSS tabs */
 .tab-wrap {
@@ -1018,9 +1024,23 @@ dl.footnote.brackets {
 /* table sorting exceptions */
 
 /* standard 3 column table */
-.std3col.sortable:not(.sortcol) {     
+.std3col.sortable:not {     
     th:nth-of-type(3) { /* third column (%) not sortable */
       pointer-events: none;
     }	
 }
+
+
+/* helper classes */
+.hidden-label {
+  position: absolute; 
+  width: 1px;         
+  height: 1px;        
+  margin: -1px;       
+  padding: 0;         
+  border: 0;          
+  clip: rect(0, 0, 0, 0); 
+  overflow: hidden;    
+}
+
 

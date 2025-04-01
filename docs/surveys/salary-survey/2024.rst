@@ -45,13 +45,7 @@
    :backlinks: none
 
 .. raw:: html
-
-   <p class="nav-heading">Previous Survey Results:</p>
-   <a href="/surveys/salary-survey/2023/">2023</a>
-   <a href="/surveys/salary-survey/2022/">2022</a>
-   <a href="/surveys/salary-survey/2021/">2021</a>
-   <a href="/surveys/salary-survey/2020/">2020</a>
-   <a href="/surveys/salary-survey/2019/">2019</a>
+   
   </nav>
    <div class="breadcrumbs"><a href="/">Home</a> &raquo; <a href="/surveys/">Salary Surveys</a> &raquo;</div>
   <main>
@@ -135,8 +129,9 @@ As in previous surveys, employees made up the majority of respondents (686, or 8
 For the first time this year, we included a third option - for respondents who had worked in the past year as both employee and contractor. 28 respondents (3.6%) chose this option, and provided both salary and contract rate data. This means that in total there are 714 employee responses and 94 contractor responses.
 
 .. table:: Basis of employment (2019-2024)
+   :widths: 76 20 20
    :name: tbl-2024-basis-of-employment-history
-   :class: sortable
+   :class: sortable col3center col2center
 
    +-----------------+-------------+-------------+
    | Survey year     | Employees   | Contractors |
