@@ -570,6 +570,8 @@ main {
 			.caption-text {
 				display: inline-block;
 				padding: var(--size-2);
+				font-size: var(--font-size-2);
+				font-weight: var(--font-weight-6);
 			}
 		}
 		p {
@@ -598,6 +600,9 @@ main {
 				}
 				&&:nth-of-type(1) {
 					text-transform: uppercase;
+					abbr {
+						text-transform: none;
+					}
 				}
 			}
 			&&:hover th {
@@ -611,12 +616,12 @@ main {
 					margin: 0 0 0 0.75rem;
 					padding: 0;
 					li::marker {
-						font-weight: 100;
+						font-weight: var(--font-weight-1);
 						font-size: 10px;
 					}
 				}
 				strong {
-					font-weight: var(--font-weight-6);
+					font-weight: var(--font-weight-5);
 				}
 			}
 			tr:nth-child(even) { 
