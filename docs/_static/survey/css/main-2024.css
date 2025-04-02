@@ -44,9 +44,8 @@ html:has(.surveytheme-2024) {
 	--surface-1-light: var(--stone-1);
 	--surface-2-light: var(--stone-2);
 	
-	--surface-3-light: var(--cyan-3);
-	--surface-4-light: var(--cyan-4);
-	--surface-5-light: var(--cyan-5);
+	--border-color-1: var(--stone-3);
+	--border-color-2: var(--stone-4);
 }
 
 
@@ -591,10 +590,15 @@ main {
 		thead {
 			th {
 				padding: var(--size-2) var(--size-2) var(--size-2) var(--size-2);
-				font-weight: var(--font-weight-5);
-				color: var(--text-1);
 				background: var(--surface-2);
 				text-align: left;
+				border-bottom: 2px solid var(--border-color-2);
+				p { 
+					font-weight: var(--font-weight-5);
+				}
+				&&:nth-of-type(1) {
+					text-transform: uppercase;
+				}
 			}
 			&&:hover th {
 				background: var(--indigo-1);
@@ -612,15 +616,12 @@ main {
 					}
 				}
 				strong {
-					font-weight: var(--font-weight-5);
+					font-weight: var(--font-weight-6);
 				}
 			}
 			tr:nth-child(even) { 
 				td {
 					background: var(--surface-1);
-					&&:has(strong) {
-						background: var(--surface-4);
-					} 
 				}
 				&&:hover td {
 					background: var(--surface-highlight);
@@ -629,9 +630,6 @@ main {
 			tr:nth-child(odd) {
 				td {
 					background: var(--surface-0);
-					&&:has(strong) {
-						background: var(--surface-2);
-					} 
 				}
 				&&:hover td {
 					background: var(--surface-highlight);
@@ -700,13 +698,31 @@ main {
 				}
 			}
 			tbody {
+				tr:has(td strong) {
+					td {
+						border-bottom: 1px solid var(--border-color-1)
+					}
+				}
 				td {
 					text-align: right;
 					&&:nth-of-type(1) {
 						text-align: left;
 					}
+					&:has(strong) {
+						text-transform: uppercase;
+					}
 				}
 			}
+		}
+		/* make all table headers sticky */
+		thead th {
+			position: sticky;
+			top: -1px;
+			z-index: 1;
+		}
+		/* class to disable sticky headers */
+		.nostick thead th {
+			position: static;
 		}
 	}
 }
@@ -1023,18 +1039,6 @@ dl.footnote.brackets {
 .sortable thead th:not(.no-sort).indicator-left[aria-sort=ascending]::before {
 	color: inherit;
 	content: "▴";
-}
-
-/* make all table headers sticky */
-.sortable thead th {
-	position: sticky;
-	top: 0;
-	z-index: 1;
-}
-
-/* class to disable sticky headers */
-.sortable.nostick thead th {
-	position: static;
 }
 
 /* table sorting exceptions */

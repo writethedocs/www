@@ -1726,23 +1726,6 @@ Employee respondents reported being paid in 33 different currencies. To make com
    | Bulgarian Lev (BGN)               | 0.5534     | 1      |   0.1% |
    +-----------------------------------+------------+--------+--------+
 
-Pay interval
-------------
-
-.. raw:: html
-   
-   <details><summary>What we asked</summary>
-
-.. container:: question
-
-   |icon-question| Would you prefer to enter your salary as a yearly or monthly amount?
-
-.. raw:: html
-
-   </details>
-
-In some locations, it is customary to discuss salary as a yearly figure, while in other it is more common to talk about monthly salaries. Respondents were asked to specify if they were entering a yearly or monthly figure, and all monthly salaries were multiplied by 12 to allow for comparison. In total, 81.1% of employee respondents chose to enter their salary as a yearly figure, with 18.9% choosing monthly. 
-
 Median salary
 -------------
 
@@ -1758,9 +1741,7 @@ Median salary
 
    </details>
 
-As in previous years, salaries for those working part-time hours (less than 30 per week) have been omitted from the figures in this section. The median salaries are based on 922 full-time employee respondents.  
-
-.. IDEA: create view excluding non-full-time employees
+As in previous years, salaries for those working part-time hours (less than 30 per week) have been omitted from the figures in this section. The median salaries are based on 689 full-time employee respondents.  
 
 .. WRITE: update definition of percentile values section
 
@@ -1768,20 +1749,18 @@ As in previous years, salaries for those working part-time hours (less than 30 p
 
    .. rubric:: |icon-info| Definition of percentile values
 
-   Previous survey results have only reported the median salary - the number in the middle of the range, sometimes referred to as the |50th| percentile. Due to the increase in numbers and finer-grained location data, we're able this year to also publish figures for the |25th| and |75th| percentile figures, for regions where there are more than 30 respondents. 
-
    In the following tables, the following definitions apply:
 
    - |25th| percentile: one quarter of all respondents earned less, three quarters earned more
    - |50th| percentile (median): half of all respondents earned more, half earned less
    - |75th| percentile: one quarter of all respondents earned more, three  quarters earned less
 
+   Medians are used when comparing salary data, as they are less affected by outliers than average values. Medians are shown for any salary breakdown with at least 10 responses, and 25th and 75th percentiles are shown for breakdowns with at least 30 responses. 
+
 Median salary by respondent region
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Given the range of socio-economic differences in the countries in the survey results, median salary figures broken down by country of residence of employee is more useful than overall median salary.
-
-.. WRITE: update privacy section with excluded countries
 
 .. container:: note
 
@@ -1789,66 +1768,48 @@ Given the range of socio-economic differences in the countries in the survey res
 
    In order to protect the privacy of respondents, median salaries are not shown for any country or region with less than 10 respondents. Countries with respondents in 2024 that are excluded by this condition are:
 
-   - North America: Puerto Rico, St Kitts & Nevis, Mexico
-   - Europe: Spain, Czech Republic, Finland, Italy, Switzerland, Croatia, Sweden, Serbia, Austria, Slovenia, Estonia, Greece, Belgium, Lithuania, Bulgaria, Norway, Turkey, Cyprus, Montenegro, Denmark
+   - North America: Puerto Rico, Mexico
+   - Europe: Austria, Bulgaria, Croatia, Czechia, Denmark, Estonia, Finland, Georgia, Greece, Hungary, Ireland, Italy, Lithuania, Malta, Netherlands, Norway, Poland, Portugal, Romania, Russia, Serbia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine
    - Oceania: New Zealand
-   - Asia: Japan, Singapore, Thailand, Indonesia 
-   - Middle East: United Arab Emirates, Lebanon
-   - Africa: South Africa, Kenya, Nigeria 
-   - South America: Brazil, Argentina 
-
-.. TABLE: median salary by respondent region 
+   - Asia: China, Japan, Kazakhstan, Pakistan, Philippines, Sri Lanka, Taiwan, Thailand
+   - Middle East: Lebanon, United Arab Emirates
+   - Africa: Nigeria, Rwanda, South Africa 
+   - South America: Argentina, Brazil, Chile, Colombia 
 
 .. table:: Salary (USD) by respondent region
-   :name: tbl-2023-salary-by-respondent-region
-   :class: medians sortable
+   :name: tbl-2024-salary-by-respondent-region
+   :class: medians 
 
    +-------------------------+-------------+--------------+--------------+
-   | Region (|N|)            | |25|        |  |50|        | |75|         |
+   | Region (|N|)            | |25|        | |50|         | |75|         |
    +=========================+=============+==============+==============+
-   | **Worldwide** (922)     | **$58,534** | **$82,418**  | **$118,571** |
+   | **Worldwide** (689)     | **$60,250** |  **$85,760** | **$120,000** |
    +-------------------------+-------------+--------------+--------------+
-   | **North America** (526) | **$80,000** | **$105,000** | **$140,000** |
+   | **North America** (384) | **$80,333** | **$107,050** | **$150,000** |
    +-------------------------+-------------+--------------+--------------+
-   | - USA (444)             |     $86,962 |     $114,000 |     $147,000 |
+   | - United States (303)   |     $89,100 |     $120,000 |     $160,000 |
    +-------------------------+-------------+--------------+--------------+
-   | - Canada (74)           |     $62,217 |      $73,050 |      $92,215 |
+   | - Canada (77)           |     $60,177 |      $73,760 |      $92,018 |
    +-------------------------+-------------+--------------+--------------+
-   | **Europe** (287)        | **$37,749** |  **$56,580** |  **$75,739** |
+   | **Europe** (180)        | **$47,760** |  **$61,332** |  **$82,620** |
    +-------------------------+-------------+--------------+--------------+
-   | - United Kingdom (54)   |     $56,203 |      $72,058 |      $86,660 |
+   | - United Kingdom (39)   |     $57,600 |      $75,679 |      $96,000 |
    +-------------------------+-------------+--------------+--------------+
-   | - Ukraine (36)          |     $21,636 |      $28,525 |      $40,725 |
+   | - Germany (29)          |     $64,800 |      $75,600 |      $86,832 |
    +-------------------------+-------------+--------------+--------------+
-   | - Germany (32)          |     $64,496 |      $76,473 |      $90,240 |
+   | - France (19)           | --          |      $54,000 | --           |
    +-------------------------+-------------+--------------+--------------+
-   | - France (21)           |             |      $45,526 |              |
+   | **Asia** (48)           | **$18,000** |  **$29,400** |  **$46,200** |
    +-------------------------+-------------+--------------+--------------+
-   | - Poland (18)           |             |      $38,475 |              |
+   | - India (40)            |     $18,000 |      $28,800 |      $44,400 |
    +-------------------------+-------------+--------------+--------------+
-   | - Romania (17)          |             |      $39,631 |              |
+   | **Oceania** (43)        | **$70,972** |  **$83,185** |  **$95,729** |
    +-------------------------+-------------+--------------+--------------+
-   | - Ireland (12)          |             |      $81,189 |              |
+   | - Australia (39)        |     $73,282 |      $84,506 |     $101,011 |
    +-------------------------+-------------+--------------+--------------+
-   | - Portugal (11)         |             |      $66,159 |              |
+   | **Middle East** (26)    | **--**      |  **$94,064** | **--**       |
    +-------------------------+-------------+--------------+--------------+
-   | - Russia (11)           |             |      $21,420 |              |
-   +-------------------------+-------------+--------------+--------------+
-   | - Netherlands (11)      |             |      $78,045 |              |
-   +-------------------------+-------------+--------------+--------------+
-   | **Oceania** (43)        | **$72,474** |  **$85,648** | **$102,450** |
-   +-------------------------+-------------+--------------+--------------+
-   | - Australia (39)        |     $72,474 |      $88,944 |     $103,109 |
-   +-------------------------+-------------+--------------+--------------+
-   | **Asia** (36)           | **$15,128** |  **$30,225** |  **$48,693** |
-   +-------------------------+-------------+--------------+--------------+
-   | - India (28)            |             |      $22,106 |              |
-   +-------------------------+-------------+--------------+--------------+
-   | **Middle East** (14)    | **--**      |  **$95,301** | **--**       |
-   +-------------------------+-------------+--------------+--------------+
-   | - Israel (12)           |             |      $96,916 |              |
-   +-------------------------+-------------+--------------+--------------+
-   | **Africa** (10)         | **--**      |  **$45,019** | **--**       |
+   | - Israel (24)           | --          |      $94,064 | --           |
    +-------------------------+-------------+--------------+--------------+
 
 Median salary by respondent region - further breakdowns
@@ -4045,7 +4006,7 @@ As in previous surveys, the majority of respondents in 2024 were women - 57% - w
    +---------------------+-----+-------+
    | Man                 | 290 | 37.2% |
    +---------------------+-----+-------+
-   | Non-binary          | 32  | 4.2%  |
+   | Non-binary or other | 32  | 4.2%  |
    +---------------------+-----+-------+
    | Not specified       | 13  | 1.7%  |
    +---------------------+-----+-------+
