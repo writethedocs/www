@@ -93,7 +93,6 @@ Lunch and dinners are on your own and an opportunity to connect with attendees. 
 - [Snappy's](https://www.makeitsnappys.com/) - sandwiches
 - [Cartopia](https://www.cartopiafoodcarts.com/) - food cart
 - [Hawthorne Asylum Food Pod](https://www.yelp.com/biz/hawthorne-asylum-portland)
-- [Sizzle Pie](https://www.sizzlepie.com/) - pizza
 - [The Paper Bridge](https://www.thepaperbridgepdx.com/) - Vietnamese, closed Tuesday
 - [Fire on the Mountain](https://www.portlandwings.com/) - wings
 - [Afuri Izakaya](https://afuri.us/) - Japanese, dinner only, great ramen, often a wait
