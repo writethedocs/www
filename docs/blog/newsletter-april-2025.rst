@@ -7,7 +7,7 @@
 Write the Docs Newsletter – April 2025
 ######################################
 
-Hi, documentarians. As I write this, the sun is once again shining through my window and the weather is heating up. The perennials on my balcony have started to open up after winter. Hope is in the air. I hope you can find similar inspiration somewhere around you and that the forcasted dropping temperatures over the weekend don't send things spiraling backwards.
+Hi, documentarians. As I write this, the sun is once again shining through my window and the weather is heating up. The perennials on my balcony have started to open up after winter. Hope is in the air. I hope you can find similar inspiration somewhere around you and that the forecasted dropping temperatures over the weekend don't send things spiraling backwards.
 
 Write the Docs Portland has just `announced the full schedule </conf/portland/2025/news/announcing-schedule/>`__. So check it out, get excited for it all to start next month, and `grab your tickets </conf/portland/2025/tickets/>`__ if you haven't yet.
 
