@@ -425,41 +425,92 @@ Technical writer was by far the most widely-selected primary role category, chos
 Additional role categories
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. WRITE: additional role categories
+45 respondents (5.8%) chose only a primary role category. Of these, 42 listed "technical writer" as their primary role category, 2 selected "editor" and 1 selected "developer or engineer".
 
-.. TABLE: additional role categories table
+Of the respondents who selected additional role categories, the number chosen ranged from 1 (82 respondents) to 10 or more (32 respondents). The most popular number of additional role categories was 3, with 136 respondents selecting 3 additional categories.
+
+This resulted in an incredibly diverse range of primary and secondary role category combinations - over 3,400 in all. 
+
+.. table:: Top role category combinations
+   :widths: 90 10
+   :name: tbl-2024-top-category-combinations
+   :class: no-sort
+
+   +-----------------------------------------+-----+
+   | Role category                           | |N| |
+   +=========================================+=====+
+   | **Primary: Technical writer**                 |
+   +-----------------------------------------+-----+
+   | - Editor                                | 380 |
+   +-----------------------------------------+-----+
+   | - Information architecture              | 267 |
+   +-----------------------------------------+-----+
+   | - UX writer                             | 263 |
+   +-----------------------------------------+-----+
+   | - DocOps                                | 179 |
+   +-----------------------------------------+-----+
+   | - Mentoring                             | 176 |
+   +-----------------------------------------+-----+
+   | - Subject matter expert                 | 155 |
+   +-----------------------------------------+-----+
+   | - Content producer                      | 147 |
+   +-----------------------------------------+-----+
+   | - Manager or team leader                | 132 |
+   +-----------------------------------------+-----+
+   | - Testing / QA                          | 120 |
+   +-----------------------------------------+-----+
+   | - Educator                              | 116 |
+   +-----------------------------------------+-----+
+   | - Project or product manager            | 109 |
+   +-----------------------------------------+-----+
+   | - Programmer-writer                     |  93 |
+   +-----------------------------------------+-----+
+   | - Translator                            |  79 |
+   +-----------------------------------------+-----+
+   | - Support                               |  75 |
+   +-----------------------------------------+-----+
+   | - Developer relations                   |  41 |
+   +-----------------------------------------+-----+
+   | - Marketing                             |  40 |
+   +-----------------------------------------+-----+
+   | - Developer or engineer                 |  23 |
+   +-----------------------------------------+-----+
+   | **Primary: Editor"**                          |
+   +-----------------------------------------+-----+
+   | - Technical writer                      |  15 |
+   +-----------------------------------------+-----+
+   | - Mentoring                             |   7 |
+   +-----------------------------------------+-----+
+   | - Subject matter expert                 |   6 |
+   +-----------------------------------------+-----+
+   | - Project or product manager            |   6 |
+   +-----------------------------------------+-----+
+   | **Primary: DocOps**                           |
+   +-----------------------------------------+-----+
+   | - Technical writer                      |  14 |
+   +-----------------------------------------+-----+
+   | - Information architecture              |   9 |
+   +-----------------------------------------+-----+
+   | - Mentoring                             |   8 |
+   +-----------------------------------------+-----+
+   | - Editor                                |   7 |
+   +-----------------------------------------+-----+
+   | - Manager or team leader                |   7 |
+   +-----------------------------------------+-----+
+   | **Primary: Project or product manager**       |
+   +-----------------------------------------+-----+
+   | - Technical writer                      |  11 |
+   +-----------------------------------------+-----+
+   | - Manager or team leader                |  10 |
+   +-----------------------------------------+-----+
+   | - Editor                                |   7 |
+   +-----------------------------------------+-----+
+   | - Information architecture              |   6 |
+   +-----------------------------------------+-----+
+   | - DocOps                                |   5 |
+   +-----------------------------------------+-----+
 
 
-.. table:: Additional role categories
-   :widths: 70 15 15
-   :name: tbl-2023-top-role-category-combinations
-   :class: std3col sortable
-
-   +---------------------------------------------------------+-----+-------+
-   | Category                                                | |N| | |%|   |
-   +=========================================================+=====+=======+
-   | Writer/Creator/Editor                                   | 604 | 59.4% |
-   +---------------------------------------------------------+-----+-------+
-   | Writer/Creator/Editor + Management                      | 69  | 6.8%  |
-   +---------------------------------------------------------+-----+-------+
-   | Writer/Creator/Editor + Developer/Engineer              | 45  | 4.4%  |
-   +---------------------------------------------------------+-----+-------+
-   | Writer/Creator/Editor + Educator                        | 40  | 3.9%  |
-   +---------------------------------------------------------+-----+-------+
-   | Writer/Creator/Editor + Support                         | 24  | 2.4%  |
-   +---------------------------------------------------------+-----+-------+
-   | Management                                              | 23  | 2.3%  |
-   +---------------------------------------------------------+-----+-------+
-   | Writer/Creator/Editor + Advocate                        | 19  | 1.9%  |
-   +---------------------------------------------------------+-----+-------+
-   | Writer/Creator/Editor + Marketing                       | 17  | 1.7%  |
-   +---------------------------------------------------------+-----+-------+
-   | Writer/Creator/Editor + Other                           | 17  | 1.7%  |
-   +---------------------------------------------------------+-----+-------+
-   | Writer/Creator/Editor + Educator + Management           | 14  | 1.4%  |
-   +---------------------------------------------------------+-----+-------+
-   | Writer/Creator/Editor + Developer/Engineer + Management | 10  | 1.0%  |
-   +---------------------------------------------------------+-----+-------+
 
 Team configuration
 ------------------
