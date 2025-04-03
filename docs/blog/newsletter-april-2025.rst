@@ -17,7 +17,7 @@ This month's newsletter has articles on organizing content, learning docs-as-cod
 How to organize content in your documents
 -----------------------------------------
 
-Should your online documentation have long pages with related content or separate pages of focused content (`Every page is page one <https://everypageispageone.com/the-book/>`__)? As a documentarian, how you organize content can depend on the content, your audience, the content’s delivery, and the content  strategy.
+Should your online documentation have long pages with related content or separate pages of focused content (`Every page is page one <https://everypageispageone.com/the-book/>`__)? As a documentarian, how you organize content can depend on the content, your audience, the content’s delivery, and the content strategy.
 
 If you decide to have long, comprehensive pages, you may want to include a "mini-table-of-contents" (mini-TOC) on each page or implement a distinct heading system. If you have short, focused topics, a comprehensive TOC or navigational structure helps readers locate other topics of interest. (Even if your customers tend to search for content, seeing a well-organized TOC helps readers understand how content fits into the overall documentation.)
 
@@ -37,7 +37,7 @@ Learn docs-as-code
 
 If you want to learn the docs-as-code approach to documentation, but not necessarily in the context of API docs, your best bet is to combine a variety of materials to make your own "training." Write the Docs resources are a great starting point: find books and talks on the `Docs as Code resource page <https://www.writethedocs.org/guide/docs-as-code/>`__ and previous newsletter items in the `Docs-as-code content archive <https://www.writethedocs.org/topics/#docs-as-code>`__. And don't forget that you can ask questions in the `#docs-as-code <https://writethedocs.slack.com/archives/C72NZ18FR>`__ channel in WTD Slack! 
 
-Version control is an important element of docs-as-code, and learning `git <https://git-scm.com/>`__ will help you understand docs-as-code processes and collaboration methods. It's also a good idea to learn a tool that uses Git, like GitHub or GitLab. Peter Greunbaum's `Git and GitHub for Writers <https://www.udemy.com/course/git-and-github-for-writers/>`__ course on Udemy covers both and comes highly recommended.
+Version control is an important element of docs-as-code, and learning `Git <https://git-scm.com/>`__ will help you understand docs-as-code processes and collaboration methods. It's also a good idea to learn a tool that uses Git, like GitHub or GitLab. Peter Greunbaum's `Git and GitHub for Writers <https://www.udemy.com/course/git-and-github-for-writers/>`__ course on Udemy covers both and comes highly recommended.
 
 Docs-as-code typically involves writing in `Markdown <https://daringfireball.net/projects/markdown/>`__ syntax and publishing with tools called static site generators (SSGs). Several documentarians recommended Manny Silva's course `Demystifying Docs-as-Code <https://www.brighttalk.com/webcast/9273/623841>`_ because it demonstrates how to initiate a docs-as-code project using the popular SSG `Docusaurus <https://docusaurus.io/>`__.
 
@@ -49,19 +49,26 @@ Leveling up as a solo documentarian
  
 Working alone as a documentarian and feeling stuck in your current role? You’re not alone. Many solo documentarians find themselves in workplaces that don’t prioritize documentation, leaving them with limited opportunities to expand their skills. If you’re in this position, don’t wait for growth opportunities – create them! Here’s some ideas on how from `#career-advice <https://writethedocs.slack.com/archives/C6ADX1YVA>`__:  
 
-- Seek out problems and solve them  
+- Seek out problems and solve them
+ 
   - Identify gaps in existing documentation or areas that need more clarity.  
   - Talk to customer support or engineers to uncover frequent pain points.  
-  - Turn these insights into FAQs, internal knowledge bases, or process docs.  
-- Build your own portfolio  
+  - Turn these insights into FAQs, internal knowledge bases, or process docs.
+
+- Build your own portfolio
+
   - Even if your leadership doesn’t prioritize documentation, write it anyway.  
   - Create deep-dive guides, whitepapers, or best practices—whether or not someone requested them.  
-  - Treat it as a way to showcase your skills for future roles.  
-- Go beyond writing  
+  - Treat it as a way to showcase your skills for future roles.
+
+- Go beyond writing
+
   - Develop standards and style guides to improve documentation quality.  
   - Mentor non-writers on best practices to create a stronger writing culture.  
-  - Consider branching into related roles like product management or UX writing.  
-- Expand your learning outside work  
+  - Consider branching into related roles like product management or UX writing. 
+  
+- Expand your learning outside work 
+
   - Take online courses on API documentation, structured authoring, or AI in tech communications.  
   - Contribute to open-source projects to gain real-world experience.  
   - Get involved in professional communities such as Write the Docs.  
@@ -76,9 +83,9 @@ SEO for docs: How much and how?
 
 A question was recently raised about whether technical documentation could benefit from search-engine optimization (SEO) or whether to push back against people requesting it.
 
-In general, respondents agreed that it was worth doing SEO work within reason. In fact, one person noted that keeping docs within general standards of clarity, structure, and accessibility is already a good start for many SEO practices. Another noted this may be enough for small collections of docs, but larger ones have more of a need for SEO. It's important to make sure your docs are findable and useful to your customers.
+In general, respondents agreed that it was worth doing SEO work within reason. In fact, one person noted that keeping docs within general standards of clarity, structure, and accessibility is already a good start for many SEO practices. Another noted this may be enough for small collections of docs, but larger ones have more of a need for SEO. It's important to make sure your content is findable and useful to your customers.
 
-Pretty much everyone agreed that it wasn't necessary to aim for SEO at the cost of usability. Don't try to stuff keywords into your docs just to try to climb the rankings, only when it makes sense to help explain the topic.
+Pretty much everyone agreed that it wasn't necessary to aim for SEO at the cost of usability. Don't stuff keywords into your docs just to try to climb the rankings, only when it makes sense to help explain the topic.
 
 There were a few practices people mentioned as useful for docs, such as linking practices, conventions for URL slugs, and canonical metadata. The last is especially important if you have versioned or translated content. You want to make sure you point search engine crawlers to the latest version of a given doc and don't get punished for "duplicated" content.
 
