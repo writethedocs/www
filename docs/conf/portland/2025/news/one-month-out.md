@@ -20,7 +20,8 @@ Still need a ticket? Now is a great time to purchase your ticket at one of our v
 - Independent Tickets: $350
 - Corporate Tickets: $650
 - Virtual Tickets: $75
-
+   
+   <br>
    <p style="margin: 2em 0;">
    <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
    <tr>
@@ -54,7 +55,7 @@ Our [#wtd-conferences](https://writethedocs.slack.com/archives/C1AKFQATH) channe
 
 ## Writing Day Projects
 
-Join us for Writing Day.!Submit your project by **April 23, 2025** to be promoted in our pre-conference Writing Day blog post and email.
+Join us for Writing Day! Submit your project by **April 23, 2025** to be promoted in our pre-conference Writing Day blog post and email.
 
 Online project submission is optional, and we have several day-of project submissions. We adore all of our projects and volunteers, no matter when they sign up.
 
