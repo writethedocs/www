@@ -2596,125 +2596,6 @@ Factors affecting salary satisfaction
 .. figure:: images/2024/2024-factors-affecting-salary-satisfaction.svg
    :class: hide
 
-
-Factors affecting overall job satisfaction
-------------------------------------------
-
-The most cited factor affecting overall job satisfaction among employees was "Role is undervalued or underfunded" - this option was selected by 34.7% of respondents. 
-
-Of the 19 respondents who selected "other" and provided more detail, those that did not fit into an existing category included:
-
-- issues with communication within the organization
-- poorly defined or badly executed business processes
-- bad experiences with human resources
-- poor leadership and incompetence at the executive level
-- issues around the implementation of remote/WFH versus on-site work and "return to the office" mandates
-
-.. table:: Factors affecting employee job satisfaction
-   :widths: 70 15 15
-   :name: tbl-2023-factors-affecting-employee-job-satisfaction
-   :class: std3col sortable
-
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Factor                                                                               | |N| | |%|   |
-   +======================================================================================+=====+=======+
-   | Role is undervalued or underfunded                                                   | 320 | 34.7% |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | None of the above                                                                    | 223 | 24.2% |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | No opportunities for advancement                                                     | 212 | 23.0% |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | There is too much stress or pressure                                                 | 182 | 19.7% |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Insufficient opportunities for professional development                              | 180 | 19.5% |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Organizational politics                                                              | 166 | 18.0% |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | My workload is too high                                                              | 162 | 17.6% |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Outdated, inadequate or unsatisfactory toolset                                       | 158 | 17.1% |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Too much bureaucratic overhead/too many meetings                                     | 155 | 16.8% |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Management not open to change                                                        | 142 | 15.4% |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | The work is not interesting or challenging enough                                    | 138 | 15.0% |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Job instability                                                                      | 130 | 14.1% |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Unsupportive work environment                                                        | 117 | 12.7% |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | I don't feel respected                                                               | 84  | 9.1%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Issues with co-workers                                                               | 58  | 6.3%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | I don't feel supported as a remote worker                                            | 45  | 4.9%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | No opportunity for remote work                                                       | 44  | 4.8%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | My workload is too low                                                               | 32  | 3.5%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | Bullying and/or harassment                                                           | 27  | 2.9%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | I am discriminated against on the basis of gender                                    | 24  | 2.6%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | No office location is available to me                                                | 19  | 2.1%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | I am discriminated against on the basis of age                                       | 10  | 1.1%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | I am discriminated against for some other reason, or a reason I do not wish to share | 10  | 1.1%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-   | I am discriminated against on the basis of race or nationality                       | 3   | 0.3%  |
-   +--------------------------------------------------------------------------------------+-----+-------+
-
-Factors enhancing job satisfaction
-----------------------------------
-
-On the whole, respondents were very positive about the best aspects of their jobs. 85% said that they liked and/or respected their co-workers, and 72% highlighted flexibility in working hours or location. 
-
-Of those respondents who selected "other" and provided more detail, factors included:
-
-- autonomy and freedom
-- work related to personal interests
-- support through times of personal difficulty
-- competency in leadership
-- fully remote/WFH schedule
-
-.. table:: Factors enhancing employee job satisfaction
-   :widths: 70 15 15
-   :name: tbl-2023-factors-enhancing-employee-job-satisfaction
-   :class: std3col sortable
-
-   +----------------------------------------------------------------------------------------------------+-----+-------+
-   | Factor                                                                                             | |N| | |%|   |
-   +====================================================================================================+=====+=======+
-   | I like and/or respect my co-workers                                                                | 794 | 84.8% |
-   +----------------------------------------------------------------------------------------------------+-----+-------+
-   | I have flexibility in working hours or location                                                    | 673 | 71.9% |
-   +----------------------------------------------------------------------------------------------------+-----+-------+
-   | My manager's expectations are realistic/reasonable                                                 | 610 | 65.2% |
-   +----------------------------------------------------------------------------------------------------+-----+-------+
-   | I feel I have work-life balance                                                                    | 608 | 65.0% |
-   +----------------------------------------------------------------------------------------------------+-----+-------+
-   | My workload is manageable                                                                          | 584 | 62.4% |
-   +----------------------------------------------------------------------------------------------------+-----+-------+
-   | The work is sufficiently interesting and/or challenging                                            | 558 | 59.6% |
-   +----------------------------------------------------------------------------------------------------+-----+-------+
-   | I'm satisfied with my benefits                                                                     | 511 | 54.6% |
-   +----------------------------------------------------------------------------------------------------+-----+-------+
-   | I'm compensated fairly for the work I do                                                           | 499 | 53.3% |
-   +----------------------------------------------------------------------------------------------------+-----+-------+
-   | I like and/or respect the organization I work for                                                  | 494 | 52.8% |
-   +----------------------------------------------------------------------------------------------------+-----+-------+
-   | My contributions are valued                                                                        | 466 | 49.8% |
-   +----------------------------------------------------------------------------------------------------+-----+-------+
-   | I feel respected                                                                                   | 456 | 48.7% |
-   +----------------------------------------------------------------------------------------------------+-----+-------+
-   | I feel I am making a positive impact (in my organization, industry, community, or the wider world) | 411 | 43.9% |
-   +----------------------------------------------------------------------------------------------------+-----+-------+
-   | I have opportunities for career development and advancement                                        | 252 | 26.9% |
-   +----------------------------------------------------------------------------------------------------+-----+-------+
-
 Contract rates and satisfaction
 ===============================
 
@@ -2806,26 +2687,17 @@ Type of contract work
 .. raw:: html
 
    </details>
-   <details><summary>Question background</summary>
-
-.. container:: question
-
-   |icon-info| 
-
-.. WRITE: question background for type of contract work
-
-.. raw:: html
-
-   </details>
 
 Contractor type
 ~~~~~~~~~~~~~~~
 
-.. WRITE: writeup for contractor work type - clients
-
 To illustrate how varied contractor working situations are, out of the 94 total contractor respondents, there were 59 different combinations of client type, contract or project type, and product or service offering. 
 
-48% of contractor clients indicated that they worked exclusively for a single client at a time. Another 34% indicated that they worked exclusively for multiple clients at a time. 13% worked at times for either a single client or multiple clients, and 5% did not indicate whether they worked for a single client or multiple. 
+53.2% of contractor respondents indicated that they worked exclusively for a single client at a time. Another 27.7% indicated that they worked exclusively for multiple clients at a time. 5.3% worked at times for either a single client or multiple clients, and 13.8% did not indicate whether they worked for a single client or multiple. 
+
+36.2% of contractor respondents did not specify a typical contract length, while 30.9% reported working exclusively on long-term contracts (6-12 months or longer). Mixed contract lengths were reported by 23.4%, with 7.4% working only on medium-term contracts (1-6 months) and 2.1% working exclusively on short-term contracts (days or weeks).
+
+The majority of contractor respondents (64.9%) did not specify offering either products or services. Of those that indicated that they did, 28.7% provided specific services, 5.3% offered both products and services, and only 1.1% reported offering products.
 
 .. raw:: html
 
@@ -2931,75 +2803,87 @@ Contractor respondents were paid in 15 different currencies. To make comparisons
    :name: tbl-2024-currencies-exchange-rates-contractors
    :class: sortable tbl_currency
 
-   +-----------------------------------+------------+--------+--------+
-   | Currency (code)                   | Rate       | |N|    | |%|    |
-   +===================================+============+========+========+
-   | United States Dollar (USD)        | 1          | 56     |  59.6% |
-   +-----------------------------------+------------+--------+--------+
-   | Euro (EUR)                        | 1.08       | 13     |  13.8% |
-   +-----------------------------------+------------+--------+--------+
-   | British Pound Sterling (GBP)      | 1.28       | 7      |   7.4% |
-   +-----------------------------------+------------+--------+--------+
-   | Australian Dollar (AUD)           | 0.6602     | 3      |   3.2% |
-   +-----------------------------------+------------+--------+--------+
-   | Canadian Dollar (CAD)             | 0.7303     | 3      |   3.2% |
-   +-----------------------------------+------------+--------+--------+
-   | Polish Złoty (PLN)                | 0.2514     | 2      |   2.1% |
-   +-----------------------------------+------------+--------+--------+
-   | Israeli New Shekel (NIS)          | 0.2703     | 2      |   2.1% |
-   +-----------------------------------+------------+--------+--------+
-   | Danish Krone (DKK)                | 0.1451     | 1      |   1.1% |
-   +-----------------------------------+------------+--------+--------+
-   | New Taiwan Dollar (TWD)           | 0.0312     | 1      |   1.1% |
-   +-----------------------------------+------------+--------+--------+
-   | Norwegian Krone (NOK)             | 0.0931     | 1      |   1.1% |
-   +-----------------------------------+------------+--------+--------+
-   | Japanese Yen (JPY)                | 0.0066     | 1      |   1.1% |
-   +-----------------------------------+------------+--------+--------+
-   | New Zealand Dollar (NZD)          | 0.6055     | 1      |   1.1% |
-   +-----------------------------------+------------+--------+--------+
-   | Indian Rupee (INR)                | 0.012      | 1      |   1.1% |
-   +-----------------------------------+------------+--------+--------+
-   | South African Rand (ZAR)          | 0.0546     | 1      |   1.1% |
-   +-----------------------------------+------------+--------+--------+
-   | Sri Lankan Rupee (LKR)            | 0.0033     | 1      |   1.1% |
-   +-----------------------------------+------------+--------+--------+
+   +------------------------------+------------+---------+---------+
+   | Currency (code)              | Rate       | |N|     | |%|     |
+   +==============================+============+=========+=========+
+   | United States Dollar (USD)   |        1.0 | 56      | 59.6%   |
+   +------------------------------+------------+---------+---------+
+   | Euro (EUR)                   |       1.08 | 13      | 13.8%   |
+   +------------------------------+------------+---------+---------+
+   | British Pound Sterling (GBP) |       1.28 | 7       | 7.4%    |
+   +------------------------------+------------+---------+---------+
+   | Australian Dollar (AUD)      |     0.6602 | 3       | 3.2%    |
+   +------------------------------+------------+---------+---------+
+   | Canadian Dollar (CAD)        |     0.7303 | 3       | 3.2%    |
+   +------------------------------+------------+---------+---------+
+   | Israeli New Shekel (NIS)     |     0.2703 | 2       | 2.1%    |
+   +------------------------------+------------+---------+---------+
+   | Polish Zloty (PLN)           |     0.2514 | 2       | 2.1%    |
+   +------------------------------+------------+---------+---------+
+   | Danish Krone (DKK)           |     0.1451 | 1       | 1.1%    |
+   +------------------------------+------------+---------+---------+
+   | New Taiwan Dollar (TWD)      |     0.0312 | 1       | 1.1%    |
+   +------------------------------+------------+---------+---------+
+   | Norwegian Krone (NOK)        |     0.0931 | 1       | 1.1%    |
+   +------------------------------+------------+---------+---------+
+   | Japanese Yen (JPY)           |     0.0066 | 1       | 1.1%    |
+   +------------------------------+------------+---------+---------+
+   | New Zealand Dollar (NZD)     |     0.6055 | 1       | 1.1%    |
+   +------------------------------+------------+---------+---------+
+   | South African Rand (ZAR)     |     0.0546 | 1       | 1.1%    |
+   +------------------------------+------------+---------+---------+
+   | Indian Rupee (INR)           |      0.012 | 1       | 1.1%    |
+   +------------------------------+------------+---------+---------+
+   | Sri Lankan Rupee (LKR)       |     0.0033 | 1       | 1.1%    |
+   +------------------------------+------------+---------+---------+
 
-Fee structures
-~~~~~~~~~~~~~~
+Median rates
+~~~~~~~~~~~~
 
-.. WRITE: fee structures
+In previous years, we asked contractor respondents to enter multiple rates, if appropriate, and a number did so. This year, although the form allowed multiple rates to be entered, no respondents entered more than one type of rate.  
 
-Comparing payment rates for contractors is difficult due to the number of different ways that individuals in this group operate. To simplify this as much as possible while still allowing comparisons, contractors were asked to estimate their hourly rate, day rate or monthly rate - or one of each type of rate, if appropriate - even if they normally used a different fee structure. Contractors charging multiple rates or in multiple currencies were asked to enter their most common rate, or an average if they felt that was more representative.  
+Hourly rates were the most commonly entered fee structure, used by 66% of contractor respondents. 27.7% entered a monthly rate, and the remaining 6.4% - 6 individuals - entered a day rate. Due to the low number of day rates, we're unable to publish any median day rates.
 
-The hourly rate was the most popular option, utilized by 73.4% of respondents (and exclusively by 41.8%). Next was monthly rates, entered by 43% of respondents (exclusively by 20.3%). Day rates were entered by 38% of respondents, but only exclusively by 6.3%.
 
-41.8% of respondents entered a figure for all three fee structures. 8.9% entered both hourly and day rates, and there were no respondents entering only hourly and monthly, or only daily and monthly figures. 
+.. raw:: html
 
-Median hourly rate
-~~~~~~~~~~~~~~~~~~
+   <div class="tab-wrap"><input type="radio" id="tabA213-1" name="tabGroupA213" class="tab" checked tabindex="0"><label for="tabA213-1">Hourly rate</label><input type="radio" id="tabA213-2" name="tabGroupA213" class="tab"><label for="tabA213-2">Monthly rate</label><div class="tab__content">
 
-.. WRITE: median hourly rate
+.. table:: Median hourly rate - by region
+   :widths: 70 10 10 10
+   :name: tbl-2024-median-hourly-rate-by-region
+   :class: sortable medians
 
-The median hourly rate across all regions (from 58 respondents) was USD $53. Drilling down to North America (34 respondents), that rises to USD $55, and this number stays the same when examining the United States only (27 respondents). 
+   +--------------------+------+------+------+
+   | Region (|N|)       | |25| | |50| | |75| |
+   +====================+======+======+======+
+   | Worldwide (62)     |  $45 |  $55 |  $75 |
+   +--------------------+------+------+------+
+   | North America (44) |  $50 |  $60 |  $75 |
+   +--------------------+------+------+------+
+   | Europe (11)        |      |  $40 |      |
+   +--------------------+------+------+------+
 
-Looking at Europe, the median hourly rate was USD $33 (19 respondents). No further splits are possible in this region. 
+.. raw:: html
 
-Median day rate
-~~~~~~~~~~~~~~~
+	</div><div class="tab__content">
 
-.. WRITE: median day rate
+.. table:: Median monthly rate - by region
+   :widths: 70 10 10 10
+   :name: tbl-2024-median-monthly-rate-by-region
+   :class: sortable medians
 
-The median day rate across all regions (30 respondents) was USD $447. Looking at North America only (12 respondents), this goes up to USD $465, and in the United States only (10 respondents) to USD $480.  
+   +----------------+--------+
+   | Region (|N|)   | |50|   |
+   +================+========+
+   | Worldwide (26) | $4,200 |
+   +----------------+--------+
+   | Europe (13)    | $3,780 |
+   +----------------+--------+
 
-Looking only at Europe (13 respondents), the median day rate was USD $242.
+.. raw:: html
 
-Median monthly rate
-~~~~~~~~~~~~~~~~~~~
-
-.. WRITE: median monthly rate
-
-The median monthly rate across all regions (34 respondents) was USD $4,168. There were not enough monthly rate values entered to publish a figure for North America or the United States, but examining Europe only (20 respondents) the median was USD $3,519. No further breakdowns are possible.
+   </div></div>
 
 Contractor satisfaction
 -----------------------
