@@ -2480,7 +2480,7 @@ Factors affecting salary satisfaction
 
    </details>
 
-.. WRITE: salary satisfaction
+.. WRITE: summarize salary satisfaction
 
 Draft: While the format of this question has changed, it's possible to see patterns in the responses. For example, most respondents like and/or respect their co-workers (91.7% agreed), and to a lesser extent their managers and team leaders (79.5%) and their organization (66.9%). Many respondents are concerned with their salary not keeping up with inflation (32.6%), and a significant number are not satisfied with their workload (14.2%).  
 
@@ -2603,15 +2603,11 @@ Also note: those who thought any statement was irrelevant are not included in th
 Contract rates and satisfaction
 ===============================
 
-.. WRITE: determine if we have publishable data for median contract rates and update note text
-
 .. container:: note
 
    .. rubric:: |icon-info| Note on median rates for contractors
 
-   While the 2023 survey results include more contractors than in any previous year (79) this number is too low, and the respondents too geographically diverse, to determine median rates except for the very largest regions (the United States and Europe). Numbers are provided where possible, but it should be noted that the sample size is not large enough to provide meaningful insight. 
-
-   For example, out of the 58 hourly rates entered, the highest value is 57 times higher than the lowest value. Even when only examining data for the United States, where 27 hourly rates were entered, the highest rate is 44 times higher than the lowest rate. Trying to segment these values further - by region, type of role, gender etc - results in numbers far too low to publish. 
+   While the 2024 survey results include more contractor data than in any previous year (94 responses) this number is too low, and the respondents too geographically diverse, to determine median rates except for the very largest regions (the United States and Europe). 
 
 Preferred term
 --------------
@@ -2795,8 +2791,6 @@ Contract rates
 
    </details>
 
-.. WRITE: 94 contractor rates entered - breakdown by type
-
 Currencies
 ~~~~~~~~~~
 
@@ -2914,40 +2908,6 @@ Contractor satisfaction
    - Satisfied
    - Very satisfied
 
-   How strongly do you agree with the following statements about your contract or freelance earnings?
-
-   - My rates keep pace with inflation / cost-of-living
-   - My rates match the expectations of my clients
-   - I am comfortable managing the overhead (accounting, insurance, etc.) associated with contracting/freelancing
-
-   How strongly do you agree with the following statements about your contracts or projects?
-
-   - My hours are reasonable
-   - I have flexibility in my hours
-   - My responsibilities are reasonable
-   - My workload is manageable
-   - I have opportunities for career advancement
-   - I have opportunities for professional development
-   - My work is sufficiently interesting/challenging
-   - I'm satisfied with the systems and toolsets I use
-
-   How strongly do you agree with the following statements about your workplace(s) (remote, on-site or hybrid environment)?
-
-   - I have flexibility in my work location
-   - Our remote work environment functions well
-   - Our on-site work environment functions well
-   - Our hybrid work environment functions well
-
-   How strongly do you agree with the following statements about the people and organizations that you work with?
-
-   - To my knowledge, salaries are consistent across similar roles
-   - To my knowledge, all genders are paid equally
-   - My role is sufficiently valued/funded
-   - I like and/or respect my managers and team leaders
-   - I like and/or respect my co-workers
-   - I like and/or respect my organization
-   - I'm satisfied with our methodologies, systems and practices
-
 .. raw:: html
 
    </details>
@@ -3007,16 +2967,58 @@ More than half of contractor respondents (63.8%) reported feeling satisfied with
 Factors affecting contractor satisfaction
 -----------------------------------------
 
-.. IDEA: work out how to present satisfaction factors for contractors and compare with previous format
+.. raw:: html
+   
+   <details><summary>What we asked</summary>
+
+.. container:: question
+
+   |icon-question| How strongly do you agree with the following statements about your contract or freelance earnings?
+
+   - My rates keep pace with inflation / cost-of-living
+   - My rates match the expectations of my clients
+   - I am comfortable managing the overhead (accounting, insurance, etc.) associated with contracting/freelancing
+
+   How strongly do you agree with the following statements about your contracts or projects?
+
+   - My hours are reasonable
+   - I have flexibility in my hours
+   - My responsibilities are reasonable
+   - My workload is manageable
+   - I have opportunities for career advancement
+   - I have opportunities for professional development
+   - My work is sufficiently interesting/challenging
+   - I'm satisfied with the systems and toolsets I use
+
+   How strongly do you agree with the following statements about your workplace(s) (remote, on-site or hybrid environment)?
+
+   - I have flexibility in my work location
+   - Our remote work environment functions well
+   - Our on-site work environment functions well
+   - Our hybrid work environment functions well
+
+   How strongly do you agree with the following statements about the people and organizations that you work with?
+
+   - To my knowledge, salaries are consistent across similar roles
+   - To my knowledge, all genders are paid equally
+   - My role is sufficiently valued/funded
+   - I like and/or respect my managers and team leaders
+   - I like and/or respect my co-workers
+   - I like and/or respect my organization
+   - I'm satisfied with our methodologies, systems and practices
 
 .. raw:: html
 
-   <div class="tab-wrap"><input type="radio" id="tabF2b-1" name="tabGroupF2b" class="tab" checked><label for="tabF2b-1">Rate factors</label><input type="radio" id="tabF2b-2" name="tabGroupF2b" class="tab"><label for="tabF2b-2">Overall factors</label><input type="radio" id="tabF2b-3" name="tabGroupF2b" class="tab"><label for="tabF2b-3">Positive factors</label><div class="tab__content">
+   </details>
 
-.. table:: Factors affecting rate satisfaction - contractors
-   :widths: 70 15 15
-   :name: tbl-2023-factors-affecting-rate-satisfaction-contractors
-   :class: std3col sortable
+.. raw:: html
+
+   <div class="tab-wrap"><input type="radio" id="tabF2b-1" name="tabGroupF2b" class="tab" checked><label for="tabF2b-1">Earnings</label><input type="radio" id="tabF2b-2" name="tabGroupF2b" class="tab"><label for="tabF2b-2">Contracts</label><input type="radio" id="tabF2b-3" name="tabGroupF2b" class="tab"><label for="tabF2b-3">Workplaces</label><input type="radio" id="tabF2b-4" name="tabGroupF2b" class="tab"><label for="tabF2b-4">Teams</label><div class="tab__content">
+
+.. table:: Satisfaction statements - contractor earnings
+   :widths: 55 15 15 15
+   :name: tbl-2024-satisfaction-statements-contractor-earnings
+   :class: sortable statements
 
    +-----------------------------------------------------------------------------------+-----+-------+
    | Factor                                                                            | |N| | |%|   |
@@ -3042,10 +3044,23 @@ Factors affecting contractor satisfaction
 
 	</div><div class="tab__content">
 
-.. table:: Factors affecting overall satisfaction - contractors
-   :widths: 70 15 15
-   :name: tbl-2023-factors-affecting-overall-satisfaction-contractors
-   :class: std3col sortable
+.. table:: Satisfaction statements - contracts and projects
+   :widths: 55 15 15 15
+   :name: tbl-2024-satisfaction-statements-contracts
+   :class: sortable statements
+
+
+
+
+.. raw:: html
+
+	</div><div class="tab__content">
+
+
+.. table:: Satisfaction statements - workplaces
+   :widths: 55 15 15 15
+   :name: tbl-2024-satisfaction-statements-contractor-workplaces
+   :class: sortable statements
 
    +--------------------------------------------------------------------------------------+-----+------+
    | Factor                                                                               | |N| | |%|  |
@@ -3107,10 +3122,10 @@ Factors affecting contractor satisfaction
 
 	</div><div class="tab__content">
 
-.. table:: Factors enhancing overall satisfaction - contractors
-   :widths: 70 15 15
-   :name: tbl-2023-factors-enhancing-overall-satisfaction-contractors
-   :class: std3col sortable
+.. table:: Satisfaction statements - teams and organizations
+   :widths: 55 15 15 15
+   :name: tbl-2024-satisfaction-statements-contractor-teams
+   :class: sortable statements
 
    +----------------------------------------------------------------------------------------------------+-----+-------+
    | Factor                                                                                             | |N| | |%|   |
