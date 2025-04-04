@@ -59,7 +59,7 @@ Documentation Salary Survey 2024 Results
 Introduction
 ============
 
-.. WRITE: write intro
+This sixth incarnation of the Write the Docs Salary Survey drew 779 responses, from documentarians in 55 countries. As always, we are impressed by the skills, experience and diversity of the Write the Docs community, and are grateful to everyone who took the time to fill out the survey and share it with their co-workers. Without further ado, let's look at the findings!
 
 In a hurry? Jump straight to `Median salary`_ or `Median hourly rate`_.
 
@@ -204,7 +204,6 @@ For the first time this year, no respondents reported working more than 60 hours
    +--------------+-----+-------+
    | 1-20         | 16  | 2.1%  |
    +--------------+-----+-------+
-
 
 Job title
 ---------
@@ -374,7 +373,6 @@ Role category
 
    After community consultation in 2024, we split this question into two parts - one for primary role category, and one for additional roles - and expanded the number of options. 
    
-
 .. raw:: html
 
    </details>
@@ -420,7 +418,6 @@ Technical writer was by far the most widely-selected primary role category, chos
    +------------------------------------------------+-----+-------+
    | Testing, quality assurance                     | 2   | 0.3%  |
    +------------------------------------------------+-----+-------+
-
 
 Additional role categories
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -509,8 +506,6 @@ This resulted in an incredibly diverse range of primary and secondary role categ
    +-----------------------------------------+-----+
    | - DocOps                                |   5 |
    +-----------------------------------------+-----+
-
-
 
 Team configuration
 ------------------
@@ -1794,13 +1789,11 @@ Median salary
 
 As in previous years, salaries for those working part-time hours (less than 30 per week) have been omitted from the figures in this section. The median salaries are based on 689 full-time employee respondents.  
 
-.. WRITE: update definition of percentile values section
-
 .. container:: note
 
    .. rubric:: |icon-info| Definition of percentile values
 
-   In the following tables, the following definitions apply:
+   Throughout this report, the following definitions apply:
 
    - |25th| percentile: one quarter of all respondents earned less, three quarters earned more
    - |50th| percentile (median): half of all respondents earned more, half earned less
@@ -2024,7 +2017,7 @@ This year, that means that we are able to show breakdowns for Worldwide, North A
 Median salary by years of experience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. WRITE: median salary by years of experience
+The general trend is for salaries to increase with years of experience. This trend holds out throughout regions, with the most pronounced increase in the 10-15 year range. 
 
 .. raw:: html
 
@@ -2055,7 +2048,7 @@ Median salary by years of experience
    </div><div class="tab__content">
 
 .. table:: Salary (USD) by experience - North America
-   :name: tbl-2024-salary-by-experience-region
+   :name: tbl-2024-salary-by-experience-region-north-america
    :class: medians sortable
 
    +-----------------+-------+---------+----------+----------+
@@ -2105,7 +2098,7 @@ Median salary by years of experience
 Median salary by organization size
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. WRITE: median salary by organization size
+Salaries generally increase with the size of the organization, with the highest median salaries observed in organizations with more than 100,000 employees. In North America, this trend is particularly pronounced in the 75th percentile for the very largest organizations. In Europe, while the trend of increasing salaries with organization size is also evident, there's a small drop in all salary ranges in the 10,000 - 100,000 employee category.
 
 .. raw:: html
 
@@ -2247,7 +2240,7 @@ Employee benefits
 
    </details>
 
-.. WRITE: employee benefits
+Statutory benefits such as paid vacation (86.3%), paid sick leave (82.2%), and healthcare benefits (76.6%) were the most commonly reported, with only 1.8% of respondents indicating they received none. Extra statutory benefits, such as additional paid vacation (50.2%) and enhanced healthcare benefits (41.3%), were less common, with 14.2% reporting none. Among non-statutory benefits, insurance (54.4%), professional development budgets (50.1%), and stock options or equity (45.3%) were the most frequently provided, while only 4.5% reported receiving none.
 
 .. raw:: html
 
@@ -2371,51 +2364,6 @@ Employee satisfaction
    - Satisfied
    - Very satisfied
 
-   How strongly do you agree with the following statements about your salary and benefits? 
-
-   - I'm paid fairly 
-   - My salary keeps up with inflation / cost-of-living 
-   - My benefits are sufficient 
-
-   How strongly do you agree with the following statements about your job?
-
-   - My hours are reasonable
-   - I have flexibility in my hours
-   - My responsibilities are reasonable
-   - My workload is manageable
-   - I have opportunities for career advancement
-   - I have opportunities for professional development
-   - My work is sufficiently interesting/challenging
-   - I'm satisfied with the systems and toolsets I use
-
-   How strongly do you agree with the following statements about your workplace (remote, on-site or hybrid environment)?
-
-   - I have flexibility in my work location
-   - Our remote work systems, tools and practices function well
-   - Our on-site work systems, tools and practices function well
-   - Our hybrid work systems, tools and practices function well
-
-   How strongly do you agree with the following statements about your team and organization?
-
-   - To my knowledge, salaries are consistent across similar roles
-   - To my knowledge, all genders are paid equally
-   - My role is sufficiently valued/funded
-   - I like and/or respect my managers and team leaders
-   - I like and/or respect my co-workers
-   - I like and/or respect my organization
-   - I'm satisfied with our methodologies, systems and practices
-
-.. raw:: html
-
-   </details>
-   <details><summary>Question background</summary>
-
-.. container:: question
-
-   |icon-info| 
-
-   This question was overhauled in 2024 to be more positive in outlook. Rather than asking respondents to choose from a list of factors that may affect their satisfaction, we asked them to rate their agreement with a series of statements about their salary and benefits, job, workplace, team and organization.
-
 .. raw:: html
 
    </details>
@@ -2477,65 +2425,175 @@ The majority of employee respondents (71.8%) said they were satisfied (46%) or v
 Factors affecting salary satisfaction
 -------------------------------------
 
-.. IDEA: work out how to compare 2024 satisfaction data to previous years
+.. raw:: html
+   
+   <details><summary>What we asked</summary>
+
+.. container:: question
+
+   |icon-question| How strongly do you agree with the following statements about your salary and benefits? 
+
+   - I'm paid fairly 
+   - My salary keeps up with inflation / cost-of-living 
+   - My benefits are sufficient 
+
+   How strongly do you agree with the following statements about your job?
+
+   - My hours are reasonable
+   - I have flexibility in my hours
+   - My responsibilities are reasonable
+   - My workload is manageable
+   - I have opportunities for career advancement
+   - I have opportunities for professional development
+   - My work is sufficiently interesting/challenging
+   - I'm satisfied with the systems and toolsets I use
+
+   How strongly do you agree with the following statements about your workplace (remote, on-site or hybrid environment)?
+
+   - I have flexibility in my work location
+   - Our remote work systems, tools and practices function well
+   - Our on-site work systems, tools and practices function well
+   - Our hybrid work systems, tools and practices function well
+
+   How strongly do you agree with the following statements about your team and organization?
+
+   - To my knowledge, salaries are consistent across similar roles
+   - To my knowledge, all genders are paid equally
+   - My role is sufficiently valued/funded
+   - I like and/or respect my managers and team leaders
+   - I like and/or respect my co-workers
+   - I like and/or respect my organization
+   - I'm satisfied with our methodologies, systems and practices
+
+.. raw:: html
+
+   </details>
+   <details><summary>Question background</summary>
+
+.. container:: question
+
+   |icon-info| 
+
+   This question was overhauled in 2024 to be more positive in outlook, and to capture a fuller spectrum of attitudes. Rather than asking respondents to choose from a list of factors that may affect their satisfaction, we asked them to rate their agreement with a series of statements about their salary and benefits, job, workplace, team and organization.
+
+.. raw:: html
+
+   </details>
 
 .. WRITE: salary satisfaction
 
-35.1% of employee respondents - the largest group - said that they had no reasons for dissatisfaction with their salary and benefits. The next most-selected option was "salary is too low", with 30.5%.
+.. raw:: html
 
-As a result of 5 submissions in the "other" category, a new factor was added to these results, "No raises or adjustments for inflation", which will be included as an option for this question in 2024. It's worth noting that had this option been included in the question, other respondents may have selected it, so it's possible that this factor is affecting the industry more than these results would suggest.
+   <div class="tab-wrap"><input type="radio" id="tabF71a-1" name="tabGroupF71a" class="tab" checked><label for="tabF71a-1">Salary</label><input type="radio" id="tabF71a-2" name="tabGroupF71a" class="tab"><label for="tabF71a-2">Job</label><input type="radio" id="tabF71a-3" name="tabGroupF71a" class="tab"><label for="tabF71a-3">Workplace</label><input type="radio" id="tabF71a-4" name="tabGroupF71a" class="tab"><label for="tabF71a-4">Team</label><div class="tab__content">
 
-.. table:: Factors affecting employee salary satisfaction
-   :widths: 70 15 15
-   :name: tbl-2023-factors-affecting-employee-salary-satisfaction
-   :class: std3col sortable
+.. table:: Satisfaction statements - salary and benefits
+   :widths: 40 10 10 10 10 10 10
+   :name: tbl-2024-satisfaction-statements-salary-benefits
+   :class: sortable
 
-   +-----------------------------------------------------------------------+-----+-------+
-   | Factor                                                                | |N| | |%|   |
-   +=======================================================================+=====+=======+
-   | None of the above                                                     | 329 | 35.1% |
-   +-----------------------------------------------------------------------+-----+-------+
-   | Salary is too low                                                     | 286 | 30.5% |
-   +-----------------------------------------------------------------------+-----+-------+
-   | Discrepancy between salary and cost of living in my area              | 217 | 23.1% |
-   +-----------------------------------------------------------------------+-----+-------+
-   | Responsibilities exceed pay grade                                     | 213 | 22.7% |
-   +-----------------------------------------------------------------------+-----+-------+
-   | Benefits are missing or insufficient                                  | 198 | 21.1% |
-   +-----------------------------------------------------------------------+-----+-------+
-   | Unfair or inconsistent salary across similar roles in my organization | 155 | 16.5% |
-   +-----------------------------------------------------------------------+-----+-------+
-   | I know or suspect a gender pay gap exists in my organization          | 108 | 11.5% |
-   +-----------------------------------------------------------------------+-----+-------+
-   | I work too many hours                                                 |  82 |  8.7% |
-   +-----------------------------------------------------------------------+-----+-------+
-   | I don't work enough hours                                             |   9 |  1.0% |
-   +-----------------------------------------------------------------------+-----+-------+
-   | No raises or adjustments for inflation *                              |   5 |  0.5% |
-   +-----------------------------------------------------------------------+-----+-------+
+   +----------------------------------------------------+----------+---------+----------+--------------+
+   | Statements                                         | Positive | Neutral | Negative | Irrelevant   |
+   +====================================================+==========+=========+==========+==============+
+   | I'm paid fairly                                    |    67.0% |   16.1% |    16.8% |         0.0% |
+   +----------------------------------------------------+----------+---------+----------+--------------+
+   | My salary keeps up with inflation / cost-of-living |    42.2% |   22.6% |    32.6% |         0.7% |
+   +----------------------------------------------------+----------+---------+----------+--------------+
+   | My benefits are sufficient                         |    68.9% |   17.8% |    13.4% |         0.0% |
+   +----------------------------------------------------+----------+---------+----------+--------------+
 
-.. raw:: html 
-   
-   <div class="tbl-footnote">
+.. raw:: html
 
-\* A new factor, added to the 2023 results as a result of multiple submissions in the "other" category
+   </div><div class="tab__content">
 
-.. raw:: html 
+.. table:: Satisfaction statements - job
+   :widths: 40 10 10 10 10 10 10
+   :name: tbl-2024-satisfaction-statements-job
+   :class: sortable
 
-   </div>
+   +---------------------------------------------------+----------+---------+----------+------------+
+   | Statements                                        | Positive | Neutral | Negative | Irrelevant |
+   +===================================================+==========+=========+==========+============+
+   | My hours are reasonable                           |    88.0% |    7.4% |     4.5% |       0.0% |
+   +---------------------------------------------------+----------+---------+----------+------------+
+   | I have flexibility in my hours                    |    91.7% |    4.5% |     3.8% |       0.0% |
+   +---------------------------------------------------+----------+---------+----------+------------+
+   | My responsibilities are reasonable                |    79.1% |   11.5% |     9.4% |       0.0% |
+   +---------------------------------------------------+----------+---------+----------+------------+
+   | My workload is manageable                         |    69.6% |   16.1% |    14.2% |       0.1% |
+   +---------------------------------------------------+----------+---------+----------+------------+
+   | I have opportunities for career advancement       |    43.7% |   27.6% |    27.6% |       1.0% |
+   +---------------------------------------------------+----------+---------+----------+------------+
+   | I have opportunities for professional development |    62.7% |   20.5% |    16.3% |       0.6% |
+   +---------------------------------------------------+----------+---------+----------+------------+
+   | My work is sufficiently interesting/challenging   |    73.3% |   17.0% |     9.7% |       0.0% |
+   +---------------------------------------------------+----------+---------+----------+------------+
+   | I’m satisfied with the systems and toolsets I use |    60.9% |   20.6% |    18.3% |       0.1% |
+   +---------------------------------------------------+----------+---------+----------+------------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Satisfaction statements - workplace
+   :widths: 40 10 10 10 10 10 10
+   :name: tbl-2024-satisfaction-statements-workplace
+   :class: sortable
+
+   +-------------------------------------------------------------+----------+---------+----------+------------+
+   | Statements                                                  | Positive | Neutral | Negative | Irrelevant |
+   +=============================================================+==========+=========+==========+============+
+   | I have flexibility in my work location                      |    79.6% |    6.5% |    11.0% |       2.8% |
+   +-------------------------------------------------------------+----------+---------+----------+------------+
+   | Our remote work systems, tools and practices function well  |    83.9% |    8.8% |     3.7% |       3.6% |
+   +-------------------------------------------------------------+----------+---------+----------+------------+
+   | Our on-site work systems, tools and practices function well |    52.0% |   11.9% |     5.5% |      30.6% |
+   +-------------------------------------------------------------+----------+---------+----------+------------+
+   | Our hybrid work systems, tools and practices function well  |    53.6% |   11.1% |     4.6% |      30.7% |
+   +-------------------------------------------------------------+----------+---------+----------+------------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Satisfaction statements - team and organization
+   :widths: 40 10 10 10 10 10 10
+   :name: tbl-2024-satisfaction-statements-team-organization
+   :class: sortable
+
+   +---------------------------------------------------------------+----------+---------+----------+------------+
+   | Statements                                                    | Positive | Neutral | Negative | Irrelevant |
+   +===============================================================+==========+=========+==========+============+
+   | To my knowledge, salaries are consistent across similar roles |    40.4% |   33.2% |    19.2% |       7.2% |
+   +---------------------------------------------------------------+----------+---------+----------+------------+
+   | To my knowledge, all genders are paid equally                 |    51.9% |   30.9% |    12.8% |       4.5% |
+   +---------------------------------------------------------------+----------+---------+----------+------------+
+   | My role is sufficiently valued/funded                         |    52.9% |   20.1% |    26.8% |       0.3% |
+   +---------------------------------------------------------------+----------+---------+----------+------------+
+   | I like and/or respect my managers and team leaders            |    79.5% |   11.9% |     8.1% |       0.4% |
+   +---------------------------------------------------------------+----------+---------+----------+------------+
+   | I like and/or respect my co-workers                           |    91.7% |    6.2% |     1.6% |       0.6% |
+   +---------------------------------------------------------------+----------+---------+----------+------------+
+   | I like and/or respect my organization                         |    66.9% |   22.2% |    10.4% |       0.6% |
+   +---------------------------------------------------------------+----------+---------+----------+------------+
+   | I’m satisfied with our methodologies, systems and practices   |    49.9% |   25.1% |    24.6% |       0.4% |
+   +---------------------------------------------------------------+----------+---------+----------+------------+
+
+.. raw:: html
+
+   </div></div>
 
 .. CHART: chart for employee salary satisfaction factors
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Factors affecting salary satisfaction" aria-describedby="figure_factors-affecting-salary-satisfaction_desc" type="image/svg+xml" data="/_images/2023-factors-affecting-salary-satisfaction.svg">
+      <object role="img" aria-label="Factors affecting salary satisfaction" aria-describedby="figure_factors-affecting-salary-satisfaction_desc" type="image/svg+xml" data="/_images/2024-factors-affecting-salary-satisfaction.svg">
          <p id="figure_factors-affecting-salary-satisfaction_desc">Horizontal bar chart showing factors affecting salary satisfaction, as reported by employee respondents in 2023.</p>
       </object> 
       <figcaption>Figure: Factors affecting salary satisfaction</figcaption>
    </figure>
 
-.. figure:: images/2023/2023-factors-affecting-salary-satisfaction.svg
+.. figure:: images/2024/2024-factors-affecting-salary-satisfaction.svg
    :class: hide
 
 
