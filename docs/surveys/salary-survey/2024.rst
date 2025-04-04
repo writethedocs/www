@@ -2482,101 +2482,105 @@ Factors affecting salary satisfaction
 
 .. WRITE: salary satisfaction
 
+Draft: While the format of this question has changed, it's possible to see patterns in the responses. For example, most respondents like and/or respect their co-workers (91.7% agreed), and to a lesser extent their managers and team leaders (79.5%) and their organization (66.9%). Many respondents are concerned with their salary not keeping up with inflation (32.6%), and a significant number are not satisfied with their workload (14.2%).  
+
+Also note: those who thought any statement was irrelevant are not included in the totals.
+
 .. raw:: html
 
    <div class="tab-wrap"><input type="radio" id="tabF71a-1" name="tabGroupF71a" class="tab" checked><label for="tabF71a-1">Salary</label><input type="radio" id="tabF71a-2" name="tabGroupF71a" class="tab"><label for="tabF71a-2">Job</label><input type="radio" id="tabF71a-3" name="tabGroupF71a" class="tab"><label for="tabF71a-3">Workplace</label><input type="radio" id="tabF71a-4" name="tabGroupF71a" class="tab"><label for="tabF71a-4">Team</label><div class="tab__content">
 
 .. table:: Satisfaction statements - salary and benefits
-   :widths: 40 10 10 10 10 10 10
+   :widths: 55 15 15 15
    :name: tbl-2024-satisfaction-statements-salary-benefits
-   :class: sortable
+   :class: sortable statements
 
-   +----------------------------------------------------+----------+---------+----------+--------------+
-   | Statements                                         | Positive | Neutral | Negative | Irrelevant   |
-   +====================================================+==========+=========+==========+==============+
-   | I'm paid fairly                                    |    67.0% |   16.1% |    16.8% |         0.0% |
-   +----------------------------------------------------+----------+---------+----------+--------------+
-   | My salary keeps up with inflation / cost-of-living |    42.2% |   22.6% |    32.6% |         0.7% |
-   +----------------------------------------------------+----------+---------+----------+--------------+
-   | My benefits are sufficient                         |    68.9% |   17.8% |    13.4% |         0.0% |
-   +----------------------------------------------------+----------+---------+----------+--------------+
+   +----------------------------------------------------+----------+---------+----------+
+   | Statements                                         | Positive | Netural | Negative |
+   +====================================================+==========+=========+==========+
+   | I'm paid fairly                                    |    67.0% |   16.1% |    16.8% |
+   +----------------------------------------------------+----------+---------+----------+
+   | My salary keeps up with inflation / cost-of-living |    44.4% |   22.7% |    32.8% |
+   +----------------------------------------------------+----------+---------+----------+
+   | My benefits are sufficient                         |    68.9% |   17.8% |    13.4% |
+   +----------------------------------------------------+----------+---------+----------+
 
 .. raw:: html
 
    </div><div class="tab__content">
 
 .. table:: Satisfaction statements - job
-   :widths: 40 10 10 10 10 10 10
+   :widths: 55 15 15 15
    :name: tbl-2024-satisfaction-statements-job
-   :class: sortable
+   :class: sortable statements
 
-   +---------------------------------------------------+----------+---------+----------+------------+
-   | Statements                                        | Positive | Neutral | Negative | Irrelevant |
-   +===================================================+==========+=========+==========+============+
-   | My hours are reasonable                           |    88.0% |    7.4% |     4.5% |       0.0% |
-   +---------------------------------------------------+----------+---------+----------+------------+
-   | I have flexibility in my hours                    |    91.7% |    4.5% |     3.8% |       0.0% |
-   +---------------------------------------------------+----------+---------+----------+------------+
-   | My responsibilities are reasonable                |    79.1% |   11.5% |     9.4% |       0.0% |
-   +---------------------------------------------------+----------+---------+----------+------------+
-   | My workload is manageable                         |    69.6% |   16.1% |    14.2% |       0.1% |
-   +---------------------------------------------------+----------+---------+----------+------------+
-   | I have opportunities for career advancement       |    43.7% |   27.6% |    27.6% |       1.0% |
-   +---------------------------------------------------+----------+---------+----------+------------+
-   | I have opportunities for professional development |    62.7% |   20.5% |    16.3% |       0.6% |
-   +---------------------------------------------------+----------+---------+----------+------------+
-   | My work is sufficiently interesting/challenging   |    73.3% |   17.0% |     9.7% |       0.0% |
-   +---------------------------------------------------+----------+---------+----------+------------+
-   | I’m satisfied with the systems and toolsets I use |    60.9% |   20.6% |    18.3% |       0.1% |
-   +---------------------------------------------------+----------+---------+----------+------------+
+   +---------------------------------------------------+----------+---------+----------+
+   | Statements                                        | Positive | Neutral | Negative |
+   +===================================================+==========+=========+==========+
+   | My hours are reasonable                           |    88.0% |    7.4% |     4.5% |
+   +---------------------------------------------------+----------+---------+----------+
+   | I have flexibility in my hours                    |    91.7% |    4.5% |     3.8% |
+   +---------------------------------------------------+----------+---------+----------+
+   | My responsibilities are reasonable                |    79.1% |   11.5% |     9.4% |
+   +---------------------------------------------------+----------+---------+----------+
+   | My workload is manageable                         |    69.6% |   16.2% |    14.2% |
+   +---------------------------------------------------+----------+---------+----------+
+   | I have opportunities for career advancement       |    44.2% |   27.9% |    27.9% |
+   +---------------------------------------------------+----------+---------+----------+
+   | I have opportunities for professional development |    63.0% |   20.6% |    16.4% |
+   +---------------------------------------------------+----------+---------+----------+
+   | My work is sufficiently interesting/challenging   |    73.3% |   17.0% |     9.7% |
+   +---------------------------------------------------+----------+---------+----------+
+   | I’m satisfied with the systems and toolsets I use |    60.9% |   20.7% |    18.4% |
+   +---------------------------------------------------+----------+---------+----------+
 
 .. raw:: html
 
    </div><div class="tab__content">
 
 .. table:: Satisfaction statements - workplace
-   :widths: 40 10 10 10 10 10 10
+   :widths: 55 15 15 15
    :name: tbl-2024-satisfaction-statements-workplace
-   :class: sortable
+   :class: sortable statements
 
-   +-------------------------------------------------------------+----------+---------+----------+------------+
-   | Statements                                                  | Positive | Neutral | Negative | Irrelevant |
-   +=============================================================+==========+=========+==========+============+
-   | I have flexibility in my work location                      |    79.6% |    6.5% |    11.0% |       2.8% |
-   +-------------------------------------------------------------+----------+---------+----------+------------+
-   | Our remote work systems, tools and practices function well  |    83.9% |    8.8% |     3.7% |       3.6% |
-   +-------------------------------------------------------------+----------+---------+----------+------------+
-   | Our on-site work systems, tools and practices function well |    52.0% |   11.9% |     5.5% |      30.6% |
-   +-------------------------------------------------------------+----------+---------+----------+------------+
-   | Our hybrid work systems, tools and practices function well  |    53.6% |   11.1% |     4.6% |      30.7% |
-   +-------------------------------------------------------------+----------+---------+----------+------------+
+   +-------------------------------------------------------------+----------+---------+----------+
+   | Statements                                                  | Positive | Neutral | Negative |
+   +=============================================================+==========+=========+==========+
+   | I have flexibility in my work location                      |    82.0% |    6.6% |    11.4% |
+   +-------------------------------------------------------------+----------+---------+----------+
+   | Our remote work systems, tools and practices function well  |    87.0% |    9.2% |     3.8% |
+   +-------------------------------------------------------------+----------+---------+----------+
+   | Our on-site work systems, tools and practices function well |    74.9% |   17.2% |     7.9% |
+   +-------------------------------------------------------------+----------+---------+----------+
+   | Our hybrid work systems, tools and practices function well  |    77.4% |   16.0% |     6.6% |
+   +-------------------------------------------------------------+----------+---------+----------+
 
 .. raw:: html
 
    </div><div class="tab__content">
 
 .. table:: Satisfaction statements - team and organization
-   :widths: 40 10 10 10 10 10 10
+   :widths: 55 15 15 15
    :name: tbl-2024-satisfaction-statements-team-organization
-   :class: sortable
+   :class: sortable statements
 
-   +---------------------------------------------------------------+----------+---------+----------+------------+
-   | Statements                                                    | Positive | Neutral | Negative | Irrelevant |
-   +===============================================================+==========+=========+==========+============+
-   | To my knowledge, salaries are consistent across similar roles |    40.4% |   33.2% |    19.2% |       7.2% |
-   +---------------------------------------------------------------+----------+---------+----------+------------+
-   | To my knowledge, all genders are paid equally                 |    51.9% |   30.9% |    12.8% |       4.5% |
-   +---------------------------------------------------------------+----------+---------+----------+------------+
-   | My role is sufficiently valued/funded                         |    52.9% |   20.1% |    26.8% |       0.3% |
-   +---------------------------------------------------------------+----------+---------+----------+------------+
-   | I like and/or respect my managers and team leaders            |    79.5% |   11.9% |     8.1% |       0.4% |
-   +---------------------------------------------------------------+----------+---------+----------+------------+
-   | I like and/or respect my co-workers                           |    91.7% |    6.2% |     1.6% |       0.6% |
-   +---------------------------------------------------------------+----------+---------+----------+------------+
-   | I like and/or respect my organization                         |    66.9% |   22.2% |    10.4% |       0.6% |
-   +---------------------------------------------------------------+----------+---------+----------+------------+
-   | I’m satisfied with our methodologies, systems and practices   |    49.9% |   25.1% |    24.6% |       0.4% |
-   +---------------------------------------------------------------+----------+---------+----------+------------+
+   +---------------------------------------------------------------+----------+---------+----------+
+   | Statements                                                    | Positive | Neutral | Negative |
+   +===============================================================+==========+=========+==========+
+   | To my knowledge, salaries are consistent across similar roles |    43.5% |   35.8% |    20.7% |
+   +---------------------------------------------------------------+----------+---------+----------+
+   | To my knowledge, all genders are paid equally                 |    54.3% |   32.3% |    13.4% |
+   +---------------------------------------------------------------+----------+---------+----------+
+   | My role is sufficiently valued/funded                         |    53.0% |   20.1% |    26.9% |
+   +---------------------------------------------------------------+----------+---------+----------+
+   | I like and/or respect my managers and team leaders            |    79.8% |   12.0% |     8.2% |
+   +---------------------------------------------------------------+----------+---------+----------+
+   | I like and/or respect my co-workers                           |    92.2% |    6.2% |     1.6% |
+   +---------------------------------------------------------------+----------+---------+----------+
+   | I like and/or respect my organization                         |    67.3% |   22.3% |    10.4% |
+   +---------------------------------------------------------------+----------+---------+----------+
+   | I’m satisfied with our methodologies, systems and practices   |    50.2% |   25.2% |    24.6% |
+   +---------------------------------------------------------------+----------+---------+----------+
 
 .. raw:: html
 
@@ -3143,9 +3147,7 @@ Factors affecting contractor satisfaction
 Organization demographics
 =========================
 
-.. WRITE: update organization demographics intro to include contractor changes in 2024
-
-This section concerns employing organizations. Contractors were asked to either answer about the main organization they work for, or a typical/respresentative organization, whichever felt most appropriate to them.
+This section concerns employing organizations. Contractors were given the option of answering about the main organization they work for, or skipping this section if it was not relevant. Only 6 contractors chose not to answer. 
 
 Organization size
 -----------------
