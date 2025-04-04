@@ -75,7 +75,7 @@ Additionally, we still have a couple volunteer shifts available. If you'd like t
 
 ## Travel Cancellation Policy
 
-Unfortunately, our government is making it unsafe for some of our international community to travel to the United States. If you need to cancel travel due to these circumstances, we will waive the 10% cancellation fee and offer a 100% ticket refund. We request two weeks' notice for cancellations so we can properly staff and cater the conference.
+Unfortunately, international travel to the United States has become more complex for many in our community. If you need to cancel travel due to these circumstances, we will waive the 10% cancellation fee and offer a 100% ticket refund. Our [refund policy](https://www.writethedocs.org/conf/portland/2025/tickets/#refund-policy) on our website has been updated to reflect this.
 
 For those unable to attend in person, we offer a [virtual ticket option](https://www.writethedocs.org/conf/portland/2025/tickets/) that provides access to view the main stage talks in real time. 
 
