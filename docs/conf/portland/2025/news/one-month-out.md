@@ -84,6 +84,10 @@ Your safety and wellbeing are our top priorities, and we support you in making t
 
 We are grateful to have the support of the following companies in 2025:
 
-{% include "include/sponsors.jinja" with context %}
+```{eval-rst}
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-config.yaml
+   :template: {{year}}/sponsors-simplelist.rst
+```
 
 See you in one month!
