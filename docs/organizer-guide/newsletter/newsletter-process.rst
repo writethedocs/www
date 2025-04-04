@@ -128,7 +128,7 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
    Write the Docs resources
    ------------------------
 
-   Write the Docs offers lots of valuable resources related to documentation. See all of the Write the Docs `learning resources </about/learning-resources/>`__. To discuss any of these ideas or others related to documentation, join the conversation in the `Write the Docs Slack community </slack/>` in one of the many `channels </slack/#channel-guide>`__.
+   Write the Docs offers lots of valuable resources related to documentation. See all of the Write the Docs `learning resources </about/learning-resources/>`__. To discuss any of these ideas or others related to documentation, join the conversation in the `Write the Docs Slack community </slack/>`__ in one of the many `channels </slack/#channel-guide>`__.
 
    ----------------
    Events coming up
