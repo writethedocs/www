@@ -7,24 +7,26 @@
     <script src="https://kit.fontawesome.com/c6174d00bb.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="{{ pathto('_static/survey/css/open-props.min.css', 1) }}" type="text/css">
     <link rel="stylesheet" href="{{ pathto('_static/survey/css/main-2024.css', 1) }}" type="text/css">
+    <link rel="stylesheet" href="{{ pathto('_static/survey/css/props.colors-hsl.css', 1) }}" type="text/css">
     <script src="{{ pathto('_static/survey/js/survey.js', 1) }}"></script>
-    <title>
-    {% block full_title %}
-    {% if title %}{{ title }}{% endif %} - Write the Docs
-    {% endblock full_title %}
-    </title>
-    <meta content="The 5th annual WTD Documentation Salary Survey was filled out by 1017 documentarians in 53 countries, working across dozens of industries. Check out the full results here!" name="description" />
-    <meta property="og:title" content="Write the Docs Documentation Salary Survey results for 2023" />
+    <title>{{ title }} - Write the Docs</title>
+    <meta content="{{ description }}" name="description" />
+    <meta property="og:title" content="Write the Docs Documentation Salary Survey {{ survey_year }} Results" />
     <meta property="og:site_name" content="Write the Docs" />
-    <meta property="og:image" content="https://www.writethedocs.org/_static/survey/img/2023-results-opengraph.png" />
+    <meta property="og:image" content="https://www.writethedocs.org/_static/survey/img/{{ survey_year }}-results-opengraph.png" />
   </head>
-  <body>
+  <body class="surveytheme-{{ survey_year }}">
     <div class="wrapper">
       <container>
-        <header>{% include 'survey/header.html' %}</header>
-        {{ body }}</main>
+        <header>{% include 'survey/header.html' %}</header>        
+        {{ body }}
+        <a href="#" id="back-to-top" title="Back to top">Back to top ↑</a>
+      </main>
       </container>
-      <footer>{% include 'footer.html' %}</footer>
+      <footer>{% include 'footer.html' %}
+        <script src="{{ pathto('_static/survey/js/sortable.min.js', 1) }}"></script>
+        <script src="{{ pathto('_static/survey/js/sortable.a11y.min.js', 1) }}"></script>
+      </footer>
     </div>
   </body>
 </html>

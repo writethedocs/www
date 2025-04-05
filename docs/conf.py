@@ -241,6 +241,13 @@ notfound_no_urls_prefix = True
 
 
 def setup(app):
+
+    # add any metadata from the template into the page context
+    def add_metadata(app, pagename, templatename, context, doctree):
+        metadata = app.env.metadata.get(pagename, {})
+        context.update(metadata)
+    app.connect("html-page-context", add_metadata)
+
     # Set up our custom jinja filters
     app.connect("builder-inited", add_jinja_filters_to_app)
 
