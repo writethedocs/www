@@ -1,6 +1,6 @@
 :template: survey/layout.html
 :survey_year: 2024
-:description: The 6th annual WTD Documentation Salary Survey was filled out by xxx documentarians in xx countries, working across dozens of industries. Check out the full results here!
+:description: The 6th annual WTD Documentation Salary Survey was filled out by 779 documentarians in 55 countries, working across dozens of industries. Check out the full results here!
 
 .. title:: Documentation Salary Survey Results 2024
 
@@ -58,7 +58,7 @@ Introduction
 
 This sixth incarnation of the Write the Docs Salary Survey drew 779 responses, from documentarians in 55 countries. As always, we are impressed by the skills, experience and diversity of the Write the Docs community, and are grateful to everyone who took the time to fill out the survey and share it with their co-workers. Without further ado, let's look at the findings!
 
-In a hurry? Jump straight to `Median salary`_ or `Median hourly rate`_.
+In a hurry? Jump straight to `Median salary`_ or `Median contract rate`_.
 
 .. container:: note
 
@@ -425,6 +425,10 @@ Of the respondents who selected additional role categories, the number chosen ra
 
 This resulted in an incredibly diverse range of primary and secondary role category combinations - over 3,400 in all. 
 
+.. raw::: html
+
+   <!-- TODO: break this up into three or four tables in tabs -->
+
 .. table:: Top role category combinations
    :widths: 90 10
    :name: tbl-2024-top-category-combinations
@@ -642,7 +646,7 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
    
    <!-- CHART: chart for "time in current role" -->
    <figure>
-      <object role="img" aria-label="Length of time in current role at current organization" aria-describedby="figure_length-of-time-in-current-role_desc" type="image/svg+xml" data="/_images/2023-length-of-time-in-current-role.svg">
+      <object role="img" aria-label="Length of time in current role at current organization" aria-describedby="figure_length-of-time-in-current-role_desc" type="image/svg+xml" data="/_images/2024-length-of-time-in-current-role.svg">
          <p id="figure_length-of-time-in-current-role_desc">Length of time in current role (at current organization - employee respondents who have changed roles at the same organization were instructed to specify the length of time they had been in their current role only, not the total length of time at the organization)</p>
       </object> 
       <figcaption>Figure: Length of time in current role</figcaption>
@@ -746,7 +750,7 @@ The majority of respondents (68.8%) reported that documentation makes up their w
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Portion of role actually documentation-related" aria-describedby="figure_proportion-of-role-actually-docs-related_desc" type="image/svg+xml" data="/_images/2023-proportion-actual.svg">
+      <object role="img" aria-label="Portion of role actually documentation-related" aria-describedby="figure_proportion-of-role-actually-docs-related_desc" type="image/svg+xml" data="/_images/2024-proportion-actual.svg">
          <p id="figure_proportion-of-role-actually-docs-related_desc">Donut chart showing what proportion of respondents actual day-to-day tasks are documentation-related.</p>
       </object> 
       <figcaption>Figure: Portion of role actually documentation-related</figcaption>
@@ -1435,7 +1439,7 @@ For the first time since 2019, hybrid work has overtaken fully remote work as th
 
    <!-- CHART: work location -->
    <figure>
-      <object role="img" aria-label="Work location" aria-describedby="figure_work-location_desc" type="image/svg+xml" data="/_images/2023-work-location.svg">
+      <object role="img" aria-label="Work location" aria-describedby="figure_work-location_desc" type="image/svg+xml" data="/_images/2024-work-location.svg">
          <p id="figure_work-location_desc">Donut chart showing current work location - remote, hybrid, on-site - and whether the location is their choice or their employer's.</p>
       </object> 
       <figcaption>Figure: Work location</figcaption>
@@ -1469,7 +1473,7 @@ The majority of respondents (82.6% overall) reported feeling "positive" about th
 
    <!-- CHART: attitudes towards work location -->
    <figure>
-      <object role="img" aria-label="Work location" aria-describedby="figure_feelings-about-work-location_desc" type="image/svg+xml" data="/_images/2023-feelings-about-work-location.svg">
+      <object role="img" aria-label="Work location" aria-describedby="figure_feelings-about-work-location_desc" type="image/svg+xml" data="/_images/2024-feelings-about-work-location.svg">
          <p id="figure_feelings-about-work-location_desc">Donut chart showing respondents feelings about their work location.</p>
       </object> 
       <figcaption>Figure: Feelings about work location</figcaption>
@@ -2489,7 +2493,7 @@ Respondents who indicated that the statement was not relevant to their situation
    :class: sortable statements
 
    +----------------------------------------------------+----------+---------+----------+
-   | Statements                                         | Positive | Netural | Negative |
+   | Statements                                         | Positive | Neutral | Negative |
    +====================================================+==========+=========+==========+
    | I'm paid fairly                                    |    67.0% |   16.1% |    16.8% |
    +----------------------------------------------------+----------+---------+----------+
@@ -2827,8 +2831,8 @@ Contractor respondents were paid in 15 different currencies. To make comparisons
    | Sri Lankan Rupee (LKR)       |     0.0033 | 1       | 1.1%    |
    +------------------------------+------------+---------+---------+
 
-Median rates
-~~~~~~~~~~~~
+Median contract rate
+~~~~~~~~~~~~~~~~~~~~
 
 In previous years, we asked contractor respondents to enter multiple rates, if appropriate, and a number did so. This year, although the form allowed multiple rates to be entered, no respondents entered more than one type of rate.  
 
@@ -3477,6 +3481,7 @@ Attitudes towards pay transparency
    +----------------------------+-----+-------+
 
 .. raw:: html
+   
    <!-- CHART: Pay transparency attitudes -->
 
 Organization origin and location
