@@ -30,13 +30,10 @@
 
 .. raw:: html   
    
-  <nav>
-
-.. IDEA: current menu section and sub-sections: make them clearer - what about automatically updating as you scroll?
-
-.. IDEA: work out how to implement the nav menu on mobile - hamburger?
-
-.. IDEA: try alternative table sorting library that works with hidden sort columns
+   <!-- TODO: try alternative table sorting library that works with hidden sort columns -->
+   <!-- TODO: table style/color scheme tweaks -->
+   <nav role="navigation" aria-label="Table of contents" class="main-toc">
+   <!-- TODO: toc expand on scroll -->
 
 .. contents:: Table of contents
    :depth: 3
@@ -48,7 +45,7 @@
    <div class="breadcrumbs"><a href="/">Home</a> &raquo; <a href="/surveys/">Salary Surveys</a> &raquo;</div>
   <main>
 
-.. IDEA: add survey-only newsletter signup form 
+   <!-- TODO: add survey-only newsletter signup form -->
 
 .. _top:
 
@@ -641,10 +638,9 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
    | 2-5 years              | 16     | 17.0%  |
    +------------------------+--------+--------+
 
-.. CHART: chart for "time in current role"
-
 .. raw:: html
-
+   
+   <!-- CHART: chart for "time in current role" -->
    <figure>
       <object role="img" aria-label="Length of time in current role at current organization" aria-describedby="figure_length-of-time-in-current-role_desc" type="image/svg+xml" data="/_images/2023-length-of-time-in-current-role.svg">
          <p id="figure_length-of-time-in-current-role_desc">Length of time in current role (at current organization - employee respondents who have changed roles at the same organization were instructed to specify the length of time they had been in their current role only, not the total length of time at the organization)</p>
@@ -734,10 +730,9 @@ The majority of respondents (68.8%) reported that documentation makes up their w
 
    </div></div>
 
-.. CHART: proportion of role; actual portion vs official portion
-
 .. raw:: html
 
+   <!-- CHART: proportion of role; actual portion vs official portion -->
    <figure>
       <object role="img" aria-label="Portion of role officially documentation-related" aria-describedby="figure_proportion-of-role-officially-docs-related_desc" type="image/svg+xml" data="/_images/2024-portion-of-role-officially-docs-related.svg">
          <p id="figure_proportion-of-role-officially-docs-related_desc">Donut chart showing what proportion of respondents official job description was documentation-related.</p>
@@ -1278,7 +1273,7 @@ Around half of all employees (51.4%) and half of all contractors (50% exactly) r
 
 	</div></div>
 
-.. CHART: job security
+   <!-- CHART: job security -->
 
 Job search confidence
 ---------------------
@@ -1373,7 +1368,7 @@ Amongst contractors - a smaller number of respondents overall - the trend was to
 
 	</div></div>
 
-.. CHART: job search confidence
+   <!-- CHART: job search confidence -->
 
 Workplace
 =========
@@ -1436,10 +1431,9 @@ For the first time since 2019, hybrid work has overtaken fully remote work as th
    | On-site (not required)       | 26        | 3.3%      |
    +------------------------------+-----------+-----------+
 
-.. CHART: work location
-
 .. raw:: html
 
+   <!-- CHART: work location -->
    <figure>
       <object role="img" aria-label="Work location" aria-describedby="figure_work-location_desc" type="image/svg+xml" data="/_images/2023-work-location.svg">
          <p id="figure_work-location_desc">Donut chart showing current work location - remote, hybrid, on-site - and whether the location is their choice or their employer's.</p>
@@ -1471,10 +1465,9 @@ The majority of respondents (82.6% overall) reported feeling "positive" about th
    | Very negative        | 12        | 1.5%      |
    +----------------------+-----------+-----------+
 
-.. CHART: attitudes towards work location
-
 .. raw:: html
 
+   <!-- CHART: attitudes towards work location -->
    <figure>
       <object role="img" aria-label="Work location" aria-describedby="figure_feelings-about-work-location_desc" type="image/svg+xml" data="/_images/2023-feelings-about-work-location.svg">
          <p id="figure_feelings-about-work-location_desc">Donut chart showing respondents feelings about their work location.</p>
@@ -1667,7 +1660,9 @@ Regardless of their current situation, 52.1% of all respondents said that their 
    | On-site                          | 22        | 2.8%      |
    +----------------------------------+-----------+-----------+
 
-.. CHART: preferred work location - also over time?
+.. raw:: html
+   
+   <!-- CHART: preferred work location - also over time? -->
 
 Employee salary, benefits and satisfaction
 ==========================================
@@ -2420,7 +2415,7 @@ The majority of employee respondents (71.8%) said they were satisfied (46%) or v
 
    </div></div>
 
-.. CHART: salary and overall job satisfaction
+   <!-- CHART: salary and overall job satisfaction -->
 
 Factors affecting salary satisfaction
 -------------------------------------
@@ -2480,11 +2475,9 @@ Factors affecting salary satisfaction
 
    </details>
 
-.. WRITE: summarize salary satisfaction
+While the format of this question has changed from previous years, it's possible to see patterns in the responses. For example, most respondents like and/or respect their co-workers (91.7% agreed), and to a lesser extent their managers and team leaders (79.5%) and their organization (66.9%). Many respondents are concerned with their salary not keeping up with inflation (32.6%), and a significant number are not satisfied with their workload (14.2%).  
 
-Draft: While the format of this question has changed, it's possible to see patterns in the responses. For example, most respondents like and/or respect their co-workers (91.7% agreed), and to a lesser extent their managers and team leaders (79.5%) and their organization (66.9%). Many respondents are concerned with their salary not keeping up with inflation (32.6%), and a significant number are not satisfied with their workload (14.2%).  
-
-Also note: those who thought any statement was irrelevant are not included in the totals.
+Respondents who indicated that the statement was not relevant to their situation were excluded from the analysis.
 
 .. raw:: html
 
@@ -2586,10 +2579,9 @@ Also note: those who thought any statement was irrelevant are not included in th
 
    </div></div>
 
-.. CHART: chart for employee salary satisfaction factors
-
 .. raw:: html
 
+   <!-- CHART: employee salary satisfaction factors -->
    <figure>
       <object role="img" aria-label="Factors affecting salary satisfaction" aria-describedby="figure_factors-affecting-salary-satisfaction_desc" type="image/svg+xml" data="/_images/2024-factors-affecting-salary-satisfaction.svg">
          <p id="figure_factors-affecting-salary-satisfaction_desc">Horizontal bar chart showing factors affecting salary satisfaction, as reported by employee respondents in 2023.</p>
@@ -3010,6 +3002,21 @@ Factors affecting contractor satisfaction
 .. raw:: html
 
    </details>
+   <details><summary>Question background</summary>
+
+.. container:: question
+
+   |icon-info| 
+
+   This question was overhauled in 2024 to be more positive in outlook, and to capture a fuller spectrum of attitudes. Rather than asking respondents to choose from a list of factors that may affect their satisfaction, we asked them to rate their agreement with a series of statements about their salary and benefits, job, workplace, team and organization.
+
+.. raw:: html
+
+   </details>
+
+While the format of this question has changed from previous years, it's possible to see patterns in the responses. For example, many contractors are concerned with keeping up with inflation (32.6%), and career advancement opportunities (42.1% negative). 
+
+Respondents who indicated that the statement was not relevant to their situation were excluded from the analysis.
 
 .. raw:: html
 
@@ -3417,7 +3424,7 @@ We asked for the first time in 2024 if respondents were aware of the legal requi
 
    </div></div>
 
-.. CHART: Pay transparency policy / law
+   <!-- CHART: Pay transparency policy / law -->
 
 Pay transparency culture
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -3441,7 +3448,9 @@ The majority of respondents reported that there was not a culture of sharing sal
    | Yes, co-workers openly share               | 12  | 1.6%  |
    +--------------------------------------------+-----+-------+
 
-.. CHART: Pay transparency culture
+.. raw:: html
+
+   <!-- CHART: Pay transparency culture -->
 
 Attitudes towards pay transparency
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -3467,7 +3476,8 @@ Attitudes towards pay transparency
    | Strongly oppose            | 8   | 1.0%  |
    +----------------------------+-----+-------+
 
-.. CHART: Pay transparency attitudes
+.. raw:: html
+   <!-- CHART: Pay transparency attitudes -->
 
 Organization origin and location
 --------------------------------
@@ -3701,10 +3711,9 @@ The age group split in 2024 was similar to previous years, with the majority of 
    | not-specified    | 5   | 0.6%  |
    +------------------+-----+-------+
 
-.. CHART: age group
-
 .. raw:: html
 
+   <!-- CHART: age group -->
    <figure>
       <object role="img" aria-label="Respondent age group" aria-describedby="figure_respondent-age-group_desc" type="image/svg+xml" data="/_images/2024-respondent-age-group.svg">
          <p id="figure_respondent-age-group_desc">Vertical bar chart showing age groupings of respondents. </p>
@@ -3755,10 +3764,9 @@ As in previous surveys, the majority of respondents in 2024 were women - 57% - w
    | Not specified       | 13  | 1.7%  |
    +---------------------+-----+-------+
 
-.. CHART: gender identity
-
 .. raw:: html
 
+   <!-- CHART: gender identity -->
    <figure>
       <object role="img" aria-label="Respondent gender identity" aria-describedby="figure_respondent-gender-identity_desc" type="image/svg+xml" data="/_images/2024-respondent-gender-identity.svg">
          <p id="figure_respondent-gender-identity_desc">Donut chart showing gender identity of respondents.</p>
@@ -3826,10 +3834,9 @@ The experience level spread of respondents echoed previous years - most falling 
    | Not specified       | 2   | 0.3%  |
    +---------------------+-----+-------+
 
-.. CHART: chart for years of experience
-
 .. raw:: html
 
+   <!-- CHART: years of experience -->
    <figure>
       <object role="img" aria-label="Respondent years of experience" aria-describedby="figure_respondent-years-experience_desc" type="image/svg+xml" data="/_images/2024-respondent-years-experience.svg">
          <p id="figure_respondent-years-experience_desc">Vertical bar chart showing respondents' years of experience in documentation. </p>
@@ -3892,10 +3899,9 @@ As in previous years, most respondents are university- or college-educated: 94.2
    | None of the listed options     | 2   | 0.3%  |
    +--------------------------------+-----+-------+
 
-.. CHART: chart for education level
-
 .. raw:: html
 
+   <!-- CHART: education level -->
    <figure>
       <object role="img" aria-label="Respondent education level" aria-describedby="figure_respondent-education-level_desc" type="image/svg+xml" data="/_images/2024-respondent-education.svg">
          <p id="figure_respondent-education-level_desc">Vertical bar chart showing respondents' highest completed level of education. </p>
@@ -3929,7 +3935,7 @@ Location
 
 Around half of all respondents (55.3%) were based in North America, the bulk of those (80% of this region, or 44.3% overall) in the United States. In total, 55 countries were represented.
 
-.. WRITE: year to year country statistics
+Chile and Malta appeared in the results for the first time this year, with one respondent each. 
 
 .. raw:: html
 
@@ -4270,8 +4276,6 @@ Cities with at least 10 respondents are shown.
 
    </div></div>
 
-.. CHART: is there any useful way to chart respondent location data?
-
 Survey feedback
 ===============
 
@@ -4375,4 +4379,21 @@ Overall, most respondents were positive about the survey, with "Strongly agree" 
 
    </div></div>
 
-.. CHART: bar charts for survey feedback
+   <!-- CHART: survey feedback -->
+
+.. raw:: html
+
+   <!-- TODO: style this more/better -->
+   <nav role="navigation" class="mobile-nav hide">
+      <label for="mobile-menu" tabindex="0"> <i class="fa-solid fa-bars"></i> </label>
+         <input id="mobile-menu" type="checkbox" />
+         
+.. contents:: Table of Contents
+   :depth: 2
+   :backlinks: none
+
+.. raw:: html
+
+      </div>
+
+   </nav>
