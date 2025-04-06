@@ -40,7 +40,6 @@ html:has(.surveytheme-2024) { /* override colors for 2024  */
 	--surface-0-light: var(--stone-0);
 	--surface-1-light: var(--stone-1);
 	--surface-2-light: var(--stone-2);
-	
 	--border-color-1: var(--stone-3);
 	--border-color-2: var(--stone-4);
 }
@@ -51,10 +50,10 @@ html:has(.surveytheme-2024) { /* override colors for 2024  */
 		--figure-max-width: 100%;
 		--table-max-width: 100%;
 		--font-size-body: var(--font-size-1);
-		--font-size-h1: var(--font-size-5);
-		--font-size-h2: var(--font-size-4);
-		--font-size-h3: var(--font-size-3);
-		--font-size-h4: var(--font-size-2);
+		--font-size-h1: var(--font-size-4);
+		--font-size-h2: var(--font-size-3);
+		--font-size-h3: var(--font-size-2);
+		--font-size-h4: var(--font-size-1);
 	}
 }
 
@@ -63,11 +62,11 @@ html:has(.surveytheme-2024) { /* override colors for 2024  */
 		--size-max: 100%;
 		--figure-max-width: 100%;
 		--table-max-width: 100%;
-		--font-size-body: var(--font-size-fluid-0);
-		--font-size-h1: var(--font-size-fluid-3);
-		--font-size-h2: var(--font-size-fluid-2);
-		--font-size-h3: var(--font-size-fluid-1);
-		--font-size-h4: var(--font-size-fluid-1);
+		--font-size-body: var(--font-size-0);
+		--font-size-h1: var(--font-size-4);
+		--font-size-h2: var(--font-size-2);
+		--font-size-h3: var(--font-size-1);
+		--font-size-h4: var(--font-size-1);
 	}
 }
 
@@ -94,8 +93,8 @@ body {
 	.wrapper {
 		max-width: var(--size-max);
 		margin: 0 auto;
-		padding: var(--size-fluid-4);
-		@media screen and (max-width: 869px) { padding: var(--size-fluid-2); } /* tablet and mobile */
+		padding: var(--size-4);
+		@media screen and (max-width: 869px) { padding: var(--size-2); } /* tablet and mobile */
 	}
 }
 
@@ -143,7 +142,7 @@ header {
 main { 
 	grid-area: content; 
 	@media screen and (max-width: 869px) { /* tablet and mobile */
-		padding: var(--size-3);		
+		padding: var(--size-2);		
 	}
 } 
 
@@ -266,6 +265,13 @@ details {
 	}
 	+ details { /* when there's two <details> blocks together, reduce spacing */
 		margin-top: 0.5em;
+	}
+}
+
+/* what we asked and question background content */ 
+.question {
+	ul {
+		padding-inline-start: 30px;
 	}
 }
 
@@ -528,7 +534,6 @@ main {
 		p { display: inline; /* fix margin/padding/line break issues introduced by Sphinx's HTML5 renderer wrapping **everything** in paragraphs */ }
 	}
 	table {
-		table-layout: fixed; /* increase table rendering speed */
 		position: relative;
 		background-color: var(--surface-00);
 		border-radius: 0 0 var(--radius-2) var(--radius-2);
@@ -552,6 +557,9 @@ main {
 				padding: var(--size-2);
 				font-size: var(--font-size-2);
 				font-weight: var(--font-weight-6);
+				@media screen and (max-width: 869px) { /* tablet */
+					font-size: var(--font-size-0);
+				}
 			}
 		}		
 		&::after { /* add box-shadow */

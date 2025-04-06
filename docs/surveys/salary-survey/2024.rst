@@ -661,13 +661,13 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
    
    <!-- CHART: chart for "time in current role" -->
    <figure>
-      <object role="img" aria-label="Length of time in current role at current organization" aria-describedby="figure_length-of-time-in-current-role_desc" type="image/svg+xml" data="/_images/2024-length-of-time-in-current-role.svg">
+      <object role="img" aria-label="Length of time in current role at current organization" aria-describedby="figure_length-of-time-in-current-role_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
          <p id="figure_length-of-time-in-current-role_desc">Length of time in current role (at current organization - employee respondents who have changed roles at the same organization were instructed to specify the length of time they had been in their current role only, not the total length of time at the organization)</p>
       </object> 
       <figcaption>Figure: Length of time in current role</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-length-of-time-in-current-role.svg
+.. figure:: images/2024/2024-placeholder.svg
    :class: hide
 
 Proportion of role related to documentation
@@ -1442,13 +1442,13 @@ For the first time since 2019, hybrid work has overtaken fully remote work as th
 
    <!-- CHART: work location -->
    <figure>
-      <object role="img" aria-label="Work location" aria-describedby="figure_work-location_desc" type="image/svg+xml" data="/_images/2024-work-location.svg">
+      <object role="img" aria-label="Work location" aria-describedby="figure_work-location_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
          <p id="figure_work-location_desc">Donut chart showing current work location - remote, hybrid, on-site - and whether the location is their choice or their employer's.</p>
       </object> 
       <figcaption>Figure: Work location</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-work-location.svg
+.. figure:: images/2024/2024-placeholder.svg
    :class: hide
 
 The majority of respondents (82.6% overall) reported feeling "positive" about their work location, with 48.8% feeling "very positive".  Only 5.6% reported negative feelings, with 1.5% feeling "very negative".
@@ -1476,13 +1476,13 @@ The majority of respondents (82.6% overall) reported feeling "positive" about th
 
    <!-- CHART: attitudes towards work location -->
    <figure>
-      <object role="img" aria-label="Work location" aria-describedby="figure_feelings-about-work-location_desc" type="image/svg+xml" data="/_images/2024-feelings-about-work-location.svg">
+      <object role="img" aria-label="Work location" aria-describedby="figure_feelings-about-work-location_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
          <p id="figure_feelings-about-work-location_desc">Donut chart showing respondents feelings about their work location.</p>
       </object> 
       <figcaption>Figure: Feelings about work location</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-feelings-about-work-location.svg
+.. figure:: images/2024/2024-placeholder.svg
    :class: hide
 
 "Return to office" (RTO) mandates
@@ -2590,13 +2590,13 @@ Respondents who indicated that the statement was not relevant to their situation
 
    <!-- CHART: employee salary satisfaction factors -->
    <figure>
-      <object role="img" aria-label="Factors affecting salary satisfaction" aria-describedby="figure_factors-affecting-salary-satisfaction_desc" type="image/svg+xml" data="/_images/2024-factors-affecting-salary-satisfaction.svg">
+      <object role="img" aria-label="Factors affecting salary satisfaction" aria-describedby="figure_factors-affecting-salary-satisfaction_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
          <p id="figure_factors-affecting-salary-satisfaction_desc">Horizontal bar chart showing factors affecting salary satisfaction, as reported by employee respondents in 2023.</p>
       </object> 
       <figcaption>Figure: Factors affecting salary satisfaction</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-factors-affecting-salary-satisfaction.svg
+.. figure:: images/2024/2024-placeholder.svg
    :class: hide
 
 Contract rates and satisfaction
@@ -3735,13 +3735,13 @@ The age group split in 2024 was similar to previous years, with the majority of 
 
    <!-- CHART: age group -->
    <figure>
-      <object role="img" aria-label="Respondent age group" aria-describedby="figure_respondent-age-group_desc" type="image/svg+xml" data="/_images/2024-respondent-age-group.svg">
+      <object role="img" aria-label="Respondent age group" aria-describedby="figure_respondent-age-group_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
          <p id="figure_respondent-age-group_desc">Vertical bar chart showing age groupings of respondents. </p>
       </object> 
       <figcaption>Figure: Respondent age group</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-respondent-age-group.svg
+.. figure:: images/2024/2024-placeholder.svg
    :class: hide
 
 Gender identity
@@ -3788,13 +3788,13 @@ As in previous surveys, the majority of respondents in 2024 were women - 57% - w
 
    <!-- CHART: gender identity -->
    <figure>
-      <object role="img" aria-label="Respondent gender identity" aria-describedby="figure_respondent-gender-identity_desc" type="image/svg+xml" data="/_images/2024-respondent-gender-identity.svg">
+      <object role="img" aria-label="Respondent gender identity" aria-describedby="figure_respondent-gender-identity_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
          <p id="figure_respondent-gender-identity_desc">Donut chart showing gender identity of respondents.</p>
       </object> 
       <figcaption>Figure: Respondent gender identity</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-respondent-gender-identity.svg
+.. figure:: images/2024/2024-placeholder.svg
    :class: hide
 
 Experience
@@ -3858,13 +3858,13 @@ The experience level spread of respondents echoed previous years - most falling 
 
    <!-- CHART: years of experience -->
    <figure>
-      <object role="img" aria-label="Respondent years of experience" aria-describedby="figure_respondent-years-experience_desc" type="image/svg+xml" data="/_images/2024-respondent-years-experience.svg">
+      <object role="img" aria-label="Respondent years of experience" aria-describedby="figure_respondent-years-experience_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
          <p id="figure_respondent-years-experience_desc">Vertical bar chart showing respondents' years of experience in documentation. </p>
       </object> 
       <figcaption>Figure: Years of experience in documentation</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-respondent-years-experience.svg
+.. figure:: images/2024/2024-placeholder.svg
    :class: hide
 
 Education level
@@ -3923,13 +3923,13 @@ As in previous years, most respondents are university- or college-educated: 94.2
 
    <!-- CHART: education level -->
    <figure>
-      <object role="img" aria-label="Respondent education level" aria-describedby="figure_respondent-education-level_desc" type="image/svg+xml" data="/_images/2024-respondent-education.svg">
+      <object role="img" aria-label="Respondent education level" aria-describedby="figure_respondent-education-level_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
          <p id="figure_respondent-education-level_desc">Vertical bar chart showing respondents' highest completed level of education. </p>
       </object> 
       <figcaption>Figure: Education level</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-respondent-education.svg
+.. figure:: images/2024/2024-placeholder.svg
    :class: hide
 
 Location
