@@ -30,7 +30,6 @@
 
 .. raw:: html   
    
-   <!-- TODO: try alternative table sorting library that works with hidden sort columns -->
    <!-- TODO: table style/color scheme tweaks -->
    <nav role="navigation" aria-label="Table of contents" class="main-toc">
    <!-- TODO: toc expand on scroll -->
@@ -56,13 +55,17 @@ Documentation Salary Survey 2024 Results
 Introduction
 ============
 
-This sixth incarnation of the Write the Docs Salary Survey drew 779 responses, from documentarians in 55 countries. As always, we are impressed by the skills, experience and diversity of the Write the Docs community, and are grateful to everyone who took the time to fill out the survey and share it with their co-workers. Without further ado, let's look at the findings!
+This sixth incarnation of the Write the Docs Salary Survey drew **779 responses from documentarians in 55 countries**. As always, we are impressed by the skills, experience and diversity of the Write the Docs community, and are grateful to everyone who took the time to fill out the survey and share it with their co-workers. 
 
-In a hurry? Jump straight to `Median salary`_ or `Median contract rate`_.
+Without further ado, let's look at the findings!
+
+.. tip:: 
+   
+   **In a hurry?** Jump straight to `Median salary`_ or `Median contract rate`_.
 
 .. container:: note
 
-   .. rubric:: |icon-info| Note on independent contractors, freelancers and the self-employed
+   .. rubric:: |icon-info| Contractors, freelancers and self-employed
 
    In this year’s survey, we asked those who filled out the survey as independent contractors, freelancers or self-employed people what term they used to describe their type of employment. More than half (63.8%) preferred the term “contractor”, with only 18.1% using “freelancer” and 10.6% using “self-employed”. In this report, we’ll use the term “contractors” to refer to this entire group.
 
@@ -425,13 +428,13 @@ Of the respondents who selected additional role categories, the number chosen ra
 
 This resulted in an incredibly diverse range of primary and secondary role category combinations - over 3,400 in all. 
 
-.. raw::: html
+.. raw:: html
 
-   <!-- TODO: break this up into three or four tables in tabs -->
+   <div class="tab-wrap"><input type="radio" id="tabA333-1" name="tabGroupA333" class="tab" checked tabindex="0"><label for="tabA333-1">Technical writer</label><input type="radio" id="tabA333-2" name="tabGroupA333" class="tab"><label for="tabA333-2">Editor</label><input type="radio" id="tabA333-3" name="tabGroupA333" class="tab"><label for="tabA333-3">DocOps</label><input type="radio" id="tabA333-4" name="tabGroupA333" class="tab"><label for="tabA333-4">Project/product manager</label><div class="tab__content">
 
-.. table:: Top role category combinations
+.. table:: Top role category combinations - with Technical writer
    :widths: 90 10
-   :name: tbl-2024-top-category-combinations
+   :name: tbl-2024-top-category-combinations-technical-writer
    :class: no-sort
 
    +-----------------------------------------+-----+
@@ -473,6 +476,19 @@ This resulted in an incredibly diverse range of primary and secondary role categ
    +-----------------------------------------+-----+
    | - Developer or engineer                 |  23 |
    +-----------------------------------------+-----+
+
+.. raw:: html
+
+	</div><div class="tab__content">
+
+.. table:: Top role category combinations - with Editor
+   :widths: 90 10
+   :name: tbl-2024-top-category-combinations-editor
+   :class: no-sort
+
+   +-----------------------------------------+-----+
+   | Role category                           | |N| |
+   +=========================================+=====+
    | **Primary: Editor"**                          |
    +-----------------------------------------+-----+
    | - Technical writer                      |  15 |
@@ -483,6 +499,19 @@ This resulted in an incredibly diverse range of primary and secondary role categ
    +-----------------------------------------+-----+
    | - Project or product manager            |   6 |
    +-----------------------------------------+-----+
+
+.. raw:: html
+
+	</div><div class="tab__content">
+
+.. table:: Top role category combinations - with DocOps
+   :widths: 90 10
+   :name: tbl-2024-top-category-combinations-docops
+   :class: no-sort
+
+   +-----------------------------------------+-----+
+   | Role category                           | |N| |
+   +=========================================+=====+
    | **Primary: DocOps**                           |
    +-----------------------------------------+-----+
    | - Technical writer                      |  14 |
@@ -495,6 +524,19 @@ This resulted in an incredibly diverse range of primary and secondary role categ
    +-----------------------------------------+-----+
    | - Manager or team leader                |   7 |
    +-----------------------------------------+-----+
+
+.. raw:: html
+
+	</div><div class="tab__content">
+
+.. table:: Top role category combinations - with Project/product manager
+   :widths: 90 10
+   :name: tbl-2024-top-category-combinations-project-product-manager
+   :class: no-sort
+
+   +-----------------------------------------+-----+
+   | Role category                           | |N| |
+   +=========================================+=====+
    | **Primary: Project or product manager**       |
    +-----------------------------------------+-----+
    | - Technical writer                      |  11 |
@@ -507,6 +549,10 @@ This resulted in an incredibly diverse range of primary and secondary role categ
    +-----------------------------------------+-----+
    | - DocOps                                |   5 |
    +-----------------------------------------+-----+
+
+.. raw:: html
+
+   </div></div>
 
 Team configuration
 ------------------
@@ -736,33 +782,21 @@ The majority of respondents (68.8%) reported that documentation makes up their w
 
 .. raw:: html
 
-   <!-- CHART: proportion of role; actual portion vs official portion -->
+   <!-- CHART: actual portion vs official portion -->
    <figure>
-      <object role="img" aria-label="Portion of role officially documentation-related" aria-describedby="figure_proportion-of-role-officially-docs-related_desc" type="image/svg+xml" data="/_images/2024-portion-of-role-officially-docs-related.svg">
-         <p id="figure_proportion-of-role-officially-docs-related_desc">Donut chart showing what proportion of respondents official job description was documentation-related.</p>
+      <object role="img" aria-label="Portion of role documentation-related" aria-describedby="figure_proportion-of-role-docs-related_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
+         <p id="figure_proportion-of-role-docs-related_desc">Chart showing what proportion of respondents official job description is documentation-related, versus how much of their day to day tasks are documentation-related.</p>
       </object> 
       <figcaption>Figure: Portion of role officially documentation-related</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-portion-of-role-officially-docs-related.svg
+.. figure:: images/2024/2024-placeholder.svg
    :class: hide
-
-.. raw:: html
-
-   <figure>
-      <object role="img" aria-label="Portion of role actually documentation-related" aria-describedby="figure_proportion-of-role-actually-docs-related_desc" type="image/svg+xml" data="/_images/2024-proportion-actual.svg">
-         <p id="figure_proportion-of-role-actually-docs-related_desc">Donut chart showing what proportion of respondents actual day-to-day tasks are documentation-related.</p>
-      </object> 
-      <figcaption>Figure: Portion of role actually documentation-related</figcaption>
-   </figure>
-
-.. figure:: images/2024/2024-proportion-actual.svg
-   :class: hide
-
-
 
 Job changes
 ===========
+
+This section explores the changes in employment experienced by respondents in the past year: losing or gaining employment, changes in salary or contract earnings, and how they feel about the job market.
 
 Salary or contract earnings changes
 -----------------------------------
