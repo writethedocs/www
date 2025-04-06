@@ -192,17 +192,17 @@ For the first time this year, no respondents reported working more than 60 hours
    :class: std3col sortable
 
    +--------------+-----+-------+
-   | Hours worked | |N| | |%|   |
+   | Hours        | |N| | |%|   |
    +==============+=====+=======+
-   | 31-40        | 532 | 68.2% |
+   | 31-40 hours  | 532 | 68.2% |
    +--------------+-----+-------+
-   | 41-50        | 194 | 24.9% |
+   | 41-50 hours  | 194 | 24.9% |
    +--------------+-----+-------+
-   | 21-30        | 21  | 2.7%  |
+   | 21-30 hours  | 21  | 2.7%  |
    +--------------+-----+-------+
-   | 51-60        | 17  | 2.2%  |
+   | 51-60 hours  | 17  | 2.2%  |
    +--------------+-----+-------+
-   | 1-20         | 16  | 2.1%  |
+   | 1-20 hours   | 16  | 2.1%  |
    +--------------+-----+-------+
 
 Job title
@@ -220,7 +220,7 @@ Job title
 
    </details>
 
-With typos fixed, abbreviations expanded, stop words removed and keyword faceting applied, 217 unique job titles could be discerned. One respondent indicated that they did not have a job title.    
+With typos fixed, abbreviations expanded, "stop words" removed and keyword faceting applied, 217 unique job titles could be discerned. One respondent indicated that they did not have a job title.    
       
 As in previous years, the most widely used exact title was "Technical Writer", reported by 26.8% of respondents. This exact phrase appeared in 6 of the top 10 job titles, in 51 of the 217 unique job titles, and in 65.2% of all job titles.  
 
@@ -430,124 +430,93 @@ This resulted in an incredibly diverse range of primary and secondary role categ
 
 .. raw:: html
 
-   <div class="tab-wrap"><input type="radio" id="tabA333-1" name="tabGroupA333" class="tab" checked tabindex="0"><label for="tabA333-1">Technical writer</label><input type="radio" id="tabA333-2" name="tabGroupA333" class="tab"><label for="tabA333-2">Editor</label><input type="radio" id="tabA333-3" name="tabGroupA333" class="tab"><label for="tabA333-3">DocOps</label><input type="radio" id="tabA333-4" name="tabGroupA333" class="tab"><label for="tabA333-4">Project/product manager</label><div class="tab__content">
+   <div class="tab-wrap"><input type="radio" id="tabA333-1" name="tabGroupA333" class="tab" checked tabindex="0"><label for="tabA333-1">Technical writer</label><input type="radio" id="tabA333-2" name="tabGroupA333" class="tab"><label for="tabA333-2">Editor</label><input type="radio" id="tabA333-3" name="tabGroupA333" class="tab"><label for="tabA333-3">DocOps</label><div class="tab__content">
 
-.. table:: Top role category combinations - with Technical writer
+.. table:: Combinations with primary role "technical writer"
    :widths: 90 10
    :name: tbl-2024-top-category-combinations-technical-writer
-   :class: no-sort
+   :class: sortable
 
    +-----------------------------------------+-----+
-   | Role category                           | |N| |
+   | Additional role category                | |N| |
    +=========================================+=====+
-   | **Primary: Technical writer**                 |
+   | Editor                                  | 380 |
    +-----------------------------------------+-----+
-   | - Editor                                | 380 |
+   | Information architecture                | 267 |
    +-----------------------------------------+-----+
-   | - Information architecture              | 267 |
+   | UX writer                               | 263 |
    +-----------------------------------------+-----+
-   | - UX writer                             | 263 |
+   | DocOps                                  | 179 |
    +-----------------------------------------+-----+
-   | - DocOps                                | 179 |
+   | Mentoring                               | 176 |
    +-----------------------------------------+-----+
-   | - Mentoring                             | 176 |
+   | Subject matter expert                   | 155 |
    +-----------------------------------------+-----+
-   | - Subject matter expert                 | 155 |
+   | Content producer                        | 147 |
    +-----------------------------------------+-----+
-   | - Content producer                      | 147 |
+   | Manager or team leader                  | 132 |
    +-----------------------------------------+-----+
-   | - Manager or team leader                | 132 |
+   | Testing / QA                            | 120 |
    +-----------------------------------------+-----+
-   | - Testing / QA                          | 120 |
+   | Educator                                | 116 |
    +-----------------------------------------+-----+
-   | - Educator                              | 116 |
+   | Project or product manager              | 109 |
    +-----------------------------------------+-----+
-   | - Project or product manager            | 109 |
+   | Programmer-writer                       |  93 |
    +-----------------------------------------+-----+
-   | - Programmer-writer                     |  93 |
+   | Translator                              |  79 |
    +-----------------------------------------+-----+
-   | - Translator                            |  79 |
+   | Support                                 |  75 |
    +-----------------------------------------+-----+
-   | - Support                               |  75 |
+   | Developer relations                     |  41 |
    +-----------------------------------------+-----+
-   | - Developer relations                   |  41 |
+   | Marketing                               |  40 |
    +-----------------------------------------+-----+
-   | - Marketing                             |  40 |
-   +-----------------------------------------+-----+
-   | - Developer or engineer                 |  23 |
+   | Developer or engineer                   |  23 |
    +-----------------------------------------+-----+
 
 .. raw:: html
 
 	</div><div class="tab__content">
 
-.. table:: Top role category combinations - with Editor
+.. table:: Combinations with primary role "editor"
    :widths: 90 10
    :name: tbl-2024-top-category-combinations-editor
-   :class: no-sort
+   :class: sortable
 
    +-----------------------------------------+-----+
-   | Role category                           | |N| |
+   | Additional role category                | |N| |
    +=========================================+=====+
-   | **Primary: Editor"**                          |
+   | Technical writer                        |  15 |
    +-----------------------------------------+-----+
-   | - Technical writer                      |  15 |
+   | Mentoring                               |   7 |
    +-----------------------------------------+-----+
-   | - Mentoring                             |   7 |
+   | Subject matter expert                   |   6 |
    +-----------------------------------------+-----+
-   | - Subject matter expert                 |   6 |
-   +-----------------------------------------+-----+
-   | - Project or product manager            |   6 |
+   | Project or product manager              |   6 |
    +-----------------------------------------+-----+
 
 .. raw:: html
 
 	</div><div class="tab__content">
 
-.. table:: Top role category combinations - with DocOps
+.. table:: Combinations with primary role "DocOps"
    :widths: 90 10
    :name: tbl-2024-top-category-combinations-docops
-   :class: no-sort
+   :class: sortable
 
    +-----------------------------------------+-----+
-   | Role category                           | |N| |
+   | Additional role category                | |N| |
    +=========================================+=====+
-   | **Primary: DocOps**                           |
+   | Technical writer                        |  14 |
    +-----------------------------------------+-----+
-   | - Technical writer                      |  14 |
+   | Information architecture                |   9 |
    +-----------------------------------------+-----+
-   | - Information architecture              |   9 |
+   | Mentoring                               |   8 |
    +-----------------------------------------+-----+
-   | - Mentoring                             |   8 |
+   | Editor                                  |   7 |
    +-----------------------------------------+-----+
-   | - Editor                                |   7 |
-   +-----------------------------------------+-----+
-   | - Manager or team leader                |   7 |
-   +-----------------------------------------+-----+
-
-.. raw:: html
-
-	</div><div class="tab__content">
-
-.. table:: Top role category combinations - with Project/product manager
-   :widths: 90 10
-   :name: tbl-2024-top-category-combinations-project-product-manager
-   :class: no-sort
-
-   +-----------------------------------------+-----+
-   | Role category                           | |N| |
-   +=========================================+=====+
-   | **Primary: Project or product manager**       |
-   +-----------------------------------------+-----+
-   | - Technical writer                      |  11 |
-   +-----------------------------------------+-----+
-   | - Manager or team leader                |  10 |
-   +-----------------------------------------+-----+
-   | - Editor                                |   7 |
-   +-----------------------------------------+-----+
-   | - Information architecture              |   6 |
-   +-----------------------------------------+-----+
-   | - DocOps                                |   5 |
+   | Manager or team leader                  |   7 |
    +-----------------------------------------+-----+
 
 .. raw:: html
@@ -586,7 +555,7 @@ Team configuration
    :class: std3col sortable
 
    +----------------------------+--------+--------+
-   | Team configuration         | |N|    | |%|    |
+   | Configuration              | |N|    | |%|    |
    +============================+========+========+
    | Team - similar roles       | 394    |  50.6% |
    +----------------------------+--------+--------+
@@ -610,7 +579,7 @@ Length of time in current role
 
 .. container:: question
 
-   |icon-question| Employees: 
+   |icon-question| **Employees:** 
 
    How long have you worked at your current organization, in your current role?
    
@@ -624,7 +593,7 @@ Length of time in current role
    - 5 years or more but less than 10 years
    - 10 years or more (please specify)
 
-   Contractors: 
+   **Contractors:**
 
    How long have you worked as a contractor or freelancer, or been self-employed?
 
@@ -652,7 +621,7 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
    :class: std3col sortable 
 
    +-------------------------+-----+-------+
-   | Time in current role    | |N| | |%|   |
+   | Time                    | |N| | |%|   |
    +=========================+=====+=======+
    | 2-5 years               | 274 | 38.4% |
    +-------------------------+-----+-------+
@@ -675,7 +644,7 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
    :class: std3col sortable
 
    +------------------------+--------+--------+
-   | Time contracting       | |N|    | |%|    |
+   | Time                   | |N|    | |%|    |
    +========================+========+========+
    | 1-2 years              | 23     | 24.5%  |
    +------------------------+--------+--------+
@@ -744,7 +713,7 @@ The majority of respondents (68.8%) reported that documentation makes up their w
    :class: std3col sortable
 
    +------------------------------------------+--------+--------+
-   | Portion of role                          | |N|    | |%|    |
+   | Portion                                  | |N|    | |%|    |
    +==========================================+========+========+
    | Wholly documentation                     | 537    | 68.85% |
    +------------------------------------------+--------+--------+
@@ -765,7 +734,7 @@ The majority of respondents (68.8%) reported that documentation makes up their w
    :class: std3col sortable
 
    +--------------------------+--------+--------+
-   | Portion of role          | |N|    | |%|    |
+   | Portion                  | |N|    | |%|    |
    +==========================+========+========+
    | 76-100%                  | 427    | 54.74% |
    +--------------------------+--------+--------+
@@ -860,7 +829,7 @@ Among the 94 respondents who had worked on a contract basis, only 46.8% reported
    :class: std3col sortable
 
    +-------------------+------+-------+
-   | Salary change     | |N|  | |%|   |
+   | Change            | |N|  | |%|   |
    +===================+======+=======+
    | Increase          | 535  | 75.0% |
    +-------------------+------+-------+
@@ -879,7 +848,7 @@ Among the 94 respondents who had worked on a contract basis, only 46.8% reported
    :class: std3col sortable
 
    +--------------------+-----+-------+
-   | Earnings change    | |N| | |%|   |
+   | Change             | |N| | |%|   |
    +====================+=====+=======+
    | Increase           | 44  | 46.8% |
    +--------------------+-----+-------+
@@ -963,7 +932,7 @@ There was only one "other" response for salary decrease, representing a potentia
    :class: std3col sortable
 
    +--------------------+-----+-------+
-   | Increase reason    | |N| | |%|   |
+   | Reason             | |N| | |%|   |
    +====================+=====+=======+
    | Raise              | 369 | 61.6% |
    +--------------------+-----+-------+
@@ -992,7 +961,7 @@ There was only one "other" response for salary decrease, representing a potentia
    :class: std3col sortable
 
    +-------------------------+-----+-------+
-   | Decrease reason         | |N| | |%|   |
+   | Reason                  | |N| | |%|   |
    +=========================+=====+=======+
    | New position            | 12  | 50.0% |
    +-------------------------+-----+-------+
@@ -1055,17 +1024,17 @@ Of those contractors reporting an increase in their earnings, 36.5% raised their
 
 Four additional options were added to the reasons for contract earnings increase, based on responses entered by those who selected "Other" and provided more detail:
 
-   - "Received a raise" - as distinct from "raised rate" - applies to those contactors who work a single contract in the manner of a regular employee, and received a raise from their client/employer;
-   - "Job changes" to describe taking on additional responsibility or work scope within the same contract, leading to an increase in earnings;
-   - "Bonus" for a one-off additional payment; and
-   - "Promotion" for a change in role or responsibility - again applying to those contractors working a single contract in the manner of a regular employee.
+- "Received a raise" - as distinct from "raised rate" - applies to those contactors who work a single contract in the manner of a regular employee, and received a raise from their client/employer;
+- "Job changes" to describe taking on additional responsibility or work scope within the same contract, leading to an increase in earnings;
+- "Bonus" for a one-off additional payment; and
+- "Promotion" for a change in role or responsibility - again applying to those contractors working a single contract in the manner of a regular employee.
 
 Of those contractors reporting a decrease in their earnings, 20% reported that their pipeline dried up, 16% worked fewer hours, and 16% had a contract end prematurely.
 
 Two new options were added to the reasons for earnings decrease, based on responses entered by those who selected "Other":
 
-   - "Stopgap contracting" for those who took on contracts at a lower rate as a temporary measure after losing permanent employment, while searching for a new permanent position; and
-   - "Relocation" for those who moved to a location with a lower cost of living or lower salary expectations.
+- "Stopgap contracting" for those who took on contracts at a lower rate as a temporary measure after losing permanent employment, while searching for a new permanent position; and
+- "Relocation" for those who moved to a location with a lower cost of living or lower salary expectations.
 
 45.7% of contractors reported that they attempted to negotiate a rate increase in the past year.
 
@@ -1083,11 +1052,11 @@ Two new options were added to the reasons for earnings decrease, based on respon
    :class: std3col sortable
 
    +-----------------------------+-----+-------+
-   | Increase reason             | |N| | |%|   |
+   | Reason                      | |N| | |%|   |
    +=============================+=====+=======+
    | Raised rate                 | 23  | 36.5% |
    +-----------------------------+-----+-------+
-   | New contract(s)/project(s)  | 22  | 34.9% |
+   | New contracts or projects   | 22  | 34.9% |
    +-----------------------------+-----+-------+
    | Worked more hours           | 9   | 14.3% |
    +-----------------------------+-----+-------+
@@ -1110,7 +1079,7 @@ Two new options were added to the reasons for earnings decrease, based on respon
    :class: std3col sortable
 
    +--------------------------------+-----+-------+
-   | Decrease reason                | |N| | |%|   |
+   | Reason                         | |N| | |%|   |
    +================================+=====+=======+
    | Pipeline dried up              | 5   | 20.0% |
    +--------------------------------+-----+-------+
@@ -1190,7 +1159,7 @@ The top two responses to "what is your job/contract search status" were the same
    :class: std3col sortable
 
    +------------------------------------------------------------+-----+-------+
-   | Search status                                              | |N| | |%|   |
+   | Status                                                     | |N| | |%|   |
    +============================================================+=====+=======+
    | Not actively looking - open to offers                      | 334 | 46.8% |
    +------------------------------------------------------------+-----+-------+
@@ -1213,7 +1182,7 @@ The top two responses to "what is your job/contract search status" were the same
    :class: std3col sortable
 
    +-------------------------------------------------------------+-----+-------+
-   | Search status                                               | |N| | |%|   |
+   | Status                                                      | |N| | |%|   |
    +=============================================================+=====+=======+
    | Not actively looking - open to offers                       | 29  | 30.9% |
    +-------------------------------------------------------------+-----+-------+
@@ -1279,7 +1248,7 @@ Around half of all employees (51.4%) and half of all contractors (50% exactly) r
    :class: std3col sortable
 
    +-------------------------------------------+-----+-------+
-   | Job security confidence vs last year      | |N| | |%|   |
+   | Confidence                                | |N| | |%|   |
    +===========================================+=====+=======+
    | Around the same                           | 357 | 51.5% |
    +-------------------------------------------+-----+-------+
@@ -1298,7 +1267,7 @@ Around half of all employees (51.4%) and half of all contractors (50% exactly) r
    :class: std3col sortable
 
    +------------------------------------------+-----+-------+
-   | Job security confidence vs last year     | |N| | |%|   |
+   | Confidence                               | |N| | |%|   |
    +==========================================+=====+=======+
    | Around the same                          | 38  | 50.0% |
    +------------------------------------------+-----+-------+
@@ -1366,7 +1335,7 @@ Amongst contractors - a smaller number of respondents overall - the trend was to
    :class: std3col sortable
 
    +---------------------------+-----+-------+
-   | Job search confidence     | |N| | |%|   |
+   | Confidence                | |N| | |%|   |
    +===========================+=====+=======+
    | Confident                 | 24  | 30.0% |
    +---------------------------+-----+-------+
@@ -1389,7 +1358,7 @@ Amongst contractors - a smaller number of respondents overall - the trend was to
    :class: std3col sortable
 
    +----------------------------+-----+-------+
-   | Contract search confidence | |N| | |%|   |
+   | Confidence                 | |N| | |%|   |
    +============================+=====+=======+
    | Not confident              | 9   | 40.9% |
    +----------------------------+-----+-------+
@@ -1456,7 +1425,7 @@ For the first time since 2019, hybrid work has overtaken fully remote work as th
    :class: std3col sortable
 
    +------------------------------+-----------+-----------+
-   | Work location                | |N|       | |%|       |
+   | Location                     | |N|       | |%|       |
    +==============================+===========+===========+
    | Hybrid                       | 252       | 32.3%     |
    +------------------------------+-----------+-----------+
@@ -1559,7 +1528,7 @@ For those that have been affected, most reported that a hybrid model was being m
    :class: std3col sortable
 
    +----------------------------------------+-----------+-----------+
-   | RTO policy                             | |N|       | |%|       |
+   | Policy                                 | |N|       | |%|       |
    +========================================+===========+===========+
    | No - remote work is still ok           | 382       | 49.0%     |
    +----------------------------------------+-----------+-----------+
@@ -1687,7 +1656,7 @@ Regardless of their current situation, 52.1% of all respondents said that their 
    :class: std3col sortable
 
    +----------------------------------+-----------+-----------+
-   | Preferred work location          | |N|       | |%|       |
+   | Location                         | |N|       | |%|       |
    +==================================+===========+===========+
    | Remote                           | 406       | 52.1%     |
    +----------------------------------+-----------+-----------+
@@ -2142,7 +2111,7 @@ Salaries generally increase with the size of the organization, with the highest 
    :class: medians sortable
 
    +------------------------+-----+---------+----------+----------+
-   | Organization size      | |N| | |25|    | |50|     | |75|     |
+   | Size                   | |N| | |25|    | |50|     | |75|     |
    +========================+=====+=========+==========+==========+
    | 1-100                  | 87  | $54,000 |  $71,222 | $105,000 |
    +------------------------+-----+---------+----------+----------+
@@ -2164,7 +2133,7 @@ Salaries generally increase with the size of the organization, with the highest 
    :class: medians sortable
 
    +------------------------+-----+---------+----------+----------+
-   | Organization size      | |N| | |25|    | |50|     | |75|     |
+   | Size                   | |N| | |25|    | |50|     | |75|     |
    +========================+=====+=========+==========+==========+
    | 1-100                  | 41  | $67,500 |  $90,000 | $125,000 |
    +------------------------+-----+---------+----------+----------+
@@ -2186,7 +2155,7 @@ Salaries generally increase with the size of the organization, with the highest 
    :class: medians sortable
 
    +------------------------+-----+---------+---------+---------+
-   | Organization size      | |N| | |25|    | |50|    | |75|    |
+   | Size                   | |N| | |25|    | |50|    | |75|    |
    +========================+=====+=========+=========+=========+
    | 1-100                  | 28  |         | $51,840 |         |
    +------------------------+-----+---------+---------+---------+
@@ -2277,7 +2246,7 @@ Statutory benefits such as paid vacation (86.3%), paid sick leave (82.2%), and h
 
 .. raw:: html
 
-   <div class="tab-wrap"><input type="radio" id="tabD603-1" name="tabGroupD603" class="tab" checked><label for="tabD603-1">Statutory benefits</label><input type="radio" id="tabD603-2" name="tabGroupD603" class="tab"><label for="tabD603-2">Extra statutory benefits</label><input type="radio" id="tabD603-3" name="tabGroupD603" class="tab"><label for="tabD603-3">Non-statutory benefits</label><div class="tab__content">
+   <div class="tab-wrap"><input type="radio" id="tabD603-1" name="tabGroupD603" class="tab" checked><label for="tabD603-1">Statutory</label><input type="radio" id="tabD603-2" name="tabGroupD603" class="tab"><label for="tabD603-2">Extra statutory</label><input type="radio" id="tabD603-3" name="tabGroupD603" class="tab"><label for="tabD603-3">Non-statutory</label><div class="tab__content">
 
 .. table:: Statutory benefits
    :widths: 70 15 15
@@ -2405,7 +2374,7 @@ The majority of employee respondents (71.8%) said they were satisfied (46%) or v
 
 .. raw:: html
 
-   <div class="tab-wrap"><input type="radio" id="tabF1a-1" name="tabGroupF1a" class="tab" checked><label for="tabF1a-1">Salary satisfaction</label><input type="radio" id="tabF1a-2" name="tabGroupF1a" class="tab"><label for="tabF1a-2">Overall satisfaction</label><div class="tab__content">
+   <div class="tab-wrap"><input type="radio" id="tabF1a-1" name="tabGroupF1a" class="tab" checked><label for="tabF1a-1">Salary</label><input type="radio" id="tabF1a-2" name="tabGroupF1a" class="tab"><label for="tabF1a-2">Overall</label><div class="tab__content">
 
 .. table:: Salary satisfaction
    :widths: 70 15 15
@@ -2413,7 +2382,7 @@ The majority of employee respondents (71.8%) said they were satisfied (46%) or v
    :class: std3col sortable
 
    +-------------------------+--------+--------+
-   | Salary satisfaction     | |N|    | |%|    |
+   | Satisfaction            | |N|    | |%|    |
    +=========================+========+========+
    | Satisfied               | 328    | 46.0%  |
    +-------------------------+--------+--------+
@@ -2436,7 +2405,7 @@ The majority of employee respondents (71.8%) said they were satisfied (46%) or v
    :class: std3col sortable
 
    +--------------------------+--------+--------+
-   | Overall satisfaction     | |N|    | |%|    |
+   | Satisfaction             | |N|    | |%|    |
    +==========================+========+========+
    | Satisfied                | 320    | 44.9%  |
    +--------------------------+--------+--------+
@@ -2680,7 +2649,7 @@ Preferred term
    :class: std3col sortable
 
    +---------------------+-----------+-----------+
-   | Preferred term      | |N|       | |%|       |
+   | Term                | |N|       | |%|       |
    +=====================+===========+===========+
    | Contractor          | 60        | 63.8%     |
    +---------------------+-----------+-----------+
@@ -2731,15 +2700,15 @@ The majority of contractor respondents (64.9%) did not specify offering either p
 
 .. raw:: html
 
-   <div class="tab-wrap"><input type="radio" id="tabA113-1" name="tabGroupA113" class="tab" checked tabindex="0"><label for="tabA113-1">Type of client</label><input type="radio" id="tabA113-2" name="tabGroupA113" class="tab"><label for="tabA113-2">Contract length</label><input type="radio" id="tabA113-3" name="tabGroupA113" class="tab"><label for="tabA113-3">Products and services</label><div class="tab__content">
+   <div class="tab-wrap"><input type="radio" id="tabA113-1" name="tabGroupA113" class="tab" checked tabindex="0"><label for="tabA113-1">Clients</label><input type="radio" id="tabA113-2" name="tabGroupA113" class="tab"><label for="tabA113-2">Length</label><input type="radio" id="tabA113-3" name="tabGroupA113" class="tab"><label for="tabA113-3">Products/services</label><div class="tab__content">
 
-.. table:: Contractor type - type of client
+.. table:: Typical client configuration
    :widths: 70 15 15
    :name: tbl-2024-contractor-type-clients
    :class: std3col sortable
 
    +-------------------------------------+--------+--------+
-   | Client type                         | |N|    | |%|    |
+   | Type                                | |N|    | |%|    |
    +=====================================+========+========+
    | Single client                       |     50 |  53.2% |
    +-------------------------------------+--------+--------+
@@ -2754,13 +2723,13 @@ The majority of contractor respondents (64.9%) did not specify offering either p
 
 	</div><div class="tab__content">
 
-.. table:: Contractor type - contract length
+.. table:: Typical contract length
    :widths: 70 15 15
    :name: tbl-2024-contractor-type-contract-length
    :class: std3col sortable
 
    +-------------------------------------------+----------+----------+
-   | Typical contract length                   | |N|      | |%|      |
+   | Length                                    | |N|      | |%|      |
    +===========================================+==========+==========+
    | No contract length specified              |       34 |    36.2% |
    +-------------------------------------------+----------+----------+
@@ -2777,13 +2746,13 @@ The majority of contractor respondents (64.9%) did not specify offering either p
 
 	</div><div class="tab__content">
 
-.. table:: Contractor type - products and services
+.. table:: Products and/or services provided
    :widths: 70 15 15
    :name: tbl-2024-contractor-type-products-services
    :class: std3col sortable
 
    +----------------------------------+--------+--------+
-   | Product or service offering      | |N|    | |%|    |
+   | Offering                         | |N|    | |%|    |
    +==================================+========+========+
    | Offering neither                 |     61 |  64.9% |
    +----------------------------------+--------+--------+
@@ -2826,9 +2795,9 @@ Currencies
 
 Contractor respondents were paid in 15 different currencies. To make comparisons possible, all currencies were converted to USD using mid-market exchange rates, averaged for the whole of 2024.
 
-.. table:: Currencies and exchange rates - contractors
+.. table:: Currency and exchange rate
    :widths: 70 15 15 
-   :name: tbl-2024-currencies-exchange-rates-contractors
+   :name: tbl-2024-currency-exchange-rate-contractors
    :class: sortable tbl_currency
 
    +------------------------------+------------+---------+---------+
@@ -2877,7 +2846,7 @@ Hourly rates were the most commonly entered fee structure, used by 66% of contra
 
    <div class="tab-wrap"><input type="radio" id="tabA213-1" name="tabGroupA213" class="tab" checked tabindex="0"><label for="tabA213-1">Hourly rate</label><input type="radio" id="tabA213-2" name="tabGroupA213" class="tab"><label for="tabA213-2">Monthly rate</label><div class="tab__content">
 
-.. table:: Median hourly rate - by region
+.. table:: Median hourly rate by region
    :widths: 70 10 10 10
    :name: tbl-2024-median-hourly-rate-by-region
    :class: sortable medians
@@ -2896,7 +2865,7 @@ Hourly rates were the most commonly entered fee structure, used by 66% of contra
 
 	</div><div class="tab__content">
 
-.. table:: Median monthly rate - by region
+.. table:: Median monthly rate by region
    :widths: 70 10 10 10
    :name: tbl-2024-median-monthly-rate-by-region
    :class: sortable medians
@@ -2946,15 +2915,15 @@ More than half of contractor respondents (63.8%) reported feeling satisfied with
 
 .. raw:: html
 
-   <div class="tab-wrap"><input type="radio" id="tabF1b-1" name="tabGroupF1b" class="tab" checked><label for="tabF1b-1">Earnings satisfaction</label><input type="radio" id="tabF1b-2" name="tabGroupF1b" class="tab"><label for="tabF1b-2">Overall satisfaction</label><div class="tab__content">
+   <div class="tab-wrap"><input type="radio" id="tabF1b-1" name="tabGroupF1b" class="tab" checked><label for="tabF1b-1">Earnings</label><input type="radio" id="tabF1b-2" name="tabGroupF1b" class="tab"><label for="tabF1b-2">Overall</label><div class="tab__content">
 
-.. table:: Earnings satisfaction - contractors
+.. table:: Earnings satisfaction
    :widths: 70 15 15
    :name: tbl-2024-earnings-satisfaction-contractors
    :class: std3col sortable
 
    +---------------------------+--------+--------+
-   | Earnings satisfaction     | |N|    | |%|    |
+   | Satisfaction              | |N|    | |%|    |
    +===========================+========+========+
    | Satisfied                 | 40     | 42.6%  |
    +---------------------------+--------+--------+
@@ -2971,13 +2940,13 @@ More than half of contractor respondents (63.8%) reported feeling satisfied with
 
 	</div><div class="tab__content">
 
-.. table:: Overall satisfaction - contractors
+.. table:: Overall satisfaction
    :widths: 70 15 15
    :name: tbl-2024-overall-satisfaction-contractors
    :class: std3col sortable
 
    +--------------------------+--------+--------+
-   | Overall satisfaction     | |N|    | |%|    |
+   | Satisfaction             | |N|    | |%|    |
    +==========================+========+========+
    | Satisfied                | 40     | 42.6%  |
    +--------------------------+--------+--------+
@@ -3192,7 +3161,7 @@ As in previous years, medium-sized organizations make up the largest proportion 
    :class: std3col sortable
 
    +-------------------------------------------------+-----------+-----------+
-   | Organization size (no. of employees)            | |N|       | |%|       |
+   | Size                                            | |N|       | |%|       |
    +=================================================+===========+===========+
    | 101-1000                                        | 288       | 37.4%     |
    +-------------------------------------------------+-----------+-----------+
@@ -3274,7 +3243,7 @@ The majority of organizations represented in the results - 96.5% - were for-prof
    :class: std3col sortable
 
    +---------------------------------------------------------------------+-----------+-----------+
-   | Organization type                                                   | |N|       | |%|       |
+   | Type                                                                | |N|       | |%|       |
    +=====================================================================+===========+===========+
    | Business, corporation or other for-profit organization              | 744       | 96.5%     |
    +---------------------------------------------------------------------+-----------+-----------+
@@ -3289,7 +3258,7 @@ Software development (incorporating development tools and open source) was the m
    :class: std3col sortable
 
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Organization industry                                                                                                                                                      | |N|       | |%|       |
+   | Industry                                                                                                                                                                   | |N|       | |%|       |
    +============================================================================================================================================================================+===========+===========+
    | Software, Software Development, Software Development Tools, Open Source                                                                                                    | 132       | 25.8%     |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
@@ -3449,7 +3418,7 @@ We asked for the first time in 2024 if respondents were aware of the legal requi
    :class: std3col sortable
 
    +-------------------------------+-----+-------+
-   | Legal requirement in location | |N| | |%|   |
+   | Required?                     | |N| | |%|   |
    +===============================+=====+=======+
    | Unsure                        | 344 | 44.6% |
    +-------------------------------+-----+-------+
@@ -3475,7 +3444,7 @@ The majority of respondents reported that there was not a culture of sharing sal
    :class: std3col sortable
 
    +--------------------------------------------+-----+-------+
-   | Pay transparency practice                  | |N| | |%|   |
+   | Practice                                   | |N| | |%|   |
    +============================================+=====+=======+
    | No, information is not openly shared       | 511 | 66.3% |
    +--------------------------------------------+-----+-------+
@@ -3501,7 +3470,7 @@ Attitudes towards pay transparency
    :class: std3col sortable
 
    +----------------------------+-----+-------+
-   | Pay transparency attitude  | |N| | |%|   |
+   | Attitude                   | |N| | |%|   |
    +============================+=====+=======+
    | Strongly support           | 361 | 46.8% |
    +----------------------------+-----+-------+
@@ -3552,7 +3521,35 @@ A total of 63.8% of organizations originated in North America, with the bulk of 
 
 .. raw:: html
 
-   <div class="tab-wrap"><input type="radio" id="tabG3-1" name="tabGroupG3" class="tab" checked tabindex="0"><label for="tabG3-1">North America</label><input type="radio" id="tabG3-2" name="tabGroupG3" class="tab"><label for="tabG3-2">Europe</label><input type="radio" id="tabG3-3" name="tabGroupG3" class="tab"><label for="tabG3-3">Other regions</label><div class="tab__content">
+   <div class="tab-wrap"><input type="radio" id="tabG3-1" name="tabGroupG3" class="tab"><label for="tabG3-1">Regions</label><input type="radio" id="tabG3-2" name="tabGroupG3" class="tab" checked tabindex="0"><label for="tabG3-2">North America</label><input type="radio" id="tabG3-3" name="tabGroupG3" class="tab"><label for="tabG3-3">Europe</label><input type="radio" id="tabG3-4" name="tabGroupG3" class="tab"><label for="tabG3-4">Other regions</label><div class="tab__content">
+
+.. table:: Organization location - Regions
+   :widths: 70 15 15
+   :name: tbl-2024-organization-location-regions
+   :class: std3col sortable
+
+   +---------------------------------------+------------+------------+
+   | Region                                | |N|        | |%|        |
+   +=======================================+============+============+
+   | North America                         | 491        | 63.8%      |
+   +---------------------------------------+------------+------------+
+   | Europe                                | 197        | 25.6%      |
+   +---------------------------------------+------------+------------+
+   | Oceania                               | 32         | 4.2%       |
+   +---------------------------------------+------------+------------+
+   | Asia                                  | 24         | 3.1%       |
+   +---------------------------------------+------------+------------+
+   | Middle East                           | 22         | 2.9%       |
+   +---------------------------------------+------------+------------+
+   | South America                         | 3          | 0.4%       |
+   +---------------------------------------+------------+------------+
+   | Africa                                | 1          | 0.1%       |
+   +---------------------------------------+------------+------------+
+
+.. raw:: html
+
+	</div><div class="tab__content">   
+
 
 .. table:: Organization location - North America
    :widths: 70 15 15
@@ -3560,15 +3557,13 @@ A total of 63.8% of organizations originated in North America, with the bulk of 
    :class: std3col sortable
 
    +-------------------------------------------------+-----------+-----------+
-   | Region                                          | |N|       | |%|       |
+   | Country                                         | |N|       | |%|       |
    +=================================================+===========+===========+
-   | **North America**                               | **491**   | **63.8%** |
+   | United States                                   | 445       | 57.8%     |
    +-------------------------------------------------+-----------+-----------+
-   | - United States                                 | 445       |           |
+   | Canada                                          | 45        | 5.8%      |
    +-------------------------------------------------+-----------+-----------+
-   | - Canada                                        | 45        |           |
-   +-------------------------------------------------+-----------+-----------+
-   | - Mexico                                        | 1         |           |
+   | Mexico                                          | 1         | 0.1%      |
    +-------------------------------------------------+-----------+-----------+
  
 .. raw:: html
@@ -3580,118 +3575,104 @@ A total of 63.8% of organizations originated in North America, with the bulk of 
    :name: tbl-2024-organization-location-europe
    :class: std3col sortable
 
-   +------------------------------------+-----------+-----------+
-   | Region                             | |N|       | |%|       |
-   +====================================+===========+===========+
-   | **Europe**                         | **197**   | **25.6%** |
-   +------------------------------------+-----------+-----------+
-   | - United Kingdom                   | 45        |           |
-   +------------------------------------+-----------+-----------+
-   | - Germany                          | 41        |           |
-   +------------------------------------+-----------+-----------+
-   | - France                           | 23        |           |
-   +------------------------------------+-----------+-----------+
-   | - Netherlands                      | 14        |           |
-   +------------------------------------+-----------+-----------+
-   | - Switzerland                      | 12        |           |
-   +------------------------------------+-----------+-----------+
-   | - Sweden                           | 12        |           |
-   +------------------------------------+-----------+-----------+
-   | - Ukraine                          | 7         |           |
-   +------------------------------------+-----------+-----------+
-   | - Finland                          | 6         |           |
-   +------------------------------------+-----------+-----------+
-   | - Russia                           | 4         |           |
-   +------------------------------------+-----------+-----------+
-   | - Denmark                          | 4         |           |
-   +------------------------------------+-----------+-----------+
-   | - Czechia                          | 4         |           |
-   +------------------------------------+-----------+-----------+
-   | - Croatia                          | 3         |           |
-   +------------------------------------+-----------+-----------+
-   | - Malta                            | 3         |           |
-   +------------------------------------+-----------+-----------+
-   | - Norway                           | 3         |           |
-   +------------------------------------+-----------+-----------+
-   | - Spain                            | 2         |           |
-   +------------------------------------+-----------+-----------+
-   | - Italy                            | 2         |           |
-   +------------------------------------+-----------+-----------+
-   | - Belgium                          | 2         |           |
-   +------------------------------------+-----------+-----------+
-   | - Greece                           | 2         |           |
-   +------------------------------------+-----------+-----------+
-   | - Austria                          | 2         |           |
-   +------------------------------------+-----------+-----------+
-   | - Hungary                          | 1         |           |
-   +------------------------------------+-----------+-----------+
-   | - Serbia                           | 1         |           |
-   +------------------------------------+-----------+-----------+
-   | - Poland                           | 1         |           |
-   +------------------------------------+-----------+-----------+
-   | - Estonia                          | 1         |           |
-   +------------------------------------+-----------+-----------+
-   | - Bulgaria                         | 1         |           |
-   +------------------------------------+-----------+-----------+
-   | - Luxembourg                       | 1         |           |
-   +------------------------------------+-----------+-----------+
+   +--------------------------------------------------------+-----------+-----------+
+   | Country                                                | |N|       | |%|       |
+   +========================================================+===========+===========+
+   | United Kingdom                                         | 45        | 5.8%      |
+   +--------------------------------------------------------+-----------+-----------+
+   | Germany                                                | 41        | 5.3%      |
+   +--------------------------------------------------------+-----------+-----------+
+   | France                                                 | 23        | 3.0%      |
+   +--------------------------------------------------------+-----------+-----------+
+   | Netherlands                                            | 14        | 1.8%      |
+   +--------------------------------------------------------+-----------+-----------+
+   | Sweden, Switzerland                                    | 12        | 1.6%      |
+   +--------------------------------------------------------+-----------+-----------+
+   | Ukraine                                                | 7         | 0.9%      |
+   +--------------------------------------------------------+-----------+-----------+
+   | Finland                                                | 6         | 0.8%      |
+   +--------------------------------------------------------+-----------+-----------+
+   | Czechia, Denmark, Russia                               | 4         | 0.5%      |
+   +--------------------------------------------------------+-----------+-----------+
+   | Croatia, Malta, Norway                                 | 3         | 0.4%      |
+   +--------------------------------------------------------+-----------+-----------+
+   | Austria, Belgium, Greece, Italy, Spain                 | 2         | 0.3%      |
+   +--------------------------------------------------------+-----------+-----------+
+   | Bulgaria, Estonia, Hungary, Luxembourg, Poland, Serbia | 1         | 0.1%      |
+   +--------------------------------------------------------+-----------+-----------+
 
 .. raw:: html
 
 	</div><div class="tab__content">
 
-.. table:: Organization location - Other regions
+.. table:: Organization location - Oceania
    :widths: 70 15 15
-   :name: tbl-2024-organization-location-other-regions
+   :name: tbl-2024-organization-location-oceania
    :class: std3col sortable
 
-   +-------------------------------------------------+-----------+-----------+
-   | Organization region                             | |N|       | |%|       |
-   +=================================================+===========+===========+
-   | **Oceania**                                     | **32**    | **4.2%**  |
-   +-------------------------------------------------+-----------+-----------+
-   | - Australia                                     | 29        |           |
-   +-------------------------------------------------+-----------+-----------+
-   | - New Zealand                                   | 3         |           |
-   +-------------------------------------------------+-----------+-----------+
-   | **Asia**                                        | **24**    | **3.1%**  |
-   +-------------------------------------------------+-----------+-----------+
-   | - India                                         | 11        |           |
-   +-------------------------------------------------+-----------+-----------+
-   | - Japan                                         | 5         |           |
-   +-------------------------------------------------+-----------+-----------+
-   | - Philippines                                   | 2         |           |
-   +-------------------------------------------------+-----------+-----------+
-   | - Taiwan                                        | 1         |           |
-   +-------------------------------------------------+-----------+-----------+
-   | - Sri Lanka                                     | 1         |           |
-   +-------------------------------------------------+-----------+-----------+
-   | - Singapore                                     | 1         |           |
-   +-------------------------------------------------+-----------+-----------+
-   | - Kazakhstan                                    | 1         |           |
-   +-------------------------------------------------+-----------+-----------+
-   | - China                                         | 1         |           |
-   +-------------------------------------------------+-----------+-----------+
-   | - Hong Kong                                     | 1         |           |
-   +-------------------------------------------------+-----------+-----------+
-   | **Middle East**                                 | **22**    | **2.9%**  |
-   +-------------------------------------------------+-----------+-----------+
-   | - Israel                                        | 19        |           |
-   +-------------------------------------------------+-----------+-----------+
-   | - United Arab Emirates                          | 2         |           |
-   +-------------------------------------------------+-----------+-----------+
-   | - Saudi Arabia                                  | 1         |           |
-   +-------------------------------------------------+-----------+-----------+
-   | **South America**                               | **3**     | **0.4%**  |
-   +-------------------------------------------------+-----------+-----------+
-   | - Brazil                                        | 2         |           |
-   +-------------------------------------------------+-----------+-----------+
-   | - Argentina                                     | 1         |           |
-   +-------------------------------------------------+-----------+-----------+
-   | **Africa**                                      | **1**     | **0.1%**  |
-   +-------------------------------------------------+-----------+-----------+
-   | - Nigeria                                       | 1         |           |
-   +-------------------------------------------------+-----------+-----------+
+   +--------------------------------------------------------------+-----------+-----------+
+   | Country                                                      | |N|       | |%|       |
+   +==============================================================+===========+===========+
+   | Australia                                                    | 29        | 3.8%      |
+   +--------------------------------------------------------------+-----------+-----------+
+   | New Zealand                                                  | 3         | 0.4%      |
+   +--------------------------------------------------------------+-----------+-----------+
+
+.. table:: Organization location - Asia
+   :widths: 70 15 15
+   :name: tbl-2024-organization-location-asia
+   :class: std3col sortable
+
+   +--------------------------------------------------------------+-----------+-----------+
+   | Country                                                      | |N|       | |%|       |
+   +==============================================================+===========+===========+
+   | India                                                        | 11        | 1.4%      |
+   +--------------------------------------------------------------+-----------+-----------+
+   | Japan                                                        | 5         | 0.6%      |
+   +--------------------------------------------------------------+-----------+-----------+
+   | Philippines                                                  | 2         | 0.3%      |
+   +--------------------------------------------------------------+-----------+-----------+
+   | China, Hong Kong, Kazakhstan, Singapore, Sri Lanka, Taiwan   | 1         | 0.1%      |
+   +--------------------------------------------------------------+-----------+-----------+
+
+.. table:: Organization location - Middle East
+   :widths: 70 15 15
+   :name: tbl-2024-organization-location-middle-east
+   :class: std3col sortable
+
+   +--------------------------------------------------------------+-----------+-----------+
+   | Country                                                      | |N|       | |%|       |
+   +==============================================================+===========+===========+
+   | Israel                                                       | 19        | 2.5%      |
+   +--------------------------------------------------------------+-----------+-----------+
+   | United Arab Emirates                                         | 2         | 0.3%      |
+   +--------------------------------------------------------------+-----------+-----------+
+   | Saudi Arabia                                                 | 1         | 0.1%      |
+   +--------------------------------------------------------------+-----------+-----------+
+
+.. table:: Organization location - South America
+   :widths: 70 15 15
+   :name: tbl-2024-organization-location-south-america
+   :class: std3col sortable
+
+   +--------------------------------------------------------------+-----------+-----------+
+   | Country                                                      | |N|       | |%|       |
+   +==============================================================+===========+===========+
+   | Brazil                                                       | 2         |  0.3%     |
+   +--------------------------------------------------------------+-----------+-----------+
+   | Argentina                                                    | 1         |  0.1%     |
+   +--------------------------------------------------------------+-----------+-----------+
+
+.. table:: Organization location - Africa
+   :widths: 70 15 15
+   :name: tbl-2024-organization-location-africa
+   :class: std3col sortable
+
+   +--------------------------------------------------------------+-----------+-----------+
+   | Country                                                      | |N|       | |%|       |
+   +==============================================================+===========+===========+
+   | Nigeria                                                      | 1         | 0.1%      |
+   +--------------------------------------------------------------+-----------+-----------+
 
 .. raw:: html
 
@@ -3727,7 +3708,7 @@ Age group
 
 The age group split in 2024 was similar to previous years, with the majority of respondents falling into the 26-35 and 36-45 age groups.
 
-.. table:: Age group
+.. table:: Respondent Age 
    :widths: 70 15 15
    :name: tbl-2024-age-group
    :class: std3col sortable
@@ -3735,17 +3716,17 @@ The age group split in 2024 was similar to previous years, with the majority of 
    +------------------+-----+-------+
    | Age group        | |N| | |%|   |
    +==================+=====+=======+
-   | 18-25            | 30  | 3.9%  |
+   | 18-25 years      | 30  | 3.9%  |
    +------------------+-----+-------+
-   | 26-35            | 255 | 32.7% |
+   | 26-35 years      | 255 | 32.7% |
    +------------------+-----+-------+
-   | 36-45            | 244 | 31.3% |
+   | 36-45 years      | 244 | 31.3% |
    +------------------+-----+-------+
-   | 46-55            | 156 | 20.0% |
+   | 46-55 years      | 156 | 20.0% |
    +------------------+-----+-------+
-   | 56-65            | 76  | 9.8%  |
+   | 56-65 years      | 76  | 9.8%  |
    +------------------+-----+-------+
-   | 66+              | 13  | 1.7%  |
+   | 66+ years        | 13  | 1.7%  |
    +------------------+-----+-------+
    | not-specified    | 5   | 0.6%  |
    +------------------+-----+-------+
@@ -3786,13 +3767,13 @@ Gender identity
 
 As in previous surveys, the majority of respondents in 2024 were women - 57% - with men making up 37.2%. 3.9% of respondents were non-binary, transgender or other, and 1.7% chose to not provide an answer. 
 
-.. table:: Gender identity
+.. table:: Respondent gender identity
    :widths: 70 15 15
    :name: tbl-2024-gender-identity
    :class: std3col sortable
 
    +---------------------+-----+-------+
-   | Gender identity     | |N| | |%|   |
+   | Identity            | |N| | |%|   |
    +=====================+=====+=======+
    | Woman               | 444 | 57.0% |
    +---------------------+-----+-------+
@@ -3850,25 +3831,25 @@ The experience level spread of respondents echoed previous years - most falling 
    :class: std3col sortable
 
    +---------------------+-----+-------+
-   | Years of experience | |N| | |%|   |
+   | Experience          | |N| | |%|   |
    +=====================+=====+=======+
-   | 0-1                 | 12  | 1.5%  |
+   | 0-1 years           | 12  | 1.5%  |
    +---------------------+-----+-------+
-   | 1-2                 | 28  | 3.6%  |
+   | 1-2 years           | 28  | 3.6%  |
    +---------------------+-----+-------+
-   | 2-5                 | 138 | 17.7% |
+   | 2-5 years           | 138 | 17.7% |
    +---------------------+-----+-------+
-   | 5-10                | 220 | 28.2% |
+   | 5-10 years          | 220 | 28.2% |
    +---------------------+-----+-------+
-   | 10-15               | 145 | 18.6% |
+   | 10-15 years         | 145 | 18.6% |
    +---------------------+-----+-------+
-   | 15-20               | 74  | 9.5%  |
+   | 15-20 years         | 74  | 9.5%  |
    +---------------------+-----+-------+
-   | 20-25               | 63  | 8.1%  |
+   | 20-25 years         | 63  | 8.1%  |
    +---------------------+-----+-------+
-   | 25-30               | 62  | 8.0%  |
+   | 25-30 years         | 62  | 8.0%  |
    +---------------------+-----+-------+
-   | 30+                 | 35  | 4.5%  |
+   | 30+ years           | 35  | 4.5%  |
    +---------------------+-----+-------+
    | Not specified       | 2   | 0.3%  |
    +---------------------+-----+-------+
@@ -3919,7 +3900,7 @@ As in previous years, most respondents are university- or college-educated: 94.2
    :class: std3col sortable
 
    +--------------------------------+-----+-------+
-   | Education level                | |N| | |%|   |
+   | Level                          | |N| | |%|   |
    +================================+=====+=======+
    | Graduate                       | 403 | 51.7% |
    +--------------------------------+-----+-------+
