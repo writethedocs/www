@@ -1046,7 +1046,7 @@ Two new options were added to the reasons for earnings decrease, based on respon
 
    <input type="radio" id="tabB2-1" name="tabGroupB2" class="tab" checked tabindex="0"><label for="tabB2-1"><span>Earnings increase</span></label><input type="radio" id="tabB2-2" name="tabGroupB2" class="tab"><label for="tabB2-2">Earnings decrease</label><div class="tab__content">
 
-.. table:: Earnings increase
+.. table:: Reasons for earnings increase
    :widths: 70 15 15
    :name: tbl-2024-earnings-increase
    :class: std3col sortable
@@ -1073,7 +1073,7 @@ Two new options were added to the reasons for earnings decrease, based on respon
 
    </div><div class="tab__content">
 
-.. table:: Earnings decrease
+.. table:: Reasons for earnings decrease
    :widths: 70 15 15
    :name: tbl-2024-earnings-decrease
    :class: std3col sortable

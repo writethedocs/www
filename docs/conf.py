@@ -97,9 +97,6 @@ build_videos = str(os.environ.get('BUILD_VIDEOS')).lower() == 'true'
 if not on_rtd and not build_videos:
     print('EXCLUDING VIDEO PATHS. Video links will not work.')
     exclude_patterns.append('videos')
-    exclude_patterns.append('about')
-    exclude_patterns.append('conf')
-    exclude_patterns.append('blog')
     REWRITE_FEED = False
 else:
     print('BUILDING VIDEOS. All video links should work.')

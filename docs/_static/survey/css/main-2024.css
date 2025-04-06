@@ -205,6 +205,12 @@ nav.main-toc {
 	p { display: inline; } /* fix margin/padding/line break issues introduced by Sphinx's HTML5 renderer wrapping **everything** in paragraphs */
 }
 
+.topic-title { /* TOC title */
+	margin: 0; 
+	padding: 0;
+	font-family: var(--font-serif);
+}
+
 /* COLOR */
 
 html {
@@ -395,12 +401,6 @@ nav.mobile-nav {
 		}
 	} /* tablet and mobile */
 }/* nav.mobile-nav */
-
-.topic-title { /* TOC title */
-	margin: 0; 
-	padding: 0;
-	font-family: var(--font-serif);
-}
 
 /* other surveys jump menu */
 .survey-nav {
@@ -686,13 +686,14 @@ table:has(a.footnote-reference.brackets) { margin-bottom: 0; }
 
 dl.footnote.brackets {
 	margin-top: 0;
+	display: flex;
+	align-items: baseline;
 	p, a { font-size: var(--font-size-0) !important; }
 	dt {
-		display: inline-block;
+
 		a { text-decoration: none; }
 	}
 	dd {
-		display: inline-block;
 		margin-inline-start: 10px;
 		a { text-decoration: none; }
 	}
