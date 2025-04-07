@@ -123,6 +123,10 @@ burgerMenu.addEventListener('click',function(){
   this.classList.toggle("close");
   overlay.classList.toggle("overlay");
 });
+burgerMenu.addEventListener('touchstart', function() {
+  this.classList.toggle("close");
+  overlay.classList.toggle("overlay");
+});
 tocLinks.addEventListener('click',function(event){
   if (event.target && event.target.tagName === "A") {
     burgerMenu.classList.remove("close");
