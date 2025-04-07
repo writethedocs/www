@@ -28,8 +28,8 @@
 
 .. |%| replace:: :abbr:`% (Percentage of total respondents)`
 
-.. raw:: html   
-   
+.. raw:: html
+
    <!-- TODO: table style/color scheme tweaks -->
    <nav role="navigation" aria-label="Table of contents" class="main-toc">
    <!-- TODO: toc expand on scroll -->
@@ -39,14 +39,14 @@
    :backlinks: none
 
 .. raw:: html
-   
+
   </nav>
    <div class="breadcrumbs"><a href="/">Home</a> &raquo; <a href="/surveys/">Salary Surveys</a> &raquo;</div>
   <main>
 
    <!-- TODO: add survey-only newsletter signup form -->
 
-.. _top:
+.. _top_2024:
 
 ****************************************
 Documentation Salary Survey 2024 Results
@@ -55,12 +55,12 @@ Documentation Salary Survey 2024 Results
 Introduction
 ============
 
-This sixth incarnation of the Write the Docs Salary Survey drew **779 responses from documentarians in 55 countries**. As always, we are impressed by the skills, experience and diversity of the Write the Docs community, and are grateful to everyone who took the time to fill out the survey and share it with their co-workers. 
+This sixth incarnation of the Write the Docs Salary Survey drew **779 responses from documentarians in 55 countries**. As always, we are impressed by the skills, experience and diversity of the Write the Docs community, and are grateful to everyone who took the time to fill out the survey and share it with their co-workers.
 
 Without further ado, let's look at the findings!
 
-.. tip:: 
-   
+.. tip::
+
    **In a hurry?** Jump straight to `Median salary`_ or `Median contract rate`_.
 
 .. container:: note
@@ -72,7 +72,7 @@ Without further ado, let's look at the findings!
 Feedback
 --------
 
-We're always keen to hear your thoughts on this survey, so that we can continue to develop and refine it - and if you have used the data to help negotiate a raise or evaluate an offer, we would love to know about it! Email us at support@writethedocs.org with your feedback, ideas and experiences. 
+We're always keen to hear your thoughts on this survey, so that we can continue to develop and refine it - and if you have used the data to help negotiate a raise or evaluate an offer, we would love to know about it! Email us at support@writethedocs.org with your feedback, ideas and experiences.
 
 Here are just some of the anonymous comments that respondents submitted in 2024:
 
@@ -82,20 +82,20 @@ Here are just some of the anonymous comments that respondents submitted in 2024:
 
    I negotiated a much higher salary bracket when hiring a new team member. Other (paid) salary calibrators don't have enough info for tech writers and the 'AI' estimates are always too low.
 
-   Data from past years helped me understand how underpaid I was at the time and gave me confidence to negotiate with the next opportunity. 
+   Data from past years helped me understand how underpaid I was at the time and gave me confidence to negotiate with the next opportunity.
 
    In 2025, I expect to convert from a contractor to a full-time employee. I fully expect that I will need to negotiate my salary and will lean heavily on the WTD Salary Survey to do so.
 
 Employment parameters
 =====================
 
-This section establishes the parameters of the respondent's employment: the type of employment, number of hours worked, job title and type of role, length of time in current position, and how focused the role is on documentation. 
+This section establishes the parameters of the respondent's employment: the type of employment, number of hours worked, job title and type of role, length of time in current position, and how focused the role is on documentation.
 
 Basis of employment
 -------------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked (click to expand)</summary>
 
 .. container:: question
@@ -145,17 +145,17 @@ For the first time this year, we included a third option - for respondents who h
    | 2024 [*]_       | 714 (88.4%) | 94 (11.6%)  |
    +-----------------+-------------+-------------+
 
-.. [*] Includes 66 employee-contractor respondents who are counted twice - once as an employee and once as a contractor 
+.. [*] Includes 66 employee-contractor respondents who are counted twice - once as an employee and once as a contractor
 
 As in previous years, we encouraged those currently not working to respond as though still at their previous job/contract, provided they had worked at least some of the past year. 16 employees (2.3%) and 7 contractors (10.6%) filled out the survey on this basis.
 
-Of the 28 respondents who had worked as both employee and contractor in the past year, 15 were currently working in both capacities. 9 were currently working as employee but not contractor, 2 were currently working as contractor but not as employee, and another 2 were not currently working in either capacity. 
+Of the 28 respondents who had worked as both employee and contractor in the past year, 15 were currently working in both capacities. 9 were currently working as employee but not contractor, 2 were currently working as contractor but not as employee, and another 2 were not currently working in either capacity.
 
-Hours worked 
+Hours worked
 ------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -173,18 +173,18 @@ Hours worked
 
    </details>
 
-As in previous years, the majority (96%) of respondents worked traditional "full-time" hours each week: 
+As in previous years, the majority (96%) of respondents worked traditional "full-time" hours each week:
 
 - 68.2% worked between 31 and 40 hours
 - 24.9% worked between 41 and 50 hours
-- 2.2% worked between 51 and 60 hours 
+- 2.2% worked between 51 and 60 hours
 
 For the first time this year, no respondents reported working more than 60 hours.
 
-4.8% of respondents worked fewer hours: 
+4.8% of respondents worked fewer hours:
 
 - 2.7% worked 21 to 30 hours each week
-- 2.1% worked 1 to 20 hours 
+- 2.1% worked 1 to 20 hours
 
 .. table:: Weekly hours worked (2024)
    :widths: 70 15 15
@@ -209,7 +209,7 @@ Job title
 ---------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -220,9 +220,9 @@ Job title
 
    </details>
 
-With typos fixed, abbreviations expanded, "stop words" removed and keyword faceting applied, 217 unique job titles could be discerned. One respondent indicated that they did not have a job title.    
-      
-As in previous years, the most widely used exact title was "Technical Writer", reported by 26.8% of respondents. This exact phrase appeared in 6 of the top 10 job titles, in 51 of the 217 unique job titles, and in 65.2% of all job titles.  
+With typos fixed, abbreviations expanded, "stop words" removed and keyword faceting applied, 217 unique job titles could be discerned. One respondent indicated that they did not have a job title.
+
+As in previous years, the most widely used exact title was "Technical Writer", reported by 26.8% of respondents. This exact phrase appeared in 6 of the top 10 job titles, in 51 of the 217 unique job titles, and in 65.2% of all job titles.
 
 .. raw:: html
 
@@ -299,7 +299,7 @@ As in previous years, the most widely used exact title was "Technical Writer", r
    <figure>
       <object role="img" aria-label="Job title word cloud" aria-describedby="figure_job-title-word-cloud_desc" type="image/svg+xml" data="/_images/2024-job-title-word-cloud.svg">
          <p id="figure_job-title-word-cloud_desc">Word cloud showing relative weights of job title keywords</p>
-      </object> 
+      </object>
       <figcaption>Figure: Job title word cloud</figcaption>
    </figure>
 
@@ -310,7 +310,7 @@ Role category
 -------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -367,12 +367,12 @@ Role category
 
 .. container:: question
 
-   |icon-info| Given that job titles and the responsibilities they entail varies widely, this question attempts to add context to the salary data by identifying the type of work being primarily performed. 
-   
+   |icon-info| Given that job titles and the responsibilities they entail varies widely, this question attempts to add context to the salary data by identifying the type of work being primarily performed.
+
    We added the original version of this question - which asked respondents to broadly categorize their role into one of a limited set of options - in the second survey, in 2020. Starting in 2022, we allowed respondents to choose multiple role categories. This highlighted the breadth of talent in our community, but made comparing salaries more difficult.
 
-   After community consultation in 2024, we split this question into two parts - one for primary role category, and one for additional roles - and expanded the number of options. 
-   
+   After community consultation in 2024, we split this question into two parts - one for primary role category, and one for additional roles - and expanded the number of options.
+
 .. raw:: html
 
    </details>
@@ -426,7 +426,7 @@ Additional role categories
 
 Of the respondents who selected additional role categories, the number chosen ranged from 1 (82 respondents) to 10 or more (32 respondents). The most popular number of additional role categories was 3, with 136 respondents selecting 3 additional categories.
 
-This resulted in an incredibly diverse range of primary and secondary role category combinations - over 3,400 in all. 
+This resulted in an incredibly diverse range of primary and secondary role category combinations - over 3,400 in all.
 
 .. raw:: html
 
@@ -527,7 +527,7 @@ Team configuration
 ------------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -574,15 +574,15 @@ Length of time in current role
 ------------------------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
 
-   |icon-question| **Employees:** 
+   |icon-question| **Employees:**
 
    How long have you worked at your current organization, in your current role?
-   
+
    Please select the length of time for your current position at your current organization only - your total years of experience in documentation will be covered in the individual demographics section.
 
    If you have changed roles at the same organization, please select the length of time that you have been in your current role.
@@ -618,7 +618,7 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
 .. table:: Length of time in current role - employees
    :widths: 70 15 15
    :name: tbl-2024-length-of-time-in-current-role-employees
-   :class: std3col sortable 
+   :class: std3col sortable
 
    +-------------------------+-----+-------+
    | Time                    | |N| | |%|   |
@@ -658,12 +658,12 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
    +------------------------+--------+--------+
 
 .. raw:: html
-   
+
    <!-- CHART: chart for "time in current role" -->
    <figure>
       <object role="img" aria-label="Length of time in current role at current organization" aria-describedby="figure_length-of-time-in-current-role_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
          <p id="figure_length-of-time-in-current-role_desc">Length of time in current role (at current organization - employee respondents who have changed roles at the same organization were instructed to specify the length of time they had been in their current role only, not the total length of time at the organization)</p>
-      </object> 
+      </object>
       <figcaption>Figure: Length of time in current role</figcaption>
    </figure>
 
@@ -674,7 +674,7 @@ Proportion of role related to documentation
 -------------------------------------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -755,7 +755,7 @@ The majority of respondents (68.8%) reported that documentation makes up their w
    <figure>
       <object role="img" aria-label="Portion of role documentation-related" aria-describedby="figure_proportion-of-role-docs-related_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
          <p id="figure_proportion-of-role-docs-related_desc">Chart showing what proportion of respondents official job description is documentation-related, versus how much of their day to day tasks are documentation-related.</p>
-      </object> 
+      </object>
       <figcaption>Figure: Portion of role officially documentation-related</figcaption>
    </figure>
 
@@ -771,12 +771,12 @@ Salary or contract earnings changes
 -----------------------------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
 
-   |icon-question| 
+   |icon-question|
 
    Employees:
 
@@ -794,7 +794,7 @@ Salary or contract earnings changes
 
    - Yes - my earnings increased
    - Yes - my earnings decreased
-   - No - my earnings stayed the same   
+   - No - my earnings stayed the same
 
 .. raw:: html
 
@@ -865,12 +865,12 @@ Reasons for salary increase or decrease
 ---------------------------------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
 
-   |icon-question| 
+   |icon-question|
 
    Why did your salary increase? Select multiple, if appropriate.
 
@@ -893,17 +893,17 @@ Reasons for salary increase or decrease
    - Other (please specify)
 
    Regardless of outcome, did you attempt to negotiate a salary increase in the past year? This could be through formal or informal procedures.
-   
+
    - yes
    - no
 
 .. raw:: html
 
    </details>
-   
+
 61.6% of employees reporting an increase in salary attributed this to a raise. 17.4% received a promotion, and 13.9% started a new position.
 
-After examining the responses entered by those respondents who selected "Other" and provided more detail, four additional options were added to the reasons for salary increase: 
+After examining the responses entered by those respondents who selected "Other" and provided more detail, four additional options were added to the reasons for salary increase:
 
 - "Adjustment" refers to a salary increase to account for inflation, cost-of-living increases, currency exchange rates or similar - rather than a performance, merit or tenure-based raise;
 - "Position change" refers to a change in location, increase in responsibilities or wider scope of tasks that warranted a salary increase, without actually being a promotion or lateral move;
@@ -984,12 +984,12 @@ Reasons for contract earnings increase or decrease
 --------------------------------------------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
 
-   |icon-question| 
+   |icon-question|
 
    Why did your contract or freelance earnings increase? Select multiple, if appropriate.
 
@@ -998,7 +998,7 @@ Reasons for contract earnings increase or decrease
    - I worked more hours
    - Other (please specify)
 
-   OR 
+   OR
 
    Why did your contract or freelance earnings decrease? Select multiple, if appropriate.
 
@@ -1108,7 +1108,7 @@ Job or contract search status
 -----------------------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -1123,7 +1123,7 @@ Job or contract search status
    - I'm actively looking for a new position
    - I'm actively looking for a new position and would also consider contract/freelance opportunities
 
-   Contractors: 
+   Contractors:
 
    What is your current contract/freelance search status?
 
@@ -1134,13 +1134,13 @@ Job or contract search status
    - I'm actively looking for new contracts or freelance projects and would also consider taking a permanent position
    - I'm only contracting while I search for a permanent position
 
-.. raw:: html  
+.. raw:: html
 
    </details>
 
-The top two responses to "what is your job/contract search status" were the same for employees and contractors: 
+The top two responses to "what is your job/contract search status" were the same for employees and contractors:
 
-- 46.8% of employees and 30.9% of contractors reported that they were not actively looking for new positions, but were open to offers; whereas 
+- 46.8% of employees and 30.9% of contractors reported that they were not actively looking for new positions, but were open to offers; whereas
 - 29.5% of employees and 23.4% of contractors reported that they were not actively looking for new positions and were not open to offers.
 
 5.5% of employees were actively looking for new positions and would also consider contract/freelance opportunities, while 18.1% of contractors were actively looking for new contracts or freelance projects and would also consider taking a permanent position. 17% of contractors were only contracting while searching for a permanent position.
@@ -1205,15 +1205,15 @@ Job security and stability
 --------------------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    Employees who are currently working:
-   
+
    How would you characterize your current feelings of job security and stability compared to this time last year?
 
    - More confident
@@ -1232,7 +1232,7 @@ Job security and stability
 
    </details>
 
-Employees and contractors who had indicated that they were currently unemployed were not shown this question. 
+Employees and contractors who had indicated that they were currently unemployed were not shown this question.
 
 Around half of all employees (51.4%) and half of all contractors (50% exactly) reported that their confidence in their job security and stability was around the same as last year. However, while 26.6% of employees reported feeling more confident, only 19.7% of contractors did. Conversely, 21.9% of employees reported feeling less confident, compared to 30.3% of contractors.
 
@@ -1286,12 +1286,12 @@ Job search confidence
 ---------------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
 
-   |icon-question| 
+   |icon-question|
 
    Employees who are currently not working, or who indicated that they were actively looking for a new position:
 
@@ -1314,14 +1314,14 @@ Job search confidence
    - Not confident at all
 
 .. raw:: html
-   
+
    </details>
 
 Employees and contractors were shown this question if they indicated that they were currently not working, or if they indicated that they were actively looking for a new position or new contract.
 
 Amongst employees, job search confidence was mixed, with around a third (30%) feeling "confident" and another third (27.5%) feeling "not confident". Similarly, a smaller proportion (10%) felt "very confident" and an almost equal number (11.3%) "not confident at all".
 
-Amongst contractors - a smaller number of respondents overall - the trend was towards the negative, with 40.9% feeling "not confident" and 13.6% feeling "not confident at all". 
+Amongst contractors - a smaller number of respondents overall - the trend was towards the negative, with 40.9% feeling "not confident" and 13.6% feeling "not confident at all".
 
 .. raw:: html
 
@@ -1380,7 +1380,7 @@ Amongst contractors - a smaller number of respondents overall - the trend was to
 Workplace
 =========
 
-The questions in this section relate to respondents' workplace: whether they work from home, from an office, or a combination, and how they feel about that. We were also interested in how the much-discussed "back to the office" mandates have affected our community. 
+The questions in this section relate to respondents' workplace: whether they work from home, from an office, or a combination, and how they feel about that. We were also interested in how the much-discussed "back to the office" mandates have affected our community.
 
 .. container:: note
 
@@ -1392,7 +1392,7 @@ Work location
 -------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -1444,7 +1444,7 @@ For the first time since 2019, hybrid work has overtaken fully remote work as th
    <figure>
       <object role="img" aria-label="Work location" aria-describedby="figure_work-location_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
          <p id="figure_work-location_desc">Donut chart showing current work location - remote, hybrid, on-site - and whether the location is their choice or their employer's.</p>
-      </object> 
+      </object>
       <figcaption>Figure: Work location</figcaption>
    </figure>
 
@@ -1478,7 +1478,7 @@ The majority of respondents (82.6% overall) reported feeling "positive" about th
    <figure>
       <object role="img" aria-label="Work location" aria-describedby="figure_feelings-about-work-location_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
          <p id="figure_feelings-about-work-location_desc">Donut chart showing respondents feelings about their work location.</p>
-      </object> 
+      </object>
       <figcaption>Figure: Feelings about work location</figcaption>
    </figure>
 
@@ -1489,7 +1489,7 @@ The majority of respondents (82.6% overall) reported feeling "positive" about th
 ---------------------------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -1518,7 +1518,7 @@ The majority of respondents (82.6% overall) reported feeling "positive" about th
 
    </details>
 
-In 2024, 51.4% of respondents reported that they have not been affected by RTO policies - either because remote work was still possible, or because their position was always on-site. 
+In 2024, 51.4% of respondents reported that they have not been affected by RTO policies - either because remote work was still possible, or because their position was always on-site.
 
 For those that have been affected, most reported that a hybrid model was being mandated (25% overall). 9.4% reported that a return was encouraged but not mandatory, and 7.6% reported that it was mandatory for some roles.
 
@@ -1545,7 +1545,7 @@ For those that have been affected, most reported that a hybrid model was being m
    | No - position was always on-site       | 19        | 2.4%      |
    +----------------------------------------+-----------+-----------+
 
-Those who reported being affected by an RTO policy were asked about their feelings on the situation. 
+Those who reported being affected by an RTO policy were asked about their feelings on the situation.
 
 Overall, the split between positive, negative and neutral feelings was fairly even - 33.4% reported feeling neutral, 39.4% negative or very negative, and 27.1% positive or very positive.
 
@@ -1632,7 +1632,7 @@ Preferred work location
 -----------------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -1648,7 +1648,7 @@ Preferred work location
 
    </details>
 
-Regardless of their current situation, 52.1% of all respondents said that their preferred work location is remote. Another 40.6% favored a hybrid model (some days in the office, some days working from home or another location). Only 2.8% said they preferred working on-site at their employer's office, and 4.5% stated no preference or that their preference depended upon the situation. 
+Regardless of their current situation, 52.1% of all respondents said that their preferred work location is remote. Another 40.6% favored a hybrid model (some days in the office, some days working from home or another location). Only 2.8% said they preferred working on-site at their employer's office, and 4.5% stated no preference or that their preference depended upon the situation.
 
 .. table:: Preferred work location
    :widths: 70 15 15
@@ -1668,7 +1668,7 @@ Regardless of their current situation, 52.1% of all respondents said that their 
    +----------------------------------+-----------+-----------+
 
 .. raw:: html
-   
+
    <!-- CHART: preferred work location - also over time? -->
 
 Employee salary, benefits and satisfaction
@@ -1677,13 +1677,13 @@ Employee salary, benefits and satisfaction
 To protect the privacy of our community, we do not publish median salary figures for any region or category with less than 10 respondents. In regions or categories that meet the minimum threshold of 30 respondents, we're also providing the |25th| percentile (the value below which 25% of the data falls) and |75th| percentile (the value below which 75% of the data falls).
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    Please enter your salary before taxes are taken out, and indicate whether this is a monthly or yearly amount (in some countries it is customary to talk about monthly salary, while in others yearly figures are more common). Monthly figures will be multiplied by 12 for comparison with yearly figures.
 
    If your total compensation is made up of a base salary and significant bonus, equity or commission payments, please enter your total compensation (or an average, if it fluctuates).
@@ -1778,7 +1778,7 @@ Median salary
 -------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -1789,7 +1789,7 @@ Median salary
 
    </details>
 
-As in previous years, salaries for those working part-time hours (less than 30 per week) have been omitted from the figures in this section. The median salaries are based on 689 full-time employee respondents.  
+As in previous years, salaries for those working part-time hours (less than 30 per week) have been omitted from the figures in this section. The median salaries are based on 689 full-time employee respondents.
 
 .. container:: note
 
@@ -1801,7 +1801,7 @@ As in previous years, salaries for those working part-time hours (less than 30 p
    - |50th| percentile (median): half of all respondents earned more, half earned less
    - |75th| percentile: one quarter of all respondents earned more, three  quarters earned less
 
-   Medians are used when comparing salary data, as they are less affected by outliers than average values. Medians are shown for any salary breakdown with at least 10 responses, and 25th and 75th percentiles are shown for breakdowns with at least 30 responses. 
+   Medians are used when comparing salary data, as they are less affected by outliers than average values. Medians are shown for any salary breakdown with at least 10 responses, and 25th and 75th percentiles are shown for breakdowns with at least 30 responses.
 
 Median salary by respondent region
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1819,12 +1819,12 @@ Given the range of socio-economic differences in the countries in the survey res
    - Oceania: New Zealand
    - Asia: China, Japan, Kazakhstan, Pakistan, Philippines, Sri Lanka, Taiwan, Thailand
    - Middle East: Lebanon, United Arab Emirates
-   - Africa: Nigeria, Rwanda, South Africa 
-   - South America: Argentina, Brazil, Chile, Colombia 
+   - Africa: Nigeria, Rwanda, South Africa
+   - South America: Argentina, Brazil, Chile, Colombia
 
 .. table:: Salary (USD) by respondent region
    :name: tbl-2024-salary-by-respondent-region
-   :class: medians 
+   :class: medians
 
    +-------------------------+-------------+--------------+--------------+
    | Region (|N|)            | |25|        | |50|         | |75|         |
@@ -1861,7 +1861,7 @@ Given the range of socio-economic differences in the countries in the survey res
 Median salary by respondent region - further breakdowns
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Respondent numbers allow some additional breakdowns by US state, Candian province and Australian state, as well as a handful of major cities. 
+Respondent numbers allow some additional breakdowns by US state, Candian province and Australian state, as well as a handful of major cities.
 
 .. raw:: html
 
@@ -1975,7 +1975,7 @@ This year, that means that we are able to show breakdowns for Worldwide, North A
    +---------------------+-------------+--------------+--------------+
    | Europe (93)         | $44,547     | $57,024      | $73,984      |
    +---------------------+-------------+--------------+--------------+
- 
+
 .. raw:: html
 
    </div><div class="tab__content">
@@ -2019,13 +2019,13 @@ This year, that means that we are able to show breakdowns for Worldwide, North A
 Median salary by years of experience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The general trend is for salaries to increase with years of experience. This trend holds out throughout regions, with the most pronounced increase in the 10-15 year range. 
+The general trend is for salaries to increase with years of experience. This trend holds out throughout regions, with the most pronounced increase in the 10-15 year range.
 
 .. raw:: html
 
    <div class="tab-wrap"><input type="radio" id="tabD943-1" name="tabGroupD943" class="tab" checked><label for="tabD943-1">Worldwide</label><input type="radio" id="tabD943-2" name="tabGroupD943" class="tab"><label for="tabD943-2">North America</label><input type="radio" id="tabD943-3" name="tabGroupD943" class="tab"><label for="tabD943-3">Europe</label><div class="tab__content">
 
-.. table:: Salary (USD) by experience 
+.. table:: Salary (USD) by experience
    :name: tbl-2024-salary-by-experience
    :class: medians sortable
 
@@ -2091,7 +2091,7 @@ The general trend is for salaries to increase with years of experience. This tre
    | 15-20 years     | 16    |         | $76,982 |         |
    +-----------------+-------+---------+---------+---------+
    | 20+ years       | 26    |         | $72,900 |         |
-   +-----------------+-------+---------+---------+---------+   
+   +-----------------+-------+---------+---------+---------+
 
 .. raw:: html
 
@@ -2106,7 +2106,7 @@ Salaries generally increase with the size of the organization, with the highest 
 
    <div class="tab-wrap"><input type="radio" id="tabD9943-1" name="tabGroupD9943" class="tab" checked><label for="tabD9943-1">Worldwide</label><input type="radio" id="tabD9943-2" name="tabGroupD9943" class="tab"><label for="tabD9943-2">North America</label><input type="radio" id="tabD9943-3" name="tabGroupD9943" class="tab"><label for="tabD9943-3">Europe</label><div class="tab__content">
 
-.. table:: Salary (USD) by organization size 
+.. table:: Salary (USD) by organization size
    :name: tbl-2024-salary-by-organization-size
    :class: medians sortable
 
@@ -2174,7 +2174,7 @@ Employee benefits
 -----------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -2234,7 +2234,7 @@ Employee benefits
 
 .. container:: question
 
-   |icon-info| 
+   |icon-info|
 
    This question was overhauled in 2024 to distinguish between benefits that are mandated by law in the country of employment, and those that are provided by the employer in addition to what is legally required. Instead of one questoion asking about all benefits, we now ask three separate questions: one about statutory benefits, one about statutory benefits in excess of legal requirements, and one about non-statutory benefits.
 
@@ -2345,7 +2345,7 @@ Employee satisfaction
 ---------------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -2428,16 +2428,16 @@ Factors affecting salary satisfaction
 -------------------------------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
 
-   |icon-question| How strongly do you agree with the following statements about your salary and benefits? 
+   |icon-question| How strongly do you agree with the following statements about your salary and benefits?
 
-   - I'm paid fairly 
-   - My salary keeps up with inflation / cost-of-living 
-   - My benefits are sufficient 
+   - I'm paid fairly
+   - My salary keeps up with inflation / cost-of-living
+   - My benefits are sufficient
 
    How strongly do you agree with the following statements about your job?
 
@@ -2474,7 +2474,7 @@ Factors affecting salary satisfaction
 
 .. container:: question
 
-   |icon-info| 
+   |icon-info|
 
    This question was overhauled in 2024 to be more positive in outlook, and to capture a fuller spectrum of attitudes. Rather than asking respondents to choose from a list of factors that may affect their satisfaction, we asked them to rate their agreement with a series of statements about their salary and benefits, job, workplace, team and organization.
 
@@ -2482,7 +2482,7 @@ Factors affecting salary satisfaction
 
    </details>
 
-While the format of this question has changed from previous years, it's possible to see patterns in the responses. For example, most respondents like and/or respect their co-workers (91.7% agreed), and to a lesser extent their managers and team leaders (79.5%) and their organization (66.9%). Many respondents are concerned with their salary not keeping up with inflation (32.6%), and a significant number are not satisfied with their workload (14.2%).  
+While the format of this question has changed from previous years, it's possible to see patterns in the responses. For example, most respondents like and/or respect their co-workers (91.7% agreed), and to a lesser extent their managers and team leaders (79.5%) and their organization (66.9%). Many respondents are concerned with their salary not keeping up with inflation (32.6%), and a significant number are not satisfied with their workload (14.2%).
 
 Respondents who indicated that the statement was not relevant to their situation were excluded from the analysis.
 
@@ -2592,7 +2592,7 @@ Respondents who indicated that the statement was not relevant to their situation
    <figure>
       <object role="img" aria-label="Factors affecting salary satisfaction" aria-describedby="figure_factors-affecting-salary-satisfaction_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
          <p id="figure_factors-affecting-salary-satisfaction_desc">Horizontal bar chart showing factors affecting salary satisfaction, as reported by employee respondents in 2023.</p>
-      </object> 
+      </object>
       <figcaption>Figure: Factors affecting salary satisfaction</figcaption>
    </figure>
 
@@ -2606,13 +2606,13 @@ Contract rates and satisfaction
 
    .. rubric:: |icon-info| Note on median rates for contractors
 
-   While the 2024 survey results include more contractor data than in any previous year (94 responses) this number is too low, and the respondents too geographically diverse, to determine median rates except for the very largest regions (the United States and Europe). 
+   While the 2024 survey results include more contractor data than in any previous year (94 responses) this number is too low, and the respondents too geographically diverse, to determine median rates except for the very largest regions (the United States and Europe).
 
 Preferred term
 --------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -2633,15 +2633,15 @@ Preferred term
 
    |icon-info| In the first few surveys, we often struggled with the wording to describe the group of respondents who are not employees - "contractors, freelance operators, and self-employed people" is cumbersome and doesn't really "roll off the tongue". While we often used "contractor" as a catch-all shorthand term, we were aware that this might not be the preferred term for everyone.
 
-   In 2023, we asked respondents who are not employees what term they prefer to describe the kind of work they do. The results from that year indicated that "contractor" was the most widely-used term, so that's what we used as a shorthand term throughout 2023's results and in the survey form for 2024. 
+   In 2023, we asked respondents who are not employees what term they prefer to describe the kind of work they do. The results from that year indicated that "contractor" was the most widely-used term, so that's what we used as a shorthand term throughout 2023's results and in the survey form for 2024.
 
-   We'll continue to ask this question in future surveys to ensure that we're using the most appropriate term.  
+   We'll continue to ask this question in future surveys to ensure that we're using the most appropriate term.
 
 .. raw:: html
 
    </details>
 
-63.8% of non-employee respondents term themselves "contractors", while 18.1% prefer "freelancer" and 10.6% use "self-employed". Of the 7 individuals who chose "other", 3 indicated that they consider themselves full time employees working under a service agreement (temporary or otherwise), 2 specified "consultant", one specified "agency worker", and the final respondent entered "N/A".  
+63.8% of non-employee respondents term themselves "contractors", while 18.1% prefer "freelancer" and 10.6% use "self-employed". Of the 7 individuals who chose "other", 3 indicated that they consider themselves full time employees working under a service agreement (temporary or otherwise), 2 specified "consultant", one specified "agency worker", and the final respondent entered "N/A".
 
 .. table:: Preferred term
    :widths: 70 15 15
@@ -2664,12 +2664,12 @@ Type of contract work
 ---------------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
 
-   |icon-question| What kind of contract, freelance or self-employed work do you typically engage in? Check all that apply. 
+   |icon-question| What kind of contract, freelance or self-employed work do you typically engage in? Check all that apply.
 
    - I work for multiple clients at the same time
    - I work for one client at a time
@@ -2690,9 +2690,9 @@ Type of contract work
 Contractor type
 ~~~~~~~~~~~~~~~
 
-To illustrate how varied contractor working situations are, out of the 94 total contractor respondents, there were 59 different combinations of client type, contract or project type, and product or service offering. 
+To illustrate how varied contractor working situations are, out of the 94 total contractor respondents, there were 59 different combinations of client type, contract or project type, and product or service offering.
 
-53.2% of contractor respondents indicated that they worked exclusively for a single client at a time. Another 27.7% indicated that they worked exclusively for multiple clients at a time. 5.3% worked at times for either a single client or multiple clients, and 13.8% did not indicate whether they worked for a single client or multiple. 
+53.2% of contractor respondents indicated that they worked exclusively for a single client at a time. Another 27.7% indicated that they worked exclusively for multiple clients at a time. 5.3% worked at times for either a single client or multiple clients, and 13.8% did not indicate whether they worked for a single client or multiple.
 
 36.2% of contractor respondents did not specify a typical contract length, while 30.9% reported working exclusively on long-term contracts (6-12 months or longer). Mixed contract lengths were reported by 23.4%, with 7.4% working only on medium-term contracts (1-6 months) and 2.1% working exclusively on short-term contracts (days or weeks).
 
@@ -2771,7 +2771,7 @@ Contract rates
 --------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -2796,7 +2796,7 @@ Currencies
 Contractor respondents were paid in 15 different currencies. To make comparisons possible, all currencies were converted to USD using mid-market exchange rates, averaged for the whole of 2024.
 
 .. table:: Currency and exchange rate
-   :widths: 70 15 15 
+   :widths: 70 15 15
    :name: tbl-2024-currency-exchange-rate-contractors
    :class: sortable tbl_currency
 
@@ -2837,7 +2837,7 @@ Contractor respondents were paid in 15 different currencies. To make comparisons
 Median contract rate
 ~~~~~~~~~~~~~~~~~~~~
 
-In previous years, we asked contractor respondents to enter multiple rates, if appropriate, and a number did so. This year, although the form allowed multiple rates to be entered, no respondents entered more than one type of rate.  
+In previous years, we asked contractor respondents to enter multiple rates, if appropriate, and a number did so. This year, although the form allowed multiple rates to be entered, no respondents entered more than one type of rate.
 
 Hourly rates were the most commonly entered fee structure, used by 66% of contractor respondents. 27.7% entered a monthly rate, and the remaining 6.4% - 6 individuals - entered a day rate. Due to the low number of day rates, we're unable to publish any median day rates.
 
@@ -2886,7 +2886,7 @@ Contractor satisfaction
 -----------------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -2911,7 +2911,7 @@ Contractor satisfaction
 
    </details>
 
-More than half of contractor respondents (63.8%) reported feeling satisfied with their earnings (42.6% satisfied and 21.3% very satisfied), and 66% reported feeling satisfied with their overall contracting situation (42.6% satisfied and 19.1% very satisfied). 
+More than half of contractor respondents (63.8%) reported feeling satisfied with their earnings (42.6% satisfied and 21.3% very satisfied), and 66% reported feeling satisfied with their overall contracting situation (42.6% satisfied and 19.1% very satisfied).
 
 .. raw:: html
 
@@ -2967,7 +2967,7 @@ Factors affecting contractor satisfaction
 -----------------------------------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -3013,7 +3013,7 @@ Factors affecting contractor satisfaction
 
 .. container:: question
 
-   |icon-info| 
+   |icon-info|
 
    This question was overhauled in 2024 to be more positive in outlook, and to capture a fuller spectrum of attitudes. Rather than asking respondents to choose from a list of factors that may affect their satisfaction, we asked them to rate their agreement with a series of statements about their salary and benefits, job, workplace, team and organization.
 
@@ -3021,7 +3021,7 @@ Factors affecting contractor satisfaction
 
    </details>
 
-While the format of this question has changed from previous years, it's possible to see patterns in the responses. For example, many contractors are concerned with keeping up with inflation (32.6%), and career advancement opportunities (42.1% negative). 
+While the format of this question has changed from previous years, it's possible to see patterns in the responses. For example, many contractors are concerned with keeping up with inflation (32.6%), and career advancement opportunities (42.1% negative).
 
 Respondents who indicated that the statement was not relevant to their situation were excluded from the analysis.
 
@@ -3128,13 +3128,13 @@ Respondents who indicated that the statement was not relevant to their situation
 Organization demographics
 =========================
 
-This section concerns employing organizations. Contractors were given the option of answering about the main organization they work for, or skipping this section if it was not relevant. Only 6 contractors chose not to answer. 
+This section concerns employing organizations. Contractors were given the option of answering about the main organization they work for, or skipping this section if it was not relevant. Only 6 contractors chose not to answer.
 
 Organization size
 -----------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -3182,7 +3182,7 @@ Organization type and industry
 ------------------------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -3229,7 +3229,7 @@ Organization type and industry
    - Utilities, Energy, Mining, Extraction
    - Other (please specify)
 
-   Respondents who selected software development or software development tools were asked to also select the industries that the software product or service created by the organization primarily caters to, if possible. For example, e-learning software would also be categorized as "Education, Training" and point of sale software for restaurants would also be "Food, Beverages". 
+   Respondents who selected software development or software development tools were asked to also select the industries that the software product or service created by the organization primarily caters to, if possible. For example, e-learning software would also be categorized as "Education, Training" and point of sale software for restaurants would also be "Food, Beverages".
 
 .. raw:: html
 
@@ -3315,7 +3315,7 @@ Pay transparency
 ----------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -3358,11 +3358,11 @@ Pay transparency
 
 .. container:: question
 
-   |icon-info| 
+   |icon-info|
 
-   Pay transparency was first included in the 2022 survey. Due to feedback from contractors in this first year, pay transparency questions were only shown to employee respondents in 2023. However, as some contractors work long-term contracts for single clients in the manner of regular employees, pay transparency may still be relevant. 
+   Pay transparency was first included in the 2022 survey. Due to feedback from contractors in this first year, pay transparency questions were only shown to employee respondents in 2023. However, as some contractors work long-term contracts for single clients in the manner of regular employees, pay transparency may still be relevant.
 
-   In 2024, we moved the pay transparency questions to the "organization demographics" section. Contractors were given the option of filling out this section or skipping it, depending on whether they deemed it relevant to their situation or not. The question about the legal requirement for pay transparency in the organization's location was also added. 
+   In 2024, we moved the pay transparency questions to the "organization demographics" section. Contractors were given the option of filling out this section or skipping it, depending on whether they deemed it relevant to their situation or not. The question about the legal requirement for pay transparency in the organization's location was also added.
 
 .. raw:: html
 
@@ -3462,7 +3462,7 @@ The majority of respondents reported that there was not a culture of sharing sal
 Attitudes towards pay transparency
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-76% of respondents were supportive of pay transparency, with 46.8% expressing strong support. Those in opposition were in the minority (4.5%).   
+76% of respondents were supportive of pay transparency, with 46.8% expressing strong support. Those in opposition were in the minority (4.5%).
 
 .. table:: Attitudes towards pay transparency
    :widths: 70 15 15
@@ -3484,20 +3484,20 @@ Attitudes towards pay transparency
    +----------------------------+-----+-------+
 
 .. raw:: html
-   
+
    <!-- CHART: Pay transparency attitudes -->
 
 Organization origin and location
 --------------------------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    Is your organization multinational? A multinational organization is defined as one that has office locations and business operations in two or more countries.
 
    - Yes
@@ -3507,9 +3507,9 @@ Organization origin and location
 
    Note: This is the primary location, headquarters or main location - or for multinational organizations, the location where the organization originated. This is not your location - that will be covered in the next section.
 
-   - Country: 
-   - State/Province/Region: 
-   - City/Town (optional): 
+   - Country:
+   - State/Province/Region:
+   - City/Town (optional):
 
 .. raw:: html
 
@@ -3517,7 +3517,7 @@ Organization origin and location
 
 83% of respondents reported that their employer organization was a multinational organization - one with office locations and business operations in two or more countries. These respondents were asked to specify the location where the organization originated.
 
-A total of 63.8% of organizations originated in North America, with the bulk of those being US-based. 
+A total of 63.8% of organizations originated in North America, with the bulk of those being US-based.
 
 .. raw:: html
 
@@ -3548,7 +3548,7 @@ A total of 63.8% of organizations originated in North America, with the bulk of 
 
 .. raw:: html
 
-	</div><div class="tab__content">   
+	</div><div class="tab__content">
 
 
 .. table:: Organization location - North America
@@ -3565,7 +3565,7 @@ A total of 63.8% of organizations originated in North America, with the bulk of 
    +-------------------------------------------------+-----------+-----------+
    | Mexico                                          | 1         | 0.1%      |
    +-------------------------------------------------+-----------+-----------+
- 
+
 .. raw:: html
 
 	</div><div class="tab__content">
@@ -3681,13 +3681,13 @@ A total of 63.8% of organizations originated in North America, with the bulk of 
 Respondent demographics
 =======================
 
-Who makes up the Write the Docs community? The questions in this section on respondent age, gender identity, education, experience, and location provide context for the salary/rate and satisfaction data. All questions in this section had an "I'd rather not say" option, with the exception of geographical location (country and state or province only), without which the core objective of the survey cannot be achieved.    
+Who makes up the Write the Docs community? The questions in this section on respondent age, gender identity, education, experience, and location provide context for the salary/rate and satisfaction data. All questions in this section had an "I'd rather not say" option, with the exception of geographical location (country and state or province only), without which the core objective of the survey cannot be achieved.
 
 Age group
 ---------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -3708,7 +3708,7 @@ Age group
 
 The age group split in 2024 was similar to previous years, with the majority of respondents falling into the 26-35 and 36-45 age groups.
 
-.. table:: Respondent Age 
+.. table:: Respondent Age
    :widths: 70 15 15
    :name: tbl-2024-age-group
    :class: std3col sortable
@@ -3737,7 +3737,7 @@ The age group split in 2024 was similar to previous years, with the majority of 
    <figure>
       <object role="img" aria-label="Respondent age group" aria-describedby="figure_respondent-age-group_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
          <p id="figure_respondent-age-group_desc">Vertical bar chart showing age groupings of respondents. </p>
-      </object> 
+      </object>
       <figcaption>Figure: Respondent age group</figcaption>
    </figure>
 
@@ -3748,7 +3748,7 @@ Gender identity
 ---------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -3765,7 +3765,7 @@ Gender identity
 
    </details>
 
-As in previous surveys, the majority of respondents in 2024 were women - 57% - with men making up 37.2%. 3.9% of respondents were non-binary, transgender or other, and 1.7% chose to not provide an answer. 
+As in previous surveys, the majority of respondents in 2024 were women - 57% - with men making up 37.2%. 3.9% of respondents were non-binary, transgender or other, and 1.7% chose to not provide an answer.
 
 .. table:: Respondent gender identity
    :widths: 70 15 15
@@ -3790,7 +3790,7 @@ As in previous surveys, the majority of respondents in 2024 were women - 57% - w
    <figure>
       <object role="img" aria-label="Respondent gender identity" aria-describedby="figure_respondent-gender-identity_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
          <p id="figure_respondent-gender-identity_desc">Donut chart showing gender identity of respondents.</p>
-      </object> 
+      </object>
       <figcaption>Figure: Respondent gender identity</figcaption>
    </figure>
 
@@ -3801,7 +3801,7 @@ Experience
 ----------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -3860,7 +3860,7 @@ The experience level spread of respondents echoed previous years - most falling 
    <figure>
       <object role="img" aria-label="Respondent years of experience" aria-describedby="figure_respondent-years-experience_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
          <p id="figure_respondent-years-experience_desc">Vertical bar chart showing respondents' years of experience in documentation. </p>
-      </object> 
+      </object>
       <figcaption>Figure: Years of experience in documentation</figcaption>
    </figure>
 
@@ -3871,7 +3871,7 @@ Education level
 ---------------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -3892,7 +3892,7 @@ Education level
 
    </details>
 
-As in previous years, most respondents are university- or college-educated: 94.2% held at least one graduate qualification, and 39.9% also held one or more post-graduate qualifications. 
+As in previous years, most respondents are university- or college-educated: 94.2% held at least one graduate qualification, and 39.9% also held one or more post-graduate qualifications.
 
 .. table:: Highest education level completed
    :widths: 70 15 15
@@ -3925,7 +3925,7 @@ As in previous years, most respondents are university- or college-educated: 94.2
    <figure>
       <object role="img" aria-label="Respondent education level" aria-describedby="figure_respondent-education-level_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
          <p id="figure_respondent-education-level_desc">Vertical bar chart showing respondents' highest completed level of education. </p>
-      </object> 
+      </object>
       <figcaption>Figure: Education level</figcaption>
    </figure>
 
@@ -3936,18 +3936,18 @@ Location
 --------
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
 
    While most questions in this section are optional, general geographical location is not - this is because without it, we cannot calculate median salaries, which is one of the main objectives of the survey. For privacy reasons, finer-grained geographical location is optional.
-   
+
    |icon-question| Please enter your country, state or province, and town or city, or the nearest large city that you feel comfortable specifying. If the autofill does not include a state or province for your location, please enter N/A.
 
-   Country: 
-   State/Province/Region: 
-   City/Town (optional): 
+   Country:
+   State/Province/Region:
+   City/Town (optional):
 
 .. raw:: html
 
@@ -3955,14 +3955,14 @@ Location
 
 Around half of all respondents (55.3%) were based in North America, the bulk of those (80% of this region, or 44.3% overall) in the United States. In total, 55 countries were represented.
 
-Chile and Malta appeared in the results for the first time this year, with one respondent each. 
+Chile and Malta appeared in the results for the first time this year, with one respondent each.
 
 .. raw:: html
 
    <div class="tab-wrap"><input type="radio" id="tabH6-1" name="tabGroupH6" class="tab" checked><label for="tabH6-1">North America</label><input type="radio" id="tabH6-2" name="tabGroupH6" class="tab"><label for="tabH6-2">Europe</label><input type="radio" id="tabH6-3" name="tabGroupH6" class="tab"><label for="tabH6-3">Other Regions</label><div class="tab__content">
 
 .. table:: Respondent location - North America
-   :widths: 70 15 15                
+   :widths: 70 15 15
    :name: tbl-2024-respondent-location-north-america
    :class: std3col sortable
 
@@ -4219,10 +4219,10 @@ Cities with at least 10 respondents are shown.
 Survey feedback
 ===============
 
-Following on from last year, we again included some questions about the survey itself.  
+Following on from last year, we again included some questions about the survey itself.
 
 .. raw:: html
-   
+
    <details><summary>What we asked</summary>
 
 .. container:: question
@@ -4244,7 +4244,7 @@ Following on from last year, we again included some questions about the survey i
 
 Half of respondents were repeat participants, with 50.1% having taken part in a previous survey.
 
-Overall, most respondents were positive about the survey, with "Strongly agree" and "Agree" being the top options selected for each of the feedback rating scales. 2.7% felt that the length of the survey was not appropriate, and 0.6% felt the questions were not relevant. 3% expressed doubts about the usability of the survey form and website, undoubtedly caused by known issues with the performance and layout on mobile devices.  
+Overall, most respondents were positive about the survey, with "Strongly agree" and "Agree" being the top options selected for each of the feedback rating scales. 2.7% felt that the length of the survey was not appropriate, and 0.6% felt the questions were not relevant. 3% expressed doubts about the usability of the survey form and website, undoubtedly caused by known issues with the performance and layout on mobile devices.
 
 .. raw:: html
 
@@ -4327,7 +4327,7 @@ Overall, most respondents were positive about the survey, with "Strongly agree" 
    <nav role="navigation" class="mobile-nav hide">
       <label for="mobile-menu" tabindex="0"> <i class="fa-solid fa-bars"></i> </label>
          <input id="mobile-menu" type="checkbox" />
-         
+
 .. contents:: Table of Contents
    :depth: 2
    :backlinks: none
