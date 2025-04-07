@@ -115,5 +115,20 @@ document.getElementById("back-to-top").onclick = function() {
   return false;  // Prevent default action
 };    
 
+/* hamburger menu */
+var burgerMenu = document.getElementById('activator');
+var overlay = document.getElementById('mobile-nav');
+var tocLinks = document.getElementById('mobile-nav');
+burgerMenu.addEventListener('click',function(){
+  this.classList.toggle("close");
+  overlay.classList.toggle("overlay");
+});
+tocLinks.addEventListener('click',function(event){
+  if (event.target && event.target.tagName === "A") {
+    burgerMenu.classList.remove("close");
+    overlay.classList.remove("overlay");
+  }  
+}); 
+
 }); // DOMContentLoaded 
 

@@ -30,7 +30,6 @@
 
 .. raw:: html
 
-   <!-- TODO: table style/color scheme tweaks -->
    <nav role="navigation" aria-label="Table of contents" class="main-toc">
    <!-- TODO: toc expand on scroll -->
 
@@ -40,11 +39,26 @@
 
 .. raw:: html
 
-  </nav>
+   </nav>
    <div class="breadcrumbs"><a href="/">Home</a> &raquo; <a href="/surveys/">Salary Surveys</a> &raquo;</div>
   <main>
 
    <!-- TODO: add survey-only newsletter signup form -->
+
+.. raw:: html
+
+   <div id="mobile-nav-container">
+      <div id="activator"><span></span><span></span><span></span></div>
+      <nav role="navigation" id="mobile-nav" class="mobile-nav"><!-- TODO: style this more/better -->
+         
+.. contents:: Table of Contents
+   :depth: 2
+   :backlinks: none
+
+.. raw:: html
+
+      </nav>
+   </div>
 
 .. _top_2024:
 
@@ -4321,19 +4335,4 @@ Overall, most respondents were positive about the survey, with "Strongly agree" 
 
    <!-- CHART: survey feedback -->
 
-.. raw:: html
 
-   <!-- TODO: style this more/better -->
-   <nav role="navigation" class="mobile-nav hide">
-      <label for="mobile-menu" tabindex="0"> <i class="fa-solid fa-bars"></i> </label>
-         <input id="mobile-menu" type="checkbox" />
-
-.. contents:: Table of Contents
-   :depth: 2
-   :backlinks: none
-
-.. raw:: html
-
-      </div>
-
-   </nav>
