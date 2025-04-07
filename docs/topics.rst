@@ -236,6 +236,7 @@ Writing doc sets
 Information architecture
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `How to organize content in your documents </blog/newsletter-april-2025/#how-to-organize-content-in-your-documents>`__
 - |:newspaper:| `Where should support content live? </blog/newsletter-april-2022/#where-should-support-content-live>`__
 - |:movie_camera:| `More than words: Reviewing and updating your information architecture </videos/prague/2021/more-than-words-reviewing-and-updating-your-information-architecture-lana-brindley-she-her/>`__
 - |:newspaper:| `Organizing docs by role, or by topic? </blog/newsletter-october-2020/#organizing-docs-by-role-or-by-topic>`__
@@ -336,6 +337,7 @@ Related roles
 Career growth
 ~~~~~~~~~~~~~
 
+- |:newspaper:| `Leveling up as a solo documentarian </blog/newsletter-april-2025/#leveling-up-as-a-solo-documentarian>`__
 - |:newspaper:| `The highs and lows of writing alone </blog/newsletter-february-2025/#the-highs-and-lows-of-writing-alone>`__
 - |:newspaper:| `Dealing with Feeling Blocked by Bureaucracy </blog/newsletter-march-2024/#dealing-with-feeling-blocked-by-bureaucracy>`__
 - |:newspaper:| `How to describe career progression </blog/newsletter-may-2023/#how-to-describe-career-progression>`__
@@ -520,6 +522,7 @@ Doc tools
 Docs-as-code
 ~~~~~~~~~~~~
 
+- |:newspaper:| `Learn docs-as-code </blog/newsletter-april-2025/#learn-docs-as-code>`__
 - |:newspaper:| `Where to keep content for reuse in docs-as-code </blog/newsletter-march-2025/#where-to-keep-content-for-reuse-in-docs-as-code>`__
 - |:newspaper:| `Dealing with images and other assets in docs-as-code </blog/newsletter-november-2024/#dealing-with-images-and-other-assets-in-docs-as-code>`__
 - |:newspaper:| `Is Docs-as-Code Worth It? </blog/newsletter-may-2024/#is-docs-as-code-worth-it>`__
@@ -585,6 +588,7 @@ Git
 Search
 ~~~~~~~
 
+- |:newspaper:| `SEO for docs: How much and how? </blog/newsletter-april-2025/#seo-for-docs-how-much-and-how>`__
 - |:movie_camera:| `The Search for Search </videos/portland/2020/the-search-for-search-paul-logan/>`__
 - |:movie_camera:| `Making documentation discoverable in search engines </videos/prague/2020/making-documentation-discoverable-in-search-engines-myriam-jessier/>`__
 
