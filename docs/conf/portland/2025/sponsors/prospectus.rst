@@ -70,11 +70,19 @@ whether they're a freelancer, a student or out of work.
 Becoming a sponsor demonstrates your commitment to and support of good documentation,
 and the people who build it.
 
+
+No attendee information is shared with sponsors
+===============================================
+
+**We do not share any attendee information with sponsors.**
+As part of our sponsorships, we allow sponsors to send messages to attendees,
+but we do not share any personal information about attendees.
+
+
 Sponsorship Packages
 ====================
 
 All packages can be customized, so let us know what you need!
-
 
 Keystone
 --------
