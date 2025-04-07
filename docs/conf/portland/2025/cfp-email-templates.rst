@@ -228,9 +228,9 @@ Subject:
 
    Hi {name},
 
-   We're just over a month away from meeting up in {{city}}! I hope you're feeling relaxed and confident.
+   We're just under a month away from meeting up in {{city}}! I hope you're feeling relaxed and confident.
 
-   The conference schedule is [live](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/)! :-)
+   The [conference schedule](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/) is live! :-)
 
    I've got a couple more small logistical checkboxes for you:
 
@@ -238,7 +238,9 @@ Subject:
 
    ○ please make sure to log in to [Pretalx](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/) and fill out the questions on pronouns, name pronunciation and interests for our emcee intro. We also need your **hoodie size** for a free speaker hoodie!
 
-   We're finalizing details on the tech check and Q&A over the next weeks, and we'll be in touch in a couple of weeks for a copy of your slides for our captioners!
+   Take a look at our *freshly updated* [speaker info page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-info/) which has everything you need to know about speaking at Write the Docs! Missing something? Let us know!
+
+   We'll be in touch in a couple of weeks for a copy of your slides for our captioners!
 
    In the meantime, if you have any questions at all about the event, you definitely know how to reach me by now.
 
