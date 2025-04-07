@@ -118,12 +118,8 @@ document.getElementById("back-to-top").onclick = function() {
 /* hamburger menu */
 var burgerMenu = document.getElementById('activator');
 var overlay = document.getElementById('mobile-nav');
-var tocLinks = document.getElementById('mobile-nav');
+var tocLinks = document.getElementsByClassName('mobile-nav');
 burgerMenu.addEventListener('click',function(){
-  this.classList.toggle("close");
-  overlay.classList.toggle("overlay");
-});
-burgerMenu.addEventListener('touchstart', function() {
   this.classList.toggle("close");
   overlay.classList.toggle("overlay");
 });
