@@ -600,30 +600,33 @@ main {
 				}
 				strong { font-weight: var(--font-weight-5); }
 			}
-			tr {
+			tr:nth-child(even) { /* striping */
+				td { 
+					background: var(--surface-1); 
+				} 
 				&:hover td { background: var(--surface-highlight); }
 			}
-			tr:nth-child(even) { /* striping */
-				td { background: var(--surface-1); } 
-			}
 			tr:nth-child(odd) { /* striping */
-				td { background: var(--surface-0); }
+				td { 
+					background: var(--surface-0); 
+				}
+				&:hover td { background: var(--surface-highlight); }
 			}
 		}
 		&.std3col {
 			thead {
 				tr {
 					th {
-						&&:nth-of-type(2) { text-align: center; }
-						&&:nth-of-type(3) { text-align: right; }
+						&:nth-of-type(2) { text-align: center; }
+						&:nth-of-type(3) { text-align: right; }
 					}
 				}
 			}
 			tbody {
 				tr {
 					td { 
-						&&:nth-of-type(2) { text-align: center; }
-						&&:nth-of-type(3) { text-align: right; }
+						&:nth-of-type(2) { text-align: center; }
+						&:nth-of-type(3) { text-align: right; }
 					}
 				}
 			}
@@ -664,6 +667,9 @@ main {
 		}
 	} /* end table */
 } /* end main */
+
+	
+
 
 /* custom footnotes */
 table:has(+ div.tbl-footnote) {
@@ -882,7 +888,7 @@ dl.footnote.brackets {
 
 /* table sorting exceptions */
 
-/* standard 3 column table: third column (%) not sortable */
+/* standard 3 column table: third column (%) not sortable 
 .std3col.sortable {     
   th:nth-of-type(3) { pointer-events: none; }  
-}
+} */

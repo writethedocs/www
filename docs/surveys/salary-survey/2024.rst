@@ -380,7 +380,7 @@ Role category
 Primary role category
 ~~~~~~~~~~~~~~~~~~~~~
 
-Technical writer was by far the most widely-selected primary role category, chosen by 83.7% of respondents. Editor, DocOps and project/product manager counted for around 2% each. 
+"Technical writer" was by far the most widely-selected primary role category, chosen by 83.7% of respondents. "Editor", "DocOps" and "project/product manager" counted for around 2% each. 
 
 7 respondents selected "other" and provided more detail: most were all-rounders who performed a combination of roles, although "content strategist", "communications writer" and "rebranding tech" were also mentioned.
 
@@ -805,7 +805,7 @@ Salary or contract earnings changes
 
    |icon-info| In the 2022 survey results, we saw more employee respondents in new positions - jobs that they'd held for less than one year - than in any previous survey. To better explore how the job market shake-up of the past few years is affecting our community - both employees and contractors - we added this new section for job changes in 2023.
 
-   After community input in 2024, we changed the format of the question to ask about salary or earnings changes directly, rather than asking about changes in employment or contract status.
+   After community input in 2024, we changed the format of the question to ask about salary or earnings changes directly, rather than asking about changes in employment or contract status. We also added a question about whether respondents had attempted to negotiate a salary increase in the past year, regardless of the outcome.
 
 .. raw:: html
 
