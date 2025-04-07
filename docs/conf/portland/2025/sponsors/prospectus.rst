@@ -16,7 +16,9 @@ We're excited to work with the organizations in our community to build the best 
 Created in 2013 in Portland, Oregon, WTD has hosted conferences around the world in Prague, Berlin, Sydney, London, and Melbourne.
 We’re excited to celebrate year 12 with your support!
 
-You can also view the `sponsorship prospectus deck as a PDF <https://drive.google.com/file/d/1CCs5nSG6HTUsYNy8tV9UqjW0yXq8PsQC/view?usp=sharing>`_.
+If you're a prospective sponsor, you can view our `PDF sponsorship prospectus <https://drive.google.com/file/d/1CCs5nSG6HTUsYNy8tV9UqjW0yXq8PsQC/view?usp=sharing>`_ if you prefer that format.
+
+If you're an existing sponsor looking for next steps, check out our `Sponsorship Information page <{{site}}/conf/{{shortcode}}/{{year}}/sponsors/information>`_.
 
 Concept
 =======
@@ -68,11 +70,19 @@ whether they're a freelancer, a student or out of work.
 Becoming a sponsor demonstrates your commitment to and support of good documentation,
 and the people who build it.
 
+
+No attendee information is shared with sponsors
+===============================================
+
+**We do not share any attendee information with sponsors.**
+As part of our sponsorships, we allow sponsors to send messages to attendees,
+but we do not share any personal information about attendees.
+
+
 Sponsorship Packages
 ====================
 
 All packages can be customized, so let us know what you need!
-
 
 Keystone
 --------

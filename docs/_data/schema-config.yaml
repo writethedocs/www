@@ -92,6 +92,8 @@ ticket-details:
   corporate: include('price-type')
   independent: include('price-type')
   student: include('price-type')
+  virtual: include('price-type', required=False)
+  button: str(required=False)
 
 price-type:
   price: str()
@@ -161,6 +163,7 @@ sponsor-detail:
 about-details:
   summary: str(required=False)
   venue: str(required=False)
+  venue_address: str(required=False)
   attendees: any(int(), str())
   mainroom: str(required=False)
   unconfroom: str(required=False)
@@ -177,6 +180,7 @@ cfp-details:
   video_by: str(required=False)
   slides_by: str(required=False)
   info_by: str(required=False)
+  speaker_tickets_by: str(required=False)
   gifts_by: str(required=False)
   preview: str(required=False)
 

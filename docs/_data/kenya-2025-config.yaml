@@ -92,9 +92,9 @@ about:
 
 cfp:
   url: "https://sessionize.com/wtdkenya-conf/"
-  ends: "April 30, 2025"
-  notification: "May 15, 2025"
-  slides_by: "May 31, 2025"
+  ends: "March 31st, 2025"
+  notification: "April 15, 2025"
+  slides_by: "Not applicable"
   preview: "TODO"
 
 unconf:
@@ -115,8 +115,8 @@ sponsors:
 
 flaglanding: True
 flaghassponsors: False
-flagcfp: True
-flagticketsonsale: True
+flagcfp: False
+flagticketsonsale: False
 flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False
