@@ -49,7 +49,7 @@
 
    <div id="mobile-nav-container">
       <div id="activator"><span></span><span></span><span></span></div>
-      <nav role="navigation" id="mobile-nav" class="mobile-nav"><!-- TODO: style this more/better -->
+      <nav role="navigation" id="mobile-nav" class="mobile-nav">
          
 .. contents:: Table of Contents
    :depth: 2
