@@ -118,7 +118,7 @@ Without further ado, let's look at the findings!
 
    .. rubric:: |icon-info| Contractors, freelancers and self-employed
 
-   In this year’s survey, we asked those who filled out the survey as independent contractors, freelancers or self-employed people what term they used to describe their type of employment. More than half (63.8%) preferred the term “contractor”, with only 18.1% using “freelancer” and 10.6% using “self-employed”. In this report, we’ll use the term “contractors” to refer to this entire group.
+   We asked those who filled out the survey as independent contractors, freelancers or self-employed people what term they used to describe their type of employment. More than half (63.8%) preferred the term “contractor”, with only 18.1% using “freelancer” and 10.6% using “self-employed”. In this report, we’ll use the term “contractors” to refer to this entire group.
 
 Feedback
 --------
@@ -142,6 +142,12 @@ Employment parameters
 
 This section establishes the parameters of the respondent's employment: the type of employment, number of hours worked, job title and type of role, length of time in current position, and how focused the role is on documentation.
 
+.. contents:: In this section
+   :local: 
+   :depth: 1
+   :backlinks: none
+   :class: note
+
 Basis of employment
 -------------------
 
@@ -151,18 +157,18 @@ Basis of employment
 
 .. container:: question
 
-   |icon-question| In the past year, I have worked as:
+   |icon-question| **In the past year, I have worked as:**
 
    - an employee
    - a contractor
    - both employee and contractor
 
-   |icon-question| As an employee, currently:
+   |icon-question| **As an employee, currently:**
 
    - I'm employed
    - I'm not employed
 
-   |icon-question| As a contractor, currently:
+   |icon-question| **As a contractor, currently:**
 
    - I have work
    - I don't have work
@@ -200,7 +206,7 @@ For the first time this year, we included a third option - for respondents who h
 
 As in previous years, we encouraged those currently not working to respond as though still at their previous job/contract, provided they had worked at least some of the past year. 16 employees (2.3%) and 7 contractors (10.6%) filled out the survey on this basis.
 
-Of the 28 respondents who had worked as both employee and contractor in the past year, 15 were currently working in both capacities. 9 were currently working as employee but not contractor, 2 were currently working as contractor but not as employee, and another 2 were not currently working in either capacity.
+Of the 28 respondents who had worked as both employee and contractor in the past year, 15 were currently working in both capacities. The others were currently working as one or the other only, or not working at all (2 respondents).
 
 Hours worked
 ------------
@@ -211,7 +217,7 @@ Hours worked
 
 .. container:: question
 
-   |icon-question| How many hours per week do you work?
+   |icon-question| **How many hours per week do you work?**
 
    - 1–20 hours
    - 21–30 hours
@@ -265,7 +271,7 @@ Job title
 
 .. container:: question
 
-   |icon-question| What is your job title?
+   |icon-question| **What is your job title?**
 
 .. raw:: html
 
@@ -273,7 +279,7 @@ Job title
 
 With typos fixed, abbreviations expanded, "stop words" removed and keyword faceting applied, 217 unique job titles could be discerned. One respondent indicated that they did not have a job title.
 
-As in previous years, the most widely used exact title was "Technical Writer", reported by 26.8% of respondents. This exact phrase appeared in 6 of the top 10 job titles, in 51 of the 217 unique job titles, and in 65.2% of all job titles.
+As in previous years, the most widely used exact title was "Technical Writer", reported by 26.8% of respondents. This term appeared in 6 of the top 10 job titles, in 51 of the 217 unique job titles, and in 65.2% of all job titles.
 
 .. raw:: html
 
@@ -366,9 +372,7 @@ Role category
 
 .. container:: question
 
-   |icon-question| How would you categorize your primary role?
-
-   Please select one category - you will be able to select additional categories in the next question.
+   |icon-question| **How would you categorize your primary role?** Please select one category - you will be able to select additional categories in the next question.
 
    - Technical writer
    - UX writer
@@ -386,9 +390,7 @@ Role category
    - DocOps (infrastructure, tools etc)
    - Other (please specify)
 
-   What additional roles do you also perform?
-
-   Select multiple if appropriate, or select "None".
+   **What additional roles do you also perform?** Select multiple if appropriate, or select "None".
 
    - Technical writer
    - UX writer
@@ -583,9 +585,7 @@ Team configuration
 
 .. container:: question
 
-   |icon-question| When working with other people, what is your typical role?
-
-   Select multiple options, if appropriate.
+   |icon-question| **When working with other people, what is your typical role?** Select multiple options, if appropriate.
 
    - A solo worker
    - Part of a team of people with the same or similar roles
@@ -630,13 +630,9 @@ Length of time in current role
 
 .. container:: question
 
-   |icon-question| **Employees:**
+   |icon-question| **EMPLOYEES**:
 
-   How long have you worked at your current organization, in your current role?
-
-   Please select the length of time for your current position at your current organization only - your total years of experience in documentation will be covered in the individual demographics section.
-
-   If you have changed roles at the same organization, please select the length of time that you have been in your current role.
+   **How long have you worked at your current organization, in your current role?** Please select the length of time for your current position at your current organization only - your total years of experience in documentation will be covered in the individual demographics section. If you have changed roles at the same organization, please select the length of time that you have been in your current role.
 
    - Less than 1 year
    - 1 year or more but less than 2 years
@@ -644,11 +640,9 @@ Length of time in current role
    - 5 years or more but less than 10 years
    - 10 years or more (please specify)
 
-   **Contractors:**
+   **CONTRACTORS**:
 
-   How long have you worked as a contractor or freelancer, or been self-employed?
-
-   This is how long you have been a contractor or freelancer only - your total years of experience in documentation will be covered later on.
+   **How long have you worked as a contractor or freelancer, or been self-employed?** This is how long you have been a contractor or freelancer only - your total years of experience in documentation will be covered later on.
 
    - Less than 1 year
    - 1 year or more but less than 2 years
@@ -730,14 +724,14 @@ Proportion of role related to documentation
 
 .. container:: question
 
-   |icon-question| Documentation is:
+   |icon-question| **Documentation is:**
 
    - the whole of my official job description
    - part of my official job description
    - not officially part of my job description, but I am expected to perform documentation-related tasks
    - not officially part of my job description, and I am not expected to perform documentation-related tasks, but I do anyway
 
-   Approximately what percentage of your day-to-day tasks are documentation-related?
+   **Approximately what percentage of your day-to-day tasks are documentation-related?**
 
    - 0-25%
    - 26-50%
@@ -818,6 +812,12 @@ Job changes
 
 This section explores the changes in employment experienced by respondents in the past year: losing or gaining employment, changes in salary or contract earnings, and how they feel about the job market.
 
+.. contents:: In this section
+   :local: 
+   :depth: 1
+   :backlinks: none
+   :class: note
+
 Salary or contract earnings changes
 -----------------------------------
 
@@ -829,19 +829,17 @@ Salary or contract earnings changes
 
    |icon-question|
 
-   Employees:
+   **EMPLOYEES:**
 
-   Has your salary changed in the past year? Please do not take outside factors such as inflation, cost of living or currency conversion rates into account - just the actual amount of compensation you receive.
+   **Has your salary changed in the past year?** Please do not take outside factors such as inflation, cost of living or currency conversion rates into account - just the actual amount of compensation you receive.
 
    - Yes - my salary increased
    - Yes - my salary decreased
    - No - my salary stayed the same
 
-   Contractors:
+   **CONTRACTORS:**
 
-   Have your total contract or freelance earnings changed in the past year?
-
-   Please do not take outside factors such as inflation, cost of living or currency conversion rates into account - just the total amount of money you received from work you have done in the past year.
+   **Have your total contract or freelance earnings changed in the past year?** Please do not take outside factors such as inflation, cost of living or currency conversion rates into account - just the total amount of money you received from work you have done in the past year.
 
    - Yes - my earnings increased
    - Yes - my earnings decreased
@@ -923,7 +921,7 @@ Reasons for salary increase or decrease
 
    |icon-question|
 
-   Why did your salary increase? Select multiple, if appropriate.
+   **Why did your salary increase?** Select multiple, if appropriate.
 
    - I received or negotiated a raise
    - I was promoted within the same organization
@@ -933,7 +931,7 @@ Reasons for salary increase or decrease
 
    OR
 
-   Why did your salary decrease? Select multiple, if appropriate.
+   **Why did your salary decrease?** Select multiple, if appropriate.
 
    - Organizational salary cuts
    - I was made redundant, downsized or laid off due to restructuring/bankruptcy/closure
@@ -943,7 +941,7 @@ Reasons for salary increase or decrease
    - I started a new position in a new organization at a lower salary
    - Other (please specify)
 
-   Regardless of outcome, did you attempt to negotiate a salary increase in the past year? This could be through formal or informal procedures.
+   **Regardless of outcome, did you attempt to negotiate a salary increase in the past year?** This could be through formal or informal procedures.
 
    - yes
    - no
@@ -1042,7 +1040,7 @@ Reasons for contract earnings increase or decrease
 
    |icon-question|
 
-   Why did your contract or freelance earnings increase? Select multiple, if appropriate.
+   **Why did your contract or freelance earnings increase?** Select multiple, if appropriate.
 
    - I started a new contract or freelance project (or multiple projects)
    - I raised my rate
@@ -1051,7 +1049,7 @@ Reasons for contract earnings increase or decrease
 
    OR
 
-   Why did your contract or freelance earnings decrease? Select multiple, if appropriate.
+   **Why did your contract or freelance earnings decrease?** Select multiple, if appropriate.
 
    - A contract or freelance project ended prematurely
    - A contract or freelance project ended as expected
@@ -1062,7 +1060,7 @@ Reasons for contract earnings increase or decrease
    - I worked fewer hours
    - Other (please specify)
 
-   Regardless of outcome, did you attempt to negotiate a contract or freelance rate increase in the past year?
+   **Regardless of outcome, did you attempt to negotiate a contract or freelance rate increase in the past year?**
 
    - yes
    - no
@@ -1166,7 +1164,7 @@ Job or contract search status
 
    |icon-question| Employees:
 
-   What is your current job search status?
+   **What is your current job search status?**
 
    - I'm not looking for a new position, and am not open to employment offers
    - I'm not looking for a new position, but am open to employment offers
@@ -1176,7 +1174,7 @@ Job or contract search status
 
    Contractors:
 
-   What is your current contract/freelance search status?
+   **What is your current contract/freelance search status?**
 
    - I'm not looking for new contracts or freelance projects, and am not open to offers
    - I'm not looking for new contracts or freelance projects, but am open to offers
@@ -1265,7 +1263,7 @@ Job security and stability
 
    Employees who are currently working:
 
-   How would you characterize your current feelings of job security and stability compared to this time last year?
+   **How would you characterize your current feelings of job security and stability compared to this time last year?**
 
    - More confident
    - Around the same
@@ -1273,7 +1271,7 @@ Job security and stability
 
    Contractors who are currently working:
 
-   How would you characterize your current feelings of contract/freelance income security and stability compared to this time last year?
+   **How would you characterize your current feelings of contract/freelance income security and stability compared to this time last year?**
 
    - More confident
    - Around the same
@@ -1346,7 +1344,7 @@ Job search confidence
 
    Employees who are currently not working, or who indicated that they were actively looking for a new position:
 
-   How would you characterize your confidence in your ability to secure a new position with terms favorable to you?
+   **How would you characterize your confidence in your ability to secure a new position with terms favorable to you?**
 
    - Very confident
    - Confident
@@ -1356,7 +1354,7 @@ Job search confidence
 
    Contractors who are currently not working, or who indicated that they were actively looking for new contracts or freelance projects:
 
-   How would you characterize your confidence in your ability to secure a new contract or freelance project/client with terms favorable to you?
+   **How would you characterize your confidence in your ability to secure a new contract or freelance project/client with terms favorable to you?**
 
    - Very confident
    - Confident
@@ -1433,6 +1431,11 @@ Workplace
 
 The questions in this section relate to respondents' workplace: whether they work from home, from an office, or a combination, and how they feel about that. We were also interested in how the much-discussed "return to the office" (RTO) mandates have affected our community.
 
+.. contents:: In this section
+   :local: 
+   :depth: 1
+   :backlinks: none
+
 .. container:: note
 
    .. rubric:: |icon-info| Note on use of the term "remote"
@@ -1448,7 +1451,7 @@ Work location
 
 .. container:: question
 
-   |icon-question| What is your current work location?
+   |icon-question| **What is your current work location?**
 
    - I am required to be on-site full time
    - I am on-site full time, but it is not required
@@ -1456,7 +1459,7 @@ Work location
    - I am fully remote, but it is by choice (i.e. an office location is available to me)
    - I am fully remote, and it is required (i.e. no office location is available to me)
 
-   How do you feel about your work location?
+   **How do you feel about your work location?**
 
    - Very negative
    - Negative
@@ -1545,7 +1548,7 @@ The majority of respondents (82.6% overall) reported feeling "positive" about th
 
 .. container:: question
 
-   |icon-question|  In the past year, has your organization (or for contractors, any organization that you work for) implemented an RTO (return to office) policy - requesting or requiring that remote or "work from home" employees/contractors return to working on-site?
+   |icon-question|  **In the past year, has your organization (or for contractors, any organization that you work for) implemented an RTO (return to office) policy - requesting or requiring that remote or "work from home" employees/contractors return to working on-site?**
 
    - Yes, it's required all of the time
    - Yes, it's required but only part of the time (hybrid work is ok)
@@ -1557,7 +1560,7 @@ The majority of respondents (82.6% overall) reported feeling "positive" about th
    - No, my position was always on-site only
    - I don't know, or it doesn't apply to the kind of work I do
 
-   How do you feel about your organization's "return to office" policy?
+   **How do you feel about your organization's "return to office" policy?**
 
    - Very negative
    - Negative
@@ -1688,7 +1691,7 @@ Preferred work location
 
 .. container:: question
 
-   |icon-question| Regardless of the policy at your current organization or your current situation, what is your preferred work location?
+   |icon-question| **Regardless of the policy at your current organization or your current situation, what is your preferred work location?**
 
    - I prefer to work on-site on a full-time basis
    - I prefer to work remotely/from home on a full-time basis
@@ -1729,6 +1732,14 @@ This section covers employee salaries, associated benefits of different types, l
 
 To protect the privacy of our community, we do not publish median salary figures for any region or category with less than 10 respondents. In regions or categories that meet the minimum threshold of 30 respondents, we're also providing the |25th| percentile (the value below which 25% of the data falls) and |75th| percentile (the value below which 75% of the data falls).
 
+.. contents:: In this section
+   :local: 
+   :depth: 1
+   :backlinks: none
+
+Salary
+------
+
 .. raw:: html
 
    <details><summary>What we asked</summary>
@@ -1737,18 +1748,20 @@ To protect the privacy of our community, we do not publish median salary figures
 
    |icon-question|
 
-   Please enter your salary before taxes are taken out, and indicate whether this is a monthly or yearly amount (in some countries it is customary to talk about monthly salary, while in others yearly figures are more common). Monthly figures will be multiplied by 12 for comparison with yearly figures.
+   **Please enter your salary before taxes are taken out, and indicate whether this is a monthly or yearly amount** (in some countries it is customary to talk about monthly salary, while in others yearly figures are more common). Monthly figures will be multiplied by 12 for comparison with yearly figures.
 
    If your total compensation is made up of a base salary and significant bonus, equity or commission payments, please enter your total compensation (or an average, if it fluctuates).
 
-   [ currency ] [ salary amount ] [ monthly/yearly ]
+   - currency
+   - salary
+   - monthly/yearly
 
 .. raw:: html
 
    </details>
 
 Currency
---------
+~~~~~~~~
 
 Employee respondents reported being paid in 33 different currencies. To make comparisons possible, all currencies were converted to USD using mid-market exchange rates, averaged for the whole of 2024.
 
@@ -1830,19 +1843,12 @@ Employee respondents reported being paid in 33 different currencies. To make com
 Median salary
 -------------
 
-.. raw:: html
-
-   <details><summary>What we asked</summary>
-
-.. container:: question
-
-   |icon-question| What is your total (gross) salary (including tax)? Note: If your total compensation is made up of a base salary and significant bonus, equity or commission payments, please enter your total compensation here (or an average, if it fluctuates).
-
-.. raw:: html
-
-   </details>
-
 As in previous years, salaries for those working part-time hours (less than 30 per week) have been omitted from the figures in this section. The median salaries are based on 689 full-time employee respondents.
+
+.. contents:: In this section
+   :local: 
+   :depth: 1
+   :backlinks: none
 
 .. container:: note
 
@@ -1865,7 +1871,7 @@ Given the range of socio-economic differences in the countries in the survey res
 
    .. rubric:: |icon-info| Privacy and salary information
 
-   In order to protect the privacy of respondents, median salaries are not shown for any country or region with less than 10 respondents. Countries with respondents in 2024 that are excluded by this condition are:
+   The following countries - all of which had fewer than 10 respondents in 2024 - are excluded from the median salaries breakdown for privary reasons: 
 
    - North America: Puerto Rico, Mexico
    - Europe: Austria, Bulgaria, Croatia, Czechia, Denmark, Estonia, Finland, Georgia, Greece, Hungary, Ireland, Italy, Lithuania, Malta, Netherlands, Norway, Poland, Portugal, Romania, Russia, Serbia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine
@@ -1910,9 +1916,6 @@ Given the range of socio-economic differences in the countries in the survey res
    +-------------------------+-------------+--------------+--------------+
    | - Israel (24)           | --          |      $94,064 | --           |
    +-------------------------+-------------+--------------+--------------+
-
-Median salary by respondent region - further breakdowns
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Respondent numbers allow some additional breakdowns by US state, Candian province and Australian state, as well as a handful of major cities.
 
@@ -2009,7 +2012,7 @@ Median salary by gender identity
 
 In order to have large enough numbers for statistical significance, we only break down salary by gender identity for women (57% of all respondents) and men (37.2% of all respondents), and only in regions where there are at least 30 respondents of each gender.
 
-This year, that means that we are able to show breakdowns for Worldwide, North America and Europe. Men earned more than women in all regions, but the difference was largest in Europe (where mean earned 19.6% more than women).
+This year, that means that we are able to show breakdowns for Worldwide, North America and Europe. Men earned more than women in all regions, but the difference was largest in Europe (where men earned 19.6% more than women).
 
 .. raw:: html
 
@@ -2232,7 +2235,7 @@ Employee benefits
 
 .. container:: question
 
-   |icon-question| Does your salary package include any of the following statutory benefits?
+   |icon-question| **Does your salary package include any of the following statutory benefits?**
 
    Labor laws in some countries mandate that employees receive some or all of the following benefits as part of their employment (in some cases depending on the size or type of employer).
 
@@ -2245,11 +2248,9 @@ Employee benefits
    - Pension / superannuation / retirement
    - None of the above
 
-   Does your salary package include any of the following statutory benefits, in excess of the required minimums?
+   **Does your salary package include any of the following statutory benefits, in excess of the required minimums?**
 
-   Please indicate if you receive any of the following benefits, in excess of any government-mandated minimums that may apply, as part of your salary package.
-
-   Check all that apply, or select "none of the above".
+   Please indicate if you receive any of the following benefits, in excess of any government-mandated minimums that may apply, as part of your salary package. Check all that apply, or select "none of the above".
 
    For example, in Germany, employees are legally entitled to 20 days of paid vacation per year. An employee living in Germany who has a paid vacation allowance of 30 days would therefore select "paid vacation" for this question, as they receive more than the government mandated minimum.
 
@@ -2261,9 +2262,7 @@ Employee benefits
    - I'm not sure
    - None of the above
 
-   Does your salary package include any of the following non-statutory benefits?
-
-   Check all that apply, or select "none of the above".
+   **Does your salary package include any of the following non-statutory benefits?** Check all that apply, or select "none of the above".
 
    - Time off or bonuses for community-related activities
    - 401(k) matching or equivalent (additional pension contributions)
@@ -2407,7 +2406,7 @@ Employee satisfaction
 
 .. container:: question
 
-   |icon-question| Considering only your salary and benefits, rate your level of satisfaction:
+   |icon-question| **Considering only your salary and benefits, rate your level of satisfaction:**
 
    - Very unsatisfied
    - Unsatisfied
@@ -2415,7 +2414,7 @@ Employee satisfaction
    - Satisfied
    - Very satisfied
 
-   Considering your overall employment conditions - separate from your salary and benefits - rate your level of satisfaction:
+   **Considering your overall employment conditions - separate from your salary and benefits - rate your level of satisfaction:**
 
    - Very unsatisfied
    - Unsatisfied
@@ -2490,13 +2489,13 @@ Factors affecting salary satisfaction
 
 .. container:: question
 
-   |icon-question| How strongly do you agree with the following statements about your salary and benefits?
+   |icon-question| **How strongly do you agree with the following statements about your salary and benefits?**
 
    - I'm paid fairly
    - My salary keeps up with inflation / cost-of-living
    - My benefits are sufficient
 
-   How strongly do you agree with the following statements about your job?
+   **How strongly do you agree with the following statements about your job?**
 
    - My hours are reasonable
    - I have flexibility in my hours
@@ -2507,14 +2506,14 @@ Factors affecting salary satisfaction
    - My work is sufficiently interesting/challenging
    - I'm satisfied with the systems and toolsets I use
 
-   How strongly do you agree with the following statements about your workplace (remote, on-site or hybrid environment)?
+   **How strongly do you agree with the following statements about your workplace (remote, on-site or hybrid environment)?**
 
    - I have flexibility in my work location
    - Our remote work systems, tools and practices function well
    - Our on-site work systems, tools and practices function well
    - Our hybrid work systems, tools and practices function well
 
-   How strongly do you agree with the following statements about your team and organization?
+   **How strongly do you agree with the following statements about your team and organization?**
 
    - To my knowledge, salaries are consistent across similar roles
    - To my knowledge, all genders are paid equally
@@ -2661,7 +2660,14 @@ Contract rates and satisfaction
 
 This section contains questions about the different types of contract work, rates, and feelings of satisfaction with contract work and contract earnings, as well as confidence in the current prospects for new contract work. 
 
-To protect the privacy of our community, we do not publish median salary figures for any region or category with less than 10 respondents. In regions or categories that meet the minimum threshold of 30 respondents, we're also providing the |25th| percentile (the value below which 25% of the data falls) and |75th| percentile (the value below which 75% of the data falls). While the 2024 survey results include more contractor data than in any previous year (94 responses) this number is too low, and the respondents too geographically diverse, to determine median rates except for the very largest regions (the United States and Europe).
+To protect the privacy of our community, we do not publish median salary figures for any region or category with less than 10 respondents. In regions or categories that meet the minimum threshold of 30 respondents, we're also providing the |25th| percentile (the value below which 25% of the data falls) and |75th| percentile (the value below which 75% of the data falls). 
+
+While the 2024 survey results include more contractor data than in any previous year (94 responses) this number is too low, and the respondents too geographically diverse, to determine median rates except for the very largest regions (the United States and Europe).
+
+.. contents:: In this section
+   :local: 
+   :depth: 2
+   :backlinks: none
 
 Preferred term
 --------------
@@ -2672,7 +2678,7 @@ Preferred term
 
 .. container:: question
 
-   |icon-question| What's your preferred term to describe the kind of work you do?
+   |icon-question| **What's your preferred term to describe the kind of work you do?**
 
    - I consider myself a contractor
    - I consider myself a freelancer
@@ -2724,7 +2730,7 @@ Type of contract work
 
 .. container:: question
 
-   |icon-question| What kind of contract, freelance or self-employed work do you typically engage in? Check all that apply.
+   |icon-question| **What kind of contract, freelance or self-employed work do you typically engage in?** Check all that apply.
 
    - I work for multiple clients at the same time
    - I work for one client at a time
@@ -2742,7 +2748,7 @@ Type of contract work
 
    </details>
 
-To illustrate how varied contractor working situations are, out of the 94 total contractor respondents, there were 59 different combinations of client type, contract or project type, and product or service offering.
+Illustrating how varied contractor working situations are, out of the 94 total contractor respondents, there were 59 different combinations of client type, contract or project type, and product or service offering.
 
 53.2% of contractor respondents indicated that they worked exclusively for a single client at a time. Another 27.7% indicated that they worked exclusively for multiple clients at a time. 5.3% worked at times for either a single client or multiple clients, and 13.8% did not indicate whether they worked for a single client or multiple.
 
@@ -2834,9 +2840,20 @@ Contract rates
 
    Don't include any VAT, GST or sales tax. If you normally charge different rates, enter your most common rate, or an average if you feel that is more representative.
 
-   - My hourly rate is: [currency] [rate]
-   - My day rate is: [currency] [rate]
-   - My monthly rate is: [currency] [rate]
+   **My hourly rate is:** 
+   
+   - currency
+   - rate
+   
+   **My day rate is:**
+   
+   - currency
+   - rate
+   
+   **My monthly rate is:**
+   
+   - currency
+   - rate
 
 .. raw:: html
 
@@ -2936,7 +2953,7 @@ Contractor satisfaction
 
 .. container:: question
 
-   |icon-question| Considering only your contract or freelance earnings, rate your level of satisfaction:
+   |icon-question| **Considering only your contract or freelance earnings, rate your level of satisfaction:**
 
    - Very unsatisfied
    - Unsatisfied
@@ -2944,7 +2961,7 @@ Contractor satisfaction
    - Satisfied
    - Very satisfied
 
-   Considering your overall job situation - separate from your earnings - rate your level of satisfaction:
+   **Considering your overall job situation - separate from your earnings - rate your level of satisfaction:**
 
    - Very unsatisfied
    - Unsatisfied
@@ -3017,13 +3034,13 @@ Factors affecting contractor satisfaction
 
 .. container:: question
 
-   |icon-question| How strongly do you agree with the following statements about your contract or freelance earnings?
+   |icon-question| **How strongly do you agree with the following statements about your contract or freelance earnings?**
 
    - My rates keep pace with inflation / cost-of-living
    - My rates match the expectations of my clients
    - I am comfortable managing the overhead (accounting, insurance, etc.) associated with contracting/freelancing
 
-   How strongly do you agree with the following statements about your contracts or projects?
+   **How strongly do you agree with the following statements about your contracts or projects?**
 
    - My hours are reasonable
    - I have flexibility in my hours
@@ -3034,14 +3051,14 @@ Factors affecting contractor satisfaction
    - My work is sufficiently interesting/challenging
    - I'm satisfied with the systems and toolsets I use
 
-   How strongly do you agree with the following statements about your workplace(s) (remote, on-site or hybrid environment)?
+   **How strongly do you agree with the following statements about your workplace(s) (remote, on-site or hybrid environment)?**
 
    - I have flexibility in my work location
    - Our remote work environment functions well
    - Our on-site work environment functions well
    - Our hybrid work environment functions well
 
-   How strongly do you agree with the following statements about the people and organizations that you work with?
+   **How strongly do you agree with the following statements about the people and organizations that you work with?**
 
    - To my knowledge, rates are consistent across similar roles
    - To my knowledge, all genders are paid equally
@@ -3175,6 +3192,11 @@ Organization demographics
 
 This section concerns employing organizations. Contractors were given the option of answering about the main organization they work for, or skipping this section if it was not relevant. Only 6 contractors chose not to answer.
 
+.. contents:: In this section
+   :local: 
+   :depth: 1
+   :backlinks: none
+
 Organization size
 -----------------
 
@@ -3184,7 +3206,7 @@ Organization size
 
 .. container:: question
 
-   |icon-question| What is the approximate size of your organization, in number of employees?
+   |icon-question| **What is the approximate size of your organization, in number of employees?**
 
    - Less than 10
    - 11 - 50
@@ -3232,12 +3254,12 @@ Organization type and industry
 
 .. container:: question
 
-   |icon-question| This organization is primarily:
+   |icon-question| **This organization is primarily:**
 
    - A non-profit, community, political, educational or governmental organization, or an NGO
    - A business, corporation or other for-profit organization
 
-   Which industry (or industries) does your organization operate in? Select one or multiple, as appropriate.
+   **Which industry (or industries) does your organization operate in?** Select one or multiple, as appropriate.
 
    - Advertising, CRM, Marketing, Sales, Customer Service, Customer Support
    - Agriculture
@@ -3365,9 +3387,7 @@ Pay transparency
 
 .. container:: question
 
-   |icon-question| Is there an official pay transparency policy at your organization?
-
-   Organizations with pay transparency are open about salaries and benefits for existing and prospective employees.
+   |icon-question| **Is there an official pay transparency policy at your organization?**  Organizations with pay transparency are open about salaries and benefits for existing and prospective employees.
 
    - Yes - compensation is disclosed for all roles, levels, and job listings to all employees and candidates
    - Yes - but disclosure is limited to certain roles, levels, candidacy or employment status, or location
@@ -3375,20 +3395,20 @@ Pay transparency
    - No - there is no policy on compensation disclosure
    - I am not sure
 
-   Is pay transparency required by law in the location where your organization operates? `Check in this Wikipedia article <https://en.wikipedia.org/wiki/Equal_pay_for_equal_work#Transparency_laws>`_.
+   **Is pay transparency required by law in the location where your organization operates?** `Check in this Wikipedia article <https://en.wikipedia.org/wiki/Equal_pay_for_equal_work#Transparency_laws>`_.
 
    - Yes
    - No
    - I'm not sure
 
-   Regardless of official policy, is there a culture of sharing salary information at your organization?
+   **Regardless of official policy, is there a culture of sharing salary information at your organization?**
 
    - Yes - all or most of my co-workers openly share salary information
    - Partial - some of my co-workers share salary information
    - No - salary information is not openly shared
    - I'm not sure, or I do not participate
 
-   Regardless of the situation at your organization, how do you personally feel about pay transparency?
+   **Regardless of the situation at your organization, how do you personally feel about pay transparency?**
 
    - Strongly support
    - Support
@@ -3543,14 +3563,12 @@ Organization origin and location
 
    |icon-question|
 
-   Is your organization multinational? A multinational organization is defined as one that has office locations and business operations in two or more countries.
+   **Is your organization multinational? A multinational organization is defined as one that has office locations and business operations in two or more countries.**
 
    - Yes
    - No
 
-   Where is your organization based?
-
-   Note: This is the primary location, headquarters or main location - or for multinational organizations, the location where the organization originated. This is not your location - that will be covered in the next section.
+   **Where is your organization based?** This is the primary location, headquarters or main location - or for multinational organizations, the location where the organization originated. This is not your location - that will be covered in the next section.
 
    - Country:
    - State/Province/Region:
@@ -3566,7 +3584,7 @@ A total of 63.8% of organizations originated in North America, with the bulk of 
 
 .. raw:: html
 
-   <div class="tab-wrap"><input type="radio" id="tabG3-1" name="tabGroupG3" class="tab"><label for="tabG3-1">Regions</label><input type="radio" id="tabG3-2" name="tabGroupG3" class="tab" checked tabindex="0"><label for="tabG3-2">North America</label><input type="radio" id="tabG3-3" name="tabGroupG3" class="tab"><label for="tabG3-3">Europe</label><input type="radio" id="tabG3-4" name="tabGroupG3" class="tab"><label for="tabG3-4">Other regions</label><div class="tab__content">
+   <div class="tab-wrap"><input type="radio" id="tabG3-1" name="tabGroupG3" class="tab" checked tabindex="0"><label for="tabG3-1">Regions</label><input type="radio" id="tabG3-2" name="tabGroupG3" class="tab"><label for="tabG3-2">North America</label><input type="radio" id="tabG3-3" name="tabGroupG3" class="tab"><label for="tabG3-3">Europe</label><input type="radio" id="tabG3-4" name="tabGroupG3" class="tab"><label for="tabG3-4">Other regions</label><div class="tab__content">
 
 .. table:: Organization location - Regions
    :widths: 70 15 15
@@ -3728,6 +3746,11 @@ Respondent demographics
 
 Who makes up the Write the Docs community? The questions in this section on respondent age, gender identity, education, experience, and location provide context for the salary/rate and satisfaction data. All questions in this section had an "I'd rather not say" option, with the exception of geographical location (country and state or province only), without which the core objective of the survey cannot be achieved.
 
+.. contents:: In this section
+   :local: 
+   :depth: 1
+   :backlinks: none
+
 Age group
 ---------
 
@@ -3737,7 +3760,7 @@ Age group
 
 .. container:: question
 
-   |icon-question| What is your age?
+   |icon-question| **What is your age?**
 
    - 18-25
    - 26-35
@@ -3796,7 +3819,7 @@ Gender identity
 
 .. container:: question
 
-   |icon-question| What gender identity do you most identify with?
+   |icon-question| **What gender identity do you most identify with?**
 
    - Woman
    - Man
@@ -3849,7 +3872,7 @@ Experience
 
 .. container:: question
 
-   |icon-question| How many years of experience do you have in documentation?
+   |icon-question| **How many years of experience do you have in documentation?**
 
    - Less than 1 year
    - 1 year or more but less than 2 years
@@ -3917,7 +3940,7 @@ Education level
 
 .. container:: question
 
-   |icon-question| What is the highest level of education that you have completed?
+   |icon-question| **What is the highest level of education that you have completed?**
    If your education level isn't listed, choose the option that's the closest equivalent to the level you have completed. We're asking for the highest level completed, so if you are still working towards a qualification, please select the highest level you have actually finished.
 
    - High school
@@ -3984,11 +4007,11 @@ Location
 
    While most questions in this section are optional, general geographical location is not - this is because without it, we cannot calculate median salaries, which is one of the main objectives of the survey. For privacy reasons, finer-grained geographical location is optional.
 
-   |icon-question| Please enter your country, state or province, and town or city, or the nearest large city that you feel comfortable specifying. If the autofill does not include a state or province for your location, please enter N/A.
+   |icon-question| **Please enter your country, state or province, and town or city, or the nearest large city that you feel comfortable specifying. If the autofill does not include a state or province for your location, please enter N/A.**
 
-   Country:
-   State/Province/Region:
-   City/Town (optional):
+   - Country
+   - State/Province/Region
+   - City/Town (optional)
 
 .. raw:: html
 
@@ -4268,12 +4291,12 @@ Following on from last year, we again included some questions about the survey i
 
 .. container:: question
 
-   |icon-question| Have you participated in a WTD Salary Survey before?
+   |icon-question| **Have you participated in a WTD Salary Survey before?**
 
    - Yes
    - No
 
-   |icon-question| How strongly do you agree with the following statements about this survey? [Strongly agree] [Agree] [Neutral] [Disagree] [Strongly disagree]
+   |icon-question| **How strongly do you agree with the following statements about this survey?** [Strongly agree] [Agree] [Neutral] [Disagree] [Strongly disagree]
 
    - The questions are relevant
    - The survey form and website are usable

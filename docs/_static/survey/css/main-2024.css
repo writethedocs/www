@@ -226,9 +226,21 @@ a { color: var(--brand); }
 
 /* ELEMENT-SPECIFIC STYLING */
 
-section > section:has(h2) {
-	padding-top: var(--size-10);
-	/* border-top: 1px solid var(--border-color-1); */
+section > section:has(h2):not(section > section:has(h2):first-of-type) {
+	margin-top: var(--size-10);
+	padding-top: var(--size-6);
+	
+	h2 {
+		font-family: var(--font-sans);
+		font-weight: var(--font-weight-5);
+		text-transform: uppercase;
+		letter-spacing: var(--font-letterspacing-4);
+		padding-bottom: var(--size-2); 
+		border-bottom: 1px solid var(--text-2);
+	}
+	h3:first-of-type {
+		padding-top: var(--size-6);
+	}
 }
 
 hr {
@@ -255,9 +267,15 @@ details {
 	box-shadow: var(--shadow);
 	background: var(--surface-00);
 	padding: var(--size-4);
+	strong {
+		font-weight: var(--font-weight-5);
+		color: var(--text-1);
+	}
 	summary {
 		cursor: pointer;
 		letter-spacing: var(--font-letterspacing-1);
+		padding-left: var(--size-1);
+		color: var(--text-1);
 		&:focus-visible {
 			outline: dotted 1px;
 			outline-offset: var(--size-4);
@@ -417,8 +435,10 @@ nav.main-toc {
 			}
 		}
 	}
+	@media screen and (min-width: 869px) { /* desktop */
+		display: none;
+	}
 }
-
 
 nav.mobile-nav {
   z-index: 2000;
@@ -457,6 +477,55 @@ nav.mobile-nav {
   	background-color: var(--surface-highlight);
 	}
 }
+
+/* localized section TOC */
+.contents.local.topic.note {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	padding: var(--size-4) var(--size-4);
+	ul.simple {
+		list-style-type: none;
+		margin: 0; padding: 0;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		column-gap: var(--size-2);
+		li {
+			position: relative;
+			display: inline;
+			padding: 0 0.5em;
+			&::before {
+				content: "[";
+				position: absolute;
+				left: 0;
+			}
+			&::after {
+				content: "]";
+				position: absolute;
+				right: 0;
+			}
+			p {
+				display: inline; 
+				margin: 0; padding: 0;
+			}
+			a {
+				text-decoration: none;
+			}
+		}
+	}
+	.topic-title {
+		display: block;
+		white-space: nowrap;
+		&:after {
+			content: ": ";
+		}
+	}
+}
+
+
+
+
 
 /* other surveys jump menu */
 .survey-nav {
