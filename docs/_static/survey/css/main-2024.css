@@ -226,6 +226,11 @@ a { color: var(--brand); }
 
 /* ELEMENT-SPECIFIC STYLING */
 
+section > section:has(h2) {
+	padding-top: var(--size-10);
+	/* border-top: 1px solid var(--border-color-1); */
+}
+
 hr {
 	border: 0;
 	height: 0;
@@ -648,6 +653,7 @@ main {
 						font-size: 10px;
 					}
 				}
+				span { display: none; }
 				strong { font-weight: var(--font-weight-5); }
 			}
 			tr:nth-child(even) { /* striping */
@@ -661,6 +667,13 @@ main {
 					background: var(--surface-0); 
 				}
 				&:hover td { background: var(--surface-highlight); }
+			}
+		}
+		&.nosort1 {
+			thead {
+				th:nth-of-type(1) {
+					pointer-events: none;;
+				}
 			}
 		}
 		&.std3col {
@@ -697,6 +710,30 @@ main {
 				td:nth-of-type(3) { text-align: center; }
 			}
 		}
+		&.col2right {
+			thead {
+				th:nth-of-type(2) { text-align: right; }
+			}
+			tbody {
+				td:nth-of-type(2) { text-align: right; }
+			}
+		}
+		&.col3right {
+			thead {
+				th:nth-of-type(3) { text-align: right; }
+			}
+			tbody {
+				td:nth-of-type(3) { text-align: right; }
+			}
+		}
+		&.col4right {
+			thead {
+				th:nth-of-type(4) { text-align: right; }
+			}
+			tbody {
+				td:nth-of-type(4) { text-align: right; }
+			}
+		}
 		&.medians {
 			thead {
 				th {
@@ -712,6 +749,36 @@ main {
 					text-align: right;
 					&:nth-of-type(1) { text-align: left; }
 					&:has(strong) { text-transform: uppercase; }
+				}
+			}
+		}
+		&.medians-with-num {
+			thead {
+				th {
+					text-align: right;
+					&:nth-of-type(1) { text-align: left; }
+					&:nth-of-type(2) { text-align: center; }
+				}
+			}
+			tbody {
+				td {
+					text-align: right;
+					&:nth-of-type(1) { text-align: left; }
+					&:nth-of-type(2) { text-align: center; }
+				}
+			}
+		}
+		&.statements {
+			thead {
+				th {
+					text-align: right;
+					&:nth-of-type(1) { text-align: left; }
+				}
+			}
+			tbody {
+				td {
+					text-align: right;
+					&:nth-of-type(1) { text-align: left; }
 				}
 			}
 		}
@@ -929,6 +996,31 @@ dl.footnote.brackets {
 			.indicator-left:hover::before { color: inherit; }
 			.indicator-left[aria-sort=descending]::before { color: inherit; content: "▾"; }
 			.indicator-left[aria-sort=ascending]::before { color: inherit; content: "▴"; } 
+		}
+	}
+	tbody {
+		td {
+			padding-right: 12px;
+		}
+	}
+	&.std3col {
+		thead {
+			tr {
+				th {
+					&:nth-of-type(3) { 
+						pointer-events: none; 
+						padding-right: 14px;
+						&::after { display: none; }
+					}
+				}
+			}
+		}
+	}
+	&.rates {
+		tbody {
+			td {
+				padding-right: 30px;
+			}
 		}
 	}
 }

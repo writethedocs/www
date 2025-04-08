@@ -28,6 +28,43 @@
 
 .. |%| replace:: :abbr:`% (Percentage of total respondents)`
 
+
+.. |1| raw:: html
+
+   <span>1.</span>
+
+.. |2| raw:: html
+
+   <span>2.</span>
+
+.. |3| raw:: html
+
+   <span>3.</span>
+
+.. |4| raw:: html
+
+   <span>4.</span>
+
+.. |5| raw:: html
+
+   <span>5.</span>
+
+.. |6| raw:: html
+
+   <span>6.</span>
+
+.. |7| raw:: html
+
+   <span>7.</span>
+
+.. |8| raw:: html
+
+   <span>8.</span>
+
+.. |9| raw:: html
+
+   <span>9.</span>
+
 .. raw:: html
 
    <nav role="navigation" aria-label="Table of contents" class="main-toc">
@@ -136,28 +173,28 @@ Basis of employment
 
 As in previous surveys, employees made up the majority of respondents (686, or 87.9%). Contractors made up 8.5% (66 individuals).
 
-For the first time this year, we included a third option - for respondents who had worked in the past year as both employee and contractor. 28 respondents (3.6%) chose this option, and provided both salary and contract rate data. This means that in total there are 714 employee responses and 94 contractor responses.
+For the first time this year, we included a third option - for respondents who had worked in the past year as both employee and contractor. 28 respondents (3.6%) chose this option, and provided both salary and contract rate data. This means that in total there are 714 employee responses and 94 contractor responses (the highest number of contractor responses yet).
 
 .. table:: Basis of employment (2019-2024)
    :widths: 76 20 20
    :name: tbl-2024-basis-of-employment-history
-   :class: sortable col3center col2center
+   :class: sortable col2right col3right
 
-   +-----------------+-------------+-------------+
-   | Survey year     | Employees   | Contractors |
-   +=================+=============+=============+
-   | 2019            | 652 (93.9%) |  42 (6.1%)  |
-   +-----------------+-------------+-------------+
-   | 2020            | 748 (92.9%) |  57 (7.1%)  |
-   +-----------------+-------------+-------------+
-   | 2021            | 887 (92.5%) |  72 (7.5%)  |
-   +-----------------+-------------+-------------+
-   | 2022            | 491 (93.5%) |  34 (6.5%)  |
-   +-----------------+-------------+-------------+
-   | 2023            | 938 (92.2%) |  79 (7.8%)  |
-   +-----------------+-------------+-------------+
-   | 2024 [*]_       | 714 (88.4%) | 94 (11.6%)  |
-   +-----------------+-------------+-------------+
+   +-----------------+-----------------+----------------+
+   | Survey year     | Employees       | Contractors    |
+   +=================+=================+================+
+   | 2019            | |2| 652 (93.9%) |  |2| 42 (6.1%) |
+   +-----------------+-----------------+----------------+
+   | 2020            | |4| 748 (92.9%) |  |3| 57 (7.1%) |
+   +-----------------+-----------------+----------------+
+   | 2021            | |5| 887 (92.5%) |  |4| 72 (7.5%) |
+   +-----------------+-----------------+----------------+
+   | 2022            | |1| 491 (93.5%) |  |1| 34 (6.5%) |
+   +-----------------+-----------------+----------------+
+   | 2023            | |6| 938 (92.2%) |  |5| 79 (7.8%) |
+   +-----------------+-----------------+----------------+
+   | 2024 [*]_       | |3| 714 (88.4%) | |6| 94 (11.6%) |
+   +-----------------+-----------------+----------------+
 
 .. [*] Includes 66 employee-contractor respondents who are counted twice - once as an employee and once as a contractor
 
@@ -449,7 +486,7 @@ This resulted in an incredibly diverse range of primary and secondary role categ
 .. table:: Combinations with primary role "technical writer"
    :widths: 90 10
    :name: tbl-2024-top-category-combinations-technical-writer
-   :class: sortable
+   :class: sortable col2right
 
    +-----------------------------------------+-----+
    | Additional role category                | |N| |
@@ -496,7 +533,7 @@ This resulted in an incredibly diverse range of primary and secondary role categ
 .. table:: Combinations with primary role "editor"
    :widths: 90 10
    :name: tbl-2024-top-category-combinations-editor
-   :class: sortable
+   :class: sortable col2right
 
    +-----------------------------------------+-----+
    | Additional role category                | |N| |
@@ -517,7 +554,7 @@ This resulted in an incredibly diverse range of primary and secondary role categ
 .. table:: Combinations with primary role "DocOps"
    :widths: 90 10
    :name: tbl-2024-top-category-combinations-docops
-   :class: sortable
+   :class: sortable col2right
 
    +-----------------------------------------+-----+
    | Additional role category                | |N| |
@@ -729,13 +766,13 @@ The majority of respondents (68.8%) reported that documentation makes up their w
    +------------------------------------------+--------+--------+
    | Portion                                  | |N|    | |%|    |
    +==========================================+========+========+
-   | Wholly documentation                     | 537    | 68.85% |
+   | Wholly documentation                     | 537    | 68.8%  |
    +------------------------------------------+--------+--------+
-   | Partly documentation                     | 215    | 27.56% |
+   | Partly documentation                     | 215    | 27.6%  |
    +------------------------------------------+--------+--------+
-   | Not documentation, but it's expected     | 20     | 2.56%  |
+   | Not documentation, but it's expected     | 20     | 2.6%   |
    +------------------------------------------+--------+--------+
-   | Not documentation, and not expected      | 8      | 1.03%  |
+   | Not documentation, and not expected      | 8      | 1.0%   |
    +------------------------------------------+--------+--------+
 
 .. raw:: html
@@ -750,13 +787,13 @@ The majority of respondents (68.8%) reported that documentation makes up their w
    +--------------------------+--------+--------+
    | Portion                  | |N|    | |%|    |
    +==========================+========+========+
-   | 76-100%                  | 427    | 54.74% |
+   | 76-100%                  | 427    | 54.7%  |
    +--------------------------+--------+--------+
-   | 51-75%                   | 248    | 31.79% |
+   | 51-75%                   | 248    | 31.9%  |
    +--------------------------+--------+--------+
-   | 26-50%                   | 75     | 9.62%  |
+   | 26-50%                   | 75     | 9.6%   |
    +--------------------------+--------+--------+
-   | 0-25%                    | 30     | 3.85%  |
+   | 0-25%                    | 30     | 3.8%   |
    +--------------------------+--------+--------+
 
 .. raw:: html
@@ -845,11 +882,11 @@ Among the 94 respondents who had worked on a contract basis, only 46.8% reported
    +-------------------+------+-------+
    | Change            | |N|  | |%|   |
    +===================+======+=======+
-   | Increase          | 535  | 75.0% |
+   | |1| Increase      | 535  | 75.0% |
    +-------------------+------+-------+
-   | No change         | 159  | 22.3% |
+   | |2| No change     | 159  | 22.3% |
    +-------------------+------+-------+
-   | Decrease          | 19   | 2.7%  |
+   | |3| Decrease      | 19   | 2.7%  |
    +-------------------+------+-------+
 
 .. raw:: html
@@ -864,11 +901,11 @@ Among the 94 respondents who had worked on a contract basis, only 46.8% reported
    +--------------------+-----+-------+
    | Change             | |N| | |%|   |
    +====================+=====+=======+
-   | Increase           | 44  | 46.8% |
+   | |1| Increase       | 44  | 46.8% |
    +--------------------+-----+-------+
-   | No change          | 35  | 37.2% |
+   | |2| No change      | 35  | 37.2% |
    +--------------------+-----+-------+
-   | Decrease           | 15  | 16.0% |
+   | |3| Decrease       | 15  | 16.0% |
    +--------------------+-----+-------+
 
 .. raw:: html
@@ -1264,11 +1301,11 @@ Around half of all employees (51.4%) and half of all contractors (50% exactly) r
    +-------------------------------------------+-----+-------+
    | Confidence                                | |N| | |%|   |
    +===========================================+=====+=======+
-   | Around the same                           | 357 | 51.5% |
+   | |2| Around the same                       | 357 | 51.5% |
    +-------------------------------------------+-----+-------+
-   | More confident                            | 184 | 26.6% |
+   | |1| More confident                        | 184 | 26.6% |
    +-------------------------------------------+-----+-------+
-   | Less confident                            | 152 | 21.9% |
+   | |3| Less confident                        | 152 | 21.9% |
    +-------------------------------------------+-----+-------+
 
 .. raw:: html
@@ -1283,11 +1320,11 @@ Around half of all employees (51.4%) and half of all contractors (50% exactly) r
    +------------------------------------------+-----+-------+
    | Confidence                               | |N| | |%|   |
    +==========================================+=====+=======+
-   | Around the same                          | 38  | 50.0% |
+   | |2| Around the same                      | 38  | 50.0% |
    +------------------------------------------+-----+-------+
-   | Less confident                           | 23  | 30.3% |
+   | |3| Less confident                       | 23  | 30.3% |
    +------------------------------------------+-----+-------+
-   | More confident                           | 15  | 19.7% |
+   | |1| More confident                       | 15  | 19.7% |
    +------------------------------------------+-----+-------+
 
 .. raw:: html
@@ -1351,15 +1388,15 @@ Amongst contractors - a smaller number of respondents overall - the trend was to
    +---------------------------+-----+-------+
    | Confidence                | |N| | |%|   |
    +===========================+=====+=======+
-   | Confident                 | 24  | 30.0% |
+   | |2| Confident             | 24  | 30.0% |
    +---------------------------+-----+-------+
-   | Not confident             | 22  | 27.5% |
+   | |4| Not confident         | 22  | 27.5% |
    +---------------------------+-----+-------+
-   | Neutral                   | 17  | 21.3% |
+   | |3| Neutral               | 17  | 21.3% |
    +---------------------------+-----+-------+
-   | Not confident at all      | 9   | 11.3% |
+   | |5| Not confident at all  | 9   | 11.3% |
    +---------------------------+-----+-------+
-   | Very confident            | 8   | 10.0% |
+   | |1| Very confident        | 8   | 10.0% |
    +---------------------------+-----+-------+
 
 .. raw:: html
@@ -1374,15 +1411,15 @@ Amongst contractors - a smaller number of respondents overall - the trend was to
    +----------------------------+-----+-------+
    | Confidence                 | |N| | |%|   |
    +============================+=====+=======+
-   | Not confident              | 9   | 40.9% |
+   | |4| Not confident          | 9   | 40.9% |
    +----------------------------+-----+-------+
-   | Very confident             | 4   | 18.2% |
+   | |1| Very confident         | 4   | 18.2% |
    +----------------------------+-----+-------+
-   | Neutral                    | 3   | 13.6% |
+   | |3| Neutral                | 3   | 13.6% |
    +----------------------------+-----+-------+
-   | Not confident at all       | 3   | 13.6% |
+   | |5| Not confident at all   | 3   | 13.6% |
    +----------------------------+-----+-------+
-   | Confident                  | 3   | 13.6% |
+   | |2| Confident              | 3   | 13.6% |
    +----------------------------+-----+-------+
 
 .. raw:: html
@@ -1394,7 +1431,7 @@ Amongst contractors - a smaller number of respondents overall - the trend was to
 Workplace
 =========
 
-The questions in this section relate to respondents' workplace: whether they work from home, from an office, or a combination, and how they feel about that. We were also interested in how the much-discussed "back to the office" mandates have affected our community.
+The questions in this section relate to respondents' workplace: whether they work from home, from an office, or a combination, and how they feel about that. We were also interested in how the much-discussed "return to the office" (RTO) mandates have affected our community.
 
 .. container:: note
 
@@ -1431,7 +1468,7 @@ Work location
 
    </details>
 
-For the first time since 2019, hybrid work has overtaken fully remote work as the most common work location, with 32.3% of respondents reporting that they work in a hybrid environment. 30% work fully remote by choice, while 28.9% are required to work fully remote. Those working on-site, whether by choice or necessity, make up only 8.7% of respondents.
+The vast majority of respondents (58.9%) work remotely - 30% by choice, and 28.9% by necessity. 32.3% of respondents report that they work in a hybrid environment. Those working on-site, whether by choice or necessity, make up only 8.7% of respondents.
 
 .. table:: Work location
    :widths: 70 15 15
@@ -1475,15 +1512,15 @@ The majority of respondents (82.6% overall) reported feeling "positive" about th
    +----------------------+-----------+-----------+
    | Attitudes            | |N|       | |%|       |
    +======================+===========+===========+
-   | Very positive        | 380       | 48.8%     |
+   | |1| Very positive    | 380       | 48.8%     |
    +----------------------+-----------+-----------+
-   | Positive             | 263       | 33.8%     |
+   | |2| Positive         | 263       | 33.8%     |
    +----------------------+-----------+-----------+
-   | Neutral              | 92        | 11.8%     |
+   | |3| Neutral          | 92        | 11.8%     |
    +----------------------+-----------+-----------+
-   | Negative             | 32        | 4.1%      |
+   | |4| Negative         | 32        | 4.1%      |
    +----------------------+-----------+-----------+
-   | Very negative        | 12        | 1.5%      |
+   | |5| Very negative    | 12        | 1.5%      |
    +----------------------+-----------+-----------+
 
 .. raw:: html
@@ -1581,15 +1618,15 @@ Those affected by a full time RTO mandate felt predominantly negative - 73.9% re
    +-------------------+-----------+-----------+
    | Attitudes         | |N|       | |%|       |
    +===================+===========+===========+
-   | Neutral           | 117       | 33.4%     |
+   | |3| Neutral       | 117       | 33.4%     |
    +-------------------+-----------+-----------+
-   | Negative          | 95        | 27.1%     |
+   | |4| Negative      | 95        | 27.1%     |
    +-------------------+-----------+-----------+
-   | Positive          | 68        | 19.4%     |
+   | |2| Positive      | 68        | 19.4%     |
    +-------------------+-----------+-----------+
-   | Very negative     | 43        | 12.3%     |
+   | |5| Very negative | 43        | 12.3%     |
    +-------------------+-----------+-----------+
-   | Very positive     | 27        | 7.7%      |
+   | |1| Very positive | 27        | 7.7%      |
    +-------------------+-----------+-----------+
 
 .. raw:: html
@@ -1604,15 +1641,15 @@ Those affected by a full time RTO mandate felt predominantly negative - 73.9% re
    +--------------------+-----------+-----------+
    | Attitudes          | |N|       | |%|       |
    +====================+===========+===========+
-   | Neutral            | 116       | 35.5%     |
+   | |3| Neutral        | 116       | 35.5%     |
    +--------------------+-----------+-----------+
-   | Negative           | 89        | 27.2%     |
+   | |4| Negative       | 89        | 27.2%     |
    +--------------------+-----------+-----------+
-   | Positive           | 64        | 19.6%     |
+   | |2| Positive       | 64        | 19.6%     |
    +--------------------+-----------+-----------+
-   | Very negative      | 32        | 9.8%      |
+   | |5| Very negative  | 32        | 9.8%      |
    +--------------------+-----------+-----------+
-   | Very positive      | 26        | 8.0%      |
+   | |1| Very positive  | 26        | 8.0%      |
    +--------------------+-----------+-----------+
 
 .. raw:: html
@@ -1627,15 +1664,15 @@ Those affected by a full time RTO mandate felt predominantly negative - 73.9% re
    +-------------------+-----------+-----------+
    | Attitudes         | |N|       | |%|       |
    +===================+===========+===========+
-   | Very negative     | 11        | 47.8%     |
+   | |5| Very negative | 11        | 47.8%     |
    +-------------------+-----------+-----------+
-   | Negative          | 6         | 26.1%     |
+   | |4| Negative      | 6         | 26.1%     |
    +-------------------+-----------+-----------+
-   | Positive          | 4         | 17.4%     |
+   | |2| Positive      | 4         | 17.4%     |
    +-------------------+-----------+-----------+
-   | Very positive     | 1         | 4.3%      |
+   | |1| Very positive | 1         | 4.3%      |
    +-------------------+-----------+-----------+
-   | Neutral           | 1         | 4.3%      |
+   | |3| Neutral       | 1         | 4.3%      |
    +-------------------+-----------+-----------+
 
 .. raw:: html
@@ -1688,6 +1725,8 @@ Regardless of their current situation, 52.1% of all respondents said that their 
 Employee salary, benefits and satisfaction
 ==========================================
 
+This section covers employee salaries, associated benefits of different types, levels of satisfaction and the factors affecting those satisfaction levels. 
+
 To protect the privacy of our community, we do not publish median salary figures for any region or category with less than 10 respondents. In regions or categories that meet the minimum threshold of 30 respondents, we're also providing the |25th| percentile (the value below which 25% of the data falls) and |75th| percentile (the value below which 75% of the data falls).
 
 .. raw:: html
@@ -1716,7 +1755,7 @@ Employee respondents reported being paid in 33 different currencies. To make com
 .. table:: Currencies and exchange rates - employees
    :widths: 55 10 10 10 15
    :name: tbl-2024-currencies-employees
-   :class: sortable tbl_currency
+   :class: sortable col3center col4right
 
    +-----------------------------------+------------+--------+--------+
    | Currency (code)                   | Rate       | |N|    | |%|    |
@@ -1838,7 +1877,7 @@ Given the range of socio-economic differences in the countries in the survey res
 
 .. table:: Salary (USD) by respondent region
    :name: tbl-2024-salary-by-respondent-region
-   :class: medians
+   :class: sortable medians nosort1
 
    +-------------------------+-------------+--------------+--------------+
    | Region (|N|)            | |25|        | |50|         | |75|         |
@@ -1949,17 +1988,17 @@ Respondent numbers allow some additional breakdowns by US state, Candian provinc
 
 .. table:: Salary (USD) by respondent region - Australia
    :name: tbl-2024-salary-by-respondent-region-australia
-   :class: std3col sortable
+   :class: medians sortable
 
-   +----------------------+---------+
-   | State (|N|)          | |50|    |
-   +======================+=========+
-   | Victoria (16)        | $79,224 |
-   +----------------------+---------+
-   | - Melbourne (14)     | $82,525 |
-   +----------------------+---------+
-   | New South Wales (10) | $84,506 |
-   +----------------------+---------+
+   +----------------------+------+---------+------+
+   | State (|N|)          | |25| | |50|    | |75| |
+   +======================+======+=========+======+
+   | Victoria (16)        |      | $79,224 |      |
+   +----------------------+------+---------+------+
+   | - Melbourne (14)     |      | $82,525 |      |
+   +----------------------+------+---------+------+
+   | New South Wales (10) |      | $84,506 |      |
+   +----------------------+------+---------+------+
 
 .. raw:: html
 
@@ -1970,7 +2009,7 @@ Median salary by gender identity
 
 In order to have large enough numbers for statistical significance, we only break down salary by gender identity for women (57% of all respondents) and men (37.2% of all respondents), and only in regions where there are at least 30 respondents of each gender.
 
-This year, that means that we are able to show breakdowns for Worldwide, North America and Europe. Men earned more than women in all regions, but the difference was largest in Europe (19.6% more).
+This year, that means that we are able to show breakdowns for Worldwide, North America and Europe. Men earned more than women in all regions, but the difference was largest in Europe (where mean earned 19.6% more than women).
 
 .. raw:: html
 
@@ -2041,22 +2080,22 @@ The general trend is for salaries to increase with years of experience. This tre
 
 .. table:: Salary (USD) by experience
    :name: tbl-2024-salary-by-experience
-   :class: medians sortable
+   :class: medians-with-num sortable
 
    +-----------------+-------+---------+----------+----------+
    | Experience      | |N|   | |25|    | |50|     | |75|     |
    +=================+=======+=========+==========+==========+
-   | 0-2 years       | 34    | $44,496 |  $54,000 |  $72,622 |
+   | |1| 0-2 years   | 34    | $44,496 |  $54,000 |  $72,622 |
    +-----------------+-------+---------+----------+----------+
-   | 2-5 years       | 124   | $52,500 |  $69,336 |  $90,000 |
+   | |2| 2-5 years   | 124   | $52,500 |  $69,336 |  $90,000 |
    +-----------------+-------+---------+----------+----------+
-   | 5-10 years      | 196   | $54,772 |  $81,000 | $112,000 |
+   | |3| 5-10 years  | 196   | $54,772 |  $81,000 | $112,000 |
    +-----------------+-------+---------+----------+----------+
-   | 10-15 years     | 135   | $72,500 | $100,000 | $150,000 |
+   | |4| 10-15 years | 135   | $72,500 | $100,000 | $150,000 |
    +-----------------+-------+---------+----------+----------+
-   | 15-20 years     | 60    | $75,923 |  $95,000 | $124,900 |
+   | |5| 15-20 years | 60    | $75,923 |  $95,000 | $124,900 |
    +-----------------+-------+---------+----------+----------+
-   | 20+ years       | 138   | $77,821 | $101,000 | $144,000 |
+   | |6| 20+ years   | 138   | $77,821 | $101,000 | $144,000 |
    +-----------------+-------+---------+----------+----------+
 
 .. raw:: html
@@ -2065,22 +2104,22 @@ The general trend is for salaries to increase with years of experience. This tre
 
 .. table:: Salary (USD) by experience - North America
    :name: tbl-2024-salary-by-experience-region-north-america
-   :class: medians sortable
+   :class: medians-with-num sortable
 
    +-----------------+-------+---------+----------+----------+
    | Experience      | |N|   | |25|    | |50|     | |75|     |
    +=================+=======+=========+==========+==========+
-   | 0-2 years       | 16    |         |  $70,000 |          |
+   | |1| 0-2 years   | 16    |         |  $70,000 |          |
    +-----------------+-------+---------+----------+----------+
-   | 2-5 years       | 62    | $63,951 |  $85,000 | $111,736 |
+   | |2| 2-5 years   | 62    | $63,951 |  $85,000 | $111,736 |
    +-----------------+-------+---------+----------+----------+
-   | 5-10 years      | 111   | $75,000 | $100,000 | $144,000 |
+   | |3| 5-10 years  | 111   | $75,000 | $100,000 | $144,000 |
    +-----------------+-------+---------+----------+----------+
-   | 10-15 years     | 81    | $91,288 | $128,500 | $165,000 |
+   | |4| 10-15 years | 81    | $91,288 | $128,500 | $165,000 |
    +-----------------+-------+---------+----------+----------+
-   | 15-20 years     | 28    | $90,000 | $115,027 | $173,665 |
+   | |5| 15-20 years | 28    | $90,000 | $115,027 | $173,665 |
    +-----------------+-------+---------+----------+----------+
-   | 20+ years       | 85    | $97,000 | $120,000 | $166,000 |
+   | |6| 20+ years   | 85    | $97,000 | $120,000 | $166,000 |
    +-----------------+-------+---------+----------+----------+
 
 .. raw:: html
@@ -2089,22 +2128,22 @@ The general trend is for salaries to increase with years of experience. This tre
 
 .. table:: Salary (USD) by experience - Europe
    :name: tbl-2024-salary-by-experience-region-europe
-   :class: medians sortable
+   :class: medians-with-num sortable
 
    +-----------------+-------+---------+---------+---------+
    | Experience      | |N|   | |25|    | |50|    | |75|    |
    +=================+=======+=========+=========+=========+
-   | 0-2 years       | 13    |         | $48,640 |         |
+   | |1| 0-2 years   | 13    |         | $48,640 |         |
    +-----------------+-------+---------+---------+---------+
-   | 2-5 years       | 39    | $38,879 | $54,000 | $69,336 |
+   | |2| 2-5 years   | 39    | $38,879 | $54,000 | $69,336 |
    +-----------------+-------+---------+---------+---------+
-   | 5-10 years      | 56    | $46,656 | $60,480 | $81,000 |
+   | |3| 5-10 years  | 56    | $46,656 | $60,480 | $81,000 |
    +-----------------+-------+---------+---------+---------+
-   | 10-15 years     | 29    |         | $77,760 |         |
+   | |4| 10-15 years | 29    |         | $77,760 |         |
    +-----------------+-------+---------+---------+---------+
-   | 15-20 years     | 16    |         | $76,982 |         |
+   | |5| 15-20 years | 16    |         | $76,982 |         |
    +-----------------+-------+---------+---------+---------+
-   | 20+ years       | 26    |         | $72,900 |         |
+   | |6| 20+ years   | 26    |         | $72,900 |         |
    +-----------------+-------+---------+---------+---------+
 
 .. raw:: html
@@ -2122,20 +2161,20 @@ Salaries generally increase with the size of the organization, with the highest 
 
 .. table:: Salary (USD) by organization size
    :name: tbl-2024-salary-by-organization-size
-   :class: medians sortable
+   :class: medians-with-num sortable
 
    +------------------------+-----+---------+----------+----------+
    | Size                   | |N| | |25|    | |50|     | |75|     |
    +========================+=====+=========+==========+==========+
-   | 1-100                  | 87  | $54,000 |  $71,222 | $105,000 |
+   | |1| 1-100              | 87  | $54,000 |  $71,222 | $105,000 |
    +------------------------+-----+---------+----------+----------+
-   | 101-1,000              | 270 | $60,000 |  $82,620 | $115,000 |
+   | |2| 101-1,000          | 270 | $60,000 |  $82,620 | $115,000 |
    +------------------------+-----+---------+----------+----------+
-   | 1,001-10,000           | 201 | $67,188 |  $92,000 | $120,000 |
+   | |3| 1,001-10,000       | 201 | $67,188 |  $92,000 | $120,000 |
    +------------------------+-----+---------+----------+----------+
-   | 10,001-100,000         | 85  | $60,250 |  $89,200 | $123,369 |
+   | |4| 10,001-100,000     | 85  | $60,250 |  $89,200 | $123,369 |
    +------------------------+-----+---------+----------+----------+
-   | 100,000+               | 46  | $73,473 | $107,354 | $180,000 |
+   | |5| 100,000+           | 46  | $73,473 | $107,354 | $180,000 |
    +------------------------+-----+---------+----------+----------+
 
 .. raw:: html
@@ -2144,20 +2183,20 @@ Salaries generally increase with the size of the organization, with the highest 
 
 .. table:: Salary (USD) by organization size - North America
    :name: tbl-2024-salary-by-organization-size-north-america
-   :class: medians sortable
+   :class: medians-with-num sortable
 
    +------------------------+-----+---------+----------+----------+
    | Size                   | |N| | |25|    | |50|     | |75|     |
    +========================+=====+=========+==========+==========+
-   | 1-100                  | 41  | $67,500 |  $90,000 | $125,000 |
+   | |1| 1-100              | 41  | $67,500 |  $90,000 | $125,000 |
    +------------------------+-----+---------+----------+----------+
-   | 101-1,000              | 144 | $75,000 | $101,000 | $150,000 |
+   | |2| 101-1,000          | 144 | $75,000 | $101,000 | $150,000 |
    +------------------------+-----+---------+----------+----------+
-   | 1,001-10,000           | 118 | $87,636 | $108,000 | $150,000 |
+   | |3| 1,001-10,000       | 118 | $87,636 | $108,000 | $150,000 |
    +------------------------+-----+---------+----------+----------+
-   | 10,001-100,000         | 55  | $81,000 | $106,000 | $145,000 |
+   | |4| 10,001-100,000     | 55  | $81,000 | $106,000 | $145,000 |
    +------------------------+-----+---------+----------+----------+
-   | 100,000+               | 26  |         | $170,000 |          |
+   | |5| 100,000+           | 26  |         | $170,000 |          |
    +------------------------+-----+---------+----------+----------+
 
 .. raw:: html
@@ -2166,18 +2205,18 @@ Salaries generally increase with the size of the organization, with the highest 
 
 .. table:: Salary (USD) by organization size - Europe
    :name: tbl-2024-salary-by-organization-size-europe
-   :class: medians sortable
+   :class: medians-with-num sortable
 
    +------------------------+-----+---------+---------+---------+
    | Size                   | |N| | |25|    | |50|    | |75|    |
    +========================+=====+=========+=========+=========+
-   | 1-100                  | 28  |         | $51,840 |         |
+   | |1| 1-100              | 28  |         | $51,840 |         |
    +------------------------+-----+---------+---------+---------+
-   | 101-1,000              | 83  | $50,544 | $64,000 | $83,160 |
+   | |2| 101-1,000          | 83  | $50,544 | $64,000 | $83,160 |
    +------------------------+-----+---------+---------+---------+
-   | 1,001-10,000           | 46  | $51,516 | $61,776 | $86,848 |
+   | |3| 1,001-10,000       | 46  | $51,516 | $61,776 | $86,848 |
    +------------------------+-----+---------+---------+---------+
-   | 10,001-100,000         | 16  |         | $57,600 |         |
+   | |4| 10,001-100,000     | 16  |         | $57,600 |         |
    +------------------------+-----+---------+---------+---------+
 
 .. raw:: html
@@ -2256,7 +2295,11 @@ Employee benefits
 
    </details>
 
-Statutory benefits such as paid vacation (86.3%), paid sick leave (82.2%), and healthcare benefits (76.6%) were the most commonly reported, with only 1.8% of respondents indicating they received none. Extra statutory benefits, such as additional paid vacation (50.2%) and enhanced healthcare benefits (41.3%), were less common, with 14.2% reporting none. Among non-statutory benefits, insurance (54.4%), professional development budgets (50.1%), and stock options or equity (45.3%) were the most frequently provided, while only 4.5% reported receiving none.
+Statutory benefits such as paid vacation (86.3%), paid sick leave (82.2%), and healthcare benefits (76.6%) were the most commonly reported, with only 1.8% of respondents indicating they received none. 
+
+Extra statutory benefits, such as additional paid vacation (50.2%) and enhanced healthcare benefits (41.3%), were less common, with 14.2% reporting none. 
+
+Among non-statutory benefits, insurance (54.4%), professional development budgets (50.1%), and stock options or equity (45.3%) were the most frequently provided, while only 4.5% reported receiving none.
 
 .. raw:: html
 
@@ -2398,15 +2441,15 @@ The majority of employee respondents (71.8%) said they were satisfied (46%) or v
    +-------------------------+--------+--------+
    | Satisfaction            | |N|    | |%|    |
    +=========================+========+========+
-   | Satisfied               | 328    | 46.0%  |
+   | |2| Satisfied           | 328    | 46.0%  |
    +-------------------------+--------+--------+
-   | Very satisfied          | 184    | 25.8%  |
+   | |1| Very satisfied      | 184    | 25.8%  |
    +-------------------------+--------+--------+
-   | Neutral                 | 109    | 15.3%  |
+   | |3| Neutral             | 109    | 15.3%  |
    +-------------------------+--------+--------+
-   | Unsatisfied             | 79     | 11.1%  |
+   | |4| Unsatisfied         | 79     | 11.1%  |
    +-------------------------+--------+--------+
-   | Very unsatisfied        | 13     | 1.8%   |
+   | |5| Very unsatisfied    | 13     | 1.8%   |
    +-------------------------+--------+--------+
 
 .. raw:: html
@@ -2421,15 +2464,15 @@ The majority of employee respondents (71.8%) said they were satisfied (46%) or v
    +--------------------------+--------+--------+
    | Satisfaction             | |N|    | |%|    |
    +==========================+========+========+
-   | Satisfied                | 320    | 44.9%  |
+   | |2| Satisfied            | 320    | 44.9%  |
    +--------------------------+--------+--------+
-   | Very satisfied           | 188    | 26.4%  |
+   | |1| Very satisfied       | 188    | 26.4%  |
    +--------------------------+--------+--------+
-   | Neutral                  | 128    | 18.0%  |
+   | |3| Neutral              | 128    | 18.0%  |
    +--------------------------+--------+--------+
-   | Unsatisfied              | 61     | 8.6%   |
+   | |4| Unsatisfied          | 61     | 8.6%   |
    +--------------------------+--------+--------+
-   | Very unsatisfied         | 16     | 2.2%   |
+   | |5| Very unsatisfied     | 16     | 2.2%   |
    +--------------------------+--------+--------+
 
 .. raw:: html
@@ -2543,7 +2586,7 @@ Respondents who indicated that the statement was not relevant to their situation
    +---------------------------------------------------+----------+---------+----------+
    | I have opportunities for professional development |    63.0% |   20.6% |    16.4% |
    +---------------------------------------------------+----------+---------+----------+
-   | My work is sufficiently interesting/challenging   |    73.3% |   17.0% |     9.7% |
+   | My work is sufficiently interesting / challenging |    73.3% |   17.0% |     9.7% |
    +---------------------------------------------------+----------+---------+----------+
    | I’m satisfied with the systems and toolsets I use |    60.9% |   20.7% |    18.4% |
    +---------------------------------------------------+----------+---------+----------+
@@ -2585,7 +2628,7 @@ Respondents who indicated that the statement was not relevant to their situation
    +---------------------------------------------------------------+----------+---------+----------+
    | To my knowledge, all genders are paid equally                 |    54.3% |   32.3% |    13.4% |
    +---------------------------------------------------------------+----------+---------+----------+
-   | My role is sufficiently valued/funded                         |    53.0% |   20.1% |    26.9% |
+   | My role is sufficiently valued  /funded                       |    53.0% |   20.1% |    26.9% |
    +---------------------------------------------------------------+----------+---------+----------+
    | I like and/or respect my managers and team leaders            |    79.8% |   12.0% |     8.2% |
    +---------------------------------------------------------------+----------+---------+----------+
@@ -2616,11 +2659,9 @@ Respondents who indicated that the statement was not relevant to their situation
 Contract rates and satisfaction
 ===============================
 
-.. container:: note
+This section contains questions about the different types of contract work, rates, and feelings of satisfaction with contract work and contract earnings, as well as confidence in the current prospects for new contract work. 
 
-   .. rubric:: |icon-info| Note on median rates for contractors
-
-   While the 2024 survey results include more contractor data than in any previous year (94 responses) this number is too low, and the respondents too geographically diverse, to determine median rates except for the very largest regions (the United States and Europe).
+To protect the privacy of our community, we do not publish median salary figures for any region or category with less than 10 respondents. In regions or categories that meet the minimum threshold of 30 respondents, we're also providing the |25th| percentile (the value below which 25% of the data falls) and |75th| percentile (the value below which 75% of the data falls). While the 2024 survey results include more contractor data than in any previous year (94 responses) this number is too low, and the respondents too geographically diverse, to determine median rates except for the very largest regions (the United States and Europe).
 
 Preferred term
 --------------
@@ -2700,9 +2741,6 @@ Type of contract work
 .. raw:: html
 
    </details>
-
-Contractor type
-~~~~~~~~~~~~~~~
 
 To illustrate how varied contractor working situations are, out of the 94 total contractor respondents, there were 59 different combinations of client type, contract or project type, and product or service offering.
 
@@ -2804,15 +2842,12 @@ Contract rates
 
    </details>
 
-Currencies
-~~~~~~~~~~
-
 Contractor respondents were paid in 15 different currencies. To make comparisons possible, all currencies were converted to USD using mid-market exchange rates, averaged for the whole of 2024.
 
 .. table:: Currency and exchange rate
    :widths: 70 15 15
    :name: tbl-2024-currency-exchange-rate-contractors
-   :class: sortable tbl_currency
+   :class: sortable col3center col4right
 
    +------------------------------+------------+---------+---------+
    | Currency (code)              | Rate       | |N|     | |%|     |
@@ -2848,22 +2883,18 @@ Contractor respondents were paid in 15 different currencies. To make comparisons
    | Sri Lankan Rupee (LKR)       |     0.0033 | 1       | 1.1%    |
    +------------------------------+------------+---------+---------+
 
-Median contract rate
-~~~~~~~~~~~~~~~~~~~~
-
 In previous years, we asked contractor respondents to enter multiple rates, if appropriate, and a number did so. This year, although the form allowed multiple rates to be entered, no respondents entered more than one type of rate.
 
 Hourly rates were the most commonly entered fee structure, used by 66% of contractor respondents. 27.7% entered a monthly rate, and the remaining 6.4% - 6 individuals - entered a day rate. Due to the low number of day rates, we're unable to publish any median day rates.
-
 
 .. raw:: html
 
    <div class="tab-wrap"><input type="radio" id="tabA213-1" name="tabGroupA213" class="tab" checked tabindex="0"><label for="tabA213-1">Hourly rate</label><input type="radio" id="tabA213-2" name="tabGroupA213" class="tab"><label for="tabA213-2">Monthly rate</label><div class="tab__content">
 
 .. table:: Median hourly rate by region
-   :widths: 70 10 10 10
+   :widths: 55 15 15 15
    :name: tbl-2024-median-hourly-rate-by-region
-   :class: sortable medians
+   :class: sortable medians rates
 
    +--------------------+------+------+------+
    | Region (|N|)       | |25| | |50| | |75| |
@@ -2880,17 +2911,17 @@ Hourly rates were the most commonly entered fee structure, used by 66% of contra
 	</div><div class="tab__content">
 
 .. table:: Median monthly rate by region
-   :widths: 70 10 10 10
+   :widths: 55 15 15 15
    :name: tbl-2024-median-monthly-rate-by-region
    :class: sortable medians
 
-   +----------------+--------+
-   | Region (|N|)   | |50|   |
-   +================+========+
-   | Worldwide (26) | $4,200 |
-   +----------------+--------+
-   | Europe (13)    | $3,780 |
-   +----------------+--------+
+   +--------------------+------+--------+------+
+   | Region (|N|)       | |25| | |50|   | |75| |
+   +====================+======+========+======+
+   | Worldwide (26)     |      | $4,200 |      |
+   +--------------------+------+--------+------+
+   | Europe (13)        |      | $3,780 |      |
+   +--------------------+------+--------+------+
 
 .. raw:: html
 
@@ -2939,15 +2970,15 @@ More than half of contractor respondents (63.8%) reported feeling satisfied with
    +---------------------------+--------+--------+
    | Satisfaction              | |N|    | |%|    |
    +===========================+========+========+
-   | Satisfied                 | 40     | 42.6%  |
+   | |2| Satisfied             | 40     | 42.6%  |
    +---------------------------+--------+--------+
-   | Very satisfied            | 20     | 21.3%  |
+   | |1| Very satisfied        | 20     | 21.3%  |
    +---------------------------+--------+--------+
-   | Neutral                   | 17     | 18.1%  |
+   | |3| Neutral               | 17     | 18.1%  |
    +---------------------------+--------+--------+
-   | Unsatisfied               | 13     | 13.8%  |
+   | |4| Unsatisfied           | 13     | 13.8%  |
    +---------------------------+--------+--------+
-   | Very unsatisfied          | 4      | 4.3%   |
+   | |5| Very unsatisfied      | 4      | 4.3%   |
    +---------------------------+--------+--------+
 
 .. raw:: html
@@ -2962,15 +2993,15 @@ More than half of contractor respondents (63.8%) reported feeling satisfied with
    +--------------------------+--------+--------+
    | Satisfaction             | |N|    | |%|    |
    +==========================+========+========+
-   | Satisfied                | 40     | 42.6%  |
+   | |2| Satisfied            | 40     | 42.6%  |
    +--------------------------+--------+--------+
-   | Neutral                  | 22     | 23.4%  |
+   | |3| Neutral              | 22     | 23.4%  |
    +--------------------------+--------+--------+
-   | Very satisfied           | 18     | 19.1%  |
+   | |1| Very satisfied       | 18     | 19.1%  |
    +--------------------------+--------+--------+
-   | Unsatisfied              | 10     | 10.6%  |
+   | |4| Unsatisfied          | 10     | 10.6%  |
    +--------------------------+--------+--------+
-   | Very unsatisfied         | 4      | 4.3%   |
+   | |5| Very unsatisfied     | 4      | 4.3%   |
    +--------------------------+--------+--------+
 
 .. raw:: html
@@ -3082,7 +3113,7 @@ Respondents who indicated that the statement was not relevant to their situation
    +---------------------------------------------------+----------+---------+----------+
    | I have opportunities for professional development |    48.9% |   21.1% |    30.0% |
    +---------------------------------------------------+----------+---------+----------+
-   | My work is sufficiently interesting/challenging   |    69.9% |   17.2% |    12.9% |
+   | My work is sufficiently interesting / challenging |    69.9% |   17.2% |    12.9% |
    +---------------------------------------------------+----------+---------+----------+
    | I’m satisfied with the systems and toolsets I use |    57.0% |   21.5% |    21.5% |
    +---------------------------------------------------+----------+---------+----------+
@@ -3124,7 +3155,7 @@ Respondents who indicated that the statement was not relevant to their situation
    +---------------------------------------------------------------+----------+---------+----------+
    | To my knowledge, all genders are paid equally                 |    40.4% |   38.0% |    21.6% |
    +---------------------------------------------------------------+----------+---------+----------+
-   | My role is sufficiently valued/funded                         |    50.0% |   24.4% |    25.6% |
+   | My role is sufficiently valued / funded                       |    50.0% |   24.4% |    25.6% |
    +---------------------------------------------------------------+----------+---------+----------+
    | I like and/or respect my managers and team leaders            |    83.1% |   12.4% |     4.5% |
    +---------------------------------------------------------------+----------+---------+----------+
@@ -3177,19 +3208,19 @@ As in previous years, medium-sized organizations make up the largest proportion 
    +-------------------------------------------------+-----------+-----------+
    | Size                                            | |N|       | |%|       |
    +=================================================+===========+===========+
-   | 101-1000                                        | 288       | 37.4%     |
+   | |4| 101-1,000 employees                         | 288       | 37.4%     |
    +-------------------------------------------------+-----------+-----------+
-   | 1001-10,000                                     | 223       | 28.9%     |
+   | |5| 1,001-10,000 employees                      | 223       | 28.9%     |
    +-------------------------------------------------+-----------+-----------+
-   | 10,001-100,000                                  | 99        | 12.8%     |
+   | |6| 10,001-100,000 employees                    | 99        | 12.8%     |
    +-------------------------------------------------+-----------+-----------+
-   | 100,000+                                        | 53        | 6.9%      |
+   | |7| 100,000+ employees                          | 53        | 6.9%      |
    +-------------------------------------------------+-----------+-----------+
-   | 11-50                                           | 52        | 6.7%      |
+   | |2| 11-50 employees                             | 52        | 6.7%      |
    +-------------------------------------------------+-----------+-----------+
-   | 51-100                                          | 48        | 6.2%      |
+   | |3| 51-100 employees                            | 48        | 6.2%      |
    +-------------------------------------------------+-----------+-----------+
-   | 1-10                                            | 8         | 1.0%      |
+   | |1| 1-10 employees                              | 8         | 1.0%      |
    +-------------------------------------------------+-----------+-----------+
 
 Organization type and industry
@@ -3486,15 +3517,15 @@ Attitudes towards pay transparency
    +----------------------------+-----+-------+
    | Attitude                   | |N| | |%|   |
    +============================+=====+=======+
-   | Strongly support           | 361 | 46.8% |
+   | |1| Strongly support       | 361 | 46.8% |
    +----------------------------+-----+-------+
-   | Support                    | 225 | 29.2% |
+   | |2| Support                | 225 | 29.2% |
    +----------------------------+-----+-------+
-   | Neutral                    | 150 | 19.5% |
+   | |3| Neutral                | 150 | 19.5% |
    +----------------------------+-----+-------+
-   | Oppose                     | 27  | 3.5%  |
+   | |4| Oppose                 | 27  | 3.5%  |
    +----------------------------+-----+-------+
-   | Strongly oppose            | 8   | 1.0%  |
+   | |5| Strongly oppose        | 8   | 1.0%  |
    +----------------------------+-----+-------+
 
 .. raw:: html
@@ -3720,7 +3751,7 @@ Age group
 
    </details>
 
-The age group split in 2024 was similar to previous years, with the majority of respondents falling into the 26-35 and 36-45 age groups.
+The age group split in 2024 was similar to previous years, with the majority of respondents falling into the 26-35 and 36-45 age groups. 5 respondents (0.6%) chose not to provide an answer.
 
 .. table:: Respondent Age
    :widths: 70 15 15
@@ -3741,8 +3772,6 @@ The age group split in 2024 was similar to previous years, with the majority of 
    | 56-65 years      | 76  | 9.8%  |
    +------------------+-----+-------+
    | 66+ years        | 13  | 1.7%  |
-   +------------------+-----+-------+
-   | not-specified    | 5   | 0.6%  |
    +------------------+-----+-------+
 
 .. raw:: html
@@ -3847,25 +3876,23 @@ The experience level spread of respondents echoed previous years - most falling 
    +---------------------+-----+-------+
    | Experience          | |N| | |%|   |
    +=====================+=====+=======+
-   | 0-1 years           | 12  | 1.5%  |
+   | |1| 0-1 years       | 12  | 1.5%  |
    +---------------------+-----+-------+
-   | 1-2 years           | 28  | 3.6%  |
+   | |2| 1-2 years       | 28  | 3.6%  |
    +---------------------+-----+-------+
-   | 2-5 years           | 138 | 17.7% |
+   | |3| 2-5 years       | 138 | 17.7% |
    +---------------------+-----+-------+
-   | 5-10 years          | 220 | 28.2% |
+   | |4| 5-10 years      | 220 | 28.2% |
    +---------------------+-----+-------+
-   | 10-15 years         | 145 | 18.6% |
+   | |5| 10-15 years     | 145 | 18.6% |
    +---------------------+-----+-------+
-   | 15-20 years         | 74  | 9.5%  |
+   | |6| 15-20 years     | 74  | 9.5%  |
    +---------------------+-----+-------+
-   | 20-25 years         | 63  | 8.1%  |
+   | |7| 20-25 years     | 63  | 8.1%  |
    +---------------------+-----+-------+
-   | 25-30 years         | 62  | 8.0%  |
+   | |8| 25-30 years     | 62  | 8.0%  |
    +---------------------+-----+-------+
-   | 30+ years           | 35  | 4.5%  |
-   +---------------------+-----+-------+
-   | Not specified       | 2   | 0.3%  |
+   | |9| 30+ years       | 35  | 4.5%  |
    +---------------------+-----+-------+
 
 .. raw:: html
@@ -4272,15 +4299,15 @@ Overall, most respondents were positive about the survey, with "Strongly agree" 
    +----------------------------+-----+-------+
    | Length is appropriate      | |N| | |%|   |
    +============================+=====+=======+
-   | Strongly agree             | 429 | 55.1% |
+   | |1| Strongly agree         | 429 | 55.1% |
    +----------------------------+-----+-------+
-   | Agree                      | 285 | 36.6% |
+   | |2| Agree                  | 285 | 36.6% |
    +----------------------------+-----+-------+
-   | Neutral                    | 44  | 5.6%  |
+   | |3| Neutral                | 44  | 5.6%  |
    +----------------------------+-----+-------+
-   | Disagree                   | 18  | 2.3%  |
+   | |4| Disagree               | 18  | 2.3%  |
    +----------------------------+-----+-------+
-   | Strongly disagree          | 3   | 0.4%  |
+   | |5| Strongly disagree      | 3   | 0.4%  |
    +----------------------------+-----+-------+
 
 .. raw:: html
@@ -4295,15 +4322,15 @@ Overall, most respondents were positive about the survey, with "Strongly agree" 
    +-----------------------------+-----+-------+
    | Questions are relevant      | |N| | |%|   |
    +=============================+=====+=======+
-   | Strongly agree              | 456 | 58.5% |
+   | |1| Strongly agree          | 456 | 58.5% |
    +-----------------------------+-----+-------+
-   | Agree                       | 297 | 38.1% |
+   | |2| Agree                   | 297 | 38.1% |
    +-----------------------------+-----+-------+
-   | Neutral                     | 21  | 2.7%  |
+   | |3| Neutral                 | 21  | 2.7%  |
    +-----------------------------+-----+-------+
-   | Disagree                    | 4   | 0.5%  |
+   | |4| Disagree                | 4   | 0.5%  |
    +-----------------------------+-----+-------+
-   | Strongly disagree           | 1   | 0.1%  |
+   | |5| Strongly disagree       | 1   | 0.1%  |
    +-----------------------------+-----+-------+
 
 .. raw:: html
@@ -4318,15 +4345,15 @@ Overall, most respondents were positive about the survey, with "Strongly agree" 
    +----------------------------+-----+-------+
    | Form/website is usable     | |N| | |%|   |
    +============================+=====+=======+
-   | Strongly agree             | 447 | 57.4% |
+   | |1| Strongly agree         | 447 | 57.4% |
    +----------------------------+-----+-------+
-   | Agree                      | 273 | 35.0% |
+   | |2| Agree                  | 273 | 35.0% |
    +----------------------------+-----+-------+
-   | Neutral                    | 36  | 4.6%  |
+   | |3| Neutral                | 36  | 4.6%  |
    +----------------------------+-----+-------+
-   | Disagree                   | 20  | 2.6%  |
+   | |4| Disagree               | 20  | 2.6%  |
    +----------------------------+-----+-------+
-   | Strongly disagree          | 3   | 0.4%  |
+   | |5| Strongly disagree      | 3   | 0.4%  |
    +----------------------------+-----+-------+
 
 .. raw:: html

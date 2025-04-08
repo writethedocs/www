@@ -118,7 +118,7 @@ document.getElementById("back-to-top").onclick = function() {
 /* hamburger menu */
 var burgerMenu = document.getElementById('activator');
 var overlay = document.getElementById('mobile-nav');
-var tocLinks = document.getElementsByClassName('mobile-nav');
+var tocLinks = document.getElementById('mobile-nav');
 burgerMenu.addEventListener('click',function(){
   this.classList.toggle("close");
   overlay.classList.toggle("overlay");
@@ -129,6 +129,18 @@ tocLinks.addEventListener('click',function(event){
     overlay.classList.remove("overlay");
   }  
 }); 
+
+/* percentage column to sort on numeric column instead 
+var std3col = document.querySelectorAll('table.std3col');
+std3col.forEach(function(col) {
+  // add data-sort-col="2" to the 3rd th element in the thead
+  var th = col.querySelector('thead tr th:nth-child(3)');
+  // Check if th is not null before proceeding
+  if (th) {
+    th.setAttribute('data-sort-col', '2'); 
+    console.log("got one!");
+  } 
+}); */
 
 }); // DOMContentLoaded 
 
