@@ -146,7 +146,7 @@ This section establishes the parameters of the respondent's employment: the type
    :local: 
    :depth: 1
    :backlinks: none
-   :class: note
+   :class: boxed
 
 Basis of employment
 -------------------
@@ -816,7 +816,7 @@ This section explores the changes in employment experienced by respondents in th
    :local: 
    :depth: 1
    :backlinks: none
-   :class: note
+   :class: boxed
 
 Salary or contract earnings changes
 -----------------------------------
@@ -1435,6 +1435,7 @@ The questions in this section relate to respondents' workplace: whether they wor
    :local: 
    :depth: 1
    :backlinks: none
+   :class: boxed
 
 .. container:: note
 
@@ -1736,6 +1737,7 @@ To protect the privacy of our community, we do not publish median salary figures
    :local: 
    :depth: 1
    :backlinks: none
+   :class: boxed
 
 Salary
 ------
@@ -2668,6 +2670,7 @@ While the 2024 survey results include more contractor data than in any previous 
    :local: 
    :depth: 2
    :backlinks: none
+   :class: boxed
 
 Preferred term
 --------------
@@ -3196,6 +3199,7 @@ This section concerns employing organizations. Contractors were given the option
    :local: 
    :depth: 1
    :backlinks: none
+   :class: boxed
 
 Organization size
 -----------------
@@ -3750,6 +3754,7 @@ Who makes up the Write the Docs community? The questions in this section on resp
    :local: 
    :depth: 1
    :backlinks: none
+   :class: boxed
 
 Age group
 ---------
