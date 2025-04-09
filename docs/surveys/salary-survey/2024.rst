@@ -1851,6 +1851,7 @@ As in previous years, salaries for those working part-time hours (less than 30 p
    :local: 
    :depth: 1
    :backlinks: none
+   :class: boxed
 
 .. container:: note
 
