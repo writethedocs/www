@@ -112,7 +112,7 @@ Without further ado, let's look at the findings!
 
 .. tip::
 
-   **In a hurry?** Jump straight to `Median salary`_ or `Median contract rate`_.
+   **In a hurry?** Jump straight to `Median salary`_ or `Median rates`_.
 
 .. container:: note
 
@@ -2902,6 +2902,9 @@ Contractor respondents were paid in 15 different currencies. To make comparisons
    +------------------------------+------------+---------+---------+
    | Sri Lankan Rupee (LKR)       |     0.0033 | 1       | 1.1%    |
    +------------------------------+------------+---------+---------+
+
+Median rates
+~~~~~~~~~~~~
 
 In previous years, we asked contractor respondents to enter multiple rates, if appropriate, and a number did so. This year, although the form allowed multiple rates to be entered, no respondents entered more than one type of rate.
 
