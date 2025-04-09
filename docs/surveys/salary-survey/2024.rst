@@ -2669,7 +2669,7 @@ While the 2024 survey results include more contractor data than in any previous 
 
 .. contents:: In this section
    :local: 
-   :depth: 2
+   :depth: 1
    :backlinks: none
    :class: boxed
 
