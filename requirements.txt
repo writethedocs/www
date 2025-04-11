@@ -7,7 +7,7 @@ sphinx_autobuild==2021.3.14
 myst-parser==0.18.0
 
 # Blogging
-ablog==0.10.31  # pyup: ignore
+ablog==0.11.10  # pyup: ignore
 
 # Sphinx (checked with 4.3) requires docutils=<0.18
 docutils==0.17.1   # pyup: <0.18
