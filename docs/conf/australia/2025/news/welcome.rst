@@ -16,12 +16,12 @@ The conference will take place during day time in AEDT_.
 
 .. _AEDT: https://time.is/AEDT
 
-Why are we going back to a virtual event?
-------------------------------------------
-
 We are running a **virtual event** this year, a bit of a change from our onsite event last year in 2024.
 We make this very difficult decision with the understanding that it will disappoint some of you.
 We also make this decision with the knowledge that it will relieve some of you from stress or anxiety of onsite events.
+
+Why are we going back to a virtual event?
+------------------------------------------
 
 A lot of this has to do with the fact that ours is a very unique event in this region, and we recognise the need to make it accessible to folks in our geographies to attend.
 Last year, while we had a very successful onsite event, we did not get the numbers we were hoping to get, and a lot of folks from other countries in our part of the world missed out due to various reasons.
