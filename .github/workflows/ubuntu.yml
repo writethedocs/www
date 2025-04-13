@@ -29,7 +29,7 @@ jobs:
       with:
         path: ${{ env.pythonLocation }}
         key: v2-${{ env.pythonLocation }}-${{ hashFiles('requirements.txt') }}
-        
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip wheel
@@ -38,7 +38,7 @@ jobs:
     - name: Build
       run: |
         cd docs
-        sphinx-build -q -W -b dirhtml -d _build/doctrees . _build/html
+        make html
         cd ../
 
     # Upload performance is awful on the many small files our build generates,
@@ -59,11 +59,11 @@ jobs:
       with:
         ruby-version: '3.4'
         bundler-cache: true
-        
+
     - name: Install Ruby dependencies
       run: bundle install
-        
-    # TODO: Look into why we need to ignore archive/tag/index    
+
+    # TODO: Look into why we need to ignore archive/tag/index
     - name: Check links
       if: success()
       run:  |
