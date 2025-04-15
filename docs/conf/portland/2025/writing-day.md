@@ -162,7 +162,7 @@ Join the MongoDB docs and design teams for a dual-purpose documentation research
 *Why participate?*
 
 * Join us to experience professional product research in action.
-* Leave with the knowledge and materials to facilitate youur own documentation research project.
+* Leave with the knowledge and materials to facilitate your own documentation research project.
 
-Your participation helps MongoDB better understand our own docs’ strengths and weaknesses. It also gives us the opportunity to share how you can facilitate your own documentation research project. We appreciate your help in making our documentation the best that it can be.
+Your participation helps the MongoDB team better understand the MongoDB docs’ strengths and weaknesses. It also gives MongoDB team the opportunity to share how you can facilitate your own documentation research project. We appreciate your help in making the MongoDB documentation the best that it can be.
 
