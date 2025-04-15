@@ -148,7 +148,7 @@ The [Write the Docs Salary Survey](https://writethedocs.org/surveys/) has been r
 
 Our goal for Writing Day is to improve the clarity, inclusivity, neutrality and relevance of the [questions, instructions, and general flow of the survey](https://github.com/writethedocs/salary-survey?tab=readme-ov-file#write-the-docs-annual-documentation-salary-survey).
 
-### Research the Docs!
+### Research the Docs! (Sponsor session)
 
 Project organizer: Kyle Rollins, he/him. Project session: All day.
 
