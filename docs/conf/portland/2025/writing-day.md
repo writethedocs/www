@@ -147,3 +147,22 @@ We want every writer to be confident in their docs. Come by our table, and we’
 The [Write the Docs Salary Survey](https://writethedocs.org/surveys/) has been running annually since 2019, with the goal of identifying appropriate salary ranges and providing a basis for pay negotiations.
 
 Our goal for Writing Day is to improve the clarity, inclusivity, neutrality and relevance of the [questions, instructions, and general flow of the survey](https://github.com/writethedocs/salary-survey?tab=readme-ov-file#write-the-docs-annual-documentation-salary-survey).
+
+### Research the Docs!
+
+Project organizer: Kyle Rollins, he/him. Project session: All day.
+
+Join the MongoDB docs and design teams for a dual-purpose documentation research project. 
+
+*What is this?* 
+
+* An opportunity to work with a product designer on a research activity.
+* Learn how to give qualitative feedback using MongoDB documentation.
+
+*Why participate?*
+
+* Join us to experience professional product research in action.
+* Leave with the knowledge and materials to facilitate youur own documentation research project.
+
+Your participation helps MongoDB better understand our own docs’ strengths and weaknesses. It also gives us the opportunity to share how you can facilitate your own documentation research project. We appreciate your help in making our documentation the best that it can be.
+
