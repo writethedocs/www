@@ -72,9 +72,9 @@ MONDAY
 TUESDAY
 ~~~~~~~
 
-- 8:00am-8:30am: Morning Speaker tech checks at main stage
-- 9:00-12:05pm: Speaker Talks
-- 12:05-12:25pm: Afternoon Speaker tech checkss at main stage
+- 7:45am-8:10am: Morning Speaker tech checks at main stage
+- 8:30-11:25pm: Speaker Talks
+- 11:35-12:25pm: Afternoon Speaker tech checkss at main stage
 - 2:00-3:50pm: Afternoon Speaker Talks
 
 Speaking Tips
