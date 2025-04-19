@@ -1,0 +1,202 @@
+name: Australia
+shortcode: australia
+year: 2025
+city: Melbourne
+local_area: Australia
+area: Australia
+area_adj: Australian
+tz: AEDT
+email: australia@writethedocs.org
+color: green
+rgb: 61, 217, 74
+hex: 3dd94a
+time_format: 12h
+
+photos:
+  default:
+    - _static/conf/images/headers/2025/aus/au24-attendees.jpg
+    - _static/conf/images/headers/2025/aus/au24-crowd.jpg
+    - _static/conf/images/headers/2025/aus/au24-team.jpg
+    - _static/conf/images/headers/2025/aus/au24-speakers.jpg
+  index:
+    - _static/conf/images/pics/writing-day.jpg
+    - _static/conf/images/pics/au24-reg.jpg
+
+buttons:
+  top:
+     - text: Read our latest news
+       link: /news/welcome
+  #   - text: Sponsor us
+  #     link: /sponsors/prospectus
+  #   - text: Submit a Talk
+  #     link: /cfp
+  #   - text: Date and ticket information
+  #     link: /news/announcing-virtual-conf-dates-tickets
+  #   - text: Read our conference guide
+  #     link: /welcome-wagon
+  #  - text: See the Schedule!
+  #    link: /schedule
+  #  - text: Tickets
+  #    link: /tickets
+  #  - text: See the talks!
+  #    link: /speakers
+  #  - text: See the Schedule!
+  #    link: /schedule
+  #  - text: Read our guide
+  #    link: /welcome-wagon
+  #  - text: Watch the Live Stream
+  #    link: /livestream
+  #  - text: Watch the videos!
+  #    link_absolute: https://www.youtube.com/playlist?list=PLy70RNJ7dYrJR66QtoHmTWSqm4iAlmH-m
+  #  - text: Thanks for coming
+  #    link: /news/thanks-recap
+  bottom:
+    - text: Welcome to the conference
+      link: /news/welcome
+  #  - text: Sponsor us
+  #    link: /sponsors/prospectus
+  #  - text: Submit a Talk
+  #    link: /cfp
+  #   - text: See the Schedule!
+  #     link: /schedule
+  #   - text: Date and ticket information
+  #     link: /news/announcing-virtual-conf-dates-tickets
+  #   - text: See the talks!
+  #     link: /speakers
+  #  - text: Tickets
+  #    link: /tickets
+  #   - text: Read our guide
+  #     link: /welcome-wagon
+  #   - text: See the schedule!
+  #     link: /schedule
+  #    - text: Watch the Live Stream
+  #     link: /livestream
+  #   - text: Browse the photos
+  #     link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720313823452/
+  #   - text: Watch the videos!
+  #     link_absolute: https://www.youtube.com/playlist?list=PLy70RNJ7dYrJR66QtoHmTWSqm4iAlmH-m
+
+tickets:
+  corporate:
+    price: $350
+  independent:
+    price: $250
+  student:
+    price: $100
+
+sponsorship:
+  first_draft:
+    price: $1,500
+  second_draft:
+    price: $2,500
+  publisher:
+    price: $5,000
+  patron:
+    price: $8,500
+  keystone:
+    price: $13,500
+
+shirts:
+  url: https://shirt.writethedocs.org/
+  ends: "Dec 31, 2025"
+
+date: # how do we handle these? human readable would be nice.
+  main: "**November 20-21, 2025**"
+  short: Nov 20-21, 2025
+  tickets_live: "July 2025"
+  month: November
+
+# Conference is special for the index to show the combined conference days
+  conference:
+    event: Speaker talks
+    date: November 20-21
+    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience.
+    icon: conference
+
+# summary: The main days of the conference. We will be running one main track, and an Unconference.
+  # These are listed in the schedule
+  day_one:
+    event: Conference Day 1
+    date: November 20
+    summary: Day 1 of the event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
+    dotw: Thursday
+    talk_time: 12:30-18:30
+    unconference_time: 14:00-17:00
+    social_time: 18:30pm-20:00pm
+    icon: conference
+  day_two:
+    event: Conference Day 2
+    date: November 21
+    summary: And the conference goes on! We are already starting to miss you.
+    dotw: Friday
+    talk_time: 12:30-18:00
+    unconference_time: 14:00-17:00
+    icon: conversation
+  total_talk_days: 2
+
+about:
+  attendees: 150
+  summary:
+    "The main presentation track takes place during **November 20-21 (Thursday and Friday) from 12:30pm to 18:30pm AEDT**.
+    During the main event we also run an :doc:`/conf/australia/2025/unconference`."
+
+  social_venue: TBD
+  venue: Online
+  photos: TBD
+  mainroom: "Video area"
+  unconfroom: "Chat area"
+  projector_ratio: "16:9"
+  job_fair_room: "Sponsor area"
+
+cfp:
+  url: https://pretalx.com/wtd-australia-2025/cfp # Open June 19, 2024, 10 weeks to submit
+  ends: "August 30, 2025"              # 2 weeks to review and get confirmations
+  notification: "September 14, 2025"   # 10 weeks to write and prepare
+  slides_by: "November 14, 2025"       # 1 week before
+  preview: "TODO"                      # Preview URL TODO
+
+unconf:
+  url: https://bit.ly/wtd-au-2025
+  date: "Thursday and Friday after the morning tea break"
+
+
+grants:
+  url: https://forms.gle/W51eYRFvb6dzom4t6
+  ends: "October 1, 2025"
+  notification: "October 15, 2025"
+
+
+sponsors:
+  keystone:
+  patron:
+  publisher:
+  second:
+  first:
+  in_kind:
+    - name: rtd
+      link: https://readthedocs.com/
+      brand: Read the Docs
+
+# Things that change over time, listed in order of change
+flaglanding: True
+flaghassponsors: False
+flagcfp: False
+flagticketsonsale: False
+flagsoldout: False
+flagspeakersannounced: False
+flagrunofshow: False
+flaghasschedule: False
+flaghasunconf: False
+flaghasshirts: False
+flagvideos: False
+flaglivestreaming: False
+flagpostconf: False
+flagcancelled: False
+
+# Truthy things that don't change
+flaghashike: False
+flaghasfood: False
+flaghasboat: False
+flaghaswritingday: False
+flaghasjobfair: False
+flaghasbadgeflair: False
