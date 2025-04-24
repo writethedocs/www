@@ -108,13 +108,16 @@ writing_day:
 sponsors:
   keystone: []
   patron: []
-  publisher: []
+  publisher:
+    - name: mcm
+      link: https://mcmstudy.org/
+      brand: Masters in Communication and Media
   second: []
   first: []
   in_kind: []
 
 flaglanding: True
-flaghassponsors: False
+flaghassponsors: True
 flagcfp: False
 flagticketsonsale: False
 flagsoldout: False
