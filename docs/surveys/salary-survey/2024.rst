@@ -1088,6 +1088,18 @@ There was only one "other" response for salary decrease, representing a potentia
 
 .. raw:: html
 
+   <figure>
+      <object role="img" aria-label="Salary decrease reasons - employees" aria-describedby="figure_salary-decrease-reasons-employees_desc" type="image/svg+xml" data="/_images/2024-salary-decrease-employees.svg">
+         <p id="figure_salary-decrease-reasons-employees_desc">Vertical bar chart showing reasons for employee salary decreases in 2024.</p>
+      </object>
+      <figcaption>Figure: Employee salary decrease reasons</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-salary-decrease-employees.svg
+   :class: hide
+
+.. raw:: html
+
    </div></div>
 
 Reasons for contract earnings increase or decrease
