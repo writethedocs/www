@@ -1,0 +1,50 @@
+<svg viewBox="0 40 660 205" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+	<defs>
+	
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2024-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+  <g id="2024-earnings-change-contractors">
+
+    <g class="title">
+      <text font-size="14"><tspan x="40" y="33">Earnings change&#10;</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Contractors</tspan></text>
+    </g>
+
+    <g class="donut-chart">
+
+      <g class="slices">
+        <path d="M488.597 230C488.612 192.846 474.832 157.009 449.928 129.437C425.024 101.865 390.771 84.521 353.807 80.7672L344.717 170.27C359.503 171.772 373.205 178.709 383.166 189.738C393.128 200.767 398.64 215.102 398.634 229.963L488.597 230Z" fill="#00AEFF" stroke="white" stroke-width="2.72616"/>
+        <path d="M353.657 80.7522C324.433 77.814 294.989 83.5238 268.981 97.1729C242.974 110.822 221.548 131.809 207.363 157.529L286.14 200.975C291.814 190.687 300.384 182.292 310.788 176.833C321.191 171.373 332.968 169.089 344.658 170.264L353.657 80.7522Z" fill="#7EA4FF" stroke="white" stroke-width="2.72616"/>
+        <path d="M207.29 157.66C195.132 179.758 188.744 204.567 188.719 229.789L278.682 229.879C278.692 219.79 281.247 209.867 286.111 201.027L207.29 157.66Z" fill="#C595FF" stroke="white" stroke-width="2.72616"/>
+      </g>
+
+      <g class="pointers">
+        <path d="M491.375 104C485.32 104 461.968 130.867 460.171 132.933L458.375 135" stroke="#00AEFF" stroke-dasharray="1 3"/>
+        <path d="M181.5 104C193.371 104 222.083 122.2 224.291 123.6L226.5 125" stroke="#7EA4FF" stroke-dasharray="1 3"/>
+        <path d="M147.375 182C153.541 182 184.597 192.4 186.986 193.2L189.375 194" stroke="#C595FF" stroke-dasharray="1 3"/>
+      </g>
+
+      <g class="value-labels-inner">
+
+      </g>
+
+      <g class="value-labels-outer">
+        <text font-size="10"><tspan x="496.375" y="105.384">Increase: 47%&#x200b;</tspan></text>
+        <text font-size="10"><tspan x="88.375" y="108.384">No change: 37%&#x200b;</tspan></text>
+        <text font-size="10"><tspan x="64.375" y="185.384">Decrease: 16%&#x200b;</tspan></text>
+      </g>
+
+    </g>
+
+  </g>
+
+</svg>
+
+

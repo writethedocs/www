@@ -945,6 +945,18 @@ Among the 94 respondents who had worked on a contract basis, only 46.8% reported
 
 .. raw:: html
 
+   <figure>
+      <object role="img" aria-label="Contractor earnings change" aria-describedby="figure_earnings-change-contractors_desc" type="image/svg+xml" data="/_images/2024-earnings-change-contractors.svg">
+         <p id="figure_earnings-change-contractors_desc">Donut chart showing contractors reporting earnings increase, decrease or no change in the past year</p>
+      </object>
+      <figcaption>Figure: Contractor earnings change</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-earnings-change-contractors.svg
+   :class: hide
+
+.. raw:: html
+
    </div></div>
 
 Reasons for salary increase or decrease
@@ -1036,6 +1048,18 @@ There was only one "other" response for salary decrease, representing a potentia
    +--------------------+-----+-------+
    | Bonus              | 1   | 0.2%  |
    +--------------------+-----+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Salary increase reasons - employees" aria-describedby="figure_salary-increase-reasons-employees_desc" type="image/svg+xml" data="/_images/2024-salary-increase-employees.svg">
+         <p id="figure_salary-increase-reasons-employees_desc">Vertical bar chart showing reasons for employee salary increases in 2024.</p>
+      </object>
+      <figcaption>Figure: Employee salary increase reasons</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-salary-increase-employees.svg
+   :class: hide
 
 .. raw:: html
 
@@ -1154,6 +1178,18 @@ Two new options were added to the reasons for earnings decrease, based on respon
    +-----------------------------+-----+-------+
    | Promotion                   | 1   | 1.6%  |
    +-----------------------------+-----+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Earnings increase reasons - contractors" aria-describedby="figure_earnings-increase-reasons-contractors_desc" type="image/svg+xml" data="/_images/2024-earnings-increase-contractors.svg">
+         <p id="figure_earnings-increase-reasons-contractors_desc">Vertical bar chart showing reasons for contractor earnings increases in 2024.</p>
+      </object>
+      <figcaption>Figure: Contractor earnings increase reasons</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-earnings-increase-contractors.svg
+   :class: hide
 
 .. raw:: html
 

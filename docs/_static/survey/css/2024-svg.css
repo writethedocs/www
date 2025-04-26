@@ -38,10 +38,14 @@
 	}
 }
 
-.value-labels, .value-labels-outer text {
+.value-labels, .value-labels-outer text, .value-labels-inner text {
 	fill: var(--color-text-dark);
 	font-family: var(--font);
 	font-weight: 400;
+}
+
+.value-labels-inner text {
+	fill: #FFF;
 }
 
 .bars {
