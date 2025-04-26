@@ -68,7 +68,6 @@
 .. raw:: html
 
    <nav role="navigation" aria-label="Table of contents" class="main-toc">
-   <!-- TODO: toc expand on scroll -->
 
 .. contents:: Table of contents
    :depth: 3
@@ -107,8 +106,6 @@ Introduction
 ============
 
 This sixth incarnation of the Write the Docs Salary Survey drew **779 responses from documentarians in 55 countries**. As always, we are impressed by the skills, experience and diversity of the Write the Docs community, and are grateful to everyone who took the time to fill out the survey and share it with their co-workers.
-
-Without further ado, let's look at the findings!
 
 .. tip::
 
@@ -182,7 +179,7 @@ As in previous surveys, employees made up the majority of respondents (686, or 8
 For the first time this year, we included a third option - for respondents who had worked in the past year as both employee and contractor. 28 respondents (3.6%) chose this option, and provided both salary and contract rate data. This means that in total there are 714 employee responses and 94 contractor responses (the highest number of contractor responses yet).
 
 .. table:: Basis of employment (2019-2024)
-   :widths: 76 20 20
+   :widths: 30 35 35
    :name: tbl-2024-basis-of-employment-history
    :class: sortable col2right col3right
 
@@ -259,8 +256,20 @@ For the first time this year, no respondents reported working more than 60 hours
    +--------------+-----+-------+
    | 51-60 hours  | 17  | 2.2%  |
    +--------------+-----+-------+
-   | 1-20 hours   | 16  | 2.1%  |
+   | 1-20 hours   | 15  | 2.1%  |
    +--------------+-----+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Weekly hours worked (2024)" aria-describedby="figure_hours-worked_desc" type="image/svg+xml" data="/_images/2024-hours-worked.svg">
+         <p id="figure_hours-worked_desc">Horizontal bar chart showing weekly hours worked</p>
+      </object>
+      <figcaption>Figure: Weekly hours worked (2024)</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-hours-worked.svg
+   :class: hide
 
 Job title
 ---------
@@ -349,16 +358,16 @@ As in previous years, the most widely used exact title was "Technical Writer", r
 
 .. raw:: html
 
-   </div></div>
-
-.. raw:: html
-
+   </div>
+   
    <figure>
       <object role="img" aria-label="Job title word cloud" aria-describedby="figure_job-title-word-cloud_desc" type="image/svg+xml" data="/_images/2024-job-title-word-cloud.svg">
          <p id="figure_job-title-word-cloud_desc">Word cloud showing relative weights of job title keywords</p>
       </object>
       <figcaption>Figure: Job title word cloud</figcaption>
    </figure>
+   
+   </div>
 
 .. figure:: images/2024/2024-job-title-word-cloud.svg
    :class: hide
@@ -681,6 +690,19 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
 
 .. raw:: html
 
+   <!-- CHART: chart for "time in current role" -->
+   <figure>
+      <object role="img" aria-label="Length of time in current role at current organization" aria-describedby="figure_length-of-time-in-current-role_desc" type="image/svg+xml" data="/_images/2024-time-in-role-employees.svg">
+         <p id="figure_length-of-time-in-current-role_desc">Length of time in current role (at current organization - employee respondents who have changed roles at the same organization were instructed to specify the length of time they had been in their current role only, not the total length of time at the organization)</p>
+      </object>
+      <figcaption>Figure: Length of time in current role (employees)</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-time-in-role-employees.svg
+   :class: hide
+
+.. raw:: html
+
    </div><div class="tab__content">
 
 .. table:: Length of time contracting - contractors
@@ -704,16 +726,19 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
 
 .. raw:: html
 
-   <!-- CHART: chart for "time in current role" -->
    <figure>
-      <object role="img" aria-label="Length of time in current role at current organization" aria-describedby="figure_length-of-time-in-current-role_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
-         <p id="figure_length-of-time-in-current-role_desc">Length of time in current role (at current organization - employee respondents who have changed roles at the same organization were instructed to specify the length of time they had been in their current role only, not the total length of time at the organization)</p>
+      <object role="img" aria-label="Length of time contracting" aria-describedby="figure_length-of-time-contracting_desc" type="image/svg+xml" data="/_images/2024-time-in-role-contractors.svg">
+         <p id="figure_length-of-time-contracting_desc">Length of time contracting</p>
       </object>
-      <figcaption>Figure: Length of time in current role</figcaption>
+      <figcaption>Figure: Length of time contracting</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-placeholder.svg
+.. figure:: images/2024/2024-time-in-role-contractors.svg
    :class: hide
+
+.. raw:: html
+
+   </div></div>
 
 Proportion of role related to documentation
 -------------------------------------------
@@ -886,6 +911,18 @@ Among the 94 respondents who had worked on a contract basis, only 46.8% reported
    +-------------------+------+-------+
    | |3| Decrease      | 19   | 2.7%  |
    +-------------------+------+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Employee salary change" aria-describedby="figure_employee-salary-change_desc" type="image/svg+xml" data="/_images/2024-salary-change-employees.svg">
+         <p id="figure_employee-salary-change_desc">Donut chart showing employees reporting salary increase, decrease or no change in the past year</p>
+      </object>
+      <figcaption>Figure: Employee salary change</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-salary-change-employees.svg
+   :class: hide
 
 .. raw:: html
 
@@ -3435,7 +3472,7 @@ Pay transparency
 
    Pay transparency was first included in the 2022 survey. Due to feedback from contractors in this first year, pay transparency questions were only shown to employee respondents in 2023. However, as some contractors work long-term contracts for single clients in the manner of regular employees, pay transparency may still be relevant.
 
-   In 2024, we moved the pay transparency questions to the "organization demographics" section. Contractors were given the option of filling out this section or skipping it, depending on whether they deemed it relevant to their situation or not. The question about the legal requirement for pay transparency in the organization's location was also added.
+   In 2024, we moved the pay transparency questions from the employee salary section to the organization demographics section, as it's organization-related. Contractors were given the option of filling out this section or skipping it, depending on whether they deemed it relevant to their situation or not. The question about the legal requirement for pay transparency in the organization's location was also added.
 
 .. raw:: html
 
@@ -3460,7 +3497,7 @@ We asked for the first time in 2024 if respondents were aware of the legal requi
 
 .. raw:: html
 
-   <div class="tab-wrap"><input type="radio" id="tabGa1-1" name="tabGroupGa1" class="tab" checked tabindex="0"><label for="tabGa1-1">Policy</label><input type="radio" id="tabGa1-2" name="tabGroupGa1" class="tab"><label for="tabGa1-2">Legal requirements</label><div class="tab__content">
+   <div class="tab-wrap"><input type="radio" id="tabGa1-1" name="tabGroupGa1" class="tab" checked tabindex="0"><label for="tabGa1-1">Policy</label><input type="radio" id="tabGa1-2" name="tabGroupGa1" class="tab"><label for="tabGa1-2">Legal requirement</label><div class="tab__content">
 
 .. table:: Pay transparency policy
    :widths: 70 15 15
@@ -3532,18 +3569,18 @@ The majority of respondents reported that there was not a culture of sharing sal
 
    <!-- CHART: Pay transparency culture -->
 
-Attitudes towards pay transparency
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Support for pay transparency
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 76% of respondents were supportive of pay transparency, with 46.8% expressing strong support. Those in opposition were in the minority (4.5%).
 
-.. table:: Attitudes towards pay transparency
+.. table:: Support for pay transparency
    :widths: 70 15 15
-   :name: tbl-2024-attitudes-pay-transparency
+   :name: tbl-2024-support-pay-transparency
    :class: std3col sortable
 
    +----------------------------+-----+-------+
-   | Attitude                   | |N| | |%|   |
+   | Lavel of support           | |N| | |%|   |
    +============================+=====+=======+
    | |1| Strongly support       | 361 | 46.8% |
    +----------------------------+-----+-------+
@@ -3558,7 +3595,7 @@ Attitudes towards pay transparency
 
 .. raw:: html
 
-   <!-- CHART: Pay transparency attitudes -->
+   <!-- CHART: Pay transparency support -->
 
 Organization origin and location
 --------------------------------

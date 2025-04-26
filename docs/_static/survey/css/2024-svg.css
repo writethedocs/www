@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asap:wdth,wght@75..125,100..900&display=swap');
+
+:root {
+	--color-text-dark: #50514F;
+	--color-text-light: #999999;
+	--color-grid: #F2F4F6;
+	--color-series-a: #00AEFF;
+	--color-series-b: #FFA600;
+	--font: "Asap", sans-serif;
+}
+
+.title {
+	display: none;
+	fill: var(--color-text-dark);
+	font-family: var(--font);
+	font-weight: 500;
+	.subtitle {
+		fill: var(--color-text-light);
+		font-weight: 400;
+	}
+}
+
+.gridlines {
+	stroke: var(--color-grid);
+	stroke-width: 1;
+}
+
+.axis-labels {
+	fill: var(--color-text-dark);
+	font-family: var(--font);
+	font-weight: 400;
+}
+
+.y-axis {
+	.axis-labels {
+		fill: var(--color-text-light);
+	}
+}
+
+.value-labels, .value-labels-outer text {
+	fill: var(--color-text-dark);
+	font-family: var(--font);
+	font-weight: 400;
+}
+
+.bars {
+	fill: var(--color-series-a);
+	fill-opacity: 0.8;
+}
+
+.bars path:hover {
+	filter: brightness(1.2);
+}
+
+/*
+.bar-chart-vertical {
+
+	.data-series {
+
+		.value-labels-outer text {
+			fill: var(--text-1);
+			font-size: var(--font-size-0);
+		}
+
+		.a {
+			
+			.axis-labels {
+				fill: var(--text-1);
+				font-size: var(--font-size-0);
+			}
+
+			.bars {
+				fill: var(--series-a);
+				fill-opacity: 0.8;
+			}
+
+			.bars path:hover {
+				filter: brightness(1.2);
+			}
+
+			.value-labels text{
+				fill: var(--surface-1-light);
+				font-size: var(--font-size-0);
+			}
+
+			.value-labels.transform text{
+				fill: var(--surface-1-light);
+				transform: translateY(2rem);
+				font-size: var(--font-size-0);
+			}
+
+		}
+
+		.b {
+			
+			.axis-labels {
+				fill: var(--text-1);
+				font-size: var(--font-size-0);
+			}
+
+			.bars {
+				fill: var(--series-b);
+				fill-opacity: 0.8;
+			}
+
+			.bars path:hover {
+				filter: brightness(1.2);
+			}
+
+			.value-labels text {
+				fill: var(--surface-1-light);
+				font-size: var(--font-size-0);
+			}
+
+			.value-labels.transform text {
+				fill: var(--surface-1-light);
+				transform: translateY(2rem);
+				font-size: var(--font-size-0);
+			}
+
+			.external-labels text {
+				fill: var(--text-1);
+				font-size: var(--font-size-0);
+			}
+
+		}
+
+	}
+
+}
+
+.bar-chart-horizontal {
+
+	.data-series {
+
+		.a {
+			
+			.axis-labels text{
+				fill: var(--text-contrast);
+				font-size: var(--font-size-0);
+			}
+
+			.bars {
+				fill: var(--series-a);
+				fill-opacity: 0.8;
+			}
+
+			.bars path:hover {
+				filter: brightness(1.2);
+			}
+
+			.value-labels text{
+				fill: var(--text-contrast);
+				font-size: var(--font-size-0);
+			}
+
+		}
+
+	}
+
+	.data-series-stacked {
+
+		.a {
+			
+			.axis-labels text{
+				font-size: var(--font-size-0);
+			}
+
+			.value-labels text{
+				font-size: var(--font-size-0);
+			}
+
+		}
+
+	}
+
+}
+
+.donut-chart {
+
+	.slices path {
+		stroke: white;
+		stroke-width: 2;
+		fill-opacity: 0.8;
+	}
+
+	.slices path:hover {
+		filter: brightness(1.2);
+	}
+
+	.value-labels-inner text{
+		fill: var(--text-contrast);
+		font-size: var(--font-size-0);
+	}
+
+	.value-labels-outer text{
+		fill: var(--text-1);
+		font-size: var(--font-size-0);
+	}
+
+}
+
+.legend text {
+	font-size: var(--font-size-0);
+	fill: var(--text-1);
+}
+
+*/
