@@ -3580,7 +3580,7 @@ Support for pay transparency
    :class: std3col sortable
 
    +----------------------------+-----+-------+
-   | Lavel of support           | |N| | |%|   |
+   | Level of support           | |N| | |%|   |
    +============================+=====+=======+
    | |1| Strongly support       | 361 | 46.8% |
    +----------------------------+-----+-------+
