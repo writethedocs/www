@@ -57,9 +57,14 @@ There are wonderful hotels located within two miles of the venue. Many of these 
 
 Snacks and beverages are included in the conference with your ticket.
 
-Lunch and dinners are on your own and an opportunity to connect with attendees. For those with specific dietary needs, Portland has inclusive and accommodating options. **NEW this year, we will be bringing two food cart options to the venue Monday and Tuesday lunch for those who want to stay close.**
+Lunch and dinners are on your own and an opportunity to connect with attendees. For those with specific dietary needs, Portland has inclusive and accommodating options.
 
-For those who want to explore Portland's vibrant food and beverage scene, below are destinations near the venue. Be sure to confirm hours of service before venturing out!
+### Food Carts at Revolution Hall
+
+**Lunch only (Monday and Tuesday 11:30am-2pm)**
+
+- [Let's Roll](https://www.letsrollpdx.com/)
+- [Nacho's House](https://nachospdx.com/)
 
 ### Food near Revolution Hall (within a 10-minute walk)
 
@@ -88,7 +93,6 @@ For those who want to explore Portland's vibrant food and beverage scene, below 
 - [Snappy's](https://www.makeitsnappys.com/) - sandwiches
 - [Cartopia](https://www.cartopiafoodcarts.com/) - food cart
 - [Hawthorne Asylum Food Pod](https://www.yelp.com/biz/hawthorne-asylum-portland)
-- [Sizzle Pie](https://www.sizzlepie.com/) - pizza
 - [The Paper Bridge](https://www.thepaperbridgepdx.com/) - Vietnamese, closed Tuesday
 - [Fire on the Mountain](https://www.portlandwings.com/) - wings
 - [Afuri Izakaya](https://afuri.us/) - Japanese, dinner only, great ramen, often a wait

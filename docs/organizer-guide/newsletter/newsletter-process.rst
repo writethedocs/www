@@ -103,28 +103,15 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
    From our sponsor
    ----------------
 
-   This month’s newsletter is sponsored by SPONSOR:
+   This month’s newsletter is sponsored by `SPONSOR NAME <SPONSOR LINK>`_.
 
-   .. raw:: html
+   .. image:: /_static/img/sponsors/SPONSOR.png
+     :align: center
+     :width: 50%
+     :target: SPONSOR LINK
+     :alt: SPONSOR NAME logo
 
-       <hr>
-       <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
-         <tbody>
-           <tr>
-             <td width="75%">
-                 <p>
-                 CONTENT
-                 </p>
-             </td>
-             <td width="25%">
-               <a href="https://www.LINK.COM">
-                 <img style="margin-left: 15px;" alt="SPONSOR" src="/_static/img/sponsors/rtd.png">
-               </a>
-             </td>
-           </tr>
-         </tbody>
-       </table>
-       <hr>
+   SPONSOR COPY
 
    *Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
 
@@ -135,13 +122,13 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
 
    `JOB TITLE <JOB LINK>`__, COMPANY - *LOCATION*
 
-   *Interested in promoting your open position? See our `job posting sponsorship </sponsorship/jobs/>`__ for more details.*
+   *Interested in promoting your open position? See our* `job posting sponsorship </sponsorship/jobs/>`__ *for more details.*
  
    ------------------------
    Write the Docs resources
    ------------------------
 
-   Write the Docs offers lots of valuable resources related to documentation. See all of the Write the Docs `learning resources </about/learning-resources/>`__. To discuss any of these ideas or others related to documentation, join the conversation in the `Write the Docs Slack community </slack/>` in one of the many `channels </slack/#channel-guide>`__.
+   Write the Docs offers lots of valuable resources related to documentation. See all of the Write the Docs `learning resources </about/learning-resources/>`__. To discuss any of these ideas or others related to documentation, join the conversation in the `Write the Docs Slack community </slack/>`__ in one of the many `channels </slack/#channel-guide>`__.
 
    ----------------
    Events coming up

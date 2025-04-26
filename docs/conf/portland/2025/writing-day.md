@@ -104,3 +104,79 @@ Writing Day is the perfect opportunity to participate and learn about new projec
 - **View the project list.** Check out the projects that have been submitted in advance. Keep in mind that some attendees choose to announce their projects during Writing Day itself, so these projects might not appear on the list in advance.
 
 **We're excited to have another wonderful Writing Day!**
+
+
+## Project List
+
+### Enhance Your Portfolio! Contribute to an Open Source Repository
+
+Project organizer: Mike Jang, he/him.
+
+While we've open sourced our enterprise [documentation repository](https://github.com/nginx/documentation), we've done something different. We've set up [Good first issues](https://github.com/nginx/documentation/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22) that do not require Git knowledge.
+
+We love all types of contributions. Examples:
+
+- We have not completed our move towards "sentence case" in our headings
+- We are missing alternative text for a few of our screenshots
+
+If you've never used git or if you're already an expert, we welcome your contributions. 
+
+If you're a technical expert, our Good first issues give you the chance to test our how-tos and tutorials! If you remember Manny Silva's [Docs as Tests](https://www.docsastests.com/), several of our Good first issues include testable procedures.
+
+**And we hope to have interesting swag!**
+
+### Docs as Tests and Doc Detective: Help us test your docs!
+
+Project organizer: Manny Silva, he/him. Project session: All day.
+
+[Docs as Tests](https://www.docsastests.com/) and [Doc Detective](https://doc-detective.com/) are back at Writing Day and our goal is to test at least 10 docs sets! Does your project or product have a UI? APIs? SDKs? We can help you test them and keep your docs accurate.
+
+Docs as Tests is a strategy for keeping docs up-to-date by treating procedures and code snippets as testable assertions of product behavior. You have the docs, so let's get testing! By validating that documentation contents work as written, you can:
+
+- Prevent broken docs
+- Ensure consistent UX between docs and products
+- Build user trust
+
+We want every writer to be confident in their docs. Come by our table, and we’ll help you set up Docs as Tests with whatever tools (like Doc Detective) or strategies (like unit testing code snippets) are appropriate. Establish a zero-trust relationship between your docs and product, catching bugs in both as you go.
+
+### Help improve the WTD Salary Survey
+
+* Project organizer: Kay Smoljak, she/her. 
+* Project session: Afternoon.
+
+The [Write the Docs Salary Survey](https://writethedocs.org/surveys/) has been running annually since 2019, with the goal of identifying appropriate salary ranges and providing a basis for pay negotiations.
+
+Our goal for Writing Day is to improve the clarity, inclusivity, neutrality and relevance of the [questions, instructions, and general flow of the survey](https://github.com/writethedocs/salary-survey?tab=readme-ov-file#write-the-docs-annual-documentation-salary-survey).
+
+### Research the Docs! (Sponsor session)
+
+Project organizer: Kyle Rollins, he/him. Project session: All day.
+
+Join the MongoDB docs and design teams for a dual-purpose documentation research project. 
+
+*What is this?* 
+
+* An opportunity to work with a product designer on a research activity.
+* Learn how to give qualitative feedback using MongoDB documentation.
+
+*Why participate?*
+
+* Join us to experience professional product research in action.
+* Leave with the knowledge and materials to facilitate your own documentation research project.
+
+Your participation helps the MongoDB team better understand the MongoDB docs’ strengths and weaknesses. It also gives MongoDB team the opportunity to share how you can facilitate your own documentation research project. We appreciate your help in making the MongoDB documentation the best that it can be.
+
+### Crowdsource the Docs: Help improve Docker's API reference
+
+Project organizer: Sarah Sanders, she/her. Project session: All day.
+
+[Docker’s API Docs](https://github.com/docker/docs/tree/main/content/reference/api) are critical for developers and they could use some TLC! Docker's API docs are a part of our open source offerings. We need your help to crowdsource and implement feedback to improve our API documentation.
+
+Our goal is to work together to make the docs more clear, helpful, and user-friendly.
+
+Here's our plan of action:
+
+* Review the current Docker API pages to identify gaps and UX issues.
+* Brainstorm ways to improve clarity, usefulness, and approachability.
+
+Whether you're great at structuring docs, writing clear examples, identifying pain points, or just love helping others understand complex systems - this project is for you!
