@@ -1236,6 +1236,18 @@ Two new options were added to the reasons for earnings decrease, based on respon
 
 .. raw:: html
 
+   <figure>
+      <object role="img" aria-label="Earnings decrease reasons - contractors" aria-describedby="figure_earnings-decrease-reasons-contractors_desc" type="image/svg+xml" data="/_images/2024-earnings-decrease-contractors.svg">
+         <p id="figure_earnings-decrease-reasons-contractors_desc">Vertical bar chart showing reasons for contractor earnings decreases in 2024.</p>
+      </object>
+      <figcaption>Figure: Contractor earnings decrease reasons</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-earnings-decrease-contractors.svg
+   :class: hide
+
+.. raw:: html
+
    </div></div>
 
 Job or contract search status
