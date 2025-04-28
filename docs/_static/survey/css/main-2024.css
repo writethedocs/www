@@ -29,7 +29,11 @@ html {
   --surface-3-light: var(--stone-3);
   --surface-4-light: var(--stone-4);
   --surface-5-light: var(--stone-5);
-  --shadow: 0 1px 2px -1px hsl(220 40% 2% /calc(25% + 9%));
+  --shadow-color: 200deg 8% 57%;
+  --shadow:
+    0px 1px 1px hsl(var(--shadow-color) / 0.51),
+    0px 1.6px 1.6px -1.7px hsl(var(--shadow-color) / 0.43),
+    0px 4.2px 4.2px -3.3px hsl(var(--shadow-color) / 0.34);
   --icon-external-link: url('data:image/svg+xml,<svg\ xmlns=\"http://www.w3.org/2000/svg\"\ viewBox=\"0\ 0\ 20\ 20\"><g\ style=\"stroke:rgb\(35,82,124\);stroke-width:1\"><line\ x1=\"5\"\ y1=\"5\"\ x2=\"5\"\ y2=\"14\"\ /><line\ x1=\"14\"\ y1=\"9\"\ x2=\"14\"\ y2=\"14\"\ /><line\ x1=\"5\"\ y1=\"14\"\ x2=\"14\"\ y2=\"14\"\ /><line\ x1=\"5\"\ y1=\"5\"\ x2=\"9\"\ y2=\"5\"\ \ /><line\ x1=\"10\"\ y1=\"2\"\ x2=\"17\"\ y2=\"2\"\ /><line\ x1=\"17\"\ y1=\"2\"\ x2=\"17\"\ y2=\"9\"\ /><line\ x1=\"10\"\ y1=\"9\"\ x2=\"17\"\ y2=\"2\"\ style=\"stroke-width:1.5\"\ /></g></svg>');
 }
 
@@ -660,7 +664,7 @@ main {
         font-size: var(--font-size-1);
         font-weight: var(--font-weight-5);
         @media screen and (max-width: 869px) { /* tablet */
-          font-size: var(--font-size-0);
+          /*font-size: var(--font-size-0);*/
         }
       }
     }		
@@ -748,13 +752,12 @@ main {
     }
     &:has(+ figure) { /* table + figure OUTSIDE a tab group */
       margin-bottom: 0;
-      &:after { display: none; }
       + figure {
-        margin: 0 0 0 0;
-        padding: 0 var(--size-6) var(--size-6) var(--size-6);
+        margin: -8px 0 0 0; /* overlap shadow on bottom of table */
+        padding: 8px var(--size-6) var(--size-6) var(--size-6);
         @media screen and (max-width: 869px) { padding: var(--size-2) var(--size-2) var(--size-2) var(--size-2); } /* tablet */
         @media screen and (max-width: 400px) { padding: var(--size-2) var(--size-2) var(--size-2) var(--size-2); } /* mobile */
-        figcaption { padding: var(--size-2) 0 0 0; }        
+        figcaption { padding: var(--size-2) 0 0 0; } 
       }
     } /* end table + figure */
     &:has(a.footnote-reference.brackets) { /* table + footnote */
