@@ -26,7 +26,7 @@ The website is full of wonderful information about the conference, venue, and Po
 
 ## How to Participate in the Conference
 
-- **Hike:** Join us on the hike on Saturday for our unofficial kick off to the conference. Hike is free, but space is limited. [Register with a ticket](https://ti.to/writethedocs/write-the-docs-portland-2025).
+- **Hike:** Join us on the hike on Saturday for our unofficial kick off to the conference. Hike is free, but space is limited. [Register with a ticket](https://ti.to/writethedocs/write-the-docs-portland-2025/with/k-pi4-g8s80).
 - **Writing Day:** We already have five [Writing Day Projects](https://www.writethedocs.org/conf/portland/2025/writing-day/#project-list) that have signed up. Drop in or stay for the entire day, and feel free to bring your own project to collaborate on!
 - **Welcome Reception:** Do not miss our Sunday evening reception! Pick up your badge and enjoy drinks and snacks on us.
 - **Speaker Talks:** Take a look at our schedule and select the talks you want to attend. [View our lineup here](https://www.writethedocs.org/conf/portland/2025/schedule/#monday-may-5). 
