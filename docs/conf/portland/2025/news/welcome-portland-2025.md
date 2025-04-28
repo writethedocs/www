@@ -122,4 +122,4 @@ Thanks to our sponsors for supporting the conference this year. A number of them
    :template: {{year}}/sponsors-simplelist.rst
 ```
 
-Head over to our [sponsorship prospectus](https://www.writethedocs.org/conf/portland/{{year}}/sponsors/prospectus/) for details on how your company can get involved!
+See you soon!
