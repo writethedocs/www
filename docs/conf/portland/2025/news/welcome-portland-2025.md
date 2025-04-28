@@ -110,3 +110,14 @@ Our Quiet Space is on the 3rd floor hallway. This is a less frequented area and 
 **Do you have a Lactation Room?**
 
 Yes, visit Registration to get the location and code.
+
+Thanks To Our Sponsors
+----------------------
+
+Thanks to our sponsors for supporting the conference this year. A number of them will be present on Monday and Tuesday. We hope you get a chance to talk with them while you're here.
+
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-config.yaml
+   :template: {{year}}/sponsors-simplelist.rst
+
+Head over to our `sponsorship prospectus <https://www.writethedocs.org/conf/portland/{{year}}/sponsors/prospectus/>`_ for details on how your company can get involved!
