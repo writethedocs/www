@@ -31,9 +31,10 @@ html {
   --surface-5-light: var(--stone-5);
   --shadow-color: 200deg 8% 57%;
   --shadow:
-    0px 1px 1px hsl(var(--shadow-color) / 0.51),
-    0px 1.6px 1.6px -1.7px hsl(var(--shadow-color) / 0.43),
-    0px 4.2px 4.2px -3.3px hsl(var(--shadow-color) / 0.34);
+    0px 1px 1px hsl(var(--shadow-color) / 0.41),
+    0px 1.6px 1.6px -1.7px hsl(var(--shadow-color) / 0.33),
+    0px 4.2px 4.2px -3.3px hsl(var(--shadow-color) / 0.24);
+  --panel-border: 1px solid rgba(0,0,0,0.05);
   --icon-external-link: url('data:image/svg+xml,<svg\ xmlns=\"http://www.w3.org/2000/svg\"\ viewBox=\"0\ 0\ 20\ 20\"><g\ style=\"stroke:rgb\(35,82,124\);stroke-width:1\"><line\ x1=\"5\"\ y1=\"5\"\ x2=\"5\"\ y2=\"14\"\ /><line\ x1=\"14\"\ y1=\"9\"\ x2=\"14\"\ y2=\"14\"\ /><line\ x1=\"5\"\ y1=\"14\"\ x2=\"14\"\ y2=\"14\"\ /><line\ x1=\"5\"\ y1=\"5\"\ x2=\"9\"\ y2=\"5\"\ \ /><line\ x1=\"10\"\ y1=\"2\"\ x2=\"17\"\ y2=\"2\"\ /><line\ x1=\"17\"\ y1=\"2\"\ x2=\"17\"\ y2=\"9\"\ /><line\ x1=\"10\"\ y1=\"9\"\ x2=\"17\"\ y2=\"2\"\ style=\"stroke-width:1.5\"\ /></g></svg>');
 }
 
@@ -265,6 +266,7 @@ details { /* "What we asked" collapsing details blocks */
   position: relative;
   overflow: hidden;
   border-radius: var(--radius-2);
+  border: var(--panel-border);
   box-shadow: var(--shadow);
   background: var(--surface-00);
   padding: var(--size-4);
@@ -458,6 +460,7 @@ nav.mobile-nav {
   flex-direction: column;
   align-items: flex-start;
   border-radius: var(--radius-2);
+  border: var(--panel-border);
   box-shadow: var(--shadow);
   background: var(--surface-00);
   padding: var(--size-4);
@@ -568,6 +571,7 @@ blockquote.pull-quote { /* pull quotes */
 	margin-bottom: var(--size-8);
 	padding: var(--size-1) var(--size-4) var(--size-2) var(--size-4);	
 	background-color: var(--surface-00);
+  border: var(--panel-border);
 	box-shadow: var(--shadow);
 	border-radius: var(--radius-2);
 	.rubric {
@@ -593,6 +597,7 @@ blockquote.pull-quote { /* pull quotes */
 	padding: 0 var(--size-6);
 	background-color: var(--surface-highlight);
 	border-radius: var(--radius-5);
+  border: var(--panel-border);
 	box-shadow: var(--shadow);
 	justify-content: center;
 	@media screen and (max-width: 869px) { margin: 0; } /* tablet */
@@ -613,6 +618,7 @@ figure {
 	@media screen and (max-width: 400px) { /* mobile */
 		padding: var(--size-2) var(--size-2) var(--size-2) var(--size-2);
 	}
+  border: var(--panel-border);
 	box-shadow: var(--shadow);
 	object {
 		display: block;
@@ -621,6 +627,7 @@ figure {
 		height: auto;
     background-color: var(--surface-0);
     border-radius: var(--radius-2);
+    border: var(--panel-border);
     box-shadow: var(--shadow);
 		& * { max-width: 100%; }
 		p { text-align: center; font-style: italic; }
@@ -656,6 +663,9 @@ main {
     }
     caption {
       border-radius: var(--radius-2) var(--radius-2) 0 0;
+      border-top: var(--panel-border);
+      border-left: var(--panel-border);
+      border-right: var(--panel-border);
       background-color: var(--surface-00);
       text-align: center;
       .caption-text {
@@ -663,9 +673,6 @@ main {
         padding: var(--size-2);
         font-size: var(--font-size-1);
         font-weight: var(--font-weight-5);
-        @media screen and (max-width: 869px) { /* tablet */
-          /*font-size: var(--font-size-0);*/
-        }
       }
     }		
     &::after { /* add box-shadow */
@@ -674,13 +681,14 @@ main {
 			position: absolute; z-index: -1;
 			bottom: 0; left: 0; right: 0; top: 0;
 			border-radius: var(--radius-2);
+      border: var(--panel-border);
 			box-shadow: var(--shadow);
     }
     thead {
 			th {
 				padding: var(--size-2) var(--size-2) var(--size-2) var(--size-2);
         @media screen and (max-width: 869px) { padding: var(--size-1) var(--size-1) var(--size-1) var(--size-1); } /* tablet and mobile */
-				background: var(--surface-2);
+				background: var(--surface-3);
 				text-align: left;
 				border-bottom: 2px solid var(--border-color-2);
 				position: sticky; top: -1px; z-index: 1; /* make all headers sticky */
@@ -692,6 +700,7 @@ main {
     } /* end thead */
     tbody {
 			border-radius: 0 0 var(--radius-2) var(--radius-2);
+      border: var(--panel-border);
 			box-shadow: var(--shadow);
 			td {
 				padding: var(--size-2);
@@ -713,15 +722,11 @@ main {
 				strong { font-weight: var(--font-weight-5); }
 			}
 			tr:nth-child(even) { /* striping */
-				td { 
-					background: var(--surface-1); 
-				} 
+				td { background: var(--surface-2); } 
 				&:hover td { background: var(--surface-highlight); }
 			}
 			tr:nth-child(odd) { /* striping */
-				td { 
-					background: var(--surface-0); 
-				}
+				td { background: var(--surface-0); }
 				&:hover td { background: var(--surface-highlight); }
 			}
     } /* end tbody */
@@ -770,6 +775,7 @@ main {
         top: 0; left: 0; right: 0; bottom: 0;
         background-color: var(--surface-00);
         border-radius: var(--radius-2) var(--radius-2) 0 0;
+        border: var(--panel-border); border-bottom: none;
         box-shadow: var(--shadow);
       }
       &::after { display: none; }
@@ -794,6 +800,7 @@ main {
 		top: 0; left: 0; right: 0; bottom: 0;
 		background-color: var(--surface-00);
 		border-radius: var(--radius-2) var(--radius-2) 0 0;
+    border: var(--panel-border);
 		box-shadow: var(--shadow);
 	}
 	&::after {
@@ -803,6 +810,7 @@ main {
 		background-color: var(--surface-00);
 		border-radius: var(--radius-2) var(--radius-2) 0 0;
 	}
+  border: var(--panel-border);
   box-shadow: var(--shadow);
 	.tab {
 		position: absolute; z-index: -1;	
@@ -885,11 +893,13 @@ main {
 		table { 
       margin: 0 0 var(--size-2) 0; 
       padding: 0 0 0 0;
+      caption { border: none; }
       &:after { display: none; }
       &:has(+ figure) { /* table + figure inside a tab */
         margin-bottom: 0;
         + figure {
           padding: var(--size-6) 0 0 0;
+          border: none;
           @media screen and (max-width: 869px) { padding: var(--size-4) 0 0 0; } /* tablet */
           @media screen and (max-width: 400px) { padding: var(--size-4) 0 0 0; } /* mobile */
         }        
@@ -898,6 +908,7 @@ main {
   } /* end tab__content */
   figure { /* figure inside tab wrap but outside of tab_content */
     box-shadow: none;
+    border: none;
     border-radius: 0 0 var(--radius-2) var(--radius-2);
     margin: 0 0 0 0;
     padding: var(--size-0) var(--size-6) var(--size-6) var(--size-6);
@@ -907,17 +918,19 @@ main {
   } /* end figure outside tab content */
 } /* end tab-wrap */
 
-table:has(+ div.tbl-footnote) { margin-bottom: 0; } /* custom footnotes */
+table:has(+ div.tbl-footnote) { margin-bottom: 0;  } /* custom footnotes */
 .tbl-footnote { margin-bottom: var(--size-8); }
 
 a.footnote-reference.brackets { vertical-align: super; text-decoration: none; } /* built-in footnotes */
 dl.footnote.brackets {
 	margin: 0 auto var(--size-6) auto;
 	display: flex; align-items: baseline;
-	padding: 0 var(--size-6);
+	padding: 7px var(--size-6) 0 var(--size-6);
 	background-color: var(--surface-00);
 	border-radius: 0 0 var(--radius-2) var(--radius-2);
+  border: var(--panel-border); border-top: none;
 	box-shadow: var(--shadow);
+  /*position: relative; top: -7px;*/
 	@media screen and (max-width: 869px) { padding: 0 var(--size-2); } /* tablet and mobile */
 	dt { a { text-decoration: none; } }
 	dd { margin-inline-start: 10px; a { text-decoration: none; } }
