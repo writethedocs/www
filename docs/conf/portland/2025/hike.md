@@ -14,6 +14,16 @@ We will be hiking in the amazing [Forest Park](https://forestparkconservancy.org
 
 It’s rained on us in the past, but we have faith it will be beautiful this year! We will hopefully see Mount Hood at the top :)
 
+<p style="margin: 2em 0;">
+<table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
+<tr>
+  <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
+     <a href="https://ti.to/writethedocs/write-the-docs-portland-2025" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Sign up for the hike with a free ticket</a>
+  </td>
+</tr>
+</table>
+</p>
+
 ## Schedule & Logistics
 
 - **Date: {{ hike.date }}** 
