@@ -111,14 +111,6 @@ Introduction
 
 This sixth incarnation of the Write the Docs Salary Survey drew **779 responses from documentarians in 55 countries**. As always, we are impressed by the skills, experience and diversity of the Write the Docs community, and are grateful to everyone who took the time to fill out the survey and share it with their co-workers.
 
-.. container:: note
-
-   |icon-info|
-
-   .. rubric:: Contractors, freelancers and self-employed people
-
-   We asked those who filled out the survey as independent contractors, freelancers or self-employed people what term they used to describe their type of employment. More than half (63.8%) preferred the term “contractor”, with only 18.1% using “freelancer” and 10.6% using “self-employed”. In this report, we’ll use the term “contractors” to refer to this entire group.
-
 .. tip::
 
    **In a hurry?** Jump straight to `Median salary`_ or `Median rates`_.
@@ -194,6 +186,14 @@ Basis of employment
 .. raw:: html
 
    </details>
+
+.. container:: note
+
+   |icon-info|
+
+   .. rubric:: Contractors, freelancers and self-employed people
+
+   We asked those who filled out the survey as independent contractors, freelancers or self-employed people what term they used to describe their type of employment. More than half (63.8%) preferred the term “contractor”, with only 18.1% using “freelancer” and 10.6% using “self-employed”. In this report, we’ll use the term “contractors” to refer to this entire group.
 
 As in previous surveys, employees made up the majority of respondents (686, or 87.9%). Contractors made up 8.5% (66 individuals).
 
@@ -1451,7 +1451,7 @@ Around half of all employees (51.4%) and half of all contractors (50% exactly) r
       <figcaption>Figure: Job security confidence - employees</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-job-security-confidence-employees.svg
+.. figure:: images/2024/2024-placeholder.svg
    :class: hide
 
 .. raw:: html
@@ -1482,7 +1482,7 @@ Around half of all employees (51.4%) and half of all contractors (50% exactly) r
       <figcaption>Figure: Earnings security confidence - contractors</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-earnings-security-confidence-contractors.svg
+.. figure:: images/2024/2024-placeholder.svg
    :class: hide
 
 .. raw:: html
