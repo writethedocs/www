@@ -250,18 +250,18 @@ Hours worked
 
    </details>
 
-In total 96% of all respondents were working "full time" hours, using the US standard of 30 hours/week as the minimum.  26.2% of all respondents worked "overtime" or in excess of 40 hours a week.
+In total, 95.3% of all respondents worked "full time" hours, using the US standard of 30 hours/week as the minimum. 27% of all respondents worked in excess of 40 hours a week.
 
-- 68.2% worked between 31 and 40 hours
+- 68.3% worked between 31 and 40 hours
 - 24.9% worked between 41 and 50 hours
 - 2.2% worked between 51 and 60 hours
 
 For the first time this year, no respondents reported working more than 60 hours.
 
-4.8% of respondents worked "part time" hours, using the US standard of less than 30 hours/week:
+4.6% of respondents worked "part time" hours, using the US standard of less than 30 hours/week:
 
 - 2.7% worked 21 to 30 hours each week
-- 2.1% worked 1 to 20 hours
+- 1.9% worked 1 to 20 hours
 
 .. table:: Weekly hours worked (2024)
    :widths: 70 15 15
@@ -271,7 +271,7 @@ For the first time this year, no respondents reported working more than 60 hours
    +--------------+-----+-------+
    | Hours        | |N| | |%|   |
    +==============+=====+=======+
-   | 31-40 hours  | 532 | 68.2% |
+   | 31-40 hours  | 532 | 68.3% |
    +--------------+-----+-------+
    | 41-50 hours  | 194 | 24.9% |
    +--------------+-----+-------+
@@ -279,7 +279,7 @@ For the first time this year, no respondents reported working more than 60 hours
    +--------------+-----+-------+
    | 51-60 hours  | 17  | 2.2%  |
    +--------------+-----+-------+
-   | 1-20 hours   | 15  | 2.1%  |
+   | 1-20 hours   | 15  | 1.9%  |
    +--------------+-----+-------+
 
 .. raw:: html
