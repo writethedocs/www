@@ -220,7 +220,7 @@ For the first time this year, we included a third option - for respondents who h
    | 2024 [*]_       | |3| 714 (88.4%) | |6| 94 (11.6%) |
    +-----------------+-----------------+----------------+
 
-.. [*] Includes 66 employee-contractor respondents who are counted twice - once as an employee and once as a contractor
+.. [*] Includes 28 employee-contractor respondents who are counted twice - once as an employee and once as a contractor
 
 As in previous years, we encouraged those currently not working to respond as though still at their previous job/contract, provided they had worked at least some of the past year. 16 employees (2.3%) and 7 contractors (10.6%) filled out the survey on this basis.
 
