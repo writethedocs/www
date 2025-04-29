@@ -250,7 +250,7 @@ Hours worked
 
    </details>
 
-As in previous years, the majority (96%) of respondents worked traditional "full-time" hours each week:
+In total 96% of all respondents were working "full time" hours, using the US standard of 30 hours/week as the minimum.  26.2% of all respondents worked "overtime" or in excess of 40 hours a week.
 
 - 68.2% worked between 31 and 40 hours
 - 24.9% worked between 41 and 50 hours
