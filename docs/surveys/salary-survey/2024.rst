@@ -752,7 +752,7 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
    +------------------------+--------+--------+
    | more than 10 years     | 18     | 19.1%  |
    +------------------------+--------+--------+
-   | 5-10 year              | 18     | 19.1%  |
+   | 5-10 years             | 18     | 19.1%  |
    +------------------------+--------+--------+
    | 2-5 years              | 16     | 17.0%  |
    +------------------------+--------+--------+
@@ -934,7 +934,7 @@ Among the 94 respondents who had worked on a contract basis, only 46.8% reported
 
    <input type="radio" id="tabB22-1" name="tabGroupB22" class="tab" checked tabindex="0"><label for="tabB22-1"><span>Employees</span></label><input type="radio" id="tabB22-2" name="tabGroupB22" class="tab"><label for="tabB22-2">Contractors</label><div class="tab__content">
 
-.. table:: Salary change
+.. table:: Employee salary change
    :widths: 70 15 15
    :name: tbl-2024-salary-change
    :class: std3col sortable
@@ -965,7 +965,7 @@ Among the 94 respondents who had worked on a contract basis, only 46.8% reported
 
    </div><div class="tab__content">
 
-.. table:: Contract earnings change
+.. table:: Contractor earnings change
    :widths: 70 15 15
    :name: tbl-2024-earnings-change
    :class: std3col sortable
@@ -1183,7 +1183,7 @@ Of those contractors reporting an increase in their earnings, 36.5% raised their
 
 Four additional options were added to the reasons for contract earnings increase, based on responses entered by those who selected "Other" and provided more detail:
 
-- "Received a raise" - as distinct from "raised rate" - applies to those contactors who work a single contract in the manner of a regular employee, and received a raise from their client/employer;
+- "Received a raise" - as distinct from "raised rate" - applies to those contractors who work a single contract in the manner of a regular employee, and received a raise from their client/employer;
 - "Job changes" to describe taking on additional responsibility or work scope within the same contract, leading to an increase in earnings;
 - "Bonus" for a one-off additional payment; and
 - "Promotion" for a change in role or responsibility - again applying to those contractors working a single contract in the manner of a regular employee.
