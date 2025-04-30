@@ -1442,25 +1442,25 @@ Around half of all employees (51.4%) and half of all contractors (50% exactly) r
    | |3| Less confident                        | 152 | 21.9% |
    +-------------------------------------------+-----+-------+
 
-.. raw:: html
+.. raw:: html 
 
    <figure>
-      <object role="img" aria-label="Job security confidence - employees" aria-describedby="figure_job-security-confdence-employees_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
-         <p id="figure_job-security-confdence-employees_desc">Graphic showing job security confidence of employees - less confident, around the same, more confident - as compared to the previous year.</p>
+      <object role="img" aria-label="Job security confidence - employees" aria-describedby="figure_job-security-confidence-employees_desc" type="image/svg+xml" data="/_images/2024-job-security-confidence-employees.svg">
+         <p id="figure_job-security-confidence-employees_desc">Graphic showing job security confidence of employees - less confident, around the same, more confident - as compared to the previous year.</p>
       </object>
       <figcaption>Figure: Job security confidence - employees</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-placeholder.svg
+.. figure:: images/2024/2024-job-security-confidence-employees.svg
    :class: hide
 
 .. raw:: html
 
    </div><div class="tab__content">
 
-.. table:: Contractor job security
+.. table:: Contractor earnings security
    :widths: 70 15 15
-   :name: tbl-2024-job-security-contractor
+   :name: tbl-2024-earnings-security-contractor
    :class: std3col sortable
 
    +------------------------------------------+-----+-------+
@@ -1476,13 +1476,13 @@ Around half of all employees (51.4%) and half of all contractors (50% exactly) r
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Earnings security confidence - contractors" aria-describedby="figure_earnings-security-confdence-contractors_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
+      <object role="img" aria-label="Earnings security confidence - contractors" aria-describedby="figure_earnings-security-confdence-contractors_desc" type="image/svg+xml" data="/_images/2024-earnings-security-confidence-contractors.svg">
          <p id="figure_earnings-security-confdence-contractors_desc">Graphic showing earnings security confidence of contractors - less confident, around the same, more confident - as compared to the previous year.</p>
       </object>
       <figcaption>Figure: Earnings security confidence - contractors</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-placeholder.svg
+.. figure:: images/2024/2024-earnings-security-confidence-contractors.svg
    :class: hide
 
 .. raw:: html

@@ -1,0 +1,74 @@
+<svg viewBox="0 55 660 345" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2024-svg.css);
+      ]]>
+    </style>
+
+  </defs>
+
+  <g id="2024-job-security-confidence-employees">
+
+    <g class="title">
+      <text font-size="14">
+        <tspan x="40" y="33">Job security confidence&#10;</tspan>
+      </text>
+      <text font-size="12" class="subtitle">
+        <tspan x="40" y="49">Employees - as compared to the previous year</tspan>
+      </text>
+    </g>
+
+    <g class="donut-chart">
+
+      <g class="same">
+        <g class="slices">
+          <path class="same" d="M452.392 158.164C463.257 171.117 471.383 186.139 476.276 202.322C481.169 218.505 482.728 235.512 480.86 252.315C478.991 269.118 473.734 285.368 465.405 300.08C457.076 314.793 445.849 327.663 432.403 337.912C418.957 348.161 403.572 355.576 387.178 359.709C370.784 363.841 353.723 364.605 337.025 361.954C320.328 359.303 304.342 353.292 290.034 344.285C275.726 335.278 263.394 323.463 253.784 309.553L315.489 266.921C319.333 272.485 324.266 277.211 329.989 280.814C335.712 284.417 342.107 286.821 348.786 287.881C355.465 288.942 362.289 288.636 368.847 286.983C375.404 285.331 381.558 282.365 386.937 278.265C392.315 274.165 396.806 269.017 400.137 263.132C403.469 257.247 405.572 250.747 406.319 244.026C407.067 237.305 406.443 230.502 404.486 224.029C402.529 217.556 399.278 211.547 394.932 206.366L452.392 158.164Z"/>
+        </g>
+        <g class="pointers">
+          <path class="same" d="M461.007 368.958C456.007 368.958 440.251 348.275 439.039 346.684L437.827 345.093" />
+        </g>
+        <g class="value-labels-inner">
+          <text class="same" font-size="14"><tspan x="386" y="314">51.5%&#x200b;</tspan></text>
+        </g>  
+        <g class="value-labels-outer">
+          <text class="same" font-size="10"><tspan x="466" y="377">Around the same</tspan></text>
+        </g>
+      </g>
+
+      <g class="less">
+        <g class="slices">
+          <path class="less" d="M296.325 129.006C321.668 115.05 351.067 110.316 379.509 115.613C407.951 120.909 433.676 135.908 452.296 158.051L394.893 206.32C387.445 197.463 377.155 191.464 365.778 189.345C354.401 187.226 342.642 189.12 332.505 194.702L296.325 129.006Z"/>
+        </g>
+        <g class="pointers">
+          <path class="less" d="M391.737 82.2881C386.737 82.2881 381.963 107.846 381.596 109.812L381.229 111.778" />
+        </g>
+        <g class="value-labels-inner">
+          <text class="less" font-size="14"><tspan x="352" y="158">21.9%&#x200b;</tspan></text>
+        </g>
+        <g class="value-labels-outer">
+          <text class="less" font-size="10"><tspan x="401" y="82">Less confident</tspan></text>
+        </g>
+      </g>
+
+      <g class="more">
+        <g class="slices">
+          <path class="more" d="M253.712 309.45C243.802 295.076 237.013 278.785 233.783 261.628C230.553 244.47 230.953 226.825 234.957 209.832C238.961 192.838 246.481 176.871 257.032 162.961C267.583 149.05 280.931 137.504 296.216 129.066L332.461 194.727C326.347 198.102 321.008 202.72 316.788 208.284C312.567 213.848 309.559 220.235 307.958 227.033C306.356 233.83 306.196 240.888 307.488 247.751C308.78 254.614 311.496 261.13 315.46 266.88L253.712 309.45Z" />
+        </g>
+        <g class="pointers">
+          <path class="more" d="M192.011 200.828C197.011 200.828 222.315 206.8 224.262 207.259L226.209 207.719" />
+        </g>
+        <g class="value-labels-inner">
+          <text class="more" font-size="14"><tspan x="253" y="233">26.6%&#x200b;</tspan></text>
+        </g>
+        <g class="value-labels-outer">
+          <text class="more" font-size="10"><tspan x="102" y="203">More confident</tspan></text>
+        </g>
+      </g>
+
+    </g>
+
+  </g>
+
+</svg>

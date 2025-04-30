@@ -4,10 +4,12 @@
 :root {
 	--color-text-dark: #50514F;
 	--color-text-light: #999999;
+	--color-text-contrast: #FFFFFF;
 	--color-grid: #F2F4F6;
 	--color-series-a: #00AEFF;
 	--color-series-b: #FFA600;
 	--font: "Asap", sans-serif;
+	--transition: all 0.3s ease-in-out;
 }
 
 .title {
@@ -38,10 +40,14 @@
 	}
 }
 
-.value-labels, .value-labels-outer text, .value-labels-inner text {
+.value-labels, .value-labels-outer text, .value-labels-inner text, .labels text {
 	fill: var(--color-text-dark);
 	font-family: var(--font);
 	font-weight: 400;
+}
+
+.labels .figure {
+	font-weight: 700;
 }
 
 .value-labels-inner text {
@@ -50,12 +56,75 @@
 
 .bars {
 	fill: var(--color-series-a);
-	fill-opacity: 0.8;
+	/*fill-opacity: 0.8;*/
+}
+
+.bars path {
+	transition: var(--transition);
 }
 
 .bars path:hover {
 	filter: brightness(1.2);
 }
+
+.infographic path, .infographic rect {
+	transition: var(--transition);
+}
+
+.infographic > g:hover path,
+.infographic > g:hover rect {
+	filter: brightness(1.2);
+}
+
+
+.donut-chart {
+
+	.slices path {
+		stroke: white;
+		stroke-width: 2;
+		/*fill-opacity: 0.8;*/
+		transition: var(--transition);
+	}
+
+	.slices path:hover {
+		filter: brightness(1.2);
+	}
+
+	.value-labels-inner text {
+		fill: var(--color-text-contrast);
+	}
+
+	.value-labels-outer text {
+		fill: var(--color-text-dark);
+	}
+
+	/* more-less-same */
+	.slices {
+		.same { fill: #00AEFF; }
+		.less { fill: #C595FF; }
+		.more { fill: #7EA4FF; }
+	}
+	.pointers {
+		stroke-dasharray: 1 3;
+		.same { stroke: #00AEFF; }
+		.less { stroke: #C595FF; }
+		.more { stroke: #7EA4FF; }
+	}
+	g.same:hover .slices path.same,
+  g.less:hover .slices path.less,
+  g.more:hover .slices path.more {
+    filter: brightness(1.2);
+  }
+  g.same:hover text.same,
+  g.less:hover text.less,
+  g.more:hover text.more {
+    font-weight: bold;
+  }
+
+
+}
+
+
 
 /*
 .bar-chart-vertical {
