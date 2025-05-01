@@ -20,7 +20,7 @@
 					<path d="M68.5 242.5H620.5"/>
 					<path d="M68.5 165.5H620.5"/>
 					<path d="M68.5 87.5H620.5"/>
-				</g>
+				</g> 
 
 				<g class="axis-labels">
 					<text font-size="10"><tspan x="46.4883" y="323.384">0%</tspan></text>

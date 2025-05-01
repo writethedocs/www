@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Andika:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Asap:wdth,wght@75..125,100..900&display=swap');
 
 :root {
@@ -11,15 +10,23 @@
 	--font: "Asap", sans-serif;
 	--transition: all 0.3s ease-in-out;
 
-	--color-more: #008dcf;
-	--color-same: #00dfe1;
-	--color-less: #048000;
+	--color-more: #97BB50;
+	--color-same: #CDC899;
+	--color-less: #F09100;
 
 	--color-very-confident: #008dcf;
 	--color-confident: #00b7e1;
 	--color-neutral: #00dfe1;
 	--color-not-confident: #00b281;
 	--color-not-confident-at-all: #048000;
+}
+
+text {
+	font-family: 'asap',sans-serif;
+	fill: var(--color-text-dark);
+	&.reverse {
+		fill: var(--color-text-contrast);
+	}
 }
 
 .title {
@@ -33,49 +40,68 @@
 	}
 }
 
-.gridlines {
-	stroke: var(--color-grid);
-	stroke-width: 1;
-}
+.donut-chart {
 
-.axis-labels {
-	fill: var(--color-text-dark);
-	font-family: var(--font);
-	font-weight: 400;
-}
-
-.y-axis {
-	.axis-labels {
-		fill: var(--color-text-light);
+	text.value-labels-inner {
+		font-weight: 700;
 	}
+
 }
 
-.value-labels, .value-labels-outer, .value-labels-outer text, .value-labels-inner, .value-labels-inner text, .labels text {
-	fill: var(--color-text-dark);
-	font-family: var(--font);
-	font-weight: 400;
+
+.bar-chart-vertical {
+
+	.gridlines {
+		stroke: var(--color-grid);
+		stroke-width: 1;
+	}
+	
+	.axis-labels {
+		fill: var(--color-text-dark);
+		font-family: var(--font);
+		font-weight: 400;
+	}
+	
+	.y-axis {
+		.axis-labels {
+			fill: var(--color-text-light);
+		}
+	}
+
+	.value-labels, .value-labels-outer, .value-labels-outer text, .value-labels-inner, .value-labels-inner text, .labels text {
+		fill: var(--color-text-dark);
+		font-family: var(--font);
+		font-weight: 400;
+	}   
+	
+	.labels .figure {
+		font-weight: 700;
+	}
+	
+	.value-labels-inner, .value-labels-inner text {
+		fill: #FFF;
+	}
+	
+	.bars {
+		fill: var(--color-series-a);
+		fill-opacity: 0.8;
+	}
+	
+	.bars path {
+		transition: var(--transition);
+	}
+	
+	.bars path:hover {
+		fill-opacity: 1;
+	}
+
 }
 
-.labels .figure {
-	font-weight: 700;
-}
 
-.value-labels-inner, .value-labels-inner text {
-	fill: #FFF;
-}
 
-.bars {
-	fill: var(--color-series-a);
-	fill-opacity: 0.8;
-}
 
-.bars path {
-	transition: var(--transition);
-}
 
-.bars path:hover {
-	fill-opacity: 1;
-}
+/*
 
 .donut-chart {
 
@@ -93,7 +119,9 @@
 		fill: var(--color-text-dark);
 	}
 
-	/* more-less-same */
+	*/
+
+	/* more-less-same 
 	.slices {
 		fill-opacity: 0.6;
 		&.same { fill: var(--color-same); }
@@ -115,9 +143,9 @@
   g.less:hover text.less,
   g.more:hover text.more {
     font-weight: 700;
-  }
+  } */
 
-	/* very-confident etc */
+	/* very-confident etc 
 	.slices {
 		fill-opacity: 0.6;
 		&.very-confident { fill: var(--color-very-confident); }
@@ -153,7 +181,7 @@
 	}
 
 }
-
+ */
 
 
 /*

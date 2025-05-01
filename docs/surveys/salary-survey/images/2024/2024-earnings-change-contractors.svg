@@ -1,4 +1,4 @@
-<svg viewBox="0 40 660 205" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 55 660 188" fill="none" xmlns="http://www.w3.org/2000/svg">
 
 	<defs>
 	
@@ -10,32 +10,27 @@
     
   </defs>
 
-  <g id="2024-earnings-change-contractors">
+  <g id="2024-hours-worked">
 
     <g class="title">
-      <text font-size="14"><tspan x="40" y="33">Earnings change&#10;</tspan></text>
+      <text font-size="14"><tspan x="40" y="33">Earnings Change</tspan></text>
       <text font-size="12" class="subtitle"><tspan x="40" y="49">Contractors</tspan></text>
     </g>
 
     <g class="donut-chart">
 
-      <g class="more">
-        <path class="more slices" d="M488.597 230C488.612 192.846 474.832 157.009 449.928 129.437C425.024 101.865 390.771 84.521 353.807 80.7672L344.717 170.27C359.503 171.772 373.205 178.709 383.166 189.738C393.128 200.767 398.64 215.102 398.634 229.963L488.597 230Z"/>
-        <path class="more pointers" d="M491.375 104C485.32 104 461.968 130.867 460.171 132.933L458.375 135"/>
-        <text class="more value-labels-outer" font-size="10"><tspan x="496" y="105">Increase: 47%&#x200b;</tspan></text>
-      </g>
-
-      <g class="same">
-        <path class="same slices" d="M353.657 80.7522C324.433 77.814 294.989 83.5238 268.981 97.1729C242.974 110.822 221.548 131.809 207.363 157.529L286.14 200.975C291.814 190.687 300.384 182.292 310.788 176.833C321.191 171.373 332.968 169.089 344.658 170.264L353.657 80.7522Z"/>
-        <path class="same pointers" d="M181.5 104C193.371 104 222.083 122.2 224.291 123.6L226.5 125"/>
-        <text class="same value-labels-outer" font-size="10"><tspan x="88" y="108">No change: 37%&#x200b;</tspan></text>
-      </g>
-
-      <g class="less">
-        <path class="less slices" d="M207.29 157.66C195.132 179.758 188.744 204.567 188.719 229.789L278.682 229.879C278.692 219.79 281.247 209.867 286.111 201.027L207.29 157.66Z"/>
-        <path class="less pointers" d="M147.375 182C153.541 182 184.597 192.4 186.986 193.2L189.375 194"/>
-        <text class="less value-labels-outer" font-size="10"><tspan x="64" y="185">Decrease: 16%&#x200b;</tspan></text>
-      </g>
+      <path d="M180 222.061C179.99 196.829 186.345 172.001 198.477 149.877L277.391 193.151C272.538 202.001 269.996 211.932 270 222.025L180 222.061Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+      <path d="M198.549 149.745C212.716 123.973 234.146 102.933 260.174 89.2432C286.203 75.5531 315.682 69.8164 344.945 72.7464L335.978 162.299C324.273 161.127 312.481 163.421 302.07 168.897C291.658 174.373 283.086 182.789 277.42 193.098L198.549 149.745Z" fill="#E9C168" stroke="white" stroke-width="2"/>
+      <path d="M345.094 72.7615C382.049 76.4991 416.303 93.8148 441.224 121.356C466.146 148.898 479.963 184.707 480 221.85L390 221.94C389.985 207.083 384.458 192.759 374.49 181.743C364.521 170.726 350.82 163.8 336.038 162.305L345.094 72.7615Z" fill="#82A555" stroke="white" stroke-width="2"/>
+      <text font-size="14" class="value-labels-inner"><tspan x="393" y="151.8">46.8%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="268" y="137.8">37.2%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="213" y="202.8">16%</tspan></text>
+      <text font-size="10"><tspan x="102.908" y="195.232">Decrease</tspan></text>
+      <text font-size="10"><tspan x="154.303" y="94.0488">No change</tspan></text>
+      <text font-size="10"><tspan x="495.697" y="132.232">Increase</tspan></text>
+      <path d="M489.018 129.122C484.018 129.122 459.291 137.157 457.388 137.775L455.486 138.393" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M205.916 91.9388C210.916 91.9388 235.643 99.9733 237.546 100.591L239.448 101.209" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M147.303 193.122C152.303 193.122 178.223 195.162 180.216 195.319L182.21 195.476" stroke="#252521" stroke-dasharray="1 3"/>
 
     </g>
 

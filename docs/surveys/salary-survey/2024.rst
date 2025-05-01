@@ -723,7 +723,6 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
 
 .. raw:: html
 
-   <!-- CHART: chart for "time in current role" -->
    <figure>
       <object role="img" aria-label="Length of time in current role at current organization" aria-describedby="figure_length-of-time-in-current-role_desc" type="image/svg+xml" data="/_images/2024-time-in-role-employees.svg">
          <p id="figure_length-of-time-in-current-role_desc">Length of time in current role (at current organization - employee respondents who have changed roles at the same organization were instructed to specify the length of time they had been in their current role only, not the total length of time at the organization)</p>
@@ -853,19 +852,6 @@ The majority of respondents (68.8%) reported that documentation makes up their w
 .. raw:: html
 
    </div></div>
-
-.. raw:: html
-
-   <!-- CHART: actual portion vs official portion -->
-   <figure>
-      <object role="img" aria-label="Portion of role documentation-related" aria-describedby="figure_proportion-of-role-docs-related_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
-         <p id="figure_proportion-of-role-docs-related_desc">Chart showing what proportion of respondents official job description is documentation-related, versus how much of their day to day tasks are documentation-related.</p>
-      </object>
-      <figcaption>Figure: Portion of role officially documentation-related</figcaption>
-   </figure>
-
-.. figure:: images/2024/2024-placeholder.svg
-   :class: hide
 
 Job changes
 ===========
@@ -1446,7 +1432,7 @@ Around half of all employees (51.4%) and half of all contractors (50% exactly) r
 
    <figure>
       <object role="img" aria-label="Job security confidence - employees" aria-describedby="figure_job-security-confidence-employees_desc" type="image/svg+xml" data="/_images/2024-job-security-confidence-employees.svg">
-         <p id="figure_job-security-confidence-employees_desc">Graphic showing job security confidence of employees - less confident, around the same, more confident - as compared to the previous year.</p>
+         <p id="figure_job-security-confidence-employees_desc">Graphic showing job security confidence of employees - less confident, around the same, more confident - as compared to the previous year.</p> 
       </object>
       <figcaption>Figure: Job security confidence - employees</figcaption>
    </figure>
@@ -1555,6 +1541,18 @@ Amongst contractors - a smaller number of respondents overall - the trend was to
    | |1| Very confident        | 8   | 10.0% |
    +---------------------------+-----+-------+
 
+.. raw:: html 
+
+   <figure>
+      <object role="img" aria-label="Job search confidence - employees" aria-describedby="figure_job-search-confidence-employees_desc" type="image/svg+xml" data="/_images/2024-job-search-confidence-employees.svg">
+         <p id="figure_job-search-confidence-employees_desc">Graphic showing job search confidence of employees.</p> 
+      </object>
+      <figcaption>Figure: Job search confidence - employees</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-job-search-confidence-employees.svg
+   :class: hide
+
 .. raw:: html
 
    </div><div class="tab__content">
@@ -1578,11 +1576,22 @@ Amongst contractors - a smaller number of respondents overall - the trend was to
    | |2| Confident              | 3   | 13.6% |
    +----------------------------+-----+-------+
 
+.. raw:: html 
+
+   <figure>
+      <object role="img" aria-label="Contract search confidence - contractors" aria-describedby="figure_contract-search-confidence-contractors_desc" type="image/svg+xml" data="/_images/2024-contract-search-confidence-contractors.svg">
+         <p id="figure_contract-search-confidence-contractors_desc">Graphic showing job search confidence of employees.</p> 
+      </object>
+      <figcaption>Figure: Contract search confidence - contractors</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-contract-search-confidence-contractors.svg
+   :class: hide
+
+
 .. raw:: html
 
 	</div></div>
-
-   <!-- CHART: job search confidence -->
 
 Workplace
 =========

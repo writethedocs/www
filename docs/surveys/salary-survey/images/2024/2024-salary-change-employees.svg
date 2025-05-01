@@ -1,11 +1,11 @@
-<svg viewBox="0 40 660 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 55 660 191" fill="none" xmlns="http://www.w3.org/2000/svg">
 
 	<defs>
 	
     <style type="text/css">
       <![CDATA[
         @import url(/_static/survey/css/2024-svg.css);
-      ]]>S
+      ]]>
     </style>
     
   </defs>
@@ -13,31 +13,23 @@
   <g id="2024-salary-change-employees">
 
     <g class="title">
-      <text font-size="14"><tspan x="40" y="33.054">Salary change&#10;</tspan></text>
-      <text font-size="12" class="subtitle"><tspan x="40" y="49.054">Employees</tspan></text>
+      <text font-size="14"><tspan x="40" y="33">Salary change</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Employees</tspan></text>
     </g>
 
     <g class="donut-chart">
 
-      <g class="more">
-        <path class="more slices" d="M487.75 226.061C487.762 196.396 478.978 167.394 462.508 142.721C446.039 118.049 422.623 98.8131 395.222 87.4471C367.822 76.081 337.666 73.0948 308.568 78.866C279.47 84.6373 252.737 98.9067 231.748 119.87L295.349 183.548C303.745 175.163 314.438 169.455 326.077 167.146C337.716 164.838 349.779 166.032 360.739 170.579C371.699 175.125 381.066 182.819 387.653 192.689C394.241 202.558 397.755 214.159 397.75 226.024L487.75 226.061Z"/>
-        <path class="more pointers" d="M509.955 151C504.955 151 481.377 161.959 479.564 162.802L477.75 163.645"/>
-        <text class="more value-labels-inner" font-size="14"><tspan x="360" y="133">75%</tspan></text>
-        <text class="more value-labels-outer" font-size="10"><tspan x="517" y="153">Increase</tspan></text>
-      </g>
-
-      <g class="same">
-        <path class="same slices" d="M231.642 119.976C206.684 144.954 191.337 177.936 188.304 213.116L277.972 220.846C279.185 206.774 285.323 193.582 295.307 183.59L231.642 119.976Z"/>
-        <path class="same pointers" d="M169.522 150.128C174.522 150.128 198.099 161.087 199.913 161.93L201.727 162.773"/>
-        <text class="same value-labels-inner" font-size="14"><tspan x="220" y="185">22.3%</tspan></text>
-        <text class="same value-labels-outer" font-size="10"><tspan x="86" y="153">No change</tspan></text>
-      </g>
-
-      <g class="less">
-        <path class="less slices" d="M188.291 213.265C187.935 217.451 187.754 221.649 187.75 225.85L277.75 225.94C277.752 224.26 277.824 222.58 277.967 220.906L188.291 213.265Z"/>
-        <path class="more pointers" d="M152.912 218.368C157.912 218.368 183.888 219.471 185.887 219.555L187.885 219.64"/>
-        <text class="less value-labels-outer" font-size="10"><tspan x="79" y="221">Decrease (2.7%)</tspan></text>
-      </g>
+      <path d="M180 222.061C179.998 217.861 180.173 213.662 180.524 209.476L270.21 216.99C270.069 218.665 269.999 220.344 270 222.025L180 222.061Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+      <path d="M180.536 209.326C183.524 174.091 198.864 141.044 223.849 116.02L287.539 179.608C277.546 189.618 271.41 202.836 270.215 216.931L180.536 209.326Z" fill="#E9C168" stroke="white" stroke-width="2"/>
+      <path d="M223.955 115.913C244.926 94.9504 271.64 80.6732 300.721 74.8853C329.803 69.0975 359.947 72.0588 387.347 83.395C414.746 94.7313 438.171 113.934 454.662 138.577C471.153 163.22 479.97 192.198 480 221.85L390 221.94C389.988 210.079 386.461 198.488 379.865 188.631C373.268 178.774 363.898 171.093 352.939 166.558C341.979 162.024 329.921 160.839 318.288 163.154C306.656 165.469 295.97 171.18 287.582 179.565L223.955 115.913Z" fill="#82A555" stroke="white" stroke-width="2"/>
+      <text font-size="14" class="value-labels-inner"><tspan x="345" y="125">75%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="213" y="184">22.3%;</tspan></text>
+      <text font-size="10"><tspan x="72.8945" y="220">Decrease (2.7%)</tspan></text>
+      <text font-size="10"><tspan x="103.676" y="161">No change</tspan></text>
+      <text font-size="10"><tspan x="493.684" y="134">Increase</tspan></text>
+      <path id="Connector" d="M490.004 132C485.004 132 460.277 140.034 458.375 140.653L456.473 141.271" stroke="#252521" stroke-dasharray="1 3"/>
+      <path id="Connector_2" d="M156.289 160C161.289 160 186.017 168.034 187.919 168.653L189.821 169.271" stroke="#252521" stroke-dasharray="1 3"/>
+      <path id="top-left-0.5_2" d="M145.289 217C150.289 217 176.209 219.04 178.203 219.197L180.197 219.354" stroke="#252521" stroke-dasharray="1 3"/>
 
     </g>
 
