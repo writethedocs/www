@@ -257,7 +257,7 @@ flagrunofshow: True
 flaghasschedule: True
 flagscheduleincomplete: True
 flaghasshirts: True
-flaglivestreaming: False
+flaglivestreaming: True
 flagvideos: False
 flagpostconf: False
 flaghasbadgeflair: False
