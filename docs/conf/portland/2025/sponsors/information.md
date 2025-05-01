@@ -29,7 +29,7 @@ Portland, Oregon 97214
 * 9:00am-5:00pm: Speaker Talks and Unconference
 * 10:55am: Booth sponsor introductions on main stage
 * 5:00-7:00pm: Evening break
-* 7:00-9:00pm: Evening party at Jupiter Hotel (800 E Burnside St, 2nd floor)
+* 7:00-9:00pm: Evening party at Jupiter NEXT (800 E Burnside St, 2nd floor)
 
 **TUESDAY, MAY 6**:
 
