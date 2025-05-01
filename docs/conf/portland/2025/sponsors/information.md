@@ -38,7 +38,7 @@ Portland, Oregon 97214
 * 4:00pm: Conference ends/load out
 * 5:30pm: Out of venue 
 
-The detailed speaker schedule will be released in March. 
+The detailed speaker schedule is released in March. 
 
 ## Conference Overview
 
@@ -52,7 +52,7 @@ The [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) will be posted i
 
 ### Venue Layout
 
-We'll share a venue map in March with a more detailed layout. 
+Our [Venue page](/conf/{{ shortcode }}/{{ year }}/venue/) has more information about the venue, including the location of the sponsor booths, speaker talks, and other conference spaces.
 
 ## Media Kit
 

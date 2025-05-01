@@ -21,8 +21,6 @@ Bus transit stops are located near the venue. All transit in Portland announce m
 
 ## Conference Layout
 
-**Venue Layout:** To be posted in April
-
 ### Registration and Welcome Wagon
 
 **Location:**
