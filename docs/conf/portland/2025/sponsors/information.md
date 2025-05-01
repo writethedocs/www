@@ -39,8 +39,6 @@ Portland, Oregon 97214
 * 4:00pm: Conference ends/load out
 * 5:30pm: Out of venue 
 
-The detailed speaker schedule is released in March. 
-
 ## Conference Overview
 
 * **SUNDAY**: The first day of the conference is Writing Day, and is typically attended by one third of our attendees. Our Welcome Reception is in the evening and we see an influx of attendees come through for this. **There are no sponsor booths this day**, but we encourage you to submit a writing project for attendees to contribute to.
@@ -49,7 +47,7 @@ The detailed speaker schedule is released in March.
 
 * **TUESDAY**: Day 2 of Speaker Talks and Unconference. Keystone and Patron sponsor arrival is at 7:45am. Doors open at 8am. Schedule is similar to Monday. There are six speakers this day.
 
-The [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) will be posted in March.
+The [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) is available.
 
 ### Venue Layout
 
