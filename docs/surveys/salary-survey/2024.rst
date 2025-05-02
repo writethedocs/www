@@ -4111,15 +4111,14 @@ As in previous surveys, the majority of respondents in 2024 were women - 57% - w
 
 .. raw:: html
 
-   <!-- CHART: gender identity -->
    <figure>
-      <object role="img" aria-label="Respondent gender identity" aria-describedby="figure_respondent-gender-identity_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
+      <object role="img" aria-label="Respondent gender identity" aria-describedby="figure_respondent-gender-identity_desc" type="image/svg+xml" data="/_images/2024-gender-identity.svg">
          <p id="figure_respondent-gender-identity_desc">Donut chart showing gender identity of respondents.</p>
       </object>
       <figcaption>Figure: Respondent gender identity</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-placeholder.svg
+.. figure:: images/2024/2024-gender-identity.svg
    :class: hide
 
 Experience
@@ -4602,6 +4601,18 @@ Overall, most respondents were positive about the survey, with "Strongly agree" 
 
 .. raw:: html
 
+   <figure>
+      <object role="img" aria-label="Survey feedback - length" aria-describedby="figure_feedback-survey-length_desc" type="image/svg+xml" data="/_images/2024-feedback-survey-length.svg">
+         <p id="figure_feedback-survey-length_desc">Donut chart showing respondent agreement with the statement: the length of the survey is appropriate</p>
+      </object>
+      <figcaption>Figure: Agreement - survey length is appropriate</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-feedback-survey-length.svg
+   :class: hide
+
+.. raw:: html
+
    </div><div class="tab__content">
 
 .. table:: Survey feedback - relevance
@@ -4622,6 +4633,18 @@ Overall, most respondents were positive about the survey, with "Strongly agree" 
    +-----------------------------+-----+-------+
    | |5| Strongly disagree       | 1   | 0.1%  |
    +-----------------------------+-----+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Survey feedback - relevance" aria-describedby="figure_feedback-relevance_desc" type="image/svg+xml" data="/_images/2024-feedback-relevance.svg">
+         <p id="figure_feedback-survey-length_desc">Donut chart showing respondent agreement with the statement: the survey questions are relevant</p>
+      </object>
+      <figcaption>Figure: Agreement - survey questions are relevant</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-feedback-relevance.svg
+   :class: hide
 
 .. raw:: html
 
@@ -4648,8 +4671,16 @@ Overall, most respondents were positive about the survey, with "Strongly agree" 
 
 .. raw:: html
 
+   <figure>
+      <object role="img" aria-label="Survey feedback - usability" aria-describedby="figure_feedback-usability_desc" type="image/svg+xml" data="/_images/2024-feedback-usability.svg">
+         <p id="figure_feedback-survey-length_desc">Donut chart showing respondent agreement with the statement: the survey form/website are usable</p>
+      </object>
+      <figcaption>Figure: Agreement - survey form/website are usable</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-feedback-usability.svg
+   :class: hide
+
+.. raw:: html
+
    </div></div>
-
-   <!-- CHART: survey feedback -->
-
-
