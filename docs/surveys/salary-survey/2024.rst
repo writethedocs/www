@@ -1664,15 +1664,14 @@ The vast majority of respondents (58.9%) work remotely - 30% by choice, and 28.9
 
 .. raw:: html
 
-   <!-- CHART: work location -->
    <figure>
-      <object role="img" aria-label="Work location" aria-describedby="figure_work-location_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
+      <object role="img" aria-label="Work location" aria-describedby="figure_work-location_desc" type="image/svg+xml" data="/_images/2024-work-location.svg">
          <p id="figure_work-location_desc">Donut chart showing current work location - remote, hybrid, on-site - and whether the location is their choice or their employer's.</p>
       </object>
       <figcaption>Figure: Work location</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-placeholder.svg
+.. figure:: images/2024/2024-work-location.svg
    :class: hide
 
 The majority of respondents (82.6% overall) reported feeling "positive" about their work location, with 48.8% feeling "very positive".  Only 5.6% reported negative feelings, with 1.5% feeling "very negative".
@@ -1698,15 +1697,14 @@ The majority of respondents (82.6% overall) reported feeling "positive" about th
 
 .. raw:: html
 
-   <!-- CHART: attitudes towards work location -->
    <figure>
-      <object role="img" aria-label="Work location" aria-describedby="figure_feelings-about-work-location_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
+      <object role="img" aria-label="Work location" aria-describedby="figure_feelings-about-work-location_desc" type="image/svg+xml" data="/_images/2024-work-location-attitude.svg">
          <p id="figure_feelings-about-work-location_desc">Donut chart showing respondents feelings about their work location.</p>
       </object>
-      <figcaption>Figure: Feelings about work location</figcaption>
+      <figcaption>Figure: Attitudes towards work location</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-placeholder.svg
+.. figure:: images/2024/2024-work-location-attitude.svg
    :class: hide
 
 "Return to office" (RTO) mandates
@@ -1806,6 +1804,18 @@ Those affected by a full time RTO mandate felt predominantly negative - 73.9% re
 
 .. raw:: html
 
+   <figure>
+      <object role="img" aria-label="Attitude towards RTO - all affected respondents" aria-describedby="figure_rto-attitude-all-affected_desc" type="image/svg+xml" data="/_images/2024-rto-attitude-all-affected.svg">
+         <p id="figure_rto-attitude-all-affected_desc">Donut chart showing respondents feelings about their work location.</p>
+      </object>
+      <figcaption>Figure: Attitude towards RTO - all affected respondents</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-rto-attitude-all-affected.svg
+   :class: hide
+
+.. raw:: html
+
    </div><div class="tab__content">
 
 .. table:: Attitudes to partial RTO
@@ -1829,6 +1839,18 @@ Those affected by a full time RTO mandate felt predominantly negative - 73.9% re
 
 .. raw:: html
 
+   <figure>
+      <object role="img" aria-label="Attitude towards RTO - respondents affected by partial RTO" aria-describedby="figure_rto-attitude-affected-by-partial_desc" type="image/svg+xml" data="/_images/2024-rto-attitude-affected-by-partial.svg">
+         <p id="figure_rto-attitude-affected-by-partial_desc">Donut chart showing attitudes towards RTO mandates, by respondents affected by partial RTO.</p>
+      </object>
+      <figcaption>Figure: Attitude towards RTO - respondents affected by partial RTO</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-rto-attitude-affected-by-partial.svg
+   :class: hide
+
+.. raw:: html
+
    </div><div class="tab__content">
 
 .. table:: Attitudes to full RTO
@@ -1849,6 +1871,18 @@ Those affected by a full time RTO mandate felt predominantly negative - 73.9% re
    +-------------------+-----------+-----------+
    | |3| Neutral       | 1         | 4.3%      |
    +-------------------+-----------+-----------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Attitudes towards RTO - respondents affected by full RTO" aria-describedby="figure_rto-attitude-affected-by-full_desc" type="image/svg+xml" data="/_images/2024-rto-attitude-affected-by-full.svg">
+         <p id="figure_rto-attitude-affected-by-full_desc">Donut chart showing attitudes towards RTO by those respondents affeted by full RTO mandates.</p>
+      </object>
+      <figcaption>Figure: Attitude towards RTO - respondents affected by full RTO</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-rto-attitude-affected-by-full.svg
+   :class: hide
 
 .. raw:: html
 
@@ -1897,7 +1931,16 @@ Regardless of their current situation, 52.1% of all respondents said that their 
 
 .. raw:: html
 
-   <!-- CHART: preferred work location - also over time? -->
+   <figure>
+      <object role="img" aria-label="Preferred work location" aria-describedby="figure_preferred-work-location_desc" type="image/svg+xml" data="/_images/2024-preferred-work-location.svg">
+         <p id="figure_preferred-work-location_desc">Donut chart showing preferred work location.</p>
+      </object>
+      <figcaption>Figure: Preferred work location</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-preferred-work-location.svg
+   :class: hide
+
 
 Employee salary, benefits and satisfaction
 ==========================================
