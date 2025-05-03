@@ -27,24 +27,15 @@ Every year, Write the Docs invites people from all across our community to come 
 **We plan to launch our CFP later this year**,
 and now is a great time to start thinking about topics to present!
 
-You can always look at our `previous talks <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year - 1 }}/speakers/>`_ for inspiration.
+You can always look at our `previous talks <https://www.writethedocs.org/conf/atlantic/{{ year - 1 }}/speakers/>`_ for inspiration.
 
 Tickets
 -------
 
 Tickets will go on sale in {{ date.tickets_live }}.
-
-**Ticket pricing will be:**
-
-* **Student or Unemployed Tickets**: *{{tickets.student.price}}*
-* **Independent Tickets**: *{{tickets.independent.price}}*
-* **Corporate Tickets**: *{{tickets.corporate.price}}*
-
-We will be also be running our Opportunity Grants program again this year for those who need financial assistance to attend.
-We also have many opportunities for volunteers who want to help make the conference happen and get a free ticket that way.
-Note that you are not required to do volunteer tasks at the conference to be able to apply for an Opportunity Grant.
-
-More details on these programs will be announced later.
+We are keeping this edition a bit smaller than other conferences,
+and will sell up to ~150 in-person tickets.
+Virtual tickets will not be limited.
 
 Sponsorship
 -----------

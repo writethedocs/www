@@ -70,15 +70,15 @@ buttons:
 
 tickets:
   concierge:
-    price: €750
+    price: €TBC
   corporate:
-    price: €500
+    price: €TBC
   independent:
-    price: €300
+    price: €TBC
   student:
-    price: €75
+    price: €TBC
   virtual:
-    price: €55
+    price: €TBC
 #  button: >
 #    .. raw:: html
 #
