@@ -3772,6 +3772,18 @@ We asked for the first time in 2024 if respondents were aware of the legal requi
 
 .. raw:: html
 
+   <figure>
+      <object role="img" aria-label="Pay transparency - law" aria-describedby="figure_pay-transparency-law_desc" type="image/svg+xml" data="/_images/2024-pay-transparency-law.svg">
+         <p id="figure_pay-transparency-law_desc">Donut chart showing awareness of pay transparency policy law in respondent location.</p>
+      </object>
+      <figcaption>Figure: Pay transparency law</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-pay-transparency-law.svg
+   :class: hide
+
+.. raw:: html
+
    </div></div>
 
 Pay transparency culture
@@ -3834,7 +3846,17 @@ Support for pay transparency
 
 .. raw:: html
 
-   <!-- CHART: Pay transparency support -->
+   <figure>
+      <object role="img" aria-label="Pay transparency - respondent support" aria-describedby="figure_pay-transparency-support_desc" type="image/svg+xml" data="/_images/2024-pay-transparency-support.svg">
+         <p id="figure_pay-transparency-support_desc">Donut chart showing respondent support for pay transparency.</p>
+      </object>
+      <figcaption>Figure: Pay transparency support</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-pay-transparency-support.svg
+   :class: hide
+
+.. raw:: html
 
 Organization origin and location
 --------------------------------
