@@ -46,7 +46,7 @@ buttons:
     #   link: /news/thanks-recap
   bottom:
      - text: Conference announcement
-     link: /news/welcome
+       link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
     #- text: Submit a Talk
