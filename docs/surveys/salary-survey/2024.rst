@@ -3302,6 +3302,18 @@ More than half of contractor respondents (63.8%) reported feeling satisfied with
 
 .. raw:: html
 
+   <figure>
+      <object role="img" aria-label="Earnings satisfaction - contractors" aria-describedby="figure_earnings-satisfaction-contractors_desc" type="image/svg+xml" data="/_images/2024-earnings-satisfaction-contractors.svg">
+         <p id="figure_earnings-satisfaction-contractors_desc">Donut chart showing contractor earnings satisfaction.</p>
+      </object>
+      <figcaption>Figure: Earnings satisfaction - contractors</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-earnings-satisfaction-contractors.svg
+   :class: hide
+
+.. raw:: html
+
 	</div><div class="tab__content">
 
 .. table:: Overall satisfaction
@@ -3322,6 +3334,18 @@ More than half of contractor respondents (63.8%) reported feeling satisfied with
    +--------------------------+--------+--------+
    | |5| Very unsatisfied     | 4      | 4.3%   |
    +--------------------------+--------+--------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Overall satisfaction - contractors" aria-describedby="figure_overall-satisfaction-contractors_desc" type="image/svg+xml" data="/_images/2024-overall-satisfaction-contractors.svg">
+         <p id="figure_overall-satisfaction-contractors_desc">Donut chart showing contractor overall satisfaction.</p>
+      </object>
+      <figcaption>Figure: Overall satisfaction - contractors</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-overall-satisfaction-contractors.svg
+   :class: hide
 
 .. raw:: html
 
