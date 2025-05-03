@@ -24,7 +24,7 @@ photos:
 
 buttons:
   top:
-     - text: Date and ticket information
+     - text: Conference announcement
        link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
