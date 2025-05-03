@@ -4056,15 +4056,14 @@ The age group split in 2024 was similar to previous years, with the majority of 
 
 .. raw:: html
 
-   <!-- CHART: age group -->
    <figure>
-      <object role="img" aria-label="Respondent age group" aria-describedby="figure_respondent-age-group_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
+      <object role="img" aria-label="Respondent age group" aria-describedby="figure_respondent-age-group_desc" type="image/svg+xml" data="/_images/2024-age-group.svg">
          <p id="figure_respondent-age-group_desc">Vertical bar chart showing age groupings of respondents. </p>
       </object>
       <figcaption>Figure: Respondent age group</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-placeholder.svg
+.. figure:: images/2024/2024-age-group.svg
    :class: hide
 
 Gender identity
@@ -4180,15 +4179,14 @@ The experience level spread of respondents echoed previous years - most falling 
 
 .. raw:: html
 
-   <!-- CHART: years of experience -->
    <figure>
-      <object role="img" aria-label="Respondent years of experience" aria-describedby="figure_respondent-years-experience_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
+      <object role="img" aria-label="Respondent years of experience" aria-describedby="figure_respondent-years-experience_desc" type="image/svg+xml" data="/_images/2024-years-experience.svg">
          <p id="figure_respondent-years-experience_desc">Vertical bar chart showing respondents' years of experience in documentation. </p>
       </object>
       <figcaption>Figure: Years of experience in documentation</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-placeholder.svg
+.. figure:: images/2024/2024-years-experience.svg
    :class: hide
 
 Education level

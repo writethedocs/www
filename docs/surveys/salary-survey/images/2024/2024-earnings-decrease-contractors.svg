@@ -12,7 +12,7 @@
 	<g id="2024-hours-worked">
 
 		<g class="title">
-			<text font-size="14"><tspan x="40" y="33">Earnings decrease reasons&#10;</tspan></text>
+			<text font-size="14"><tspan x="40" y="33">Earnings decrease reasons</tspan></text>
 			<text font-size="12" class="subtitle"><tspan x="40" y="49">Contractors</tspan></text>
 		</g>
 
@@ -57,11 +57,11 @@
 					</g>
 
 					<g class="value-labels-inner">
-						<text font-size="10"><tspan x="114" y="191">20%&#x200b;</tspan></text>
-            <text font-size="10"><tspan x="224" y="217">16%&#x200b;</tspan></text>
-            <text font-size="10"><tspan x="335" y="217">16%&#x200b;</tspan></text>
-            <text font-size="10"><tspan x="445" y="217">16%&#x200b;</tspan></text>
-            <text font-size="10"><tspan x="555" y="111">32%&#x200b;</tspan></text>
+						<text font-size="10"><tspan x="114" y="191">20%</tspan></text>
+            <text font-size="10"><tspan x="224" y="217">16%</tspan></text>
+            <text font-size="10"><tspan x="335" y="217">16%</tspan></text>
+            <text font-size="10"><tspan x="445" y="217">16%</tspan></text>
+            <text font-size="10"><tspan x="555" y="111">32%</tspan></text>
 					</g>
 
 				</g>
