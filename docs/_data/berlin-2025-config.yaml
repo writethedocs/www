@@ -45,7 +45,7 @@ buttons:
     # - text: Conference recap
     #   link: /news/thanks-recap
   bottom:
-   - text: Date and ticket information
+     - text: Conference announcement
      link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
