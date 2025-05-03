@@ -30,3 +30,5 @@ and chat about the conference in a relaxed atmosphere.
 **When**: 7-9 PM
 
 *Both alcoholic and non-alcoholic drinks and snacks will be provided.*
+
+Sponsored by [Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral)!

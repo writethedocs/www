@@ -166,3 +166,17 @@ Join the MongoDB docs and design teams for a dual-purpose documentation research
 
 Your participation helps the MongoDB team better understand the MongoDB docs’ strengths and weaknesses. It also gives MongoDB team the opportunity to share how you can facilitate your own documentation research project. We appreciate your help in making the MongoDB documentation the best that it can be.
 
+### Crowdsource the Docs: Help improve Docker's API reference
+
+Project organizer: Sarah Sanders, she/her. Project session: All day.
+
+[Docker’s API Docs](https://github.com/docker/docs/tree/main/content/reference/api) are critical for developers and they could use some TLC! Docker's API docs are a part of our open source offerings. We need your help to crowdsource and implement feedback to improve our API documentation.
+
+Our goal is to work together to make the docs more clear, helpful, and user-friendly.
+
+Here's our plan of action:
+
+* Review the current Docker API pages to identify gaps and UX issues.
+* Brainstorm ways to improve clarity, usefulness, and approachability.
+
+Whether you're great at structuring docs, writing clear examples, identifying pain points, or just love helping others understand complex systems - this project is for you!

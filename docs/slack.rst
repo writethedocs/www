@@ -74,6 +74,10 @@ Autoresponders
 
 We have some helpful Slackbot responses that you can summon in any channel, at any time.
 
+* ``?autoresponders`` / ``?slackbot``
+
+  - Get a list of these Slackbot response triggers.
+
 * ``?invite`` / ``?join``
 
   - Get a link you can send to a friend to invite them to the Write the Docs Slack. (You can also invite people directly from Slack by clicking **Write the Docs** > **Invite people to Write the Docs**.)
@@ -89,6 +93,10 @@ We have some helpful Slackbot responses that you can summon in any channel, at a
 * ``?getstarted`` / ``?resources`` / ``?learn``
 
   - We're always excited to help new people into working on documentation! This is for you if you want some resources on how to get started, including a link to some of our favorite :doc:`/about/learning-resources`.
+
+* ``?tools`` / ``?doctools`` / ``?tooloptions`` / ``?chooseatool``
+
+  - Choosing documentation tools can tough! This provides a list of links you might find helpful when you're considering a new one.
 
 * ``?coc``
 

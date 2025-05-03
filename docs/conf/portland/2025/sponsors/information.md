@@ -27,8 +27,9 @@ Portland, Oregon 97214
 * 7:00am: Arrival and booth setup for Keystone/Patron sponsors
 * 8:00am: Doors to venue/sponsor booths open
 * 9:00am-5:00pm: Speaker Talks and Unconference
+* 10:55am: Booth sponsor introductions on main stage
 * 5:00-7:00pm: Evening break
-* 7:00-9:00pm: Evening party at Jupiter Hotel (800 E Burnside St, 2nd floor)
+* 7:00-9:00pm: Evening party at Jupiter NEXT (800 E Burnside St, 2nd floor)
 
 **TUESDAY, MAY 6**:
 
@@ -38,21 +39,19 @@ Portland, Oregon 97214
 * 4:00pm: Conference ends/load out
 * 5:30pm: Out of venue 
 
-The detailed speaker schedule will be released in March. 
-
 ## Conference Overview
 
 * **SUNDAY**: The first day of the conference is Writing Day, and is typically attended by one third of our attendees. Our Welcome Reception is in the evening and we see an influx of attendees come through for this. **There are no sponsor booths this day**, but we encourage you to submit a writing project for attendees to contribute to.
 
-* **MONDAY**: Day 1 of Speaker Talks and Unconference. Booth setup begins for Keystone and Patron sponsors at 7am. Attendees begin to arrive at 8am. Two thirds of attendees check in early this morning. There are seven speakers, with a short break after each talk. The Unconference track runs parallel to Speaker Talks. There is a Monday social gathering in the evening offsite.
+* **MONDAY**: Day 1 of Speaker Talks and Unconference. Booth setup begins for Keystone and Patron sponsors at 7am. Attendees begin to arrive at 8am. Sponsor introductions will happen at 10:55am on the main stage for booth sponsors. Two thirds of attendees check in early this morning. There are seven speakers, with a short break after each talk. The Unconference track runs parallel to Speaker Talks. There is a Monday social gathering in the evening offsite.
 
 * **TUESDAY**: Day 2 of Speaker Talks and Unconference. Keystone and Patron sponsor arrival is at 7:45am. Doors open at 8am. Schedule is similar to Monday. There are six speakers this day.
 
-The [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) will be posted in March.
+The [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) is available.
 
 ### Venue Layout
 
-We'll share a venue map in March with a more detailed layout. 
+Our [Venue page](/conf/{{ shortcode }}/{{ year }}/venue/) has more information about the venue, including the location of the sponsor booths, speaker talks, and other conference spaces.
 
 ## Media Kit
 

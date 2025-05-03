@@ -227,9 +227,6 @@ sponsors:
     - name: redocly-new
       link: https://redoc.ly/?ref=writethedocs
       brand: Redocly
-    - name: hyperlint
-      link: https://hyperlint.com/?ref=writethedocs
-      brand: Hyperlint
     - name: not-boring-tech-writer
       link: https://thenotboringtechwriter.com/?ref=writethedocs
       brand: The Not-Boring Tech Writer, from KnowledgeOwl
@@ -260,7 +257,7 @@ flagrunofshow: True
 flaghasschedule: True
 flagscheduleincomplete: True
 flaghasshirts: True
-flaglivestreaming: False
+flaglivestreaming: True
 flagvideos: False
 flagpostconf: False
 flaghasbadgeflair: False
