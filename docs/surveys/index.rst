@@ -8,7 +8,9 @@ Overwhelmed by the positive response, we expanded the survey to collect informat
 2024 Salary Survey Results available
 ------------------------------------
 
-[blurb]
+Salary Survey :doc:`results for 2024 <salary-survey/2024>` are now live! A big thank you to everyone who contributed.
+
+Stay tuned: the survey for 2025 will open in September.
 
 .. toctree::
    :caption: Survey Results
