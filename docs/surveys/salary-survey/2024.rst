@@ -2680,6 +2680,18 @@ The majority of employee respondents (71.8%) said they were satisfied (46%) or v
 
 .. raw:: html
 
+   <figure>
+      <object role="img" aria-label="Salary satisfaction" aria-describedby="figure_salary-satisfaction_desc" type="image/svg+xml" data="/_images/2024-salary-satisfaction.svg">
+         <p id="figure_salary-satisfaction_desc">Donut chart showing employee salary satisfaction.</p>
+      </object>
+      <figcaption>Figure: Salary satisfaction</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-salary-satisfaction.svg
+   :class: hide
+
+.. raw:: html
+
    </div><div class="tab__content">
 
 .. table:: Overall satisfaction
@@ -2703,9 +2715,19 @@ The majority of employee respondents (71.8%) said they were satisfied (46%) or v
 
 .. raw:: html
 
-   </div></div>
+   <figure>
+      <object role="img" aria-label="Overall satisfaction - employees" aria-describedby="figure_overall-satisfaction_desc" type="image/svg+xml" data="/_images/2024-overall-satisfaction-employees.svg">
+         <p id="figure_overall-satisfaction-employees_desc">Donut chart showing employee overall satisfaction.</p>
+      </object>
+      <figcaption>Figure: Overall satisfaction - employees</figcaption>
+   </figure>
 
-   <!-- CHART: salary and overall job satisfaction -->
+.. figure:: images/2024/2024-overall-satisfaction-employees.svg
+   :class: hide
+
+.. raw:: html
+
+   </div></div>
 
 Factors affecting salary satisfaction
 -------------------------------------
@@ -2781,7 +2803,7 @@ Respondents who indicated that the statement was not relevant to their situation
    :class: sortable statements
 
    +----------------------------------------------------+----------+---------+----------+
-   | Statements                                         | Positive | Neutral | Negative |
+   | Statements                                         | Agree    | Neutral | Disagree |
    +====================================================+==========+=========+==========+
    | I'm paid fairly                                    |    67.0% |   16.1% |    16.8% |
    +----------------------------------------------------+----------+---------+----------+
@@ -2789,6 +2811,18 @@ Respondents who indicated that the statement was not relevant to their situation
    +----------------------------------------------------+----------+---------+----------+
    | My benefits are sufficient                         |    68.9% |   17.8% |    13.4% |
    +----------------------------------------------------+----------+---------+----------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Satisfaction factors - salary and benefits - employees" aria-describedby="figure_satisfaction-factors-salary-employees_desc" type="image/svg+xml" data="/_images/2024-satisfaction-factors-salary-employees.svg">
+         <p id="figure_satisfaction-factors-salary-employees_desc">Horizontal bar chart showing levels of agreement with statements about respondents' salary and benefits.</p>
+      </object>
+      <figcaption>Figure: Satisfaction factors - salary and benefits - employees</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-satisfaction-factors-salary-employees.svg
+   :class: hide
 
 .. raw:: html
 
@@ -2800,7 +2834,7 @@ Respondents who indicated that the statement was not relevant to their situation
    :class: sortable statements
 
    +---------------------------------------------------+----------+---------+----------+
-   | Statements                                        | Positive | Neutral | Negative |
+   | Statements                                        | Agree    | Neutral | Disagree |
    +===================================================+==========+=========+==========+
    | My hours are reasonable                           |    88.0% |    7.4% |     4.5% |
    +---------------------------------------------------+----------+---------+----------+
@@ -2821,6 +2855,18 @@ Respondents who indicated that the statement was not relevant to their situation
 
 .. raw:: html
 
+   <figure>
+      <object role="img" aria-label="Satisfaction factors - overall job - employees" aria-describedby="figure_satisfaction-factors-job-employees_desc" type="image/svg+xml" data="/_images/2024-satisfaction-factors-job-employees.svg">
+         <p id="figure_satisfaction-factors-job-employees_desc">Horizontal bar chart showing levels of agreement with statements about respondents' overall job situation.</p>
+      </object>
+      <figcaption>Figure: Satisfaction factors - overall job - employees</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-satisfaction-factors-job-employees.svg
+   :class: hide
+
+.. raw:: html
+
    </div><div class="tab__content">
 
 .. table:: Satisfaction statements - workplace
@@ -2829,7 +2875,7 @@ Respondents who indicated that the statement was not relevant to their situation
    :class: sortable statements
 
    +-------------------------------------------------------------+----------+---------+----------+
-   | Statements                                                  | Positive | Neutral | Negative |
+   | Statements                                                  | Agree    | Neutral | Disagree |
    +=============================================================+==========+=========+==========+
    | I have flexibility in my work location                      |    82.0% |    6.6% |    11.4% |
    +-------------------------------------------------------------+----------+---------+----------+
@@ -2842,6 +2888,18 @@ Respondents who indicated that the statement was not relevant to their situation
 
 .. raw:: html
 
+   <figure>
+      <object role="img" aria-label="Satisfaction factors - workplace - employees" aria-describedby="figure_satisfaction-factors-workplace-employees_desc" type="image/svg+xml" data="/_images/2024-satisfaction-factors-workplace-employees.svg">
+         <p id="figure_satisfaction-factors-workplace-employees_desc">Horizontal bar chart showing levels of agreement with statements about respondents' workplace.</p>
+      </object>
+      <figcaption>Figure: Satisfaction factors - workplace - employees</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-satisfaction-factors-workplace-employees.svg
+   :class: hide
+
+.. raw:: html
+
    </div><div class="tab__content">
 
 .. table:: Satisfaction statements - team and organization
@@ -2850,7 +2908,7 @@ Respondents who indicated that the statement was not relevant to their situation
    :class: sortable statements
 
    +---------------------------------------------------------------+----------+---------+----------+
-   | Statements                                                    | Positive | Neutral | Negative |
+   | Statements                                                    | Agree    | Neutral | Disagree |
    +===============================================================+==========+=========+==========+
    | To my knowledge, salaries are consistent across similar roles |    43.5% |   35.8% |    20.7% |
    +---------------------------------------------------------------+----------+---------+----------+
@@ -2869,20 +2927,21 @@ Respondents who indicated that the statement was not relevant to their situation
 
 .. raw:: html
 
-   </div></div>
+   <figure>
+      <object role="img" aria-label="Satisfaction factors - team and organization - employees" aria-describedby="figure_satisfaction-factors-team-employees_desc" type="image/svg+xml" data="/_images/2024-satisfaction-factors-team-employees.svg">
+         <p id="figure_satisfaction-factors-team-employees_desc">Horizontal bar chart showing levels of agreement with statements about respondents' team and organization.</p>
+      </object>
+      <figcaption>Figure: Satisfaction factors - team and organization - employees</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-satisfaction-factors-team-employees.svg
+   :class: hide
 
 .. raw:: html
 
-   <!-- CHART: employee salary satisfaction factors -->
-   <figure>
-      <object role="img" aria-label="Factors affecting salary satisfaction" aria-describedby="figure_factors-affecting-salary-satisfaction_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
-         <p id="figure_factors-affecting-salary-satisfaction_desc">Horizontal bar chart showing factors affecting salary satisfaction, as reported by employee respondents in 2023.</p>
-      </object>
-      <figcaption>Figure: Factors affecting salary satisfaction</figcaption>
-   </figure>
+   </div></div>
 
-.. figure:: images/2024/2024-placeholder.svg
-   :class: hide
+.. raw:: html
 
 Contract rates and satisfaction
 ===============================
@@ -3342,7 +3401,7 @@ Respondents who indicated that the statement was not relevant to their situation
    :class: sortable statements
 
    +----------------------------------------------------------------------------------------------------------------+----------+---------+----------+
-   | Statements                                                                                                     | Positive | Neutral | Negative |
+   | Statements                                                                                                     | Agree    | Neutral | Disagree |
    +================================================================================================================+==========+=========+==========+
    | My rates keep pace with inflation / cost-of-living                                                             |    39.1% |   28.3% |    32.6% |
    +----------------------------------------------------------------------------------------------------------------+----------+---------+----------+
@@ -3361,7 +3420,7 @@ Respondents who indicated that the statement was not relevant to their situation
    :class: sortable statements
 
    +---------------------------------------------------+----------+---------+----------+
-   | Statements                                        | Positive | Neutral | Negative |
+   | Statements                                        | Agree    | Neutral | Disagree |
    +===================================================+==========+=========+==========+
    | My hours are reasonable                           |    93.5% |    5.4% |     1.1% |
    +---------------------------------------------------+----------+---------+----------+
@@ -3390,7 +3449,7 @@ Respondents who indicated that the statement was not relevant to their situation
    :class: sortable statements
 
    +---------------------------------------------+----------+---------+----------+
-   | Statements                                  | Positive | Neutral | Negative |
+   | Statements                                  | Agree    | Neutral | Disagree |
    +=============================================+==========+=========+==========+
    | I have flexibility in my work location      |    83.5% |    6.6% |     9.9% |
    +---------------------------------------------+----------+---------+----------+
@@ -3411,7 +3470,7 @@ Respondents who indicated that the statement was not relevant to their situation
    :class: sortable statements
 
    +---------------------------------------------------------------+----------+---------+----------+
-   | Statements                                                    | Positive | Neutral | Negative |
+   | Statements                                                    | Agree    | Neutral | Disagree |
    +===============================================================+==========+=========+==========+
    | To my knowledge, rates are consistent across similar roles    |    34.2% |   40.8% |    25.0% |
    +---------------------------------------------------------------+----------+---------+----------+
