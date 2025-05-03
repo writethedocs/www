@@ -3493,6 +3493,18 @@ As in previous years, medium-sized organizations make up the largest proportion 
    | |1| 1-10 employees                              | 8         | 1.0%      |
    +-------------------------------------------------+-----------+-----------+
 
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Organization size" aria-describedby="figure_organization-size_desc" type="image/svg+xml" data="/_images/2024-organization-size.svg">
+         <p id="figure_organization-size_desc">Vertical bar chart showing approximate organization size, in number of employees. </p>
+      </object>
+      <figcaption>Figure: Organization size</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-organization-size.svg
+   :class: hide
+
 Organization type and industry
 ------------------------------
 
@@ -3729,6 +3741,18 @@ We asked for the first time in 2024 if respondents were aware of the legal requi
 
 .. raw:: html
 
+   <figure>
+      <object role="img" aria-label="Pay transparency - official policy" aria-describedby="figure_pay-transparency-policy_desc" type="image/svg+xml" data="/_images/2024-pay-transparency-policy.svg">
+         <p id="figure_pay-transparency-policy_desc">Donut chart showing official pay transparency policy.</p>
+      </object>
+      <figcaption>Figure: Pay transparency policy</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-pay-transparency-policy.svg
+   :class: hide
+
+.. raw:: html
+
 	</div><div class="tab__content">
 
 .. table:: Pay transparency law
@@ -3749,8 +3773,6 @@ We asked for the first time in 2024 if respondents were aware of the legal requi
 .. raw:: html
 
    </div></div>
-
-   <!-- CHART: Pay transparency policy / law -->
 
 Pay transparency culture
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -3776,7 +3798,15 @@ The majority of respondents reported that there was not a culture of sharing sal
 
 .. raw:: html
 
-   <!-- CHART: Pay transparency culture -->
+   <figure>
+      <object role="img" aria-label="Pay transparency - unofficial culture" aria-describedby="figure_pay-transparency-culture_desc" type="image/svg+xml" data="/_images/2024-pay-transparency-culture.svg">
+         <p id="figure_pay-transparency-culture_desc">Donut chart showing unofficial pay transparency culture.</p>
+      </object>
+      <figcaption>Figure: Pay transparency culture</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-pay-transparency-culture.svg
+   :class: hide
 
 Support for pay transparency
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -4245,15 +4275,14 @@ As in previous years, most respondents are university- or college-educated: 94.2
 
 .. raw:: html
 
-   <!-- CHART: education level -->
    <figure>
-      <object role="img" aria-label="Respondent education level" aria-describedby="figure_respondent-education-level_desc" type="image/svg+xml" data="/_images/2024-placeholder.svg">
+      <object role="img" aria-label="Respondent education level" aria-describedby="figure_respondent-education-level_desc" type="image/svg+xml" data="/_images/2024-education-level.svg">
          <p id="figure_respondent-education-level_desc">Vertical bar chart showing respondents' highest completed level of education. </p>
       </object>
       <figcaption>Figure: Education level</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-placeholder.svg
+.. figure:: images/2024/2024-education-level.svg
    :class: hide
 
 Location
