@@ -35,9 +35,9 @@ Portland, Oregon 97214
 
 * 7:45am: Keystone/Patron sponsor arrival
 * 8:00am: Doors to venue/sponsor booths open
-* 9:00am-4:00pm: Speaker Talks and Unconference
+* 8:30am-3:30pm: Speaker Talks and Unconference
 * 4:00pm: Conference ends/load out
-* 5:30pm: Out of venue 
+* 5:00pm: Out of venue 
 
 ## Conference Overview
 
@@ -45,7 +45,7 @@ Portland, Oregon 97214
 
 * **MONDAY**: Day 1 of Speaker Talks and Unconference. Booth setup begins for Keystone and Patron sponsors at 7am. Attendees begin to arrive at 8am. Sponsor introductions will happen at 10:55am on the main stage for booth sponsors. Two thirds of attendees check in early this morning. There are seven speakers, with a short break after each talk. The Unconference track runs parallel to Speaker Talks. There is a Monday social gathering in the evening offsite.
 
-* **TUESDAY**: Day 2 of Speaker Talks and Unconference. Keystone and Patron sponsor arrival is at 7:45am. Doors open at 8am. Schedule is similar to Monday. There are six speakers this day.
+* **TUESDAY**: Day 2 of Speaker Talks and Unconference. Keystone and Patron sponsor arrival is at 7:45am. Doors open at 8am. Schedule is similar to Monday, but start and end a bit earlier.
 
 The [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) is available.
 
