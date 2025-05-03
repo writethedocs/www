@@ -42,6 +42,18 @@
     </head>
     <body>
 
+
+    {% if flagpostconf %}
+    <!-- Conference Over Banner -->
+    <div class="announcement" style="padding: 15px; text-align: center;">
+        <p>
+            <strong>The {{ name }} {{ year }} conference is now over.</strong><br>
+            Join us for the <a href="/conf/portland/2025/">2025 Portland conference</a>!
+        </p>
+    </div>
+    <!-- End of Conference Over Banner -->
+    {% endif %}
+
     {% block container %}
     {% endblock %}
 
