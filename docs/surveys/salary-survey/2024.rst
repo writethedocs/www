@@ -3436,6 +3436,18 @@ Respondents who indicated that the statement was not relevant to their situation
 
 .. raw:: html
 
+   <figure>
+      <object role="img" aria-label="Satisfaction factors - earnings - contractors" aria-describedby="figure_satisfaction-factors-earnings-contractors_desc" type="image/svg+xml" data="/_images/2024-satisfaction-factors-earnings-contractors.svg">
+         <p id="figure_satisfaction-factors-earnings-contractors_desc">Horizontal bar chart showing contractor respondents' level of agreement with statements about their earnings.</p>
+      </object>
+      <figcaption>Figure: Satisfaction factors - earnings - contractors</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-satisfaction-factors-earnings-contractors.svg
+   :class: hide
+
+.. raw:: html
+
 	</div><div class="tab__content">
 
 .. table:: Satisfaction statements - contracts and projects
@@ -3465,6 +3477,18 @@ Respondents who indicated that the statement was not relevant to their situation
 
 .. raw:: html
 
+   <figure>
+      <object role="img" aria-label="Satisfaction factors - contracts and projects - contractors" aria-describedby="figure_satisfaction-factors-contracts-contractors_desc" type="image/svg+xml" data="/_images/2024-satisfaction-factors-contracts-contractors.svg">
+         <p id="figure_satisfaction-factors-contracts-contractors_desc">Horizontal bar chart showing contractor respondents' level of agreement with statements about their contracts and projects.</p>
+      </object>
+      <figcaption>Figure: Satisfaction factors - contracts and projects - contractors</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-satisfaction-factors-contracts-contractors.svg
+   :class: hide
+
+.. raw:: html
+
 	</div><div class="tab__content">
 
 .. table:: Satisfaction statements - workplaces
@@ -3483,6 +3507,18 @@ Respondents who indicated that the statement was not relevant to their situation
    +---------------------------------------------+----------+---------+----------+
    | Our hybrid work environment functions well  |    64.1% |   28.2% |     7.7% |
    +---------------------------------------------+----------+---------+----------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Satisfaction factors - workplaces - contractors" aria-describedby="figure_satisfaction-factors-workplaces-contractors_desc" type="image/svg+xml" data="/_images/2024-satisfaction-factors-workplaces-contractors.svg">
+         <p id="figure_satisfaction-factors-workplaces-contractors_desc">Horizontal bar chart showing contractor respondents' level of agreement with statements about their workplace(s).</p>
+      </object>
+      <figcaption>Figure: Satisfaction factors - workplaces - contractors</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-satisfaction-factors-workplaces-contractors.svg
+   :class: hide
 
 .. raw:: html
 
@@ -3510,6 +3546,18 @@ Respondents who indicated that the statement was not relevant to their situation
    +---------------------------------------------------------------+----------+---------+----------+
    | I’m satisfied with our methodologies, systems and practices   |    57.3% |   27.0% |    15.7% |
    +---------------------------------------------------------------+----------+---------+----------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Satisfaction factors - teams and organizations - contractors" aria-describedby="figure_satisfaction-factors-teams-contractors_desc" type="image/svg+xml" data="/_images/2024-satisfaction-factors-teams-contractors.svg">
+         <p id="figure_satisfaction-factors-teams-contractors_desc">Horizontal bar chart showing contractor respondents' level of agreement with statements about their teams and organizations.</p>
+      </object>
+      <figcaption>Figure: Satisfaction factors - teams and organizations - contractors</figcaption>
+   </figure>
+
+.. figure:: images/2024/2024-satisfaction-factors-teams-contractors.svg
+   :class: hide
 
 .. raw:: html
 
