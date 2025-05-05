@@ -19,6 +19,7 @@ and chat with your fellow attendees.
 
 This will be our first in-person event in Europe since Prague 2019,
 and we're excited to add this to our conference lineup once again.
+The venue will be announced soon.
 
 Call for Proposals
 ------------------
