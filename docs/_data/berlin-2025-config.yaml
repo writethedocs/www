@@ -1,0 +1,224 @@
+name: Berlin
+shortcode: berlin
+year: 2025
+city: Berlin
+local_area: Germany
+area: Europe # European Australian
+area_adj: European
+tz: CET  # PT until March, PST after... :/
+email: berlin@writethedocs.org
+color: green
+rgb: 61, 217, 74
+hex: 3dd94a
+time_format: 24h
+
+photos:
+  default:
+    - _static/conf/images/headers/2025/grants.jpg
+    - _static/conf/images/headers/2025/unconference.jpg
+    - _static/conf/images/headers/2025/volunteer.jpg
+    - _static/conf/images/headers/2025/writing-day.jpg
+  index:
+    - _static/conf/images/pics/writing-day.jpg
+    - _static/conf/images/pics/reg.jpg
+
+buttons:
+  top:
+     - text: Conference announcement
+       link: /news/welcome
+    # - text: Sponsor us
+    #   link: /sponsors/prospectus
+    #- text: Submit a Talk
+    #  link: /cfp
+#    - text: See the Schedule!
+#      link: /schedule
+#    - text: Buy a Ticket
+#      link: /tickets
+    #- text: See the Speakers
+    #  link: /speakers
+    # - text: Attendee Guide
+    #   link: /attendee-guide
+    # - text: Watch the Live Stream
+    #   link: /livestream
+    # - text: Watch the videos
+    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpm4FboYSTD1Bs8Yp8k_JvAL
+    # - text: Conference recap
+    #   link: /news/thanks-recap
+  bottom:
+     - text: Conference announcement
+       link: /news/welcome
+    # - text: Sponsor us
+    #   link: /sponsors/prospectus
+    #- text: Submit a Talk
+    #  link: /cfp
+    # - text: Buy a Ticket!
+    #   link: /tickets
+    # - text: See the Schedule
+    #   link: /schedule
+#    - text: See the Talks
+#      link: /speakers
+#    - text: Read the Guide
+#      link: /attendee-guide
+    # - text: Watch the Live Stream
+    #   link: /livestream
+    # - text: Conference recap
+    #   link: /news/thanks-recap
+    # - text: Browse the photos
+    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720308088427
+    # - text: Watch the videos!
+    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpm4FboYSTD1Bs8Yp8k_JvAL
+
+tickets:
+  concierge:
+    price: €TBC
+  corporate:
+    price: €TBC
+  independent:
+    price: €TBC
+  student:
+    price: €TBC
+  virtual:
+    price: €TBC
+#  button: >
+#    .. raw:: html
+#
+#      <p style="margin: 2em 0;">
+#      <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
+#      <tr>
+#          <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
+#            <a href="https://ti.to/writethedocs/write-the-docs-portland-2025/" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Get your ticket</a>
+#          </td>
+#      </tr>
+#      </table>
+#      </p>
+
+sponsorship:
+  second_draft:
+    price: €TBC
+  publisher:
+    price: €TBC
+  patron:
+    price: €TBC
+  keystone:
+    price: €TBC
+
+grants:
+#  url: https://docs.google.com/forms/d/e/1FAIpQLSf3fGfW_8W1x3oeKeoUpg8ZPLvyY4cQvO5Bii_OTrgW97cLNw/viewform?embedded=true
+#  ends: 'February 5, 2025'
+#  notification: 'February 14, 2025'
+#
+#shirts:
+#  url: https://shirt.writethedocs.org/
+#  ends: "May 31, 2025"
+
+date: # how do we handle these? human readable would be nice.
+  main: "**Oct 27-28, 2025**"
+  short: Oct 27-28, 2025
+  tickets_live: "June 2024"
+  month: October
+
+  # Conference is special for the index to show the combined conference days
+  conference:
+    event: Speaker Talks
+    date: October 27-28
+    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience.
+    icon: conference
+
+  # These are listed in the schedule
+#  day_one:
+#    event: Hike
+#    date: May 3
+#    # summary: We encourage you to go on a hike in your own beautiful home town.
+#    summary: If you're in town early, join us for the Hike. Portland has excellent access to the woods right in the city.
+#    icon: hike
+#    dotw: Saturday
+#  day_two:
+#    event: Writing Day
+#    date: May 4
+#    summary: Kick off the conference with Writing Day and work with fellow documentarians on a project. Followed by the opening reception.
+#    icon: writing
+#    dotw: Sunday
+#    writing_day_time: 9am-5pm
+#    reception_time: 5-7pm
+  day_one:
+    event: Conference Day 1
+    date: October 27
+    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
+    dotw: Monday
+    talk_time: 10:00-17:00
+    unconference_time: 10:45-17:00
+    social_time: 18:30-23:00
+    icon: conference
+  day_two:
+    event: Conference Day 2
+    date: October 28
+    summary: And the conference goes on! More talks and unconference today!
+    dotw: Tuesday
+    talk_time: 10:00-17:00
+    job_fair_time: 10:00-12:00
+    unconference_time: 13:00-17:00
+    icon: conversation
+  total_talk_days: 2
+
+about:
+  attendees: 200
+#  social_venue: Jupiter NEXT, 900 E Burnside St (2nd floor)
+#  venue: Revolution Hall
+#  venue_address: Revolution Hall, 1300 SE Stark St, Portland, Oregon 97214
+#  photos: TBD
+  mainroom: Main stage
+  unconfroom: TBC
+  projector_ratio: "16:9"
+  job_fair_room: Sponsor area
+
+cfp:
+#  url: "https://pretalx.com/wtd-portland-2025/cfp" # Open October 6 (Mon) -> 9 weeks to submit
+#  ends: "January 21, 2025"                         # (Mon) 1 week, to review. It'll take a little longer to announce
+#  notification: "February 4, 2025"                 # (Mon) 8 weeks to write and prepare
+#  speaker_tickets_by: April 04, 2025                  # Approx 4 weeks before
+#  slides_by: "April 28, 2025"                      # (Mon) 1 week before
+#  preview: "TODO"                                  # Preview URL TODO
+
+unconf:
+  url: ""
+  date: "All day, Monday, October 27 and Tuesday, October 28"
+
+#writing_day:
+#  url: "https://docs.google.com/forms/u/1/d/e/1FAIpQLSeHMZ1uXTfnT0HMm-KfsgxYV1w3tmS7bMPtBx4H9cktJpSrdg/viewform?usp=dialog"
+#  date: Sunday, May 4, 9 AM - 5 PM
+
+#hike:
+#  date: Saturday, May 3, 2 PM
+
+sponsors:
+  keystone:
+  patron:
+  publisher:
+  second:
+  first:
+  in_kind:
+
+# Things that change over time, listed in order of change
+flaglanding: True
+flaghassponsors: False
+flagcfp: False
+flagticketsonsale: False
+flagsoldout: False
+flagspeakersannounced: False
+flagrunofshow: False
+flaghasschedule: False
+flagscheduleincomplete: False
+flaghasshirts: False
+flaglivestreaming: False
+flagvideos: False
+flagpostconf: False
+flaghasbadgeflair: False
+
+# Truthy things that don't change
+flaghasunconf: True
+flaghashike: False
+flaghasfood: True
+flaghaswritingday: False
+flaghaslightningtalks: True
+flaghasjobfair: True
+flaghasboat: False
