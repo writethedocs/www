@@ -41,7 +41,7 @@ Virtual tickets will not be limited.
 Sponsorship
 -----------
 
-We are working to revamp our sponsorship program for this year based on feedback previous events.
+We are working to revamp our sponsorship program based on feedback from previous events.
 We will be announcing our new sponsorship levels soon,
 but if you are already excited about sponsoring, reach out to us at sponsorship@writethedocs.org.
 

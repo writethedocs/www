@@ -114,7 +114,7 @@ grants:
 date: # how do we handle these? human readable would be nice.
   main: "**Oct 27-28, 2025**"
   short: Oct 27-28, 2025
-  tickets_live: "June 2024"
+  tickets_live: "June 2025"
   month: October
 
   # Conference is special for the index to show the combined conference days
