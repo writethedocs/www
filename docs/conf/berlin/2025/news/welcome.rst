@@ -62,5 +62,5 @@ and look for announcements in the ``#wtd-conferences`` channel.
 See you in Berlin
 -----------------
 
-We hope you will join us in Portland for another Write the Docs conference.
+We hope you will join us in Berlin for this new Write the Docs conference.
 Whether as a speaker, attendee, or sponsor, it should be another delightful year.
