@@ -55,15 +55,13 @@ talks_day1:
     slug: the-power-of-two-how-support-and-documentation-teams-transform-technical-conten-yanjie-niu
   - duration: '0:10'
     title: '✋ 10 min Q&A'
-  - duration: '0:5'
-    title: 'Sponsor intros'
   - duration: '0:15'
     title: '☕ Coffee break'
   - duration: '0:30'
     slug: regulate-this-writing-for-the-medical-device-industry-holly-mickelson
   - duration: '0:10'
     title: '✋ 10 min Q&A'
-  - duration: '1:20'
+  - duration: '1:25'
     title: '🍽️ Lunch Break (80 mins)'
   - duration: '0:30'
     title: Lightning Talks (30 mins)
@@ -130,8 +128,10 @@ talks_day2:
     slug: scaling-a-unicorn-how-to-mature-your-documentation-program-and-support-a-changi-elise-davis
   - duration: '0:10'
     title: '✋ 10 min Q&A'
-  - duration: '1:20'
-    title: '🍽️ Lunch Break (80 mins)'
+  - duration: '0:5'
+    title: 'Sponsor intros'
+  - duration: '1:15'
+    title: '🍽️ Lunch Break (75 mins)'
   - duration: '0:30'
     title: Lightning Talks (30 mins)
   - duration: '0:05'
