@@ -9,7 +9,7 @@ Write the Docs Newsletter – May 2025
 
 Hello, fabulous documentarians! I hope you all are doing splendidly and getting plenty of rest, whether you're filled with ideas from the Portland conference or spending time with yourself or loved ones. Anyway you can get it, finding time to recharge is always important.
 
-If you get energy from being around other documentarians, you'll be delighted about our new conference: Write the Docs Berlin, which will take place October 27--28 and will have in-person and virtual experiences. Find out more in the `Berlin announcement </conf/berlin/2025/news/welcome/>`__. If you find onsite events to be stressful, you may be interested in the entirely virtual Australia conference, November 20--21. You can read details about that in the `Australia announcement </conf/australia/2025/news/welcome/>`__. Whichever conference you choose, you're sure to find lots of ideas and great people.
+If you get energy from being around other documentarians, you'll be delighted about our new conference: `Write the Docs Berlin </conf/berlin/2025/news/welcome/>`__, which will take place October 27--28 and will have in-person and virtual experiences. If you find onsite events to be stressful, you may be interested in the entirely virtual `Australia conference </conf/australia/2025/news/welcome/>`__, November 20--21. Whichever conference you choose, you're sure to find lots of ideas and great people. So choose now and start planning.
 
 Outside the world of conferences, the 2024 Documentation Salary Survey results are out! For all the numbers, head over to the `2024 salary survey results </surveys/salary-survey/2023/>`__. TODO: change the year when the new one is published.
 
