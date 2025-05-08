@@ -228,7 +228,7 @@ Storytelling
 Writing doc sets
 ----------------
 
-- |:newspaper:| `Locked out: The user impact of gated product docs </blog/newsletter-may-2025/#locked-out-the-user-impact-of-gated-product-docs>`__
+- |:newspaper:| `Locked out: The effect on users from gated product docs </blog/newsletter-may-2025/#locked-out-the-effect-on-users-from-gated-product-docs>`__
 - |:newspaper:| `Public vs. private docs </blog/newsletter-june-2023/#public-vs-private-docs>`__
 - |:movie_camera:| `Don’t shoot yourself in the foot with content reuse </videos/portland/2022/don-t-shoot-yourself-in-the-foot-with-content-reuse-anna-gasparyan/>`__
 - |:movie_camera:| `How to launch your startup with good docs </videos/prague/2019/how-to-launch-your-startup-with-good-docs-brian-lemke/>`__

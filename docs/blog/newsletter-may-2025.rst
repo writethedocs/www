@@ -21,17 +21,17 @@ Minimum internal documentation
 
 Capturing and sharing knowledge that resides primarily in the minds of engineers is challenging and scales poorly. If engineering discussions and decisions aren't documented, downstream teams will struggle to extract these insights later in the software development process. One idea is to define a minimum set of internal documentation that product teams should create during software iterations.
 
-Consider developing some guidance for the contents of internal documentation. Engineers often focus on details, so encourage them to think about new features at a higher level. Provide a template to help engineers document essential information without overwhelming them. Some have experimented with using structured data files (such as YAML) to create manageable specifications for various interfaces and facilitate engineering contributions to internal documentation.
+Consider developing some guidance for the contents of internal documentation. Engineers often focus on details, so encourage them to think about new features at a higher level. Provide a template to help engineers document essential information easliy. Some have experimented with using structured data files (such as YAML) to create manageable specifications for various interfaces and facilitate engineering contributions to internal documentation.
 
-Another approach is to require certain minimum information in the tickets for public-facing docs, which would serve as a loose kind of internal documentation. You could require docs tickets to include context and descriptions, clear acceptance criteria, links to pull requests and associated development tickets, and links to resources such as user stories, one-pagers and requirements, code with comments, meeting notes and recordings, product demos, and relevant Slack threads.  
+Another approach is to require certain minimum information in the tickets for public-facing docs, which would serve as a loose kind of internal documentation. You could require docs tickets to include context and descriptions, clear acceptance criteria, links to pull requests and associated development tickets, and links to resources such as user stories, product requirements documents, code with comments, meeting notes, and product demos.  
 
 Fixing the knowledge transfer problem usually requires leadership support and a cultural shift. Engineering teams often develop new features under tight deadlines and internal docs fall by the wayside. Talk to those who are affected by the lack of internal docs, including engineers. Assess the time and resources that are lost to tracking down information and pausing work to explain things to other teams. Address the misconception that Agile practices do not require documentation. These conversations can help demonstrate why the time spent on internal documentation is time saved in the long run and can help you get buy-in from leadership.
 
 See more Write the Docs resources about `writing topics </topics/#writing-topics>`__.
 
--------------------------------------------------
-Locked out: The user impact of gated product docs
--------------------------------------------------
+-------------------------------------------------------
+Locked out: The effect on users from gated product docs
+-------------------------------------------------------
 
 Imagine you're trying out new software and want to learn how to use it. You go to the website looking for a guide -- but before you can read anything, you're asked to log in. Frustrating, right? This raises a big question: Should product documentation be open to everyone or kept behind a login?
 
@@ -59,7 +59,7 @@ Cons:
 
 One solution is to split the difference: keep private or advanced content behind a login but make basic guides and key references public. This gives most users what they need without giving away too much.
 
-Ultimately, deciding to gate documentation depends on balancing security needs with user accessibility, ensuring you provide the best possible experience without compromising essential information.
+Ultimately, deciding to gate documentation depends on balancing security needs with user accessibility. You want to provide the best possible experience without compromising essential information.
 
 See more Write the Docs resources about `writing docs sets </topics/#writing-doc-sets>`__.
 
@@ -76,7 +76,7 @@ In general, documentarians find themselves in one of two departments:
 - **Marketing**: These writers may focus more on customer-facing or company-oriented documentation and may work directly with other writers in the Marketing department. You may need to use tools used by others in the department instead of specialized tools. While the buy-in for documentation may be higher, Marketing may be considered a "cost" center and may experience more budget constraints and job insecurity.
 - **Engineering**: Often these writers focus on internal documentation for the department or create documentation for technical products (such as API documentation for developers). They may work directly with product managers who are part of the Engineering department. Working in Engineering may mean higher pay, more job security, better equipment, and access to better tools.
 
-Other options include Customer Success. In a small company, a documentarian may report directly to the CTO or CEO. This can be beneficial if you’re experienced and independent, but others may not get the support they need as a technical writer.
+Other options include Customer Support and Customer Success. In a small company, a documentarian may report directly to the CTO or CEO. This can be beneficial if you’re experienced and independent, but others may not get the support they need as a technical writer.
 
 See more Write the Docs resources about `jobs and careers </topics/#jobs-and-careers>`__.
 
@@ -84,17 +84,17 @@ See more Write the Docs resources about `jobs and careers </topics/#jobs-and-car
 Filtering out AI in hiring tests
 --------------------------------
 
-When hiring someone to take on a documentation (or other) role, you may have some sort of writing and/or editing assignment to get a sense of the candidate's skills (though you should never use candidate work in your actual docs without paying the creator). While many people have used them for years, some have worried that AI tools make it impossible to tell if candidates can actually write or edit.
+When hiring someone to take on a documentation (or other) role, you may have some sort of writing or editing assignment to get a sense of the candidate's skills (though you should never use candidate work in your actual docs without paying the creator). While many people have used such tests for years, some have worried that AI tools make it impossible to tell if candidates can actually write or edit.
 
 People generally agreed that such tests don't get at the things that make documentarians good at their jobs. But they can be useful in filtering out fraudulant applications. So how to structure them to still work?
 
-Some advice focused on asking people to explain why they did certain things in the assignment in an interview. One suggestion was to ask candidates to specifically use an AI tool and talk about how and why they did. These ideas are great for in-depth understanding, but require more time and are less useful as an initial filter.
+Some advice focused on asking people to explain why they did certain things in the assignment at an interview. One suggestion was to ask candidates to specifically use an AI tool and talk about how and why they did. These ideas are great for in-depth understanding, but require more time and are less useful as an initial filter.
 
-Others suggested not to base tests on existing technology – there's too much already written and so classic plagiarism or its new form (LLMs) will have an easy time with it.
+Others suggested not to base tests on existing technology – there's too much already written and so classic plagiarism or its new form (AI) will have an easy time with it.
 
 There was some discussion of live-writing exercises, where candidates write in front of you, but some worried it was a specific circumstance unlikely to be repeated at work and might not capture the same skills.
 
-Some suggested being more tricky and including hidden text with specific instructions to LLMs, such as to include somethng irrelevant in the response. If the content is there in the submission, at the least you know the candidate didn't check before submitting.
+Some suggested being trickier and having the assignment include hidden text with specific instructions to LLMs, such as to include somethng irrelevant in the response. If the content is there in the submission, at the least you know the candidate didn't check before submitting.
 
 The general consensus seemed to be that there isn't one approach that would work in all circumstances. Determine what skills are most necessary for the job you're hiring for and focus your efforts there. Almost all of your candidates will use LLMs in some way.
 
