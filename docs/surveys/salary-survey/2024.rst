@@ -16,6 +16,11 @@
 
    <i class="fa-solid fa-comment-quote"></i>
 
+.. |icon-newsletter| raw:: html
+
+   <i class="fa-solid fa-mailbox-flag-up"></i>
+
+
 .. |25| replace:: :abbr:`25 (25th percentile - one quarter of all salaries were lower than this value)`:sup:`th`
 
 .. |25th| replace:: 25\ :sup:`th`
@@ -83,8 +88,6 @@
    <div class="breadcrumbs"><a href="/">Home</a> &raquo; <a href="/surveys/">Salary Surveys</a> &raquo;</div>
   <main>
 
-   <!-- TODO: add survey-only newsletter signup form -->
-
 .. raw:: html
 
    <div id="mobile-nav-container">
@@ -115,6 +118,43 @@ This sixth incarnation of the Write the Docs Salary Survey drew **779 responses 
 
    **In a hurry?** Jump straight to `Median salary`_ or `Median rates`_.
 
+.. container:: note
+
+   |icon-newsletter|
+
+   .. rubric:: Stay in the loop
+
+   Sign up to the Write the Docs newsletter to get updates about all things WTD, including the salary survey. If you are not already subscribed and would like to *only* receive survey announcements, submit this form with just the "Salary Survey Announcements" box checked.
+
+   .. raw:: html
+
+      <div id="mc_embed_shell">
+         <div id="mc_embed_signup">
+            <form action="https://writethedocs.us6.list-manage.com/subscribe/post?u=94377ea46d8b176a11a325d03&amp;id=dcf0ed349b&amp;f_id=005135e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+               <div id="mc_embed_signup_scroll">
+                  <div class="mc-field-group">
+                     <label for="mce-EMAIL"><span>Email Address </span><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value="" placeholder="Email address">
+                  </div>
+                  <div class="mc-field-group input-group">What types of updates would you like?
+                     <ul>
+                        <li><input type="checkbox" name="group[14633][32]" id="mce-group[14633]-14633-5" value="" checked><label for="mce-group[14633]-14633-5"><strong>Salary Survey Announcements</strong></label></li>
+                        <li><input type="checkbox" name="group[14633][1]" id="mce-group[14633]-14633-0" value=""><label for="mce-group[14633]-14633-0">Monthly Community Newsletter</label></li>
+                        <li><input type="checkbox" name="group[14633][2]" id="mce-group[14633]-14633-1" value=""><label for="mce-group[14633]-14633-1">North American Conference Announcements</label></li>
+                        <li><input type="checkbox" name="group[14633][4]" id="mce-group[14633]-14633-2" value=""><label for="mce-group[14633]-14633-2">European Conference Announcements</label></li><li><input type="checkbox" name="group[14633][8]" id="mce-group[14633]-14633-3" value=""><label for="mce-group[14633]-14633-3">Australian Conference Announcements</label></li>
+                        <li><input type="checkbox" name="group[14633][16]" id="mce-group[14633]-14633-4" value=""><label for="mce-group[14633]-14633-4">Atlantic Conference Announcements</label></li>
+                        
+                     </ul>
+                  </div>
+                  <div id="mce-responses" class="clear">
+                     <div class="response" id="mce-error-response" style="display: none;"></div><div class="response" id="mce-success-response" style="display: none;"></div>
+                  </div>
+                  <div aria-hidden="true" style="position: absolute; left: -5000px;"><input type="text" name="b_94377ea46d8b176a11a325d03_dcf0ed349b" tabindex="-1" value=""></div>
+                  <div class="clear"><input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe"></div>
+               </div>
+            </form>
+         </div>
+         <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='TICKETLINK';ftypes[1]='url';fnames[2]='COMPANY';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
+
 Feedback
 --------
 
@@ -137,6 +177,26 @@ We're always keen to hear your thoughts on this survey, so that we can continue 
       Data from past years helped me understand how underpaid I was at the time and gave me confidence to negotiate with the next opportunity.
 
       In 2025, I expect to convert from a contractor to a full-time employee. I fully expect that I will need to negotiate my salary and will lean heavily on the WTD Salary Survey to do so.
+
+      Pay transparency data is extremely valuable. Keep up the good work!
+
+      I feel much more confident when interacting with recruiters and interviewers (not my employer, yet!) about what salary I'd accept in a potential job change thanks to the information in these surveys.
+
+      Salary transparency is critical to build equitable industry standards. Since technical writers don't always qualify for union membership, we need to share information with each other in other ways.
+
+      Thank you for making an industry-agnostic resource for technical writers. Standard salary sites recommended in MSM are so skewed towards software that they are of no use to me.
+
+      This survey has helped me identify best fit roles for both salary expectations and work life balance.
+
+      Documentarians - do yourself a favour and complete the survey. It will assist you heaps come during salary negotiations and pay rises. Back your claims with real and substantial data.
+
+      I regularly use WTD's salary information to help other writers negotiate higher pay for their roles, and I use it to negotiate mine too.
+
+      I love having a community that cares about supporting writers in getting paid what they're worth. I love this survey and I make sure to participate every year!
+
+      The 2023 WTD Salary Survey helped me negotiate a higher starting salary for a new role! Thanks to the organizers and everyone who participated!
+
+      My manager loves using the WTD Salary results to advocate a raise for me because the data is directly relevant to my role, versus the generic third party market rate tool HR uses.
 
    .. raw:: html
 
@@ -3491,7 +3551,7 @@ Respondents who indicated that the statement was not relevant to their situation
 
 	</div><div class="tab__content">
 
-.. table:: Satisfaction statements - workplaces
+.. table:: Satisfaction statements - workplaces 
    :widths: 55 15 15 15
    :name: tbl-2024-satisfaction-statements-contractor-workplaces
    :class: sortable statements

@@ -1,4 +1,6 @@
 :template: survey/layout.html
+:survey_year: 2023
+:description: The 5th annual WTD Documentation Salary Survey was filled out by 1017 documentarians in 53 countries, working across dozens of industries. Check out the full results here!
 
 .. title:: Documentation Salary Survey Results 2023
 
@@ -9,6 +11,14 @@
 .. |icon-question| raw:: html
 
    <i class="fa-solid fa-circle-question"></i>
+
+.. |icon-quote| raw:: html
+
+   <i class="fa-solid fa-comment-quote"></i>
+
+.. |icon-newsletter| raw:: html
+
+   <i class="fa-solid fa-mailbox-flag-up"></i>
 
 .. |25| replace:: :abbr:`25 (25th percentile - one quarter of all salaries were lower than this value)`:sup:`th`
 
@@ -28,18 +38,35 @@
 
 .. raw:: html   
    
-  <nav>
+  <nav role="navigation" aria-label="Table of contents" class="main-toc">
 
 .. contents::
    :local:
    :depth: 3
    :backlinks: none
 
+.. raw:: html 
+
 .. raw:: html
 
-  </nav>
+   </nav>
    <div class="breadcrumbs"><a href="/">Home</a> &raquo; <a href="/surveys/">Salary Surveys</a> &raquo;</div>
   <main>
+
+.. raw:: html
+
+   <div id="mobile-nav-container">
+      <div id="activator"><span></span><span></span><span></span></div>
+      <nav role="navigation" id="mobile-nav" class="mobile-nav">
+         
+.. contents:: Table of Contents
+   :depth: 2
+   :backlinks: none
+
+.. raw:: html
+
+      </nav>
+   </div>
       
 
 .. _top:
@@ -57,6 +84,43 @@ In a hurry? Jump straight to `Median salary`_ or `Median hourly rate`_.
 
 .. container:: note
 
+   |icon-newsletter|
+
+   .. rubric:: Stay in the loop
+
+   Sign up to the Write the Docs newsletter to get updates about all things WTD, including the salary survey. If you are not already subscribed and would like to *only* receive survey announcements, submit this form with just the "Salary Survey Announcements" box checked.
+
+   .. raw:: html
+
+      <div id="mc_embed_shell">
+         <div id="mc_embed_signup">
+            <form action="https://writethedocs.us6.list-manage.com/subscribe/post?u=94377ea46d8b176a11a325d03&amp;id=dcf0ed349b&amp;f_id=005135e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+               <div id="mc_embed_signup_scroll">
+                  <div class="mc-field-group">
+                     <label for="mce-EMAIL"><span>Email Address </span><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value="" placeholder="Email address">
+                  </div>
+                  <div class="mc-field-group input-group">What types of updates would you like?
+                     <ul>
+                        <li><input type="checkbox" name="group[14633][32]" id="mce-group[14633]-14633-5" value="" checked><label for="mce-group[14633]-14633-5"><strong>Salary Survey Announcements</strong></label></li>
+                        <li><input type="checkbox" name="group[14633][1]" id="mce-group[14633]-14633-0" value=""><label for="mce-group[14633]-14633-0">Monthly Community Newsletter</label></li>
+                        <li><input type="checkbox" name="group[14633][2]" id="mce-group[14633]-14633-1" value=""><label for="mce-group[14633]-14633-1">North American Conference Announcements</label></li>
+                        <li><input type="checkbox" name="group[14633][4]" id="mce-group[14633]-14633-2" value=""><label for="mce-group[14633]-14633-2">European Conference Announcements</label></li><li><input type="checkbox" name="group[14633][8]" id="mce-group[14633]-14633-3" value=""><label for="mce-group[14633]-14633-3">Australian Conference Announcements</label></li>
+                        <li><input type="checkbox" name="group[14633][16]" id="mce-group[14633]-14633-4" value=""><label for="mce-group[14633]-14633-4">Atlantic Conference Announcements</label></li>
+                        
+                     </ul>
+                  </div>
+                  <div id="mce-responses" class="clear">
+                     <div class="response" id="mce-error-response" style="display: none;"></div><div class="response" id="mce-success-response" style="display: none;"></div>
+                  </div>
+                  <div aria-hidden="true" style="position: absolute; left: -5000px;"><input type="text" name="b_94377ea46d8b176a11a325d03_dcf0ed349b" tabindex="-1" value=""></div>
+                  <div class="clear"><input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe"></div>
+               </div>
+            </form>
+         </div>
+         <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='TICKETLINK';ftypes[1]='url';fnames[2]='COMPANY';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
+
+.. container:: note
+
    .. rubric:: |icon-info| Note on independent contractors, freelancers and the self-employed
 
    In this year's survey, we asked those who filled out the survey as independent contractors, freelancers or self-employed people what term they used to describe their type of employment. Just over half (53.2%) preferred the term "contractor", another 27.8% used "self-employed", and 16.5% used "freelancer". In this report, we'll use the term "contractors" to refer to this entire group.
@@ -66,17 +130,30 @@ Feedback
 
 We're always keen to hear your thoughts on this survey, so that we can continue to develop and refine it - and if you have used the data to help negotiate a raise or evaluate an offer, we would love to know about it! Email us at support@writethedocs.org with your feedback, ideas and experiences. 
 
-Here are just some of the anonymous comments that respondents submitted in 2024:
+.. container:: text-carousel
 
-.. pull-quote::
+   |icon-quote|
 
-   I have a pretty good grasp on what salary I should be aiming for thanks to this survey! I hope other writers find this information as useful as I have. 
+   .. rubric:: Your comments
 
-   WTD surveys (along with TechCommNZ surveys) are very useful in salary negotiations and my manager really appreciates that I bring facts and data to the table. In fact, we wait until info is available before sitting down each year.
+   Here's some of our favourite comments from 2023: 
 
-   WTD Salary Survey helped me understand the value of my work. I decided to look for another job with a better pay range because of it. It gave me the courage to make that leap and get a higher-paying job.
+   .. pull-quote::
 
-   This has helped me ensure the members of my team are within an acceptable pay range and to advocate for across the board salary increases in the past.
+      I have a pretty good grasp on what salary I should be aiming for thanks to this survey! I hope other writers find this information as useful as I have. 
+
+      WTD surveys (along with TechCommNZ surveys) are very useful in salary negotiations and my manager really appreciates that I bring facts and data to the table. In fact, we wait until info is available before sitting down each year.
+
+      WTD Salary Survey helped me understand the value of my work. I decided to look for another job with a better pay range because of it. It gave me the courage to make that leap and get a higher-paying job.
+
+      This has helped me ensure the members of my team are within an acceptable pay range and to advocate for across the board salary increases in the past.
+   
+   .. raw:: html
+
+      <div class="text-carousel-controls">
+         <button id="prev-btn" aria-controls="text-carousel">Previous comment</button>
+         <button id="next-btn" aria-controls="text-carousel">Next comment</button>
+      </div>   
 
 Employment parameters
 =====================
@@ -92,7 +169,9 @@ Basis of employment
 
 .. container:: question
 
-   |icon-question| On what basis are you filling out this survey?
+   |icon-question| 
+   
+   On what basis are you filling out this survey?
 
    - I'm an employee
    - I was an employee, but am not currently working
@@ -136,7 +215,9 @@ Hours worked
 
 .. container:: question
 
-   |icon-question| How many hours per week do you work?
+   |icon-question| 
+   
+   How many hours per week do you work?
 
    - 1–20 hours
    - 21–30 hours
@@ -192,7 +273,9 @@ Job title
 
 .. container:: question
 
-   |icon-question| What is your job title?
+   |icon-question| 
+   
+   What is your job title?
 
 .. raw:: html
 
@@ -294,7 +377,9 @@ Type of role
 
 .. container:: question
 
-   |icon-question| How would you categorize your role? Select multiple roles, if appropriate.
+   |icon-question| 
+   
+   How would you categorize your role? Select multiple roles, if appropriate.
 
    - Writer, content creator, producer, editor
    - Developer, engineer
@@ -405,7 +490,9 @@ Length of time in current role
 
 .. container:: question
 
-   |icon-question| Employees: 
+   |icon-question| 
+   
+   Employees: 
 
    How long have you worked in your current role, at your current organization?
    
@@ -477,7 +564,9 @@ Proportion of role related to documentation
 
 .. container:: question
 
-   |icon-question| Documentation is:
+   |icon-question| 
+   
+   Documentation is:
 
    - the whole of my official job description
    - part of my official job description
@@ -587,7 +676,9 @@ Employment or contract status change
 
 .. container:: question
 
-   |icon-question| Employees:
+   |icon-question| 
+   
+   Employees:
 
    Has your employment status changed in the past year? 
    
@@ -717,7 +808,9 @@ Job or contract search status
 
 .. container:: question
 
-   |icon-question| Employees:
+   |icon-question| 
+   
+   Employees:
 
    What is your current job search status?
 
@@ -800,7 +893,9 @@ Job security and stability
 
 .. container:: question
 
-   |icon-question| How would you characterize your current feelings of job security and stability, or contract/freelance income security and stability, compared to this time last year?
+   |icon-question| 
+   
+   How would you characterize your current feelings of job security and stability, or contract/freelance income security and stability, compared to this time last year?
 
    - I'm less confident in my job security or contract/freelance income security than I was last year
    - My confidence level is around the same
@@ -838,7 +933,9 @@ Job offer considerations
 
 .. container:: question
 
-   |icon-question| When considering an offer of employment, how important do you consider the following 13 factors? 
+   |icon-question| 
+   
+   When considering an offer of employment, how important do you consider the following 13 factors? 
    
    The options for each were: not relevant, not very important, somewhat important, very important.
 
@@ -933,7 +1030,9 @@ Work location
 
 .. container:: question
 
-   |icon-question| What is your current work location?
+   |icon-question| 
+   
+   What is your current work location?
 
    - I am required to be on-site full time
    - I am on-site full time, but it is not required
@@ -1034,7 +1133,9 @@ The majority of respondents (80.8%) reported feeling "positive" about their work
 
 .. container:: question
 
-   |icon-question| Has your organization implemented a "return to office" policy - requesting or requiring that remote or "work from home" employees return to working on-site?
+   |icon-question| 
+   
+   Has your organization implemented a "return to office" policy - requesting or requiring that remote or "work from home" employees return to working on-site?
 
    - Yes, it's required all of the time
    - Yes, it's required but only part of the time (hybrid work is ok)
@@ -1127,7 +1228,9 @@ Preferred work location
 
 .. container:: question
 
-   |icon-question| Regardless of the policy at your current organization or your current situation, what is your preferred work location?
+   |icon-question| 
+   
+   Regardless of the policy at your current organization or your current situation, what is your preferred work location?
 
    - I prefer to work on-site on a full-time basis
    - I prefer to work remotely/from home on a full-time basis
@@ -1175,7 +1278,9 @@ Currency
 
 .. container:: question
 
-   |icon-question| What currency are you paid in? 
+   |icon-question| 
+   
+   What currency are you paid in? 
 
 .. raw:: html
 
@@ -1253,7 +1358,9 @@ Pay interval
 
 .. container:: question
 
-   |icon-question| Would you prefer to enter your salary as a yearly or monthly amount?
+   |icon-question| 
+   
+   Would you prefer to enter your salary as a yearly or monthly amount?
 
 .. raw:: html
 
@@ -1270,7 +1377,9 @@ Median salary
 
 .. container:: question
 
-   |icon-question| What is your total (gross) salary (including tax)? Note: If your total compensation is made up of a base salary and significant bonus, equity or commission payments, please enter your total compensation here (or an average, if it fluctuates).
+   |icon-question| 
+   
+   What is your total (gross) salary (including tax)? Note: If your total compensation is made up of a base salary and significant bonus, equity or commission payments, please enter your total compensation here (or an average, if it fluctuates).
 
 .. raw:: html
 
@@ -1889,7 +1998,9 @@ Employee benefits
 
 .. container:: question
 
-   |icon-question| Does your salary package include any additional benefits? Check all that apply, or select "none of the above".
+   |icon-question| 
+   
+   Does your salary package include any additional benefits? Check all that apply, or select "none of the above".
 
    - Paid vacation time (in excess of government-mandated minimums)
    - Paid parental leave (in excess of government-mandated minimum)
@@ -1977,7 +2088,9 @@ Employee satisfaction
 
 .. container:: question
 
-   |icon-question| Considering only your salary and benefits, rate your level of satisfaction:
+   |icon-question| 
+   
+   Considering only your salary and benefits, rate your level of satisfaction:
 
    - Very unsatisfied
    - Unsatisfied
@@ -2308,7 +2421,9 @@ Preferred term
 
 .. container:: question
 
-   |icon-question| What's your preferred term to describe the kind of work you do?
+   |icon-question| 
+   
+   What's your preferred term to describe the kind of work you do?
 
    - I consider myself a contractor
    - I consider myself a freelancer
@@ -2349,7 +2464,9 @@ Type of contract work
 
 .. container:: question
 
-   |icon-question| What kind of contract, freelance or self-employed work do you typically engage in? Check all that apply. 
+   |icon-question| 
+   
+   What kind of contract, freelance or self-employed work do you typically engage in? Check all that apply. 
 
    - I work for multiple clients at the same time
    - I work for one client at a time
@@ -2443,7 +2560,9 @@ Currency and rates
 
 .. container:: question
 
-   |icon-question| What is the primary currency that you use?
+   |icon-question| 
+   
+   What is the primary currency that you use?
 
    What is your hourly rate?
    What is you day rate?
@@ -2609,7 +2728,9 @@ Contractor satisfaction
 
 .. container:: question
 
-   |icon-question| Considering only your contractor or freelance rates, gauge your level of satisfaction:
+   |icon-question| 
+   
+   Considering only your contractor or freelance rates, gauge your level of satisfaction:
 
    - Very unsatisfied
    - Unsatisfied
@@ -2902,7 +3023,9 @@ Official pay transparency policy
 
 .. container:: question
 
-   |icon-question| Is there an official pay transparency policy at your organization?
+   |icon-question| 
+   
+   Is there an official pay transparency policy at your organization?
 
    - Yes - compensation is disclosed for all roles, levels, and job listings to all employees and candidates
    - Yes - but disclosure is limited to certain roles, levels, candidacy or employment status, or location
@@ -2946,7 +3069,9 @@ Pay transparency culture
 
 .. container:: question
 
-   |icon-question| Regardless of official policy, is there a culture of sharing salary information at your organization?
+   |icon-question| 
+   
+   Regardless of official policy, is there a culture of sharing salary information at your organization?
 
    - Yes - all or most of my co-workers openly share salary information
    - Partial - some of my co-workers share salary information
@@ -2985,7 +3110,9 @@ Feelings about pay transparency
 
 .. container:: question
 
-   |icon-question| Regardless of the situation at your organization, how do you personally feel about pay transparency?
+   |icon-question| 
+   
+   Regardless of the situation at your organization, how do you personally feel about pay transparency?
 
    - Strongly oppose
    - Oppose
@@ -3032,7 +3159,9 @@ Organization size
 
 .. container:: question
 
-   |icon-question| What is the approximate size of your organization, in number of employees?
+   |icon-question| 
+   
+   What is the approximate size of your organization, in number of employees?
 
    - Less than 10
    - 11 - 50
@@ -3115,7 +3244,9 @@ Organization type and industry
 
 .. container:: question
 
-   |icon-question| This organization is primarily:
+   |icon-question| 
+   
+   This organization is primarily:
 
    - A non-profit, community, political, educational or governmental organization, or an NGO
    - A business, corporation or other for-profit organization
@@ -3253,7 +3384,9 @@ Organization origin and location
 
 .. container:: question
 
-   |icon-question| Is this a multinational organization? Note: A multinational organization is defined as one that has office locations and business operations in two or more countries.
+   |icon-question| 
+   
+   Is this a multinational organization? Note: A multinational organization is defined as one that has office locations and business operations in two or more countries.
 
    Where is your organization based?
 
@@ -3440,7 +3573,9 @@ Age group
 
 .. container:: question
 
-   |icon-question| What is your age?
+   |icon-question| 
+   
+   What is your age?
 
    - 18-25
    - 26-35
@@ -3500,7 +3635,9 @@ Gender identity
 
 .. container:: question
 
-   |icon-question| What gender identity do you most identify with?
+   |icon-question| 
+   
+   What gender identity do you most identify with?
 
    - Woman
    - Man
@@ -3554,7 +3691,9 @@ Experience
 
 .. container:: question
 
-   |icon-question| How many years of experience do you have in documentation?
+   |icon-question| 
+   
+   How many years of experience do you have in documentation?
 
    - Less than 1 year
    - More than 1 year but less than  2 years
@@ -3623,7 +3762,9 @@ Education level
 
 .. container:: question
 
-   |icon-question| What is the highest level of education that you have completed?
+   |icon-question| 
+   
+   What is the highest level of education that you have completed?
    If your education level isn't listed, choose the option that's the closest equivalent to the level you have completed. We're asking for the highest level completed, so if you are still working towards a qualification, please select the highest level you have actually finished.
 
    - High school
@@ -3687,7 +3828,9 @@ Location
 
 .. container:: question
 
-   |icon-question| Which of the following best describes the type of area where you reside?
+   |icon-question| 
+   
+   Which of the following best describes the type of area where you reside?
 
    - Rural area (low population density, ≤5000 people)
    - Town or suburban area (medium population density, ≤50,000 people)
@@ -4074,7 +4217,9 @@ For the first time this year, we included a mini "meta-survey" - a handful of qu
 
 .. container:: question
 
-   |icon-question| Have you participated in a WTD Salary Survey before?
+   |icon-question| 
+   
+   Have you participated in a WTD Salary Survey before?
 
    How would you rate the following three aspects of the survey? Options given for each were: excellent, good, OK, not great, no opinion.
 
