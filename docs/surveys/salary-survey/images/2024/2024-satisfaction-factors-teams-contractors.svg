@@ -1,0 +1,95 @@
+<svg viewBox="0 55 660 368" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2024-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+	<g id="2024-satisfaction-factors-teams-contractors">
+
+		<g class="title">
+			<text font-size="14"><tspan x="40" y="33">Satisfaction factors: teams and organizations</tspan></text>
+			<text font-size="12" class="subtitle"><tspan x="40" y="49">Contractors</tspan></text>
+		</g>
+
+		<g class="bar-chart-horizontal">
+
+      <g class="legend">
+        <path d="M223 390C223 391.591 223.632 393.117 224.757 394.243C225.883 395.368 227.409 396 229 396C230.591 396 232.117 395.368 233.243 394.243C234.368 393.117 235 391.591 235 390C235 388.409 234.368 386.883 233.243 385.757C232.117 384.632 230.591 384 229 384C227.409 384 225.883 384.632 224.757 385.757C223.632 386.883 223 388.409 223 390Z" fill="#E4774E"/>
+        <path d="M307.764 390C307.764 391.591 308.396 393.117 309.522 394.243C310.647 395.368 312.173 396 313.764 396C315.355 396 316.882 395.368 318.007 394.243C319.132 393.117 319.764 391.591 319.764 390C319.764 388.409 319.132 386.883 318.007 385.757C316.882 384.632 315.355 384 313.764 384C312.173 384 310.647 384.632 309.522 385.757C308.396 386.883 307.764 388.409 307.764 390Z" fill="#E9C168"/>
+        <path d="M385.413 390C385.413 391.591 386.045 393.117 387.17 394.243C388.295 395.368 389.821 396 391.413 396C393.004 396 394.53 395.368 395.655 394.243C396.78 393.117 397.413 391.591 397.413 390C397.413 388.409 396.78 386.883 395.655 385.757C394.53 384.632 393.004 384 391.413 384C389.821 384 388.295 384.632 387.17 385.757C386.045 386.883 385.413 388.409 385.413 390Z" fill="#82A555"/>
+        <text font-size="10"><tspan x="239" y="393">Negative</tspan></text>
+        <text font-size="10"><tspan x="323" y="393">Neutral</tspan></text>
+        <text font-size="10"><tspan x="401" y="393">Positive</tspan></text>
+      </g>
+      <g class="consistent">
+        <text font-size="10"><tspan x="56" y="100">Salaries are consistent</tspan><tspan x="70" y="111">across similar roles</tspan></text>
+        <path d="M239 88H167C164.239 88 162 90.2386 162 93V110C162 112.761 164.239 115 167 115H239C241.761 115 244 112.761 244 110V93C244 90.2386 241.761 88 239 88Z" fill="#E4774E"/>
+        <path d="M374 88H251C248.239 88 246 90.2386 246 93V110C246 112.761 248.239 115 251 115H374C376.761 115 379 112.761 379 110V93C379 90.2386 376.761 88 374 88Z" fill="#E9C168"/>
+        <path d="M487 88H386C383.239 88 381 90.2386 381 93V110C381 112.761 383.239 115 386 115H487C489.761 115 492 112.761 492 110V93C492 90.2386 489.761 88 487 88Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="192" y="106">25%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="302" y="106">41%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="425" y="106">34%</tspan></text>
+      </g>
+      <g class="gender">
+        <text font-size="10"><tspan x="48" y="145">All genders are paid equally</tspan></text>
+        <path d="M245 128H184C181.239 128 179 130.239 179 133V150C179 152.761 181.239 155 184 155H245C247.761 155 250 152.761 250 150V133C250 130.239 247.761 128 245 128Z" fill="#E4774E"/>
+        <path d="M371 128H257C254.239 128 252 130.239 252 133V150C252 152.761 254.239 155 257 155H371C373.761 155 376 152.761 376 150V133C376 130.239 373.761 128 371 128Z" fill="#E9C168"/>
+        <path d="M504 128H383C380.239 128 378 130.239 378 133V150C378 152.761 380.239 155 383 155H504C506.761 155 509 152.761 509 150V133C509 130.239 506.761 128 504 128Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="203" y="146">22%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="301" y="146">38%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="431" y="146">40%</tspan></text>
+      </g>
+      <g class="valued">
+        <text font-size="10"><tspan x="51" y="184">My role is sufficiently valued</tspan></text>
+        <path d="M263 167H189C186.239 167 184 169.239 184 172V189C184 191.761 186.239 194 189 194H263C265.761 194 268 191.761 268 189V172C268 169.239 265.761 167 263 167Z" fill="#E4774E"/>
+        <path d="M344 167H275C272.239 167 270 169.239 270 172V189C270 191.761 272.239 194 275 194H344C346.761 194 349 191.761 349 189V172C349 169.239 346.761 167 344 167Z" fill="#E9C168"/>
+        <path d="M509 167H356C353.239 167 351 169.239 351 172V189C351 191.761 353.239 194 356 194H509C511.761 194 514 191.761 514 189V172C514 169.239 511.761 167 509 167Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="215" y="185">26%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="297" y="185">24%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="420" y="185">50%</tspan></text>
+      </g>
+      <g class="managers">
+        <text font-size="10"><tspan x="86" y="224">I like/respect my managers/team leaders</tspan></text>
+        <path d="M284 207H279C276.239 207 274 209.239 274 212V229C274 231.761 276.239 234 279 234H284C286.761 234 289 231.761 289 229V212C289 209.239 286.761 207 284 207Z" fill="#E4774E"/>
+        <path d="M325 207H296C293.239 207 291 209.239 291 212V229C291 231.761 293.239 234 296 234H325C327.761 234 330 231.761 330 229V212C330 209.239 327.761 207 325 207Z" fill="#E9C168"/>
+        <path d="M599 207H337C334.239 207 332 209.239 332 212V229C332 231.761 334.239 234 337 234H599C601.761 234 604 231.761 604 229V212C604 209.239 601.761 207 599 207Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="298" y="225">12%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="455" y="225">83%</tspan></text>
+      </g>
+      <g class="coworkers">
+        <text font-size="10"><tspan x="152" y="264">I like/respect my co-workers</tspan></text>
+        <path d="M291 270.5V250.5C291 248.567 289.433 247 287.5 247C285.567 247 284 248.567 284 250.5V270.5C284 272.433 285.567 274 287.5 274C289.433 274 291 272.433 291 270.5Z" fill="#E4774E"/>  
+        <path d="M323 247H298C295.239 247 293 249.239 293 252V269C293 271.761 295.239 274 298 274H323C325.761 274 328 271.761 328 269V252C328 249.239 325.761 247 323 247Z" fill="#E9C168"/>
+        <path d="M609 247H335C332.239 247 330 249.239 330 252V269C330 271.761 332.239 274 335 274H609C611.761 274 614 271.761 614 269V252C614 249.239 611.761 247 609 247Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="298" y="265">11%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="459" y="265">87%</tspan></text>
+      </g>
+      <g class="org">
+        <text font-size="10"><tspan x="115" y="303">I like/respect my organization</tspan></text>
+        <path d="M275 286H259C256.239 286 254 288.239 254 291V308C254 310.761 256.239 313 259 313H275C277.761 313 280 310.761 280 308V291C280 288.239 277.761 286 275 286Z" fill="#E4774E"/>
+        <path d="M334 286H287C284.239 286 282 288.239 282 291V308C282 310.761 284.239 313 287 313H334C336.761 313 339 310.761 339 308V291C339 288.239 336.761 286 334 286Z" fill="#E9C168"/>
+        <path d="M579 286H346C343.239 286 341 288.239 341 291V308C341 310.761 343.239 313 346 313H579C581.761 313 584 310.761 584 308V291C584 288.239 581.761 286 579 286Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="259" y="304">8%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="298" y="304">18%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="450" y="304">74%</tspan></text>
+      </g>
+      <g class="systems">
+        <text font-size="10"><tspan x="76" y="343">I&#x2019;m satisfied with our systems</tspan></text>
+        <path d="M259 326H217C214.239 326 212 328.239 212 331V348C212 350.761 214.239 353 217 353H259C261.761 353 264 350.761 264 348V331C264 328.239 261.761 326 259 326Z" fill="#E4774E"/>
+        <path d="M348 326H271C268.239 326 266 328.239 266 331V348C266 350.761 268.239 353 271 353H348C350.761 353 353 350.761 353 348V331C353 328.239 350.761 326 348 326Z" fill="#E9C168"/>
+        <path d="M537 326H360C357.239 326 355 328.239 355 331V348C355 350.761 357.239 353 360 353H537C539.761 353 542 350.761 542 348V331C542 328.239 539.761 326 537 326Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="227" y="344">16%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="297" y="344">27%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="436" y="344">57%</tspan></text>
+      </g>
+
+		</g>
+
+	</g>
+
+</svg>
