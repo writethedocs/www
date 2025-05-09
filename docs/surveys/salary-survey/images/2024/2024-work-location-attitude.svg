@@ -1,0 +1,46 @@
+<svg viewBox="0 55 660 188" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+	<defs>
+	
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2024-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+ 
+  <g id="2024-work-location-attitude">
+
+    <g class="title">
+      <text font-size="14"><tspan x="40" y="33">Attitude twards work location</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Employees and contractors combined</tspan></text>
+    </g>
+
+    <g class="donut-chart">
+
+      <path d="M152 160C157 160 181.727 168.034 183.63 168.652L185.532 169.271" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M180 222.061C179.999 219.711 180.053 217.361 180.163 215.014L270.065 219.206C270.021 220.145 270 221.084 270 222.024L180 222.061Z" fill="#C2255C" stroke="white" stroke-width="2"/>
+      <path d="M180.17 214.864C180.472 208.519 181.177 202.2 182.28 195.944L270.912 211.578C270.471 214.08 270.189 216.608 270.068 219.146L180.17 214.864Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+      <path d="M182.307 195.796C185.548 177.529 192.149 160.021 201.777 144.161L278.711 190.864C274.86 197.208 272.219 204.211 270.923 211.518L182.307 195.796Z" fill="#E9C168" stroke="white" stroke-width="2"/>
+      <path d="M201.855 144.033C215.723 121.239 235.421 102.557 258.916 89.9125C282.412 77.2683 308.855 71.12 335.518 72.1016L332.207 162.041C321.542 161.648 310.965 164.107 301.567 169.165C292.168 174.223 284.289 181.696 278.742 190.813L201.855 144.033Z" fill="#82A555" stroke="white" stroke-width="2"/>
+      <path d="M335.668 72.1072C374.416 73.5724 411.09 89.9853 437.999 117.903C464.908 145.821 479.961 183.075 480 221.85L390 221.94C389.984 206.43 383.963 191.529 373.2 180.361C362.436 169.194 347.766 162.629 332.267 162.043L335.668 72.1072Z" fill="#087F5B" stroke="white" stroke-width="2"/>
+      <path d="M142 217C147 217 172.92 219.04 174.914 219.197L176.908 219.354" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M146 196C151 196 175.727 204.034 177.63 204.652L179.532 205.271" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M212 81C217 81 239.169 94.585 240.874 95.63L242.579 96.675" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M486.579 118C481.579 118 459.411 131.585 457.705 132.63L456 133.675" stroke="#252521" stroke-dasharray="1 3"/>
+      
+      <text font-size="14" class="value-labels-inner"><tspan x="204" y="187.8">11.8%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="258" y="130.8">33.8%</tspan></text>
+      <text font-size="14" class="value-labels-inner reverse"><tspan x="392" y="143.8">48.8%</tspan></text>
+      <text font-size="10"><tspan x="114" y="162.11">Neutral</tspan></text>
+      <text font-size="10"><tspan x="174" y="81.11">Positive</tspan></text>
+      <text font-size="10"><tspan x="490" y="119.11">Very positive</tspan></text>
+      <text font-size="10"><tspan x="49" y="219.11">Very negative (1.5%)</tspan></text>
+      <text font-size="10"><tspan x="75" y="198.11">Negative (4.1%)</tspan></text>
+    
+    </g>
+
+  </g>
+
+</svg>
