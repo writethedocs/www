@@ -11,7 +11,7 @@ Hello, fabulous documentarians! I hope you all are doing splendidly and getting 
 
 If you get energy from being around other documentarians, you'll be delighted about our new conference: `Write the Docs Berlin </conf/berlin/2025/news/welcome/>`__, which will take place October 27--28 and will have in-person and virtual experiences. If you find onsite events to be stressful, you may be interested in the entirely virtual `Australia conference </conf/australia/2025/news/welcome/>`__, November 20--21. Whichever conference you choose, you're sure to find lots of ideas and great people. So choose now and start planning.
 
-Outside the world of conferences, the 2024 Documentation Salary Survey results are out! For all the numbers, head over to the `2024 salary survey results </surveys/salary-survey/2023/>`__. TODO: change the year when the new one is published.
+Outside the world of conferences, the 2024 Documentation Salary Survey results are out! For all the numbers, head over to the `2024 salary survey results </surveys/salary-survey/2024/>`__.
 
 This month's newsletter has articles on the least you can do for internal docs, why or why not to put a gate on your docs, where documentarians fit in organizations, and how to filter out AI submissions for hiring. Enjoy!
 
