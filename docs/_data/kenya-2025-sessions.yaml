@@ -44,21 +44,17 @@
   abstract:
     "Documentation often gets a bad reputation, seen as dry, mechanical, and
     difficult to navigate. But what if we could make it engaging, intuitive, and even
-    enjoyable? _x000D_
+    enjoyable?
 
-    _x000D_
+
 
     We'll explore how techniques from storytelling and improvisational theater can
     transform documentation from a mere set of instructions into a compelling user
-    experience. _x000D_
-
-    _x000D_
+    experience.
 
     By borrowing from these creative disciplines, we can craft documentation that
     guides users naturally, anticipates their needs, and adapts dynamically to real-world
-    use._x000D_
-
-    _x000D_
+    use.
 
     This talk is designed to inspire, educate, and provide actionable techniques that
     attendees can immediately apply to their documentation projects."
@@ -93,15 +89,15 @@
     "This presentation intends to share the success story of WritersOnDemand,\
     \ the flagship program of the Lead Together User Assistance Forum at SAP Labs\
     \ India, Bengaluru, and how it has transformed the way we meet content needs across\
-    \ teams._x000D_\n _x000D_\nQuite often, in fast-paced and dynamic environments,\
+    \ teams. Quite often, in fast-paced and dynamic environments,\
     \ product teams struggle with urgent documentation needs, whether it’s a new product\
     \ launch, documentation of a complex feature, addressing gaps in existing documentation,\
-    \ or a one-off case when the team has ruled out the need for a full-time writer._x000D_\n\
-    \ _x000D_\nIn a parallel universe, many aspiring and experienced writers seek\
+    \ or a one-off case when the team has ruled out the need for a full-time writer.\
+    \ In a parallel universe, many aspiring and experienced writers seek\
     \ opportunities to broaden their expertise in areas beyond their regular work\
     \ (for example, content strategy, authoring blogs, creating visual content, contributions\
     \ to other products, doc publishing, and so on) while intending to gain exposure\
-    \ to new domains._x000D_\n _x000D_\nRecognizing this gap, we introduced WritersOnDemand,\
+    \ to new domains. Recognizing this gap, we introduced WritersOnDemand,\
     \ a structured initiative that connects product teams with enthusiastic writers\
     \ eager to contribute beyond their regular tasks and take up stretch assignments.\
     \ Through this program, we created a flexible and scalable model that enables\
@@ -109,7 +105,7 @@
     \ of documentation, while providing the writers with hands-on experience, cross-team\
     \ collaboration, greater visibility, and career growth opportunities. What started\
     \ as an experiment with a closed group of writers has now evolved into a thriving\
-    \ ecosystem of collaboration and shared success._x000D_\n _x000D_\nIn this presentation,\
+    \ ecosystem of collaboration and shared success. In this presentation,\
     \ we will take you through our journey - how we built, scaled, and refined WritersOnDemand\
     \ - and share the impact it has made across teams and geographies. In addition,\
     \ we’d love to share what our authors and product teams say about their engagement\
@@ -130,16 +126,14 @@
     of Markdown with the power of React components, enabling the creation of interactive
     and dynamic documentation. This talk will explore the benefits of adopting MDX,
     demonstrate how to integrate interactive elements seamlessly, and provide best
-    practices to enhance user experience._x000D_
+    practices to enhance user experience.
 
     This session delves into the transformative potential of MDX in technical documentation.
     Participants will explore how MDX allows for the seamless integration of interactive
     elements, such as live code snippets, interactive demos, and dynamic visualizations,
     directly within documentation. This fusion not only enhances user engagement but
     also facilitates a deeper understanding of complex concepts by allowing readers
-    to interact with the content in real-time.​_x000D_
-
-    _x000D_
+    to interact with the content in real-time.​
 
     Beyond interactivity, MDX promotes the creation of reusable components, ensuring
     consistency and efficiency across documentation projects. By leveraging React's
@@ -195,120 +189,116 @@
     related talks and workshops at conferences over the years (way back to Write The
     Docs 2015 in Prague), and even though this proposal is for a hands-on workshop,
     if your programming would benefit more with a presentation type of a session,
-    I can easily rework the content to meet that need. _x000D_
+    I can easily rework the content to meet that need.
 
-    _x000D_
+    Introduction
 
-    _x000D_
 
-    Introduction_x000D_
-
-    _x000D_
 
     Why is PDF accessibility such a headache? Is it really “on the scale with world
-    peace and being able to buy a dark chocolate kit kat bar” (http://webaim.org/discussion/mail_message?id=20756)_x000D_
+    peace and being able to buy a dark chocolate kit kat bar” (http://webaim.org/discussion/mail_message?id=20756)
 
-    _x000D_
 
-    But don’t we have a standard?_x000D_
 
-    PDF/UA, the ISO 14289 standard for accessible PDF_x000D_
+    But don’t we have a standard?
 
-    _x000D_
+    PDF/UA, the ISO 14289 standard for accessible PDF
 
-    HOW do you produce PDF files?_x000D_
 
-    - MS Office, LibreOffice, HTML, something else…?_x000D_
 
-    - Start with a SOURCE document, make it accessible first!_x000D_
+    HOW do you produce PDF files?
 
-    - Do basic checkups with native validators_x000D_
+    - MS Office, LibreOffice, HTML, something else…?
 
-    - Save & Export as PDF, DO NOT print!_x000D_
+    - Start with a SOURCE document, make it accessible first!
 
-    _x000D_
+    - Do basic checkups with native validators
 
-    CHECK the resulting PDF in Adobe Acrobat DC or other tools (see the list of resources)_x000D_
+    - Save & Export as PDF, DO NOT print!
 
-    - Reveal Accessibility Toolbar  _x000D_
 
-    - Do a Full Check and open the Accessibility Report_x000D_
 
-    - Use automatic fixes when available_x000D_
+    CHECK the resulting PDF in Adobe Acrobat DC or other tools (see the list of resources)
 
-    _x000D_
+    - Reveal Accessibility Toolbar
 
-    TEST conformance with PAC 2024_x000D_
+    - Do a Full Check and open the Accessibility Report
+
+    - Use automatic fixes when available
+
+
+
+    TEST conformance with PAC 2024
 
     Free tool, originally from the Swiss Foundation “Access for All”, now under the
-    umbrella of axes4_x000D_
+    umbrella of axes4
 
     First implementation of the Matterhorn Protocol, provides checkpoints and failure
     conditions in order to help document authors create fully accessible PDF files
-    and forms._x000D_
+    and forms.
 
-    _x000D_
 
-    Hands ON!_x000D_
 
-    _x000D_
+    Hands ON!
 
-    Adobe Acrobat Accessibility Checker_x000D_
 
-    How to fix:_x000D_
 
-    - Document issue_x000D_
+    Adobe Acrobat Accessibility Checker
 
-    - Page Content issues_x000D_
+    How to fix:
 
-    - Headings_x000D_
+    - Document issue
 
-    - Alternate text (images & links)_x000D_
+    - Page Content issues
 
-    - Tables_x000D_
+    - Headings
 
-    - Lists_x000D_
+    - Alternate text (images & links)
 
-    - Forms_x000D_
+    - Tables
 
-    - Metadata_x000D_
+    - Lists
 
-    _x000D_
+    - Forms
 
-    What can’t you fix (needs manual check)?_x000D_
+    - Metadata
 
-    Logical Reading Order_x000D_
 
-    Color Contrast_x000D_
 
-    _x000D_
+    What can’t you fix (needs manual check)?
 
-    PAC: PDF document Accessibility Checker_x000D_
+    Logical Reading Order
 
-    - Is your PDF tagged? If not go back to the source doc and re-export!_x000D_
+    Color Contrast
 
-    - Summary report_x000D_
 
-    - Results in detail_x000D_
 
-    - Screen Reader Preview_x000D_
+    PAC: PDF document Accessibility Checker
 
-    _x000D_
+    - Is your PDF tagged? If not go back to the source doc and re-export!
+
+    - Summary report
+
+    - Results in detail
+
+    - Screen Reader Preview
+
+
 
     PAC gives you indications of points of failure to conform to standards, but you
-    must go back to Adobe Acrobat to fix the relevant Content, Order and Tags._x000D_
+    must go back to Adobe Acrobat to fix the relevant Content, Order and Tags.
 
-    _x000D_
 
-    List of Tools_x000D_
 
-    _x000D_
+    List of Tools
+
+
 
     I will provide a comprehensive list of recommended tools (all free and/or open
     source), and practical exercises similar to the ones for the workshops at NORDIK
-    2017 and tcworld India 2020:_x000D_
+    2017 and tcworld India 2020:
 
-    https://radinamatic.github.io/NORDIC-TechKomm-2017/_x000D_
+    https://radinamatic.github.io/NORDIC-TechKomm-2017/
 
     https://radinamatic.github.io/tcworld-india-2020/"
 - title: "From Boring to Brilliant: Transforming Documentation into a Game-Changer"
@@ -341,9 +331,7 @@
   abstract:
     "This will be a detailed guide on how to train and master prompting and
     having conversations with AI that are productive and help you utilize Language
-    Learning Models in your documentation._x000D_
-
-    _x000D_
+    Learning Models in your documentation.
 
     Prompt Engineering is not just about giving AI instructions it's about context,
     roles, communication, and desired solutions. This session will aim to help everyone
@@ -364,38 +352,24 @@
     as it often requires time and effort away from actual code.  However, the explosion
     and recently ubiquitous of Generative ai tools unleashes unlimited capability
     as a background assistant to developers in helping them automatically generate
-    initial documentation to their code._x000D_
-
-    _x000D_
+    initial documentation to their code.
 
     In this talk we will explore how Generative AI in studio code can be the secret
     ingredient for producing high-quality documentation quickly. This session will
-    highlight:_x000D_
-
-    _x000D_
+    highlight:
 
     Speed Meets Quality: Learn how AI can help create initial drafts and refine technical
-    content, ensuring rapid output without compromising clarity._x000D_
-
-    _x000D_
+    content, ensuring rapid output without compromising clarity.
 
     Offline Capabilities: Discover how leveraging local language models provides robust,
-    offline generative functionalities, offering flexibility and enhanced control._x000D_
-
-    _x000D_
+    offline generative functionalities, offering flexibility and enhanced control.
 
     Best Practices & Pitfalls: Gain insights from early adopters on what works—and
-    what doesn’t—in the realm of AI-driven documentation._x000D_
-
-    _x000D_
+    what doesn’t—in the realm of AI-driven documentation.
 
     Attendees will walk away with practical strategies to incorporate these AI tools
     into their documentation workflows, streamlining the prototyping process while
-    maintaining comprehensive, user-friendly, and accurate documentation._x000D_
-
-    _x000D_
-
-    "
+    maintaining comprehensive, user-friendly, and accurate documentation."
 - title:
     "Storytelling with Logs: Using Cloud Logging to Write Better Troubleshooting
     Docs"
@@ -412,26 +386,20 @@
     "In this session, we'll explore the often-overlooked art of storytelling
     with logs, using Google Cloud Logging as our canvas. Discover how Cloud Logging
     transcends its role as a data repository, becoming a powerful tool for crafting
-    compelling narratives that empower both users and developers to troubleshoot effectively._x000D_
-
-    _x000D_
+    compelling narratives that empower both users and developers to troubleshoot effectively.
 
     Join us for a practical, hands-on exploration of Cloud Logging.  Using a real-world
     example from an e-commerce application I worked on for a client, we'll demonstrate
     how to sift through log data, extract actionable insights, and weave those findings
     into clear, concise, and user-friendly documentation. Learn how to transform raw
     logs into compelling stories that illuminate the root cause of issues and guide
-    users towards swift resolution._x000D_
-
-    _x000D_
+    users towards swift resolution.
 
     Whether you're a seasoned architect or just beginning your cloud journey, this
     talk will inspire you to reimagine your approach to troubleshooting documentation.
     Discover how to build trust in your systems and empower your audience to resolve
     issues quickly and confidently, all through the power of storytelling with logs
-    in Google Cloud Logging._x000D_
-
-    "
+    in Google Cloud Logging."
 - title:
     "The Power of Tech Leadership: Balancing Software Development, Design & Community
     Advocacy"
@@ -466,21 +434,15 @@
     "As a software developer, testing is an integral part of your workflow.
     Good test documentation doesn't just record what happened—it enables you to lead
     development efforts more effectively and build more reliable software. In this
-    comprehensive talk, we'll explore:_x000D_
+    comprehensive talk, we'll explore:
 
-    -Test documentation across different testing levels:_x000D_
+    Test documentation across different testing levels:
+    Unit test documentation: Capturing component behavior and edge cases
+    Integration test documentation: Mapping system connections and interactions
+    Component test documentation: Verifying feature functionality
+    End-to-end test documentation: Validating complete user workflows
 
-    -Unit test documentation: Capturing component behavior and edge cases_x000D_
-
-    -Integration test documentation: Mapping system connections and interactions_x000D_
-
-    -Component test documentation: Verifying feature functionality_x000D_
-
-    -End-to-end test documentation: Validating complete user workflows _x000D_
-
-    Best practices  for creating  living documentations    with  version control_x000D_
-
-    "
+    Best practices for creating living documentations with  version control"
 - title:
     "From Aimless to Aligned: How Building a Personal Data Culture Changed My
     Life (and How You Can Do It"
@@ -497,31 +459,17 @@
     "I'll share my personal experience of how starting a data documentation
     culture with AIESEC helped me move from lost to more focused, systematic, and
     productive. I'll walk you through the simple documentation systems I interact
-    with day in, day out, including:_x000D_
+    with day in, day out, including:
 
-    _x000D_
+    Daily and weekly reflections
+    Project logs and decision trackers
+    Habit and goal tracking sheets
 
-    Daily and weekly reflections_x000D_
-
-    _x000D_
-
-    Project logs and decision trackers_x000D_
-
-    _x000D_
-
-    Habit and goal tracking sheets_x000D_
-
-    _x000D_
-
-    How I use basic tools (like Google Sheets, Notion, Apple Calendar adn Reminders)
-    to have it all in one location_x000D_
-
-    _x000D_
+    How I use basic tools (like Google Sheets, Notion, Apple Calendar and Reminders)
+    to have it all in one location
 
     Lessons in consistency, self-accountability, and bringing documentation into personal
-    growth_x000D_
-
-    _x000D_
+    growth
 
     I will also show how this individual's practice necessarily carried over into
     enhanced team documentation habits and collaboration in my work with AIESEC and
@@ -543,33 +491,17 @@
     "As AI transforms how we build, write, and interact with technology, documentation
     must evolve too. This session will take you on a deep, engaging journey through
     the future of documentation, blending AI, knowledge-based systems, autonomous
-    agents, and human-centered design._x000D_
+    agents, and human-centered design.
 
-    _x000D_
+    We’ll explore:
 
-    We’ll explore:_x000D_
-
-    _x000D_
-
-    AI-Powered Docs – From ChatGPT and Gemini to custom LLMs trained on product docs._x000D_
-
-    _x000D_
-
+    AI-Powered Docs – From ChatGPT and Gemini to custom LLMs trained on product docs.
     Knowledge-Based Systems – Lessons from simulating intelligent agents in systems
-    like NetLogo, and how they influence doc automation and dynamic help systems._x000D_
-
-    _x000D_
-
+    like NetLogo, and how they influence doc automation and dynamic help systems.
     Human + AI Collaboration – Real-world strategies to co-author with AI while retaining
-    empathy and inclusivity._x000D_
-
-    _x000D_
-
+    empathy and inclusivity.
     Localizing for Impact – Building global-ready docs for African tech products with
-    community and multilingual support in mind._x000D_
-
-    _x000D_
-
+    community and multilingual support in mind.
     The Metrics That Matter – How to measure doc success in the era of AI."
 - title:
     "Scaling Documentation for a Global Audience: Localization and Accessibility
@@ -585,10 +517,7 @@
       website: ""
   abstract:
     "Scaling Documentation for a Global Audience: Beyond Translation to True
-    Accessibility_x000D_
-
-    _x000D_
-
+    Accessibility
     Creating documentation that resonates worldwide takes more than just translation—it
     requires localization, cultural adaptation, and accessibility. This session dives
     into best practices for crafting inclusive, multilingual documentation that speaks
@@ -611,10 +540,10 @@
     \ In this session, we explore how our tech ecosystem has become a stage for ‘Tech\
     \ Karaoke’—where we sing along to imported innovations instead of composing our\
     \ own. More importantly, we’ll discuss how documentation, collaboration, and sustainability\
-    \ play a critical role in breaking this cycle._x000D_\n_x000D_\n Key Takeaways:_x000D_\n\
+    \ play a critical role in breaking this cycle. Key Takeaways:\
     \ How AI and emerging technologies are shaping global innovation—and why our region\
-    \ is still in ‘consumer mode.’_x000D_\n The role of documentation in building\
-    \ sustainable, homegrown solutions (without documentation, knowledge dies)._x000D_\n\
+    \ is still in ‘consumer mode.’ The role of documentation in building\
+    \ sustainable, homegrown solutions (without documentation, knowledge dies).\
     \ Strategies for moving from Tech Karaoke to Tech Innovation—shifting from consumers\
-    \ to creators and pioneers._x000D_\n How collaboration & connectivity can drive\
+    \ to creators and pioneers. How collaboration & connectivity can drive\
     \ original, Africa-led tech revolutions."
