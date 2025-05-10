@@ -119,7 +119,7 @@ Home - Write the Docs {{ name }} {{ year }}
       about documentation: Programmers, Tech Writers,
       Customer Support, Designers, Project Managers,
       Developer Advocates, and anyone else who wants people
-      to have a great experience with software. 
+      to have a great experience with software.
       </p>
       <p>
       Created in 2013 in Portland, Oregon, WTD has hosted
@@ -191,7 +191,7 @@ Home - Write the Docs {{ name }} {{ year }}
     <div class="schedule-item uk-width-1-{{ 1 + date.total_talk_days }}@s">
       <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/conversation' + '-' + color +  '.svg', 1) }}" alt="" >
       <h3>Unconference</h3>
-      <em>{{ date.conference.date }}</em> 
+      <em>{{ date.conference.date }}</em>
       <p>Share ideas, solve problems and participate in discussions. Anyone can suggest, lead and attend an Unconference.</p>
     </div>
 
@@ -216,12 +216,12 @@ Home - Write the Docs {{ name }} {{ year }}
       <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/sponsor-expo' + '-' + color +  '.svg', 1) }}"" alt="" >
       <h3>Sponsor Expo</h3>
       <em>{{ date.conference.date }}</em>
-      <p>Engage with our sponsors, discuss job opportunities and interact with new products.</p>  
+      <p>Engage with our sponsors, discuss job opportunities and interact with new products.</p>
     </div>
 
     {% endif %}
 
-      {% if flagspeakersannounced %}
+      {% if flagshasschedule %}
 
       <div class="learn-more">
         <a class="uk-align-right" href="{{ pathto('conf/' + shortcode + '/' + year_str + '/schedule') }}">See the full schedule</a>
