@@ -93,7 +93,7 @@
    <div id="mobile-nav-container">
       <div id="activator"><span></span><span></span><span></span></div>
       <nav role="navigation" id="mobile-nav" class="mobile-nav">
-         
+
 .. contents:: Table of Contents
    :depth: 2
    :backlinks: none
@@ -142,7 +142,7 @@ This sixth incarnation of the Write the Docs Salary Survey drew **779 responses 
                         <li><input type="checkbox" name="group[14633][2]" id="mce-group[14633]-14633-1" value=""><label for="mce-group[14633]-14633-1">North American Conference Announcements</label></li>
                         <li><input type="checkbox" name="group[14633][4]" id="mce-group[14633]-14633-2" value=""><label for="mce-group[14633]-14633-2">European Conference Announcements</label></li><li><input type="checkbox" name="group[14633][8]" id="mce-group[14633]-14633-3" value=""><label for="mce-group[14633]-14633-3">Australian Conference Announcements</label></li>
                         <li><input type="checkbox" name="group[14633][16]" id="mce-group[14633]-14633-4" value=""><label for="mce-group[14633]-14633-4">Atlantic Conference Announcements</label></li>
-                        
+
                      </ul>
                   </div>
                   <div id="mce-responses" class="clear">
@@ -166,7 +166,7 @@ We're always keen to hear your thoughts on this survey, so that we can continue 
 
    .. rubric:: Your comments
 
-   Here's some of our favourite comments from 2024: 
+   Here's some of our favourite comments from 2024:
 
    .. pull-quote::
 
@@ -211,7 +211,7 @@ Employment parameters
 This section establishes the parameters of the respondent's employment: the type of employment, number of hours worked, job title and type of role, length of time in current position, and how focused the role is on documentation.
 
 .. contents:: In this section
-   :local: 
+   :local:
    :depth: 1
    :backlinks: none
    :class: boxed
@@ -225,8 +225,8 @@ Basis of employment
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **In the past year, I have worked as:**
 
    - an employee
@@ -295,8 +295,8 @@ Hours worked
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **How many hours per week do you work?**
 
    - 1–20 hours
@@ -363,8 +363,8 @@ Job title
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **What is your job title?**
 
 .. raw:: html
@@ -444,14 +444,14 @@ As in previous years, the most widely used exact title was "Technical Writer", r
 .. raw:: html
 
    </div>
-   
+
    <figure>
       <object role="img" aria-label="Job title word cloud" aria-describedby="figure_job-title-word-cloud_desc" type="image/svg+xml" data="/_images/2024-job-title-word-cloud.svg">
          <p id="figure_job-title-word-cloud_desc">Word cloud showing relative weights of job title keywords</p>
       </object>
       <figcaption>Figure: Job title word cloud</figcaption>
    </figure>
-   
+
    </div>
 
 .. figure:: images/2024/2024-job-title-word-cloud.svg
@@ -466,8 +466,8 @@ Role category
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **How would you categorize your primary role?** Please select one category - you will be able to select additional categories in the next question.
 
    - Technical writer
@@ -516,8 +516,8 @@ Role category
 
 .. container:: question
 
-   |icon-info| 
-   
+   |icon-info|
+
    Given that job titles and the responsibilities they entail varies widely, this question attempts to add context to the salary data by identifying the type of work being primarily performed.
 
    We added the original version of this question - which asked respondents to broadly categorize their role into one of a limited set of options - in the second survey, in 2020. Starting in 2022, we allowed respondents to choose multiple role categories. This highlighted the breadth of talent in our community, but made comparing salaries more difficult.
@@ -531,7 +531,7 @@ Role category
 Primary role category
 ~~~~~~~~~~~~~~~~~~~~~
 
-"Technical writer" was by far the most widely-selected primary role category, chosen by 83.7% of respondents. "Editor", "DocOps" and "project/product manager" counted for around 2% each. 
+"Technical writer" was by far the most widely-selected primary role category, chosen by 83.7% of respondents. "Editor", "DocOps" and "project/product manager" counted for around 2% each.
 
 7 respondents selected "other" and provided more detail: most were all-rounders who performed a combination of roles, although "content strategist", "communications writer" and "rebranding tech" were also mentioned.
 
@@ -683,8 +683,8 @@ Team configuration
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **When working with other people, what is your typical role?** Select multiple options, if appropriate.
 
    - A solo worker
@@ -730,8 +730,8 @@ Length of time in current role
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **EMPLOYEES**:
 
    **How long have you worked at your current organization, in your current role?** Please select the length of time for your current position at your current organization only - your total years of experience in documentation will be covered in the individual demographics section. If you have changed roles at the same organization, please select the length of time that you have been in your current role.
@@ -841,8 +841,8 @@ Proportion of role related to documentation
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **Documentation is:**
 
    - the whole of my official job description
@@ -919,7 +919,7 @@ Job changes
 This section explores the changes in employment experienced by respondents in the past year: losing or gaining employment, changes in salary or contract earnings, and how they feel about the job market.
 
 .. contents:: In this section
-   :local: 
+   :local:
    :depth: 1
    :backlinks: none
    :class: boxed
@@ -958,8 +958,8 @@ Salary or contract earnings changes
 
 .. container:: question
 
-   |icon-info| 
-   
+   |icon-info|
+
    In the 2022 survey results, we saw more employee respondents in new positions - jobs that they'd held for less than one year - than in any previous survey. To better explore how the job market shake-up of the past few years is affecting our community - both employees and contractors - we added this new section for job changes in 2023.
 
    After community input in 2024, we changed the format of the question to ask about salary or earnings changes directly, rather than asking about changes in employment or contract status. We also added a question about whether respondents had attempted to negotiate a salary increase in the past year, regardless of the outcome.
@@ -1342,8 +1342,8 @@ Job or contract search status
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    Employees:
 
    **What is your current job search status?**
@@ -1488,11 +1488,11 @@ Around half of all employees (51.4%) and half of all contractors (50% exactly) r
    | |3| Less confident                        | 152 | 21.9% |
    +-------------------------------------------+-----+-------+
 
-.. raw:: html 
+.. raw:: html
 
    <figure>
       <object role="img" aria-label="Job security confidence - employees" aria-describedby="figure_job-security-confidence-employees_desc" type="image/svg+xml" data="/_images/2024-job-security-confidence-employees.svg">
-         <p id="figure_job-security-confidence-employees_desc">Graphic showing job security confidence of employees - less confident, around the same, more confident - as compared to the previous year.</p> 
+         <p id="figure_job-security-confidence-employees_desc">Graphic showing job security confidence of employees - less confident, around the same, more confident - as compared to the previous year.</p>
       </object>
       <figcaption>Figure: Job security confidence - employees</figcaption>
    </figure>
@@ -1601,11 +1601,11 @@ Amongst contractors - a smaller number of respondents overall - the trend was to
    | |1| Very confident        | 8   | 10.0% |
    +---------------------------+-----+-------+
 
-.. raw:: html 
+.. raw:: html
 
    <figure>
       <object role="img" aria-label="Job search confidence - employees" aria-describedby="figure_job-search-confidence-employees_desc" type="image/svg+xml" data="/_images/2024-job-search-confidence-employees.svg">
-         <p id="figure_job-search-confidence-employees_desc">Graphic showing job search confidence of employees.</p> 
+         <p id="figure_job-search-confidence-employees_desc">Graphic showing job search confidence of employees.</p>
       </object>
       <figcaption>Figure: Job search confidence - employees</figcaption>
    </figure>
@@ -1636,11 +1636,11 @@ Amongst contractors - a smaller number of respondents overall - the trend was to
    | |2| Confident              | 3   | 13.6% |
    +----------------------------+-----+-------+
 
-.. raw:: html 
+.. raw:: html
 
    <figure>
       <object role="img" aria-label="Contract search confidence - contractors" aria-describedby="figure_contract-search-confidence-contractors_desc" type="image/svg+xml" data="/_images/2024-contract-search-confidence-contractors.svg">
-         <p id="figure_contract-search-confidence-contractors_desc">Graphic showing job search confidence of employees.</p> 
+         <p id="figure_contract-search-confidence-contractors_desc">Graphic showing job search confidence of employees.</p>
       </object>
       <figcaption>Figure: Contract search confidence - contractors</figcaption>
    </figure>
@@ -1659,7 +1659,7 @@ Workplace
 The questions in this section relate to respondents' workplace: whether they work from home, from an office, or a combination, and how they feel about that. We were also interested in how the much-discussed "return to the office" (RTO) mandates have affected our community.
 
 .. contents:: In this section
-   :local: 
+   :local:
    :depth: 1
    :backlinks: none
    :class: boxed
@@ -1679,8 +1679,8 @@ Work location
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **What is your current work location?**
 
    - I am required to be on-site full time
@@ -1776,8 +1776,8 @@ The majority of respondents (82.6% overall) reported feeling "positive" about th
 
 .. container:: question
 
-   |icon-question|  
-   
+   |icon-question|
+
    **In the past year, has your organization (or for contractors, any organization that you work for) implemented an RTO (return to office) policy - requesting or requiring that remote or "work from home" employees/contractors return to working on-site?**
 
    - Yes, it's required all of the time
@@ -1957,8 +1957,8 @@ Preferred work location
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **Regardless of the policy at your current organization or your current situation, what is your preferred work location?**
 
    - I prefer to work on-site on a full-time basis
@@ -2005,12 +2005,12 @@ Regardless of their current situation, 52.1% of all respondents said that their 
 Employee salary, benefits and satisfaction
 ==========================================
 
-This section covers employee salaries, associated benefits of different types, levels of satisfaction and the factors affecting those satisfaction levels. 
+This section covers employee salaries, associated benefits of different types, levels of satisfaction and the factors affecting those satisfaction levels.
 
 To protect the privacy of our community, we do not publish median salary figures for any region or category with less than 10 respondents. In regions or categories that meet the minimum threshold of 30 respondents, we're also providing the |25th| percentile (the value below which 25% of the data falls) and |75th| percentile (the value below which 75% of the data falls).
 
 .. contents:: In this section
-   :local: 
+   :local:
    :depth: 1
    :backlinks: none
    :class: boxed
@@ -2124,7 +2124,7 @@ Median salary
 As in previous years, salaries for those working part-time hours (less than 30 per week) have been omitted from the figures in this section. The median salaries are based on 689 full-time employee respondents.
 
 .. contents:: In this section
-   :local: 
+   :local:
    :depth: 1
    :backlinks: none
    :class: boxed
@@ -2154,7 +2154,7 @@ Given the range of socio-economic differences in the countries in the survey res
 
    .. rubric:: Privacy and salary information
 
-   The following countries - all of which had fewer than 10 respondents in 2024 - are excluded from the median salaries breakdown for privary reasons: 
+   The following countries - all of which had fewer than 10 respondents in 2024 - are excluded from the median salaries breakdown for privary reasons:
 
    - North America: Puerto Rico, Mexico
    - Europe: Austria, Bulgaria, Croatia, Czechia, Denmark, Estonia, Finland, Georgia, Greece, Hungary, Ireland, Italy, Lithuania, Malta, Netherlands, Norway, Poland, Portugal, Romania, Russia, Serbia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine
@@ -2518,8 +2518,8 @@ Employee benefits
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **Does your salary package include any of the following statutory benefits?**
 
    Labor laws in some countries mandate that employees receive some or all of the following benefits as part of their employment (in some cases depending on the size or type of employer).
@@ -2579,9 +2579,9 @@ Employee benefits
 
    </details>
 
-Statutory benefits such as paid vacation (86.3%), paid sick leave (82.2%), and healthcare benefits (76.6%) were the most commonly reported, with only 1.8% of respondents indicating they received none. 
+Statutory benefits such as paid vacation (86.3%), paid sick leave (82.2%), and healthcare benefits (76.6%) were the most commonly reported, with only 1.8% of respondents indicating they received none.
 
-Extra statutory benefits, such as additional paid vacation (50.2%) and enhanced healthcare benefits (41.3%), were less common, with 14.2% reporting none. 
+Extra statutory benefits, such as additional paid vacation (50.2%) and enhanced healthcare benefits (41.3%), were less common, with 14.2% reporting none.
 
 Among non-statutory benefits, insurance (54.4%), professional development budgets (50.1%), and stock options or equity (45.3%) were the most frequently provided, while only 4.5% reported receiving none.
 
@@ -2691,8 +2691,8 @@ Employee satisfaction
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **Considering only your salary and benefits, rate your level of satisfaction:**
 
    - Very unsatisfied
@@ -2798,8 +2798,8 @@ Factors affecting salary satisfaction
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **How strongly do you agree with the following statements about your salary and benefits?**
 
    - I'm paid fairly
@@ -3001,19 +3001,17 @@ Respondents who indicated that the statement was not relevant to their situation
 
    </div></div>
 
-.. raw:: html
-
 Contract rates and satisfaction
 ===============================
 
-This section contains questions about the different types of contract work, rates, and feelings of satisfaction with contract work and contract earnings, as well as confidence in the current prospects for new contract work. 
+This section contains questions about the different types of contract work, rates, and feelings of satisfaction with contract work and contract earnings, as well as confidence in the current prospects for new contract work.
 
-To protect the privacy of our community, we do not publish median salary figures for any region or category with less than 10 respondents. In regions or categories that meet the minimum threshold of 30 respondents, we're also providing the |25th| percentile (the value below which 25% of the data falls) and |75th| percentile (the value below which 75% of the data falls). 
+To protect the privacy of our community, we do not publish median salary figures for any region or category with less than 10 respondents. In regions or categories that meet the minimum threshold of 30 respondents, we're also providing the |25th| percentile (the value below which 25% of the data falls) and |75th| percentile (the value below which 75% of the data falls).
 
 While the 2024 survey results include more contractor data than in any previous year (94 responses) this number is too low, and the respondents too geographically diverse, to determine median rates except for the very largest regions (the United States and Europe).
 
 .. contents:: In this section
-   :local: 
+   :local:
    :depth: 1
    :backlinks: none
    :class: boxed
@@ -3027,8 +3025,8 @@ Preferred term
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **What's your preferred term to describe the kind of work you do?**
 
    - I consider myself a contractor
@@ -3043,8 +3041,8 @@ Preferred term
 
 .. container:: question
 
-   |icon-info| 
-   
+   |icon-info|
+
    In the first few surveys, we often struggled with the wording to describe the group of respondents who are not employees - "contractors, freelance operators, and self-employed people" is cumbersome and doesn't really "roll off the tongue". While we often used "contractor" as a catch-all shorthand term, we were aware that this might not be the preferred term for everyone.
 
    In 2023, we asked respondents who are not employees what term they prefer to describe the kind of work they do. The results from that year indicated that "contractor" was the most widely-used term, so that's what we used as a shorthand term throughout 2023's results and in the survey form for 2024.
@@ -3083,8 +3081,8 @@ Type of contract work
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **What kind of contract, freelance or self-employed work do you typically engage in?** Check all that apply.
 
    - I work for multiple clients at the same time
@@ -3189,26 +3187,26 @@ Contract rates
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    Comparing payment rates for contractors, freelancers and self-employed people is difficult due to the number of different ways that individuals in this group operate.
 
    To simplify this as much as possible while still allowing comparisons, please estimate one or more of the following rate types, even if you normally use a different fee structure.
 
    Don't include any VAT, GST or sales tax. If you normally charge different rates, enter your most common rate, or an average if you feel that is more representative.
 
-   **My hourly rate is:** 
-   
+   **My hourly rate is:**
+
    - currency
    - rate
-   
+
    **My day rate is:**
-   
+
    - currency
    - rate
-   
+
    **My monthly rate is:**
-   
+
    - currency
    - rate
 
@@ -3313,8 +3311,8 @@ Contractor satisfaction
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **Considering only your contract or freelance earnings, rate your level of satisfaction:**
 
    - Very unsatisfied
@@ -3420,8 +3418,8 @@ Factors affecting contractor satisfaction
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **How strongly do you agree with the following statements about your contract or freelance earnings?**
 
    - My rates keep pace with inflation / cost-of-living
@@ -3551,7 +3549,7 @@ Respondents who indicated that the statement was not relevant to their situation
 
 	</div><div class="tab__content">
 
-.. table:: Satisfaction statements - workplaces 
+.. table:: Satisfaction statements - workplaces
    :widths: 55 15 15 15
    :name: tbl-2024-satisfaction-statements-contractor-workplaces
    :class: sortable statements
@@ -3629,7 +3627,7 @@ Organization demographics
 This section concerns employing organizations. Contractors were given the option of answering about the main organization they work for, or skipping this section if it was not relevant. Only 6 contractors chose not to answer.
 
 .. contents:: In this section
-   :local: 
+   :local:
    :depth: 1
    :backlinks: none
    :class: boxed
@@ -3643,8 +3641,8 @@ Organization size
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **What is the approximate size of your organization, in number of employees?**
 
    - Less than 10
@@ -3705,8 +3703,8 @@ Organization type and industry
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **This organization is primarily:**
 
    - A non-profit, community, political, educational or governmental organization, or an NGO
@@ -3840,8 +3838,8 @@ Pay transparency
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **Is there an official pay transparency policy at your organization?**  Organizations with pay transparency are open about salaries and benefits for existing and prospective employees.
 
    - Yes - compensation is disclosed for all roles, levels, and job listings to all employees and candidates
@@ -4047,8 +4045,6 @@ Support for pay transparency
 .. figure:: images/2024/2024-pay-transparency-support.svg
    :class: hide
 
-.. raw:: html
-
 Organization origin and location
 --------------------------------
 
@@ -4244,7 +4240,7 @@ Respondent demographics
 Who makes up the Write the Docs community? The questions in this section on respondent age, gender identity, education, experience, and location provide context for the salary/rate and satisfaction data. All questions in this section had an "I'd rather not say" option, with the exception of geographical location (country and state or province only), without which the core objective of the survey cannot be achieved.
 
 .. contents:: In this section
-   :local: 
+   :local:
    :depth: 1
    :backlinks: none
    :class: boxed
@@ -4258,8 +4254,8 @@ Age group
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **What is your age?**
 
    - 18-25
@@ -4318,8 +4314,8 @@ Gender identity
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **What gender identity do you most identify with?**
 
    - Woman
@@ -4372,8 +4368,8 @@ Experience
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **How many years of experience do you have in documentation?**
 
    - Less than 1 year
@@ -4441,8 +4437,8 @@ Education level
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **What is the highest level of education that you have completed?**
    If your education level isn't listed, choose the option that's the closest equivalent to the level you have completed. We're asking for the highest level completed, so if you are still working towards a qualification, please select the highest level you have actually finished.
 
@@ -4795,8 +4791,8 @@ Following on from last year, we again included some questions about the survey i
 
 .. container:: question
 
-   |icon-question| 
-   
+   |icon-question|
+
    **Have you participated in a WTD Salary Survey before?**
 
    - Yes

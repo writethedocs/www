@@ -96,3 +96,5 @@ Site Content
    conf/kenya/*/*/*
    conf/cfp/*
    book-club/*/*
+   conf/berlin/*/*
+   conf/berlin/*/*/*
