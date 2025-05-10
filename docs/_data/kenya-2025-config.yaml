@@ -21,8 +21,8 @@ photos:
 
 buttons:
   top:
-    - text: Welcome to our conference
-      link: /news/welcome
+    #- text: Welcome to our conference
+    #  link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
     - text: Visit our sponsors
