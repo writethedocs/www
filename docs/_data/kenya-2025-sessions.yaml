@@ -20,17 +20,6 @@
     of documenting endangered languages and cultures and the methods required to achieve
     impactful results.</p>
 
-    <p>To showcase the comprehensive documentation of Tulu and Arebhashe languages, including
-    dictionaries, encyclopedias, and glossaries.</p>
-
-    <p>To highlight the research and efforts involved in preserving the vibrant living
-    culture of Tulunadu, particularly through programs like Pursa Kattuna and Aati
-    Month celebrations.</p>
-
-    <p>To provide actionable strategies for documenting and preserving underrepresented
-    languages and cultures using research-based approaches, multimedia tools, and
-    community collaboration.</p>
-
 - title: "The Art of Engaging Documentation: Borrowing from Storytelling & Improv"
   slug: the-art-of-engaging-documentation-borrowing-from-storytelling-improv
   series: Write the Docs Kenya
@@ -45,19 +34,15 @@
     "Documentation often gets a bad reputation, seen as dry, mechanical, and
     difficult to navigate. But what if we could make it engaging, intuitive, and even
     enjoyable?
-
-
-
     We'll explore how techniques from storytelling and improvisational theater can
     transform documentation from a mere set of instructions into a compelling user
     experience.
-
     By borrowing from these creative disciplines, we can craft documentation that
     guides users naturally, anticipates their needs, and adapts dynamically to real-world
     use.
-
     This talk is designed to inspire, educate, and provide actionable techniques that
     attendees can immediately apply to their documentation projects."
+
 - title: Crafting Living Documentation That Grows With Your App
   slug: crafting-living-documentation-that-grows-with-your-app
   series: Write the Docs Kenya
@@ -75,6 +60,7 @@
     as your app grows. Learn how to integrate your documentation workflow seamlessly
     with your development process, ensuring that every new feature, update, or bug
     fix is reflected in your docs.
+
 - title: "Bridging the Content Needs: This Is How We Roll"
   slug: bridging-the-content-needs-this-is-how-we-roll
   series: Write the Docs Kenya
@@ -92,24 +78,8 @@
     \ teams. Quite often, in fast-paced and dynamic environments,\
     \ product teams struggle with urgent documentation needs, whether it’s a new product\
     \ launch, documentation of a complex feature, addressing gaps in existing documentation,\
-    \ or a one-off case when the team has ruled out the need for a full-time writer.\
-    \ In a parallel universe, many aspiring and experienced writers seek\
-    \ opportunities to broaden their expertise in areas beyond their regular work\
-    \ (for example, content strategy, authoring blogs, creating visual content, contributions\
-    \ to other products, doc publishing, and so on) while intending to gain exposure\
-    \ to new domains. Recognizing this gap, we introduced WritersOnDemand,\
-    \ a structured initiative that connects product teams with enthusiastic writers\
-    \ eager to contribute beyond their regular tasks and take up stretch assignments.\
-    \ Through this program, we created a flexible and scalable model that enables\
-    \ product teams to achieve resource scalability, faster delivery, and completeness\
-    \ of documentation, while providing the writers with hands-on experience, cross-team\
-    \ collaboration, greater visibility, and career growth opportunities. What started\
-    \ as an experiment with a closed group of writers has now evolved into a thriving\
-    \ ecosystem of collaboration and shared success. In this presentation,\
-    \ we will take you through our journey - how we built, scaled, and refined WritersOnDemand\
-    \ - and share the impact it has made across teams and geographies. In addition,\
-    \ we’d love to share what our authors and product teams say about their engagement\
-    \ with WritersOnDemand."
+    \ or a one-off case when the team has ruled out the need for a full-time writer."
+
 - title: Enhancing Technical Documentation with MDX
   slug: enhancing-technical-documentation-with-mdx
   series: Write the Docs Kenya
@@ -127,19 +97,13 @@
     and dynamic documentation. This talk will explore the benefits of adopting MDX,
     demonstrate how to integrate interactive elements seamlessly, and provide best
     practices to enhance user experience.
-
     This session delves into the transformative potential of MDX in technical documentation.
     Participants will explore how MDX allows for the seamless integration of interactive
     elements, such as live code snippets, interactive demos, and dynamic visualizations,
     directly within documentation. This fusion not only enhances user engagement but
     also facilitates a deeper understanding of complex concepts by allowing readers
-    to interact with the content in real-time.​
+    to interact with the content in real-time."
 
-    Beyond interactivity, MDX promotes the creation of reusable components, ensuring
-    consistency and efficiency across documentation projects. By leveraging React's
-    component-based architecture, writers can encapsulate repetitive patterns or intricate
-    UI elements into reusable components, streamlining the documentation process and
-    maintaining uniformity."
 - title: Scaling Open-Source documentation with AI.
   slug: scaling-open-source-documentation-with-ai
   series: Write the Docs Kenya
@@ -160,6 +124,7 @@
     Whether you're a developer, technical writer, or open-source contributor, this
     talk will provide actionable strategies for integrating AI into your documentation
     workflow.
+
 - title: Interactive and Executable API Documentation
   slug: interactive-and-executable-api-documentation
   series: Write the Docs Kenya
@@ -175,6 +140,7 @@
     with static, hard-to-navigate references. The shift toward interactive and executable
     API documentation enhances developer experience by allowing real-time testing,
     dynamic code examples, and integrated sandboxes.
+
 - title: What does it take to make a PDF document accessible for users with disabilities
   slug: what-does-it-take-to-make-a-pdf-document-accessible-for-users-with-disabilities
   series: Write the Docs Kenya
@@ -185,122 +151,20 @@
       slug: radina-matic
       twitter: ""
       website: ""
-  abstract: "Note for the conference team: I've given a variety of accessibility
-    related talks and workshops at conferences over the years (way back to Write The
-    Docs 2015 in Prague), and even though this proposal is for a hands-on workshop,
-    if your programming would benefit more with a presentation type of a session,
-    I can easily rework the content to meet that need.
-
-    Introduction
-
-
-
-    Why is PDF accessibility such a headache? Is it really “on the scale with world
-    peace and being able to buy a dark chocolate kit kat bar” (http://webaim.org/discussion/mail_message?id=20756)
-
-
-
-    But don’t we have a standard?
-
-    PDF/UA, the ISO 14289 standard for accessible PDF
-
-
-
-    HOW do you produce PDF files?
-
-    - MS Office, LibreOffice, HTML, something else…?
-
-    - Start with a SOURCE document, make it accessible first!
-
-    - Do basic checkups with native validators
-
-    - Save & Export as PDF, DO NOT print!
-
-
-
-    CHECK the resulting PDF in Adobe Acrobat DC or other tools (see the list of resources)
-
-    - Reveal Accessibility Toolbar
-
-    - Do a Full Check and open the Accessibility Report
-
-    - Use automatic fixes when available
-
-
-
-    TEST conformance with PAC 2024
-
-    Free tool, originally from the Swiss Foundation “Access for All”, now under the
-    umbrella of axes4
-
-    First implementation of the Matterhorn Protocol, provides checkpoints and failure
-    conditions in order to help document authors create fully accessible PDF files
-    and forms.
-
-
-
-    Hands ON!
-
-
-
-    Adobe Acrobat Accessibility Checker
-
-    How to fix:
-
-    - Document issue
-
-    - Page Content issues
-
-    - Headings
-
-    - Alternate text (images & links)
-
-    - Tables
-
-    - Lists
-
-    - Forms
-
-    - Metadata
-
-
-
-    What can’t you fix (needs manual check)?
-
-    Logical Reading Order
-
-    Color Contrast
-
-
-
-    PAC: PDF document Accessibility Checker
-
-    - Is your PDF tagged? If not go back to the source doc and re-export!
-
-    - Summary report
-
-    - Results in detail
-
-    - Screen Reader Preview
-
-
-
-    PAC gives you indications of points of failure to conform to standards, but you
-    must go back to Adobe Acrobat to fix the relevant Content, Order and Tags.
-
-
-
-    List of Tools
-
-
-
-    I will provide a comprehensive list of recommended tools (all free and/or open
-    source), and practical exercises similar to the ones for the workshops at NORDIK
-    2017 and tcworld India 2020:
-
+  abstract: "Why is PDF accessibility still such a headache? Isn’t there a standard we can all follow? 
+    This session tackles that very frustration starting with PDF/UA, the ISO 14289 standard for accessible PDFs
+    and walks you through the practical steps of creating accessible documents.
+    We’ll explore real-world workflows: how you produce PDFs from MS Office, LibreOffice, or HTML, 
+    and why accessibility must start at the source document. You’ll learn how to make source files accessible, 
+    perform basic validations, and properly export to PDF (never print to PDF!). 
+    Then, we’ll dig into checking and fixing accessibility using Adobe Acrobat DC and the free PDF Accessibility Checker (PAC 2024).
+    We’ll also highlight what can’t be auto-fixed — such as logical reading order and color contrast
+    and why manual review still matters.
+    The session concludes with a curated list of free and open-source tools, 
+    plus practical exercises inspired by workshops from NORDIC TechKomm 2017 and tcworld India 2020:
     https://radinamatic.github.io/NORDIC-TechKomm-2017/
-
     https://radinamatic.github.io/tcworld-india-2020/"
+
 - title: "From Boring to Brilliant: Transforming Documentation into a Game-Changer"
   slug: from-boring-to-brilliant-transforming-documentation-into-a-game-changer
   series: Write the Docs Kenya
@@ -318,6 +182,7 @@
     ways to make documentation engaging, interactive, and indispensable. From leveraging
     storytelling techniques to integrating cutting-edge tools, you’ll learn how to
     turn your docs into a game-changer that users actually want to read!
+
 - title: USING AI LANGUAGE LEARNING MODELS TO WRITE YOUR DOCS WITH PROMPT ENGINEERING
   slug: using-ai-language-learning-models-to-write-your-docs-with-prompt-engineering
   series: Write the Docs Kenya
@@ -332,11 +197,11 @@
     "This will be a detailed guide on how to train and master prompting and
     having conversations with AI that are productive and help you utilize Language
     Learning Models in your documentation.
-
     Prompt Engineering is not just about giving AI instructions it's about context,
     roles, communication, and desired solutions. This session will aim to help everyone
     who attends to harness the power of Language Learning Models to assist them to
     perform exceptionally well in writing their documents and technical writing."
+
 - title: "Turbocharge Your Docs: Leveraging GenAI for Rapid Documentation Prototyping"
   slug: turbocharge-your-docs-leveraging-genai-for-rapid-documentation-prototyping
   series: Write the Docs Kenya
@@ -353,23 +218,9 @@
     and recently ubiquitous of Generative ai tools unleashes unlimited capability
     as a background assistant to developers in helping them automatically generate
     initial documentation to their code.
-
     In this talk we will explore how Generative AI in studio code can be the secret
-    ingredient for producing high-quality documentation quickly. This session will
-    highlight:
+    ingredient for producing high-quality documentation quickly."
 
-    Speed Meets Quality: Learn how AI can help create initial drafts and refine technical
-    content, ensuring rapid output without compromising clarity.
-
-    Offline Capabilities: Discover how leveraging local language models provides robust,
-    offline generative functionalities, offering flexibility and enhanced control.
-
-    Best Practices & Pitfalls: Gain insights from early adopters on what works—and
-    what doesn’t—in the realm of AI-driven documentation.
-
-    Attendees will walk away with practical strategies to incorporate these AI tools
-    into their documentation workflows, streamlining the prototyping process while
-    maintaining comprehensive, user-friendly, and accurate documentation."
 - title:
     "Storytelling with Logs: Using Cloud Logging to Write Better Troubleshooting
     Docs"
@@ -387,19 +238,12 @@
     with logs, using Google Cloud Logging as our canvas. Discover how Cloud Logging
     transcends its role as a data repository, becoming a powerful tool for crafting
     compelling narratives that empower both users and developers to troubleshoot effectively.
-
     Join us for a practical, hands-on exploration of Cloud Logging.  Using a real-world
-    example from an e-commerce application I worked on for a client, we'll demonstrate
-    how to sift through log data, extract actionable insights, and weave those findings
+    example we'll demonstrate how to sift through log data, extract actionable insights, and weave those findings
     into clear, concise, and user-friendly documentation. Learn how to transform raw
     logs into compelling stories that illuminate the root cause of issues and guide
-    users towards swift resolution.
+    users towards swift resolution."
 
-    Whether you're a seasoned architect or just beginning your cloud journey, this
-    talk will inspire you to reimagine your approach to troubleshooting documentation.
-    Discover how to build trust in your systems and empower your audience to resolve
-    issues quickly and confidently, all through the power of storytelling with logs
-    in Google Cloud Logging."
 - title:
     "The Power of Tech Leadership: Balancing Software Development, Design & Community
     Advocacy"
@@ -420,6 +264,7 @@
     You'll hear real-life examples and practical tips on balancing technical work
     with leadership and community building, so you can grow your career and make a
     positive impact in the tech world."
+
 - title: The Art of Test Documentation
   slug: the-art-of-test-documentation
   series: Write the Docs Kenya
@@ -435,14 +280,10 @@
     Good test documentation doesn't just record what happened—it enables you to lead
     development efforts more effectively and build more reliable software. In this
     comprehensive talk, we'll explore:
-
     Test documentation across different testing levels:
-    Unit test documentation: Capturing component behavior and edge cases
-    Integration test documentation: Mapping system connections and interactions
-    Component test documentation: Verifying feature functionality
-    End-to-end test documentation: Validating complete user workflows
+    Unit test documentation, Integration test documentation, Component test documentation, 
+    End-to-end test documentation and Best practices for creating living documentations with  version control"
 
-    Best practices for creating living documentations with  version control"
 - title:
     "From Aimless to Aligned: How Building a Personal Data Culture Changed My
     Life (and How You Can Do It"
@@ -456,25 +297,13 @@
       twitter: ""
       website: ""
   abstract:
-    "I'll share my personal experience of how starting a data documentation
-    culture with AIESEC helped me move from lost to more focused, systematic, and
-    productive. I'll walk you through the simple documentation systems I interact
-    with day in, day out, including:
+    "In this talk, I’ll share my journey of how initiating a data documentation culture with AIESEC transformed
+    my personal and professional life from feeling lost to becoming focused, systematic, and productive.
+    I’ll explore how personal habits around documentation evolved into team-wide practices that 
+    improved collaboration and clarity in my work with AIESEC and other organizations. 
+    This session will inspire you to document intentionally not just for others, 
+    but as a powerful tool for your own growth and alignment."
 
-    Daily and weekly reflections
-    Project logs and decision trackers
-    Habit and goal tracking sheets
-
-    How I use basic tools (like Google Sheets, Notion, Apple Calendar and Reminders)
-    to have it all in one location
-
-    Lessons in consistency, self-accountability, and bringing documentation into personal
-    growth
-
-    I will also show how this individual's practice necessarily carried over into
-    enhanced team documentation habits and collaboration in my work with AIESEC and
-    other organizations. My goal is to motivate participants — either individuals
-    or team leaders — to document intentionally, not just for others, but for themselves."
 - title:
     "The Future of Docs: How AI, Agents & Human Empathy Will Shape the Next Decade
     of Documentation"
@@ -491,18 +320,8 @@
     "As AI transforms how we build, write, and interact with technology, documentation
     must evolve too. This session will take you on a deep, engaging journey through
     the future of documentation, blending AI, knowledge-based systems, autonomous
-    agents, and human-centered design.
+    agents, and human-centered design."
 
-    We’ll explore:
-
-    AI-Powered Docs – From ChatGPT and Gemini to custom LLMs trained on product docs.
-    Knowledge-Based Systems – Lessons from simulating intelligent agents in systems
-    like NetLogo, and how they influence doc automation and dynamic help systems.
-    Human + AI Collaboration – Real-world strategies to co-author with AI while retaining
-    empathy and inclusivity.
-    Localizing for Impact – Building global-ready docs for African tech products with
-    community and multilingual support in mind.
-    The Metrics That Matter – How to measure doc success in the era of AI."
 - title:
     "Scaling Documentation for a Global Audience: Localization and Accessibility
     Best Practices"
@@ -524,6 +343,7 @@
     to diverse audiences. Learn how to optimize content for different regions, languages,
     and abilities, ensuring your documentation is clear, accessible, and effective
     for everyone."
+    
 - title: 'IMPORT, COPY, REPEAT: Breaking Free from the Tech Karaoke Cycle"'
   slug: import-copy-repeat-breaking-free-from-the-tech-karaoke-cycle
   series: Write the Docs Kenya
@@ -540,10 +360,4 @@
     \ In this session, we explore how our tech ecosystem has become a stage for ‘Tech\
     \ Karaoke’—where we sing along to imported innovations instead of composing our\
     \ own. More importantly, we’ll discuss how documentation, collaboration, and sustainability\
-    \ play a critical role in breaking this cycle. Key Takeaways:\
-    \ How AI and emerging technologies are shaping global innovation—and why our region\
-    \ is still in ‘consumer mode.’ The role of documentation in building\
-    \ sustainable, homegrown solutions (without documentation, knowledge dies).\
-    \ Strategies for moving from Tech Karaoke to Tech Innovation—shifting from consumers\
-    \ to creators and pioneers. How collaboration & connectivity can drive\
-    \ original, Africa-led tech revolutions."
+    \ play a critical role in breaking this cycle."
