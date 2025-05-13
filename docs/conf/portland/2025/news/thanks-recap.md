@@ -14,11 +14,11 @@ Hi everyone,
 
 Our team is slowly emerging from the post-conference recovery period, and we wanted to send out a quick message to thank everyone for helping to make Write the Docs Portland 2025 such a success. We appreciate everyone who makes the conference possible: speakers, sponsors, organizers, volunteers, and attendees alike!
 
-It was amazing to see everyone back at Revolution Hall in Portland, and the weather was a about perfect! 
+It was amazing to see everyone back at Revolution Hall in Portland, and the weather was just about perfect! 
 
 ## Conference recap
 
-With **415 in-person attendees** and **170 virtual attendees**, this was our largest conference yet! We had the usual mix of talks on the main stage along with Q&A, lightning talks, unconference sessions, writing day sprints, and a couple social events.
+With **415 in-person attendees** and **170 virtual attendees**, this was our largest conference yet! We had the usual mix of talks on the main stage along with Q&A, lightning talks, Unconference sessions, writing day sprints, and a couple social events.
 
 It was great to see the new Sunday registration, food carts, and the additional spaces in the venues being used. We will continue to work on improving the conference experience for everyone, and we appreciate all the feedback we've received already.
 
@@ -47,7 +47,7 @@ To ensure that our CoC was visible and accessible, we took a number of specific 
 - Every participant agreed to the Code of Conduct in advance during registration.
 - The CoC, or a summary, was included on the conference website and around the venue.
 - The CoC was repeatedly mentioned in our conference introduction and announcements.
-- We specifically stressed that the CoC applies to all conference spaces including the social event.
+- We specifically stressed that the CoC applies to all conference spaces, including the social event.
 - We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.
 
 We had 1 report of a CoC incident at the conference:
