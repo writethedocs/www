@@ -8,7 +8,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
    :tags: {{shortcode}}-{{year}}
 ```
 
-# Portland 2025 Recap - Talk Videos, Photos, CoC Report
+# Portland 2025 Recap - Talk Videos, Photos, Sketchnotes, CoC Report
 
 Hi everyone,
 
@@ -52,7 +52,7 @@ To ensure that our CoC was visible and accessible, we took a number of specific 
 
 We had 1 report of a CoC incident at the conference:
 
-- An attendee at the social event reported that they were approached by another person without a badge who made them uncomfortable, and made some inappropriate comments. This event was reported the next day, and no further action was taken, given that we didn't have a clear identity of the person who made the comments.
+- An attendee at the social event reported that they were approached by another person without a badge who made them uncomfortable, and made some inappropriate comments. This happened outside of the social event space, but we believe this person was a conference attendee. This event was reported the next day, and no further action was taken, given that we didn't have a clear identity of the person who made the comments.
 
 Attendees can always report incidents, even after the conference, by emailing us at [conduct@writethedocs.org](mailto:conduct@writethedocs.org).
 
