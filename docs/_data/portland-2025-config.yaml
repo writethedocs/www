@@ -40,7 +40,7 @@ buttons:
     #   link: /attendee-guide
     # - text: Watch the Live Stream
     #   link: /livestream
-    - text: Watch the videos
+    - text: Watch the videos!
       link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHplMbtJtidqFFtL7rt3ASNSR
     - text: Conference recap
       link: /news/thanks-recap
