@@ -296,7 +296,11 @@ Subject:
 
    It is a wrap! Thank you one last time for your hard work, insight and creativity. You were amazing!
 
-   Videos of all talks are published on [YouTube](https://www.youtube.com/playlist?list=PLZAeFn6dfHpneQPsDWa4OmEpgW4pNiaZ2). Likewise, there are photos of all speakers up on [Flickr](https://www.flickr.com/photos/writethedocs/albums/72177720308088427), and more photos of the rest of the event will follow soon.
+   ○ Videos of all talks are published on [YouTube](https://www.youtube.com/playlist?list=PLZAeFn6dfHplMbtJtidqFFtL7rt3ASNSR).
+
+   ○ Photos are being uploaded to [Flickr](https://www.flickr.com/photos/writethedocs/albums/72177720325861452/), more photos of the rest of the event will follow soon.
+
+   ○ Sketchnotes are up, also on [Flickr](https://www.flickr.com/photos/writethedocs/albums/72177720325990264).
 
    We'd love to know how you found the whole process, from A to Z so we can improve next time. To that end we've got an anonymous (keep in mind that there aren't many speakers) feedback form for you here:
 
