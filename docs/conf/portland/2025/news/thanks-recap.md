@@ -56,6 +56,8 @@ We had 1 report of a CoC incident at the conference:
 
 Attendees can always report incidents, even after the conference, by emailing us at [conduct@writethedocs.org](mailto:conduct@writethedocs.org).
 
+![Recap photo](/_static/conf/images/pics/2025/recap-2025.jpg)
+
 ## Come to our upcoming events
 
 We have 3 conferences coming up later this year:
