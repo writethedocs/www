@@ -30,20 +30,20 @@ buttons:
     #   link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
-    - text: See the Schedule!
-      link: /schedule
+    # - text: See the Schedule!
+    #   link: /schedule
     # - text: Buy a Ticket
     #   link: /tickets
     #- text: See the Speakers
     #  link: /speakers
-    - text: Attendee Guide
-      link: /attendee-guide
+    # - text: Attendee Guide
+    #   link: /attendee-guide
     # - text: Watch the Live Stream
     #   link: /livestream
-    # - text: Watch the videos
-    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpm4FboYSTD1Bs8Yp8k_JvAL
-    # - text: Conference recap
-    #   link: /news/thanks-recap
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHplMbtJtidqFFtL7rt3ASNSR
+    - text: Conference recap
+      link: /news/thanks-recap
   bottom:
     # - text: Welcome to our conference
     #   link: /news/welcome
@@ -55,18 +55,18 @@ buttons:
     #   link: /tickets
     # - text: See the Schedule
     #   link: /schedule
-    - text: See the Talks
-      link: /speakers
-    - text: Read the Guide
-      link: /attendee-guide
+    # - text: See the Talks
+    #   link: /speakers
+    # - text: Read the Guide
+    #   link: /attendee-guide
     # - text: Watch the Live Stream
     #   link: /livestream
-    # - text: Conference recap
-    #   link: /news/thanks-recap
     # - text: Browse the photos
     #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720308088427
-    # - text: Watch the videos!
-    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpm4FboYSTD1Bs8Yp8k_JvAL
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHplMbtJtidqFFtL7rt3ASNSR
+    - text: Conference recap
+      link: /news/thanks-recap
 
 tickets:
   concierge:
@@ -259,7 +259,7 @@ flagscheduleincomplete: True
 flaghasshirts: True
 flaglivestreaming: True
 flagvideos: False
-flagpostconf: False
+flagpostconf: True
 flaghasbadgeflair: False
 
 # Truthy things that don't change
