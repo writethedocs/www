@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
-og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/headers/2025/lightning-talks.jpg
+og:image: /_static/conf/images/pics/2025/recap-2025.jpg
+banner: _static/conf/images/pics/2025/recap-2025.jpg
 ---
 
 ```{eval-rst}
@@ -56,8 +56,6 @@ We had 1 report of a CoC incident at the conference:
 - An attendee at the social event reported that they were approached by another person without a badge who made them uncomfortable, and made some inappropriate comments. This happened outside of the social event space, but we believe this person was a conference attendee. This event was reported the next day, and no further action was taken, given that we didn't have a clear identity of the person who made the comments.
 
 Attendees can always report incidents, even after the conference, by emailing us at [conduct@writethedocs.org](mailto:conduct@writethedocs.org).
-
-![Recap photo](/_static/conf/images/pics/2025/recap-2025.jpg)
 
 ## Come to our upcoming events
 
