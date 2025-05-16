@@ -147,3 +147,36 @@ We want every writer to be confident in their docs. Come by our table, and we’
 The [Write the Docs Salary Survey](https://writethedocs.org/surveys/) has been running annually since 2019, with the goal of identifying appropriate salary ranges and providing a basis for pay negotiations.
 
 Our goal for Writing Day is to improve the clarity, inclusivity, neutrality and relevance of the [questions, instructions, and general flow of the survey](https://github.com/writethedocs/salary-survey?tab=readme-ov-file#write-the-docs-annual-documentation-salary-survey).
+
+### Research the Docs! (Sponsor session)
+
+Project organizer: Kyle Rollins, he/him. Project session: All day.
+
+Join the MongoDB docs and design teams for a dual-purpose documentation research project. 
+
+*What is this?* 
+
+* An opportunity to work with a product designer on a research activity.
+* Learn how to give qualitative feedback using MongoDB documentation.
+
+*Why participate?*
+
+* Join us to experience professional product research in action.
+* Leave with the knowledge and materials to facilitate your own documentation research project.
+
+Your participation helps the MongoDB team better understand the MongoDB docs’ strengths and weaknesses. It also gives MongoDB team the opportunity to share how you can facilitate your own documentation research project. We appreciate your help in making the MongoDB documentation the best that it can be.
+
+### Crowdsource the Docs: Help improve Docker's API reference
+
+Project organizer: Sarah Sanders, she/her. Project session: All day.
+
+[Docker’s API Docs](https://github.com/docker/docs/tree/main/content/reference/api) are critical for developers and they could use some TLC! Docker's API docs are a part of our open source offerings. We need your help to crowdsource and implement feedback to improve our API documentation.
+
+Our goal is to work together to make the docs more clear, helpful, and user-friendly.
+
+Here's our plan of action:
+
+* Review the current Docker API pages to identify gaps and UX issues.
+* Brainstorm ways to improve clarity, usefulness, and approachability.
+
+Whether you're great at structuring docs, writing clear examples, identifying pain points, or just love helping others understand complex systems - this project is for you!
