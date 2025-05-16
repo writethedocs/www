@@ -30,20 +30,20 @@ buttons:
     #   link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
-    - text: See the Schedule!
-      link: /schedule
-    - text: Buy a Ticket
-      link: /tickets
+    # - text: See the Schedule!
+    #   link: /schedule
+    # - text: Buy a Ticket
+    #   link: /tickets
     #- text: See the Speakers
     #  link: /speakers
     # - text: Attendee Guide
     #   link: /attendee-guide
     # - text: Watch the Live Stream
     #   link: /livestream
-    # - text: Watch the videos
-    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpm4FboYSTD1Bs8Yp8k_JvAL
-    # - text: Conference recap
-    #   link: /news/thanks-recap
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHplMbtJtidqFFtL7rt3ASNSR
+    - text: Conference recap
+      link: /news/thanks-recap
   bottom:
     # - text: Welcome to our conference
     #   link: /news/welcome
@@ -55,18 +55,18 @@ buttons:
     #   link: /tickets
     # - text: See the Schedule
     #   link: /schedule
-    - text: See the Talks
-      link: /speakers
-    - text: Read the Guide
-      link: /attendee-guide
+    # - text: See the Talks
+    #   link: /speakers
+    # - text: Read the Guide
+    #   link: /attendee-guide
     # - text: Watch the Live Stream
     #   link: /livestream
-    # - text: Conference recap
-    #   link: /news/thanks-recap
     # - text: Browse the photos
     #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720308088427
-    # - text: Watch the videos!
-    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpm4FboYSTD1Bs8Yp8k_JvAL
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHplMbtJtidqFFtL7rt3ASNSR
+    - text: Conference recap
+      link: /news/thanks-recap
 
 tickets:
   concierge:
@@ -175,9 +175,9 @@ cfp:
   url: "https://pretalx.com/wtd-portland-2025/cfp" # Open October 6 (Mon) -> 9 weeks to submit
   ends: "January 21, 2025"                         # (Mon) 1 week, to review. It'll take a little longer to announce
   notification: "February 4, 2025"                 # (Mon) 8 weeks to write and prepare
-  speaker_tickets_by: April 04, 2025                  # Approx 4 weeks before
+  speaker_tickets_by: April 18, 2025                  # Approx 4 weeks before
   slides_by: "April 28, 2025"                      # (Mon) 1 week before
-  preview: "TODO"                                  # Preview URL TODO
+  preview: "https://writethedocs-www--2334.org.readthedocs.build/conf/portland/2025/schedule/"                                  # Preview URL TODO
 
 unconf:
   url: ""
@@ -227,9 +227,6 @@ sponsors:
     - name: redocly-new
       link: https://redoc.ly/?ref=writethedocs
       brand: Redocly
-    - name: hyperlint
-      link: https://hyperlint.com/?ref=writethedocs
-      brand: Hyperlint
     - name: not-boring-tech-writer
       link: https://thenotboringtechwriter.com/?ref=writethedocs
       brand: The Not-Boring Tech Writer, from KnowledgeOwl
@@ -260,9 +257,9 @@ flagrunofshow: True
 flaghasschedule: True
 flagscheduleincomplete: True
 flaghasshirts: True
-flaglivestreaming: False
+flaglivestreaming: True
 flagvideos: False
-flagpostconf: False
+flagpostconf: True
 flaghasbadgeflair: False
 
 # Truthy things that don't change

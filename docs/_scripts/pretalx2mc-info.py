@@ -79,20 +79,20 @@ def retrieve_speaker_info(speaker_codes, http_headers, pretalx_slug):
             ('name', speaker['name']),
             ('email', speaker['email']),
             ('pronouns', search_answers(speaker, 'do you use')),
-            ('facts', search_answers(speaker, 'facts')),
+            ('bio', search_answers(speaker, 'short bio')),
             ('pronounce', search_answers(speaker, 'pronounce')),
-            ('slack', search_answers(speaker, 'slack')),
-            ('li', search_answers(speaker, 'linkedin')),
-            ('shirt', search_answers(speaker, 'shirt')),
+            #('slack', search_answers(speaker, 'slack')),
+            #('li', search_answers(speaker, 'linkedin')),
+            #('shirt', search_answers(speaker, 'shirt')),
 
         ]))
     return result
 
 if __name__ == '__main__':
     convert_to_yaml(
-        year='2024',
-        series='Write the Docs Atlantic',
-        series_slug='atlantic',
+        year='2025',
+        series='Write the Docs Portland',
+        series_slug='portland',
         yaml_output='../_data/mc-info.yaml',
-        pretalx_slug='wtd-atlantic-2024'
+        pretalx_slug='wtd-portland-2025'
     )
