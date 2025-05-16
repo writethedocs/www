@@ -118,7 +118,7 @@ Subject:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Subject:
-   WTD {{city}} {{year}} -- speaker logistics and schedule
+   WTD {{city}} {{year}} -- speaker logistics
 
 ::
 
@@ -126,13 +126,13 @@ Subject:
 
    Just wanted to drop you all a quick note covering some logistics.
 
-   ○  I've added some questions to our [CFP tool (Pretalx)]({{cfp.url}}) about your pronouns, interesting facts, name pronunciation, and Slack username. Please log in at {{cfp.url}} and answer those.
+   ○  First up, if you wanted a mentor, all of those intros have been sent out. Check your inboxes and spam folders and start talking to the good folks who've agreed to support you in your preparation.
 
-   ○ Private speaker Slack channel! If you're not on the Slack already, [join the WTD Slack](https://join.slack.com/t/writethedocs/shared_invite/zt-1qvx3xd9z-jOX_0QZXidaAESji2miYXQ). Once you're signed up, or if you're already on there, ping me @plaindocs so I can add you to the private speaker channel. It contains many of our past speakers, who will be happy to offer advice or answer questions.
+   ○ Private speaker Slack channel! If you're not on the Slack already, [join the WTD Slack](https://join.slack.com/t/writethedocs/shared_invite/zt-2vbvjxiiv-ZUWUdIuimXQ5Q9q_WDPaQw). Once you're signed up, or if you're already on there, ping me @plaindocs so I can add you to the private speaker channel. It contains many of our past speakers, who will be happy to offer advice or answer questions.
 
-   ○ We've got a [provisional schedule]({{cfp.preview}}) up, we're still tweaking a couple of things but it's mostly accurate. If you can't make your slot for any reason do let me know and I'll adjust. Note that we're trialing moderated Q&A in-person this year. We're hoping to publish the schedule on **Friday**.
+   ○ We're working on a provisional schedule, taking into account all requested preferences, I hope to be able to share that with you next week.
 
-   ○ While you're working on your talks, we'd love for you to check out our updated [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) page! It's got all sorts of details on talk format, tech specs, content guidelines, etc.
+   ○ While you're working on your talks, we'd love for you to check out our [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) page! It's got all sorts of details on talk format, tech specs, content guidelines, etc.
 
    Also, if you're ever in doubt about whether something you're writing would be appropriate or not, we'd like to refer you to our conference Code of Conduct, which asks that you refrain from any sexually suggestive or harassing language of any kind. Check it out in full, drop me a line if you have questions: http://www.writethedocs.org/code-of-conduct/
 
@@ -195,7 +195,7 @@ Subject:
 
    We're about seven weeks out from the conference now, lots of stuff is happening behind the scenes, and I hope you're feeling good about writing and speaking.
 
-   We've got a [provisional schedule]({{cfp.preview}}) up, I've taken note of all of your requests, but I'd *love it* if you could check your time-slot and make sure it works for you.
+   We've got a [provisional schedule]({{cfp.preview}}) up, I've taken note of all of your requests, but I'd *love it* if you could check your time-slot and make sure it works for you. We'll be publishing it **Wednesday, March 12**, so please request any changes well before that.
 
    We're keeping the Q&A sessions in our live event. Questions submitted by the audience are moderated by the emcee, and asked in a conversation style directionly after your talk.
 
@@ -203,11 +203,9 @@ Subject:
 
    As we've done for the past few years we'll be live captioning all talks, and it makes the [captioners](https://www.youtube.com/watch?v=xFnM6vmvWaI) lives *much* easier if you can send in a copy of your slides, or even a word list of unusual words that you might use. We'll let you know where to send these a few weeks before the conference.
 
-   In a few weeks I'll be in touch with some calendar invites for a sound check during the conference, to make sure we're all good with slides, audio and video.
+   Lastly, if you'd like to share your talk with your social networks, we've got a page to [help with that](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-media-kit/).
 
-   Lastly, if you'd like to share your talk with your social networks, we've got a page to [help with that](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-media/).
-
-   And I think that is it! I'm excited to see this taking shape and excited to see all of your hard work on the virtual stage!
+   And I think that is it! I'm excited to see this taking shape and excited to see all of your hard work on stage!
 
    Please get in touch if I can help with anything, if you have worries, thoughts or ideas.
 
@@ -230,9 +228,9 @@ Subject:
 
    Hi {name},
 
-   We're just over a month away from meeting up in {{city}}! I hope you're feeling relaxed and confident.
+   We're just under a month away from meeting up in {{city}}! I hope you're feeling relaxed and confident.
 
-   The conference schedule is [live](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/)! :-)
+   The [conference schedule](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/) is live! :-)
 
    I've got a couple more small logistical checkboxes for you:
 
@@ -240,7 +238,9 @@ Subject:
 
    ○ please make sure to log in to [Pretalx](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/) and fill out the questions on pronouns, name pronunciation and interests for our emcee intro. We also need your **hoodie size** for a free speaker hoodie!
 
-   We're finalizing details on the tech check and Q&A over the next weeks, and we'll be in touch in a couple of weeks for a copy of your slides for our captioners!
+   Take a look at our *freshly updated* [speaker info page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-info/) which has everything you need to know about speaking at Write the Docs! Missing something? Let us know!
+
+   We'll be in touch in a couple of weeks for a copy of your slides for our captioners!
 
    In the meantime, if you have any questions at all about the event, you definitely know how to reach me by now.
 
@@ -296,7 +296,11 @@ Subject:
 
    It is a wrap! Thank you one last time for your hard work, insight and creativity. You were amazing!
 
-   Videos of all talks are published on [YouTube](https://www.youtube.com/playlist?list=PLZAeFn6dfHpneQPsDWa4OmEpgW4pNiaZ2). Likewise, there are photos of all speakers up on [Flickr](https://www.flickr.com/photos/writethedocs/albums/72177720308088427), and more photos of the rest of the event will follow soon.
+   ○ Videos of all talks are published on [YouTube](https://www.youtube.com/playlist?list=PLZAeFn6dfHplMbtJtidqFFtL7rt3ASNSR).
+
+   ○ Photos are being uploaded to [Flickr](https://www.flickr.com/photos/writethedocs/albums/72177720325861452/), more photos of the rest of the event will follow soon.
+
+   ○ Sketchnotes are up, also on [Flickr](https://www.flickr.com/photos/writethedocs/albums/72177720325990264).
 
    We'd love to know how you found the whole process, from A to Z so we can improve next time. To that end we've got an anonymous (keep in mind that there aren't many speakers) feedback form for you here:
 
