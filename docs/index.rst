@@ -22,6 +22,8 @@ We have in-person and virtual conferences around the world:
 
    - :doc:`Portland 2025 </conf/portland/2025/index>`, **May 4-6, 2025**, Portland, Oregon, United States
    - :doc:`Kenya 2025 </conf/kenya/2025/index>`, June 7, 2025, **Nairobi, Kenya**
+   - :doc:`Berlin 2025 </conf/berlin/2025/index>`, October 27-28, **Berlin - Germany**
+   - :doc:`Australia 2025 </conf/australia/2025/index>`, November 20-21, **Virtual - AEDT**
 
 See all :doc:`our conferences </conf/index>` from past years.
 
@@ -47,7 +49,7 @@ Learn from our resources
 
 We have an ever-increasing set of talk videos, articles, links, and resources:
 
-* Subscribe to one of :doc:`newsletter and conference </newsletter>` mailing lists
+* Subscribe to our :doc:`newsletter and conference </newsletter>` mailing lists
 * Browse our :doc:`topic index </topics>`
 * Read the latest in our :doc:`blog </blog/index>`
 * Learn about :doc:`Write the Docs <about/about-the-org>`
@@ -94,3 +96,5 @@ Site Content
    conf/kenya/*/*/*
    conf/cfp/*
    book-club/*/*
+   conf/berlin/*/*
+   conf/berlin/*/*/*

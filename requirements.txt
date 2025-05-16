@@ -11,7 +11,7 @@ ablog==0.10.31  # pyup: ignore
 
 # Sphinx (checked with 4.3) requires docutils=<0.18
 docutils==0.17.1   # pyup: <0.18
-PyYAML==6.0.2 
+PyYAML==6.0.2
 pytz==2024.2
 
 # Additional libraries
@@ -22,7 +22,7 @@ sphinxcontrib.datatemplates==0.11.0
 meetup-api==0.1.1
 urllib3[secure]==2.2.3
 yamale==4.0.4
-markdown==3.3.6
+markdown==3.7
 ruamel.yaml==0.18.7
 lxml==4.8.0
 # For emoji
@@ -33,3 +33,5 @@ Werkzeug==0.16.1 # pyup: <1.0
 sphinx-notfound-page==0.8
 # For fancy twitter previews
 sphinxext-opengraph==0.9.1
+# For social cards
+matplotlib==3.7.5

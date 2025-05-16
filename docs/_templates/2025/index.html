@@ -224,7 +224,7 @@ Home - Write the Docs {{ name }} {{ year }}
       {% if flagspeakersannounced %}
 
       <div class="learn-more">
-        <a class="uk-align-right" href="{{ pathto('conf/' + shortcode + '/' + year_str + '/schedule') }}">See the Full Schedule</a>
+        <a class="uk-align-right" href="{{ pathto('conf/' + shortcode + '/' + year_str + '/schedule') }}">See the full schedule</a>
       </div>
 
       {% endif %}
@@ -232,6 +232,7 @@ Home - Write the Docs {{ name }} {{ year }}
     </div>
   </div><!-- end schedule overview -->
 
+  {% if flaghashike %}
 
   <div class="about" id="about">
     <div class="uk-container">
@@ -259,8 +260,11 @@ Home - Write the Docs {{ name }} {{ year }}
         <p class="testimonial-author">- <a href="https://heyawhite.com/about/">Alexandra White, Senior Tech Writer at Google</a></p>
       </div>
 
+
     </div>
   </div>
+
+  {% endif %}
 
   {% if body %}
     {% block body %}

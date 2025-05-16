@@ -11,6 +11,12 @@ Tickets
 
 We're excited to invite you to our {{ year }} conference in {{ city }}.
 
+{% if shirts and flaghasshirts %}
+Conference shirts are also available. See the `Official Conference Shirts`_ section below for details.
+
+{% endif %}
+
+
 {% elif flagsoldout %}
 
 **Tickets are sold out!**
@@ -24,7 +30,7 @@ We're excited to invite you to our {{ year }} conference in {{ city }}.
 Ticket Information
 ------------------
 
-Write the Docs {{ name }} {{ year }} is an in-person conference. Each ticket includes:
+Write the Docs {{ name }} {{ year }} is a hybrid conference, which you can attend in person or virtually. Each in-person ticket includes:
 
 * Entry to all conference events and activities
 * Snacks and drinks on event days (Sunday-Tuesday)
@@ -32,12 +38,16 @@ Write the Docs {{ name }} {{ year }} is an in-person conference. Each ticket inc
 * Wifi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue
 
-All attendees are required to abide by our `Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`_.
+Learn more about the `virtual attendance experience </conf/portland/2025/virtual/>`_.
+
+All attendees, in person or virtual, are required to abide by our `Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`_.
 
 Refund Policy
 -------------
 
-Refunds will be offered with a 10% processing fee until 2 weeks before the conference.
+Refunds are offered with a 10% processing fee, up to 2 weeks before the conference.
+
+If you need to cancel your ticket because of fear of traveling internationally to the United States or getting COVID-19 prior to the conference, we will offer a 100% refund. 
 
 Ticket Types
 ------------
@@ -83,17 +93,14 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 
 .. class:: ticket
 
-**Corporate Concierge Tickets** *{{tickets.concierge.price}}*
-------------------------------------------------------
+**Virtual Tickets** *{{tickets.virtual.price}}*
+--------------------------------------------
 
-We offer a corporate concierge service if your company is unable to follow our regular ticket sales process through the website.
-We can offer payment by invoice, process purchase orders, bank transfers, fill in supplier registration forms, and offer other support.
-Your tickets will be issued after we have received payment.
-The minimum purchase is three tickets.
+Join us virtually for the main conference days (May 5-6). Learn more about the `virtual attendance experience </conf/portland/2025/virtual/>`_.
 
 {% if flagticketsonsale %}
 
-* Contact us at `{{email}} <mailto:{{email}}>`_ for this service.
+* `Buy Virtual Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
 
 {% endif %}
 
@@ -121,5 +128,21 @@ Grant applications will open soon.
 You can now visit our Write the Docs {{ name }} {{ year }} Pop-Up Shop and order this year’s branded shirt. The campaign will run until **{{ shirts.ends }}**.
 
 * `Buy {{ name }} {{ year }} Shirt <{{ shirts.url }}>`_
+
+{% endif %}
+
+.. class:: ticket
+
+**Corporate Concierge Tickets** 
+------------------------------------------------------
+
+We offer a corporate concierge service if your company is unable to follow our regular ticket sales process through the website.
+We can offer payment by invoice, process purchase orders, bank transfers, fill in supplier registration forms, and offer other support.
+Your tickets will be issued after we have received payment.
+The minimum purchase is three tickets at $750 per ticket.
+
+{% if flagticketsonsale %}
+
+* Contact us at `{{email}} <mailto:{{email}}>`_ for this service.
 
 {% endif %}

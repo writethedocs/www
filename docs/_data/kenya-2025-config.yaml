@@ -25,8 +25,8 @@ buttons:
       link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
-    - text: Submit a Talk
-      link_absolute: https://sessionize.com/wtdkenya-conf/
+    - text: Visit our sponsors
+      link: /sponsors
   bottom:
     - text: Conference information
       link: /news/welcome
@@ -92,9 +92,9 @@ about:
 
 cfp:
   url: "https://sessionize.com/wtdkenya-conf/"
-  ends: "April 30, 2025"
-  notification: "May 15, 2025"
-  slides_by: "May 31, 2025"
+  ends: "March 31st, 2025"
+  notification: "April 15, 2025"
+  slides_by: "Not applicable"
   preview: "TODO"
 
 unconf:
@@ -108,15 +108,18 @@ writing_day:
 sponsors:
   keystone: []
   patron: []
-  publisher: []
+  publisher:
+    - name: mcm
+      link: https://mcmstudy.org/
+      brand: Masters in Communication and Media
   second: []
   first: []
   in_kind: []
 
 flaglanding: True
-flaghassponsors: False
-flagcfp: True
-flagticketsonsale: True
+flaghassponsors: True
+flagcfp: False
+flagticketsonsale: False
 flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False
