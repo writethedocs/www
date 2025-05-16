@@ -262,17 +262,19 @@ Subject:
 
    Hi {name},
 
-   The conference is almost upon us! I hope you're all comfortably making the final touches to your presentations, and have your ideas lined up. I'm flying out next week, and am really looking forward to seeing what you'll all be sharing with us at the conference.
+   The conference is almost upon us! I hope you're all comfortably making the final touches to your presentations, and have your ideas lined up.
+
+   I'm over in Portland already, enjoying the spring weather, and I'm really looking forward to seeing what you'll all be sharing with us at the conference.
 
    Here are a last few boxes to check when it comes to organization and logistics:
 
    ○ Please [upload your slides]({{cfp_variables['upload']}}) for the captioners by {{cfp.slides_by}}. If you run into any trouble uploading them, please forward them as attachments to sam@writethedocs.org
 
-   ○ We'll be doing AV/laptop/slide checks at the stage, either first thing in the morning (8:00 am) or right before the lunch break. Please make sure you come say hi and do that, even if you think you don't need to 😉. I'll get some calendar invites out for those slots between now and then.
+   ○ We'll be doing [AV/laptop/slide checks](https://www.writethedocs.org/conf/portland/2025/speaker-info/#conference-schedule) at the stage, either first thing in the morning or right before the lunch break. Please make sure you come say hi and do that, even if you think you don't need to 😉. I'll get some calendar invites out for those slots between now and then. Please bring the laptop you'll be presenting from.
 
-   ○ If you've not already answered the questions about your pronouns, interests and names, please do [log in to Pretalx](https://pretalx.com/wwtd-{{shortcode}}-{{year}}/me/) and answer them, it makes life much easier for the folks doing the intros and Q&A.
+   ○ If you've not already let us know what your pronouns and interests are, and how to pronounce your name, please do [log in to Pretalx](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/) and answer them, it makes life much easier for the folks doing the intros and Q&A.
 
-   There will be a quiet room for speakers where you can decompress before or after your talk, please ask me or the reg desk where to find it at the event.
+   There will be a green room for speakers where you can decompress before or after your talk, please ask me or the reg desk where to find it at the event.
 
    If you have any questions at all about the event, you definitely know how to reach me by now.
 
