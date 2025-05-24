@@ -55,7 +55,7 @@ Your speaker tech check will be directly before the morning or afternoon session
 
 For example if you speak at 10:00am on Tuesday, your tech will be at 7:45am on Tuesday. Meet in front of the main stage.
 
-View the full `attendee schedule <https://www.writethedocs.org/conf/portland/2025/schedule/>`__.
+View the full `attendee schedule <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/schedule/>`__.
 
 SUNDAY
 ~~~~~~
@@ -81,7 +81,7 @@ TUESDAY
 Speaking Tips
 -------------
 
-{% include "conf/portland/speaking-tips-2025.rst" %}
+{% include "conf/{{shortcode}}/speaking-tips-2025.rst" %}
 
 Media Kit
 ----------
