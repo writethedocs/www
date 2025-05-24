@@ -81,7 +81,7 @@ TUESDAY
 Speaking Tips
 -------------
 
-{% include "conf/{{shortcode}}/speaking-tips-2025.rst" %}
+{% include "conf/portland/speaking-tips-2025.rst" %}
 
 Media Kit
 ----------
