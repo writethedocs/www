@@ -108,7 +108,7 @@ Join us virtually for the main conference days. Learn more about the `virtual at
 
 {% endif %}
 
-{% if tickets.virtual and flagticketsonsale %}
+{% if 'virtual' in tickets %}
 
 .. class:: ticket
 

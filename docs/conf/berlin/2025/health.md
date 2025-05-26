@@ -6,7 +6,7 @@ banner: _static/conf/images/headers/2025/volunteer.jpg
 
 # Health and Safety Policy 
 
-**This policy is up to date as of December 2025.**
+**This policy is up to date as of December 2024.**
 
 ## Onsite Health and Safety Measures
 
