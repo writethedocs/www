@@ -84,6 +84,8 @@ Sponsorship Packages
 
 All packages can be customized, so let us know what you need!
 
+{% if sponsorship.keystone.price %}
+
 Keystone
 --------
 
@@ -94,9 +96,9 @@ The **Keystone** sponsorship highlights you as the primary sponsor of the confer
 Benefits
 ^^^^^^^^
 
-- Eight (8) tickets, with additional available to purchase at a discounted rate of $500/ticket.
+- Eight (8) tickets, with additional available to purchase at a discounted rate of €300/ticket.
 - Most visible **sponsorship booth** for the entire conference (Monday & Tuesday).
-- Sponsorship of a primary Write the Docs conference event (Unconference, Writing Day, or Social Event). 
+- Sponsorship of a primary Write the Docs conference event (Unconference or Social Event). 
 - **60 second introduction** on the main stage introducing your company.
 - Large logo on print material.
 - Large logo included in intermission slides and on talk videos.
@@ -107,6 +109,7 @@ Benefits
 - Slack Sponsorship promotion in Write the Docs Slack channel ahead of the conference.
 - Display promotional “Swag” items on the conference swag table (provided by sponsor).
 
+{% endif %}
 
 Patron
 ------
@@ -118,10 +121,9 @@ The **Patron** package is great for a larger company to get in front of our atte
 Benefits
 ^^^^^^^^
 
-- Six (6) tickets, with additional available to purchase at a discounted rate of $500/ticket.
+- Four (4) tickets, with additional available to purchase at a discounted rate of €300/ticket.
 - A **sponsorship booth** for the entire conference (Monday & Tuesday).
 - **30 second introduction** on the main stage introducing your company.
-- A table at Writing Day on Sunday OR Unconference Monday or Tuesday, where you can engage in an official event space.
 - Dedicated social media post.
 - Logo included in intermission slides and on talk videos.
 - Logo and description (250 characters) on the conference website.
@@ -133,13 +135,13 @@ Publisher
 
 **{{sponsorship.publisher.price}}**
 
-The **Publisher** package is great for a company looking to send some employees and engage as a sponsor in a conference event like the Unconference or Writing Day.
+The **Publisher** package is great for a company looking to send some employees and engage as a sponsor in a conference event like the Unconference.
 
 Benefits
 ^^^^^^^^
 
-- Four (4) tickets, with additional available to purchase at a discounted rate of $500/ticket.
-- A table at Writing Day on Sunday OR Unconference Monday or Tuesday, where you can engage in an official event space.
+- Four (4) tickets, with additional available to purchase at a discounted rate of €300/ticket.
+- A table at Unconference Monday or Tuesday, where you can engage in an official event space.
 - Logo on the conference website.
 - Name included in all conference emails to attendees.
 - Display promotional “Swag” items on the conference swag table (provided by sponsor).
@@ -154,7 +156,7 @@ The **Second Draft** package gives you visibility on the conference website and 
 Benefits
 ^^^^^^^^
 
-- Two (2) tickets, with additional available to purchase at a discounted rate of $500/ticket.
+- Two (2) tickets, with additional available to purchase at a discounted rate of €300/ticket.
 - Logo on the conference website.
 - Name included in all conference emails to attendees.
 - Display promotional (“Swag”) items on the conference swag table (provided by sponsor).
@@ -168,7 +170,7 @@ combined with one of the previous packages to increase visibility at the event.
 Lightning Talks
 ---------------
 
-**$3,500** - :strike:`Limit 2` (Sold out)
+**${{ sponsorship.publisher.price }}**
 
 Sponsor one day of Lightning Talks, where attendees have 5 minutes to share something they are excited about working on. You will have 60 seconds at the start to introduce your company.
 
@@ -183,7 +185,7 @@ Benefits
 Opportunity Grants
 ------------------
 
-**$2,500** - **Limit 2**
+**{{ sponsorship.second_draft.price }}**
 
 Provide additional funding for our Opportunity Grant program, which supports equity and accessibility and provides funding for low-income, marginalized people to attend the conference.
 These individuals would otherwise not be able to attend.

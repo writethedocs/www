@@ -91,16 +91,38 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 
 {% endif %}
 
+{% if 'virtual_corporate' in tickets %}
+
+.. class:: ticket
+
+**Virtual Corporate Tickets** *{{tickets.virtual_corporate.price}}*
+--------------------------------------------
+
+Join us virtually for the main conference days. Learn more about the `virtual attendance experience </conf/{{shortcode}}/{{year}}/virtual/>`_.
+
+{% if flagticketsonsale %}
+
+* `Buy Virtual Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
+
+{% endif %}
+
+{% endif %}
+
+{% if tickets.virtual and flagticketsonsale %}
+
 .. class:: ticket
 
 **Virtual Tickets** *{{tickets.virtual.price}}*
 --------------------------------------------
 
-Join us virtually for the main conference days (May 5-6). Learn more about the `virtual attendance experience </conf/{{shortcode}}/{{year}}/virtual/>`_.
+Join us virtually for the main conference days. Learn more about the `virtual attendance experience </conf/{{shortcode}}/{{year}}/virtual/>`_.
+
 
 {% if flagticketsonsale %}
 
 * `Buy Virtual Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
+
+{% endif %}
 
 {% endif %}
 
