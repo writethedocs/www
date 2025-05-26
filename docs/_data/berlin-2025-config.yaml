@@ -102,7 +102,7 @@ sponsorship:
   patron:
     price: €5,500
   keystone:
-    price: 0
+    price: "" # None to not render
 
 grants:
 #  url: https://docs.google.com/forms/d/e/1FAIpQLSf3fGfW_8W1x3oeKeoUpg8ZPLvyY4cQvO5Bii_OTrgW97cLNw/viewform?embedded=true
