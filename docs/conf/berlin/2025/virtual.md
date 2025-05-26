@@ -5,7 +5,7 @@ template: {{year}}/generic.html
 # Virtual Attendance
 
 We're excited to offer a virtual attendance option for Write the Docs {{ city }} {{year}}.
-The virtual component will run on **{{ conference.date }}** alongside our in-person conference.
+The virtual component will run on **{{ date.conference.date }}** alongside our in-person conference.
 
 ## Platform
 
@@ -24,7 +24,7 @@ Virtual attendance includes:
 
 ## Schedule
 
-The virtual event follows the main conference schedule on **{{ conference.date }}**. All sessions are streamed in Pacific Time (PT).
+The virtual event follows the main conference schedule on **{{ date.conference.date }}**. All sessions are streamed in Pacific Time (PT).
 
 See the full [conference schedule](/conf/{{ shortcode }}/{{year}}/schedule/) for complete details about specific talks and events.
 
