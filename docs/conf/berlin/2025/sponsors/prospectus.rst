@@ -16,9 +16,9 @@ We're excited to work with the organizations in our community to build the best 
 Created in 2013 in Portland, Oregon, WTD has hosted conferences around the world in Prague, Berlin, Sydney, London, and Melbourne.
 We’re excited to celebrate year 12 with your support!
 
-If you're a prospective sponsor, you can view our `PDF sponsorship prospectus <https://drive.google.com/file/d/1CCs5nSG6HTUsYNy8tV9UqjW0yXq8PsQC/view?usp=sharing>`_ if you prefer that format.
+.. If you're a prospective sponsor, you can view our `PDF sponsorship prospectus <https://drive.google.com/file/d/1CCs5nSG6HTUsYNy8tV9UqjW0yXq8PsQC/view?usp=sharing>`_ if you prefer that format.
 
-If you're an existing sponsor looking for next steps, check out our `Sponsorship Information page <{{site}}/conf/{{shortcode}}/{{year}}/sponsors/information>`_.
+.. If you're an existing sponsor looking for next steps, check out our `Sponsorship Information page <{{site}}/conf/{{shortcode}}/{{year}}/sponsors/information>`_.
 
 Concept
 =======
@@ -170,7 +170,7 @@ combined with one of the previous packages to increase visibility at the event.
 Lightning Talks
 ---------------
 
-**${{ sponsorship.publisher.price }}**
+**{{ sponsorship.publisher.price }}**
 
 Sponsor one day of Lightning Talks, where attendees have 5 minutes to share something they are excited about working on. You will have 60 seconds at the start to introduce your company.
 
