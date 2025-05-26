@@ -199,17 +199,21 @@ sponsors:
   second: 
   first:
   in_kind:
+    - name: readthedocs
+      link: https://about.readthedocs.com/?ref=writethedocs
+      brand: Read the Docs
+      text: "Read the Docs simplifies software documentation by building, versioning, and hosting of your docs, automatically. Treating documentation like code keeps your team in the same tools, and your documentation up to date."
 
 # Things that change over time, listed in order of change
 flaglanding: False
-flaghassponsors: False
-flagcfp: False
-flagticketsonsale: False
+flaghassponsors: True
+flagcfp: True
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False
 flaghasschedule: False
-flagscheduleincomplete: False
+flagscheduleincomplete: True
 flaghasshirts: False
 flaglivestreaming: False
 flagvideos: False

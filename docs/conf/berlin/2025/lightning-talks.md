@@ -29,7 +29,7 @@ Our goal is to have a balance between first-time and experienced speakers.
 
 ## Schedule and Logistics
 
-**Date: Monday, May 5 and Tuesday, May 6 after lunch**
+**Date: Monday and Tuesday after lunch**
 
 Submit your Lightning Talk in person at the registration/check-in table.
 

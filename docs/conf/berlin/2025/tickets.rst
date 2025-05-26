@@ -12,10 +12,10 @@ Tickets
 We're excited to invite you to our {{ year }} conference in {{ city }}.
 
 {% if shirts and flaghasshirts %}
+
 Conference shirts are also available. See the `Official Conference Shirts`_ section below for details.
 
 {% endif %}
-
 
 {% elif flagsoldout %}
 
@@ -33,8 +33,8 @@ Ticket Information
 Write the Docs {{ name }} {{ year }} is a hybrid conference, which you can attend in person or virtually. Each in-person ticket includes:
 
 * Entry to all conference events and activities
-* Snacks and drinks on event days (Sunday-Tuesday)
-* Welcome Reception and Social Event with light snacks and drinks
+* Snacks and drinks on conference days
+* Social Event with light snacks and drinks
 * Wifi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue
 
@@ -46,8 +46,6 @@ Refund Policy
 -------------
 
 Refunds are offered with a 10% processing fee, up to 2 weeks before the conference.
-
-If you need to cancel your ticket because of fear of traveling internationally to the United States or getting COVID-19 prior to the conference, we will offer a 100% refund. 
 
 Ticket Types
 ------------
@@ -91,14 +89,16 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 
 {% endif %}
 
-{% if 'virtual_corporate' in tickets %}
+{% if 'virtual' in tickets %}
 
 .. class:: ticket
 
-**Virtual Corporate Tickets** *{{tickets.virtual_corporate.price}}*
+**Virtual Tickets** *{{tickets.virtual.price}}*
 --------------------------------------------
 
-Join us virtually for the main conference days. Learn more about the `virtual attendance experience </conf/{{shortcode}}/{{year}}/virtual/>`_.
+Join us virtually for the conference. Buy this ticket if you are currently enrolled as a student, have no steady source of income, are paying for yourself, work at a non-profit, or at a company with fewer than 10 employees.
+
+Learn more about the `virtual attendance experience </conf/{{shortcode}}/{{year}}/virtual/>`_.
 
 {% if flagticketsonsale %}
 
@@ -108,14 +108,16 @@ Join us virtually for the main conference days. Learn more about the `virtual at
 
 {% endif %}
 
-{% if 'virtual' in tickets %}
+{% if 'virtual_corporate' in tickets %}
 
 .. class:: ticket
 
-**Virtual Tickets** *{{tickets.virtual.price}}*
+**Virtual Corporate Tickets** *{{tickets.virtual_corporate.price}}*
 --------------------------------------------
 
-Join us virtually for the main conference days. Learn more about the `virtual attendance experience </conf/{{shortcode}}/{{year}}/virtual/>`_.
+Join us virtually for the conference. Purchase a corporate ticket if a company is paying for your attendance.
+
+Learn more about the `virtual attendance experience </conf/{{shortcode}}/{{year}}/virtual/>`_.
 
 
 {% if flagticketsonsale %}

@@ -133,10 +133,10 @@ You should have received a unique URL with a discount code for your sponsorship 
 ### How should I send my booth materials?
 
 * Keystone and Patron sponsors are allowed to send 3 boxes at 24"x18"x18" in size. Please contact us for the shipping address for an organizer, as the venue doesn't accept packages.
-* Packages must arrive between April 29 and May 2.
+* Packages must arrive between 1 and 2 weeks before the conference.
 * Sponsors are responsible for all sponsorship materials after they arrive at the venue. 
 * Sponsors are responsible for mailing all materials after the conference. 
 * Please print your return shipping labels prior to coming to the venue to send your materials back.
-* **All materials must be out of the venue by 6pm on Tuesday, May 6.**
+* **All materials must be out of the venue by 6pm on Tuesday**
 
 If you have any further questions, reach out to Eric Holscher or <sponsorship@writethedocs.org>.
