@@ -6,34 +6,24 @@ banner: _static/conf/images/headers/2025/sponsors.jpg
 
 # Sponsor Information
 
-Hi sponsors! We're excited to have you join us for Write the Docs Portland 2025. Below is a conference overview, schedule, and detailed information regarding your participation.
+Hi sponsors! We're excited to have you join us for our {{ year }} {{ city }} conference. Below is a conference overview, schedule, and detailed information regarding your participation.
 
 ## Location
 
-Revolution Hall  
-[1300 SE Stark St](https://maps.app.goo.gl/Z38CyRjmUukr3eSL6)  
-Portland, Oregon 97214
-
 ## Schedule
 
-**SUNDAY, MAY 4**:
+**MONDAY**:
 
-* 8:00am: Doors open
-* 9:00am-5:00pm: Writing Day and check in
-* 5:00-7:00pm: Welcome Reception
-
-**MONDAY, MAY 5**:
-
-* 7:00am: Arrival and booth setup for Keystone/Patron sponsors
+* 7:00am: Arrival and booth setup for Patron sponsors
 * 8:00am: Doors to venue/sponsor booths open
 * 9:00am-5:00pm: Speaker Talks and Unconference
 * 10:55am: Booth sponsor introductions on main stage
 * 5:00-7:00pm: Evening break
 * 7:00-9:00pm: Evening party at Jupiter NEXT (800 E Burnside St, 2nd floor)
 
-**TUESDAY, MAY 6**:
+**TUESDAY**:
 
-* 7:45am: Keystone/Patron sponsor arrival
+* 7:45am: Patron sponsor arrival
 * 8:00am: Doors to venue/sponsor booths open
 * 9:00am-4:00pm: Speaker Talks and Unconference
 * 4:00pm: Conference ends/load out
@@ -43,9 +33,9 @@ Portland, Oregon 97214
 
 * **SUNDAY**: The first day of the conference is Writing Day, and is typically attended by one third of our attendees. Our Welcome Reception is in the evening and we see an influx of attendees come through for this. **There are no sponsor booths this day**, but we encourage you to submit a writing project for attendees to contribute to.
 
-* **MONDAY**: Day 1 of Speaker Talks and Unconference. Booth setup begins for Keystone and Patron sponsors at 7am. Attendees begin to arrive at 8am. Sponsor introductions will happen at 10:55am on the main stage for booth sponsors. Two thirds of attendees check in early this morning. There are seven speakers, with a short break after each talk. The Unconference track runs parallel to Speaker Talks. There is a Monday social gathering in the evening offsite.
+* **MONDAY**: Day 1 of Speaker Talks and Unconference. Booth setup begins for Patron sponsors at 7am. Attendees begin to arrive at 8am. Sponsor introductions will happen at 10:55am on the main stage for booth sponsors. Two thirds of attendees check in early this morning. There are seven speakers, with a short break after each talk. The Unconference track runs parallel to Speaker Talks. There is a Monday social gathering in the evening offsite.
 
-* **TUESDAY**: Day 2 of Speaker Talks and Unconference. Keystone and Patron sponsor arrival is at 7:45am. Doors open at 8am. Schedule is similar to Monday. There are six speakers this day.
+* **TUESDAY**: Day 2 of Speaker Talks and Unconference. Patron sponsor arrival is at 7:45am. Doors open at 8am. Schedule is similar to Monday. There are six speakers this day.
 
 The [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) is available.
 
@@ -132,7 +122,7 @@ You should have received a unique URL with a discount code for your sponsorship 
 
 ### How should I send my booth materials?
 
-* Keystone and Patron sponsors are allowed to send 3 boxes at 24"x18"x18" in size. Please contact us for the shipping address for an organizer, as the venue doesn't accept packages.
+* Patron sponsors are allowed to send 3 boxes at 24"x18"x18" in size. Please contact us for the shipping address for an organizer, as the venue doesn't accept packages.
 * Packages must arrive between 1 and 2 weeks before the conference.
 * Sponsors are responsible for all sponsorship materials after they arrive at the venue. 
 * Sponsors are responsible for mailing all materials after the conference. 
