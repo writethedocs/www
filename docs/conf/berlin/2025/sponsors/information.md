@@ -31,7 +31,6 @@ Hi sponsors! We're excited to have you join us for our {{ year }} {{ city }} con
 
 ## Conference Overview
 
-* **SUNDAY**: The first day of the conference is Writing Day, and is typically attended by one third of our attendees. Our Welcome Reception is in the evening and we see an influx of attendees come through for this. **There are no sponsor booths this day**, but we encourage you to submit a writing project for attendees to contribute to.
 
 * **MONDAY**: Day 1 of Speaker Talks and Unconference. Booth setup begins for Patron sponsors at 7am. Attendees begin to arrive at 8am. Sponsor introductions will happen at 10:55am on the main stage for booth sponsors. Two thirds of attendees check in early this morning. There are seven speakers, with a short break after each talk. The Unconference track runs parallel to Speaker Talks. There is a Monday social gathering in the evening offsite.
 
