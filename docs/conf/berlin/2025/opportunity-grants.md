@@ -25,7 +25,7 @@ Grant applicants, like all other participants in the Write the Docs community, a
 - **Now - {{ grants.ends }}:** Grant applications open
 - **{{ grants.notification }}:** Grant recipients notified
 
-## What is Covered
+## What is covered
 
 **All grants include a free conference ticket.** This is the most common and possible grant for us to award. View our [ticket page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/) for what is included with a conference ticket.
 
@@ -39,17 +39,17 @@ This list can include, but is not limited to:
 - Visa fees
 - Additional expenses (childcare, loss of wages, etc.)
 
-## Grant Amounts
+### Virtual or in person
+
+The application will ask whether you want to attend [virtually](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/virtual/) or in person, or are open to either.
+Virtual attendance is a great option if your needed reimbursement exceeds our maximum.
+
+## Grant amounts
 
 We can cover a **maximum of €500** per recipient in cost reimbursement.
 The cost of your ticket is not included in this limit.
 This limit allows us to set clear expectations, and distribute our grant budget optimally.
 
-## Virtual or in person
-
-The application will ask whether you want to attend [virtually](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/virtual/) or in person, or are open to either.
-Virtual attendance is a great option if your needed reimbursement exceeds our maximum.
-It is also easier for us to grant virtual tickets than in person tickets.
 
 ## Are you part of a marginalized or underrepresented group in tech?
 
