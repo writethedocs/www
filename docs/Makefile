@@ -59,6 +59,9 @@ html:
 livehtml:
 	sphinx-autobuild --port 8888 -j auto --watch _data -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/html
 
+dockerhtml:
+	sphinx-autobuild --port 8888 --host "0.0.0.0" -j auto --watch _data -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/html
+
 oldhtml:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml
 	@echo
