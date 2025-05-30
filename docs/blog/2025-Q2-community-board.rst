@@ -12,18 +12,20 @@ To catch up on previous quarterly updates, check out the `community board blog p
 Q2-2025 quarterly meeting highlights
 ------------------------------------
 
-Our second meeting of the year focused mainly on the newly-announced `Write the Docs Berlin 2025 <https://www.writethedocs.org/conf/berlin/2025/>`_ conference, which is our first in-person official conference in Europe since the pandemic. 
+Our second meeting of the year focused mainly on the newly-announced `Write the Docs Berlin 2025 <https://www.writethedocs.org/conf/berlin/2025/>`_ conference, which is our first in-person official conference in Europe since the before-times. 
 
 We're grateful for the virtual conference teams for all of the hard work they've done over the past few years, and look forward to combining the in-person and virtual experience so that our documentarians can choose to attend in the way that best fits their needs. 
 
 Here are the highlights from the meeting:
 
 **Next stop - Berlin**
-    Over the past few months, the board has been disucssing the possibility of returning to in-person conferences in Europe. Ever since we moved to virtual conferences, we've been monitoring the community and industry trends in Europe as well as attendance data and feedback on our virtual conferences (first for Portland and later on for Atlantic). 
+    Over the past few months, the board has been discussing the possibility of returning to in-person conferences in Europe. Ever since we moved to virtual conferences, we've been monitoring the community and industry trends in Europe as well as attendance data and feedback on our virtual conferences (first for Portland and later on for Atlantic). 
     
-    Although we were confident in our virtual presence for Atlantic, we realized that the community is now ready to meet again in person, and thanks to our local contacts in Berlin led by Samuel Wright and the willingness of the Atlantic conference chair Sasha Romijn, we were able to make the decision to hold the conference in Berlin. The success of the updated format in Portland over the past two conference also gave us a great view into how our attendees experience WTD events in a post-pandemic environment, so we are able to leverage those findings and apply them to the upcoming event.
+    Although we were confident in our virtual presence for Atlantic, we realized that the community is now ready to meet again in person, and thanks to our local contacts in Berlin led by Samuel Wright and the willingness of the Atlantic conference chair Sasha Romijn, we were able to make the decision to hold the conference in Berlin. 
     
-    The conference dates were selected based on various holiday calendars as well as other high-profile conference dates. In addition, we also decided to forgo an official Writing Day on Sunday, in order to keep the budget more careful and reduce travel burdens for staff and attendees. The venu we hav chosen is well-known among community events, and we hope that our attendees will have a great experience there.
+    The success of the updated format in Portland over the past two conference also gave us a great view into how our attendees experience WTD events in a post-pandemic environment, so we are able to leverage those findings and apply them to the upcoming event.
+    
+    The conference dates were selected based on various holiday calendars as well as other high-profile conference dates. In addition, we also decided to forgo an official Writing Day on Sunday, in order to keep the budget more careful and reduce travel burdens for staff and attendees. The venue we have chosen is well-known among community events, and we hope that our attendees will have a great experience there.
     
     Speaking of traveling, we also were happy to see that the Portland virtual tickets were very well received, so we will be including a virtual component in the conference using the same platform and format as the Portland conference. This way, folks can choose to attend in person or virtually based on their needs, abilities, and preferences.
 
