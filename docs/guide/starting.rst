@@ -76,6 +76,4 @@ To show the value of documentation to your boss, team, org, or company:
 - From a Product Ownership standpoint: how much does documentation contribute to the Product Vision?
 - Documentation is increasingly necessary for many SaaS offerings, cloud, and software products to succeed. Without it, a product may fail to gain traction, interest, or use.
 
-
-
 To get a blueprint for implementing a documentation solution at your company, see :doc:`writing/mindshare`.
