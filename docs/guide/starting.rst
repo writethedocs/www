@@ -35,15 +35,15 @@ incorporate a multi-disciplinary approach:
 - Quality Control, regression testing, REST API testing
 - Customer Support, Customer Success, project/repository maintainence
 - Developer Relations, SDK software development
-- Documentation tooling, parers, build tools, frameworks.
-- The engineering to support those systems at scale (since popular documention can have as many views as many entire SaaS applciations)
+- Documentation tooling, parers, build tools, frameworks
+- The engineering to support those systems at scale (since popular documention can have as many views as many entire SaaS applications)
 - Certifications, manuals, specifications, curricula
 - Search Engine Optimization, localization, translation, accessibility
 - And, many of the above can be standalone products in their own right (not just part of another product's ensemble).
 
 To write excellent, accurate, documentation, it's usually essential to rigorously test or verify products:
 
-- In doing so, documentation can be seen as a part of Quality Control (and indeed is increasingly found under or embedded within Engineering, Customer Success, and Quality Control orgs)
+- In doing so, documentation can be seen as a part of Quality Control (and indeed is increasingly found under or embedded within Engineering, Customer Success, and Quality Control orgs).
 - How does one know what the REST API Status Codes or Responses are for a successful API Request? 
 - And, for the unsuccessful ones?
 
@@ -59,16 +59,23 @@ What about Large Language Models, Artificial Intelligence, and Machine Learning?
 
 When in doubt, it's useful to remember that Technical Writing and documentation are more than a static 
 summary of concepts and terms, it's an activity that's continuous with overall efforts to improve engineering 
-and customer satisfaction!
+and customer satisfaction! Despite that, documentation is often conflated with other similar kinds of writing or content:
+
+- Documentation is often a valuable resource for engineering leadership to test, try, and determine whether a product fits within their orgs needs. 
+- One excellent document can win over a major customer in ways marketing or advertisements will not.
+- Documentation is often a last resort in difficult technical situations - a "hail mary" that can *save* an org or team!
+- In this way, technical documentation can differ significantly from marketing, blog posts, and other kinds of similar content.
 
 To show the value of documentation to your boss, team, org, or company:
 
 - Define and establish important metrics
 - Research, suggest, define, and/or implement tools to track/record those metrics: Customer Satisfaction, Customer churn (did one dampen the number of customers that were lost, complaining, or unhappy), and so on.
 - From a Project Management perspective: how much is saved by having a dedicated Technical Writing? 
-- Suppose a team of five Platform Software Engineers spend 15% of their capacity on customer-facing documentation (instead of product engineering), is it better to have a dedicated Technical Writer so the Platform engineers can retask?
+- Suppose a team of five Platform Software Engineers spend 15% of their capacity on customer-facing documentation (instead of product engineering), is it better to have a dedicated Technical Writer so the Platform Engineers can retask?
 - How much is gained by keeping customers happy, keeping customers, or acquiring new ones (growth, revenue-wise)?
 - From a Product Ownership standpoint: how much does documentation contribute to the Product Vision?
-- Documentation is increasingly necessary for many SaaS offerings, cloud, and software products to succeed. Without it, a product may fail to gain traction.
+- Documentation is increasingly necessary for many SaaS offerings, cloud, and software products to succeed. Without it, a product may fail to gain traction, interest, or use.
+
+
 
 To get a blueprint for implementing a documentation solution at your company, see :doc:`writing/mindshare`.
