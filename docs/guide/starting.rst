@@ -62,7 +62,7 @@ summary of concepts and terms, it's an activity that's continuous with overall e
 and customer satisfaction! Despite that, documentation is often conflated with other similar kinds of writing or content:
 
 - Documentation is often a valuable resource for engineering leadership to test, try, and determine whether a product fits within their orgs needs. 
-- One excellent document can win over a major customer in ways marketing or advertisements will not.
+- As such, one excellent document can win over a major customer in ways marketing or advertisements will or (legally) cannot (e.g. - compliance).
 - Documentation is often a last resort in difficult technical situations - a "hail mary" that can *save* an org or team!
 - In this way, technical documentation can differ significantly from marketing, blog posts, and other kinds of similar content.
 
@@ -70,7 +70,7 @@ To show the value of documentation to your boss, team, org, or company:
 
 - Define and establish important metrics
 - Research, suggest, define, and/or implement tools to track/record those metrics: Customer Satisfaction, Customer churn (did one dampen the number of customers that were lost, complaining, or unhappy), and so on.
-- From a Project Management perspective: how much is saved by having a dedicated Technical Writing? 
+- From a Project Management perspective: how much is saved by having a dedicated Technical Writer? 
 - Suppose a team of five Platform Software Engineers spend 15% of their capacity on customer-facing documentation (instead of product engineering), is it better to have a dedicated Technical Writer so the Platform Engineers can retask?
 - How much is gained by keeping customers happy, keeping customers, or acquiring new ones (growth, revenue-wise)?
 - From a Product Ownership standpoint: how much does documentation contribute to the Product Vision?
