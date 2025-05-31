@@ -42,13 +42,14 @@ On this modern school of thought, documentation (and/or technical writing) effor
 - Search Engine Optimization, localization, translation, accessibility
 - And, many of the above can be standalone products in their own right (not just part of another product's ensemble).
 
-Indeed, many such "writers" are software developers or activately engaged in software development today. And perhaps, buzzy words like "Docs-as-Code" and Low-Code" that the two are converging.
+Indeed, many such "writers" are software developers or activately engaged in software development today. And perhaps, buzzy words like "Docs-as-Code" and Low-Code" imply that the two are already converging.
 
 To write excellent, accurate, documentation is to rigorously test and verify products:
 
 - In doing so, documentation can be seen as a part of Quality Control (and indeed is increasingly found under or embedded within Engineering, Customer Success, and Quality Control orgs).
 - How does one know what the REST API Status Codes or Responses are for a successful API Request? 
 - And, for the unsuccessful ones?
+- So, technical writing essentially involves Regression and REST API testing.
 
 How does one demonstrate the value of technical writing:
 
