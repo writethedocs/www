@@ -42,7 +42,7 @@ On this modern school of thought, documentation (and/or technical writing) effor
 - Search Engine Optimization, localization, translation, accessibility
 - And, many of the above can be standalone products in their own right (not just part of another product's ensemble).
 
-Indeed, many such "writers" are software developers or activately engaged in software development today. 
+Indeed, many such "writers" are software developers or activately engaged in software development today. And perhaps, buzzy words like "Docs-as-Code" and Low-Code" that the two are converging.
 
 To write excellent, accurate, documentation is to rigorously test and verify products:
 
@@ -76,6 +76,7 @@ Documentation in the age of Large Language Models
 
 What about Large Language Models, Artificial Intelligence, and Machine Learning? Does that spell the end of technical writing and/or human-centric documentation?
 
+- *Statistical* methods are only accurate up to certain percentage (so-called hullicanations, model bias, ordering effects, etc. can kick in). In cases where accuracy or near-certitude are required, such methods alone are likely insufficient.
 - For the foreseeable future technical writing will probably be *a* (or *the*) primary source of content and truth for Large Language Models. 
 - From what data will ***future***, not yet existing, Frameworks, Tools, Languages, and Versions be sourced? (Statistical methods require vast amounts of data for accuracy after all.)
 - How will we validate Machine Learning models and outputs for accuracy and competency? Presumably a human expert. 
