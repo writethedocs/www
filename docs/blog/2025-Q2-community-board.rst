@@ -26,7 +26,7 @@ Here are the highlights from the meeting:
     The success of the updated format in Portland over the past two conferences also gave us a great view into how our attendees experience WTD events in a post-pandemic environment, so we are able to leverage those findings and apply them to the upcoming event.
     
 **Location and format selection**
-    The conference dates were selected based on various holiday calendars as well as other high-profile conference dates. In addition, we also decided to forgo an official Writing Day on Sunday, in order to keep the budget more careful and reduce travel burdens for staff and attendees. The venue we have chosen is well-known for local community events, and we hope that our attendees will have a great experience there.
+    The conference dates were selected based on various holiday calendars as well as other conference dates. In addition, we also decided to forgo an official Writing Day on Sunday, to reduce expenses and travel burdens for staff and attendees. The venue we have chosen is well-known for local community events, and we hope that our attendees will have a great experience there.
     
     Speaking of traveling, we also were happy to see that the Portland virtual tickets were very well received, so we will be including a virtual component with the Berlin conference using the same platform and format as the Portland conference. This way, folks can choose to attend in person or virtually based on their needs, abilities, and preferences.
 
