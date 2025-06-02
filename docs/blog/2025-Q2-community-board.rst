@@ -12,7 +12,7 @@ To catch up on previous quarterly updates, check out the `community board blog p
 Q2-2025 quarterly meeting highlights
 ------------------------------------
 
-Our second meeting of the year focused mainly on the newly-announced `Write the Docs Berlin 2025 <https://www.writethedocs.org/conf/berlin/2025/>`_ conference, which is our first in-person official conference in Europe since the before-times. 
+Our second meeting of the year focused mainly on the newly-announced `Write the Docs Berlin 2025 <https://www.writethedocs.org/conf/berlin/2025/>`_ conference, which is our first in-person official conference in Europe since 2019. 
 
 We're grateful for the virtual conference teams for all of the hard work they've done over the past few years, and look forward to combining the in-person and virtual experience so that our documentarians can choose to attend in the way that best fits their needs. 
 
