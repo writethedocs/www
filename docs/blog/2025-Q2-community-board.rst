@@ -27,14 +27,14 @@ Here are the highlights from the meeting:
     
     The conference dates were selected based on various holiday calendars as well as other high-profile conference dates. In addition, we also decided to forgo an official Writing Day on Sunday, in order to keep the budget more careful and reduce travel burdens for staff and attendees. The venue we have chosen is well-known for local community events, and we hope that our attendees will have a great experience there.
     
-    Speaking of traveling, we also were happy to see that the Portland virtual tickets were very well received, so we will be including a virtual component in the conference using the same platform and format as the Portland conference. This way, folks can choose to attend in person or virtually based on their needs, abilities, and preferences.
+    Speaking of traveling, we also were happy to see that the Portland virtual tickets were very well received, so we will be including a virtual component with the Berlin conference using the same platform and format as the Portland conference. This way, folks can choose to attend in person or virtually based on their needs, abilities, and preferences.
 
     Post-meeting update: After we held our meeting, Sasha and Sam got right to work and finalized the venue bookings and conference budget, and the landing page has been published (CFP and ticket sales will open soon): `Write the Docs Berlin 2025 <https://www.writethedocs.org/conf/berlin/2025/>`_
     
     If you want to volunteer or contribute to the event, please reach out to berlin@writethedocs.org or ping us on Slack. On a personal note, I haven't been able to travel to Portland since we went back to in-person, so I'm especially excited to be reunited with my WTD family in Berlin!
 
 **Australia conference will be virtual this year** 
-    The Australia team, led by Swapnil Ogale, have decided to run the conference virtual-only this year, in order to preserve accessibility and relieve travel burden for attendees and staff. They were very happy with the in-person conference last year, however the virtual was deemed a safer and more streamlined option for the region at this time. We hope to see many folks attend worldwide if you are in the APAC time zone.  
+    The Australia team, led by Swapnil Ogale, have decided to run the conference virtual-only this year, in order to preserve accessibility and relieve travel burden for attendees and staff. They were very happy with the in-person conference last year; however, the virtual was deemed a more prudent and more streamlined option for the region at this time. We hope to see many folks attend worldwide if you are in the APAC time zone.  
 
 **Meetups updates**
     Besides getting excited about the Berlin conference, Rose Williams has been working to streamline the workflows for monitoring inactive meetups, supporting new ones, and building up virtual meetup presence. She's been working on a website update on the meetup organizer guide and support guide, so stay tuned for new content soon.  
