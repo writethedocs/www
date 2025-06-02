@@ -173,13 +173,13 @@ about:
   projector_ratio: "16:9"
   job_fair_room: Sponsor area
 
-cfp:
-#  url: "https://pretalx.com/wtd-portland-2025/cfp" # Open October 6 (Mon) -> 9 weeks to submit
-#  ends: "January 21, 2025"                         # (Mon) 1 week, to review. It'll take a little longer to announce
-#  notification: "February 4, 2025"                 # (Mon) 8 weeks to write and prepare
-#  speaker_tickets_by: April 04, 2025                  # Approx 4 weeks before
-#  slides_by: "April 28, 2025"                      # (Mon) 1 week before
-#  preview: "TODO"                                  # Preview URL TODO
+cfp: # Conf dates 27-28 October
+  url: "https://pretalx.com/wtd-berlin-2025/cfp"   # Open June 2 (Mon), -> 8 weeks to submit
+  ends: "August 18, 2025"                          # (Mon) 1 week, to review. It'll take a little longer to announce
+  notification: "September 1, 2025"                # (Mon) 8 weeks to write and prepare
+  speaker_tickets_by: October 6, 2025              # (Mon) Approx 3 weeks before
+  slides_by: "October 20, 2025"                    # (Mon) 1 week before
+  preview: "TODO"                                  # Preview URL TODO
 
 unconf:
   url: ""
