@@ -49,8 +49,8 @@ buttons:
        link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
-    #- text: Submit a Talk
-    #  link: /cfp
+     - text: Submit a Talk
+       link: /cfp
     # - text: Buy a Ticket!
     #   link: /tickets
     # - text: See the Schedule
@@ -196,7 +196,7 @@ sponsors:
   keystone:
   patron:
   publisher:
-  second: 
+  second:
   first:
   in_kind:
     - name: readthedocs
@@ -207,7 +207,7 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: True
-flagcfp: False
+flagcfp: True
 flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
