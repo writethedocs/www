@@ -9,7 +9,7 @@ The virtual component will run on **{{ date.conference.date }}** alongside our i
 
 ## Platform
 
-We'll be hosting the virtual conference on [Venueless](https://venueless.org), 
+We'll be hosting the virtual conference on [Venueless](https://venueless.org),
 a platform that combines video streaming with chat and networking features.
 
 ## What's Included
@@ -19,7 +19,7 @@ Virtual attendance includes:
 * Live streamed talks from the main stage
 * Ability to participate in Q&A with speakers
 * Real-time chat with other virtual attendees
-* Virtual networking spaces  
+* Virtual networking spaces
 * Conference talk videos available 2-3 weeks after the event
 
 ## Schedule
@@ -36,4 +36,4 @@ A few days before the conference, you'll receive an email with:
 * A quick start guide for the platform
 * Information about testing your setup
 
-Virtual tickets are available on our [tickets page](/{{ shortcode }}/{{year}}/tickets/).
+Virtual tickets are available on our [tickets page](/conf/{{ shortcode }}/{{year}}/tickets/).
