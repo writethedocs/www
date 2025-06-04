@@ -97,6 +97,7 @@ Other media
 
 Including videos, diagrams, and screenshots.
 
+- |:newspaper:| `Automating screenshot capture or translation </blog/newsletter-june-2025/#automating-screenshot-capture-or-translation>`__
 - |:newspaper:| `Inclusiveness in diagrams </blog/newsletter-february-2023/#inclusiveness-in-diagrams>`__
 - |:newspaper:| `When to create screenshots </blog/newsletter-december-2022/#when-to-create-screenshots>`__
 - |:newspaper:| `Is written content outdated - and is it time for video? </blog/newsletter-may-2022/#is-written-content-outdated-and-is-it-time-for-video>`__
@@ -173,6 +174,7 @@ In-app documentation
 Release notes
 ~~~~~~~~~~~~~~
 
+- |:newspaper:| `Making release notes work: Tips for Documentarians </blog/newsletter-june-2025/#making-release-notes-work-tips-for-documentarians>`__
 - |:newspaper:| `Changelogs for Docs </blog/newsletter-november-2023/#changelogs-for-docs>`__
 - |:newspaper:| `Do we tell users what’s new in the docs? </blog/newsletter-march-2020/#do-we-tell-users-what-s-new-in-the-docs>`__
 - |:movie_camera:| `Learning to love release notes </videos/prague/2018/learning-to-love-release-notes-anne-edwards/>`__
@@ -776,6 +778,7 @@ Working with other roles
 
 Including product managers, higher-ups, etc.
 
+- |:newspaper:| `Help contributors think like users </blog/newsletter-june-2025/#help-contributors-think-like-users>`__
 - |:newspaper:| `Contending with unresponsive stakeholders </blog/newsletter-march-2025/#contending-with-unresponsive-stakeholders>`__
 - |:newspaper:| `How to make your work as a documentarian shine: Beyond "just writing docs" </blog/newsletter-february-2025/#how-to-make-your-work-as-a-documentarian-shine-beyond-just-writing-docs>`__
 - |:newspaper:| `Dealing with difficult-to-understand drafts </blog/newsletter-september-2024/#dealing-with-difficult-to-understand-drafts>`__
