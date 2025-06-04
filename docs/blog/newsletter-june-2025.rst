@@ -38,7 +38,7 @@ See more Write the Docs resources about `release notes </topics/#release-notes>`
 Automating screenshot capture or translation
 --------------------------------------------
 
-The quantity of screenshots in documentation has been an ongoing issue for many years. The general consensus has been to minimize the number of screenshots — be selective about what to use. For an example, see the 2022 newsletter article `When to create screenshots </blog/newsletter-december-2022/#when-to-create-screenshots>`__. In the past, the concerns usually focused on accessibility, ROI, and maintenance issues. 
+The quantity of screenshots in documentation has been an ongoing issue for many years. The general consensus has been to minimize the number of screenshots — be selective about what to use. For an example, see the 2022 newsletter article `When to create screenshots </blog/newsletter-december-2022/#when-to-create-screenshots>`__. In the past, the concerns usually focused on accessibility, return on investment (ROI), and maintenance issues. 
 
 A recent discussion in `#doctools <https://writethedocs.slack.com/archives/C4EPE8332>`__ brought up some twists to the screenshot issue. The original poster had been asked to include 900 screenshots of a translated UI! So one issue was whether to satisfy the request for 900 screenshots, which relates to the *When to create screenshots* article. (Some mentioned that requiring this many screenshots in documentation these days means that there’s a UX issue.) In this recent thread, many responses focused on tools to automate the process. Also, in this case, there was another issue: documenting a translated UI. 
 
