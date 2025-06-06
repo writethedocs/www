@@ -47,13 +47,17 @@ We are continuing our work on conference accessibility, and after the success of
 - The ability to submit live Q&A questions for speakers
 - Virtual hallway track and chat so you can network with other remote attendees
 
-Head to our `Tickets page <https://www.writethedocs.org/conf/portland/2025/tickets/>`_ to get your ticket.
-
-In-person `ticket options <https://www.writethedocs.org/conf/portland/2025/tickets/>`_ are:
+In-person `ticket options <https://www.writethedocs.org/conf/portland/2025/tickets/>`_:
 
 * **Student or Unemployed Tickets**: *{{tickets.student.price}}*
 * **Independent Tickets**: *{{tickets.independent.price}}*
 * **Corporate Tickets**: *{{tickets.corporate.price}}*
+
+Virtual `ticket options <https://www.writethedocs.org/conf/portland/2025/tickets/>`_:
+
+* **Student or Unemployed Tickets**: *{{ttickets.virtual_student.price}}*
+* **Independent Tickets**: *{{tickets.virtual_independent.price}}*
+* **Corporate Tickets**: *{{tickets.virtual_corporate.price}}*
 
 
 Grant Program
