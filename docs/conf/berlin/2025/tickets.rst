@@ -57,7 +57,7 @@ Ticket Types
 .. class:: ticket
 
 **Student/Unemployed Tickets**: *{{tickets.student.price}}* in-person / *{{tickets.virtual_student.price}}* virtual
---------------------------------------------
+---------------------------------------------------------------------------
 
 Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
 
@@ -70,7 +70,7 @@ Purchase this ticket if you are currently enrolled as a student, or don't curren
 .. class:: ticket
 
 **Independent Tickets**: *{{tickets.independent.price}}* in-person / *{{tickets.virtual_independent.price}}* virtual
---------------------------------------------
+--------------------------------------------------------------------------
 
 Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with fewer than 10 employees.
 
@@ -83,7 +83,7 @@ Purchase this ticket if you are paying for yourself, or if you work at a non-pro
 .. class:: ticket
 
 **Corporate Tickets**: *{{tickets.corporate.price}}* in-person / *{{tickets.virtual_corporate.price}}* virtual
---------------------------------------------
+--------------------------------------------------------------------------
 
 Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
 
@@ -122,7 +122,7 @@ You can now visit our Write the Docs {{ name }} {{ year }} Pop-Up Shop and order
 
 .. class:: ticket
 
-**Corporate Concierge Tickets** 
+**Corporate Concierge Tickets**
 ------------------------------------------------------
 
 We offer a corporate concierge service if your company is unable to follow our regular ticket sales process through the website.
