@@ -2,7 +2,7 @@
 :banner: _static/conf/images/headers/portland-2024-speakers.jpg
 :og:image: _static/conf/images/headers/portland-2024-speakers.jpg
 
-.. post:: Jun 06, 2025
+.. post:: Jun 06, {{year}}
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
 Announcing the Website, Tickets, Call for Proposals, and Sponsorship Prospectus
@@ -12,8 +12,8 @@ We're excited to announce the full {{ city }} conference website, including:
 
 * Our `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_.
 * An updated `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_.
-* `Ticket sales <https://www.writethedocs.org/conf/portland/2025/tickets/>`_ are open.
-* `Opportunity Grant program <https://www.writethedocs.org/conf/portland/2025/opportunity-grants/>`_ applications are open.
+* `Ticket sales <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_ are open.
+* `Opportunity Grant program <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/>`_ applications are open.
 
 Note that there is no Writing Day at this year's conference.
 
@@ -48,13 +48,13 @@ We are continuing our work on conference accessibility, and after the success of
 - The ability to submit live Q&A questions for speakers
 - Virtual hallway track and chat so you can network with other remote attendees
 
-In-person `ticket options <https://www.writethedocs.org/conf/portland/2025/tickets/>`_:
+In-person `ticket options <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_:
 
 * **Student or Unemployed Tickets**: *{{tickets.student.price}}*
 * **Independent Tickets**: *{{tickets.independent.price}}*
 * **Corporate Tickets**: *{{tickets.corporate.price}}*
 
-Virtual `ticket options <https://www.writethedocs.org/conf/portland/2025/tickets/>`_:
+Virtual `ticket options <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_:
 
 * **Student or Unemployed Tickets**: *{{tickets.virtual_student.price}}*
 * **Independent Tickets**: *{{tickets.virtual_independent.price}}*
