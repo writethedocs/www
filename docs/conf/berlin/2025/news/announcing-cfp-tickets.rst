@@ -55,7 +55,7 @@ In-person `ticket options <https://www.writethedocs.org/conf/portland/2025/ticke
 
 Virtual `ticket options <https://www.writethedocs.org/conf/portland/2025/tickets/>`_:
 
-* **Student or Unemployed Tickets**: *{{ttickets.virtual_student.price}}*
+* **Student or Unemployed Tickets**: *{{tickets.virtual_student.price}}*
 * **Independent Tickets**: *{{tickets.virtual_independent.price}}*
 * **Corporate Tickets**: *{{tickets.virtual_corporate.price}}*
 
