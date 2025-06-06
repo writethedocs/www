@@ -28,8 +28,8 @@ buttons:
        link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
-    #- text: Submit a Talk
-    #  link: /cfp
+     - text: Submit a Talk
+       link: /cfp
 #    - text: See the Schedule!
 #      link: /schedule
 #    - text: Buy a Ticket
