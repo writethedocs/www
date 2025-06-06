@@ -38,8 +38,6 @@ Write the Docs {{ name }} {{ year }} is a hybrid conference, which you can atten
 * Wifi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue
 
-Learn more about the `virtual attendance experience </conf/{{ shortcode }}/{{year}}/virtual/>`_.
-
 All attendees, in person or virtual, are required to abide by our `Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`_.
 
 Refund Policy
@@ -47,21 +45,18 @@ Refund Policy
 
 Refunds are offered with a 10% processing fee, up to 2 weeks before the conference.
 
-{% if 'virtual' in tickets %}
-
 Virtual or in-person
 --------------------
 Each ticket is available as a virtual or in-person form.
 Learn more about the `virtual attendance experience </conf/{{shortcode}}/{{year}}/virtual/>`_.
 
-{% endif %}
 
 Ticket Types
 ------------
 
 .. class:: ticket
 
-**Student or Unemployed Tickets** *{{tickets.student.price}}* in-person / *{{tickets.virtual_student.price}}* virtual
+**Student/Unemployed Tickets** *{{tickets.student.price}}* in-person / *{{tickets.virtual_student.price}}* virtual
 --------------------------------------------
 
 Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
@@ -87,7 +82,7 @@ Purchase this ticket if you are paying for yourself, or if you work at a non-pro
 
 .. class:: ticket
 
-**Corporate Tickets** *{{tickets.corporate.price}}* / *{{tickets.virtual_corporate.price}}*
+**Corporate Tickets** *{{tickets.corporate.price}}* in-person / *{{tickets.virtual_corporate.price}}* virtual
 --------------------------------------------
 
 Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
