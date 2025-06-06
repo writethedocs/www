@@ -47,12 +47,21 @@ Refund Policy
 
 Refunds are offered with a 10% processing fee, up to 2 weeks before the conference.
 
+{% if 'virtual' in tickets %}
+
+Virtual or in-person
+--------------------
+Each ticket is available as a virtual or in-person form.
+Learn more about the `virtual attendance experience </conf/{{shortcode}}/{{year}}/virtual/>`_.
+
+{% endif %}
+
 Ticket Types
 ------------
 
 .. class:: ticket
 
-**Student or Unemployed Tickets** *{{tickets.student.price}}*
+**Student or Unemployed Tickets** *{{tickets.student.price}}* in-person / *{{tickets.virtual_student.price}}* virtual
 --------------------------------------------
 
 Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
@@ -65,7 +74,7 @@ Purchase this ticket if you are currently enrolled as a student, or don't curren
 
 .. class:: ticket
 
-**Independent Tickets** *{{tickets.independent.price}}*
+**Independent Tickets** *{{tickets.independent.price}}* in-person / *{{tickets.virtual_independent.price}}* virtual
 --------------------------------------------
 
 Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with fewer than 10 employees.
@@ -78,7 +87,7 @@ Purchase this ticket if you are paying for yourself, or if you work at a non-pro
 
 .. class:: ticket
 
-**Corporate Tickets** *{{tickets.corporate.price}}*
+**Corporate Tickets** *{{tickets.corporate.price}}* / *{{tickets.virtual_corporate.price}}*
 --------------------------------------------
 
 Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
@@ -86,45 +95,6 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 {% if flagticketsonsale %}
 
 * `Buy Corporate Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
-
-{% endif %}
-
-{% if 'virtual' in tickets %}
-
-.. class:: ticket
-
-**Virtual Tickets** *{{tickets.virtual.price}}*
---------------------------------------------
-
-Join us virtually for the conference. Buy this ticket if you are currently enrolled as a student, have no steady source of income, are paying for yourself, work at a non-profit, or at a company with fewer than 10 employees.
-
-Learn more about the `virtual attendance experience </conf/{{shortcode}}/{{year}}/virtual/>`_.
-
-{% if flagticketsonsale %}
-
-* `Buy Virtual Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
-
-{% endif %}
-
-{% endif %}
-
-{% if 'virtual_corporate' in tickets %}
-
-.. class:: ticket
-
-**Virtual Corporate Tickets** *{{tickets.virtual_corporate.price}}*
---------------------------------------------
-
-Join us virtually for the conference. Purchase a corporate ticket if a company is paying for your attendance.
-
-Learn more about the `virtual attendance experience </conf/{{shortcode}}/{{year}}/virtual/>`_.
-
-
-{% if flagticketsonsale %}
-
-* `Buy Virtual Ticket <https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}>`__
-
-{% endif %}
 
 {% endif %}
 

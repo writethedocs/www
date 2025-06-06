@@ -79,8 +79,10 @@ tickets:
     price: €75
   virtual_corporate:
     price: €140
-  virtual:
+  virtual_independent:
     price: €75
+  virtual_student:
+    price: €65
 #  button: >
 #    .. raw:: html
 #
