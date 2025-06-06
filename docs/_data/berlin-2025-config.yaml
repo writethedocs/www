@@ -28,8 +28,8 @@ buttons:
        link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
-    #- text: Submit a Talk
-    #  link: /cfp
+     - text: Submit a Talk
+       link: /cfp
 #    - text: See the Schedule!
 #      link: /schedule
 #    - text: Buy a Ticket
@@ -49,8 +49,8 @@ buttons:
        link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
-    #- text: Submit a Talk
-    #  link: /cfp
+     - text: Submit a Talk
+       link: /cfp
     # - text: Buy a Ticket!
     #   link: /tickets
     # - text: See the Schedule
@@ -70,15 +70,19 @@ buttons:
 
 tickets:
   concierge:
-    price: €TBC
+    price: €575
   corporate:
-    price: €TBC
+    price: €475
   independent:
-    price: €TBC
+    price: €275
   student:
-    price: €TBC
-  virtual:
-    price: €TBC
+    price: €75
+  virtual_corporate:
+    price: €140
+  virtual_independent:
+    price: €75
+  virtual_student:
+    price: €65
 #  button: >
 #    .. raw:: html
 #
@@ -94,18 +98,18 @@ tickets:
 
 sponsorship:
   second_draft:
-    price: €TBC
+    price: €2,000
   publisher:
-    price: €TBC
+    price: €3,500
   patron:
-    price: €TBC
+    price: €5,500
   keystone:
-    price: €TBC
+    price: "" # None to not render
 
 grants:
-#  url: https://docs.google.com/forms/d/e/1FAIpQLSf3fGfW_8W1x3oeKeoUpg8ZPLvyY4cQvO5Bii_OTrgW97cLNw/viewform?embedded=true
-#  ends: 'February 5, 2025'
-#  notification: 'February 14, 2025'
+ url: https://docs.google.com/forms/d/e/1FAIpQLSdvTwk29nEHRnXhzwF-TX4mSCbtBXxo7qOPcwGQugCar6ocZg/viewform
+ ends: 'August 1, 2025'
+ notification: 'August 20, 2025'
 #
 #shirts:
 #  url: https://shirt.writethedocs.org/
@@ -171,13 +175,13 @@ about:
   projector_ratio: "16:9"
   job_fair_room: Sponsor area
 
-cfp:
-#  url: "https://pretalx.com/wtd-portland-2025/cfp" # Open October 6 (Mon) -> 9 weeks to submit
-#  ends: "January 21, 2025"                         # (Mon) 1 week, to review. It'll take a little longer to announce
-#  notification: "February 4, 2025"                 # (Mon) 8 weeks to write and prepare
-#  speaker_tickets_by: April 04, 2025                  # Approx 4 weeks before
-#  slides_by: "April 28, 2025"                      # (Mon) 1 week before
-#  preview: "TODO"                                  # Preview URL TODO
+cfp: # Conf dates 27-28 October
+  url: "https://pretalx.com/wtd-berlin-2025/cfp"   # Open June 2 (Mon), -> 8 weeks to submit
+  ends: "August 4, 2025"                           # (Mon) 1 week, to review. It'll take a little longer to announce
+  notification: "August 18, 2025"                  # (Mon) 8 weeks to write and prepare
+  speaker_tickets_by: October 6, 2025              # (Mon) Approx 3 weeks before
+  slides_by: "October 20, 2025"                    # (Mon) 1 week before
+  preview: "TODO"                                  # Preview URL TODO
 
 unconf:
   url: ""
@@ -197,17 +201,21 @@ sponsors:
   second:
   first:
   in_kind:
+    - name: readthedocs
+      link: https://about.readthedocs.com/?ref=writethedocs
+      brand: Read the Docs
+      text: "Read the Docs simplifies software documentation by building, versioning, and hosting of your docs, automatically. Treating documentation like code keeps your team in the same tools, and your documentation up to date."
 
 # Things that change over time, listed in order of change
-flaglanding: True
-flaghassponsors: False
-flagcfp: False
-flagticketsonsale: False
+flaglanding: False
+flaghassponsors: True
+flagcfp: True
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False
 flaghasschedule: False
-flagscheduleincomplete: False
+flagscheduleincomplete: True
 flaghasshirts: False
 flaglivestreaming: False
 flagvideos: False

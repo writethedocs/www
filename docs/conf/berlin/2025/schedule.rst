@@ -54,7 +54,7 @@ All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
 
 {% if flaghasfood %}
 
-Writing day is held in {{about.venue}}, {{about.unconfroom}}.
+The unconference is held in {{about.venue}}, {{about.unconfroom}}.
 
 *Snacks and drinks will be provided throughout the day.*
 {% endif %}
