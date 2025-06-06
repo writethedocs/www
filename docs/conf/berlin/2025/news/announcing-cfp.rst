@@ -2,15 +2,15 @@
 :banner: _static/conf/images/headers/portland-2024-speakers.jpg
 :og:image: _static/conf/images/headers/portland-2024-speakers.jpg
 
-.. post:: Jun 05, 2025
+.. post:: Jun 06, 2025
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
-Announcing the Call for Proposals and Sponsorship Prospectus
-============================================================
+Announcing the Website, Tickets, Call for Proposals, and Sponsorship Prospectus
+===============================================================================
 
-We're excited to announce both our `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_ and the `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ for the {{city}} {{year}} conference.
+We're excited to announce the full {{ city }} conference website, `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_, `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_, and `Tickets <https://www.writethedocs.org/conf/portland/2025/tickets/>`_.
 
-Read on for more details about getting involved this year.
+Read on for detailed updates.
 
 Call for Proposals
 ------------------
