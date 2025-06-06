@@ -9,6 +9,7 @@ Announcing the Website, Tickets, Call for Proposals, and Sponsorship Prospectus
 ===============================================================================
 
 We're excited to announce the full {{ city }} conference website, including:
+
 * Our `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_.
 * An updated `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_.
 * `Ticket sales <https://www.writethedocs.org/conf/portland/2025/tickets/>`_ are open.
