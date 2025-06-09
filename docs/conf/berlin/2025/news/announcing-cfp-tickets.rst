@@ -8,6 +8,14 @@
 Announcing the Website, Tickets, Call for Proposals, and Sponsorship Prospectus
 ===============================================================================
 
+
+This is a test and will be reverted
+
+BuM
+Bum
+bUm
+
+
 We're excited to announce the full {{ city }} conference website, including:
 
 * Our `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_.
