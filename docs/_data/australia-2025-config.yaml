@@ -127,7 +127,7 @@ date: # how do we handle these? human readable would be nice.
   day_two:
     event: Conference Day 2
     date: November 21
-    summary: And the conference goes on! We are already starting to miss you.
+    summary: And the conference goes on! We are already starting to miss you. ❤️
     dotw: Friday
     talk_time: 12:30-18:00
     unconference_time: 14:00-17:00
@@ -151,8 +151,9 @@ about:
 cfp:
   url: https://pretalx.com/wtd-australia-2025/cfp # Open June 19, 2024, 10 weeks to submit
   ends: "August 31, 2025"              # 2 weeks to review and get confirmations
-  notification: "September 12, 2025"   # 10 weeks to write and prepare
-  slides_by: "November 14, 2025"       # 1 week before
+  notification: "September 12, 2025"   # 9 weeks to write and record
+  video_by: "October 25, 2025"         # 3 weeks before the conf
+  slides_by: "November 07, 2025"       # 2 weeks before the conf
   preview: "TODO"                      # Preview URL TODO
 
 unconf:
