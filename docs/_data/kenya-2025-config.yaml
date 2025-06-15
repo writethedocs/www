@@ -21,12 +21,14 @@ photos:
 
 buttons:
   top:
-    - text: Welcome to our conference
-      link: /news/welcome
+    #- text: Welcome to our conference
+    #  link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
-    - text: Submit a Talk
-      link_absolute: https://sessionize.com/wtdkenya-conf/
+    - text: Visit our sponsors
+      link: /sponsors
+    - text: See the speakers
+      link: /speakers
   bottom:
     - text: Conference information
       link: /news/welcome
@@ -108,17 +110,20 @@ writing_day:
 sponsors:
   keystone: []
   patron: []
-  publisher: []
+  publisher:
+    - name: mcm
+      link: https://mcmstudy.org/
+      brand: Masters in Communication and Media
   second: []
   first: []
   in_kind: []
 
 flaglanding: True
-flaghassponsors: False
+flaghassponsors: True
 flagcfp: False
 flagticketsonsale: False
 flagsoldout: False
-flagspeakersannounced: False
+flagspeakersannounced: True
 flagrunofshow: False
 flaghasschedule: False
 flagscheduleincomplete: True

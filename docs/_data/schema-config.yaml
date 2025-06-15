@@ -93,6 +93,9 @@ ticket-details:
   independent: include('price-type')
   student: include('price-type')
   virtual: include('price-type', required=False)
+  virtual_student: include('price-type', required=False)
+  virtual_independent: include('price-type', required=False)
+  virtual_corporate: include('price-type', required=False)
   button: str(required=False)
 
 price-type:

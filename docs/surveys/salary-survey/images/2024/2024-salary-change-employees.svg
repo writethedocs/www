@@ -1,0 +1,38 @@
+<svg viewBox="0 55 660 191" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+	<defs>
+	
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2024-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+  <g id="2024-salary-change-employees">
+
+    <g class="title">
+      <text font-size="14"><tspan x="40" y="33">Salary change</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Employees</tspan></text>
+    </g>
+
+    <g class="donut-chart">
+
+      <path d="M180 222.061C179.998 217.861 180.173 213.662 180.524 209.476L270.21 216.99C270.069 218.665 269.999 220.344 270 222.025L180 222.061Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+      <path d="M180.536 209.326C183.524 174.091 198.864 141.044 223.849 116.02L287.539 179.608C277.546 189.618 271.41 202.836 270.215 216.931L180.536 209.326Z" fill="#E9C168" stroke="white" stroke-width="2"/>
+      <path d="M223.955 115.913C244.926 94.9504 271.64 80.6732 300.721 74.8853C329.803 69.0975 359.947 72.0588 387.347 83.395C414.746 94.7313 438.171 113.934 454.662 138.577C471.153 163.22 479.97 192.198 480 221.85L390 221.94C389.988 210.079 386.461 198.488 379.865 188.631C373.268 178.774 363.898 171.093 352.939 166.558C341.979 162.024 329.921 160.839 318.288 163.154C306.656 165.469 295.97 171.18 287.582 179.565L223.955 115.913Z" fill="#82A555" stroke="white" stroke-width="2"/>
+      <text font-size="14" class="value-labels-inner"><tspan x="345" y="125">75%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="213" y="184">22.3%;</tspan></text>
+      <text font-size="10"><tspan x="72.8945" y="220">Decrease (2.7%)</tspan></text>
+      <text font-size="10"><tspan x="103.676" y="161">No change</tspan></text>
+      <text font-size="10"><tspan x="493.684" y="134">Increase</tspan></text>
+      <path id="Connector" d="M490.004 132C485.004 132 460.277 140.034 458.375 140.653L456.473 141.271" stroke="#252521" stroke-dasharray="1 3"/>
+      <path id="Connector_2" d="M156.289 160C161.289 160 186.017 168.034 187.919 168.653L189.821 169.271" stroke="#252521" stroke-dasharray="1 3"/>
+      <path id="top-left-0.5_2" d="M145.289 217C150.289 217 176.209 219.04 178.203 219.197L180.197 219.354" stroke="#252521" stroke-dasharray="1 3"/>
+
+    </g>
+
+  </g>
+
+</svg>

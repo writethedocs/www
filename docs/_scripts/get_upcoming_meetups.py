@@ -119,6 +119,10 @@ for result in results:
             # Otherwise, try other format
             else:
                 event_date = datetime.strptime(event['date'].rsplit(' ',1)[0], '%a, %b %d, %Y, %I:%M %p')
+        # Don't include past events if they slipped in somehow
+        if (event_date < current_datetime):
+            continue
+        # Only include events in the near enough future
         if (event_date - current_datetime).days <= days_within:
             event['date'] = event_date
             upcoming_events.append(event)

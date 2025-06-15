@@ -97,6 +97,7 @@ Other media
 
 Including videos, diagrams, and screenshots.
 
+- |:newspaper:| `Automating screenshot capture or translation </blog/newsletter-june-2025/#automating-screenshot-capture-or-translation>`__
 - |:newspaper:| `Inclusiveness in diagrams </blog/newsletter-february-2023/#inclusiveness-in-diagrams>`__
 - |:newspaper:| `When to create screenshots </blog/newsletter-december-2022/#when-to-create-screenshots>`__
 - |:newspaper:| `Is written content outdated - and is it time for video? </blog/newsletter-may-2022/#is-written-content-outdated-and-is-it-time-for-video>`__
@@ -118,6 +119,7 @@ Including videos, diagrams, and screenshots.
 Writing topics
 --------------
 
+- |:newspaper:| `Minimum internal documentation </blog/newsletter-may-2025/#minimum-internal-documentation>`__
 - |:newspaper:| `To Outline Or Not To Outline </blog/newsletter-february-2024/#to-outline-or-not-to-outline>`__
 - |:newspaper:| `Minimum viable documentation </blog/newsletter-november-2022/#minimum-viable-documentation>`__
 - |:newspaper:| `Toward a theory of technical writing? </blog/newsletter-july-2022/#toward-a-theory-of-technical-writing>`__
@@ -172,6 +174,7 @@ In-app documentation
 Release notes
 ~~~~~~~~~~~~~~
 
+- |:newspaper:| `Making release notes work: Tips for Documentarians </blog/newsletter-june-2025/#making-release-notes-work-tips-for-documentarians>`__
 - |:newspaper:| `Changelogs for Docs </blog/newsletter-november-2023/#changelogs-for-docs>`__
 - |:newspaper:| `Do we tell users what’s new in the docs? </blog/newsletter-march-2020/#do-we-tell-users-what-s-new-in-the-docs>`__
 - |:movie_camera:| `Learning to love release notes </videos/prague/2018/learning-to-love-release-notes-anne-edwards/>`__
@@ -227,6 +230,7 @@ Storytelling
 Writing doc sets
 ----------------
 
+- |:newspaper:| `Locked out: The effect on users from gated product docs </blog/newsletter-may-2025/#locked-out-the-effect-on-users-from-gated-product-docs>`__
 - |:newspaper:| `Public vs. private docs </blog/newsletter-june-2023/#public-vs-private-docs>`__
 - |:movie_camera:| `Don’t shoot yourself in the foot with content reuse </videos/portland/2022/don-t-shoot-yourself-in-the-foot-with-content-reuse-anna-gasparyan/>`__
 - |:movie_camera:| `How to launch your startup with good docs </videos/prague/2019/how-to-launch-your-startup-with-good-docs-brian-lemke/>`__
@@ -276,6 +280,7 @@ Maintenance
 Jobs and careers
 ----------------
 
+- |:newspaper:| `Where do documentarians “fit” into an organization? </blog/newsletter-may-2025/#where-do-documentarians-fit-into-an-organization>`__
 - |:newspaper:| `Working as a contractor or freelancer </blog/newsletter-october-2024/#working-as-a-contractor-or-freelancer>`__
 - |:newspaper:| `Should Technical Communication Be Its Own Department? </blog/newsletter-may-2024/#should-technical-communication-be-its-own-department>`__
 - |:newspaper:| `What to do after surviving layoffs </blog/newsletter-may-2023/#what-to-do-after-surviving-layoffs>`__
@@ -773,6 +778,7 @@ Working with other roles
 
 Including product managers, higher-ups, etc.
 
+- |:newspaper:| `Help contributors think like users </blog/newsletter-june-2025/#help-contributors-think-like-users>`__
 - |:newspaper:| `Contending with unresponsive stakeholders </blog/newsletter-march-2025/#contending-with-unresponsive-stakeholders>`__
 - |:newspaper:| `How to make your work as a documentarian shine: Beyond "just writing docs" </blog/newsletter-february-2025/#how-to-make-your-work-as-a-documentarian-shine-beyond-just-writing-docs>`__
 - |:newspaper:| `Dealing with difficult-to-understand drafts </blog/newsletter-september-2024/#dealing-with-difficult-to-understand-drafts>`__
