@@ -29,7 +29,7 @@ Remember to change the things in `[brackets]`!
 
   Costs:
 
-  * Conference ticket (includes food) - {{tickets.corporate.price}}
+  * Conference ticket - {{tickets.corporate.price}}
 
   Benefits:
 
