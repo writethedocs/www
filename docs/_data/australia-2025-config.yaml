@@ -28,8 +28,8 @@ buttons:
        link: /news/welcome
   #   - text: Sponsor us
   #     link: /sponsors/prospectus
-  #   - text: Submit a Talk
-  #     link: /cfp
+     - text: Submit a Talk
+       link: /cfp
   #   - text: Date and ticket information
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: Read our conference guide
@@ -55,8 +55,8 @@ buttons:
       link: /news/welcome
   #  - text: Sponsor us
   #    link: /sponsors/prospectus
-  #  - text: Submit a Talk
-  #    link: /cfp
+    - text: Submit a Talk
+      link: /cfp
   #   - text: See the Schedule!
   #     link: /schedule
   #   - text: Date and ticket information
@@ -196,8 +196,10 @@ flagcancelled: False
 
 # Truthy things that don't change
 flaghashike: False
-flaghasfood: False
 flaghasboat: False
+flaghasunconf: True
 flaghaswritingday: False
 flaghasjobfair: False
 flaghasbadgeflair: False
+flaghaslightningtalks: True
+flagisvirtual: True
