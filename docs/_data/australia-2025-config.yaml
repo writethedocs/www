@@ -197,7 +197,6 @@ flagcancelled: False
 # Truthy things that don't change
 flaghashike: False
 flaghasboat: False
-flaghasunconf: True
 flaghaswritingday: False
 flaghasjobfair: False
 flaghasbadgeflair: False
