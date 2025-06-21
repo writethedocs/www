@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: June 15, 2025
+.. post:: June 22, 2025
    :tags: {{shortcode}}-{{year}}, cfp
 
 Announcing Call for Proposals, Ticket Sales and the Grant program
@@ -18,7 +18,13 @@ Call for Proposals
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
 We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!
 
-**The conference is virtual again this year, and all talks will be pre-recorded, allowing you to present and attend from anywhere!** Our video producer will be available to help with recording if you want it. We'd also love it if you'll be available for a remote live Q&A with our moderators after your talk.
+**The conference is virtual this year, and all talks will be pre-recorded, allowing you to present and attend from anywhere!** 
+Our video producer will be available to help with recording if you want it. 
+We'd also love it if you'll be available for a remote live Q&A with our moderators after your talk.
+
+The schedule will run from noon to late evening in most eastern states of Australia,
+coinciding from early morning to afternoon across most of Asia timezones.
+Of course, this being a virtual conference, attendees and speakers are welcome from anywhere in the world.
 
 You can read our full `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`__ on the website.
 
@@ -39,7 +45,7 @@ Our grant program offers tickets to people who would otherwise not be able to at
 We're excited to be able to offer free tickets to a larger number of people this year,
 since there are now minimal other costs to attend the event.
 
-You can apply until **October 3, 2025, midnight AEDT** on `our website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/>`_.
+You can apply until **{{ grants.ends }} {{ tz }}, midnight AEDT** on `our website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/>`_.
 
 
 Stay updated

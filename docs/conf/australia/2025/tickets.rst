@@ -10,8 +10,6 @@ Ticket Information
 
 **Tickets are on sale now!**
 
-We're excited to invite you to our {{ year }} conference in {{ city }}.
-
 {% elif flagsoldout %}
 
 Ticket status
