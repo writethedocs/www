@@ -31,7 +31,6 @@ Write the Docs {{ name }} {{ year }} is a virtual onference. Each ticket include
 * Live streaming of all talks
 * Q&A with speakers after each talk (may not be available for all speakers)
 * Access to the conference chat with all other attendees, speakers and sponsors
-* Access to the writing day
 
 **All talk videos will be published on our YouTube channel no later than 1 week after the conference.**
 
@@ -88,8 +87,7 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 **Opportunity Grants**
 -----------------------
 
-If you need support in paying for your ticket, travel or other costs,
-you can apply to our Opportunity Grant program.
+If you need support in paying for your ticket, you can apply to our Opportunity Grant program.
 
 {% if grants and grants.ends and grants.url %}
 You can apply until **{{ grants.ends }}, Midnight {{ tz }}** on `our website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/>`_.
