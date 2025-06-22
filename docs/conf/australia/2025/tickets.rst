@@ -10,8 +10,6 @@ Ticket Information
 
 **Tickets are on sale now!**
 
-We're excited to invite you to our {{ year }} conference in {{ city }}.
-
 {% elif flagsoldout %}
 
 Ticket status
@@ -28,13 +26,13 @@ Ticket status
 Ticket details
 ~~~~~~~~~~~~~~
 
-Write the Docs {{ name }} {{ year }} is an in-person conference. Each ticket includes:
+Write the Docs {{ name }} {{ year }} is a virtual onference. Each ticket includes:
 
-* Entry to all conference events and activities
-* Food and drinks on event days (Thursday-Friday)
-* Social Event with light nibbles and drinks
-* Wifi throughout the event
-* Meeting lots of fantastic people in a spacious, inviting venue
+* Live streaming of all talks
+* Q&A with speakers after each talk (may not be available for all speakers)
+* Access to the conference chat with all other attendees, speakers and sponsors
+
+**All talk videos will be published on our YouTube channel no later than 1 week after the conference.**
 
 Refund Policy
 -------------
@@ -89,8 +87,7 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 **Opportunity Grants**
 -----------------------
 
-If you need support in paying for your ticket, travel or other costs,
-you can apply to our Opportunity Grant program.
+If you need support in paying for your ticket, you can apply to our Opportunity Grant program.
 
 {% if grants and grants.ends and grants.url %}
 You can apply until **{{ grants.ends }}, Midnight {{ tz }}** on `our website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/>`_.
