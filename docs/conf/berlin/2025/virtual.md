@@ -24,7 +24,7 @@ Virtual attendance includes:
 
 ## Schedule
 
-The virtual event follows the main conference schedule on **{{ date.conference.date }}**. All sessions are streamed in Pacific Time (PT).
+The virtual event follows the main conference schedule on **{{ date.conference.date }}**. All sessions are streamed in {{ tz }}.
 
 See the full [conference schedule](/conf/{{ shortcode }}/{{year}}/schedule/) for complete details about specific talks and events.
 
