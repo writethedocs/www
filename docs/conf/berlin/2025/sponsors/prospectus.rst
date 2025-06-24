@@ -24,7 +24,7 @@ Concept
 =======
 
 Write the Docs {{ city }} is a
-**three day conference** held on {{ date.short }} focusing on documentation systems, tech writing
+**two day conference** held on {{ date.short }} focusing on documentation systems, tech writing
 theory, and information delivery.
 
 Writing and maintaining documentation involves a multidisciplinary
