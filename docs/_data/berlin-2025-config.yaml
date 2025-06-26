@@ -197,6 +197,9 @@ unconf:
 sponsors:
   keystone:
   patron:
+    - name: kapa-ai
+      link: https://www.kapa.ai/?ref=writethedocs
+      brand: Kapa.ai
   publisher:
   second:
   first:
