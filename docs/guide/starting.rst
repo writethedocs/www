@@ -34,10 +34,10 @@ The value of technical writing and documentation
 On this modern school of thought, documentation (and/or technical writing) efforts now routinely incorporate a multi-disciplinary approach:
 
 - Quality Control, regression testing, REST API testing
-- Customer Support, Customer Success, project/repository maintainence
+- Customer Support, Customer Success, project/repository maintenance
 - Developer Relations, SDK software development
 - Documentation tooling, parers, build tools, frameworks
-- The engineering to support those systems at scale (since popular documention can have as many views as many entire SaaS applications)
+- The engineering to support those systems at scale (since popular documentation can have as many views as many entire SaaS applications)
 - Certifications, manuals, specifications, curricula
 - Search Engine Optimization, localization, translation, accessibility
 - And, many of the above can be standalone products in their own right (not just part of another product's ensemble).
@@ -83,4 +83,4 @@ What about Large Language Models, Artificial Intelligence, and Machine Learning?
 - How will we validate Machine Learning models and outputs for accuracy and competency? Presumably a human expert. 
 - (And, any near-future Machine Learning models that might replace human experts will nevertheless require such human experts in the meantime.)
 
-Perhaps in time some of these activities will be increasingly delegated to automated tooling and systems. And this should not be such a big surprise nor a great cause for despair (think of all that's already presently automated and that can still be simplified/made easier)! Documention will continue to evolve.
+Perhaps in time some of these activities will be increasingly delegated to automated tooling and systems. And this should not be such a big surprise nor a great cause for despair (think of all that's already presently automated and that can still be simplified/made easier)! Documentation will continue to evolve.
