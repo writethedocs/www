@@ -1,7 +1,7 @@
 FROM python:3.9.22
 
-RUN mkdir /app
-WORKDIR /app
+RUN mkdir /www
+WORKDIR /www
 COPY . .
 
 # Update the Linux environment/Operating System

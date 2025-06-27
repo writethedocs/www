@@ -53,6 +53,7 @@ if "%1" == "livehtml" (
 	sphinx-autobuild -p 8888  -z _data -b dirhtml %ALLSPHINXOPTS% %BUILDDIR%/html
 )
 
+REM Used solely to bind sphinx to the Docker Container - to do so requires deliberately setting --host "0.0.0.0"
 if "%1" == "dockerhtml" (
 	sphinx-autobuild -p 8888  -h "0.0.0.0" -z _data -b dirhtml %ALLSPHINXOPTS% %BUILDDIR%/html
 )

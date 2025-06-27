@@ -59,6 +59,7 @@ html:
 livehtml:
 	sphinx-autobuild --port 8888 -j auto --watch _data -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/html
 
+# Used solely to bind sphinx to the Docker Container - to do so requires deliberately setting --host "0.0.0.0"
 dockerhtml:
 	sphinx-autobuild --port 8888 --host "0.0.0.0" -j auto --watch _data -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/html
 
