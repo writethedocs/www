@@ -18,6 +18,7 @@ if "%1" == "help" (
 	echo.Please use `make ^<target^>` where ^<target^> is one of
 	echo.  html       to make standalone HTML files
 	echo.  livehtml   to make live HTML files to view the docs on a local web server
+	echo.  dockerhtml to make live HTML files and view through a local docker container
 	echo.  dirhtml    to make HTML files named index.html in directories
 	echo.  singlehtml to make a single large HTML file
 	echo.  pickle     to make pickle files
@@ -50,6 +51,11 @@ if "%1" == "html" (
 
 if "%1" == "livehtml" (
 	sphinx-autobuild -p 8888  -z _data -b dirhtml %ALLSPHINXOPTS% %BUILDDIR%/html
+)
+
+REM Used solely to bind sphinx to the Docker Container - to do so requires deliberately setting --host "0.0.0.0"
+if "%1" == "dockerhtml" (
+	sphinx-autobuild -p 8888  -h "0.0.0.0" -z _data -b dirhtml %ALLSPHINXOPTS% %BUILDDIR%/html
 )
 
 if "%1" == "dirhtml" (
