@@ -82,7 +82,7 @@ tickets:
   virtual_independent:
     price: €75
   virtual_student:
-    price: €65
+    price: €30
 #  button: >
 #    .. raw:: html
 #
