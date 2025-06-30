@@ -30,6 +30,7 @@ TAGS = [
     'australia-2024',
     'portland-2025',
     'berlin-2025',
+    'australia-2025',
 ]
 
 
