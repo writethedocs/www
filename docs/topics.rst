@@ -97,6 +97,7 @@ Other media
 
 Including videos, diagrams, and screenshots.
 
+- |:newspaper:| `To autoplay animated GIFs or not </blog/newsletter-july-2025/#to-autoplay-animated-gifs-or-not>`__
 - |:newspaper:| `Automating screenshot capture or translation </blog/newsletter-june-2025/#automating-screenshot-capture-or-translation>`__
 - |:newspaper:| `Inclusiveness in diagrams </blog/newsletter-february-2023/#inclusiveness-in-diagrams>`__
 - |:newspaper:| `When to create screenshots </blog/newsletter-december-2022/#when-to-create-screenshots>`__
@@ -269,6 +270,7 @@ Legacy docs
 Maintenance
 ~~~~~~~~~~~
 
+- |:newspaper:| `Strategies for successful documentation audits </blog/newsletter-july-2025/#strategies-for-successful-documentation-audits>`__
 - |:movie_camera:| `Maintaining Documentation: Make It Easy! </videos/prague/2022/maintaining-documentation-make-it-easy-emilia-juda-zbay/>`__
 - |:newspaper:| `Broken links and how to find them </blog/newsletter-june-2020/#broken-links-and-how-to-find-them>`__
 - |:movie_camera:| `Finding the line: Balancing business continuity and documentation debt </videos/portland/2020/finding-the-line-balancing-business-continuity-and-documentation-debt-luca-janssens/>`__
@@ -562,6 +564,7 @@ DITA
 AI and LLMs
 ~~~~~~~~~~~
 
+- |:newspaper:| `How documentarians use AI (or LLMs) </blog/newsletter-july-2025/#how-documentarians-use-ai-or-llms>`__
 - |:newspaper:| `Writing AI-friendly *and* human-readable documentation </blog/newsletter-february-2025/#writing-ai-friendly-and-human-readable-documentation>`__
 - |:newspaper:| `Accelerating Documentation Creation with AI </blog/newsletter-april-2024/#accelerating-documentation-creation-with-ai>`__
 - |:newspaper:| `Iterative Writing with a Chatbot </blog/newsletter-march-2024/#iterative-writing-with-a-chatbot>`__
@@ -827,6 +830,7 @@ Prioritisation
 Agile and workflows
 ~~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `Navigating Agile for documentarians </blog/newsletter-july-2025/#navigating-agile-for-documentarians>`__
 - |:newspaper:| `Tracking work </blog/newsletter-july-2020/#tracking-work>`__
 - |:movie_camera:| `Documenting the (Ancient) History of Your Project </videos/prague/2020/documenting-the-ancient-history-of-your-project-natali-vlatko/>`__
 - |:movie_camera:| `Building a content-focused, scientific document authoring workflow for Data Scientists and Engineers alike </videos/portland/2020/building-a-content-focused-scientific-document-authoring-workflow-for-data-scientists-and-engineers-alike-colin-dean/>`__
