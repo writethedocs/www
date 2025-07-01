@@ -59,7 +59,7 @@ Integrating into an Agile software development team presents unique challenges f
 
    As you progress, align your documentation tasks with team "sprints" and ensure documentation is recognized as an integral part of development. Precise timing and coordination are essential for success.
 
-3. **Embrace adaptability for impact**: The message from the disucssion was clear: be prepared for variation, master the fundamentals, and cultivate adaptability. By understanding your team's Agile rhythm and advocating for documentation, you'll become an indispensable contributor. This ensures your docs are as responsive and influential as the products they support.
+3. **Embrace adaptability for impact**: The message from the discussion was clear: be prepared for variation, master the fundamentals, and cultivate adaptability. By understanding your team's Agile rhythm and advocating for documentation, you'll become an indispensable contributor. This ensures your docs are as responsive and influential as the products they support.
 
 See more Write the Docs resources about `Agile and workflows </topics/#agile-and-workflows>`__.
 
