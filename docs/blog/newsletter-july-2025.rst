@@ -9,7 +9,7 @@ Write the Docs Newsletter – July 2025
 
 Ahoy, documentatarians! As the weather here heats up, I'm seeing more warnings for people to protect themselves from the heat. I hope wherever you are, you're taking measures to protect yourselves, whether that's to stay cool, stay warm, or just keep a clear head.
 
-In cmmunity news, we have Calls for Proposals and ticket sales open for two (2!) more conferences this year: `Berlin </conf/berlin/2025/news/announcing-cfp-tickets/>`__ and `Australia </conf/australia/2025/news/announcing-cfp-tickets/>`__. Check them both out and see which works best for you. They both have virtual options (Australia is only virtual), so consider attending however you can or even submitting an interesting idea.
+In community news, we have Calls for Proposals and ticket sales open for two (2!) more conferences this year: `Berlin </conf/berlin/2025/news/announcing-cfp-tickets/>`__ and `Australia </conf/australia/2025/news/announcing-cfp-tickets/>`__. Check them both out and see which works best for you. They both have virtual options (Australia is only virtual), so consider attending however you can or even submitting an interesting idea.
 
 This month's newsletter has thoughts from the community on: autoplaying GIFs, running audits of your documentation, learning to use Agile, and how other documentarians are using AI and LLMs. We're taking a break next month to keep our heads clear and ready for more interesting ideas, which will come again in September.
 
@@ -55,7 +55,7 @@ Integrating into an Agile software development team presents unique challenges f
 
 2. **Key learning and skills**: To navigate this landscape, focus on core Agile principles. Good starting points include `Atlassian's Agile documentation <https://www.atlassian.com/agile>`__ and the Agile Alliance's `"Agile Essentials." <https://www.agilealliance.org/agile-essentials/>`__
 
-   For those new to software development, focus first on basic technical concepts (such as front-end, back-end), software development lifecycle (SDLC) models, and developer roles.
+   For those new to software development, focus first on basic technical concepts (such as front-end and back-end), software development lifecycle (SDLC) models, and developer roles.
 
    As you progress, align your documentation tasks with team "sprints" and ensure documentation is recognized as an integral part of development. Precise timing and coordination are essential for success.
 
