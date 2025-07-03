@@ -11,7 +11,9 @@ Ahoy, documentatarians! As the weather here heats up, I'm seeing more warnings f
 
 In community news, we have Calls for Proposals and ticket sales open for two (2!) more conferences this year: `Berlin </conf/berlin/2025/news/announcing-cfp-tickets/>`__ and `Australia </conf/australia/2025/news/announcing-cfp-tickets/>`__. Check them both out and see which works best for you. They both have virtual options (Australia is only virtual), so consider attending however you can or even submitting an interesting idea.
 
-This month's newsletter has thoughts from the community on: autoplaying GIFs, running audits of your documentation, learning to use Agile, and how other documentarians are using AI and LLMs. We're taking a break next month to keep our heads clear and ready for more interesting ideas, which will come again in September.
+This month's newsletter has thoughts from the community on: autoplaying GIFs, running audits of your documentation, learning to use Agile, and how documentarians are using AI and LLMs.
+
+The newsletter team is taking a break next month to keep our heads clear and ready for more interesting ideas, which will come again in September. For August, you'll get the usual community update.
 
 --------------------------------
 To autoplay animated GIFs or not
@@ -31,11 +33,11 @@ See more Write the Docs resources about `media </topics/#other-media>`__.
 Strategies for successful documentation audits
 ----------------------------------------------
 
-For your next documentation audit, consider these ideas to keep it organized and help make sure that it's a success.
+The next time you're considering auditing your documentation, consider these ideas from the WTD community to help make sure that it's a success.
 
-Start by clarifying your goals. You might only want to map your content, or you might want to improve it. You might know specific issues you need to fix, or you might not be sure what problems you'll uncover. Think about how ambitious your audit should be and how much time you can dedicate.
+Start by clarifying your goals. You might only want to map your content, or you might want to improve it. You might know specific issues you need to fix, or you might be trying to uncover them. Think about how ambitious your audit should be and how much time you can dedicate.
 
-Consider who else to include in the audit: a technical writer who is familiar with the style guide, subject matter experts, someone who reflects users' interests? If you need to improve docs that are new to you, check out the talk `Where do I start? The art and practice of documentation triage </videos/portland/2018/where-do-i-start-the-art-and-practice-of-documentation-triage-neal-kaplan/>`_. A more general resource that goes well beyond documentation is `Content Audits and Inventories: A Handbook for Content Analysis <https://xmlpress.net/content-strategy/audits-and-inventories/>`_.
+Consider who else to include in the audit: a technical writer who is familiar with the style guide, subject matter experts, someone who represents users' interests? If you need to improve docs that are new to you, check out the talk `Where do I start? The art and practice of documentation triage </videos/portland/2018/where-do-i-start-the-art-and-practice-of-documentation-triage-neal-kaplan/>`_. A more general resource that goes well beyond documentation is `Content Audits and Inventories: A Handbook for Content Analysis <https://xmlpress.net/content-strategy/audits-and-inventories/>`_.
 
 If it fits your goals, establish a checklist that lists the quality standards and required features to evaluate each page of documentation against, such as grammar, formatting, and accuracy. Select a doc that's already in great shape to represent the ideal and give you a point of comparison. A previous newsletter item, `Measuring Docs Quality </blog/newsletter-november-2023/#measuring-docs-quality>`_, may help you shape the checklist.
 
@@ -69,9 +71,9 @@ How documentarians use AI (or LLMs)
 
 With the availability of generative AI, many documentarians are wondering how to incorporate it into their work. Some are being asked to use AI to draft new content. 
 
-Documentarians don’t necessarily want to avoid AI altogether, but rather to use it when it adds value and doesn’t compromise quality. AI may have problems creating new content because it can only work with content and patterns it's already seen. It may not be suited for original content about new products and could fabricate content, causing legal issues. If asked about using it to create new content, say “NO”.
+Documentarians don’t necessarily want to avoid AI altogether, but rather want to use it when it adds value and doesn’t compromise quality. AI may have problems creating new content because it can only work with content and patterns it's already seen. It may not be suited for original content about new products and could fabricate content, causing legal issues. If asked about using it to create new content, say “NO”.
 
-BUT, using AI can bring value. Specific tasks for AI use can include generating templates for others to provide new content, transforming existing content into other forms (such as tables, graphs, or troubleshooting procedures), reviewing content against a provided style guide, summarizing existing content (such as for introductory text or to make sense of a long email or Slack discussion), and performing repetitive, well-defined editing tasks. 
+BUT, using AI can bring value. Specific tasks for AI use can include generating templates for others to use to provide new content, transforming existing content into other forms (such as tables, graphs, or troubleshooting procedures), reviewing content against a provided style guide, summarizing existing content (such as for introductory text or to make sense of a long email or Slack discussion), and performing repetitive, well-defined editing tasks. 
 
 The `#ai channel <https://writethedocs.slack.com/archives/C1NEAD7D4>`__ included a report from a WTD Portland 2025 unconference session with some reported real-life usage, including:
 
