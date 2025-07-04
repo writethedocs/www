@@ -2,7 +2,7 @@
 template: {{year}}/generic.html
 # TODO: add images to _static/conf/images/headers/ for Berlin. Refer to docs\_data\berlin-2025-config.yaml for variables
 # banner: _static/conf/images/headers/hike.png
-# og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
+# og:image: _static/conf/images/headers/portland-2025-opengraph.jpg
 ---
 
 # Visiting Berlin
