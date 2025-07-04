@@ -60,7 +60,7 @@ We're working on the details of the conference, including the venue, schedule, a
 
 - [Concierge coffee](https://www.conciergecoffee.de/)
 - [Kreuzkaffee](https://kreuzkaffee-berlin.eatbu.com/?lang=en)
-- [Fourty Years](https://www.instagram.com/fourtyyearscoffee/) <!-- codespell: ignore -->
+- [Fourty Years](https://www.instagram.com/fourtyyearscoffee/) <!-- # codespell: ignore -->
 - [Five Elephant Kreuzberg](https://www.fiveelephant.com/)
 
 ### Drink Nearby
