@@ -3,7 +3,7 @@ How to write software documentation
 
 As a software developer or engineer, there is a magical feeling that comes from releasing open-source code.
 The feeling is a mix of terror and excitement.
-You're eager to tell the world about your new project but despair at where to start. Even professional writers 
+You're eager to tell the world about your new project, but despair at where to start. Even professional writers 
 know the mixed emotions caused by a blank page.
 
 Good software documentation helps relieve that fear. So, have no fear! Use this guide to document your first open-source project for 
@@ -14,10 +14,10 @@ public release.
 Why write software documentation?
 ---------------------------------------
 
-Understand your code in 6 months
+Understand your code in six months
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Your code from 6 months ago looks like code that someone else wrote.
+Your code from six months ago appears to be written by someone else.
 Things that were obvious six months ago are now unclear, and you now empathize with potential 
 users who need good documentation.
 
@@ -37,7 +37,7 @@ Therefore, if you love your project, document it so others can use it.
 Increase contributions to your code
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Potential contributors need help through documentation. Documentation also provides another way for people to contribute and, for people who have never contributed, documentation changes may be easier than code changes.
+Potential contributors need help through documentation. Documentation provides another way for people to contribute, and, for people who have never contributed, documenting code changes may be easier than making code changes.
 Overall, without documentation, you impede or even lose contributors.
 
 Improve your code
@@ -51,7 +51,7 @@ Improve your technical writing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Technical writing is a useful skill for programmers, but it requires different writing skills than most people have naturally.
-Writing documentation makes you a better technical writer. Technical writing becomes easier over time so maintain your writing skill by documenting your projects.
+Writing documentation makes you a better technical writer. Technical writing becomes easier over time, so maintain your writing skills by documenting your projects.
 
 Start simple to achieve the best results.
 
@@ -67,19 +67,19 @@ First, know which of these common audiences you're writing for:
 * Users - want to use your code and don't care how it works.
 * Developers - want to contribute to your code.
 
-Importantly, beware of overusing Frequently Asked Questions (FAQs) as documentation. Although FAQs can be useful starter documentation for new projects until you have time to write better documentation, FAQs quickly outgrow their use due to many drawbacks: 
+Importantly, beware of overusing Frequently Asked Questions (FAQs) as documentation. Although FAQs can be useful starter documentation for new projects until you have time to write better documentation, FAQs quickly outgrow their use due to many drawbacks; FAQs: 
 
-* Become quickly outdated.
-* Accumulate disparate content on unrelated topics.
-* Become hard to sort and search through as content is added.
-* Are rarely an actual list of frequently asked questions from real users.
-* Tempt you to add content as a quick fix in lieu of creating actual, thorough documentation.
+* become quickly outdated,
+* accumulate disparate content on unrelated topics,
+* become hard to sort and search through as content is added,
+* are rarely an actual list of frequently asked questions from real users, and
+* tempt you to add content as a quick fix in lieu of creating actual, thorough documentation.
 
 Show what problem your code solves
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 People use your docs to learn about your project. 
-Perhaps they will hear about your project from others or will find it from a search engine. 
+Perhaps they will hear about your project from others or find it from a search engine. 
 Regardless, clearly state what your project does and why. 
 
 Fabric_ does a great job of this.
@@ -98,8 +98,8 @@ Requests_ is a great example.
 Link to your code and issue tracker
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-People sometimes browse the code. They might want to file bugs for issues they've found, 
-so make your code easy to contribute. 
+People sometimes browse the code. They might want to file bugs for issues they've found,
+so make your code easy to contribute to. 
 
 The `Python Guide`_ does a good job of this.
 
@@ -108,7 +108,7 @@ The `Python Guide`_ does a good job of this.
 Tell people how to get support
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Whether from a mailing list or IRC Channel, document how to get help and interact with the community. 
+Whether from a mailing list or an IRC Channel, document how to get help and interact with the community. 
 
 Django_ does a great job at this.
 
