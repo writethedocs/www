@@ -1,7 +1,7 @@
 Sphinx==5.3.0
 
 # make livehtml support
-sphinx_autobuild==2024.10.3
+sphinx_autobuild==2021.3.14
 
 # Markdown support
 myst-parser==0.18.0
@@ -11,7 +11,7 @@ ablog==0.10.31  # pyup: ignore
 
 # Sphinx (checked with 4.3) requires docutils=<0.18
 docutils==0.17.1   # pyup: <0.18
-PyYAML==6.0.2 
+PyYAML==6.0.2
 pytz==2024.2
 
 # Additional libraries
@@ -26,10 +26,12 @@ markdown==3.7
 ruamel.yaml==0.18.10
 lxml==4.8.0
 # For emoji
-sphinxemoji==0.2.0
+sphinxemoji==0.3.1
 # For atom feed support
 Werkzeug==0.16.1 # pyup: <1.0
 # For fancy 404 pages
 sphinx-notfound-page==0.8
 # For fancy twitter previews
 sphinxext-opengraph==0.9.1
+# For social cards
+matplotlib==3.7.5

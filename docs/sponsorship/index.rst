@@ -5,13 +5,13 @@ We support our community in a variety of ways, and you can choose to focus
 your sponsorship on any one of them, at a level that suits you:
 
 * Our conferences each have their own sponsorship prospectus
-    - Our in-person :doc:`2025 Portland conference </conf/portland/2025/sponsors/prospectus>`
-    - Our virtual :doc:`2024 Atlantic conference </conf/atlantic/2024/sponsors/prospectus>`
-    - Our in-person 2024 Australia conference will be announced soon
+    - Our hybrid :doc:`2025 Portland conference </conf/portland/2025/sponsors/prospectus>` (May 4-6, 2025)
+    - Our hybrid :doc:`2025 Berlin conference </conf/berlin/2025/sponsors/prospectus>` (October 27-28, 2025)
+    - Our virtual :doc:`2025 Australia conference </conf/australia/2025/sponsors/prospectus>` (November 20-21, 2025)
 * Our :doc:`/sponsorship/newsletter` with over {{ newsletter_subs }} subscribers
-* Our :doc:`/sponsorship/website` offers a sidebar ad on our website
 * Our :doc:`/sponsorship/slack` allows you to get in front of our Slack network
 * Our :doc:`/sponsorship/jobs` gets your job posting in front of our community
+* Our :doc:`/sponsorship/website` offers a sidebar ad on our website
 
 In addition to these existing programs,
 we're always interested in working together with organizations in our community to build new approaches to sponsorship. 

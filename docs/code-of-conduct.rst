@@ -67,7 +67,7 @@ This Code of Conduct applies to all spaces managed by Write the Docs. This inclu
 * GitHub
 * Twitter hashtag and mentions
 * forum.writethedocs.org
-* Any other forums created by the which the community uses for communication.
+* Any other forums created or used by the community for communication.
 
 The Code of Conduct does not exclusively apply to events on an official agenda. For example, if after a scheduled social event you go to a bar with a group of fellow participts, and someone harasses you there, we would still treat that as a CoC violation. Similarly, harassment in Twitter direct messages related to Write the Docs can still be covered under this Code of Conduct.
 
@@ -101,18 +101,18 @@ The action taken is at the discretion of the Code of Conduct team. Participants 
 What to do in case of violations
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If a Code of Conduct incident happens that affects you, or witness it affecting someone else, please contact the appropriate CoC team immediately. See the contact details below for the different teams for different spaces. In all cases, you may email conduct@writethedocs.org, but contacting local organisers may be faster. Email to the conduct@writethedocs.org is received by all members of the :ref:`core-team`.
+If a Code of Conduct incident happens that affects you, or if you witness it affecting someone else, please contact the appropriate CoC team immediately. See the contact details below for the different teams for different spaces. In all cases, you may email conduct@writethedocs.org, but contacting local organisers may be faster. Email to the conduct@writethedocs.org is received by all members of the :ref:`core-team`.
 
 Guidelines for reporting incidents
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Please do not feel like you may be a burden to us by reporting incidents. Even if you happen to report multiple incidents. We rather consider reports an opportunity for us to act: by knowing about an incident, we can act on it, and often prevent it from continuing or repeating. But if we don’t know, we can’t take action.
 
-If you are not sure whether the situation was a Code of Conduct violation, or whether the CoC applied to that particular space, we encourage you to still report it. We would much rather have a additional reports where we decide to take no action, rather than miss a report of an actual violation. We do not look negatively on you if we find the incident is not a violation. And knowing about incidents that are not violations, or happen outside our spaces, can also help us to improve the Code of Conduct or the processes surrounding it.
+If you are not sure whether the situation was a Code of Conduct violation, or whether the CoC applied to that particular space, we encourage you to still report it. We would much rather have additional reports where we decide to take no action, rather than miss a report of an actual violation. We do not look negatively on you if we find the incident is not a violation. And knowing about incidents that are not violations, or happen outside our spaces, can also help us to improve the Code of Conduct or the processes surrounding it.
 
 In your report please include, when possible:
 
-* Your contact info (so we can get in touch with you)
+* Your contact info (so we can get in touch with you).
 * Names or descriptions of anyone who was involved or who witnessed the incident.
 * When and where the incident occurred. Please be as specific as possible.
 * Your account of what occurred. If there is a written record (e.g. tweets or Slack messages) please include screenshots, or otherwise a link.

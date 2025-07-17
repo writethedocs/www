@@ -4,6 +4,20 @@ Newsletter & Mailing lists
 Write the Docs publishes a monthly newsletter, sharing interesting information
 and ideas that have been shared in our Slack network.
 
+You can see our newsletter archives to get a better idea of the content that we produce:
+
+.. raw:: html
+
+   <p style="margin: 2em 0;">
+   <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
+   <tr>
+      <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
+         <a href="/blog/archive/tag/newsletter/" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">View Newsletter Archive</a>
+      </td>
+   </tr>
+   </table>
+   </p>
+
 Sponsorship
 -----------
 
@@ -76,10 +90,7 @@ too, if you like):
 Explore past topics
 -------------------
 
-All the previous editions of the newsletter are available on this site.
-
-* If you want to browse them by date, check out the full `newsletter archives </blog/archive/tag/newsletter/>`__.
-* If you're looking for a specific topic, try the `content index </topics/>`__, which includes videos of conference talks too 
+If you're looking for a specific topic, try the `content index </topics/>`__, which includes videos of conference talks as well.
 
 Get in touch
 ------------
