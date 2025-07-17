@@ -108,6 +108,16 @@ If you have verified this command on Windows, we invite you to submit a PR to in
 
 In addition to local development with Python `venv`, it is also possible to use the devcontainer found in the root of the project.
 
+### Using Docker
+
+A barebones [dockerfile](./dockerfile) is supplied to run the site within a local Docker Container through [Docker Desktop](https://docs.docker.com/desktop/) - a simple, free, way to easily setup Docker and Python without leaving beyond installations, modifying your underlying Operating System, and changing Environment Variables.
+
+1. Make sure Docker Desktop is running and started
+1. Build the Docker Image from the root directory with the command: `docker build -t wtd .`
+2. Run the Docker Image Container using that Image ID: `docker run -p 8888:8888 wtd`
+3. Access the live site on <http://localhost:8888> through your web browser
+4. Both the Docker Container and Image will be present in Docker Desktop
+
 ### Requirements
 
 Make sure all of the following is installed.

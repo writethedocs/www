@@ -15,7 +15,7 @@ endif
 # Internal variables.
 PAPEROPT_a4     = -D latex_paper_size=a4
 PAPEROPT_letter = -D latex_paper_size=letter
-ALLSPHINXOPTS   = -j auto -d $(BUILDDIR)/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
+ALLSPHINXOPTS   = -v -j auto -d $(BUILDDIR)/doctrees $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
 # the i18n builder cannot share the environment and doctrees with the others
 I18NSPHINXOPTS  = $(PAPEROPT_$(PAPER)) $(SPHINXOPTS) .
 
@@ -58,6 +58,10 @@ html:
 
 livehtml:
 	sphinx-autobuild --port 8888 -j auto --watch _data -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/html
+
+# Used solely to bind sphinx to the Docker Container - to do so requires deliberately setting --host "0.0.0.0"
+dockerhtml:
+	sphinx-autobuild --port 8888 --host "0.0.0.0" -j auto --watch _data -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/html
 
 oldhtml:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml

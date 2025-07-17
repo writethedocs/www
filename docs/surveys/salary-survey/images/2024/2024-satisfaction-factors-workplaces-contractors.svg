@@ -1,0 +1,68 @@
+<svg viewBox="0 55 660 247" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2024-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+	<g id="2024-satisfaction-factors-workplaces-contractors">
+
+		<g class="title">
+			<text font-size="14"><tspan x="40" y="33">Satisfaction factors: workplaces</tspan></text>
+			<text font-size="12" class="subtitle"><tspan x="40" y="49">Contractors</tspan></text>
+		</g>
+
+		<g class="bar-chart-horizontal">
+
+			<g class="legend">
+        <path d="M223 269C223 270.591 223.632 272.117 224.757 273.243C225.883 274.368 227.409 275 229 275C230.591 275 232.117 274.368 233.243 273.243C234.368 272.117 235 270.591 235 269C235 267.409 234.368 265.883 233.243 264.757C232.117 263.632 230.591 263 229 263C227.409 263 225.883 263.632 224.757 264.757C223.632 265.883 223 267.409 223 269Z" fill="#E4774E"/>
+        <path d="M307.764 269C307.764 270.591 308.396 272.117 309.522 273.243C310.647 274.368 312.173 275 313.764 275C315.355 275 316.882 274.368 318.007 273.243C319.132 272.117 319.764 270.591 319.764 269C319.764 267.409 319.132 265.883 318.007 264.757C316.882 263.632 315.355 263 313.764 263C312.173 263 310.647 263.632 309.522 264.757C308.396 265.883 307.764 267.409 307.764 269Z" fill="#E9C168"/>
+        <path d="M385.413 269C385.413 270.591 386.045 272.117 387.17 273.243C388.295 274.368 389.821 275 391.413 275C393.004 275 394.53 274.368 395.655 273.243C396.78 272.117 397.413 270.591 397.413 269C397.413 267.409 396.78 265.883 395.655 264.757C394.53 263.632 393.004 263 391.413 263C389.821 263 388.295 263.632 387.17 264.757C386.045 265.883 385.413 267.409 385.413 269Z" fill="#82A555"/>
+        <text font-size="10"><tspan x="239" y="272">Negative</tspan></text>
+        <text font-size="10"><tspan x="323" y="272">Neutral</tspan></text>
+        <text font-size="10"><tspan x="401" y="272">Positive</tspan></text>
+      </g>
+      <g class="flexibility">
+        <text font-size="10"><tspan x="87" y="105">I have flexibility in my work location</tspan></text>
+        <path d="M281 88H259C256.239 88 254 90.2386 254 93V110C254 112.761 256.239 115 259 115H281C283.761 115 286 112.761 286 110V93C286 90.2386 283.761 88 281 88Z" fill="#E4774E"/>
+        <path d="M302 88H293C290.239 88 288 90.2386 288 93V110C288 112.761 290.239 115 293 115H302C304.761 115 307 112.761 307 110V93C307 90.2386 304.761 88 302 88Z" fill="#E9C168"/>
+        <path d="M569 88H314C311.239 88 309 90.2386 309 93V110C309 112.761 311.239 115 314 115H569C571.761 115 574 112.761 574 110V93C574 90.2386 571.761 88 569 88Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="260" y="106">10%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="290" y="106">7%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="429" y="106">84%</tspan></text>
+      </g>
+      <g class="remote">
+        <text fill="#343434" xml:space="preserve" style="white-space: pre" font-family="Asap" font-size="10" letter-spacing="0em"><tspan x="134.533" y="139.11">Our remote work environment</tspan><tspan x="206.203" y="150.11">functions well</tspan></text>
+        <path d="M285 127H280C277.239 127 275 129.239 275 132V149C275 151.761 277.239 154 280 154H285C287.761 154 290 151.761 290 149V132C290 129.239 287.761 127 285 127Z" fill="#E4774E"/>
+        <path d="M299 127H297C294.239 127 292 129.239 292 132V149C292 151.761 294.239 154 297 154H299C301.761 154 304 151.761 304 149V132C304 129.239 301.761 127 299 127Z" fill="#E9C168"/>
+        <path d="M590 127H311C308.239 127 306 129.239 306 132V149C306 151.761 308.239 154 311 154H590C592.761 154 595 151.761 595 149V132C595 129.239 592.761 127 590 127Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="438" y="145">91%</tspan></text>
+      </g>
+      <g class="on-site">
+        <text font-size="10"><tspan x="82" y="178.11">Our on-site work environment</tspan><tspan x="152" y="189">functions well</tspan></text>
+        <path d="M247 166H226C223.239 166 221 168.239 221 171V188C221 190.761 223.239 193 226 193H247C249.761 193 252 190.761 252 188V171C252 168.239 249.761 166 247 166Z" fill="#E4774E"/>
+        <path d="M341 166H259C256.239 166 254 168.239 254 171V188C254 190.761 256.239 193 259 193H341C343.761 193 346 190.761 346 188V171C346 168.239 343.761 166 341 166Z" fill="#E9C168"/>
+        <path d="M536 166H353C350.239 166 348 168.239 348 171V188C348 190.761 350.239 193 353 193H536C538.761 193 541 190.761 541 188V171C541 168.239 538.761 166 536 166Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="226" y="184">10%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="287" y="184">29%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="432" y="184">61%</tspan></text>
+      </g>
+      <g class="hybrid">
+        <text font-size="10"><tspan x="91" y="217.11">Our hybrid work environment</tspan><tspan x="159" y="228">functions well</tspan></text>
+        <path d="M248 205H233C230.239 205 228 207.239 228 210V227C228 229.761 230.239 232 233 232H248C250.761 232 253 229.761 253 227V210C253 207.239 250.761 205 248 205Z" fill="#E4774E"/>
+        <path d="M338 205H260C257.239 205 255 207.239 255 210V227C255 229.761 257.239 232 260 232H338C340.761 232 343 229.761 343 227V210C343 207.239 340.761 205 338 205Z" fill="#E9C168"/>
+        <path d="M543 205H350C347.239 205 345 207.239 345 210V227C345 229.761 347.239 232 350 232H543C545.761 232 548 229.761 548 227V210C548 207.239 545.761 205 543 205Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="233" y="223">8%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="286" y="223">28%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="434" y="223">64%</tspan></text>
+      </g>
+
+		</g>
+
+	</g>
+
+</svg>

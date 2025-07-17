@@ -6,7 +6,7 @@ banner: _static/conf/images/headers/2025/grants.jpg
 
 # Opportunity Grants
 
-The grant program for Write the Docs Portland 2025 supports people who would otherwise not be able to attend the conference, by covering ticket and/or attendance costs. 
+The Grant program for Write the Docs Portland 2025 supports people who would otherwise not be able to attend the conference by covering ticket and/or attendance costs. 
 
 ## Eligibility
 

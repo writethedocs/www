@@ -42,95 +42,108 @@
     </head>
     <body>
 
+    {% if flagpostconf %}
+    <!-- Conference Over Banner -->
+    <div class="announcement" style="padding: 15px; text-align: center;">
+        <p>
+            <strong>The {{ name }} {{ year }} conference is now over.</strong><br>
+            See our list of <a href="/conf/">current conferences</a> to join us at a future event.
+        </p>
+    </div>
+    <!-- End of Conference Over Banner -->
+    {% endif %}
+
     {% block container %}
     {% endblock %}
 
-    <div class="footer-head">
-        <div class="uk-container">
-        {% block footerhead %}
-         {% if buttons is defined and buttons.bottom %}
-             {% for callout in buttons.bottom %}
-               <a class="uk-button uk-button-secondary uk-text-center" href="{% if callout.link_absolute %}{{ callout.link_absolute }}{% else %}{{ pathto('conf/' + shortcode + '/' + year_str + callout.link ) }}{% endif %}">{{ callout.text }}</a>
-             {% endfor %}
-         {% endif %}
-        {% endblock %}
-        </div>
-    </div>
-
-    {# Show sponsors in footer of non-sponsor pages #}
-    {% if "sponsors/index" not in pagename and flaghassponsors %}
-    <div class="sponsors-footer">
-        <div class="uk-container">
-        <h2 class="uk-first-column"><a href="/conf/{{ shortcode }}/{{ year }}/sponsors/">Sponsors</a></h2>
-            {% include year_str  + "/sponsors.html" %}
-            {% include year_str  + "/sponsors-media.html" ignore missing %}
-            <div class="learn-more">
-                <a class="uk-align-right" href="/conf/{{ shortcode }}/{{ year }}/sponsors/prospectus/">Become a sponsor</a>
+    {% block footer %}
+        <div class="footer-head">
+            <div class="uk-container">
+            {% block footerhead %}
+             {% if buttons is defined and buttons.bottom %}
+                 {% for callout in buttons.bottom %}
+                   <a class="uk-button uk-button-secondary uk-text-center" href="{% if callout.link_absolute %}{{ callout.link_absolute }}{% else %}{{ pathto('conf/' + shortcode + '/' + year_str + callout.link ) }}{% endif %}">{{ callout.text }}</a>
+                 {% endfor %}
+             {% endif %}
+            {% endblock %}
             </div>
         </div>
-    </div>
-    {% endif %}
 
-    <footer {% if cobrand is defined%}style="height: 500px;"{% endif %}>
-        <div class="footer-padding"></div>
-        <div class="uk-container">
-            <div class="footer-content">
-                <div class="footer-social-section">
-                    <div class="footer-logo">
-                    {% block footer_logo %}
-                            Write<br>
-                            the<br>
-                            Docs<br>
-                            {% if cobrand is defined and cobrand %}
-                            <em>+</em>
-                            {{ cobrand.brand_html }}
-                            {% endif %}
-                            <em>{{ name }}</em>
-                            <br><em style="top: -16px;">{{ year }}</em>
-                    {% endblock %}
-                    </div>
-
-                    <div class="footer-icon-list">
-                        <a href="https://github.com/writethedocs">
-                            <img src="{{ pathto('_static/conf/images/icons/github-footer-white.svg', 1) }}" alt="GitHub">
-                        </a>
-                        <a href="https://www.linkedin.com/company/write-the-docs">
-                            <img style="height: 25px; border-radius: 5px;" src="{{ pathto('_static/conf/images/icons/linkedin.png', 1) }}" alt="LinkedIn">
-                        </a>
-                        <a href="https://www.flickr.com/photos/writethedocs/">
-                            <img src="{{ pathto('_static/conf/images/icons/flickr-footer-white.svg', 1) }}" alt="Flickr">
-                        </a>
-                        <a href="https://www.writethedocs.org/slack/">
-                            <img src="{{ pathto('_static/conf/images/icons/slack-footer-white.svg', 1) }}" alt="Slack">
-                        </a>
-                    </div><!-- end footer icons list of  links -->
-                </div> <!-- end of footer social section -->
-
-                <ul>
-                    <li>© {{ year }} Write the Docs</li>
-                    <li>|</li>
-                    <li><a href="{{ pathto('/code-of-conduct') }}">Code of Conduct</a></li>
-                    <li>|</li>
-                    <li><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"></a></li>
-                </ul>
-
-            </div><!-- end of footer content  -->
-            {# <div class="footer-pics">
-                <div>
-                    <img src="{{ pathto('_static/conf/images/pics/ft-image-01.jpg', 1) }}" alt="" >
+        {# Show sponsors in footer of non-sponsor pages #}
+        {% if "sponsors/index" not in pagename and flaghassponsors %}
+        <div class="sponsors-footer">
+            <div class="uk-container">
+            <h2 class="uk-first-column"><a href="/conf/{{ shortcode }}/{{ year }}/sponsors/">Sponsors</a></h2>
+                {% include year_str  + "/sponsors.html" %}
+                {% include year_str  + "/sponsors-media.html" ignore missing %}
+                <div class="learn-more">
+                    <a class="uk-align-right" href="/conf/{{ shortcode }}/{{ year }}/sponsors/prospectus/">Become a sponsor</a>
                 </div>
-                <div>
-                    <img src="{{ pathto('_static/conf/images/pics/ft-image-02.jpg', 1) }}" alt="" >
-                </div>
-                <div>
-                    <img src="{{ pathto('_static/conf/images/pics/ft-image-04.jpg', 1) }}" alt="" >
-                </div>
-                <div>
-                    <img src="{{ pathto('_static/conf/images/pics/ft-image-03.jpg', 1) }}" alt="" >
-                </div>
-            </div> #}
+            </div>
         </div>
-    </footer><!-- end footer -->
+        {% endif %}
+
+        <footer {% if cobrand is defined%}style="height: 500px;"{% endif %}>
+            <div class="footer-padding"></div>
+            <div class="uk-container">
+                <div class="footer-content">
+                    <div class="footer-social-section">
+                        <div class="footer-logo">
+                        {% block footer_logo %}
+                                Write<br>
+                                the<br>
+                                Docs<br>
+                                {% if cobrand is defined and cobrand %}
+                                <em>+</em>
+                                {{ cobrand.brand_html }}
+                                {% endif %}
+                                <em>{{ name }}</em>
+                                <br><em style="top: -16px;">{{ year }}</em>
+                        {% endblock %}
+                        </div>
+
+                        <div class="footer-icon-list">
+                            <a href="https://github.com/writethedocs">
+                                <img src="{{ pathto('_static/conf/images/icons/github-footer-white.svg', 1) }}" alt="GitHub">
+                            </a>
+                            <a href="https://www.linkedin.com/company/write-the-docs">
+                                <img style="height: 25px; border-radius: 5px;" src="{{ pathto('_static/conf/images/icons/linkedin.png', 1) }}" alt="LinkedIn">
+                            </a>
+                            <a href="https://www.flickr.com/photos/writethedocs/">
+                                <img src="{{ pathto('_static/conf/images/icons/flickr-footer-white.svg', 1) }}" alt="Flickr">
+                            </a>
+                            <a href="https://www.writethedocs.org/slack/">
+                                <img src="{{ pathto('_static/conf/images/icons/slack-footer-white.svg', 1) }}" alt="Slack">
+                            </a>
+                        </div><!-- end footer icons list of  links -->
+                    </div> <!-- end of footer social section -->
+
+                    <ul>
+                        <li>© {{ year }} Write the Docs</li>
+                        <li>|</li>
+                        <li><a href="{{ pathto('/code-of-conduct') }}">Code of Conduct</a></li>
+                        <li>|</li>
+                        <li><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"></a></li>
+                    </ul>
+
+                </div><!-- end of footer content  -->
+                {# <div class="footer-pics">
+                    <div>
+                        <img src="{{ pathto('_static/conf/images/pics/ft-image-01.jpg', 1) }}" alt="" >
+                    </div>
+                    <div>
+                        <img src="{{ pathto('_static/conf/images/pics/ft-image-02.jpg', 1) }}" alt="" >
+                    </div>
+                    <div>
+                        <img src="{{ pathto('_static/conf/images/pics/ft-image-04.jpg', 1) }}" alt="" >
+                    </div>
+                    <div>
+                        <img src="{{ pathto('_static/conf/images/pics/ft-image-03.jpg', 1) }}" alt="" >
+                    </div>
+                </div> #}
+            </div>
+        </footer><!-- end footer -->
+    {% endblock footer %}
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
