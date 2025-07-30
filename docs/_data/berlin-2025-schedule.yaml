@@ -1,0 +1,119 @@
+talks_day1:
+  - time: '8:00'
+    title: Doors and Sponsor Booths open
+  - time: '8:15'
+    title: '<i>Welcome Wagon conference introduction and venue tour</i>'
+  - time: '9:00'
+    duration: '0:25'
+    title: Write the Docs team - Conference introduction
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:00'
+    title: "<b><a href='../unconference'>Unconference</a> starts</b>"
+  - duration: '0:30'
+    slug: talk-1
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: talk-2
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:15'
+    title: '☕ Coffee break'
+  - duration: '0:30'
+    slug: talk-3
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '1:25'
+    title: '🍽️ Lunch Break (80 mins)'
+  - duration: '0:30'
+    title: Lightning Talks (30 mins)
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: talk-4
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: talk-5
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:15'
+    title: '☕ Coffee break'
+  - duration: '0:30'
+    slug: talk-6
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: talk-7
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:10'
+    title: '<b>Group Photo! Right after the Q&A ;-)</b>'
+  - duration: '0:00'
+    title: '<b>Conference day 1 ends</b>'
+  - time: '19:00'
+    title: '<b><a href="../social-events">Social Event</a> starts</b>'
+  - time: '21:00'
+    title: '<b>Social Event ends</b>'
+
+talks_day2:
+  - time: '8:00'
+    title: Doors and Sponsor Booths open
+    duration: '0:25'
+  - duration: '0:05'
+    title: "Welcome address"
+  - duration: '0:00'
+    title: "<b><a href='../unconference'>Unconference</a> starts</b>"
+  - duration: '0:30'
+    slug: talk-8
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: talk-9
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:15'
+    title: '☕ Coffee break'
+  - duration: '0:30'
+    slug: talk-10
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: talk-11
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:5'
+    title: 'Sponsor intros'
+  - duration: '1:15'
+    title: '🍽️ Lunch Break (75 mins)'
+  - duration: '0:30'
+    title: Lightning Talks (30 mins)
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: talk-12
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:15'
+    title: '☕ Coffee break'
+  - duration: '0:30'
+    slug: talk-13
+  - duration: '0:10'
+    title: '✋ 10 min Q&A'
+  - duration: '0:15'
+    title: Write the Docs team - Conference closing
+  - duration: '0:20'
+    title: '<b>Main stage talks done</b>'
+  - duration: '0:00'
+    title: '<b>Conference ends 😔</b>'
