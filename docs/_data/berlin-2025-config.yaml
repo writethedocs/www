@@ -203,8 +203,14 @@ sponsors:
     - name: paligo-new-new
       link: https://paligo.net?utm_source=write_the_docs_berlin_2025&utm_medium=sponsored_conference
       brand: Paligo
+    - name: archbee-new-new
+      link: https://www.archbee.com/?ref=writethedocs
+      brand: Archbee
   publisher:
   second:
+    - name: discourse
+      link: https://discourse.org/pricing?ref=writethedocs
+      brand: Discourse
   first:
   in_kind:
     - name: readthedocs
