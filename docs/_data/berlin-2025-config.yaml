@@ -205,6 +205,9 @@ sponsors:
       brand: Paligo
   publisher:
   second:
+    - name: discourse
+      link: https://discourse.org/pricing?ref=writethedocs
+      brand: Discourse
   first:
   in_kind:
     - name: readthedocs
