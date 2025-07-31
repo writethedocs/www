@@ -4,13 +4,13 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
 ```{eval-rst}
-.. post:: July 14, 2025
+.. post:: July 31, 2025
    :tags: {{shortcode}}-{{year}}
 ```
 
 # Last call for Call for Proposals and Opportunity Grants
 
-We're excited to see all your proposals come in our Berlin conference!
+We're excited to see all the proposals you've sent in for our Berlin conference!
 
 This is your last call to submit in our Call for Proposals, and/or request an Opportunity grant.
 
@@ -33,6 +33,15 @@ If you already have an idea but are having a difficult time getting your proposa
 
 - Talk proposals are due by {{ cfp.ends }}. We do not accept late submissions.
 - Everyone who submits will receive a response by {{ cfp.notification }}.
+
+## Volunteer applications open
+
+Our Volunteer application is open!
+
+We are looking for volunteers to provide support with a variety of conference roles - registration, unconference, stage support, load out, and more.
+
+See our [Volunteering page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/volunteer/) for more information and the application.
+
 
 ## Join our Community of Sponsors
 
