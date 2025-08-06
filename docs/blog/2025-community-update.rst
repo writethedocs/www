@@ -9,7 +9,8 @@ Write the Docs Community Update - August 2025
 
 Hey there documentarians!
 
-Eric Holscher here, sharing this year's community update as we reflect on another year of growth and change for Write the Docs.
+Eric Holscher here, sharing this year's August community update.
+We always do this to give the newsletter team a break in August.
 
 We've been heavily focused on conferences this year, but our Slack community, Newsletter, Meetups, and other initiatives continue without too much change. 
 
@@ -61,8 +62,6 @@ Whether you're joining us in Portland, Berlin, Africa, Australia, or online, we 
 
 Thank you for being part of our community and making the documentation world a little bit better.
 
---
-
 ----------------
 From our sponsor
 ----------------
@@ -84,8 +83,6 @@ Write the Docs subscribers get preview access to "Systems Champion: Simplify Bus
 This isn't another theory-heavy business book. It's a practical playbook that shows documentation pros how to become the most valuable person in any organization. The one who turns chaos into clarity and builds systems that actually stick.
 
 Get it before the public release. `Check it out here <https://www.systemology.com/writethedocs/>`_.
-
---
 
 *Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
 
