@@ -39,6 +39,7 @@ def get_review_scores(pretalx_slug, previous_slugs):
     reviews = load_pretalx_resource(reviews_url, http_headers)
     speaker_names = get_speaker_names(pretalx_slug, http_headers)
     submission_types = get_submission_types(pretalx_slug, http_headers)
+    tags = get_tags(pretalx_slug, http_headers)
 
     for review in reviews:
         try:
@@ -70,7 +71,7 @@ def get_review_scores(pretalx_slug, previous_slugs):
                 submission_types[submission['submission_type']][0],
                 submission['title'],
                 speakers,
-                ', '.join(submission['tags']),
+                ', '.join([tags[t] for t in submission['tags']]),
                 previous_for_speaker_str,
                 url,
             ])
@@ -116,6 +117,14 @@ def get_submission_types(pretalx_slug, http_headers):
     submission_types = load_pretalx_resource(url, http_headers)
     return {
         s['id']: s['name']['en'] for s in submission_types
+    }
+
+def get_tags(pretalx_slug, http_headers):
+    url = f'https://pretalx.com/api/events/{pretalx_slug}/tags/'
+    print(f'Loading tag names from {url}...')
+    tags = load_pretalx_resource(url, http_headers)
+    return {
+        s['id']: s['tag'] for s in tags
     }
 
 def load_pretalx_resource(url, http_headers):
