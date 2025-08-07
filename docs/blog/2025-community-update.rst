@@ -76,18 +76,18 @@ This month's newsletter is sponsored by `Systems Champion <https://www.systemolo
     <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
       <tbody>
         <tr>
-          <td width="75%">
-          <strong>Finally, a business book that gets what you already know.</strong>
+          <td width="70%">
+            <p><strong>Finally, a business book that gets what you already know.</strong></p>
 
-          You're already documenting processes, creating guides, and making complex things simple. But what if those skills could transform entire businesses?
+            <p>You're already documenting processes, creating guides, and making complex things simple. But what if those skills could transform entire businesses?</p>
 
-          Write the Docs subscribers get preview access to "Systems Champion: Simplify Business Processes, Unlock Team Potential & Achieve True Freedom."
+            <p>Write the Docs subscribers get preview access to "Systems Champion: Simplify Business Processes, Unlock Team Potential & Achieve True Freedom."</p>
 
-          This isn't another theory-heavy business book. It's a practical playbook that shows documentation pros how to become the most valuable person in any organization. The one who turns chaos into clarity and builds systems that actually stick.
+            <p>This isn't another theory-heavy business book. It's a practical playbook that shows documentation pros how to become the most valuable person in any organization. The one who turns chaos into clarity and builds systems that actually stick.</p>
 
-          Get it before the public release. <a href="https://www.systemology.com/writethedocs/">Check it out here</a>.
+            <p>Get it before the public release. <a href="https://www.systemology.com/writethedocs/">Check it out here</a>.</p>
           </td>
-          <td width="25%">
+          <td width="30%">
             <a href="https://www.systemology.com/writethedocs/">
               <img style="margin-left: 15px;" alt="Systems Champion logo" src="/_static/img/sponsors/systems-champion.png">
             </a>
