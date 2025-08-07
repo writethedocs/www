@@ -19,7 +19,7 @@ Portland was a great success
 
 Our Portland conference was our largest yet, with 415 in-person attendees and 170 virtual participants.
 New features like Sunday registration location, food carts, and expanded venue spaces helped make the experience even better.
-All talk videos are available on our [YouTube playlist](https://www.youtube.com/playlist?list=PLZAeFn6dfHplMbtJtidqFFtL7rt3ASNSR), and you can view the photos in our [Flickr album](https://www.flickr.com/photos/writethedocs/albums/72177720325861452/).
+All talk videos are available on our `YouTube playlist <https://www.youtube.com/playlist?list=PLZAeFn6dfHplMbtJtidqFFtL7rt3ASNSR>`_, and you can view the photos in our `Flickr album <https://www.flickr.com/photos/writethedocs/albums/72177720325861452/>`_.
 We're excited to see everyone again in Portland in 2026,
 and will be announcing the dates soon.
 
