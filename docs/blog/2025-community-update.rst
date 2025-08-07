@@ -35,10 +35,11 @@ Thanks to our local team and everyone who helped make this possible!
 Africa continues to grow
 ------------------------
 
-We're excited to see our Africa community continue to grow, with Kenya hosting its second event and first conference, and a `summit this year in Nigeria <https://sessionize.com/writethedocs-nigeria-conference-2025-bu/>`_.  
+We're excited to see our Africa community continue to grow, with Kenya hosting their first conference, and a `summit this year in Nigeria <https://sessionize.com/writethedocs-nigeria-conference-2025-bu/>`_.  
 These summits and conferences are helping build a vibrant network of documentarians across the continent.  
 Read about the 2025 Kenya conference in their `recap blog post <https://wtdkenya.hashnode.dev/wtd-kenya-conference-2025>`_.  
-If you're interested in organizing or attending an event in Africa, reach out—we'd love to support you!
+We're excited to see continued growth in Africa,
+growing from the meetups in these regions into larger conferences and summits.
 
 Australia goes virtual for 2025
 -------------------------------
