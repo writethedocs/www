@@ -12,7 +12,7 @@ Hey there documentarians!
 Eric Holscher here, sharing this year's August community update.
 We always do this to give the newsletter team a break in August.
 
-We've been heavily focused on conferences this year, but our Slack community, Newsletter, Meetups, and other initiatives continue without too much change. 
+We've been heavily focused on conferences this year, but our Slack community, Newsletter, Meetups, and other initiatives continue without major changes. 
 
 Portland was a great success
 ----------------------------
