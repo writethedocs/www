@@ -1,6 +1,6 @@
 :og:image: https://www.writethedocs.org/_static/logo-opengraph.png
 
-.. post:: Aug 8, 2025
+.. post:: Aug 7, 2025
    :tags: stats, newsletter
    :author: Eric Holscher
 
