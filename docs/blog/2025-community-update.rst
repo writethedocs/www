@@ -23,7 +23,7 @@ All talk videos are available on our [YouTube playlist](https://www.youtube.com/
 We're excited to see everyone again in Portland in 2026,
 and will be announcing the dates soon.
 
-Berlin returns in-person
+Europe returns in-person
 ------------------------
 
 The biggest news for 2025 is the return of our European conference to Berlin!  
