@@ -66,23 +66,37 @@ Thank you for being part of our community and making the documentation world a l
 From our sponsor
 ----------------
 
-This month's newsletter is sponsored by `Systems Champion <https://www.systemology.com/writethedocs/>`_.
+This month's newsletter is sponsored by `Systems Champion <https://www.systemology.com/writethedocs/>`_:
 
-.. image:: /_static/img/sponsors/systems-champion.png
-  :align: center
-  :width: 50%
-  :target: https://www.systemology.com/writethedocs/
-  :alt: Systems Champion logo
 
-**Finally, a business book that gets what you already know.**
 
-You're already documenting processes, creating guides, and making complex things simple. But what if those skills could transform entire businesses?
+.. raw:: html
 
-Write the Docs subscribers get preview access to "Systems Champion: Simplify Business Processes, Unlock Team Potential & Achieve True Freedom."
+  <hr>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:100%; max-width: 600px;">
+      <tbody>
+        <tr>
+          <td width="75%">
+          <strong>Finally, a business book that gets what you already know.</strong>
 
-This isn't another theory-heavy business book. It's a practical playbook that shows documentation pros how to become the most valuable person in any organization. The one who turns chaos into clarity and builds systems that actually stick.
+          You're already documenting processes, creating guides, and making complex things simple. But what if those skills could transform entire businesses?
 
-Get it before the public release. `Check it out here <https://www.systemology.com/writethedocs/>`_.
+          Write the Docs subscribers get preview access to "Systems Champion: Simplify Business Processes, Unlock Team Potential & Achieve True Freedom."
+
+          This isn't another theory-heavy business book. It's a practical playbook that shows documentation pros how to become the most valuable person in any organization. The one who turns chaos into clarity and builds systems that actually stick.
+
+          Get it before the public release. <a href="https://www.systemology.com/writethedocs/">Check it out here</a>.
+          </td>
+          <td width="25%">
+            <a href="https://www.systemology.com/writethedocs/">
+              <img style="margin-left: 15px;" alt="Systems Champion logo" src="/_static/img/sponsors/systems-champion.png">
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <hr>
+
 
 *Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
 
