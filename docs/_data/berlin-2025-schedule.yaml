@@ -64,7 +64,7 @@ talks_day1:
     title: '<b>Social Event ends</b>'
 
 talks_day2:
-  - time: '9:30'
+  - time: '9:00'
     title: Doors and Sponsor Booths open
     duration: '0:25'
   - duration: '0:05'
