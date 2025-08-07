@@ -26,7 +26,7 @@ and will be announcing the dates soon.
 Europe returns in-person
 ------------------------
 
-The biggest news for 2025 is the return of our European conference to Berlin!  
+The biggest news for 2025 is the return of our European conference, now in Berlin!  
 After several years of virtual-only events, we're thrilled to be back in person in Europe for the first time since 2019.  
 The Berlin conference will also feature a virtual component, so documentarians can join us from anywhere.  
 Find out more and get your tickets on the `Berlin website <https://www.writethedocs.org/conf/berlin/2025/>`_.  
@@ -35,7 +35,7 @@ Thanks to our local team and everyone who helped make this possible!
 Africa continues to grow
 ------------------------
 
-We're excited to see our Africa community continue to grow, with Kenya hosting its second event and first conference and more local events popping up.  
+We're excited to see our Africa community continue to grow, with Kenya hosting its second event and first conference, and a `summit this year in Nigeria <https://sessionize.com/writethedocs-nigeria-conference-2025-bu/>`_.  
 These summits and conferences are helping build a vibrant network of documentarians across the continent.  
 Read about the 2025 Kenya conference in their `recap blog post <https://wtdkenya.hashnode.dev/wtd-kenya-conference-2025>`_.  
 If you're interested in organizing or attending an event in Africa, reach out—we'd love to support you!
