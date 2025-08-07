@@ -1,9 +1,9 @@
 talks_day1:
-  - time: '8:00'
-    title: Doors and Sponsor Booths open
-  - time: '8:15'
-    title: '<i>Welcome Wagon conference introduction and venue tour</i>'
   - time: '9:00'
+    title: Doors and Sponsor Booths open
+  - time: '9:15'
+    title: '<i>Welcome Wagon conference introduction and venue tour</i>'
+  - time: '09:30'
     duration: '0:25'
     title: Write the Docs team - Conference introduction
   - duration: '0:05'
@@ -12,20 +12,20 @@ talks_day1:
     title: "<b><a href='../unconference'>Unconference</a> starts</b>"
   - duration: '0:30'
     slug: talk-1
-  - duration: '0:10'
-    title: '✋ 10 min Q&A'
   - duration: '0:05'
-    title: '5 minute break'
+    title: '✋ 05 min Q&A'
+  - duration: '0:10'
+    title: '10 minute break'
   - duration: '0:30'
     slug: talk-2
-  - duration: '0:10'
-    title: '✋ 10 min Q&A'
+  - duration: '0:5'
+    title: '✋ 5 min Q&A'
   - duration: '0:15'
     title: '☕ Coffee break'
   - duration: '0:30'
     slug: talk-3
-  - duration: '0:10'
-    title: '✋ 10 min Q&A'
+  - duration: '0:5'
+    title: '✋ 5 min Q&A'
   - duration: '1:25'
     title: '🍽️ Lunch Break (80 mins)'
   - duration: '0:30'
@@ -34,26 +34,26 @@ talks_day1:
     title: '5 minute break'
   - duration: '0:30'
     slug: talk-4
-  - duration: '0:10'
-    title: '✋ 10 min Q&A'
   - duration: '0:05'
-    title: '5 minute break'
+    title: '✋ 05 min Q&A'
+  - duration: '0:10'
+    title: '10 minute break'
   - duration: '0:30'
     slug: talk-5
-  - duration: '0:10'
-    title: '✋ 10 min Q&A'
+  - duration: '0:5'
+    title: '✋ 5 min Q&A'
   - duration: '0:15'
     title: '☕ Coffee break'
   - duration: '0:30'
     slug: talk-6
-  - duration: '0:10'
-    title: '✋ 10 min Q&A'
   - duration: '0:05'
-    title: '5 minute break'
+    title: '✋ 05 min Q&A'
+  - duration: '0:10'
+    title: '10 minute break'
   - duration: '0:30'
     slug: talk-7
-  - duration: '0:10'
-    title: '✋ 10 min Q&A'
+  - duration: '0:5'
+    title: '✋ 5 min Q&A'
   - duration: '0:10'
     title: '<b>Group Photo! Right after the Q&A ;-)</b>'
   - duration: '0:00'
@@ -64,7 +64,7 @@ talks_day1:
     title: '<b>Social Event ends</b>'
 
 talks_day2:
-  - time: '8:00'
+  - time: '9:30'
     title: Doors and Sponsor Booths open
     duration: '0:25'
   - duration: '0:05'
@@ -73,26 +73,26 @@ talks_day2:
     title: "<b><a href='../unconference'>Unconference</a> starts</b>"
   - duration: '0:30'
     slug: talk-8
-  - duration: '0:10'
-    title: '✋ 10 min Q&A'
   - duration: '0:05'
-    title: '5 minute break'
+    title: '✋ 05 min Q&A'
+  - duration: '0:10'
+    title: '10 minute break'
   - duration: '0:30'
     slug: talk-9
-  - duration: '0:10'
-    title: '✋ 10 min Q&A'
+  - duration: '0:5'
+    title: '✋ 5 min Q&A'
   - duration: '0:15'
     title: '☕ Coffee break'
   - duration: '0:30'
     slug: talk-10
-  - duration: '0:10'
-    title: '✋ 10 min Q&A'
   - duration: '0:05'
-    title: '5 minute break'
+    title: '✋ 05 min Q&A'
+  - duration: '0:10'
+    title: '10 minute break'
   - duration: '0:30'
     slug: talk-11
-  - duration: '0:10'
-    title: '✋ 10 min Q&A'
+  - duration: '0:5'
+    title: '✋ 5 min Q&A'
   - duration: '0:5'
     title: 'Sponsor intros'
   - duration: '1:15'
@@ -103,14 +103,14 @@ talks_day2:
     title: '5 minute break'
   - duration: '0:30'
     slug: talk-12
-  - duration: '0:10'
-    title: '✋ 10 min Q&A'
+  - duration: '0:5'
+    title: '✋ 5 min Q&A'
   - duration: '0:15'
     title: '☕ Coffee break'
   - duration: '0:30'
     slug: talk-13
-  - duration: '0:10'
-    title: '✋ 10 min Q&A'
+  - duration: '0:5'
+    title: '✋ 5 min Q&A'
   - duration: '0:15'
     title: Write the Docs team - Conference closing
   - duration: '0:20'
