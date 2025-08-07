@@ -39,7 +39,7 @@ We're excited to see our Africa community continue to grow, with Kenya hosting t
 These summits and conferences are helping build a vibrant network of documentarians across the continent.  
 Read about the 2025 Kenya conference in their `recap blog post <https://wtdkenya.hashnode.dev/wtd-kenya-conference-2025>`_.  
 We're excited to see continued growth in Africa,
-growing from the meetups in these regions into larger conferences and summits.
+growing from meetups into larger conferences and summits.
 
 Australia goes virtual for 2025
 -------------------------------
