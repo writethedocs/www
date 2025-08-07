@@ -14,12 +14,13 @@ We always do this to give the newsletter team a break in August.
 
 We've been heavily focused on conferences this year, but our Slack community, Newsletter, Meetups, Salary Survey, and other initiatives continue without major changes. 
 
-Portland was a great success
-----------------------------
+Our Portland conference was a great success
+-------------------------------------------
 
-Our Portland conference was our largest yet, with 415 in-person attendees and 170 virtual participants.
+The 2025 Portland conference was our largest yet, with 415 in-person attendees and 170 virtual participants.
 New features like Sunday registration location, food carts, and expanded venue spaces helped make the experience even better.
-All talk videos are available on our `YouTube playlist <https://www.youtube.com/playlist?list=PLZAeFn6dfHplMbtJtidqFFtL7rt3ASNSR>`_, and you can view the photos in our `Flickr album <https://www.flickr.com/photos/writethedocs/albums/72177720325861452/>`_.
+All talk videos are available on our `YouTube playlist <https://www.youtube.com/playlist?list=PLZAeFn6dfHplMbtJtidqFFtL7rt3ASNSR>`_
+and the `full recap blog post <https://www.writethedocs.org/conf/portland/2025/news/thanks-recap/>`_ has lots more information.
 We're excited to see everyone again in Portland in 2026,
 and will be announcing the dates soon.
 
