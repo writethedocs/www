@@ -32,19 +32,20 @@ Subject:
 
    The Write the Docs {{city}} talk selection committee has finished the review process and we'd love it if you could join us as a speaker!
 
-   Write the Docs {{city}} {{year}} is **in person** in {{city}} on **{{date.short}}**.
+   Write the Docs {{city}} {{year}} is **hybrid** conference in {{city}} on **{{date.short}}**. Most talks are delivered in-person and on-stage, unless you have explicitly proposed and been accepted for a pre-recorded talk.
 
    We think your talk: '{proposal_title}' would be a great fit for the conference. We'd love to have you prepare it for a **30-minute** time slot, with additional questions and answers after that.
 
-   First up, make sure to confirm your speaking slot by doing these **three things** by **Friday 7th February**:
+   First up, make sure to confirm your speaking slot by doing these **three things** by **{{cfp.confirm_by}}**:
 
-   1. Confirm your **attendance in-person** in {{city}} by clicking the {confirmation_link}
+   1. If you're speaking in person, confirm your **attendance in-person** in {{city}} by clicking the {confirmation_link}
+      If you're delivering a pre-recorded talk, confirm your commitment to deliver a reocrded talk by {{cfp.video_by}} by clicking the {confirmation_link}
 
    2. Let us know any of the following:
 
        ○ If you have a strong preference for presenting on Monday or Tuesday, or in the morning or afternoon.
        ○ If you already purchased a ticket so we can issue you a refund.
-       ○ If you would like to have an experienced member of the Write the Docs community mentor you through the talk preparation process.
+       ○ If you would like to have an experienced Write the Docs speaker mentor you through the talk preparation process.
 
    3. Update your [Pretalx profile](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/) with a bio and other information that we'll use to create your speaker profile and get our audience excited about your talk.
 
@@ -56,7 +57,7 @@ Subject:
    * Make sure you plan your talk to fit in the allotted time. 30 mins for the the talk itself.There will be Q&A after the 30 mins.
    * Please review our Code of Conduct (https://www.writethedocs.org/code-of-conduct/) and make sure your talk content adheres to it. As a rule of thumb, if you're on the fence about whether something in your talk could be considered inappropriate or offensive, leave it out. If you have a question about the code, feel free to email us and ask!
 
-   If you're concerned about travel expenses, let us know. We do have a budget for speaker expenses, but it can't cover all our speakers.
+   If you're attending in person and concerned about travel expenses, let us know. We do have a budget for speaker expenses, but it can't cover all our speakers.
 
    As we confirm your details, we'll publish your abstract, profile pic, and information on the conference site. We'll also be emailing attendees so they can share in our excitement about the talks we'll be presenting this year!
 
