@@ -22,6 +22,8 @@ talks_day1:
     title: '✋ 5 min Q&A'
   - duration: '0:15'
     title: '☕ Coffee break'
+  - duration: '0:5'
+    title: 'Sponsor intros'
   - duration: '0:30'
     slug: talk-3
   - duration: '0:5'
@@ -93,8 +95,6 @@ talks_day2:
     slug: talk-11
   - duration: '0:5'
     title: '✋ 5 min Q&A'
-  - duration: '0:5'
-    title: 'Sponsor intros'
   - duration: '1:15'
     title: '🍽️ Lunch Break (75 mins)'
   - duration: '0:30'
