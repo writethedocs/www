@@ -154,8 +154,8 @@ Portland conference Code of Conduct Team
 
 .. include:: /include/conf/coc/na-coc.rst
 
-Atlantic conference Code of Conduct Team
-----------------------------------------
+Berlin conference Code of Conduct Team
+--------------------------------------
 
 .. include:: /include/conf/coc/eu-coc.rst
 
