@@ -215,18 +215,41 @@
     slug: kat-stoica-ostenfeld
     twitter: 
     website: 
-  abstract: "<p>Premise of talk:\n - A lot of people are promoted into Leads roles
-    without proper knowledge about what it means, how it will affect them, and how
-    to proceed\n- Here are things that I have learned along the way, that I think
-    are relevant for all new-ish Leads to know; some of them especially for documentarians</p>\n<p>Expected
-    key talking points:\n- Being a strong leader and a manager are two very different
-    things\n- Be prepared to be bad at it; redefining what your job is, unlearning
-    your internal performance metrices, and coming to terms with the meetings being
-    the job\n- Your title walks into the room before you do\n- Changing mindset from
-    a tech writer to a docs lead:  unlearning how to under-commit and over-deliver\n-
-    The human reaction to this new type of role: Be prepared for a mental and emotional
-    debit; tips for handling them\n- Find a framework and lean on it\n- How to Corporate
-    101</p>"
+  abstract: '<p>Premise of talk:</p>
+
+    <ul>
+
+    <li>A lot of people are promoted into Leads roles without proper knowledge about
+    what it means, how it will affect them, and how to proceed</li>
+
+    <li>Here are things that I have learned along the way, that I think are relevant
+    for all new-ish Leads to know; some of them especially for documentarians</li>
+
+    </ul>
+
+    <p>Expected key talking points:</p>
+
+    <ul>
+
+    <li>Being a strong leader and a manager are two very different things</li>
+
+    <li>Be prepared to be bad at it; redefining what your job is, unlearning your
+    internal performance metrics, and coming to terms with the meetings being the
+    job</li>
+
+    <li>Your title walks into the room before you do</li>
+
+    <li>Changing mindset from a tech writer to a docs lead:  unlearning how to under-commit
+    and over-deliver</li>
+
+    <li>The human reaction to this new type of role: Be prepared for a mental and
+    emotional debit; tips for handling them</li>
+
+    <li>Find a framework and lean on it</li>
+
+    <li>How to Corporate 101</li>
+
+    </ul>'
 - title: The right tool for the job
   slug: the-right-tool-for-the-job-ruth-fuchss
   series: Write the Docs Berlin
@@ -352,8 +375,8 @@
     I'd be thrilled to share my insights and become an active member of the community.
     I am eager to contribute in every possible way, especially by mentoring junior
     writers.</p>"
-- title: Portable docs for data sovereignity
-  slug: portable-docs-for-data-sovereignity-val-grimm
+- title: Portable docs for data sovereignty
+  slug: portable-docs-for-data-sovereignty-val-grimm
   series: Write the Docs Berlin
   series_slug: berlin
   year: 2025
@@ -364,7 +387,7 @@
     website: https://linkedin.com/in/vlgrimm
   abstract: '<p>A portable documentation publishing approach is particularly relevant
     right now because many organizations in Europe are interested in regaining their
-    digital sovereignity by transitioning away from technology solutions developed
+    digital sovereignty by transitioning away from technology solutions developed
     and delivered outside of the EU. Our approach to portability does not fundamentally
     rely on closed proprietary technologies or cloud platforms, although we used our
     preferred tools to implement our solution. </p>
