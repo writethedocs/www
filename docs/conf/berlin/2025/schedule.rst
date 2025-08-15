@@ -45,6 +45,8 @@ All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
 
    <hr>
 
+{% if flaghaswritingday %}
+
 {{date.day_two.dotw}}, {{date.day_two.date}}
 -----------------------------------------
 
@@ -69,6 +71,8 @@ The unconference is held in {{about.venue}}, {{about.unconfroom}}.
   A detailed schedule will be announced soon.
 {% endif %}
 
+{% endif %}
+
 Welcome Wagon Introduction
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -83,13 +87,13 @@ We'll pass on some information about the conference specifically for first-timer
 
    <hr>
 
-{{date.day_three.dotw}}, {{date.day_three.date}}
+{% if flaghaswritingday %}{{date.day_three.dotw}}, {{date.day_three.date}}{% else %}{{date.day_one.dotw}}, {{date.day_one.date}}{% endif %}
 -----------------------------------------
 
 .. raw:: html
 
    <p>
-   {{ date.day_three.summary }}
+   {% if flaghaswritingday %}{{date.day_three.summary}}{% else %}{{date.day_one.summary}}{% endif %}
    </p>
 
 - Conference talks are held in {{about.venue}}
@@ -113,13 +117,13 @@ We'll pass on some information about the conference specifically for first-timer
 
    <hr>
 
-{{date.day_four.dotw}}, {{date.day_four.date}}
+{% if flaghaswritingday %}{{date.day_four.dotw}}, {{date.day_four.date}}{% else %}{{date.day_two.dotw}}, {{date.day_two.date}}{% endif %}
 -----------------------------------------
 
 .. raw:: html
 
    <p>
-   {{ date.day_four.summary }}
+   {% if flaghaswritingday %}{{date.day_four.summary}}{% else %}{{date.day_two.summary}}{% endif %}
    </p>
 
 - Conference talks are held in {{about.venue}}
