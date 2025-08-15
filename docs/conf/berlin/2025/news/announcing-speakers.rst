@@ -45,6 +45,17 @@ If you need additional information, we have a few resources to help you:
 * Purchase your tickets on our `Tickets page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_.
 * Plan your journey with our `Visiting {{city}} page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>`_.
 
+Call for Volunteers
+-------------------
+
+Join our volunteer team and attend the conference for free! Volunteers play an integral role in helping the conference run smoothly. Join the team and connect with a welcoming community.
+
+Visit our `Volunteer <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/volunteer/>`__ page to learn more and sign up.
+
+T-shirts are now available
+--------------------------
+
+The `Write the Docs {{city}} T-Shirt <https://shirt.writethedocs.org/>`__ is available! As in previous years, we’re doing a mail order shop so people can order the exact shirt they want, if they want one. We recommend you order your shirt at least 2-3 weeks in advance if you want to sport your fancy new garb during the conference.
 
 Thanks again to our sponsors
 ----------------------------
