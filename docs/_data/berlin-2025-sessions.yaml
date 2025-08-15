@@ -73,46 +73,19 @@
     education to create a content ecosystem that drives product adoption across a
     global user base.</p>
 
-    <p>Takeaways:
+    <p>Takeaways:</p>
 
-    --How to align documentation and education to serve different learner needs
+    <ul>
 
-    --How to map documentation to learning outcomes and product goals
+    <li>How to align documentation and education to serve different learner needs</li>
 
-    --How to build shared workflows that scale knowledge across borders and teams
+    <li>How to map documentation to learning outcomes and product goals</li>
 
-    --Why documentation teams should see themselves as educators</p>
+    <li>How to build shared workflows that scale knowledge across borders and teams</li>
 
-    <p>Detailed Spoilers
+    <li>Why documentation teams should see themselves as educators</li>
 
-    This talk will focus on a real-world collaboration between the technical documentation
-    team and the customer education team at Mews, a global hospitality tech company.
-    Our aim was to create a unified, learner-centric content ecosystem that improves
-    product onboarding, self-service, and feature adoption.</p>
-
-    <p>Key examples:
-
-    --We partnered on launching localized onboarding journeys, using core documentation
-    as the backbone for interactive training.
-
-    --We co-created help center content and training modules for high-impact features,
-    including usage analytics to refine and update both.
-
-    --We developed a shared taxonomy for feature tiers, content types, and feedback
-    loops, aligning documentation with curriculum design.
-
-    --We brought our educational content out of our learning platform and into our
-    product, focused on Jobs To Be Done</p>
-
-    <p>I''ll walk through our process for:
-
-    --Identifying overlapping goals between education and docs
-
-    --Designing content workflows that support both learning and scale
-
-    --Using product feedback and usage data to evolve our shared content
-
-    --Navigating challenges, like ownership confusion and duplication</p>
+    </ul>
 
     <p>By connecting documentation and education, we moved from “how it works” to
     “how to use it well,” turning knowledge into activation.</p>'
@@ -145,36 +118,7 @@
     practices.</p>
 
     <p>This is the story of our journey to consolidating our public-facing documentation
-    into a single website. The talk covers some of the following points:</p>
-
-    <ul>
-
-    <li>Migrating docs from multiple sources into a single platform.</li>
-
-    <li>Adopting docs-as-code approaches "everywhere" and unifying tooling across
-    the different teams.</li>
-
-    <li>Applying new branding guidelines, consolidating formats and styling. Managing
-    product name changes.</li>
-
-    <li>Information architecture: Creating profiles (or "personas") for each user
-    type, based on user needs.</li>
-
-    <li>Managing geographically dispersed teams. For many of these teams, documentation
-    was not their primary responsibility.</li>
-
-    <li>Taking advantage of AI tools to streamline processes like reviews, docs improvements
-    and technical refinements.</li>
-
-    <li>Coordinating docs releases for multiple products.</li>
-
-    <li>Managing an automated translation pipeline.</li>
-
-    <li>Implementing a context-aware AI-search service across the documentation.</li>
-
-    </ul>
-
-    <p>Spoiler alert: we ended up with two documentation platforms instead of one.</p>'
+    into a single website.</p>'
 - title: 'A beautiful reciprocal arrangement: Gaining experience and giving back through
     open source documentation'
   slug: a-beautiful-reciprocal-arrangement-gaining-experience-and-giving-back-through-o-tiffany-hrabusa
@@ -215,39 +159,31 @@
     slug: kat-stoica-ostenfeld
     twitter: 
     website: 
-  abstract: '<p>Premise of talk:</p>
+  abstract: '<p>A lot of people are promoted into Leads roles without proper knowledge
+    about what it means, how it will affect them, and how to proceed.</p>
+
+    <p>Here are things that I have learned along the way, that I think are relevant
+    for all new-ish Leads to know; some of them especially for documentarians.</p>
 
     <ul>
 
-    <li>A lot of people are promoted into Leads roles without proper knowledge about
-    what it means, how it will affect them, and how to proceed</li>
-
-    <li>Here are things that I have learned along the way, that I think are relevant
-    for all new-ish Leads to know; some of them especially for documentarians</li>
-
-    </ul>
-
-    <p>Expected key talking points:</p>
-
-    <ul>
-
-    <li>Being a strong leader and a manager are two very different things</li>
+    <li>Being a strong leader and a manager are two very different things.</li>
 
     <li>Be prepared to be bad at it; redefining what your job is, unlearning your
     internal performance metrics, and coming to terms with the meetings being the
-    job</li>
+    job.</li>
 
-    <li>Your title walks into the room before you do</li>
+    <li>Your title walks into the room before you do.</li>
 
     <li>Changing mindset from a tech writer to a docs lead:  unlearning how to under-commit
-    and over-deliver</li>
+    and over-deliver.</li>
 
     <li>The human reaction to this new type of role: Be prepared for a mental and
-    emotional debit; tips for handling them</li>
+    emotional debit; tips for handling them.</li>
 
-    <li>Find a framework and lean on it</li>
+    <li>Find a framework and lean on it.</li>
 
-    <li>How to Corporate 101</li>
+    <li>How to Corporate 101.</li>
 
     </ul>'
 - title: The right tool for the job
@@ -297,84 +233,26 @@
     slug: dimple-poojary
     twitter: 
     website: 
-  abstract: "<h2>Abstract:</h2>\n<p>As a senior technical writer, I've long grappled
-    with the persistent challenge of keeping documentation current and accurate. The
-    manual process of tracking which documents needed updates, assigning them to team
-    members and reminding them to update documentation for their respective product
-    categories often felt like an uphill battle, consuming valuable time and resources.\nIn
-    the fast-paced world of agile development, documentation can quickly become outdated
-    without active management. This issue is widespread; studies show that inconsistent
-    documentation is a significant roadblock to collaboration and a major challenge
-    in agile development without active management. \nI realized there had to be a
-    better way to seamlessly integrate documentation maintenance into our daily agile
-    workflow and foster a sense of shared and continued ownership.\nI decided to tackle
-    this problem head-on by designing and implementing a robust automated workflow
-    linked directly to our sprint board by leveraging our existing tools; this transformed
-    how our team approached documentation maintenance. What was once a burdensome
-    manual process is now a streamlined, automated part of every sprint cycle.</p>\n<h2>An
-    Automated Workflow Process:</h2>\n<ol>\n<li>I created an automated workflow that
-    generates a new ticket during the transition between sprints.</li>\n<li>Every
-    team member receives a notification email immediately after the ticket is created.
-    The email lists the tasks to be performed and includes a specific label for easy
-    report generation on maintenance tasks.</li>\n<li>To manage assignments, I also
-    created a roster for maintenance owners, a role that rotates among team members
-    based on a schedule in our Confluence space.</li>\n<li>Finally, calendar reminders
-    were set up for the sprint change day to alert the team to the change in maintenance
-    ownership.</li>\n</ol>\n<h2>Critical Considerations for the Documentation Maintenance
-    Process:</h2>\n<p><b>Monitoring and Maintenance:</b>\n- What do we monitor on
-    a regular basis? Example: Product channels or other failed workflows. \n- What
-    issues are we responsible for fixing?\n<b>Request Management:</b>\n- How do we
-    determine if a request can be completed in the current sprint or should be added
-    to the backlog?\n- What is the process for Subject Matter Experts (SMEs) to submit
-    ad-hoc requests?\n<b>Process Improvement:</b>\n- What other improvements do we
-    consider if the number of maintenance tasks is low?\n- How do SMEs review and
-    approve these documentation updates?\n<b>Workflow:</b>\n- What is the required
-    content format for a maintenance ticket in each sprint?\n- When do we close a
-    maintenance ticket?</p>\n<p><b>Quantifiable Results:</b>\nOur automated maintenance
-    process has been 100% successful, leading to a 90% reduction in broken links and
-    typos. This has resulted in more consistent and well-formatted documents, which
-    has in turn reduced support calls and customer churn.</p>\n<h2>Key Takeaways:</h2>\n<p>This
-    will be an <b>interactive session!</b> I'll be asking the audience questions throughout,
-    encouraging them to think about what rules they could define to automate a workflow:\n-
-    <b>Implement automation:</b> Design and configure workflow to automate documentation
-    maintenance, reducing manual effort and improving efficiency.\n- <b>Integrate
-    with development sprints:</b> Link documentation maintenance workflow directly
-    to the development sprint cycles, ensuring timely updates and continuous relevance.\n-
-    <b>Establish a robust review process:</b> Set clear deadlines and notifications
-    to ensure timely and thorough reviews by SMEs, which will significantly improve
-    documentation accuracy.\n- <b>Foster shared ownership:</b> Use automation and
-    clear communication to distribute documentation responsibilities across the team,
-    promoting a collaborative approach to quality.\n- <b>Explore automation tools:</b>
-    Gain inspiration to research and implement automation workflows and improve processes
-    for various technical communication challenges.</p>\n<h2>Who and Why:</h2>\n<p>This
-    talk is primarily intended for documentation professionals, including technical
-    writers, content managers, and editors or anyone who is seeking to identify and
-    resolve workflow bottlenecks in software development. Its principles extend beyond
-    documentation, offering significant value to anyone. Audience will gain insight
-    into creating automation workflows and integrating them into their existing project
-    management methodologies.\n<b>Value Addition:</b>\nThis session is highly applicable
-    and important because it addresses a fundamental challenge in modern software
-    or product development: maintaining current and accurate documentation. Audience
-    will learn how to leverage automation to move from a reactive, manual process
-    to a proactive, streamlined workflow. The strategies presented will not only improve
-    documentation quality but also foster greater collaboration and efficiency, ultimately
-    leading to a more robust and sustainable documentation ecosystem.</p>\n<h2>About
-    Me:</h2>\n<p>I’m Dimple Poojary, a senior technical writer with IONOS Cloud. With
-    18 years of experience, I’ve successfully designed, developed, and maintained
-    comprehensive technical documentation across diverse industries, including cloud
-    storage, cloud computing, aviation software, network control and security solutions,
-    digital automotive platforms, ERP, and healthcare.  </p>\n<p>I hold a degree in
-    Computer Science and Engineering from India and have resided in Berlin for the
-    past six years. My career has provided me with diverse experience in developing
-    documentation, and I am passionate about mentoring and guiding others who are
-    interested in pursuing a career in technical writing. </p>\n<p>I've long been
-    a follower of Write the Docs (WTD), and recently, I took my first steps to become
-    an active member of the community. A few months ago, I joined one of the meetups,
-    and I recently joined the WTD Berlin Slack channel. I'm now gathering the courage
-    to attend more events. This would be my first-ever talk, and if given the opportunity,
-    I'd be thrilled to share my insights and become an active member of the community.
-    I am eager to contribute in every possible way, especially by mentoring junior
-    writers.</p>"
+  abstract: '<p>As a senior technical writer, I''ve long grappled with the persistent
+    challenge of keeping documentation current and accurate. The manual process of
+    tracking which documents needed updates, assigning them to team members and reminding
+    them to update documentation for their respective product categories often felt
+    like an uphill battle, consuming valuable time and resources.</p>
+
+    <p>In the fast-paced world of agile development, documentation can quickly become
+    outdated without active management. This issue is widespread; studies show that
+    inconsistent documentation is a significant roadblock to collaboration and a major
+    challenge in agile development without active management. </p>
+
+    <p>I realized there had to be a better way to seamlessly integrate documentation
+    maintenance into our daily agile workflow and foster a sense of shared and continued
+    ownership.</p>
+
+    <p>In this session, learn how I tackled this problem head-on by designing and
+    implementing a robust automated workflow linked directly to our sprint board by
+    leveraging our existing tools; this transformed how our team approached documentation
+    maintenance. What was once a burdensome manual process is now a streamlined, automated
+    part of every sprint cycle.</p>'
 - title: Portable docs for data sovereignty
   slug: portable-docs-for-data-sovereignty-val-grimm
   series: Write the Docs Berlin
@@ -427,19 +305,11 @@
 
     <ul>
 
-    <li>
+    <li>how the Write the Docs communities (plural!) have emerged and changed over
+    the past ten years</li>
 
-    <p>how the Write the Docs communities (plural!) have emerged and changed over
-    the past ten years</p>
-
-    </li>
-
-    <li>
-
-    <p>how other communities have shifted (techwr-l, ) or disbanded (Society for Technical
-    Communication), or expanded (tekom)</p>
-
-    </li>
+    <li>how other communities have shifted (techwr-l, ) or disbanded (Society for
+    Technical Communication), or expanded (tekom)</li>
 
     </ul>
 
@@ -477,33 +347,6 @@
     the framework from "How to grow as a technical writer." My goal is to offer a
     humane, honest look at how we can direct our careers with intention.</p>
 
-    <p>I’ll structure the talk as a story in two parts:</p>
-
-    <ul>
-
-    <li>
-
-    <p>First, we have to be honest about failure. Before we can talk about growth,
-    we have to look at what''s holding us back. I''ll make the case that most of our
-    professional "failures" aren''t personal flaws but symptoms of the systems we
-    work in. We''ll discuss the common traps we fall into so we can learn to recognize
-    them for what they are.</p>
-
-    </li>
-
-    <li>
-
-    <p>Then, we can talk about the path forward. How do we move past these roadblocks?
-    I''ll share a concept I call "Dynamic Seniority," which is about rejecting the
-    trap of being merely "productive" in favor of the messier, more meaningful work
-    of making a qualitative impact. To make this tangible, I''ll share the key practices
-    I''ve come to rely on, all fueled by what I see as the three core principles of
-    growth: restlessness, courage, and generosity.</p>
-
-    </li>
-
-    </ul>
-
     <p>This isn''t another talk about climbing the career ladder. It''s a confession,
     a reflection, and a collection of strategies for finding purpose in our work.
     My hope is that people will leave feeling less alone in their struggles and with
@@ -534,13 +377,18 @@
     guides, our how-tos reflect real-world tasks—and we’ll show you how to do the
     same in just 30 minutes.</p>
 
-    <p>After listening to this talk, you will have:
+    <p>After listening to this talk, you will have:</p>
 
-    - A strategy to evaluate your existing how-to documentation
+    <ul>
 
-    - Our exact formula for crafting how-tos using the “every page is page one” methodology
+    <li>A strategy to evaluate your existing how-to documentation</li>
 
-    - … and how-tos that won’t break on your users ever again!</p>
+    <li>Our exact formula for crafting how-tos using the “every page is page one”
+    methodology</li>
+
+    <li>… and how-tos that won’t break on your users ever again!</li>
+
+    </ul>
 
     <p>It doesn’t matter if your how-tos cover APIs, UI, or something in between,
     these strategies are tool-agnostic and user-first.</p>'
@@ -582,24 +430,7 @@
     <p>Writing about technologies like PTP and NTP, I found myself documenting what
     felt like magic—explaining how we measure and coordinate time across billions
     of devices, while including the human stories behind these systems, like the blind
-    NTP maintainer who did this crucial work until his death in 2024.</p>
-
-    <p>Key takeaways:</p>
-
-    <ul>
-
-    <li>A practical framework for writing that serves both expert and lay audiences—especially
-    valuable for non-technical writers thrust into technical domains</li>
-
-    <li>Creating documentation practices for advocacy and transparency purposes</li>
-
-    <li>Strategies for collaborating internally with program managers and technologists
-    as well as open source communities to extract and verify technical information</li>
-
-    <li>How to discover and communicate the human stories that make complex infrastructure
-    compelling</li>
-
-    </ul>'
+    NTP maintainer who did this crucial work until his death in 2024.</p>'
 - title: '“Gyadaros has pretty teeth, dear”: Theatre, Pokémon, and software docs'
   slug: gyadaros-has-pretty-teeth-dear-theatre-pok-mon-and-software-docs-maximilian-rosin
   series: Write the Docs Berlin
