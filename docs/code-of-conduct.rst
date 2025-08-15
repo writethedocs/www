@@ -164,7 +164,6 @@ Australia Code-of-Conduct Team
 
 .. include:: /include/conf/coc/au-coc.rst
 
-
 Thanks
 ~~~~~~
 

@@ -28,14 +28,14 @@ buttons:
        link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
-     - text: Submit a Talk
-       link: /cfp
+    # - text: Submit a Talk
+    #   link: /cfp
 #    - text: See the Schedule!
 #      link: /schedule
 #    - text: Buy a Ticket
 #      link: /tickets
-    #- text: See the Speakers
-    #  link: /speakers
+     - text: See the Speakers
+       link: /speakers
     # - text: Attendee Guide
     #   link: /attendee-guide
     # - text: Watch the Live Stream
@@ -49,14 +49,14 @@ buttons:
        link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
-     - text: Submit a Talk
-       link: /cfp
+    # - text: Submit a Talk
+    #   link: /cfp
     # - text: Buy a Ticket!
     #   link: /tickets
     # - text: See the Schedule
     #   link: /schedule
-#    - text: See the Talks
-#      link: /speakers
+     - text: See the Talks
+       link: /speakers
 #    - text: Read the Guide
 #      link: /attendee-guide
     # - text: Watch the Live Stream
@@ -224,7 +224,7 @@ flaghassponsors: True
 flagcfp: True
 flagticketsonsale: True
 flagsoldout: False
-flagspeakersannounced: False
+flagspeakersannounced: True
 flagrunofshow: False
 flaghasschedule: False
 flagscheduleincomplete: True

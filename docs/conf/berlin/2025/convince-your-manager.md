@@ -6,7 +6,7 @@ banner: _static/conf/images/headers/2025/unconference.jpg
 
 # Convince Your Manager
 
-Do you need help justifying why your manager should send you to Write the Docs? Don’t worry – you’re not alone. Based on the experiences of some of our previous attendees, we’ve put together two sample emails and a list of resources below. Feel free to adapt and share with your employer and community to convince them that there are many benefits of attending!
+Do you need help justifying why your manager should send you to Write the Docs? Don’t worry – you’re not alone. Based on the experiences of some of our previous attendees, we’ve put together a sample email and a list of resources below. Feel free to adapt and share with your employer and community to convince them that there are many benefits of attending!
 
 ## Sample Email #1
 
@@ -28,7 +28,7 @@ Remember to change the things in [brackets]!
 
 *Costs:*
 
-- *[Conference ticket](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/) - $650*
+- *[Conference ticket](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/) - {{tickets.corporate.price}}*
 
 *Benefits:*
 
@@ -45,7 +45,7 @@ When discussing how to pitch the conference, a few generally helpful tips emerge
 
 - Highlight specific talks that relate to ongoing projects at work (after talk line up has been announced).
 - If your company is looking to hire another documentarian, the networking is an excellent resource.
-- Attending raises the visibility of your company in the community. 
+- Attending raises the visibility of your company in the community.
 - Establishes your team's reputation for caring about their docs.
 - Share info about previous conferences. View the [main page overview](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/) explaining Write the Docs, history, and schedule overview.
 
