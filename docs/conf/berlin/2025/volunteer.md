@@ -5,9 +5,9 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 # Volunteer Information
 
-Our Volunteer application is open! We are looking for volunteers to provide support with a variety of conference roles - registration, unconference, stage support, load out, and more.
+Our Volunteer application is open! We are looking for volunteers to provide support with a variety of conference roles - registration, unconference, load out, and more.
 
-Completing this form gives us an idea of what days and roles you are interested in volunteering. Another form will be sent out once the speaker schedule is released in early March.
+Completing this form gives us an idea of what days and roles you are interested in volunteering. Another form will be sent out once the speaker schedule is released.
 
 Each individual who volunteers for two or more 3-4 hour shifts receives a **free ticket** to the conference.
 
@@ -35,10 +35,6 @@ Each volunteer must work two assigned shifts 3-4 hours in length. Each individua
 
 Check in attendees, provide general information inquiries, answer venue questions, and field other requests or direct individuals to the correct staff member who can provide support.
 
-#### Stage Support
-
-- Assist presenters while on stage - troubleshoot issues with slides, video, or audio portions of their presentation. Please apply for this role if you have some A/V knowledge; it is not required, but experience with different operating systems is a plus!
-
 #### Unconference
 
 - Assist the Unconference coordinator, help folks sign up to host a session, maintain an updated schedule, direct individuals and groups to their tables, and minimal clean up of tables.
@@ -49,6 +45,6 @@ Check in attendees, provide general information inquiries, answer venue question
 
 ### Will travel assistance be provided?
 
-Unfortunately, we cannot offer travel assistance to volunteers. 
+Unfortunately, we cannot offer travel assistance to volunteers.
 
 Contact katie@writethedocs.org with any additional questions.
