@@ -38,6 +38,7 @@ Buy your tickets soon
 ---------------------
 
 If you haven't gotten your ticket yet, now's the time to begin the process to attend.
+We do expect the conference to sell out a few weeks before the event.
 Please ensure to arrange your travel only after buying a conference ticket.
 If you need additional information, we have a few resources to help you:
 
