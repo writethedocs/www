@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 :og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
-.. post:: Aug 15, 2025
+.. post:: Aug 18, 2025
    :tags: {{shortcode}}-{{year}}, speakers, tickets, visiting, sponsors
 
 Announcing {{city}} {{year}} conference speakers
