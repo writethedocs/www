@@ -17,7 +17,7 @@ Some conference housekeeping
 
 * If you already registered a ticket for the conference, we will refund these promptly and in full, without any cancellation fees.
 * For those who submitted a talk proposal, we thank you greatly and invite you to resubmit your talks for our conferences (Portland, Berlin, Australia) next year.
-* We will be closing the CFP process before the weekend, cancel future ticket sales, and publish this announcement on the conference website, along with the relevant Write the Docs Slack channels and other social media.
+* We will close the CFP process, cancel future ticket sales, and publish this announcement on the conference website, along with the relevant Write the Docs Slack channels and other social media.
 
 What about the meetups and what about next year?
 -------------------------------------------------
