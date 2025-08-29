@@ -22,7 +22,7 @@ Some conference housekeeping
 What about the meetups and what about next year?
 -------------------------------------------------
 
-We have a meetup currently planned for 24th Sept in Melbourne, but given the low numbers of RSVPs, this will not go ahead as planned. We will also pause planning any other meetup events until early next year.
+We have a meetup currently planned for 24th Sept in Melbourne, which will go ahead as planned. We will, however, pause planning any other meetup events until early next year.
 
 The Australia Write the Docs team is relatively small. We would love to see some more participation from the wider community across our time zones, in terms of ideas, involvement in local events, ways to reboot the conference in alignment with expectations, and fresh enthusiasm!
 
