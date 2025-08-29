@@ -6,7 +6,7 @@
 Cancelling WTD Australia 2025 conference
 =========================================
 
-G'day folks. We're writing to let you know that we have decided to cancel our WTD Australia conference for 2025.
+G'day folks. We're writing to let you know that we have decided to cancel our Write the Docs Australia conference for 2025.
 
 Cancelling the conference wasn't our first choice, and we engaged the community seeking ideas on whether we should pivot to a smaller or a more focussed event, but taking a break emerged as the clear path forward.
 This has not been an easy decision, and we recognise that some people may be disappointed, but with the stress of the current job market and uncertainties emerging from a rapidly changing work environment, this is a good time to take a break.
