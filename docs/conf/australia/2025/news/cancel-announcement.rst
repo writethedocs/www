@@ -11,7 +11,6 @@ G'day folks. We're writing to let you know that we have decided to cancel our WT
 Cancelling the conference wasn't our first choice, and we tried engaging the community to provide us ideas on how we could pivot to a smaller or a focussed event that still catered to our community, but we did not receive enough data for this to take any considerable shape.
 This has not been an easy decision, and we recognise that some people may be disappointed with the decision, but this is a good time as any to take a break from the stress of the current job market, and uncertainties emerging from a rapidly changing work environment.
 
-While the community engagement and support have been fantastic across our remote meetup events and conferences, we have all felt stressed and burnt-out at various times during the last couple of years.
 
 Some conference housekeeping
 -----------------------------
