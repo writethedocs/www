@@ -1,0 +1,37 @@
+:template: {{year}}/generic.html
+
+.. post:: August 29, 2025
+   :tags: {{shortcode}}-{{year}}, announcement, conference
+
+Cancelling WTD Australia 2025 conference
+=========================================
+
+G'day folks. We're writing to let you know that we have decided to cancel our WTD Australia conference for 2025.
+
+Cancelling the conference wasn't our first choice, and we tried engaging the community to provide us ideas on how we could pivot to a smaller or a focussed event that still catered to our community, but we did not receive enough data for this to take any considerable shape.
+This has not been an easy decision, and we recognise that some people may be disappointed with the decision, but this is a good time as any to take a break from the stress of the current job market, and uncertainties emerging from a rapidly changing work environment.
+
+While the community engagement and support have been fantastic across our remote meetup events and conferences, we have all felt stressed and burnt-out at various times during the last couple of years.
+
+Some conference housekeeping
+-----------------------------
+
+* If you already registered a ticket for the conference, we will refund these promptly and in full, without any cancellation fees.
+* For those who submitted a talk proposal, we thank you greatly and invite you to resubmit your talks for our conferences (Portland, Berlin, Australia) next year.
+* We will be closing the CFP process before the weekend, cancel future ticket sales, and publish this announcement on the conference website, along with the relevant Write the Docs Slack channels and other social media.
+
+What about the meetups and what about next year?
+-------------------------------------------------
+
+We have a meetup currently planned for 24th Sept in Melbourne, but given the low numbers of RSVPs, this will not go ahead as planned. We will also pause planning any other meetup events until early next year, which will hopefully give the team some time to retrospect and plan better.
+
+In terms of the annual conference next year, we would love to see some more participation from the wider community across our timezones, in terms of ideas, involvement in local events, and ways to reboot the conference in alignment with expectations.
+When we first started the Write the Docs Australia community in 2016, we built, and grew this around active participation from folks, but over the recent years, particularly post-COVID, we have seen a drop-off in numbers both at our local events, and the annual conference. This has made planning for events and the conference a super-focussed task, but given the enthusiasm and current engagement from the community, we have no choice but to take a break this year.
+
+
+Other conferences and activities
+--------------------------------
+This announcement **does not** affect any of our other conferences and activities.
+Our Berlin 2025 conference will still take place as planned. Tickets are currently on sale, and we have announced the schedule on the website.
+
+Stay safe and we hope to see you next year!
