@@ -8,7 +8,7 @@ Cancelling WTD Australia 2025 conference
 
 G'day folks. We're writing to let you know that we have decided to cancel our WTD Australia conference for 2025.
 
-Cancelling the conference wasn't our first choice, and we tried engaging the community to provide us ideas on how we could pivot to a smaller or a focussed event that still catered to our community, but we did not receive enough data for this to take any considerable shape.
+Cancelling the conference wasn't our first choice, and we engaged the community seeking ideas on whether we should pivot to a smaller or a more focussed event, but taking a break emerged as the clear path forward.
 This has not been an easy decision, and we recognise that some people may be disappointed with the decision, but this is a good time as any to take a break from the stress of the current job market, and uncertainties emerging from a rapidly changing work environment.
 
 
