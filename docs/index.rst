@@ -21,7 +21,7 @@ Attend a conference
 We have in-person and virtual conferences around the world:
 
    - :doc:`Berlin 2025 </conf/berlin/2025/index>`, October 27-28, **Berlin - Germany**
-   - :doc:`Australia 2025 </conf/australia/2025/index>`, November 20-21, **Virtual - AEDT**
+   - **Cancelled** :doc:`Australia 2025 </conf/australia/2025/index>`, November 20-21, **Virtual - AEDT**
 
 Earlier conferences this year:
 
