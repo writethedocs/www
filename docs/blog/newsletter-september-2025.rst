@@ -37,7 +37,7 @@ API documentation experience remains a common requirement in job postings, but t
 
 - `Documenting APIs: A guide for technical writers and engineers <https://idratherbewriting.com/learnapidoc/>`__ by Tom Johnson is a free online course that is especially good for putting beginners at ease.
 - Peter Gruenbaum offers a handful of `API documentation courses on Udemy <https://www.udemy.com/courses/search/?src=ukw&q=peter+gruenbaum>`__ that are often discounted and provide 1- to 2-hour explorations of API documentation and related topics like programming for writers.
-- The `Postman Learning Hub <https://www.postman.com/learn/>`__ is a free resource for learning APIs that includes a targeted `path for beginners <https://academy.postman.com/path/api-beginner>_`_.
+- The `Postman Learning Hub <https://www.postman.com/learn/>`__ is a free resource for learning APIs that includes a targeted `path for beginners <https://academy.postman.com/path/api-beginner>`__.
 
 If you are a beginner and want to learn coding skills, consider these free online courses:
 
