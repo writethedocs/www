@@ -29,10 +29,9 @@ A week before the planned ship date, the editor should:
 
 1. Go through the conversations they've captured.
 2. Select 4 or 5 conversations they think would make a good edition.
-3. Copy all of the conversations into a new Google doc, to share with the writers. (`Example <https://docs.google.com/document/d/1XUuoIDWWvgIvgjZLtkaDwOHk_ERVsCDxqEq8eUqNB6U/edit>`__.)
-4. In the #newsletter channel on Slack, @mention their writers and ask them to pick a story for the month.
+3. In the #newsletter channel on Slack, @mention their writers and ask them to pick a story for the month.
 
-   Link to the new Google doc, and set a deadline to have drafts back, 2-3 days before shipping.
+   Link to each of the conversations and set a deadline to have drafts back, 2-3 days before shipping.
 
 Picking the stories
 -------------------
