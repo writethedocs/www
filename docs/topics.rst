@@ -145,6 +145,7 @@ Task-based writing
 API docs
 ~~~~~~~~
 
+- |:newspaper:| `Improving your API documentation skills </blog/newsletter-september-2025/#improving-your-api-documentation-skills>`__
 - |:newspaper:| `Should APIs be documented with code? </blog/newsletter-october-2024/#should-apis-be-documented-with-code>`__
 - |:newspaper:| `API design with docs in mind </blog/newsletter-september-2024/#api-design-with-docs-in-mind>`__
 - |:movie_camera:| `Shuffle ball change: Sashay your way to clearer API documentation </videos/portland/2021/shuffle-ball-change-sashay-your-way-to-clearer-api-documentation-rachael-stavchansky/>`__
@@ -185,6 +186,7 @@ Other specific doc types
 
 Including how-tos, reference docs, tutorials, and books.
 
+- |:newspaper:| `Scaling beta docs without the headache </blog/newsletter-september-2025/#scaling-beta-docs-without-the-headache>`__
 - |:newspaper:| `Tips for improving code documentation </blog/newsletter-february-2025/#tips-for-improving-code-documentation>`__
 - |:newspaper:| `Documenting YAML Files </blog/newsletter-july-2023/#documenting-yaml-files>`__
 - |:newspaper:| `Code samples: Comments and placeholder text </blog/newsletter-june-2023/#code-samples-comments-and-placeholder-text>`__
@@ -564,6 +566,7 @@ DITA
 AI and LLMs
 ~~~~~~~~~~~
 
+- |:newspaper:| `The effect of LLMs on docs use </blog/newsletter-september-2025/#the-effect-of-llms-on-docs-use>`__
 - |:newspaper:| `How documentarians use AI (or LLMs) </blog/newsletter-july-2025/#how-documentarians-use-ai-or-llms>`__
 - |:newspaper:| `Writing AI-friendly *and* human-readable documentation </blog/newsletter-february-2025/#writing-ai-friendly-and-human-readable-documentation>`__
 - |:newspaper:| `Accelerating Documentation Creation with AI </blog/newsletter-april-2024/#accelerating-documentation-creation-with-ai>`__
@@ -733,6 +736,7 @@ Style guides
 Working across roles
 --------------------
 
+- |:newspaper:| `Keeping cool when challenged </blog/newsletter-september-2025/#keeping-cool-when-challenged>`__
 - |:newspaper:| `Behavior in text vs in person in the workplace </blog/newsletter-march-2025/#behavior-in-text-vs-in-person-in-the-workplace>`__
 - |:movie_camera:| `Cultivating a Stakeholder Network for Our Docs: How Building Relationships Improves Our Content </videos/prague/2022/cultivating-a-stakeholder-network-for-our-docs-how-building-relationships-impro-taylor-cole/>`__
 - |:newspaper:| `The strengths of different backgrounds </blog/newsletter-november-2019/#the-strengths-of-different-backgrounds>`__
