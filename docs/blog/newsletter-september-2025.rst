@@ -58,7 +58,7 @@ Some docs-as-code teams use a separate branch and staging site, granting beta cu
 
 You can achieve similar goals with tools such as MadCap Flare. Use these tools to publish conditionally, sending beta docs to a restricted site while maintaining public access for general content.
 
-Other teams rely on in-doc disclaimers -- warnings that features are in beta (such as example currently in `Flexera’s public docs <https://docs-snow.flexera.com/snow-atlas/user-documentation/saas/browser-extension/token-broker-proxy/#install-as-a-windows-service>`__). These disclaimers are easy to remove when no longer needed, but users often miss them. Pairing banners with notices in the UI or release notes enhances visibility.
+Other teams rely on in-doc disclaimers -- warnings that features are in beta (such as an example currently in `Flexera’s public docs <https://docs-snow.flexera.com/snow-atlas/user-documentation/saas/browser-extension/token-broker-proxy/#install-as-a-windows-service>`__). These disclaimers are easy to remove when no longer needed, but users often miss them. Pairing banners with notices in the UI or release notes enhances visibility.
 
 Some organizations formalize beta stages with phased documentation:
 
@@ -80,7 +80,7 @@ For some docs sites, rather than sites where the product is information, a decre
 
 Other companies have long tracked conversions from their docs – they've seen how good docs can turn people into happy customers. So potentially having fewer people visiting the docs means fewer people using the product.
 
-Some research has indicated LLM use was especially prominent among a more technical audience, who preferred to stay within their coding environment as much as possible. Some `other research <https://www.wired.com/story/the-less-people-know-about-ai-the-more-they-like-it/>`__ has indicated that those who know more about AI may be less inclined to using it.
+Some research has indicated LLM use was especially prominent among a more technical audience, who preferred to stay within their coding environment as much as possible. Some `other research <https://www.wired.com/story/the-less-people-know-about-ai-the-more-they-like-it/>`__ has indicated that those who know more about AI may be less inclined to use it.
 
 However people consume the information, remember that high-quality docs are important for clear answers, whether the reader is a person or an LLM. Focus on presenting well-structured information to make it more likely that users can find accurate information however they look.
 
