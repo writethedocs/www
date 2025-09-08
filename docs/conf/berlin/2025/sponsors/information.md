@@ -66,7 +66,7 @@ Sponsor booths are set up in the main hallway on Monday and Tuesday outside of t
 
 **Logistics**:
 
-* **We provides**: Each sponsor receives a 200x80cm (6.5') table, 2 chairs, and access to power and Wi‑Fi. You must provide your own linen.
+* **We provide**: Each sponsor receives a 200x80cm (6.5') table, 2 chairs, and access to power and Wi‑Fi. You must provide your own linen.
 * You are responsible for loading in and loading out your entire booth setup.
 * **Recommendations**: We encourage you to bring a table linen with your company logo and laptop or tablet to show off your product. Some sponsors bring a banner frame to place behind their table. Check in with the Sponsorship Coordinator for specific setup questions.
 * **Arrive early for setup**: Sponsor arrival is 07:00 on Monday; the conference venue opens at 08:00. We recommend arriving on time to be set up for attendee arrival.
@@ -104,7 +104,7 @@ You should have received a unique URL with a discount code for your sponsorship 
 ### How should I send my booth materials?
 
 * Patron sponsors are allowed to send 3 boxes at 61 × 46 × 46 cm (24 × 18 × 18 in) in size. Please contact us for the shipping address.
-* Packages must arrive between 1 week before the conference at most.
+* Packages must arrive 1 week before the conference at most.
 * Sponsors are responsible for all sponsorship materials after they arrive at the venue. 
 * Sponsors are responsible for mailing all materials after the conference. 
 * Please print your return shipping labels prior to coming to the venue to send your materials back.
