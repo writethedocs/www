@@ -21,12 +21,12 @@ The address is: Paul-Lincke-Ufer 21, 10999 Berlin
 * 07:00: Arrival and booth setup for Patron sponsors
 * 08:00: Doors to venue/sponsor booths open
 * 09:30–17:00: Speaker Talks and Unconference
-* 10:55: Booth sponsor introductions on main stage
+* 11:35: Booth sponsor introductions on main stage
 
 **TUESDAY**:
 
-* 07:45: Patron sponsor arrival
-* 08:00: Doors to venue/sponsor booths open
+* 08:00: Patron sponsor arrival
+* 08:30: Doors to venue/sponsor booths open
 * 09:00–16:00: Speaker Talks and Unconference
 * 16:00: Conference ends/load out
 * 17:30: Out of the venue 
@@ -34,9 +34,9 @@ The address is: Paul-Lincke-Ufer 21, 10999 Berlin
 ## Conference Overview
 
 
-* **MONDAY**: Day 1 of Speaker Talks and Unconference. Booth setup begins for Patron sponsors at 07:00. Attendees begin to arrive at 08:00. Sponsor introductions will happen after the first coffee break on the main stage for booth sponsors. Two thirds of attendees check in early this morning. There are seven speakers, with a short break after each talk. The Unconference track runs parallel to Speaker Talks. 
+* **MONDAY**: Day 1 of Speaker Talks and Unconference. Booth setup begins for Patron sponsors at 08:00. Attendees begin to arrive at 08:30. Sponsor introductions will happen after the first coffee break on the main stage for booth sponsors. Two thirds of attendees check in early this morning. There are seven speakers, with a short break after each talk. The Unconference track runs parallel to Speaker Talks. 
 
-* **TUESDAY**: Day 2 of Speaker Talks and Unconference. Patron sponsor arrival is at 07:45. Doors open at 08:00. Schedule is similar to Monday. There are six speakers this day. Tear down for sponsors starts at 16:00, and all things must be removed from the venue the last day of the conference.
+* **TUESDAY**: Day 2 of Speaker Talks and Unconference. Patron sponsor arrival is at 08:00. Doors open at 08:30. Schedule is similar to Monday. There are six speakers this day. Tear down for sponsors starts at 16:00, and all things must be removed from the venue the last day of the conference.
 
 The [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) will be available around a month before the conference.
 
@@ -66,7 +66,7 @@ Sponsor booths are set up in the main hallway on Monday and Tuesday outside of t
 
 **Logistics**:
 
-* **We provides**: Each sponsor receives a 2.4 m (8 ft) table, 2 chairs, and access to power and Wi‑Fi. You must provide your own linen.
+* **We provides**: Each sponsor receives a 200x80cm (6.5') table, 2 chairs, and access to power and Wi‑Fi. You must provide your own linen.
 * You are responsible for loading in and loading out your entire booth setup.
 * **Recommendations**: We encourage you to bring a table linen with your company logo and laptop or tablet to show off your product. Some sponsors bring a banner frame to place behind their table. Check in with the Sponsorship Coordinator for specific setup questions.
 * **Arrive early for setup**: Sponsor arrival is 07:00 on Monday; the conference venue opens at 08:00. We recommend arriving on time to be set up for attendee arrival.
@@ -74,21 +74,6 @@ Sponsor booths are set up in the main hallway on Monday and Tuesday outside of t
 * **Bring swag (especially stickers)**: We recommend bringing a variety of swag to give away. Stickers are by far the most popular item for our attendees.
 * **Engage with folks as both a sponsor and attendee**: This is a great opportunity to meet folks in the community, so we recommend engaging with folks in an official capacity, but also as a regular attendee.
 * **Use QR codes**: QR codes are a great way to get people to a website quickly. We recommend using a service like <https://www.qr-code-generator.com/> to create these.
-
-### Lightning Talks
-
-If your sponsorship includes a Lightning Talk, you will be given 60 seconds to present on the main stage. This is a great way to introduce your company to the entire audience.
-
-**Logistics**:
-
-* Your 60-second introduction will occur on Monday or Tuesday, after lunch and before Lightning Talks begin.
-* If you want to use a slide for your introduction, let us know. Otherwise, we will create a slide with your logo.
-
-**Logistics**:
-
-* Sessions are on Sunday in the morning, afternoon, or all day.
-* View our [Lead a Project](https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/writing-day/#lead-a-project) for more information.
-
 
 ### Unconference
 
@@ -118,8 +103,8 @@ You should have received a unique URL with a discount code for your sponsorship 
 
 ### How should I send my booth materials?
 
-* Patron sponsors are allowed to send 3 boxes at 61 × 46 × 46 cm (24 × 18 × 18 in) in size. Please contact us for the shipping address for an organizer, as the venue doesn't accept packages.
-* Packages must arrive between 1 and 2 weeks before the conference.
+* Patron sponsors are allowed to send 3 boxes at 61 × 46 × 46 cm (24 × 18 × 18 in) in size. Please contact us for the shipping address.
+* Packages must arrive between 1 week before the conference at most.
 * Sponsors are responsible for all sponsorship materials after they arrive at the venue. 
 * Sponsors are responsible for mailing all materials after the conference. 
 * Please print your return shipping labels prior to coming to the venue to send your materials back.
