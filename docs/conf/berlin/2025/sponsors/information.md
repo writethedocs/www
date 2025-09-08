@@ -75,6 +75,16 @@ Sponsor booths are set up in the main hallway on Monday and Tuesday outside of t
 * **Engage with folks as both a sponsor and attendee**: This is a great opportunity to meet folks in the community, so we recommend engaging with folks in an official capacity, but also as a regular attendee.
 * **Use QR codes**: QR codes are a great way to get people to a website quickly. We recommend using a service like <https://www.qr-code-generator.com/> to create these.
 
+### Sponsor Introduction
+
+If you have a sponsorship booth, you will have 30 seconds on stage to introduce yourself to the attendees. This is a great opportunity to share what your company does and what you are showcasing at the conference, especially why they should come talk with you at the booth.
+
+**Logistics**:
+
+* Sponsor introductions happen at the end of the first snack break on Monday.
+* Please keep your introduction to 30 seconds to ensure all sponsors have equal time.
+* You will have a slide on the stage with your company logo displayed on it. Let us know if you'd like a custom slide with additional information (eg. a QR code and additional info).
+
 ### Unconference
 
 The Unconference provides the opportunity for sponsors and attendees to lead, contribute, share ideas, and discuss problems in an organized setting away from main stage talks.  
