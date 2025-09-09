@@ -18,7 +18,7 @@ We’re excited to celebrate year 12 with your support!
 
 .. If you're a prospective sponsor, you can view our `PDF sponsorship prospectus <https://drive.google.com/file/d/1CCs5nSG6HTUsYNy8tV9UqjW0yXq8PsQC/view?usp=sharing>`_ if you prefer that format.
 
-.. If you're an existing sponsor looking for next steps, check out our `Sponsorship Information page <{{site}}/conf/{{shortcode}}/{{year}}/sponsors/information>`_.
+If you're an existing sponsor looking for next steps, check out our `Sponsorship Information page <{{site}}/conf/{{shortcode}}/{{year}}/sponsors/information>`_.
 
 Concept
 =======
