@@ -180,6 +180,7 @@ cfp-details:
   url: str(required=True)
   ends: str(required=True)
   notification: str(required=True)
+  confirm_by: str(required=False)
   video_by: str(required=False)
   slides_by: str(required=False)
   info_by: str(required=False)
