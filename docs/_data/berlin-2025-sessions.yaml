@@ -1,143 +1,478 @@
-- title: Talk 1
-  slug: talk-1
+- title: 'Developer Experience in Technical Writing: 15 Practical Tips to Boost Developer
+    Satisfaction'
+  slug: developer-experience-in-technical-writing-15-practical-tips-to-boost-developer-michiel-mulders
   series: Write the Docs Berlin
   series_slug: berlin
   year: 2025
   speakers:
-  - name: Speaker
-    slug: speaker
-    twitter: 
-    website: 
-  abstract: abstract
-- title: Talk 2
-  slug: talk-2
+  - name: Michiel Mulders
+    slug: michiel-mulders
+    twitter:
+    website: https://www.docu.agency/
+  abstract: '<p>Great developer experience (DX) transforms your product from just
+    another tool into one that developers genuinely love. But how exactly do you achieve
+    a DX that not only meets expectations but consistently delights?</p>
+
+    <p>Drawing from my extensive hands-on experience as a Developer Evangelist, I''ll
+    share 15 proven, practical techniques to elevate your product''s developer experience
+    significantly. These strategies span beyond documentation to include interactive
+    playgrounds, ready-to-use boilerplates tailored for various programming languages,
+    streamlined CLI tooling for common tasks, optimized documentation search functionality,
+    and intuitive visual navigation cues.</p>
+
+    <p>This isn''t a theoretical overview; it''s a session filled with actionable
+    insights and real-world examples that attendees can apply directly. You''ll discover:</p>
+
+    <ul>
+
+    <li>How interactive playgrounds dramatically accelerate developer onboarding and
+    reduce the "time to first success."</li>
+
+    <li>Techniques for creating boilerplates and templates that significantly reduce
+    setup overhead and enable faster project initiation.</li>
+
+    <li>Effective methods to improve documentation discoverability through advanced
+    search optimizations, including synonyms and weighted indexing.</li>
+
+    <li>Ways to leverage simple yet powerful CLI tools and automations to eliminate
+    mundane tasks and improve workflow efficiency.</li>
+
+    <li>Visual navigation strategies to ensure developers always know their next steps,
+    removing uncertainty and friction from your documentation experience.</li>
+
+    </ul>
+
+    <p>By the end of this talk, you''ll have practical tools and clear insights to
+    proactively enhance your product’s DX, helping to increase developer productivity,
+    engagement, and satisfaction. Whether you''re a developer advocate, technical
+    writer, product manager, or developer, this session will equip you to transform
+    your developer experience into a standout feature of your product.</p>'
+- title: 'Activating Product Knowledge: Where Global Education Meets Documentation'
+  slug: activating-product-knowledge-where-global-education-meets-documentation-stephan-delbos
   series: Write the Docs Berlin
   series_slug: berlin
   year: 2025
   speakers:
-  - name: Speaker
-    slug: speaker
-    twitter: 
-    website: 
-  abstract: abstract
-- title: Talk 3
-  slug: talk-3
-  series: Write the Docs Berlin
-  series_slug: berlin
-  year: 2025
-  speakers:
-  - name: Speaker
-    slug: speaker
-    twitter: 
-    website: 
-  abstract: abstract
-- title: Talk 4
-  slug: talk-4
-  series: Write the Docs Berlin
-  series_slug: berlin
-  year: 2025
-  speakers:
-  - name: Speaker
-    slug: speaker
-    twitter: 
-    website: 
-  abstract: abstract
-- title: Talk 5
-  slug: talk-5
-  series: Write the Docs Berlin
-  series_slug: berlin
-  year: 2025
-  speakers:
-  - name: Speaker
-    slug: speaker
-    twitter: 
-    website: 
-  abstract: abstract
-- title: Talk 6
-  slug: talk-6
-  series: Write the Docs Berlin
-  series_slug: berlin
-  year: 2025
-  speakers:
-  - name: Speaker
-    slug: speaker
-    twitter: 
-    website: 
-  abstract: abstract
-- title: Talk 7
-  slug: talk-7
-  series: Write the Docs Berlin
-  series_slug: berlin
-  year: 2025
-  speakers:
-  - name: Speaker
-    slug: speaker
-    twitter: 
-    website: 
-  abstract: abstract
-- title: Talk 8
-  slug: talk-8
-  series: Write the Docs Berlin
-  series_slug: berlin
-  year: 2025
-  speakers:
-  - name: Speaker
-    slug: speaker
-    twitter: 
-    website: 
-  abstract: abstract
-- title: Talk 9
-  slug: talk-9
-  series: Write the Docs Berlin
-  series_slug: berlin
-  year: 2025
-  speakers:
-  - name: Speaker
-    slug: speaker
-    twitter: 
-    website: 
-  abstract: abstract
-- title: Talk 10
-  slug: talk-10
-  series: Write the Docs Berlin
-  series_slug: berlin
-  year: 2025
-  speakers:
-  - name: Speaker
-    slug: speaker
-    twitter: 
-    website: 
-  abstract: abstract
-- title: Talk 11
-  slug: talk-11
-  series: Write the Docs Berlin
-  series_slug: berlin
-  year: 2025
-  speakers:
-  - name: Speaker
-    slug: speaker
+  - name: Stephan Delbos
+    slug: stephan-delbos
     twitter:
     website:
-  abstract: abstract
-- title: Talk 12
-  slug: talk-12
+  abstract: '<p>When my technical documentation team merged with global education,
+    we weren’t sure what would come of it. We were focused on software documentation,
+    and they were focused on training hotel staff to utilize that software. But what
+    we discovered was a shared goal: activating product knowledge to help people work
+    better, faster, and with more confidence.</p>
+
+    <p>We began to treat education as a content layer: not separate from product documentation
+    but as a powerful complement to it. This shift opened up new ways to collaborate
+    on onboarding, feature launches, and help content. We aligned our approaches to
+    learning outcomes, audience segmentation, and feedback loops, using documentation
+    as a foundation for scalable learning experiences.</p>
+
+    <p>In this talk, I’ll share how we broke down silos between documentation and
+    education to create a content ecosystem that drives product adoption across a
+    global user base.</p>
+
+    <p>Takeaways:</p>
+
+    <ul>
+
+    <li>How to align documentation and education to serve different learner needs</li>
+
+    <li>How to map documentation to learning outcomes and product goals</li>
+
+    <li>How to build shared workflows that scale knowledge across borders and teams</li>
+
+    <li>Why documentation teams should see themselves as educators</li>
+
+    </ul>
+
+    <p>By connecting documentation and education, we moved from “how it works” to
+    “how to use it well,” turning knowledge into activation.</p>'
+- title: 'If you build it, they will come: Our journey to a unified (and discoverable)
+    documentation platform'
+  slug: if-you-build-it-they-will-come-our-journey-to-a-unified-and-discoverable-doc-ian-cowley
   series: Write the Docs Berlin
   series_slug: berlin
   year: 2025
   speakers:
-  - name: Speaker
-    slug: speaker
+  - name: Ian Cowley
+    slug: ian-cowley
     twitter:
-    website:
-  abstract: abstract
-- title: Talk 13
-  slug: talk-13
+    website: https://www.dufcrule.com/
+  abstract: '<p>Following the acquisition of multiple companies and their different
+    ranges of software platforms, our organisation ended up with a fragmented documentation
+    landscape. It''s a situation that might be familiar to many: our docs were spread
+    across various systems, websites, departments, companies, and formats.</p>
+
+    <p>The main issue was one of discoverability. The documentation was scattered
+    and unorganised, and our users struggled to find the information they needed,
+    when they needed it. At times they were unaware if it even existed. In addition,
+    each piece of documentation followed its own conventions, had different levels
+    of detail, or was organised in a unique way, making it hard to navigate or understand
+    as a whole. Some product documentation was covered only by FAQs, while other software
+    platforms had more detailed user guides. In other cases, we were sending out PDFs
+    generated from Word docs and API documentation was scattered across different
+    websites and used different tooling. Compounding these issues, our documentation
+    teams themselves were geographically dispersed, each operating with different
+    practices.</p>
+
+    <p>This is the story of our journey to consolidating our public-facing documentation
+    into a single website.</p>'
+- title: 'A beautiful reciprocal arrangement: Gaining experience and giving back through
+    open source documentation'
+  slug: a-beautiful-reciprocal-arrangement-gaining-experience-and-giving-back-through-o-tiffany-hrabusa
   series: Write the Docs Berlin
   series_slug: berlin
   year: 2025
   speakers:
-  - name: Speaker
-    slug: speaker
+  - name: Tiffany Hrabusa
+    slug: tiffany-hrabusa
     twitter:
     website:
-  abstract: abstract
+  abstract: '<p>This talk charts one writer’s unconventional path from law librarian
+    to technical writer through open source software (OSS). It illustrates how contributing
+    to OSS can build your skills, professional network, and confidence—even if you
+    start with no experience. Maybe you’re brand new to technical writing. Maybe you’ve
+    written professionally but never documented software. Or maybe you’ve got years
+    of experience in software documentation, but you’ve never written docs-as-code.
+    You’ll get a practical, step-by-step guide to getting involved with and gaining
+    experience from OSS projects. </p>
+
+    <p>Throughout the talk, Tiffany will share hard-earned insights, including how
+    to pick the right project, overcome anxiety, find the right first issue, avoid
+    contributor pitfalls, build a varied portfolio, expand your network, and gain
+    real experience you can use on applications and in interviews. But just as important,
+    this talk will encourage you to reach a place of OSS symbiosis—where you grow
+    through giving back.</p>
+
+    <p>Whether you’re a new technical writer looking for experience or a seasoned
+    pro exploring new skills, this talk will give you the tools and encouragement
+    you need to confidently enter the OSS ecosystem.</p>'
+- title: So you've become a Docs Lead. Now what?
+  slug: so-you-ve-become-a-docs-lead-now-what-kat-stoica-ostenfeld
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2025
+  speakers:
+  - name: Kat Stoica Ostenfeld
+    slug: kat-stoica-ostenfeld
+    twitter:
+    website:
+  abstract: '<p>A lot of people are promoted into Leads roles without proper knowledge
+    about what it means, how it will affect them, and how to proceed.</p>
+
+    <p>Here are things that I have learned along the way, that I think are relevant
+    for all new-ish Leads to know; some of them especially for documentarians.</p>
+
+    <ul>
+
+    <li>Being a strong leader and a manager are two very different things.</li>
+
+    <li>Be prepared to be bad at it; redefining what your job is, unlearning your
+    internal performance metrics, and coming to terms with the meetings being the
+    job.</li>
+
+    <li>Your title walks into the room before you do.</li>
+
+    <li>Changing mindset from a tech writer to a docs lead:  unlearning how to under-commit
+    and over-deliver.</li>
+
+    <li>The human reaction to this new type of role: Be prepared for a mental and
+    emotional debit; tips for handling them.</li>
+
+    <li>Find a framework and lean on it.</li>
+
+    <li>How to Corporate 101.</li>
+
+    </ul>'
+- title: The right tool for the job
+  slug: the-right-tool-for-the-job-ruth-fuchss
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2025
+  speakers:
+  - name: Ruth Fuchss
+    slug: ruth-fuchss
+    twitter:
+    website:
+  abstract: '<p>There is a plethora of tools and frameworks for creating technical
+    documentation, spanning from WYSIWYG content management systems to Git-based docs-as-code
+    approaches - or even Word files on a shared disk. All of these methods can be
+    the right solution for a specific scenario. (Or wait ... maybe not the Word files.
+    And doesn''t everyone use Markdown nowadays anyway?)</p>
+
+    <p>Imagine yourself in a position where you can start (or start over) with your
+    documentation from scratch. Which tool should you choose, and how can you know
+    it is the "right" tool for you?</p>
+
+    <p>This talk will not give any answers. It will, however, give you a LOT of questions!
+    </p>
+
+    <ul>
+
+    <li>Which aspects do you need to consider when choosing a documentation framework?</li>
+
+    <li>What is crucial for your documentation?</li>
+
+    <li>What documentation tools will work for your company?</li>
+
+    </ul>
+
+    <p>Answering these questions for your particular scenario will give you a good
+    idea of what you need from your documentation framework, and consequently let
+    you choose the right tool for YOUR job. And ideally, you will also have a good
+    set of arguments to convince your boss!</p>'
+- title: Automating Documentation Maintenance Workflow Process for Agile Teams
+  slug: automating-documentation-maintenance-workflow-process-for-agile-teams-dimple-poojary
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2025
+  speakers:
+  - name: Dimple Poojary
+    slug: dimple-poojary
+    twitter:
+    website:
+  abstract: '<p>As a senior technical writer, I''ve long grappled with the persistent
+    challenge of keeping documentation current and accurate. The manual process of
+    tracking which documents needed updates, assigning them to team members and reminding
+    them to update documentation for their respective product categories often felt
+    like an uphill battle, consuming valuable time and resources.</p>
+
+    <p>In the fast-paced world of agile development, documentation can quickly become
+    outdated without active management. This issue is widespread; studies show that
+    inconsistent documentation is a significant roadblock to collaboration and a major
+    challenge in agile development without active management. </p>
+
+    <p>I realized there had to be a better way to seamlessly integrate documentation
+    maintenance into our daily agile workflow and foster a sense of shared and continued
+    ownership.</p>
+
+    <p>In this session, learn how I tackled this problem head-on by designing and
+    implementing a robust automated workflow linked directly to our sprint board by
+    leveraging our existing tools; this transformed how our team approached documentation
+    maintenance. What was once a burdensome manual process is now a streamlined, automated
+    part of every sprint cycle.</p>'
+- title: Portable docs for data sovereignty
+  slug: portable-docs-for-data-sovereignty-val-grimm
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2025
+  speakers:
+  - name: Val Grimm
+    slug: val-grimm
+    twitter:
+    website: https://linkedin.com/in/vlgrimm
+  abstract: '<p>A portable documentation publishing approach is particularly relevant
+    right now because many organizations in Europe are interested in regaining their
+    digital sovereignty by transitioning away from technology solutions developed
+    and delivered outside of the EU. Our approach to portability does not fundamentally
+    rely on closed proprietary technologies or cloud platforms, although we used our
+    preferred tools to implement our solution. </p>
+
+    <p>We had a documentation publishing problem that a simple static site could not
+    solve. The platform we were creating for our customer consisted of multiple independent
+    components and was required to operate on a variety of cloud solutions, as well
+    as on-premises in air-gapped facilities. We also didn''t want activities related
+    to documentation to muddy the commit histories of our component repositories.</p>
+
+    <p>Our team solved these issues by approaching our documentation in the same way
+    as we did the rest of our platform: we delivered it as an independent containerized
+    component that we could deploy to all of our platforms in the same way as any
+    other application. </p>
+
+    <p>This talk is not a tutorial. It explains key concepts and provides an illustration
+    of how we applied a containerization approach to meet our needs.</p>'
+- title: 'What''s past is prologue: Write the Docs, communities, and organizing techcomm'
+  slug: what-s-past-is-prologue-write-the-docs-communities-and-organizing-techcomm-jennifer-rondeau
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2025
+  speakers:
+  - name: Jennifer Rondeau
+    slug: jennifer-rondeau
+    twitter:
+    website: (well, I still maintain it anyway ;)) https://www.yourmom.io/
+  abstract: '<p>I''d like to revisit my WTD Prague 2015 talk that was (sorta) about
+    the history of techcomm in the United States, to talk more about international
+    communities and organizations, the changing-but-maybe-not-so-different contexts
+    within which technical writers work, and how Write the Docs in particular has
+    developed over time.</p>
+
+    <p>The 2015 talk ultimately focused on individuals, their stories and a little
+    of the institutional background against which their stories developed. This year
+    I want to talk about communities: </p>
+
+    <ul>
+
+    <li>how the Write the Docs communities (plural!) have emerged and changed over
+    the past ten years</li>
+
+    <li>how other communities have shifted (techwr-l, ) or disbanded (Society for
+    Technical Communication), or expanded (tekom)</li>
+
+    </ul>
+
+    <p>There''s a lot of overlap in interest and membership across all these examples
+    (and others I''ve missed), but they are or have been organized differently and
+    for different purposes. Techwr-l was modelled on old usenet groups (I''d say more
+    about what this means), while the much older STC and the much newer tekom both
+    follow the professional association model, which itself is considerably older
+    still.</p>
+
+    <p>Write the Docs began and continues less formally, but has come to serve many
+    of the same needs for its members. What are the differences and similarities,
+    and how might considering change over time in all these communities help us to
+    imagine where we might go next?</p>'
+- title: 'Failing Well: A Practical Guide to Growth for Technical Writers'
+  slug: failing-well-a-practical-guide-to-growth-for-technical-writers-fabrizio-ferri-benedetti
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2025
+  speakers:
+  - name: Fabrizio Ferri-Benedetti
+    slug: fabrizio-ferri-benedetti
+    twitter:
+    website: https://passo.uno
+  abstract: '<p>Some days, you feel stuck. The work feels repetitive, the promotions
+    don''t come, and you start to wonder if you''re really growing at all. I know
+    that feeling well. This talk is about my journey through those plateaus. We''ll
+    look at failure not as a dead end, but as a signal to look deeper. This is a field
+    guide for moving through those challenges and taking ownership of our professional
+    lives.</p>
+
+    <p>I''ve written a lot about failure and growth because, like many of you, I''ve
+    lived through both. This talk is a synthesis of my most personal thoughts on the
+    subject, combining the reflections from "Failing (and surviving failure)" with
+    the framework from "How to grow as a technical writer." My goal is to offer a
+    humane, honest look at how we can direct our careers with intention.</p>
+
+    <p>This isn''t another talk about climbing the career ladder. It''s a confession,
+    a reflection, and a collection of strategies for finding purpose in our work.
+    My hope is that people will leave feeling less alone in their struggles and with
+    a new perspective to help them direct their own professional journey, especially
+    on the days when that journey feels uphill.</p>'
+- title: 'Rethinking your how-tos: From instructions to solving user problems'
+  slug: rethinking-your-how-tos-from-instructions-to-solving-user-problems-diana-breza
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2025
+  speakers:
+  - name: Diana Breza
+    slug: diana-breza
+    twitter:
+    website:
+  abstract: '<p>“When I run the code example in the docs, it doesn’t work.” </p>
+
+    <p>“I ran the steps in the doc, but I’m still getting an error.”</p>
+
+    <p>Sound familiar? If so, you might need to rethink your how-tos. That’s okay,
+    we did too. And we’re going to show you how we fixed them.</p>
+
+    <p>At Kong, our team of six writers and one docs tooling engineer supports 12
+    products, and we know how quickly how-to docs can get out-of-date. Over the course
+    of a year, we completely rebuilt our approach to documentation, including how-tos.
+    We focused on how users actually interact with docs, copy/pasting down the page,
+    and rewrote our content to match that behavior. Now, instead of broken, frustrating
+    guides, our how-tos reflect real-world tasks—and we’ll show you how to do the
+    same in just 30 minutes.</p>
+
+    <p>After listening to this talk, you will have:</p>
+
+    <ul>
+
+    <li>A strategy to evaluate your existing how-to documentation</li>
+
+    <li>Our exact formula for crafting how-tos using the “every page is page one”
+    methodology</li>
+
+    <li>… and how-tos that won’t break on your users ever again!</li>
+
+    </ul>
+
+    <p>It doesn’t matter if your how-tos cover APIs, UI, or something in between,
+    these strategies are tool-agnostic and user-first.</p>'
+- title: 'Documenting Digital Infrastructure: Explaining Complex Open Source Technologies
+    for Everyone'
+  slug: documenting-digital-infrastructure-explaining-complex-open-source-technologies-powen-shiah
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2025
+  speakers:
+  - name: Powen Shiah
+    slug: powen-shiah
+    twitter:
+    website: powenshiah.com
+  abstract: '<p>When your audience includes both government officials and kernel developers,
+    how do you write in a way that works for everyone? At the Sovereign Tech Agency,
+    we invest in critical open source infrastructure like coreutils, FFmpeg, and systemd—technologies
+    that power everything from scientific research to banking systems. Coming from
+    a marketing background in tech startups, I never expected to find myself explaining
+    time synchronization protocols or memory-safe system utilities to policy analysts
+    or legislative aides.</p>
+
+    <p>Over the past two years, I''ve had to rapidly develop a writing style that
+    serves a dual purpose: transparency about public investments and advocacy for
+    digital infrastructure that most people don''t even know exists. This isn''t traditional
+    technical documentation—it''s public accountability and infrastructure advocacy.
+    Working with maintainers of dozens of open source projects, I''ve learned to navigate
+    the delicate balance between preserving technical accuracy and making content
+    comprehensible to policymakers, journalists, and concerned citizens who need to
+    understand what their tax money is funding.</p>
+
+    <p>This process involves coordinating with distributed open source communities,
+    reviewing internal technical assessments, and crafting narratives that explain
+    why we chose to invest in a “memory-safe replacement for GNU coreutils” and what
+    that investment will accomplish—without losing the technical nuance that developers
+    and security experts need to evaluate our work. But our mission goes beyond funding:
+    we''re advocates for making digital infrastructure visible and valued.</p>
+
+    <p>Writing about technologies like PTP and NTP, I found myself documenting what
+    felt like magic—explaining how we measure and coordinate time across billions
+    of devices, while including the human stories behind these systems, like the blind
+    NTP maintainer who did this crucial work until his death in 2024.</p>'
+- title: '“Gyarados has pretty teeth, dear”: Theatre, Pokémon, and software docs'
+  slug: gyarados-has-pretty-teeth-dear-theatre-pok-mon-and-software-docs-maximilian-rosin
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2025
+  speakers:
+  - name: Maximilian Rosin
+    slug: maximilian-rosin
+    twitter:
+    website: mrosin.net
+  abstract: '<p>One question has been haunting me for years: why do computers persistently
+    mislead even highly competent people about their characteristics and capabilities?
+    web3, digital twins, autonomous robots, LLMs, metaverse, augmented reality—all
+    are mired in interpretations, expectations, and applications almost completely
+    divorced from their material reality.</p>
+
+    <p>One possible answer lies in an idea from early 90s HCI research: <em>computers
+    as theatre</em>. Since a computer is essentially a black box, every interaction
+    is bound to happen in a representational, metaphorical realm—just like a theatrical
+    performance. In theatre, both audience and actors suspend their disbelief for
+    the duration of the performance, and immerse themselves in the illusions created
+    on stage in order to change something about their relationship to the world. Similarly,
+    computer users engage with the imaginary worlds of computers to achieve real-world
+    effects. They “move a file in the trash” by “pressing a button”, while actually
+    doing neither, and yet it has real consequences. Problems ensue when the illusion
+    persists even though the performance has ended, or the program has been shut down.</p>
+
+    <p>This poses an interesting challenge to technical communicators. How do you
+    write truthfully about products that are pure representation? Should you embrace
+    the illusion, and to what extend? How do you maintain the link to reality? How
+    do you prevent your metaphors and narratives from escaping confinement? How do
+    you shut down the performance?</p>
+
+    <p>In this talk, I want to tackle this challenge by answering three questions:</p>
+
+    <ul>
+
+    <li>What does it mean for software documentation, when we see computers as theatre?</li>
+
+    <li>How does this perspective turn video games like “Pokémon” into great case
+    studies for understanding software documentation?</li>
+
+    <li>Why should you read and watch Brecht to learn about truthful technical communication?</li>
+
+    </ul>'
