@@ -28,14 +28,14 @@ buttons:
        link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
-     - text: Submit a Talk
-       link: /cfp
+    # - text: Submit a Talk
+    #   link: /cfp
 #    - text: See the Schedule!
 #      link: /schedule
 #    - text: Buy a Ticket
 #      link: /tickets
-    #- text: See the Speakers
-    #  link: /speakers
+     - text: See the Speakers
+       link: /speakers
     # - text: Attendee Guide
     #   link: /attendee-guide
     # - text: Watch the Live Stream
@@ -49,14 +49,14 @@ buttons:
        link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
-     - text: Submit a Talk
-       link: /cfp
+    # - text: Submit a Talk
+    #   link: /cfp
     # - text: Buy a Ticket!
     #   link: /tickets
     # - text: See the Schedule
     #   link: /schedule
-#    - text: See the Talks
-#      link: /speakers
+     - text: See the Talks
+       link: /speakers
 #    - text: Read the Guide
 #      link: /attendee-guide
     # - text: Watch the Live Stream
@@ -159,21 +159,19 @@ date: # how do we handle these? human readable would be nice.
     summary: And the conference goes on! More talks and unconference today!
     dotw: Tuesday
     talk_time: 10:00-17:00
-    job_fair_time: 10:00-12:00
     unconference_time: 13:00-17:00
     icon: conversation
   total_talk_days: 2
 
 about:
   attendees: 200
-#  social_venue: Jupiter NEXT, 900 E Burnside St (2nd floor)
-#  venue: Revolution Hall
-#  venue_address: Revolution Hall, 1300 SE Stark St, Portland, Oregon 97214
+#  social_venue: 
+#  venue: 
+#  venue_address: 
 #  photos: TBD
   mainroom: Main stage
   unconfroom: TBC
   projector_ratio: "16:9"
-  job_fair_room: Sponsor area
 
 cfp: # Conf dates 27-28 October
   url: "https://pretalx.com/wtd-berlin-2025/cfp"   # Open June 2 (Mon), -> 8 weeks to submit
@@ -226,7 +224,7 @@ flaghassponsors: True
 flagcfp: True
 flagticketsonsale: True
 flagsoldout: False
-flagspeakersannounced: False
+flagspeakersannounced: True
 flagrunofshow: False
 flaghasschedule: False
 flagscheduleincomplete: True
@@ -242,5 +240,5 @@ flaghashike: False
 flaghasfood: True
 flaghaswritingday: False
 flaghaslightningtalks: True
-flaghasjobfair: True
+flaghasjobfair: False
 flaghasboat: False
