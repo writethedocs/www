@@ -41,7 +41,7 @@ talks_day1:
   - duration: '0:10'
     title: '10 minute break'
   - duration: '0:30'
-    slug: developer-experience-in-technical-writing-15-practical-tips-to-boost-developer-michiel-mulders
+    slug: portable-docs-for-data-sovereignty-val-grimm
   - duration: '0:5'
     title: '✋ 5 min Q&A'
   - duration: '0:15'
@@ -53,7 +53,7 @@ talks_day1:
   - duration: '0:10'
     title: '10 minute break'
   - duration: '0:30'
-    slug: automating-documentation-maintenance-workflow-process-for-agile-teams-dimple-poojary
+    slug: developer-experience-in-technical-writing-15-practical-tips-to-boost-developer-michiel-mulders
   - duration: '0:5'
     title: '✋ 5 min Q&A'
   - duration: '0:10'
@@ -76,7 +76,7 @@ talks_day2:
   - duration: '0:10'
     title: '10 minute break'
   - duration: '0:30'
-    slug: portable-docs-for-data-sovereignty-val-grimm
+    slug: automating-documentation-maintenance-workflow-process-for-agile-teams-dimple-poojary
   - duration: '0:5'
     title: '✋ 5 min Q&A'
   - duration: '0:15'
