@@ -1,5 +1,5 @@
 talks_day1:
-  - time: '9:00'
+  - time: '08:30'
     title: Doors and Sponsor Booths open
   - time: '9:15'
     title: '<i>Welcome Wagon conference introduction and venue tour</i>'
@@ -11,13 +11,13 @@ talks_day1:
   - duration: '0:00'
     title: "<b><a href='../unconference'>Unconference</a> starts</b>"
   - duration: '0:30'
-    slug: talk-1
+    slug: gyarados-has-pretty-teeth-dear-theatre-pok-mon-and-software-docs-maximilian-rosin
   - duration: '0:05'
     title: '✋ 05 min Q&A'
   - duration: '0:10'
     title: '10 minute break'
   - duration: '0:30'
-    slug: talk-2
+    slug: if-you-build-it-they-will-come-our-journey-to-a-unified-and-discoverable-doc-ian-cowley
   - duration: '0:5'
     title: '✋ 5 min Q&A'
   - duration: '0:15'
@@ -25,7 +25,7 @@ talks_day1:
   - duration: '0:5'
     title: 'Sponsor intros'
   - duration: '0:30'
-    slug: talk-3
+    slug: the-right-tool-for-the-job-ruth-fuchss
   - duration: '0:5'
     title: '✋ 5 min Q&A'
   - duration: '1:25'
@@ -35,25 +35,25 @@ talks_day1:
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: talk-4
+    slug: failing-well-a-practical-guide-to-growth-for-technical-writers-fabrizio-ferri-benedetti
   - duration: '0:05'
     title: '✋ 05 min Q&A'
   - duration: '0:10'
     title: '10 minute break'
   - duration: '0:30'
-    slug: talk-5
+    slug: developer-experience-in-technical-writing-15-practical-tips-to-boost-developer-michiel-mulders
   - duration: '0:5'
     title: '✋ 5 min Q&A'
   - duration: '0:15'
     title: '☕ Coffee break'
   - duration: '0:30'
-    slug: talk-6
+    slug: activating-product-knowledge-where-global-education-meets-documentation-stephan-delbos
   - duration: '0:05'
     title: '✋ 05 min Q&A'
   - duration: '0:10'
     title: '10 minute break'
   - duration: '0:30'
-    slug: talk-7
+    slug: automating-documentation-maintenance-workflow-process-for-agile-teams-dimple-poojary
   - duration: '0:5'
     title: '✋ 5 min Q&A'
   - duration: '0:10'
@@ -70,25 +70,25 @@ talks_day2:
   - duration: '0:00'
     title: "<b><a href='../unconference'>Unconference</a> starts</b>"
   - duration: '0:30'
-    slug: talk-8
+    slug: so-you-ve-become-a-docs-lead-now-what-kat-stoica-ostenfeld
   - duration: '0:05'
     title: '✋ 05 min Q&A'
   - duration: '0:10'
     title: '10 minute break'
   - duration: '0:30'
-    slug: talk-9
+    slug: portable-docs-for-data-sovereignty-val-grimm
   - duration: '0:5'
     title: '✋ 5 min Q&A'
   - duration: '0:15'
     title: '☕ Coffee break'
   - duration: '0:30'
-    slug: talk-10
+    slug: documenting-digital-infrastructure-explaining-complex-open-source-technologies-powen-shiah
   - duration: '0:05'
     title: '✋ 05 min Q&A'
   - duration: '0:10'
     title: '10 minute break'
   - duration: '0:30'
-    slug: talk-11
+    slug: what-s-past-is-prologue-write-the-docs-communities-and-organizing-techcomm-jennifer-rondeau
   - duration: '0:5'
     title: '✋ 5 min Q&A'
   - duration: '1:15'
@@ -98,13 +98,13 @@ talks_day2:
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
-    slug: talk-12
+    slug: rethinking-your-how-tos-from-instructions-to-solving-user-problems-diana-breza
   - duration: '0:5'
     title: '✋ 5 min Q&A'
   - duration: '0:15'
     title: '☕ Coffee break'
   - duration: '0:30'
-    slug: talk-13
+    slug: a-beautiful-reciprocal-arrangement-gaining-experience-and-giving-back-through-o-tiffany-hrabusa
   - duration: '0:5'
     title: '✋ 5 min Q&A'
   - duration: '0:15'
