@@ -24,12 +24,12 @@ photos:
 
 buttons:
   top:
-     - text: Read our latest news
-       link: /news/welcome
+     - text: Read our cancellation post
+       link: /news/cancel-announcement
   #   - text: Sponsor us
   #     link: /sponsors/prospectus
-     - text: Submit a Talk
-       link: /cfp
+  #    - text: Submit a Talk
+  #      link: /cfp
   #   - text: Date and ticket information
   #     link: /news/announcing-virtual-conf-dates-tickets
   #   - text: Read our conference guide
@@ -51,12 +51,12 @@ buttons:
   #  - text: Thanks for coming
   #    link: /news/thanks-recap
   bottom:
-    - text: Welcome to the conference
-      link: /news/welcome
+    - text: Read our cancellation announcement
+      link: /news/cancel-announcement
   #  - text: Sponsor us
   #    link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
+  #   - text: Submit a Talk
+  #     link: /cfp
   #   - text: See the Schedule!
   #     link: /schedule
   #   - text: Date and ticket information
