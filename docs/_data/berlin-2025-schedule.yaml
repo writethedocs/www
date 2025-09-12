@@ -1,7 +1,7 @@
 talks_day1:
-  - time: '08:30'
+  - time: '08:00'
     title: Doors and Sponsor Booths open
-  - time: '9:15'
+  - time: '08:45'
     title: '<i>Welcome Wagon conference introduction and venue tour</i>'
   - time: '09:30'
     duration: '0:25'
@@ -21,7 +21,7 @@ talks_day1:
   - duration: '0:5'
     title: '✋ 5 min Q&A'
   - duration: '0:15'
-    title: '☕ Coffee break'
+    title: '15 minute break'
   - duration: '0:5'
     title: 'Sponsor intros'
   - duration: '0:30'
@@ -45,7 +45,7 @@ talks_day1:
   - duration: '0:5'
     title: '✋ 5 min Q&A'
   - duration: '0:15'
-    title: '☕ Coffee break'
+    title: '15 minute break'
   - duration: '0:30'
     slug: activating-product-knowledge-where-global-education-meets-documentation-stephan-delbos
   - duration: '0:05'
@@ -62,7 +62,7 @@ talks_day1:
     title: '<b>Conference day 1 ends</b>'
 
 talks_day2:
-  - time: '9:00'
+  - time: '8:30'
     title: Doors and Sponsor Booths open
     duration: '0:25'
   - duration: '0:05'
@@ -80,7 +80,7 @@ talks_day2:
   - duration: '0:5'
     title: '✋ 5 min Q&A'
   - duration: '0:15'
-    title: '☕ Coffee break'
+    title: '15 minute break'
   - duration: '0:30'
     slug: documenting-digital-infrastructure-explaining-complex-open-source-technologies-powen-shiah
   - duration: '0:05'
@@ -102,7 +102,7 @@ talks_day2:
   - duration: '0:5'
     title: '✋ 5 min Q&A'
   - duration: '0:15'
-    title: '☕ Coffee break'
+    title: '15 minute break'
   - duration: '0:30'
     slug: a-beautiful-reciprocal-arrangement-gaining-experience-and-giving-back-through-o-tiffany-hrabusa
   - duration: '0:5'

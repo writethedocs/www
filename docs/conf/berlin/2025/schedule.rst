@@ -54,13 +54,6 @@ All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
 
    {{ date.day_two.summary }}
 
-{% if flaghasfood %}
-
-The unconference is held in {{about.venue}}, {{about.unconfroom}}.
-
-*Snacks and drinks will be provided throughout the day.*
-{% endif %}
-
 {% if flaghasschedule %}
 
 {% with day_schedule=schedule.writing_day %}
@@ -73,35 +66,8 @@ The unconference is held in {{about.venue}}, {{about.unconfroom}}.
 
 {% endif %}
 
-Welcome Wagon Introduction
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Is this your first time at Write the Docs?
-Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees.
-We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new.
-
-* **Where**: {{about.unconfroom}}
-* **Details**: :doc:`/conf/{{shortcode}}/{{year}}/attendee-guide`
-
-.. raw:: html
-
-   <hr>
-
 {% if flaghaswritingday %}{{date.day_three.dotw}}, {{date.day_three.date}}{% else %}{{date.day_one.dotw}}, {{date.day_one.date}}{% endif %}
 -----------------------------------------
-
-.. raw:: html
-
-   <p>
-   {% if flaghaswritingday %}{{date.day_three.summary}}{% else %}{{date.day_one.summary}}{% endif %}
-   </p>
-
-- Conference talks are held in {{about.venue}}
-- Unconference is held in {{about.venue}}, {{about.unconfroom}}
-
-{% if flaghasfood %}
-*Snacks and drinks will be provided throughout the day.*
-{% endif %}
 
 {% if flaghasschedule %}
 
@@ -119,15 +85,6 @@ We'll pass on some information about the conference specifically for first-timer
 
 {% if flaghaswritingday %}{{date.day_four.dotw}}, {{date.day_four.date}}{% else %}{{date.day_two.dotw}}, {{date.day_two.date}}{% endif %}
 -----------------------------------------
-
-.. raw:: html
-
-   <p>
-   {% if flaghaswritingday %}{{date.day_four.summary}}{% else %}{{date.day_two.summary}}{% endif %}
-   </p>
-
-- Conference talks are held in {{about.venue}}
-- Unconference is held in {{about.venue}}, {{about.unconfroom}}
 
 {% if flaghasfood %}
 *Snacks and drinks will be provided throughout the day.*
