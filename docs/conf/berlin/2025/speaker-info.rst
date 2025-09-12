@@ -19,11 +19,13 @@ Location
 Date
     {{ date.short }}
 
+..  1920 x 1200 resolution at 60Hz via HDMI, DisplayPort or VGA
+
 Projector specs
-    1920 x 1200 resolution at 60Hz via HDMI, DisplayPort or VGA
+    TBD
 
 Talk length
-    30 minutes of presentation followed by 10 mins moderated Q&A
+    30 minutes of presentation followed by 5 mins moderated Q&A
 
 Microphones
     We have both over ear (preferred) and handheld
@@ -42,6 +44,9 @@ Pre-conference Schedule
     Register your free speaker ticket with dietary preferences (we'll email you a ticket link beforehand).
     Make sure `Pretalx <https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/>`__ has all of your info, including hoodie size for a free speaker hoodie.
 
+**{{cfp_video_by}}**
+    If you're recording your talk, we'd love to have it uploaded around this time, so we can check the audio levels and do some post processing if necessary.
+
 **{{cfp.slides_by}}**
     Upload a copy of your slides so our human captioners can prepare for your talk. We'll email you an upload link beforehand.
 
@@ -57,26 +62,18 @@ For example if you speak at 10:00am on Tuesday, your tech will be at 7:45am on T
 
 View the full `attendee schedule <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/schedule/>`__.
 
-SUNDAY
-~~~~~~
-
-There are no speaker-specific requirements this day but we encourage you to join us for Writing Day and our Welcome Reception.
 
 MONDAY
 ~~~~~~
 
-- 8:00-8:30am: Morning Speaker tech checks at main stage
-- 9:00am-11:55am: Speaker Talks
-- 11:55am-12:25pm: Afternoon Speaker tech checks at main stage
-- 1:45pm-4:40pm: Speaker Talks
+- 08:30-09:00: Morning Speaker tech checks at main stage
+- 12:15-12:55: Afternoon Speaker tech checks at main stage
 
 TUESDAY
 ~~~~~~~
 
-- 7:45am-8:10am: Morning Speaker tech checks at main stage
-- 8:30-11:25pm: Speaker Talks
-- 11:35-12:25pm: Afternoon Speaker tech checkss at main stage
-- 2:00-3:50pm: Afternoon Speaker Talks
+- 08:20-09:00: Morning Speaker tech checks at main stage
+- 12:25-12:50: Afternoon Speaker tech checks at main stage
 
 Speaking Tips
 -------------
