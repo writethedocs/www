@@ -44,7 +44,7 @@ Pre-conference Schedule
     Register your free speaker ticket with dietary preferences (we'll email you a ticket link beforehand).
     Make sure `Pretalx <https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/>`__ has all of your info, including hoodie size for a free speaker hoodie.
 
-**{{cfp_video_by}}**
+**{{cfp.video_by}}**
     If you're recording your talk, we'd love to have it uploaded around this time, so we can check the audio levels and do some post processing if necessary.
 
 **{{cfp.slides_by}}**
@@ -56,9 +56,7 @@ Pre-conference Schedule
 Conference Schedule
 --------------------
 
-Your speaker tech check will be directly before the morning or afternoon session you are speaking at, bring the laptop you'll be using to present.
-
-For example if you speak at 10:00am on Tuesday, your tech will be at 7:45am on Tuesday. Meet in front of the main stage.
+Your speaker tech check will be directly before the morning or afternoon session you are speaking at, bring the laptop you'll be using to present. Meet in front of the main stage.
 
 View the full `attendee schedule <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/schedule/>`__.
 
