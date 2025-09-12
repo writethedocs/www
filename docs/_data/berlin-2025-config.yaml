@@ -178,6 +178,7 @@ cfp: # Conf dates 27-28 October
   ends: "August 4, 2025"                           # (Mon) 1 week, to review. It'll take a little longer to announce
   notification: "August 18, 2025"                  # (Mon) 8 weeks to write and prepare
   speaker_tickets_by: October 6, 2025              # (Mon) Approx 3 weeks before
+  video_by: October 6, 2025                        # Only 1 so...
   slides_by: "October 20, 2025"                    # (Mon) 1 week before
   preview: "TODO"                                  # Preview URL TODO
 
@@ -224,8 +225,8 @@ flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
 flagrunofshow: False
-flaghasschedule: False
-flagscheduleincomplete: True
+flaghasschedule: True
+flagscheduleincomplete: False
 flaghasshirts: False
 flaglivestreaming: False
 flagvideos: False
