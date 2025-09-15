@@ -71,6 +71,10 @@ too, if you like):
         <input type="checkbox" value="16" name="group[14633][16]" id="mce-group[14633]-14633-4">
         <label for="mce-group[14633]-14633-4">Atlantic Conference Announcements</label>
     </li>
+   <li>
+      <input type="checkbox" name="group[14633][32]" id="mce-group[14633]-14633-5" value="">
+      <label for="mce-group[14633]-14633-5">Salary Survey Announcements</label>
+   </li>
     </ul>
         <span id="mce-group[14633]-HELPERTEXT" class="helper_text"></span>
     </div>
