@@ -111,9 +111,9 @@ grants:
  ends: 'August 1, 2025, 23:59 CET'
  notification: 'August 20, 2025'
 #
-#shirts:
-#  url: https://shirt.writethedocs.org/
-#  ends: "May 31, 2025"
+shirts:
+  url: https://shirt.writethedocs.org/
+  ends: "November 31, 2025"
 
 date: # how do we handle these? human readable would be nice.
   main: "**Oct 27-28, 2025**"
