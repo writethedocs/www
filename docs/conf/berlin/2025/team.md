@@ -74,6 +74,14 @@ Daniel is a documentation consultant who helps software engineering teams make t
 
 Pavithra works as a developer advocate at Quansight, where she focuses on developer experience and documentation of open source libraries for scientific computing. In her spare time, she enjoys a good book and hot coffee.
 
+### Alicia Lewis (she/her)
+
+#### Welcome Wagon Coordinator
+
+![](/_static/img/2024/team/alicia.jpg)
+
+Alicia loves to explain complex things in easy-to-understand ways and is passionate about harnessing the talent and collaborative spirit of others. She is currently Principal Technical Writer at Digi International, Inc., where she works closely (and remotely) with her internationally distributed development teams to document embedded Linux systems. She tends to be a human common denominator, bridging personalities and differences to bring people together.
+
 ### Chris Chinchilla (he/him)
 
 #### Unconference coordinator
