@@ -210,13 +210,12 @@ sponsors:
     - name: discourse
       link: https://discourse.org/pricing?ref=writethedocs
       brand: Discourse
+  first:
+  in_kind:
     - name: readthedocs
       link: https://about.readthedocs.com/?ref=writethedocs
       brand: Read the Docs
       text: "Read the Docs simplifies software documentation by building, versioning, and hosting of your docs, automatically. Treating documentation like code keeps your team in the same tools, and your documentation up to date."
-
-  first:
-  in_kind:
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: True
