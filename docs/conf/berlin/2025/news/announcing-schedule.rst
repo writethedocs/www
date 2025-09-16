@@ -45,7 +45,20 @@ The campaign will run in batches until {{shirts.ends}}. Shipping is available fr
 Website Resources
 -----------------
 
-View our `Attendee Guide <https://www.writethedocs.org/conf/{{city}}/{{year}}/attendee-guide/>`_ for a comprehensive overview of how to participate in the conference.
+View our `Attendee Guide <https://www.writethedocs.org/conf/{{city}}/{{year}}/attendee-guide/>`_ for a comprehensive overview of how to participate in the conference, and the `Venue page <https://www.writethedocs.org/conf/{{city}}/{{year}}/venue/>`_ for all details about our venue.
+
+Join our Slack Community
+------------------------
+
+#wtd-conferences channel
+~~~~~~~~~~~~~~~~~~~~~~~~
+Our [#wtd-conferences](https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform) channel is the primary space for virtual communication during the conference. We encourage you to join the discussion.
+
+We'll be posting announcements in that channel throughout the conference. We also welcome attendees to engage with each other leading up to and during the conference in there, too!
+
+Reminder: There is a Slack canvas at the top of the channel with helpful links, key info, schedule, FAQs, and more.
+
+[Join the conversation!](https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform)
 
 Thanks To Our Sponsors
 ----------------------
