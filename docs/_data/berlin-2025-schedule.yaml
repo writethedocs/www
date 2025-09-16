@@ -9,7 +9,7 @@ talks_day1:
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:00'
-    title: "<b><a href='../unconference'>Unconference</a> starts</b>"
+    title: '<b><a href="../unconference">Unconference</a> starts</b>'
   - duration: '0:30'
     slug: gyarados-has-pretty-teeth-dear-theatre-pok-mon-and-software-docs-maximilian-rosin
   - duration: '0:05'
@@ -29,7 +29,7 @@ talks_day1:
   - duration: '0:5'
     title: '✋ 5 min Q&A'
   - duration: '1:25'
-    title: '<b><a href="../visiting/#food-near-bum-10-15-minute-walk">🍽️ Lunch Break (80 mins)</a></b>'
+    title: '<b><a href="../visiting/#food-near-bum-10-15-minute-walk">🍽️ Lunch Break</a></b> (80 mins)'
   - duration: '0:30'
     title: '<b><a href="../lightning-talks">Lightning Talks</a></b> (30 mins)'
   - duration: '0:05'
@@ -63,7 +63,7 @@ talks_day1:
   - time: '19:00'
     title: '<b><a href="../social-events">Monday Social</a> starts</b>'
   - time: '21:00'
-    title: '<b>Monday Social ends</b>'
+    title: '<b><a href="../social-events">Monday Social</a> ends</b>'
 
 talks_day2:
   - time: '8:30'
@@ -72,7 +72,7 @@ talks_day2:
   - duration: '0:05'
     title: "Welcome address"
   - duration: '0:00'
-    title: "<b><a href='../unconference'>Unconference</a> starts</b>"
+    title: '<b><a href="../unconference">Unconference</a> starts</b>'
   - duration: '0:30'
     slug: so-you-ve-become-a-docs-lead-now-what-kat-stoica-ostenfeld
   - duration: '0:05'
@@ -96,7 +96,7 @@ talks_day2:
   - duration: '0:5'
     title: '✋ 5 min Q&A'
   - duration: '1:15'
-    title: '<b><a href="../visiting/#food-near-bum-10-15-minute-walk">🍽️ Lunch Break (75 mins)</a></b>'
+    title: '<b><a href="../visiting/#food-near-bum-10-15-minute-walk">🍽️ Lunch Break</a></b> (75 mins)'
   - duration: '0:30'
     title: '<b><a href="../lightning-talks">Lightning Talks</a></b> (30 mins)'
   - duration: '0:05'
