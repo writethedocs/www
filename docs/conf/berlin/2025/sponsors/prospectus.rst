@@ -55,6 +55,8 @@ Each conference is attended by:
 - Managers (10%)
 - Community Contributors, Enthusiasts & Other Folks (10%)
 
+We expect {{ about.attendees }} attendees at the conference.
+
 Why Sponsor
 ===========
 
