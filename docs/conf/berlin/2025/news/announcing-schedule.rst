@@ -56,8 +56,6 @@ Our [#wtd-conferences](https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH
 
 We'll be posting announcements in that channel throughout the conference. We also welcome attendees to engage with each other leading up to and during the conference in there, too!
 
-Reminder: There is a Slack canvas at the top of the channel with helpful links, key info, schedule, FAQs, and more.
-
 [Join the conversation!](https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform)
 
 Thanks To Our Sponsors
