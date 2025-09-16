@@ -60,6 +60,10 @@ talks_day1:
     title: '<b>Group Photo! Right after the Q&A ;-)</b>'
   - duration: '0:00'
     title: '<b>Conference day 1 ends</b>'
+  - time: '19:00'
+    title: '<b><a href="../social-events">Monday Social</a> starts</b> - Location TBA'
+  - time: '21:00'
+    title: '<b>Monday Social ends</b>'
 
 talks_day2:
   - time: '8:30'
