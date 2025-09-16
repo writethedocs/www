@@ -23,7 +23,7 @@ talks_day1:
   - duration: '0:15'
     title: '15 minute break'
   - duration: '0:5'
-    title: 'Sponsor intros'
+    title: '<a href="../sponsors">Sponsor intros</a>'
   - duration: '0:30'
     slug: the-right-tool-for-the-job-ruth-fuchss
   - duration: '0:5'
