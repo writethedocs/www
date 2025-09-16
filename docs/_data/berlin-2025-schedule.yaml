@@ -74,7 +74,7 @@ talks_day2:
   - duration: '0:00'
     title: '<b><a href="../unconference">Unconference</a> starts</b>'
   - duration: '0:30'
-    slug: so-you-ve-become-a-docs-lead-now-what-kat-stoica-ostenfeld
+    slug: a-beautiful-reciprocal-arrangement-gaining-experience-and-giving-back-through-o-tiffany-hrabusa
   - duration: '0:05'
     title: '✋ 5 min Q&A'
   - duration: '0:10'
@@ -108,7 +108,7 @@ talks_day2:
   - duration: '0:15'
     title: '15 minute break'
   - duration: '0:30'
-    slug: a-beautiful-reciprocal-arrangement-gaining-experience-and-giving-back-through-o-tiffany-hrabusa
+    slug: so-you-ve-become-a-docs-lead-now-what-kat-stoica-ostenfeld
   - duration: '0:5'
     title: '✋ 5 min Q&A'
   - duration: '0:15'
