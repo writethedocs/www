@@ -2,7 +2,7 @@ talks_day1:
   - time: '08:00'
     title: Doors and Sponsor Booths open
   - time: '08:45'
-    title: '<i>Welcome Wagon conference introduction and venue tour</i>'
+    title: '<i><a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a></i>'
   - time: '09:30'
     duration: '0:25'
     title: Write the Docs team - Conference introduction
@@ -31,7 +31,7 @@ talks_day1:
   - duration: '1:25'
     title: '🍽️ Lunch Break (80 mins)'
   - duration: '0:30'
-    title: Lightning Talks (30 mins)
+    title: '<a href="../lightning-talks">Lightning Talks</a> (30 mins)'
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
@@ -94,7 +94,7 @@ talks_day2:
   - duration: '1:15'
     title: '🍽️ Lunch Break (75 mins)'
   - duration: '0:30'
-    title: Lightning Talks (30 mins)
+    title: '<a href="../lightning-talks">Lightning Talks</a> (30 mins)'
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:30'
