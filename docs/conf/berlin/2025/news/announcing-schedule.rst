@@ -45,7 +45,7 @@ The campaign will run in batches until {{shirts.ends}}. Shipping is available fr
 Website Resources
 -----------------
 
-View our `Attendee Guide <https://www.writethedocs.org/conf/{{city}}/{{year}}/attendee-guide/>`_ for a comprehensive overview of how to participate in the conference, and the `Venue page <https://www.writethedocs.org/conf/{{city}}/{{year}}/venue/>`_ for all details about our venue.
+View our `Attendee Guide <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/attendee-guide/>`_ for a comprehensive overview of how to participate in the conference, and the `Venue page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/venue/>`_ for all details about our venue.
 
 Join our Slack Community
 ------------------------
