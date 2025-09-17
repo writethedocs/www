@@ -80,7 +80,7 @@ Media Kit
 ----------
 
 Share with your communities that you are speaking at the conference.
-Download copy and graphics from our `Speaker Media Kit <hhttps://drive.google.com/drive/folders/1XIRn8IVtQbaaIxO1fPEM4ALL9pGlq438>`__.
+Download copy and graphics from our `Speaker Media Kit <https://drive.google.com/drive/folders/1XIRn8IVtQbaaIxO1fPEM4ALL9pGlq438>`__.
 
 This includes:
 
