@@ -5,7 +5,7 @@
 Call for Proposals
 ==================
 
-It's that time of year again: We're now accepting talk proposals for our next **in-person** {{ city }} conference, on {{date.main}}. New this year we're also accepting a few pre-recorded talks by `remote speakers <#speaker-logistics>`_.
+It's that time of year again: We're now accepting talk proposals for our next **in-person** {{ city }} conference, on {{date.main}}. New this year we're also accepting a few pre-recorded talks by remote speakers.
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you!
 Read on to learn more about the goals of the conference and what we look for in talk proposals.

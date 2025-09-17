@@ -39,7 +39,7 @@ Location: Wintergarten in basement floor
 
 ### Communal Rooms
 
-Location: Awareness room, Prayer room, Chill area, room for Presence and Movement are in basement floor
+Location: Awareness room, Prayer room, room for Presence and Movement are in basement floor
 
 ### Parents Room
 
@@ -72,7 +72,6 @@ We are committed to hosting a conference that is accessible to everyone. Below a
 - bUm has several communal rooms that we share with coworking users
     - Awareness Room is available for a silent room
     - Prayer Room (prayer rugs available upon request)
-    - Chill Area is furnished with cushions and hammock.
     - Room for Presence & Movement includes smaller sports equipment and meditation cushions.
 -   Parents Room - please check in with Registration for a dedicated parents room.  
 - Toilets
