@@ -1,7 +1,7 @@
 :template: {{year}}/generic.html
 :og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
-.. post:: September 15, 2025
+.. post:: September 17, 2025
    :tags: {{year}}, {{shortcode}}-{{year}}, schedule
 
 Announcing Our Conference Schedule
