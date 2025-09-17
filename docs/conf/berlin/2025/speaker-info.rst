@@ -19,7 +19,7 @@ Location
 Date
     {{ date.short }}
 
-..  1920 x 1200 resolution at 60Hz via HDMI, DisplayPort or VGA
+..  1920 x 1200 resolution at 60Hz via HDMI or USB-C
 
 Projector specs
     TBD
