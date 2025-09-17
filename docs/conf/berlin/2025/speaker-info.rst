@@ -19,10 +19,8 @@ Location
 Date
     {{ date.short }}
 
-..  1920 x 1200 resolution at 60Hz via HDMI or USB-C
-
 Projector specs
-    TBD
+    1920 x 1200 resolution at 60Hz via HDMI or USB-C
 
 Talk length
     30 minutes of presentation followed by 5 mins moderated Q&A
