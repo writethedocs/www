@@ -104,12 +104,12 @@ sponsorship:
 
 grants:
   url: https://docs.google.com/forms/d/e/1FAIpQLSf3fGfW_8W1x3oeKeoUpg8ZPLvyY4cQvO5Bii_OTrgW97cLNw/viewform?embedded=true
-  ends: 'February 5, 2025'
-  notification: 'February 14, 2025'
+  ends: 'February 5, 2026'
+  notification: 'February 14, 2026'
 
 shirts:
   url: https://shirt.writethedocs.org/
-  ends: "May 31, 2025"
+  ends: "May 31, 2026"
 
 date: # how do we handle these? human readable would be nice.
   main: "**May 3-5, 2026**"
@@ -172,12 +172,12 @@ about:
   job_fair_room: Sponsor area
 
 cfp:
-  url: "https://pretalx.com/wtd-portland-2025/cfp" # Open October 6 (Mon) -> 9 weeks to submit
-  ends: "January 21, 2025"                         # (Mon) 1 week, to review. It'll take a little longer to announce
-  notification: "February 4, 2025"                 # (Mon) 8 weeks to write and prepare
-  speaker_tickets_by: April 18, 2025                  # Approx 4 weeks before
-  slides_by: "April 28, 2025"                      # (Mon) 1 week before
-  preview: "https://writethedocs-www--2334.org.readthedocs.build/conf/portland/2025/schedule/"                                  # Preview URL TODO
+  url: "https://pretalx.com/wtd-portland-2026/cfp" # Open October 6 (Mon) -> 9 weeks to submit
+  ends: "January 21, 2026"                         # (Mon) 1 week, to review. It'll take a little longer to announce
+  notification: "February 4, 2026"                 # (Mon) 8 weeks to write and prepare
+  speaker_tickets_by: April 18, 2026                  # Approx 4 weeks before
+  slides_by: "April 28, 2026"                      # (Mon) 1 week before
+  preview: "https://writethedocs-www--2334.org.readthedocs.build/conf/portland/2026/schedule/"                                  # Preview URL TODO
 
 unconf:
   url: ""

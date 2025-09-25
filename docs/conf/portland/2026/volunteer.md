@@ -10,7 +10,7 @@ Our volunteer application is open! We are looking for volunteers to provide supp
 
 Completing this form signs you up to volunteer. We will close the form once volunteer capacity is reached. Another form will be sent out once the speaker schedule is released mid-February.
 
-Each individual must volunteer two assigned 3-4   for two or more 3-4 hour shifts receives a **free ticket** to the conference.
+Each individual must volunteer for two or more 3-4 hour shifts and receives a **free ticket** to the conference.
 
 ## Apply to Volunteer
 
