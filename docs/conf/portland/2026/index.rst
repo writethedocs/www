@@ -1,6 +1,5 @@
 :template: 2026/index.html
 :banner: _static/conf/images/headers/portland-2025-small-group.jpg
-:og:image: _static/conf/images/headers/portland-2026-opengraph.png
 
 :orphan:
 
