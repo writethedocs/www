@@ -27,12 +27,8 @@ Tickets
 -------
 
 Tickets will go on sale in {{ date.tickets_live }}.
-
-**Ticket pricing will be the same as last year**:
-
-* **Student or Unemployed Tickets**: *{{tickets.student.price}}*
-* **Independent Tickets**: *{{tickets.independent.price}}*
-* **Corporate Tickets**: *{{tickets.corporate.price}}*
+Prices will be announced soon,
+but will be similar to last year.
 
 We will be also be running our Opportunity Grants program again this year for those who need financial assistance to attend.
 We also have many opportunities for volunteers who want to help make the conference happen and get a free ticket that way.
