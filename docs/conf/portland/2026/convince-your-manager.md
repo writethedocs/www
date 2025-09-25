@@ -20,7 +20,7 @@ Remember to change the things in [brackets]!
 
 *SUBJECT: Professional Development: Documentation Community Conference*
 
-*I’d like to attend Write the Docs Portland from May 4-6, 2025. This three-day event explores the art and science of documentation, and covers a diverse range of topics related to documentation in the software industry.*
+*I’d like to attend Write the Docs Portland from {{ date.short }}. This three-day event explores the art and science of documentation, and covers a diverse range of topics related to documentation in the software industry.*
 
 *Write the Docs conferences bring together everyone who writes the docs – Tech Writers, Developers, Developer Relations, Customer Support – making the events an ideal networking opportunity. Each conference successfully combines a number of different event formats to deliver engaging, practical, and timely content.*
 
@@ -63,7 +63,7 @@ Remember to change the things in [brackets]!
 
 *SUBJECT: Docs hackathon: Documentation Community Conference*
 
-*I’d like to attend Write the Docs Portland from May 4-6, 2025. This three-day event explores the art and science of documentation, and covers a diverse range of topics related to documentation in the software industry. I am particularly interested in leading a project at Writing Day. I believe this event can positively impact our project and community.*
+*I’d like to attend Write the Docs Portland from {{ date.short }}. This three-day event explores the art and science of documentation, and covers a diverse range of topics related to documentation in the software industry. I am particularly interested in leading a project at Writing Day. I believe this event can positively impact our project and community.*
 
 *Writing Day is modeled after the concept of “code sprints” or “hackathons”, which are common in open-source conferences. The primary goal is to bring interesting individuals into the same room and have them work towards a shared goal; in this case the goal is creating or improving documentation or other related projects.*
 

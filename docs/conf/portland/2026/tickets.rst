@@ -107,7 +107,7 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 **Virtual Tickets** *{{tickets.virtual.price}}*
 --------------------------------------------
 
-Join us virtually for the main conference days (May 5-6). Learn more about the `virtual attendance experience </conf/portland/2025/virtual/>`_.
+Join us virtually for the main conference days (May 4-5). Learn more about the `virtual attendance experience </conf/portland/2025/virtual/>`_.
 
 {% if flagticketsonsale %}
 

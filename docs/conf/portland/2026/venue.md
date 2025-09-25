@@ -24,8 +24,8 @@ Bus transit stops are located near the venue. All transit in Portland announce m
 ### Registration and Welcome Wagon
 
 **Location:**
-- May 4: 1st floor near Martha's Cafe
-- May 5-6: 2nd floor
+- May 3: 1st floor near Martha's Cafe
+- May 4-5: 2nd floor
 
 ### Writing Day, Unconference, and Welcome Reception
 
