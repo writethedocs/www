@@ -10,7 +10,7 @@
 	.st4{fill:#1485E0;}
 	.st5{fill:#ffe29c;}
 	.st6{fill:#B0B7BB;}
-	.st7{fill:#4D3A09;}
+	.st7{fill:#4D3A09;} /* Updated to a lighter color for the paper */
 </style>
 <title>Page 1 Copy</title>
 <desc>Created with Sketch.</desc>
@@ -135,7 +135,7 @@
 					l-1.2,0.9L48.4,70.6l-3.3,2.5l11.9,15L55.8,89z"/>
 				<polygon id="Fill-125" class="st5" points="56.9,88.5 56.5,87.8 60.1,84.5 60.5,85.2 				"/>
 				<polygon id="Fill-126" class="st5" points="46.3,77 45.9,76.3 49.5,73 49.9,73.7 				"/>
-				<path id="Fill-127" class="st5" d="M154.3,28.3l1.8,1.3c0.7,0.5,1.2,1.2,0.7,1.9l-38.5,56.8L112,93l2.1-7.7l38.5-56.8
+				<path id="Fill-127" class="st7" d="M154.3,28.3l1.8,1.3c0.7,0.5,1.2,1.2,0.7,1.9l-38.5,56.8L112,93l2.1-7.7l38.5-56.8
 					C153,27.8,153.6,27.9,154.3,28.3"/>
 				<polygon id="Fill-128" class="st2" points="150,38.4 116.6,87 116,86.6 149.4,38 				"/>
 				<polygon id="Fill-129" class="st5" points="149,37.4 115.6,86 115,85.6 148.4,37 				"/>
