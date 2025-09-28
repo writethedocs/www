@@ -24,12 +24,12 @@ All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
 
    <hr>
 
-{% if flaghaswritingday %}{{date.day_three.dotw}}, {{date.day_three.date}}{% else %}{{date.day_one.dotw}}, {{date.day_one.date}}{% endif %}
+{{date.day_three.dotw}}, {{date.day_three.date}}
 -----------------------------------------
 
 .. raw:: html
 
-   {% if flaghaswritingday %}{{date.day_three.summary}}{% else %}{{date.day_one.summary}}{% endif %}
+   {{ date.day_three.summary }}
 
 {% if flaghasschedule %}
 
@@ -57,12 +57,12 @@ Social space
 
 You can socialize with other virtual attendees in the various hallway channels.
 
-{% if flaghaswritingday %}{{date.day_four.dotw}}, {{date.day_four.date}}{% else %}{{date.day_two.dotw}}, {{date.day_two.date}}{% endif %}
+{{date.day_four.dotw}}, {{date.day_four.date}}
 -----------------------------------------
 
 .. raw:: html
 
-   {% if flaghaswritingday %}{{date.day_four.summary}}{% else %}{{date.day_two.summary}}{% endif %}
+   {{ date.day_four.summary }}
 
 {% if flaghasschedule %}
 

@@ -24,18 +24,18 @@ photos:
 
 buttons:
   top:
-     - text: Conference announcement
-       link: /news/welcome
+    # - text: Conference announcement
+    #   link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
     # - text: Submit a Talk
     #   link: /cfp
-#    - text: See the Schedule!
-#      link: /schedule
-#    - text: Buy a Ticket
-#      link: /tickets
-     - text: See the Speakers
-       link: /speakers
+     - text: See the Schedule
+       link: /schedule
+    #  - text: See the Speakers
+    #    link: /speakers
+     - text: Buy a Ticket
+       link: /tickets
     # - text: Attendee Guide
     #   link: /attendee-guide
     # - text: Watch the Live Stream
@@ -45,18 +45,18 @@ buttons:
     # - text: Conference recap
     #   link: /news/thanks-recap
   bottom:
-     - text: Conference announcement
-       link: /news/welcome
+    #  - text: Conference announcement
+    #    link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
     # - text: Submit a Talk
     #   link: /cfp
     # - text: Buy a Ticket!
     #   link: /tickets
-    # - text: See the Schedule
-    #   link: /schedule
-     - text: See the Talks
-       link: /speakers
+    - text: See the Schedule
+      link: /schedule
+    #  - text: See the Talks
+    #    link: /speakers
 #    - text: Read the Guide
 #      link: /attendee-guide
     # - text: Watch the Live Stream
@@ -111,9 +111,9 @@ grants:
  ends: 'August 1, 2025, 23:59 CET'
  notification: 'August 20, 2025'
 #
-#shirts:
-#  url: https://shirt.writethedocs.org/
-#  ends: "May 31, 2025"
+shirts:
+  url: https://shirt.writethedocs.org/
+  ends: "November 31, 2025"
 
 date: # how do we handle these? human readable would be nice.
   main: "**Oct 27-28, 2025**"
@@ -180,6 +180,7 @@ cfp: # Conf dates 27-28 October
   notification: "August 18, 2025"                  # (Mon) 8 weeks to write and prepare
   video_by: "September 27, 2025"                   # (Mon) Approx 4 weeks before
   speaker_tickets_by: October 6, 2025              # (Mon) Approx 3 weeks before
+  video_by: October 6, 2025                        # Only 1 so...
   slides_by: "October 20, 2025"                    # (Mon) 1 week before
   preview: "TODO"                                  # Preview URL TODO
 
@@ -217,17 +218,16 @@ sponsors:
       link: https://about.readthedocs.com/?ref=writethedocs
       brand: Read the Docs
       text: "Read the Docs simplifies software documentation by building, versioning, and hosting of your docs, automatically. Treating documentation like code keeps your team in the same tools, and your documentation up to date."
-
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: True
-flagcfp: True
+flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: True
 flagrunofshow: False
-flaghasschedule: False
-flagscheduleincomplete: True
+flaghasschedule: True
+flagscheduleincomplete: False
 flaghasshirts: False
 flaglivestreaming: False
 flagvideos: False
