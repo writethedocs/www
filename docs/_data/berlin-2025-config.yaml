@@ -166,8 +166,8 @@ date: # how do we handle these? human readable would be nice.
 about:
   attendees: 200
 #  social_venue:
-#  venue:
-#  venue_address:
+  venue: bUm Berlin
+  venue_address: Paul-Lincke-Ufer 21, 10999 Berlin
 #  photos: TBD
   mainroom: Main stage
   unconfroom: TBC
