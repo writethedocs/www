@@ -20,13 +20,22 @@ Date
     {{ date.short }}
 
 Projector specs
-    1920 x 1200 resolution at 60Hz via HDMI or USB-C
+    1920 x 1080 resolution via HDMI or USB-C
 
 Talk length
     30 minutes of presentation followed by 5 mins moderated Q&A
 
 Microphones
     We have both over ear (preferred) and handheld
+
+Clicker
+    We will provide a clicker if you’d like to use it with your computer slides (not required)
+
+Confidence monitor
+    There will be a monitor downstage left that displays what the audience sees on the screen
+
+Stage access
+    The stage is only accessible by stairs. Please let us know if you need additional support.
 
 Pre-conference Schedule
 -----------------------
