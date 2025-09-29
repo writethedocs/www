@@ -165,9 +165,9 @@ date: # how do we handle these? human readable would be nice.
 
 about:
   attendees: 200
-#  social_venue: 
-#  venue: 
-#  venue_address: 
+#  social_venue:
+#  venue:
+#  venue_address:
 #  photos: TBD
   mainroom: Main stage
   unconfroom: TBC
@@ -176,6 +176,7 @@ about:
 cfp: # Conf dates 27-28 October
   url: "https://pretalx.com/wtd-berlin-2025/cfp"   # Open June 2 (Mon), -> 8 weeks to submit
   ends: "August 4, 2025"                           # (Mon) 1 week, to review. It'll take a little longer to announce
+  confirm_by: "August 15, 2025"
   notification: "August 18, 2025"                  # (Mon) 8 weeks to write and prepare
   speaker_tickets_by: October 6, 2025              # (Mon) Approx 3 weeks before
   video_by: October 6, 2025                        # Only 1 so...
