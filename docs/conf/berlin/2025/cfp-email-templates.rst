@@ -233,15 +233,17 @@ Subject:
 
    The [conference schedule](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/) is live! :-)
 
-   I've got a couple more small logistical checkboxes for you:
+   I've got a few more small logistical checkboxes for you:
 
    ○ please register your free [speaker ticket]({{cfp_variables['ticket']}}).
 
-   ○ please make sure to log in to [Pretalx](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/) and fill out the questions on pronouns, name pronunciation and interests for our emcee intro. We also need your **hoodie size** for a free speaker hoodie!
+   ○ if you're not already in the WTD private `#speaker` channel in slack, drop me a DM at @plaindocs I'll make sure you're there.
+
+   ○ please make sure to log in to [Pretalx](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/) and fill out the questions on pronouns, name pronunciation and interests for our emcee intros. We also need your **hoodie size** for a free speaker hoodie!
 
    Take a look at our *freshly updated* [speaker info page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-info/) which has everything you need to know about speaking at Write the Docs! Missing something? Let us know!
 
-   We'll be in touch in a couple of weeks for a copy of your slides for our captioners!
+   We'll be in touch in a couple of weeks for a copy of your slides for our captioners, some calendar invites for AV checks, and any last details!
 
    In the meantime, if you have any questions at all about the event, you definitely know how to reach me by now.
 
