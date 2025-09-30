@@ -32,19 +32,20 @@ Subject:
 
    The Write the Docs {{city}} talk selection committee has finished the review process and we'd love it if you could join us as a speaker!
 
-   Write the Docs {{city}} {{year}} is **in person** in {{city}} on **{{date.short}}**.
+   Write the Docs {{city}} {{year}} is **hybrid** conference in {{city}} on **{{date.short}}**. Most talks are delivered in-person and on-stage, unless you have explicitly proposed and been accepted for a pre-recorded talk.
 
    We think your talk: '{proposal_title}' would be a great fit for the conference. We'd love to have you prepare it for a **30-minute** time slot, with additional questions and answers after that.
 
-   First up, make sure to confirm your speaking slot by doing these **three things** by **Friday 7th February**:
+   First up, make sure to confirm your speaking slot by doing these **three things** by **{{cfp.confirm_by}}**:
 
-   1. Confirm your **attendance in-person** in {{city}} by clicking the {confirmation_link}
+   1. If you're speaking in person, confirm your **attendance in-person** in {{city}} by clicking the {confirmation_link}
+      If you're delivering a pre-recorded talk, confirm your commitment to deliver a reocrded talk by {{cfp.video_by}} by clicking the {confirmation_link}
 
    2. Let us know any of the following:
 
        ○ If you have a strong preference for presenting on Monday or Tuesday, or in the morning or afternoon.
        ○ If you already purchased a ticket so we can issue you a refund.
-       ○ If you would like to have an experienced member of the Write the Docs community mentor you through the talk preparation process.
+       ○ If you would like to have an experienced Write the Docs speaker mentor you through the talk preparation process.
 
    3. Update your [Pretalx profile](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/) with a bio and other information that we'll use to create your speaker profile and get our audience excited about your talk.
 
@@ -53,10 +54,10 @@ Subject:
    * Remember that one of the biggest strengths of the Write the Docs community is that we come from a huge variety of professional and personal backgrounds.
      When you're writing your talk (just like when you're writing documentation), think about the diverse needs and interests of your audience, avoid (or define) any jargon-y language, and make sure you clearly express what people are going to learn from your talk.
    * Remember this is a community conference. If you're representing your employer it's okay to mention that, but please don't treat your talk as a marketing opportunity.
-   * Make sure you plan your talk to fit in the allotted time. 30 mins for the the talk itself.There will be Q&A after the 30 mins.
+   * Make sure you plan your talk to fit in the allotted time. 30 mins for the the talk itself. There will be Q&A after the 30 mins.
    * Please review our Code of Conduct (https://www.writethedocs.org/code-of-conduct/) and make sure your talk content adheres to it. As a rule of thumb, if you're on the fence about whether something in your talk could be considered inappropriate or offensive, leave it out. If you have a question about the code, feel free to email us and ask!
 
-   If you're concerned about travel expenses, let us know. We do have a budget for speaker expenses, but it can't cover all our speakers.
+   If you're attending in person and concerned about travel expenses, let us know. We do have a budget for speaker expenses, but it can't cover all our speakers.
 
    As we confirm your details, we'll publish your abstract, profile pic, and information on the conference site. We'll also be emailing attendees so they can share in our excitement about the talks we'll be presenting this year!
 
@@ -232,15 +233,17 @@ Subject:
 
    The [conference schedule](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/) is live! :-)
 
-   I've got a couple more small logistical checkboxes for you:
+   I've got a few more small logistical checkboxes for you:
 
    ○ please register your free [speaker ticket]({{cfp_variables['ticket']}}).
 
-   ○ please make sure to log in to [Pretalx](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/) and fill out the questions on pronouns, name pronunciation and interests for our emcee intro. We also need your **hoodie size** for a free speaker hoodie!
+   ○ if you're not already in the WTD private `#speaker` channel in slack, drop me a DM at @plaindocs I'll make sure you're there.
+
+   ○ please make sure to log in to [Pretalx](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/) and fill out the questions on pronouns, name pronunciation and interests for our emcee intros. We also need your **hoodie size** for a free speaker hoodie!
 
    Take a look at our *freshly updated* [speaker info page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-info/) which has everything you need to know about speaking at Write the Docs! Missing something? Let us know!
 
-   We'll be in touch in a couple of weeks for a copy of your slides for our captioners!
+   We'll be in touch in a couple of weeks for a copy of your slides for our captioners, some calendar invites for AV checks, and any last details!
 
    In the meantime, if you have any questions at all about the event, you definitely know how to reach me by now.
 
