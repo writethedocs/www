@@ -34,9 +34,6 @@ We will be also be running our Opportunity Grants program again this year for th
 We also have many opportunities for volunteers who want to help make the conference happen and get a free ticket that way.
 Note that you are not required to do volunteer tasks at the conference to be able to apply for an Opportunity Grant.
 
-More details on these programs will be announced soon,
-and will be similar to last year.
-
 Keep in touch
 -------------
 
