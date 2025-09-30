@@ -47,6 +47,7 @@ Work with other documentarians.
 
 * Read our :doc:`Hiring Guide </hiring-guide/index>` to get started in the industry
 * Read our previous `salary survey </surveys/>`__ information to get a sense of the industry pay
+* Take the `2025 Salary Survey <https://salary-survey.writethedocs.org/>`_
 
 Learn from our resources
 ------------------------
