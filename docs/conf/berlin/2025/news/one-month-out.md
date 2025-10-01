@@ -25,7 +25,6 @@ Still need a ticket? Now is a great time to purchase your ticket at one of our v
    
 We do expect in-person tickets to sell out some time before the conference.
 
-   <br>
    <p style="margin: 2em 0;">
    <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
    <tr>

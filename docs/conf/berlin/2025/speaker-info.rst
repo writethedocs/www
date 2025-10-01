@@ -35,7 +35,7 @@ Confidence monitor
     There will be a monitor downstage left that displays what the audience sees on the screen
 
 Stage access
-    The stage is only accessible by stairs. Please let us know if you need additional support.
+    The stage is accessible by stairs or a platform lift. Please let us know in advance if you may need to use the lift, or need any other additional support.
 
 Pre-conference Schedule
 -----------------------
