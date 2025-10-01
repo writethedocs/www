@@ -8,18 +8,20 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
    :tags: {{shortcode}}-{{year}}
 ```
 
-# Only one Month Until Write the Docs {{name}}
+# Just under one Month Until Write the Docs {{name}}
 
-Write the Docs {{name}} is officially just over 1 month away on October 27-28! Whether you're a programmer, tech writer, designer, project manager, or developer advocate, we have talks and a community for you at Write the Docs {{name}}.
+Write the Docs {{name}} is officially just under 1 month away on October 27-28! Whether you're a programmer, tech writer, designer, project manager, or developer advocate, we have talks and a community for you at Write the Docs {{name}}.
 
 ## Buy Your Tickets
 
 Still need a ticket? Now is a great time to purchase your ticket at one of our varying price levels.
 
-- In-person Student or Unemployed Tickets: €75
-- In-person Independent Tickets: €275
-- In-person Corporate Tickets: €575
-- Virtual Tickets: €30-140
+- In-person Student or Unemployed Tickets: {{tickets.student.price}} 
+- In-person Independent Tickets: {{tickets.independent.price}} 
+- In-person Corporate Tickets: {{tickets.corporate.price}} 
+- Virtual Student or Unemployed Tickets: {{tickets.virtual_student.price}}
+- Virtual Independent Tickets: {{tickets.virtual_independent.price}}
+- Virtual Corporate Tickets: {{tickets.virtual_corporate.price}}
    
 We do expect in-person tickets to sell out some time before the conference.
 
