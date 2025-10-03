@@ -4,5 +4,5 @@ Alchemy in Adversity (How to become better and more resilient tech writers in a 
 .. datatemplate-video::
    :source: /_data/prague-2021-sessions.yaml
    :template: videos/video-detail.html
-   :key: 7
+   :key: 6
 
