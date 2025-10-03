@@ -62,6 +62,9 @@ View our [Attendee Guide](https://www.writethedocs.org/conf/{{shortcode}}/{{year
 
 View our [Schedule](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/) page for exact times of the conference.
 
+The Unconference schedule will open about a week before the conference, so start thinking about what 
+[session you'd like to lead](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/).
+
 ## Thanks to our sponsors
 
 We are grateful to have the support of the following companies in {{year}}:
