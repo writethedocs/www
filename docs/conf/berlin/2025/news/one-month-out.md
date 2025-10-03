@@ -4,7 +4,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
 ```{eval-rst}
-.. post:: September 29, {{year}}
+.. post:: October 3, {{year}}
    :tags: {{shortcode}}-{{year}}
 ```
 
