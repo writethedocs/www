@@ -11,7 +11,7 @@ If you think something is wrongly categorized, please let us know.
    :local:
    :depth: 2
    :backlinks: none
-   
+
 Writing words
 -------------
 
@@ -36,7 +36,7 @@ Naming and terminology
 - |:newspaper:| `Common words and how to identify them </blog/newsletter-june-2020/#common-words-and-how-to-identify-them>`__
 - |:movie_camera:| `Even Naming This Talk Is Hard </videos/na/2017/even-naming-this-talk-is-hard-ruthie-bendor/>`__
 - |:movie_camera:| `Whatchamacallit: Controlled Vocabularies for Technical Writers </videos/eu/2015/whatchamacallit-controlled-vocabularies-for-technical-writers-eboillat/>`__
-- 
+-
 
 Specific writing questions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -507,7 +507,6 @@ Doc tools
 - |:newspaper:| `Choosing a CCMS or a static site generator </blog/newsletter-june-2023/#choosing-a-ccms-or-a-static-site-generator>`__
 - |:movie_camera:| `Two years of Markdoc: what we’ve learned about balancing developer and author experience </videos/prague/2022/two-years-of-markdoc-what-we-ve-learned-about-balancing-developer-and-author-ex-ryan-paul/>`__
 - |:newspaper:| `Standards in documentation tooling </blog/newsletter-december-2021/#standards-in-documentation-tooling>`__
-- |:movie_camera:| `Hitchhiker’s Guide to Documentation Tools and Processes </videos/prague/2021/hitchhiker-s-guide-to-documentation-tools-and-processes-lukas-reu-ner/>`__
 - |:movie_camera:| `Putting the “tech” in technical writer </videos/portland/2021/putting-the-tech-in-technical-writer-swapnil-ogale/>`__
 - |:movie_camera:| `Documentation as an application: enabling interactive content that is tailored to the user </videos/portland/2020/documentation-as-an-application-enabling-interactive-content-that-is-tailored-to-the-user-ryan-paul/>`__
 - |:movie_camera:| `Model-view-docs: taming large-scale documentation projects using structured data </videos/portland/2020/model-view-docs-taming-large-scale-documentation-projects-using-structured-data-luc-perkins/>`__
