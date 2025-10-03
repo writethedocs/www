@@ -20,7 +20,7 @@ An even more fragile process that needs documenting and fixing. Note specificall
 
 WIP (Work In Progress) Docs on how to do this:
 
-1. In `_data/<year>.<city>.speakers.yaml`, add a `youtubeId: 12345678901` key value pair to each talk. See also `_scripts/insert-video-ids.py`.
+1. In `_data/<city>-<year>-sessions.yaml`, add a `youtubeId: 12345678901` key value pair to each talk. See also `_scripts/insert-video-ids.py`.
 
 2. Make sure the directory `videos/<city>/<year>` is included in the Video Archive `toctree` in `docs/videos/index.rst`.
 
@@ -29,24 +29,12 @@ WIP (Work In Progress) Docs on how to do this:
 4. Commit the *relevant* changed files:
 
    * `docs/videos/index.rst`
-   * `_data/<year>.<city>.speakers.yaml`
+   * `_data/<city>-<year>-sessions.yaml`
    * `docs/videos/<city>/<year>/*`
 
 5. If you want to preview locally:
 
     1. Run `BUILD_VIDEOS=True make livehtml` and browse the new video pages at `http://127.0.0.1:8888`.
-
-#### Troubleshooting
-
-If you run into trouble with broken links to video files, have a look at `_ext/fix_video_yaml.py`:
-
-1. Add a line at the end with the relevant places and dates.
-
-2. Change to the `_ext` directory and run it:
-
-   `python fix_video_yaml.py`
-
-3. Commit the fixed `_data/<year>.<city>.speakers.yaml` file.
 
 ### Prerequisites for generating the docs locally
 
