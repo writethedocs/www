@@ -8,7 +8,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
    :tags: {{shortcode}}-{{year}}
 ```
 
-# Just under one Month Until Write the Docs {{name}}
+# Less Than One Month Until Write the Docs {{name}}
 
 Write the Docs {{name}} is officially just under 1 month away on October 27-28! Whether you're a programmer, tech writer, designer, project manager, or developer advocate, we have talks and a community for you at Write the Docs {{name}}.
 
