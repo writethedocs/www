@@ -566,6 +566,8 @@ DITA
 AI and LLMs
 ~~~~~~~~~~~
 
+- |:newspaper:| `AI and the need for product knowledge </blog/newsletter-october-2025/#ai-and-the-need-for-product-knowledge>`__
+- |:newspaper:| `Using AI to prove AI shouldn’t replace you </blog/newsletter-october-2025/#using-ai-to-prove-ai-shouldn-t-replace-you>`__
 - |:newspaper:| `The effect of LLMs on docs use </blog/newsletter-september-2025/#the-effect-of-llms-on-docs-use>`__
 - |:newspaper:| `How documentarians use AI (or LLMs) </blog/newsletter-july-2025/#how-documentarians-use-ai-or-llms>`__
 - |:newspaper:| `Writing AI-friendly *and* human-readable documentation </blog/newsletter-february-2025/#writing-ai-friendly-and-human-readable-documentation>`__
@@ -785,6 +787,7 @@ Working with other roles
 
 Including product managers, higher-ups, etc.
 
+- |:newspaper:| `Encouraging colleagues to search for content </blog/newsletter-october-2025/#encouraging-colleagues-to-search-for-content>`__
 - |:newspaper:| `Help contributors think like users </blog/newsletter-june-2025/#help-contributors-think-like-users>`__
 - |:newspaper:| `Contending with unresponsive stakeholders </blog/newsletter-march-2025/#contending-with-unresponsive-stakeholders>`__
 - |:newspaper:| `How to make your work as a documentarian shine: Beyond "just writing docs" </blog/newsletter-february-2025/#how-to-make-your-work-as-a-documentarian-shine-beyond-just-writing-docs>`__
@@ -834,6 +837,7 @@ Prioritisation
 Agile and workflows
 ~~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `Delay releases or publish docs late </blog/newsletter-october-2025/#delay-releases-or-publish-docs-late>`__
 - |:newspaper:| `Navigating Agile for documentarians </blog/newsletter-july-2025/#navigating-agile-for-documentarians>`__
 - |:newspaper:| `Tracking work </blog/newsletter-july-2020/#tracking-work>`__
 - |:movie_camera:| `Documenting the (Ancient) History of Your Project </videos/prague/2020/documenting-the-ancient-history-of-your-project-natali-vlatko/>`__
