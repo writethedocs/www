@@ -15,7 +15,7 @@ If you're already looking forward to next year, Write the Docs Portland 2026 is 
 
 In other news, the `2025 Salary Survey <https://salary-survey.writethedocs.org/>`__ is now open for submissions. We encourage contributions from everyone who has worked in a documentation-related role for at least part of the past year -- full-time, part-time, employee, contractor, or any combination thereof. Returning contributors will be pleased to hear that it's now shorter! 
 
-This month's newsletter has articles on whether AI mean people don't need to know the product, how to encourage others at your company to search before asking, how to use AI to prove your value, and whether to publish docs late or push to delay releases. Enjoy!
+This month's newsletter has articles on whether AI means people don't need to know the product, how to encourage others at your company to search before asking, how to use AI to prove your value, and whether to publish docs late or push to delay releases. Enjoy!
 
 -------------------------------------
 AI and the need for product knowledge
