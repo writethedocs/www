@@ -11,7 +11,7 @@ Hello, documentarians! I hope you are all staying grounded amid a world that see
 
 In conference news, Write the Docs Berlin is coming up soon, on October 27-28. If you don't have your in-person ticket yet, `get one soon </conf/berlin/2025/tickets/>`__ before they sell out. Or if you can't be there in person, get a virtual ticket for live access to the talks and interaction with other attendees. 
 
-If you're already looking forward to next year, Write the Docs Portland 2026 is happening May 3–5. See `more info </conf/portland/2026/news/welcome/>`__ and start making plans.
+Looking ahead to next year, Write the Docs Portland 2026 is happening May 3–5. See `more info </conf/portland/2026/news/welcome/>`__ and start making plans.
 
 In other news, the `2025 Salary Survey <https://salary-survey.writethedocs.org/>`__ is now open for submissions. We encourage contributions from everyone who has worked in a documentation-related role for at least part of the past year -- full-time, part-time, employee, contractor, or any combination thereof. Returning contributors will be pleased to hear that it's now shorter! 
 
