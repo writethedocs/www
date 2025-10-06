@@ -11,7 +11,7 @@ Hello, documentarians! I hope you are all staying grounded amid a world that see
 
 In conference news, Write the Docs Berlin is coming up soon, on October 27-28. If you don't have your in-person ticket yet, `get one soon </conf/berlin/2025/tickets/>`__ before they sell out. Or if you can't be there in person, get a virtual ticket for live access to the talks and interaction with other attendees. 
 
-If you're already looking forward to next year, Write the Docs Portland 2026 has its dates set for May 3–5. See `more info </conf/portland/2026/news/welcome/>`__ and start making plans.
+If you're already looking forward to next year, Write the Docs Portland 2026 is happening May 3–5. See `more info </conf/portland/2026/news/welcome/>`__ and start making plans.
 
 In other news, the `2025 Salary Survey <https://salary-survey.writethedocs.org/>`__ is now open for submissions. We encourage contributions from everyone who has worked in a documentation-related role for at least part of the past year -- full-time, part-time, employee, contractor, or any combination thereof. Returning contributors will be pleased to hear that it's now shorter! 
 
@@ -23,7 +23,7 @@ AI and the need for product knowledge
 
 As generative AI and AI agents change how users find help, documentarians might be wondering whether users still need traditional product knowledge from documentation to use software effectively.
 
-AI agents can reduce the need for product knowledge but do not eliminate it. Users tend to see how far they can get before they get stuck, but they typically do eventually need the docs. Users also still need a baseline understanding of the product and its capabilities. LLMs themselves rely on documentation to provide accurate information. Documentation therefore remains the trusted source of truth for users as well as AI assistants that are trained on product content.
+AI agents can reduce the need for product knowledge but do not eliminate it. Users tend to see how far they can get before they get stuck, but they typically do eventually need the docs. Users also still need a baseline understanding of the product and its capabilities. LLMs themselves rely on documentation to provide accurate information. Documentation therefore remains a reliable source of info for users and AI assistants trained on product content.
 
 The extent of product knowledge that users need also varies. Basic apps require less knowledge, whereas open-ended or domain‑specific software requires both product and subject‑matter knowledge, with good docs as the mortar between the two. AI can help with discovery and less complex step‑by‑step tasks, but it struggles with consistency, novel cases, and new features. So reliable, up‑to‑date documentation is again crucial for both users and LLMs.
 
@@ -37,7 +37,7 @@ Encouraging colleagues to search for content
 
 If you (or your team) are responsible for creating content for internal audiences, how do you get fellow employees to read the documentation? A recent conversation brought up frustrations about this problem. First, consider asking whether employees have problems finding the content they need. This could be valuable feedback about the existing documentation – for example, ease of use or missing content.
 
-In general, it’s unsatisfactory to always answer questions when documentation is available. Others may prefer direct answers to their questions, but it reinforces bad habits and can overwhelm your team and impede your team’s work.
+It’s unsatisfactory to *always* answer questions when documentation is available. Others may prefer direct answers to their questions, but it reinforces bad habits and can overwhelm your team and impede your team’s work.
 
 You could try training coworkers about the available documentation. Presentations such as “Lunch & Learns” and “Walkthroughs” may help. But your colleagues may find them boring, ignore the available resources, and keep asking your team.
 
