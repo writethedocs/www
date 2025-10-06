@@ -122,7 +122,7 @@ Events coming up
 - 19 Oct, 13:00 EDT (North Carolina, USA): `Write the Docs NC Social Hike @ Bass Lake <https://www.meetup.com/write-the-docs-north-carolina/events/310229967/>`__
 - 20 Oct, 12:30 IDT (Tel Aviv+, Israel): `Onboarding Yourself as a Technical Writer: Hitting the Ground Running <https://www.meetup.com/write-the-docs-taplus/events/311066836/>`__
 - 23 Oct, 18:30 BST (London, United Kingdom): `Prose and Cons: Creative Writing for Technical Docs <https://www.meetup.com/write-the-docs-london/events/311099089/>`__
-- 23 Oct, 17:30 PDT (Portland, USA): `WtD PDX + PSU Supermeetup: GenAI as Writing Coach w/Dr. Brett Oppegaard <https://www.meetup.com/write-the-docs-pdx/events/311380500/>`__
+- 23 Oct, 17:30 PDT (Portland, USA): `WTD PDX + PSU Supermeetup: GenAI as Writing Coach w/Dr. Brett Oppegaard <https://www.meetup.com/write-the-docs-pdx/events/311380500/>`__
 - 23 Oct, 18:30 PDT (San Francisco, USA): `How Do Today's Technical Writers Get Things Done? <https://www.meetup.com/write-the-docs-bay-area/events/311029841/>`__
 - 31 Oct, 08:30 EDT (US East Coast Virtual): `Write the Docs East Coast Virtual Meetup <https://www.meetup.com/write-the-docs-east-coast/events/308480857/>`__
 - 4 Nov, 19:00 MST (Calgary, Canada): `Write the Docs Calgary November 2025 Meetup <https://www.meetup.com/wtd-calgary/events/304868585/>`__

@@ -567,7 +567,7 @@ AI and LLMs
 ~~~~~~~~~~~
 
 - |:newspaper:| `AI and the need for product knowledge </blog/newsletter-october-2025/#ai-and-the-need-for-product-knowledge>`__
-- |:newspaper:| `Using AI to prove AI shouldn’t replace you </blog/newsletter-october-2025/#using-ai-to-prove-ai-shouldn-t-replace-you>`__
+- |:newspaper:| `Using AI to prove AI shouldn’t replace you </blog/newsletter-october-2025/#using-ai-to-prove-ai-shouldnt-replace-you>`__
 - |:newspaper:| `The effect of LLMs on docs use </blog/newsletter-september-2025/#the-effect-of-llms-on-docs-use>`__
 - |:newspaper:| `How documentarians use AI (or LLMs) </blog/newsletter-july-2025/#how-documentarians-use-ai-or-llms>`__
 - |:newspaper:| `Writing AI-friendly *and* human-readable documentation </blog/newsletter-february-2025/#writing-ai-friendly-and-human-readable-documentation>`__
