@@ -57,7 +57,7 @@ Many organizations are adopting AI tools to help users find information faster. 
 
 Ironically, AI can help prove why documentation teams are essential. AI-powered search tools, such as Kapa, can estimate the return on investment (ROI) of documentation through metrics such as support hours saved and customer frustration avoided. These numbers turn the usually invisible impact of documentation into something concrete that leadership can understand. When tracked and shared regularly, they can influence critical business decisions – such as which roles to keep during layoffs or where to invest resources.
 
-It’s also important to remember that AI depends on high-quality, current content. If documentation is outdated or incomplete, AI will surface wrong answers, frustrate users, and damage trust. AI can scale access to good content, but it cannot maintain or verify that content on its own.
+It’s also important to remember that AI depends on high-quality, current content. If documentation is outdated or incomplete, AI will provide wrong answers, frustrate users, and damage trust. AI can make it easier for more people to access to good content, but it cannot maintain or verify that content on its own.
 
 To make documentation’s value even clearer, some teams pair AI-generated ROI data with additional metrics: page views, contributor activity, support ticket deflection, and short narratives of real wins. Together, the data paints a fuller picture of how documentation supports both users and the business. 
 
