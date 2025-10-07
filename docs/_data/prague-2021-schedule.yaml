@@ -27,7 +27,7 @@ talks_day1:
   title: Break (5 mins)
 - title: <b>Unconference Starts</b>
 - duration: '0:40'
-  slug: hitchhiker-s-guide-to-documentation-tools-and-processes-lukas-reu-ner
+  title: 'Talk removed at speakers request'
 - duration: '0:10'
   title: Break (10 mins)
 - duration: '0:40'
@@ -97,5 +97,5 @@ talks_day2:
 - duration: '0:30'
   slug: docs-leadership-how-to-become-a-stronger-leader-for-your-team-jenn-leaver
 - duration: '0:15'
-  title: Closing address 
+  title: Closing address
 - title: <b>Conference Ends</b> :(
