@@ -206,11 +206,17 @@ sponsors:
     - name: archbee-new-new
       link: https://www.archbee.com/?ref=writethedocs
       brand: Archbee
+    - name: gitbook
+      link: https://www.gitbook.com/?ref=writethedocs
+      brand: GitBook
   publisher:
   second:
     - name: discourse
       link: https://discourse.org/pricing?ref=writethedocs
       brand: Discourse
+    - name: knowledgeowl
+      brand: KnowledgeOwl
+      link: https://www.knowledgeowl.com?ref=writethedocs
   first:
   in_kind:
     - name: readthedocs
