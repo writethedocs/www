@@ -16,7 +16,9 @@ Join us for our Monday night social event! This is a great chance to meet more o
 and chat about the conference in a relaxed atmosphere.
 
 **Where**: {{about.social_venue}}  
+
 **When**: Monday, 19:00–21:00
+
 **Bring**: Your badge, as this will be required for entry.
 
 *Both alcoholic and non-alcoholic drinks and snacks will be provided.*

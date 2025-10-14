@@ -151,7 +151,7 @@ date: # how do we handle these? human readable would be nice.
     dotw: Monday
     talk_time: 10:00-17:00
     unconference_time: 10:45-17:00
-    social_time: 18:30-23:00
+    social_time: 19:00-21:00
     icon: conference
   day_two:
     event: Conference Day 2
@@ -165,7 +165,7 @@ date: # how do we handle these? human readable would be nice.
 
 about:
   attendees: 200
-#  social_venue:
+  social_venue: NEST, Görlitzer Str. 52, 10997 Berlin
   venue: bUm Berlin
   venue_address: Paul-Lincke-Ufer 21, 10999 Berlin
 #  photos: TBD
@@ -183,8 +183,11 @@ cfp: # Conf dates 27-28 October
   slides_by: "October 20, 2025"                    # (Mon) 1 week before
   preview: "TODO"                                  # Preview URL TODO
 
+lightning_talks:
+  signup_url: https://docs.google.com/forms/d/e/1FAIpQLSdTGBDgbgeyxIMQ8tLo1TRlZ3dKirc1cJuMarVe1eYIRKnWrw/viewform
+
 unconf:
-  url: ""
+  url: https://docs.google.com/spreadsheets/d/11O2NRC3mQRIdH44OGgjSil3Y6YqpBIfvKqvVTYAsacQ/edit?usp=sharing
   date: "All day, Monday, October 27 and Tuesday, October 28"
 
 #writing_day:
