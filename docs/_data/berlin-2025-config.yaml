@@ -217,6 +217,7 @@ sponsors:
     - name: knowledgeowl
       brand: KnowledgeOwl
       link: https://www.knowledgeowl.com?ref=writethedocs
+      width: 250px
   first:
   in_kind:
     - name: readthedocs
