@@ -14,7 +14,7 @@ Our conference kicks off in one week! We're excited to gather in Berlin and onli
 
 ## Important Links
 
-The website is full of wonderful information about the conference, venue, and Portland. We encourage you to check out a few of our pages below.
+The website is full of wonderful information about the conference, venue, and {{ city }}. We encourage you to check out a few of our pages below.
 
 - [Attendee Guide](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/attendee-guide/)
 - [Visiting Portland](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/)
