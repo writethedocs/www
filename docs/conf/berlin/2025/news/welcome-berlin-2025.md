@@ -70,7 +70,7 @@ We're also opening up Monday Lightning Talk submissions. Lightning Talks are a w
 
 ```{figure} /_static/conf/images/headers/portland-2024-all-speakers.jpg
 ```
-
+You can always sign up for lightning talks at the conference as well. 
 ## Join our Slack Community
 
 ### #wtd-conferences channel
