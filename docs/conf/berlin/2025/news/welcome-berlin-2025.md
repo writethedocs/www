@@ -52,7 +52,7 @@ For those who are new to Unconferences or nervous about what makes a "good" topi
 - Made something recently you'd love to share? Whether that's requesting critique or offering a tool to help your fellow documentarians, we welcome you to bring your laptop and offer a demo.
 - Focused on building community? Some attendees put on recurring  sessions for LGBTQ+ groups, for neurodiverse groups, for job hunters, for folks in particular geographic regions, etc. If you've got a drive to set something up, we welcome that! 
 
-And as always, sign-ups are welcome during the conference. 
+And as always, sign-ups are also welcome during the conference. 
 
 ## Monday Lightning Talk Submissions Open
 
