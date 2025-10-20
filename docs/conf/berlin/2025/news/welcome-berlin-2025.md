@@ -4,7 +4,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
 ```{eval-rst}
-.. post:: October 14, {{year}}
+.. post:: October 20, {{year}}
    :tags: {{shortcode}}-{{year}}
 ```
 
@@ -17,7 +17,7 @@ Our conference kicks off in one week! We're excited to gather in Berlin and onli
 The website is full of wonderful information about the conference, venue, and {{ city }}. We encourage you to check out a few of our pages below.
 
 - [Attendee Guide](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/attendee-guide/)
-- [Visiting Portland](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/)
+- [Visiting Berlin](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/)
 - [Schedule](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/)
 - [Code of Conduct](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/code-of-conduct/)
 
