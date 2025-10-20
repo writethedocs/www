@@ -10,7 +10,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 # Welcome to Write the Docs {{city}} {{year}}!
 
-Our conference kicks off in one week! We're excited to gather in Berlin and online, with our first in-person European event since 2019.. We hope you are as excited as we are! Below is an overview of the conference, as well as a couple of announcements.
+Our conference kicks off in one week! We're excited to gather in Berlin and online, with our first in-person European event since 2019. We hope you are as excited as we are! Below is an overview of the conference, as well as a couple of announcements.
 
 ## Important Links
 
@@ -23,6 +23,10 @@ The website is full of wonderful information about the conference, venue, and {{
 
 ```{figure} /_static/conf/images/pics/portland-unconference.jpg
 ```
+## Daylight Saving Time
+
+Please note that local daylight saving time will end the Saturday before the conference.
+The conference will therefore take place in CET / UTC+1.
 
 ## How to Participate in the Conference
 
@@ -30,7 +34,7 @@ The website is full of wonderful information about the conference, venue, and {{
 - **Unconference:** Lead or attend a session so you can connect with like-minded folks about topics you care about. We're accepting Monday session sign-ups now. [Learn more about signing up](#monday-unconference-sessions-open).
 - **Lightning Talks:** Do you have an idea, concept, or topic you'd like to share with our community in five minutes? We're now accepting Monday submissions. [Learn more about submitting a talk](#monday-lightning-talk-submissions-open).
 - **Monday Night Social:** Our offsite gathering is an informal way to relax with fellow attendees, and again enjoy some drinks and snacks on us! Held at the NEST, Görlitzer Str. 52, 10997 Berlin.
-- **Virtually:** Want to stream speaker talks and Q&As from the comfort of your own home? [Attend the conference virtually](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/virtual/).
+- **Virtually:** Want to stream speaker talks and Q&As from the comfort of your own home? [Attend the conference virtually](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/virtual/). **Registration closes on October 23.**
 
 ## Monday Unconference Sessions Open
 
@@ -56,7 +60,8 @@ And as always, sign-ups are also welcome during the conference.
 
 ## Monday Lightning Talk Submissions Open
 
-We're also opening up Monday Lightning Talk submissions. Lightning Talks are a wonderful way to share an idea, concept, or piece of information you find interesting, in an informal five-minute talk. Similar to above, we hope that by opening up Lightning Talks early, this provides more time to ideate and to submit your talk before the conference. [Learn more about giving a Lightning Talk here.](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/lightning-talks/)
+We have opened up Monday Lightning Talk submissions. Lightning Talks are a wonderful way to share an idea, concept, or piece of information you find interesting, in an informal five-minute talk. Similar to above, we hope that by opening up Lightning Talks early, this provides more time to ideate and to submit your talk before the conference. [Learn more about giving a Lightning Talk here.](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/lightning-talks/)
+
 
 <p style="margin: 2em 0;">
 <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
@@ -70,7 +75,8 @@ We're also opening up Monday Lightning Talk submissions. Lightning Talks are a w
 
 ```{figure} /_static/conf/images/headers/portland-2024-all-speakers.jpg
 ```
-You can always sign up for lightning talks at the conference as well. 
+Tuesday Lightning Talk sign ups will open on Monday morning of the conference.
+
 ## Join our Slack Community
 
 ### #wtd-conferences channel
@@ -93,13 +99,13 @@ This conference has virtual and in-person ticket options. All in-person and virt
 
 **Do you cater lunch?**
 
-No, we don’t cater a full lunch, but we do provide morning and afternoon snacks, coffee, and tea. There are a number of great restaurants within walking distance. View the [Visiting Berlin](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/) page for more ideas.
+No, we don’t cater a full lunch, but we provide coffee, tea and drinks throughout the day, morning fruit and pastries and an afternoon dessert. The Cafeteria at bUm will be open during the conference, 10:00-16:00. There are a number of great restaurants within walking distance. View our [Visiting Berlin](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/) page for more ideas.
 
 **Do you have a place to store luggage?**
 
 Yes, we do! Go to Registration and they will check your bags. Space may be limited.
 
-**Do you have a Lactation Room?**
+**Do you have a Parents Room?**
 
 Yes, visit Registration to get access.
 
