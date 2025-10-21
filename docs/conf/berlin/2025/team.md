@@ -98,9 +98,13 @@ Chris tells stories through documentation, blog posts, videos, books and more. I
 
 Aaron has been helping teams create helpful, clear, and consistent documentation since before his first Write the Docs conference in 2018. He currently edits the monthly Write the Docs newsletter. Outside of documentation, he cofounded an amateur community theater to present Czech plays in English in Brno.
 
-### Carolyn Stransky Vohr
+### Carolyn Stransky Vohr (she/her)
 
 #### Lightning Talks
+
+![](/_static/img/2024/team/carolyn.jpg)
+
+Carolyn gave her first-ever lightning talk at Write the Docs Prague in 2017 and never quite left. Since then, she’s spoken and emceed at Write the Docs conferences in Prague and online, and now wrangles lightning talks in Berlin. She’s a developer experience engineer at emnify and one of the (striking) editors at The Berliner magazine.
 
 ### Ingrid Towey
 
@@ -122,7 +126,11 @@ Mikey is one of the original Write the Docs Prague conference organizers, and si
 
 ![](/_static/img/2024/team/heather.jpg)
 
-Heather is a Philadelphia-based writer with a rich background in computer science and technical communication. By day, she programs, builds tools for engineers, and crafts clear, user-friendly documentation. By night, she trades keystrokes for knitting needles, cross-stitch, and other forms of needle witchcraft.
+### Swapnil Ogale (he/him)
+
+#### Virtual platform coordinator
+
+{% include "bios/swapnil.rst" %}
 
 ## Get involved
 
