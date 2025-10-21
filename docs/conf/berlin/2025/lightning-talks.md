@@ -22,7 +22,9 @@ Our goal is to have a balance between first-time and experienced speakers.
 
 **Date: Monday and Tuesday after lunch**
 
-Submit your Lightning Talk in person at the registration/check-in table.
+{% if lightning_talks and lightning_talks.signup_url %}
+**You can sign up for lightning talks each day of the conference** `on our Google Form <{{ lightning_talks.signup_url }}>`_.
+{% endif %}
 
 **Submissions are open:**
 
