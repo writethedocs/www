@@ -34,9 +34,9 @@ The address is: Paul-Lincke-Ufer 21, 10999 Berlin
 ## Conference Overview
 
 
-* **MONDAY**: Day 1 of Speaker Talks and Unconference. Booth setup begins for Patron sponsors at 08:00. Attendees begin to arrive at 08:30. Sponsor introductions will happen after the first coffee break on the main stage for booth sponsors. Two thirds of attendees check in early this morning. There are seven speakers, with a short break after each talk. The Unconference track runs parallel to Speaker Talks. 
+* **MONDAY**: Day 1 of Speaker Talks and Unconference. Sponsor introductions will happen after the first coffee break on the main stage for booth sponsors. There are seven speakers, with a short break after each talk. The Unconference track runs parallel to Speaker Talks. 
 
-* **TUESDAY**: Day 2 of Speaker Talks and Unconference. Patron sponsor arrival is at 08:00. Doors open at 08:30. Schedule is similar to Monday. There are six speakers this day. Tear down for sponsors starts at 16:00, and all things must be removed from the venue the last day of the conference.
+* **TUESDAY**: Day 2 of Speaker Talks and Unconference. Schedule is similar to Monday. There are six speakers this day, leading to an earlier wrap up time so people can travel. All things must be removed from the venue the last day of the conference.
 
 The [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) will be available around a month before the conference.
 
