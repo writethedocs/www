@@ -126,6 +126,8 @@ Mikey is one of the original Write the Docs Prague conference organizers, and si
 
 ![](/_static/img/2024/team/heather.jpg)
 
+Heather is a Philadelphia-based writer with a rich background in computer science and technical communication. By day, she programs, builds tools for engineers, and crafts clear, user-friendly documentation. By night, she trades keystrokes for knitting needles, cross-stitch, and other forms of needle witchcraft.
+
 ### Swapnil Ogale (he/him)
 
 #### Virtual platform coordinator
