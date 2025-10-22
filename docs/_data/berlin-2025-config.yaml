@@ -186,6 +186,9 @@ cfp: # Conf dates 27-28 October
 lightning_talks:
   signup_url: https://docs.google.com/forms/d/e/1FAIpQLSdTGBDgbgeyxIMQ8tLo1TRlZ3dKirc1cJuMarVe1eYIRKnWrw/viewform
 
+qa:
+  event_id: 2SsaJyxrDcyAS8YigHQzCn
+
 unconf:
   url: https://docs.google.com/spreadsheets/d/11O2NRC3mQRIdH44OGgjSil3Y6YqpBIfvKqvVTYAsacQ/edit?usp=sharing
   date: "All day, Monday, October 27 and Tuesday, October 28"
