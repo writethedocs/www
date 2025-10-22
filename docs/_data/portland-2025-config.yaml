@@ -190,6 +190,9 @@ writing_day:
 hike:
   date: Saturday, May 3, 2 PM
 
+qa:
+  event_id: pheuiBqUcsduHbivhQgBQV
+
 sponsors:
   keystone:
     - name: mintlify
