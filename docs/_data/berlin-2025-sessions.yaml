@@ -253,8 +253,8 @@
     leveraging our existing tools; this transformed how our team approached documentation
     maintenance. What was once a burdensome manual process is now a streamlined, automated
     part of every sprint cycle.</p>'
-- title: Portable docs for data sovereignty
-  slug: portable-docs-for-data-sovereignty-val-grimm
+- title: Sovereign docs
+  slug: sovereign-docs-val-grimm
   series: Write the Docs Berlin
   series_slug: berlin
   year: 2025
@@ -263,26 +263,20 @@
     slug: val-grimm
     twitter: 
     website: https://linkedin.com/in/vlgrimm
-  abstract: '<p>A portable documentation publishing approach is particularly relevant
-    right now because many organizations in Europe are interested in regaining their
-    digital sovereignty by transitioning away from technology solutions developed
-    and delivered outside of the EU. Our approach to portability does not fundamentally
-    rely on closed proprietary technologies or cloud platforms, although we used our
-    preferred tools to implement our solution. </p>
+  abstract: '<p>In reaction to a volatile environment, many organizations in Europe
+    and around the world want to regain their data sovereignity to reduce geopolitical
+    risk. </p>
 
-    <p>We had a documentation publishing problem that a simple static site could not
-    solve. The platform we were creating for our customer consisted of multiple independent
-    components and was required to operate on a variety of cloud solutions, as well
-    as on-premises in air-gapped facilities. We also didn''t want activities related
-    to documentation to muddy the commit histories of our component repositories.</p>
+    <p>We had a complex publishing problem where we had to deliver our multi-module
+    docs to a variety of cloud platforms and air-gapped on-premise installations.
+    Our solution involved packaging our docs in containers. </p>
 
-    <p>Our team solved these issues by approaching our documentation in the same way
-    as we did the rest of our platform: we delivered it as an independent containerized
-    component that we could deploy to all of our platforms in the same way as any
-    other application. </p>
+    <p>Originally, I thought that other technical communicators would benefit most
+    from learning about the architecture and implementation decisions we made. </p>
 
-    <p>This talk is not a tutorial. It explains key concepts and provides an illustration
-    of how we applied a containerization approach to meet our needs.</p>'
+    <p>More recently, I realized that the implications of our approach were far, far
+    broader . . .  and illuminated a path other organizations could follow toward
+    docs sovereignity.</p>'
 - title: 'What''s past is prologue: Write the Docs, communities, and organizing techcomm'
   slug: what-s-past-is-prologue-write-the-docs-communities-and-organizing-techcomm-jennifer-rondeau
   series: Write the Docs Berlin
