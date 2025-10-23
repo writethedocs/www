@@ -41,7 +41,7 @@ talks_day1:
   - duration: '0:10'
     title: '10 minute break'
   - duration: '0:30'
-    slug: portable-docs-for-data-sovereignty-val-grimm
+    slug: sovereign-docs-val-grimm
   - duration: '0:5'
     title: '✋ 5 min Q&A'
   - duration: '0:15'
