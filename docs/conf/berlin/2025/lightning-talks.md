@@ -4,6 +4,16 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 banner: _static/conf/images/headers/2025/lightning-talks.jpg
 ---
 
+<p style="margin: 2em 0;">
+<table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
+<tr>
+  <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
+     <a href="{{ lightning_talks.signup_url }}" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Submit a Lightning Talk</a>
+  </td>
+</tr>
+</table>
+</p>
+
 # What is a Lightning Talk?
 
 A Lightning Talk is a brief presentation, lasting up to five minutes, where you share an idea, concept, or piece of information that you find interesting. These talks can cover technical or non-technical topics - whatever you are passionate about!
@@ -23,7 +33,7 @@ Our goal is to have a balance between first-time and experienced speakers.
 **Date: Monday and Tuesday after lunch**
 
 {% if lightning_talks and lightning_talks.signup_url %}
-**You can sign up for lightning talks each day of the conference** `on our Google Form <{{ lightning_talks.signup_url }}>`_.
+**You can sign up for lightning talks each day of the conference** [on our Google For]({{ lightning_talks.signup_url }}).
 {% endif %}
 
 **Submissions are open:**
