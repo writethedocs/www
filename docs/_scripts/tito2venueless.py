@@ -29,9 +29,10 @@ sys.path.append(docs_root)
 ###############################################################################
 # Settings
 
-TITO_EVENT = "write-the-docs-portland-2025"
+TITO_EVENT = "write-the-docs-berlin-2025"
 VENUELESS_PUBLIC_URL = "https://writethedocs.venueless.events/"  # include trailing /
-VENUELESS_EVENT_SLUG = "wtd25"
+# Pull this from the websocket path in a browser
+VENUELESS_EVENT_SLUG = "wtd252"
 # If not listed in here, ticket is skipped
 ACTIVITY_NAME_TO_TRAIT = {
     "conference": ["onsite"],
@@ -74,7 +75,10 @@ tickets_response = requests.get(
     headers=headers,
 )
 
-for ticket in tickets_response.json()["tickets"]:
+tito_tickets = tickets_response.json()["tickets"]
+print(f"Found {len(tito_tickets)} tickets.")
+
+for ticket in tito_tickets:
     ticket_slug = ticket["slug"]
     ticket_reference = ticket["reference"]
     venueless_meta = ticket.get("metadata").get("venueless") if ticket.get("metadata") else None
@@ -88,11 +92,11 @@ for ticket in tickets_response.json()["tickets"]:
         activity_name = ticket["activities"][0]["name"].lower()
         traits += ACTIVITY_NAME_TO_TRAIT[activity_name]
     except (IndexError, KeyError):
-        continue
+        pass
 
     is_staff = ticket["release"]["title"] == "Staff Ticket"
     print(f'Found ticket {ticket["name"]}: {ticket_reference=} {traits=} {venueless_meta=} {is_staff=}')
-    if not venueless_meta and is_staff:
+    if not venueless_meta:
         pending_tickets.append((ticket_slug, traits))
 
 VENUELESS_WSS_URL = f"{VENUELESS_PUBLIC_URL.replace('https', 'wss')}ws/world/{VENUELESS_EVENT_SLUG}/"
