@@ -8,7 +8,7 @@ banner: _static/conf/images/headers/2025/unconference.jpg
 <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
 <tr>
   <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-     <a href="{{unconf.url}}" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Sign up to Lead a Monday Unconference</a>
+     <a href="{{unconf.url}}" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">See the Unconference schedule</a>
   </td>
 </tr>
 </table>
