@@ -246,7 +246,7 @@ flagscheduleincomplete: False
 flaghasshirts: False
 flaglivestreaming: False
 flagvideos: False
-flagpostconf: False
+flagpostconf: True
 flaghasbadgeflair: False
 
 # Truthy things that don't change
