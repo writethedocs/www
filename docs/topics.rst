@@ -86,34 +86,39 @@ Formatting
 - |:newspaper:| `Using callouts/admonitions in tech docs </blog/newsletter-october-2024/#using-callouts-admonitions-in-tech-docs>`__
 - |:newspaper:| `What to do about text wrapping </blog/newsletter-july-2019/#what-to-do-about-text-wrapping>`__
 - |:newspaper:| `Number formatting in data tables </blog/newsletter-april-2018/#number-formatting-in-data-tables>`__
-- |:newspaper:| `Formatting and updating images and screenshots </blog/newsletter-november-2017/#worth-it-images-screenshots>`__
-- |:newspaper:| `Cropping screenshots </blog/newsletter-june-2017/#how-do-you-crop-your-screenshots>`__
 - |:newspaper:| `Different types of brackets </blog/newsletter-november-2017/#a-by-any-other-name>`__
 - |:newspaper:| `Formatting for procedures </blog/newsletter-march-2017/#know-the-rules-for-formatting-procedures-and-when-to-break-them>`__
 - |:newspaper:| `Man pages </blog/newsletter-december-2017/#it-s-just-documentation-man>`__
 
+Screenshots
+~~~~~~~~~~~
+
+- |:newspaper:| `Create a screenshot style guide <blog/newsletter-november-2025/#create-a-screenshot-style-guide>`__
+- |:newspaper:| `Automating screenshot capture or translation </blog/newsletter-june-2025/#automating-screenshot-capture-or-translation>`__
+- |:newspaper:| `When to create screenshots </blog/newsletter-december-2022/#when-to-create-screenshots>`__
+- |:newspaper:| `Tips for creating quality screenshots </blog/newsletter-may-2020/#tips-for-creating-quality-screenshots>`__
+- |:movie_camera:| `Graphic Content Warning: The Pros, Cons, and Alternatives to Screenshots </videos/portland/2018/graphic-content-warning-the-pros-cons-and-alternatives-to-screenshots-steve-stegelin/>`__
+- |:newspaper:| `Automated screenshot-taking </blog/newsletter-april-2018/#new-tool-to-try-out-automated-screenshots>`__
+- |:newspaper:| `Formatting and updating images and screenshots </blog/newsletter-november-2017/#worth-it-images-screenshots>`__
+- |:newspaper:| `Cropping screenshots </blog/newsletter-june-2017/#how-do-you-crop-your-screenshots>`__
+- |:movie_camera:| `When bad screenshots happen to good writers </videos/eu/2016/when-bad-screenshots-happen-to-good-writers-swapnil-ogale/>`__
+
 Other media
 ~~~~~~~~~~~
 
-Including videos, diagrams, and screenshots.
+Including videos and diagrams.
 
 - |:newspaper:| `To autoplay animated GIFs or not </blog/newsletter-july-2025/#to-autoplay-animated-gifs-or-not>`__
-- |:newspaper:| `Automating screenshot capture or translation </blog/newsletter-june-2025/#automating-screenshot-capture-or-translation>`__
 - |:newspaper:| `Inclusiveness in diagrams </blog/newsletter-february-2023/#inclusiveness-in-diagrams>`__
-- |:newspaper:| `When to create screenshots </blog/newsletter-december-2022/#when-to-create-screenshots>`__
 - |:newspaper:| `Is written content outdated - and is it time for video? </blog/newsletter-may-2022/#is-written-content-outdated-and-is-it-time-for-video>`__
 - |:newspaper:| `Command prompts in docs </blog/newsletter-october-2020/#command-prompts-in-docs>`__
-- |:newspaper:| `Tips for creating quality screenshots </blog/newsletter-may-2020/#tips-for-creating-quality-screenshots>`__
 - |:movie_camera:| `Set your data free with model-based architecture diagramming </videos/portland/2020/set-your-data-free-with-model-based-architecture-diagramming-avi-flax/>`__
 - |:newspaper:| `Behind the scenes with fonts, emojis, and Unicode </blog/newsletter-october-2019/#behind-the-scenes-with-fonts-emojis-and-unicode>`__
 - |:newspaper:| `Advice for creating technical illustrations </blog/newsletter-august-2019/#advice-for-creating-technical-illustrations>`__
 - |:newspaper:| `Tips and tricks for producing video </blog/newsletter-may-2019/#tips-and-tricks-for-producing-videos>`__
 - |:movie_camera:| `Draw the Docs </videos/portland/2019/draw-the-docs-alicja-raszkowska/>`__
 - |:movie_camera:| `So you want to make videos? </videos/prague/2018/so-you-want-to-make-videos-sarah-ley-hamilton/>`__
-- |:movie_camera:| `Graphic Content Warning: The Pros, Cons, and Alternatives to Screenshots </videos/portland/2018/graphic-content-warning-the-pros-cons-and-alternatives-to-screenshots-steve-stegelin/>`__
-- |:newspaper:| `Automated screenshot-taking </blog/newsletter-april-2018/#new-tool-to-try-out-automated-screenshots>`__
 - |:movie_camera:| `Documentation beyond words </videos/eu/2017/documentation-beyond-words-chris-ward/>`__
-- |:movie_camera:| `When bad screenshots happen to good writers </videos/eu/2016/when-bad-screenshots-happen-to-good-writers-swapnil-ogale/>`__
 - |:movie_camera:| `Screencasting 101 </videos/eu/2015/screencasting-101-dpotter/>`__
 - |:movie_camera:| `How to Write an Email </videos/eu/2015/how-to-write-an-email-ecaine/>`__
 
@@ -284,6 +289,7 @@ Maintenance
 Jobs and careers
 ----------------
 
+- |:newspaper:| `Being the first writer at a startup <blog/newsletter-november-2025/#being-the-first-writer-at-a-startup>`__
 - |:newspaper:| `Where do documentarians “fit” into an organization? </blog/newsletter-may-2025/#where-do-documentarians-fit-into-an-organization>`__
 - |:newspaper:| `Working as a contractor or freelancer </blog/newsletter-october-2024/#working-as-a-contractor-or-freelancer>`__
 - |:newspaper:| `Should Technical Communication Be Its Own Department? </blog/newsletter-may-2024/#should-technical-communication-be-its-own-department>`__
@@ -565,6 +571,7 @@ DITA
 AI and LLMs
 ~~~~~~~~~~~
 
+- |:newspaper:| `Optimizing docs for LLMs </blog/newsletter-november-2025/#optimizing-docs-for-llms>`__
 - |:newspaper:| `AI and the need for product knowledge </blog/newsletter-october-2025/#ai-and-the-need-for-product-knowledge>`__
 - |:newspaper:| `Using AI to prove AI shouldn’t replace you </blog/newsletter-october-2025/#using-ai-to-prove-ai-shouldnt-replace-you>`__
 - |:newspaper:| `The effect of LLMs on docs use </blog/newsletter-september-2025/#the-effect-of-llms-on-docs-use>`__
@@ -722,6 +729,7 @@ Meetups
 Style guides
 ~~~~~~~~~~~~
 
+- |:newspaper:| `Create a screenshot style guide <blog/newsletter-november-2025/#create-a-screenshot-style-guide>`__
 - |:newspaper:| `Choosing a style guide </blog/newsletter-november-2022/#choosing-a-style-guide>`__
 - |:movie_camera:| `The Art of Consistency: Creating an in-house style guide <https://www.youtube.com/watch?v=IDLSiX9O0Lg&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=11>`__
 - |:movie_camera:| `Building a style guide from the ground up: lessons learned from a lone writer </videos/portland/2021/building-a-style-guide-from-the-ground-up-lessons-learned-from-a-lone-writer-deanna-thompson/>`__
