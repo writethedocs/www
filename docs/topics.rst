@@ -93,7 +93,7 @@ Formatting
 Screenshots
 ~~~~~~~~~~~
 
-- |:newspaper:| `Create a screenshot style guide <blog/newsletter-november-2025/#create-a-screenshot-style-guide>`__
+- |:newspaper:| `Create a screenshot style guide </blog/newsletter-november-2025/#create-a-screenshot-style-guide>`__
 - |:newspaper:| `Automating screenshot capture or translation </blog/newsletter-june-2025/#automating-screenshot-capture-or-translation>`__
 - |:newspaper:| `When to create screenshots </blog/newsletter-december-2022/#when-to-create-screenshots>`__
 - |:newspaper:| `Tips for creating quality screenshots </blog/newsletter-may-2020/#tips-for-creating-quality-screenshots>`__
@@ -289,7 +289,7 @@ Maintenance
 Jobs and careers
 ----------------
 
-- |:newspaper:| `Being the first writer at a startup <blog/newsletter-november-2025/#being-the-first-writer-at-a-startup>`__
+- |:newspaper:| `Being the first writer at a startup </blog/newsletter-november-2025/#being-the-first-writer-at-a-startup>`__
 - |:newspaper:| `Where do documentarians “fit” into an organization? </blog/newsletter-may-2025/#where-do-documentarians-fit-into-an-organization>`__
 - |:newspaper:| `Working as a contractor or freelancer </blog/newsletter-october-2024/#working-as-a-contractor-or-freelancer>`__
 - |:newspaper:| `Should Technical Communication Be Its Own Department? </blog/newsletter-may-2024/#should-technical-communication-be-its-own-department>`__
@@ -729,7 +729,7 @@ Meetups
 Style guides
 ~~~~~~~~~~~~
 
-- |:newspaper:| `Create a screenshot style guide <blog/newsletter-november-2025/#create-a-screenshot-style-guide>`__
+- |:newspaper:| `Create a screenshot style guide </blog/newsletter-november-2025/#create-a-screenshot-style-guide>`__
 - |:newspaper:| `Choosing a style guide </blog/newsletter-november-2022/#choosing-a-style-guide>`__
 - |:movie_camera:| `The Art of Consistency: Creating an in-house style guide <https://www.youtube.com/watch?v=IDLSiX9O0Lg&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=11>`__
 - |:movie_camera:| `Building a style guide from the ground up: lessons learned from a lone writer </videos/portland/2021/building-a-style-guide-from-the-ground-up-lessons-learned-from-a-lone-writer-deanna-thompson/>`__
