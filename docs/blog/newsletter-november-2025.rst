@@ -125,7 +125,7 @@ Events coming up
 - 11 Nov, 18:30 PST (San Francisco, USA): `Strategies for Leveling Up Your Technical Writing Skills <https://www.meetup.com/write-the-docs-bay-area/events/311031264/>`__
 - 13 Nov, 18:00 CST (Austin, USA): `Write the Docs ATX Social Event @ Cherrywood Coffeehouse <https://www.meetup.com/writethedocs-atx-meetup/events/311558105/>`__
 - 14 Nov, 08:30 EST (US East Coast Virtual): `Write the Docs East Coast Virtual Meetup <https://www.meetup.com/write-the-docs-east-coast/events/309520004/>`__
-- 14 Nov, 17:30 EST (Carolinas, USA): `Charleston WtD Meetup - Social/Happy Hour <https://www.meetup.com/write-the-docs-carolinas/events/311795694/>`__
+- 14 Nov, 17:30 EST (Carolinas, USA): `Charleston WTD Meetup - Social/Happy Hour <https://www.meetup.com/write-the-docs-carolinas/events/311795694/>`__
 - 15 Nov, 08:00 WAT (Port Harcourt & Lagos, Nigeria): `Building an Effective Documentation Culture for Sustainability  <https://www.meetup.com/write-the-docs-nigeria/events/311775896/>`__
 - 20 Nov, 18:30 GMT (London, United Kingdom): `Find, Scan, Read: A Structured Approach to Documentation Creation & Improvement <https://www.meetup.com/write-the-docs-london/events/311217477/>`__
 - 21 Nov, 12:00 PST (Portland, USA): `Write the Docs PDX - Casual Fridays Meetup - Friday, 11/21 @ noon <https://www.meetup.com/write-the-docs-pdx/events/311827735/>`__
