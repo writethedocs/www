@@ -9,7 +9,7 @@ banner: _static/conf/images/pics/2025/recap-2025.jpg
    :tags: {{shortcode}}-{{year}}
 ```
 
-# Berlin 2025 Recap - Talk Videos, Photos, CoC Report
+# {{name}} {{year}} Recap - Talk Videos, Photos, CoC Report
 
 Hi everyone,
 
@@ -22,17 +22,17 @@ It was amazing to see many of you again in Berlin and online!
 It has been a long time since we organised an in-person European conference, and we weren't quite sure how it was going to work out.
 But, with **220 in-person attendees** and **120 virtual attendees**, it was a great success. We had the usual mix of talks on the main stage along with Q&A, lightning talks, Unconference sessions, a social event.
 
-We will continue to work on improving the conference experience for everyone, and we're exploring the option of a larger in-person venue, and bringing back Writing Day. We appreciate all the feedback we've received already.
+We will continue to work on improving the conference experience for everyone, and we're exploring the option of a larger in-person venue, and bringing back Writing Day. We appreciate all the feedback we've received already. If you have not provided feedback yet, please do.
 
 ## Talk videos
 
-**Talk videos are available now.** This includes all conference talks with Q&A, as well as the lightning talks. Our [Berlin 2025 playlist](https://www.youtube.com/playlist?list=) has all the videos.
+**Talk videos are available now.** This includes [all conference talks with Q&A, as well as the lightning talks](https://www.youtube.com/playlist?list=PLZAeFn6dfHpkP1wAM5OIqAMH4guScopET).
 
 Thanks again to all our presenters, emcees, and folks who asked wonderful questions!
 
 ## Conference photos
 
-The conference photos are almost all uploaded and edited. Our [2025 Berlin Flickr album](https://www.flickr.com/photos/writethedocs/albums//) has over 100 photos, thanks to our wonderful photographer [Kay](https://www.instagram.com/goatladykay/)! 
+The conference photos are almost all uploaded and edited. Our [2025 Berlin Flickr album](https://www.flickr.com/photos/writethedocs/albums/72177720329921230) has over 100 photos, thanks to our wonderful photographer [Kay](https://www.instagram.com/goatladykay/)! 
 
 We really love the photos each year, and you're welcome to use them for non-commercial purposes, such as conference write-ups, as per our [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/2.0/).
 
@@ -48,7 +48,7 @@ To ensure that our CoC was visible and accessible, we took a number of specific 
 - We specifically stressed that the CoC applies to all conference spaces, including the social event.
 - We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.
 
-TODO ACTUAL REPORT
+There were no Code of Conduct issues reported for this conference.
 
 Attendees can always report incidents, even after the conference, by emailing us at [conduct@writethedocs.org](mailto:conduct@writethedocs.org).
 
