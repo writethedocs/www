@@ -1,11 +1,11 @@
 ---
 template: {{year}}/generic.html
-og:image: /_static/conf/images/pics/2025/recap-2025.jpg
-banner: _static/conf/images/pics/2025/recap-2025.jpg
+og:image: /_static/conf/images/pics/2025/recap-berlin-2025.jpg
+banner: _static/conf/images/pics/2025/recap-berlin-2025.jpg
 ---
 
 ```{eval-rst}
-.. post:: October 30, 2025
+.. post:: November 6, 2025
    :tags: {{shortcode}}-{{year}}
 ```
 
@@ -15,14 +15,14 @@ Hi everyone,
 
 Our team is slowly emerging from the post-conference recovery period, and we wanted to send out a quick message to thank everyone for helping to make Write the Docs {{name}} 2025 such a success. We appreciate everyone who makes the conference possible: speakers, sponsors, organizers, volunteers, and attendees alike!
 
-It was amazing to see many of you again in Berlin and online!
+It was amazing to see many of you again, both in Berlin and online!
 
 ## Conference recap
 
 It has been a long time since we organised an in-person European conference, and we weren't quite sure how it was going to work out.
-But, with **220 in-person attendees** and **120 virtual attendees**, it was a great success. We had the usual mix of talks on the main stage along with Q&A, lightning talks, Unconference sessions, a social event.
+But, with **215 in-person attendees** and **120 virtual attendees**, it was a great success. We had the usual mix of talks on the main stage along with Q&A, Lightning Talks, Unconference sessions, and a social event.
 
-We will continue to work on improving the conference experience for everyone, and we're exploring the option of a larger in-person venue, and bringing back Writing Day. We appreciate all the feedback we've received already. If you have not provided feedback yet, please do.
+We will continue to work on improving the conference experience for everyone, and we're exploring the option of a larger in-person venue, bringing back Writing Day, and some ideas for virtual enhancements. We appreciate all the feedback we've received already. If you have not provided feedback yet, please do.
 
 ## Talk videos
 
@@ -35,6 +35,12 @@ Thanks again to all our presenters, emcees, and folks who asked wonderful questi
 The conference photos are almost all uploaded and edited. Our [2025 Berlin Flickr album](https://www.flickr.com/photos/writethedocs/albums/72177720329921230) has over 100 photos, thanks to our wonderful photographer [Kay](https://www.instagram.com/goatladykay/)! 
 
 We really love the photos each year, and you're welcome to use them for non-commercial purposes, such as conference write-ups, as per our [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/2.0/).
+
+## T-shirts Are Available
+
+The [Write the Docs {{city}} {{year}} T-shirt Shop]({{shirts.url}}) is still open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want. As in previous years, we're doing a mail order shop so people can order the exact shirt they want, if they want one.
+
+The campaign will run in batches until {{shirts.ends}}. Shipping is available from the USA or Europe.
 
 ## Code of Conduct transparency report
 
@@ -54,8 +60,8 @@ Attendees can always report incidents, even after the conference, by emailing us
 
 ## Come to our upcoming events
 
-Our next conference is [Portland 2026](http://www.writethedocs.org/conf/portland/2026/) on May 3-5, 2026 **Portland, Oregon**.
-And, there may be a [Write the Docs Meetup](https://www.writethedocs.org/meetups/) near you.
+Our next conference is [Portland 2026](http://www.writethedocs.org/conf/portland/2026/) on May 3-5, 2026 **Portland, Oregon, USA**.
+There may also be a [Write the Docs Meetup](https://www.writethedocs.org/meetups/) in your area. View the list to stay connected with the community.
 
 ## Thanks again
 
