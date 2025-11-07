@@ -32,7 +32,7 @@ Thanks again to all our presenters, emcees, and folks who asked wonderful questi
 
 ## Conference photos
 
-The conference photos are almost all uploaded and edited. Our [2025 Berlin Flickr album](https://www.flickr.com/photos/writethedocs/albums/72177720329921230) has over 100 photos, thanks to our wonderful photographer [Kay](https://www.instagram.com/goatladykay/)! 
+The [conference photos](https://www.flickr.com/photos/writethedocs/albums/72177720329921230), thanks to our wonderful photographer [Kay](https://www.instagram.com/goatladykay/)! 
 
 We really love the photos each year, and you're welcome to use them for non-commercial purposes, such as conference write-ups, as per our [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/2.0/).
 
