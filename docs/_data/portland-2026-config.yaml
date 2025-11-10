@@ -172,12 +172,12 @@ about:
   job_fair_room: Sponsor area
 
 cfp:
-  url: "https://pretalx.com/wtd-portland-2026/cfp" # Open October 6 (Mon) -> 9 weeks to submit
-  ends: "January 21, 2026"                         # (Mon) 1 week, to review. It'll take a little longer to announce
-  notification: "February 4, 2026"                 # (Mon) 8 weeks to write and prepare
-  speaker_tickets_by: April 18, 2026                  # Approx 4 weeks before
-  slides_by: "April 28, 2026"                      # (Mon) 1 week before
-  preview: "https://writethedocs-www--2334.org.readthedocs.build/conf/portland/2026/schedule/"                                  # Preview URL TODO
+  url: "https://pretalx.com/wtd-portland-2026/cfp" # Open mid November, approx 12 weeks to submit
+  ends: "January 19, 2026"                         # (Mon) 1 week, to review. It'll take a little longer to announce
+  notification: "February 2, 2026"                 # (Mon) 8 weeks to write and prepare
+  speaker_tickets_by: April 13, 2026               # (Mon) Approx 3 weeks before
+  slides_by: "April 27, 2026"                      # (Mon) 1 week before
+  preview: "TBD"                                  # Preview URL TODO
 
 unconf:
   url: ""
