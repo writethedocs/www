@@ -5,7 +5,7 @@ banner: _static/conf/images/pics/2025/recap-berlin-2025.jpg
 ---
 
 ```{eval-rst}
-.. post:: November 6, 2025
+.. post:: November 10, 2025
    :tags: {{shortcode}}-{{year}}
 ```
 

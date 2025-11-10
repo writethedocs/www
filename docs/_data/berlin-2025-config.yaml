@@ -41,7 +41,7 @@ buttons:
     # - text: Watch the Live Stream
     #   link: /livestream
      - text: Watch the videos
-       link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpm4FboYSTD1Bs8Yp8k_JvAL
+       link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkP1wAM5OIqAMH4guScopET
      - text: Conference recap
        link: /news/thanks-recap
   bottom:
@@ -66,7 +66,7 @@ buttons:
      - text: Browse the photos
        link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720329921230
      - text: Watch the videos!
-       link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpm4FboYSTD1Bs8Yp8k_JvAL
+       link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkP1wAM5OIqAMH4guScopET
 
 tickets:
   concierge:
