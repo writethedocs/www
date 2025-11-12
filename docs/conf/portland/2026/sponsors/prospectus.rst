@@ -89,7 +89,7 @@ All packages can be customized, so let us know what you need!
 Keystone
 --------
 
-**{{sponsorship.keystone.price}}** - :strike:`Limit 1` (Sold out)
+**{{sponsorship.keystone.price}}** - **Limit 1**
 
 The **Keystone** sponsorship highlights you as the primary sponsor of the conference. You get all in-person benefits, and the best placement for all physical spaces.
 
@@ -122,7 +122,6 @@ Benefits
 
 - Six (6) tickets, with additional available to purchase at a discounted rate of $500/ticket.
 - A **sponsorship booth** for the entire conference (Monday & Tuesday).
-- **30 second introduction** on the main stage introducing your company.
 - A table at Writing Day on Sunday OR Unconference Monday or Tuesday, where you can engage in an official event space.
 - Dedicated social media post.
 - Logo included in intermission slides and on talk videos.
@@ -141,10 +140,12 @@ Benefits
 ^^^^^^^^
 
 - Four (4) tickets, with additional available to purchase at a discounted rate of $500/ticket.
+- Logo included in intermission slides and on talk videos.
 - A table at Writing Day on Sunday OR Unconference Monday or Tuesday, where you can engage in an official event space.
-- Logo on the conference website.
+- Dedicated social media post.
+- Logo and description (150 characters) on the conference website.
 - Name included in all conference emails to attendees.
-- Display promotional “Swag” items on the conference swag table (provided by sponsor).
+- Display promotional "Swag" items on the conference swag table (provided by sponsor).
 
 Second Draft
 ------------
@@ -170,7 +171,7 @@ combined with one of the previous packages to increase visibility at the event.
 Lightning Talks
 ---------------
 
-**$3,500** - :strike:`Limit 2` (Sold out)
+**$3,500** - **Limit 2**
 
 Sponsor one day of Lightning Talks, where attendees have 5 minutes to share something they are excited about working on. You will have 60 seconds at the start to introduce your company.
 
@@ -185,7 +186,7 @@ Benefits
 Opportunity Grants
 ------------------
 
-**$2,500** - **Limit 2**
+**$2,000** - **Limit 2**
 
 Provide additional funding for our Opportunity Grant program, which supports equity and accessibility and provides funding for low-income, marginalized people to attend the conference.
 These individuals would otherwise not be able to attend.
@@ -196,6 +197,7 @@ Benefits
 - Logo will be shown onstage during opening and closing staff presentations as a grant sponsor.
 - Logo on the conference website.
 - Name included in welcome announcement in email newsletters and social media.
+- Display promotional "Swag" items on the conference swag table (provided by sponsor).
 
 Inquiries
 =========
