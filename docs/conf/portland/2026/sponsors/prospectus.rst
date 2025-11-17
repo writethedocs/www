@@ -97,16 +97,15 @@ Benefits
 ^^^^^^^^
 
 - Eight (8) tickets, with additional available to purchase at a discounted rate of $500/ticket.
-- Most visible **sponsorship booth** for the entire conference (Monday & Tuesday).
+- Most visible **sponsorship booth** for the entire conference (Monday & Tuesday). Monitor included in booth.
 - Sponsorship of a primary Write the Docs conference event (Unconference, Writing Day, or Social Event). 
 - **60 second introduction** on the main stage introducing your company.
 - Large logo on print material.
 - Large logo included in intermission slides and on talk videos.
-- Logo and long description (500 characters) on the conference website.
+- Logo and long description (250 words) on the conference website.
 - Name in all conference email promotion.
 - Dedicated social media post.
 - One email promotion to our conference email list. Includes logo and 2 paragraphs of copy.
-- Slack Sponsorship promotion in Write the Docs Slack channel ahead of the conference.
 - Display promotional “Swag” items on the conference swag table (provided by sponsor).
 
 
@@ -121,11 +120,11 @@ Benefits
 ^^^^^^^^
 
 - Six (6) tickets, with additional available to purchase at a discounted rate of $500/ticket.
-- A **sponsorship booth** for the entire conference (Monday & Tuesday).
-- A table at Writing Day on Sunday OR Unconference Monday or Tuesday, where you can engage in an official event space.
+- A **sponsorship booth** for the entire conference (Monday & Tuesday). Monitor rental available for $500.
+- **30 second introduction** on the main stage introducing your company.
 - Dedicated social media post.
 - Logo included in intermission slides and on talk videos.
-- Logo and description (250 characters) on the conference website.
+- Logo and description (150 words) on the conference website.
 - Name in conference email promotion.
 - Display promotional “Swag” items on the conference swag table (provided by sponsor).
 
@@ -134,16 +133,15 @@ Publisher
 
 **{{sponsorship.publisher.price}}**
 
-The **Publisher** package is great for a company looking to send some employees and engage as a sponsor in a conference event like the Unconference or Writing Day.
+The **Publisher** package is great for a company looking to send some employees and have a presence at the event.
 
 Benefits
 ^^^^^^^^
 
 - Four (4) tickets, with additional available to purchase at a discounted rate of $500/ticket.
 - Logo included in intermission slides and on talk videos.
-- A table at Writing Day on Sunday OR Unconference Monday or Tuesday, where you can engage in an official event space.
 - Dedicated social media post.
-- Logo and description (150 characters) on the conference website.
+- Logo and description (100 words) on the conference website.
 - Name included in all conference emails to attendees.
 - Display promotional "Swag" items on the conference swag table (provided by sponsor).
 
