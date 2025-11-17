@@ -32,7 +32,7 @@
 
         <title>
         {% block full_title %}
-        {% if title %}{{ title }}{% endif %} - Write the Docs {% if cobrand is defined and cobrand %} + {{ cobrand.brand }} {% endif %}  {{ name }} {{ year }}
+        {% if title %}{{ title }}{% endif %} - Write the Docs {{ name }} {{ year }}
         {% endblock full_title %}
         </title>
 
@@ -83,7 +83,7 @@
         </div>
         {% endif %}
 
-        <footer {% if cobrand is defined%}style="height: 500px;"{% endif %}>
+        <footer>
             <div class="footer-padding"></div>
             <div class="uk-container">
                 <div class="footer-content">
@@ -93,10 +93,6 @@
                                 Write<br>
                                 the<br>
                                 Docs<br>
-                                {% if cobrand is defined and cobrand %}
-                                <em>+</em>
-                                {{ cobrand.brand_html }}
-                                {% endif %}
                                 <em>{{ name }}</em>
                                 <br><em style="top: -16px;">{{ year }}</em>
                         {% endblock %}
