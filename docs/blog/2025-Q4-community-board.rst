@@ -9,7 +9,7 @@ Greetings, documentarians! Mikey Ariel here, chairperson of the WTD community bo
 
 To catch up on previous quarterly updates, check out the `community board blog posts <https://www.writethedocs.org/blog/archive/tag/community-board/>`_ archive. 
 
-Q3-2025 quarterly meeting highlights
+Q4-2025 highlights
 ------------------------------------
 
 For this quarter, the board meeting was canceled due to the proximity to the inogural Berlin conference. This was the first time that the board did not meet in real-time, since some members were traveling to the conference. 
