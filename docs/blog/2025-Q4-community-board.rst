@@ -35,7 +35,7 @@ Here are the highlights from the meeting:
     The Nigeria meetup held their first summit earlier in November 2025, and <thoughts? recap links?>. In addition, the Kenya meetup organizers are highly engaged and are discussing more expanded community activity. We hope to see more documentarian community activities in this continent, and will update when additional events are announced. 
 
 **Newsletter team changes**
-    The newletter team is sad to announce that two of their members will be stepping down from their roles. This is not unexpected since the team includes mostly volunteers, but we will miss <do we want to name names?>. If you've been considering joining one of the WTD community teams, the newsletter is a great place to start and stay! Please contact Aaron Collier on Slack or email if interested. 
+    The newsletter team is sad to announce that two of their members will be stepping down from their roles. This is not unexpected since the team includes mostly volunteers, but we will miss <do we want to name names?>. If you've been considering joining one of the WTD community teams, the newsletter is a great place to start and stay! Please contact Aaron Collier on Slack or email if interested. 
 
 As always, the board continues to review the community backlog to determine what are the most valuable efforts for the community in the short and long term. 
 
