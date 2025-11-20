@@ -6,7 +6,7 @@ banner: _static/conf/images/headers/2025/grants.jpg
 
 # Opportunity Grants
 
-The Grant program for Write the Docs Portland 2025 supports people who would otherwise not be able to attend the conference by covering ticket and/or attendance costs. 
+The Grant program for Write the Docs Portland 2026 supports people who would otherwise not be able to attend the conference by covering ticket and/or attendance costs. 
 
 ## Eligibility
 
@@ -18,7 +18,7 @@ You are welcome to apply, even if you have received a grant before from our conf
 
 We prioritize applications based on the overall impact that granting an application will have on the applicant, the Write the Docs community, and the applicant’s wider community and country. However, there are no requirements for you to meet. In other words, if you’re unsure, please apply.
 
-Grant applicants, like all other participants in the Write the Docs community, are required to follow the [Code of Conduct](https://www.writethedocs.org/conf/portland/2025/code-of-conduct/).
+Grant applicants, like all other participants in the Write the Docs community, are required to follow the [Code of Conduct](https://www.writethedocs.org/conf/portland/2026/code-of-conduct/).
 
 ## Schedule
 
@@ -27,7 +27,7 @@ Grant applicants, like all other participants in the Write the Docs community, a
 
 ## What is Covered
 
-**All grants include a free conference ticket.** This is the most common and possible grant for us to award. View our [ticket page](https://www.writethedocs.org/conf/portland/2025/tickets/) for what is included with a conference ticket.
+**All grants include a free conference ticket.** This is the most common and possible grant for us to award. View our [ticket page](https://www.writethedocs.org/conf/portland/2026/tickets/) for what is included with a conference ticket.
 
 We can assist with typical costs such as travel and accommodation, but you may request other costs you need covered to attend.
 
