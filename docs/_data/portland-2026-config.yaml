@@ -112,7 +112,7 @@ shirts:
   ends: "May 31, 2026"
 
 date: # how do we handle these? human readable would be nice.
-  main: "**May 3-5, 2026**"
+  main: "**May 3-5, 2026**"  # Excludes Saturday hike
   short: May 3-5, 2026
   tickets_live: "December 2025"
   month: May
@@ -120,21 +120,21 @@ date: # how do we handle these? human readable would be nice.
   # Conference is special for the index to show the combined conference days
   conference:
     event: Speaker Talks
-    date: May 5-6
+    date: May 4-5
     summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience.
     icon: conference
 
   # These are listed in the schedule
   day_one:
     event: Hike
-    date: May 3
+    date: May 2
     # summary: We encourage you to go on a hike in your own beautiful home town.
     summary: If you're in town early, join us for the Hike. Portland has excellent access to the woods right in the city.
     icon: hike
     dotw: Saturday
   day_two:
     event: Writing Day
-    date: May 4
+    date: May 3
     summary: Kick off the conference with Writing Day and work with fellow documentarians on a project. Followed by the opening reception.
     icon: writing
     dotw: Sunday
@@ -142,7 +142,7 @@ date: # how do we handle these? human readable would be nice.
     reception_time: 5-7pm
   day_three:
     event: Conference Day 1
-    date: May 5
+    date: May 4
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Monday
     talk_time: 9am-5pm
@@ -151,7 +151,7 @@ date: # how do we handle these? human readable would be nice.
     icon: conference
   day_four:
     event: Conference Day 2
-    date: May 6
+    date: May 5
     summary: And the conference goes on! More talks and unconference today!
     dotw: Tuesday
     talk_time: 9am-4pm
@@ -181,14 +181,14 @@ cfp:
 
 unconf:
   url: ""
-  date: "All day, Monday, May 5 and Tuesday, May 6"
+  date: "All day, Monday, May 4 and Tuesday, May 5"
 
 writing_day:
   url: "https://docs.google.com/forms/u/1/d/e/1FAIpQLSeHMZ1uXTfnT0HMm-KfsgxYV1w3tmS7bMPtBx4H9cktJpSrdg/viewform?usp=dialog"
-  date: Sunday, May 4, 9 AM - 5 PM
+  date: Sunday, May 3, 9 AM - 5 PM
 
 hike:
-  date: Saturday, May 3, 2 PM
+  date: Saturday, May 2, 2 PM
 
 sponsors:
   keystone:

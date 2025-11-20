@@ -49,7 +49,7 @@ Write the Docs {{ name }} {{ year }} is a hybrid conference, which you can atten
 * Wifi throughout the event
 * Meeting lots of fantastic people in a spacious, inviting venue
 
-Learn more about the `virtual attendance experience </conf/portland/2025/virtual/>`_.
+Learn more about the `virtual attendance experience </conf/portland/2026/virtual/>`_.
 
 All attendees, in person or virtual, are required to abide by our `Code of Conduct <https://www.writethedocs.org/code-of-conduct/>`_.
 
@@ -107,7 +107,7 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 **Virtual Tickets** *{{tickets.virtual.price}}*
 --------------------------------------------
 
-Join us virtually for the main conference days (May 4-5). Learn more about the `virtual attendance experience </conf/portland/2025/virtual/>`_.
+Join us virtually for the main conference days (May 4-5). Learn more about the `virtual attendance experience </conf/portland/2026/virtual/>`_.
 
 {% if flagticketsonsale %}
 
