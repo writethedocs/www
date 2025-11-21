@@ -16,7 +16,6 @@ For this quarter, the board meeting was canceled due to the proximity to the ina
 
 Fear not, the team leads provided their updates asynchronously, so we still have some news for you!
 
-Here are the highlights from the meeting:
 
 **WTD Berlin conference**
     The Berlin conference was a resounding success, thanks to our conference chair, Sasha Romijn, and our producer, Katie Janovec, who also produces the Portland conferences. Sasha is already thinking about 2026, and how to improve both the in-person and virtual experiences for attendees. 
