@@ -32,7 +32,7 @@ Here are the highlights from the meeting:
     We would like to remind the community that Slack interactions are a part of our official spaces, so if anyone receives unusual or suspicious DMs, please share them with the Slack moderators so they can ban any bad actors. 
 
 **WTD events in Africa**
-    The Nigeria meetup held their first summit earlier in November 2025, and <thoughts? recap links?>. In addition, the Kenya meetup organizers are highly engaged and are discussing more expanded community activity. We hope to see more documentarian community activities in this continent, and will update when additional events are announced. 
+    The Nigeria meetup held their first summit earlier in November 2025, and <thoughts? recap links?>. In addition, some of the Kenya conference organizers are highly engaged and are discussing more expanded community activity. We hope to see more documentarian community activities in this continent, and will update when additional events are announced. 
 
 **Newsletter team changes**
     The newsletter team is sad to announce that two of their members will be stepping down from their roles. We understand that volunteers move on when the time is right, but we will miss Hillary Fraley and Royce Cook. If you've been considering joining one of the WTD community teams, the newsletter is a great place to start and stay! Please contact Aaron Collier on Slack if interested. 
