@@ -12,16 +12,15 @@ Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel a
 Upcoming Book Club
 ------------------
 
-Our next book club starts Monday, June 3, 2024.
+Our next book club starts Tuesday, November 25, 2025.
 
-Book: Elton Stoneman's `Learn Kubernetes in a Month of Lunches <https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches>`_
-
-Note: Unlike most WTD book club reads, this book club will be in the #kubernetes channel in the WTD Slack community.
+Book: Manny Silva's `Docs as Tests: A Strategy for Resilient Technical Documentation <https://www.amazon.com/dp/0994169361>`_
 
 
 Previous Book club reads
 ------------------------
 
+* June - July 2024: Elton Stoneman's `Learn Kubernetes in a Month of Lunches <https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches>`_
 * March - May 2024: Alejandra Quetzalli's `Docs-as-Ecosystem <https://www.docsasecosystem.com/>`_
 * July - August 2023: Laura Kalbag's `Accessibility for Everyone <https://abookapart.com/products/accessibility-for-everyone>`_
 * February - April 2023: June Casagrande's `It Was the Best of Sentences, It Was the Worst of Sentences <https://www.penguinrandomhouse.com/books/198856/it-was-the-best-of-sentences-it-was-the-worst-of-sentences-by-june-casagrande/>`_
