@@ -28,7 +28,7 @@ Remember to change the things in [brackets]!
 
 *Costs:*
 
-- *[Conference ticket](https://www.writethedocs.org/conf/portland/2025/tickets/) - $650*
+- *[Conference ticket](https://www.writethedocs.org/conf/portland/2026/tickets/) - $650*
 
 *Benefits:*
 
@@ -47,7 +47,7 @@ When discussing how to pitch the conference, a few generally helpful tips emerge
 - If your company is looking to hire another documentarian, the networking is an excellent resource.
 - Attending raises the visibility of your company in the community. 
 - Establishes your team's reputation for caring about their docs.
-- Share info about previous conferences. View the [main page overview](https://www.writethedocs.org/conf/portland/2025/) explaining Write the Docs, history, and schedule overview.
+- Share info about previous conferences. View the [main page overview](https://www.writethedocs.org/conf/portland/2026/) explaining Write the Docs, history, and schedule overview.
 
 ## Sample Email # 2
 
@@ -69,12 +69,12 @@ Remember to change the things in [brackets]!
 
 *Costs:*
 
-- *[Conference ticket](https://www.writethedocs.org/conf/portland/2025/tickets/) - $650*
+- *[Conference ticket](https://www.writethedocs.org/conf/portland/2026/tickets/) - $650*
 
 *Writing Day Benefits:*
 
 - *Introduce our project and community to a new audience and demographic in our industry*
-- *Get highlighted as a project in the conference blog and announcements (must submit online by April 17, 2025)*
+- *Get highlighted as a project in the conference blog and announcements (must submit online by April 17, 2026)*
 - *Onboard documentation enthusiasts to increase the likelihood of post-conference contributions*
 - *Strategically tackle documentation tickets and requests*
 - *Update existing documentation
@@ -98,5 +98,5 @@ When discussing how to pitch Writing Day, a few helpful tips emerged:
 - If your community is looking for regular documentation contributions, this is a great place to onboard potential contributors and editors.
 - Attending raises the visibility of your company in the community. 
 - Establishes your team's reputation for caring about their docs.
-- Review the [tips for leading a project](https://www.writethedocs.org/conf/portland/2025/writing-day/#lead-a-project) at Writing Day.
-- Share info about previous conferences. View the [main page overview](https://www.writethedocs.org/conf/portland/2025/) explaining Write the Docs, history, and schedule overview.
+- Review the [tips for leading a project](https://www.writethedocs.org/conf/portland/2026/writing-day/#lead-a-project) at Writing Day.
+- Share info about previous conferences. View the [main page overview](https://www.writethedocs.org/conf/portland/2026/) explaining Write the Docs, history, and schedule overview.

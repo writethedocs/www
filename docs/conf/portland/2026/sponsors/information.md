@@ -6,7 +6,7 @@ banner: _static/conf/images/headers/2025/sponsors.jpg
 
 # Sponsor Information
 
-Hi sponsors! We're excited to have you join us for Write the Docs Portland 2025. Below is a conference overview, schedule, and detailed information regarding your participation.
+Hi sponsors! We're excited to have you join us for Write the Docs Portland 2026. Below is a conference overview, schedule, and detailed information regarding your participation.
 
 ## Location
 

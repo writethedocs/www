@@ -32,7 +32,7 @@ There are wonderful hotels located within two miles of the venue. Many of these 
 
 [KEX Hotels](https://kexhotels.com/)
 
-- **20% Off Discount Code: DOCS2025**
+- **20% Off Discount Code: DOCS2026**
 - Pacific Standard restaurant/bar in the lobby
 - Historic building near shops and restaurants
 - 0.8 miles to the venue
