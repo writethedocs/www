@@ -28,8 +28,8 @@ buttons:
       link: /news/welcome
     # - text: Sponsor us
     #   link: /sponsors/prospectus
-    #- text: Submit a Talk
-    #  link: /cfp
+    - text: Submit a Talk
+      link: /cfp
     # - text: See the Schedule!
     #   link: /schedule
     # - text: Buy a Ticket
@@ -47,8 +47,8 @@ buttons:
   bottom:
     - text: Welcome to our conference
       link: /news/welcome
-    # - text: Sponsor us
-    #   link: /sponsors/prospectus
+    - text: Sponsor us
+      link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
     # - text: Buy a Ticket!
@@ -199,9 +199,9 @@ sponsors:
   in_kind:
 
 # Things that change over time, listed in order of change
-flaglanding: True
+flaglanding: False
 flaghassponsors: False
-flagcfp: False
+flagcfp: True
 flagticketsonsale: False
 flagsoldout: False
 flagspeakersannounced: False

@@ -5,7 +5,7 @@
 Call for Proposals
 ==================
 
-It's that time of year again: We're now accepting talk proposals for our next **in-person** {{ city }} conference, on {{date.main}}.
+It's that time of year again: We're now accepting talk proposals for our next **in-person** {{ city }} conference, on {{date.main}}. New this year we're also accepting a few pre-recorded talks by remote speakers.
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you!
 Read on to learn more about the goals of the conference and what we look for in talk proposals.
@@ -108,7 +108,7 @@ If you are making assumptions about what your audience knows, state them up fron
 Check out topics that might be related to your talk from previous years:
 
 * `Portland {{year-1}} <https://www.writethedocs.org/conf/portland/{{year-1}}/speakers/>`_
-* `Atlantic {{year-1}} <https://www.writethedocs.org/conf/atlantic/{{year-1}}/speakers/>`_
+* `Berlin {{year-1}} <https://www.writethedocs.org/conf/berlin/{{year-1}}/speakers/>`_
 * `Portland {{year-2}} <https://www.writethedocs.org/conf/portland/{{year-2}}/speakers/>`_
 * `Atlantic {{year-2}} <https://www.writethedocs.org/conf/atlantic/{{year-2}}/speakers/>`_
 
@@ -158,10 +158,14 @@ If you already have a ticket, we will of course refund it - just drop us an emai
 Speaker logistics
 -----------------
 
-Presentations will be **{{date.short}}**, scheduled in 30-minute blocks, delivered **in-person, on-stage, live in {{city}}**.
-Please plan to attend the whole event.
+New for Portland, in 2026 we're showing a few pre-recorded talks with live Q&A from remote speakers for our conference on **{{date.short}}**.
 
-All Speakers must read, understand, and agree to our :doc:`/code-of-conduct`. All talks and slides will need to follow our Code of Conduct. If you are unsure about any aspect of this, please ask us for clarification.
+- We'll accept a **maximum of two** pre-recorded talks, which will need to be uploaded around one month before the conference. Because there are only two slots, submitting a remote proposal does reduce the likeliehood of your talk being accepted.
+- All other talks will be delivered **in-person, on-stage, live in {{city}}**.
+
+Both in-person and pre-recorded talks are 30 minutes long, followed by a few minutes of moderated Q&A immediately after the presentation.
+
+All Speakers must read, understand, and agree to our :doc:`/code-of-conduct`. All talks and slides must follow our Code of Conduct. If you are unsure about any aspect of this, please ask us for clarification.
 
 Timeline overview
 -----------------
