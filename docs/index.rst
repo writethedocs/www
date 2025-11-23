@@ -20,13 +20,13 @@ Attend a conference
 
 We have upcoming conferences around the world:
 
-   - :doc:`Berlin 2025 </conf/berlin/2025/index>`, October 27-28, **Berlin, Germany**
    - :doc:`Portland 2026 </conf/portland/2026/index>`, May 3-5, **Portland, Oregon**
 
 Other conferences this year:
 
    - :doc:`Portland 2025 </conf/portland/2025/index>`, May 4-6, **Portland, Oregon**
    - :doc:`Kenya 2025 </conf/kenya/2025/index>`, June 7, 2025, **Nairobi, Kenya**
+   - :doc:`Berlin 2025 </conf/berlin/2025/index>`, October 27-28, **Berlin, Germany**
    - *Cancelled:* :doc:`Australia 2025 </conf/australia/2025/index>`, November 20-21, **Virtual - AEDT**
 
 See all :doc:`our conferences </conf/index>` from past years.
