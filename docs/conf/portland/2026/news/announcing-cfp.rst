@@ -54,9 +54,9 @@ In-person ticket prices are the same as last year:
 
 Virtual tickets will be sold in a similar fashion with 3 tiers this year:
 
-* **Student/Unemployed Virtual**: *{{tickets.virtual_student.price}}*
-* **Independent Virtual**: *{{tickets.virtual_independent.price}}*
-* **Corporate Virtual**: *{{tickets.virtual_corporate.price}}*
+* **Student/Unemployed Virtual**: *{{tickets.virtual.price}}*
+* **Independent Virtual**: *{{tickets.virtual.price}}*
+* **Corporate Virtual**: *{{tickets.virtual.price}}*
 
 As always, we try to keep ticket prices low so that the event is accessible to the widest range of people.
 If you can't afford the tickets and still wish to attend, we will launch our grant program at the same time as tickets.
