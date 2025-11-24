@@ -8,9 +8,9 @@
 Announcing the Call for Proposals and Sponsorship Prospectus
 ============================================================
 
-We're now `accepting talks <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_ for Write the Docs {{city}} {{year}}!
+We're excited to announce our Portland `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_!
 
-We have also launched our updated `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ based on feedback from last year.
+We're also launching our `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ with updated offerings based on feedback from last year.
 
 Our full website and tickets will be live soon.
 
@@ -25,9 +25,9 @@ If there's something you'd really like to see a talk on this year, submit a prop
 
 We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!
 
-We're mainly looking for talk proposals to be delivered in-person, on-stage in Portland, on {{ date.short }}.
+We're looking for talk proposals to be delivered in-person, on-stage in Portland, on {{ date.short }}.
 
-But that's not all, this year we're also opening up a couple of talk slots for pre-recorded videos for remote speakers, so if you can't make it to {{city}} on {{ date.short }} you can still submit your proposal.
+New for 2026, we're also accepting a limited number of pre-recorded talks from remote speakers, so if you can't make it to {{city}} on {{ date.short }} you can still submit your proposal.
 
 You can read our full `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`__, and `submit your talk <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`__ on the website.
 
@@ -37,10 +37,10 @@ Sponsorship Updates
 -------------------
 
 Our `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ is updated for {{ year }},
-and we're excited to have more ways for companies to get involved this year.
+with various improvements based on sponsor feedback.
 
-Our sponsors are the folks building the tools and platforms that we use everyday, and they help make Write the Docs conferences possible.
-If that sounds like your company, please consider joining us again in this year!
+Our sponsors are the folks building the tools and platforms that we use every day, and they help make Write the Docs conferences possible.
+If that sounds like your company, please consider joining us this year!
 
 Tickets
 -------
@@ -55,12 +55,12 @@ In-person ticket prices are the same as last year:
 
 Virtual tickets will be sold in a similar fashion with 3 tiers this year:
 
-* **Student/Unemployed Virtual**: *{{tickets.virtual.price}}*
-* **Independent Virtual**: *{{tickets.virtual.price}}*
-* **Corporate Virtual**: *{{tickets.virtual.price}}*
+* **Student/Unemployed Virtual**: *{{tickets.virtual_student.price}}*
+* **Independent Virtual**: *{{tickets.virtual_independent.price}}*
+* **Corporate Virtual**: *{{tickets.virtual_corporate.price}}*
 
 As always, we try to keep ticket prices low so that the event is accessible to the widest range of people.
-If you can't afford the tickets and still wish to attend, we will launch our grant program at the same time as tickets.
+If you can't afford the tickets and still wish to attend, we will launch our grants program at the same time as tickets.
 
 Stay Updated
 ------------
@@ -74,3 +74,4 @@ Thanks
 ------
 
 We hope you will join us in person for yet another Write the Docs conference.
+Whether as a speaker or attendee, you can bet it will be another excellent year.
