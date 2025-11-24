@@ -115,12 +115,13 @@ Check out topics that might be related to your talk from previous years:
 Writing your proposal
 ---------------------
 
+
 Make sure you read this entire page before putting your proposal together, and pay particular attention to the following points:
 
-- **Spoilers** It's pretty normal not to want to include your main point in your abstract, but please make sure to highlight it for the selection committee!
-- **Research** We don't need all talks to be about an entirely new topic, but if you're suggesting a talk that looks really similar to one that was given last year, demonstrate that you realize this and mention why yours is different.
-- **Tooling** We're pretty serious about preferring talks about people, process or principles than talks about tooling. If you are submitting a proposal about tooling, tell us what makes this one special.
-- **Example proposal** Check out our :doc:`example proposal <example-proposal>` so you know what we expect to see in each field.
+- **Spoilers** – It's pretty normal not to want to include your main point in your abstract, but please make sure to highlight it for the selection committee!
+- **Research** – We don't need all talks to be about an entirely new topic, but if you're suggesting a talk that looks really similar to one that was given last year, demonstrate that you realize this and mention why yours is different.
+- **Tooling** – We're pretty serious about preferring talks about people, process or principles than talks about tooling. If you are submitting a proposal about tooling, tell us what makes this one special.
+- **Example proposal** – Check out our :doc:`example proposal <example-proposal>` so you know what we expect to see in each field.
 
 
 Unsure about speaking?
@@ -133,7 +134,6 @@ If you need a hand preparing or honing your talk proposal, there are lots of goo
 * **Community mentorship** – We have an ever-growing pool of previous Write the Docs speakers, many of whom are happy to be a second pair of eyes on talk proposals. If you're interested in working with a past speaker, let us know at {{ shortcode }}@writethedocs.org!
 * **Meetup brainstorming** – For some in-person workshopping, check in on your `local meetup group <https://www.writethedocs.org/meetups/>`_ and see if they have a talk brainstorming session on their calendar. If they don't... ask if they're planning one!
 * **Slack hivemind** – You can also hit up the hivemind directly on the Write the Docs Slack, any time of day! (If you're not registered yet, you can at `https://www.writethedocs.org/slack/ <https://www.writethedocs.org/slack/>`_.)
-* **Twitter hivemind** – If Twitter is more your speed, `#writethedocs <https://twitter.com/hashtag/writethedocs>`__ will get you there.
 
 Selection process
 -----------------
@@ -151,7 +151,7 @@ Speaker benefits
 
 - Opportunity to share your views and perspectives with the community!
 - Waived attendance fee.
-- Supplemental financial support if needed. If speaking incurs any costs that are difficult for you to cover, `contact us <mailto:{{email}}>`_ and we'll do our best to help out.
+- Supplemental financial support for travel, accommodations, or other costs. If speaking incurs any costs that are difficult for you to cover, `contact us <mailto:{{email}}>`_ and we'll do our best to help out.
 
 If you already have a ticket, we will of course refund it - just drop us an email at `{{email}} <mailto:{{email}}>`_.
 
@@ -170,8 +170,15 @@ All Speakers must read, understand, and agree to our :doc:`/code-of-conduct`. Al
 Timeline overview
 -----------------
 
+
 **{{cfp.ends}}**
     Call for Proposal ends
+
+**{{cfp.speaker_tickets_by}}**
+    Register for speaker ticket (with dietary preferences, hoodie size, etc.)
+
+**April 9, 2026**
+    Upload date for recorded talks (remote speakers)
 
 **{{cfp.notification}}**
     We'll let you know whether your proposal was accepted, and ask for some supplementary information about you.
