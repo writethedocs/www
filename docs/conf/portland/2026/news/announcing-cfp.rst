@@ -8,11 +8,12 @@
 Announcing the Call for Proposals and Sponsorship Prospectus
 ============================================================
 
-We're now accepting talks for `Write the Docs {{city}} {{year}} <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_!
+We're now `accepting talks <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`_ for Write the Docs {{city}} {{year}}!
 
-We're also launching our updated `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_.
+We have also launched our updated `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ based on feedback from last year.
 
 Our full website and tickets will be live soon.
+
 Read on for more details about getting involved this year.
 
 Call for Proposals
