@@ -50,7 +50,7 @@ buttons:
     - text: Sponsor us
       link: /sponsors/prospectus
     - text: Submit a Talk
-     link: /cfp
+      link: /cfp
     # - text: Buy a Ticket!
     #   link: /tickets
     # - text: See the Schedule
