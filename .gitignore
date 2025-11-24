@@ -16,3 +16,6 @@ docs/_scripts/mc-info.md
 *-cfp-reviews.csv
 *.code-workspace
 docs/_scripts/playlist.txt
+
+# Fork-specific documentation for AI assistants (keep out of cross-repo PRs)
+CLAUDE.md
