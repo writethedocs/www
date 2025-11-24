@@ -77,8 +77,12 @@ tickets:
     price: $350
   student:
     price: $100
-  virtual:
-    price: $75
+  virtual_corporate:
+    price: $175
+  virtual_independent:
+    price: $100
+  virtual_student:
+    price: $50
   button: >
     .. raw:: html
 
@@ -86,7 +90,7 @@ tickets:
       <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
       <tr>
           <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-            <a href="https://ti.to/writethedocs/write-the-docs-portland-2025/" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Get your ticket</a>
+            <a href="https://ti.to/writethedocs/write-the-docs-portland-2026/" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Get your ticket</a>
           </td>
       </tr>
       </table>
@@ -94,13 +98,13 @@ tickets:
 
 sponsorship:
   second_draft:
-    price: $2,500
+    price: $3,000
   publisher:
     price: $5,000
   patron:
-    price: $9,000
+    price: $10,000
   keystone:
-    price: $14,000
+    price: $15,000
 
 grants:
   url: https://docs.google.com/forms/d/e/1FAIpQLSf3fGfW_8W1x3oeKeoUpg8ZPLvyY4cQvO5Bii_OTrgW97cLNw/viewform?embedded=true
