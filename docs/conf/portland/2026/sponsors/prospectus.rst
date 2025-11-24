@@ -14,11 +14,13 @@ Introduction
 Welcome to the Write the Docs {{ city }} {{ year }} sponsorship prospectus.
 We're excited to work with the organizations in our community to build the best documentation event in {{ year }}.
 Created in 2013 in Portland, Oregon, WTD has hosted conferences around the world in Prague, Berlin, Sydney, London, and Melbourne.
-We’re excited to celebrate year 12 with your support!
+We’re excited to celebrate this year with your support!
 
-If you're a prospective sponsor, you can view our `PDF sponsorship prospectus <https://drive.google.com/file/d/1CCs5nSG6HTUsYNy8tV9UqjW0yXq8PsQC/view?usp=sharing>`_ if you prefer that format.
+{% if flagrunofshow %}
 
 If you're an existing sponsor looking for next steps, check out our `Sponsorship Information page <{{site}}/conf/{{shortcode}}/{{year}}/sponsors/information>`_.
+
+{% endif %}
 
 Concept
 =======
