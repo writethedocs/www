@@ -53,7 +53,7 @@ Ticket Types
 
 .. class:: ticket
 
-**Student/Unemployed Tickets**: *{{tickets.student.price}}* in-person / *{{tickets.virtual_student.price}}* virtual
+**Student/Unemployed**: *{{tickets.student.price}}* in-person / *{{tickets.virtual_student.price}}* virtual
 ---------------------------------------------------------------------------
 
 Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
@@ -66,7 +66,7 @@ Purchase this ticket if you are currently enrolled as a student, or don't curren
 
 .. class:: ticket
 
-**Independent Tickets**: *{{tickets.independent.price}}* in-person / *{{tickets.virtual_independent.price}}* virtual
+**Independent**: *{{tickets.independent.price}}* in-person / *{{tickets.virtual_independent.price}}* virtual
 --------------------------------------------------------------------------
 
 Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with fewer than 10 employees.
@@ -79,7 +79,7 @@ Purchase this ticket if you are paying for yourself, or if you work at a non-pro
 
 .. class:: ticket
 
-**Corporate Tickets**: *{{tickets.corporate.price}}* in-person / *{{tickets.virtual_corporate.price}}* virtual
+**Corporate**: *{{tickets.corporate.price}}* in-person / *{{tickets.virtual_corporate.price}}* virtual
 --------------------------------------------------------------------------
 
 Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
@@ -90,6 +90,19 @@ Purchase this ticket if a company is paying for your attendance. Companies inter
 
 {% endif %}
 
+
+{% if shirts and flaghasshirts %}
+
+.. class:: ticket
+
+**Official Conference Shirts**
+------------------------------------
+
+You can now visit our Write the Docs {{ name }} {{ year }} Pop-Up Shop and order this year’s branded shirt. The campaign will run until **{{ shirts.ends }}**.
+
+* `Buy {{ name }} {{ year }} Shirt <{{ shirts.url }}>`_
+
+{% endif %}
  
 
 .. class:: ticket
@@ -104,17 +117,4 @@ you can apply to our Opportunity Grant program.
 You can apply until **{{ grants.ends }}, 11:59 PM {{ tz }}** on `our website <https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/>`_.
 {% else %}
 Grant applications will open soon.
-{% endif %}
-
-{% if shirts and flaghasshirts %}
-
-.. class:: ticket
-
-**Official Conference Shirts**
-------------------------------------
-
-You can now visit our Write the Docs {{ name }} {{ year }} Pop-Up Shop and order this year’s branded shirt. The campaign will run until **{{ shirts.ends }}**.
-
-* `Buy {{ name }} {{ year }} Shirt <{{ shirts.url }}>`_
-
 {% endif %}
