@@ -12,6 +12,7 @@ We're now accepting talks for `Write the Docs {{city}} {{year}} <https://www.wri
 
 We're also launching our updated `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_.
 
+Our full website and tickets will be live soon.
 Read on for more details about getting involved this year.
 
 Call for Proposals
