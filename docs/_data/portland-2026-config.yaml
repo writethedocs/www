@@ -78,11 +78,11 @@ tickets:
   student:
     price: $100
   virtual_corporate:
-    price: $140
+    price: $175
   virtual_independent:
-    price: $75
+    price: $100
   virtual_student:
-    price: $30
+    price: $50
   button: >
     .. raw:: html
 
