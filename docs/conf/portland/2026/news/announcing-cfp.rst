@@ -35,15 +35,30 @@ Sponsorship Updates
 -------------------
 
 Our `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ is updated for {{ year }},
-with various improvements based on sponsor feedback.
+and we're excited to have more ways for companies to get involved this year.
 
-We're focusing on in-person interaction at the conference, taking full advantage of {{ about.venue }} with a dedicated space for sponsors in the hallway outside the main venue.
+Our sponsors are the folks building the tools and platforms that we use everyday, and they help make Write the Docs conferences possible.
+If that sounds like your company, please consider joining us again in this year!
 
 Tickets
 -------
 
 Tickets will go on sale in {{ date.tickets_live }}.
 
+In-person ticket prices are the same as last year:
+
+* **Student/Unemployed**: *{{tickets.student.price}}*
+* **Independent**: *{{tickets.independent.price}}*
+* **Corporate**: *{{tickets.corporate.price}}*
+
+Virtual tickets will be sold in a similar fashion with 3 tiers this year:
+
+* **Student/Unemployed Virtual**: *{{tickets.virtual_student.price}}*
+* **Independent Virtual**: *{{tickets.virtual_independent.price}}*
+* **Corporate Virtual**: *{{tickets.virtual_corporate.price}}*
+
+As always, we try to keep ticket prices low so that the event is accessible to the widest range of people.
+If you can't afford the tickets and still wish to attend, we will launch our grant program at the same time as tickets.
 
 Stay Updated
 ------------
