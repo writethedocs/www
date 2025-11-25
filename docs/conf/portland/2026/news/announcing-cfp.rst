@@ -2,7 +2,7 @@
 :banner: _static/conf/images/headers/portland-2024-speakers.jpg
 :og:image: _static/conf/images/headers/portland-2024-speakers.jpg
 
-.. post:: Nov 23, 2025
+.. post:: Nov 25, 2025
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
 Announcing the Call for Proposals and Sponsorship Prospectus
