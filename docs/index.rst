@@ -52,8 +52,9 @@ Work with other documentarians.
 Learn from our resources
 ------------------------
 
-We have an ever-increasing set of talk videos, articles, links, and resources:
+We have an ever-increasing set of articles, links, and resources. Watch our talks on YouTube:
 
+* Watch past conference talks on our `YouTube channel <https://www.youtube.com/c/WritetheDocs>`_
 * Subscribe to our :doc:`newsletter and conference </newsletter>` mailing lists
 * Browse our :doc:`topic index </topics>`
 * Read the latest in our :doc:`blog </blog/index>`

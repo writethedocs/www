@@ -17,7 +17,7 @@ The talks were just announced for the Prague conference, we'll be publishing mor
 
 We also just recently wrapped up our first online Portland conference.
 We had around 600 people join us to make this another memorable event.
-The `videos <https://www.writethedocs.org/videos/portland/2020/>`_ from the conference are now available online.
+The videos from the conference are now available on our `YouTube channel <https://www.youtube.com/c/WritetheDocs>`_.
 
 Salary Survey
 -------------

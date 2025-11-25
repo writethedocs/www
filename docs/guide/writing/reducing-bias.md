@@ -31,7 +31,7 @@ Paid resources:
 
 Relevant talks from Write the Docs:
 
-- [What They Don’t Tell You About Creating New Style Guides](https://www.writethedocs.org/videos/portland/2018/what-they-don-t-tell-you-about-creating-new-style-guides-thursday-bram/)
+- *What They Don’t Tell You About Creating New Style Guides* (available on our `YouTube channel <https://www.youtube.com/c/WritetheDocs>`_)
 
 ## Providing inclusive example names
 
