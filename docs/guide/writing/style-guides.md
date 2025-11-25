@@ -97,7 +97,7 @@ A command-line interface (CLI) processes commands to a computer program in the f
 
 Relevant talk from Write the Docs:
 
-- [How I learned to stop worrying and love the CLI](https://www.writethedocs.org/videos/portland/2019/how-i-learned-to-stop-worrying-and-love-the-command-line-mike-jang/) at WTD Portland 2019
+- *How I learned to stop worrying and love the CLI* from WTD Portland 2019 (available on our `YouTube channel <https://www.youtube.com/c/WritetheDocs>`_)
 
 ### API documentation
 
@@ -211,7 +211,7 @@ What to avoid:
 
 - [App Release Notes Are Getting Stupid -- TechCrunch](https://techcrunch.com/2015/09/04/app-release-notes-are-getting-stupid/)
 - [Release Notes: 13 Mistakes to Avoid When Writing Bugs and Enhancements -- klariti.com](https://www.klariti.com/technical-writing/2015/05/08/release-notes-mistakes-to-avoid/) Related talks:
-- [Learning to love release notes](http://www.writethedocs.org/videos/prague/2018/learning-to-love-release-notes-anne-edwards/) at Write the Docs Prague 2018
+- *Learning to love release notes* from Write the Docs Prague 2018 (available on our `YouTube channel <https://www.youtube.com/c/WritetheDocs>`_)
 - [Rethinking Release Notes](https://www.youtube.com/watch?v=SWduFnDPjYg) at Write the Docs Australia 2019
 
 <!-- vale on -->

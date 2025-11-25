@@ -60,7 +60,7 @@
     \ and the day-to-day details (how we work across teams to get useful information\
     \ online).</p>"
   event: Write the Docs NA 2016
-  path: conf/na/2016/videos/technical-writing-as-public-service-working-on-open-source-in-government-britta-gustafson
+  path: https://www.youtube.com/watch?v=oAxPs_e8oPk
   series: Write the Docs NA
   series_slug: na
   slug: technical-writing-as-public-service-working-on-open-source-in-government-britta-gustafson
@@ -97,7 +97,7 @@
     \ to me and what I hope we're beginning to see in the tech comm world.</li>\n\
     </ul>"
   event: Write the Docs NA 2016
-  path: conf/na/2016/videos/atlassian-my-information-experience-adventure-daniel-stevens
+  path: https://www.youtube.com/watch?v=kMSGYbWXxgE
   series: Write the Docs NA
   series_slug: na
   slug: atlassian-my-information-experience-adventure-daniel-stevens
@@ -127,7 +127,7 @@
     \ and measure how they change as you add more documentation</li>\n<li>Have them\
     \ write!</li>\n</ul>"
   event: Write the Docs NA 2016
-  path: conf/na/2016/videos/two-great-teams-that-work-better-together-bridging-the-gap-between-documentation-and-customer-support-neal-kaplan
+  path: https://www.youtube.com/watch?v=HIvehEUKDfk
   series: Write the Docs NA
   series_slug: na
   slug: two-great-teams-that-work-better-together-bridging-the-gap-between-documentation-and-customer-support-neal-kaplan
@@ -163,7 +163,7 @@
     \ human voice can improve not only the reader\u2019s experience, but your own\
     \ experience as a writer as well!  </p>"
   event: Write the Docs NA 2016
-  path: conf/na/2016/videos/documentation-with-human-connection-hannah-gilberg
+  path: https://www.youtube.com/watch?v=K5eqNcjNvgU
   series: Write the Docs NA
   series_slug: na
   slug: documentation-with-human-connection-hannah-gilberg
@@ -192,7 +192,7 @@
     \ as an engineering lead and manager who has pushed to bring writing documentation\
     \ into the internal culture and practices of a startup's engineering organization.</p>"
   event: Write the Docs NA 2016
-  path: conf/na/2016/videos/move-fast-and-document-things-hard-won-lessons-in-building-documentation-culture-in-startups-ruthie-bendor
+  path: https://www.youtube.com/watch?v=INpqcITkXcI
   series: Write the Docs NA
   series_slug: na
   slug: move-fast-and-document-things-hard-won-lessons-in-building-documentation-culture-in-startups-ruthie-bendor
@@ -218,7 +218,7 @@
     \ create the just enough documentation, just in time. This presentation covers\
     \ how we created this process, how we\u2019ve refined it and its success.</p>"
   event: Write the Docs NA 2016
-  path: conf/na/2016/videos/just-in-time-documentation-employing-agile-methodology-to-create-living-documentation-brianne-hillmer
+  path: https://www.youtube.com/watch?v=FYNAqlQB9U4
   series: Write the Docs NA
   series_slug: na
   slug: just-in-time-documentation-employing-agile-methodology-to-create-living-documentation-brianne-hillmer
@@ -245,7 +245,7 @@
     \ where I'm still learning about the product, the users, and the best way to ship\
     \ documentation.</p>"
   event: Write the Docs NA 2016
-  path: conf/na/2016/videos/7-values-of-effective-tech-writing-teams-joao-fernandes
+  path: https://www.youtube.com/watch?v=ra8nHK5wDXM
   series: Write the Docs NA
   series_slug: na
   slug: 7-values-of-effective-tech-writing-teams-joao-fernandes
@@ -269,7 +269,7 @@
     \ open-source software, and what to consider if you adapt this model for your\
     \ community.</p>"
   event: Write the Docs NA 2016
-  path: conf/na/2016/videos/how-to-publish-wild-caught-articles-sharon-campbell
+  path: https://www.youtube.com/watch?v=rCIdatJX7J0
   series: Write the Docs NA
   series_slug: na
   slug: how-to-publish-wild-caught-articles-sharon-campbell
@@ -307,7 +307,7 @@
     \ you're new to the genre or a README connoisseur, you'll learn a process to write\
     \ a README that works for you and your audience.</p>"
   event: Write the Docs NA 2016
-  path: conf/na/2016/videos/write-the-readable-readme-daniel-beck
+  path: https://www.youtube.com/watch?v=2dAK42B7qtw
   series: Write the Docs NA
   series_slug: na
   slug: write-the-readable-readme-daniel-beck
@@ -333,7 +333,7 @@
     \ future, and discuss where these tools are going, as well as the implications\
     \ for technical documentation.</p>"
   event: Write the Docs NA 2016
-  path: conf/na/2016/videos/code-the-docs-interactive-document-environments-tim-nugent-paris-buttfield-addison
+  path: https://www.youtube.com/watch?v=kfqlRzDq4MA
   series: Write the Docs NA
   series_slug: na
   slug: code-the-docs-interactive-document-environments-tim-nugent-paris-buttfield-addison
@@ -365,7 +365,7 @@
     \ can understand and would want to read. More readers = more users = perhaps more\
     \ contributors!</p>"
   event: Write the Docs NA 2016
-  path: conf/na/2016/videos/writing-so-your-words-are-read-tracy-osborn
+  path: https://www.youtube.com/watch?v=8LiV759Bje0
   series: Write the Docs NA
   series_slug: na
   slug: writing-so-your-words-are-read-tracy-osborn
@@ -395,7 +395,7 @@
     \ frustration and fear.</li>\n</ul>\n<p>App copy is documentation for people who\
     \ don\u2019t know your knowledge base exists.</p>"
   event: Write the Docs NA 2016
-  path: conf/na/2016/videos/copy-that-helping-your-users-succeed-with-effective-product-copy-sarah-day
+  path: https://www.youtube.com/watch?v=M_Q1RO0ky2c
   series: Write the Docs NA
   series_slug: na
   slug: copy-that-helping-your-users-succeed-with-effective-product-copy-sarah-day
@@ -423,7 +423,7 @@
     \ inside Red Hat, as well as from over a decade in working with open source documentation\
     \ communities.</p>"
   event: Write the Docs NA 2016
-  path: conf/na/2016/videos/crossing-the-streams-enabling-collaboration-between-products-and-upstreams-shaun-mccance
+  path: https://www.youtube.com/watch?v=YlWD6YcUyXs
   series: Write the Docs NA
   series_slug: na
   slug: crossing-the-streams-enabling-collaboration-between-products-and-upstreams-shaun-mccance
@@ -453,7 +453,7 @@
     \ to invest time in crafting good reading material.</p>\n<p>This talk will draw\
     \ on examples from both popular fiction and documentation out in the world today.</p>"
   event: Write the Docs NA 2016
-  path: conf/na/2016/videos/what-writing-fiction-teaches-you-about-writing-documentation-thursday-bram
+  path: https://www.youtube.com/watch?v=UI9yD3_wgho
   series: Write the Docs NA
   series_slug: na
   slug: what-writing-fiction-teaches-you-about-writing-documentation-thursday-bram
@@ -499,7 +499,7 @@
     \ CSAT, and with it, we\u2019ll know that our audience is understanding our concise\
     \ information in the best way possible. </p>"
   event: Write the Docs NA 2016
-  path: conf/na/2016/videos/csat-what-s-that-betsy-roseberg
+  path: https://www.youtube.com/watch?v=Nmx9_GZNZF8
   series: Write the Docs NA
   series_slug: na
   slug: csat-what-s-that-betsy-roseberg
@@ -525,7 +525,7 @@
     \ APIs when you\u2019re stuck with a publishing tool that might not be ideal for\
     \ the task (Madcap Flare, for example).</p>"
   event: Write the Docs NA 2016
-  path: conf/na/2016/videos/so-you-need-to-document-an-api-allison-reinheimer-moore
+  path: https://www.youtube.com/watch?v=KSXL-BDoGOw
   series: Write the Docs NA
   series_slug: na
   slug: so-you-need-to-document-an-api-allison-reinheimer-moore
@@ -552,7 +552,7 @@
     \ for staying bold that I used as I gained more experience, and the secret I discovered\
     \ about cultivating courage no matter where you are in your tech writing career.</p>"
   event: Write the Docs NA 2016
-  path: conf/na/2016/videos/we-re-not-in-kansas-anymore-how-to-find-courage-while-following-the-technical-doc-road-christy-lutz
+  path: https://www.youtube.com/watch?v=C8pvvgwboJc
   series: Write the Docs NA
   series_slug: na
   slug: we-re-not-in-kansas-anymore-how-to-find-courage-while-following-the-technical-doc-road-christy-lutz
@@ -581,7 +581,7 @@
     \ team's experiment, while outlining a way you can design your own plan to balance\
     \ any set of challenges and opportunities you're facing. </p>"
   event: Write the Docs NA 2016
-  path: conf/na/2016/videos/continuous-annoyment-bringing-more-zen-to-a-hectic-writing-environment-tana-franko
+  path: https://www.youtube.com/watch?v=y8yhjVYXa20
   series: Write the Docs NA
   series_slug: na
   slug: continuous-annoyment-bringing-more-zen-to-a-hectic-writing-environment-tana-franko
@@ -610,7 +610,7 @@
     \ source embeddable widget that makes it easy for non-technical authors to implement\
     \ this paradigm.</p>"
   event: Write the Docs NA 2016
-  path: conf/na/2016/videos/embed-the-docs-kristof-van-tomme
+  path: https://www.youtube.com/watch?v=bKdGDbROgoA
   series: Write the Docs NA
   series_slug: na
   slug: embed-the-docs-kristof-van-tomme
@@ -638,7 +638,7 @@
     \ hard, new stuff, this may be the 15 minutes during which you\u2019ll want to\
     \ skip the hallway track.</p>"
   event: Write the Docs NA 2016
-  path: conf/na/2016/videos/oops-i-became-an-engineer-tara-scherner-de-la-fuente
+  path: https://www.youtube.com/watch?v=b_Bo0sHEc7A
   series: Write the Docs NA
   series_slug: na
   slug: oops-i-became-an-engineer-tara-scherner-de-la-fuente
@@ -668,7 +668,7 @@
     \ of the problem is presented, a few of the challenges we found\nare discussed,\
     \ and the final technical solution is described.</p>"
   event: Write the Docs NA 2016
-  path: conf/na/2016/videos/accessible-math-on-the-web-a-server-client-solution-tim-arnold
+  path: https://www.youtube.com/watch?v=_tYVqcdqcBM
   series: Write the Docs NA
   series_slug: na
   slug: accessible-math-on-the-web-a-server-client-solution-tim-arnold

@@ -197,8 +197,8 @@ The following are examples of topics that have worked well for other meetups:
 If You Can't Find a Local Speaker
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-If you can't find a local speaker, consider screening a popular talk from one of the
-`Write the Docs conferences <https://www.writethedocs.org/videos/>`_ and inviting the conference presenter to call in for
+If you can't find a local speaker, consider screening a popular talk from the
+`Write the Docs YouTube channel <https://www.youtube.com/c/WritetheDocs>`_ and inviting the conference presenter to call in for
 a live Q & A session. Both the Boulder and Austin meetups have done well with this format.
 
  * `So you need to document an API <https://www.meetup.com/Boulder-Denver-WriteTheDocs-Meetup/events/232962552/>`_

@@ -11,7 +11,7 @@
     and how to balance being firm and keeping control of your product with being diplomatic
     and being able to sleep at night.</p>
   event: Write the Docs EU 2016
-  path: conf/eu/2016/videos/feedback-handling-community-wrangling-panhandling-chris-mills
+  path: https://www.youtube.com/watch?v=VabBD1MWdE8
   series: Write the Docs EU
   series_slug: eu
   slug: feedback-handling-community-wrangling-panhandling-chris-mills
@@ -47,7 +47,7 @@
     show you how documentation really can be a team effort, even if you stand alone
     in your company as the sole owner of the docs.</p>
   event: Write the Docs EU 2016
-  path: conf/eu/2016/videos/documentoring-growing-a-love-the-docs-community-david-oliver
+  path: https://www.youtube.com/watch?v=5LRagMvlEuk
   series: Write the Docs EU
   series_slug: eu
   slug: documentoring-growing-a-love-the-docs-community-david-oliver
@@ -75,7 +75,7 @@
     everyone can use for screenshots?</li> <li>Some examples of really useless screenshots.</li>
     </ol>
   event: Write the Docs EU 2016
-  path: conf/eu/2016/videos/when-bad-screenshots-happen-to-good-writers-swapnil-ogale
+  path: https://www.youtube.com/watch?v=SU2mRSaa1yQ
   series: Write the Docs EU
   series_slug: eu
   slug: when-bad-screenshots-happen-to-good-writers-swapnil-ogale
@@ -105,7 +105,7 @@
     hope that everyone will have learnt a lot from each other and realize that we're
     all trying to achieve the same thing(s).</p>
   event: Write the Docs EU 2016
-  path: conf/eu/2016/videos/beyond-software-learning-from-other-technical-writers-chris-ward
+  path: https://www.youtube.com/watch?v=pfLw8WmQ3nM
   series: Write the Docs EU
   series_slug: eu
   slug: beyond-software-learning-from-other-technical-writers-chris-ward
@@ -139,7 +139,7 @@
     \ and main findings of our studies, I will also discuss implications the results\
     \ may have regarding the contents, structure and design of API documentation.</p>"
   event: Write the Docs EU 2016
-  path: conf/eu/2016/videos/api-documentation-exploring-the-information-needs-of-software-developers-michael-meng
+  path: https://www.youtube.com/watch?v=soQSOBwiXdA
   series: Write the Docs EU
   series_slug: eu
   slug: api-documentation-exploring-the-information-needs-of-software-developers-michael-meng
@@ -168,7 +168,7 @@
     \ some writing tools, habits, and methods that may be worth to take a chance.</p>\
     \ <p>I would like to present what I've learned during my journey so far.</p>"
   event: Write the Docs EU 2016
-  path: conf/eu/2016/videos/writing-as-a-non-native-speaker-istvan-zoltan-szabo
+  path: https://www.youtube.com/watch?v=KWqhW4Guo5k
   series: Write the Docs EU
   series_slug: eu
   slug: writing-as-a-non-native-speaker-istvan-zoltan-szabo
@@ -192,7 +192,7 @@
     of the community, how documentarians usually start working in this field and give
     an overview of the most supported practises, tools, languages and skills. </p>
   event: Write the Docs EU 2016
-  path: conf/eu/2016/videos/poll-the-docs-kata-nagygyorgy
+  path: https://www.youtube.com/watch?v=nXEpyO6tNX8
   series: Write the Docs EU
   series_slug: eu
   slug: poll-the-docs-kata-nagygyorgy
@@ -227,7 +227,7 @@
     \ distinguishes a checklist from a to-do list to developing checklist habits,\
     \ you\u2019ll learn how to use checklists to help you write the docs.</p>"
   event: Write the Docs EU 2016
-  path: conf/eu/2016/videos/checklist-the-docs-daniel-beck
+  path: https://www.youtube.com/watch?v=mltBPPGsuTg
   series: Write the Docs EU
   series_slug: eu
   slug: checklist-the-docs-daniel-beck
@@ -257,7 +257,7 @@
     \ good reading material.\nThis talk will draw on examples from both popular fiction\
     \ and documentation out in the world today.</p>"
   event: Write the Docs EU 2016
-  path: conf/eu/2016/videos/what-writing-fiction-teaches-you-about-writing-documentation-thursday-bram
+  path: https://www.youtube.com/watch?v=HaWWcJp2yo4
   series: Write the Docs EU
   series_slug: eu
   slug: what-writing-fiction-teaches-you-about-writing-documentation-thursday-bram
@@ -283,7 +283,7 @@
     \ The talk closes with a comparison of classical \u201Eswagger-like\u201C API-documentation\
     \ with the presented approach.</p>"
   event: Write the Docs EU 2016
-  path: conf/eu/2016/videos/using-meaningful-names-to-improve-api-documentation-jan-christian-krause
+  path: https://www.youtube.com/watch?v=YOBVWfmRHzc
   series: Write the Docs EU
   series_slug: eu
   slug: using-meaningful-names-to-improve-api-documentation-jan-christian-krause
@@ -314,7 +314,7 @@
     \ use the glorious data that support is already collecting\n \xB7         the\
     \ metrics that matter for support-led user assistance</p>"
   event: Write the Docs EU 2016
-  path: conf/eu/2016/videos/documentarians-and-support-work-better-together-sarah-chambers
+  path: https://www.youtube.com/watch?v=qBpwoQftxcA
   series: Write the Docs EU
   series_slug: eu
   slug: documentarians-and-support-work-better-together-sarah-chambers
@@ -344,7 +344,7 @@
     choosing <em>appropriate</em> standards and prioritizing correctly. Don't let
     the perfect be the enemy of the good.</p>
   event: Write the Docs EU 2016
-  path: conf/eu/2016/videos/pretty-hurts-why-better-trumps-best-riona-macnamara
+  path: https://www.youtube.com/watch?v=NyFNrInlADs
   series: Write the Docs EU
   series_slug: eu
   slug: pretty-hurts-why-better-trumps-best-riona-macnamara
@@ -375,7 +375,7 @@
     \ quality feature documentation, getting out those blog posts and showing-off\
     \ our lovely heap of Clojure*.</p> <p>*Crate is written in Java.</p>"
   event: Write the Docs EU 2016
-  path: conf/eu/2016/videos/postulating-the-backlog-laxative-paul-adams
+  path: https://www.youtube.com/watch?v=MD-RwSw-NGA
   series: Write the Docs EU
   series_slug: eu
   slug: postulating-the-backlog-laxative-paul-adams
@@ -405,7 +405,7 @@
     \ revision strategies that this approach suggests are especially useful for anyone\
     \ who\u2019s writing, editing, or optimizing content for use at scale.</p>"
   event: Write the Docs EU 2016
-  path: conf/eu/2016/videos/information-micro-architecture-grammar-syntax-and-cognitive-rhetoric-rory-tanner
+  path: https://www.youtube.com/watch?v=GuAECnt4eJI
   series: Write the Docs EU
   series_slug: eu
   slug: information-micro-architecture-grammar-syntax-and-cognitive-rhetoric-rory-tanner
@@ -434,7 +434,7 @@
     electrical, manufacturing), travel, and developing one's photography skills --
     and saying goodbye to capturing screenshots. </p>
   event: Write the Docs EU 2016
-  path: conf/eu/2016/videos/operations-technical-writing-for-data-centers-joan-wendt
+  path: https://www.youtube.com/watch?v=4AwmQmWK7Ys
   series: Write the Docs EU
   series_slug: eu
   slug: operations-technical-writing-for-data-centers-joan-wendt
@@ -464,7 +464,7 @@
     \ away with great examples of voice and tone wins (and fails), and practical tips\
     \ about how to create voicify guidelines for writers and non-writers alike. </p>"
   event: Write the Docs EU 2016
-  path: conf/eu/2016/videos/watch-that-tone-creating-an-information-experience-in-the-atlassian-voice-sarah-karp
+  path: https://www.youtube.com/watch?v=MeyKS4LwTds
   series: Write the Docs EU
   series_slug: eu
   slug: watch-that-tone-creating-an-information-experience-in-the-atlassian-voice-sarah-karp
@@ -487,7 +487,7 @@
     \ <ul>\n<li>Increase project visibility </li>\n<li>Simplify peer reviews </li>\n\
     \ <li>Make bots do the scutwork </li>\n<li>Write more docs </li>\n</ul>"
   event: Write the Docs EU 2016
-  path: conf/eu/2016/videos/delivering-high-velocity-docs-that-keep-pace-with-rapid-release-cycles-rachel-whitton
+  path: https://www.youtube.com/watch?v=dHdBsNxtKeI
   series: Write the Docs EU
   series_slug: eu
   slug: delivering-high-velocity-docs-that-keep-pace-with-rapid-release-cycles-rachel-whitton
@@ -525,7 +525,7 @@
     \ can truly assist.</li> <li>Reviewing and line/copy editing. Because you wouldn't\
     \ do any less for code, right?</li> </ul>"
   event: Write the Docs EU 2016
-  path: conf/eu/2016/videos/docs-as-code-the-missing-manual-margaret-eker-jennifer-rondeau
+  path: https://www.youtube.com/watch?v=JvRd7MmAxPw
   series: Write the Docs EU
   series_slug: eu
   slug: docs-as-code-the-missing-manual-margaret-eker-jennifer-rondeau
