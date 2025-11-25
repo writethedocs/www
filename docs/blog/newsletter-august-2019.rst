@@ -26,7 +26,7 @@ A question about how to improve on tools like `Javadoc <https://www.oracle.com/t
 * When it comes to what the docs look like, you can customize the standard doclet yourself or search for existing custom doclets. Take care with custom doclets that aren't maintained or supported: they can take a lot of work. And remember, Javadoc and Doxygen actually only "autogenerate" insofar as they are integrated into the app build process.
 * Javadoc interprets the code itself, so it can - even without code comments - generate basic docs on package, class, method, field, and argument names and types. One person mentioned they sometimes run Javadoc just to see what it turns up about the code that isn't documented elsewhere.
 
-For more about a successful Javadoc/doxygen project that included writers and developers, check out Jennifer Rondeau's `Symantec case study <https://www.docslikecode.com/articles/symantec-case-study/>`__. For a discussion of the benefits of writers and developers working together, see our editor's talk `Who Writes the Docs? </videos/portland/2018/who-writes-the-docs-beth-aitman/>`__
+For more about a successful Javadoc/doxygen project that included writers and developers, check out Jennifer Rondeau's `Symantec case study <https://www.docslikecode.com/articles/symantec-case-study/>`__. For a discussion of the benefits of writers and developers working together, see our editor's talk `Who Writes the Docs? <https://www.youtube.com/watch?v=eOC6rsizIvM>`__
 
 -------------------------------
 Using writing tests when hiring
@@ -58,7 +58,7 @@ Diagrams and technical illustrations were a hot topic this month. Here are some 
 Resources the community mentioned:
 
 * `Mike Parkinson's (of BillionDollarGraphics) Graphic Cheat Sheet <http://billiondollargraphics.com/graphic-cheat-sheet/>`__
-* `Alicia Raszkowska's talk "Draw the Docs" </videos/portland/2019/draw-the-docs-alicja-raszkowska/>`__
+* `Alicia Raszkowska's talk "Draw the Docs" <https://www.youtube.com/watch?v=Zvys6tUmEzg>`__
 * `The Back of the Napkin by Dan Roam <https://hbr.org/2008/09/solving-problems-with-your-pen.html>`__
 * `Trees, maps, and theorems by Jean-luc Dumont <http://www.principiae.be/X0300.php>`__
 
@@ -100,7 +100,7 @@ Analytics, metrics, measuring docs quality -- different names for similar questi
 - Other potentially useful data includes device type (mobile/desktop/tablet), browser, and language.
 - Try Google Tag Manager for managing GA tracking -- it lets you start tracking more items without adding extra code to your site.
 
-People were quick to point out that, while GA shows you what data you can collect automatically, you really need to think about what you want to learn about your docs and users, then pick metrics to achieve those goals. Start with the questions, then gather the data! (More in `Sarah Moir's great talk from Portland </videos/portland/2019/just-add-data-make-it-easier-to-prioritize-your-documentation-sarah-moir/>`__.)
+People were quick to point out that, while GA shows you what data you can collect automatically, you really need to think about what you want to learn about your docs and users, then pick metrics to achieve those goals. Start with the questions, then gather the data! (More in `Sarah Moir's great talk from Portland <https://www.youtube.com/watch?v=5kTWjB28TDI>`__.)
 
 A particular question about measuring ROI generated its own round of ideas and suggestions:
 

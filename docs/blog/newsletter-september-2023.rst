@@ -31,7 +31,7 @@ Look for opportunities to encourage a sense of ownership among those who contrib
 
 Other recommendations for further information:
 
-- `Any friend of the docs is a friend of mine: Cultivating a community of documentation advocates </videos/portland/2019/any-friend-of-the-docs-is-a-friend-of-mine-cultivating-a-community-of-documentation-advocates-heather-stenson/>`__ from Write the Docs Portland, 2019
+- `Any friend of the docs is a friend of mine: Cultivating a community of documentation advocates <https://www.youtube.com/watch?v=lZhIQNlGY4s>`__ from Write the Docs Portland, 2019
 - `2022 State of DevOps Report data deep dive: Documentation is like sunshine <https://cloud.google.com/blog/products/devops-sre/deep-dive-into-2022-state-of-devops-report-on-documentation>`__
 - `Why it’s worth it to invest in internal docs <https://increment.com/documentation/why-investing-in-internal-docs-is-worth-it/>`__
 
