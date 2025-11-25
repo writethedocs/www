@@ -12,7 +12,7 @@
     \ for software testing\ncan ease the burden of keeping documentation up to date.\
     \  </p>\n"
   event: Write the Docs EU 2015
-  path: conf/eu/2015/videos/tested-and-correct-how-to-make-sure-your-documentation-keeps-working-adangoor
+  path: https://www.youtube.com/watch?v=PoVwyPipHzc
   series: Write the Docs EU
   series_slug: eu
   slug: tested-and-correct-how-to-make-sure-your-documentation-keeps-working-adangoor
@@ -42,7 +42,7 @@
     \ examples. The target audience may have a strong\nbackground in science, computer\
     \ science, both or neither.  </p>\n"
   event: Write the Docs EU 2015
-  path: conf/eu/2015/videos/the-quest-for-scientific-credit-for-software-documentation-ajaruga
+  path: https://www.youtube.com/watch?v=Qg7lOWyT2mo
   series: Write the Docs EU
   series_slug: eu
   slug: the-quest-for-scientific-credit-for-software-documentation-ajaruga
@@ -63,7 +63,7 @@
     \ one)</li>\n</ul>\n<p>... with plenty of real-world examples of doing it right\
     \ and wrong.</p>\n"
   event: Write the Docs EU 2015
-  path: conf/eu/2015/videos/before-the-docs-writing-for-user-interfaces-baitman
+  path: https://www.youtube.com/watch?v=LemM9PHDX6w
   series: Write the Docs EU
   series_slug: eu
   slug: before-the-docs-writing-for-user-interfaces-baitman
@@ -86,7 +86,7 @@
     \ audience reactions to those\npresentations and how I have iterated my presentations\
     \ in sync with changes\nto product and branding.</p>\n"
   event: Write the Docs EU 2015
-  path: conf/eu/2015/videos/documenting-your-story-crafting-a-good-presentation-cward
+  path: https://www.youtube.com/watch?v=2JacBpYizRw
   series: Write the Docs EU
   series_slug: eu
   slug: documenting-your-story-crafting-a-good-presentation-cward
@@ -112,7 +112,7 @@
     \ making sure that we, as documentarians, aren't just writing - we're shaping the discussion about\n\
     \ when and how docs make our teams, organizations, and communities better.</p>\n"
   event: Write the Docs EU 2015
-  path: conf/eu/2015/videos/all-roads-might-not-lead-to-docs-celmore
+  path: https://www.youtube.com/watch?v=NKYSdEasJ-8
   series: Write the Docs EU
   series_slug: eu
   slug: all-roads-might-not-lead-to-docs-celmore
@@ -136,7 +136,7 @@
     \ be a professional voice actor or videographer to\ncreate a screencast, even\
     \ a writer can create something wonderful.</p>\n"
   event: Write the Docs EU 2015
-  path: conf/eu/2015/videos/screencasting-101-dpotter
+  path: https://www.youtube.com/watch?v=vz5HYGqFIOM
   series: Write the Docs EU
   series_slug: eu
   slug: screencasting-101-dpotter
@@ -164,7 +164,7 @@
     \ it is not going to diminish\nanytime soon either. This talk attempts to teach\
     \ one how to make digital\ncommunication as painless as possible.</p>\n"
   event: Write the Docs EU 2015
-  path: conf/eu/2015/videos/how-to-write-an-email-ecaine
+  path: https://www.youtube.com/watch?v=Ja-4t8Ufv6Y
   series: Write the Docs EU
   series_slug: eu
   slug: how-to-write-an-email-ecaine
@@ -191,7 +191,7 @@
     \ terms and expand it into a glossary, a thesaurus, a taxonomy,\nor even a full-fledge\
     \ ontology.</p>\n"
   event: Write the Docs EU 2015
-  path: conf/eu/2015/videos/whatchamacallit-controlled-vocabularies-for-technical-writers-eboillat
+  path: https://www.youtube.com/watch?v=0kg-6YCDg64
   series: Write the Docs EU
   series_slug: eu
   slug: whatchamacallit-controlled-vocabularies-for-technical-writers-eboillat
@@ -212,7 +212,7 @@
     \ quality, working with diverse communities,\nfostering innovation, and carnivorous\
     \ plants.</p>\n"
   event: Write the Docs EU 2015
-  path: conf/eu/2015/videos/gardening-open-docs-florian-scholz-jean-yves-perrier
+  path: https://www.youtube.com/watch?v=q9_hG-Uu80I
   series: Write the Docs EU
   series_slug: eu
   slug: gardening-open-docs-florian-scholz-jean-yves-perrier
@@ -239,7 +239,7 @@
     \ of\nreduced development time, reduced effort, and reduced duplication. We can\n\
     all of this by documenting once, and re-using across multiple projects!</p>\n"
   event: Write the Docs EU 2015
-  path: conf/eu/2015/videos/generating-docs-from-apis-jhannaford
+  path: https://www.youtube.com/watch?v=iCQkhSXGfOU
   series: Write the Docs EU
   series_slug: eu
   slug: generating-docs-from-apis-jhannaford
@@ -265,7 +265,7 @@
     \ much longer history of teaching engineers to write documentation</li>\n\n<li>Efforts\
     \ to make technical writing into an independent profession</li>\n\n</ul>\n"
   event: Write the Docs EU 2015
-  path: conf/eu/2015/videos/back-to-the-future-what-can-documentarians-learn-from-the-past-jrondeau
+  path: https://www.youtube.com/watch?v=_SW84nNlgmo
   series: Write the Docs EU
   series_slug: eu
   slug: back-to-the-future-what-can-documentarians-learn-from-the-past-jrondeau
@@ -291,7 +291,7 @@
     \ own timidity to create room for the\ninspiration and creativity needed to bring\
     \ the docs' subject alive.</p>\n"
   event: Write the Docs EU 2015
-  path: conf/eu/2015/videos/free-your-mind-and-your-docs-will-follow-pkeegan
+  path: https://www.youtube.com/watch?v=H_kC8_hfpe8
   series: Write the Docs EU
   series_slug: eu
   slug: free-your-mind-and-your-docs-will-follow-pkeegan
@@ -317,7 +317,7 @@
     \ writers must also obey them. Or not. And what that means for the\nsuccess of\
     \ documentation in a Free Software project.</p>\n"
   event: Write the Docs EU 2015
-  path: conf/eu/2015/videos/judas-priest-ate-my-scrum-master-padams
+  path: https://www.youtube.com/watch?v=35AzPlwAhNg
   series: Write the Docs EU
   series_slug: eu
   slug: judas-priest-ate-my-scrum-master-padams
@@ -349,7 +349,7 @@
     \ to <a\nhref=\"https://twitter.com/thenextmacgyver\">https://twitter.com/thenextmacgyver</a>)\"\
     </p>\n"
   event: Write the Docs EU 2015
-  path: conf/eu/2015/videos/macgyvering-your-docs-proeland
+  path: https://www.youtube.com/watch?v=Y2QxSTJ1jVs
   series: Write the Docs EU
   series_slug: eu
   slug: macgyvering-your-docs-proeland
@@ -371,7 +371,7 @@
     \ and guidelines, and help you make your techcomm\nproject accessibility-ready.\
     \ Welcome to A11y for Tech Docs!</p>\n"
   event: Write the Docs EU 2015
-  path: conf/eu/2015/videos/inclusive-tech-docs-techcomm-meets-accessibility-rmatic
+  path: https://www.youtube.com/watch?v=RcjpBNIKlf8
   series: Write the Docs EU
   series_slug: eu
   slug: inclusive-tech-docs-techcomm-meets-accessibility-rmatic
@@ -404,7 +404,7 @@
     \ future is bright if we pay attention to our new opportunities instead\nof that\
     \ nagging voice in our heads.</p>\n"
   event: Write the Docs EU 2015
-  path: conf/eu/2015/videos/imposter-no-more-how-tech-writers-can-shed-self-doubt-embrace-uncertainty-and-surf-the-upcoming-swerve-in-technical-documentation-rmacnamara
+  path: https://www.youtube.com/watch?v=pg_Y9hUt2dg
   series: Write the Docs EU
   series_slug: eu
   slug: imposter-no-more-how-tech-writers-can-shed-self-doubt-embrace-uncertainty-and-surf-the-upcoming-swerve-in-technical-documentation-rmacnamara
@@ -430,7 +430,7 @@
     \ same time, the\nexperience should be as engaging and pleasant as possible. Building\
     \ a Visual\nDocumentation Language serves to reach this goal.</p>\n"
   event: Write the Docs EU 2015
-  path: conf/eu/2015/videos/visual-documentation-language-sheinen
+  path: https://www.youtube.com/watch?v=njXdQmcSX-k
   series: Write the Docs EU
   series_slug: eu
   slug: visual-documentation-language-sheinen
@@ -452,7 +452,7 @@
     \ walk hand\nin hand and to improve the communication between both humans and\n\
     machines.</p>\n"
   event: Write the Docs EU 2015
-  path: conf/eu/2015/videos/writing-for-what-matters-writing-for-thinking-znemec
+  path: https://www.youtube.com/watch?v=bKOnRVb_0TE
   series: Write the Docs EU
   series_slug: eu
   slug: writing-for-what-matters-writing-for-thinking-znemec
@@ -465,7 +465,7 @@
   year: '2015'
   youtubeId: bKOnRVb_0TE
 - event: Write the Docs EU 2015
-  path: conf/eu/2015/videos/lightning-talks-day-one
+  path: https://www.youtube.com/watch?v=RGl6bu0_NFc
   series: Write the Docs EU
   series_slug: eu
   slug: lightning-talks-day-one
@@ -473,7 +473,7 @@
   year: '2015'
   youtubeId: RGl6bu0_NFc
 - event: Write the Docs EU 2015
-  path: conf/eu/2015/videos/lightning-talks-day-two
+  path: https://www.youtube.com/watch?v=g6hQdc9GOlQ
   series: Write the Docs EU
   series_slug: eu
   slug: lightning-talks-day-two

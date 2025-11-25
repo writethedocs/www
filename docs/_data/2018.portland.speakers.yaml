@@ -8,7 +8,7 @@
     and tutorials (and working with Swagger/OpenAPI), and give some examples of habits
     I had to un-learn, too! </p>'
   event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/what-writing-dictionaries-taught-me-about-writing-documentation-and-what-i-had-to-unlearn-erin-mckean
+  path: https://www.youtube.com/watch?v=O_xaiot6N7U
   series: Write the Docs PORTLAND
   series_slug: portland
   slug: what-writing-dictionaries-taught-me-about-writing-documentation-and-what-i-had-to-unlearn-erin-mckean
@@ -33,7 +33,7 @@
     \ user-friendly?</li>\n<li>Do we even actually need FAQs?</li>\n</ul>\n<p>(Caution:\
     \ May contain opinions.)</p>"
   event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/the-facts-about-faqs-ashleigh-rentz
+  path: https://www.youtube.com/watch?v=8_fHC0OUkmc
   series: Write the Docs PORTLAND
   series_slug: portland
   slug: the-facts-about-faqs-ashleigh-rentz
@@ -58,7 +58,7 @@
     \ set of interviews, and how we onboarded writers with strong skills and aptitude,\
     \ but no real-world experience.</p>"
   event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/starting-from-scratch-finding-and-hiring-junior-writers-sarah-day
+  path: https://www.youtube.com/watch?v=GiHZY8P4kpA
   series: Write the Docs PORTLAND
   series_slug: portland
   slug: starting-from-scratch-finding-and-hiring-junior-writers-sarah-day
@@ -83,7 +83,7 @@
     \ need to strategically get the right docs to the right people at the right time\u2014\
     and learn a little bit more about their stakeholders along the way.</p>\n"
   event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/audience-market-product-tips-for-strategic-api-documentation-planning-bob-watson
+  path: https://www.youtube.com/watch?v=ax_6cS3JHvY
   series: Write the Docs PORTLAND
   series_slug: portland
   slug: audience-market-product-tips-for-strategic-api-documentation-planning-bob-watson
@@ -108,7 +108,7 @@
 <li>Use the power of storytelling.</li>
 <p>There might even be a surprise bonus tip.</p>"
   event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/7-essential-tips-for-the-enlightened-tech-writer-ted-hudek
+  path: https://www.youtube.com/watch?v=-lHKnF2EPd8
   series: Write the Docs PORTLAND
   series_slug: portland
   slug: 7-essential-tips-for-the-enlightened-tech-writer-ted-hudek
@@ -137,7 +137,7 @@
     \ progress with great results, and I look forward to sharing our best policies\
     \ and practices. </p>"
   event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/making-your-code-examples-shine-larry-ullman
+  path: https://www.youtube.com/watch?v=td15D2BLa4c
   series: Write the Docs PORTLAND
   series_slug: portland
   slug: making-your-code-examples-shine-larry-ullman
@@ -155,7 +155,7 @@
 <p>This talk will explore principles and patterns of kind, effective editorial practice, and nuances of voice, civility, and clear communication, as they play out when working with a diverse distributed roster of authors, many of whom are non-native English speakers or first-time storytellers.</p>
 <p>I believe there’s as much appetite for diversity of voice and point of view in blogging about software development as there is in speaking about it at developer conferences. And I’ve got some observations to share about how we can cultivate that.</p>"
   event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/not-the-docs-shepherding-a-developer-blog-of-many-voices-across-many-timezones-havi-hoffman
+  path: https://www.youtube.com/watch?v=GMEZv_KSsJE
   series: Write the Docs PORTLAND
   series_slug: portland
   slug: not-the-docs-content-and-voice-on-a-developer-blog-havi-hoffman
@@ -186,7 +186,7 @@
     \ other roles) can make the biggest difference to user experience, and through\
     \ that to their organisations.</p>"
   event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/who-writes-the-docs-beth-aitman
+  path: https://www.youtube.com/watch?v=eOC6rsizIvM
   series: Write the Docs PORTLAND
   series_slug: portland
   slug: who-writes-the-docs-beth-aitman
@@ -213,7 +213,7 @@
     \ work (legally!)</li>\n<li>Options to present it that aren't just a series of\
     \ email attachments</li></ul></p>"
   event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/document-yourself-practical-tips-for-a-low-er-stress-portfolio-erin-grace
+  path: https://www.youtube.com/watch?v=3cXpf0Okmi8
   series: Write the Docs PORTLAND
   series_slug: portland
   slug: document-yourself-practical-tips-for-a-low-er-stress-portfolio-erin-grace
@@ -245,7 +245,7 @@
     \ will require hard work, but a bit of advice can help you get started, stay motivated,\
     \ and avoid pitfalls along the way.</p>"
   event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/where-do-i-start-the-art-and-practice-of-documentation-triage-neal-kaplan
+  path: https://www.youtube.com/watch?v=2EzIe-3LBwQ
   series: Write the Docs PORTLAND
   series_slug: portland
   slug: where-do-i-start-the-art-and-practice-of-documentation-triage-neal-kaplan
@@ -271,7 +271,7 @@
     \ about what worked well for us, what ideas didn\u2019t pan out, and some of the\
     \ documentation principles we\u2019re now sold on.</p>\n"
   event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/building-empathy-driven-developer-documentation-kat-king
+  path: https://www.youtube.com/watch?v=_HCmFvxxKaQ
   series: Write the Docs PORTLAND
   series_slug: portland
   slug: building-empathy-driven-developer-documentation-kat-king
@@ -294,7 +294,7 @@
     \ sensitivity readings, and generally making sure you know how other people hear\
     \ terms\n</li><li>teaching style across a team</li></ul></p>"
   event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/what-they-don-t-tell-you-about-creating-new-style-guides-thursday-bram
+  path: https://www.youtube.com/watch?v=O1ZnCA-hZxQ
   series: Write the Docs PORTLAND
   series_slug: portland
   slug: what-they-don-t-tell-you-about-creating-new-style-guides-thursday-bram
@@ -323,7 +323,7 @@
     s all done, how to turn all that qualitative data into tangible content changes\
     \ that have a genuine impact for users. </p>"
   event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/research-like-you-re-wrong-lessons-from-user-research-gone-rogue-jen-lambourne
+  path: https://www.youtube.com/watch?v=aCNbVf9Id5Y
   series: Write the Docs PORTLAND
   series_slug: portland
   slug: research-like-you-re-wrong-lessons-from-user-research-gone-rogue-jen-lambourne
@@ -348,7 +348,7 @@
     and abstract "simplified UI (SUI)" representations. Which you use depends on your
     intent and message.</p>
   event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/graphic-content-warning-the-pros-cons-and-alternatives-to-screenshots-steve-stegelin
+  path: https://www.youtube.com/watch?v=a6iAmLul4Gg
   series: Write the Docs PORTLAND
   series_slug: portland
   slug: graphic-content-warning-the-pros-cons-and-alternatives-to-screenshots-steve-stegelin
@@ -382,7 +382,7 @@
     documentation community about how we can make technical documentation more accessible,
     easier to reuse, and empowering.</p>'
   event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/rewrite-the-docs-field-notes-from-the-radical-it-department-camille-acey
+  path: https://www.youtube.com/watch?v=5WOM1ntJPFw
   series: Write the Docs PORTLAND
   series_slug: portland
   slug: rewrite-the-docs-field-notes-from-the-radical-it-department-camille-acey
@@ -400,7 +400,7 @@
 <p>Creating a great technical book takes more than a good idea. It also requires a knowledge of the market, to determine whether there's an audience willing to buy, or whether the space is too crowded to accept new entries. Publishers vary in their approach and target markets, so you need to determine which one will provide the best chance of success. Self-publishing is an option, but carries its own risks and benefits. Doing the setup work that you may not have thought about yet will help you create a proposal that will appeal to publishers, and will also make the writing process easier.</p>
 <p>Once you have a contract with a publisher, or have decided to self-publish, it's more than just a matter of putting the words in order. Finding the right environment, setting a schedule, and communicating with your editor are all critical to success. This session will explain how the process works, highlight the parts you may not know, and give you advice on how not to get overwhelmed by your project.</p>"
   event: Write the Docs PORTLAND 2018
-  path: conf/portland/2018/videos/writing-the-next-great-tech-book-brian-macdonald
+  path: https://www.youtube.com/watch?v=MKSXXKIe05o
   series: Write the Docs PORTLAND
   series_slug: portland
   slug: writing-the-next-great-tech-book-brian-macdonald
