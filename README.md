@@ -24,7 +24,7 @@ WIP (Work In Progress) Docs on how to do this:
 
 2. Make sure the directory `videos/<city>/<year>` is included in the Video Archive `toctree` in `docs/videos/index.rst`.
 
-3. In the [virtual environment](#prerequisites-for-generating-the-docs-locally), switch to the `docs` directory and run `BUILD_VIDEOS=True make html`.
+3. In the [virtual environment](#prerequisites-for-generating-the-docs-locally), switch to the `docs` directory and run `make html`.
 
 4. Commit the *relevant* changed files:
 
@@ -34,7 +34,7 @@ WIP (Work In Progress) Docs on how to do this:
 
 5. If you want to preview locally:
 
-    1. Run `BUILD_VIDEOS=True make livehtml` and browse the new video pages at `http://127.0.0.1:8888`.
+    1. Run `make livehtml` and browse the new video pages at `http://127.0.0.1:8888`.
 
 ### Prerequisites for generating the docs locally
 

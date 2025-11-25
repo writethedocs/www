@@ -91,16 +91,8 @@ if all(cfp_variables.values()):
 else:
     print('Private CFP environment variables not set, not building CFP email templates.')
 
-# Only build the videos on production, to speed up dev
 on_rtd = str(os.environ.get('READTHEDOCS')).lower() == 'true'
-build_videos = str(os.environ.get('BUILD_VIDEOS')).lower() == 'true'
-if not on_rtd and not build_videos:
-    print('EXCLUDING VIDEO PATHS. Video links will not work.')
-    exclude_patterns.append('videos')
-    REWRITE_FEED = False
-else:
-    print('BUILDING VIDEOS. All video links should work.')
-    REWRITE_FEED = True
+REWRITE_FEED = on_rtd
 
 extensions = [
     'ablog',
@@ -233,10 +225,6 @@ html_context = {
     'announcement_message': announcement_message,
 }
 
-if build_videos:
-
-    html_context.update(videos.main())
-
 notfound_no_urls_prefix = True
 
 
@@ -261,7 +249,7 @@ def setup(app):
     # Render HTML templates with proper HTML context
     app.connect('html-page-context', override_template_load_context)
 
-    if on_rtd or build_videos or REWRITE_FEED:
+    if on_rtd or REWRITE_FEED:
         app.connect('build-finished', rewrite_atom_feed)
 
     app.add_directive('meetup-listing', MeetupListing)
