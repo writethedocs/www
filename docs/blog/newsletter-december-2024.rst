@@ -61,14 +61,14 @@ Searching and browsing are complementary actions. The method used by any one per
 **Search-related resources**
 
 * `Search platform tips for documentation websites <https://www.writethedocs.org/blog/newsletter-june-2024/#search-platform-tips-for-documentation-websites>`_  (WTD Newsleter)
-* `Making documentation discoverable in search engines <https://www.writethedocs.org/videos/prague/2020/making-documentation-discoverable-in-search-engines-myriam-jessier/>`_ (WTD video)
+* *Making documentation discoverable in search engines* (available on our `YouTube channel <https://www.youtube.com/c/WritetheDocs>`_)
 * `Search engine optimization (SEO) for documentation <https://www.writethedocs.org/guide/seo/>`_ (WTD page)
 * `Information Foraging <https://www.nngroup.com/articles/information-foraging/>`_ (Nielsen Norman Group)
 
 **Navigation- and IA-related resources**
 
 * Many articles available from `Nielsen Norman Group <https://www.nngroup.com/search/?q=information+architecture&searchSubmit=Search>`__
-* `Building navigation for your doc site: 5 best practices <https://www.writethedocs.org/videos/na/2017/building-navigation-for-your-doc-site-5-best-practices-tom-johnson/>`__ (WTD video)
+* *Building navigation for your doc site: 5 best practices* (available on our `YouTube channel <https://www.youtube.com/c/WritetheDocs>`_)
 * `Complete Beginner’s Guide to Information Architecture <https://uxbooth.com/articles/complete-beginners-guide-to-information-architecture/>`__ (UX Booth)
 * `How To Make Sense of Any Mess <https://abbycovert.com/make-sense/>`_ (book by Abby Covert)
 

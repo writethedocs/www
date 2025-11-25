@@ -24,7 +24,7 @@ A middle-ground approach is using text descriptions of UI elements, like "Click 
 
 What about a video walkthrough or GIFs? Again, documentarians were split: it's helpful to watch a process through before trying it yourself, but videos and GIFs are inaccessible for people with visual impairments, distracting for people with attention issues, and unusable for people who don't have dependable broadband service. And following video instructions can be frustrating if you have to repeatedly press pause, or feel like the pace of spoken instructions is too slow.
 
-For more on screenshots in documentation, check out Steve Stegelin's `Graphic Content Warning: The Pros, Cons, and Alternatives to Screenshots <https://www.writethedocs.org/videos/portland/2018/graphic-content-warning-the-pros-cons-and-alternatives-to-screenshots-steve-stegelin/>`_ from Write the Docs Portland 2018 and Swapnil Ogale's `When bad screenshots happen to good writers <https://www.writethedocs.org/videos/eu/2016/when-bad-screenshots-happen-to-good-writers-swapnil-ogale/>`_ from WTD EU 2016.
+For more on screenshots in documentation, check out Steve Stegelin's *Graphic Content Warning: The Pros, Cons, and Alternatives to Screenshots* and Swapnil Ogale's *When bad screenshots happen to good writers* on our `YouTube channel <https://www.youtube.com/c/WritetheDocs>`_.
 
 --------------------------------------
 Report from the book club: managing up

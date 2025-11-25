@@ -33,9 +33,8 @@ and we had a great time.
 Videos and photos
 =================
 
-Videos of all the talks are now available `in our video
-archive <https://www.writethedocs.org/videos/portland/2019/>`__. Thanks 
-to `Backpedal <https://backpedal.tv/>`__ for doing such a great job with these. 
+Videos of all the talks are now available on our `YouTube channel <https://www.youtube.com/c/WritetheDocs>`__. Thanks
+to `Backpedal <https://backpedal.tv/>`__ for doing such a great job with these.
 If you gave a lightning talk, we're working to get
 them on our site, but you can see them on 
 `YouTube <https://www.youtube.com/playlist?list=PLZAeFn6dfHpmuHCu5qsIkmp9H5jFD-xq->`__ 

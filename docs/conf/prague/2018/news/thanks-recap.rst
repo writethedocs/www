@@ -28,7 +28,7 @@ Overall, we were so excited to see another conference come together and see our 
 Videos and photos
 =================
 
-Videos of all the talks are now available `in our video archive <https://www.writethedocs.org/videos/prague/2018/>`__.
+Videos of all the talks are now available on our `YouTube channel <https://www.youtube.com/c/WritetheDocs>`__.
 Thanks to `Here to Record <https://heretorecord.com/>`__ for doing such a great job with these.
 If you gave a lightning talk, we're working to get them on our site, but in the meantime you can see them on `YouTube <https://www.youtube.com/watch?v=oXmrFoEEf3A&list=PLZAeFn6dfHplRZcYDQjST22bAVeeWML4d>`__ for now.
 (You can also subscribe to our `YouTube channel <https://www.youtube.com/channel/UCr019846MitZUEhc6apDdcQ>`_
