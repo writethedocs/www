@@ -85,7 +85,7 @@ designed navigation features (sidebar, inter-page links).
 .. image:: /_static/img/furo.png
   :width: 80%
 
-pydata-sphinx-theme
+PyData Sphinx theme
 -------------------
 
 A clean, three-column, Bootstrap-based theme widely adopted by scientific and data science projects. Features responsive design and excellent navigation for complex documentation.
