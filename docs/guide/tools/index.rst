@@ -12,7 +12,7 @@ Sphinx is a documentation generator widely used in the Python ecosystem and beyo
 See the following pages for Sphinx guidance:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    sphinx
    sphinx-themes
@@ -34,6 +34,6 @@ Testing and quality
 -------------------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    testing
