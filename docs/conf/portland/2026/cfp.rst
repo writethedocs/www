@@ -5,7 +5,7 @@
 Call for Proposals
 ==================
 
-It's that time of year again: We're now accepting talk proposals for our next **in-person** {{ city }} conference, on {{date.main}}.
+It's that time of year again: We're now accepting talk proposals for our next **in-person** {{ city }} conference, on {{date.main}}. New this year we're also accepting a few pre-recorded talks by remote speakers.
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you!
 Read on to learn more about the goals of the conference and what we look for in talk proposals.
@@ -108,19 +108,20 @@ If you are making assumptions about what your audience knows, state them up fron
 Check out topics that might be related to your talk from previous years:
 
 * `Portland {{year-1}} <https://www.writethedocs.org/conf/portland/{{year-1}}/speakers/>`_
-* `Atlantic {{year-1}} <https://www.writethedocs.org/conf/atlantic/{{year-1}}/speakers/>`_
+* `Berlin {{year-1}} <https://www.writethedocs.org/conf/berlin/{{year-1}}/speakers/>`_
 * `Portland {{year-2}} <https://www.writethedocs.org/conf/portland/{{year-2}}/speakers/>`_
 * `Atlantic {{year-2}} <https://www.writethedocs.org/conf/atlantic/{{year-2}}/speakers/>`_
 
 Writing your proposal
 ---------------------
 
+
 Make sure you read this entire page before putting your proposal together, and pay particular attention to the following points:
 
-- **Spoilers** It's pretty normal not to want to include your main point in your abstract, but please make sure to highlight it for the selection committee!
-- **Research** We don't need all talks to be about an entirely new topic, but if you're suggesting a talk that looks really similar to one that was given last year, demonstrate that you realize this and mention why yours is different.
-- **Tooling** We're pretty serious about preferring talks about people, process or principles than talks about tooling. If you are submitting a proposal about tooling, tell us what makes this one special.
-- **Example proposal** Check out our :doc:`example proposal <example-proposal>` so you know what we expect to see in each field.
+- **Spoilers** – It's pretty normal not to want to include your main point in your abstract, but please make sure to highlight it for the selection committee!
+- **Research** – We don't need all talks to be about an entirely new topic, but if you're suggesting a talk that looks really similar to one that was given last year, demonstrate that you realize this and mention why yours is different.
+- **Tooling** – We're pretty serious about preferring talks about people, process or principles than talks about tooling. If you are submitting a proposal about tooling, tell us what makes this one special.
+- **Example proposal** – Check out our :doc:`example proposal <example-proposal>` so you know what we expect to see in each field.
 
 
 Unsure about speaking?
@@ -133,7 +134,6 @@ If you need a hand preparing or honing your talk proposal, there are lots of goo
 * **Community mentorship** – We have an ever-growing pool of previous Write the Docs speakers, many of whom are happy to be a second pair of eyes on talk proposals. If you're interested in working with a past speaker, let us know at {{ shortcode }}@writethedocs.org!
 * **Meetup brainstorming** – For some in-person workshopping, check in on your `local meetup group <https://www.writethedocs.org/meetups/>`_ and see if they have a talk brainstorming session on their calendar. If they don't... ask if they're planning one!
 * **Slack hivemind** – You can also hit up the hivemind directly on the Write the Docs Slack, any time of day! (If you're not registered yet, you can at `https://www.writethedocs.org/slack/ <https://www.writethedocs.org/slack/>`_.)
-* **Twitter hivemind** – If Twitter is more your speed, `#writethedocs <https://twitter.com/hashtag/writethedocs>`__ will get you there.
 
 Selection process
 -----------------
@@ -151,23 +151,34 @@ Speaker benefits
 
 - Opportunity to share your views and perspectives with the community!
 - Waived attendance fee.
-- Supplemental financial support if needed. If speaking incurs any costs that are difficult for you to cover, `contact us <mailto:{{email}}>`_ and we'll do our best to help out.
+- Supplemental financial support for travel, accommodations, or other costs. If speaking incurs any costs that are difficult for you to cover, `contact us <mailto:{{email}}>`_ and we'll do our best to help out.
 
 If you already have a ticket, we will of course refund it - just drop us an email at `{{email}} <mailto:{{email}}>`_.
 
 Speaker logistics
 -----------------
 
-Presentations will be **{{date.short}}**, scheduled in 30-minute blocks, delivered **in-person, on-stage, live in {{city}}**.
-Please plan to attend the whole event.
+New for Portland, in 2026 we're showing a few pre-recorded talks with live Q&A from remote speakers for our conference on **{{date.short}}**.
 
-All Speakers must read, understand, and agree to our :doc:`/code-of-conduct`. All talks and slides will need to follow our Code of Conduct. If you are unsure about any aspect of this, please ask us for clarification.
+- We'll accept a **maximum of two** pre-recorded talks, which will need to be uploaded around one month before the conference. Because there are only two slots, submitting a remote proposal does reduce the likeliehood of your talk being accepted.
+- All other talks will be delivered **in-person, on-stage, live in {{city}}**.
+
+Both in-person and pre-recorded talks are 30 minutes long, followed by a few minutes of moderated Q&A immediately after the presentation.
+
+All Speakers must read, understand, and agree to our :doc:`/code-of-conduct`. All talks and slides must follow our Code of Conduct. If you are unsure about any aspect of this, please ask us for clarification.
 
 Timeline overview
 -----------------
 
+
 **{{cfp.ends}}**
     Call for Proposal ends
+
+**{{cfp.speaker_tickets_by}}**
+    Register for speaker ticket (with dietary preferences, hoodie size, etc.)
+
+**April 9, 2026**
+    Upload date for recorded talks (remote speakers)
 
 **{{cfp.notification}}**
     We'll let you know whether your proposal was accepted, and ask for some supplementary information about you.

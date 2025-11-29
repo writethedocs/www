@@ -24,12 +24,12 @@ photos:
 
 buttons:
   top:
-    - text: Date and ticket information
-      link: /news/welcome
-    # - text: Sponsor us
-    #   link: /sponsors/prospectus
-    #- text: Submit a Talk
-    #  link: /cfp
+    # - text: Date and ticket information
+    #   link: /news/welcome
+    - text: Sponsor the Conference
+      link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp
     # - text: See the Schedule!
     #   link: /schedule
     # - text: Buy a Ticket
@@ -45,12 +45,12 @@ buttons:
     # - text: Conference recap
     #   link: /news/thanks-recap
   bottom:
-    - text: Welcome to our conference
-      link: /news/welcome
-    # - text: Sponsor us
-    #   link: /sponsors/prospectus
-    #- text: Submit a Talk
-    #  link: /cfp
+    # - text: Welcome to our conference
+    #   link: /news/welcome
+    - text: Sponsor us
+      link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp
     # - text: Buy a Ticket!
     #   link: /tickets
     # - text: See the Schedule
@@ -179,7 +179,7 @@ cfp:
   url: "https://pretalx.com/wtd-portland-2026/cfp" # Open mid November, approx 12 weeks to submit
   ends: "January 19, 2026"                         # (Mon) 1 week, to review. It'll take a little longer to announce
   notification: "February 2, 2026"                 # (Mon) 8 weeks to write and prepare
-  speaker_tickets_by: April 13, 2026               # (Mon) Approx 3 weeks before
+  speaker_tickets_by: April 2, 2026               # (Mon) Approx 3 weeks before
   slides_by: "April 27, 2026"                      # (Mon) 1 week before
   preview: "TBD"                                  # Preview URL TODO
 
@@ -205,7 +205,7 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: True
 flaghassponsors: False
-flagcfp: False
+flagcfp: True
 flagticketsonsale: False
 flagsoldout: False
 flagspeakersannounced: False
