@@ -71,6 +71,7 @@ Editing
 Code samples
 ~~~~~~~~~~~~
 
+- |:newspaper:| `Why code examples make or break developer docs </blog/newsletter-december-2025/#why-code-examples-make-or-break-developer-docs>`__
 - |:movie_camera:| `Creating Quality Sample Code </videos/portland/2020/creating-quality-sample-code-jessica-garson/>`__
 - |:movie_camera:| `Need Examples? Write Your Own! </videos/prague/2020/need-examples-write-your-own-joe-malin/>`__
 - |:newspaper:| `Evolving developer docs, code samples </blog/newsletter-april-2018/#evolving-your-developer-docs-as-your-product-matures>`__
@@ -571,6 +572,7 @@ DITA
 AI and LLMs
 ~~~~~~~~~~~
 
+- |:newspaper:| `AI and the future of documentation </blog/newsletter-december-2025/#ai-and-the-future-of-documentation>`__
 - |:newspaper:| `Optimizing docs for LLMs </blog/newsletter-november-2025/#optimizing-docs-for-llms>`__
 - |:newspaper:| `AI and the need for product knowledge </blog/newsletter-october-2025/#ai-and-the-need-for-product-knowledge>`__
 - |:newspaper:| `Using AI to prove AI shouldn’t replace you </blog/newsletter-october-2025/#using-ai-to-prove-ai-shouldnt-replace-you>`__
@@ -794,6 +796,7 @@ Working with other roles
 
 Including product managers, higher-ups, etc.
 
+- |:newspaper:| `Documenting features that don’t exist yet </blog/newsletter-december-2025/#documenting-features-that-don-t-exist-yet>`__
 - |:newspaper:| `Encouraging colleagues to search for content </blog/newsletter-october-2025/#encouraging-colleagues-to-search-for-content>`__
 - |:newspaper:| `Help contributors think like users </blog/newsletter-june-2025/#help-contributors-think-like-users>`__
 - |:newspaper:| `Contending with unresponsive stakeholders </blog/newsletter-march-2025/#contending-with-unresponsive-stakeholders>`__
