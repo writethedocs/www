@@ -7,13 +7,13 @@
 Write the Docs Newsletter – December 2025
 #########################################
 
-Season's greetings, documentarians! I hope you are finding joy wherever you are, whether it's big or small. At least something that gives you something to look forward to. Personally, I'm thankful for the Write the Docs community and how I can always learn from other people, even when I have less time or energy to contribute as much myself.
+Season's greetings, documentarians! I hope you are finding joy wherever you are. At least something that gives you something to look forward to. Personally, I'm thankful for the Write the Docs community and how I can always learn from other people, even when I have less time or energy to contribute much myself.
 
 If you're interested in the work that keeps the community going, check out the `Q4 Community Board update </blog/2025-Q4-community-board/>`__. Lots goes on behind the scenes to make everything we do possible.
 
 As this is the last newsletter for the year, this is our last chance to remind you to fill in the `Write the Docs Documentation Salary Survey <https://salary-survey.writethedocs.org/>`__! The survey closes at the end of December, so if you haven't already contributed, please do so now. The more submissions we get, the more useful the results become, so if you're one of the fabulous people who have already participated, now would be a great time to mention it to your documentation-loving friends and colleagues. 
 
-As noted in the board update, Hillary Fraley and Royce Cook are leaving the newsletter team with this edition. They have each brought unique perspectives to our monthly recaps, and I am sorry to see them go. If you're interested in being a part of the `newsletter team </team/#newsletter>`__, reach out to me (`@Aaron Collier`) on Slack.
+As noted in the board update, Hillary Fraley and Royce Cook are leaving the newsletter team this month. They have each brought unique perspectives to our monthly recaps, and I am sorry to see them go. If you're interested in being a part of the `newsletter team </team/#newsletter>`__, reach out to me (`@Aaron Collier`) on Slack.
 
 Before leaving, they did leave us with some interesting insights this month. We have articles on the future of AI and documentation, the importance of code examples in developer docs, and documenting features still being developed. Enjoy!
 
@@ -62,7 +62,7 @@ See more Write the Docs resources about `code samples </topics/#code-samples>`__
 Documenting features that don't exist yet
 -----------------------------------------
 
-Documenting non-existent features can be a high-risk practice. There are times, tho’, when it’s necessary — particularly if management is pushing it or the timeline is tight. If you have to do it, it helps to be aware of the benefits and risks involved.
+Documenting non-existent features can be a high-risk practice. There are times, though, when it’s necessary — particularly if management is pushing it or the timeline is tight. If you have to do it, it helps to be aware of the benefits and risks involved.
 
 **Benefits**
 
