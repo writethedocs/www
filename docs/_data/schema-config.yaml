@@ -66,6 +66,9 @@ flaghasboat: bool()
 flaglanding: bool()
 flaghasbadgeflair: bool(required=False)
 flaghasfood: bool(required=False)
+flaghasvisiting: bool(required=False)
+flaghasattendeeguide: bool(required=False)
+flaghasteam: bool(required=False)
 
 ---
 
