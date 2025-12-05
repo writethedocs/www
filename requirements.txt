@@ -35,3 +35,5 @@ sphinx-notfound-page==1.1.0
 sphinxext-opengraph==0.9.1
 # For social cards
 matplotlib==3.9.4
+# For pre-commit hooks
+pre-commit==4.0.1
