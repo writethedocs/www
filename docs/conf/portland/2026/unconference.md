@@ -16,8 +16,6 @@ Everyone! All attendees are invited to lead a session on a topic. Sessions can b
 
 Everyone!
 
-![Unconference 1](/_static/conf/images/pics/2025/unconference.jpg)
-
 ## Schedule
 
 **Date: {{ unconf.date }}**
