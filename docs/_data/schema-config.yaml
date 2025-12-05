@@ -38,6 +38,7 @@ writing_day: include('writing_day-details', required=False)
 lightning_talks: include('lightning_talks-details', required=False)
 qa: include('qa-details', required=False)
 hike: include('hike-details', required=False)
+volunteer: include('volunteer-details', required=False)
 
 flaghassponsors: bool()
 flagcfp: bool()
@@ -211,9 +212,16 @@ writing_day-details:
 
 hike-details:
   date: str(required=True)
+  register_url: str(required=False)
 
 lightning_talks-details:
   signup_url: str(required=True)
 
 qa-details:
   event_id: str(required=True)
+
+volunteer-details:
+  form_url: str(required=False)
+  applications_close: str(required=False)
+  schedule_signup_close: str(required=False)
+

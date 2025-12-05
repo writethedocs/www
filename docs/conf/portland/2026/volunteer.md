@@ -16,7 +16,7 @@ Each individual must volunteer for two or more 3-4 hour shifts and receives a **
 
 <div class="announcement" style="background-color:white;">
     <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="https://docs.google.com/forms/d/e/1FAIpQLSeO5JMVVn1F2NN6keihd0qrLRnytaCMyBAefBjWGW_sz0Iwwg/viewform?usp=sf_link">Sign up to be a volunteer</a>
+    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ volunteer.form_url }}">Sign up to be a volunteer</a>
     </div>
 </div>
 
@@ -24,8 +24,8 @@ Each individual must volunteer for two or more 3-4 hour shifts and receives a **
 
 **Timeline:**
 
-- **Now-February 13**: Volunteer applications open
-- **February 13-March 27**: Volunteer schedule sign up open
+- **Now-{{ volunteer.applications_close }}**: Volunteer applications open
+- **{{ volunteer.applications_close }}-{{ volunteer.schedule_signup_close }}**: Volunteer schedule sign up open
 - **End of March**: Volunteer schedule emailed
   
 ## Volunteer Roles

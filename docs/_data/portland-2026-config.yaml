@@ -191,8 +191,14 @@ writing_day:
   url: "https://docs.google.com/forms/u/1/d/e/1FAIpQLSeHMZ1uXTfnT0HMm-KfsgxYV1w3tmS7bMPtBx4H9cktJpSrdg/viewform?usp=dialog"
   date: Sunday, May 3, 9 AM - 5 PM
 
+volunteer:
+  form_url: "https://docs.google.com/forms/d/e/1FAIpQLSeO5JMVVn1F2NN6keihd0qrLRnytaCMyBAefBjWGW_sz0Iwwg/viewform?usp=sf_link"
+  applications_close: "February 13"
+  schedule_signup_close: "March 27"
+
 hike:
   date: Saturday, May 2, 2 PM
+  register_url: "https://ti.to/writethedocs/write-the-docs-portland-2026/with/k-pi4-g8s80"
 
 sponsors:
   keystone:
