@@ -203,7 +203,7 @@ sponsors:
   in_kind:
 
 # Things that change over time, listed in order of change
-flaglanding: True
+flaglanding: False
 flaghassponsors: False
 flagcfp: True
 flagticketsonsale: False
@@ -213,7 +213,7 @@ flagrunofshow: False
 flaghasschedule: False
 flagscheduleincomplete: True
 flaghasshirts: False
-flaglivestreaming: True
+flaglivestreaming: False
 flagvideos: False
 flagpostconf: False
 flaghasbadgeflair: False
@@ -226,3 +226,8 @@ flaghaswritingday: True
 flaghaslightningtalks: True
 flaghasjobfair: True
 flaghasboat: False
+
+# Pages to be linked in January 2026
+flaghasvisiting: False
+flaghasattendeeguide: False
+flaghasteam: False
