@@ -57,6 +57,20 @@ WIP (Work In Progress) Docs on how to do this:
 
 2. In the repository root directory (`www` by default), run `pip install -r requirements.txt` to install sphinx and other requirements.
 
+### Setting up pre-commit hooks
+
+This repository uses [pre-commit](https://pre-commit.com/) to run automated checks on files before committing. After installing the requirements, set up the pre-commit hooks:
+
+```
+pre-commit install
+```
+
+The hooks will now run automatically when you commit changes. You can also run them manually:
+
+```
+pre-commit run --all-files
+```
+
 ### Previewing the docs locally
 
 > Remember to activate the virtual environment using the appropriate command for your OS and Shell before running the following commands.
