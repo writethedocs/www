@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/headers/2025/writing-day.jpg
+banner: _static/conf/images/headers/2026/writing-day.jpg
 ---
 
 # What is Writing Day?

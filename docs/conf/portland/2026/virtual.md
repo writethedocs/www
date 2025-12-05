@@ -1,5 +1,6 @@
 ---
 template: {{year}}/generic.html
+banner: _static/conf/images/headers/2026/virtual.jpg
 ---
 
 # Virtual Attendance
