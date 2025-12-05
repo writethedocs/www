@@ -17,15 +17,15 @@ Our conference will be held at Revolution Hall, a beautiful venue located in the
 
 If you drive to the conference, note that the venue does not have parking onsite. There is street parking east of the venue (15th Ave. and higher street numbers) and allows for all-day free parking. Additionally, there is 1-2 hour street parking directly around the venue. 
 
-Bus transit stops are located near the venue. All transit in Portland announce major stops verbally in English, and most buses have a visual display of upcoming stops. Refer to the [Visiting Portland page](https://www.writethedocs.org/conf/portland/2026/visiting/) for more information on public transportation.
+Bus transit stops are located near the venue. All transit in Portland announce major stops verbally in English, and most buses have a visual display of upcoming stops. More information on public transportation will be shared as the conference nears.
 
 ## Conference Layout
 
 ### Registration and Welcome Wagon
 
 **Location:**
-- May 2: 1st floor near Martha's Cafe
-- May 3-5: 2nd floor
+- May 3: 1st floor near Martha's Cafe
+- May 4-5: 2nd floor
 
 ### Writing Day, Unconference, and Welcome Reception
 
@@ -41,7 +41,7 @@ Bus transit stops are located near the venue. All transit in Portland announce m
 
 ### Other Venue Spaces (open to the public)
 
-- Martha’s Coffee: 7-3pm
+- Martha's Coffee: 7am-3pm
 - Show Bar: 3-11pm
 - Roof Deck: 3-11pm, weather permitting
 - Outdoor seating and city park

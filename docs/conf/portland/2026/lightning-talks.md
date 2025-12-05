@@ -10,16 +10,6 @@ A Lightning Talk is a brief presentation, lasting up to five minutes, where you 
 
 Lightning Talks are a fantastic opportunity for first-time speakers. Regardless of your speaking experience, we invite you to submit a talk.
 
-<p style="margin: 2em 0;">
-<table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
-<tr>
-  <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-     <a href="https://docs.google.com/forms/d/e/1FAIpQLSc9Op0AImTVbHoX4yi_AViNpCvE_Id-E_Q2-y3THQ7NxXW5MA/viewform?usp=sharing" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Submit a Lightning Talk</a>
-  </td>
-</tr>
-</table>
-</p>
-
 **Supporting first-time speakers is important to us, so we have created two speaker categories:**
 
 - First-time speakers
@@ -35,10 +25,8 @@ Submit your Lightning Talk in person at the registration/check-in table.
 
 **Submissions are open:**
 
-- During Writing Day on Sunday
-- Monday morning, until the end of the last morning break
-- Monday afternoon, post-Monday Lightning Talks
-- Tuesday morning, until the end of the last morning break
+- One week prior to the conference (Monday submissions only)
+- During the conference from Sunday to Tuesday morning, until the end of the last morning break
 
 **Speaker selection and announcements:**
 

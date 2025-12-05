@@ -24,7 +24,7 @@ Remember to change the things in [brackets]!
 
 *Write the Docs conferences bring together everyone who writes the docs – Tech Writers, Developers, Developer Relations, Customer Support – making the events an ideal networking opportunity. Each conference successfully combines a number of different event formats to deliver engaging, practical, and timely content.*
 
-*There is a single track of talks, a parallel unconference event, and a community writing day. The [sessions from last year](https://www.writethedocs.org/conf/portland/2024/speakers/) will give you a good idea of the kinds of topics covered, many of which are relevant to my work.*
+*There is a single track of talks, a parallel unconference event, and a community writing day. The [sessions from last year](https://www.writethedocs.org/conf/portland/2025/speakers/) will give you a good idea of the kinds of topics covered, many of which are relevant to my work.*
 
 *Costs:*
 
@@ -94,7 +94,7 @@ Peer review new and existing documentation*
 
 When discussing how to pitch Writing Day, a few helpful tips emerged:
 
-- Highlight specific projects from a previous [Writing Day project list. ](https://www.writethedocs.org/conf/portland/2023/writing-day/#project-listing)
+- Highlight specific projects from a previous [Writing Day project list.](https://www.writethedocs.org/conf/portland/2025/writing-day/#project-listing)
 - If your community is looking for regular documentation contributions, this is a great place to onboard potential contributors and editors.
 - Attending raises the visibility of your company in the community. 
 - Establishes your team's reputation for caring about their docs.

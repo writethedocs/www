@@ -23,7 +23,7 @@ Grant applicants, like all other participants in the Write the Docs community, a
 ## Schedule
 
 - **Now - {{ grants.ends }}:** Grant applications open
-- **{{ grants.notification }}:** Grant recipients notified
+- **February 13, 2026:** Grant recipients notified
 
 ## What is Covered
 
@@ -42,7 +42,7 @@ The application form will ask for an estimate of your costs.
 
 ## Grant Amounts
 
-The total amount of grant funds to be distributed is based upon sponsors and number of tickets sold. We will not know the full amount until we near the deadline. In 2024, $3,500 was distributed in grant funds. There is no limit on the amount you request, but please consider this amount when making your request. We rarely fund only one individual and aim to use our budget for two or more people. We do not award partial grants.
+The total amount of grant funds to be distributed is based upon sponsors and number of tickets sold. We will not know the full amount until we near the deadline. For 2026, we have $3,500 total to distribute for grant funds. There is no limit on the amount you request, but please consider this amount when making your request. We rarely fund only one individual and aim to use our budget for two or more people. We do not award partial grants.
 
 ## Are you part of a marginalized or underrepresented group in tech?
 
