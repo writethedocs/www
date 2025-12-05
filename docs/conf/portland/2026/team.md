@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/headers/2025/team.jpg
+banner: _static/conf/images/headers/2026/team.jpg
 ---
 
 % Use this comment to resize images: sips -Z 250 *.jpg
