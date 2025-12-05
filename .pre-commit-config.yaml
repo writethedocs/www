@@ -1,0 +1,37 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.6.0
+    hooks:
+      - id: check-yaml
+        files: ^docs/_data/.*\.(yml|yaml)$
+      - id: end-of-file-fixer
+        files: ^docs/_data/.*\.(yml|yaml)$
+      - id: trailing-whitespace
+        files: ^docs/_data/.*\.(yml|yaml)$
+
+  - repo: https://github.com/adrienverge/yamllint
+    rev: v1.26.3
+    hooks:
+      - id: yamllint
+        files: ^docs/_data/.*\.(yml|yaml)$
+
+  - repo: local
+    hooks:
+      - id: yamale-config
+        name: Validate conference config YAML against schema
+        entry: yamale -s docs/_data/schema-config.yaml
+        language: python
+        additional_dependencies: [yamale==4.0.4]
+        files: ^docs/_data/.*-config\.(yml|yaml)$
+      - id: yamale-schedule
+        name: Validate schedule YAML against schema
+        entry: yamale -s docs/_data/schema-schedule.yaml
+        language: python
+        additional_dependencies: [yamale==4.0.4]
+        files: ^docs/_data/.*-schedule\.(yml|yaml)$
+      - id: yamale-sessions
+        name: Validate sessions YAML against schema
+        entry: yamale -s docs/_data/schema-sessions.yaml
+        language: python
+        additional_dependencies: [yamale==4.0.4]
+        files: ^docs/_data/.*-sessions\.(yml|yaml)$
