@@ -76,6 +76,6 @@ You do not have to tell us which underrepresented group(s) you belong to.
 
 ## Application
 
-<iframe src="{{ grants.url }}?embedded=true" width="80%" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="{{ grants.url }}?embedded=true" width="100%" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 You can also view [the application form]({{ grants.url }}) in its own page.

@@ -58,6 +58,6 @@ Contact katie@writethedocs.org with any additional questions.
 
 ## Volunteer Sign Up Form
 
-<iframe src="{{ volunteer.form_url }}?embedded=true" width="80%" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="{{ volunteer.form_url }}?embedded=true" width="100%" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 You can also view [the volunteer form]({{ volunteer.form_url }}) in its own page.
