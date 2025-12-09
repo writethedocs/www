@@ -20,6 +20,12 @@ We prioritize applications based on the overall impact that granting an applicat
 
 Grant applicants, like all other participants in the Write the Docs community, are required to follow the [Code of Conduct](https://www.writethedocs.org/conf/portland/2026/code-of-conduct/).
 
+<div class="announcement" style="background-color:white;">
+    <div class="uk-container">
+    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ grants.url }}">Apply for an Opportunity Grant</a>
+    </div>
+</div>
+
 ## Schedule
 
 - **Now - {{ grants.ends }}:** Grant applications open
@@ -70,6 +76,6 @@ You do not have to tell us which underrepresented group(s) you belong to.
 
 ## Application
 
-<iframe src="{{ grants.url }}?embedded=true" width="760" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="{{ grants.url }}?embedded=true" width="80%" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 You can also view [the application form]({{ grants.url }}) in its own page.
