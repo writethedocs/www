@@ -213,7 +213,7 @@ sponsors:
   in_kind:
 
 # Things that change over time, listed in order of change
-flaglanding: True
+flaglanding: False
 flaghassponsors: True
 flagcfp: True
 flagticketsonsale: True
