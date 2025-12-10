@@ -202,6 +202,10 @@ hike:
 
 sponsors:
   keystone:
+    - name: promptless
+      link: https://promptless.ai/?ref=writethedocs
+      brand: Promptless
+
   patron:
   publisher:
   second:
@@ -209,8 +213,8 @@ sponsors:
   in_kind:
 
 # Things that change over time, listed in order of change
-flaglanding: False
-flaghassponsors: False
+flaglanding: True
+flaghassponsors: True
 flagcfp: True
 flagticketsonsale: True
 flagsoldout: False
