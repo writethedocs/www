@@ -107,7 +107,7 @@ sponsorship:
     price: $15,000
 
 grants:
-  url: https://docs.google.com/forms/d/e/1FAIpQLSf3fGfW_8W1x3oeKeoUpg8ZPLvyY4cQvO5Bii_OTrgW97cLNw/viewform?embedded=true
+  url: "https://docs.google.com/forms/d/e/1FAIpQLSctdb3MT_MvB1x_o8iKKhp_xik8YXDLVCnnDT_tv2k2LPlrJg/viewform?usp=dialog"
   ends: 'February 5, 2026'
   notification: 'February 14, 2026'
 
@@ -191,8 +191,14 @@ writing_day:
   url: "https://docs.google.com/forms/u/1/d/e/1FAIpQLSeHMZ1uXTfnT0HMm-KfsgxYV1w3tmS7bMPtBx4H9cktJpSrdg/viewform?usp=dialog"
   date: Sunday, May 3, 9 AM - 5 PM
 
+volunteer:
+  form_url: "https://docs.google.com/forms/d/e/1FAIpQLSeJvA3uhXDuFsl_kFYWyTyTIyYs6ItHMPspOVq_iSlIloFo6g/viewform?usp=sharing&ouid=109538527958730243648"
+  applications_close: "February 13"
+  schedule_signup_close: "March 27"
+
 hike:
   date: Saturday, May 2, 2 PM
+  register_url: "https://ti.to/writethedocs/write-the-docs-portland-2026/with/k-pi4-g8s80"
 
 sponsors:
   keystone:
@@ -210,14 +216,14 @@ sponsors:
 flaglanding: True
 flaghassponsors: True
 flagcfp: True
-flagticketsonsale: False
+flagticketsonsale: True
 flagsoldout: False
 flagspeakersannounced: False
 flagrunofshow: False
 flaghasschedule: False
 flagscheduleincomplete: True
 flaghasshirts: False
-flaglivestreaming: True
+flaglivestreaming: False
 flagvideos: False
 flagpostconf: False
 flaghasbadgeflair: False
@@ -230,3 +236,8 @@ flaghaswritingday: True
 flaghaslightningtalks: True
 flaghasjobfair: True
 flaghasboat: False
+
+# Pages to be linked in January 2026
+flaghasvisiting: False
+flaghasattendeeguide: False
+flaghasteam: False
