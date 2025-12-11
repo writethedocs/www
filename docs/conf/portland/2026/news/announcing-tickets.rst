@@ -51,7 +51,7 @@ Visit our `Volunteer page <https://www.writethedocs.org/conf/{{shortcode}}/{{yea
 
 .. raw:: html
 
-   <div="margin: 2em 0;">
+   <div style="margin: 2em 0;">
    <table border="0" cellpadding="0" cellspacing="0" style="background-color:rgb({{ rgb }}); border:1px solid #4a4a4a; border-radius:5px;">
    <tr>
       <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
