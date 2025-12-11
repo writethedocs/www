@@ -7,7 +7,7 @@
   speakers:
   - name: Karissa Van Baulen
     slug: karissa-van-baulen
-    twitter: 
+    twitter:
     website: https://www.linkedin.com/in/karissavb/
   abstract: '<p>The quality of content in documentation is key to successful documentation,
     but what about the stats? We hear a lot of numbers like Self Service Score or
@@ -92,8 +92,8 @@
   speakers:
   - name: Diana Lakatos
     slug: diana-lakatos
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>How to encourage and help your community to contribute to your developer
     documentation? In this session, Diana Lakatos shows you various — fully remote
     — processes platformOS developed to help community members contribute content
@@ -153,7 +153,7 @@
   - name: Matt Reiner
     slug: matt-reiner
     twitter: '@reinermatthew'
-    website: 
+    website:
   abstract: '<p>That little bit of extra love and care is what turns a dessert into
     a delight. So what about your product? Why not bake some of that sweet, sweet
     documentation right in?</p>
@@ -199,7 +199,7 @@
   - name: Abigail Sutherland
     slug: abigail-sutherland
     twitter: '@evilrooster'
-    website: 
+    website:
   abstract: '<p><em>Hoarder</em>. The word brings to mind some elderly person creeping
     through a dim house filled with piles of years-old clutter, not a 350-person technology
     department. But with more than 20,000 Confluence pages across 34 different spaces,
@@ -241,7 +241,7 @@
   - name: Natali Vlatko
     slug: natali-vlatko
     twitter: '@natalisucks'
-    website: 
+    website:
   abstract: '<p>Hatshepsut, the second historically-confirmed female pharaoh of Ancient
     Egypt, was a great leader and innovator of her time, which we’ve all learned about
     through hieroglyphic-laden documentation. She’s also a victim of changes to documentation
@@ -309,7 +309,7 @@
   - name: Andrew Haynes
     slug: andrew-haynes
     twitter: '@CycleCoder'
-    website: 
+    website:
   abstract: '<p>For years, I have been sailing around the submerged iceberg of Pattern
     Languages in my careers of software developer, technical author, information architect
     and Scrum Master. I eventually landed on Christopher Alexander’s book, “A Pattern
@@ -341,7 +341,7 @@
   speakers:
   - name: Jen Weaver
     slug: jen-weaver
-    twitter: 
+    twitter:
     website: https://www.linkedin.com/in/jen-weaver-198a0617a/
   abstract: '<p>Videos, GIFs, and screenshots are brilliant additions to your help
     docs - enabling customers to understand a product feature quickly and painlessly
@@ -402,7 +402,7 @@
   speakers:
   - name: Chris Noonan
     slug: chris-noonan
-    twitter: 
+    twitter:
     website: https://www.linkedin.com/in/cnoonan/
   abstract: "<p>Technology and process are invariably linked to the success of your
     product. In ABN AMRO, we are defining how documentation works for internal and
@@ -423,12 +423,12 @@
   speakers:
   - name: Jessica Valasek Estenssoro
     slug: jessica-valasek-estenssoro
-    twitter: 
-    website: 
+    twitter:
+    website:
   - name: Arthur D'Herbemont
     slug: arthur-d-herbemont
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>We''re a couple of Docs Geeks with a story about how our cross-functional
     team scratched out a wholistic technical content strategy. With few resources,
     but a lot of curiosity, enthusiasm, and scrappiness, we''ve seen some pretty awesome
@@ -459,8 +459,8 @@
   speakers:
   - name: Joe Malin
     slug: joe-malin
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>End users, sales engineers, and developers are united in their criticism
     of your documentation:</p>
 
@@ -500,7 +500,7 @@
   - name: Tanks Transfeld
     slug: tanks-transfeld
     twitter: '@mirabellensaft'
-    website: 
+    website:
   abstract: '<p>While lecture style teaching barely has to be adapted when it moves
     online, the story is different for student centered, interactive formats that
     teach practical skills, like we do in our programming trainings. Compared to what

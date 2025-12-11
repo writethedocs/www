@@ -9,8 +9,8 @@
   speakers:
   - name: Abigail McCarthy
     slug: abigail-mccarthy
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Open source projects are a great opportunity to grow your skills or
     learn new ones. Project maintainers are always looking for new folks to help out
     with various aspects of the project, especially when it comes to documentation.
@@ -52,7 +52,7 @@
   - name: Jessica Garson
     slug: jessica-garson
     twitter: JessicaGarson
-    website: 
+    website:
   abstract: <p>As a developer advocate at Twitter, I'm often writing technical tutorials
     as a core part of my role. In this talk, I'll go over the process I use to source
     ideas for tutorials, how to start creating tutorials, gather feedback, and the
@@ -69,7 +69,7 @@
   - name: Deanna Thompson
     slug: deanna-thompson
     twitter: '@itsdeannat'
-    website: 
+    website:
   abstract: '<p>About a year ago, I joined a team that used the Google Developer Documentation
     Style Guide (GDDSG) for our documentation. While it met our needs for the most
     part, I realized that we needed a style guide customized for our product and brand.
@@ -92,7 +92,7 @@
   speakers:
   - name: Katherine Karaus
     slug: katherine-karaus
-    twitter: 
+    twitter:
     website: https://kkwritescopy.com/
   abstract: '<p>The words in your favorite app may seem simple, helpful, and unobtrusive.
     But to get there, UX writers are playing an elaborate game of influence. </p>
@@ -165,7 +165,7 @@
   speakers:
   - name: Falon Darville
     slug: falon-darville
-    twitter: 
+    twitter:
     website: https://falondarville.com
   abstract: '<p>When I was hired at DISQO as a Technical Writer,  the number of engineers
     was hovering around seventy, and there was just one of me. With numerous Google
@@ -208,7 +208,7 @@
   - name: Daniele Procida
     slug: daniele-procida
     twitter: '@EvilDMP'
-    website: 
+    website:
   abstract: '<p>Often, the easiest part of work is <strong>doing it</strong>. The
     hard part is <strong>knowing what</strong> to do. </p>
 
@@ -437,8 +437,8 @@
   speakers:
   - name: Nicola Yap
     slug: nicola-yap
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>How do you help a newly hired writer get off to a good start without
     overwhelming them? And how do you continue to support their growth?</p>
 
@@ -532,8 +532,8 @@
   speakers:
   - name: Laura Novich
     slug: laura-novich
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>This year, like many of you, I binged on the <a href="https://www.imdb.com/title/tt10048342/">Queen’s
     Gambit</a>. In chess, a <em>gambit</em> is a move where you sacrifice a chess
     piece in the hope to put yourself in a more advantageous position.  When the gambit
