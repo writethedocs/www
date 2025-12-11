@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/headers/2025/grants.jpg
+banner: _static/conf/images/headers/2026/tickets.jpg
 ---
 
 # Opportunity Grants
@@ -20,10 +20,16 @@ We prioritize applications based on the overall impact that granting an applicat
 
 Grant applicants, like all other participants in the Write the Docs community, are required to follow the [Code of Conduct](https://www.writethedocs.org/conf/portland/2026/code-of-conduct/).
 
+<div class="announcement" style="background-color:white;">
+    <div class="uk-container">
+    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ grants.url }}">Apply for an Opportunity Grant</a>
+    </div>
+</div>
+
 ## Schedule
 
 - **Now - {{ grants.ends }}:** Grant applications open
-- **{{ grants.notification }}:** Grant recipients notified
+- **February 13, 2026:** Grant recipients notified
 
 ## What is Covered
 
@@ -42,7 +48,7 @@ The application form will ask for an estimate of your costs.
 
 ## Grant Amounts
 
-The total amount of grant funds to be distributed is based upon sponsors and number of tickets sold. We will not know the full amount until we near the deadline. In 2024, $3,500 was distributed in grant funds. There is no limit on the amount you request, but please consider this amount when making your request. We rarely fund only one individual and aim to use our budget for two or more people. We do not award partial grants.
+The total amount of grant funds to be distributed is based upon sponsors and number of tickets sold. We will not know the full amount until we near the deadline. For 2026, we have $3,500 total to distribute for grant funds. There is no limit on the amount you request, but please consider this amount when making your request. We rarely fund only one individual and aim to use our budget for two or more people. We do not award partial grants.
 
 ## Are you part of a marginalized or underrepresented group in tech?
 
@@ -70,6 +76,6 @@ You do not have to tell us which underrepresented group(s) you belong to.
 
 ## Application
 
-<iframe src="{{ grants.url }}?embedded=true" width="760" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="{{ grants.url }}?embedded=true" width="100%" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 You can also view [the application form]({{ grants.url }}) in its own page.
