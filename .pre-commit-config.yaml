@@ -4,6 +4,7 @@ repos:
     hooks:
       - id: check-yaml
         files: ^docs/_data/.*\.(yml|yaml)$
+        exclude: ^docs/_data/schema-.*\.yaml$
       - id: end-of-file-fixer
         files: ^docs/_data/.*\.(yml|yaml)$
       - id: trailing-whitespace
@@ -14,24 +15,25 @@ repos:
     hooks:
       - id: yamllint
         files: ^docs/_data/.*\.(yml|yaml)$
+        exclude: ^docs/_data/schema-.*\.yaml$
 
   - repo: local
     hooks:
       - id: yamale-config
         name: Validate conference config YAML against schema
-        entry: yamale -s docs/_data/schema-config.yaml
-        language: python
-        additional_dependencies: [yamale==4.0.4]
+        entry: bash -c 'for f in "$@"; do yamale -s docs/_data/schema-config.yaml "$f" || exit 1; done' --
+        language: system
         files: ^docs/_data/.*-config\.(yml|yaml)$
+        exclude: ^docs/_data/schema-config\.yaml$
       - id: yamale-schedule
         name: Validate schedule YAML against schema
-        entry: yamale -s docs/_data/schema-schedule.yaml
-        language: python
-        additional_dependencies: [yamale==4.0.4]
+        entry: bash -c 'for f in "$@"; do yamale -s docs/_data/schema-schedule.yaml "$f" || exit 1; done' --
+        language: system
         files: ^docs/_data/.*-schedule\.(yml|yaml)$
+        exclude: ^docs/_data/schema-schedule\.yaml$
       - id: yamale-sessions
         name: Validate sessions YAML against schema
-        entry: yamale -s docs/_data/schema-sessions.yaml
-        language: python
-        additional_dependencies: [yamale==4.0.4]
+        entry: bash -c 'for f in "$@"; do yamale -s docs/_data/schema-sessions.yaml "$f" || exit 1; done' --
+        language: system
         files: ^docs/_data/.*-sessions\.(yml|yaml)$
+        exclude: ^docs/_data/schema-sessions\.yaml$
