@@ -72,7 +72,7 @@ talks_day2:
   - duration: '0:20'
     title: '☕ Coffee break'
   - duration: '0:00'
-    title: "<b>Unconference Starts</b>"   
+    title: "<b>Unconference Starts</b>"
   - duration: '0:30'
     slug: where-journalism-and-advertising-writing-skills-overlap-with-technical-writing-justine-stewart
   - duration: '0:10'
@@ -84,7 +84,7 @@ talks_day2:
   - duration: '0:10'
     title: '✋ 10 min Q&A'
   - duration: '0:00'
-    title: "<b>Unconference Ends</b>"  
+    title: "<b>Unconference Ends</b>"
   - duration: '1:00'
     title: '🍽️ Lunch Break (60 mins)'
   - duration: '0:00'

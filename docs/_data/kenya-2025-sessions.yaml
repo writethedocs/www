@@ -151,16 +151,16 @@
       slug: radina-matic
       twitter: ""
       website: ""
-  abstract: "Why is PDF accessibility still such a headache? Isn’t there a standard we can all follow? 
+  abstract: "Why is PDF accessibility still such a headache? Isn’t there a standard we can all follow?
     This session tackles that very frustration starting with PDF/UA, the ISO 14289 standard for accessible PDFs
     and walks you through the practical steps of creating accessible documents.
-    We’ll explore real-world workflows: how you produce PDFs from MS Office, LibreOffice, or HTML, 
-    and why accessibility must start at the source document. You’ll learn how to make source files accessible, 
-    perform basic validations, and properly export to PDF (never print to PDF!). 
+    We’ll explore real-world workflows: how you produce PDFs from MS Office, LibreOffice, or HTML,
+    and why accessibility must start at the source document. You’ll learn how to make source files accessible,
+    perform basic validations, and properly export to PDF (never print to PDF!).
     Then, we’ll dig into checking and fixing accessibility using Adobe Acrobat DC and the free PDF Accessibility Checker (PAC 2024).
     We’ll also highlight what can’t be auto-fixed — such as logical reading order and color contrast
     and why manual review still matters.
-    The session concludes with a curated list of free and open-source tools, 
+    The session concludes with a curated list of free and open-source tools,
     plus practical exercises inspired by workshops from NORDIC TechKomm 2017 and tcworld India 2020:
     https://radinamatic.github.io/NORDIC-TechKomm-2017/
     https://radinamatic.github.io/tcworld-india-2020/"
@@ -281,7 +281,7 @@
     development efforts more effectively and build more reliable software. In this
     comprehensive talk, we'll explore:
     Test documentation across different testing levels:
-    Unit test documentation, Integration test documentation, Component test documentation, 
+    Unit test documentation, Integration test documentation, Component test documentation,
     End-to-end test documentation and Best practices for creating living documentations with  version control"
 
 - title:
@@ -299,9 +299,9 @@
   abstract:
     "In this talk, I’ll share my journey of how initiating a data documentation culture with AIESEC transformed
     my personal and professional life from feeling lost to becoming focused, systematic, and productive.
-    I’ll explore how personal habits around documentation evolved into team-wide practices that 
-    improved collaboration and clarity in my work with AIESEC and other organizations. 
-    This session will inspire you to document intentionally not just for others, 
+    I’ll explore how personal habits around documentation evolved into team-wide practices that
+    improved collaboration and clarity in my work with AIESEC and other organizations.
+    This session will inspire you to document intentionally not just for others,
     but as a powerful tool for your own growth and alignment."
 
 - title:
@@ -343,7 +343,7 @@
     to diverse audiences. Learn how to optimize content for different regions, languages,
     and abilities, ensuring your documentation is clear, accessible, and effective
     for everyone."
-    
+
 - title: 'IMPORT, COPY, REPEAT: Breaking Free from the Tech Karaoke Cycle"'
   slug: import-copy-repeat-breaking-free-from-the-tech-karaoke-cycle
   series: Write the Docs Kenya
