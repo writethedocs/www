@@ -48,8 +48,8 @@ Our audience goes beyond the technical writing community. Here’s a typical dem
 
 .. _why_portland_2026:
 
-Why?
-~~~~
+Why is this helpful, applicable, important?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Share specifics about the content of your talk that will give us a better sense of its depth. These spoilers are for the *selection committee* only and won’t be shared publicly, but will help us ensure your session is a good fit.
 
