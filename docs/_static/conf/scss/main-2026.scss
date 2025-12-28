@@ -148,6 +148,10 @@ body div.mobile-post-header {
 }
 
 body .page-banner {
+    display: grid;
+    align-content: end;
+    box-sizing: border-box;
+    padding-bottom: 2rem;
     height: 184px;
     width: 100%;
     background-size: cover;
@@ -155,12 +159,13 @@ body .page-banner {
 
     .uk-container {
         position: relative;
+        width: 90%;
 
         h1 {
             color: $white;
             font-family: $secondary-font-family;
-            position: absolute;
-            top: 108px;
+            // position: absolute;
+            // top: 108px;
             font-size: 26px;
         }
     }
@@ -945,8 +950,8 @@ footer {
         .uk-container {
             max-width: 560px !important;
             h1 {
-                top: 208px;
-                font-size: 46px;
+                // top: 208px;
+                font-size: 44px;
             }
         }
     }
