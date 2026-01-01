@@ -12,7 +12,7 @@ ablog==0.10.31  # pyup: ignore
 # Sphinx (checked with 4.3) requires docutils=<0.18
 docutils==0.17.1   # pyup: <0.18
 PyYAML==6.0.2
-pytz==2024.2
+pytz==2025.2
 
 # Additional libraries
 csvkit==2.1.0
