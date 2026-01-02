@@ -9,9 +9,9 @@ tz: Pacific Time  # PT until March, PST after... :/
 email: portland@writethedocs.org
 color: gold
 rgb: 253,185,19
-rgb_contrast: 126,77,0
+rgb_contrast: 126,77,0 # if the main color has sufficient contrast against white text, set this to the same value as rgb
 hex: fdb913
-hex_contrast: 7e4d00
+hex_contrast: 7e4d00 # if the main color has sufficient contrast against white text, set this to the same value as hex
 time_format: 12h
 
 photos:
