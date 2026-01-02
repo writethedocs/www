@@ -9,7 +9,9 @@ tz: Pacific Time  # PT until March, PST after... :/
 email: portland@writethedocs.org
 color: gold
 rgb: 253,185,19
+rgb_contrast: 126,77,0
 hex: fdb913
+hex_contrast: 7e4d00
 time_format: 12h
 
 photos:
