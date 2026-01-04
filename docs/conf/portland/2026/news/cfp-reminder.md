@@ -25,7 +25,7 @@ If you already have an idea but are having a difficult time getting your proposa
 - Talk proposals are due by {{ cfp.ends }}.
 - Everyone who submits will receive a response by {{ cfp.notification }}.
 
-```{figure} /_static/conf/images/headers/portland-2025-all-speakers.jpg
+```{figure} /_static/conf/images/headers/portland-2025-speakers.jpg
 
 Thanks to our lovely 2025 speakers ❤️
 ```
