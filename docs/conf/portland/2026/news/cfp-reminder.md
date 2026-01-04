@@ -55,6 +55,10 @@ View our [Opportunity Grants page](https://www.writethedocs.org/conf/{{shortcode
 
 Interested in being a part of making the conference happen? Apply through our [Volunteer page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/volunteer/).
 
+### Give feedback on Writing Day
+
+We’re considering changing the format of Writing Day and want to hear your thoughts! If you’ve attended in the past, we’d love to hear what you liked, what you didn’t, and anything you think would make it better. If you haven’t attended, what kinds of things would pique your interest? Would you be more likely to attend if the sessions were shorter? Do you want sessions where you are doing actual writing, or more sessions where we discuss writing as a topic? Email [portland@writethedocs.org](mailto:portland@writethedocs.org) with any ideas.
+
 ## Join our Community of Sponsors
 
 Each year, we are grateful for the support of like-minded organizations that share our belief in a collaborative and welcoming community spirit, helping to make the conference a success.
