@@ -8,26 +8,26 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
    :tags: {{shortcode}}-{{year}}
 ```
 
-# Call for Proposals Reminder, Tickets, and Opportunity Grants
+# Friendly Reminders: Call for Proposals, Tickets, Opportunity Grants, and Volunteering
 
 Happy New Year, fellow documentarians!
 
 As we enter {{year}}, we're looking forward to Write the Docs {{city}} and sending some reminders to kick the year off. We hope you're planning to join us for the {{year}} conference.
 
-Today is mostly a reminder that we're accepting Talk Proposals until **{{ cfp.ends }}**. Opportunity Grants and Volunteer applications are still open as well. And of course, tickets are on sale!
+Today is mostly a reminder that we're accepting talk proposals until **{{ cfp.ends }}**. Opportunity grants and Volunteer applications are still open as well. And of course, tickets are on sale!
 
 ## Submit your talk by {{ cfp.ends }}
 
-You still time to submit your talk to the conference. Check out the [Call for Proposals page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp) for more details about what would make a great talk.
+You still have time to submit your talk proposal for the conference. Check out the [Call for Proposals page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp) for more details about what would make a great talk.
 
 If you already have an idea but are having a difficult time getting your proposal together, you can always ask for talk feedback on the [Write the Docs Slack](https://www.writethedocs.org/slack/). The community is here to help!
 
 - Talk proposals are due by {{ cfp.ends }}.
 - Everyone who submits will receive a response by {{ cfp.notification }}.
 
-```{figure} /_static/conf/images/headers/portland-2024-all-speakers.jpg
+```{figure} /_static/conf/images/headers/portland-2025-all-speakers.jpg
 
-Thanks to our lovely 2024 speakers ❤️
+Thanks to our lovely 2025 speakers ❤️
 ```
 
 ## Buy your ticket for the conference
@@ -45,7 +45,7 @@ Similar to our past conferences, we'll have great programming and social activit
 
 The full [event website](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/) is live. We'll be updating it with information about where to stay and visiting Portland in the next couple of weeks, so stay tuned.
 
-### Opportunity Grants are still open
+### Opportunity grants are still open
 
 Interested in attending but need extra financial support? We strive to provide an accessible conference for folks of all backgrounds to join. Our opportunity grant application is open until **{{ grants.ends }}**.
 
