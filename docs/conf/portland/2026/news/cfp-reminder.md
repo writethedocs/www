@@ -8,7 +8,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
    :tags: {{shortcode}}-{{year}}
 ```
 
-# Friendly Reminders: Call for Proposals, Tickets, Opportunity Grants, and Volunteering
+# Reminders: Call for Proposals, Tickets, Opportunity Grants, and Volunteering
 
 Happy New Year, fellow documentarians!
 
@@ -45,7 +45,7 @@ Similar to our past conferences, we'll have great programming and social activit
 
 The full [event website](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/) is live. We'll be updating it with information about where to stay and visiting Portland in the next couple of weeks, so stay tuned.
 
-### Opportunity grants are still open
+### Opportunity grants are open
 
 Interested in attending but need extra financial support? We strive to provide an accessible conference for folks of all backgrounds to join. Our opportunity grant application is open until **{{ grants.ends }}**.
 
@@ -59,7 +59,7 @@ Interested in being a part of making the conference happen? Apply through our [V
 
 We’re considering changing the format of Writing Day and want to hear your thoughts! If you’ve attended in the past, we’d love to hear what you liked, what you didn’t, and anything you think would make it better. If you haven’t attended, what kinds of things would pique your interest? Would you be more likely to attend if the sessions were shorter? Do you want sessions where you are doing actual writing, or more sessions where we discuss writing as a topic? Email [portland@writethedocs.org](mailto:portland@writethedocs.org) with any ideas.
 
-## Join our Community of Sponsors
+## Join our community of Sponsors
 
 Each year, we are grateful for the support of like-minded organizations that share our belief in a collaborative and welcoming community spirit, helping to make the conference a success.
 
