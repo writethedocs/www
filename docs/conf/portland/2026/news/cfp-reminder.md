@@ -4,7 +4,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
 ```{eval-rst}
-.. post:: Jan 3, 2026
+.. post:: Jan 7, 2026
    :tags: {{shortcode}}-{{year}}
 ```
 
@@ -57,7 +57,7 @@ Interested in being a part of making the conference happen? Apply through our [V
 
 ### Give feedback on Writing Day
 
-We’re considering changing the format of Writing Day and want to hear your thoughts! If you’ve attended in the past, we’d love to hear what you liked, what you didn’t, and anything you think would make it better. If you haven’t attended, what kinds of things would pique your interest? Would you be more likely to attend if the sessions were shorter? Do you want sessions where you are doing actual writing, or more sessions where we discuss writing as a topic? Email [portland@writethedocs.org](mailto:portland@writethedocs.org) with any ideas.
+We’re considering changing the format of Writing Day and want to hear your thoughts! If you’ve attended in the past, we’d love to hear what you liked, what you didn’t, and anything you think would make it better. If you haven’t attended, what kinds of things would pique your interest? Would you be more likely to attend if the sessions were shorter? Do you want sessions where you are doing actual writing, or more sessions where we discuss things similar to the Unconference? Email [portland@writethedocs.org](mailto:portland@writethedocs.org) with any ideas.
 
 ## Join our community of Sponsors
 
