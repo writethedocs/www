@@ -195,6 +195,10 @@ sponsors:
     - name: promptless
       link: https://promptless.ai/?ref=writethedocs
       brand: Promptless
+    - name: readme
+      link: https://readme.com/?ref=writethedocs
+      brand: ReadMe
+      text: <p>ReadMe transforms static API docs into interactive developer hubs. Help developers make their first call faster, quickly troubleshoot issues along the way, and get insights into API usage to focus your team on the highest-impact improvements.</p>
 
   patron:
   publisher:
