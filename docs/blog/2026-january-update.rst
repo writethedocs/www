@@ -33,7 +33,7 @@ We learned a lot about what worked (and what didn't) for both in-person and virt
 
 Here's what we have planned:
 
-* `Portland <https://www.writethedocs.org/conf/portland/2026/>`_ is a hybrid event on **May 3-5**.
+* `**Portland** <https://www.writethedocs.org/conf/portland/2026/>`_ is a hybrid event on **May 3-5**.
 * **Berlin** is planned to return in the fall as a hybrid event (more details soon).
 * **Australia** dates and format are still under discussion and we'll share updates when we have them.
 
