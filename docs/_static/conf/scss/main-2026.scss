@@ -1395,3 +1395,38 @@ figure .caption-text {
     font-size: 1rem; /* Optional: Adjust font size if needed */
     color: #333; /* Optional: Customize text color */
 }
+
+// homepage image resizing on mobile
+@media (max-width: $breakpoint-xsmall-max) {
+
+    .picture-set {
+        width: 100% !important;
+        height: auto !important;
+        max-width: 95% !important;
+        padding: 0 !important;
+        margin: 0.5em auto !important;   
+        img {
+            padding: 0 !important;
+        }
+    }
+
+}
+
+// accommodate buttons with wrapping text
+.uk-button {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 30px;
+    line-height: 1.2;
+    min-height: 38px;
+}
+
+// enlarge the hero text on mobile
+@media (max-width: 639px) {
+    .hero .hero-text p {
+        line-height: 1.2;
+        font-weight: 700;
+        font-size: 22px;
+    }
+}
