@@ -42,10 +42,20 @@ There are wonderful hotels located within two miles of the venue. Many of these 
 [Hotel Lucia](https://www.hotellucia.com/)
 
 - $139 + 16% tax
+- Boutique hotel in downtown Portland's cultural district
+- Art-focused hotel with rotating exhibitions
+- Imperial Restaurant inside offering Pacific Northwest cuisine
+- Close to Portland Art Museum and Arlene Schnitzer Concert Hall
+- 1.8 miles to the venue
 
 [Sentinel](https://www.sentinelhotel.com/)
 
 - $159 + 16% tax
+- Historic hotel in the heart of downtown Portland
+- Jake's Grill restaurant with classic American fare
+- Fireside lounge and bar
+- Walking distance to Powell's Books and the Pearl District
+- 1.8 miles to the venue
 
 [Clyde Hotel Portland by Kasa](https://kasa.com/properties/the-clyde-hotel-portland-by-kasa?utm_source=Google&utm_medium=nonpaid&utm_campaign=GMB&utm_term=VisitHotelWebsiteButton&utm_content=CLY&propertyType=&petsAllowed=&parking&bedCount=1&bedroomCount=0&bathroomCount=1&amenities=&adultGuestCount=1&childGuestCount=0&infantGuestCount=0&travelingForBusiness=false) (formerly named the Ace Hotel)
 
