@@ -39,6 +39,14 @@ There are wonderful hotels located within two miles of the venue. Many of these 
 
 ### Hotels Downtown/West Portland
 
+[Hotel Lucia](https://www.hotellucia.com/)
+
+- $139 + 16% tax
+
+[Sentinel](https://www.sentinelhotel.com/)
+
+- $159 + 16% tax
+
 [Clyde Hotel Portland by Kasa](https://kasa.com/properties/the-clyde-hotel-portland-by-kasa?utm_source=Google&utm_medium=nonpaid&utm_campaign=GMB&utm_term=VisitHotelWebsiteButton&utm_content=CLY&propertyType=&petsAllowed=&parking&bedCount=1&bedroomCount=0&bathroomCount=1&amenities=&adultGuestCount=1&childGuestCount=0&infantGuestCount=0&travelingForBusiness=false) (formerly named the Ace Hotel)
 
 - Boutique hotel with private and shared room options
