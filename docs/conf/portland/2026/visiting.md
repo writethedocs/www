@@ -30,26 +30,21 @@ There are wonderful hotels located within two miles of the venue. Many of these 
 - **Bonus!** We're having our Monday evening social here
 - 0.6 miles to the venue
 
-[KEX Hotels](https://kexhotels.com/)
-
-- **20% Off Discount Code: DOCS2026**
-- Pacific Standard restaurant/bar in the lobby
-- Historic building near shops and restaurants
-- 0.8 miles to the venue
-
 ### Hotels Downtown/West Portland
 
-[Clyde Hotel Portland by Kasa](https://kasa.com/properties/the-clyde-hotel-portland-by-kasa?utm_source=Google&utm_medium=nonpaid&utm_campaign=GMB&utm_term=VisitHotelWebsiteButton&utm_content=CLY&propertyType=&petsAllowed=&parking&bedCount=1&bedroomCount=0&bathroomCount=1&amenities=&adultGuestCount=1&childGuestCount=0&infantGuestCount=0&travelingForBusiness=false) (formerly named the Ace Hotel)
+[Hotel Lucia](https://www.hotellucia.com/)
 
-- Boutique hotel with private and shared room options
+- Downtown boutique hotel
 - Close to Powell's bookstore and the Pearl District
+- Nightly beer hour from 5-6pm
 - 1.8 miles to the venue
 
-[Woodlark Hotel](https://woodlarkhotel.com/)
+[Sentinel Hotel](https://www.sentinelhotel.com/)
 
-- Luxury hotel
-- Good Coffee and cocktail bar, Abigail Hall, located inside
-- 1.7 miles to the venue
+- Luxury downtown boutique hotel
+- Close to Powell's bookstore and the Pearl District
+- Nightly wine hour from 5-6pm
+- 1.8 miles to the venue
 
 ## Food and Beverages
 
@@ -63,8 +58,7 @@ Lunch and dinners are on your own and an opportunity to connect with attendees. 
 
 **Lunch only (Monday and Tuesday 11:30am-2pm)**
 
-- [Let's Roll](https://www.letsrollpdx.com/)
-- [Nacho's House](https://nachospdx.com/)
+- Food carts TBD
 
 ### Food near Revolution Hall (within a 10-minute walk)
 
@@ -74,7 +68,7 @@ Lunch and dinners are on your own and an opportunity to connect with attendees. 
 - [Lil' America](https://www.lilamericapdx.com/) - food cart pod, BIPOC and/or LGBTQ+ owned (hours vary by food cart)
 - [Flattop & Salamander](https://www.flattopsalamander.com/) - classic brunch
 - [Sweetpea Baking Co.](https://sweetpeabaking.com/) - vegan bakery
-- [Dos Hermanos Bakery](https://www.instagram.com/2_hermanos_bakery/) - sandwiches
+- [Dos Hermanos Bakery](https://www.instagram.com/2_hermanos_bakery/) - pastries, sandwiches
 
 **Lunch and Dinner**
 
@@ -96,6 +90,7 @@ Lunch and dinners are on your own and an opportunity to connect with attendees. 
 - [The Paper Bridge](https://www.thepaperbridgepdx.com/) - Vietnamese, closed Tuesday
 - [Fire on the Mountain](https://www.portlandwings.com/) - wings
 - [Afuri Izakaya](https://afuri.us/) - Japanese, dinner only, great ramen, often a wait
+- [Nostrana](https://nostrana.com/) - dinner only, great happy hour
 
 #### Drink Nearby
 
@@ -104,9 +99,10 @@ Lunch and dinners are on your own and an opportunity to connect with attendees. 
 - [Worker's Tap & Cafe](https://workerstap.com/) - worker-owned and operated bar
 - [Hey Love](https://www.heylovepdx.com/) - cocktails and music
 - [Scotch Lodge](https://www.scotchlodge.com/) - whisky bar (reservations suggested)
+- [Enoteca Nostrana](https://enotecanostrana.com/)
 - [ENSO Winery](https://www.ensowinery.com/)
 - [Sharetea Burnside](https://www.clover.com/online-ordering/sharetea-portland) - bubble tea
-- [Hungry Tiger](https://hungrytigerpdx.com/) - neighborhood bar
+- [Hungry Tiger](https://hungrytigerpdx.com/) - neighborhood bar, vegan food
 - [Rimsky Korsakoffee](https://www.instagram.com/rimskykorsakoffeehouse/?hl=en) - coffee and desserts (open 7pm-12am)
 
 ### Grocery and Convenience Stores
@@ -116,9 +112,8 @@ Lunch and dinners are on your own and an opportunity to connect with attendees. 
 
 ### Additional Resources
 
-- [Where to Eat Exceptionally Well in East Portland](https://pdx.eater.com/maps/best-restaurants-east-portland-neighborhood-dining-guide)
-- [Portland's Top 50 Restaurants](https://www.pdxmonthly.com/eat-and-drink/best-restaurants-portland)
-- [Central Eastside Neighborhood](https://www.travelportland.com/neighborhoods/central-eastside/)
+- [The 50 Best Restaurants in Portland Right Now](https://www.pdxmonthly.com/eat-and-drink/best-restaurants-portland)
+- [Where to Eat and Drink in Central Eastside](https://www.travelportland.com/neighborhoods/central-eastside/) (scroll down)
 
 ## Getting Around
 
@@ -132,11 +127,11 @@ Portland has bus, MAX light rail, and streetcar lines to get around the city. Ch
 
 There are five bus lines that run close to Revolution Hall:
 
+- Line 20 (Burnside St)
+- Line 70 (12th Ave)
 - Line 12 (Sandy Blvd)
 - Line 15 (Belmont St)
 - Line 19 (Glisan St)
-- Line 20 (Burnside St)
-- Line 70 (12th Ave)
 
 #### **MAX Light Rail and Streetcar Line**
 
@@ -150,15 +145,10 @@ If you are planning on using the MAX or Portland Streetcar, purchase at the plat
 
 [Hop Fastpass fare card system](https://myhopcard.com/home/) is for those who want to purchase in advance.
 
-[Bus and MAX Fares](https://trimet.org/fares/):
+[Bus, MAX and, Streetcar Fares](https://trimet.org/fares/):
 
 - 2.5 hour = $2.80
 - Day Pass = $5.60
-
-[Streetcar Fares](https://portlandstreetcar.org/fare-info):
-
-- 2.5 hour = $2.00
-- Link to purchase
 
 Use the [TriMet Trip Planner](https://trimet.org/home/) to plan your trip!
 
@@ -177,11 +167,11 @@ There are bikeshare and scooter rental programs as well as a bike rental company
 ## Things to do in Portland
 
 - [Powell's City of Books at Burnside](https://www.powells.com/locations/powells-city-of-books)
-- [Oregon Museum of Science and Industry (OMSI)](https://omsi.edu/)
-- [Portland Art Museum](https://portlandartmuseum.org/)
-- [Lan Su Chinese Garden](https://www.lansugarden.org/)
+- [Portland Art Museum](https://portlandartmuseum.org/) (had an expansion and just reopened)
 - [Portland Japanese Garden](https://japanesegarden.org/)
+- [Lan Su Chinese Garden](https://www.lansugarden.org/)
 - [International Rose Test Garden](https://www.travelportland.com/attractions/portland-rose-garden/)
+- [Oregon Museum of Science and Industry (OMSI)](https://omsi.edu/)
 - [Urban Parks](https://embracesomeplace.com/portland-oregon-best-parks/)
 - [Portland Saturday Market](https://www.portlandsaturdaymarket.com/) (also open on Sundays)
 - [Explore Portland's Neighborhoods](https://www.travelportland.com/neighborhoods/)
