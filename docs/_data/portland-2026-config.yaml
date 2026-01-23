@@ -201,11 +201,21 @@ sponsors:
       text: <p>ReadMe transforms static API docs into interactive developer hubs. Help developers make their first call faster, quickly troubleshoot issues along the way, and get insights into API usage to focus your team on the highest-impact improvements.</p>
 
   patron:
+    - name: waldium
+      link: https://www.waldium.com/?ref=writethedocs
+      brand: Waldium
+    - name: fern
+      link: https://buildwithfern.com/?ref=writethedocs
+      brand: Fern
   publisher:
   second:
     - name: helpdocs
       link: https://www.helpdocs.io/?utm_source=writethedocs&utm_medium=sponsor&utm_campaign=wtdp26
       brand: HelpDocs
+    - name: readthedocs
+      link: https://about.readthedocs.com/?ref=writethedocs
+      brand: Read the Docs
+      text: "Read the Docs simplifies software documentation by building, versioning, and hosting of your docs, automatically. Treating documentation like code keeps your team in the same tools, and your documentation up to date."
   first:
   in_kind:
 
