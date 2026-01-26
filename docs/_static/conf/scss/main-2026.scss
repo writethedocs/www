@@ -1396,12 +1396,14 @@ figure .caption-text {
     color: #333; /* Optional: Customize text color */
 }
 
+
 // homepage image resizing on mobile
 @media (max-width: $breakpoint-xsmall-max) {
 
     .picture-set {
         width: 100% !important;
         height: auto !important;
+        max-height: none !important;
         max-width: 95% !important;
         padding: 0 !important;
         margin: 0.5em auto !important;   
@@ -1409,7 +1411,6 @@ figure .caption-text {
             padding: 0 !important;
         }
     }
-
 }
 
 // accommodate buttons with wrapping text
@@ -1430,3 +1431,39 @@ figure .caption-text {
         font-size: 22px;
     }
 }
+
+// banners
+body .page-banner {
+    background-color: #132530; // set a background color in case the image doesn't load
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
+}
+
+@media (min-width: 1024px) {
+    body .page-banner {
+        height: 320px;
+    }
+}
+
+
+@media (min-width: 1280px) {
+    body .page-banner {
+        background-size: 1180px;
+    }
+    body .page-banner::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('/_static/conf/images/headers/2026/mask.png'); 
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: 1180px;
+    }
+}
+
+
+
