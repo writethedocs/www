@@ -1396,14 +1396,12 @@ figure .caption-text {
     color: #333; /* Optional: Customize text color */
 }
 
-
 // homepage image resizing on mobile
 @media (max-width: $breakpoint-xsmall-max) {
 
     .picture-set {
         width: 100% !important;
         height: auto !important;
-        max-height: none !important;
         max-width: 95% !important;
         padding: 0 !important;
         margin: 0.5em auto !important;   
