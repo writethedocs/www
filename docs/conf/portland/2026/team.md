@@ -98,13 +98,13 @@ Mindy serves as the team-of-one technical and UX writer at ConductorOne. She's a
 
 Ryan splits his cerebral time between being tech writing, UXing, coding, and occasionally game design. By day, Ryan writes and edits software and hardware requirements. Otherwise, he works on game or tooling projects, some light woodworking, and land improvement projects on his homestead in southern Michigan. Warning: Ask him about UX in games, and he may talk your ear off.
 
-### Heather Zoppetti
+### Heather Zoppetti (she/her)
 
 #### Virtual Coordinator
 
-![](/_static/img/2025/team/heather.jpg)
+![](/_static/img/2024/team/heather.jpg)
 
-Heather Zoppetti is a technical writer residing in Berlin. After completing her graduate degree at Carnegie Mellon University, she taught English in South Korea. In her current role as senior technical writer at Contentful, she spends her time documenting JavaScript SDK features and creating how-to guides for developers. She loves petting dogs, taking dance classes, and crafting playlists.
+Heather is a Philadelphia-based writer with a rich background in computer science and technical communication. By day, she programs, builds tools for engineers, and crafts clear, user-friendly documentation. By night, she trades keystrokes for knitting needles, cross-stitch, and other forms of needle witchcraft.
 
 ### Alicia Lewis (she/her)
 
