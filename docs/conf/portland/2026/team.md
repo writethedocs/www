@@ -24,7 +24,7 @@ Eric is one of the co-founders of Write the Docs, and also one of the co-founder
 
 ![](/_static/img/2024/team/sam.jpg)
 
-Sam writes docs for developers. He is into making computers do the boring bits of writing so he can work on the fun bits. Sam has been organizing Write the Docs conferences for more than a few years now. He lives in Berlin unless he's off to a conference or death metal festival somewhere.
+Sam writes docs for developers. He is into making computers do the boring bits of writing so he can work on the fun bits. Sam has been organizing Write the Docs conferences for more than a few years now. He lives in ~Berlin~ Athens (Greece) unless he's off to a conference or death metal festival somewhere.
 
 ### Katie Janovec (she/her)
 
