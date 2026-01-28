@@ -14,7 +14,7 @@
             <div class="uk-navbar-left">
                 <div class="header-logo uk-visible@s">
                     <a href="{{ pathto('conf/' + shortcode + '/' + year_str) }}">
-                        <img src="{{ pathto(  '_static/conf/images/logos/' + shortcode + year_str + '.png', 1  ) }}" width="130">
+                        <img src="{{ pathto(  '_static/conf/images/logos/' + shortcode + year_str + '.png', 1  ) }}" width="130" alt="Write the Docs {{ shortcode|title }} {{ year_str }}">
                     </a>
                 </div>
             </div>
@@ -23,7 +23,7 @@
                 <div id="offcanvas-nav" uk-offcanvas="overlay: true">
                     <div class="uk-offcanvas-bar uk-flex uk-flex-column">
                             <div class="menu-logo">
-                                    <img src="{{ pathto(  '_static/conf/images/logos/' + shortcode + year_str + '-dark.png', 1  ) }}" width="130">
+                                    <img src="{{ pathto(  '_static/conf/images/logos/' + shortcode + year_str + '-dark.png', 1  ) }}" width="130" alt="Write the Docs {{ shortcode|title }} {{ year_str }}">
                                 </div>
                               {% if not flaglanding %}
                              {% include year_str + "/menu-mobile.html" %}
@@ -40,7 +40,7 @@
     <div class="mobile-post-header uk-hidden@s">
         <div class="header-logo">
                 <a href="{{ pathto('conf/' + shortcode + '/' + year_str) }}">
-                    <img src="{{ pathto(  '_static/conf/images/logos/' + shortcode + year_str + '.png', 1  ) }}" width="150">
+                    <img src="{{ pathto(  '_static/conf/images/logos/' + shortcode + year_str + '.png', 1  ) }}" width="150" alt="Write the Docs {{ shortcode|title }} {{ year_str }}">
                 </a>
         </div>
     </div><!-- end post header -->

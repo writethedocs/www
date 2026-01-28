@@ -154,7 +154,11 @@ body .page-banner {
     padding-bottom: 2rem;
     height: 184px;
     width: 100%;
+    background-color: #132530;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
     // box-shadow: inset 0 0 0 2000px rgba(0,0,0,0.5);
 
     .uk-container {
@@ -1317,6 +1321,24 @@ footer {
     }
 }
 
+@media (min-width: 1280px) {
+    body .page-banner {
+        background-size: 1180px;
+    }
+    body .page-banner::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('/_static/conf/images/headers/2026/mask.png');
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: 1180px;
+    }
+}
+
 .uk-button {
     font-weight: $bold;
     font-size: 16px;
@@ -1429,39 +1451,4 @@ figure .caption-text {
         font-size: 22px;
     }
 }
-
-// banners
-body .page-banner {
-    background-color: #132530; // set a background color in case the image doesn't load
-    background-repeat: no-repeat;
-    background-position: center top;
-    position: relative;
-}
-
-@media (min-width: 1024px) {
-    body .page-banner {
-        height: 320px;
-    }
-}
-
-
-@media (min-width: 1280px) {
-    body .page-banner {
-        background-size: 1180px;
-    }
-    body .page-banner::before {
-        content: "";
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background-image: url('/_static/conf/images/headers/2026/mask.png'); 
-        background-repeat: no-repeat;
-        background-position: center top;
-        background-size: 1180px;
-    }
-}
-
-
 
