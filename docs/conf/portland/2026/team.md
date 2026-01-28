@@ -50,7 +50,7 @@ Mikey is one of the original Write the Docs Prague conference organizers, and si
 
 Sasha is an independent developer and community organiser, mainly working on Python projects, many of them relating to internet routing. She has organised various conferences, first joining the Write the Docs organising team in 2017. Among other things, she works on support tickets, the website, and is chair of the Atlantic conference.
 
-### Rose Williams
+### Rose Williams (she/her)
 
 #### Lightning Talks Coordinator
 
@@ -130,14 +130,6 @@ Ryan splits his cerebral time between being tech writing, UXing, coding, and occ
 
 Heather is a Philadelphia-based writer with a rich background in computer science and technical communication. By day, she programs, builds tools for engineers, and crafts clear, user-friendly documentation. By night, she trades keystrokes for knitting needles, cross-stitch, and other forms of needle witchcraft.
 
-### Brooke Wayne (she/her)
-
-#### Welcome Wagon Coordinator
-
-![](/_static/img/2024/team/brooke.jpg)
-
-Brooke, also known as Batman, is a long time attendee of Write the Docs in Portland and part of the Welcome Wagon since 2024. Hailing from Toronto, Ontario in Canada, Brooke works at FreshBooks in a documentarian role she created on her own. When Brooke's not writing, she's playing competitive dodgeball, reading voraciously, or camping in the backcountry.
-
 ### Alicia Lewis (she/her)
 
 #### Welcome Wagon Coordinator
@@ -146,6 +138,14 @@ Brooke, also known as Batman, is a long time attendee of Write the Docs in Portl
 
 Alicia loves to explain complex things in easy-to-understand ways and is passionate about harnessing the talent and collaborative spirit of others. She is currently Principal Technical Writer at Digi International, Inc., where she works closely (and remotely) with her internationally distributed development teams to document embedded Linux systems. She tends to be a human common denominator, bridging personalities and differences to bring people together.
 
+### Brooke Wayne (she/her)
+
+#### Welcome Wagon Coordinator
+
+![](/_static/img/2024/team/brooke.jpg)
+
+Brooke, also known as Batman, is a long time attendee of Write the Docs in Portland and part of the Welcome Wagon since 2024. Hailing from Toronto, Ontario in Canada, Brooke works at FreshBooks in a documentarian role she created on her own. When Brooke's not writing, she's playing competitive dodgeball, reading voraciously, or camping in the backcountry.
+
 ### David Bastedo (he/him)
 
 #### Welcome Wagon Coordinator
@@ -153,6 +153,14 @@ Alicia loves to explain complex things in easy-to-understand ways and is passion
 ![](/_static/img/2024/team/david.jpg)
 
 David is a support operations program manager based in Portland, Oregon. He works with support knowledge bases, documentation analytics, and customer help centers. David has attended Write the Docs since 2016 and has been a part of the Welcome Wagon since 2019.
+
+### Mo Nishiyama (he/him)
+
+#### Welcome Wagon Coordinator, Onsite Social Media Support
+
+![](/_static/img/2026/team/mo.png)
+
+Mo is a Technical Writer for Oregon Health & Science University's Information Technology Group, working remotely out of the Portland suburbia. His work focuses on making complex technical instructions simple and ensuring their accessibility. Mo has attended Write the Docs' Portland-based conferences since 2013, and joined the organizer team in 2015. His various interests include injecting 80s song lyrics into everyday conversations, bonding with cats, and promoting the use of Oxford commas.
 
 ### Daryl White (he/him)
 
