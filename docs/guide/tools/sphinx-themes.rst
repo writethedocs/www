@@ -84,3 +84,13 @@ designed navigation features (sidebar, inter-page links).
 
 .. image:: /_static/img/furo.png
   :width: 80%
+
+Clarity theme
+-------------
+
+A clean and professional documentation theme for Sphinx. Modern design with light/dark mode, responsive layout, and beautiful typography.
+
+* https://readcraft.io/sphinx-clarity-theme
+
+.. image:: /_static/img/clarity-theme.png
+  :width: 80%
