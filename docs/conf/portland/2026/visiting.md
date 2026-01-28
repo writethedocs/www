@@ -6,7 +6,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 # Visiting Portland
 
-Welcome to Portland, the largest city in the state of Oregon with a population of over 2.2 million people in the greater metro area. The conference takes place in inner Southeast Portland at Revolution Hall and is conveniently situated near outstanding options for food, bars, and hotels.
+Welcome to Portland, the largest city in the state of Oregon with a population of over 2.5 million people in the greater metro area. The conference takes place in inner Southeast Portland at Revolution Hall and is conveniently situated near outstanding options for food, bars, and hotels.
 
 "Portland is perhaps best known for being a sustainability-minded, bike-friendly city with easy access to nature; plentiful coffee, art, craft beer, delicious food, and live music; and crafty people who celebrate individuality and creativity," writes [Travel Portland](https://www.travelportland.com/).
 
@@ -18,7 +18,7 @@ The venue is located in the historic Buckman neighborhood. It is surrounded by a
 
 There are wonderful hotels located within two miles of the venue. Many of these are within walking distance or a short rideshare trip. Please note that our beloved city has experienced an increase in unhoused residents in the past few years, and you may see this.
 
-### Hotels in East Portland (near venue)
+### Hotel Recommendations
 
 [Jupiter Hotel](https://www.jupiterhotel.com/)
 
@@ -30,18 +30,18 @@ There are wonderful hotels located within two miles of the venue. Many of these 
 - **Bonus!** We're having our Monday evening social here
 - 0.6 miles to the venue
 
-### Hotels Downtown/West Portland
-
-[Hotel Lucia](https://www.hotellucia.com/)
+[Hotel Lucia](https://be.synxis.com/?adult=1&arrive=2026-04-30&chain=22402&child=0&currency=USD&depart=2026-05-07&group=GRWRDO&hotel=49677&level=hotel&locale=en-US&productcurrency=USD&rooms=1&src=24C)
 
 - Downtown boutique hotel
+- $139 + 13% tax
 - Close to Powell's bookstore and the Pearl District
 - Nightly beer hour from 5-6pm
 - 1.8 miles to the venue
 
-[Sentinel Hotel](https://www.sentinelhotel.com/)
+[Sentinel Hotel](https://be.synxis.com/?adult=1&arrive=2026-04-30&chain=21123&child=0&currency=USD&depart=2026-05-07&group=1529821&hotel=76781&level=hotel&locale=en-US&productcurrency=USD&rooms=1)
 
 - Luxury downtown boutique hotel
+- $159 + 16% tax
 - Close to Powell's bookstore and the Pearl District
 - Nightly wine hour from 5-6pm
 - 1.8 miles to the venue
@@ -60,7 +60,7 @@ Lunch and dinners are on your own and an opportunity to connect with attendees. 
 
 - Food carts TBD
 
-### Food near Revolution Hall (within a 10-minute walk)
+### Food and Drinks near Revolution Hall (within a 10-minute walk)
 
 **Breakfast and Lunch**
 
@@ -68,11 +68,12 @@ Lunch and dinners are on your own and an opportunity to connect with attendees. 
 - [Lil' America](https://www.lilamericapdx.com/) - food cart pod, BIPOC and/or LGBTQ+ owned (hours vary by food cart)
 - [Flattop & Salamander](https://www.flattopsalamander.com/) - classic brunch
 - [Sweetpea Baking Co.](https://sweetpeabaking.com/) - vegan bakery
-- [Dos Hermanos Bakery](https://www.instagram.com/2_hermanos_bakery/) - pastries, sandwiches
+- [Dos Hermanos Bakery](https://www.instagram.com/2_hermanos_bakery/) - pastries, sandwiches, a Mexican family-owned business
+- [J & M Cafe](https://jandmcafeportland.com/) - brunch fare
 
 **Lunch and Dinner**
 
-- [Grand Fir Brewing](https://www.grandfirbrewing.com/) - also has award-winning beer
+- [Grand Fir Brewing](https://www.grandfirbrewing.com/) - has award-winning beer
 - [Kachka](https://www.kachkapdx.com/) - Eastern European food
 - [Sunee Thai and Lao Kitchen](https://www.suneepdx.com/) - dinner only
 - [Toya Ramen & Bar](https://www.toyaramen.com/) - dinner only
@@ -83,27 +84,48 @@ Lunch and dinners are on your own and an opportunity to connect with attendees. 
 **Lunch and Dinner**
 
 - [Nong's Khao Man Gai](https://khaomangai.com/) - Thai street food
-- [Kinboshi Ramen](https://www.kinboshiramen.com/)
+- [Kinboshi Ramen](https://www.kinboshiramen.com/) - Japanese 
 - [Snappy's](https://www.makeitsnappys.com/) - sandwiches
-- [Cartopia](https://www.cartopiafoodcarts.com/) - food cart
-- [Hawthorne Asylum Food Pod](https://www.yelp.com/biz/hawthorne-asylum-portland)
+- [Cartopia](https://www.cartopiafoodcarts.com/) - food carts
+- [Hawthorne Asylum Food Pod](https://www.instagram.com/hawthorne_asylum/?hl=en)
 - [The Paper Bridge](https://www.thepaperbridgepdx.com/) - Vietnamese, closed Tuesday
-- [Fire on the Mountain](https://www.portlandwings.com/) - wings
-- [Afuri Izakaya](https://afuri.us/) - Japanese, dinner only, great ramen, often a wait
+- [Fire on the Mountain](https://www.portlandwings.com/) - wings (veggie too)
+- [Afuri Izakaya](https://afuri.us/) - Japanese, dinner only on Mon/Tues, great ramen, often a wait
 - [Nostrana](https://nostrana.com/) - dinner only, great happy hour
+- [Lardo](https://www.lardosandwiches.com/) - sandwiches with rich and decadent ingredients
+- [Grassa](https://www.grassapdx.com/) - casual Portland chain with handmade pasta
+- [Devil's Dill Sandwiches](https://www.devilsdill.com/) - sandwich shop, open late
+- [Nicholas Restaurant](https://www.nicholasrestaurant.com/) - Lebanese and Mediterranean cuisine
+- [Normandie](https://normandiepdx.com/dine-in-menu) - elegant, small-plate dinner and cocktails, closed Mon (reservations suggested)
+- [Dimo's Apizza](https://www.dimosapizza.com/) - casual pizzeria, dinner only on Mon/Tues
+- [MidCity Smashburger](https://midcitysmashedburger.com/mcsb-level-beer-3) - conventional, vegetarian, and vegan
 
-#### Drink Nearby
+#### Drinks Nearby
 
 - [Push X Pull](https://pushxpullcoffee.com/) - coffee
-- [Good Coffee](https://www.google.com/maps/place/Good+Coffee/@45.5114677,-122.6567618,15z/data=!4m7!3m6!1s0x5495a0a1d19e1a39:0x2f9d0b555d287da!8m2!3d45.5144884!4d-122.6534754!15sCgtnb29kIGNvZmZlZSIGiAEBqAEBWg0iC2dvb2QgY29mZmVlkgELY29mZmVlX3Nob3DgAQA!16s%2Fg%2F11b6xj6fl3?entry=tts&shorturl=1) - opens at 7am 
+- [Good Coffee](https://goodwith.us/) - also a good tea selection
+- [Grendel's Coffee House](https://grendelspdx.com/) - located near Jupiter Hotel
+- [Roseline Coffee](https://roselinecoffee.com/) - small-batch coffee roaster
+- [Honey Latte Cafe](https://www.honeylatte.cafe/) - open until 9 pm
+- [Shroom Coffee and Bar](https://www.shroomcoffeebar.com/) - organic coffee and adaptogen-enhanced beverages
+- [Upper Left Roasters](https://upperleftroasters.com/) - seasonally sourced coffee, an inviting airy interior
+- [Rimsky Korsakoffee](https://www.instagram.com/rimskykorsakoffeehouse/?hl=en) - coffee and desserts in a whimsical Victorian house, open 7pm-12am
 - [Worker's Tap & Cafe](https://workerstap.com/) - worker-owned and operated bar
 - [Hey Love](https://www.heylovepdx.com/) - cocktails and music
-- [Scotch Lodge](https://www.scotchlodge.com/) - whisky bar (reservations suggested)
-- [Enoteca Nostrana](https://enotecanostrana.com/)
-- [ENSO Winery](https://www.ensowinery.com/)
+- [Scotch Lodge](https://www.scotchlodge.com/) - whisky bar, opens at 4pm (reservations suggested)
+- [Enoteca Nostrana](https://enotecanostrana.com/) - great happy hour
+- [ENSO Winery](https://www.ensowinery.com/) - urban winery with grapes sources in PNW
 - [Sharetea Burnside](https://www.clover.com/online-ordering/sharetea-portland) - bubble tea
 - [Hungry Tiger](https://hungrytigerpdx.com/) - neighborhood bar, vegan food
-- [Rimsky Korsakoffee](https://www.instagram.com/rimskykorsakoffeehouse/?hl=en) - coffee and desserts (open 7pm-12am)
+- [Beer](https://www.instagram.com/beerportland) - a taphouse with pinball machines, located a block away from Revolution Hall
+- [Rum Club](https://rumclubpdx.com/) - huge selection of rum and cocktails
+- [Evasion Brewing](https://www.evasionbrewing.com/) - tasting room of a local gluten-free brewery, closed Tuesday)
+- [Level Beer](https://www.levelbeer.com/level3) - tasting room for a renowned local brewery with outdoor seating, pinball machines, and classic video games
+
+### Other Food Attractions
+- [Voodoo Doughnuts](https://www.voodoodoughnut.com/) - a local legend, can't miss the pink boxes
+- [Sweet and Salty PDX Snack Shop](https://sweetandsaltypdx.com/) - delicious cookies, closed Mon
+- [Tsuki](https://www.tsukipdx.com/) - dessert shop featuring Korean bingsu and Japanese taiyaki
 
 ### Grocery and Convenience Stores
 
@@ -175,3 +197,4 @@ There are bikeshare and scooter rental programs as well as a bike rental company
 - [Urban Parks](https://embracesomeplace.com/portland-oregon-best-parks/)
 - [Portland Saturday Market](https://www.portlandsaturdaymarket.com/) (also open on Sundays)
 - [Explore Portland's Neighborhoods](https://www.travelportland.com/neighborhoods/)
+- [Literary Arts bookstore](https://literary-arts.org/)
