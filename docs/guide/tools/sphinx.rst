@@ -182,3 +182,27 @@ You can now open them in your browser by typing::
 
     open _build/html/index.html
 
+Markdown support
+----------------
+
+While Sphinx primarily uses reStructuredText, it can also work with Markdown files using the MyST Parser. MyST (Markedly Structured Text) extends CommonMark Markdown with features needed for technical documentation while maintaining compatibility with Sphinx's ecosystem.
+
+To use Markdown in your Sphinx project, install myst-parser and configure it in ``conf.py``. You can mix ``.rst`` and ``.md`` files in the same project.
+
+* `MyST Parser documentation <https://myst-parser.readthedocs.io/>`_
+
+Key features and extensions
+----------------------------
+
+Sphinx includes powerful features for technical documentation:
+
+**Intersphinx**: Cross-reference documentation from other Sphinx projects without duplicating content. Particularly valuable for projects with multiple interconnected documentation sites.
+
+* `Intersphinx documentation <https://www.sphinx-doc.org/en/master/usage/extensions/intersphinx.html>`_
+
+**Domains**: Built-in support for documenting Python, C, C++, JavaScript, and reStructuredText code with specialized directives and roles. Extensions available for other languages.
+
+**Extensions ecosystem**: Large collection of extensions for specialized needs (autodoc, viewcode, todo, napoleon, and many more).
+
+* `Extensions documentation <https://www.sphinx-doc.org/en/master/usage/extensions/index.html>`_
+
