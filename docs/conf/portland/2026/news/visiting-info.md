@@ -9,7 +9,7 @@ banner: _static/conf/images/headers/2026/visiting.jpg
    :tags: {{shortcode}}-{{year}}
 ```
 
-# Visiting Portland Information and Conference Updates
+# Visiting Portland Information is live, Grant Reminders, and Volunteer Information
 
 Hello fellow documentarians!
 
