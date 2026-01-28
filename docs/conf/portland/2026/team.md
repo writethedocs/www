@@ -32,7 +32,7 @@ Sam writes docs for developers. He is into making computers do the boring bits o
 
 ![](/_static/img/2026/team/katie.png)
 
-Katie Janovec is an Event Producer and Project Manager based in Portland, Oregon. She produces a variety of events, including conferences, galas, block parties, dance and music events,, and more. Katie enjoys organizing events as it builds community connection, growth, and joy. Katie is excited to be a part of her fifth Write the Docs conference.
+Katie Janovec is an Event Producer and Project Manager based in Portland, Oregon. She produces a variety of events, including conferences, galas, block parties, dance and music events, and more. Katie enjoys organizing events as it builds community connection, growth, and joy. Katie is excited to be a part of her fifth Write the Docs conference.
 
 ### Mikey Ariel (she/her)
 
