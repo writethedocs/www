@@ -12,7 +12,7 @@ Welcome to Portland, the largest city in the state of Oregon with a population o
 
 ## Where to Stay
 
-![Hotel room photo](/_static/img/2024/hotel.jpg)
+![Hotel Lucia King Bed](_static/conf/images/headers/2026/hotel-lucia-king-bed.jpg)
 
 The venue is located in the historic Buckman neighborhood. It is surrounded by a mixture of vintage and modern housing. There are many neighborhood options on VRBO and Airbnb.
 
