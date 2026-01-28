@@ -86,7 +86,7 @@ Lunch and dinners are on your own and an opportunity to connect with attendees. 
 **Lunch and Dinner**
 
 - [Nong's Khao Man Gai](https://khaomangai.com/) - Thai street food
-- [Kinboshi Ramen](https://www.kinboshiramen.com/) - Japanese 
+- [Kinboshi Ramen](https://www.kinboshiramen.com/) - Japanese ramen 
 - [Snappy's](https://www.makeitsnappys.com/) - sandwiches
 - [Cartopia](https://www.cartopiafoodcarts.com/) - food carts
 - [Hawthorne Asylum Food Pod](https://www.instagram.com/hawthorne_asylum/?hl=en)
@@ -121,7 +121,7 @@ Lunch and dinners are on your own and an opportunity to connect with attendees. 
 - [Hungry Tiger](https://hungrytigerpdx.com/) - neighborhood bar, vegan food
 - [Beer](https://www.instagram.com/beerportland) - a taphouse with pinball machines, located a block away from Revolution Hall
 - [Rum Club](https://rumclubpdx.com/) - huge selection of rum and cocktails
-- [Evasion Brewing](https://www.evasionbrewing.com/) - tasting room of a local gluten-free brewery, closed Tuesday)
+- [Evasion Brewing](https://www.evasionbrewing.com/) - tasting room of a local gluten-free brewery (closed Tuesday)
 - [Level Beer](https://www.levelbeer.com/level3) - tasting room for a renowned local brewery with outdoor seating, pinball machines, and classic video games
 
 ### Other Food Attractions
