@@ -25,10 +25,11 @@ There are wonderful hotels located within two miles of the venue. Many of these 
 - **10% Off Discount Code: THEDOCS**
 - Offers two hotel options
   - NEXT has newer rooms
-  - The Original, while a boutique hotel, has more street noise
+  - The Original, boutique hotel, has more street noise
 - [Hey Love](https://www.heylovepdx.com/) restaurant/bar in the lobby (won Best U.S. Hotel Bar 2023)
-- **Bonus!** We're having our Monday evening social here
+- We're having our Monday evening social here
 - 0.6 miles to the venue
+- _Please Note: rooms are only available starting May 3_
 
 [Hotel Lucia](https://be.synxis.com/?adult=1&arrive=2026-04-30&chain=22402&child=0&currency=USD&depart=2026-05-07&group=GRWRDO&hotel=49677&level=hotel&locale=en-US&productcurrency=USD&rooms=1&src=24C)
 
@@ -42,6 +43,7 @@ There are wonderful hotels located within two miles of the venue. Many of these 
 
 - Luxury downtown boutique hotel
 - $159 + 16% tax
+- featuring [Fortune](https://www.fortune.bar/) bar and lounge with plant-based food
 - Close to Powell's bookstore and the Pearl District
 - Nightly wine hour from 5-6pm
 - 1.8 miles to the venue
