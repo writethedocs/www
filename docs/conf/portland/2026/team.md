@@ -18,6 +18,14 @@ Our conference is organized by a dedicated team, many of whom are volunteers and
 
 Eric is one of the co-founders of Write the Docs, and also one of the co-founders of the Read the Docs documentation platform. He is the primary chair of the Portland conference, and loves to talk all things docs.
 
+### Katie Janovec (she/her)
+
+#### Executive Producer
+
+![](/_static/img/2026/team/katie.png)
+
+Katie Janovec is an Event Producer and Project Manager based in Portland, Oregon. She produces a variety of events, including conferences, galas, block parties, dance and music events,, and more. Katie enjoys organizing events as it builds community connection, growth, and joy. Katie is excited to be a part of her fifth Write the Docs conference.
+
 ### Sam Wright (he/him)
 
 #### Speaker Coordinator
@@ -26,13 +34,77 @@ Eric is one of the co-founders of Write the Docs, and also one of the co-founder
 
 Sam writes docs for developers. He is into making computers do the boring bits of writing so he can work on the fun bits. Sam has been organizing Write the Docs conferences for more than a few years now. He lives in Berlin unless he's off to a conference or death metal festival somewhere.
 
-### Katie Janovec (she/her)
+### Rose Williams
 
-#### Executive Producer
+#### Lightning Talks Coordinator
 
-![](/_static/img/2024/team/katie.jpg)
+![](/_static/img/2024/team/rose.jpg)
 
-Katie Janovec is an Event Producer and Project Manager based in Portland, Oregon. She enjoys organizing a variety of events, including conferences, galas, dance and music events, motorcycle shows, beer competitions, sports events, and more. Katie is excited to collaborate with the Write the Docs team for her third year at the conference.
+Rose is a documentation advocate, Meetup organizer, and Write the Docs community board member. She currently resides in Florida. She has had the pleasure of organizing WTD Meetup groups up and down the east and west coasts due to her frequent moves. Her board position focuses on supporting Meetup organizers and their events.
+
+### Janine Chan (she/her)
+
+#### MC
+
+![](/_static/img/2024/team/janine.jpg)
+
+Janine is a documentation nerd up in Canada. She feels so lucky to help organize at Write the Docs so she can nerd out in Portland too! She spends her time putting a lot of effort into complex documentation to make it look like it was easy all along, thinking about making inclusion efforts concrete, running unimpressive distances at unimpressive speeds, hiking, knitting, and swing dancing, albeit non-simultaneously. Her cat remains staunchly uninterested in all of this.
+
+### Jerome Villegas (he/him)
+
+#### MC
+
+![](/_static/img/2024/team/jerome.jpg)
+
+Jerome is a technical writer from Seattle and happy to be MC again at Write the Docs! He transitioned from education years ago and has experience working with organizations from open source, start ups, medium-sized companies, and consulting for large enterprises. He's typically busy spending time with his family, continuing ongoing fixes to their century home, and rotating through his numerous hobbies.
+
+### Kay Smoljak (she/her)
+
+#### Photographer
+
+![](/_static/img/2026/team/kay.png)
+
+Kay is an Australian web developer based in Athens, Greece. She accidentally became involved with the awesome Write the Docs community after the first EU conference in Budapest (2014) and now takes the official conference photos, as well as running the annual Salary Survey. She considers it a very happy accident indeed.
+
+### Swapnil Ogale (he/him)
+
+#### Social Media Coordinator
+
+![](/_static/img/2026/team/swapnil.png)
+
+Swapnil is fortunate enough to live in one of the world's most liveable cities - Melbourne, Australia. When he is not travelling, trying out new food, binging on Seinfeld and Frasier reruns, or collecting books for his library, he works as a technical writer at Amazon Web Services Australia. He initiated Write the Docs in Australia in 2016 and has been happily running the local meetups and the annual conference since then.
+
+### Jodie Putrino (she/her)
+
+#### Stage Manager
+
+![](/_static/img/2024/team/jodie.jpg)
+
+Jodie manages the NGINX DocOps team at F5. A longtime attendee of Write the Docs, she loves being able to give back to the community that has given her so much. Outside of work and the wild world of conference organization, Jodie can be found playing in the Colorado mountains, making tasty food, or enjoying live music with her family.
+
+### Mindy Moreland (she/her)
+
+#### Stage Manager
+
+![](/_static/img/2026/team/mindy.jpg)
+
+Mindy serves as the team-of-one technical and UX writer at ConductorOne. She's a long-time WTD Portland volunteer who is thrilled to be joining the organizing team as a stage manager—a role she last held for the Walla Walla Symphony during college. Mindy is a Portland resident whose favorite things include public libraries, comfy reading nooks, croissants, and making her colleagues laugh.
+
+### Ryan Macklin (he/they)
+
+#### Unconference Coordinator
+
+![](/_static/img/2024/team/ryan.jpg)
+
+Ryan splits his cerebral time between being tech writing, UXing, coding, and occasionally game design. By day, Ryan writes and edits software and hardware requirements. Otherwise, he works on game or tooling projects, some light woodworking, and land improvement projects on his homestead in southern Michigan. Warning: Ask him about UX in games, and he may talk your ear off.
+
+### Heather Zoppetti
+
+#### Virtual Coordinator
+
+![](/_static/img/2025/team/heather.jpg)
+
+Heather Zoppetti is a technical writer residing in Berlin. After completing her graduate degree at Carnegie Mellon University, she taught English in South Korea. In her current role as senior technical writer at Contentful, she spends her time documenting JavaScript SDK features and creating how-to guides for developers. She loves petting dogs, taking dance classes, and crafting playlists.
 
 ### Alicia Lewis (she/her)
 
@@ -48,7 +120,7 @@ Alicia loves to explain complex things in easy-to-understand ways and is passion
 
 ![](/_static/img/2024/team/brooke.jpg)
 
-Brooke, also known as Batman, is a long time attendee of Write the Docs in Portland and part of the Welcome Wagon since 2024. Hailing from Toronto, Ontario in Canada, Brooke works at FreshBooks in a documentarian role she created on her own. When Brooke’s not writing, she’s playing competitive dodgeball, reading voraciously, or camping in the backcountry.
+Brooke, also known as Batman, is a long time attendee of Write the Docs in Portland and part of the Welcome Wagon since 2024. Hailing from Toronto, Ontario in Canada, Brooke works at FreshBooks in a documentarian role she created on her own. When Brooke's not writing, she's playing competitive dodgeball, reading voraciously, or camping in the backcountry.
 
 ### David Bastedo (he/him)
 
@@ -58,70 +130,21 @@ Brooke, also known as Batman, is a long time attendee of Write the Docs in Portl
 
 David is a support operations program manager based in Portland, Oregon. He works with support knowledge bases, documentation analytics, and customer help centers. David has attended Write the Docs since 2016 and has been a part of the Welcome Wagon since 2019.
 
-### Janine Chan (she/her)
+### Mo Nishiyama (he/him)
 
-#### Communications Coordinator
+#### Welcome Wagon Coordinator, Onsite Social Media Support
 
-![](/_static/img/2024/team/janine.jpg)
+![](/_static/img/2026/team/mo.png)
 
-Janine is a documentation nerd up in Canada. She feels so lucky to help organize at Write the Docs so she can nerd out in Portland too! She spends her time putting a lot of effort into complex documentation to make it look like it was easy all along, thinking about making inclusion efforts concrete, running unimpressive distances at unimpressive speeds, hiking, knitting, and swing dancing, albeit non-simultaneously. Her cat remains staunchly uninterested in all of this.
+Mo is a Technical Writer for Oregon Health & Science University's Information Technology Group, working remotely out of the Portland suburbia. His work focuses on making complex technical instructions simple and ensuring their accessibility. Mo has attended Write the Docs' Portland-based conferences since 2013, and joined the organizer team in 2015. His various interests include injecting 80s song lyrics into everyday conversations, bonding with cats, and promoting the use of Oxford commas.
 
-### Jennifer Rondeau (she/her)
+### Daryl White (he/him)
 
-##### Unconference Co-coordinator
+#### Writing Day Coordinator
 
-![](/_static/img/2024/team/jennifer.jpg)
+![](/_static/img/2026/team/daryl.jpg)
 
-Jennifer helps write docs and microcopy for MinIO (object storage). She's been helping out in the Write the Docs community off and on ever since she attended her first conference in 2014, and is happy to be back behind the scenes. When she manages to resist the allure of docs content, tooling, and community, she dances argentine tango and works with local women's health initiatives.
-
-
-### Jerome Villegas (he/him)
-
-#### Emcee
-
-![](/_static/img/2024/team/jerome.jpg)
-
-Jerome is a technical writer from Seattle and happy to be MC again at Write the Docs! He transitioned from education years ago and has experience working with organizations from open source, start ups, medium-sized companies, and consulting for large enterprises. He’s typically busy spending time with his family, continuing ongoing fixes to their century home, and rotating through his numerous hobbies.
-
-### Jodie Putrino (she/her)
-
-#### Emcee
-
-![](/_static/img/2024/team/jodie.jpg)
-
-Jodie manages the NGINX DocOps team at F5. A longtime attendee of Write the Docs, she loves being able to give back to the community that has given her so much. Outside of work and the wild world of conference organization, Jodie can be found playing in the Colorado mountains, making tasty food, or enjoying live music with her family.
-
-### Mo Nishiyama
-
-#### Welcome Wagon Coordinator, Social Media Coordinator
-
-![](/_static/img/2024/team/mo.jpg)
-
-Mo is a Technical Writer based in the Portland, Oregon area. He works in the Information Technology Group at Oregon Health & Science University, and loves transforming complex technical documents into impactful, accessible contents. Mo has attended Write the Docs’ Portland-based conferences since 2013, and joined the organizer team in 2015. His various interests include injecting 80s song lyrics into business conversations, bonding with cats, and promoting the use of Oxford commas.
-
-### Rose Williams
-
-#### Writing Day Coordinator, Lightning Talks Coordinator
-
-![](/_static/img/2024/team/rose.jpg)
-
-Rose is a documentation advocate, Meetup organizer, and Write the Docs community board member. She currently resides in Florida. She has had the pleasure of organizing WTD Meetup groups up and down the east and west coasts due to her frequent moves. Her board position focuses on supporting Meetup organizers and their events.
-
-### Ryan Macklin (he/they)
-
-#### Unconference Co-coordinator
-
-![](/_static/img/2024/team/ryan.jpg)
-
-Ryan splits his cerebral time between being tech writing, UXing, coding, and occasionally game design. By day, Ryan writes and edits software and hardware requirements. Otherwise, he works on game or tooling projects, some light woodworking, and land improvement projects on his homestead in southern Michigan. Warning: Ask him about UX in games, and he may talk your ear off.
-
-### Joe Meersman (he/him)
-
-#### Pre-conference Panel Discussion Host
-
-![](/_static/img/2024/team/joe.jpg)
-
-Joe has been a Designer, Researcher, Principal, Manager, and Director of Design. He is currently a Partner at The Collective and has been an Adjunct Professor at UT Austin for over five years, teaching Visual Communication, Research, and Prototyping. He presents at conferences on topics ranging from Design Thinking, User Experience, Artificial Intelligence, and Creative Career Paths. He loves knowing "Texas" is a slang term for "Crazy" in Norway. 
+Daryl White is a senior technical writer with MinIO, working remotely out of the mountains of north central Pennsylvania. Aside from writing, he enjoys reading, taking long walks, cats, and the annual rewatch of LOTR extended editions. He plays the piano and has done an occasional yarn project on hook or needles. This is Daryl's second WTD conference, and the first one on staff.
 
 ### Mikey Ariel (she/her)
 
