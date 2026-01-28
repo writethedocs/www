@@ -27,7 +27,7 @@ The [Jupiter](https://www.jupiterhotel.com/) is again one of our partner hotels 
 **New partner hotels: Hotel Lucia and Hotel Sentinel**
 
 - [Hotel Lucia](https://be.synxis.com/?adult=1&arrive=2026-04-30&chain=22402&child=0&currency=USD&depart=2026-05-07&group=GRWRDO&hotel=49677&level=hotel&locale=en-US&productcurrency=USD&rooms=1&src=24C) is a wonderful downtown hotel offering competitive rates.
-- [Hotel Sentinel](https://be.synxis.com/?adult=1&arrive=2026-04-30&chain=21123&child=0&currency=USD&depart=2026-05-07&group=1529821&hotel=76781&level=hotel&locale=en-US&productcurrency=USD&rooms=1) is a historic luxury hotel featuring Fortune, its bar and loung with a plant based menu.
+- [Hotel Sentinel](https://be.synxis.com/?adult=1&arrive=2026-04-30&chain=21123&child=0&currency=USD&depart=2026-05-07&group=1529821&hotel=76781&level=hotel&locale=en-US&productcurrency=USD&rooms=1) is a historic luxury hotel featuring Fortune, its bar and lounge with a plant based menu.
 
 Both are close to the Pearl district and Powell's books, are offering a nightly drink hour, and are an 8-minute ride to the venue. 
 
@@ -37,12 +37,11 @@ View our [Visiting Portland](https://www.writethedocs.org/conf/portland/2026/vis
 
 ### Opportunity grant application closes February 4
 
-The [Opportunity Grant](https://www.writethedocs.org/conf/portland/2026/opportunity-grants/) supports people who would otherwise not be able to attend the conference by covering ticket and/or other attendance costs. Applications are open to anyone who wants to attend Write the Docs. [Learn more at the website. ](https://www.writethedocs.org/conf/portland/2026/opportunity-grants/)
-
+The [Opportunity Grant](https://www.writethedocs.org/conf/portland/2026/opportunity-grants/) supports people who would otherwise not be able to attend the conference by covering ticket and/or other attendance costs. Applications are open to anyone who wants to attend Write the Docs. [Learn more at the website](https://www.writethedocs.org/conf/portland/2026/opportunity-grants/).
 
 ### Volunteer with Us!
 
-Interested in volunteering? It's a great way to get involved and help make the conference happen. We are starting to near volunteer capacity so complete the application today. [Visit the website for additional information. ](https://www.writethedocs.org/conf/portland/2026/volunteer/)
+Interested in volunteering? It's a great way to get involved and help make the conference happen. We are starting to near volunteer capacity so complete the application today. [Visit the website for additional information](https://www.writethedocs.org/conf/portland/2026/volunteer/).
 
 ## Join our community of Sponsors
 Each year, we are grateful for the support of like-minded organizations that share our belief in a collaborative and welcoming community spirit, helping to make the conference a success.
@@ -55,11 +54,6 @@ Thanks to our current sponsors:
    :template: {{year}}/sponsors-simplelist.rst
 ```
 
-
-
 Check out our [sponsorship prospectus](https://www.writethedocs.org/conf/portland/2026/sponsors/prospectus/) to learn more and join the community.
 
 We look forward to an excellent year!
-
-
-
