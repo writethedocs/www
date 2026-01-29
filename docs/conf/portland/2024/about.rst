@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 :banner: _static/conf/images/headers/team.png
-:og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
+:og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.png
 
 About the Conference
 ====================

@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
+:og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.png
 
 .. post:: Dec 9, 2025
    :tags: {{shortcode}}-{{year}}, website, tickets, grants, volunteers, cfp, sponsors

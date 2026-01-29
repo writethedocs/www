@@ -1,6 +1,6 @@
 ---
 template: {{year}}/generic.html
-og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
+og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.png
 ---
 
 % Use this comment to resize images: sips -Z 250 *.jpg

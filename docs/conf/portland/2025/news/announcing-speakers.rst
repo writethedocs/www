@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
+:og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.png
 
 .. post:: Feb 10, 2025
    :tags: {{shortcode}}-{{year}}, speakers, tickets, visiting, sponsors

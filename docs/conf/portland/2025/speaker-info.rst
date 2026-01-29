@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 :orphan:
-:og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
+:og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.png
 
 
 Speaker Info

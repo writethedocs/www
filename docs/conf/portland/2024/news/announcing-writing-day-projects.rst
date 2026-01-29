@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:og:image: /_static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
+:og:image: /_static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.png
 
 .. post:: Apr 3, 2024
    :tags: {{shortcode}}-{{year}}, writing day, projects, oss projects
