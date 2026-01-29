@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.png
+:og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 .. post:: September 23, 2025
    :tags: {{shortcode}}-{{year}}
