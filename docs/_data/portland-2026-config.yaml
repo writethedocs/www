@@ -14,30 +14,20 @@ hex: fdb913
 hex_contrast: 7e4d00 # if the main color has sufficient contrast against white text, set this to the same value as hex
 time_format: 12h
 
-photos:
-  default:
-    - _static/conf/images/headers/2025/grants.jpg
-    - _static/conf/images/headers/2025/unconference.jpg
-    - _static/conf/images/headers/2025/volunteer.jpg
-    - _static/conf/images/headers/2025/writing-day.jpg
-  index:
-    - _static/conf/images/pics/writing-day.jpg
-    - _static/conf/images/pics/reg.jpg
-
 buttons:
   top:
     # - text: Date and ticket information
     #   link: /news/welcome
     - text: Sponsor the Conference
       link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
-    # - text: See the Schedule!
-    #   link: /schedule
-    # - text: Buy a Ticket
-    #   link: /tickets
+    # - text: Submit a Talk
+    #   link: /cfp
+    - text: Buy a Ticket
+      link: /tickets
     #- text: See the Speakers
     #  link: /speakers
+    # - text: See the Schedule!
+    #   link: /schedule
     # - text: Attendee Guide
     #   link: /attendee-guide
     # - text: Watch the Live Stream
@@ -51,10 +41,10 @@ buttons:
     #   link: /news/welcome
     - text: Sponsor us
       link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
-    # - text: Buy a Ticket!
-    #   link: /tickets
+    # - text: Submit a Talk
+    #   link: /cfp
+    - text: Buy a Ticket!
+      link: /tickets
     # - text: See the Schedule
     #   link: /schedule
     # - text: See the Talks
@@ -201,6 +191,11 @@ sponsors:
       text: <p>ReadMe transforms static API docs into interactive developer hubs. Help developers make their first call faster, quickly troubleshoot issues along the way, and get insights into API usage to focus your team on the highest-impact improvements.</p>
 
   patron:
+    - name: gitbook
+      link: https://www.gitbook.com/?ref=writethedocs
+      brand: GitBook
+      text: "GitBook combines powerful docs with AI-powered search and insights to give technical teams a single source of truth for their knowledge.
+             Effortlessly create, surface and improve public and internal documentation that your users and teams will love. "
     - name: waldium
       link: https://www.waldium.com/?ref=writethedocs
       brand: Waldium
@@ -218,6 +213,18 @@ sponsors:
       text: "Read the Docs simplifies software documentation by building, versioning, and hosting of your docs, automatically. Treating documentation like code keeps your team in the same tools, and your documentation up to date."
   first:
   in_kind:
+
+
+photos:
+  default:
+    - _static/conf/images/headers/2025/grants.jpg
+    - _static/conf/images/headers/2025/unconference.jpg
+    - _static/conf/images/headers/2025/volunteer.jpg
+    - _static/conf/images/headers/2025/writing-day.jpg
+  index:
+    - _static/conf/images/pics/writing-day.jpg
+    - _static/conf/images/pics/reg.jpg
+
 
 # Things that change over time, listed in order of change
 flaglanding: False
@@ -245,6 +252,6 @@ flaghasjobfair: True
 flaghasboat: False
 
 # Pages to be linked in January 2026
-flaghasvisiting: False
+flaghasvisiting: True
 flaghasattendeeguide: False
 flaghasteam: False
