@@ -252,6 +252,6 @@ flaghasjobfair: True
 flaghasboat: False
 
 # Pages to be linked in January 2026
-flaghasvisiting: False
+flaghasvisiting: True
 flaghasattendeeguide: False
 flaghasteam: False
