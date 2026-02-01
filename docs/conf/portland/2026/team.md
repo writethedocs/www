@@ -96,7 +96,7 @@ Swapnil is fortunate enough to live in one of the world's most liveable cities -
 
 ![](/_static/img/2024/team/jodie.jpg)
 
-Jodie manages the NGINX DocOps team at F5. A longtime attendee of Write the Docs, she loves being able to give back to the community that has given her so much. Outside of work and the wild world of conference organization, Jodie can be found playing in the Colorado mountains, making tasty food, or enjoying live music with her family.
+Jodie manages the Docs team at F5. A longtime attendee of Write the Docs, she loves being able to give back to the community that has given her so much. Outside of work and the wild world of conference organization, Jodie can be found playing in the Colorado mountains, making tasty food, or enjoying live music with her family.
 
 ### Mindy Moreland (she/her)
 
