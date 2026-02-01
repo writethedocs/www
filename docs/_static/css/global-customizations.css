@@ -244,6 +244,10 @@ div.body {
   min-width: inherit;
 }
 
+div.body h2 {
+  font-size: 200%;
+}
+
 @media screen and (max-width: 875px) {
   div.sphinxsidebar {
     width: calc(100% + 20px);
