@@ -353,7 +353,7 @@ Related roles
 Career growth
 ~~~~~~~~~~~~~
 
-- |:newspaper:| `Defining a full-stack documentarian </blog/newsletter-january-2026/#cdefining-a-full-stack-documentarian>`__
+- |:newspaper:| `Defining a full-stack documentarian </blog/newsletter-february-2026/#defining-a-full-stack-documentarian>`__
 - |:newspaper:| `Leveling up as a solo documentarian </blog/newsletter-april-2025/#leveling-up-as-a-solo-documentarian>`__
 - |:newspaper:| `The highs and lows of writing alone </blog/newsletter-february-2025/#the-highs-and-lows-of-writing-alone>`__
 - |:newspaper:| `Dealing with Feeling Blocked by Bureaucracy </blog/newsletter-march-2024/#dealing-with-feeling-blocked-by-bureaucracy>`__
@@ -422,7 +422,7 @@ Design and UX
 Accessibility and inclusivity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- |:newspaper:| `Style guidance for alt text </blog/newsletter-january-2026/#style-guidance-for-alt-text>`__
+- |:newspaper:| `Style guidance for alt text </blog/newsletter-february-2026/#style-guidance-for-alt-text>`__
 - |:movie_camera:| `ADHD and its impact on the Creative Process for Writers </videos/prague/2022/adhd-and-its-impact-on-the-creative-process-for-writers-tyler-smith/>`__
 - |:movie_camera:| `Writing Documentation with Neurodivergent Open Source Contributors In Mind </videos/portland/2021/writing-documentation-with-neurodivergent-open-source-contributors-in-mind-rin-oliver/>`__
 - |:movie_camera:| `Moving beyond empathy: a11y in documentation </videos/portland/2020/moving-beyond-empathy-a11y-in-documentation-alexandra-white/>`__
@@ -574,7 +574,7 @@ DITA
 AI and LLMs
 ~~~~~~~~~~~
 
-- |:newspaper:| `Can AI be both a bubble and useful? </blog/newsletter-january-2026/#can-ai-be-both-a-bubble-and-useful>`__
+- |:newspaper:| `Can AI be both a bubble and useful? </blog/newsletter-february-2026/#can-ai-be-both-a-bubble-and-useful>`__
 - |:newspaper:| `AI and the future of documentation </blog/newsletter-december-2025/#ai-and-the-future-of-documentation>`__
 - |:newspaper:| `Optimizing docs for LLMs </blog/newsletter-november-2025/#optimizing-docs-for-llms>`__
 - |:newspaper:| `AI and the need for product knowledge </blog/newsletter-october-2025/#ai-and-the-need-for-product-knowledge>`__
@@ -734,7 +734,7 @@ Meetups
 Style guides
 ~~~~~~~~~~~~
 
-- |:newspaper:| `Style guidance for alt text </blog/newsletter-january-2026/#style-guidance-for-alt-text>`__
+- |:newspaper:| `Style guidance for alt text </blog/newsletter-february-2026/#style-guidance-for-alt-text>`__
 - |:newspaper:| `Create a screenshot style guide </blog/newsletter-november-2025/#create-a-screenshot-style-guide>`__
 - |:newspaper:| `Choosing a style guide </blog/newsletter-november-2022/#choosing-a-style-guide>`__
 - |:movie_camera:| `The Art of Consistency: Creating an in-house style guide <https://www.youtube.com/watch?v=IDLSiX9O0Lg&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=11>`__
