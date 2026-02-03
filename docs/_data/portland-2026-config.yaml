@@ -189,6 +189,9 @@ sponsors:
       link: https://readme.com/?ref=writethedocs
       brand: ReadMe
       text: <p>ReadMe transforms static API docs into interactive developer hubs. Help developers make their first call faster, quickly troubleshoot issues along the way, and get insights into API usage to focus your team on the highest-impact improvements.</p>
+    - name: stainless
+      link: https://www.stainless.com/?utm_source=write_the_docs&utm_medium=conference&utm_campaign=write_the_docs_2026
+      brand: Stainless
 
   patron:
     - name: gitbook
