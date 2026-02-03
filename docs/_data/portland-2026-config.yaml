@@ -203,6 +203,9 @@ sponsors:
       link: https://buildwithfern.com/?ref=writethedocs
       brand: Fern
   publisher:
+    - name: expert-support
+      link: https://expertsupport.com/?ref=writethedocs
+      brand: Expert Support
   second:
     - name: helpdocs
       link: https://www.helpdocs.io/?utm_source=writethedocs&utm_medium=sponsor&utm_campaign=wtdp26
@@ -232,15 +235,14 @@ flaghassponsors: True
 flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
+flagscheduleincomplete: True
 flagspeakersannounced: False
 flagrunofshow: False
 flaghasschedule: False
-flagscheduleincomplete: True
 flaghasshirts: False
 flaglivestreaming: False
 flagvideos: False
 flagpostconf: False
-flaghasbadgeflair: False
 
 # Truthy things that don't change
 flaghasunconf: True
@@ -255,3 +257,4 @@ flaghasboat: False
 flaghasvisiting: True
 flaghasteam: True
 flaghasattendeeguide: False
+flaghasbadgeflair: False
