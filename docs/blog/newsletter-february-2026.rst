@@ -11,7 +11,7 @@ Welcome to the first newsletter of 2026! I hope your year is off to a good start
 
 The Portland conference will be here before you know it, so `get your tickets </conf/portland/2026/tickets/>`__ while you can. If you need assistance in attending, applications for opportunity grants close this Thursday, so `apply now </conf/portland/2026/opportunity-grants/>`__.
 
-We're still looking for someone to join the `newsletter team </team/#newsletter>`__, so if you're interested, reach out to `@Aaron Collier` in Slack.
+We're still looking for someone to join the `newsletter team </team/#newsletter>`__, so if you're interested, reach out to `@Aaron Collier <https://writethedocs.slack.com/archives/DC5HWBL3G> in Slack`__.
 
 This month's newsletter has articles on recommendations for good alt text, whether LLMs can be useful even if there's a bubble around AI, and what it means to be a "full-stack" documentarian. Enjoy!
 
