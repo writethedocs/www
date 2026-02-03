@@ -65,7 +65,7 @@ Someone noted in the `#career-advice channel <https://writethedocs.slack.com/arc
 
 Some focused on the technical side of docs, meaning someone who is into tooling, creating pipelines, and creating docs sites and still writes docs themselves -- as opposed to a docs engineer focused exclusively on the site itself. This option seemed to be focused on coding skills. The term "full-stack" was brought over from full-stack developers, which lent itself to a more technical way of looking at it. One person noted they referred to themselves this way to mean they covered all of the given developer stack, from backend APIs to the UI.
 
-Others thought of it as unrelated to code, but encompassing all of the possible other tasks that documentarians could be invovled in: technical writing, content designing, and UX writing. And also different kinds of docs, from API references to tutorials to UX strings.
+Others thought of it as unrelated to code, but encompassing all of the possible other tasks that documentarians could be involved in: technical writing, content designing, and UX writing. And also different kinds of docs, from API references to tutorials to UX strings.
 
 One person noted an aversion to the term. To them, the idea of a "full-stack" documentarian implied a generalist, someone who can do a little of a lot of things but isn't an expert in any. This brought up concerns that such generalists would necessarily be slower at any given task than a specialist with dedicated expertise. Generalists were seen as more useful at smaller companies that don't have enough people to specialize.
 
