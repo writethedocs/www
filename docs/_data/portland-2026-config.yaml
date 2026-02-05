@@ -206,6 +206,9 @@ sponsors:
       link: https://buildwithfern.com/?ref=writethedocs
       brand: Fern
       width: 350px
+    - name: mongodb-new
+      link: https://www.mongodb.com/?ref=writethedocs
+      brand: MongoDB
   publisher:
     - name: expert-support
       link: https://expertsupport.com/?ref=writethedocs
