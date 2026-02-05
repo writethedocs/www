@@ -23,9 +23,9 @@ Alternative text (alt text) can be difficult to write well. One strategy is to d
 
 Effective alt text should communicate essential visual information of an image in context. You may want to include the purpose of the image rather than attempting to describe every detail. Alt text should be limited to one or two sentences (thorough but concise) and focused on the information the image is meant to communicate. Do not include decorative details nor text that appears in the documentation, itself.
 
-Because screen readers already announce images, do not start alt text with a phrase such as “image of”. However, context-specific terms such as “screenshot of” or “graph of” can be appropriate if they add meaning. 
+Because screen readers already announce images, do not start alt text with a phrase such as "image of". However, context-specific terms such as "screenshot of" or "graph of" can be appropriate if they add meaning.
 
-To help you develop effective alt text, consider how would you explain the image verbally to someone over the phone. Doing this can help you focus on what matters to a visually-impaired user.
+To help you develop effective alt text, consider how you would explain the image verbally to someone over the phone. Doing this can help you focus on what matters to a visually-impaired user.
 
 There are several authoritative standards with guidelines for writing alt text. Also, consider accessibility resources about screen readers. Resources from W3C/WAI, WCAG, and government agencies (such as UK accessibility content, US government 508 guidelines, or your country's governmental accessibility agency) are usually reliable references. These references are useful both for learning best practices and for resolving concerns about accessibility requirements:
 
@@ -77,12 +77,14 @@ See more Write the Docs resources about `career growth </topics/#career-growth>`
 From our sponsor
 ----------------
 
-This month’s newsletter is sponsored by `Gliffy <ttps://marketplace.atlassian.com/apps/254/gliffy-diagrams-for-confluence?hosting=cloud&tab=overview&utm_source=write-the-docs&utm_medium=sponsored-content&utm_campaign=2025-gliffy-gliffydiagramsforconfluence&utm_content=atlassian-marketplace>`_.
+This month's newsletter is sponsored by `Gliffy <https://marketplace.atlassian.com/apps/254/gliffy-diagrams-for-confluence?hosting=cloud&tab=overview&utm_source=write-the-docs&utm_medium=sponsored-content&utm_campaign=2025-gliffy-gliffydiagramsforconfluence&utm_content=atlassian-marketplace>`_.
+
 .. image:: /_static/img/sponsors/gliffy.png
   :align: center
   :width: 50%
   :target: https://marketplace.atlassian.com/apps/254/gliffy-diagrams-for-confluence?hosting=cloud&tab=overview&utm_source=write-the-docs&utm_medium=sponsored-content&utm_campaign=2025-gliffy-gliffydiagramsforconfluence&utm_content=atlassian-marketplace
   :alt: Gliffy logo
+
 Gliffy gives fast‑moving teams a clearer way to communicate complex ideas. Its drag‑and‑drop canvas, Mermaid support, and AI‑powered diagram creation all come together in a single, seamless Confluence app.
 
 When your diagrams live directly inside Confluence, your documentation stays consistent, accessible, and far easier to keep up to date—no more scattered files or siloed knowledge.
