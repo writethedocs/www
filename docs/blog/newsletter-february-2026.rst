@@ -78,7 +78,11 @@ From our sponsor
 ----------------
 
 This month’s newsletter is sponsored by `Gliffy <ttps://marketplace.atlassian.com/apps/254/gliffy-diagrams-for-confluence?hosting=cloud&tab=overview&utm_source=write-the-docs&utm_medium=sponsored-content&utm_campaign=2025-gliffy-gliffydiagramsforconfluence&utm_content=atlassian-marketplace>`_.
-
+.. image:: /_static/img/sponsors/gliffy.png
+  :align: center
+  :width: 50%
+  :target: https://marketplace.atlassian.com/apps/254/gliffy-diagrams-for-confluence?hosting=cloud&tab=overview&utm_source=write-the-docs&utm_medium=sponsored-content&utm_campaign=2025-gliffy-gliffydiagramsforconfluence&utm_content=atlassian-marketplace
+  :alt: Gliffy logo
 Gliffy gives fast‑moving teams a clearer way to communicate complex ideas. Its drag‑and‑drop canvas, Mermaid support, and AI‑powered diagram creation all come together in a single, seamless Confluence app.
 
 When your diagrams live directly inside Confluence, your documentation stays consistent, accessible, and far easier to keep up to date—no more scattered files or siloed knowledge.
