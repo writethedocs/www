@@ -18,14 +18,14 @@ buttons:
   top:
     # - text: Date and ticket information
     #   link: /news/welcome
-    - text: Sponsor the Conference
-      link: /sponsors/prospectus
+    #- text: Sponsor the Conference
+    #  link: /sponsors/prospectus
     # - text: Submit a Talk
     #   link: /cfp
     - text: Buy a Ticket
       link: /tickets
-    #- text: See the Speakers
-    #  link: /speakers
+    - text: See the Speakers
+      link: /speakers
     # - text: See the Schedule!
     #   link: /schedule
     # - text: Attendee Guide
@@ -243,7 +243,7 @@ flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
 flagscheduleincomplete: True
-flagspeakersannounced: False
+flagspeakersannounced: True
 flagrunofshow: False
 flaghasschedule: False
 flaghasshirts: False
