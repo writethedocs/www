@@ -9,7 +9,7 @@ Announcing {{city}} {{year}} conference speakers
 
 Our {{year}} {{city}} conference is three months away, and we can't wait to see you all there! Now is the ideal time to buy your tickets and make your travel plans.
 
-The big news today—our speaker lineup is here! Check out the list of speakers and their talks below, and get ready for another year in Portland.
+The big news today is that our speaker lineup is here! Check out the list of speakers and their talks below, and get ready for another year in Portland.
 
 .. raw:: html
 
