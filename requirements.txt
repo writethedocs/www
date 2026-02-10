@@ -1,5 +1,7 @@
 Sphinx==5.3.0
 
+setuptools>=42,<81 # https://github.com/ronaldoussoren/py2app/issues/564
+
 # make livehtml support
 sphinx_autobuild==2021.3.14
 
