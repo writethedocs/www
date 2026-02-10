@@ -7,17 +7,17 @@
 Announcing {{city}} {{year}} conference speakers
 ================================================
 
-Our {{year}} {{city}} conference is three months away, and we can't wait to see you all there! Now is the ideal time to buy your tickets and make your travel plans.
+Our {{year}} {{city}} conference is under three months away, and we can't wait to see you all there! Now is the ideal time to buy your tickets and make your travel plans.
 
 The big news today is that our speaker lineup is here! Check out the list of speakers and their talks below, and get ready for another year in Portland.
 
 .. raw:: html
 
    <div style="margin: 2em 0;">
-   <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
+   <table border="0" cellpadding="0" cellspacing="0" style="background-color:#fdb913; border:1px solid #4a4a4a; border-radius:5px;">
    <tr>
-      <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-         <a href="https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Buy your ticket</a>
+      <td align="center" valign="middle" style="color:#000000; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
+         <a href="https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/" target="_blank" style="color:#000000; text-decoration:none; border-bottom: none;">Buy your ticket</a>
       </td>
    </tr>
    </table>
@@ -38,13 +38,23 @@ Buy your tickets soon
 ---------------------
 
 If you haven't gotten your ticket yet, now's the time to begin the process to attend.
-Please ensure to arrange your travel only after buying a conference ticket.
+Please ensure you arrange your travel only after buying a conference ticket.
 If you need additional information, we have a few resources to help you:
 
 * Visit our `Convince Your Manager page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/convince-your-manager/>`_ for assistance in making the case for attendance.
-* Purchase your tickets on our `Tickets page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_.
 * Plan your journey with our `Visiting {{city}} page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>`_.
 
+.. raw:: html
+
+   <div style="margin: 2em 0;">
+   <table border="0" cellpadding="0" cellspacing="0" style="background-color:#fdb913; border:1px solid #4a4a4a; border-radius:5px;">
+   <tr>
+      <td align="center" valign="middle" style="color:#000000; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
+         <a href="https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/" target="_blank" style="color:#000000; text-decoration:none; border-bottom: none;">Buy your ticket</a>
+      </td>
+   </tr>
+   </table>
+   </div>
 
 Thanks again to our sponsors
 ----------------------------
