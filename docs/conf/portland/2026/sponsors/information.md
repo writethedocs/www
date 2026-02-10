@@ -43,9 +43,9 @@ Portland, Oregon 97214
 
 * **SUNDAY**: The conference begins with [Writing Day](/conf/{{ shortcode }}/{{ year }}/schedule/) and typically is attended by one third of our attendees. The Welcome Reception takes place in the evening and brings in an additional wave of attendees. **There are no sponsor booths this day**, but sponsors are encouraged to submit and lead a Writing Day project.
 
-* **MONDAY**: Day 1 of Speaker Talks and Unconference. Booth setup for Keystone and Patron sponsors begins at 7:00am. Attendees begin arriving promptly at 8:00am if not before, and the remaining two thirds of attendees checking in this morning. Sponsor introductions are at 10:50am on the main stage for Keystone and Patron sponsors. The day features seven speaker talks with short breaks between each session, and the Unconference track runs in parallel. An offsite social gathering is held Monday evening.
+* **MONDAY**: Day 1 of Speaker Talks and Unconference. Booth setup for Keystone and Patron sponsors. Attendees arrive promptly when doors open, and the remaining two thirds of attendees checking in this morning. Sponsor introductions are on the main stage for Keystone and Patron sponsors. The day features seven speaker talks with short breaks between each session, and the Unconference track runs in parallel. An offsite social gathering is held Monday evening.
 
-* **TUESDAY**: Day 2 of Speaker Talks and Unconference. Keystone and Patron sponsor arrival is at 8:15am. Doors open at 8:30am. The day features six speakers. Schedule reflects Monday with slight adjustments to beginning and end times.
+* **TUESDAY**: Day 2 of Speaker Talks and Unconference. The day features six speakers. Schedule reflects Monday with slight adjustments to beginning and end times.
 
 The [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) will be available here.
 
@@ -78,9 +78,9 @@ Sponsor booths are setup in the main hallway on Monday and Tuesday outside of th
 * You are responsible for loading in and loading out your entire booth setup.
 * **Sponsor provides**:
   - Table linen
-  - Laptop/tablets/monitor to display your product
+  - Laptop/tablets/monitor to display your product - WTD can provide monitors for an additional fee if required
   - Banner (confirm this fits behind a 6' table)
-* **Arrive at 7:00am for setup**: The conference venue opens at 8:00am and attendees arrive promptly. * Check in with the Sponsorship Coordinator for specific setup questions.
+* **Arrive at 7:00am for setup**: The conference venue opens at 8:00am and attendees arrive promptly. Sponsorship Coordinator will send load-in instructions closer to the conference.
 * **Be present at your booth are during the breaks and at the start of lunch break.**
 * **Bring swag (especially stickers)**: Stickers are by far the most popular item for our attendees.
 * **Engage with folks as both a sponsor and attendee**: This is a great opportunity to meet folks in the community, so we recommend engaging with folks in an official capacity, but also as a regular attendee.
@@ -92,17 +92,10 @@ If you are sponsoring a Lightning Talk, you will be given 60 seconds to share ab
 
 ### Participate in Writing Day
 
-Host a project at Writing Day. This is a place where the community gathers to get actual work done and is a great opportunity to meet with a small group and have extended interaction with attendees. To create more ways for attendees to take part in Writing Day, we're expanding Sunday to include additional, shorter-format options such as workshops and discussions.
-
-- Writing Day (half day or full day projects)
-- New to GitHub workshops
-- Resume Writing session
-- A pre-scheduled, discussion-based track
-
-**Logistics**:
+Host a project at Writing Day. This is a place where the community gathers to get actual work done and is a great opportunity to meet with a small group and have extended interaction with attendees. 
 
 * View our [Lead a Project](https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/writing-day/#lead-a-project) for more information.
-* [Submit your Writing Day project here.]([https://docs.google.com/forms/d/e/1FAIpQLSeHMZ1uXTfnT0HMm-KfsgxYV1w3tmS7bMPtBx4H9cktJpSrdg/viewform?usp=dialog](https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform?usp=dialog)) All projects submitted by April 22 will be published to our website, which encourages attendees to attend, engage with your product, and contribute to your documentation.
+* [Submit your Writing Day project here.](https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform?usp=dialog) All projects submitted by April 22 will be published to our website, which encourages attendees to attend, engage with your product, and contribute to your documentation.
 
 ### Host an Unconference Session
 
@@ -111,7 +104,7 @@ Host an Unconference session. This is a wonderful opportunity to lead, contribut
 **Logistics**:
 
 * Sessions are 40 minutes in length on Monday and Tuesday.
-* If interested, we will confirm your time slot with you before the conference begins.
+* Let us know in advance if you plan to run an unconference session so we can confirm a suitable timeslot for you.
 * View more on how to Lead a Session on our [Unconference](/conf/{{shortcode }}/{{ year }}/unconference/) page.
 
 ## Frequently Asked Questions
@@ -137,6 +130,6 @@ You should have received a unique URL with a discount code for your sponsorship 
 * Sponsors are responsible for all sponsorship materials after they arrive at the venue. 
 * Sponsors are responsible for mailing all materials after the conference. 
 * Please print your return shipping labels prior to coming to the venue to send your materials back.
-* **All materials must be out of the venue by 6:00pm on Tuesday.**
+* **All materials must be out of the venue by 5:30pm on Tuesday.**
 
 If you have any further questions, reach out to Eric Holscher or <sponsorship@writethedocs.org>.
