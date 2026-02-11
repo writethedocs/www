@@ -388,13 +388,13 @@
 
     </ul>'
 - title: 'How We Deprecated 500+ Articles: Cleaning Up Documentation at Scale'
-  slug: how-we-deprecated-500-articles-cleaning-up-documentation-at-scale-aileen
+  slug: how-we-deprecated-500-articles-cleaning-up-documentation-at-scale-aileen-mary
   series: Write the Docs Portland
   series_slug: portland
   year: 2026
   speakers:
-  - name: Aileen
-    slug: aileen
+  - name: Aileen Mary
+    slug: aileen-mary
     twitter:
     website:
   abstract: '<p>Imagine a small SaaS product with a well-structured help center. The
