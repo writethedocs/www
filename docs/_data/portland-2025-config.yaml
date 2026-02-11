@@ -226,6 +226,9 @@ sponsors:
     - name: expert-support
       link: https://expertsupport.com/?ref=writethedocs
       brand: Expert Support
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com?ref=writethedocs
+      brand: KnowledgeOwl
   second:
     - name: redocly-new
       link: https://redoc.ly/?ref=writethedocs
