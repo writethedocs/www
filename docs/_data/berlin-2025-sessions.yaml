@@ -7,7 +7,7 @@
   speakers:
   - name: Michiel Mulders
     slug: michiel-mulders
-    twitter: 
+    twitter:
     website: https://www.docu.agency/
   abstract: '<p>Great developer experience (DX) transforms your product from just
     another tool into one that developers genuinely love. But how exactly do you achieve
@@ -55,8 +55,8 @@
   speakers:
   - name: Stephan Delbos
     slug: stephan-delbos
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>When my technical documentation team merged with global education,
     we weren’t sure what would come of it. We were focused on software documentation,
     and they were focused on training hotel staff to utilize that software. But what
@@ -98,7 +98,7 @@
   speakers:
   - name: Ian Cowley
     slug: ian-cowley
-    twitter: 
+    twitter:
     website: https://www.dufcrule.com/
   abstract: '<p>Following the acquisition of multiple companies and their different
     ranges of software platforms, our organisation ended up with a fragmented documentation
@@ -128,8 +128,8 @@
   speakers:
   - name: Tiffany Hrabusa
     slug: tiffany-hrabusa
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>This talk charts one writer’s unconventional path from law librarian
     to technical writer through open source software (OSS). It illustrates how contributing
     to OSS can build your skills, professional network, and confidence—even if you
@@ -157,8 +157,8 @@
   speakers:
   - name: Kat Stoica Ostenfeld
     slug: kat-stoica-ostenfeld
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>A lot of people are promoted into Leads roles without proper knowledge
     about what it means, how it will affect them, and how to proceed.</p>
 
@@ -194,8 +194,8 @@
   speakers:
   - name: Ruth Fuchss
     slug: ruth-fuchss
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>There is a plethora of tools and frameworks for creating technical
     documentation, spanning from WYSIWYG content management systems to Git-based docs-as-code
     approaches - or even Word files on a shared disk. All of these methods can be
@@ -231,8 +231,8 @@
   speakers:
   - name: Dimple Poojary
     slug: dimple-poojary
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>As a senior technical writer, I''ve long grappled with the persistent
     challenge of keeping documentation current and accurate. The manual process of
     tracking which documents needed updates, assigning them to team members and reminding
@@ -261,7 +261,7 @@
   speakers:
   - name: Val Grimm
     slug: val-grimm
-    twitter: 
+    twitter:
     website: https://linkedin.com/in/vlgrimm
   abstract: '<p>In reaction to a volatile environment, many organizations in Europe
     and around the world want to regain their data sovereignty to reduce geopolitical
@@ -285,7 +285,7 @@
   speakers:
   - name: Jennifer Rondeau
     slug: jennifer-rondeau
-    twitter: 
+    twitter:
     website: (well, I still maintain it anyway ;)) https://www.yourmom.io/
   abstract: '<p>I''d like to revisit my WTD Prague 2015 talk that was (sorta) about
     the history of techcomm in the United States, to talk more about international
@@ -326,7 +326,7 @@
   speakers:
   - name: Fabrizio Ferri-Benedetti
     slug: fabrizio-ferri-benedetti
-    twitter: 
+    twitter:
     website: https://passo.uno
   abstract: '<p>Some days, you feel stuck. The work feels repetitive, the promotions
     don''t come, and you start to wonder if you''re really growing at all. I know
@@ -354,8 +354,8 @@
   speakers:
   - name: Diana Breza
     slug: diana-breza
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>“When I run the code example in the docs, it doesn’t work.” </p>
 
     <p>“I ran the steps in the doc, but I’m still getting an error.”</p>
@@ -395,7 +395,7 @@
   speakers:
   - name: Powen Shiah
     slug: powen-shiah
-    twitter: 
+    twitter:
     website: powenshiah.com
   abstract: '<p>When your audience includes both government officials and kernel developers,
     how do you write in a way that works for everyone? At the Sovereign Tech Agency,
@@ -433,7 +433,7 @@
   speakers:
   - name: Maximilian Rosin
     slug: maximilian-rosin
-    twitter: 
+    twitter:
     website: mrosin.net
   abstract: '<p>One question has been haunting me for years: why do computers persistently
     mislead even highly competent people about their characteristics and capabilities?

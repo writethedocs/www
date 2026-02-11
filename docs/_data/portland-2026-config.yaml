@@ -9,18 +9,10 @@ tz: Pacific Time  # PT until March, PST after... :/
 email: portland@writethedocs.org
 color: gold
 rgb: 253,185,19
+rgb_contrast: 126,77,0 # if the main color has sufficient contrast against white text, set this to the same value as rgb
 hex: fdb913
+hex_contrast: 7e4d00 # if the main color has sufficient contrast against white text, set this to the same value as hex
 time_format: 12h
-
-photos:
-  default:
-    - _static/conf/images/headers/2025/grants.jpg
-    - _static/conf/images/headers/2025/unconference.jpg
-    - _static/conf/images/headers/2025/volunteer.jpg
-    - _static/conf/images/headers/2025/writing-day.jpg
-  index:
-    - _static/conf/images/pics/writing-day.jpg
-    - _static/conf/images/pics/reg.jpg
 
 buttons:
   top:
@@ -28,14 +20,14 @@ buttons:
     #   link: /news/welcome
     - text: Sponsor the Conference
       link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
-    # - text: See the Schedule!
-    #   link: /schedule
-    # - text: Buy a Ticket
-    #   link: /tickets
+    # - text: Submit a Talk
+    #   link: /cfp
+    - text: Buy a Ticket
+      link: /tickets
     #- text: See the Speakers
     #  link: /speakers
+    # - text: See the Schedule!
+    #   link: /schedule
     # - text: Attendee Guide
     #   link: /attendee-guide
     # - text: Watch the Live Stream
@@ -49,10 +41,10 @@ buttons:
     #   link: /news/welcome
     - text: Sponsor us
       link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
-    # - text: Buy a Ticket!
-    #   link: /tickets
+    # - text: Submit a Talk
+    #   link: /cfp
+    - text: Buy a Ticket!
+      link: /tickets
     # - text: See the Schedule
     #   link: /schedule
     # - text: See the Talks
@@ -83,18 +75,6 @@ tickets:
     price: $100
   virtual_student:
     price: $50
-  button: >
-    .. raw:: html
-
-      <p style="margin: 2em 0;">
-      <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
-      <tr>
-          <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-            <a href="https://ti.to/writethedocs/write-the-docs-portland-2026/" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Get your ticket</a>
-          </td>
-      </tr>
-      </table>
-      </p>
 
 sponsorship:
   second_draft:
@@ -107,7 +87,7 @@ sponsorship:
     price: $15,000
 
 grants:
-  url: https://docs.google.com/forms/d/e/1FAIpQLSf3fGfW_8W1x3oeKeoUpg8ZPLvyY4cQvO5Bii_OTrgW97cLNw/viewform?embedded=true
+  url: "https://docs.google.com/forms/d/e/1FAIpQLSctdb3MT_MvB1x_o8iKKhp_xik8YXDLVCnnDT_tv2k2LPlrJg/viewform?usp=dialog"
   ends: 'February 5, 2026'
   notification: 'February 14, 2026'
 
@@ -191,32 +171,85 @@ writing_day:
   url: "https://docs.google.com/forms/u/1/d/e/1FAIpQLSeHMZ1uXTfnT0HMm-KfsgxYV1w3tmS7bMPtBx4H9cktJpSrdg/viewform?usp=dialog"
   date: Sunday, May 3, 9 AM - 5 PM
 
+volunteer:
+  form_url: "https://docs.google.com/forms/d/e/1FAIpQLSeJvA3uhXDuFsl_kFYWyTyTIyYs6ItHMPspOVq_iSlIloFo6g/viewform?usp=sharing&ouid=109538527958730243648"
+  applications_close: "February 13"
+  schedule_signup_close: "March 27"
+
 hike:
   date: Saturday, May 2, 2 PM
+  register_url: "https://ti.to/writethedocs/write-the-docs-portland-2026/with/k-pi4-g8s80"
 
 sponsors:
   keystone:
+    - name: promptless
+      link: https://promptless.ai/?ref=writethedocs
+      brand: Promptless
+    - name: readme
+      link: https://readme.com/?ref=writethedocs
+      brand: ReadMe
+      text: <p>ReadMe transforms static API docs into interactive developer hubs. Help developers make their first call faster, quickly troubleshoot issues along the way, and get insights into API usage to focus your team on the highest-impact improvements.</p>
+    - name: stainless
+      link: https://www.stainless.com/?utm_source=write_the_docs&utm_medium=conference&utm_campaign=write_the_docs_2026
+      brand: Stainless
+
   patron:
+    - name: gitbook
+      link: https://www.gitbook.com/?ref=writethedocs
+      brand: GitBook
+      text: "GitBook combines powerful docs with AI-powered search and insights to give technical teams a single source of truth for their knowledge.
+             Effortlessly create, surface and improve public and internal documentation that your users and teams will love. "
+    - name: waldium
+      link: https://www.waldium.com/?ref=writethedocs
+      brand: Waldium
+    - name: fern
+      link: https://buildwithfern.com/?ref=writethedocs
+      brand: Fern
+      width: 350px
+    - name: mongodb-new
+      link: https://www.mongodb.com/?ref=writethedocs
+      brand: MongoDB
   publisher:
+    - name: expert-support
+      link: https://expertsupport.com/?ref=writethedocs
+      brand: Expert Support
   second:
+    - name: helpdocs
+      link: https://www.helpdocs.io/?utm_source=writethedocs&utm_medium=sponsor&utm_campaign=wtdp26
+      brand: HelpDocs
+    - name: readthedocs
+      link: https://about.readthedocs.com/?ref=writethedocs
+      brand: Read the Docs
+      text: "Read the Docs simplifies software documentation by building, versioning, and hosting of your docs, automatically. Treating documentation like code keeps your team in the same tools, and your documentation up to date."
   first:
   in_kind:
 
+
+photos:
+  default:
+    - _static/conf/images/headers/2025/grants.jpg
+    - _static/conf/images/headers/2025/unconference.jpg
+    - _static/conf/images/headers/2025/volunteer.jpg
+    - _static/conf/images/headers/2025/writing-day.jpg
+  index:
+    - _static/conf/images/pics/writing-day.jpg
+    - _static/conf/images/pics/reg.jpg
+
+
 # Things that change over time, listed in order of change
-flaglanding: True
-flaghassponsors: False
-flagcfp: True
-flagticketsonsale: False
+flaglanding: False
+flaghassponsors: True
+flagcfp: False
+flagticketsonsale: True
 flagsoldout: False
+flagscheduleincomplete: True
 flagspeakersannounced: False
 flagrunofshow: False
 flaghasschedule: False
-flagscheduleincomplete: True
 flaghasshirts: False
-flaglivestreaming: True
+flaglivestreaming: False
 flagvideos: False
 flagpostconf: False
-flaghasbadgeflair: False
 
 # Truthy things that don't change
 flaghasunconf: True
@@ -226,3 +259,9 @@ flaghaswritingday: True
 flaghaslightningtalks: True
 flaghasjobfair: True
 flaghasboat: False
+
+# Pages to be linked in January 2026
+flaghasvisiting: True
+flaghasteam: True
+flaghasattendeeguide: False
+flaghasbadgeflair: False

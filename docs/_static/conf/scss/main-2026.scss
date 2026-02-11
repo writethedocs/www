@@ -148,19 +148,24 @@ body div.mobile-post-header {
 }
 
 body .page-banner {
+    display: grid;
+    align-content: end;
+    box-sizing: border-box;
+    padding-bottom: 2rem;
     height: 184px;
     width: 100%;
     background-size: cover;
-    box-shadow: inset 0 0 0 2000px rgba(0,0,0,0.5);
+    // box-shadow: inset 0 0 0 2000px rgba(0,0,0,0.5);
 
     .uk-container {
         position: relative;
+        width: 90%;
 
         h1 {
             color: $white;
             font-family: $secondary-font-family;
-            position: absolute;
-            top: 108px;
+            // position: absolute;
+            // top: 108px;
             font-size: 26px;
         }
     }
@@ -945,8 +950,8 @@ footer {
         .uk-container {
             max-width: 560px !important;
             h1 {
-                top: 208px;
-                font-size: 46px;
+                // top: 208px;
+                font-size: 44px;
             }
         }
     }
@@ -1390,3 +1395,73 @@ figure .caption-text {
     font-size: 1rem; /* Optional: Adjust font size if needed */
     color: #333; /* Optional: Customize text color */
 }
+
+// homepage image resizing on mobile
+@media (max-width: $breakpoint-xsmall-max) {
+
+    .picture-set {
+        width: 100% !important;
+        height: auto !important;
+        max-width: 95% !important;
+        padding: 0 !important;
+        margin: 0.5em auto !important;   
+        img {
+            padding: 0 !important;
+        }
+    }
+}
+
+// accommodate buttons with wrapping text
+.uk-button {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 30px;
+    line-height: 1.2;
+    min-height: 38px;
+}
+
+// enlarge the hero text on mobile
+@media (max-width: 639px) {
+    .hero .hero-text p {
+        line-height: 1.2;
+        font-weight: 700;
+        font-size: 22px;
+    }
+}
+
+// banners
+body .page-banner {
+    background-color: #132530; // set a background color in case the image doesn't load
+    background-repeat: no-repeat;
+    background-position: center top;
+    position: relative;
+}
+
+@media (min-width: 1024px) {
+    body .page-banner {
+        height: 320px;
+    }
+}
+
+
+@media (min-width: 1280px) {
+    body .page-banner {
+        background-size: 1180px;
+    }
+    body .page-banner::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('/_static/conf/images/headers/2026/mask.png'); 
+        background-repeat: no-repeat;
+        background-position: center top;
+        background-size: 1180px;
+    }
+}
+
+
+

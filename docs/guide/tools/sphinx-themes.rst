@@ -98,3 +98,13 @@ Shibuya
 A modern, responsive theme with excellent light/dark mode support and great integration with Jupyter extensions. Features Radix color system and flexible layouts.
 
 * https://github.com/lepture/shibuya
+
+Clarity theme
+-------------
+
+A clean and professional documentation theme for Sphinx. Modern design with light/dark mode, responsive layout, and beautiful typography.
+
+* https://readcraft.io/sphinx-clarity-theme
+
+.. image:: /_static/img/clarity-theme.png
+  :width: 80%

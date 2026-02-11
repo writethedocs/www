@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 :og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-:banner: _static/conf/images/headers/2025/sponsors.jpg
+:banner: _static/conf/images/headers/2026/prospectus.jpg
 
 .. role:: strike
     :class: strike
@@ -91,7 +91,7 @@ All packages can be customized, so let us know what you need!
 Keystone
 --------
 
-**{{sponsorship.keystone.price}}** - **Limit 1**
+**{{sponsorship.keystone.price}}** 
 
 The **Keystone** sponsorship highlights you as the primary sponsor of the conference. You get all in-person benefits, and the best placement for all physical spaces.
 
@@ -99,7 +99,7 @@ Benefits
 ^^^^^^^^
 
 - Eight (8) tickets, with additional available to purchase at a discounted rate of $500/ticket.
-- Most visible **sponsorship booth** for the entire conference (Monday & Tuesday). Monitor included in booth.
+- Most visible **sponsorship booth** for the entire conference (Monday & Tuesday). Monitor included in booth. Booths placed in order of purchase.
 - Sponsorship of a primary Write the Docs conference event (Unconference, Writing Day, or Social Event). 
 - **60 second introduction** on the main stage introducing your company.
 - Large logo on print material.

@@ -27,11 +27,15 @@ def get_review_scores(pretalx_slug, previous_slugs):
     submissions_url = f'https://pretalx.com/api/events/{pretalx_slug}/submissions/'
     print(f'Loading current submissions from {submissions_url}...')
     submissions_list = load_pretalx_resource(submissions_url, http_headers)
-    submissions = {
-        submission['code']: submission
-        for submission in submissions_list
-        if submission['state'] not in ['withdrawn', 'canceled']
-    }
+    try:
+        submissions = {
+            submission['code']: submission
+            for submission in submissions_list
+            if submission['state'] not in ['withdrawn', 'canceled']
+        }
+    except:
+        print('Error: does your PRETALX_TOKEN have access to this event?')
+        return
 
     previous_submissions = get_previous_submissions(previous_slugs, http_headers)
 
@@ -147,7 +151,7 @@ def load_pretalx_resource(url, http_headers):
 
 if __name__ == '__main__':
     get_review_scores(
-        pretalx_slug='wtd-berlin-2025',
+        pretalx_slug='wtd-portland-2026',
         previous_slugs=[
             'wtd-portland-2020',
             'wtd-prague-2020',
@@ -164,5 +168,6 @@ if __name__ == '__main__':
             'wtd-atlantic-2024',
             'wtd-australia-2024',
             'wtd-portland-2025',
+            'wtd-berlin-2025',
         ],
     )
