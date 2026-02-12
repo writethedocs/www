@@ -1,0 +1,480 @@
+- title: The Git Commands I Avoided for 9 Years (and Why I Wish I Hadn't)
+  slug: the-git-commands-i-avoided-for-9-years-and-why-i-wish-i-hadn-t-sarah-deaton
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2026
+  speakers:
+  - name: Sarah Deaton
+    slug: sarah-deaton
+    twitter:
+    website: https://sdeaton.com/
+  abstract: '<p>For the first nine years I worked in tech, I used Git the way many
+    people do: just enough to feel competent, but not enough to recover if anything
+    went sideways. I had my fair share of <code>git rebase</code> disasters, with
+    panic setting in, then me deleting the repo and re-cloning to start fresh.</p>
+
+    <p>When I discovered <code>git worktree</code>, I realized I''d been stubbornly
+    avoiding a lot of valuable Git features. I finally researched commands I''d ignored
+    or avoided because they seemed too complicated, and realized there were many that
+    would have saved me trouble, heartache, and wasted time over the years.</p>
+
+    <p>This talk is a writer-friendly tour of the Git commands I avoided for years,
+    and the calm workflows they unlock. We''ll cover practical tools like <code>git
+    worktree</code> (stop switching branches constantly), <code>git reflog</code>
+    (your safety net), and <code>git rerere</code> (resolve the same conflict once
+    instead of repeatedly).</p>
+
+    <p>I''ll anchor these concepts in real docs-as-code scenarios. By the end, you''ll
+    have concrete techniques you can use today to reduce friction and anxiety in your
+    documentation workflows, especially when juggling multiple changes at once.</p>'
+- title: 'Documentation Thinking Beyond the Docs: Lessons from Decision-Facing Technical
+    Writing'
+  slug: documentation-thinking-beyond-the-docs-lessons-from-decision-facing-technical-w-mary-elise-dedicke
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2026
+  speakers:
+  - name: Mary Elise Dedicke
+    slug: mary-elise-dedicke
+    twitter:
+    website: https://www.kitware.com/mary-elise-dedicke/
+  abstract: '<p>When I transitioned from software documentation to writing commercialization
+    strategies for federally funded research and development projects, I expected
+    to learn "business skills." Instead, I discovered that the documentation skills
+    I already had—audience analysis, information architecture, and iterative refinement—were
+    exactly what worked in high-stakes environments where skeptical reviewers decide
+    whether to fund a technical idea.</p>
+
+    <p>Over several years of writing proposals and commercialization plans for computer
+    vision, scientific visualization, medical imaging, and data &amp; analytics projects
+    at Kitware, I''ve applied documentation approaches in contexts where they aren''t
+    typically recognized. I''ve had to translate complex research for review panels
+    spanning physicists, program managers, and domain experts, often with limited
+    time to evaluate long, technically dense proposals. I''ve iterated on technical
+    narratives where structure and clarity mattered more than adding detail, and where
+    each revision cycle directly affected whether reviewers understood the core innovation.</p>
+
+    <p>This talk shares concrete lessons from decision-facing technical communication
+    that strengthen any technical narrative. I''ll walk through real scenarios and
+    show artifacts such as discriminators tables, concept diagrams, and structural
+    patterns that help readers quickly grasp value when they are skeptical or time-constrained.
+    Rather than focusing on grants themselves, the talk centers on transferable documentation
+    principles that proved most effective beyond traditional manuals and reference
+    pages.</p>'
+- title: Writing the Docs when the Protocol is the Product
+  slug: writing-the-docs-when-the-protocol-is-the-product-alex-garnett
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2026
+  speakers:
+  - name: Alex Garnett
+    slug: alex-garnett
+    twitter:
+    website: webambler.com
+  abstract: '<p>I joined Bluesky as their first Devrel hire in October 2025. At that
+    time—stop me if you’ve heard this one before—they had two different docs presences
+    that did not necessarily complement each other in terms of either coverage or
+    UX. In fairness, there was a reason for this.</p>
+
+    <p>Bluesky is both the name of my employer and the name of what nearly everyone
+    thinks of as our primary product. For this reason, it’s been necessary for us
+    to have dedicated Bluesky docs, so people wanting to create bots and third-party
+    clients can find implementation patterns for these sorts of features that are
+    common to most social networks.</p>
+
+    <p>Our real primary product, however, is the Atmosphere. The Atmosphere is the
+    ecosystem of the AT Protocol, a new way of building and managing social applications
+    that work more like the web: open, interoperable, and not controlled by a single
+    corporation. Bluesky APIs are almost all narrowly-scoped versions of Atmosphere
+    APIs, implementing only the Bluesky Lexicon out of all the Lexicons in our network.
+    </p>
+
+    <p>In this talk, you’ll learn about the decisions we made when rewriting and relaunching
+    the Atmosphere docs with the goal of being able to subsume the dedicated Bluesky
+    docs into a single point of entry. You’ll see how we’ve designed interfaces to
+    our Lexicons that make them look less like an intimidating API reference, and
+    more like an app catalog. And you’ll get to post about it!</p>'
+- title: What the Data Shows When Docs Meet LLMs (and Why I'm Excited for the Future)
+  slug: what-the-data-shows-when-docs-meet-llms-and-why-i-m-excited-for-the-future-ethan-palm
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2026
+  speakers:
+  - name: Ethan Palm
+    slug: ethan-palm
+    twitter:
+    website:
+  abstract: '<p>There has been a shift. Instead of people asking me, "What is technical
+    writing?" during small talk, they now ask, "Aren''t you worried about AI taking
+    your job?"</p>
+
+    <p>Not really. And I work for a company that built a writing agent and creates
+    self-updating documentation workflows. We also host thousands of documentation
+    sites—all of which are navigating the shift to AI-assisted content creation and
+    AI-mediated content interaction. (Also, I, a human, chose to use that em dash.)</p>
+
+    <p>Data can be hard to come by for documentation teams. I am in the rare position
+    where I have lots of it. And I want to share it. I can see how teams actually
+    use AI tools, where automation succeeds and fails, and how technical writer roles
+    are evolving.</p>
+
+    <p>In this talk, I''ll share:</p>
+
+    <ul>
+
+    <li>What the data reveals about LLM impact on documentation (and what it doesn''t)</li>
+
+    <li>How users engage with documentation sites and what behaviors are changing</li>
+
+    <li>Practical approaches for supporting our users with high-quality documentation</li>
+
+    <li>A brief rant about em dashes</li>
+
+    <li>Why I''m excited about the future of our profession</li>
+
+    </ul>'
+- title: 'Pillars That Hold: Structuring Documentation Around User Progress'
+  slug: pillars-that-hold-structuring-documentation-around-user-progress-annie-zempel
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2026
+  speakers:
+  - name: Annie Zempel
+    slug: annie-zempel
+    twitter:
+    website:
+  abstract: '<p>Highly technical documentation can contain everything users need and
+    still leave them stuck. I learned this the hard way when I inherited an existing
+    documentation set for a comprehensive security and log management product. </p>
+
+    <p>The content was often packed with useful detail, but it assumed a level of
+    context many end users did not yet have. On paper, almost everything was there.
+    In practice, however, many users still struggled with the same questions: Where
+    do I start? Am I in the right place? And what am I supposed to do next?</p>
+
+    <p>Instead of rewriting the documentation from scratch, I redesigned its structure.
+    I built an information architecture that maps content to the user journey from
+    “nothing installed” to “operational outcomes.” My team and I then defined a set
+    of ten core knowledge pillars that span the full journey. Each pillar became a
+    stable zone with a clear purpose, explicit boundaries, and a “definition of done,”
+    so users could orient themselves and move forward with confidence.</p>
+
+    <p>This talk shares:</p>
+
+    <ul>
+
+    <li>What we tried and learned through iteration</li>
+
+    <li>How knowledge pillars helped us design documentation that supports wayfinding
+    and progressive disclosure without depending on a specific toolset</li>
+
+    <li>How stakeholder interviews and real-world feedback shaped the pillar boundaries
+    and validated the journey</li>
+
+    </ul>
+
+    <p>You’ll leave with a practical approach you can adapt to structure documentation
+    around stages of progress, especially when you’re working with inherited content
+    and users who are still upskilling.</p>'
+- title: What I Learned Building an AI Documentation Auditor (And What It Found in
+    500+ Pages of Docs)
+  slug: what-i-learned-building-an-ai-documentation-auditor-and-what-it-found-in-500-p-rakesh-pasupuleti
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2026
+  speakers:
+  - name: Rakesh Pasupuleti
+    slug: rakesh-pasupuleti
+    twitter:
+    website: https://rakeshpasupuleti.com
+  abstract: '<p>Last year, I spent three months manually auditing a major developer
+    documentation portal. I found deprecated code examples, broken API references,
+    and outdated content—but the real problem was that the audit was obsolete within
+    weeks. So I built an AI tool to do it continuously.</p>
+
+    <p>This talk shares what I learned about building the tool and about the patterns
+    of documentation debt it exposed.</p>
+
+    <p>You''ll hear about:</p>
+
+    <ul>
+
+    <li>The 5 quality dimensions that actually matter for developer docs (and why
+    "freshness" kills you faster than you think)</li>
+
+    <li>Specific patterns of documentation rot: deprecated methods that copy-paste
+    into broken code, version mismatches between prose and examples, API references
+    to endpoints that no longer exist</li>
+
+    <li>What AI can reliably detect vs. where it hallucinates (spoiler: it''s great
+    at syntax errors, terrible at "is this explanation clear?")</li>
+
+    <li>A framework for prioritizing fixes when you have 47 issues and time to fix
+    5</li>
+
+    </ul>
+
+    <p>What this talk is NOT: a product pitch, a claim that AI replaces writers, or
+    a recommendation to use any specific tool.</p>
+
+    <p>What you''ll take away: a checklist of common documentation debt patterns,
+    practical criteria for evaluating AI-assisted tools, and a prioritization framework
+    for when you have too many issues and not enough time.</p>'
+- title: '"Chat, Are We Cooked?" Help in the Moment: Designing Policy Documentation
+    for High-Stakes, Real-Time Decisions'
+  slug: chat-are-we-cooked-help-in-the-moment-designing-policy-documentation-for-hi-darlene-chanimaya-postma
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2026
+  speakers:
+  - name: Darlene ChaniMaya Postma
+    slug: darlene-chanimaya-postma
+    twitter:
+    website: oddsoul.blog
+  abstract: '<p>In the world of live streaming, when something unexpected happens,
+    creators need answers in seconds. Picture this: A Twitch creator is live streaming
+    to 500 viewers, when unexpected sexual content appears in the sponsored indie
+    game they''re playing. Chat erupts: "You''re gonna get banned!" Is that true?
+    No one knows. Moderators frantically search the Help Center on behalf of the creator,
+    who must continue the stream. They find nothing conclusive. The creator does their
+    best to manage the situation, completing the stream and deleting the recorded
+    video (VOD) out of an abundance of caution. The creator spends days anxious over
+    potential consequences. </p>
+
+    <p>As the education program manager for Twitch, I hear stories like this constantly.
+    In December 2025, our team conducted a study with Partner streamers, who described
+    our policy documentation as "mushy" and "wishy-washy"—not because we lacked information,
+    but because it didn''t help them make decisions under pressure in the moment as
+    something urgent unfolded live on stream. </p>
+
+    <p>Traditional documentation assumes users have time to read and plan. Crisis
+    documentation requires a completely different approach. This talk shares how Twitch
+    is redesigning our Community Guidelines supporting documentation to function as
+    real-time decision support, while remaining mindful of risks and other factors.</p>'
+- title: 'Drops of Jupyter: An Exploration of the Notebook Ecosystem'
+  slug: drops-of-jupyter-an-exploration-of-the-notebook-ecosystem-adam-michael-wood
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2026
+  speakers:
+  - name: Adam Michael Wood
+    slug: adam-michael-wood
+    twitter:
+    website: http://adammichaelwood.com
+  abstract: '<p>Many of us who write both prose and code fell in love with Jupyter
+    notebooks quickly, but have also run into many of the limitations they pose for
+    diverse types of technical communication, computational exploration, and software
+    development. This talk looks at a number of alternative notebook and notebook-adjacent
+    tools and how each serves the needs of different contexts and use cases.</p>
+
+    <p>While this is, on the surface, a talk about "tooling," it isn''t promoting
+    a specific tool or serving as a tutorial. Rather, it explores how a variety of
+    tools have grown up to meet diverse needs, and how those different tools reflect
+    and serve different paradigms, mental models, and processes.</p>
+
+    <p>Different notebook systems focus more on (or are better suited to) computational
+    exploration, or data analysis, or narrative communication, or visual communication,
+    or literate programming for software development. So yes, it''s a talk about tools.
+    But it''s really a talk about different ways we use computation and prose together
+    for different purposes.</p>'
+- title: You Don't Need More New Contributors — You Need Onboarding That Actually
+    Works
+  slug: you-don-t-need-more-new-contributors-you-need-onboarding-that-actually-works-busayo-ojo
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2026
+  speakers:
+  - name: Busayo Ojo
+    slug: busayo-ojo
+    twitter:
+    website:
+  abstract: '<p>We''re always talking about how hard it is to get contributors for
+    open source documentation. But what if the problem isn''t that people don''t want
+    to help? What if we''re just making it way too hard for them to start?</p>
+
+    <p>I''ve spent the last few years working on documentation for projects like CHAOSS
+    and running Hacktoberfest events, and I kept seeing the same thing happen: people
+    would show up excited to contribute, and then... nothing. They''d get stuck, confused,
+    or just disappear.</p>
+
+    <p>So I started paying attention to what was actually stopping them. And it wasn''t
+    what I expected.</p>
+
+    <p>This talk is about what I learned from watching people try (and fail) to make
+    their first documentation contribution. I''ll share the specific things that kept
+    tripping people up, and what actually worked when we changed our approach.</p>
+
+    <p>If you''ve ever wondered why people aren''t contributing to your docs even
+    though they said they would, or if you want to make it easier for newcomers to
+    actually get started, this talk might help.</p>'
+- title: 'The Invisible Work: What It Takes to Be the First (and Only) Tech Writer
+    on the Team'
+  slug: the-invisible-work-what-it-takes-to-be-the-first-and-only-tech-writer-on-the-alina-desiatnikova
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2026
+  speakers:
+  - name: Alina Desiatnikova
+    slug: alina-desiatnikova
+    twitter:
+    website:
+  abstract: '<p>Being the first and only Technical Writer on a team doesn’t just mean
+    documenting features—it means becoming a bridge, educator, advocate, and culture‑builder
+    all at once.</p>
+
+    <p>Over time, I’ve learned that while documentation is often undervalued or taken
+    for granted, it quietly shapes everything: from product clarity to better UI to
+    an improved API experience. I’ve had the “Can’t AI just write this?” conversation—more
+    than once—and I’ve learned to respond by showing that Tech Writers don’t just
+    write. We structure and amplify the organization’s product knowledge.</p>
+
+    <p>Whether you’re just starting as the only Technical Writer or already leading
+    documentation efforts solo, you’ll walk away with actionable insights—and the
+    confidence to turn invisible work into visible, lasting impact.</p>
+
+    <p>In this talk, I’ll share:</p>
+
+    <ul>
+
+    <li>How to communicate the value of technical writing when your role is unclear
+    or misunderstood</li>
+
+    <li>Practical approaches to building effective documentation from scratch, without
+    a dedicated docs team</li>
+
+    <li>How to build trust and collaborate with engineers, product managers, and designers
+    as a solo writer</li>
+
+    <li>How to stay focused, resilient, and energized—without burning out—while carrying
+    the documentation function alone</li>
+
+    </ul>'
+- title: The Most Human Documentation
+  slug: the-most-human-documentation-christian-miles
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2026
+  speakers:
+  - name: Christian Miles
+    slug: christian-miles
+    twitter:
+    website: https://cjlm.ca
+  abstract: '<p>In 2011, Brian Christian’s <em>The Most Human Human</em> explored
+    what it means to be human through the lens of the Loebner Prize—a competition
+    between the best chatbots at the time via a tournament of Turing Tests.</p>
+
+    <p>Looking back from 2026 the book remains insightful yet there’s something quaint
+    about both the competition and the Turing Test itself.</p>
+
+    <p>Last year, I released an Open Source Vale.sh <a href="https://github.com/ammil-industries/vale-signs-of-ai-writing">plugin</a>
+    that highlights features of writing that can indicate that it is generated by
+    AI. Drawing from crowdsourced data from Wikipedia editors, it’s an example of
+    human-curated workflow augmentation that guides and teaches rather than generates
+    or replaces.</p>
+
+    <p>Applying this to production use cases illuminates the current landscape of
+    assistive writing tools that amplify human craft. Attendees will leave with an
+    understanding of:</p>
+
+    <ul>
+
+    <li>How bespoke tools can help navigate a socially complex environment created
+    by the profligate proliferation of AI technologies</li>
+
+    <li>The reality of systematizing rules in a world of squishy language</li>
+
+    <li>How friction should be embraced when striving for the clearest possible communication
+    of technical ideas</li>
+
+    </ul>'
+- title: 'How We Deprecated 500+ Articles: Cleaning Up Documentation at Scale'
+  slug: how-we-deprecated-500-articles-cleaning-up-documentation-at-scale-aileen-mary
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2026
+  speakers:
+  - name: Aileen Mary
+    slug: aileen-mary
+    twitter:
+    website:
+  abstract: '<p>Imagine a small SaaS product with a well-structured help center. The
+    documentation is lean, accurate, and easy to maintain. Content ownership shifts
+    organically from product managers to product marketers to the support team, and
+    for a while, it works.</p>
+
+    <p>Then, the wake-up call from the support team: “We could improve bot deflection
+    by 30% just by fixing the content.” Our solution articles were feeding our support
+    bot, and the bot was only as good as the documentation it learned from.</p>
+
+    <p>As our company evolved from a single SMB product into an enterprise platform,
+    documentation grew explosively. With each iteration, we added new articles without
+    retiring old ones. Additionally, we accumulated FAQ articles, most of them duplicating
+    content that already existed in long-form articles. </p>
+
+    <p>The challenge wasn''t that we lacked documentation. It was that we had a documentation
+    abundance problem.</p>
+
+    <p>In this talk, I’ll share:</p>
+
+    <ul>
+
+    <li>How we deprecated over 500 articles, nearly 30% of our Knowledge Base, through
+    a systematic, data-driven process aligned with support metrics and product priorities</li>
+
+    <li>How we audited content using time-based and traffic-based signals </li>
+
+    <li>How we aligned product and support teams on deprecation decisions</li>
+
+    <li>Our framework for updating, retiring, or merging content</li>
+
+    <li>The measurable impact on bot accuracy and why quality beat quantity</li>
+
+    </ul>'
+- title: 'How to Win Docs and Influence Robots: Improving Robot Accuracy Through Better
+    Docs'
+  slug: how-to-win-docs-and-influence-robots-improving-robot-accuracy-through-better-do-sarah-lin
+  series: Write the Docs Portland
+  series_slug: portland
+  year: 2026
+  speakers:
+  - name: Sarah Lin
+    slug: sarah-lin
+    twitter:
+    website:
+  abstract: '<p>Crafting quality documentation requires enormous time and energy.
+    Yet, product users often find it faster and easier to query robots than to navigate
+    a documentation site. (In this sense, ‘robots’ refers to web crawlers, large language
+    models, answer engines, and overarching AI technologies that enable our users
+    to consume our content.) This leads us to two related questions:</p>
+
+    <ul>
+
+    <li>How do we know if the robots give people accurate information?</li>
+
+    <li>If the robot is incorrect, how can we improve its answers?</li>
+
+    </ul>
+
+    <p>This session will walk participants through how to influence the accuracy of
+    AI tool answers through product documentation. MongoDB''s Information Architect
+    will share the combination of writing guidelines and structural changes that have
+    kept MongoDB’s internal accuracy metrics at 93% across ~8 answer engines.</p>
+
+    <p>We''ll discuss:</p>
+
+    <ul>
+
+    <li>Principles of writing for robots in an AI world</li>
+
+    <li>How ChatGPT, Gemini, Meta, and other LLMs'' performance metrics were tracked</li>
+
+    <li>Lessons learned about testing the same prompts across multiple answer engines
+    over time</li>
+
+    <li>How to prioritize improvements to the docs that are manageable for the size
+    of your team</li>
+
+    </ul>
+
+    <p>This talk will help you understand the difference between content designed
+    solely for human consumption and content suited for both human and AI consumption.</p>'
