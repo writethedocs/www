@@ -1,6 +1,6 @@
 ---
 template: {{year}}/generic.html
-og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
+og:image: _static/conf/images/headers/{{ shortcode }}-{{year}}-opengraph.jpg
 banner: _static/conf/images/headers/2025/sponsors.jpg
 ---
 
@@ -22,7 +22,7 @@ Portland, Oregon 97214
 * 9:00am-5:00pm: Writing Day and check in
 * 5:00-7:00pm: Welcome reception
 
-**MONDAY, MAY 5**:
+**MONDAY, MAY 4**:
 
 * 7:00am: Arrival and booth setup for Keystone/Patron sponsors
 * 8:00am: Doors to venue/sponsor booths open
@@ -31,11 +31,11 @@ Portland, Oregon 97214
 * 5:00-7:00pm: Evening break
 * 7:00-9:00pm: Evening party at Jupiter NEXT (800 E Burnside St, 2nd floor)
 
-**TUESDAY, MAY 6**:
+**TUESDAY, MAY 5**:
 
 * 8:15am: Keystone/Patron sponsor arrival
 * 8:30am: Doors to venue/sponsor booths open
-* 8:30am-4:10pm: Speaker Talks and Unconference
+* 9:20am-4:10pm: Speaker Talks and Unconference
 * 4:30pm: Conference ends/load out
 * 5:30pm: Out of venue 
 
@@ -80,11 +80,11 @@ Sponsor booths are setup in the main hallway on Monday and Tuesday outside of th
   - Table linen
   - Laptop/tablets/monitor to display your product - WTD can provide monitors for an additional fee if required
   - Banner (confirm this fits behind a 6' table)
-* **Arrive at 7:00am for setup**: The conference venue opens at 8:00am and attendees arrive promptly. Sponsorship Coordinator will send load-in instructions closer to the conference.
+* **Arrive at 7:00am for setup**: The conference venue opens at 8:00am and attendees arrive promptly. Sponsorship Coordinator will email load-in instructions closer to the conference.
 * **Be present at your booth are during the breaks and at the start of lunch break.**
 * **Bring swag (especially stickers)**: Stickers are by far the most popular item for our attendees.
 * **Engage with folks as both a sponsor and attendee**: This is a great opportunity to meet folks in the community, so we recommend engaging with folks in an official capacity, but also as a regular attendee.
-* **Use QR codes**: QR codes are a great way to get people to a website quickly. We recommend using a service like [QR Code generator](https://www.qr-code-generator.com/>) to create these.
+* **Use QR codes**: QR codes are a great way to get people to a website quickly. We recommend using a service like [QR Code generator](https://www.qr-code-generator.com/) to create these.
 
 ### Lightning Talk Sponsor
 
@@ -105,7 +105,7 @@ Host an Unconference session. This is a wonderful opportunity to lead, contribut
 
 * Sessions are 40 minutes in length on Monday and Tuesday.
 * Let us know in advance if you plan to run an unconference session so we can confirm a suitable timeslot for you.
-* View more on how to Lead a Session on our [Unconference](/conf/{{shortcode }}/{{ year }}/unconference/) page.
+* View more on how to Lead a Session on our [Unconference](/conf/{{ shortcode }}/{{ year }}/unconference/) page.
 
 ## Frequently Asked Questions
 
