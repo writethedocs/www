@@ -43,7 +43,7 @@ Portland, Oregon 97214
 
 * **SUNDAY**: The conference begins with [Writing Day](/conf/{{ shortcode }}/{{ year }}/schedule/) and typically is attended by one third of our attendees. The Welcome Reception takes place in the evening and brings in an additional wave of attendees. **There are no sponsor booths this day**, but sponsors are encouraged to submit and lead a Writing Day project.
 
-* **MONDAY**: Day 1 of Speaker Talks and Unconference. Booth setup for Keystone and Patron sponsors. Attendees arrive promptly when doors open, and the remaining two thirds of attendees checking in this morning. Sponsor introductions are on the main stage for Keystone and Patron sponsors. The day features seven speaker talks with short breaks between each session, and the Unconference track runs in parallel. An offsite social gathering is held Monday evening.
+* **MONDAY**: Day 1 of Speaker Talks and Unconference. Booth setup for Keystone and Patron sponsors. Attendees arrive promptly when doors open, and the remaining two thirds of attendees check in that morning. Sponsor introductions are on the main stage for Keystone and Patron sponsors. The day features seven speaker talks with short breaks between each session, and the Unconference track runs in parallel. An offsite social gathering is held Monday evening.
 
 * **TUESDAY**: Day 2 of Speaker Talks and Unconference. The day features six speakers. Schedule reflects Monday with slight adjustments to beginning and end times.
 
