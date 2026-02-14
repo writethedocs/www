@@ -19,14 +19,26 @@ Location
 Date
     {{ date.short }}
 
+Talk length
+    30 minutes of presentation followed by 5 minutes moderated Q&A
+
 Projector specs
     1920 x 1200 resolution at 60Hz via HDMI, DisplayPort or VGA
 
-Talk length
-    30 minutes of presentation followed by 10 mins moderated Q&A
+Adapters
+       USB-C to HDMI adapters are provided but if you need a specific adaptor, please let us know
 
 Microphones
     We have both over ear (preferred) and handheld
+
+Clicker
+    We will provide a clicker if you'd like to use it with your computer slides (not required)
+
+Confidence monitor
+    There will be a monitor downstage left that displays what the audience sees on the screen
+
+What to wear
+    We encourage you to wear clothing that you feel comfortable in. Do consider the over ear microphone when selecting your clothing.
 
 Pre-conference Schedule
 -----------------------
@@ -36,11 +48,11 @@ Pre-conference Schedule
 
 **{{cfp.notification}}**
     We'll let you know whether your proposal was accepted, and ask for some supplementary information about you.
-    Make sure to confirm your talk as soon as you get the email, and update your pronouns, photo, name pronunciation, and bio in `Pretalx <https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/>`__.
+    Make sure to confirm your talk as soon as you get the email, and update your pronouns, photo, name pronunciation, bio , and hoodie size in `Pretalx <https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/>`__.
 
 **{{cfp.speaker_tickets_by}}**
     Register your free speaker ticket with dietary preferences (we'll email you a ticket link beforehand).
-    Make sure `Pretalx <https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/>`__ has all of your info, including hoodie size for a free speaker hoodie.
+    Make sure `Pretalx <https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/>`__ has all of your updated info. 
 
 **{{cfp.slides_by}}**
     Upload a copy of your slides so our human captioners can prepare for your talk. We'll email you an upload link beforehand.
@@ -51,12 +63,6 @@ Pre-conference Schedule
 Conference Schedule
 --------------------
 
-Your speaker tech check will be directly before the morning or afternoon session you are speaking at, bring the laptop you'll be using to present.
-
-For example if you speak at 10:00am on Tuesday, your tech will be at 7:45am on Tuesday. Meet in front of the main stage.
-
-View the full `attendee schedule <https://www.writethedocs.org/conf/portland/2026/schedule/>`__.
-
 SUNDAY
 ~~~~~~
 
@@ -66,17 +72,23 @@ MONDAY
 ~~~~~~
 
 - 8:00-8:30am: Morning Speaker tech checks at main stage
-- 9:00am-11:55am: Speaker Talks
-- 11:55am-12:25pm: Afternoon Speaker tech checks at main stage
-- 1:45pm-4:40pm: Speaker Talks
+- 9:00am-11:50am: Speaker Talks
+- 11:50am-12:30pm: Afternoon Speaker tech checks at main stage
+- 2:00pm-4:50pm: Speaker Talks
 
 TUESDAY
 ~~~~~~~
 
-- 7:45am-8:10am: Morning Speaker tech checks at main stage
-- 8:30-11:25pm: Speaker Talks
-- 11:35-12:25pm: Afternoon Speaker tech checkss at main stage
-- 2:00-3:50pm: Afternoon Speaker Talks
+- 8:30-9:00am: Morning Speaker tech checks at main stage
+- 9:20-11:50pm: Speaker Talks
+- 11:50-12:20pm: Afternoon Speaker tech checks at main stage
+- 2:00-4:05pm: Afternoon Speaker Talks
+
+Your speaker tech check will be directly before the morning or afternoon session you are speaking at, bring the laptop you'll be using to present.
+
+For example if you speak Tuesday between 2:00 and 4:30pm, your tech will be during the lunch hour on Tuesday. We'll send a calendar invite with your exact tech time. Meet in front of the main stage.
+
+View the full `attendee schedule <https://www.writethedocs.org/conf/portland/2026/schedule/>`__.
 
 Speaking Tips
 -------------
@@ -87,11 +99,10 @@ Media Kit
 ----------
 
 Share with your communities that you are speaking at the conference.
-Download copy and graphics from our `Speaker Media Kit <https://drive.google.com/drive/folders/1gVmIjX5hMklJiFitAllukzENA4SIBic9?usp=sharing>`__.
+Download copy and graphics from our `Speaker Media Kit <https://drive.google.com/drive/folders/1hujeKUlasLw3xqnEb0EoUbJ18RANN3e_?usp=sharing>`__.
 
 This includes:
 
 - Social media copy
-- "I am a speaker" graphic
 - Individual graphic
 - Event graphic
