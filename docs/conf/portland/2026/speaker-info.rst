@@ -19,11 +19,14 @@ Location
 Date
     {{ date.short }}
 
+Talk length
+    30 minutes of presentation followed by 5 minutes moderated Q&A
+
 Projector specs
     1920 x 1200 resolution at 60Hz via HDMI, DisplayPort or VGA
 
-Talk length
-    30 minutes of presentation followed by 5 minutes moderated Q&A
+Adapters
+       USB-C to HDMI adapters are provided but if you need a specific adaptor, please let us know
 
 Microphones
     We have both over ear (preferred) and handheld
