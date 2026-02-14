@@ -9,22 +9,37 @@ Held on Sunday, Writing Day marks the official start of the conference.
 
 Writing Day is modeled after the concept of [code sprints](https://en.wikipedia.org/wiki/Sprint_%28software_development%29) or hackathons, which are common in open-source (OSS) conferences. Traditionally, this day has centered on collaborative work with attendees bringing a project to lead and/or contributing to someone else's project, typically half-day or full-day sessions.
 
+To create more ways for attendees to take part on Sunday, we are expanding Writing Day to include additional, shorter-format options such as workshops and discussions.
+
 ## How to participate in Writing Day in 2026
 
-To create more ways for attendees to take part on Sunday, we are expanding Writing Day to include additional, shorter-format options such as workshops and discussions.
+**Attend and participate in one of the following activities:**
 
 - Writing Day (half-day or full-day projects)
 - New to GitHub workshops
 - Resume writing session
 - A pre-scheduled, discussion-based track
 
-More information about workshops, resume writing sessions, and the discussion-based track will be shared in the coming months. No additional sign up is required. Read more information below on how to lead or contribute to a Writing Day project. 
+More information about workshops, resume writing sessions, and the discussion-based track will be shared in the coming months. No additional sign up is required. 
+
+Read more information below on how to participate in a Writing Day project below.
 
 ## Writing Day schedule
 
 **{{date.day_two.dotw}}, {{date.day_two.date}}, {{date.day_two.writing_day_time}} {{tz}}**
 
 Writing Day is an all-day event designed for you to join in throughout the day. Whether you want to contribute to a half-day project, join an hour-long discussion, or attend a GitHub workshop, there is an option for you.
+
+- **Morning Session**
+  - Welcome and overview
+  - Project announcements: Leads give a 2 minute summary and projects begin
+  - GitHub workshops
+- **Lunch Break**
+- **Afternoon Session**
+  - Project announcements: Leads give a 2 minute summary, starting with the afternoon-only projects, and projects reconvene
+  - Github workshop
+  - Resume writing session
+  - Discussion-based track
 
 Exact times will be posted on our [schedule page](/conf/{{shortcode}}/{{year}}/schedule/).
 
