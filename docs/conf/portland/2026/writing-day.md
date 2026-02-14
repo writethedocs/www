@@ -7,7 +7,7 @@ banner: _static/conf/images/headers/2026/writing-day.jpg
 
 Held on Sunday, Writing Day marks the official start of the conference.
 
-Writing Day is modeled after the concept of [code sprints](http://en.wikipedia.org/wiki/Sprint_%28software_development%29) or hackathons, which are common in open-source (OSS) conferences. Traditionally, this day has centered on collaborative work with attendees bringing a project to lead and/or contributing to someone else's project, typically half-day or full-day sessions.
+Writing Day is modeled after the concept of [code sprints](https://en.wikipedia.org/wiki/Sprint_%28software_development%29) or hackathons, which are common in open-source (OSS) conferences. Traditionally, this day has centered on collaborative work with attendees bringing a project to lead and/or contributing to someone else's project, typically half-day or full-day sessions.
 
 ## How to participate in Writing Day in 2026
 
@@ -18,7 +18,7 @@ To create more ways for attendees to take part on Sunday, we are expanding Writi
 - Resume writing session
 - A pre-scheduled, discussion-based track
 
-More information about these offerings will be shared in the coming months.
+More information about workshops, resume writing sessions, and the discussion-based track will be shared in the coming months. No additional sign up is required. Read more information below on how to lead or contribute to a Writing Day project. 
 
 ## Writing Day schedule
 
@@ -46,7 +46,7 @@ Leading a project at Writing Day is a wonderful opportunity to engage with docum
 - **Pre-label tasks and issues:** Create a specific event label and label documentation tasks and issues. This empowers new contributors to find tasks that interest them.
 - **Create a task filter:** This helps contributors find issues more easily and see which issues have been assigned.
 - **Clear onboarding:** Ensure your README, contribution guidelines, or onboarding instructions are accurate and up to date.
-- **Project experts:** We recommend having 1-2 people leading a project. You are welcome to call for virtual reinforcements from your community as well.
+- **Project experts:** We recommend having 1-2 people leading a project. You are welcome to call for virtual reinforcements from your community. If you need additional support onboarding volunteers, the WTD staff team will share this opportunity with the community. View further information in the [Call for Projects form](https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform?usp=sharing&ouid=109538527958730243648).
 - **Flexibility and understanding:** Reminder that attendees may need additional info to be successful in onboarding to your project.
 - **Submit your Writing Day project before the conference:** Projects submitted by **April 22, 2026** are featured in our pre-conference blog post and email. Many attendees have shared that their curiosity for specific projects motivated them to attend. Project submissions open in February/March.
 
@@ -54,18 +54,18 @@ These are suggestions and not requirements. It is perfectly valid to show up to 
 
 ## Contribute to a Project
 
-If you are a Writing Day attendee looking to contribute to a project, check out the project list. Reminder: some projects are submitted the day of during announcements.
+Writing Day is the perfect opportunity to participate and learn about new projects and technologies. You are welcome to stay with one project all day, or project hop. 
 
 **Tips to contribute to a project:**
 
-- Regardless of your experience level, you are welcome here. We are excited to have you. Even if you feel you lack the right skills, experiences, or have never attended an event like Writing Day before, you will be surprised at how much you can contribute.
-- **Explore our guide to writing documentation.** Our [Beginners Guide](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) is designed to help you get started and spark ideas for how you can contribute to a project.
+- **Regardless of your experience level, you are welcome here.** We are excited to have you. Even if you feel you lack the right skills, experiences, or have never attended an event like Writing Day before, you will be surprised at how much you can contribute.
+- **Explore our guide to writing documentation.** Our [Beginner's Guide](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) is designed to help you get started and spark ideas for how you can contribute to a project.
 - **Ask questions.** If you encounter challenges with new concepts and tools, you are in a room surrounded by friendly people from diverse backgrounds and experiences. You can always ask the Welcome Wagon or Registration staff and volunteers. We will help you connect with the right person.
-- **View the project list.** Check out the projects that have been submitted in advance.
+- **View the project list.** Check out the projects that have been submitted in advance. This will be shared in April. Reminder that some projected are submitted day of. 
 
 ## Submit your project
 
-We encourage you to submit a Writing Day project in advance. **If you submit your project by April 3, we will share your project in a blog post and email with our attendees before the conference.**
+We encourage you to submit a Writing Day project in advance. **If you submit your project by April 22, 2026 we will share your project in a blog post and email with our attendees before the conference.**
 
 [Submit projects](https://forms.gle/NNBzBCwjdB2vF7ZeA)
 
