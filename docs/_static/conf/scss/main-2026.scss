@@ -623,6 +623,11 @@ body .uk-offcanvas-slide a.uk-button-ghost {
     .uk-container {
         padding: 48px 24px;
 
+        // Remove paragraph margins in news list items to fix double-spacing
+        .postlist .ablog-post p {
+            margin: 0;
+        }
+
         a:hover {
             text-decoration: none;
         }
