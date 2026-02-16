@@ -26,7 +26,7 @@ Read more information below on how to participate in a Writing Day project below
 
 <div class="announcement" style="background-color:white;">
     <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform?usp=dialog">Submit your Writing Day project</a>
+    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ writing_day.url }}">Submit your Writing Day project</a>
     </div>
 </div>
 
@@ -63,7 +63,7 @@ Leading a project at Writing Day is a wonderful opportunity to engage with docum
 
 <div class="announcement" style="background-color:white;">
     <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform?usp=dialog">Submit your Writing Day project</a>
+    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ writing_day.url }}">Submit your Writing Day project</a>
     </div>
 </div>
 
@@ -73,7 +73,7 @@ Leading a project at Writing Day is a wonderful opportunity to engage with docum
 - **Pre-label tasks and issues:** Create a specific event label and label documentation tasks and issues. This empowers new contributors to find tasks that interest them.
 - **Create a task filter:** This helps contributors find issues more easily and see which issues have been assigned.
 - **Clear onboarding:** Ensure your README, contribution guidelines, or onboarding instructions are accurate and up to date.
-- **Project experts:** We recommend having 1-2 people leading a project. You are welcome to call for virtual reinforcements from your community. If you need additional support onboarding volunteers, the WTD staff team will share this opportunity with the community. View further information in the [Call for Projects form](https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform?usp=sharing&ouid=109538527958730243648).
+- **Project experts:** We recommend having 1-2 people leading a project. You are welcome to call for virtual reinforcements from your community. If you need additional support onboarding volunteers, the WTD staff team will share this opportunity with the community. View further information in the [Call for Projects form]({{ writing_day.url }}).
 - **Flexibility and understanding:** Reminder that attendees may need additional info to be successful in onboarding to your project.
 - **Submit your Writing Day project before the conference:** Projects submitted by **April 22, 2026** are featured in our pre-conference blog post and email. Many attendees have shared that their curiosity for specific projects motivated them to attend. Project submissions open in February/March.
 
@@ -92,9 +92,9 @@ Writing Day is the perfect opportunity to participate and learn about new projec
 
 ## Submit your project
 
-We encourage you to submit a Writing Day project in advance. **If you submit your project by April 3, 2026, we will share your project in a blog post and email with our attendees before the conference.**
+We encourage you to submit a Writing Day project in advance. **If you submit your project by April 22, 2026, we will share your project in a blog post and email with our attendees before the conference.**
 
-[Submit projects](https://forms.gle/NNBzBCwjdB2vF7ZeA)
+[Submit projects]({{ writing_day.url }})
 
 Walk-on projects are always welcome. You are still more than welcome to bring a project the day of and announce it during the actual Writing Day.
 
@@ -118,7 +118,7 @@ Incoming project information, check back here for updates closer to the conferen
 
 ## Contact us
 
-Email us at portland@writethedocs.org with any questions.
+Email us at {{ email }} with any questions.
 
 
 
