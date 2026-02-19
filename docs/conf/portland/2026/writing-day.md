@@ -13,12 +13,14 @@ To create more ways for attendees to take part on Sunday, we are expanding Writi
 
 ## How to participate in Writing Day in 2026
 
-**Attend and participate in one of the following activities:**
+### Attend and participate in one of the following activities:
 
-- Writing Day (half-day or full-day projects)
-- New to Git and GitHub workshops
-- Resume writing session
-- A pre-scheduled, discussion-based track
+- **Writing Day** (half-day or full-day projects)
+  - Lead a Project
+  - Contribute to a Project
+- **New to Git and GitHub workshops**
+- **Resume writing session**
+- **A pre-scheduled, discussion-based track**
 
 More information about workshops, resume writing sessions, and the discussion-based track will be shared in the coming months. No additional sign up is required. 
 
@@ -57,7 +59,9 @@ Exact times will be posted on our [schedule page](/conf/{{shortcode}}/{{year}}/s
 - [GitHub](https://github.com/) account (you may also want a [GitLab](https://about.gitlab.com/) account)
 - Text editor of your choice for coding or content creation
 
-## Lead a Project
+## How to Participate in a Writing Day Project
+
+### Lead a Project
 
 Leading a project at Writing Day is a wonderful opportunity to engage with documentarians from a variety of backgrounds, experience, and expertise. Their collective wealth of experience can help you upgrade your project documentation and create a more inclusive project. This empowers all of us to work together to create opportunities for each other and bigger, better communities.
 
@@ -79,7 +83,7 @@ Leading a project at Writing Day is a wonderful opportunity to engage with docum
 
 These are suggestions and not requirements. It is perfectly valid to show up to Writing Day the day of, tell us about your project, and ask for volunteers. It has been done before and it will be done again.
 
-## Contribute to a Project
+### Contribute to a Project
 
 Writing Day is the perfect opportunity to participate and learn about new projects and technologies. You are welcome to stay with one project all day, or project hop. 
 
