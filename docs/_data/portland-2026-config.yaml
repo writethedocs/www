@@ -160,7 +160,7 @@ cfp:
   ends: "January 19, 2026"                         # (Mon) 1 week, to review. It'll take a little longer to announce
   notification: "February 2, 2026"                 # (Mon) 8 weeks to write and prepare
   speaker_tickets_by: April 2, 2026               # (Mon) Approx 3 weeks before
-  slides_by: "April 27, 2026"                      # (Mon) 1 week before
+  slides_by: "April 20, 2026"                      # (Mon) 2 weeks before
   preview: "TBD"                                  # Preview URL TODO
 
 unconf:
