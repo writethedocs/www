@@ -29,9 +29,10 @@ We're excited to announce the [lineup of speakers and talks](https://www.writeth
 
 Each year, we curate a diverse range of voices to share insights from our community. As the role of “documentarian” varies greatly among us, we aim for topics that cover practical, philosophical, and technical ideas, with a touch of whimsy for good measure:
 
-```{datatemplate}
-:source: /_data/{{shortcode}}-{{year}}-sessions.yaml
-:template: {{year}}/speakers-simple-list.rst
+```{eval-rst}
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-sessions.yaml
+   :template: {{year}}/speakers-simple-list.rst
 ```
 
 # Buy your tickets soon
@@ -46,9 +47,10 @@ If you haven't gotten your ticket yet, now's the time to begin the process to at
 
 We are thankful to our sponsors for their role in making these events possible every year. A big thank you to each of these companies for supporting our community:
 
-```{datatemplate}
-:source: /_data/{{shortcode}}-{{year}}-config.yaml
-:template: {{year}}/sponsors-simplelist.rst
+```{eval-rst}
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-config.yaml
+   :template: {{year}}/sponsors-simplelist.rst
 ```
 
 If your company is interested in sponsoring, you can find all the necessary information in our [sponsorship prospectus](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/).

@@ -1,7 +1,6 @@
 ---
 template: {{year}}/generic.html
 banner: _static/conf/images/headers/2026/news.jpg
-title: Home | Write the docs Portland 2026
 ---
 
 # News

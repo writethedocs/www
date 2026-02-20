@@ -8,9 +8,10 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 {% if flagspeakersannounced %}
 
-```{datatemplate} 
-:source: /_data/{{shortcode}}-{{year}}-sessions.yaml
-:template: {{year}}/speakers.rst
+```{eval-rst}
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-sessions.yaml
+   :template: {{year}}/speakers.rst
 ```
 
 {% else %}  

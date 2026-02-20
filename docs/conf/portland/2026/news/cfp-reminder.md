@@ -65,9 +65,10 @@ Each year, we are grateful for the support of like-minded organizations that sha
 
 Thanks to our current sponsors:
 
-```{datatemplate} 
-:source: /_data/{{shortcode}}-{{year}}-config.yaml
-:template: {{year}}/sponsors-simplelist.rst
+```{eval-rst}
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-config.yaml
+   :template: {{year}}/sponsors-simplelist.rst
 ```
 
 

@@ -67,9 +67,10 @@ The [Call for Proposals](https://www.writethedocs.org/conf/{{shortcode}}/{{year}
 
 We appreciate the support of our sponsors. Thank you to the following companies:
 
-```{datatemplate}
-:source: /_data/{{shortcode}}-{{year}}-config.yaml
-:template: {{year}}/sponsors-simplelist.rst
+```{eval-rst}
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-config.yaml
+   :template: {{year}}/sponsors-simplelist.rst
 ```
 
 Your company can [become a sponsor](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/) today!

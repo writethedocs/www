@@ -51,9 +51,10 @@ Each year, we are grateful for the support of like-minded organizations that sha
 
 Thanks to our current sponsors:
 
-```{datatemplate} 
-:source: /_data/{{shortcode}}-{{year}}-config.yaml
-:template: {{year}}/sponsors-simplelist.rst
+```{eval-rst}
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-config.yaml
+   :template: {{year}}/sponsors-simplelist.rst
 ```
 
 
@@ -62,6 +63,5 @@ Thanks to our current sponsors:
 Check out our [sponsorship prospectus](https://www.writethedocs.org/conf/portland/2026/sponsors/prospectus/) to learn more and join the community.
 
 We look forward to an excellent year!
-
 
 

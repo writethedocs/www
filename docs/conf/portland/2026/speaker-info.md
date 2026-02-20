@@ -68,7 +68,9 @@ There are no speaker-specific requirements this day but we encourage you to join
 
 ## Speaking Tips
 
+```{eval-rst}
 {% include "conf/portland/speaking-tips-2025.rst" %}
+```
 
 ## Media Kit
 
