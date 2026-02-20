@@ -11,9 +11,9 @@ Writing Day is modeled after the concept of [code sprints](https://en.wikipedia.
 
 To create more ways for attendees to take part on Sunday, we are expanding Writing Day to include additional, shorter-format options such as workshops and discussions.
 
-## How to participate in Writing Day in 2026
+## How to Participate in Writing Day in 2026
 
-### Attend and participate in one of the following activities:
+### Attend and Participate in One of the Following Activities
 
 - **Writing Day** (half-day or full-day projects)
   - Lead a Project
@@ -22,9 +22,9 @@ To create more ways for attendees to take part on Sunday, we are expanding Writi
 - **Resume writing session**
 - **A pre-scheduled, discussion-based track**
 
-More information about workshops, resume writing sessions, and the discussion-based track will be shared in the coming months. No additional sign up is required. 
+More information about workshops, resume writing sessions, and the discussion-based track will be shared in the coming months. No additional sign up is required.
 
-Read more information below on how to participate in a Writing Day project below.
+Read more information below on how to participate in a Writing Day project.
 
 <div class="announcement" style="background-color:white;">
     <div class="uk-container">
@@ -32,7 +32,7 @@ Read more information below on how to participate in a Writing Day project below
     </div>
 </div>
 
-## Writing Day schedule
+## Writing Day Schedule
 
 **{{date.day_two.dotw}}, {{date.day_two.date}}, {{date.day_two.writing_day_time}} {{tz}}**
 
@@ -42,10 +42,11 @@ Writing Day is an all-day event designed for you to join in throughout the day. 
   - Welcome and overview
   - Project announcements: Leads give a 2 minute summary and projects begin
   - GitHub workshops
+  - Resume writing session
 - **Lunch Break**
 - **Afternoon Session**
   - Project announcements: Leads give a 2 minute summary, starting with the afternoon-only projects, and projects reconvene
-  - Github workshop
+  - GitHub workshop
   - Resume writing session
   - Discussion-based track
 
@@ -56,7 +57,7 @@ Exact times will be posted on our [schedule page](/conf/{{shortcode}}/{{year}}/s
 **Come prepared with the following tools:**
 
 - Laptop, tablet, or other device
-- [GitHub](https://github.com/) account (you may also want a [GitLab](https://about.gitlab.com/) account)
+- [GitHub](https://github.com/) account (or an account on another git-based platform)
 - Text editor of your choice for coding or content creation
 
 ## How to Participate in a Writing Day Project
@@ -64,6 +65,14 @@ Exact times will be posted on our [schedule page](/conf/{{shortcode}}/{{year}}/s
 ### Lead a Project
 
 Leading a project at Writing Day is a wonderful opportunity to engage with documentarians from a variety of backgrounds, experience, and expertise. Their collective wealth of experience can help you upgrade your project documentation and create a more inclusive project. This empowers all of us to work together to create opportunities for each other and bigger, better communities.
+
+#### Submit
+
+**If you submit your project by April 22, 2026, we will share your project in a blog post and email with our attendees before the conference.**
+
+[Submit projects]({{ writing_day.url }})
+
+Walk-on projects are always welcome. You are still more than welcome to bring a project the day of and announce it during the actual Writing Day.
 
 <div class="announcement" style="background-color:white;">
     <div class="uk-container">
@@ -85,29 +94,25 @@ These are suggestions and not requirements. It is perfectly valid to show up to 
 
 ### Contribute to a Project
 
-Writing Day is the perfect opportunity to participate and learn about new projects and technologies. You are welcome to stay with one project all day, or project hop. 
+Writing Day is the perfect opportunity to participate and learn about new projects and technologies. You are welcome to stay with one project all day, or project hop.
 
 **Tips to contribute to a project:**
 
 - **Regardless of your experience level, you are welcome here.** We are excited to have you. Even if you feel you lack the right skills, experiences, or have never attended an event like Writing Day before, you will be surprised at how much you can contribute.
 - **Explore our guide to writing documentation.** Our [beginner's guide](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) is designed to help you get started and spark ideas for how you can contribute to a project.
 - **Ask questions.** If you encounter challenges with new concepts and tools, you are in a room surrounded by friendly people from diverse backgrounds and experiences. You can always ask the Welcome Wagon or Registration staff and volunteers. We will help you connect with the right person.
-- **View the project list.** Check out the projects that have been submitted in advance. This will be shared in April. Reminder that some projected are submitted day of. 
+- **View the project list.** Check out the projects that have been submitted in advance. This will be shared in April. Reminder that some projects are submitted day of.
 
-## Submit your project
+## Project List
 
-We encourage you to submit a Writing Day project in advance. **If you submit your project by April 22, 2026, we will share your project in a blog post and email with our attendees before the conference.**
-
-[Submit projects]({{ writing_day.url }})
-
-Walk-on projects are always welcome. You are still more than welcome to bring a project the day of and announce it during the actual Writing Day.
+If you are planning to contribute, review the project list before the conference.
 
 ### Examples of projects you might see at the conference
 
 - Open-source software documentation
 - General documentation writing
 - Best practices manual (for your company, or the world)
-- Resume, cover letter, and portfolio reviews
+- Resume and cover letter reviews
 - Blog posts
 - Tips and tricks
 - Great works of fiction
@@ -123,9 +128,5 @@ Incoming project information, check back here for updates closer to the conferen
 ## Contact us
 
 Email us at {{ email }} with any questions.
-
-
-
-
 
 
