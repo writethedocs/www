@@ -8,8 +8,9 @@ title: Home | Write the docs Portland 2026
 
 Updates from the team. More here as it happens!
 
-> <div class="postlist" date="%A, %B %d, %Y" format="{title} - {date}" list-style="none" tags="{{ shortcode }}-{{ year }}">
->
-> 100
->
-> </div>
+```{postlist} 100
+:date: "%A, %B %d, %Y"
+:format: "{title} - {date}"
+:list-style: none
+:tags: "{{ shortcode }}-{{ year }}"
+```
