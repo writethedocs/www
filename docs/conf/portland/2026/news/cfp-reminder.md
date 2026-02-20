@@ -3,10 +3,10 @@ template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
-```{eval-rst}
-.. post:: Jan 7, 2026
-   :tags: {{shortcode}}-{{year}}
+```{post} Jan 7, 2026
+:tags: {{shortcode}}-{{year}}
 ```
+
 
 # Reminders: Call for Feedback and Proposals, Tickets, Opportunity Grants, and Volunteering
 
@@ -65,11 +65,11 @@ Each year, we are grateful for the support of like-minded organizations that sha
 
 Thanks to our current sponsors:
 
-```{eval-rst}
-.. datatemplate::
-   :source: /_data/{{shortcode}}-{{year}}-config.yaml
-   :template: {{year}}/sponsors-simplelist.rst
+```{datatemplate} 
+:source: /_data/{{shortcode}}-{{year}}-config.yaml
+:template: {{year}}/sponsors-simplelist.rst
 ```
+
 
 Check out our [sponsorship prospectus](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/) to learn more and join the community.
 
