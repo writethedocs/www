@@ -6,7 +6,7 @@ def media_photo(_file, _type):
     Return a path for either a photo of the speaker/sponsor,
     or a placeholder, to prevent broken image links.
     """
-    for ext in ['jpg', 'png', 'svg', 'gif', 'webp']:
+    for ext in [ 'webp', 'jpg', 'png', 'svg', 'gif']:
         file_name = '_static/img/{type}/{file}.{ext}'.format(
             type=_type,
             file=_file,
