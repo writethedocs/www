@@ -14,6 +14,12 @@ Write the Docs is more than a conference. Each year we organize a wide range of 
 
 All times are in [{{ tz }}](https://time.is/{{ tz }}).
 
+```{contents}
+:local:
+:depth: 1
+:backlinks: none
+```
+
 <hr>
 
 ## {{date.day_three.dotw}}, {{date.day_three.date}}

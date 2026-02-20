@@ -9,6 +9,12 @@ orphan:
 
 {% if cfp_variables['print_templates'] and not flagpostconf %}
 
+```{contents}
+:local:
+:depth: 1
+:backlinks: none
+```
+
 ```{note}
 These templates use the following types of variables:
 

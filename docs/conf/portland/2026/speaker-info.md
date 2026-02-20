@@ -6,6 +6,11 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 # Speaker Info
 
+```{contents}
+:local:
+:depth: 1
+```
+
 ## Essential info
 
 Location  
