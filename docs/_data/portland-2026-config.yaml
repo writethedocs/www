@@ -185,6 +185,21 @@ sponsors:
     - name: promptless
       link: https://promptless.ai/?ref=writethedocs
       brand: Promptless
+    - name: mintlify
+      link: https://mintlify.com/?utm_source=writethedocs&utm_medium=referral
+      brand: Mintlify
+      text: |
+        <p>
+        Mintlify helps you create beautiful documentation that converts users.
+        </p>
+
+        <p>
+        Whether you're documenting APIs, product guides, or internal wikis, we ensure your content looks modern and is easy-to-use, with no lift on engineering. Mintlify also simplifies your entire editing workflow, from AI-driven writing assistance to Git syncing for better collaboration.
+        </p>
+
+        <p>
+        Over 6,000 leaders, such as Anthropic, X, Fidelity, & Zapier, choose Mintlify to uplevel their documentation.
+        </p>
     - name: readme
       link: https://readme.com/?ref=writethedocs
       brand: ReadMe
