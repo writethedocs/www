@@ -52,10 +52,10 @@ Pre-conference Schedule
 
 **{{cfp.speaker_tickets_by}}**
     Register your free speaker ticket with dietary preferences (we'll email you a ticket link beforehand).
-    Make sure `Pretalx <https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/>`__ has all of your updated info. 
+    Make sure `Pretalx <https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/>`__ has all of your updated info.
 
 **{{cfp.slides_by}}**
-    Upload a copy of your slides so our human captioners can prepare for your talk. We'll email you an upload link beforehand.
+    Upload a copy of your slides so our human captioners can prepare for your talk. We'll email you an upload link beforehand. They **do not** have to be final, just a working copy is enough.
 
 **{{date.short}}**
     Folks start giving talks on stage!
