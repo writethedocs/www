@@ -6,10 +6,10 @@ title: Home | Write the docs Portland 2026
 ---
 
 <div class="news-block">
-  <div class="uk-container">
-    <h2>Updates from the team</h2>
-    <section>
-      <div class="content">
+<div class="uk-container">
+<h2>Updates from the team</h2>
+<section>
+<div class="content">
 
 ```{postlist} 10
 :date: "%B %d, %Y"
@@ -18,7 +18,7 @@ title: Home | Write the docs Portland 2026
 :tags: portland-2026
 ```
 
-      </div>
-    </section>
-  </div>
+</div>
+</section>
+</div>
 </div><!--- end news block -->
