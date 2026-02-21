@@ -62,19 +62,19 @@ Exact times will be posted on our [schedule page](/conf/{{shortcode}}/{{year}}/s
 
 ## How to Participate in a GitHub Workshop, Resume Writing, and Roundtable Discussion
 
-This is a new offering designed to create more ways for attendees to participate in Writing Day beyond traditional documentation projects. Whether you want to build technical skills, refresh your resume, or dive into a facilitated conversation, these shorter-format sessions offer something for everyone.
+This is a new offering designed to create more ways for attendees to participate in Writing Day beyond traditional documentation projects. Whether you want to build technical skills, get feedback on your resume, or join a facilitated discussion, these shorter-format sessions offer something for everyone.
 
 ### GitHub Workshops
 
-Our GitHub workshops are beginner-friendly sessions designed to introduce attendees to Git and GitHub basics, including creating repositories, making commits, and submitting pull requests. Whether you are brand new to version control or looking to reinforce your skills, these workshops provide hands-on practice in a supportive environment.
+GitHub workshops are one-hour, beginner-friendly sessions held at 9:30am and 2:00pm. Each session begins with a 20-minute presentation walkthrough covering how to sign up for a GitHub account and a hands-on example, followed by 1-on-1 support from volunteer TAs.
 
 ### Resume Writing and Portfolio Review
 
-Bring your resume or documentation portfolio for feedback from fellow documentarians and writing professionals. This session offers a collaborative space to get constructive input and tips to help you stand out in your job search or career progression.
+Bring your resume for a 1-on-1 review and feedback session with fellow documentarians. This is a great opportunity to get constructive input and tips to help you stand out in your job search or career progression.
 
 ### Roundtable Discussions
 
-Roundtable discussions are pre-scheduled, facilitated conversations on topics relevant to the technical writing and documentation community. These sessions provide an opportunity to share experiences, exchange ideas, and connect with peers around themes that matter to you.
+Roundtable discussions are pre-scheduled, facilitated conversations held in the afternoon in the Show Bar. Topics include AI in documentation, API docs, and more — check back for the full list of discussion topics as we get closer to the conference.
 
 ## How to Participate in a Writing Day Project
 
