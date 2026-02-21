@@ -60,6 +60,22 @@ Exact times will be posted on our [schedule page](/conf/{{shortcode}}/{{year}}/s
 - [GitHub](https://github.com/) account (or an account on another git-based platform)
 - Text editor of your choice for coding or content creation
 
+## How to Participate in a GitHub Workshop, Resume Writing, and Roundtable Discussion
+
+This is a new offering designed to create more ways for attendees to participate in Writing Day beyond traditional documentation projects. Whether you want to build technical skills, refresh your resume, or dive into a facilitated conversation, these shorter-format sessions offer something for everyone.
+
+### GitHub Workshops
+
+Our GitHub workshops are beginner-friendly sessions designed to introduce attendees to Git and GitHub basics, including creating repositories, making commits, and submitting pull requests. Whether you are brand new to version control or looking to reinforce your skills, these workshops provide hands-on practice in a supportive environment.
+
+### Resume Writing and Portfolio Review
+
+Bring your resume or documentation portfolio for feedback from fellow documentarians and writing professionals. This session offers a collaborative space to get constructive input and tips to help you stand out in your job search or career progression.
+
+### Roundtable Discussions
+
+Roundtable discussions are pre-scheduled, facilitated conversations on topics relevant to the technical writing and documentation community. These sessions provide an opportunity to share experiences, exchange ideas, and connect with peers around themes that matter to you.
+
 ## How to Participate in a Writing Day Project
 
 ### Lead a Project
