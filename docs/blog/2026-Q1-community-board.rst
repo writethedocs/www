@@ -28,7 +28,7 @@ The other goal of having smaller meetings is to facilitate more focused and deta
 
 Over the years, we've seen lots of wonderful content published by our documentarians, and occasionally we'd be approached by community members who wish to showcase their content. A while ago we launched the #community-showcase Slack channel, which is well-attended but only reaches WTD Slack members.
 
-On the other hand, the well-loved newsletter, led by Aaron Collier and a wonderful team of volunteers has been our way to collect pertinent topics from our Slack space and share them on our mailing lists. The newsletter has grown to have some sponsored content and job postings, but still focused only on Slack-generated content.
+On the other hand, the well-loved newsletter, led by Aaron Collier and a wonderful team of volunteers, has been our way to collect pertinent topics from our Slack space and share them on our mailing lists. The newsletter has grown to have some sponsored content and job postings, but still focused only on Slack-generated content.
 
 As our second experiment of the year, we're investigating a mechanism to periodically collect and publish a spotlight of external content that our documentarians have published on their personal sites or other publications. The goal is to curate WTD community content from outside of our Slack spaces and share them with our mailing lists in some way.
 
@@ -36,7 +36,7 @@ The details of this initiative are still being workshopped, but it is likely to 
 
 **WTD Australia and beyond**
 
-Since the Australia conference is on hiatus, Swapnil Ogale the conference chair has been pursuing possible expansions of the community in APAC in order to build on the foundation in Australia and India. There are many wonderful documentation communities in nearby countries such as Singapore, Japan, and Korea, and Swapnil will be investing time this year in building new relationships with those communities.
+Since the Australia conference is on hiatus, Swapnil Ogale, the conference chair, has been pursuing possible expansions of the community in APAC in order to build on the foundation in Australia and India. There are many wonderful documentation communities in nearby countries such as Singapore, Japan, and Korea, and Swapnil will be investing time this year in building new relationships with those communities.
 
 If you are a member of or have connections to documentation-related communities in APAC and would like to grow a WTD presence in those regions, please reach out to Swapnil on Slack. 
 
