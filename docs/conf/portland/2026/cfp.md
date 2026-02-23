@@ -142,7 +142,7 @@ New for Portland, in 2026 we're showing a few pre-recorded talks with live Q&A f
 
 Both in-person and pre-recorded talks are 30 minutes long, followed by a few minutes of moderated Q&A immediately after the presentation.
 
-All Speakers must read, understand, and agree to our `/code-of-conduct`. All talks and slides must follow our Code of Conduct. If you are unsure about any aspect of this, please ask us for clarification.
+All Speakers must read, understand, and agree to our [Code of Conduct](/code-of-conduct/). All talks and slides must follow our Code of Conduct. If you are unsure about any aspect of this, please ask us for clarification.
 
 ## Timeline overview
 

@@ -39,7 +39,11 @@ A detailed schedule will be announced soon.
 
 Talks are around 30 minutes, with moderated 10 minute Q&A.
 
-\* **Where**: Venueless virtual platform {% if not flaghasschedule %} \* **When**: **{{ date.day_three.talk_time }} {{ tz }}** {% endif %} \* **Details**: `/conf/{{shortcode}}/{{year}}/speakers`
+- **Where**: Venueless virtual platform
+{% if not flaghasschedule %}
+- **When**: **{{ date.day_three.talk_time }} {{ tz }}**
+{% endif %}
+- **Details**: [Speakers and talks](/conf/{{shortcode}}/{{year}}/speakers/)
 
 ### Social space
 
@@ -62,7 +66,11 @@ A detailed schedule will be announced soon.
 
 Talks are around 30 minutes, with moderated 10 minute Q&A.
 
-\* **Where**: Venueless virtual platform {% if not flaghasschedule %} \* **When**: **{{ date.day_four.talk_time }} {{ tz }}** {% endif %} \* **Details**: `/conf/{{shortcode}}/{{year}}/speakers`
+- **Where**: Venueless virtual platform
+{% if not flaghasschedule %}
+- **When**: **{{ date.day_four.talk_time }} {{ tz }}**
+{% endif %}
+- **Details**: [Speakers and talks](/conf/{{shortcode}}/{{year}}/speakers/)
 
 ### Social space
 

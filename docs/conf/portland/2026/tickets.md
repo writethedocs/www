@@ -12,7 +12,9 @@ banner: _static/conf/images/headers/2026/tickets.jpg
 
 We're excited to invite you to our {{ year }} conference in {{ city }}.
 
-{% if shirts and flaghasshirts %} Conference shirts are also available. See the [Official Conference Shirts](#official-conference-shirts) section below for details.
+{% if shirts and flaghasshirts %}
+
+Conference shirts are also available. See the [Official Conference Shirts](#official-conference-shirts) section below for details.
 
 {% endif %}
 
@@ -48,48 +50,85 @@ If you need to cancel your ticket because of fear of traveling internationally t
 
 ## Ticket Types
 
-## **Student/Unemployed**: *{{tickets.student.price}}* in-person / *{{tickets.virtual_student.price}}* virtual
+<div class="ticket">
+  <h2>
+    <strong>Student/Unemployed</strong>: <em>{{tickets.student.price}}</em> in-person / <em>{{tickets.virtual_student.price}}</em> virtual
+  </h2>
+  <p>
+    Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
+  </p>
+  {% if flagticketsonsale %}
+  <ul>
+    <li>
+      <a href="https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}">Buy Student or Unemployed Ticket</a>
+    </li>
+  </ul>
+  {% endif %}
+</div>
 
-Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
+<div class="ticket">
+  <h2>
+    <strong>Independent</strong>: <em>{{tickets.independent.price}}</em> in-person / <em>{{tickets.virtual_independent.price}}</em> virtual
+  </h2>
+  <p>
+    Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with fewer than 10 employees.
+  </p>
+  {% if flagticketsonsale %}
+  <ul>
+    <li>
+      <a href="https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}">Buy Independent Ticket</a>
+    </li>
+  </ul>
+  {% endif %}
+</div>
 
-{% if flagticketsonsale %}
-
-- [Buy Student or Unemployed Ticket](https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}})
-
-{% endif %}
-
-## **Independent**: *{{tickets.independent.price}}* in-person / *{{tickets.virtual_independent.price}}* virtual
-
-Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with fewer than 10 employees.
-
-{% if flagticketsonsale %}
-
-- [Buy Independent Ticket](https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}})
-
-{% endif %}
-
-## **Corporate**: *{{tickets.corporate.price}}* in-person / *{{tickets.virtual_corporate.price}}* virtual
-
-Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
-
-{% if flagticketsonsale %}
-
-- [Buy Corporate Ticket](https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}})
-
-{% endif %}
+<div class="ticket">
+  <h2>
+    <strong>Corporate</strong>: <em>{{tickets.corporate.price}}</em> in-person / <em>{{tickets.virtual_corporate.price}}</em> virtual
+  </h2>
+  <p>
+    Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
+  </p>
+  {% if flagticketsonsale %}
+  <ul>
+    <li>
+      <a href="https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}">Buy Corporate Ticket</a>
+    </li>
+  </ul>
+  {% endif %}
+</div>
 
 {% if shirts and flaghasshirts %}
 
-## **Official Conference Shirts**
-
-You can now visit our Write the Docs {{ name }} {{ year }} Pop-Up Shop and order this year’s branded shirt. The campaign will run until **{{ shirts.ends }}**.
-
-- [Buy {{ name }} {{ year }} Shirt]({{ shirts.url }})
-
+<div class="ticket">
+  <h2>
+    <strong>Official Conference Shirts</strong>
+  </h2>
+  <p>
+    You can now visit our Write the Docs {{ name }} {{ year }} Pop-Up Shop and order this year's branded shirt. The campaign will run until <strong>{{ shirts.ends }}</strong>.
+  </p>
+  <ul>
+    <li>
+      <a href="{{ shirts.url }}">Buy {{ name }} {{ year }} Shirt</a>
+    </li>
+  </ul>
+</div>
 {% endif %}
 
-## **Opportunity Grants**
-
-If you need support in paying for your ticket, travel or other costs, you can apply to our Opportunity Grant program.
-
-{% if grants and grants.ends and grants.url %} You can apply until **{{ grants.ends }}, 11:59 PM {{ tz }}** on [our website](https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/). {% else %} Grant applications will open soon. {% endif %}
+<div class="ticket">
+  <h2>
+    <strong>Opportunity Grants</strong>
+  </h2>
+  <p>
+    If you need support in paying for your ticket, travel or other costs, you can apply to our Opportunity Grant program.
+  </p>
+  {% if grants and grants.ends and grants.url %}
+  <p>
+    You can apply until <strong>{{ grants.ends }}, 11:59 PM {{ tz }}</strong> on <a href="https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/">our website</a>.
+  </p>
+  {% else %}
+  <p>
+    Grant applications will open soon.
+  </p>
+  {% endif %}
+</div>

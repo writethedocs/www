@@ -62,7 +62,7 @@ A detailed schedule will be announced soon.
 Is this your first time at Write the Docs? Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new.
 
 - **Where**: {{about.unconfroom}}
-- **Details**: `/conf/{{shortcode}}/{{year}}/attendee-guide`
+- **Details**: [Attendee guide](/conf/{{shortcode}}/{{year}}/attendee-guide/)
 
 <hr>
 

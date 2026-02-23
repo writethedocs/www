@@ -12,7 +12,7 @@ Welcome to the Write the Docs {{ city }} {{ year }} sponsorship prospectus. We'r
 
 {% if flagrunofshow %}
 
-If you're an existing sponsor looking for next steps, check out our [Sponsorship Information page]({{site}}/conf/{{shortcode}}/{{year}}/sponsors/information).
+If you're an existing sponsor looking for next steps, check out our [Sponsorship Information page](/conf/{{shortcode}}/{{year}}/sponsors/information/).
 
 {% endif %}
 
@@ -155,7 +155,7 @@ Provide additional funding for our Opportunity Grant program, which supports equ
 
 ## Inquiries
 
-For more information on getting the most out of your sponsorship, see our `/conf/{{shortcode}}/{{year}}/sponsors/information`.
+For more information on getting the most out of your sponsorship, see our [Sponsorship Information page](/conf/{{shortcode}}/{{year}}/sponsors/information/).
 
 Please direct all inquiries to our sponsorship team at:
 
