@@ -23,7 +23,7 @@ The big news today is that our speaker lineup is here! Check out the list of spe
 </table>
 </div>
 
-# {{city}} {{year}} speakers
+## {{city}} {{year}} speakers
 
 We're excited to announce the [lineup of speakers and talks](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/) for our {{city}} {{year}} conference! A huge thank you to everyone who submitted a proposal—this conference wouldn’t be possible without your contributions.
 
@@ -35,7 +35,7 @@ Each year, we curate a diverse range of voices to share insights from our commun
    :template: {{year}}/speakers-simple-list.rst
 ```
 
-# Buy your tickets soon
+## Buy your tickets soon
 
 If you haven't gotten your ticket yet, now's the time to begin the process to attend. Please ensure you arrange your travel only after buying a conference ticket. If you need additional information, we have a few resources to help you:
 
@@ -43,7 +43,7 @@ If you haven't gotten your ticket yet, now's the time to begin the process to at
 - Purchase your tickets on our [Tickets page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/).
 - Plan your journey with our [Visiting {{city}} page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/).
 
-# Thanks again to our sponsors
+## Thanks again to our sponsors
 
 We are thankful to our sponsors for their role in making these events possible every year. A big thank you to each of these companies for supporting our community:
 
