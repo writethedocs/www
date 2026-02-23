@@ -235,6 +235,12 @@ sponsors:
     - name: helpdocs
       link: https://www.helpdocs.io/?utm_source=writethedocs&utm_medium=sponsor&utm_campaign=wtdp26
       brand: HelpDocs
+    - name: google
+      link: https://opensource.google/?ref=writethedocs
+      brand: Google
+    - name: github
+      link: https://github.com/?ref=writethedocs
+      brand: GitHub
     - name: readthedocs
       link: https://about.readthedocs.com/?ref=writethedocs
       brand: Read the Docs
