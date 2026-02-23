@@ -134,7 +134,7 @@ Subject:
 
    ○ We're working on a provisional schedule, taking into account all requested time slot preferences, I hope to be able to share that with you in a week or so.
 
-   ○ While you're working on your talks, we'd love for you to check out our [speaker info](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-info) page! It's got all sorts of details on talk format, tech specs, content guidelines, etc.
+   ○ While you're working on your talks, we'd love for you to check out our [speaker info](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-info/) page! It's got all sorts of details on talk format, tech specs, content guidelines, etc.
 
    Also, if you're ever in doubt about whether something you're writing would be appropriate or not, we'd like to refer you to our conference Code of Conduct, which asks that you refrain from any sexually suggestive or harassing language of any kind. Check it out in full, drop me a line if you have questions: http://www.writethedocs.org/code-of-conduct/
 
