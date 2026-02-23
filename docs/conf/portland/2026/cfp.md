@@ -31,6 +31,12 @@ Ready to submit your talk? You can do that here:
 
 {% endif %}
 
+```{contents} Sections
+:local:
+:depth: 1
+:backlinks: none
+```
+
 ## Conference goals
 
 Write the Docs conferences are our opportunity to get together to explore and celebrate the craft of documentation in a positive, inclusive environment.
