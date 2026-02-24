@@ -13,18 +13,17 @@ To create more ways for attendees to take part on Sunday, we are expanding Writi
 
 ## How to Participate in Writing Day in 2026
 
-### Attend and Participate in One of the Following Activities
+### Choose from the Following Opportunities:
 
-- **Writing Day** (half-day or full-day projects)
-  - Lead a Project
-  - Contribute to a Project
+- **Writing Day project** (half-day or full-day)
+  - Attendees can lead a project or join and contribute to a project
 - **New to Git and GitHub workshops**
-- **Resume writing session**
+- **Resume writing session or portfolio review**
 - **A pre-scheduled, discussion-based track**
 
-More information about workshops, resume writing sessions, and the discussion-based track will be shared in the coming months. No additional sign up is required.
+Read more information about workshops, resume writing, portfolio review, and the discussion-based track below. No additional sign up is required. Schedule to be released in the coming months.
 
-Read more information below on how to participate in a Writing Day project.
+Read more information on how to participate in a Writing Day project below. Ready to submit a project? Click the link below. 
 
 <div class="announcement" style="background-color:white;">
     <div class="uk-container">
@@ -42,12 +41,12 @@ Writing Day is an all-day event designed for you to join in throughout the day. 
   - Welcome and overview
   - Project announcements: Leads give a 2 minute summary and projects begin
   - GitHub workshops
-  - Resume writing session
+  - Resume writing and portfolio review session
 - **Lunch Break**
 - **Afternoon Session**
   - Project announcements: Leads give a 2 minute summary, starting with the afternoon-only projects, and projects reconvene
   - GitHub workshop
-  - Resume writing session
+  - Resume writing and portfolio review session session
   - Discussion-based track
 
 Exact times will be posted on our [schedule page](/conf/{{shortcode}}/{{year}}/schedule/).
@@ -66,15 +65,15 @@ This is a new offering designed to create more ways for attendees to participate
 
 ### GitHub Workshops
 
-GitHub workshops are one-hour, beginner-friendly sessions held at 9:30am and 2:00pm. Each session begins with a 20-minute presentation walkthrough covering how to sign up for a GitHub account and a hands-on example, followed by 1-on-1 support from volunteer TAs.
+GitHub workshops are beginner-friendly sessions held in the morning and afternoon. Each session begins with a 20-minute presentation walkthrough covering how to sign up for a GitHub account and a hands-on example, followed by 1-on-1 support from volunteer TAs.
 
 ### Resume Writing and Portfolio Review
 
-Bring your resume for a 1-on-1 review and feedback session with fellow documentarians. This is a great opportunity to get constructive input and tips to help you stand out in your job search or career progression.
+Bring your resume or portfolio for feedback from fellow documentarians. This session offers a space to get constructive input and tips to help you stand out in your job search or career progression.
 
 ### Roundtable Discussions
 
-Roundtable discussions are pre-scheduled, facilitated conversations held in the afternoon in the Show Bar. Topics include AI in documentation, API docs, and more — check back for the full list of discussion topics as we get closer to the conference.
+Roundtable discussions are pre-scheduled, facilitated conversations held in the afternoon. Topics include AI in documentation, API docs, and more — check back for the full list of discussion topics as we get closer to the conference.
 
 ## How to Participate in a Writing Day Project
 
