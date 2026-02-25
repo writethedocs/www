@@ -101,3 +101,4 @@ This includes:
 - Social media copy
 - Individual graphic
 - Event graphic
+- Speaker graphic
