@@ -29,7 +29,7 @@ talks_day1:
   - duration: '0:5'
     title: '✋ 5 min Q&A'
   - duration: '1:25'
-    title: '<b><a href="../visiting/#food-near-bum-10-15-minute-walk">🍽️ Lunch Break</a></b>' 
+    title: '<b><a href="../visiting/#food-near-bum-10-15-minute-walk">🍽️ Lunch Break</a></b>'
   - duration: '0:30'
     title: '<b><a href="../lightning-talks">Lightning Talks</a></b>'
   - duration: '0:05'

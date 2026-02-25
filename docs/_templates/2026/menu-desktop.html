@@ -61,15 +61,21 @@
           <ul class="uk-nav uk-navbar-dropdown-nav">
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/venue') }}">Venue</a></li>
             {% if not flagisvirtual %}
+                {% if flaghasvisiting %}
                 <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/visiting') }}">Visiting {{ city }}</a></li>
+                {% endif %}
+                {% if flaghasattendeeguide %}
                 <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/attendee-guide') }}">Attendee Guide</a></li>
-                <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/health') }}">Health and Safety Policy</a></li>
+                {% endif %}
                 <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/volunteer') }}">Volunteer Info</a></li>
 
             {% endif %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/virtual') }}">Virtual Attendance</a></li>
+            {% if not flagisvirtual %}
+                <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/health') }}">Health and Safety Policy</a></li>
+            {% endif %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/code-of-conduct') }}">Code of Conduct</a></li>
-            {% if flagspeakersannounced %}
+            {% if flaghasteam %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/team') }}">Meet the Team</a></li>
             {% endif %}
             <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/contact') }}">Contact us</a></li>

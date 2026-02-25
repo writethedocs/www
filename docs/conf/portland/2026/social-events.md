@@ -1,6 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
+banner: _static/conf/images/headers/2026/social-events.jpg
 ---
 
 # Social Events
@@ -26,9 +27,7 @@ and make sure you know your way around the conference venue.
 Join us for our Monday night social event! This is a great chance to meet more of your fellow documentarians 
 and chat about the conference in a relaxed atmosphere.
 
-**Where**: {{about.social_venue}}  
+**Where**: TBD  
 **When**: 7-9 PM
 
 *Both alcoholic and non-alcoholic drinks and snacks will be provided.*
-
-Sponsored by [Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral)!

@@ -6,8 +6,8 @@
   speakers:
   - name: Ian Cowley
     slug: ian-cowley
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Simple glossaries are relatively easy to set up for individual projects,
     but they become difficult to manage when you try to scale them - especially when
     trying to scale the management of terms and definitions across multiple platforms,
@@ -50,12 +50,12 @@
   speakers:
   - name: Josh Peacock
     slug: josh-peacock
-    twitter: 
-    website: 
+    twitter:
+    website:
   - name: Dennis Mortensen
     slug: dennis-mortensen
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Your customer’s desire for self-service support options, and the importance
     of delivering superior self-service Support, is well documented. Today’s customers
     are savvy, self-reliant and more than comfortable finding answers to their questions
@@ -104,8 +104,8 @@
   speakers:
   - name: Fabrizio Ferri-Benedetti
     slug: fabrizio-ferri-benedetti
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>A year and a half ago, I had a crazy idea: I''d write <a href="https://www.splunk.com/en_us/resources/amir-and-the-magical-lens.html">a
     children''s book on OpenTelemetry</a>. My goal was to learn the essentials of
     the technology that I document every day at work while having fun along the way.
@@ -131,12 +131,12 @@
   speakers:
   - name: Adam Trujillo
     slug: adam-trujillo
-    twitter: 
-    website: 
+    twitter:
+    website:
   - name: Jeffrey Boruszak
     slug: jeffrey-boruszak
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Until recently, our product’s software engineers were primarily responsible
     for writing, updating, and organizing the product’s documentation. But years of
     rapid growth and product evolution resulted in sprawling docs that are a hodge-podge
@@ -176,8 +176,8 @@
   speakers:
   - name: Kristine Sihto
     slug: kristine-sihto
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Documentation is inherent to every organisation, and a lot of that
     documentation is bound for external clients. Unfortunately, there are a lot of
     places, both in the architecture of your documents, as well as in the content
@@ -194,8 +194,8 @@
   speakers:
   - name: Katie Riker
     slug: katie-riker
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Documentation and user experience (UX) design teams may not seem like
     they go together on the surface - isn’t one concerned with words and the other
     with pictures?
@@ -232,12 +232,12 @@
   speakers:
   - name: Chris Noonan
     slug: chris-noonan
-    twitter: 
-    website: 
+    twitter:
+    website:
   - name: John Hannagan
     slug: john-hannagan
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>It''s difficult to determine how easy it is to read the content that
     you create. This is especially true for technical documentation, where complex
     concepts and terms that are specific to your product and industry are described.
@@ -268,8 +268,8 @@
   speakers:
   - name: Matt Dodson
     slug: matt-dodson
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>In this proposal, I argue for a reader-centered, bottom-up approach
     to doc restructuring. To make my case, I draw parallels from the worlds of urban
     design and architecture, citing examples of how top-down approaches often ignore
@@ -325,8 +325,8 @@
   speakers:
   - name: Stephan Delbos
     slug: stephan-delbos
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Throughout my career in content, including digital marketing, content
     strategy and product content in the fast-paced world of tech startups, most strategic
     decisions have been based on the goal of getting as many users to look at my content
@@ -368,12 +368,12 @@
   speakers:
   - name: Alexander Schwartz
     slug: alexander-schwartz
-    twitter: 
-    website: 
+    twitter:
+    website:
   - name: Fabrice Flore-Thebault
     slug: fabrice-flore-thebault
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: "<p>For a project of a reasonable size, there's usually more than one
     source for the website that needs to be published. \nThis talk presents how the
     Eclipse Che project leveraged Antra and Antora extensions to create a fully automated
@@ -394,8 +394,8 @@
   speakers:
   - name: Chris Meyns
     slug: chris-meyns
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Generative AI tools, especially those using large language models
     (LLMs) such as Bing, Bard, and ChatGPT, or text-to-image models such as Stable
     Diffusion or DALL·E 2, have been taking the technical writing space by storm over
@@ -437,8 +437,8 @@
   speakers:
   - name: Lorna Mitchell
     slug: lorna-mitchell
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: <p>OpenAPI descriptions are an excellent way of having all information
     about an API in one place, and making that available to many different tools.
     As a standard, it can be difficult to get started with, and the resulting files

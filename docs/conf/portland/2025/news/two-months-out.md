@@ -11,7 +11,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 Write the Docs Portland is just two months away, and we have some exciting updates to share. If you haven’t grabbed your ticket yet, now is the perfect time. Check out all the latest details below.
 
-   <p style="margin: 2em 0;">
+   <div style="margin: 2em 0;">
    <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
    <tr>
       <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
@@ -19,7 +19,7 @@ Write the Docs Portland is just two months away, and we have some exciting updat
       </td>
    </tr>
    </table>
-   </p>
+   </div>
 
 ### Pre-Conference Speaker Discussions 
 
@@ -47,7 +47,7 @@ Head to our [Tickets page](https://www.writethedocs.org/conf/portland/2025/ticke
 
 Our Writing Day Call for Projects is open. If you're interested in leading a project, we *highly* encourage you to submit your project ahead of time. This is a great way to build momentum and prepare attendees to show up ready to contribute to your project. 
 
-   <p style="margin: 2em 0;">
+   <div style="margin: 2em 0;">
    <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
    <tr>
       <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
@@ -55,7 +55,7 @@ Our Writing Day Call for Projects is open. If you're interested in leading a pro
       </td>
    </tr>
    </table>
-   </p>
+   </div>
 
 All projects submitted by April 23, 2025 will be included on our website. 
 

@@ -10,7 +10,7 @@ A Lightning Talk is a brief presentation, lasting up to five minutes, where you 
 
 Lightning Talks are a fantastic opportunity for first-time speakers. Regardless of your speaking experience, we invite you to submit a talk.
 
-<p style="margin: 2em 0;">
+<div style="margin: 2em 0;">
 <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
 <tr>
   <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
@@ -18,7 +18,7 @@ Lightning Talks are a fantastic opportunity for first-time speakers. Regardless 
   </td>
 </tr>
 </table>
-</p>
+</div>
 
 **Supporting first-time speakers is important to us, so we have created two speaker categories:**
 

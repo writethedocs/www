@@ -9,8 +9,8 @@
   speakers:
   - name: Tyler Smith
     slug: tyler-smith
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Tyler was diagnosed with ADHD at 27 years old; 3 years later, and
     having moved from a reactive Technical Support position into a creative and proactive
     Technical Writing position, he discovered many ways in which his ADHD interacts
@@ -52,8 +52,8 @@
   speakers:
   - name: Karissa Van Baulen
     slug: karissa-van-baulen
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Yet again, docs are listed in the top three pain points for your organization
     and still you can’t get buy-in for your ideas about doc improvements. Want to
     change their mind? Getting support from stakeholders to invest in more resources,
@@ -182,8 +182,8 @@
   speakers:
   - name: Taylor Cole
     slug: taylor-cole
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>For many of us, helping others is the primary motivation underlying
     the work that we do. As documentarians, helping others often equates to creating
     content that’s truly aligned with our audience’s needs. But ensuring that our
@@ -227,7 +227,7 @@
   speakers:
   - name: Prashant Mathapathi
     slug: prashant-mathapathi
-    twitter: 
+    twitter:
     website: https://prashantmathapathi1990.blogspot.com/
   abstract: '<p>In today''s busy environment, not every customer has the time to migrate
     from UI to doc site to read a doc, when they are stuck. This may lead to customer
@@ -308,8 +308,8 @@
   speakers:
   - name: Emilia Juda-Özbay
     slug: emilia-juda-zbay
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Have you ever had trouble with outdated examples, installation instructions
     that no longer work, or obsolete references in your documentation? You''re not
     alone. At some point, everyone involved in software engineering has run into problems
@@ -384,7 +384,7 @@
   - name: Melissa Black
     slug: melissa-black
     twitter: '@melissablck'
-    website: 
+    website:
   - name: Asma Kacem
     slug: asma-kacem
     twitter: '@Asmakacem9'

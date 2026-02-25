@@ -14,7 +14,7 @@ We will be hiking in the amazing [Forest Park](https://forestparkconservancy.org
 
 It’s rained on us in the past, but we have faith it will be beautiful this year! We will hopefully see Mount Hood at the top :)
 
-<p style="margin: 2em 0;">
+<div style="margin: 2em 0;">
 <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
 <tr>
   <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
@@ -22,7 +22,7 @@ It’s rained on us in the past, but we have faith it will be beautiful this yea
   </td>
 </tr>
 </table>
-</p>
+</div>
 
 ## Schedule & Logistics
 

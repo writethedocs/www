@@ -10,8 +10,8 @@
   speakers:
   - name: Kassandra Dhillon
     slug: kassandra-dhillon
-    twitter: 
-    website: 
+    twitter:
+    website:
   - name: Erin McKean
     slug: erin-mckean
     twitter: '@emckean'
@@ -51,7 +51,7 @@
   speakers:
   - name: Kumar Dhanagopal
     slug: kumar-dhanagopal
-    twitter: 
+    twitter:
     website: https://www.linkedin.com/in/kumardhanagopal/
   abstract: '<p>As content producers and managers, we constantly seek to learn more
     about what our users need, how they consume our content, whether they find it
@@ -77,7 +77,7 @@
   - name: Lana Brindley (she/her)
     slug: lana-brindley-she-her
     twitter: '@loquacities'
-    website: 
+    website:
   abstract: '<p>There are currently 824 members of the #lone-writer channel on the
     Write the Docs Slack. That’s (presumably) 824 people who are the only documentarian
     in their company or organisation. 824 people who need to handle all the planning,
@@ -113,7 +113,7 @@
   speakers:
   - name: Kate Mueller
     slug: kate-mueller
-    twitter: 
+    twitter:
     website: http://www.livewithsass.com/
   abstract: '<p>In 2018, I quit my job to hike the entire Appalachian Trail, also
     known as the AT. It took me 163 days. That’s 163 days of carrying everything I
@@ -168,8 +168,8 @@
   speakers:
   - name: Anna Gasparyan
     slug: anna-gasparyan
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Everybody knows that reusing and repurposing content is good. Any
     professional help authoring software will have support for single source as one
     of their top three killer features. </p>
@@ -252,8 +252,8 @@
   speakers:
   - name: Chris Ganta
     slug: chris-ganta
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>At the Good Docs project, we serendipitously discovered that peer
     writing is significantly more effective and efficient than traditional siloed
     writing for open source documentation. As we were building the APAC templates
@@ -310,12 +310,12 @@
   speakers:
   - name: Liani Lye (she/her)
     slug: liani-lye-she-her
-    twitter: 
+    twitter:
     website: https://www.linkedin.com/in/lianilye/
   - name: Gretchen Maciolek
     slug: gretchen-maciolek
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>I joined the VA’s Digital Experience group as a contract product manager
     of two documentarians in a sea of 75+ technologists.  On paper, our job was to
     build and populate a customer-facing information portal.  To do so in any enduring
@@ -353,12 +353,12 @@
   speakers:
   - name: Alastair Dallas
     slug: alastair-dallas
-    twitter: 
-    website: 
+    twitter:
+    website:
   - name: Shane Diven
     slug: shane-diven
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>Runbooks written for DevOps organizations offer an unusual set of
     writing challenges--time is of the essence for the reader and, often, performance
     is monitored.</p>
@@ -418,8 +418,8 @@
     website: https://writing.rocks
   - name: Dave May
     slug: dave-may
-    twitter: 
-    website: 
+    twitter:
+    website:
   abstract: '<p>If you create docs in Word, manually formatting your files and emailing
     them around, you know that the process can be error-prone and slow. That’s how
     our team used to do docs. Our team is an Amazon Web Services (AWS) group of developers

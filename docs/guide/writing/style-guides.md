@@ -87,7 +87,7 @@ Style guide and guidelines for code samples:
 
 A command-line interface (CLI) processes commands to a computer program in the form of lines of text. Style guide standards for [command line interface](https://en.wikipedia.org/wiki/Command-line_interface) docs and text include these useful CLI resources:
 
-- [10 design principles for delightful CLIs -- Atlassian](https://blog.developer.atlassian.com/10-design-principles-for-delightful-clis/)
+- [10 design principles for delightful CLIs -- Atlassian](https://www.atlassian.com/blog/it-teams/10-design-principles-for-delightful-clis)
 - [CLI Style Guide -- Heroku Dev Center](https://devcenter.heroku.com/articles/cli-style-guide)
 - [Command Line Interface Guidelines -- CLIG](https://clig.dev/#guidelines)
 - [Conventions for writing Linux man pages -- die.net](https://linux.die.net/man/7/man-pages)

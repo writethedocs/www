@@ -22,7 +22,7 @@ Still need a ticket? Now is a great time to purchase your ticket at one of our v
 - Virtual Tickets: $75
    
    <br>
-   <p style="margin: 2em 0;">
+   <div style="margin: 2em 0;">
    <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
    <tr>
       <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
@@ -30,7 +30,7 @@ Still need a ticket? Now is a great time to purchase your ticket at one of our v
       </td>
    </tr>
    </table>
-   </p>
+   </div>
 
 ## Join our Slack Community
 
@@ -43,7 +43,7 @@ Our [#wtd-conferences](https://writethedocs.slack.com/archives/C1AKFQATH) channe
 
 **Reminder**: There is a two-step process to join Slack. You need to complete a short signup form before you can create your account.
 
-   <p style="margin: 2em 0;">
+   <div style="margin: 2em 0;">
    <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
    <tr>
       <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
@@ -51,7 +51,7 @@ Our [#wtd-conferences](https://writethedocs.slack.com/archives/C1AKFQATH) channe
       </td>
    </tr>
    </table>
-   </p>
+   </div>
 
 ## Writing Day Projects
 

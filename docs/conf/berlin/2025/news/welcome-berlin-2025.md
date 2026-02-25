@@ -42,7 +42,7 @@ In-person tickets are sold out. Virtual ticket registrations will **close on Oct
 
 We're opening up the Monday Unconference sign-ups today! We're doing this because Unconferences are amazing ways to foster connection within our community, and we hope this gives more visibility to the earlier Monday slots. [Learn more about the Unconference here](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/unconference/).
 
-<p style="margin: 2em 0;">
+<div style="margin: 2em 0;">
 <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
 <tr>
   <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
@@ -50,7 +50,7 @@ We're opening up the Monday Unconference sign-ups today! We're doing this becaus
   </td>
 </tr>
 </table>
-</p>
+</div>
 
 For those who are new to Unconferences or nervous about what makes a "good" topic, we have a vast range of topics and vibes every year. If you need some inspiration, consider any of these:
 
@@ -65,7 +65,7 @@ And as always, sign-ups are also welcome during the conference.
 We have opened up Monday Lightning Talk submissions. Lightning Talks are a wonderful way to share an idea, concept, or piece of information you find interesting, in an informal five-minute talk. Similar to above, we hope that by opening up Lightning Talks early, this provides more time to ideate and to submit your talk before the conference. [Learn more about giving a Lightning Talk here.](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/lightning-talks/)
 
 
-<p style="margin: 2em 0;">
+<div style="margin: 2em 0;">
 <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
 <tr>
   <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
@@ -73,7 +73,7 @@ We have opened up Monday Lightning Talk submissions. Lightning Talks are a wonde
   </td>
 </tr>
 </table>
-</p>
+</div>
 
 ```{figure} /_static/conf/images/headers/portland-2024-all-speakers.jpg
 ```

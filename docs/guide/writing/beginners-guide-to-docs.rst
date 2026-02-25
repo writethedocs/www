@@ -130,7 +130,7 @@ Once people decide to use your code, they need to install and run it. Keep your 
 
 `Read the Docs`_ does a good job with this.
 
-.. _Read the Docs: http://read-the-docs.readthedocs.org/en/latest/install.html
+.. _Read the Docs: https://docs.readthedocs.com/dev/latest/install.html
 
 State your project's license
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

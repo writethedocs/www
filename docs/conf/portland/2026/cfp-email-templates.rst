@@ -270,7 +270,7 @@ Subject:
 
    ○ Please [upload your slides]({{cfp_variables['upload']}}) for the captioners by {{cfp.slides_by}}. If you run into any trouble uploading them, please forward them as attachments to sam@writethedocs.org
 
-   ○ We'll be doing [AV/laptop/slide checks](https://www.writethedocs.org/conf/portland/2025/speaker-info/#conference-schedule) at the stage, either first thing in the morning or right before the lunch break. Please make sure you come say hi and do that, even if you think you don't need to 😉. I'll get some calendar invites out for those slots between now and then. Please bring the laptop you'll be presenting from.
+   ○ We'll be doing [AV/laptop/slide checks](https://www.writethedocs.org/conf/portland/2026/speaker-info/#conference-schedule) at the stage, either first thing in the morning or right before the lunch break. Please make sure you come say hi and do that, even if you think you don't need to 😉. I'll get some calendar invites out for those slots between now and then. Please bring the laptop you'll be presenting from.
 
    ○ If you've not already let us know what your pronouns and interests are, and how to pronounce your name, please do [log in to Pretalx](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/) and answer them, it makes life much easier for the folks doing the intros and Q&A.
 

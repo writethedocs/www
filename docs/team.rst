@@ -248,8 +248,6 @@ Members
 ~~~~~~~
 
 - `Aaron Collier <https://github.com/CollierCZ>`__ (team lead)
-- `Hillary Fraley <https://github.com/hillaryfraley>`__
-- Royce Cook
 - `Alia Michaels <https://www.aliamm.com/>`__
 
 

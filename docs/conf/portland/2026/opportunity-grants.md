@@ -1,12 +1,12 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/headers/2025/grants.jpg
+banner: _static/conf/images/headers/2026/tickets.jpg
 ---
 
 # Opportunity Grants
 
-The Grant program for Write the Docs Portland 2025 supports people who would otherwise not be able to attend the conference by covering ticket and/or attendance costs. 
+The Grant program for Write the Docs Portland 2026 supports people who would otherwise not be able to attend the conference by covering ticket and/or attendance costs. 
 
 ## Eligibility
 
@@ -18,16 +18,22 @@ You are welcome to apply, even if you have received a grant before from our conf
 
 We prioritize applications based on the overall impact that granting an application will have on the applicant, the Write the Docs community, and the applicant’s wider community and country. However, there are no requirements for you to meet. In other words, if you’re unsure, please apply.
 
-Grant applicants, like all other participants in the Write the Docs community, are required to follow the [Code of Conduct](https://www.writethedocs.org/conf/portland/2025/code-of-conduct/).
+Grant applicants, like all other participants in the Write the Docs community, are required to follow the [Code of Conduct](https://www.writethedocs.org/conf/portland/2026/code-of-conduct/).
+
+<div class="announcement" style="background-color:white;">
+    <div class="uk-container">
+    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ grants.url }}">Apply for an Opportunity Grant</a>
+    </div>
+</div>
 
 ## Schedule
 
 - **Now - {{ grants.ends }}:** Grant applications open
-- **{{ grants.notification }}:** Grant recipients notified
+- **February 13, 2026:** Grant recipients notified
 
 ## What is Covered
 
-**All grants include a free conference ticket.** This is the most common and possible grant for us to award. View our [ticket page](https://www.writethedocs.org/conf/portland/2025/tickets/) for what is included with a conference ticket.
+**All grants include a free conference ticket.** This is the most common and possible grant for us to award. View our [ticket page](https://www.writethedocs.org/conf/portland/2026/tickets/) for what is included with a conference ticket.
 
 We can assist with typical costs such as travel and accommodation, but you may request other costs you need covered to attend.
 
@@ -42,7 +48,7 @@ The application form will ask for an estimate of your costs.
 
 ## Grant Amounts
 
-The total amount of grant funds to be distributed is based upon sponsors and number of tickets sold. We will not know the full amount until we near the deadline. In 2024, $3,500 was distributed in grant funds. There is no limit on the amount you request, but please consider this amount when making your request. We rarely fund only one individual and aim to use our budget for two or more people. We do not award partial grants.
+The total amount of grant funds to be distributed is based upon sponsors and number of tickets sold. We will not know the full amount until we near the deadline. For 2026, we have $3,500 total to distribute for grant funds. There is no limit on the amount you request, but please consider this amount when making your request. We rarely fund only one individual and aim to use our budget for two or more people. We do not award partial grants.
 
 ## Are you part of a marginalized or underrepresented group in tech?
 
@@ -70,6 +76,6 @@ You do not have to tell us which underrepresented group(s) you belong to.
 
 ## Application
 
-<iframe src="{{ grants.url }}?embedded=true" width="760" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="{{ grants.url }}?embedded=true" width="100%" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 You can also view [the application form]({{ grants.url }}) in its own page.

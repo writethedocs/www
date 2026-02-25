@@ -208,18 +208,17 @@ suppress_warnings = ['image.nonlocal_uri', 'myst.header']
 
 # Our additions
 
-global_sponsors = yaml.safe_load("""
-- name: gitbook
-  link: https://www.gitbook.com/?utm_campaign=launch&utm_medium=display&utm_source=write_the_docs&utm_content=ad
-  brand: GitBook
-  comment: Community sponsor
-""")
+global_sponsors = ""
 
 # Dynamic announcement message
 announcement_message = None
 
 if datetime.date(2025, 8, 19) <= datetime.date.today() <= datetime.date(2025, 10, 28):
     announcement_message = "Berlin conference: Oct 27-28. <a href='/conf/berlin/2025/'>View the conference site</a>."
+elif datetime.date.today() <= datetime.date(2026, 1, 19):
+    announcement_message = "Portland 2026 CFP is open! <a href='/conf/portland/2026/cfp/'>Submit your talk</a>."
+elif datetime.date(2026, 1, 20) <= datetime.date.today() <= datetime.date(2026, 5, 2):
+    announcement_message = "Portland 2026 tickets are on sale! <a href='/conf/portland/2026/tickets/'>Get your ticket</a>."
 
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
@@ -228,7 +227,7 @@ html_context = {
     'website_visits': '20,000',
     'global_sponsors': global_sponsors,
     'cfp_variables': cfp_variables,
-    'slack_join': "https://join.slack.com/t/writethedocs/shared_invite/zt-2vbvjxiiv-ZUWUdIuimXQ5Q9q_WDPaQw",
+    'slack_join': "https://join.slack.com/t/writethedocs/shared_invite/zt-3mwqpwssw-Jgd7rPumtArAP0EsWzN_xg",
     'slack_form': "https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform?usp=sf_link",
     'announcement_message': announcement_message,
 }

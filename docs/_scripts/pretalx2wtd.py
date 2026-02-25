@@ -28,6 +28,7 @@ CONTENT_TYPE_EXTENSIONS = {
     'image/jpg': 'jpg',
     'image/png': 'png',
     'image/gif': 'gif',
+    'image/webp': 'webp',
 }
 MAX_TITLE_LENGTH_FOR_SLUG = 80  # For #1311
 
@@ -137,8 +138,8 @@ def load_pretalx_resource(url, http_headers):
     return results
 
 if __name__ == '__main__':
-    year='2025'
-    place="Berlin"
+    year='2026'
+    place="Portland"
     convert_to_yaml(
         year,
         series='Write the Docs '+place,

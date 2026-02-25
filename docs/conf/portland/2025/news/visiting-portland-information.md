@@ -17,7 +17,7 @@ This is the final reminder to submit your talk proposals by the end of today, **
 
 We're excited to read your talk ideas and select our 2025 speakers!
 
-<p style="margin: 2em 0;">
+<div style="margin: 2em 0;">
 <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
   <tr>
     <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
@@ -25,7 +25,7 @@ We're excited to read your talk ideas and select our 2025 speakers!
     </td>
   </tr>
 </table>
-</p>
+</div>
 
 ### Our Visiting Portland Page is Live!
 
@@ -50,7 +50,7 @@ We're grateful that the Jupiter Hotel and KEX Portland are offering discounts fo
 - Historic building near shops and restaurants
 - 0.8 miles to the venue
 
-<p style="margin: 2em 0;">
+<div style="margin: 2em 0;">
 <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
   <tr>
     <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
@@ -58,7 +58,7 @@ We're grateful that the Jupiter Hotel and KEX Portland are offering discounts fo
     </td>
   </tr>
 </table>
-</p>
+</div>
 
 ### Thanks to Our Sponsors
 

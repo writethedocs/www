@@ -46,7 +46,7 @@ talks_day1:
   - duration: '0:20'
     title: '🍲 Snack break'
   - duration: '0:30'
-    title: ⚡️ Lightning Talks 
+    title: ⚡️ Lightning Talks
   - duration: '0:05'
     title: '⏲ 5 minute break'
   - duration: '0:30'
@@ -113,4 +113,3 @@ talks_day2:
     title: Hallway track - Chat with other attendees
   - duration: '0:00'
     title: '<b>Conference ends 😔</b>'
-

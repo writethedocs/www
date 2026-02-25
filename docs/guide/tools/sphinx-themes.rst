@@ -1,9 +1,9 @@
 Sphinx themes
 =============
 
-These are the Sphinx themes that we recommend.
-If there are any others you like,
-feel free to open a pull request to add them.
+These are Sphinx themes that the Write the Docs community recommends.
+The Sphinx ecosystem includes many themes - this list highlights popular, well-maintained options.
+If there are others you like, feel free to open a pull request to add them.
 
 Requirements to be included on this list:
 
@@ -83,4 +83,28 @@ designed navigation features (sidebar, inter-page links).
 * https://github.com/pradyunsg/furo
 
 .. image:: /_static/img/furo.png
+  :width: 80%
+
+PyData Sphinx theme
+-------------------
+
+A clean, three-column, Bootstrap-based theme widely adopted by scientific and data science projects. Features responsive design and excellent navigation for complex documentation.
+
+* https://github.com/pydata/pydata-sphinx-theme
+
+Shibuya
+-------
+
+A modern, responsive theme with excellent light/dark mode support and great integration with Jupyter extensions. Features Radix color system and flexible layouts.
+
+* https://github.com/lepture/shibuya
+
+Clarity theme
+-------------
+
+A clean and professional documentation theme for Sphinx. Modern design with light/dark mode, responsive layout, and beautiful typography.
+
+* https://readcraft.io/sphinx-clarity-theme
+
+.. image:: /_static/img/clarity-theme.png
   :width: 80%
