@@ -14,7 +14,7 @@ writing_day:
   - duration: '0:15'
     title: Morning introduction - Introduction to Sprints & Project Introductions
   - duration: '0:15'
-    title: New to Git and GitHub workshop
+    title: '<a href="../writing-day/">New to Git and GitHub workshop</a>'
   - duration: '2:20'
     title: 'Team up and <a href="../writing-day">start writing</a>'
   - duration: '0:10'
@@ -26,7 +26,7 @@ writing_day:
   - duration: '0:15'
     title: 'Afternoon session - <a href="../writing-day">all-day groups reconvene and new group introductions</a>'
   - duration: '2:30'
-    title: New to Git and GitHub workshop
+    title: '<a href="../writing-day/">New to Git and GitHub workshop</a>'
   - duration: '0:30'
     title: '<a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a>'
   - duration: '0:00'
