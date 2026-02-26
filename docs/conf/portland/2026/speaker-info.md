@@ -99,6 +99,5 @@ Download copy and graphics from our [Speaker Media Kit](https://drive.google.com
 This includes:
 
 - Social media copy
-- Individual graphic
 - Event graphic
 - Speaker graphic
