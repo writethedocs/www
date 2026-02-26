@@ -13,31 +13,31 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 ## Essential info
 
-Location  
+**Location**  
 {{ about.venue_address }}
 
-Date  
+**Date**  
 {{ date.short }}
 
-Talk length  
+**Talk length**  
 30 minutes of presentation followed by 5 minutes of moderated Q&A
 
-Projector specs  
+**Projector specs**  
 1920 x 1200 resolution at 60Hz via HDMI, DisplayPort or VGA
 
-Adapters  
+**Adapters**  
 USB-C to HDMI adapters are provided, but if you need a specific adapter, let the speaker coordinator know in advance
 
-Microphones  
+**Microphones**  
 We have both over-ear (preferred) and handheld
 
-Clicker  
+**Clicker**  
 We will provide a clicker if you'd like to use it with your computer slides (not required)
 
-Confidence monitor  
+**Confidence monitor**  
 There will be a monitor downstage left that displays what the audience sees on the screen
 
-What to wear  
+**What to wear**  
 We encourage you to wear clothing that you feel comfortable in. Consider the over-ear microphone when selecting your clothing; make sure there's something for the transmitter to clip onto.
 
 ## Pre-conference Schedule
@@ -99,5 +99,5 @@ Download copy and graphics from our [Speaker Media Kit](https://drive.google.com
 This includes:
 
 - Social media copy
-- Individual graphic
 - Event graphic
+- Speaker graphic
