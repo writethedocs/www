@@ -14,7 +14,7 @@ Write the Docs is more than a conference. Each year we organize a wide range of 
 
 {% else %}
 
-All times are in [{{ tz }}](https://time.is/{{ tz }}).
+All times are in [{{ tz }}](https://time.is/{{ tz | replace(' ', '_') }}).
 
 ```{contents}
 :local:
@@ -30,7 +30,7 @@ All times are in [{{ tz }}](https://time.is/{{ tz }}).
 
 {% if flaghasschedule %}
 
-{% with day_schedule=schedule.outing %} {% include "include/schedule2021.rst" %} {% endwith %}
+{% with day_schedule=schedule.outing %} {% include "include/schedule2026.md" %} {% endwith %}
 
 {% endif %}
 
@@ -46,11 +46,12 @@ All times are in [{{ tz }}](https://time.is/{{ tz }}).
 
 Writing day is held in {{about.venue}}, {{about.unconfroom}}.
 
-*Snacks and drinks will be provided throughout the day.* {% endif %}
+*Snacks and drinks will be provided throughout the day.*
+{% endif %}
 
 {% if flaghasschedule %}
 
-{% with day_schedule=schedule.writing_day %} {% include "include/schedule2021.rst" %} {% endwith %}
+{% with day_schedule=schedule.writing_day %} {% include "include/schedule2026.md" %} {% endwith %}
 
 {% else %}  
 A detailed schedule will be announced soon.
@@ -75,11 +76,13 @@ Is this your first time at Write the Docs? Join us for an informal Introduction 
 - Conference talks are held in {{about.venue}}
 - Unconference is held in {{about.venue}}, {{about.unconfroom}}
 
-{% if flaghasfood %} *Snacks and drinks will be provided throughout the day.* {% endif %}
+{% if flaghasfood %}
+*Snacks and drinks will be provided throughout the day.*
+{% endif %}
 
 {% if flaghasschedule %}
 
-{% with day_schedule=schedule.talks_day1 %} {% include "include/schedule2021.rst" %} {% endwith %}
+{% with day_schedule=schedule.talks_day1 %} {% include "include/schedule2026.md" %} {% endwith %}
 
 {% else %}  
 A detailed schedule will be announced soon.
@@ -97,11 +100,13 @@ A detailed schedule will be announced soon.
 - Conference talks are held in {{about.venue}}
 - Unconference is held in {{about.venue}}, {{about.unconfroom}}
 
-{% if flaghasfood %} *Snacks and drinks will be provided throughout the day.* {% endif %}
+{% if flaghasfood %}
+*Snacks and drinks will be provided throughout the day.*
+{% endif %}
 
 {% if flaghasschedule %}
 
-{% with day_schedule=schedule.talks_day2 %} {% include "include/schedule2021.rst" %} {% endwith %}
+{% with day_schedule=schedule.talks_day2 %} {% include "include/schedule2026.md" %} {% endwith %}
 
 {% else %}  
 A detailed schedule will be announced soon.
