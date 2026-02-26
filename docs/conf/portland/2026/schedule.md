@@ -30,7 +30,11 @@ All times are in [{{ tz }}](https://time.is/{{ tz | replace(' ', '_') }}).
 
 {% if flaghasschedule %}
 
-{% with day_schedule=schedule.outing %} {% include "include/schedule2026.md" %} {% endwith %}
+```{raw} html
+{% with day_schedule=schedule.outing %}
+{% include "include/schedule2026.md" %}
+{% endwith %}
+```
 
 {% endif %}
 
@@ -51,7 +55,11 @@ Writing day is held in {{about.venue}}, {{about.unconfroom}}.
 
 {% if flaghasschedule %}
 
-{% with day_schedule=schedule.writing_day %} {% include "include/schedule2026.md" %} {% endwith %}
+```{raw} html
+{% with day_schedule=schedule.writing_day %}
+{% include "include/schedule2026.md" %}
+{% endwith %}
+```
 
 {% else %}  
 A detailed schedule will be announced soon.
@@ -82,7 +90,11 @@ Is this your first time at Write the Docs? Join us for an informal Introduction 
 
 {% if flaghasschedule %}
 
-{% with day_schedule=schedule.talks_day1 %} {% include "include/schedule2026.md" %} {% endwith %}
+```{raw} html
+{% with day_schedule=schedule.talks_day1 %}
+{% include "include/schedule2026.md" %}
+{% endwith %}
+```
 
 {% else %}  
 A detailed schedule will be announced soon.
@@ -106,7 +118,11 @@ A detailed schedule will be announced soon.
 
 {% if flaghasschedule %}
 
-{% with day_schedule=schedule.talks_day2 %} {% include "include/schedule2026.md" %} {% endwith %}
+```{raw} html
+{% with day_schedule=schedule.talks_day2 %}
+{% include "include/schedule2026.md" %}
+{% endwith %}
+```
 
 {% else %}  
 A detailed schedule will be announced soon.

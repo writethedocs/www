@@ -28,9 +28,11 @@ All times are in [{{ tz }}](https://time.is/{{ tz | replace(' ', '_') }}).
 
 {% if flaghasschedule %}
 
+```{raw} html
 {% with day_schedule=schedule.talks_day1 %}
 {% include "include/schedule2026.md" %}
 {% endwith %}
+```
 
 {% else %}  
 A detailed schedule will be announced soon.
@@ -57,9 +59,11 @@ You can socialize with other virtual attendees in the various hallway channels.
 
 {% if flaghasschedule %}
 
+```{raw} html
 {% with day_schedule=schedule.talks_day2 %}
 {% include "include/schedule2026.md" %}
 {% endwith %}
+```
 
 {% else %}  
 A detailed schedule will be announced soon.
