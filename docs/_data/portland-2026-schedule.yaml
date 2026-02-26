@@ -1,0 +1,141 @@
+outing:
+  - time: '13:45'
+    title: Arrive at <b>Lower Macleay Park or Macleay Park Entrance</b>
+  - time: '14:00'
+    title: '<a href="../hike">Hike starts</a>'
+  - time: '17:00'
+    title: Hike ends - end time approximate
+
+writing_day:
+  - time: '8:00'
+    title: Doors open
+  - time: '9:00'
+    title: Morning introduction - Introduction to Sprints & Project Introductions
+  - time: '9:30'
+    title: 'Team up and <a href="../writing-day">start writing</a>'
+  - time: '11:50'
+    title: '<a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a>'
+  - time: '12:00'
+    title: Lunch break
+  - time: '13:30'
+    title: '<i>Welcome Wagon conference introduction and venue tour</i>'
+  - time: '13:45'
+    title: 'Afternoon session - <a href="../writing-day">all-day groups reconvene and new group introductions</a>'
+  - time: '16:30'
+    title: '<a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a>'
+  - time: '17:00'
+    title: '<b>End of Writing Day</b>'
+  - time: '17:00'
+    title: '<b><a href="../social-events">Reception</a> starts</b>'
+  - time: '19:00'
+    title: '<b>Reception ends</b>'
+
+talks_day1:
+  - time: '9:00'
+    title: Write the Docs team - Community welcome
+  - time: '9:25'
+    title: 5 minute break
+  - time: '9:30'
+    slug: the-git-commands-i-avoided-for-9-years-and-why-i-wish-i-hadn-t-sarah-deaton
+  - time: '10:00'
+    title: 5 minute Q&A
+  - time: '10:05'
+    title: 10 minute break
+  - time: '10:15'
+    slug: documentation-thinking-beyond-the-docs-lessons-from-decision-facing-technical-w-mary-elise-dedicke
+  - time: '10:45'
+    title: 5 minute Q&A
+  - time: '10:50'
+    title: Coffee break
+  - time: '11:05'
+    title: Sponsor introductions
+  - time: '11:15'
+    slug: writing-the-docs-when-the-protocol-is-the-product-alex-garnett
+  - time: '11:45'
+    title: 5 minute Q&A
+  - time: '11:50'
+    title: Lunch break
+  - time: '13:15'
+    title: Lightning talks
+  - time: '13:50'
+    title: 10 minute break
+  - time: '14:00'
+    slug: what-the-data-shows-when-docs-meet-llms-and-why-i-m-excited-for-the-future-ethan-palm
+  - time: '14:30'
+    title: 5 minute Q&A
+  - time: '14:35'
+    title: 10 minute break
+  - time: '14:45'
+    slug: pillars-that-hold-structuring-documentation-around-user-progress-annie-zempel
+  - time: '15:15'
+    title: 5 minute Q&A
+  - time: '15:20'
+    title: Snack break
+  - time: '15:35'
+    slug: what-i-learned-building-an-ai-documentation-auditor-and-what-it-found-in-500-p-rakesh-pasupuleti
+  - time: '16:05'
+    title: 5 minute Q&A
+  - time: '16:10'
+    title: 10 minute break
+  - time: '16:20'
+    slug: chat-are-we-cooked-help-in-the-moment-designing-policy-documentation-for-hi-darlene-chanimaya-postma
+  - time: '16:50'
+    title: 5 minute Q&A
+  - time: '16:55'
+    title: <b>Group photo</b>
+  - time: '17:05'
+    title: <b>Conference day 1 ends</b>
+  - time: '19:00'
+    title: '<b><a href="../social-events">Social event</a> starts</b>'
+  - time: '21:00'
+    title: '<b>Social event ends</b>'
+
+talks_day2:
+  - time: '9:20'
+    title: Write the Docs team - Welcome back
+  - time: '9:25'
+    title: 5 minute break
+  - time: '9:30'
+    slug: drops-of-jupyter-an-exploration-of-the-notebook-ecosystem-adam-michael-wood
+  - time: '10:00'
+    title: 5 minute Q&A
+  - time: '10:05'
+    title: 10 minute break
+  - time: '10:15'
+    slug: you-don-t-need-more-new-contributors-you-need-onboarding-that-actually-works-busayo-ojo
+  - time: '10:45'
+    title: 5 minute Q&A
+  - time: '10:50'
+    title: Coffee break
+  - time: '11:05'
+    title: Meetup announcement (TBD)
+  - time: '11:15'
+    slug: the-invisible-work-what-it-takes-to-be-the-first-and-only-tech-writer-on-the-alina-desiatnikova
+  - time: '11:45'
+    title: 5 minute Q&A
+  - time: '11:50'
+    title: Lunch break
+  - time: '13:15'
+    title: Lightning talks
+  - time: '13:50'
+    title: 10 minute break
+  - time: '14:00'
+    slug: the-most-human-documentation-christian-miles
+  - time: '14:30'
+    title: 5 minute Q&A
+  - time: '14:35'
+    title: 10 minute break
+  - time: '14:45'
+    slug: how-we-deprecated-500-articles-cleaning-up-documentation-at-scale-aileen-mary
+  - time: '15:15'
+    title: 5 minute Q&A
+  - time: '15:20'
+    title: Snack break
+  - time: '15:35'
+    slug: how-to-win-docs-and-influence-robots-improving-robot-accuracy-through-better-do-sarah-lin
+  - time: '16:05'
+    title: 5 minute Q&A
+  - time: '16:10'
+    title: Write the Docs team - Conference closing
+  - time: '16:25'
+    title: <b>Conference ends</b>
