@@ -31,7 +31,7 @@ Welcome Wagon Tours are scheduled for:
 
 View our [Venue page](https://www.writethedocs.org/conf/portland/2026/venue/) for details and the layout of spaces during the conference.
 
-We will provide a venue map onsite. 
+We will provide a venue map onsite.
 
 ## Food and Drinks
 
