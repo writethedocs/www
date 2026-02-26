@@ -41,7 +41,6 @@ Bus transit stops are located near the venue. All transit in Portland announce m
 
 ### Other Venue Spaces (open to the public)
 
-- Martha's Coffee: 7am-3pm
-- Show Bar: 3-11pm
+- Show Bar: 5-11pm
 - Roof Deck: 3-11pm, weather permitting
 - Outdoor seating and city park

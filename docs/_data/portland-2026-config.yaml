@@ -244,12 +244,6 @@ sponsors:
     - name: readthedocs
       link: https://about.readthedocs.com/?ref=writethedocs
       brand: Read the Docs
-    - name: google
-      link: https://opensource.google/?ref=writethedocs
-      brand: Google
-    - name: github
-      link: https://github.com/?ref=writethedocs
-      brand: GitHub
   first:
   in_kind:
 
