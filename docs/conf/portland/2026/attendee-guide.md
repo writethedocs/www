@@ -4,6 +4,8 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 banner: _static/conf/images/headers/2026/attendee-guide.jpg
 ---
 
+Make some cool edits. 
+
 # Attendee Guide
 The Attendee Guide provides conference information and gives strategies and tips for all attendees (new and experienced) to get plugged in and connect with others! We’ve gathered info here that will help you navigate the conference like a pro and make you feel more at home.
 
