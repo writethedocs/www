@@ -21,9 +21,7 @@ To create more ways for attendees to take part on Sunday, we are expanding Writi
 - **Resume writing session or portfolio review**
 - **A pre-scheduled, roundtable discussion track**
 
-Read more information about workshops, resume writing, portfolio review, and the roundtable discussion track below. No additional sign up is required. Schedule to be released in the coming months.
-
-Read more information on how to participate in a Writing Day project below. Ready to submit a project? Click the link below. 
+More details about each activity are below. No additional sign up is required, and the full schedule will be released in the coming months. Ready to submit a Writing Day project? Click the link below.
 
 <div class="announcement" style="background-color:white;">
     <div class="uk-container">
@@ -46,7 +44,7 @@ Writing Day is an all-day event designed for you to join in throughout the day. 
 - **Afternoon Session**
   - Project announcements: Leads give a 2 minute summary, starting with the afternoon-only projects, and projects reconvene
   - GitHub workshop
-  - Resume writing and portfolio review session session
+  - Resume writing and portfolio review session
   - Roundtable discussion track
 
 Exact times will be posted on our [schedule page](/conf/{{shortcode}}/{{year}}/schedule/).
