@@ -11,6 +11,8 @@ writing_day:
     title: Doors open
   - time: '9:00'
     title: Morning introduction - Introduction to Sprints & Project Introductions
+  - time: '9:15'
+    title: New to Git and GitHub workshop
   - time: '9:30'
     title: 'Team up and <a href="../writing-day">start writing</a>'
   - time: '11:50'
@@ -21,6 +23,8 @@ writing_day:
     title: '<i>Welcome Wagon conference introduction and venue tour</i>'
   - time: '13:45'
     title: 'Afternoon session - <a href="../writing-day">all-day groups reconvene and new group introductions</a>'
+  - time: '14:00'
+    title: New to Git and GitHub workshop
   - time: '16:30'
     title: '<a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a>'
   - time: '17:00'
