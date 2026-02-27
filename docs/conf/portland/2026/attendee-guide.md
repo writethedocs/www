@@ -5,7 +5,7 @@ banner: _static/conf/images/headers/2026/attendee-guide.jpg
 ---
 
 # Attendee Guide
-The Attendee Guide provides conference information and gives strategies and tips for all attendees (new and experienced) to get plugged in and connect with others! We’ve gathered info here that will help you navigate the conference like a pro and make you feel more at home.
+The Attendee Guide provides conference information and gives strategies and tips for new and experienced attendees to get plugged in and connect with others! We’ve gathered info here that will help you navigate the conference like a pro and make you feel more at home.
 
 ## Where Can I Ask a Question?
 
@@ -19,7 +19,7 @@ Join us for an introduction to Write the Docs. We’ll go on a short tour of the
 
 Welcome Wagon Tours are scheduled for:
 
-- **Sunday** - meet on the 1st floor at Registration by Martha's Cafe
+- **Sunday** - meet on the 1st floor by the box office
   - 11:50am - Before lunch
   - 1:30pm - After lunch
   - 4:30pm - Before the Welcome Reception
@@ -31,18 +31,16 @@ Welcome Wagon Tours are scheduled for:
 
 View our [Venue page](https://www.writethedocs.org/conf/portland/2026/venue/) for details and the layout of spaces during the conference.
 
-We will provide a venue map in April.
+We will provide a venue map onsite.
 
 ## Food and Drinks
 
 - Snacks, coffee, tea, and water are included with your ticket. Vegan, vegetarian, gluten-free, and dairy-free options will be offered. 
 - Bring a water bottle as there are refill stations located around the venue.
-- 🆕 **NEW this year:** Two food carts will be brought in for Monday and Tuesday lunches from 11:30am-2pm. This is a great option for folks who want to stay onsite.
-  - [Let's Roll](https://www.letsrollpdx.com/)
-  - [Nacho's House](https://nachospdx.com/)
+- We'll provide three food carts for Monday and Tuesday lunches from 11:30am-2:00pm. This is a great option for folks who want to stay onsite.
+  - Food Carts TBD
 - There are many food and beverage options within 0.5 miles (0.8 km) around the conference venue. Explore Portland’s amazing food scene on the [Visiting Portland page](https://www.writethedocs.org/conf/portland/2026/visiting/).
-- The Welcome Wagon team will organize lunch and dinner meetups for folks interested in eating with others. Visit the **Registration** table during conference days to sign up.
-
+  
 ## Dress Code
 We don’t have one! Portland is a casual-dress city and so is the Write the Docs conference. 
 - You’ll be meeting business colleagues at this conference, though, so neat and comfortable are good dress guidelines.
@@ -61,7 +59,7 @@ We are committed to hosting a conference that is accessible to everyone. Below a
 - 1st floor restrooms are gender-neutral, single, and multi-stall
 - 2nd and 3rd floor restrooms (auditorium level) are gender-segregated and multi-stall
 - ADA spots (two) in the guest parking lot south of the venue
-- Spaces in the venue with seating and tables including the Assembly Lounge, Sunset Room, Show Bar, Martha’s (coffee shop), hallways, the rooftop and patio outside
+- Spaces in the venue with seating and tables including the Assembly Lounge, Sunset Room, Show Bar, Martha’s, hallways, the rooftop and patio outside
 - Open seating: you're welcome to sit anywhere in the main stage auditorium on the 2nd and 3rd floor.
 
 ### In the Auditorium
@@ -104,32 +102,33 @@ Service Animals are welcome at our conference venue.
 
 ### Writing Day:
 
-[Writing Day](https://www.writethedocs.org/conf/portland/2026/writing-day/) is modeled after the concept of “sprints”. The main goal is to get interesting people in the same room, sharing their passions and goals, and collaborating to find creative solutions to solve a problem or issue.
+[Writing Day](https://www.writethedocs.org/conf/portland/2026/writing-day/) is the official start of the conference. To create more ways for attendees to participate, we are expanding Writing Day to include additional workshops and discussions.
 
-- Sign up or bring a project to lead.
-- Attend and contribute to someone else’s project.
+- Writing Day project (half-day or full-day projects)
+  - Attendees can lead a project or join and contribute to a project
+- New to Git and GitHub workshops
+- Resume writing session or portfolio review
+- Roundtable discussions
 
 ### Unconference:
 The [Unconference](https://www.writethedocs.org/conf/portland/2026/unconference/) consists of attendee-driven sessions that provide the opportunity for anyone to lead, contribute, share ideas, and discuss ideas.
 
-- Join and attend an unconference session.
-- Sign up to lead a session at the schedule board.
+- Join and attend an unconference session
+- Sign up to lead a session at the schedule board
 
 ### Lightning Talks:
 
 [Lightning Talks](https://www.writethedocs.org/conf/portland/2026/lightning-talks/) are short talks, up to 5 minutes, where you share an idea, concept, or a bit of information that you find interesting.
 
-- Sign up to give a talk! Sign up at the **Registration** table. Selections are announced on Monday and Tuesday before the lunch breaks.
+- Sign up to give a talk! Selections are announced on Monday and Tuesday before the lunch breaks.
 
 ### Sponsor Expo:
 
-[Sponsor Expo](https://www.writethedocs.org/conf/portland/2026/sponsors/) will include companies hiring and others sharing products.
-
-- Approach a table and talk with sponsors.
+[Sponsor Expo](https://www.writethedocs.org/conf/portland/2026/sponsors/) will include companies hiring and others sharing products. Visit our sponsors on Monday and Tuesday in the hallway.
 
 ### Welcome Reception:
 
-Join us for our Sunday night welcome party! Stop by and say hello to the Welcome Wagon Team. Meet other attendees or staff! Snacks and beverages included.
+Join us for our Sunday night welcome party! Drinks and snacks included.
 
 ### Monday Conference Party:
 
