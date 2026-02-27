@@ -45,6 +45,8 @@ All attendees, in person or virtual, are required to abide by our [Code of Condu
 ## Refund Policy
 
 Refunds are offered with a 10% processing fee, up to 2 weeks before the conference.
+This includes changing your in-person ticket to virtual, where we will refund the price difference,
+minus the processing fee.
 
 If you need to cancel your ticket because of fear of traveling internationally to the United States or getting COVID-19 prior to the conference, we will offer a 100% refund.
 
