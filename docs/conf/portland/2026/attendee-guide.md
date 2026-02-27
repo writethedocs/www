@@ -29,7 +29,7 @@ Welcome Wagon Tours are scheduled for:
 
 ## Conference Layout
 
-View our [Venue page](https://www.writethedocs.org/conf/portland/2026/venue/) for details and the layout of spaces during the conference.
+View our [Venue page](/conf/{{shortcode}}/{{year}}/venue/) for details and the layout of spaces during the conference.
 
 We will provide a venue map onsite.
 
@@ -39,13 +39,13 @@ We will provide a venue map onsite.
 - Bring a water bottle as there are refill stations located around the venue.
 - We'll provide three food carts for Monday and Tuesday lunches from 11:30am-2:00pm. This is a great option for folks who want to stay onsite.
   - Food Carts TBD
-- There are many food and beverage options within 0.5 miles (0.8 km) around the conference venue. Explore Portland’s amazing food scene on the [Visiting Portland page](https://www.writethedocs.org/conf/portland/2026/visiting/).
+- There are many food and beverage options within 0.5 miles (0.8 km) around the conference venue. Explore Portland’s amazing food scene on the [Visiting Portland page](/conf/{{shortcode}}/{{year}}/visiting/).
   
 ## Dress Code
 We don’t have one! Portland is a casual-dress city and so is the Write the Docs conference. 
 - You’ll be meeting business colleagues at this conference, though, so neat and comfortable are good dress guidelines.
 - Bring layers! Weather is on average high 65°F (18°C), low of 48°F (8°C), rainy, and partly sunny.
-- Bring appropriate hiking clothes and shoes for those going on the hike. Review the [Hike page](https://www.writethedocs.org/conf/portland/2026/hike/) for more information.
+- Bring appropriate hiking clothes and shoes for those going on the hike. Review the [Hike page](/conf/{{shortcode}}/{{year}}/hike/) for more information.
 
 ## Accessibility
 
@@ -67,7 +67,7 @@ We are committed to hosting a conference that is accessible to everyone. Below a
 - Live captioning: If you are Deaf, Hard of Hearing, or hearing impaired, and unable to view the captions, a staff member can move you to a closer seat.
 - Reserved seating will be available for those who need to be close enough to view the live captioning. Please reach out to us so we can prioritize your seating.
 - Distanced seating in the 3rd floor balcony
-- Lighting sensitivity: Please [contact us](https://www.writethedocs.org/conf/portland/2026/contact/) and we will do our best to accommodate.
+- Lighting sensitivity: Please [contact us](/conf/{{shortcode}}/{{year}}/contact/) and we will do our best to accommodate.
 
 ### Dietary Requirements
 
@@ -89,8 +89,8 @@ Service Animals are welcome at our conference venue.
 - Follow Write the Docs on [LinkedIn](https://www.linkedin.com/company/write-the-docs), [Bluesky](https://bsky.app/profile/writethedocs.bsky.social), and [Mastodon](https://fosstodon.org/@writethedocs).
 - Attend a Welcome Wagon tour!
 - Engage with other attendees, volunteers, staff, and speakers. Don’t forget to use Eric Holscher’s [Pac-Man Rule](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/) to leave room for others to join! The most important part of this conference (and *any* conference) is the people you meet. Set a goal for yourself to meet a few new people.
-- Review the [Speaker Schedule](https://www.writethedocs.org/conf/portland/2026/speakers/) and choose which talks you want to attend the most. Spread out your time between talks, unconference sessions, networking, and breaks.
-- Check the [Unconference](https://www.writethedocs.org/conf/portland/2026/unconference/) schedule regularly (this will be shared during the conference). People add new sessions all the time.
+- Review the [Speaker Schedule](/conf/{{shortcode}}/{{year}}/speakers/) and choose which talks you want to attend the most. Spread out your time between talks, unconference sessions, networking, and breaks.
+- Check the [Unconference](/conf/{{shortcode}}/{{year}}/unconference/) schedule regularly (this will be shared during the conference). People add new sessions all the time.
 - Give yourself and your brain a break! Conferences are exhilarating, but can also be exhausting. Grab a spot in the Sunset Room or take a quick walk.
 - Eat! There will be snacks available inside the conference but there are many restaurants close by.
 
@@ -102,7 +102,7 @@ Service Animals are welcome at our conference venue.
 
 ### Writing Day:
 
-[Writing Day](https://www.writethedocs.org/conf/portland/2026/writing-day/) is the official start of the conference. To create more ways for attendees to participate, we are expanding Writing Day to include additional workshops and discussions.
+[Writing Day](/conf/{{shortcode}}/{{year}}/writing-day/) is the official start of the conference. To create more ways for attendees to participate, we are expanding Writing Day to include additional workshops and discussions.
 
 - Writing Day project (half-day or full-day projects)
   - Attendees can lead a project or join and contribute to a project
@@ -111,20 +111,20 @@ Service Animals are welcome at our conference venue.
 - Roundtable discussions
 
 ### Unconference:
-The [Unconference](https://www.writethedocs.org/conf/portland/2026/unconference/) consists of attendee-driven sessions that provide the opportunity for anyone to lead, contribute, share ideas, and discuss ideas.
+The [Unconference](/conf/{{shortcode}}/{{year}}/unconference/) consists of attendee-driven sessions that provide the opportunity for anyone to lead, contribute, share ideas, and discuss ideas.
 
 - Join and attend an unconference session
 - Sign up to lead a session at the schedule board
 
 ### Lightning Talks:
 
-[Lightning Talks](https://www.writethedocs.org/conf/portland/2026/lightning-talks/) are short talks, up to 5 minutes, where you share an idea, concept, or a bit of information that you find interesting.
+[Lightning Talks](/conf/{{shortcode}}/{{year}}/lightning-talks/) are short talks, up to 5 minutes, where you share an idea, concept, or a bit of information that you find interesting.
 
 - Sign up to give a talk! Selections are announced on Monday and Tuesday before the lunch breaks.
 
 ### Sponsor Expo:
 
-[Sponsor Expo](https://www.writethedocs.org/conf/portland/2026/sponsors/) will include companies hiring and others sharing products. Visit our sponsors on Monday and Tuesday in the hallway.
+[Sponsor Expo](/conf/{{shortcode}}/{{year}}/sponsors/) will include companies hiring and others sharing products. Visit our sponsors on Monday and Tuesday in the hallway.
 
 ### Welcome Reception:
 
@@ -146,8 +146,8 @@ Jupiter Hotel
 
 ### Hike:
 
-The [Hike](https://www.writethedocs.org/conf/portland/2026/hike/) is the unofficial beginning of the conference. If you arrive before Saturday afternoon, join us for a walk and some fresh air!
+The [Hike](/conf/{{shortcode}}/{{year}}/hike/) is the unofficial beginning of the conference. If you arrive before Saturday afternoon, join us for a walk and some fresh air!
 
 ## Did we miss anything?
 
-Is there anything that would make your attendance possible or improve your experience? Please email us at <portland@writethedocs.org>, and we’ll do what we can to provide it.
+Is there anything that would make your attendance possible or improve your experience? Please email us at <{{email}}>, and we’ll do what we can to provide it.
