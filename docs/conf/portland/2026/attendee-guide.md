@@ -39,7 +39,7 @@ We will provide a venue map onsite.
 - Bring a water bottle as there are refill stations located around the venue.
 - We'll provide three food carts for Monday and Tuesday lunches from 11:30am-2:00pm. This is a great option for folks who want to stay onsite.
   - Food Carts TBD
-- There are many food and beverage options within 0.5 miles (0.8 km) around the conference venue. Explore Portland’s amazing food scene on the [Visiting Portland page](/conf/{{shortcode}}/{{year}}/visiting/).
+- There are many food and beverage options within 0.5 miles (0.8 km) around the conference venue. Explore {{city}}’s amazing food scene on the [Visiting {{city}} page](/conf/{{shortcode}}/{{year}}/visiting/).
   
 ## Dress Code
 We don’t have one! Portland is a casual-dress city and so is the Write the Docs conference. 
