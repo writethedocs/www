@@ -32,7 +32,7 @@ In addition to our usual Writing Day projects, we've added some new Writing Day 
 
 Want more information? Look no further than the [Writing Day page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day).
 
-### Submissions are open
+### Project submissions are open
 
 Got an idea for a Writing Day project? Submit it by **April 22, 2026** so we can share it in a blog post and email with our attendees before the conference! And you're always more than welcome to bring a project the day of and announce it during the actual Writing Day.
 
@@ -41,3 +41,7 @@ Got an idea for a Writing Day project? Submit it by **April 22, 2026** so we can
     <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ writing_day.url }}">Submit your Writing Day project</a>
     </div>
 </div>
+
+For the latest updates, follow us on [LinkedIn](https://www.linkedin.com/company/write-the-docs), [Bluesky](https://bsky.app/profile/writethedocs.bsky.social), and [Mastodon](https://fosstodon.org/@writethedocs).
+
+We look forward to seeing you in May!
