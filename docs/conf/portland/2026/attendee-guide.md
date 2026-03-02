@@ -86,7 +86,7 @@ Service Animals are welcome at our conference venue.
 ## Tips to Have a Great Conference
 
 - Join the Write the Docs [Slack](https://www.writethedocs.org/slack/)! This is the main way for attendees to stay connected, make plans, and ask questions during the conference. This requires you complete a sign up form so we highly encourage you sign up *before* the conference begins. 
-- Follow Write the Docs on [LinkedIn](https://www.linkedin.com/company/18284823/admin/page-posts/published/), [Bluesky](https://bsky.app/profile/writethedocs.bsky.social), and [Mastodon](https://fosstodon.org/@writethedocs).
+- Follow Write the Docs on [LinkedIn](https://www.linkedin.com/company/write-the-docs), [Bluesky](https://bsky.app/profile/writethedocs.bsky.social), and [Mastodon](https://fosstodon.org/@writethedocs).
 - Attend a Welcome Wagon tour!
 - Engage with other attendees, volunteers, staff, and speakers. Don’t forget to use Eric Holscher’s [Pac-Man Rule](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/) to leave room for others to join! The most important part of this conference (and *any* conference) is the people you meet. Set a goal for yourself to meet a few new people.
 - Review the [Speaker Schedule](https://www.writethedocs.org/conf/portland/2026/speakers/) and choose which talks you want to attend the most. Spread out your time between talks, unconference sessions, networking, and breaks.
