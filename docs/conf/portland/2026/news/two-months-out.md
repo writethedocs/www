@@ -9,7 +9,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 # Conference is 2 Months Away!
 
-Write the Docs Portland is just two months away, and we have some exciting updates to share. If you haven’t grabbed your ticket yet, now is the perfect time! Check out our [speaker lineup](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers), or read on to learn about our Attendee Guide and the latest updates to Writing Day.
+Write the Docs Portland is just two months away, and we have some exciting updates to share. If you haven’t grabbed your ticket yet, now is the perfect time! Check out our [speaker lineup](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/), or read on to learn about our Attendee Guide and the latest updates to Writing Day.
 
 <div class="announcement" style="background-color:white;">
     <div class="uk-container">
@@ -19,7 +19,7 @@ Write the Docs Portland is just two months away, and we have some exciting updat
 
 ## Prepare for the conference with the Attendee Guide
 
-Wondering where to ask questions, where to get food, or get tips on how to get the most out of Write the Docs? Check out our [Attendee Guide](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/attendee-guide) for all that info and more.
+Wondering where to ask questions, where to get food, or get tips on how to get the most out of Write the Docs? Check out our [Attendee Guide](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/attendee-guide/) for all that info and more.
 
 ## Writing Day: Projects, workshops, discussions, and more
 
@@ -30,7 +30,7 @@ In addition to our usual Writing Day projects, we've added some new Writing Day 
 - Resume writing sessions or portfolio reviews
 - Pre-scheduled, roundtable discussions
 
-Want more information? Look no further than the [Writing Day page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day).
+Want more information? Look no further than the [Writing Day page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/).
 
 ### Project submissions are open
 
