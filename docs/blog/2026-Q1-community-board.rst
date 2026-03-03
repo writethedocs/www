@@ -14,15 +14,6 @@ Q1-2026 meeting highlights
 
 Since this is our first meeting of the year (marking the beginning of our third year of operation as a board, happy boardaversary!), we prepared for the meeting by checking in with the various team leads to find out how the board operations might be improved so that we can better support the teams and the community as a whole.
 
-**Quarterly meeting format and focus**
-
-Since the community board members cover many, MANY time zones, scheduling a time slot for our quarterly meeting has always been a challenge. Our team leads have been exemplary in their dedication, often sacrificing late-nights or early-morning hours to participate.
-
-Over time, we realized that trying to cover all of the time zones had degraded people's energy levels, and we wanted to find a way to to optimize the time that our team leads spend during those meetings for productive or targeted discussions about initiatives and issues, rather than simple roundtable updates (which, let's face it, could be an email). 
-
-As our first experiment of the year, we split the board meeting from a single 1hr meeting that's either late-night or early morning for about half of the board, into 2x30min meetings on the same day for each time zone grouping. Team leads can now choose which meeting they prefer to attend on that day, and thanks to AI note-keeping we are able to capture and share information with each other on Slack/email after the meetings.
-
-The other goal of having smaller meetings is to facilitate more focused and detailed discussions, and we've already seen the benefit of this approach at our first round of meetings. The team leads were able to bring more detailed topics to each meeting, and even though each meeting was 30min, we were still able to dive more deeply into the topics.
 
 **New initiative: Community content spotlight**
 
