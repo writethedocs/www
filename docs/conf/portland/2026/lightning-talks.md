@@ -21,7 +21,7 @@ Our goal is to have a balance between first-time and experienced speakers.
 
 **Date: Monday, May 4 and Tuesday, May 5 after lunch**
 
-Submit your Lightning Talk in person at the registration/check-in table.
+Lightning Talks can be submitted through an online form only. 
 
 **Submissions are open:**
 

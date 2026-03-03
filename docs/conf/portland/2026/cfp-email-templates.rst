@@ -126,13 +126,15 @@ Subject:
 
    Just wanted to drop you all a quick note covering some logistics.
 
-   ○  First up, if you wanted a mentor, all of those intros have been sent out. Check your inboxes and spam folders and start talking to the good folks who've agreed to support you in your preparation.
+   ○ First up, if you wanted a mentor, all of those intros have been sent out. Check your inboxes and spam folders and start talking to the good folks who've agreed to support you in your talk preparation.
 
-   ○ Private speaker Slack channel! If you're not on the Slack already, [join the WTD Slack](https://join.slack.com/t/writethedocs/shared_invite/zt-2vbvjxiiv-ZUWUdIuimXQ5Q9q_WDPaQw). Once you're signed up, or if you're already on there, ping me @plaindocs so I can add you to the private speaker channel. It contains many of our past speakers, who will be happy to offer advice or answer questions.
+   ○ Please make sure to log in to [Pretalx](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/) and fill out the questions on pronouns, name pronunciation and interests for our emcee intro. We also need your **hoodie size** for a free speaker hoodie!
 
-   ○ We're working on a provisional schedule, taking into account all requested preferences, I hope to be able to share that with you next week.
+   ○ Private speaker Slack channel! If you're not on the Slack already, [join the WTD Slack](https://join.slack.com/t/writethedocs/shared_invite/zt-2vbvjxiiv-ZUWUdIuimXQ5Q9q_WDPaQw). Once you're signed up, or if you're already on there, ping me @plaindocs so I can add you to the private speaker channel. It contains many of our past speakers, and myself and other organisers, who will be happy to offer advice or answer questions.
 
-   ○ While you're working on your talks, we'd love for you to check out our [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) page! It's got all sorts of details on talk format, tech specs, content guidelines, etc.
+   ○ We're working on a provisional schedule, taking into account all requested time slot preferences, I hope to be able to share that with you in a week or so.
+
+   ○ While you're working on your talks, we'd love for you to check out our [speaker info](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-info/) page! It's got all sorts of details on talk format, tech specs, content guidelines, etc.
 
    Also, if you're ever in doubt about whether something you're writing would be appropriate or not, we'd like to refer you to our conference Code of Conduct, which asks that you refrain from any sexually suggestive or harassing language of any kind. Check it out in full, drop me a line if you have questions: http://www.writethedocs.org/code-of-conduct/
 
@@ -140,8 +142,12 @@ Subject:
 
    The Write the Docs Team
 
+
+
 02 - Video recording template
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Can skip this one for in-person events.
 
 Subject:
    WTD {{city}} {{year}} -- talk recording
@@ -154,7 +160,7 @@ Subject:
 
    ○ We'd love you to upload your recorded talk by the **{{ cfp.video_by }}**, or soon after. If you're likely to need more time, please let me know in advance.
    ○ We have folks who can help you record online, both in US and EU time zones, if this is of interest just let me know and I'll get a slot booked. [Recording guidelines](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/talk-recording-guidelines/).
-   ○ As well as the tips in the recording guidelines we've updated the [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) for virtual conferences.
+   ○ As well as the tips in the recording guidelines we've updated the [speaker info](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-info/) for virtual conferences.
 
    Now those essentials are covered, a little more info about the event itself:
 
@@ -195,11 +201,11 @@ Subject:
 
    We're about seven weeks out from the conference now, lots of stuff is happening behind the scenes, and I hope you're feeling good about writing and speaking.
 
-   We've got a [provisional schedule]({{cfp.preview}}) up, I've taken note of all of your requests, but I'd *love it* if you could check your time-slot and make sure it works for you. We'll be publishing it **Wednesday, March 12**, so please request any changes well before that.
+   We've got a [provisional schedule]({{cfp.preview}}) up, I've taken note of all of your requests, but I'd *love it* if you could check your time-slot and make sure it works for you. We'll be publishing it **next Monday**, so please request any changes well before that.
 
-   We're keeping the Q&A sessions in our live event. Questions submitted by the audience are moderated by the emcee, and asked in a conversation style directionly after your talk.
+   Q&A sessions are audience driven, moderated by the emcee, and asked in a conversation style directionly after your talk, expect about 5 minutes.
 
-   You might find it useful to check out the [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) and the [what to expect guide](https://www.writethedocs.org/blog/what-to-expect-as-a-speaker/).
+   You might find it useful to check out the [speaker info](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-info/) and the [what to expect guide](https://www.writethedocs.org/blog/what-to-expect-as-a-speaker/).
 
    As we've done for the past few years we'll be live captioning all talks, and it makes the [captioners](https://www.youtube.com/watch?v=xFnM6vmvWaI) lives *much* easier if you can send in a copy of your slides, or even a word list of unusual words that you might use. We'll let you know where to send these a few weeks before the conference.
 
@@ -216,8 +222,6 @@ Subject:
 
 Tickets:
    {{cfp_variables['ticket']}}
-Calendly:
-   {{cfp_variables['calendly']}}
 
 ----
 
@@ -322,7 +326,6 @@ Populate the CFP environment variables to see the email templates.::
 
    export WTD_CFP_UPLOAD='TODO'
    export WTD_CFP_SPEAKER_TICKET='TODO'
-   export WTD_CFP_CALENDLY='TODO'
    export WTD_CFP_FEEDBACK_FORM='TODO'
    export WTD_CFP_SPEAKER_GIFT_FORM='TODO'
 

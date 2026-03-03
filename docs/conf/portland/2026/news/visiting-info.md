@@ -4,10 +4,10 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 banner: _static/conf/images/headers/2026/visiting.jpg
 ---
 
-```{eval-rst}
-.. post:: Jan 28, 2026
-   :tags: {{shortcode}}-{{year}}
+```{post} Jan 28, 2026
+:tags: {{shortcode}}-{{year}}
 ```
+
 
 # Visiting Portland Information is live, Grant Reminders, and Volunteer Information
 
@@ -59,9 +59,9 @@ Thanks to our current sponsors:
 
 
 
+
 Check out our [sponsorship prospectus](https://www.writethedocs.org/conf/portland/2026/sponsors/prospectus/) to learn more and join the community.
 
 We look forward to an excellent year!
-
 
 
