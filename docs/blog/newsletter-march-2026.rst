@@ -85,7 +85,7 @@ A recent community discussion explored what it might mean to use knowledge graph
 
 At a high level, a `knowledge graph <https://www.ibm.com/think/topics/knowledge-graph>`__ represents the relationships among related concepts. Each concept is represented as a node and the relationships between them are known as edges. This approach allows information to be explored in context and through relationships rather than as isolated pieces.
 
-One commonly referenced example is `Wikidata <https://www.wikidata.org/wiki/Wikidata:Introduction>`__, which collects structured data representing links among items such as people, concepts, and events. These relationships can be used in a variety of applications, such as improving responses to knowlege queries and building privacy-respecting travel assistants.
+One commonly referenced example is `Wikidata <https://www.wikidata.org/wiki/Wikidata:Introduction>`__, which collects structured data representing links among items such as people, concepts, and events. These relationships can be used in a variety of applications, such as improving responses to knowledge queries and building privacy-respecting travel assistants.
 
 In the context of documentation, most teams are not building full knowledge graphs. Instead, they apply the same thinking through intentional linking and structure. This often involves connecting related topics, concepts, and workflows across a documentation set.
 
