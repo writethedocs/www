@@ -249,6 +249,7 @@ Writing doc sets
 Information architecture
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `Knowledge graphs in documentation </blog/newsletter-march-2025/#knowledge-graphs-in-documentation>`__
 - |:newspaper:| `How to organize content in your documents </blog/newsletter-april-2025/#how-to-organize-content-in-your-documents>`__
 - |:newspaper:| `Where should support content live? </blog/newsletter-april-2022/#where-should-support-content-live>`__
 - |:movie_camera:| `More than words: Reviewing and updating your information architecture </videos/prague/2021/more-than-words-reviewing-and-updating-your-information-architecture-lana-brindley-she-her/>`__
@@ -574,6 +575,8 @@ DITA
 AI and LLMs
 ~~~~~~~~~~~
 
+- |:newspaper:| `Should we structure docs for AI agents? </blog/newsletter-march-2026/#should-we-structure-docs-for-ai-agents>`__
+- |:newspaper:| `AI assistants in docs </blog/newsletter-march-2026/#ai-assistants-in-docs>`__
 - |:newspaper:| `Can AI be both a bubble and useful? </blog/newsletter-february-2026/#can-ai-be-both-a-bubble-and-useful>`__
 - |:newspaper:| `AI and the future of documentation </blog/newsletter-december-2025/#ai-and-the-future-of-documentation>`__
 - |:newspaper:| `Optimizing docs for LLMs </blog/newsletter-november-2025/#optimizing-docs-for-llms>`__
@@ -734,6 +737,7 @@ Meetups
 Style guides
 ~~~~~~~~~~~~
 
+- |:newspaper:| `De-personalizing examples </blog/newsletter-march-2025/#de-personalizing-examples>`__
 - |:newspaper:| `Style guidance for alt text </blog/newsletter-february-2026/#style-guidance-for-alt-text>`__
 - |:newspaper:| `Create a screenshot style guide </blog/newsletter-november-2025/#create-a-screenshot-style-guide>`__
 - |:newspaper:| `Choosing a style guide </blog/newsletter-november-2022/#choosing-a-style-guide>`__
