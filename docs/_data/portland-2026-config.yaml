@@ -286,5 +286,5 @@ flaghasboat: False
 # Pages to be linked in January 2026
 flaghasvisiting: True
 flaghasteam: True
-flaghasattendeeguide: False
+flaghasattendeeguide: True
 flaghasbadgeflair: False
