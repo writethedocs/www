@@ -13,7 +13,7 @@ We're excited to announce the dates for our Berlin 2026 conference!
 
 **Write the Docs {{ city }} {{ year }} will be on {{ date.main }}**.
 
-We'll be back at bUm for another year, full of great talks, networking, and community building.
+We'll be back at bUm for another year, with great talks, lots of  networking, and awesome community building.
 
 ## Call for Proposals
 
