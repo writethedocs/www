@@ -249,7 +249,7 @@ Writing doc sets
 Information architecture
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-- |:newspaper:| `Knowledge graphs in documentation </blog/newsletter-march-2025/#knowledge-graphs-in-documentation>`__
+- |:newspaper:| `Knowledge graphs in documentation </blog/newsletter-march-2026/#knowledge-graphs-in-documentation>`__
 - |:newspaper:| `How to organize content in your documents </blog/newsletter-april-2025/#how-to-organize-content-in-your-documents>`__
 - |:newspaper:| `Where should support content live? </blog/newsletter-april-2022/#where-should-support-content-live>`__
 - |:movie_camera:| `More than words: Reviewing and updating your information architecture </videos/prague/2021/more-than-words-reviewing-and-updating-your-information-architecture-lana-brindley-she-her/>`__
@@ -737,7 +737,7 @@ Meetups
 Style guides
 ~~~~~~~~~~~~
 
-- |:newspaper:| `De-personalizing examples </blog/newsletter-march-2025/#de-personalizing-examples>`__
+- |:newspaper:| `De-personalizing examples </blog/newsletter-march-2026/#de-personalizing-examples>`__
 - |:newspaper:| `Style guidance for alt text </blog/newsletter-february-2026/#style-guidance-for-alt-text>`__
 - |:newspaper:| `Create a screenshot style guide </blog/newsletter-november-2025/#create-a-screenshot-style-guide>`__
 - |:newspaper:| `Choosing a style guide </blog/newsletter-november-2022/#choosing-a-style-guide>`__

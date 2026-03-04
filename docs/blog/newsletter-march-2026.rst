@@ -35,7 +35,7 @@ Not everyone was convinced that there's urgency to adapt docs for agent consumpt
 
 The reassuring consensus: the actual content of good docs largely serves both audiences. Clarity, structure, and good semantics benefit human and agent readers alike.
 
-See more Write the Docs resources about `AI and LLMs </topics/##ai-and-llms>`__.
+See more Write the Docs resources about `AI and LLMs </topics/#ai-and-llms>`__.
 
 -------------------------
 De-personalizing examples
@@ -43,7 +43,7 @@ De-personalizing examples
 
 Effective documentation may require examples within the content. Documentarians must consider ways to protect the security and privacy of your company’s or other people’s information while maintaining clear and usable examples. A recent poster sought guidance on creating in-house guidelines about what would be considered private data (such as email addresses, API tokens, server names, and user IDs), how to mask or replace that data appropriately, and where these standards should be applied (for example, in textual content and screenshots).
 
-For guidance on creating fictitious names, domains, and other sample data, contributors recommended consulting existing style guides (such as the `Red Hat Technical Writing Style Guide <https: https://stylepedia.net/>`_, `Microsoft Writing Style Guide <https://learn.microsoft.com/en-us/style-guide/welcome/>`_, `Google Developer Documentation Style Guide <https://developers.google.com/style>`_ and the `Splunk Style Guide <https://help.splunk.com/en/splunk-style-guide/welcome-to-the-splunk-style-guide>`_). See also the **General** resources at the end of this article.
+For guidance on creating fictitious names, domains, and other sample data, contributors recommended consulting existing style guides (such as the `Red Hat Technical Writing Style Guide <https://stylepedia.net/>`_, `Microsoft Writing Style Guide <https://learn.microsoft.com/en-us/style-guide/welcome/>`_, `Google Developer Documentation Style Guide <https://developers.google.com/style>`_ and the `Splunk Style Guide <https://help.splunk.com/en/splunk-style-guide/welcome-to-the-splunk-style-guide>`_). See also the **General** resources at the end of this article.
 
 Specific recommendations include using neutral or common placeholder names (such as Pat Smith) and internationally representative names where appropriate, clearly fictitious domains such as example.com, and obvious placeholder digits (for example, 0123456789 or repeated numbers). The discussion also advised avoiding copyrighted fictional characters and suggested, where appropriate, that example usernames reflect user roles (such as user or admin).
 
@@ -111,7 +111,7 @@ People discussed user preferences for AI-first/AI assistant docs vs. traditional
 
 The consensus was that AI chatbots are contributing to user satisfaction when navigating docs sites. These tools are helpful guides and streamline the search process for many people, but adoption of AI chatbots depends on identifying exact user needs and matching them with the appropriate product. There is a trend of companies supporting AI-first docs, but there are concerns about long-term reliability.
 
-See more Write the Docs resources about `AI and LLMs </topics/##ai-and-llms>`__.
+See more Write the Docs resources about `AI and LLMs </topics/#ai-and-llms>`__.
 
 ----------------
 From our sponsor
