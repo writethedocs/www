@@ -9,7 +9,6 @@ If you're attending the Job Fair, it helps to do a little work up front:
 * Come up with a few questions you will ask folks from the company. Some options here include questions about work culture, documentation tooling, or hybrid work situations.
 * Prep a resume or have a business card on hard to easily share your contact info.
 * Plan to ask for a card or contact info for the jobs that you like, so you can also be proactive in outreach.
-* Browse for possible options you are interested in at the Write the Docs job board: https://jobs.writethedocs.org/.
 
 Tips for Sponsors
 ~~~~~~~~~~~~~~~~~
@@ -17,7 +16,6 @@ Tips for Sponsors
 If you want to maximize your contacts with potential new employees, make sure to:
 
 * Ensure you have some fun swag items or handouts available for folks who are interested in your jobs.
-* Post your job postings to the Write the Docs job board: https://jobs.writethedocs.org/
 * Make sure your booth staff are registered before the conference starts.
 
 All sponsor contacts will receive details about posting jobs and registering a few weeks before the conference.

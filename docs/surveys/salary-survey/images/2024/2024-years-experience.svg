@@ -1,0 +1,76 @@
+<svg viewBox="0 55 660 338" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2024-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+	<g id="2024-years-experience">
+
+		<g class="title">
+			<text font-size="14"><tspan x="40" y="33">Years of experience</tspan></text>
+			<text font-size="12" class="subtitle"><tspan x="40" y="49">Employees and contractors combined</tspan></text>
+		</g>
+
+		<g class="bar-chart-vertical">
+
+			<g class="y-axis">
+
+				<g class="gridlines">
+					<path d="M68 354.5H620" stroke="#F0F0F0"/>
+          <path d="M68 260.5H620" stroke="#F0F0F0"/> 
+          <path d="M68 167.5H620" stroke="#F0F0F0"/>
+				</g>
+
+				<g class="axis-labels">
+					<text font-size="10"><tspan x="45" y="357">0%</tspan></text>
+          <text font-size="10"><tspan x="40" y="264">10%</tspan></text>
+          <text font-size="10"><tspan x="40" y="170">20%</tspan></text>
+				</g>
+
+			</g>
+
+			<g class="data-series">
+			
+				<g class="a">
+
+					<g class="axis-labels">
+						<text font-size="10"><tspan x="107" y="371">0-1</tspan></text>
+            <text font-size="10"><tspan x="199" y="371">1-5</tspan></text>
+            <text font-size="10"><tspan x="289" y="371">5-10</tspan></text>
+            <text font-size="10"><tspan x="378" y="371">10-15</tspan></text>
+            <text font-size="10"><tspan x="470" y="371">15-25</tspan></text>
+            <text font-size="10"><tspan x="566" y="371">25+</tspan></text>
+					</g>
+
+					<g class="bars">
+						<path d="M156 341H72V355H156V341Z" fill="#00AEFF"/>
+            <path d="M248 155H164V355H248V155Z" fill="#00AEFF"/>
+            <path d="M340 91H256V355H340V91Z" fill="#00AEFF"/>
+            <path d="M432 181H348V355H432V181Z" fill="#00AEFF"/>
+            <path d="M524 190H440V355H524V190Z" fill="#00AEFF"/>
+            <path d="M616 238H532V355H616V238Z" fill="#00AEFF"/>
+					</g>
+
+					<g class="value-labels">
+						
+					</g>
+
+				</g>
+
+			</g>
+
+			<g class="legend">
+			
+			</g>
+
+		</g>
+
+	</g>
+
+</svg>

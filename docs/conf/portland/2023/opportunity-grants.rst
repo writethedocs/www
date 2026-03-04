@@ -24,7 +24,7 @@ the Write the Docs community, and the applicant's wider community and country, c
 However, don't feel like you need to meet minimums in those areas to apply. In other words,
 if you're not sure, feel free to apply.
 
-Grant applicants, like all other participants in the Write the Documents community,
+Grant applicants, like all other participants in the Write the Docs community,
 are required to conform to the Code of Conduct: https://www.writethedocs.org/code-of-conduct/.
 
 Grant applications will be seen only by the conference team, and we will never publish

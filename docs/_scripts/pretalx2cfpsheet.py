@@ -27,16 +27,23 @@ def get_review_scores(pretalx_slug, previous_slugs):
     submissions_url = f'https://pretalx.com/api/events/{pretalx_slug}/submissions/'
     print(f'Loading current submissions from {submissions_url}...')
     submissions_list = load_pretalx_resource(submissions_url, http_headers)
-    submissions = {
-        submission['code']: submission
-        for submission in submissions_list
-        if submission['state'] not in ['withdrawn', 'canceled']
-    }
+    try:
+        submissions = {
+            submission['code']: submission
+            for submission in submissions_list
+            if submission['state'] not in ['withdrawn', 'canceled']
+        }
+    except:
+        print('Error: does your PRETALX_TOKEN have access to this event?')
+        return
 
     previous_submissions = get_previous_submissions(previous_slugs, http_headers)
 
     reviews_url = f'https://pretalx.com/api/events/{pretalx_slug}/reviews'
     reviews = load_pretalx_resource(reviews_url, http_headers)
+    speaker_names = get_speaker_names(pretalx_slug, http_headers)
+    submission_types = get_submission_types(pretalx_slug, http_headers)
+    tags = get_tags(pretalx_slug, http_headers)
 
     for review in reviews:
         try:
@@ -48,26 +55,27 @@ def get_review_scores(pretalx_slug, previous_slugs):
 
     with open(output_file, 'w') as f:
         csvwriter = csv.writer(f)
-        csvwriter.writerow(["Mean", "Median", "Pvar", "Title", "Speaker", "Tags", "Previous submissions", "URL"])
+        csvwriter.writerow(["Mean", "Median", "Pvar", "Type", "Title", "Speaker", "Tags", "Previous submissions", "URL"])
         for code, submission in submissions.items():
             previous_for_speaker = {}
-            for speaker in submission['speakers']:
-                previous_for_speaker.update(previous_submissions.get(speaker['code'], {}))
+            for speaker_slug in submission['speakers']:
+                previous_for_speaker.update(previous_submissions.get(speaker_slug, {}))
             previous_for_speaker_str = '; '.join([
                 f'{state.title()}: {", ".join(sorted(events))}'
                 for state, events in
                 sorted(previous_for_speaker.items())
             ])
-            speakers = ', '.join([speaker['name'] for speaker in submission['speakers']])
             url = f"https://pretalx.com/orga/event/{pretalx_slug}/submissions/{code}/reviews/"
             scores = submission.get('scores', [])
+            speakers = ', '.join(speaker_names[speaker] for speaker in submission['speakers'])
             csvwriter.writerow([
                 "%.1f" % statistics.mean(scores) if scores else '-',
                 "%.1f" % statistics.median(scores) if scores else '-',
                 "%.1f" % statistics.pvariance(scores) if scores else '-',
+                submission_types[submission['submission_type']][0],
                 submission['title'],
                 speakers,
-                ', '.join(submission['tags']),
+                ', '.join([tags[t] for t in submission['tags']]),
                 previous_for_speaker_str,
                 url,
             ])
@@ -94,17 +102,41 @@ def get_previous_submissions(pretalx_slugs, http_headers):
             for speaker in submission['speakers']:
                 event_name = event['name']['en'].replace('Write the Docs', '').strip()
                 state = submission['state']
-                speakers_submissions.setdefault(speaker['code'], {}).setdefault(state, set()).add(event_name)
+                speakers_submissions.setdefault(speaker, {}).setdefault(state, set()).add(event_name)
 
     return speakers_submissions
 
 
-# Might be reusable in other pretalx interfaces
+def get_speaker_names(pretalx_slug, http_headers):
+    url = f'https://pretalx.com/api/events/{pretalx_slug}/speakers/'
+    print(f'Loading speaker names from {url}...')
+    speaker_info = load_pretalx_resource(url, http_headers)
+    return {
+        s['code']: s['name'] for s in speaker_info
+    }
+
+def get_submission_types(pretalx_slug, http_headers):
+    url = f'https://pretalx.com/api/events/{pretalx_slug}/submission-types/'
+    print(f'Loading submission types names from {url}...')
+    submission_types = load_pretalx_resource(url, http_headers)
+    return {
+        s['id']: s['name']['en'] for s in submission_types
+    }
+
+def get_tags(pretalx_slug, http_headers):
+    url = f'https://pretalx.com/api/events/{pretalx_slug}/tags/'
+    print(f'Loading tag names from {url}...')
+    tags = load_pretalx_resource(url, http_headers)
+    return {
+        s['id']: s['tag'] for s in tags
+    }
+
 def load_pretalx_resource(url, http_headers):
     results = []
     while url:
         response = requests.get(url, headers=http_headers)
-        if response.status_code != 200:
+        # 403 may occur as a pretalx bug
+        if response.status_code not in [200, 403]:
             print(f'Error: request failed: {response.status_code}: {response.text}')
             return
 
@@ -119,7 +151,7 @@ def load_pretalx_resource(url, http_headers):
 
 if __name__ == '__main__':
     get_review_scores(
-        pretalx_slug='wtd-portland-2024',
+        pretalx_slug='wtd-portland-2026',
         previous_slugs=[
             'wtd-portland-2020',
             'wtd-prague-2020',
@@ -132,5 +164,10 @@ if __name__ == '__main__':
             'wtd-atlantic-2023',
             'wtd-portland-2023',
             'wtd-australia-2023',
+            'wtd-portland-2024',
+            'wtd-atlantic-2024',
+            'wtd-australia-2024',
+            'wtd-portland-2025',
+            'wtd-berlin-2025',
         ],
     )

@@ -1,0 +1,42 @@
+<svg viewBox="0 55 660 225" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+	<defs>
+	
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2024-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+  <g id="2024-job-security-confidence-employees">
+
+    <g class="title">
+      <text font-size="14"><tspan x="40" y="33">Time in current role</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Contractors</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Employees - as compared to the same time last year</tspan></text>
+    </g>
+
+    <g class="donut-chart">
+
+      <path d="M180 259.061C179.986 224.369 191.997 190.745 213.988 163.914L283.595 220.966C274.799 231.698 269.994 245.148 270 259.024L180 259.061Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+      <path d="M214.084 163.798C226.956 148.125 242.873 135.225 260.872 125.878C278.872 116.532 298.58 110.932 318.805 109.418C339.03 107.905 359.352 110.508 378.542 117.072C397.732 123.635 415.392 134.022 430.454 147.604L370.182 214.442C364.157 209.009 357.093 204.854 349.417 202.229C341.741 199.603 333.612 198.562 325.522 199.167C317.432 199.773 309.549 202.013 302.349 205.751C295.149 209.49 288.782 214.65 283.633 220.919L214.084 163.798Z" fill="#E9C168" stroke="white" stroke-width="2"/>
+      <path d="M430.565 147.705C446.11 161.751 458.541 178.898 467.055 198.041C475.569 217.184 479.979 237.899 480 258.85L390 258.94C389.992 250.56 388.228 242.274 384.822 234.617C381.416 226.959 376.444 220.101 370.226 214.482L430.565 147.705Z" fill="#82A555" stroke="white" stroke-width="2"/>
+
+      <text font-size="14" class="value-labels-inner"><tspan x="210" y="230">21.9%</tspan></text>
+      <text font-size="10"><tspan x="84" y="204">Less confident</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="312" y="157">51.5%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="412" y="225">26.6%</tspan></text>
+      <text font-size="10"><tspan x="381" y="85">Around the same</tspan></text>
+      <text font-size="10"><tspan x="513" y="209">More confident</tspan></text>
+
+      <path d="M508.532 207C503.532 207 478.804 215.034 476.902 215.652L475 216.271" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M152 202C157 202 181.727 210.034 183.63 210.652L185.532 211.271" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M371.634 85C366.634 85 351.351 106.034 350.176 107.652L349 109.271" stroke="#252521" stroke-dasharray="1 3"/>
+
+    </g>
+
+  </g>
+
+</svg>

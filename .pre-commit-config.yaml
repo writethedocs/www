@@ -1,0 +1,39 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.6.0
+    hooks:
+      - id: check-yaml
+        files: ^docs/_data/.*\.(yml|yaml)$
+        exclude: ^docs/_data/schema-.*\.yaml$
+      - id: end-of-file-fixer
+        files: ^docs/_data/.*\.(yml|yaml)$
+      - id: trailing-whitespace
+        files: ^docs/_data/.*\.(yml|yaml)$
+
+  - repo: https://github.com/adrienverge/yamllint
+    rev: v1.26.3
+    hooks:
+      - id: yamllint
+        files: ^docs/_data/.*\.(yml|yaml)$
+        exclude: ^docs/_data/schema-.*\.yaml$
+
+  - repo: local
+    hooks:
+      - id: yamale-config
+        name: Validate conference config YAML against schema
+        entry: bash -c 'for f in "$@"; do yamale -s docs/_data/schema-config.yaml "$f" || exit 1; done' --
+        language: system
+        files: ^docs/_data/.*-config\.(yml|yaml)$
+        exclude: ^docs/_data/schema-config\.yaml$
+      - id: yamale-schedule
+        name: Validate schedule YAML against schema
+        entry: bash -c 'for f in "$@"; do yamale -s docs/_data/schema-schedule.yaml "$f" || exit 1; done' --
+        language: system
+        files: ^docs/_data/.*-schedule\.(yml|yaml)$
+        exclude: ^docs/_data/schema-schedule\.yaml$
+      - id: yamale-sessions
+        name: Validate sessions YAML against schema
+        entry: bash -c 'for f in "$@"; do yamale -s docs/_data/schema-sessions.yaml "$f" || exit 1; done' --
+        language: system
+        files: ^docs/_data/.*-sessions\.(yml|yaml)$
+        exclude: ^docs/_data/schema-sessions\.yaml$

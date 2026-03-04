@@ -10,7 +10,7 @@ tags: newsletter
 
 Hello Write the Docs! If you're getting this email, you've probably attended (or considered attending) one of the documentation [conferences](https://www.writethedocs.org/conf/) we've put on over the last few years. As our events have grown, so too has our community, and we're working hard to make Write the Docs a year-round affair.
 
-As part of that effort, we're sending you this, our inaugural edition of the new Write the Docs monthly newsletter! Our goal is to make it easier for folks to keep current with what the community's talking about each month. The bulk of the newsletter content will be distilled from interesting conversations that crop up on the #general channel of the [Write the Docs Slack ](https://writethedocs.org/slack/). We'll be highlighting topics that are recurring themes or simply seem to resonate with a lot of folks.
+As part of that effort, we're sending you this, our inaugural edition of the new Write the Docs monthly newsletter! Our goal is to make it easier for folks to keep current with what the community's talking about each month. The bulk of the newsletter content will be distilled from interesting conversations that crop up on the #general channel of the [Write the Docs Slack ](https://www.writethedocs.org/slack/). We'll be highlighting topics that are recurring themes or simply seem to resonate with a lot of folks.
 
 
 ```{note}

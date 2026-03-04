@@ -18,11 +18,16 @@ people to have great experiences with software.
 Attend a conference
 -------------------
 
-We have in-person and virtual conferences around the world:
+We have upcoming conferences around the world:
 
-   - :doc:`Portland 2024 </conf/portland/2024/index>`, **April 14-16, 2024**, Portland, Oregon, United States
-   - :doc:`Atlantic 2024 </conf/atlantic/2024/index>`, **September 22-24**, Virtual - CEST and EDT
-   - :doc:`Australia 2024 </conf/australia/2024/index>`, **November 28-29**, Melbourne, Australia
+   - :doc:`Portland 2026 </conf/portland/2026/index>`, May 3-5, **Portland, Oregon**
+
+Other conferences this year:
+
+   - :doc:`Portland 2025 </conf/portland/2025/index>`, May 4-6, **Portland, Oregon**
+   - :doc:`Kenya 2025 </conf/kenya/2025/index>`, June 7, 2025, **Nairobi, Kenya**
+   - :doc:`Berlin 2025 </conf/berlin/2025/index>`, October 27-28, **Berlin, Germany**
+   - *Cancelled:* :doc:`Australia 2025 </conf/australia/2025/index>`, November 20-21, **Virtual - AEDT**
 
 See all :doc:`our conferences </conf/index>` from past years.
 
@@ -34,23 +39,22 @@ Get more information on how to meet the community, get involved, stay in touch.
 * Join our :doc:`Slack network </slack>` with thousands of other documentarians
 * Join a :doc:`local or online meetup </meetups/index>` to dive deeper into the community
 * Learn more about our :doc:`sponsorship options <sponsorship/index>` for your company
-* Browse the results of the latest `Documentation Salary Survey </surveys/salary-survey/2023/>`__
 
 Find or advertise a job
 -----------------------
 
 Work with other documentarians.
 
-* Find or post a `docs related job <https://jobs.writethedocs.org/>`__ on our Job Board
 * Read our :doc:`Hiring Guide </hiring-guide/index>` to get started in the industry
 * Read our previous `salary survey </surveys/>`__ information to get a sense of the industry pay
+* Take the `2025 Salary Survey <https://salary-survey.writethedocs.org/>`_
 
 Learn from our resources
 ------------------------
 
 We have an ever-increasing set of talk videos, articles, links, and resources:
 
-* Subscribe to one of :doc:`newsletter and conference </newsletter>` mailing lists
+* Subscribe to our :doc:`newsletter and conference </newsletter>` mailing lists
 * Browse our :doc:`topic index </topics>`
 * Read the latest in our :doc:`blog </blog/index>`
 * Learn about :doc:`Write the Docs <about/about-the-org>`
@@ -93,5 +97,9 @@ Site Content
    conf/australia/*/*/*
    conf/vilnius/*/*
    conf/vilnius/*/*/*
+   conf/kenya/*/*
+   conf/kenya/*/*/*
    conf/cfp/*
    book-club/*/*
+   conf/berlin/*/*
+   conf/berlin/*/*/*

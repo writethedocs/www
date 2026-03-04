@@ -1,0 +1,1 @@
+Shiham is an experienced documentarian and budding full-stack web developer who recently joined the Write the Docs Australia crew. He enjoys travel, especially reading flight reviews and learning about aviation. He dreams of one-day writing flight manuals for Boeing or Airbus. He is based in Adelaide, Australia.

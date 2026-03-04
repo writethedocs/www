@@ -7,17 +7,19 @@ Technical communication
 ------------------------
 
 * `Developing Quality Technical Information: A Handbook for Writers and Editors <https://www.goodreads.com/book/show/17349710-developing-quality-technical-information>`_ (multiple authors)
+* `The Docs as Code Primer: A practical handbook <https://leanpub.com/thedocsascodeprimer>`_, by Gijs Reijn
 * `Docs for Developers: An Engineer’s Field Guide to Technical Writing <https://www.apress.com/us/book/9781484272169>`_ by Jared Bhatti, Zachary Sarah Corleissen, Jen Lambourne, David Nunez, and Heidi Waterhouse
 * `Docs Like Code <https://www.docslikecode.com/book/>`_, by Anne Gentle - **Read in our book club**
 * `Docs-as-Ecosystem: The Community Approach to Engineering Documentation <https://www.goodreads.com/book/show/133207376-docs-as-ecosystem>`_, by Alejandra Quetzalli - **Read in our book club**
+* `Docs as Tests: A Strategy for Resilient Technical Documentation <https://www.amazon.com/dp/0994169361>`_, by Manny Silva - **Read in our book club**
 * `Living Documentation <https://www.goodreads.com/book/show/26865837-living-documentation-by-design-with-domain-driven-design>`_, by Cyrille Martraire
 * `Managing Writers: A Real World Guide to Managing Technical Documentation <https://www.goodreads.com/book/show/6322901-managing-writers>`_, by Richard L. Hamilton - **Read in our book club**
 * `Modern Technical Writing <https://www.goodreads.com/book/show/28433138-modern-technical-writing>`_, by Andrew Etter
 * `Practical Strategies for Technical Communication <https://www.goodreads.com/book/show/15875185-practical-strategies-for-technical-communication>`_, by Mike Markel and Stuart Selber
 * `The Product is Docs <https://www.splunk.com/en_us/blog/splunklife/the-product-is-docs.html>`_, by Christopher Gales - **1st edition read in our book club**
-* `Wicked, Incomplete, and Uncertain: User Support in the Wild and the Role of Technical Communication <https://www.goodreads.com/book/show/37864792-wicked-incomplete-and-uncertain>`_, by Jason Swarts
 * `Software Technical Writing: A Guidebook <https://jamesg.blog/book.pdf>`_, by James Gallagher
-* `The Docs as Code Primer: A practical handbook <https://leanpub.com/thedocsascodeprimer>`_, by Gijs Reijn
+* `Technical Writing for Software Developers: Enhance communication, improve collaboration, and leverage AI tools for software development <https://www.packtpub.com/en-us/product/technical-writing-for-software-developers-9781835080405>`_, by Chris Chinchilla
+* `Wicked, Incomplete, and Uncertain: User Support in the Wild and the Role of Technical Communication <https://www.goodreads.com/book/show/37864792-wicked-incomplete-and-uncertain>`_, by Jason Swarts
 
 E-Learning
 -----------

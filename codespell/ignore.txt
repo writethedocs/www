@@ -1,6 +1,7 @@
 ba
 covert
 crate
+Fourty
 idaes
 ines
 ist
@@ -17,3 +18,5 @@ hopin
 SME
 Rin
 socio-economic
+DiDi
+brunch

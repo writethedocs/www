@@ -13,7 +13,7 @@ Hello, Write the Docs! Let me tell ya, it's been a jam-packed month for interest
 
 But that's a decision for the future. For right now, we have an exciting milestone to celebrate: **The Write the Docs Slack community officially cleared 1000 members last week!!** Considering it's only been around since the 2014 North American conference, that's not too shabby! Thanks to all of you for making the Write the Docs Slack such an inquisitive, creative, supportive place to hang out.
 
-(If you haven't joined us on Slack yet, we'd love to have you. [Just click here.](https://writethedocs.org/slack/))
+(If you haven't joined us on Slack yet, we'd love to have you. [Just click here.](https://www.writethedocs.org/slack/))
 
 Now, let's get down to the stories for this month. Folks have had some really interesting chats on a great variety of topics – read on for some of the highlights!
 

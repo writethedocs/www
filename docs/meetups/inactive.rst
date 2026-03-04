@@ -36,7 +36,6 @@ Inactive groups
 Archived groups
 ---------------
 
-
 * North England. Thank you to Rachel Johnston and Sam Wright for organizing.
 * Philadelphia, PA (USA). Thank you Nathan Melehan, Leslie Salazar, and Andy Stevens for organizing.
 * Nashville, TN (USA). Thank you Pratishtha Singh for organizing.
@@ -46,3 +45,4 @@ Archived groups
 * Rhineland, Germany. Thank you Juliane and Andrew for organizing.
 * Vilnius, Lithuania. Thank you to those who organized.
 * Indonesia. Thank you to those who organized.
+* Florida (USA). Thank you to Barrie Byron, John Paz, and Rose Williams for organizing.

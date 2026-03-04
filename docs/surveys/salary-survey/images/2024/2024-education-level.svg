@@ -1,0 +1,76 @@
+<svg viewBox="0 55 660 377" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2024-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+	<g id="2024-education-level">
+
+		<g class="title">
+			<text font-size="14"><tspan x="40" y="33">Education level</tspan></text>
+			<text font-size="12" class="subtitle"><tspan x="40" y="49">Employees and contractors combined</tspan></text>
+		</g>
+
+		<g class="bar-chart-vertical">
+
+			<g class="y-axis">
+
+				<g class="gridlines">
+					<path d="M68 393.5H620" stroke="#F0F0F0"/>
+          <path d="M68 299.5H620" stroke="#F0F0F0"/>
+          <path d="M68 206.5H620" stroke="#F0F0F0"/>
+				</g>
+
+				<g class="axis-labels">
+					<text font-size="10"><tspan x="45" y="396">0%</tspan></text>
+          <text font-size="10"><tspan x="40" y="303">20%</tspan></text>
+          <text font-size="10"><tspan x="40" y="209">40%</tspan></text>
+				</g>
+
+			</g>
+
+			<g class="data-series">
+			
+				<g class="a">
+
+					<g class="axis-labels">
+						<text font-size="10"><tspan x="111" y="410">High school</tspan></text>
+            <text font-size="10"><tspan x="224" y="410">Technical or vocational</tspan></text>
+            <text font-size="10"><tspan x="392" y="410">Graduate</tspan></text>
+            <text font-size="10"><tspan x="520" y="410">Post-graduate</tspan></text>
+					</g>
+
+					<g class="bars">
+						<path d="M200 381H74V394H200V381Z" fill="#00AEFF"/>
+            <path d="M338 384H212V394H338V384Z" fill="#00AEFF"/>
+            <path d="M476 152H350V394H476V152Z" fill="#00AEFF"/>
+            <path d="M614 231H488V394H614V231Z" fill="#00AEFF"/>
+            <path d="M476 140H350V150H476V140Z" fill="#FFA600"/>
+            <path d="M614 207H488V229H614V207Z" fill="#FFA600"/>
+					</g>
+          
+          <path d="M442 107C434.489 107 411.532 135.6 409.766 137.8L408 140" stroke="#252521" stroke-dasharray="1 3"/>
+          <path d="M512 110C525.738 113.369 552.267 186.716 554.308 192.358L556.349 198" stroke="#252521" stroke-dasharray="1 3"/>
+
+					<g class="value-labels">
+            <text font-size="10"><tspan x="457" y="105">Multiple</tspan><tspan x="446" y="116">qualifications</tspan></text>
+					</g>
+
+				</g>
+
+			</g>
+
+			<g class="legend">
+			
+			</g>
+
+		</g>
+
+	</g>
+
+</svg>

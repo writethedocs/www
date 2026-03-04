@@ -1,0 +1,64 @@
+<svg viewBox="0 55 660 196" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2024-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+	<g id="2024-satisfaction-factors-salary-employees">
+
+		<g class="title">
+			<text font-size="14"><tspan x="40" y="33">Satisfaction factors - salary</tspan></text>
+			<text font-size="12" class="subtitle"><tspan x="40" y="49">Employees</tspan></text>
+		</g>
+
+		<g class="bar-chart-horizontal">
+
+      <g class="legend">
+        <path d="M229 224C229 225.591 229.632 227.117 230.757 228.243C231.883 229.368 233.409 230 235 230C236.591 230 238.117 229.368 239.243 228.243C240.368 227.117 241 225.591 241 224C241 222.409 240.368 220.883 239.243 219.757C238.117 218.632 236.591 218 235 218C233.409 218 231.883 218.632 230.757 219.757C229.632 220.883 229 222.409 229 224Z" fill="#E4774E"/>
+        <path d="M312.652 224C312.652 225.591 313.284 227.117 314.409 228.243C315.534 229.368 317.06 230 318.652 230C320.243 230 321.769 229.368 322.894 228.243C324.02 227.117 324.652 225.591 324.652 224C324.652 222.409 324.02 220.883 322.894 219.757C321.769 218.632 320.243 218 318.652 218C317.06 218 315.534 218.632 314.409 219.757C313.284 220.883 312.652 222.409 312.652 224Z" fill="#E9C168"/>
+        <path d="M390.3 224C390.3 225.591 390.932 227.117 392.058 228.243C393.183 229.368 394.709 230 396.3 230C397.891 230 399.418 229.368 400.543 228.243C401.668 227.117 402.3 225.591 402.3 224C402.3 222.409 401.668 220.883 400.543 219.757C399.418 218.632 397.891 218 396.3 218C394.709 218 393.183 218.632 392.058 219.757C390.932 220.883 390.3 222.409 390.3 224Z" fill="#82A555"/>
+        <text font-size="10"><tspan x="245" y="227">Disagree</tspan></text>
+        <text font-size="10"><tspan x="328" y="227">Neutral</tspan></text>
+        <text font-size="10"><tspan x="406" y="227">Agree</tspan></text>
+      </g>
+      
+      <g class="benefits">
+        <text font-size="10"><tspan x="129" y="177">My benefits are sufficient</tspan></text>
+        <path d="M294 160H260C257.239 160 255 162.239 255 165V182C255 184.761 257.239 187 260 187H294C296.761 187 299 184.761 299 182V165C299 162.239 296.761 160 294 160Z" fill="#E4774E"/>
+        <path d="M352 160H306C303.239 160 301 162.239 301 165V182C301 184.761 303.239 187 306 187H352C354.761 187 357 184.761 357 182V165C357 162.239 354.761 160 352 160Z" fill="#E9C168"/>
+        <path d="M576 160H364C361.239 160 359 162.239 359 165V182C359 184.761 361.239 187 364 187H576C578.761 187 581 184.761 581 182V165C581 162.239 578.761 160 576 160Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="261" y="178">13.4%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="312" y="178">17.8%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="453" y="178">68.8%</tspan></text>
+      </g>
+      
+      <g class="paid-fairly">
+        <text font-size="10"><tspan x="171" y="99">I&#39;m paid fairly</tspan></text>
+        <path d="M297 82H252C249.239 82 247 84.2386 247 87V104C247 106.761 249.239 109 252 109H297C299.761 109 302 106.761 302 104V87C302 84.2386 299.761 82 297 82Z" fill="#E4774E"/>
+        <path d="M350 82H309C306.239 82 304 84.2386 304 87V104C304 106.761 306.239 109 309 109H350C352.761 109 355 106.761 355 104V87C355 84.2386 352.761 82 350 82Z" fill="#E9C168"/>
+        <path d="M568 82H362C359.239 82 357 84.2386 357 87V104C357 106.761 359.239 109 362 109H568C570.761 109 573 106.761 573 104V87C573 84.2386 570.761 82 568 82Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="259" y="100">16.9%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="312" y="100">16.1%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="448" y="100">67%</tspan></text>
+      </g>
+      
+      <g class="inflation">
+        <text font-size="10"><tspan x="63" y="131">My salary keeps up with</tspan><tspan x="65" y="142">inflation / cost-of-living</tspan></text>
+        <path d="M286 121H189C186.239 121 184 123.239 184 126V143C184 145.761 186.239 148 189 148H286C288.761 148 291 145.761 291 143V126C291 123.239 288.761 121 286 121Z" fill="#E4774E"/>
+        <path d="M360 121H298C295.239 121 293 123.239 293 126V143C293 145.761 295.239 148 298 148H360C362.761 148 365 145.761 365 143V126C365 123.239 362.761 121 360 121Z" fill="#E9C168"/>
+        <path d="M505 121H372C369.239 121 367 123.239 367 126V143C367 145.761 369.239 148 372 148H505C507.761 148 510 145.761 510 143V126C510 123.239 507.761 121 505 121Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="222" y="139">32.9%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="312" y="139">22.7%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="421" y="139">44.4%</tspan></text>
+      </g>
+
+		</g>
+
+	</g>
+
+</svg>

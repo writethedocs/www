@@ -1,0 +1,40 @@
+<svg viewBox="0 55 660 358" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+	<defs>
+	
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2024-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+  <g id="2024-pay-transparency-law">
+
+    <g class="title">
+      <text font-size="14"><tspan x="40" y="33">Organization pay transparency</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Is pay transparency required by law?</tspan></text>
+    </g>
+
+    <g class="donut-chart">
+
+      <path d="M329.969 89C365.357 88.9928 399.607 101.497 426.666 124.302C453.726 147.108 471.851 178.745 477.837 213.623C483.824 248.5 477.288 284.371 459.383 314.895C441.478 345.418 413.358 368.629 379.994 380.423L349.997 295.569C363.343 290.852 374.591 281.567 381.753 269.358C388.915 257.148 391.53 242.8 389.135 228.849C386.74 214.898 379.49 202.243 368.666 193.121C357.843 183.999 344.143 178.997 329.988 179L329.969 89Z" fill="#00AEFF" stroke="white" stroke-width="2"/>
+      <path d="M379.853 380.473C347.789 391.772 312.837 391.844 280.727 380.676C248.617 369.508 221.252 347.764 203.119 319.007C184.986 290.25 177.159 256.186 180.922 222.398C184.685 188.61 199.814 157.102 223.829 133.039L287.532 196.616C277.926 206.241 271.874 218.844 270.369 232.359C268.864 245.874 271.994 259.5 279.248 271.003C286.501 282.506 297.447 291.203 310.291 295.67C323.135 300.137 337.116 300.109 349.941 295.589L379.853 380.473Z" fill="#7EA4FF" stroke="white" stroke-width="2"/>
+      <path d="M223.935 132.933C252.014 104.854 290.082 89.0554 329.792 89.0002L329.917 179C314.033 179.022 298.806 185.342 287.574 196.573L223.935 132.933Z" fill="#FC82E1" stroke="white" stroke-width="2"/>
+      <path d="M178.307 345.026C183.145 346.286 203.236 329.783 204.782 328.514L206.327 327.244" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M221.342 88C226.286 88.7472 246.176 105.493 247.706 106.781L249.236 108.069" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M498.175 151.896C493.347 150.594 473.113 166.921 471.557 168.177L470 169.432" stroke="#252521" stroke-dasharray="1 3"/>
+
+      <text font-size="14" class="value-labels-inner"><tspan x="416" y="201">44.6%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="219" y="313">42.9%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="265" y="132">12.5%</tspan></text>
+      <text font-size="10"><tspan x="506" y="155">Unsure of legal status</tspan></text>
+      <text font-size="10"><tspan x="85" y="349">Not legally required</tspan></text>
+      <text font-size="10"><tspan x="142" y="91">Legally required</tspan></text>
+
+    </g>
+
+  </g>
+
+</svg>

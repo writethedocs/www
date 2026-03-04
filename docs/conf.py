@@ -3,17 +3,62 @@
 
 import os
 import sys
+import datetime
 
 import yaml
 import ablog
 
 # Only for windows compatibility - Forces default encoding to UTF8, which it may not be on windows
 if os.name == 'nt':
-    reload(sys)
-    sys.setdefaultencoding('UTF8')
+    # monkeypatches sphinxcontrib.datatemplates so it uses utf-8 as the encoding
+    # instead of cp1252 when opening a file. using sys.setdefaultencoding does
+    # not alter the encoding when opening a file for reading.
+
+    from sphinxcontrib.datatemplates import directive
+    from xml.etree import ElementTree as ET
+    import mimetypes
+
+    old_load_data = directive.DataTemplateLegacy._load_data
+
+    def _load_data(self, env, data_source, encoding):
+        rel_filename, filename = env.relfn2path(data_source)
+        if data_source.endswith('.yaml'):
+            return self._load_yaml(filename, 'utf-8')
+        elif data_source.endswith('.json'):
+            return self._load_json(filename, 'utf-8')
+        elif data_source.endswith('.csv'):
+            return self._load_csv(filename, 'utf-8')
+        elif "xml" in mimetypes.guess_type(data_source)[0]:
+            # there are many XML based formats
+            return ET.parse(filename).getroot()
+        else:
+            raise NotImplementedError('cannot load file type of %s' %
+                                      data_source)
+
+
+    directive.DataTemplateLegacy._load_data = _load_data
+    setattr(
+        sys.modules['sphinxcontrib.datatemplates.directive'].DataTemplateLegacy,
+        '_load_data',
+        _load_data
+    )
 
 
 sys.path.append(os.getcwd())  # noqa
+
+
+# Updates for RTD changes
+# https://about.readthedocs.com/blog/2024/07/addons-by-default/
+
+# Define the canonical URL if you are using a custom domain on Read the Docs
+html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "https://www.writethedocs.org")
+
+# Tell Jinja2 templates the build is running on Read the Docs
+if os.environ.get("READTHEDOCS", "") == "True":
+    if "html_context" not in globals():
+        html_context = {}
+    html_context["READTHEDOCS"] = True
+
 
 from _ext.core import (
     render_rst_with_jinja, override_template_load_context, set_html_context, unset_html_context
@@ -30,8 +75,6 @@ exclude_patterns = [
     'node_modules',
     'videos/prague/2018/tackling-technical-debt-in-the-docs-louise-fahey.rst',
 ]
-
-html4_writer = True
 
 # We use these *local* environment variables for private info like free ticket links
 
@@ -92,7 +135,8 @@ blog_authors = {
 blog_default_author = 'Team'
 blog_feed_archives = True
 blog_feed_fulltext = True
-blog_feed_length = 10
+# Only show 1 blog so we don't overload Mailchimp
+blog_feed_length = 1
 blog_locations = {
     'PDX': ('Portland, Oregon', 'http://www.portlandhikersfieldguide.org/'),
 }
@@ -121,7 +165,7 @@ html_theme_options = {
     'sidebar_includehidden': False,
     'github_user': 'writethedocs',
     'github_repo': 'www',
-    'github_banner': True,
+    'github_banner': False,
     'github_button': False,
 }
 
@@ -160,26 +204,32 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
-suppress_warnings = ['image.nonlocal_uri']
+suppress_warnings = ['image.nonlocal_uri', 'myst.header']
 
 # Our additions
 
-global_sponsors = yaml.safe_load("""
-- name: gitbook
-  link: https://www.gitbook.com/?utm_campaign=launch&utm_medium=display&utm_source=write_the_docs&utm_content=ad 
-  brand: GitBook
-  comment: Community sponsor
-""")
+global_sponsors = ""
+
+# Dynamic announcement message
+announcement_message = None
+
+if datetime.date(2025, 8, 19) <= datetime.date.today() <= datetime.date(2025, 10, 28):
+    announcement_message = "Berlin conference: Oct 27-28. <a href='/conf/berlin/2025/'>View the conference site</a>."
+elif datetime.date.today() <= datetime.date(2026, 1, 19):
+    announcement_message = "Portland 2026 CFP is open! <a href='/conf/portland/2026/cfp/'>Submit your talk</a>."
+elif datetime.date(2026, 1, 20) <= datetime.date.today() <= datetime.date(2026, 5, 2):
+    announcement_message = "Portland 2026 tickets are on sale! <a href='/conf/portland/2026/tickets/'>Get your ticket</a>."
 
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
     'newsletter_subs': '10,000',
-    'slack_members': '20,000',
+    'slack_members': '22,500',
     'website_visits': '20,000',
     'global_sponsors': global_sponsors,
     'cfp_variables': cfp_variables,
-    'slack_join': "https://join.slack.com/t/writethedocs/shared_invite/zt-12k7dh46o-eNMS1sHejK2OiiBfnBf6hw",
+    'slack_join': "https://join.slack.com/t/writethedocs/shared_invite/zt-3mwqpwssw-Jgd7rPumtArAP0EsWzN_xg",
     'slack_form': "https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform?usp=sf_link",
+    'announcement_message': announcement_message,
 }
 
 if build_videos:
@@ -190,6 +240,13 @@ notfound_no_urls_prefix = True
 
 
 def setup(app):
+
+    # add any metadata from the template into the page context
+    def add_metadata(app, pagename, templatename, context, doctree):
+        metadata = app.env.metadata.get(pagename, {})
+        context.update(metadata)
+    app.connect("html-page-context", add_metadata)
+
     # Set up our custom jinja filters
     app.connect("builder-inited", add_jinja_filters_to_app)
 
@@ -210,6 +267,5 @@ def setup(app):
     app.add_directive('datatemplate-video', videos.DataTemplateVideo)
     app.add_css_file('css/global-customizations.css')
     app.add_css_file('css/survey.css')
-    app.add_js_file('js/jobs.js')
 
     app.config.wtd_cache = {}

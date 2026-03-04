@@ -2,11 +2,11 @@
 
 This is the code that powers [www.writethedocs.org](http://www.writethedocs.org). It contains information about the Write the Docs group, as well as information about writing documentation.
 
-To contribute to the Write the Docs website, it's helpful to familiarize yourself with the [Sphinx site generator](https://www.sphinx-doc.org/), as well as [reStructuredText markup syntax](https://www.sphinx-doc.org/en/stable/rest.html).
+To contribute to the Write the Docs website, it's helpful to familiarize yourself with the [Sphinx site generator](https://www.sphinx-doc.org/) and [reStructuredText markup syntax](https://www.sphinx-doc.org/en/stable/rest.html).
 
 ### Code Architecture
 
-All of the generated website lives inside the `docs` directory, but many files outside the `conf/` directory are just static RST, as in any other Sphinx project.
+All of the generated website lives inside the `docs` directory, but many files outside the `conf/` directory are just static RST like any other Sphinx project.
 
 All RST files are rendered with [Jinja](https://jinja.palletsprojects.com/), which allows the use of Jinja tags in all of them. A few custom Jinja filters are available for things like generating photo paths for speakers.
 
@@ -20,7 +20,7 @@ An even more fragile process that needs documenting and fixing. Note specificall
 
 WIP (Work In Progress) Docs on how to do this:
 
-1. In `_data/<year>.<city>.speakers.yaml`, add a `youtubeId: 12345678901` key value pair to each talk. See also `_scripts/insert-video-ids.py`.
+1. In `_data/<city>-<year>-sessions.yaml`, add a `youtubeId: 12345678901` key value pair to each talk. See also `_scripts/insert-video-ids.py`.
 
 2. Make sure the directory `videos/<city>/<year>` is included in the Video Archive `toctree` in `docs/videos/index.rst`.
 
@@ -29,36 +29,24 @@ WIP (Work In Progress) Docs on how to do this:
 4. Commit the *relevant* changed files:
 
    * `docs/videos/index.rst`
-   * `_data/<year>.<city>.speakers.yaml`
+   * `_data/<city>-<year>-sessions.yaml`
    * `docs/videos/<city>/<year>/*`
 
 5. If you want to preview locally:
 
     1. Run `BUILD_VIDEOS=True make livehtml` and browse the new video pages at `http://127.0.0.1:8888`.
 
-#### Troubleshooting
-
-If you run into trouble with broken links to video files, have a look at `_ext/fix_video_yaml.py`:
-
-1. Add a line at the end with the relevant places and dates.
-
-2. Change to the `_ext` directory and run it:
-
-   `python fix_video_yaml.py`
-
-3. Commit the fixed `_data/<year>.<city>.speakers.yaml` file.
-
 ### Prerequisites for generating the docs locally
 
-1. Install `python 3.8.x` using your package manager, if not installed already. You'll probably need `root` privileges to do this.
+1. Install `python 3.9.x` using your package manager, if not installed already. You'll probably need `root` privileges to do this.
 
 2. Generate a virtual environment for the WTD repo in the `venv` directory:
 
-    `virtualenv --python=/usr/bin/python3.8 venv`
+    `virtualenv --python=/usr/bin/python3.9 venv`
 
 ### Installing the project requirements
 
-1. Activate the virtual environment according to your operating system:
+1. Activate the virtual environment as per your operating system:
 
     * On Linux-based systems, run `source venv/bin/activate`.
     * On Windows using the Command Prompt, run `venv\Scripts\activate.bat`.
@@ -103,3 +91,30 @@ virtual Python environment with the following command on Linux:
 If you have verified this command on Windows, we invite you to submit a PR to include that information here.
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/writethedocs/www.svg)](https://greenkeeper.io/)
+
+### Using devcontainer
+
+In addition to local development with Python `venv`, it is also possible to use the devcontainer found in the root of the project.
+
+### Using Docker
+
+A barebones [dockerfile](./dockerfile) is supplied to run the site within a local Docker Container through [Docker Desktop](https://docs.docker.com/desktop/) - a simple, free, way to easily setup Docker and Python without leaving beyond installations, modifying your underlying Operating System, and changing Environment Variables.
+
+1. Make sure Docker Desktop is running and started
+1. Build the Docker Image from the root directory with the command: `docker build -t wtd .`
+2. Run the Docker Image Container using that Image ID: `docker run -p 8888:8888 wtd`
+3. Access the live site on <http://localhost:8888> through your web browser
+4. Both the Docker Container and Image will be present in Docker Desktop
+
+### Requirements
+
+Make sure all of the following is installed.
+
+- [Docker](https://docs.docker.com/get-started/get-docker/)
+- [Supported IDE](https://containers.dev/supporting#editors)
+
+Follow the steps below to open the development environment.
+
+1. Open a [supported IDE](https://containers.dev/supporting#editors)
+2. Click the "Open in devcontainer" popup
+3. The development environment starts in an containerized environment

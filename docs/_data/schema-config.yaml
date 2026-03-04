@@ -11,7 +11,9 @@ tz_header: str(required=False)
 email: str()
 color: str(required=False)
 hex: str(required=False)
+hex_contrast: str(required=False)
 rgb: str(required=False)
+rgb_contrast: str(required=False)
 time_format: enum('24h', '12h', required=False)
 titocode: str(required=False)
 cobrand: include('cobrand-details', required=False)
@@ -34,8 +36,11 @@ cfp: include('cfp-details', required=False)
 grants: include('grants-details', required=False)
 shirts: include('shirts-details', required=False)
 unconf: include('unconf-details', required=False)
+writing_day: include('writing_day-details', required=False)
 lightning_talks: include('lightning_talks-details', required=False)
+qa: include('qa-details', required=False)
 hike: include('hike-details', required=False)
+volunteer: include('volunteer-details', required=False)
 
 flaghassponsors: bool()
 flagcfp: bool()
@@ -64,11 +69,15 @@ flaghasboat: bool()
 flaglanding: bool()
 flaghasbadgeflair: bool(required=False)
 flaghasfood: bool(required=False)
+flaghasvisiting: bool(required=False)
+flaghasattendeeguide: bool(required=False)
+flaghasteam: bool(required=False)
 
 ---
 
 photo-default:
-  default: str()
+  default: any(str, list)
+  index: any(str, list, required=False)
 
 cobrand-details:
   brand: str()
@@ -90,6 +99,11 @@ ticket-details:
   corporate: include('price-type')
   independent: include('price-type')
   student: include('price-type')
+  virtual: include('price-type', required=False)
+  virtual_student: include('price-type', required=False)
+  virtual_independent: include('price-type', required=False)
+  virtual_corporate: include('price-type', required=False)
+  button: str(required=False)
 
 price-type:
   price: str()
@@ -159,6 +173,7 @@ sponsor-detail:
 about-details:
   summary: str(required=False)
   venue: str(required=False)
+  venue_address: str(required=False)
   attendees: any(int(), str())
   mainroom: str(required=False)
   unconfroom: str(required=False)
@@ -172,8 +187,11 @@ cfp-details:
   url: str(required=True)
   ends: str(required=True)
   notification: str(required=True)
+  confirm_by: str(required=False)
   video_by: str(required=False)
   slides_by: str(required=False)
+  info_by: str(required=False)
+  speaker_tickets_by: str(required=False)
   gifts_by: str(required=False)
   preview: str(required=False)
 
@@ -190,8 +208,21 @@ unconf-details:
   url: str(required=True)
   date: str(required=False)
 
+writing_day-details:
+  url: str(required=False)
+  date: str(required=True)
+
 hike-details:
-  date: str(required=False)
+  date: str(required=True)
+  register_url: str(required=False)
 
 lightning_talks-details:
   signup_url: str(required=True)
+
+qa-details:
+  event_id: str(required=True)
+
+volunteer-details:
+  form_url: str(required=False)
+  applications_close: str(required=False)
+  schedule_signup_close: str(required=False)

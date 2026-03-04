@@ -127,7 +127,7 @@ If you need a hand preparing or honing your talk proposal, there are lots of goo
 
 * **Community mentorship** – We have an ever-growing pool of previous Write the Docs speakers, many of whom are happy to be a second pair of eyes on talk proposals. If you're interested in working with a past speaker, let us know at {{ shortcode }}@writethedocs.org!
 * **Meetup brainstorming** – For some in-person workshopping, check in on your `local meetup group <https://www.writethedocs.org/meetups/>`_ and see if they have a talk brainstorming session on their calendar. If they don't... ask if they're planning one!
-* **Slack hivemind** – You can also hit up the hivemind directly on the Write the Docs Slack, any time of day! (If you're not registered yet, you can at `https://writethedocs.org/slack/ <https://writethedocs.org/slack/>`_.)
+* **Slack hivemind** – You can also hit up the hivemind directly on the Write the Docs Slack, any time of day! (If you're not registered yet, you can at `https://www.writethedocs.org/slack/ <https://www.writethedocs.org/slack/>`_.)
 * **Twitter hivemind** – If Twitter is more your speed, `#writethedocs <https://twitter.com/hashtag/writethedocs>`__ will get you there.
 
 ecause the talks are pre-recorded, you can submit your proposal even if you can't attend in person! We will use our virtual conference platform to allow folks to attend from home globally, and we hope that this will make our CFP accessible to more documentarians. We will also provide resources and support for recording your talk.

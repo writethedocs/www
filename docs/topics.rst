@@ -11,7 +11,7 @@ If you think something is wrongly categorized, please let us know.
    :local:
    :depth: 2
    :backlinks: none
-   
+
 Writing words
 -------------
 
@@ -36,13 +36,14 @@ Naming and terminology
 - |:newspaper:| `Common words and how to identify them </blog/newsletter-june-2020/#common-words-and-how-to-identify-them>`__
 - |:movie_camera:| `Even Naming This Talk Is Hard </videos/na/2017/even-naming-this-talk-is-hard-ruthie-bendor/>`__
 - |:movie_camera:| `Whatchamacallit: Controlled Vocabularies for Technical Writers </videos/eu/2015/whatchamacallit-controlled-vocabularies-for-technical-writers-eboillat/>`__
-- 
+-
 
 Specific writing questions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 One word vs another, using abbreviations, etc.
 
+- |:newspaper:| `Emoji in documentation: :yes-please: or :yuk:? </blog/newsletter-november-2024/#emoji-in-documentation-yes-please-or-yuk>`__
 - |:newspaper:| `Hyperlink Text </blog/newsletter-october-2023/#hyperlink-text>`__
 - |:newspaper:| `Numbering Section Headings </blog/newsletter-september-2023/#numbering-section-headings>`__
 - |:newspaper:| `Gerunds in headings </blog/newsletter-october-2022/#gerunds-in-headings>`__
@@ -70,6 +71,7 @@ Editing
 Code samples
 ~~~~~~~~~~~~
 
+- |:newspaper:| `Why code examples make or break developer docs </blog/newsletter-december-2025/#why-code-examples-make-or-break-developer-docs>`__
 - |:movie_camera:| `Creating Quality Sample Code </videos/portland/2020/creating-quality-sample-code-jessica-garson/>`__
 - |:movie_camera:| `Need Examples? Write Your Own! </videos/prague/2020/need-examples-write-your-own-joe-malin/>`__
 - |:newspaper:| `Evolving developer docs, code samples </blog/newsletter-april-2018/#evolving-your-developer-docs-as-your-product-matures>`__
@@ -82,40 +84,49 @@ Code samples
 Formatting
 ~~~~~~~~~~
 
+- |:newspaper:| `Using callouts/admonitions in tech docs </blog/newsletter-october-2024/#using-callouts-admonitions-in-tech-docs>`__
 - |:newspaper:| `What to do about text wrapping </blog/newsletter-july-2019/#what-to-do-about-text-wrapping>`__
 - |:newspaper:| `Number formatting in data tables </blog/newsletter-april-2018/#number-formatting-in-data-tables>`__
-- |:newspaper:| `Formatting and updating images and screenshots </blog/newsletter-november-2017/#worth-it-images-screenshots>`__
-- |:newspaper:| `Cropping screenshots </blog/newsletter-june-2017/#how-do-you-crop-your-screenshots>`__
 - |:newspaper:| `Different types of brackets </blog/newsletter-november-2017/#a-by-any-other-name>`__
 - |:newspaper:| `Formatting for procedures </blog/newsletter-march-2017/#know-the-rules-for-formatting-procedures-and-when-to-break-them>`__
 - |:newspaper:| `Man pages </blog/newsletter-december-2017/#it-s-just-documentation-man>`__
 
+Screenshots
+~~~~~~~~~~~
+
+- |:newspaper:| `Create a screenshot style guide </blog/newsletter-november-2025/#create-a-screenshot-style-guide>`__
+- |:newspaper:| `Automating screenshot capture or translation </blog/newsletter-june-2025/#automating-screenshot-capture-or-translation>`__
+- |:newspaper:| `When to create screenshots </blog/newsletter-december-2022/#when-to-create-screenshots>`__
+- |:newspaper:| `Tips for creating quality screenshots </blog/newsletter-may-2020/#tips-for-creating-quality-screenshots>`__
+- |:movie_camera:| `Graphic Content Warning: The Pros, Cons, and Alternatives to Screenshots </videos/portland/2018/graphic-content-warning-the-pros-cons-and-alternatives-to-screenshots-steve-stegelin/>`__
+- |:newspaper:| `Automated screenshot-taking </blog/newsletter-april-2018/#new-tool-to-try-out-automated-screenshots>`__
+- |:newspaper:| `Formatting and updating images and screenshots </blog/newsletter-november-2017/#worth-it-images-screenshots>`__
+- |:newspaper:| `Cropping screenshots </blog/newsletter-june-2017/#how-do-you-crop-your-screenshots>`__
+- |:movie_camera:| `When bad screenshots happen to good writers </videos/eu/2016/when-bad-screenshots-happen-to-good-writers-swapnil-ogale/>`__
+
 Other media
 ~~~~~~~~~~~
 
-Including videos, diagrams, and screenshots.
+Including videos and diagrams.
 
+- |:newspaper:| `To autoplay animated GIFs or not </blog/newsletter-july-2025/#to-autoplay-animated-gifs-or-not>`__
 - |:newspaper:| `Inclusiveness in diagrams </blog/newsletter-february-2023/#inclusiveness-in-diagrams>`__
-- |:newspaper:| `When to create screenshots </blog/newsletter-december-2022/#when-to-create-screenshots>`__
 - |:newspaper:| `Is written content outdated - and is it time for video? </blog/newsletter-may-2022/#is-written-content-outdated-and-is-it-time-for-video>`__
 - |:newspaper:| `Command prompts in docs </blog/newsletter-october-2020/#command-prompts-in-docs>`__
-- |:newspaper:| `Tips for creating quality screenshots </blog/newsletter-may-2020/#tips-for-creating-quality-screenshots>`__
 - |:movie_camera:| `Set your data free with model-based architecture diagramming </videos/portland/2020/set-your-data-free-with-model-based-architecture-diagramming-avi-flax/>`__
 - |:newspaper:| `Behind the scenes with fonts, emojis, and Unicode </blog/newsletter-october-2019/#behind-the-scenes-with-fonts-emojis-and-unicode>`__
 - |:newspaper:| `Advice for creating technical illustrations </blog/newsletter-august-2019/#advice-for-creating-technical-illustrations>`__
 - |:newspaper:| `Tips and tricks for producing video </blog/newsletter-may-2019/#tips-and-tricks-for-producing-videos>`__
 - |:movie_camera:| `Draw the Docs </videos/portland/2019/draw-the-docs-alicja-raszkowska/>`__
 - |:movie_camera:| `So you want to make videos? </videos/prague/2018/so-you-want-to-make-videos-sarah-ley-hamilton/>`__
-- |:movie_camera:| `Graphic Content Warning: The Pros, Cons, and Alternatives to Screenshots </videos/portland/2018/graphic-content-warning-the-pros-cons-and-alternatives-to-screenshots-steve-stegelin/>`__
-- |:newspaper:| `Automated screenshot-taking </blog/newsletter-april-2018/#new-tool-to-try-out-automated-screenshots>`__
 - |:movie_camera:| `Documentation beyond words </videos/eu/2017/documentation-beyond-words-chris-ward/>`__
-- |:movie_camera:| `When bad screenshots happen to good writers </videos/eu/2016/when-bad-screenshots-happen-to-good-writers-swapnil-ogale/>`__
 - |:movie_camera:| `Screencasting 101 </videos/eu/2015/screencasting-101-dpotter/>`__
 - |:movie_camera:| `How to Write an Email </videos/eu/2015/how-to-write-an-email-ecaine/>`__
 
 Writing topics
 --------------
 
+- |:newspaper:| `Minimum internal documentation </blog/newsletter-may-2025/#minimum-internal-documentation>`__
 - |:newspaper:| `To Outline Or Not To Outline </blog/newsletter-february-2024/#to-outline-or-not-to-outline>`__
 - |:newspaper:| `Minimum viable documentation </blog/newsletter-november-2022/#minimum-viable-documentation>`__
 - |:newspaper:| `Toward a theory of technical writing? </blog/newsletter-july-2022/#toward-a-theory-of-technical-writing>`__
@@ -140,6 +151,9 @@ Task-based writing
 API docs
 ~~~~~~~~
 
+- |:newspaper:| `Improving your API documentation skills </blog/newsletter-september-2025/#improving-your-api-documentation-skills>`__
+- |:newspaper:| `Should APIs be documented with code? </blog/newsletter-october-2024/#should-apis-be-documented-with-code>`__
+- |:newspaper:| `API design with docs in mind </blog/newsletter-september-2024/#api-design-with-docs-in-mind>`__
 - |:movie_camera:| `Shuffle ball change: Sashay your way to clearer API documentation </videos/portland/2021/shuffle-ball-change-sashay-your-way-to-clearer-api-documentation-rachael-stavchansky/>`__
 - |:movie_camera:| `Write the API docs before the API exists </videos/prague/2019/write-the-api-docs-before-the-api-exists-ben-ahmady/>`__
 - |:newspaper:| `Documenting APIs with "interesting" design choices </blog/newsletter-february-2019/#documenting-apis-with-interesting-design-choices>`__
@@ -168,6 +182,7 @@ In-app documentation
 Release notes
 ~~~~~~~~~~~~~~
 
+- |:newspaper:| `Making release notes work: Tips for Documentarians </blog/newsletter-june-2025/#making-release-notes-work-tips-for-documentarians>`__
 - |:newspaper:| `Changelogs for Docs </blog/newsletter-november-2023/#changelogs-for-docs>`__
 - |:newspaper:| `Do we tell users what’s new in the docs? </blog/newsletter-march-2020/#do-we-tell-users-what-s-new-in-the-docs>`__
 - |:movie_camera:| `Learning to love release notes </videos/prague/2018/learning-to-love-release-notes-anne-edwards/>`__
@@ -177,6 +192,8 @@ Other specific doc types
 
 Including how-tos, reference docs, tutorials, and books.
 
+- |:newspaper:| `Scaling beta docs without the headache </blog/newsletter-september-2025/#scaling-beta-docs-without-the-headache>`__
+- |:newspaper:| `Tips for improving code documentation </blog/newsletter-february-2025/#tips-for-improving-code-documentation>`__
 - |:newspaper:| `Documenting YAML Files </blog/newsletter-july-2023/#documenting-yaml-files>`__
 - |:newspaper:| `Code samples: Comments and placeholder text </blog/newsletter-june-2023/#code-samples-comments-and-placeholder-text>`__
 - |:newspaper:| `Templates for concept documentation </blog/newsletter-may-2022/#templates-for-concept-documentation>`__
@@ -222,6 +239,7 @@ Storytelling
 Writing doc sets
 ----------------
 
+- |:newspaper:| `Locked out: The effect on users from gated product docs </blog/newsletter-may-2025/#locked-out-the-effect-on-users-from-gated-product-docs>`__
 - |:newspaper:| `Public vs. private docs </blog/newsletter-june-2023/#public-vs-private-docs>`__
 - |:movie_camera:| `Don’t shoot yourself in the foot with content reuse </videos/portland/2022/don-t-shoot-yourself-in-the-foot-with-content-reuse-anna-gasparyan/>`__
 - |:movie_camera:| `How to launch your startup with good docs </videos/prague/2019/how-to-launch-your-startup-with-good-docs-brian-lemke/>`__
@@ -231,6 +249,8 @@ Writing doc sets
 Information architecture
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `Knowledge graphs in documentation </blog/newsletter-march-2026/#knowledge-graphs-in-documentation>`__
+- |:newspaper:| `How to organize content in your documents </blog/newsletter-april-2025/#how-to-organize-content-in-your-documents>`__
 - |:newspaper:| `Where should support content live? </blog/newsletter-april-2022/#where-should-support-content-live>`__
 - |:movie_camera:| `More than words: Reviewing and updating your information architecture </videos/prague/2021/more-than-words-reviewing-and-updating-your-information-architecture-lana-brindley-she-her/>`__
 - |:newspaper:| `Organizing docs by role, or by topic? </blog/newsletter-october-2020/#organizing-docs-by-role-or-by-topic>`__
@@ -259,6 +279,7 @@ Legacy docs
 Maintenance
 ~~~~~~~~~~~
 
+- |:newspaper:| `Strategies for successful documentation audits </blog/newsletter-july-2025/#strategies-for-successful-documentation-audits>`__
 - |:movie_camera:| `Maintaining Documentation: Make It Easy! </videos/prague/2022/maintaining-documentation-make-it-easy-emilia-juda-zbay/>`__
 - |:newspaper:| `Broken links and how to find them </blog/newsletter-june-2020/#broken-links-and-how-to-find-them>`__
 - |:movie_camera:| `Finding the line: Balancing business continuity and documentation debt </videos/portland/2020/finding-the-line-balancing-business-continuity-and-documentation-debt-luca-janssens/>`__
@@ -270,6 +291,9 @@ Maintenance
 Jobs and careers
 ----------------
 
+- |:newspaper:| `Being the first writer at a startup </blog/newsletter-november-2025/#being-the-first-writer-at-a-startup>`__
+- |:newspaper:| `Where do documentarians “fit” into an organization? </blog/newsletter-may-2025/#where-do-documentarians-fit-into-an-organization>`__
+- |:newspaper:| `Working as a contractor or freelancer </blog/newsletter-october-2024/#working-as-a-contractor-or-freelancer>`__
 - |:newspaper:| `Should Technical Communication Be Its Own Department? </blog/newsletter-may-2024/#should-technical-communication-be-its-own-department>`__
 - |:newspaper:| `What to do after surviving layoffs </blog/newsletter-may-2023/#what-to-do-after-surviving-layoffs>`__
 - |:newspaper:| `Knowledge transfer for documentarians </blog/newsletter-november-2022/#knowledge-transfer-for-documentarians>`__
@@ -294,6 +318,8 @@ Hiring
 Getting hired
 ~~~~~~~~~~~~~
 
+- |:newspaper:| `Are tool experience requirements a myth? </blog/newsletter-november-2024/#are-tool-experience-requirements-a-myth>`__
+- |:newspaper:| `Handling employment gaps </blog/newsletter-september-2024/#handling-employment-gaps>`__
 - |:newspaper:| `Setting Up for Success as a Neurodivergent Person </blog/newsletter-july-2023/#setting-up-for-success-as-a-neurodivergent-person>`__
 - |:newspaper:| `Extreme take-home tests </blog/newsletter-june-2023/#extreme-take-home-tests>`__
 - |:newspaper:| `Building an API portfolio </blog/newsletter-april-2023/#building-an-api-portfolio>`__
@@ -328,6 +354,9 @@ Related roles
 Career growth
 ~~~~~~~~~~~~~
 
+- |:newspaper:| `Defining a full-stack documentarian </blog/newsletter-february-2026/#defining-a-full-stack-documentarian>`__
+- |:newspaper:| `Leveling up as a solo documentarian </blog/newsletter-april-2025/#leveling-up-as-a-solo-documentarian>`__
+- |:newspaper:| `The highs and lows of writing alone </blog/newsletter-february-2025/#the-highs-and-lows-of-writing-alone>`__
 - |:newspaper:| `Dealing with Feeling Blocked by Bureaucracy </blog/newsletter-march-2024/#dealing-with-feeling-blocked-by-bureaucracy>`__
 - |:newspaper:| `How to describe career progression </blog/newsletter-may-2023/#how-to-describe-career-progression>`__
 - |:newspaper:| `Loneliness of the “Lone-ly” Documentarian </blog/newsletter-march-2023/#loneliness-of-the-lone-ly-documentarian>`__
@@ -375,6 +404,7 @@ Including onboarding new writers
 Learning...
 ~~~~~~~~~~~
 
+- |:newspaper:| `Technical skills for documentarians </blog/newsletter-july-2024/#technical-skills-for-documentarians>`__
 - |:movie_camera:| `The Art of Asking Questions </videos/prague/2022/the-art-of-asking-questions-jeff-smith/>`__
 - |:newspaper:| `What we’re learning in #learn-tech-writing </blog/newsletter-october-2020/#what-we-re-learning-in-learn-tech-writing>`__
 - |:movie_camera:| `Read the Rules: What technical writers can learn from board game design </videos/portland/2020/read-the-rules-what-technical-writers-can-learn-from-board-game-design-matthew-baldwin/>`__
@@ -393,6 +423,7 @@ Design and UX
 Accessibility and inclusivity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `Style guidance for alt text </blog/newsletter-february-2026/#style-guidance-for-alt-text>`__
 - |:movie_camera:| `ADHD and its impact on the Creative Process for Writers </videos/prague/2022/adhd-and-its-impact-on-the-creative-process-for-writers-tyler-smith/>`__
 - |:movie_camera:| `Writing Documentation with Neurodivergent Open Source Contributors In Mind </videos/portland/2021/writing-documentation-with-neurodivergent-open-source-contributors-in-mind-rin-oliver/>`__
 - |:movie_camera:| `Moving beyond empathy: a11y in documentation </videos/portland/2020/moving-beyond-empathy-a11y-in-documentation-alexandra-white/>`__
@@ -486,7 +517,6 @@ Doc tools
 - |:newspaper:| `Choosing a CCMS or a static site generator </blog/newsletter-june-2023/#choosing-a-ccms-or-a-static-site-generator>`__
 - |:movie_camera:| `Two years of Markdoc: what we’ve learned about balancing developer and author experience </videos/prague/2022/two-years-of-markdoc-what-we-ve-learned-about-balancing-developer-and-author-ex-ryan-paul/>`__
 - |:newspaper:| `Standards in documentation tooling </blog/newsletter-december-2021/#standards-in-documentation-tooling>`__
-- |:movie_camera:| `Hitchhiker’s Guide to Documentation Tools and Processes </videos/prague/2021/hitchhiker-s-guide-to-documentation-tools-and-processes-lukas-reu-ner/>`__
 - |:movie_camera:| `Putting the “tech” in technical writer </videos/portland/2021/putting-the-tech-in-technical-writer-swapnil-ogale/>`__
 - |:movie_camera:| `Documentation as an application: enabling interactive content that is tailored to the user </videos/portland/2020/documentation-as-an-application-enabling-interactive-content-that-is-tailored-to-the-user-ryan-paul/>`__
 - |:movie_camera:| `Model-view-docs: taming large-scale documentation projects using structured data </videos/portland/2020/model-view-docs-taming-large-scale-documentation-projects-using-structured-data-luc-perkins/>`__
@@ -510,6 +540,9 @@ Doc tools
 Docs-as-code
 ~~~~~~~~~~~~
 
+- |:newspaper:| `Learn docs-as-code </blog/newsletter-april-2025/#learn-docs-as-code>`__
+- |:newspaper:| `Where to keep content for reuse in docs-as-code </blog/newsletter-march-2025/#where-to-keep-content-for-reuse-in-docs-as-code>`__
+- |:newspaper:| `Dealing with images and other assets in docs-as-code </blog/newsletter-november-2024/#dealing-with-images-and-other-assets-in-docs-as-code>`__
 - |:newspaper:| `Is Docs-as-Code Worth It? </blog/newsletter-may-2024/#is-docs-as-code-worth-it>`__
 - |:newspaper:| `Drafting Docs with Code Changes </blog/newsletter-april-2024/#drafting-docs-with-code-changes>`__
 - |:newspaper:| `Docs with Code Or Just as Code? </blog/newsletter-october-2023/#docs-with-code-or-just-as-code>`__
@@ -542,6 +575,16 @@ DITA
 AI and LLMs
 ~~~~~~~~~~~
 
+- |:newspaper:| `Should we structure docs for AI agents? </blog/newsletter-march-2026/#should-we-structure-docs-for-ai-agents>`__
+- |:newspaper:| `AI assistants in docs </blog/newsletter-march-2026/#ai-assistants-in-docs>`__
+- |:newspaper:| `Can AI be both a bubble and useful? </blog/newsletter-february-2026/#can-ai-be-both-a-bubble-and-useful>`__
+- |:newspaper:| `AI and the future of documentation </blog/newsletter-december-2025/#ai-and-the-future-of-documentation>`__
+- |:newspaper:| `Optimizing docs for LLMs </blog/newsletter-november-2025/#optimizing-docs-for-llms>`__
+- |:newspaper:| `AI and the need for product knowledge </blog/newsletter-october-2025/#ai-and-the-need-for-product-knowledge>`__
+- |:newspaper:| `Using AI to prove AI shouldn’t replace you </blog/newsletter-october-2025/#using-ai-to-prove-ai-shouldnt-replace-you>`__
+- |:newspaper:| `The effect of LLMs on docs use </blog/newsletter-september-2025/#the-effect-of-llms-on-docs-use>`__
+- |:newspaper:| `How documentarians use AI (or LLMs) </blog/newsletter-july-2025/#how-documentarians-use-ai-or-llms>`__
+- |:newspaper:| `Writing AI-friendly *and* human-readable documentation </blog/newsletter-february-2025/#writing-ai-friendly-and-human-readable-documentation>`__
 - |:newspaper:| `Accelerating Documentation Creation with AI </blog/newsletter-april-2024/#accelerating-documentation-creation-with-ai>`__
 - |:newspaper:| `Iterative Writing with a Chatbot </blog/newsletter-march-2024/#iterative-writing-with-a-chatbot>`__
 - |:newspaper:| `Structured Authoring and Large Language Models (LLMs) </blog/newsletter-february-2024/#structured-authoring-and-large-language-models-llms>`__
@@ -572,6 +615,7 @@ Git
 Search
 ~~~~~~~
 
+- |:newspaper:| `SEO for docs: How much and how? </blog/newsletter-april-2025/#seo-for-docs-how-much-and-how>`__
 - |:movie_camera:| `The Search for Search </videos/portland/2020/the-search-for-search-paul-logan/>`__
 - |:movie_camera:| `Making documentation discoverable in search engines </videos/prague/2020/making-documentation-discoverable-in-search-engines-myriam-jessier/>`__
 
@@ -602,6 +646,7 @@ User feedback
 
 Gathering it and acting on it.
 
+- |:newspaper:| `Managing mountains of feedback </blog/newsletter-october-2024/#managing-mountains-of-feedback>`__
 - |:newspaper:| `Collecting helpful user feedback </blog/newsletter-september-2022/#collecting-helpful-user-feedback>`__
 - |:movie_camera:| `Customer Feedback is the Fuel in our Engine </videos/prague/2021/customer-feedback-is-the-fuel-in-our-engine-kevin-hwang/>`__
 - |:newspaper:| `Gathering documentation feedback </blog/newsletter-july-2020/#gathering-documentation-feedback>`__
@@ -623,6 +668,7 @@ Measuring docs success
 Metrics
 ~~~~~~~
 
+- |:newspaper:| `How to think about docs metrics </blog/newsletter-july-2024/#how-to-think-about-docs-metrics>`__
 - |:newspaper:| `Do Readability Scores Have Value? </blog/newsletter-april-2024/#do-readability-scores-have-value>`__
 - |:newspaper:| `Measuring Docs Quality </blog/newsletter-november-2023/#measuring-docs-quality>`__
 - |:movie_camera:| `Measuring the impact of your documentation </videos/prague/2018/measuring-the-impact-of-your-documentation-liam-keegan/>`__
@@ -633,6 +679,7 @@ Metrics
 Culture and community
 ---------------------
 
+- |:newspaper:| `The benefits of networking </blog/newsletter-july-2024/#the-benefits-of-networking>`__
 - |:movie_camera:| `Dealing with Unpleasant People in Open-Source Projects </blog/newsletter-september-2023/#dealing-with-unpleasant-people-in-open-source-projects>`__
 - |:movie_camera:| `A guide to getting started in open source </videos/portland/2021/a-guide-to-getting-started-in-open-source-abigail-mccarthy/>`__
 - |:movie_camera:| `5 things I learned from my first open source contribution </videos/australia/2020/5-things-i-learned-from-my-first-open-source-contribution-andrea-szollossi/>`__
@@ -690,6 +737,9 @@ Meetups
 Style guides
 ~~~~~~~~~~~~
 
+- |:newspaper:| `De-personalizing examples </blog/newsletter-march-2026/#de-personalizing-examples>`__
+- |:newspaper:| `Style guidance for alt text </blog/newsletter-february-2026/#style-guidance-for-alt-text>`__
+- |:newspaper:| `Create a screenshot style guide </blog/newsletter-november-2025/#create-a-screenshot-style-guide>`__
 - |:newspaper:| `Choosing a style guide </blog/newsletter-november-2022/#choosing-a-style-guide>`__
 - |:movie_camera:| `The Art of Consistency: Creating an in-house style guide <https://www.youtube.com/watch?v=IDLSiX9O0Lg&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=11>`__
 - |:movie_camera:| `Building a style guide from the ground up: lessons learned from a lone writer </videos/portland/2021/building-a-style-guide-from-the-ground-up-lessons-learned-from-a-lone-writer-deanna-thompson/>`__
@@ -705,6 +755,8 @@ Style guides
 Working across roles
 --------------------
 
+- |:newspaper:| `Keeping cool when challenged </blog/newsletter-september-2025/#keeping-cool-when-challenged>`__
+- |:newspaper:| `Behavior in text vs in person in the workplace </blog/newsletter-march-2025/#behavior-in-text-vs-in-person-in-the-workplace>`__
 - |:movie_camera:| `Cultivating a Stakeholder Network for Our Docs: How Building Relationships Improves Our Content </videos/prague/2022/cultivating-a-stakeholder-network-for-our-docs-how-building-relationships-impro-taylor-cole/>`__
 - |:newspaper:| `The strengths of different backgrounds </blog/newsletter-november-2019/#the-strengths-of-different-backgrounds>`__
 
@@ -752,6 +804,12 @@ Working with other roles
 
 Including product managers, higher-ups, etc.
 
+- |:newspaper:| `Documenting features that don’t exist yet </blog/newsletter-december-2025/#documenting-features-that-don-t-exist-yet>`__
+- |:newspaper:| `Encouraging colleagues to search for content </blog/newsletter-october-2025/#encouraging-colleagues-to-search-for-content>`__
+- |:newspaper:| `Help contributors think like users </blog/newsletter-june-2025/#help-contributors-think-like-users>`__
+- |:newspaper:| `Contending with unresponsive stakeholders </blog/newsletter-march-2025/#contending-with-unresponsive-stakeholders>`__
+- |:newspaper:| `How to make your work as a documentarian shine: Beyond "just writing docs" </blog/newsletter-february-2025/#how-to-make-your-work-as-a-documentarian-shine-beyond-just-writing-docs>`__
+- |:newspaper:| `Dealing with difficult-to-understand drafts </blog/newsletter-september-2024/#dealing-with-difficult-to-understand-drafts>`__
 - |:newspaper:| `Helpful Questions for Gathering Information </blog/newsletter-december-2023/#helpful-questions-for-gathering-information>`__
 - |:newspaper:| `Getting Info from Others </blog/newsletter-july-2023/#getting-info-from-others>`__
 - |:newspaper:| `Setting boundaries </blog/newsletter-april-2023/#setting-boundaries>`__
@@ -772,6 +830,7 @@ Including product managers, higher-ups, etc.
 Planning and how we work
 ------------------------
 
+- |:newspaper:| `Maximizing the value of weekly meetings </blog/newsletter-march-2025/#maximizing-the-value-of-weekly-meetings>`__
 - |:newspaper:| `Keeping Up-To-Date with Necessary Changes </blog/newsletter-september-2023/#keeping-up-to-date-with-necessary-changes>`__
 - |:newspaper:| `Estimating docs work </blog/newsletter-october-2022/#estimating-docs-work>`__
 - |:newspaper:| `Estimating work </blog/newsletter-june-2022/#estimating-work>`__
@@ -796,6 +855,8 @@ Prioritisation
 Agile and workflows
 ~~~~~~~~~~~~~~~~~~~
 
+- |:newspaper:| `Delay releases or publish docs late </blog/newsletter-october-2025/#delay-releases-or-publish-docs-late>`__
+- |:newspaper:| `Navigating Agile for documentarians </blog/newsletter-july-2025/#navigating-agile-for-documentarians>`__
 - |:newspaper:| `Tracking work </blog/newsletter-july-2020/#tracking-work>`__
 - |:movie_camera:| `Documenting the (Ancient) History of Your Project </videos/prague/2020/documenting-the-ancient-history-of-your-project-natali-vlatko/>`__
 - |:movie_camera:| `Building a content-focused, scientific document authoring workflow for Data Scientists and Engineers alike </videos/portland/2020/building-a-content-focused-scientific-document-authoring-workflow-for-data-scientists-and-engineers-alike-colin-dean/>`__

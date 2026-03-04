@@ -1,29 +1,26 @@
 :template: {{year}}/generic.html
 
-Our venue: Library at the Dock
-==============================
+Our venue: Melbourne City Conference Centre
+============================================
 
-Our Australian conference will be held at `Library at the Dock`_. 
-It is a beautiful library space located alongside the Yarra river, at the Docklands precinct of Melbourne.
+Our Australian conference will be held at `Melbourne City Conference Centre`_.
+The fascination with MCCC lies in its unique range of venues, dating as far back as 140 years. Their venues include a Heritage-listed Chapel, modern 700-seater Auditorium and a cosy Chapel Hall & Price Hall.
 
-.. image:: /_static/conf/images/pics/Lib-Dock.jpg
+.. image:: /_static/conf/images/pics/mccc.jpg
 
-Library at The Dock is Australia’s first 6 star Green Star rated public building and we will have access to these spaces:
+Melbourne City Conference Centre is a leading multi-venue meeting and conference centre in the heart of Melbourne's Central Business District (CBD). 
+We will have access to the following spaces during the conference:
 
-* The Performance space where we will be hosting our conference talks.
-* The Community Room which will host the unconference sessions, and where our snacks and drinks catering will happen.
+* The Auditorium where we will be hosting our conference talks.
+* The Price Hall which will host the unconference sessions, and where our snacks and drinks catering will happen.
 
-It also has *outdoor seating* and a *park* directly on the property for plenty of fresh air and free space.
+The venue is centrally located and well serviced by Melbourne's public transport system, including buses, trams, and a train station right next to the venue.
 
-.. _Library at the Dock: https://www.melbourne.vic.gov.au/community/hubs-bookable-spaces/the-dock/library-at-the-dock/Pages/library-at-the-dock.aspx
+.. _Melbourne City Conference Centre: https://melbourneccc.com.au/
 
-Instructions on accessing the Performance space
-------------------------------------------------
+Location
+--------
 
-General access to the conference space (Library at the Dock) is limited by the library opening hours (10am to 6pm Thursday, and 1pm - 6pm Friday). 
-We will have someone at the after-hours doors to let the conference attendees in and out of the venue outside these hours, and also signs listing local staff contact details in case you are stuck outside.
+190 Little Lonsdale St, Melbourne, Victoria 3000
 
-On both days of the conference (Thursday 7 Dec and Friday 8 Dec), doors to the Performance Space will open at 8.30am. Please enter the library via the After Hours Door located opposite the Buluk Park Playground. We will have signages and someone to usher you in to the library venue.
-**Note**: The main door of the library, alongside Victoria Habour Promenade is only accessible during library opening hours. 
-
-Once you are inside the library via the After Hours door, use the stairs or the lifts to Level 2 to access the Performance Space, and collect your name tags at the Registration desk.
+.. image:: /_static/conf/images/pics/mccc-location.png

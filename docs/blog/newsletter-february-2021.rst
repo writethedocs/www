@@ -16,7 +16,7 @@ So what's been happening on Slack?
 Getting the balance right with screenshots
 ------------------------------------------
 
-In December, documentarians had a lively discussion about how many screenshots to include in docs. As you might imagine, perspectives ranged from "absolutely no screenshots ever" to "as many screenshots as possible," but the most common opinion was "it depends" (surprise!). Most said they try to help both users who like a visual walkthrough _and_ users who prefer to follow text instructions. One writer approached the problem by presenting text explanations as the default, with an optional collapsible version that includes screenshots.
+In December, documentarians had a lively discussion about how many screenshots to include in docs. As you might imagine, perspectives ranged from "absolutely no screenshots ever" to "as many screenshots as possible," but the most common opinion was "it depends" (surprise!). Most said they try to help both users who like a visual walkthrough *and* users who prefer to follow text instructions. One writer approached the problem by presenting text explanations as the default, with an optional collapsible version that includes screenshots.
 
 Fewer screenshots means less maintenance work. If the product changes, the screenshots must change too, to remain helpful and prevent confusion. Lots of screenshots plus frequent product changes can cost a lot of time: keeping the docs in sync with the product can become unmanageable.
 

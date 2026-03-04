@@ -1,0 +1,23 @@
+{% extends year_str + "/base.html" %}
+
+{% block head_link %}
+<style>
+.page-content h1 {
+    display: none;
+}
+</style>
+{% endblock %}
+
+{% block container %}
+  {% if body %}
+    <div class="page-content">
+        <div class="uk-container">
+                {% block body %}
+                {{ body }}
+                {% endblock body %}
+                {# {% include "postcard.html" %} #}
+        </div>
+    </div>
+  {% endif %}
+
+{% endblock container %}

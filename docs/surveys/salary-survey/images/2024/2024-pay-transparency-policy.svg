@@ -1,0 +1,47 @@
+<svg viewBox="0 55 660 357" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+	<defs>
+	
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2024-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+  <g id="2024-pay-transparency-policy">
+
+    <g class="title">
+      <text font-size="14"><tspan x="40" y="33">Organization pay transparency</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Official policy</tspan></text>
+    </g>
+
+    <g class="donut-chart">
+
+      <path d="M207.104 151.997C228.786 121.014 261.371 99.3635 298.335 91.3803C335.299 83.3972 373.914 89.6704 406.45 108.944C438.986 128.218 463.041 159.069 473.801 195.323C484.56 231.576 481.229 270.556 464.474 304.458L383.79 264.583C390.492 251.022 391.824 235.43 387.52 220.929C383.217 206.428 373.594 194.087 360.58 186.378C347.566 178.668 332.119 176.159 317.334 179.352C302.548 182.545 289.514 191.205 280.842 203.599L207.104 151.997Z" fill="#00AEFF" stroke="white" stroke-width="2"/>
+      <path d="M464.408 304.592C454.646 324.295 440.673 341.61 423.476 355.312C406.28 369.015 386.281 378.769 364.897 383.884C343.512 389 321.264 389.351 299.729 384.914C278.193 380.476 257.897 371.359 240.276 358.207L294.11 286.083C301.159 291.344 309.277 294.991 317.891 296.766C326.506 298.541 335.405 298.4 343.959 296.354C352.513 294.308 360.512 290.406 367.39 284.925C374.269 279.444 379.859 272.518 383.763 264.637L464.408 304.592Z" fill="#7EA4FF" stroke="white" stroke-width="2"/>
+      <path d="M240.156 358.117C216.114 340.134 198.022 315.351 188.22 286.974L273.288 257.59C277.209 268.94 284.446 278.854 294.062 286.047L240.156 358.117Z" fill="#FC82E1" stroke="white" stroke-width="2"/>
+      <path d="M188.171 286.832C179.659 262.109 177.757 235.591 182.654 209.906L271.062 226.762C269.103 237.036 269.864 247.644 273.269 257.533L188.171 286.832Z" fill="#FF7781" stroke="white" stroke-width="2"/>
+      <path d="M182.683 209.759C186.651 189.058 194.938 169.426 207.002 152.143L280.801 203.657C275.975 210.57 272.66 218.423 271.073 226.703L182.683 209.759Z" fill="#FFA600" stroke="white" stroke-width="2"/>
+      <path d="M479.634 128C474.634 128 459.351 149.034 458.176 150.652L457 152.271" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M456.634 375.271C451.634 375.271 436.351 354.236 435.176 352.618L434 351" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M183 351.271C188 351.271 203.282 330.236 204.458 328.618L205.634 327" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M141 248C146 248 171.92 250.04 173.914 250.197L175.908 250.354" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M158 164C163 164 185.169 177.585 186.874 178.63L188.579 179.675" stroke="#252521" stroke-dasharray="1 3"/>
+      <text font-size="10"><tspan x="90" y="166">Full disclosure</tspan></text>
+      <text font-size="10"><tspan x="45" y="250">Disclosure forbidden</tspan></text>
+      <text font-size="10"><tspan x="100" y="356">Partial disclosure</tspan></text>
+      <text font-size="10"><tspan x="485" y="129">No policy</tspan></text>
+      <text font-size="10"><tspan x="464" y="381">Unsure of policy</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="410" y="175">47.6%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="392" y="331">27.9%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="198" y="192">6.7%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="192" y="253">8.3%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="215" y="318">9.5%</tspan></text>
+
+    </g>
+
+  </g>
+
+</svg>

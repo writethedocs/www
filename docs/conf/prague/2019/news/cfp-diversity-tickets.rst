@@ -16,7 +16,7 @@ Submit your talk by 30th April
 Thank you so much to all who submitted their proposals so far! Our Call for Proposals is open until **Midnight CET, 30th April 2019**. Make sure to get your talk in before the deadline!
 
 The `Call for Proposals <https://www.writethedocs.org/conf/prague/2019/cfp/>`_ page has tips and examples to help inspire you.
-And if you have an idea but aren't sure what to do with it, feel free to ask for feedback on `Slack <https://writethedocs.org/slack/>`_. Your fellow documentarians will be happy to help!
+And if you have an idea but aren't sure what to do with it, feel free to ask for feedback on `Slack <https://www.writethedocs.org/slack/>`_. Your fellow documentarians will be happy to help!
 
 Speaking at Write the Docs is a fantastic way to share your ideas with our inspiring community of documentarians.
 If there is something you’d really like to see a talk on this year, submit a proposal on it, or refer someone else who would be a good speaker!

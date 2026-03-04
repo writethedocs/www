@@ -1,0 +1,46 @@
+<svg viewBox="0 55 660 202" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+	<defs>
+	
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2024-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+  <g id="2024-earnings-satisfaction-contractors">
+
+    <g class="title">
+      <text font-size="14"><tspan x="40" y="33">Earnings satisfaction</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Contractors</tspan></text>
+    </g>
+
+    <g class="donut-chart">
+
+      <path d="M180 236.061C179.997 229.358 180.444 222.663 181.337 216.021L270.535 228.008C270.178 230.665 269.999 233.343 270 236.024L180 236.061Z" fill="#C2255C" stroke="white" stroke-width="2"/>
+      <path d="M181.357 215.872C184.273 194.334 191.836 173.686 203.52 155.359L279.408 203.744C274.734 211.074 271.709 219.333 270.543 227.949L181.357 215.872Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+      <path d="M203.601 155.233C218.997 131.14 240.958 111.948 266.897 99.9194L304.759 181.568C294.383 186.379 285.599 194.056 279.44 203.693L203.601 155.233Z" fill="#E9C168" stroke="white" stroke-width="2"/>
+      <path d="M267.033 99.8563C297.586 85.7254 332.004 82.2824 364.751 90.081C397.498 97.8797 426.669 116.467 447.573 142.852L377.029 198.741C368.668 188.187 356.999 180.752 343.9 177.632C330.802 174.513 317.034 175.89 304.813 181.543L267.033 99.8563Z" fill="#82A555" stroke="white" stroke-width="2"/>
+      <path d="M447.666 142.97C468.576 169.416 479.966 202.136 480 235.85L390 235.94C389.986 222.454 385.43 209.367 377.067 198.788L447.666 142.97Z" fill="#087F5B" stroke="white" stroke-width="2"/>
+      <path d="M196.77 109.82C201.6 111.113 223.407 125.272 225.084 126.361L226.762 127.45" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M153 175C158 175 182.727 183.034 184.63 183.652L186.532 184.271" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M142.289 225C147.289 225 173.209 227.04 175.203 227.197L177.197 227.354" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M503.532 166C498.532 166 473.804 174.034 471.902 174.652L470 175.271" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M418.588 80.0751C413.95 81.942 394.011 98.6282 392.477 99.9117L390.943 101.195" stroke="#252521" stroke-dasharray="1 3"/>
+      <text font-size="10"><tspan x="42" y="229">Very unsatisfied (4.3%)</tspan></text>
+      <text font-size="10"><tspan x="99" y="177">Unsatisfied</tspan></text>
+      <text font-size="10"><tspan x="157" y="110">Neutral</tspan></text>
+      <text font-size="10"><tspan x="424" y="81">Satisfied</tspan></text>
+      <text font-size="10"><tspan x="508" y="166">Very satisfied</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="200" y="198">13.8%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="232" y="146">18.1%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="352" y="121">42.5%</tspan></text>
+      <text font-size="14" class="value-labels-inner reverse"><tspan x="422" y="198">21.3%</tspan></text>
+
+    </g>
+
+  </g>
+
+</svg>

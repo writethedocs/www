@@ -1,0 +1,79 @@
+<svg viewBox="0 55 660 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2024-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+	<g id="2024-hours-worked">
+
+		<g class="title">
+			<text font-size="14"><tspan x="40" y="33">Earnings decrease reasons</tspan></text>
+			<text font-size="12" class="subtitle"><tspan x="40" y="49">Contractors</tspan></text>
+		</g>
+
+		<g class="bar-chart-vertical">
+
+			<g class="y-axis">
+
+				<g class="gridlines">
+					<path d="M68 304.5H620"/>
+          <path d="M68 238.5H620"/>
+          <path d="M68 172.5H620"/>
+          <path d="M68 105.5H620"/>
+				</g>
+
+				<g class="axis-labels">
+					<text font-size="10"><tspan x="47" y="307">0%</tspan></text>
+          <text font-size="10"><tspan x="42" y="241">10%</tspan></text>
+          <text font-size="10"><tspan x="42" y="175">20%</tspan></text>
+          <text font-size="10"><tspan x="42" y="109">30%</tspan></text>
+				</g>
+
+			</g>
+
+			<g class="data-series">
+			
+				<g class="a">
+
+					<g class="axis-labels">
+						<text font-size="10"><tspan x="91" y="321">Pipeline dried up</tspan></text>
+            <text font-size="10"><tspan x="192" y="321">&#x201c;Stopgap&#x201d; contracting</tspan></text>
+            <text font-size="10"><tspan x="321" y="321">Fewer hours</tspan></text>
+            <text font-size="10"><tspan x="409" y="321">Premature contract end</tspan></text>
+            <text font-size="10"><tspan x="553" y="321">Other</tspan></text>
+					</g>
+
+					<g class="bars">
+						<path d="M168 172H77V304H168V172Z"/>
+            <path d="M278 198H187V304H278V198Z"/>
+            <path d="M389 198H298V304H389V198Z"/>
+            <path d="M499 198H408V304H499V198Z"/>
+            <path d="M609 92H518V304H609V92Z"/>
+					</g>
+
+					<g class="value-labels-inner">
+						<text font-size="10"><tspan x="114" y="191">20%</tspan></text>
+            <text font-size="10"><tspan x="224" y="217">16%</tspan></text>
+            <text font-size="10"><tspan x="335" y="217">16%</tspan></text>
+            <text font-size="10"><tspan x="445" y="217">16%</tspan></text>
+            <text font-size="10"><tspan x="555" y="111">32%</tspan></text>
+					</g>
+
+				</g>
+
+			</g>
+
+			<g class="legend">
+			
+			</g>
+
+		</g>
+
+	</g>
+
+</svg>

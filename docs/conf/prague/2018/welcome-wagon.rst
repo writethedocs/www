@@ -193,7 +193,7 @@ people you meet. Set a goal for yourself to meet a few new people. Here
 are some tips:
 
 -  Find out who is attending the conference before you get there. Join
-   the `Write the Docs Slack <https://writethedocs.org/slack/>`__, follow
+   the `Write the Docs Slack <https://www.writethedocs.org/slack/>`__, follow
    the `Write the Docs on Twitter <https://twitter.com/writethedocs>`__,
    and review the `list of
    speakers </conf/{{shortcode}}/{{year}}/speakers/>`__.
@@ -213,7 +213,7 @@ are some tips:
 **Sample strategy for my first Write the Docs conference**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Join the `Write the Docs Slack <https://writethedocs.org/slack/>`__,
+-  Join the `Write the Docs Slack <https://www.writethedocs.org/slack/>`__,
    and participate in the Welcome Wagon chat room to start making
    conference connections.
 -  Make a list of two people who are attending with some notes about
