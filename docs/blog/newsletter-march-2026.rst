@@ -11,7 +11,7 @@ Hello, fellow documentarians! The days are getting longer here, with more sunlig
 
 The Portland 2026 conference announced its `lineup of speakers and talks </conf/portland/2026/speakers/>`__. So check out all the cool ideas you can learn more about and `get your tickets </conf/portland/2026/tickets/>`__.
 
-The WTD Community Board had its quarterly meetings recently – surprisingly, to increase efficiency, we actually doubled the number of meetings we had. And it worked! You can read about what we've been up to and what we have planned in the `Q1 Quarterly Update </blog/2026-Q1-community-board/>`__. Since those meetings, we've actually expanded the `newsletter team </team/#newsletter>`__ as well -- so welcome to our new contributors Felicia and Andrew!
+The WTD Community Board had its quarterly meetings recently – surprisingly, to increase efficiency, we actually doubled the number of meetings we had. And it worked! You can read about what we've been up to and what we have planned in the `Q1 Quarterly Update </blog/2026-Q1-community-board/>`__. Since those meetings, we've actually expanded the `newsletter team </team/#newsletter>`__ as well -- so welcome to our new contributors Felicity and Andrew!
 
 This month's newsletter has articles on structuring docs for AI agents, creating de-personalized examples, how knowledge graphs might be useful for docs, and AI assistants in docs. Enjoy!
 
