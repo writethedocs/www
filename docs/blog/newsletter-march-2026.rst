@@ -9,9 +9,9 @@ Write the Docs Newsletter – March 2026
 
 Hello, fellow documentarians! The days are getting longer here, with more sunlight than we've had in months. Sometimes it helps to focus on what doesn't change. The sun is going to rise again tomorrow and I hope it will shine brightly on you.
 
-The Portland 2026 conference announced its `lineup of speakers and talks </conf/portland/2026/speakers/>`__. So check out all the cool ideas you can learn more about and `get your tickets </conf/portland/2026/tickets/>`__.
+The Portland 2026 conference announced its `lineup of speakers and talks </conf/portland/2026/speakers/>`__, so check them out and `get your tickets </conf/portland/2026/tickets/>`__.
 
-The WTD Community Board had its quarterly meetings recently – surprisingly, to increase efficiency, we actually doubled the number of meetings we had. And it worked! You can read about what we've been up to and what we have planned in the `Q1 Quarterly Update </blog/2026-Q1-community-board/>`__. Since those meetings, we've actually expanded the `newsletter team </team/#newsletter>`__ as well -- so welcome to our new contributors Felicity and Andrew!
+The WTD Community Board had its quarterly meetings recently. Surprisingly, to increase efficiency, we actually doubled the number of meetings we had. And it worked! You can read about what we've been up to and what we have planned in the `Q1 Quarterly Update </blog/2026-Q1-community-board/>`__. Since those meetings, we've actually expanded the `newsletter team </team/#newsletter>`__ as well -- so welcome to our new contributors Felicity and Andrew!
 
 This month's newsletter has articles on structuring docs for AI agents, creating de-personalized examples, how knowledge graphs might be useful for docs, and AI assistants in docs. Enjoy!
 
@@ -26,10 +26,10 @@ The article presents the findings that AI agents interact with docs very differe
 The way agents appear to consume your docs may surprise you:
 
 * They don't always search for your docs — They retrieve URLs from deep memory (sometimes from their training data!) or make poor guesses about the URL pattern.  
-* They can't parse tabbed or dropdown content — Those beautifully organized procedures optimized for human readers collapse into walls of undifferentiated text for agents.  
+* They can't parse tabbed or drop-down content — Those beautifully organized procedures optimized for human readers collapse into walls of undifferentiated text for agents.  
 * They can't finish long pages — Agents are configured to cut off after a default number of characters. Your longest page, no matter how well-structured, might not even make it to the table.
 
-Agents make up a growing share of web traffic, and if you want your docs to be surfaced in AI interactions (not everyone does!), there are few low-effort things you can do. A good starting point is implementing an `llms.txt file <https://llmstxt.org/>`__ -- a plain text file that tells agents where your content is and how it's organized. Note that agents won't find `llms.txt` files unless explicitly told they exist.
+Agents make up a growing share of web traffic, and if you want your docs to appear in AI interactions (not everyone does!), there are few low-effort things you can do. A good starting point is implementing an `llms.txt file <https://llmstxt.org/>`__ -- a plain text file that tells agents where your content is and how it's organized. Note that agents won't find `llms.txt` files unless explicitly told they exist.
 
 Not everyone was convinced that there's urgency to adapt docs for agent consumption, or that it's even worth the effort. Some argued that agent behavior is still too inconsistent and fast-changing to optimize for and that agents will eventually need to adapt to legacy docs, not the other way around. Others noted that many of the obstacles are infrastructure problems (how a CMS renders tabs or handles redirects) rather than writing problems.
 
@@ -91,7 +91,7 @@ In the context of documentation, most teams are not building full knowledge grap
 
 Multiple people noted that they use a similar approach in their own personal writing, considering how each page they write relates to others. They did not think of this as building full knowledge graphs, but they still saw benefits in understanding similarities among concepts. They also saw some benefit from feeding the relationships to AI agents for more sophisticated results when searching for information.
 
-This last benefit was something that people were working on for larger documentation sets as well. One participant described developing a knowledge graph so a support chatbot could use it to provide answers (a previous chatbot had used semantic chunking). They had created an ontology and were working on implementing it and getting it ready to maintain. For more thoughts on how knowledge graphs can benefit documentation, see `an article from ClickHelp <https://clickhelp.com/clickhelp-technical-writing-blog/how-knowledge-graphs-can-improve-documentation-creation/>`__.
+This last benefit was something that people were working on for larger documentation sets as well. One participant described developing a knowledge graph so a support chatbot could use it to provide answers (a previous chatbot had used semantic chunking). They had created an `ontology <https://www.ibm.com/think/topics/knowledge-graph#:~:text=Ontologies>`__ and were working on implementing it and getting it ready to maintain. For more thoughts on how knowledge graphs can benefit documentation, see `an article from ClickHelp <https://clickhelp.com/clickhelp-technical-writing-blog/how-knowledge-graphs-can-improve-documentation-creation/>`__.
 
 See more Write the Docs resources about `information architecture </topics/#information-architecture>`__.
 
@@ -101,13 +101,13 @@ AI assistants in docs
 
 A recent question in the `#ai channel <https://writethedocs.slack.com/archives/C1NEAD7D4>`__ asked whether there was any data or research on user preferences for AI assistants vs. traditional docs?
 
-Some observed that an MCP server can enable users to connect docs to their preferred tools, but most users don’t know it exists or lack the infrastructure for it. One person noted an overall positive experience with having a chatbot linked to not only docs, but also forums and a community Slack, to give users more search options.
+Some observed that a `Model Context Protocol (MCP) <https://modelcontextprotocol.io/docs/getting-started/intro>`__ server can enable users to connect docs to their preferred tools, but most readers don’t know it exists or lack the infrastructure for it. One person noted an overall positive experience with having a chatbot linked to not only docs, but also forums and a community Slack, to give users more search options.
 
-Others noticed the in-docs chatbot’s value in helping people learn more about a product before they decide to build it. PMs, the legal team, and leaders explore a product’s capability without wanting to build at all. However, everyone will have a context to drop docs into. Another person agreed that it’s a better investment long-term to bring docs to where people are. Providing an AI-powered chatbot on a docs site can source data through interactions with users on how to optimize docs.
+Others noticed value in people using a product’s in-docs chatbot to assess the product’s value before building with it. Product Managers and the legal team explore a product’s capability without wanting to build at all. However, everyone will have a context to drop docs into. Another person agreed that it’s a better investment long-term to bring docs to where people are. Providing an AI-powered chatbot on a docs site can source data through interactions with users on how to optimize docs.
 
 Some recognized the increasingly common expectation for users to chat with docs like people converse with ChatGPT. With that mental model in place as a framework, an ideal AI chat solution can identify esoteric knowledge, integrate customer support tooling, and handle escalation flows.
 
-People discussed user preferences for AI-first/AI assistant docs vs. traditional docs. Some highlighted a trend toward "answer engine optimization, meaning structuring content to maximize visibility in AI-powered search results. Tests are being run internally to identify which types of content people prefer. Meanwhile, others shared how knowledge bases have changed from having search bars to implementing conversational search.
+People discussed user preferences for AI-first/AI assistant docs vs. traditional docs. Some highlighted a trend toward "answer engine optimization", meaning structuring content to maximize visibility in AI-powered search results. Tests are being run internally to identify which types of content people prefer. Meanwhile, others shared how knowledge bases have changed from having search bars to implementing conversational search.
 
 The consensus was that AI chatbots are contributing to user satisfaction when navigating docs sites. These tools are helpful guides and streamline the search process for many people, but adoption of AI chatbots depends on identifying exact user needs and matching them with the appropriate product. There is a trend of companies supporting AI-first docs, but there are concerns about long-term reliability.
 
