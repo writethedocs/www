@@ -13,19 +13,19 @@ We're excited to announce the dates for our Berlin 2026 conference!
 
 **Write the Docs {{ city }} {{ year }} will be on {{ date.main }}**.
 
-We'll be back at bUm for another year, with great talks, lots of  networking, and awesome community building.
+We'll be back at [bUm](https://www.bum.berlin/) for another year, with great talks, lots of  networking, and awesome community building.
 
 ## Call for Proposals
 
 Write the Docs invites people from all across our community to come up on stage to share their insights and experience. **We plan to launch our CFP later this year**, and now is a great time to start thinking about topics to present!
 
-You can always look at our [previous years' talks](https://www.writethedocs.org/conf/{{ shortcode }}/{{ year - 1 }}/speakers/) for inspiration.
+You can always look at our [previous years' talks](https://www.writethedocs.org/conf/{{ shortcode }}/{{ year - 1 }}/speakers/) or [their recordings](https://www.youtube.com/watch?v=gCXEs2flOr8&list=PLZAeFn6dfHpkP1wAM5OIqAMH4guScopET) for inspiration.
 
 ## Tickets
 
 Tickets will go on sale in {{ date.tickets_live }}. Prices will be announced soon, but will be similar to last year.
 
-We will also be running our Opportunity Grants program again this year for those who need financial assistance to attend. We also have many opportunities for volunteers who want to help make the conference happen and get a free ticket that way. Note that you are not required to do volunteer tasks at the conference to be able to apply for an Opportunity Grant.
+We will be running our Opportunity Grants program again this year for those who need financial assistance to attend. We also have many opportunities for volunteers who want to help make the conference happen and get a free ticket that way. Note that you are not required to do volunteer tasks at the conference to be able to apply for an Opportunity Grant.
 
 ## Keep in touch
 

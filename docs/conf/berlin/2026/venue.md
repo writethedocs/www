@@ -10,7 +10,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 Paul-Lincke-Ufer 21, 10999 Berlin
 
-Our conference will be held at bUm Berlin, a community and cultural centre located on the banks of the Landwehr Canal in the heart of Kreuzberg.
+Our conference will be held at [bUm Berlin](https://www.bum.berlin/), a community and cultural centre located on the banks of the Landwehr Canal in the heart of Kreuzberg.
 
 ## Getting There
 
