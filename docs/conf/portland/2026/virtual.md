@@ -5,8 +5,8 @@ banner: _static/conf/images/headers/2026/virtual.jpg
 
 # Virtual Attendance
 
-We're excited to offer a virtual attendance option for Write the Docs Portland 2026.
-The virtual component will run on **May 4-5** alongside our in-person conference.
+We're excited to offer a virtual attendance option for Write the Docs {{name}} {{year}}.
+The virtual component will run on **{{date.conference.date}}** alongside our in-person conference.
 
 ## Platform
 
@@ -25,9 +25,9 @@ Virtual attendance includes:
 
 ## Schedule
 
-The virtual event follows the main conference schedule on **May 4-5**. All sessions are streamed in Pacific Time (PT).
+The virtual event follows the main conference schedule on **{{date.conference.date}}**. All sessions are streamed in {{tz}}.
 
-See the full [conference schedule](/conf/portland/2026/schedule/) for complete details about specific talks and events.
+See the full [conference schedule](/conf/{{shortcode}}/{{year}}/schedule/) for complete details about specific talks and events.
 
 ## Getting Started
 
@@ -37,4 +37,4 @@ A few days before the conference, you'll receive an email with:
 * A quick start guide for the platform
 * Information about testing your setup
 
-Virtual tickets are available on our [tickets page](/conf/portland/2026/tickets/).
+Virtual tickets are available on our [tickets page](/conf/{{shortcode}}/{{year}}/tickets/).

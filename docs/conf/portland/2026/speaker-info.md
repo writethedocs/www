@@ -83,7 +83,7 @@ Your speaker tech check will be directly before the morning or afternoon session
 
 For example, if you speak Tuesday afternoon, your tech will be during the lunch hour on Tuesday. We'll send a calendar invite with your exact tech time. You're also welcome to attend an earlier tech check (for example, on Monday), if you'd prefer to get it out of the way.
 
-View the full [attendee schedule](https://www.writethedocs.org/conf/portland/2026/schedule/).
+View the full [attendee schedule](/conf/{{shortcode}}/{{year}}/schedule/).
 
 ## Speaking Tips
 

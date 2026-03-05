@@ -10,8 +10,8 @@ Hi sponsors! We're excited to have you join us for Write the Docs Portland 2026.
 
 ## Location
 
-Revolution Hall  
-[1300 SE Stark St](https://maps.app.goo.gl/Z38CyRjmUukr3eSL6)  
+Revolution Hall
+[1300 SE Stark St](https://maps.app.goo.gl/Z38CyRjmUukr3eSL6)
 Portland, Oregon 97214
 
 ## Schedule
