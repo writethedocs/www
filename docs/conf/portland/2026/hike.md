@@ -8,7 +8,7 @@ banner: _static/conf/images/headers/2026/hike.jpg
 
 Every year we have a conference hike that kicks off the **unofficial** beginning of the conference. It has become a fantastic tradition and is a wonderful way to gather the day before the conference begins.
 
-This year, we're offering two options to better accomodate interests. There is a 5-mile nature hike and shorter urban walk that explores the International Rose Test Garden and ends at Powell's Books. 
+This year, we're offering two options to better accommodate interests. There is a 5-mile nature hike and shorter urban walk that explores the International Rose Test Garden and ends at Powell's Books. 
 
 ## Nature Hike
 We will be hiking in the amazing [Forest Park](https://forestparkconservancy.org/), the largest urban forested park in the country. It is conveniently located in Northwest Portland, and has a beautiful walk along a creek. 
@@ -27,10 +27,10 @@ It's rained on us in the past, but we have faith it will be beautiful this year!
 ## Urban Walk 
 The urban walk will begin at the [International Rose Test Garden](https://www.portland.gov/parks/washington-park-international-rose-test-garden) and end at [Powell's Books](https://www.powells.com/?srsltid=AfmBOoqGvD1ExMNAQw4tweSt03UvttKdGMwwWBprFH0Eqc7sZvRig7VK). Join us for the full walk or the rose garden only. 
 
-The walk from the Rose Garden to Powell's is 1.5 miles long and has a 400 feet elevation gain. Please note that we'll also be walking in the garden and through Powell's books. 
+The walk from the Rose Garden to Powell's is 1.5 miles long and has 400 feet of elevation gain. Please note that we'll also be walking in the garden and through Powell's books. 
 
 ### Urban Walk Schedule
-- **Date:** May 2, 2:30 PM
+- **Date:** {{ hike.date }}, 2:30 PM
 - **Arrival:** Meet 15 minutes before the start time.
 - **Schedule:**
   - 2:30-3:15 PM: Explore the Rose Garden 
@@ -38,7 +38,7 @@ The walk from the Rose Garden to Powell's is 1.5 miles long and has a 400 feet e
   - 4:00-5:00 PM: Explore Powell's 
   - 5:00 PM: Meet back up for those who want to take public transportation, rideshare, or walk back to the Rose Garden together. 
 - **Lunch (optional):** You're welcome to join us at [Nob Hill food carts](https://www.google.com/maps/place/Nob+Hill+Food+Carts/@45.5360531,-122.7007924,19.6z/data=!4m7!3m6!1s0x54950942eb34ca71:0xe277fed8c0cec152!8m2!3d45.5362156!4d-122.7000932!15sChZmb29kIGNhcnRzIG53IHBvcnRsYW5kkgEKZm9vZF9jb3VydOABAA!16s%2Fg%2F11vwhg4f9_?entry=tts) at 12:30pm for lunch. We'll leave at 1:30pm and walk 1.4 miles to the Rose Garden.
-- **Start:** [International Rose Test Garden](google.com/maps/place/International+Rose+Test+Garden/data=!4m2!3m1!1s0x0:0x91fbfe94968fdfc6?sa=X&ved=1t:2428&ictx=111), exact location TBD
+- **Start:** [International Rose Test Garden](https://google.com/maps/place/International+Rose+Test+Garden/data=!4m2!3m1!1s0x0:0x91fbfe94968fdfc6?sa=X&ved=1t:2428&ictx=111), exact location TBD
 - **End:** [Powell's Books](https://www.google.com/maps/search/Powell's+Books/@45.518945,-122.7438128,13z?entry=ttu&g_ep=EgoyMDI2MDIyMy4wIKXMDSoASAFQAw%3D%3D]), where you're welcome to browse on your own or walk around with another attendee.
 
 ## What to Bring
