@@ -182,4 +182,4 @@ Kate is a process and documentation geek working remotely from coastal Maine. Sh
 
 You can further read descriptions of all the roles in our [Event Roles doc](https://www.writethedocs.org/organizer-guide/confs/event-roles/).
 
-Interested in being a part of the future team or volunteering? Email us at portland@writethedocs.org.
+Interested in being a part of the future team or volunteering? Email us at {{email}}.
