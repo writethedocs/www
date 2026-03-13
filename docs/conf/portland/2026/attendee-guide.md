@@ -20,12 +20,12 @@ Join us for an introduction to Write the Docs. We’ll go on a short tour of the
 Welcome Wagon Tours are scheduled for:
 
 - **Sunday** - meet on the 1st floor by the box office
-  - 11:50am - Before lunch
-  - 1:30pm - After lunch
-  - 4:30pm - Before the Welcome Reception
+  - 11:50 AM - Before lunch
+  - 1:30 PM - After lunch
+  - 4:30 PM - Before the Welcome Reception
 
 - **Monday** - meet on the 2nd floor at the Registration table
-  - 8:15am - Before the conference starts
+  - 8:15 AM - Before the conference starts
 
 ## Conference Layout
 
@@ -37,7 +37,7 @@ We will provide a venue map onsite.
 
 - Snacks, coffee, tea, and water are included with your ticket. Vegan, vegetarian, gluten-free, and dairy-free options will be offered. 
 - Bring a water bottle as there are refill stations located around the venue.
-- We'll provide three food carts for Monday and Tuesday lunches from 11:30am-2:00pm. This is a great option for folks who want to stay onsite.
+- We'll provide three food carts for Monday and Tuesday lunches from 11:30 AM-2:00 PM. This is a great option for folks who want to stay onsite.
   - Food Carts TBD
 - There are many food and beverage options within 0.5 miles (0.8 km) around the conference venue. Explore {{city}}’s amazing food scene on the [Visiting {{city}} page](/conf/{{shortcode}}/{{year}}/visiting/).
   
@@ -137,10 +137,10 @@ This is our main social event of the conference, and this year is held at [Jupit
 It is a time to connect with other attendees outside of the scheduled programming.  Come for an hour or stay the entire time!
 
 **Time:** 
-7-9pm
+7-9 PM
 
 **Location:**
-Jupiter Hotel
+Jupiter NEXT
 900 E Burnside St
 2nd floor
 

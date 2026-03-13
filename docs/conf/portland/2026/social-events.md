@@ -27,7 +27,7 @@ and make sure you know your way around the conference venue.
 Join us for our Monday night social event! This is a great chance to meet more of your fellow documentarians 
 and chat about the conference in a relaxed atmosphere.
 
-**Where**: TBD  
+**Where**: {{about.social_venue}}  
 **When**: 7-9 PM
 
 *Both alcoholic and non-alcoholic drinks and snacks will be provided.*
