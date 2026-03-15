@@ -147,12 +147,12 @@ about:
   projector_ratio: "16:9"
 
 cfp:
-  url: ""
-  ends: "June 15, 2026"
-  notification: "June 29, 2026"
-  speaker_tickets_by: "August 17, 2026"
-  slides_by: "August 31, 2026"
-  preview: "TBD"
+  url: "https://pretalx.com/wtd-berlin-2026/cfp"  # Open mid March, approx 12 weeks to submit
+  ends: "June 15, 2026"                           # (Mon) 2 weeks, to review. It'll take a little longer to announce
+  notification: "June 29, 2026"                   # (Mon) 8 weeks to write and prepare
+  speaker_tickets_by: "August 17, 2026"           # (Mon) Approx 3 weeks before
+  slides_by: "August 17, 2026"                    # (Mon) 2-3 weeks before
+  preview: "TBD"                                  # Preview URL TODO
 
 unconf:
   url: ""
