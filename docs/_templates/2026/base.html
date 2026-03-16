@@ -91,7 +91,15 @@
                     <div class="footer-nav-column footer-brand">
                         {% block footer_logo %}
                         <a href="{{ pathto(conf_path[:-1]) }}">
+                            {% if flaghaslogo %}
                             <img class="footer-logo-img" src="{{ pathto('_static/conf/images/logos/' + shortcode + year_str + '-dark.png', 1) }}" alt="Write the Docs {{ name }} {{ year }}">
+                            {% else %}
+                            <div class="footer-logo-text">
+                                Write<br>the<br>Docs<br>
+                                <em>{{ name }}</em><br>
+                                <em>{{ year }}</em>
+                            </div>
+                            {% endif %}
                         </a>
                         {% endblock %}
                         <p class="footer-conf-date">{{ date.short }}</p>
