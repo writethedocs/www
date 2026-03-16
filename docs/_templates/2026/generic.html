@@ -14,7 +14,20 @@
             <div class="uk-navbar-left">
                 <div class="header-logo uk-visible@s">
                     <a href="{{ pathto('conf/' + shortcode + '/' + year_str) }}">
+                        {% if flaghaslogo %}
                         <img src="{{ pathto(  '_static/conf/images/logos/' + shortcode + year_str + '.png', 1  ) }}" width="130">
+                        {% else %}
+                        Write<br>
+                        the<br>
+                        Docs<br>
+                        {% if cobrand is defined and cobrand %}
+                        <em>+</em>
+                        {{ cobrand.brand_html }}
+                        <br>
+                        {% endif %}
+                        <em>{{ name }}</em>
+                        <br><em style="top: -16px;">{{ year }}</em>
+                        {% endif %}
                     </a>
                 </div>
             </div>
@@ -23,7 +36,19 @@
                 <div id="offcanvas-nav" uk-offcanvas="overlay: true">
                     <div class="uk-offcanvas-bar uk-flex uk-flex-column">
                             <div class="menu-logo">
+                                    {% if flaghaslogo %}
                                     <img src="{{ pathto(  '_static/conf/images/logos/' + shortcode + year_str + '-dark.png', 1  ) }}" width="130">
+                                    {% else %}
+                                    Write<br>
+                                    the<br>
+                                    Docs<br>
+                                    {% if cobrand is defined and cobrand %}
+                                    <em>+</em>
+                                    {{ cobrand.brand_html }}
+                                    {% endif %}
+                                    <em>{{ name }}</em>
+                                    <em style="top: -16px;">{{ year }}</em>
+                                    {% endif %}
                                 </div>
                               {% if not flaglanding %}
                              {% include year_str + "/menu-mobile.html" %}
@@ -40,7 +65,18 @@
     <div class="mobile-post-header uk-hidden@s">
         <div class="header-logo">
                 <a href="{{ pathto('conf/' + shortcode + '/' + year_str) }}">
+                    {% if flaghaslogo %}
                     <img src="{{ pathto(  '_static/conf/images/logos/' + shortcode + year_str + '.png', 1  ) }}" width="150">
+                    {% else %}
+                    Write<br>
+                    the<br>
+                    Docs<br>
+                    {% if cobrand is defined and cobrand %}
+                    <em>+</em>
+                    {{ cobrand.brand_html }}
+                    {% endif %}
+                    <em>{{ name }}</em>
+                    {% endif %}
                 </a>
         </div>
     </div><!-- end post header -->
