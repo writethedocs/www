@@ -43,13 +43,13 @@ talks_day1:
   - duration: '0:05'
     title: '<i>5 minute break</i>'
   - duration: '0:30'
-    slug: the-git-commands-i-avoided-for-9-years-and-why-i-wish-i-hadn-t-sarah-deaton
+    slug: documentation-thinking-beyond-the-docs-lessons-from-decision-facing-technical-w-mary-elise-dedicke
   - duration: '0:05'
     title: '<i>5 minute Q&A</i>'
   - duration: '0:10'
     title: '<i>10 minute break</i>'
   - duration: '0:30'
-    slug: documentation-thinking-beyond-the-docs-lessons-from-decision-facing-technical-w-mary-elise-dedicke
+    slug: how-we-deprecated-500-articles-cleaning-up-documentation-at-scale-aileen-mary
   - duration: '0:05'
     title: '<i>5 minute Q&A</i>'
   - duration: '0:15'
@@ -57,7 +57,7 @@ talks_day1:
   - duration: '0:10'
     title: '<i>Sponsor introductions</i>'
   - duration: '0:30'
-    slug: writing-the-docs-when-the-protocol-is-the-product-alex-garnett
+    slug: the-git-commands-i-avoided-for-9-years-and-why-i-wish-i-hadn-t-sarah-deaton
   - duration: '0:05'
     title: '<i>5 minute Q&A</i>'
   - duration: '1:25'
@@ -67,7 +67,7 @@ talks_day1:
   - duration: '0:10'
     title: '<i>10 minute break</i>'
   - duration: '0:30'
-    slug: what-the-data-shows-when-docs-meet-llms-and-why-i-m-excited-for-the-future-ethan-palm
+    slug: the-most-human-documentation-christian-miles
   - duration: '0:05'
     title: '<i>5 minute Q&A</i>'
   - duration: '0:10'
@@ -79,7 +79,7 @@ talks_day1:
   - duration: '0:15'
     title: '<i>Snack break</i>'
   - duration: '0:30'
-    slug: what-i-learned-building-an-ai-documentation-auditor-and-what-it-found-in-500-p-rakesh-pasupuleti
+    slug: how-to-win-docs-and-influence-robots-improving-robot-accuracy-through-better-do-sarah-lin
   - duration: '0:05'
     title: '<i>5 minute Q&A</i>'
   - duration: '0:10'
@@ -104,13 +104,13 @@ talks_day2:
   - duration: '0:05'
     title: '<i>5 minute break</i>'
   - duration: '0:30'
-    slug: drops-of-jupyter-an-exploration-of-the-notebook-ecosystem-adam-michael-wood
+    slug: what-i-learned-building-an-ai-documentation-auditor-and-what-it-found-in-500-p-rakesh-pasupuleti
   - duration: '0:05'
     title: '<i>5 minute Q&A</i>'
   - duration: '0:10'
     title: '<i>10 minute break</i>'
   - duration: '0:30'
-    slug: you-don-t-need-more-new-contributors-you-need-onboarding-that-actually-works-busayo-ojo
+    slug: the-invisible-work-what-it-takes-to-be-the-first-and-only-tech-writer-on-the-alina-desiatnikova
   - duration: '0:05'
     title: '<i>5 minute Q&A</i>'
   - duration: '0:15'
@@ -118,7 +118,7 @@ talks_day2:
   - duration: '0:10'
     title: '<i>Meetup announcement (TBD)</i>'
   - duration: '0:30'
-    slug: the-invisible-work-what-it-takes-to-be-the-first-and-only-tech-writer-on-the-alina-desiatnikova
+    slug: you-don-t-need-more-new-contributors-you-need-onboarding-that-actually-works-busayo-ojo
   - duration: '0:05'
     title: '<i>5 minute Q&A</i>'
   - duration: '1:25'
@@ -128,19 +128,19 @@ talks_day2:
   - duration: '0:10'
     title: '<i>10 minute break</i>'
   - duration: '0:30'
-    slug: the-most-human-documentation-christian-miles
+    slug: what-the-data-shows-when-docs-meet-llms-and-why-i-m-excited-for-the-future-ethan-palm
   - duration: '0:05'
     title: '<i>5 minute Q&A</i>'
   - duration: '0:10'
     title: '<i>10 minute break</i>'
   - duration: '0:30'
-    slug: how-we-deprecated-500-articles-cleaning-up-documentation-at-scale-aileen-mary
+    slug: drops-of-jupyter-an-exploration-of-the-notebook-ecosystem-adam-michael-wood
   - duration: '0:05'
     title: '<i>5 minute Q&A</i>'
   - duration: '0:15'
     title: '<i>Snack break</i>'
   - duration: '0:30'
-    slug: how-to-win-docs-and-influence-robots-improving-robot-accuracy-through-better-do-sarah-lin
+    slug: writing-the-docs-when-the-protocol-is-the-product-alex-garnett
   - duration: '0:05'
     title: '<i>5 minute Q&A</i>'
   - duration: '0:15'
