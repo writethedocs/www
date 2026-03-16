@@ -56,6 +56,7 @@
     {% block container %}
     {% endblock %}
 
+    {% set conf_path = 'conf/' + shortcode + '/' + year_str + '/' %}
     {% block footer %}
         <div class="footer-head">
             <div class="uk-container">
@@ -86,57 +87,95 @@
         <footer {% if cobrand is defined%}style="height: 500px;"{% endif %}>
             <div class="footer-padding"></div>
             <div class="uk-container">
-                <div class="footer-content">
-                    <div class="footer-social-section">
-                        <div class="footer-logo">
+                <div class="footer-nav-columns">
+                    <div class="footer-nav-column footer-brand">
                         {% block footer_logo %}
-                                Write<br>
-                                the<br>
-                                Docs<br>
-                                <em>{{ name }}</em>
-                                <br><em style="top: -24px;">{{ year }}</em>
+                        <a href="{{ pathto(conf_path[:-1]) }}">
+                            <img class="footer-logo-img" src="{{ pathto('_static/conf/images/logos/' + shortcode + year_str + '-dark.png', 1) }}" alt="Write the Docs {{ name }} {{ year }}">
+                        </a>
                         {% endblock %}
-                        </div>
-
-                        <div class="footer-icon-list">
-                            <a href="https://github.com/writethedocs">
-                                <img src="{{ pathto('_static/conf/images/icons/github-footer-white.svg', 1) }}" alt="GitHub">
-                            </a>
-                            <a href="https://www.linkedin.com/company/write-the-docs">
-                                <img style="height: 25px; border-radius: 5px;" src="{{ pathto('_static/conf/images/icons/linkedin.png', 1) }}" alt="LinkedIn">
-                            </a>
-                            <a href="https://www.flickr.com/photos/writethedocs/">
-                                <img src="{{ pathto('_static/conf/images/icons/flickr-footer-white.svg', 1) }}" alt="Flickr">
-                            </a>
-                            <a href="https://www.writethedocs.org/slack/">
-                                <img src="{{ pathto('_static/conf/images/icons/slack-footer-white.svg', 1) }}" alt="Slack">
-                            </a>
-                        </div><!-- end footer icons list of  links -->
-                    </div> <!-- end of footer social section -->
-
-                    <ul>
-                        <li>© {{ year }} Write the Docs</li>
-                        <li>|</li>
-                        <li><a href="{{ pathto('/code-of-conduct') }}">Code of Conduct</a></li>
-                        <li>|</li>
-                        <li><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"></a></li>
-                    </ul>
-
-                </div><!-- end of footer content  -->
-                {# <div class="footer-pics">
-                    <div>
-                        <img src="{{ pathto('_static/conf/images/pics/ft-image-01.jpg', 1) }}" alt="" >
+                        <p class="footer-conf-date">{{ date.short }}</p>
                     </div>
-                    <div>
-                        <img src="{{ pathto('_static/conf/images/pics/ft-image-02.jpg', 1) }}" alt="" >
+                    {% if not flaglanding %}
+                    <div class="footer-nav-column">
+                        <h4><a href="{{ pathto(conf_path + 'schedule') }}">Program</a></h4>
+                        <ul>
+                            {% if flagspeakersannounced %}
+                            <li><a href="{{ pathto(conf_path + 'speakers') }}">Speakers</a></li>
+                            {% endif %}
+                            {% if flaghasschedule %}
+                            <li><a href="{{ pathto(conf_path + 'schedule') }}">Schedule</a></li>
+                            {% endif %}
+                            {% if flaghaswritingday %}
+                            <li><a href="{{ pathto(conf_path + 'writing-day') }}">Writing Day</a></li>
+                            {% endif %}
+                            {% if flaghasunconf %}
+                            <li><a href="{{ pathto(conf_path + 'unconference') }}">Unconference</a></li>
+                            {% endif %}
+                            {% if flaghaslightningtalks %}
+                            <li><a href="{{ pathto(conf_path + 'lightning-talks') }}">Lightning Talks</a></li>
+                            {% endif %}
+                            {% if flaghashike %}
+                            <li><a href="{{ pathto(conf_path + 'hike') }}">Hike</a></li>
+                            {% endif %}
+                            <li><a href="{{ pathto(conf_path + 'social-events') }}">Social Events</a></li>
+                        </ul>
                     </div>
-                    <div>
-                        <img src="{{ pathto('_static/conf/images/pics/ft-image-04.jpg', 1) }}" alt="" >
+                    <div class="footer-nav-column">
+                        <h4><a href="{{ pathto(conf_path + 'tickets') }}">Tickets</a></h4>
+                        <ul>
+                            <li><a href="{{ pathto(conf_path + 'tickets') }}">Buy a Ticket</a></li>
+                            <li><a href="{{ pathto(conf_path + 'opportunity-grants') }}">Opportunity Grants</a></li>
+                            <li><a href="{{ pathto(conf_path + 'convince-your-manager') }}">Convince Your Manager</a></li>
+                        </ul>
+                        <h4><a href="{{ pathto(conf_path + 'sponsors') }}">Sponsors</a></h4>
+                        <ul>
+                            <li><a href="{{ pathto(conf_path + 'sponsors/prospectus') }}">Prospectus</a></li>
+                            <li><a href="{{ pathto(conf_path + 'sponsors') }}">Our Sponsors</a></li>
+                        </ul>
                     </div>
-                    <div>
-                        <img src="{{ pathto('_static/conf/images/pics/ft-image-03.jpg', 1) }}" alt="" >
+                    <div class="footer-nav-column">
+                        <h4><a href="{{ pathto(conf_path + 'about') }}">About</a></h4>
+                        <ul>
+                            {% if not flagisvirtual %}
+                            <li><a href="{{ pathto(conf_path + 'venue') }}">Venue</a></li>
+                            {% if flaghasvisiting %}
+                            <li><a href="{{ pathto(conf_path + 'visiting') }}">Visiting {{ city }}</a></li>
+                            {% endif %}
+                            {% endif %}
+                            {% if flaghasattendeeguide %}
+                            <li><a href="{{ pathto(conf_path + 'attendee-guide') }}">Attendee Guide</a></li>
+                            {% endif %}
+                            <li><a href="{{ pathto(conf_path + 'code-of-conduct') }}">Code of Conduct</a></li>
+                            <li><a href="{{ pathto(conf_path + 'contact') }}">Contact Us</a></li>
+                            <li><a href="{{ pathto(conf_path + 'news') }}">News</a></li>
+                        </ul>
                     </div>
-                </div> #}
+                    {% endif %}
+                </div>
+                <div class="footer-bottom">
+                    <div class="footer-bottom-links">
+                        <span>© {{ year }} Write the Docs</span>
+                        <span>|</span>
+                        <a href="{{ pathto('/code-of-conduct') }}">Code of Conduct</a>
+                        <span>|</span>
+                        <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"></a>
+                    </div>
+                    <div class="footer-icon-list">
+                        <a href="https://github.com/writethedocs">
+                            <img src="{{ pathto('_static/conf/images/icons/github-footer-white.svg', 1) }}" alt="GitHub">
+                        </a>
+                        <a href="https://www.linkedin.com/company/write-the-docs">
+                            <img style="height: 25px; border-radius: 5px;" src="{{ pathto('_static/conf/images/icons/linkedin.png', 1) }}" alt="LinkedIn">
+                        </a>
+                        <a href="https://www.flickr.com/photos/writethedocs/">
+                            <img src="{{ pathto('_static/conf/images/icons/flickr-footer-white.svg', 1) }}" alt="Flickr">
+                        </a>
+                        <a href="https://www.writethedocs.org/slack/">
+                            <img src="{{ pathto('_static/conf/images/icons/slack-footer-white.svg', 1) }}" alt="Slack">
+                        </a>
+                    </div>
+                </div>
             </div>
         </footer><!-- end footer -->
     {% endblock footer %}
