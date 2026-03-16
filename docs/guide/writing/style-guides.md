@@ -75,6 +75,18 @@ It's important to consider accessibility and biases in your style guide to ensur
 - [Accessibility guidelines](https://www.writethedocs.org/guide/writing/accessibility)
 - [Reducing bias in your writing](https://www.writethedocs.org/guide/writing/reducing-bias)
 
+### Avoiding animal-violence idioms
+
+Figurative idioms that reference violence toward animals are worth flagging in your style guide. They often confuse non-native English speakers and can be easily replaced with clearer alternatives at no cost to meaning.
+
+| Instead of | Use |
+|---|---|
+| "kill two birds with one stone" | "accomplish two things at once" |
+| "beat a dead horse" | "belabor the point" |
+| "more than one way to skin a cat" | "more than one way to do this" |
+
+Note: established technical terms that happen to reference animals — such as `kill` (Unix process signal), "canary deployment," or "monkey-patching" — are out of scope here. These have precise technical meanings and should not be replaced.
+
 ## Developer documentation and APIs
 
 Style guide and guidelines for code samples:

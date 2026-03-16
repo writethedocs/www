@@ -201,13 +201,13 @@ Subject:
 
    We're about seven weeks out from the conference now, lots of stuff is happening behind the scenes, and I hope you're feeling good about writing and speaking.
 
-   We've got a [provisional schedule]({{cfp.preview}}) up, I've taken note of all of your requests, but I'd *love it* if you could check your time-slot and make sure it works for you. We'll be publishing it **March 23**, so please request any changes well before that.
+   We've got a [provisional schedule]({{cfp.preview}}) up, I've taken note of all of your requests, but I'd *love it* if you could check your time-slot and make sure it works for you. We'll be publishing it **next Monday**, so please request any changes well before that.
 
-   We're keeping the Q&A sessions in our live event. Questions submitted by the audience are moderated by the emcee, and asked in a conversation style directionly after your talk, we'll keep that pretty short.
+   Q&A sessions are audience driven, moderated by the emcee, and asked in a conversation style directionly after your talk, expect about 5 minutes.
 
    You might find it useful to check out the [speaker info](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-info/) and the [what to expect guide](https://www.writethedocs.org/blog/what-to-expect-as-a-speaker/).
 
-   As we've done for the past few years we'll be live captioning all talks, and it makes the [captioners](https://www.youtube.com/watch?v=xFnM6vmvWaI) lives *much* easier if you can send in a copy of your slides, or even a word list of unusual words that you might use. Nothing final, feel free to go off scrupt after uploading, it's just a best effort thing. We'll let you know where to send these a few weeks before the conference.
+   As we've done for the past few years we'll be live captioning all talks, and it makes the [captioners](https://www.youtube.com/watch?v=xFnM6vmvWaI) lives *much* easier if you can send in a copy of your slides, or even a word list of unusual words that you might use. We'll let you know where to send these a few weeks before the conference.
 
    Lastly, if you'd like to share your talk with your social networks, we've got a page to [help with that](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-media-kit/).
 
@@ -268,13 +268,13 @@ Subject:
 
    The conference is almost upon us! I hope you're all comfortably making the final touches to your presentations, and have your ideas lined up.
 
-   I'm over in Portland already, enjoying the spring weather, and I'm really looking forward to seeing what you'll all be sharing with us at the conference.
+   I'm over in Berlin already, enjoying the spring weather, and I'm really looking forward to seeing what you'll all be sharing with us at the conference.
 
    Here are a last few boxes to check when it comes to organization and logistics:
 
    ○ Please [upload your slides]({{cfp_variables['upload']}}) for the captioners by {{cfp.slides_by}}. If you run into any trouble uploading them, please forward them as attachments to sam@writethedocs.org
 
-   ○ We'll be doing [AV/laptop/slide checks](https://www.writethedocs.org/conf/portland/2026/speaker-info/#conference-schedule) at the stage, either first thing in the morning or right before the lunch break. Please make sure you come say hi and do that, even if you think you don't need to 😉. I'll get some calendar invites out for those slots between now and then. Please bring the laptop you'll be presenting from.
+   ○ We'll be doing [AV/laptop/slide checks](https://www.writethedocs.org/conf/berlin/2026/speaker-info/#conference-schedule) at the stage, either first thing in the morning or right before the lunch break. Please make sure you come say hi and do that, even if you think you don't need to 😉. I'll get some calendar invites out for those slots between now and then. Please bring the laptop you'll be presenting from.
 
    ○ If you've not already let us know what your pronouns and interests are, and how to pronounce your name, please do [log in to Pretalx](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/) and answer them, it makes life much easier for the folks doing the intros and Q&A.
 

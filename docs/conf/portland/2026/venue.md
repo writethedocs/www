@@ -41,6 +41,6 @@ Bus transit stops are located near the venue. All transit in Portland announce m
 
 ### Other Venue Spaces (open to the public)
 
-- Show Bar: 5-11pm
-- Roof Deck: 3-11pm, weather permitting
+- Show Bar: 5-11 PM
+- Roof Deck: 3-11 PM, weather permitting
 - Outdoor seating and city park

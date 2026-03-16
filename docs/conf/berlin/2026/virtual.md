@@ -5,8 +5,8 @@ banner: _static/conf/images/headers/2026/virtual.jpg
 
 # Virtual Attendance
 
-We're excited to offer a virtual attendance option for Write the Docs {{name}} {{year}}.
-The virtual component will run on **{{date.conference.date}}** alongside our in-person conference.
+We're excited to offer a virtual attendance option for {{name}} {{year}}.
+The virtual component will run on **{{date.day_two.date}}-{{date.day_three.date}}** alongside our in-person conference.
 
 ## Platform
 
@@ -25,7 +25,7 @@ Virtual attendance includes:
 
 ## Schedule
 
-The virtual event follows the main conference schedule on **{{date.conference.date}}**. All sessions are streamed in {{tz}}.
+The virtual event follows the main conference schedule on **{{date.day_two.date}}-{{date.day_three.date}}**. All sessions are streamed in {{tz}}.
 
 See the full [conference schedule](/conf/{{shortcode}}/{{year}}/schedule/) for complete details about specific talks and events.
 

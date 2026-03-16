@@ -1,0 +1,204 @@
+name: Berlin
+shortcode: berlin
+year: 2026
+city: Berlin
+local_area: Germany
+area: Europe # European Australian
+area_adj: European
+tz: CET
+email: berlin@writethedocs.org
+color: gold
+rgb: 253,185,19
+rgb_contrast: 126,77,0 # if the main color has sufficient contrast against white text, set this to the same value as rgb
+hex: fdb913
+hex_contrast: 7e4d00 # if the main color has sufficient contrast against white text, set this to the same value as hex
+time_format: 24h
+
+photos:
+  default:
+    - _static/conf/images/headers/2025/grants.jpg
+    - _static/conf/images/headers/2025/unconference.jpg
+    - _static/conf/images/headers/2025/volunteer.jpg
+    - _static/conf/images/headers/2025/writing-day.jpg
+  index:
+    - _static/conf/images/pics/writing-day.jpg
+    - _static/conf/images/pics/reg.jpg
+
+buttons:
+  top:
+    - text: Conference announcement
+      link: /news/welcome
+#    - text: Sponsor us
+#      link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #   link: /cfp
+    # - text: See the Schedule
+    #   link: /schedule
+    # - text: See the Speakers
+    #   link: /speakers
+    # - text: Buy a Ticket
+    #   link: /tickets
+    # - text: Attendee Guide
+    #   link: /attendee-guide
+    # - text: Watch the Live Stream
+    #   link: /livestream
+  bottom:
+    - text: Conference announcement
+      link: /news/welcome
+#    - text: Sponsor us
+#      link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #   link: /cfp
+    # - text: Buy a Ticket
+    #   link: /tickets
+    # - text: See the Schedule
+    #   link: /schedule
+    # - text: See the Talks
+    #   link: /speakers
+    # - text: Read the Guide
+    #   link: /attendee-guide
+    # - text: Watch the Live Stream
+    #   link: /livestream
+
+tickets:
+  concierge:
+    price: €575
+  corporate:
+    price: €475
+  independent:
+    price: €275
+  student:
+    price: €75
+  virtual_corporate:
+    price: €140
+  virtual_independent:
+    price: €75
+  virtual_student:
+    price: €30
+
+sponsorship:
+  second_draft:
+    price: €2,000
+  publisher:
+    price: €3,500
+  patron:
+    price: €5,500
+  keystone:
+    price: "" # None to not render
+
+grants:
+  url: ""
+  ends: "June 29, 2026"
+  notification: "July 20, 2026"
+
+shirts:
+  url: ""
+  ends: "TBD"
+
+date: # how do we handle these? human readable would be nice.
+  main: "**September 6-8, 2026**"
+  short: Sep 6-8, 2026
+  tickets_live: "April 2026"
+  month: September
+
+  # Conference is special for the index to show the combined conference days
+  conference:
+    event: Speaker Talks
+    date: Sep 7-8
+    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience.
+    icon: conference
+
+  # These are listed in the schedule
+  day_one:
+    event: Writing Day
+    date: September 6
+    summary: Kick off the conference with Writing Day and work with fellow documentarians on a project. Followed by the opening reception.
+    icon: writing
+    dotw: Sunday
+    writing_day_time: 10:00-18:00
+    reception_time: 17:00-19:00
+  day_two:
+    event: Conference Day 1
+    date: September 7
+    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
+    dotw: Monday
+    talk_time: 10:00-17:00
+    unconference_time: 10:45-17:00
+    social_time: 19:00-21:00
+    icon: conference
+  day_three:
+    event: Conference Day 2
+    date: September 8
+    summary: And the conference goes on! More talks and unconference today!
+    dotw: Tuesday
+    talk_time: 10:00-17:00
+    unconference_time: 13:00-17:00
+    icon: conversation
+  total_talk_days: 2
+
+about:
+  attendees: 200
+  social_venue: TBC
+  venue: bUm Berlin
+  venue_address: Paul-Lincke-Ufer 21, 10999 Berlin
+  photos: TBD
+  mainroom: Main stage
+  unconfroom: TBC
+  projector_ratio: "16:9"
+
+cfp:
+  url: ""
+  ends: "June 15, 2026"
+  notification: "June 29, 2026"
+  speaker_tickets_by: "August 17, 2026"
+  slides_by: "August 31, 2026"
+  preview: "TBD"
+
+unconf:
+  url: ""
+  date: "All day, Monday, September 7 and Tuesday, September 8"
+
+writing_day:
+  url: ""
+  date: Sunday, September 6, 10:00-18:00 CET
+
+volunteer:
+  form_url: ""
+  applications_close: "June 22"
+  schedule_signup_close: "August 3"
+
+sponsors:
+  keystone:
+  patron:
+  publisher:
+  second:
+  first:
+  in_kind:
+
+# Things that change over time, listed in order of change
+flaglanding: True
+flaghassponsors: False
+flagcfp: False
+flagticketsonsale: False
+flagsoldout: False
+flagscheduleincomplete: True
+flagspeakersannounced: False
+flagrunofshow: False
+flaghasschedule: False
+flaghasshirts: False
+flaglivestreaming: False
+flagvideos: False
+flagpostconf: False
+flaghasbadgeflair: False
+
+# Truthy things that don't change
+flaghasunconf: True
+flaghashike: False
+flaghasfood: True
+flaghaswritingday: True
+flaghaslightningtalks: True
+flaghasjobfair: False
+flaghasboat: False
+flaghasvisiting: False
+flaghasteam: False
+flaghasattendeeguide: False

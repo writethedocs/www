@@ -19,7 +19,7 @@ Our goal is to have a balance between first-time and experienced speakers.
 
 ## Schedule and Logistics
 
-**Date: {{date.day_three.dotw}}, {{date.day_three.date}} and {{date.day_four.dotw}}, {{date.day_four.date}} after lunch**
+**Date: {{date.day_two.dotw}}, {{date.day_two.date}} and {{date.day_three.dotw}}, {{date.day_three.date}} after lunch**
 
 Lightning Talks can be submitted through an online form only. 
 
@@ -122,6 +122,6 @@ Lightning Talks can create wonderful opportunities such as hallway conversations
 - Be available to speak afterwards in the hallway (optional).
 
 ## Acknowledgements
-Special thanks to the Portland Python Users Group for use of this content.
+Special thanks to the Berlin Python Users Group for use of this content.
 
 Lightning Talks: A Guide for Beginners by Michelle Rowley of PDX Python is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).

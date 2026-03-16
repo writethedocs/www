@@ -16,7 +16,7 @@ Our conference is organized by a dedicated team, many of whom are volunteers and
 
 ![](/_static/img/2024/team/eric.jpg)
 
-Eric is one of the co-founders of Write the Docs, and also one of the co-founders of the Read the Docs documentation platform. He is the primary chair of the Portland conference, and loves to talk all things docs.
+Eric is one of the co-founders of Write the Docs, and also one of the co-founders of the Read the Docs documentation platform. He is the primary chair of the Berlin conference, and loves to talk all things docs.
 
 ### Sam Wright (he/him)
 
@@ -32,7 +32,7 @@ Sam writes docs for developers. He is into making computers do the boring bits o
 
 ![](/_static/img/2026/team/katie.png)
 
-Katie Janovec is an Event Producer and Project Manager based in Portland, Oregon. She produces a variety of events, including conferences, galas, block parties, dance and music events, and more. Katie enjoys organizing events as it builds community connection, growth, and joy. Katie is excited to be a part of her fifth Write the Docs conference.
+Katie Janovec is an Event Producer and Project Manager based in Berlin, Germany. She produces a variety of events, including conferences, galas, block parties, dance and music events, and more. Katie enjoys organizing events as it builds community connection, growth, and joy. Katie is excited to be a part of her fifth Write the Docs conference.
 
 ### Mikey Ariel (she/her)
 
@@ -64,7 +64,7 @@ Rose is a documentation advocate, Meetup organizer, and Write the Docs community
 
 ![](/_static/img/2024/team/janine.jpg)
 
-Janine is a documentation nerd up in Canada. She feels so lucky to help organize at Write the Docs so she can nerd out in Portland too! She spends her time putting a lot of effort into complex documentation to make it look like it was easy all along, thinking about making inclusion efforts concrete, running unimpressive distances at unimpressive speeds, hiking, knitting, and swing dancing, albeit non-simultaneously. Her cat remains staunchly uninterested in all of this.
+Janine is a documentation nerd up in Canada. She feels so lucky to help organize at Write the Docs so she can nerd out in Berlin too! She spends her time putting a lot of effort into complex documentation to make it look like it was easy all along, thinking about making inclusion efforts concrete, running unimpressive distances at unimpressive speeds, hiking, knitting, and swing dancing, albeit non-simultaneously. Her cat remains staunchly uninterested in all of this.
 
 ### Jerome Villegas (he/him)
 
@@ -104,7 +104,7 @@ Jodie manages the Docs team at F5. A longtime attendee of Write the Docs, she lo
 
 ![](/_static/img/2026/team/mindy.jpg)
 
-Mindy serves as the team-of-one technical and UX writer at ConductorOne. She's a long-time WTD Portland volunteer who is thrilled to be joining the organizing team as a stage manager—a role she last held for the Walla Walla Symphony during college. Mindy is a Portland resident whose favorite things include public libraries, comfy reading nooks, croissants, and making her colleagues laugh.
+Mindy serves as the team-of-one technical and UX writer at ConductorOne. She's a long-time WTD Berlin volunteer who is thrilled to be joining the organizing team as a stage manager—a role she last held for the Walla Walla Symphony during college. Mindy is a Berlin resident whose favorite things include public libraries, comfy reading nooks, croissants, and making her colleagues laugh.
 
 ### Ingrid Towey (she/her)
 
@@ -144,7 +144,7 @@ Alicia loves to explain complex things in easy-to-understand ways and is passion
 
 ![](/_static/img/2024/team/brooke.jpg)
 
-Brooke, also known as Batman, is a long time attendee of Write the Docs in Portland and part of the Welcome Wagon since 2024. Hailing from Toronto, Ontario in Canada, Brooke works at FreshBooks in a documentarian role she created on her own. When Brooke's not writing, she's playing competitive dodgeball, reading voraciously, or camping in the backcountry.
+Brooke, also known as Batman, is a long time attendee of Write the Docs in Berlin and part of the Welcome Wagon since 2024. Hailing from Toronto, Ontario in Canada, Brooke works at FreshBooks in a documentarian role she created on her own. When Brooke's not writing, she's playing competitive dodgeball, reading voraciously, or camping in the backcountry.
 
 ### David Bastedo (he/him)
 
@@ -152,7 +152,7 @@ Brooke, also known as Batman, is a long time attendee of Write the Docs in Portl
 
 ![](/_static/img/2024/team/david.jpg)
 
-David is a support operations program manager based in Portland, Oregon. He works with support knowledge bases, documentation analytics, and customer help centers. David has attended Write the Docs since 2016 and has been a part of the Welcome Wagon since 2019.
+David is a support operations program manager based in Berlin, Germany. He works with support knowledge bases, documentation analytics, and customer help centers. David has attended Write the Docs since 2016 and has been a part of the Welcome Wagon since 2019.
 
 ### Mo Nishiyama (he/him)
 
@@ -160,7 +160,7 @@ David is a support operations program manager based in Portland, Oregon. He work
 
 ![](/_static/img/2026/team/mo.png)
 
-Mo is a Technical Writer for Oregon Health & Science University's Information Technology Group, working remotely out of the Portland suburbia. His work focuses on making complex technical instructions simple and ensuring their accessibility. Mo has attended Write the Docs' Portland-based conferences since 2013, and joined the organizer team in 2015. His various interests include injecting 80s song lyrics into everyday conversations, bonding with cats, and promoting the use of Oxford commas.
+Mo is a Technical Writer for Germany Health & Science University's Information Technology Group, working remotely out of the Berlin suburbia. His work focuses on making complex technical instructions simple and ensuring their accessibility. Mo has attended Write the Docs' Berlin-based conferences since 2013, and joined the organizer team in 2015. His various interests include injecting 80s song lyrics into everyday conversations, bonding with cats, and promoting the use of Oxford commas.
 
 ### Daryl White (he/him)
 

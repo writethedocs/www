@@ -21,6 +21,7 @@ Attend a conference
 We have upcoming conferences around the world:
 
    - :doc:`Portland 2026 </conf/portland/2026/index>`, May 3-5, **Portland, Oregon**
+   - :doc:`Berlin 2026 </conf/berlin/2026/index>`, September 6-8, **Berlin, Germany**
 
 Other conferences this year:
 
