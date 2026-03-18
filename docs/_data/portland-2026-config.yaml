@@ -139,8 +139,7 @@ date: # how do we handle these? human readable would be nice.
     summary: And the conference goes on! More talks and unconference today!
     dotw: Tuesday
     talk_time: 9 AM-4 PM
-    job_fair_time: 9 AM-12 PM
-    unconference_time: 1:35 PM-4 PM
+    unconference_time: 9:45 AM-4 PM
     icon: conversation
   total_talk_days: 2
 
@@ -153,7 +152,6 @@ about:
   mainroom: Main stage
   unconfroom: Library & Astoria room (1st floor)
   projector_ratio: "16:9"
-  job_fair_room: Sponsor area
 
 cfp:
   url: "https://pretalx.com/wtd-portland-2026/cfp" # Open mid November, approx 12 weeks to submit
