@@ -10,7 +10,7 @@ Every year we have a conference hike that kicks off the **unofficial** beginning
 
 This year, we're offering two options to better accommodate interests:
 
- - a 5-mile uphill nature hike exploring Forest Park and Hoyt Arboretum
+ - a 5-mile uphill hike exploring Forest Park and Hoyt Arboretum
  - a shorter urban walk that explores the International Rose Test Garden and ends at Powell's Books
 
 ## Hike
