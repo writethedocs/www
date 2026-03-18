@@ -37,7 +37,6 @@ Interested in listening to the Speaker Talks in real time but unable to attend i
 
 [Writing Day](https://www.writethedocs.org/conf/portland/{{year}}/writing-day/) happens on Sunday, the opening day of the conference. It’s a valuable opportunity to bring interested individuals into the same room, sharing their passions and aspirations while collaborating to develop creative solutions to solve a problem or issue.
 
-.. image:: 
 ![](/_static/conf/images/writing-day.jpg)
 
 **This year, there are more opportunities to participate in Writing Day:**
