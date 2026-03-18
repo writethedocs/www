@@ -8,7 +8,10 @@ banner: _static/conf/images/headers/2026/hike.jpg
 
 Every year we have a conference hike that kicks off the **unofficial** beginning of the conference. It has become a fantastic tradition and is a wonderful way to gather the day before the conference begins.
 
-This year, we're offering two options to better accommodate interests. There is a 5-mile nature hike and shorter urban walk that explores the International Rose Test Garden and ends at Powell's Books. 
+This year, we're offering two options to better accommodate interests:
+
+ - a 5-mile uphill nature hike exploring Forest Park and Hoyt Arboretum
+ - a shorter urban walk that explores the International Rose Test Garden and ends at Powell's Books
 
 ## Nature Hike
 We will be hiking in the amazing [Forest Park](https://forestparkconservancy.org/), the largest urban forested park in the country. It is conveniently located in Northwest Portland, and has a beautiful walk along a creek. 
