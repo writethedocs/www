@@ -27,15 +27,17 @@ writing_day:
   - duration: '0:10'
     title: '<a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a>'
   - duration: '1:30'
-    title: Lunch break
-  - duration: '0:30'
-    title: Welcome Wagon conference introduction and venue tour
+    title: Lunch Break
+  - duration: '0:15'
+    title: '<a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a>'
+  - duration: '0:15'
+    title: 'Afternoon session - <a href="../writing-day">all-day groups reconvene and new group introductions</a>'
   - duration: '0:00'
     title: '<a href="../writing-day/#github-workshops">New to Git and GitHub workshop</a>'
   - duration: '1:00'
-    title: Sponsor Roundtable Discussion 1
+    title: Roundtable Discussion 1
   - duration: '1:30'
-    title: Sponsor Roundtable Discussion 2
+    title: Roundtable Discussion 2
   - duration: '0:30'
     title: '<a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a>'
   - duration: '0:00'
@@ -50,7 +52,7 @@ talks_day1:
     duration: '0:45'
     title: Doors and Sponsor Booths open
   - duration: '0:15'
-    title: Welcome Wagon conference introduction and venue tour
+    title: '<a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a>'
   - duration: '0:25'
     title: Write the Docs team - Community welcome
   - duration: '0:05'
@@ -77,8 +79,8 @@ talks_day1:
     title: '✋ 5 minute Q&A'
   - duration: '1:25'
     title: '🍽️ Lunch Break (80 mins)'
-  - duration: '0:35'
-    title: Lightning talks
+  - duration: '0:30'
+    title: '<a href="../lightning-talks">Lightning Talks</a> (30 mins)'
   - duration: '0:10'
     title: 10 minute break
   - duration: '0:30'
@@ -142,8 +144,8 @@ talks_day2:
     title: '✋ 5 minute Q&A'
   - duration: '1:25'
     title: '🍽️ Lunch Break (80 mins)'
-  - duration: '0:35'
-    title: Lightning talks
+  - duration: '0:30'
+    title: '<a href="../lightning-talks">Lightning Talks</a> (30 mins)'
   - duration: '0:10'
     title: 10 minute break
   - duration: '0:30'
@@ -165,4 +167,4 @@ talks_day2:
   - duration: '0:15'
     title: Write the Docs team - Conference closing
   - duration: '0:00'
-    title: <b>Conference ends</b>
+    title: '<b>Conference ends 😔</b>'
