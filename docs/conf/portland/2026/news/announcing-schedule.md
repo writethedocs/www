@@ -31,7 +31,7 @@ We'll continue to have a moderated Q&A session after each speaker. You'll have a
 
 ## Virtual Conference Tickets
 
-Interested in listening to the Speaker Talks in real time but unable to attend in person? We are excited to have a Virtual Ticket option again. View more about [attending virtually here](/conf/portland/{{year}}/virtual/). All in-person tickets also receive access to watch virtually as well.
+Interested in listening to the Speaker Talks in real time but unable to attend in person? We are excited to have a [Virtual Ticket option](/conf/portland/{{year}}/virtual/). All in-person tickets also receive access to watch virtually as well.
 
 ## Start Preparing For Writing Day
 
