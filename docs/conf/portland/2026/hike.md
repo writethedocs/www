@@ -13,7 +13,7 @@ This year, we're offering two options to better accommodate interests:
  - a 5-mile uphill nature hike exploring Forest Park and Hoyt Arboretum
  - a shorter urban walk that explores the International Rose Test Garden and ends at Powell's Books
 
-## Nature Hike
+## Hike
 We will be hiking in the amazing [Forest Park](https://forestparkconservancy.org/), the largest urban forested park in the country. It is conveniently located in Northwest Portland, and has a beautiful walk along a creek. 
 
 **The hike is around 5 miles long with 1,200 feet of elevation gain and is classified as a moderate hike. We’ll be going nice and slow so people can appreciate the views and forest.**
