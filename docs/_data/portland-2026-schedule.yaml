@@ -13,11 +13,11 @@ writing_day:
   - time: '8:00'
     duration: '1:00'
     title: Doors open
-  - duration: '0:15'
+  - duration: '0:30'
     title: Morning introduction - Introduction to Sprints & Project Introductions
   - duration: '0:00'
     title: '<a href="../writing-day/#github-workshops">New to Git and GitHub workshop</a>'
-  - duration: '2:35'
+  - duration: '2:20'
     title: 'Team up and <a href="../writing-day">start writing</a>'
   - duration: '0:10'
     title: '<a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a>'
