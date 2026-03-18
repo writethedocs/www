@@ -1,18 +1,17 @@
 outing:
   - time: '12:30'
-    duration: '1:15'
     title: Meet at Nob Hill Food Carts (optional)
-  - duration: '0:15'
+  - time: '13:45'
     title: Hike - Arrive at Lower Macleay Park or Macleay Park Entrance
-  - duration: '0:15'
+  - time: '14:00'
     title: '<a href="../hike">Hike starts</a>'
-  - duration: '0:15'
+  - time: '14:15'
     title: Urban Walk - Arrive at International Rose Test Garden
-  - duration: '0:45'
+  - time: '14:30'
     title: Urban walk starts - Rose Garden Tour
-  - duration: '1:45'
+  - time: '15:15'
     title: "Walk to Powell's"
-  - duration: '0:00'
+  - time: '17:00'
     title: Urban Walk / Hike ends
 
 writing_day:
@@ -31,6 +30,8 @@ writing_day:
     title: Lunch break
   - duration: '0:30'
     title: Welcome Wagon conference introduction and venue tour
+  - duration: '0:00'
+    title: '<a href="../writing-day/#github-workshops">New to Git and GitHub workshop</a>'
   - duration: '1:00'
     title: Sponsor Roundtable Discussion 1
   - duration: '1:30'
