@@ -11,7 +11,15 @@ The {{city}} conference is just over six weeks away, and we're busy getting read
 
 You've already seen our list of awesome speakers; now we're announcing our :doc:`full conference schedule </conf/portland/{{year}}/schedule/>` so you know when they will be presenting!
 
-{{ tickets.button }}
+<div style="margin: 2em 0;">
+<table border="0" cellpadding="0" cellspacing="0" style="background-color:#fdb913; border:1px solid #4a4a4a; border-radius:5px; margin:auto;">
+<tr>
+   <td align="center" valign="middle" style="color:#000000; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
+      <a href="https://ti.to/writethedocs/write-the-docs-portland-2026" target="_blank" style="color:#000000; text-decoration:none; text-transform:uppercase; border-bottom: none;">Buy your ticket</a>
+   </td>
+</tr>
+</table>
+</div>
 
 Speaker Schedule
 ----------------
