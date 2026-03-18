@@ -26,7 +26,7 @@ It's rained on us in the past, but we have faith it will be beautiful this year!
 - **End:** Oregon Zoo around 5pm, where we will take the MAX back to town.
 
 ## Urban Walk 
-The urban walk will begin at the [International Rose Test Garden](https://www.portland.gov/parks/washington-park-international-rose-test-garden) and end at [Powell's Books](https://www.powells.com/?srsltid=AfmBOoqGvD1ExMNAQw4tweSt03UvttKdGMwwWBprFH0Eqc7sZvRig7VK). Join us for the full walk or the rose garden only. 
+The urban walk will begin with a tour of the [International Rose Test Garden](https://www.portland.gov/parks/washington-park-international-rose-test-garden) facilitated by the Portland Parks staff. From there, those who wish to continue exploring Portland will walk to [Powell's Books](https://www.powells.com/?srsltid=AfmBOoqGvD1ExMNAQw4tweSt03UvttKdGMwwWBprFH0Eqc7sZvRig7VK). Join us for the full walk or the rose garden tour only. 
 
 The walk from the Rose Garden to Powell's is 1.5 miles long and has 400 feet of elevation gain. Please note that we'll also be walking in the garden and through Powell's books. 
 
@@ -35,7 +35,7 @@ The walk from the Rose Garden to Powell's is 1.5 miles long and has 400 feet of 
 - **Date:** {{ hike.date }}, 2:30 PM
 - **Arrival:** Meet 15 minutes before the start time.
 - **Schedule:**
-  - 2:30-3:15 PM: Explore the Rose Garden 
+  - 2:30-3:15 PM: Rose Garden tour
   - 3:15-4:00 PM: Walk to Powell's
   - 4:00-5:00 PM: Explore Powell's 
   - 5:00 PM: Meet back up for those who want to take public transportation, rideshare, or walk back to the Rose Garden together. 
@@ -54,6 +54,6 @@ The temperature will likely be in the upper 50s and 60s, with a chance of rain. 
 
 ## Tickets
 
-Participating in the hike or nature walk is free, but please [register for your ticket]({{ hike.register_url }}) so we can contact you in advance for day-of weather and logistics information.
+Participating in the hike or urban walk is free, but please [register for your ticket]({{ hike.register_url }}) so that we can confirm number of folks on the rose garden tour and contact you in advance for day-of weather and logistics information. 
 
 We hope you will join us for one of these pre-conference activities!
