@@ -6,9 +6,9 @@ outing:
   - time: '14:00'
     title: '<a href="../hike">Hike starts</a>'
   - time: '14:15'
-    title: '<a href="../hike">Urban Walk</a> - Arrive at International Rose Test Garden'
+    title: Urban Walk - Arrive at International Rose Test Garden
   - time: '14:30'
-    title: '<a href="../hike">Urban Walk</a> starts - Rose Garden Tour'
+    title: '<a href="../hike#urban-walk">Urban Walk starts</a> - Rose Garden Tour'
   - time: '15:15'
     title: "Walk to Powell's"
   - time: '17:00'
@@ -20,30 +20,30 @@ writing_day:
     title: Doors open
   - duration: '0:30'
     title: Morning introduction - Introduction to Sprints & Project Introductions
+  - duration: '2:30'
+    title: 'Projects team up and start <a href="../writing-day">writing</a>'
   - duration: '0:00'
     title: '<a href="../writing-day/#github-workshops">New to Git and GitHub workshop</a>'
-  - duration: '2:30'
-    title: 'Projects team up and <a href="../writing-day">start writing</a>'
   - duration: '0:00'
-    title: '<a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a>'
+    title: '<a href="../attendee-guide/#welcome-wagon-tours">Welcome Wagon</a> conference introduction and venue tour'
   - duration: '1:30'
     title: Lunch Break
   - duration: '0:00'
-    title: '<a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a>'
+    title: Welcome Wagon conference introduction and venue tour
   - duration: '0:30'
-    title: 'Afternoon session - <a href="../writing-day">all-day groups reconvene and new group introductions</a>'
+    title: Afternoon session - all-day groups reconvene and new group introductions
   - duration: '0:00'
-    title: '<a href="../writing-day/#github-workshops">New to Git and GitHub workshop</a>'
+    title: Projects team up and start writing
   - duration: '0:00'
-    title: 'Projects team up and <a href="../writing-day">start writing</a>'
+    title: New to Git and GitHub workshop
   - duration: '2:30'
     title: '<a href="../writing-day/#roundtable-discussions">Roundtable Discussions</a>'
   - duration: '0:30'
-    title: '<a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a>'
+    title: Welcome Wagon conference introduction and venue tour
   - duration: '0:00'
     title: '<b>End of Writing Day</b>'
   - duration: '2:00'
-    title: '<b><a href="../social-events">Reception</a> starts</b>'
+    title: '<b><a href="../social-events/#sunday-reception">Reception starts</a></b>'
   - duration: '0:00'
     title: '<b>Reception ends</b>'
 
@@ -52,13 +52,13 @@ talks_day1:
     duration: '0:45'
     title: Doors and Sponsor Booths open
   - duration: '0:15'
-    title: '<a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a>'
+    title: '<a href="../attendee-guide/#welcome-wagon-tours">Welcome Wagon</a> conference introduction and venue tour'
   - duration: '0:25'
     title: Write the Docs team - Community welcome
   - duration: '0:05'
     title: 5 minute break
   - duration: '0:00'
-    title: "<b><a href='../unconference'>Unconference</a> starts</b>"
+    title: "<b><a href='../unconference'>Unconference starts</a></b>"
   - duration: '0:30'
     slug: documentation-thinking-beyond-the-docs-lessons-from-decision-facing-technical-w-mary-elise-dedicke
   - duration: '0:05'
@@ -110,7 +110,7 @@ talks_day1:
   - duration: '0:00'
     title: Conference day 1 ends
   - time: '19:00'
-    title: '<a href="../social-events">Social event</a> starts'
+    title: '<a href="../social-events/#monday-night-social">Social event starts</a>'
   - time: '21:00'
     title: Social event ends
 
@@ -123,7 +123,7 @@ talks_day2:
   - duration: '0:05'
     title: 5 minute break
   - duration: '0:00'
-    title: "<b><a href='../unconference'>Unconference</a> starts</b>"
+    title: "<b><a href='../unconference'>Unconference starts</a></b>"
   - duration: '0:30'
     slug: what-i-learned-building-an-ai-documentation-auditor-and-what-it-found-in-500-p-rakesh-pasupuleti
   - duration: '0:05'
