@@ -1,6 +1,8 @@
 outing:
-  - time: '13:45'
-    duration: '0:15'
+  - time: '12:30'
+    duration: '1:00'
+    title: Food carts
+  - duration: '0:15'
     title: Arrive at <b>Lower Macleay Park or Macleay Park Entrance</b>
   - duration: '3:00'
     title: '<a href="../hike">Hike starts</a>'
@@ -13,9 +15,9 @@ writing_day:
     title: Doors open
   - duration: '0:15'
     title: Morning introduction - Introduction to Sprints & Project Introductions
-  - duration: '0:15'
+  - duration: '0:00'
     title: '<a href="../writing-day/#github-workshops">New to Git and GitHub workshop</a>'
-  - duration: '2:20'
+  - duration: '2:35'
     title: 'Team up and <a href="../writing-day">start writing</a>'
   - duration: '0:10'
     title: '<a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a>'
@@ -37,8 +39,12 @@ writing_day:
     title: '<b>Reception ends</b>'
 
 talks_day1:
-  - time: '9:00'
-    duration: '0:25'
+  - time: '8:00'
+    duration: '0:45'
+    title: Doors and Sponsor Booths open
+  - duration: '0:15'
+    title: '<i>Welcome Wagon conference introduction and venue tour</i>'
+  - duration: '0:25'
     title: '<i>Write the Docs team - Community welcome</i>'
   - duration: '0:05'
     title: '<i>5 minute break</i>'
@@ -98,8 +104,12 @@ talks_day1:
     title: '<b>Social event ends</b>'
 
 talks_day2:
-  - time: '9:20'
-    duration: '0:05'
+  - time: '8:00'
+    duration: '1:00'
+    title: Doors and Sponsor Booths open
+  - duration: '0:15'
+    title: '<i>Welcome Wagon conference introduction and venue tour</i>'
+  - duration: '0:05'
     title: '<i>Write the Docs team - Welcome back</i>'
   - duration: '0:05'
     title: '<i>5 minute break</i>'
