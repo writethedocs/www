@@ -57,6 +57,6 @@ The temperature will likely be in the upper 50s and 60s, with a chance of rain. 
 
 ## Tickets
 
-Participating in the hike or urban walk is free, but please [register for your ticket]({{ hike.register_url }}) so that we can confirm number of folks on the rose garden tour and contact you in advance for day-of weather and logistics information. 
+Participating in the hike or urban walk is free, but please register for your free [hike ticket]({{ hike.register_url }}) or [nature walk ticket](https://ti.to/writethedocs/write-the-docs-portland-2026/with/nature-walk) so that we can confirm number of folks and contact you in advance for day-of weather and logistics information. 
 
 We hope you will join us for one of these pre-conference activities!
