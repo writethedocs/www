@@ -53,7 +53,7 @@ writing_day:
 
 talks_day1:
   - time: '8:00'
-    duration: '0:45'
+    duration: '0:15'
     title: Doors and Sponsor Booths open
   - duration: '0:00'
     title: '<a href="../attendee-guide/#welcome-wagon-tours">Welcome Wagon</a> conference introduction and venue tour'
