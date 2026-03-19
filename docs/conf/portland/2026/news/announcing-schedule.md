@@ -55,7 +55,7 @@ Write the Docs is more than a conference. In addition to Speaker Talks, Writing 
 
 * **Saturday Hike or Walk:**
   * Join us for the hike in the amazing Forest Park, the largest urban forested park in the country. We'll be hiking along a beautiful creek and start at Lower Macleay Park at 2 PM. Please register a [free hike ticket](https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/with/hike-ticket) so we can contact you with any last minute weather and logistics information.
-  * Not in the mood for a full hike? This year, we've added a shorter urban walk that starts with a tour at the International Rose Test Garden at 2:30 PM and optionally continues to Powell's Books. Register for a free the [free nature walk ticket](https://ti.to/writethedocs/write-the-docs-portland-2026/with/nature-walk).
+  * Not in the mood for a full hike? This year, we've added a shorter urban walk that starts with a tour at the International Rose Test Garden at 2:30 PM and optionally continues to Powell's Books. Register for a [free nature walk ticket](https://ti.to/writethedocs/write-the-docs-portland-2026/with/nature-walk).
 * **Sunday Welcome Reception:** Join us for our evening conference reception. This is a great chance to meet other attendees, get your badge (if you don't have it yet), and familiarize yourself with the venue. Drinks and snacks provided by us.
 * **Monday Conference Party**. On Monday night we'll be hosting a social event off-site at [Jupiter NEXT](https://www.jupiterhotel.com/), 900 E Burnside St, 2nd floor. This is a great chance to get to know more folks in the community and have a drink or two on us. Non-alcoholic options and snacks also provided. Event is 7-9 PM.
 
