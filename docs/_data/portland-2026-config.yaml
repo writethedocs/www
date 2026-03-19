@@ -212,9 +212,6 @@ sponsors:
       brand: GitBook
       text: "GitBook combines powerful docs with AI-powered search and insights to give technical teams a single source of truth for their knowledge.
              Effortlessly create, surface and improve public and internal documentation that your users and teams will love. "
-    - name: waldium
-      link: https://www.waldium.com/?ref=writethedocs
-      brand: Waldium
     - name: fern
       link: https://buildwithfern.com/?ref=writethedocs
       brand: Fern
