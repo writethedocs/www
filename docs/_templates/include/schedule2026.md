@@ -12,6 +12,19 @@
           ERROR: {{ session }}
         {% endif %}
       </div>
+      {% if day_room == "talks" %}
+        {% if session.data %}
+          <div class="item-room"><span class="room-badge room-main">Main stage</span></div>
+        {% elif "Unconference" in (session.title or "") %}
+          <div class="item-room"><span class="room-badge room-unconf">Library &amp; Astoria</span></div>
+        {% elif "Welcome Wagon" in (session.title or "") %}
+          <div class="item-room"><span class="room-badge room-unconf">1st floor</span></div>
+        {% elif "Lightning" in (session.title or "") %}
+          <div class="item-room"><span class="room-badge room-main">Main stage</span></div>
+        {% elif "Sponsor" in (session.title or "") %}
+          <div class="item-room"><span class="room-badge room-main">Main stage</span></div>
+        {% endif %}
+      {% endif %}
     </div>
   </div>
 {% endfor %}
