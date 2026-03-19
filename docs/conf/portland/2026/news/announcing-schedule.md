@@ -3,7 +3,7 @@ template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
-```{post} Mar 17, 2026
+```{post} Mar 19, 2026
 :tags: {{shortcode}}-{{year}}, speakers, tickets, visiting, sponsors
 ```
 
