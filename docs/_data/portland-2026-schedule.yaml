@@ -20,13 +20,15 @@ writing_day:
     title: Doors open
   - duration: '0:30'
     title: Morning introduction - Introduction to Sprints & Project Introductions
-  - duration: '2:30'
+  - duration: '0:00'
     title: 'Projects team up and start <a href="../writing-day">writing</a>'
   - duration: '0:00'
     title: '<a href="../writing-day/#github-workshops">New to Git and GitHub workshop</a>'
-  - duration: '0:00'
+  - time: '11:50'
+    duration: '0:00'
     title: '<a href="../attendee-guide/#welcome-wagon-tours">Welcome Wagon</a> conference introduction and venue tour'
-  - duration: '1:30'
+  - time: '12:00'
+    duration: '1:30'
     title: Lunch Break
   - duration: '0:00'
     title: Welcome Wagon conference introduction and venue tour
@@ -38,9 +40,11 @@ writing_day:
     title: New to Git and GitHub workshop
   - duration: '2:30'
     title: '<a href="../writing-day/#roundtable-discussions">Roundtable Discussions</a>'
-  - duration: '0:30'
+  - time: '16:30'
+    duration: '0:00'
     title: Welcome Wagon conference introduction and venue tour
-  - duration: '0:00'
+  - time: '17:00'
+    duration: '0:00'
     title: '<b>End of Writing Day</b>'
   - duration: '2:00'
     title: '<b><a href="../social-events/#sunday-reception">Reception starts</a></b>'
@@ -51,9 +55,10 @@ talks_day1:
   - time: '8:00'
     duration: '0:45'
     title: Doors and Sponsor Booths open
-  - duration: '0:15'
+  - duration: '0:00'
     title: '<a href="../attendee-guide/#welcome-wagon-tours">Welcome Wagon</a> conference introduction and venue tour'
-  - duration: '0:25'
+  - time: '9:00'
+    duration: '0:25'
     title: Write the Docs team - Community welcome
   - duration: '0:05'
     title: 5 minute break

@@ -25,7 +25,7 @@ Welcome Wagon Tours are scheduled for:
   - 4:30 PM - Before the Welcome Reception
 
 - **Monday** - meet on the 2nd floor at the Registration table
-  - 8:15 AM - Before the conference starts
+  - 8:45 AM - Before the conference starts
 
 ## Conference Layout
 
