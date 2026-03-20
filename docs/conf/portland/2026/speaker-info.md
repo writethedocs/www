@@ -75,7 +75,7 @@ There are no speaker-specific requirements this day but we encourage you to join
 ### TUESDAY
 
 - 8:30-9:00am: Morning Speaker tech checks at main stage
-- 9:20-11:50pm: Speaker Talks
+- 9:20-11:50am: Speaker Talks
 - 11:50-12:20pm: Afternoon Speaker tech checks at main stage
 - 2:00-4:05pm: Afternoon Speaker Talks
 

@@ -81,7 +81,6 @@ exclude_patterns = [
 cfp_variables = {}
 cfp_variables['upload'] = os.environ.get('WTD_CFP_UPLOAD')
 cfp_variables['ticket'] = os.environ.get('WTD_CFP_SPEAKER_TICKET')
-cfp_variables['calendly'] = os.environ.get('WTD_CFP_CALENDLY')
 cfp_variables['feedback_form'] = os.environ.get('WTD_CFP_FEEDBACK_FORM')
 cfp_variables['speaker_gift_form'] = os.environ.get('WTD_CFP_SPEAKER_GIFT_FORM')
 

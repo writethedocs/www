@@ -24,10 +24,10 @@ buttons:
     #   link: /cfp
     - text: Buy a Ticket
       link: /tickets
-    - text: See the Speakers
-      link: /speakers
-    # - text: See the Schedule!
-    #   link: /schedule
+    #- text: See the Speakers
+    #  link: /speakers
+    - text: See the Schedule!
+      link: /schedule
     # - text: Attendee Guide
     #   link: /attendee-guide
     # - text: Watch the Live Stream
@@ -159,7 +159,7 @@ cfp:
   notification: "February 2, 2026"                 # (Mon) 8 weeks to write and prepare
   speaker_tickets_by: April 2, 2026               # (Mon) Approx 3 weeks before
   slides_by: "April 20, 2026"                      # (Mon) 2 weeks before
-  preview: "TBD"                                  # Preview URL TODO
+  preview: "https://writethedocs-www--2552.org.readthedocs.build/conf/portland/2026/schedule/"                                  # Preview URL TODO
 
 unconf:
   url: ""
@@ -260,10 +260,10 @@ flaghassponsors: True
 flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
-flagscheduleincomplete: True
+flagscheduleincomplete: False
 flagspeakersannounced: True
-flagrunofshow: False
-flaghasschedule: False
+flagrunofshow: True
+flaghasschedule: True
 flaghasshirts: False
 flaglivestreaming: False
 flagvideos: False
