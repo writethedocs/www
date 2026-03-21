@@ -10,9 +10,8 @@ Hi sponsors! We're excited to have you join us for Write the Docs Portland 2026.
 
 ## Location
 
-Revolution Hall
+Revolution Hall: 
 [1300 SE Stark St](https://maps.app.goo.gl/Z38CyRjmUukr3eSL6)
-Portland, Oregon 97214
 
 ## Schedule
 
@@ -29,13 +28,13 @@ Portland, Oregon 97214
 * 9:00am-5:00pm: Speaker Talks and Unconference
 * 10:50am: Booth sponsor introductions on main stage
 * 5:00-7:00pm: Evening break
-* 7:00-9:00pm: Evening party at Jupiter NEXT (800 E Burnside St, 2nd floor)
+* 7:00-9:00pm: Evening party at Jupiter NEXT (900 E Burnside St, 2nd floor)
 
 **TUESDAY, MAY 5**:
 
 * 8:15am: Keystone/Patron sponsor arrival
 * 8:30am: Doors to venue/sponsor booths open
-* 9:20am-4:10pm: Speaker Talks and Unconference
+* 9:00am-4:00pm: Speaker Talks and Unconference
 * 4:30pm: Conference ends/load out
 * 5:30pm: Out of venue 
 

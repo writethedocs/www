@@ -139,8 +139,7 @@ date: # how do we handle these? human readable would be nice.
     summary: And the conference goes on! More talks and unconference today!
     dotw: Tuesday
     talk_time: 9 AM-4 PM
-    job_fair_time: 9 AM-12 PM
-    unconference_time: 1:35 PM-4 PM
+    unconference_time: 9:45 AM-4 PM
     icon: conversation
   total_talk_days: 2
 
@@ -153,7 +152,6 @@ about:
   mainroom: Main stage
   unconfroom: Library & Astoria room (1st floor)
   projector_ratio: "16:9"
-  job_fair_room: Sponsor area
 
 cfp:
   url: "https://pretalx.com/wtd-portland-2026/cfp" # Open mid November, approx 12 weeks to submit
@@ -177,8 +175,8 @@ volunteer:
   schedule_signup_close: "March 27"
 
 hike:
-  date: Saturday, May 2, 2 PM
-  register_url: "https://ti.to/writethedocs/write-the-docs-portland-2026/with/k-pi4-g8s80"
+  date: Saturday, May 2
+  register_url: "https://ti.to/writethedocs/write-the-docs-portland-2026/with/hike-ticket"
 
 sponsors:
   keystone:
@@ -214,9 +212,6 @@ sponsors:
       brand: GitBook
       text: "GitBook combines powerful docs with AI-powered search and insights to give technical teams a single source of truth for their knowledge.
              Effortlessly create, surface and improve public and internal documentation that your users and teams will love. "
-    - name: waldium
-      link: https://www.waldium.com/?ref=writethedocs
-      brand: Waldium
     - name: fern
       link: https://buildwithfern.com/?ref=writethedocs
       brand: Fern
