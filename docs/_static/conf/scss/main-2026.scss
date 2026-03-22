@@ -742,94 +742,128 @@ footer {
 
     .uk-container {
         padding: 48px 24px;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
 
-        .footer-social-section {
-            display: flex;
-            flex-direction: column;
+        .footer-nav-columns {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 32px 24px;
         }
 
-        .footer-icon-list {
-            width: 220px;
-            display: flex;
-            justify-content: space-evenly;
-            margin-left: auto;
-            margin-right: auto;
+        .footer-brand {
+            grid-column: 1 / -1;
+            text-align: center;
         }
 
-        ul {
-            list-style-type: none;
-            color: $white;
-
-            & > li {
-                display: inline-block;
-                padding-left: 10px;
-            }
-
-            a, a:link, a:visited {
-                color: $white;
-                text-decoration: none;
-            }
-
-            a:active, a:hover {
-                color: $main-color;
-            }
+        .footer-logo-img {
+            max-width: 130px;
+            height: auto;
+            display: inline-block;
         }
 
-        .footer-logo {
-            font-size: 64px;
-            font-family: bree serif;
-            color: white;
-            margin-bottom: 40px;
-            margin-left: auto;
-            margin-right: auto;
+        .footer-logo-text {
+            display: inline-block;
             text-align: right;
-            line-height: 54px;
+            font-family: bree serif;
+            color: $white;
+            font-size: 24px;
+            line-height: 1.1;
             text-transform: uppercase;
-
             em {
-                color: $main-color;
                 font-style: normal;
-                font-size: 40px;
-                position: relative;
-                top: -8px;
-                font-weight: normal;
+                color: $main-color;
             }
         }
 
-        .footer-pics {
-            height: 140px;
+        .footer-conf-date {
+            color: $white;
+            font-family: bree serif;
+            font-size: 18px;
+            margin: 16px 0 0;
+        }
 
-            div {
+        .footer-nav-column {
+            h4 {
+                font-family: bree serif;
+                color: $main-color;
+                font-size: 16px;
+                text-transform: uppercase;
+                margin-bottom: 12px;
+                margin-top: 0;
+                letter-spacing: 0.5px;
 
-            &:first-child {
-                transform: rotate(12Deg) translate(27px,62px);
+                a {
+                    color: $main-color;
+                    text-decoration: none;
+
+                    &:hover {
+                        color: lighten($main-color, 15%);
+                    }
+                }
             }
 
-            &:nth-child(2) {
-                transform: rotate(23Deg) translate(79px,-129px);
-            }
+            ul {
+                list-style: none;
+                padding: 0;
+                margin: 0 0 16px;
 
-            &:nth-child(3) {
-          transform: rotate(21Deg) translate(-31px,-82px);
-            }
-
-            &:last-child {
-          transform: rotate(-18Deg) translate(176px,-274px);
-            }
-
-                img {
-                    @include picture;
+                li {
+                    display: block;
+                    padding-left: 0;
+                    margin-bottom: 8px;
                 }
 
-            }
+                a, a:link, a:visited {
+                    color: rgba($white, 0.7);
+                    text-decoration: none;
+                    font-size: 14px;
+                }
 
+                a:active, a:hover {
+                    color: $white;
+                }
+            }
         }
 
-    }
+        .footer-bottom {
+            margin-top: 32px;
+            padding-top: 24px;
+            border-top: 1px solid rgba($white, 0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 16px;
 
+            .footer-bottom-links {
+                color: $white;
+                font-size: 13px;
+
+                a, a:link, a:visited {
+                    color: rgba($white, 0.7);
+                    text-decoration: none;
+                }
+
+                a:active, a:hover {
+                    color: $white;
+                }
+
+                span {
+                    margin-right: 8px;
+                }
+            }
+
+            .footer-icon-list {
+                display: flex;
+                gap: 16px;
+                align-items: center;
+
+                img {
+                    height: 20px;
+                    width: auto;
+                }
+            }
+        }
+    }
 }
 
 /** AOS animations for pictures **/
@@ -1167,57 +1201,20 @@ footer {
   }
 
     footer .uk-container {
-        padding-right: 0;
-    padding-top: 0px;
-        display: flex;
-        flex-direction: row-reverse;
-        justify-content: space-between;
 
-        .footer-content {
-            padding-left: 78px;
-            height: 400px;
-
-            .footer-social-section {
-                display: flex;
-                flex-direction: row-reverse;
-
-                .footer-logo {
-                    margin-left: 0;
-                    margin-right: 0;
-                    position: relative;
-                    top: 56px;
-                }
-
-                .footer-icon-list {
-                    margin-top: auto;
-                }
-            }
+        .footer-nav-columns {
+            grid-template-columns: 1.2fr repeat(3, 1fr);
+            gap: 32px;
         }
 
-    .footer-pics {
-
-            div {
-
-            &:first-child {
-          transform: rotate(12deg) translate(29px,12px);
-            }
-
-            &:nth-child(2) {
-          transform: rotate(23deg) translate(66px,-185px);
-            }
-
-            &:nth-child(3) {
-          transform: rotate(21deg) translate(-31px,-136px);
-            }
-
-            &:last-child {
-          transform: rotate(-18deg) translate(189px,-284px);
-            }
-
-            }
+        .footer-brand {
+            grid-column: auto;
+            text-align: center;
         }
 
-
+        .footer-logo-img {
+            max-width: 160px;
+        }
     }
 
     body .page-content .schedule-item .item-starting-time {
@@ -1293,33 +1290,6 @@ footer {
         }
     }
 
-    footer .uk-container .footer-content {
-        padding-left: 128px;
-    }
-
-    footer .uk-container .footer-pics div {
-
-        &:first-child {
-            transform:  rotate(15deg) translate(33px,12px);
-        }
-
-        &:nth-child(2) {
-            transform: rotate(23deg) translate(85px,-244px);
-        }
-
-        &:nth-child(3) {
-            transform: rotate(21deg) translate(-44px,-184px);
-        }
-
-        &:last-child {
-            transform: rotate(-18deg) translate(246px,-354px);
-        }
-
-        img {
-            width: 180px;
-            height: 180px;
-        }
-    }
 }
 
 .uk-button {
