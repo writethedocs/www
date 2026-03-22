@@ -112,7 +112,7 @@ Documentation Salary Survey 2025 Results
 Introduction
 ============
 
-This seventh incarnation of the Write the Docs Salary Survey drew **755 responses from documentarians in 48 countries**. As always, we are impressed by the skills, experience and diversity of the Write the Docs community, and are grateful to everyone who took the time to fill out the survey and share it with their co-workers.
+The Write the Docs Salary Survey for 2025 - our seventh annual survey - drew **755 responses from documentarians in 48 countries**. Thank you to everyone who participated. 
 
 .. tip::
 
@@ -229,19 +229,19 @@ Basis of employment
 
    .. rubric:: Contractors, freelancers and self-employed people
 
-   We asked those who filled out the survey as independent contractors, freelancers or self-employed people what term they used to describe their type of employment. More than half (63.8%) preferred the term “contractor”, with only 18.1% using “freelancer” and 10.6% using “self-employed”. In this report, we’ll use the term “contractors” to refer to this entire group.
+   We asked those who filled out the survey as independent contractors, freelancers or self-employed people what term they used to describe their type of employment. The majority (68%) preferred the term “contractor”, with only 12% using “self-employed” and 11.2% using “freelancer”. In this report, we’ll use the term “contractors” to refer to this entire group.
 
-As in previous surveys, employees made up the majority of respondents (686, or 87.9%). Contractors made up 8.5% (66 individuals).
+As in previous surveys, employees made up the majority of respondents (675, or 89.5%). Contractors made up 6% (46 individuals) and those who had worked in both capacities made up 4.5% (34 individuals).
 
-For the first time this year, we included a third option - for respondents who had worked in the past year as both employee and contractor. 28 respondents (3.6%) chose this option, and provided both salary and contract rate data. This means that in total there are 714 employee responses and 94 contractor responses (the highest number of contractor responses yet).
+Following on from last year, recording salary and rate data for employee-contractors means that in total, we have 709 employee salaries and 80 sets of conract rates for our median breakdowns.
 
-.. table:: Basis of employment (2019-2024)
+.. table:: Basis of employment (2019-2025)
    :widths: 30 35 35
    :name: tbl-2024-basis-of-employment-history
    :class: sortable col2right col3right
 
    +-----------------+-----------------+----------------+
-   | Survey year     | Employees       | Contractors    |
+   | Survey year     | Employees       | Contractors    | Employee-contractors
    +=================+=================+================+
    | 2019            | |2| 652 (93.9%) |  |2| 42 (6.1%) |
    +-----------------+-----------------+----------------+
@@ -255,8 +255,9 @@ For the first time this year, we included a third option - for respondents who h
    +-----------------+-----------------+----------------+
    | 2024 [*]_       | |3| 714 (88.4%) | |6| 94 (11.6%) |
    +-----------------+-----------------+----------------+
+   | 2025 [**]_      | |3| 714 (88.4%) | |6| 94 (11.6%) |
+   +-----------------+-----------------+----------------+
 
-.. [*] Includes 28 employee-contractor respondents who are counted twice - once as an employee and once as a contractor
 
 As in previous years, we encouraged those currently not working to respond as though still at their previous job/contract, provided they had worked at least some of the past year. 16 employees (2.3%) and 7 contractors (10.6%) filled out the survey on this basis.
 
