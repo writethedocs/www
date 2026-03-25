@@ -67,7 +67,7 @@ The campaign will run in batches until May 31st. Shipping is available from the 
 
 ## Website Resources
 
-View our [Attendee Guide](https://www.writethedocs.org/conf/{{city}}/{{year}}/attendee-guide/) for a comprehensive overview of how to participate in the conference.
+View our [Attendee Guide](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/attendee-guide/) for a comprehensive overview of how to participate in the conference.
 
 ## Thanks To Our Sponsors
 
