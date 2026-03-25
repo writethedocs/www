@@ -246,6 +246,8 @@ def setup(app):
         context.update(metadata)
 
     # Fix canonical URLs for the dirhtml builder (Sphinx 5.x generates .html suffixed URLs)
+    # Fixed upstream in Sphinx 8.1.0 (https://github.com/sphinx-doc/sphinx/pull/9731)
+    # Remove this workaround when upgrading to Sphinx 8.1+
     def fix_canonical_url(app, pagename, templatename, context, doctree):
         pageurl = context.get('pageurl')
         if pageurl and pageurl.endswith('.html'):
