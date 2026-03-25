@@ -99,7 +99,7 @@ Check out topics that might be related to your talk from previous years:
 
 - [Berlin {{year-1}}](https://www.writethedocs.org/conf/berlin/{{year-1}}/speakers/)
 - [Portland {{year-1}}](https://www.writethedocs.org/conf/portland/{{year-1}}/speakers/)
-- [Berlin {{year-2}}](https://www.writethedocs.org/conf/berlin/{{year-2}}/speakers/)
+- [Atlantic {{year-2}}](https://www.writethedocs.org/conf/atlantic/{{year-2}}/speakers/)
 - [Atlantic {{year-2}}](https://www.writethedocs.org/conf/atlantic/{{year-2}}/speakers/)
 
 ## Writing your proposal

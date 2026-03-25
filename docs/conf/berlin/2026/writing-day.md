@@ -136,7 +136,7 @@ If you are planning to contribute, review the project list before the conference
 - Love letters
 - The Documentarian Manifesto
 
-Find specific examples on the [Berlin Writing Day 2025 project list](https://www.writethedocs.org/conf/berlin/2025/writing-day/#project-list).
+Find specific examples on the [Portland Writing Day 2025 project list](https://www.writethedocs.org/conf/portland/2025/writing-day/#project-list).
 
 ## Project list
 

@@ -244,7 +244,18 @@ def setup(app):
     def add_metadata(app, pagename, templatename, context, doctree):
         metadata = app.env.metadata.get(pagename, {})
         context.update(metadata)
+
+    # Fix canonical URLs for the dirhtml builder (Sphinx 5.x generates .html suffixed URLs)
+    def fix_canonical_url(app, pagename, templatename, context, doctree):
+        pageurl = context.get('pageurl')
+        if pageurl and pageurl.endswith('.html'):
+            if pageurl.endswith('/index.html'):
+                context['pageurl'] = pageurl[:-10]  # strip /index.html, keep trailing /
+            else:
+                context['pageurl'] = pageurl[:-5] + '/'  # strip .html, add /
+
     app.connect("html-page-context", add_metadata)
+    app.connect("html-page-context", fix_canonical_url)
 
     # Set up our custom jinja filters
     app.connect("builder-inited", add_jinja_filters_to_app)

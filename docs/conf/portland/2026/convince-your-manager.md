@@ -94,7 +94,7 @@ Peer review new and existing documentation*
 
 When discussing how to pitch Writing Day, a few helpful tips emerged:
 
-- Highlight specific projects from a previous [Writing Day project list.](https://www.writethedocs.org/conf/portland/2025/writing-day/#project-listing)
+- Highlight specific projects from a previous [Writing Day project list.](https://www.writethedocs.org/conf/portland/2025/writing-day/#project-list)
 - If your community is looking for regular documentation contributions, this is a great place to onboard potential contributors and editors.
 - Attending raises the visibility of your company in the community. 
 - Establishes your team's reputation for caring about their docs.
