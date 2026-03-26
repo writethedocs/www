@@ -1,0 +1,25 @@
+[project]
+name = "writethedocs-www"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "Sphinx>=8.1,<9",
+    "sphinx-autobuild",
+    "myst-parser",
+    "ablog",
+    "PyYAML",
+    "pytz",
+    "csvkit",
+    "yamllint",
+    "sphinxcontrib-datatemplates",
+    "urllib3",
+    "yamale",
+    "markdown",
+    "ruamel.yaml",
+    "lxml",
+    "sphinxemoji",
+    "Werkzeug>=2",
+    "sphinx-notfound-page",
+    "sphinxext-opengraph",
+    "matplotlib",
+]
