@@ -2,17 +2,7 @@
 # https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
 
 # Default owners for everything in the repo
-* @ericholscher @plaindocs
-
-# Build system, configuration, and infrastructure
-docs/conf.py @ericholscher @mxsasha
-docs/Makefile @ericholscher
-pyproject.toml @ericholscher
-requirements.txt @ericholscher
-.readthedocs.yaml @ericholscher
-dockerfile @ericholscher
-docs/_ext/ @ericholscher
-docs/_scripts/ @ericholscher
+* @ericholscher @plaindocs @mxsasha
 
 # Portland conference
 docs/conf/portland/ @ericholscher @plaindocs @janine-c
@@ -28,10 +18,3 @@ docs/conf/australia/ @swapnilogale @ericholscher
 # Guide and learning resources
 docs/guide/ @ericholscher @CollierCZ
 docs/hiring-guide/ @ericholscher @CollierCZ
-
-# Sponsors
-docs/_data/*-sponsors* @ericholscher
-docs/_static/img/sponsors/ @ericholscher
-
-# CI/CD
-.github/workflows/ @ericholscher
