@@ -15,6 +15,9 @@ docs/conf/prague/ @mxsasha @plaindocs
 # Australia conference
 docs/conf/australia/ @swapnilogale @ericholscher
 
+# Newsletter
+docs/blog/newsletter-* @CollierCZ @ericholscher
+
 # Guide and learning resources
 docs/guide/ @ericholscher @CollierCZ
 docs/hiring-guide/ @ericholscher @CollierCZ
