@@ -124,7 +124,7 @@ The [Unconference](/conf/{{shortcode}}/{{year}}/unconference/) consists of atten
 
 ### Sponsor Expo:
 
-[Sponsor Expo](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/) will include companies hiring and others sharing products. Visit our sponsors on Monday and Tuesday in the hallway.
+[Sponsor Expo](/conf/{{shortcode}}/{{year}}/sponsors/) will include companies hiring and others sharing products. Visit our sponsors on Monday and Tuesday in the hallway.
 
 ### Welcome Reception:
 
