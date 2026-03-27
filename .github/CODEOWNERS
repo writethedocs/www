@@ -11,17 +11,11 @@ pyproject.toml @ericholscher
 requirements.txt @ericholscher
 .readthedocs.yaml @ericholscher
 dockerfile @ericholscher
-
-# Extensions and scripts
 docs/_ext/ @ericholscher
 docs/_scripts/ @ericholscher
 
-# Templates and static assets
-docs/_templates/ @ericholscher @plaindocs
-docs/_data/ @ericholscher @plaindocs
-
 # Portland conference
-docs/conf/portland/ @ericholscher @plaindocs @katiejano @janine-c
+docs/conf/portland/ @ericholscher @plaindocs @janine-c
 
 # Berlin conference (formerly Prague / Atlantic)
 docs/conf/berlin/ @mxsasha @plaindocs
@@ -31,15 +25,9 @@ docs/conf/prague/ @mxsasha @plaindocs
 # Australia conference
 docs/conf/australia/ @swapnilogale @ericholscher
 
-# Kenya conference
-docs/conf/kenya/ @ericholscher
-
 # Guide and learning resources
-docs/guide/ @ericholscher @CollierCZ @thatdocslady
+docs/guide/ @ericholscher @CollierCZ
 docs/hiring-guide/ @ericholscher @CollierCZ
-
-# Blog
-docs/blog/ @ericholscher @thatdocslady
 
 # Sponsors
 docs/_data/*-sponsors* @ericholscher
