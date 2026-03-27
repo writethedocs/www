@@ -1,0 +1,49 @@
+# Write the Docs CODEOWNERS
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owners for everything in the repo
+* @ericholscher @plaindocs
+
+# Build system, configuration, and infrastructure
+docs/conf.py @ericholscher @mxsasha
+docs/Makefile @ericholscher
+pyproject.toml @ericholscher
+requirements.txt @ericholscher
+.readthedocs.yaml @ericholscher
+dockerfile @ericholscher
+
+# Extensions and scripts
+docs/_ext/ @ericholscher
+docs/_scripts/ @ericholscher
+
+# Templates and static assets
+docs/_templates/ @ericholscher @plaindocs
+docs/_data/ @ericholscher @plaindocs
+
+# Portland conference
+docs/conf/portland/ @ericholscher @plaindocs @katiejano @janine-c
+
+# Berlin conference (formerly Prague / Atlantic)
+docs/conf/berlin/ @mxsasha @plaindocs
+docs/conf/atlantic/ @mxsasha @plaindocs
+docs/conf/prague/ @mxsasha @plaindocs
+
+# Australia conference
+docs/conf/australia/ @swapnilogale @ericholscher
+
+# Kenya conference
+docs/conf/kenya/ @ericholscher
+
+# Guide and learning resources
+docs/guide/ @ericholscher @CollierCZ @thatdocslady
+docs/hiring-guide/ @ericholscher @CollierCZ
+
+# Blog
+docs/blog/ @ericholscher @thatdocslady
+
+# Sponsors
+docs/_data/*-sponsors* @ericholscher
+docs/_static/img/sponsors/ @ericholscher
+
+# CI/CD
+.github/workflows/ @ericholscher
