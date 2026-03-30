@@ -2,9 +2,13 @@ region: North America
 country: USA
 state: New York
 city: New York City
-website: https://www.meetup.com/writethedocsnyc/events/
+website: https://www.meetup.com/writethedocsnyc
 meetup: WriteTheDocsNYC
-twitter: WriteTheDocsNYC
+twitter: WriteTheDocsNYC (inactive)
 organizers:
-  - name: Ricardo Feliciano
-    link: http://twitter.com/FelicianoTech/
+  - name: Lois Patterson
+    link:
+  - name: Anandi Knuppel
+    link:
+  - name: Victor Giurgiu
+    link:  
