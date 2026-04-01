@@ -28,8 +28,8 @@ buttons:
   top:
     - text: Conference announcement
       link: /news/welcome
-#    - text: Sponsor us
-#      link: /sponsors/prospectus
+    - text: Sponsor us
+      link: /sponsors/prospectus
     # - text: Submit a Talk
     #   link: /cfp
     # - text: See the Schedule
@@ -45,8 +45,8 @@ buttons:
   bottom:
     - text: Conference announcement
       link: /news/welcome
-#    - text: Sponsor us
-#      link: /sponsors/prospectus
+    - text: Sponsor us
+      link: /sponsors/prospectus
     # - text: Submit a Talk
     #   link: /cfp
     # - text: Buy a Ticket
@@ -78,11 +78,11 @@ tickets:
 
 sponsorship:
   second_draft:
-    price: €2,000
+    price: €2,250
   publisher:
-    price: €3,500
+    price: €4,000
   patron:
-    price: €5,500
+    price: €6,000
   keystone:
     price: "" # None to not render
 
