@@ -1,0 +1,23 @@
+# Write the Docs CODEOWNERS
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owners for everything in the repo
+* @ericholscher @plaindocs @mxsasha
+
+# Portland conference
+docs/conf/portland/ @ericholscher @plaindocs @janine-c
+
+# Berlin conference (formerly Prague / Atlantic)
+docs/conf/berlin/ @mxsasha @plaindocs
+docs/conf/atlantic/ @mxsasha @plaindocs
+docs/conf/prague/ @mxsasha @plaindocs
+
+# Australia conference
+docs/conf/australia/ @swapnilogale @ericholscher
+
+# Newsletter
+docs/blog/newsletter-* @CollierCZ @ericholscher
+
+# Guide and learning resources
+docs/guide/ @ericholscher @CollierCZ
+docs/hiring-guide/ @ericholscher @CollierCZ
