@@ -16,15 +16,15 @@ Write the Docs Portland is officially just under 1 month away on May 4-6! Whethe
 
 Still need a ticket? Now is a great time to purchase your ticket at one of our varying price levels. All in-person tickets include the option to attend virtually as well!
 
-| Ticket type           | In person | Virtual |
-| --------------------- | --------- | ------- |
-| Student or unemployed | $100      | $50     |
-| Independent           | $350      | $100    |
-| Corporate             | $650      | $175    |
+| Ticket type              | In person    | Virtual  |
+| :---------------------   | :---------   | :------- |
+| Student or unemployed    | $100         | $50      |
+| Independent              | $350         | $100     |
+| Corporate                | $650         | $175     |
    
 <br />
 <div style="margin: 2em 0;">
-<table border="0" cellpadding="0" cellspacing="0" style="background-color:#fdb913; border:1px solid #4a4a4a; border-radius:5px; margin:auto;">
+<table border="0" cellpadding="0" cellspacing="0" style="background-color:#fdb913; border-radius:5px; margin:auto;">
 <tr>
    <td align="center" valign="middle" style="color:#000000; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
       <a href="https://ti.to/writethedocs/write-the-docs-portland-2026" target="_blank" style="color:#000000; text-decoration:none; text-transform:uppercase; border-bottom: none;">Buy your ticket</a>
