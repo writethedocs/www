@@ -43,29 +43,22 @@ body h1 {
     font-family: $secondary-font-family;
 }
 
-body .page-content ul ul {
-    padding: 0;
-}
 body .page-content ul {
-    list-style: none;
-    padding: 0 0 20px 0;
+    padding-bottom: 1em;
+    padding-left: 1em;
     margin: 0;
 
     li {
-        color: copy-color;
-        padding-left: 1em;
-        text-indent: -.7em;
-
-        &:before {
-            content: "•  ";
-            color: $main-color;
-            padding-right: 10px;
-        }
+        color: $copy-color;
 
         p {
             display: inline;
         }
+        &::marker {
+            color: $main-color;
+        }
     }
+
 }
 
 body h2, body .page-content h2 {
