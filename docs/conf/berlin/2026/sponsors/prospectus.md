@@ -146,7 +146,7 @@ Sponsor one day of Lightning Talks, where attendees have 5 minutes to share some
 
 ### Opportunity Grants
 
-**€2,250** - **Limit 2**
+**€2,000** - **Limit 2**
 
 Provide additional funding for our Opportunity Grant program, which supports equity and accessibility and provides funding for low-income, marginalized people to attend the conference. These individuals would otherwise not be able to attend.
 
