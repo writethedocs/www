@@ -81,7 +81,7 @@ View our [Schedule](https://www.writethedocs.org/conf/portland/{{year}}/schedule
 
 ## Travel Cancellation Policy
 
-Unfortunately, international travel to the United States has become more complex for many in our community. If you need to cancel travel due to these circumstances, we will waive the 10% cancellation fee and offer a 100% ticket refund. You can find more information in the [refund policy](https://www.writethedocs.org/conf/portland/{{year}}/tickets/#refund-policy) section of the Tickets page.
+Unfortunately, international travel to the United States remains complex for many in our community. If you need to cancel travel due to these circumstances, we will waive the 10% cancellation fee and offer a 100% ticket refund. You can find more information in the [refund policy](https://www.writethedocs.org/conf/portland/{{year}}/tickets/#refund-policy) section of the Tickets page.
 
 For those unable to attend in person, we offer a [virtual ticket option](https://www.writethedocs.org/conf/portland/{{year}}/tickets/) that provides access to view the main stage talks and participate in speaker Q&As in real time. 
 
