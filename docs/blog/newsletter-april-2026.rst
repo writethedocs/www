@@ -9,7 +9,7 @@ Write the Docs Newsletter – April 2026
 
 Ahoy there, documentarians! Spring is beginning to pop up in these parts, which means growth, flowers, and of course pollen. I hope you are all able to find some pleasure around you that isn't covered in too much discomfort.
 
-In community news, the Berlin 2026 conference has been officially `announced </conf/berlin/2026/news/welcome/>`__! Start getting your ideas together for a proposal and book September 6–8 so we can meet up again. Looking forward to it already!
+In community news, the Portland 2026 conference has released `the full schedule </conf/portland/2026/news/announcing-schedule/>`__ -- in-person and virtual tickets are still available. And the Berlin 2026 conference has been officially `announced </conf/berlin/2026/news/welcome/>`__! Start getting your ideas together for a proposal and book September 6–8 so we can meet up again. Looking forward to it already!
 
 We have articles this month on whether or not to build a docs platform yourself with AI, how to react to job requirements for "native" English speakers, and what people thought about companies replacing documentarian teams with AI.
 
@@ -59,11 +59,11 @@ See more Write the Docs resources about `choosing tools for documentation </guid
 "Native" speaker requirements for jobs
 --------------------------------------
 
-How often have you seen "*Native English speaker*" in a tech writer job ad? A recent Slack thread got our members thinking about what that requirement actually means, and whether it does more harm than good.
+How often have you seen "*Native English speaker*" as a requirement in a tech writer job ad? A recent Slack thread got our members thinking about what that requirement actually means, and whether it does more harm than good.
 
 The concept of "native speakerism" inevitably creates the "non-native" opposite, and these binary labels don’t adequately reflect language identity, use, and understanding. In job ads, it seems to conflate two separate things: fluency and writing ability. The assumption being that if English is your first language, you are automatically a better writer.
 
-Many in the thread pushed back on this assumption, arguing that "non-native" speakers often bring more rigor to technical writing. Having had to consciously learn the language, they're less likely to make assumptions and more likely to question their choices. In technical writing, this instinct to question is a real asset, with one contributor noting that "doubt and second guessing are a key ingredient of authoring and editing." That said, one person noted that their documentation suite had accumulated stylistic quirks and phrasings over time from authors writing in their "non-native" language.
+Documentation written by "non-native" speakers can accumulate telltale signs over time: stylistic quirks, unusual phrasing, an overly formal register, or obscure vocabulary where a simpler word would do. Discussion in the thread included the other perspective that "non-native" speakers often bring more rigor to technical writing. Having had to consciously learn the language, they're less likely to make assumptions and more likely to question their choices. In technical writing, this instinct to question is a real asset, with one contributor noting that "doubt and second guessing are a key ingredient of authoring and editing."
 
 The discussion also suggested employers use "native" as a proxy for something they can't define or assess, making it an HR problem rather than a linguistic one. The real motivation behind the requirement is often that managers don’t want to be responsible for evaluating a candidate's English skills. Like requiring a college degree for a role that doesn't need one, "native speaker" becomes a blunt filter rather than a meaningful qualification — and one that portfolios and writing samples should be taking care of anyway.
 
@@ -77,7 +77,7 @@ See more Write the Docs resources about `jobs and careers </topics/#jobs-and-car
 Docs without dedicated documentarians?
 --------------------------------------
 
-As its capabilities continue to grow, some companies have positioned AI as a suitable replacement for human knowledge managers. In at least one instance, an entire writing staff was laid off as part of a “targeted adjustment” to the company’s overall strategy. WTD members how companies plan to implement AI systems without a dedicated team in place to manage them.
+As its capabilities continue to grow, some companies have positioned AI as a suitable replacement for human knowledge managers. In at least one instance, an entire writing staff was laid off as part of a “targeted adjustment” to the company’s overall strategy. WTD members questioned how companies plan to implement AI systems without a dedicated team in place to manage them.
 
 Most respondents agreed that this decision was short-sighted and irresponsible. People noted that this business model relies on engineers to produce docs using AI, and AI agents are currently incapable of producing product docs without the help of documentarians.
 
@@ -93,7 +93,7 @@ Some stressed the necessity of connecting quality docs to AI performance to garn
 
 The group was in consensus about these tenets: quality and customer service lags behind other priorities for some companies. Overarching decisions such as laying off an entire department are deeply impactful, but typically not a reflection of anyone’s individual performance. Prepare for the unexpected because your level of readiness in the face of uncertainty may be tested. At the same time, it’s more important than ever to evangelize docs, share wins, and find ways to tell the story of your value, so that company leadership can clearly understand the role tech comms play in delivering quality products.
 
-See more Write the Docs resources about `AI and LLMs </topics/#ai-and-llms>`__.
+See more Write the Docs resources about `building docs culture </topics/#building-docs-culture>`__.
 
 ----------------
 From our sponsor
