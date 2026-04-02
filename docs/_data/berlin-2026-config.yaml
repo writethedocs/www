@@ -84,7 +84,7 @@ sponsorship:
   patron:
     price: €6,000
   keystone:
-    price: "" # None to not render
+    price: €10,000
 
 grants:
   url: ""
