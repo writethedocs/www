@@ -8,9 +8,9 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
    :tags: {{shortcode}}-{{year}}
 ```
 
-# Only 1 Month Until Write the Docs Portland
+# 26 Days Until Write the Docs Portland
 
-Write the Docs Portland is officially just under 1 month away on May 4-6! Whether you're a programmer, tech writer, designer, project manager, or developer advocate, we have talks and a community for you at Write the Docs Portland.
+Write the Docs Portland is officially just under one month away on May 3-5! Whether you're a programmer, tech writer, designer, project manager, or developer advocate, we have talks and a community for you at Write the Docs Portland.
 
 ## Buy Your Tickets
 
@@ -55,7 +55,7 @@ Our [#wtd-conferences](https://writethedocs.slack.com/archives/C1AKFQATH) channe
 
 ## Writing Day Projects
 
-Join us for Writing Day! Submit your project by **April 22, 2026** to be promoted in our pre-conference Writing Day blog post and email.
+Call for Writing Day projects! Submit your project by **April 22, 2026** to be promoted in our pre-conference Writing Day blog post and email.
 
 Online project submission is optional, and we have several day-of project submissions. We adore all of our projects and volunteers, no matter when they sign up. And don't forget that this year we've added Git and GitHub workshops, resume and portfolio writing and review sessions, and roundtable discussions. All are welcome!
 
