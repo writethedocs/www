@@ -75,7 +75,11 @@ Talks from the scientific community, fiction writers, system administrators, and
 
 The focus of Write the Docs is software documentation, and we actively seek talks that address a wide range of related subjects, at various levels of expertise. Documentation perspectives from other fields are welcome, as are topics from adjacent fields!
 
-We're excited to have great AI related talks on the programme, but will be capping the number of talks that focus on AI at 4, to leave space for other topics.
+**AI**
+
+We're excited to have great AI related talks on the programme, but will be capping the number of talks that focus on AI at 4, to leave space for other topics. While AI is a subject in our community and therefore also at our conferences, we get a huge number of AI proposals. The challenge with those proposals is that the review team aims to select talks that can provide lasting value, but that is inherently difficult with rapidly developing technology. Additionally, we feel we have a responsibility to balance talking about the potential of AI with the very real ethical and environmental concerns that come with it.
+
+For these reasons, submitting about an AI topic without showing us that you have considered these concerns might reduce your chances of being accepted. Conversely, demonstrating a community-centred attitude can help your chances if you choose to submit a talk about AI.
 
 **Practicality and positivity**
 
