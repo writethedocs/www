@@ -41,7 +41,7 @@ def load_meetups_by_region():
         # Conditionally show the meetup meta data block
         meetup['has_meta'] = any([(key in meetup) for key in [
             'organizers',
-            'website',
+            'links',
             'twitter',
         ]])
         if 'meetup' not in meetup:

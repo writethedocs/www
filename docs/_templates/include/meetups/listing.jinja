@@ -35,6 +35,15 @@
               </div>
             {% endif %}
 
+            {# Other internet presence #}
+            {% if meetup['links'] %}
+              <ul>
+                {% for text, link in meetup['links'].items() %}
+                  <li><a href="{{ link }}">{{ text }}</a></li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+
             {# On twitter #}
             {% if meetup['twitter'] %}
               <div>
