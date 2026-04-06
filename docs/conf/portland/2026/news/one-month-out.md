@@ -38,9 +38,9 @@ Still need a ticket? Now is a great time to purchase your ticket at one of our v
 Our Slack network is the best way to connect with our community. Visit our [Slack info page](https://www.writethedocs.org/slack/) to join and explore a list of our channels.
 
 ### #wtd-conferences channel
-Our [#wtd-conferences](https://writethedocs.slack.com/archives/C1AKFQATH) channel is the primary space for virtual communication during the conference. We *highly* recommend you view and join the discussion before the conference!
+Our [#wtd-conferences](https://writethedocs.slack.com/archives/C1AKFQATH) channel is the primary space for virtual communication during the conference. We *highly* recommend that you join the discussion before the conference!
 
-**Reminder**: There is a two-step process to join Slack. You need to complete a short signup form before you can create your account.
+There is a two-step process to join Slack. You need to complete a short signup form before you can create your account.
 
 <div style="margin: 2em 0;">
 <table border="0" cellpadding="0" cellspacing="0" style="background-color:#fdb913; border-radius:5px; margin:auto;">
