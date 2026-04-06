@@ -7,12 +7,8 @@ Create new videos by adding the following to ``conf.py``::
 
     html_context.update(main())
 """
-from __future__ import print_function
-
 import glob
 import re
-
-from builtins import str
 import io
 import os
 import os.path

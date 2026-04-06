@@ -8,7 +8,7 @@ banner: _static/conf/images/headers/2026/prospectus.jpg
 
 ## Introduction
 
-Welcome to the Write the Docs {{ city }} {{ year }} sponsorship prospectus. We're excited to work with the organizations in our community to build the best documentation event in {{ year }}. Created in 2013 in Berlin, Germany, WTD has hosted conferences around the world in Prague, Berlin, Sydney, London, and Melbourne. We’re excited to celebrate this year with your support!
+Welcome to the Write the Docs {{ city }} {{ year }} sponsorship prospectus. We’re excited to work with the organizations in our community to build the best documentation event in {{ year }}. Created in 2013 in Portland, Oregon, WTD has hosted conferences around the world in Prague, Berlin, Sydney, London, and Melbourne. We’re excited to celebrate this year with your support!
 
 {% if flagrunofshow %}
 
@@ -68,7 +68,7 @@ The **Keystone** sponsorship highlights you as the primary sponsor of the confer
 
 #### Benefits
 
-- Eight (8) tickets, with additional available to purchase at a discounted rate of \$500/ticket.
+- Eight (8) tickets, with additional available to purchase at a discounted rate of €300/ticket.
 - Most visible **sponsorship booth** for the entire conference (Monday & Tuesday). Monitor included in booth. Booths placed in order of purchase.
 - Sponsorship of a primary Write the Docs conference event (Unconference, Writing Day, or Social Event).
 - **60 second introduction** on the main stage introducing your company.
@@ -90,8 +90,8 @@ The **Patron** package is great for a larger company to get in front of our atte
 
 #### Benefits
 
-- Six (6) tickets, with additional available to purchase at a discounted rate of \$500/ticket.
-- A **sponsorship booth** for the entire conference (Monday & Tuesday). Monitor rental available for \$500.
+- Six (6) tickets, with additional available to purchase at a discounted rate of €300/ticket.
+- A **sponsorship booth** for the entire conference (Monday & Tuesday). Monitor rental available for €300.
 - **30 second introduction** on the main stage introducing your company.
 - Dedicated social media post.
 - Logo included in intermission slides and on talk videos.
@@ -107,7 +107,7 @@ The **Publisher** package is great for a company looking to send some employees 
 
 #### Benefits
 
-- Four (4) tickets, with additional available to purchase at a discounted rate of \$500/ticket.
+- Four (4) tickets, with additional available to purchase at a discounted rate of €300/ticket.
 - Logo included in intermission slides and on talk videos.
 - Dedicated social media post.
 - Logo and description (100 words) on the conference website.
@@ -122,7 +122,7 @@ The **Second Draft** package gives you visibility on the conference website and 
 
 #### Benefits
 
-- Two (2) tickets, with additional available to purchase at a discounted rate of \$500/ticket.
+- Two (2) tickets, with additional available to purchase at a discounted rate of €300/ticket.
 - Logo on the conference website.
 - Name included in all conference emails to attendees.
 - Display promotional (“Swag”) items on the conference swag table (provided by sponsor).
@@ -133,7 +133,7 @@ The following a la carte offerings are available either independently or combine
 
 ### Lightning Talks
 
-**\$3,500** - **Limit 2**
+**€4,000** - **Limit 2**
 
 Sponsor one day of Lightning Talks, where attendees have 5 minutes to share something they are excited about working on. You will have 60 seconds at the start to introduce your company.
 
@@ -146,7 +146,7 @@ Sponsor one day of Lightning Talks, where attendees have 5 minutes to share some
 
 ### Opportunity Grants
 
-**\$2,000** - **Limit 2**
+**€2,000** - **Limit 2**
 
 Provide additional funding for our Opportunity Grant program, which supports equity and accessibility and provides funding for low-income, marginalized people to attend the conference. These individuals would otherwise not be able to attend.
 

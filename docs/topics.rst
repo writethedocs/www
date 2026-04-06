@@ -291,6 +291,7 @@ Maintenance
 Jobs and careers
 ----------------
 
+- |:newspaper:| `"Native" speaker requirements for jobs </blog/newsletter-april-2026/#native-speaker-requirements-for-jobs>`__
 - |:newspaper:| `Being the first writer at a startup </blog/newsletter-november-2025/#being-the-first-writer-at-a-startup>`__
 - |:newspaper:| `Where do documentarians “fit” into an organization? </blog/newsletter-may-2025/#where-do-documentarians-fit-into-an-organization>`__
 - |:newspaper:| `Working as a contractor or freelancer </blog/newsletter-october-2024/#working-as-a-contractor-or-freelancer>`__
@@ -514,6 +515,7 @@ User needs
 Doc tools
 ---------
 
+- |:newspaper:| `To buy or build in the age of AI </blog/newsletter-april-2026/#to-buy-or-build-in-the-age-of-ai>`__
 - |:newspaper:| `Choosing a CCMS or a static site generator </blog/newsletter-june-2023/#choosing-a-ccms-or-a-static-site-generator>`__
 - |:movie_camera:| `Two years of Markdoc: what we’ve learned about balancing developer and author experience </videos/prague/2022/two-years-of-markdoc-what-we-ve-learned-about-balancing-developer-and-author-ex-ryan-paul/>`__
 - |:newspaper:| `Standards in documentation tooling </blog/newsletter-december-2021/#standards-in-documentation-tooling>`__
@@ -575,6 +577,7 @@ DITA
 AI and LLMs
 ~~~~~~~~~~~
 
+- |:newspaper:| `Docs without dedicated documentarians? </blog/newsletter-april-2026/#docs-without-dedicated-documentarians>`__
 - |:newspaper:| `Should we structure docs for AI agents? </blog/newsletter-march-2026/#should-we-structure-docs-for-ai-agents>`__
 - |:newspaper:| `AI assistants in docs </blog/newsletter-march-2026/#ai-assistants-in-docs>`__
 - |:newspaper:| `Can AI be both a bubble and useful? </blog/newsletter-february-2026/#can-ai-be-both-a-bubble-and-useful>`__
