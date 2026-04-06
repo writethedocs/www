@@ -52,7 +52,6 @@ Our [#wtd-conferences](https://writethedocs.slack.com/archives/C1AKFQATH) channe
 </table>
 </div>
 
-
 ## Writing Day Projects
 
 Call for Writing Day projects! Submit your project by **April 22, 2026** to be promoted in our pre-conference Writing Day blog post and email.
@@ -68,8 +67,6 @@ Online project submission is optional, and we have several day-of project submis
 </tr>
 </table>
 </div>
-
-![Speaker Q&A](/_static/conf/images/headers/Speaker-Photo-2.jpg)
 
 ## How Do I Participate in the Conference? 
 
