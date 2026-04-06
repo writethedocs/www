@@ -98,7 +98,7 @@ A useful, co-branded item distributed to all attendees featuring both the Write 
 
 ## Sunday Welcome Reception Sponsorship
 
-Sponsor branding at the Sunday pre-conference Welcome Reception, including a hosted dessert offering for attendees.
+Sponsor branding at the Sunday pre-conference Welcome Reception, including a branded dessert offering for attendees.
 
 - **Time:** 5:00–7:00 PM, Sunday
 - **Location:** Conference venue
@@ -106,7 +106,11 @@ Sponsor branding at the Sunday pre-conference Welcome Reception, including a hos
 ### What Write the Docs Provides
 
 - Entrance, dessert station, and "Hosted by [Sponsor]" signage with sponsor logo
-- Dessert vendor and service (e.g., ice cream booth)
+- Branded dessert vendor and service (e.g., ice cream booth)
+
+### What the Sponsor Provides
+
+- Table for stickers, flyers, or other collateral
 
 All signage is designed and produced by Write the Docs.
 
@@ -114,7 +118,7 @@ All signage is designed and produced by Write the Docs.
 
 ## Monday Evening Social Sponsorship
 
-Sponsor branding at the Monday evening party. Includes branded bar menu and entrance signage, with optional add-ons.
+Sponsor branding at the Monday evening party, including branded bar menu, entrance signage, and a branded dessert offering.
 
 - **Time:** 7:00–9:00 PM, Monday
 - **Location:** Jupiter NEXT (900 E Burnside St, 2nd floor)
@@ -123,11 +127,13 @@ Sponsor branding at the Monday evening party. Includes branded bar menu and entr
 
 - Branded bar menu with sponsor logo
 - Entrance signage with sponsor logo
+- Branded dessert vendor and service
 
-### Optional Add-Ons
+### What the Sponsor Provides
 
-- **Polaroid Photo Booth** — staffed photo booth with instant prints, custom WTD-themed backdrop, sponsor logo on signage
-- **Food or Dessert Station** — sponsor-funded catering, WTD coordinates vendor and signage
+- Table for stickers, flyers, or other collateral
+
+All signage is designed and produced by Write the Docs.
 
 ---
 
@@ -143,6 +149,10 @@ Sponsor branding at Writing Day, the opening day of the conference where attende
 - Entrance signage with sponsor logo
 - Sponsor logo on Writing Day program materials
 - Acknowledgment during Writing Day opening remarks
+
+### What the Sponsor Provides
+
+- Table for stickers, flyers, or other collateral
 
 All signage is designed and produced by Write the Docs.
 
@@ -160,6 +170,10 @@ Sponsor branding for the Unconference track, which runs in parallel with speaker
 - Signage at Unconference room entrances with sponsor logo
 - Sponsor logo on Unconference schedule board
 - Acknowledgment during Unconference introduction remarks
+
+### What the Sponsor Provides
+
+- Table for stickers, flyers, or other collateral
 
 All signage is designed and produced by Write the Docs.
 
