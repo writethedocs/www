@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
 Export all YouTube video titles, IDs, and slugs from the Write the Docs
-YouTube channel, fetched directly via yt-dlp.
+YouTube channels, fetched directly via yt-dlp.
 
-Fetches all playlists first, then each playlist's videos, plus any
-channel-level uploads not in a playlist.
+Covers both channels:
+  - Main: https://www.youtube.com/c/WritetheDocs
+  - Australia: https://www.youtube.com/c/WriteTheDocsAus
 
 Requires: pip install yt-dlp
 """
@@ -14,31 +15,27 @@ import re
 import subprocess
 import sys
 
-CHANNEL_URL = "https://www.youtube.com/c/WritetheDocs"
+CHANNELS = [
+    ("https://www.youtube.com/c/WritetheDocs", "Write the Docs"),
+    ("https://www.youtube.com/c/WriteTheDocsAus", "Write the Docs Australia"),
+]
 
 
 def slugify(text):
-    """Create a URL-appropriate slug from a string."""
-    slug = text.encode('utf-8', 'ignore').lower().decode('utf-8')
-    slug = re.sub(r'[^a-z0-9]+', '-', slug).strip('-')
-    slug = re.sub(r'[-]+', '-', slug)
+    slug = text.encode("utf-8", "ignore").lower().decode("utf-8")
+    slug = re.sub(r"[^a-z0-9]+", "-", slug).strip("-")
+    slug = re.sub(r"[-]+", "-", slug)
     return slug
 
 
 def yt_dlp_list(url):
-    """Run yt-dlp --flat-playlist and return list of (id, title) tuples."""
     result = subprocess.run(
         [
-            "yt-dlp",
-            "--no-check-certificates",
+            "yt-dlp", "--no-check-certificates",
             "--print", "%(id)s\t%(title)s",
-            "--no-abort-on-error",
-            "--flat-playlist",
-            url,
+            "--no-abort-on-error", "--flat-playlist", url,
         ],
-        capture_output=True,
-        text=True,
-        timeout=120,
+        capture_output=True, text=True, timeout=120,
     )
     items = []
     for line in result.stdout.strip().splitlines():
@@ -49,56 +46,62 @@ def yt_dlp_list(url):
 
 
 def main():
-    # 1. Fetch all playlists
-    print("Fetching playlists...")
-    playlists = yt_dlp_list(f"{CHANNEL_URL}/playlists")
-    print(f"Found {len(playlists)} playlists")
-
-    # 2. Fetch videos from each playlist
     all_videos = []
     seen_ids = set()
 
-    for pl_id, pl_title in playlists:
-        url = f"https://www.youtube.com/playlist?list={pl_id}"
-        print(f"  {pl_title} ...", end=" ", flush=True)
-        items = yt_dlp_list(url)
+    for channel_url, channel_name in CHANNELS:
+        print(f"\n{'='*60}")
+        print(f"Channel: {channel_name}")
+        print(f"{'='*60}")
+
+        # Fetch playlists
+        print("Fetching playlists...")
+        playlists = yt_dlp_list(f"{channel_url}/playlists")
+        print(f"  Found {len(playlists)} playlists")
+
+        # Fetch videos from each playlist
+        for pl_id, pl_title in playlists:
+            url = f"https://www.youtube.com/playlist?list={pl_id}"
+            print(f"  {pl_title} ...", end=" ", flush=True)
+            items = yt_dlp_list(url)
+            count = 0
+            for vid, title in items:
+                if vid not in seen_ids:
+                    seen_ids.add(vid)
+                    all_videos.append({
+                        "title": title,
+                        "youtubeId": vid,
+                        "slug": slugify(title),
+                        "playlist": pl_title,
+                        "playlistId": pl_id,
+                        "channel": channel_name,
+                    })
+                    count += 1
+            print(f"{len(items)} videos ({count} new)")
+
+        # Fetch channel uploads
+        print("  Channel uploads ...", end=" ", flush=True)
+        channel_videos = yt_dlp_list(f"{channel_url}/videos")
         count = 0
-        for vid, title in items:
+        for vid, title in channel_videos:
             if vid not in seen_ids:
                 seen_ids.add(vid)
                 all_videos.append({
                     "title": title,
                     "youtubeId": vid,
                     "slug": slugify(title),
-                    "playlist": pl_title,
-                    "playlistId": pl_id,
+                    "playlist": "",
+                    "playlistId": "",
+                    "channel": channel_name,
                 })
                 count += 1
-        print(f"{len(items)} videos ({count} new)")
+        print(f"{count} additional videos")
 
-    # 3. Fetch channel uploads to catch videos not in any playlist
-    print("  Channel uploads ...", end=" ", flush=True)
-    channel_videos = yt_dlp_list(f"{CHANNEL_URL}/videos")
-    count = 0
-    for vid, title in channel_videos:
-        if vid not in seen_ids:
-            seen_ids.add(vid)
-            all_videos.append({
-                "title": title,
-                "youtubeId": vid,
-                "slug": slugify(title),
-                "playlist": "",
-                "playlistId": "",
-            })
-            count += 1
-    print(f"{count} additional videos")
-
-    # 4. Write CSV
+    # Write CSV
     output_path = "youtube_videos.csv"
+    fieldnames = ["title", "youtubeId", "slug", "playlist", "playlistId", "channel"]
     with open(output_path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(
-            f, fieldnames=["title", "youtubeId", "slug", "playlist", "playlistId"]
-        )
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(all_videos)
 
