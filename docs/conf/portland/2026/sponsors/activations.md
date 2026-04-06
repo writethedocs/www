@@ -13,8 +13,8 @@ In addition to our [standard sponsorship packages](/conf/{{shortcode}}/{{year}}/
 
 A sponsor takeover of the Martha's coffee shop space during the morning unconference block. Attendees get free handcrafted beverages (espresso, matcha, or other specialty drinks), and the sponsor hosts short discussion sessions in the space. This activation overlaps with the morning coffee break.
 
-**Time:** 10:00 AM – 12:00 PM (conference days)
-**Location:** Martha's (adjacent to unconference rooms)
+- **Time:** 10:00 AM – 12:00 PM (conference days)
+- **Location:** Martha's (adjacent to unconference rooms)
 
 ### What Write the Docs Provides
 
@@ -40,8 +40,8 @@ The sponsor may host up to three 30-minute blocks during the activation window. 
 
 A sponsor-branded wellness and recharging space where attendees can take a break. Features comfortable seating, light refreshments, and a quiet atmosphere. Open throughout the conference.
 
-**Location:** Dedicated lounge space at the venue
-**Availability:** Monday and Tuesday, full conference hours
+- **Location:** Dedicated lounge space at the venue
+- **Availability:** Monday and Tuesday, full conference hours
 
 ### What Write the Docs Provides
 
@@ -62,7 +62,7 @@ A sponsor-branded wellness and recharging space where attendees can take a break
 
 Free professional headshots for all attendees, sponsored by your company. Sponsor branding appears on surrounding signage, with an optional table adjacent to the booth. Photos do not include sponsor logos.
 
-**Location:** Designated area near main conference space
+- **Location:** Designated area near main conference space
 
 ### What Write the Docs Provides
 
@@ -81,7 +81,7 @@ Free professional headshots for all attendees, sponsored by your company. Sponso
 
 A useful, co-branded item distributed to all attendees featuring both the Write the Docs and sponsor logos. Items should be practical and conference-appropriate (e.g., cable organizers, portable chargers). Write the Docs manages production and distribution.
 
-**Quantity:** All registered attendees (~400)
+- **Quantity:** All registered attendees (~400)
 
 ### What Write the Docs Provides
 
@@ -100,8 +100,8 @@ A useful, co-branded item distributed to all attendees featuring both the Write 
 
 Sponsor branding at the Sunday pre-conference Welcome Reception, including a hosted dessert offering for attendees.
 
-**Time:** 5:00–7:00 PM, Sunday
-**Location:** Conference venue
+- **Time:** 5:00–7:00 PM, Sunday
+- **Location:** Conference venue
 
 ### What Write the Docs Provides
 
@@ -116,8 +116,8 @@ All signage is designed and produced by Write the Docs.
 
 Sponsor branding at the Monday evening party. Includes branded bar menu and entrance signage, with optional add-ons.
 
-**Time:** 7:00–9:00 PM, Monday
-**Location:** Jupiter NEXT (900 E Burnside St, 2nd floor)
+- **Time:** 7:00–9:00 PM, Monday
+- **Location:** Jupiter NEXT (900 E Burnside St, 2nd floor)
 
 ### What Write the Docs Provides
 
@@ -135,8 +135,8 @@ Sponsor branding at the Monday evening party. Includes branded bar menu and entr
 
 Sponsor branding at Writing Day, the opening day of the conference where attendees collaborate on documentation projects. Writing Day draws about one third of total conference attendance.
 
-**Time:** 9:00 AM – 5:00 PM, Sunday
-**Location:** Conference venue
+- **Time:** 9:00 AM – 5:00 PM, Sunday
+- **Location:** Conference venue
 
 ### What Write the Docs Provides
 
@@ -152,8 +152,8 @@ All signage is designed and produced by Write the Docs.
 
 Sponsor branding for the Unconference track, which runs in parallel with speaker talks on Monday and Tuesday. Attendee-led sessions on topics ranging from tooling to career development.
 
-**Time:** 9:00 AM – 5:00 PM, Monday and Tuesday
-**Location:** Unconference rooms at the venue
+- **Time:** 9:00 AM – 5:00 PM, Monday and Tuesday
+- **Location:** Unconference rooms at the venue
 
 ### What Write the Docs Provides
 
