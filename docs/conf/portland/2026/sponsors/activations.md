@@ -9,6 +9,104 @@ orphan: true
 
 In addition to our [standard sponsorship packages](/conf/{{shortcode}}/{{year}}/sponsors/prospectus/), we offer activation opportunities that give sponsors a more experiential presence at the conference. All activations can be customized — reach out to <sponsorship@writethedocs.org> to discuss.
 
+**Activations:**
+
+- [Writing Day Sponsorship](#writing-day-sponsorship)
+- [Unconference Sponsorship](#unconference-sponsorship)
+- [Sunday Welcome Reception Sponsorship](#sunday-welcome-reception-sponsorship)
+- [Monday Evening Social Sponsorship](#monday-evening-social-sponsorship)
+- [Martha's Takeover](#marthas-takeover)
+- [Attendee Lounge](#attendee-lounge)
+- [Professional Headshot Booth](#professional-headshot-booth)
+- [Co-Branded Swag](#co-branded-swag)
+
+---
+
+## Writing Day Sponsorship
+
+Sponsor branding at Writing Day, the opening day of the conference where attendees collaborate on documentation projects. Writing Day draws about one third of total conference attendance.
+
+- **Time:** 9:00 AM – 5:00 PM, Sunday
+- **Location:** Conference venue
+
+### What Write the Docs Provides
+
+- Entrance signage with sponsor logo
+- Sponsor logo on Writing Day program materials
+- Acknowledgment during Writing Day opening remarks
+- Table for sponsor collateral
+
+### What the Sponsor Provides
+
+- Stickers, flyers, or other small collateral for the table
+
+All signage is designed and produced by Write the Docs.
+
+---
+
+## Unconference Sponsorship
+
+Sponsor branding for the Unconference track, which runs in parallel with speaker talks on Monday and Tuesday. Attendee-led sessions on topics ranging from tooling to career development.
+
+- **Time:** 9:00 AM – 5:00 PM, Monday and Tuesday
+- **Location:** Unconference rooms at the venue
+
+### What Write the Docs Provides
+
+- Signage at Unconference room entrances with sponsor logo
+- Sponsor logo on Unconference schedule board
+- Acknowledgment during Unconference introduction remarks
+- Table for sponsor collateral
+
+### What the Sponsor Provides
+
+- Stickers, flyers, or other small collateral for the table
+
+All signage is designed and produced by Write the Docs.
+
+---
+
+## Sunday Welcome Reception Sponsorship
+
+Sponsor branding at the Sunday pre-conference Welcome Reception.
+
+- **Time:** 5:00–7:00 PM, Sunday
+- **Location:** Conference venue
+
+### What Write the Docs Provides
+
+- Entrance and event signage with sponsor logo
+- Table for sponsor collateral
+
+### What the Sponsor Provides
+
+- Stickers, flyers, or other small collateral for the table
+
+All signage is designed and produced by Write the Docs.
+
+---
+
+## Monday Evening Social Sponsorship
+
+Sponsor branding at the Monday evening party, including branded bar menu and entrance signage.
+
+- **Time:** 7:00–9:00 PM, Monday
+- **Location:** Jupiter NEXT (900 E Burnside St, 2nd floor)
+
+### What Write the Docs Provides
+
+- Branded bar menu with sponsor logo
+- Entrance signage with sponsor logo
+- Table for sponsor collateral
+
+### What the Sponsor Provides
+
+- Stickers, flyers, or other small collateral for the table
+
+All signage is designed and produced by Write the Docs.
+
+---
+
 ## Martha's Takeover
 
 A sponsor takeover of the Martha's coffee shop space during the morning unconference block. Attendees get free handcrafted beverages (espresso, matcha, or other specialty drinks), and the sponsor hosts short discussion sessions in the space. This activation overlaps with the morning coffee break.
@@ -93,91 +191,6 @@ A useful, co-branded item distributed to all attendees featuring both the Write 
 
 - Approval of swag item proof before production (4 weeks before event)
 - Additional swag items for distribution (optional, coordinate with WTD)
-
----
-
-## Sunday Welcome Reception Sponsorship
-
-Sponsor branding at the Sunday pre-conference Welcome Reception.
-
-- **Time:** 5:00–7:00 PM, Sunday
-- **Location:** Conference venue
-
-### What Write the Docs Provides
-
-- Entrance and event signage with sponsor logo
-- Table for sponsor collateral
-
-### What the Sponsor Provides
-
-- Stickers, flyers, or other small collateral for the table
-
-All signage is designed and produced by Write the Docs.
-
----
-
-## Monday Evening Social Sponsorship
-
-Sponsor branding at the Monday evening party, including branded bar menu and entrance signage.
-
-- **Time:** 7:00–9:00 PM, Monday
-- **Location:** Jupiter NEXT (900 E Burnside St, 2nd floor)
-
-### What Write the Docs Provides
-
-- Branded bar menu with sponsor logo
-- Entrance signage with sponsor logo
-- Table for sponsor collateral
-
-### What the Sponsor Provides
-
-- Stickers, flyers, or other small collateral for the table
-
-All signage is designed and produced by Write the Docs.
-
----
-
-## Writing Day Sponsorship
-
-Sponsor branding at Writing Day, the opening day of the conference where attendees collaborate on documentation projects. Writing Day draws about one third of total conference attendance.
-
-- **Time:** 9:00 AM – 5:00 PM, Sunday
-- **Location:** Conference venue
-
-### What Write the Docs Provides
-
-- Entrance signage with sponsor logo
-- Sponsor logo on Writing Day program materials
-- Acknowledgment during Writing Day opening remarks
-- Table for sponsor collateral
-
-### What the Sponsor Provides
-
-- Stickers, flyers, or other small collateral for the table
-
-All signage is designed and produced by Write the Docs.
-
----
-
-## Unconference Sponsorship
-
-Sponsor branding for the Unconference track, which runs in parallel with speaker talks on Monday and Tuesday. Attendee-led sessions on topics ranging from tooling to career development.
-
-- **Time:** 9:00 AM – 5:00 PM, Monday and Tuesday
-- **Location:** Unconference rooms at the venue
-
-### What Write the Docs Provides
-
-- Signage at Unconference room entrances with sponsor logo
-- Sponsor logo on Unconference schedule board
-- Acknowledgment during Unconference introduction remarks
-- Table for sponsor collateral
-
-### What the Sponsor Provides
-
-- Stickers, flyers, or other small collateral for the table
-
-All signage is designed and produced by Write the Docs.
 
 ---
 
