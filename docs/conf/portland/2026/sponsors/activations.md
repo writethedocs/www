@@ -98,19 +98,19 @@ A useful, co-branded item distributed to all attendees featuring both the Write 
 
 ## Sunday Welcome Reception Sponsorship
 
-Sponsor branding at the Sunday pre-conference Welcome Reception, including a branded dessert offering for attendees.
+Sponsor branding at the Sunday pre-conference Welcome Reception.
 
 - **Time:** 5:00–7:00 PM, Sunday
 - **Location:** Conference venue
 
 ### What Write the Docs Provides
 
-- Entrance, dessert station, and "Hosted by [Sponsor]" signage with sponsor logo
-- Branded dessert vendor and service (e.g., ice cream booth)
+- Entrance and event signage with sponsor logo
+- Table for sponsor collateral
 
 ### What the Sponsor Provides
 
-- Table for stickers, flyers, or other collateral
+- Stickers, flyers, or other small collateral for the table
 
 All signage is designed and produced by Write the Docs.
 
@@ -118,7 +118,7 @@ All signage is designed and produced by Write the Docs.
 
 ## Monday Evening Social Sponsorship
 
-Sponsor branding at the Monday evening party, including branded bar menu, entrance signage, and a branded dessert offering.
+Sponsor branding at the Monday evening party, including branded bar menu and entrance signage.
 
 - **Time:** 7:00–9:00 PM, Monday
 - **Location:** Jupiter NEXT (900 E Burnside St, 2nd floor)
@@ -127,11 +127,11 @@ Sponsor branding at the Monday evening party, including branded bar menu, entran
 
 - Branded bar menu with sponsor logo
 - Entrance signage with sponsor logo
-- Branded dessert vendor and service
+- Table for sponsor collateral
 
 ### What the Sponsor Provides
 
-- Table for stickers, flyers, or other collateral
+- Stickers, flyers, or other small collateral for the table
 
 All signage is designed and produced by Write the Docs.
 
@@ -149,10 +149,11 @@ Sponsor branding at Writing Day, the opening day of the conference where attende
 - Entrance signage with sponsor logo
 - Sponsor logo on Writing Day program materials
 - Acknowledgment during Writing Day opening remarks
+- Table for sponsor collateral
 
 ### What the Sponsor Provides
 
-- Table for stickers, flyers, or other collateral
+- Stickers, flyers, or other small collateral for the table
 
 All signage is designed and produced by Write the Docs.
 
@@ -170,10 +171,11 @@ Sponsor branding for the Unconference track, which runs in parallel with speaker
 - Signage at Unconference room entrances with sponsor logo
 - Sponsor logo on Unconference schedule board
 - Acknowledgment during Unconference introduction remarks
+- Table for sponsor collateral
 
 ### What the Sponsor Provides
 
-- Table for stickers, flyers, or other collateral
+- Stickers, flyers, or other small collateral for the table
 
 All signage is designed and produced by Write the Docs.
 
