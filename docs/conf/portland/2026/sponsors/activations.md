@@ -9,16 +9,10 @@ orphan: true
 
 In addition to our [standard sponsorship packages](/conf/{{shortcode}}/{{year}}/sponsors/prospectus/), we offer activation opportunities that give sponsors a more experiential presence at the conference. All activations can be customized — reach out to <sponsorship@writethedocs.org> to discuss.
 
-**Activations:**
-
-- [Writing Day Sponsorship](#writing-day-sponsorship)
-- [Unconference Sponsorship](#unconference-sponsorship)
-- [Sunday Welcome Reception Sponsorship](#sunday-welcome-reception-sponsorship)
-- [Monday Evening Social Sponsorship](#monday-evening-social-sponsorship)
-- [Martha's Takeover](#marthas-takeover)
-- [Attendee Lounge](#attendee-lounge)
-- [Professional Headshot Booth](#professional-headshot-booth)
-- [Co-Branded Swag](#co-branded-swag)
+```{contents}
+:local:
+:depth: 1
+```
 
 ---
 
