@@ -9,7 +9,7 @@ docs/conf/portland/ @ericholscher
 docs/conf/berlin/ @mxsasha @plaindocs
 
 # Australia conference
-docs/conf/australia/ @swapnilogale
+docs/conf/australia/ @swapnilogale @ericholscher
 
 # Newsletter
 docs/blog/newsletter-* @CollierCZ 
