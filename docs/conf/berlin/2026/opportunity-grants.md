@@ -77,6 +77,10 @@ You do not have to tell us which underrepresented group(s) you belong to.
 
 **Note:** Grant applications will be seen only by the conference team, and we will never publish grant applications or publicly name grant recipients. You are of course free to share if you applied or received a grant yourself.
 
+{% if grants.url %}
 <iframe src="{{ grants.url }}?embedded=true" width="760" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 You can also view [the application form]({{ grants.url }}) in its own page.
+{% else %}
+Grant applications are not yet open. Check back closer to the conference.
+{% endif %}
