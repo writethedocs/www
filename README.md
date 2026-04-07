@@ -16,24 +16,9 @@ For conferences, see [the conference site documentation](https://www.writethedoc
 
 ### Prerequisites for generating the docs locally
 
-1. Install `python 3.9.x` using your package manager, if not installed already. You'll probably need `root` privileges to do this.
+1. Install [uv](https://docs.astral.sh/uv/getting-started/installation/) (Python package manager).
 
-2. Generate a virtual environment for the WTD repo in the `venv` directory:
-
-    `virtualenv --python=/usr/bin/python3.9 venv`
-
-### Installing the project requirements
-
-1. Activate the virtual environment as per your operating system:
-
-    * On Linux-based systems, run `source venv/bin/activate`.
-    * On Windows using the Command Prompt, run `venv\Scripts\activate.bat`.
-    * On Windows using PowerShell, run `. venv\Scripts\activate.ps1`.
-    * On Windows using Git Bash, run `source venv\Scripts\activate`.
-
-    You'll need to do this every time you come back to the project.
-
-2. In the repository root directory (`www` by default), run `pip install -r requirements.txt` to install sphinx and other requirements.
+2. In the repository root directory (`www` by default), run `uv sync` to install Python 3.12 and all dependencies.
 
 ### Previewing the docs locally
 
@@ -58,15 +43,6 @@ npm install -g sass
 ```
 sass --style=compressed docs/_static/conf/scss/main-2022.scss docs/_static/conf/css/main-2022.min.css
 ```
-
-### Deactivating venv
-
-After your work is complete, you can save resources by deactivating the
-virtual Python environment with the following command on Linux:
-
-`deactivate`
-
-If you have verified this command on Windows, we invite you to submit a PR to include that information here.
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/writethedocs/www.svg)](https://greenkeeper.io/)
 

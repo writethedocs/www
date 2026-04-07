@@ -15,7 +15,7 @@ All build commands run from the `docs/` directory using `make` (not raw `sphinx-
 - **Clean build:** `cd docs && make clean && make html`
 - **Compile SCSS:** `sass --style=compressed --no-source-map docs/_static/conf/scss/main-YYYY.scss docs/_static/conf/css/main-YYYY.min.css`
 
-Python 3.9 is required. Dependencies: `pip install -r requirements.txt`
+Python 3.12 is required. Dependencies: `uv sync`
 
 ## CI Checks (GitHub Actions)
 

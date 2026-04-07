@@ -114,7 +114,7 @@ docs/
 ## Build System Notes
 
 ### Prerequisites
-1. Python dependencies: Install from `requirements.txt`
+1. Python dependencies: `uv sync`
 2. SASS compiler: `npm install -g sass`
 
 ### Build Commands

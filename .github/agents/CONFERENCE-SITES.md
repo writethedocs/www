@@ -391,7 +391,7 @@ sponsors:
 #### Local Development
 ```bash
 # Install dependencies
-pip install -r requirements.txt
+uv sync
 
 # Build HTML
 cd docs
