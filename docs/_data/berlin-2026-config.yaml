@@ -5,7 +5,7 @@ city: Berlin
 local_area: Germany
 area: Europe # European Australian
 area_adj: European
-tz: CET
+tz: CEST
 email: berlin@writethedocs.org
 color: gold
 rgb: 253,185,19
