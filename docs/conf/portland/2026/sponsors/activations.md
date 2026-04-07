@@ -35,8 +35,6 @@ Sponsor branding at Writing Day, the opening day of the conference where attende
 
 - Stickers, flyers, or other small collateral for the table
 
-All signage is designed and produced by Write the Docs.
-
 ---
 
 ## Unconference Sponsorship
@@ -56,8 +54,6 @@ Sponsor branding for the Unconference track, which runs in parallel with speaker
 ### What the Sponsor Provides
 
 - Stickers, flyers, or other small collateral for the table
-
-All signage is designed and produced by Write the Docs.
 
 ---
 
@@ -80,8 +76,6 @@ This sponsorship can be combined with a [Branded Food & Dessert Station](#brande
 ### What the Sponsor Provides
 
 - Stickers, flyers, or other small collateral for the table
-
-All signage is designed and produced by Write the Docs.
 
 ---
 
@@ -106,8 +100,6 @@ This sponsorship can be combined with a [Branded Food & Dessert Station](#brande
 
 - Stickers, flyers, or other small collateral for the table
 
-All signage is designed and produced by Write the Docs.
-
 ---
 
 ## Branded Food & Dessert Station
@@ -122,8 +114,6 @@ An optional add-on for social event sponsorships. A branded food or dessert stat
 - Food or dessert vendor and service
 - Dessert station signage with sponsor logo
 - "Hosted by [Sponsor]" signage with sponsor logo
-
-All signage is designed and produced by Write the Docs.
 
 ---
 
