@@ -17,7 +17,7 @@ Write the Docs Portland is officially just under one month away on May 3-5! Whet
 
 This year, we're excited to be taking over the Martha's Coffee Shop space. This room will provide much-needed extra space for our Writing Day and Unconference. We've heard your feedback about the noise in the unconference – Martha's gives us room to breathe and have more focused conversations.
 
-The coffee shop will be closed, but Monday and Tuesday morning, a sponsor will be hosting drinks and discussions. There will be complimentary espresso, matcha, and discussions in the new space ☕✨. Stay tuned for times and details.
+The coffee shop will be closed, but Monday and Tuesday morning, sponsors will be hosting drinks and discussions. There will be complimentary espresso, matcha, and discussions in the new space ☕✨. Stay tuned for times and details -- and thanks to [Promptless](https://promptless.ai/?ref=writethedocs) and [Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral) for helping make that happen this year.
 
 ## Buy Your Tickets
 
