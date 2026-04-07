@@ -72,6 +72,7 @@ Sponsor branding at the Sunday pre-conference Welcome Reception.
 
 - Entrance and event signage with sponsor logo
 - Table for sponsor collateral
+- Branded food or dessert station (optional, e.g., ice cream booth)
 
 ### What the Sponsor Provides
 
@@ -93,6 +94,7 @@ Sponsor branding at the Monday evening party, including branded bar menu and ent
 - Branded bar menu with sponsor logo
 - Entrance signage with sponsor logo
 - Table for sponsor collateral
+- Branded food or dessert station (optional)
 
 ### What the Sponsor Provides
 
