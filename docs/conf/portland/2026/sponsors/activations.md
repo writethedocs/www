@@ -59,7 +59,7 @@ Sponsor branding for the Unconference track, which runs in parallel with speaker
 
 ## Sunday Welcome Reception Sponsorship
 
-Sponsor branding at the Sunday pre-conference Welcome Reception.
+Sponsor branding at the Sunday pre-conference Welcome Reception. Can be combined with a [Branded Food & Dessert Station](#branded-food--dessert-station) for additional presence and signage.
 
 - **Time:** 5:00–7:00 PM, Sunday
 - **Location:** Conference venue
@@ -69,10 +69,6 @@ Sponsor branding at the Sunday pre-conference Welcome Reception.
 - Entrance and event signage with sponsor logo
 - Table for sponsor collateral
 
-```{note}
-This sponsorship can be combined with a [Branded Food & Dessert Station](#branded-food--dessert-station) for additional presence and signage.
-```
-
 ### What the Sponsor Provides
 
 - Stickers, flyers, or other small collateral for the table
@@ -81,7 +77,7 @@ This sponsorship can be combined with a [Branded Food & Dessert Station](#brande
 
 ## Monday Evening Social Sponsorship
 
-Sponsor branding at the Monday evening party, including branded bar menu and entrance signage.
+Sponsor branding at the Monday evening party, including branded bar menu and entrance signage. Can be combined with a [Branded Food & Dessert Station](#branded-food--dessert-station) for additional presence and signage.
 
 - **Time:** 7:00–9:00 PM, Monday
 - **Location:** Jupiter NEXT (900 E Burnside St, 2nd floor)
@@ -91,10 +87,6 @@ Sponsor branding at the Monday evening party, including branded bar menu and ent
 - Branded bar menu with sponsor logo
 - Entrance signage with sponsor logo
 - Table for sponsor collateral
-
-```{note}
-This sponsorship can be combined with a [Branded Food & Dessert Station](#branded-food--dessert-station) for additional presence and signage.
-```
 
 ### What the Sponsor Provides
 
