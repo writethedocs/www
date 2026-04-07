@@ -62,17 +62,17 @@ buttons:
 
 tickets:
   concierge:
-    price: €575
+    price: €590
   corporate:
-    price: €475
+    price: €490
   independent:
-    price: €275
+    price: €290
   student:
     price: €75
   virtual_corporate:
-    price: €140
+    price: €155
   virtual_independent:
-    price: €75
+    price: €85
   virtual_student:
     price: €30
 
