@@ -164,7 +164,7 @@ Call for Proposal ends
 **{{cfp.speaker_tickets_by}}**
 Register for speaker ticket (with dietary preferences, hoodie size, etc.)
 
-**April 9, 2026**
+**{{cfp.speaker_tickets_by}}**
 Upload date for recorded talks (remote speakers)
 
 **{{cfp.notification}}**

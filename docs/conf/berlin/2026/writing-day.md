@@ -28,6 +28,7 @@ More details are below. No additional sign up is required, and the full schedule
 **{{date.day_one.dotw}}, {{date.day_one.date}}, {{date.day_one.writing_day_time}} {{tz}}**
 
 Writing Day is an all-day event designed for you to join in throughout the day.
+We are trying out some new ideas in our Portland conference, and might make new changes to the structure.
 
 - **Morning Session**
   - Welcome and overview
