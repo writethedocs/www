@@ -1,6 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
+banner: _static/conf/images/headers/2026/registration.jpg
 ---
 
 ```{eval-rst}
@@ -11,6 +12,12 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 # 26 Days Until Write the Docs Portland
 
 Write the Docs Portland is officially just under one month away on May 3-5! Whether you're a programmer, tech writer, designer, project manager, or developer advocate, we have talks and a community for you at Write the Docs Portland.
+
+## New in 2026
+
+This year, we're excited to be taking over the Martha's Coffee Shop space. This room will provide much-needed extra space for our Writing Day and Unconference. We've heard your feedback about the noise in the unconference – Martha's gives us room to breathe and have more focused conversations.
+
+The coffee shop will be closed, but Monday and Tuesday morning, a sponsor will be hosting drinks and discussions. There will be complimentary espresso, matcha, and discussions in the new space ☕✨. Stay tuned for times and details.
 
 ## Buy Your Tickets
 
@@ -68,8 +75,6 @@ Online project submission is optional, and we have several day-of project submis
 </tr>
 </table>
 </div>
-
-![Speaker Q&A](/_static/conf/images/headers/Speaker-Photo-2.jpg)
 
 ## How Do I Participate in the Conference? 
 
