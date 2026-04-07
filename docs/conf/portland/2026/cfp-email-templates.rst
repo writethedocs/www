@@ -170,7 +170,7 @@ Subject:
 
    Next week I'll send over a provisional schedule, and if having a particular slot would make it easier to attend the Q&A, let me know and I'll see what I can do.
 
-   And while we're here, ;-) if you don't have a profile picture set in [Pretalx](https://pretalx.com/write-the-docs-{{shortcode}}-{{year}}/login/), now would be a great time to add one.
+   And while we're here, ;-) if you don't have a profile picture set in [Pretalx](https://pretalx.com/wtd-{{shortcode}}-{{year}}/login/), now would be a great time to add one.
 
    And I think that is it! I'm excited to see this taking shape and excited to see all of your hard work on the virtual stage!
 
