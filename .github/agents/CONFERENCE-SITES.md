@@ -50,8 +50,7 @@ docs/
 │
 ├── _ext/                           # Sphinx extensions
 │   ├── core.py                    # Core functionality
-│   ├── filters.py                 # Jinja filters
-│   └── videos.py                  # Video handling
+│   └── filters.py                 # Jinja filters
 │
 └── conf.py                         # Sphinx configuration
 
@@ -410,8 +409,6 @@ python3 -m http.server 8888
 #### Common Build Commands
 - `make html` - Full build
 - `make clean` - Clean build artifacts
-- `BUILD_VIDEOS=True make html` - Build with video pages
-
 ### 9. Feature Flags
 
 Feature flags in config control what's displayed:
@@ -457,12 +454,6 @@ flagcancelled: false      # Conference cancelled
 2. Update button links in config
 3. Add news post announcing changes
 4. Rebuild site
-
-#### Publishing Talk Videos
-1. Add `youtubeId` to sessions YAML
-2. Ensure videos directory in toctree
-3. Build with `BUILD_VIDEOS=True make html`
-4. Commit video pages and updated data
 
 #### Fixing Styling Issues
 1. Edit `docs/_static/conf/scss/main-[year].scss`

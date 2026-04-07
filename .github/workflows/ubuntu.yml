@@ -9,7 +9,6 @@ on:
   workflow_dispatch:
 
 env:
-  BUILD_VIDEOS: true
   NOKOGIRI_USE_SYSTEM_LIBRARIES: true  # for faster htmlproofer install
 
 

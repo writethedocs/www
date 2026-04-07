@@ -1,13 +1,6 @@
 Video Archive
 =============
 
-.. toctree::
-   :glob:
-   :maxdepth: 1
+We no longer host the video archive on this site.
 
-   au/*/index
-   australia/*/index
-   eu/*/index
-   na/*/index
-   portland/*/index
-   prague/*/index
+Watch all Write the Docs talks on our `YouTube channel <https://www.youtube.com/c/WritetheDocs>`_.

@@ -8,10 +8,6 @@ on:
 
   workflow_dispatch:
 
-env:
-  BUILD_VIDEOS: true
-
-
 jobs:
   sphinx-windows:
     runs-on: windows-latest

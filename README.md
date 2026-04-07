@@ -14,28 +14,6 @@ All RST files are rendered with [Jinja](https://jinja.palletsprojects.com/), whi
 
 For conferences, see [the conference site documentation](https://www.writethedocs.org/organizer-guide/confs/website/).
 
-### Videos
-
-An even more fragile process that needs documenting and fixing. Note specifically `if year > 2023:` around line 134 of `docs/_ext/videos.py`.
-
-WIP (Work In Progress) Docs on how to do this:
-
-1. In `_data/<city>-<year>-sessions.yaml`, add a `youtubeId: 12345678901` key value pair to each talk. See also `_scripts/insert-video-ids.py`.
-
-2. Make sure the directory `videos/<city>/<year>` is included in the Video Archive `toctree` in `docs/videos/index.rst`.
-
-3. In the [virtual environment](#prerequisites-for-generating-the-docs-locally), switch to the `docs` directory and run `BUILD_VIDEOS=True make html`.
-
-4. Commit the *relevant* changed files:
-
-   * `docs/videos/index.rst`
-   * `_data/<city>-<year>-sessions.yaml`
-   * `docs/videos/<city>/<year>/*`
-
-5. If you want to preview locally:
-
-    1. Run `BUILD_VIDEOS=True make livehtml` and browse the new video pages at `http://127.0.0.1:8888`.
-
 ### Prerequisites for generating the docs locally
 
 1. Install `python 3.9.x` using your package manager, if not installed already. You'll probably need `root` privileges to do this.

@@ -41,8 +41,8 @@ As they're often the first thing people see about a code project, READMEs are pr
 
 * `Art of README <https://github.com/noffle/art-of-readme>`_
 * `Standard README <https://github.com/RichardLitt/standard-readme/>`_
-* `Write the Readable README </videos/na/2016/write-the-readable-readme-daniel-beck/>`_ (Daniel Beck @ Write the Docs NA 2016), and Daniel's `README checklist <https://github.com/ddbeck/readme-checklist>`_
-* `Hi, my name is README! </videos/eu/2017/hi-my-name-is-readme-raphael-pierzina/>`_ (Raphael Pierzina @ Write the Docs EU 2017)
+* `Write the Readable README <https://www.youtube.com/watch?v=2dAK42B7qtw>`_ (Daniel Beck @ Write the Docs NA 2016), and Daniel's `README checklist <https://github.com/ddbeck/readme-checklist>`_
+* `Hi, my name is README! <https://www.youtube.com/watch?v=0z0jquYos90>`_ (Raphael Pierzina @ Write the Docs EU 2017)
 * `Ten Steps to a Better README <https://www.youtube.com/watch?v=PC05prd2usY>`_ (Mike Jang @ Ignite OSCON 2015)
 * `Developer Experience: GitHub READMEs <https://betta.io/blog/2017/02/07/developer-experience-github-readmes/>`_ (Cristlano Betta's blog post)
 * `READMEs and doc-driven development </blog/newsletter-august-2017/#readmes-and-doc-driven-development>`_ (August 2017 WTD newsletter)
