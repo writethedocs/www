@@ -26,12 +26,12 @@ photos:
 
 buttons:
   top:
-    - text: Conference announcement
-      link: /news/welcome
+#    - text: Conference announcement
+#      link: /news/welcome
     - text: Sponsor us
       link: /sponsors/prospectus
-    # - text: Submit a Talk
-    #   link: /cfp
+    - text: Submit a Talk
+      link: /cfp
     # - text: See the Schedule
     #   link: /schedule
     # - text: See the Speakers
@@ -43,12 +43,12 @@ buttons:
     # - text: Watch the Live Stream
     #   link: /livestream
   bottom:
-    - text: Conference announcement
-      link: /news/welcome
+#    - text: Conference announcement
+#      link: /news/welcome
     - text: Sponsor us
       link: /sponsors/prospectus
-    # - text: Submit a Talk
-    #   link: /cfp
+    - text: Submit a Talk
+      link: /cfp
     # - text: Buy a Ticket
     #   link: /tickets
     # - text: See the Schedule
