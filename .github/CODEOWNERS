@@ -2,7 +2,8 @@
 # https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
 
 # Portland conference
-docs/conf/portland/news/ @ericholscher @plaindocs @janine-c
+docs/conf/portland/news/ @ericholscher @janine-c
+docs/conf/portland/ @ericholscher @plaindocs
 
 # Berlin conference
 docs/conf/berlin/ @mxsasha @plaindocs
