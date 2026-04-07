@@ -9,9 +9,10 @@ orphan: true
 
 In addition to our [standard sponsorship packages](/conf/{{shortcode}}/{{year}}/sponsors/prospectus/), we offer activation opportunities that give sponsors a more experiential presence at the conference. All activations can be customized — reach out to <sponsorship@writethedocs.org> to discuss.
 
-```{contents}
+```{contents} Activations
 :local:
 :depth: 1
+:backlinks: none
 ```
 
 ---
