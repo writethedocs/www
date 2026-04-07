@@ -72,7 +72,8 @@ Sponsor branding at the Sunday pre-conference Welcome Reception.
 
 - Entrance and event signage with sponsor logo
 - Table for sponsor collateral
-- Branded food or dessert station (optional, e.g., ice cream booth)
+
+Can be combined with a [Branded Food & Dessert Station](#branded-food--dessert-station) for additional presence.
 
 ### What the Sponsor Provides
 
@@ -94,11 +95,29 @@ Sponsor branding at the Monday evening party, including branded bar menu and ent
 - Branded bar menu with sponsor logo
 - Entrance signage with sponsor logo
 - Table for sponsor collateral
-- Branded food or dessert station (optional)
+
+Can be combined with a [Branded Food & Dessert Station](#branded-food--dessert-station) for additional presence.
 
 ### What the Sponsor Provides
 
 - Stickers, flyers, or other small collateral for the table
+
+All signage is designed and produced by Write the Docs.
+
+---
+
+## Branded Food & Dessert Station
+
+An optional add-on for social event sponsorships. A branded food or dessert station (e.g., ice cream booth) at the Sunday Welcome Reception or Monday Evening Social, with dedicated signage featuring the sponsor logo.
+
+- **Time:** During the sponsored social event
+- **Location:** Social event venue
+
+### What Write the Docs Provides
+
+- Food or dessert vendor and service
+- Dessert station signage with sponsor logo
+- "Hosted by [Sponsor]" signage with sponsor logo
 
 All signage is designed and produced by Write the Docs.
 
