@@ -60,7 +60,7 @@ For the Portland 2026 conference page, the fix was applied to `docs/_static/conf
 4. **Rebuild and verify**:
    ```bash
    cd docs
-   make html
+   uv run make html
    ```
 
 5. **View the changes**: Start a local server to view the rendered page:
@@ -120,10 +120,10 @@ docs/
 ### Build Commands
 ```bash
 # Full build
-cd docs && make html
+cd docs && uv run make html
 
-# Build with live reload (if sphinx-autobuild is installed)
-cd docs && make livehtml
+# Build with live reload
+cd docs && uv run make livehtml
 ```
 
 ## Troubleshooting

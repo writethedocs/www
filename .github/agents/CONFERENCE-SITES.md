@@ -395,10 +395,10 @@ uv sync
 
 # Build HTML
 cd docs
-make html
+uv run make html
 
 # Build with live reload
-make livehtml  # Opens on http://localhost:8888
+uv run make livehtml  # Opens on http://localhost:8888
 
 # View built site
 cd _build/html
@@ -407,7 +407,7 @@ python3 -m http.server 8888
 ```
 
 #### Common Build Commands
-- `make html` - Full build
+- `uv run make html` - Full build
 - `make clean` - Clean build artifacts
 ### 9. Feature Flags
 
@@ -499,7 +499,7 @@ Examples:
 #### Config Values Not Showing
 - Verify config file name: `[city]-[year]-config.yaml`
 - Check YAML syntax (indentation matters)
-- Rebuild: `make clean && make html`
+- Rebuild: `make clean && uv run make html`
 
 #### News Posts Not Appearing
 - Check `.. post::` directive has date
@@ -550,7 +550,7 @@ sass main-2026.scss ../css/main-2026.min.css --style=compressed --no-source-map
 **Build site:**
 ```bash
 cd docs
-make html
+uv run make html
 ```
 
 **Test locally:**
@@ -570,7 +570,7 @@ When working on conference sites:
 3. **Find page files**: `docs/conf/[city]/[year]/`
 4. **Check template**: Look for `:template:` directive in RST
 5. **For styling**: Edit SCSS, compile to CSS, test in browser
-6. **For content**: Edit RST files, rebuild with `make html`
+6. **For content**: Edit RST files, rebuild with `uv run make html`
 7. **Always commit**: Both source files (SCSS/RST) and generated files (CSS/HTML)
 
 **Common Patterns:**

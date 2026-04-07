@@ -10,9 +10,9 @@ This is the source for [www.writethedocs.org](https://www.writethedocs.org), the
 
 All build commands run from the `docs/` directory using `make` (not raw `sphinx-build`):
 
-- **Build site:** `cd docs && make html`
-- **Live preview:** `cd docs && make livehtml` (serves at http://127.0.0.1:8888)
-- **Clean build:** `cd docs && make clean && make html`
+- **Build site:** `cd docs && uv run make html`
+- **Live preview:** `cd docs && uv run make livehtml` (serves at http://127.0.0.1:8888)
+- **Clean build:** `cd docs && make clean && uv run make html`
 - **Compile SCSS:** `sass --style=compressed --no-source-map docs/_static/conf/scss/main-YYYY.scss docs/_static/conf/css/main-YYYY.min.css`
 
 Python 3.12 is required. Dependencies: `uv sync`

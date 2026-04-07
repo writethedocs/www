@@ -24,9 +24,9 @@ For conferences, see [the conference site documentation](https://www.writethedoc
 
 > Remember to activate the virtual environment using the appropriate command for your OS and Shell before running the following commands.
 
-1. In the `docs` directory, run `make livehtml` to view the docs on <http://127.0.0.1:8888/>.
+1. In the `docs` directory, run `uv run make livehtml` to view the docs on <http://127.0.0.1:8888/>.
 
-If you're not seeing new content in the local preview, run `make clean` to delete the generated files, then `make livehtml` to regenerate them.
+If you're not seeing new content in the local preview, run `make clean` to delete the generated files, then `uv run make livehtml` to regenerate them.
 
 The Write the Docs website is hosted on [Read the Docs](https://readthedocs.org/projects/writethedocs-www).
 
