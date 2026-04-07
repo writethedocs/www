@@ -151,11 +151,22 @@ primary_domain = None
 html_theme = 'alabaster'
 html_theme_options = {
     'logo': 'sticker-wtd-colors.png',
+    'logo_name': True,
+    'logo_text_align': 'center',
     'sidebar_includehidden': False,
     'github_user': 'writethedocs',
     'github_repo': 'www',
     'github_banner': False,
     'github_button': False,
+    'body_text': '#333',
+    'sidebar_text': '#555',
+    'sidebar_link': '#3366cc',
+    'link': '#3366cc',
+    'link_hover': '#1a4d99',
+    'sidebar_width': '260px',
+    'page_width': '1080px',
+    'font_size': '17px',
+    'sidebar_header': '#333',
 }
 
 html_favicon = '_static/favicon/favicon-96x96.png'
@@ -164,12 +175,10 @@ html_static_path = ['_static']
 html_copy_source = False
 html_sidebars = {
     '**': [
-        'about.html',
-        'ablog/postcard.html',
-        'info.html',
         'searchbox.html',
+        'community-info.html',
+        'ablog/postcard.html',
         'navigation.html',
-        # 'relations.html',
     ]
 }
 

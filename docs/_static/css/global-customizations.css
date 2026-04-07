@@ -290,3 +290,166 @@ div.body {
     color: #fff;
     text-decoration: underline;
 }
+
+/* =============================================
+   Community Site Redesign — Quick Wins
+   ============================================= */
+
+/* Better body typography */
+div.body p,
+div.body li,
+div.body dd {
+    line-height: 1.7;
+}
+
+div.body h1 {
+    font-size: 2em;
+    margin-bottom: 0.6em;
+    color: #222;
+    border-bottom: 2px solid #e8e8e8;
+    padding-bottom: 0.3em;
+}
+
+div.body h2 {
+    font-size: 1.5em;
+    margin-top: 1.5em;
+    color: #333;
+}
+
+div.body h3 {
+    font-size: 1.2em;
+    color: #444;
+}
+
+/* Content area breathing room */
+div.body {
+    padding: 0 10px 30px 10px;
+}
+
+/* Sidebar section styling */
+div.sphinxsidebarwrapper {
+    padding: 15px 12px;
+}
+
+div.sphinxsidebarwrapper > div,
+div.sphinxsidebarwrapper > .community-info-box,
+div.sphinxsidebarwrapper > .sidebar-newsletter {
+    background: #f8f9fa;
+    border-radius: 6px;
+    padding: 14px 16px;
+    margin-bottom: 16px;
+}
+
+div.sphinxsidebar h3 {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-top: 0;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+/* Community info box in sidebar */
+.community-info-box p {
+    font-size: 13px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+ul.community-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul.community-links li {
+    padding: 5px 0;
+    border-bottom: 1px solid #eee;
+}
+
+ul.community-links li:last-child {
+    border-bottom: none;
+}
+
+ul.community-links a {
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+ul.community-links a:hover {
+    text-decoration: underline;
+}
+
+/* Newsletter sidebar section */
+.sidebar-newsletter {
+    text-align: center;
+}
+
+.sidebar-newsletter p {
+    font-size: 13px;
+    line-height: 1.5;
+    margin-bottom: 12px;
+}
+
+a.newsletter-btn {
+    display: inline-block;
+    background: #3366cc;
+    color: #fff !important;
+    padding: 8px 18px;
+    border-radius: 4px;
+    font-size: 13px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background 0.2s;
+}
+
+a.newsletter-btn:hover {
+    background: #1a4d99;
+    text-decoration: none;
+    color: #fff !important;
+}
+
+/* Toctree cleanup */
+#toc ul {
+    padding-left: 16px;
+}
+
+#toc ul li {
+    padding: 3px 0;
+}
+
+#toc a {
+    font-size: 14px;
+}
+
+/* Breadcrumbs subtle styling */
+div.breadcrumbs {
+    font-size: 13px;
+    color: #888;
+    margin-bottom: 18px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #eee;
+}
+
+div.breadcrumbs a {
+    color: #666;
+    text-decoration: none;
+}
+
+div.breadcrumbs a:hover {
+    color: #3366cc;
+}
+
+/* Cleaner footer */
+div.footer {
+    border-top: 2px solid #e8e8e8;
+    margin-top: 30px;
+    padding-top: 20px;
+}
+
+div.footer hr {
+    border: none;
+    border-top: 1px solid #eee;
+    margin: 16px 0;
+}
