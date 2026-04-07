@@ -102,15 +102,15 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
    From our sponsor
    ----------------
 
-   This month’s newsletter is sponsored by `SPONSOR NAME <SPONSOR LINK>`_.
+   This month’s newsletter is sponsored by `SPONSOR_NAME <SPONSOR_LINK>`_.
 
    .. image:: /_static/img/sponsors/SPONSOR.png
      :align: center
      :width: 50%
-     :target: SPONSOR LINK
-     :alt: SPONSOR NAME logo
+     :target: SPONSOR_LINK
+     :alt: SPONSOR_NAME logo
 
-   SPONSOR COPY
+   SPONSOR_COPY
 
    *Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
 

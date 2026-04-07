@@ -22,14 +22,13 @@ There are wonderful hotels located within two miles of the venue. Many of these 
 
 [Jupiter Hotel](https://www.jupiterhotel.com/)
 
-- **10% Off Discount Code: THEDOCS**
+- **15% Off Discount Code: THEDOCS**
 - Offers two hotel options
   - NEXT has newer rooms
   - The Original, boutique hotel, has more street noise
 - [Hey Love](https://www.heylovepdx.com/) restaurant/bar in the lobby (won Best U.S. Hotel Bar 2023)
 - We're having our Monday evening social here
 - 0.6 miles to the venue
-- _Please Note: rooms are only available starting May 3_
 
 [Hotel Lucia](https://be.synxis.com/?adult=1&arrive=2026-04-30&chain=22402&child=0&currency=USD&depart=2026-05-07&group=GRWRDO&hotel=49677&level=hotel&locale=en-US&productcurrency=USD&rooms=1&src=24C)
 
