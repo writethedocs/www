@@ -62,16 +62,17 @@ Site Content
 ------------
 
 .. toctree::
-   :glob:
    :maxdepth: 1
    :includehidden:
 
-   surveys/index
-   guide/index
-   book-club/index
-   Hiring guide <hiring-guide/index>
+   About <about/about-the-org>
    about/stay-connected
-   about/*
+   about/events-activities
+   guide/index
+   about/learning-resources
+   hiring-guide/index
+   surveys/index
+   book-club/index
 
 .. toctree::
    :hidden:

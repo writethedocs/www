@@ -292,39 +292,8 @@ div.body {
 }
 
 /* =============================================
-   Community Site Redesign — Quick Wins
+   Community Site Redesign
    ============================================= */
-
-/* Better body typography */
-div.body p,
-div.body li,
-div.body dd {
-    line-height: 1.7;
-}
-
-div.body h1 {
-    font-size: 2em;
-    margin-bottom: 0.6em;
-    color: #222;
-    border-bottom: 2px solid #e8e8e8;
-    padding-bottom: 0.3em;
-}
-
-div.body h2 {
-    font-size: 1.5em;
-    margin-top: 1.5em;
-    color: #333;
-}
-
-div.body h3 {
-    font-size: 1.2em;
-    color: #444;
-}
-
-/* Content area breathing room */
-div.body {
-    padding: 0 10px 30px 10px;
-}
 
 /* Sidebar section styling */
 div.sphinxsidebarwrapper {
@@ -423,33 +392,3 @@ a.newsletter-btn:hover {
     font-size: 14px;
 }
 
-/* Breadcrumbs subtle styling */
-div.breadcrumbs {
-    font-size: 13px;
-    color: #888;
-    margin-bottom: 18px;
-    padding-bottom: 8px;
-    border-bottom: 1px solid #eee;
-}
-
-div.breadcrumbs a {
-    color: #666;
-    text-decoration: none;
-}
-
-div.breadcrumbs a:hover {
-    color: #3366cc;
-}
-
-/* Cleaner footer */
-div.footer {
-    border-top: 2px solid #e8e8e8;
-    margin-top: 30px;
-    padding-top: 20px;
-}
-
-div.footer hr {
-    border: none;
-    border-top: 1px solid #eee;
-    margin: 16px 0;
-}

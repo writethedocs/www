@@ -158,15 +158,6 @@ html_theme_options = {
     'github_repo': 'www',
     'github_banner': False,
     'github_button': False,
-    'body_text': '#333',
-    'sidebar_text': '#555',
-    'sidebar_link': '#3366cc',
-    'link': '#3366cc',
-    'link_hover': '#1a4d99',
-    'sidebar_width': '260px',
-    'page_width': '1080px',
-    'font_size': '17px',
-    'sidebar_header': '#333',
 }
 
 html_favicon = '_static/favicon/favicon-96x96.png'
