@@ -6,7 +6,8 @@ banner: _static/conf/images/headers/2026/volunteer.jpg
 
 # Volunteer Information
 
-Our volunteer sign up form is open. We are looking for volunteers to provide support with a variety of conference roles - registration, Writing Day, Unconference, float, catering, load out, and more.
+Our volunteer sign up form {% if volunteer.form_url %}is open{% else %}will open soon{% endif %}.
+We are looking for volunteers to provide support with a variety of conference roles - registration, Writing Day, Unconference, float, catering, load out, and more.
 
 Completing this form signs you up to volunteer. We will close the form once volunteer capacity is reached. Another form will be sent out once the speaker schedule is released mid-February.
 
@@ -26,9 +27,8 @@ Each individual must volunteer for two or more 3-4 hour shifts and receives a **
 
 **Timeline:**
 
-- **Now-{{ volunteer.applications_close }}**: Volunteer applications open
+- **{% if volunteer.form_url %}Now{% else %}Soon{% endif %}-{{ volunteer.applications_close }}**: Volunteer applications open
 - **{{ volunteer.applications_close }}-{{ volunteer.schedule_signup_close }}**: Volunteer schedule sign up open
-- **End of March**: Volunteer schedule emailed
   
 ## Volunteer Roles
 

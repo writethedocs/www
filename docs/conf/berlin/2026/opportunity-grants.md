@@ -22,7 +22,7 @@ Grant applicants, like all other participants in the Write the Docs community, a
 
 ## Schedule
 
-- **Now - {{ grants.ends }}:** Grant applications open
+- **{% if grants.url %}Now{% else %}Soon{% endif %} - {{ grants.ends }}:** Grant applications open
 - **{{ grants.notification }}:** Grant recipients notified
 
 ## What is covered
