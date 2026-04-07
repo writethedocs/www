@@ -75,6 +75,12 @@ Talks from the scientific community, fiction writers, system administrators, and
 
 The focus of Write the Docs is software documentation, and we actively seek talks that address a wide range of related subjects, at various levels of expertise. Documentation perspectives from other fields are welcome, as are topics from adjacent fields!
 
+**AI**
+
+We're excited to have great AI related talks on the programme, but will be capping the number of talks that focus on AI, to leave space for other topics. While AI is a subject in our community and therefore also at our conferences, we get a huge number of AI proposals. The challenge with those proposals is that the review team aims to select talks that can provide lasting value, but that is inherently difficult with rapidly developing technology. Additionally, we feel we have a responsibility to balance talking about the potential of AI with the very real ethical and environmental concerns that come with it.
+
+For these reasons, submitting about an AI topic without showing us that you have considered these concerns might reduce your chances of being accepted. Conversely, demonstrating a community-centred attitude can help your chances if you choose to submit a talk about AI.
+
 **Practicality and positivity**
 
 We prefer talks backed by experience and experimentation to talks about theory, and we definitely don't like talks that bad-mouth technologies or approaches. Don't tell us why you hate something – tell us how you overcame the problems it was causing.
@@ -152,22 +158,22 @@ All Speakers must read, understand, and agree to our [Code of Conduct](/code-of-
 
 ## Timeline overview
 
-**{{cfp.ends}}**  
+**{{cfp.ends}}**
 Call for Proposal ends
 
-**{{cfp.speaker_tickets_by}}**  
+**{{cfp.speaker_tickets_by}}**
 Register for speaker ticket (with dietary preferences, hoodie size, etc.)
 
-**April 9, 2026**  
+**April 9, 2026**
 Upload date for recorded talks (remote speakers)
 
-**{{cfp.notification}}**  
+**{{cfp.notification}}**
 We'll let you know whether your proposal was accepted, and ask for some supplementary information about you. Make sure to confirm your talk as soon as you get the email.
 
-**{{cfp.slides_by}}**  
+**{{cfp.slides_by}}**
 We'll ask for a copy of your slides so our human captioners can prepare for your talk
 
-**{{date.short}}**  
+**{{date.short}}**
 Folks start giving talks on stage!
 
 ## Example proposal
