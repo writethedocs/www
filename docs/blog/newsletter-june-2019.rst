@@ -20,7 +20,7 @@ Many people have been keeping the Portland conference spirit alive by posting wr
 - `A list of resources put together by a generous community member <https://docs.google.com/document/d/18ARx_ybe4ZWc-go9zV8vf8Ivl-QofCpERMmjAugFKKM/edit>`__ (taken from Slack links and posts). Includes links to blog posts, writeups of API docs and inclusivity unconference sessions, resources for drawing docs, and much more.
 - `A twitter thread with a writeup of the unconference session on measuring success <https://twitter.com/smorewithface/status/1130607741951565824>`__.
 - `The Writing Day project on learning Git to contribute to the Write the Docs website <https://docs.google.com/document/d/17EP0P0Wy2iNIzgoS7IXSMQbhurZyyDo22laUE7UT2O4/edit>`__.
-- And of course, `all the talk videos </videos/portland/2019/>`__ are now live!
+- And of course, `all the talk videos <https://www.youtube.com/playlist?list=PLZAeFn6dfHpmuHCu5qsIkmp9H5jFD-xq->`__ are now live!
 
 ---------------------------------
 Facilitating top-notch doc review
@@ -74,15 +74,15 @@ Order from chaos, or, a conversation about docs cleanup
 
 Over the years, how to organize your docs been a really popular topic at Write the Docs conferences. One notable piece of advice was to seek out and make public the often-hidden or kept-private stashes of information that individuals in a company invariably gather. If it's a problem you're interested in, there's an embarrassment of riches for you in the video archives:
 
-- `What can brownfield do for you? </videos/na/2015/what-can-brownfield-do-for-you-mnishiyama>`__ - Mo Nishiyama, Portland 2015
-- `User-story driven docs </videos/na/2015/user-story-driven-docs-jfernandes>`__ - Joao Fernandes, Portland 2015
-- `MacGyvering your docs </videos/eu/2015/macgyvering-your-docs-proeland>`__ - Paul Roeland, Prague 2015
-- `Bootstrapping docs at a startup </videos/na/2017/bootstrapping-docs-at-a-startup-jesse-seldess>`__ - Jesse Seldess, Portland 2017
+- `What can brownfield do for you? <https://www.youtube.com/watch?v=3X8xyfkRmO4>`__ - Mo Nishiyama, Portland 2015
+- `User-story driven docs <https://www.youtube.com/watch?v=MRnZFVCirQM>`__ - Joao Fernandes, Portland 2015
+- `MacGyvering your docs <https://www.youtube.com/watch?v=Y2QxSTJ1jVs>`__ - Paul Roeland, Prague 2015
+- `Bootstrapping docs at a startup <https://www.youtube.com/watch?v=YLXNJXQyYoE>`__ - Jesse Seldess, Portland 2017
 - `Backseat content strategy <https://www.youtube.com/watch?v=omwamA30e_Y&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt&index=4>`__ - Laura Bailey, Australia 2018
-- `Where do I start? The art and practice of documentation triage </videos/portland/2018/where-do-i-start-the-art-and-practice-of-documentation-triage-neal-kaplan>`__ - Neil Kaplan, Portland 2018
-- `How to tear down existing documentation and rewrite docs that actually work </videos/prague/2018/how-to-tear-down-existing-documentation-and-rewrite-docs-that-actually-work-alexandra-white>`__ - Alexandra White, Prague 2018
+- `Where do I start? The art and practice of documentation triage <https://www.youtube.com/watch?v=2EzIe-3LBwQ>`__ - Neil Kaplan, Portland 2018
+- `How to tear down existing documentation and rewrite docs that actually work <https://www.youtube.com/watch?v=u119GkGSYII>`__ - Alexandra White, Prague 2018
 - Tackling technical debt in the docs - Louise Fahey, Prague 2018
-- `A year in the life of the better docs project </videos/prague/2018/a-year-in-the-life-of-the-better-docs-project-rowan-cota>`__ - Rowan Cota, Prague 2018
+- `A year in the life of the better docs project <https://www.youtube.com/watch?v=P3NL-Mms4-M>`__ - Rowan Cota, Prague 2018
 
 --------------------
 DITA vs docs-as-code

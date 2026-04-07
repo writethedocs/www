@@ -33,7 +33,7 @@ buttons:
     - text: Browse the photos
       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
     - text: Watch the videos!
-      link_absolute: /videos/portland/2019
+      link_absolute: https://www.youtube.com/c/WritetheDocs
   bottom:
     # - text: Sponsor the conference
     #  link: /sponsors/prospectus
@@ -50,7 +50,7 @@ buttons:
     - text: Browse the photos
       link_absolute: https://www.flickr.com/photos/writethedocs/albums/72157691507514803
     - text: Watch the videos!
-      link_absolute: /videos/portland/2019
+      link_absolute: https://www.youtube.com/c/WritetheDocs
 
 tickets:
   community:

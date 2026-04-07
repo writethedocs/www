@@ -37,6 +37,6 @@ And for general writing style, see [style guides](https://www.writethedocs.org/g
 
 ## Relevant talks from Write the Docs:
 
-- [Moving beyond empathy: a11y in documentation](https://www.writethedocs.org/videos/portland/2020/moving-beyond-empathy-a11y-in-documentation-alexandra-white/)
-- [A11y-Friendly Documentation](https://www.writethedocs.org/videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/) at Write the Docs Prague 2018
-- [Inclusive Tech Docs - TechComm Meets Accessibility](http://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015
+- *[Moving beyond empathy: a11y in documentation](https://www.youtube.com/watch?v=PS8ywGg0x-U)*
+- *[A11y-Friendly Documentation](https://www.youtube.com/watch?v=SLUJG625Si0)* from Write the Docs Prague 2018
+- *[Inclusive Tech Docs - TechComm Meets Accessibility](https://www.youtube.com/watch?v=RcjpBNIKlf8)* from Write the Docs EU 2015

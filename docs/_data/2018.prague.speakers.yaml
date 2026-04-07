@@ -15,7 +15,7 @@
     \ writing practices.</p>"
   event: Write the Docs Prague 2018
   name: Carolyn Stransky
-  path: conf/prague/2018/videos/a11y-friendly-documentation-carolyn-stransky
+  path: https://www.youtube.com/watch?v=SLUJG625Si0
   series: Write the Docs Prague
   series_slug: prague
   slug: a11y-friendly-documentation-carolyn-stransky
@@ -46,7 +46,7 @@
     \ you\u2019ve fixed, and the suggestions you\u2019ve listened to</li>\n</ul>"
   event: Write the Docs Prague 2018
   name: Anne Edwards
-  path: conf/prague/2018/videos/learning-to-love-release-notes-anne-edwards
+  path: https://www.youtube.com/watch?v=L3yAD319DiU
   series: Write the Docs Prague
   series_slug: prague
   slug: learning-to-love-release-notes-anne-edwards
@@ -100,7 +100,7 @@
     \ own projects and workplaces on the road to Better Docs.</p>"
   event: Write the Docs Prague 2018
   name: Rowan Cota
-  path: conf/prague/2018/videos/a-year-in-the-life-of-the-better-docs-project-rowan-cota
+  path: https://www.youtube.com/watch?v=P3NL-Mms4-M
   series: Write the Docs Prague
   series_slug: prague
   slug: a-year-in-the-life-of-the-better-docs-project-rowan-cota
@@ -135,7 +135,7 @@
     \ of the product</li>\n</ul>"
   event: Write the Docs Prague 2018
   name: Ivana Devcic
-  path: conf/prague/2018/videos/it-s-a-feature-documenting-known-issues-and-product-shortcomings-ivana-devcic
+  path: https://www.youtube.com/watch?v=r-6FycuppXg
   series: Write the Docs Prague
   series_slug: prague
   slug: it-s-a-feature-documenting-known-issues-and-product-shortcomings-ivana-devcic
@@ -158,7 +158,7 @@
     \ some ways to avoid these pitfalls and bridge the gap with your reader.</p>"
   event: Write the Docs Prague 2018
   name: Jim Fisher
-  path: conf/prague/2018/videos/don-t-say-simply-jim-fisher
+  path: https://www.youtube.com/watch?v=gsT2BBWBVmM
   series: Write the Docs Prague
   series_slug: prague
   slug: don-t-say-simply-jim-fisher
@@ -190,7 +190,7 @@
     \ and practical advice.</p>"
   event: Write the Docs Prague 2018
   name: Liam Keegan
-  path: conf/prague/2018/videos/measuring-the-impact-of-your-documentation-liam-keegan
+  path: https://www.youtube.com/watch?v=48Ga-0_39-o
   series: Write the Docs Prague
   series_slug: prague
   slug: measuring-the-impact-of-your-documentation-liam-keegan
@@ -210,7 +210,7 @@
     and brings happiness to a diverse customer base.</p>
   event: Write the Docs Prague 2018
   name: Predrag Mandic
-  path: conf/prague/2018/videos/run-your-docs-predrag-mandic
+  path: https://www.youtube.com/watch?v=oW7rWJ2xNZU
   series: Write the Docs Prague
   series_slug: prague
   slug: run-your-docs-predrag-mandic
@@ -234,7 +234,7 @@
     \ and spirit.</p>"
   event: Write the Docs Prague 2018
   name: Vlad Stirbu
-  path: conf/prague/2018/videos/what-about-compliance-vlad-stirbu
+  path: https://www.youtube.com/watch?v=tmFI7haJ7bQ
   series: Write the Docs Prague
   series_slug: prague
   slug: what-about-compliance-vlad-stirbu
@@ -257,7 +257,7 @@
     \ notes, will be available at https://github.com/tibs/markup-history.</p>"
   event: Write the Docs Prague 2018
   name: Tony Ibbs
-  path: conf/prague/2018/videos/a-brief-history-of-text-markup-languages-tony-ibbs
+  path: https://www.youtube.com/watch?v=P-7hwjocEpM
   series: Write the Docs Prague
   series_slug: prague
   slug: a-brief-history-of-text-markup-languages-tony-ibbs
@@ -299,7 +299,7 @@
     ve learned while giving it.</p>"
   event: Write the Docs Prague 2018
   name: Abigail Sutherland
-  path: conf/prague/2018/videos/teaching-geeks-to-fish-tales-of-a-contagious-documentarian-abigail-sutherland
+  path: https://www.youtube.com/watch?v=3IlcJYKdP1g
   series: Write the Docs Prague
   series_slug: prague
   slug: teaching-geeks-to-fish-tales-of-a-contagious-documentarian-abigail-sutherland
@@ -330,7 +330,7 @@
     \ helpful insights and lessons learned along the way.</p>"
   event: Write the Docs Prague 2018
   name: Sarah Ley-Hamilton
-  path: conf/prague/2018/videos/so-you-want-to-make-videos-sarah-ley-hamilton
+  path: https://www.youtube.com/watch?v=PyGJiUIMGpw
   series: Write the Docs Prague
   series_slug: prague
   slug: so-you-want-to-make-videos-sarah-ley-hamilton
@@ -359,7 +359,7 @@
     \ customer pain points (to manage through customer documentation)</li>\n</ul>"
   event: Write the Docs Prague 2018
   name: Gillian von Runte
-  path: conf/prague/2018/videos/document-what-matters-lean-best-practice-for-process-documentation-gillian-von-runte
+  path: https://www.youtube.com/watch?v=RpEb8XLH-1A
   series: Write the Docs Prague
   series_slug: prague
   slug: document-what-matters-lean-best-practice-for-process-documentation-gillian-von-runte
@@ -384,7 +384,7 @@
     \ change...</p>"
   event: Write the Docs Prague 2018
   name: Val Grimm
-  path: conf/prague/2018/videos/choosing-a-tool-and-choosing-your-moment-val-grimm
+  path: https://www.youtube.com/watch?v=vbbHekptzjw
   series: Write the Docs Prague
   series_slug: prague
   slug: choosing-a-tool-and-choosing-your-moment-val-grimm
@@ -417,7 +417,7 @@
     \ all of this work without additional full\u2010time documentation help.</p>"
   event: Write the Docs Prague 2018
   name: Alexandra White
-  path: conf/prague/2018/videos/how-to-tear-down-existing-documentation-and-rewrite-docs-that-actually-work-alexandra-white
+  path: https://www.youtube.com/watch?v=u119GkGSYII
   series: Write the Docs Prague
   series_slug: prague
   slug: how-to-tear-down-existing-documentation-and-rewrite-docs-that-actually-work-alexandra-white

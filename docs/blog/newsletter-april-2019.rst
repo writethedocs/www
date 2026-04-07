@@ -66,7 +66,7 @@ Lots of commenters talked about helping those asking you to understand the situa
 
 It's worth checking if the person requesting can help by gathering the information needed. If they agree to do the groundwork, it takes some of the burden of emergency work off you.
 
-Be aware that you likely won't find time to think strategically: you have to make it. One suggestion was to block off time in your calendar for this, even if you can only start small. For an idea of what to do, see `Neal Kaplan's talk on triaging </videos/portland/2018/where-do-i-start-the-art-and-practice-of-documentation-triage-neal-kaplan/>`_.
+Be aware that you likely won't find time to think strategically: you have to make it. One suggestion was to block off time in your calendar for this, even if you can only start small. For an idea of what to do, see `Neal Kaplan's talk on triaging <https://www.youtube.com/watch?v=2EzIe-3LBwQ>`_.
 
 And keep taking care of yourself - knowledge work requires a functioning brain! If you're fried, don't be afraid to take the breaks you need.
 

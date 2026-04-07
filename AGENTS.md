@@ -13,7 +13,6 @@ All build commands run from the `docs/` directory using `make` (not raw `sphinx-
 - **Build site:** `cd docs && make html`
 - **Live preview:** `cd docs && make livehtml` (serves at http://127.0.0.1:8888)
 - **Clean build:** `cd docs && make clean && make html`
-- **Build with videos:** `cd docs && BUILD_VIDEOS=True make html`
 - **Compile SCSS:** `sass --style=compressed --no-source-map docs/_static/conf/scss/main-YYYY.scss docs/_static/conf/css/main-YYYY.min.css`
 
 Python 3.9 is required. Dependencies: `pip install -r requirements.txt`
@@ -53,7 +52,6 @@ Year-specific HTML templates in `docs/_templates/<year>/` (base.html, index.html
 
 - `core.py` — Jinja rendering of RST, conference YAML context loading, template override system
 - `filters.py` — Custom Jinja filters (e.g., speaker photo paths)
-- `videos.py` — Video page generation and `datatemplate-video` directive
 - `meetups.py` — `meetup-listing` directive
 - `atom_absolute.py` — Rewrites atom feed URLs to absolute
 
@@ -70,4 +68,4 @@ Uses the `ablog` extension. News posts go in `docs/conf/<city>/<year>/news/` wit
 - Content files support both `.rst` and `.md` (via myst-parser)
 - Conference pages use `:orphan:` directive (not in a toctree)
 - Feature flags in config YAML control what sections display (e.g., `flagtickets`, `flagcfp`, `flaghasschedule`)
-- Videos are excluded from local builds by default for speed; use `BUILD_VIDEOS=True` to include them
+- Conference talk videos are hosted on the [Write the Docs YouTube channel](https://www.youtube.com/c/WritetheDocs)

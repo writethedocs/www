@@ -8,9 +8,6 @@ on:
 
   workflow_dispatch:
 
-env:
-  BUILD_VIDEOS: true
-
 jobs:
   validate-yaml:
     runs-on: ubuntu-latest

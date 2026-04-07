@@ -10,7 +10,6 @@ on:
 
 env:
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-  BUILD_VIDEOS: true
 
 
 jobs:
