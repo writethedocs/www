@@ -43,7 +43,7 @@ All signage is designed and produced by Write the Docs.
 
 Sponsor branding for the Unconference track, which runs in parallel with speaker talks on Monday and Tuesday. Attendee-led sessions on topics ranging from tooling to career development.
 
-- **Time:** 9:00 AM – 5:00 PM, Monday and Tuesday
+- **Time:** 9:00 AM – 5:00 PM, one day (Monday or Tuesday)
 - **Location:** Unconference rooms at the venue
 
 ### What Write the Docs Provides
