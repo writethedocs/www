@@ -2,7 +2,7 @@
 :banner: _static/conf/images/headers/portland-2024-speakers.jpg
 :og:image: _static/conf/images/headers/portland-2024-speakers.jpg
 
-.. post:: Apr 7, {{year}}
+.. post:: Apr 8, {{year}}
    :tags: {{shortcode}}-{{year}}, website, cfp
 
 Announcing the Website, Call for Proposals, and Sponsorship Prospectus
