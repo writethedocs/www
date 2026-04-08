@@ -63,27 +63,40 @@ This includes:
 * Event graphic
 * Sponsor graphic
 
+## Premium Activations
+
+We offer a range of premium activation opportunities beyond standard sponsorship packages, including beverage activations in Martha's, an attendee lounge, professional headshot booth, co-branded swag, and social event sponsorships. See our [Sponsorship Activations](/conf/{{shortcode}}/{{year}}/sponsors/activations/) page for full specs and logistics.
+
 ## Sponsorship Benefits During the Conference
 
 Each sponsorship includes different opportunities to engage with our attendees. View further information below on specifics to sponsor booths, Writing Day, Unconference, and Lightning Talks. 
 
 ### Sponsor Booths - Keystone and Patron
 
-Sponsor booths are setup in the main hallway on Monday and Tuesday outside of the auditorium. Attendees are always looking for great products to use in their day to day workflows, and are curious to learn more about your company.
+Sponsor booths are set up in the main hallway on Monday and Tuesday outside of the auditorium.
 
-**Logistics**:
+**Location:** Main hallway, outside the auditorium
+**Availability:** Monday and Tuesday, full conference hours
 
-* **WTD provides**: Each sponsor receives a 6 foot table, 2 chairs, and access to power and wifi. You must provide your own linen.
-* You are responsible for loading in and loading out your entire booth setup.
-* **Sponsor provides**:
-  - Table linen
-  - Laptop/tablets/monitor to display your product - WTD can provide monitors for an additional fee if required
-  - Banner (confirm this fits behind a 6' table)
-* **Arrive at 7:00am for setup**: The conference venue opens at 8:00am and attendees arrive promptly. Sponsorship Coordinator will email load-in instructions closer to the conference.
-* **Be present at your booth are during the breaks and at the start of lunch break.**
-* **Bring swag (especially stickers)**: Stickers are by far the most popular item for our attendees.
-* **Engage with folks as both a sponsor and attendee**: This is a great opportunity to meet folks in the community, so we recommend engaging with folks in an official capacity, but also as a regular attendee.
-* **Use QR codes**: QR codes are a great way to get people to a website quickly. We recommend using a service like [QR Code generator](https://www.qr-code-generator.com/) to create these.
+#### What Write the Docs Provides
+
+- 6-foot table with 2 chairs
+- Power and wifi access
+- Monitor rental available for an additional fee
+
+#### What the Sponsor Provides
+
+- Table linen
+- Laptop, tablets, or monitor to display your product
+- Banner (must fit behind a 6' table)
+- Swag for attendees (stickers are the most popular item)
+
+#### Booth Logistics
+
+* **Setup:** Arrive at 7:00am Monday. The venue opens to attendees at 8:00am. Load-in instructions will be sent closer to the conference.
+* **Presence:** Be at your booth during breaks and at the start of lunch.
+* **Load-out:** You are responsible for loading in and out your entire booth setup. All materials must be out of the venue by 5:30pm Tuesday.
+* **Tips:** Engage with folks as both a sponsor and attendee. QR codes are a great way to get people to a website quickly.
 
 ### Lightning Talk Sponsor
 
