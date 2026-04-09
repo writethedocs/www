@@ -286,9 +286,7 @@ Following on from last year, recording salary and rate data for employee-contrac
    | 2025        | 675 (89.4%) | 46 (6%)     | 34 (4.5%)            |
    +-------------+-------------+-------------+----------------------+
 
-As in previous years, we encouraged those currently not working to respond as though still at their previous job/contract, provided they had worked at least some of the past year. 16 employees (2.3%) and 7 contractors (10.6%) filled out the survey on this basis.
-
-Of the 28 respondents who had worked as both employee and contractor in the past year, 15 were currently working in both capacities. The others were currently working as one or the other only, or not working at all (2 respondents).
+As in previous years, we encouraged those currently not working to respond as though still at their previous job/contract, provided they had worked at least some of the past year. 33 employees and 4 contractor filled out the survey on this basis. Of the employee-contractor respondents, 2 were completely unemployed, 7 were only working as a contractor and 13 were only working as an employee.
 
 Hours worked
 ------------
