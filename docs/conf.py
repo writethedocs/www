@@ -65,6 +65,7 @@ from _ext.core import (
 from _ext.filters import add_jinja_filters_to_app
 from _ext.meetups import MeetupListing
 from _ext.atom_absolute import rewrite_atom_feed
+from _ext.button import ButtonLink
 
 exclude_patterns = [
     '_build',
@@ -259,6 +260,7 @@ def setup(app):
         app.connect('build-finished', rewrite_atom_feed)
 
     app.add_directive('meetup-listing', MeetupListing)
+    app.add_directive('button-link', ButtonLink)
     app.add_css_file('css/global-customizations.css')
     app.add_css_file('css/survey.css')
 

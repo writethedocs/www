@@ -30,15 +30,9 @@ Still need a ticket? Now is a great time to purchase your ticket at one of our v
 | Corporate                              | $650                     | $175       |
    
 <br />
-<div style="margin: 2em 0;">
-<table border="0" cellpadding="0" cellspacing="0" style="background-color:#fdb913; border-radius:5px; margin:auto;">
-<tr>
-   <td align="center" valign="middle" style="color:#000000; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-      <a href="https://ti.to/writethedocs/write-the-docs-portland-2026" target="_blank" style="color:#000000; text-decoration:none; text-transform:uppercase; border-bottom: none;">Buy your ticket</a>
-   </td>
-</tr>
-</table>
-</div>
+```{button-link} https://ti.to/writethedocs/write-the-docs-portland-2026
+Buy your ticket
+```
 
 ## Join our Slack Community
 
@@ -49,15 +43,9 @@ Our [#wtd-conferences](https://writethedocs.slack.com/archives/C1AKFQATH) channe
 
 There is a two-step process to join Slack. You need to complete a short signup form before you can create your account.
 
-<div style="margin: 2em 0;">
-<table border="0" cellpadding="0" cellspacing="0" style="background-color:#fdb913; border-radius:5px; margin:auto;">
-<tr>
-   <td align="center" valign="middle" style="color:#000000; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform" target="_blank" style="color:#000000; text-decoration:none; text-transform:uppercase; border-bottom: none;">Join Slack today</a>
-   </td>
-</tr>
-</table>
-</div>
+```{button-link} https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform
+Join Slack today
+```
 
 
 ## Writing Day Projects
@@ -66,15 +54,9 @@ Call for Writing Day projects! Submit your project by **April 22, 2026** to be p
 
 Online project submission is optional, and we have several day-of project submissions. We adore all of our projects and volunteers, no matter when they sign up. And don't forget that this year we've added Git and GitHub workshops, resume and portfolio writing and review sessions, and roundtable discussions. All are welcome!
 
-<div style="margin: 2em 0;">
-<table border="0" cellpadding="0" cellspacing="0" style="background-color:#fdb913; border-radius:5px; margin:auto;">
-<tr>
-   <td align="center" valign="middle" style="color:#000000; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform" target="_blank" style="color:#000000; text-decoration:none; text-transform:uppercase; border-bottom: none;">Submit your Writing Day project</a>
-   </td>
-</tr>
-</table>
-</div>
+```{button-link} https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform
+Submit your Writing Day project
+```
 
 ## How Do I Participate in the Conference? 
 

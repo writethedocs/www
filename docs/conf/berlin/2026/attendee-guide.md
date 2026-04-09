@@ -17,7 +17,7 @@ Join us for an introduction to Write the Docs. We’ll go on a short tour of the
 
 Welcome Wagon Tour is scheduled for: 
 
-- Monday at 8:45 (meet near Registration)
+- TBD
 
 ## Conference Layout
 
@@ -39,7 +39,7 @@ Location: Wintergarten in basement floor
 
 ### Communal Rooms
 
-Location: Awareness room, Prayer room, room for Presence and Movement are in basement floor
+Location: Awareness room, Prayer room, room for Presence and Movement are in the basement floor
 
 ### Parents Room
 
@@ -53,15 +53,13 @@ View our [Venue](/conf/{{shortcode}}/{{year}}/venue/) page for details on how to
 
 - Coffee, tea, and light snacks will be provided in the morning and afternoon. 
 - Bring a water bottle to refill.
-- The Cafeteria in the venue is open from 10:00-16:00 where you can purchase food and drink. 
+- The Cafeteria in the venue is open from 10:00-16:00 where you can purchase food and drink. We are confirming whether it is open on Sunday. 
 - There are many food and beverage options within a 10-minute walk of the venue. View the [Visiting Berlin](/conf/{{shortcode}}/{{year}}/visiting/) page.
 
 ## Dress Code
 We don’t have one! Berlin is a casual-dress city and so is the Write the Docs conference.
 
 You’ll be meeting business colleagues at this conference, though, so neat and comfortable are good dress guidelines.
-
-Bring layers. Weather ranges from 8-15°C (46-59°F), evenings can be 5-8°C (41-46°F), possibility of rain.
 
 ## Accessibility
 We are committed to hosting a conference that is accessible to everyone. Below are the efforts we’re taking to provide an accessible conference. Please contact us on berlin@writethedocs.org if you have any other needs or questions.
@@ -131,8 +129,7 @@ The [Unconference](/conf/{{shortcode}}/{{year}}/unconference/) consists of atten
 ### Monday Conference Party:
 This is our main social event of the conference. Drinks and snacks provided by us. It is a time to connect with other attendees outside of the scheduled programming. Come for an hour or stay the entire time!
 
-- Time: 19:00-21:00
-- Location: TBD
+Details TBD.
 
 ## Did We Miss Anything?
 Is there anything that would make your attendance possible or improve your experience? Please email us at berlin@writethedocs.org, and we’ll do what we can to provide it.

@@ -6,7 +6,7 @@ banner: _static/conf/images/headers/2025/lightning-talks.jpg
 
 # Call for Proposals
 
-It's that time of year again: We're now accepting talk proposals for our next **in-person** {{ city }} conference, on {{date.main}}. New this year we're also accepting a few pre-recorded talks by remote speakers.
+It's that time of year again: We're now accepting talk proposals for our next **in-person** {{ city }} conference, on {{date.main}}. Like last year, we're also accepting a few pre-recorded talks by remote speakers.
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you! Read on to learn more about the goals of the conference and what we look for in talk proposals.
 
@@ -74,6 +74,12 @@ Talks from the scientific community, fiction writers, system administrators, and
 **Broad topics**
 
 The focus of Write the Docs is software documentation, and we actively seek talks that address a wide range of related subjects, at various levels of expertise. Documentation perspectives from other fields are welcome, as are topics from adjacent fields!
+
+**AI**
+
+We're excited to have great AI related talks on the programme, but will be capping the number of talks that focus on AI, to leave space for other topics. While AI is a subject in our community and therefore also at our conferences, we get a huge number of AI proposals. The challenge with those proposals is that the review team aims to select talks that can provide lasting value, but that is inherently difficult with rapidly developing technology. Additionally, we feel we have a responsibility to balance talking about the potential of AI with the very real ethical and environmental concerns that come with it.
+
+For these reasons, submitting about an AI topic without showing us that you have considered these concerns might reduce your chances of being accepted. Conversely, demonstrating a community-centred attitude can help your chances if you choose to submit a talk about AI.
 
 **Practicality and positivity**
 
@@ -152,22 +158,22 @@ All Speakers must read, understand, and agree to our [Code of Conduct](/code-of-
 
 ## Timeline overview
 
-**{{cfp.ends}}**  
+**{{cfp.ends}}**
 Call for Proposal ends
 
-**{{cfp.speaker_tickets_by}}**  
-Register for speaker ticket (with dietary preferences, hoodie size, etc.)
-
-**April 9, 2026**  
-Upload date for recorded talks (remote speakers)
-
-**{{cfp.notification}}**  
+**{{cfp.notification}}**
 We'll let you know whether your proposal was accepted, and ask for some supplementary information about you. Make sure to confirm your talk as soon as you get the email.
 
-**{{cfp.slides_by}}**  
+**{{cfp.speaker_tickets_by}}**
+Register for speaker ticket (with dietary preferences, hoodie size, etc.)
+
+**{{cfp.speaker_tickets_by}}**
+Upload date for recorded talks (remote speakers)
+
+**{{cfp.slides_by}}**
 We'll ask for a copy of your slides so our human captioners can prepare for your talk
 
-**{{date.short}}**  
+**{{date.short}}**
 Folks start giving talks on stage!
 
 ## Example proposal
