@@ -11,7 +11,7 @@ banner: _static/conf/images/headers/2026/registration.jpg
 
 # One Month Until Write the Docs Portland
 
-Write the Docs Portland 2026 is just under one month away on May 3-5! Whether you're a programmer, tech writer, designer, project manager, or developer advocate, we have talks and a community for you.
+Write the Docs {{ name }} {{ year }} is just under one month away on {{ date.short }}! Whether you're a programmer, tech writer, designer, project manager, or developer advocate, we have talks and a community for you.
 
 ## New in 2026
 
@@ -50,7 +50,7 @@ Join Slack today
 
 ## Writing Day Projects
 
-Call for Writing Day projects! Submit your project by **April 22, 2026** to be promoted in our pre-conference Writing Day blog post and email.
+Call for Writing Day projects! Submit your project by **{{ writing_day.project_deadline }}** to be promoted in our pre-conference Writing Day blog post and email.
 
 Online project submission is optional, and we have several day-of project submissions. We adore all of our projects and volunteers, no matter when they sign up. And don't forget that this year we've added Git and GitHub workshops, resume and portfolio writing and review sessions, and roundtable discussions. All are welcome!
 

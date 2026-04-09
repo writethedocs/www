@@ -49,15 +49,15 @@ Write the Docs is more than a conference. In addition to Speaker Talks, Writing 
 
 * **Saturday Hike or Walk:**
   * Join us for the hike in the amazing Forest Park, the largest urban forested park in the country. We'll be hiking along a beautiful creek and start at Lower Macleay Park at 2 PM. Please register a [free hike ticket](https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}/with/hike-ticket) so we can contact you with any last minute weather and logistics information.
-  * Not in the mood for a full hike? This year, we've added a shorter urban walk that starts with a tour at the International Rose Test Garden at 2:30 PM and optionally continues to Powell's Books. Register for a [free nature walk ticket](https://ti.to/writethedocs/write-the-docs-portland-2026/with/nature-walk).
+  * Not in the mood for a full hike? This year, we've added a shorter urban walk that starts with a tour at the International Rose Test Garden at 2:30 PM and optionally continues to Powell's Books. Register for a [free urban walk ticket](https://ti.to/writethedocs/write-the-docs-portland-2026/with/nature-walk).
 * **Sunday Welcome Reception:** Join us for our evening conference reception. This is a great chance to meet other attendees, get your badge (if you don't have it yet), and familiarize yourself with the venue. Drinks and snacks provided by us.
-* **Monday Conference Party**. On Monday night we'll be hosting a social event off-site at [Jupiter NEXT](https://www.jupiterhotel.com/), 900 E Burnside St, 2nd floor. This is a great chance to get to know more folks in the community and have a drink or two on us. Non-alcoholic options and snacks also provided. Event is 7-9 PM.
+* **Monday Conference Party**. On Monday night we'll be hosting a social event off-site at {{ about.social_venue }}. This is a great chance to get to know more folks in the community and have a drink or two on us. Non-alcoholic options and snacks also provided. Event is 7-9 PM.
 
 ## T-shirts Are Now Available
 
-The [Write the Docs {{city}} {{year}} T-shirt Shop](https://shirt.writethedocs.org/) is open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want. As in previous years, we're doing a mail order shop so people can order the exact shirt they want, if they want one.
+The [Write the Docs {{city}} {{year}} T-shirt Shop]({{ shirts.url }}) is open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want. As in previous years, we're doing a mail order shop so people can order the exact shirt they want, if they want one.
 
-The campaign will run in batches until May 31st. Shipping is available from the USA or Europe. We recommend you order your shirt at least 2-3 weeks in advance if you want to sport your fancy new garb during the conference.
+The campaign will run in batches until {{ shirts.ends }}. Shipping is available from the USA or Europe. We recommend you order your shirt at least 2-3 weeks in advance if you want to sport your fancy new garb during the conference.
 
 ## Website Resources
 
