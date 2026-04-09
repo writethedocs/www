@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
-:banner: _static/conf/images/headers/portland-2024-speakers.jpg
-:og:image: _static/conf/images/headers/portland-2024-speakers.jpg
+:banner: _static/conf/images/headers/2026/speakers.jpg
+:og:image: _static/conf/images/headers/2026/speakers.jpg
 
 .. post:: Apr 9, {{year}}
    :tags: {{shortcode}}-{{year}}, website, cfp

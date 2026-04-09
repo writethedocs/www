@@ -16,10 +16,10 @@ time_format: 24h
 
 photos:
   default:
-    - _static/conf/images/headers/2025/grants.jpg
-    - _static/conf/images/headers/2025/unconference.jpg
-    - _static/conf/images/headers/2025/volunteer.jpg
-    - _static/conf/images/headers/2025/writing-day.jpg
+    - _static/conf/images/headers/2026/unconference.jpg
+    - _static/conf/images/headers/2026/volunteer.jpg
+    - _static/conf/images/headers/2026/writing-day.jpg
+    - _static/conf/images/headers/2026/tickets.jpg
   index:
     - _static/conf/images/pics/writing-day.jpg
     - _static/conf/images/pics/reg.jpg
@@ -160,7 +160,7 @@ unconf:
 
 writing_day:
   url: ""
-  date: Sunday, September 6, 10:00-18:00 CET
+  date: Sunday, September 6, 10:00-18:00 CEST
 
 volunteer:
   form_url: ""

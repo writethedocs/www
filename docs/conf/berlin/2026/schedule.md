@@ -38,9 +38,9 @@ All times are in [{{ tz }}](https://time.is/{{ tz }}).
 
 <hr>
 
-## {{date.day_two.dotw}}, {{date.day_two.date}}
+## {{date.day_one.dotw}}, {{date.day_one.date}}
 
-{{ date.day_two.summary }}
+{{ date.day_one.summary }}
 
 {% if flaghasfood %}
 
@@ -66,10 +66,10 @@ Is this your first time at Write the Docs? Join us for an informal Introduction 
 
 <hr>
 
-## {{date.day_three.dotw}}, {{date.day_three.date}}
+## {{date.day_two.dotw}}, {{date.day_two.date}}
 
 <p>
-{{ date.day_three.summary }}
+{{ date.day_two.summary }}
 </p>
 
 - Conference talks are held in {{about.venue}}
@@ -88,10 +88,10 @@ A detailed schedule will be announced soon.
 
 <hr>
 
-## {{date.day_four.dotw}}, {{date.day_four.date}}
+## {{date.day_three.dotw}}, {{date.day_three.date}}
 
 <p>
-{{ date.day_four.summary }}
+{{ date.day_three.summary }}
 </p>
 
 - Conference talks are held in {{about.venue}}

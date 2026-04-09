@@ -132,7 +132,7 @@ This is our main social event of the conference. Drinks and snacks provided by u
 Details TBD.
 
 ## Did We Miss Anything?
-Is there anything that would make your attendance possible or improve your experience? Please email us at berlin@writethedocs.org, and we’ll do what we can to provide it.
+Is there anything that would make your attendance possible or improve your experience? Please email us at <{{email}}>, and we’ll do what we can to provide it.
 
 
 
