@@ -168,6 +168,7 @@ unconf:
 writing_day:
   url: "https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform?usp=header"
   date: Sunday, May 3, 9 AM - 5 PM
+  project_deadline: "April 22, 2026"
 
 volunteer:
   form_url: "https://docs.google.com/forms/d/e/1FAIpQLSeJvA3uhXDuFsl_kFYWyTyTIyYs6ItHMPspOVq_iSlIloFo6g/viewform?usp=sharing&ouid=109538527958730243648"

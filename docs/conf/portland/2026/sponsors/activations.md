@@ -180,7 +180,7 @@ Free professional headshots for all attendees, sponsored by your company. Sponso
 
 A useful, co-branded item distributed to all attendees featuring both the Write the Docs and sponsor logos. Items should be practical and conference-appropriate (e.g., cable organizers, portable chargers). Write the Docs manages production and distribution.
 
-- **Quantity:** All registered attendees (~400)
+- **Quantity:** All registered attendees (~{{ about.attendees }})
 
 ### What Write the Docs Provides
 
