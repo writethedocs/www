@@ -48,7 +48,6 @@ Sponsor branding for the Unconference track, which runs in parallel with speaker
 
 - Signage at Unconference room entrances with sponsor logo
 - Sponsor logo on Unconference schedule board
-- Acknowledgment during Unconference introduction remarks
 - Table for sponsor collateral
 
 ### What the Sponsor Provides

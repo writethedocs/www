@@ -28,8 +28,8 @@ Still need a ticket? Now is a great time to purchase your ticket at one of our v
 | Student or unemployed &nbsp; &nbsp;    | $100                     | $50        |
 | Independent                            | $350                     | $100       |
 | Corporate                              | $650                     | $175       |
-   
-<br />
+
+
 ```{button-link} https://ti.to/writethedocs/write-the-docs-portland-2026
 Buy your ticket
 ```
