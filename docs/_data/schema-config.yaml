@@ -211,6 +211,7 @@ unconf-details:
 writing_day-details:
   url: str(required=False)
   date: str(required=True)
+  project_deadline: str(required=False)
 
 hike-details:
   date: str(required=True)
