@@ -11,7 +11,7 @@ Hi sponsors! We're excited to have you join us for Write the Docs {{ name }} {{ 
 ## Location
 
 {{ about.venue }}: 
-[1300 SE Stark St](https://maps.app.goo.gl/Z38CyRjmUukr3eSL6)
+[1300 SE Stark St]({{ about.venue_map_url }})
 
 ## Schedule
 
