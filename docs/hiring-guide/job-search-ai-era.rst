@@ -430,8 +430,7 @@ share openly during a difficult time in the job market.
 
 Grateful acknowledgment to the following contributors:
 
-Alison Holloway, Ben Bristow, Bob Watson, Daryl White, Dori Woodhouse, Heather Firth, JS,
-Juliette Kernion, LJ, Lois Patterson, Mike Jang, Sreya Dutta, Zach Elwood, and the many others
+Alison Holloway, Ben Bristow, Bob Watson, Daryl White, David Montenegro, Dori Woodhouse, Heather Firth, Jason Gray, JS, Juliette Kernion, Kyle Rolline, Lana Brindley, LJ, Lois Patterson, Mike Jang, Sreya Dutta, Zach Elwood, and the many others
 in the Write the Docs community who contributed to these conversations.
 
 If you found this guide useful, consider joining the `Write the Docs Slack <https://www.writethedocs.org/slack/>`_
