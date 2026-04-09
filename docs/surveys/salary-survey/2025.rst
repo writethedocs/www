@@ -170,9 +170,37 @@ We're always keen to hear your thoughts on this survey, so that we can continue 
 
    .. pull-quote::
 
-      quote 1
+      Previous WTD data gave me the confidence I needed to ask for (and justify to myself) a $45,000 salary increase when I joined a new company in 2023. And I got the job.
+      
+      I always share the WTD survey results with my manager every year, and the information has been so instrumental in helping my manager understand the value of my work in a very specialized field.
 
-      quote 2
+      The WTD Salary Survey is my go-to resource when discussing salaries with potential employers.
+
+      Really appreciate the salary survey, which allows us all to get a feel for the range of skills and pay in our industry.
+
+      This is a super valuable site and survey. Thank you for helping us know where we land.
+
+      Thank you for running this every year! The survey results are super helpful for job search and career development.
+
+      To surprise you with perspective: Completing this survey annually, around the performance review cycle, really helps me to reflect on where I actually am in my career development and what I want next.
+
+      Thank you for providing this important community service!
+
+      When I was new to a full-time technical writer role, the WTD Salary Survey provided me with a baseline of what was considered fair and helped me negotiate a better raise the year after.
+
+      Thanks! I shall see if I can use this survey information to support my job search this year and next year.
+
+      Let's get every tech writer to 200k and above!
+
+      Useful questions for a thorough self-assessment. I am curious now and looking forward to the results!
+
+      Thanks for holding the survey! I've used it for negotiations so I find it invaluable.
+
+      Previous surveys helped me negotiate my current salary!
+
+      Sharing our salaries is empowering and enables us to stay competitive.
+
+      The survey supports my yearly performance review discussions with management.
 
    .. raw:: html
 
@@ -274,14 +302,23 @@ Hours worked
 
    |icon-question|
 
-   **How many hours per week do you work?**
+   **As an employee, how many hours per week do you work, on average?**
 
    - 1–20 hours
    - 21–30 hours
    - 31–40 hours
    - 41–50 hours
    - 51–60 hours
-   - More than 60 hours
+   - More than 60 hours (please specify)
+
+   **As a contractor, how many hours per week do you work, on average?**
+
+   - 1–20 hours
+   - 21–30 hours
+   - 31–40 hours
+   - 41–50 hours
+   - 51–60 hours
+   - More than 60 hours (please specify)
 
 .. raw:: html
 
@@ -792,6 +829,11 @@ Salary or contract earnings changes
    - Yes - my salary decreased
    - No - my salary stayed the same
 
+   **Regardless of outcome, did you attempt to negotiate a salary increase in the past year?** This could be through formal or informal procedures.
+
+   - Yes
+   - No
+
    **CONTRACTORS:**
 
    **Have your total contract or freelance earnings changed in the past year?** Please do not take outside factors such as inflation, cost of living or currency conversion rates into account - just the total amount of money you received from work you have done in the past year.
@@ -799,6 +841,11 @@ Salary or contract earnings changes
    - Yes - my earnings increased
    - Yes - my earnings decreased
    - No - my earnings stayed the same
+
+   **Regardless of outcome, did you attempt to negotiate a contract or freelance rate increase in the past year?**
+
+   - Yes
+   - No
 
 .. raw:: html
 
@@ -1235,13 +1282,11 @@ Salary
 
    |icon-question|
 
-   **Please enter your salary before taxes are taken out, and indicate whether this is a monthly or yearly amount** (in some countries it is customary to talk about monthly salary, while in others yearly figures are more common). Monthly figures will be multiplied by 12 for comparison with yearly figures.
+   **Enter your gross salary - i.e. including tax - and indicate whether this is a monthly or yearly amount.** If your compensation is made up of a base salary and significant bonus, equity or commission payments, enter your total compensation. If this number fluctuates, enter what you expect to earn in total in 2025.  
 
-   If your total compensation is made up of a base salary and significant bonus, equity or commission payments, please enter your total compensation (or an average, if it fluctuates).
-
-   - currency
-   - salary
-   - monthly/yearly
+   - Currency
+   - Salary including tax
+   - This amount is: monthly/yearly
 
 .. raw:: html
 
@@ -2760,7 +2805,7 @@ Organization type and industry
    - Education, Training, Instructional Design, Learning
    - Entertainment, Leisure, Gaming, Gambling, Sports, E-Sports
    - Events, Event Management, Event Services, Venues, Audio/Video
-   - Finance, Banking, Financial Services, Financial Technology, Payments, Accounting, Taxation, Cyptocurrency
+   - Finance, Banking, Financial Services, Financial Technology, Payments, Accounting, Taxation, Cryptocurrency
    - Food, Beverages
    - Government
    - Healthcare, Medical, Pharmaceuticals, Biotechnology
@@ -2876,7 +2921,7 @@ Organization origin and location
 
    |icon-question|
 
-   **Is your organization multinational? A multinational organization is defined as one that has office locations and business operations in two or more countries.**
+   **Is your organization multinational?** A multinational organization is defined as one that has office locations and business operations in two or more countries.
 
    - Yes
    - No
@@ -3076,7 +3121,7 @@ Age group
 
    |icon-question|
 
-   **What is your age?**
+   **What is your age group?**
 
    - 18-25
    - 26-35
@@ -3259,8 +3304,7 @@ Education level
 
    |icon-question|
 
-   **What is the highest level of education that you have completed?**
-   If your education level isn't listed, choose the option that's the closest equivalent to the level you have completed. We're asking for the highest level completed, so if you are still working towards a qualification, please select the highest level you have actually finished.
+   **What is the highest level of education that you have completed?** If your education level isn't listed, choose the option that's the closest equivalent to the level you have completed. We're asking for the highest level completed, so if you are still working towards a qualification, please select the highest level you have actually finished.
 
    - High school
    - Technical or vocational qualification
@@ -3325,9 +3369,7 @@ Location
 
    |icon-question|
 
-   While most questions in this section are optional, general geographical location is not - this is because without it, we cannot calculate median salaries, which is one of the main objectives of the survey. For privacy reasons, finer-grained geographical location is optional.
-
-   **Please enter your country, state or province, and town or city, or the nearest large city that you feel comfortable specifying. If the autofill does not include a state or province for your location, please enter N/A.**
+   **Please enter your country, state or province (if applicable), and town or city.** While most questions in this section are optional, general geographical location is not - this is because without it, we cannot calculate median salaries, which is the main objective of the survey. If you don't feel comfortable specifing your exact location, please enter the nearest large town or city. If the autofill does not include a state or province for your location, please enter N/A.
 
    - Country
    - State/Province/Region
