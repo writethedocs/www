@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{ shortcode }}-{{year}}-opengraph.jpg
-banner: _static/conf/images/headers/2025/sponsors.jpg
+banner: _static/conf/images/headers/2026/sponsors.jpg
 ---
 
 # Sponsor Information
@@ -26,17 +26,17 @@ Revolution Hall:
 * 7:00am: Arrival and booth setup for Keystone/Patron sponsors
 * 8:00am: Doors to venue/sponsor booths open
 * 9:00am-5:00pm: Speaker Talks and Unconference
-* 10:50am: Booth sponsor introductions on main stage
-* 5:00-7:00pm: Evening break
+* 11:05am: Booth sponsor introductions on main stage
+* 5:05pm: Conference Day 1 ends
 * 7:00-9:00pm: Evening party at Jupiter NEXT (900 E Burnside St, 2nd floor)
 
 **TUESDAY, MAY 5**:
 
-* 8:15am: Keystone/Patron sponsor arrival
+* 8:00am: Keystone/Patron sponsor arrival
 * 8:30am: Doors to venue/sponsor booths open
 * 9:00am-4:00pm: Speaker Talks and Unconference
 * 4:30pm: Conference ends/load out
-* 5:30pm: Out of venue 
+* 6:00pm: Out of venue 
 
 ## Conference Overview
 

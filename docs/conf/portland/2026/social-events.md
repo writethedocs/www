@@ -17,7 +17,7 @@ We encourage everyone to drop by on Sunday evening for the conference reception.
 This is a great chance to meet other attendees,
 and make sure you know your way around the conference venue.
 
-**Where**: {{about.venue}}, {{about.unconfroom}}  
+**Where**: {{about.venue}}, {{about.unconfroom}} and Show Bar  
 **When**: 5-7 PM
 
 *Both alcoholic and non-alcoholic drinks and snacks will be provided.*

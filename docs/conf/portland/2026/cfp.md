@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/headers/2025/lightning-talks.jpg
+banner: _static/conf/images/headers/2026/lightning-talks.jpg
 ---
 
 # Call for Proposals
@@ -155,14 +155,14 @@ All Speakers must read, understand, and agree to our [Code of Conduct](/code-of-
 **{{cfp.ends}}**  
 Call for Proposal ends
 
+**{{cfp.notification}}**  
+We'll let you know whether your proposal was accepted, and ask for some supplementary information about you. Make sure to confirm your talk as soon as you get the email.
+
 **{{cfp.speaker_tickets_by}}**  
 Register for speaker ticket (with dietary preferences, hoodie size, etc.)
 
 **April 9, 2026**  
 Upload date for recorded talks (remote speakers)
-
-**{{cfp.notification}}**  
-We'll let you know whether your proposal was accepted, and ask for some supplementary information about you. Make sure to confirm your talk as soon as you get the email.
 
 **{{cfp.slides_by}}**  
 We'll ask for a copy of your slides so our human captioners can prepare for your talk

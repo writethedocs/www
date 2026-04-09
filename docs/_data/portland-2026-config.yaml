@@ -245,10 +245,10 @@ sponsors:
 
 photos:
   default:
-    - _static/conf/images/headers/2025/grants.jpg
-    - _static/conf/images/headers/2025/unconference.jpg
-    - _static/conf/images/headers/2025/volunteer.jpg
-    - _static/conf/images/headers/2025/writing-day.jpg
+    - _static/conf/images/headers/2026/unconference.jpg
+    - _static/conf/images/headers/2026/volunteer.jpg
+    - _static/conf/images/headers/2026/writing-day.jpg
+    - _static/conf/images/headers/2026/tickets.jpg
   index:
     - _static/conf/images/pics/writing-day.jpg
     - _static/conf/images/pics/reg.jpg
@@ -264,7 +264,7 @@ flagscheduleincomplete: False
 flagspeakersannounced: True
 flagrunofshow: True
 flaghasschedule: True
-flaghasshirts: False
+flaghasshirts: True
 flaglivestreaming: False
 flagvideos: False
 flagpostconf: False
