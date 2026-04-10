@@ -15,20 +15,20 @@ Hi sponsors! We're excited to have you join us for Write the Docs {{ name }} {{ 
 
 ## Schedule
 
-**{{ date.day_one.dotw | upper }}, {{ date.day_one.date | upper }}**:
+**{{ date.day_two.dotw | upper }}, {{ date.day_two.date | upper }}**:
 
 * 10:00: Doors open
 * 10:00-18:00: Writing Day and check in
 * 17:00-19:00: Welcome reception
 
-**{{ date.day_two.dotw | upper }}, {{ date.day_two.date | upper }}**:
+**{{ date.day_three.dotw | upper }}, {{ date.day_three.date | upper }}**:
 
 * 08:00: Arrival and booth setup for Keystone/Patron sponsors
 * 08:30: Doors to venue/sponsor booths open
 * 10:00-17:00: Speaker Talks and Unconference
 * 19:00-21:00: Social event
 
-**{{ date.day_three.dotw | upper }}, {{ date.day_three.date | upper }}**:
+**{{ date.day_four.dotw | upper }}, {{ date.day_four.date | upper }}**:
 
 * 08:30: Keystone/Patron sponsor arrival
 * 09:00: Doors to venue/sponsor booths open
@@ -37,11 +37,11 @@ Hi sponsors! We're excited to have you join us for Write the Docs {{ name }} {{ 
 
 ## Conference Overview
 
-* **{{ date.day_one.dotw | upper }}**: The conference begins with [Writing Day](/conf/{{ shortcode }}/{{ year }}/schedule/) and typically is attended by one third of our attendees. The Welcome Reception takes place in the evening and brings in an additional wave of attendees. **There are no sponsor booths this day**, but sponsors are encouraged to submit and lead a Writing Day project.
+* **{{ date.day_two.dotw | upper }}**: The conference begins with [Writing Day](/conf/{{ shortcode }}/{{ year }}/schedule/) and typically is attended by one third of our attendees. The Welcome Reception takes place in the evening and brings in an additional wave of attendees. **There are no sponsor booths this day**, but sponsors are encouraged to submit and lead a Writing Day project.
 
-* **{{ date.day_two.dotw | upper }}**: Day 1 of Speaker Talks and Unconference. Booth setup for Keystone and Patron sponsors. Attendees arrive promptly when doors open. Sponsor introductions are on the main stage for Keystone and Patron sponsors. The day features speaker talks with short breaks between each session, and the Unconference track runs in parallel. An offsite social gathering is held in the evening.
+* **{{ date.day_three.dotw | upper }}**: Day 1 of Speaker Talks and Unconference. Booth setup for Keystone and Patron sponsors. Attendees arrive promptly when doors open. Sponsor introductions are on the main stage for Keystone and Patron sponsors. The day features speaker talks with short breaks between each session, and the Unconference track runs in parallel. An offsite social gathering is held in the evening.
 
-* **{{ date.day_three.dotw | upper }}**: Day 2 of Speaker Talks and Unconference. Schedule reflects {{ date.day_two.dotw }} with slight adjustments to beginning and end times.
+* **{{ date.day_four.dotw | upper }}**: Day 2 of Speaker Talks and Unconference. Schedule reflects {{ date.day_three.dotw }} with slight adjustments to beginning and end times.
 
 The [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) will be available here.
 

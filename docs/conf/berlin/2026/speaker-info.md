@@ -61,18 +61,18 @@ Folks start giving talks on stage!
 
 ## Conference Schedule
 
-### {{ date.day_one.dotw | upper }}
+### {{ date.day_two.dotw | upper }}
 
 There are no speaker-specific requirements this day but we encourage you to join us for Writing Day and our Welcome Reception.
 
-### {{ date.day_two.dotw | upper }}
+### {{ date.day_three.dotw | upper }}
 
 - 08:30-09:30: Morning Speaker tech checks at main stage
 - 10:00-13:00: Speaker Talks
 - 13:00-13:30: Afternoon Speaker tech checks at main stage
 - 14:30-17:00: Speaker Talks
 
-### {{ date.day_three.dotw | upper }}
+### {{ date.day_four.dotw | upper }}
 
 - 08:30-09:30: Morning Speaker tech checks at main stage
 - 10:00-13:00: Speaker Talks

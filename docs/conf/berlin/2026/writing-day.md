@@ -25,7 +25,7 @@ More details are below. No additional sign up is required, and the full schedule
 
 ## Writing Day Schedule
 
-**{{date.day_one.dotw}}, {{date.day_one.date}}, {{date.day_one.writing_day_time}} {{tz}}**
+**{{date.day_two.dotw}}, {{date.day_two.date}}, {{date.day_two.writing_day_time}} {{tz}}**
 
 Writing Day is an all-day event designed for you to join in throughout the day.
 We may make changes to the structure closer to the conference.

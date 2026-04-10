@@ -160,16 +160,18 @@ Home - Write the Docs {{ name }} {{ year }}
     <div class="uk-container" uk-grid>
       <h2>Schedule Overview</h2>
 
+      {# In a four day conference day_one is a hike/social, day_two is writing day. #}
+      {# In a three day conference (no day_one) day_two is writing day shown here. #}
+      {% if date.day_one is defined %}
       <div class="schedule-item uk-width-1-3@s">
         <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/' + date.day_one.icon + '-' + color +  '.svg', 1) }}" alt="">
         <h3>{{ date.day_one.event }} </h3>
         <em>{{ date.day_one.date }} </em>
         <p>{{ date.day_one.summary }} </p>
       </div>
+      {% endif %}
 
-      {# This if may appear confusing: in a four day conference, day two is writing day, i.e show it. #}
-      {# In a three day conference, day two is a conference day, already shown one block lower #}
-      {% if date.day_two is defined and date.day_three is defined and date.day_four is defined %}
+      {% if date.day_two is defined %}
       <div class="schedule-item uk-width-1-3@s">
         <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/' + date.day_two.icon + '-' + color +  '.svg', 1) }}" alt="">
         <h3>{{ date.day_two.event }} </h3>
