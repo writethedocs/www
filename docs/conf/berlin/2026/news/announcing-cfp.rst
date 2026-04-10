@@ -2,10 +2,10 @@
 :banner: _static/conf/images/headers/2026/speakers.jpg
 :og:image: _static/conf/images/headers/2026/speakers.jpg
 
-.. post:: Apr 9, {{year}}
+.. post:: 07:00, Apr 10, {{year}} 
    :tags: {{shortcode}}-{{year}}, website, cfp
 
-Announcing the Website, Call for Proposals, and Sponsorship Prospectus
+Announcing our Website, Call for Proposals, and Sponsorship Prospectus
 ======================================================================
 
 We're excited to announce the full {{ city }} conference website, including:
