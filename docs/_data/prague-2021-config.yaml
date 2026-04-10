@@ -218,5 +218,5 @@ flagpostconf: True
 flaghashike: False
 flaghasboat: False
 flaghaswritingday: True
-flaghasjobfair: True
+flaghassponsorexpo: True
 flaghasbadgeflair: False

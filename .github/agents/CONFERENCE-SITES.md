@@ -425,7 +425,7 @@ flaghasshirts: true       # Shirts available
 flagvideos: false         # Videos published
 flaghaslightningtalks: true
 flaghasunconf: true       # Unconference happening
-flaghasjobfair: true      # Job fair/sponsor expo
+flaghassponsorexpo: true   # Sponsor expo
 flaghasbadgeflair: true   # Badge flair available
 flaghaslivestream: false  # Livestream available
 flagpostconf: false       # Conference ended
