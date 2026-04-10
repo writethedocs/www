@@ -3319,21 +3319,21 @@ Gender identity
 
    </details>
 
-As in previous surveys, the majority of respondents in 2024 were women - 57% - with men making up 37.2%. 3.9% of respondents were non-binary, transgender or other, and 1.7% chose to not provide an answer.
+As in previous surveys, the majority of respondents in 2025 were women - 61.9% - with men making up 33.4%. 3.0% of respondents were non-binary, transgender or other, and 1.7% chose to not provide an answer.
 
 .. table:: Respondent gender identity
    :widths: 70 15 15
-   :name: tbl-2024-gender-identity
+   :name: tbl-2025-gender-identity
    :class: std3col sortable
 
    +---------------------+-----+-------+
    | Identity            | |N| | |%|   |
    +=====================+=====+=======+
-   | Woman               | 444 | 57.0% |
+   | Woman               | 467 | 61.9% |
    +---------------------+-----+-------+
-   | Man                 | 290 | 37.2% |
+   | Man                 | 252 | 33.4% |
    +---------------------+-----+-------+
-   | Non-binary or other | 32  | 4.2%  |
+   | Non-binary or other | 23  | 3.0%  |
    +---------------------+-----+-------+
    | Not specified       | 13  | 1.7%  |
    +---------------------+-----+-------+
@@ -3341,13 +3341,13 @@ As in previous surveys, the majority of respondents in 2024 were women - 57% - w
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Respondent gender identity" aria-describedby="figure_respondent-gender-identity_desc" type="image/svg+xml" data="/_images/2024-gender-identity.svg">
+      <object role="img" aria-label="Respondent gender identity" aria-describedby="figure_respondent-gender-identity_desc" type="image/svg+xml" data="/_images/2025-gender-identity.svg">
          <p id="figure_respondent-gender-identity_desc">Donut chart showing gender identity of respondents.</p>
       </object>
       <figcaption>Figure: Respondent gender identity</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-gender-identity.svg
+.. figure:: images/2025/2025-gender-identity.svg
    :class: hide
 
 Experience

@@ -1,0 +1,39 @@
+<svg viewBox="0 55 660 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+	<defs>
+
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+      ]]>
+    </style>
+
+  </defs>
+
+  <g id="2025-gender-identity">
+
+    <g class="title">
+      <text font-size="14"><tspan x="40" y="33">Gender identity</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Employees and contractors combined</tspan></text>
+    </g>
+
+    <g class="donut-chart">
+
+      <path d="M504.532 168.576 C499.532 168.576 474.804 176.611 472.902 177.229 L471 177.847" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M182 122.577 C187 122.577 211.727 130.611 213.63 131.229 L215.532 131.847" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M157 293.847 C162 293.847 186.727 285.813 188.63 285.195 L190.532 284.577" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M231.585 117.295 A150 150 0 1 1 325.614 380.436 L328.246 290.474 A60 60 0 1 0 290.634 185.218 Z" fill="#00AEFF" stroke="white" stroke-width="2"/>
+      <path d="M325.614 380.436 A150 150 0 0 1 202.650 151.255 L279.060 198.802 A60 60 0 0 0 328.246 290.474 Z" fill="#7EA4FF" stroke="white" stroke-width="2"/>
+      <path d="M202.650 151.255 A150 150 0 0 1 231.585 117.295 L290.634 185.218 A60 60 0 0 0 279.060 198.802 Z" fill="#FFA600" stroke="white" stroke-width="2"/>
+      <text font-size="14" class="value-labels-inner"><tspan x="415" y="195">61.9%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="215" y="284">33.4%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="220" y="155">4.8%</tspan></text>
+      <text font-size="10"><tspan x="509" y="170">Woman</tspan></text>
+      <text font-size="10"><tspan x="132" y="297">Man</tspan></text>
+      <text font-size="10"><tspan x="92" y="124">Non-binary / other</tspan></text>
+
+    </g>
+
+  </g>
+
+</svg>
