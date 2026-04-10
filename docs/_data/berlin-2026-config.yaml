@@ -109,12 +109,6 @@ date: # how do we handle these? human readable would be nice.
     icon: conference
 
   # These are listed in the schedule
-  day_one:
-    event: Social Event
-    date: September 5
-    summary: Join us for a social event to kick off the conference.
-    icon: hike
-    dotw: Saturday
   day_two:
     event: Writing Day
     date: September 6
@@ -180,10 +174,13 @@ sponsors:
   second:
   first:
   in_kind:
+    - name: readthedocs
+      link: https://about.readthedocs.com/?ref=writethedocs
+      brand: Read the Docs
 
 # Things that change over time, listed in order of change
 flaglanding: False
-flaghassponsors: False
+flaghassponsors: True
 flagcfp: True
 flagticketsonsale: False
 flagsoldout: False
@@ -203,7 +200,7 @@ flaghashike: False
 flaghasfood: True
 flaghaswritingday: True
 flaghaslightningtalks: True
-flaghasjobfair: False
+flaghasjobfair: True
 flaghasboat: False
 flaghasvisiting: False
 flaghasteam: False
