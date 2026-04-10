@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/headers/2025/lightning-talks.jpg
+banner: _static/conf/images/headers/2026/lightning-talks.jpg
 ---
 
 # Call for Proposals
@@ -105,7 +105,7 @@ Check out topics that might be related to your talk from previous years:
 
 - [Berlin {{year-1}}](https://www.writethedocs.org/conf/berlin/{{year-1}}/speakers/)
 - [Portland {{year-1}}](https://www.writethedocs.org/conf/portland/{{year-1}}/speakers/)
-- [Atlantic {{year-2}}](https://www.writethedocs.org/conf/atlantic/{{year-2}}/speakers/)
+- [Portland {{year-2}}](https://www.writethedocs.org/conf/portland/{{year-2}}/speakers/)
 - [Atlantic {{year-2}}](https://www.writethedocs.org/conf/atlantic/{{year-2}}/speakers/)
 
 ## Writing your proposal

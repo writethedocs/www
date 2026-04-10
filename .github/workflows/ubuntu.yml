@@ -34,10 +34,14 @@ jobs:
         uv run make html
         cd ../
 
+    - name: Check for unparsed markup
+      run: |
+        python3 docs/_scripts/check_unparsed_markup.py docs/_build/html
+
     # Upload performance is awful on the many small files our build generates,
-    # so it's compressed locally before uploading
-    # we archive the html and set it as an artifact prior to checking the links.
-    # this allows for review should it fail.
+    # so it's compressed locally before uploading.
+    # We archive the html and set it as an artifact prior to checking the links.
+    # This allows for review should it fail.
     - name: Compress site
       run: tar -czf html.tar.gz docs/_build/html
 

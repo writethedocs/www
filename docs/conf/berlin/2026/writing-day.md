@@ -25,10 +25,10 @@ More details are below. No additional sign up is required, and the full schedule
 
 ## Writing Day Schedule
 
-**{{date.day_one.dotw}}, {{date.day_one.date}}, {{date.day_one.writing_day_time}} {{tz}}**
+**{{date.day_two.dotw}}, {{date.day_two.date}}, {{date.day_two.writing_day_time}} {{tz}}**
 
 Writing Day is an all-day event designed for you to join in throughout the day.
-We are trying out some new ideas in our Portland conference, and might make new changes to the structure.
+We may make changes to the structure closer to the conference.
 
 - **Morning Session**
   - Welcome and overview
@@ -107,7 +107,7 @@ If you are planning to contribute, review the project list before the conference
 - Love letters
 - The Documentarian Manifesto
 
-Find specific examples on the [Portland Writing Day 2025 project list](https://www.writethedocs.org/conf/portland/2025/writing-day/#project-list).
+Find specific examples on the [Portland Writing Day 2026 project list](https://www.writethedocs.org/conf/portland/2026/writing-day/#project-list).
 
 ## Project list
 
