@@ -1,0 +1,60 @@
+<svg viewBox="0 40 660 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+      ]]>
+    </style>
+  </defs>
+
+  <g id="2025-hours-worked-ec-contractor">
+
+    <g class="title">
+      <text font-size="14"><tspan x="40" y="33">Weekly hours worked as contractor</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Employee-contractors (n=34)</tspan></text>
+    </g>
+
+    <g class="bar-chart-vertical">
+
+      <g class="y-axis">
+        <g class="gridlines">
+          <path d="M68.5 319.5H620.5"/>
+          <path d="M68.5 242.5H620.5"/>
+          <path d="M68.5 165.5H620.5"/>
+          <path d="M68.5 87.5H620.5"/>
+        </g>
+        <g class="axis-labels">
+          <text font-size="10"><tspan x="46.4883" y="323.384">0%</tspan></text>
+          <text font-size="10"><tspan x="40.4824" y="246.384">25%</tspan></text>
+          <text font-size="10"><tspan x="40.4824" y="169.384">50%</tspan></text>
+          <text font-size="10"><tspan x="40.4824" y="92.3843">75%</tspan></text>
+        </g>
+      </g>
+
+      <g class="data-series">
+        <g class="a">
+          <g class="axis-labels">
+            <text font-size="12"><tspan x="112.2" y="337.384">1–20</tspan></text>
+            <text font-size="12"><tspan x="219.6" y="337.384">21–30</tspan></text>
+            <text font-size="12"><tspan x="330.0" y="337.384">31–40</tspan></text>
+            <text font-size="12"><tspan x="440.4" y="337.384">41–50</tspan></text>
+            <text font-size="12"><tspan x="550.8" y="337.384">51–60</tspan></text>
+          </g>
+          <g class="bars">
+            <path d="M174.5 155.6H72.5V320H174.5V155.6Z"/>
+            <path d="M284.5 301.3H183.5V320H284.5V301.3Z"/>
+            <path d="M395.5 201.2H293.5V320H395.5V201.2Z"/>
+            <path d="M505.5 310.4H404.5V320H505.5V310.4Z"/>
+            <path d="M616.5 320.0H514.5V320H616.5V320.0Z"/>
+          </g>
+          <g class="value-labels">
+          </g>
+        </g>
+      </g>
+
+    </g>
+
+  </g>
+
+</svg>
