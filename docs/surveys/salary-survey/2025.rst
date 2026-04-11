@@ -1115,9 +1115,9 @@ Salary or contract earnings changes
 
    </details>
 
-Of the 713 respondents who worked as employees in the past year, 75% reported that their salary had increased in the past year. 22.3% reported no change, and 2.7% reported a decrease.
+Of the 709 respondents who worked as employees in the past year, 71.4% reported that their salary had increased. 24.5% reported no change, and 4.1% reported a decrease.
 
-Among the 94 respondents who had worked on a contract basis, only 46.8% reported an earnings increase. 37.2% reported no change, and 16% reported a decrease.
+Among the 80 respondents who had worked on a contract basis, 42.5% reported an earnings increase. 36.2% reported no change, and 21.2% reported a decrease.
 
 .. raw:: html
 
@@ -1129,29 +1129,29 @@ Among the 94 respondents who had worked on a contract basis, only 46.8% reported
 
 .. table:: Employee salary change
    :widths: 70 15 15
-   :name: tbl-2024-salary-change
+   :name: tbl-2025-salary-change
    :class: std3col sortable
 
-   +-------------------+------+-------+
-   | Change            | |N|  | |%|   |
-   +===================+======+=======+
-   | |1| Increase      | 535  | 75.0% |
-   +-------------------+------+-------+
-   | |2| No change     | 159  | 22.3% |
-   +-------------------+------+-------+
-   | |3| Decrease      | 19   | 2.7%  |
-   +-------------------+------+-------+
+   +-------------------+-----+-------+
+   | Change            | |N| | |%|   |
+   +===================+=====+=======+
+   | |1| Increase      | 506 | 71.4% |
+   +-------------------+-----+-------+
+   | |2| No change     | 174 | 24.5% |
+   +-------------------+-----+-------+
+   | |3| Decrease      | 29  | 4.1%  |
+   +-------------------+-----+-------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Employee salary change" aria-describedby="figure_employee-salary-change_desc" type="image/svg+xml" data="/_images/2024-salary-change-employees.svg">
+      <object role="img" aria-label="Employee salary change" aria-describedby="figure_employee-salary-change_desc" type="image/svg+xml" data="/_images/2025-salary-change-employees.svg">
          <p id="figure_employee-salary-change_desc">Donut chart showing employees reporting salary increase, decrease or no change in the past year</p>
       </object>
       <figcaption>Figure: Employee salary change</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-salary-change-employees.svg
+.. figure:: images/2025/2025-salary-change-employees.svg
    :class: hide
 
 .. raw:: html
@@ -1160,29 +1160,29 @@ Among the 94 respondents who had worked on a contract basis, only 46.8% reported
 
 .. table:: Contractor earnings change
    :widths: 70 15 15
-   :name: tbl-2024-earnings-change
+   :name: tbl-2025-earnings-change
    :class: std3col sortable
 
    +--------------------+-----+-------+
    | Change             | |N| | |%|   |
    +====================+=====+=======+
-   | |1| Increase       | 44  | 46.8% |
+   | |1| Increase       | 34  | 42.5% |
    +--------------------+-----+-------+
-   | |2| No change      | 35  | 37.2% |
+   | |2| No change      | 29  | 36.2% |
    +--------------------+-----+-------+
-   | |3| Decrease       | 15  | 16.0% |
+   | |3| Decrease       | 17  | 21.2% |
    +--------------------+-----+-------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Contractor earnings change" aria-describedby="figure_earnings-change-contractors_desc" type="image/svg+xml" data="/_images/2024-earnings-change-contractors.svg">
+      <object role="img" aria-label="Contractor earnings change" aria-describedby="figure_earnings-change-contractors_desc" type="image/svg+xml" data="/_images/2025-earnings-change-contractors.svg">
          <p id="figure_earnings-change-contractors_desc">Donut chart showing contractors reporting earnings increase, decrease or no change in the past year</p>
       </object>
       <figcaption>Figure: Contractor earnings change</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-earnings-change-contractors.svg
+.. figure:: images/2025/2025-earnings-change-contractors.svg
    :class: hide
 
 .. raw:: html

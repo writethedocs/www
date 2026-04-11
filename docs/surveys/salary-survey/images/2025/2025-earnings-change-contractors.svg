@@ -1,0 +1,48 @@
+<svg viewBox="0 55 660 188" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+      ]]>
+    </style>
+  </defs>
+
+  <g id="2025-earnings-change-contractors">
+
+    <g class="title">
+      <text font-size="14"><tspan x="40" y="33">Earnings change</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Contractors (n=80)</tspan></text>
+    </g>
+
+    <g class="donut-chart">
+
+      <!-- Decrease: 21.25% — theta 180 to 141.750 -->
+      <path d="M180 222 A150 150 0 0 1 212.20 129.14 L282.88 184.85 A60 60 0 0 0 270 222 Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+
+      <!-- No change: 36.25% — theta 141.750 to 76.500 -->
+      <path d="M212.20 129.14 A150 150 0 0 1 365.02 76.14 L344.01 163.66 A60 60 0 0 0 282.88 184.85 Z" fill="#E9C168" stroke="white" stroke-width="2"/>
+
+      <!-- Increase: 42.5% — theta 76.500 to 0 -->
+      <path d="M365.02 76.14 A150 150 0 0 1 480 222 L390 222 A60 60 0 0 0 344.01 163.66 Z" fill="#82A555" stroke="white" stroke-width="2"/>
+
+      <!-- Inner value labels -->
+      <text font-size="14" class="value-labels-inner"><tspan x="385" y="162">42.5%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="263" y="127">36.2%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="210" y="196">21.2%</tspan></text>
+
+      <!-- External segment labels -->
+      <text font-size="10"><tspan x="102.9" y="195">Decrease</tspan></text>
+      <text font-size="10"><tspan x="154.3" y="94">No change</tspan></text>
+      <text font-size="10"><tspan x="495.7" y="132">Increase</tspan></text>
+
+      <!-- Connectors -->
+      <path d="M489 129 C484 129 459 137 457 137.8 L455 138.4" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M205.9 92 C210.9 92 235.6 100 237.5 100.6 L239.4 101.2" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M147.3 193 C152.3 193 178.2 195 180.2 195.2 L182.2 195.5" stroke="#252521" stroke-dasharray="1 3"/>
+
+    </g>
+
+  </g>
+
+</svg>

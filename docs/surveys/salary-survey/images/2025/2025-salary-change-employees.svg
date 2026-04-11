@@ -1,0 +1,47 @@
+<svg viewBox="0 55 660 191" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+      ]]>
+    </style>
+  </defs>
+
+  <g id="2025-salary-change-employees">
+
+    <g class="title">
+      <text font-size="14"><tspan x="40" y="33">Salary change</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Employees (n=709)</tspan></text>
+    </g>
+
+    <g class="donut-chart">
+
+      <!-- Decrease: 4.1% — theta 180 to 172.638 -->
+      <path d="M180 222 A150 150 0 0 1 181.24 202.78 L270.49 214.31 A60 60 0 0 0 270 222 Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+
+      <!-- No change: 24.5% — theta 172.638 to 128.463 -->
+      <path d="M181.24 202.78 A150 150 0 0 1 236.70 104.55 L292.68 175.02 A60 60 0 0 0 270.49 214.31 Z" fill="#E9C168" stroke="white" stroke-width="2"/>
+
+      <!-- Increase: 71.4% — theta 128.463 to 0 -->
+      <path d="M236.70 104.55 A150 150 0 0 1 480 222 L390 222 A60 60 0 0 0 292.68 175.02 Z" fill="#82A555" stroke="white" stroke-width="2"/>
+
+      <!-- Inner value labels -->
+      <text font-size="14" class="value-labels-inner"><tspan x="348" y="132">71.4%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="210" y="178">24.5%</tspan></text>
+
+      <!-- External segment labels -->
+      <text font-size="10"><tspan x="72.9" y="202">Decrease (4.1%)</tspan></text>
+      <text font-size="10"><tspan x="103.7" y="161">No change</tspan></text>
+      <text font-size="10"><tspan x="493.7" y="134">Increase</tspan></text>
+
+      <!-- Connectors -->
+      <path d="M490 132 C485 132 460 140 458 140.6 L456 141.3" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M156 160 C161 160 186 168 188 168.6 L190 169.3" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M145 200 C150 200 176 209 178 209.6 L180 210.3" stroke="#252521" stroke-dasharray="1 3"/>
+
+    </g>
+
+  </g>
+
+</svg>
