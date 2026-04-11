@@ -974,7 +974,7 @@ Length of time in current role
 
    </details>
 
-A spike in respondents with new jobs was first seen in 2021, with 31.7% of respondents reported being in their current position at their current organization for less than a year. In 2022, this number peaked at 36.8% - when respondents with new jobs outstripped the number who had held their current position for medium or long terms. In 2023, the number of respondents with new jobs fell again, to 20.3% - lower than in 2020 although still well above the 9% reported in 2019, and this number has remained steady in 2024, at 21.8%.
+A spike in respondents with new jobs was first seen in 2021, with 31.7% of respondents reported being in their current position at their current organization for less than a year. In 2022, this number peaked at 36.8% - when respondents with new jobs outstripped the number who had held their current position for medium or long terms. In 2023, the number of respondents with new jobs fell again, to 20.3% - lower than in 2020 although still well above the 9% reported in 2019. This trend has remained largely unchanged in 2024 (21.8%) and 2025 (20.6%).
 
 .. raw:: html
 
@@ -982,33 +982,33 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
 
 .. table:: Length of time in current role - employees
    :widths: 70 15 15
-   :name: tbl-2024-length-of-time-in-current-role-employees
+   :name: tbl-2025-length-of-time-in-current-role-employees
    :class: std3col sortable
 
    +-------------------------+-----+-------+
    | Time                    | |N| | |%|   |
    +=========================+=====+=======+
-   | 2-5 years               | 274 | 38.4% |
+   | 2-5 years               | 284 | 40.1% |
    +-------------------------+-----+-------+
-   | 0-1 year                | 156 | 21.8% |
+   | 0-1 year                | 146 | 20.6% |
    +-------------------------+-----+-------+
-   | 1-2 years               | 131 | 18.3% |
+   | 5-10 years              | 123 | 17.3% |
    +-------------------------+-----+-------+
-   | 5-10 years              | 110 | 15.4% |
+   | 1-2 years               | 111 | 15.7% |
    +-------------------------+-----+-------+
-   | more than 10 years      | 43  | 6.0%  |
+   | more than 10 years      | 45  | 6.3%  |
    +-------------------------+-----+-------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Length of time in current role at current organization" aria-describedby="figure_length-of-time-in-current-role_desc" type="image/svg+xml" data="/_images/2024-time-in-role-employees.svg">
+      <object role="img" aria-label="Length of time in current role at current organization" aria-describedby="figure_length-of-time-in-current-role_desc" type="image/svg+xml" data="/_images/2025-time-in-role-employees.svg">
          <p id="figure_length-of-time-in-current-role_desc">Length of time in current role (at current organization - employee respondents who have changed roles at the same organization were instructed to specify the length of time they had been in their current role only, not the total length of time at the organization)</p>
       </object>
       <figcaption>Figure: Length of time in current role (employees)</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-time-in-role-employees.svg
+.. figure:: images/2025/2025-time-in-role-employees.svg
    :class: hide
 
 .. raw:: html
@@ -1017,33 +1017,33 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
 
 .. table:: Length of time contracting - contractors
    :widths: 70 15 15
-   :name: tbl-2024-length-of-time-in-current-role-contractors
+   :name: tbl-2025-length-of-time-in-current-role-contractors
    :class: std3col sortable
 
-   +------------------------+--------+--------+
-   | Time                   | |N|    | |%|    |
-   +========================+========+========+
-   | 1-2 years              | 23     | 24.5%  |
-   +------------------------+--------+--------+
-   | 0-1 year               | 19     | 20.2%  |
-   +------------------------+--------+--------+
-   | more than 10 years     | 18     | 19.1%  |
-   +------------------------+--------+--------+
-   | 5-10 years             | 18     | 19.1%  |
-   +------------------------+--------+--------+
-   | 2-5 years              | 16     | 17.0%  |
-   +------------------------+--------+--------+
+   +------------------------+----+-------+
+   | Time                   | |N|| |%|   |
+   +========================+====+=======+
+   | 2-5 years              | 19 | 23.8% |
+   +------------------------+----+-------+
+   | 1-2 years              | 16 | 20.0% |
+   +------------------------+----+-------+
+   | 5-10 years             | 16 | 20.0% |
+   +------------------------+----+-------+
+   | more than 10 years     | 16 | 20.0% |
+   +------------------------+----+-------+
+   | 0-1 year               | 13 | 16.2% |
+   +------------------------+----+-------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Length of time contracting" aria-describedby="figure_length-of-time-contracting_desc" type="image/svg+xml" data="/_images/2024-time-in-role-contractors.svg">
+      <object role="img" aria-label="Length of time contracting" aria-describedby="figure_length-of-time-contracting_desc" type="image/svg+xml" data="/_images/2025-time-in-role-contractors.svg">
          <p id="figure_length-of-time-contracting_desc">Length of time contracting</p>
       </object>
       <figcaption>Figure: Length of time contracting</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-time-in-role-contractors.svg
+.. figure:: images/2025/2025-time-in-role-contractors.svg
    :class: hide
 
 .. raw:: html
