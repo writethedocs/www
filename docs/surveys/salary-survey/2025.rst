@@ -1404,41 +1404,39 @@ Job security and stability
 
    </details>
 
-Employees and contractors who had indicated that they were currently unemployed were not shown this question.
+Respondents who had indicated that they were currently unemployed were not shown this question.
 
-Around half of all employees (51.4%) and half of all contractors (50% exactly) reported that their confidence in their job security and stability was around the same as last year. However, while 26.6% of employees reported feeling more confident, only 19.7% of contractors did. Conversely, 21.9% of employees reported feeling less confident, compared to 30.3% of contractors.
+Among employees, the most common response was "around the same" (45.6%), with 36.0% feeling less confident and 18.4% more confident — a shift toward less confidence compared to 2024, when 21.9% reported feeling less confident. Among contractors, 40.5% felt less confident, 31.0% around the same, and 28.6% more confident. Employee-contractors showed a notably different picture: as employees, 48.0% felt more confident, while as contractors, the three responses were evenly split at around 31–37%.
 
 .. raw:: html
 
-   <div class="tab-wrap">
-
-   <input type="radio" id="tabB553-1" name="tabGroupB553" class="tab" checked><label for="tabB553-1">Employees</label><input type="radio" id="tabB553-2" name="tabGroupB553" class="tab"><label for="tabB553-2">Contractors</label><div class="tab__content">
+   <div class="tab-wrap"><input type="radio" id="tabB553-1" name="tabGroupB553" class="tab" checked tabindex="0"><label for="tabB553-1">Employees</label><input type="radio" id="tabB553-2" name="tabGroupB553" class="tab"><label for="tabB553-2">Contractors</label><input type="radio" id="tabB553-3" name="tabGroupB553" class="tab"><label for="tabB553-3">Employee-contractors</label><div class="tab__content">
 
 .. table:: Employee job security
    :widths: 70 15 15
-   :name: tbl-2024-job-security-employees
+   :name: tbl-2025-job-security-employees
    :class: std3col sortable
 
    +-------------------------------------------+-----+-------+
    | Confidence                                | |N| | |%|   |
    +===========================================+=====+=======+
-   | |2| Around the same                       | 357 | 51.5% |
+   | |2| Around the same                       | 293 | 45.6% |
    +-------------------------------------------+-----+-------+
-   | |1| More confident                        | 184 | 26.6% |
+   | |3| Less confident                        | 231 | 36.0% |
    +-------------------------------------------+-----+-------+
-   | |3| Less confident                        | 152 | 21.9% |
+   | |1| More confident                        | 118 | 18.4% |
    +-------------------------------------------+-----+-------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Job security confidence - employees" aria-describedby="figure_job-security-confidence-employees_desc" type="image/svg+xml" data="/_images/2024-job-security-confidence-employees.svg">
-         <p id="figure_job-security-confidence-employees_desc">Graphic showing job security confidence of employees - less confident, around the same, more confident - as compared to the previous year.</p>
+      <object role="img" aria-label="Job security confidence - employees" aria-describedby="figure_job-security-confidence-employees_desc" type="image/svg+xml" data="/_images/2025-job-security-confidence-employees.svg">
+         <p id="figure_job-security-confidence-employees_desc">Half-donut chart showing job security confidence of employees — less confident, around the same, more confident — as compared to the previous year.</p>
       </object>
       <figcaption>Figure: Job security confidence - employees</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-job-security-confidence-employees.svg
+.. figure:: images/2025/2025-job-security-confidence-employees.svg
    :class: hide
 
 .. raw:: html
@@ -1447,34 +1445,92 @@ Around half of all employees (51.4%) and half of all contractors (50% exactly) r
 
 .. table:: Contractor earnings security
    :widths: 70 15 15
-   :name: tbl-2024-earnings-security-contractor
+   :name: tbl-2025-earnings-security-contractors
    :class: std3col sortable
 
-   +------------------------------------------+-----+-------+
-   | Confidence                               | |N| | |%|   |
-   +==========================================+=====+=======+
-   | |2| Around the same                      | 38  | 50.0% |
-   +------------------------------------------+-----+-------+
-   | |3| Less confident                       | 23  | 30.3% |
-   +------------------------------------------+-----+-------+
-   | |1| More confident                       | 15  | 19.7% |
-   +------------------------------------------+-----+-------+
+   +------------------------------------------+----+-------+
+   | Confidence                               | |N|| |%|   |
+   +==========================================+====+=======+
+   | |3| Less confident                       | 17 | 40.5% |
+   +------------------------------------------+----+-------+
+   | |2| Around the same                      | 13 | 31.0% |
+   +------------------------------------------+----+-------+
+   | |1| More confident                       | 12 | 28.6% |
+   +------------------------------------------+----+-------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Earnings security confidence - contractors" aria-describedby="figure_earnings-security-confdence-contractors_desc" type="image/svg+xml" data="/_images/2024-earnings-security-confidence-contractors.svg">
-         <p id="figure_earnings-security-confdence-contractors_desc">Graphic showing earnings security confidence of contractors - less confident, around the same, more confident - as compared to the previous year.</p>
+      <object role="img" aria-label="Earnings security confidence - contractors" aria-describedby="figure_earnings-security-confidence-contractors_desc" type="image/svg+xml" data="/_images/2025-earnings-security-confidence-contractors.svg">
+         <p id="figure_earnings-security-confidence-contractors_desc">Half-donut chart showing earnings security confidence of contractors — less confident, around the same, more confident — as compared to the previous year.</p>
       </object>
       <figcaption>Figure: Earnings security confidence - contractors</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-earnings-security-confidence-contractors.svg
+.. figure:: images/2025/2025-earnings-security-confidence-contractors.svg
    :class: hide
 
 .. raw:: html
 
-	</div></div>
+   </div><div class="tab__content">
+
+.. table:: Employee-contractor job security - as employee
+   :widths: 70 15 15
+   :name: tbl-2025-job-security-ec-employee
+   :class: std3col sortable
+
+   +-------------------------------------------+----+-------+
+   | Confidence (as employee)                  | |N|| |%|   |
+   +===========================================+====+=======+
+   | |1| More confident                        | 12 | 48.0% |
+   +-------------------------------------------+----+-------+
+   | |2| Around the same                       | 7  | 28.0% |
+   +-------------------------------------------+----+-------+
+   | |3| Less confident                        | 6  | 24.0% |
+   +-------------------------------------------+----+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Job security confidence - employee-contractors as employee" aria-describedby="figure_job-security-confidence-ec-employee_desc" type="image/svg+xml" data="/_images/2025-job-security-confidence-ec-employee.svg">
+         <p id="figure_job-security-confidence-ec-employee_desc">Half-donut chart showing job security confidence of employee-contractors in their employee role.</p>
+      </object>
+      <figcaption>Figure: Job security confidence - employee-contractors (as employee)</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-job-security-confidence-ec-employee.svg
+   :class: hide
+
+.. table:: Employee-contractor earnings security - as contractor
+   :widths: 70 15 15
+   :name: tbl-2025-earnings-security-ec-contractor
+   :class: std3col sortable
+
+   +------------------------------------------+----+-------+
+   | Confidence (as contractor)               | |N|| |%|   |
+   +==========================================+====+=======+
+   | |3| Less confident                       | 7  | 36.8% |
+   +------------------------------------------+----+-------+
+   | |2| Around the same                      | 6  | 31.6% |
+   +------------------------------------------+----+-------+
+   | |1| More confident                       | 6  | 31.6% |
+   +------------------------------------------+----+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Earnings security confidence - employee-contractors as contractor" aria-describedby="figure_earnings-security-confidence-ec-contractor_desc" type="image/svg+xml" data="/_images/2025-earnings-security-confidence-ec-contractor.svg">
+         <p id="figure_earnings-security-confidence-ec-contractor_desc">Half-donut chart showing earnings security confidence of employee-contractors in their contractor role.</p>
+      </object>
+      <figcaption>Figure: Earnings security confidence - employee-contractors (as contractor)</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-earnings-security-confidence-ec-contractor.svg
+   :class: hide
+
+.. raw:: html
+
+   </div></div>
 
 Job search confidence
 ---------------------

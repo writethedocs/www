@@ -1,0 +1,48 @@
+<svg viewBox="0 55 660 225" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+      ]]>
+    </style>
+  </defs>
+
+  <g id="2025-earnings-security-confidence-ec-contractor">
+
+    <g class="title">
+      <text font-size="14"><tspan x="40" y="33">Earnings security confidence — as contractor</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Employee-contractors (n=19) — as compared to the same time last year</tspan></text>
+    </g>
+
+    <g class="donut-chart">
+
+      <!-- Less confident: 36.8% — t=180 to 246.32 -->
+      <path d="M 180,259 A 150 150 0 0 1 269.7,121.6 L 305.9,204.1 A 60 60 0 0 0 270,259 Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+
+      <!-- Around the same: 31.6% — t=246.32 to 303.16 -->
+      <path d="M 269.7,121.6 A 150 150 0 0 1 412,133.4 L 362.8,208.8 A 60 60 0 0 0 305.9,204.1 Z" fill="#E9C168" stroke="white" stroke-width="2"/>
+
+      <!-- More confident: 31.6% — t=303.16 to 360 -->
+      <path d="M 412,133.4 A 150 150 0 0 1 480,259 L 390,259 A 60 60 0 0 0 362.8,208.8 Z" fill="#82A555" stroke="white" stroke-width="2"/>
+
+      <!-- Inner value labels -->
+      <text font-size="12" class="value-labels-inner"><tspan x="210" y="210">36.8%</tspan></text>
+      <text font-size="12" class="value-labels-inner"><tspan x="306" y="163">31.6%</tspan></text>
+      <text font-size="12" class="value-labels-inner"><tspan x="394" y="218">31.6%</tspan></text>
+
+      <!-- External labels -->
+      <text font-size="10"><tspan x="84" y="204">Less confident</tspan></text>
+      <text font-size="10"><tspan x="381" y="85">Around the same</tspan></text>
+      <text font-size="10"><tspan x="513" y="209">More confident</tspan></text>
+
+      <!-- Connectors -->
+      <path d="M 152,202 C 157,202 181.7,210 183.6,210.7 L 185.5,211.3" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M 371.6,85 C 366.6,85 351.4,106 350.2,107.7 L 349,109.3" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M 508.5,207 C 503.5,207 478.8,215 476.9,215.7 L 475,216.3" stroke="#252521" stroke-dasharray="1 3"/>
+
+    </g>
+
+  </g>
+
+</svg>
