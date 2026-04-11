@@ -5,15 +5,16 @@ In 2019, we launched the first Write the Docs salary survey, to gather data abou
 
 Overwhelmed by the positive response, we expanded the survey to collect information about remote work, attitudes towards pay transparency, and satisfaction about salaries, benefits and overall job situations. Based on community feedback, we've continued to refine the questions each year - especially for independent contractors, freelancers and the self-employed. 
 
-2025 Salary Survey now open for submissions
--------------------------------------------
+2025 Salary Survey results
+--------------------------
 
-The 2025 Salary Survey is now open for submissions! `Contribute now <https://salary-survey.writethedocs.org/>`_. 
+The :doc:`2025 Salary Survey <salary-survey/2025>` results are now available! Thanks to everyone who participated. 
 
 .. toctree::
    :caption: Survey Results
    :maxdepth: 1
 
+   salary-survey/2025
    salary-survey/2024
    salary-survey/2023
    salary-survey/2022
