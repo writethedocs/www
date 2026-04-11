@@ -169,7 +169,13 @@ volunteer:
 
 sponsors:
   keystone:
+    - name: mintlify
+      link: https://mintlify.com/?utm_source=writethedocs&utm_medium=referral
+      brand: Mintlify
   patron:
+    - name: gitbook
+      link: https://www.gitbook.com/?ref=writethedocs
+      brand: GitBook
   publisher:
   second:
   first:
