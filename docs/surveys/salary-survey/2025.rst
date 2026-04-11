@@ -1225,39 +1225,46 @@ Job or contract search status
 
    </details>
 
-The top two responses to "what is your job/contract search status" were the same for employees and contractors:
+For employees, the two most common responses remained "not looking, but open to offers" (46.2%) and "not looking, not open to offers" (26.1%), consistent with the pattern seen in 2024. 12.7% were actively looking for a new position, and 5.5% were actively looking and open to contract work.
 
-- 46.8% of employees and 30.9% of contractors reported that they were not actively looking for new positions, but were open to offers; whereas
-- 29.5% of employees and 23.4% of contractors reported that they were not actively looking for new positions and were not open to offers.
+Among contractors, the distribution was more spread. 34.8% were not looking but open to offers. 23.9% were actively looking and open to a permanent role, and 13.0% were only contracting while searching for a permanent position.
 
-5.5% of employees were actively looking for new positions and would also consider contract/freelance opportunities, while 18.1% of contractors were actively looking for new contracts or freelance projects and would also consider taking a permanent position. 17% of contractors were only contracting while searching for a permanent position.
-
-.. raw:: html
-
-   <div class="tab-wrap">
+Employee-contractors are shown separately for their employee and contractor search status, as they answered both questions.
 
 .. raw:: html
 
-   <input type="radio" id="tabB3-1" name="tabGroupB3" class="tab" checked><label for="tabB3-1">Employees</label><input type="radio" id="tabB3-2" name="tabGroupB3" class="tab"><label for="tabB3-2">Contractors</label><div class="tab__content">
+   <div class="tab-wrap"><input type="radio" id="tabB3-1" name="tabGroupB3" class="tab" checked tabindex="0"><label for="tabB3-1">Employees</label><input type="radio" id="tabB3-2" name="tabGroupB3" class="tab"><label for="tabB3-2">Contractors</label><input type="radio" id="tabB3-3" name="tabGroupB3" class="tab"><label for="tabB3-3">Employee-contractors</label><div class="tab__content">
 
 .. table:: Current job search status - employees
    :widths: 70 15 15
-   :name: tbl-2024-current-job-search-status-employees
+   :name: tbl-2025-current-job-search-status-employees
    :class: std3col sortable
 
    +------------------------------------------------------------+-----+-------+
    | Status                                                     | |N| | |%|   |
    +============================================================+=====+=======+
-   | Not actively looking - open to offers                      | 334 | 46.8% |
+   | Not actively looking - open to offers                      | 312 | 46.2% |
    +------------------------------------------------------------+-----+-------+
-   | Not actively looking - not open to offers                  | 210 | 29.5% |
+   | Not actively looking - not open to offers                  | 176 | 26.1% |
    +------------------------------------------------------------+-----+-------+
-   | Actively looking                                           | 66  | 9.3%  |
+   | Actively looking                                           | 86  | 12.7% |
    +------------------------------------------------------------+-----+-------+
-   | Not looking yet, but expect to be within the next year     | 64  | 9.0%  |
+   | Not looking yet, but expect to be within the next year     | 64  | 9.5%  |
    +------------------------------------------------------------+-----+-------+
-   | Actively looking, would consider contract                  | 39  | 5.5%  |
+   | Actively looking, would consider contract                  | 37  | 5.5%  |
    +------------------------------------------------------------+-----+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Employee job search status" aria-describedby="figure_job-search-employees_desc" type="image/svg+xml" data="/_images/2025-job-search-employees.svg">
+         <p id="figure_job-search-employees_desc">Donut chart showing employee job search status.</p>
+      </object>
+      <figcaption>Figure: Employee job search status</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-job-search-employees.svg
+   :class: hide
 
 .. raw:: html
 
@@ -1265,28 +1272,106 @@ The top two responses to "what is your job/contract search status" were the same
 
 .. table:: Current work search status - contractors
    :widths: 70 15 15
-   :name: tbl-2024-current-work-search-status-contractors
+   :name: tbl-2025-current-work-search-status-contractors
    :class: std3col sortable
 
-   +-------------------------------------------------------------+-----+-------+
-   | Status                                                      | |N| | |%|   |
-   +=============================================================+=====+=======+
-   | Not actively looking - open to offers                       | 29  | 30.9% |
-   +-------------------------------------------------------------+-----+-------+
-   | Not actively looking - not open to offers                   | 22  | 23.4% |
-   +-------------------------------------------------------------+-----+-------+
-   | Actively looking, would consider a permanent position       | 17  | 18.1% |
-   +-------------------------------------------------------------+-----+-------+
-   | Only contracting while looking for a permanent position     | 16  | 17.0% |
-   +-------------------------------------------------------------+-----+-------+
-   | Not looking yet, but expect to be within the next year      | 6   | 6.4%  |
-   +-------------------------------------------------------------+-----+-------+
-   | Actively looking for new contracts/freelance projects       | 4   | 4.3%  |
-   +-------------------------------------------------------------+-----+-------+
+   +----------------------------------------------------------+----+-------+
+   | Status                                                   | |N|| |%|   |
+   +==========================================================+====+=======+
+   | Not actively looking - open to offers                    | 16 | 34.8% |
+   +----------------------------------------------------------+----+-------+
+   | Actively looking, open to a permanent role               | 11 | 23.9% |
+   +----------------------------------------------------------+----+-------+
+   | Only contracting while looking for a permanent position  | 6  | 13.0% |
+   +----------------------------------------------------------+----+-------+
+   | Not actively looking - not open to offers                | 5  | 10.9% |
+   +----------------------------------------------------------+----+-------+
+   | Not looking yet, but expect to be within the next year   | 5  | 10.9% |
+   +----------------------------------------------------------+----+-------+
+   | Actively looking for new contracts/freelance projects    | 3  | 6.5%  |
+   +----------------------------------------------------------+----+-------+
 
 .. raw:: html
 
-	</div></div>
+   <figure>
+      <object role="img" aria-label="Contractor job search status" aria-describedby="figure_job-search-contractors_desc" type="image/svg+xml" data="/_images/2025-job-search-contractors.svg">
+         <p id="figure_job-search-contractors_desc">Donut chart showing contractor job search status.</p>
+      </object>
+      <figcaption>Figure: Contractor job search status</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-job-search-contractors.svg
+   :class: hide
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Current job search status - employee-contractors (as employee)
+   :widths: 70 15 15
+   :name: tbl-2025-current-job-search-status-ec-employee
+   :class: std3col sortable
+
+   +------------------------------------------------------------+----+-------+
+   | Status (as employee)                                       | |N|| |%|   |
+   +============================================================+====+=======+
+   | Not actively looking - open to offers                      | 13 | 38.2% |
+   +------------------------------------------------------------+----+-------+
+   | Not actively looking - not open to offers                  | 11 | 32.4% |
+   +------------------------------------------------------------+----+-------+
+   | Actively looking, would consider contract                  | 5  | 14.7% |
+   +------------------------------------------------------------+----+-------+
+   | Actively looking                                           | 3  | 8.8%  |
+   +------------------------------------------------------------+----+-------+
+   | Not looking yet, but expect to be within the next year     | 2  | 5.9%  |
+   +------------------------------------------------------------+----+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Employee-contractor job search status (as employee)" aria-describedby="figure_job-search-ec-employee_desc" type="image/svg+xml" data="/_images/2025-job-search-ec-employee.svg">
+         <p id="figure_job-search-ec-employee_desc">Donut chart showing employee-contractor job search status as employee.</p>
+      </object>
+      <figcaption>Figure: Employee-contractor job search status (as employee)</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-job-search-ec-employee.svg
+   :class: hide
+
+.. table:: Current work search status - employee-contractors (as contractor)
+   :widths: 70 15 15
+   :name: tbl-2025-current-work-search-status-ec-contractor
+   :class: std3col sortable
+
+   +----------------------------------------------------------+----+-------+
+   | Status (as contractor)                                   | |N|| |%|   |
+   +==========================================================+====+=======+
+   | Not actively looking - open to offers                    | 16 | 47.1% |
+   +----------------------------------------------------------+----+-------+
+   | Not actively looking - not open to offers                | 10 | 29.4% |
+   +----------------------------------------------------------+----+-------+
+   | Actively looking, open to a permanent role               | 4  | 11.8% |
+   +----------------------------------------------------------+----+-------+
+   | Actively looking for new contracts/freelance projects    | 3  | 8.8%  |
+   +----------------------------------------------------------+----+-------+
+   | Only contracting while looking for a permanent position  | 1  | 2.9%  |
+   +----------------------------------------------------------+----+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Employee-contractor job search status (as contractor)" aria-describedby="figure_job-search-ec-contractor_desc" type="image/svg+xml" data="/_images/2025-job-search-ec-contractor.svg">
+         <p id="figure_job-search-ec-contractor_desc">Donut chart showing employee-contractor job search status as contractor.</p>
+      </object>
+      <figcaption>Figure: Employee-contractor job search status (as contractor)</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-job-search-ec-contractor.svg
+   :class: hide
+
+.. raw:: html
+
+   </div></div>
 
 Job security and stability
 --------------------------
