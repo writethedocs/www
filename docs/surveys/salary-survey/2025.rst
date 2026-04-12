@@ -4120,9 +4120,7 @@ Following on from last year, we again included some questions about the survey i
 
    </details>
 
-Half of respondents were repeat participants, with 50.1% having taken part in a previous survey.
-
-Overall, most respondents were positive about the survey, with "Strongly agree" and "Agree" being the top options selected for each of the feedback rating scales. 2.7% felt that the length of the survey was not appropriate, and 0.6% felt the questions were not relevant. 3% expressed doubts about the usability of the survey form and website, undoubtedly caused by known issues with the performance and layout on mobile devices.
+Overall, respondents were strongly positive about the survey across all three dimensions. Negative responses were low in all categories: 1.6% felt the length was not appropriate, 0.3% felt the questions were not relevant, and 0.7% expressed doubts about the usability of the survey form and website.
 
 .. raw:: html
 
@@ -4130,33 +4128,33 @@ Overall, most respondents were positive about the survey, with "Strongly agree" 
 
 .. table:: Survey feedback - length
    :widths: 70 15 15
-   :name: tbl-2024-survey-feedback-length
+   :name: tbl-2025-survey-feedback-length
    :class: std3col sortable
 
    +----------------------------+-----+-------+
    | Length is appropriate      | |N| | |%|   |
    +============================+=====+=======+
-   | |1| Strongly agree         | 429 | 55.1% |
+   | |1| Strongly agree         | 445 | 58.9% |
    +----------------------------+-----+-------+
-   | |2| Agree                  | 285 | 36.6% |
+   | |2| Agree                  | 274 | 36.3% |
    +----------------------------+-----+-------+
-   | |3| Neutral                | 44  | 5.6%  |
+   | |3| Neutral                | 24  | 3.2%  |
    +----------------------------+-----+-------+
-   | |4| Disagree               | 18  | 2.3%  |
+   | |4| Disagree               | 10  | 1.3%  |
    +----------------------------+-----+-------+
-   | |5| Strongly disagree      | 3   | 0.4%  |
+   | |5| Strongly disagree      | 2   | 0.3%  |
    +----------------------------+-----+-------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Survey feedback - length" aria-describedby="figure_feedback-survey-length_desc" type="image/svg+xml" data="/_images/2024-feedback-survey-length.svg">
+      <object role="img" aria-label="Survey feedback - length (2025)" aria-describedby="figure_feedback-survey-length_desc" type="image/svg+xml" data="/_images/2025-feedback-survey-length.svg">
          <p id="figure_feedback-survey-length_desc">Donut chart showing respondent agreement with the statement: the length of the survey is appropriate</p>
       </object>
       <figcaption>Figure: Agreement - survey length is appropriate</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-feedback-survey-length.svg
+.. figure:: images/2025/2025-feedback-survey-length.svg
    :class: hide
 
 .. raw:: html
@@ -4165,33 +4163,31 @@ Overall, most respondents were positive about the survey, with "Strongly agree" 
 
 .. table:: Survey feedback - relevance
    :widths: 70 15 15
-   :name: tbl-2024-survey-feedback-relevance
+   :name: tbl-2025-survey-feedback-relevance
    :class: std3col sortable
 
    +-----------------------------+-----+-------+
    | Questions are relevant      | |N| | |%|   |
    +=============================+=====+=======+
-   | |1| Strongly agree          | 456 | 58.5% |
+   | |1| Strongly agree          | 443 | 58.7% |
    +-----------------------------+-----+-------+
-   | |2| Agree                   | 297 | 38.1% |
+   | |2| Agree                   | 290 | 38.4% |
    +-----------------------------+-----+-------+
-   | |3| Neutral                 | 21  | 2.7%  |
+   | |3| Neutral                 | 20  | 2.6%  |
    +-----------------------------+-----+-------+
-   | |4| Disagree                | 4   | 0.5%  |
-   +-----------------------------+-----+-------+
-   | |5| Strongly disagree       | 1   | 0.1%  |
+   | |4| Disagree                | 2   | 0.3%  |
    +-----------------------------+-----+-------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Survey feedback - relevance" aria-describedby="figure_feedback-relevance_desc" type="image/svg+xml" data="/_images/2024-feedback-relevance.svg">
-         <p id="figure_feedback-survey-length_desc">Donut chart showing respondent agreement with the statement: the survey questions are relevant</p>
+      <object role="img" aria-label="Survey feedback - relevance (2025)" aria-describedby="figure_feedback-relevance_desc" type="image/svg+xml" data="/_images/2025-feedback-relevance.svg">
+         <p id="figure_feedback-relevance_desc">Donut chart showing respondent agreement with the statement: the survey questions are relevant</p>
       </object>
       <figcaption>Figure: Agreement - survey questions are relevant</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-feedback-relevance.svg
+.. figure:: images/2025/2025-feedback-relevance.svg
    :class: hide
 
 .. raw:: html
@@ -4200,33 +4196,31 @@ Overall, most respondents were positive about the survey, with "Strongly agree" 
 
 .. table:: Survey feedback - usability
    :widths: 70 15 15
-   :name: tbl-2024-survey-feedback-usability
+   :name: tbl-2025-survey-feedback-usability
    :class: std3col sortable
 
    +----------------------------+-----+-------+
    | Form/website is usable     | |N| | |%|   |
    +============================+=====+=======+
-   | |1| Strongly agree         | 447 | 57.4% |
+   | |1| Strongly agree         | 463 | 61.3% |
    +----------------------------+-----+-------+
-   | |2| Agree                  | 273 | 35.0% |
+   | |2| Agree                  | 258 | 34.2% |
    +----------------------------+-----+-------+
-   | |3| Neutral                | 36  | 4.6%  |
+   | |3| Neutral                | 29  | 3.8%  |
    +----------------------------+-----+-------+
-   | |4| Disagree               | 20  | 2.6%  |
-   +----------------------------+-----+-------+
-   | |5| Strongly disagree      | 3   | 0.4%  |
+   | |4| Disagree               | 5   | 0.7%  |
    +----------------------------+-----+-------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Survey feedback - usability" aria-describedby="figure_feedback-usability_desc" type="image/svg+xml" data="/_images/2024-feedback-usability.svg">
-         <p id="figure_feedback-survey-length_desc">Donut chart showing respondent agreement with the statement: the survey form/website are usable</p>
+      <object role="img" aria-label="Survey feedback - usability (2025)" aria-describedby="figure_feedback-usability_desc" type="image/svg+xml" data="/_images/2025-feedback-usability.svg">
+         <p id="figure_feedback-usability_desc">Donut chart showing respondent agreement with the statement: the survey form/website are usable</p>
       </object>
       <figcaption>Figure: Agreement - survey form/website are usable</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-feedback-usability.svg
+.. figure:: images/2025/2025-feedback-usability.svg
    :class: hide
 
 .. raw:: html
