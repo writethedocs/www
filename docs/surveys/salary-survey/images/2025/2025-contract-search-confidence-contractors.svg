@@ -1,0 +1,54 @@
+<svg viewBox="0 55 660 238" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+      ]]>
+    </style>
+  </defs>
+
+  <g id="2025-contract-search-confidence-contractors">
+
+    <g class="title">
+      <text font-size="14"><tspan x="40" y="33">Contract search confidence</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Contractors (n=6) — ability to secure a new contract with favorable terms</tspan></text>
+    </g>
+
+    <g class="donut-chart">
+
+      <!-- Not confident at all: 16.7% — t=180 to 210.0 -->
+      <path d="M 180,269 A 150 150 0 0 1 200.1,194.0 L 278.0,239.0 A 60 60 0 0 0 270,269 Z" fill="#C2255C" stroke="white" stroke-width="2"/>
+
+      <!-- Not confident: 33.3% — t=210.0 to 270.0 -->
+      <path d="M 200.1,194.0 A 150 150 0 0 1 330,119.0 L 330,209.0 A 60 60 0 0 0 278.0,239.0 Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+
+      <!-- Neutral: 33.3% — t=270.0 to 330.0 -->
+      <path d="M 330,119.0 A 150 150 0 0 1 459.9,194.0 L 382.0,239.0 A 60 60 0 0 0 330,209.0 Z" fill="#E9C168" stroke="white" stroke-width="2"/>
+
+      <!-- Confident: 16.7% — t=330.0 to 360.0 -->
+      <path d="M 459.9,194.0 A 150 150 0 0 1 480,269 L 390,269 A 60 60 0 0 0 382.0,239.0 Z" fill="#82A555" stroke="white" stroke-width="2"/>
+
+      <!-- Inner value labels -->
+      <text font-size="12" class="value-labels-inner"><tspan x="209" y="245">16.7%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="258" y="182">33.3%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="363" y="182">33.3%</tspan></text>
+      <text font-size="12" class="value-labels-inner"><tspan x="411" y="246">16.7%</tspan></text>
+
+      <!-- External labels -->
+      <text font-size="10"><tspan x="53" y="223">Not confident at all</tspan></text>
+      <text font-size="10"><tspan x="113" y="123">Not confident</tspan></text>
+      <text font-size="10"><tspan x="480" y="123">Neutral</tspan></text>
+      <text font-size="10"><tspan x="519" y="228">Confident</tspan></text>
+
+      <!-- Connectors -->
+      <path d="M 144,223 C 150,224 179,229.5 181,229.9 L 185.1,230.2" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M 180,123 C 188,123 247,137 251,138 L 255,139.1" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M 480,123 C 472,123 413,137 409,138 L 405,139.1" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M 514,228 C 508,228 477,230.3 476,230.3 L 474.9,230.2" stroke="#252521" stroke-dasharray="1 3"/>
+
+    </g>
+
+  </g>
+
+</svg>

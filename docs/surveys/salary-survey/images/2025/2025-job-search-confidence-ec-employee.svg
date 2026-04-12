@@ -1,0 +1,48 @@
+<svg viewBox="0 55 660 238" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+      ]]>
+    </style>
+  </defs>
+
+  <g id="2025-job-search-confidence-ec-employee">
+
+    <g class="title">
+      <text font-size="14"><tspan x="40" y="33">Job search confidence — as employee</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Employee-contractors (n=10) — ability to secure a new position with favorable terms</tspan></text>
+    </g>
+
+    <g class="donut-chart">
+
+      <!-- Not confident: 20.0% — t=180 to 216.0 -->
+      <path d="M 180,269 A 150 150 0 0 1 208.7,180.8 L 281.5,233.7 A 60 60 0 0 0 270,269 Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+
+      <!-- Neutral: 50.0% — t=216.0 to 306.0 -->
+      <path d="M 208.7,180.8 A 150 150 0 0 1 418.2,148.7 L 365.3,220.5 A 60 60 0 0 0 281.5,233.7 Z" fill="#E9C168" stroke="white" stroke-width="2"/>
+
+      <!-- Confident: 30.0% — t=306.0 to 360.0 -->
+      <path d="M 418.2,148.7 A 150 150 0 0 1 480,269 L 390,269 A 60 60 0 0 0 365.3,220.5 Z" fill="#82A555" stroke="white" stroke-width="2"/>
+
+      <!-- Inner value labels -->
+      <text font-size="12" class="value-labels-inner"><tspan x="210" y="240">20.0%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="294" y="169">50.0%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="404" y="225">30.0%</tspan></text>
+
+      <!-- External labels -->
+      <text font-size="10"><tspan x="84" y="218">Not confident</tspan></text>
+      <text font-size="10"><tspan x="300" y="81">Neutral</tspan></text>
+      <text font-size="10"><tspan x="490" y="186">Confident</tspan></text>
+
+      <!-- Connectors -->
+      <path d="M 152,218 C 157,218 183,222.2 185,222.4 L 187.3,222.6" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M 308,81 C 308,86 307,117 307,119 L 306.5,120.8" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M 485,186 C 479,187 469,199 468,200 L 463.7,200.9" stroke="#252521" stroke-dasharray="1 3"/>
+
+    </g>
+
+  </g>
+
+</svg>

@@ -1567,88 +1567,146 @@ Job search confidence
 
    </details>
 
-Employees and contractors were shown this question if they indicated that they were currently not working, or if they indicated that they were actively looking for a new position or new contract.
+Employees and contractors were shown this question if they indicated that they were currently not working, or if they were actively looking for a new position or new contract.
 
-Amongst employees, job search confidence was mixed, with around a third (30%) feeling "confident" and another third (27.5%) feeling "not confident". Similarly, a smaller proportion (10%) felt "very confident" and an almost equal number (11.3%) "not confident at all".
+Amongst employees, the trend has shifted significantly toward the negative compared to 2024. In 2025, 38.0% reported feeling "not confident" (up from 27.5%) and 8.3% "not confident at all" (down from 11.3%). Those feeling "confident" dropped to 25.0% (from 30.0%), and "very confident" fell sharply to 3.7% (from 10.0%).
 
-Amongst contractors - a smaller number of respondents overall - the trend was towards the negative, with 40.9% feeling "not confident" and 13.6% feeling "not confident at all".
+Amongst contractors — a much smaller group of respondents who qualified for this question in 2025 (n=6) — results should be treated with caution. The distribution was evenly split between positive and negative responses, with no respondents feeling "very confident".
 
 .. raw:: html
 
    <div class="tab-wrap">
 
-   <input type="radio" id="tabB563-1" name="tabGroupB563" class="tab" checked><label for="tabB563-1">Employees</label><input type="radio" id="tabB563-2" name="tabGroupB563" class="tab"><label for="tabB563-2">Contractors</label><div class="tab__content">
+   <input type="radio" id="tabB563-1" name="tabGroupB563" class="tab" checked><label for="tabB563-1">Employees</label><input type="radio" id="tabB563-2" name="tabGroupB563" class="tab"><label for="tabB563-2">Contractors</label><input type="radio" id="tabB563-3" name="tabGroupB563" class="tab"><label for="tabB563-3">Employee-contractors</label><div class="tab__content">
 
 .. table:: Employee job search confidence
    :widths: 70 15 15
-   :name: tbl-2024-job-search-confidence-employees
+   :name: tbl-2025-job-search-confidence-employees
    :class: std3col sortable
 
-   +---------------------------+-----+-------+
-   | Confidence                | |N| | |%|   |
-   +===========================+=====+=======+
-   | |2| Confident             | 24  | 30.0% |
-   +---------------------------+-----+-------+
-   | |4| Not confident         | 22  | 27.5% |
-   +---------------------------+-----+-------+
-   | |3| Neutral               | 17  | 21.3% |
-   +---------------------------+-----+-------+
-   | |5| Not confident at all  | 9   | 11.3% |
-   +---------------------------+-----+-------+
-   | |1| Very confident        | 8   | 10.0% |
-   +---------------------------+-----+-------+
+   +--------------------------+----+-------+
+   | Confidence               | |N|| |%|   |
+   +==========================+====+=======+
+   | |4| Not confident        | 41 | 38.0% |
+   +--------------------------+----+-------+
+   | |3| Neutral              | 27 | 25.0% |
+   +--------------------------+----+-------+
+   | |2| Confident            | 27 | 25.0% |
+   +--------------------------+----+-------+
+   | |5| Not confident at all | 9  | 8.3%  |
+   +--------------------------+----+-------+
+   | |1| Very confident       | 4  | 3.7%  |
+   +--------------------------+----+-------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Job search confidence - employees" aria-describedby="figure_job-search-confidence-employees_desc" type="image/svg+xml" data="/_images/2024-job-search-confidence-employees.svg">
-         <p id="figure_job-search-confidence-employees_desc">Graphic showing job search confidence of employees.</p>
+      <object role="img" aria-label="Job search confidence - employees" aria-describedby="figure_job-search-confidence-employees_desc" type="image/svg+xml" data="/_images/2025-job-search-confidence-employees.svg">
+         <p id="figure_job-search-confidence-employees_desc">Half-donut chart showing job search confidence of employees.</p>
       </object>
       <figcaption>Figure: Job search confidence - employees</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-job-search-confidence-employees.svg
+.. figure:: images/2025/2025-job-search-confidence-employees.svg
    :class: hide
 
 .. raw:: html
 
    </div><div class="tab__content">
 
-.. table:: Contractor job search confidence
+.. table:: Contractor contract search confidence
    :widths: 70 15 15
-   :name: tbl-2024-job-search-confidence-contractor
+   :name: tbl-2025-contract-search-confidence-contractors
    :class: std3col sortable
 
-   +----------------------------+-----+-------+
-   | Confidence                 | |N| | |%|   |
-   +============================+=====+=======+
-   | |4| Not confident          | 9   | 40.9% |
-   +----------------------------+-----+-------+
-   | |1| Very confident         | 4   | 18.2% |
-   +----------------------------+-----+-------+
-   | |3| Neutral                | 3   | 13.6% |
-   +----------------------------+-----+-------+
-   | |5| Not confident at all   | 3   | 13.6% |
-   +----------------------------+-----+-------+
-   | |2| Confident              | 3   | 13.6% |
-   +----------------------------+-----+-------+
+   +--------------------------+----+-------+
+   | Confidence               | |N|| |%|   |
+   +==========================+====+=======+
+   | |3| Neutral              | 2  | 33.3% |
+   +--------------------------+----+-------+
+   | |4| Not confident        | 2  | 33.3% |
+   +--------------------------+----+-------+
+   | |2| Confident            | 1  | 16.7% |
+   +--------------------------+----+-------+
+   | |5| Not confident at all | 1  | 16.7% |
+   +--------------------------+----+-------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Contract search confidence - contractors" aria-describedby="figure_contract-search-confidence-contractors_desc" type="image/svg+xml" data="/_images/2024-contract-search-confidence-contractors.svg">
-         <p id="figure_contract-search-confidence-contractors_desc">Graphic showing job search confidence of employees.</p>
+      <object role="img" aria-label="Contract search confidence - contractors" aria-describedby="figure_contract-search-confidence-contractors_desc" type="image/svg+xml" data="/_images/2025-contract-search-confidence-contractors.svg">
+         <p id="figure_contract-search-confidence-contractors_desc">Half-donut chart showing contract search confidence of contractors.</p>
       </object>
       <figcaption>Figure: Contract search confidence - contractors</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-contract-search-confidence-contractors.svg
+.. figure:: images/2025/2025-contract-search-confidence-contractors.svg
    :class: hide
-
 
 .. raw:: html
 
-	</div></div>
+   </div><div class="tab__content">
+
+.. table:: Employee-contractor job search confidence — as employee
+   :widths: 70 15 15
+   :name: tbl-2025-job-search-confidence-ec-employee
+   :class: std3col sortable
+
+   +--------------------------+----+-------+
+   | Confidence (as employee) | |N|| |%|   |
+   +==========================+====+=======+
+   | |3| Neutral              | 5  | 50.0% |
+   +--------------------------+----+-------+
+   | |2| Confident            | 3  | 30.0% |
+   +--------------------------+----+-------+
+   | |4| Not confident        | 2  | 20.0% |
+   +--------------------------+----+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Job search confidence - employee-contractors as employee" aria-describedby="figure_job-search-confidence-ec-employee_desc" type="image/svg+xml" data="/_images/2025-job-search-confidence-ec-employee.svg">
+         <p id="figure_job-search-confidence-ec-employee_desc">Half-donut chart showing job search confidence of employee-contractors in their employee role.</p>
+      </object>
+      <figcaption>Figure: Job search confidence - employee-contractors (as employee)</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-job-search-confidence-ec-employee.svg
+   :class: hide
+
+.. table:: Employee-contractor contract search confidence — as contractor
+   :widths: 70 15 15
+   :name: tbl-2025-contract-search-confidence-ec-contractor
+   :class: std3col sortable
+
+   +--------------------------+----+-------+
+   | Confidence (as           | |N|| |%|   |
+   | contractor)              |    |       |
+   +==========================+====+=======+
+   | |3| Neutral              | 7  | 41.2% |
+   +--------------------------+----+-------+
+   | |2| Confident            | 5  | 29.4% |
+   +--------------------------+----+-------+
+   | |4| Not confident        | 4  | 23.5% |
+   +--------------------------+----+-------+
+   | |5| Not confident at all | 1  | 5.9%  |
+   +--------------------------+----+-------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Contract search confidence - employee-contractors as contractor" aria-describedby="figure_contract-search-confidence-ec-contractor_desc" type="image/svg+xml" data="/_images/2025-contract-search-confidence-ec-contractor.svg">
+         <p id="figure_contract-search-confidence-ec-contractor_desc">Half-donut chart showing contract search confidence of employee-contractors in their contractor role.</p>
+      </object>
+      <figcaption>Figure: Contract search confidence - employee-contractors (as contractor)</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-contract-search-confidence-ec-contractor.svg
+   :class: hide
+
+.. raw:: html
+
+   </div></div>
 
 Employee salary
 ===============
