@@ -1,0 +1,78 @@
+<svg viewBox="0 55 660 338" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+      ]]>
+    </style>
+
+  </defs>
+
+	<g id="2025-years-experience">
+
+		<g class="title">
+			<text font-size="14"><tspan x="40" y="33">Years of experience</tspan></text>
+			<text font-size="12" class="subtitle"><tspan x="40" y="49">All respondents (n=755)</tspan></text>
+		</g>
+
+		<g class="bar-chart-vertical">
+
+			<g class="y-axis">
+
+				<g class="gridlines">
+					<path d="M68 354.5H620" stroke="#F0F0F0"/>
+          <path d="M68 261.5H620" stroke="#F0F0F0"/>
+          <path d="M68 167.5H620" stroke="#F0F0F0"/>
+          <path d="M68 74H620" stroke="#F0F0F0"/>
+				</g>
+
+				<g class="axis-labels">
+					<text font-size="10"><tspan x="45" y="357">0%</tspan></text>
+          <text font-size="10"><tspan x="40" y="264">10%</tspan></text>
+          <text font-size="10"><tspan x="40" y="170">20%</tspan></text>
+          <text font-size="10"><tspan x="40" y="77">30%</tspan></text>
+				</g>
+
+			</g>
+
+			<g class="data-series">
+
+				<g class="a">
+
+					<g class="axis-labels">
+						<text font-size="10"><tspan x="107" y="371">0-1</tspan></text>
+            <text font-size="10"><tspan x="199" y="371">1-5</tspan></text>
+            <text font-size="10"><tspan x="289" y="371">5-10</tspan></text>
+            <text font-size="10"><tspan x="378" y="371">10-15</tspan></text>
+            <text font-size="10"><tspan x="470" y="371">15-25</tspan></text>
+            <text font-size="10"><tspan x="566" y="371">25+</tspan></text>
+					</g>
+
+					<g class="bars">
+						<path d="M156 340H72V355H156V340Z" fill="#00AEFF"/>
+            <path d="M248 161H164V355H248V161Z" fill="#00AEFF"/>
+            <path d="M340 104H256V355H340V104Z" fill="#00AEFF"/>
+            <path d="M432 175H348V355H432V175Z" fill="#00AEFF"/>
+            <path d="M524 206H440V355H524V206Z" fill="#00AEFF"/>
+            <path d="M616 210H532V355H616V210Z" fill="#00AEFF"/>
+					</g>
+
+					<g class="value-labels">
+
+					</g>
+
+				</g>
+
+			</g>
+
+			<g class="legend">
+
+			</g>
+
+		</g>
+
+	</g>
+
+</svg>
