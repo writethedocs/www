@@ -32,7 +32,8 @@ writing_day:
     title: Lunch Break
   - duration: '0:00'
     title: Welcome Wagon conference introduction and venue tour
-  - duration: '0:30'
+  - time: '13:45'
+    duration: '0:15'
     title: Afternoon session - all-day groups reconvene and new group introductions
   - duration: '0:00'
     title: Projects team up and start writing
@@ -45,11 +46,11 @@ writing_day:
     title: Welcome Wagon conference introduction and venue tour
   - time: '17:00'
     duration: '0:00'
-    title: '<b>End of Writing Day</b>'
+    title: End of Writing Day
   - duration: '2:00'
-    title: '<b><a href="../social-events/#sunday-reception">Reception starts</a></b>'
+    title: '<a href="../social-events/#sunday-reception">Reception starts</a>'
   - duration: '0:00'
-    title: '<b>Reception ends</b>'
+    title: Reception ends
 
 talks_day1:
   - time: '8:00'
@@ -63,7 +64,7 @@ talks_day1:
   - duration: '0:05'
     title: 5 minute break
   - duration: '0:00'
-    title: "<b><a href='../unconference'>Unconference starts</a></b>"
+    title: "<a href='../unconference'>Unconference starts</a>"
   - duration: '0:30'
     slug: documentation-thinking-beyond-the-docs-lessons-from-decision-facing-technical-w-mary-elise-dedicke
   - duration: '0:05'
@@ -128,7 +129,7 @@ talks_day2:
   - duration: '0:05'
     title: 5 minute break
   - duration: '0:00'
-    title: "<b><a href='../unconference'>Unconference starts</a></b>"
+    title: "<a href='../unconference'>Unconference starts</a>"
   - duration: '0:30'
     slug: what-i-learned-building-an-ai-documentation-auditor-and-what-it-found-in-500-p-rakesh-pasupuleti
   - duration: '0:05'
