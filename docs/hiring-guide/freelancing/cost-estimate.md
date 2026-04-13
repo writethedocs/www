@@ -1,6 +1,6 @@
 # Cost estimate
 
-Provide a cost estimate to potential clients, based on the costs and rates considered in your [business plan](business-plan.md).
+Provide a cost estimate to potential clients, based on the costs and rates considered in your [business plan](../business-plan/).
 
 ## Consider
 

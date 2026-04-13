@@ -115,7 +115,7 @@ Make sure you read this entire page before putting your proposal together, and p
 - **Spoilers** – It's pretty normal not to want to include your main point in your abstract, but please make sure to highlight it for the selection committee!
 - **Research** – We don't need all talks to be about an entirely new topic, but if you're suggesting a talk that looks really similar to one that was given last year, demonstrate that you realize this and mention why yours is different.
 - **Tooling** – We're pretty serious about preferring talks about people, process or principles than talks about tooling. If you are submitting a proposal about tooling, tell us what makes this one special.
-- **Example proposal** – Check out our [example proposal](example-proposal) so you know what we expect to see in each field.
+- **Example proposal** – Check out our [example proposal](../example-proposal/) so you know what we expect to see in each field.
 
 ## Unsure about speaking?
 
@@ -178,7 +178,7 @@ Folks start giving talks on stage!
 
 ## Example proposal
 
-Take a look at our [Example proposal](example-proposal), with additional guidance on the proposal format:
+Take a look at our [Example proposal](../example-proposal/), with additional guidance on the proposal format:
 
 ## Submit your proposal
 

@@ -24,7 +24,7 @@ banner: _static/conf/images/headers/2026/sponsors.jpg
 # Sponsors
 
 We are seeking corporate partners to help us create the best conference possible.
-You can find more information in our [prospectus](prospectus).
+You can find more information in our [prospectus](./prospectus/).
 
 {% if conf_sponsors|trim %}
 
