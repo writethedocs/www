@@ -66,12 +66,12 @@ These ideas were borrowed from Scott Berkun. Read more of his [post on Unconfere
 - Listen or contribute to the discussion.
 - You're welcome to change sessions mid-slot! Please make sure you leave politely.
 
-## Sponsor Sessions
+## Sponsor Sessions in Martha's
 
-On Monday and Tuesday mornings (10:00–12:00), Martha's will host a **Sponsor Session** led by one of our sponsors. These sessions follow the same interactive format as other Unconference sessions, but are led by a sponsor representative.
+Each morning from 10:00 AM to 12:00 PM, Martha's hosts a sponsor-led session alongside the rest of the unconference:
 
-- **Monday:** Hosted by **[{{ sponsors.keystone[0].brand }}]({{ sponsors.keystone[0].link }})**
-- **Tuesday:** Hosted by **[{{ sponsors.keystone[1].brand }}]({{ sponsors.keystone[1].link }})**
+- **Monday:** Sponsor Session hosted by **[{{ sponsors.keystone[0].brand }}]({{ sponsors.keystone[0].link }})**
+- **Tuesday:** Sponsor Session hosted by **[{{ sponsors.keystone[1].brand }}]({{ sponsors.keystone[1].link }})**
 
 **Enjoy the Unconference!**
 

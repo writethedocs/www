@@ -33,6 +33,18 @@ View our [Venue page](/conf/{{shortcode}}/{{year}}/venue/) for details and the l
 
 We will provide a venue map onsite.
 
+## Attendee Lounge
+
+Take a break in the Attendee Lounge, a quiet wellness and recharging space with comfortable seating, charging stations, light snacks, and noise-canceling headphones on loan. Open throughout Monday and Tuesday.
+
+*The Attendee Lounge is sponsored by [{{ sponsors.keystone[1].brand }}]({{ sponsors.keystone[1].link }}).*
+
+## Professional Headshots
+
+Free professional headshots are available for all attendees at the headshot booth. Come grab a new photo for your LinkedIn or professional profile!
+
+*The headshot booth is sponsored by [{{ sponsors.keystone[1].brand }}]({{ sponsors.keystone[1].link }}).*
+
 ## Food and Drinks
 
 - Snacks, coffee, tea, and water are included with your ticket. Vegan, vegetarian, gluten-free, and dairy-free options will be offered. 
