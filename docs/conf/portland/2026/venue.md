@@ -41,8 +41,8 @@ Bus transit stops are located near the venue. All transit in Portland announce m
 - Speaker Talks: Auditorium
 - Sponsor Expo: Hallway
 - Catering: Assembly Lounge
-- [Attendee Lounge](/conf/{{shortcode}}/{{year}}/attendee-guide/#attendee-lounge) and additional seating: Sunset Room
-- [Professional Headshot Booth](/conf/{{shortcode}}/{{year}}/attendee-guide/#professional-headshots): near the Sponsor Expo
+- <a href="../attendee-guide/#attendee-lounge">Attendee Lounge</a> and additional seating: Sunset Room
+- <a href="../attendee-guide/#professional-headshots">Professional Headshot Booth</a>: near the Sponsor Expo
 
 ### Other Venue Spaces (open to the public)
 
