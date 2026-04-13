@@ -37,13 +37,13 @@ We will provide a venue map onsite.
 
 Take a break in the Attendee Lounge, a quiet wellness and recharging space with comfortable seating, charging stations, light snacks, and noise-canceling headphones on loan. Open throughout Monday and Tuesday.
 
-*The Attendee Lounge is sponsored by [{{ sponsors.keystone[1].brand }}]({{ sponsors.keystone[1].link }}).*
+*The Attendee Lounge is sponsored by [Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral).*
 
 ## Professional Headshots
 
 Free professional headshots are available for all attendees at the headshot booth. Come grab a new photo for your LinkedIn or professional profile!
 
-*The headshot booth is sponsored by [{{ sponsors.keystone[1].brand }}]({{ sponsors.keystone[1].link }}).*
+*The headshot booth is sponsored by [Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral).*
 
 ## Food and Drinks
 

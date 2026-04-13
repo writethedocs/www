@@ -22,7 +22,7 @@ and make sure you know your way around the conference venue.
 
 *Both alcoholic and non-alcoholic drinks and snacks will be provided.*
 
-*The Sunday Reception is sponsored by [{{ sponsors.keystone[1].brand }}]({{ sponsors.keystone[1].link }}).*
+*The Sunday Reception is sponsored by [Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral).*
 
 ## Monday Night Social
 
