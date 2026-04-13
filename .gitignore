@@ -17,3 +17,4 @@ docs/_scripts/mc-info.md
 *-cfp-reviews.csv
 *.code-workspace
 docs/_scripts/playlist.txt
+.devcontainer/docker-compose.local.yml
