@@ -101,6 +101,9 @@ extensions = [
 ]
 
 myst_heading_anchors = 4
+# Treat markdown links as plain URLs. Without this, myst tries to resolve
+# relative links like `../foo/#anchor` as cross-references and mangles them.
+myst_all_links_external = True
 
 
 ogp_site_name = "Write the Docs"
