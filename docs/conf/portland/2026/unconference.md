@@ -8,6 +8,8 @@ banner: _static/conf/images/headers/2026/unconference.jpg
 
 The Unconference consists of attendee-driven sessions that provide the opportunity for anyone who is attending the conference to lead, contribute, share ideas, and discuss problems in an organized setting away from the main stage talks. Many attendees consider this one of their favorite aspects of the conference.
 
+The Unconference is sponsored by **[{{ sponsors.keystone[0].brand }}]({{ sponsors.keystone[0].link }})** on Monday and **[{{ sponsors.keystone[1].brand }}]({{ sponsors.keystone[1].link }})** on Tuesday.
+
 **Who can lead an Unconference session?**
 
 Everyone! All attendees are invited to lead a session on a topic. Sessions can be organized around a presentation, group discussion or anything in between.
@@ -63,6 +65,13 @@ These ideas were borrowed from Scott Berkun. Read more of his [post on Unconfere
 - Find the table and have a seat. You can also join mid-session!
 - Listen or contribute to the discussion.
 - You're welcome to change sessions mid-slot! Please make sure you leave politely.
+
+## Sponsor Sessions
+
+On Monday and Tuesday mornings (10:00–12:00), Martha's will host a **Sponsor Session** led by one of our sponsors. These sessions follow the same interactive format as other Unconference sessions, but are led by a sponsor representative.
+
+- **Monday:** Hosted by **[{{ sponsors.keystone[0].brand }}]({{ sponsors.keystone[0].link }})**
+- **Tuesday:** Hosted by **[{{ sponsors.keystone[1].brand }}]({{ sponsors.keystone[1].link }})**
 
 **Enjoy the Unconference!**
 
