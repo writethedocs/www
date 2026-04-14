@@ -8,7 +8,7 @@ banner: _static/conf/images/headers/2026/unconference.jpg
 
 The Unconference consists of attendee-driven sessions that provide the opportunity for anyone who is attending the conference to lead, contribute, share ideas, and discuss problems in an organized setting away from the main stage talks. Many attendees consider this one of their favorite aspects of the conference.
 
-The Unconference is sponsored by **[Promptless](https://promptless.ai/?ref=writethedocs)** on Monday and **[Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral)** on Tuesday.
+The Unconference is sponsored by **[Promptless](https://promptless.ai/?ref=writethedocs)** on Monday and **[Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral)** on Tuesday. Stop by Martha's each morning from 10:00 AM to 12:00 PM for **free handcrafted espresso on Monday ☕** and **free handcrafted matcha on Tuesday 🍵**, plus sponsor-led discussions.
 
 **Who can lead an Unconference session?**
 
@@ -68,10 +68,10 @@ These ideas were borrowed from Scott Berkun. Read more of his [post on Unconfere
 
 ## Sponsor Sessions in Martha's
 
-Each morning from 10:00 AM to 12:00 PM, Martha's hosts a sponsor-led session alongside the rest of the unconference:
+Each morning from 10:00 AM to 12:00 PM, Martha's hosts a sponsor-led session alongside the rest of the unconference. Stop by for free handcrafted drinks and discussion:
 
-- **Monday:** Sponsor Session hosted by **[Promptless](https://promptless.ai/?ref=writethedocs)**
-- **Tuesday:** Sponsor Session hosted by **[Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral)**
+- **Monday ☕ — free espresso:** Sponsor Session hosted by **[Promptless](https://promptless.ai/?ref=writethedocs)**
+- **Tuesday 🍵 — free matcha:** Sponsor Session hosted by **[Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral)**
 
 **Enjoy the Unconference!**
 
