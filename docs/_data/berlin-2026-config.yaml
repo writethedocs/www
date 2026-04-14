@@ -5,7 +5,7 @@ city: Berlin
 local_area: Germany
 area: Europe # European Australian
 area_adj: European
-tz: CET
+tz: CEST
 email: berlin@writethedocs.org
 color: gold
 rgb: 253,185,19
@@ -16,22 +16,22 @@ time_format: 24h
 
 photos:
   default:
-    - _static/conf/images/headers/2025/grants.jpg
-    - _static/conf/images/headers/2025/unconference.jpg
-    - _static/conf/images/headers/2025/volunteer.jpg
-    - _static/conf/images/headers/2025/writing-day.jpg
+    - _static/conf/images/headers/2026/unconference.jpg
+    - _static/conf/images/headers/2026/volunteer.jpg
+    - _static/conf/images/headers/2026/writing-day.jpg
+    - _static/conf/images/headers/2026/tickets.jpg
   index:
     - _static/conf/images/pics/writing-day.jpg
     - _static/conf/images/pics/reg.jpg
 
 buttons:
   top:
-    - text: Conference announcement
-      link: /news/welcome
+#    - text: Conference announcement
+#      link: /news/welcome
     - text: Sponsor us
       link: /sponsors/prospectus
-    # - text: Submit a Talk
-    #   link: /cfp
+    - text: Submit a Talk
+      link: /cfp
     # - text: See the Schedule
     #   link: /schedule
     # - text: See the Speakers
@@ -43,12 +43,12 @@ buttons:
     # - text: Watch the Live Stream
     #   link: /livestream
   bottom:
-    - text: Conference announcement
-      link: /news/welcome
+#    - text: Conference announcement
+#      link: /news/welcome
     - text: Sponsor us
       link: /sponsors/prospectus
-    # - text: Submit a Talk
-    #   link: /cfp
+    - text: Submit a Talk
+      link: /cfp
     # - text: Buy a Ticket
     #   link: /tickets
     # - text: See the Schedule
@@ -62,29 +62,33 @@ buttons:
 
 tickets:
   concierge:
-    price: €575
+    price: €590
   corporate:
-    price: €475
+    price: €490
   independent:
-    price: €275
+    price: €290
   student:
     price: €75
   virtual_corporate:
-    price: €140
+    price: €155
   virtual_independent:
-    price: €75
+    price: €85
   virtual_student:
     price: €30
 
 sponsorship:
   second_draft:
     price: €2,250
+    tickets: 2
   publisher:
     price: €4,000
+    tickets: 3
   patron:
     price: €6,000
+    tickets: 4
   keystone:
     price: €10,000
+    tickets: 6
 
 grants:
   url: ""
@@ -109,7 +113,7 @@ date: # how do we handle these? human readable would be nice.
     icon: conference
 
   # These are listed in the schedule
-  day_one:
+  day_two:
     event: Writing Day
     date: September 6
     summary: Kick off the conference with Writing Day and work with fellow documentarians on a project. Followed by the opening reception.
@@ -117,7 +121,7 @@ date: # how do we handle these? human readable would be nice.
     dotw: Sunday
     writing_day_time: 10:00-18:00
     reception_time: 17:00-19:00
-  day_two:
+  day_three:
     event: Conference Day 1
     date: September 7
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
@@ -126,7 +130,7 @@ date: # how do we handle these? human readable would be nice.
     unconference_time: 10:45-17:00
     social_time: 19:00-21:00
     icon: conference
-  day_three:
+  day_four:
     event: Conference Day 2
     date: September 8
     summary: And the conference goes on! More talks and unconference today!
@@ -147,12 +151,12 @@ about:
   projector_ratio: "16:9"
 
 cfp:
-  url: ""
-  ends: "June 15, 2026"
-  notification: "June 29, 2026"
-  speaker_tickets_by: "August 17, 2026"
-  slides_by: "August 31, 2026"
-  preview: "TBD"
+  url: "https://pretalx.com/wtd-berlin-2026/cfp"  # Open mid March, approx 12 weeks to submit
+  ends: "June 01, 2026"                           # (Mon) 2 weeks, to review. It'll take a little longer to announce
+  notification: "June 15, 2026"                   # (Mon) 8 weeks to write and prepare
+  speaker_tickets_by: "August 17, 2026"           # (Mon) Approx 3 weeks before
+  slides_by: "August 17, 2026"                    # (Mon) 2-3 weeks before
+  preview: "TBD"                                  # Preview URL TODO
 
 unconf:
   url: ""
@@ -160,7 +164,7 @@ unconf:
 
 writing_day:
   url: ""
-  date: Sunday, September 6, 10:00-18:00 CET
+  date: Sunday, September 6, 10:00-18:00 CEST
 
 volunteer:
   form_url: ""
@@ -169,16 +173,28 @@ volunteer:
 
 sponsors:
   keystone:
+    - name: mintlify
+      link: https://mintlify.com/?utm_source=writethedocs&utm_medium=referral
+      brand: Mintlify
   patron:
+    - name: gitbook
+      link: https://www.gitbook.com/?ref=writethedocs
+      brand: GitBook
   publisher:
   second:
+    - name: readthedocs
+      link: https://about.readthedocs.com/?ref=writethedocs
+      brand: Read the Docs
   first:
   in_kind:
+    - name: readthedocs
+      link: https://about.readthedocs.com/?ref=writethedocs
+      brand: Read the Docs
 
 # Things that change over time, listed in order of change
-flaglanding: True
-flaghassponsors: False
-flagcfp: False
+flaglanding: False
+flaghassponsors: True
+flagcfp: True
 flagticketsonsale: False
 flagsoldout: False
 flagscheduleincomplete: True
@@ -197,7 +213,7 @@ flaghashike: False
 flaghasfood: True
 flaghaswritingday: True
 flaghaslightningtalks: True
-flaghasjobfair: False
+flaghassponsorexpo: True
 flaghasboat: False
 flaghasvisiting: False
 flaghasteam: False

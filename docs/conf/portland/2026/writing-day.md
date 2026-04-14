@@ -81,7 +81,7 @@ Leading a project at Writing Day is a wonderful opportunity to engage with docum
 
 #### Submit
 
-**If you submit your project by April 22, 2026, we will share your project in a blog post and email with our attendees before the conference.**
+**If you submit your project by {{ writing_day.project_deadline }}, we will share your project in a blog post and email with our attendees before the conference.**
 
 [Submit projects]({{ writing_day.url }})
 
@@ -101,7 +101,7 @@ Walk-on projects are always welcome. You are still more than welcome to bring a 
 - **Clear onboarding:** Ensure your README, contribution guidelines, or onboarding instructions are accurate and up to date.
 - **Project experts:** We recommend having 1-2 people leading a project. You are welcome to call for virtual reinforcements from your community. If you need additional support onboarding volunteers, the WTD staff team will share this opportunity with the community. View further information in the [Call for Projects form]({{ writing_day.url }}).
 - **Flexibility and understanding:** Reminder that attendees may need additional info to be successful in onboarding to your project.
-- **Submit your Writing Day project before the conference:** Projects submitted by **April 22, 2026** are featured in our pre-conference blog post and email. Many attendees have shared that their curiosity for specific projects motivated them to attend. Project submissions open in February/March.
+- **Submit your Writing Day project before the conference:** Projects submitted by **{{ writing_day.project_deadline }}** are featured in our pre-conference blog post and email. Many attendees have shared that their curiosity for specific projects motivated them to attend. Project submissions open in February/March.
 
 These are suggestions and not requirements. It is perfectly valid to show up to Writing Day the day of, tell us about your project, and ask for volunteers. It has been done before and it will be done again.
 

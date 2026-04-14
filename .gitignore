@@ -3,9 +3,10 @@
 .DS_Store
 _build
 .env
-.tox
+.venv
 venv*
 *.pyc
+.tox
 node_modules
 .sass-cache
 docs/meetups/events.rst

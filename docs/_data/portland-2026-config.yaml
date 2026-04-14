@@ -79,12 +79,16 @@ tickets:
 sponsorship:
   second_draft:
     price: $3,000
+    tickets: 2
   publisher:
     price: $5,000
+    tickets: 4
   patron:
     price: $10,000
+    tickets: 6
   keystone:
     price: $15,000
+    tickets: 8
 
 grants:
   url: "https://docs.google.com/forms/d/e/1FAIpQLSctdb3MT_MvB1x_o8iKKhp_xik8YXDLVCnnDT_tv2k2LPlrJg/viewform?usp=dialog"
@@ -148,6 +152,7 @@ about:
   social_venue:  Jupiter NEXT, 900 E Burnside St (2nd floor)
   venue: Revolution Hall
   venue_address: Revolution Hall, 1300 SE Stark St, Portland, Oregon 97214
+  venue_map_url: https://maps.app.goo.gl/Z38CyRjmUukr3eSL6
   photos: TBD
   mainroom: Main stage
   unconfroom: Library & Astoria room (1st floor)
@@ -168,6 +173,7 @@ unconf:
 writing_day:
   url: "https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform?usp=header"
   date: Sunday, May 3, 9 AM - 5 PM
+  project_deadline: "April 22, 2026"
 
 volunteer:
   form_url: "https://docs.google.com/forms/d/e/1FAIpQLSeJvA3uhXDuFsl_kFYWyTyTIyYs6ItHMPspOVq_iSlIloFo6g/viewform?usp=sharing&ouid=109538527958730243648"
@@ -245,10 +251,10 @@ sponsors:
 
 photos:
   default:
-    - _static/conf/images/headers/2025/grants.jpg
-    - _static/conf/images/headers/2025/unconference.jpg
-    - _static/conf/images/headers/2025/volunteer.jpg
-    - _static/conf/images/headers/2025/writing-day.jpg
+    - _static/conf/images/headers/2026/unconference.jpg
+    - _static/conf/images/headers/2026/volunteer.jpg
+    - _static/conf/images/headers/2026/writing-day.jpg
+    - _static/conf/images/headers/2026/tickets.jpg
   index:
     - _static/conf/images/pics/writing-day.jpg
     - _static/conf/images/pics/reg.jpg
@@ -264,7 +270,7 @@ flagscheduleincomplete: False
 flagspeakersannounced: True
 flagrunofshow: True
 flaghasschedule: True
-flaghasshirts: False
+flaghasshirts: True
 flaglivestreaming: False
 flagvideos: False
 flagpostconf: False
@@ -275,7 +281,7 @@ flaghashike: True
 flaghasfood: True
 flaghaswritingday: True
 flaghaslightningtalks: True
-flaghasjobfair: True
+flaghassponsorexpo: True
 flaghasboat: False
 
 # Pages to be linked in January 2026

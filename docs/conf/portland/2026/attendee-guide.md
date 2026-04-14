@@ -33,6 +33,18 @@ View our [Venue page](/conf/{{shortcode}}/{{year}}/venue/) for details and the l
 
 We will provide a venue map onsite.
 
+## Attendee Lounge
+
+Take a break in the Attendee Lounge, a quiet wellness and recharging space with comfortable seating, charging stations, light snacks, and noise-canceling headphones on loan. Open throughout Monday and Tuesday.
+
+*The Attendee Lounge is sponsored by [Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral).*
+
+## Professional Headshots
+
+Free professional headshots are available for all attendees at the headshot booth. Come grab a new photo for your LinkedIn or professional profile!
+
+*The headshot booth is sponsored by [Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral).*
+
 ## Food and Drinks
 
 - Snacks, coffee, tea, and water are included with your ticket. Vegan, vegetarian, gluten-free, and dairy-free options will be offered. 
@@ -132,7 +144,7 @@ Join us for our Sunday night welcome party! Drinks and snacks included.
 
 ### Monday Conference Party:
 
-This is our main social event of the conference, and this year is held at [Jupiter NEXT](https://www.jupiterhotel.com/). Drinks and snacks provided by us. 
+This is our main social event of the conference. Drinks and snacks provided by us. 
 
 It is a time to connect with other attendees outside of the scheduled programming.  Come for an hour or stay the entire time!
 
@@ -140,9 +152,7 @@ It is a time to connect with other attendees outside of the scheduled programmin
 7-9 PM
 
 **Location:**
-Jupiter NEXT
-900 E Burnside St
-2nd floor
+{{ about.social_venue }}
 
 ### Hike:
 

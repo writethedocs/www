@@ -1,42 +1,42 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{ shortcode }}-{{year}}-opengraph.jpg
-banner: _static/conf/images/headers/2025/sponsors.jpg
+banner: _static/conf/images/headers/2026/sponsors.jpg
 ---
 
 # Sponsor Information
 
-Hi sponsors! We're excited to have you join us for Write the Docs Portland 2026. Below is a conference overview, schedule, and detailed information regarding your participation.
+Hi sponsors! We're excited to have you join us for Write the Docs {{ name }} {{ year }}. Below is a conference overview, schedule, and detailed information regarding your participation.
 
 ## Location
 
-Revolution Hall: 
-[1300 SE Stark St](https://maps.app.goo.gl/Z38CyRjmUukr3eSL6)
+{{ about.venue }}: 
+[1300 SE Stark St]({{ about.venue_map_url }})
 
 ## Schedule
 
-**SUNDAY, MAY 3**:
+**{{ date.day_two.dotw | upper }}, {{ date.day_two.date | upper }}**:
 
 * 8:00am: Doors open
 * 9:00am-5:00pm: Writing Day and check in
 * 5:00-7:00pm: Welcome reception
 
-**MONDAY, MAY 4**:
+**{{ date.day_three.dotw | upper }}, {{ date.day_three.date | upper }}**:
 
 * 7:00am: Arrival and booth setup for Keystone/Patron sponsors
 * 8:00am: Doors to venue/sponsor booths open
 * 9:00am-5:00pm: Speaker Talks and Unconference
-* 10:50am: Booth sponsor introductions on main stage
-* 5:00-7:00pm: Evening break
-* 7:00-9:00pm: Evening party at Jupiter NEXT (900 E Burnside St, 2nd floor)
+* 11:05am: Booth sponsor introductions on main stage
+* 5:05pm: Conference Day 1 ends
+* 7:00-9:00pm: Evening party at {{ about.social_venue }}
 
-**TUESDAY, MAY 5**:
+**{{ date.day_four.dotw | upper }}, {{ date.day_four.date | upper }}**:
 
-* 8:15am: Keystone/Patron sponsor arrival
+* 8:00am: Keystone/Patron sponsor arrival
 * 8:30am: Doors to venue/sponsor booths open
 * 9:00am-4:00pm: Speaker Talks and Unconference
 * 4:30pm: Conference ends/load out
-* 5:30pm: Out of venue 
+* 6:00pm: Out of venue 
 
 ## Conference Overview
 
@@ -107,7 +107,7 @@ If you are sponsoring a Lightning Talk, you will be given 60 seconds to share ab
 Host a project at Writing Day. This is a place where the community gathers to get actual work done and is a great opportunity to meet with a small group and have extended interaction with attendees. 
 
 * View our [Lead a Project](https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/writing-day/#lead-a-project) for more information.
-* [Submit your Writing Day project here.](https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform?usp=dialog) All projects submitted by April 22 will be published to our website, which encourages attendees to attend, engage with your product, and contribute to your documentation.
+* [Submit your Writing Day project here.](https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform?usp=dialog) All projects submitted by {{ writing_day.project_deadline }} will be published to our website, which encourages attendees to attend, engage with your product, and contribute to your documentation.
 
 ### Host an Unconference Session
 

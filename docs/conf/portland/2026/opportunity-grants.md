@@ -29,7 +29,7 @@ Grant applicants, like all other participants in the Write the Docs community, a
 ## Schedule
 
 - **Now - {{ grants.ends }}:** Grant applications open
-- **February 13, 2026:** Grant recipients notified
+- **{{ grants.notification }}:** Grant recipients notified
 
 ## What is Covered
 

@@ -1,21 +1,18 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/headers/2025/volunteer.jpg
+banner: _static/conf/images/headers/2026/volunteer.jpg
 ---
 
 # Health and Safety Policy 
 
-**This policy is up to date as of December 2025.**
+**This policy is up to date as of March 2026.**
 
 ## Onsite Health and Safety Measures
 
 Please expect the following measures to be in place at the event:
 
-- Physically-spaced audience seating on the 3rd level of the main auditorium
-- Event signage to allow for physical distancing
 - Plentiful hand sanitation stations and personal hand sanitizer onsite and available for participants
-- Antigen COVID tests available at registration, while supplies last
 - Masks available at registration, while supplies last
 
 ## Mask Policy

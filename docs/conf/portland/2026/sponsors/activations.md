@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{ shortcode }}-{{year}}-opengraph.jpg
-banner: _static/conf/images/headers/2025/sponsors.jpg
+banner: _static/conf/images/headers/2026/sponsors.jpg
 orphan: true
 ---
 
@@ -48,7 +48,6 @@ Sponsor branding for the Unconference track, which runs in parallel with speaker
 
 - Signage at Unconference room entrances with sponsor logo
 - Sponsor logo on Unconference schedule board
-- Acknowledgment during Unconference introduction remarks
 - Table for sponsor collateral
 
 ### What the Sponsor Provides
@@ -59,7 +58,7 @@ Sponsor branding for the Unconference track, which runs in parallel with speaker
 
 ## Sunday Welcome Reception Sponsorship
 
-Sponsor branding at the Sunday pre-conference Welcome Reception. Can be combined with a [Branded Food & Dessert Station](#branded-food--dessert-station) for additional presence and signage.
+Sponsor branding at the Sunday pre-conference Welcome Reception. Can be combined with a [Branded Food & Dessert Station](#branded-food-dessert-station) for additional presence and signage.
 
 - **Time:** 5:00–7:00 PM, Sunday
 - **Location:** Conference venue
@@ -77,7 +76,7 @@ Sponsor branding at the Sunday pre-conference Welcome Reception. Can be combined
 
 ## Monday Evening Social Sponsorship
 
-Sponsor branding at the Monday evening party, including branded bar menu and entrance signage. Can be combined with a [Branded Food & Dessert Station](#branded-food--dessert-station) for additional presence and signage.
+Sponsor branding at the Monday evening party, including branded bar menu and entrance signage. Can be combined with a [Branded Food & Dessert Station](#branded-food-dessert-station) for additional presence and signage.
 
 - **Time:** 7:00–9:00 PM, Monday
 - **Location:** Jupiter NEXT (900 E Burnside St, 2nd floor)
@@ -181,7 +180,7 @@ Free professional headshots for all attendees, sponsored by your company. Sponso
 
 A useful, co-branded item distributed to all attendees featuring both the Write the Docs and sponsor logos. Items should be practical and conference-appropriate (e.g., cable organizers, portable chargers). Write the Docs manages production and distribution.
 
-- **Quantity:** All registered attendees (~400)
+- **Quantity:** All registered attendees (~{{ about.attendees }})
 
 ### What Write the Docs Provides
 
