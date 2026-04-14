@@ -141,7 +141,7 @@ If you already have a ticket, we will of course refund it - just drop us an emai
 
 ## Speaker logistics
 
-New for Portland, in 2026 we're showing a few pre-recorded talks with live Q&A from remote speakers for our conference on **{{date.short}}**.
+We're showing a few pre-recorded talks with live Q&A from remote speakers for our conference on **{{date.short}}**.
 
 - We'll accept a **maximum of two** pre-recorded talks, which will need to be uploaded around one month before the conference. Because there are only two slots, submitting a remote proposal does reduce the likeliehood of your talk being accepted.
 - All other talks will be delivered **in-person, on-stage, live in {{city}}**.
@@ -161,7 +161,7 @@ We'll let you know whether your proposal was accepted, and ask for some suppleme
 **{{cfp.speaker_tickets_by}}**  
 Register for speaker ticket (with dietary preferences, hoodie size, etc.)
 
-**April 9, 2026**  
+**{{cfp.video_by}}**  
 Upload date for recorded talks (remote speakers)
 
 **{{cfp.slides_by}}**  

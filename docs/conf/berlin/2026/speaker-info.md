@@ -14,7 +14,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ## Essential info
 
 **Location**  
-{{ about.venue_address }}
+{{ about.venue }}, {{ about.venue_address }}
 
 **Date**  
 {{ date.short }}

@@ -55,7 +55,7 @@ Leading a project at Writing Day is a wonderful opportunity to engage with docum
 
 #### Submit
 
-**If you submit your project by August 2026 (TBD), we will share your project in a blog post and email with our attendees before the conference.**
+**If you submit your project by {{ writing_day.project_deadline }}, we will share your project in a blog post and email with our attendees before the conference.**
 
 {% if writing_day.url %}[Submit projects]({{ writing_day.url }}){% endif %}
 
@@ -107,7 +107,7 @@ If you are planning to contribute, review the project list before the conference
 - Love letters
 - The Documentarian Manifesto
 
-Find specific examples on the [Portland Writing Day 2026 project list](https://www.writethedocs.org/conf/portland/2026/writing-day/#project-list).
+Find specific examples on the [Portland Writing Day {{year-1}} project list](https://www.writethedocs.org/conf/portland/{{year-1}}/writing-day/#project-list).
 
 ## Project list
 

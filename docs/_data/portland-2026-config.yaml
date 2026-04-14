@@ -159,7 +159,7 @@ about:
   attendees: 400
   social_venue:  Jupiter NEXT, 900 E Burnside St (2nd floor)
   venue: Revolution Hall
-  venue_address: Revolution Hall, 1300 SE Stark St, Portland, Oregon 97214
+  venue_address: 1300 SE Stark St, Portland, Oregon 97214
   venue_map_url: https://maps.app.goo.gl/Z38CyRjmUukr3eSL6
   photos: TBD
   mainroom: Main stage
@@ -171,6 +171,7 @@ cfp:
   ends: "January 19, 2026"                         # (Mon) 1 week, to review. It'll take a little longer to announce
   notification: "February 2, 2026"                 # (Mon) 8 weeks to write and prepare
   speaker_tickets_by: April 2, 2026               # (Mon) Approx 3 weeks before
+  video_by: "April 9, 2026"                        # Upload date for recorded talks (remote speakers)
   slides_by: "April 20, 2026"                      # (Mon) 2 weeks before
   preview: "https://writethedocs-www--2552.org.readthedocs.build/conf/portland/2026/schedule/"                                  # Preview URL TODO
 

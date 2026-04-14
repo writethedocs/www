@@ -10,8 +10,8 @@ Hi sponsors! We're excited to have you join us for Write the Docs {{ name }} {{ 
 
 ## Location
 
-{{ about.venue }}: 
-[1300 SE Stark St]({{ about.venue_map_url }})
+{{ about.venue }}:
+[{{ about.venue_address }}]({{ about.venue_map_url }})
 
 ## Schedule
 
@@ -40,11 +40,11 @@ Hi sponsors! We're excited to have you join us for Write the Docs {{ name }} {{ 
 
 ## Conference Overview
 
-* **SUNDAY**: The conference begins with [Writing Day](/conf/{{ shortcode }}/{{ year }}/schedule/) and typically is attended by one third of our attendees. The Welcome Reception takes place in the evening and brings in an additional wave of attendees. **There are no sponsor booths this day**, but sponsors are encouraged to submit and lead a Writing Day project.
+* **{{ date.day_two.dotw | upper }}**: The conference begins with [Writing Day](/conf/{{ shortcode }}/{{ year }}/schedule/) and typically is attended by one third of our attendees. The Welcome Reception takes place in the evening and brings in an additional wave of attendees. **There are no sponsor booths this day**, but sponsors are encouraged to submit and lead a Writing Day project.
 
-* **MONDAY**: Day 1 of Speaker Talks and Unconference. Booth setup for Keystone and Patron sponsors. Attendees arrive promptly when doors open, and the remaining two thirds of attendees check in that morning. Sponsor introductions are on the main stage for Keystone and Patron sponsors. The day features seven speaker talks with short breaks between each session, and the Unconference track runs in parallel. An offsite social gathering is held Monday evening.
+* **{{ date.day_three.dotw | upper }}**: Day 1 of Speaker Talks and Unconference. Booth setup for Keystone and Patron sponsors. Attendees arrive promptly when doors open, and the remaining two thirds of attendees check in that morning. Sponsor introductions are on the main stage for Keystone and Patron sponsors. The day features seven speaker talks with short breaks between each session, and the Unconference track runs in parallel. An offsite social gathering is held {{ date.day_three.dotw }} evening.
 
-* **TUESDAY**: Day 2 of Speaker Talks and Unconference. The day features six speakers. Schedule reflects Monday with slight adjustments to beginning and end times.
+* **{{ date.day_four.dotw | upper }}**: Day 2 of Speaker Talks and Unconference. The day features six speakers. Schedule reflects {{ date.day_three.dotw }} with slight adjustments to beginning and end times.
 
 The [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) will be available here.
 
@@ -73,10 +73,10 @@ Each sponsorship includes different opportunities to engage with our attendees. 
 
 ### Sponsor Booths - Keystone and Patron
 
-Sponsor booths are set up in the main hallway on Monday and Tuesday outside of the auditorium.
+Sponsor booths are set up in the main hallway on {{ date.day_three.dotw }} and {{ date.day_four.dotw }} outside of the auditorium.
 
 **Location:** Main hallway, outside the auditorium
-**Availability:** Monday and Tuesday, full conference hours
+**Availability:** {{ date.day_three.dotw }} and {{ date.day_four.dotw }}, full conference hours
 
 #### What Write the Docs Provides
 
@@ -93,14 +93,14 @@ Sponsor booths are set up in the main hallway on Monday and Tuesday outside of t
 
 #### Booth Logistics
 
-* **Setup:** Arrive at 7:00am Monday. The venue opens to attendees at 8:00am. Load-in instructions will be sent closer to the conference.
+* **Setup:** Arrive at 7:00am {{ date.day_three.dotw }}. The venue opens to attendees at 8:00am. Load-in instructions will be sent closer to the conference.
 * **Presence:** Be at your booth during breaks and at the start of lunch.
-* **Load-out:** You are responsible for loading in and out your entire booth setup. All materials must be out of the venue by 5:30pm Tuesday.
+* **Load-out:** You are responsible for loading in and out your entire booth setup. All materials must be out of the venue by 5:30pm {{ date.day_four.dotw }}.
 * **Tips:** Engage with folks as both a sponsor and attendee. QR codes are a great way to get people to a website quickly.
 
 ### Lightning Talk Sponsor
 
-If you are sponsoring a Lightning Talk, you will be given 60 seconds to share about your company. This will occur on Monday OR Tuesday after lunch. If you want to use a slide for your introduction, let us know. Otherwise, we will create a slide with your logo.
+If you are sponsoring a Lightning Talk, you will be given 60 seconds to share about your company. This will occur on {{ date.day_three.dotw }} OR {{ date.day_four.dotw }} after lunch. If you want to use a slide for your introduction, let us know. Otherwise, we will create a slide with your logo.
 
 ### Participate in Writing Day
 
@@ -115,7 +115,7 @@ Host an Unconference session. This is a wonderful opportunity to lead, contribut
 
 **Logistics**:
 
-* Sessions are 40 minutes in length on Monday and Tuesday.
+* Sessions are 40 minutes in length on {{ date.day_three.dotw }} and {{ date.day_four.dotw }}.
 * Let us know in advance if you plan to run an unconference session so we can confirm a suitable timeslot for you.
 * View more on how to Lead a Session on our [Unconference](/conf/{{ shortcode }}/{{ year }}/unconference/) page.
 
@@ -142,6 +142,6 @@ You should have received a unique URL with a discount code for your sponsorship 
 * Sponsors are responsible for all sponsorship materials after they arrive at the venue. 
 * Sponsors are responsible for mailing all materials after the conference. 
 * Please print your return shipping labels prior to coming to the venue to send your materials back.
-* **All materials must be out of the venue by 5:30pm on Tuesday.**
+* **All materials must be out of the venue by 5:30pm on {{ date.day_four.dotw }}.**
 
 If you have any further questions, reach out to Eric Holscher or <sponsorship@writethedocs.org>.
