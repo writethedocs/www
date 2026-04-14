@@ -205,9 +205,7 @@ global_sponsors = ""
 # Dynamic announcement message
 announcement_message = None
 
-if datetime.date(2025, 8, 19) <= datetime.date.today() <= datetime.date(2025, 10, 28):
-    announcement_message = "Berlin 2025: Oct 27-28. <a href='/conf/berlin/2025/'>View the conference site</a>."
-elif datetime.date.today() <= datetime.date(2026, 1, 19):
+if datetime.date.today() <= datetime.date(2026, 1, 19):
     announcement_message = "Portland 2026 CFP is open! <a href='/conf/portland/2026/cfp/'>Submit your talk</a>."
 elif datetime.date(2026, 1, 20) <= datetime.date.today() <= datetime.date(2026, 5, 2):
     announcement_message = "Portland 2026 tickets are on sale! <a href='/conf/portland/2026/tickets/'>Get your ticket</a>."
