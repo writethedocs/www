@@ -20,8 +20,8 @@ Attend a conference
 
 We have upcoming conferences around the world:
 
-   - :doc:`Write the Docs Portland 2026 </conf/portland/2026/index>`, May 3-5, **Portland, Oregon**
-   - :doc:`Write the Docs Berlin 2026 </conf/berlin/2026/index>`, September 6-8, **Berlin, Germany**
+   - :doc:`Portland 2026 </conf/portland/2026/index>`, May 3-5, **Portland, Oregon**
+   - :doc:`Berlin 2026 </conf/berlin/2026/index>`, September 6-8, **Berlin, Germany**
 
 See all :doc:`our conferences </conf/index>` from past years.
 

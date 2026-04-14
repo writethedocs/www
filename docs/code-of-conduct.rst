@@ -144,18 +144,18 @@ If your report concerns a member of the Code of Conduct team of a conference, yo
 
 If your report concerns a member of the :ref:`core-team`, which receives emails to conduct@writethedocs.org, you can report the issue individually to any of the other core team members.
 
-Write the Docs Portland Code of Conduct Team
---------------------------------------------
+Portland Code of Conduct Team
+-----------------------------
 
 .. include:: /include/conf/coc/na-coc.rst
 
-Write the Docs Berlin Code of Conduct Team
-------------------------------------------
+Berlin Code of Conduct Team
+---------------------------
 
 .. include:: /include/conf/coc/eu-coc.rst
 
-Write the Docs Australia Code of Conduct Team
----------------------------------------------
+Australia Code of Conduct Team
+------------------------------
 
 .. include:: /include/conf/coc/au-coc.rst
 
