@@ -18,6 +18,7 @@ build:
 sphinx:
   builder: dirhtml
   configuration: docs/conf.py
+  fail_on_warning: true
 
 # No PDF
 formats: []
