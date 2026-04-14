@@ -67,7 +67,7 @@ talks_day1:
     title: "<a href='../unconference'>Unconference starts</a>"
   - time: '10:00'
     duration: '0:00'
-    title: "☕ <a href='../unconference/#sponsor-sessions-in-martha-s'>Sponsor Session in Martha's (10am-12pm)</a> - hosted by Promptless, with free handcrafted espresso"
+    title: "☕ <a href='../unconference/#sponsor-sessions-in-martha-s'>Sponsor Session in Martha's (10am-12pm)</a> - hosted by Promptless"
   - duration: '0:30'
     slug: documentation-thinking-beyond-the-docs-lessons-from-decision-facing-technical-w-mary-elise-dedicke
   - duration: '0:05'
@@ -135,7 +135,7 @@ talks_day2:
     title: "<a href='../unconference'>Unconference starts</a>"
   - time: '10:00'
     duration: '0:00'
-    title: "🍵 <a href='../unconference/#sponsor-sessions-in-martha-s'>Sponsor Session in Martha's (10am-12pm)</a> - hosted by Mintlify, with free handcrafted matcha"
+    title: "🍵 <a href='../unconference/#sponsor-sessions-in-martha-s'>Sponsor Session in Martha's (10am-12pm)</a> - hosted by Mintlify"
   - duration: '0:30'
     slug: what-i-learned-building-an-ai-documentation-auditor-and-what-it-found-in-500-p-rakesh-pasupuleti
   - duration: '0:05'
