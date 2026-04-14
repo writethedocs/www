@@ -2543,7 +2543,7 @@ This section contains questions about the different types of contract work, rate
 
 To protect the privacy of our community, we do not publish median salary figures for any region or category with less than 10 respondents. In regions or categories that meet the minimum threshold of 30 respondents, we're also providing the |25th| percentile (the value below which 25% of the data falls) and |75th| percentile (the value below which 75% of the data falls).
 
-While the 2024 survey results include more contractor data than in any previous year (94 responses) this number is too low, and the respondents too geographically diverse, to determine median rates except for the very largest regions (the United States and Europe).
+The 2025 survey received 80 contractor responses. This number is too low, and the respondents too geographically diverse, to determine median rates except for the very largest regions (the United States and Europe).
 
 .. contents:: In this section
    :local:
@@ -2588,24 +2588,36 @@ Preferred term
 
    </details>
 
-63.8% of non-employee respondents term themselves "contractors", while 18.1% prefer "freelancer" and 10.6% use "self-employed". Of the 7 individuals who chose "other", 3 indicated that they consider themselves full time employees working under a service agreement (temporary or otherwise), 2 specified "consultant", one specified "agency worker", and the final respondent entered "N/A".
+68.8% of non-employee respondents term themselves "contractors", while 12.5% prefer "self-employed" and 11.2% use "freelancer". Of the 6 individuals who chose "other", 2 specified "consultant", and the remaining four described themselves variously as legally a contractor but factually an employee, a business owner, someone who doesn't differentiate between terms, and a student employee.
 
 .. table:: Preferred term
    :widths: 70 15 15
-   :name: tbl-2024-contractor-preferred-term
+   :name: tbl-2025-contractor-preferred-term
    :class: std3col sortable
 
    +---------------------+-----------+-----------+
    | Term                | |N|       | |%|       |
    +=====================+===========+===========+
-   | Contractor          | 60        | 63.8%     |
+   | Contractor          | 55        | 68.8%     |
    +---------------------+-----------+-----------+
-   | Freelancer          | 17        | 18.1%     |
+   | Self-employed       | 10        | 12.5%     |
    +---------------------+-----------+-----------+
-   | Self-employed       | 10        | 10.6%     |
+   | Freelancer          | 9         | 11.2%     |
    +---------------------+-----------+-----------+
-   | Other               | 7         | 7.4%      |
+   | Other               | 6         | 7.5%      |
    +---------------------+-----------+-----------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Preferred term - contractors" aria-describedby="figure_contractor-preferred-term_desc" type="image/svg+xml" data="/_images/2025-contractor-preferred-term.svg">
+         <p id="figure_contractor-preferred-term_desc">Donut chart showing preferred term for contractors.</p>
+      </object>
+      <figcaption>Figure: Preferred term — contractors</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-contractor-preferred-term.svg
+   :class: hide
 
 Type of contract work
 ---------------------
@@ -2636,13 +2648,13 @@ Type of contract work
 
    </details>
 
-Illustrating how varied contractor working situations are, out of the 94 total contractor respondents, there were 59 different combinations of client type, contract or project type, and product or service offering.
+Illustrating how varied contractor working situations are, out of the 80 total contractor respondents, there were 51 different combinations of client type, contract or project type, and product or service offering.
 
-53.2% of contractor respondents indicated that they worked exclusively for a single client at a time. Another 27.7% indicated that they worked exclusively for multiple clients at a time. 5.3% worked at times for either a single client or multiple clients, and 13.8% did not indicate whether they worked for a single client or multiple.
+57.5% of contractor respondents indicated that they worked exclusively for a single client at a time. Another 23.8% indicated that they worked exclusively for multiple clients at a time. 6.2% worked at times for either a single client or multiple clients, and 12.5% did not indicate whether they worked for a single client or multiple.
 
-36.2% of contractor respondents did not specify a typical contract length, while 30.9% reported working exclusively on long-term contracts (6-12 months or longer). Mixed contract lengths were reported by 23.4%, with 7.4% working only on medium-term contracts (1-6 months) and 2.1% working exclusively on short-term contracts (days or weeks).
+30.1% of contractor respondents reported working exclusively on long-term contracts (6-12 months or longer), while 28.7% did not specify a typical contract length. Mixed contract lengths were reported by 25.0%, with 10.0% working exclusively on short-term contracts (days or weeks) — up from just 2.1% in the previous year — and 6.2% working only on medium-term contracts (1-6 months).
 
-The majority of contractor respondents (64.9%) did not specify offering either products or services. Of those that indicated that they did, 28.7% provided specific services, 5.3% offered both products and services, and only 1.1% reported offering products.
+The majority of contractor respondents (71.3%) did not specify offering either products or services. Of those that indicated that they did, 22.5% provided specific services, 5.0% offered both products and services, and only 1.2% reported offering products.
 
 .. raw:: html
 
@@ -2650,20 +2662,32 @@ The majority of contractor respondents (64.9%) did not specify offering either p
 
 .. table:: Typical client configuration
    :widths: 70 15 15
-   :name: tbl-2024-contractor-type-clients
+   :name: tbl-2025-contractor-type-clients
    :class: std3col sortable
 
    +-------------------------------------+--------+--------+
    | Type                                | |N|    | |%|    |
    +=====================================+========+========+
-   | Single client                       |     50 |  53.2% |
+   | Single client                       |     46 |  57.5% |
    +-------------------------------------+--------+--------+
-   | Multiple clients                    |     26 |  27.7% |
+   | Multiple clients                    |     19 |  23.8% |
    +-------------------------------------+--------+--------+
-   | Both single and multiple clients    |      5 |   5.3% |
+   | Not specified                       |     10 |  12.5% |
    +-------------------------------------+--------+--------+
-   | Not specified                       |     13 |  13.8% |
+   | Both single and multiple clients    |      5 |   6.2% |
    +-------------------------------------+--------+--------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Typical client configuration - contractors" aria-describedby="figure_contractor-type-clients_desc" type="image/svg+xml" data="/_images/2025-contractor-type-clients.svg">
+         <p id="figure_contractor-type-clients_desc">Donut chart showing typical client configuration for contractors.</p>
+      </object>
+      <figcaption>Figure: Typical client configuration — contractors</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-contractor-type-clients.svg
+   :class: hide
 
 .. raw:: html
 
@@ -2671,22 +2695,34 @@ The majority of contractor respondents (64.9%) did not specify offering either p
 
 .. table:: Typical contract length
    :widths: 70 15 15
-   :name: tbl-2024-contractor-type-contract-length
+   :name: tbl-2025-contractor-type-contract-length
    :class: std3col sortable
 
    +-------------------------------------------+----------+----------+
    | Length                                    | |N|      | |%|      |
    +===========================================+==========+==========+
-   | No contract length specified              |       34 |    36.2% |
+   | Long term only (6-12 months or longer)    |       24 |    30.0% |
    +-------------------------------------------+----------+----------+
-   | Long term only (6-12 months or longer)    |       29 |    30.9% |
+   | No contract length specified              |       23 |    28.7% |
    +-------------------------------------------+----------+----------+
-   | Mixed contract lengths                    |       22 |    23.4% |
+   | Mixed contract lengths                    |       20 |    25.0% |
    +-------------------------------------------+----------+----------+
-   | Medium term only (1 - 6 months)           |        7 |     7.4% |
+   | Short term only (days or weeks)           |        8 |    10.0% |
    +-------------------------------------------+----------+----------+
-   | Short term only (days or weeks)           |        2 |     2.1% |
+   | Medium term only (1 - 6 months)           |        5 |     6.2% |
    +-------------------------------------------+----------+----------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Typical contract length - contractors" aria-describedby="figure_contractor-type-contract-length_desc" type="image/svg+xml" data="/_images/2025-contractor-type-contract-length.svg">
+         <p id="figure_contractor-type-contract-length_desc">Donut chart showing typical contract length for contractors.</p>
+      </object>
+      <figcaption>Figure: Typical contract length — contractors</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-contractor-type-contract-length.svg
+   :class: hide
 
 .. raw:: html
 
@@ -2694,20 +2730,32 @@ The majority of contractor respondents (64.9%) did not specify offering either p
 
 .. table:: Products and/or services provided
    :widths: 70 15 15
-   :name: tbl-2024-contractor-type-products-services
+   :name: tbl-2025-contractor-type-products-services
    :class: std3col sortable
 
    +----------------------------------+--------+--------+
    | Offering                         | |N|    | |%|    |
    +==================================+========+========+
-   | Offering neither                 |     61 |  64.9% |
+   | Offering neither                 |     57 |  71.2% |
    +----------------------------------+--------+--------+
-   | Offering a service/services      |     27 |  28.7% |
+   | Offering a service/services      |     18 |  22.5% |
    +----------------------------------+--------+--------+
-   | Offering both                    |      5 |   5.3% |
+   | Offering both                    |      4 |   5.0% |
    +----------------------------------+--------+--------+
-   | Offering a product/products      |      1 |   1.1% |
+   | Offering a product/products      |      1 |   1.2% |
    +----------------------------------+--------+--------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Products and/or services provided - contractors" aria-describedby="figure_contractor-type-products-services_desc" type="image/svg+xml" data="/_images/2025-contractor-type-products-services.svg">
+         <p id="figure_contractor-type-products-services_desc">Donut chart showing products and/or services provided by contractors.</p>
+      </object>
+      <figcaption>Figure: Products and/or services provided — contractors</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-contractor-type-products-services.svg
+   :class: hide
 
 .. raw:: html
 
