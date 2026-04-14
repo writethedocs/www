@@ -209,7 +209,9 @@ if datetime.date.today() <= datetime.date(2026, 1, 19):
     announcement_message = "Portland 2026 CFP is open! <a href='/conf/portland/2026/cfp/'>Submit your talk</a>."
 elif datetime.date(2026, 1, 20) <= datetime.date.today() <= datetime.date(2026, 5, 2):
     announcement_message = "Portland 2026 tickets are on sale! <a href='/conf/portland/2026/tickets/'>Get your ticket</a>."
-elif datetime.date(2026, 5, 3) <= datetime.date.today() <= datetime.date(2026, 6, 1):
+elif datetime.date(2026, 5, 3) <= datetime.date.today() <= datetime.date(2026, 5, 6):
+    announcement_message = "Portland 2026: May 3-5. <a href='/conf/portland/2026/'>View the conference site</a>."
+elif datetime.date(2026, 5, 7) <= datetime.date.today() <= datetime.date(2026, 6, 1):
     announcement_message = "Berlin 2026 CFP is open! <a href='/conf/berlin/2026/cfp/'>Submit your talk</a>."
 elif datetime.date(2026, 6, 2) <= datetime.date.today() <= datetime.date(2026, 9, 5):
     announcement_message = "Berlin 2026 tickets are on sale! <a href='/conf/berlin/2026/tickets/'>Get your ticket</a>."
