@@ -1829,7 +1829,7 @@ The USD share grew from 45.0% to 54.2%, while representation in Canadian dollars
 Median salary
 -------------
 
-As in previous years, salaries for those working part-time hours (less than 30 per week) have been omitted from the figures in this section. The median salaries are based on 689 full-time employee respondents.
+As in previous years, salaries for those working part-time hours (less than 30 per week) have been omitted from the figures in this section. The median salaries are based on 696 full-time employee respondents.
 
 .. contents:: In this section
    :local:
@@ -1862,96 +1862,106 @@ Given the range of socio-economic differences in the countries in the survey res
 
    .. rubric:: Privacy and salary information
 
-   The following countries - all of which had fewer than 10 respondents in 2024 - are excluded from the median salaries breakdown for privary reasons:
+   The following countries - all of which had fewer than 10 respondents in 2025 - are excluded from the median salaries breakdown for privacy reasons:
 
-   - North America: Puerto Rico, Mexico
-   - Europe: Austria, Bulgaria, Croatia, Czechia, Denmark, Estonia, Finland, Georgia, Greece, Hungary, Ireland, Italy, Lithuania, Malta, Netherlands, Norway, Poland, Portugal, Romania, Russia, Serbia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine
+   - North America: Mexico
+   - Europe: Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, Hungary, Ireland, Italy, Netherlands, Norway, Poland, Portugal, Serbia, Spain, Sweden, Turkey, Ukraine
    - Oceania: New Zealand
-   - Asia: China, Japan, Kazakhstan, Pakistan, Philippines, Sri Lanka, Taiwan, Thailand
-   - Middle East: Lebanon, United Arab Emirates
-   - Africa: Nigeria, Rwanda, South Africa
-   - South America: Argentina, Brazil, Chile, Colombia
+   - Asia: China, Indonesia, Japan, Pakistan, Philippines, Singapore, South Korea, Sri Lanka, Vietnam
+   - Middle East: Israel, Lebanon, United Arab Emirates
+   - Africa: Nigeria, South Africa
+   - South America: Argentina, Colombia
 
 .. table:: Salary (USD) by respondent region
-   :name: tbl-2024-salary-by-respondent-region
+   :name: tbl-2025-salary-by-respondent-region
    :class: sortable medians nosort1
 
    +-------------------------+-------------+--------------+--------------+
    | Region (|N|)            | |25|        | |50|         | |75|         |
    +=========================+=============+==============+==============+
-   | **Worldwide** (689)     | **$60,250** |  **$85,760** | **$120,000** |
+   | **Worldwide** (696)     | **$65,450** |  **$93,759** | **$138,625** |
    +-------------------------+-------------+--------------+--------------+
-   | **North America** (384) | **$80,333** | **$107,050** | **$150,000** |
+   | **North America** (421) | **$90,000** | **$119,000** | **$160,000** |
    +-------------------------+-------------+--------------+--------------+
-   | - United States (303)   |     $89,100 |     $120,000 |     $160,000 |
+   | - United States (370)   |     $95,000 |     $125,000 |     $166,862 |
    +-------------------------+-------------+--------------+--------------+
-   | - Canada (77)           |     $60,177 |      $73,760 |      $92,018 |
+   | - Canada (50)           |     $62,779 |      $71,543 |      $96,404 |
    +-------------------------+-------------+--------------+--------------+
-   | **Europe** (180)        | **$47,760** |  **$61,332** |  **$82,620** |
+   | **Europe** (182)        | **$50,397** |  **$66,808** |  **$90,830** |
    +-------------------------+-------------+--------------+--------------+
-   | - United Kingdom (39)   |     $57,600 |      $75,679 |      $96,000 |
+   | - United Kingdom (43)   |     $59,450 |      $85,681 |     $105,941 |
    +-------------------------+-------------+--------------+--------------+
-   | - Germany (29)          |     $64,800 |      $75,600 |      $86,832 |
+   | - Germany (39)          |     $63,882 |      $76,815 |      $93,420 |
    +-------------------------+-------------+--------------+--------------+
-   | - France (19)           | --          |      $54,000 | --           |
+   | - France (16)           | --          |      $49,619 | --           |
    +-------------------------+-------------+--------------+--------------+
-   | **Asia** (48)           | **$18,000** |  **$29,400** |  **$46,200** |
+   | - Romania (12)          | --          |      $53,420 | --           |
    +-------------------------+-------------+--------------+--------------+
-   | - India (40)            |     $18,000 |      $28,800 |      $44,400 |
+   | **Asia** (39)           | **$20,220** |  **$32,134** |  **$59,762** |
    +-------------------------+-------------+--------------+--------------+
-   | **Oceania** (43)        | **$70,972** |  **$83,185** |  **$95,729** |
+   | - India (27)            | --          |      $32,134 | --           |
    +-------------------------+-------------+--------------+--------------+
-   | - Australia (39)        |     $73,282 |      $84,506 |     $101,011 |
+   | **Oceania** (29)        | **--**      |  **$80,591** | **--**       |
    +-------------------------+-------------+--------------+--------------+
-   | **Middle East** (26)    | **--**      |  **$94,064** | **--**       |
+   | - Australia (25)        | --          |      $88,006 | --           |
    +-------------------------+-------------+--------------+--------------+
-   | - Israel (24)           | --          |      $94,064 | --           |
+   | **South America** (15)  | **--**      |  **$13,325** | **--**       |
+   +-------------------------+-------------+--------------+--------------+
+   | - Brazil (13)           | --          |      $12,895 | --           |
    +-------------------------+-------------+--------------+--------------+
 
-Respondent numbers allow some additional breakdowns by US state, Candian province and Australian state, as well as a handful of major cities.
+Respondent numbers allow additional breakdowns by US state and Canadian province, as well as a handful of major US cities. In Australia, only one state (Queensland) meets the minimum threshold of 10 respondents.
 
 .. raw:: html
 
    <div class="tab-wrap"><input type="radio" id="tabD3-1" name="tabGroupD3" class="tab" checked><label for="tabD3-1">United States</label><input type="radio" id="tabD3-2" name="tabGroupD3" class="tab"><label for="tabD3-2">Canada</label><input type="radio" id="tabD3-3" name="tabGroupD3" class="tab"><label for="tabD3-3">Australia</label><div class="tab__content">
 
 .. table:: Salary (USD) by respondent region - USA
-   :name: tbl-2024-salary-by-respondent-region-usa
+   :name: tbl-2025-salary-by-respondent-region-usa
    :class: medians sortable
 
    +----------------------+----------+----------+----------+
    | State (|N|)          | |25|     | |50|     | |75|     |
    +======================+==========+==========+==========+
-   | California (46)      | $108,000 | $150,000 | $188,000 |
+   | California (74)      | $121,250 | $160,000 | $196,250 |
    +----------------------+----------+----------+----------+
-   | - San Francisco (23) | --       | $168,000 | --       |
+   | - San Francisco (16) | --       | $178,842 | --       |
    +----------------------+----------+----------+----------+
-   | Washington (24)      | --       | $141,000 | --       |
+   | - San Jose (11)      | --       | $165,000 | --       |
    +----------------------+----------+----------+----------+
-   | - Seattle (19)       | --       | $160,000 | --       |
+   | Texas (26)           | --       | $141,072 | --       |
    +----------------------+----------+----------+----------+
-   | North Carolina (19)  | --       | $108,000 | --       |
+   | - Austin (18)        | --       | $150,000 | --       |
    +----------------------+----------+----------+----------+
-   | New York (18)        | --       | $125,000 | --       |
+   | Washington (23)      | --       | $164,000 | --       |
    +----------------------+----------+----------+----------+
-   | - New York City (11) | --       | $170,000 | --       |
+   | - Seattle (11)       | --       | $185,000 | --       |
    +----------------------+----------+----------+----------+
-   | Oregon (16)          | --       | $120,000 | --       |
+   | Oregon (22)          | --       | $127,800 | --       |
    +----------------------+----------+----------+----------+
-   | - Portland (13)      | --       | $127,600 | --       |
+   | - Portland (17)      | --       | $130,000 | --       |
    +----------------------+----------+----------+----------+
-   | Texas (15)           | --       | $141,250 | --       |
+   | New York (18)        | --       | $127,500 | --       |
    +----------------------+----------+----------+----------+
-   | Pennsylvania (14)    | --       | $150,000 | --       |
+   | - New York (10)      | --       | $141,300 | --       |
    +----------------------+----------+----------+----------+
-   | Colorado (12)        | --       | $115,000 | --       |
+   | Pennsylvania (16)    | --       | $141,250 | --       |
    +----------------------+----------+----------+----------+
-   | Minnesota (11)       | --       | $104,358 | --       |
+   | Illinois (16)        | --       | $117,500 | --       |
    +----------------------+----------+----------+----------+
-   | Ohio (11)            | --       | $106,500 | --       |
+   | - Chicago (12)       | --       | $129,500 | --       |
    +----------------------+----------+----------+----------+
-   | Michigan (10)        | --       |  $90,000 | --       |
+   | North Carolina (15)  | --       | $119,800 | --       |
    +----------------------+----------+----------+----------+
-   | Virginia (10)        | --       | $127,000 | --       |
+   | Massachusetts (14)   | --       | $132,000 | --       |
+   +----------------------+----------+----------+----------+
+   | Ohio (11)            | --       | $105,480 | --       |
+   +----------------------+----------+----------+----------+
+   | Colorado (11)        | --       | $106,800 | --       |
+   +----------------------+----------+----------+----------+
+   | Florida (10)         | --       | $102,564 | --       |
+   +----------------------+----------+----------+----------+
+   | Wisconsin (10)       | --       | $111,000 | --       |
    +----------------------+----------+----------+----------+
 
 .. raw:: html
@@ -1959,21 +1969,15 @@ Respondent numbers allow some additional breakdowns by US state, Candian provinc
    </div><div class="tab__content">
 
 .. table:: Salary (USD) by respondent region - Canada
-   :name: tbl-2024-salary-by-respondent-region-canada
+   :name: tbl-2025-salary-by-respondent-region-canada
    :class: medians sortable
 
    +-----------------------+---------+---------+---------+
    | Province (|N|)        | |25|    | |50|    | |75|    |
    +=======================+=========+=========+=========+
-   | Ontario (32)          | $60,323 | $71,569 | $91,288 |
+   | Ontario (26)          | --      | $75,836 | --      |
    +-----------------------+---------+---------+---------+
-   | - Toronto (18)        | --      | $80,066 | --      |
-   +-----------------------+---------+---------+---------+
-   | British Columbia (16) | --      | $86,806 | --      |
-   +-----------------------+---------+---------+---------+
-   | - Vancouver (10)      | --      | $91,288 | --      |
-   +-----------------------+---------+---------+---------+
-   | Quebec (12)           | --      | $67,188 | --      |
+   | - Toronto (17)        | --      | $75,120 | --      |
    +-----------------------+---------+---------+---------+
 
 .. raw:: html
@@ -1981,18 +1985,14 @@ Respondent numbers allow some additional breakdowns by US state, Candian provinc
    </div><div class="tab__content">
 
 .. table:: Salary (USD) by respondent region - Australia
-   :name: tbl-2024-salary-by-respondent-region-australia
+   :name: tbl-2025-salary-by-respondent-region-australia
    :class: medians sortable
 
-   +----------------------+------+---------+------+
-   | State (|N|)          | |25| | |50|    | |75| |
-   +======================+======+=========+======+
-   | Victoria (16)        |      | $79,224 |      |
-   +----------------------+------+---------+------+
-   | - Melbourne (14)     |      | $82,525 |      |
-   +----------------------+------+---------+------+
-   | New South Wales (10) |      | $84,506 |      |
-   +----------------------+------+---------+------+
+   +----------------+------+---------+------+
+   | State (|N|)    | |25| | |50|    | |75| |
+   +================+======+=========+======+
+   | Queensland (10)|      | $91,552 |      |
+   +----------------+------+---------+------+
 
 .. raw:: html
 
@@ -2001,26 +2001,26 @@ Respondent numbers allow some additional breakdowns by US state, Candian provinc
 Median salary by gender identity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-In order to have large enough numbers for statistical significance, we only break down salary by gender identity for women (57% of all respondents) and men (37.2% of all respondents), and only in regions where there are at least 30 respondents of each gender.
+In order to have large enough numbers for statistical significance, we only break down salary by gender identity for women (61.8% of all respondents) and men (33.5% of all respondents), and only in regions where there are at least 30 respondents of each gender.
 
-This year, that means that we are able to show breakdowns for Worldwide, North America and Europe. Men earned more than women in all regions, but the difference was largest in Europe (where men earned 19.6% more than women).
+This year, that means that we are able to show breakdowns for Worldwide, North America and Europe. Men earned more than women in all regions, but the difference was largest in Europe (where men earned 25.8% more than women).
 
 .. raw:: html
 
    <div class="tab-wrap"><input type="radio" id="tabD33-1" name="tabGroupD33" class="tab" checked><label for="tabD33-1">Women</label><input type="radio" id="tabD33-2" name="tabGroupD33" class="tab"><label for="tabD33-2">Men</label><input type="radio" id="tabD33-3" name="tabGroupD33" class="tab"><label for="tabD33-3">Comparison</label><div class="tab__content">
 
 .. table:: Salary (USD) by gender identity - women
-   :name: tbl-2024-salary-by-gender-identity-women
+   :name: tbl-2025-salary-by-gender-identity-women
    :class: medians sortable
 
    +---------------------+-------------+--------------+--------------+
    | Region (|N|)        | |25|        | |50|         | |75|         |
    +=====================+=============+==============+==============+
-   | Worldwide (378)     | $57,600     | $82,620      | $116,855     |
+   | Worldwide (430)     | $62,396     | $91,750      | $133,900     |
    +---------------------+-------------+--------------+--------------+
-   | North America (220) | $80,000     | $105,000     | $145,000     |
+   | North America (275) | $86,869     | $116,000     | $150,000     |
    +---------------------+-------------+--------------+--------------+
-   | Europe (93)         | $44,547     | $57,024      | $73,984      |
+   | Europe (106)        | $47,444     | $60,526      | $79,086      |
    +---------------------+-------------+--------------+--------------+
 
 .. raw:: html
@@ -2028,17 +2028,17 @@ This year, that means that we are able to show breakdowns for Worldwide, North A
    </div><div class="tab__content">
 
 .. table:: Salary (USD) by gender identity - men
-   :name: tbl-2024-salary-by-gender-identity-men
+   :name: tbl-2025-salary-by-gender-identity-men
    :class: medians sortable
 
    +-------------------------+-------------+--------------+--------------+
    | Region (|N|)            | |25|        | |50|         | |75|         |
    +=========================+=============+==============+==============+
-   |  Worldwide  (272)       |   $64,000   |    $87,636   |   $124,879   |
+   |  Worldwide  (233)       |   $69,700   |    $99,000   |   $147,000   |
    +-------------------------+-------------+--------------+--------------+
-   |  North America  (138)   |   $85,000   |   $110,000   |   $155,000   |
+   |  North America  (126)   |   $95,000   |   $131,500   |   $179,250   |
    +-------------------------+-------------+--------------+--------------+
-   |  Europe  (77)           |   $51,516   |    $68,184   |    $93,077   |
+   |  Europe  (67)           |   $56,234   |    $76,137   |   $101,983   |
    +-------------------------+-------------+--------------+--------------+
 
 .. raw:: html
@@ -2046,17 +2046,17 @@ This year, that means that we are able to show breakdowns for Worldwide, North A
    </div><div class="tab__content">
 
 .. table:: Median salary (USD) by gender identity - comparison
-   :name: tbl-2024-salary-by-gender-identity-comparison
+   :name: tbl-2025-salary-by-gender-identity-comparison
    :class: medians sortable
 
    +-------------------+--------------+--------------+-----------+
    | Region            | Women        | Men          | Diff      |
    +===================+==============+==============+===========+
-   |  Worldwide        |   $82,620    |   $87,636    |   6.1%    |
+   |  Worldwide        |   $91,750    |   $99,000    |   7.9%    |
    +-------------------+--------------+--------------+-----------+
-   |  North America    |  $105,000    |  $110,000    |   4.8%    |
+   |  North America    |  $116,000    |  $131,500    |  13.4%    |
    +-------------------+--------------+--------------+-----------+
-   |  Europe           |   $57,024    |   $68,184    |  19.6%    |
+   |  Europe           |   $60,526    |   $76,137    |  25.8%    |
    +-------------------+--------------+--------------+-----------+
 
 .. raw:: html
@@ -2066,30 +2066,30 @@ This year, that means that we are able to show breakdowns for Worldwide, North A
 Median salary by years of experience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The general trend is for salaries to increase with years of experience. This trend holds out throughout regions, with the most pronounced increase in the 10-15 year range.
+The general trend is for salaries to increase with years of experience. This trend holds out throughout regions, with the most pronounced increase in the 5-10 year range.
 
 .. raw:: html
 
    <div class="tab-wrap"><input type="radio" id="tabD943-1" name="tabGroupD943" class="tab" checked><label for="tabD943-1">Worldwide</label><input type="radio" id="tabD943-2" name="tabGroupD943" class="tab"><label for="tabD943-2">North America</label><input type="radio" id="tabD943-3" name="tabGroupD943" class="tab"><label for="tabD943-3">Europe</label><div class="tab__content">
 
 .. table:: Salary (USD) by experience
-   :name: tbl-2024-salary-by-experience
+   :name: tbl-2025-salary-by-experience
    :class: medians-with-num sortable
 
    +-----------------+-------+---------+----------+----------+
    | Experience      | |N|   | |25|    | |50|     | |75|     |
    +=================+=======+=========+==========+==========+
-   | |1| 0-2 years   | 34    | $44,496 |  $54,000 |  $72,622 |
+   | |1| 0-2 years   | 35    | $51,900 |  $66,690 |  $85,861 |
    +-----------------+-------+---------+----------+----------+
-   | |2| 2-5 years   | 124   | $52,500 |  $69,336 |  $90,000 |
+   | |2| 2-5 years   | 123   | $47,184 |  $66,931 |  $90,000 |
    +-----------------+-------+---------+----------+----------+
-   | |3| 5-10 years  | 196   | $54,772 |  $81,000 | $112,000 |
+   | |3| 5-10 years  | 189   | $62,130 |  $86,981 | $114,333 |
    +-----------------+-------+---------+----------+----------+
-   | |4| 10-15 years | 135   | $72,500 | $100,000 | $150,000 |
+   | |4| 10-15 years | 138   | $77,321 | $104,775 | $150,000 |
    +-----------------+-------+---------+----------+----------+
-   | |5| 15-20 years | 60    | $75,923 |  $95,000 | $124,900 |
+   | |5| 15-20 years | 56    | $71,115 | $107,918 | $180,000 |
    +-----------------+-------+---------+----------+----------+
-   | |6| 20+ years   | 138   | $77,821 | $101,000 | $144,000 |
+   | |6| 20+ years   | 153   | $95,184 | $120,000 | $160,000 |
    +-----------------+-------+---------+----------+----------+
 
 .. raw:: html
@@ -2097,23 +2097,23 @@ The general trend is for salaries to increase with years of experience. This tre
    </div><div class="tab__content">
 
 .. table:: Salary (USD) by experience - North America
-   :name: tbl-2024-salary-by-experience-region-north-america
+   :name: tbl-2025-salary-by-experience-region-north-america
    :class: medians-with-num sortable
 
    +-----------------+-------+---------+----------+----------+
    | Experience      | |N|   | |25|    | |50|     | |75|     |
    +=================+=======+=========+==========+==========+
-   | |1| 0-2 years   | 16    |         |  $70,000 |          |
+   | |1| 0-2 years   | 16    |         |  $85,250 |          |
    +-----------------+-------+---------+----------+----------+
-   | |2| 2-5 years   | 62    | $63,951 |  $85,000 | $111,736 |
+   | |2| 2-5 years   | 65    | $69,397 |  $86,400 | $110,000 |
    +-----------------+-------+---------+----------+----------+
-   | |3| 5-10 years  | 111   | $75,000 | $100,000 | $144,000 |
+   | |3| 5-10 years  | 103   | $80,050 | $108,000 | $141,196 |
    +-----------------+-------+---------+----------+----------+
-   | |4| 10-15 years | 81    | $91,288 | $128,500 | $165,000 |
+   | |4| 10-15 years | 89    | $99,413 | $138,500 | $175,000 |
    +-----------------+-------+---------+----------+----------+
-   | |5| 15-20 years | 28    | $90,000 | $115,027 | $173,665 |
+   | |5| 15-20 years | 31    | $107,000 | $145,000 | $200,160 |
    +-----------------+-------+---------+----------+----------+
-   | |6| 20+ years   | 85    | $97,000 | $120,000 | $166,000 |
+   | |6| 20+ years   | 115   | $110,000 | $136,500 | $168,214 |
    +-----------------+-------+---------+----------+----------+
 
 .. raw:: html
@@ -2121,23 +2121,23 @@ The general trend is for salaries to increase with years of experience. This tre
    </div><div class="tab__content">
 
 .. table:: Salary (USD) by experience - Europe
-   :name: tbl-2024-salary-by-experience-region-europe
+   :name: tbl-2025-salary-by-experience-region-europe
    :class: medians-with-num sortable
 
    +-----------------+-------+---------+---------+---------+
    | Experience      | |N|   | |25|    | |50|    | |75|    |
    +=================+=======+=========+=========+=========+
-   | |1| 0-2 years   | 13    |         | $48,640 |         |
+   | |1| 0-2 years   | 13    |         | $65,550 |         |
    +-----------------+-------+---------+---------+---------+
-   | |2| 2-5 years   | 39    | $38,879 | $54,000 | $69,336 |
+   | |2| 2-5 years   | 36    | $39,057 | $48,574 | $62,650 |
    +-----------------+-------+---------+---------+---------+
-   | |3| 5-10 years  | 56    | $46,656 | $60,480 | $81,000 |
+   | |3| 5-10 years  | 65    | $50,833 | $70,037 | $93,759 |
    +-----------------+-------+---------+---------+---------+
-   | |4| 10-15 years | 29    |         | $77,760 |         |
+   | |4| 10-15 years | 33    | $59,870 | $74,759 | $90,370 |
    +-----------------+-------+---------+---------+---------+
-   | |5| 15-20 years | 16    |         | $76,982 |         |
+   | |5| 15-20 years | 16    |         | $78,836 |         |
    +-----------------+-------+---------+---------+---------+
-   | |6| 20+ years   | 26    |         | $72,900 |         |
+   | |6| 20+ years   | 19    |         | $79,090 |         |
    +-----------------+-------+---------+---------+---------+
 
 .. raw:: html
@@ -2147,28 +2147,28 @@ The general trend is for salaries to increase with years of experience. This tre
 Median salary by organization size
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Salaries generally increase with the size of the organization, with the highest median salaries observed in organizations with more than 100,000 employees. In North America, this trend is particularly pronounced in the 75th percentile for the very largest organizations. In Europe, while the trend of increasing salaries with organization size is also evident, there's a small drop in all salary ranges in the 10,000 - 100,000 employee category.
+Salaries generally increase with the size of the organization, with the highest median salaries in organizations with more than 100,000 employees. The trend is not perfectly monotonic: globally and in North America, median salaries dip slightly for organizations in the 101–1,000 employee range before rising for larger ones. In Europe, salaries increase steadily from the 101–1,000 band upward, with the 10,001–100,000 employee category showing the highest recorded median among European respondents.
 
 .. raw:: html
 
    <div class="tab-wrap"><input type="radio" id="tabD9943-1" name="tabGroupD9943" class="tab" checked><label for="tabD9943-1">Worldwide</label><input type="radio" id="tabD9943-2" name="tabGroupD9943" class="tab"><label for="tabD9943-2">North America</label><input type="radio" id="tabD9943-3" name="tabGroupD9943" class="tab"><label for="tabD9943-3">Europe</label><div class="tab__content">
 
 .. table:: Salary (USD) by organization size
-   :name: tbl-2024-salary-by-organization-size
+   :name: tbl-2025-salary-by-organization-size
    :class: medians-with-num sortable
 
    +------------------------+-----+---------+----------+----------+
    | Size                   | |N| | |25|    | |50|     | |75|     |
    +========================+=====+=========+==========+==========+
-   | |1| 1-100              | 87  | $54,000 |  $71,222 | $105,000 |
+   | |1| 1-100              | 83  | $60,565 |  $81,000 | $138,500 |
    +------------------------+-----+---------+----------+----------+
-   | |2| 101-1,000          | 270 | $60,000 |  $82,620 | $115,000 |
+   | |2| 101-1,000          | 243 | $55,307 |  $80,591 | $119,000 |
    +------------------------+-----+---------+----------+----------+
-   | |3| 1,001-10,000       | 201 | $67,188 |  $92,000 | $120,000 |
+   | |3| 1,001-10,000       | 212 | $65,919 |  $95,000 | $121,625 |
    +------------------------+-----+---------+----------+----------+
-   | |4| 10,001-100,000     | 85  | $60,250 |  $89,200 | $123,369 |
+   | |4| 10,001-100,000     | 102 | $90,385 | $121,000 | $161,317 |
    +------------------------+-----+---------+----------+----------+
-   | |5| 100,000+           | 46  | $73,473 | $107,354 | $180,000 |
+   | |5| 100,000+           | 56  | $93,525 | $129,400 | $200,380 |
    +------------------------+-----+---------+----------+----------+
 
 .. raw:: html
@@ -2176,21 +2176,21 @@ Salaries generally increase with the size of the organization, with the highest 
    </div><div class="tab__content">
 
 .. table:: Salary (USD) by organization size - North America
-   :name: tbl-2024-salary-by-organization-size-north-america
+   :name: tbl-2025-salary-by-organization-size-north-america
    :class: medians-with-num sortable
 
    +------------------------+-----+---------+----------+----------+
    | Size                   | |N| | |25|    | |50|     | |75|     |
    +========================+=====+=========+==========+==========+
-   | |1| 1-100              | 41  | $67,500 |  $90,000 | $125,000 |
+   | |1| 1-100              | 41  | $92,000 | $120,000 | $175,000 |
    +------------------------+-----+---------+----------+----------+
-   | |2| 101-1,000          | 144 | $75,000 | $101,000 | $150,000 |
+   | |2| 101-1,000          | 123 | $80,300 | $112,000 | $148,000 |
    +------------------------+-----+---------+----------+----------+
-   | |3| 1,001-10,000       | 118 | $87,636 | $108,000 | $150,000 |
+   | |3| 1,001-10,000       | 132 | $84,972 | $104,474 | $145,250 |
    +------------------------+-----+---------+----------+----------+
-   | |4| 10,001-100,000     | 55  | $81,000 | $106,000 | $145,000 |
+   | |4| 10,001-100,000     | 80  | $102,625 | $141,196 | $176,970 |
    +------------------------+-----+---------+----------+----------+
-   | |5| 100,000+           | 26  |         | $170,000 |          |
+   | |5| 100,000+           | 45  | $110,000 | $145,000 | $200,561 |
    +------------------------+-----+---------+----------+----------+
 
 .. raw:: html
@@ -2198,19 +2198,19 @@ Salaries generally increase with the size of the organization, with the highest 
    </div><div class="tab__content">
 
 .. table:: Salary (USD) by organization size - Europe
-   :name: tbl-2024-salary-by-organization-size-europe
+   :name: tbl-2025-salary-by-organization-size-europe
    :class: medians-with-num sortable
 
    +------------------------+-----+---------+---------+---------+
    | Size                   | |N| | |25|    | |50|    | |75|    |
    +========================+=====+=========+=========+=========+
-   | |1| 1-100              | 28  |         | $51,840 |         |
+   | |1| 1-100              | 28  |         | $63,801 |         |
    +------------------------+-----+---------+---------+---------+
-   | |2| 101-1,000          | 83  | $50,544 | $64,000 | $83,160 |
+   | |2| 101-1,000          | 87  | $46,083 | $62,130 | $83,883 |
    +------------------------+-----+---------+---------+---------+
-   | |3| 1,001-10,000       | 46  | $51,516 | $61,776 | $86,848 |
+   | |3| 1,001-10,000       | 49  | $56,481 | $72,716 | $102,300 |
    +------------------------+-----+---------+---------+---------+
-   | |4| 10,001-100,000     | 16  |         | $57,600 |         |
+   | |4| 10,001-100,000     | 11  |         | $90,370 |         |
    +------------------------+-----+---------+---------+---------+
 
 .. raw:: html
