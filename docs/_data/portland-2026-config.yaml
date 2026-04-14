@@ -197,6 +197,26 @@ sponsors:
     - name: promptless
       link: https://promptless.ai/?ref=writethedocs
       brand: Promptless
+      text: |
+        <p>
+        Promptless is the AI agent that helps technical writers stay informed, move faster, and have more impact.
+        </p>
+
+        <p>
+        It ensures that you're never left out of the loop. Promptless follows your product and engineering team's work so you don't have to, reviewing every PR, Jira issue, and product question in Slack, and notifying you before docs go stale.
+        </p>
+
+        <p>
+        It adapts to your workflows, rather than forcing you to change them. Keep your existing docs hosting provider, framework, style guide, or Vale rules. Promptless auto-detects it all, with no migrations needed.
+        </p>
+
+        <p>
+        It drafts well-researched content for your review. Promptless includes citations for every code snippet or workflow that it documents, and will even browse your product and update your screenshots.
+        </p>
+
+        <p>
+        Join the growing number of writers using Promptless to stay ahead.
+        </p>
     - name: mintlify
       link: https://mintlify.com/?utm_source=writethedocs&utm_medium=referral
       brand: Mintlify
@@ -219,13 +239,39 @@ sponsors:
     - name: stainless
       link: https://www.stainless.com/?utm_source=write_the_docs&utm_medium=conference&utm_campaign=write_the_docs_2026
       brand: Stainless
+      text: |
+        <p>
+        Stainless provides a complete toolkit to build best-in-class interfaces for developers and agents.
+        </p>
+
+        <p>
+        Stainless generates robust and idiomatic SDKs, API and narrative docs, command line tools, MCP servers, skills, and more. Together, these tools provide everything you need to deliver both an incredible developer experience (DX) and a great agent experience (AX) that helps AI agents consistently and successfully integrate against your API.
+        </p>
+
+        <p>
+        Companies like Anthropic, Cloudflare, Google, and OpenAI trust Stainless to power developer and agent interfaces for their most critical products. Stainless SDKs for these customers are used in production by millions of developers every day.
+        </p>
+
+        <p>
+        Drawing on decades of experience building APIs at Stripe, Heroku, Twilio, OpenAI, Anthropic, and more, Stainless has condensed those hard-won lessons and best practices into powerful, flexible API development tools. Instead of hiring a full engineering team to build and maintain robust and polished developer and agent interfaces, your team can focus on the business logic that makes your API unique.
+        </p>
 
   patron:
     - name: gitbook
       link: https://www.gitbook.com/?ref=writethedocs
       brand: GitBook
-      text: "GitBook combines powerful docs with AI-powered search and insights to give technical teams a single source of truth for their knowledge.
-             Effortlessly create, surface and improve public and internal documentation that your users and teams will love. "
+      text: |
+        <p>
+        GitBook is the AI-native documentation platform for teams who treat their docs as a product. It's built for the full documentation experience — from keeping content accurate and up-to-date, to making sure users always find what they need.
+        </p>
+
+        <p>
+        AI handles the heavy lifting behind the scenes, so your team spends less time maintaining docs and more time building. And when users land on your documentation, they get direct answers — not a search bar and a list of links to dig through.
+        </p>
+
+        <p>
+        The result is published documentation that stays current, adapts to your audience, and reflects the quality of the product it represents. For technical teams who know that great docs drive adoption, GitBook is the platform built to match that standard.
+        </p>
     - name: fern
       link: https://buildwithfern.com/?ref=writethedocs
       brand: Fern
