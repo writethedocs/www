@@ -89,6 +89,14 @@ sponsorship:
   keystone:
     price: €10,000
     tickets: 6
+  lightning_talks:
+    price: €4,000
+  opportunity_grants:
+    price: €2,000
+  extra_ticket:
+    price: €300
+  monitor_rental:
+    price: €300
 
 grants:
   url: ""

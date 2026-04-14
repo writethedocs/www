@@ -148,6 +148,10 @@ sponsorship-details:
   job_fair: include('price2', required=False)
   lanyard: include('price2', required=False)
   writing_day: include('price2', required=False)
+  lightning_talks: include('price2', required=False)
+  opportunity_grants: include('price2', required=False)
+  extra_ticket: include('price2', required=False)
+  monitor_rental: include('price2', required=False)
 
 sponsors-details:
   media: list(include('sponsor-detail'), required=False)

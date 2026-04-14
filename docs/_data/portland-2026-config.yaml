@@ -89,6 +89,14 @@ sponsorship:
   keystone:
     price: $15,000
     tickets: 8
+  lightning_talks:
+    price: $3,500
+  opportunity_grants:
+    price: $2,000
+  extra_ticket:
+    price: $500
+  monitor_rental:
+    price: $500
 
 grants:
   url: "https://docs.google.com/forms/d/e/1FAIpQLSctdb3MT_MvB1x_o8iKKhp_xik8YXDLVCnnDT_tv2k2LPlrJg/viewform?usp=dialog"
