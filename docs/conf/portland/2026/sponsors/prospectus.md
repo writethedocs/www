@@ -66,7 +66,7 @@ The **Keystone** sponsorship highlights you as the primary sponsor of the confer
 
 #### Benefits
 
-- Eight (8) tickets, with additional available to purchase at a discounted rate of \$500/ticket.
+- {{sponsorship.keystone.tickets}} tickets, with additional available to purchase at a discounted rate of \$500/ticket.
 - Most visible **sponsorship booth** for the entire conference (Monday & Tuesday). Monitor included in booth. Booths placed in order of purchase.
 - Sponsorship of a primary Write the Docs conference event (Unconference, Writing Day, or Social Event).
 - **60 second introduction** on the main stage introducing your company.
@@ -86,7 +86,7 @@ The **Patron** package is great for a larger company to get in front of our atte
 
 #### Benefits
 
-- Six (6) tickets, with additional available to purchase at a discounted rate of \$500/ticket.
+- {{sponsorship.patron.tickets}} tickets, with additional available to purchase at a discounted rate of \$500/ticket.
 - A **sponsorship booth** for the entire conference (Monday & Tuesday). Monitor rental available for \$500.
 - **30 second introduction** on the main stage introducing your company.
 - Dedicated social media post.
@@ -103,7 +103,7 @@ The **Publisher** package is great for a company looking to send some employees 
 
 #### Benefits
 
-- Four (4) tickets, with additional available to purchase at a discounted rate of \$500/ticket.
+- {{sponsorship.publisher.tickets}} tickets, with additional available to purchase at a discounted rate of \$500/ticket.
 - Logo included in intermission slides and on talk videos.
 - Dedicated social media post.
 - Logo and description (100 words) on the conference website.
@@ -118,7 +118,7 @@ The **Second Draft** package gives you visibility on the conference website and 
 
 #### Benefits
 
-- Two (2) tickets, with additional available to purchase at a discounted rate of \$500/ticket.
+- {{sponsorship.second_draft.tickets}} tickets, with additional available to purchase at a discounted rate of \$500/ticket.
 - Logo on the conference website.
 - Name included in all conference emails to attendees.
 - Display promotional (“Swag”) items on the conference swag table (provided by sponsor).

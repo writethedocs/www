@@ -112,6 +112,7 @@ price-type:
 price2:
   price: str(required=False)
   half: str(required=False)
+  tickets: int(required=False)
 
 date-details:
   main: str()
