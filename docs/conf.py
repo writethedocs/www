@@ -211,6 +211,12 @@ elif datetime.date.today() <= datetime.date(2026, 1, 19):
     announcement_message = "Portland 2026 CFP is open! <a href='/conf/portland/2026/cfp/'>Submit your talk</a>."
 elif datetime.date(2026, 1, 20) <= datetime.date.today() <= datetime.date(2026, 5, 2):
     announcement_message = "Portland 2026 tickets are on sale! <a href='/conf/portland/2026/tickets/'>Get your ticket</a>."
+elif datetime.date(2026, 5, 3) <= datetime.date.today() <= datetime.date(2026, 6, 1):
+    announcement_message = "Berlin 2026 CFP is open! <a href='/conf/berlin/2026/cfp/'>Submit your talk</a>."
+elif datetime.date(2026, 6, 2) <= datetime.date.today() <= datetime.date(2026, 9, 5):
+    announcement_message = "Berlin 2026 tickets are on sale! <a href='/conf/berlin/2026/tickets/'>Get your ticket</a>."
+elif datetime.date(2026, 9, 6) <= datetime.date.today() <= datetime.date(2026, 9, 9):
+    announcement_message = "Berlin 2026: Sep 6-8. <a href='/conf/berlin/2026/'>View the conference site</a>."
 
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
