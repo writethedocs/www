@@ -8,6 +8,6 @@ Site map
    :includehidden:
 
    about/events-activities
-   about/learning-resources
    about/stay-connected
+   about/learning-resources
    about/about-the-org

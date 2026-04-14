@@ -23,37 +23,36 @@ We have upcoming conferences around the world:
    - :doc:`Portland 2026 </conf/portland/2026/index>`, May 3-5, **Portland, Oregon**
    - :doc:`Berlin 2026 </conf/berlin/2026/index>`, September 6-8, **Berlin, Germany**
 
-See all :doc:`our conferences </conf/index>` from past years.
+See all :doc:`past and upcoming conferences </conf/index>`,
+or browse :doc:`local meetups </meetups/index>` around the world.
 
 Connect with the community
 --------------------------
 
-Get more information on how to meet the community, get involved, stay in touch.
+Meet other documentarians, get involved, and stay in touch.
 
 * Join our :doc:`Slack network </slack>` with thousands of other documentarians
-* Join a :doc:`local or online meetup </meetups/index>` to dive deeper into the community
-* Learn more about our :doc:`sponsorship options <sponsorship/index>` for your company
-
-Find or advertise a job
------------------------
-
-Work with other documentarians.
-
-* Read our :doc:`Hiring Guide </hiring-guide/index>` to get started in the industry
-* Read our previous `salary survey </surveys/>`__ information to get a sense of the industry pay
-* Take the `2025 Salary Survey <https://salary-survey.writethedocs.org/>`_
+* Subscribe to our monthly :doc:`newsletter </newsletter>` for community updates
+* Find your next role on our :doc:`job board </job-board>`
+* Read our :doc:`Hiring Guide </hiring-guide/index>` and `Salary Survey </surveys/>`__
 
 Learn from our resources
 ------------------------
 
-We have an ever-increasing set of articles, links, and resources. Watch our talks on YouTube:
+We have an ever-increasing set of talks, articles, and guides:
 
+* Browse our :doc:`topic index </topics>` — every talk and newsletter article, organized by topic
+* Read the :doc:`Documentation Guide </guide/index>`, a best-practice handbook for writing docs
 * Watch past conference talks on our `YouTube channel <https://www.youtube.com/c/WritetheDocs>`_
-* Subscribe to our :doc:`newsletter and conference </newsletter>` mailing lists
-* Browse our :doc:`topic index </topics>`
-* Read the latest in our :doc:`blog </blog/index>`
-* Learn about :doc:`Write the Docs <about/about-the-org>`
-* See all :doc:`learning resources </about/learning-resources>`
+* Listen to our :doc:`podcast </podcast>` or follow the :doc:`blog </blog/index>`
+
+Support the community
+---------------------
+
+Write the Docs is sustained by our community and sponsors.
+
+* :doc:`Learn about Write the Docs </about/about-the-org>` — our team, values, and history
+* Explore :doc:`sponsorship options </sponsorship/index>` for your company
 
 We're glad you stopped by!
 We hope you'll join us either online or in-person for an event soon.
@@ -62,16 +61,12 @@ Site Content
 ------------
 
 .. toctree::
-   :glob:
    :maxdepth: 1
-   :includehidden:
 
-   surveys/index
-   guide/index
-   book-club/index
-   Hiring guide <hiring-guide/index>
+   about/events-activities
    about/stay-connected
-   about/*
+   about/learning-resources
+   about/about-the-org
 
 .. toctree::
    :hidden:

@@ -9,6 +9,8 @@ Events and Activities
    /meetups/index
    /sponsorship/index
 
+Write the Docs events bring documentarians together, in person and online, to share ideas and improve the craft of documentation.
+
 Conferences
 ~~~~~~~~~~~
 
@@ -16,18 +18,17 @@ Our conferences create a time and a place for the global community of documentar
 
 {% include "conf/current.rst" %}
 
-To see the whole list of conferences, see :doc:`Conferences </conf/index>` 
+See :doc:`all our conferences </conf/index>` for the full list of past and upcoming events.
 
 Meetups
 ~~~~~~~
 
-We have meetups in multiple cities every month. To find a meetup near you, take a look at the :doc:`/meetups/index` page.
+We have local meetups in cities around the world. They're a great way to get to know other documentarians in your area and dive deeper into the community between conferences.
 
-If you want to start a new meetup, our :doc:`/organizer-guide/meetups/starting` page has the information that you need.
-
+* Find a meetup near you on the :doc:`/meetups/index` page
+* Want to start a new meetup? Our :doc:`/organizer-guide/meetups/starting` has everything you need to get going
 
 Sponsorship
 ~~~~~~~~~~~
 
-Find ways to connect with our community on the :doc:`/sponsorship/index` pages of our site.
-Pick a sponsorship level and perks that suit you. We would love your help in supporting our community.
+Write the Docs is sustained by the community and by our sponsors. If your company would like to support our work, explore our :doc:`/sponsorship/index` pages — we offer a range of options to suit different budgets and goals.
