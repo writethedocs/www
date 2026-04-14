@@ -8,7 +8,11 @@ on:
 
   workflow_dispatch:
 
-jobs:    
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
+
+jobs:
   spellcheck:
     runs-on: ubuntu-latest
     steps:

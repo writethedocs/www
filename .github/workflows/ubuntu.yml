@@ -8,6 +8,10 @@ on:
 
   workflow_dispatch:
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
+
 env:
   NOKOGIRI_USE_SYSTEM_LIBRARIES: true  # for faster htmlproofer install
 
@@ -21,6 +25,9 @@ jobs:
 
     - name: Install uv
       uses: astral-sh/setup-uv@v6
+      with:
+        enable-cache: true
+        cache-dependency-glob: "uv.lock"
 
     - name: Set up Python
       run: uv python install 3.12
@@ -31,7 +38,7 @@ jobs:
     - name: Build
       run: |
         cd docs
-        uv run make html
+        uv run make html SPHINXOPTS="-j auto"
         cd ../
 
     - name: Check for unparsed markup
@@ -56,9 +63,6 @@ jobs:
       with:
         ruby-version: '3.4'
         bundler-cache: true
-
-    - name: Install Ruby dependencies
-      run: bundle install
 
     # TODO: Look into why we need to ignore archive/tag/index
     - name: Check links

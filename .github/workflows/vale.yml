@@ -8,6 +8,10 @@ on:
 
   workflow_dispatch:
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
+
 env:
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
@@ -15,49 +19,35 @@ env:
 jobs:
   vale:
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: Linter
+            files: docs/
+            vale_flags: "--config=vale/vale.ini"
+          - name: Guide Linter
+            files: docs/guide/
+            vale_flags: "--config=vale/guide.ini"
+          - name: Conf news Linter
+            files: docs
+            vale_flags: "--config=vale/news.ini --glob=docs/conf/**/news/*"
+    name: ${{ matrix.name }}
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install docutilsfor rst2html
+      - name: Install docutils for rst2html
         run: sudo apt-get install -y docutils
 
-      - name: Linter
+      - name: ${{ matrix.name }}
         uses: errata-ai/vale-action@reviewdog
         env:
           # Required, set by GitHub actions automatically:
           # https://docs.github.com/en/actions/security-guides/automatic-token-authentication#about-the-github_token-secret
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         with:
-          files: docs/
-          vale_flags: "--config=vale/vale.ini"
-          reporter: github-pr-check
-          fail_on_error: true
-          filter_mode: file
-          version: 3.4.2
-
-      - name: Guide Linter
-        uses: errata-ai/vale-action@reviewdog
-        env:
-          # Required, set by GitHub actions automatically:
-          # https://docs.github.com/en/actions/security-guides/automatic-token-authentication#about-the-github_token-secret
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        with:
-          files: docs/guide/
-          vale_flags: "--config=vale/guide.ini"
-          reporter: github-pr-check
-          fail_on_error: true
-          filter_mode: file
-          version: 3.4.2
-
-      - name: Conf news Linter
-        uses: errata-ai/vale-action@reviewdog
-        env:
-          # Required, set by GitHub actions automatically:
-          # https://docs.github.com/en/actions/security-guides/automatic-token-authentication#about-the-github_token-secret
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        with:
-          files: docs
-          vale_flags: "--config=vale/news.ini --glob=docs/conf/**/news/*"
+          files: ${{ matrix.files }}
+          vale_flags: ${{ matrix.vale_flags }}
           reporter: github-pr-check
           fail_on_error: true
           filter_mode: file
