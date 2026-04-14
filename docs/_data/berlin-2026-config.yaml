@@ -90,9 +90,9 @@ sponsorship:
     price: €10,000
     tickets: 6
   lightning_talks:
-    price: €4,000
+    price: €2,500
   opportunity_grants:
-    price: €2,000
+    price: €1,500
   extra_ticket:
     price: €300
   monitor_rental:
