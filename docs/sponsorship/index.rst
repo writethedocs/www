@@ -5,8 +5,8 @@ We support our community in a variety of ways, and you can choose to focus
 your sponsorship on any one of them, at a level that suits you:
 
 * Our conferences each have their own sponsorship prospectus
-    - Our hybrid :doc:`2026 Portland conference </conf/portland/2026/sponsors/prospectus>` (May 3-5, 2026)
-    - Our hybrid 2026 Berlin conference: Dates and prospectus coming soon
+    - Our hybrid :doc:`Write the Docs Portland 2026 </conf/portland/2026/sponsors/prospectus>` (May 3-5, 2026)
+    - Our hybrid Write the Docs Berlin 2026: Dates and prospectus coming soon
 * Our :doc:`/sponsorship/newsletter` with over {{ newsletter_subs }} subscribers
 * Our :doc:`/sponsorship/slack` allows you to get in front of our Slack network
 * Our :doc:`/sponsorship/jobs` gets your job posting in front of our community
