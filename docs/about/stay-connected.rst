@@ -7,7 +7,6 @@ Stay Connected
 
    /newsletter
    /slack
-   /bipoc
    /job-board
    /blog/index
 
@@ -43,11 +42,6 @@ Blog
 ~~~~~
 
 Check out our :doc:`/blog/index` to see updates from the Community. These will also be sent to the :doc:`/newsletter`.
-
-BIPOC Community
-~~~~~~~~~~~~~~~
-
-We host a :doc:`dedicated space </bipoc>` for Black, Indigenous, and People of Color documentarians in our community.
 
 Twitter
 ~~~~~~~
