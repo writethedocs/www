@@ -2881,7 +2881,7 @@ Contractor satisfaction
 
    </details>
 
-More than half of contractor respondents (63.8%) reported feeling satisfied with their earnings (42.6% satisfied and 21.3% very satisfied), and 66% reported feeling satisfied with their overall contracting situation (42.6% satisfied and 19.1% very satisfied).
+52.5% of contractor respondents reported feeling satisfied with their earnings (41.2% satisfied and 11.2% very satisfied), and 57.5% reported feeling satisfied with their overall contracting situation (33.8% satisfied and 23.8% very satisfied).
 
 .. raw:: html
 
@@ -2889,33 +2889,33 @@ More than half of contractor respondents (63.8%) reported feeling satisfied with
 
 .. table:: Earnings satisfaction
    :widths: 70 15 15
-   :name: tbl-2024-earnings-satisfaction-contractors
+   :name: tbl-2025-earnings-satisfaction-contractors
    :class: std3col sortable
 
    +---------------------------+--------+--------+
    | Satisfaction              | |N|    | |%|    |
    +===========================+========+========+
-   | |2| Satisfied             | 40     | 42.6%  |
+   | |2| Satisfied             | 33     | 41.2%  |
    +---------------------------+--------+--------+
-   | |1| Very satisfied        | 20     | 21.3%  |
+   | |3| Neutral               | 14     | 17.5%  |
    +---------------------------+--------+--------+
-   | |3| Neutral               | 17     | 18.1%  |
+   | |4| Unsatisfied           | 13     | 16.2%  |
    +---------------------------+--------+--------+
-   | |4| Unsatisfied           | 13     | 13.8%  |
+   | |5| Very unsatisfied      | 11     | 13.8%  |
    +---------------------------+--------+--------+
-   | |5| Very unsatisfied      | 4      | 4.3%   |
+   | |1| Very satisfied        | 9      | 11.2%  |
    +---------------------------+--------+--------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Earnings satisfaction - contractors" aria-describedby="figure_earnings-satisfaction-contractors_desc" type="image/svg+xml" data="/_images/2024-earnings-satisfaction-contractors.svg">
-         <p id="figure_earnings-satisfaction-contractors_desc">Donut chart showing contractor earnings satisfaction.</p>
+      <object role="img" aria-label="Earnings satisfaction - contractors" aria-describedby="figure_earnings-satisfaction-contractors_desc" type="image/svg+xml" data="/_images/2025-earnings-satisfaction-contractors.svg">
+         <p id="figure_earnings-satisfaction-contractors_desc">Half-donut chart showing contractor earnings satisfaction.</p>
       </object>
-      <figcaption>Figure: Earnings satisfaction - contractors</figcaption>
+      <figcaption>Figure: Earnings satisfaction — contractors</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-earnings-satisfaction-contractors.svg
+.. figure:: images/2025/2025-earnings-satisfaction-contractors.svg
    :class: hide
 
 .. raw:: html
@@ -2924,33 +2924,33 @@ More than half of contractor respondents (63.8%) reported feeling satisfied with
 
 .. table:: Overall satisfaction
    :widths: 70 15 15
-   :name: tbl-2024-overall-satisfaction-contractors
+   :name: tbl-2025-overall-satisfaction-contractors
    :class: std3col sortable
 
    +--------------------------+--------+--------+
    | Satisfaction             | |N|    | |%|    |
    +==========================+========+========+
-   | |2| Satisfied            | 40     | 42.6%  |
+   | |2| Satisfied            | 27     | 33.8%  |
    +--------------------------+--------+--------+
-   | |3| Neutral              | 22     | 23.4%  |
+   | |1| Very satisfied       | 19     | 23.8%  |
    +--------------------------+--------+--------+
-   | |1| Very satisfied       | 18     | 19.1%  |
+   | |3| Neutral              | 15     | 18.8%  |
    +--------------------------+--------+--------+
-   | |4| Unsatisfied          | 10     | 10.6%  |
+   | |4| Unsatisfied          | 10     | 12.5%  |
    +--------------------------+--------+--------+
-   | |5| Very unsatisfied     | 4      | 4.3%   |
+   | |5| Very unsatisfied     | 9      | 11.2%  |
    +--------------------------+--------+--------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Overall satisfaction - contractors" aria-describedby="figure_overall-satisfaction-contractors_desc" type="image/svg+xml" data="/_images/2024-overall-satisfaction-contractors.svg">
-         <p id="figure_overall-satisfaction-contractors_desc">Donut chart showing contractor overall satisfaction.</p>
+      <object role="img" aria-label="Overall satisfaction - contractors" aria-describedby="figure_overall-satisfaction-contractors_desc" type="image/svg+xml" data="/_images/2025-overall-satisfaction-contractors.svg">
+         <p id="figure_overall-satisfaction-contractors_desc">Half-donut chart showing contractor overall satisfaction.</p>
       </object>
-      <figcaption>Figure: Overall satisfaction - contractors</figcaption>
+      <figcaption>Figure: Overall satisfaction — contractors</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-overall-satisfaction-contractors.svg
+.. figure:: images/2025/2025-overall-satisfaction-contractors.svg
    :class: hide
 
 .. raw:: html
