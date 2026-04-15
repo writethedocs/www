@@ -8,8 +8,7 @@ few things that may help you plan for preparing and presenting your talk.
 
 If you want to get some of that sweet internet buzz for your talk, we use the #writethedocs hashtag throughout the event.
 
-Presentation Resources
-~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Presentation Resources
 
 Here are some great resources for new speakers:
 
@@ -18,8 +17,7 @@ Here are some great resources for new speakers:
 - `Public Speaking for the Terrified...errr, Passionate First Timer <https://sardoodle.substack.com/p/public-speaking-for-the-terrifiederrr>`__
 - `How to prepare a conference talk <http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/>`__
 
-Inclusive Language
-~~~~~~~~~~~~~~~~~~~
+.. rubric:: Inclusive Language
 
 - We strongly encourage all speakers to check and double-check their talks for any language that might be discriminatory or offensive.
 - This includes needlessly gendered language. **For example, we actively avoid using 'you guys'.**

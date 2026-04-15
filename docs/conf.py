@@ -98,7 +98,6 @@ extensions = [
     'sphinxemoji.sphinxemoji',
     'myst_parser',
     'sphinxext.opengraph',
-    '_ext.warning_filter',
 ]
 
 myst_heading_anchors = 4
