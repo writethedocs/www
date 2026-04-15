@@ -3172,7 +3172,7 @@ Respondents who indicated that the statement was not relevant to their situation
 Organization demographics
 =========================
 
-This section concerns employing organizations. Contractors were given the option of answering about the main organization they work for, or skipping this section if it was not relevant. Only 6 contractors chose not to answer.
+This section concerns employing organizations. Contractors were given the option of answering about the main organization they work for, or skipping this section if it was not relevant. Only 7 contractors chose not to answer.
 
 .. contents:: In this section
    :local:
@@ -3205,41 +3205,41 @@ Organization size
 
    </details>
 
-As in previous years, medium-sized organizations make up the largest proportion of the results. 37.4% of respondents work for organizations with 101-1000 employees, and 28.9% work for organizations with 1001-10,000 employees. At the other end of the scale, only 1% of respondents work for organizations with 1-10 employees.
+As in previous years, medium-sized organizations make up the largest proportion of the results. 34.4% of respondents work for organizations with 101-1,000 employees, and 29.4% work for organizations with 1,001-10,000 employees. At the other end of the scale, only 1.2% of respondents work for organizations with 1-10 employees.
 
 .. table:: Organization size
    :widths: 70 15 15
-   :name: tbl-2024-organization-size
+   :name: tbl-2025-organization-size
    :class: std3col sortable
 
    +-------------------------------------------------+-----------+-----------+
    | Size                                            | |N|       | |%|       |
    +=================================================+===========+===========+
-   | |4| 101-1,000 employees                         | 288       | 37.4%     |
+   | |4| 101-1,000 employees                         | 257       | 34.4%     |
    +-------------------------------------------------+-----------+-----------+
-   | |5| 1,001-10,000 employees                      | 223       | 28.9%     |
+   | |5| 1,001-10,000 employees                      | 220       | 29.4%     |
    +-------------------------------------------------+-----------+-----------+
-   | |6| 10,001-100,000 employees                    | 99        | 12.8%     |
+   | |6| 10,001-100,000 employees                    | 108       | 14.4%     |
    +-------------------------------------------------+-----------+-----------+
-   | |7| 100,000+ employees                          | 53        | 6.9%      |
+   | |7| 100,000+ employees                          | 62        | 8.3%      |
    +-------------------------------------------------+-----------+-----------+
-   | |2| 11-50 employees                             | 52        | 6.7%      |
+   | |3| 51-100 employees                            | 55        | 7.4%      |
    +-------------------------------------------------+-----------+-----------+
-   | |3| 51-100 employees                            | 48        | 6.2%      |
+   | |2| 11-50 employees                             | 37        | 4.9%      |
    +-------------------------------------------------+-----------+-----------+
-   | |1| 1-10 employees                              | 8         | 1.0%      |
+   | |1| 1-10 employees                              | 9         | 1.2%      |
    +-------------------------------------------------+-----------+-----------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Organization size" aria-describedby="figure_organization-size_desc" type="image/svg+xml" data="/_images/2024-organization-size.svg">
+      <object role="img" aria-label="Organization size" aria-describedby="figure_organization-size_desc" type="image/svg+xml" data="/_images/2025-organization-size.svg">
          <p id="figure_organization-size_desc">Vertical bar chart showing approximate organization size, in number of employees. </p>
       </object>
       <figcaption>Figure: Organization size</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-organization-size.svg
+.. figure:: images/2025/2025-organization-size.svg
    :class: hide
 
 Organization type and industry
@@ -3301,80 +3301,98 @@ Organization type and industry
 
    </details>
 
-The majority of organizations represented in the results - 96.5% - were for-profit businesses or corporations rather than non-profit, community, political, educational, governmental, or NGOs (3.4%).
+The majority of organizations represented in the results — 97.2% — were for-profit businesses or corporations rather than non-profit, community, political, educational, governmental, or NGOs (2.8%).
 
 .. table:: Organization type
    :widths: 70 15 15
-   :name: tbl-2024-organization-type
+   :name: tbl-2025-organization-type
    :class: std3col sortable
 
    +---------------------------------------------------------------------+-----------+-----------+
    | Type                                                                | |N|       | |%|       |
    +=====================================================================+===========+===========+
-   | Business, corporation or other for-profit organization              | 744       | 96.5%     |
+   | Business, corporation or other for-profit organization              | 727       | 97.2%     |
    +---------------------------------------------------------------------+-----------+-----------+
-   | Non-profit, community, political, educational, governmental, or NGO | 27        | 3.5%      |
+   | Non-profit, community, political, educational, governmental, or NGO | 21        | 2.8%      |
    +---------------------------------------------------------------------+-----------+-----------+
 
-Software development (incorporating development tools and open source) was the most common industry, with 25.8% of organizations operating in this area. The equally broad telecommunications category - covering IT services and infrastructure, cloud services, and blockchain - was the next most common industry, with 20.4% of organizations operating in this area. Finance - including banking, financial services and technology, ecommerce and cryptocurrency - was the third most common industry, with 12.7% of organizations operating in this area.
+Software development (incorporating development tools and open source) was the most common industry, with 47.0% of respondents working for organizations in this area. The broad telecommunications category — covering IT services and infrastructure, cloud services, and blockchain — was the next most common industry at 23.7%. Finance — including banking, financial services and technology, and cryptocurrency — was the third most common industry at 13.6%.
 
 .. table:: Organization industry
    :widths: 70 15 15
-   :name: tbl-2024-organization-industry
+   :name: tbl-2025-organization-industry
    :class: std3col sortable
 
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
    | Industry                                                                                                                                                                   | |N|       | |%|       |
    +============================================================================================================================================================================+===========+===========+
-   | Software, Software Development, Software Development Tools, Open Source                                                                                                    | 132       | 25.8%     |
+   | Software, Software Development, Software Development Tools, Open Source                                                                                                    | 355       | 47.0%     |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Telecommunications, Technology, Internet, Networking, IT Services, IT Infrastructure, Electronics, Domain Registration, Web Hosting, Ecommerce, Cloud Services, Blockchain | 104       | 20.4%     |
+   | Telecommunications, Technology, Internet, Networking, IT Services, IT Infrastructure, Electronics, Domain Registration, Web Hosting, Ecommerce, Cloud Services, Blockchain | 179       | 23.7%     |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Finance, Banking, Financial Services, Financial Technology, Payments, Accounting, Taxation, Cryptocurrency                                                                 | 65        | 12.7%     |
+   | Finance, Banking, Financial Services, Financial Technology, Payments, Accounting, Taxation, Cryptocurrency                                                                 | 103       | 13.6%     |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Security, Cybersecurity                                                                                                                                                    | 33        | 6.5%      |
+   | Data Analytics, Data Science, AI, Machine Learning, Semantic Technologies                                                                                                  | 83        | 11.0%     |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Manufacturing, Engineering, Precision Engineering, Hardware, Semiconductor                                                                                                 | 32        | 6.3%      |
+   | Security, Cybersecurity                                                                                                                                                    | 62        | 8.2%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Healthcare, Medical, Pharmaceuticals, Biotechnology                                                                                                                        | 25        | 4.9%      |
+   | Healthcare, Medical, Pharmaceuticals, Biotechnology                                                                                                                        | 59        | 7.8%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Data Analytics, Data Science, AI, Machine Learning, Semantic Technologies                                                                                                  | 24        | 4.7%      |
+   | Manufacturing, Engineering, Precision Engineering, Hardware, Semiconductor                                                                                                 | 59        | 7.8%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Education, Training, Instructional Design, Learning                                                                                                                        | 12        | 2.3%      |
+   | Business Support, Professional Services, Planning, Project Management, Risk Management, Compliance, Process Automation, Consulting, Outsourcing                            | 46        | 6.1%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Advertising, CRM, Marketing, Sales, Customer Service, Customer Support                                                                                                     | 11        | 2.2%      |
+   | Advertising, CRM, Marketing, Sales, Customer Service, Customer Support                                                                                                     | 41        | 5.4%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Utilities, Energy, Mining, Extraction                                                                                                                                      | 10        | 2.0%      |
+   | Education, Training, Instructional Design, Learning                                                                                                                        | 27        | 3.6%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Business Support, Professional Services, Planning, Project Management, Risk Management, Compliance, Process Automation, Consulting, Outsourcing                            | 10        | 2.0%      |
+   | Government                                                                                                                                                                 | 27        | 3.6%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Government                                                                                                                                                                 | 9         | 1.8%      |
+   | Other (please specify)                                                                                                                                                     | 24        | 3.2%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Airlines, Aerospace, Defense, Maritime, Military                                                                                                                           | 8         | 1.6%      |
+   | Construction, Building, Engineering, Machinery, Homes                                                                                                                      | 23        | 3.0%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Entertainment, Leisure, Gaming, Gambling, Sports, E-Sports                                                                                                                 | 7         | 1.4%      |
+   | Utilities, Energy, Mining, Extraction                                                                                                                                      | 23        | 3.0%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Insurance                                                                                                                                                                  | 6         | 1.2%      |
+   | Entertainment, Leisure, Gaming, Gambling, Sports, E-Sports                                                                                                                 | 19        | 2.5%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Transportation, Delivery, Logistics, GPS, Mapping, Supply Chain                                                                                                            | 5         | 1.0%      |
+   | Airlines, Aerospace, Defense, Maritime, Military                                                                                                                           | 17        | 2.3%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Automotive                                                                                                                                                                 | 4         | 0.8%      |
+   | Automotive                                                                                                                                                                 | 16        | 2.1%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Construction, Building, Engineering, Machinery, Homes                                                                                                                      | 4         | 0.8%      |
+   | Science, Research                                                                                                                                                          | 15        | 2.0%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Travel, Hospitality, Holidays                                                                                                                                              | 3         | 0.6%      |
+   | Transportation, Delivery, Logistics, GPS, Mapping, Supply Chain                                                                                                            | 15        | 2.0%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Retail, Consumer Products, Fashion                                                                                                                                         | 1         | 0.2%      |
+   | Insurance                                                                                                                                                                  | 12        | 1.6%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Events, Event Management, Event Services, Venues, Audio/Video                                                                                                              | 1         | 0.2%      |
+   | Human Resources, Recruitment                                                                                                                                               | 10        | 1.3%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Food, Beverages                                                                                                                                                            | 1         | 0.2%      |
+   | Retail, Consumer Products, Fashion                                                                                                                                         | 10        | 1.3%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Human Resources, Recruitment                                                                                                                                               | 1         | 0.2%      |
+   | Design, Printing, Packaging                                                                                                                                                | 6         | 0.8%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Translation, Localization                                                                                                                                                  | 1         | 0.2%      |
+   | Legal Services                                                                                                                                                             | 6         | 0.8%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
-   | Non-profit, Community                                                                                                                                                      | 1         | 0.2%      |
+   | Non-profit, Community                                                                                                                                                      | 5         | 0.7%      |
+   +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
+   | Events, Event Management, Event Services, Venues, Audio/Video                                                                                                              | 4         | 0.5%      |
+   +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
+   | Food, Beverages                                                                                                                                                            | 4         | 0.5%      |
+   +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
+   | Media, Radio, TV, Journalism                                                                                                                                               | 4         | 0.5%      |
+   +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
+   | Translation, Localization                                                                                                                                                  | 4         | 0.5%      |
+   +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
+   | Agriculture                                                                                                                                                                | 2         | 0.3%      |
+   +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
+   | Parks, Recreation, Nature, Wilderness, Outdoors, Conservation, Ecotourism                                                                                                  | 2         | 0.3%      |
+   +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
+   | Real Estate                                                                                                                                                                | 2         | 0.3%      |
+   +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
+   | Travel, Hospitality, Holidays                                                                                                                                              | 2         | 0.3%      |
+   +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
+   | Culture, Arts, Heritage                                                                                                                                                    | 1         | 0.1%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
 
 Organization origin and location
@@ -3403,9 +3421,9 @@ Organization origin and location
 
    </details>
 
-83% of respondents reported that their employer organization was a multinational organization - one with office locations and business operations in two or more countries. These respondents were asked to specify the location where the organization originated.
+81.6% of respondents reported that their employer organization was a multinational organization — one with office locations and business operations in two or more countries. These respondents were asked to specify the location where the organization originated.
 
-A total of 63.8% of organizations originated in North America, with the bulk of those being US-based.
+A total of 67.9% of organizations originated in North America, with the bulk of those being US-based.
 
 .. raw:: html
 
@@ -3413,25 +3431,23 @@ A total of 63.8% of organizations originated in North America, with the bulk of 
 
 .. table:: Organization location - Regions
    :widths: 70 15 15
-   :name: tbl-2024-organization-location-regions
+   :name: tbl-2025-organization-location-regions
    :class: std3col sortable
 
    +---------------------------------------+------------+------------+
    | Region                                | |N|        | |%|        |
    +=======================================+============+============+
-   | North America                         | 491        | 63.8%      |
+   | North America                         | 508        | 67.9%      |
    +---------------------------------------+------------+------------+
-   | Europe                                | 197        | 25.6%      |
+   | Europe                                | 163        | 21.8%      |
    +---------------------------------------+------------+------------+
-   | Oceania                               | 32         | 4.2%       |
+   | Asia and Middle East                  | 39         | 5.2%       |
    +---------------------------------------+------------+------------+
-   | Asia                                  | 24         | 3.1%       |
+   | Oceania                               | 23         | 3.1%       |
    +---------------------------------------+------------+------------+
-   | Middle East                           | 22         | 2.9%       |
+   | South America                         | 11         | 1.5%       |
    +---------------------------------------+------------+------------+
-   | South America                         | 3          | 0.4%       |
-   +---------------------------------------+------------+------------+
-   | Africa                                | 1          | 0.1%       |
+   | Africa and other                      | 4          | 0.5%       |
    +---------------------------------------+------------+------------+
 
 .. raw:: html
@@ -3441,17 +3457,15 @@ A total of 63.8% of organizations originated in North America, with the bulk of 
 
 .. table:: Organization location - North America
    :widths: 70 15 15
-   :name: tbl-2024-organization-location-north-america
+   :name: tbl-2025-organization-location-north-america
    :class: std3col sortable
 
    +-------------------------------------------------+-----------+-----------+
    | Country                                         | |N|       | |%|       |
    +=================================================+===========+===========+
-   | United States                                   | 445       | 57.8%     |
+   | United States                                   | 476       | 63.6%     |
    +-------------------------------------------------+-----------+-----------+
-   | Canada                                          | 45        | 5.8%      |
-   +-------------------------------------------------+-----------+-----------+
-   | Mexico                                          | 1         | 0.1%      |
+   | Canada                                          | 32        | 4.3%      |
    +-------------------------------------------------+-----------+-----------+
 
 .. raw:: html
@@ -3460,34 +3474,32 @@ A total of 63.8% of organizations originated in North America, with the bulk of 
 
 .. table:: Organization location - Europe
    :widths: 70 15 15
-   :name: tbl-2024-organization-location-europe
+   :name: tbl-2025-organization-location-europe
    :class: std3col sortable
 
-   +--------------------------------------------------------+-----------+-----------+
-   | Country                                                | |N|       | |%|       |
-   +========================================================+===========+===========+
-   | United Kingdom                                         | 45        | 5.8%      |
-   +--------------------------------------------------------+-----------+-----------+
-   | Germany                                                | 41        | 5.3%      |
-   +--------------------------------------------------------+-----------+-----------+
-   | France                                                 | 23        | 3.0%      |
-   +--------------------------------------------------------+-----------+-----------+
-   | Netherlands                                            | 14        | 1.8%      |
-   +--------------------------------------------------------+-----------+-----------+
-   | Sweden, Switzerland                                    | 12        | 1.6%      |
-   +--------------------------------------------------------+-----------+-----------+
-   | Ukraine                                                | 7         | 0.9%      |
-   +--------------------------------------------------------+-----------+-----------+
-   | Finland                                                | 6         | 0.8%      |
-   +--------------------------------------------------------+-----------+-----------+
-   | Czechia, Denmark, Russia                               | 4         | 0.5%      |
-   +--------------------------------------------------------+-----------+-----------+
-   | Croatia, Malta, Norway                                 | 3         | 0.4%      |
-   +--------------------------------------------------------+-----------+-----------+
-   | Austria, Belgium, Greece, Italy, Spain                 | 2         | 0.3%      |
-   +--------------------------------------------------------+-----------+-----------+
-   | Bulgaria, Estonia, Hungary, Luxembourg, Poland, Serbia | 1         | 0.1%      |
-   +--------------------------------------------------------+-----------+-----------+
+   +------------------------------------------------------------------+-----------+-----------+
+   | Country                                                          | |N|       | |%|       |
+   +==================================================================+===========+===========+
+   | Germany                                                          | 45        | 6.0%      |
+   +------------------------------------------------------------------+-----------+-----------+
+   | United Kingdom                                                   | 32        | 4.3%      |
+   +------------------------------------------------------------------+-----------+-----------+
+   | France                                                           | 15        | 2.0%      |
+   +------------------------------------------------------------------+-----------+-----------+
+   | Netherlands                                                      | 14        | 1.9%      |
+   +------------------------------------------------------------------+-----------+-----------+
+   | Sweden, Switzerland                                              | 6         | 0.8%      |
+   +------------------------------------------------------------------+-----------+-----------+
+   | Czechia, Ireland                                                 | 5         | 0.7%      |
+   +------------------------------------------------------------------+-----------+-----------+
+   | Austria, Finland, Norway, Romania                                | 4         | 0.5%      |
+   +------------------------------------------------------------------+-----------+-----------+
+   | Estonia, Spain                                                   | 3         | 0.4%      |
+   +------------------------------------------------------------------+-----------+-----------+
+   | Cyprus, Denmark, Serbia                                          | 2         | 0.3%      |
+   +------------------------------------------------------------------+-----------+-----------+
+   | Belgium, Bosnia, Croatia, Italy, Malta, Poland, Portugal         | 1         | 0.1%      |
+   +------------------------------------------------------------------+-----------+-----------+
 
 .. raw:: html
 
@@ -3495,71 +3507,58 @@ A total of 63.8% of organizations originated in North America, with the bulk of 
 
 .. table:: Organization location - Oceania
    :widths: 70 15 15
-   :name: tbl-2024-organization-location-oceania
+   :name: tbl-2025-organization-location-oceania
    :class: std3col sortable
 
    +--------------------------------------------------------------+-----------+-----------+
    | Country                                                      | |N|       | |%|       |
    +==============================================================+===========+===========+
-   | Australia                                                    | 29        | 3.8%      |
+   | Australia                                                    | 20        | 2.7%      |
    +--------------------------------------------------------------+-----------+-----------+
    | New Zealand                                                  | 3         | 0.4%      |
    +--------------------------------------------------------------+-----------+-----------+
 
-.. table:: Organization location - Asia
+.. table:: Organization location - Asia and Middle East
    :widths: 70 15 15
-   :name: tbl-2024-organization-location-asia
+   :name: tbl-2025-organization-location-asia
    :class: std3col sortable
 
    +--------------------------------------------------------------+-----------+-----------+
    | Country                                                      | |N|       | |%|       |
    +==============================================================+===========+===========+
-   | India                                                        | 11        | 1.4%      |
+   | India                                                        | 14        | 1.9%      |
    +--------------------------------------------------------------+-----------+-----------+
-   | Japan                                                        | 5         | 0.6%      |
+   | Israel                                                       | 10        | 1.3%      |
    +--------------------------------------------------------------+-----------+-----------+
-   | Philippines                                                  | 2         | 0.3%      |
+   | Japan                                                        | 4         | 0.5%      |
    +--------------------------------------------------------------+-----------+-----------+
-   | China, Hong Kong, Kazakhstan, Singapore, Sri Lanka, Taiwan   | 1         | 0.1%      |
+   | Singapore                                                    | 3         | 0.4%      |
    +--------------------------------------------------------------+-----------+-----------+
-
-.. table:: Organization location - Middle East
-   :widths: 70 15 15
-   :name: tbl-2024-organization-location-middle-east
-   :class: std3col sortable
-
+   | South Korea                                                  | 2         | 0.3%      |
    +--------------------------------------------------------------+-----------+-----------+
-   | Country                                                      | |N|       | |%|       |
-   +==============================================================+===========+===========+
-   | Israel                                                       | 19        | 2.5%      |
-   +--------------------------------------------------------------+-----------+-----------+
-   | United Arab Emirates                                         | 2         | 0.3%      |
-   +--------------------------------------------------------------+-----------+-----------+
-   | Saudi Arabia                                                 | 1         | 0.1%      |
+   | China, Hong Kong, Indonesia, Pakistan, Sri Lanka, Thailand   | 1         | 0.1%      |
    +--------------------------------------------------------------+-----------+-----------+
 
 .. table:: Organization location - South America
    :widths: 70 15 15
-   :name: tbl-2024-organization-location-south-america
+   :name: tbl-2025-organization-location-south-america
    :class: std3col sortable
 
    +--------------------------------------------------------------+-----------+-----------+
    | Country                                                      | |N|       | |%|       |
    +==============================================================+===========+===========+
-   | Brazil                                                       | 2         |  0.3%     |
-   +--------------------------------------------------------------+-----------+-----------+
-   | Argentina                                                    | 1         |  0.1%     |
+   | Brazil                                                       | 11        | 1.5%      |
    +--------------------------------------------------------------+-----------+-----------+
 
-.. table:: Organization location - Africa
+.. table:: Organization location - Africa and other
    :widths: 70 15 15
-   :name: tbl-2024-organization-location-africa
+   :name: tbl-2025-organization-location-other
    :class: std3col sortable
 
    +--------------------------------------------------------------+-----------+-----------+
    | Country                                                      | |N|       | |%|       |
    +==============================================================+===========+===========+
-   | Nigeria                                                      | 1         | 0.1%      |
+   | Georgia, Nigeria, Russia, South Africa                       | 1         | 0.1%      |
    +--------------------------------------------------------------+-----------+-----------+
 
 .. raw:: html
