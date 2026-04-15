@@ -1,0 +1,63 @@
+<svg viewBox="0 55 660 196" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+      ]]>
+    </style>
+  </defs>
+
+  <g id="2025-satisfaction-factors-earnings-contractors">
+
+    <g class="title">
+      <text font-size="14"><tspan x="40" y="33">Satisfaction factors: earnings</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Contractors</tspan></text>
+    </g>
+
+    <g class="bar-chart-horizontal">
+
+      <g class="legend">
+        <circle cx="235" cy="224" r="6" fill="#E4774E"/>
+        <circle cx="319" cy="224" r="6" fill="#E9C168"/>
+        <circle cx="397" cy="224" r="6" fill="#82A555"/>
+        <text font-size="10"><tspan x="245" y="228">Disagree</tspan></text>
+        <text font-size="10"><tspan x="329" y="228">Neutral</tspan></text>
+        <text font-size="10"><tspan x="407" y="228">Agree</tspan></text>
+      </g>
+
+      <g class="row-0">
+        <text font-size="10"><tspan x="32" y="92">My rates keep pace with</tspan><tspan x="30" y="103">inflation / cost-of-living</tspan></text>
+        <rect x="157" y="82" width="140" height="27" rx="5" fill="#E4774E"/>
+        <rect x="299" y="82" width="62" height="27" rx="5" fill="#E9C168"/>
+        <rect x="363" y="82" width="120" height="27" rx="5" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="209" y="100">43.6%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="312" y="100">19.2%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="405" y="100">37.2%</tspan></text>
+      </g>
+
+      <g class="row-1">
+        <text font-size="10"><tspan x="142" y="131">My rates match the</tspan><tspan x="102" y="142">expectations of my clients</tspan></text>
+        <rect x="242" y="121" width="56" height="27" rx="5" fill="#E4774E"/>
+        <rect x="300" y="121" width="60" height="27" rx="5" fill="#E9C168"/>
+        <rect x="362" y="121" width="206" height="27" rx="5" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="252" y="139">17.3%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="312" y="139">18.7%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="447" y="139">64.0%</tspan></text>
+      </g>
+
+      <g class="row-2">
+        <text font-size="10"><tspan x="30" y="170">I am comfortable managing the overhead</tspan><tspan x="30" y="181">associated with contracting/freelancing</tspan></text>
+        <rect x="218" y="160" width="90" height="27" rx="5" fill="#E4774E"/>
+        <rect x="310" y="160" width="40" height="27" rx="5" fill="#E9C168"/>
+        <rect x="352" y="160" width="192" height="27" rx="5" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="245" y="178">27.8%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="312" y="178">12.5%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="430" y="178">59.7%</tspan></text>
+      </g>
+
+    </g>
+
+  </g>
+
+</svg>

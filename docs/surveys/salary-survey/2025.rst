@@ -3017,7 +3017,7 @@ Factors affecting contractor satisfaction
 
    </details>
 
-While the format of this question has changed from previous years, it's possible to see patterns in the responses. For example, many contractors are concerned with keeping up with inflation (32.6%), and career advancement opportunities (42.1% negative).
+While the format of this question has changed from previous years, it's possible to see patterns in the responses. For example, many contractors are concerned with keeping up with inflation (43.6%), and career advancement opportunities (40.3% disagreed).
 
 Respondents who indicated that the statement was not relevant to their situation were excluded from the analysis.
 
@@ -3027,29 +3027,29 @@ Respondents who indicated that the statement was not relevant to their situation
 
 .. table:: Satisfaction statements - contractor earnings
    :widths: 55 15 15 15
-   :name: tbl-2024-satisfaction-statements-contractor-earnings
+   :name: tbl-2025-satisfaction-statements-contractor-earnings
    :class: sortable statements
 
    +----------------------------------------------------------------------------------------------------------------+----------+---------+----------+
    | Statements                                                                                                     | Agree    | Neutral | Disagree |
    +================================================================================================================+==========+=========+==========+
-   | My rates keep pace with inflation / cost-of-living                                                             |    39.1% |   28.3% |    32.6% |
+   | My rates keep pace with inflation / cost-of-living                                                             |    37.2% |   19.2% |    43.6% |
    +----------------------------------------------------------------------------------------------------------------+----------+---------+----------+
-   | My rates match the expectations of my clients                                                                  |    58.6% |   28.7% |    12.7% |
+   | My rates match the expectations of my clients                                                                  |    64.0% |   18.7% |    17.3% |
    +----------------------------------------------------------------------------------------------------------------+----------+---------+----------+
-   | I am comfortable managing the overhead (accounting, insurance, etc.) associated with contracting / freelancing |    57.2% |   22.6% |    20.2% |
+   | I am comfortable managing the overhead (accounting, insurance, etc.) associated with contracting / freelancing |    59.7% |   12.5% |    27.8% |
    +----------------------------------------------------------------------------------------------------------------+----------+---------+----------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Satisfaction factors - earnings - contractors" aria-describedby="figure_satisfaction-factors-earnings-contractors_desc" type="image/svg+xml" data="/_images/2024-satisfaction-factors-earnings-contractors.svg">
-         <p id="figure_satisfaction-factors-earnings-contractors_desc">Horizontal bar chart showing contractor respondents' level of agreement with statements about their earnings.</p>
+      <object role="img" aria-label="Satisfaction factors - earnings - contractors" aria-describedby="figure_satisfaction-factors-earnings-contractors_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-earnings-contractors.svg">
+         <p id="figure_satisfaction-factors-earnings-contractors_desc">Horizontal bar chart showing contractor respondents’ level of agreement with statements about their earnings.</p>
       </object>
-      <figcaption>Figure: Satisfaction factors - earnings - contractors</figcaption>
+      <figcaption>Figure: Satisfaction factors — earnings — contractors</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-satisfaction-factors-earnings-contractors.svg
+.. figure:: images/2025/2025-satisfaction-factors-earnings-contractors.svg
    :class: hide
 
 .. raw:: html
@@ -3058,39 +3058,39 @@ Respondents who indicated that the statement was not relevant to their situation
 
 .. table:: Satisfaction statements - contracts and projects
    :widths: 55 15 15 15
-   :name: tbl-2024-satisfaction-statements-contracts
+   :name: tbl-2025-satisfaction-statements-contracts
    :class: sortable statements
 
    +---------------------------------------------------+----------+---------+----------+
    | Statements                                        | Agree    | Neutral | Disagree |
    +===================================================+==========+=========+==========+
-   | My hours are reasonable                           |    93.5% |    5.4% |     1.1% |
+   | My hours are reasonable                           |    92.5% |    6.2% |     1.2% |
    +---------------------------------------------------+----------+---------+----------+
-   | I have flexibility in my hours                    |    88.1% |    4.3% |     7.6% |
+   | I have flexibility in my hours                    |    87.5% |    6.2% |     6.2% |
    +---------------------------------------------------+----------+---------+----------+
-   | My responsibilities are reasonable                |    90.3% |    6.5% |     3.2% |
+   | My responsibilities are reasonable                |    87.5% |    7.5% |     5.0% |
    +---------------------------------------------------+----------+---------+----------+
-   | My workload is manageable                         |    87.0% |    9.7% |     3.3% |
+   | My workload is manageable                         |    81.2% |   12.5% |     6.2% |
    +---------------------------------------------------+----------+---------+----------+
-   | I have opportunities for career advancement       |    35.2% |   22.7% |    42.1% |
+   | I have opportunities for career advancement       |    28.4% |   31.3% |    40.3% |
    +---------------------------------------------------+----------+---------+----------+
-   | I have opportunities for professional development |    48.9% |   21.1% |    30.0% |
+   | I have opportunities for professional development |    52.2% |   18.8% |    29.0% |
    +---------------------------------------------------+----------+---------+----------+
-   | My work is sufficiently interesting / challenging |    69.9% |   17.2% |    12.9% |
+   | My work is sufficiently interesting / challenging |    71.2% |   12.5% |    16.2% |
    +---------------------------------------------------+----------+---------+----------+
-   | I’m satisfied with the systems and toolsets I use |    57.0% |   21.5% |    21.5% |
+   | I’m satisfied with the systems and toolsets I use |    46.2% |   26.2% |    27.5% |
    +---------------------------------------------------+----------+---------+----------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Satisfaction factors - contracts and projects - contractors" aria-describedby="figure_satisfaction-factors-contracts-contractors_desc" type="image/svg+xml" data="/_images/2024-satisfaction-factors-contracts-contractors.svg">
-         <p id="figure_satisfaction-factors-contracts-contractors_desc">Horizontal bar chart showing contractor respondents' level of agreement with statements about their contracts and projects.</p>
+      <object role="img" aria-label="Satisfaction factors - contracts and projects - contractors" aria-describedby="figure_satisfaction-factors-contracts-contractors_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-contracts-contractors.svg">
+         <p id="figure_satisfaction-factors-contracts-contractors_desc">Horizontal bar chart showing contractor respondents’ level of agreement with statements about their contracts and projects.</p>
       </object>
-      <figcaption>Figure: Satisfaction factors - contracts and projects - contractors</figcaption>
+      <figcaption>Figure: Satisfaction factors — contracts and projects — contractors</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-satisfaction-factors-contracts-contractors.svg
+.. figure:: images/2025/2025-satisfaction-factors-contracts-contractors.svg
    :class: hide
 
 .. raw:: html
@@ -3099,31 +3099,31 @@ Respondents who indicated that the statement was not relevant to their situation
 
 .. table:: Satisfaction statements - workplaces
    :widths: 55 15 15 15
-   :name: tbl-2024-satisfaction-statements-contractor-workplaces
+   :name: tbl-2025-satisfaction-statements-contractor-workplaces
    :class: sortable statements
 
    +---------------------------------------------+----------+---------+----------+
    | Statements                                  | Agree    | Neutral | Disagree |
    +=============================================+==========+=========+==========+
-   | I have flexibility in my work location      |    83.5% |    6.6% |     9.9% |
+   | I have flexibility in my work location      |    89.7% |    3.8% |     6.4% |
    +---------------------------------------------+----------+---------+----------+
-   | Our remote work environment functions well  |    90.8% |    4.6% |     4.6% |
+   | Our remote work environment functions well  |    93.2% |    2.7% |     4.1% |
    +---------------------------------------------+----------+---------+----------+
-   | Our on-site work environment functions well |    61.0% |   29.3% |     9.7% |
+   | Our on-site work environment functions well |    87.1% |    6.5% |     6.5% |
    +---------------------------------------------+----------+---------+----------+
-   | Our hybrid work environment functions well  |    64.1% |   28.2% |     7.7% |
+   | Our hybrid work environment functions well  |    86.7% |   10.0% |     3.3% |
    +---------------------------------------------+----------+---------+----------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Satisfaction factors - workplaces - contractors" aria-describedby="figure_satisfaction-factors-workplaces-contractors_desc" type="image/svg+xml" data="/_images/2024-satisfaction-factors-workplaces-contractors.svg">
-         <p id="figure_satisfaction-factors-workplaces-contractors_desc">Horizontal bar chart showing contractor respondents' level of agreement with statements about their workplace(s).</p>
+      <object role="img" aria-label="Satisfaction factors - workplaces - contractors" aria-describedby="figure_satisfaction-factors-workplaces-contractors_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-workplaces-contractors.svg">
+         <p id="figure_satisfaction-factors-workplaces-contractors_desc">Horizontal bar chart showing contractor respondents’ level of agreement with statements about their workplace(s).</p>
       </object>
-      <figcaption>Figure: Satisfaction factors - workplaces - contractors</figcaption>
+      <figcaption>Figure: Satisfaction factors — workplaces — contractors</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-satisfaction-factors-workplaces-contractors.svg
+.. figure:: images/2025/2025-satisfaction-factors-workplaces-contractors.svg
    :class: hide
 
 .. raw:: html
@@ -3131,38 +3131,38 @@ Respondents who indicated that the statement was not relevant to their situation
 	</div><div class="tab__content">
 
 .. table:: Satisfaction statements - teams and organizations
-   :widths: 55 15 15 15
-   :name: tbl-2024-satisfaction-statements-contractor-teams
+   :widths: 48 13 13 13 13
+   :name: tbl-2025-satisfaction-statements-contractor-teams
    :class: sortable statements
 
-   +---------------------------------------------------------------+----------+---------+----------+
-   | Statements                                                    | Agree    | Neutral | Disagree |
-   +===============================================================+==========+=========+==========+
-   | To my knowledge, rates are consistent across similar roles    |    34.2% |   40.8% |    25.0% |
-   +---------------------------------------------------------------+----------+---------+----------+
-   | To my knowledge, all genders are paid equally                 |    40.4% |   38.0% |    21.6% |
-   +---------------------------------------------------------------+----------+---------+----------+
-   | My role is sufficiently valued / funded                       |    50.0% |   24.4% |    25.6% |
-   +---------------------------------------------------------------+----------+---------+----------+
-   | I like and/or respect my managers and team leaders            |    83.1% |   12.4% |     4.5% |
-   +---------------------------------------------------------------+----------+---------+----------+
-   | I like and/or respect my co-workers                           |    86.6% |   11.2% |     2.2% |
-   +---------------------------------------------------------------+----------+---------+----------+
-   | I like and/or respect my organization                         |    74.2% |   18.0% |     7.8% |
-   +---------------------------------------------------------------+----------+---------+----------+
-   | I’m satisfied with our methodologies, systems and practices   |    57.3% |   27.0% |    15.7% |
-   +---------------------------------------------------------------+----------+---------+----------+
+   +---------------------------------------------------------------+----------+---------+----------+------------+
+   | Statements                                                    | Agree    | Neutral | Disagree | Don’t know |
+   +===============================================================+==========+=========+==========+============+
+   | To my knowledge, rates are consistent across similar roles    |    26.8% |    8.5% |    25.4% |      39.4% |
+   +---------------------------------------------------------------+----------+---------+----------+------------+
+   | To my knowledge, all genders are paid equally                 |    25.0% |    8.3% |    18.1% |      48.6% |
+   +---------------------------------------------------------------+----------+---------+----------+------------+
+   | My role is sufficiently valued / funded                       |    57.1% |   13.0% |    29.9% |         -- |
+   +---------------------------------------------------------------+----------+---------+----------+------------+
+   | I like and/or respect my managers and team leaders            |    84.2% |    7.9% |     7.9% |         -- |
+   +---------------------------------------------------------------+----------+---------+----------+------------+
+   | I like and/or respect my co-workers                           |    93.2% |    5.4% |     1.4% |         -- |
+   +---------------------------------------------------------------+----------+---------+----------+------------+
+   | I like and/or respect my organization                         |    66.7% |   24.0% |     9.3% |         -- |
+   +---------------------------------------------------------------+----------+---------+----------+------------+
+   | I’m satisfied with our methodologies, systems and practices   |    44.0% |   25.3% |    30.7% |         -- |
+   +---------------------------------------------------------------+----------+---------+----------+------------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Satisfaction factors - teams and organizations - contractors" aria-describedby="figure_satisfaction-factors-teams-contractors_desc" type="image/svg+xml" data="/_images/2024-satisfaction-factors-teams-contractors.svg">
-         <p id="figure_satisfaction-factors-teams-contractors_desc">Horizontal bar chart showing contractor respondents' level of agreement with statements about their teams and organizations.</p>
+      <object role="img" aria-label="Satisfaction factors - teams and organizations - contractors" aria-describedby="figure_satisfaction-factors-teams-contractors_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-teams-contractors.svg">
+         <p id="figure_satisfaction-factors-teams-contractors_desc">Horizontal bar chart showing contractor respondents’ level of agreement with statements about their teams and organizations.</p>
       </object>
-      <figcaption>Figure: Satisfaction factors - teams and organizations - contractors</figcaption>
+      <figcaption>Figure: Satisfaction factors — teams and organizations — contractors</figcaption>
    </figure>
 
-.. figure:: images/2024/2024-satisfaction-factors-teams-contractors.svg
+.. figure:: images/2025/2025-satisfaction-factors-teams-contractors.svg
    :class: hide
 
 .. raw:: html
