@@ -7,6 +7,7 @@ template: {{year}}/generic.html
 ========================================
 
 .. include:: ../../../code-of-conduct.rst
+   :start-after: conference-include-body
    :end-before: Portland Code of Conduct Team
 ```
 
