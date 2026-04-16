@@ -41,12 +41,7 @@ Take a break in the Attendee Lounge, a quiet wellness and recharging space with 
 
 ## Professional Headshots
 
-Free professional headshots are available for all attendees at the headshot booth. Come grab a new photo for your LinkedIn or professional profile!
-
-- **When:** Monday, 1:30–4:30 PM
-- **Where:** Headshot booth at the venue (signage onsite)
-- **Cost:** Free for all attendees
-- **What to bring:** Just yourself! A professional photographer will be onsite. No appointment needed — stop by any time during the window.
+Free professional headshots are available for all attendees at the headshot booth. Come grab a new photo for your LinkedIn or professional profile! A professional photographer will be onsite — no appointment needed, just stop by. Check the [schedule](/conf/{{shortcode}}/{{year}}/schedule/) for times.
 
 *The headshot booth is sponsored by [Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral).*
 
