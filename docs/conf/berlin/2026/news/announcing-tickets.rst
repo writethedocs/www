@@ -8,8 +8,7 @@
 Announcing Ticket sales
 =======================
 
-We're excited to announce that `ticket sales <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_ are now open for our {{ city }} conference.
-We have also opened `Opportunity Grant program <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/>`_.
+We're excited to announce that we've opened `ticket sales <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_ and our `Opportunity Grant program <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/>`_ for our {{ city }} conference.
 
 
 Read on for detailed updates.
