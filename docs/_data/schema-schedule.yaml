@@ -12,6 +12,7 @@ day-details: list(include('day-detail'))
 
 day-detail:
   time: str(required=False)
+  end_time: str(required=False)
   duration: regex('^\d+:\d+$', name='duration', required=False)
   title: str(required=False)
   slug: str(required=False)

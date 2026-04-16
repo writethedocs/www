@@ -156,10 +156,9 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
                         TIME_FORMATS[data['time_format']](aware_item_start.astimezone(tz)) + ' ' + tz_name
                         for tz_name, tz in display_timezones
                     ])
-                # Calculate end_time for talks and substantial events (>= 15 min)
-                duration_minutes = duration.total_seconds() / 60
-                if duration_minutes > 0 and (duration_minutes >= 15 or 'slug' in schedule_item):
-                    naive_item_end = naive_item_start + duration
+                # Format explicit end_time from YAML if provided
+                if 'end_time' in schedule_item:
+                    naive_item_end = datetime.strptime(schedule_item['end_time'], '%H:%M')
                     if not display_timezones:
                         schedule_item['end_time'] = TIME_FORMATS[data['time_format']](naive_item_end)
                     else:
