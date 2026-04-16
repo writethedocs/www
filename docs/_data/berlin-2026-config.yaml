@@ -99,7 +99,7 @@ sponsorship:
     price: €300
 
 grants:
-  url: ""
+  url: "https://docs.google.com/forms/d/e/1FAIpQLSfK4HePSGJn-CeF0cjJWbWYAkk39VbUJ8DfBkUtEP1oU5yyVg/viewform"
   ends: "June 29, 2026"
   notification: "July 20, 2026"
 
@@ -205,7 +205,7 @@ sponsors:
 flaglanding: False
 flaghassponsors: True
 flagcfp: True
-flagticketsonsale: False
+flagticketsonsale: True
 flagsoldout: False
 flagscheduleincomplete: True
 flagspeakersannounced: False
