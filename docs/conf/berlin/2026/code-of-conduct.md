@@ -7,7 +7,6 @@ template: {{year}}/generic.html
 ========================================
 
 .. include:: ../../../code-of-conduct.rst
-   :start-after: conference-include-body
    :end-before: Berlin Code of Conduct Team
 ```
 

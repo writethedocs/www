@@ -65,14 +65,15 @@ talks_day1:
     title: 5 minute break
   - duration: '0:00'
     title: "<a href='../unconference'>Unconference starts</a>"
-  - time: '10:00'
-    duration: '0:00'
-    title: "☕ <a href='../unconference/#sponsor-sessions-in-martha-s'>Sponsor Session in Martha's (10am-12pm)</a> - hosted by Promptless"
   - duration: '0:30'
     slug: documentation-thinking-beyond-the-docs-lessons-from-decision-facing-technical-w-mary-elise-dedicke
   - duration: '0:05'
     title: '✋ 5 minute Q&A'
-  - duration: '0:10'
+  - time: '10:00'
+    duration: '0:00'
+    title: "☕ <a href='../unconference/#sponsor-sessions-in-martha-s'>Sponsor Session in Martha's (10am-12pm)</a> - hosted by Promptless"
+  - time: '10:05'
+    duration: '0:10'
     title: 10 minute break
   - duration: '0:30'
     slug: how-we-deprecated-500-articles-cleaning-up-documentation-at-scale-aileen-mary
@@ -88,7 +89,11 @@ talks_day1:
     title: '✋ 5 minute Q&A'
   - duration: '1:25'
     title: '🍽️ Lunch Break (85 mins)'
-  - duration: '0:35'
+  - time: '13:30'
+    duration: '0:00'
+    title: "📸 <a href='../attendee-guide/#professional-headshots'>Complimentary Headshots (1:30-4:30pm)</a> - hosted by Mintlify"
+  - time: '13:45'
+    duration: '0:35'
     title: '<a href="../lightning-talks">Lightning Talks</a> (35 mins)'
   - duration: '0:10'
     title: 10 minute break
@@ -133,14 +138,15 @@ talks_day2:
     title: 5 minute break
   - duration: '0:00'
     title: "<a href='../unconference'>Unconference starts</a>"
-  - time: '10:00'
-    duration: '0:00'
-    title: "🍵 <a href='../unconference/#sponsor-sessions-in-martha-s'>Sponsor Session in Martha's (10am-12pm)</a> - hosted by Mintlify"
   - duration: '0:30'
     slug: what-i-learned-building-an-ai-documentation-auditor-and-what-it-found-in-500-p-rakesh-pasupuleti
   - duration: '0:05'
     title: '✋ 5 minute Q&A'
-  - duration: '0:10'
+  - time: '10:00'
+    duration: '0:00'
+    title: "🍵 <a href='../unconference/#sponsor-sessions-in-martha-s'>Sponsor Session in Martha's (10am-12pm)</a> - hosted by Mintlify"
+  - time: '10:05'
+    duration: '0:10'
     title: 10 minute break
   - duration: '0:30'
     slug: the-invisible-work-what-it-takes-to-be-the-first-and-only-tech-writer-on-the-alina-desiatnikova
