@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 #
 
+import logging
 import os
 import sys
 import datetime
@@ -197,6 +198,17 @@ texinfo_documents = [
 ]
 
 suppress_warnings = ['image.nonlocal_uri', 'myst.header']
+
+# Suppress warnings from -j auto when ablog isn't parallel-read-safe.
+# Sphinx still parallelizes writing; only reading falls back to serial.
+class _ParallelReadFilter(logging.Filter):
+    def filter(self, record):
+        msg = record.getMessage()
+        if 'is not safe for parallel reading' in msg or msg == 'doing serial read':
+            return False
+        return True
+
+logging.getLogger('sphinx').addFilter(_ParallelReadFilter())
 
 # Our additions
 
