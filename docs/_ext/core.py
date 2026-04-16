@@ -156,6 +156,19 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
                         TIME_FORMATS[data['time_format']](aware_item_start.astimezone(tz)) + ' ' + tz_name
                         for tz_name, tz in display_timezones
                     ])
+                # Calculate end_time for talks and substantial events (>= 15 min)
+                duration_minutes = duration.total_seconds() / 60
+                if duration_minutes > 0 and (duration_minutes >= 15 or 'slug' in schedule_item):
+                    naive_item_end = naive_item_start + duration
+                    if not display_timezones:
+                        schedule_item['end_time'] = TIME_FORMATS[data['time_format']](naive_item_end)
+                    else:
+                        aware_item_end = datetime.combine(conf_date, naive_item_end.time()).replace(tzinfo=conf_timezone)
+                        schedule_item['end_time'] = '<br>'.join([
+                            TIME_FORMATS[data['time_format']](aware_item_end.astimezone(tz)) + ' ' + tz_name
+                            for tz_name, tz in display_timezones
+                        ])
+
                 naive_next_item_default_start = naive_item_start + duration
 
             if 'slug' in schedule_item:

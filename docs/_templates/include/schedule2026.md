@@ -1,7 +1,7 @@
 <article class="schedule">
 {% for session in day_schedule %}
   <div class="schedule-item">
-    <div class="item-starting-time">{{ session.time }}</div>
+    <div class="item-starting-time">{{ session.time }}{% if session.end_time %}<span class="item-end-time">&ndash; {{ session.end_time }}</span>{% endif %}</div>
     <div class="item-content">
       <div class="item-description">
         {% if session.title %}
