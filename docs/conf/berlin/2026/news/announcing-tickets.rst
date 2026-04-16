@@ -5,8 +5,8 @@
 .. post:: Apr 16, {{year}}
    :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 
-Announcing the Ticket sales
-===========================
+Announcing Ticket sales
+=======================
 
 We're excited to announce that `ticket sales <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_ are now open for our {{ city }} conference.
 We have also opened `Opportunity Grant program <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/>`_.
