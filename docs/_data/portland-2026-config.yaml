@@ -173,7 +173,7 @@ cfp:
   speaker_tickets_by: April 2, 2026               # (Mon) Approx 3 weeks before
   video_by: "April 9, 2026"                        # Upload date for recorded talks (remote speakers)
   slides_by: "April 20, 2026"                      # (Mon) 2 weeks before
-  preview: "https://writethedocs-www--2552.org.readthedocs.build/conf/portland/2026/schedule/"                                  # Preview URL TODO
+  preview: "https://writethedocs-www--2552.org.readthedocs.build/conf/portland/2026/schedule/"
 
 unconf:
   url: ""

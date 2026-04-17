@@ -1,6 +1,12 @@
 Code of Conduct
 ===============
 
+.. Marker used by conference pages to skip the shared H1 heading when
+.. including this file. Conference pages use "start-after"
+.. conference-include-body to begin the include after this line.
+
+.. conference-include-body
+
 Write the Docs is a global community of documentarians who share information, discuss ideas, and work together to improve the art and science of documentation. Everybody who participates in our community in one way or another is required to conform to this Code of Conduct (CoC). This includes online communications, meetup and conference attendees, speakers, sponsors, founders, moderators, organisers and volunteers.
 
 Why do we have a Code of Conduct?

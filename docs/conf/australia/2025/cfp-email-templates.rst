@@ -215,9 +215,9 @@ Subject:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Tickets:
-   {{cfp_variables['ticket']}}
+   {{cfp_variables['ticket']}}.
 Calendly:
-   {{cfp_variables['calendly']}}
+   {{cfp_variables['calendly']}}.
 
 ----
 

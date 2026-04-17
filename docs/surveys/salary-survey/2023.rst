@@ -1287,7 +1287,7 @@ Currency
 Employee respondents reported being paid in 26 different currencies. To make comparisons possible, all currencies were converted to USD using mid-market exchange rates, averaged for the whole of 2023.
 
 .. table:: Currencies and exchange rates - employees
-   :widths: 55 10 10 10 15
+   :widths: 60 15 25
    :name: tbl-2023-currencies-employees
    :class: std3col
 
