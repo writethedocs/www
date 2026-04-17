@@ -4,7 +4,7 @@ banner: _static/conf/images/headers/berlin-2026-small-group.jpg
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
-# Home | Write the Docs Berlin 2026
+# Home | Write the Docs {{ name }} {{ year }}
 
 <div class="news-block">
 <div class="uk-container">
