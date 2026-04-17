@@ -38,7 +38,7 @@ jobs:
     - name: Build
       run: |
         cd docs
-        uv run make html SPHINXOPTS="-j auto"
+        uv run make html SPHINXOPTS="-j auto -W --keep-going"
         cd ../
 
     - name: Check for unparsed markup
