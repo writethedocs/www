@@ -8,11 +8,11 @@
     </style>
   </defs>
 
-  <g id="2025-hours-worked-all">
+  <g id="2025-hours-worked-employee-contractors">
 
     <g class="title">
-      <text font-size="14"><tspan x="40" y="33">Weekly hours worked</tspan></text>
-      <text font-size="12" class="subtitle"><tspan x="40" y="49">All respondents (n=789)</tspan></text>
+      <text font-size="14"><tspan x="40" y="33">Approximate total weekly hours</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Employee-contractors (n=34)</tspan></text>
     </g>
 
     <g class="bar-chart-vertical">
@@ -35,18 +35,16 @@
       <g class="data-series">
         <g class="a">
           <g class="axis-labels">
-            <text font-size="12"><tspan x="112.2" y="337.384">1–20</tspan></text>
-            <text font-size="12"><tspan x="219.6" y="337.384">21–30</tspan></text>
-            <text font-size="12"><tspan x="330.0" y="337.384">31–40</tspan></text>
-            <text font-size="12"><tspan x="440.4" y="337.384">41–50</tspan></text>
-            <text font-size="12"><tspan x="550.8" y="337.384">51–60</tspan></text>
+            <text font-size="12"><tspan x="133.8" y="337.384">1–40</tspan></text>
+            <text font-size="12"><tspan x="274.3" y="337.384">41–60</tspan></text>
+            <text font-size="12"><tspan x="414.8" y="337.384">61–80</tspan></text>
+            <text font-size="12"><tspan x="555.3" y="337.384">81+</tspan></text>
           </g>
           <g class="bars">
-            <path d="M174.5 308.1H72.5V320H174.5V308.1Z"/>
-            <path d="M284.5 312.8H183.5V320H284.5V312.8Z"/>
-            <path d="M395.5 121.1H293.5V320H395.5V121.1Z"/>
-            <path d="M505.5 234.0H404.5V320H505.5V234.0Z"/>
-            <path d="M616.5 312.8H514.5V320H616.5V312.8Z"/>
+            <path d="M195.0 292.2H72.5V320H195.0V292.2Z"/>
+            <path d="M335.5 183.0H213.0V320H335.5V183.0Z"/>
+            <path d="M476.0 192.1H353.5V320H476.0V192.1Z"/>
+            <path d="M616.5 301.3H494.0V320H616.5V301.3Z"/>
           </g>
           <g class="value-labels">
           </g>

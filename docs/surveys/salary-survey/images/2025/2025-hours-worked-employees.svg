@@ -12,7 +12,7 @@
 
     <g class="title">
       <text font-size="14"><tspan x="40" y="33">Weekly hours worked</tspan></text>
-      <text font-size="12" class="subtitle"><tspan x="40" y="49">Employees (n=709)</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Employees only (n=675)</tspan></text>
     </g>
 
     <g class="bar-chart-vertical">
@@ -35,18 +35,20 @@
       <g class="data-series">
         <g class="a">
           <g class="axis-labels">
-            <text font-size="12"><tspan x="112.2" y="337.384">1–20</tspan></text>
-            <text font-size="12"><tspan x="219.6" y="337.384">21–30</tspan></text>
-            <text font-size="12"><tspan x="330.0" y="337.384">31–40</tspan></text>
-            <text font-size="12"><tspan x="440.4" y="337.384">41–50</tspan></text>
-            <text font-size="12"><tspan x="550.8" y="337.384">51–60</tspan></text>
+            <text font-size="12"><tspan x="110.3" y="337.384">1–20</tspan></text>
+            <text font-size="12"><tspan x="204.0" y="337.384">21–30</tspan></text>
+            <text font-size="12"><tspan x="297.7" y="337.384">31–40</tspan></text>
+            <text font-size="12"><tspan x="391.3" y="337.384">41–50</tspan></text>
+            <text font-size="12"><tspan x="485.0" y="337.384">51–60</tspan></text>
+            <text font-size="12"><tspan x="578.7" y="337.384">60+</tspan></text>
           </g>
           <g class="bars">
-            <path d="M174.5 317.8H72.5V320H174.5V317.8Z"/>
-            <path d="M284.5 315.6H183.5V320H284.5V315.6Z"/>
-            <path d="M395.5 114.4H293.5V320H395.5V114.4Z"/>
-            <path d="M505.5 228.7H404.5V320H505.5V228.7Z"/>
-            <path d="M616.5 312.5H514.5V320H616.5V312.5Z"/>
+            <path d="M148.2 318.1H72.5V320H148.2V318.1Z"/>
+            <path d="M241.8 316.3H166.2V320H241.8V316.3Z"/>
+            <path d="M335.5 112.4H259.8V320H335.5V112.4Z"/>
+            <path d="M429.2 228.8H353.5V320H429.2V228.8Z"/>
+            <path d="M522.8 312.6H447.2V320H522.8V312.6Z"/>
+            <path d="M616.5 320.0H540.8V320H616.5V320.0Z"/>
           </g>
           <g class="value-labels">
           </g>

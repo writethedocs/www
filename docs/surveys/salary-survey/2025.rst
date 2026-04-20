@@ -321,45 +321,17 @@ Hours worked
 
    </details>
 
-The majority of respondents (87.0%) worked standard full-time hours of 31–40 hours per week when combining both employees and contractors. A further 9.2% worked in excess of 40 hours per week.
+Among respondents who worked only as employees, two-thirds (67.0%) worked standard full-time hours of 31–40 hours per week. A further 31.6% worked more than 40 hours per week.
 
-The pattern differs notably between employment types: employees were overwhelmingly full-time, while contractors showed a much wider spread, with 31.3% reporting 1–20 hours per week.
+Contractor-only respondents showed a wider spread. Half (50.0%) worked 31–40 hours per week, while 28.2% worked fewer than 31 hours.
 
-.. raw:: html
-
-   <div class="tab-wrap"><input type="radio" id="tabA2-1" name="tabGroupA2" class="tab" checked tabindex="0"><label for="tabA2-1">All respondents</label><input type="radio" id="tabA2-2" name="tabGroupA2" class="tab"><label for="tabA2-2">Employees</label><input type="radio" id="tabA2-3" name="tabGroupA2" class="tab"><label for="tabA2-3">Contractors</label><input type="radio" id="tabA2-4" name="tabGroupA2" class="tab"><label for="tabA2-4">Employee-contractors</label><div class="tab__content">
-
-.. table:: Weekly hours worked — all respondents (2025)
-   :widths: 70 15 15
-   :name: tbl-2025-weekly-hours-worked-all
-   :class: std3col sortable
-
-   +--------------+-----+-------+
-   | Hours        | |N| | |%|   |
-   +==============+=====+=======+
-   | 31-40 hours  | 506 | 64.1% |
-   +--------------+-----+-------+
-   | 41-50 hours  | 218 | 27.6% |
-   +--------------+-----+-------+
-   | 1-20 hours   | 29  | 3.7%  |
-   +--------------+-----+-------+
-   | 51-60 hours  | 17  | 2.2%  |
-   +--------------+-----+-------+
-   | 21-30 hours  | 17  | 2.2%  |
-   +--------------+-----+-------+
+Among employee-contractors, most respondents reported working more hours as employees than as contractors (24 of 34, or 70.6%). Another 9 respondents (26.5%) worked about the same hours in both roles, and only 1 respondent (2.9%) worked more hours as a contractor. In approximate total hours, most employee-contractors clustered between 41 and 80 hours per week.
 
 .. raw:: html
 
-      <figure>
-         <object role="img" aria-label="Weekly hours worked, all respondents (2025)" aria-describedby="figure_hours-worked-all_desc" type="image/svg+xml" data="/_images/2025-hours-worked-all.svg">
-            <p id="figure_hours-worked-all_desc">Bar chart showing weekly hours worked by all respondents</p>
-         </object>
-         <figcaption>Figure: Weekly hours worked — all respondents (2025)</figcaption>
-      </figure>
+   <div class="tab-wrap"><input type="radio" id="tabA2-1" name="tabGroupA2" class="tab" checked tabindex="0"><label for="tabA2-1">Employees</label><input type="radio" id="tabA2-2" name="tabGroupA2" class="tab"><label for="tabA2-2">Contractors</label><input type="radio" id="tabA2-3" name="tabGroupA2" class="tab"><label for="tabA2-3">Employee-contractors</label><div class="tab__content">
 
-   </div><div class="tab__content">
-
-.. table:: Weekly hours worked — employees (2025)
+.. table:: Weekly hours worked — employees only (2025)
    :widths: 70 15 15
    :name: tbl-2025-weekly-hours-worked-employees
    :class: std3col sortable
@@ -367,29 +339,31 @@ The pattern differs notably between employment types: employees were overwhelmin
    +--------------+-----+-------+
    | Hours        | |N| | |%|   |
    +==============+=====+=======+
-   | 31-40 hours  | 470 | 66.3% |
+   | 31-40 hours  | 452 | 67.0% |
    +--------------+-----+-------+
-   | 41-50 hours  | 208 | 29.3% |
+   | 41-50 hours  | 198 | 29.3% |
    +--------------+-----+-------+
-   | 51-60 hours  | 16  | 2.3%  |
+   | 51-60 hours  | 15  | 2.2%  |
    +--------------+-----+-------+
-   | 21-30 hours  | 9   | 1.3%  |
+   | 21-30 hours  | 7   | 1.0%  |
    +--------------+-----+-------+
-   | 1-20 hours   | 4   | 0.6%  |
+   | 1-20 hours   | 3   | 0.4%  |
+   +--------------+-----+-------+
+   | 60+ hours    | 0   | 0.0%  |
    +--------------+-----+-------+
 
 .. raw:: html
 
       <figure>
-         <object role="img" aria-label="Weekly hours worked, employees (2025)" aria-describedby="figure_hours-worked-employees_desc" type="image/svg+xml" data="/_images/2025-hours-worked-employees.svg">
-            <p id="figure_hours-worked-employees_desc">Bar chart showing weekly hours worked by employees</p>
+         <object role="img" aria-label="Weekly hours worked, employees only (2025)" aria-describedby="figure_hours-worked-employees_desc" type="image/svg+xml" data="/_images/2025-hours-worked-employees.svg">
+            <p id="figure_hours-worked-employees_desc">Bar chart showing weekly hours worked by respondents who only worked as employees</p>
          </object>
-         <figcaption>Figure: Weekly hours worked — employees (2025)</figcaption>
+         <figcaption>Figure: Weekly hours worked — employees only (2025)</figcaption>
       </figure>
 
    </div><div class="tab__content">
 
-.. table:: Weekly hours worked — contractors (2025)
+.. table:: Weekly hours worked — contractors only (2025)
    :widths: 70 15 15
    :name: tbl-2025-weekly-hours-worked-contractors
    :class: std3col sortable
@@ -397,90 +371,55 @@ The pattern differs notably between employment types: employees were overwhelmin
    +--------------+-----+-------+
    | Hours        | |N| | |%|   |
    +==============+=====+=======+
-   | 31-40 hours  | 36  | 45.0% |
+   | 31-40 hours  | 23  | 50.0% |
    +--------------+-----+-------+
-   | 1-20 hours   | 25  | 31.3% |
+   | 41-50 hours  | 9   | 19.6% |
    +--------------+-----+-------+
-   | 41-50 hours  | 10  | 12.5% |
+   | 1-20 hours   | 7   | 15.2% |
    +--------------+-----+-------+
-   | 21-30 hours  | 8   | 10.0% |
+   | 21-30 hours  | 6   | 13.0% |
    +--------------+-----+-------+
-   | 51-60 hours  | 1   | 1.3%  |
+   | 51-60 hours  | 1   | 2.2%  |
+   +--------------+-----+-------+
+   | 60+ hours    | 0   | 0.0%  |
    +--------------+-----+-------+
 
 .. raw:: html
 
       <figure>
-         <object role="img" aria-label="Weekly hours worked, contractors (2025)" aria-describedby="figure_hours-worked-contractors_desc" type="image/svg+xml" data="/_images/2025-hours-worked-contractors.svg">
-            <p id="figure_hours-worked-contractors_desc">Bar chart showing weekly hours worked by contractors</p>
+         <object role="img" aria-label="Weekly hours worked, contractors only (2025)" aria-describedby="figure_hours-worked-contractors_desc" type="image/svg+xml" data="/_images/2025-hours-worked-contractors.svg">
+            <p id="figure_hours-worked-contractors_desc">Bar chart showing weekly hours worked by respondents who only worked as contractors</p>
          </object>
-         <figcaption>Figure: Weekly hours worked — contractors (2025)</figcaption>
+         <figcaption>Figure: Weekly hours worked — contractors only (2025)</figcaption>
       </figure>
 
    </div><div class="tab__content">
 
-.. rubric:: As employee
+.. table:: Employee-contractors: hours balance and approximate total hours (2025)
+   :widths: 32 12 12 12 12 10 10
+   :name: tbl-2025-weekly-hours-worked-employee-contractors
+   :class: sortable
 
-.. table:: Weekly hours worked as employee — employee-contractors (2025)
-   :widths: 70 15 15
-   :name: tbl-2025-weekly-hours-worked-ec-employee
-   :class: std3col sortable
-
-   +--------------+-----+-------+
-   | Hours        | |N| | |%|   |
-   +==============+=====+=======+
-   | 31-40 hours  | 18  | 52.9% |
-   +--------------+-----+-------+
-   | 41-50 hours  | 10  | 29.4% |
-   +--------------+-----+-------+
-   | 21-30 hours  | 2   | 5.9%  |
-   +--------------+-----+-------+
-   | 1-20 hours   | 1   | 2.9%  |
-   +--------------+-----+-------+
-   | 51-60 hours  | 1   | 2.9%  |
-   +--------------+-----+-------+
+   +---------------------------+------+------+------+------+-----+-------+
+   | Pattern                   | 1–40 | 41–60| 61–80| 81+  | |N| | |%|   |
+   +===========================+======+======+======+======+=====+=======+
+   | More hours as employee    | 2    | 15   | 5    | 2    | 24  | 70.6% |
+   +---------------------------+------+------+------+------+-----+-------+
+   | About the same            | 1    | 0    | 8    | 0    | 9   | 26.5% |
+   +---------------------------+------+------+------+------+-----+-------+
+   | More hours as contractor  | 0    | 0    | 1    | 0    | 1   | 2.9%  |
+   +---------------------------+------+------+------+------+-----+-------+
 
 .. raw:: html
 
       <figure>
-         <object role="img" aria-label="Weekly hours worked as employee, employee-contractors (2025)" aria-describedby="figure_hours-worked-ec-employee_desc" type="image/svg+xml" data="/_images/2025-hours-worked-ec-employee.svg">
-            <p id="figure_hours-worked-ec-employee_desc">Bar chart showing weekly hours worked as employee by employee-contractors</p>
+         <object role="img" aria-label="Approximate total weekly hours, employee-contractors (2025)" aria-describedby="figure_hours-worked-employee-contractors_desc" type="image/svg+xml" data="/_images/2025-hours-worked-employee-contractors.svg">
+            <p id="figure_hours-worked-employee-contractors_desc">Bar chart showing approximate total weekly hours worked by employee-contractors</p>
          </object>
-         <figcaption>Figure: Weekly hours worked as employee — employee-contractors (2025)</figcaption>
-      </figure>
-
-.. rubric:: As contractor
-
-.. table:: Weekly hours worked as contractor — employee-contractors (2025)
-   :widths: 70 15 15
-   :name: tbl-2025-weekly-hours-worked-ec-contractor
-   :class: std3col sortable
-
-   +--------------+-----+-------+
-   | Hours        | |N| | |%|   |
-   +==============+=====+=======+
-   | 1-20 hours   | 18  | 52.9% |
-   +--------------+-----+-------+
-   | 31-40 hours  | 13  | 38.2% |
-   +--------------+-----+-------+
-   | 21-30 hours  | 2   | 5.9%  |
-   +--------------+-----+-------+
-   | 41-50 hours  | 1   | 2.9%  |
-   +--------------+-----+-------+
-
-.. raw:: html
-
-      <figure>
-         <object role="img" aria-label="Weekly hours worked as contractor, employee-contractors (2025)" aria-describedby="figure_hours-worked-ec-contractor_desc" type="image/svg+xml" data="/_images/2025-hours-worked-ec-contractor.svg">
-            <p id="figure_hours-worked-ec-contractor_desc">Bar chart showing weekly hours worked as contractor by employee-contractors</p>
-         </object>
-         <figcaption>Figure: Weekly hours worked as contractor — employee-contractors (2025)</figcaption>
+         <figcaption>Figure: Approximate total weekly hours — employee-contractors (2025)</figcaption>
       </figure>
 
    </div>
-
-.. figure:: images/2025/2025-hours-worked-all.svg
-   :class: hide
 
 .. figure:: images/2025/2025-hours-worked-employees.svg
    :class: hide
@@ -488,10 +427,7 @@ The pattern differs notably between employment types: employees were overwhelmin
 .. figure:: images/2025/2025-hours-worked-contractors.svg
    :class: hide
 
-.. figure:: images/2025/2025-hours-worked-ec-employee.svg
-   :class: hide
-
-.. figure:: images/2025/2025-hours-worked-ec-contractor.svg
+.. figure:: images/2025/2025-hours-worked-employee-contractors.svg
    :class: hide
 
 Job title
