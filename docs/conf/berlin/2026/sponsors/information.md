@@ -109,5 +109,6 @@ You should have received a unique URL with a discount code for your sponsorship 
 * Please contact us for shipping details, as the venue doesn't accept packages directly.
 * Sponsors are responsible for all sponsorship materials after they arrive at the venue. 
 * Sponsors are responsible for mailing all materials after the conference.
+* We suggest scheduling a FedEx pickup for your return shipment so your materials can be collected directly from the venue.
 
 If you have any further questions, reach out to Eric Holscher or <sponsorship@writethedocs.org>.
