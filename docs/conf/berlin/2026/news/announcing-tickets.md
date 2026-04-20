@@ -17,7 +17,17 @@ Read on for detailed updates.
 
 Tickets are on sale!
 
-We are continuing our work on conference accessibility, and this will again be a hybrid conference, including virtual tickets. Virtual tickets include:
+We are continuing our work on conference accessibility, and this will again be a hybrid conference, including virtual tickets. 
+
+Included with the in-person ticket:
+
+- Entry to all conference events and activities, including Writing Day
+- Snacks and drinks on conference days (Monday and Tuesday)
+- Social Event with light snacks and drinks
+- Wifi throughout the event
+- Meeting lots of fantastic people in a spacious, inviting venue.
+
+Virtual tickets include:
 
 - Live streaming for all talks and Q&A sessions on the main stage
 - The ability to submit live Q&A questions for speakers
