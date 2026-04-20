@@ -265,7 +265,7 @@ Following on from last year, recording salary and rate data for employee-contrac
 
 .. table:: Basis of employment (2019-2025)
    :widths: 16 28 28 28
-   :name: tbl-2024-basis-of-employment-history
+   :name: tbl-2025-basis-of-employment-history
    :class: sortable col2right col3right col4right
 
    +-------------+-------------+-------------+----------------------+
