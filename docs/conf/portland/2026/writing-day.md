@@ -63,7 +63,7 @@ This is a new offering designed to create more ways for attendees to participate
 
 ### GitHub Workshops
 
-GitHub workshops are beginner-friendly sessions held in the morning and afternoon. Each session begins with a 20-minute presentation walkthrough covering how to sign up for a GitHub account and a hands-on example, followed by 1-on-1 support from volunteer TAs.
+GitHub workshops are beginner-friendly sessions held in the morning and afternoon, lasting around an hour. Each session begins with a presentation walkthrough covering how to sign up for a GitHub account and a hands-on example, followed by 1-on-1 support from volunteer TAs. It will get you ready to contribute to the Writing Day projects or to take back your new skills to your own projects.
 
 ### Resume Writing and Portfolio Review
 
@@ -71,7 +71,7 @@ Bring your resume or portfolio for feedback from fellow documentarians. This ses
 
 ### Roundtable Discussions
 
-Roundtable discussions are pre-scheduled, facilitated conversations held in the afternoon. Topics include AI in documentation, API docs, and more — check back for the full list of discussion topics as we get closer to the conference.
+Roundtable discussions are pre-scheduled, facilitated conversations held in the afternoon. Topics include AI in documentation and API docs. We are keeping the topics focused this year as an experiment, and if it goes well might expand to a full-day discussion track in the future. 
 
 ## How to Participate in a Writing Day Project
 
