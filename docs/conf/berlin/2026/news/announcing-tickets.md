@@ -1,21 +1,19 @@
-:template: {{year}}/generic.html
-:banner: _static/conf/images/headers/portland-2024-speakers.jpg
-:og:image: _static/conf/images/headers/portland-2024-speakers.jpg
+---
+template: {{year}}/generic.html
+og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
+---
 
-.. post:: Apr 16, {{year}}
-   :tags: {{shortcode}}-{{year}}, website, cfp, tickets
+```{post} Apr 16, {{year}}
+:tags: {{shortcode}}-{{year}}, website, cfp, tickets
+```
 
-Announcing Ticket sales
-=======================
+# Announcing Ticket Sales for Write the Docs {{ city }} {{ year }}
 
-We're excited to announce that we've opened `ticket sales <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_ and our `Opportunity Grant program <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/>`_ for our {{ city }} conference.
-
+We're excited to announce that [ticket sales](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/) and our [Opportunity Grant program](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/) are now open for Write the Docs {{ city }} {{ year }}.
 
 Read on for detailed updates.
 
-
-Tickets
--------
+## Tickets
 
 Tickets are on sale!
 
@@ -25,7 +23,7 @@ We are continuing our work on conference accessibility, and this will again be a
 - The ability to submit live Q&A questions for speakers
 - Virtual hallway track and chat so you can network with other remote attendees
 
-In-person `ticket options <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_:
+In-person [ticket options](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/):
 
 * **Student or Unemployed Tickets**: *{{tickets.student.price}}*
 * **Independent Tickets**: *{{tickets.independent.price}}*
@@ -33,55 +31,51 @@ In-person `ticket options <https://www.writethedocs.org/conf/{{shortcode}}/{{yea
 
 In-person tickets also include access to the Writing Day.
 
-Virtual `ticket options <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_:
+Virtual [ticket options](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/):
 
 * **Student or Unemployed Tickets**: *{{tickets.virtual_student.price}}*
 * **Independent Tickets**: *{{tickets.virtual_independent.price}}*
 * **Corporate Tickets**: *{{tickets.virtual_corporate.price}}*
 
+## Opportunity Grants
 
-Grant Program
--------------
 As always, we try to keep ticket prices low so that the event is accessible to the widest range of people.
-However, if the cost or our tickets or travel expenses are an issue for you, you can apply to our Opportunity Grant program.
+However, if the cost of our tickets or travel expenses are an issue for you, you can apply to our Opportunity Grant program.
 
 As a hybrid event, you can choose whether you want to attend in-person or virtually.
 We are limiting reimbursements to € 500 per person (not including conference ticket cost),
 to allow us to support more people.
 
-You can apply until **{{ grants.ends }}** on `our website <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/>`_.
+You can apply until **{{ grants.ends }}** on [our website](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/).
 
-
-Call for Proposals
-------------------
+## Call for Proposals
 
 The Call for Proposals is still open, until **11:59 PM {{cfp.ends}} {{tz}}**.
 
 We're all looking forward to seeing you on stage in-person in Europe again.
-Read our full `Call for Proposals <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`__, and `submit your talk <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/>`__ on the website.
+Read our full [Call for Proposals](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/), and [submit your talk](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/) on the website.
 
 And remember, we're also opening up a few talk slots for pre-recorded videos for remote speakers, so if you can't make it to {{city}} on {{ date.short }} you can still submit your proposal.
 
-
-Stay Updated
-------------
+## Stay Updated
 
 Want to find out what's happening with the conference, or enjoy our monthly global community newsletter?
-Sign up to one or more of our `mailing lists <http://eepurl.com/cdWqc5>`_. Your information will never be shared with any third parties, and you can unsubscribe at any time.
+Sign up to one or more of our [mailing lists](https://www.writethedocs.org/newsletter/). Your information will never be shared with any third parties, and you can unsubscribe at any time.
 
-Want to connect with other documentarians in real-time? Join our `Slack <https://www.writethedocs.org/slack/>`_.
+Want to connect with other documentarians in real-time? Join our [Slack](https://www.writethedocs.org/slack/).
 
-Thanks again to our sponsors
-----------------------------
+## Thanks to our Sponsors
 
 We are thankful to our sponsors for their role in making these events possible every year.
 A big thank you to each of these companies for supporting our community:
 
+```{eval-rst}
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-config.yaml
    :template: {{year}}/sponsors-simplelist.rst
+```
 
 If your company is interested in sponsoring,
-you can find all the necessary information in our `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_.
+you can find all the necessary information in our [sponsorship prospectus](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/).
 
 We look forward to seeing you in {{city}}!
