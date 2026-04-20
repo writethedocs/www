@@ -46,7 +46,7 @@ As always, we try to keep ticket prices low so that the event is accessible to t
 However, if the cost or our tickets or travel expenses are an issue for you, you can apply to our Opportunity Grant program.
 
 As a hybrid event, you can choose whether you want to attend in-person or virtually.
-Re are limiting reimbursements to € 500 per person (not including conference ticket cost),
+We are limiting reimbursements to € 500 per person (not including conference ticket cost),
 to allow us to support more people.
 
 You can apply until **{{ grants.ends }}** on `our website <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/>`_.
