@@ -285,6 +285,19 @@ Including both salary and rate data for employee-contractors means that in total
    +-------------+-------------+-------------+----------------------+------------+
    | 2025        | 675 (89.4%) |   46 (6%)   | 34 (4.5%)            | 755        |
    +-------------+-------------+-------------+----------------------+------------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Basis of employment history (2019-2025)" aria-describedby="figure_basis-of-employment-history_desc" type="image/svg+xml" data="/_images/2025-basis-of-employment-history.svg">
+         <p id="figure_basis-of-employment-history_desc">Stacked vertical bar chart showing respondent counts by basis of employment for each survey year from 2019 through 2025. Each bar is divided into employees, contractors, and employee-contractors.</p>
+      </object>
+      <figcaption>Figure: Basis of employment (2019-2025)</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-basis-of-employment-history.svg
+   :class: hide
+
 As in previous years, we encouraged those currently not working to respond as though still at their previous job/contract, provided they had worked at least some of the past year. 33 employees and 4 contractor filled out the survey on this basis. Of the employee-contractor respondents, 2 were completely unemployed, 7 were only working as a contractor and 13 were only working as an employee.
 
 Hours worked
@@ -644,13 +657,13 @@ Primary role category
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Primary role categories" aria-describedby="figure_primary-role-categories_desc" type="image/svg+xml" data="/_images/2025-primary-role-categories-draft.svg">
-         <p id="figure_primary-role-categories_desc">Horizontal bar chart showing primary role categories.</p>
+      <object role="img" aria-label="Top 10 primary role categories" aria-describedby="figure_primary-role-categories_desc" type="image/svg+xml" data="/_images/2025-primary-role-categories.svg">
+         <p id="figure_primary-role-categories_desc">Horizontal bar chart showing the top 10 primary role categories.</p>
       </object>
       <figcaption>Figure: Primary role categories</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-primary-role-categories-draft.svg
+.. figure:: images/2025/2025-primary-role-categories.svg
    :class: hide
 
 Additional role categories
@@ -663,13 +676,13 @@ Of the respondents who selected additional role categories, the number chosen ra
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Additional role categories" aria-describedby="figure_additional-role-categories_desc" type="image/svg+xml" data="/_images/2025-additional-role-categories-draft.svg">
-         <p id="figure_additional-role-categories_desc">Horizontal bar chart showing the most common additional role categories.</p>
+      <object role="img" aria-label="Top 10 additional role categories" aria-describedby="figure_additional-role-categories_desc" type="image/svg+xml" data="/_images/2025-additional-role-categories.svg">
+         <p id="figure_additional-role-categories_desc">Horizontal bar chart showing the top 10 additional role categories.</p>
       </object>
       <figcaption>Figure: Additional role categories</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-additional-role-categories-draft.svg
+.. figure:: images/2025/2025-additional-role-categories.svg
    :class: hide
 
 .. raw:: html
