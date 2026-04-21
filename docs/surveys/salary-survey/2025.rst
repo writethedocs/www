@@ -447,9 +447,9 @@ Job title
 
    </details>
 
-With typos fixed, abbreviations expanded, "stop words" removed and keyword faceting applied, 217 unique job titles could be discerned. One respondent indicated that they did not have a job title.
+With typos fixed, abbreviations expanded, "stop words" removed and keyword faceting applied, 231 unique job titles could be discerned in the 2025 faceted title export.
 
-As in previous years, the most widely used exact title was "Technical Writer", reported by 26.8% of respondents. This term appeared in 6 of the top 10 job titles, in 51 of the 217 unique job titles, and in 65.2% of all job titles.
+As in previous years, the most widely used exact title was "Technical Writer", appearing in 26.9% of titles. This term appeared in 6 of the top 10 job titles, in 27 of the 231 unique job titles, and in 62.9% of all titles.
 
 .. raw:: html
 
@@ -457,31 +457,31 @@ As in previous years, the most widely used exact title was "Technical Writer", r
 
 .. table:: Most widely-used job titles
    :widths: 70 15 15
-   :name: tbl-2024-top-job-titles
+   :name: tbl-2025-top-job-titles
    :class: std3col sortable
 
    +-------------------------------------+-----+-------+
    | Title                               | |N| | |%|   |
    +=====================================+=====+=======+
-   | Technical Writer                    | 209 | 26.8% |
+   | Technical Writer                    | 208 | 26.9% |
    +-------------------------------------+-----+-------+
-   | Senior Technical Writer             | 158 | 20.3% |
+   | Senior Technical Writer             | 168 | 21.7% |
    +-------------------------------------+-----+-------+
-   | Lead Technical Writer               | 32  | 4.1%  |
+   | Lead Technical Writer               | 29  | 3.8%  |
    +-------------------------------------+-----+-------+
-   | Staff Technical Writer              | 26  | 3.3%  |
+   | Staff Technical Writer              | 18  | 2.3%  |
    +-------------------------------------+-----+-------+
-   | Principal Technical Writer          | 16  | 2.1%  |
+   | Principal Technical Writer          | 17  | 2.2%  |
    +-------------------------------------+-----+-------+
-   | Documentation Manager               | 12  | 1.5%  |
+   | Technical Writer II                 | 17  | 2.2%  |
    +-------------------------------------+-----+-------+
-   | Technical Writer II                 | 12  | 1.5%  |
+   | Technical Writing Manager           | 11  | 1.4%  |
    +-------------------------------------+-----+-------+
-   | Manager, Technical Writing          | 10  | 1.3%  |
+   | Documentation Manager               | 7   | 0.9%  |
    +-------------------------------------+-----+-------+
-   | Technical Author                    | 8   | 1.0%  |
+   | Documentation Specialist            | 7   | 0.9%  |
    +-------------------------------------+-----+-------+
-   | Senior Documentation Manager        | 6   | 0.8%  |
+   | Documentation Engineer              | 6   | 0.8%  |
    +-------------------------------------+-----+-------+
 
 .. raw:: html
@@ -490,48 +490,38 @@ As in previous years, the most widely used exact title was "Technical Writer", r
 
 .. table:: Job titles excluding "technical writer"
    :widths: 70 15 15
-   :name: tbl-2024-job-titles-excluding-technical-writer
+   :name: tbl-2025-job-titles-excluding-technical-writer
    :class: std3col sortable
 
    +-------------------------------------+-----+------+
    | Title                               | |N| | |%|  |
    +=====================================+=====+======+
-   | Documentation Manager               | 12  | 7.1% |
+   | Technical Writing Manager           | 11  | 3.8% |
    +-------------------------------------+-----+------+
-   | Documentation Specialist            | 6   | 3.6% |
+   | Documentation Manager               | 7   | 2.4% |
    +-------------------------------------+-----+------+
-   | Senior Documentation Manager        | 6   | 3.6% |
+   | Documentation Specialist            | 7   | 2.4% |
    +-------------------------------------+-----+------+
-   | Content Developer                   | 5   | 3.0% |
+   | Documentation Engineer              | 6   | 2.1% |
    +-------------------------------------+-----+------+
-   | Knowledge Manager                   | 5   | 3.0% |
+   | Technical Author                    | 6   | 2.1% |
    +-------------------------------------+-----+------+
-   | Documentation Engineer              | 5   | 3.0% |
+   | Content Developer                   | 5   | 1.7% |
    +-------------------------------------+-----+------+
-   | User Assistance Developer           | 4   | 2.4% |
+   | Content Strategist                  | 5   | 1.7% |
    +-------------------------------------+-----+------+
-   | Documentation Team Lead             | 4   | 2.4% |
+   | Documentation Head                  | 5   | 1.7% |
    +-------------------------------------+-----+------+
-   | Information Developer               | 4   | 2.4% |
+   | Senior Documentation Manager        | 5   | 1.7% |
    +-------------------------------------+-----+------+
-   | Manager, Product Documentation      | 3   | 1.8% |
+   | Technical Content Writer            | 4   | 1.4% |
    +-------------------------------------+-----+------+
 
 .. raw:: html
 
    </div>
 
-   <figure>
-      <object role="img" aria-label="Job title word cloud" aria-describedby="figure_job-title-word-cloud_desc" type="image/svg+xml" data="/_images/2024-job-title-word-cloud.svg">
-         <p id="figure_job-title-word-cloud_desc">Word cloud showing relative weights of job title keywords</p>
-      </object>
-      <figcaption>Figure: Job title word cloud</figcaption>
-   </figure>
-
    </div>
-
-.. figure:: images/2024/2024-job-title-word-cloud.svg
-   :class: hide
 
 Role category
 -------------
