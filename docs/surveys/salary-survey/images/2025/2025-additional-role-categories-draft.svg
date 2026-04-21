@@ -29,56 +29,56 @@
     <g font-size="10" text-anchor="end" fill="#50514F">
       <text><tspan x="222" y="74">Editor</tspan></text>
       <text><tspan x="222" y="100">Information architecture</tspan></text>
-      <text><tspan x="222" y="126">Technical writer</tspan></text>
-      <text><tspan x="222" y="152">UX writer</tspan></text>
-      <text><tspan x="222" y="178">DocOps</tspan></text>
-      <text><tspan x="222" y="204">Content producer</tspan></text>
-      <text><tspan x="222" y="230">Mentoring</tspan></text>
-      <text><tspan x="222" y="256">Subject matter expert</tspan></text>
-      <text><tspan x="222" y="282">Testing / QA</tspan></text>
-      <text><tspan x="222" y="308">Manager or team leader</tspan></text>
-      <text><tspan x="222" y="334">Project or product manager</tspan></text>
+      <text><tspan x="222" y="126">UX writer</tspan></text>
+      <text><tspan x="222" y="152">DocOps</tspan></text>
+      <text><tspan x="222" y="178">Mentoring</tspan></text>
+      <text><tspan x="222" y="204">Subject matter expert</tspan></text>
+      <text><tspan x="222" y="230">Content producer</tspan></text>
+      <text><tspan x="222" y="256">Testing / QA</tspan></text>
+      <text><tspan x="222" y="282">Manager or team leader</tspan></text>
+      <text><tspan x="222" y="308">Project or product manager</tspan></text>
+      <text><tspan x="222" y="334">Educator / trainer</tspan></text>
     </g>
 
     <!-- Bars -->
     <g fill="#00AEFF">
-      <!-- Editor: 54.7% = 319px -->
-      <rect x="228" y="62" width="319" height="16"/>
-      <!-- Information architecture: 45.3% = 264px -->
-      <rect x="228" y="88" width="264" height="16"/>
-      <!-- Technical writer: 43.4% = 253px -->
-      <rect x="228" y="114" width="253" height="16"/>
-      <!-- UX writer: 34.7% = 202px -->
-      <rect x="228" y="140" width="202" height="16"/>
-      <!-- DocOps: 32.8% = 192px -->
-      <rect x="228" y="166" width="192" height="16"/>
-      <!-- Content producer: 24.2% = 141px -->
-      <rect x="228" y="192" width="141" height="16"/>
+      <!-- Editor: 53.6% = 313px -->
+      <rect x="228" y="62" width="313" height="16"/>
+      <!-- Information architecture: 44.8% = 261px -->
+      <rect x="228" y="88" width="261" height="16"/>
+      <!-- UX writer: 34.3% = 200px -->
+      <rect x="228" y="114" width="200" height="16"/>
+      <!-- DocOps: 32.2% = 188px -->
+      <rect x="228" y="140" width="188" height="16"/>
       <!-- Mentoring: 24.2% = 141px -->
-      <rect x="228" y="218" width="141" height="16"/>
+      <rect x="228" y="166" width="141" height="16"/>
       <!-- Subject matter expert: 24.0% = 140px -->
-      <rect x="228" y="244" width="140" height="16"/>
+      <rect x="228" y="192" width="140" height="16"/>
+      <!-- Content producer: 23.7% = 138px -->
+      <rect x="228" y="218" width="138" height="16"/>
       <!-- Testing / QA: 21.7% = 127px -->
-      <rect x="228" y="270" width="127" height="16"/>
-      <!-- Manager or team leader: 21.3% = 124px -->
-      <rect x="228" y="296" width="124" height="16"/>
-      <!-- Project or product manager: 19.7% = 115px -->
-      <rect x="228" y="322" width="115" height="16"/>
+      <rect x="228" y="244" width="127" height="16"/>
+      <!-- Manager or team leader: 20.0% = 117px -->
+      <rect x="228" y="270" width="117" height="16"/>
+      <!-- Project or product manager: 18.8% = 110px -->
+      <rect x="228" y="296" width="110" height="16"/>
+      <!-- Educator / trainer: 16.8% = 98px -->
+      <rect x="228" y="322" width="98" height="16"/>
     </g>
 
     <!-- Value labels -->
     <g font-size="9" text-anchor="start" fill="#50514F">
-      <text><tspan x="552" y="74">54.7%</tspan></text>
-      <text><tspan x="497" y="100">45.3%</tspan></text>
-      <text><tspan x="486" y="126">43.4%</tspan></text>
-      <text><tspan x="435" y="152">34.7%</tspan></text>
-      <text><tspan x="425" y="178">32.8%</tspan></text>
-      <text><tspan x="374" y="204">24.2%</tspan></text>
-      <text><tspan x="374" y="230">24.2%</tspan></text>
-      <text><tspan x="373" y="256">24.0%</tspan></text>
-      <text><tspan x="360" y="282">21.7%</tspan></text>
-      <text><tspan x="357" y="308">21.3%</tspan></text>
-      <text><tspan x="348" y="334">19.7%</tspan></text>
+      <text><tspan x="546" y="74">53.6%</tspan></text>
+      <text><tspan x="494" y="100">44.8%</tspan></text>
+      <text><tspan x="433" y="126">34.3%</tspan></text>
+      <text><tspan x="421" y="152">32.2%</tspan></text>
+      <text><tspan x="374" y="178">24.2%</tspan></text>
+      <text><tspan x="373" y="204">24.0%</tspan></text>
+      <text><tspan x="371" y="230">23.7%</tspan></text>
+      <text><tspan x="360" y="256">21.7%</tspan></text>
+      <text><tspan x="350" y="282">20.0%</tspan></text>
+      <text><tspan x="343" y="308">18.8%</tspan></text>
+      <text><tspan x="331" y="334">16.8%</tspan></text>
     </g>
 
     <!-- X-axis percentage labels -->
