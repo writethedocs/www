@@ -2767,9 +2767,9 @@ The contractor currency pool contracted significantly from 15 currencies to 9, w
 Median rates
 ~~~~~~~~~~~~
 
-In previous years, we asked contractor respondents to enter multiple rates, if appropriate, and a number did so. This year, as in 2024, no respondents entered more than one type of rate.
+In previous years, we asked contractor respondents to enter multiple rates, if appropriate, and a number did so. This year, as in 2024, almost all respondents entered only one type of rate. One respondent entered both an hourly and a day rate; for consistency with the currency breakdown and median analysis, that respondent is counted once under hourly rates.
 
-Hourly rates were the most commonly entered fee structure, used by 83.8% of contractor respondents (67 individuals) — up from 66% in 2024. The remaining respondents entered either a monthly rate (9 respondents, 11.2%) or a day rate (4 respondents, 5.0%). Due to the low number of day rates, we're unable to publish any median day rates. Monthly rate data was too geographically dispersed — with no region reaching the 10-respondent threshold — to publish meaningful regional medians.
+Hourly rates were the most commonly entered fee structure, used by 83.8% of contractor respondents (67 individuals) — up from 66% in 2024. The remaining respondents entered either a monthly rate (10 respondents, 12.5%) or a day rate (3 respondents, 3.8%). Due to the low number of day rates, we're unable to publish any median day rates. Monthly rate data was too geographically dispersed — with no region reaching the 10-respondent threshold — to publish meaningful regional medians.
 
 .. table:: Median hourly rate by region
    :widths: 55 15 15 15
