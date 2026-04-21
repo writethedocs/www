@@ -259,33 +259,32 @@ Basis of employment
 
    We asked those who filled out the survey as independent contractors, freelancers or self-employed people what term they used to describe their type of employment. The majority (68%) preferred the term “contractor”, with only 12% using “self-employed” and 11.2% using “freelancer”. In this report, we’ll use the term “contractors” to refer to this entire group.
 
-As in previous surveys, employees made up the majority of respondents (675, or 89.4%). Contractors made up 6% (46 individuals) and those who had worked in both capacities made up 4.5% (34 individuals).
+Employees made up the majority of survey respondents in 2025 (675, or 89.4%). Contractors made up 6% (46 individuals) and those who had worked in both capacities made up 4.5% (34 individuals).
 
-Following on from last year, recording salary and rate data for employee-contractors means that in total, we have 709 employee salaries and 80 sets of conract rates for our median breakdowns.
+Including both salary and rate data for employee-contractors means that in total, we have 709 employee salaries and 80 sets of contract rates for our median breakdowns.
 
 .. table:: Basis of employment (2019-2025)
-   :widths: 16 28 28 28
+   :widths: 12 16 16 22 12
    :name: tbl-2025-basis-of-employment-history
-   :class: sortable col2right col3right col4right
+   :class: sortable col2right col3right col4right col5right
 
-   +-------------+-------------+-------------+----------------------+
-   | Survey year |   Employees | Contractors | Employee-contractors |
-   +-------------+-------------+-------------+----------------------+
-   | 2019        | 652 (93.9%) |   42 (6.1%) | --                   |
-   +-------------+-------------+-------------+----------------------+
-   | 2020        | 748 (92.9%) |   57 (7.1%) | --                   |
-   +-------------+-------------+-------------+----------------------+
-   | 2021        | 887 (92.5%) |   72 (7.5%) | --                   |
-   +-------------+-------------+-------------+----------------------+
-   | 2022        | 491 (93.5%) |   34 (6.5%) | --                   |
-   +-------------+-------------+-------------+----------------------+
-   | 2023        | 938 (92.2%) |   79 (7.8%) | --                   |
-   +-------------+-------------+-------------+----------------------+
-   | 2024        | 686 (87.9%) |   66 (8.5%) | 28 (3.6%)            |
-   +-------------+-------------+-------------+----------------------+
-   | 2025        | 675 (89.4%) | 46 (6%)     | 34 (4.5%)            |
-   +-------------+-------------+-------------+----------------------+
-
+   +-------------+-------------+-------------+----------------------+------------+
+   | Year        |   Employees | Contractors | Employee-contractors | Total      |
+   +=============+=============+=============+======================+============+
+   | 2019        | 652 (93.9%) |   42 (6.1%) | --                   | 694        |
+   +-------------+-------------+-------------+----------------------+------------+
+   | 2020        | 748 (92.9%) |   57 (7.1%) | --                   | 805        |
+   +-------------+-------------+-------------+----------------------+------------+
+   | 2021        | 887 (92.5%) |   72 (7.5%) | --                   | 959        |
+   +-------------+-------------+-------------+----------------------+------------+
+   | 2022        | 491 (93.5%) |   34 (6.5%) | --                   | 525        |
+   +-------------+-------------+-------------+----------------------+------------+
+   | 2023        | 938 (92.2%) |   79 (7.8%) | --                   | 1017       |
+   +-------------+-------------+-------------+----------------------+------------+
+   | 2024        | 686 (87.9%) |   66 (8.5%) | 28 (3.6%)            | 780        |
+   +-------------+-------------+-------------+----------------------+------------+
+   | 2025        | 675 (89.4%) |   46 (6%)   | 34 (4.5%)            | 755        |
+   +-------------+-------------+-------------+----------------------+------------+
 As in previous years, we encouraged those currently not working to respond as though still at their previous job/contract, provided they had worked at least some of the past year. 33 employees and 4 contractor filled out the survey on this basis. Of the employee-contractor respondents, 2 were completely unemployed, 7 were only working as a contractor and 13 were only working as an employee.
 
 Hours worked
@@ -4506,3 +4505,9 @@ Overall, respondents were strongly positive about the survey across all three di
 .. raw:: html
 
    </div></div>
+
+
+
+
+
+
