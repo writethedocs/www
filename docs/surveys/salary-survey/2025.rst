@@ -1640,6 +1640,10 @@ Amongst contractors — a much smaller group of respondents who qualified for th
 .. figure:: images/2025/2025-job-search-confidence-ec-employee.svg
    :class: hide
 
+.. raw:: html
+
+   <hr>
+
 .. table:: Employee-contractor contract search confidence — as contractor
    :widths: 70 15 15
    :name: tbl-2025-contract-search-confidence-ec-contractor
@@ -1715,9 +1719,13 @@ Employee respondents reported being paid in 34 different currencies. To make com
 
 The USD share grew from 45.0% to 54.2%, while representation in Canadian dollars, Indian rupees, and Australian dollars all declined. Brazilian real was the most notable mover, growing from 2 to 12 respondents, while six currencies from 2024 — including Argentine peso, Philippine peso, and Kazakhstani tenge — did not appear in 2025, and seven new currencies joined the table.
 
-.. table:: Currencies and exchange rates - employees
+.. raw:: html
+
+   <div class="tab-wrap"><input type="radio" id="tabCurr-1" name="tabGroupCurr" class="tab" checked><label for="tabCurr-1">Major currencies</label><input type="radio" id="tabCurr-2" name="tabGroupCurr" class="tab"><label for="tabCurr-2">Additional currencies</label><div class="tab__content">
+
+.. table:: Currencies and exchange rates - employees (≥1% representation)
    :widths: 55 10 10 10 15
-   :name: tbl-2025-currencies-employees
+   :name: tbl-2025-currencies-employees-major
    :class: sortable col3center col4right
 
    +-----------------------------------------------+------------+--------+--------+
@@ -1741,6 +1749,19 @@ The USD share grew from 45.0% to 54.2%, while representation in Canadian dollars
    +-----------------------------------------------+------------+--------+--------+
    | Israeli New Shekel (NIS)                      | 0.2904     | 7      |   1.0% |
    +-----------------------------------------------+------------+--------+--------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Currencies and exchange rates - employees (<1% representation)
+   :widths: 55 10 10 10 15
+   :name: tbl-2025-currencies-employees-additional
+   :class: sortable col3center col4right
+
+   +-----------------------------------------------+------------+--------+--------+
+   | Currency (code)                               | Rate       | |N|    | |%|    |
+   +===============================================+============+========+========+
    | Polish Złoty (PLN)                            | 0.2664     | 5      |   0.7% |
    +-----------------------------------------------+------------+--------+--------+
    | New Zealand Dollar (NZD)                      | 0.5817     | 4      |   0.6% |
@@ -1791,6 +1812,10 @@ The USD share grew from 45.0% to 54.2%, while representation in Canadian dollars
    +-----------------------------------------------+------------+--------+--------+
    | Pakistani Rupee (PKR)                         | 0.003577   | 1      |   0.1% |
    +-----------------------------------------------+------------+--------+--------+
+
+.. raw:: html
+
+   </div></div>
 
 Median salary
 -------------
@@ -1876,59 +1901,85 @@ Given the range of socio-economic differences in the countries in the survey res
    | - Brazil (13)           | --          |      $12,895 | --           |
    +-------------------------+-------------+--------------+--------------+
 
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Median salary by respondent region" aria-describedby="figure_salary-by-region_desc" type="image/svg+xml" data="/_images/2025-salary-by-region.svg">
+         <p id="figure_salary-by-region_desc">Chart showing median salary ranges by respondent region, with 25th to 75th percentile bars for regions with 30 or more respondents.</p>
+      </object>
+      <figcaption>Figure: Median salary by respondent region</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-salary-by-region.svg
+   :class: hide
+
 Respondent numbers allow additional breakdowns by US state and Canadian province, as well as a handful of major US cities. In Australia, only one state (Queensland) meets the minimum threshold of 10 respondents.
 
 .. raw:: html
 
-   <div class="tab-wrap"><input type="radio" id="tabD3-1" name="tabGroupD3" class="tab" checked><label for="tabD3-1">United States</label><input type="radio" id="tabD3-2" name="tabGroupD3" class="tab"><label for="tabD3-2">Canada</label><input type="radio" id="tabD3-3" name="tabGroupD3" class="tab"><label for="tabD3-3">Australia</label><div class="tab__content">
+   <div class="tab-wrap"><input type="radio" id="tabD3-1" name="tabGroupD3" class="tab" checked><label for="tabD3-1">United States</label><input type="radio" id="tabD3-2" name="tabGroupD3" class="tab"><label for="tabD3-2">Other regions</label><div class="tab__content">
 
 .. table:: Salary (USD) by respondent region - USA
    :name: tbl-2025-salary-by-respondent-region-usa
    :class: medians sortable
 
-   +----------------------+----------+----------+----------+
-   | State (|N|)          | |25|     | |50|     | |75|     |
-   +======================+==========+==========+==========+
-   | California (74)      | $121,250 | $160,000 | $196,250 |
-   +----------------------+----------+----------+----------+
-   | - San Francisco (16) | --       | $178,842 | --       |
-   +----------------------+----------+----------+----------+
-   | - San Jose (11)      | --       | $165,000 | --       |
-   +----------------------+----------+----------+----------+
-   | Texas (26)           | --       | $141,072 | --       |
-   +----------------------+----------+----------+----------+
-   | - Austin (18)        | --       | $150,000 | --       |
-   +----------------------+----------+----------+----------+
-   | Washington (23)      | --       | $164,000 | --       |
-   +----------------------+----------+----------+----------+
-   | - Seattle (11)       | --       | $185,000 | --       |
-   +----------------------+----------+----------+----------+
-   | Oregon (22)          | --       | $127,800 | --       |
-   +----------------------+----------+----------+----------+
-   | - Portland (17)      | --       | $130,000 | --       |
-   +----------------------+----------+----------+----------+
-   | New York (18)        | --       | $127,500 | --       |
-   +----------------------+----------+----------+----------+
-   | - New York (10)      | --       | $141,300 | --       |
-   +----------------------+----------+----------+----------+
-   | Pennsylvania (16)    | --       | $141,250 | --       |
-   +----------------------+----------+----------+----------+
-   | Illinois (16)        | --       | $117,500 | --       |
-   +----------------------+----------+----------+----------+
-   | - Chicago (12)       | --       | $129,500 | --       |
-   +----------------------+----------+----------+----------+
-   | North Carolina (15)  | --       | $119,800 | --       |
-   +----------------------+----------+----------+----------+
-   | Massachusetts (14)   | --       | $132,000 | --       |
-   +----------------------+----------+----------+----------+
-   | Ohio (11)            | --       | $105,480 | --       |
-   +----------------------+----------+----------+----------+
-   | Colorado (11)        | --       | $106,800 | --       |
-   +----------------------+----------+----------+----------+
-   | Florida (10)         | --       | $102,564 | --       |
-   +----------------------+----------+----------+----------+
-   | Wisconsin (10)       | --       | $111,000 | --       |
-   +----------------------+----------+----------+----------+
+   +--------------------------+----------+----------+----------+
+   | State (|N|)              | |25|     | |50|     | |75|     |
+   +==========================+==========+==========+==========+
+   | **UNITED STATES (370)**  |  $95,000 | $125,000 | $166,862 |
+   +--------------------------+----------+----------+----------+
+   | California (74)          | $121,250 | $160,000 | $196,250 |
+   +--------------------------+----------+----------+----------+
+   | - San Francisco (16)     | --       | $178,842 | --       |
+   +--------------------------+----------+----------+----------+
+   | - San Jose (11)          | --       | $165,000 | --       |
+   +--------------------------+----------+----------+----------+
+   | Texas (26)               | --       | $141,072 | --       |
+   +--------------------------+----------+----------+----------+
+   | - Austin (18)            | --       | $150,000 | --       |
+   +--------------------------+----------+----------+----------+
+   | Washington (23)          | --       | $164,000 | --       |
+   +--------------------------+----------+----------+----------+
+   | - Seattle (11)           | --       | $185,000 | --       |
+   +--------------------------+----------+----------+----------+
+   | Oregon (22)              | --       | $127,800 | --       |
+   +--------------------------+----------+----------+----------+
+   | - Portland (17)          | --       | $130,000 | --       |
+   +--------------------------+----------+----------+----------+
+   | New York (18)            | --       | $127,500 | --       |
+   +--------------------------+----------+----------+----------+
+   | - New York (10)          | --       | $141,300 | --       |
+   +--------------------------+----------+----------+----------+
+   | Pennsylvania (16)        | --       | $141,250 | --       |
+   +--------------------------+----------+----------+----------+
+   | Illinois (16)            | --       | $117,500 | --       |
+   +--------------------------+----------+----------+----------+
+   | - Chicago (12)           | --       | $129,500 | --       |
+   +--------------------------+----------+----------+----------+
+   | North Carolina (15)      | --       | $119,800 | --       |
+   +--------------------------+----------+----------+----------+
+   | Massachusetts (14)       | --       | $132,000 | --       |
+   +--------------------------+----------+----------+----------+
+   | Ohio (11)                | --       | $105,480 | --       |
+   +--------------------------+----------+----------+----------+
+   | Colorado (11)            | --       | $106,800 | --       |
+   +--------------------------+----------+----------+----------+
+   | Florida (10)             | --       | $102,564 | --       |
+   +--------------------------+----------+----------+----------+
+   | Wisconsin (10)           | --       | $111,000 | --       |
+   +--------------------------+----------+----------+----------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Median salary by US state" aria-describedby="figure_salary-by-us-state_desc" type="image/svg+xml" data="/_images/2025-salary-by-us-state.svg">
+         <p id="figure_salary-by-us-state_desc">Horizontal bar chart showing median salary for US states with 10 or more respondents, sorted by median salary.</p>
+      </object>
+      <figcaption>Figure: Median salary by US state</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-salary-by-us-state.svg
+   :class: hide
 
 .. raw:: html
 
@@ -1941,24 +1992,36 @@ Respondent numbers allow additional breakdowns by US state and Canadian province
    +-----------------------+---------+---------+---------+
    | Province (|N|)        | |25|    | |50|    | |75|    |
    +=======================+=========+=========+=========+
+   | **Canada** (50)       | $62,779 | $71,543 | $96,404 |
+   +-----------------------+---------+---------+---------+
    | Ontario (26)          | --      | $75,836 | --      |
    +-----------------------+---------+---------+---------+
    | - Toronto (17)        | --      | $75,120 | --      |
    +-----------------------+---------+---------+---------+
 
-.. raw:: html
+.. table:: Salary (USD) by respondent region - United Kingdom
+   :name: tbl-2025-salary-by-respondent-region-united-kingdom
+   :class: medians sortable
 
-   </div><div class="tab__content">
+   +--------------------------+----------+----------+--------------+
+   | Region (|N|)             | |25|     | |50|     | |75|         |
+   +==========================+==========+==========+==============+
+   | **United Kingdom** (43)  | $59,450  | $85,681  | $105,941     |
+   +--------------------------+----------+----------+--------------+
+   | Greater London (13)      | --       | $90,953  | --           |
+   +--------------------------+----------+----------+--------------+
 
 .. table:: Salary (USD) by respondent region - Australia
    :name: tbl-2025-salary-by-respondent-region-australia
    :class: medians sortable
 
-   +----------------+------+---------+------+
-   | State (|N|)    | |25| | |50|    | |75| |
-   +================+======+=========+======+
-   | Queensland (10)|      | $91,552 |      |
-   +----------------+------+---------+------+
+   +----------------------+------+---------+------+
+   | State (|N|)          | |25| | |50|    | |75| |
+   +======================+======+=========+======+
+   | **Australia** (25)   | --   | $88,006 | --   |
+   +----------------------+------+---------+------+
+   | Queensland (10)      | --   | $91,552 | --   |
+   +----------------------+------+---------+------+
 
 .. raw:: html
 
@@ -2029,6 +2092,18 @@ This year, that means that we are able to show breakdowns for Worldwide, North A
 
    </div></div>
 
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Median salary by gender identity" aria-describedby="figure_salary-gender-gap_desc" type="image/svg+xml" data="/_images/2025-salary-gender-gap.svg">
+         <p id="figure_salary-gender-gap_desc">Dot plot showing median salary for women and men in three regions, with the percentage gap labelled.</p>
+      </object>
+      <figcaption>Figure: Median salary by gender identity</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-salary-gender-gap.svg
+   :class: hide
+
 Median salary by years of experience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2066,21 +2141,21 @@ The general trend is for salaries to increase with years of experience. This tre
    :name: tbl-2025-salary-by-experience-region-north-america
    :class: medians-with-num sortable
 
-   +-----------------+-------+---------+----------+----------+
-   | Experience      | |N|   | |25|    | |50|     | |75|     |
-   +=================+=======+=========+==========+==========+
-   | |1| 0-2 years   | 16    |         |  $85,250 |          |
-   +-----------------+-------+---------+----------+----------+
-   | |2| 2-5 years   | 65    | $69,397 |  $86,400 | $110,000 |
-   +-----------------+-------+---------+----------+----------+
-   | |3| 5-10 years  | 103   | $80,050 | $108,000 | $141,196 |
-   +-----------------+-------+---------+----------+----------+
-   | |4| 10-15 years | 89    | $99,413 | $138,500 | $175,000 |
-   +-----------------+-------+---------+----------+----------+
-   | |5| 15-20 years | 31    | $107,000 | $145,000 | $200,160 |
-   +-----------------+-------+---------+----------+----------+
-   | |6| 20+ years   | 115   | $110,000 | $136,500 | $168,214 |
-   +-----------------+-------+---------+----------+----------+
+   +-----------------+-------+----------+----------+-----------+
+   | Experience      | |N|   | |25|     | |50|     | |75|      |
+   +=================+=======+==========+==========+===========+
+   | |1| 0-2 years   | 16    |          |  $85,250 |           |
+   +-----------------+-------+----------+----------+-----------+
+   | |2| 2-5 years   | 65    | $69,397  |  $86,400 | $110,000  |
+   +-----------------+-------+----------+----------+-----------+
+   | |3| 5-10 years  | 103   | $80,050  | $108,000 | $141,196  |
+   +-----------------+-------+----------+----------+-----------+
+   | |4| 10-15 years | 89    | $99,41 3 | $138,500 | $175,000  |
+   +-----------------+-------+----------+----------+-----------+
+   | |5| 15-20 years | 31    | $107,000 | $145,000 | $200,160  |
+   +-----------------+-------+----------+----------+-----------+
+   | |6| 20+ years   | 115   | $110,000 | $136,500 | $168,214  |
+   +-----------------+-------+----------+----------+-----------+
 
 .. raw:: html
 
@@ -2109,6 +2184,18 @@ The general trend is for salaries to increase with years of experience. This tre
 .. raw:: html
 
    </div></div>
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Median salary by years of experience" aria-describedby="figure_salary-by-experience_desc" type="image/svg+xml" data="/_images/2025-salary-by-experience.svg">
+         <p id="figure_salary-by-experience_desc">Line chart showing how median salary increases with years of experience, with separate lines for worldwide, North America, and Europe.</p>
+      </object>
+      <figcaption>Figure: Median salary by years of experience</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-salary-by-experience.svg
+   :class: hide
 
 Median salary by organization size
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2145,19 +2232,19 @@ Salaries generally increase with the size of the organization, with the highest 
    :name: tbl-2025-salary-by-organization-size-north-america
    :class: medians-with-num sortable
 
-   +------------------------+-----+---------+----------+----------+
-   | Size                   | |N| | |25|    | |50|     | |75|     |
-   +========================+=====+=========+==========+==========+
-   | |1| 1-100              | 41  | $92,000 | $120,000 | $175,000 |
-   +------------------------+-----+---------+----------+----------+
-   | |2| 101-1,000          | 123 | $80,300 | $112,000 | $148,000 |
-   +------------------------+-----+---------+----------+----------+
-   | |3| 1,001-10,000       | 132 | $84,972 | $104,474 | $145,250 |
-   +------------------------+-----+---------+----------+----------+
-   | |4| 10,001-100,000     | 80  | $102,625 | $141,196 | $176,970 |
-   +------------------------+-----+---------+----------+----------+
-   | |5| 100,000+           | 45  | $110,000 | $145,000 | $200,561 |
-   +------------------------+-----+---------+----------+----------+
+   +------------------------+-----+----------+-----------+----------+
+   | Size                   | |N| | |25|     | |50|      | |75|     |
+   +========================+=====+==========+===========+==========+
+   | |1| 1-100              | 41  | $92,000  | $120,000  | $175,000 |
+   +------------------------+-----+----------+-----------+----------+
+   | |2| 101-1,000          | 123 | $80,300  | $112,000  | $148,000 |
+   +------------------------+-----+----------+-----------+----------+
+   | |3| 1,001-10,000       | 132 | $84,972  | $104,474  | $145,250 |
+   +------------------------+-----+----------+-----------+----------+
+   | |4| 10,001-100,000     | 80  | $102,625 | $141,196  | $176,970 |
+   +------------------------+-----+----------+-----------+----------+
+   | |5| 100,000+           | 45  | $110,000 | $145,000  | $200,561 |
+   +------------------------+-----+----------+-----------+----------+
 
 .. raw:: html
 
@@ -2167,17 +2254,17 @@ Salaries generally increase with the size of the organization, with the highest 
    :name: tbl-2025-salary-by-organization-size-europe
    :class: medians-with-num sortable
 
-   +------------------------+-----+---------+---------+---------+
-   | Size                   | |N| | |25|    | |50|    | |75|    |
-   +========================+=====+=========+=========+=========+
-   | |1| 1-100              | 28  |         | $63,801 |         |
-   +------------------------+-----+---------+---------+---------+
-   | |2| 101-1,000          | 87  | $46,083 | $62,130 | $83,883 |
-   +------------------------+-----+---------+---------+---------+
+   +------------------------+-----+---------+---------+----------+
+   | Size                   | |N| | |25|    | |50|    | |75|     |
+   +========================+=====+=========+=========+==========+
+   | |1| 1-100              | 28  |      -- | $63,801 |  --      |
+   +------------------------+-----+---------+---------+----------+
+   | |2| 101-1,000          | 87  | $46,083 | $62,130 | $83,883  |
+   +------------------------+-----+---------+---------+----------+
    | |3| 1,001-10,000       | 49  | $56,481 | $72,716 | $102,300 |
-   +------------------------+-----+---------+---------+---------+
-   | |4| 10,001-100,000     | 11  |         | $90,370 |         |
-   +------------------------+-----+---------+---------+---------+
+   +------------------------+-----+---------+---------+----------+
+   | |4| 10,001-100,000     | 11  |      -- | $90,370 |  --      |
+   +------------------------+-----+---------+---------+----------+
 
 .. raw:: html
 

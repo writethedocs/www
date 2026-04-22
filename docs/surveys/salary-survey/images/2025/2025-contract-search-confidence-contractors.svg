@@ -37,15 +37,15 @@
 
       <!-- External labels -->
       <text font-size="10"><tspan x="53" y="223">Not confident at all</tspan></text>
-      <text font-size="10"><tspan x="113" y="123">Not confident</tspan></text>
-      <text font-size="10"><tspan x="480" y="123">Neutral</tspan></text>
+      <text font-size="10"><tspan x="145" y="128">Not confident</tspan></text>
+      <text font-size="10"><tspan x="443" y="128">Neutral</tspan></text>
       <text font-size="10"><tspan x="519" y="228">Confident</tspan></text>
 
       <!-- Connectors -->
-      <path d="M 144,223 C 150,224 179,229.5 181,229.9 L 185.1,230.2" stroke="#252521" stroke-dasharray="1 3"/>
-      <path d="M 180,123 C 188,123 247,137 251,138 L 255,139.1" stroke="#252521" stroke-dasharray="1 3"/>
-      <path d="M 480,123 C 472,123 413,137 409,138 L 405,139.1" stroke="#252521" stroke-dasharray="1 3"/>
-      <path d="M 514,228 C 508,228 477,230.3 476,230.3 L 474.9,230.2" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M 144,223 C 150,220 179,225.5 181,227 L 185.1,230.2" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M 213,128 C 223,125 248,132 251,135.5 L 255,139.1" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M 439,128 C 429,125 412,132 409,135.5 L 405,139.1" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M 514,228 C 508,225 477,226.5 476,227.5 L 474.9,230.2" stroke="#252521" stroke-dasharray="1 3"/>
 
     </g>
 
