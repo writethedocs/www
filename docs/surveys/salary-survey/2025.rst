@@ -498,6 +498,18 @@ As in previous years, the most widely used exact title was "Technical Writer", a
 
 .. raw:: html
 
+   <figure>
+      <object role="img" aria-label="Top job titles" aria-describedby="figure_top-job-titles_desc" type="image/svg+xml" data="/_images/2025-job-titles.svg">
+         <p id="figure_top-job-titles_desc">Horizontal bar chart showing the most common job titles, for titles with 5 or more respondents.</p>
+      </object>
+      <figcaption>Figure: Top job titles</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-job-titles.svg
+   :class: hide
+
+.. raw:: html
+
 	</div><div class="tab__content">
 
 .. table:: Job titles excluding "technical writer"
@@ -528,6 +540,18 @@ As in previous years, the most widely used exact title was "Technical Writer", a
    +-------------------------------------+-----+------+
    | Technical Content Writer            | 4   | 1.4% |
    +-------------------------------------+-----+------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Job titles excluding Technical Writer" aria-describedby="figure_job-titles-excl-tw_desc" type="image/svg+xml" data="/_images/2025-job-titles-excl-tw.svg">
+         <p id="figure_job-titles-excl-tw_desc">Horizontal bar chart showing the most common job titles that do not contain the words "Technical Writer", for titles with 4 or more respondents.</p>
+      </object>
+      <figcaption>Figure: Job titles excluding "Technical Writer"</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-job-titles-excl-tw.svg
+   :class: hide
 
 .. raw:: html
 

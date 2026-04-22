@@ -1,4 +1,4 @@
-<svg viewBox="0 40 660 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 118 660 242" fill="none" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
     <style type="text/css">
@@ -22,23 +22,23 @@
           <path d="M68.5 319.5H620.5"/>
           <path d="M68.5 242.5H620.5"/>
           <path d="M68.5 165.5H620.5"/>
-          <path d="M68.5 87.5H620.5"/>
+          
         </g>
         <g class="axis-labels">
           <text font-size="10"><tspan x="46.4883" y="323.384">0%</tspan></text>
           <text font-size="10"><tspan x="40.4824" y="246.384">25%</tspan></text>
           <text font-size="10"><tspan x="40.4824" y="169.384">50%</tspan></text>
-          <text font-size="10"><tspan x="40.4824" y="92.3843">75%</tspan></text>
+          
         </g>
       </g>
 
       <g class="data-series">
         <g class="a">
           <g class="axis-labels">
-            <text font-size="12"><tspan x="133.8" y="337.384">1–40</tspan></text>
-            <text font-size="12"><tspan x="274.3" y="337.384">41–60</tspan></text>
-            <text font-size="12"><tspan x="414.8" y="337.384">61–80</tspan></text>
-            <text font-size="12"><tspan x="555.3" y="337.384">81+</tspan></text>
+            <text font-size="12" text-anchor="middle"><tspan x="133.8" y="337.384">1–40</tspan></text>
+            <text font-size="12" text-anchor="middle"><tspan x="274.3" y="337.384">41–60</tspan></text>
+            <text font-size="12" text-anchor="middle"><tspan x="414.8" y="337.384">61–80</tspan></text>
+            <text font-size="12" text-anchor="middle"><tspan x="555.3" y="337.384">81+</tspan></text>
           </g>
           <g class="bars">
             <path d="M195.0 292.2H72.5V320H195.0V292.2Z"/>
