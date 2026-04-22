@@ -27,9 +27,9 @@
       <path d="M 455.7,177.1 A 150 150 0 0 1 480,259 L 390,259 A 60 60 0 0 0 380.3,226.2 Z" fill="#82A555" stroke="white" stroke-width="2"/>
 
       <!-- Inner value labels -->
-      <text font-size="14" class="value-labels-inner"><tspan x="209" y="216">36.0%</tspan></text>
-      <text font-size="14" class="value-labels-inner"><tspan x="323" y="168">45.6%</tspan></text>
-      <text font-size="14" class="value-labels-inner"><tspan x="403" y="236">18.4%</tspan></text>
+      <text font-size="14" text-anchor="middle" class="value-labels-inner"><tspan x="241.3" y="207.6">36.0%</tspan></text>
+      <text font-size="14" text-anchor="middle" class="value-labels-inner"><tspan x="358.7" y="162.9">45.6%</tspan></text>
+      <text font-size="14" text-anchor="middle" class="value-labels-inner"><tspan x="430.6" y="234.0">18.4%</tspan></text>
 
       <!-- External labels -->
       <text font-size="10"><tspan x="84" y="204">Less confident</tspan></text>

@@ -1463,6 +1463,10 @@ Among employees, the most common response was "around the same" (45.6%), with 36
 .. figure:: images/2025/2025-job-security-confidence-ec-employee.svg
    :class: hide
 
+.. raw:: html
+
+   <hr>
+
 .. table:: Employee-contractor earnings security - as contractor
    :widths: 70 15 15
    :name: tbl-2025-earnings-security-ec-contractor
