@@ -74,7 +74,7 @@ Remember to change the things in [brackets]!
 *Writing Day Benefits:*
 
 - *Introduce our project and community to a new audience and demographic in our industry*
-- *Get highlighted as a project in the conference blog and announcements (must submit online by April 17, 2026)*
+- *Get highlighted as a project in the conference blog and announcements (must submit online by {{ writing_day.project_deadline }})*
 - *Onboard documentation enthusiasts to increase the likelihood of post-conference contributions*
 - *Strategically tackle documentation tickets and requests*
 - *Update existing documentation
