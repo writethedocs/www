@@ -1,4 +1,4 @@
-<svg viewBox="0 55 660 352" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 20 660 430" fill="none" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
     <style type="text/css">
@@ -6,6 +6,19 @@
         @import url(/_static/survey/css/2025-svg.css);
       ]]>
     </style>
+    <filter id="label-bg" x="-15%" y="-40%" width="130%" height="180%">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="3" result="expanded"/>
+      <feGaussianBlur in="expanded" stdDeviation="5" result="blurred"/>
+      <feComponentTransfer in="blurred" result="rounded">
+        <feFuncA type="linear" slope="20" intercept="-5"/>
+      </feComponentTransfer>
+      <feFlood flood-color="white" flood-opacity="0.8" result="color"/>
+      <feComposite in="color" in2="rounded" operator="in" result="bg"/>
+      <feMerge>
+        <feMergeNode in="bg"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
   <g id="2025-satisfaction-factors-teams-contractors">
@@ -18,81 +31,82 @@
     <g class="bar-chart-horizontal">
 
       <g class="legend">
-        <circle cx="152" cy="380" r="6" fill="#E4774E"/>
-        <circle cx="235" cy="380" r="6" fill="#E9C168"/>
-        <circle cx="313" cy="380" r="6" fill="#82A555"/>
-        <circle cx="420" cy="380" r="6" fill="#A8C8E8"/>
-        <text font-size="10"><tspan x="162" y="384">Disagree</tspan></text>
-        <text font-size="10"><tspan x="245" y="384">Neutral</tspan></text>
-        <text font-size="10"><tspan x="323" y="384">Agree</tspan></text>
-        <text font-size="10"><tspan x="430" y="384">Don&#x2019;t know</tspan></text>
+        <rect x="395" y="35" width="250" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
+        <circle cx="405" cy="45" r="6" fill="#E4774E"/>
+        <circle cx="468" cy="45" r="6" fill="#E9C168"/>
+        <circle cx="526" cy="45" r="6" fill="#82A555"/>
+        <circle cx="580" cy="45" r="6" fill="#A8C8E8"/>
+        <text font-size="10" fill="#252521"><tspan x="415" y="49">Disagree</tspan></text>
+        <text font-size="10" fill="#252521"><tspan x="478" y="49">Neutral</tspan></text>
+        <text font-size="10" fill="#252521"><tspan x="536" y="49">Agree</tspan></text>
+        <text font-size="10" fill="#252521"><tspan x="590" y="49">Don&#x2019;t know</tspan></text>
       </g>
 
       <g class="row-0">
-        <text font-size="10"><tspan x="93" y="92">To my knowledge, rates are</tspan><tspan x="68" y="103">consistent across similar roles</tspan></text>
-        <rect x="233" y="82" width="82" height="27" rx="5" fill="#E4774E"/>
-        <rect x="317" y="82" width="27" height="27" rx="5" fill="#E9C168"/>
-        <rect x="346" y="82" width="86" height="27" rx="5" fill="#82A555"/>
-        <rect x="617" y="82" width="27" height="27" rx="5" fill="#A8C8E8"/>
-        <text font-size="12" class="value-labels-inner"><tspan x="256" y="100">25.4%</tspan></text>
-        <text font-size="12" class="value-labels-inner"><tspan x="371" y="100">26.8%</tspan></text>
-        <text font-size="10" class="value-labels-inner"><tspan x="620" y="100">28</tspan></text>
+        <text font-size="12" fill="#252521"><tspan x="83" y="100">To my knowledge, rates are</tspan><tspan x="73" y="113">consistent across similar roles</tspan></text>
+        <rect x="243" y="82" width="82" height="38" rx="2" fill="#E4774E"/>
+        <rect x="327" y="82" width="27" height="38" rx="2" fill="#E9C168"/>
+        <rect x="356" y="82" width="86" height="38" rx="2" fill="#82A555"/>
+        <rect x="518" y="82" width="127" height="38" rx="2" fill="#A8C8E8"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="266" y="105">25.4%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="381" y="105">26.8%</tspan></text>
+        <text font-size="12" text-anchor="middle" class="value-labels-inner"><tspan x="582" y="105">39.4%</tspan></text>
       </g>
 
       <g class="row-1">
-        <text font-size="10"><tspan x="30" y="138">To my knowledge, all genders are paid equally</tspan></text>
-        <rect x="257" y="121" width="58" height="27" rx="5" fill="#E4774E"/>
-        <rect x="317" y="121" width="27" height="27" rx="5" fill="#E9C168"/>
-        <rect x="346" y="121" width="80" height="27" rx="5" fill="#82A555"/>
-        <rect x="617" y="121" width="27" height="27" rx="5" fill="#A8C8E8"/>
-        <text font-size="12" class="value-labels-inner"><tspan x="268" y="139">18.1%</tspan></text>
-        <text font-size="12" class="value-labels-inner"><tspan x="368" y="139">25.0%</tspan></text>
-        <text font-size="10" class="value-labels-inner"><tspan x="620" y="139">35</tspan></text>
+        <text font-size="12" fill="#252521"><tspan x="12" y="157">To my knowledge, all genders are paid equally</tspan></text>
+        <rect x="267" y="132" width="58" height="38" rx="2" fill="#E4774E"/>
+        <rect x="327" y="132" width="27" height="38" rx="2" fill="#E9C168"/>
+        <rect x="356" y="132" width="80" height="38" rx="2" fill="#82A555"/>
+        <rect x="488" y="132" width="157" height="38" rx="2" fill="#A8C8E8"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="281" y="155">18.1%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="378" y="155">25.0%</tspan></text>
+        <text font-size="12" text-anchor="middle" class="value-labels-inner"><tspan x="567" y="155">48.6%</tspan></text>
       </g>
 
       <g class="row-2">
-        <text font-size="10"><tspan x="86" y="170">My role is sufficiently</tspan><tspan x="126" y="181">valued / funded</tspan></text>
-        <rect x="211" y="160" width="96" height="27" rx="5" fill="#E4774E"/>
-        <rect x="309" y="160" width="42" height="27" rx="5" fill="#E9C168"/>
-        <rect x="353" y="160" width="184" height="27" rx="5" fill="#82A555"/>
-        <text font-size="12" class="value-labels-inner"><tspan x="241" y="178">29.9%</tspan></text>
-        <text font-size="12" class="value-labels-inner"><tspan x="312" y="178">13.0%</tspan></text>
-        <text font-size="12" class="value-labels-inner"><tspan x="427" y="178">57.1%</tspan></text>
+        <text font-size="12" fill="#252521"><tspan x="91" y="200">My role is sufficiently</tspan><tspan x="100" y="213">valued / funded</tspan></text>
+        <rect x="221" y="182" width="96" height="38" rx="2" fill="#E4774E"/>
+        <rect x="319" y="182" width="42" height="38" rx="2" fill="#E9C168"/>
+        <rect x="363" y="182" width="184" height="38" rx="2" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="251" y="205">29.9%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="325" y="205">13.0%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="437" y="205">57.1%</tspan></text>
       </g>
 
       <g class="row-3">
-        <text font-size="10"><tspan x="31" y="216">I like and/or respect my managers and team leaders</tspan></text>
-        <rect x="291" y="199" width="25" height="27" rx="5" fill="#E4774E"/>
-        <rect x="318" y="199" width="25" height="27" rx="5" fill="#E9C168"/>
-        <rect x="345" y="199" width="271" height="27" rx="5" fill="#82A555"/>
-        <text font-size="12" class="value-labels-inner"><tspan x="462" y="217">84.2%</tspan></text>
+        <text font-size="12" fill="#252521"><tspan x="15" y="257">I like and/or respect my managers and team leaders</tspan></text>
+        <rect x="301" y="232" width="25" height="38" rx="2" fill="#E4774E"/>
+        <rect x="328" y="232" width="25" height="38" rx="2" fill="#E9C168"/>
+        <rect x="355" y="232" width="271" height="38" rx="2" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="472" y="255">84.2%</tspan></text>
       </g>
 
       <g class="row-4">
-        <text font-size="10"><tspan x="130" y="255">I like and/or respect my co-workers</tspan></text>
-        <rect x="315" y="238" width="5" height="27" rx="5" fill="#E4774E"/>
-        <rect x="322" y="238" width="17" height="27" rx="5" fill="#E9C168"/>
-        <rect x="341" y="238" width="300" height="27" rx="5" fill="#82A555"/>
-        <text font-size="12" class="value-labels-inner"><tspan x="473" y="256">93.2%</tspan></text>
+        <text font-size="12" fill="#252521"><tspan x="125" y="307">I like and/or respect my co-workers</tspan></text>
+        <rect x="319" y="282" width="5" height="38" rx="2" fill="#E4774E"/>
+        <rect x="326" y="282" width="17" height="38" rx="2" fill="#E9C168"/>
+        <rect x="345" y="282" width="300" height="38" rx="2" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="477" y="305">93.2%</tspan></text>
       </g>
 
       <g class="row-5">
-        <text font-size="10"><tspan x="65" y="294">I like and/or respect my organization</tspan></text>
-        <rect x="260" y="277" width="30" height="27" rx="5" fill="#E4774E"/>
-        <rect x="292" y="277" width="77" height="27" rx="5" fill="#E9C168"/>
-        <rect x="371" y="277" width="215" height="27" rx="5" fill="#82A555"/>
-        <text font-size="12" class="value-labels-inner"><tspan x="312" y="295">24.0%</tspan></text>
-        <text font-size="12" class="value-labels-inner"><tspan x="460" y="295">66.7%</tspan></text>
+        <text font-size="12" fill="#252521"><tspan x="65" y="357">I like and/or respect my organization</tspan></text>
+        <rect x="270" y="332" width="30" height="38" rx="2" fill="#E4774E"/>
+        <rect x="302" y="332" width="77" height="38" rx="2" fill="#E9C168"/>
+        <rect x="381" y="332" width="215" height="38" rx="2" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="322" y="355">24.0%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="470" y="355">66.7%</tspan></text>
       </g>
 
       <g class="row-6">
-        <text font-size="10"><tspan x="34" y="326">I&#x2019;m satisfied with our</tspan><tspan x="30" y="337">methodologies, systems and practices</tspan></text>
-        <rect x="189" y="316" width="99" height="27" rx="5" fill="#E4774E"/>
-        <rect x="290" y="316" width="81" height="27" rx="5" fill="#E9C168"/>
-        <rect x="373" y="316" width="142" height="27" rx="5" fill="#82A555"/>
-        <text font-size="12" class="value-labels-inner"><tspan x="220" y="334">30.7%</tspan></text>
-        <text font-size="12" class="value-labels-inner"><tspan x="312" y="334">25.3%</tspan></text>
-        <text font-size="12" class="value-labels-inner"><tspan x="426" y="334">44.0%</tspan></text>
+        <text font-size="12" fill="#252521"><tspan x="43" y="400">I&#x2019;m satisfied with our</tspan><tspan x="6" y="413">methodologies, systems &amp; practices</tspan></text>
+        <rect x="199" y="382" width="99" height="38" rx="2" fill="#E4774E"/>
+        <rect x="300" y="382" width="81" height="38" rx="2" fill="#E9C168"/>
+        <rect x="383" y="382" width="142" height="38" rx="2" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="230" y="405">30.7%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="322" y="405">25.3%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="436" y="405">44.0%</tspan></text>
       </g>
 
     </g>

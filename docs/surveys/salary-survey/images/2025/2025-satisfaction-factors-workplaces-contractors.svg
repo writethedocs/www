@@ -1,4 +1,4 @@
-<svg viewBox="0 55 660 235" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 20 660 280" fill="none" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
     <style type="text/css">
@@ -6,6 +6,19 @@
         @import url(/_static/survey/css/2025-svg.css);
       ]]>
     </style>
+    <filter id="label-bg" x="-15%" y="-40%" width="130%" height="180%">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="3" result="expanded"/>
+      <feGaussianBlur in="expanded" stdDeviation="5" result="blurred"/>
+      <feComponentTransfer in="blurred" result="rounded">
+        <feFuncA type="linear" slope="20" intercept="-5"/>
+      </feComponentTransfer>
+      <feFlood flood-color="white" flood-opacity="0.8" result="color"/>
+      <feComposite in="color" in2="rounded" operator="in" result="bg"/>
+      <feMerge>
+        <feMergeNode in="bg"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
   <g id="2025-satisfaction-factors-workplaces-contractors">
@@ -18,44 +31,45 @@
     <g class="bar-chart-horizontal">
 
       <g class="legend">
-        <circle cx="235" cy="263" r="6" fill="#E4774E"/>
-        <circle cx="319" cy="263" r="6" fill="#E9C168"/>
-        <circle cx="397" cy="263" r="6" fill="#82A555"/>
-        <text font-size="10"><tspan x="245" y="267">Disagree</tspan></text>
-        <text font-size="10"><tspan x="329" y="267">Neutral</tspan></text>
-        <text font-size="10"><tspan x="407" y="267">Agree</tspan></text>
+        <rect x="469" y="35" width="176" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
+        <circle cx="482" cy="45" r="6" fill="#E4774E"/>
+        <circle cx="545" cy="45" r="6" fill="#E9C168"/>
+        <circle cx="603" cy="45" r="6" fill="#82A555"/>
+        <text font-size="10" fill="#252521"><tspan x="492" y="49">Disagree</tspan></text>
+        <text font-size="10" fill="#252521"><tspan x="555" y="49">Neutral</tspan></text>
+        <text font-size="10" fill="#252521"><tspan x="613" y="49">Agree</tspan></text>
       </g>
 
       <g class="row-0">
-        <text font-size="10"><tspan x="101" y="99">I have flexibility in my work location</tspan></text>
-        <rect x="301" y="82" width="21" height="27" rx="5" fill="#E4774E"/>
-        <rect x="324" y="82" width="12" height="27" rx="5" fill="#E9C168"/>
-        <rect x="338" y="82" width="289" height="27" rx="5" fill="#82A555"/>
-        <text font-size="12" class="value-labels-inner"><tspan x="464" y="100">89.7%</tspan></text>
+        <text font-size="12" fill="#252521"><tspan x="101" y="107">I have flexibility in my work location</tspan></text>
+        <rect x="301" y="82" width="21" height="38" rx="5" fill="#E4774E"/>
+        <rect x="324" y="82" width="12" height="38" rx="5" fill="#E9C168"/>
+        <rect x="338" y="82" width="289" height="38" rx="5" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="464" y="105">89.7%</tspan></text>
       </g>
 
       <g class="row-1">
-        <text font-size="10"><tspan x="91" y="138">Our remote work environment functions well</tspan></text>
-        <rect x="311" y="121" width="13" height="27" rx="5" fill="#E4774E"/>
-        <rect x="326" y="121" width="9" height="27" rx="5" fill="#E9C168"/>
-        <rect x="337" y="121" width="300" height="27" rx="5" fill="#82A555"/>
-        <text font-size="12" class="value-labels-inner"><tspan x="469" y="139">93.2%</tspan></text>
+        <text font-size="12" fill="#252521"><tspan x="65" y="157">Our remote work environment functions well</tspan></text>
+        <rect x="311" y="132" width="13" height="38" rx="5" fill="#E4774E"/>
+        <rect x="326" y="132" width="9" height="38" rx="5" fill="#E9C168"/>
+        <rect x="337" y="132" width="300" height="38" rx="5" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="469" y="155">93.2%</tspan></text>
       </g>
 
       <g class="row-2">
-        <text font-size="10"><tspan x="72" y="177">Our on-site work environment functions well</tspan></text>
-        <rect x="297" y="160" width="21" height="27" rx="5" fill="#E4774E"/>
-        <rect x="320" y="160" width="21" height="27" rx="5" fill="#E9C168"/>
-        <rect x="343" y="160" width="280" height="27" rx="5" fill="#82A555"/>
-        <text font-size="12" class="value-labels-inner"><tspan x="465" y="178">87.1%</tspan></text>
+        <text font-size="12" fill="#252521"><tspan x="55" y="207">Our on-site work environment functions well</tspan></text>
+        <rect x="297" y="182" width="21" height="38" rx="5" fill="#E4774E"/>
+        <rect x="320" y="182" width="21" height="38" rx="5" fill="#E9C168"/>
+        <rect x="343" y="182" width="280" height="38" rx="5" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="465" y="205">87.1%</tspan></text>
       </g>
 
       <g class="row-3">
-        <text font-size="10"><tspan x="81" y="216">Our hybrid work environment functions well</tspan></text>
-        <rect x="301" y="199" width="11" height="27" rx="5" fill="#E4774E"/>
-        <rect x="314" y="199" width="32" height="27" rx="5" fill="#E9C168"/>
-        <rect x="348" y="199" width="279" height="27" rx="5" fill="#82A555"/>
-        <text font-size="12" class="value-labels-inner"><tspan x="469" y="217">86.7%</tspan></text>
+        <text font-size="12" fill="#252521"><tspan x="55" y="257">Our hybrid work environment functions well</tspan></text>
+        <rect x="301" y="232" width="11" height="38" rx="5" fill="#E4774E"/>
+        <rect x="314" y="232" width="32" height="38" rx="5" fill="#E9C168"/>
+        <rect x="348" y="232" width="279" height="38" rx="5" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="469" y="255">86.7%</tspan></text>
       </g>
 
     </g>

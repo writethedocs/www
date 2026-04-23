@@ -42,6 +42,10 @@ text {
 
 .donut-chart, .bar-chart-horizontal {
 
+	rect {
+		rx: 2;
+	}
+
 	text.value-labels-inner {
 		font-size: 12px;
 		font-weight: 700;
