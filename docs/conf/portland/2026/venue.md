@@ -44,6 +44,12 @@ Bus transit stops are located near the venue. All transit in Portland announce m
 - <a href="../attendee-guide/#attendee-lounge">Attendee Lounge</a> and additional seating: Sunset Room
 - <a href="../attendee-guide/#professional-headshots">Professional Headshot Booth</a>: near the Sponsor Expo
 
+## Accessibility
+
+The venue is fully step-free and wheelchair accessible. Elevator access is available to the 2nd and 3rd floors. There are two ADA parking spots in the guest parking lot south of the venue.
+
+For full details on accessibility accommodations, see the [Accessibility section of our Attendee Guide](/conf/{{shortcode}}/{{year}}/attendee-guide/#accessibility).
+
 ### Other Venue Spaces (open to the public)
 
 - Show Bar: 5-11 PM
