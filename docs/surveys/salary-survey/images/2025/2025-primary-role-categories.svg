@@ -8,7 +8,7 @@
     </style>
   </defs>
 
-  <g id="2025-primary-role-categories">
+  <g id="2025-primary-role-categories" class="scale-single-series">
 
     <g class="title">
       <text font-size="14"><tspan x="40" y="25">Primary role categories</tspan></text>
@@ -40,7 +40,7 @@
     </g>
 
     <!-- Bars -->
-    <g fill="#00AEFF">
+      <g class="series-a">
       <!-- Technical writer: 81.2% — truncated, drawn to near-full chart width -->
       <rect x="228" y="62" width="342" height="28"/>
       <!-- Project / product manager: 2.6% = 303px -->

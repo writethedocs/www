@@ -8,7 +8,7 @@
     </style>
   </defs>
 
-  <g id="2025-salary-by-org-size">
+  <g id="2025-salary-by-org-size" class="scale-salary-lines">
 
     <g class="title">
       <text font-size="14"><tspan x="40" y="20">Median salary (USD) by organization size</tspan></text>
@@ -17,14 +17,14 @@
 
     <!-- Legend (right-aligned, boxed, 15px margins) -->
     <rect x="360" y="55" width="285" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
-    <line x1="366" y1="65" x2="388" y2="65" stroke="#E4774E" stroke-width="2.5"/>
-    <circle cx="377" cy="65" r="4" fill="#E4774E"/>
+    <line x1="366" y1="65" x2="388" y2="65" class="worldwide" stroke-width="2.5"/>
+    <circle cx="377" cy="65" r="4" class="worldwide"/>
     <text font-size="10" fill="#252521"><tspan x="393" y="69">Worldwide</tspan></text>
-    <line x1="459" y1="65" x2="481" y2="65" stroke="#1A4A8C" stroke-width="2.5"/>
-    <circle cx="470" cy="65" r="4" fill="#1A4A8C"/>
+    <line x1="459" y1="65" x2="481" y2="65" class="north-america" stroke-width="2.5"/>
+    <circle cx="470" cy="65" r="4" class="north-america"/>
     <text font-size="10" fill="#252521"><tspan x="486" y="69">North America</tspan></text>
-    <line x1="576" y1="65" x2="598" y2="65" stroke="#82A555" stroke-width="2.5"/>
-    <circle cx="587" cy="65" r="4" fill="#82A555"/>
+    <line x1="576" y1="65" x2="598" y2="65" class="europe" stroke-width="2.5"/>
+    <circle cx="587" cy="65" r="4" class="europe"/>
     <text font-size="10" fill="#252521"><tspan x="603" y="69">Europe</tspan></text>
 
     <!-- Horizontal grid lines — same y scale as 2025-salary-by-experience.svg -->
@@ -60,33 +60,33 @@
     <!-- Source: tbl-2025-salary-by-organization-size -->
     <!-- $81,000→215.1, $80,591→215.7, $95,000→196.3, $121,000→161.4, $129,400→150.1 -->
     <polyline points="90,215.1 210,215.7 330,196.3 450,161.4 570,150.1"
-              fill="none" stroke="#E4774E" stroke-width="2.5" stroke-linejoin="round"/>
-    <circle cx="90"  cy="215.1" r="4" fill="#E4774E"/>
-    <circle cx="210" cy="215.7" r="4" fill="#E4774E"/>
-    <circle cx="330" cy="196.3" r="4" fill="#E4774E"/>
-    <circle cx="450" cy="161.4" r="4" fill="#E4774E"/>
-    <circle cx="570" cy="150.1" r="4" fill="#E4774E"/>
+              fill="none" class="worldwide" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="90"  cy="215.1" r="4" class="worldwide"/>
+    <circle cx="210" cy="215.7" r="4" class="worldwide"/>
+    <circle cx="330" cy="196.3" r="4" class="worldwide"/>
+    <circle cx="450" cy="161.4" r="4" class="worldwide"/>
+    <circle cx="570" cy="150.1" r="4" class="worldwide"/>
 
     <!-- North America median line (#1A4A8C) -->
     <!-- Source: tbl-2025-salary-by-organization-size-north-america -->
     <!-- $120,000→162.7, $112,000→173.5, $104,474→183.6, $141,196→134.3, $145,000→129.2 -->
     <polyline points="90,162.7 210,173.5 330,183.6 450,134.3 570,129.2"
-              fill="none" stroke="#1A4A8C" stroke-width="2.5" stroke-linejoin="round"/>
-    <circle cx="90"  cy="162.7" r="4" fill="#1A4A8C"/>
-    <circle cx="210" cy="173.5" r="4" fill="#1A4A8C"/>
-    <circle cx="330" cy="183.6" r="4" fill="#1A4A8C"/>
-    <circle cx="450" cy="134.3" r="4" fill="#1A4A8C"/>
-    <circle cx="570" cy="129.2" r="4" fill="#1A4A8C"/>
+              fill="none" class="north-america" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="90"  cy="162.7" r="4" class="north-america"/>
+    <circle cx="210" cy="173.5" r="4" class="north-america"/>
+    <circle cx="330" cy="183.6" r="4" class="north-america"/>
+    <circle cx="450" cy="134.3" r="4" class="north-america"/>
+    <circle cx="570" cy="129.2" r="4" class="north-america"/>
 
     <!-- Europe median line (#82A555) — 4 data points only (no 100,000+ in Europe table) -->
     <!-- Source: tbl-2025-salary-by-organization-size-europe -->
     <!-- $63,801→238.2, $62,130→240.5, $72,716→226.2, $90,370→202.5 -->
     <polyline points="90,238.2 210,240.5 330,226.2 450,202.5"
-              fill="none" stroke="#82A555" stroke-width="2.5" stroke-linejoin="round"/>
-    <circle cx="90"  cy="238.2" r="4" fill="#82A555"/>
-    <circle cx="210" cy="240.5" r="4" fill="#82A555"/>
-    <circle cx="330" cy="226.2" r="4" fill="#82A555"/>
-    <circle cx="450" cy="202.5" r="4" fill="#82A555"/>
+              fill="none" class="europe" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="90"  cy="238.2" r="4" class="europe"/>
+    <circle cx="210" cy="240.5" r="4" class="europe"/>
+    <circle cx="330" cy="226.2" r="4" class="europe"/>
+    <circle cx="450" cy="202.5" r="4" class="europe"/>
 
   </g>
 

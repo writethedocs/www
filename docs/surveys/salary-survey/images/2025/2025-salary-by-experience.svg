@@ -8,7 +8,7 @@
     </style>
   </defs>
 
-  <g id="2025-salary-by-experience">
+  <g id="2025-salary-by-experience" class="scale-salary-lines">
 
     <g class="title">
       <text font-size="14"><tspan x="40" y="20">Median salary (USD) by years of experience</tspan></text>
@@ -21,14 +21,14 @@
 
     <!-- Legend (right-aligned, 15px margins, boxed, above chart area) -->
     <rect x="360" y="55" width="285" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
-    <line x1="366" y1="65" x2="388" y2="65" stroke="#E4774E" stroke-width="2.5"/>
-    <circle cx="377" cy="65" r="4" fill="#E4774E"/>
+    <line x1="366" y1="65" x2="388" y2="65" class="worldwide" stroke-width="2.5"/>
+    <circle cx="377" cy="65" r="4" class="worldwide"/>
     <text font-size="10" fill="#252521"><tspan x="393" y="69">Worldwide</tspan></text>
-    <line x1="459" y1="65" x2="481" y2="65" stroke="#1A4A8C" stroke-width="2.5"/>
-    <circle cx="470" cy="65" r="4" fill="#1A4A8C"/>
+    <line x1="459" y1="65" x2="481" y2="65" class="north-america" stroke-width="2.5"/>
+    <circle cx="470" cy="65" r="4" class="north-america"/>
     <text font-size="10" fill="#252521"><tspan x="486" y="69">North America</tspan></text>
-    <line x1="576" y1="65" x2="598" y2="65" stroke="#82A555" stroke-width="2.5"/>
-    <circle cx="587" cy="65" r="4" fill="#82A555"/>
+    <line x1="576" y1="65" x2="598" y2="65" class="europe" stroke-width="2.5"/>
+    <circle cx="587" cy="65" r="4" class="europe"/>
     <text font-size="10" fill="#252521"><tspan x="603" y="69">Europe</tspan></text>
 
     <!-- Horizontal grid lines -->
@@ -62,33 +62,33 @@
 
     <!-- Worldwide line: #E4774E -->
     <polyline points="90,234.4 186,234.1 282,207.1 378,183.2 474,179.0 570,162.7"
-              fill="none" stroke="#E4774E" stroke-width="2.5" stroke-linejoin="round"/>
-    <circle cx="90"  cy="234.4" r="4" fill="#E4774E"/>
-    <circle cx="186" cy="234.1" r="4" fill="#E4774E"/>
-    <circle cx="282" cy="207.1" r="4" fill="#E4774E"/>
-    <circle cx="378" cy="183.2" r="4" fill="#E4774E"/>
-    <circle cx="474" cy="179.0" r="4" fill="#E4774E"/>
-    <circle cx="570" cy="162.7" r="4" fill="#E4774E"/>
+              fill="none" class="worldwide" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="90"  cy="234.4" r="4" class="worldwide"/>
+    <circle cx="186" cy="234.1" r="4" class="worldwide"/>
+    <circle cx="282" cy="207.1" r="4" class="worldwide"/>
+    <circle cx="378" cy="183.2" r="4" class="worldwide"/>
+    <circle cx="474" cy="179.0" r="4" class="worldwide"/>
+    <circle cx="570" cy="162.7" r="4" class="worldwide"/>
 
     <!-- North America line: #1A4A8C -->
     <polyline points="90,209.4 186,207.9 282,178.8 378,137.9 474,129.1 570,140.5"
-              fill="none" stroke="#1A4A8C" stroke-width="2.5" stroke-linejoin="round"/>
-    <circle cx="90"  cy="209.4" r="4" fill="#1A4A8C"/>
-    <circle cx="186" cy="207.9" r="4" fill="#1A4A8C"/>
-    <circle cx="282" cy="178.8" r="4" fill="#1A4A8C"/>
-    <circle cx="378" cy="137.9" r="4" fill="#1A4A8C"/>
-    <circle cx="474" cy="129.1" r="4" fill="#1A4A8C"/>
-    <circle cx="570" cy="140.5" r="4" fill="#1A4A8C"/>
+              fill="none" class="north-america" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="90"  cy="209.4" r="4" class="north-america"/>
+    <circle cx="186" cy="207.9" r="4" class="north-america"/>
+    <circle cx="282" cy="178.8" r="4" class="north-america"/>
+    <circle cx="378" cy="137.9" r="4" class="north-america"/>
+    <circle cx="474" cy="129.1" r="4" class="north-america"/>
+    <circle cx="570" cy="140.5" r="4" class="north-america"/>
 
     <!-- Europe line: #82A555 -->
     <polyline points="90,235.9 186,258.7 282,229.9 378,223.5 474,218.1 570,217.7"
-              fill="none" stroke="#82A555" stroke-width="2.5" stroke-linejoin="round"/>
-    <circle cx="90"  cy="235.9" r="4" fill="#82A555"/>
-    <circle cx="186" cy="258.7" r="4" fill="#82A555"/>
-    <circle cx="282" cy="229.9" r="4" fill="#82A555"/>
-    <circle cx="378" cy="223.5" r="4" fill="#82A555"/>
-    <circle cx="474" cy="218.1" r="4" fill="#82A555"/>
-    <circle cx="570" cy="217.7" r="4" fill="#82A555"/>
+              fill="none" class="europe" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="90"  cy="235.9" r="4" class="europe"/>
+    <circle cx="186" cy="258.7" r="4" class="europe"/>
+    <circle cx="282" cy="229.9" r="4" class="europe"/>
+    <circle cx="378" cy="223.5" r="4" class="europe"/>
+    <circle cx="474" cy="218.1" r="4" class="europe"/>
+    <circle cx="570" cy="217.7" r="4" class="europe"/>
 
   </g>
 

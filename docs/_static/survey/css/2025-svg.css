@@ -9,6 +9,7 @@
 --color-series-b: #FFA600;
 --color-blue-dark: #1A4A8C;
 --color-blue-light: #7EA4FF;
+--color-blue-range: #A8C8E8;
 --color-orange-dark: #E4774E;
 --color-orange-light: #FFD080;
 --color-red: #C94040;
@@ -291,6 +292,131 @@ filter: url(#label-bg);
 
   .not-specified {
     fill: var(--color-grey);
+  }
+
+}
+
+.scale-single-series {
+
+  .series-a {
+    fill: var(--color-series-a);
+  }
+
+}
+
+.scale-employment-history {
+
+  .employees {
+    fill: var(--color-series-a);
+  }
+
+  .contractors {
+    fill: var(--color-series-b);
+  }
+
+  .employee-contractors {
+    fill: var(--color-more);
+  }
+
+}
+
+.scale-statement-bars {
+
+  .disagree {
+    fill: var(--color-satisfaction-unsatisfied);
+  }
+
+  .neutral {
+    fill: var(--color-satisfaction-neutral);
+  }
+
+  .agree {
+    fill: var(--color-satisfaction-satisfied);
+  }
+
+  .dont-know {
+    fill: var(--color-blue-range);
+  }
+
+}
+
+.scale-salary-lines {
+
+  line.worldwide,
+  path.worldwide,
+  polyline.worldwide {
+    fill: none;
+    stroke: var(--color-orange-dark);
+  }
+
+  circle.worldwide {
+    fill: var(--color-orange-dark);
+  }
+
+  line.north-america,
+  path.north-america,
+  polyline.north-america {
+    fill: none;
+    stroke: var(--color-blue-dark);
+  }
+
+  circle.north-america {
+    fill: var(--color-blue-dark);
+  }
+
+  line.europe,
+  path.europe,
+  polyline.europe {
+    fill: none;
+    stroke: var(--color-satisfaction-satisfied);
+  }
+
+  circle.europe {
+    fill: var(--color-satisfaction-satisfied);
+  }
+
+}
+
+.scale-salary-range {
+
+  .percentile-range {
+    fill: var(--color-blue-range);
+  }
+
+  line.median {
+    stroke: var(--color-blue-dark);
+  }
+
+  circle.median-only {
+    fill: var(--color-blue-dark);
+  }
+
+}
+
+.scale-salary-state {
+
+  rect.state-bar {
+    fill: var(--color-blue-dark);
+  }
+
+  line.benchmark {
+    stroke: var(--color-orange-dark);
+  }
+
+  text.benchmark {
+    fill: var(--color-orange-dark);
+  }
+
+}
+
+.scale-gender-gap {
+
+  circle.women {
+    fill: var(--color-orange-dark);
+  }
+
+  circle.men {
+    fill: var(--color-blue-dark);
   }
 
 }

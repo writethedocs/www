@@ -28,13 +28,13 @@
       <text font-size="12" class="subtitle"><tspan x="40" y="49">Contractors</tspan></text>
     </g>
 
-    <g class="bar-chart-horizontal">
+    <g class="bar-chart-horizontal scale-statement-bars">
 
       <g class="legend">
         <rect x="469" y="35" width="176" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
-        <circle cx="482" cy="45" r="6" fill="#E4774E"/>
-        <circle cx="545" cy="45" r="6" fill="#E9C168"/>
-        <circle cx="603" cy="45" r="6" fill="#82A555"/>
+        <circle cx="482" cy="45" r="6" class="disagree"/>
+        <circle cx="545" cy="45" r="6" class="neutral"/>
+        <circle cx="603" cy="45" r="6" class="agree"/>
         <text font-size="10" fill="#252521"><tspan x="492" y="49">Disagree</tspan></text>
         <text font-size="10" fill="#252521"><tspan x="555" y="49">Neutral</tspan></text>
         <text font-size="10" fill="#252521"><tspan x="613" y="49">Agree</tspan></text>
@@ -42,42 +42,42 @@
 
       <g class="row-0">
         <text font-size="12" fill="#252521"><tspan x="173" y="107">My hours are reasonable</tspan></text>
-        <rect x="314" y="82" width="4" height="38" rx="5" fill="#E4774E"/>
-        <rect x="320" y="82" width="20" height="38" rx="5" fill="#E9C168"/>
-        <rect x="342" y="82" width="298" height="38" rx="5" fill="#82A555"/>
+        <rect x="314" y="82" width="4" height="38" rx="5" class="disagree"/>
+        <rect x="320" y="82" width="20" height="38" rx="5" class="neutral"/>
+        <rect x="342" y="82" width="298" height="38" rx="5" class="agree"/>
         <text font-size="12" class="value-labels-inner"><tspan x="473" y="105">92.5%</tspan></text>
       </g>
 
       <g class="row-1">
         <text font-size="12" fill="#252521"><tspan x="141" y="157">I have flexibility in my hours</tspan></text>
-        <rect x="298" y="132" width="20" height="38" rx="5" fill="#E4774E"/>
-        <rect x="320" y="132" width="20" height="38" rx="5" fill="#E9C168"/>
-        <rect x="342" y="132" width="282" height="38" rx="5" fill="#82A555"/>
+        <rect x="298" y="132" width="20" height="38" rx="5" class="disagree"/>
+        <rect x="320" y="132" width="20" height="38" rx="5" class="neutral"/>
+        <rect x="342" y="132" width="282" height="38" rx="5" class="agree"/>
         <text font-size="12" class="value-labels-inner"><tspan x="465" y="155">87.5%</tspan></text>
       </g>
 
       <g class="row-2">
         <text font-size="12" fill="#252521"><tspan x="110" y="207">My responsibilities are reasonable</tspan></text>
-        <rect x="300" y="182" width="16" height="38" rx="5" fill="#E4774E"/>
-        <rect x="318" y="182" width="24" height="38" rx="5" fill="#E9C168"/>
-        <rect x="344" y="182" width="282" height="38" rx="5" fill="#82A555"/>
+        <rect x="300" y="182" width="16" height="38" rx="5" class="disagree"/>
+        <rect x="318" y="182" width="24" height="38" rx="5" class="neutral"/>
+        <rect x="344" y="182" width="282" height="38" rx="5" class="agree"/>
         <text font-size="12" class="value-labels-inner"><tspan x="467" y="205">87.5%</tspan></text>
       </g>
 
       <g class="row-3">
         <text font-size="12" fill="#252521"><tspan x="133" y="257">My workload is manageable</tspan></text>
-        <rect x="288" y="232" width="20" height="38" rx="5" fill="#E4774E"/>
-        <rect x="310" y="232" width="40" height="38" rx="5" fill="#E9C168"/>
-        <rect x="352" y="232" width="261" height="38" rx="5" fill="#82A555"/>
+        <rect x="288" y="232" width="20" height="38" rx="5" class="disagree"/>
+        <rect x="310" y="232" width="40" height="38" rx="5" class="neutral"/>
+        <rect x="352" y="232" width="261" height="38" rx="5" class="agree"/>
         <text font-size="12" class="value-labels-inner"><tspan x="315" y="255">12.5%</tspan></text>
         <text font-size="12" class="value-labels-inner"><tspan x="464" y="255">81.2%</tspan></text>
       </g>
 
       <g class="row-4">
         <text font-size="12" fill="#252521"><tspan x="15" y="300">I have opportunities for</tspan><tspan x="19" y="313">career advancement</tspan></text>
-        <rect x="148" y="282" width="130" height="38" rx="5" fill="#E4774E"/>
-        <rect x="280" y="282" width="101" height="38" rx="5" fill="#E9C168"/>
-        <rect x="383" y="282" width="91" height="38" rx="5" fill="#82A555"/>
+        <rect x="148" y="282" width="130" height="38" rx="5" class="disagree"/>
+        <rect x="280" y="282" width="101" height="38" rx="5" class="neutral"/>
+        <rect x="383" y="282" width="91" height="38" rx="5" class="agree"/>
         <text font-size="12" class="value-labels-inner"><tspan x="195" y="305">40.3%</tspan></text>
         <text font-size="12" class="value-labels-inner"><tspan x="312" y="305">31.3%</tspan></text>
         <text font-size="12" class="value-labels-inner"><tspan x="410" y="305">28.4%</tspan></text>
@@ -85,9 +85,9 @@
 
       <g class="row-5">
         <text font-size="12" fill="#252521"><tspan x="70" y="350">I have opportunities for</tspan><tspan x="63" y="363">professional development</tspan></text>
-        <rect x="205" y="332" width="93" height="38" rx="5" fill="#E4774E"/>
-        <rect x="300" y="332" width="61" height="38" rx="5" fill="#E9C168"/>
-        <rect x="363" y="332" width="168" height="38" rx="5" fill="#82A555"/>
+        <rect x="205" y="332" width="93" height="38" rx="5" class="disagree"/>
+        <rect x="300" y="332" width="61" height="38" rx="5" class="neutral"/>
+        <rect x="363" y="332" width="168" height="38" rx="5" class="agree"/>
         <text font-size="12" class="value-labels-inner"><tspan x="233" y="355">29.0%</tspan></text>
         <text font-size="12" class="value-labels-inner"><tspan x="315" y="355">18.8%</tspan></text>
         <text font-size="12" class="value-labels-inner"><tspan x="429" y="355">52.2%</tspan></text>
@@ -95,9 +95,9 @@
 
       <g class="row-6">
         <text font-size="12" fill="#252521"><tspan x="131" y="400">My work is sufficiently</tspan><tspan x="121" y="413">interesting / challenging</tspan></text>
-        <rect x="256" y="382" width="52" height="38" rx="5" fill="#E4774E"/>
-        <rect x="310" y="382" width="40" height="38" rx="5" fill="#E9C168"/>
-        <rect x="352" y="382" width="229" height="38" rx="5" fill="#82A555"/>
+        <rect x="256" y="382" width="52" height="38" rx="5" class="disagree"/>
+        <rect x="310" y="382" width="40" height="38" rx="5" class="neutral"/>
+        <rect x="352" y="382" width="229" height="38" rx="5" class="agree"/>
         <text font-size="12" class="value-labels-inner"><tspan x="267" y="405">16.2%</tspan></text>
         <text font-size="12" class="value-labels-inner"><tspan x="315" y="405">12.5%</tspan></text>
         <text font-size="12" class="value-labels-inner"><tspan x="448" y="405">71.2%</tspan></text>
@@ -105,9 +105,9 @@
 
       <g class="row-7">
         <text font-size="12" fill="#252521"><tspan x="55" y="450">I&#x2019;m satisfied with the</tspan><tspan x="47" y="463">systems and toolsets I use</tspan></text>
-        <rect x="197" y="432" width="89" height="38" rx="5" fill="#E4774E"/>
-        <rect x="288" y="432" width="84" height="38" rx="5" fill="#E9C168"/>
-        <rect x="374" y="432" width="149" height="38" rx="5" fill="#82A555"/>
+        <rect x="197" y="432" width="89" height="38" rx="5" class="disagree"/>
+        <rect x="288" y="432" width="84" height="38" rx="5" class="neutral"/>
+        <rect x="374" y="432" width="149" height="38" rx="5" class="agree"/>
         <text font-size="12" class="value-labels-inner"><tspan x="226" y="455">27.5%</tspan></text>
         <text font-size="12" class="value-labels-inner"><tspan x="312" y="455">26.2%</tspan></text>
         <text font-size="12" class="value-labels-inner"><tspan x="430" y="455">46.2%</tspan></text>

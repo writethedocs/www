@@ -7,7 +7,7 @@
       ]]>
     </style>
   </defs>
-  <g id="2025-additional-role-categories">
+  <g id="2025-additional-role-categories" class="scale-single-series">
     <g class="title">
       <text font-size="14"><tspan x="40" y="25">Additional role categories</tspan></text>
       <text font-size="12" class="subtitle"><tspan x="40" y="41">All respondents (n=755) - top 10 of 19 categories</tspan></text>
@@ -34,7 +34,7 @@
       <text><tspan x="222" y="422">Project or product manager</tspan></text>
     </g>
 
-    <g fill="#00AEFF">
+      <g class="series-a">
       <rect x="228" y="62" width="313" height="28"/>
       <rect x="228" y="100" width="261" height="28"/>
       <rect x="228" y="138" width="200" height="28"/>

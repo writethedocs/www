@@ -15,7 +15,7 @@
       <text font-size="12" class="subtitle"><tspan x="40" y="49">Employees only (n=675)</tspan></text>
     </g>
 
-    <g class="bar-chart-vertical">
+    <g class="bar-chart-vertical scale-single-series">
 
       <g class="y-axis">
         <g class="gridlines">
@@ -57,7 +57,7 @@
 
       <g class="legend">
         <rect x="565" y="80" width="80" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
-        <circle cx="579" cy="90" r="6" fill="#00AEFF"/>
+        <circle class="series-a" cx="579" cy="90" r="6"/>
         <text font-size="10" fill="#252521"><tspan x="589" y="94">Employees</tspan></text>
       </g>
 

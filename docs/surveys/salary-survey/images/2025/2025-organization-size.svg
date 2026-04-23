@@ -15,7 +15,7 @@
       <text font-size="12" class="subtitle"><tspan x="40" y="49">Number of employees</tspan></text>
     </g>
 
-    <g class="bar-chart-vertical">
+    <g class="bar-chart-vertical scale-single-series">
 
       <g class="y-axis">
 
@@ -49,19 +49,19 @@
 
           <g class="bars">
             <!-- 1-10: 1.2% → top=362 -->
-            <rect x="71"  y="362" width="73" height="8"   rx="2" fill="#00AEFF"/>
+            <rect class="series-a" x="71"  y="362" width="73" height="8"   rx="2"/>
             <!-- 11-50: 4.9% → top=335 -->
-            <rect x="150" y="335" width="73" height="35"  rx="2" fill="#00AEFF"/>
+            <rect class="series-a" x="150" y="335" width="73" height="35"  rx="2"/>
             <!-- 51-100: 7.4% → top=318 -->
-            <rect x="229" y="318" width="72" height="52"  rx="2" fill="#00AEFF"/>
+            <rect class="series-a" x="229" y="318" width="72" height="52"  rx="2"/>
             <!-- 101-1,000: 34.4% → top=127 -->
-            <rect x="308" y="127" width="72" height="243" rx="2" fill="#00AEFF"/>
+            <rect class="series-a" x="308" y="127" width="72" height="243" rx="2"/>
             <!-- 1,001-10,000: 29.4% → top=162 -->
-            <rect x="387" y="162" width="72" height="208" rx="2" fill="#00AEFF"/>
+            <rect class="series-a" x="387" y="162" width="72" height="208" rx="2"/>
             <!-- 10,001-100,000: 14.4% → top=268 -->
-            <rect x="465" y="268" width="73" height="102" rx="2" fill="#00AEFF"/>
+            <rect class="series-a" x="465" y="268" width="73" height="102" rx="2"/>
             <!-- 100,000+: 8.3% → top=311 -->
-            <rect x="544" y="311" width="73" height="59"  rx="2" fill="#00AEFF"/>
+            <rect class="series-a" x="544" y="311" width="73" height="59"  rx="2"/>
           </g>
 
           <g class="value-labels">

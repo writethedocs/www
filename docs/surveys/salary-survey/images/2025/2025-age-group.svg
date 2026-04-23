@@ -17,7 +17,7 @@
 			<text font-size="12" class="subtitle"><tspan x="40" y="49">All respondents (n=755)</tspan></text>
 		</g>
 
-		<g class="bar-chart-vertical">
+<g class="bar-chart-vertical scale-single-series">
 
 			<g class="y-axis">
 
@@ -53,12 +53,12 @@
 					</g>
 
 					<g class="bars">
-						<rect x="76"  y="303" width="83" height="17"  rx="2" fill="#00AEFF"/>
-            <rect x="166" y="164" width="84" height="156" rx="2" fill="#00AEFF"/>
-            <rect x="257" y="137" width="83" height="183" rx="2" fill="#00AEFF"/>
-            <rect x="348" y="225" width="83" height="95"  rx="2" fill="#00AEFF"/>
-            <rect x="438" y="256" width="84" height="64"  rx="2" fill="#00AEFF"/>
-            <rect x="529" y="311" width="83" height="9"   rx="2" fill="#00AEFF"/>
+<rect class="series-a" x="76"  y="303" width="83" height="17"  rx="2"/>
+            <rect class="series-a" x="166" y="164" width="84" height="156" rx="2"/>
+            <rect class="series-a" x="257" y="137" width="83" height="183" rx="2"/>
+            <rect class="series-a" x="348" y="225" width="83" height="95"  rx="2"/>
+            <rect class="series-a" x="438" y="256" width="84" height="64"  rx="2"/>
+            <rect class="series-a" x="529" y="311" width="83" height="9"   rx="2"/>
 					</g>
 
 					<g class="value-labels">

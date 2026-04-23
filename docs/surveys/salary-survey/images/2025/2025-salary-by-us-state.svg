@@ -8,7 +8,7 @@
     </style>
   </defs>
 
-  <g id="2025-salary-by-us-state">
+  <g id="2025-salary-by-us-state" class="scale-salary-state">
 
     <g class="title">
       <text font-size="14"><tspan x="40" y="20">Median salary (USD) by US state</tspan></text>
@@ -41,61 +41,61 @@
     <line x1="65" y1="340" x2="640" y2="340" stroke="#CCCCCC" stroke-width="1"/>
 
     <!-- US median line: $125,000 → y=223 -->
-    <line x1="65" y1="223" x2="640" y2="223" stroke="#E4774E" stroke-width="1.5" stroke-dasharray="6 3"/>
-    <text font-size="9" text-anchor="end" fill="#E4774E"><tspan x="638" y="218">US median: $125K</tspan></text>
+    <line x1="65" y1="223" x2="640" y2="223" class="benchmark" stroke-width="1.5" stroke-dasharray="6 3"/>
+    <text font-size="9" text-anchor="end" class="benchmark"><tspan x="638" y="218">US median: $125K</tspan></text>
 
     <!-- Bars, sorted high to low, gap=13.2px between all bars and y-axis -->
 
     <!-- WA $164,000: center=93.2,  top=121.6, h=218.4 -->
-    <rect x="78.2"  y="121.6" width="30" height="218.4" fill="#1A4A8C"/>
+    <rect x="78.2"  y="121.6" width="30" height="218.4" class="state-bar"/>
     <text font-size="9" text-anchor="middle" fill="#252521"><tspan x="93.2"  y="355">WA</tspan></text>
 
     <!-- CA $160,000: center=136.4, top=132.0, h=208.0 -->
-    <rect x="121.4" y="132.0" width="30" height="208.0" fill="#1A4A8C"/>
+    <rect x="121.4" y="132.0" width="30" height="208.0" class="state-bar"/>
     <text font-size="9" text-anchor="middle" fill="#252521"><tspan x="136.4" y="355">CA</tspan></text>
 
     <!-- PA $141,250: center=179.6, top=180.8, h=159.2 -->
-    <rect x="164.6" y="180.8" width="30" height="159.2" fill="#1A4A8C"/>
+    <rect x="164.6" y="180.8" width="30" height="159.2" class="state-bar"/>
     <text font-size="9" text-anchor="middle" fill="#252521"><tspan x="179.6" y="355">PA</tspan></text>
 
     <!-- TX $141,072: center=222.8, top=181.2, h=158.8 -->
-    <rect x="207.8" y="181.2" width="30" height="158.8" fill="#1A4A8C"/>
+    <rect x="207.8" y="181.2" width="30" height="158.8" class="state-bar"/>
     <text font-size="9" text-anchor="middle" fill="#252521"><tspan x="222.8" y="355">TX</tspan></text>
 
     <!-- MA $132,000: center=266.0, top=204.8, h=135.2 -->
-    <rect x="251.0" y="204.8" width="30" height="135.2" fill="#1A4A8C"/>
+    <rect x="251.0" y="204.8" width="30" height="135.2" class="state-bar"/>
     <text font-size="9" text-anchor="middle" fill="#252521"><tspan x="266.0" y="355">MA</tspan></text>
 
     <!-- OR $127,800: center=309.2, top=215.7, h=124.3 -->
-    <rect x="294.2" y="215.7" width="30" height="124.3" fill="#1A4A8C"/>
+    <rect x="294.2" y="215.7" width="30" height="124.3" class="state-bar"/>
     <text font-size="9" text-anchor="middle" fill="#252521"><tspan x="309.2" y="355">OR</tspan></text>
 
     <!-- NY $127,500: center=352.4, top=216.5, h=123.5 -->
-    <rect x="337.4" y="216.5" width="30" height="123.5" fill="#1A4A8C"/>
+    <rect x="337.4" y="216.5" width="30" height="123.5" class="state-bar"/>
     <text font-size="9" text-anchor="middle" fill="#252521"><tspan x="352.4" y="355">NY</tspan></text>
 
     <!-- NC $119,800: center=395.6, top=236.5, h=103.5 -->
-    <rect x="380.6" y="236.5" width="30" height="103.5" fill="#1A4A8C"/>
+    <rect x="380.6" y="236.5" width="30" height="103.5" class="state-bar"/>
     <text font-size="9" text-anchor="middle" fill="#252521"><tspan x="395.6" y="355">NC</tspan></text>
 
     <!-- IL $117,500: center=438.8, top=242.5, h=97.5 -->
-    <rect x="423.8" y="242.5" width="30" height="97.5"  fill="#1A4A8C"/>
+    <rect x="423.8" y="242.5" width="30" height="97.5"  class="state-bar"/>
     <text font-size="9" text-anchor="middle" fill="#252521"><tspan x="438.8" y="355">IL</tspan></text>
 
     <!-- WI $111,000: center=482.0, top=259.4, h=80.6 -->
-    <rect x="467.0" y="259.4" width="30" height="80.6"  fill="#1A4A8C"/>
+    <rect x="467.0" y="259.4" width="30" height="80.6"  class="state-bar"/>
     <text font-size="9" text-anchor="middle" fill="#252521"><tspan x="482.0" y="355">WI</tspan></text>
 
     <!-- CO $106,800: center=525.2, top=270.3, h=69.7 -->
-    <rect x="510.2" y="270.3" width="30" height="69.7"  fill="#1A4A8C"/>
+    <rect x="510.2" y="270.3" width="30" height="69.7"  class="state-bar"/>
     <text font-size="9" text-anchor="middle" fill="#252521"><tspan x="525.2" y="355">CO</tspan></text>
 
     <!-- OH $105,480: center=568.4, top=273.8, h=66.2 -->
-    <rect x="553.4" y="273.8" width="30" height="66.2"  fill="#1A4A8C"/>
+    <rect x="553.4" y="273.8" width="30" height="66.2"  class="state-bar"/>
     <text font-size="9" text-anchor="middle" fill="#252521"><tspan x="568.4" y="355">OH</tspan></text>
 
     <!-- FL $102,564: center=611.6, top=281.3, h=58.7 -->
-    <rect x="596.6" y="281.3" width="30" height="58.7"  fill="#1A4A8C"/>
+    <rect x="596.6" y="281.3" width="30" height="58.7"  class="state-bar"/>
     <text font-size="9" text-anchor="middle" fill="#252521"><tspan x="611.6" y="355">FL</tspan></text>
 
   </g>

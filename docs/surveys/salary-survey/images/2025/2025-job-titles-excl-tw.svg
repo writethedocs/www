@@ -8,14 +8,14 @@
     </style>
   </defs>
 
-  <g id="2025-job-titles-excl-tw">
+  <g id="2025-job-titles-excl-tw" class="scale-single-series">
 
     <g class="title">
       <text font-size="14"><tspan x="40" y="25">Job titles</tspan></text>
       <text font-size="12" class="subtitle"><tspan x="40" y="41">All respondents, titles not containing &#x201C;Technical Writer&#x201D;, with 4 or more respondents shown</tspan></text>
     </g>
 
-    <g class="bar-chart-horizontal">
+    <g class="bar-chart-horizontal scale-single-series">
 
       <g class="gridlines">
         <line x1="341.3" y1="62" x2="341.3" y2="432" stroke="#F2F4F6" stroke-width="1"/>
@@ -38,7 +38,7 @@
         <text><tspan x="222" y="422">Technical Content Writer</tspan></text>
       </g>
 
-      <g fill="#00AEFF">
+      <g class="series-a">
         <rect x="228" y="62" width="249.3" height="28"/>
         <rect x="228" y="100" width="158.7" height="28"/>
         <rect x="228" y="138" width="158.7" height="28"/>

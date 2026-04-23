@@ -8,7 +8,7 @@
     </style>
   </defs>
 
-  <g id="2025-salary-gender-gap">
+  <g id="2025-salary-gender-gap" class="scale-gender-gap">
 
     <g class="title">
       <text font-size="14"><tspan x="40" y="33">Median salary by gender identity (USD)</tspan></text>
@@ -22,9 +22,9 @@
     <!-- Legend (right-aligned, 15px right margin, 15px top margin, 6px internal padding) -->
     <!-- Box: right edge=645 (660-15), top=65 (50+15), bottom=89, legend-to-graph gap=15px -->
     <rect x="529" y="65" width="116" height="24" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
-    <circle cx="541" cy="77" r="6" fill="#E4774E"/>
+    <circle cx="541" cy="77" r="6" class="women"/>
     <text font-size="10" fill="#252521"><tspan x="552" y="81">Women</tspan></text>
-    <circle cx="606" cy="77" r="6" fill="#1A4A8C"/>
+    <circle cx="606" cy="77" r="6" class="men"/>
     <text font-size="10" fill="#252521"><tspan x="617" y="81">Men</tspan></text>
 
     <!-- Grid lines (start at y=104, 15px below legend bottom at y=89) -->
@@ -48,8 +48,8 @@
     <!-- Women $91,750 → x=328.4, Men $99,000 → x=365.0 -->
     <text font-size="11" text-anchor="end" fill="#252521"><tspan x="90" y="122">Worldwide</tspan></text>
     <line x1="328.4" y1="118" x2="365.0" y2="118" stroke="#888888" stroke-width="1.5"/>
-    <circle cx="328.4" cy="118" r="8" fill="#E4774E"/>
-    <circle cx="365.0" cy="118" r="8" fill="#1A4A8C"/>
+    <circle cx="328.4" cy="118" r="8" class="women"/>
+    <circle cx="365.0" cy="118" r="8" class="men"/>
     <text font-size="9" text-anchor="middle" fill="#555555"><tspan x="328.4" y="136">$91,750</tspan></text>
     <text font-size="9" text-anchor="middle" fill="#555555"><tspan x="365.0" y="136">$99,000</tspan></text>
     <text font-size="9" text-anchor="middle" fill="#888888"><tspan x="346.7" y="107">+7.9%</tspan></text>
@@ -58,8 +58,8 @@
     <!-- Women $116,000 → x=450.6, Men $131,500 → x=528.8 -->
     <text font-size="11" text-anchor="end" fill="#252521"><tspan x="90" y="174">North America</tspan></text>
     <line x1="450.6" y1="170" x2="528.8" y2="170" stroke="#888888" stroke-width="1.5"/>
-    <circle cx="450.6" cy="170" r="8" fill="#E4774E"/>
-    <circle cx="528.8" cy="170" r="8" fill="#1A4A8C"/>
+    <circle cx="450.6" cy="170" r="8" class="women"/>
+    <circle cx="528.8" cy="170" r="8" class="men"/>
     <text font-size="9" text-anchor="middle" fill="#555555"><tspan x="450.6" y="188">$116,000</tspan></text>
     <text font-size="9" text-anchor="middle" fill="#555555"><tspan x="528.8" y="188">$131,500</tspan></text>
     <text font-size="9" text-anchor="middle" fill="#888888"><tspan x="489.7" y="159">+13.4%</tspan></text>
@@ -68,8 +68,8 @@
     <!-- Women $60,526 → x=171.0, Men $76,137 → x=249.7 -->
     <text font-size="11" text-anchor="end" fill="#252521"><tspan x="90" y="226">Europe</tspan></text>
     <line x1="171.0" y1="222" x2="249.7" y2="222" stroke="#888888" stroke-width="1.5"/>
-    <circle cx="171.0" cy="222" r="8" fill="#E4774E"/>
-    <circle cx="249.7" cy="222" r="8" fill="#1A4A8C"/>
+    <circle cx="171.0" cy="222" r="8" class="women"/>
+    <circle cx="249.7" cy="222" r="8" class="men"/>
     <text font-size="9" text-anchor="middle" fill="#555555"><tspan x="171.0" y="240">$60,526</tspan></text>
     <text font-size="9" text-anchor="middle" fill="#555555"><tspan x="249.7" y="240">$76,137</tspan></text>
     <text font-size="9" text-anchor="middle" fill="#888888"><tspan x="210.4" y="211">+25.8%</tspan></text>

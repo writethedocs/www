@@ -22,7 +22,7 @@
       <text font-size="12" class="subtitle"><tspan x="40" y="49">Respondents by survey year (2019-2025)</tspan></text>
     </g>
 
-    <g class="bar-chart-vertical">
+    <g class="bar-chart-vertical scale-employment-history">
 
       <g class="y-axis">
         <g class="gridlines">
@@ -54,47 +54,47 @@
           </g>
           <g class="bars">
             <g clip-path="url(#clip-col0)">
-              <path d="M134.3 227.1H72.0V355.5H134.3V227.1Z" fill="#00AEFF"/>
-              <path d="M134.3 216.7H72.0V225.1H134.3V216.7Z" fill="#FFA600"/>
+              <path class="employees" d="M134.3 227.1H72.0V355.5H134.3V227.1Z"/>
+              <path class="contractors" d="M134.3 216.7H72.0V225.1H134.3V216.7Z"/>
             </g>
             <g clip-path="url(#clip-col1)">
-              <path d="M214.6 207.9H152.3V355.5H214.6V207.9Z" fill="#00AEFF"/>
-              <path d="M214.6 194.5H152.3V205.9H214.6V194.5Z" fill="#FFA600"/>
+              <path class="employees" d="M214.6 207.9H152.3V355.5H214.6V207.9Z"/>
+              <path class="contractors" d="M214.6 194.5H152.3V205.9H214.6V194.5Z"/>
             </g>
             <g clip-path="url(#clip-col2)">
-              <path d="M294.9 180.1H232.6V355.5H294.9V180.1Z" fill="#00AEFF"/>
-              <path d="M294.9 163.7H232.6V178.1H294.9V163.7Z" fill="#FFA600"/>
+              <path class="employees" d="M294.9 180.1H232.6V355.5H294.9V180.1Z"/>
+              <path class="contractors" d="M294.9 163.7H232.6V178.1H294.9V163.7Z"/>
             </g>
             <g clip-path="url(#clip-col3)">
-              <path d="M375.1 259.3H312.9V355.5H375.1V259.3Z" fill="#00AEFF"/>
-              <path d="M375.1 250.5H312.9V257.3H375.1V250.5Z" fill="#FFA600"/>
+              <path class="employees" d="M375.1 259.3H312.9V355.5H375.1V259.3Z"/>
+              <path class="contractors" d="M375.1 250.5H312.9V257.3H375.1V250.5Z"/>
             </g>
             <g clip-path="url(#clip-col4)">
-              <path d="M455.4 169.9H393.1V355.5H455.4V169.9Z" fill="#00AEFF"/>
-              <path d="M455.4 152.1H393.1V167.9H455.4V152.1Z" fill="#FFA600"/>
+              <path class="employees" d="M455.4 169.9H393.1V355.5H455.4V169.9Z"/>
+              <path class="contractors" d="M455.4 152.1H393.1V167.9H455.4V152.1Z"/>
             </g>
             <g clip-path="url(#clip-col5)">
-              <path d="M535.7 220.3H473.4V355.5H535.7V220.3Z" fill="#00AEFF"/>
-              <path d="M535.7 207.1H473.4V218.3H535.7V207.1Z" fill="#FFA600"/>
-              <path d="M535.7 199.5H473.4V205.1H535.7V199.5Z" fill="#97BB50"/>
+              <path class="employees" d="M535.7 220.3H473.4V355.5H535.7V220.3Z"/>
+              <path class="contractors" d="M535.7 207.1H473.4V218.3H535.7V207.1Z"/>
+              <path class="employee-contractors" d="M535.7 199.5H473.4V205.1H535.7V199.5Z"/>
             </g>
             <g clip-path="url(#clip-col6)">
-              <path d="M616.0 222.5H553.7V355.5H616.0V222.5Z" fill="#00AEFF"/>
-              <path d="M616.0 213.3H553.7V220.5H616.0V213.3Z" fill="#FFA600"/>
-              <path d="M616.0 204.5H553.7V211.3H616.0V204.5Z" fill="#97BB50"/>
+              <path class="employees" d="M616.0 222.5H553.7V355.5H616.0V222.5Z"/>
+              <path class="contractors" d="M616.0 213.3H553.7V220.5H616.0V213.3Z"/>
+              <path class="employee-contractors" d="M616.0 204.5H553.7V211.3H616.0V204.5Z"/>
             </g>
           </g>
         </g>
       </g>
 
       <!-- Legend (right-aligned, 15px margins, boxed in top right corner) -->
-      <g class="legend">
+      <g class="legend scale-employment-history">
         <rect x="348" y="85" width="295" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
-        <circle cx="365" cy="95" r="6" fill="#00AEFF"/>
+        <circle class="employees" cx="365" cy="95" r="6"/>
         <text font-size="10" fill="#252521"><tspan x="374" y="99">Employees</tspan></text>
-        <circle cx="439" cy="95" r="6" fill="#FFA600"/>
+        <circle class="contractors" cx="439" cy="95" r="6"/>
         <text font-size="10" fill="#252521"><tspan x="448" y="99">Contractors</tspan></text>
-        <circle cx="521" cy="95" r="6" fill="#97BB50"/>
+        <circle class="employee-contractors" cx="521" cy="95" r="6"/>
         <text font-size="10" fill="#252521"><tspan x="530" y="99">Employee-contractors</tspan></text>
       </g>
 

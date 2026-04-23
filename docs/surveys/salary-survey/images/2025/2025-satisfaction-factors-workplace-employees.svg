@@ -28,13 +28,13 @@
       <text font-size="12" class="subtitle"><tspan x="40" y="49">Employees</tspan></text>
     </g>
 
-    <g class="bar-chart-horizontal">
+    <g class="bar-chart-horizontal scale-statement-bars">
 
       <g class="legend">
         <rect x="469" y="35" width="176" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
-        <circle cx="482" cy="45" r="6" fill="#E4774E"/>
-        <circle cx="545" cy="45" r="6" fill="#E9C168"/>
-        <circle cx="603" cy="45" r="6" fill="#82A555"/>
+        <circle cx="482" cy="45" r="6" class="disagree"/>
+        <circle cx="545" cy="45" r="6" class="neutral"/>
+        <circle cx="603" cy="45" r="6" class="agree"/>
         <text font-size="10" fill="#252521"><tspan x="492" y="49">Disagree</tspan></text>
         <text font-size="10" fill="#252521"><tspan x="555" y="49">Neutral</tspan></text>
         <text font-size="10" fill="#252521"><tspan x="613" y="49">Agree</tspan></text>
@@ -42,35 +42,35 @@
 
       <g class="flexibility">
         <text font-size="12" fill="#252521"><tspan x="55" y="107">I have flexibility in my work location</tspan></text>
-        <rect x="263" y="82" width="53" height="38" rx="5" fill="#E4774E"/>
-        <rect x="318" y="82" width="25" height="38" rx="5" fill="#E9C168"/>
-        <rect x="345" y="82" width="244" height="38" rx="5" fill="#82A555"/>
+        <rect x="263" y="82" width="53" height="38" rx="5" class="disagree"/>
+        <rect x="318" y="82" width="25" height="38" rx="5" class="neutral"/>
+        <rect x="345" y="82" width="244" height="38" rx="5" class="agree"/>
         <text font-size="12" class="value-labels-inner"><tspan x="272" y="105">16.6%</tspan></text>
         <text font-size="12" class="value-labels-inner"><tspan x="449" y="105">75.8%</tspan></text>
       </g>
 
       <g class="remote">
         <text font-size="12" fill="#252521"><tspan x="78" y="157">Our remote work systems function well</tspan></text>
-        <rect x="295" y="132" width="19" height="38" rx="5" fill="#E4774E"/>
-        <rect x="316" y="132" width="28" height="38" rx="5" fill="#E9C168"/>
-        <rect x="346" y="132" width="275" height="38" rx="5" fill="#82A555"/>
+        <rect x="295" y="132" width="19" height="38" rx="5" class="disagree"/>
+        <rect x="316" y="132" width="28" height="38" rx="5" class="neutral"/>
+        <rect x="346" y="132" width="275" height="38" rx="5" class="agree"/>
         <text font-size="12" class="value-labels-inner"><tspan x="466" y="155">85.4%</tspan></text>
       </g>
 
       <g class="on-site">
         <text font-size="12" fill="#252521"><tspan x="55" y="207">Our on-site work systems function well</tspan></text>
-        <rect x="271" y="182" width="27" height="38" rx="5" fill="#E4774E"/>
-        <rect x="300" y="182" width="61" height="38" rx="5" fill="#E9C168"/>
-        <rect x="363" y="182" width="234" height="38" rx="5" fill="#82A555"/>
+        <rect x="271" y="182" width="27" height="38" rx="5" class="disagree"/>
+        <rect x="300" y="182" width="61" height="38" rx="5" class="neutral"/>
+        <rect x="363" y="182" width="234" height="38" rx="5" class="agree"/>
         <text font-size="12" class="value-labels-inner"><tspan x="313" y="205">19.0%</tspan></text>
         <text font-size="12" class="value-labels-inner"><tspan x="462" y="205">72.7%</tspan></text>
       </g>
 
       <g class="hybrid">
         <text font-size="12" fill="#252521"><tspan x="60" y="257">Our hybrid work systems function well</tspan></text>
-        <rect x="271" y="232" width="26" height="38" rx="5" fill="#E4774E"/>
-        <rect x="299" y="232" width="62" height="38" rx="5" fill="#E9C168"/>
-        <rect x="363" y="232" width="234" height="38" rx="5" fill="#82A555"/>
+        <rect x="271" y="232" width="26" height="38" rx="5" class="disagree"/>
+        <rect x="299" y="232" width="62" height="38" rx="5" class="neutral"/>
+        <rect x="363" y="232" width="234" height="38" rx="5" class="agree"/>
         <text font-size="12" class="value-labels-inner"><tspan x="312" y="255">19.1%</tspan></text>
         <text font-size="12" class="value-labels-inner"><tspan x="462" y="255">72.7%</tspan></text>
       </g>

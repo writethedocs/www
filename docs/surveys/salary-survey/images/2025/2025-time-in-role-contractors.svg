@@ -15,7 +15,7 @@
       <text font-size="12" class="subtitle"><tspan x="40" y="49.054">Contractors (n=80)</tspan></text>
     </g>
 
-    <g class="bar-chart-vertical">
+    <g class="bar-chart-vertical scale-single-series">
 
       <g class="y-axis">
 
@@ -66,7 +66,7 @@
 
       <g class="legend">
         <rect x="560" y="70" width="85" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
-        <circle cx="574" cy="80" r="6" fill="#00AEFF"/>
+        <circle class="series-a" cx="574" cy="80" r="6"/>
         <text font-size="10" fill="#252521"><tspan x="584" y="84">Contractors</tspan></text>
       </g>
 

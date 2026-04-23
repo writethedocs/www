@@ -28,13 +28,13 @@
       <text font-size="12" class="subtitle"><tspan x="40" y="49">Contractors</tspan></text>
     </g>
 
-    <g class="bar-chart-horizontal">
+    <g class="bar-chart-horizontal scale-statement-bars">
 
       <g class="legend">
         <rect x="469" y="35" width="176" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
-        <circle cx="482" cy="45" r="6" fill="#E4774E"/>
-        <circle cx="545" cy="45" r="6" fill="#E9C168"/>
-        <circle cx="603" cy="45" r="6" fill="#82A555"/>
+        <circle cx="482" cy="45" r="6" class="disagree"/>
+        <circle cx="545" cy="45" r="6" class="neutral"/>
+        <circle cx="603" cy="45" r="6" class="agree"/>
         <text font-size="10" fill="#252521"><tspan x="492" y="49">Disagree</tspan></text>
         <text font-size="10" fill="#252521"><tspan x="555" y="49">Neutral</tspan></text>
         <text font-size="10" fill="#252521"><tspan x="613" y="49">Agree</tspan></text>
@@ -42,33 +42,33 @@
 
       <g class="row-0">
         <text font-size="12" fill="#252521"><tspan x="101" y="107">I have flexibility in my work location</tspan></text>
-        <rect x="301" y="82" width="21" height="38" rx="5" fill="#E4774E"/>
-        <rect x="324" y="82" width="12" height="38" rx="5" fill="#E9C168"/>
-        <rect x="338" y="82" width="289" height="38" rx="5" fill="#82A555"/>
+        <rect x="301" y="82" width="21" height="38" rx="5" class="disagree"/>
+        <rect x="324" y="82" width="12" height="38" rx="5" class="neutral"/>
+        <rect x="338" y="82" width="289" height="38" rx="5" class="agree"/>
         <text font-size="12" class="value-labels-inner"><tspan x="464" y="105">89.7%</tspan></text>
       </g>
 
       <g class="row-1">
         <text font-size="12" fill="#252521"><tspan x="65" y="157">Our remote work environment functions well</tspan></text>
-        <rect x="311" y="132" width="13" height="38" rx="5" fill="#E4774E"/>
-        <rect x="326" y="132" width="9" height="38" rx="5" fill="#E9C168"/>
-        <rect x="337" y="132" width="300" height="38" rx="5" fill="#82A555"/>
+        <rect x="311" y="132" width="13" height="38" rx="5" class="disagree"/>
+        <rect x="326" y="132" width="9" height="38" rx="5" class="neutral"/>
+        <rect x="337" y="132" width="300" height="38" rx="5" class="agree"/>
         <text font-size="12" class="value-labels-inner"><tspan x="469" y="155">93.2%</tspan></text>
       </g>
 
       <g class="row-2">
         <text font-size="12" fill="#252521"><tspan x="55" y="207">Our on-site work environment functions well</tspan></text>
-        <rect x="297" y="182" width="21" height="38" rx="5" fill="#E4774E"/>
-        <rect x="320" y="182" width="21" height="38" rx="5" fill="#E9C168"/>
-        <rect x="343" y="182" width="280" height="38" rx="5" fill="#82A555"/>
+        <rect x="297" y="182" width="21" height="38" rx="5" class="disagree"/>
+        <rect x="320" y="182" width="21" height="38" rx="5" class="neutral"/>
+        <rect x="343" y="182" width="280" height="38" rx="5" class="agree"/>
         <text font-size="12" class="value-labels-inner"><tspan x="465" y="205">87.1%</tspan></text>
       </g>
 
       <g class="row-3">
         <text font-size="12" fill="#252521"><tspan x="55" y="257">Our hybrid work environment functions well</tspan></text>
-        <rect x="301" y="232" width="11" height="38" rx="5" fill="#E4774E"/>
-        <rect x="314" y="232" width="32" height="38" rx="5" fill="#E9C168"/>
-        <rect x="348" y="232" width="279" height="38" rx="5" fill="#82A555"/>
+        <rect x="301" y="232" width="11" height="38" rx="5" class="disagree"/>
+        <rect x="314" y="232" width="32" height="38" rx="5" class="neutral"/>
+        <rect x="348" y="232" width="279" height="38" rx="5" class="agree"/>
         <text font-size="12" class="value-labels-inner"><tspan x="469" y="255">86.7%</tspan></text>
       </g>
 

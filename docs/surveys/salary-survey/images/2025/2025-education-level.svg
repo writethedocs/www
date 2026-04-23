@@ -17,7 +17,7 @@
 			<text font-size="12" class="subtitle"><tspan x="40" y="49">All respondents (n=755)</tspan></text>
 		</g>
 
-		<g class="bar-chart-vertical">
+<g class="bar-chart-vertical scale-single-series scale-employment-history">
 
 			<g class="y-axis">
 
@@ -49,15 +49,15 @@
 					</g>
 
 					<g class="bars">
-						<rect x="74"  y="377" width="126" height="17"  rx="2" fill="#00AEFF"/>
-            <rect x="212" y="382" width="126" height="12"  rx="2" fill="#00AEFF"/>
+<rect class="series-a" x="74"  y="377" width="126" height="17"  rx="2"/>
+            <rect class="series-a" x="212" y="382" width="126" height="12"  rx="2"/>
             <g clip-path="url(#clip-edu-grad)">
-              <path d="M476 167H350V394H476V167Z" fill="#00AEFF"/>
-              <path d="M476 150H350V165H476V150Z" fill="#FFA600"/>
+              <path class="employees" d="M476 167H350V394H476V167Z"/>
+              <path class="contractors" d="M476 150H350V165H476V150Z"/>
             </g>
             <g clip-path="url(#clip-edu-postgrad)">
-              <path d="M614 219H488V394H614V219Z" fill="#00AEFF"/>
-              <path d="M614 196H488V217H614V196Z" fill="#FFA600"/>
+              <path class="employees" d="M614 219H488V394H614V219Z"/>
+              <path class="contractors" d="M614 196H488V217H614V196Z"/>
             </g>
 					</g>
 
