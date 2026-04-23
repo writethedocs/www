@@ -389,6 +389,10 @@ nav.main-toc { /* TOC */
   }
   .simple > li > ul > li.active > a::before { transform: rotate(90deg); } /* Rotate the arrow for active state */
   .current { font-weight: var(--font-weight-6); }
+  .simple a.toc-current {
+    font-weight: var(--font-weight-7);
+    color: var(--link);
+  }
 } /* nav.main-toc */
 
 #activator { /* mobile hamburger button */

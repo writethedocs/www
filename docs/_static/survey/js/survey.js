@@ -78,6 +78,61 @@ tocLinks.addEventListener('click',function(event){
   }  
 }); 
 
+  // Scrollspy: track current section and update TOC highlight + accordion
+  const spyLinks = document.querySelectorAll('nav.main-toc a[href^="#"]');
+  const spyH2Lis = document.querySelectorAll('nav.main-toc .simple > li > ul > li');
+
+  const spyLinkMap = new Map();
+  spyLinks.forEach(link => spyLinkMap.set(link.getAttribute('href').slice(1), link));
+
+  // Derive headings from TOC link IDs (avoids relying on a <main> ancestor that Sphinx may not nest correctly)
+  const spyHeadings = [];
+  spyLinkMap.forEach((link, id) => {
+    const el = document.getElementById(id);
+    if (el) spyHeadings.push(el);
+  });
+  spyHeadings.sort((a, b) => a.compareDocumentPosition(b) & Node.DOCUMENT_POSITION_FOLLOWING ? -1 : 1);
+
+  let spyActiveId = null;
+
+  function updateScrollSpy() {
+    const threshold = window.scrollY + 80;
+    let current = null;
+    for (const h of spyHeadings) {
+      if (h.getBoundingClientRect().top + window.scrollY <= threshold) current = h;
+      else break;
+    }
+    const newId = current ? current.id : null;
+    if (newId === spyActiveId) return;
+    spyActiveId = newId;
+
+    spyLinks.forEach(l => l.classList.remove('toc-current'));
+
+    if (!newId) return;
+
+    const activeLink = spyLinkMap.get(newId);
+    if (!activeLink) return;
+
+    activeLink.classList.add('toc-current');
+
+    // Sync accordion: close all H2-level items, open the one containing the active link
+    spyH2Lis.forEach(li => li.classList.remove('active'));
+    for (const li of spyH2Lis) {
+      if (li.contains(activeLink)) { li.classList.add('active'); break; }
+    }
+  }
+
+  let spyTicking = false;
+  window.addEventListener('scroll', function() {
+    if (!spyTicking) {
+      requestAnimationFrame(function() { updateScrollSpy(); spyTicking = false; });
+      spyTicking = true;
+    }
+  }, { passive: true });
+
+  updateScrollSpy();
+
+
   // text quotes carousel
   const carouselContainer = document.querySelector('blockquote.pull-quote > div');
   const items = carouselContainer.querySelectorAll('p');
