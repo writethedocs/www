@@ -44,16 +44,16 @@
       <text font-size="14" text-anchor="middle" class="value-labels-inner"><tspan x="349.5" y="160.7">31.0%</tspan></text>
       <text font-size="14" text-anchor="middle" class="value-labels-inner"><tspan x="424.6" y="218.3">28.6%</tspan></text>
 
-      <!-- External labels -->
-      <text font-size="12"><tspan x="65" y="204">Less confident</tspan></text>
-      <text font-size="12"><tspan x="381" y="85">Around the same</tspan></text>
-      <text font-size="12"><tspan x="513" y="209">More confident</tspan></text>
+    </g>
 
-      <!-- Connectors -->
-      <path d="M 152,202 C 157,202 181.7,210 183.6,210.7 L 185.5,211.3" stroke="#252521" stroke-dasharray="1 3"/>
-      <path d="M 371.6,85 C 366.6,85 351.4,106 350.2,107.7 L 349,109.3" stroke="#252521" stroke-dasharray="1 3"/>
-      <path d="M 508.5,207 C 503.5,207 478.8,215 476.9,215.7 L 475,216.3" stroke="#252521" stroke-dasharray="1 3"/>
-
+    <g class="legend">
+      <rect x="371" y="70" width="274" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
+      <circle cx="384" cy="80" r="6" fill="#E4774E"/>
+      <text font-size="10" fill="#252521"><tspan x="394" y="84">Less confident</tspan></text>
+      <circle cx="466" cy="80" r="6" fill="#E9C168"/>
+      <text font-size="10" fill="#252521"><tspan x="476" y="84">Around the same</tspan></text>
+      <circle cx="562" cy="80" r="6" fill="#82A555"/>
+      <text font-size="10" fill="#252521"><tspan x="572" y="84">More confident</tspan></text>
     </g>
 
   </g>

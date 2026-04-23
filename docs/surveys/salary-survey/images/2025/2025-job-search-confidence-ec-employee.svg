@@ -44,16 +44,20 @@
       <text font-size="14" text-anchor="middle" class="value-labels-inner"><tspan x="313.6" y="170.2">50.0%</tspan></text>
       <text font-size="14" text-anchor="middle" class="value-labels-inner"><tspan x="423.6" y="226.2">30.0%</tspan></text>
 
-      <!-- External labels -->
-      <text font-size="12"><tspan x="66" y="218">Not confident</tspan></text>
-      <text font-size="12"><tspan x="300" y="81">Neutral</tspan></text>
-      <text font-size="12"><tspan x="490" y="186">Confident</tspan></text>
+    </g>
 
-      <!-- Connectors -->
-      <path d="M 152,218 C 157,218 183,222.2 185,222.4 L 187.3,222.6" stroke="#252521" stroke-dasharray="1 3"/>
-      <path d="M 308,81 C 308,86 307,117 307,119 L 306.5,120.8" stroke="#252521" stroke-dasharray="1 3"/>
-      <path d="M 485,186 C 479,187 469,199 468,200 L 463.7,200.9" stroke="#252521" stroke-dasharray="1 3"/>
-
+    <g class="legend">
+      <rect x="261" y="70" width="384" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
+      <circle cx="274" cy="80" r="6" fill="#C2255C"/>
+      <text font-size="10" fill="#252521"><tspan x="284" y="84">Not all all</tspan></text>
+      <circle cx="345" cy="80" r="6" fill="#E4774E"/>
+      <text font-size="10" fill="#252521"><tspan x="355" y="84">Not confident</tspan></text>
+      <circle cx="434" cy="80" r="6" fill="#E9C168"/>
+      <text font-size="10" fill="#252521"><tspan x="444" y="84">Neutral</tspan></text>
+      <circle cx="494" cy="80" r="6" fill="#82A555"/>
+      <text font-size="10" fill="#252521"><tspan x="504" y="84">Confident</tspan></text>
+      <circle cx="561" cy="80" r="6" fill="#087F5B"/>
+      <text font-size="10" fill="#252521"><tspan x="571" y="84">Very confident</tspan></text>
     </g>
 
   </g>
