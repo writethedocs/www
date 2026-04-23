@@ -1,4 +1,4 @@
-<svg viewBox="0 55 660 231" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 55 660 251" fill="none" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
     <style type="text/css">
@@ -28,7 +28,7 @@
       <text font-size="12" class="subtitle"><tspan x="40" y="49">Employees</tspan></text>
     </g>
 
-    <g class="donut-chart">
+    <g class="donut-chart" transform="translate(0 20)">
 
       <!-- Very unsatisfied (2.8%): 180.0°→185.1° -->
       <path d="M180.000 262.000 A150 150 0 0 1 180.589 248.724 L270.235 256.690 A60 60 0 0 0 270.000 262.000 Z" fill="#C2255C" stroke="white" stroke-width="2"/>

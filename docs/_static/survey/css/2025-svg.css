@@ -42,16 +42,25 @@ text {
 
 .donut-chart, .bar-chart-horizontal {
 
-	rect {
-		rx: 2;
-	}
+rect {
+rx: 2;
+}
 
-	text.value-labels-inner {
-		font-size: 12px;
-		font-weight: 700;
-		filter: url(#label-bg);
-	}
+text.value-labels-inner {
+font-size: 12px;
+font-weight: 700;
+filter: url(#label-bg);
+}
 
+}
+
+.donut-chart path {
+transition: var(--transition);
+fill-opacity: 1;
+}
+
+.donut-chart path:hover {
+fill-opacity: 0.8;
 }
 
 
