@@ -4,7 +4,7 @@
         @import url(/_static/survey/css/2025-svg.css);
       ]]>
     </style>
-  </defs>  <g id="2025-basis-of-employment-history">    <g class="title">
+</defs>  <g id="2025-basis-of-employment-history">    <g class="title">
       <text font-size="14"><tspan x="40" y="33">Basis of employment</tspan></text>
       <text font-size="12" class="subtitle"><tspan x="40" y="49">Respondents by survey year (2019-2025)</tspan></text>
     </g>    <g class="bar-chart-vertical">      <g class="y-axis">
@@ -51,15 +51,7 @@
             <path d="M616.0 211.3H553.7V220.5H616.0V211.3Z" fill="#FFA600"/>
             <path d="M616.0 204.5H553.7V211.3H616.0V204.5Z" fill="#97BB50"/>
           </g>
-          <g class="value-labels">
-            <text font-size="10" text-anchor="middle"><tspan x="103.1" y="208.7">694</tspan></text>
-            <text font-size="10" text-anchor="middle"><tspan x="183.4" y="186.5">805</tspan></text>
-            <text font-size="10" text-anchor="middle"><tspan x="263.7" y="155.7">959</tspan></text>
-            <text font-size="10" text-anchor="middle"><tspan x="344.0" y="242.5">525</tspan></text>
-            <text font-size="10" text-anchor="middle"><tspan x="424.3" y="144.1">1017</tspan></text>
-            <text font-size="10" text-anchor="middle"><tspan x="504.6" y="191.5">780</tspan></text>
-            <text font-size="10" text-anchor="middle"><tspan x="584.9" y="196.5">755</tspan></text>
-          </g>
+          
         </g>
       </g>
 
