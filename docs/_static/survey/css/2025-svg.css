@@ -40,7 +40,7 @@ text {
 	}
 }
 
-.donut-chart {
+.donut-chart, .bar-chart-horizontal {
 
 	text.value-labels-inner {
 		font-size: 12px;
