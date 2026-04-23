@@ -49,19 +49,19 @@
 
           <g class="bars">
             <!-- 1-10: 1.2% → top=362 -->
-            <path d="M144 362H71V370H144V362Z" fill="#00AEFF"/>
+            <rect x="71"  y="362" width="73" height="8"   rx="2" fill="#00AEFF"/>
             <!-- 11-50: 4.9% → top=335 -->
-            <path d="M223 335H150V370H223V335Z" fill="#00AEFF"/>
+            <rect x="150" y="335" width="73" height="35"  rx="2" fill="#00AEFF"/>
             <!-- 51-100: 7.4% → top=318 -->
-            <path d="M301 318H229V370H301V318Z" fill="#00AEFF"/>
+            <rect x="229" y="318" width="72" height="52"  rx="2" fill="#00AEFF"/>
             <!-- 101-1,000: 34.4% → top=127 -->
-            <path d="M380 127H308V370H380V127Z" fill="#00AEFF"/>
+            <rect x="308" y="127" width="72" height="243" rx="2" fill="#00AEFF"/>
             <!-- 1,001-10,000: 29.4% → top=162 -->
-            <path d="M459 162H387V370H459V162Z" fill="#00AEFF"/>
+            <rect x="387" y="162" width="72" height="208" rx="2" fill="#00AEFF"/>
             <!-- 10,001-100,000: 14.4% → top=268 -->
-            <path d="M538 268H465V370H538V268Z" fill="#00AEFF"/>
+            <rect x="465" y="268" width="73" height="102" rx="2" fill="#00AEFF"/>
             <!-- 100,000+: 8.3% → top=311 -->
-            <path d="M617 311H544V370H617V311Z" fill="#00AEFF"/>
+            <rect x="544" y="311" width="73" height="59"  rx="2" fill="#00AEFF"/>
           </g>
 
           <g class="value-labels">

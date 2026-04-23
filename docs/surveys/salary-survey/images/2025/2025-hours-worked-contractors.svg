@@ -43,16 +43,22 @@
             <text font-size="12" text-anchor="middle"><tspan x="578.7" y="337.384">60+</tspan></text>
           </g>
           <g class="bars">
-            <path d="M148.2 272.4H72.5V320H148.2V272.4Z"/>
-            <path d="M241.8 279.2H166.2V320H241.8V279.2Z"/>
-            <path d="M335.5 164.8H259.8V320H335.5V164.8Z"/>
-            <path d="M429.2 259.0H353.5V320H429.2V259.0Z"/>
-            <path d="M522.8 312.8H447.2V320H522.8V312.8Z"/>
-            <path d="M616.5 320.0H540.8V320H616.5V320.0Z"/>
+            <rect x="72.5"  y="272.4" width="75.7" height="47.6"  rx="2"/>
+            <rect x="166.2" y="279.2" width="75.6" height="40.8"  rx="2"/>
+            <rect x="259.8" y="164.8" width="75.7" height="155.2" rx="2"/>
+            <rect x="353.5" y="259.0" width="75.7" height="61.0"  rx="2"/>
+            <rect x="447.2" y="312.8" width="75.6" height="7.2"   rx="2"/>
+            <rect x="540.8" y="320.0" width="75.7" height="0.0"   rx="2"/>
           </g>
           <g class="value-labels">
           </g>
         </g>
+      </g>
+
+      <g class="legend">
+        <rect x="560" y="133" width="85" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
+        <circle cx="574" cy="143" r="6" fill="#00AEFF"/>
+        <text font-size="10" fill="#252521"><tspan x="584" y="147">Contractors</tspan></text>
       </g>
 
     </g>

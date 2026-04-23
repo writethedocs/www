@@ -53,19 +53,25 @@
 
           <g class="bars">
             <!-- 0-1 year: 20.6% = 95px -->
-            <path d="M174.5 225H72.5V320H174.5V225Z"/>
+            <rect x="72.5"  y="225" width="102" height="95"  rx="2"/>
             <!-- 1-2 years: 15.7% = 72px -->
-            <path d="M284.5 248H183.5V320H284.5V248Z"/>
+            <rect x="183.5" y="248" width="101" height="72"  rx="2"/>
             <!-- 2-5 years: 40.1% = 184px -->
-            <path d="M395.5 136H293.5V320H395.5V136Z"/>
+            <rect x="293.5" y="136" width="102" height="184" rx="2"/>
             <!-- 5-10 years: 17.3% = 80px -->
-            <path d="M505.5 240H404.5V320H505.5V240Z"/>
+            <rect x="404.5" y="240" width="101" height="80"  rx="2"/>
             <!-- 10+ years: 6.3% = 29px -->
-            <path d="M616.5 291H514.5V320H616.5V291Z"/>
+            <rect x="514.5" y="291" width="102" height="29"  rx="2"/>
           </g>
 
         </g>
 
+      </g>
+
+      <g class="legend">
+        <rect x="565" y="70" width="80" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
+        <circle cx="579" cy="80" r="6" fill="#00AEFF"/>
+        <text font-size="10" fill="#252521"><tspan x="589" y="84">Employees</tspan></text>
       </g>
 
     </g>

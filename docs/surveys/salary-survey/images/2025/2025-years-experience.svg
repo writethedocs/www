@@ -51,12 +51,12 @@
 					</g>
 
 					<g class="bars">
-						<path d="M156 340H72V355H156V340Z" fill="#00AEFF"/>
-            <path d="M248 161H164V355H248V161Z" fill="#00AEFF"/>
-            <path d="M340 104H256V355H340V104Z" fill="#00AEFF"/>
-            <path d="M432 175H348V355H432V175Z" fill="#00AEFF"/>
-            <path d="M524 206H440V355H524V206Z" fill="#00AEFF"/>
-            <path d="M616 210H532V355H616V210Z" fill="#00AEFF"/>
+						<rect x="72"  y="340" width="84" height="15"  rx="2" fill="#00AEFF"/>
+            <rect x="164" y="161" width="84" height="194" rx="2" fill="#00AEFF"/>
+            <rect x="256" y="104" width="84" height="251" rx="2" fill="#00AEFF"/>
+            <rect x="348" y="175" width="84" height="180" rx="2" fill="#00AEFF"/>
+            <rect x="440" y="206" width="84" height="149" rx="2" fill="#00AEFF"/>
+            <rect x="532" y="210" width="84" height="145" rx="2" fill="#00AEFF"/>
 					</g>
 
 					<g class="value-labels">

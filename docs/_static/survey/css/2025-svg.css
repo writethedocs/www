@@ -93,11 +93,13 @@ text {
 		fill-opacity: 0.8;
 	}
 
-	.bars path {
+	.bars path,
+	.bars rect {
 		transition: var(--transition);
 	}
 
-	.bars path:hover {
+	.bars path:hover,
+	.bars rect:hover {
 		fill-opacity: 1;
 	}
 

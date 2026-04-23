@@ -41,14 +41,20 @@
             <text font-size="12" text-anchor="middle"><tspan x="555.3" y="337.384">81+</tspan></text>
           </g>
           <g class="bars">
-            <path d="M195.0 292.2H72.5V320H195.0V292.2Z"/>
-            <path d="M335.5 183.0H213.0V320H335.5V183.0Z"/>
-            <path d="M476.0 192.1H353.5V320H476.0V192.1Z"/>
-            <path d="M616.5 301.3H494.0V320H616.5V301.3Z"/>
+            <rect x="72.5"  y="292.2" width="122.5" height="27.8"  rx="2"/>
+            <rect x="213.0" y="183.0" width="122.5" height="137.0" rx="2"/>
+            <rect x="353.5" y="192.1" width="122.5" height="127.9" rx="2"/>
+            <rect x="494.0" y="301.3" width="122.5" height="18.7"  rx="2"/>
           </g>
           <g class="value-labels">
           </g>
         </g>
+      </g>
+
+      <g class="legend">
+        <rect x="515" y="133" width="130" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
+        <circle cx="529" cy="143" r="6" fill="#00AEFF"/>
+        <text font-size="10" fill="#252521"><tspan x="539" y="147">Employee-contractors</tspan></text>
       </g>
 
     </g>

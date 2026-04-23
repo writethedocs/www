@@ -6,7 +6,8 @@
         @import url(/_static/survey/css/2025-svg.css);
       ]]>
     </style>
-
+    <clipPath id="clip-edu-grad"><rect x="350" y="150" width="126" height="244" rx="2"/></clipPath>
+    <clipPath id="clip-edu-postgrad"><rect x="488" y="196" width="126" height="198" rx="2"/></clipPath>
   </defs>
 
 	<g id="2025-education-level">
@@ -48,12 +49,16 @@
 					</g>
 
 					<g class="bars">
-						<path d="M200 377H74V394H200V377Z" fill="#00AEFF"/>
-            <path d="M338 382H212V394H338V382Z" fill="#00AEFF"/>
-            <path d="M476 167H350V394H476V167Z" fill="#00AEFF"/>
-            <path d="M614 219H488V394H614V219Z" fill="#00AEFF"/>
-            <path d="M476 150H350V165H476V150Z" fill="#FFA600"/>
-            <path d="M614 196H488V217H614V196Z" fill="#FFA600"/>
+						<rect x="74"  y="377" width="126" height="17"  rx="2" fill="#00AEFF"/>
+            <rect x="212" y="382" width="126" height="12"  rx="2" fill="#00AEFF"/>
+            <g clip-path="url(#clip-edu-grad)">
+              <path d="M476 167H350V394H476V167Z" fill="#00AEFF"/>
+              <path d="M476 150H350V165H476V150Z" fill="#FFA600"/>
+            </g>
+            <g clip-path="url(#clip-edu-postgrad)">
+              <path d="M614 219H488V394H614V219Z" fill="#00AEFF"/>
+              <path d="M614 196H488V217H614V196Z" fill="#FFA600"/>
+            </g>
 					</g>
 
           <path d="M442 107C434.489 107 411.532 143.6 409.766 147.8L408 150" stroke="#252521" stroke-dasharray="1 3"/>

@@ -43,16 +43,22 @@
             <text font-size="12" text-anchor="middle"><tspan x="578.7" y="337.384">60+</tspan></text>
           </g>
           <g class="bars">
-            <path d="M148.2 318.1H72.5V320H148.2V318.1Z"/>
-            <path d="M241.8 316.3H166.2V320H241.8V316.3Z"/>
-            <path d="M335.5 112.4H259.8V320H335.5V112.4Z"/>
-            <path d="M429.2 228.8H353.5V320H429.2V228.8Z"/>
-            <path d="M522.8 312.6H447.2V320H522.8V312.6Z"/>
-            <path d="M616.5 320.0H540.8V320H616.5V320.0Z"/>
+            <rect x="72.5"  y="318.1" width="75.7" height="1.9"   rx="2"/>
+            <rect x="166.2" y="316.3" width="75.6" height="3.7"   rx="2"/>
+            <rect x="259.8" y="112.4" width="75.7" height="207.6" rx="2"/>
+            <rect x="353.5" y="228.8" width="75.7" height="91.2"  rx="2"/>
+            <rect x="447.2" y="312.6" width="75.6" height="7.4"   rx="2"/>
+            <rect x="540.8" y="320.0" width="75.7" height="0.0"   rx="2"/>
           </g>
           <g class="value-labels">
           </g>
         </g>
+      </g>
+
+      <g class="legend">
+        <rect x="565" y="80" width="80" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
+        <circle cx="579" cy="90" r="6" fill="#00AEFF"/>
+        <text font-size="10" fill="#252521"><tspan x="589" y="94">Employees</tspan></text>
       </g>
 
     </g>
