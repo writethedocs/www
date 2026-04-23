@@ -7,6 +7,12 @@
 --color-grid: #F2F4F6;
 --color-series-a: #00AEFF;
 --color-series-b: #FFA600;
+--color-blue-dark: #1A4A8C;
+--color-blue-light: #7EA4FF;
+--color-orange-dark: #E4774E;
+--color-orange-light: #FFD080;
+--color-red: #C94040;
+--color-grey: #BBBBBB;
 --color-satisfaction-very-unsatisfied: #C2255C;
 --color-satisfaction-unsatisfied: #E4774E;
 --color-satisfaction-neutral: #E9C168;
@@ -88,6 +94,203 @@ filter: url(#label-bg);
 
   .very-satisfied {
     fill: var(--color-satisfaction-very-satisfied);
+  }
+
+}
+
+.scale-search-confidence {
+
+  .not-at-all {
+    fill: var(--color-satisfaction-very-unsatisfied);
+  }
+
+  .not-confident {
+    fill: var(--color-satisfaction-unsatisfied);
+  }
+
+  .neutral {
+    fill: var(--color-satisfaction-neutral);
+  }
+
+  .confident {
+    fill: var(--color-satisfaction-satisfied);
+  }
+
+  .very-confident {
+    fill: var(--color-satisfaction-very-satisfied);
+  }
+
+}
+
+.scale-three-trend {
+
+  .negative {
+    fill: var(--color-satisfaction-unsatisfied);
+  }
+
+  .neutral {
+    fill: var(--color-satisfaction-neutral);
+  }
+
+  .positive {
+    fill: var(--color-satisfaction-satisfied);
+  }
+
+}
+
+.scale-preferred-term {
+
+  .contractor {
+    fill: var(--color-series-a);
+  }
+
+  .self-employed {
+    fill: var(--color-blue-light);
+  }
+
+  .freelancer {
+    fill: var(--color-series-b);
+  }
+
+  .other {
+    fill: var(--color-grey);
+  }
+
+}
+
+.scale-client-config {
+
+  .single {
+    fill: var(--color-series-a);
+  }
+
+  .multiple {
+    fill: var(--color-blue-light);
+  }
+
+  .both {
+    fill: var(--color-series-b);
+  }
+
+  .not-specified {
+    fill: var(--color-grey);
+  }
+
+}
+
+.scale-contract-length {
+
+  .short-only {
+    fill: var(--color-series-b);
+  }
+
+  .medium-only {
+    fill: var(--color-orange-light);
+  }
+
+  .long-only {
+    fill: var(--color-series-a);
+  }
+
+  .mixed {
+    fill: var(--color-blue-light);
+  }
+
+  .not-specified {
+    fill: var(--color-grey);
+  }
+
+}
+
+.scale-products-services {
+
+  .product {
+    fill: var(--color-series-b);
+  }
+
+  .service {
+    fill: var(--color-series-a);
+  }
+
+  .both {
+    fill: var(--color-blue-light);
+  }
+
+  .neither {
+    fill: var(--color-grey);
+  }
+
+}
+
+.scale-job-search-status {
+
+  .open-offers {
+    fill: var(--color-series-a);
+  }
+
+  .not-open {
+    fill: var(--color-blue-dark);
+  }
+
+  .actively-looking {
+    fill: var(--color-series-b);
+  }
+
+  .not-looking-yet {
+    fill: var(--color-blue-light);
+  }
+
+  .open-to-contract,
+  .open-to-permanent {
+    fill: var(--color-orange-dark);
+  }
+
+  .contracting-while-looking {
+    fill: var(--color-red);
+  }
+
+}
+
+.scale-feedback-likert {
+
+  .strongly-disagree {
+    fill: var(--color-satisfaction-very-unsatisfied);
+  }
+
+  .disagree {
+    fill: var(--color-satisfaction-unsatisfied);
+  }
+
+  .neutral {
+    fill: var(--color-satisfaction-neutral);
+  }
+
+  .agree {
+    fill: var(--color-satisfaction-satisfied);
+  }
+
+  .strongly-agree {
+    fill: var(--color-satisfaction-very-satisfied);
+  }
+
+}
+
+.scale-gender-identity {
+
+  .woman {
+    fill: var(--color-series-a);
+  }
+
+  .man {
+    fill: var(--color-blue-light);
+  }
+
+  .non-binary {
+    fill: var(--color-series-b);
+  }
+
+  .not-specified {
+    fill: var(--color-grey);
   }
 
 }

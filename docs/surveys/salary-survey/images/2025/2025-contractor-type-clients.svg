@@ -28,19 +28,19 @@
       <text font-size="12" class="subtitle"><tspan x="40" y="49">Contractors</tspan></text>
     </g>
 
-    <g class="donut-chart" transform="translate(0 35)">
+    <g class="donut-chart scale-client-config" transform="translate(0 35)">
 
       <!-- Single client (57.5%): 229.8°→436.8° -->
-      <path d="M231.181 117.431 A150 150 0 1 1 362.253 378.037 L341.701 290.415 A60 60 0 1 0 289.273 186.172 Z" fill="#00AEFF" stroke="white" stroke-width="2"/>
+      <path class="slice single" d="M231.181 117.431 A150 150 0 1 1 362.253 378.037 L341.701 290.415 A60 60 0 1 0 289.273 186.172 Z"/>
 
       <!-- Multiple clients (23.8%): 436.8°→522.5° -->
-      <path d="M362.253 378.037 A150 150 0 0 1 184.958 277.156 L270.783 250.062 A60 60 0 0 0 341.701 290.415 Z" fill="#7EA4FF" stroke="white" stroke-width="2"/>
+      <path class="slice multiple" d="M362.253 378.037 A150 150 0 0 1 184.958 277.156 L270.783 250.062 A60 60 0 0 0 341.701 290.415 Z"/>
 
       <!-- Not specified (12.5%): 522.5°→567.5° -->
-      <path d="M184.958 277.156 A150 150 0 0 1 194.924 162.784 L274.770 204.314 A60 60 0 0 0 270.783 250.062 Z" fill="#BBBBBB" stroke="white" stroke-width="2"/>
+      <path class="slice not-specified" d="M184.958 277.156 A150 150 0 0 1 194.924 162.784 L274.770 204.314 A60 60 0 0 0 270.783 250.062 Z"/>
 
       <!-- Both (6.2%): 567.5°→589.8° -->
-      <path d="M194.924 162.784 A150 150 0 0 1 231.181 117.431 L289.273 186.172 A60 60 0 0 0 274.770 204.314 Z" fill="#FFA600" stroke="white" stroke-width="2"/>
+      <path class="slice both" d="M194.924 162.784 A150 150 0 0 1 231.181 117.431 L289.273 186.172 A60 60 0 0 0 274.770 204.314 Z"/>
 
       <!-- Inner percentage labels for large segments -->
       <text font-size="14" class="value-labels-inner" text-anchor="middle"><tspan x="424" y="203">57.5%</tspan></text>
@@ -49,15 +49,15 @@
 
     </g>
 
-    <g class="legend">
+    <g class="legend scale-client-config">
       <rect x="398" y="70" width="247" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
-      <circle cx="411" cy="80" r="6" fill="#00AEFF"/>
+      <circle class="swatch single" cx="411" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="421" y="84">Single</tspan></text>
-      <circle cx="463" cy="80" r="6" fill="#7EA4FF"/>
+      <circle class="swatch multiple" cx="463" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="473" y="84">Multiple</tspan></text>
-      <circle cx="524" cy="80" r="6" fill="#FFA600"/>
+      <circle class="swatch both" cx="524" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="534" y="84">Both</tspan></text>
-      <circle cx="569" cy="80" r="6" fill="#BBBBBB"/>
+      <circle class="swatch not-specified" cx="569" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="579" y="84">Not specified</tspan></text>
     </g>
 

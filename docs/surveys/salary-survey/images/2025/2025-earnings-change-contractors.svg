@@ -28,16 +28,16 @@
       <text font-size="12" class="subtitle"><tspan x="40" y="49">Contractors (n=80)</tspan></text>
     </g>
 
-    <g class="donut-chart" transform="translate(0 35)">
+    <g class="donut-chart scale-three-trend" transform="translate(0 35)">
 
       <!-- Decrease: 21.25% — theta 180 to 141.750 -->
-      <path d="M180 222 A150 150 0 0 1 212.20 129.14 L282.88 184.85 A60 60 0 0 0 270 222 Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+      <path class="slice negative" d="M180 222 A150 150 0 0 1 212.20 129.14 L282.88 184.85 A60 60 0 0 0 270 222 Z"/>
 
       <!-- No change: 36.25% — theta 141.750 to 76.500 -->
-      <path d="M212.20 129.14 A150 150 0 0 1 365.02 76.14 L344.01 163.66 A60 60 0 0 0 282.88 184.85 Z" fill="#E9C168" stroke="white" stroke-width="2"/>
+      <path class="slice neutral" d="M212.20 129.14 A150 150 0 0 1 365.02 76.14 L344.01 163.66 A60 60 0 0 0 282.88 184.85 Z"/>
 
       <!-- Increase: 42.5% — theta 76.500 to 0 -->
-      <path d="M365.02 76.14 A150 150 0 0 1 480 222 L390 222 A60 60 0 0 0 344.01 163.66 Z" fill="#82A555" stroke="white" stroke-width="2"/>
+      <path class="slice positive" d="M365.02 76.14 A150 150 0 0 1 480 222 L390 222 A60 60 0 0 0 344.01 163.66 Z"/>
 
       <!-- Inner value labels -->
       <text font-size="14" class="value-labels-inner" text-anchor="middle"><tspan x="413" y="157">42.5%</tspan></text>
@@ -46,13 +46,13 @@
 
     </g>
 
-    <g class="legend">
+    <g class="legend scale-three-trend">
       <rect x="438" y="70" width="207" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
-      <circle cx="451" cy="80" r="6" fill="#E4774E"/>
+      <circle class="swatch negative" cx="451" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="461" y="84">Decrease</tspan></text>
-      <circle cx="515" cy="80" r="6" fill="#E9C168"/>
+      <circle class="swatch neutral" cx="515" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="525" y="84">No change</tspan></text>
-      <circle cx="584" cy="80" r="6" fill="#82A555"/>
+      <circle class="swatch positive" cx="584" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="594" y="84">Increase</tspan></text>
     </g>
 

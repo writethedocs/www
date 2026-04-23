@@ -28,16 +28,16 @@
       <text font-size="12" class="subtitle"><tspan x="40" y="49">Contractors (n=42) — as compared to the same time last year</tspan></text>
     </g>
 
-    <g class="donut-chart">
+    <g class="donut-chart scale-three-trend">
 
       <!-- Less confident: 40.5% — t=180 to 252.86 -->
-      <path d="M 180,259 A 150 150 0 0 1 285.8,115.7 L 312.3,201.7 A 60 60 0 0 0 270,259 Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+      <path class="slice negative" d="M 180,259 A 150 150 0 0 1 285.8,115.7 L 312.3,201.7 A 60 60 0 0 0 270,259 Z"/>
 
       <!-- Around the same: 31.0% — t=252.86 to 308.57 -->
-      <path d="M 285.8,115.7 A 150 150 0 0 1 423.5,141.7 L 367.4,212.1 A 60 60 0 0 0 312.3,201.7 Z" fill="#E9C168" stroke="white" stroke-width="2"/>
+      <path class="slice neutral" d="M 285.8,115.7 A 150 150 0 0 1 423.5,141.7 L 367.4,212.1 A 60 60 0 0 0 312.3,201.7 Z"/>
 
       <!-- More confident: 28.6% — t=308.57 to 360 -->
-      <path d="M 423.5,141.7 A 150 150 0 0 1 480,259 L 390,259 A 60 60 0 0 0 367.4,212.1 Z" fill="#82A555" stroke="white" stroke-width="2"/>
+      <path class="slice positive" d="M 423.5,141.7 A 150 150 0 0 1 480,259 L 390,259 A 60 60 0 0 0 367.4,212.1 Z"/>
 
       <!-- Inner value labels -->
       <text font-size="14" text-anchor="middle" class="value-labels-inner"><tspan x="245.5" y="201.5">40.5%</tspan></text>
@@ -46,13 +46,13 @@
 
     </g>
 
-    <g class="legend">
+    <g class="legend scale-three-trend">
       <rect x="371" y="70" width="274" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
-      <circle cx="384" cy="80" r="6" fill="#E4774E"/>
+      <circle class="swatch negative" cx="384" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="394" y="84">Less confident</tspan></text>
-      <circle cx="466" cy="80" r="6" fill="#E9C168"/>
+      <circle class="swatch neutral" cx="466" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="476" y="84">Around the same</tspan></text>
-      <circle cx="562" cy="80" r="6" fill="#82A555"/>
+      <circle class="swatch positive" cx="562" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="572" y="84">More confident</tspan></text>
     </g>
 

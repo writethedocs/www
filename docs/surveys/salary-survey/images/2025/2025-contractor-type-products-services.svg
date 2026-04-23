@@ -28,19 +28,19 @@
       <text font-size="12" class="subtitle"><tspan x="40" y="49">Contractors</tspan></text>
     </g>
 
-    <g class="donut-chart" transform="translate(0 35)">
+    <g class="donut-chart scale-products-services" transform="translate(0 35)">
 
       <!-- Offering neither (71.3%): 229.8°→486.5° -->
-      <path d="M231.181 117.431 A150 150 0 1 1 238.819 352.610 L292.327 280.244 A60 60 0 1 0 289.273 186.172 Z" fill="#BBBBBB" stroke="white" stroke-width="2"/>
+      <path class="slice neither" d="M231.181 117.431 A150 150 0 1 1 238.819 352.610 L292.327 280.244 A60 60 0 1 0 289.273 186.172 Z"/>
 
       <!-- Offering a service (22.5%): 486.5°→567.5° -->
-      <path d="M238.819 352.610 A150 150 0 0 1 194.924 162.784 L274.770 204.314 A60 60 0 0 0 292.327 280.244 Z" fill="#00AEFF" stroke="white" stroke-width="2"/>
+      <path class="slice service" d="M238.819 352.610 A150 150 0 0 1 194.924 162.784 L274.770 204.314 A60 60 0 0 0 292.327 280.244 Z"/>
 
       <!-- Offering both (5.0%): 567.5°→585.5° -->
-      <path d="M194.924 162.784 A150 150 0 0 1 222.826 125.049 L285.931 189.220 A60 60 0 0 0 274.770 204.314 Z" fill="#7EA4FF" stroke="white" stroke-width="2"/>
+      <path class="slice both" d="M194.924 162.784 A150 150 0 0 1 222.826 125.049 L285.931 189.220 A60 60 0 0 0 274.770 204.314 Z"/>
 
       <!-- Offering a product (1.2%): 585.5°→589.8° -->
-      <path d="M222.826 125.049 A150 150 0 0 1 231.181 117.431 L289.273 186.172 A60 60 0 0 0 285.931 189.220 Z" fill="#FFA600" stroke="white" stroke-width="2"/>
+      <path class="slice product" d="M222.826 125.049 A150 150 0 0 1 231.181 117.431 L289.273 186.172 A60 60 0 0 0 285.931 189.220 Z"/>
 
       <!-- Inner percentage labels for large segments -->
       <text font-size="14" class="value-labels-inner" text-anchor="middle"><tspan x="435" y="247">71.3%</tspan></text>
@@ -48,15 +48,15 @@
 
     </g>
 
-    <g class="legend">
+    <g class="legend scale-products-services">
       <rect x="422" y="70" width="223" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
-      <circle cx="435" cy="80" r="6" fill="#FFA600"/>
+      <circle class="swatch product" cx="435" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="445" y="84">Product</tspan></text>
-      <circle cx="493" cy="80" r="6" fill="#00AEFF"/>
+      <circle class="swatch service" cx="493" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="503" y="84">Service</tspan></text>
-      <circle cx="550" cy="80" r="6" fill="#7EA4FF"/>
+      <circle class="swatch both" cx="550" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="560" y="84">Both</tspan></text>
-      <circle cx="596" cy="80" r="6" fill="#BBBBBB"/>
+      <circle class="swatch neither" cx="596" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="606" y="84">Neither</tspan></text>
     </g>
 

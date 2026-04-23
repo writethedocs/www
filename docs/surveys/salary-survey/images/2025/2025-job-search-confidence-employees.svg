@@ -28,22 +28,22 @@
       <text font-size="12" class="subtitle"><tspan x="40" y="49">Employees (n=108) — ability to secure a new position with favorable terms</tspan></text>
     </g>
 
-    <g class="donut-chart">
+    <g class="donut-chart scale-search-confidence">
 
       <!-- Not confident at all: 8.3% — t=180 to 195.0 -->
-      <path d="M 180,269 A 150 150 0 0 1 185.1,230.2 L 272.0,253.5 A 60 60 0 0 0 270,269 Z" fill="#C2255C" stroke="white" stroke-width="2"/>
+      <path class="slice not-at-all" d="M 180,269 A 150 150 0 0 1 185.1,230.2 L 272.0,253.5 A 60 60 0 0 0 270,269 Z"/>
 
       <!-- Not confident: 38.0% — t=195.0 to 263.3 -->
-      <path d="M 185.1,230.2 A 150 150 0 0 1 312.6,120.0 L 323.0,209.4 A 60 60 0 0 0 272.0,253.5 Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+      <path class="slice not-confident" d="M 185.1,230.2 A 150 150 0 0 1 312.6,120.0 L 323.0,209.4 A 60 60 0 0 0 272.0,253.5 Z"/>
 
       <!-- Neutral: 25.0% — t=263.3 to 308.3 -->
-      <path d="M 312.6,120.0 A 150 150 0 0 1 423.0,151.3 L 367.2,221.9 A 60 60 0 0 0 323.0,209.4 Z" fill="#E9C168" stroke="white" stroke-width="2"/>
+      <path class="slice neutral" d="M 312.6,120.0 A 150 150 0 0 1 423.0,151.3 L 367.2,221.9 A 60 60 0 0 0 323.0,209.4 Z"/>
 
       <!-- Confident: 25.0% — t=308.3 to 353.3 -->
-      <path d="M 423.0,151.3 A 150 150 0 0 1 479.0,251.5 L 389.6,262.0 A 60 60 0 0 0 367.2,221.9 Z" fill="#82A555" stroke="white" stroke-width="2"/>
+      <path class="slice confident" d="M 423.0,151.3 A 150 150 0 0 1 479.0,251.5 L 389.6,262.0 A 60 60 0 0 0 367.2,221.9 Z"/>
 
       <!-- Very confident: 3.7% — t=353.3 to 360 -->
-      <path d="M 479.0,251.5 A 150 150 0 0 1 480,269 L 390,269 A 60 60 0 0 0 389.6,262.0 Z" fill="#087F5B" stroke="white" stroke-width="2"/>
+      <path class="slice very-confident" d="M 479.0,251.5 A 150 150 0 0 1 480,269 L 390,269 A 60 60 0 0 0 389.6,262.0 Z"/>
 
       <!-- Inner value labels (≥12% only) -->
       <text font-size="14" text-anchor="middle" class="value-labels-inner"><tspan x="261.3" y="194.5">38.0%</tspan></text>
@@ -52,17 +52,17 @@
 
     </g>
 
-    <g class="legend">
+    <g class="legend scale-search-confidence">
       <rect x="261" y="70" width="384" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
-      <circle cx="274" cy="80" r="6" fill="#C2255C"/>
+      <circle class="swatch not-at-all" cx="274" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="284" y="84">Not all all</tspan></text>
-      <circle cx="345" cy="80" r="6" fill="#E4774E"/>
+      <circle class="swatch not-confident" cx="345" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="355" y="84">Not confident</tspan></text>
-      <circle cx="434" cy="80" r="6" fill="#E9C168"/>
+      <circle class="swatch neutral" cx="434" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="444" y="84">Neutral</tspan></text>
-      <circle cx="494" cy="80" r="6" fill="#82A555"/>
+      <circle class="swatch confident" cx="494" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="504" y="84">Confident</tspan></text>
-      <circle cx="561" cy="80" r="6" fill="#087F5B"/>
+      <circle class="swatch very-confident" cx="561" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="571" y="84">Very confident</tspan></text>
     </g>
 

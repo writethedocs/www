@@ -28,16 +28,16 @@
       <text font-size="12" class="subtitle"><tspan x="40" y="49">Employee-contractors (n=10) — ability to secure a new position with favorable terms</tspan></text>
     </g>
 
-    <g class="donut-chart">
+    <g class="donut-chart scale-search-confidence">
 
       <!-- Not confident: 20.0% — t=180 to 216.0 -->
-      <path d="M 180,269 A 150 150 0 0 1 208.7,180.8 L 281.5,233.7 A 60 60 0 0 0 270,269 Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+      <path class="slice not-confident" d="M 180,269 A 150 150 0 0 1 208.7,180.8 L 281.5,233.7 A 60 60 0 0 0 270,269 Z"/>
 
       <!-- Neutral: 50.0% — t=216.0 to 306.0 -->
-      <path d="M 208.7,180.8 A 150 150 0 0 1 418.2,148.7 L 365.3,220.5 A 60 60 0 0 0 281.5,233.7 Z" fill="#E9C168" stroke="white" stroke-width="2"/>
+      <path class="slice neutral" d="M 208.7,180.8 A 150 150 0 0 1 418.2,148.7 L 365.3,220.5 A 60 60 0 0 0 281.5,233.7 Z"/>
 
       <!-- Confident: 30.0% — t=306.0 to 360.0 -->
-      <path d="M 418.2,148.7 A 150 150 0 0 1 480,269 L 390,269 A 60 60 0 0 0 365.3,220.5 Z" fill="#82A555" stroke="white" stroke-width="2"/>
+      <path class="slice confident" d="M 418.2,148.7 A 150 150 0 0 1 480,269 L 390,269 A 60 60 0 0 0 365.3,220.5 Z"/>
 
       <!-- Inner value labels -->
       <text font-size="12" text-anchor="middle" class="value-labels-inner"><tspan x="230.1" y="240.8">20.0%</tspan></text>
@@ -46,17 +46,17 @@
 
     </g>
 
-    <g class="legend">
+    <g class="legend scale-search-confidence">
       <rect x="261" y="70" width="384" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
-      <circle cx="274" cy="80" r="6" fill="#C2255C"/>
+      <circle class="swatch not-at-all" cx="274" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="284" y="84">Not all all</tspan></text>
-      <circle cx="345" cy="80" r="6" fill="#E4774E"/>
+      <circle class="swatch not-confident" cx="345" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="355" y="84">Not confident</tspan></text>
-      <circle cx="434" cy="80" r="6" fill="#E9C168"/>
+      <circle class="swatch neutral" cx="434" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="444" y="84">Neutral</tspan></text>
-      <circle cx="494" cy="80" r="6" fill="#82A555"/>
+      <circle class="swatch confident" cx="494" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="504" y="84">Confident</tspan></text>
-      <circle cx="561" cy="80" r="6" fill="#087F5B"/>
+      <circle class="swatch very-confident" cx="561" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="571" y="84">Very confident</tspan></text>
     </g>
 

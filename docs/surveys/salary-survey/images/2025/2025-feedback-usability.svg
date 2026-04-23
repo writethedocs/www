@@ -15,19 +15,19 @@
       <text font-size="12" class="subtitle"><tspan x="40" y="49">Form/website is usable</tspan></text>
     </g>
 
-    <g class="donut-chart">
+    <g class="donut-chart scale-feedback-likert">
 
       <!-- D (0.7%): t=180.0→182.5 -->
-      <path d="M 180.0,222.0 A 150,150 0 0,1 180.1,215.4 L 270.1,219.4 A 60,60 0 0,0 270.0,222.0 Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+      <path class="slice disagree" d="M 180.0,222.0 A 150,150 0 0,1 180.1,215.4 L 270.1,219.4 A 60,60 0 0,0 270.0,222.0 Z"/>
 
       <!-- N (3.8%): t=182.5→196.2 -->
-      <path d="M 180.1,215.4 A 150,150 0 0,1 186.0,180.2 L 272.4,205.3 A 60,60 0 0,0 270.1,219.4 Z" fill="#E9C168" stroke="white" stroke-width="2"/>
+      <path class="slice neutral" d="M 180.1,215.4 A 150,150 0 0,1 186.0,180.2 L 272.4,205.3 A 60,60 0 0,0 270.1,219.4 Z"/>
 
       <!-- A (34.2%): t=196.2→319.3 -->
-      <path d="M 186.0,180.2 A 150,150 0 0,1 443.8,124.2 L 375.5,182.9 A 60,60 0 0,0 272.4,205.3 Z" fill="#82A555" stroke="white" stroke-width="2"/>
+      <path class="slice agree" d="M 186.0,180.2 A 150,150 0 0,1 443.8,124.2 L 375.5,182.9 A 60,60 0 0,0 272.4,205.3 Z"/>
 
       <!-- SA (61.3%): t=319.3→540.0 -->
-      <path d="M 443.8,124.2 A 150,150 0 1,1 180.0,222.0 L 270.0,222.0 A 60,60 0 1,0 375.5,182.9 Z" fill="#087F5B" stroke="white" stroke-width="2"/>
+      <path class="slice strongly-agree" d="M 443.8,124.2 A 150,150 0 1,1 180.0,222.0 L 270.0,222.0 A 60,60 0 1,0 375.5,182.9 Z"/>
 
       <!-- Connectors -->
       <path d="M 469,105 C 463,105 443,114 440,116 L 437.0,119.5" stroke="#252521" stroke-dasharray="1 3"/>

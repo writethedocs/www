@@ -15,22 +15,22 @@
       <text font-size="12" class="subtitle"><tspan x="40" y="82">Employee-contractors (n=34)</tspan></text>
     </g>
 
-    <g class="donut-chart">
+    <g class="donut-chart scale-job-search-status">
 
       <!-- Not looking — open to offers: 38.2% -->
-      <path d="M 220,90 A 150 150 0 0 1 321.1,350.9 L 260.4,284.3 A 60 60 0 0 0 220,180 Z" fill="#00AEFF" stroke="white" stroke-width="2"/>
+      <path class="slice open-offers" d="M 220,90 A 150 150 0 0 1 321.1,350.9 L 260.4,284.3 A 60 60 0 0 0 220,180 Z"/>
 
       <!-- Not looking — not open: 32.4% -->
-      <path d="M 321.1,350.9 A 150 150 0 0 1 75.7,281 L 162.3,256.4 A 60 60 0 0 0 260.4,284.3 Z" fill="#1A4A8C" stroke="white" stroke-width="2"/>
+      <path class="slice not-open" d="M 321.1,350.9 A 150 150 0 0 1 75.7,281 L 162.3,256.4 A 60 60 0 0 0 260.4,284.3 Z"/>
 
       <!-- Actively looking, open to contract: 14.7% -->
-      <path d="M 75.7,281 A 150 150 0 0 1 100.3,149.6 L 172.1,203.8 A 60 60 0 0 0 162.3,256.4 Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+      <path class="slice open-to-contract" d="M 75.7,281 A 150 150 0 0 1 100.3,149.6 L 172.1,203.8 A 60 60 0 0 0 162.3,256.4 Z"/>
 
       <!-- Actively looking: 8.8% -->
-      <path d="M 100.3,149.6 A 150 150 0 0 1 165.8,100.1 L 198.3,184.1 A 60 60 0 0 0 172.1,203.8 Z" fill="#FFA600" stroke="white" stroke-width="2"/>
+      <path class="slice actively-looking" d="M 100.3,149.6 A 150 150 0 0 1 165.8,100.1 L 198.3,184.1 A 60 60 0 0 0 172.1,203.8 Z"/>
 
       <!-- Not looking yet: 5.9% -->
-      <path d="M 165.8,100.1 A 150 150 0 0 1 220,90 L 220,180 A 60 60 0 0 0 198.3,184.1 Z" fill="#7EA4FF" stroke="white" stroke-width="2"/>
+      <path class="slice not-looking-yet" d="M 165.8,100.1 A 150 150 0 0 1 220,90 L 220,180 A 60 60 0 0 0 198.3,184.1 Z"/>
 
       <!-- Inner value labels -->
       <text font-size="12" fill="white" text-anchor="middle" font-weight="bold"><tspan x="318" y="206">38.2%</tspan></text>
@@ -40,26 +40,26 @@
     </g>
 
     <!-- Legend -->
-    <g font-size="10" fill="#50514F">
+    <g class="legend scale-job-search-status" font-size="10" fill="#50514F">
 
       <!-- Not looking — open to offers -->
-      <rect x="415" y="175" width="12" height="12" fill="#00AEFF"/>
+      <rect class="swatch open-offers" x="415" y="175" width="12" height="12"/>
       <text text-anchor="start"><tspan x="433" y="185">Not looking — open to offers (38.2%)</tspan></text>
 
       <!-- Not looking — not open -->
-      <rect x="415" y="203" width="12" height="12" fill="#1A4A8C"/>
+      <rect class="swatch not-open" x="415" y="203" width="12" height="12"/>
       <text text-anchor="start"><tspan x="433" y="213">Not looking — not open to offers (32.4%)</tspan></text>
 
       <!-- Actively looking, open to contract -->
-      <rect x="415" y="231" width="12" height="12" fill="#E4774E"/>
+      <rect class="swatch open-to-contract" x="415" y="231" width="12" height="12"/>
       <text text-anchor="start"><tspan x="433" y="241">Actively looking, open to contract work (14.7%)</tspan></text>
 
       <!-- Actively looking -->
-      <rect x="415" y="259" width="12" height="12" fill="#FFA600"/>
+      <rect class="swatch actively-looking" x="415" y="259" width="12" height="12"/>
       <text text-anchor="start"><tspan x="433" y="269">Actively looking (8.8%)</tspan></text>
 
       <!-- Not looking yet -->
-      <rect x="415" y="287" width="12" height="12" fill="#7EA4FF"/>
+      <rect class="swatch not-looking-yet" x="415" y="287" width="12" height="12"/>
       <text text-anchor="start"><tspan x="433" y="297">Not looking, but expect to be within a year (5.9%)</tspan></text>
 
     </g>

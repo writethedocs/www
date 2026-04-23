@@ -28,19 +28,19 @@
       <text font-size="12" class="subtitle"><tspan x="40" y="49">Contractors</tspan></text>
     </g>
 
-    <g class="donut-chart" transform="translate(0 35)">
+    <g class="donut-chart scale-preferred-term" transform="translate(0 35)">
 
       <!-- Contractor (68.8%): 229.8°→477.5° -->
-      <path d="M231.181 117.431 A150 150 0 1 1 258.784 365.076 L300.314 285.230 A60 60 0 1 0 289.273 186.172 Z" fill="#00AEFF" stroke="white" stroke-width="2"/>
+      <path class="slice contractor" d="M231.181 117.431 A150 150 0 1 1 258.784 365.076 L300.314 285.230 A60 60 0 1 0 289.273 186.172 Z"/>
 
       <!-- Self-employed (12.5%): 477.5°→522.5° -->
-      <path d="M258.784 365.076 A150 150 0 0 1 184.958 277.156 L270.783 250.062 A60 60 0 0 0 300.314 285.230 Z" fill="#7EA4FF" stroke="white" stroke-width="2"/>
+      <path class="slice self-employed" d="M258.784 365.076 A150 150 0 0 1 184.958 277.156 L270.783 250.062 A60 60 0 0 0 300.314 285.230 Z"/>
 
       <!-- Freelancer (11.2%): 522.5°→562.8° -->
-      <path d="M184.958 277.156 A150 150 0 0 1 189.721 173.873 L272.688 208.749 A60 60 0 0 0 270.783 250.062 Z" fill="#FFA600" stroke="white" stroke-width="2"/>
+      <path class="slice freelancer" d="M184.958 277.156 A150 150 0 0 1 189.721 173.873 L272.688 208.749 A60 60 0 0 0 270.783 250.062 Z"/>
 
       <!-- Other (7.5%): 562.8°→589.8° -->
-      <path d="M189.721 173.873 A150 150 0 0 1 231.181 117.431 L289.273 186.172 A60 60 0 0 0 272.688 208.749 Z" fill="#BBBBBB" stroke="white" stroke-width="2"/>
+      <path class="slice other" d="M189.721 173.873 A150 150 0 0 1 231.181 117.431 L289.273 186.172 A60 60 0 0 0 272.688 208.749 Z"/>
 
       <!-- Inner percentage labels for large segments -->
       <text font-size="14" class="value-labels-inner" text-anchor="middle"><tspan x="435" y="246">68.8%</tspan></text>
@@ -49,15 +49,15 @@
 
     </g>
 
-    <g class="legend">
+    <g class="legend scale-preferred-term">
       <rect x="351" y="70" width="294" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
-      <circle cx="369" cy="80" r="6" fill="#00AEFF"/>
+      <circle class="swatch contractor" cx="369" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="379" y="84">Contractor</tspan></text>
-      <circle cx="443" cy="80" r="6" fill="#7EA4FF"/>
+      <circle class="swatch self-employed" cx="443" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="453" y="84">Self-employed</tspan></text>
-      <circle cx="534" cy="80" r="6" fill="#FFA600"/>
+      <circle class="swatch freelancer" cx="534" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="544" y="84">Freelancer</tspan></text>
-      <circle cx="604" cy="80" r="6" fill="#BBBBBB"/>
+      <circle class="swatch other" cx="604" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="614" y="84">Other</tspan></text>
     </g>
 
