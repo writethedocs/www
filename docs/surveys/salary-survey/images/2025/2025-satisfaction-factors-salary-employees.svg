@@ -1,4 +1,4 @@
-<svg viewBox="0 20 660 196" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 20 660 230" fill="none" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
     <style type="text/css">
@@ -41,33 +41,33 @@
       </g>
 
       <g class="paid-fairly">
-        <text font-size="10" fill="#252521"><tspan x="155" y="99">I&#x2019;m paid fairly</tspan></text>
-        <rect x="238" y="82" width="62" height="27" rx="5" fill="#E4774E"/>
-        <rect x="302" y="82" width="57" height="27" rx="5" fill="#E9C168"/>
-        <rect x="361" y="82" width="203" height="27" rx="5" fill="#82A555"/>
-        <text font-size="12" class="value-labels-inner"><tspan x="251" y="100">19.3%</tspan></text>
-        <text font-size="12" class="value-labels-inner"><tspan x="312" y="100">17.6%</tspan></text>
-        <text font-size="12" class="value-labels-inner"><tspan x="444" y="100">63.0%</tspan></text>
+        <text font-size="12" fill="#252521"><tspan x="155" y="107">I&#x2019;m paid fairly</tspan></text>
+        <rect x="238" y="82" width="62" height="38" rx="5" fill="#E4774E"/>
+        <rect x="302" y="82" width="57" height="38" rx="5" fill="#E9C168"/>
+        <rect x="361" y="82" width="203" height="38" rx="5" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="254" y="105">19.3%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="315" y="105">17.6%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="444" y="105">63.0%</tspan></text>
       </g>
 
       <g class="inflation">
-        <text font-size="10" fill="#252521"><tspan x="40" y="131">My salary keeps up with</tspan><tspan x="43" y="142">inflation / cost-of-living</tspan></text>
-        <rect x="173" y="121" width="122" height="27" rx="5" fill="#E4774E"/>
-        <rect x="297" y="121" width="66" height="27" rx="5" fill="#E9C168"/>
-        <rect x="365" y="121" width="134" height="27" rx="5" fill="#82A555"/>
-        <text font-size="12" class="value-labels-inner"><tspan x="216" y="139">37.9%</tspan></text>
-        <text font-size="12" class="value-labels-inner"><tspan x="312" y="139">20.6%</tspan></text>
-        <text font-size="12" class="value-labels-inner"><tspan x="414" y="139">41.5%</tspan></text>
+        <text font-size="12" fill="#252521"><tspan x="35" y="150">My salary keeps up with</tspan><tspan x="38" y="163">inflation / cost-of-living</tspan></text>
+        <rect x="173" y="132" width="122" height="38" rx="5" fill="#E4774E"/>
+        <rect x="297" y="132" width="66" height="38" rx="5" fill="#E9C168"/>
+        <rect x="365" y="132" width="134" height="38" rx="5" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="216" y="155">37.9%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="312" y="155">20.6%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="414" y="155">41.5%</tspan></text>
       </g>
 
       <g class="benefits">
-        <text font-size="10" fill="#252521"><tspan x="100" y="177">My benefits are sufficient</tspan></text>
-        <rect x="249" y="160" width="53" height="27" rx="5" fill="#E4774E"/>
-        <rect x="304" y="160" width="52" height="27" rx="5" fill="#E9C168"/>
-        <rect x="358" y="160" width="217" height="27" rx="5" fill="#82A555"/>
-        <text font-size="12" class="value-labels-inner"><tspan x="257" y="178">16.3%</tspan></text>
-        <text font-size="12" class="value-labels-inner"><tspan x="312" y="178">16.3%</tspan></text>
-        <text font-size="12" class="value-labels-inner"><tspan x="448" y="178">67.4%</tspan></text>
+        <text font-size="12" fill="#252521"><tspan x="100" y="207">My benefits are sufficient</tspan></text>
+        <rect x="249" y="182" width="53" height="38" rx="5" fill="#E4774E"/>
+        <rect x="304" y="182" width="52" height="38" rx="5" fill="#E9C168"/>
+        <rect x="358" y="182" width="217" height="38" rx="5" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="260" y="205">16.3%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="315" y="205">16.3%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="448" y="205">67.4%</tspan></text>
       </g>
 
     </g>
