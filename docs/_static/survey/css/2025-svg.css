@@ -1,14 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Asap:wdth,wght@75..125,100..900&display=swap');
 
 :root {
-	--color-text-dark: #50514F;
-	--color-text-light: #999999;
-	--color-text-contrast: #FFFFFF;
-	--color-grid: #F2F4F6;
-	--color-series-a: #00AEFF;
-	--color-series-b: #FFA600;
-	--font: "Asap", sans-serif;
-	--transition: all 0.3s ease-in-out;
+--color-text-dark: #50514F;
+--color-text-light: #999999;
+--color-text-contrast: #FFFFFF;
+--color-grid: #F2F4F6;
+--color-series-a: #00AEFF;
+--color-series-b: #FFA600;
+--color-satisfaction-very-unsatisfied: #C2255C;
+--color-satisfaction-unsatisfied: #E4774E;
+--color-satisfaction-neutral: #E9C168;
+--color-satisfaction-satisfied: #82A555;
+--color-satisfaction-very-satisfied: #087F5B;
+--font: "Asap", sans-serif;
+--transition: all 0.3s ease-in-out;
 
 	--color-more: #97BB50;
 	--color-same: #CDC899;
@@ -51,6 +56,39 @@ font-size: 12px;
 font-weight: 700;
 filter: url(#label-bg);
 }
+
+}
+
+.donut-chart {
+
+  .slice {
+    stroke: white;
+    stroke-width: 2;
+  }
+
+}
+
+.scale-satisfaction {
+
+  .very-unsatisfied {
+    fill: var(--color-satisfaction-very-unsatisfied);
+  }
+
+  .unsatisfied {
+    fill: var(--color-satisfaction-unsatisfied);
+  }
+
+  .neutral {
+    fill: var(--color-satisfaction-neutral);
+  }
+
+  .satisfied {
+    fill: var(--color-satisfaction-satisfied);
+  }
+
+  .very-satisfied {
+    fill: var(--color-satisfaction-very-satisfied);
+  }
 
 }
 

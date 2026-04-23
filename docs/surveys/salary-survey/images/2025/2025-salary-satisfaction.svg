@@ -28,22 +28,22 @@
       <text font-size="12" class="subtitle"><tspan x="40" y="49">Employees</tspan></text>
     </g>
 
-    <g class="donut-chart" transform="translate(0 20)">
+    <g class="donut-chart scale-satisfaction" transform="translate(0 20)">
 
       <!-- Very unsatisfied (2.8%): 180.0°→185.1° -->
-      <path d="M180.000 262.000 A150 150 0 0 1 180.589 248.724 L270.235 256.690 A60 60 0 0 0 270.000 262.000 Z" fill="#C2255C" stroke="white" stroke-width="2"/>
+      <path class="slice very-unsatisfied" d="M180.000 262.000 A150 150 0 0 1 180.589 248.724 L270.235 256.690 A60 60 0 0 0 270.000 262.000 Z"/>
 
       <!-- Unsatisfied (14.0%): 185.1°→210.2° -->
-      <path d="M180.589 248.724 A150 150 0 0 1 200.374 186.521 L278.150 231.808 A60 60 0 0 0 270.235 256.690 Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+      <path class="slice unsatisfied" d="M180.589 248.724 A150 150 0 0 1 200.374 186.521 L278.150 231.808 A60 60 0 0 0 270.235 256.690 Z"/>
 
       <!-- Neutral (17.2%): 210.2°→241.2° -->
-      <path d="M200.374 186.521 A150 150 0 0 1 257.702 130.573 L301.081 209.429 A60 60 0 0 0 278.150 231.808 Z" fill="#E9C168" stroke="white" stroke-width="2"/>
+      <path class="slice neutral" d="M200.374 186.521 A150 150 0 0 1 257.702 130.573 L301.081 209.429 A60 60 0 0 0 278.150 231.808 Z"/>
 
       <!-- Satisfied (45.4%): 241.2°→322.9° -->
-      <path d="M257.702 130.573 A150 150 0 0 1 449.691 171.589 L377.876 225.836 A60 60 0 0 0 301.081 209.429 Z" fill="#82A555" stroke="white" stroke-width="2"/>
+      <path class="slice satisfied" d="M257.702 130.573 A150 150 0 0 1 449.691 171.589 L377.876 225.836 A60 60 0 0 0 301.081 209.429 Z"/>
 
       <!-- Very satisfied (20.6%): 322.9°→360.0° -->
-      <path d="M449.691 171.589 A150 150 0 0 1 480.000 262.000 L390.000 262.000 A60 60 0 0 0 377.876 225.836 Z" fill="#087F5B" stroke="white" stroke-width="2"/>
+      <path class="slice very-satisfied" d="M449.691 171.589 A150 150 0 0 1 480.000 262.000 L390.000 262.000 A60 60 0 0 0 377.876 225.836 Z"/>
 
       <!-- Inner percentage labels -->
       <text font-size="14" class="value-labels-inner"><tspan x="207" y="234">14.0%</tspan></text>
@@ -53,17 +53,17 @@
 
     </g>
 
-    <g class="legend">
+    <g class="legend scale-satisfaction">
       <rect x="262" y="70" width="384" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
-      <circle cx="275" cy="80" r="6" fill="#C2255C"/>
+      <circle class="swatch very-unsatisfied" cx="275" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="285" y="84">Very unsatisfied</tspan></text>
-      <circle cx="370" cy="80" r="6" fill="#E4774E"/>
+      <circle class="swatch unsatisfied" cx="370" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="380" y="84">Unsatisfied</tspan></text>
-      <circle cx="444" cy="80" r="6" fill="#E9C168"/>
+      <circle class="swatch neutral" cx="444" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="454" y="84">Neutral</tspan></text>
-      <circle cx="504" cy="80" r="6" fill="#82A555"/>
+      <circle class="swatch satisfied" cx="504" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="514" y="84">Satisfied</tspan></text>
-      <circle cx="568" cy="80" r="6" fill="#087F5B"/>
+      <circle class="swatch very-satisfied" cx="568" cy="80" r="6"/>
       <text font-size="10" fill="#252521"><tspan x="578" y="84">Very satisfied</tspan></text>
     </g>
 

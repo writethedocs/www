@@ -1,4 +1,4 @@
-<svg viewBox="0 55 660 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 55 660 385" fill="none" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
     <style type="text/css">
@@ -6,6 +6,19 @@
         @import url(/_static/survey/css/2025-svg.css);
       ]]>
     </style>
+    <filter id="label-bg" x="-15%" y="-40%" width="130%" height="180%">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="3" result="expanded"/>
+      <feGaussianBlur in="expanded" stdDeviation="5" result="blurred"/>
+      <feComponentTransfer in="blurred" result="rounded">
+        <feFuncA type="linear" slope="20" intercept="-5"/>
+      </feComponentTransfer>
+      <feFlood flood-color="white" flood-opacity="0.8" result="color"/>
+      <feComposite in="color" in2="rounded" operator="in" result="bg"/>
+      <feMerge>
+        <feMergeNode in="bg"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
   <g id="2025-contractor-type-clients">
@@ -15,7 +28,7 @@
       <text font-size="12" class="subtitle"><tspan x="40" y="49">Contractors</tspan></text>
     </g>
 
-    <g class="donut-chart">
+    <g class="donut-chart" transform="translate(0 35)">
 
       <!-- Single client (57.5%): 229.8°→436.8° -->
       <path d="M231.181 117.431 A150 150 0 1 1 362.253 378.037 L341.701 290.415 A60 60 0 1 0 289.273 186.172 Z" fill="#00AEFF" stroke="white" stroke-width="2"/>
@@ -29,23 +42,23 @@
       <!-- Both (6.2%): 567.5°→589.8° -->
       <path d="M194.924 162.784 A150 150 0 0 1 231.181 117.431 L289.273 186.172 A60 60 0 0 0 274.770 204.314 Z" fill="#FFA600" stroke="white" stroke-width="2"/>
 
-      <!-- Connectors and labels -->
-      <path d="M501.0 149.5 C501.0 149.5 479.9 155.6 464.7 163.3" stroke="#252521" stroke-dasharray="1 3"/>
-      <path d="M230.0 397.4 C230.0 397.4 243.9 379.8 252.3 365.0" stroke="#252521" stroke-dasharray="1 3"/>
-      <path d="M135.7 217.7 C135.7 217.7 158.6 217.2 175.6 218.7" stroke="#252521" stroke-dasharray="1 3"/>
-      <path d="M176.2 116.6 C176.2 116.6 195.2 125.8 208.5 136.5" stroke="#252521" stroke-dasharray="1 3"/>
-
-      <!-- Labels -->
-      <text font-size="10"><tspan x="504" y="148">Single client (57.5%)</tspan></text>
-      <text font-size="10"><tspan x="115" y="395">Multiple clients (23.8%)</tspan></text>
-      <text font-size="10"><tspan x="36" y="216">Not specified (12.5%)</tspan></text>
-      <text font-size="10"><tspan x="121" y="115">Both (6.2%)</tspan></text>
-
       <!-- Inner percentage labels for large segments -->
-      <text font-size="14" class="value-labels-inner"><tspan x="408" y="188">57.5%</tspan></text>
-      <text font-size="14" class="value-labels-inner"><tspan x="256" y="333">23.8%</tspan></text>
-      <text font-size="14" class="value-labels-inner"><tspan x="200" y="227">12.5%</tspan></text>
+      <text font-size="14" class="value-labels-inner" text-anchor="middle"><tspan x="424" y="203">57.5%</tspan></text>
+      <text font-size="14" class="value-labels-inner" text-anchor="middle"><tspan x="278" y="331">23.8%</tspan></text>
+      <text font-size="14" class="value-labels-inner" text-anchor="middle"><tspan x="225" y="228">12.5%</tspan></text>
 
+    </g>
+
+    <g class="legend">
+      <rect x="398" y="70" width="247" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
+      <circle cx="411" cy="80" r="6" fill="#00AEFF"/>
+      <text font-size="10" fill="#252521"><tspan x="421" y="84">Single</tspan></text>
+      <circle cx="463" cy="80" r="6" fill="#7EA4FF"/>
+      <text font-size="10" fill="#252521"><tspan x="473" y="84">Multiple</tspan></text>
+      <circle cx="524" cy="80" r="6" fill="#FFA600"/>
+      <text font-size="10" fill="#252521"><tspan x="534" y="84">Both</tspan></text>
+      <circle cx="569" cy="80" r="6" fill="#BBBBBB"/>
+      <text font-size="10" fill="#252521"><tspan x="579" y="84">Not specified</tspan></text>
     </g>
 
   </g>
