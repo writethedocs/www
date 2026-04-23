@@ -6,6 +6,19 @@
         @import url(/_static/survey/css/2025-svg.css);
       ]]>
     </style>
+    <filter id="label-bg" x="-15%" y="-40%" width="130%" height="180%">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="3" result="expanded"/>
+      <feGaussianBlur in="expanded" stdDeviation="5" result="blurred"/>
+      <feComponentTransfer in="blurred" result="rounded">
+        <feFuncA type="linear" slope="20" intercept="-5"/>
+      </feComponentTransfer>
+      <feFlood flood-color="white" flood-opacity="0.8" result="color"/>
+      <feComposite in="color" in2="rounded" operator="in" result="bg"/>
+      <feMerge>
+        <feMergeNode in="bg"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
   <g id="2025-contract-search-confidence-contractors">
@@ -30,16 +43,16 @@
       <path d="M 459.9,194.0 A 150 150 0 0 1 480,269 L 390,269 A 60 60 0 0 0 382.0,239.0 Z" fill="#82A555" stroke="white" stroke-width="2"/>
 
       <!-- Inner value labels -->
-      <text font-size="12" class="value-labels-inner"><tspan x="209" y="245">16.7%</tspan></text>
-      <text font-size="14" class="value-labels-inner"><tspan x="258" y="182">33.3%</tspan></text>
-      <text font-size="14" class="value-labels-inner"><tspan x="363" y="182">33.3%</tspan></text>
-      <text font-size="12" class="value-labels-inner"><tspan x="411" y="246">16.7%</tspan></text>
+      <text font-size="12" text-anchor="middle" class="value-labels-inner"><tspan x="229" y="246">16.7%</tspan></text>
+      <text font-size="14" text-anchor="middle" class="value-labels-inner"><tspan x="278" y="183">33.3%</tspan></text>
+      <text font-size="14" text-anchor="middle" class="value-labels-inner"><tspan x="383" y="183">33.3%</tspan></text>
+      <text font-size="12" text-anchor="middle" class="value-labels-inner"><tspan x="431" y="246">16.7%</tspan></text>
 
       <!-- External labels -->
-      <text font-size="10"><tspan x="53" y="223">Not confident at all</tspan></text>
-      <text font-size="10"><tspan x="145" y="128">Not confident</tspan></text>
-      <text font-size="10"><tspan x="443" y="128">Neutral</tspan></text>
-      <text font-size="10"><tspan x="519" y="228">Confident</tspan></text>
+      <text font-size="12"><tspan x="20" y="223">Not confident at all</tspan></text>
+      <text font-size="12"><tspan x="127" y="128">Not confident</tspan></text>
+      <text font-size="12"><tspan x="443" y="128">Neutral</tspan></text>
+      <text font-size="12"><tspan x="519" y="228">Confident</tspan></text>
 
       <!-- Connectors -->
       <path d="M 144,223 C 150,220 179,225.5 181,227 L 185.1,230.2" stroke="#252521" stroke-dasharray="1 3"/>

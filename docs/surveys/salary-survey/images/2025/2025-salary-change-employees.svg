@@ -6,6 +6,19 @@
         @import url(/_static/survey/css/2025-svg.css);
       ]]>
     </style>
+    <filter id="label-bg" x="-15%" y="-40%" width="130%" height="180%">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="3" result="expanded"/>
+      <feGaussianBlur in="expanded" stdDeviation="5" result="blurred"/>
+      <feComponentTransfer in="blurred" result="rounded">
+        <feFuncA type="linear" slope="20" intercept="-5"/>
+      </feComponentTransfer>
+      <feFlood flood-color="white" flood-opacity="0.8" result="color"/>
+      <feComposite in="color" in2="rounded" operator="in" result="bg"/>
+      <feMerge>
+        <feMergeNode in="bg"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
   <g id="2025-salary-change-employees">
@@ -31,9 +44,9 @@
       <text font-size="14" class="value-labels-inner"><tspan x="210" y="178">24.5%</tspan></text>
 
       <!-- External segment labels -->
-      <text font-size="10"><tspan x="72.9" y="202">Decrease (4.1%)</tspan></text>
-      <text font-size="10"><tspan x="103.7" y="161">No change</tspan></text>
-      <text font-size="10"><tspan x="493.7" y="134">Increase</tspan></text>
+      <text font-size="12"><tspan x="50" y="202">Decrease (4.1%)</tspan></text>
+      <text font-size="12"><tspan x="98" y="161">No change</tspan></text>
+      <text font-size="12"><tspan x="493.7" y="134">Increase</tspan></text>
 
       <!-- Connectors -->
       <path d="M490 132 C485 132 460 140 458 140.6 L456 141.3" stroke="#252521" stroke-dasharray="1 3"/>

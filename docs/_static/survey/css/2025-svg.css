@@ -43,7 +43,9 @@ text {
 .donut-chart {
 
 	text.value-labels-inner {
+		font-size: 12px;
 		font-weight: 700;
+		filter: url(#label-bg);
 	}
 
 }

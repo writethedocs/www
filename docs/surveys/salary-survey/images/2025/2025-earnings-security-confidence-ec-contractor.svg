@@ -6,6 +6,19 @@
         @import url(/_static/survey/css/2025-svg.css);
       ]]>
     </style>
+    <filter id="label-bg" x="-15%" y="-40%" width="130%" height="180%">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="3" result="expanded"/>
+      <feGaussianBlur in="expanded" stdDeviation="5" result="blurred"/>
+      <feComponentTransfer in="blurred" result="rounded">
+        <feFuncA type="linear" slope="20" intercept="-5"/>
+      </feComponentTransfer>
+      <feFlood flood-color="white" flood-opacity="0.8" result="color"/>
+      <feComposite in="color" in2="rounded" operator="in" result="bg"/>
+      <feMerge>
+        <feMergeNode in="bg"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
   <g id="2025-earnings-security-confidence-ec-contractor">
@@ -32,9 +45,9 @@
       <text font-size="12" text-anchor="middle" class="value-labels-inner"><tspan x="422.3" y="213.2">31.6%</tspan></text>
 
       <!-- External labels -->
-      <text font-size="10"><tspan x="84" y="204">Less confident</tspan></text>
-      <text font-size="10"><tspan x="381" y="85">Around the same</tspan></text>
-      <text font-size="10"><tspan x="513" y="209">More confident</tspan></text>
+      <text font-size="12"><tspan x="65" y="204">Less confident</tspan></text>
+      <text font-size="12"><tspan x="381" y="85">Around the same</tspan></text>
+      <text font-size="12"><tspan x="513" y="209">More confident</tspan></text>
 
       <!-- Connectors -->
       <path d="M 152,202 C 157,202 181.7,210 183.6,210.7 L 185.5,211.3" stroke="#252521" stroke-dasharray="1 3"/>

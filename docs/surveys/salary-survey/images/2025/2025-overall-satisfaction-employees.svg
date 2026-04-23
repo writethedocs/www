@@ -6,6 +6,19 @@
         @import url(/_static/survey/css/2025-svg.css);
       ]]>
     </style>
+    <filter id="label-bg" x="-15%" y="-40%" width="130%" height="180%">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="3" result="expanded"/>
+      <feGaussianBlur in="expanded" stdDeviation="5" result="blurred"/>
+      <feComponentTransfer in="blurred" result="rounded">
+        <feFuncA type="linear" slope="20" intercept="-5"/>
+      </feComponentTransfer>
+      <feFlood flood-color="white" flood-opacity="0.8" result="color"/>
+      <feComposite in="color" in2="rounded" operator="in" result="bg"/>
+      <feMerge>
+        <feMergeNode in="bg"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
   <g id="2025-overall-satisfaction-employees">
@@ -40,17 +53,17 @@
       <path d="M509.6 202.9 C509.6 202.9 490.5 205.8 474.4 211.4" stroke="#252521" stroke-dasharray="1 3"/>
 
       <!-- Outer labels -->
-      <text font-size="10"><tspan x="30" y="256">Very unsatisfied (3.4%)</tspan></text>
-      <text font-size="10"><tspan x="101" y="204">Unsatisfied</tspan></text>
-      <text font-size="10"><tspan x="169" y="130">Neutral</tspan></text>
-      <text font-size="10"><tspan x="375" y="85">Satisfied</tspan></text>
-      <text font-size="10"><tspan x="513" y="205">Very satisfied</tspan></text>
+      <text font-size="12"><tspan x="20" y="256">Very unsatisfied (3.4%)</tspan></text>
+      <text font-size="12"><tspan x="90" y="204">Unsatisfied</tspan></text>
+      <text font-size="12"><tspan x="154" y="130">Neutral</tspan></text>
+      <text font-size="12"><tspan x="375" y="85">Satisfied</tspan></text>
+      <text font-size="12"><tspan x="513" y="205">Very satisfied</tspan></text>
 
       <!-- Inner percentage labels -->
       <text font-size="14" class="value-labels-inner"><tspan x="208" y="230">14.8%</tspan></text>
       <text font-size="14" class="value-labels-inner"><tspan x="237" y="186">16.1%</tspan></text>
       <text font-size="14" class="value-labels-inner"><tspan x="334" y="159">44.3%</tspan></text>
-      <text font-size="14" class="value-labels-inner reverse"><tspan x="416" y="231">21.4%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="416" y="231">21.4%</tspan></text>
 
     </g>
 
