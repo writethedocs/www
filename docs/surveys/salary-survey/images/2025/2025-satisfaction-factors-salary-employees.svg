@@ -1,4 +1,4 @@
-<svg viewBox="0 55 660 196" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 20 660 196" fill="none" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
     <style type="text/css">
@@ -18,16 +18,17 @@
     <g class="bar-chart-horizontal">
 
       <g class="legend">
-        <circle cx="235" cy="224" r="6" fill="#E4774E"/>
-        <circle cx="319" cy="224" r="6" fill="#E9C168"/>
-        <circle cx="397" cy="224" r="6" fill="#82A555"/>
-        <text font-size="10"><tspan x="245" y="228">Disagree</tspan></text>
-        <text font-size="10"><tspan x="329" y="228">Neutral</tspan></text>
-        <text font-size="10"><tspan x="407" y="228">Agree</tspan></text>
+        <rect x="469" y="35" width="176" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
+        <circle cx="482" cy="45" r="6" fill="#E4774E"/>
+        <circle cx="545" cy="45" r="6" fill="#E9C168"/>
+        <circle cx="603" cy="45" r="6" fill="#82A555"/>
+        <text font-size="10" fill="#252521"><tspan x="492" y="49">Disagree</tspan></text>
+        <text font-size="10" fill="#252521"><tspan x="555" y="49">Neutral</tspan></text>
+        <text font-size="10" fill="#252521"><tspan x="613" y="49">Agree</tspan></text>
       </g>
 
       <g class="paid-fairly">
-        <text font-size="10"><tspan x="155" y="99">I&#x2019;m paid fairly</tspan></text>
+        <text font-size="10" fill="#252521"><tspan x="155" y="99">I&#x2019;m paid fairly</tspan></text>
         <rect x="238" y="82" width="62" height="27" rx="5" fill="#E4774E"/>
         <rect x="302" y="82" width="57" height="27" rx="5" fill="#E9C168"/>
         <rect x="361" y="82" width="203" height="27" rx="5" fill="#82A555"/>
@@ -37,7 +38,7 @@
       </g>
 
       <g class="inflation">
-        <text font-size="10"><tspan x="40" y="131">My salary keeps up with</tspan><tspan x="43" y="142">inflation / cost-of-living</tspan></text>
+        <text font-size="10" fill="#252521"><tspan x="40" y="131">My salary keeps up with</tspan><tspan x="43" y="142">inflation / cost-of-living</tspan></text>
         <rect x="173" y="121" width="122" height="27" rx="5" fill="#E4774E"/>
         <rect x="297" y="121" width="66" height="27" rx="5" fill="#E9C168"/>
         <rect x="365" y="121" width="134" height="27" rx="5" fill="#82A555"/>
@@ -47,7 +48,7 @@
       </g>
 
       <g class="benefits">
-        <text font-size="10"><tspan x="100" y="177">My benefits are sufficient</tspan></text>
+        <text font-size="10" fill="#252521"><tspan x="100" y="177">My benefits are sufficient</tspan></text>
         <rect x="249" y="160" width="53" height="27" rx="5" fill="#E4774E"/>
         <rect x="304" y="160" width="52" height="27" rx="5" fill="#E9C168"/>
         <rect x="358" y="160" width="217" height="27" rx="5" fill="#82A555"/>

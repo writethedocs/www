@@ -1,4 +1,4 @@
-<svg viewBox="0 55 660 352" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 20 660 352" fill="none" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
     <style type="text/css">
@@ -18,18 +18,19 @@
     <g class="bar-chart-horizontal">
 
       <g class="legend">
-        <circle cx="152" cy="380" r="6" fill="#E4774E"/>
-        <circle cx="235" cy="380" r="6" fill="#E9C168"/>
-        <circle cx="313" cy="380" r="6" fill="#82A555"/>
-        <circle cx="420" cy="380" r="6" fill="#A8C8E8"/>
-        <text font-size="10"><tspan x="162" y="384">Disagree</tspan></text>
-        <text font-size="10"><tspan x="245" y="384">Neutral</tspan></text>
-        <text font-size="10"><tspan x="323" y="384">Agree</tspan></text>
-        <text font-size="10"><tspan x="430" y="384">Don&#x2019;t know</tspan></text>
+        <rect x="395" y="35" width="250" height="20" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
+        <circle cx="405" cy="45" r="6" fill="#E4774E"/>
+        <circle cx="468" cy="45" r="6" fill="#E9C168"/>
+        <circle cx="526" cy="45" r="6" fill="#82A555"/>
+        <circle cx="580" cy="45" r="6" fill="#A8C8E8"/>
+        <text font-size="10" fill="#252521"><tspan x="415" y="49">Disagree</tspan></text>
+        <text font-size="10" fill="#252521"><tspan x="478" y="49">Neutral</tspan></text>
+        <text font-size="10" fill="#252521"><tspan x="536" y="49">Agree</tspan></text>
+        <text font-size="10" fill="#252521"><tspan x="590" y="49">Don&#x2019;t know</tspan></text>
       </g>
 
       <g class="consistent">
-        <text font-size="10"><tspan x="117" y="92">Salaries are consistent</tspan><tspan x="132" y="103">across similar roles</tspan></text>
+        <text font-size="10" fill="#252521"><tspan x="117" y="92">Salaries are consistent</tspan><tspan x="132" y="103">across similar roles</tspan></text>
         <rect x="249" y="82" width="59" height="27" rx="5" fill="#E4774E"/>
         <rect x="310" y="82" width="41" height="27" rx="5" fill="#E9C168"/>
         <rect x="353" y="82" width="109" height="27" rx="5" fill="#82A555"/>
@@ -41,7 +42,7 @@
       </g>
 
       <g class="gender-gap">
-        <text font-size="10"><tspan x="118" y="138">All genders are paid equally</tspan></text>
+        <text font-size="10" fill="#252521"><tspan x="118" y="138">All genders are paid equally</tspan></text>
         <rect x="277" y="121" width="35" height="27" rx="5" fill="#E4774E"/>
         <rect x="314" y="121" width="33" height="27" rx="5" fill="#E9C168"/>
         <rect x="349" y="121" width="126" height="27" rx="5" fill="#82A555"/>
@@ -51,7 +52,7 @@
       </g>
 
       <g class="valued">
-        <text font-size="10"><tspan x="61" y="170">My role is sufficiently</tspan><tspan x="114" y="181">valued/funded</tspan></text>
+        <text font-size="10" fill="#252521"><tspan x="61" y="170">My role is sufficiently</tspan><tspan x="114" y="181">valued/funded</tspan></text>
         <rect x="193" y="160" width="105" height="27" rx="5" fill="#E4774E"/>
         <rect x="300" y="160" width="60" height="27" rx="5" fill="#E9C168"/>
         <rect x="362" y="160" width="157" height="27" rx="5" fill="#82A555"/>
@@ -61,7 +62,7 @@
       </g>
 
       <g class="managers">
-        <text font-size="10"><tspan x="77" y="216">I like/respect my managers/team leaders</tspan></text>
+        <text font-size="10" fill="#252521"><tspan x="77" y="216">I like/respect my managers/team leaders</tspan></text>
         <rect x="270" y="199" width="38" height="27" rx="5" fill="#E4774E"/>
         <rect x="310" y="199" width="41" height="27" rx="5" fill="#E9C168"/>
         <rect x="353" y="199" width="243" height="27" rx="5" fill="#82A555"/>
@@ -71,7 +72,7 @@
       </g>
 
       <g class="coworkers">
-        <text font-size="10"><tspan x="148" y="255">I like/respect my co-workers</tspan></text>
+        <text font-size="10" fill="#252521"><tspan x="148" y="255">I like/respect my co-workers</tspan></text>
         <rect x="307" y="238" width="11" height="27" rx="5" fill="#E4774E"/>
         <rect x="320" y="238" width="20" height="27" rx="5" fill="#E9C168"/>
         <rect x="342" y="238" width="291" height="27" rx="5" fill="#82A555"/>
@@ -79,7 +80,7 @@
       </g>
 
       <g class="organization">
-        <text font-size="10"><tspan x="73" y="294">I like/respect my organization</tspan></text>
+        <text font-size="10" fill="#252521"><tspan x="73" y="294">I like/respect my organization</tspan></text>
         <rect x="243" y="277" width="46" height="27" rx="5" fill="#E4774E"/>
         <rect x="291" y="277" width="78" height="27" rx="5" fill="#E9C168"/>
         <rect x="371" y="277" width="198" height="27" rx="5" fill="#82A555"/>
@@ -89,13 +90,13 @@
       </g>
 
       <g class="systems">
-        <text font-size="10"><tspan x="40" y="333">I&#x2019;m satisfied with our systems etc</tspan></text>
+        <text font-size="10" fill="#252521"><tspan x="40" y="333">I&#x2019;m satisfied with our systems etc</tspan></text>
         <rect x="192" y="316" width="92" height="27" rx="5" fill="#E4774E"/>
         <rect x="286" y="316" width="89" height="27" rx="5" fill="#E9C168"/>
         <rect x="377" y="316" width="141" height="27" rx="5" fill="#82A555"/>
         <text font-size="12" class="value-labels-inner"><tspan x="220" y="334">28.5%</tspan></text>
         <text font-size="12" class="value-labels-inner"><tspan x="313" y="334">27.6%</tspan></text>
-        <text font-size="12" class="value-labels-inner"><tspan x="430" y="334">43.9%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="594" y="334">43.9%</tspan></text>
       </g>
 
     </g>
