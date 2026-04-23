@@ -3,7 +3,7 @@ template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
-```{post} Apr 16, {{year}}
+```{post} Apr 23, {{year}}
 :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 ```
 
