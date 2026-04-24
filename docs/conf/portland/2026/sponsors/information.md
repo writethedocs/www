@@ -34,8 +34,8 @@ Hi sponsors! We're excited to have you join us for Write the Docs {{ name }} {{ 
 
 * 8:00am: Keystone/Patron sponsor arrival
 * 8:30am: Doors to venue/sponsor booths open
-* 9:00am-4:00pm: Speaker Talks and Unconference
-* 4:30pm: Conference ends/load out
+* 9:20am-4:25pm: Speaker Talks and Unconference
+* 4:25pm: Conference ends/load out
 * 6:00pm: Out of venue 
 
 ## Conference Overview
