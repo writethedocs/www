@@ -74,12 +74,16 @@
 
    <span>9.</span>
 
+.. |10| raw:: html
+
+   <span>10.</span>
+
 .. raw:: html
 
    <nav role="navigation" aria-label="Table of contents" class="main-toc">
 
 .. contents:: Table of contents
-   :depth: 3
+   :depth: 4
    :backlinks: none
 
 .. raw:: html
@@ -95,7 +99,7 @@
       <nav role="navigation" id="mobile-nav" class="mobile-nav">
 
 .. contents:: Table of Contents
-   :depth: 2
+   :depth: 3
    :backlinks: none
 
 .. raw:: html
@@ -2197,6 +2201,198 @@ The general trend is for salaries to increase with years of experience. This tre
 .. figure:: images/2025/2025-salary-by-experience.svg
    :class: hide
 
+Median salary by age group
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Salary increases with age across all three regions, though not in a perfectly linear way. In North America, the 46–55 age group has a slightly lower median ($120,000) than the 36–45 group ($127,000). This may reflect career transitions, voluntary role changes, or compositional differences in the groups, but the overall upward trend holds.
+
+Europe shows a much flatter progression than North America — EU medians rise only from $62,130 (26–35) to $72,499 (46–55), compared to $94,000 to $139,500 over the same span in North America.
+
+The 18–25 age group is below the 30-respondent threshold in all regions, and is excluded from the Europe breakdown (fewer than 10 respondents). The 56–65 group is also excluded from Europe for the same reason. Respondents aged 66 or older are not included in any breakdown (n=8 worldwide).
+
+.. raw:: html
+
+   <div class="tab-wrap"><input type="radio" id="tabG1age-1" name="tabGroupG1age" class="tab" checked><label for="tabG1age-1">Worldwide</label><input type="radio" id="tabG1age-2" name="tabGroupG1age" class="tab"><label for="tabG1age-2">North America</label><input type="radio" id="tabG1age-3" name="tabGroupG1age" class="tab"><label for="tabG1age-3">Europe</label><div class="tab__content">
+
+.. table:: Salary (USD) by age group
+   :name: tbl-2025-salary-by-age-group
+   :class: medians-with-num sortable
+
+   +-----------+-----+----------+----------+----------+
+   | Age group | |N| | |25|     | |50|     | |75|     |
+   +===========+=====+==========+==========+==========+
+   | |1| 18-25 | 24  |       -- |  $72,713 |       -- |
+   +-----------+-----+----------+----------+----------+
+   | |2| 26-35 | 205 |  $54,338 |  $74,000 | $110,711 |
+   +-----------+-----+----------+----------+----------+
+   | |3| 36-45 | 239 |  $62,130 |  $93,081 | $135,800 |
+   +-----------+-----+----------+----------+----------+
+   | |4| 46-55 | 124 |  $77,103 | $104,192 | $148,527 |
+   +-----------+-----+----------+----------+----------+
+   | |5| 56-65 | 65  |  $91,233 | $125,200 | $171,650 |
+   +-----------+-----+----------+----------+----------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Salary (USD) by age group - North America
+   :name: tbl-2025-salary-by-age-group-north-america
+   :class: medians-with-num sortable
+
+   +-----------+-----+----------+----------+----------+
+   | Age group | |N| | |25|     | |50|     | |75|     |
+   +===========+=====+==========+==========+==========+
+   | |1| 18-25 | 17  |       -- |  $78,000 |       -- |
+   +-----------+-----+----------+----------+----------+
+   | |2| 26-35 | 112 |  $74,000 |  $94,000 | $148,272 |
+   +-----------+-----+----------+----------+----------+
+   | |3| 36-45 | 126 |  $91,750 | $127,000 | $156,500 |
+   +-----------+-----+----------+----------+----------+
+   | |4| 46-55 | 79  |  $99,410 | $120,000 | $160,000 |
+   +-----------+-----+----------+----------+----------+
+   | |5| 56-65 | 50  | $110,825 | $139,500 | $188,748 |
+   +-----------+-----+----------+----------+----------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Salary (USD) by age group - Europe
+   :name: tbl-2025-salary-by-age-group-europe
+   :class: medians-with-num sortable
+
+   +-----------+-----+----------+----------+----------+
+   | Age group | |N| | |25|     | |50|     | |75|     |
+   +===========+=====+==========+==========+==========+
+   | |1| 26-35 | 63  |  $47,444 |  $62,130 |  $83,044 |
+   +-----------+-----+----------+----------+----------+
+   | |2| 36-45 | 77  |  $50,833 |  $70,037 |  $92,290 |
+   +-----------+-----+----------+----------+----------+
+   | |3| 46-55 | 33  |  $57,704 |  $72,499 | $101,360 |
+   +-----------+-----+----------+----------+----------+
+
+.. raw:: html
+
+   </div></div>
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Median salary (USD) by age group" aria-describedby="figure_salary-by-age-group_desc" type="image/svg+xml" data="/_images/2025-salary-by-age-group.svg">
+         <p id="figure_salary-by-age-group_desc">Line chart showing median salary by age group for worldwide, North America, and Europe. Salary generally increases with age, with North America significantly higher than Europe across all age groups.</p>
+      </object>
+      <figcaption>Figure: Median salary (USD) by age group</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-salary-by-age-group.svg
+   :class: hide
+
+Median salary by education level
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Worldwide, undergraduate respondents had the highest median salary ($99,410), appearing to outperform postgraduate respondents ($86,450). This finding is counterintuitive, but it is largely a composition effect rather than a genuine credential premium in reverse. Undergraduate respondents are concentrated in North America (66% of that group), while postgraduate respondents are more globally distributed (52% in NA). Within each region individually, the gap narrows to near-zero: in North America, undergraduates earned $118,500 and postgraduates $119,500; in Europe, undergraduates earned $64,022 and postgraduates $67,350. Both regional breakdowns show postgraduate slightly ahead.
+
+The Europe tab covers only three education levels — undergraduate, postgraduate, and multiple postgraduate — as the other categories had fewer than 10 respondents in the region.
+
+.. raw:: html
+
+   <div class="tab-wrap"><input type="radio" id="tabG4edu-1" name="tabGroupG4edu" class="tab" checked><label for="tabG4edu-1">Worldwide</label><input type="radio" id="tabG4edu-2" name="tabGroupG4edu" class="tab"><label for="tabG4edu-2">North America</label><input type="radio" id="tabG4edu-3" name="tabGroupG4edu" class="tab"><label for="tabG4edu-3">Europe</label><div class="tab__content">
+
+.. table:: Salary (USD) by education level
+   :name: tbl-2025-salary-by-education-level
+   :class: medians-with-num sortable
+
+   +-----------------------------+-----+----------+----------+----------+
+   | Education level             | |N| | |25|     | |50|     | |75|     |
+   +=============================+=====+==========+==========+==========+
+   | |1| High school             | 23  |       -- |  $93,000 |       -- |
+   +-----------------------------+-----+----------+----------+----------+
+   | |2| Technical/vocational    | 16  |       -- |  $90,935 |       -- |
+   +-----------------------------+-----+----------+----------+----------+
+   | |3| Undergraduate           | 317 |  $64,731 |  $99,410 | $136,487 |
+   +-----------------------------+-----+----------+----------+----------+
+   | |4| Multiple undergraduate  | 22  |       -- |  $92,592 |       -- |
+   +-----------------------------+-----+----------+----------+----------+
+   | |5| Postgraduate            | 254 |  $62,327 |  $86,450 | $135,791 |
+   +-----------------------------+-----+----------+----------+----------+
+   | |6| Multiple postgraduate   | 32  |  $56,782 |  $85,426 | $126,550 |
+   +-----------------------------+-----+----------+----------+----------+
+
+.. raw:: html
+
+      <figure>
+         <object role="img" aria-label="Salary (USD) by education level" aria-describedby="figure_salary-by-education_desc" type="image/svg+xml" data="/_images/2025-salary-by-education.svg">
+            <p id="figure_salary-by-education_desc">Horizontal bar chart showing worldwide median salary by education level. Undergraduate has the highest worldwide median at $99,410, though this reflects regional composition rather than a genuine credential effect.</p>
+         </object>
+         <figcaption>Figure: Salary (USD) by education level</figcaption>
+      </figure>
+
+   </div><div class="tab__content">
+
+.. table:: Salary (USD) by education level - North America
+   :name: tbl-2025-salary-by-education-level-north-america
+   :class: medians-with-num sortable
+
+   +-----------------------------+-----+----------+----------+----------+
+   | Education level             | |N| | |25|     | |50|     | |75|     |
+   +=============================+=====+==========+==========+==========+
+   | |1| High school             | 13  |       -- | $116,000 |       -- |
+   +-----------------------------+-----+----------+----------+----------+
+   | |2| Undergraduate           | 208 |  $90,108 | $118,500 | $156,796 |
+   +-----------------------------+-----+----------+----------+----------+
+   | |3| Multiple undergraduate  | 15  |       -- | $101,000 |       -- |
+   +-----------------------------+-----+----------+----------+----------+
+   | |4| Postgraduate            | 132 |  $85,026 | $119,500 | $160,809 |
+   +-----------------------------+-----+----------+----------+----------+
+   | |5| Multiple postgraduate   | 14  |       -- | $122,500 |       -- |
+   +-----------------------------+-----+----------+----------+----------+
+
+.. raw:: html
+
+      <figure>
+         <object role="img" aria-label="Salary (USD) by education level — North America" aria-describedby="figure_salary-by-education-na_desc" type="image/svg+xml" data="/_images/2025-salary-by-education-na.svg">
+            <p id="figure_salary-by-education-na_desc">Horizontal bar chart showing North America median salary by education level. All categories cluster between $101,000 and $122,500, with postgraduate and multiple postgraduate slightly higher than undergraduate.</p>
+         </object>
+         <figcaption>Figure: Salary (USD) by education level — North America</figcaption>
+      </figure>
+
+   </div><div class="tab__content">
+
+.. table:: Salary (USD) by education level - Europe
+   :name: tbl-2025-salary-by-education-level-europe
+   :class: medians-with-num sortable
+
+   +-----------------------------+-----+----------+----------+----------+
+   | Education level             | |N| | |25|     | |50|     | |75|     |
+   +=============================+=====+==========+==========+==========+
+   | |1| Undergraduate           | 60  |  $47,625 |  $64,022 |  $98,151 |
+   +-----------------------------+-----+----------+----------+----------+
+   | |2| Postgraduate            | 92  |  $50,505 |  $67,350 |  $89,949 |
+   +-----------------------------+-----+----------+----------+----------+
+   | |3| Multiple postgraduate   | 13  |       -- |  $57,687 |       -- |
+   +-----------------------------+-----+----------+----------+----------+
+
+.. raw:: html
+
+      <figure>
+         <object role="img" aria-label="Salary (USD) by education level — Europe" aria-describedby="figure_salary-by-education-eu_desc" type="image/svg+xml" data="/_images/2025-salary-by-education-eu.svg">
+            <p id="figure_salary-by-education-eu_desc">Horizontal bar chart showing European median salary by education level for the three qualifying categories. Postgraduate ($67,350) is slightly higher than undergraduate ($64,022).</p>
+         </object>
+         <figcaption>Figure: Salary (USD) by education level — Europe</figcaption>
+      </figure>
+
+   </div></div>
+
+.. figure:: images/2025/2025-salary-by-education.svg
+   :class: hide
+
+.. figure:: images/2025/2025-salary-by-education-na.svg
+   :class: hide
+
+.. figure:: images/2025/2025-salary-by-education-eu.svg
+   :class: hide
+
 Median salary by organization size
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2280,6 +2476,259 @@ Salaries generally increase with the size of the organization, with the highest 
    </figure>
 
 .. figure:: images/2025/2025-salary-by-org-size.svg
+   :class: hide
+
+Median salary by primary role category
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Among the five primary role categories with at least 10 respondents, DocOps practitioners had the highest median salary at $128,800. Technical writers — by far the most common primary role, with 539 respondents — had a median of $90,610. Developer or engineers, project or product managers, and editors all fell within a narrow range of $90,370 to $93,759. The other role categories did not have enough respondents to include.
+
+25th and 75th percentile figures are only available for the technical writer category, which was the only primary role category with at least 30 respondents. The DocOps result ($128,800) is based on 14 respondents and should be treated as indicative rather than definitive.
+
+.. table:: Salary (USD) by primary role category
+   :name: tbl-2025-salary-by-primary-role-category
+   :class: medians-with-num sortable
+
+   +--------------------------------+-----+----------+----------+----------+
+   | Role category                  | |N| | |25|     | |50|     | |75|     |
+   +================================+=====+==========+==========+==========+
+   | |1| DocOps                     | 14  |       -- | $128,800 |       -- |
+   +--------------------------------+-----+----------+----------+----------+
+   | |2| Developer or engineer      | 11  |       -- |  $93,759 |       -- |
+   +--------------------------------+-----+----------+----------+----------+
+   | |3| Project or product manager | 19  |       -- |  $91,811 |       -- |
+   +--------------------------------+-----+----------+----------+----------+
+   | |4| Technical writer           | 539 |  $62,355 |  $90,610 | $135,005 |
+   +--------------------------------+-----+----------+----------+----------+
+   | |5| Editor                     | 17  |       -- |  $90,370 |       -- |
+   +--------------------------------+-----+----------+----------+----------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Salary (USD) by primary role category" aria-describedby="figure_salary-by-primary-role-category_desc" type="image/svg+xml" data="/_images/2025-salary-by-primary-role-category.svg">
+         <p id="figure_salary-by-primary-role-category_desc">Horizontal bar chart showing median salary by primary role category. DocOps has the highest median at $128,800. Developer or engineer, project or product manager, technical writer, and editor are all between $90,370 and $93,759.</p>
+      </object>
+      <figcaption>Figure: Salary (USD) by primary role category</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-salary-by-primary-role-category.svg
+   :class: hide
+
+Median salary by number of additional role categories
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Respondents who performed a wider range of roles tended to earn more, and this pattern holds across all three regions. Worldwide, those with no additional role categories had a median salary of $68,720, compared to $108,000 for those with six or more — a 57% difference. In North America the gradient is steeper: from $95,000 (no additional roles) to $137,500 (six or more). In Europe the range is more compressed, rising from $57,115 to $74,792, with the 1–2 and 3–5 groups nearly identical at around $65,000–$66,000.
+
+This pattern likely reflects experience as a confounding factor: practitioners with more years in the field tend both to take on broader responsibilities and to command higher salaries. The data cannot distinguish between the two effects, but the relationship is clear and consistent across regions.
+
+.. raw:: html
+
+   <div class="tab-wrap"><input type="radio" id="tabA4roles-1" name="tabGroupA4roles" class="tab" checked><label for="tabA4roles-1">Worldwide</label><input type="radio" id="tabA4roles-2" name="tabGroupA4roles" class="tab"><label for="tabA4roles-2">North America</label><input type="radio" id="tabA4roles-3" name="tabGroupA4roles" class="tab"><label for="tabA4roles-3">Europe</label><div class="tab__content">
+
+.. table:: Salary (USD) by number of additional role categories
+   :name: tbl-2025-salary-by-additional-role-categories
+   :class: medians-with-num sortable
+
+   +----------------------------+-----+----------+----------+----------+
+   | Additional role categories | |N| | |25|     | |50|     | |75|     |
+   +============================+=====+==========+==========+==========+
+   | |1| None                   | 47  |  $42,128 |  $68,720 |  $95,000 |
+   +----------------------------+-----+----------+----------+----------+
+   | |2| 1-2                    | 133 |  $58,314 |  $88,111 | $130,000 |
+   +----------------------------+-----+----------+----------+----------+
+   | |3| 3-5                    | 286 |  $63,473 |  $90,692 | $124,125 |
+   +----------------------------+-----+----------+----------+----------+
+   | |4| 6 or more              | 201 |  $72,250 | $108,000 | $150,620 |
+   +----------------------------+-----+----------+----------+----------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Salary (USD) by number of additional role categories - North America
+   :name: tbl-2025-salary-by-additional-role-categories-north-america
+   :class: medians-with-num sortable
+
+   +----------------------------+-----+----------+----------+----------+
+   | Additional role categories | |N| | |25|     | |50|     | |75|     |
+   +============================+=====+==========+==========+==========+
+   | |1| None                   | 19  |       -- |  $95,000 |       -- |
+   +----------------------------+-----+----------+----------+----------+
+   | |2| 1-2                    | 74  |  $82,444 | $104,146 | $158,046 |
+   +----------------------------+-----+----------+----------+----------+
+   | |3| 3-5                    | 167 |  $86,400 | $118,000 | $145,000 |
+   +----------------------------+-----+----------+----------+----------+
+   | |4| 6 or more              | 131 |  $95,000 | $137,500 | $180,000 |
+   +----------------------------+-----+----------+----------+----------+
+
+.. raw:: html
+
+   </div><div class="tab__content">
+
+.. table:: Salary (USD) by number of additional role categories - Europe
+   :name: tbl-2025-salary-by-additional-role-categories-europe
+   :class: medians-with-num sortable
+
+   +----------------------------+-----+----------+----------+----------+
+   | Additional role categories | |N| | |25|     | |50|     | |75|     |
+   +============================+=====+==========+==========+==========+
+   | |1| None                   | 15  |       -- |  $57,115 |       -- |
+   +----------------------------+-----+----------+----------+----------+
+   | |2| 1-2                    | 38  |  $50,268 |  $65,066 |  $95,470 |
+   +----------------------------+-----+----------+----------+----------+
+   | |3| 3-5                    | 81  |  $47,982 |  $65,908 |  $86,331 |
+   +----------------------------+-----+----------+----------+----------+
+   | |4| 6 or more              | 50  |  $51,931 |  $74,792 | $100,728 |
+   +----------------------------+-----+----------+----------+----------+
+
+.. raw:: html
+
+   </div></div>
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Median salary (USD) by number of additional role categories" aria-describedby="figure_salary-by-additional-role-categories_desc" type="image/svg+xml" data="/_images/2025-salary-by-additional-role-categories.svg">
+         <p id="figure_salary-by-additional-role-categories_desc">Line chart showing median salary by number of additional role categories for worldwide, North America, and Europe. All three regions show an upward trend, with North America significantly higher than Europe across all groups.</p>
+      </object>
+      <figcaption>Figure: Median salary (USD) by number of additional role categories</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-salary-by-additional-role-categories.svg
+   :class: hide
+
+Median salary by industry
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Salary varies substantially across industries, from a worldwide median of $78,500 in finance to $140,391 in advertising. However, the industry breakdown requires two important caveats.
+
+First, respondents could select multiple industries — the same person may be counted in several industry categories, so totals across rows exceed the respondent count. Second, some industries have a strong geographic concentration that inflates or deflates their worldwide median. Advertising is the clearest example: 31 of its 39 worldwide respondents are in North America, so its $140,391 worldwide median largely reflects North American salary levels rather than a true global industry premium.
+
+The North America tab shows all 10 industries, with advertising and data/analytics near-tied at the top ($158,000 and $157,394). The Europe tab covers the 7 industries with at least 10 European respondents; advertising, government, and healthcare fall below that threshold.
+
+.. raw:: html
+
+   <div class="tab-wrap"><input type="radio" id="tabF3ind-1" name="tabGroupF3ind" class="tab" checked><label for="tabF3ind-1">Worldwide</label><input type="radio" id="tabF3ind-2" name="tabGroupF3ind" class="tab"><label for="tabF3ind-2">North America</label><input type="radio" id="tabF3ind-3" name="tabGroupF3ind" class="tab"><label for="tabF3ind-3">Europe</label><div class="tab__content">
+
+.. table:: Salary (USD) by industry
+   :name: tbl-2025-salary-by-industry
+   :class: medians-with-num sortable
+
+   +-----------------------+-----+----------+----------+----------+
+   | Industry              | |N| | |25|     | |50|     | |75|     |
+   +=======================+=====+==========+==========+==========+
+   | |1| Advertising       | 39  |  $89,516 | $140,391 | $193,200 |
+   +-----------------------+-----+----------+----------+----------+
+   | |2| Data/analytics    | 70  |  $71,884 | $113,930 | $172,306 |
+   +-----------------------+-----+----------+----------+----------+
+   | |3| Security          | 58  |  $72,037 | $105,002 | $145,234 |
+   +-----------------------+-----+----------+----------+----------+
+   | |4| Software          | 314 |  $65,886 |  $94,334 | $143,022 |
+   +-----------------------+-----+----------+----------+----------+
+   | |5| Telecoms          | 163 |  $61,973 |  $93,600 | $143,086 |
+   +-----------------------+-----+----------+----------+----------+
+   | |6| Business services | 42  |  $75,295 |  $91,000 | $136,250 |
+   +-----------------------+-----+----------+----------+----------+
+   | |7| Government        | 25  |       -- |  $89,516 |       -- |
+   +-----------------------+-----+----------+----------+----------+
+   | |8| Healthcare        | 50  |  $69,346 |  $88,334 | $110,223 |
+   +-----------------------+-----+----------+----------+----------+
+   | |9| Manufacturing     | 54  |  $65,386 |  $86,819 | $117,403 |
+   +-----------------------+-----+----------+----------+----------+
+   | |10| Finance          | 94  |  $57,254 |  $78,500 | $112,418 |
+   +-----------------------+-----+----------+----------+----------+
+
+.. raw:: html
+
+      <figure>
+         <object role="img" aria-label="Salary (USD) by industry" aria-describedby="figure_salary-by-industry_desc" type="image/svg+xml" data="/_images/2025-salary-by-industry.svg">
+            <p id="figure_salary-by-industry_desc">Horizontal bar chart showing worldwide median salary by industry. Advertising leads at $140,391, followed by data/analytics at $113,930. Finance has the lowest median at $78,500.</p>
+         </object>
+         <figcaption>Figure: Salary (USD) by industry</figcaption>
+      </figure>
+
+   </div><div class="tab__content">
+
+.. table:: Salary (USD) by industry - North America
+   :name: tbl-2025-salary-by-industry-north-america
+   :class: medians-with-num sortable
+
+   +-----------------------+-----+----------+----------+----------+
+   | Industry              | |N| | |25|     | |50|     | |75|     |
+   +=======================+=====+==========+==========+==========+
+   | |1| Advertising       | 31  | $105,480 | $158,000 | $200,000 |
+   +-----------------------+-----+----------+----------+----------+
+   | |2| Data/analytics    | 45  | $108,446 | $157,394 | $200,155 |
+   +-----------------------+-----+----------+----------+----------+
+   | |3| Security          | 30  | $111,723 | $140,500 | $171,250 |
+   +-----------------------+-----+----------+----------+----------+
+   | |4| Telecoms          | 90  |  $93,450 | $140,000 | $180,250 |
+   +-----------------------+-----+----------+----------+----------+
+   | |5| Software          | 173 |  $89,714 | $128,600 | $169,889 |
+   +-----------------------+-----+----------+----------+----------+
+   | |6| Business services | 26  |       -- | $112,946 |       -- |
+   +-----------------------+-----+----------+----------+----------+
+   | |7| Finance           | 47  |  $80,000 | $105,000 | $150,000 |
+   +-----------------------+-----+----------+----------+----------+
+   | |8| Manufacturing     | 33  |  $79,800 |  $93,000 | $125,000 |
+   +-----------------------+-----+----------+----------+----------+
+   | |9| Government        | 21  |       -- |  $92,000 |       -- |
+   +-----------------------+-----+----------+----------+----------+
+   | |10| Healthcare       | 42  |  $71,956 |  $90,215 | $113,750 |
+   +-----------------------+-----+----------+----------+----------+
+
+.. raw:: html
+
+      <figure>
+         <object role="img" aria-label="Salary (USD) by industry — North America" aria-describedby="figure_salary-by-industry-na_desc" type="image/svg+xml" data="/_images/2025-salary-by-industry-na.svg">
+            <p id="figure_salary-by-industry-na_desc">Horizontal bar chart showing North America median salary by industry. Advertising and data/analytics are nearly tied at the top ($158,000 and $157,394). Healthcare has the lowest median at $90,215.</p>
+         </object>
+         <figcaption>Figure: Salary (USD) by industry — North America</figcaption>
+      </figure>
+
+   </div><div class="tab__content">
+
+.. table:: Salary (USD) by industry - Europe
+   :name: tbl-2025-salary-by-industry-europe
+   :class: medians-with-num sortable
+
+   +-----------------------+-----+----------+----------+----------+
+   | Industry              | |N| | |25|     | |50|     | |75|     |
+   +=======================+=====+==========+==========+==========+
+   | |1| Business services | 10  |       -- |  $82,188 |       -- |
+   +-----------------------+-----+----------+----------+----------+
+   | |2| Security          | 17  |       -- |  $72,716 |       -- |
+   +-----------------------+-----+----------+----------+----------+
+   | |3| Manufacturing     | 18  |       -- |  $70,609 |       -- |
+   +-----------------------+-----+----------+----------+----------+
+   | |4| Software          | 97  |  $51,686 |  $67,778 |  $93,759 |
+   +-----------------------+-----+----------+----------+----------+
+   | |5| Finance           | 26  |       -- |  $67,642 |       -- |
+   +-----------------------+-----+----------+----------+----------+
+   | |6| Data/analytics    | 19  |       -- |  $65,908 |       -- |
+   +-----------------------+-----+----------+----------+----------+
+   | |7| Telecoms          | 51  |  $47,878 |  $60,052 |  $84,722 |
+   +-----------------------+-----+----------+----------+----------+
+
+.. raw:: html
+
+      <figure>
+         <object role="img" aria-label="Salary (USD) by industry — Europe" aria-describedby="figure_salary-by-industry-eu_desc" type="image/svg+xml" data="/_images/2025-salary-by-industry-eu.svg">
+            <p id="figure_salary-by-industry-eu_desc">Horizontal bar chart showing European median salary by industry for the seven qualifying categories. The range is compressed compared to North America, from $60,052 (telecoms) to $82,188 (business services).</p>
+         </object>
+         <figcaption>Figure: Salary (USD) by industry — Europe</figcaption>
+      </figure>
+
+   </div></div>
+
+.. figure:: images/2025/2025-salary-by-industry.svg
+   :class: hide
+
+.. figure:: images/2025/2025-salary-by-industry-na.svg
+   :class: hide
+
+.. figure:: images/2025/2025-salary-by-industry-eu.svg
    :class: hide
 
 Employee satisfaction

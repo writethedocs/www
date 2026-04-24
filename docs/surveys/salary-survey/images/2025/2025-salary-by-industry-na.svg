@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 40 660 465">
+  <title>Salary (USD) by industry — North America</title>
+  <text x="330" y="25" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#252521">Salary (USD) by industry — North America</text>
+
+  <!-- Grid lines -->
+  <line x1="285.0" y1="97" x2="285.0" y2="476" stroke="#E8E8E8" stroke-width="1"/>
+  <line x1="370.0" y1="97" x2="370.0" y2="476" stroke="#E8E8E8" stroke-width="1"/>
+  <line x1="455.0" y1="97" x2="455.0" y2="476" stroke="#E8E8E8" stroke-width="1"/>
+  <line x1="540.0" y1="97" x2="540.0" y2="476" stroke="#E8E8E8" stroke-width="1"/>
+  <line x1="625.0" y1="97" x2="625.0" y2="476" stroke="#E8E8E8" stroke-width="1"/>
+
+  <!-- Axes -->
+  <line x1="200" y1="97" x2="200" y2="476" stroke="#CCCCCC" stroke-width="1"/>
+  <line x1="200" y1="476" x2="625.0" y2="476" stroke="#CCCCCC" stroke-width="1"/>
+
+  <!-- Bars -->
+  <rect x="200" y="97" width="425" height="18" fill="#F0F0F0"/>
+  <rect x="424.1" y="97" width="200.9" height="18" fill="#A8C8E8"/>
+  <rect x="534.3" y="97" width="3" height="18" fill="#1A4A8C"/>
+  <text x="195" y="110" text-anchor="end" font-family="sans-serif" font-size="11" fill="#252521">Advertising</text>
+  <text x="542.8" y="110" font-family="sans-serif" font-size="10" fill="#252521">$158K</text>
+  <rect x="200" y="137" width="425" height="18" fill="#F0F0F0"/>
+  <rect x="430.4" y="137" width="194.6" height="18" fill="#A8C8E8"/>
+  <rect x="533.0" y="137" width="3" height="18" fill="#1A4A8C"/>
+  <text x="195" y="150" text-anchor="end" font-family="sans-serif" font-size="11" fill="#252521">Data/analytics</text>
+  <text x="541.5" y="150" font-family="sans-serif" font-size="10" fill="#252521">$157.4K</text>
+  <rect x="200" y="177" width="425" height="18" fill="#F0F0F0"/>
+  <rect x="437.4" y="177" width="126.5" height="18" fill="#A8C8E8"/>
+  <rect x="497.1" y="177" width="3" height="18" fill="#1A4A8C"/>
+  <text x="195" y="190" text-anchor="end" font-family="sans-serif" font-size="11" fill="#252521">Security</text>
+  <text x="505.6" y="190" font-family="sans-serif" font-size="10" fill="#252521">$140.5K</text>
+  <rect x="200" y="217" width="425" height="18" fill="#F0F0F0"/>
+  <rect x="398.6" y="217" width="184.4" height="18" fill="#A8C8E8"/>
+  <rect x="496.0" y="217" width="3" height="18" fill="#1A4A8C"/>
+  <text x="195" y="230" text-anchor="end" font-family="sans-serif" font-size="11" fill="#252521">Telecoms</text>
+  <text x="504.5" y="230" font-family="sans-serif" font-size="10" fill="#252521">$140K</text>
+  <rect x="200" y="257" width="425" height="18" fill="#F0F0F0"/>
+  <rect x="390.6" y="257" width="170.4" height="18" fill="#A8C8E8"/>
+  <rect x="471.8" y="257" width="3" height="18" fill="#1A4A8C"/>
+  <text x="195" y="270" text-anchor="end" font-family="sans-serif" font-size="11" fill="#252521">Software</text>
+  <text x="480.3" y="270" font-family="sans-serif" font-size="10" fill="#252521">$128.6K</text>
+  <rect x="200" y="297" width="425" height="18" fill="#F0F0F0"/>
+  <rect x="438.5" y="297" width="3" height="18" fill="#1A4A8C"/>
+  <text x="195" y="310" text-anchor="end" font-family="sans-serif" font-size="11" fill="#252521">Business services</text>
+  <text x="447.0" y="310" font-family="sans-serif" font-size="10" fill="#666666">$112.9K</text>
+  <rect x="200" y="337" width="425" height="18" fill="#F0F0F0"/>
+  <rect x="370.0" y="337" width="148.8" height="18" fill="#A8C8E8"/>
+  <rect x="421.6" y="337" width="3" height="18" fill="#1A4A8C"/>
+  <text x="195" y="350" text-anchor="end" font-family="sans-serif" font-size="11" fill="#252521">Finance</text>
+  <text x="430.1" y="350" font-family="sans-serif" font-size="10" fill="#252521">$105K</text>
+  <rect x="200" y="377" width="425" height="18" fill="#F0F0F0"/>
+  <rect x="369.6" y="377" width="96.0" height="18" fill="#A8C8E8"/>
+  <rect x="396.1" y="377" width="3" height="18" fill="#1A4A8C"/>
+  <text x="195" y="390" text-anchor="end" font-family="sans-serif" font-size="11" fill="#252521">Manufacturing</text>
+  <text x="404.6" y="390" font-family="sans-serif" font-size="10" fill="#252521">$93K</text>
+  <rect x="200" y="417" width="425" height="18" fill="#F0F0F0"/>
+  <rect x="394.0" y="417" width="3" height="18" fill="#1A4A8C"/>
+  <text x="195" y="430" text-anchor="end" font-family="sans-serif" font-size="11" fill="#252521">Government</text>
+  <text x="402.5" y="430" font-family="sans-serif" font-size="10" fill="#666666">$92K</text>
+  <rect x="200" y="457" width="425" height="18" fill="#F0F0F0"/>
+  <rect x="352.9" y="457" width="88.8" height="18" fill="#A8C8E8"/>
+  <rect x="390.2" y="457" width="3" height="18" fill="#1A4A8C"/>
+  <text x="195" y="470" text-anchor="end" font-family="sans-serif" font-size="11" fill="#252521">Healthcare</text>
+  <text x="398.7" y="470" font-family="sans-serif" font-size="10" fill="#252521">$90.2K</text>
+
+  <!-- X-axis ticks and labels -->
+  <line x1="285.0" y1="476" x2="285.0" y2="481" stroke="#CCCCCC" stroke-width="1"/>
+  <text x="285.0" y="493" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#888888">$40K</text>
+  <line x1="370.0" y1="476" x2="370.0" y2="481" stroke="#CCCCCC" stroke-width="1"/>
+  <text x="370.0" y="493" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#888888">$80K</text>
+  <line x1="455.0" y1="476" x2="455.0" y2="481" stroke="#CCCCCC" stroke-width="1"/>
+  <text x="455.0" y="493" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#888888">$120K</text>
+  <line x1="540.0" y1="476" x2="540.0" y2="481" stroke="#CCCCCC" stroke-width="1"/>
+  <text x="540.0" y="493" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#888888">$160K</text>
+  <line x1="625.0" y1="476" x2="625.0" y2="481" stroke="#CCCCCC" stroke-width="1"/>
+  <text x="625.0" y="493" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#888888">$200K</text>
+
+  <!-- Legend -->
+  <rect x="502" y="55" width="143" height="36" fill="white" stroke="#CCCCCC" stroke-width="1" rx="2"/>
+  <rect x="514" y="60" width="3" height="10" fill="#1A4A8C"/>
+  <text x="524" y="69" font-family="sans-serif" font-size="10" fill="#252521">Median</text>
+  <circle cx="516" cy="79" r="5" fill="#A8C8E8"/>
+  <text x="524" y="83" font-family="sans-serif" font-size="10" fill="#252521">25th–75th percentile</text>
+</svg>
