@@ -43,7 +43,7 @@ The walk from the Rose Garden to Powell's is 1.5 miles long and has 400 feet of 
   - 4:00-5:00 PM: Explore Powell's 
   - 5:00 PM: Meet back up for those who want to take public transportation, rideshare, or walk back to the Rose Garden together. 
 - **Lunch (optional):** You're welcome to join us at [Nob Hill food carts](https://www.google.com/maps/place/Nob+Hill+Food+Carts/@45.5360531,-122.7007924,19.6z/data=!4m7!3m6!1s0x54950942eb34ca71:0xe277fed8c0cec152!8m2!3d45.5362156!4d-122.7000932!15sChZmb29kIGNhcnRzIG53IHBvcnRsYW5kkgEKZm9vZF9jb3VydOABAA!16s%2Fg%2F11vwhg4f9_?entry=tts) at 12:30pm for lunch. We'll leave at 1:30pm and walk 1.4 miles to the Rose Garden.
-- **Start:** [International Rose Test Garden](https://google.com/maps/place/International+Rose+Test+Garden/data=!4m2!3m1!1s0x0:0x91fbfe94968fdfc6?sa=X&ved=1t:2428&ictx=111), exact location TBD
+- **Start:** Meet at the patio by the [Rose Garden Store](https://maps.app.goo.gl/qcCUVUDJFpYMqsKq6). Parking is available near the tennis courts and along SW Sherwood Blvd ($2.40/hr, pay at the stations or via the Parking Kitty app).
 - **End:** [Powell's Books](https://www.google.com/maps/search/Powell's+Books/@45.518945,-122.7438128,13z?entry=ttu&g_ep=EgoyMDI2MDIyMy4wIKXMDSoASAFQAw%3D%3D]), where you're welcome to browse on your own or walk around with another attendee.
 
 ## What to Bring
