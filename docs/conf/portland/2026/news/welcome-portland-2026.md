@@ -71,7 +71,7 @@ We're also opening up Monday Lightning Talk submissions. Lightning Talks are a w
 </table>
 </div>
 
-```{figure} /_static/conf/images/headers/portland-2024-all-speakers.jpg
+```{figure} /_static/conf/images/headers/portland-2025-speakers.jpg
 ```
 
 ## Join our Slack Community
