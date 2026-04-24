@@ -26,8 +26,14 @@ Everyone!
 
 See the [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page for exact times.
 
+{% if unconf.url %}
 ```{button-link} {{ unconf.url }}
 Sign up to Lead a Monday Unconference
+```
+{% endif %}
+
+```{button-link} /conf/{{shortcode}}/{{year}}/schedule
+View the Conference Schedule
 ```
 
 ## Sponsor Sessions in Martha's

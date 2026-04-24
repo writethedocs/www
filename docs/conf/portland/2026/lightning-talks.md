@@ -28,8 +28,14 @@ Lightning Talks can be submitted through an online form only.
 - [Sign up online]({{ lightning_talks.signup_url }}) one week prior to the conference (Monday submissions only)
 - During the conference from Sunday to Tuesday morning, until the end of the last morning break
 
+{% if lightning_talks.signup_url %}
 ```{button-link} {{ lightning_talks.signup_url }}
 Submit your Monday Lightning Talk
+```
+{% endif %}
+
+```{button-link} /conf/{{shortcode}}/{{year}}/schedule
+View the Conference Schedule
 ```
 
 **Speaker selection and announcements:**
