@@ -49,7 +49,7 @@ When discussing how to pitch the conference, a few generally helpful tips emerge
 - Establishes your team's reputation for caring about their docs.
 - Share info about previous conferences. View the [main page overview](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/) explaining Write the Docs, history, and schedule overview.
 
-## Sample Email # 2
+## Sample Email #2
 
 ### Convince your manager or community to participate in Writing Day
 
@@ -77,8 +77,8 @@ Remember to change the things in [brackets]!
 - *Get highlighted as a project in the conference blog and announcements (must submit online by {{ writing_day.project_deadline }})*
 - *Onboard documentation enthusiasts to increase the likelihood of post-conference contributions*
 - *Strategically tackle documentation tickets and requests*
-- *Update existing documentation
-Peer review new and existing documentation*
+- *Update existing documentation*
+- *Peer review new and existing documentation*
 
 *Conference Benefits:*
 
