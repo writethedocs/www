@@ -12,6 +12,9 @@ Our conferences create a time and a place for the global community of
 documentarians to share information, discuss ideas, and work together to
 improve the art and science of documentation.
 
+2026 Conferences
+----------------
+
 {% include "conf/current.rst" %}
 
 {% include "conf/past.rst" %}
