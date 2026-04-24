@@ -772,6 +772,7 @@ main {
     &.col3right { thead { th:nth-of-type(3) { text-align: right; } } tbody { td:nth-of-type(3) { text-align: right; } } }
     &.col4right { thead { th:nth-of-type(4) { text-align: right; } } tbody { td:nth-of-type(4) { text-align: right; } } }
     &.col5right { thead { th:nth-of-type(5) { text-align: right; } } tbody { td:nth-of-type(5) { text-align: right; } } }
+    &.col6right { thead { th:nth-of-type(6) { text-align: right; } } tbody { td:nth-of-type(6) { text-align: right; } } }
     &.medians { 
 			thead { th { text-align: right; &:nth-of-type(1) { text-align: left; } } }
 			tbody { tr:has(td strong) { td { border-bottom: 1px solid var(--border-color-1); } } 
@@ -1007,13 +1008,13 @@ dl.footnote.brackets {
 			&::after,	&::before { transition: color .1s ease-in-out; font-size: 1.2em; color: rgba(0, 0, 0, 0); }
 			&::after { margin-left: 3px; content: "▸"; }
 			&:hover::after { color: inherit; }
-			[aria-sort=descending]::after { color: inherit; content: "▾"; }
-			[aria-sort=ascending]::after { color: inherit; content: "▴"; }
-			.indicator-left::after { content: ""; }
-			.indicator-left::before { margin-right: 3px; content: "▸"; }
-			.indicator-left:hover::before { color: inherit; }
-			.indicator-left[aria-sort=descending]::before { color: inherit; content: "▾"; }
-			.indicator-left[aria-sort=ascending]::before { color: inherit; content: "▴"; } 
+                        &[aria-sort=descending]::after { color: inherit; content: "▾"; }
+                        &[aria-sort=ascending]::after { color: inherit; content: "▴"; }
+                        &.indicator-left::after { content: ""; }
+                        &.indicator-left::before { margin-right: 3px; content: "▸"; }
+                        &.indicator-left:hover::before { color: inherit; }
+                        &.indicator-left[aria-sort=descending]::before { color: inherit; content: "▾"; }
+                        &.indicator-left[aria-sort=ascending]::before { color: inherit; content: "▴"; } 
 		}
 	}
 	tbody { td { padding-right: 12px; } }
