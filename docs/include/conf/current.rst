@@ -1,7 +1,9 @@
 2026 Conferences
 ----------------
 
+- :doc:`Portland 2026 </conf/portland/2026/index>`, May 3-5, **Portland, Oregon**
 - `Write the Docs Kenya <https://www.meetup.com/wtd-kenya/events/314376384/>`__, **Nairobi, Kenya**
+- :doc:`Berlin 2026 </conf/berlin/2026/index>`, September 6-8, **Berlin, Germany**
 
 2025 Conferences
 ----------------
