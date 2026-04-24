@@ -8,7 +8,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
    :tags: {{shortcode}}-{{year}}
 ```
 
-# Welcome to Write the Docs  {{ name }} {{ year }}!
+# Welcome to Write the Docs {{ name }} {{ year }}!
 
 We have officially arrived at conference week! We're excited to gather in Portland for our 14th year and our fourth time at Revolution Hall. We hope you're as excited as we are! Below is an overview of the conference, as well as a couple of announcements.
 
