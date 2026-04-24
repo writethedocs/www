@@ -33,3 +33,5 @@ and chat about the conference in a relaxed atmosphere.
 **When**: 7-9 PM
 
 *Both alcoholic and non-alcoholic drinks and snacks will be provided.*
+
+*The Monday Night Social is sponsored by [Promptless](https://promptless.ai/?ref=writethedocs).*
