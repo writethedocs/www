@@ -112,7 +112,7 @@ Documentation Salary Survey 2025 Results
 Introduction
 ============
 
-The Write the Docs Salary Survey for 2025 - our seventh annual survey - drew **755 responses from documentarians in 48 countries**. Thank you to everyone who participated. 
+The Write the Docs Salary Survey for 2025 — our seventh annual survey — drew **755 responses from documentarians in 48 countries**. Thank you to everyone who participated. 
 
 .. tip::
 
@@ -166,7 +166,7 @@ We're always keen to hear your thoughts on this survey, so that we can continue 
 
    .. rubric:: Your comments
 
-   Here's some of our favourite comments from 2025:
+   Here's some of our favourite comments:
 
    .. pull-quote::
 
@@ -257,9 +257,9 @@ Basis of employment
 
    .. rubric:: Contractors, freelancers and self-employed people
 
-   We asked those who filled out the survey as independent contractors, freelancers or self-employed people what term they used to describe their type of employment. The majority (68%) preferred the term “contractor”, with only 12% using “self-employed” and 11.2% using “freelancer”. In this report, we’ll use the term “contractors” to refer to this entire group.
+   We asked those who filled out the survey as independent contractors, freelancers or self-employed people their `preferred term`_ to describe their type of employment. The majority (68.8%) preferred the term “contractor”, with only 12.5% using “self-employed” and 11.2% using “freelancer”. In this report, we’ll use the term “contractors” to refer to this entire group.
 
-Employees made up the majority of survey respondents in 2025 (675, or 89.4%). Contractors made up 6% (46 individuals) and those who had worked in both capacities made up 4.5% (34 individuals).
+Employees made up the majority of survey respondents in 2025 (675, or 89.4%). Contractors made up 6.1% (46 individuals) and those who had worked in both capacities made up 4.5% (34 individuals).
 
 Including both salary and rate data for employee-contractors means that in total, we have 709 employee salaries and 80 sets of contract rates for our median breakdowns.
 
@@ -283,7 +283,7 @@ Including both salary and rate data for employee-contractors means that in total
    +-------------+-------------+-------------+----------------------+------------+
    | 2024        | 686 (87.9%) |   66 (8.5%) | 28 (3.6%)            | 780        |
    +-------------+-------------+-------------+----------------------+------------+
-   | 2025        | 675 (89.4%) |   46 (6%)   | 34 (4.5%)            | 755        |
+   | 2025        | 675 (89.4%) |   46 (6.1%) | 34 (4.5%)            | 755        |
    +-------------+-------------+-------------+----------------------+------------+
 
 .. raw:: html
@@ -298,7 +298,7 @@ Including both salary and rate data for employee-contractors means that in total
 .. figure:: images/2025/2025-basis-of-employment-history.svg
    :class: hide
 
-As in previous years, we encouraged those currently not working to respond as though still at their previous job/contract, provided they had worked at least some of the past year. 33 employees and 4 contractor filled out the survey on this basis. Of the employee-contractor respondents, 2 were completely unemployed, 7 were only working as a contractor and 13 were only working as an employee.
+As in previous years, we encouraged those currently not working to respond as though still at their previous job/contract, provided they had worked at least some of the past year. 33 employees and 4 contractors filled out the survey on this basis. Of the employee-contractor respondents, 2 were completely unemployed, 7 were only working as a contractor and 13 were only working as an employee.
 
 Hours worked
 ------------
@@ -337,7 +337,7 @@ Among respondents who worked only as employees, two-thirds (67.0%) worked standa
 
 Contractor-only respondents showed a wider spread. Half (50.0%) worked 31–40 hours per week, while 28.2% worked fewer than 31 hours.
 
-Among employee-contractors, most respondents reported working more hours as employees than as contractors (24 of 34, or 70.6%). Another 9 respondents (26.5%) worked about the same hours in both roles, and only 1 respondent (2.9%) worked more hours as a contractor. In approximate total hours, most employee-contractors clustered between 41 and 80 hours per week.
+Among employee-contractors, most (24 of 34, or 70.6%) worked more hours as employees than as contractors; 9 (26.5%) worked roughly equal hours in both roles, and only 1 (2.9%) worked more as a contractor. Based on combined hour ranges, most fell in the 41–80 hours per week band — though because the survey used bucketed ranges rather than exact figures, these represent the upper bound of each range and likely overstate actual hours worked.
 
 .. raw:: html
 
@@ -408,19 +408,19 @@ Among employee-contractors, most respondents reported working more hours as empl
    </div><div class="tab__content">
 
 .. table:: Employee-contractors: hours balance and approximate total hours (2025)
-   :widths: 32 12 12 12 12 10 10
+   :widths: 32 12 12 12 12 24
    :name: tbl-2025-weekly-hours-worked-employee-contractors
-   :class: sortable
+   :class: sortable col2right col3right col4right col5right col6right
 
-   +---------------------------+------+------+------+------+-----+-------+
-   | Pattern                   | 1–40 | 41–60| 61–80| 81+  | |N| | |%|   |
-   +===========================+======+======+======+======+=====+=======+
-   | More hours as employee    | 2    | 15   | 5    | 2    | 24  | 70.6% |
-   +---------------------------+------+------+------+------+-----+-------+
-   | About the same            | 1    | 0    | 8    | 0    | 9   | 26.5% |
-   +---------------------------+------+------+------+------+-----+-------+
-   | More hours as contractor  | 0    | 0    | 1    | 0    | 1   | 2.9%  |
-   +---------------------------+------+------+------+------+-----+-------+
+   +---------------------------+------+-------+------+------+-----------------+
+   | Pattern                   | 1–40 | 41–60 | 61–80| 81+  | |N| (%)         |
+   +===========================+======+=======+======+======+=================+
+   | More hours as employee    | 2    | 15    | 5    | 2    | |1| 24 (70.6%)  |
+   +---------------------------+------+-------+------+------+-----------------+
+   | About the same            | 1    | 0     | 8    | 0    | |2| 9 (26.5%)   |
+   +---------------------------+------+-------+------+------+-----------------+
+   | More hours as contractor  | 0    | 0     | 1    | 0    | |3| 1 (2.9%)    |
+   +---------------------------+------+-------+------+------+-----------------+
 
 .. raw:: html
 
@@ -459,7 +459,7 @@ Job title
 
    </details>
 
-With typos fixed, abbreviations expanded, "stop words" removed and keyword faceting applied, 231 unique job titles could be discerned in the 2025 faceted title export.
+After normalizing for typos, abbreviations, and stop words, and applying keyword faceting, the 2025 data contained 231 unique job titles.
 
 As in previous years, the most widely used exact title was "Technical Writer", appearing in 26.9% of titles. This term appeared in 6 of the top 10 job titles, in 27 of the 231 unique job titles, and in 62.9% of all titles.
 
@@ -620,7 +620,7 @@ Role category
 
    |icon-info|
 
-   Given that job titles and the responsibilities they entail varies widely, this question attempts to add context to the salary data by identifying the type of work being primarily performed.
+   Given that job titles and the responsibilities they entail vary widely, this question aimed to add context to the salary data by identifying the type of work being primarily performed.
 
    We added the original version of this question - which asked respondents to broadly categorize their role into one of a limited set of options - in the second survey, in 2020. Starting in 2022, we allowed respondents to choose multiple role categories. This highlighted the breadth of talent in our community, but made comparing salaries more difficult.
 
@@ -695,7 +695,7 @@ Additional role categories
 
 53 respondents (7.0%) chose only a primary role category. Of these, 48 listed "technical writer" as their primary role category, 2 selected "programmer-writer", and 1 each selected "project or product manager", "developer or engineer", and "editor".
 
-Of the respondents who selected additional role categories, the number chosen ranged from 1 (82 respondents) to 15 (1 respondent). The most popular number of additional role categories was 4, with 125 respondents selecting 4 additional categories. 10 or more additional categories were selected by 26 respondents.
+Of the respondents who selected additional role categories, the number chosen ranged from 1 (82 respondents) to 15 (1 respondent). The most popular count was 4 additional categories, chosen by 125 respondents. 10 or more additional categories were selected by 26 respondents.
 
 .. raw:: html
 
@@ -936,7 +936,7 @@ Length of time in current role
 
    </details>
 
-A spike in respondents with new jobs was first seen in 2021, with 31.7% of respondents reported being in their current position at their current organization for less than a year. In 2022, this number peaked at 36.8% - when respondents with new jobs outstripped the number who had held their current position for medium or long terms. In 2023, the number of respondents with new jobs fell again, to 20.3% - lower than in 2020 although still well above the 9% reported in 2019. This trend has remained largely unchanged in 2024 (21.8%) and 2025 (20.6%).
+A spike in respondents with new jobs first appeared in 2021, with 31.7% reporting that they had been in their current position at their current organization for less than a year. In 2022, this number peaked at 36.8% — when respondents with new jobs outstripped the number who had held their current position for medium or long terms. In 2023, the number of respondents with new jobs fell again, to 20.3% — lower than in 2020 although still well above the 9% reported in 2019. This trend has remained largely unchanged in 2024 (21.8%) and 2025 (20.6%).
 
 .. raw:: html
 
@@ -1015,7 +1015,7 @@ A spike in respondents with new jobs was first seen in 2021, with 31.7% of respo
 Job changes
 ===========
 
-This section explores the changes in employment experienced by respondents in the past year: losing or gaining employment, changes in salary or contract earnings, and how they feel about the job market.
+This section explores the changes in employment experienced by respondents in the past year: losing or gaining employment, changes in salary or contract earnings, and how they felt about the job market.
 
 .. contents:: In this section
    :local:
@@ -1077,7 +1077,7 @@ Salary or contract earnings changes
 
    </details>
 
-Of the 709 respondents who worked as employees in the past year, 71.4% reported that their salary had increased. 24.5% reported no change, and 4.1% reported a decrease.
+Of the 709 respondents who worked as employees in the past year, 71.4% reported a salary increase, 24.5% no change, and 4.1% a decrease.
 
 Among the 80 respondents who had worked on a contract basis, 42.5% reported an earnings increase. 36.2% reported no change, and 21.2% reported a decrease.
 
@@ -1535,9 +1535,9 @@ Job search confidence
 
 Employees and contractors were shown this question if they indicated that they were currently not working, or if they were actively looking for a new position or new contract.
 
-Amongst employees, the trend has shifted significantly toward the negative compared to 2024. In 2025, 38.0% reported feeling "not confident" (up from 27.5%) and 8.3% "not confident at all" (down from 11.3%). Those feeling "confident" dropped to 25.0% (from 30.0%), and "very confident" fell sharply to 3.7% (from 10.0%).
+Amongt employees, the trend has shifted significantly toward the negative compared to 2024. In 2025, 38.0% reported feeling "not confident" (up from 27.5%) and 8.3% "not confident at all" (down from 11.3%). Those feeling "confident" dropped to 25.0% (from 30.0%), and "very confident" fell sharply to 3.7% (from 10.0%).
 
-Amongst contractors — a much smaller group of respondents who qualified for this question in 2025 (n=6) — results should be treated with caution. The distribution was evenly split between positive and negative responses, with no respondents feeling "very confident".
+Among contractors — only 6 qualified for this question in 2025 — results should be treated with caution. The distribution was evenly split between positive and negative responses, with no respondents feeling "very confident".
 
 .. raw:: html
 
@@ -1717,7 +1717,7 @@ Currency
 
 Employee respondents reported being paid in 34 different currencies. To make comparisons possible, all currencies were converted to USD using mid-market exchange rates, averaged for the whole of 2025.
 
-The USD share grew from 45.0% to 54.2%, while representation in Canadian dollars, Indian rupees, and Australian dollars all declined. Brazilian real was the most notable mover, growing from 2 to 12 respondents, while six currencies from 2024 — including Argentine peso, Philippine peso, and Kazakhstani tenge — did not appear in 2025, and seven new currencies joined the table.
+USD representation grew from 45.0% to 54.2%; Canadian dollar, Indian rupee, and Australian dollar shares all declined. The biggest mover was the Brazilian real, which grew from 2 to 12 respondents. Six currencies from 2024 — including the Argentine peso, Philippine peso, and Kazakhstani tenge — dropped out entirely, while seven new currencies appeared.
 
 .. raw:: html
 
@@ -1845,7 +1845,7 @@ As in previous years, salaries for those working part-time hours (less than 30 p
 Median salary by respondent region
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Given the range of socio-economic differences in the countries in the survey results, median salary figures broken down by country of residence of employee is more useful than overall median salary.
+Given the range of socio-economic differences in the countries in the survey results, salary figures broken down by respondents' country of residence are more useful than a single worldwide median.
 
 .. container:: note
 
@@ -2030,7 +2030,7 @@ Respondent numbers allow additional breakdowns by US state and Canadian province
 Median salary by gender identity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-In order to have large enough numbers for statistical significance, we only break down salary by gender identity for women (61.8% of all respondents) and men (33.5% of all respondents), and only in regions where there are at least 30 respondents of each gender.
+To produce meaningful medians, salary is only broken down by gender for women and men — 61.8% and 33.5% of respondents respectively — and only in regions with at least 30 respondents of each gender.
 
 This year, that means that we are able to show breakdowns for Worldwide, North America and Europe. Men earned more than women in all regions, but the difference was largest in Europe (where men earned 25.8% more than women).
 
@@ -2107,7 +2107,7 @@ This year, that means that we are able to show breakdowns for Worldwide, North A
 Median salary by years of experience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The general trend is for salaries to increase with years of experience. This trend holds out throughout regions, with the most pronounced increase in the 5-10 year range.
+The general trend is for salaries to increase with years of experience. This trend holds across all regions, with the most pronounced increase in the 5-10 year range.
 
 .. raw:: html
 
@@ -2150,7 +2150,7 @@ The general trend is for salaries to increase with years of experience. This tre
    +-----------------+-------+----------+----------+-----------+
    | |3| 5-10 years  | 103   | $80,050  | $108,000 | $141,196  |
    +-----------------+-------+----------+----------+-----------+
-   | |4| 10-15 years | 89    | $99,41 3 | $138,500 | $175,000  |
+   | |4| 10-15 years | 89    | $99,413  | $138,500 | $175,000  |
    +-----------------+-------+----------+----------+-----------+
    | |5| 15-20 years | 31    | $107,000 | $145,000 | $200,160  |
    +-----------------+-------+----------+----------+-----------+
@@ -2449,7 +2449,7 @@ Factors affecting salary satisfaction
 
    </details>
 
-While the format of this question has changed from previous years, it's possible to see patterns in the responses. For example, most respondents like and/or respect their co-workers (90.5% agreed), and to a lesser extent their managers and team leaders (75.5%) and their organization (61.5%). Many respondents are concerned with their salary not keeping up with inflation (37.9%), and a significant number are not satisfied with their workload (17.8%).
+Across all categories, the clearest pattern is how positively respondents feel about their colleagues: 90.5% agreed they like and/or respect their co-workers, 75.5% their managers and team leaders, and 61.5% their organization. The most common concerns were salary not keeping pace with inflation (37.9% disagreed) and workload manageability (17.8% disagreed).
 
 Respondents who indicated that the statement was not relevant to their situation were excluded from the analysis.
 
@@ -2604,7 +2604,7 @@ Respondents who indicated that the statement was not relevant to their situation
 Contract rates
 ==============
 
-This section contains questions about the different types of contract work, rates, and feelings of satisfaction with contract work and contract earnings, as well as confidence in the current prospects for new contract work.
+This section covers contract work types, rates, satisfaction with earnings, and confidence in the market for new work.
 
 To protect the privacy of our community, we do not publish median salary figures for any region or category with less than 10 respondents. In regions or categories that meet the minimum threshold of 30 respondents, we're also providing the |25th| percentile (the value below which 25% of the data falls) and |75th| percentile (the value below which 75% of the data falls).
 
@@ -2653,7 +2653,7 @@ Preferred term
 
    </details>
 
-68.8% of non-employee respondents term themselves "contractors", while 12.5% prefer "self-employed" and 11.2% use "freelancer". Of the 6 individuals who chose "other", 2 specified "consultant", and the remaining four described themselves variously as legally a contractor but factually an employee, a business owner, someone who doesn't differentiate between terms, and a student employee.
+68.8% of non-employee respondents termed themselves "contractors", while 12.5% preferred "self-employed" and 11.2% used "freelancer". Of the 6 individuals who chose "other", 2 specified "consultant", and the remaining four described themselves variously as "legally a contractor but factually an employee", "a business owner", "someone who doesn't differentiate between terms", and "a student employee".
 
 .. table:: Preferred term
    :widths: 70 15 15
@@ -2864,7 +2864,7 @@ Contract rates
 
 Contractor respondents were paid in 9 different currencies. To make comparisons possible, all currencies were converted to USD using mid-market exchange rates, averaged for the whole of 2025.
 
-The contractor currency pool contracted significantly from 15 currencies to 9, with USD dominance rising from 59.6% to 73.8%. Most of the smaller currencies represented in 2024 — including GBP (7 respondents to 1), NIS, PLN, and DKK — either disappeared entirely or were represented by a single respondent.
+The contractor currency pool contracted significantly from 15 currencies to 9, with USD dominance rising from 59.6% to 73.8%. Most of the smaller currencies from 2024 — including GBP (7 respondents in 2024, down to 1), NIS, PLN, and DKK — either disappeared or were represented by a single respondent.
 
 .. table:: Currency and exchange rate
    :widths: 70 15 15
@@ -2896,7 +2896,7 @@ The contractor currency pool contracted significantly from 15 currencies to 9, w
 Median rates
 ~~~~~~~~~~~~
 
-In previous years, we asked contractor respondents to enter multiple rates, if appropriate, and a number did so. This year, as in 2024, almost all respondents entered only one type of rate. One respondent entered both an hourly and a day rate; for consistency with the currency breakdown and median analysis, that respondent is counted once under hourly rates.
+In previous years, we asked contractor respondents to enter multiple rates where applicable, and many did. This year, as in 2024, almost all respondents entered only one type of rate. One respondent entered both an hourly and a day rate; for consistency with the currency breakdown and median analysis, that respondent is counted once under hourly rates.
 
 Hourly rates were the most commonly entered fee structure, used by 83.8% of contractor respondents (67 individuals) — up from 66% in 2024. The remaining respondents entered either a monthly rate (10 respondents, 12.5%) or a day rate (3 respondents, 3.8%). Due to the low number of day rates, we're unable to publish any median day rates. Monthly rate data was too geographically dispersed — with no region reaching the 10-respondent threshold — to publish meaningful regional medians.
 
@@ -3082,7 +3082,7 @@ Factors affecting contractor satisfaction
 
    </details>
 
-While the format of this question has changed from previous years, it's possible to see patterns in the responses. For example, many contractors are concerned with keeping up with inflation (43.6%), and career advancement opportunities (40.3% disagreed).
+Contractors reported strong satisfaction with their working conditions — hours, flexibility, and responsibilities — but were more concerned about career advancement (40.3% disagreed that they had opportunities) and keeping rates in line with inflation (43.6% disagreed).
 
 Respondents who indicated that the statement was not relevant to their situation were excluded from the analysis.
 
@@ -3237,7 +3237,7 @@ Respondents who indicated that the statement was not relevant to their situation
 Organization demographics
 =========================
 
-This section concerns employing organizations. Contractors were given the option of answering about the main organization they work for, or skipping this section if it was not relevant. Only 7 contractors chose not to answer.
+This section concerns employing organizations. Contractors were given the option of answering about the main organization they work for, or skipping this section if it was not relevant. Of the 80 contractor respondents, 7 chose not to answer this section.
 
 .. contents:: In this section
    :local:
@@ -3366,7 +3366,7 @@ Organization type and industry
 
    </details>
 
-The majority of organizations represented in the results — 97.2% — were for-profit businesses or corporations rather than non-profit, community, political, educational, governmental, or NGOs (2.8%).
+The vast majority (97.2%) of organizations were for-profit; 2.8% were non-profit, governmental, or NGOs.
 
 .. table:: Organization type
    :widths: 70 15 15
@@ -3633,7 +3633,7 @@ A total of 67.9% of organizations originated in North America, with the bulk of 
 Respondent demographics
 =======================
 
-Who makes up the Write the Docs community? The questions in this section on respondent age, gender identity, education, experience, and location provide context for the salary/rate and satisfaction data. All questions in this section had an "I'd rather not say" option, with the exception of geographical location (country and state or province only), without which the core objective of the survey cannot be achieved.
+Who makes up the Write the Docs community? The questions in this section on respondent age, gender identity, education, experience, and location provide context for the salary/rate and satisfaction data. All questions in this section had an "I'd rather not say" option, with the exception of geographical location (country and state or province only), without which regional salary breakdowns would not be possible.
 
 .. contents:: In this section
    :local:
@@ -3724,7 +3724,7 @@ Gender identity
 
    </details>
 
-As in previous surveys, the majority of respondents in 2025 were women - 61.9% - with men making up 33.4%. 3.0% of respondents were non-binary, transgender or other, and 1.7% chose to not provide an answer.
+As in previous surveys, the majority of respondents in 2025 were women - 61.9% - with men making up 33.4%. 3.0% of respondents were non-binary or other, and 1.7% chose to not provide an answer.
 
 .. table:: Respondent gender identity
    :widths: 70 15 15
@@ -3850,7 +3850,7 @@ Education level
 
    </details>
 
-As in previous years, most respondents are university- or college-educated: 93.2% held at least one graduate qualification, and 41.7% also held one or more post-graduate qualifications.
+As in previous years, most respondents were university- or college-educated: 93.2% held at least one graduate qualification, and 41.7% also held one or more post-graduate qualifications.
 
 .. table:: Highest education level completed
    :widths: 70 15 15
@@ -3910,7 +3910,7 @@ Location
 
    </details>
 
-Around three-fifths of all respondents (60.0%) were based in North America, the bulk of those (88.3% of this region, or 53.0% overall) in the United States. In total, 48 countries were represented.
+60% of respondents were based in North America, the bulk of those (88.3% of this region, or 53.0% overall) in the United States. In total, 48 countries were represented.
 
 .. raw:: html
 
@@ -4514,7 +4514,7 @@ Europe, Canada and Australia
 Survey feedback
 ===============
 
-Following on from last year, we again included some questions about the survey itself.
+As in 2024, the survey included three questions about the survey itself.
 
 .. raw:: html
 
@@ -4539,7 +4539,7 @@ Following on from last year, we again included some questions about the survey i
 
    </details>
 
-Overall, respondents were strongly positive about the survey across all three dimensions. Negative responses were low in all categories: 1.6% felt the length was not appropriate, 0.3% felt the questions were not relevant, and 0.7% expressed doubts about the usability of the survey form and website.
+Overall, respondents were strongly positive about the survey across all three dimensions. Negative responses were low in all categories: 1.6% felt the length was not appropriate, 0.3% felt the questions were not relevant, and 0.7% found the survey form and website not usable.
 
 .. raw:: html
 
