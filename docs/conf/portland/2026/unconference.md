@@ -27,7 +27,7 @@ Everyone!
 See the [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page for exact times.
 
 <p style="text-align: center; margin-top: 1.5em;">
-<a href="https://readme.com/?ref=writethedocs"><img src="/_static/img/sponsors/readme.png" alt="ReadMe" style="max-width: 250px;"></a>
+<a href="https://readme.com/?ref=writethedocs" style="border-bottom: none;"><img src="/_static/img/sponsors/readme.png" alt="ReadMe" style="max-width: 250px;"></a>
 </p>
 
 *The Unconference is sponsored by [ReadMe](https://readme.com/?ref=writethedocs).*
