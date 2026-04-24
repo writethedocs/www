@@ -78,7 +78,7 @@ Reminder: There is a Slack canvas at the top of the channel with helpful links, 
 
 **Where do I check in?**
 
-On Sunday, registration is at the 1st floor Box Office (by Martha's Cafe) and Monday/Tuesday on the 2nd floor outside the main auditorium.
+On Sunday, registration is at the 1st floor Box Office near the main entrance and Monday/Tuesday on the 2nd floor outside the main auditorium.
 
 **How can I stream talks?**
 
@@ -94,7 +94,7 @@ Yes, we do! Go to Registration and they will check your bags.
 
 **Where should I go if I need a quiet space?**
 
-Our Quiet Space is on the 3rd floor hallway. This is a less frequented area and also includes access to the balcony for distanced seating.
+There is quieter space on the 3rd floor hallway. This is a less frequented area and also includes access to the balcony for distanced seating.
 
 **Do you have a Lactation Room?**
 
