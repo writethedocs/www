@@ -37,19 +37,11 @@ We will provide a venue map onsite.
 
 Take a break in the Attendee Lounge, a quiet wellness and recharging space with comfortable seating, charging stations, light snacks, and noise-canceling headphones on loan. Open throughout Monday and Tuesday.
 
-<p style="text-align: center; margin-top: 1.5em;">
-<a href="https://mintlify.com/?utm_source=writethedocs&utm_medium=referral"><img src="/_static/img/sponsors/mintlify.png" alt="Mintlify" style="max-width: 250px;"></a>
-</p>
-
 *The Attendee Lounge is sponsored by [Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral).*
 
 ## Professional Headshots
 
 Free professional headshots are available for all attendees at the headshot booth. Come grab a new photo for your LinkedIn or professional profile! A professional photographer will be onsite — no appointment needed, just stop by. Check the [schedule](/conf/{{shortcode}}/{{year}}/schedule/) for times.
-
-<p style="text-align: center; margin-top: 1.5em;">
-<a href="https://mintlify.com/?utm_source=writethedocs&utm_medium=referral"><img src="/_static/img/sponsors/mintlify.png" alt="Mintlify" style="max-width: 250px;"></a>
-</p>
 
 *The headshot booth is sponsored by [Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral).*
 
