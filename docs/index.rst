@@ -20,7 +20,8 @@ Attend a conference
 
 We have upcoming conferences around the world:
 
-{% include "conf/current.rst" %}
+.. include:: /include/conf/current.rst
+   :start-after: current-conferences-list
 
 See all :doc:`our conferences </conf/index>` from past years.
 
