@@ -43,7 +43,7 @@ We're opening up the Monday Unconference sign-ups today! We're doing this becaus
 <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
 <tr>
   <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-     <a href="https://docs.google.com/spreadsheets/d/1Yyo2V5Xzwz7KhF4xkEmGNFNHld7TEUG7VfitMzM_Ohc/edit?usp=sharing" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Sign up to Lead a Monday Unconference</a>
+     <a href="https://docs.google.com/spreadsheets/d/1eHLcr2C8om67M9qfYJHKg0MRxdwZYijqvsboeIRX3Fc/edit?gid=1637667081#gid=1637667081" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Sign up to Lead a Monday Unconference</a>
   </td>
 </tr>
 </table>
