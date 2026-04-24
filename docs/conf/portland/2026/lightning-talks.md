@@ -25,7 +25,7 @@ Lightning Talks can be submitted through an online form only.
 
 **Submissions are open:**
 
-- One week prior to the conference (Monday submissions only)
+- [Sign up online]({{ lightning_talks.signup_url }}) one week prior to the conference (Monday submissions only)
 - During the conference from Sunday to Tuesday morning, until the end of the last morning break
 
 **Speaker selection and announcements:**
