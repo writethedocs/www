@@ -2201,6 +2201,115 @@ The general trend is for salaries to increase with years of experience. This tre
 .. figure:: images/2025/2025-salary-by-experience.svg
    :class: hide
 
+Median salary by time in current role
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Worldwide, salary rises modestly with time in the current role — from $90,000 for those in their first year to $104,748 for those who have been in the same role for 10 years or more. The progression is slow through the first five years (the 1–2 and 2–5 year medians are identical at $92,000), before accelerating at 10+.
+
+North America shows a more interesting pattern. Salaries start high ($120,000 for 0–1 years) and barely change through 2–5 years ($120,000), suggesting new hires are negotiating at or near market rate. They then dip to $111,000 at 5–10 years — a possible loyalty penalty as internal raises fall behind market movement — before recovering to $129,000 for the 10+ group.
+
+In Europe the pattern is less clear, partly due to small sample sizes at the upper end (n=12 for 10+ years). The 5–10 year bracket ($75,065) is higher than both adjacent groups, which is likely noise at that sample size rather than a genuine signal.
+
+.. raw:: html
+
+   <div class="tab-wrap"><input type="radio" id="tabA6role-1" name="tabGroupA6role" class="tab" checked><label for="tabA6role-1">Worldwide</label><input type="radio" id="tabA6role-2" name="tabGroupA6role" class="tab"><label for="tabA6role-2">North America</label><input type="radio" id="tabA6role-3" name="tabGroupA6role" class="tab"><label for="tabA6role-3">Europe</label><div class="tab__content">
+
+.. table:: Salary (USD) by time in current role
+   :name: tbl-2025-salary-by-time-in-current-role
+   :class: medians-with-num sortable
+
+   +----------------------+-----+----------+----------+----------+
+   | Time in current role | |N| | |25|     | |50|     | |75|     |
+   +======================+=====+==========+==========+==========+
+   | |1| 0-1 year         | 139 |  $57,115 |  $90,000 | $130,000 |
+   +----------------------+-----+----------+----------+----------+
+   | |2| 1-2 years        | 105 |  $62,436 |  $92,000 | $135,280 |
+   +----------------------+-----+----------+----------+----------+
+   | |3| 2-5 years        | 264 |  $64,207 |  $92,000 | $133,900 |
+   +----------------------+-----+----------+----------+----------+
+   | |4| 5-10 years       | 116 |  $70,207 |  $93,954 | $139,750 |
+   +----------------------+-----+----------+----------+----------+
+   | |5| 10+ years        | 43  |  $67,881 | $104,748 | $150,000 |
+   +----------------------+-----+----------+----------+----------+
+
+.. raw:: html
+
+      <figure>
+         <object role="img" aria-label="Salary (USD) by time in current role" aria-describedby="figure_salary-by-time-in-role_desc" type="image/svg+xml" data="/_images/2025-salary-by-time-in-role.svg">
+            <p id="figure_salary-by-time-in-role_desc">Horizontal bar chart showing worldwide median salary by time in current role. Salary rises from $90,000 at 0–1 years to $104,748 at 10 or more years, with little change between the 1–2 and 5–10 year brackets.</p>
+         </object>
+         <figcaption>Figure: Salary (USD) by time in current role</figcaption>
+      </figure>
+
+   </div><div class="tab__content">
+
+.. table:: Salary (USD) by time in current role - North America
+   :name: tbl-2025-salary-by-time-in-current-role-north-america
+   :class: medians-with-num sortable
+
+   +----------------------+-----+----------+----------+----------+
+   | Time in current role | |N| | |25|     | |50|     | |75|     |
+   +======================+=====+==========+==========+==========+
+   | |1| 0-1 year         | 77  |  $84,250 | $120,000 | $160,500 |
+   +----------------------+-----+----------+----------+----------+
+   | |2| 1-2 years        | 59  |  $87,000 | $118,000 | $171,000 |
+   +----------------------+-----+----------+----------+----------+
+   | |3| 2-5 years        | 149 |  $90,614 | $120,000 | $157,547 |
+   +----------------------+-----+----------+----------+----------+
+   | |4| 5-10 years       | 78  |  $82,444 | $111,000 | $152,500 |
+   +----------------------+-----+----------+----------+----------+
+   | |5| 10+ years        | 28  |       -- | $129,000 |       -- |
+   +----------------------+-----+----------+----------+----------+
+
+.. raw:: html
+
+      <figure>
+         <object role="img" aria-label="Salary (USD) by time in current role — North America" aria-describedby="figure_salary-by-time-in-role-na_desc" type="image/svg+xml" data="/_images/2025-salary-by-time-in-role-na.svg">
+            <p id="figure_salary-by-time-in-role-na_desc">Horizontal bar chart showing North America median salary by time in current role. Salaries are flat at $120,000 for the first five years, dip to $111,000 at 5–10 years, then rise to $129,000 at 10 or more years.</p>
+         </object>
+         <figcaption>Figure: Salary (USD) by time in current role — North America</figcaption>
+      </figure>
+
+   </div><div class="tab__content">
+
+.. table:: Salary (USD) by time in current role - Europe
+   :name: tbl-2025-salary-by-time-in-current-role-europe
+   :class: medians-with-num sortable
+
+   +----------------------+-----+----------+----------+----------+
+   | Time in current role | |N| | |25|     | |50|     | |75|     |
+   +======================+=====+==========+==========+==========+
+   | |1| 0-1 year         | 39  |  $51,836 |  $70,037 |  $90,953 |
+   +----------------------+-----+----------+----------+----------+
+   | |2| 1-2 years        | 33  |  $57,282 |  $67,778 |  $96,028 |
+   +----------------------+-----+----------+----------+----------+
+   | |3| 2-5 years        | 77  |  $47,444 |  $65,518 |  $86,416 |
+   +----------------------+-----+----------+----------+----------+
+   | |4| 5-10 years       | 23  |       -- |  $75,065 |       -- |
+   +----------------------+-----+----------+----------+----------+
+   | |5| 10+ years        | 12  |       -- |  $60,167 |       -- |
+   +----------------------+-----+----------+----------+----------+
+
+.. raw:: html
+
+      <figure>
+         <object role="img" aria-label="Salary (USD) by time in current role — Europe" aria-describedby="figure_salary-by-time-in-role-eu_desc" type="image/svg+xml" data="/_images/2025-salary-by-time-in-role-eu.svg">
+            <p id="figure_salary-by-time-in-role-eu_desc">Horizontal bar chart showing European median salary by time in current role. The pattern is less clear than other regions, with small sample sizes at the upper brackets.</p>
+         </object>
+         <figcaption>Figure: Salary (USD) by time in current role — Europe</figcaption>
+      </figure>
+
+   </div></div>
+
+.. figure:: images/2025/2025-salary-by-time-in-role.svg
+   :class: hide
+
+.. figure:: images/2025/2025-salary-by-time-in-role-na.svg
+   :class: hide
+
+.. figure:: images/2025/2025-salary-by-time-in-role-eu.svg
+   :class: hide
+
 Median salary by age group
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2730,6 +2839,23 @@ The North America tab shows all 10 industries, with advertising and data/analyti
 
 .. figure:: images/2025/2025-salary-by-industry-eu.svg
    :class: hide
+
+Median salary by multinational status
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Respondents at multinational organizations had a worldwide median salary of $95,184, compared to $74,912 for those at domestic-only organizations — a gap of 27%. This difference should be interpreted cautiously: it reflects a mix of genuine organizational factors (multinationals may offer stronger compensation packages) and geographic composition (domestic organizations are disproportionately located in lower-wage countries, while multinationals are more concentrated in high-wage markets like North America).
+
+.. table:: Salary (USD) by multinational status
+   :name: tbl-2025-salary-by-multinational-status
+   :class: medians-with-num sortable
+
+   +-------------------+-----+----------+----------+----------+
+   | Organization type | |N| | |25|     | |50|     | |75|     |
+   +===================+=====+==========+==========+==========+
+   | |1| Multinational | 545 |  $65,612 |  $95,184 | $142,000 |
+   +-------------------+-----+----------+----------+----------+
+   | |2| Domestic only | 122 |  $54,122 |  $74,912 | $104,138 |
+   +-------------------+-----+----------+----------+----------+
 
 Employee satisfaction
 ---------------------
