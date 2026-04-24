@@ -17,22 +17,24 @@ Lightning Talks are a fantastic opportunity for first-time speakers. Regardless 
 
 Our goal is to have a balance between first-time and experienced speakers. 
 
-## Schedule and Logistics
+## Schedule
 
 **Date: {{date.day_three.dotw}}, {{date.day_three.date}} and {{date.day_four.dotw}}, {{date.day_four.date}} after lunch**
 
 See the [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page for exact times.
-
-**Submissions are open:**
-
-- One week prior to the conference (Monday submissions only)
-- During the conference from Sunday to Tuesday morning, until the end of the last morning break
 
 {% if lightning_talks.signup_url %}
 ```{button-link} {{ lightning_talks.signup_url }}
 Submit your Monday Lightning Talk
 ```
 {% endif %}
+
+### Submitting a Talk
+
+Submissions are open:
+
+- One week prior to the conference (Monday submissions only)
+- During the conference from Sunday to Tuesday morning, until the end of the last morning break
 
 **Speaker selection and announcements:**
 
