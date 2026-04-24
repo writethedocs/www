@@ -28,6 +28,10 @@ Lightning Talks can be submitted through an online form only.
 - [Sign up online]({{ lightning_talks.signup_url }}) one week prior to the conference (Monday submissions only)
 - During the conference from Sunday to Tuesday morning, until the end of the last morning break
 
+```{button-link} {{ lightning_talks.signup_url }}
+Submit your Monday Lightning Talk
+```
+
 **Speaker selection and announcements:**
 
 The coordinator, with staff support, selects the speakers. The speakers are announced onstage after the final morning talk and before lunch on Monday and Tuesday. You do not have to be present to be selected, but it is helpful. The coordinator also contacts the speakers by phone to confirm their acceptance. 
