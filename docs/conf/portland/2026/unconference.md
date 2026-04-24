@@ -37,10 +37,10 @@ Martha's will be open to attendee sessions in the afternoon, along with the
 
 ### Scheduling a Session
 
-- Sign up online one week prior to the conference (Monday morning sessions only).
+- [Sign up online]({{ unconf.url }}) one week prior to the conference (Monday morning sessions only).
 - Sign up for all sessions in-person anytime during the conference, Sunday through Tuesday.
 - During the conference, write the title and your name on a sticky note. Select a time slot and table number and place the note on the large schedule.
-- The online schedule will be available to view only during the conference. This will be updated regularly.
+- The [online schedule]({{ unconf.url }}) will be updated regularly during the conference.
 
 Exact times to be posted on our [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page.
 
@@ -71,7 +71,7 @@ These ideas were borrowed from Scott Berkun. Read more of his [post on Unconfere
 
 ## Attending a Session
 
-- View the Session Schedule. This will be posted online and in the Unconference room during the conference only.
+- View the [Session Schedule]({{ unconf.url }}). This will be posted online and in the Unconference room during the conference.
 - Find the table and have a seat. You can also join mid-session!
 - Listen or contribute to the discussion.
 - You're welcome to change sessions mid-slot! Please make sure you leave politely.
