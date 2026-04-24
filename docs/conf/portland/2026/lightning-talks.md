@@ -21,14 +21,14 @@ Our goal is to have a balance between first-time and experienced speakers.
 
 **Date: {{date.day_three.dotw}}, {{date.day_three.date}} and {{date.day_four.dotw}}, {{date.day_four.date}} after lunch**
 
-Lightning Talks can be submitted through an online form only. 
+See the [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page for exact times.
+
+Lightning Talks can be submitted through an [online form]({{ lightning_talks.signup_url }}) only.
 
 **Submissions are open:**
 
 - [Sign up online]({{ lightning_talks.signup_url }}) one week prior to the conference (Monday submissions only)
 - During the conference from Sunday to Tuesday morning, until the end of the last morning break
-
-See the [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page for exact times.
 
 {% if lightning_talks.signup_url %}
 ```{button-link} {{ lightning_talks.signup_url }}
