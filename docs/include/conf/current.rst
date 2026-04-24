@@ -1,3 +1,8 @@
+2026 Conferences
+----------------
+
+- `Write the Docs Kenya <https://www.meetup.com/wtd-kenya/events/314376384/>`__, **Nairobi, Kenya**
+
 2025 Conferences
 ----------------
 
