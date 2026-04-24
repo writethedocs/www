@@ -8,6 +8,12 @@ banner: _static/conf/images/headers/2026/unconference.jpg
 
 The Unconference consists of attendee-driven sessions that provide the opportunity for anyone who is attending the conference to lead, contribute, share ideas, and discuss problems in an organized setting away from the main stage talks. Many attendees consider this one of their favorite aspects of the conference.
 
+<p style="text-align: center; margin-top: 1.5em;">
+<a href="https://readme.com/?ref=writethedocs" style="border-bottom: none;"><img src="/_static/img/sponsors/readme.png" alt="ReadMe" style="max-width: 250px;"></a>
+</p>
+
+*The Unconference is sponsored by [ReadMe](https://readme.com/?ref=writethedocs).*
+
 **Who can lead an Unconference session?**
 
 Everyone! All attendees are invited to lead a session on a topic. Sessions can be organized around a presentation, group discussion or anything in between.
@@ -25,12 +31,6 @@ Everyone!
 - Hosted in {{ about.unconfroom }}
 
 See the [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page for exact times.
-
-<p style="text-align: center; margin-top: 1.5em;">
-<a href="https://readme.com/?ref=writethedocs" style="border-bottom: none;"><img src="/_static/img/sponsors/readme.png" alt="ReadMe" style="max-width: 250px;"></a>
-</p>
-
-*The Unconference is sponsored by [ReadMe](https://readme.com/?ref=writethedocs).*
 
 ## Sponsor Sessions in Martha's
 
