@@ -10,7 +10,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 # Welcome to Write the Docs {{ name }} {{ year }}!
 
-We have officially arrived at conference week! We're excited to gather in Portland for our 14th year and our fourth time at Revolution Hall. We hope you're as excited as we are! Below is an overview of the conference, as well as a couple of announcements.
+We have officially arrived at conference week! We're excited to gather in {{ city }} for our 14th year and our fourth time at {{ about.venue }}. We hope you're as excited as we are! Below is an overview of the conference, as well as a couple of announcements.
 
 ## Important Links
 
@@ -32,7 +32,7 @@ The website is full of wonderful information about the conference, venue, and Po
 - **Speaker Talks:** Take a look at our schedule and select the talks you want to attend. [View our lineup here](https://www.writethedocs.org/conf/portland/{{year}}/schedule/#monday-may-4). 
 - **Unconference:** Lead or attend a session so you can connect with like-minded folks about topics you care about. We're accepting Monday session sign-ups now. [Learn more about signing up](#monday-unconference-sessions-open).
 - **Lightning Talks:** Do you have an idea, concept, or topic you'd like to share with our community in five minutes? We're now accepting Monday submissions. [Learn more about submitting a talk](#monday-lightning-talk-submissions-open).
-- **Monday Night Social:** Our only offsite gathering is an informal way to relax with fellow attendees, and again enjoy some drinks and snacks on us! Held at the Jupiter NEXT, 900 E Burnside St.
+- **Monday Night Social:** Our only offsite gathering is an informal way to relax with fellow attendees, and again enjoy some drinks and snacks on us! Held at {{ about.social_venue }}.
 - **Virtually:** Want to stream speaker talks and Q&As from the comfort of your own home? [Attend the conference virtually](https://www.writethedocs.org/conf/portland/{{year}}/virtual/).
 
 ## Monday Unconference Sessions Open
@@ -43,7 +43,7 @@ We're opening up the Monday Unconference sign-ups today! We're doing this becaus
 <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
 <tr>
   <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-     <a href="https://docs.google.com/spreadsheets/d/1eHLcr2C8om67M9qfYJHKg0MRxdwZYijqvsboeIRX3Fc/edit?gid=1637667081#gid=1637667081" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Sign up to Lead a Monday Unconference</a>
+     <a href="{{ unconf.url }}" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Sign up to Lead a Monday Unconference</a>
   </td>
 </tr>
 </table>
