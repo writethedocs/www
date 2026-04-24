@@ -26,6 +26,8 @@ Everyone!
 
 See the [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page for exact times.
 
+*The Unconference is sponsored by [ReadMe](https://readme.com/?ref=writethedocs).*
+
 ## Sponsor Sessions in Martha's
 
 Stop by Martha's each morning from 10:00 AM to 12:00 PM for **free handcrafted espresso on Monday ☕** and **free handcrafted matcha on Tuesday 🍵**, plus sponsor-led discussions.
