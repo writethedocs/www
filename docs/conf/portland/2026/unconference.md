@@ -48,8 +48,6 @@ Martha's will be open to attendee sessions in the afternoon, along with the
 - During the conference, write the title and your name on a sticky note. Select a time slot and table number and place the note on the large schedule.
 - The online schedule will be available to view only during the conference. This will be updated regularly.
 
-Exact times to be posted on our [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page.
-
 ## Leading a Session
 
 Sessions take place at tables and focus on small group interaction. There is no stage at an Unconference session.

@@ -23,11 +23,9 @@ Our goal is to have a balance between first-time and experienced speakers.
 
 See the [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page for exact times.
 
-Lightning Talks can be submitted through an [online form]({{ lightning_talks.signup_url }}) only.
-
 **Submissions are open:**
 
-- [Sign up online]({{ lightning_talks.signup_url }}) one week prior to the conference (Monday submissions only)
+- One week prior to the conference (Monday submissions only)
 - During the conference from Sunday to Tuesday morning, until the end of the last morning break
 
 {% if lightning_talks.signup_url %}
@@ -51,8 +49,6 @@ The coordinator, with staff support, selects the speakers. The speakers are anno
 - Each speaker is introduced and given five minutes to present.
 - There is a countdown timer for each presentation. Speakers receive a signal when they have one minute remaining.
 - The coordinator stops speakers after five minutes.
-
-Exact times to be posted on our [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page.
 
 ![Lightning Talks](/_static/conf/images/pics/2025/lightning-talks.jpg)
 
