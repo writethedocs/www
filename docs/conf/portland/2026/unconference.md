@@ -33,7 +33,7 @@ Stop by Martha's each morning from 10:00 AM to 12:00 PM for **free handcrafted e
 - **Monday ☕ — free espresso:** Sponsor Session hosted by **[Promptless](https://promptless.ai/?ref=writethedocs)**
 - **Tuesday 🍵 — free matcha:** Sponsor Session hosted by **[Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral)**
 
-Martha's will be open to attendee sessions in the afternoon, along with the 
+Martha's will be open to attendee sessions in the afternoon, along with the Library and Astoria rooms.
 
 ### Scheduling a Session
 
