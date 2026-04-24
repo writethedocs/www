@@ -32,10 +32,6 @@ Sign up to Lead a Monday Unconference
 ```
 {% endif %}
 
-```{button-link} /conf/{{shortcode}}/{{year}}/schedule
-View the Conference Schedule
-```
-
 ## Sponsor Sessions in Martha's
 
 Stop by Martha's each morning from 10:00 AM to 12:00 PM for **free handcrafted espresso on Monday ☕** and **free handcrafted matcha on Tuesday 🍵**, plus sponsor-led discussions.
