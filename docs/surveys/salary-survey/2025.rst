@@ -118,6 +118,17 @@ Introduction
 
 The Write the Docs Salary Survey for 2025 — our seventh annual survey — drew **755 responses from documentarians in 48 countries**. Thank you to everyone who participated. 
 
+.. container:: note
+
+   |icon-info|
+
+   .. rubric:: Compared with 2024
+
+   Several year-over-year patterns stand out in the 2025 results. Median employee salaries by region were broadly steady
+   to moderately higher in 2025, with increases worldwide, in North America, and in Europe. At the same time, employee
+   salary satisfaction and overall satisfaction both declined, respondents were more likely to report feeling less secure
+   in their jobs, and a larger share were not working at the time of the survey.
+
 .. tip::
 
    **In a hurry?** Jump straight to `Median salary`_ or `Median rates`_.
@@ -1021,6 +1032,21 @@ Job changes
 
 This section explores the changes in employment experienced by respondents in the past year: losing or gaining employment, changes in salary or contract earnings, and how they felt about the job market.
 
+.. container:: note
+
+   |icon-info|
+
+   .. rubric:: Compared with 2024
+
+   The strongest year-over-year change in this section was in perceived job security. The share of employee respondents
+   who said they felt **less secure** in their job rose from **21.9%** in 2024 to **35.1%** in 2025, while the share
+   feeling their position was **more secure** fell from **26.6%** to **20.5%**. A larger share of employee respondents
+   were also not working at the time of the survey: **2.8%** in 2024 compared with **6.9%** in 2025. Other job-market
+   indicators were more mixed. A somewhat larger share of respondents reported actively looking for work in 2025, but the
+   overall distribution of job search status did not change dramatically. Job search confidence also appeared somewhat
+   weaker in 2025, with fewer respondents describing themselves as confident and more describing themselves as not
+   confident, though this shift was less clear-cut than the change in job security.
+
 .. contents:: In this section
    :local:
    :depth: 1
@@ -1850,6 +1876,17 @@ Median salary by respondent region
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Given the range of socio-economic differences in the countries in the survey results, salary figures broken down by respondents' country of residence are more useful than a single worldwide median.
+
+.. container:: note
+
+   |icon-info|
+
+   .. rubric:: Compared with 2024
+
+   Median employee salaries by region were generally steady to moderately higher in 2025. The worldwide median rose from
+   **$85,793** in 2024 to **$91,811** in 2025, while North America rose from **$107,100** to **$115,000** and Europe from
+   **$62,625** to **$66,015**. Asia was broadly flat year over year, while Oceania was lower than in 2024. These shifts
+   are directionally interesting, but do not suggest a dramatic year-over-year break in regional salary patterns.
 
 .. container:: note
 
@@ -2889,6 +2926,18 @@ Employee satisfaction
    </details>
 
 66.0% of employee respondents said they were satisfied (45.4%) or very satisfied (20.6%) with their salary and benefits, while a slightly lower percentage (65.7%) said they were satisfied (44.3%) or very satisfied (21.4%) with their overall employment conditions.
+
+.. container:: note
+
+   |icon-info|
+
+   .. rubric:: Compared with 2024
+
+   Employee satisfaction was lower in 2025 than in 2024. The share of respondents who reported feeling satisfied or very
+   satisfied with their salary and benefits fell from **71.8%** in 2024 to **66.0%** in 2025, while the share who felt
+   satisfied or very satisfied with their overall employment conditions fell from **71.3%** to **65.7%**. The decline in
+   overall satisfaction was somewhat clearer than the decline in salary satisfaction, suggesting that broader employment
+   conditions may have worsened even where pay remained stable or increased.
 
 .. raw:: html
 
