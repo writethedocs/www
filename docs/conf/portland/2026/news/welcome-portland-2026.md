@@ -55,7 +55,7 @@ And as always, sign-ups are welcome during the conference.
 
 We're also opening up Monday Lightning Talk submissions. Lightning Talks are a wonderful way to share an idea, concept, or piece of information you find interesting, in an informal five-minute talk. Similar to above, we hope that by opening up Lightning Talks early, this provides more time to ideate and to submit your talk before the conference. [Learn more about giving a Lightning Talk here.](https://www.writethedocs.org/conf/portland/{{year}}/lightning-talks/)
 
-```{button-link} https://docs.google.com/forms/d/e/1FAIpQLSdeeMs_x9_6WPIl_ERai_3_5zkEBD7MrMK835igFY07zN156A/viewform
+```{button-link} {{ lightning_talks.signup_url }}
 Submit your Monday Lightning Talk
 ```
 
