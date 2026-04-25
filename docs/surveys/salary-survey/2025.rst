@@ -1039,13 +1039,13 @@ This section explores the changes in employment experienced by respondents in th
    .. rubric:: Compared with 2024
 
    The strongest year-over-year change in this section was in perceived job security. The share of employee respondents
-   who said they felt **less secure** in their job rose from **21.9%** in 2024 to **35.1%** in 2025, while the share
-   feeling their position was **more secure** fell from **26.6%** to **20.5%**. A larger share of employee respondents
-   were also not working at the time of the survey: **2.8%** in 2024 compared with **6.9%** in 2025. Other job-market
-   indicators were more mixed. A somewhat larger share of respondents reported actively looking for work in 2025, but the
-   overall distribution of job search status did not change dramatically. Job search confidence also appeared somewhat
-   weaker in 2025, with fewer respondents describing themselves as confident and more describing themselves as not
-   confident, though this shift was less clear-cut than the change in job security.
+   who said they felt **less secure** in their job rose from **21.9%** in 2024 to **36.0%** in 2025, while the share
+   feeling their position was **more secure** fell from **26.6%** to **18.4%**. A larger share of employee respondents
+   were also not working at the time of the survey: **2.8%** in 2024 compared with **4.9%** in 2025. Other job-market
+   indicators showed a less consistent picture. A somewhat larger share of respondents reported actively looking for work
+   in 2025, but the overall distribution of job search status did not change dramatically. Job search confidence also
+   appeared somewhat weaker in 2025, with fewer respondents describing themselves as confident and more describing
+   themselves as not confident, though this shift was less pronounced than the change in job security.
 
 .. contents:: In this section
    :local:
@@ -1370,7 +1370,7 @@ Salary factors and active job searching
 
 Three patterns stand out in how salary-related factors relate to active job searching. In the tables below, "actively looking" covers both respondents who described themselves as looking for permanent work and those also open to contract work.
 
-**Salary satisfaction is the strongest predictor.** Only 5.1% of those very satisfied with their salary were actively looking, compared to 55.6% of those very unsatisfied. The sharpest single step is between "satisfied" and "neutral" — a nearly four-fold increase from 6.8% to 26.5% — suggesting there is a meaningful threshold between contentment and restlessness that is not captured by salary level alone.
+**Salary satisfaction.** Only 5.1% of those very satisfied with their salary were actively looking, compared to 55.6% of those very unsatisfied. The jump from "satisfied" to "neutral" is the largest single step in the table — a nearly four-fold increase from 6.8% to 26.5%.
 
 .. table:: Actively looking for work, by salary satisfaction
    :name: tbl-2025-job-search-by-salary-satisfaction
@@ -1402,7 +1402,7 @@ Three patterns stand out in how salary-related factors relate to active job sear
 .. figure:: images/2025/2025-job-search-salary-satisfaction.svg
    :class: hide
 
-**Not receiving a raise correlates with a higher likelihood of searching.** Respondents who received a salary increase were considerably less likely to be looking (12.4%) than those whose salary stayed the same (19.7%) or decreased (20.0%). The near-identical rates for the no-change and decrease groups suggest that the absence of a raise matters as much as an actual cut — both are enough to trigger a search.
+**Salary change.** Respondents who received a salary increase were considerably less likely to be looking (12.4%) than those whose salary stayed the same (19.7%) or decreased (20.0%). The near-identical rates for the no-change and decrease groups suggest the two outcomes are equally associated with active searching.
 
 .. table:: Actively looking for work, by recent salary change
    :name: tbl-2025-job-search-by-salary-change
@@ -1418,7 +1418,7 @@ Three patterns stand out in how salary-related factors relate to active job sear
    | |3| Got decrease |  25 |     20.0% |  $85,852 |
    +------------------+-----+-----------+----------+
 
-**Search activity by experience level is non-linear.** The 2–5 year bracket shows the highest rate (17.1%), reflecting active career-building in the early stages. Rates gradually decline through mid-career. There is a notable spike at 25–30 years (21.7%) — a cohort of senior practitioners likely seeking a final move upward — before dropping sharply to just 4.7% among those with 30 or more years of experience.
+**Years of experience.** The 2–5 year bracket shows the highest rate (17.1%). Rates gradually decline through mid-career. There is a notable spike at 25–30 years (21.7%), before dropping to 4.7% among those with 30 or more years of experience.
 
 .. table:: Actively looking for work, by years of experience
    :name: tbl-2025-job-search-by-experience
@@ -1646,7 +1646,7 @@ Job search confidence
 
 Employees and contractors were shown this question if they indicated that they were currently not working, or if they were actively looking for a new position or new contract.
 
-Amongt employees, the trend has shifted significantly toward the negative compared to 2024. In 2025, 38.0% reported feeling "not confident" (up from 27.5%) and 8.3% "not confident at all" (down from 11.3%). Those feeling "confident" dropped to 25.0% (from 30.0%), and "very confident" fell sharply to 3.7% (from 10.0%).
+Among employees, the trend has shifted significantly toward the negative compared to 2024. In 2025, 38.0% reported feeling "not confident" (up from 27.5%) and 8.3% "not confident at all" (down from 11.3%). Those feeling "confident" dropped to 25.0% (from 30.0%), and "very confident" fell sharply to 3.7% (from 10.0%).
 
 Among contractors — only 6 qualified for this question in 2025 — results should be treated with caution. The distribution was evenly split between positive and negative responses, with no respondents feeling "very confident".
 
@@ -1965,9 +1965,9 @@ Given the range of socio-economic differences in the countries in the survey res
    .. rubric:: Compared with 2024
 
    Median employee salaries by region were generally steady to moderately higher in 2025. The worldwide median rose from
-   **$85,793** in 2024 to **$91,811** in 2025, while North America rose from **$107,100** to **$115,000** and Europe from
-   **$62,625** to **$66,015**. Asia was broadly flat year over year, while Oceania was lower than in 2024. These shifts
-   are directionally interesting, but do not suggest a dramatic year-over-year break in regional salary patterns.
+   **$85,793** in 2024 to **$93,759** in 2025, while North America rose from **$107,100** to **$119,000** and Europe from
+   **$62,625** to **$66,808**. Asia was broadly flat year over year, while Oceania was lower than in 2024. These shifts
+   are consistent with the gradual upward trends seen in previous years.
 
 .. container:: note
 
@@ -2324,9 +2324,9 @@ Median salary by time in current role
 
 Worldwide, salary rises modestly with time in the current role — from $90,000 for those in their first year to $104,748 for those who have been in the same role for 10 years or more. The progression is slow through the first five years (the 1–2 and 2–5 year medians are identical at $92,000), before accelerating at 10+.
 
-North America shows a more interesting pattern. Salaries start high ($120,000 for 0–1 years) and barely change through 2–5 years ($120,000), suggesting new hires are negotiating at or near market rate. They then dip to $111,000 at 5–10 years — a possible loyalty penalty as internal raises fall behind market movement — before recovering to $129,000 for the 10+ group.
+North America shows a different pattern. Salaries start high ($120,000 for 0–1 years) and remain flat through 2–5 years ($120,000). They then dip to $111,000 at 5–10 years before recovering to $129,000 for the 10+ group.
 
-In Europe the pattern is less clear, partly due to small sample sizes at the upper end (n=12 for 10+ years). The 5–10 year bracket ($75,065) is higher than both adjacent groups, which is likely noise at that sample size rather than a genuine signal.
+In Europe the pattern is less clear, partly due to small sample sizes at the upper end (only 12 respondents in the 10+ years bracket). The 5–10 year bracket ($75,065) is higher than both adjacent groups, which is likely noise at that sample size rather than a genuine signal.
 
 .. raw:: html
 
@@ -2431,11 +2431,11 @@ In Europe the pattern is less clear, partly due to small sample sizes at the upp
 Median salary by age group
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Salary increases with age across all three regions, though not in a perfectly linear way. In North America, the 46–55 age group has a slightly lower median ($120,000) than the 36–45 group ($127,000). This may reflect career transitions, voluntary role changes, or compositional differences in the groups, but the overall upward trend holds.
+Salary increases with age across all three regions, though not in a perfectly linear way. In North America, the 46–55 age group has a slightly lower median ($120,000) than the 36–45 group ($127,000), though the overall upward trend holds.
 
 Europe shows a much flatter progression than North America — EU medians rise only from $62,130 (26–35) to $72,499 (46–55), compared to $94,000 to $139,500 over the same span in North America.
 
-The 18–25 age group is below the 30-respondent threshold in all regions, and is excluded from the Europe breakdown (fewer than 10 respondents). The 56–65 group is also excluded from Europe for the same reason. Respondents aged 66 or older are not included in any breakdown (n=8 worldwide).
+The 18–25 age group is below the 30-respondent threshold in all regions, and is excluded from the Europe breakdown (fewer than 10 respondents). The 56–65 group is also excluded from Europe for the same reason. Respondents aged 66 or older are not included in any breakdown; with only 8 worldwide, no region met the minimum threshold.
 
 .. raw:: html
 
@@ -2708,7 +2708,7 @@ Salaries generally increase with the size of the organization, with the highest 
 Median salary by primary role category
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Among the five primary role categories with at least 10 respondents, DocOps practitioners had the highest median salary at $128,800. Technical writers — by far the most common primary role, with 539 respondents — had a median of $90,610. Developer or engineers, project or product managers, and editors all fell within a narrow range of $90,370 to $93,759. The other role categories did not have enough respondents to include.
+Among the five primary role categories with at least 10 respondents, DocOps practitioners had the highest median salary at $128,800. Technical writers — by far the most common primary role, with 539 respondents — had a median of $90,610. Developers or engineers, project or product managers, and editors all fell within a narrow range of $90,370 to $93,759. Role categories with fewer than 10 respondents are not shown.
 
 25th and 75th percentile figures are only available for the technical writer category, which was the only primary role category with at least 30 respondents. The DocOps result ($128,800) is based on 14 respondents and should be treated as indicative rather than definitive.
 
@@ -2828,11 +2828,11 @@ This pattern likely reflects experience as a confounding factor: practitioners w
 Median salary by industry
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Salary varies substantially across industries, from a worldwide median of $78,500 in finance to $140,391 in advertising. However, the industry breakdown requires two important caveats.
+Salary varies substantially across industries, from a worldwide median of $78,500 in finance to $140,391 in advertising. However, the industry breakdown has two limitations worth noting.
 
-First, respondents could select multiple industries — the same person may be counted in several industry categories, so totals across rows exceed the respondent count. Second, some industries have a strong geographic concentration that inflates or deflates their worldwide median. Advertising is the clearest example: 31 of its 39 worldwide respondents are in North America, so its $140,391 worldwide median largely reflects North American salary levels rather than a true global industry premium.
+First, respondents could select multiple industries — the same person may be counted in several industry categories. Second, some industries have a strong geographic concentration that inflates or deflates their worldwide median. Advertising is the clearest example: 31 of its 39 worldwide respondents are in North America, so its $140,391 worldwide median largely reflects North American salary levels rather than a true global industry premium.
 
-The North America tab shows all 10 industries, with advertising and data/analytics near-tied at the top ($158,000 and $157,394). The Europe tab covers the 7 industries with at least 10 European respondents; advertising, government, and healthcare fall below that threshold.
+The North America tab shows all 10 industries, with advertising ($158,000) and data/analytics ($157,394) having the highest medians. The Europe tab covers the 7 industries with at least 10 European respondents; advertising, government, and healthcare fall below that threshold.
 
 .. raw:: html
 
@@ -3016,9 +3016,8 @@ Employee satisfaction
 
    Employee satisfaction was lower in 2025 than in 2024. The share of respondents who reported feeling satisfied or very
    satisfied with their salary and benefits fell from **71.8%** in 2024 to **66.0%** in 2025, while the share who felt
-   satisfied or very satisfied with their overall employment conditions fell from **71.3%** to **65.7%**. The decline in
-   overall satisfaction was somewhat clearer than the decline in salary satisfaction, suggesting that broader employment
-   conditions may have worsened even where pay remained stable or increased.
+   satisfied or very satisfied with their overall employment conditions fell from **71.3%** to **65.7%**. The decline was
+   slightly larger for overall employment conditions than for salary and benefits specifically.
 
 .. raw:: html
 
