@@ -1365,6 +1365,87 @@ Employee-contractors are shown separately for their employee and contractor sear
 
    </div></div>
 
+Salary factors and active job searching
+----------------------------------------
+
+Three patterns stand out in how salary-related factors relate to active job searching. In the tables below, "actively looking" covers both respondents who described themselves as looking for permanent work and those also open to contract work.
+
+**Salary satisfaction is the strongest predictor.** Only 5.1% of those very satisfied with their salary were actively looking, compared to 55.6% of those very unsatisfied. The sharpest single step is between "satisfied" and "neutral" — a nearly four-fold increase from 6.8% to 26.5% — suggesting there is a meaningful threshold between contentment and restlessness that is not captured by salary level alone.
+
+.. table:: Actively looking for work, by salary satisfaction
+   :name: tbl-2025-job-search-by-salary-satisfaction
+   :class: medians-with-num sortable
+
+   +----------------------+-----+-----------+----------+
+   | Salary satisfaction  | |N| | % looking | |50|     |
+   +======================+=====+===========+==========+
+   | |1| Very satisfied   | 136 |      5.1% | $130,000 |
+   +----------------------+-----+-----------+----------+
+   | |2| Satisfied        | 309 |      6.8% |  $95,000 |
+   +----------------------+-----+-----------+----------+
+   | |3| Neutral          | 117 |     26.5% |  $74,824 |
+   +----------------------+-----+-----------+----------+
+   | |4| Unsatisfied      |  87 |     31.0% |  $66,422 |
+   +----------------------+-----+-----------+----------+
+   | |5| Very unsatisfied |  18 |     55.6% |  $66,457 |
+   +----------------------+-----+-----------+----------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Percentage actively looking for work, by salary satisfaction" aria-describedby="figure_job-search-salary-satisfaction_desc" type="image/svg+xml" data="/_images/2025-job-search-salary-satisfaction.svg">
+         <p id="figure_job-search-salary-satisfaction_desc">Horizontal bar chart showing the percentage of employees actively looking for work at each salary satisfaction level, ranging from 5.1% for very satisfied to 55.6% for very unsatisfied.</p>
+      </object>
+      <figcaption>Figure: Actively looking for work, by salary satisfaction</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-job-search-salary-satisfaction.svg
+   :class: hide
+
+**Not receiving a raise correlates with a higher likelihood of searching.** Respondents who received a salary increase were considerably less likely to be looking (12.4%) than those whose salary stayed the same (19.7%) or decreased (20.0%). The near-identical rates for the no-change and decrease groups suggest that the absence of a raise matters as much as an actual cut — both are enough to trigger a search.
+
+.. table:: Actively looking for work, by recent salary change
+   :name: tbl-2025-job-search-by-salary-change
+   :class: medians-with-num sortable
+
+   +------------------+-----+-----------+----------+
+   | Salary change    | |N| | % looking | |50|     |
+   +==================+=====+===========+==========+
+   | |1| Got increase | 485 |     12.4% |  $95,000 |
+   +------------------+-----+-----------+----------+
+   | |2| No change    | 157 |     19.7% |  $82,500 |
+   +------------------+-----+-----------+----------+
+   | |3| Got decrease |  25 |     20.0% |  $85,852 |
+   +------------------+-----+-----------+----------+
+
+**Search activity by experience level is non-linear.** The 2–5 year bracket shows the highest rate (17.1%), reflecting active career-building in the early stages. Rates gradually decline through mid-career. There is a notable spike at 25–30 years (21.7%) — a cohort of senior practitioners likely seeking a final move upward — before dropping sharply to just 4.7% among those with 30 or more years of experience.
+
+.. table:: Actively looking for work, by years of experience
+   :name: tbl-2025-job-search-by-experience
+   :class: medians-with-num sortable
+
+   +---------------------+-----+-----------+----------+
+   | Years of experience | |N| | % looking | |50|     |
+   +=====================+=====+===========+==========+
+   | |1| 0-1 year        |  12 |      0.0% |  $76,902 |
+   +---------------------+-----+-----------+----------+
+   | |2| 1-2 years       |  24 |      8.3% |  $63,250 |
+   +---------------------+-----+-----------+----------+
+   | |3| 2-5 years       | 117 |     17.1% |  $66,000 |
+   +---------------------+-----+-----------+----------+
+   | |4| 5-10 years      | 188 |     15.4% |  $86,740 |
+   +---------------------+-----+-----------+----------+
+   | |5| 10-15 years     | 135 |     14.8% | $105,000 |
+   +---------------------+-----+-----------+----------+
+   | |6| 15-20 years     |  55 |     12.7% | $102,000 |
+   +---------------------+-----+-----------+----------+
+   | |7| 20-25 years     |  46 |     10.9% | $105,769 |
+   +---------------------+-----+-----------+----------+
+   | |8| 25-30 years     |  46 |     21.7% | $118,818 |
+   +---------------------+-----+-----------+----------+
+   | |9| 30+ years       |  43 |      4.7% | $140,000 |
+   +---------------------+-----+-----------+----------+
+
 Job security and stability
 --------------------------
 
