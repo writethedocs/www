@@ -1,7 +1,7 @@
 Meetups
 =======
 
-**Write the Docs Meetups** allow for documentarians to get to know their 
+**Write the Docs Meetups** allow documentarians to get to know their 
 community better. Meetup events are a great way to network and stay up 
 to date with the documentation world.
 
@@ -11,31 +11,8 @@ community as well as anyone who attends from an overlapping time zone.
 The events available at each Meetup depend on the organizer, their schedule,
 as well as the needs of their community.
 
-Meetup organization
--------------------
-
-All of our meetups are organized by volunteers in their local communities.
-Each Meetup has its own unique style that varies based on the organizers and
-the locale it represents.
-
-We love volunteers! If you are interested in starting a new meetup group
-or volunteering with an existing group, here is how you can reach out:
-
-* `Start a new Meetup group <https://forms.gle/Jx9CniuwEcLrEYPJ7>`_
-* `Volunteer for an existing Meetup group <https://forms.gle/DG8FagKdNgAFtEb47>`_
-
-We have documentation available to support potential and existing organizers:
-
-.. toctree::
-   :maxdepth: 1
-
-   announcements
-   ../organizer-guide/meetups/starting
-   ../organizer-guide/meetups/faq-meetups
-   ../organizer-guide/meetups/sustainable-meetups
-
-Current meetups
----------------
+Active Meetup groups
+--------------------
 
 Anyone is welcome to join a meetup in their local community. If no local 
 community currently exists you are more than welcome to join any meetup
@@ -82,3 +59,26 @@ Africa
 .. meetup-listing::
     :region: Africa
 
+
+Learn about organizing for WTD
+------------------------------
+
+All of our meetups are organized by volunteers in their local communities.
+Each Meetup has its own unique style that varies based on the organizers and
+the locale it represents.
+
+We love volunteers! If you are interested in starting a new meetup group
+or volunteering with an existing group, here is how you can reach out:
+
+* `Start a new Meetup group <https://forms.gle/Jx9CniuwEcLrEYPJ7>`_
+* `Volunteer for an existing Meetup group <https://forms.gle/DG8FagKdNgAFtEb47>`_
+
+We have documentation available to support potential and existing organizers:
+
+.. toctree::
+   :maxdepth: 1
+
+   announcements
+   ../organizer-guide/meetups/starting
+   ../organizer-guide/meetups/faq-meetups
+   ../organizer-guide/meetups/sustainable-meetups
