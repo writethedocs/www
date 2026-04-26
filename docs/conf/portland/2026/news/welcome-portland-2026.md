@@ -33,7 +33,7 @@ The website is full of wonderful information about the conference, venue, and Po
 - **Unconference:** Lead or attend a session so you can connect with like-minded folks about topics you care about. We're accepting Monday session sign-ups now. [Learn more about signing up](#monday-unconference-sessions-open).
 - **Lightning Talks:** Do you have an idea, concept, or topic you'd like to share with our community in five minutes? We're now accepting Monday submissions. [Learn more about submitting a talk](#monday-lightning-talk-submissions-open).
 - **Monday Night Social:** Our only offsite gathering is an informal way to relax with fellow attendees, and again enjoy some drinks and snacks on us! Held at {{ about.social_venue }}.
-- **Virtually:** Want to stream speaker talks and Q&As from the comfort of your own home? [Attend the conference virtually](https://www.writethedocs.org/conf/portland/{{year}}/virtual/).
+- **Virtually:** Want to stream speaker talks and Q&As and attend online Unconference sessions from the comfort of your own home? [Attend the conference virtually](https://www.writethedocs.org/conf/portland/{{year}}/virtual/).
 
 ## Monday Unconference Sessions Open
 
@@ -42,12 +42,6 @@ We're opening up the Monday Unconference sign-ups today! We're doing this becaus
 ```{button-link} {{ unconf.url }}
 Sign up to Lead a Monday Unconference
 ```
-
-For those who are new to Unconferences or nervous about what makes a "good" topic, we have a vast range of topics and vibes every year. If you need some inspiration, consider any of these:
-
-- Have a tricky situation or question burning in you? Whether that's about language, technology, workplace dynamics, job hunting, etc., there's definitely others with the same issues in mind.
-- Made something recently you'd love to share? Whether that's requesting critique or offering a tool to help your fellow documentarians, we welcome you to bring your laptop and offer a demo.
-- Focused on building community? Some attendees put on recurring  sessions for LGBTQ+ groups, for neurodiverse groups, for job hunters, for folks in particular geographic regions, etc. If you've got a drive to set something up, we welcome that! 
 
 And as always, sign-ups are welcome during the conference. 
 
@@ -82,11 +76,11 @@ On Sunday, registration is at the 1st floor Box Office near the main entrance an
 
 **How can I stream talks?**
 
-This conference has virtual and in-person ticket options. All in-person ticket holders will receive a login link for the virtual conference platform, where we'll be streaming main stage talks and Q&As live. This may come in handy if you can't be at the venue for part of the event.
+This conference has virtual and in-person ticket options. All in-person ticket holders will receive a login link for the virtual conference platform, where we'll be streaming main stage talks and Q&As live, and hosting a virtual Unconference track. This may come in handy if you can't be at the venue for part of the event.
 
 **Do you cater lunch?**
 
-No, we don’t cater a full lunch, but we do provide morning and afternoon snacks, coffee, and tea all day. This year, we're excited to have two food carts serving lunch Monday and Tuesday in the parking lot, and there are a number of great restaurants within walking distance. View the [Visiting Portland](https://www.writethedocs.org/conf/portland/{{year}}/visiting/) page for more ideas.
+No, we don’t cater a full lunch, but we do provide morning and afternoon snacks, coffee, and tea all day. This year, we're excited to have two food carts serving lunch Monday and Tuesday in the parking lot, and there are a number of great restaurants within walking distance. View the [Visiting Portland](https://www.writethedocs.org/conf/portland/{{year}}/visiting/#food-and-beverages) page for more ideas.
 
 **Do you have a place to store luggage?**
 
