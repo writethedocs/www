@@ -35,6 +35,8 @@ Bus transit stops are located near the venue. All transit in Portland announce m
 - GitHub workshops: Sunset Room
 - Roundtable discussions, resume/portfolio review, and sponsor activations: Martha's
 
+These locations will have air purifiers running throughout the conference, thanks to [Portland Clean Air Committee](https://pcac.carrd.co/).
+
 ### Speaker Talks, Sponsor Expo, and Catering
 **Location:** 2nd/3rd floor auditorium and surrounding spaces
 
