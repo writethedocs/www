@@ -31,6 +31,7 @@ See the [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page for exact times.
 Sign up to Lead a Monday Unconference
 ```
 {% endif %}
+*The Unconference is sponsored by [ReadMe](https://readme.com/?ref=writethedocs).*
 
 ## Sponsor Sessions in Martha's
 
