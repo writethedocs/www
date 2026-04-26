@@ -11,10 +11,10 @@ community as well as anyone who attends from an overlapping time zone.
 The events available at each Meetup depend on the organizer, their schedule,
 as well as the needs of their community.
 
-Active Meetup groups
---------------------
+Active WTD groups
+------------------
 
-Anyone is welcome to join a meetup in their local community. If no local 
+Anyone is welcome to join a WTD group in their local community. If no local 
 community currently exists you are more than welcome to join any meetup
 that works for your time zone that hosts virtual events.
 
