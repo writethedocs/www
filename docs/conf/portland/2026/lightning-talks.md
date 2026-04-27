@@ -17,13 +17,21 @@ Lightning Talks are a fantastic opportunity for first-time speakers. Regardless 
 
 Our goal is to have a balance between first-time and experienced speakers. 
 
-## Schedule and Logistics
+## Schedule
 
 **Date: {{date.day_three.dotw}}, {{date.day_three.date}} and {{date.day_four.dotw}}, {{date.day_four.date}} after lunch**
 
-Lightning Talks can be submitted through an online form only. 
+See the [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page for exact times.
 
-**Submissions are open:**
+{% if lightning_talks.signup_url %}
+```{button-link} {{ lightning_talks.signup_url }}
+Submit your Monday Lightning Talk
+```
+{% endif %}
+
+### Submitting a Talk
+
+Submissions are open:
 
 - One week prior to the conference (Monday submissions only)
 - During the conference from Sunday to Tuesday morning, until the end of the last morning break
@@ -43,8 +51,6 @@ The coordinator, with staff support, selects the speakers. The speakers are anno
 - Each speaker is introduced and given five minutes to present.
 - There is a countdown timer for each presentation. Speakers receive a signal when they have one minute remaining.
 - The coordinator stops speakers after five minutes.
-
-Exact times to be posted on our [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page.
 
 ![Lightning Talks](/_static/conf/images/pics/2025/lightning-talks.jpg)
 

@@ -3,7 +3,7 @@ Code of Conduct
 
 .. Marker used by conference pages to skip the shared H1 heading when
 .. including this file. Conference pages use "start-after"
-.. conference-include-body to begin the include after this line.
+.. to begin the include after this line.
 
 .. conference-include-body
 

@@ -179,6 +179,9 @@ unconf:
   url: "https://docs.google.com/spreadsheets/d/1eHLcr2C8om67M9qfYJHKg0MRxdwZYijqvsboeIRX3Fc/edit?gid=1637667081#gid=1637667081"
   date: "All day, Monday, May 4 and Tuesday, May 5"
 
+lightning_talks:
+  signup_url: "https://docs.google.com/forms/d/e/1FAIpQLSdeeMs_x9_6WPIl_ERai_3_5zkEBD7MrMK835igFY07zN156A/viewform"
+
 writing_day:
   url: "https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform?usp=header"
   date: Sunday, May 3, 9 AM - 5 PM
