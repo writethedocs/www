@@ -1,26 +1,74 @@
-@import url('https://fonts.googleapis.com/css2?family=Asap:wdth,wght@75..125,100..900&display=swap');
+@font-face {
+    font-family: 'Asap';
+    src: url('/_static/survey/fonts/Asap-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Asap';
+    src: url('/_static/survey/fonts/Asap-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Asap';
+    src: url('/_static/survey/fonts/Asap-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Asap';
+    src: url('/_static/survey/fonts/Asap-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Asap';
+    src: url('/_static/survey/fonts/Asap-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Asap';
+    src: url('/_static/survey/fonts/Asap-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Asap';
+    src: url('/_static/survey/fonts/Asap-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
 
 :root {
---color-text-dark: #50514F;
---color-text-light: #999999;
---color-text-contrast: #FFFFFF;
---color-grid: #F2F4F6;
---color-series-a: #00AEFF;
---color-series-b: #FFA600;
---color-blue-dark: #1A4A8C;
---color-blue-light: #7EA4FF;
---color-blue-range: #A8C8E8;
---color-orange-dark: #E4774E;
---color-orange-light: #FFD080;
---color-red: #C94040;
---color-grey: #BBBBBB;
---color-satisfaction-very-unsatisfied: #C2255C;
---color-satisfaction-unsatisfied: #E4774E;
---color-satisfaction-neutral: #E9C168;
---color-satisfaction-satisfied: #82A555;
---color-satisfaction-very-satisfied: #087F5B;
---font: "Asap", sans-serif;
---transition: all 0.3s ease-in-out;
+  --color-text-dark: #50514F;
+  --color-text-light: #999999;
+  --color-text-contrast: #FFFFFF;
+  --color-grid: #F2F4F6;
+  --color-series-a: #00AEFF;
+  --color-series-b: #FFA600;
+  --color-blue-dark: #1A4A8C;
+  --color-blue-light: #7EA4FF;
+  --color-blue-range: #A8C8E8;
+  --color-orange-dark: #E4774E;
+  --color-orange-light: #FFD080;
+  --color-red: #C94040;
+  --color-grey: #BBBBBB;
+  --color-satisfaction-very-unsatisfied: #C2255C;
+  --color-satisfaction-unsatisfied: #E4774E;
+  --color-satisfaction-neutral: #E9C168;
+  --color-satisfaction-satisfied: #82A555;
+  --color-satisfaction-very-satisfied: #087F5B;
+  --font: "Asap", sans-serif;
+  --transition: all 0.3s ease-in-out;
 
 	--color-more: #97BB50;
 	--color-same: #CDC899;
