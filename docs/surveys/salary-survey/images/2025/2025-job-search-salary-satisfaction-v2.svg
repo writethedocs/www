@@ -1,0 +1,70 @@
+<svg viewBox="0 0 660 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+        .bars rect {
+          fill-opacity: 0.8;
+        }
+        .bars rect:hover {
+          fill-opacity: 1;
+        }
+      ]]>
+    </style>
+  </defs>
+
+  <g id="2025-job-search-salary-satisfaction-v2" class="scale-single-series">
+    <g class="chart-header">
+      <g class="chart-title">
+        <text x="20" y="35" class="title-text">Actively looking for work</text>
+        <text x="20" y="55" class="subtitle-text">By salary satisfaction — employee respondents (709)</text>
+      </g>
+
+      <g class="legend">
+        <g class="legend-row">
+          <g class="legend-item">
+            <rect class="legend-item-container" x="537" y="20" width="103"/>
+            <circle class="series-a" cx="550" cy="31"/>
+            <text class="legend-label" x="558" y="35">Actively looking</text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <g class="chart-area bar-chart-horizontal scale-single-series" transform="translate(0 35)">
+      <g font-size="10" text-anchor="end">
+        <text><tspan x="100" y="80">Very satisfied</tspan></text>
+        <text><tspan x="100" y="118">Satisfied</tspan></text>
+        <text><tspan x="100" y="156">Neutral</tspan></text>
+        <text><tspan x="100" y="194">Unsatisfied</tspan></text>
+        <text><tspan x="100" y="232">Very unsatisfied</tspan></text>
+      </g>
+
+      <g class="tracks">
+        <rect class="track" x="108" y="62" width="500" height="28"/>
+        <rect class="track" x="108" y="100" width="500" height="28"/>
+        <rect class="track" x="108" y="138" width="500" height="28"/>
+        <rect class="track" x="108" y="176" width="500" height="28"/>
+        <rect class="track" x="108" y="214" width="500" height="28"/>
+      </g>
+
+      <g class="bars series-a">
+        <rect x="108" y="62" width="42.5" height="28"/>
+        <rect x="108" y="100" width="56.7" height="28"/>
+        <rect x="108" y="138" width="220.8" height="28"/>
+        <rect x="108" y="176" width="258.3" height="28"/>
+        <rect x="108" y="214" width="463.3" height="28"/>
+      </g>
+
+      <g class="value-labels-outer" text-anchor="end">
+        <text><tspan x="640" y="80">5.1%</tspan></text>
+        <text><tspan x="640" y="118">6.8%</tspan></text>
+        <text><tspan x="640" y="156">26.5%</tspan></text>
+        <text><tspan x="640" y="194">31.0%</tspan></text>
+        <text><tspan x="640" y="232">55.6%</tspan></text>
+      </g>
+    </g>
+  </g>
+
+</svg>

@@ -1,4 +1,32 @@
 @font-face {
+    font-family: 'Domine';
+    src: url('/_static/survey/fonts/Domine-Regular.ttf') format('truetype');
+    font-weight: 400; /* Regular */ 
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Domine';
+    src: url('/_static/survey/fonts/Domine-Medium.ttf') format('truetype');
+    font-weight: 500; /* Medium */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Domine';
+    src: url('/_static/survey/fonts/Domine-SemiBold.ttf') format('truetype');
+    font-weight: 600; /* SemiBold */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Domine';
+    src: url('/_static/survey/fonts/Domine-Bold.ttf') format('truetype');
+    font-weight: 700; /* Bold */
+    font-style: normal;
+}
+
+@font-face {
     font-family: 'Asap';
     src: url('/_static/survey/fonts/Asap-Thin.ttf') format('truetype');
     font-weight: 100;
@@ -49,26 +77,33 @@
 
 
 :root {
+
+  --font: "Asap", sans-serif;
+  --font-title: "Domine", serif;
+  --transition: all 0.3s ease-in-out;
+
   --color-text-dark: #50514F;
   --color-text-light: #999999;
   --color-text-contrast: #FFFFFF;
+
+  --color-legend-bg: #FFFFFF;
+
   --color-grid: #F2F4F6;
-  --color-series-a: #00AEFF;
-  --color-series-b: #FFA600;
-  --color-blue-dark: #1A4A8C;
-  --color-blue-light: #7EA4FF;
-  --color-blue-range: #A8C8E8;
-  --color-orange-dark: #E4774E;
-  --color-orange-light: #FFD080;
-  --color-red: #C94040;
-  --color-grey: #BBBBBB;
+  --color-border: #D8DCDE;
+  --color-donut-stroke: #FFFFFF;
+
+  --color-chart-1: #32BDFE;
+  --color-chart-2: #FEB732;
+  --color-chart-3: #98D029;
+  --color-chart-4: #E7704C;
+  --color-chart-5: #8A38F5; 
+  --color-chart-6: #F538D2;
+
   --color-satisfaction-very-unsatisfied: #C2255C;
   --color-satisfaction-unsatisfied: #E4774E;
   --color-satisfaction-neutral: #E9C168;
   --color-satisfaction-satisfied: #82A555;
   --color-satisfaction-very-satisfied: #087F5B;
-  --font: "Asap", sans-serif;
-  --transition: all 0.3s ease-in-out;
 
 	--color-more: #97BB50;
 	--color-same: #CDC899;
@@ -79,19 +114,80 @@
 	--color-neutral: #00dfe1;
 	--color-not-confident: #00b281;
 	--color-not-confident-at-all: #048000;
+
+  /* phasing these out */
+  --color-series-a: #00AEFF;
+  --color-series-b: #FFA600;
+  --color-blue-dark: #1A4A8C;
+  --color-blue-light: #7EA4FF;
+  --color-blue-range: #A8C8E8;
+  --color-orange-dark: #E4774E;
+  --color-orange-light: #FFD080;
+  --color-red: #C94040;
+  --color-grey: #BBBBBB;
+
 }
 
+/* general text */
 text {
-	font-family: 'asap',sans-serif;
+	font-family: var(--font);
 	fill: var(--color-text-dark);
 	&.reverse {
 		fill: var(--color-text-contrast);
 	}
 }
 
-.title {
-	display: none;
-	fill: var(--color-text-dark);
+.chart-header {
+
+  .chart-title {
+    text {
+      fill: var(--color-text-dark);
+      &.title-text {
+        font-family: var(--font-title);
+        font-weight: 700;
+        font-size: 16px;
+      }
+      &.subtitle-text {
+        fill: var(--color-text-light);
+        font-family: var(--font-title);
+        font-weight: 500;
+        font-size: 14px;
+      }
+    }
+  } /* end .chart-title */
+
+  .legend {
+    .legend-item {
+      rect.legend-item-container {
+        rx: 11;
+        height: 22px;
+        fill: var(--color-legend-bg);
+        stroke: var(--color-border);
+        stroke-width: 1;
+      }
+      circle {
+        r: 3;
+        &.chart-color-1 { fill: var(--color-chart-1); }
+        &.chart-color-2 { fill: var(--color-chart-2); }
+        &.chart-color-3 { fill: var(--color-chart-3); }
+        &.chart-color-4 { fill: var(--color-chart-4); }
+        &.chart-color-5 { fill: var(--color-chart-5); }
+        &.chart-color-6 { fill: var(--color-chart-6); }
+      }
+      text.legend-label {
+        fill: var(--color-text-dark);
+        font-size: 10px;
+        font-weight: 400;
+      }
+    }
+  } /* end .legend */
+
+} /* end .chart-header */
+
+
+.title { /* phasing out in favor of visible chart header */
+        display: none;
+        fill: var(--color-text-dark);
 	font-family: var(--font);
 	font-weight: 500;
 	.subtitle {
@@ -102,290 +198,118 @@ text {
 
 .donut-chart, .bar-chart-horizontal {
 
-rect {
-rx: 2;
-}
+  rect {
+    rx: 2;
+  }
 
-text.value-labels-inner {
-font-size: 12px;
-font-weight: 700;
-filter: url(#label-bg);
-}
+  text.value-labels-inner {
+    font-size: 12px;
+    font-weight: 700;
+    filter: url(#label-bg);
+  }
 
 }
 
 .donut-chart {
 
   .slice {
-    stroke: white;
+    stroke: var(--color-donut-stroke);
     stroke-width: 2;
   }
 
 }
 
+/* color scales */
 .scale-satisfaction {
-
-  .very-unsatisfied {
-    fill: var(--color-satisfaction-very-unsatisfied);
-  }
-
-  .unsatisfied {
-    fill: var(--color-satisfaction-unsatisfied);
-  }
-
-  .neutral {
-    fill: var(--color-satisfaction-neutral);
-  }
-
-  .satisfied {
-    fill: var(--color-satisfaction-satisfied);
-  }
-
-  .very-satisfied {
-    fill: var(--color-satisfaction-very-satisfied);
-  }
-
+  .very-unsatisfied { fill: var(--color-satisfaction-very-unsatisfied); }
+  .unsatisfied { fill: var(--color-satisfaction-unsatisfied); }
+  .neutral { fill: var(--color-satisfaction-neutral); }
+  .satisfied { fill: var(--color-satisfaction-satisfied); }
+  .very-satisfied { fill: var(--color-satisfaction-very-satisfied); }
 }
 
 .scale-search-confidence {
-
-  .not-at-all {
-    fill: var(--color-satisfaction-very-unsatisfied);
-  }
-
-  .not-confident {
-    fill: var(--color-satisfaction-unsatisfied);
-  }
-
-  .neutral {
-    fill: var(--color-satisfaction-neutral);
-  }
-
-  .confident {
-    fill: var(--color-satisfaction-satisfied);
-  }
-
-  .very-confident {
-    fill: var(--color-satisfaction-very-satisfied);
-  }
-
+  .not-at-all { fill: var(--color-satisfaction-very-unsatisfied); }
+  .not-confident { fill: var(--color-satisfaction-unsatisfied); }
+  .neutral { fill: var(--color-satisfaction-neutral); }
+  .confident { fill: var(--color-satisfaction-satisfied); }
+  .very-confident { fill: var(--color-satisfaction-very-satisfied); }
 }
 
 .scale-three-trend {
-
-  .negative {
-    fill: var(--color-satisfaction-unsatisfied);
-  }
-
-  .neutral {
-    fill: var(--color-satisfaction-neutral);
-  }
-
-  .positive {
-    fill: var(--color-satisfaction-satisfied);
-  }
-
+  .negative { fill: var(--color-satisfaction-unsatisfied); }
+  .neutral { fill: var(--color-satisfaction-neutral); }
+  .positive { fill: var(--color-satisfaction-satisfied); }
 }
 
 .scale-preferred-term {
-
-  .contractor {
-    fill: var(--color-series-a);
-  }
-
-  .self-employed {
-    fill: var(--color-blue-light);
-  }
-
-  .freelancer {
-    fill: var(--color-series-b);
-  }
-
-  .other {
-    fill: var(--color-grey);
-  }
-
+  .contractor { fill: var(--color-chart-1); }
+  .self-employed { fill: var(--color-chart-2); }
+  .freelancer { fill: var(--color-chart-3); }
+  .other { fill: var(--color-chart-4); }
 }
 
 .scale-client-config {
-
-  .single {
-    fill: var(--color-series-a);
-  }
-
-  .multiple {
-    fill: var(--color-blue-light);
-  }
-
-  .both {
-    fill: var(--color-series-b);
-  }
-
-  .not-specified {
-    fill: var(--color-grey);
-  }
-
+  .single { fill: var(--color-chart-1); }
+  .multiple { fill: var(--color-chart-2); }
+  .both { fill: var(--color-chart-3); }
+  .not-specified { fill: var(--color-chart-4); }
 }
 
 .scale-contract-length {
-
-  .short-only {
-    fill: var(--color-series-b);
-  }
-
-  .medium-only {
-    fill: var(--color-orange-light);
-  }
-
-  .long-only {
-    fill: var(--color-series-a);
-  }
-
-  .mixed {
-    fill: var(--color-blue-light);
-  }
-
-  .not-specified {
-    fill: var(--color-grey);
-  }
-
+  .short-only { fill: var(--color-chart-1); }
+  .medium-only { fill: var(--color-chart-2); }
+  .long-only { fill: var(--color-chart-3); }
+  .mixed { fill: var(--color-chart-4); }
+  .not-specified { fill: var(--color-chart-5); }
 }
 
 .scale-products-services {
-
-  .product {
-    fill: var(--color-series-b);
-  }
-
-  .service {
-    fill: var(--color-series-a);
-  }
-
-  .both {
-    fill: var(--color-blue-light);
-  }
-
-  .neither {
-    fill: var(--color-grey);
-  }
-
+  .product { fill: var(--color-chart-1); }
+  .service { fill: var(--color-chart-2); }
+  .both { fill: var(--color-chart-3); }
+  .neither { fill: var(--color-chart-4); }
 }
 
 .scale-job-search-status {
-
-  .open-offers {
-    fill: var(--color-series-a);
-  }
-
-  .not-open {
-    fill: var(--color-blue-dark);
-  }
-
-  .actively-looking {
-    fill: var(--color-series-b);
-  }
-
-  .not-looking-yet {
-    fill: var(--color-blue-light);
-  }
-
-  .open-to-contract,
-  .open-to-permanent {
-    fill: var(--color-orange-dark);
-  }
-
-  .contracting-while-looking {
-    fill: var(--color-red);
-  }
-
+  .open-offers { fill: var(--color-chart-1); }
+  .not-open { fill: var(--color-chart-2); }
+  .actively-looking { fill: var(--color-chart-3); }
+  .not-looking-yet { fill: var(--color-chart-4); }
+  .open-to-contract, .open-to-permanent { fill: var(--color-chart-5); }
+  .contracting-while-looking { fill: var(--color-chart-6); }
 }
 
 .scale-feedback-likert {
-
-  .strongly-disagree {
-    fill: var(--color-satisfaction-very-unsatisfied);
-  }
-
-  .disagree {
-    fill: var(--color-satisfaction-unsatisfied);
-  }
-
-  .neutral {
-    fill: var(--color-satisfaction-neutral);
-  }
-
-  .agree {
-    fill: var(--color-satisfaction-satisfied);
-  }
-
-  .strongly-agree {
-    fill: var(--color-satisfaction-very-satisfied);
-  }
-
+  .strongly-disagree { fill: var(--color-satisfaction-very-unsatisfied);}
+  .disagree { fill: var(--color-satisfaction-unsatisfied);}
+  .neutral { fill: var(--color-satisfaction-neutral);}
+  .agree { fill: var(--color-satisfaction-satisfied);}
+  .strongly-agree { fill: var(--color-satisfaction-very-satisfied);}
 }
 
 .scale-gender-identity {
-
-  .woman {
-    fill: var(--color-series-a);
-  }
-
-  .man {
-    fill: var(--color-blue-light);
-  }
-
-  .non-binary {
-    fill: var(--color-series-b);
-  }
-
-  .not-specified {
-    fill: var(--color-grey);
-  }
-
+  .woman { fill: var(--color-chart-1); }
+  .man { fill: var(--color-chart-2); }
+  .non-binary { fill: var(--color-chart-3); }
+  .not-specified { fill: var(--color-chart-4); }
 }
 
 .scale-single-series {
-
-  .series-a {
-    fill: var(--color-series-a);
-  }
-
+  .series-a { fill: var(--color-chart-1); }
 }
 
 .scale-employment-history {
-
-  .employees {
-    fill: var(--color-series-a);
-  }
-
-  .contractors {
-    fill: var(--color-series-b);
-  }
-
-  .employee-contractors {
-    fill: var(--color-more);
-  }
-
+  .employees { fill: var(--color-series-a); }
+  .contractors { fill: var(--color-series-b); }
+  .employee-contractors { fill: var(--color-more); }
 }
 
 .scale-statement-bars {
-
-  .disagree {
-    fill: var(--color-satisfaction-unsatisfied);
-  }
-
-  .neutral {
-    fill: var(--color-satisfaction-neutral);
-  }
-
-  .agree {
-    fill: var(--color-satisfaction-satisfied);
-  }
-
-  .dont-know {
-    fill: var(--color-blue-range);
-  }
-
+  .disagree { fill: var(--color-satisfaction-unsatisfied); }
+  .neutral { fill: var(--color-satisfaction-neutral); }
+  .agree { fill: var(--color-satisfaction-satisfied); }
+  .dont-know { fill: var(--color-blue-range); }
 }
 
 .scale-salary-lines {
@@ -531,10 +455,21 @@ fill-opacity: 0.8;
 
 .bar-chart-horizontal {
 
-	.value-labels-inner {
-		fill: var(--color-text-dark);
-		font-family: var(--font);
-		font-weight: 700;
-	}
+   .value-labels-inner {
+            fill: var(--color-text-dark);
+            font-family: var(--font);
+            font-weight: 700;
+    }
+
+   .track {
+            fill: var(--color-grid);
+    }
+
+   .value-labels-outer {
+            fill: var(--color-text-dark);
+            font-family: var(--font);
+            font-size: 10px;
+            font-weight: 700;
+    }
 
 }

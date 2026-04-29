@@ -1,0 +1,87 @@
+<svg viewBox="0 0 660 386" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+      ]]>
+    </style>
+
+  </defs>
+
+  <g id="2025-age-group-v2">
+    <g class="chart-header">
+      <g class="chart-title">
+        <text x="20" y="35" class="title-text">Age group</text>
+        <text x="20" y="55" class="subtitle-text">All respondents (755)</text>
+      </g>
+
+      <g class="legend scale-single-series">
+        <g class="legend-row">
+          <g class="legend-item">
+            <rect class="legend-item-container" x="552" y="20" width="88"/>
+            <circle class="series-a" cx="565" cy="31"/>
+            <text class="legend-label" x="573" y="35">Respondents</text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <g class="chart-area bar-chart-vertical scale-single-series" transform="translate(0 28)">
+
+			<g class="y-axis">
+
+				<g class="gridlines">
+					<path d="M72 319.5H616" stroke="#F0F0F0"/>
+          <path d="M72 266.75H616" stroke="#F0F0F0"/>
+          <path d="M72 214H616" stroke="#F0F0F0"/>
+          <path d="M72 161.25H616" stroke="#F0F0F0"/>
+          <path d="M72 108.5H616" stroke="#F0F0F0"/>
+				</g>
+
+				<g class="axis-labels">
+					<text font-size="10"><tspan x="49.666" y="322">0%</tspan></text>
+          <text font-size="10"><tspan x="44.3145" y="269">10%</tspan></text>
+          <text font-size="10"><tspan x="44.3145" y="216">20%</tspan></text>
+          <text font-size="10"><tspan x="44.3145" y="164">30%</tspan></text>
+          <text font-size="10"><tspan x="44.3145" y="111">40%</tspan></text>
+				</g>
+
+			</g>
+
+			<g class="data-series">
+
+				<g class="a">
+
+					<g class="axis-labels">
+						<text font-size="10"><tspan x="105" y="336">18-25</tspan></text>
+            <text font-size="10"><tspan x="196" y="336">26-35</tspan></text>
+            <text font-size="10"><tspan x="286" y="336">36-45</tspan></text>
+            <text font-size="10"><tspan x="377" y="336">46-55</tspan></text>
+            <text font-size="10"><tspan x="468" y="336">56-65</tspan></text>
+            <text font-size="10"><tspan x="563" y="336">66+</tspan></text>
+					</g>
+
+					<g class="bars">
+<rect class="series-a" x="76"  y="303" width="83" height="17"  rx="2"/>
+            <rect class="series-a" x="166" y="164" width="84" height="156" rx="2"/>
+            <rect class="series-a" x="257" y="137" width="83" height="183" rx="2"/>
+            <rect class="series-a" x="348" y="225" width="83" height="95"  rx="2"/>
+            <rect class="series-a" x="438" y="256" width="84" height="64"  rx="2"/>
+            <rect class="series-a" x="529" y="311" width="83" height="9"   rx="2"/>
+					</g>
+
+					<g class="value-labels">
+
+					</g>
+
+				</g>
+
+			</g>
+
+			
+    </g>
+  </g>
+
+</svg>

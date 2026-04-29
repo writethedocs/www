@@ -1,0 +1,68 @@
+<svg viewBox="0 0 660 355" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+      ]]>
+    </style>
+  </defs>
+
+  <g id="2025-hours-worked-employees-v2">
+    <g class="chart-header">
+      <g class="chart-title">
+        <text x="20" y="35" class="title-text">Weekly hours worked</text>
+        <text x="20" y="55" class="subtitle-text">Employee respondents (675)</text>
+      </g>
+
+      <g class="legend scale-single-series">
+        <g class="legend-row">
+          <g class="legend-item">
+            <rect class="legend-item-container" x="561" y="20" width="79"/>
+            <circle class="series-a" cx="574" cy="31"/>
+            <text class="legend-label" x="582" y="35">Employees</text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <g class="chart-area bar-chart-vertical scale-single-series">
+      <g class="y-axis">
+        <g class="gridlines">
+          <path d="M20 314.9H640"/>
+          <path d="M20 240.7H640"/>
+          <path d="M20 166.3H640"/>
+        </g>
+        <g class="axis-labels">
+          <text font-size="10"><tspan x="25" y="317.9">0%</tspan></text>
+          <text font-size="10"><tspan x="20" y="243.7">25%</tspan></text>
+          <text font-size="10"><tspan x="20" y="169.3">50%</tspan></text>
+        </g>
+      </g>
+
+      <g class="data-series">
+        <g class="a">
+          <g class="axis-labels">
+            <text font-size="12" text-anchor="middle"><tspan x="101.9" y="332.8">1–20</tspan></text>
+            <text font-size="12" text-anchor="middle"><tspan x="200.9" y="332.8">21–30</tspan></text>
+            <text font-size="12" text-anchor="middle"><tspan x="299.9" y="332.8">31–40</tspan></text>
+            <text font-size="12" text-anchor="middle"><tspan x="398.9" y="332.8">41–50</tspan></text>
+            <text font-size="12" text-anchor="middle"><tspan x="497.9" y="332.8">51–60</tspan></text>
+            <text font-size="12" text-anchor="middle"><tspan x="596.9" y="332.8">60+</tspan></text>
+          </g>
+          <g class="bars">
+            <rect x="62.0" y="313.7" width="80.0" height="1.8" rx="2"/>
+            <rect x="161.0" y="312.0" width="80.0" height="3.6" rx="2"/>
+            <rect x="260.0" y="115.0" width="80.0" height="200.5" rx="2"/>
+            <rect x="359.0" y="227.4" width="80.0" height="88.1" rx="2"/>
+            <rect x="458.0" y="308.4" width="80.0" height="7.1" rx="2"/>
+            <rect x="557.0" y="315.5" width="80.0" height="0.0" rx="2"/>
+          </g>
+          <g class="value-labels">
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+
+</svg>

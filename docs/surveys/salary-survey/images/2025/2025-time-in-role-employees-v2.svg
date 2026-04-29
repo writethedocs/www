@@ -1,0 +1,72 @@
+<svg viewBox="0 0 660 355" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+      ]]>
+    </style>
+  </defs>
+
+  <g id="2025-time-in-role-employees-v2">
+    <g class="chart-header">
+      <g class="chart-title">
+        <text x="20" y="35" class="title-text">Time in current role</text>
+        <text x="20" y="55" class="subtitle-text">Employee respondents (709)</text>
+      </g>
+
+      <g class="legend scale-single-series">
+        <g class="legend-row">
+          <g class="legend-item">
+            <rect class="legend-item-container" x="561" y="20" width="79"/>
+            <circle class="series-a" cx="574" cy="31"/>
+            <text class="legend-label" x="582" y="35">Employees</text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <g class="chart-area bar-chart-vertical scale-single-series">
+      <g class="y-axis">
+        <g class="gridlines">
+          <path d="M20 314.9H640"/>
+          <path d="M20 270.5H640"/>
+          <path d="M20 226.1H640"/>
+          <path d="M20 180.8H640"/>
+          <path d="M20 136.4H640"/>
+          <path d="M20 91.1H640"/>
+        </g>
+
+        <g class="axis-labels">
+          <text font-size="10"><tspan x="25" y="317.9">0%</tspan></text>
+          <text font-size="10"><tspan x="20" y="273.5">10%</tspan></text>
+          <text font-size="10"><tspan x="20" y="229.1">20%</tspan></text>
+          <text font-size="10"><tspan x="20" y="183.8">30%</tspan></text>
+          <text font-size="10"><tspan x="20" y="139.4">40%</tspan></text>
+          <text font-size="10"><tspan x="20" y="94.1">50%</tspan></text>
+        </g>
+      </g>
+
+      <g class="data-series">
+        <g class="a">
+          <g class="axis-labels">
+            <text font-size="10"><tspan x="89.9" y="332.8">0-1 year</tspan></text>
+            <text font-size="10"><tspan x="202.9" y="332.8">1-2 years</tspan></text>
+            <text font-size="10"><tspan x="315.9" y="332.8">2-5 years</tspan></text>
+            <text font-size="10"><tspan x="428.9" y="332.8">5-10 years</tspan></text>
+            <text font-size="10"><tspan x="544.9" y="332.8">10+ years</tspan></text>
+          </g>
+
+          <g class="bars">
+            <rect x="62.0" y="223.0" width="105.0" height="92.5" rx="2"/>
+            <rect x="175.0" y="245.4" width="105.0" height="70.1" rx="2"/>
+            <rect x="288.0" y="136.3" width="105.0" height="179.2" rx="2"/>
+            <rect x="401.0" y="237.6" width="105.0" height="77.9" rx="2"/>
+            <rect x="514.0" y="286.9" width="105.0" height="28.6" rx="2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+
+</svg>

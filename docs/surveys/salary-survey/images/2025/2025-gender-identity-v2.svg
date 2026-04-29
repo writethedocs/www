@@ -1,0 +1,68 @@
+<svg viewBox="0 0 660 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+      ]]>
+    </style>
+    <filter id="label-bg" x="-15%" y="-40%" width="130%" height="180%">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="3" result="expanded"/>
+      <feGaussianBlur in="expanded" stdDeviation="5" result="blurred"/>
+      <feComponentTransfer in="blurred" result="rounded">
+        <feFuncA type="linear" slope="20" intercept="-5"/>
+      </feComponentTransfer>
+      <feFlood flood-color="white" flood-opacity="0.8" result="color"/>
+      <feComposite in="color" in2="rounded" operator="in" result="bg"/>
+      <feMerge>
+        <feMergeNode in="bg"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g id="2025-gender-identity-v2">
+    <g class="chart-header">
+      <g class="chart-title">
+        <text x="20" y="35" class="title-text">Gender identity</text>
+        <text x="20" y="55" class="subtitle-text">Respondents (755)</text>
+      </g>
+
+      <g class="legend scale-gender-identity">
+        <g class="legend-row">
+          <g class="legend-item">
+            <rect class="legend-item-container" x="290" y="20" width="51"/>
+            <circle class="man" cx="303" cy="31"/>
+            <text class="legend-label" x="311" y="35">Man</text>
+          </g>
+          <g class="legend-item">
+            <rect class="legend-item-container" x="351" y="20" width="65"/>
+            <circle class="woman" cx="364" cy="31"/>
+            <text class="legend-label" x="372" y="35">Woman</text>
+          </g>
+          <g class="legend-item">
+            <rect class="legend-item-container" x="426" y="20" width="114"/>
+            <circle class="non-binary" cx="439" cy="31"/>
+            <text class="legend-label" x="447" y="35">Non-binary / other</text>
+          </g>
+          <g class="legend-item">
+            <rect class="legend-item-container" x="550" y="20" width="90"/>
+            <circle class="not-specified" cx="563" cy="31"/>
+            <text class="legend-label" x="571" y="35">Not specified</text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <g class="chart-area donut-chart scale-gender-identity" transform="translate(0 45)">
+      <path class="slice woman" d="M188.087 126.412C196 103.301 209.438 82.4715 227.232 65.7351C245.026 48.9988 266.639 36.8616 290.192 30.3786C313.744 23.8956 338.524 23.263 362.376 28.5358C386.229 33.8085 408.433 44.827 427.058 60.6336C445.683 76.4401 460.166 96.5564 469.248 119.234C478.33 141.911 481.736 166.464 479.17 190.757C476.604 215.05 468.143 238.349 454.524 258.629C440.904 278.908 422.538 295.555 401.021 307.121L358.408 227.848C367.015 223.222 374.362 216.563 379.81 208.451C385.258 200.34 388.642 191.02 389.668 181.302C390.695 171.585 389.333 161.764 385.7 152.693C382.067 143.622 376.274 135.575 368.824 129.252C361.374 122.93 352.492 118.522 342.951 116.413C333.41 114.304 323.498 114.557 314.077 117.151C304.656 119.744 296.01 124.599 288.893 131.294C281.775 137.988 276.4 146.32 273.235 155.565L188.087 126.412Z"/>
+      <path class="slice man" d="M401.021 307.121C377.782 319.613 351.659 325.754 325.288 324.925C298.918 324.097 273.232 316.327 250.823 302.4C228.415 288.474 210.076 268.883 197.657 245.605C185.238 222.327 179.178 196.185 180.09 169.817L270.036 172.927C269.672 183.474 272.095 193.931 277.063 203.242C282.031 212.553 289.366 220.389 298.33 225.96C307.293 231.53 317.567 234.638 328.115 234.97C338.663 235.301 349.112 232.845 358.408 227.848L401.021 307.121Z"/>
+      <path class="slice non-binary" d="M180.09 169.817C180.416 160.391 181.63 151.017 183.716 141.819L271.486 161.728C270.652 165.407 270.166 169.157 270.036 172.927L180.09 169.817Z"/>
+      <path class="slice not-specified" d="M183.716 141.819C184.898 136.609 186.357 131.466 188.087 126.412L273.235 155.565C272.543 157.587 271.959 159.644 271.486 161.728L183.716 141.819Z"/>
+
+      <text font-size="14" class="value-labels-inner" text-anchor="middle"><tspan x="397" y="99">61.9%</tspan></text>
+      <text font-size="14" class="value-labels-inner" text-anchor="middle"><tspan x="274" y="264">33.4%</tspan></text>
+    </g>
+  </g>
+
+</svg>

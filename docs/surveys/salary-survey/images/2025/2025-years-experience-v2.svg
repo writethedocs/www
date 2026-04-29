@@ -1,0 +1,85 @@
+<svg viewBox="0 0 660 421" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+      ]]>
+    </style>
+
+  </defs>
+
+  <g id="2025-years-experience-v2">
+    <g class="chart-header">
+      <g class="chart-title">
+        <text x="20" y="35" class="title-text">Years of experience</text>
+        <text x="20" y="55" class="subtitle-text">All respondents (755)</text>
+      </g>
+
+      <g class="legend scale-single-series">
+        <g class="legend-row">
+          <g class="legend-item">
+            <rect class="legend-item-container" x="552" y="20" width="88"/>
+            <circle class="series-a" cx="565" cy="31"/>
+            <text class="legend-label" x="573" y="35">Respondents</text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <g class="chart-area bar-chart-vertical scale-single-series" transform="translate(0 28)">
+
+			<g class="y-axis">
+
+				<g class="gridlines">
+					<path d="M68 354.5H620" stroke="#F0F0F0"/>
+          <path d="M68 261.5H620" stroke="#F0F0F0"/>
+          <path d="M68 167.5H620" stroke="#F0F0F0"/>
+          <path d="M68 74H620" stroke="#F0F0F0"/>
+				</g>
+
+				<g class="axis-labels">
+					<text font-size="10"><tspan x="45" y="357">0%</tspan></text>
+          <text font-size="10"><tspan x="40" y="264">10%</tspan></text>
+          <text font-size="10"><tspan x="40" y="170">20%</tspan></text>
+          <text font-size="10"><tspan x="40" y="77">30%</tspan></text>
+				</g>
+
+			</g>
+
+			<g class="data-series">
+
+				<g class="a">
+
+					<g class="axis-labels">
+						<text font-size="10"><tspan x="107" y="371">0-1</tspan></text>
+            <text font-size="10"><tspan x="199" y="371">1-5</tspan></text>
+            <text font-size="10"><tspan x="289" y="371">5-10</tspan></text>
+            <text font-size="10"><tspan x="378" y="371">10-15</tspan></text>
+            <text font-size="10"><tspan x="470" y="371">15-25</tspan></text>
+            <text font-size="10"><tspan x="566" y="371">25+</tspan></text>
+					</g>
+
+					<g class="bars">
+<rect class="series-a" x="72"  y="340" width="84" height="15"  rx="2"/>
+            <rect class="series-a" x="164" y="161" width="84" height="194" rx="2"/>
+            <rect class="series-a" x="256" y="104" width="84" height="251" rx="2"/>
+            <rect class="series-a" x="348" y="175" width="84" height="180" rx="2"/>
+            <rect class="series-a" x="440" y="206" width="84" height="149" rx="2"/>
+            <rect class="series-a" x="532" y="210" width="84" height="145" rx="2"/>
+					</g>
+
+					<g class="value-labels">
+
+					</g>
+
+				</g>
+
+			</g>
+
+			
+    </g>
+  </g>
+
+</svg>

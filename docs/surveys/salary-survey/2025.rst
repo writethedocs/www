@@ -116,7 +116,13 @@ Documentation Salary Survey 2025 Results
 Introduction
 ============
 
-The Write the Docs Salary Survey for 2025 — our seventh annual survey — drew **755 responses from documentarians in 48 countries**. Thank you to everyone who participated. 
+The Write the Docs Salary Survey for 2025 — our seventh annual survey — drew **755 responses from documentarians in 48 countries**. 
+
+Repeat survey participants - 50% of the 2025 respondents - may have noticed that the survey form was shorter. The sections which were removed were those which had previously generated interesting and relevant results, but which - due to evolving workplace norms - no longer seemed relevant in 2025. In the interests of keeping the survey length manageable and the focus on factors that more directly affect salary, these sections were removed. They were:
+
+1. **Work location**: In our first salary survey - 2019, before the pandemic - work location was a single question and over half of respondents worked from an on-site office location. By the time of the 2020 survey, after COVID-19 hit - "work from home" had become the norm for 87.7%, and new questions revealed how we felt about this shift. By 2022 there was already debate about whether so many questions about pandemic-related workplace changes were necessary, but the beginnings of "return to the office mandates" and the rise of hybrid working modes meant that we continued to discuss this into 2023. The 2024 results revealed trends and attitudes that were becoming predictable: most people worked remotely or hybrid, most people preferred these modes, and most peole affected by "return to office" mandates were not particularly happy about it. It also became apparent that this was the new normal, and keeping these questions in the survey was unlikely to reveal any new trends or changes. 
+
+2. **Employee benefits**: Write the Docs is a global community and the greatly varying labour laws and conditions around the world has made employee benefits a difficult area to survey. We experimented with several different question formats for benefits, but with no way to compare "like for like", there's no way to determine how benefits impact salary.   
 
 .. container:: note
 
@@ -124,10 +130,7 @@ The Write the Docs Salary Survey for 2025 — our seventh annual survey — drew
 
    .. rubric:: Compared with 2024
 
-   Several year-over-year patterns stand out in the 2025 results. Median employee salaries by region were broadly steady
-   to moderately higher in 2025, with increases worldwide, in North America, and in Europe. At the same time, employee
-   salary satisfaction and overall satisfaction both declined, respondents were more likely to report feeling less secure
-   in their jobs, and a larger share were not working at the time of the survey.
+   Several year-over-year patterns emerged in the 2025 results. Median employee salaries by region were moderately higher in 2025, with increases worldwide, in North America, and in Europe. At the same time, employee salary satisfaction and overall satisfaction both declined, respondents were more likely to report feeling less secure in their jobs, and a larger share were not working at the time of the survey.
 
 .. tip::
 
@@ -304,13 +307,13 @@ Including both salary and rate data for employee-contractors means that in total
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Basis of employment history (2019-2025)" aria-describedby="figure_basis-of-employment-history_desc" type="image/svg+xml" data="/_images/2025-basis-of-employment-history.svg">
+      <object role="img" aria-label="Basis of employment history (2019-2025)" aria-describedby="figure_basis-of-employment-history_desc" type="image/svg+xml" data="/_images/2025-basis-of-employment-history-v2.svg">
          <p id="figure_basis-of-employment-history_desc">Stacked vertical bar chart showing respondent counts by basis of employment for each survey year from 2019 through 2025. Each bar is divided into employees, contractors, and employee-contractors.</p>
       </object>
       <figcaption>Figure: Basis of employment (2019-2025)</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-basis-of-employment-history.svg
+.. figure:: images/2025/2025-basis-of-employment-history-v2.svg
    :class: hide
 
 As in previous years, we encouraged those currently not working to respond as though still at their previous job/contract, provided they had worked at least some of the past year. 33 employees and 4 contractors filled out the survey on this basis. Of the employee-contractor respondents, 2 were completely unemployed, 7 were only working as a contractor and 13 were only working as an employee.
@@ -382,7 +385,7 @@ Among employee-contractors, most (24 of 34, or 70.6%) worked more hours as emplo
 .. raw:: html
 
       <figure>
-         <object role="img" aria-label="Weekly hours worked, employees only (2025)" aria-describedby="figure_hours-worked-employees_desc" type="image/svg+xml" data="/_images/2025-hours-worked-employees.svg">
+         <object role="img" aria-label="Weekly hours worked, employees only (2025)" aria-describedby="figure_hours-worked-employees_desc" type="image/svg+xml" data="/_images/2025-hours-worked-employees-v2.svg">
             <p id="figure_hours-worked-employees_desc">Bar chart showing weekly hours worked by respondents who only worked as employees</p>
          </object>
          <figcaption>Figure: Weekly hours worked — employees only (2025)</figcaption>
@@ -414,7 +417,7 @@ Among employee-contractors, most (24 of 34, or 70.6%) worked more hours as emplo
 .. raw:: html
 
       <figure>
-         <object role="img" aria-label="Weekly hours worked, contractors only (2025)" aria-describedby="figure_hours-worked-contractors_desc" type="image/svg+xml" data="/_images/2025-hours-worked-contractors.svg">
+         <object role="img" aria-label="Weekly hours worked, contractors only (2025)" aria-describedby="figure_hours-worked-contractors_desc" type="image/svg+xml" data="/_images/2025-hours-worked-contractors-v2.svg">
             <p id="figure_hours-worked-contractors_desc">Bar chart showing weekly hours worked by respondents who only worked as contractors</p>
          </object>
          <figcaption>Figure: Weekly hours worked — contractors only (2025)</figcaption>
@@ -440,7 +443,7 @@ Among employee-contractors, most (24 of 34, or 70.6%) worked more hours as emplo
 .. raw:: html
 
       <figure>
-         <object role="img" aria-label="Approximate total weekly hours, employee-contractors (2025)" aria-describedby="figure_hours-worked-employee-contractors_desc" type="image/svg+xml" data="/_images/2025-hours-worked-employee-contractors.svg">
+         <object role="img" aria-label="Approximate total weekly hours, employee-contractors (2025)" aria-describedby="figure_hours-worked-employee-contractors_desc" type="image/svg+xml" data="/_images/2025-hours-worked-employee-contractors-v2.svg">
             <p id="figure_hours-worked-employee-contractors_desc">Bar chart showing approximate total weekly hours worked by employee-contractors</p>
          </object>
          <figcaption>Figure: Approximate total weekly hours — employee-contractors (2025)</figcaption>
@@ -448,13 +451,13 @@ Among employee-contractors, most (24 of 34, or 70.6%) worked more hours as emplo
 
    </div>
 
-.. figure:: images/2025/2025-hours-worked-employees.svg
+.. figure:: images/2025/2025-hours-worked-employees-v2.svg
    :class: hide
 
-.. figure:: images/2025/2025-hours-worked-contractors.svg
+.. figure:: images/2025/2025-hours-worked-contractors-v2.svg
    :class: hide
 
-.. figure:: images/2025/2025-hours-worked-employee-contractors.svg
+.. figure:: images/2025/2025-hours-worked-employee-contractors-v2.svg
    :class: hide
 
 Job title
@@ -514,13 +517,13 @@ As in previous years, the most widely used exact title was "Technical Writer", a
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Top job titles" aria-describedby="figure_top-job-titles_desc" type="image/svg+xml" data="/_images/2025-job-titles.svg">
+      <object role="img" aria-label="Top job titles" aria-describedby="figure_top-job-titles_desc" type="image/svg+xml" data="/_images/2025-job-titles-v2.svg">
          <p id="figure_top-job-titles_desc">Horizontal bar chart showing the most common job titles, for titles with 5 or more respondents.</p>
       </object>
       <figcaption>Figure: Top job titles</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-job-titles.svg
+.. figure:: images/2025/2025-job-titles-v2.svg
    :class: hide
 
 .. raw:: html
@@ -559,13 +562,13 @@ As in previous years, the most widely used exact title was "Technical Writer", a
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Job titles excluding Technical Writer" aria-describedby="figure_job-titles-excl-tw_desc" type="image/svg+xml" data="/_images/2025-job-titles-excl-tw.svg">
+      <object role="img" aria-label="Job titles excluding Technical Writer" aria-describedby="figure_job-titles-excl-tw_desc" type="image/svg+xml" data="/_images/2025-job-titles-excl-tw-v2.svg">
          <p id="figure_job-titles-excl-tw_desc">Horizontal bar chart showing the most common job titles that do not contain the words "Technical Writer", for titles with 4 or more respondents.</p>
       </object>
       <figcaption>Figure: Job titles excluding "Technical Writer"</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-job-titles-excl-tw.svg
+.. figure:: images/2025/2025-job-titles-excl-tw-v2.svg
    :class: hide
 
 .. raw:: html
@@ -696,13 +699,13 @@ Primary role category
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Top 10 primary role categories" aria-describedby="figure_primary-role-categories_desc" type="image/svg+xml" data="/_images/2025-primary-role-categories.svg">
+      <object role="img" aria-label="Top 10 primary role categories" aria-describedby="figure_primary-role-categories_desc" type="image/svg+xml" data="/_images/2025-primary-role-categories-v2.svg">
          <p id="figure_primary-role-categories_desc">Horizontal bar chart showing the top 10 primary role categories.</p>
       </object>
       <figcaption>Figure: Primary role categories</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-primary-role-categories.svg
+.. figure:: images/2025/2025-primary-role-categories-v2.svg
    :class: hide
 
 Additional role categories
@@ -715,13 +718,13 @@ Of the respondents who selected additional role categories, the number chosen ra
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Top 10 additional role categories" aria-describedby="figure_additional-role-categories_desc" type="image/svg+xml" data="/_images/2025-additional-role-categories.svg">
+      <object role="img" aria-label="Top 10 additional role categories" aria-describedby="figure_additional-role-categories_desc" type="image/svg+xml" data="/_images/2025-additional-role-categories-v2.svg">
          <p id="figure_additional-role-categories_desc">Horizontal bar chart showing the top 10 additional role categories.</p>
       </object>
       <figcaption>Figure: Additional role categories</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-additional-role-categories.svg
+.. figure:: images/2025/2025-additional-role-categories-v2.svg
    :class: hide
 
 .. raw:: html
@@ -979,13 +982,13 @@ A spike in respondents with new jobs first appeared in 2021, with 31.7% reportin
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Length of time in current role at current organization" aria-describedby="figure_length-of-time-in-current-role_desc" type="image/svg+xml" data="/_images/2025-time-in-role-employees.svg">
+      <object role="img" aria-label="Length of time in current role at current organization" aria-describedby="figure_length-of-time-in-current-role_desc" type="image/svg+xml" data="/_images/2025-time-in-role-employees-v2.svg">
          <p id="figure_length-of-time-in-current-role_desc">Length of time in current role (at current organization - employee respondents who have changed roles at the same organization were instructed to specify the length of time they had been in their current role only, not the total length of time at the organization)</p>
       </object>
       <figcaption>Figure: Length of time in current role (employees)</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-time-in-role-employees.svg
+.. figure:: images/2025/2025-time-in-role-employees-v2.svg
    :class: hide
 
 .. raw:: html
@@ -1014,13 +1017,13 @@ A spike in respondents with new jobs first appeared in 2021, with 31.7% reportin
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Length of time contracting" aria-describedby="figure_length-of-time-contracting_desc" type="image/svg+xml" data="/_images/2025-time-in-role-contractors.svg">
+      <object role="img" aria-label="Length of time contracting" aria-describedby="figure_length-of-time-contracting_desc" type="image/svg+xml" data="/_images/2025-time-in-role-contractors-v2.svg">
          <p id="figure_length-of-time-contracting_desc">Length of time contracting</p>
       </object>
       <figcaption>Figure: Length of time contracting</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-time-in-role-contractors.svg
+.. figure:: images/2025/2025-time-in-role-contractors-v2.svg
    :class: hide
 
 .. raw:: html
@@ -1137,13 +1140,13 @@ Among the 80 respondents who had worked on a contract basis, 42.5% reported an e
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Employee salary change" aria-describedby="figure_employee-salary-change_desc" type="image/svg+xml" data="/_images/2025-salary-change-employees.svg">
+      <object role="img" aria-label="Employee salary change" aria-describedby="figure_employee-salary-change_desc" type="image/svg+xml" data="/_images/2025-salary-change-employees-v2.svg">
          <p id="figure_employee-salary-change_desc">Donut chart showing employees reporting salary increase, decrease or no change in the past year</p>
       </object>
       <figcaption>Figure: Employee salary change</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-salary-change-employees.svg
+.. figure:: images/2025/2025-salary-change-employees-v2.svg
    :class: hide
 
 .. raw:: html
@@ -1168,13 +1171,13 @@ Among the 80 respondents who had worked on a contract basis, 42.5% reported an e
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Contractor earnings change" aria-describedby="figure_earnings-change-contractors_desc" type="image/svg+xml" data="/_images/2025-earnings-change-contractors.svg">
+      <object role="img" aria-label="Contractor earnings change" aria-describedby="figure_earnings-change-contractors_desc" type="image/svg+xml" data="/_images/2025-earnings-change-contractors-v2.svg">
          <p id="figure_earnings-change-contractors_desc">Donut chart showing contractors reporting earnings increase, decrease or no change in the past year</p>
       </object>
       <figcaption>Figure: Contractor earnings change</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-earnings-change-contractors.svg
+.. figure:: images/2025/2025-earnings-change-contractors-v2.svg
    :class: hide
 
 .. raw:: html
@@ -1249,13 +1252,13 @@ Employee-contractors are shown separately for their employee and contractor sear
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Employee job search status" aria-describedby="figure_job-search-employees_desc" type="image/svg+xml" data="/_images/2025-job-search-employees.svg">
+      <object role="img" aria-label="Employee job search status" aria-describedby="figure_job-search-employees_desc" type="image/svg+xml" data="/_images/2025-job-search-employees-v2.svg">
          <p id="figure_job-search-employees_desc">Donut chart showing employee job search status.</p>
       </object>
       <figcaption>Figure: Employee job search status</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-job-search-employees.svg
+.. figure:: images/2025/2025-job-search-employees-v2.svg
    :class: hide
 
 .. raw:: html
@@ -1286,13 +1289,13 @@ Employee-contractors are shown separately for their employee and contractor sear
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Contractor job search status" aria-describedby="figure_job-search-contractors_desc" type="image/svg+xml" data="/_images/2025-job-search-contractors.svg">
+      <object role="img" aria-label="Contractor job search status" aria-describedby="figure_job-search-contractors_desc" type="image/svg+xml" data="/_images/2025-job-search-contractors-v2.svg">
          <p id="figure_job-search-contractors_desc">Donut chart showing contractor job search status.</p>
       </object>
       <figcaption>Figure: Contractor job search status</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-job-search-contractors.svg
+.. figure:: images/2025/2025-job-search-contractors-v2.svg
    :class: hide
 
 .. raw:: html
@@ -1321,14 +1324,18 @@ Employee-contractors are shown separately for their employee and contractor sear
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Employee-contractor job search status (as employee)" aria-describedby="figure_job-search-ec-employee_desc" type="image/svg+xml" data="/_images/2025-job-search-ec-employee.svg">
+      <object role="img" aria-label="Employee-contractor job search status (as employee)" aria-describedby="figure_job-search-ec-employee_desc" type="image/svg+xml" data="/_images/2025-job-search-ec-employee-v2.svg">
          <p id="figure_job-search-ec-employee_desc">Donut chart showing employee-contractor job search status as employee.</p>
       </object>
       <figcaption>Figure: Employee-contractor job search status (as employee)</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-job-search-ec-employee.svg
+.. figure:: images/2025/2025-job-search-ec-employee-v2.svg
    :class: hide
+
+.. raw:: html
+
+   <hr>
 
 .. table:: Current work search status - employee-contractors (as contractor)
    :widths: 70 15 15
@@ -1393,13 +1400,13 @@ Three patterns stand out in how salary-related factors relate to active job sear
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Percentage actively looking for work, by salary satisfaction" aria-describedby="figure_job-search-salary-satisfaction_desc" type="image/svg+xml" data="/_images/2025-job-search-salary-satisfaction.svg">
+      <object role="img" aria-label="Percentage actively looking for work, by salary satisfaction" aria-describedby="figure_job-search-salary-satisfaction_desc" type="image/svg+xml" data="/_images/2025-job-search-salary-satisfaction-v2.svg">
          <p id="figure_job-search-salary-satisfaction_desc">Horizontal bar chart showing the percentage of employees actively looking for work at each salary satisfaction level, ranging from 5.1% for very satisfied to 55.6% for very unsatisfied.</p>
       </object>
       <figcaption>Figure: Actively looking for work, by salary satisfaction</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-job-search-salary-satisfaction.svg
+.. figure:: images/2025/2025-job-search-salary-satisfaction-v2.svg
    :class: hide
 
 **Salary change.** Respondents who received a salary increase were considerably less likely to be looking (12.4%) than those whose salary stayed the same (19.7%) or decreased (20.0%). The near-identical rates for the no-change and decrease groups suggest the two outcomes are equally associated with active searching.
@@ -1503,13 +1510,13 @@ Among employees, the most common response was "around the same" (45.6%), with 36
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Job security confidence - employees" aria-describedby="figure_job-security-confidence-employees_desc" type="image/svg+xml" data="/_images/2025-job-security-confidence-employees.svg">
+      <object role="img" aria-label="Job security confidence - employees" aria-describedby="figure_job-security-confidence-employees_desc" type="image/svg+xml" data="/_images/2025-job-security-confidence-employees-v2.svg">
          <p id="figure_job-security-confidence-employees_desc">Half-donut chart showing job security confidence of employees — less confident, around the same, more confident — as compared to the previous year.</p>
       </object>
       <figcaption>Figure: Job security confidence - employees</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-job-security-confidence-employees.svg
+.. figure:: images/2025/2025-job-security-confidence-employees-v2.svg
    :class: hide
 
 .. raw:: html
@@ -1534,13 +1541,13 @@ Among employees, the most common response was "around the same" (45.6%), with 36
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Earnings security confidence - contractors" aria-describedby="figure_earnings-security-confidence-contractors_desc" type="image/svg+xml" data="/_images/2025-earnings-security-confidence-contractors.svg">
+      <object role="img" aria-label="Earnings security confidence - contractors" aria-describedby="figure_earnings-security-confidence-contractors_desc" type="image/svg+xml" data="/_images/2025-earnings-security-confidence-contractors-v2.svg">
          <p id="figure_earnings-security-confidence-contractors_desc">Half-donut chart showing earnings security confidence of contractors — less confident, around the same, more confident — as compared to the previous year.</p>
       </object>
       <figcaption>Figure: Earnings security confidence - contractors</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-earnings-security-confidence-contractors.svg
+.. figure:: images/2025/2025-earnings-security-confidence-contractors-v2.svg
    :class: hide
 
 .. raw:: html
@@ -1565,13 +1572,13 @@ Among employees, the most common response was "around the same" (45.6%), with 36
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Job security confidence - employee-contractors as employee" aria-describedby="figure_job-security-confidence-ec-employee_desc" type="image/svg+xml" data="/_images/2025-job-security-confidence-ec-employee.svg">
+      <object role="img" aria-label="Job security confidence - employee-contractors as employee" aria-describedby="figure_job-security-confidence-ec-employee_desc" type="image/svg+xml" data="/_images/2025-job-security-confidence-ec-employee-v2.svg">
          <p id="figure_job-security-confidence-ec-employee_desc">Half-donut chart showing job security confidence of employee-contractors in their employee role.</p>
       </object>
       <figcaption>Figure: Job security confidence - employee-contractors (as employee)</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-job-security-confidence-ec-employee.svg
+.. figure:: images/2025/2025-job-security-confidence-ec-employee-v2.svg
    :class: hide
 
 .. raw:: html
@@ -1596,13 +1603,13 @@ Among employees, the most common response was "around the same" (45.6%), with 36
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Earnings security confidence - employee-contractors as contractor" aria-describedby="figure_earnings-security-confidence-ec-contractor_desc" type="image/svg+xml" data="/_images/2025-earnings-security-confidence-ec-contractor.svg">
+      <object role="img" aria-label="Earnings security confidence - employee-contractors as contractor" aria-describedby="figure_earnings-security-confidence-ec-contractor_desc" type="image/svg+xml" data="/_images/2025-earnings-security-confidence-ec-contractor-v2.svg">
          <p id="figure_earnings-security-confidence-ec-contractor_desc">Half-donut chart showing earnings security confidence of employee-contractors in their contractor role.</p>
       </object>
       <figcaption>Figure: Earnings security confidence - employee-contractors (as contractor)</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-earnings-security-confidence-ec-contractor.svg
+.. figure:: images/2025/2025-earnings-security-confidence-ec-contractor-v2.svg
    :class: hide
 
 .. raw:: html
@@ -1678,13 +1685,13 @@ Among contractors — only 6 qualified for this question in 2025 — results sho
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Job search confidence - employees" aria-describedby="figure_job-search-confidence-employees_desc" type="image/svg+xml" data="/_images/2025-job-search-confidence-employees.svg">
+      <object role="img" aria-label="Job search confidence - employees" aria-describedby="figure_job-search-confidence-employees_desc" type="image/svg+xml" data="/_images/2025-job-search-confidence-employees-v2.svg">
          <p id="figure_job-search-confidence-employees_desc">Half-donut chart showing job search confidence of employees.</p>
       </object>
       <figcaption>Figure: Job search confidence - employees</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-job-search-confidence-employees.svg
+.. figure:: images/2025/2025-job-search-confidence-employees-v2.svg
    :class: hide
 
 .. raw:: html
@@ -1711,13 +1718,13 @@ Among contractors — only 6 qualified for this question in 2025 — results sho
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Contract search confidence - contractors" aria-describedby="figure_contract-search-confidence-contractors_desc" type="image/svg+xml" data="/_images/2025-contract-search-confidence-contractors.svg">
+      <object role="img" aria-label="Contract search confidence - contractors" aria-describedby="figure_contract-search-confidence-contractors_desc" type="image/svg+xml" data="/_images/2025-contract-search-confidence-contractors-v2.svg">
          <p id="figure_contract-search-confidence-contractors_desc">Half-donut chart showing contract search confidence of contractors.</p>
       </object>
       <figcaption>Figure: Contract search confidence - contractors</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-contract-search-confidence-contractors.svg
+.. figure:: images/2025/2025-contract-search-confidence-contractors-v2.svg
    :class: hide
 
 .. raw:: html
@@ -1742,13 +1749,13 @@ Among contractors — only 6 qualified for this question in 2025 — results sho
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Job search confidence - employee-contractors as employee" aria-describedby="figure_job-search-confidence-ec-employee_desc" type="image/svg+xml" data="/_images/2025-job-search-confidence-ec-employee.svg">
+      <object role="img" aria-label="Job search confidence - employee-contractors as employee" aria-describedby="figure_job-search-confidence-ec-employee_desc" type="image/svg+xml" data="/_images/2025-job-search-confidence-ec-employee-v2.svg">
          <p id="figure_job-search-confidence-ec-employee_desc">Half-donut chart showing job search confidence of employee-contractors in their employee role.</p>
       </object>
       <figcaption>Figure: Job search confidence - employee-contractors (as employee)</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-job-search-confidence-ec-employee.svg
+.. figure:: images/2025/2025-job-search-confidence-ec-employee-v2.svg
    :class: hide
 
 .. raw:: html
@@ -1776,13 +1783,13 @@ Among contractors — only 6 qualified for this question in 2025 — results sho
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Contract search confidence - employee-contractors as contractor" aria-describedby="figure_contract-search-confidence-ec-contractor_desc" type="image/svg+xml" data="/_images/2025-contract-search-confidence-ec-contractor.svg">
+      <object role="img" aria-label="Contract search confidence - employee-contractors as contractor" aria-describedby="figure_contract-search-confidence-ec-contractor_desc" type="image/svg+xml" data="/_images/2025-contract-search-confidence-ec-contractor-v2.svg">
          <p id="figure_contract-search-confidence-ec-contractor_desc">Half-donut chart showing contract search confidence of employee-contractors in their contractor role.</p>
       </object>
       <figcaption>Figure: Contract search confidence - employee-contractors (as contractor)</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-contract-search-confidence-ec-contractor.svg
+.. figure:: images/2025/2025-contract-search-confidence-ec-contractor-v2.svg
    :class: hide
 
 .. raw:: html
@@ -2026,13 +2033,13 @@ Given the range of socio-economic differences in the countries in the survey res
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Median salary by respondent region" aria-describedby="figure_salary-by-region_desc" type="image/svg+xml" data="/_images/2025-salary-by-region.svg">
+      <object role="img" aria-label="Median salary by respondent region" aria-describedby="figure_salary-by-region_desc" type="image/svg+xml" data="/_images/2025-salary-by-region-v2.svg">
          <p id="figure_salary-by-region_desc">Chart showing median salary ranges by respondent region, with 25th to 75th percentile bars for regions with 30 or more respondents.</p>
       </object>
       <figcaption>Figure: Median salary by respondent region</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-salary-by-region.svg
+.. figure:: images/2025/2025-salary-by-region-v2.svg
    :class: hide
 
 Respondent numbers allow additional breakdowns by US state and Canadian province, as well as a handful of major US cities. In Australia, only one state (Queensland) meets the minimum threshold of 10 respondents.
@@ -2353,8 +2360,8 @@ In Europe the pattern is less clear, partly due to small sample sizes at the upp
 .. raw:: html
 
       <figure>
-         <object role="img" aria-label="Salary (USD) by time in current role" aria-describedby="figure_salary-by-time-in-role_desc" type="image/svg+xml" data="/_images/2025-salary-by-time-in-role.svg">
-            <p id="figure_salary-by-time-in-role_desc">Horizontal bar chart showing worldwide median salary by time in current role. Salary rises from $90,000 at 0–1 years to $104,748 at 10 or more years, with little change between the 1–2 and 5–10 year brackets.</p>
+         <object role="img" aria-label="Salary (USD) by time in current role" aria-describedby="figure_salary-by-time-in-role_desc" type="image/svg+xml" data="/_images/2025-salary-by-time-in-role-v2.svg">
+            <p id="figure_salary-by-time-in-role_desc">Median salary chart showing worldwide salary by time in current role, with bars for the 25th to 75th percentile range and a median marker for each tenure band. Salary rises from about $90,000 at 0–1 years to about $104,000 at 10 or more years.</p>
          </object>
          <figcaption>Figure: Salary (USD) by time in current role</figcaption>
       </figure>
@@ -2382,8 +2389,8 @@ In Europe the pattern is less clear, partly due to small sample sizes at the upp
 .. raw:: html
 
       <figure>
-         <object role="img" aria-label="Salary (USD) by time in current role — North America" aria-describedby="figure_salary-by-time-in-role-na_desc" type="image/svg+xml" data="/_images/2025-salary-by-time-in-role-na.svg">
-            <p id="figure_salary-by-time-in-role-na_desc">Horizontal bar chart showing North America median salary by time in current role. Salaries are flat at $120,000 for the first five years, dip to $111,000 at 5–10 years, then rise to $129,000 at 10 or more years.</p>
+         <object role="img" aria-label="Salary (USD) by time in current role — North America" aria-describedby="figure_salary-by-time-in-role-na_desc" type="image/svg+xml" data="/_images/2025-salary-by-time-in-role-na-v2.svg">
+            <p id="figure_salary-by-time-in-role-na_desc">Median salary chart showing North America salary by time in current role, with percentile ranges for the first four tenure bands and a median-only marker at 10 or more years. Salaries stay clustered around $120,000 before dipping at 5–10 years.</p>
          </object>
          <figcaption>Figure: Salary (USD) by time in current role — North America</figcaption>
       </figure>
@@ -2411,21 +2418,21 @@ In Europe the pattern is less clear, partly due to small sample sizes at the upp
 .. raw:: html
 
       <figure>
-         <object role="img" aria-label="Salary (USD) by time in current role — Europe" aria-describedby="figure_salary-by-time-in-role-eu_desc" type="image/svg+xml" data="/_images/2025-salary-by-time-in-role-eu.svg">
-            <p id="figure_salary-by-time-in-role-eu_desc">Horizontal bar chart showing European median salary by time in current role. The pattern is less clear than other regions, with small sample sizes at the upper brackets.</p>
+         <object role="img" aria-label="Salary (USD) by time in current role — Europe" aria-describedby="figure_salary-by-time-in-role-eu_desc" type="image/svg+xml" data="/_images/2025-salary-by-time-in-role-eu-v2.svg">
+            <p id="figure_salary-by-time-in-role-eu_desc">Median salary chart showing European salary by time in current role, with percentile ranges for the first three tenure bands and median-only markers for the upper two brackets. The pattern is less clear than other regions because of smaller sample sizes.</p>
          </object>
          <figcaption>Figure: Salary (USD) by time in current role — Europe</figcaption>
       </figure>
 
    </div></div>
 
-.. figure:: images/2025/2025-salary-by-time-in-role.svg
+.. figure:: images/2025/2025-salary-by-time-in-role-v2.svg
    :class: hide
 
-.. figure:: images/2025/2025-salary-by-time-in-role-na.svg
+.. figure:: images/2025/2025-salary-by-time-in-role-na-v2.svg
    :class: hide
 
-.. figure:: images/2025/2025-salary-by-time-in-role-eu.svg
+.. figure:: images/2025/2025-salary-by-time-in-role-eu-v2.svg
    :class: hide
 
 Median salary by age group
@@ -2549,8 +2556,8 @@ The Europe tab covers only three education levels — undergraduate, postgraduat
 .. raw:: html
 
       <figure>
-         <object role="img" aria-label="Salary (USD) by education level" aria-describedby="figure_salary-by-education_desc" type="image/svg+xml" data="/_images/2025-salary-by-education.svg">
-            <p id="figure_salary-by-education_desc">Horizontal bar chart showing worldwide median salary by education level. Undergraduate has the highest worldwide median at $99,410, though this reflects regional composition rather than a genuine credential effect.</p>
+         <object role="img" aria-label="Salary (USD) by education level" aria-describedby="figure_salary-by-education_desc" type="image/svg+xml" data="/_images/2025-salary-by-education-v2.svg">
+            <p id="figure_salary-by-education_desc">Median salary chart showing worldwide salary by education level, with percentile ranges where sample sizes support them and median-only markers for smaller groups. Undergraduate has the highest worldwide median at about $99,000.</p>
          </object>
          <figcaption>Figure: Salary (USD) by education level</figcaption>
       </figure>
@@ -2578,8 +2585,8 @@ The Europe tab covers only three education levels — undergraduate, postgraduat
 .. raw:: html
 
       <figure>
-         <object role="img" aria-label="Salary (USD) by education level — North America" aria-describedby="figure_salary-by-education-na_desc" type="image/svg+xml" data="/_images/2025-salary-by-education-na.svg">
-            <p id="figure_salary-by-education-na_desc">Horizontal bar chart showing North America median salary by education level. All categories cluster between $101,000 and $122,500, with postgraduate and multiple postgraduate slightly higher than undergraduate.</p>
+         <object role="img" aria-label="Salary (USD) by education level — North America" aria-describedby="figure_salary-by-education-na_desc" type="image/svg+xml" data="/_images/2025-salary-by-education-na-v2.svg">
+            <p id="figure_salary-by-education-na_desc">Median salary chart showing North America salary by education level, with percentile ranges where sample sizes support them and median-only markers for smaller groups. The medians cluster between about $101,000 and $122,000.</p>
          </object>
          <figcaption>Figure: Salary (USD) by education level — North America</figcaption>
       </figure>
@@ -2603,21 +2610,21 @@ The Europe tab covers only three education levels — undergraduate, postgraduat
 .. raw:: html
 
       <figure>
-         <object role="img" aria-label="Salary (USD) by education level — Europe" aria-describedby="figure_salary-by-education-eu_desc" type="image/svg+xml" data="/_images/2025-salary-by-education-eu.svg">
-            <p id="figure_salary-by-education-eu_desc">Horizontal bar chart showing European median salary by education level for the three qualifying categories. Postgraduate ($67,350) is slightly higher than undergraduate ($64,022).</p>
+         <object role="img" aria-label="Salary (USD) by education level — Europe" aria-describedby="figure_salary-by-education-eu_desc" type="image/svg+xml" data="/_images/2025-salary-by-education-eu-v2.svg">
+            <p id="figure_salary-by-education-eu_desc">Median salary chart showing European salary by education level, with percentile ranges for undergraduate and postgraduate respondents and a median-only marker for multiple postgraduate respondents. Postgraduate is slightly higher than undergraduate.</p>
          </object>
          <figcaption>Figure: Salary (USD) by education level — Europe</figcaption>
       </figure>
 
    </div></div>
 
-.. figure:: images/2025/2025-salary-by-education.svg
+.. figure:: images/2025/2025-salary-by-education-v2.svg
    :class: hide
 
-.. figure:: images/2025/2025-salary-by-education-na.svg
+.. figure:: images/2025/2025-salary-by-education-na-v2.svg
    :class: hide
 
-.. figure:: images/2025/2025-salary-by-education-eu.svg
+.. figure:: images/2025/2025-salary-by-education-eu-v2.svg
    :class: hide
 
 Median salary by organization size
@@ -2733,13 +2740,13 @@ Among the five primary role categories with at least 10 respondents, DocOps prac
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Salary (USD) by primary role category" aria-describedby="figure_salary-by-primary-role-category_desc" type="image/svg+xml" data="/_images/2025-salary-by-primary-role-category.svg">
-         <p id="figure_salary-by-primary-role-category_desc">Horizontal bar chart showing median salary by primary role category. DocOps has the highest median at $128,800. Developer or engineer, project or product manager, technical writer, and editor are all between $90,370 and $93,759.</p>
+      <object role="img" aria-label="Salary (USD) by primary role category" aria-describedby="figure_salary-by-primary-role-category_desc" type="image/svg+xml" data="/_images/2025-salary-by-primary-role-category-v2.svg">
+         <p id="figure_salary-by-primary-role-category_desc">Median salary chart showing salary by primary role category, with a percentile range shown for technical writers and median-only markers for the other categories. DocOps has the highest median at about $128,000.</p>
       </object>
       <figcaption>Figure: Salary (USD) by primary role category</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-salary-by-primary-role-category.svg
+.. figure:: images/2025/2025-salary-by-primary-role-category-v2.svg
    :class: hide
 
 Median salary by number of additional role categories
@@ -2869,8 +2876,8 @@ The North America tab shows all 10 industries, with advertising ($158,000) and d
 .. raw:: html
 
       <figure>
-         <object role="img" aria-label="Salary (USD) by industry" aria-describedby="figure_salary-by-industry_desc" type="image/svg+xml" data="/_images/2025-salary-by-industry.svg">
-            <p id="figure_salary-by-industry_desc">Horizontal bar chart showing worldwide median salary by industry. Advertising leads at $140,391, followed by data/analytics at $113,930. Finance has the lowest median at $78,500.</p>
+         <object role="img" aria-label="Salary (USD) by industry" aria-describedby="figure_salary-by-industry_desc" type="image/svg+xml" data="/_images/2025-salary-by-industry-v2.svg">
+            <p id="figure_salary-by-industry_desc">Median salary chart showing worldwide salary by industry, with percentile ranges for most industries and a median-only marker for government. Advertising leads at about $140,000, while finance is lowest at about $78,000.</p>
          </object>
          <figcaption>Figure: Salary (USD) by industry</figcaption>
       </figure>
@@ -2908,8 +2915,8 @@ The North America tab shows all 10 industries, with advertising ($158,000) and d
 .. raw:: html
 
       <figure>
-         <object role="img" aria-label="Salary (USD) by industry — North America" aria-describedby="figure_salary-by-industry-na_desc" type="image/svg+xml" data="/_images/2025-salary-by-industry-na.svg">
-            <p id="figure_salary-by-industry-na_desc">Horizontal bar chart showing North America median salary by industry. Advertising and data/analytics are nearly tied at the top ($158,000 and $157,394). Healthcare has the lowest median at $90,215.</p>
+         <object role="img" aria-label="Salary (USD) by industry — North America" aria-describedby="figure_salary-by-industry-na_desc" type="image/svg+xml" data="/_images/2025-salary-by-industry-na-v2.svg">
+            <p id="figure_salary-by-industry-na_desc">Median salary chart showing North America salary by industry, with percentile ranges for most industries and median-only markers for business services and government. Advertising and data/analytics are nearly tied at the top.</p>
          </object>
          <figcaption>Figure: Salary (USD) by industry — North America</figcaption>
       </figure>
@@ -2941,21 +2948,21 @@ The North America tab shows all 10 industries, with advertising ($158,000) and d
 .. raw:: html
 
       <figure>
-         <object role="img" aria-label="Salary (USD) by industry — Europe" aria-describedby="figure_salary-by-industry-eu_desc" type="image/svg+xml" data="/_images/2025-salary-by-industry-eu.svg">
-            <p id="figure_salary-by-industry-eu_desc">Horizontal bar chart showing European median salary by industry for the seven qualifying categories. The range is compressed compared to North America, from $60,052 (telecoms) to $82,188 (business services).</p>
+         <object role="img" aria-label="Salary (USD) by industry — Europe" aria-describedby="figure_salary-by-industry-eu_desc" type="image/svg+xml" data="/_images/2025-salary-by-industry-eu-v2.svg">
+            <p id="figure_salary-by-industry-eu_desc">Median salary chart showing European salary by industry, with percentile ranges for software and telecoms and median-only markers for the other industries. The range is compressed compared with North America.</p>
          </object>
          <figcaption>Figure: Salary (USD) by industry — Europe</figcaption>
       </figure>
 
    </div></div>
 
-.. figure:: images/2025/2025-salary-by-industry.svg
+.. figure:: images/2025/2025-salary-by-industry-v2.svg
    :class: hide
 
-.. figure:: images/2025/2025-salary-by-industry-na.svg
+.. figure:: images/2025/2025-salary-by-industry-na-v2.svg
    :class: hide
 
-.. figure:: images/2025/2025-salary-by-industry-eu.svg
+.. figure:: images/2025/2025-salary-by-industry-eu-v2.svg
    :class: hide
 
 Median salary by multinational status
@@ -3045,13 +3052,13 @@ Employee satisfaction
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Salary satisfaction" aria-describedby="figure_salary-satisfaction_desc" type="image/svg+xml" data="/_images/2025-salary-satisfaction.svg">
+      <object role="img" aria-label="Salary satisfaction" aria-describedby="figure_salary-satisfaction_desc" type="image/svg+xml" data="/_images/2025-salary-satisfaction-v2.svg">
          <p id="figure_salary-satisfaction_desc">Donut chart showing employee salary satisfaction.</p>
       </object>
       <figcaption>Figure: Salary satisfaction</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-salary-satisfaction.svg
+.. figure:: images/2025/2025-salary-satisfaction-v2.svg
    :class: hide
 
 .. raw:: html
@@ -3080,13 +3087,13 @@ Employee satisfaction
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Overall satisfaction - employees" aria-describedby="figure_overall-satisfaction_desc" type="image/svg+xml" data="/_images/2025-overall-satisfaction-employees.svg">
+      <object role="img" aria-label="Overall satisfaction - employees" aria-describedby="figure_overall-satisfaction_desc" type="image/svg+xml" data="/_images/2025-overall-satisfaction-employees-v2.svg">
          <p id="figure_overall-satisfaction-employees_desc">Donut chart showing employee overall satisfaction.</p>
       </object>
       <figcaption>Figure: Overall satisfaction - employees</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-overall-satisfaction-employees.svg
+.. figure:: images/2025/2025-overall-satisfaction-employees-v2.svg
    :class: hide
 
 .. raw:: html
@@ -3179,13 +3186,13 @@ Respondents who indicated that the statement was not relevant to their situation
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Satisfaction factors - salary and benefits - employees" aria-describedby="figure_satisfaction-factors-salary-employees_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-salary-employees.svg">
+      <object role="img" aria-label="Satisfaction factors - salary and benefits - employees" aria-describedby="figure_satisfaction-factors-salary-employees_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-salary-employees-v2.svg">
          <p id="figure_satisfaction-factors-salary-employees_desc">Horizontal bar chart showing levels of agreement with statements about respondents' salary and benefits.</p>
       </object>
       <figcaption>Figure: Satisfaction factors - salary and benefits - employees</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-satisfaction-factors-salary-employees.svg
+.. figure:: images/2025/2025-satisfaction-factors-salary-employees-v2.svg
    :class: hide
 
 .. raw:: html
@@ -3220,13 +3227,13 @@ Respondents who indicated that the statement was not relevant to their situation
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Satisfaction factors - overall job - employees" aria-describedby="figure_satisfaction-factors-job-employees_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-job-employees.svg">
+      <object role="img" aria-label="Satisfaction factors - overall job - employees" aria-describedby="figure_satisfaction-factors-job-employees_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-job-employees-v2.svg">
          <p id="figure_satisfaction-factors-job-employees_desc">Horizontal bar chart showing levels of agreement with statements about respondents' overall job situation.</p>
       </object>
       <figcaption>Figure: Satisfaction factors - overall job - employees</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-satisfaction-factors-job-employees.svg
+.. figure:: images/2025/2025-satisfaction-factors-job-employees-v2.svg
    :class: hide
 
 .. raw:: html
@@ -3253,13 +3260,13 @@ Respondents who indicated that the statement was not relevant to their situation
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Satisfaction factors - workplace - employees" aria-describedby="figure_satisfaction-factors-workplace-employees_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-workplace-employees.svg">
+      <object role="img" aria-label="Satisfaction factors - workplace - employees" aria-describedby="figure_satisfaction-factors-workplace-employees_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-workplace-employees-v2.svg">
          <p id="figure_satisfaction-factors-workplace-employees_desc">Horizontal bar chart showing levels of agreement with statements about respondents' workplace.</p>
       </object>
       <figcaption>Figure: Satisfaction factors - workplace - employees</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-satisfaction-factors-workplace-employees.svg
+.. figure:: images/2025/2025-satisfaction-factors-workplace-employees-v2.svg
    :class: hide
 
 .. raw:: html
@@ -3292,13 +3299,13 @@ Respondents who indicated that the statement was not relevant to their situation
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Satisfaction factors - team and organization - employees" aria-describedby="figure_satisfaction-factors-team-employees_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-team-employees.svg">
+      <object role="img" aria-label="Satisfaction factors - team and organization - employees" aria-describedby="figure_satisfaction-factors-team-employees_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-team-employees-v2.svg">
          <p id="figure_satisfaction-factors-team-employees_desc">Horizontal bar chart showing levels of agreement with statements about respondents' team and organization.</p>
       </object>
       <figcaption>Figure: Satisfaction factors - team and organization - employees</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-satisfaction-factors-team-employees.svg
+.. figure:: images/2025/2025-satisfaction-factors-team-employees-v2.svg
    :class: hide
 
 .. raw:: html
@@ -3379,13 +3386,13 @@ Preferred term
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Preferred term - contractors" aria-describedby="figure_contractor-preferred-term_desc" type="image/svg+xml" data="/_images/2025-contractor-preferred-term.svg">
+      <object role="img" aria-label="Preferred term - contractors" aria-describedby="figure_contractor-preferred-term_desc" type="image/svg+xml" data="/_images/2025-contractor-preferred-term-v2.svg">
          <p id="figure_contractor-preferred-term_desc">Donut chart showing preferred term for contractors.</p>
       </object>
       <figcaption>Figure: Preferred term — contractors</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-contractor-preferred-term.svg
+.. figure:: images/2025/2025-contractor-preferred-term-v2.svg
    :class: hide
 
 Type of contract work
@@ -3449,13 +3456,13 @@ The majority of contractor respondents (71.3%) did not specify offering either p
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Typical client configuration - contractors" aria-describedby="figure_contractor-type-clients_desc" type="image/svg+xml" data="/_images/2025-contractor-type-clients.svg">
+      <object role="img" aria-label="Typical client configuration - contractors" aria-describedby="figure_contractor-type-clients_desc" type="image/svg+xml" data="/_images/2025-contractor-type-clients-v2.svg">
          <p id="figure_contractor-type-clients_desc">Donut chart showing typical client configuration for contractors.</p>
       </object>
       <figcaption>Figure: Typical client configuration — contractors</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-contractor-type-clients.svg
+.. figure:: images/2025/2025-contractor-type-clients-v2.svg
    :class: hide
 
 .. raw:: html
@@ -3484,13 +3491,13 @@ The majority of contractor respondents (71.3%) did not specify offering either p
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Typical contract length - contractors" aria-describedby="figure_contractor-type-contract-length_desc" type="image/svg+xml" data="/_images/2025-contractor-type-contract-length.svg">
+      <object role="img" aria-label="Typical contract length - contractors" aria-describedby="figure_contractor-type-contract-length_desc" type="image/svg+xml" data="/_images/2025-contractor-type-contract-length-v2.svg">
          <p id="figure_contractor-type-contract-length_desc">Donut chart showing typical contract length for contractors.</p>
       </object>
       <figcaption>Figure: Typical contract length — contractors</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-contractor-type-contract-length.svg
+.. figure:: images/2025/2025-contractor-type-contract-length-v2.svg
    :class: hide
 
 .. raw:: html
@@ -3517,13 +3524,13 @@ The majority of contractor respondents (71.3%) did not specify offering either p
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Products and/or services provided - contractors" aria-describedby="figure_contractor-type-products-services_desc" type="image/svg+xml" data="/_images/2025-contractor-type-products-services.svg">
+      <object role="img" aria-label="Products and/or services provided - contractors" aria-describedby="figure_contractor-type-products-services_desc" type="image/svg+xml" data="/_images/2025-contractor-type-products-services-v2.svg">
          <p id="figure_contractor-type-products-services_desc">Donut chart showing products and/or services provided by contractors.</p>
       </object>
       <figcaption>Figure: Products and/or services provided — contractors</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-contractor-type-products-services.svg
+.. figure:: images/2025/2025-contractor-type-products-services-v2.svg
    :class: hide
 
 .. raw:: html
@@ -3678,13 +3685,13 @@ Contractor satisfaction
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Earnings satisfaction - contractors" aria-describedby="figure_earnings-satisfaction-contractors_desc" type="image/svg+xml" data="/_images/2025-earnings-satisfaction-contractors.svg">
+      <object role="img" aria-label="Earnings satisfaction - contractors" aria-describedby="figure_earnings-satisfaction-contractors_desc" type="image/svg+xml" data="/_images/2025-earnings-satisfaction-contractors-v2.svg">
          <p id="figure_earnings-satisfaction-contractors_desc">Half-donut chart showing contractor earnings satisfaction.</p>
       </object>
       <figcaption>Figure: Earnings satisfaction — contractors</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-earnings-satisfaction-contractors.svg
+.. figure:: images/2025/2025-earnings-satisfaction-contractors-v2.svg
    :class: hide
 
 .. raw:: html
@@ -3713,13 +3720,13 @@ Contractor satisfaction
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Overall satisfaction - contractors" aria-describedby="figure_overall-satisfaction-contractors_desc" type="image/svg+xml" data="/_images/2025-overall-satisfaction-contractors.svg">
+      <object role="img" aria-label="Overall satisfaction - contractors" aria-describedby="figure_overall-satisfaction-contractors_desc" type="image/svg+xml" data="/_images/2025-overall-satisfaction-contractors-v2.svg">
          <p id="figure_overall-satisfaction-contractors_desc">Half-donut chart showing contractor overall satisfaction.</p>
       </object>
       <figcaption>Figure: Overall satisfaction — contractors</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-overall-satisfaction-contractors.svg
+.. figure:: images/2025/2025-overall-satisfaction-contractors-v2.svg
    :class: hide
 
 .. raw:: html
@@ -3812,13 +3819,13 @@ Respondents who indicated that the statement was not relevant to their situation
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Satisfaction factors - earnings - contractors" aria-describedby="figure_satisfaction-factors-earnings-contractors_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-earnings-contractors.svg">
+      <object role="img" aria-label="Satisfaction factors - earnings - contractors" aria-describedby="figure_satisfaction-factors-earnings-contractors_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-earnings-contractors-v2.svg">
          <p id="figure_satisfaction-factors-earnings-contractors_desc">Horizontal bar chart showing contractor respondents’ level of agreement with statements about their earnings.</p>
       </object>
       <figcaption>Figure: Satisfaction factors — earnings — contractors</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-satisfaction-factors-earnings-contractors.svg
+.. figure:: images/2025/2025-satisfaction-factors-earnings-contractors-v2.svg
    :class: hide
 
 .. raw:: html
@@ -3853,13 +3860,13 @@ Respondents who indicated that the statement was not relevant to their situation
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Satisfaction factors - contracts and projects - contractors" aria-describedby="figure_satisfaction-factors-contracts-contractors_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-contracts-contractors.svg">
+      <object role="img" aria-label="Satisfaction factors - contracts and projects - contractors" aria-describedby="figure_satisfaction-factors-contracts-contractors_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-contracts-contractors-v2.svg">
          <p id="figure_satisfaction-factors-contracts-contractors_desc">Horizontal bar chart showing contractor respondents’ level of agreement with statements about their contracts and projects.</p>
       </object>
       <figcaption>Figure: Satisfaction factors — contracts and projects — contractors</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-satisfaction-factors-contracts-contractors.svg
+.. figure:: images/2025/2025-satisfaction-factors-contracts-contractors-v2.svg
    :class: hide
 
 .. raw:: html
@@ -3886,13 +3893,13 @@ Respondents who indicated that the statement was not relevant to their situation
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Satisfaction factors - workplaces - contractors" aria-describedby="figure_satisfaction-factors-workplaces-contractors_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-workplaces-contractors.svg">
+      <object role="img" aria-label="Satisfaction factors - workplaces - contractors" aria-describedby="figure_satisfaction-factors-workplaces-contractors_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-workplaces-contractors-v2.svg">
          <p id="figure_satisfaction-factors-workplaces-contractors_desc">Horizontal bar chart showing contractor respondents’ level of agreement with statements about their workplace(s).</p>
       </object>
       <figcaption>Figure: Satisfaction factors — workplaces — contractors</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-satisfaction-factors-workplaces-contractors.svg
+.. figure:: images/2025/2025-satisfaction-factors-workplaces-contractors-v2.svg
    :class: hide
 
 .. raw:: html
@@ -3925,13 +3932,13 @@ Respondents who indicated that the statement was not relevant to their situation
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Satisfaction factors - teams and organizations - contractors" aria-describedby="figure_satisfaction-factors-teams-contractors_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-teams-contractors.svg">
+      <object role="img" aria-label="Satisfaction factors - teams and organizations - contractors" aria-describedby="figure_satisfaction-factors-teams-contractors_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-teams-contractors-v2.svg">
          <p id="figure_satisfaction-factors-teams-contractors_desc">Horizontal bar chart showing contractor respondents’ level of agreement with statements about their teams and organizations.</p>
       </object>
       <figcaption>Figure: Satisfaction factors — teams and organizations — contractors</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-satisfaction-factors-teams-contractors.svg
+.. figure:: images/2025/2025-satisfaction-factors-teams-contractors-v2.svg
    :class: hide
 
 .. raw:: html
@@ -4002,13 +4009,13 @@ As in previous years, medium-sized organizations make up the largest proportion 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Organization size" aria-describedby="figure_organization-size_desc" type="image/svg+xml" data="/_images/2025-organization-size.svg">
+      <object role="img" aria-label="Organization size" aria-describedby="figure_organization-size_desc" type="image/svg+xml" data="/_images/2025-organization-size-v2.svg">
          <p id="figure_organization-size_desc">Vertical bar chart showing approximate organization size, in number of employees. </p>
       </object>
       <figcaption>Figure: Organization size</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-organization-size.svg
+.. figure:: images/2025/2025-organization-size-v2.svg
    :class: hide
 
 Organization type and industry
@@ -4396,13 +4403,13 @@ The age group split in 2025 was similar to previous years, with the majority of 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Respondent age group (2025)" aria-describedby="figure_respondent-age-group_desc" type="image/svg+xml" data="/_images/2025-age-group.svg">
+      <object role="img" aria-label="Respondent age group (2025)" aria-describedby="figure_respondent-age-group_desc" type="image/svg+xml" data="/_images/2025-age-group-v2.svg">
          <p id="figure_respondent-age-group_desc">Vertical bar chart showing age groupings of respondents. </p>
       </object>
       <figcaption>Figure: Respondent age group</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-age-group.svg
+.. figure:: images/2025/2025-age-group-v2.svg
    :class: hide
 
 Gender identity
@@ -4450,13 +4457,13 @@ As in previous surveys, the majority of respondents in 2025 were women - 61.9% -
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Respondent gender identity" aria-describedby="figure_respondent-gender-identity_desc" type="image/svg+xml" data="/_images/2025-gender-identity.svg">
+      <object role="img" aria-label="Respondent gender identity" aria-describedby="figure_respondent-gender-identity_desc" type="image/svg+xml" data="/_images/2025-gender-identity-v2.svg">
          <p id="figure_respondent-gender-identity_desc">Donut chart showing gender identity of respondents.</p>
       </object>
       <figcaption>Figure: Respondent gender identity</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-gender-identity.svg
+.. figure:: images/2025/2025-gender-identity-v2.svg
    :class: hide
 
 Experience
@@ -4519,13 +4526,13 @@ The experience level spread of respondents echoed previous years - most falling 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Respondent years of experience (2025)" aria-describedby="figure_respondent-years-experience_desc" type="image/svg+xml" data="/_images/2025-years-experience.svg">
+      <object role="img" aria-label="Respondent years of experience (2025)" aria-describedby="figure_respondent-years-experience_desc" type="image/svg+xml" data="/_images/2025-years-experience-v2.svg">
          <p id="figure_respondent-years-experience_desc">Vertical bar chart showing respondents' years of experience in documentation. </p>
       </object>
       <figcaption>Figure: Years of experience in documentation</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-years-experience.svg
+.. figure:: images/2025/2025-years-experience-v2.svg
    :class: hide
 
 Education level
@@ -4584,13 +4591,13 @@ As in previous years, most respondents were university- or college-educated: 93.
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Respondent education level (2025)" aria-describedby="figure_respondent-education-level_desc" type="image/svg+xml" data="/_images/2025-education-level.svg">
+      <object role="img" aria-label="Respondent education level (2025)" aria-describedby="figure_respondent-education-level_desc" type="image/svg+xml" data="/_images/2025-education-level-v2.svg">
          <p id="figure_respondent-education-level_desc">Vertical bar chart showing respondents' highest completed level of education. </p>
       </object>
       <figcaption>Figure: Education level</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-education-level.svg
+.. figure:: images/2025/2025-education-level-v2.svg
    :class: hide
 
 Location
@@ -5271,13 +5278,13 @@ Overall, respondents were strongly positive about the survey across all three di
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Survey feedback - length (2025)" aria-describedby="figure_feedback-survey-length_desc" type="image/svg+xml" data="/_images/2025-feedback-survey-length.svg">
+      <object role="img" aria-label="Survey feedback - length (2025)" aria-describedby="figure_feedback-survey-length_desc" type="image/svg+xml" data="/_images/2025-feedback-survey-length-v2.svg">
          <p id="figure_feedback-survey-length_desc">Donut chart showing respondent agreement with the statement: the length of the survey is appropriate</p>
       </object>
       <figcaption>Figure: Agreement - survey length is appropriate</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-feedback-survey-length.svg
+.. figure:: images/2025/2025-feedback-survey-length-v2.svg
    :class: hide
 
 .. raw:: html
@@ -5304,13 +5311,13 @@ Overall, respondents were strongly positive about the survey across all three di
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Survey feedback - relevance (2025)" aria-describedby="figure_feedback-relevance_desc" type="image/svg+xml" data="/_images/2025-feedback-relevance.svg">
+      <object role="img" aria-label="Survey feedback - relevance (2025)" aria-describedby="figure_feedback-relevance_desc" type="image/svg+xml" data="/_images/2025-feedback-relevance-v2.svg">
          <p id="figure_feedback-relevance_desc">Donut chart showing respondent agreement with the statement: the survey questions are relevant</p>
       </object>
       <figcaption>Figure: Agreement - survey questions are relevant</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-feedback-relevance.svg
+.. figure:: images/2025/2025-feedback-relevance-v2.svg
    :class: hide
 
 .. raw:: html
@@ -5337,13 +5344,13 @@ Overall, respondents were strongly positive about the survey across all three di
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Survey feedback - usability (2025)" aria-describedby="figure_feedback-usability_desc" type="image/svg+xml" data="/_images/2025-feedback-usability.svg">
+      <object role="img" aria-label="Survey feedback - usability (2025)" aria-describedby="figure_feedback-usability_desc" type="image/svg+xml" data="/_images/2025-feedback-usability-v2.svg">
          <p id="figure_feedback-usability_desc">Donut chart showing respondent agreement with the statement: the survey form/website are usable</p>
       </object>
       <figcaption>Figure: Agreement - survey form/website are usable</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-feedback-usability.svg
+.. figure:: images/2025/2025-feedback-usability-v2.svg
    :class: hide
 
 .. raw:: html

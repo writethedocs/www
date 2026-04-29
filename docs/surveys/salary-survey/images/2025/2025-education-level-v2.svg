@@ -1,0 +1,90 @@
+<svg viewBox="0 0 660 460" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+      ]]>
+    </style>
+    <clipPath id="clip-edu-grad"><rect x="350" y="150" width="126" height="244" rx="2"/></clipPath>
+    <clipPath id="clip-edu-postgrad"><rect x="488" y="196" width="126" height="198" rx="2"/></clipPath>
+  </defs>
+
+  <g id="2025-education-level-v2">
+    <g class="chart-header">
+      <g class="chart-title">
+        <text x="20" y="35" class="title-text">Education level</text>
+        <text x="20" y="55" class="subtitle-text">All respondents (755)</text>
+      </g>
+
+      <g class="legend scale-single-series">
+        <g class="legend-row">
+          <g class="legend-item">
+            <rect class="legend-item-container" x="552" y="20" width="88"/>
+            <circle class="series-a" cx="565" cy="31"/>
+            <text class="legend-label" x="573" y="35">Respondents</text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <g class="chart-area bar-chart-vertical scale-single-series scale-employment-history" transform="translate(0 28)">
+
+			<g class="y-axis">
+
+				<g class="gridlines">
+					<path d="M68 393.5H620" stroke="#F0F0F0"/>
+          <path d="M68 299.5H620" stroke="#F0F0F0"/>
+          <path d="M68 206.5H620" stroke="#F0F0F0"/>
+          <path d="M68 111.5H620" stroke="#F0F0F0"/>
+				</g>
+
+				<g class="axis-labels">
+					<text font-size="10"><tspan x="45" y="396">0%</tspan></text>
+          <text font-size="10"><tspan x="40" y="303">20%</tspan></text>
+          <text font-size="10"><tspan x="40" y="209">40%</tspan></text>
+          <text font-size="10"><tspan x="40" y="115">60%</tspan></text>
+				</g>
+
+			</g>
+
+			<g class="data-series">
+
+				<g class="a">
+
+					<g class="axis-labels">
+						<text font-size="10"><tspan x="111" y="410">High school</tspan></text>
+            <text font-size="10"><tspan x="224" y="410">Technical or vocational</tspan></text>
+            <text font-size="10"><tspan x="392" y="410">Graduate</tspan></text>
+            <text font-size="10"><tspan x="520" y="410">Post-graduate</tspan></text>
+					</g>
+
+					<g class="bars">
+<rect class="series-a" x="74"  y="377" width="126" height="17"  rx="2"/>
+            <rect class="series-a" x="212" y="382" width="126" height="12"  rx="2"/>
+            <g clip-path="url(#clip-edu-grad)">
+              <path class="employees" d="M476 167H350V394H476V167Z"/>
+              <path class="contractors" d="M476 150H350V165H476V150Z"/>
+            </g>
+            <g clip-path="url(#clip-edu-postgrad)">
+              <path class="employees" d="M614 219H488V394H614V219Z"/>
+              <path class="contractors" d="M614 196H488V217H614V196Z"/>
+            </g>
+					</g>
+
+          <path d="M442 107C434.489 107 411.532 143.6 409.766 147.8L408 150" stroke="#252521" stroke-dasharray="1 3"/>
+          <path d="M512 110C525.738 113.369 552.267 191.716 554.308 193.358L556.349 196" stroke="#252521" stroke-dasharray="1 3"/>
+
+					<g class="value-labels">
+            <text font-size="10"><tspan x="457" y="105">Multiple</tspan><tspan x="446" y="116">qualifications</tspan></text>
+					</g>
+
+				</g>
+
+			</g>
+
+			
+    </g>
+  </g>
+
+</svg>
