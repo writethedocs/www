@@ -49,8 +49,9 @@ Free professional headshots are available for all attendees at the headshot boot
 
 - Snacks, coffee, tea, and water are included with your ticket. Vegan, vegetarian, gluten-free, and dairy-free options will be offered. 
 - Bring a water bottle as there are refill stations located around the venue.
-- We'll provide three food carts for Monday and Tuesday lunches from 11:30 AM-2:00 PM. This is a great option for folks who want to stay onsite.
-  - Food Carts TBD
+- Two food carts will be on site for Monday and Tuesday lunches from 11:30 AM-2:00 PM:
+  - Let's Roll
+  - Nacho's House
 - There are many food and beverage options within 0.5 miles (0.8 km) around the conference venue. Explore {{city}}’s amazing food scene on the [Visiting {{city}} page](/conf/{{shortcode}}/{{year}}/visiting/).
   
 ## Dress Code

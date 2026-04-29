@@ -59,7 +59,8 @@ Lunch and dinners are on your own and an opportunity to connect with attendees. 
 
 **Lunch only (Monday and Tuesday 11:30am-2pm)**
 
-- Food carts TBD
+- Let's Roll
+- Nacho's House
 
 ### Food and Drinks near Revolution Hall (within a 10-minute walk)
 

@@ -20,7 +20,8 @@ Virtual attendance includes:
 * Live streamed talks from the main stage
 * Ability to participate in Q&A with speakers
 * Real-time chat with other virtual attendees
-* Virtual networking spaces  
+* Virtual networking spaces
+* An online Unconference track
 * Conference talk videos available 2-3 weeks after the event
 
 ## Schedule

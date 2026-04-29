@@ -35,6 +35,8 @@ Bus transit stops are located near the venue. All transit in Portland announce m
 - GitHub workshops: Sunset Room
 - Roundtable discussions, resume/portfolio review, and sponsor activations: Martha's
 
+These locations will have air purifiers running throughout the conference, thanks to [Portland Clean Air Committee](https://pcac.carrd.co/).
+
 ### Speaker Talks, Sponsor Expo, and Catering
 **Location:** 2nd/3rd floor auditorium and surrounding spaces
 
@@ -43,6 +45,12 @@ Bus transit stops are located near the venue. All transit in Portland announce m
 - Catering: Assembly Lounge
 - <a href="../attendee-guide/#attendee-lounge">Attendee Lounge</a> and additional seating: Sunset Room
 - <a href="../attendee-guide/#professional-headshots">Professional Headshot Booth</a>: near the Sponsor Expo
+
+## Accessibility
+
+The venue is fully step-free and wheelchair accessible. Elevator access is available to the 2nd and 3rd floors. There are two ADA parking spots in the guest parking lot south of the venue.
+
+For full details on accessibility accommodations, see the [Accessibility section of our Attendee Guide](/conf/{{shortcode}}/{{year}}/attendee-guide/#accessibility).
 
 ### Other Venue Spaces (open to the public)
 

@@ -74,14 +74,6 @@ Janine is a documentation nerd up in Canada. She feels so lucky to help organize
 
 Jerome is a technical writer from Seattle and happy to be MC again at Write the Docs! He transitioned from education years ago and has experience working with organizations from open source, start ups, medium-sized companies, and consulting for large enterprises. He's typically busy spending time with his family, continuing ongoing fixes to their century home, and rotating through his numerous hobbies.
 
-### Kay Smoljak (she/her)
-
-#### Photographer
-
-![](/_static/img/2026/team/kay.png)
-
-Kay is an Australian web developer based in Athens, Greece. She accidentally became involved with the awesome Write the Docs community after the first EU conference in Budapest (2014) and now takes the official conference photos, as well as running the annual Salary Survey. She considers it a very happy accident indeed.
-
 ### Swapnil Ogale (he/him)
 
 #### Social Media Coordinator

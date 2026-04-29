@@ -49,6 +49,14 @@ Writing Day is an all-day event designed for you to join in throughout the day. 
 
 Exact times will be posted on our [schedule page](/conf/{{shortcode}}/{{year}}/schedule/).
 
+### Sponsored by
+
+<p style="text-align: center; margin-top: 1em;">
+<a href="https://www.stainless.com/?utm_source=write_the_docs&utm_medium=conference&utm_campaign=write_the_docs_2026" style="border-bottom: none;"><img src="/_static/img/sponsors/stainless.png" alt="Stainless" style="max-width: 250px;"></a>
+</p>
+
+*Writing Day is sponsored by [Stainless](https://www.stainless.com/?utm_source=write_the_docs&utm_medium=conference&utm_campaign=write_the_docs_2026).*
+
 ## How to Prepare
 
 **Come prepared with the following tools:**
@@ -174,12 +182,32 @@ Join this project to set up Do11y on your own docs site, create a free Axiom acc
 
 Most documentation teams know their docs could be better, but it's hard to know where to start. This is a working session where attendees review their own docs site using a structured worksheet inspired by the [State of Docs report](https://www.stateofdocs.com/2026). Each person works through the same criteria: structure, discoverability, AI-readiness, and how well their docs stay in sync with the product. Everyone leaves with a concrete, prioritized list of quick wins and inspiration from the group.
 
+### Using and documenting Syllago: FOSS to help you manage and share AI agent skills, rules, MCP configurations, and more!
+
+* Project organizer: Holden Hewett, he/him
+* Project session: Morning
+
+[Syllago](https://syllago.dev) is a content manager for AI coding tools. It converts content between providers, bundles rules, skills, agents, hooks, and MCP configs into shareable loadouts and installs them in the correct location for each agent (Cursor, Windsurf, Claude Code, Gemini CLI, Amp, Codex, and more). If you manage your company's AI content, such as skills and rules, Syllago can help you centrally manage and share them across your entire company. This eliminates the headache of manually translating the different formats between AI agents or harnesses.
+  
+This session is a hands-on playground for both the tool and its docs. Bring a laptop and an AI coding agent (or two, or five) you already use, and help stress-test Syllago's CLI and TUI in the wild: migrate your Claude Code setup to Gemini CLI, port a Cursor rule set to Windsurf, try the cross-provider conversion paths, and see where things break. On the docs side, you'll help identify gaps in the documentation site, tackle open issues, and explore a question I'm actively working on--how much of a CLI/TUI's docs can be auto-generated from the real codebase, and what's still worth writing by hand? You'll leave with practical exposure to how different agent runtimes and harnesses actually differ under the hood, experience contributing to an open-source project with AI in the loop, and (hopefully) a cleaner docs site for everyone who shows up after you.
+
 ### Audit Your Docs Metrics (Sponsor session)
 
 * Project organizer: Sarah Dugan, she/her
 * Project session: Afternoon
 
 The [State of Docs report](https://www.stateofdocs.com/2026) found that most teams think their docs are valuable but struggle to show it. This is a working session around what metrics actually matter and how to start tracking them. Each person maps what they're currently measuring, what tools they're using, and where the gaps are. Everyone leaves with one concrete next step they can act on that week.
+
+### Docs as Code: starting from scratch
+
+* Project organizer: Mike Jang, he/him
+* Project session: Afternoon
+
+Anyone beginning a Docs as Code practice needs a place to start. With over 400+ open source options, figuring out where to begin can be overwhelming. This project is here to help! Join Mike Jang as he shares his experience implementing [docsy.dev](http://docsy.dev/) as the first writer at a startup, complete with "live" demos.
+
+If you're searching for a writing job, this is something you can add to your portfolio. With these skills, you can tell a software founder (or anyone who wants to move to "Docs as Code") that you're the person for the job.
+
+Attendees should have some familiarity with command line tools as described in the [Docsy README file](https://github.com/google/docsy).
 
 ### Examples of projects you might see at the conference
 
