@@ -96,6 +96,20 @@ Yes, visit Registration to get the location and code.
 
 ## Thanks To Our Sponsors
 
+A couple of our Keystone sponsors have shared a short message about their company.
+
+### Promptless
+
+[Promptless](https://promptless.ai/?ref=writethedocs) is the AI agent that helps technical writers stay informed, move faster, and have more impact. It notifies you when engineering work impacts docs, adapts to your existing toolchain and workflows, and drafts well-researched content for review, complete with citations and screenshots. Writers at fast-growing startups and Fortune 500 companies alike are using Promptless to stay ahead.
+
+### Mintlify
+
+Mintlify helps teams build beautiful docs that convert users, so we're thrilled to be sponsoring Write the Docs Portland 2026! It's the conference we look forward to the most every year. This community has shaped modern documentation, which is why we can't wait to spend a few days learning from the people doing the work. If you're heading to Portland, come say hi.
+
+Want a dedicated chat at the conference? [Grab a 15-minute slot with our team here](https://mintlify.cal.com/forms/97eee972-3e3b-49a8-a0e1-e152ee3ae055). Whether you want to talk shop, see a personalized demo, or just come meet the team, we'd love to connect. You can also poke around our website at [mintlify.com](https://mintlify.com/).
+
+### All our sponsors
+
 Thanks to our sponsors for supporting the conference this year. A number of them will be present on Monday and Tuesday. We hope you get a chance to talk with them while you're here.
 
 ```{eval-rst}
@@ -104,4 +118,4 @@ Thanks to our sponsors for supporting the conference this year. A number of them
    :template: {{year}}/sponsors-simplelist.rst
 ```
 
-See you soon!
+We're excited to see everyone in {{ city }} again this year!

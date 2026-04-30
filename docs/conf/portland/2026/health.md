@@ -18,6 +18,10 @@ Please expect the following measures to be in place at the event:
 - Antigen COVID tests available at registration, while supplies last
 - Masks available at registration, while supplies last
 
+## Air Filtration
+
+The Writing Day/Unconference spaces will have three air purifiers running throughout the conference, thanks to [Portland Clean Air Committee](https://pcac.carrd.co/). 
+
 ## Mask Policy
 
 Masks are optional. We are not currently requiring that masks be worn in the venue. 
