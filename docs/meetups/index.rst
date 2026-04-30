@@ -15,7 +15,7 @@ specific social media to share their events.
     events depend on the organizers, their schedule, as well as group engagement.
     Learn more about organizing 
 
-Active community groups
+Current meetups
 -----------------------
 
 Anyone is welcome to join a local or virtual Write the Docs community group. You're encouraged to attend
