@@ -38,6 +38,7 @@
     <a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/tickets') }}">Tickets</a>
     <ul class="uk-nav-sub">
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/tickets') }}">Tickets</a></li>
+      <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/virtual') }}">Virtual Attendance</a></li>
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/opportunity-grants') }}">Opportunity Grants</a></li>
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/convince-your-manager') }}">Convince Your
           Manager</a></li>
@@ -58,7 +59,6 @@
           {% endif %}
           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/volunteer') }}">Volunteer Info</a></li>
       {% endif %}
-      <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/virtual') }}">Virtual Attendance</a></li>
       {% if not flagisvirtual %}
           <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/health') }}">Health and Safety Policy</a></li>
       {% endif %}
