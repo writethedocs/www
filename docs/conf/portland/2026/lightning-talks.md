@@ -29,6 +29,8 @@ Submit your Monday Lightning Talk
 ```
 {% endif %}
 
+*The Monday Lightning Talks are sponsored by [Expert Support](https://expertsupport.com/?ref=writethedocs), and the Tuesday Lightning Talks are sponsored by [KnowledgeOwl](https://www.knowledgeowl.com?ref=writethedocs).*
+
 ### Submitting a Talk
 
 Submissions are open:
