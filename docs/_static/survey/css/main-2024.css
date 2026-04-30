@@ -463,9 +463,16 @@ nav.main-toc { /* TOC */
     padding-left: var(--size-2);
   }
   .simple > li > ul > li.active > a::before { transform: rotate(90deg); } /* Rotate the arrow for active state */
+  /* Fourth-level menu (H4): visible when both H2 and H3 ancestors are .active */
+  .simple > li > ul > li.active > ul > li.active > ul {
+    display: block;
+    margin-top: 0; margin-bottom: 0;
+    padding-top: 0; padding-bottom: 0;
+    padding-left: var(--size-2);
+  }
   .current { font-weight: var(--font-weight-6); }
   .simple a.toc-current {
-    font-weight: var(--font-weight-7);
+    font-weight: var(--font-weight-6);
     color: var(--link);
   }
 } /* nav.main-toc */

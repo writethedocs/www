@@ -81,6 +81,7 @@ tocLinks.addEventListener('click',function(event){
   // Scrollspy: track current section and update TOC highlight + accordion
   const spyLinks = document.querySelectorAll('nav.main-toc a[href^="#"]');
   const spyH2Lis = document.querySelectorAll('nav.main-toc .simple > li > ul > li');
+  const spyH3Lis = document.querySelectorAll('nav.main-toc .simple > li > ul > li > ul > li');
 
   const spyLinkMap = new Map();
   spyLinks.forEach(link => spyLinkMap.set(link.getAttribute('href').slice(1), link));
@@ -115,9 +116,13 @@ tocLinks.addEventListener('click',function(event){
 
     activeLink.classList.add('toc-current');
 
-    // Sync accordion: close all H2-level items, open the one containing the active link
+    // Sync accordion: close all H2- and H3-level items, then open the ones containing the active link
     spyH2Lis.forEach(li => li.classList.remove('active'));
+    spyH3Lis.forEach(li => li.classList.remove('active'));
     for (const li of spyH2Lis) {
+      if (li.contains(activeLink)) { li.classList.add('active'); break; }
+    }
+    for (const li of spyH3Lis) {
       if (li.contains(activeLink)) { li.classList.add('active'); break; }
     }
   }
