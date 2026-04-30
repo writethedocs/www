@@ -3,11 +3,12 @@
         {% for meetup in meetups %}
         <dt class="meetup-listing-detail">
 
-            <a href="{% if meetup.get('website') %}{{ meetup['website'] }}{% elif meetup.get('meetup') %}http://www.meetup.com/{{ meetup['meetup'] }}/{% endif %}">
+            {% set group_url = meetup.get('website') or ('http://www.meetup.com/' + meetup['meetup'] + '/' if meetup.get('meetup') else None) %}
+            {% if group_url %}<a href="{{ group_url }}">{% endif %}
                 {% if meetup['city'] %}{{ meetup['city'] }}, {% endif -%}
                 {% if meetup['state'] %}{{ meetup|state_abbr }}, {% endif -%}
                 {{ meetup['country'] -}}
-            </a>
+            {% if group_url %}</a>{% endif %}
         </dt>
         {% if meetup.has_meta %}
         <dd>
