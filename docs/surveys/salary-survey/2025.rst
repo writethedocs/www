@@ -1655,7 +1655,7 @@ Employees and contractors were shown this question if they indicated that they w
 
 Among employees, the trend has shifted significantly toward the negative compared to 2024. In 2025, 38.0% reported feeling "not confident" (up from 27.5%) and 8.3% "not confident at all" (down from 11.3%). Those feeling "confident" dropped to 25.0% (from 30.0%), and "very confident" fell sharply to 3.7% (from 10.0%).
 
-Among contractors — only 6 qualified for this question in 2025 — results should be treated with caution. The distribution was evenly split between positive and negative responses, with no respondents feeling "very confident".
+Among the small sample of contractors who qualified for this question in 2025 — 6 individuals — the distribution was evenly split between positive and negative responses, with no respondents feeling "very confident".
 
 .. raw:: html
 
@@ -2101,13 +2101,13 @@ Respondent numbers allow additional breakdowns by US state and Canadian province
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Median salary by US state" aria-describedby="figure_salary-by-us-state_desc" type="image/svg+xml" data="/_images/2025-salary-by-us-state.svg">
-         <p id="figure_salary-by-us-state_desc">Horizontal bar chart showing median salary for US states with 10 or more respondents, sorted by median salary.</p>
+      <object role="img" aria-label="Median salary by US state" aria-describedby="figure_salary-by-us-state_desc" type="image/svg+xml" data="/_images/2025-salary-by-us-state-v2.svg">
+         <p id="figure_salary-by-us-state_desc">Vertical bar chart showing median salary for US states with 10 or more respondents, sorted from highest to lowest median salary.</p>
       </object>
       <figcaption>Figure: Median salary by US state</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-salary-by-us-state.svg
+.. figure:: images/2025/2025-salary-by-us-state-v2.svg
    :class: hide
 
 .. raw:: html
@@ -2224,13 +2224,13 @@ This year, that means that we are able to show breakdowns for Worldwide, North A
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Median salary by gender identity" aria-describedby="figure_salary-gender-gap_desc" type="image/svg+xml" data="/_images/2025-salary-gender-gap.svg">
-         <p id="figure_salary-gender-gap_desc">Dot plot showing median salary for women and men in three regions, with the percentage gap labelled.</p>
+      <object role="img" aria-label="Median salary by gender identity" aria-describedby="figure_salary-gender-gap_desc" type="image/svg+xml" data="/_images/2025-salary-gender-gap-v2.svg">
+         <p id="figure_salary-gender-gap_desc">Track chart showing median salary for women and men in three regions, with the percentage gap labelled between the markers.</p>
       </object>
       <figcaption>Figure: Median salary by gender identity</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-salary-gender-gap.svg
+.. figure:: images/2025/2025-salary-gender-gap-v2.svg
    :class: hide
 
 Median salary by years of experience
@@ -2317,13 +2317,13 @@ The general trend is for salaries to increase with years of experience. This tre
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Median salary by years of experience" aria-describedby="figure_salary-by-experience_desc" type="image/svg+xml" data="/_images/2025-salary-by-experience.svg">
+      <object role="img" aria-label="Median salary by years of experience" aria-describedby="figure_salary-by-experience_desc" type="image/svg+xml" data="/_images/2025-salary-by-experience-v2.svg">
          <p id="figure_salary-by-experience_desc">Line chart showing how median salary increases with years of experience, with separate lines for worldwide, North America, and Europe.</p>
       </object>
       <figcaption>Figure: Median salary by years of experience</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-salary-by-experience.svg
+.. figure:: images/2025/2025-salary-by-experience-v2.svg
    :class: hide
 
 Median salary by time in current role
@@ -2513,13 +2513,13 @@ The 18–25 age group is below the 30-respondent threshold in all regions, and i
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Median salary (USD) by age group" aria-describedby="figure_salary-by-age-group_desc" type="image/svg+xml" data="/_images/2025-salary-by-age-group.svg">
+      <object role="img" aria-label="Median salary (USD) by age group" aria-describedby="figure_salary-by-age-group_desc" type="image/svg+xml" data="/_images/2025-salary-by-age-group-v2.svg">
          <p id="figure_salary-by-age-group_desc">Line chart showing median salary by age group for worldwide, North America, and Europe. Salary generally increases with age, with North America significantly higher than Europe across all age groups.</p>
       </object>
       <figcaption>Figure: Median salary (USD) by age group</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-salary-by-age-group.svg
+.. figure:: images/2025/2025-salary-by-age-group-v2.svg
    :class: hide
 
 Median salary by education level

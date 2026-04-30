@@ -210,6 +210,27 @@ text {
 
 }
 
+.line-chart {
+
+  .gridlines {
+    stroke: var(--color-grid);
+    stroke-width: 1;
+  }
+
+  .axis-labels {
+    fill: var(--color-text-dark);
+    font-family: var(--font);
+    font-weight: 400;
+  }
+
+  .y-axis {
+    .axis-labels {
+      fill: var(--color-text-light);
+    }
+  }
+
+}
+
 .donut-chart {
 
   .slice {
@@ -367,15 +388,16 @@ text {
 
 .scale-salary-state {
 
-  rect.state-bar {
+  .state-bar {
     fill: var(--color-blue-dark);
   }
 
-  line.benchmark {
+  line.median {
     stroke: var(--color-orange-dark);
+    stroke-dasharray: 6 3;
   }
 
-  text.benchmark {
+  text.median {
     fill: var(--color-orange-dark);
   }
 
@@ -389,6 +411,23 @@ text {
 
   circle.men {
     fill: var(--color-blue-dark);
+  }
+
+  line.gap {
+    stroke: var(--color-border);
+    stroke-width: 1.5;
+  }
+
+  text.gap {
+    fill: var(--color-text-light);
+    font-size: 10px;
+    font-weight: 700;
+  }
+
+  text.median-value {
+    fill: var(--color-text-dark);
+    font-size: 10px;
+    font-weight: 400;
   }
 
 }
@@ -453,6 +492,26 @@ fill-opacity: 0.8;
 
 }
 
+.line-chart {
+
+  .gridlines {
+    stroke: var(--color-grid);
+    stroke-width: 1;
+  }
+
+  .axis-labels {
+    fill: var(--color-text-dark);
+    font-family: var(--font);
+    font-weight: 400;
+  }
+
+  .y-axis {
+    .axis-labels {
+      fill: var(--color-text-light);
+    }
+  }
+
+}
 .bar-chart-horizontal {
 
    .value-labels-inner {

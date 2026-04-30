@@ -1,0 +1,88 @@
+<svg viewBox="0 0 660 288" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+      ]]>
+    </style>
+  </defs>
+
+  <g id="2025-salary-gender-gap-v2" class="scale-gender-gap">
+    <g class="chart-header">
+      <g class="chart-title">
+        <text x="20" y="35" class="title-text">Median salary by gender identity (USD)</text>
+        <text x="20" y="55" class="subtitle-text">Employees — regions with 30+ respondents per gender shown</text>
+      </g>
+
+      <g class="legend">
+        <g class="legend-row">
+          <g class="legend-item">
+            <rect class="legend-item-container" x="514" y="20" width="65"/>
+            <circle class="women" cx="527" cy="31" r="4"/>
+            <text class="legend-label" x="535" y="35">Women</text>
+          </g>
+          <g class="legend-item">
+            <rect class="legend-item-container" x="589" y="20" width="51"/>
+            <circle class="men" cx="602" cy="31" r="4"/>
+            <text class="legend-label" x="610" y="35">Men</text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <g class="chart-area bar-chart-horizontal scale-gender-gap" transform="translate(0 34)">
+      <g class="labels" font-size="10" text-anchor="end">
+        <text font-weight="700"><tspan x="88" y="80">Worldwide</tspan></text>
+        <text font-weight="700"><tspan x="88" y="124">North America</tspan></text>
+        <text font-weight="700"><tspan x="88" y="168">Europe</tspan></text>
+      </g>
+
+      <g class="tracks">
+        <rect class="track" x="96" y="62" width="542" height="28"/>
+        <rect class="track" x="96" y="106" width="542" height="28"/>
+        <rect class="track" x="96" y="150" width="542" height="28"/>
+      </g>
+
+      <g class="ranges">
+        <line class="gap" x1="322.3" y1="76" x2="361.6" y2="76"/>
+        <line class="gap" x1="453.7" y1="120" x2="537.7" y2="120"/>
+        <line class="gap" x1="153.1" y1="164" x2="237.7" y2="164"/>
+      </g>
+
+      <g class="gap-labels" text-anchor="middle">
+        <text class="gap"><tspan x="341.9" y="58">+7.9%</tspan></text>
+        <text class="gap"><tspan x="495.7" y="102">+13.4%</tspan></text>
+        <text class="gap"><tspan x="195.4" y="146">+25.8%</tspan></text>
+      </g>
+
+      <g class="points">
+        <circle cx="322.3" cy="76" r="8" class="women"/>
+        <circle cx="361.6" cy="76" r="8" class="men"/>
+        <circle cx="453.7" cy="120" r="8" class="women"/>
+        <circle cx="537.7" cy="120" r="8" class="men"/>
+        <circle cx="153.1" cy="164" r="8" class="women"/>
+        <circle cx="237.7" cy="164" r="8" class="men"/>
+      </g>
+
+      <g class="value-labels" text-anchor="middle">
+        <text class="median-value"><tspan x="322.3" y="98">$91,750</tspan></text>
+        <text class="median-value"><tspan x="361.6" y="98">$99,000</tspan></text>
+        <text class="median-value"><tspan x="453.7" y="142">$116,000</tspan></text>
+        <text class="median-value"><tspan x="537.7" y="142">$131,500</tspan></text>
+        <text class="median-value"><tspan x="153.1" y="186">$60,526</tspan></text>
+        <text class="median-value"><tspan x="237.7" y="186">$76,137</tspan></text>
+      </g>
+
+      <g class="x-axis" text-anchor="middle">
+        <line x1="96" y1="214" x2="638" y2="214" stroke="#F0F0F0" stroke-width="1"/>
+        <g class="axis-labels">
+          <text font-size="10"><tspan x="96" y="234">$50K</tspan></text>
+          <text font-size="10"><tspan x="231.5" y="234">$75K</tspan></text>
+          <text font-size="10"><tspan x="367" y="234">$100K</tspan></text>
+          <text font-size="10"><tspan x="502.5" y="234">$125K</tspan></text>
+          <text font-size="10"><tspan x="638" y="234">$150K</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,91 @@
+<svg viewBox="0 0 660 383" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+      ]]>
+    </style>
+  </defs>
+
+  <g id="2025-salary-by-additional-role-categories-v2" class="scale-salary-lines">
+    <g class="chart-header">
+      <g class="chart-title">
+        <text x="20" y="35" class="title-text">Median salary (USD) by number</text>
+        <text x="20" y="55" class="title-text">of additional role categories</text>
+        <text x="20" y="79" class="subtitle-text">Worldwide, North America, and Europe</text>
+      </g>
+
+      <g class="legend scale-salary-lines">
+        <g class="legend-row">
+          <g class="legend-item">
+            <rect class="legend-item-container" x="348" y="20" width="91"/>
+            <line class="worldwide" x1="360" y1="31" x2="376" y2="31" stroke-width="2.5" stroke-linecap="round"/>
+            <circle class="worldwide" cx="368" cy="31" r="4"/>
+            <text class="legend-label" x="384" y="35">Worldwide</text>
+          </g>
+          <g class="legend-item">
+            <rect class="legend-item-container" x="449" y="20" width="109"/>
+            <line class="north-america" x1="461" y1="31" x2="477" y2="31" stroke-width="2.5" stroke-linecap="round"/>
+            <circle class="north-america" cx="469" cy="31" r="4"/>
+            <text class="legend-label" x="485" y="35">North America</text>
+          </g>
+          <g class="legend-item">
+            <rect class="legend-item-container" x="566" y="20" width="74"/>
+            <line class="europe" x1="578" y1="31" x2="594" y2="31" stroke-width="2.5" stroke-linecap="round"/>
+            <circle class="europe" cx="586" cy="31" r="4"/>
+            <text class="legend-label" x="602" y="35">Europe</text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <g class="chart-area line-chart scale-salary-lines" transform="translate(0 28)">
+      <g class="y-axis">
+        <g class="gridlines" transform="translate(5 0)">
+          <line x1="60" y1="109.0" x2="610" y2="109.0"/>
+          <line x1="60" y1="149.2" x2="610" y2="149.2"/>
+          <line x1="60" y1="189.5" x2="610" y2="189.5"/>
+          <line x1="60" y1="229.8" x2="610" y2="229.8"/>
+          <line x1="60" y1="270.0" x2="610" y2="270.0"/>
+        </g>
+
+        <g class="axis-labels">
+          <text font-size="10" text-anchor="end"><tspan x="55" y="113.0">$200K</tspan></text>
+          <text font-size="10" text-anchor="end"><tspan x="55" y="153.2">$160K</tspan></text>
+          <text font-size="10" text-anchor="end"><tspan x="55" y="193.5">$120K</tspan></text>
+          <text font-size="10" text-anchor="end"><tspan x="55" y="233.8">$80K</tspan></text>
+          <text font-size="10" text-anchor="end"><tspan x="55" y="274.0">$40K</tspan></text>
+        </g>
+      </g>
+
+<g class="series-lines" transform="translate(5 0)">
+        <polyline points="70,241.1 246.7,221.6 423.3,219.0 600,201.6" class="worldwide" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+        <circle cx="70" cy="241.1" r="5" class="worldwide"/>
+        <circle cx="246.7" cy="221.6" r="5" class="worldwide"/>
+        <circle cx="423.3" cy="219.0" r="5" class="worldwide"/>
+        <circle cx="600" cy="201.6" r="5" class="worldwide"/>
+
+        <polyline points="70,214.7 246.7,205.5 423.3,191.5 600,171.9" class="north-america" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+        <circle cx="70" cy="214.7" r="5" class="north-america"/>
+        <circle cx="246.7" cy="205.5" r="5" class="north-america"/>
+        <circle cx="423.3" cy="191.5" r="5" class="north-america"/>
+        <circle cx="600" cy="171.9" r="5" class="north-america"/>
+
+        <polyline points="70,252.8 246.7,244.8 423.3,243.9 600,235.0" class="europe" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+        <circle cx="70" cy="252.8" r="5" class="europe"/>
+        <circle cx="246.7" cy="244.8" r="5" class="europe"/>
+        <circle cx="423.3" cy="243.9" r="5" class="europe"/>
+        <circle cx="600" cy="235.0" r="5" class="europe"/>
+      </g>
+
+<g class="x-axis" text-anchor="middle" transform="translate(5 0)">
+        <g class="axis-labels">
+          <text font-size="10"><tspan x="70" y="325">None</tspan></text>
+          <text font-size="10"><tspan x="246.7" y="325">1–2</tspan></text>
+          <text font-size="10"><tspan x="423.3" y="325">3–5</tspan></text>
+          <text font-size="10"><tspan x="600" y="325">6+</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
