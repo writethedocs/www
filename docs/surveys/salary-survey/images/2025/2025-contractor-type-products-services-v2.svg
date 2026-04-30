@@ -60,8 +60,9 @@
       <path class="slice both" d="M194.924 162.784 A150 150 0 0 1 222.826 125.049 L285.931 189.220 A60 60 0 0 0 274.770 204.314 Z"/>
       <path class="slice product" d="M222.826 125.049 A150 150 0 0 1 231.181 117.431 L289.273 186.172 A60 60 0 0 0 285.931 189.220 Z"/>
 
-      <text font-size="14" class="value-labels-inner" text-anchor="middle"><tspan x="435" y="247">71.3%</tspan></text>
-      <text font-size="14" class="value-labels-inner" text-anchor="middle"><tspan x="228" y="264">22.5%</tspan></text>
+      <text class="value-labels-inner" text-anchor="middle"><tspan x="435" y="247">71.3%</tspan></text>
+      <text class="value-labels-inner" text-anchor="middle"><tspan x="228" y="264">22.5%</tspan></text>
+      <text class="value-labels-inner" text-anchor="middle"><tspan x="245" y="174">5.0%</tspan></text>
     </g>
   </g>
 

@@ -21,11 +21,11 @@
     </filter>
   </defs>
 
-  <g id="2025-job-search-ec-employee-v2">
+  <g id="2025-job-search-ec-contractor-v2">
     <g class="chart-header">
       <g class="chart-title">
         <text x="20" y="35" class="title-text">Job search status</text>
-        <text x="20" y="53" class="title-text">— as employee</text>
+        <text x="20" y="53" class="title-text">— as contractor</text>
         <text x="20" y="75" class="subtitle-text">Employee-contractor respondents (34)</text>
       </g>
 
@@ -44,9 +44,9 @@
         </g>
         <g class="legend-row">
           <g class="legend-item">
-            <rect class="legend-item-container" x="349" y="52" width="179"/>
-            <circle class="open-to-contract" cx="362" cy="63"/>
-            <text class="legend-label" x="370" y="67">Actively looking, open to contract</text>
+            <rect class="legend-item-container" x="372" y="52" width="156"/>
+            <circle class="open-to-permanent" cx="385" cy="63"/>
+            <text class="legend-label" x="393" y="67">Looking, open to permanent</text>
           </g>
           <g class="legend-item">
             <rect class="legend-item-container" x="538" y="52" width="102"/>
@@ -56,26 +56,26 @@
         </g>
         <g class="legend-row">
           <g class="legend-item">
-            <rect class="legend-item-container" x="452" y="84" width="188"/>
-            <circle class="not-looking-yet" cx="465" cy="95"/>
-            <text class="legend-label" x="473" y="99">Not looking, expect to within a year</text>
+            <rect class="legend-item-container" x="429" y="84" width="211"/>
+            <circle class="contracting-while-looking" cx="442" cy="95"/>
+            <text class="legend-label" x="450" y="99">Contracting while looking for permanent</text>
           </g>
         </g>
       </g>
     </g>
 
     <g class="chart-area donut-chart scale-job-search-status" transform="translate(110 24)">
-      <path class="slice open-offers" d="M 220,90 A 150 150 0 0 1 321.1,350.9 L 260.4,284.3 A 60 60 0 0 0 220,180 Z"/>
-      <path class="slice not-open" d="M 321.1,350.9 A 150 150 0 0 1 75.7,281 L 162.3,256.4 A 60 60 0 0 0 260.4,284.3 Z"/>
-      <path class="slice open-to-contract" d="M 75.7,281 A 150 150 0 0 1 100.3,149.6 L 172.1,203.8 A 60 60 0 0 0 162.3,256.4 Z"/>
-      <path class="slice actively-looking" d="M 100.3,149.6 A 150 150 0 0 1 165.8,100.1 L 198.3,184.1 A 60 60 0 0 0 172.1,203.8 Z"/>
-      <path class="slice not-looking-yet" d="M 165.8,100.1 A 150 150 0 0 1 220,90 L 220,180 A 60 60 0 0 0 198.3,184.1 Z"/>
+      <path class="slice open-offers" d="M 220,90 A 150 150 0 0 1 247.6,387.4 L 231,299 A 60 60 0 0 0 220,180 Z"/>
+      <path class="slice not-open" d="M 247.6,387.4 A 150 150 0 0 1 70.6,226.2 L 160.3,234.5 A 60 60 0 0 0 231,299 Z"/>
+      <path class="slice open-to-permanent" d="M 70.6,226.2 A 150 150 0 0 1 118.9,129.1 L 179.6,195.7 A 60 60 0 0 0 160.3,234.5 Z"/>
+      <path class="slice actively-looking" d="M 118.9,129.1 A 150 150 0 0 1 192.4,92.6 L 209,181 A 60 60 0 0 0 179.6,195.7 Z"/>
+      <path class="slice contracting-while-looking" d="M 192.4,92.6 A 150 150 0 0 1 220,90 L 220,180 A 60 60 0 0 0 209,181 Z"/>
 
-      <text text-anchor="middle" class="value-labels-inner"><tspan x="318" y="206">38.2%</tspan></text>
-      <text text-anchor="middle" class="value-labels-inner"><tspan x="191" y="345">32.4%</tspan></text>
-      <text text-anchor="middle" class="value-labels-inner"><tspan x="117" y="225">14.7%</tspan></text>
-      <text text-anchor="middle" class="value-labels-inner"><tspan x="156" y="163">8.8%</tspan></text>
-      <text text-anchor="middle" class="value-labels-inner"><tspan x="203" y="141">5.9%</tspan></text>
+      <text text-anchor="middle" class="value-labels-inner"><tspan x="325" y="234">47.1%</tspan></text>
+      <text text-anchor="middle" class="value-labels-inner"><tspan x="149" y="322">29.4%</tspan></text>
+      <text text-anchor="middle" class="value-labels-inner"><tspan x="126" y="194">11.8%</tspan></text>
+      <text text-anchor="middle" class="value-labels-inner"><tspan x="173" y="146">8.8%</tspan></text>
+      <text text-anchor="middle" class="value-labels-inner" style="display:none"><tspan x="210" y="136">2.9%</tspan></text>
     </g>
   </g>
 

@@ -26,20 +26,22 @@
       </g>
     </g>
 
-    <g class="chart-area bar-chart-vertical scale-single-series" transform="translate(0 28)">
+    <g class="chart-area bar-chart-vertical scale-single-series" transform="translate(0 -20)">
 
       <g class="y-axis">
 
         <g class="gridlines">
           <path d="M68 369.5H620" stroke="#F0F0F0"/>
+          <path d="M68 299.5H620" stroke="#F0F0F0"/>
           <path d="M68 229.5H620" stroke="#F0F0F0"/>
-          <path d="M68 87.5H620" stroke="#F0F0F0"/>
+          <path d="M68 159.5H620" stroke="#F0F0F0"/>
         </g>
 
         <g class="axis-labels">
           <text font-size="10"><tspan x="45" y="372">0%</tspan></text>
+          <text font-size="10"><tspan x="40" y="302">10%</tspan></text>
           <text font-size="10"><tspan x="40" y="232">20%</tspan></text>
-          <text font-size="10"><tspan x="40" y="91">40%</tspan></text>
+          <text font-size="10"><tspan x="40" y="162">30%</tspan></text>
         </g>
 
       </g>

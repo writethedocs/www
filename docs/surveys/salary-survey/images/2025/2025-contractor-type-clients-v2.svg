@@ -60,9 +60,10 @@
       <path class="slice not-specified" d="M184.958 277.156 A150 150 0 0 1 194.924 162.784 L274.770 204.314 A60 60 0 0 0 270.783 250.062 Z"/>
       <path class="slice both" d="M194.924 162.784 A150 150 0 0 1 231.181 117.431 L289.273 186.172 A60 60 0 0 0 274.770 204.314 Z"/>
 
-      <text font-size="14" class="value-labels-inner" text-anchor="middle"><tspan x="424" y="203">57.5%</tspan></text>
-      <text font-size="14" class="value-labels-inner" text-anchor="middle"><tspan x="278" y="331">23.8%</tspan></text>
-      <text font-size="14" class="value-labels-inner" text-anchor="middle"><tspan x="225" y="228">12.5%</tspan></text>
+      <text class="value-labels-inner" text-anchor="middle"><tspan x="424" y="203">57.5%</tspan></text>
+      <text class="value-labels-inner" text-anchor="middle"><tspan x="278" y="331">23.8%</tspan></text>
+      <text class="value-labels-inner" text-anchor="middle"><tspan x="225" y="228">12.5%</tspan></text>
+      <text class="value-labels-inner" text-anchor="middle"><tspan x="241" y="166">6.2%</tspan></text>
     </g>
   </g>
 

@@ -184,6 +184,13 @@ text {
 
 } /* end .chart-header */
 
+.footnote {
+  fill: var(--color-text-light);
+  font-family: var(--font);
+  font-size: 10px;
+  font-weight: 400;
+}
+
 
 .title { /* phasing out in favor of visible chart header */
         display: none;
@@ -203,8 +210,8 @@ text {
   }
 
   text.value-labels-inner {
-    font-size: 12px;
-    font-weight: 700;
+    font-size: 10px;
+    font-weight: 600;
     filter: url(#label-bg);
   }
 
@@ -318,6 +325,11 @@ text {
 
 .scale-single-series {
   .series-a { fill: var(--color-chart-1); }
+}
+
+.scale-education-level {
+  .single { fill: var(--color-chart-1); }
+  .multiple { fill: var(--color-chart-2); }
 }
 
 .scale-employment-history {
@@ -518,6 +530,20 @@ fill-opacity: 0.8;
             fill: var(--color-text-dark);
             font-family: var(--font);
             font-weight: 700;
+    }
+
+   rect.disagree,
+   rect.neutral,
+   rect.agree,
+   rect.dont-know {
+            transition: var(--transition);
+    }
+
+   rect.disagree:hover,
+   rect.neutral:hover,
+   rect.agree:hover,
+   rect.dont-know:hover {
+            fill-opacity: 0.8;
     }
 
    .track {

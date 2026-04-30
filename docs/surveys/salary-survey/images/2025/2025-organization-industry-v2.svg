@@ -1,0 +1,84 @@
+<svg viewBox="0 0 660 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+        .bars rect {
+          fill-opacity: 0.8;
+        }
+        .bars rect:hover {
+          fill-opacity: 1;
+        }
+      ]]>
+    </style>
+  </defs>
+
+  <g id="2025-organization-industry-v2" class="scale-single-series">
+    <g class="chart-header">
+      <g class="chart-title">
+        <text x="20" y="35" class="title-text">Organization industry</text>
+        <text x="20" y="55" class="subtitle-text">All respondents (755)</text>
+      </g>
+
+      <g class="legend">
+        <g class="legend-row">
+          <g class="legend-item">
+            <rect class="legend-item-container" x="552" y="20" width="88"/>
+            <circle class="series-a" cx="565" cy="31"/>
+            <text class="legend-label" x="573" y="35">Respondents</text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <g class="chart-area bar-chart-horizontal scale-single-series" transform="translate(0,20)">
+      <g font-size="10" text-anchor="end">
+        <text><tspan x="95" y="89">Software</tspan></text>
+        <text><tspan x="95" y="123">Telecoms</tspan></text>
+        <text><tspan x="95" y="157">Finance</tspan></text>
+        <text><tspan x="95" y="191">Data</tspan></text>
+        <text><tspan x="95" y="225">Security</tspan></text>
+        <text><tspan x="95" y="259">Healthcare</tspan></text>
+        <text><tspan x="95" y="293">Manufacturing</tspan></text>
+        <text><tspan x="95" y="327">Other</tspan></text>
+      </g>
+
+      <g class="tracks">
+        <rect class="track" x="103" y="72" width="505" height="24"/>
+        <rect class="track" x="103" y="106" width="505" height="24"/>
+        <rect class="track" x="103" y="140" width="505" height="24"/>
+        <rect class="track" x="103" y="174" width="505" height="24"/>
+        <rect class="track" x="103" y="208" width="505" height="24"/>
+        <rect class="track" x="103" y="242" width="505" height="24"/>
+        <rect class="track" x="103" y="276" width="505" height="24"/>
+        <rect class="track" x="103" y="310" width="505" height="24"/>
+      </g>
+
+      <g class="bars series-a">
+        <rect x="103" y="72" width="505" height="24"/>
+        <rect x="103" y="106" width="254.6" height="24"/>
+        <rect x="103" y="140" width="146.1" height="24"/>
+        <rect x="103" y="174" width="118.2" height="24"/>
+        <rect x="103" y="208" width="88.1" height="24"/>
+        <rect x="103" y="242" width="83.9" height="24"/>
+        <rect x="103" y="276" width="83.9" height="24"/>
+        <rect x="103" y="310" width="235.3" height="24"/>
+      </g>
+
+      <g class="value-labels-outer" text-anchor="end">
+        <text><tspan x="640" y="89">47.0%</tspan></text>
+        <text><tspan x="640" y="123">23.7%</tspan></text>
+        <text><tspan x="640" y="157">13.6%</tspan></text>
+        <text><tspan x="640" y="191">11.0%</tspan></text>
+        <text><tspan x="640" y="225">8.2%</tspan></text>
+        <text><tspan x="640" y="259">7.8%</tspan></text>
+        <text><tspan x="640" y="293">7.8%</tspan></text>
+        <text><tspan x="640" y="327">21.9%</tspan></text>
+      </g>
+
+      <text x="20" y="380" class="footnote">Note: respondents could select more than one industry</text>
+    </g>
+  </g>
+
+</svg>

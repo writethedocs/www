@@ -70,9 +70,11 @@
       <path class="slice not-looking-yet" d="M 98.9,151.6 A 150 150 0 0 1 169.4,98.8 L 199.7,183.5 A 60 60 0 0 0 171.5,204.6 Z"/>
       <path class="slice open-to-contract" d="M 169.4,98.8 A 150 150 0 0 1 220,90 L 220,180 A 60 60 0 0 0 199.7,183.5 Z"/>
 
-      <text font-size="14" text-anchor="middle" class="value-labels-inner"><tspan x="324" y="232">46.2%</tspan></text>
-      <text font-size="14" text-anchor="middle" class="value-labels-inner"><tspan x="162" y="332">26.1%</tspan></text>
-      <text font-size="12" text-anchor="middle" class="value-labels-inner"><tspan x="118" y="220">12.7%</tspan></text>
+      <text text-anchor="middle" class="value-labels-inner"><tspan x="324" y="232">46.2%</tspan></text>
+      <text text-anchor="middle" class="value-labels-inner"><tspan x="162" y="332">26.1%</tspan></text>
+      <text text-anchor="middle" class="value-labels-inner"><tspan x="118" y="220">12.7%</tspan></text>
+      <text text-anchor="middle" class="value-labels-inner"><tspan x="157" y="160">9.5%</tspan></text>
+      <text text-anchor="middle" class="value-labels-inner"><tspan x="202" y="139">5.5%</tspan></text>
     </g>
   </g>
 

@@ -31,14 +31,14 @@
       <g class="legend scale-feedback-likert">
         <g class="legend-row">
           <g class="legend-item">
-            <rect class="legend-item-container" x="365" y="20" width="109"/>
-            <circle class="strongly-disagree" cx="378" cy="31"/>
-            <text class="legend-label" x="386" y="35">Strongly disagree</text>
+            <rect class="legend-item-container" x="376" y="20" width="109"/>
+            <circle class="strongly-disagree" cx="389" cy="31"/>
+            <text class="legend-label" x="397" y="35">Strongly disagree</text>
           </g>
           <g class="legend-item">
-            <rect class="legend-item-container" x="484" y="20" width="81"/>
-            <circle class="disagree" cx="497" cy="31"/>
-            <text class="legend-label" x="505" y="35">Disagree</text>
+            <rect class="legend-item-container" x="495" y="20" width="70"/>
+            <circle class="disagree" cx="508" cy="31"/>
+            <text class="legend-label" x="516" y="35">Disagree</text>
           </g>
           <g class="legend-item">
             <rect class="legend-item-container" x="575" y="20" width="65"/>
@@ -48,14 +48,14 @@
         </g>
         <g class="legend-row">
           <g class="legend-item">
-            <rect class="legend-item-container" x="470" y="52" width="59"/>
-            <circle class="agree" cx="483" cy="63"/>
-            <text class="legend-label" x="491" y="67">Agree</text>
+            <rect class="legend-item-container" x="478" y="52" width="59"/>
+            <circle class="agree" cx="491" cy="63"/>
+            <text class="legend-label" x="499" y="67">Agree</text>
           </g>
           <g class="legend-item">
-            <rect class="legend-item-container" x="539" y="52" width="101"/>
-            <circle class="strongly-agree" cx="552" cy="63"/>
-            <text class="legend-label" x="560" y="67">Strongly agree</text>
+            <rect class="legend-item-container" x="547" y="52" width="93"/>
+            <circle class="strongly-agree" cx="560" cy="63"/>
+            <text class="legend-label" x="568" y="67">Strongly agree</text>
           </g>
         </g>
       </g>

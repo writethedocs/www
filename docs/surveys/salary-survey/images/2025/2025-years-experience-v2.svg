@@ -1,4 +1,4 @@
-<svg viewBox="0 0 660 421" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 660 390" fill="none" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
 
@@ -28,23 +28,21 @@
       </g>
     </g>
 
-    <g class="chart-area bar-chart-vertical scale-single-series" transform="translate(0 28)">
+    <g class="chart-area bar-chart-vertical scale-single-series" transform="translate(0 -10)">
 
 			<g class="y-axis">
 
-				<g class="gridlines">
-					<path d="M68 354.5H620" stroke="#F0F0F0"/>
+<g class="gridlines">
+<path d="M68 354.5H620" stroke="#F0F0F0"/>
           <path d="M68 261.5H620" stroke="#F0F0F0"/>
           <path d="M68 167.5H620" stroke="#F0F0F0"/>
-          <path d="M68 74H620" stroke="#F0F0F0"/>
-				</g>
+</g>
 
-				<g class="axis-labels">
-					<text font-size="10"><tspan x="45" y="357">0%</tspan></text>
+<g class="axis-labels">
+<text font-size="10"><tspan x="45" y="357">0%</tspan></text>
           <text font-size="10"><tspan x="40" y="264">10%</tspan></text>
           <text font-size="10"><tspan x="40" y="170">20%</tspan></text>
-          <text font-size="10"><tspan x="40" y="77">30%</tspan></text>
-				</g>
+</g>
 
 			</g>
 

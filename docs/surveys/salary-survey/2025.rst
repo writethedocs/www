@@ -1359,13 +1359,13 @@ Employee-contractors are shown separately for their employee and contractor sear
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Employee-contractor job search status (as contractor)" aria-describedby="figure_job-search-ec-contractor_desc" type="image/svg+xml" data="/_images/2025-job-search-ec-contractor.svg">
+      <object role="img" aria-label="Employee-contractor job search status (as contractor)" aria-describedby="figure_job-search-ec-contractor_desc" type="image/svg+xml" data="/_images/2025-job-search-ec-contractor-v2.svg">
          <p id="figure_job-search-ec-contractor_desc">Donut chart showing employee-contractor job search status as contractor.</p>
       </object>
       <figcaption>Figure: Employee-contractor job search status (as contractor)</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-job-search-ec-contractor.svg
+.. figure:: images/2025/2025-job-search-ec-contractor-v2.svg
    :class: hide
 
 .. raw:: html
@@ -2823,13 +2823,13 @@ This pattern likely reflects experience as a confounding factor: practitioners w
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Median salary (USD) by number of additional role categories" aria-describedby="figure_salary-by-additional-role-categories_desc" type="image/svg+xml" data="/_images/2025-salary-by-additional-role-categories.svg">
+      <object role="img" aria-label="Median salary (USD) by number of additional role categories" aria-describedby="figure_salary-by-additional-role-categories_desc" type="image/svg+xml" data="/_images/2025-salary-by-additional-role-categories-v2.svg">
          <p id="figure_salary-by-additional-role-categories_desc">Line chart showing median salary by number of additional role categories for worldwide, North America, and Europe. All three regions show an upward trend, with North America significantly higher than Europe across all groups.</p>
       </object>
       <figcaption>Figure: Median salary (USD) by number of additional role categories</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-salary-by-additional-role-categories.svg
+.. figure:: images/2025/2025-salary-by-additional-role-categories-v2.svg
    :class: hide
 
 Median salary by industry
@@ -2839,7 +2839,7 @@ Salary varies substantially across industries, from a worldwide median of $78,50
 
 First, respondents could select multiple industries — the same person may be counted in several industry categories. Second, some industries have a strong geographic concentration that inflates or deflates their worldwide median. Advertising is the clearest example: 31 of its 39 worldwide respondents are in North America, so its $140,391 worldwide median largely reflects North American salary levels rather than a true global industry premium.
 
-The North America tab shows all 10 industries, with advertising ($158,000) and data/analytics ($157,394) having the highest medians. The Europe tab covers the 7 industries with at least 10 European respondents; advertising, government, and healthcare fall below that threshold.
+The Worldwide tab below shows the 10 most common industries reported in the 2025 results. The North America tab shows all 10 industries, with advertising ($158,000) and data/analytics ($157,394) having the highest medians. The Europe tab covers the 7 industries with at least 10 European respondents; advertising, government, and healthcare fall below that threshold.
 
 .. raw:: html
 
@@ -4170,6 +4170,18 @@ Software development (incorporating development tools and open source) was the m
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
    | Culture, Arts, Heritage                                                                                                                                                    | 1         | 0.1%      |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------+-----------+
+
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Organization industry" aria-describedby="figure_organization-industry_desc" type="image/svg+xml" data="/_images/2025-organization-industry-v2.svg">
+         <p id="figure_organization-industry_desc">Horizontal bar chart showing the top seven organization industries plus a combined Other category. Software is highest at 47.0%, followed by telecoms at 23.7%. Respondents could select more than one industry.</p>
+      </object>
+      <figcaption>Figure: Organization industry</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-organization-industry-v2.svg
+   :class: hide
 
 Organization origin and location
 --------------------------------

@@ -68,10 +68,11 @@
       <path class="slice short-only" d="M179.655 254.223 A150 150 0 0 1 194.924 162.784 L274.770 204.314 A60 60 0 0 0 268.662 240.889 Z"/>
       <path class="slice medium-only" d="M194.924 162.784 A150 150 0 0 1 231.181 117.431 L289.273 186.172 A60 60 0 0 0 274.770 204.314 Z"/>
 
-      <text font-size="14" class="value-labels-inner" text-anchor="middle"><tspan x="355" y="138">30.1%</tspan></text>
-      <text font-size="14" class="value-labels-inner" text-anchor="middle"><tspan x="421" y="292">28.7%</tspan></text>
-      <text font-size="14" class="value-labels-inner" text-anchor="middle"><tspan x="268" y="324">25.0%</tspan></text>
-      <text font-size="14" class="value-labels-inner" text-anchor="middle"><tspan x="226" y="223">10.0%</tspan></text>
+      <text class="value-labels-inner" text-anchor="middle"><tspan x="355" y="138">30.1%</tspan></text>
+      <text class="value-labels-inner" text-anchor="middle"><tspan x="421" y="292">28.7%</tspan></text>
+      <text class="value-labels-inner" text-anchor="middle"><tspan x="268" y="324">25.0%</tspan></text>
+      <text class="value-labels-inner" text-anchor="middle"><tspan x="226" y="223">10.0%</tspan></text>
+      <text class="value-labels-inner" text-anchor="middle"><tspan x="242" y="167">6.2%</tspan></text>
     </g>
   </g>
 
