@@ -118,7 +118,7 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
         # If tz_header is present, this is assumed to be a multi-tz conference.
         # This expects the short date to be e.g. "Sep 10-12, 2023"
         # Does not need to be exact, hence we use first day - just for determining DST.
-        conf_date = datetime.strptime(re.sub('-\d+', '', data['date']['short']), "%b %d, %Y")
+        conf_date = datetime.strptime(re.sub(r'-\d+', '', data['date']['short']), "%b %d, %Y")
         conf_timezone = pytz.timezone(data['tz'])
         display_timezone_names = re.split('[&,]', data['tz_header'])
         display_timezones = [(data['tz'], conf_timezone)] + [
