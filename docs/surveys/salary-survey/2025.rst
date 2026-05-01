@@ -282,27 +282,27 @@ Employees made up the majority of survey respondents in 2025 (675, or 89.4%). Co
 Including both salary and rate data for employee-contractors means that in total, we have 709 employee salaries and 80 sets of contract rates for our median breakdowns.
 
 .. table:: Basis of employment (2019-2025)
-   :widths: 12 16 16 22 12
+   :widths: 1 3 3 3 1
    :name: tbl-2025-basis-of-employment-history
    :class: sortable col2right col3right col4right col5right
 
-   +-------------+-------------+-------------+----------------------+------------+
-   | Year        |   Employees | Contractors | Employee-contractors | Total      |
-   +=============+=============+=============+======================+============+
-   | 2019        | 652 (93.9%) |   42 (6.1%) | --                   | 694        |
-   +-------------+-------------+-------------+----------------------+------------+
-   | 2020        | 748 (92.9%) |   57 (7.1%) | --                   | 805        |
-   +-------------+-------------+-------------+----------------------+------------+
-   | 2021        | 887 (92.5%) |   72 (7.5%) | --                   | 959        |
-   +-------------+-------------+-------------+----------------------+------------+
-   | 2022        | 491 (93.5%) |   34 (6.5%) | --                   | 525        |
-   +-------------+-------------+-------------+----------------------+------------+
-   | 2023        | 938 (92.2%) |   79 (7.8%) | --                   | 1017       |
-   +-------------+-------------+-------------+----------------------+------------+
-   | 2024        | 686 (87.9%) |   66 (8.5%) | 28 (3.6%)            | 780        |
-   +-------------+-------------+-------------+----------------------+------------+
-   | 2025        | 675 (89.4%) |   46 (6.1%) | 34 (4.5%)            | 755        |
-   +-------------+-------------+-------------+----------------------+------------+
+   +------+-------------+-------------+----------------------+-------+
+   | Year |   Employees | Contractors | Employee-contractors | Total |
+   +======+=============+=============+======================+=======+
+   | 2019 | 652 (93.9%) |   42 (6.1%) | --                   |   694 |
+   +------+-------------+-------------+----------------------+-------+
+   | 2020 | 748 (92.9%) |   57 (7.1%) | --                   |   805 |
+   +------+-------------+-------------+----------------------+-------+
+   | 2021 | 887 (92.5%) |   72 (7.5%) | --                   |   959 |
+   +------+-------------+-------------+----------------------+-------+
+   | 2022 | 491 (93.5%) |   34 (6.5%) | --                   |   525 |
+   +------+-------------+-------------+----------------------+-------+
+   | 2023 | 938 (92.2%) |   79 (7.8%) | --                   |  1017 |
+   +------+-------------+-------------+----------------------+-------+
+   | 2024 | 686 (87.9%) |   66 (8.5%) | 28 (3.6%)            |   780 |
+   +------+-------------+-------------+----------------------+-------+
+   | 2025 | 675 (89.4%) |   46 (6.1%) | 34 (4.5%)            |   755 |
+   +------+-------------+-------------+----------------------+-------+
 
 .. raw:: html
 
@@ -362,7 +362,7 @@ Among employee-contractors, most (24 of 34, or 70.6%) worked more hours as emplo
    <div class="tab-wrap"><input type="radio" id="tabA2-1" name="tabGroupA2" class="tab" checked tabindex="0"><label for="tabA2-1">Employees</label><input type="radio" id="tabA2-2" name="tabGroupA2" class="tab"><label for="tabA2-2">Contractors</label><input type="radio" id="tabA2-3" name="tabGroupA2" class="tab"><label for="tabA2-3">Employee-contractors</label><div class="tab__content">
 
 .. table:: Weekly hours worked — employees only (2025)
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-weekly-hours-worked-employees
    :class: std3col sortable
 
@@ -394,7 +394,7 @@ Among employee-contractors, most (24 of 34, or 70.6%) worked more hours as emplo
    </div><div class="tab__content">
 
 .. table:: Weekly hours worked — contractors only (2025)
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-weekly-hours-worked-contractors
    :class: std3col sortable
 
@@ -486,7 +486,7 @@ As in previous years, the most widely used exact title was "Technical Writer", a
    <div class="tab-wrap"><input type="radio" id="tabA3-1" name="tabGroupA3" class="tab" checked tabindex="0"><label for="tabA3-1">Top job titles</label><input type="radio" id="tabA3-2" name="tabGroupA3" class="tab"><label for="tabA3-2">Excluding "technical writer"</label><div class="tab__content">
 
 .. table:: Most widely-used job titles
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-top-job-titles
    :class: std3col sortable
 
@@ -531,7 +531,7 @@ As in previous years, the most widely used exact title was "Technical Writer", a
 	</div><div class="tab__content">
 
 .. table:: Job titles excluding "technical writer"
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-job-titles-excluding-technical-writer
    :class: std3col sortable
 
@@ -656,7 +656,7 @@ Primary role category
 14 respondents selected "other" and provided more detail: responses included content strategist, knowledge manager, documentation specialist, and consultant roles, as well as respondents who described performing a combination of multiple roles.
 
 .. table:: Primary role categories
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-top-role-categories
    :class: std3col sortable
 
@@ -714,18 +714,6 @@ Additional role categories
 53 respondents (7.0%) chose only a primary role category. Of these, 48 listed "technical writer" as their primary role category, 2 selected "programmer-writer", and 1 each selected "project or product manager", "developer or engineer", and "editor".
 
 Of the respondents who selected additional role categories, the number chosen ranged from 1 (82 respondents) to 15 (1 respondent). The most popular count was 4 additional categories, chosen by 125 respondents. 10 or more additional categories were selected by 26 respondents.
-
-.. raw:: html
-
-   <figure>
-      <object role="img" aria-label="Top 10 additional role categories" aria-describedby="figure_additional-role-categories_desc" type="image/svg+xml" data="/_images/2025-additional-role-categories-v2.svg">
-         <p id="figure_additional-role-categories_desc">Horizontal bar chart showing the top 10 additional role categories.</p>
-      </object>
-      <figcaption>Figure: Additional role categories</figcaption>
-   </figure>
-
-.. figure:: images/2025/2025-additional-role-categories-v2.svg
-   :class: hide
 
 .. raw:: html
 
@@ -919,6 +907,18 @@ Of the respondents who selected additional role categories, the number chosen ra
 
    </div></div>
 
+.. raw:: html
+
+   <figure>
+      <object role="img" aria-label="Top 10 additional role categories" aria-describedby="figure_additional-role-categories_desc" type="image/svg+xml" data="/_images/2025-additional-role-categories-v2.svg">
+         <p id="figure_additional-role-categories_desc">Horizontal bar chart showing the top 10 additional role categories.</p>
+      </object>
+      <figcaption>Figure: Additional role categories</figcaption>
+   </figure>
+
+.. figure:: images/2025/2025-additional-role-categories-v2.svg
+   :class: hide
+
 Length of time in current role
 ------------------------------
 
@@ -961,7 +961,7 @@ A spike in respondents with new jobs first appeared in 2021, with 31.7% reportin
    <div class="tab-wrap"><input type="radio" id="tabD963-1" name="tabGroupD963" class="tab" checked><label for="tabD963-1">Employees</label><input type="radio" id="tabD963-2" name="tabGroupD963" class="tab"><label for="tabD963-2">Contractors</label><div class="tab__content">
 
 .. table:: Length of time in current role - employees
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-length-of-time-in-current-role-employees
    :class: std3col sortable
 
@@ -996,7 +996,7 @@ A spike in respondents with new jobs first appeared in 2021, with 31.7% reportin
    </div><div class="tab__content">
 
 .. table:: Length of time contracting - contractors
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-length-of-time-in-current-role-contractors
    :class: std3col sortable
 
@@ -1123,7 +1123,7 @@ Among the 80 respondents who had worked on a contract basis, 42.5% reported an e
    <input type="radio" id="tabB22-1" name="tabGroupB22" class="tab" checked tabindex="0"><label for="tabB22-1"><span>Employees</span></label><input type="radio" id="tabB22-2" name="tabGroupB22" class="tab"><label for="tabB22-2">Contractors</label><div class="tab__content">
 
 .. table:: Employee salary change
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-salary-change
    :class: std3col sortable
 
@@ -1154,7 +1154,7 @@ Among the 80 respondents who had worked on a contract basis, 42.5% reported an e
    </div><div class="tab__content">
 
 .. table:: Contractor earnings change
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-earnings-change
    :class: std3col sortable
 
@@ -1231,7 +1231,7 @@ Employee-contractors are shown separately for their employee and contractor sear
    <div class="tab-wrap"><input type="radio" id="tabB3-1" name="tabGroupB3" class="tab" checked tabindex="0"><label for="tabB3-1">Employees</label><input type="radio" id="tabB3-2" name="tabGroupB3" class="tab"><label for="tabB3-2">Contractors</label><input type="radio" id="tabB3-3" name="tabGroupB3" class="tab"><label for="tabB3-3">Employee-contractors</label><div class="tab__content">
 
 .. table:: Current job search status - employees
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-current-job-search-status-employees
    :class: std3col sortable
 
@@ -1266,7 +1266,7 @@ Employee-contractors are shown separately for their employee and contractor sear
    </div><div class="tab__content">
 
 .. table:: Current work search status - contractors
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-current-work-search-status-contractors
    :class: std3col sortable
 
@@ -1303,7 +1303,7 @@ Employee-contractors are shown separately for their employee and contractor sear
    </div><div class="tab__content">
 
 .. table:: Current job search status - employee-contractors (as employee)
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-current-job-search-status-ec-employee
    :class: std3col sortable
 
@@ -1338,7 +1338,7 @@ Employee-contractors are shown separately for their employee and contractor sear
    <hr>
 
 .. table:: Current work search status - employee-contractors (as contractor)
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-current-work-search-status-ec-contractor
    :class: std3col sortable
 
@@ -1493,7 +1493,7 @@ Among employees, the most common response was "around the same" (45.6%), with 36
    <div class="tab-wrap"><input type="radio" id="tabB553-1" name="tabGroupB553" class="tab" checked tabindex="0"><label for="tabB553-1">Employees</label><input type="radio" id="tabB553-2" name="tabGroupB553" class="tab"><label for="tabB553-2">Contractors</label><input type="radio" id="tabB553-3" name="tabGroupB553" class="tab"><label for="tabB553-3">Employee-contractors</label><div class="tab__content">
 
 .. table:: Employee job security
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-job-security-employees
    :class: std3col sortable
 
@@ -1524,7 +1524,7 @@ Among employees, the most common response was "around the same" (45.6%), with 36
    </div><div class="tab__content">
 
 .. table:: Contractor earnings security
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-earnings-security-contractors
    :class: std3col sortable
 
@@ -1555,7 +1555,7 @@ Among employees, the most common response was "around the same" (45.6%), with 36
    </div><div class="tab__content">
 
 .. table:: Employee-contractor job security - as employee
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-job-security-ec-employee
    :class: std3col sortable
 
@@ -1586,7 +1586,7 @@ Among employees, the most common response was "around the same" (45.6%), with 36
    <hr>
 
 .. table:: Employee-contractor earnings security - as contractor
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-earnings-security-ec-contractor
    :class: std3col sortable
 
@@ -1664,7 +1664,7 @@ Among the small sample of contractors who qualified for this question in 2025 �
    <input type="radio" id="tabB563-1" name="tabGroupB563" class="tab" checked><label for="tabB563-1">Employees</label><input type="radio" id="tabB563-2" name="tabGroupB563" class="tab"><label for="tabB563-2">Contractors</label><input type="radio" id="tabB563-3" name="tabGroupB563" class="tab"><label for="tabB563-3">Employee-contractors</label><div class="tab__content">
 
 .. table:: Employee job search confidence
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-job-search-confidence-employees
    :class: std3col sortable
 
@@ -1699,7 +1699,7 @@ Among the small sample of contractors who qualified for this question in 2025 �
    </div><div class="tab__content">
 
 .. table:: Contractor contract search confidence
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-contract-search-confidence-contractors
    :class: std3col sortable
 
@@ -1732,7 +1732,7 @@ Among the small sample of contractors who qualified for this question in 2025 �
    </div><div class="tab__content">
 
 .. table:: Employee-contractor job search confidence — as employee
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-job-search-confidence-ec-employee
    :class: std3col sortable
 
@@ -1763,7 +1763,7 @@ Among the small sample of contractors who qualified for this question in 2025 �
    <hr>
 
 .. table:: Employee-contractor contract search confidence — as contractor
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-contract-search-confidence-ec-contractor
    :class: std3col sortable
 
@@ -1994,6 +1994,7 @@ Given the range of socio-economic differences in the countries in the survey res
 
 .. table:: Salary (USD) by respondent region
    :name: tbl-2025-salary-by-respondent-region
+   :widths: 46 18 18 18
    :class: sortable medians nosort1
 
    +-------------------------+-------------+--------------+--------------+
@@ -2050,6 +2051,7 @@ Respondent numbers allow additional breakdowns by US state and Canadian province
 
 .. table:: Salary (USD) by respondent region - USA
    :name: tbl-2025-salary-by-respondent-region-usa
+   :widths: 46 18 18 18
    :class: medians sortable
 
    +--------------------------+----------+----------+----------+
@@ -2116,6 +2118,7 @@ Respondent numbers allow additional breakdowns by US state and Canadian province
 
 .. table:: Salary (USD) by respondent region - Canada
    :name: tbl-2025-salary-by-respondent-region-canada
+   :widths: 46 18 18 18
    :class: medians sortable
 
    +-----------------------+---------+---------+---------+
@@ -2130,6 +2133,7 @@ Respondent numbers allow additional breakdowns by US state and Canadian province
 
 .. table:: Salary (USD) by respondent region - United Kingdom
    :name: tbl-2025-salary-by-respondent-region-united-kingdom
+   :widths: 46 18 18 18
    :class: medians sortable
 
    +--------------------------+----------+----------+--------------+
@@ -2142,6 +2146,7 @@ Respondent numbers allow additional breakdowns by US state and Canadian province
 
 .. table:: Salary (USD) by respondent region - Australia
    :name: tbl-2025-salary-by-respondent-region-australia
+   :widths: 46 18 18 18
    :class: medians sortable
 
    +----------------------+------+---------+------+
@@ -2169,6 +2174,7 @@ This year, that means that we are able to show breakdowns for Worldwide, North A
 
 .. table:: Salary (USD) by gender identity - women
    :name: tbl-2025-salary-by-gender-identity-women
+   :widths: 46 18 18 18
    :class: medians sortable
 
    +---------------------+-------------+--------------+--------------+
@@ -2187,6 +2193,7 @@ This year, that means that we are able to show breakdowns for Worldwide, North A
 
 .. table:: Salary (USD) by gender identity - men
    :name: tbl-2025-salary-by-gender-identity-men
+   :widths: 46 18 18 18
    :class: medians sortable
 
    +-------------------------+-------------+--------------+--------------+
@@ -2205,6 +2212,7 @@ This year, that means that we are able to show breakdowns for Worldwide, North A
 
 .. table:: Median salary (USD) by gender identity - comparison
    :name: tbl-2025-salary-by-gender-identity-comparison
+   :widths: 46 18 18 18
    :class: medians sortable
 
    +-------------------+--------------+--------------+-----------+
@@ -2244,6 +2252,7 @@ The general trend is for salaries to increase with years of experience. This tre
 
 .. table:: Salary (USD) by experience
    :name: tbl-2025-salary-by-experience
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +-----------------+-------+---------+----------+----------+
@@ -2268,6 +2277,7 @@ The general trend is for salaries to increase with years of experience. This tre
 
 .. table:: Salary (USD) by experience - North America
    :name: tbl-2025-salary-by-experience-region-north-america
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +-----------------+-------+----------+----------+-----------+
@@ -2292,6 +2302,7 @@ The general trend is for salaries to increase with years of experience. This tre
 
 .. table:: Salary (USD) by experience - Europe
    :name: tbl-2025-salary-by-experience-region-europe
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +-----------------+-------+---------+---------+---------+
@@ -2341,6 +2352,7 @@ In Europe the pattern is less clear, partly due to small sample sizes at the upp
 
 .. table:: Salary (USD) by time in current role
    :name: tbl-2025-salary-by-time-in-current-role
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +----------------------+-----+----------+----------+----------+
@@ -2370,6 +2382,7 @@ In Europe the pattern is less clear, partly due to small sample sizes at the upp
 
 .. table:: Salary (USD) by time in current role - North America
    :name: tbl-2025-salary-by-time-in-current-role-north-america
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +----------------------+-----+----------+----------+----------+
@@ -2399,6 +2412,7 @@ In Europe the pattern is less clear, partly due to small sample sizes at the upp
 
 .. table:: Salary (USD) by time in current role - Europe
    :name: tbl-2025-salary-by-time-in-current-role-europe
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +----------------------+-----+----------+----------+----------+
@@ -2450,6 +2464,7 @@ The 18–25 age group is below the 30-respondent threshold in all regions, and i
 
 .. table:: Salary (USD) by age group
    :name: tbl-2025-salary-by-age-group
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +-----------+-----+----------+----------+----------+
@@ -2472,6 +2487,7 @@ The 18–25 age group is below the 30-respondent threshold in all regions, and i
 
 .. table:: Salary (USD) by age group - North America
    :name: tbl-2025-salary-by-age-group-north-america
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +-----------+-----+----------+----------+----------+
@@ -2494,6 +2510,7 @@ The 18–25 age group is below the 30-respondent threshold in all regions, and i
 
 .. table:: Salary (USD) by age group - Europe
    :name: tbl-2025-salary-by-age-group-europe
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +-----------+-----+----------+----------+----------+
@@ -2535,6 +2552,7 @@ The Europe tab covers only three education levels — undergraduate, postgraduat
 
 .. table:: Salary (USD) by education level
    :name: tbl-2025-salary-by-education-level
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +-----------------------------+-----+----------+----------+----------+
@@ -2566,6 +2584,7 @@ The Europe tab covers only three education levels — undergraduate, postgraduat
 
 .. table:: Salary (USD) by education level - North America
    :name: tbl-2025-salary-by-education-level-north-america
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +-----------------------------+-----+----------+----------+----------+
@@ -2595,6 +2614,7 @@ The Europe tab covers only three education levels — undergraduate, postgraduat
 
 .. table:: Salary (USD) by education level - Europe
    :name: tbl-2025-salary-by-education-level-europe
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +-----------------------------+-----+----------+----------+----------+
@@ -2638,6 +2658,7 @@ Salaries generally increase with the size of the organization, with the highest 
 
 .. table:: Salary (USD) by organization size
    :name: tbl-2025-salary-by-organization-size
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +------------------------+-----+---------+----------+----------+
@@ -2660,6 +2681,7 @@ Salaries generally increase with the size of the organization, with the highest 
 
 .. table:: Salary (USD) by organization size - North America
    :name: tbl-2025-salary-by-organization-size-north-america
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +------------------------+-----+----------+-----------+----------+
@@ -2682,6 +2704,7 @@ Salaries generally increase with the size of the organization, with the highest 
 
 .. table:: Salary (USD) by organization size - Europe
    :name: tbl-2025-salary-by-organization-size-europe
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +------------------------+-----+---------+---------+----------+
@@ -2721,6 +2744,7 @@ Among the five primary role categories with at least 10 respondents, DocOps prac
 
 .. table:: Salary (USD) by primary role category
    :name: tbl-2025-salary-by-primary-role-category
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +--------------------------------+-----+----------+----------+----------+
@@ -2762,6 +2786,7 @@ This pattern likely reflects experience as a confounding factor: practitioners w
 
 .. table:: Salary (USD) by number of additional role categories
    :name: tbl-2025-salary-by-additional-role-categories
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +----------------------------+-----+----------+----------+----------+
@@ -2782,6 +2807,7 @@ This pattern likely reflects experience as a confounding factor: practitioners w
 
 .. table:: Salary (USD) by number of additional role categories - North America
    :name: tbl-2025-salary-by-additional-role-categories-north-america
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +----------------------------+-----+----------+----------+----------+
@@ -2802,6 +2828,7 @@ This pattern likely reflects experience as a confounding factor: practitioners w
 
 .. table:: Salary (USD) by number of additional role categories - Europe
    :name: tbl-2025-salary-by-additional-role-categories-europe
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +----------------------------+-----+----------+----------+----------+
@@ -2847,6 +2874,7 @@ The Worldwide tab below shows the 10 most common industries reported in the 2025
 
 .. table:: Salary (USD) by industry
    :name: tbl-2025-salary-by-industry
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +-----------------------+-----+----------+----------+----------+
@@ -2886,6 +2914,7 @@ The Worldwide tab below shows the 10 most common industries reported in the 2025
 
 .. table:: Salary (USD) by industry - North America
    :name: tbl-2025-salary-by-industry-north-america
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +-----------------------+-----+----------+----------+----------+
@@ -2925,6 +2954,7 @@ The Worldwide tab below shows the 10 most common industries reported in the 2025
 
 .. table:: Salary (USD) by industry - Europe
    :name: tbl-2025-salary-by-industry-europe
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +-----------------------+-----+----------+----------+----------+
@@ -2972,6 +3002,7 @@ Respondents at multinational organizations had a worldwide median salary of $95,
 
 .. table:: Salary (USD) by multinational status
    :name: tbl-2025-salary-by-multinational-status
+   :widths: 36 10 18 18 18
    :class: medians-with-num sortable
 
    +-------------------+-----+----------+----------+----------+
@@ -3031,7 +3062,7 @@ Employee satisfaction
    <div class="tab-wrap"><input type="radio" id="tabF1a-1" name="tabGroupF1a" class="tab" checked><label for="tabF1a-1">Salary</label><input type="radio" id="tabF1a-2" name="tabGroupF1a" class="tab"><label for="tabF1a-2">Overall</label><div class="tab__content">
 
 .. table:: Salary satisfaction
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-employee-salary-satisfaction
    :class: std3col sortable
 
@@ -3066,7 +3097,7 @@ Employee satisfaction
    </div><div class="tab__content">
 
 .. table:: Overall satisfaction
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-employee-overall-satisfaction
    :class: std3col sortable
 
@@ -3274,7 +3305,7 @@ Respondents who indicated that the statement was not relevant to their situation
    </div><div class="tab__content">
 
 .. table:: Satisfaction statements - team and organization
-   :widths: 48 13 13 13 13
+   :widths: 46 12 12 12 18
    :name: tbl-2025-satisfaction-statements-team-organization
    :class: sortable statements
 
@@ -3367,7 +3398,7 @@ Preferred term
 68.8% of non-employee respondents termed themselves "contractors", while 12.5% preferred "self-employed" and 11.2% used "freelancer". Of the 6 individuals who chose "other", 2 specified "consultant", and the remaining four described themselves variously as "legally a contractor but factually an employee", "a business owner", "someone who doesn't differentiate between terms", and "a student employee".
 
 .. table:: Preferred term
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-contractor-preferred-term
    :class: std3col sortable
 
@@ -3437,7 +3468,7 @@ The majority of contractor respondents (71.3%) did not specify offering either p
    <div class="tab-wrap"><input type="radio" id="tabA113-1" name="tabGroupA113" class="tab" checked tabindex="0"><label for="tabA113-1">Clients</label><input type="radio" id="tabA113-2" name="tabGroupA113" class="tab"><label for="tabA113-2">Length</label><input type="radio" id="tabA113-3" name="tabGroupA113" class="tab"><label for="tabA113-3">Products/services</label><div class="tab__content">
 
 .. table:: Typical client configuration
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-contractor-type-clients
    :class: std3col sortable
 
@@ -3470,7 +3501,7 @@ The majority of contractor respondents (71.3%) did not specify offering either p
 	</div><div class="tab__content">
 
 .. table:: Typical contract length
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-contractor-type-contract-length
    :class: std3col sortable
 
@@ -3505,7 +3536,7 @@ The majority of contractor respondents (71.3%) did not specify offering either p
 	</div><div class="tab__content">
 
 .. table:: Products and/or services provided
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-contractor-type-products-services
    :class: std3col sortable
 
@@ -3612,7 +3643,7 @@ In previous years, we asked contractor respondents to enter multiple rates where
 Hourly rates were the most commonly entered fee structure, used by 83.8% of contractor respondents (67 individuals) — up from 66% in 2024. The remaining respondents entered either a monthly rate (10 respondents, 12.5%) or a day rate (3 respondents, 3.8%). Due to the low number of day rates, we're unable to publish any median day rates. Monthly rate data was too geographically dispersed — with no region reaching the 10-respondent threshold — to publish meaningful regional medians.
 
 .. table:: Median hourly rate by region
-   :widths: 55 15 15 15
+   :widths: 46 18 18 18
    :name: tbl-2025-median-hourly-rate-by-region
    :class: sortable medians rates
 
@@ -3664,7 +3695,7 @@ Contractor satisfaction
    <div class="tab-wrap"><input type="radio" id="tabF1b-1" name="tabGroupF1b" class="tab" checked><label for="tabF1b-1">Earnings</label><input type="radio" id="tabF1b-2" name="tabGroupF1b" class="tab"><label for="tabF1b-2">Overall</label><div class="tab__content">
 
 .. table:: Earnings satisfaction
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-earnings-satisfaction-contractors
    :class: std3col sortable
 
@@ -3699,7 +3730,7 @@ Contractor satisfaction
 	</div><div class="tab__content">
 
 .. table:: Overall satisfaction
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-overall-satisfaction-contractors
    :class: std3col sortable
 
@@ -3907,7 +3938,7 @@ Respondents who indicated that the statement was not relevant to their situation
 	</div><div class="tab__content">
 
 .. table:: Satisfaction statements - teams and organizations
-   :widths: 48 13 13 13 13
+   :widths: 46 12 12 12 18
    :name: tbl-2025-satisfaction-statements-contractor-teams
    :class: sortable statements
 
@@ -3984,7 +4015,7 @@ Organization size
 As in previous years, medium-sized organizations make up the largest proportion of the results. 34.4% of respondents work for organizations with 101-1,000 employees, and 29.4% work for organizations with 1,001-10,000 employees. At the other end of the scale, only 1.2% of respondents work for organizations with 1-10 employees.
 
 .. table:: Organization size
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-organization-size
    :class: std3col sortable
 
@@ -4080,7 +4111,7 @@ Organization type and industry
 The vast majority (97.2%) of organizations were for-profit; 2.8% were non-profit, governmental, or NGOs.
 
 .. table:: Organization type
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-organization-type
    :class: std3col sortable
 
@@ -4095,7 +4126,7 @@ The vast majority (97.2%) of organizations were for-profit; 2.8% were non-profit
 Software development (incorporating development tools and open source) was the most common industry, with 47.0% of respondents working for organizations in this area. The broad telecommunications category — covering IT services and infrastructure, cloud services, and blockchain — was the next most common industry at 23.7%. Finance — including banking, financial services and technology, and cryptocurrency — was the third most common industry at 13.6%.
 
 .. table:: Organization industry
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-organization-industry
    :class: std3col sortable
 
@@ -4218,7 +4249,7 @@ A total of 67.9% of organizations originated in North America, with the bulk of 
    <div class="tab-wrap"><input type="radio" id="tabG3-1" name="tabGroupG3" class="tab" checked tabindex="0"><label for="tabG3-1">Regions</label><input type="radio" id="tabG3-2" name="tabGroupG3" class="tab"><label for="tabG3-2">North America</label><input type="radio" id="tabG3-3" name="tabGroupG3" class="tab"><label for="tabG3-3">Europe</label><input type="radio" id="tabG3-4" name="tabGroupG3" class="tab"><label for="tabG3-4">Other regions</label><div class="tab__content">
 
 .. table:: Organization location - Regions
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-organization-location-regions
    :class: std3col sortable
 
@@ -4244,7 +4275,7 @@ A total of 67.9% of organizations originated in North America, with the bulk of 
 
 
 .. table:: Organization location - North America
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-organization-location-north-america
    :class: std3col sortable
 
@@ -4261,7 +4292,7 @@ A total of 67.9% of organizations originated in North America, with the bulk of 
 	</div><div class="tab__content">
 
 .. table:: Organization location - Europe
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-organization-location-europe
    :class: std3col sortable
 
@@ -4294,7 +4325,7 @@ A total of 67.9% of organizations originated in North America, with the bulk of 
 	</div><div class="tab__content">
 
 .. table:: Organization location - Oceania
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-organization-location-oceania
    :class: std3col sortable
 
@@ -4307,7 +4338,7 @@ A total of 67.9% of organizations originated in North America, with the bulk of 
    +--------------------------------------------------------------+-----------+-----------+
 
 .. table:: Organization location - Asia and Middle East
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-organization-location-asia
    :class: std3col sortable
 
@@ -4328,7 +4359,7 @@ A total of 67.9% of organizations originated in North America, with the bulk of 
    +--------------------------------------------------------------+-----------+-----------+
 
 .. table:: Organization location - South America
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-organization-location-south-america
    :class: std3col sortable
 
@@ -4339,7 +4370,7 @@ A total of 67.9% of organizations originated in North America, with the bulk of 
    +--------------------------------------------------------------+-----------+-----------+
 
 .. table:: Organization location - Africa and other
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-organization-location-other
    :class: std3col sortable
 
@@ -4392,7 +4423,7 @@ Age group
 The age group split in 2025 was similar to previous years, with the majority of respondents falling into the 36-45 and 26-35 age groups. The 36-45 group was the largest at 34.6%, followed by 26-35 at 29.5%. 5 respondents (0.7%) chose not to provide an answer.
 
 .. table:: Respondent Age
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-age-group
    :class: std3col sortable
 
@@ -4450,7 +4481,7 @@ Gender identity
 As in previous surveys, the majority of respondents in 2025 were women - 61.9% - with men making up 33.4%. 3.0% of respondents were non-binary or other, and 1.7% chose to not provide an answer.
 
 .. table:: Respondent gender identity
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-gender-identity
    :class: std3col sortable
 
@@ -4509,7 +4540,7 @@ Experience
 The experience level spread of respondents echoed previous years - most falling into the 5-10 years range (26.8%), 10-15 years range (19.2%) and 2-5 years range (17.4%). New documentarians - those with less than 2 years of experience - made up 4.9% of respondents, and the most experienced documentarians - those with more than 20 years of experience - made up 22.4%. The most experienced respondents had 42 or 43 years in documentation. 0.4% chose not to provide an answer.
 
 .. table:: Experience in documentation
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-experience
    :class: std3col sortable
 
@@ -4576,7 +4607,7 @@ Education level
 As in previous years, most respondents were university- or college-educated: 93.2% held at least one graduate qualification, and 41.7% also held one or more post-graduate qualifications.
 
 .. table:: Highest education level completed
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-education
    :class: std3col sortable
 
@@ -4640,7 +4671,7 @@ Location
    <div class="tab-wrap"><input type="radio" id="tabH6-1" name="tabGroupH6" class="tab" checked><label for="tabH6-1">North America</label><input type="radio" id="tabH6-2" name="tabGroupH6" class="tab"><label for="tabH6-2">Europe</label><input type="radio" id="tabH6-3" name="tabGroupH6" class="tab"><label for="tabH6-3">Other Regions</label><div class="tab__content">
 
 .. table:: Respondent location - North America
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-respondent-location-north-america
    :class: std3col sortable
 
@@ -4659,7 +4690,7 @@ Location
 	</div><div class="tab__content">
 
 .. table:: Respondent location - Europe
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-respondent-location-europe
    :class: std3col sortable
 
@@ -4698,7 +4729,7 @@ Location
 	</div><div class="tab__content">
 
 .. table:: Respondent location - Asia
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-respondent-location-asia
    :class: std3col sortable
 
@@ -4715,7 +4746,7 @@ Location
    +------------------------------------------------------------+-----+------+
 
 .. table:: Respondent location - Oceania
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-respondent-location-oceania
    :class: std3col sortable
 
@@ -4728,7 +4759,7 @@ Location
    +------------------------------------------------------------+-----+------+
 
 .. table:: Respondent location - Middle East
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-respondent-location-middle-east
    :class: std3col sortable
 
@@ -4739,7 +4770,7 @@ Location
    +------------------------------------------------------------+-----+------+
 
 .. table:: Respondent location - South America
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-respondent-location-south-america
    :class: std3col sortable
 
@@ -4752,7 +4783,7 @@ Location
    +------------------------------------------------------------+-----+------+
 
 .. table:: Respondent location - Africa
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-respondent-location-africa
    :class: std3col sortable
 
@@ -4779,7 +4810,7 @@ United States
    <div class="tab-wrap"><input type="radio" id="tabH62us-1" name="tabGroupH62us" class="tab" checked><label for="tabH62us-1">West</label><input type="radio" id="tabH62us-2" name="tabGroupH62us" class="tab"><label for="tabH62us-2">Midwest</label><input type="radio" id="tabH62us-3" name="tabGroupH62us" class="tab"><label for="tabH62us-3">South</label><input type="radio" id="tabH62us-4" name="tabGroupH62us" class="tab"><label for="tabH62us-4">Northeast</label><div class="tab__content">
 
 .. table:: Respondent location - US West
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-respondent-location-us-west
    :class: std3col sortable
 
@@ -4866,7 +4897,7 @@ United States
    </div><div class="tab__content">
 
 .. table:: Respondent location - US Midwest
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-respondent-location-us-midwest
    :class: std3col sortable
 
@@ -4935,7 +4966,7 @@ United States
    </div><div class="tab__content">
 
 .. table:: Respondent location - US South
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-respondent-location-us-south
    :class: std3col sortable
 
@@ -5014,7 +5045,7 @@ United States
    </div><div class="tab__content">
 
 .. table:: Respondent location - US Northeast
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-respondent-location-us-northeast
    :class: std3col sortable
 
@@ -5086,7 +5117,7 @@ Europe, Canada and Australia
    <div class="tab-wrap"><input type="radio" id="tabH62caau-1" name="tabGroupH62caau" class="tab" checked><label for="tabH62caau-1">Europe</label><input type="radio" id="tabH62caau-2" name="tabGroupH62caau" class="tab"><label for="tabH62caau-2">Canada</label><input type="radio" id="tabH62caau-3" name="tabGroupH62caau" class="tab"><label for="tabH62caau-3">Australia</label><div class="tab__content">
 
 .. table:: Respondent location - Europe larger countries
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-respondent-location-europe-larger-countries
    :class: std3col sortable
 
@@ -5147,7 +5178,7 @@ Europe, Canada and Australia
    </div><div class="tab__content">
 
 .. table:: Respondent location - Canadian province
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-respondent-location-canadian-province
    :class: std3col sortable
 
@@ -5198,7 +5229,7 @@ Europe, Canada and Australia
    </div><div class="tab__content">
 
 .. table:: Respondent location - Australian state
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-respondent-location-australian-state
    :class: std3col sortable
 
@@ -5269,7 +5300,7 @@ Overall, respondents were strongly positive about the survey across all three di
    <div class="tab-wrap"><input type="radio" id="tabW1-1" name="tabGroupW1" class="tab" checked><label for="tabW1-1">Length</label><input type="radio" id="tabW1-2" name="tabGroupW1" class="tab"><label for="tabW1-2">Relevance</label><input type="radio" id="tabW1-3" name="tabGroupW1" class="tab"><label for="tabW1-3">Usability</label><div class="tab__content">
 
 .. table:: Survey feedback - length
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-survey-feedback-length
    :class: std3col sortable
 
@@ -5304,7 +5335,7 @@ Overall, respondents were strongly positive about the survey across all three di
    </div><div class="tab__content">
 
 .. table:: Survey feedback - relevance
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-survey-feedback-relevance
    :class: std3col sortable
 
@@ -5337,7 +5368,7 @@ Overall, respondents were strongly positive about the survey across all three di
    </div><div class="tab__content">
 
 .. table:: Survey feedback - usability
-   :widths: 70 15 15
+   :widths: 80 10 10
    :name: tbl-2025-survey-feedback-usability
    :class: std3col sortable
 

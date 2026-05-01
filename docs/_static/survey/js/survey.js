@@ -1,5 +1,32 @@
 document.addEventListener("DOMContentLoaded", function() {
-    
+
+  // Activate the tab containing a hash target so internal links into a non-default tab open it
+  function activateTabForHash(hash) {
+    if (!hash || hash.length < 2) return false;
+    var target;
+    try { target = document.querySelector(hash); } catch (e) { return false; }
+    if (!target) return false;
+    var tabContent = target.closest('.tab__content');
+    if (!tabContent) return false;
+    var tabWrap = tabContent.closest('.tab-wrap');
+    if (!tabWrap) return false;
+    var contents = tabWrap.querySelectorAll(':scope > .tab__content');
+    var index = Array.prototype.indexOf.call(contents, tabContent);
+    if (index < 0) return false;
+    var radios = tabWrap.querySelectorAll(':scope > input.tab');
+    if (!radios[index]) return false;
+    if (radios[index].checked) return false;
+    radios[index].checked = true;
+    // Re-scroll after the tab swap shifts layout
+    requestAnimationFrame(function() {
+      target.scrollIntoView({ block: 'start' });
+    });
+    return true;
+  }
+
+  if (location.hash) activateTabForHash(location.hash);
+  window.addEventListener('hashchange', function() { activateTabForHash(location.hash); });
+
   // Handle click to open/close the submenu
   var submenuLinks = document.querySelectorAll(".simple > li > ul > li a");  // Select all links in submenus
   submenuLinks.forEach(function(link) {

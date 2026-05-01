@@ -13,69 +13,11 @@
         #2025-salary-change-employees-v2 .legend-item text.legend-label,
         #2025-salary-change-employees-v2 .slice,
         #2025-salary-change-employees-v2 .value-labels-inner {
-          transition: opacity 160ms ease, stroke-width 160ms ease, fill-opacity 160ms ease;
+          transition: opacity 160ms ease, stroke-width 160ms ease, fill-opacity 160ms ease, stroke 160ms ease;
         }
 
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="negative"]:hover) #2025-salary-change-employees-v2 .legend-item,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="negative"]:hover) #2025-salary-change-employees-v2 .slice,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="negative"]:hover) #2025-salary-change-employees-v2 .value-labels-inner,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="neutral"]:hover) #2025-salary-change-employees-v2 .legend-item,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="neutral"]:hover) #2025-salary-change-employees-v2 .slice,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="neutral"]:hover) #2025-salary-change-employees-v2 .value-labels-inner,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="positive"]:hover) #2025-salary-change-employees-v2 .legend-item,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="positive"]:hover) #2025-salary-change-employees-v2 .slice,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="positive"]:hover) #2025-salary-change-employees-v2 .value-labels-inner,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="negative"]:focus-within) #2025-salary-change-employees-v2 .legend-item,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="negative"]:focus-within) #2025-salary-change-employees-v2 .slice,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="negative"]:focus-within) #2025-salary-change-employees-v2 .value-labels-inner,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="neutral"]:focus-within) #2025-salary-change-employees-v2 .legend-item,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="neutral"]:focus-within) #2025-salary-change-employees-v2 .slice,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="neutral"]:focus-within) #2025-salary-change-employees-v2 .value-labels-inner,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="positive"]:focus-within) #2025-salary-change-employees-v2 .legend-item,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="positive"]:focus-within) #2025-salary-change-employees-v2 .slice,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="positive"]:focus-within) #2025-salary-change-employees-v2 .value-labels-inner {
-          opacity: 0.4;
-        }
-
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="negative"]:hover) #2025-salary-change-employees-v2 .legend-item[data-series="negative"],
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="negative"]:hover) #2025-salary-change-employees-v2 .slice.negative,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="negative"]:hover) #2025-salary-change-employees-v2 .value-labels-inner[data-series="negative"],
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="neutral"]:hover) #2025-salary-change-employees-v2 .legend-item[data-series="neutral"],
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="neutral"]:hover) #2025-salary-change-employees-v2 .slice.neutral,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="neutral"]:hover) #2025-salary-change-employees-v2 .value-labels-inner[data-series="neutral"],
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="positive"]:hover) #2025-salary-change-employees-v2 .legend-item[data-series="positive"],
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="positive"]:hover) #2025-salary-change-employees-v2 .slice.positive,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="positive"]:hover) #2025-salary-change-employees-v2 .value-labels-inner[data-series="positive"],
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="negative"]:focus-within) #2025-salary-change-employees-v2 .legend-item[data-series="negative"],
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="negative"]:focus-within) #2025-salary-change-employees-v2 .slice.negative,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="negative"]:focus-within) #2025-salary-change-employees-v2 .value-labels-inner[data-series="negative"],
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="neutral"]:focus-within) #2025-salary-change-employees-v2 .legend-item[data-series="neutral"],
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="neutral"]:focus-within) #2025-salary-change-employees-v2 .slice.neutral,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="neutral"]:focus-within) #2025-salary-change-employees-v2 .value-labels-inner[data-series="neutral"],
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="positive"]:focus-within) #2025-salary-change-employees-v2 .legend-item[data-series="positive"],
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="positive"]:focus-within) #2025-salary-change-employees-v2 .slice.positive,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="positive"]:focus-within) #2025-salary-change-employees-v2 .value-labels-inner[data-series="positive"] {
-          opacity: 1;
-        }
-
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="negative"]:hover) #2025-salary-change-employees-v2 .legend-item[data-series="negative"] rect.legend-item-container,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="neutral"]:hover) #2025-salary-change-employees-v2 .legend-item[data-series="neutral"] rect.legend-item-container,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="positive"]:hover) #2025-salary-change-employees-v2 .legend-item[data-series="positive"] rect.legend-item-container,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="negative"]:focus-within) #2025-salary-change-employees-v2 .legend-item[data-series="negative"] rect.legend-item-container,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="neutral"]:focus-within) #2025-salary-change-employees-v2 .legend-item[data-series="neutral"] rect.legend-item-container,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="positive"]:focus-within) #2025-salary-change-employees-v2 .legend-item[data-series="positive"] rect.legend-item-container {
-          stroke: var(--color-text-dark);
-          stroke-width: 1.5;
-        }
-
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="negative"]:hover) #2025-salary-change-employees-v2 .slice.negative,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="neutral"]:hover) #2025-salary-change-employees-v2 .slice.neutral,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="positive"]:hover) #2025-salary-change-employees-v2 .slice.positive,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="negative"]:focus-within) #2025-salary-change-employees-v2 .slice.negative,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="neutral"]:focus-within) #2025-salary-change-employees-v2 .slice.neutral,
-        svg:has(#2025-salary-change-employees-v2 .legend-item[data-series="positive"]:focus-within) #2025-salary-change-employees-v2 .slice.positive {
+        #2025-salary-change-employees-v2 .slice:hover {
           fill-opacity: 1;
-          stroke-width: 3;
         }
       ]]>
     </style>
@@ -133,5 +75,79 @@
       <text font-size="14" class="value-labels-inner" data-series="neutral" text-anchor="middle"><tspan x="239" y="170">24.5%</tspan></text>
     </g>
   </g>
+
+  <script type="application/ecmascript"><![CDATA[
+    (function () {
+      var root = document.getElementById('2025-salary-change-employees-v2');
+      if (!root) {
+        return;
+      }
+
+      var legendItems = root.querySelectorAll('.legend-item[data-series]');
+      var slices = root.querySelectorAll('.slice');
+      var labels = root.querySelectorAll('.value-labels-inner[data-series]');
+
+      function clearActiveSeries() {
+        legendItems.forEach(function (item) {
+          item.style.removeProperty('opacity');
+          var container = item.querySelector('rect.legend-item-container');
+          if (container) {
+            container.style.removeProperty('stroke');
+            container.style.removeProperty('stroke-width');
+          }
+        });
+
+        slices.forEach(function (slice) {
+          slice.style.removeProperty('opacity');
+          slice.style.removeProperty('fill-opacity');
+          slice.style.removeProperty('stroke-width');
+        });
+
+        labels.forEach(function (label) {
+          label.style.removeProperty('opacity');
+        });
+      }
+
+      function setActiveSeries(series) {
+        legendItems.forEach(function (item) {
+          var isActive = item.getAttribute('data-series') === series;
+          item.style.opacity = isActive ? '1' : '0.4';
+
+          var container = item.querySelector('rect.legend-item-container');
+          if (container) {
+            container.style.stroke = isActive ? 'var(--color-text-dark)' : '';
+            container.style.strokeWidth = isActive ? '1.5' : '';
+          }
+        });
+
+        slices.forEach(function (slice) {
+          var isActive = slice.classList.contains(series);
+          slice.style.opacity = isActive ? '1' : '0.4';
+          slice.style.fillOpacity = isActive ? '1' : '0.4';
+          slice.style.strokeWidth = isActive ? '3' : '';
+        });
+
+        labels.forEach(function (label) {
+          label.style.opacity = label.getAttribute('data-series') === series ? '1' : '0.4';
+        });
+      }
+
+      legendItems.forEach(function (item) {
+        var series = item.getAttribute('data-series');
+
+        item.addEventListener('mouseenter', function () {
+          setActiveSeries(series);
+        });
+
+        item.addEventListener('mouseleave', clearActiveSeries);
+
+        item.addEventListener('focus', function () {
+          setActiveSeries(series);
+        });
+
+        item.addEventListener('blur', clearActiveSeries);
+      });
+    }());
+  ]]></script>
 
 </svg>
