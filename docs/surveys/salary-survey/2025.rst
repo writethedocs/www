@@ -4677,7 +4677,7 @@ Location
 
    |icon-question|
 
-   **Please enter your country, state or province (if applicable), and town or city.** While most questions in this section are optional, general geographical location is not - this is because without it, we cannot calculate median salaries, which is the main objective of the survey. If you don't feel comfortable specifing your exact location, please enter the nearest large town or city. If the autofill does not include a state or province for your location, please enter N/A.
+   **Please enter your country, state or province (if applicable), and town or city.** While most questions in this section are optional, general geographical location is not - this is because without it, we cannot calculate median salaries, which is the main objective of the survey. If you don't feel comfortable specifying your exact location, please enter the nearest large town or city. If the autofill does not include a state or province for your location, please enter N/A.
 
    - Country
    - State/Province/Region
@@ -4872,7 +4872,7 @@ United States
    +------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
    | - Beaverton                                                                                                                                                            | 3   |       |
    +------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
-   | - Boring, Hillsboro, Remote                                                                                                                                            | 1   |       |
+   | - Boring, Hillsboro                                                                                                                                                    | 1   |       |
    +------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
    | Colorado                                                                                                                                                               | 11  | 1.5%  |
    +------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
