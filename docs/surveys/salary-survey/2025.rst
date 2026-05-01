@@ -109,40 +109,32 @@
 
 .. _top_2025:
 
-****************************************
-Documentation Salary Survey 2025 Results
-****************************************
+*****************************************
+Documentation Salary Survey: 2025 Results
+*****************************************
 
 Introduction
 ============
 
-The Write the Docs Salary Survey for 2025 — our seventh annual survey — drew **755 responses from documentarians in 48 countries**. 
+The Write the Docs Salary Survey for 2025 — our seventh annual survey — drew 755 responses from documentarians in 48 countries.
 
-Repeat survey participants - 50% of the 2025 respondents - may have noticed that the survey form was shorter. The sections which were removed were those which had previously generated interesting and relevant results, but which - due to evolving workplace norms - no longer seemed relevant in 2025. In the interests of keeping the survey length manageable and the focus on factors that more directly affect salary, these sections were removed. They were:
+Thank you to everyone in the Write the Docs community who responded: to the 45% who had filled out the survey in a previous year, whose continued participation helps us track how salaries are evolving over time; and to the new respondents, who help us expand the survey's reach. Each response increases the overall value of the survey data, and we are grateful to everyone who took the time to share their information with us.
 
-1. **Work location**: In our first salary survey - 2019, before the pandemic - work location was a single question and over half of respondents worked from an on-site office location. By the time of the 2020 survey, after COVID-19 hit - "work from home" had become the norm for 87.7%, and new questions revealed how we felt about this shift. By 2022 there was already debate about whether so many questions about pandemic-related workplace changes were necessary, but the beginnings of "return to the office mandates" and the rise of hybrid working modes meant that we continued to discuss this into 2023. The 2024 results revealed trends and attitudes that were becoming predictable: most people worked remotely or hybrid, most people preferred these modes, and most peole affected by "return to office" mandates were not particularly happy about it. It also became apparent that this was the new normal, and keeping these questions in the survey was unlikely to reveal any new trends or changes. 
+Compared with 2024
+------------------
 
-2. **Employee benefits**: Write the Docs is a global community and the greatly varying labour laws and conditions around the world has made employee benefits a difficult area to survey. We experimented with several different question formats for benefits, but with no way to compare "like for like", there's no way to determine how benefits impact salary.   
+Median employee salaries by region rose in 2025 — the worldwide median from **$85,793** to **$93,759**, with the same upward trend in North America and Europe (see `Median salary by respondent region`_). Employee salary satisfaction fell from **71.8%** to **66.0%**, and overall job satisfaction from **71.3%** to **65.7%** (see `Employee satisfaction`_). The share of employees feeling less secure in their jobs rose from **21.9%** to **36.0%**, and the share not working at the time of the survey rose from **2.8%** to **4.9%** (see `Job changes`_).
 
-.. container:: note
+Stay in the loop
+-----------------
 
-   |icon-info|
+Sign up to the Write the Docs newsletter below to get updates about all things WTD, including the salary survey. If you are not already subscribed and would like to *only* receive survey announcements, submit the form with just the "Salary Survey Announcements" box checked.
 
-   .. rubric:: Compared with 2024
+.. raw:: html
 
-   Several year-over-year patterns emerged in the 2025 results. Median employee salaries by region were moderately higher in 2025, with increases worldwide, in North America, and in Europe. At the same time, employee salary satisfaction and overall satisfaction both declined, respondents were more likely to report feeling less secure in their jobs, and a larger share were not working at the time of the survey.
+   <details><summary>Write the Docs newsletter signup (click to expand)</summary>
 
-.. tip::
-
-   **In a hurry?** Jump straight to `Median salary`_ or `Median rates`_.
-
-.. container:: note
-
-   |icon-newsletter|
-
-   .. rubric:: Stay in the loop
-
-   Sign up to the Write the Docs newsletter to get updates about all things WTD, including the salary survey. If you are not already subscribed and would like to *only* receive survey announcements, submit this form with just the "Salary Survey Announcements" box checked.
+|icon-newsletter|
 
    .. raw:: html
 
@@ -173,18 +165,49 @@ Repeat survey participants - 50% of the 2025 respondents - may have noticed that
          </div>
          <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='TICKETLINK';ftypes[1]='url';fnames[2]='COMPANY';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
 
+.. raw:: html
+
+   </details>
+
+About this year's survey
+------------------------
+
+Repeat survey participants may have noticed that the survey form was shorter this year. For more information on what was removed and why, see the following section. 
+
+.. raw:: html
+
+   <details><summary>Changes to the survey form (click to expand)</summary>
+
+.. container:: info
+
+   |icon-info|
+
+   To keep the survey shorter and focused on factors that measurably affect salary, the following sections were removed:
+
+   1. **Team composition**: This section asked how respondents fit into teams and how much of their work time was focused on documentation. Responses varied widely, but with no consistent definitions for team structures or documentation-related tasks, the data could not be reliably related to salary.
+
+   2. **Work location**: This section tracked the dramatic shift to remote and hybrid work that occurred after 2019. In 2024 it was apparent that a new normal had emerged — most respondents work remotely or hybrid and prefer it that way — and further questions were unlikely to reveal new trends.
+
+   3. **Employee benefits**: Labour laws and benefits structures vary widely between countries — and in some cases between states — so responses from previous surveys couldn't be meaningfully compared. Without comparable data, there was no reliable way to determine how benefits affect salary.
+
+   4. **Pay transparency**: Previous surveys showed broad respondent support for pay transparency, with most uncertainty centring on local laws. Continuing to ask the same questions was unlikely to reveal new trends.
+
+.. raw:: html
+
+   </details>
+
 Feedback
 --------
 
 We're always keen to hear your thoughts on this survey, so that we can continue to develop and refine it - and if you have used the data to help negotiate a raise or evaluate an offer, we would love to know about it! Email us at support@writethedocs.org with your feedback, ideas and experiences.
+
+Here's some of our favourite comments from 2025:
 
 .. container:: text-carousel
 
    |icon-quote|
 
    .. rubric:: Your comments
-
-   Here's some of our favourite comments:
 
    .. pull-quote::
 
@@ -2283,7 +2306,7 @@ The general trend is for salaries to increase with years of experience. This tre
    +-----------------+-------+----------+----------+-----------+
    | Experience      | |N|   | |25|     | |50|     | |75|      |
    +=================+=======+==========+==========+===========+
-   | |1| 0-2 years   | 16    |          |  $85,250 |           |
+   | |1| 0-2 years   | 16    | --       |  $85,250 | --        |
    +-----------------+-------+----------+----------+-----------+
    | |2| 2-5 years   | 65    | $69,397  |  $86,400 | $110,000  |
    +-----------------+-------+----------+----------+-----------+
@@ -2308,7 +2331,7 @@ The general trend is for salaries to increase with years of experience. This tre
    +-----------------+-------+---------+---------+---------+
    | Experience      | |N|   | |25|    | |50|    | |75|    |
    +=================+=======+=========+=========+=========+
-   | |1| 0-2 years   | 13    |         | $65,550 |         |
+   | |1| 0-2 years   | 13    | --      | $65,550 | --      |
    +-----------------+-------+---------+---------+---------+
    | |2| 2-5 years   | 36    | $39,057 | $48,574 | $62,650 |
    +-----------------+-------+---------+---------+---------+
@@ -2316,9 +2339,9 @@ The general trend is for salaries to increase with years of experience. This tre
    +-----------------+-------+---------+---------+---------+
    | |4| 10-15 years | 33    | $59,870 | $74,759 | $90,370 |
    +-----------------+-------+---------+---------+---------+
-   | |5| 15-20 years | 16    |         | $78,836 |         |
+   | |5| 15-20 years | 16    | --      | $78,836 | --      |
    +-----------------+-------+---------+---------+---------+
-   | |6| 20+ years   | 19    |         | $79,090 |         |
+   | |6| 20+ years   | 19    | --      | $79,090 | --      |
    +-----------------+-------+---------+---------+---------+
 
 .. raw:: html
@@ -5268,7 +5291,7 @@ Europe, Canada and Australia
 Survey feedback
 ===============
 
-As in 2024, the survey included three questions about the survey itself.
+As in 2024, the survey included some questions about the survey itself.
 
 .. raw:: html
 
@@ -5293,7 +5316,7 @@ As in 2024, the survey included three questions about the survey itself.
 
    </details>
 
-Overall, respondents were strongly positive about the survey across all three dimensions. Negative responses were low in all categories: 1.6% felt the length was not appropriate, 0.3% felt the questions were not relevant, and 0.7% found the survey form and website not usable.
+45% of the respondents in 2025 were repeat participants. Overall, respondents were strongly positive about the survey.
 
 .. raw:: html
 

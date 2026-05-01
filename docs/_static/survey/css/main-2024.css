@@ -88,7 +88,7 @@ html {
   --font-serif: Domine, serif;
   --font-mono: Roberto Mono, monospace;
   --font-size-body: var(--font-size-1);
-  --font-size-h1: var(--font-size-5);
+  --font-size-h1: var(--font-size-7);
   --font-size-h2: var(--font-size-4);
   --font-size-h3: var(--font-size-3);
   --font-size-h4: var(--font-size-2);
@@ -255,9 +255,9 @@ h1,h2,h3,h4,h5 {
   line-height: var(--font-lineheight-1);
 }
 
-h1 { font-size: var(--font-size-h1); margin-top: 0; }
+h1 { font-size: var(--font-size-h1); margin-top: 0; margin-bottom: var(--size-10); border-bottom: 0px solid var(--stone-5); }
 h2 { font-size: var(--font-size-h2); }
-h3 { font-size: var(--font-size-h3); }
+h3 { font-size: var(--font-size-h3); margin-top: var(--size-8); }
 h4, h5 { font-size: var(--font-size-h4); }
 li p { margin: 0; }
 a { 
