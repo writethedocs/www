@@ -1896,7 +1896,7 @@ USD representation grew from 45.0% to 54.2%; Canadian dollar, Indian rupee, and 
    </div><div class="tab__content">
 
 .. table:: Currencies and exchange rates - employees (<1% representation)
-   :widths: 55 10 10 10 15
+   :widths: 55 10 10 25
    :name: tbl-2025-currencies-employees-additional
    :class: sortable col3center col4right
 
@@ -3632,7 +3632,7 @@ Contractor respondents were paid in 9 different currencies. To make comparisons 
 The contractor currency pool contracted significantly from 15 currencies to 9, with USD dominance rising from 59.6% to 73.8%. Most of the smaller currencies from 2024 — including GBP (7 respondents in 2024, down to 1), NIS, PLN, and DKK — either disappeared or were represented by a single respondent.
 
 .. table:: Currency and exchange rate
-   :widths: 70 15 15
+   :widths: 55 15 15 15
    :name: tbl-2025-currency-exchange-rate-contractors
    :class: sortable col3center col4right
 
