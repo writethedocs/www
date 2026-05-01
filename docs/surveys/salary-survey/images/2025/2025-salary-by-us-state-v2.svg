@@ -115,7 +115,13 @@
         'axis-labels': true,
         'gridlines': true,
         'value-labels-inner': true,
-        'value-labels-outer': true
+        'value-labels-outer': true,
+        'chart-color-1': true,
+        'chart-color-2': true,
+        'chart-color-3': true,
+        'chart-color-4': true,
+        'chart-color-5': true,
+        'chart-color-6': true
       };
 
       function firstSeriesClass(element) {
@@ -142,7 +148,7 @@
         return !!legendSeries(item);
       });
 
-      if (legendItems.length <= 1) {
+      if (legendItems.length === 0) {
         return;
       }
 
@@ -192,6 +198,27 @@
           series = firstSeriesClass(element);
         }
 
+        if (!series) {
+          var ancestor = element.parentElement;
+          while (ancestor && ancestor !== root && !series) {
+            if (ancestor.hasAttribute && ancestor.hasAttribute('data-series')) {
+              var ancestorDataSeries = ancestor.getAttribute('data-series');
+              if (seriesNames.indexOf(ancestorDataSeries) !== -1) {
+                series = ancestorDataSeries;
+                break;
+              }
+            }
+
+            var ancestorSeries = firstSeriesClass(ancestor);
+            if (ancestorSeries && seriesNames.indexOf(ancestorSeries) !== -1) {
+              series = ancestorSeries;
+              break;
+            }
+
+            ancestor = ancestor.parentElement;
+          }
+        }
+
         if (!series || seriesNames.indexOf(series) === -1) {
           return;
         }
@@ -218,6 +245,8 @@
       }
 
       function setActiveSeries(series) {
+        var isSingleSeries = seriesNames.length === 1;
+
         legendItems.forEach(function (item) {
           var isActive = item.getAttribute('data-series') === series;
           item.style.opacity = isActive ? '1' : '0.4';
@@ -232,7 +261,15 @@
         seriesNames.forEach(function (name) {
           var isActive = name === series;
           elementsBySeries[name].forEach(function (element) {
-            element.style.opacity = isActive ? '1' : '0.25';
+            if (isSingleSeries) {
+              element.style.fillOpacity = isActive ? '1' : '0.25';
+              element.style.strokeOpacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('opacity');
+            } else {
+              element.style.opacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('fill-opacity');
+              element.style.removeProperty('stroke-opacity');
+            }
           });
         });
       }

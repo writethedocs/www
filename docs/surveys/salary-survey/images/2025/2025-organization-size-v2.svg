@@ -8,7 +8,7 @@
     </style>
   </defs>
 
-  <g id="2025-organization-size-v2">
+  <g id="2025-organization-size-v2" data-color-count="1">
     <g class="chart-header">
       <g class="chart-title">
         <text x="20" y="35" class="title-text">Organization size</text>
@@ -19,7 +19,7 @@
         <g class="legend-row">
           <g class="legend-item">
             <rect class="legend-item-container" x="552" y="20" width="88"/>
-            <circle class="series-a" cx="565" cy="31"/>
+            <circle class="series-a chart-color-1" cx="565" cy="31"/>
             <text class="legend-label" x="573" y="35">Respondents</text>
           </g>
         </g>
@@ -60,21 +60,21 @@
             <text font-size="10"><tspan x="560" y="386">100,000+</tspan></text>
           </g>
 
-          <g class="bars">
+          <g class="bars chart-color-1 series-a">
             <!-- 1-10: 1.2% → top=362 -->
-            <rect class="series-a" x="71"  y="362" width="73" height="8"   rx="2"/>
+            <rect class="series-a chart-color-1" x="71"  y="362" width="73" height="8"   rx="2"/>
             <!-- 11-50: 4.9% → top=335 -->
-            <rect class="series-a" x="150" y="335" width="73" height="35"  rx="2"/>
+            <rect class="series-a chart-color-1" x="150" y="335" width="73" height="35"  rx="2"/>
             <!-- 51-100: 7.4% → top=318 -->
-            <rect class="series-a" x="229" y="318" width="72" height="52"  rx="2"/>
+            <rect class="series-a chart-color-1" x="229" y="318" width="72" height="52"  rx="2"/>
             <!-- 101-1,000: 34.4% → top=127 -->
-            <rect class="series-a" x="308" y="127" width="72" height="243" rx="2"/>
+            <rect class="series-a chart-color-1" x="308" y="127" width="72" height="243" rx="2"/>
             <!-- 1,001-10,000: 29.4% → top=162 -->
-            <rect class="series-a" x="387" y="162" width="72" height="208" rx="2"/>
+            <rect class="series-a chart-color-1" x="387" y="162" width="72" height="208" rx="2"/>
             <!-- 10,001-100,000: 14.4% → top=268 -->
-            <rect class="series-a" x="465" y="268" width="73" height="102" rx="2"/>
+            <rect class="series-a chart-color-1" x="465" y="268" width="73" height="102" rx="2"/>
             <!-- 100,000+: 8.3% → top=311 -->
-            <rect class="series-a" x="544" y="311" width="73" height="59"  rx="2"/>
+            <rect class="series-a chart-color-1" x="544" y="311" width="73" height="59"  rx="2"/>
           </g>
 
           <g class="value-labels">
@@ -89,4 +89,206 @@
     </g>
   </g>
 
+  <script type="application/ecmascript"><![CDATA[
+    (function () {
+      var root = document.querySelector('svg > g[id], g[id]');
+      if (!root) {
+        return;
+      }
+
+      var ignoredClasses = {
+        'legend-item-container': true,
+        'legend-label': true,
+        'legend-item': true,
+        'legend-row': true,
+        'slice': true,
+        'track': true,
+        'tracks': true,
+        'bars': true,
+        'data-series': true,
+        'series-lines': true,
+        'chart-area': true,
+        'chart-header': true,
+        'chart-title': true,
+        'axis-labels': true,
+        'gridlines': true,
+        'value-labels-inner': true,
+        'value-labels-outer': true,
+        'chart-color-1': true,
+        'chart-color-2': true,
+        'chart-color-3': true,
+        'chart-color-4': true,
+        'chart-color-5': true,
+        'chart-color-6': true
+      };
+
+      function firstSeriesClass(element) {
+        if (!element || !element.classList) {
+          return null;
+        }
+
+        for (var i = 0; i < element.classList.length; i += 1) {
+          var className = element.classList[i];
+          if (!ignoredClasses[className]) {
+            return className;
+          }
+        }
+
+        return null;
+      }
+
+      function legendSeries(item) {
+        var swatch = item.querySelector('circle[class], rect[class]:not(.legend-item-container), line[class], polyline[class], path[class], ellipse[class], polygon[class]');
+        return firstSeriesClass(swatch);
+      }
+
+      var legendItems = Array.prototype.slice.call(root.querySelectorAll('.legend-item')).filter(function (item) {
+        return !!legendSeries(item);
+      });
+
+      if (legendItems.length === 0) {
+        return;
+      }
+
+      var seriesNames = [];
+      legendItems.forEach(function (item) {
+        var series = legendSeries(item);
+        item.setAttribute('data-series', series);
+        if (!item.hasAttribute('tabindex')) {
+          item.setAttribute('tabindex', '0');
+        }
+        item.style.cursor = 'pointer';
+
+        var container = item.querySelector('rect.legend-item-container');
+        if (container) {
+          container.style.transition = 'opacity 160ms ease, stroke 160ms ease, stroke-width 160ms ease';
+        }
+
+        var label = item.querySelector('text.legend-label');
+        if (label) {
+          label.style.transition = 'opacity 160ms ease';
+        }
+
+        if (seriesNames.indexOf(series) === -1) {
+          seriesNames.push(series);
+        }
+      });
+
+      var elementsBySeries = {};
+      seriesNames.forEach(function (series) {
+        elementsBySeries[series] = [];
+      });
+
+      Array.prototype.forEach.call(root.querySelectorAll('*'), function (element) {
+        if (element.closest('.legend')) {
+          return;
+        }
+
+        var series = null;
+        if (element.hasAttribute && element.hasAttribute('data-series')) {
+          var dataSeries = element.getAttribute('data-series');
+          if (seriesNames.indexOf(dataSeries) !== -1) {
+            series = dataSeries;
+          }
+        }
+
+        if (!series) {
+          series = firstSeriesClass(element);
+        }
+
+        if (!series) {
+          var ancestor = element.parentElement;
+          while (ancestor && ancestor !== root && !series) {
+            if (ancestor.hasAttribute && ancestor.hasAttribute('data-series')) {
+              var ancestorDataSeries = ancestor.getAttribute('data-series');
+              if (seriesNames.indexOf(ancestorDataSeries) !== -1) {
+                series = ancestorDataSeries;
+                break;
+              }
+            }
+
+            var ancestorSeries = firstSeriesClass(ancestor);
+            if (ancestorSeries && seriesNames.indexOf(ancestorSeries) !== -1) {
+              series = ancestorSeries;
+              break;
+            }
+
+            ancestor = ancestor.parentElement;
+          }
+        }
+
+        if (!series || seriesNames.indexOf(series) === -1) {
+          return;
+        }
+
+        elementsBySeries[series].push(element);
+        element.style.transition = 'opacity 160ms ease, fill-opacity 160ms ease, stroke-opacity 160ms ease';
+      });
+
+      function clearActiveSeries() {
+        legendItems.forEach(function (item) {
+          item.style.removeProperty('opacity');
+          var container = item.querySelector('rect.legend-item-container');
+          if (container) {
+            container.style.removeProperty('stroke');
+            container.style.removeProperty('stroke-width');
+          }
+        });
+
+        seriesNames.forEach(function (series) {
+          elementsBySeries[series].forEach(function (element) {
+            element.style.removeProperty('opacity');
+            element.style.removeProperty('fill-opacity');
+            element.style.removeProperty('stroke-opacity');
+          });
+        });
+      }
+
+      function setActiveSeries(series) {
+        var isSingleSeries = seriesNames.length === 1;
+
+        legendItems.forEach(function (item) {
+          var isActive = item.getAttribute('data-series') === series;
+          item.style.opacity = isActive ? '1' : '0.4';
+
+          var container = item.querySelector('rect.legend-item-container');
+          if (container) {
+            container.style.stroke = isActive ? 'var(--color-text-dark)' : '';
+            container.style.strokeWidth = isActive ? '1.5' : '';
+          }
+        });
+
+        seriesNames.forEach(function (name) {
+          var isActive = name === series;
+          elementsBySeries[name].forEach(function (element) {
+            if (isSingleSeries) {
+              element.style.fillOpacity = isActive ? '1' : '0.25';
+              element.style.strokeOpacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('opacity');
+            } else {
+              element.style.opacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('fill-opacity');
+              element.style.removeProperty('stroke-opacity');
+            }
+          });
+        });
+      }
+
+      legendItems.forEach(function (item) {
+        var series = item.getAttribute('data-series');
+
+        item.addEventListener('mouseenter', function () {
+          setActiveSeries(series);
+        });
+
+        item.addEventListener('mouseleave', clearActiveSeries);
+
+        item.addEventListener('focus', function () {
+          setActiveSeries(series);
+        });
+
+        item.addEventListener('blur', clearActiveSeries);
+      });
+    }());
+  ]]></script>
 </svg>

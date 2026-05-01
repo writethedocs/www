@@ -21,7 +21,7 @@
     </filter>
   </defs>
 
-  <g id="2025-job-search-ec-contractor-v2">
+  <g id="2025-job-search-ec-contractor-v2" data-color-count="5">
     <g class="chart-header">
       <g class="chart-title">
         <text x="20" y="35" class="title-text">Job search status</text>
@@ -33,31 +33,31 @@
         <g class="legend-row">
           <g class="legend-item">
             <rect class="legend-item-container" x="317" y="20" width="149"/>
-            <circle class="open-offers" cx="330" cy="31"/>
+            <circle class="open-offers chart-color-1" cx="330" cy="31"/>
             <text class="legend-label" x="338" y="35">Not looking, open to offers</text>
           </g>
           <g class="legend-item">
             <rect class="legend-item-container" x="476" y="20" width="164"/>
-            <circle class="not-open" cx="489" cy="31"/>
+            <circle class="not-open chart-color-2" cx="489" cy="31"/>
             <text class="legend-label" x="497" y="35">Not looking, not open to offers</text>
           </g>
         </g>
         <g class="legend-row">
           <g class="legend-item">
             <rect class="legend-item-container" x="372" y="52" width="156"/>
-            <circle class="open-to-permanent" cx="385" cy="63"/>
+            <circle class="open-to-permanent chart-color-3" cx="385" cy="63"/>
             <text class="legend-label" x="393" y="67">Looking, open to permanent</text>
           </g>
           <g class="legend-item">
             <rect class="legend-item-container" x="538" y="52" width="102"/>
-            <circle class="actively-looking" cx="551" cy="63"/>
+            <circle class="actively-looking chart-color-4" cx="551" cy="63"/>
             <text class="legend-label" x="559" y="67">Actively looking</text>
           </g>
         </g>
         <g class="legend-row">
           <g class="legend-item">
             <rect class="legend-item-container" x="429" y="84" width="211"/>
-            <circle class="contracting-while-looking" cx="442" cy="95"/>
+            <circle class="contracting-while-looking chart-color-5" cx="442" cy="95"/>
             <text class="legend-label" x="450" y="99">Contracting while looking for permanent</text>
           </g>
         </g>
@@ -65,11 +65,11 @@
     </g>
 
     <g class="chart-area donut-chart scale-job-search-status" transform="translate(110 24)">
-      <path class="slice open-offers" d="M 220,90 A 150 150 0 0 1 247.6,387.4 L 231,299 A 60 60 0 0 0 220,180 Z"/>
-      <path class="slice not-open" d="M 247.6,387.4 A 150 150 0 0 1 70.6,226.2 L 160.3,234.5 A 60 60 0 0 0 231,299 Z"/>
-      <path class="slice open-to-permanent" d="M 70.6,226.2 A 150 150 0 0 1 118.9,129.1 L 179.6,195.7 A 60 60 0 0 0 160.3,234.5 Z"/>
-      <path class="slice actively-looking" d="M 118.9,129.1 A 150 150 0 0 1 192.4,92.6 L 209,181 A 60 60 0 0 0 179.6,195.7 Z"/>
-      <path class="slice contracting-while-looking" d="M 192.4,92.6 A 150 150 0 0 1 220,90 L 220,180 A 60 60 0 0 0 209,181 Z"/>
+      <path class="slice open-offers chart-color-1" d="M 220,90 A 150 150 0 0 1 247.6,387.4 L 231,299 A 60 60 0 0 0 220,180 Z"/>
+      <path class="slice not-open chart-color-2" d="M 247.6,387.4 A 150 150 0 0 1 70.6,226.2 L 160.3,234.5 A 60 60 0 0 0 231,299 Z"/>
+      <path class="slice open-to-permanent chart-color-3" d="M 70.6,226.2 A 150 150 0 0 1 118.9,129.1 L 179.6,195.7 A 60 60 0 0 0 160.3,234.5 Z"/>
+      <path class="slice actively-looking chart-color-4" d="M 118.9,129.1 A 150 150 0 0 1 192.4,92.6 L 209,181 A 60 60 0 0 0 179.6,195.7 Z"/>
+      <path class="slice contracting-while-looking chart-color-5" d="M 192.4,92.6 A 150 150 0 0 1 220,90 L 220,180 A 60 60 0 0 0 209,181 Z"/>
 
       <text text-anchor="middle" class="value-labels-inner"><tspan x="325" y="234">47.1%</tspan></text>
       <text text-anchor="middle" class="value-labels-inner"><tspan x="149" y="322">29.4%</tspan></text>
@@ -103,7 +103,13 @@
         'axis-labels': true,
         'gridlines': true,
         'value-labels-inner': true,
-        'value-labels-outer': true
+        'value-labels-outer': true,
+        'chart-color-1': true,
+        'chart-color-2': true,
+        'chart-color-3': true,
+        'chart-color-4': true,
+        'chart-color-5': true,
+        'chart-color-6': true
       };
 
       function firstSeriesClass(element) {
@@ -130,7 +136,7 @@
         return !!legendSeries(item);
       });
 
-      if (legendItems.length <= 1) {
+      if (legendItems.length === 0) {
         return;
       }
 
@@ -180,6 +186,27 @@
           series = firstSeriesClass(element);
         }
 
+        if (!series) {
+          var ancestor = element.parentElement;
+          while (ancestor && ancestor !== root && !series) {
+            if (ancestor.hasAttribute && ancestor.hasAttribute('data-series')) {
+              var ancestorDataSeries = ancestor.getAttribute('data-series');
+              if (seriesNames.indexOf(ancestorDataSeries) !== -1) {
+                series = ancestorDataSeries;
+                break;
+              }
+            }
+
+            var ancestorSeries = firstSeriesClass(ancestor);
+            if (ancestorSeries && seriesNames.indexOf(ancestorSeries) !== -1) {
+              series = ancestorSeries;
+              break;
+            }
+
+            ancestor = ancestor.parentElement;
+          }
+        }
+
         if (!series || seriesNames.indexOf(series) === -1) {
           return;
         }
@@ -206,6 +233,8 @@
       }
 
       function setActiveSeries(series) {
+        var isSingleSeries = seriesNames.length === 1;
+
         legendItems.forEach(function (item) {
           var isActive = item.getAttribute('data-series') === series;
           item.style.opacity = isActive ? '1' : '0.4';
@@ -220,7 +249,15 @@
         seriesNames.forEach(function (name) {
           var isActive = name === series;
           elementsBySeries[name].forEach(function (element) {
-            element.style.opacity = isActive ? '1' : '0.25';
+            if (isSingleSeries) {
+              element.style.fillOpacity = isActive ? '1' : '0.25';
+              element.style.strokeOpacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('opacity');
+            } else {
+              element.style.opacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('fill-opacity');
+              element.style.removeProperty('stroke-opacity');
+            }
           });
         });
       }

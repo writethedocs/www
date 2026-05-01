@@ -92,12 +92,52 @@
   --color-border: #D8DCDE;
   --color-donut-stroke: #FFFFFF;
 
-  --color-chart-1: #32BDFE;
-  --color-chart-2: #FEB732;
-  --color-chart-3: #98D029;
-  --color-chart-4: #E7704C;
-  --color-chart-5: #8A38F5; 
-  --color-chart-6: #F538D2;
+  --color-chart-1: #4565ff;
+  --color-chart-2: #0095ff;
+  --color-chart-3: #00aec6;
+  --color-chart-4: #00bc60;
+  --color-chart-5: #85bc00; 
+  --color-chart-6: #ffa600;
+
+  --color-chart-1-of-1: #4565ff;
+
+  --color-chart-1-of-2: #4565ff;
+  --color-chart-2-of-2: #ffa600;
+
+  --color-chart-1-of-3: #4565ff;
+  --color-chart-2-of-3: #00bc60;
+  --color-chart-3-of-3: #ffa600;
+
+  --color-chart-1-of-4: #4565ff;
+  --color-chart-2-of-4: #00aec6;  
+  --color-chart-3-of-4: #00bc60;
+  --color-chart-4-of-4: #ffa600;  
+
+  --color-chart-1-of-5: #4565ff;
+  --color-chart-2-of-5: #0095ff;
+  --color-chart-3-of-5: #00aec6;
+  --color-chart-4-of-5: #00bc60;
+  --color-chart-5-of-5: #ffa600;
+
+  --color-chart-1-of-6: #4565ff;
+  --color-chart-2-of-6: #0095ff;
+  --color-chart-3-of-6: #00aec6;
+  --color-chart-4-of-6: #00bc60;
+  --color-chart-5-of-6: #85bc00;
+  --color-chart-6-of-6: #ffa600;
+
+  --color-salary-range-band: #D6DEFF;
+  --color-salary-range-median: var(--color-chart-1-of-1);
+  --color-salary-state-bar: var(--color-chart-1-of-1);
+  --color-salary-state-median: var(--color-chart-6-of-6);
+  --color-gender-gap-men: var(--color-chart-1-of-2);
+  --color-gender-gap-women: var(--color-chart-2-of-2);
+  --color-salary-line-worldwide: var(--color-chart-1-of-3);
+  --color-salary-line-north-america: var(--color-chart-2-of-3);
+  --color-salary-line-europe: var(--color-chart-3-of-3);
+
+
+
 
   --color-satisfaction-very-unsatisfied: #C2255C;
   --color-satisfaction-unsatisfied: #E4774E;
@@ -167,12 +207,6 @@ text {
       }
       circle {
         r: 3;
-        &.chart-color-1 { fill: var(--color-chart-1); }
-        &.chart-color-2 { fill: var(--color-chart-2); }
-        &.chart-color-3 { fill: var(--color-chart-3); }
-        &.chart-color-4 { fill: var(--color-chart-4); }
-        &.chart-color-5 { fill: var(--color-chart-5); }
-        &.chart-color-6 { fill: var(--color-chart-6); }
       }
       text.legend-label {
         fill: var(--color-text-dark);
@@ -317,10 +351,10 @@ text {
 }
 
 .scale-gender-identity {
-  .woman { fill: var(--color-chart-1); }
-  .man { fill: var(--color-chart-2); }
-  .non-binary { fill: var(--color-chart-3); }
-  .not-specified { fill: var(--color-chart-4); }
+  .man { fill: var(--color-chart-1-of-4); }
+  .woman { fill: var(--color-chart-2-of-4); }
+  .non-binary { fill: var(--color-chart-3-of-4); }
+  .not-specified { fill: var(--color-chart-4-of-4); }
 }
 
 .scale-single-series {
@@ -328,14 +362,60 @@ text {
 }
 
 .scale-education-level {
-  .single { fill: var(--color-chart-1); }
-  .multiple { fill: var(--color-chart-2); }
+  .single { fill: var(--color-chart-1-of-2); }
+  .multiple { fill: var(--color-chart-2-of-2); }
 }
 
+[data-color-count="1"] {
+  --color-chart-slot-1: var(--color-chart-1-of-1);
+}
+
+[data-color-count="2"] {
+  --color-chart-slot-1: var(--color-chart-1-of-2);
+  --color-chart-slot-2: var(--color-chart-2-of-2);
+}
+
+[data-color-count="3"] {
+  --color-chart-slot-1: var(--color-chart-1-of-3);
+  --color-chart-slot-2: var(--color-chart-2-of-3);
+  --color-chart-slot-3: var(--color-chart-3-of-3);
+}
+
+[data-color-count="4"] {
+  --color-chart-slot-1: var(--color-chart-1-of-4);
+  --color-chart-slot-2: var(--color-chart-2-of-4);
+  --color-chart-slot-3: var(--color-chart-3-of-4);
+  --color-chart-slot-4: var(--color-chart-4-of-4);
+}
+
+[data-color-count="5"] {
+  --color-chart-slot-1: var(--color-chart-1-of-5);
+  --color-chart-slot-2: var(--color-chart-2-of-5);
+  --color-chart-slot-3: var(--color-chart-3-of-5);
+  --color-chart-slot-4: var(--color-chart-4-of-5);
+  --color-chart-slot-5: var(--color-chart-5-of-5);
+}
+
+[data-color-count="6"] {
+  --color-chart-slot-1: var(--color-chart-1-of-6);
+  --color-chart-slot-2: var(--color-chart-2-of-6);
+  --color-chart-slot-3: var(--color-chart-3-of-6);
+  --color-chart-slot-4: var(--color-chart-4-of-6);
+  --color-chart-slot-5: var(--color-chart-5-of-6);
+  --color-chart-slot-6: var(--color-chart-6-of-6);
+}
+
+.chart-color-1 { fill: var(--color-chart-slot-1); }
+.chart-color-2 { fill: var(--color-chart-slot-2); }
+.chart-color-3 { fill: var(--color-chart-slot-3); }
+.chart-color-4 { fill: var(--color-chart-slot-4); }
+.chart-color-5 { fill: var(--color-chart-slot-5); }
+.chart-color-6 { fill: var(--color-chart-slot-6); }
+
 .scale-employment-history {
-  .employees { fill: var(--color-series-a); }
-  .contractors { fill: var(--color-series-b); }
-  .employee-contractors { fill: var(--color-more); }
+  .employees { fill: var(--color-chart-1-of-3); }
+  .contractors { fill: var(--color-chart-2-of-3); }
+  .employee-contractors { fill: var(--color-chart-3-of-3); }
 }
 
 .scale-statement-bars {
@@ -351,33 +431,33 @@ text {
   path.worldwide,
   polyline.worldwide {
     fill: none;
-    stroke: var(--color-orange-dark);
+    stroke: var(--color-salary-line-worldwide);
   }
 
   circle.worldwide {
-    fill: var(--color-orange-dark);
+    fill: var(--color-salary-line-worldwide);
   }
 
   line.north-america,
   path.north-america,
   polyline.north-america {
     fill: none;
-    stroke: var(--color-blue-dark);
+    stroke: var(--color-salary-line-north-america);
   }
 
   circle.north-america {
-    fill: var(--color-blue-dark);
+    fill: var(--color-salary-line-north-america);
   }
 
   line.europe,
   path.europe,
   polyline.europe {
     fill: none;
-    stroke: var(--color-satisfaction-satisfied);
+    stroke: var(--color-salary-line-europe);
   }
 
   circle.europe {
-    fill: var(--color-satisfaction-satisfied);
+    fill: var(--color-salary-line-europe);
   }
 
 }
@@ -385,15 +465,15 @@ text {
 .scale-salary-range {
 
   .percentile-range {
-    fill: var(--color-blue-range);
+    fill: var(--color-salary-range-band);
   }
 
   line.median {
-    stroke: var(--color-blue-dark);
+    stroke: var(--color-salary-range-median);
   }
 
   circle.median-only {
-    fill: var(--color-blue-dark);
+    fill: var(--color-salary-range-median);
   }
 
 }
@@ -401,16 +481,16 @@ text {
 .scale-salary-state {
 
   .state-bar {
-    fill: var(--color-blue-dark);
+    fill: var(--color-salary-state-bar);
   }
 
   line.median {
-    stroke: var(--color-orange-dark);
+    stroke: var(--color-salary-state-median);
     stroke-dasharray: 6 3;
   }
 
   text.median {
-    fill: var(--color-orange-dark);
+    fill: var(--color-salary-state-median);
   }
 
 }
@@ -418,11 +498,11 @@ text {
 .scale-gender-gap {
 
   circle.women {
-    fill: var(--color-orange-dark);
+    fill: var(--color-gender-gap-women);
   }
 
   circle.men {
-    fill: var(--color-blue-dark);
+    fill: var(--color-gender-gap-men);
   }
 
   line.gap {
@@ -487,14 +567,21 @@ fill-opacity: 0.8;
 		fill: #FFF;
 	}
 
-	.bars {
-		fill: var(--color-series-a);
-		fill-opacity: 0.8;
-	}
+.bars {
+fill: var(--color-series-a);
+fill-opacity: 0.8;
+}
 
-	.bars path,
-	.bars rect {
-		transition: var(--transition);
+.bars.chart-color-1 { fill: var(--color-chart-slot-1); }
+.bars.chart-color-2 { fill: var(--color-chart-slot-2); }
+.bars.chart-color-3 { fill: var(--color-chart-slot-3); }
+.bars.chart-color-4 { fill: var(--color-chart-slot-4); }
+.bars.chart-color-5 { fill: var(--color-chart-slot-5); }
+.bars.chart-color-6 { fill: var(--color-chart-slot-6); }
+
+.bars path,
+.bars rect {
+transition: var(--transition);
 	}
 
 	.bars path:hover,

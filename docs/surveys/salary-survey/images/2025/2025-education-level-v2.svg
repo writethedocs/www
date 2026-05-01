@@ -10,7 +10,7 @@
     <clipPath id="clip-edu-postgrad"><rect x="488" y="196" width="126" height="198" rx="2"/></clipPath>
   </defs>
 
-  <g id="2025-education-level-v2">
+  <g id="2025-education-level-v2" data-color-count="2">
     <g class="chart-header">
       <g class="chart-title">
         <text x="20" y="35" class="title-text">Education level</text>
@@ -21,12 +21,12 @@
         <g class="legend-row">
           <g class="legend-item">
             <rect class="legend-item-container" x="503" y="20" width="55"/>
-            <circle class="single" cx="516" cy="31"/>
+            <circle class="single chart-color-1" cx="516" cy="31"/>
             <text class="legend-label" x="524" y="35">Single</text>
           </g>
           <g class="legend-item">
             <rect class="legend-item-container" x="568" y="20" width="72"/>
-            <circle class="multiple" cx="581" cy="31"/>
+            <circle class="multiple chart-color-2" cx="581" cy="31"/>
             <text class="legend-label" x="589" y="35">Multiple</text>
           </g>
         </g>
@@ -63,15 +63,15 @@
 					</g>
 
 <g class="bars">
-<rect class="single" x="74"  y="377" width="126" height="17"  rx="2"/>
-            <rect class="single" x="212" y="382" width="126" height="12"  rx="2"/>
+<rect class="single chart-color-1" x="74"  y="377" width="126" height="17"  rx="2"/>
+            <rect class="single chart-color-1" x="212" y="382" width="126" height="12"  rx="2"/>
             <g clip-path="url(#clip-edu-grad)">
-              <path class="single" d="M476 167H350V394H476V167Z"/>
-              <path class="multiple" d="M476 150H350V165H476V150Z"/>
+              <path class="single chart-color-1" d="M476 167H350V394H476V167Z"/>
+              <path class="multiple chart-color-2" d="M476 150H350V165H476V150Z"/>
             </g>
             <g clip-path="url(#clip-edu-postgrad)">
-              <path class="single" d="M614 219H488V394H614V219Z"/>
-              <path class="multiple" d="M614 196H488V217H614V196Z"/>
+              <path class="single chart-color-1" d="M614 219H488V394H614V219Z"/>
+              <path class="multiple chart-color-2" d="M614 196H488V217H614V196Z"/>
             </g>
 </g>
 
@@ -107,7 +107,13 @@
         'axis-labels': true,
         'gridlines': true,
         'value-labels-inner': true,
-        'value-labels-outer': true
+        'value-labels-outer': true,
+        'chart-color-1': true,
+        'chart-color-2': true,
+        'chart-color-3': true,
+        'chart-color-4': true,
+        'chart-color-5': true,
+        'chart-color-6': true
       };
 
       function firstSeriesClass(element) {
@@ -134,7 +140,7 @@
         return !!legendSeries(item);
       });
 
-      if (legendItems.length <= 1) {
+      if (legendItems.length === 0) {
         return;
       }
 
@@ -184,6 +190,27 @@
           series = firstSeriesClass(element);
         }
 
+        if (!series) {
+          var ancestor = element.parentElement;
+          while (ancestor && ancestor !== root && !series) {
+            if (ancestor.hasAttribute && ancestor.hasAttribute('data-series')) {
+              var ancestorDataSeries = ancestor.getAttribute('data-series');
+              if (seriesNames.indexOf(ancestorDataSeries) !== -1) {
+                series = ancestorDataSeries;
+                break;
+              }
+            }
+
+            var ancestorSeries = firstSeriesClass(ancestor);
+            if (ancestorSeries && seriesNames.indexOf(ancestorSeries) !== -1) {
+              series = ancestorSeries;
+              break;
+            }
+
+            ancestor = ancestor.parentElement;
+          }
+        }
+
         if (!series || seriesNames.indexOf(series) === -1) {
           return;
         }
@@ -210,6 +237,8 @@
       }
 
       function setActiveSeries(series) {
+        var isSingleSeries = seriesNames.length === 1;
+
         legendItems.forEach(function (item) {
           var isActive = item.getAttribute('data-series') === series;
           item.style.opacity = isActive ? '1' : '0.4';
@@ -224,7 +253,15 @@
         seriesNames.forEach(function (name) {
           var isActive = name === series;
           elementsBySeries[name].forEach(function (element) {
-            element.style.opacity = isActive ? '1' : '0.25';
+            if (isSingleSeries) {
+              element.style.fillOpacity = isActive ? '1' : '0.25';
+              element.style.strokeOpacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('opacity');
+            } else {
+              element.style.opacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('fill-opacity');
+              element.style.removeProperty('stroke-opacity');
+            }
           });
         });
       }

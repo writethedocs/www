@@ -2726,13 +2726,13 @@ Salaries generally increase with the size of the organization, with the highest 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Median salary (USD) by organization size" aria-describedby="figure_salary-by-org-size_desc" type="image/svg+xml" data="/_images/2025-salary-by-org-size.svg">
+      <object role="img" aria-label="Median salary (USD) by organization size" aria-describedby="figure_salary-by-org-size_desc" type="image/svg+xml" data="/_images/2025-salary-by-org-size-v2.svg">
          <p id="figure_salary-by-org-size_desc">Line chart showing how median salary increases with organization size, with separate lines for worldwide, North America, and Europe.</p>
       </object>
       <figcaption>Figure: Median salary (USD) by organization size</figcaption>
    </figure>
 
-.. figure:: images/2025/2025-salary-by-org-size.svg
+.. figure:: images/2025/2025-salary-by-org-size-v2.svg
    :class: hide
 
 Median salary by primary role category

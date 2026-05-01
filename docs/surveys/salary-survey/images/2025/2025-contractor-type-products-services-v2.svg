@@ -21,7 +21,7 @@
     </filter>
   </defs>
 
-  <g id="2025-contractor-type-products-services-v2">
+  <g id="2025-contractor-type-products-services-v2" data-color-count="4">
     <g class="chart-header">
       <g class="chart-title">
         <text x="20" y="35" class="title-text">Products and/or services provided</text>
@@ -32,22 +32,22 @@
         <g class="legend-row">
           <g class="legend-item">
             <rect class="legend-item-container" x="364" y="20" width="66"/>
-            <circle class="product" cx="377" cy="31"/>
+            <circle class="product chart-color-1" cx="377" cy="31"/>
             <text class="legend-label" x="385" y="35">Product</text>
           </g>
           <g class="legend-item">
             <rect class="legend-item-container" x="440" y="20" width="63"/>
-            <circle class="service" cx="453" cy="31"/>
+            <circle class="service chart-color-2" cx="453" cy="31"/>
             <text class="legend-label" x="461" y="35">Service</text>
           </g>
           <g class="legend-item">
             <rect class="legend-item-container" x="513" y="20" width="52"/>
-            <circle class="both" cx="526" cy="31"/>
+            <circle class="both chart-color-3" cx="526" cy="31"/>
             <text class="legend-label" x="534" y="35">Both</text>
           </g>
           <g class="legend-item">
             <rect class="legend-item-container" x="575" y="20" width="65"/>
-            <circle class="neither" cx="588" cy="31"/>
+            <circle class="neither chart-color-4" cx="588" cy="31"/>
             <text class="legend-label" x="596" y="35">Neither</text>
           </g>
         </g>
@@ -55,10 +55,10 @@
     </g>
 
     <g class="chart-area donut-chart scale-products-services" transform="translate(2 10)">
-      <path class="slice neither" d="M231.181 117.431 A150 150 0 1 1 238.819 352.610 L292.327 280.244 A60 60 0 1 0 289.273 186.172 Z"/>
-      <path class="slice service" d="M238.819 352.610 A150 150 0 0 1 194.924 162.784 L274.770 204.314 A60 60 0 0 0 292.327 280.244 Z"/>
-      <path class="slice both" d="M194.924 162.784 A150 150 0 0 1 222.826 125.049 L285.931 189.220 A60 60 0 0 0 274.770 204.314 Z"/>
-      <path class="slice product" d="M222.826 125.049 A150 150 0 0 1 231.181 117.431 L289.273 186.172 A60 60 0 0 0 285.931 189.220 Z"/>
+      <path class="slice neither chart-color-4" d="M231.181 117.431 A150 150 0 1 1 238.819 352.610 L292.327 280.244 A60 60 0 1 0 289.273 186.172 Z"/>
+      <path class="slice service chart-color-2" d="M238.819 352.610 A150 150 0 0 1 194.924 162.784 L274.770 204.314 A60 60 0 0 0 292.327 280.244 Z"/>
+      <path class="slice both chart-color-3" d="M194.924 162.784 A150 150 0 0 1 222.826 125.049 L285.931 189.220 A60 60 0 0 0 274.770 204.314 Z"/>
+      <path class="slice product chart-color-1" d="M222.826 125.049 A150 150 0 0 1 231.181 117.431 L289.273 186.172 A60 60 0 0 0 285.931 189.220 Z"/>
 
       <text class="value-labels-inner" text-anchor="middle"><tspan x="435" y="247">71.3%</tspan></text>
       <text class="value-labels-inner" text-anchor="middle"><tspan x="228" y="264">22.5%</tspan></text>
@@ -90,7 +90,13 @@
         'axis-labels': true,
         'gridlines': true,
         'value-labels-inner': true,
-        'value-labels-outer': true
+        'value-labels-outer': true,
+        'chart-color-1': true,
+        'chart-color-2': true,
+        'chart-color-3': true,
+        'chart-color-4': true,
+        'chart-color-5': true,
+        'chart-color-6': true
       };
 
       function firstSeriesClass(element) {
@@ -117,7 +123,7 @@
         return !!legendSeries(item);
       });
 
-      if (legendItems.length <= 1) {
+      if (legendItems.length === 0) {
         return;
       }
 
@@ -167,6 +173,27 @@
           series = firstSeriesClass(element);
         }
 
+        if (!series) {
+          var ancestor = element.parentElement;
+          while (ancestor && ancestor !== root && !series) {
+            if (ancestor.hasAttribute && ancestor.hasAttribute('data-series')) {
+              var ancestorDataSeries = ancestor.getAttribute('data-series');
+              if (seriesNames.indexOf(ancestorDataSeries) !== -1) {
+                series = ancestorDataSeries;
+                break;
+              }
+            }
+
+            var ancestorSeries = firstSeriesClass(ancestor);
+            if (ancestorSeries && seriesNames.indexOf(ancestorSeries) !== -1) {
+              series = ancestorSeries;
+              break;
+            }
+
+            ancestor = ancestor.parentElement;
+          }
+        }
+
         if (!series || seriesNames.indexOf(series) === -1) {
           return;
         }
@@ -193,6 +220,8 @@
       }
 
       function setActiveSeries(series) {
+        var isSingleSeries = seriesNames.length === 1;
+
         legendItems.forEach(function (item) {
           var isActive = item.getAttribute('data-series') === series;
           item.style.opacity = isActive ? '1' : '0.4';
@@ -207,7 +236,15 @@
         seriesNames.forEach(function (name) {
           var isActive = name === series;
           elementsBySeries[name].forEach(function (element) {
-            element.style.opacity = isActive ? '1' : '0.25';
+            if (isSingleSeries) {
+              element.style.fillOpacity = isActive ? '1' : '0.25';
+              element.style.strokeOpacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('opacity');
+            } else {
+              element.style.opacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('fill-opacity');
+              element.style.removeProperty('stroke-opacity');
+            }
           });
         });
       }

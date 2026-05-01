@@ -21,7 +21,7 @@
     </filter>
   </defs>
 
-  <g id="2025-contractor-type-contract-length-v2">
+  <g id="2025-contractor-type-contract-length-v2" data-color-count="5">
     <g class="chart-header">
       <g class="chart-title">
         <text x="20" y="35" class="title-text">Typical contract length</text>
@@ -32,29 +32,29 @@
         <g class="legend-row">
           <g class="legend-item">
             <rect class="legend-item-container" x="381" y="20" width="76"/>
-            <circle class="short-only" cx="394" cy="31"/>
+            <circle class="short-only chart-color-1" cx="394" cy="31"/>
             <text class="legend-label" x="402" y="35">Short only</text>
           </g>
           <g class="legend-item">
             <rect class="legend-item-container" x="467" y="20" width="89"/>
-            <circle class="medium-only" cx="480" cy="31"/>
+            <circle class="medium-only chart-color-2" cx="480" cy="31"/>
             <text class="legend-label" x="488" y="35">Medium only</text>
           </g>
           <g class="legend-item">
             <rect class="legend-item-container" x="566" y="20" width="74"/>
-            <circle class="long-only" cx="579" cy="31"/>
+            <circle class="long-only chart-color-3" cx="579" cy="31"/>
             <text class="legend-label" x="587" y="35">Long only</text>
           </g>
         </g>
         <g class="legend-row">
           <g class="legend-item">
             <rect class="legend-item-container" x="482" y="52" width="58"/>
-            <circle class="mixed" cx="495" cy="63"/>
+            <circle class="mixed chart-color-4" cx="495" cy="63"/>
             <text class="legend-label" x="503" y="67">Mixed</text>
           </g>
           <g class="legend-item">
             <rect class="legend-item-container" x="550" y="52" width="90"/>
-            <circle class="not-specified" cx="563" cy="63"/>
+            <circle class="not-specified chart-color-5" cx="563" cy="63"/>
             <text class="legend-label" x="571" y="67">Not specified</text>
           </g>
         </g>
@@ -62,11 +62,11 @@
     </g>
 
     <g class="chart-area donut-chart scale-contract-length" transform="translate(2 24)">
-      <path class="slice long-only" d="M231.181 117.431 A150 150 0 0 1 467.234 176.198 L383.694 209.679 A60 60 0 0 0 289.273 186.172 Z"/>
-      <path class="slice not-specified" d="M467.234 176.198 A150 150 0 0 1 350.223 380.345 L336.889 291.338 A60 60 0 0 0 383.694 209.679 Z"/>
-      <path class="slice mixed" d="M350.223 380.345 A150 150 0 0 1 179.655 254.223 L268.662 240.889 A60 60 0 0 0 336.889 291.338 Z"/>
-      <path class="slice short-only" d="M179.655 254.223 A150 150 0 0 1 194.924 162.784 L274.770 204.314 A60 60 0 0 0 268.662 240.889 Z"/>
-      <path class="slice medium-only" d="M194.924 162.784 A150 150 0 0 1 231.181 117.431 L289.273 186.172 A60 60 0 0 0 274.770 204.314 Z"/>
+      <path class="slice long-only chart-color-3" d="M231.181 117.431 A150 150 0 0 1 467.234 176.198 L383.694 209.679 A60 60 0 0 0 289.273 186.172 Z"/>
+      <path class="slice not-specified chart-color-5" d="M467.234 176.198 A150 150 0 0 1 350.223 380.345 L336.889 291.338 A60 60 0 0 0 383.694 209.679 Z"/>
+      <path class="slice mixed chart-color-4" d="M350.223 380.345 A150 150 0 0 1 179.655 254.223 L268.662 240.889 A60 60 0 0 0 336.889 291.338 Z"/>
+      <path class="slice short-only chart-color-1" d="M179.655 254.223 A150 150 0 0 1 194.924 162.784 L274.770 204.314 A60 60 0 0 0 268.662 240.889 Z"/>
+      <path class="slice medium-only chart-color-2" d="M194.924 162.784 A150 150 0 0 1 231.181 117.431 L289.273 186.172 A60 60 0 0 0 274.770 204.314 Z"/>
 
       <text class="value-labels-inner" text-anchor="middle"><tspan x="355" y="138">30.1%</tspan></text>
       <text class="value-labels-inner" text-anchor="middle"><tspan x="421" y="292">28.7%</tspan></text>
@@ -100,7 +100,13 @@
         'axis-labels': true,
         'gridlines': true,
         'value-labels-inner': true,
-        'value-labels-outer': true
+        'value-labels-outer': true,
+        'chart-color-1': true,
+        'chart-color-2': true,
+        'chart-color-3': true,
+        'chart-color-4': true,
+        'chart-color-5': true,
+        'chart-color-6': true
       };
 
       function firstSeriesClass(element) {
@@ -127,7 +133,7 @@
         return !!legendSeries(item);
       });
 
-      if (legendItems.length <= 1) {
+      if (legendItems.length === 0) {
         return;
       }
 
@@ -177,6 +183,27 @@
           series = firstSeriesClass(element);
         }
 
+        if (!series) {
+          var ancestor = element.parentElement;
+          while (ancestor && ancestor !== root && !series) {
+            if (ancestor.hasAttribute && ancestor.hasAttribute('data-series')) {
+              var ancestorDataSeries = ancestor.getAttribute('data-series');
+              if (seriesNames.indexOf(ancestorDataSeries) !== -1) {
+                series = ancestorDataSeries;
+                break;
+              }
+            }
+
+            var ancestorSeries = firstSeriesClass(ancestor);
+            if (ancestorSeries && seriesNames.indexOf(ancestorSeries) !== -1) {
+              series = ancestorSeries;
+              break;
+            }
+
+            ancestor = ancestor.parentElement;
+          }
+        }
+
         if (!series || seriesNames.indexOf(series) === -1) {
           return;
         }
@@ -203,6 +230,8 @@
       }
 
       function setActiveSeries(series) {
+        var isSingleSeries = seriesNames.length === 1;
+
         legendItems.forEach(function (item) {
           var isActive = item.getAttribute('data-series') === series;
           item.style.opacity = isActive ? '1' : '0.4';
@@ -217,7 +246,15 @@
         seriesNames.forEach(function (name) {
           var isActive = name === series;
           elementsBySeries[name].forEach(function (element) {
-            element.style.opacity = isActive ? '1' : '0.25';
+            if (isSingleSeries) {
+              element.style.fillOpacity = isActive ? '1' : '0.25';
+              element.style.strokeOpacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('opacity');
+            } else {
+              element.style.opacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('fill-opacity');
+              element.style.removeProperty('stroke-opacity');
+            }
           });
         });
       }

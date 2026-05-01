@@ -21,7 +21,7 @@
     </filter>
   </defs>
 
-  <g id="2025-contractor-preferred-term-v2">
+  <g id="2025-contractor-preferred-term-v2" data-color-count="4">
     <g class="chart-header">
       <g class="chart-title">
         <text x="20" y="35" class="title-text">Preferred term</text>
@@ -32,22 +32,22 @@
         <g class="legend-row">
           <g class="legend-item">
             <rect class="legend-item-container" x="301" y="20" width="79"/>
-            <circle class="contractor" cx="314" cy="31"/>
+            <circle class="contractor chart-color-1" cx="314" cy="31"/>
             <text class="legend-label" x="322" y="35">Contractor</text>
           </g>
           <g class="legend-item">
             <rect class="legend-item-container" x="390" y="20" width="95"/>
-            <circle class="self-employed" cx="403" cy="31"/>
+            <circle class="self-employed chart-color-2" cx="403" cy="31"/>
             <text class="legend-label" x="411" y="35">Self-employed</text>
           </g>
           <g class="legend-item">
             <rect class="legend-item-container" x="495" y="20" width="78"/>
-            <circle class="freelancer" cx="508" cy="31"/>
+            <circle class="freelancer chart-color-3" cx="508" cy="31"/>
             <text class="legend-label" x="516" y="35">Freelancer</text>
           </g>
           <g class="legend-item">
             <rect class="legend-item-container" x="583" y="20" width="57"/>
-            <circle class="other" cx="596" cy="31"/>
+            <circle class="other chart-color-4" cx="596" cy="31"/>
             <text class="legend-label" x="604" y="35">Other</text>
           </g>
         </g>
@@ -55,10 +55,10 @@
     </g>
 
     <g class="chart-area donut-chart scale-preferred-term" transform="translate(2 10)">
-      <path class="slice contractor" d="M231.181 117.431 A150 150 0 1 1 258.784 365.076 L300.314 285.230 A60 60 0 1 0 289.273 186.172 Z"/>
-      <path class="slice self-employed" d="M258.784 365.076 A150 150 0 0 1 184.958 277.156 L270.783 250.062 A60 60 0 0 0 300.314 285.230 Z"/>
-      <path class="slice freelancer" d="M184.958 277.156 A150 150 0 0 1 189.721 173.873 L272.688 208.749 A60 60 0 0 0 270.783 250.062 Z"/>
-      <path class="slice other" d="M189.721 173.873 A150 150 0 0 1 231.181 117.431 L289.273 186.172 A60 60 0 0 0 272.688 208.749 Z"/>
+      <path class="slice contractor chart-color-1" d="M231.181 117.431 A150 150 0 1 1 258.784 365.076 L300.314 285.230 A60 60 0 1 0 289.273 186.172 Z"/>
+      <path class="slice self-employed chart-color-2" d="M258.784 365.076 A150 150 0 0 1 184.958 277.156 L270.783 250.062 A60 60 0 0 0 300.314 285.230 Z"/>
+      <path class="slice freelancer chart-color-3" d="M184.958 277.156 A150 150 0 0 1 189.721 173.873 L272.688 208.749 A60 60 0 0 0 270.783 250.062 Z"/>
+      <path class="slice other chart-color-4" d="M189.721 173.873 A150 150 0 0 1 231.181 117.431 L289.273 186.172 A60 60 0 0 0 272.688 208.749 Z"/>
 
       <text class="value-labels-inner" text-anchor="middle"><tspan x="435" y="230">68.8%</tspan></text>
       <text class="value-labels-inner" text-anchor="middle"><tspan x="245" y="305">12.5%</tspan></text>
@@ -91,7 +91,13 @@
         'axis-labels': true,
         'gridlines': true,
         'value-labels-inner': true,
-        'value-labels-outer': true
+        'value-labels-outer': true,
+        'chart-color-1': true,
+        'chart-color-2': true,
+        'chart-color-3': true,
+        'chart-color-4': true,
+        'chart-color-5': true,
+        'chart-color-6': true
       };
 
       function firstSeriesClass(element) {
@@ -118,7 +124,7 @@
         return !!legendSeries(item);
       });
 
-      if (legendItems.length <= 1) {
+      if (legendItems.length === 0) {
         return;
       }
 
@@ -168,6 +174,27 @@
           series = firstSeriesClass(element);
         }
 
+        if (!series) {
+          var ancestor = element.parentElement;
+          while (ancestor && ancestor !== root && !series) {
+            if (ancestor.hasAttribute && ancestor.hasAttribute('data-series')) {
+              var ancestorDataSeries = ancestor.getAttribute('data-series');
+              if (seriesNames.indexOf(ancestorDataSeries) !== -1) {
+                series = ancestorDataSeries;
+                break;
+              }
+            }
+
+            var ancestorSeries = firstSeriesClass(ancestor);
+            if (ancestorSeries && seriesNames.indexOf(ancestorSeries) !== -1) {
+              series = ancestorSeries;
+              break;
+            }
+
+            ancestor = ancestor.parentElement;
+          }
+        }
+
         if (!series || seriesNames.indexOf(series) === -1) {
           return;
         }
@@ -194,6 +221,8 @@
       }
 
       function setActiveSeries(series) {
+        var isSingleSeries = seriesNames.length === 1;
+
         legendItems.forEach(function (item) {
           var isActive = item.getAttribute('data-series') === series;
           item.style.opacity = isActive ? '1' : '0.4';
@@ -208,7 +237,15 @@
         seriesNames.forEach(function (name) {
           var isActive = name === series;
           elementsBySeries[name].forEach(function (element) {
-            element.style.opacity = isActive ? '1' : '0.25';
+            if (isSingleSeries) {
+              element.style.fillOpacity = isActive ? '1' : '0.25';
+              element.style.strokeOpacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('opacity');
+            } else {
+              element.style.opacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('fill-opacity');
+              element.style.removeProperty('stroke-opacity');
+            }
           });
         });
       }

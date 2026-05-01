@@ -21,7 +21,7 @@
     </filter>
   </defs>
 
-  <g id="2025-gender-identity-v2">
+  <g id="2025-gender-identity-v2" data-color-count="4">
     <g class="chart-header">
       <g class="chart-title">
         <text x="20" y="35" class="title-text">Gender identity</text>
@@ -32,22 +32,22 @@
         <g class="legend-row">
           <g class="legend-item">
             <rect class="legend-item-container" x="290" y="20" width="51"/>
-            <circle class="man" cx="303" cy="31"/>
+            <circle class="man chart-color-1" cx="303" cy="31"/>
             <text class="legend-label" x="311" y="35">Man</text>
           </g>
           <g class="legend-item">
             <rect class="legend-item-container" x="351" y="20" width="65"/>
-            <circle class="woman" cx="364" cy="31"/>
+            <circle class="woman chart-color-2" cx="364" cy="31"/>
             <text class="legend-label" x="372" y="35">Woman</text>
           </g>
           <g class="legend-item">
             <rect class="legend-item-container" x="426" y="20" width="114"/>
-            <circle class="non-binary" cx="439" cy="31"/>
+            <circle class="non-binary chart-color-3" cx="439" cy="31"/>
             <text class="legend-label" x="447" y="35">Non-binary / other</text>
           </g>
           <g class="legend-item">
             <rect class="legend-item-container" x="550" y="20" width="90"/>
-            <circle class="not-specified" cx="563" cy="31"/>
+            <circle class="not-specified chart-color-4" cx="563" cy="31"/>
             <text class="legend-label" x="571" y="35">Not specified</text>
           </g>
         </g>
@@ -55,10 +55,10 @@
     </g>
 
     <g class="chart-area donut-chart scale-gender-identity" transform="translate(0 45)">
-      <path class="slice woman" d="M188.087 126.412C196 103.301 209.438 82.4715 227.232 65.7351C245.026 48.9988 266.639 36.8616 290.192 30.3786C313.744 23.8956 338.524 23.263 362.376 28.5358C386.229 33.8085 408.433 44.827 427.058 60.6336C445.683 76.4401 460.166 96.5564 469.248 119.234C478.33 141.911 481.736 166.464 479.17 190.757C476.604 215.05 468.143 238.349 454.524 258.629C440.904 278.908 422.538 295.555 401.021 307.121L358.408 227.848C367.015 223.222 374.362 216.563 379.81 208.451C385.258 200.34 388.642 191.02 389.668 181.302C390.695 171.585 389.333 161.764 385.7 152.693C382.067 143.622 376.274 135.575 368.824 129.252C361.374 122.93 352.492 118.522 342.951 116.413C333.41 114.304 323.498 114.557 314.077 117.151C304.656 119.744 296.01 124.599 288.893 131.294C281.775 137.988 276.4 146.32 273.235 155.565L188.087 126.412Z"/>
-      <path class="slice man" d="M401.021 307.121C377.782 319.613 351.659 325.754 325.288 324.925C298.918 324.097 273.232 316.327 250.823 302.4C228.415 288.474 210.076 268.883 197.657 245.605C185.238 222.327 179.178 196.185 180.09 169.817L270.036 172.927C269.672 183.474 272.095 193.931 277.063 203.242C282.031 212.553 289.366 220.389 298.33 225.96C307.293 231.53 317.567 234.638 328.115 234.97C338.663 235.301 349.112 232.845 358.408 227.848L401.021 307.121Z"/>
-      <path class="slice non-binary" d="M180.09 169.817C180.416 160.391 181.63 151.017 183.716 141.819L271.486 161.728C270.652 165.407 270.166 169.157 270.036 172.927L180.09 169.817Z"/>
-      <path class="slice not-specified" d="M183.716 141.819C184.898 136.609 186.357 131.466 188.087 126.412L273.235 155.565C272.543 157.587 271.959 159.644 271.486 161.728L183.716 141.819Z"/>
+      <path class="slice woman chart-color-2" d="M188.087 126.412C196 103.301 209.438 82.4715 227.232 65.7351C245.026 48.9988 266.639 36.8616 290.192 30.3786C313.744 23.8956 338.524 23.263 362.376 28.5358C386.229 33.8085 408.433 44.827 427.058 60.6336C445.683 76.4401 460.166 96.5564 469.248 119.234C478.33 141.911 481.736 166.464 479.17 190.757C476.604 215.05 468.143 238.349 454.524 258.629C440.904 278.908 422.538 295.555 401.021 307.121L358.408 227.848C367.015 223.222 374.362 216.563 379.81 208.451C385.258 200.34 388.642 191.02 389.668 181.302C390.695 171.585 389.333 161.764 385.7 152.693C382.067 143.622 376.274 135.575 368.824 129.252C361.374 122.93 352.492 118.522 342.951 116.413C333.41 114.304 323.498 114.557 314.077 117.151C304.656 119.744 296.01 124.599 288.893 131.294C281.775 137.988 276.4 146.32 273.235 155.565L188.087 126.412Z"/>
+      <path class="slice man chart-color-1" d="M401.021 307.121C377.782 319.613 351.659 325.754 325.288 324.925C298.918 324.097 273.232 316.327 250.823 302.4C228.415 288.474 210.076 268.883 197.657 245.605C185.238 222.327 179.178 196.185 180.09 169.817L270.036 172.927C269.672 183.474 272.095 193.931 277.063 203.242C282.031 212.553 289.366 220.389 298.33 225.96C307.293 231.53 317.567 234.638 328.115 234.97C338.663 235.301 349.112 232.845 358.408 227.848L401.021 307.121Z"/>
+      <path class="slice non-binary chart-color-3" d="M180.09 169.817C180.416 160.391 181.63 151.017 183.716 141.819L271.486 161.728C270.652 165.407 270.166 169.157 270.036 172.927L180.09 169.817Z"/>
+      <path class="slice not-specified chart-color-4" d="M183.716 141.819C184.898 136.609 186.357 131.466 188.087 126.412L273.235 155.565C272.543 157.587 271.959 159.644 271.486 161.728L183.716 141.819Z"/>
 
       <text font-size="14" class="value-labels-inner" text-anchor="middle"><tspan x="397" y="99">61.9%</tspan></text>
       <text font-size="14" class="value-labels-inner" text-anchor="middle"><tspan x="274" y="264">33.4%</tspan></text>
@@ -89,7 +89,13 @@
         'axis-labels': true,
         'gridlines': true,
         'value-labels-inner': true,
-        'value-labels-outer': true
+        'value-labels-outer': true,
+        'chart-color-1': true,
+        'chart-color-2': true,
+        'chart-color-3': true,
+        'chart-color-4': true,
+        'chart-color-5': true,
+        'chart-color-6': true
       };
 
       function firstSeriesClass(element) {
@@ -116,7 +122,7 @@
         return !!legendSeries(item);
       });
 
-      if (legendItems.length <= 1) {
+      if (legendItems.length === 0) {
         return;
       }
 
@@ -166,6 +172,27 @@
           series = firstSeriesClass(element);
         }
 
+        if (!series) {
+          var ancestor = element.parentElement;
+          while (ancestor && ancestor !== root && !series) {
+            if (ancestor.hasAttribute && ancestor.hasAttribute('data-series')) {
+              var ancestorDataSeries = ancestor.getAttribute('data-series');
+              if (seriesNames.indexOf(ancestorDataSeries) !== -1) {
+                series = ancestorDataSeries;
+                break;
+              }
+            }
+
+            var ancestorSeries = firstSeriesClass(ancestor);
+            if (ancestorSeries && seriesNames.indexOf(ancestorSeries) !== -1) {
+              series = ancestorSeries;
+              break;
+            }
+
+            ancestor = ancestor.parentElement;
+          }
+        }
+
         if (!series || seriesNames.indexOf(series) === -1) {
           return;
         }
@@ -192,6 +219,8 @@
       }
 
       function setActiveSeries(series) {
+        var isSingleSeries = seriesNames.length === 1;
+
         legendItems.forEach(function (item) {
           var isActive = item.getAttribute('data-series') === series;
           item.style.opacity = isActive ? '1' : '0.4';
@@ -206,7 +235,15 @@
         seriesNames.forEach(function (name) {
           var isActive = name === series;
           elementsBySeries[name].forEach(function (element) {
-            element.style.opacity = isActive ? '1' : '0.25';
+            if (isSingleSeries) {
+              element.style.fillOpacity = isActive ? '1' : '0.25';
+              element.style.strokeOpacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('opacity');
+            } else {
+              element.style.opacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('fill-opacity');
+              element.style.removeProperty('stroke-opacity');
+            }
           });
         });
       }
