@@ -122,6 +122,14 @@ Ryan splits his cerebral time between being tech writing, UXing, coding, and occ
 
 Heather is a Philadelphia-based writer with a rich background in computer science and technical communication. By day, she programs, builds tools for engineers, and crafts clear, user-friendly documentation. By night, she trades keystrokes for knitting needles, cross-stitch, and other forms of needle witchcraft.
 
+### Ravind Kumar (he/him)
+
+#### Virtual Coordinator
+
+![](/_static/img/speakers/ravind-kumar.jpg)
+
+Ravind is a senior technical writer at MinIO, based in New York. With a background in journalism and nearly a decade of experience writing across software and finance, he focuses on documentation toolchains and developer-facing content. He spoke at Write the Docs Portland 2025 about building (and embracing) docs-toolchain krakens, and is excited to support the virtual experience this year.
+
 ### Alicia Lewis (she/her)
 
 #### Welcome Wagon Coordinator
