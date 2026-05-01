@@ -5,11 +5,11 @@ few things that may help you plan for preparing and presenting your talk.
 - If you haven't spoken before, your time will likely be shorter than when you are practicing.
 - Make sure your slides are high contrast.
 - Include where you want people to find you (e.g., LinkedIn, Bluesky) so people can properly attribute your brilliance.
+- Live demos are certainly possible, but the risk of issues is high :slightly_smiling_face: , we usually recommend recording a demo in advance, and making sure you keep a recording as short as possible.
 
 If you want to get some of that sweet internet buzz for your talk, we use the #writethedocs hashtag throughout the event.
 
-Presentation Resources
-~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Presentation Resources
 
 Here are some great resources for new speakers:
 
@@ -18,8 +18,7 @@ Here are some great resources for new speakers:
 - `Public Speaking for the Terrified...errr, Passionate First Timer <https://sardoodle.substack.com/p/public-speaking-for-the-terrifiederrr>`__
 - `How to prepare a conference talk <http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/>`__
 
-Inclusive Language
-~~~~~~~~~~~~~~~~~~~
+.. rubric:: Inclusive Language
 
 - We strongly encourage all speakers to check and double-check their talks for any language that might be discriminatory or offensive.
 - This includes needlessly gendered language. **For example, we actively avoid using 'you guys'.**

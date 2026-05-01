@@ -57,8 +57,8 @@ We have so many people who are the only writer in their company that there's a c
 
 Some useful resources:
 
-* `Bootstrapping Docs at a Startup </videos/na/2017/bootstrapping-docs-at-a-startup-jesse-seldess/>`_ - Jesse Seldess, Write the Docs Portland 2017
-* `Where Do I Start: The Art and Practice of Documentation Triage </videos/portland/2018/where-do-i-start-the-art-and-practice-of-documentation-triage-neal-kaplan/>`_ - Neal Kaplan, Write the Docs Portland 2018
+* `Bootstrapping Docs at a Startup <https://www.youtube.com/watch?v=YLXNJXQyYoE>`_ - Jesse Seldess, Write the Docs Portland 2017
+* `Where Do I Start: The Art and Practice of Documentation Triage <https://www.youtube.com/watch?v=2EzIe-3LBwQ>`_ - Neal Kaplan, Write the Docs Portland 2018
 * `The Lone Writers Guide <https://github.com/San-Francisco-Write-The-Docs/lone-writers-guide>`_ - GitHub project. It's a work in progress, and they welcome contributions!
 
 --------------------------------------------------

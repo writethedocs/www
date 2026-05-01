@@ -219,7 +219,7 @@ Talks are around 30 minutes, with moderated 10 minute Q&A.
 {% endif %}
 * **Details**: :doc:`/conf/{{shortcode}}/{{year}}/speakers`
 
-{% if flaghasjobfair %}
+{% if flaghassponsorexpo %}
 
 Sponsor Expo
 ~~~~~~~~~~~~

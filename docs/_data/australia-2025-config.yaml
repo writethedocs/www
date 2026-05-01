@@ -198,7 +198,7 @@ flagcancelled: False
 flaghashike: False
 flaghasboat: False
 flaghaswritingday: False
-flaghasjobfair: False
+flaghassponsorexpo: False
 flaghasbadgeflair: False
 flaghaslightningtalks: True
 flagisvirtual: True

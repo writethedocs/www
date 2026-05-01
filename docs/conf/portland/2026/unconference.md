@@ -20,17 +20,47 @@ Everyone!
 
 **Date: {{ unconf.date }}**
 
-- Morning and afternoon sessions
-- Each session is 40 minutes in length
+- Each session is 35 minutes in length
+- Sessions will be scheduled in 4-6 time slots, with multiple sessions happening at the same time
+- Hosted in {{ about.unconfroom }}
+
+See the [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page for exact times.
+
+{% if unconf.url %}
+```{button-link} {{ unconf.url }}
+Sign up to Lead a Monday Unconference
+```
+{% endif %}
+
+### Sponsored by
+
+<p style="text-align: center; margin-top: 1em;">
+<a href="https://readme.com/?ref=writethedocs" style="border-bottom: none;"><img src="/_static/img/sponsors/readme.png" alt="ReadMe" style="max-width: 250px;"></a>
+</p>
+
+*The Unconference is sponsored by [ReadMe](https://readme.com/?ref=writethedocs).*
+
+## Sponsor Sessions in Martha's
+
+Stop by Martha's each morning from 10:00 AM to 12:00 PM for **free handcrafted espresso on Monday ☕** and **free handcrafted matcha on Tuesday 🍵**, plus sponsor-led discussions.
+
+- **Monday ☕ — free espresso:** Sponsor Session hosted by **[Promptless](https://promptless.ai/?ref=writethedocs)**
+  - 10:00 AM — Context Engineering for Agents with Manny Silva
+  - 10:45 AM — Docs as Code: Starting from Scratch with Mike Jang
+  - 11:30 AM — Docs Observability: Measure Less, Learn More with Mano Toth
+- **Tuesday 🍵 — free matcha:** Sponsor Session hosted by **[Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral)**
+  - 10:00 AM — Working Session: Evaluate current documentation + map out improvements
+  - 10:40 AM — Open Discussion: Workflows with agents
+  - 11:20 AM — Casual Conversation: Joyful task we never want to automate
+
+Martha's will be open to attendee sessions in the afternoon, along with the Library and Astoria rooms.
 
 ### Scheduling a Session
 
-- Sign up online one week prior to the conference (Monday morning sessions only).
+- [Sign up online]({{ unconf.url }}) one week prior to the conference (Monday morning sessions only).
 - Sign up for all sessions in-person anytime during the conference, Sunday through Tuesday.
 - During the conference, write the title and your name on a sticky note. Select a time slot and table number and place the note on the large schedule.
-- The online schedule will be available to view only during the conference. This will be updated regularly.
-
-Exact times to be posted on our [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page.
+- The [online schedule]({{ unconf.url }}) will be updated regularly during the conference.
 
 ## Leading a Session
 
@@ -59,7 +89,7 @@ These ideas were borrowed from Scott Berkun. Read more of his [post on Unconfere
 
 ## Attending a Session
 
-- View the Session Schedule. This will be posted online and in the Unconference room during the conference only.
+- View the [Session Schedule]({{ unconf.url }}). This will be posted online and in the Unconference room during the conference.
 - Find the table and have a seat. You can also join mid-session!
 - Listen or contribute to the discussion.
 - You're welcome to change sessions mid-slot! Please make sure you leave politely.

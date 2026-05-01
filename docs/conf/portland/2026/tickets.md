@@ -102,7 +102,7 @@ If you need to cancel your ticket because of fear of traveling internationally t
 
 {% if shirts and flaghasshirts %}
 
-<div class="ticket">
+<div class="ticket" id="official-conference-shirts">
   <h2>
     <strong>Official Conference Shirts</strong>
   </h2>

@@ -61,7 +61,7 @@ flaghasshirts: bool(required=False)
 
 flaghastour: bool(required=False)
 flaghasunconf: bool(required=False)
-flaghasjobfair: bool(required=False)
+flaghassponsorexpo: bool(required=False)
 flaghaslightningtalks: bool(required=False)
 flagrunofshow: bool(required=False)
 flaghashike: bool()
@@ -112,6 +112,7 @@ price-type:
 price2:
   price: str(required=False)
   half: str(required=False)
+  tickets: int(required=False)
 
 date-details:
   main: str()
@@ -147,6 +148,10 @@ sponsorship-details:
   job_fair: include('price2', required=False)
   lanyard: include('price2', required=False)
   writing_day: include('price2', required=False)
+  lightning_talks: include('price2', required=False)
+  opportunity_grants: include('price2', required=False)
+  extra_ticket: include('price2', required=False)
+  monitor_rental: include('price2', required=False)
 
 sponsors-details:
   media: list(include('sponsor-detail'), required=False)
@@ -174,6 +179,7 @@ about-details:
   summary: str(required=False)
   venue: str(required=False)
   venue_address: str(required=False)
+  venue_map_url: str(required=False)
   attendees: any(int(), str())
   mainroom: str(required=False)
   unconfroom: str(required=False)
@@ -211,6 +217,7 @@ unconf-details:
 writing_day-details:
   url: str(required=False)
   date: str(required=True)
+  project_deadline: str(required=False)
 
 hike-details:
   date: str(required=True)

@@ -1,8 +1,0 @@
-Sponsored workshop: Technical Writing for Accessibility
-=======================================================
-
-.. datatemplate-video::
-   :source: /_data/portland-2022-sessions.yaml
-   :template: videos/video-detail.html
-   :key: 11
-

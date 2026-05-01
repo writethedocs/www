@@ -1,4 +1,4 @@
-FROM python:3.9.22
+FROM python:3.12
 
 RUN mkdir /www
 WORKDIR /www
@@ -6,13 +6,13 @@ COPY . .
 
 # Update the Linux environment/Operating System
 RUN apt-get update
-RUN apt-get autoremove -y 
+RUN apt-get autoremove -y
 RUN apt-get autoclean -y
 RUN apt-get upgrade -y
 
-# Download the Python3 dependencies
-RUN python3 -m pip install --upgrade pip
-RUN python3 -m pip install -r requirements.txt
+# Install uv and project dependencies
+COPY --from=ghcr.io/astral-sh/uv:latest /uv /usr/local/bin/uv
+RUN uv sync --frozen
 
 WORKDIR /www/docs
 

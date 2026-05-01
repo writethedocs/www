@@ -3,17 +3,18 @@
         {% for meetup in meetups %}
         <dt class="meetup-listing-detail">
 
-            <a href="{% if meetup['page'] %}{{ meetup['page'] }}{% else %}http://www.meetup.com/{{ meetup['meetup'] }}/{% endif %}">
+            {% set group_url = meetup.get('website') or ('http://www.meetup.com/' + meetup['meetup'] + '/' if meetup.get('meetup') else None) %}
+            {% if group_url %}<a href="{{ group_url }}">{% endif %}
                 {% if meetup['city'] %}{{ meetup['city'] }}, {% endif -%}
                 {% if meetup['state'] %}{{ meetup|state_abbr }}, {% endif -%}
                 {{ meetup['country'] -}}
-            </a>
+            {% if group_url %}</a>{% endif %}
         </dt>
         {% if meetup.has_meta %}
         <dd>
           <dl class="meetup-listing-meta">
-            {# Alternative meetup link, we are already using the page as the site link #}
-            {% if meetup['page'] %}
+            {# Meetup.com link, shown only when the group has a separate website #}
+            {% if meetup.get('website') and meetup.get('meetup') %}
               <div>
                 More information on <a href="http://meetup.com/{{ meetup['meetup'] }}/">Meetup</a>
               </div>
@@ -33,6 +34,15 @@
                   {%- if not loop.last and loop.length > 2 -%}, {% endif -%}
                 {%- endfor %}
               </div>
+            {% endif %}
+
+            {# Other internet presence #}
+            {% if meetup['links'] %}
+              <ul>
+                {% for text, link in meetup['links'].items() %}
+                  <li><a href="{{ link }}">{{ text }}</a></li>
+                {% endfor %}
+              </ul>
             {% endif %}
 
             {# On twitter #}

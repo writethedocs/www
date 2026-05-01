@@ -33,9 +33,9 @@ The two biggest challenges were prioritizing feedback-based improvements without
 
 And of course, some WTD talks have covered user feedback too:
 
-* `CSAT - what’s that? </videos/na/2016/csat-what-s-that-betsy-roseberg/>`_
-* `Feedback handling, community wrangling, panhandling </videos/eu/2016/feedback-handling-community-wrangling-panhandling-chris-mills/>`_
-* `You have already succeeded 2.0 </videos/eu/2017/you-have-already-succeeded-design-critique-guidelines-make-feedback-easier-2-0-christy-lutz/>`_
+* `CSAT - what’s that? <https://www.youtube.com/watch?v=Nmx9_GZNZF8>`_
+* `Feedback handling, community wrangling, panhandling <https://www.youtube.com/watch?v=VabBD1MWdE8>`_
+* `You have already succeeded 2.0 <https://www.youtube.com/watch?v=DOuRgFP4NMQ>`_
 
 ------------------------------------
 Tips and tricks for producing videos

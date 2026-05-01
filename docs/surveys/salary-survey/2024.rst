@@ -2044,7 +2044,7 @@ Currency
 Employee respondents reported being paid in 33 different currencies. To make comparisons possible, all currencies were converted to USD using mid-market exchange rates, averaged for the whole of 2024.
 
 .. table:: Currencies and exchange rates - employees
-   :widths: 55 10 10 10 15
+   :widths: 55 15 15 15
    :name: tbl-2024-currencies-employees
    :class: sortable col3center col4right
 
@@ -3217,7 +3217,7 @@ Contract rates
 Contractor respondents were paid in 15 different currencies. To make comparisons possible, all currencies were converted to USD using mid-market exchange rates, averaged for the whole of 2024.
 
 .. table:: Currency and exchange rate
-   :widths: 70 15 15
+   :widths: 55 15 15 15
    :name: tbl-2024-currency-exchange-rate-contractors
    :class: sortable col3center col4right
 

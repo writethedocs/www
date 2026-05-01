@@ -249,6 +249,8 @@ Members
 
 - `Aaron Collier <https://github.com/CollierCZ>`__ (team lead)
 - `Alia Michaels <https://www.aliamm.com/>`__
+- Andrew Williams
+- `Felicity Brand <https://flicstar.com/>`__
 
 
 .. _sales-team:

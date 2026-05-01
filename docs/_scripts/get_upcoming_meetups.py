@@ -85,11 +85,7 @@ for yaml_file in yaml_files:
         # If no city, just use the country
         except KeyError:
             location = f"{data['country']}"
-        url_to_check = ''
-        if data['website'].startswith("https://www.meetup.com"):
-            url_to_check = data['website']
-        else:
-            url_to_check = f"https://www.meetup.com/{data['meetup']}/events"
+        url_to_check = f"https://www.meetup.com/{data['meetup']}/events"
         meetup_links.append({"location": location, "url": url_to_check})
 
 # Run the URL checks asynchronously

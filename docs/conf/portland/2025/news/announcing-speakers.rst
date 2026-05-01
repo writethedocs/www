@@ -42,7 +42,7 @@ Please ensure to arrange your travel only after buying a conference ticket.
 If you need additional information, we have a few resources to help you:
 
 * Visit our `Convince Your Manager page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/convince-your-manager/>`_ for assistance in making the case for attendance.
-* Purchase your tickets on our `Tickets page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_.
+* Purchase your tickets on our `Tickets page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_.
 * Plan your journey with our `Visiting {{city}} page <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/>`_.
 
 

@@ -114,7 +114,7 @@ methods, such as Slack, Discord, etc.
   * Building professional connections with other documentarians
 
 Bringing our project to Writing Day benefits us as a community. It gives us the opportunity to 
-improve our documentation and create a more inclusive project. Check out the `Call for Projects <https://www.writethedocs.org/conf/portland/2024/call-for-projects-writing-day>`_ for more information.
+improve our documentation and create a more inclusive project. Check out the `Call for Projects <https://www.writethedocs.org/conf/portland/2024/news/call-for-projects-writing-day>`_ for more information.
 
   Thanks in advance,
   [your name]

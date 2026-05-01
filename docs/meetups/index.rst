@@ -1,52 +1,25 @@
-Meetups
-=======
+Local and virtual community groups
+==================================
 
-**Write the Docs Meetups** allow for documentarians to get to know their 
-community better. Meetup events are a great way to network and stay up 
+Local and virtual community groups encourage Write the Docs enthusiasts to participate and connect with other
+documentarians outside of the conferences. These groups are a great way to network and stay up 
 to date with the documentation world.
 
-Meetup now supports virtual events along with in-person events. Virtual 
-events are a great opportunity to network with people in your local 
-community as well as anyone who attends from an overlapping time zone. 
-The events available at each Meetup depend on the organizer, their schedule,
-as well as the needs of their community.
+Each community group has its own unique style that varies based on the organizers and the locale it represents.
 
-Meetup organization
--------------------
+The most active group platform is Meetup, which supports in-person and virtual events. While not required, the majority
+of our community groups opt to use the Meetup platform. Many groups also create a LinkedIn page/group or other group
+specific social media to share their events.
 
-All of our meetups are organized by volunteers in their local communities.
-Each Meetup has its own unique style that varies based on the organizers and
-the locale it represents.
-
-We love volunteers! If you are interested in starting a new meetup group
-or volunteering with an existing group, here is how you can reach out:
-
-* `Start a new Meetup group <https://forms.gle/Jx9CniuwEcLrEYPJ7>`_
-* `Volunteer for an existing Meetup group <https://forms.gle/DG8FagKdNgAFtEb47>`_
-
-We have documentation available to support potential and existing organizers:
-
-.. toctree::
-   :maxdepth: 1
-
-   announcements
-   ../organizer-guide/meetups/starting
-   ../organizer-guide/meetups/faq-meetups
-   ../organizer-guide/meetups/sustainable-meetups
+.. note:: Community groups are run by volunteer organizers. The type and frequency of
+    events depend on the organizers, their schedule, as well as group engagement.
+    Learn more about organizing 
 
 Current meetups
----------------
+-----------------------
 
-Anyone is welcome to join a meetup in their local community. If no local 
-community currently exists you are more than welcome to join any meetup
-that works for your time zone that hosts virtual events.
-
-If your local community isn't listed here, let us know or `add it on GitHub <https://github.com/writethedocs/www/tree/main/docs/_data/meetups>`_. 
-We would love to add your group to our list of active meetups.
-
-.. note:: We are removing inactive Meetup groups from this page. For record 
-    keeping purposes we created a `Meetup group archive <inactive>`_ page. 
-    You can find a list of paused, inactive, and archived groups there. 
+Anyone is welcome to join a local or virtual Write the Docs community group. You're encouraged to attend
+events that work for your schedule and time zone.
 
 North America
 -------------
@@ -82,3 +55,28 @@ Africa
 .. meetup-listing::
     :region: Africa
 
+If your local community isn't listed here, let us know or `add it on GitHub <https://github.com/writethedocs/www/tree/main/docs/_data/meetups>`_. 
+We would love to add your group to our list of active meetups.
+
+.. note:: We are removing inactive Meetup groups from this page. For record 
+    keeping purposes we created a `Meetup group archive <inactive>`_ page. 
+    You can find a list of paused, inactive, and archived groups there. 
+
+Organize a community group
+--------------------------
+
+All of our community groups are locally or virtually organized by volunteers. If you are interested in starting a new community group
+or volunteering with an existing group, here is how you can reach out:
+
+* `Start a new Meetup group <https://forms.gle/Jx9CniuwEcLrEYPJ7>`_
+* `Volunteer for an existing Meetup group <https://forms.gle/DG8FagKdNgAFtEb47>`_
+
+We have documentation available to support potential and existing organizers:
+
+.. toctree::
+   :maxdepth: 1
+
+   announcements
+   ../organizer-guide/meetups/starting
+   ../organizer-guide/meetups/faq-meetups
+   ../organizer-guide/meetups/sustainable-meetups

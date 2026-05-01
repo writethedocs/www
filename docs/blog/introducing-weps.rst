@@ -86,5 +86,5 @@ the better the community will be for everyone.
 
 .. [#] A great read if you haven't already: https://www.jofreeman.com/joreen/tyranny.htm
  
-.. _many other projects: https://www.writethedocs.org/#join-the-community
+.. _many other projects: https://www.writethedocs.org/#connect-with-the-community
 .. _WEP0: https://github.com/writethedocs/weps/pull/1

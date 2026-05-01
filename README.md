@@ -14,56 +14,19 @@ All RST files are rendered with [Jinja](https://jinja.palletsprojects.com/), whi
 
 For conferences, see [the conference site documentation](https://www.writethedocs.org/organizer-guide/confs/website/).
 
-### Videos
-
-An even more fragile process that needs documenting and fixing. Note specifically `if year > 2023:` around line 134 of `docs/_ext/videos.py`.
-
-WIP (Work In Progress) Docs on how to do this:
-
-1. In `_data/<city>-<year>-sessions.yaml`, add a `youtubeId: 12345678901` key value pair to each talk. See also `_scripts/insert-video-ids.py`.
-
-2. Make sure the directory `videos/<city>/<year>` is included in the Video Archive `toctree` in `docs/videos/index.rst`.
-
-3. In the [virtual environment](#prerequisites-for-generating-the-docs-locally), switch to the `docs` directory and run `BUILD_VIDEOS=True make html`.
-
-4. Commit the *relevant* changed files:
-
-   * `docs/videos/index.rst`
-   * `_data/<city>-<year>-sessions.yaml`
-   * `docs/videos/<city>/<year>/*`
-
-5. If you want to preview locally:
-
-    1. Run `BUILD_VIDEOS=True make livehtml` and browse the new video pages at `http://127.0.0.1:8888`.
-
 ### Prerequisites for generating the docs locally
 
-1. Install `python 3.9.x` using your package manager, if not installed already. You'll probably need `root` privileges to do this.
+1. Install [uv](https://docs.astral.sh/uv/getting-started/installation/) (Python package manager).
 
-2. Generate a virtual environment for the WTD repo in the `venv` directory:
-
-    `virtualenv --python=/usr/bin/python3.9 venv`
-
-### Installing the project requirements
-
-1. Activate the virtual environment as per your operating system:
-
-    * On Linux-based systems, run `source venv/bin/activate`.
-    * On Windows using the Command Prompt, run `venv\Scripts\activate.bat`.
-    * On Windows using PowerShell, run `. venv\Scripts\activate.ps1`.
-    * On Windows using Git Bash, run `source venv\Scripts\activate`.
-
-    You'll need to do this every time you come back to the project.
-
-2. In the repository root directory (`www` by default), run `pip install -r requirements.txt` to install sphinx and other requirements.
+2. In the repository root directory (`www` by default), run `uv sync` to install Python 3.12 and all dependencies.
 
 ### Previewing the docs locally
 
 > Remember to activate the virtual environment using the appropriate command for your OS and Shell before running the following commands.
 
-1. In the `docs` directory, run `make livehtml` to view the docs on <http://127.0.0.1:8888/>.
+1. In the `docs` directory, run `uv run make livehtml` to view the docs on <http://127.0.0.1:8888/>.
 
-If you're not seeing new content in the local preview, run `make clean` to delete the generated files, then `make livehtml` to regenerate them.
+If you're not seeing new content in the local preview, run `make clean` to delete the generated files, then `uv run make livehtml` to regenerate them.
 
 The Write the Docs website is hosted on [Read the Docs](https://readthedocs.org/projects/writethedocs-www).
 
@@ -80,15 +43,6 @@ npm install -g sass
 ```
 sass --style=compressed docs/_static/conf/scss/main-2022.scss docs/_static/conf/css/main-2022.min.css
 ```
-
-### Deactivating venv
-
-After your work is complete, you can save resources by deactivating the
-virtual Python environment with the following command on Linux:
-
-`deactivate`
-
-If you have verified this command on Windows, we invite you to submit a PR to include that information here.
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/writethedocs/www.svg)](https://greenkeeper.io/)
 

@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/headers/2025/lightning-talks.jpg
+banner: _static/conf/images/headers/2026/lightning-talks.jpg
 ---
 
 # Call for Proposals
@@ -109,7 +109,7 @@ Make sure you read this entire page before putting your proposal together, and p
 - **Spoilers** – It's pretty normal not to want to include your main point in your abstract, but please make sure to highlight it for the selection committee!
 - **Research** – We don't need all talks to be about an entirely new topic, but if you're suggesting a talk that looks really similar to one that was given last year, demonstrate that you realize this and mention why yours is different.
 - **Tooling** – We're pretty serious about preferring talks about people, process or principles than talks about tooling. If you are submitting a proposal about tooling, tell us what makes this one special.
-- **Example proposal** – Check out our [example proposal](example-proposal) so you know what we expect to see in each field.
+- **Example proposal** – Check out our [example proposal](../example-proposal/) so you know what we expect to see in each field.
 
 ## Unsure about speaking?
 
@@ -141,7 +141,7 @@ If you already have a ticket, we will of course refund it - just drop us an emai
 
 ## Speaker logistics
 
-New for Portland, in 2026 we're showing a few pre-recorded talks with live Q&A from remote speakers for our conference on **{{date.short}}**.
+We're showing a few pre-recorded talks with live Q&A from remote speakers for our conference on **{{date.short}}**.
 
 - We'll accept a **maximum of two** pre-recorded talks, which will need to be uploaded around one month before the conference. Because there are only two slots, submitting a remote proposal does reduce the likeliehood of your talk being accepted.
 - All other talks will be delivered **in-person, on-stage, live in {{city}}**.
@@ -155,14 +155,14 @@ All Speakers must read, understand, and agree to our [Code of Conduct](/code-of-
 **{{cfp.ends}}**  
 Call for Proposal ends
 
+**{{cfp.notification}}**  
+We'll let you know whether your proposal was accepted, and ask for some supplementary information about you. Make sure to confirm your talk as soon as you get the email.
+
 **{{cfp.speaker_tickets_by}}**  
 Register for speaker ticket (with dietary preferences, hoodie size, etc.)
 
-**April 9, 2026**  
+**{{cfp.video_by}}**  
 Upload date for recorded talks (remote speakers)
-
-**{{cfp.notification}}**  
-We'll let you know whether your proposal was accepted, and ask for some supplementary information about you. Make sure to confirm your talk as soon as you get the email.
 
 **{{cfp.slides_by}}**  
 We'll ask for a copy of your slides so our human captioners can prepare for your talk
@@ -172,7 +172,7 @@ Folks start giving talks on stage!
 
 ## Example proposal
 
-Take a look at our [Example proposal](example-proposal), with additional guidance on the proposal format:
+Take a look at our [Example proposal](../example-proposal/), with additional guidance on the proposal format:
 
 ## Submit your proposal
 

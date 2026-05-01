@@ -1,6 +1,6 @@
 # Business plan
 
-Your business plan is the practical implementation of the [values](core-values.md) and [identity](business-identity.md)
+Your business plan is the practical implementation of the [values](../core-values/) and [identity](../business-identity/)
 
 ## Consider
 
@@ -12,10 +12,10 @@ Your business plan is the practical implementation of the [values](core-values.m
 
 #### Related
 
-[Core values > What sort of work do I want to do?](core-values.md#what-sort-of-work-do-i-want-to-do)
-[Core values > Where do I want to work?](core-values.md#where-do-i-want-to-work)
-[Business identity > What type of clients do I want?](business-identity.md#what-type-of-clients-do-i-want)
-[Finding work](find-work.md)
+[Core values > What sort of work do I want to do?](../core-values/#what-sort-of-work-do-i-want-to-do)
+[Core values > Where do I want to work?](../core-values/#where-do-i-want-to-work)
+[Business identity > What type of clients do I want?](../business-identity/#what-type-of-clients-do-i-want)
+[Finding work](../find-work/)
 
 ### What are my rates?
 
@@ -28,7 +28,7 @@ A range of factors contribute to your rates:
 
 #### Related
 
-[Cost estimate](cost-estimate.md)
+[Cost estimate](../cost-estimate/)
 
 ### What is my marketing plan?
 
@@ -39,7 +39,7 @@ A range of factors contribute to your rates:
 
 #### Related
 
-[Business identity > What type of clients do I want?](business-identity.md#what-type-of-clients-do-i-want)
+[Business identity > What type of clients do I want?](../business-identity/#what-type-of-clients-do-i-want)
 
 ### Where do I want to be in *X* years?
 
@@ -50,8 +50,8 @@ A range of factors contribute to your rates:
 
 #### Related
 
-[Core values > Why do I want to freelance?](core-values.md#why-do-i-want-to-freelance)
-[Core values > What is my key motivator?](core-values.md#what-is-my-key-motivator)
+[Core values > Why do I want to freelance?](../core-values/#why-do-i-want-to-freelance)
+[Core values > What is my key motivator?](../core-values/#what-is-my-key-motivator)
 
 ## Template
 

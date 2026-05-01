@@ -34,7 +34,7 @@ Want more information? Look no further than the [Writing Day page](https://www.w
 
 ### Project submissions are open
 
-Got an idea for a Writing Day project? Submit it by **April 22, 2026** so we can share it in a blog post and email with our attendees before the conference! And you're always more than welcome to bring a project the day of and announce it during the actual Writing Day.
+Got an idea for a Writing Day project? Submit it by **{{ writing_day.project_deadline }}** so we can share it in a blog post and email with our attendees before the conference! And you're always more than welcome to bring a project the day of and announce it during the actual Writing Day.
 
 <div class="announcement" style="background-color:white;">
     <div class="uk-container">

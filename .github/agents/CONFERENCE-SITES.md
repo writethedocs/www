@@ -50,8 +50,7 @@ docs/
 │
 ├── _ext/                           # Sphinx extensions
 │   ├── core.py                    # Core functionality
-│   ├── filters.py                 # Jinja filters
-│   └── videos.py                  # Video handling
+│   └── filters.py                 # Jinja filters
 │
 └── conf.py                         # Sphinx configuration
 
@@ -392,14 +391,14 @@ sponsors:
 #### Local Development
 ```bash
 # Install dependencies
-pip install -r requirements.txt
+uv sync
 
 # Build HTML
 cd docs
-make html
+uv run make html
 
 # Build with live reload
-make livehtml  # Opens on http://localhost:8888
+uv run make livehtml  # Opens on http://localhost:8888
 
 # View built site
 cd _build/html
@@ -408,10 +407,8 @@ python3 -m http.server 8888
 ```
 
 #### Common Build Commands
-- `make html` - Full build
+- `uv run make html` - Full build
 - `make clean` - Clean build artifacts
-- `BUILD_VIDEOS=True make html` - Build with video pages
-
 ### 9. Feature Flags
 
 Feature flags in config control what's displayed:
@@ -428,7 +425,7 @@ flaghasshirts: true       # Shirts available
 flagvideos: false         # Videos published
 flaghaslightningtalks: true
 flaghasunconf: true       # Unconference happening
-flaghasjobfair: true      # Job fair/sponsor expo
+flaghassponsorexpo: true   # Sponsor expo
 flaghasbadgeflair: true   # Badge flair available
 flaghaslivestream: false  # Livestream available
 flagpostconf: false       # Conference ended
@@ -457,12 +454,6 @@ flagcancelled: false      # Conference cancelled
 2. Update button links in config
 3. Add news post announcing changes
 4. Rebuild site
-
-#### Publishing Talk Videos
-1. Add `youtubeId` to sessions YAML
-2. Ensure videos directory in toctree
-3. Build with `BUILD_VIDEOS=True make html`
-4. Commit video pages and updated data
 
 #### Fixing Styling Issues
 1. Edit `docs/_static/conf/scss/main-[year].scss`
@@ -508,7 +499,7 @@ Examples:
 #### Config Values Not Showing
 - Verify config file name: `[city]-[year]-config.yaml`
 - Check YAML syntax (indentation matters)
-- Rebuild: `make clean && make html`
+- Rebuild: `make clean && uv run make html`
 
 #### News Posts Not Appearing
 - Check `.. post::` directive has date
@@ -559,7 +550,7 @@ sass main-2026.scss ../css/main-2026.min.css --style=compressed --no-source-map
 **Build site:**
 ```bash
 cd docs
-make html
+uv run make html
 ```
 
 **Test locally:**
@@ -579,7 +570,7 @@ When working on conference sites:
 3. **Find page files**: `docs/conf/[city]/[year]/`
 4. **Check template**: Look for `:template:` directive in RST
 5. **For styling**: Edit SCSS, compile to CSS, test in browser
-6. **For content**: Edit RST files, rebuild with `make html`
+6. **For content**: Edit RST files, rebuild with `uv run make html`
 7. **Always commit**: Both source files (SCSS/RST) and generated files (CSS/HTML)
 
 **Common Patterns:**

@@ -20,14 +20,8 @@ Attend a conference
 
 We have upcoming conferences around the world:
 
-   - :doc:`Portland 2026 </conf/portland/2026/index>`, May 3-5, **Portland, Oregon**
-
-Other conferences this year:
-
-   - :doc:`Portland 2025 </conf/portland/2025/index>`, May 4-6, **Portland, Oregon**
-   - :doc:`Kenya 2025 </conf/kenya/2025/index>`, June 7, 2025, **Nairobi, Kenya**
-   - :doc:`Berlin 2025 </conf/berlin/2025/index>`, October 27-28, **Berlin, Germany**
-   - *Cancelled:* :doc:`Australia 2025 </conf/australia/2025/index>`, November 20-21, **Virtual - AEDT**
+.. include:: /include/conf/current.rst
+   :start-after: current-conferences-list
 
 See all :doc:`our conferences </conf/index>` from past years.
 
@@ -52,8 +46,9 @@ Work with other documentarians.
 Learn from our resources
 ------------------------
 
-We have an ever-increasing set of talk videos, articles, links, and resources:
+We have an ever-increasing set of articles, links, and resources. Watch our talks on YouTube:
 
+* Watch past conference talks on our `YouTube channel <https://www.youtube.com/c/WritetheDocs>`_
 * Subscribe to our :doc:`newsletter and conference </newsletter>` mailing lists
 * Browse our :doc:`topic index </topics>`
 * Read the latest in our :doc:`blog </blog/index>`

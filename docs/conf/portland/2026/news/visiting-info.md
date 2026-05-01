@@ -17,7 +17,7 @@ We're just over three months out from the conference and want to share a few imp
 
 ## Visiting Portland page is live!
 
-Our [Visiting Portland](https://www.writethedocs.org/conf/portland/2026/visiting/) page has the latest updates. This year, we're excited to partner with two new hotels, and share even more delicious food and drink options. 
+Our [Visiting Portland](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/) page has the latest updates. This year, we're excited to partner with two new hotels, and share even more delicious food and drink options. 
 
 ### Hotel Recommendations
 
@@ -35,16 +35,16 @@ Both are close to the Pearl district and Powell's books, offer a nightly drink h
 
 Be sure to book through the links above to get the Write the Docs rates.
 
-View our [Visiting Portland](https://www.writethedocs.org/conf/portland/2026/visiting/) page for more information.
+View our [Visiting Portland](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/) page for more information.
 
-### Opportunity grant application closes February 5
+### Opportunity grant application closes {{ grants.ends }}
 
-The [Opportunity Grant](https://www.writethedocs.org/conf/portland/2026/opportunity-grants/) supports people who would otherwise not be able to attend the conference by covering ticket and/or other attendance costs. Applications are open to anyone who wants to attend Write the Docs. [Learn more at the website. ](https://www.writethedocs.org/conf/portland/2026/opportunity-grants/)
+The [Opportunity Grant](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/) supports people who would otherwise not be able to attend the conference by covering ticket and/or other attendance costs. Applications are open to anyone who wants to attend Write the Docs. [Learn more at the website. ](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/opportunity-grants/)
 
 
 ### Volunteer with Us!
 
-Interested in volunteering? It's a great way to get involved and help make the conference happen. We are approaching volunteer capacity, so complete the application today. [Visit the website for additional information. ](https://www.writethedocs.org/conf/portland/2026/volunteer/)
+Interested in volunteering? It's a great way to get involved and help make the conference happen. We are approaching volunteer capacity, so complete the application today. [Visit the website for additional information. ](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/volunteer/)
 
 ## Join our community of Sponsors
 Each year, we are grateful for the support of like-minded organizations that share our belief in a collaborative and welcoming community spirit, helping to make the conference a success.
@@ -60,7 +60,7 @@ Thanks to our current sponsors:
 
 
 
-Check out our [sponsorship prospectus](https://www.writethedocs.org/conf/portland/2026/sponsors/prospectus/) to learn more and join the community.
+Check out our [sponsorship prospectus](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/) to learn more and join the community.
 
 We look forward to an excellent year!
 

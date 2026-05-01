@@ -87,7 +87,7 @@ New this year are our `Quorum Meetups`_ which are virtual and targeting large ge
 
 .. _build your local or online communities: http://www.writethedocs.org/meetups/
 .. _starting: http://www.writethedocs.org/organizer-guide/meetups/starting/
-.. _Quorum Meetups: https://www.writethedocs.org/meetups/#current-meetups-quorum
+.. _Quorum Meetups: https://www.writethedocs.org/meetups/#current-meetups
 
 Code of Conduct transparency report
 -----------------------------------

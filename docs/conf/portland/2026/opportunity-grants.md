@@ -6,7 +6,7 @@ banner: _static/conf/images/headers/2026/tickets.jpg
 
 # Opportunity Grants
 
-The Grant program for Write the Docs Portland 2026 supports people who would otherwise not be able to attend the conference by covering ticket and/or attendance costs. 
+The Grant program for Write the Docs {{ city }} {{ year }} supports people who would otherwise not be able to attend the conference by covering ticket and/or attendance costs. 
 
 ## Eligibility
 
@@ -18,22 +18,24 @@ You are welcome to apply, even if you have received a grant before from our conf
 
 We prioritize applications based on the overall impact that granting an application will have on the applicant, the Write the Docs community, and the applicant’s wider community and country. However, there are no requirements for you to meet. In other words, if you’re unsure, please apply.
 
-Grant applicants, like all other participants in the Write the Docs community, are required to follow the [Code of Conduct](https://www.writethedocs.org/conf/portland/2026/code-of-conduct/).
+Grant applicants, like all other participants in the Write the Docs community, are required to follow the [Code of Conduct](/conf/{{shortcode}}/{{year}}/code-of-conduct/).
 
+{% if grants.url %}
 <div class="announcement" style="background-color:white;">
     <div class="uk-container">
     <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ grants.url }}">Apply for an Opportunity Grant</a>
     </div>
 </div>
+{% endif %}
 
 ## Schedule
 
-- **Now - {{ grants.ends }}:** Grant applications open
-- **February 13, 2026:** Grant recipients notified
+- **{% if grants.url %}Now{% else %}Soon{% endif %} - {{ grants.ends }}:** Grant applications open
+- **{{ grants.notification }}:** Grant recipients notified
 
 ## What is Covered
 
-**All grants include a free conference ticket.** This is the most common and possible grant for us to award. View our [ticket page](https://www.writethedocs.org/conf/portland/2026/tickets/) for what is included with a conference ticket.
+**All grants include a free conference ticket.** This is the most common and possible grant for us to award. View our [ticket page](/conf/{{shortcode}}/{{year}}/tickets/) for what is included with a conference ticket.
 
 We can assist with typical costs such as travel and accommodation, but you may request other costs you need covered to attend.
 
@@ -76,6 +78,10 @@ You do not have to tell us which underrepresented group(s) you belong to.
 
 ## Application
 
+{% if grants.url %}
 <iframe src="{{ grants.url }}?embedded=true" width="100%" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 You can also view [the application form]({{ grants.url }}) in its own page.
+{% else %}
+Grant applications are not yet open. Check back closer to the conference.
+{% endif %}

@@ -43,6 +43,14 @@ Useful skills for a technical writer
    useful-skills
    portfolios
 
+Job searching in the AI era
+---------------------------
+
+.. toctree::
+   :maxdepth: 2
+
+   job-search-ai-era
+
 Consulting and freelancing
 --------------------------
 

@@ -2,8 +2,9 @@
 template: 2026/index.html
 banner: _static/conf/images/headers/portland-2026-small-group.jpg
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-title: Home | Write the docs Portland 2026
 ---
+
+# Home | Write the Docs {{ name }} {{ year }}
 
 <div class="news-block">
 <div class="uk-container">

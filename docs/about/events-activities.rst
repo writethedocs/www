@@ -14,7 +14,8 @@ Conferences
 
 Our conferences create a time and a place for the global community of documentarians to share information, discuss ideas, and work together to improve the art and science of documentation.
 
-{% include "conf/current.rst" %}
+.. include:: /include/conf/current.rst
+   :start-after: current-conferences-list
 
 To see the whole list of conferences, see :doc:`Conferences </conf/index>` 
 

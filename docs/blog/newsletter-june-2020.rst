@@ -31,7 +31,7 @@ First, create a docs page that lists only the product links to docs topics. Then
 Types of docs and how to use them
 ---------------------------------
 
-Back in 2017, Daniele Procida gave an often cited talk, `The four kinds of documentation, and why you need to understand what they are </videos/eu/2017/the-four-kinds-of-documentation-and-why-you-need-to-understand-what-they-are-daniele-procida/>`__, written up into `this article <https://documentation.divio.com/>`__. Our community spent some time discussing the details of how to apply Danielel's type distinctions, with some help from Daniele himself. As a refresher, the four types are:
+Back in 2017, Daniele Procida gave an often cited talk, `The four kinds of documentation, and why you need to understand what they are <https://www.youtube.com/watch?v=p0PPtdRHG6M>`__, written up into `this article <https://documentation.divio.com/>`__. Our community spent some time discussing the details of how to apply Danielel's type distinctions, with some help from Daniele himself. As a refresher, the four types are:
 
 * Tutorials, or learning-oriented docs 
 * How-to guides, or problem-solving docs

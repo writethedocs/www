@@ -87,7 +87,7 @@ We strongly recommend that you `submit your Writing Day project in advance <http
 
 As usual, virtual walk-on projects are always welcome. All attendees always have the option to bring a project, sign up onsite, and announce it during Writing Day.
 
-If you need additional information to advocate for Writing Day in your community or organization, see the `Convince Your Community <https://www.writethedocs.org/conf/atlantic/{{year}}/convince-day-manager/#convince-your-community>`_ resource.
+If you need additional information to advocate for Writing Day in your community or organization, see the `Convince Your Community <https://www.writethedocs.org/conf/atlantic/{{year}}/convince-your-manager/#convince-your-community>`_ resource.
 
 Schedule
 --------

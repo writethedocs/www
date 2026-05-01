@@ -74,14 +74,6 @@ Janine is a documentation nerd up in Canada. She feels so lucky to help organize
 
 Jerome is a technical writer from Seattle and happy to be MC again at Write the Docs! He transitioned from education years ago and has experience working with organizations from open source, start ups, medium-sized companies, and consulting for large enterprises. He's typically busy spending time with his family, continuing ongoing fixes to their century home, and rotating through his numerous hobbies.
 
-### Kay Smoljak (she/her)
-
-#### Photographer
-
-![](/_static/img/2026/team/kay.png)
-
-Kay is an Australian web developer based in Athens, Greece. She accidentally became involved with the awesome Write the Docs community after the first EU conference in Budapest (2014) and now takes the official conference photos, as well as running the annual Salary Survey. She considers it a very happy accident indeed.
-
 ### Swapnil Ogale (he/him)
 
 #### Social Media Coordinator
@@ -129,6 +121,14 @@ Ryan splits his cerebral time between being tech writing, UXing, coding, and occ
 ![](/_static/img/2024/team/heather.jpg)
 
 Heather is a Philadelphia-based writer with a rich background in computer science and technical communication. By day, she programs, builds tools for engineers, and crafts clear, user-friendly documentation. By night, she trades keystrokes for knitting needles, cross-stitch, and other forms of needle witchcraft.
+
+### Ravind Kumar (he/him)
+
+#### Virtual Coordinator
+
+![](/_static/img/speakers/ravind-kumar.jpg)
+
+Ravind likes to tinker with things, and as a technical writer extends that to acting as a generalist in exploring the full infrastructure stack in pursuit of building documentation. His view on technical writing is you can't write about what you don't understand, and the path to understanding is in trying the thing. His primary hobbies are film photography and homebrewing, both resulting in an excess of chemicals and fermented things bubbling in his office closet.
 
 ### Alicia Lewis (she/her)
 
@@ -182,4 +182,4 @@ Kate is a process and documentation geek working remotely from coastal Maine. Sh
 
 You can further read descriptions of all the roles in our [Event Roles doc](https://www.writethedocs.org/organizer-guide/confs/event-roles/).
 
-Interested in being a part of the future team or volunteering? Email us at portland@writethedocs.org.
+Interested in being a part of the future team or volunteering? Email us at {{email}}.

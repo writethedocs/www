@@ -3,8 +3,12 @@ template: {{year}}/generic.html
 ---
 
 ```{eval-rst}
+{{city|title}} {{year}} Code of Conduct
+========================================
+
 .. include:: ../../../code-of-conduct.rst
-   :end-before: Portland conference Code of Conduct Team
+   :start-after: conference-include-body
+   :end-before: Portland Code of Conduct Team
 ```
 
 ```{eval-rst}

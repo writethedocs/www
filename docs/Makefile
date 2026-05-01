@@ -51,6 +51,7 @@ help:
 clean:
 	rm -rf $(BUILDDIR)/*
 
+html: SPHINXOPTS += -W --keep-going
 html:
 	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/html
 	@echo

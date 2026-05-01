@@ -24,10 +24,10 @@ buttons:
     #   link: /cfp
     - text: Buy a Ticket
       link: /tickets
-    - text: See the Speakers
-      link: /speakers
-    # - text: See the Schedule!
-    #   link: /schedule
+    #- text: See the Speakers
+    #  link: /speakers
+    - text: See the Schedule!
+      link: /schedule
     # - text: Attendee Guide
     #   link: /attendee-guide
     # - text: Watch the Live Stream
@@ -39,8 +39,8 @@ buttons:
   bottom:
     # - text: Welcome to our conference
     #   link: /news/welcome
-    - text: Sponsor us
-      link: /sponsors/prospectus
+    # - text: Sponsor us
+    #   link: /sponsors/prospectus
     # - text: Submit a Talk
     #   link: /cfp
     - text: Buy a Ticket!
@@ -49,8 +49,8 @@ buttons:
     #   link: /schedule
     # - text: See the Talks
     #   link: /speakers
-    # - text: Read the Guide
-    #   link: /attendee-guide
+    - text: Read the Guide
+      link: /attendee-guide
     # - text: Watch the Live Stream
     #   link: /livestream
     # - text: Browse the photos
@@ -79,12 +79,24 @@ tickets:
 sponsorship:
   second_draft:
     price: $3,000
+    tickets: 2
   publisher:
     price: $5,000
+    tickets: 4
   patron:
     price: $10,000
+    tickets: 6
   keystone:
     price: $15,000
+    tickets: 8
+  lightning_talks:
+    price: $3,500
+  opportunity_grants:
+    price: $2,000
+  extra_ticket:
+    price: $500
+  monitor_rental:
+    price: $500
 
 grants:
   url: "https://docs.google.com/forms/d/e/1FAIpQLSctdb3MT_MvB1x_o8iKKhp_xik8YXDLVCnnDT_tv2k2LPlrJg/viewform?usp=dialog"
@@ -122,25 +134,24 @@ date: # how do we handle these? human readable would be nice.
     summary: Kick off the conference with Writing Day and work with fellow documentarians on a project. Followed by the opening reception.
     icon: writing
     dotw: Sunday
-    writing_day_time: 9am-5pm
-    reception_time: 5-7pm
+    writing_day_time: 9 AM-5 PM
+    reception_time: 5-7 PM
   day_three:
     event: Conference Day 1
     date: May 4
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Monday
-    talk_time: 9am-5pm
-    unconference_time: 9:45am-5pm
-    social_time: 6:30pm-8:30pm
+    talk_time: 9 AM-5 PM
+    unconference_time: 9:45 AM-5 PM
+    social_time: 7-9 PM
     icon: conference
   day_four:
     event: Conference Day 2
     date: May 5
     summary: And the conference goes on! More talks and unconference today!
     dotw: Tuesday
-    talk_time: 9am-4pm
-    job_fair_time: 9am-12pm
-    unconference_time: 1:35pm-4pm
+    talk_time: 9 AM-4 PM
+    unconference_time: 9:45 AM-4 PM
     icon: conversation
   total_talk_days: 2
 
@@ -148,28 +159,33 @@ about:
   attendees: 400
   social_venue:  Jupiter NEXT, 900 E Burnside St (2nd floor)
   venue: Revolution Hall
-  venue_address: Revolution Hall, 1300 SE Stark St, Portland, Oregon 97214
+  venue_address: 1300 SE Stark St, Portland, Oregon 97214
+  venue_map_url: https://maps.app.goo.gl/Z38CyRjmUukr3eSL6
   photos: TBD
   mainroom: Main stage
-  unconfroom: Library & Astoria room (1st floor)
+  unconfroom: Martha's, Library & Astoria room (1st floor)
   projector_ratio: "16:9"
-  job_fair_room: Sponsor area
 
 cfp:
   url: "https://pretalx.com/wtd-portland-2026/cfp" # Open mid November, approx 12 weeks to submit
   ends: "January 19, 2026"                         # (Mon) 1 week, to review. It'll take a little longer to announce
   notification: "February 2, 2026"                 # (Mon) 8 weeks to write and prepare
   speaker_tickets_by: April 2, 2026               # (Mon) Approx 3 weeks before
-  slides_by: "April 20, 2026"                      # (Mon) 2 weeks before
-  preview: "TBD"                                  # Preview URL TODO
+  video_by: "April 9, 2026"                        # Upload date for recorded talks (remote speakers)
+  slides_by: "April 27, 2026"                      # (Mon) 2 weeks before
+  preview: "https://writethedocs-www--2552.org.readthedocs.build/conf/portland/2026/schedule/"
 
 unconf:
-  url: ""
+  url: "https://docs.google.com/spreadsheets/d/1eHLcr2C8om67M9qfYJHKg0MRxdwZYijqvsboeIRX3Fc/edit?gid=1637667081#gid=1637667081"
   date: "All day, Monday, May 4 and Tuesday, May 5"
+
+lightning_talks:
+  signup_url: "https://docs.google.com/forms/d/e/1FAIpQLSdeeMs_x9_6WPIl_ERai_3_5zkEBD7MrMK835igFY07zN156A/viewform"
 
 writing_day:
   url: "https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform?usp=header"
   date: Sunday, May 3, 9 AM - 5 PM
+  project_deadline: "April 22, 2026"
 
 volunteer:
   form_url: "https://docs.google.com/forms/d/e/1FAIpQLSeJvA3uhXDuFsl_kFYWyTyTIyYs6ItHMPspOVq_iSlIloFo6g/viewform?usp=sharing&ouid=109538527958730243648"
@@ -177,14 +193,34 @@ volunteer:
   schedule_signup_close: "March 27"
 
 hike:
-  date: Saturday, May 2, 2 PM
-  register_url: "https://ti.to/writethedocs/write-the-docs-portland-2026/with/k-pi4-g8s80"
+  date: Saturday, May 2
+  register_url: "https://ti.to/writethedocs/write-the-docs-portland-2026/with/hike-ticket"
 
 sponsors:
   keystone:
     - name: promptless
       link: https://promptless.ai/?ref=writethedocs
       brand: Promptless
+      text: |
+        <p>
+        Promptless is the AI agent that helps technical writers stay informed, move faster, and have more impact.
+        </p>
+
+        <p>
+        It ensures that you're never left out of the loop. Promptless follows your product and engineering team's work so you don't have to, reviewing every PR, Jira issue, and product question in Slack, and notifying you before docs go stale.
+        </p>
+
+        <p>
+        It adapts to your workflows, rather than forcing you to change them. Keep your existing docs hosting provider, framework, style guide, or Vale rules. Promptless auto-detects it all, with no migrations needed.
+        </p>
+
+        <p>
+        It drafts well-researched content for your review. Promptless includes citations for every code snippet or workflow that it documents, and will even browse your product and update your screenshots.
+        </p>
+
+        <p>
+        Join the growing number of writers using Promptless to stay ahead.
+        </p>
     - name: mintlify
       link: https://mintlify.com/?utm_source=writethedocs&utm_medium=referral
       brand: Mintlify
@@ -207,16 +243,39 @@ sponsors:
     - name: stainless
       link: https://www.stainless.com/?utm_source=write_the_docs&utm_medium=conference&utm_campaign=write_the_docs_2026
       brand: Stainless
+      text: |
+        <p>
+        Stainless provides a complete toolkit to build best-in-class interfaces for developers and agents.
+        </p>
+
+        <p>
+        Stainless generates robust and idiomatic SDKs, API and narrative docs, command line tools, MCP servers, skills, and more. Together, these tools provide everything you need to deliver both an incredible developer experience (DX) and a great agent experience (AX) that helps AI agents consistently and successfully integrate against your API.
+        </p>
+
+        <p>
+        Companies like Anthropic, Cloudflare, Google, and OpenAI trust Stainless to power developer and agent interfaces for their most critical products. Stainless SDKs for these customers are used in production by millions of developers every day.
+        </p>
+
+        <p>
+        Drawing on decades of experience building APIs at Stripe, Heroku, Twilio, OpenAI, Anthropic, and more, Stainless has condensed those hard-won lessons and best practices into powerful, flexible API development tools. Instead of hiring a full engineering team to build and maintain robust and polished developer and agent interfaces, your team can focus on the business logic that makes your API unique.
+        </p>
 
   patron:
     - name: gitbook
       link: https://www.gitbook.com/?ref=writethedocs
       brand: GitBook
-      text: "GitBook combines powerful docs with AI-powered search and insights to give technical teams a single source of truth for their knowledge.
-             Effortlessly create, surface and improve public and internal documentation that your users and teams will love. "
-    - name: waldium
-      link: https://www.waldium.com/?ref=writethedocs
-      brand: Waldium
+      text: |
+        <p>
+        GitBook is the AI-native documentation platform for teams who treat their docs as a product. It's built for the full documentation experience — from keeping content accurate and up-to-date, to making sure users always find what they need.
+        </p>
+
+        <p>
+        AI handles the heavy lifting behind the scenes, so your team spends less time maintaining docs and more time building. And when users land on your documentation, they get direct answers — not a search bar and a list of links to dig through.
+        </p>
+
+        <p>
+        The result is published documentation that stays current, adapts to your audience, and reflects the quality of the product it represents. For technical teams who know that great docs drive adoption, GitBook is the platform built to match that standard.
+        </p>
     - name: fern
       link: https://buildwithfern.com/?ref=writethedocs
       brand: Fern
@@ -238,7 +297,7 @@ sponsors:
     - name: google
       link: https://opensource.google/?ref=writethedocs
       brand: Google
-    - name: github
+    - name: github-new
       link: https://github.com/?ref=writethedocs
       brand: GitHub
     - name: readthedocs
@@ -250,10 +309,10 @@ sponsors:
 
 photos:
   default:
-    - _static/conf/images/headers/2025/grants.jpg
-    - _static/conf/images/headers/2025/unconference.jpg
-    - _static/conf/images/headers/2025/volunteer.jpg
-    - _static/conf/images/headers/2025/writing-day.jpg
+    - _static/conf/images/headers/2026/unconference.jpg
+    - _static/conf/images/headers/2026/volunteer.jpg
+    - _static/conf/images/headers/2026/writing-day.jpg
+    - _static/conf/images/headers/2026/tickets.jpg
   index:
     - _static/conf/images/pics/writing-day.jpg
     - _static/conf/images/pics/reg.jpg
@@ -265,11 +324,11 @@ flaghassponsors: True
 flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
-flagscheduleincomplete: True
+flagscheduleincomplete: False
 flagspeakersannounced: True
-flagrunofshow: False
-flaghasschedule: False
-flaghasshirts: False
+flagrunofshow: True
+flaghasschedule: True
+flaghasshirts: True
 flaglivestreaming: False
 flagvideos: False
 flagpostconf: False
@@ -280,7 +339,7 @@ flaghashike: True
 flaghasfood: True
 flaghaswritingday: True
 flaghaslightningtalks: True
-flaghasjobfair: True
+flaghassponsorexpo: True
 flaghasboat: False
 
 # Pages to be linked in January 2026

@@ -43,29 +43,22 @@ body h1 {
     font-family: $secondary-font-family;
 }
 
-body .page-content ul ul {
-    padding: 0;
-}
 body .page-content ul {
-    list-style: none;
-    padding: 0 0 20px 0;
+    padding-bottom: 1em;
+    padding-left: 1em;
     margin: 0;
 
     li {
-        color: copy-color;
-        padding-left: 1em;
-        text-indent: -.7em;
-
-        &:before {
-            content: "•  ";
-            color: $main-color;
-            padding-right: 10px;
-        }
+        color: $copy-color;
 
         p {
             display: inline;
         }
+        &::marker {
+            color: $main-color;
+        }
     }
+
 }
 
 body h2, body .page-content h2 {
@@ -258,11 +251,13 @@ body .page-content {
 
         &-item {
             display: flex;
+            align-items: flex-start;
             border-bottom: 1px solid #BEB2A0;
             padding-bottom: 10px;
             margin-bottom: 10px;
 
             .item-starting-time {
+                flex-shrink: 0;
                 width: 100px;
                 padding-right: 16px;
                 font-weight: $bold;
@@ -277,7 +272,8 @@ body .page-content {
             }
 
             .item-content {
-                max-width: 350px;
+                flex: 1;
+                text-align: left;
             }
         }
     }
@@ -1468,4 +1464,17 @@ body .page-banner {
     }
 }
 
+// MyST Markdown tables
+table {
+    .text-left {
+        text-align: left;
+    }
 
+    .text-center {
+        text-align: center;
+    }
+
+    .text-right {
+        text-align: right;
+    }
+}
