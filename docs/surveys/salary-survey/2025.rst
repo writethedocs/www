@@ -21,15 +21,15 @@
    <i class="fa-solid fa-mailbox-flag-up"></i>
 
 
-.. |25| replace:: :abbr:`25 (25th percentile - one quarter of all salaries were lower than this value)`:sup:`th`
+.. |25| replace:: :abbr:`25 (25th percentile — one quarter of all salaries were lower than this value)`:sup:`th`
 
 .. |25th| replace:: 25\ :sup:`th`
 
-.. |50| replace:: :abbr:`50 (50th percentile or median - half of all salaries were higher than this value, half were lower)`:sup:`th`
+.. |50| replace:: :abbr:`50 (50th percentile or median — half of all salaries were higher than this value, half were lower)`:sup:`th`
 
 .. |50th| replace:: 50\ :sup:`th`
 
-.. |75| replace:: :abbr:`75 (75th percentile - one quarter of all salaries were higher than this value)`:sup:`th`
+.. |75| replace:: :abbr:`75 (75th percentile — one quarter of all salaries were higher than this value)`:sup:`th`
 
 .. |75th| replace:: 75\ :sup:`th`
 
@@ -123,7 +123,7 @@ Thank you to everyone in the Write the Docs community who responded: to the 45% 
 Compared with 2024
 ------------------
 
-Median employee salaries by region rose in 2025 — the worldwide median from **$85,793** to **$93,759**, with the same upward trend in North America and Europe (see `Median salary by respondent region`_). Employee salary satisfaction fell from **71.8%** to **66.0%**, and overall job satisfaction from **71.3%** to **65.7%** (see `Employee satisfaction`_). The share of employees feeling less secure in their jobs rose from **21.9%** to **36.0%**, and the share not working at the time of the survey rose from **2.8%** to **4.9%** (see `Job changes`_).
+Median employee salaries by region rose in 2025 — the worldwide median from **$85,793** to **$93,759**, with the same upward trend in North America and Europe (see `Median salary by respondent region`_). Employee salary satisfaction fell from **71.8%** to **66.0%**, and overall job satisfaction from **71.3%** to **65.7%** (see `Employee satisfaction`_). The share of employees feeling less confident in their job security rose from **21.9%** to **36.0%**, and the share not working at the time of the survey rose from **2.8%** to **4.9%** (see `Job changes`_).
 
 Stay in the loop
 -----------------
@@ -199,7 +199,7 @@ Repeat survey participants may have noticed that the survey form was shorter thi
 Feedback
 --------
 
-We're always keen to hear your thoughts on this survey, so that we can continue to develop and refine it - and if you have used the data to help negotiate a raise or evaluate an offer, we would love to know about it! Email us at support@writethedocs.org with your feedback, ideas and experiences.
+We're always keen to hear your thoughts on this survey, so that we can continue to develop and refine it — and if you have used the data to help negotiate a raise or evaluate an offer, we would love to know about it! Email us at support@writethedocs.org with your feedback, ideas and experiences.
 
 Here's some of our favourite comments from 2025:
 
@@ -298,7 +298,7 @@ Basis of employment
 
    .. rubric:: Contractors, freelancers and self-employed people
 
-   We asked those who filled out the survey as independent contractors, freelancers or self-employed people their `preferred term`_ to describe their type of employment. The majority (68.8%) preferred the term “contractor”, with only 12.5% using “self-employed” and 11.2% using “freelancer”. In this report, we’ll use the term “contractors” to refer to this entire group.
+   We asked those who filled out the survey as independent contractors, freelancers or self-employed people their `preferred term`_ to describe their type of employment. The majority (68.8%) preferred the term "contractor", with only 12.5% using "self-employed" and 11.2% using "freelancer". In this report, we'll use the term "contractors" to refer to this entire group.
 
 Employees made up the majority of survey respondents in 2025 (675, or 89.4%). Contractors made up 6.1% (46 individuals) and those who had worked in both capacities made up 4.5% (34 individuals).
 
@@ -663,9 +663,9 @@ Role category
 
    Given that job titles and the responsibilities they entail vary widely, this question aimed to add context to the salary data by identifying the type of work being primarily performed.
 
-   We added the original version of this question - which asked respondents to broadly categorize their role into one of a limited set of options - in the second survey, in 2020. Starting in 2022, we allowed respondents to choose multiple role categories. This highlighted the breadth of talent in our community, but made comparing salaries more difficult.
+   We added the original version of this question — which asked respondents to broadly categorize their role into one of a limited set of options — in the second survey, in 2020. Starting in 2022, we allowed respondents to choose multiple role categories. This highlighted the breadth of talent in our community, but made comparing salaries more difficult.
 
-   After community consultation in 2024, we split this question into two parts - one for primary role category, and one for additional roles - and expanded the number of options.
+   After community consultation in 2024, we split this question into two parts — one for primary role category, and one for additional roles — and expanded the number of options.
 
 .. raw:: html
 
@@ -736,7 +736,7 @@ Additional role categories
 
 53 respondents (7.0%) chose only a primary role category. Of these, 48 listed "technical writer" as their primary role category, 2 selected "programmer-writer", and 1 each selected "project or product manager", "developer or engineer", and "editor".
 
-Of the respondents who selected additional role categories, the number chosen ranged from 1 (82 respondents) to 15 (1 respondent). The most popular count was 4 additional categories, chosen by 125 respondents. 10 or more additional categories were selected by 26 respondents.
+Of the respondents who selected additional role categories, the number chosen ranged from 1 (82 respondents) to 15 (1 respondent). The most common count was 4 additional categories, chosen by 125 respondents. 10 or more additional categories were selected by 26 respondents.
 
 .. raw:: html
 
@@ -977,13 +977,13 @@ Length of time in current role
 
    </details>
 
-A spike in respondents with new jobs first appeared in 2021, with 31.7% reporting that they had been in their current position at their current organization for less than a year. In 2022, this number peaked at 36.8% — when respondents with new jobs outstripped the number who had held their current position for medium or long terms. In 2023, the number of respondents with new jobs fell again, to 20.3% — lower than in 2020 although still well above the 9% reported in 2019. This trend has remained largely unchanged in 2024 (21.8%) and 2025 (20.6%).
+An elevated share of respondents with new jobs first appeared in 2021, with 31.7% reporting that they had been in their current position at their current organization for less than a year. In 2022, this number peaked at 36.8% — when respondents with new jobs outstripped the number who had held their current position for medium or long terms. In 2023, the number of respondents with new jobs fell again, to 20.3% — lower than in 2020 although still well above the 9% reported in 2019. This trend has remained largely unchanged in 2024 (21.8%) and 2025 (20.6%).
 
 .. raw:: html
 
    <div class="tab-wrap"><input type="radio" id="tabD963-1" name="tabGroupD963" class="tab" checked><label for="tabD963-1">Employees</label><input type="radio" id="tabD963-2" name="tabGroupD963" class="tab"><label for="tabD963-2">Contractors</label><div class="tab__content">
 
-.. table:: Length of time in current role - employees
+.. table:: Length of time in current role — employees
    :widths: 80 10 10
    :name: tbl-2025-length-of-time-in-current-role-employees
    :class: std3col sortable
@@ -1018,7 +1018,7 @@ A spike in respondents with new jobs first appeared in 2021, with 31.7% reportin
 
    </div><div class="tab__content">
 
-.. table:: Length of time contracting - contractors
+.. table:: Length of time contracting — contractors
    :widths: 80 10 10
    :name: tbl-2025-length-of-time-in-current-role-contractors
    :class: std3col sortable
@@ -1064,14 +1064,12 @@ This section explores the changes in employment experienced by respondents in th
 
    .. rubric:: Compared with 2024
 
-   The strongest year-over-year change in this section was in perceived job security. The share of employee respondents
-   who said they felt **less secure** in their job rose from **21.9%** in 2024 to **36.0%** in 2025, while the share
-   feeling their position was **more secure** fell from **26.6%** to **18.4%**. A larger share of employee respondents
-   were also not working at the time of the survey: **2.8%** in 2024 compared with **4.9%** in 2025. Other job-market
-   indicators showed a less consistent picture. A somewhat larger share of respondents reported actively looking for work
-   in 2025, but the overall distribution of job search status did not change dramatically. Job search confidence also
-   appeared somewhat weaker in 2025, with fewer respondents describing themselves as confident and more describing
-   themselves as not confident, though this shift was less pronounced than the change in job security.
+   The largest year-over-year change in this section was in perceived job security. The share of employee respondents
+   who said they felt **less confident** in their job security rose from **21.9%** in 2024 to **36.0%** in 2025, while the share
+   feeling **more confident** in their job security fell from **26.6%** to **18.4%**. A larger share of employee respondents
+   were also not working at the time of the survey: **2.8%** in 2024 compared with **4.9%** in 2025. 
+   
+   Job search confidence also weakened. The share of employees feeling **"very confident"** fell from **10.0%** to **3.7%** and **"confident"** from **30.0%** to **25.0%**, while the share feeling **"not confident"** rose from **27.5%** to **38.0%**.
 
 .. contents:: In this section
    :local:
@@ -1125,7 +1123,7 @@ Salary or contract earnings changes
 
    |icon-info|
 
-   In the 2022 survey results, we saw more employee respondents in new positions - jobs that they'd held for less than one year - than in any previous survey. To better explore how the job market shake-up of the past few years is affecting our community - both employees and contractors - we added this new section for job changes in 2023.
+   In the 2022 survey results, we saw more employee respondents in new positions — jobs that they'd held for less than one year — than in any previous survey. To better explore how the job market shake-up of the past few years is affecting our community — both employees and contractors — we added this new section for job changes in 2023.
 
    After community input in 2024, we changed the format of the question to ask about salary or earnings changes directly, rather than asking about changes in employment or contract status. We also added a question about whether respondents had attempted to negotiate a salary increase in the past year, regardless of the outcome.
 
@@ -1133,9 +1131,9 @@ Salary or contract earnings changes
 
    </details>
 
-Of the 709 respondents who worked as employees in the past year, 71.4% reported a salary increase, 24.5% no change, and 4.1% a decrease.
+Of the 709 respondents who worked as employees in the past year, 71.4% reported a salary increase, 24.5% no change, and 4.1% a decrease. 32.3% of these employees attempted to negotiate a salary increase in the past year, essentially unchanged from 32.8% in 2024.
 
-Among the 80 respondents who had worked on a contract basis, 42.5% reported an earnings increase. 36.2% reported no change, and 21.2% reported a decrease.
+Among the 80 respondents who had worked on a contract basis, 42.5% reported an earnings increase. 36.2% reported no change, and 21.2% reported a decrease. 48.8% of contractors attempted to negotiate a rate increase, up from 45.7% in 2024.
 
 .. raw:: html
 
@@ -1245,7 +1243,7 @@ Job or contract search status
 
 For employees, the two most common responses remained "not looking, but open to offers" (46.2%) and "not looking, not open to offers" (26.1%), consistent with the pattern seen in 2024. 12.7% were actively looking for a new position, and 5.5% were actively looking and open to contract work.
 
-Among contractors, the distribution was more spread. 34.8% were not looking but open to offers. 23.9% were actively looking and open to a permanent role, and 13.0% were only contracting while searching for a permanent position.
+Among contractors, responses were more evenly distributed. 34.8% were not looking but open to offers. 23.9% were actively looking and open to a permanent role, and 13.0% were only contracting while searching for a permanent position.
 
 Employee-contractors are shown separately for their employee and contractor search status, as they answered both questions.
 
@@ -1253,7 +1251,7 @@ Employee-contractors are shown separately for their employee and contractor sear
 
    <div class="tab-wrap"><input type="radio" id="tabB3-1" name="tabGroupB3" class="tab" checked tabindex="0"><label for="tabB3-1">Employees</label><input type="radio" id="tabB3-2" name="tabGroupB3" class="tab"><label for="tabB3-2">Contractors</label><input type="radio" id="tabB3-3" name="tabGroupB3" class="tab"><label for="tabB3-3">Employee-contractors</label><div class="tab__content">
 
-.. table:: Current job search status - employees
+.. table:: Current job search status — employees
    :widths: 80 10 10
    :name: tbl-2025-current-job-search-status-employees
    :class: std3col sortable
@@ -1288,7 +1286,7 @@ Employee-contractors are shown separately for their employee and contractor sear
 
    </div><div class="tab__content">
 
-.. table:: Current work search status - contractors
+.. table:: Current work search status — contractors
    :widths: 80 10 10
    :name: tbl-2025-current-work-search-status-contractors
    :class: std3col sortable
@@ -1325,7 +1323,7 @@ Employee-contractors are shown separately for their employee and contractor sear
 
    </div><div class="tab__content">
 
-.. table:: Current job search status - employee-contractors (as employee)
+.. table:: Current job search status — employee-contractors (as employee)
    :widths: 80 10 10
    :name: tbl-2025-current-job-search-status-ec-employee
    :class: std3col sortable
@@ -1360,7 +1358,7 @@ Employee-contractors are shown separately for their employee and contractor sear
 
    <hr>
 
-.. table:: Current work search status - employee-contractors (as contractor)
+.. table:: Current work search status — employee-contractors (as contractor)
    :widths: 80 10 10
    :name: tbl-2025-current-work-search-status-ec-contractor
    :class: std3col sortable
@@ -1448,7 +1446,7 @@ Three patterns stand out in how salary-related factors relate to active job sear
    | |3| Got decrease |  25 |     20.0% |  $85,852 |
    +------------------+-----+-----------+----------+
 
-**Years of experience.** The 2–5 year bracket shows the highest rate (17.1%). Rates gradually decline through mid-career. There is a notable spike at 25–30 years (21.7%), before dropping to 4.7% among those with 30 or more years of experience.
+**Years of experience.** The 2–5 year bracket shows the highest rate (17.1%). Rates gradually decline through mid-career. The 25–30 year bracket shows a higher rate (21.7%), before dropping to 4.7% among those with 30 or more years of experience.
 
 .. table:: Actively looking for work, by years of experience
    :name: tbl-2025-job-search-by-experience
@@ -1533,10 +1531,10 @@ Among employees, the most common response was "around the same" (45.6%), with 36
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Job security confidence - employees" aria-describedby="figure_job-security-confidence-employees_desc" type="image/svg+xml" data="/_images/2025-job-security-confidence-employees-v2.svg">
+      <object role="img" aria-label="Job security confidence — employees" aria-describedby="figure_job-security-confidence-employees_desc" type="image/svg+xml" data="/_images/2025-job-security-confidence-employees-v2.svg">
          <p id="figure_job-security-confidence-employees_desc">Half-donut chart showing job security confidence of employees — less confident, around the same, more confident — as compared to the previous year.</p>
       </object>
-      <figcaption>Figure: Job security confidence - employees</figcaption>
+      <figcaption>Figure: Job security confidence — employees</figcaption>
    </figure>
 
 .. figure:: images/2025/2025-job-security-confidence-employees-v2.svg
@@ -1564,10 +1562,10 @@ Among employees, the most common response was "around the same" (45.6%), with 36
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Earnings security confidence - contractors" aria-describedby="figure_earnings-security-confidence-contractors_desc" type="image/svg+xml" data="/_images/2025-earnings-security-confidence-contractors-v2.svg">
+      <object role="img" aria-label="Earnings security confidence — contractors" aria-describedby="figure_earnings-security-confidence-contractors_desc" type="image/svg+xml" data="/_images/2025-earnings-security-confidence-contractors-v2.svg">
          <p id="figure_earnings-security-confidence-contractors_desc">Half-donut chart showing earnings security confidence of contractors — less confident, around the same, more confident — as compared to the previous year.</p>
       </object>
-      <figcaption>Figure: Earnings security confidence - contractors</figcaption>
+      <figcaption>Figure: Earnings security confidence — contractors</figcaption>
    </figure>
 
 .. figure:: images/2025/2025-earnings-security-confidence-contractors-v2.svg
@@ -1577,7 +1575,7 @@ Among employees, the most common response was "around the same" (45.6%), with 36
 
    </div><div class="tab__content">
 
-.. table:: Employee-contractor job security - as employee
+.. table:: Employee-contractor job security — as employee
    :widths: 80 10 10
    :name: tbl-2025-job-security-ec-employee
    :class: std3col sortable
@@ -1595,10 +1593,10 @@ Among employees, the most common response was "around the same" (45.6%), with 36
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Job security confidence - employee-contractors as employee" aria-describedby="figure_job-security-confidence-ec-employee_desc" type="image/svg+xml" data="/_images/2025-job-security-confidence-ec-employee-v2.svg">
+      <object role="img" aria-label="Job security confidence — employee-contractors as employee" aria-describedby="figure_job-security-confidence-ec-employee_desc" type="image/svg+xml" data="/_images/2025-job-security-confidence-ec-employee-v2.svg">
          <p id="figure_job-security-confidence-ec-employee_desc">Half-donut chart showing job security confidence of employee-contractors in their employee role.</p>
       </object>
-      <figcaption>Figure: Job security confidence - employee-contractors (as employee)</figcaption>
+      <figcaption>Figure: Job security confidence — employee-contractors (as employee)</figcaption>
    </figure>
 
 .. figure:: images/2025/2025-job-security-confidence-ec-employee-v2.svg
@@ -1608,7 +1606,7 @@ Among employees, the most common response was "around the same" (45.6%), with 36
 
    <hr>
 
-.. table:: Employee-contractor earnings security - as contractor
+.. table:: Employee-contractor earnings security — as contractor
    :widths: 80 10 10
    :name: tbl-2025-earnings-security-ec-contractor
    :class: std3col sortable
@@ -1626,10 +1624,10 @@ Among employees, the most common response was "around the same" (45.6%), with 36
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Earnings security confidence - employee-contractors as contractor" aria-describedby="figure_earnings-security-confidence-ec-contractor_desc" type="image/svg+xml" data="/_images/2025-earnings-security-confidence-ec-contractor-v2.svg">
+      <object role="img" aria-label="Earnings security confidence — employee-contractors as contractor" aria-describedby="figure_earnings-security-confidence-ec-contractor_desc" type="image/svg+xml" data="/_images/2025-earnings-security-confidence-ec-contractor-v2.svg">
          <p id="figure_earnings-security-confidence-ec-contractor_desc">Half-donut chart showing earnings security confidence of employee-contractors in their contractor role.</p>
       </object>
-      <figcaption>Figure: Earnings security confidence - employee-contractors (as contractor)</figcaption>
+      <figcaption>Figure: Earnings security confidence — employee-contractors (as contractor)</figcaption>
    </figure>
 
 .. figure:: images/2025/2025-earnings-security-confidence-ec-contractor-v2.svg
@@ -1708,10 +1706,10 @@ Among the small sample of contractors who qualified for this question in 2025 �
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Job search confidence - employees" aria-describedby="figure_job-search-confidence-employees_desc" type="image/svg+xml" data="/_images/2025-job-search-confidence-employees-v2.svg">
+      <object role="img" aria-label="Job search confidence — employees" aria-describedby="figure_job-search-confidence-employees_desc" type="image/svg+xml" data="/_images/2025-job-search-confidence-employees-v2.svg">
          <p id="figure_job-search-confidence-employees_desc">Half-donut chart showing job search confidence of employees.</p>
       </object>
-      <figcaption>Figure: Job search confidence - employees</figcaption>
+      <figcaption>Figure: Job search confidence — employees</figcaption>
    </figure>
 
 .. figure:: images/2025/2025-job-search-confidence-employees-v2.svg
@@ -1741,10 +1739,10 @@ Among the small sample of contractors who qualified for this question in 2025 �
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Contract search confidence - contractors" aria-describedby="figure_contract-search-confidence-contractors_desc" type="image/svg+xml" data="/_images/2025-contract-search-confidence-contractors-v2.svg">
+      <object role="img" aria-label="Contract search confidence — contractors" aria-describedby="figure_contract-search-confidence-contractors_desc" type="image/svg+xml" data="/_images/2025-contract-search-confidence-contractors-v2.svg">
          <p id="figure_contract-search-confidence-contractors_desc">Half-donut chart showing contract search confidence of contractors.</p>
       </object>
-      <figcaption>Figure: Contract search confidence - contractors</figcaption>
+      <figcaption>Figure: Contract search confidence — contractors</figcaption>
    </figure>
 
 .. figure:: images/2025/2025-contract-search-confidence-contractors-v2.svg
@@ -1772,10 +1770,10 @@ Among the small sample of contractors who qualified for this question in 2025 �
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Job search confidence - employee-contractors as employee" aria-describedby="figure_job-search-confidence-ec-employee_desc" type="image/svg+xml" data="/_images/2025-job-search-confidence-ec-employee-v2.svg">
+      <object role="img" aria-label="Job search confidence — employee-contractors as employee" aria-describedby="figure_job-search-confidence-ec-employee_desc" type="image/svg+xml" data="/_images/2025-job-search-confidence-ec-employee-v2.svg">
          <p id="figure_job-search-confidence-ec-employee_desc">Half-donut chart showing job search confidence of employee-contractors in their employee role.</p>
       </object>
-      <figcaption>Figure: Job search confidence - employee-contractors (as employee)</figcaption>
+      <figcaption>Figure: Job search confidence — employee-contractors (as employee)</figcaption>
    </figure>
 
 .. figure:: images/2025/2025-job-search-confidence-ec-employee-v2.svg
@@ -1806,10 +1804,10 @@ Among the small sample of contractors who qualified for this question in 2025 �
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Contract search confidence - employee-contractors as contractor" aria-describedby="figure_contract-search-confidence-ec-contractor_desc" type="image/svg+xml" data="/_images/2025-contract-search-confidence-ec-contractor-v2.svg">
+      <object role="img" aria-label="Contract search confidence — employee-contractors as contractor" aria-describedby="figure_contract-search-confidence-ec-contractor_desc" type="image/svg+xml" data="/_images/2025-contract-search-confidence-ec-contractor-v2.svg">
          <p id="figure_contract-search-confidence-ec-contractor_desc">Half-donut chart showing contract search confidence of employee-contractors in their contractor role.</p>
       </object>
-      <figcaption>Figure: Contract search confidence - employee-contractors (as contractor)</figcaption>
+      <figcaption>Figure: Contract search confidence — employee-contractors (as contractor)</figcaption>
    </figure>
 
 .. figure:: images/2025/2025-contract-search-confidence-ec-contractor-v2.svg
@@ -1824,7 +1822,7 @@ Employee salary
 
 This section covers employee salaries, levels of satisfaction and the factors affecting those satisfaction levels.
 
-To protect the privacy of our community, we do not publish median salary figures for any region or category with less than 10 respondents. In regions or categories that meet the minimum threshold of 30 respondents, we're also providing the |25th| percentile (the value below which 25% of the data falls) and |75th| percentile (the value below which 75% of the data falls).
+To protect the privacy of our community, we do not publish median salary figures for any region or category with fewer than 10 respondents. In regions or categories that meet the minimum threshold of 30 respondents, we're also providing the |25th| percentile (the value below which 25% of the data falls) and |75th| percentile (the value below which 75% of the data falls).
 
 .. contents:: In this section
    :local:
@@ -1864,7 +1862,7 @@ USD representation grew from 45.0% to 54.2%; Canadian dollar, Indian rupee, and 
 
    <div class="tab-wrap"><input type="radio" id="tabCurr-1" name="tabGroupCurr" class="tab" checked><label for="tabCurr-1">Major currencies</label><input type="radio" id="tabCurr-2" name="tabGroupCurr" class="tab"><label for="tabCurr-2">Additional currencies</label><div class="tab__content">
 
-.. table:: Currencies and exchange rates - employees (≥1% representation)
+.. table:: Currencies and exchange rates — employees (≥1% representation)
    :widths: 55 10 10 10 15
    :name: tbl-2025-currencies-employees-major
    :class: sortable col3center col4right
@@ -1895,7 +1893,7 @@ USD representation grew from 45.0% to 54.2%; Canadian dollar, Indian rupee, and 
 
    </div><div class="tab__content">
 
-.. table:: Currencies and exchange rates - employees (<1% representation)
+.. table:: Currencies and exchange rates — employees (<1% representation)
    :widths: 55 10 10 25
    :name: tbl-2025-currencies-employees-additional
    :class: sortable col3center col4right
@@ -1979,7 +1977,7 @@ As in previous years, salaries for those working part-time hours (less than 30 p
 
    - |25th| percentile: one quarter of all respondents earned less, three quarters earned more
    - |50th| percentile (median): half of all respondents earned more, half earned less
-   - |75th| percentile: one quarter of all respondents earned more, three  quarters earned less
+   - |75th| percentile: one quarter of all respondents earned more, three quarters earned less
 
    Medians are used when comparing salary data, as they are less affected by outliers than average values. Medians are shown for any salary breakdown with at least 10 responses, and 25th and 75th percentiles are shown for breakdowns with at least 30 responses.
 
@@ -2005,7 +2003,7 @@ Given the range of socio-economic differences in the countries in the survey res
 
    .. rubric:: Privacy and salary information
 
-   The following countries - all of which had fewer than 10 respondents in 2025 - are excluded from the median salaries breakdown for privacy reasons:
+   The following countries — all of which had fewer than 10 respondents in 2025 — are excluded from the median salaries breakdown for privacy reasons:
 
    - North America: Mexico
    - Europe: Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, Hungary, Ireland, Italy, Netherlands, Norway, Poland, Portugal, Serbia, Spain, Sweden, Turkey, Ukraine
@@ -2072,7 +2070,7 @@ Respondent numbers allow additional breakdowns by US state and Canadian province
 
    <div class="tab-wrap"><input type="radio" id="tabD3-1" name="tabGroupD3" class="tab" checked><label for="tabD3-1">United States</label><input type="radio" id="tabD3-2" name="tabGroupD3" class="tab"><label for="tabD3-2">Other regions</label><div class="tab__content">
 
-.. table:: Salary (USD) by respondent region - USA
+.. table:: Salary (USD) by respondent region — USA
    :name: tbl-2025-salary-by-respondent-region-usa
    :widths: 46 18 18 18
    :class: medians sortable
@@ -2139,7 +2137,7 @@ Respondent numbers allow additional breakdowns by US state and Canadian province
 
    </div><div class="tab__content">
 
-.. table:: Salary (USD) by respondent region - Canada
+.. table:: Salary (USD) by respondent region — Canada
    :name: tbl-2025-salary-by-respondent-region-canada
    :widths: 46 18 18 18
    :class: medians sortable
@@ -2154,7 +2152,7 @@ Respondent numbers allow additional breakdowns by US state and Canadian province
    | - Toronto (17)        | --      | $75,120 | --      |
    +-----------------------+---------+---------+---------+
 
-.. table:: Salary (USD) by respondent region - United Kingdom
+.. table:: Salary (USD) by respondent region — United Kingdom
    :name: tbl-2025-salary-by-respondent-region-united-kingdom
    :widths: 46 18 18 18
    :class: medians sortable
@@ -2167,7 +2165,7 @@ Respondent numbers allow additional breakdowns by US state and Canadian province
    | Greater London (13)      | --       | $90,953  | --           |
    +--------------------------+----------+----------+--------------+
 
-.. table:: Salary (USD) by respondent region - Australia
+.. table:: Salary (USD) by respondent region — Australia
    :name: tbl-2025-salary-by-respondent-region-australia
    :widths: 46 18 18 18
    :class: medians sortable
@@ -2189,13 +2187,13 @@ Median salary by gender identity
 
 To produce meaningful medians, salary is only broken down by gender for women and men — 61.8% and 33.5% of respondents respectively — and only in regions with at least 30 respondents of each gender.
 
-This year, that means that we are able to show breakdowns for Worldwide, North America and Europe. Men earned more than women in all regions, but the difference was largest in Europe (where men earned 25.8% more than women).
+This year, that means that we are able to show breakdowns for Worldwide, North America and Europe. Men earned more than women in all these regions, but the difference was largest in Europe (where men earned 25.8% more than women). These are raw medians and do not control for differences in role, experience, country mix, or hours worked between the two groups, which may contribute to the observed gaps.
 
 .. raw:: html
 
    <div class="tab-wrap"><input type="radio" id="tabD33-1" name="tabGroupD33" class="tab" checked><label for="tabD33-1">Women</label><input type="radio" id="tabD33-2" name="tabGroupD33" class="tab"><label for="tabD33-2">Men</label><input type="radio" id="tabD33-3" name="tabGroupD33" class="tab"><label for="tabD33-3">Comparison</label><div class="tab__content">
 
-.. table:: Salary (USD) by gender identity - women
+.. table:: Salary (USD) by gender identity — women
    :name: tbl-2025-salary-by-gender-identity-women
    :widths: 46 18 18 18
    :class: medians sortable
@@ -2214,7 +2212,7 @@ This year, that means that we are able to show breakdowns for Worldwide, North A
 
    </div><div class="tab__content">
 
-.. table:: Salary (USD) by gender identity - men
+.. table:: Salary (USD) by gender identity — men
    :name: tbl-2025-salary-by-gender-identity-men
    :widths: 46 18 18 18
    :class: medians sortable
@@ -2233,7 +2231,7 @@ This year, that means that we are able to show breakdowns for Worldwide, North A
 
    </div><div class="tab__content">
 
-.. table:: Median salary (USD) by gender identity - comparison
+.. table:: Median salary (USD) by gender identity — comparison
    :name: tbl-2025-salary-by-gender-identity-comparison
    :widths: 46 18 18 18
    :class: medians sortable
@@ -2298,7 +2296,7 @@ The general trend is for salaries to increase with years of experience. This tre
 
    </div><div class="tab__content">
 
-.. table:: Salary (USD) by experience - North America
+.. table:: Salary (USD) by experience — North America
    :name: tbl-2025-salary-by-experience-region-north-america
    :widths: 36 10 18 18 18
    :class: medians-with-num sortable
@@ -2323,7 +2321,7 @@ The general trend is for salaries to increase with years of experience. This tre
 
    </div><div class="tab__content">
 
-.. table:: Salary (USD) by experience - Europe
+.. table:: Salary (USD) by experience — Europe
    :name: tbl-2025-salary-by-experience-region-europe
    :widths: 36 10 18 18 18
    :class: medians-with-num sortable
@@ -2361,11 +2359,11 @@ The general trend is for salaries to increase with years of experience. This tre
    :class: hide
 
 Median salary by time in current role
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Worldwide, salary rises modestly with time in the current role — from $90,000 for those in their first year to $104,748 for those who have been in the same role for 10 years or more. The progression is slow through the first five years (the 1–2 and 2–5 year medians are identical at $92,000), before accelerating at 10+.
 
-North America shows a different pattern. Salaries start high ($120,000 for 0–1 years) and remain flat through 2–5 years ($120,000). They then dip to $111,000 at 5–10 years before recovering to $129,000 for the 10+ group.
+North America shows a different pattern. Salaries start high ($120,000 for 0–1 years) and remain near $120,000 through 2–5 years. They then dip to $111,000 at 5–10 years before recovering to $129,000 for the 10+ group.
 
 In Europe the pattern is less clear, partly due to small sample sizes at the upper end (only 12 respondents in the 10+ years bracket). The 5–10 year bracket ($75,065) is higher than both adjacent groups, which is likely noise at that sample size rather than a genuine signal.
 
@@ -2403,7 +2401,7 @@ In Europe the pattern is less clear, partly due to small sample sizes at the upp
 
    </div><div class="tab__content">
 
-.. table:: Salary (USD) by time in current role - North America
+.. table:: Salary (USD) by time in current role — North America
    :name: tbl-2025-salary-by-time-in-current-role-north-america
    :widths: 36 10 18 18 18
    :class: medians-with-num sortable
@@ -2433,7 +2431,7 @@ In Europe the pattern is less clear, partly due to small sample sizes at the upp
 
    </div><div class="tab__content">
 
-.. table:: Salary (USD) by time in current role - Europe
+.. table:: Salary (USD) by time in current role — Europe
    :name: tbl-2025-salary-by-time-in-current-role-europe
    :widths: 36 10 18 18 18
    :class: medians-with-num sortable
@@ -2508,7 +2506,7 @@ The 18–25 age group is below the 30-respondent threshold in all regions, and i
 
    </div><div class="tab__content">
 
-.. table:: Salary (USD) by age group - North America
+.. table:: Salary (USD) by age group — North America
    :name: tbl-2025-salary-by-age-group-north-america
    :widths: 36 10 18 18 18
    :class: medians-with-num sortable
@@ -2531,7 +2529,7 @@ The 18–25 age group is below the 30-respondent threshold in all regions, and i
 
    </div><div class="tab__content">
 
-.. table:: Salary (USD) by age group - Europe
+.. table:: Salary (USD) by age group — Europe
    :name: tbl-2025-salary-by-age-group-europe
    :widths: 36 10 18 18 18
    :class: medians-with-num sortable
@@ -2565,9 +2563,9 @@ The 18–25 age group is below the 30-respondent threshold in all regions, and i
 Median salary by education level
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Worldwide, undergraduate respondents had the highest median salary ($99,410), appearing to outperform postgraduate respondents ($86,450). This finding is counterintuitive, but it is largely a composition effect rather than a genuine credential premium in reverse. Undergraduate respondents are concentrated in North America (66% of that group), while postgraduate respondents are more globally distributed (52% in NA). Within each region individually, the gap narrows to near-zero: in North America, undergraduates earned $118,500 and postgraduates $119,500; in Europe, undergraduates earned $64,022 and postgraduates $67,350. Both regional breakdowns show postgraduate slightly ahead.
+Worldwide, graduate respondents had the highest median salary ($99,410), appearing to outperform post-graduate respondents ($86,450). This seems counterintuitive, but is probably a composition effect rather than a genuine finding — graduate respondents are concentrated in North America (66% of that group), while post-graduate respondents are more globally distributed (52% in NA). Within each region individually, the gap narrows to near-zero: in North America, graduates earned $118,500 and post-graduates $119,500; in Europe, graduates earned $64,022 and post-graduates $67,350. Both regional breakdowns show post-graduate slightly ahead.
 
-The Europe tab covers only three education levels — undergraduate, postgraduate, and multiple postgraduate — as the other categories had fewer than 10 respondents in the region.
+The Europe tab covers only three education levels — graduate, post-graduate, and multiple post-graduate — as the other categories had fewer than 10 respondents in the region. Worldwide, 32 respondents who declined to provide an education level are excluded from all breakdowns.
 
 .. raw:: html
 
@@ -2585,27 +2583,27 @@ The Europe tab covers only three education levels — undergraduate, postgraduat
    +-----------------------------+-----+----------+----------+----------+
    | |2| Technical/vocational    | 16  |       -- |  $90,935 |       -- |
    +-----------------------------+-----+----------+----------+----------+
-   | |3| Undergraduate           | 317 |  $64,731 |  $99,410 | $136,487 |
+   | |3| Graduate                | 317 |  $64,731 |  $99,410 | $136,487 |
    +-----------------------------+-----+----------+----------+----------+
-   | |4| Multiple undergraduate  | 22  |       -- |  $92,592 |       -- |
+   | |4| Multiple graduate       | 22  |       -- |  $92,592 |       -- |
    +-----------------------------+-----+----------+----------+----------+
-   | |5| Postgraduate            | 254 |  $62,327 |  $86,450 | $135,791 |
+   | |5| Post-graduate           | 254 |  $62,327 |  $86,450 | $135,791 |
    +-----------------------------+-----+----------+----------+----------+
-   | |6| Multiple postgraduate   | 32  |  $56,782 |  $85,426 | $126,550 |
+   | |6| Multiple post-graduate  | 32  |  $56,782 |  $85,426 | $126,550 |
    +-----------------------------+-----+----------+----------+----------+
 
 .. raw:: html
 
       <figure>
          <object role="img" aria-label="Salary (USD) by education level" aria-describedby="figure_salary-by-education_desc" type="image/svg+xml" data="/_images/2025-salary-by-education-v2.svg">
-            <p id="figure_salary-by-education_desc">Median salary chart showing worldwide salary by education level, with percentile ranges where sample sizes support them and median-only markers for smaller groups. Undergraduate has the highest worldwide median at about $99,000.</p>
+            <p id="figure_salary-by-education_desc">Median salary chart showing worldwide salary by education level, with percentile ranges where sample sizes support them and median-only markers for smaller groups. Graduate has the highest worldwide median at about $99,000.</p>
          </object>
          <figcaption>Figure: Salary (USD) by education level</figcaption>
       </figure>
 
    </div><div class="tab__content">
 
-.. table:: Salary (USD) by education level - North America
+.. table:: Salary (USD) by education level — North America
    :name: tbl-2025-salary-by-education-level-north-america
    :widths: 36 10 18 18 18
    :class: medians-with-num sortable
@@ -2615,13 +2613,13 @@ The Europe tab covers only three education levels — undergraduate, postgraduat
    +=============================+=====+==========+==========+==========+
    | |1| High school             | 13  |       -- | $116,000 |       -- |
    +-----------------------------+-----+----------+----------+----------+
-   | |2| Undergraduate           | 208 |  $90,108 | $118,500 | $156,796 |
+   | |2| Graduate                | 208 |  $90,108 | $118,500 | $156,796 |
    +-----------------------------+-----+----------+----------+----------+
-   | |3| Multiple undergraduate  | 15  |       -- | $101,000 |       -- |
+   | |3| Multiple graduate       | 15  |       -- | $101,000 |       -- |
    +-----------------------------+-----+----------+----------+----------+
-   | |4| Postgraduate            | 132 |  $85,026 | $119,500 | $160,809 |
+   | |4| Post-graduate           | 132 |  $85,026 | $119,500 | $160,809 |
    +-----------------------------+-----+----------+----------+----------+
-   | |5| Multiple postgraduate   | 14  |       -- | $122,500 |       -- |
+   | |5| Multiple post-graduate  | 14  |       -- | $122,500 |       -- |
    +-----------------------------+-----+----------+----------+----------+
 
 .. raw:: html
@@ -2635,7 +2633,7 @@ The Europe tab covers only three education levels — undergraduate, postgraduat
 
    </div><div class="tab__content">
 
-.. table:: Salary (USD) by education level - Europe
+.. table:: Salary (USD) by education level — Europe
    :name: tbl-2025-salary-by-education-level-europe
    :widths: 36 10 18 18 18
    :class: medians-with-num sortable
@@ -2643,18 +2641,18 @@ The Europe tab covers only three education levels — undergraduate, postgraduat
    +-----------------------------+-----+----------+----------+----------+
    | Education level             | |N| | |25|     | |50|     | |75|     |
    +=============================+=====+==========+==========+==========+
-   | |1| Undergraduate           | 60  |  $47,625 |  $64,022 |  $98,151 |
+   | |1| Graduate                | 60  |  $47,625 |  $64,022 |  $98,151 |
    +-----------------------------+-----+----------+----------+----------+
-   | |2| Postgraduate            | 92  |  $50,505 |  $67,350 |  $89,949 |
+   | |2| Post-graduate           | 92  |  $50,505 |  $67,350 |  $89,949 |
    +-----------------------------+-----+----------+----------+----------+
-   | |3| Multiple postgraduate   | 13  |       -- |  $57,687 |       -- |
+   | |3| Multiple post-graduate  | 13  |       -- |  $57,687 |       -- |
    +-----------------------------+-----+----------+----------+----------+
 
 .. raw:: html
 
       <figure>
          <object role="img" aria-label="Salary (USD) by education level — Europe" aria-describedby="figure_salary-by-education-eu_desc" type="image/svg+xml" data="/_images/2025-salary-by-education-eu-v2.svg">
-            <p id="figure_salary-by-education-eu_desc">Median salary chart showing European salary by education level, with percentile ranges for undergraduate and postgraduate respondents and a median-only marker for multiple postgraduate respondents. Postgraduate is slightly higher than undergraduate.</p>
+            <p id="figure_salary-by-education-eu_desc">Median salary chart showing European salary by education level, with percentile ranges for graduate and post-graduate respondents and a median-only marker for multiple post-graduate respondents. Post-graduate is slightly higher than graduate.</p>
          </object>
          <figcaption>Figure: Salary (USD) by education level — Europe</figcaption>
       </figure>
@@ -2702,7 +2700,7 @@ Salaries generally increase with the size of the organization, with the highest 
 
    </div><div class="tab__content">
 
-.. table:: Salary (USD) by organization size - North America
+.. table:: Salary (USD) by organization size — North America
    :name: tbl-2025-salary-by-organization-size-north-america
    :widths: 36 10 18 18 18
    :class: medians-with-num sortable
@@ -2725,7 +2723,7 @@ Salaries generally increase with the size of the organization, with the highest 
 
    </div><div class="tab__content">
 
-.. table:: Salary (USD) by organization size - Europe
+.. table:: Salary (USD) by organization size — Europe
    :name: tbl-2025-salary-by-organization-size-europe
    :widths: 36 10 18 18 18
    :class: medians-with-num sortable
@@ -2759,7 +2757,7 @@ Salaries generally increase with the size of the organization, with the highest 
    :class: hide
 
 Median salary by primary role category
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Among the five primary role categories with at least 10 respondents, DocOps practitioners had the highest median salary at $128,800. Technical writers — by far the most common primary role, with 539 respondents — had a median of $90,610. Developers or engineers, project or product managers, and editors all fell within a narrow range of $90,370 to $93,759. Role categories with fewer than 10 respondents are not shown.
 
@@ -2828,7 +2826,7 @@ This pattern likely reflects experience as a confounding factor: practitioners w
 
    </div><div class="tab__content">
 
-.. table:: Salary (USD) by number of additional role categories - North America
+.. table:: Salary (USD) by number of additional role categories — North America
    :name: tbl-2025-salary-by-additional-role-categories-north-america
    :widths: 36 10 18 18 18
    :class: medians-with-num sortable
@@ -2849,7 +2847,7 @@ This pattern likely reflects experience as a confounding factor: practitioners w
 
    </div><div class="tab__content">
 
-.. table:: Salary (USD) by number of additional role categories - Europe
+.. table:: Salary (USD) by number of additional role categories — Europe
    :name: tbl-2025-salary-by-additional-role-categories-europe
    :widths: 36 10 18 18 18
    :class: medians-with-num sortable
@@ -2935,7 +2933,7 @@ The Worldwide tab below shows the 10 most common industries reported in the 2025
 
    </div><div class="tab__content">
 
-.. table:: Salary (USD) by industry - North America
+.. table:: Salary (USD) by industry — North America
    :name: tbl-2025-salary-by-industry-north-america
    :widths: 36 10 18 18 18
    :class: medians-with-num sortable
@@ -2975,7 +2973,7 @@ The Worldwide tab below shows the 10 most common industries reported in the 2025
 
    </div><div class="tab__content">
 
-.. table:: Salary (USD) by industry - Europe
+.. table:: Salary (USD) by industry — Europe
    :name: tbl-2025-salary-by-industry-europe
    :widths: 36 10 18 18 18
    :class: medians-with-num sortable
@@ -3141,10 +3139,10 @@ Employee satisfaction
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Overall satisfaction - employees" aria-describedby="figure_overall-satisfaction_desc" type="image/svg+xml" data="/_images/2025-overall-satisfaction-employees-v2.svg">
+      <object role="img" aria-label="Overall satisfaction — employees" aria-describedby="figure_overall-satisfaction_desc" type="image/svg+xml" data="/_images/2025-overall-satisfaction-employees-v2.svg">
          <p id="figure_overall-satisfaction-employees_desc">Donut chart showing employee overall satisfaction.</p>
       </object>
-      <figcaption>Figure: Overall satisfaction - employees</figcaption>
+      <figcaption>Figure: Overall satisfaction — employees</figcaption>
    </figure>
 
 .. figure:: images/2025/2025-overall-satisfaction-employees-v2.svg
@@ -3222,7 +3220,7 @@ Respondents who indicated that the statement was not relevant to their situation
 
    <div class="tab-wrap"><input type="radio" id="tabF71a-1" name="tabGroupF71a" class="tab" checked><label for="tabF71a-1">Salary</label><input type="radio" id="tabF71a-2" name="tabGroupF71a" class="tab"><label for="tabF71a-2">Job</label><input type="radio" id="tabF71a-3" name="tabGroupF71a" class="tab"><label for="tabF71a-3">Workplace</label><input type="radio" id="tabF71a-4" name="tabGroupF71a" class="tab"><label for="tabF71a-4">Team</label><div class="tab__content">
 
-.. table:: Satisfaction statements - salary and benefits
+.. table:: Satisfaction statements — salary and benefits
    :widths: 55 15 15 15
    :name: tbl-2025-satisfaction-statements-salary-benefits
    :class: sortable statements
@@ -3240,10 +3238,10 @@ Respondents who indicated that the statement was not relevant to their situation
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Satisfaction factors - salary and benefits - employees" aria-describedby="figure_satisfaction-factors-salary-employees_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-salary-employees-v2.svg">
+      <object role="img" aria-label="Satisfaction factors — salary and benefits — employees" aria-describedby="figure_satisfaction-factors-salary-employees_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-salary-employees-v2.svg">
          <p id="figure_satisfaction-factors-salary-employees_desc">Horizontal bar chart showing levels of agreement with statements about respondents' salary and benefits.</p>
       </object>
-      <figcaption>Figure: Satisfaction factors - salary and benefits - employees</figcaption>
+      <figcaption>Figure: Satisfaction factors — salary and benefits — employees</figcaption>
    </figure>
 
 .. figure:: images/2025/2025-satisfaction-factors-salary-employees-v2.svg
@@ -3253,7 +3251,7 @@ Respondents who indicated that the statement was not relevant to their situation
 
    </div><div class="tab__content">
 
-.. table:: Satisfaction statements - job
+.. table:: Satisfaction statements — job
    :widths: 55 15 15 15
    :name: tbl-2025-satisfaction-statements-job
    :class: sortable statements
@@ -3275,16 +3273,16 @@ Respondents who indicated that the statement was not relevant to their situation
    +---------------------------------------------------+----------+---------+----------+
    | My work is sufficiently interesting / challenging |    70.5% |   17.9% |    11.6% |
    +---------------------------------------------------+----------+---------+----------+
-   | I’m satisfied with the systems and toolsets I use |    55.4% |   21.3% |    23.3% |
+   | I'm satisfied with the systems and toolsets I use |    55.4% |   21.3% |    23.3% |
    +---------------------------------------------------+----------+---------+----------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Satisfaction factors - overall job - employees" aria-describedby="figure_satisfaction-factors-job-employees_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-job-employees-v2.svg">
+      <object role="img" aria-label="Satisfaction factors — overall job — employees" aria-describedby="figure_satisfaction-factors-job-employees_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-job-employees-v2.svg">
          <p id="figure_satisfaction-factors-job-employees_desc">Horizontal bar chart showing levels of agreement with statements about respondents' overall job situation.</p>
       </object>
-      <figcaption>Figure: Satisfaction factors - overall job - employees</figcaption>
+      <figcaption>Figure: Satisfaction factors — overall job — employees</figcaption>
    </figure>
 
 .. figure:: images/2025/2025-satisfaction-factors-job-employees-v2.svg
@@ -3294,7 +3292,7 @@ Respondents who indicated that the statement was not relevant to their situation
 
    </div><div class="tab__content">
 
-.. table:: Satisfaction statements - workplace
+.. table:: Satisfaction statements — workplace
    :widths: 55 15 15 15
    :name: tbl-2025-satisfaction-statements-workplace
    :class: sortable statements
@@ -3314,10 +3312,10 @@ Respondents who indicated that the statement was not relevant to their situation
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Satisfaction factors - workplace - employees" aria-describedby="figure_satisfaction-factors-workplace-employees_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-workplace-employees-v2.svg">
+      <object role="img" aria-label="Satisfaction factors — workplace — employees" aria-describedby="figure_satisfaction-factors-workplace-employees_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-workplace-employees-v2.svg">
          <p id="figure_satisfaction-factors-workplace-employees_desc">Horizontal bar chart showing levels of agreement with statements about respondents' workplace.</p>
       </object>
-      <figcaption>Figure: Satisfaction factors - workplace - employees</figcaption>
+      <figcaption>Figure: Satisfaction factors — workplace — employees</figcaption>
    </figure>
 
 .. figure:: images/2025/2025-satisfaction-factors-workplace-employees-v2.svg
@@ -3327,13 +3325,13 @@ Respondents who indicated that the statement was not relevant to their situation
 
    </div><div class="tab__content">
 
-.. table:: Satisfaction statements - team and organization
+.. table:: Satisfaction statements — team and organization
    :widths: 46 12 12 12 18
    :name: tbl-2025-satisfaction-statements-team-organization
    :class: sortable statements
 
    +---------------------------------------------------------------+----------+---------+----------+------------+
-   | Statements                                                    | Agree    | Neutral | Disagree | Don’t know |
+   | Statements                                                    | Agree    | Neutral | Disagree | Don't know |
    +===============================================================+==========+=========+==========+============+
    | To my knowledge, salaries are consistent across similar roles |    33.7% |   12.8% |    18.2% |      35.3% |
    +---------------------------------------------------------------+----------+---------+----------+------------+
@@ -3347,16 +3345,16 @@ Respondents who indicated that the statement was not relevant to their situation
    +---------------------------------------------------------------+----------+---------+----------+------------+
    | I like and/or respect my organization                         |    61.5% |   24.4% |    14.2% |         -- |
    +---------------------------------------------------------------+----------+---------+----------+------------+
-   | I’m satisfied with our methodologies, systems and practices   |    43.9% |   27.6% |    28.5% |         -- |
+   | I'm satisfied with our methodologies, systems and practices   |    43.9% |   27.6% |    28.5% |         -- |
    +---------------------------------------------------------------+----------+---------+----------+------------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Satisfaction factors - team and organization - employees" aria-describedby="figure_satisfaction-factors-team-employees_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-team-employees-v2.svg">
+      <object role="img" aria-label="Satisfaction factors — team and organization — employees" aria-describedby="figure_satisfaction-factors-team-employees_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-team-employees-v2.svg">
          <p id="figure_satisfaction-factors-team-employees_desc">Horizontal bar chart showing levels of agreement with statements about respondents' team and organization.</p>
       </object>
-      <figcaption>Figure: Satisfaction factors - team and organization - employees</figcaption>
+      <figcaption>Figure: Satisfaction factors — team and organization — employees</figcaption>
    </figure>
 
 .. figure:: images/2025/2025-satisfaction-factors-team-employees-v2.svg
@@ -3371,9 +3369,9 @@ Contract rates
 
 This section covers contract work types, rates, satisfaction with earnings, and confidence in the market for new work.
 
-To protect the privacy of our community, we do not publish median salary figures for any region or category with less than 10 respondents. In regions or categories that meet the minimum threshold of 30 respondents, we're also providing the |25th| percentile (the value below which 25% of the data falls) and |75th| percentile (the value below which 75% of the data falls).
+To protect the privacy of our community, we do not publish median salary figures for any region or category with fewer than 10 respondents. In regions or categories that meet the minimum threshold of 30 respondents, we're also providing the |25th| percentile (the value below which 25% of the data falls) and |75th| percentile (the value below which 75% of the data falls).
 
-The 2025 survey received 80 contractor responses. This number is too low, and the respondents too geographically diverse, to determine median rates except for the very largest regions (the United States and Europe).
+The 2025 survey received 80 contractor responses. This number is too low, and the respondents too geographically diverse, to determine median rates except for the very largest regions (North America and Europe).
 
 .. contents:: In this section
    :local:
@@ -3408,7 +3406,7 @@ Preferred term
 
    |icon-info|
 
-   In the first few surveys, we often struggled with the wording to describe the group of respondents who are not employees - "contractors, freelance operators, and self-employed people" is cumbersome and doesn't really "roll off the tongue". While we often used "contractor" as a catch-all shorthand term, we were aware that this might not be the preferred term for everyone.
+   In the first few surveys, we often struggled with the wording to describe the group of respondents who are not employees — "contractors, freelance operators, and self-employed people" is cumbersome. While we often used "contractor" as a catch-all shorthand term, we were aware that this might not be the preferred term for everyone.
 
    In 2023, we asked respondents who are not employees what term they prefer to describe the kind of work they do. The results from that year indicated that "contractor" was the most widely-used term, so that's what we used as a shorthand term throughout 2023's results and in the survey form for 2024.
 
@@ -3440,7 +3438,7 @@ Preferred term
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Preferred term - contractors" aria-describedby="figure_contractor-preferred-term_desc" type="image/svg+xml" data="/_images/2025-contractor-preferred-term-v2.svg">
+      <object role="img" aria-label="Preferred term — contractors" aria-describedby="figure_contractor-preferred-term_desc" type="image/svg+xml" data="/_images/2025-contractor-preferred-term-v2.svg">
          <p id="figure_contractor-preferred-term_desc">Donut chart showing preferred term for contractors.</p>
       </object>
       <figcaption>Figure: Preferred term — contractors</figcaption>
@@ -3480,7 +3478,9 @@ Type of contract work
 
 Illustrating how varied contractor working situations are, out of the 80 total contractor respondents, there were 51 different combinations of client type, contract or project type, and product or service offering.
 
-57.5% of contractor respondents indicated that they worked exclusively for a single client at a time. Another 23.8% indicated that they worked exclusively for multiple clients at a time. 6.2% worked at times for either a single client or multiple clients, and 12.5% did not indicate whether they worked for a single client or multiple.
+Because the question allowed multiple selections, "not specified" in the breakdowns below means the respondent did not tick any option in that dimension.
+
+57.5% of contractor respondents indicated that they worked only with a single client at a time. Another 23.8% indicated that they worked with multiple clients concurrently. 6.2% worked at times for either a single client or multiple clients, and 12.5% did not indicate whether they worked for a single client or multiple.
 
 30.1% of contractor respondents reported working exclusively on long-term contracts (6-12 months or longer), while 28.7% did not specify a typical contract length. Mixed contract lengths were reported by 25.0%, with 10.0% working exclusively on short-term contracts (days or weeks) — up from just 2.1% in the previous year — and 6.2% working only on medium-term contracts (1-6 months).
 
@@ -3510,7 +3510,7 @@ The majority of contractor respondents (71.3%) did not specify offering either p
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Typical client configuration - contractors" aria-describedby="figure_contractor-type-clients_desc" type="image/svg+xml" data="/_images/2025-contractor-type-clients-v2.svg">
+      <object role="img" aria-label="Typical client configuration — contractors" aria-describedby="figure_contractor-type-clients_desc" type="image/svg+xml" data="/_images/2025-contractor-type-clients-v2.svg">
          <p id="figure_contractor-type-clients_desc">Donut chart showing typical client configuration for contractors.</p>
       </object>
       <figcaption>Figure: Typical client configuration — contractors</figcaption>
@@ -3545,7 +3545,7 @@ The majority of contractor respondents (71.3%) did not specify offering either p
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Typical contract length - contractors" aria-describedby="figure_contractor-type-contract-length_desc" type="image/svg+xml" data="/_images/2025-contractor-type-contract-length-v2.svg">
+      <object role="img" aria-label="Typical contract length — contractors" aria-describedby="figure_contractor-type-contract-length_desc" type="image/svg+xml" data="/_images/2025-contractor-type-contract-length-v2.svg">
          <p id="figure_contractor-type-contract-length_desc">Donut chart showing typical contract length for contractors.</p>
       </object>
       <figcaption>Figure: Typical contract length — contractors</figcaption>
@@ -3578,7 +3578,7 @@ The majority of contractor respondents (71.3%) did not specify offering either p
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Products and/or services provided - contractors" aria-describedby="figure_contractor-type-products-services_desc" type="image/svg+xml" data="/_images/2025-contractor-type-products-services-v2.svg">
+      <object role="img" aria-label="Products and/or services provided — contractors" aria-describedby="figure_contractor-type-products-services_desc" type="image/svg+xml" data="/_images/2025-contractor-type-products-services-v2.svg">
          <p id="figure_contractor-type-products-services_desc">Donut chart showing products and/or services provided by contractors.</p>
       </object>
       <figcaption>Figure: Products and/or services provided — contractors</figcaption>
@@ -3629,7 +3629,7 @@ Contract rates
 
 Contractor respondents were paid in 9 different currencies. To make comparisons possible, all currencies were converted to USD using mid-market exchange rates, averaged for the whole of 2025.
 
-The contractor currency pool contracted significantly from 15 currencies to 9, with USD dominance rising from 59.6% to 73.8%. Most of the smaller currencies from 2024 — including GBP (7 respondents in 2024, down to 1), NIS, PLN, and DKK — either disappeared or were represented by a single respondent.
+The contractor currency pool narrowed from 15 currencies to 9, with USD dominance rising from 59.6% to 73.8%. Most of the smaller currencies from 2024 — including GBP (7 respondents in 2024, down to 1), NIS, PLN, and DKK — either disappeared or were represented by a single respondent.
 
 .. table:: Currency and exchange rate
    :widths: 55 15 15 15
@@ -3677,7 +3677,7 @@ Hourly rates were the most commonly entered fee structure, used by 83.8% of cont
    +--------------------+------+------+------+
    | North America (47) |  $48 |  $60 |  $84 |
    +--------------------+------+------+------+
-   | Europe (11)        |      |  $65 |      |
+   | Europe (11)        |  --  |  $65 | --   |
    +--------------------+------+------+------+
 
 Contractor satisfaction
@@ -3739,7 +3739,7 @@ Contractor satisfaction
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Earnings satisfaction - contractors" aria-describedby="figure_earnings-satisfaction-contractors_desc" type="image/svg+xml" data="/_images/2025-earnings-satisfaction-contractors-v2.svg">
+      <object role="img" aria-label="Earnings satisfaction — contractors" aria-describedby="figure_earnings-satisfaction-contractors_desc" type="image/svg+xml" data="/_images/2025-earnings-satisfaction-contractors-v2.svg">
          <p id="figure_earnings-satisfaction-contractors_desc">Half-donut chart showing contractor earnings satisfaction.</p>
       </object>
       <figcaption>Figure: Earnings satisfaction — contractors</figcaption>
@@ -3774,7 +3774,7 @@ Contractor satisfaction
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Overall satisfaction - contractors" aria-describedby="figure_overall-satisfaction-contractors_desc" type="image/svg+xml" data="/_images/2025-overall-satisfaction-contractors-v2.svg">
+      <object role="img" aria-label="Overall satisfaction — contractors" aria-describedby="figure_overall-satisfaction-contractors_desc" type="image/svg+xml" data="/_images/2025-overall-satisfaction-contractors-v2.svg">
          <p id="figure_overall-satisfaction-contractors_desc">Half-donut chart showing contractor overall satisfaction.</p>
       </object>
       <figcaption>Figure: Overall satisfaction — contractors</figcaption>
@@ -3855,7 +3855,7 @@ Respondents who indicated that the statement was not relevant to their situation
 
    <div class="tab-wrap"><input type="radio" id="tabF2b-1" name="tabGroupF2b" class="tab" checked><label for="tabF2b-1">Earnings</label><input type="radio" id="tabF2b-2" name="tabGroupF2b" class="tab"><label for="tabF2b-2">Contracts</label><input type="radio" id="tabF2b-3" name="tabGroupF2b" class="tab"><label for="tabF2b-3">Workplaces</label><input type="radio" id="tabF2b-4" name="tabGroupF2b" class="tab"><label for="tabF2b-4">Teams</label><div class="tab__content">
 
-.. table:: Satisfaction statements - contractor earnings
+.. table:: Satisfaction statements — contractor earnings
    :widths: 55 15 15 15
    :name: tbl-2025-satisfaction-statements-contractor-earnings
    :class: sortable statements
@@ -3873,8 +3873,8 @@ Respondents who indicated that the statement was not relevant to their situation
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Satisfaction factors - earnings - contractors" aria-describedby="figure_satisfaction-factors-earnings-contractors_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-earnings-contractors-v2.svg">
-         <p id="figure_satisfaction-factors-earnings-contractors_desc">Horizontal bar chart showing contractor respondents’ level of agreement with statements about their earnings.</p>
+      <object role="img" aria-label="Satisfaction factors — earnings — contractors" aria-describedby="figure_satisfaction-factors-earnings-contractors_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-earnings-contractors-v2.svg">
+         <p id="figure_satisfaction-factors-earnings-contractors_desc">Horizontal bar chart showing contractor respondents' level of agreement with statements about their earnings.</p>
       </object>
       <figcaption>Figure: Satisfaction factors — earnings — contractors</figcaption>
    </figure>
@@ -3886,7 +3886,7 @@ Respondents who indicated that the statement was not relevant to their situation
 
 	</div><div class="tab__content">
 
-.. table:: Satisfaction statements - contracts and projects
+.. table:: Satisfaction statements — contracts and projects
    :widths: 55 15 15 15
    :name: tbl-2025-satisfaction-statements-contracts
    :class: sortable statements
@@ -3908,14 +3908,14 @@ Respondents who indicated that the statement was not relevant to their situation
    +---------------------------------------------------+----------+---------+----------+
    | My work is sufficiently interesting / challenging |    71.2% |   12.5% |    16.2% |
    +---------------------------------------------------+----------+---------+----------+
-   | I’m satisfied with the systems and toolsets I use |    46.2% |   26.2% |    27.5% |
+   | I'm satisfied with the systems and toolsets I use |    46.2% |   26.2% |    27.5% |
    +---------------------------------------------------+----------+---------+----------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Satisfaction factors - contracts and projects - contractors" aria-describedby="figure_satisfaction-factors-contracts-contractors_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-contracts-contractors-v2.svg">
-         <p id="figure_satisfaction-factors-contracts-contractors_desc">Horizontal bar chart showing contractor respondents’ level of agreement with statements about their contracts and projects.</p>
+      <object role="img" aria-label="Satisfaction factors — contracts and projects — contractors" aria-describedby="figure_satisfaction-factors-contracts-contractors_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-contracts-contractors-v2.svg">
+         <p id="figure_satisfaction-factors-contracts-contractors_desc">Horizontal bar chart showing contractor respondents' level of agreement with statements about their contracts and projects.</p>
       </object>
       <figcaption>Figure: Satisfaction factors — contracts and projects — contractors</figcaption>
    </figure>
@@ -3927,7 +3927,7 @@ Respondents who indicated that the statement was not relevant to their situation
 
 	</div><div class="tab__content">
 
-.. table:: Satisfaction statements - workplaces
+.. table:: Satisfaction statements — workplaces
    :widths: 55 15 15 15
    :name: tbl-2025-satisfaction-statements-contractor-workplaces
    :class: sortable statements
@@ -3947,8 +3947,8 @@ Respondents who indicated that the statement was not relevant to their situation
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Satisfaction factors - workplaces - contractors" aria-describedby="figure_satisfaction-factors-workplaces-contractors_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-workplaces-contractors-v2.svg">
-         <p id="figure_satisfaction-factors-workplaces-contractors_desc">Horizontal bar chart showing contractor respondents’ level of agreement with statements about their workplace(s).</p>
+      <object role="img" aria-label="Satisfaction factors — workplaces — contractors" aria-describedby="figure_satisfaction-factors-workplaces-contractors_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-workplaces-contractors-v2.svg">
+         <p id="figure_satisfaction-factors-workplaces-contractors_desc">Horizontal bar chart showing contractor respondents' level of agreement with statements about their workplace(s).</p>
       </object>
       <figcaption>Figure: Satisfaction factors — workplaces — contractors</figcaption>
    </figure>
@@ -3960,13 +3960,13 @@ Respondents who indicated that the statement was not relevant to their situation
 
 	</div><div class="tab__content">
 
-.. table:: Satisfaction statements - teams and organizations
+.. table:: Satisfaction statements — teams and organizations
    :widths: 46 12 12 12 18
    :name: tbl-2025-satisfaction-statements-contractor-teams
    :class: sortable statements
 
    +---------------------------------------------------------------+----------+---------+----------+------------+
-   | Statements                                                    | Agree    | Neutral | Disagree | Don’t know |
+   | Statements                                                    | Agree    | Neutral | Disagree | Don't know |
    +===============================================================+==========+=========+==========+============+
    | To my knowledge, rates are consistent across similar roles    |    26.8% |    8.5% |    25.4% |      39.4% |
    +---------------------------------------------------------------+----------+---------+----------+------------+
@@ -3980,14 +3980,14 @@ Respondents who indicated that the statement was not relevant to their situation
    +---------------------------------------------------------------+----------+---------+----------+------------+
    | I like and/or respect my organization                         |    66.7% |   24.0% |     9.3% |         -- |
    +---------------------------------------------------------------+----------+---------+----------+------------+
-   | I’m satisfied with our methodologies, systems and practices   |    44.0% |   25.3% |    30.7% |         -- |
+   | I'm satisfied with our methodologies, systems and practices   |    44.0% |   25.3% |    30.7% |         -- |
    +---------------------------------------------------------------+----------+---------+----------+------------+
 
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Satisfaction factors - teams and organizations - contractors" aria-describedby="figure_satisfaction-factors-teams-contractors_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-teams-contractors-v2.svg">
-         <p id="figure_satisfaction-factors-teams-contractors_desc">Horizontal bar chart showing contractor respondents’ level of agreement with statements about their teams and organizations.</p>
+      <object role="img" aria-label="Satisfaction factors — teams and organizations — contractors" aria-describedby="figure_satisfaction-factors-teams-contractors_desc" type="image/svg+xml" data="/_images/2025-satisfaction-factors-teams-contractors-v2.svg">
+         <p id="figure_satisfaction-factors-teams-contractors_desc">Horizontal bar chart showing contractor respondents' level of agreement with statements about their teams and organizations.</p>
       </object>
       <figcaption>Figure: Satisfaction factors — teams and organizations — contractors</figcaption>
    </figure>
@@ -4112,7 +4112,7 @@ Organization type and industry
    - Manufacturing, Engineering, Precision Engineering, Hardware, Semiconductor
    - Media, Radio, TV, Journalism
    - Non-profit, Community
-   - Parks, Recreation, Nature, Wildnerness, Outdoors, Conservation, Ecotourism
+   - Parks, Recreation, Nature, Wilderness, Outdoors, Conservation, Ecotourism
    - Retail, Consumer Products, Fashion
    - Real Estate
    - Science, Research
@@ -4263,7 +4263,7 @@ Organization origin and location
 
    </details>
 
-81.6% of respondents reported that their employer organization was a multinational organization — one with office locations and business operations in two or more countries. These respondents were asked to specify the location where the organization originated.
+81.6% of respondents reported that their employer was a multinational — an organization with office locations and business operations in two or more countries. These respondents were asked to specify the location where the organization originated.
 
 A total of 67.9% of organizations originated in North America, with the bulk of those being US-based.
 
@@ -4271,7 +4271,7 @@ A total of 67.9% of organizations originated in North America, with the bulk of 
 
    <div class="tab-wrap"><input type="radio" id="tabG3-1" name="tabGroupG3" class="tab" checked tabindex="0"><label for="tabG3-1">Regions</label><input type="radio" id="tabG3-2" name="tabGroupG3" class="tab"><label for="tabG3-2">North America</label><input type="radio" id="tabG3-3" name="tabGroupG3" class="tab"><label for="tabG3-3">Europe</label><input type="radio" id="tabG3-4" name="tabGroupG3" class="tab"><label for="tabG3-4">Other regions</label><div class="tab__content">
 
-.. table:: Organization location - Regions
+.. table:: Organization location — Regions
    :widths: 80 10 10
    :name: tbl-2025-organization-location-regions
    :class: std3col sortable
@@ -4297,7 +4297,7 @@ A total of 67.9% of organizations originated in North America, with the bulk of 
 	</div><div class="tab__content">
 
 
-.. table:: Organization location - North America
+.. table:: Organization location — North America
    :widths: 80 10 10
    :name: tbl-2025-organization-location-north-america
    :class: std3col sortable
@@ -4314,7 +4314,7 @@ A total of 67.9% of organizations originated in North America, with the bulk of 
 
 	</div><div class="tab__content">
 
-.. table:: Organization location - Europe
+.. table:: Organization location — Europe
    :widths: 80 10 10
    :name: tbl-2025-organization-location-europe
    :class: std3col sortable
@@ -4347,7 +4347,7 @@ A total of 67.9% of organizations originated in North America, with the bulk of 
 
 	</div><div class="tab__content">
 
-.. table:: Organization location - Oceania
+.. table:: Organization location — Oceania
    :widths: 80 10 10
    :name: tbl-2025-organization-location-oceania
    :class: std3col sortable
@@ -4360,7 +4360,7 @@ A total of 67.9% of organizations originated in North America, with the bulk of 
    | New Zealand                                                  | 3         | 0.4%      |
    +--------------------------------------------------------------+-----------+-----------+
 
-.. table:: Organization location - Asia and Middle East
+.. table:: Organization location — Asia and Middle East
    :widths: 80 10 10
    :name: tbl-2025-organization-location-asia
    :class: std3col sortable
@@ -4381,7 +4381,7 @@ A total of 67.9% of organizations originated in North America, with the bulk of 
    | China, Hong Kong, Indonesia, Pakistan, Sri Lanka, Thailand   | 1         | 0.1%      |
    +--------------------------------------------------------------+-----------+-----------+
 
-.. table:: Organization location - South America
+.. table:: Organization location — South America
    :widths: 80 10 10
    :name: tbl-2025-organization-location-south-america
    :class: std3col sortable
@@ -4392,7 +4392,7 @@ A total of 67.9% of organizations originated in North America, with the bulk of 
    | Brazil                                                       | 11        | 1.5%      |
    +--------------------------------------------------------------+-----------+-----------+
 
-.. table:: Organization location - Africa and other
+.. table:: Organization location — Africa and other
    :widths: 80 10 10
    :name: tbl-2025-organization-location-other
    :class: std3col sortable
@@ -4410,7 +4410,7 @@ A total of 67.9% of organizations originated in North America, with the bulk of 
 Respondent demographics
 =======================
 
-Who makes up the Write the Docs community? The questions in this section on respondent age, gender identity, education, experience, and location provide context for the salary/rate and satisfaction data. All questions in this section had an "I'd rather not say" option, with the exception of geographical location (country and state or province only), without which regional salary breakdowns would not be possible.
+Who makes up the Write the Docs community? The questions in this section on respondent age, gender identity, education, experience, and location provide context for the salary/rate and satisfaction data. All questions in this section had an "I'd rather not say" option, except for geographical location (country and state or province only) — required for the regional salary breakdowns.
 
 .. contents:: In this section
    :local:
@@ -4465,6 +4465,8 @@ The age group split in 2025 was similar to previous years, with the majority of 
    +------------------+-----+-------+
    | 66+ years        | 13  | 1.7%  |
    +------------------+-----+-------+
+   | Not specified    | 5   | 0.7%  |
+   +------------------+-----+-------+
 
 .. raw:: html
 
@@ -4501,7 +4503,7 @@ Gender identity
 
    </details>
 
-As in previous surveys, the majority of respondents in 2025 were women - 61.9% - with men making up 33.4%. 3.0% of respondents were non-binary or other, and 1.7% chose to not provide an answer.
+As in previous surveys, the majority of respondents in 2025 were women — 61.9% — with men making up 33.4%. 3.0% of respondents were non-binary or other, and 1.7% chose not to provide an answer.
 
 .. table:: Respondent gender identity
    :widths: 80 10 10
@@ -4560,7 +4562,7 @@ Experience
 
    </details>
 
-The experience level spread of respondents echoed previous years - most falling into the 5-10 years range (26.8%), 10-15 years range (19.2%) and 2-5 years range (17.4%). New documentarians - those with less than 2 years of experience - made up 4.9% of respondents, and the most experienced documentarians - those with more than 20 years of experience - made up 22.4%. The most experienced respondents had 42 or 43 years in documentation. 0.4% chose not to provide an answer.
+The experience level spread of respondents echoed previous years — most falling into the 5-10 years range (26.8%), 10-15 years range (19.2%) and 2-5 years range (17.4%). New documentarians — those with less than 2 years of experience — made up 4.9% of respondents, and the most experienced documentarians — those with more than 20 years of experience — made up 22.4%. Two respondents reported 42 and 43 years respectively. 0.4% chose not to provide an answer.
 
 .. table:: Experience in documentation
    :widths: 80 10 10
@@ -4627,7 +4629,7 @@ Education level
 
    </details>
 
-As in previous years, most respondents were university- or college-educated: 93.2% held at least one graduate qualification, and 41.7% also held one or more post-graduate qualifications.
+As in previous years, most respondents were university- or college-educated: 93.2% held at least one graduate (bachelor's-level) qualification, and 41.7% also held one or more post-graduate (master's or higher) qualifications.
 
 .. table:: Highest education level completed
    :widths: 80 10 10
@@ -4687,13 +4689,13 @@ Location
 
    </details>
 
-60% of respondents were based in North America, the bulk of those (88.3% of this region, or 53.0% overall) in the United States. In total, 48 countries were represented.
+59.9% of respondents were based in North America; of those, 88.3% (53.0% of all respondents) were in the United States. In total, 48 countries were represented.
 
 .. raw:: html
 
    <div class="tab-wrap"><input type="radio" id="tabH6-1" name="tabGroupH6" class="tab" checked><label for="tabH6-1">North America</label><input type="radio" id="tabH6-2" name="tabGroupH6" class="tab"><label for="tabH6-2">Europe</label><input type="radio" id="tabH6-3" name="tabGroupH6" class="tab"><label for="tabH6-3">Other Regions</label><div class="tab__content">
 
-.. table:: Respondent location - North America
+.. table:: Respondent location — North America
    :widths: 80 10 10
    :name: tbl-2025-respondent-location-north-america
    :class: std3col sortable
@@ -4712,7 +4714,7 @@ Location
 
 	</div><div class="tab__content">
 
-.. table:: Respondent location - Europe
+.. table:: Respondent location — Europe
    :widths: 80 10 10
    :name: tbl-2025-respondent-location-europe
    :class: std3col sortable
@@ -4751,7 +4753,7 @@ Location
 
 	</div><div class="tab__content">
 
-.. table:: Respondent location - Asia
+.. table:: Respondent location — Asia
    :widths: 80 10 10
    :name: tbl-2025-respondent-location-asia
    :class: std3col sortable
@@ -4768,7 +4770,7 @@ Location
    | China, Indonesia, Pakistan, South Korea                    | 1   | 0.1% |
    +------------------------------------------------------------+-----+------+
 
-.. table:: Respondent location - Oceania
+.. table:: Respondent location — Oceania
    :widths: 80 10 10
    :name: tbl-2025-respondent-location-oceania
    :class: std3col sortable
@@ -4781,7 +4783,7 @@ Location
    | New Zealand                                                | 4   | 0.5% |
    +------------------------------------------------------------+-----+------+
 
-.. table:: Respondent location - Middle East
+.. table:: Respondent location — Middle East
    :widths: 80 10 10
    :name: tbl-2025-respondent-location-middle-east
    :class: std3col sortable
@@ -4792,7 +4794,7 @@ Location
    | Israel                                                     | 7   | 0.9% |
    +------------------------------------------------------------+-----+------+
 
-.. table:: Respondent location - South America
+.. table:: Respondent location — South America
    :widths: 80 10 10
    :name: tbl-2025-respondent-location-south-america
    :class: std3col sortable
@@ -4805,7 +4807,7 @@ Location
    | Argentina, Colombia                                        | 1   | 0.1% |
    +------------------------------------------------------------+-----+------+
 
-.. table:: Respondent location - Africa
+.. table:: Respondent location — Africa
    :widths: 80 10 10
    :name: tbl-2025-respondent-location-africa
    :class: std3col sortable
@@ -4832,7 +4834,7 @@ United States
 
    <div class="tab-wrap"><input type="radio" id="tabH62us-1" name="tabGroupH62us" class="tab" checked><label for="tabH62us-1">West</label><input type="radio" id="tabH62us-2" name="tabGroupH62us" class="tab"><label for="tabH62us-2">Midwest</label><input type="radio" id="tabH62us-3" name="tabGroupH62us" class="tab"><label for="tabH62us-3">South</label><input type="radio" id="tabH62us-4" name="tabGroupH62us" class="tab"><label for="tabH62us-4">Northeast</label><div class="tab__content">
 
-.. table:: Respondent location - US West
+.. table:: Respondent location — US West
    :widths: 80 10 10
    :name: tbl-2025-respondent-location-us-west
    :class: std3col sortable
@@ -4919,7 +4921,7 @@ United States
 
    </div><div class="tab__content">
 
-.. table:: Respondent location - US Midwest
+.. table:: Respondent location — US Midwest
    :widths: 80 10 10
    :name: tbl-2025-respondent-location-us-midwest
    :class: std3col sortable
@@ -4988,7 +4990,7 @@ United States
 
    </div><div class="tab__content">
 
-.. table:: Respondent location - US South
+.. table:: Respondent location — US South
    :widths: 80 10 10
    :name: tbl-2025-respondent-location-us-south
    :class: std3col sortable
@@ -5020,7 +5022,7 @@ United States
    +-------------------------------------------------------------------------------+-----+------+
    | - Orlando                                                                     | 2   |      |
    +-------------------------------------------------------------------------------+-----+------+
-   | - Casselberry, Clearwater, Cocoa Beach, Lake Mary, Miami, N/A, St. Petersburg | 1   |      |
+   | - Casselberry, Clearwater, Cocoa Beach, Lake Mary, Miami, St. Petersburg      | 1   |      |
    +-------------------------------------------------------------------------------+-----+------+
    | Georgia                                                                       | 10  | 1.3% |
    +-------------------------------------------------------------------------------+-----+------+
@@ -5056,7 +5058,7 @@ United States
    +-------------------------------------------------------------------------------+-----+------+
    | Oklahoma                                                                      | 2   | 0.3% |
    +-------------------------------------------------------------------------------+-----+------+
-   | - Na, Tulsa                                                                   | 1   |      |
+   | - Tulsa                                                                       | 1   |      |
    +-------------------------------------------------------------------------------+-----+------+
    | Kentucky                                                                      | 1   | 0.1% |
    +-------------------------------------------------------------------------------+-----+------+
@@ -5067,7 +5069,7 @@ United States
 
    </div><div class="tab__content">
 
-.. table:: Respondent location - US Northeast
+.. table:: Respondent location — US Northeast
    :widths: 80 10 10
    :name: tbl-2025-respondent-location-us-northeast
    :class: std3col sortable
@@ -5095,11 +5097,11 @@ United States
    +--------------------------------------------------------------------------------+-----+------+
    | Massachusetts                                                                  | 16  | 2.1% |
    +--------------------------------------------------------------------------------+-----+------+
-   | - Boston                                                                       | 5   |      |
+   | - Boston                                                                       | 6   |      |
    +--------------------------------------------------------------------------------+-----+------+
    | - Burlington, Hadley                                                           | 2   |      |
    +--------------------------------------------------------------------------------+-----+------+
-   | - boston, Cambridge, Marlborough, South Hadley, Springfield, Sutton, Worcester | 1   |      |
+   | - Cambridge, Marlborough, South Hadley, Springfield, Sutton, Worcester         | 1   |      |
    +--------------------------------------------------------------------------------+-----+------+
    | New Jersey                                                                     | 9   | 1.2% |
    +--------------------------------------------------------------------------------+-----+------+
@@ -5139,7 +5141,7 @@ Europe, Canada and Australia
 
    <div class="tab-wrap"><input type="radio" id="tabH62caau-1" name="tabGroupH62caau" class="tab" checked><label for="tabH62caau-1">Europe</label><input type="radio" id="tabH62caau-2" name="tabGroupH62caau" class="tab"><label for="tabH62caau-2">Canada</label><input type="radio" id="tabH62caau-3" name="tabGroupH62caau" class="tab"><label for="tabH62caau-3">Australia</label><div class="tab__content">
 
-.. table:: Respondent location - Europe larger countries
+.. table:: Respondent location — Europe larger countries
    :widths: 80 10 10
    :name: tbl-2025-respondent-location-europe-larger-countries
    :class: std3col sortable
@@ -5155,17 +5157,17 @@ Europe, Canada and Australia
    +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+------+
    | - Belfast, Glasgow                                                                                                                                                                                                                                                | 2   |      |
    +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+------+
-   | - Bath, Brighton East Sussex nited Kingdom, Bristol, Cambridge, Dartford, Derby, Dunfermline, Gloucester, Hook, Hyde, Leeds, Lincoln, Liverpool, Maidenhead, Manchester, Milton Keynes, N/A, Newbury, Nottingham, Sheffield, Stockport, Westgate-on-Sea, Worthing | 1   |      |
+   | - Bath, Brighton, Bristol, Cambridge, Dartford, Derby, Dunfermline, Gloucester, Hook, Hyde, Leeds, Lincoln, Liverpool, Maidenhead, Manchester, Milton Keynes, Newbury, Nottingham, Sheffield, Stockport, Westgate-on-Sea, Worthing                                 | 1   |      |
    +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+------+
    | Germany                                                                                                                                                                                                                                                           | 42  | 5.6% |
    +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+------+
-   | - Berlin                                                                                                                                                                                                                                                          | 9   |      |
+   | - Berlin                                                                                                                                                                                                                                                          | 10  |      |
    +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+------+
-   | - Munich                                                                                                                                                                                                                                                          | 7   |      |
+   | - Munich                                                                                                                                                                                                                                                          | 9   |      |
    +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+------+
-   | - Bielefeld, Bonn, Bremen, Frankfurt am Main, Karlsruhe, Kassel, München                                                                                                                                                                                          | 2   |      |
+   | - Bielefeld, Bonn, Bremen, Frankfurt am Main, Karlsruhe, Kassel                                                                                                                                                                                                  | 2   |      |
    +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+------+
-   | - Augsburg, Berlino, Dortmund, Dresden, Düsseldorf, Hamburg, Hanau, Heidelberg, Leipzig, Lörrach, Nuremberg, Stuttgart                                                                                                                                            | 1   |      |
+   | - Augsburg, Dortmund, Dresden, Düsseldorf, Hamburg, Hanau, Heidelberg, Leipzig, Lörrach, Nuremberg, Stuttgart                                                                                                                                                     | 1   |      |
    +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+------+
    | France                                                                                                                                                                                                                                                            | 16  | 2.1% |
    +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+------+
@@ -5200,7 +5202,7 @@ Europe, Canada and Australia
 
    </div><div class="tab__content">
 
-.. table:: Respondent location - Canadian province
+.. table:: Respondent location — Canadian province
    :widths: 80 10 10
    :name: tbl-2025-respondent-location-canadian-province
    :class: std3col sortable
@@ -5222,7 +5224,7 @@ Europe, Canada and Australia
    +------------------------------------------------+-----+------+
    | - Montreal                                     | 6   |      |
    +------------------------------------------------+-----+------+
-   | - Matane, Québec                               | 1   |      |
+   | - Matane, Québec City                          | 1   |      |
    +------------------------------------------------+-----+------+
    | British Columbia                               | 6   | 0.8% |
    +------------------------------------------------+-----+------+
@@ -5251,7 +5253,7 @@ Europe, Canada and Australia
 
    </div><div class="tab__content">
 
-.. table:: Respondent location - Australian state
+.. table:: Respondent location — Australian state
    :widths: 80 10 10
    :name: tbl-2025-respondent-location-australian-state
    :class: std3col sortable
@@ -5316,13 +5318,13 @@ As in 2024, the survey included some questions about the survey itself.
 
    </details>
 
-45% of the respondents in 2025 were repeat participants. Overall, respondents were strongly positive about the survey.
+45% of the respondents in 2025 were repeat participants. Across all three statements, more than 95% of respondents agreed or strongly agreed.
 
 .. raw:: html
 
    <div class="tab-wrap"><input type="radio" id="tabW1-1" name="tabGroupW1" class="tab" checked><label for="tabW1-1">Length</label><input type="radio" id="tabW1-2" name="tabGroupW1" class="tab"><label for="tabW1-2">Relevance</label><input type="radio" id="tabW1-3" name="tabGroupW1" class="tab"><label for="tabW1-3">Usability</label><div class="tab__content">
 
-.. table:: Survey feedback - length
+.. table:: Survey feedback — length
    :widths: 80 10 10
    :name: tbl-2025-survey-feedback-length
    :class: std3col sortable
@@ -5344,10 +5346,10 @@ As in 2024, the survey included some questions about the survey itself.
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Survey feedback - length (2025)" aria-describedby="figure_feedback-survey-length_desc" type="image/svg+xml" data="/_images/2025-feedback-survey-length-v2.svg">
+      <object role="img" aria-label="Survey feedback — length (2025)" aria-describedby="figure_feedback-survey-length_desc" type="image/svg+xml" data="/_images/2025-feedback-survey-length-v2.svg">
          <p id="figure_feedback-survey-length_desc">Donut chart showing respondent agreement with the statement: the length of the survey is appropriate</p>
       </object>
-      <figcaption>Figure: Agreement - survey length is appropriate</figcaption>
+      <figcaption>Figure: Agreement — survey length is appropriate</figcaption>
    </figure>
 
 .. figure:: images/2025/2025-feedback-survey-length-v2.svg
@@ -5357,7 +5359,7 @@ As in 2024, the survey included some questions about the survey itself.
 
    </div><div class="tab__content">
 
-.. table:: Survey feedback - relevance
+.. table:: Survey feedback — relevance
    :widths: 80 10 10
    :name: tbl-2025-survey-feedback-relevance
    :class: std3col sortable
@@ -5377,10 +5379,10 @@ As in 2024, the survey included some questions about the survey itself.
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Survey feedback - relevance (2025)" aria-describedby="figure_feedback-relevance_desc" type="image/svg+xml" data="/_images/2025-feedback-relevance-v2.svg">
+      <object role="img" aria-label="Survey feedback — relevance (2025)" aria-describedby="figure_feedback-relevance_desc" type="image/svg+xml" data="/_images/2025-feedback-relevance-v2.svg">
          <p id="figure_feedback-relevance_desc">Donut chart showing respondent agreement with the statement: the survey questions are relevant</p>
       </object>
-      <figcaption>Figure: Agreement - survey questions are relevant</figcaption>
+      <figcaption>Figure: Agreement — survey questions are relevant</figcaption>
    </figure>
 
 .. figure:: images/2025/2025-feedback-relevance-v2.svg
@@ -5390,7 +5392,7 @@ As in 2024, the survey included some questions about the survey itself.
 
    </div><div class="tab__content">
 
-.. table:: Survey feedback - usability
+.. table:: Survey feedback — usability
    :widths: 80 10 10
    :name: tbl-2025-survey-feedback-usability
    :class: std3col sortable
@@ -5410,10 +5412,10 @@ As in 2024, the survey included some questions about the survey itself.
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Survey feedback - usability (2025)" aria-describedby="figure_feedback-usability_desc" type="image/svg+xml" data="/_images/2025-feedback-usability-v2.svg">
+      <object role="img" aria-label="Survey feedback — usability (2025)" aria-describedby="figure_feedback-usability_desc" type="image/svg+xml" data="/_images/2025-feedback-usability-v2.svg">
          <p id="figure_feedback-usability_desc">Donut chart showing respondent agreement with the statement: the survey form/website are usable</p>
       </object>
-      <figcaption>Figure: Agreement - survey form/website are usable</figcaption>
+      <figcaption>Figure: Agreement — survey form/website are usable</figcaption>
    </figure>
 
 .. figure:: images/2025/2025-feedback-usability-v2.svg

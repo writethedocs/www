@@ -63,10 +63,10 @@
 
       <g class="labels" font-size="10" text-anchor="end">
         <text><tspan x="120" y="80">High school</tspan></text>
-        <text><tspan x="120" y="108">Undergraduate</tspan></text>
-        <text><tspan x="120" y="136">Multiple undergraduate</tspan></text>
-        <text><tspan x="120" y="164">Postgraduate</tspan></text>
-        <text><tspan x="120" y="192">Multiple postgraduate</tspan></text>
+        <text><tspan x="120" y="108">Graduate</tspan></text>
+        <text><tspan x="120" y="136">Multiple graduate</tspan></text>
+        <text><tspan x="120" y="164">Post-graduate</tspan></text>
+        <text><tspan x="120" y="192">Multiple post-graduate</tspan></text>
       </g>
 
       <g class="tracks">

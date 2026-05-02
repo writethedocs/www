@@ -61,9 +61,9 @@
       </g>
 
       <g class="labels" font-size="10" text-anchor="end">
-        <text><tspan x="120" y="80">Undergraduate</tspan></text>
-        <text><tspan x="120" y="108">Postgraduate</tspan></text>
-        <text><tspan x="120" y="136">Multiple postgraduate</tspan></text>
+        <text><tspan x="120" y="80">Graduate</tspan></text>
+        <text><tspan x="120" y="108">Post-graduate</tspan></text>
+        <text><tspan x="120" y="136">Multiple post-graduate</tspan></text>
       </g>
 
       <g class="tracks">
