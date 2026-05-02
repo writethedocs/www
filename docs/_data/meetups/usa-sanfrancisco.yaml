@@ -2,7 +2,11 @@ region: North America
 country: USA
 state: California
 city: San Francisco
-meetup: Write-the-Docs
+meetup: write-the-docs-bay-area
 organizer:
-   - name: Ilona Koren-Deutsch
-     link: https://twitter.com/nitsekees
+   - name: Doug Purcell
+     link: https://www.meetup.com/members/372303383/
+   - name: Lena Chervin
+     link: https://www.meetup.com/members/299452082/
+   - name: Bennett Charles
+     link: https://www.meetup.com/members/200549308/

@@ -28,6 +28,13 @@ North America
     :region: North America
 
 
+South America
+-------------
+
+.. meetup-listing::
+    :region: South America
+
+
 Europe
 ------
 
