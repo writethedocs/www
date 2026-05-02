@@ -4,6 +4,10 @@
     <style type="text/css">
       <![CDATA[
         @import url(/_static/survey/css/2025-svg.css);
+
+        #2025-feedback-relevance-v2 .value-labels-inner.hover-only {
+          opacity: 0;
+        }
       ]]>
     </style>
     <filter id="label-bg" x="-15%" y="-40%" width="130%" height="180%">
@@ -65,9 +69,11 @@
       <path class="slice disagree" d="M180 262 A150 150 0 0 1 180.007 260.586 L270.003 261.435 A60 60 0 0 0 270 262 Z"/>
       <path class="slice neutral" d="M180.007 260.586 A150 150 0 0 1 180.622 248.353 L270.249 256.541 A60 60 0 0 0 270.003 261.435 Z"/>
       <path class="slice agree" d="M180.622 248.353 A150 150 0 0 1 289.511 117.568 L313.804 204.227 A60 60 0 0 0 270.249 256.541 Z"/>
-      <text font-size="14" text-anchor="middle" class="value-labels-inner"><tspan x="249" y="199">38.4%</tspan></text>
+      <text text-anchor="middle" class="value-labels-inner hover-only" data-series="disagree"><tspan x="219" y="255">0.3%</tspan></text>
+      <text text-anchor="middle" class="value-labels-inner hover-only" data-series="neutral"><tspan x="230" y="237">2.6%</tspan></text>
+      <text text-anchor="middle" class="value-labels-inner"><tspan x="249" y="199">38.4%</tspan></text>
       <path class="slice strongly-agree" d="M289.511 117.568 A150 150 0 0 1 480 262 L390 262 A60 60 0 0 0 313.804 204.227 Z"/>
-      <text font-size="14" text-anchor="middle" class="value-labels-inner"><tspan x="393" y="182">58.7%</tspan></text>
+      <text text-anchor="middle" class="value-labels-inner"><tspan x="393" y="182">58.7%</tspan></text>
     
     </g>
   </g>
@@ -125,6 +131,8 @@
         return firstSeriesClass(swatch);
       }
 
+      var slices = root.querySelectorAll('.slice');
+      var labels = root.querySelectorAll('.value-labels-inner');
       var legendItems = Array.prototype.slice.call(root.querySelectorAll('.legend-item')).filter(function (item) {
         return !!legendSeries(item);
       });
@@ -144,18 +152,58 @@
 
         var container = item.querySelector('rect.legend-item-container');
         if (container) {
-          container.style.transition = 'opacity 160ms ease, stroke 160ms ease, stroke-width 160ms ease';
+          container.style.transition = 'opacity 220ms ease-in-out, stroke 220ms ease-in-out, stroke-width 220ms ease-in-out';
         }
 
         var label = item.querySelector('text.legend-label');
         if (label) {
-          label.style.transition = 'opacity 160ms ease';
+          label.style.transition = 'opacity 220ms ease-in-out';
         }
 
         if (seriesNames.indexOf(series) === -1) {
           seriesNames.push(series);
         }
       });
+
+      function assignLabelSeries() {
+        Array.prototype.forEach.call(labels, function (label) {
+          if ((label.getAttribute && label.getAttribute('data-series')) || label.closest('.legend')) {
+            return;
+          }
+
+          var labelBox = label.getBBox();
+          var labelX = labelBox.x + (labelBox.width / 2);
+          var labelY = labelBox.y + (labelBox.height / 2);
+          var nearestSeries = null;
+          var nearestDistance = Infinity;
+
+          slices.forEach(function (slice) {
+            var sliceSeries = firstSeriesClass(slice);
+            if (!sliceSeries || seriesNames.indexOf(sliceSeries) === -1) {
+              return;
+            }
+
+            var sliceBox = slice.getBBox();
+            var sliceX = sliceBox.x + (sliceBox.width / 2);
+            var sliceY = sliceBox.y + (sliceBox.height / 2);
+            var dx = labelX - sliceX;
+            var dy = labelY - sliceY;
+            var distance = (dx * dx) + (dy * dy);
+
+            if (distance < nearestDistance) {
+              nearestDistance = distance;
+              nearestSeries = sliceSeries;
+            }
+          });
+
+          if (nearestSeries) {
+            label.setAttribute('data-series', nearestSeries);
+            label.style.transition = 'opacity 220ms ease-in-out, font-size 220ms ease-in-out, fill-opacity 220ms ease-in-out';
+          }
+        });
+      }
+
+      assignLabelSeries();
 
       var elementsBySeries = {};
       seriesNames.forEach(function (series) {
@@ -205,7 +253,7 @@
         }
 
         elementsBySeries[series].push(element);
-        element.style.transition = 'opacity 160ms ease, fill-opacity 160ms ease, stroke-opacity 160ms ease';
+        element.style.transition = 'opacity 220ms ease-in-out, fill-opacity 220ms ease-in-out, stroke-opacity 220ms ease-in-out';
       });
 
       function clearActiveSeries() {
@@ -222,6 +270,14 @@
           elementsBySeries[series].forEach(function (element) {
             element.style.removeProperty('opacity');
           });
+        });
+
+        labels.forEach(function (label) {
+          var isHoverOnly = label.classList.contains('hover-only');
+          label.style.opacity = isHoverOnly ? '0' : '';
+          label.style.removeProperty('font-size');
+          label.style.removeProperty('font-weight');
+          label.style.removeProperty('fill-opacity');
         });
       }
 
@@ -253,6 +309,22 @@
             }
           });
         });
+
+        labels.forEach(function (label) {
+          var isActive = label.getAttribute && label.getAttribute('data-series') === series;
+          if (isActive) {
+            label.style.opacity = '1';
+            label.style.fontSize = '14px';
+            label.style.fontWeight = '700';
+            label.style.fillOpacity = '1';
+          } else {
+            var isHoverOnly = label.classList.contains('hover-only');
+            label.style.opacity = isHoverOnly ? '0' : '';
+            label.style.removeProperty('font-size');
+            label.style.removeProperty('font-weight');
+            label.style.removeProperty('fill-opacity');
+          }
+        });
       }
 
       legendItems.forEach(function (item) {
@@ -269,6 +341,27 @@
         });
 
         item.addEventListener('blur', clearActiveSeries);
+      });
+
+      slices.forEach(function (slice) {
+        var series = null;
+
+        legendItems.forEach(function (item) {
+          var itemSeries = item.getAttribute('data-series');
+          if (!series && slice.classList.contains(itemSeries)) {
+            series = itemSeries;
+          }
+        });
+
+        if (!series) {
+          return;
+        }
+
+        slice.addEventListener('mouseenter', function () {
+          setActiveSeries(series);
+        });
+
+        slice.addEventListener('mouseleave', clearActiveSeries);
       });
     }());
   ]]></script>

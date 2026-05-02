@@ -138,6 +138,8 @@
         return firstSeriesClass(swatch);
       }
 
+      var slices = root.querySelectorAll('.slice');
+      var labels = root.querySelectorAll('.value-labels-inner');
       var legendItems = Array.prototype.slice.call(root.querySelectorAll('.legend-item')).filter(function (item) {
         return !!legendSeries(item);
       });
@@ -157,16 +159,62 @@
 
         var container = item.querySelector('rect.legend-item-container');
         if (container) {
-          container.style.transition = 'opacity 160ms ease, stroke 160ms ease, stroke-width 160ms ease';
+          container.style.transition = 'opacity 220ms ease-in-out, stroke 220ms ease-in-out, stroke-width 220ms ease-in-out';
         }
 
         var label = item.querySelector('text.legend-label');
         if (label) {
-          label.style.transition = 'opacity 160ms ease';
+          label.style.transition = 'opacity 220ms ease-in-out';
         }
 
         if (seriesNames.indexOf(series) === -1) {
           seriesNames.push(series);
+        }
+      });
+
+      function assignLabelSeries() {
+        Array.prototype.forEach.call(labels, function (label) {
+          if ((label.getAttribute && label.getAttribute('data-series')) || label.closest('.legend')) {
+            return;
+          }
+
+          var labelBox = label.getBBox();
+          var labelX = labelBox.x + (labelBox.width / 2);
+          var labelY = labelBox.y + (labelBox.height / 2);
+          var nearestSeries = null;
+          var nearestDistance = Infinity;
+
+          slices.forEach(function (slice) {
+            var sliceSeries = firstSeriesClass(slice);
+            if (!sliceSeries || seriesNames.indexOf(sliceSeries) === -1) {
+              return;
+            }
+
+            var sliceBox = slice.getBBox();
+            var sliceX = sliceBox.x + (sliceBox.width / 2);
+            var sliceY = sliceBox.y + (sliceBox.height / 2);
+            var dx = labelX - sliceX;
+            var dy = labelY - sliceY;
+            var distance = (dx * dx) + (dy * dy);
+
+            if (distance < nearestDistance) {
+              nearestDistance = distance;
+              nearestSeries = sliceSeries;
+            }
+          });
+
+          if (nearestSeries) {
+            label.setAttribute('data-series', nearestSeries);
+            label.style.transition = 'opacity 220ms ease-in-out, font-size 220ms ease-in-out, fill-opacity 220ms ease-in-out';
+          }
+        });
+      }
+
+      assignLabelSeries();
+
+      Array.prototype.forEach.call(labels, function (label) {
+        if (!label.style.transition) {
+          label.style.transition = 'opacity 220ms ease-in-out, font-size 220ms ease-in-out, fill-opacity 220ms ease-in-out';
         }
       });
 
@@ -218,7 +266,7 @@
         }
 
         elementsBySeries[series].push(element);
-        element.style.transition = 'opacity 160ms ease, fill-opacity 160ms ease, stroke-opacity 160ms ease';
+        element.style.transition = 'opacity 220ms ease-in-out, fill-opacity 220ms ease-in-out, stroke-opacity 220ms ease-in-out';
       });
 
       function clearActiveSeries() {
@@ -235,6 +283,14 @@
           elementsBySeries[series].forEach(function (element) {
             element.style.removeProperty('opacity');
           });
+        });
+
+        labels.forEach(function (label) {
+          var isHoverOnly = label.classList.contains('hover-only');
+          label.style.opacity = isHoverOnly ? '0' : '';
+          label.style.removeProperty('font-size');
+          label.style.removeProperty('font-weight');
+          label.style.removeProperty('fill-opacity');
         });
       }
 
@@ -266,6 +322,22 @@
             }
           });
         });
+
+        labels.forEach(function (label) {
+          var isActive = label.getAttribute && label.getAttribute('data-series') === series;
+          if (isActive) {
+            label.style.opacity = '1';
+            label.style.fontSize = '14px';
+            label.style.fontWeight = '700';
+            label.style.fillOpacity = '1';
+          } else {
+            var isHoverOnly = label.classList.contains('hover-only');
+            label.style.opacity = isHoverOnly ? '0' : '';
+            label.style.removeProperty('font-size');
+            label.style.removeProperty('font-weight');
+            label.style.removeProperty('fill-opacity');
+          }
+        });
       }
 
       legendItems.forEach(function (item) {
@@ -282,6 +354,27 @@
         });
 
         item.addEventListener('blur', clearActiveSeries);
+      });
+
+      slices.forEach(function (slice) {
+        var series = null;
+
+        legendItems.forEach(function (item) {
+          var itemSeries = item.getAttribute('data-series');
+          if (!series && slice.classList.contains(itemSeries)) {
+            series = itemSeries;
+          }
+        });
+
+        if (!series) {
+          return;
+        }
+
+        slice.addEventListener('mouseenter', function () {
+          setActiveSeries(series);
+        });
+
+        slice.addEventListener('mouseleave', clearActiveSeries);
       });
     }());
   ]]></script>

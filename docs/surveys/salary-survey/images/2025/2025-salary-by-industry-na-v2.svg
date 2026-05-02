@@ -226,12 +226,12 @@
 
         var container = item.querySelector('rect.legend-item-container');
         if (container) {
-          container.style.transition = 'opacity 160ms ease, stroke 160ms ease, stroke-width 160ms ease';
+          container.style.transition = 'opacity 220ms ease-in-out, stroke 220ms ease-in-out, stroke-width 220ms ease-in-out';
         }
 
         var label = item.querySelector('text.legend-label');
         if (label) {
-          label.style.transition = 'opacity 160ms ease';
+          label.style.transition = 'opacity 220ms ease-in-out';
         }
 
         if (seriesNames.indexOf(series) === -1) {
@@ -287,7 +287,7 @@
         }
 
         elementsBySeries[series].push(element);
-        element.style.transition = 'opacity 160ms ease, fill-opacity 160ms ease, stroke-opacity 160ms ease';
+        element.style.transition = 'opacity 220ms ease-in-out, fill-opacity 220ms ease-in-out, stroke-opacity 220ms ease-in-out';
       });
 
       function clearActiveSeries() {

@@ -249,6 +249,10 @@ text {
     filter: url(#label-bg);
   }
 
+  .value-labels-inner, .value-labels-inner * {
+    pointer-events: none;
+  }
+
 }
 
 .line-chart {
@@ -563,9 +567,19 @@ fill-opacity: 0.8;
 		font-weight: 700;
 	}
 
-	.value-labels-inner, .value-labels-inner text {
-		fill: #FFF;
-	}
+.donut-chart .value-labels-inner, .donut-chart .value-labels-inner text, .donut-chart .value-labels-inner tspan {
+fill: #FFF;
+}
+
+.bar-chart-horizontal .value-labels-inner,
+.bar-chart-horizontal .value-labels-inner text,
+.bar-chart-horizontal .value-labels-inner tspan,
+.bar-chart-horizontal text.value-labels-inner {
+fill: var(--color-text-dark);
+font-family: var(--font);
+font-size: 10px;
+font-weight: 600;
+}
 
 .bars {
 fill: var(--color-series-a);
@@ -616,7 +630,15 @@ transition: var(--transition);
    .value-labels-inner {
             fill: var(--color-text-dark);
             font-family: var(--font);
-            font-weight: 700;
+            font-size: 10px;
+            font-weight: 600;
+    }
+
+   .value-labels-inner text,
+   .value-labels-inner tspan {
+            fill: var(--color-text-dark);
+            font-size: 10px;
+            font-weight: 600;
     }
 
    rect.disagree,

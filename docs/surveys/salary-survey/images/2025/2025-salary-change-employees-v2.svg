@@ -13,11 +13,11 @@
         #2025-salary-change-employees-v2 .legend-item text.legend-label,
         #2025-salary-change-employees-v2 .slice,
         #2025-salary-change-employees-v2 .value-labels-inner {
-          transition: opacity 160ms ease, stroke-width 160ms ease, fill-opacity 160ms ease, stroke 160ms ease;
+          transition: opacity 220ms ease-in-out, stroke-width 220ms ease-in-out, fill-opacity 220ms ease-in-out, stroke 220ms ease-in-out, font-size 220ms ease-in-out;
         }
 
-        #2025-salary-change-employees-v2 .slice:hover {
-          fill-opacity: 1;
+        #2025-salary-change-employees-v2 .value-labels-inner.hover-only {
+          opacity: 0;
         }
       ]]>
     </style>
@@ -71,8 +71,9 @@
       <path class="slice neutral" d="M181.24 202.78 A150 150 0 0 1 236.70 104.55 L292.68 175.02 A60 60 0 0 0 270.49 214.31 Z"/>
       <path class="slice positive" d="M236.70 104.55 A150 150 0 0 1 480 222 L390 222 A60 60 0 0 0 292.68 175.02 Z"/>
 
-      <text font-size="14" class="value-labels-inner" data-series="positive" text-anchor="middle"><tspan x="376" y="127">71.4%</tspan></text>
-      <text font-size="14" class="value-labels-inner" data-series="neutral" text-anchor="middle"><tspan x="239" y="170">24.5%</tspan></text>
+      <text class="value-labels-inner hover-only" data-series="negative" text-anchor="middle"><tspan x="221" y="211">4.1%</tspan></text>
+      <text class="value-labels-inner" data-series="positive" text-anchor="middle"><tspan x="376" y="127">71.4%</tspan></text>
+      <text class="value-labels-inner" data-series="neutral" text-anchor="middle"><tspan x="239" y="170">24.5%</tspan></text>
     </g>
   </g>
 
@@ -93,7 +94,6 @@
           var container = item.querySelector('rect.legend-item-container');
           if (container) {
             container.style.removeProperty('stroke');
-            container.style.removeProperty('stroke-width');
           }
         });
 
@@ -104,7 +104,10 @@
         });
 
         labels.forEach(function (label) {
-          label.style.removeProperty('opacity');
+          var isHoverOnly = label.classList.contains('hover-only');
+          label.style.opacity = isHoverOnly ? '0' : '';
+          label.style.removeProperty('font-size');
+          label.style.removeProperty('font-weight');
         });
       }
 
@@ -116,7 +119,6 @@
           var container = item.querySelector('rect.legend-item-container');
           if (container) {
             container.style.stroke = isActive ? 'var(--color-text-dark)' : '';
-            container.style.strokeWidth = isActive ? '1.5' : '';
           }
         });
 
@@ -128,7 +130,12 @@
         });
 
         labels.forEach(function (label) {
-          label.style.opacity = label.getAttribute('data-series') === series ? '1' : '0.4';
+          var isActive = label.getAttribute('data-series') === series;
+          var isHoverOnly = label.classList.contains('hover-only');
+          label.style.opacity = isActive ? '1' : (isHoverOnly ? '0' : '0.4');
+          label.style.fillOpacity = isActive ? '1' : '';
+          label.style.fontSize = isActive ? '14px' : '';
+          label.style.fontWeight = isActive ? '700' : '';
         });
       }
 
@@ -147,6 +154,29 @@
 
         item.addEventListener('blur', clearActiveSeries);
       });
+
+      slices.forEach(function (slice) {
+        var series = null;
+
+        legendItems.forEach(function (item) {
+          var itemSeries = item.getAttribute('data-series');
+          if (!series && slice.classList.contains(itemSeries)) {
+            series = itemSeries;
+          }
+        });
+
+        if (!series) {
+          return;
+        }
+
+        slice.addEventListener('mouseenter', function () {
+          setActiveSeries(series);
+        });
+
+        slice.addEventListener('mouseleave', clearActiveSeries);
+      });
+
+      clearActiveSeries();
     }());
   ]]></script>
 

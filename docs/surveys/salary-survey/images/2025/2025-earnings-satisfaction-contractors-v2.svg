@@ -78,11 +78,11 @@
       <path class="slice very-satisfied" d="M470.729 184.082 A150 150 0 0 1 480.000 236.000 L390.000 236.000 A60 60 0 0 0 386.291 215.233 Z"/>
 
       <!-- Inner percentage labels -->
-      <text font-size="14" class="value-labels-inner"><tspan x="205" y="217">13.8%</tspan></text>
-      <text font-size="14" class="value-labels-inner"><tspan x="227" y="171">16.2%</tspan></text>
-      <text font-size="14" class="value-labels-inner"><tspan x="274" y="138">17.5%</tspan></text>
-      <text font-size="14" class="value-labels-inner"><tspan x="371" y="148">41.2%</tspan></text>
-      <text font-size="14" class="value-labels-inner"><tspan x="420" y="222">11.2%</tspan></text>
+      <text class="value-labels-inner"><tspan x="205" y="217">13.8%</tspan></text>
+      <text class="value-labels-inner"><tspan x="227" y="171">16.2%</tspan></text>
+      <text class="value-labels-inner"><tspan x="274" y="138">17.5%</tspan></text>
+      <text class="value-labels-inner"><tspan x="371" y="148">41.2%</tspan></text>
+      <text class="value-labels-inner"><tspan x="420" y="222">11.2%</tspan></text>
     </g>
   </g>
 
@@ -139,6 +139,8 @@
         return firstSeriesClass(swatch);
       }
 
+      var slices = root.querySelectorAll('.slice');
+      var labels = root.querySelectorAll('.value-labels-inner');
       var legendItems = Array.prototype.slice.call(root.querySelectorAll('.legend-item')).filter(function (item) {
         return !!legendSeries(item);
       });
@@ -158,18 +160,58 @@
 
         var container = item.querySelector('rect.legend-item-container');
         if (container) {
-          container.style.transition = 'opacity 160ms ease, stroke 160ms ease, stroke-width 160ms ease';
+          container.style.transition = 'opacity 220ms ease-in-out, stroke 220ms ease-in-out, stroke-width 220ms ease-in-out';
         }
 
         var label = item.querySelector('text.legend-label');
         if (label) {
-          label.style.transition = 'opacity 160ms ease';
+          label.style.transition = 'opacity 220ms ease-in-out';
         }
 
         if (seriesNames.indexOf(series) === -1) {
           seriesNames.push(series);
         }
       });
+
+      function assignLabelSeries() {
+        Array.prototype.forEach.call(labels, function (label) {
+          if ((label.getAttribute && label.getAttribute('data-series')) || label.closest('.legend')) {
+            return;
+          }
+
+          var labelBox = label.getBBox();
+          var labelX = labelBox.x + (labelBox.width / 2);
+          var labelY = labelBox.y + (labelBox.height / 2);
+          var nearestSeries = null;
+          var nearestDistance = Infinity;
+
+          slices.forEach(function (slice) {
+            var sliceSeries = firstSeriesClass(slice);
+            if (!sliceSeries || seriesNames.indexOf(sliceSeries) === -1) {
+              return;
+            }
+
+            var sliceBox = slice.getBBox();
+            var sliceX = sliceBox.x + (sliceBox.width / 2);
+            var sliceY = sliceBox.y + (sliceBox.height / 2);
+            var dx = labelX - sliceX;
+            var dy = labelY - sliceY;
+            var distance = (dx * dx) + (dy * dy);
+
+            if (distance < nearestDistance) {
+              nearestDistance = distance;
+              nearestSeries = sliceSeries;
+            }
+          });
+
+          if (nearestSeries) {
+            label.setAttribute('data-series', nearestSeries);
+            label.style.transition = 'opacity 220ms ease-in-out, font-size 220ms ease-in-out, fill-opacity 220ms ease-in-out';
+          }
+        });
+      }
+
+      assignLabelSeries();
 
       var elementsBySeries = {};
       seriesNames.forEach(function (series) {
@@ -219,7 +261,7 @@
         }
 
         elementsBySeries[series].push(element);
-        element.style.transition = 'opacity 160ms ease, fill-opacity 160ms ease, stroke-opacity 160ms ease';
+        element.style.transition = 'opacity 220ms ease-in-out, fill-opacity 220ms ease-in-out, stroke-opacity 220ms ease-in-out';
       });
 
       function clearActiveSeries() {
@@ -236,6 +278,12 @@
           elementsBySeries[series].forEach(function (element) {
             element.style.removeProperty('opacity');
           });
+        });
+
+        labels.forEach(function (label) {
+          label.style.removeProperty('font-size');
+          label.style.removeProperty('font-weight');
+          label.style.removeProperty('fill-opacity');
         });
       }
 
@@ -267,6 +315,19 @@
             }
           });
         });
+
+        labels.forEach(function (label) {
+          var isActive = label.getAttribute && label.getAttribute('data-series') === series;
+          if (isActive) {
+            label.style.fontSize = '14px';
+            label.style.fontWeight = '700';
+            label.style.fillOpacity = '1';
+          } else {
+            label.style.removeProperty('font-size');
+            label.style.removeProperty('font-weight');
+            label.style.removeProperty('fill-opacity');
+          }
+        });
       }
 
       legendItems.forEach(function (item) {
@@ -283,6 +344,27 @@
         });
 
         item.addEventListener('blur', clearActiveSeries);
+      });
+
+      slices.forEach(function (slice) {
+        var series = null;
+
+        legendItems.forEach(function (item) {
+          var itemSeries = item.getAttribute('data-series');
+          if (!series && slice.classList.contains(itemSeries)) {
+            series = itemSeries;
+          }
+        });
+
+        if (!series) {
+          return;
+        }
+
+        slice.addEventListener('mouseenter', function () {
+          setActiveSeries(series);
+        });
+
+        slice.addEventListener('mouseleave', clearActiveSeries);
       });
     }());
   ]]></script>
