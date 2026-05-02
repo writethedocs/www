@@ -172,7 +172,7 @@ Sign up to the Write the Docs newsletter below to get updates about all things W
 About this year's survey
 ------------------------
 
-Repeat survey participants may have noticed that the survey form was shorter this year. For more information on what was removed and why, see the following section. 
+Repeat survey participants may have noticed that the survey form was shorter this year. For more information on what was removed and why, see the following section.
 
 .. raw:: html
 
@@ -212,7 +212,7 @@ Here's some of our favourite comments from 2025:
    .. pull-quote::
 
       Previous WTD data gave me the confidence I needed to ask for (and justify to myself) a $45,000 salary increase when I joined a new company in 2023. And I got the job.
-      
+
       I always share the WTD survey results with my manager every year, and the information has been so instrumental in helping my manager understand the value of my work in a very specialized field.
 
       The WTD Salary Survey is my go-to resource when discussing salaries with potential employers.
@@ -1843,7 +1843,7 @@ Salary
 
    |icon-question|
 
-   **Enter your gross salary - i.e. including tax - and indicate whether this is a monthly or yearly amount.** If your compensation is made up of a base salary and significant bonus, equity or commission payments, enter your total compensation. If this number fluctuates, enter what you expect to earn in total in 2025.  
+   **Enter your gross salary - i.e. including tax - and indicate whether this is a monthly or yearly amount.** If your compensation is made up of a base salary and significant bonus, equity or commission payments, enter your total compensation. If this number fluctuates, enter what you expect to earn in total in 2025.
 
    - Currency
    - Salary including tax
@@ -1865,7 +1865,7 @@ USD representation grew from 45.0% to 54.2%; Canadian dollar, Indian rupee, and 
    <div class="tab-wrap"><input type="radio" id="tabCurr-1" name="tabGroupCurr" class="tab" checked><label for="tabCurr-1">Major currencies</label><input type="radio" id="tabCurr-2" name="tabGroupCurr" class="tab"><label for="tabCurr-2">Additional currencies</label><div class="tab__content">
 
 .. table:: Currencies and exchange rates - employees (≥1% representation)
-   :widths: 55 10 10 10 15
+   :widths: 55 10 10 15
    :name: tbl-2025-currencies-employees-major
    :class: sortable col3center col4right
 
