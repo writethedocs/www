@@ -32,7 +32,7 @@ See the full [conference schedule](/conf/{{shortcode}}/{{year}}/schedule/) for c
 
 ## Getting Started
 
-A few days before the conference, you'll receive an email with:
+You'll receive an email titled **Virtual platform access for Write the Docs** one week before the conference, and again on the day of the conference, with:
 
 * Your unique login link for Venueless
 * A quick start guide for the platform
