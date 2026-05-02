@@ -569,7 +569,7 @@ nav.mobile-nav {
   }
 }
 
-.contents.local.topic.boxed { /* localized section TOC */
+.contents.boxed.local { /* localized section TOC */
   display: flex;
   flex-direction: column;
   align-items: flex-start;
