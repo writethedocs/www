@@ -1,7 +1,7 @@
 Meetup group FAQ
 ================
 
-The most commone community group organizing platform is Meetup.com. The following questions and answers cover some situations that you might
+The most common community group organizing platform is Meetup.com. The following questions and answers cover some situations that you might
 encounter when you want to start a community group through Meetup.
 
 Do you cover the Meetup group fee?
