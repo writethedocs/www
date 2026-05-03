@@ -13,7 +13,7 @@ To create more ways for attendees to take part on Sunday, we are expanding Writi
 
 ## How to Participate in Writing Day in 2026
 
-At this time, Writing Day is available to in-person attendees only. The [virtual confereence](/conf/{{shortcode}}/{{year}}/virtual/) component runs **{{date.conference.date}}**.
+Writing Day is available to in-person attendees only. The [virtual confereence](/conf/{{shortcode}}/{{year}}/virtual/) component runs **{{date.conference.date}}**.
 
 ### Choose from the Following Opportunities:
 
