@@ -29,13 +29,7 @@ Submit a Lightning Talk
 
 See the [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page for exact times.
 
-{% if lightning_talks.signup_url %}
-```{button-link} {{ lightning_talks.signup_url }}
-Submit your Monday Lightning Talk
-```
-{% endif %}
-
-### Sponsored by
+### Sponsors
 
 - Monday Lightning Talks are sponsored by [Expert Support](https://expertsupport.com/?ref=writethedocs)
 - Tuesday Lightning Talks are sponsored by [KnowledgeOwl](https://www.knowledgeowl.com?ref=writethedocs)
