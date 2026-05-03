@@ -17,12 +17,6 @@ Lightning Talks are a fantastic opportunity for first-time speakers. Regardless 
 
 Our goal is to have a balance between first-time and experienced speakers.
 
-{% if lightning_talks.signup_url %}
-```{button-link} {{ lightning_talks.signup_url }}
-Submit a Lightning Talk
-```
-{% endif %}
-
 ## Schedule
 
 **Date: {{date.day_three.dotw}}, {{date.day_three.date}} and {{date.day_four.dotw}}, {{date.day_four.date}} after lunch**
