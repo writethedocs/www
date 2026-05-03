@@ -47,8 +47,7 @@ Submit a Lightning Talk
 ```
 {% endif %}
 
->[!note]
-> We can only accept Lightning Talk submissions from in-person attendees.
+> ** Note**: We can only accept Lightning Talk submissions from in-person attendees.
 
 **Speaker selection and announcements:**
 
