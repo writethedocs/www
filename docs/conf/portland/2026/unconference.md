@@ -40,6 +40,11 @@ View the Unconference Schedule
 
 *The Unconference is sponsored by [ReadMe](https://readme.com/?ref=writethedocs).*
 
+## Virtual Unconference
+
+[Virtual Attendees](/conf/{{shortcode}}/{{year}}/virtual/) can join in a virtual unconference session! 
+From the Venueless platform, look for the **Virtual unconference** channel and take a look at the sign-up sheet for the slots or sessions of the day. 
+
 ## Sponsor Sessions in Martha's
 
 Stop by Martha's each morning from 10:00 AM to 12:00 PM for **free handcrafted espresso on Monday ☕** and **free handcrafted matcha on Tuesday 🍵**, plus sponsor-led discussions.
@@ -64,7 +69,11 @@ Martha's will be open to attendee sessions in the afternoon, along with the Libr
 
 ## Leading a Session
 
-Sessions take place at tables and focus on small group interaction. There is no stage at an Unconference session.
+In-person sessions take place at tables and focus on small group interaction. There is no stage at an Unconference session.
+
+[Virtual confereence](/conf/{{shortcode}}/{{year}}/virtual/) attendees have a dedicated **Virtual Unconference** channel in the Venueless app.
+
+Unconference sessions are not recorded or streamed. 
 
 **How do I structure my Unconference session?**
 
