@@ -9,7 +9,9 @@ Write the Docs Newsletter – May 2026
 
 Hello to all of my fellow documentation lovers out there. May is blossoming all around me, and I hope it is for you and that you have some time to stop and enjoy the beauty you can find. 
 
-I'm writing this as the Portland conference is happening, so I am full of vicarious inspiration (and perhaps a little envy). If you're also feeling some of that, especially if you already happen to be in Europe, the Berlin conference has `tickets for sale </conf/berlin/2026/tickets/>`__. And if you feel just a little bit more of a spark, the `call for papers was just announced </conf/berlin/2026/news/announcing-cfp/>`__. Turn your idea, no matter how big or small it may seem, into inspiration for others.
+I'm writing this as the Portland conference is happening, so I am full of vicarious inspiration (and perhaps a little envy). If you're also feeling some of that, you're in luck, because there are three more events this year. First up is `Write the Docs Kenya <https://www.meetup.com/wtd-kenya/events/314376384/>`__, which will happen on 8 August. Then in September, there's the Berlin conference with `tickets for sale </conf/berlin/2026/tickets/>`__. And if you feel just a little bit more of a spark, the `call for papers for Berlin was just announced </conf/berlin/2026/news/announcing-cfp/>`__. Turn your idea, no matter how big or small it may seem, into inspiration for others. And keep your eyes out for Write the Docs Melbourne, which is planned for December.
+
+You can get inspired by documentarians from across the world not only through the conferences, but also through our annual salary survey. Check out the `survey results </surveys/salary-survey/2025/>`__. You'll find insight from people from 48 different countries, and hopefully it's insight you can use the next time you're having a discussion about salary.
 
 For inspiration closer to home (likely right in your inbox as you read this), we have articles this month on what makes documentation beautiful, whether to use words like "recommend" in docs, and whether "technical writer" is an outdated job title.
 
