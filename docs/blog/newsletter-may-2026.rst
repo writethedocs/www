@@ -31,7 +31,7 @@ For inspiration, Write the Docs has resources on `writing </topics/#writing-word
 To recommend or not… that is the question
 -----------------------------------------
 
-Documentarians are concerned about providing clear, correct, and concise content for readers. In a recent discussion, a concern about using terms such as "recommend" or "strongly recommend" elicited negative feedback. Many felt that these terms are not clear. Some suggested using "must" (instead of "strongly recommend") when "required" was implied and "should"  for "recommend" (as an optional process).
+Documentarians are concerned about providing clear, correct, and concise content for readers. In a recent discussion, a concern about using terms such as "recommend" or "strongly recommend" elicited negative feedback. Many felt that these terms are not clear. Some suggested using "must" (instead of "strongly recommend") when "required" was implied and "should" for "recommend" (as an optional process).
 
 One person mentioned not using "recommend" with any content because of liability issues. (If the customer doesn't follow a recommended procedure, could it violate a service agreement?)
 
@@ -44,9 +44,9 @@ Suggestions focused on providing readers with unambiguous content:
 - Replace vague language with concrete explanations or examples. 
 - Give specific numbers (such as 5) or a range (such as 1–10) instead of "a few" or "large".
 - If you use the term "best practice", provide a reason for preferring that procedure.
-- Use direct, active phrasing (“you must” or “you should”) over passive constructions (“it is recommended that…”).
+- Use direct, active phrasing ("you must" or "you should") over passive constructions ("it is recommended that…").
 
-The Google developer documentation style guide on `prescriptive documentation <https://developers.google.com/style/prescriptive-documentation#word-choice>`__ and the `Microsoft Writing Style Guide <https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/r/recommend>`__ discuss using "recommend",  "must", and "should". (Although both suggest "we recommend". which is discouraged by many.) 
+The Google developer documentation style guide on `prescriptive documentation <https://developers.google.com/style/prescriptive-documentation#word-choice>`__ and the `Microsoft Writing Style Guide <https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/r/recommend>`__ discuss using "recommend", "must", and "should". (Although both suggest "we recommend", which is discouraged by many.)
 In general, be consistent across your documentation to avoid any confusion and minimize extraneous words.
 
 See more Write the Docs resources about `specific writing questions </topics/#specific-writing-questions>`__.
@@ -55,19 +55,19 @@ See more Write the Docs resources about `specific writing questions </topics/#sp
 Evolving job titles
 -------------------
 
-A recent question was asked about possible replacement job titles for "technical writer" in light of industry layoffs and key stakeholders misunderstanding this role’s responsibilities beyond just "writing." 
+A recent question was asked about possible replacement job titles for "technical writer" in light of industry layoffs and key stakeholders misunderstanding this role's responsibilities beyond just "writing."
 
-Some suggested adding “engineer" to the end of a job title can lead to higher compensation and also highlight the strengths of technically oriented documentarian, such as creating system prompts, writing UX copy, and maintaining docs infrastructure. One respondent noted that introducing new titles into the lexicon (such as context engineer) may confuse leadership and recruiters, pushing away understanding of our roles. For example, some people commonly associate "engineer" with someone who has professional ratings or certifications.
+Some suggested adding "engineer" to the end of a job title can lead to higher compensation and also highlight the strengths of technically oriented documentarians, such as creating system prompts, writing UX copy, and maintaining docs infrastructure. One respondent noted that introducing new titles into the lexicon (such as context engineer) may confuse leadership and recruiters, pushing away understanding of our roles. For example, some people commonly associate "engineer" with someone who has professional ratings or certifications.
 
-Another concern is how to address the perception that writing is no longer valuable within the context of LLMs (see `What’s in a role name after all </blog/newsletter-may-2022/#what-s-in-a-role-name-after-all>`__). For one company, hiring for UX Content Designers has been trending upward, suggesting that these titles may be resistant to automation. Depending on who’s being asked, a "technical writer" comes equipped with specialized content-building skills or is associated with front-end skills and dealing with Word and PDFs.
+Another concern is how to address the perception that writing is no longer valuable within the context of LLMs (see `What's in a role name after all </blog/newsletter-may-2022/#what-s-in-a-role-name-after-all>`__). For one company, hiring for UX Content Designers has been trending upward, suggesting that these titles may be resistant to automation. Depending on who's being asked, a "technical writer" comes equipped with specialized content-building skills or is associated with front-end skills and dealing with Word and PDFs.
 
-Some expect to solve the public relations issue surrounding the role title and its associated value by owning the narrative around writers’ impact across a company. Documentarians are well-suited to influence AI-powered tools through concise language and eliminating ambiguity. People mentioned that, at the end of the day, documentarians write docs for people to use products with ease. Quality work in this domain remains clear, precise, and consistent.
+Some expect to solve the public relations issue surrounding the role title and its associated value by owning the narrative around writers' impact across a company. Documentarians are well-suited to influence AI-powered tools through concise language and eliminating ambiguity. People mentioned that, at the end of the day, documentarians write docs for people to use products with ease. Quality work in this domain remains clear, precise, and consistent.
 
 Overall, respondents agreed that your job title may change in accordance with how you self-identify throughout your career, or in response to a tailored job search for a position that interests you. Solidifying value within an organization takes continual ownership through communicating and being vocal about the issues that affect those values.
 
 For more thoughts on job titles, see the following Write the Docs resources.
 
-- `What’s in a role name after all </blog/newsletter-may-2022/#what-s-in-a-role-name-after-all>`__
+- `What's in a role name after all </blog/newsletter-may-2022/#what-s-in-a-role-name-after-all>`__
 - `Alternative titles to Technical Writer </blog/newsletter-april-2018/#rebranding-technical-writer>`__
 - `Job titles - real and imagined </blog/newsletter-march-2017/#studies-in-comparative-job-titles>`__
 
