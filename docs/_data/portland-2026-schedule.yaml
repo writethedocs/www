@@ -56,8 +56,10 @@ talks_day1:
   - time: '8:00'
     duration: '0:15'
     title: Doors and Sponsor Booths open
+    availability: in_person
   - duration: '0:00'
     title: '<a href="../attendee-guide/#welcome-wagon-tours">Welcome Wagon</a> conference introduction and venue tour'
+    availability: in_person
   - time: '9:00'
     duration: '0:25'
     title: Write the Docs team - Community welcome
@@ -72,6 +74,7 @@ talks_day1:
   - time: '10:00'
     duration: '0:00'
     title: "☕ <a href='../unconference/#sponsor-sessions-in-martha-s'>Sponsor Session in Martha's (10am-12pm)</a> - hosted by Promptless"
+    availability: in_person
   - time: '10:05'
     duration: '0:10'
     title: 10 minute break
@@ -95,6 +98,7 @@ talks_day1:
   - time: '13:30'
     duration: '0:00'
     title: "📸 <a href='../attendee-guide/#professional-headshots'>Complimentary Headshots (1:30-4:30pm)</a> - hosted by Mintlify"
+    availability: in_person
   - time: '13:50'
     duration: '0:10'
     title: 10 minute break
@@ -122,17 +126,21 @@ talks_day1:
     title: '✋ 5 minute Q&A'
   - duration: '0:10'
     title: Group photo
+    availability: in_person
   - duration: '0:00'
     title: Conference day 1 ends
   - time: '19:00'
     title: '<a href="../social-events/#monday-night-social">Social event starts</a>'
+    availability: in_person
   - time: '21:00'
     title: Social event ends
+    availability: in_person
 
 talks_day2:
   - time: '8:30'
     duration: '0:50'
     title: Doors and Sponsor Booths open
+    availability: in_person
   - duration: '0:05'
     title: Write the Docs team - Welcome back
   - duration: '0:05'
@@ -146,6 +154,7 @@ talks_day2:
   - time: '10:00'
     duration: '0:00'
     title: "🍵 <a href='../unconference/#sponsor-sessions-in-martha-s'>Sponsor Session in Martha's (10am-12pm)</a> - hosted by Mintlify"
+    availability: in_person
   - time: '10:05'
     duration: '0:10'
     title: 10 minute break

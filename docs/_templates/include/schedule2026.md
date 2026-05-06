@@ -1,5 +1,6 @@
 <article class="schedule">
 {% for session in day_schedule %}
+  {% set availability = session.availability or day_availability or 'both' %}
   <div class="schedule-item">
     <div class="item-starting-time">{{ session.time }}</div>
     <div class="item-content">
@@ -10,6 +11,15 @@
           <a href="../speakers/#speaker-{{ session.data.speakers.0.slug }}-{{ session.data.slug }}">{{ session.speaker_names }} - {{ session.data.title }}</a>
         {% else %}
           ERROR: {{ session }}
+        {% endif %}
+      </div>
+      <div class="item-availability availability-{{ availability }}">
+        {% if availability == 'both' %}
+          <span class="availability-icon" title="Available in person and virtually">📍 💻</span>
+        {% elif availability == 'in_person' %}
+          <span class="availability-icon" title="In person only">📍</span>
+        {% elif availability == 'virtual' %}
+          <span class="availability-icon" title="Virtual only">💻</span>
         {% endif %}
       </div>
     </div>

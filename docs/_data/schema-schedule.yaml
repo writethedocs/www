@@ -15,3 +15,4 @@ day-detail:
   duration: regex('^\d+:\d+$', name='duration', required=False)
   title: str(required=False)
   slug: str(required=False)
+  availability: enum('in_person', 'virtual', 'both', required=False)
