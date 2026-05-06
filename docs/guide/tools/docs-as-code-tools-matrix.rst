@@ -3,7 +3,7 @@
 Documentation Tools Matrix
 ==========================
 
-A community-curated comparison of 25 documentation tools used in docs-as-code workflows,
+A community-curated comparison of 27 documentation tools used in docs-as-code workflows,
 covering static site generators, hosted platforms, API doc tools, AI writing assistants, and more.
 
 **How to use this table:**

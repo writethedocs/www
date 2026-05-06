@@ -22,7 +22,7 @@ Other documentation tools
 -------------------------
 
 The Write the Docs community uses a wide range of tools beyond Sphinx. See the
-:doc:`docs-as-code-tools-matrix` for a filterable comparison of 25 tools — static site
+:doc:`docs-as-code-tools-matrix` for a filterable comparison of 27 tools — static site
 generators, hosted platforms, API doc tools, AI writing assistants, and more — with
 columns for cost, markup language, learning curve, versioning support, and AI features.
 
