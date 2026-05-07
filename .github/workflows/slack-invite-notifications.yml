@@ -1,0 +1,58 @@
+# Hourly check for new Slack-invite form submissions.
+#
+# Setup (one-time):
+#   1. Create a Google Form with at least Name + Email fields.
+#   2. Link it to a Google Sheet (Responses tab > "Link to Sheets").
+#   3. In the Sheet: File > Share > Publish to web > publish the responses
+#      tab as CSV. Copy the resulting URL.
+#   4. In Slack, create an Incoming Webhook pointing at the moderator channel.
+#   5. In this repo's settings, add two Actions secrets:
+#         SLACK_INVITE_SHEET_CSV_URL   <published-csv-url>
+#         SLACK_INVITE_WEBHOOK_URL     <slack-incoming-webhook-url>
+#   6. Optionally set repo variables to override column names:
+#         SLACK_INVITE_TIMESTAMP_COLUMN, SLACK_INVITE_NAME_COLUMN,
+#         SLACK_INVITE_EMAIL_COLUMN
+#
+# The job posts each new submission to the moderator channel; a human
+# completes the actual Slack invite. Processed-row state is committed back
+# to .github/slack-invites/state.json on the default branch.
+
+name: Slack invite notifications
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: slack-invite-notifications
+  cancel-in-progress: false
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Process new submissions
+        env:
+          SHEET_CSV_URL: ${{ secrets.SLACK_INVITE_SHEET_CSV_URL }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_INVITE_WEBHOOK_URL }}
+          TIMESTAMP_COLUMN: ${{ vars.SLACK_INVITE_TIMESTAMP_COLUMN }}
+          NAME_COLUMN: ${{ vars.SLACK_INVITE_NAME_COLUMN }}
+          EMAIL_COLUMN: ${{ vars.SLACK_INVITE_EMAIL_COLUMN }}
+        run: python .github/scripts/process_slack_invites.py
+      - name: Commit updated state
+        run: |
+          if [ -n "$(git status --porcelain .github/slack-invites/state.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add .github/slack-invites/state.json
+            git commit -m "chore: update slack invite state"
+            git push
+          fi
