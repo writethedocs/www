@@ -3,22 +3,21 @@ template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
-```{eval-rst}
-.. post:: May 6, 2025
-   :tags: {{shortcode}}-{{year}}
+```{post} May 13, 2026
+:tags: {{shortcode}}-{{year}}, cfp, tickets, grants
 ```
 
 # Reminder for Call for Proposals, Tickets, and Opportunity Grants
 
 We hope you are looking forward to our Berlin conference as much as we are!
 
-Today is mostly a reminder that we're accepting Talk Proposals until **{{ cfp.ends }}**.
+Today is mostly a reminder that we're accepting talk proposals until **{{ cfp.ends }}**.
 
 Opportunity Grants are still open as well. And of course, tickets are on sale!
 
 ## Submit your talk by {{ cfp.ends }}
 
-You still have just over two weeks to submit your talk to the conference. Check out the [Call for Proposals page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp) for more details about what would make a great talk.
+You still have just over two weeks to submit your talk to the conference. Check out the [Call for Proposals page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/) for more details about what would make a great talk.
 
 If you already have an idea but are having a difficult time getting your proposal together, you can always ask for talk feedback on the [Write the Docs Slack](https://www.writethedocs.org/slack/). The community is here to help!
 
