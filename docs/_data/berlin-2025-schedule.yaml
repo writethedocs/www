@@ -1,8 +1,10 @@
 talks_day1:
   - time: '08:00'
     title: Doors and Sponsor Booths open
+    availability: in_person
   - time: '08:45'
     title: '<i><a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a></i>'
+    availability: in_person
   - time: '09:30'
     duration: '0:25'
     title: Write the Docs team - Conference introduction
@@ -58,17 +60,21 @@ talks_day1:
     title: '✋ 5 min Q&A'
   - duration: '0:10'
     title: '<b>Group Photo! Right after the Q&A ;-)</b>'
+    availability: in_person
   - duration: '0:00'
     title: '<b>Conference day 1 ends</b>'
   - time: '19:00'
     title: '<b><a href="../social-events">Monday Social</a> starts</b>'
+    availability: in_person
   - time: '21:00'
     title: '<b><a href="../social-events">Monday Social</a> ends</b>'
+    availability: in_person
 
 talks_day2:
   - time: '8:30'
     title: Doors and Sponsor Booths open
     duration: '0:55'
+    availability: in_person
   - duration: '0:05'
     title: "Welcome address"
   - duration: '0:00'
