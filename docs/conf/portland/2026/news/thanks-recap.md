@@ -5,7 +5,7 @@ banner: _static/conf/images/headers/2026/unconference.jpg
 ---
 
 ```{eval-rst}
-.. post:: May 19, 2026
+.. post:: May 14, 2026
    :tags: {{shortcode}}-{{year}}
 ```
 
@@ -27,19 +27,19 @@ We will continue to work on improving the conference experience for everyone, an
 
 ## Talk videos
 
-Talk videos for all conference talks, Q&A, and lightning talks are being edited and will be released over the next 1-2 weeks. We'll be uploading them to the [Portland 2026 playlist](https://www.youtube.com/playlist?list=PLZAeFn6dfHpkMzZFXFye22pKbafhhC3Cp) on our YouTube channel as they're ready.
+All of the conference talks, Q&A, and lightning talks are now up on the [Portland 2026 playlist](https://www.youtube.com/playlist?list=PLZAeFn6dfHpkMzZFXFye22pKbafhhC3Cp) on our YouTube channel.
 
 Thanks again to all our speakers, emcees, and folks who asked wonderful questions!
 
 ## Conference photos
 
-The initial conference photos are now available in our [Portland 2026 Flickr album](https://www.flickr.com/photos/writethedocs/albums/72177720333452248), thanks to our wonderful photographer [Kay](https://www.instagram.com/goatladykay/)! The fully edited set will be published over the next 1-2 weeks.
+The full set of conference photos is available in our [Portland 2026 Flickr album](https://www.flickr.com/photos/writethedocs/albums/72177720333452248), thanks to our wonderful photographer [Kay](https://www.instagram.com/goatladykay/)!
 
 You're welcome to use them for non-commercial purposes, such as conference write-ups, as per our [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/2.0/).
 
 ## Talk sketchnotes
 
-Sketchnotes for the talks from the conference will be shared on our Flickr account once they're ready. Thanks to our talented sketchnote artist [Dennis](https://dennissdawson.wixsite.com/mr--dawson/portfolio) for capturing the talks in such a creative way!
+Sketchnotes for the talks are now up on our [Flickr account](https://www.flickr.com/photos/writethedocs/). Thanks to our talented sketchnote artist [Dennis](https://dennissdawson.wixsite.com/mr--dawson/portfolio) for capturing the talks in such a creative way!
 
 ## Code of Conduct transparency report
 
