@@ -1,6 +1,5 @@
 ---
 template: {{year}}/generic.html
-og:image: /_static/conf/images/headers/2026/unconference.jpg
 banner: _static/conf/images/headers/2026/unconference.jpg
 ---
 
