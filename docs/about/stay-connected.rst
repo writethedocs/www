@@ -44,6 +44,11 @@ Blog
 
 Check out our :doc:`/blog/index` to see updates from the Community. These will also be sent to the :doc:`/newsletter`.
 
+Bluesky
+~~~~~~~
+
+Come visit and follow us on `Bluesky <https://bsky.app/profile/writethedocs.bsky.social>`_!
+
 Twitter
 ~~~~~~~
 
