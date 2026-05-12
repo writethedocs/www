@@ -18,15 +18,15 @@ It was wonderful to be back at Revolution Hall in Portland for another great yea
 
 ## Conference recap
 
-With **over 400 in-person attendees** and **over 175 virtual attendees**, we had another great turnout this year! We had the usual mix of talks on the main stage along with Q&A, lightning talks, Unconference sessions, writing day sprints, and a couple social events.
+With **over 400 in-person attendees** and **over 175 virtual attendees**, we had another great turnout this year! We had the usual mix of talks on the main stage along with Q&A, Lightning Talks, Unconference sessions, Writing Day sprints, and a couple social events.
 
-We also tried a few new things this year. We took over the Martha's Coffee Shop space, giving the Unconference and Writing Day room to breathe with quieter, more focused conversations. [Promptless](https://promptless.ai/?ref=writethedocs) and [Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral) hosted sponsor coffee sessions in that space on Monday and Tuesday mornings, and we expanded Writing Day with a new Git and GitHub workshop, resume and portfolio reviews, and pre-scheduled roundtable discussions.
+We also tried a few new things this year. We took over the Martha's Coffee Shop space, giving the Unconference and Writing Day room to breathe with quieter, more focused conversations. [Promptless](https://promptless.ai/?ref=writethedocs) and [Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral) hosted sponsor sessions in that space on Monday and Tuesday mornings, and we expanded Writing Day with a new Git and GitHub workshop, resume and portfolio reviews, and pre-scheduled roundtable discussions.
 
 We will continue to work on improving the conference experience for everyone, and we appreciate all the feedback we've received already.
 
 ## Talk videos
 
-All of the conference talks, Q&A, and lightning talks are now up on the [Portland 2026 playlist](https://www.youtube.com/playlist?list=PLZAeFn6dfHpkMzZFXFye22pKbafhhC3Cp) on our YouTube channel.
+All of the conference talks, Q&A, and Lightning Talks are now up on the [Portland 2026 playlist](https://www.youtube.com/playlist?list=PLZAeFn6dfHpkMzZFXFye22pKbafhhC3Cp) on our YouTube channel.
 
 Thanks again to all our speakers, emcees, and folks who asked wonderful questions!
 
