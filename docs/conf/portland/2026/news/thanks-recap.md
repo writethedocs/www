@@ -18,7 +18,7 @@ It was wonderful to be back at Revolution Hall in Portland for another great yea
 
 ## Conference recap
 
-With **over 400 in-person attendees** and **over 175 virtual attendees**, we had another great turnout this year! We had the usual mix of talks on the main stage along with Q&A, Lightning Talks, Unconference sessions, Writing Day sprints, and a couple social events.
+With **over 400 in-person attendees** and **over 175 virtual attendees**, we had another great turnout this year! We had the usual mix of talks on the main stage along with Q&A, Lightning Talks, Unconference sessions, Writing Day sessions, and a couple social events.
 
 We also tried a few new things this year. We took over the Martha's Coffee Shop space, giving the Unconference and Writing Day room to breathe with quieter, more focused conversations. [Promptless](https://promptless.ai/?ref=writethedocs) and [Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral) hosted sponsor sessions in that space on Monday and Tuesday mornings, and we expanded Writing Day with a new Git and GitHub workshop, resume and portfolio reviews, and pre-scheduled roundtable discussions.
 
