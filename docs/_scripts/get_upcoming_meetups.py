@@ -71,6 +71,7 @@ yaml_files = [f for f in os.listdir(yaml_directory) if f.endswith(".yaml")]
 
 # Get the meetup locations and urls for each meetup YAML file
 meetup_links = []
+non_meetup_websites = []
 for yaml_file in yaml_files:
     with open(os.path.join(yaml_directory, yaml_file), "r") as f:
         data = yaml.safe_load(f)
@@ -85,8 +86,12 @@ for yaml_file in yaml_files:
         # If no city, just use the country
         except KeyError:
             location = f"{data['country']}"
-        url_to_check = f"https://www.meetup.com/{data['meetup']}/events"
-        meetup_links.append({"location": location, "url": url_to_check})
+
+        if "meetup" in data:
+            url_to_check = f"https://www.meetup.com/{data['meetup']}/events"
+            meetup_links.append({"location": location, "url": url_to_check})
+        else:
+            non_meetup_websites.append({"location": location, "url": data["website"]})
 
 # Run the URL checks asynchronously
 results = asyncio.run(check_urls(meetup_links))
@@ -132,3 +137,8 @@ for upcoming_event in sorted_upcoming_events:
     upcoming_event_links.append(f"- {upcoming_event['date'].strftime('%-d %b, %H:%M')} {upcoming_event['date'].astimezone(tz=tz.gettz(upcoming_event['timezone'])).tzname()} ({upcoming_event['location']}): `{upcoming_event['title']} <{upcoming_event['url']}>`__")
 
 print('\n'.join(upcoming_event_links))
+
+if len(non_meetup_websites) > 0:
+    print("""\nAlso check the following websites:""")
+    for website in non_meetup_websites:
+        print(f"""\n{website["location"]}: {website["url"]}""")
