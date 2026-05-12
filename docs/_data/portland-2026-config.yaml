@@ -331,7 +331,7 @@ flaghasschedule: True
 flaghasshirts: True
 flaglivestreaming: True
 flagvideos: False
-flagpostconf: False
+flagpostconf: True
 
 # Truthy things that don't change
 flaghasunconf: True
