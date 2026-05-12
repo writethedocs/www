@@ -40,6 +40,17 @@ You're welcome to use them for non-commercial purposes, such as conference write
 
 Sketchnotes for the talks are now up on our [Flickr account](https://www.flickr.com/photos/writethedocs/). Thanks to our talented sketchnote artist [Dennis](https://dennissdawson.wixsite.com/mr--dawson/portfolio) for capturing the talks in such a creative way!
 
+## Come to our upcoming events
+
+We have more conferences coming up. Keep an eye on our conference pages and newsletter for announcements and dates:
+
+- [Kenya 2026](https://www.meetup.com/wtd-kenya/events/314376384/), August 8
+- [Berlin 2026](https://www.writethedocs.org/conf/berlin/2026/), September 6-8
+- Australia 2026, December 3-4
+
+And for the first time ever, we have a date for our next Portland conference. Mark your calendars for **May 2-4, 2027** — back here at Revolution Hall.
+
+
 ## Code of Conduct transparency report
 
 As with any Write the Docs event, this conference was covered by our [community Code of Conduct](https://www.writethedocs.org/code-of-conduct/). We aim to be as transparent with CoC incidents and enforcement as we can.
@@ -56,33 +67,11 @@ We are happy to report that we received no Code of Conduct reports during the co
 
 Attendees can always report incidents, even after the conference, by emailing us at [conduct@writethedocs.org](mailto:conduct@writethedocs.org).
 
-## Join our Slack network
-
-Our Slack network is a great way to stay connected to the community beyond our conferences. We have channels for specific doc tools, meetups, career advice, and other areas of discussion.
-
-Check out the [Slack page](https://www.writethedocs.org/slack/) on our website for more information.
-
-## Join a local meetup
-
-Participating in your [local meetup](https://www.writethedocs.org/meetups/) is a great way to keep in touch with other documentarians. We have meetups in cities around the world.
-
-## Come to our upcoming events
-
-We have more conferences coming up. Keep an eye on our conference pages and newsletter for announcements and dates:
-
-- [Kenya 2026](https://www.meetup.com/wtd-kenya/events/314376384/), August 8
-- [Berlin 2026](https://www.writethedocs.org/conf/berlin/2026/), September 6-8
-- Australia 2026, December 3-4
-
-And for the first time ever, we have a date for our next Portland conference. Mark your calendars for **May 2-4, 2027** — back here at Revolution Hall.
-
 ## Thanks again
 
-The conference is possible only because folks like you make it a great experience. Thanks for making it another wonderful year. We hope to see you back again next year, or even sooner at one of our other events!
+The conference is possible only because folks like you make it a great experience. Thanks for making it another wonderful year. 
 
-## Thanks to our sponsors
-
-Thanks so much to the sponsors who supported Write the Docs Portland 2026:
+And thanks so much to the sponsors who supported us this year:
 
 ```{eval-rst}
 .. datatemplate::
