@@ -23,17 +23,23 @@ With **over 400 in-person attendees** and **over 175 virtual attendees**, we had
 
 We will continue to work on improving the conference experience for everyone, and we appreciate all the feedback we've received already.
 
+## Tell us how we did
+
+**Our [short feedback survey](https://docs.google.com/forms/d/e/1FAIpQLScc0bcg3SZeeylKnprCNbrAkeOBW85L5gqy-TaEOp2a3IBDkA/viewform?usp=dialog) is quick and easy**, so please fill it out.
+
+Your feedback helps us improve our other events, and we really appreciate everyone who fills it out each year.
+
 ## Talk videos
 
-Talk videos will be available soon. This will include all conference talks with Q&A, as well as the lightning talks. We'll share the [Portland 2026 playlist](https://www.youtube.com/c/WritetheDocs) link on our YouTube channel as soon as the videos are uploaded.
+Talk videos for all conference talks, Q&A, and lightning talks are being edited and will be released over the next 1-2 weeks. We'll be uploading them to the [Portland 2026 playlist](https://www.youtube.com/playlist?list=PLZAeFn6dfHpkMzZFXFye22pKbafhhC3Cp) on our YouTube channel as they're ready.
 
 Thanks again to all our speakers, emcees, and folks who asked wonderful questions!
 
 ## Conference photos
 
-The conference photos are almost all uploaded and edited. Our [2026 Portland Flickr album](https://www.flickr.com/photos/writethedocs/albums/72177720333452248) has the full set of photos from the conference, thanks to our wonderful photographer [Kay](https://www.instagram.com/goatladykay/)!
+The initial conference photos are now available in our [Portland 2026 Flickr album](https://www.flickr.com/photos/writethedocs/albums/72177720333452248), thanks to our wonderful photographer [Kay](https://www.instagram.com/goatladykay/)! The fully edited set will be published over the next 1-2 weeks.
 
-We really love the photos each year, and you're welcome to use them for non-commercial purposes, such as conference write-ups, as per our [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/2.0/).
+You're welcome to use them for non-commercial purposes, such as conference write-ups, as per our [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/2.0/).
 
 ## Talk sketchnotes
 
@@ -55,14 +61,44 @@ We are happy to report that we received no Code of Conduct reports during the co
 
 Attendees can always report incidents, even after the conference, by emailing us at [conduct@writethedocs.org](mailto:conduct@writethedocs.org).
 
+## Join our Slack network
+
+Our Slack network is a great way to stay connected to the community beyond our conferences. We have channels for specific doc tools, meetups, career advice, and other areas of discussion.
+
+Check out the [Slack page](https://www.writethedocs.org/slack/) on our website for more information.
+
+## Join a local meetup
+
+Participating in your [local meetup](https://www.writethedocs.org/meetups/) is a great way to keep in touch with other documentarians. We have meetups in cities around the world.
+
 ## Come to our upcoming events
 
-We have another conference coming up later this year:
+We have more conferences coming up. Keep an eye on our conference pages and newsletter for announcements and dates:
 
-- [Berlin 2026](http://www.writethedocs.org/conf/berlin/2026/), September 6-8, **Berlin, Germany**
+- [Kenya 2026](https://www.meetup.com/wtd-kenya/events/314376384/), August 8
+- [Berlin 2026](https://www.writethedocs.org/conf/berlin/2026/), September 6-8
+- Australia 2026, December 3-4
 
-We hope to see you there!
+And for the first time ever, we have a date for our next Portland conference. Mark your calendars for **May 2-4, 2027** — back here at Revolution Hall.
 
 ## Thanks again
 
-The conference is possible only because folks like you make it a great experience. Thanks for making it another wonderful year. Whether you were able to come out this time or not, we hope to see you again next year—or even sooner at one of our other events!
+The conference is possible only because folks like you make it a great experience. Thanks for making it another wonderful year. We hope to see you back again next year, or even sooner at one of our other events!
+
+## Thanks to our sponsors
+
+Thanks so much to the sponsors who supported Write the Docs Portland 2026:
+
+- [Promptless](https://promptless.ai/?ref=writethedocs)
+- [Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral)
+- [ReadMe](https://readme.com/?ref=writethedocs)
+- [Stainless](https://www.stainless.com/?utm_source=write_the_docs&utm_medium=conference&utm_campaign=write_the_docs_2026)
+- [GitBook](https://www.gitbook.com/?ref=writethedocs)
+- [Fern](https://buildwithfern.com/?ref=writethedocs)
+- [MongoDB](https://www.mongodb.com/?ref=writethedocs)
+- [Expert Support](https://expertsupport.com/?ref=writethedocs)
+- [KnowledgeOwl](https://www.knowledgeowl.com?ref=writethedocs)
+- [HelpDocs](https://www.helpdocs.io/?utm_source=writethedocs&utm_medium=sponsor&utm_campaign=wtdp26)
+- [Google](https://opensource.google/?ref=writethedocs)
+- [GitHub](https://github.com/?ref=writethedocs)
+- [Read the Docs](https://about.readthedocs.com/?ref=writethedocs)
