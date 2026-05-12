@@ -1,0 +1,145 @@
+/* Command palette (Cmd+K / Ctrl+K) */
+
+.wtd-cmdk-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(20, 24, 30, 0.55);
+    z-index: 9999;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 10vh 16px 16px;
+}
+
+.wtd-cmdk-overlay[hidden] {
+    display: none;
+}
+
+html.wtd-cmdk-open {
+    overflow: hidden;
+}
+
+.wtd-cmdk-panel {
+    width: 100%;
+    max-width: 640px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 24px 64px rgba(0, 0, 0, 0.35);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    max-height: 70vh;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.wtd-cmdk-input {
+    border: 0;
+    outline: 0;
+    padding: 16px 18px;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+    border-bottom: 1px solid #e5e7eb;
+    background: #fff;
+    color: #111827;
+}
+
+.wtd-cmdk-input::placeholder {
+    color: #9ca3af;
+}
+
+.wtd-cmdk-list {
+    list-style: none;
+    margin: 0;
+    padding: 6px 0;
+    overflow-y: auto;
+    flex: 1 1 auto;
+}
+
+.wtd-cmdk-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 8px 16px;
+    cursor: pointer;
+    color: #1f2937;
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+.wtd-cmdk-item.is-active {
+    background: #eef2ff;
+    color: #1e3a8a;
+}
+
+.wtd-cmdk-level {
+    flex: 0 0 auto;
+    font-size: 10px;
+    font-weight: 600;
+    color: #6b7280;
+    background: #f3f4f6;
+    border-radius: 3px;
+    padding: 2px 6px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    min-width: 26px;
+    text-align: center;
+}
+
+.wtd-cmdk-item.is-active .wtd-cmdk-level {
+    background: #c7d2fe;
+    color: #1e3a8a;
+}
+
+.wtd-cmdk-label {
+    flex: 1 1 auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.wtd-cmdk-level-2 .wtd-cmdk-label { padding-left: 4px; }
+.wtd-cmdk-level-3 .wtd-cmdk-label { padding-left: 18px; }
+.wtd-cmdk-level-4 .wtd-cmdk-label { padding-left: 32px; }
+.wtd-cmdk-level-5 .wtd-cmdk-label { padding-left: 46px; }
+.wtd-cmdk-level-6 .wtd-cmdk-label { padding-left: 60px; }
+
+.wtd-cmdk-empty {
+    padding: 16px;
+    color: #6b7280;
+    text-align: center;
+    font-size: 14px;
+}
+
+.wtd-cmdk-hint {
+    display: flex;
+    gap: 14px;
+    flex-wrap: wrap;
+    padding: 8px 16px;
+    border-top: 1px solid #e5e7eb;
+    background: #f9fafb;
+    font-size: 12px;
+    color: #6b7280;
+}
+
+.wtd-cmdk-hint kbd {
+    display: inline-block;
+    background: #fff;
+    border: 1px solid #d1d5db;
+    border-bottom-width: 2px;
+    border-radius: 3px;
+    padding: 1px 5px;
+    margin: 0 2px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 11px;
+    color: #374151;
+}
+
+@media (max-width: 600px) {
+    .wtd-cmdk-overlay {
+        padding: 6vh 8px 8px;
+    }
+    .wtd-cmdk-panel {
+        max-height: 85vh;
+    }
+}

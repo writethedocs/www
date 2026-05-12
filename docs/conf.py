@@ -284,5 +284,7 @@ def setup(app):
     app.add_directive('button-link', ButtonLink)
     app.add_css_file('css/global-customizations.css')
     app.add_css_file('css/survey.css')
+    app.add_css_file('css/command-palette.css')
+    app.add_js_file('js/command-palette.js')
 
     app.config.wtd_cache = {}
