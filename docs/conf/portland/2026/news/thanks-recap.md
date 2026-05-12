@@ -27,7 +27,7 @@ We will continue to work on improving the conference experience for everyone, an
 
 Talk videos will be available soon. This will include all conference talks with Q&A, as well as the lightning talks. We'll share the [Portland 2026 playlist](https://www.youtube.com/c/WritetheDocs) link on our YouTube channel as soon as the videos are uploaded.
 
-Thanks again to all our presenters, emcees, and folks who asked wonderful questions!
+Thanks again to all our speakers, emcees, and folks who asked wonderful questions!
 
 ## Conference photos
 
@@ -51,7 +51,7 @@ To ensure that our CoC was visible and accessible, we took a number of specific 
 - We specifically stressed that the CoC applies to all conference spaces, including the social event.
 - We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.
 
-We are happy to report that we received no Code of Conduct incidents during the conference.
+We are happy to report that we received no Code of Conduct reports during the conference.
 
 Attendees can always report incidents, even after the conference, by emailing us at [conduct@writethedocs.org](mailto:conduct@writethedocs.org).
 
@@ -59,7 +59,7 @@ Attendees can always report incidents, even after the conference, by emailing us
 
 We have another conference coming up later this year:
 
-- [Berlin 2026](http://www.writethedocs.org/conf/berlin/2026/), September 6-8, 2026, **Berlin, Germany**
+- [Berlin 2026](http://www.writethedocs.org/conf/berlin/2026/), September 6-8, **Berlin, Germany**
 
 We hope to see you there!
 
