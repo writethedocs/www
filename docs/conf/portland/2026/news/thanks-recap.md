@@ -25,12 +25,6 @@ We also tried a few new things this year. We took over the Martha's Coffee Shop 
 
 We will continue to work on improving the conference experience for everyone, and we appreciate all the feedback we've received already.
 
-## Tell us how we did
-
-**Our [short feedback survey](https://docs.google.com/forms/d/e/1FAIpQLScc0bcg3SZeeylKnprCNbrAkeOBW85L5gqy-TaEOp2a3IBDkA/viewform?usp=dialog) is quick and easy**, so please fill it out.
-
-Your feedback helps us improve our other events, and we really appreciate everyone who fills it out each year.
-
 ## Talk videos
 
 Talk videos for all conference talks, Q&A, and lightning talks are being edited and will be released over the next 1-2 weeks. We'll be uploading them to the [Portland 2026 playlist](https://www.youtube.com/playlist?list=PLZAeFn6dfHpkMzZFXFye22pKbafhhC3Cp) on our YouTube channel as they're ready.
@@ -91,16 +85,8 @@ The conference is possible only because folks like you make it a great experienc
 
 Thanks so much to the sponsors who supported Write the Docs Portland 2026:
 
-- [Promptless](https://promptless.ai/?ref=writethedocs)
-- [Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral)
-- [ReadMe](https://readme.com/?ref=writethedocs)
-- [Stainless](https://www.stainless.com/?utm_source=write_the_docs&utm_medium=conference&utm_campaign=write_the_docs_2026)
-- [GitBook](https://www.gitbook.com/?ref=writethedocs)
-- [Fern](https://buildwithfern.com/?ref=writethedocs)
-- [MongoDB](https://www.mongodb.com/?ref=writethedocs)
-- [Expert Support](https://expertsupport.com/?ref=writethedocs)
-- [KnowledgeOwl](https://www.knowledgeowl.com?ref=writethedocs)
-- [HelpDocs](https://www.helpdocs.io/?utm_source=writethedocs&utm_medium=sponsor&utm_campaign=wtdp26)
-- [Google](https://opensource.google/?ref=writethedocs)
-- [GitHub](https://github.com/?ref=writethedocs)
-- [Read the Docs](https://about.readthedocs.com/?ref=writethedocs)
+```{eval-rst}
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-config.yaml
+   :template: {{year}}/sponsors-simplelist.rst
+```
