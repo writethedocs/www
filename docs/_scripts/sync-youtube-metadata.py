@@ -728,13 +728,16 @@ def cmd_playlist(args):
             if item and item["position"] != idx:
                 plan_reorder.append((idx, vid, item))
     extras = [item for item in current if item["videoId"] not in set(desired_ids)]
+    plan_remove = extras if args.remove_extras else []
 
     print("\nPlan:")
     print(f"  add:     {len(plan_add)}")
     print(f"  reorder: {len(plan_reorder)}")
-    print(f"  extra (left untouched): {len(extras)}")
+    print(f"  remove:  {len(plan_remove)}")
+    print(f"  extra (left untouched): {len(extras) - len(plan_remove)}")
     for item in extras:
-        print(f"    - {item['videoId']}  {item['title']}  (pos {item['position']})")
+        verb = "REMOVE" if args.remove_extras else "keep"
+        print(f"    {verb}  {item['videoId']}  {item['title']}  (pos {item['position']})")
 
     if args.dry_run:
         for pos, vid, label in plan_add:
@@ -743,7 +746,15 @@ def cmd_playlist(args):
             print(f"  MOVE   {vid}  pos {item['position']} -> {pos}")
         return 0
 
-    added = moved = failed = 0
+    added = moved = removed = failed = 0
+    for item in plan_remove:
+        try:
+            youtube.playlistItems().delete(id=item["id"]).execute()
+            print(f"  REMOVE {item['videoId']}  ({item['title']})")
+            removed += 1
+        except Exception as exc:  # noqa: BLE001
+            print(f"  FAIL REMOVE {item['videoId']}: {exc}")
+            failed += 1
     for pos, vid, label in plan_add:
         try:
             youtube.playlistItems().insert(
@@ -781,7 +792,7 @@ def cmd_playlist(args):
             print(f"  FAIL MOVE {vid}: {exc}")
             failed += 1
 
-    print(f"\nAdded {added}, reordered {moved}, failed {failed}")
+    print(f"\nAdded {added}, reordered {moved}, removed {removed}, failed {failed}")
     return 1 if failed else 0
 
 
@@ -978,6 +989,8 @@ def main():
                             help="Privacy level applied when creating a new playlist")
     p_playlist.add_argument("--reorder", action="store_true",
                             help="Also reorder existing items to match the desired sequence")
+    p_playlist.add_argument("--remove-extras", action="store_true",
+                            help="Remove playlist items whose video isn't in the desired set")
     p_playlist.add_argument("--no-auth", action="store_true",
                             help="(Dry-run only) Skip YouTube auth and just print the desired order")
     p_playlist.add_argument("--create-only-if-dry-run", action="store_true", help=argparse.SUPPRESS)
