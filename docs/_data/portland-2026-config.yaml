@@ -340,12 +340,12 @@ flaghasunconf: True
 flaghashike: True
 flaghasfood: True
 flaghaswritingday: True
-flaghasteam: True
 flaghaslightningtalks: True
 flaghassponsorexpo: True
 flaghasboat: False
 
 # Pages to be linked in January 2026
 flaghasvisiting: True
+flaghasteam: True
 flaghasattendeeguide: True
 flaghasbadgeflair: False
