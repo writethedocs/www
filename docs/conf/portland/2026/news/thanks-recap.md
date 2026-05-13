@@ -38,7 +38,7 @@ You're welcome to use them for non-commercial purposes, such as conference write
 
 ## Talk sketchnotes
 
-Sketchnotes for the talks are now up on our [Flickr account](https://www.flickr.com/photos/writethedocs/). Thanks to our talented sketchnote artist [Dennis](https://dennissdawson.wixsite.com/mr--dawson/portfolio) for capturing the talks in such a creative way!
+Sketchnotes for the talks are now up in our [2026 Sketchnotes Flickr album](https://www.flickr.com/photos/writethedocs/albums/72177720333614185). Thanks to our talented sketchnote artist [Dennis](https://dennissdawson.wixsite.com/mr--dawson/portfolio) for capturing the talks in such a creative way!
 
 ## Code of Conduct transparency report
 
