@@ -1,6 +1,7 @@
 ---
 template: {{year}}/generic.html
-banner: _static/conf/images/headers/2026/unconference.jpg
+og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
+banner: _static/conf/images/headers/2026/registration.jpg
 ---
 
 ```{eval-rst}
