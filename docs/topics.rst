@@ -43,6 +43,7 @@ Specific writing questions
 
 One word vs another, using abbreviations, etc.
 
+- |:newspaper:| `To recommend or not… that is the question </blog/newsletter-may-2026/#to-recommend-or-not-that-is-the-question>`__
 - |:newspaper:| `Emoji in documentation: :yes-please: or :yuk:? </blog/newsletter-november-2024/#emoji-in-documentation-yes-please-or-yuk>`__
 - |:newspaper:| `Hyperlink Text </blog/newsletter-october-2023/#hyperlink-text>`__
 - |:newspaper:| `Numbering Section Headings </blog/newsletter-september-2023/#numbering-section-headings>`__
@@ -239,6 +240,7 @@ Storytelling
 Writing doc sets
 ----------------
 
+- |:newspaper:| `Some kind of beautiful </blog/newsletter-may-2026/#some-kind-of-beautiful>`__
 - |:newspaper:| `Locked out: The effect on users from gated product docs </blog/newsletter-may-2025/#locked-out-the-effect-on-users-from-gated-product-docs>`__
 - |:newspaper:| `Public vs. private docs </blog/newsletter-june-2023/#public-vs-private-docs>`__
 - |:movie_camera:| `Don’t shoot yourself in the foot with content reuse <https://www.youtube.com/watch?v=dxEhvjz3eEY>`__
@@ -291,6 +293,7 @@ Maintenance
 Jobs and careers
 ----------------
 
+- |:newspaper:| `Evolving job titles </blog/newsletter-may-2026/#evolving-job-titles>`__
 - |:newspaper:| `"Native" speaker requirements for jobs </blog/newsletter-april-2026/#native-speaker-requirements-for-jobs>`__
 - |:newspaper:| `Being the first writer at a startup </blog/newsletter-november-2025/#being-the-first-writer-at-a-startup>`__
 - |:newspaper:| `Where do documentarians “fit” into an organization? </blog/newsletter-may-2025/#where-do-documentarians-fit-into-an-organization>`__
