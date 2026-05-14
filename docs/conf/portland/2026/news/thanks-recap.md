@@ -79,9 +79,9 @@ And for the first time ever, we already have a date for our next Portland confer
 
 ## Thanks again
 
-The conference is possible only because folks like you make it a great experience. Thanks for making it another wonderful year. We hope to see you back again next year, or even sooner at one of our other events!
+The conference is possible only because folks like you make it a great experience. Thanks for making it another wonderful year. We hope to see you back again next year, or even sooner at one of our other events.
 
-Thanks so much to the sponsors who supported Write the Docs Portland 2026:
+And thanks again to all our sponsors:
 
 ```{eval-rst}
 .. datatemplate::
