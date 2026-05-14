@@ -53,7 +53,7 @@ To ensure that our CoC was visible and accessible, we took a number of specific 
 - We specifically stressed that the CoC applies to all conference spaces, including the social event.
 - We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.
 
-We are happy to report that we received no Code of Conduct reports during the conference.
+We are happy to say that we received no Code of Conduct reports during the conference.
 
 Attendees can always report incidents, even after the conference, by emailing us at [conduct@writethedocs.org](mailto:conduct@writethedocs.org).
 
