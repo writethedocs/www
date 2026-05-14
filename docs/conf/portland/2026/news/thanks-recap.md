@@ -75,7 +75,7 @@ We have more conferences coming up. Keep an eye on our conference pages and news
 - [Berlin 2026](https://www.writethedocs.org/conf/berlin/2026/), September 6-8
 - Australia 2026, December 3-4
 
-And for the first time ever, we have a date for our next Portland conference. Mark your calendars for **May 2-4, 2027** — back here at Revolution Hall.
+And for the first time ever, we already have a date for our next Portland conference in this year's recap. Mark your calendars for **May 2-4, 2027** — back here at Revolution Hall.
 
 ## Thanks again
 
