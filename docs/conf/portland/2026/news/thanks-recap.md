@@ -9,7 +9,7 @@ banner: _static/conf/images/headers/2026/registration.jpg
    :tags: {{shortcode}}-{{year}}
 ```
 
-# Portland 2026 Recap - Talk Videos, Photos, Sketchnotes, CoC Report
+# Portland 2026 Recap - Talk Videos, Photos, Sketchnotes, COC Report
 
 Hi everyone,
 
@@ -80,8 +80,6 @@ And for the first time ever, we already have a date for our next Portland confer
 ## Thanks again
 
 The conference is possible only because folks like you make it a great experience. Thanks for making it another wonderful year. We hope to see you back again next year, or even sooner at one of our other events!
-
-## Thanks to our sponsors
 
 Thanks so much to the sponsors who supported Write the Docs Portland 2026:
 
