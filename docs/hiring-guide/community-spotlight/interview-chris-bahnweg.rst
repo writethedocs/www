@@ -16,7 +16,7 @@ Key takeaways
 **How did you end up moving from marketing to software engineering?**
 
     So that kind of came from this community. What actually happened was that I was doing webdev in my spare 
-    time, and a friend of mine that I met on here - Alex Ball - was going for interviews with Gitlab and 
+    time, and a friend of mine that I met on here - Alex Ball - was going for interviews with GitLab and 
     Google, and I said to him kind of jokingly, "Hey, ask the Google guy if he has any junior engineering
     positions open." And he said that they didn't. but his buddy’s company had engineering positions open. 
     So I reached out to them and had a Skype interview. I talked to them about the projects I had built, 
