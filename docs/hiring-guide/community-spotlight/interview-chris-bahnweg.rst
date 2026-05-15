@@ -71,7 +71,7 @@ Key takeaways
     Focus on the technology, because it's not going to go away. If anything we're going to become more 
     technical as things go on. Having technical sophistication, meaning being able to google your problems 
     and knowing how to solve them, whether that's error messages or setup or installation, is important. I 
-    think this is very much a time now where you can't not be a computer person.
+    think this is very much a time now where you can't *not* be a computer person.
 
 
 Chris goes by ``crispybacon`` on the Write the Docs Slack group. You can find him in the ``#web-development`` and ``#career-advice`` channels.
