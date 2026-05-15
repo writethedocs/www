@@ -609,7 +609,7 @@ Although work location was the big upheaval caused by the pandemic, changes occu
 Section 3: Salary
 =================
 
-In this section, we asked the all-important salary questions: how much respondents were paid, what additional benefits they received, and how happy they were with their salary and with their job overall. Independent contractors were able to specify whether they typically used an hourly rate, a day rate or a different payment structure. 
+In this section, we asked the all-important salary questions: how much respondents were paid, what additional benefits they received, and how happy they were with their salary and with their job overall. Independent contractors were able to specify whether they typically used an hourly rate, a day rate, or a different payment structure. 
 
 2019 and 2020's surveys asked respondents to indicate reasons that they were not completely satisfied with their salary, benefits and overall job. In 2021, in addition to asking these negatively-oriented questions, we turned the focus around and asked what aspects of their employment situation they felt positive about.  
 
