@@ -111,7 +111,7 @@ Key takeaways
 
     For new writers, I think talking to people is important. Yes, there are all these courses out there,
     and they're all these resources. You know, there's so much of that, and that does matter. People say go
-    and do open source projects so that you have a portfolio on Github. Yes, for sure. But I think talking
+    and do open source projects so that you have a portfolio on GitHub. Yes, for sure. But I think talking
     to people is really valuable. I had this conference I went to that I got this free ticket for, and I
     managed to connect this marketing intern with the same way that I got the free ticket so that she could
     go.

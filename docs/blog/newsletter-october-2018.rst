@@ -71,7 +71,7 @@ Show us your workflows!
 
 Speaking of docs-as-code, and task management for that matter, there was another great discussion this month about how to map docs-as-code to software development workflows, with special reference to agile.
 
-Most of the conversation revolved around how to map pull requests in Github to issue tracking in tools such as Jira. Several folks who track issues with Jira start with basic issue scoring based on estimated effort (or t-shirt sizing as some people call it), and then assign tickets on a per-sprint cycle. A couple of teams mentioned using a Fibonacci sequence to determine story points for relative effort (for more information, see `Atlassian's article on story points and agile estimation <https://www.atlassian.com/agile/project-management/estimation/>`_).
+Most of the conversation revolved around how to map pull requests in GitHub to issue tracking in tools such as Jira. Several folks who track issues with Jira start with basic issue scoring based on estimated effort (or t-shirt sizing as some people call it), and then assign tickets on a per-sprint cycle. A couple of teams mentioned using a Fibonacci sequence to determine story points for relative effort (for more information, see `Atlassian's article on story points and agile estimation <https://www.atlassian.com/agile/project-management/estimation/>`_).
 
 When a PR is started, Jira tickets then move through specified phases (in one case, "In Progress", "Tech Review", "Editorial Review", "Revision", "Ready to Release", "Published") that map to the phases of PR review.
 

@@ -175,7 +175,7 @@ Topics
 The following are examples of topics that have worked well for other meetups:
 
 * API docs -- Approaches, tools, and best practices in API documentation.
-* Contributing to OSS -- Getting started with Github and open source projects.
+* Contributing to OSS -- Getting started with GitHub and open source projects.
 * Easy entry to OSS -- Finding good beginner projects to contribute to.
 * Navigating career path -- Understanding different sectors of tech writing and creating a long term plan.
 * Hackathon -- creating docs “The lone writers guide.”
