@@ -12,7 +12,7 @@ Spring is here and the year is racing on, and can you believe it's getting close
 
 And if Portland isn't soon enough for you, the West Coast Quorum meetup is holding its first virtual event this month! The event is about "The Product is Docs: A Look Inside" and will be held on Thursday 18th March at 19:00 Pacific Time. If you're interested, `sign up to attend <https://www.meetup.com/virtual-write-the-docs-west-coast-quorum/events/276616460/>`__.
 
-This month we've seen a quite a number of style guide and "how do I write this" discussions, so we're trying something new: a newsletter on a theme! We hope you enjoy it :)
+This month we've seen quite a number of style guide and "how do I write this" discussions, so we're trying something new: a newsletter on a theme! We hope you enjoy it :)
 
 ------------------------------------
 A best practice by any other name...
