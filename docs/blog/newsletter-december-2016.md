@@ -48,7 +48,7 @@ User experience testing (UX testing, usability testing, etc.) can be just as hel
 
 First off, whether you're testing your product or your docs, the principles are the same -- give your users (in this case your readers) some concrete examples to work through, observe their behavior and then give them an opportunity to voice their thoughts on their pain points.  
 
-Second, you don't necessarily have to separate your product testing from your docs testing. Oftentimes, if you give your users a open-ended task to perform, you can get great insights just by watching where they go to get information and when they get stuck. (And whether that information gets them unstuck or not.)
+Second, you don't necessarily have to separate your product testing from your docs testing. Oftentimes, if you give your users an open-ended task to perform, you can get great insights just by watching where they go to get information and when they get stuck. (And whether that information gets them unstuck or not.)
 
 [This blog post from the Nielsen Norman Group](https://www.nngroup.com/articles/task-scenarios-usability-testing/) was put forth as a good resource, when you're designing tasks for user testing. And if you've got tasks in mind, but you're looking for tools that will let you capture user feedback, [here's a substantial and relatively current round-up](https://uxdesign.cc/ux-tools-for-user-research-and-user-testing-a720131552e1) of some of the products out there.
 
