@@ -657,7 +657,7 @@
     \ communication than do sighted users.</p>\n<p>This talk presents a method of\
     \ creating documentation that helps to ameliorate\nsome of those difficulties,\
     \ offering readers a choice of renderings of the math\nin SVG, raw MathML, or\
-    \ MathML rendered by the MathJax Javascript Library.</p>\n<p>If you create mathematical\
+    \ MathML rendered by the MathJax JavaScript Library.</p>\n<p>If you create mathematical\
     \ documentation and your math is in LaTeX or MathML form, you can use the same\
     \ technologies described here. By leveraging today's\ntechnologies on the server-side\
     \ (NodeJS, MathJax, MongoDB) as well as client side (MathJax), you can provide\

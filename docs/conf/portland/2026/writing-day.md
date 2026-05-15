@@ -219,7 +219,7 @@ This session is a hands-on playground for both the tool and its docs. Bring a la
 * Project organizer: Frances Liu, she/her
 * Project session: Morning
 
-AI agents are reading your docs now. They’re providing support for your users, helping your customers build with your product, and even making buying decisions. But agents “browse” your docs very differently from humans—they can’t see your sidebar, don’t execute Javascript, and truncate content aggressively.
+AI agents are reading your docs now. They’re providing support for your users, helping your customers build with your product, and even making buying decisions. But agents “browse” your docs very differently from humans—they can’t see your sidebar, don’t execute JavaScript, and truncate content aggressively.
 
 AFDocs (Agent-Friendly Docs) is an open-source standard that measures how accessible your docs are to AI. It gives you a scorecard with improvement recommendations, and there’s even [a leaderboard](https://buildwithfern.com/agent-score). For our own docs, we went from scoring in the 70s to scoring a perfect 100 with a little care and effort, and there are always some quick wins available to make your docs more accessible to agents!
 

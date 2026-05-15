@@ -60,10 +60,10 @@ Key takeaways
     you're not going to believe me. So the portfolio gives you an anchor point for your skills. It gives 
     you a way to say that you did this and here's proof. I think that is a really good starting point. 
     Beyond that, I would say definitely learn a programming language of some kind. Now, that doesn't mean 
-    become a full stack developer. But it does mean know some Javascript, know some Python, know what a 
+    become a full stack developer. But it does mean know some JavaScript, know some Python, know what a 
     REST API might look like. But also be knowledgeable about the programming scene in your area. If you're 
     in Columbus, Ohio and the programming scene is full of Ruby on Rails developers, it doesn't behoove you 
-    to learn Javascript. It behooves you to learn Ruby on Rails, because that's probably what the APIs in 
+    to learn JavaScript. It behooves you to learn Ruby on Rails, because that's probably what the APIs in 
     the area are going to be built in.
 
 **What advice do you have for recent grads looking for opportunities in the job market?**

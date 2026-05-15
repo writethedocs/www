@@ -156,7 +156,7 @@ Speakers
 * Invite different speakers to each Meetup. Repeat speakers are OK if it's been over a year.
 * Invite speakers from different backgrounds and don't limit talks to writing.
 
-  For example, you might want to invite someone who codes or leads a community in Python, Javascript, or
+  For example, you might want to invite someone who codes or leads a community in Python, JavaScript, or
   Ruby, and ask them to share a project or approach to documentation specific to their domain. Or, invite an architect,
   editor, designer, user experience professional, or support representative to talk about their approach to documentation
   projects and problems.
