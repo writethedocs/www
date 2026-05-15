@@ -1936,7 +1936,7 @@ Those affected by a full time RTO mandate felt predominantly negative - 73.9% re
 
    <figure>
       <object role="img" aria-label="Attitudes towards RTO - respondents affected by full RTO" aria-describedby="figure_rto-attitude-affected-by-full_desc" type="image/svg+xml" data="/_images/2024-rto-attitude-affected-by-full.svg">
-         <p id="figure_rto-attitude-affected-by-full_desc">Donut chart showing attitudes towards RTO by those respondents affeted by full RTO mandates.</p>
+         <p id="figure_rto-attitude-affected-by-full_desc">Donut chart showing attitudes towards RTO by those respondents affected by full RTO mandates.</p>
       </object>
       <figcaption>Figure: Attitude towards RTO - respondents affected by full RTO</figcaption>
    </figure>
