@@ -188,7 +188,7 @@ If your proposal is approved, then you and your cosponsors must:
 #. Seed discussion in the new channel.
    A starter discussion helps others learn whether the channel is relevant to them and increases the number of documentarians who join the channel.
 #. Make an announcement in **#general** and channels related to the new channel's topic.
-   For example, if there's a new a channel for underwater basket weaving, then make an announcement like "Join us in #underwater-basket-weaving to discuss techniques, materials, and what to store in all these baskets."
+   For example, if there's a new channel for underwater basket weaving, then make an announcement like "Join us in #underwater-basket-weaving to discuss techniques, materials, and what to store in all these baskets."
 
 Guidelines
 ----------
