@@ -49,7 +49,7 @@ So remember, for the Write the Docs hivemind, there is no question too big, and 
 It's your turn to ask the questions
 ***********************************
 
-We've all fretted over what we might be asked during an interview. But what about when it's our turn to ask questions? This month, a job-hunter sparked a great conversation about what to ask in an tech writing interview. We've written up a few highlights:
+We've all fretted over what we might be asked during an interview. But what about when it's our turn to ask questions? This month, a job-hunter sparked a great conversation about what to ask in a tech writing interview. We've written up a few highlights:
 
 **Show them you know your job.** Asking specific questions about their expectations and processes can get you into the nitty-gritty, and give you a chance to show off your chops. `This blog post has some good examples. <http://stcrmc.org/wordpress/?p=2968#>`_
 

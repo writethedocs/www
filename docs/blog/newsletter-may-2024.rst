@@ -41,7 +41,7 @@ One persistent reason resources aren't committed to documentation efforts is tha
 
 Military and aerospace contracts include provisions for support and support costs get minimized with effective documentation. Therefore, documentarians may be seen as necessary team members if support is considered part of the bottom line.
 
-Some people indicated that they, as documentarians, are under Technology, Product, Engineering, Support, or even Marketing VPs and that they have been in effective documentation departments. They don’t see a need for an a documentation VP.
+Some people indicated that they, as documentarians, are under Technology, Product, Engineering, Support, or even Marketing VPs and that they have been in effective documentation departments. They don’t see a need for a documentation VP.
 
 Could it make sense to have one high-level department for both technical documentation and marketing-related content, such as VP of Communications? The benefit of having one department for both may be consistent usage and branding, but in many companies this is achieved by having style guides (and other related job aids) and branding guidelines. But, of course, these are only effective for company-wide consistency when actually used.
 
