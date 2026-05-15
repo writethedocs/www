@@ -74,6 +74,6 @@ Job posts
 - 5 August - Atlanta, GA, USA - `Write the Docs Atlanta meetup <https://www.meetup.com/Write-the-Docs-Atlanta/events/272215339/>`__
 - 6 August - Seattle, WA, USA - `Seattle virtual evening social <https://www.meetup.com/Write-The-Docs-Seattle/events/272228567/>`__
 - 9-11 August - Portland, OR, USA - `Virtual Portland conference!! </conf/portland/2020>`__
-- 13 August - Los Angeles, CA, USA - `Joint meetup with with the SGV Linux Users Group <https://www.meetup.com/Write-the-Docs-LA/events/272110340/>`__
+- 13 August - Los Angeles, CA, USA - `Joint meetup with the SGV Linux Users Group <https://www.meetup.com/Write-the-Docs-LA/events/272110340/>`__
 - 19 August - Australia - `Docs as code | Lightning talks <https://www.meetup.com/Write-the-Docs-Australia/events/271805634/>`__
 - 8 September - Ottawa, Canada - `WTD Ottawa Shopify meetup <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqybcmblb/>`__
