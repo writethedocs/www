@@ -24,7 +24,7 @@ How to write a CFP?
 -------------------
 
 Announcing [conf name] Call for Proposals
-   Say hi and don't forget to mention when the conference is and when the the CFP will close.
+   Say hi and don't forget to mention when the conference is and when the CFP will close.
 Conference Goals
    Invite everyone who care about docs to contribute!
 Topic ideas
