@@ -4,7 +4,7 @@ Chapter 13: Technical Editing
 
 This chapter describes the work of technical editors.
 
-    Technical editing instills consistency throughout a body of documentation, improves the overall quality of the docs, makes your content more accessible, ensures that content follows good information design principles, an trains writers to write well. (pg118)
+    Technical editing instills consistency throughout a body of documentation, improves the overall quality of the docs, makes your content more accessible, ensures that content follows good information design principles, [and] trains writers to write well. (pg118)
 
 It also briefly mentions style guides, discusses how to edit well, and how to improve writing style.
 
