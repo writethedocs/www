@@ -69,7 +69,7 @@ Where do documentarians "fit" into an organization?
 
 Except for startups, most companies have established organizations. Documentarians' role in relation to the company’s products may determine their department. This is often the department that most closely aligns with what they're expected to document (type of content and audience).
 
-Once you start working for a company, you may not have the option to move around unless you are a lone writer or part of a small team. Being in the "wrong" department can affect a your success. (Are you managed as a writer with relevant success metrics?) Who you would report to is something to discuss in an interview before joining. (What’s the chain of command for this role? Would my direct manager have experience working with writers? Could I work with people in other departments?) 
+Once you start working for a company, you may not have the option to move around unless you are a lone writer or part of a small team. Being in the "wrong" department can affect your success. (Are you managed as a writer with relevant success metrics?) Who you would report to is something to discuss in an interview before joining. (What’s the chain of command for this role? Would my direct manager have experience working with writers? Could I work with people in other departments?) 
 
 In general, documentarians find themselves in one of two departments:
 
