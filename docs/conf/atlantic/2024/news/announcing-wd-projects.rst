@@ -6,7 +6,7 @@
 Let's meet the Writing Day projects!
 ====================================
 
-Welcome to the pre-conference, Writing Day project sneak peak. Let's get pumped for Writing Day!
+Welcome to the pre-conference, Writing Day project sneak peek. Let's get pumped for Writing Day!
 
 Didn't get the chance to submit your project early? Fear not, you can submit it at any time between now and September 20, or you can bring it and submit it live during Writing Day. Day-of project submissions are a time-honored WTD tradition that we enjoy seeing, year after year.
 

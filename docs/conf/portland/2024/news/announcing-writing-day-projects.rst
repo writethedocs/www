@@ -7,7 +7,7 @@
 Meet the first Writing Day 2024 Projects
 ==========================================
 
-Who's ready for Writing Day?! I know of at least six project organizers who are so ready they submitted their project to us pre-conference. In honor of their awesome prep, I'm going to give you a sneak peak of the projects list so you can get pumped for Writing Day.
+Who's ready for Writing Day?! I know of at least six project organizers who are so ready they submitted their project to us pre-conference. In honor of their awesome prep, I'm going to give you a sneak peek of the projects list so you can get pumped for Writing Day.
 
 Didn't have a moment to submit your project early? Fear not, you can `submit it at any time <https://www.writethedocs.org/conf/portland/2024/writing-day/#call-for-project-submissions>`__ between now and April 12 or you can bring it and submit it live during Writing Day. Day of project submissions are a time honored WTD tradition that we look forward to seeing continue.
 
