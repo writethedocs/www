@@ -204,9 +204,6 @@ sponsors:
       width: 250px
   first:
   in_kind:
-    - name: readthedocs
-      link: https://about.readthedocs.com/?ref=writethedocs
-      brand: Read the Docs
 
 # Things that change over time, listed in order of change
 flaglanding: False
