@@ -100,7 +100,7 @@ To provide a number of examples, these are situations where immediate removal fr
 * A single obviously intentional offense (e.g., taking up-skirt photos).
 * Intentionally deceiving someone into drinking alcohol.
 
-The response team should not involve venue security or law enforcement, unless they have consent from the affected person(s), or if the safety risk is so significant that there is no other reasonable option. Venue security can be involved to ensure a person can not re-enter the building. However, details of the incident or the reporter must not be shared.
+The response team should not involve venue security or law enforcement, unless they have consent from the affected person(s), or if the safety risk is so significant that there is no other reasonable option. Venue security can be involved to ensure a person cannot re-enter the building. However, details of the incident or the reporter must not be shared.
 
 For online spaces, a response must be sent within one week to the person who filed the report with either a resolution or an explanation of why the situation is not yet resolved. For conferences and meetups, the ideal response time is typically a few hours at most, though the specific circumstances of a report may require faster action or more investigation.
 
