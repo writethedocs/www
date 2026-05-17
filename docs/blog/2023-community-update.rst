@@ -53,7 +53,7 @@ To support our efforts, the Meetup team lead Rose Williams created an organizer 
 The survey asked about meetup activity and collected ideas for evolving the local and regional meetup structure.
 The Meetup team is currently reviewing the survey results and deciding on next steps.
 
-We appreciate all of the hard work that meetup organizers do to keep their communities engaged, and will continue to work with the meetup teams to adapt to the current the global landscape.
+We appreciate all of the hard work that meetup organizers do to keep their communities engaged, and will continue to work with the meetup teams to adapt to the current global landscape.
 If you want to start a new meetup or join an existing meetup, check out the `Meetups page <https://www.writethedocs.org/meetups/>`_ on our website.
 
 Salary Survey

@@ -17,7 +17,7 @@ Our third meeting covered several topics:
 **Meetup organizer mailing list and survey**
     This year the Meetup team is focusing on updating organizer resources and streamlining communication. To support our efforts, the Meetup team lead Rose Williams created an organizer mailing list and distributed a meetup activity survey. The survey assessed meetup activity and collected ideas for evolving the local and regional meetup structure.
     
-    We appreciate all of the hard work that meetup organizers do to keep their communities engaged, and will continue to work with the meetup teams to adapt to the current the global landscape. If you want to start a new meetup or join an existing meetup, check out the `Meetups page <https://www.writethedocs.org/meetups/>`_ on our website.
+    We appreciate all of the hard work that meetup organizers do to keep their communities engaged, and will continue to work with the meetup teams to adapt to the current global landscape. If you want to start a new meetup or join an existing meetup, check out the `Meetups page <https://www.writethedocs.org/meetups/>`_ on our website.
 
 **Slack channel naming and structure**
     Last year, the Slack Moderation team started working on a proposal to restructure the Slack channels and establish naming conventions. Since then, the initiative was set aside due to changing availability, but the community board agreed that there are community benefits to restarting that effort, so we will be crafting a WEP (Write the Docs Enhancement Proposal) and posting it soon on our `WEP repository <https://github.com/writethedocs/weps>`_ for community review. 
