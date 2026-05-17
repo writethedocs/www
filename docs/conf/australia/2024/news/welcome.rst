@@ -60,7 +60,7 @@ We are planning to do similar sponsorship levels again this year as last year.
 In addition to the regular sponsorship levels, we have additional ways to sponsor our online events.
 See our `sponsorship prospectus <https://www.writethedocs.org/conf/australia/2024/sponsors/prospectus/>`_ for all the options.
 
-We're always open to customisations on our sponsorships, so freel free to reach out with ideas or questions at australia@writethedocs.org.
+We're always open to customisations on our sponsorships, so feel free to reach out with ideas or questions at australia@writethedocs.org.
 
 Stay Updated
 ------------
