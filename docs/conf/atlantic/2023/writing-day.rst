@@ -133,7 +133,7 @@ Brainstorm a Help Center Style Guide
 *Note: First session only*
 
 As writers and documentarians, many of us have been tasked with creating style guides 
-for the projefts and companies we worked for to standardize and support our documentation
+for the projects and companies we worked for to standardize and support our documentation
 efforts.
 
 The Brainstorm a Style Guide project aspires to support writers and documentarians,
