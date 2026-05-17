@@ -2697,7 +2697,7 @@ select.uk-form-width-xsmall {
  * 1. Position and resize the form control to always cover its container
  * 2. Required for Firefox for positioning to the left
  * 3. Required for Webkit to make `height` work
- * 4. Hide controle and show cursor
+ * 4. Hide control and show cursor
  * 5. Needed for the cursor
  * 6. Clip height caused by 5. Needed for Webkit only
  */
