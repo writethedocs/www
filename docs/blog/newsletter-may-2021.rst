@@ -71,7 +71,7 @@ The grammar of singular they
 
 Using "they" in the singular has a long history. But the grammar is not always obvious - as a recent Slack question showed. What is the appropriate reflexive form of "they" - for example, the equivalent to "he himself is" or "she herself is"?
 
-There was some disagreement on whether it should be "themselves" or "themself", and so, correspondingly, what the verb form should be also -- "they themselves are"? or "they themself is"? Interestingly, nobody suggested "they themself are", even though the most common verb form for singular they without the reflexive pronous is "are". But one person pointed out that "the person themselves is ..." is not uncommon. So many possibilities! So little agreement!
+There was some disagreement on whether it should be "themselves" or "themself", and so, correspondingly, what the verb form should be also -- "they themselves are"? or "they themself is"? Interestingly, nobody suggested "they themself are", even though the most common verb form for singular they without the reflexive pronouns is "are". But one person pointed out that "the person themselves is ..." is not uncommon. So many possibilities! So little agreement!
 
 Some, understandably, suggested omitting the reflexive form altogether. This can be appropriate in technical writing, if you can find a way to rephrase - for example, by writing less formally to provide the emphasis that the reflexive pronoun can sometimes carry.
 
