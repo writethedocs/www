@@ -6,7 +6,7 @@
 Write the Docs Newsletter – February 2018
 #########################################
 
-Hi everybody! Kelly O. here – back in the saddle after getting through the whole *OMG, it's a different year now* transition.
+Hi everybody! Kelly O. here – back in the saddle after getting through the whole *OMG, it's a different year now* transition.
 I'm excited to report that we have a TON of stuff happening in the community.
 I guess we're starting this new year off strong!
 
@@ -23,9 +23,9 @@ you might be interested in our new `Convince Your Manager <https://www.writethed
 We've knocked together an example email and some resources that you can use to make your case.
 
 And finally, in non-conference news, we're thrilled to announce that the **Write the Docs Job Board** will be launching next week.
-One of the benefits of the WTD community has always been its ability to connect documentarians with employers
+One of the benefits of the WTD community has always been its ability to connect documentarians with employers
 who understand the value of good docs. The job board will be a destination for making those connections.
-Keep an eye on Slack, Twitter, the forum, your email, etc. – we'll let you know as soon as it goes live.
+Keep an eye on Slack, Twitter, the forum, your email, etc. – we'll let you know as soon as it goes live.
 
 Whew! Told you there's a lot going on! But now, let's have a look at a few of the conversations that have been happening
 in `Slackland <https://www.writethedocs.org/slack/>`_ over the new year.

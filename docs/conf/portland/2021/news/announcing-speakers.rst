@@ -9,13 +9,13 @@ Announcing speakers and sessions
 We're writing today with an update on the fast-approaching Portland conference.
 
 We're delighted to announce that we've finalized our speakers for the event, and have updated t-shirts on sale.
-Thank you so much to everyone who took the time to send us a pitch – we literally wouldn't have an event without you!
+Thank you so much to everyone who took the time to send us a pitch – we literally wouldn't have an event without you!
 
 Full speaker line-up
 --------------------
 
 Every year, we look to bring a wide range of voices to the Write the Docs stage. Because the role of "documentarian" looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure.
-We're really excited about the presentations we've got this year – we hope you are too!
+We're really excited about the presentations we've got this year – we hope you are too!
 
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-sessions.yaml

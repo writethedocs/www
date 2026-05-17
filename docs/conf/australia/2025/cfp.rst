@@ -67,7 +67,7 @@ If you're a WTD conference organizer, please only submit talks to conferences yo
 
 **Mix of roles and perspectives**
 
-Talks from the scientific community, fiction writers, system administrators, and support staff – in addition to technical writers and software developers – are all valuable to our attendees.
+Talks from the scientific community, fiction writers, system administrators, and support staff – in addition to technical writers and software developers – are all valuable to our attendees.
 
 **Diverse audience**
 

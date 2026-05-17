@@ -31,7 +31,7 @@ expanded the scope to better cater for independent contractors, people
 who were currently out of work, and multiple currencies, and also added
 a section about the impact of the COVID-19 pandemic.
 
-805 people completed the survey in 2020, an increase of 24% over 2019.
+805 people completed the survey in 2020, an increase of 24% over 2019.
 
 This year, while our respondents specified the currency they were paid
 in, all numbers in this report have been converted to US dollars for
@@ -63,7 +63,7 @@ employment:
 -  the number of hours they worked and the length of time they had held
    the same position,
 -  whether they worked solo or as part of a team and how they classified
-   their role, and
+   their role, and
 -  how focused their role was on tasks related to documentation.
 
 .. _h.1rxh4j1e0028:
@@ -150,7 +150,7 @@ As in 2019, most respondents worked “full-time” hours:
 Of the 4.5% working part-time:
 
 -  1.6% worked up to 20 hours, and
--  2.9% worked between 21 and 30 hours.
+-  2.9% worked between 21 and 30 hours.
 
 3 respondents reported working over 60 hours per week: the highest
 entered value was a staggering 80 hours. In contrast, the highest
@@ -401,7 +401,7 @@ Of those respondents who had been with their current employer for more
 than 10 years,
 
 -  61% reported between 11 and 15 years,
--  10 individual respondents indicated 20 years or more -  7 of these
+-  10 individual respondents indicated 20 years or more -  7 of these
    had clocked up either 20 or 21 years, and
 -  single respondents each reported 23 years, 27 years, and 28 years. 
 
@@ -498,7 +498,7 @@ Proportion of role actually related to documentation
 Section 2: Work Location and COVID-19
 -------------------------------------
 
-In 2019, we included one question about work location: whether the
+In 2019, we included one question about work location: whether the
 respondent worked on site, remotely, or a combination of the two; the
 possible responses were arranged to also show if the work location was
 stipulated by the employer or the individual’s own choice.
@@ -714,11 +714,11 @@ location, and no one reported feeling “very negative”.
 
 .. _h.ynoi7l698d10:
 
-Overall Work Location
+Overall Work Location
 '''''''''''''''''''''
 
 Combining the results for respondents whose work location has changed
-with those whose location has not gives a snapshot of the work location
+with those whose location has not gives a snapshot of the work location
 of the whole community, both before the pandemic started and in the
 latter half of 2020.
 
@@ -934,7 +934,7 @@ and half earned less).
 
 This figure does not take into account the socio-economic situation in
 the countries of the very highest earners (the top 10 salaries were all
-from the United States) and the very lowest (the bottom 10 salaries were
+from the United States) and the very lowest (the bottom 10 salaries were
 from Asia and South America) - as well as the difference between the
 country of the employee and the country of the employer. Figures grouped
 into regions make a more useful baseline from which to determine what
@@ -1792,7 +1792,7 @@ had 5-10 years under their belts.
 
 The largest group was those with over 10 years of experience, just under
 40% of respondents. Of these, 198 reported between 10 and 20 years, 100
-reported between 20 and 30 years, and 23 reported over 30 years -  7 of
+reported between 20 and 30 years, and 23 reported over 30 years -  7 of
 which were veterans of over 40 years. The highest reported value was 44
 years (1 respondent).
 
@@ -1839,15 +1839,15 @@ The majority of respondents - 93.3% had completed a college or university gradua
 qualification or higher - 54% had a graduate qualification (Certificate,
 Diploma, Associate Degree, or Bachelor's Degree) and 39% had completed a
 post-graduate qualification (Master's Degree, Post-Graduate Diploma or
-Certificate, or Doctorate). Those completing technical college or
+Certificate, or Doctorate). Those completing technical college or
 equivalent numbered 2.2%, and those completing high school only
 (including those who did some tertiary education but did not achieve a
 formal qualification) accounted for 4% of respondents, and technical
 college 2.2%.
 
 The responses entered for “Other” resulted in a new category being added
-for those that are still currently studying: 2 respondents indicated
-that they are currently working towards a degree.
+for those that are still currently studying: 2 respondents indicated
+that they are currently working towards a degree.
 
 2 respondents chose not to answer this question. 
 

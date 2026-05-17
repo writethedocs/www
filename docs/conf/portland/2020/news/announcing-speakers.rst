@@ -10,7 +10,7 @@ We're writing today with an update on the fast-approaching Portland conference!
 
 First off, we're delighted to announce that we've finalized our speakers for the event!
 Every year talk selection gets more and more difficult as we get a larger, stronger batch of submissions.
-Thank you so much to everyone who took the time to send us a pitch – we literally wouldn't have an event without you!
+Thank you so much to everyone who took the time to send us a pitch – we literally wouldn't have an event without you!
 
 Second, we're super excited to announce our new opportunity grant program to support folks who would not otherwise be able to make it the conference.
 
@@ -21,7 +21,7 @@ Full speaker line-up
 --------------------
 
 Every year, we look to bring a wide range of voices to the Write the Docs stage. Because the role of "documentarian" looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure.
-We're really excited about the presentations we've got this year – we hope you are too!
+We're really excited about the presentations we've got this year – we hope you are too!
 
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-sessions.yaml
@@ -49,7 +49,7 @@ Planning your trip
 
 In the next few weeks, we’ll be announcing more details about the conference events, including the full schedule, annual hike on Saturday afternoon, writing day and reception on Sunday. But on top of that, there's ALL SORTS of stuff to do in Portland.
 
-We've got a couple of excellent volunteers – Christy and Mo – who are heading up our Explore Portland committee.
+We've got a couple of excellent volunteers – Christy and Mo – who are heading up our Explore Portland committee.
 They're already hard at work updating the the `Visit Portland <https://www.writethedocs.org/conf/portland/2020/visiting/>`_.
 Pop into the `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ channel on Slack if you have any question.
 

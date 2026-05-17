@@ -36,7 +36,7 @@ Getting started with API Docs
 * `Write the Docs Guide: API Docs <https://www.writethedocs.org/guide/#api-documentation>`_
 * `8 Great Examples of Developer Documentation <https://zapier.com/engineering/great-documentation-examples/>`_
 
-If API docs are already your jam, head over to the API channel – we'd love to hear about your favorite resources!
+If API docs are already your jam, head over to the API channel – we'd love to hear about your favorite resources!
 
 Pros and cons of using tabbed content for multiple audiences
 ------------------------------------------------------------

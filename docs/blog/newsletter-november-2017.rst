@@ -28,7 +28,7 @@ Some other image tips that came up included:
 
 * Crop your screenshots to highlight only the specific area of interface you're documenting.
 * Keep all of your image files in a single, separate location. If possible, use version control.
-* Develop – and stick to – a standard for producing screenshots: size, tool, resolution, file type, etc.
+* Develop – and stick to – a standard for producing screenshots: size, tool, resolution, file type, etc.
 * Triage your updates. Prioritize functional UI changes over changes in button color, for example.
 
 **************************
@@ -107,10 +107,10 @@ November 15 - Los Angeles, CA, USA – `Happy Hour/Social Meetup <https://www.me
 
 November 16 – Boston, MA, USA – `Challenges in Large Doc Sets <https://www.meetup.com/Write-the-Docs-BOS/events/244174338/>`_
 
-November 24 – Melbourne, Australia – `Write the Docs Day Australia: One-day mini-conference <https://www.writethedocs.org/conf/au/2017/>`_
+November 24 – Melbourne, Australia – `Write the Docs Day Australia: One-day mini-conference <https://www.writethedocs.org/conf/au/2017/>`_
 
-November 27 – Berlin, Germany – `November Hackup <https://www.meetup.com/Write-The-Docs-Berlin/events/244348754/>`_
+November 27 – Berlin, Germany – `November Hackup <https://www.meetup.com/Write-The-Docs-Berlin/events/244348754/>`_
 
-November 29 – Leeds-Bradford, UK – `Social meetup: Burgers & Chat <https://www.meetup.com/Write-the-Docs-Leeds-Bradford/events/244243638/>`_
+November 29 – Leeds-Bradford, UK – `Social meetup: Burgers & Chat <https://www.meetup.com/Write-the-Docs-Leeds-Bradford/events/244243638/>`_
 
 December 4 – Amsterdam, Netherlands – `API The Docs mini-conference <http://apithedocs.org/>`_
