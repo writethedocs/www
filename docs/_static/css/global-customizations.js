@@ -107,7 +107,7 @@ export default StyleSheet.create({
         "color": "#3E4349",
         "textDecoration": "none"
     },
-    "meetup-detail breadcrumps": {
+    "meetup-detail breadcrumbs": {
         "display": "flex",
         "marginLeft": 0
     },
@@ -120,7 +120,7 @@ export default StyleSheet.create({
         "marginLeft": 0,
         "flexWrap": "wrap"
     },
-    "meetup-detail breadcrumps li": {
+    "meetup-detail breadcrumbs li": {
         "paddingRight": 6,
         "listStyleType": "none"
     },
@@ -132,7 +132,7 @@ export default StyleSheet.create({
         "paddingRight": 16,
         "listStyleType": "none"
     },
-    "meetup-detail breadcrumps li a": {
+    "meetup-detail breadcrumbs li a": {
         "color": "#3E4349",
         "paddingRight": 8,
         "fontFamily": "Garamond, Georgia, serif"

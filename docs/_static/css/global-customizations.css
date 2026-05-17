@@ -96,13 +96,13 @@ div.conferences-videos-list a:visited {
 }
 
 
-.meetup-detail .breadcrumps, ul.social-media, ul.video-info {
+.meetup-detail .breadcrumbs, ul.social-media, ul.video-info {
   display: flex;
   margin-left: 0;
 
 }
 
-.meetup-detail .breadcrumps li , ul.social-media li,
+.meetup-detail .breadcrumbs li , ul.social-media li,
 ul.video-info li {
   padding-right: 6px;
   list-style-type: none;
@@ -124,7 +124,7 @@ ul.video-info {
   flex-wrap: wrap;
 }
 
-.meetup-detail .breadcrumps li a {
+.meetup-detail .breadcrumbs li a {
   color: #3E4349;
   padding-right: 8px;
   font-family: Garamond, Georgia, serif;
