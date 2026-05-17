@@ -43,7 +43,7 @@ Sales and marketing
 Developers and engineers
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Improves developer productivity. A `GitHub Octoverse report <https://octoverse.github.com/2021/creating-documentation/>`_ from 2021 claimed good documentation boosts developer productivity by 50%. This may be particularly true when documenting APIs or SDKs.
+- Improves developer productivity. A `GitHub Octoberse report <https://octoverse.github.com/2021/creating-documentation/>`_ from 2021 claimed good documentation boosts developer productivity by 50%. This may be particularly true when documenting APIs or SDKs.
 - Provides a different perspective. During SME interviews, when explaining the product and its features, engineers may discover design flaws, uncover unexpected edge cases, observe inefficiencies, and so on.
 
 ^^^^^^^^^^^^
