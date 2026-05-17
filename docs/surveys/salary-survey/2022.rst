@@ -755,7 +755,7 @@ Overall work location
 
 Combining the "current" work location for respondents affected by COVID-19 with the work location for those unaffected, we can put together an overall picture. 
 
-68.9% of all resondents work remotely, either by choice (41.7%) or as required by their employer (27.2%). Another 24.8% work partially on-site and partially remote. Only 6.3% work completely on-site (3.6% are required to do so and 2.7% do so by choice). 
+68.9% of all respondents work remotely, either by choice (41.7%) or as required by their employer (27.2%). Another 24.8% work partially on-site and partially remote. Only 6.3% work completely on-site (3.6% are required to do so and 2.7% do so by choice). 
 
 .. table:: Work location - overall (2022)
    :width: 100%

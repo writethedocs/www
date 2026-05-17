@@ -237,7 +237,7 @@ Support made up 7.7% of the non-writers – just over 1% overall. The remaining 
 
    <figure>
       <object role="img" aria-label="Role categorization - minor grouping (2021)" aria-describedby="figure-role-minor_desc" type="image/svg+xml" data="/_images/2021-role-breakdown-minor.svg">
-         <p id="figure-role-minor_desc">Donut chart showing role categorization of the 15% of total respondendents who did not place themselves in the writer, content creator, producer or editor role: </p>
+         <p id="figure-role-minor_desc">Donut chart showing role categorization of the 15% of total respondents who did not place themselves in the writer, content creator, producer or editor role: </p>
       </object> 
       <figcaption>Figure: Role categorization – minor grouping (2021)</figcaption>
    </figure>

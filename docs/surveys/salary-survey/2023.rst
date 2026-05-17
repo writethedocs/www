@@ -3672,7 +3672,7 @@ The majority of respondents in 2023 were women - accounting for 59.9% of the tot
 
    <figure>
       <object role="img" aria-label="Respondent gender identity" aria-describedby="figure_respondent-gender-identity_desc" type="image/svg+xml" data="/_images/2023-respondent-gender-identity.svg">
-         <p id="figure_respondent-gender-identity_desc">Donut chart showing gender identity of respodnents.</p>
+         <p id="figure_respondent-gender-identity_desc">Donut chart showing gender identity of respondents.</p>
       </object>
       <figcaption>Figure: Respondent gender identity</figcaption>
    </figure>
