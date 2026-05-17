@@ -58,7 +58,7 @@ That said, it's still interesting to read tips from great editors! Some recommen
 
 Another tip was to understand why the "rules" are there. Digging into linguistics and anthropology can help you figure out if a rule is actually helpful or not. And a grammar reference like *The Gregg Reference Manual* can be helpful day-to-day.
 
-Finally, editing challenges are sometimes not about words but relationships. Some authors have very set ideas about writing! So communication and conflict resolution training can be useful. If you work repeatedly with the same people, it's worth learning their quirks, over time giving feedback on some common problems they could avoid. Style guides can also help lower the temperature of a disgreement: sometimes it's productive to explain your reasoning, but other times appeals to authority can save a lot of energy!
+Finally, editing challenges are sometimes not about words but relationships. Some authors have very set ideas about writing! So communication and conflict resolution training can be useful. If you work repeatedly with the same people, it's worth learning their quirks, over time giving feedback on some common problems they could avoid. Style guides can also help lower the temperature of a disagreement: sometimes it's productive to explain your reasoning, but other times appeals to authority can save a lot of energy!
 
 ----------------------------------------
 What we're reading/listening to/watching
