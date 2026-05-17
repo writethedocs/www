@@ -102,7 +102,7 @@ Features:
 
 .. rubric:: Other recording tools
 
-In addition to Panotpo, you can use the following tools to record your talks:
+In addition to Panopto, you can use the following tools to record your talks:
 
 - `Loom <https://www.loom.com/>`_
 
