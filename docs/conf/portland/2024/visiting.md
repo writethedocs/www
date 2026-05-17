@@ -6,7 +6,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 # Visiting Portland
 
-Welcome to Portand, the largest city in the state of Oregon with a population of over 2.2 million people in the greater metro area. The conference takes place in inner Southeast Portland at Revolution Hall and is conveniently situated near outstanding options for food, bars, and hotels.
+Welcome to Portland, the largest city in the state of Oregon with a population of over 2.2 million people in the greater metro area. The conference takes place in inner Southeast Portland at Revolution Hall and is conveniently situated near outstanding options for food, bars, and hotels.
 
 "Portland is perhaps best known for being a sustainability-minded, bike-friendly city with easy access to nature; plentiful coffee, art, craft beer, delicious food and live music; and crafty people who celebrate individuality and creativity," writes [Travel Portland](https://www.travelportland.com/).
 
