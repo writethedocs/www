@@ -1436,7 +1436,7 @@ Respondents were then asked to select reasons for dissatisfaction, if any. Again
    +---------------------------------------+-----+-------+
    | Stress or pressure                    |  70 | 14.3% |
    +---------------------------------------+-----+-------+
-   | Bureaucractic overhead                |  67 | 13.6% |
+   | Bureaucratic overhead                 |  67 | 13.6% |
    +---------------------------------------+-----+-------+
    | Toolset                               |  65 | 13.2% |
    +---------------------------------------+-----+-------+
