@@ -66,7 +66,7 @@ To ensure that our CoC was visible and accessible, we took a number of specific 
 - We specifically stressed that the CoC applies to all conference spaces including the social event.
 - We encouraged all attendees to report any incident, even if they were not sure whether it was a violation.
 
-We had one CoC incident reported to the organizer. We approached the person who was reported and asked them to be considerate of their actions which may have been construed as enroaching people's personal space.
+We had one CoC incident reported to the organizer. We approached the person who was reported and asked them to be considerate of their actions which may have been construed as encroaching people's personal space.
 
 If there was any personal conduct or other aspect of the conference experience that did not meet the expectations of behaviour set out in the CoC, please email us at `conduct@writethedocs.org <mailto:conduct@writethedocs.org>`_.
 
