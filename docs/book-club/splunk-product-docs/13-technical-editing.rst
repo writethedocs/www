@@ -13,7 +13,7 @@ Note that technical editors are not "just" proofreaders. They may catch typos, b
 Discussion Summary
 ------------------
 
-As a dedicated role, technical editors seem rare: "as mythical as unicorns", to quote one participant. However, this doesn't mean technial editors aren't valued: they "seem like something everyone would want", can help ensure consistency across content, and remove personal bias in writing. As well as simply not having a dedicated editor, people in the discussion and the chapter itself mention time pressures. In a fast-paced agile environment, who has time for lengthy reviews? Treating editing like code QA can demonstrate its value, and ensure time is set aside for it.
+As a dedicated role, technical editors seem rare: "as mythical as unicorns", to quote one participant. However, this doesn't mean technical editors aren't valued: they "seem like something everyone would want", can help ensure consistency across content, and remove personal bias in writing. As well as simply not having a dedicated editor, people in the discussion and the chapter itself mention time pressures. In a fast-paced agile environment, who has time for lengthy reviews? Treating editing like code QA can demonstrate its value, and ensure time is set aside for it.
 
 Some people can draw on SME reviewers who also act as proofreaders and editors, or arrange peer reviews within the writing team. Lone writers can find it especially difficult to maintain consistency over time, with no team for peer reviews. To mitigate this, some hire proofreaders and/or editors. When you don't have an editor, a style guide can still help maintain consistency.
 
