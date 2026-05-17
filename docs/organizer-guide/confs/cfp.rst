@@ -55,7 +55,7 @@ Each member of the review committee will need:
 * Around 6 hours of time for proposal review
 * (Optional) Review meeting (usually two hours)
 
-Reviewing starts as soon as there are propsals to review, although most proposals usually come in in the last week or so.
+Reviewing starts as soon as there are proposals to review, although most proposals usually come in in the last week or so.
 We usually end the Call for Proposals around 8 weeks before the conference, aim to hold the review meeting within one week, and give the speakers around a week to confirm, then reach out to alternates if needed.
 
 We encourage our reviewers to comment on each proposal as well as rate them, since it makes for a much more productive review meeting.
