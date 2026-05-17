@@ -1472,7 +1472,7 @@ Given the range of socio-economic differences in the countries in the survey res
 Median salary by respondent region - further breakdowns
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Respondent numbers allow some additional breakdowns by US state, Candian province and Australian state, as well as a handful of North American cities.
+Respondent numbers allow some additional breakdowns by US state, Canadian province and Australian state, as well as a handful of North American cities.
 
 .. raw:: html
 

@@ -2200,7 +2200,7 @@ Given the range of socio-economic differences in the countries in the survey res
    | - Israel (24)           | --          |      $94,064 | --           |
    +-------------------------+-------------+--------------+--------------+
 
-Respondent numbers allow some additional breakdowns by US state, Candian province and Australian state, as well as a handful of major cities.
+Respondent numbers allow some additional breakdowns by US state, Canadian province and Australian state, as well as a handful of major cities.
 
 .. raw:: html
 
