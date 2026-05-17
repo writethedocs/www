@@ -13,7 +13,7 @@ For those valuable conversations in Slack, you should know about an update to th
 
 In other news, if you're reading this today, you still have a few hours left to get in your proposals for `talks for the Portland conference this year </conf/portland/2023/cfp/>`__. If you're reading this later, you still have time to get your tickets to the in-person conference.
 
-Thank you for all of your inspiring conversations in Slack. And don't forget to use the `:suggest-for-newsletter:` reactji for your next one!
+Thank you for all of your inspiring conversations in Slack. And don't forget to use the `:suggest-for-newsletter:` reacji for your next one!
 
 --------------------------------
 Will AI take over documentation?
