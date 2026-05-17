@@ -71,7 +71,7 @@ Martha's will be open to attendee sessions in the afternoon, along with the Libr
 
 In-person sessions take place at tables and focus on small group interaction. There is no stage at an Unconference session.
 
-[Virtual confereence](/conf/{{shortcode}}/{{year}}/virtual/) attendees have a dedicated **Virtual Unconference** channel in the Venueless app.
+[Virtual conference](/conf/{{shortcode}}/{{year}}/virtual/) attendees have a dedicated **Virtual Unconference** channel in the Venueless app.
 
 Unconference sessions are not recorded or streamed. 
 
