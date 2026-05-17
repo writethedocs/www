@@ -12,7 +12,7 @@ This chapter argues that a strong connection with support teams can be mutually 
 Discussion Summary
 ------------------
 
-Several people in the dicsussion group started out on support. It seems to be a fairly common route in to tech writing. Some retain close links to support, picking up support tickets occasionally, or continuing to work from within the support team. Whether still working as part of support, or on another team, all commenters find support feedback valuable.
+Several people in the discussion group started out on support. It seems to be a fairly common route in to tech writing. Some retain close links to support, picking up support tickets occasionally, or continuing to work from within the support team. Whether still working as part of support, or on another team, all commenters find support feedback valuable.
 
 There can be a virtuous cycle, whereby improving docs leads to support asking for more docs. This requires trust and visibility between the writer and the support team. Without this visibility and cooperation, you can end up with the situation several group members experienced, where support maintain their own separate docs. This is a frustrating situation to find yourself in, and it is confusing for the customer to have several places to look for info.
 
