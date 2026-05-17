@@ -86,7 +86,7 @@ Filtering out AI in hiring tests
 
 When hiring someone to take on a documentation (or other) role, you may have some sort of writing or editing assignment to get a sense of the candidate's skills (though you should never use candidate work in your actual docs without paying the creator). While many people have used such tests for years, some have worried that AI tools make it impossible to tell if candidates can actually write or edit.
 
-People generally agreed that such tests don't get at the things that make documentarians good at their jobs. But they can be useful in filtering out fraudulant applications. So how to structure them to still work?
+People generally agreed that such tests don't get at the things that make documentarians good at their jobs. But they can be useful in filtering out fraudulent applications. So how to structure them to still work?
 
 Some advice focused on asking people to explain why they did certain things in the assignment at an interview. One suggestion was to ask candidates to specifically use an AI tool and talk about how and why they did. These ideas are great for in-depth understanding, but require more time and are less useful as an initial filter.
 
