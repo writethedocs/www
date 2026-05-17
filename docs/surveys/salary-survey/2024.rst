@@ -2154,7 +2154,7 @@ Given the range of socio-economic differences in the countries in the survey res
 
    .. rubric:: Privacy and salary information
 
-   The following countries - all of which had fewer than 10 respondents in 2024 - are excluded from the median salaries breakdown for privary reasons:
+   The following countries - all of which had fewer than 10 respondents in 2024 - are excluded from the median salaries breakdown for privacy reasons:
 
    - North America: Puerto Rico, Mexico
    - Europe: Austria, Bulgaria, Croatia, Czechia, Denmark, Estonia, Finland, Georgia, Greece, Hungary, Ireland, Italy, Lithuania, Malta, Netherlands, Norway, Poland, Portugal, Romania, Russia, Serbia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine
