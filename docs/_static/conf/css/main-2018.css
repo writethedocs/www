@@ -599,36 +599,36 @@ footer {
         border: 1px solid #f1f1f1; }
 
 /** AOS animations for pictures **/
-[data-aos="pictrue-03"] {
+[data-aos="picture-03"] {
   -webkit-transform: rotate(0) translate(1px, 1px);
           transform: rotate(0) translate(1px, 1px);
   -webkit-transition-property: -webkit-transform;
   transition-property: -webkit-transform;
   transition-property: transform;
   transition-property: transform, -webkit-transform; }
-  [data-aos="pictrue-03"].aos-animate {
+  [data-aos="picture-03"].aos-animate {
     -webkit-transform: rotate(-21deg) translate(117px, 71px);
     transform: rotate(-21deg) translate(117px, 71px); }
 
-[data-aos="pictrue-02"] {
+[data-aos="picture-02"] {
   -webkit-transform: rotate(0) translate(1px, 1px);
           transform: rotate(0) translate(1px, 1px);
   -webkit-transition-property: -webkit-transform;
   transition-property: -webkit-transform;
   transition-property: transform;
   transition-property: transform, -webkit-transform; }
-  [data-aos="pictrue-02"].aos-animate {
+  [data-aos="picture-02"].aos-animate {
     -webkit-transform: rotate(21deg) translate(162px, 48px);
     transform: rotate(21deg) translate(162px, 48px); }
 
-[data-aos="pictrue-01"] {
+[data-aos="picture-01"] {
   -webkit-transform: rotate(0) translate(1px, 1px);
           transform: rotate(0) translate(1px, 1px);
   -webkit-transition-property: -webkit-transform;
   transition-property: -webkit-transform;
   transition-property: transform;
   transition-property: transform, -webkit-transform; }
-  [data-aos="pictrue-01"].aos-animate {
+  [data-aos="picture-01"].aos-animate {
     -webkit-transform: rotate(-22deg) translate(97px, 32px);
     transform: rotate(-9deg) translate(79px, -170px); }
 
