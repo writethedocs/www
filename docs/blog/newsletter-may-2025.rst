@@ -94,7 +94,7 @@ Others suggested not to base tests on existing technology – there's too much a
 
 There was some discussion of live-writing exercises, where candidates write in front of you, but some worried it was a specific circumstance unlikely to be repeated at work and might not capture the same skills.
 
-Some suggested being trickier and having the assignment include hidden text with specific instructions to LLMs, such as to include somethng irrelevant in the response. If the content is there in the submission, at the least you know the candidate didn't check before submitting.
+Some suggested being trickier and having the assignment include hidden text with specific instructions to LLMs, such as to include something irrelevant in the response. If the content is there in the submission, at the least you know the candidate didn't check before submitting.
 
 The general consensus seemed to be that there isn't one approach that would work in all circumstances. Determine what skills are most necessary for the job you're hiring for and focus your efforts there. Almost all of your candidates will use LLMs in some way.
 
