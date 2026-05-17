@@ -26,7 +26,7 @@ so you understand the measures we're taking to keep our attendees safe.
 Join us for our hike again this year
 ------------------------------------
 
-We're reviving the traditional Pittock Mansion `hike <https://www.writethedocs.org/conf/portland/{{year}}/outing/>`_ on Saturday. This is a great way to experience the beauty that Portland holds within city limits, with a walk along a creek, a majestic view of Mount Hood, and finishing with a meader through Hoyt Arboritum with hundreds of different trees and plants. 
+We're reviving the traditional Pittock Mansion `hike <https://www.writethedocs.org/conf/portland/{{year}}/outing/>`_ on Saturday. This is a great way to experience the beauty that Portland holds within city limits, with a walk along a creek, a majestic view of Mount Hood, and finishing with a meader through Hoyt Arboretum with hundreds of different trees and plants. 
 
 The hike will be on  **{{ hike.date }}**. Please register a `free ticket <https://ti.to/writethedocs/write-the-docs-portland-2023/with/hike-ticket>`_ so we can contact you with any last minute weather and logistics information.
 
