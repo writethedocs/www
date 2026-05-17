@@ -60,7 +60,7 @@ Searching and browsing are complementary actions. The method used by any one per
 
 **Search-related resources**
 
-* `Search platform tips for documentation websites <https://www.writethedocs.org/blog/newsletter-june-2024/#search-platform-tips-for-documentation-websites>`_  (WTD Newsleter)
+* `Search platform tips for documentation websites <https://www.writethedocs.org/blog/newsletter-june-2024/#search-platform-tips-for-documentation-websites>`_  (WTD Newsletter)
 * `Making documentation discoverable in search engines <https://www.youtube.com/watch?v=729Fs7JJFAQ>`_
 * `Search engine optimization (SEO) for documentation <https://www.writethedocs.org/guide/seo/>`_ (WTD page)
 * `Information Foraging <https://www.nngroup.com/articles/information-foraging/>`_ (Nielsen Norman Group)
