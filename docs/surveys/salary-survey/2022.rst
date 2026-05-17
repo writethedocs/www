@@ -1576,7 +1576,7 @@ New in the 2022 survey, we explored a concept that’s garnering a lot of attent
 Pay transparency policy
 -----------------------
 
-52.4% of all respondents reported that there was no pay transparency policy at their organization, and another 23.8% were unsure. 9.5% of companies had a partial policy, limiting diclosure to certain roles, levels, status or location. 9% of organizations had an explicit policy forbidding pay disclosure. 
+52.4% of all respondents reported that there was no pay transparency policy at their organization, and another 23.8% were unsure. 9.5% of companies had a partial policy, limiting disclosure to certain roles, levels, status or location. 9% of organizations had an explicit policy forbidding pay disclosure. 
 
 Just 5.3% of organizations - the smallest proportion - had a fully open pay transparency policy.  
 
