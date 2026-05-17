@@ -145,7 +145,7 @@ about:
 
 cfp:
   url: https://pretalx.com/wtd-prague-2022/cfp
-  ends: "June 30, 2022"           # 2 weeks to review and get confirmnations
+  ends: "June 30, 2022"           # 2 weeks to review and get confirmations
   notification: "July 15, 2022"     #  5 weeks to write and record
   video_by: "August 20, 2022"   # 3 weeks before the conf
   slides_by: "August 27, 2022"  # 2 weeks before the conf
