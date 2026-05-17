@@ -1522,8 +1522,8 @@ Around half of all employees (51.4%) and half of all contractors (50% exactly) r
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Earnings security confidence - contractors" aria-describedby="figure_earnings-security-confdence-contractors_desc" type="image/svg+xml" data="/_images/2024-earnings-security-confidence-contractors.svg">
-         <p id="figure_earnings-security-confdence-contractors_desc">Graphic showing earnings security confidence of contractors - less confident, around the same, more confident - as compared to the previous year.</p>
+      <object role="img" aria-label="Earnings security confidence - contractors" aria-describedby="figure_earnings-security-confidence-contractors_desc" type="image/svg+xml" data="/_images/2024-earnings-security-confidence-contractors.svg">
+         <p id="figure_earnings-security-confidence-contractors_desc">Graphic showing earnings security confidence of contractors - less confident, around the same, more confident - as compared to the previous year.</p>
       </object>
       <figcaption>Figure: Earnings security confidence - contractors</figcaption>
    </figure>
