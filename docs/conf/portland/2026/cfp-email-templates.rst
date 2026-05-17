@@ -207,7 +207,7 @@ Subject:
 
    You might find it useful to check out the [speaker info](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-info/) and the [what to expect guide](https://www.writethedocs.org/blog/what-to-expect-as-a-speaker/).
 
-   As we've done for the past few years we'll be live captioning all talks, and it makes the [captioners](https://www.youtube.com/watch?v=xFnM6vmvWaI) lives *much* easier if you can send in a copy of your slides, or even a word list of unusual words that you might use. Nothing final, feel free to go off scrupt after uploading, it's just a best effort thing. We'll let you know where to send these a few weeks before the conference.
+   As we've done for the past few years we'll be live captioning all talks, and it makes the [captioners](https://www.youtube.com/watch?v=xFnM6vmvWaI) lives *much* easier if you can send in a copy of your slides, or even a word list of unusual words that you might use. Nothing final, feel free to go off script after uploading, it's just a best effort thing. We'll let you know where to send these a few weeks before the conference.
 
    And I think that is it! I'm excited to see this taking shape and excited to see all of your hard work on stage!
 
