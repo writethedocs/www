@@ -13,7 +13,7 @@ If you missed the talks at WTD Berlin or want to relive the best bits, catch up 
 
 If you haven't yet filled out the 2025 Salary Survey, we need your input! If you have already contributed, please consider sharing with documentarian friends and colleagues -- the more submissions we gather, the more useful the data becomes for everyone. Head on over to the `survey <https://salary-survey.writethedocs.org/>`__.
 
-If you enjoy the newsletter, consider becoming part of the `newsletter team </team/#newsletter>`__! We are the actual humans who put together these articles every month so your good ideas don't get left behind in Slack. If you like learning about what your fellow documentatiarians are thinking about and want to get your words in front of thousands of eyes, it could be for you. Ping `@Aaron Collier` on Slack if you're interested.
+If you enjoy the newsletter, consider becoming part of the `newsletter team </team/#newsletter>`__! We are the actual humans who put together these articles every month so your good ideas don't get left behind in Slack. If you like learning about what your fellow documentarians are thinking about and want to get your words in front of thousands of eyes, it could be for you. Ping `@Aaron Collier` on Slack if you're interested.
 
 This month the wonderful team has put together articles on optimizing docs for AI consumption, putting together a style guide for your screenshots, and being the first technical writer at a startup. Enjoy!
 
