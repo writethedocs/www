@@ -183,7 +183,7 @@ To propose a channel:
 The Write the Docs moderation team will review your proposal to make sure the new channel will remain active and won't duplicate or create confusion with another channel.
 Whenever possible, the moderators work with channel sponsors on improvements to the proposal.
 
-If your proposal is approved, then you and your consponsors must:
+If your proposal is approved, then you and your cosponsors must:
 
 #. Seed discussion in the new channel.
    A starter discussion helps others learn whether the channel is relevant to them and increases the number of documentarians who join the channel.
