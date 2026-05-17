@@ -414,7 +414,7 @@ Learning...
 - |:movie_camera:| `Read the Rules: What technical writers can learn from board game design <https://www.youtube.com/watch?v=7a3xEl8C3Lc>`__
 - |:newspaper:| `Learning regular expressions (regex) </blog/newsletter-october-2020/#learning-regular-expressions-regex>`__
 - |:newspaper:| `Book club: an intro to ‘Every Page is Page One’ </blog/newsletter-april-2020/#book-club-an-intro-to-every-page-is-page-one>`__
-- |:newspaper:| `Learning material recommendations - fundamentals of tech writing, contenet strategy, API docs, Git </blog/newsletter-march-2020/#learning-material-recommendations>`__
+- |:newspaper:| `Learning material recommendations - fundamentals of tech writing, content strategy, API docs, Git </blog/newsletter-march-2020/#learning-material-recommendations>`__
 - |:newspaper:| `#learn-tech-writing book club </blog/newsletter-february-2020/#learn-tech-writing-book-club>`__
 - |:newspaper:| `Learning tech writing </blog/newsletter-november-2018/#recommended-reads>`__
 - |:newspaper:| `Recommended books </blog/newsletter-november-2018/#recommended-reads>`__
@@ -615,7 +615,7 @@ Git
 ~~~
 
 - |:newspaper:| `To git or not to git docs as code </blog/newsletter-august-2020/#to-git-or-not-to-git-docs-as-code>`__
-- |:newspaper:| `Learning material recommendations - fundamentals of tech writing, contenet strategy, API docs, Git </blog/newsletter-march-2020/#learning-material-recommendations>`__
+- |:newspaper:| `Learning material recommendations - fundamentals of tech writing, content strategy, API docs, Git </blog/newsletter-march-2020/#learning-material-recommendations>`__
 - |:newspaper:| `Learning Git </blog/newsletter-april-2017/#starter-kit-for-command-line-git>`__
 
 Search
