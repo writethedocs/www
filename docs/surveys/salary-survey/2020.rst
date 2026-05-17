@@ -56,12 +56,12 @@ Section 1: Employment Parameters
 ---------------------------------
 
 In this section, we asked about the parameters of the respondent’s
-employment: 
+employment:
 
 -  whether they were employees, self-employed, or had been employed or
-   self-employed but were currently not working, 
+   self-employed but were currently not working,
 -  the number of hours they worked and the length of time they had held
-   the same position, 
+   the same position,
 -  whether they worked solo or as part of a team and how they classified
    their role, and
 -  how focused their role was on tasks related to documentation.
@@ -195,7 +195,7 @@ valid job title.
 
 The most common job title entered was “Technical Writer”, making up 33%
 of all respondents - but nearly double that (63% of respondents) entered
-job titles that included that phrase.    
+job titles that included that phrase.
 
 .. table::  Top Job Titles (including “technical writer”)
    :width: 80%
@@ -342,7 +342,7 @@ a manager or team leader.
 
 4 respondents selected “Other” and entered more information: 3 of these
 were special cases but essentially each worked as part of a team or
-multiple teams, while the final case indicated a solo role.    
+multiple teams, while the final case indicated a solo role.
 
 .. figure:: images/2020/team-breakdown.svg
    :alt: Figure: Team Breakdown
@@ -403,7 +403,7 @@ than 10 years,
 -  61% reported between 11 and 15 years,
 -  10 individual respondents indicated 20 years or more -  7 of these
    had clocked up either 20 or 21 years, and
--  single respondents each reported 23 years, 27 years, and 28 years.  
+-  single respondents each reported 23 years, 27 years, and 28 years. 
 
 .. figure:: images/2020/years-in-current-role.svg
    :alt: Figure: Years in Current Role
@@ -1228,7 +1228,7 @@ Salary Satisfaction - Employees
 On the whole, most employee respondents were satisfied (40.27%) or very
 satisfied (31.87%) with their salary and benefits. Those with neutral
 feelings made up 17.2% of employees, with those that were unsatisfied
-(8.8%) or very unsatisfied (1.87%) in the minority.  
+(8.8%) or very unsatisfied (1.87%) in the minority. 
 
 .. figure:: images/2020/salary-satisfaction-employees.svg
    :alt: Figure: Salary Satisfaction (Employees)

@@ -303,7 +303,7 @@ This figure is not very representative as it does not take into account
 the socio-economic situation in the countries of the very highest
 earners (out of the top 10 salary values, 9 were from the US and one
 from the UK) and the very lowest (the bottom 10 salary values were from
- India, Asia, and Eastern Europe).
+India, Asia, and Eastern Europe).
 
 Figures grouped into regions make a more useful baseline from which to
 determine what constitutes a “fair” salary.
@@ -619,7 +619,7 @@ Note: 3 respondents skipped this question
 The two largest age groups (26-35 year olds and 36-45 year olds)
 combined formed 67.5% of the total respondents. Only 4.6% of respondents
 fell into the youngest age group, and there were no respondents in the
-66+ age bracket.  
+66+ age bracket. 
 
 .. figure:: images/2019/12.svg
    :alt: Figure: Age
