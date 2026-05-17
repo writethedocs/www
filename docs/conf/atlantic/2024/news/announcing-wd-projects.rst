@@ -27,7 +27,7 @@ Writing Day co-organizer, Rose Williams (she/her), is thankful to have a co-orga
 Audinux - Plan and Publish a User Guide
 ---------------------------------------
 
-We are delighted to welcome Hank Lee and Audinux to their first Writing Day! Audinux is a repository for FOSS music applications and pluginss. As a project, they want to empower creative people and help them use Audinux to its full potential! To do that, they need documentarians to help create a user guide.
+We are delighted to welcome Hank Lee and Audinux to their first Writing Day! Audinux is a repository for FOSS music applications and plugins. As a project, they want to empower creative people and help them use Audinux to its full potential! To do that, they need documentarians to help create a user guide.
 
 Improve Open Source Docs with EkLine
 ------------------------------------
