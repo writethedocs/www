@@ -130,7 +130,7 @@ If you need a hand preparing or honing your talk proposal, there are lots of goo
 * **Slack hivemind** – You can also hit up the hivemind directly on the Write the Docs Slack, any time of day! (If you're not registered yet, you can at `https://www.writethedocs.org/slack/ <https://www.writethedocs.org/slack/>`_.)
 * **Twitter hivemind** – If Twitter is more your speed, `#writethedocs <https://twitter.com/hashtag/writethedocs>`__ will get you there.
 
-ecause the talks are pre-recorded, you can submit your proposal even if you can't attend in person! We will use our virtual conference platform to allow folks to attend from home globally, and we hope that this will make our CFP accessible to more documentarians. We will also provide resources and support for recording your talk.
+Because the talks are pre-recorded, you can submit your proposal even if you can't attend in person! We will use our virtual conference platform to allow folks to attend from home globally, and we hope that this will make our CFP accessible to more documentarians. We will also provide resources and support for recording your talk.
 
 Selection process
 ------------------
