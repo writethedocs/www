@@ -203,7 +203,7 @@ Subject:
 
    We've got a [provisional schedule]({{cfp.preview}}) up, I've taken note of all of your requests, but I'd *love it* if you could check your time-slot and make sure it works for you. We'll be publishing it **next Monday**, so please request any changes well before that.
 
-   Q&A sessions are audience driven, moderated by the emcee, and asked in a conversation style directionly after your talk, expect about 5 minutes.
+   Q&A sessions are audience driven, moderated by the emcee, and asked in a conversation style directly after your talk, expect about 5 minutes.
 
    You might find it useful to check out the [speaker info](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-info/) and the [what to expect guide](https://www.writethedocs.org/blog/what-to-expect-as-a-speaker/).
 
