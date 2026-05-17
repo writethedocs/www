@@ -655,7 +655,7 @@ however those who predicted “no” (25.4%) or “probably no” (22.2%) - a
 combined 47.6% - outweighed those that predicted “yes” (13.2%) or
 “probably yes” (22.9%) - a combined 36.1%.
  
- .. figure:: images/2020/permenancy-location-change.svg
+ .. figure:: images/2020/permanency-location-change.svg
    :alt: Figure: Permanency of Work Location Changes
 
    Figure: Predicted Permanency of Work Location Changes
