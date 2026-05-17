@@ -203,7 +203,7 @@ Session considerations
 
 Meeting admin and scheduling
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Ideally, mentors and speakers should be in the same time zone or no more than two time zones apart. Severe time zone discrepancies make scheduling very dififcult.
+- Ideally, mentors and speakers should be in the same time zone or no more than two time zones apart. Severe time zone discrepancies make scheduling very difficult.
 - We suggest you schedule the first meeting for *at least* eight weeks ahead of the conference date. This provides a minimum of two weeks between each meeting as well as two weeks between the last meeting and the conference date.
 - Sessions should last at least an hour, but can run longer if both mentor and speaker think this would be helpful.
 - The pandemic notwithstanding, virtual meetings are generally easier to coordinate. Even if the mentor and speaker are co-located, consider whether meeting virtually will help ease the time burden on both parties.
