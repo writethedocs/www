@@ -251,7 +251,7 @@ Subject:
 05 - Pre conf
 ~~~~~~~~~~~~~~
 
-Slide uload dir:
+Slide upload dir:
    {{cfp_variables['upload']}}
 
 
