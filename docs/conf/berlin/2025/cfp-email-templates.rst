@@ -39,7 +39,7 @@ Subject:
    First up, make sure to confirm your speaking slot by doing these **three things** by **{{cfp.confirm_by}}**:
 
    1. If you're speaking in person, confirm your **attendance in-person** in {{city}} by clicking the {confirmation_link}
-      If you're delivering a pre-recorded talk, confirm your commitment to deliver a reocrded talk by {{cfp.video_by}} by clicking the {confirmation_link}
+      If you're delivering a pre-recorded talk, confirm your commitment to deliver a recorded talk by {{cfp.video_by}} by clicking the {confirmation_link}
 
    2. Let us know any of the following:
 
