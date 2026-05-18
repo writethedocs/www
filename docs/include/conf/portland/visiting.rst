@@ -36,7 +36,7 @@ _____________________________________
 
 Can’t decide what to eat? Visit one of the many food cart pods on the Eastside.
 
-- `Li’l America <https://pdx.eater.com/2022/10/31/23433316/lil-america-food-cart-pod>`__ (SE 10th and Stark, carts are all BIPOC and/or LGBTQ+ owned, **closest to the venue**) 
+- `Lil’ America <https://pdx.eater.com/2022/10/31/23433316/lil-america-food-cart-pod>`__ (SE 10th and Stark, carts are all BIPOC and/or LGBTQ+ owned, **closest to the venue**)
 
 - `Cartopia <https://www.cartopiafoodcarts.com/>`__ (SE 12th and Hawthorne)
 

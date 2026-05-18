@@ -83,7 +83,7 @@ Below are some recommended destinations near the venue, but there are many great
 
 ### Food Carts near Revolution Hall
 
--   [Li'l America](https://www.lilamericapdx.com/)
+-   [Lil’ America](https://web.archive.org/web/20240327145448/https://www.lilamericapdx.com/)
     (closest to venue, BIPOC and/or LGBTQ+ owned)
 -   [Cartopia](https://www.cartopiafoodcarts.com/)
 -   [Hawthorne Asylum Food Pod](https://www.yelp.com/biz/hawthorne-asylum-portland)
