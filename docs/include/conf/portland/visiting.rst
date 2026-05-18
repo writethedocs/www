@@ -67,7 +67,7 @@ ____________________________________
 
 - `Kachka <https://www.kachkapdx.com/>`__ (renowned dinner destination)
 
-- `Level Beer: Level 3 Buckman Kerns <https://www.levelbeer.com/level3>`__ (brewery with food from Midcity Smashedburger and Nacho's House)
+- `Level Beer: Level 3 Buckman Kerns <https://www.levelbeer.com/level3>`__ (brewery with food from Midcity SmashedBurger and Nacho's House)
 
 
 Grocery and convenience stores
