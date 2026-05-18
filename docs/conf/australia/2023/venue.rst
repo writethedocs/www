@@ -24,6 +24,6 @@ General access to the conference space (Library at the Dock) is limited by the l
 We will have someone at the after-hours doors to let the conference attendees in and out of the venue outside these hours, and also signs listing local staff contact details in case you are stuck outside.
 
 On both days of the conference (Thursday 7 Dec and Friday 8 Dec), doors to the Performance Space will open at 8.30am. Please enter the library via the After Hours Door located opposite the Buluk Park Playground. We will have signages and someone to usher you in to the library venue.
-**Note**: The main door of the library, alongside Victoria Habour Promenade is only accessible during library opening hours. 
+**Note**: The main door of the library, alongside Victoria Harbour Promenade is only accessible during library opening hours. 
 
 Once you are inside the library via the After Hours door, use the stairs or the lifts to Level 2 to access the Performance Space, and collect your name tags at the Registration desk.
