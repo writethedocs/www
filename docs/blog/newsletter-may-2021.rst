@@ -176,7 +176,7 @@ Virtual events coming up
 
 - 11 May, 6:30pm MDT (Calgary, Canada) - `May 2021 Write the Docs Calgary Meetup <https://www.meetup.com/wtd-calgary/events/277781688/>`__
 - 12 May, 12pm AEST (Australia) - `Docs as code - Part 1 | Lightning talks <https://www.meetup.com/Write-the-Docs-Australia/events/276294710/>`__
-- 13 May, 6pm CEST (Stockhom, Sweden) - `Not Just a Number: Design Against Ageism <https://www.meetup.com/Write-the-Docs-Stockholm/events/277876740/>`__
+- 13 May, 6pm CEST (Stockholm, Sweden) - `Not Just a Number: Design Against Ageism <https://www.meetup.com/Write-the-Docs-Stockholm/events/277876740/>`__
 - 18 May, 6pm CDT (Central US) - `WTD East Coast Quorum: The Future of Illusions <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/277820524/>`__
 - 19 May, 7pm EDT (Toronto, Canada) - `Write the Docs Toronto <https://www.meetup.com/Write-the-Docs-Toronto/events/mnpqgsycchbzb/>`__
 - 10 June, 7pm CEST (Europe) - `EMEA Write the Docs Proposals Workshop and Discussion <https://www.meetup.com/Write-the-Docs-Barcelona/events/277872444/>`__
