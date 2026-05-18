@@ -3293,7 +3293,7 @@ Respondents who selected software development or software development tools were
 
 The majority of organizations represented in the results - 94.8% - were for-profit businesses or corporations rather than non-profit, community, political, educational or government organizations, or NGOs.
 
-Based on feedback and "other" entries for industry, the final list of industries has been adjusted for the final results. One entirely new industry group has been added - Parks, Recreation, Nature, Wildnerness, Outdoors, Conservation, Ecotourism - and several others have had their definitions expanded.
+Based on feedback and "other" entries for industry, the final list of industries has been adjusted for the final results. One entirely new industry group has been added - Parks, Recreation, Nature, Wilderness, Outdoors, Conservation, Ecotourism - and several others have had their definitions expanded.
 
 69.3% of respondents chose a single industry from the list, and 20% selected two, and 6% selected three different industries.
 
@@ -3369,7 +3369,7 @@ Based on feedback and "other" entries for industry, the final list of industries
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
    | Real Estate                                                                                                                                                                |   2 |  0.1% |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
-   | Parks, Recreation, Nature, Wildnerness, Outdoors, Conservation, Ecotourism                                                                                                 |   1 |  0.1% |
+   | Parks, Recreation, Nature, Wilderness, Outdoors, Conservation, Ecotourism                                                                                                  |   1 |  0.1% |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
 
 
