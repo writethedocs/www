@@ -423,7 +423,7 @@ Proportion of role officially related to documentation
 
    .. rubric:: What we asked
                                                                          
-    7. Documentation is:                                                 
+   7. Documentation is:                                                  
                                                                          
    -  the whole of my official job description                           
    -  part of my official job description                                
@@ -703,7 +703,7 @@ about the situation.
 Similarly, no negativity was reported from the 16 respondents in this
 group who worked on-site. Half of the on-site workers felt “very
 positive” and the other half were split between “positive” and
- “neutral”. In fact, only 1 respondent - from the “partially remote,
+“neutral”. In fact, only 1 respondent - from the “partially remote,
 partially onsite” segment - reported feeling “negative” about their work
 location, and no one reported feeling “very negative”.
 
@@ -762,13 +762,13 @@ Other Changes Due to COVID-19
    -  Social distancing measures have been introduced in my workplace    
       (masks, distance between desks, maximum people in a room, online   
       meetings only etc)                                                 
-   -   My hours have changed                                             
-   -   I was furloughed                                                  
-   -   I was laid off                                                    
-   -   I changed roles (within the same organization)                    
-   -   I changed roles (started work with a different organization)      
-   -   Other (please specify)                                            
-   -   None of the above                                                 
+   -  My hours have changed                                              
+   -  I was furloughed                                                   
+   -  I was laid off                                                     
+   -  I changed roles (within the same organization)                     
+   -  I changed roles (started work with a different organization)       
+   -  Other (please specify)                                             
+   -  None of the above                                                  
 
 .. _h.thwzeueyahop:
 
@@ -1117,19 +1117,19 @@ Additional Benefits - Employees
    -  Health insurance (in excess of government-mandated minimums)       
    -  Pension, superannuation, or retirement fund (in excess of any      
       government-mandated minimums)                                      
-   -   Stocks, shares, stock options, or equity                          
-   -   Commission payments                                               
-   -   Bonus payments                                                    
-   -   Professional development / ongoing education / conference budget  
-   -   Meals, meal vouchers, or food-related benefits                    
-   -   Gym, fitness, sport, or other wellness-related benefits           
-   -   Other types of insurance e.g. life insurance, accident insurance, 
+   -  Stocks, shares, stock options, or equity                           
+   -  Commission payments                                                
+   -  Bonus payments                                                     
+   -  Professional development / ongoing education / conference budget   
+   -  Meals, meal vouchers, or food-related benefits                     
+   -  Gym, fitness, sport, or other wellness-related benefits            
+   -  Other types of insurance e.g. life insurance, accident insurance,  
       income protection insurance                                        
-   -   Paid parental leave (in excess of government-mandated minimum)    
-   -   Time off or bonuses for community-related activities              
-   -   Unlimited PTO (paid/personal time off)                            
-   -   None of the above                                                 
-   -   Other (please specify)                                            
+   -  Paid parental leave (in excess of government-mandated minimum)     
+   -  Time off or bonuses for community-related activities               
+   -  Unlimited PTO (paid/personal time off)                             
+   -  None of the above                                                  
+   -  Other (please specify)                                             
 
 .. _h.ury4804ee83n:
 
