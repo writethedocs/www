@@ -6,6 +6,12 @@ Documentation Tools Matrix
 A community-curated comparison of 27 documentation tools used in docs-as-code workflows,
 covering static site generators, hosted platforms, API doc tools, AI writing assistants, and more.
 
+.. note::
+
+   **Last reviewed: May 2026.** This page is community-maintained — entries may become outdated as tools evolve.
+   If you spot something incorrect or missing, use the guide below to edit this page and submit a pull request,
+   or `create an issue <https://github.com/writethedocs/www/issues>`_ on the WTD GitHub.
+
 **How to use this table:**
 
 - **Search** — the search box filters across all visible columns
@@ -73,6 +79,9 @@ covering static site generators, hosted platforms, API doc tools, AI writing ass
              if (type !== 'display') return data;
              var url = (row[1] || '').trim();
              if (!url) return data;
+             // Sphinx csv-table auto-converts bare URLs to <a> tags; extract the raw href
+             var m = url.match(/href="([^"]+)"/);
+             if (m) url = m[1];
              var a = document.createElement('a');
              a.href = url;
              a.target = '_blank';
