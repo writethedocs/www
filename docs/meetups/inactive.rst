@@ -30,7 +30,7 @@ Thank you to our amazing organizers for the work they put into these groups.
 * West/Mountain Quorum, virtual (USA)
 * North England, virtual (USA)
 * Nashville, TN (USA)
-* Indianapolic, IN (USA)
+* Indianapolis, IN (USA)
 * Chicago, IL (USA)
 * Karlsruhe, Germany
 * Rhineland, Germany
