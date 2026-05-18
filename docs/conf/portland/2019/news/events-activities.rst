@@ -26,7 +26,7 @@ Diversity tickets
 
 Write the Docs aims to continuously expand our community to be more diverse, welcoming, and inclusive.
 
-This year we are launching our first collaboration with `DiversityTickets.org <https://diversitytickets.org/en/events/415/>`_, a wondeful non-profit organization that shares qualifying events with various diversity organizations, and helps folks from underrepresented groups find events to attend.
+This year we are launching our first collaboration with `DiversityTickets.org <https://diversitytickets.org/en/events/415/>`_, a wonderful non-profit organization that shares qualifying events with various diversity organizations, and helps folks from underrepresented groups find events to attend.
 
 Diversity scholarship tickets are **free**, and we hope to welcome more people from all walks of life to join our community.
 Please share this campaign with your social networks and encourage folks to apply if they are interested to join us!
