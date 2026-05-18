@@ -707,7 +707,7 @@ Not affected by COVID-19
 
    <figure>
       <object role="img" aria-label="Work location (unaffected by COVID-19) (2022)" aria-describedby="figure-work-location-unaffected_desc" type="image/svg+xml" data="/_images/2022-work-location-unaffected.svg">
-         <p id="figure-work-location-unffected_desc">Donut chart showing work location for respondents who indicated that their workplace had not been affected by the pandemic.</p>
+         <p id="figure-work-location-unaffected_desc">Donut chart showing work location for respondents who indicated that their workplace had not been affected by the pandemic.</p>
       </object> 
       <figcaption>Figure: Work location (unaffected by COVID-19) (2022)</figcaption>
    </figure>
@@ -742,7 +742,7 @@ Breaking down attitudes by work location, those who are able to choose their wor
 
    <figure>
       <object role="img" aria-label="Feelings about work location (unaffected by COVID-19) (2022)" aria-describedby="figure-work-location-unaffected-feelings_desc" type="image/svg+xml" data="/_images/2022-work-location-unaffected-feelings.svg">
-         <p id="figure-work-location-unffected-feelings_desc">Donut chart showing feelings about work location for respondents who indicated that their workplace had not been affected by the pandemic.</p>
+         <p id="figure-work-location-unaffected-feelings_desc">Donut chart showing feelings about work location for respondents who indicated that their workplace had not been affected by the pandemic.</p>
       </object> 
       <figcaption>Figure: Feelings about work location (unaffected by COVID-19) (2022)</figcaption>
    </figure>
