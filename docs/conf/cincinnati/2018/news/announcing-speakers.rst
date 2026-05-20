@@ -8,14 +8,14 @@ Announcing speakers and talks
 
 Hello everyone!
 
-We're excited to announce that we've finalized our list of speakers for the Cincinnati event! Thank you to everyone who took the time to send us a proposal – we are grateful for your interest and could not have an event without you.
+We're excited to announce that we've finalized our list of speakers for the Cincinnati event! Thank you to everyone who took the time to send us a proposal – we are grateful for your interest and could not have an event without you.
 
 We also have some info about ticket purchasing (now's the time!), trip planning, and `sponsorship <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_. Read on for details!
 
 Speakers and talks
 ------------------
 
-We look to bring a wide range of voices to the Write the Docs stage with a mix of practical, philosophical, and technical topics. Our partnership with Open Help means we were especially interested in talks with an open source angle, and fortunately we had a number of strong proposals related to documentation for open source projects. We're so excited about the presentations we've got for this inaugural event – we hope you are too!
+We look to bring a wide range of voices to the Write the Docs stage with a mix of practical, philosophical, and technical topics. Our partnership with Open Help means we were especially interested in talks with an open source angle, and fortunately we had a number of strong proposals related to documentation for open source projects. We're so excited about the presentations we've got for this inaugural event – we hope you are too!
 
 .. datatemplate::
    :source: /_data/{{year}}.{{shortcode}}.speakers.yaml

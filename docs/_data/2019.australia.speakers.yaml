@@ -73,24 +73,24 @@
 - abstract: '<p>A few years ago the designers in my team started enthusiastically
     migrating over to a new design tool (Sketch). It looked like a fun tool, so I
     decided to learn it. Fast forward a few years and I couldn''t write for my app
-    without it. </p>
+    without it.</p>
 
     <p>In this talk I''ll cover three things:</p>
 
     <ul>
 
     <li>Co-design - go beyond being a service provider to being full participant in
-    the design process </li>
+    the design process</li>
 
     <li>Journeys - deliver better experiences for your users by writing in context</li>
 
     <li>Skilling up - how to leverage what you''ve learned to also create gorgeous
-    visual assets for your docs. </li>
+    visual assets for your docs.</li>
 
     </ul>
 
     <p>My experience is with Sketch, but my tips apply to most vector tools (including
-    Figma, Illustrator, etc). </p>'
+    Figma, Illustrator, etc).</p>'
   slug: supercharge-your-writing-process-with-a-designers-toolkit-rachel-robins
   speakers:
   - name: Rachel Robins

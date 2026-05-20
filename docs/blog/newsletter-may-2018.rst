@@ -107,7 +107,7 @@ May 22 – Budapest, Hungary – `Github: Why it will change the world of techni
 
 May 24 – Los Angeles, CA, USA – `Documenting APIs, the Symantec way! <https://www.meetup.com/Write-the-Docs-LA/events/249946913/>`_
 
-May 28 – Amsterdam, Netherlands – `May meetup <https://www.meetup.com/Write-The-Docs-Amsterdam/events/249028095/>`_
+May 28 – Amsterdam, Netherlands – `May meetup <https://www.meetup.com/Write-The-Docs-Amsterdam/events/249028095/>`_
 
 May 31 – Brussels, Belgium – `Process first! <https://www.meetup.com/Write-The-Docs-Brussels/events/250299512/>`_
 

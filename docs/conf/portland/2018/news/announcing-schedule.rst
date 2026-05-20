@@ -8,7 +8,7 @@ Announcing Full Schedule & Last Chance For Tickets
 
 Hello everyone!
 We're about a month out from the Portland conference and we couldn't be more stoked!
-We're writing today to a) announce the full speaker schedule, b) get the ball rolling for Writing Day sprints, and c) encourage you – if you haven't already – to buy your tickets.
+We're writing today to a) announce the full speaker schedule, b) get the ball rolling for Writing Day sprints, and c) encourage you – if you haven't already – to buy your tickets.
 We're likely to sell out **in the next day or two**, so `now's your chance <https://www.writethedocs.org/conf/portland/2018/tickets/>`_!
 
 In the meantime, if it's your first Write the Docs, now's a great time to check out `the Welcome Wagon page <https://www.writethedocs.org/conf/portland/2018/welcome-wagon/>`_, which is chockfull of info to help you get oriented.

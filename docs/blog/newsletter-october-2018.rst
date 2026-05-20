@@ -106,7 +106,7 @@ Featured job postings
 Upcoming community events
 -------------------------
 
-October 09 – Ottawa, Alberta, Canada – `Structured Writing with Mark Baker <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyxnbmb/>`_
+October 09 – Ottawa, Alberta, Canada – `Structured Writing with Mark Baker <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyxnbmb/>`_
 
 October 14 – Moscow, Russia – `Second Meetup <https://www.meetup.com/Write-the-Docs-Moscow/events/255163318/>`_
 
@@ -120,7 +120,7 @@ October 16 – Portland, Oregon, USA – `Joint Meetup with PSU & Support Driven
 
 October 17 – Bradford, West Yorkshire, UK – `Hacktoberfest! Join us in a basement in Bradford! <https://www.meetup.com/Write-the-Docs-North/events/254988997/>`_
 
-October 24 – Austin, Texas, USA – `Engineering/Developer-focused Content: Stories and Tools for Practitioners <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/255188139/>`_
+October 24 – Austin, Texas, USA – `Engineering/Developer-focused Content: Stories and Tools for Practitioners <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/255188139/>`_
 
 October 25 – Remote (Australia time) – `Remote: Teaching engineers about content strategy <https://www.meetup.com/Write-the-Docs-Australia/events/253769102/>`_
 

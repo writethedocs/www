@@ -24,7 +24,7 @@ Technical communication
 E-Learning
 -----------
 
-* `e-Learning and the Science of Instruction <https://onlinelibrary.wiley.com/doi/book/10.1002/9781119239086>`_, by Ruth Colvin Clark, Richard E. Mayer
+* `e-Learning and the Science of Instruction <https://onlinelibrary.wiley.com/doi/book/10.1002/9781119239086>`_, by Ruth Colvin Clark, Richard E. Mayer
 
 Content strategy
 ------------------

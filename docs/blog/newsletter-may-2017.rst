@@ -126,7 +126,7 @@ Did we mention that `Write the Docs Prague <https://www.writethedocs.org/conf/eu
 If you see a discussion in the WTD Slack channels that you'd like to see highlighted here in the WTD newsletter, there's a new tool for that! We're now using the `Reacji Channeler <https://reacji-channeler.builtbyslack.com>`_. If you see a helpful or enjoyable discussion and think it would make a good item in the newsletter, just tag one of the messages with the `newsletter` emoji:
 
 .. image:: news.png
-    :width: 128px
+    :width: 128px
     :align: left
     :height: 128px
     :alt: emoji for tagging newsletter suggestions

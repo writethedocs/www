@@ -7,14 +7,14 @@ Happy Tuesday everybody!
 
 We're writing today with an update on the fast-approaching Portland conference!
 
-First off, we're delighted to announce that we've finalized our speakers for the event! Every year talk selection gets more and more difficult as we get a larger, stronger batch of submissions. Thank you so much to everyone who took the time to send us a pitch – we literally wouldn't have an event without you!
+First off, we're delighted to announce that we've finalized our speakers for the event! Every year talk selection gets more and more difficult as we get a larger, stronger batch of submissions. Thank you so much to everyone who took the time to send us a pitch – we literally wouldn't have an event without you!
 
 We also have some info about ticket purchasing (now's the time!), trip planning (Portland's cool!), and our generous sponsors (want to join them?). Read on for more details!
 
 Full speaker line-up
 --------------------
 
-Every year, we look to bring a wide range of voices to the Write the Docs stage. Because the role of "documentarian" looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure. We're really excited about the presentations we're going hear this year – we hope you are too!
+Every year, we look to bring a wide range of voices to the Write the Docs stage. Because the role of "documentarian" looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure. We're really excited about the presentations we're going hear this year – we hope you are too!
 
 * Ashleigh Rentz – `The Facts About FAQs <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-ashleigh-rentz>`_
 * Beth Aitman – `Who Writes the Docs? <https://www.writethedocs.org/conf/portland/2018/speakers/#speaker-beth-aitman>`_
@@ -48,7 +48,7 @@ Planning your trip
 
 In the next few weeks, we’ll be announcing more details about the conference events, including the full schedule, annual hike on Saturday afternoon, writing day and reception on Sunday, and official party on Monday evening. But on top of that, there's ALL SORTS of stuff to do in Portland.
 
-We've got a couple of excellent volunteers – Mo Nishiyama and Alicia Duncan – who are heading up our Explore Portland committee. They're already hard at work putting together resources to help you plan your visit! Check out the `Visit Portland <https://www.writethedocs.org/conf/portland/2018/visiting/>`_ page on the conference website, or pop into the `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ channel on Slack to ask a question.
+We've got a couple of excellent volunteers – Mo Nishiyama and Alicia Duncan – who are heading up our Explore Portland committee. They're already hard at work putting together resources to help you plan your visit! Check out the `Visit Portland <https://www.writethedocs.org/conf/portland/2018/visiting/>`_ page on the conference website, or pop into the `#wtd-conferences <https://writethedocs.slack.com/messages/wtd-conferences>`_ channel on Slack to ask a question.
 
 Thanks to our sponsors
 ----------------------

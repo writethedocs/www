@@ -90,7 +90,7 @@ August 28 – Boise, ID, USA – `Networking Night! <https://www.meetup.com/Writ
 
 August 29 – Brisbane, QLD, Australia – `Content 101 + How Tech Writers Can Help Make Designs Safe <https://www.meetup.com/Write-the-Docs-Australia/events/241104250/>`_
 
-August 29 – Hamburg, Germany – `Let's talk about translations <https://www.meetup.com/Write-the-Docs-Hamburg/events/241950745/>`_
+August 29 – Hamburg, Germany – `Let's talk about translations <https://www.meetup.com/Write-the-Docs-Hamburg/events/241950745/>`_
 
 September 7 – Salt Lake City, UT, USA `Coffee Klatch
 <https://www.meetup.com/Write-the-Docs-SLC/events/242232142/>`_

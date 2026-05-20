@@ -57,7 +57,7 @@ This month, someone asked a question which many of us have wondered about, at on
 The ensuing conversation made it clear that whether you call it developer relations (DevRel), developer evangelism, or developer advocacy, it can mean a lot of different things. But some common themes emerged:
 
 * Folks in these roles are generally expected to be the "face" of their developer community. Their work involves making their product/language/framework/etc. more visible and more approachable.
-* Often they sit at an overlap point between engineering – since they're (ideally) experts in the tool they're representing – and sales, marketing, documentation, etc.
+* Often they sit at an overlap point between engineering – since they're (ideally) experts in the tool they're representing – and sales, marketing, documentation, etc.
 * The line between "evangelist" and "advocate" gets blurry. Often, though, the evangelist side is about bringing the product out to the community, while the advocate side focuses on bringing the community's voice back to the product team.
 * Although these roles may have gotten their start in the open source community, they're becoming increasingly common across the industry.
 
@@ -73,9 +73,9 @@ We're so excited to be coming up on our first official Australian event! If you'
 * **Tomorrow!** October 10 – Portland, OR, USA – `Confluence Docs With Node.js, Intro to the PSU Tech Writing Program <https://www.meetup.com/Write-The-Docs-PDX/events/242228205/>`_
 * **Also Tomorrow!** October 10 – Seattle, WA, USA – `WTD Seattle October Meetup <https://www.meetup.com/Write-The-Docs-Seattle/events/243392623/>`_
 * October 11 – Brisbane, QLD, Australia – `Peanuts and Minimalism and Technical Writing <https://www.meetup.com/Write-the-Docs-Australia/events/243038647/>`_
-* October 12 – Leeds, UK – `Social: First Meetup <https://www.meetup.com/Write-the-Docs-Leeds-Bradford/events/242556120/>`_
+* October 12 – Leeds, UK – `Social: First Meetup <https://www.meetup.com/Write-the-Docs-Leeds-Bradford/events/242556120/>`_
 * October 12 – San Francisco, CA, USA – `Lightning Talks! <https://www.meetup.com/Write-the-Docs-SF/events/243528992/>`_
 * October 14 – Fredericton, NB, Canada – Technical Communicator Lunch Social
-* October 17 – London, UK – `Worked Examples in the Documentation of Complex Systems <https://www.meetup.com/Write-The-Docs-London/events/243010658/>`_
+* October 17 – London, UK – `Worked Examples in the Documentation of Complex Systems <https://www.meetup.com/Write-The-Docs-London/events/243010658/>`_
 * October 24 – Boston, MA, USA – `mabl Happy Hour + Lightning Talks <https://www.meetup.com/Write-the-Docs-BOS/events/242428486/>`_
 * October 25 – Austin, TX, USA – `Content strategy for your docs <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/242784674/>`_

@@ -50,7 +50,7 @@ Good resources on this include:
 - `The Responsible Communication Style Guide <https://rcstyleguide.com/>`__
 - `GDS design principles <https://www.gov.uk/guidance/government-design-principles#this-is-for-everyone>`__
 
-Also, we know there's a ton of nuance and complexity here – 
+Also, we know there's a ton of nuance and complexity here –
 just do your best to be aware of and sensitive about your language choices!
 
 Slide display details
