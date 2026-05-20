@@ -28,7 +28,7 @@ Dealing with the myth that people don't read docs
 
 We've all heard it - the idea that documentation doesn't really matter, because nobody reads it anyway. And if you're reading this newsletter, you've probably got a strong feeling that it isn't true. But how do you refute the idea when people bring it up?
 
-The Write the Docs Slack community had some great ideas on this, ranging from the serious to the lighthearted. On the immediately useful end, you can point people to docs site analytics, or to community surveys (such as those run by GitHub or DigitalOcean). These give you immediate data to show the myth isn't true. Asking colleauges which user studies they have been carrying out that suggests that people don't read the docs will at least give you time to think of another answer. You can also highlight that people 'read docs when they need to, not for fun', or indeed mention the value of clarification inherent in the docs process even if those docs don't get read.
+The Write the Docs Slack community had some great ideas on this, ranging from the serious to the lighthearted. On the immediately useful end, you can point people to docs site analytics, or to community surveys (such as those run by GitHub or DigitalOcean). These give you immediate data to show the myth isn't true. Asking colleagues which user studies they have been carrying out that suggests that people don't read the docs will at least give you time to think of another answer. You can also highlight that people 'read docs when they need to, not for fun', or indeed mention the value of clarification inherent in the docs process even if those docs don't get read.
 
 On the less serious side, you can try deleting the docs and letting the person asking the question field the support tickets. Or "just" make the product good enough that it doesn't need docs.
 
@@ -58,7 +58,7 @@ That said, it's still interesting to read tips from great editors! Some recommen
 
 Another tip was to understand why the "rules" are there. Digging into linguistics and anthropology can help you figure out if a rule is actually helpful or not. And a grammar reference like *The Gregg Reference Manual* can be helpful day-to-day.
 
-Finally, editing challenges are sometimes not about words but relationships. Some authors have very set ideas about writing! So communication and conflict resolution training can be useful. If you work repeatedly with the same people, it's worth learning their quirks, over time giving feedback on some common problems they could avoid. Style guides can also help lower the temperature of a disgreement: sometimes it's productive to explain your reasoning, but other times appeals to authority can save a lot of energy!
+Finally, editing challenges are sometimes not about words but relationships. Some authors have very set ideas about writing! So communication and conflict resolution training can be useful. If you work repeatedly with the same people, it's worth learning their quirks, over time giving feedback on some common problems they could avoid. Style guides can also help lower the temperature of a disagreement: sometimes it's productive to explain your reasoning, but other times appeals to authority can save a lot of energy!
 
 ----------------------------------------
 What we're reading/listening to/watching

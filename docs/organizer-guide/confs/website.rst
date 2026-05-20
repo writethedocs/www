@@ -121,7 +121,7 @@ The items in the general conference config file are:
            link: /cfp
 
 * ``tickets``: the conference ticket prices. The keys, i.e. the names of the
-  various sponsorship packages, are fixed and can not be changed per conference.
+  various sponsorship packages, are fixed and cannot be changed per conference.
   Example::
 
     tickets:

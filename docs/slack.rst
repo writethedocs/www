@@ -183,12 +183,12 @@ To propose a channel:
 The Write the Docs moderation team will review your proposal to make sure the new channel will remain active and won't duplicate or create confusion with another channel.
 Whenever possible, the moderators work with channel sponsors on improvements to the proposal.
 
-If your proposal is approved, then you and your consponsors must:
+If your proposal is approved, then you and your cosponsors must:
 
 #. Seed discussion in the new channel.
    A starter discussion helps others learn whether the channel is relevant to them and increases the number of documentarians who join the channel.
 #. Make an announcement in **#general** and channels related to the new channel's topic.
-   For example, if there's a new a channel for underwater basket weaving, then make an announcement like "Join us in #underwater-basket-weaving to discuss techniques, materials, and what to store in all these baskets."
+   For example, if there's a new channel for underwater basket weaving, then make an announcement like "Join us in #underwater-basket-weaving to discuss techniques, materials, and what to store in all these baskets."
 
 Guidelines
 ----------
@@ -344,7 +344,7 @@ Posts in those channels not meeting the posting rules may result in :ref:`modera
 Reporting Issues
 ~~~~~~~~~~~~~~~~
 
-If you see a message in a public channel that needs moderator attention, you can react to it with the ``:attn-mods:`` or ``:spam:`` reactji.
+If you see a message in a public channel that needs moderator attention, you can react to it with the ``:attn-mods:`` or ``:spam:`` reacji.
 Note that this is a public action, so only take it if you're okay with the poster seeing you have done this. 
 
 If you see people not following the behavior guidelines you can:

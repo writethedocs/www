@@ -31,7 +31,7 @@ These will take place on March 18, 24, and April 1 at 12pm PST. More information
 
 ### Virtual Conference Tickets
 
-We are looking at how we handle in-person and virtual conferences going forward, and are planning to test out a virtual ticket for Portland this year. As part of this, we're looking at perhaps bringing an hybrid conference back in Europe, but haven't firmed up any details there.
+We are looking at how we handle in-person and virtual conferences going forward, and are planning to test out a virtual ticket for Portland this year. As part of this, we're looking at perhaps bringing a hybrid conference back in Europe, but haven't firmed up any details there.
 
 The virtual ticket option includes:
 

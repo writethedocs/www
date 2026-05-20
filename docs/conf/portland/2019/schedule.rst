@@ -107,7 +107,7 @@ Come on a short tour of the venue with a veteran Write the Docs attendee so youâ
 Unconference
 ~~~~~~~~~~~~
 
-Have in depth discussions about a large number of topics.
+Have in-depth discussions about a large number of topics.
 This is scheduled on the day of, so please suggest your own session!
 
 * **Where**: Lola's room, Crystal Ballroom

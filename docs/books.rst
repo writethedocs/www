@@ -44,7 +44,7 @@ Design and information architecture
 * `How to Make Sense of Any Mess <http://www.howtomakesenseofanymess.com/>`_, by Abby Covert - **Read in our book club**
 * `Information Architecture: For the Web and Beyond <https://www.goodreads.com/book/show/70132.Information_Architecture_for_the_World_Wide_Web>`_, by Lou Rosenfeld
 * `Information Development: Managing Your Documentation Projects, Portfolio, and People <https://www.goodreads.com/book/show/884914.Information_Development>`_, by JoAnn T. Hackos
-* `Strategic Writing for UX <https://www.oreilly.com/library/view/strategic-writing-for/9781492049388/>`_, by Torrey Podmojersky - **Read in our book club**
+* `Strategic Writing for UX <https://www.oreilly.com/library/view/strategic-writing-for/9781492049388/>`_, by Torrey Podmajersky - **Read in our book club**
 * `Think Like a UX Researcher <https://www.routledge.com/Think-like-a-UX-Researcher-How-to-Observe-Users-Influence-Design-and/Travis-Hodgson/p/book/9781138365292>`_, by David Travis and Philip Hodgson
 * `Web Style Guide, 4th Ed.: Foundations of User Experience Design <https://webstyleguide.com/index.html>`_, by Patrick J. Lynch, Sarah Horton, and Ethan Marcotte
 

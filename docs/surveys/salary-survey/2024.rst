@@ -1522,8 +1522,8 @@ Around half of all employees (51.4%) and half of all contractors (50% exactly) r
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Earnings security confidence - contractors" aria-describedby="figure_earnings-security-confdence-contractors_desc" type="image/svg+xml" data="/_images/2024-earnings-security-confidence-contractors.svg">
-         <p id="figure_earnings-security-confdence-contractors_desc">Graphic showing earnings security confidence of contractors - less confident, around the same, more confident - as compared to the previous year.</p>
+      <object role="img" aria-label="Earnings security confidence - contractors" aria-describedby="figure_earnings-security-confidence-contractors_desc" type="image/svg+xml" data="/_images/2024-earnings-security-confidence-contractors.svg">
+         <p id="figure_earnings-security-confidence-contractors_desc">Graphic showing earnings security confidence of contractors - less confident, around the same, more confident - as compared to the previous year.</p>
       </object>
       <figcaption>Figure: Earnings security confidence - contractors</figcaption>
    </figure>
@@ -1936,7 +1936,7 @@ Those affected by a full time RTO mandate felt predominantly negative - 73.9% re
 
    <figure>
       <object role="img" aria-label="Attitudes towards RTO - respondents affected by full RTO" aria-describedby="figure_rto-attitude-affected-by-full_desc" type="image/svg+xml" data="/_images/2024-rto-attitude-affected-by-full.svg">
-         <p id="figure_rto-attitude-affected-by-full_desc">Donut chart showing attitudes towards RTO by those respondents affeted by full RTO mandates.</p>
+         <p id="figure_rto-attitude-affected-by-full_desc">Donut chart showing attitudes towards RTO by those respondents affected by full RTO mandates.</p>
       </object>
       <figcaption>Figure: Attitude towards RTO - respondents affected by full RTO</figcaption>
    </figure>
@@ -2154,7 +2154,7 @@ Given the range of socio-economic differences in the countries in the survey res
 
    .. rubric:: Privacy and salary information
 
-   The following countries - all of which had fewer than 10 respondents in 2024 - are excluded from the median salaries breakdown for privary reasons:
+   The following countries - all of which had fewer than 10 respondents in 2024 - are excluded from the median salaries breakdown for privacy reasons:
 
    - North America: Puerto Rico, Mexico
    - Europe: Austria, Bulgaria, Croatia, Czechia, Denmark, Estonia, Finland, Georgia, Greece, Hungary, Ireland, Italy, Lithuania, Malta, Netherlands, Norway, Poland, Portugal, Romania, Russia, Serbia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine
@@ -2200,7 +2200,7 @@ Given the range of socio-economic differences in the countries in the survey res
    | - Israel (24)           | --          |      $94,064 | --           |
    +-------------------------+-------------+--------------+--------------+
 
-Respondent numbers allow some additional breakdowns by US state, Candian province and Australian state, as well as a handful of major cities.
+Respondent numbers allow some additional breakdowns by US state, Canadian province and Australian state, as well as a handful of major cities.
 
 .. raw:: html
 
@@ -3734,7 +3734,7 @@ Organization type and industry
    - Manufacturing, Engineering, Precision Engineering, Hardware, Semiconductor
    - Media, Radio, TV, Journalism
    - Non-profit, Community
-   - Parks, Recreation, Nature, Wildnerness, Outdoors, Conservation, Ecotourism
+   - Parks, Recreation, Nature, Wilderness, Outdoors, Conservation, Ecotourism
    - Retail, Consumer Products, Fashion
    - Real Estate
    - Science, Research
@@ -3899,7 +3899,7 @@ Pay transparency
 Pay transparency policy and legal requirements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-47.6% of respondants - the majority - reported that their organization had no pay transparency policy. The next largest group, at 27.9%, were unsure if there was a policy or not. The final 24.5% were fairly evenly split between partial disclosure (9.5%), disclosure forbidden (8.3%), and full disclosure (6.7%).
+47.6% of respondents - the majority - reported that their organization had no pay transparency policy. The next largest group, at 27.9%, were unsure if there was a policy or not. The final 24.5% were fairly evenly split between partial disclosure (9.5%), disclosure forbidden (8.3%), and full disclosure (6.7%).
 
 The proportions of organizations in each category has not changed significantly over the three years we have asked this question.
 

@@ -300,7 +300,7 @@
   title: Workshop - Let's create a Style Guide!
   year: '2018'
 - abstract: "<p>As many documentation teams move towards a docs-as-code workflow,\
-    \ most are turning to static site generators like Jekyll, Sphynx, Hugo, or GitBook\
+    \ most are turning to static site generators like Jekyll, Sphinx, Hugo, or GitBook\
     \ to turn that 'code' into user-facing documentation websites. In this mini-workshop,\
     \ you'll get an introduction to the static site generator landscape, and apply\
     \ what you learn by publishing your own site in class. We'll cover:\n\n<ul>\n\

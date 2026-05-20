@@ -74,7 +74,7 @@ The [Unconference](https://www.writethedocs.org/conf/australia/2024/unconference
 
 ### Tales from the Trenches
 
-[Tales from the trenches](https://www.writethedocs.org/conf/australia/2024/tales/) is a slightly different concept we are trialling out this year, where we invite you to share your unique experiences and offer fresh perspectives on three broad topics to help spark ideas.
+[Tales from the trenches](https://www.writethedocs.org/conf/australia/2024/tales/) is a slightly different concept we are trialing out this year, where we invite you to share your unique experiences and offer fresh perspectives on three broad topics to help spark ideas.
 
 ### Self-organised outing
 

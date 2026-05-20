@@ -122,7 +122,7 @@ about questioning assumptions and understanding tools for website creation. We w
 that we are setting up ourselves for success and creating sustainable documentation so we can
 maintain our site and help others along the way.
 
-Depending on timing and interest, there may be additional ooportunities to:
+Depending on timing and interest, there may be additional opportunities to:
 
 - Use code comments to document HTML and CSS features of our website
 - Submit issues or pull requests to Codeberg for corrections to the official documentation
@@ -133,7 +133,7 @@ Brainstorm a Help Center Style Guide
 *Note: First session only*
 
 As writers and documentarians, many of us have been tasked with creating style guides 
-for the projefts and companies we worked for to standardize and support our documentation
+for the projects and companies we worked for to standardize and support our documentation
 efforts.
 
 The Brainstorm a Style Guide project aspires to support writers and documentarians,

@@ -6,7 +6,7 @@
 Announcing speakers and talks
 =============================
 
-G'dday fellow documentarians in Australia and beyond!
+G'day fellow documentarians in Australia and beyond!
 
 We’re happy to write to you with the latest news about our upcoming Australian conference, there’s lots to share and with the conference just over two months away, we hope you’re all getting excited!
 

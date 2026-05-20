@@ -22,7 +22,7 @@ Core team
 
 Since the original Write the Docs conference was held in 2012, the folks behind the scenes have contributed their time, efforts, and talent on a volunteer basis, with tremendous results. Over the years, the community grew to a point where we needed to develop a system that will support the community in the long run, without burning out the people who are filling key global roles.
 
-Last year we decided to try setting up a formalized a small, part-time paid staff with the goal of consolidating various roles and responsibilities that could be handled globally, such as web administration, swag coordination, staff wrangling, and meetup overseeing.
+Last year we decided to try setting up a formalized small, part-time paid staff with the goal of consolidating various roles and responsibilities that could be handled globally, such as web administration, swag coordination, staff wrangling, and meetup overseeing.
 
 So far the experiment has been successful! Here are the core team members and their respective responsibilities:
 

@@ -79,7 +79,7 @@ We want to:
 
 We don't want to:
 
-* Have an high entry barrier to our events. Our conferences and activities are carefully priced to maintain the lowest possible ticket prices that we can offer while covering the production costs. We also offer free tickets to speakers, volunteers, staff, and diversity organizations, as well as travel assistance when possible.
+* Have a high entry barrier to our events. Our conferences and activities are carefully priced to maintain the lowest possible ticket prices that we can offer while covering the production costs. We also offer free tickets to speakers, volunteers, staff, and diversity organizations, as well as travel assistance when possible.
 
 Decision-making process
 -----------------------

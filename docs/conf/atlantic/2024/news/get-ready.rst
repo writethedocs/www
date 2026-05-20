@@ -22,7 +22,7 @@ To help us manage capacity and make sure that our conference environment is cozy
 If you haven't purchased your ticket yet we invite you to `get your tickets soon <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/>`_.
 
 For those of you who already purchased your tickets, you should have already received an email with our online conference platform (Venueless) registration link. We will also send a reminder on September 20th, in case you missed the first email, or registered later.
-If you can not find this mail, please contact us on {{shortcode}}@writethedocs.org.
+If you cannot find this mail, please contact us on {{shortcode}}@writethedocs.org.
 
 Welcome Wagon guide
 -------------------

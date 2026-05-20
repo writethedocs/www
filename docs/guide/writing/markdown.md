@@ -63,7 +63,7 @@ To add a numbered or ordered list of items:
     will start from scratch.
         1. If you want to insert an indented numbered list within an existing indented numbered one,
         just press the tab key again.
-            - If need be, you can also add an indented unordered list within an indented numbered one, an vice versa,
+            - If need be, you can also add an indented unordered list within an indented numbered one, and vice versa,
             by pressing a tab key and typing a dash.
 ```
 
@@ -75,7 +75,7 @@ The formatted text will look like this:
     1. If you press a tab key or type four spaces, you will get an indented list and the numbering will start from scratch.
         1. If you want to insert an indented numbered list within an existing indented numbered one,
         just press the tab key again.
-            - If need be, you can also add an indented unordered list within an indented numbered one, an vice versa,
+            - If need be, you can also add an indented unordered list within an indented numbered one, and vice versa,
             by pressing a tab key and typing a dash.
 
 ### Headers

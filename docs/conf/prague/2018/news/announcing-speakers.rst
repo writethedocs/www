@@ -62,7 +62,7 @@ We are so grateful to have our sponsors help in bringing these events to life ev
 * `Travis CI <https://www.travis-ci.com/>`__
 * `people text <https://www.people-text.de/en/>`__
 * `Document360 <https://document360.io/>`__
-* `Gitlab <https://gitlab.com>`__
+* `GitLab <https://gitlab.com>`__
 * `KnowledgeOwl <https://www.knowledgeowl.com/>`__
 
 Want to lend a hand? Head over to our `sponsorship prospectus <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_ for details on how your company can get involved! We have several types of sponsorship available, including the option to participate in a new job fair that we'll be hosting on Tuesday.

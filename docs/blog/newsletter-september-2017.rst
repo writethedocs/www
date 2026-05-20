@@ -29,7 +29,7 @@ Documentarians tackled this thorny question recently, and as usual the answer wa
 ***************************************************************
 Crowdsourced Documentation, Plus Sunsetting Stack Overflow Docs
 ***************************************************************
-This month, the `Stack Overflow Documentation beta shutdown <https://meta.stackoverflow.com/questions/354217/sunsetting-documentation>`_ prompted a conversation about crowdsourced docs and whether they can ever work well. Folks mentioned `Django <https://docs.djangoproject.com/en/1.11/>`_, `Wikipedia <https://www.wikipedia.org>`_, and `Ubuntu <https://help.ubuntu.com>`_ as examples of effective crowdsourced documentation. And on the otherside you have open-source software companies like OpenOffice and Mozilla, who tried volunteer-only docs but eventually hired writers.
+This month, the `Stack Overflow Documentation beta shutdown <https://meta.stackoverflow.com/questions/354217/sunsetting-documentation>`_ prompted a conversation about crowdsourced docs and whether they can ever work well. Folks mentioned `Django <https://docs.djangoproject.com/en/1.11/>`_, `Wikipedia <https://www.wikipedia.org>`_, and `Ubuntu <https://help.ubuntu.com>`_ as examples of effective crowdsourced documentation. And on the other side you have open-source software companies like OpenOffice and Mozilla, who tried volunteer-only docs but eventually hired writers.
 
 So what *does* it take to make crowdsourced docs work? They seem to work best when companies clearly value documentation – even to the point of requiring developers to write it before they can commit code. Others mentioned that it's vital to provide lots of detail about the content contributions you're looking for. Finding the right model is important too: some companies have all-volunteer-created docs, and others solicit volunteer contributions that are eventually reviewed and curated by an in-house writing team. Crowdsourcing is also a good way to dig up questions that real users have so you can explicitly address them in your documentation.
 
@@ -42,7 +42,7 @@ People also had some interesting perspectives on why the Stack Overflow (SO) eff
 * SO wasn't seen as the "right" place to go for docs (even if a company's official docs aren't well done)
 * No easy or effective way to address gaps in official docs in the SO environment (which is problem:solution-based)
 
-If you're interested in a lengthier dicsussion about the SO Documentation beta sunsetting and crowdsourced docs in general, check out last month's episode of the `Write the Docs podcast <http://podcast.writethedocs.org/2017/08/22/stack-overflow-failure-open-source-challenges/>`_!
+If you're interested in a lengthier discussion about the SO Documentation beta sunsetting and crowdsourced docs in general, check out last month's episode of the `Write the Docs podcast <http://podcast.writethedocs.org/2017/08/22/stack-overflow-failure-open-source-challenges/>`_!
 
 *************************************
 Doc Portfolios: A Perpetual Conundrum

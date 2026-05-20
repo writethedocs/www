@@ -237,7 +237,7 @@ Support made up 7.7% of the non-writers – just over 1% overall. The remaining 
 
    <figure>
       <object role="img" aria-label="Role categorization - minor grouping (2021)" aria-describedby="figure-role-minor_desc" type="image/svg+xml" data="/_images/2021-role-breakdown-minor.svg">
-         <p id="figure-role-minor_desc">Donut chart showing role categorization of the 15% of total respondendents who did not place themselves in the writer, content creator, producer or editor role: </p>
+         <p id="figure-role-minor_desc">Donut chart showing role categorization of the 15% of total respondents who did not place themselves in the writer, content creator, producer or editor role: </p>
       </object> 
       <figcaption>Figure: Role categorization – minor grouping (2021)</figcaption>
    </figure>
@@ -609,7 +609,7 @@ Although work location was the big upheaval caused by the pandemic, changes occu
 Section 3: Salary
 =================
 
-In this section, we asked the all-important salary questions: how much respondents were paid, what additional benefits they received, and how happy they were with their salary and with their job overall. Independent contractors were able to specify whether they typically used an hourly rate, a day rate or a different payment structure. 
+In this section, we asked the all-important salary questions: how much respondents were paid, what additional benefits they received, and how happy they were with their salary and with their job overall. Independent contractors were able to specify whether they typically used an hourly rate, a day rate, or a different payment structure. 
 
 2019 and 2020's surveys asked respondents to indicate reasons that they were not completely satisfied with their salary, benefits and overall job. In 2021, in addition to asking these negatively-oriented questions, we turned the focus around and asked what aspects of their employment situation they felt positive about.  
 

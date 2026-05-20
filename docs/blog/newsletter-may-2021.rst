@@ -71,7 +71,7 @@ The grammar of singular they
 
 Using "they" in the singular has a long history. But the grammar is not always obvious - as a recent Slack question showed. What is the appropriate reflexive form of "they" - for example, the equivalent to "he himself is" or "she herself is"?
 
-There was some disagreement on whether it should be "themselves" or "themself", and so, correspondingly, what the verb form should be also -- "they themselves are"? or "they themself is"? Interestingly, nobody suggested "they themself are", even though the most common verb form for singular they without the reflexive pronous is "are". But one person pointed out that "the person themselves is ..." is not uncommon. So many possibilities! So little agreement!
+There was some disagreement on whether it should be "themselves" or "themself", and so, correspondingly, what the verb form should be also -- "they themselves are"? or "they themself is"? Interestingly, nobody suggested "they themself are", even though the most common verb form for singular they without the reflexive pronouns is "are". But one person pointed out that "the person themselves is ..." is not uncommon. So many possibilities! So little agreement!
 
 Some, understandably, suggested omitting the reflexive form altogether. This can be appropriate in technical writing, if you can find a way to rephrase - for example, by writing less formally to provide the emphasis that the reflexive pronoun can sometimes carry.
 
@@ -176,7 +176,7 @@ Virtual events coming up
 
 - 11 May, 6:30pm MDT (Calgary, Canada) - `May 2021 Write the Docs Calgary Meetup <https://www.meetup.com/wtd-calgary/events/277781688/>`__
 - 12 May, 12pm AEST (Australia) - `Docs as code - Part 1 | Lightning talks <https://www.meetup.com/Write-the-Docs-Australia/events/276294710/>`__
-- 13 May, 6pm CEST (Stockhom, Sweden) - `Not Just a Number: Design Against Ageism <https://www.meetup.com/Write-the-Docs-Stockholm/events/277876740/>`__
+- 13 May, 6pm CEST (Stockholm, Sweden) - `Not Just a Number: Design Against Ageism <https://www.meetup.com/Write-the-Docs-Stockholm/events/277876740/>`__
 - 18 May, 6pm CDT (Central US) - `WTD East Coast Quorum: The Future of Illusions <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/277820524/>`__
 - 19 May, 7pm EDT (Toronto, Canada) - `Write the Docs Toronto <https://www.meetup.com/Write-the-Docs-Toronto/events/mnpqgsycchbzb/>`__
 - 10 June, 7pm CEST (Europe) - `EMEA Write the Docs Proposals Workshop and Discussion <https://www.meetup.com/Write-the-Docs-Barcelona/events/277872444/>`__

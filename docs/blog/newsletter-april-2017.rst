@@ -29,11 +29,11 @@ First up this month, someone asked the channel for a good example of how to docu
 
 But how to get that info into release notes? One participant reported his team's process:
 
-1. Collect all JIRA issues (especially customer-reported issues)
+1. Collect all Jira issues (especially customer-reported issues)
 2. Filter out internal code issues and QA tests
 3. Rewrite the issue title so it's easy for readers to scan
 4. Label issues so they're easy to sort
-5. Use `this script <https://libraries.io/github/markcraig/release-notes-list-builder>`_ to transpose the issues (in JSON format) from JIRA into a DocBook block element for release notes
+5. Use `this script <https://libraries.io/github/markcraig/release-notes-list-builder>`_ to transpose the issues (in JSON format) from Jira into a DocBook block element for release notes
 
 ------------------------------------------
 

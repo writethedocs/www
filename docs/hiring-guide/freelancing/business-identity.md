@@ -42,7 +42,7 @@ Think about your value proposition. Be specialized: the clearer you are about yo
 
 ### What is my elevator pitch?
 
-This is two to three sentences summarising your business specialities, value proposition and and identity.
+This is two to three sentences summarising your business specialities, value proposition and identity.
 
 #### Example
 "I'm a technical writer for software products. I reduce support load and increase customer loyalty by helping them use your product."  

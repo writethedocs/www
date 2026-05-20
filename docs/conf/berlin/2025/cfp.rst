@@ -160,7 +160,7 @@ Speaker logistics
 
 New in 2025 we're showing a few pre-recorded talks with live Q&A from remote speakers for our conference on **{{date.short}}**.
 
-- We'll accept a **maximum of two** pre-recorded talks, which will need to be uploaded around one month before the conference. Because there are only two slots, submitting a remote proposal does reduce the likeliehood of your talk being accepted.
+- We'll accept a **maximum of two** pre-recorded talks, which will need to be uploaded around one month before the conference. Because there are only two slots, submitting a remote proposal does reduce the likelihood of your talk being accepted.
 - All other talks will be delivered **in-person, on-stage, live in {{city}}**.
 
 Both in-person and pre-recorded talks are 30 minutes long, followed by a few minutes of moderated Q&A immediately after the presentation.

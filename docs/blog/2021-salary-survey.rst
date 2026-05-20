@@ -29,7 +29,7 @@ Shout out to `Kay Smoljak <https://twitter.com/goatlady>`_ for running this surv
 Thanks
 ------
 
-Thanks again for for being a member of our community.
+Thanks again for being a member of our community.
 We hope to see you soon at one of our online events, on our Slack, or continue to see you here via this newsletter.
 
 You can always email us at support@writethedocs.org if you have any questions or comments.

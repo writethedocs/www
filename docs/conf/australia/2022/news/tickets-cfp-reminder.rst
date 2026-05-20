@@ -55,7 +55,7 @@ and are open for new sponsorship inquiries.
 
 .. _virtual sponsorship prospectus: https://www.writethedocs.org/conf/australia/{{year}}/sponsors/prospectus/
 
-Thanks so much to the following companies for supporting the Asutralia conference this year:
+Thanks so much to the following companies for supporting the Australia conference this year:
 
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-config.yaml

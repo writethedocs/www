@@ -286,7 +286,7 @@
     and maintainable. I’ll first present a more theoretical argument in favor of re-conceptualizing
     documentation in terms of what I call the “model” layer and the “view” layer.
     This will set the stage for the centerpiece of the talk, which will be a walk-through
-    of an information portal for a fictional database that includes docs for a a CLI
+    of an information portal for a fictional database that includes docs for a CLI
     tool, client SDKs, a REST API, numerous configurable parameters, and a bevy of
     tricky core concepts.</p>'
 - title: Globalise the docs

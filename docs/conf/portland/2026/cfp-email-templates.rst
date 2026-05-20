@@ -53,7 +53,7 @@ Subject:
    * Remember that one of the biggest strengths of the Write the Docs community is that we come from a huge variety of professional and personal backgrounds.
      When you're writing your talk (just like when you're writing documentation), think about the diverse needs and interests of your audience, avoid (or define) any jargon-y language, and make sure you clearly express what people are going to learn from your talk.
    * Remember this is a community conference. If you're representing your employer it's okay to mention that, but please don't treat your talk as a marketing opportunity.
-   * Make sure you plan your talk to fit in the allotted time. 30 mins for the the talk itself.There will be Q&A after the 30 mins.
+   * Make sure you plan your talk to fit in the allotted time. 30 mins for the talk itself. There will be Q&A after the 30 mins.
    * Please review our Code of Conduct (https://www.writethedocs.org/code-of-conduct/) and make sure your talk content adheres to it. As a rule of thumb, if you're on the fence about whether something in your talk could be considered inappropriate or offensive, leave it out. If you have a question about the code, feel free to email us and ask!
 
    If you're concerned about travel expenses, let us know. We do have a budget for speaker expenses, but it can't cover all our speakers.
@@ -203,11 +203,11 @@ Subject:
 
    We've got a [provisional schedule]({{cfp.preview}}) up, I've taken note of all of your requests, but I'd *love it* if you could check your time-slot and make sure it works for you. We'll be publishing it **March 23**, so please request any changes well before that.
 
-   We're keeping the Q&A sessions in our live event. Questions submitted by the audience are moderated by the emcee, and asked in a conversation style directionly after your talk, we'll keep that pretty short.
+   We're keeping the Q&A sessions in our live event. Questions submitted by the audience are moderated by the emcee, and asked in a conversation style directly after your talk, we'll keep that pretty short.
 
    You might find it useful to check out the [speaker info](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-info/) and the [what to expect guide](https://www.writethedocs.org/blog/what-to-expect-as-a-speaker/).
 
-   As we've done for the past few years we'll be live captioning all talks, and it makes the [captioners](https://www.youtube.com/watch?v=xFnM6vmvWaI) lives *much* easier if you can send in a copy of your slides, or even a word list of unusual words that you might use. Nothing final, feel free to go off scrupt after uploading, it's just a best effort thing. We'll let you know where to send these a few weeks before the conference.
+   As we've done for the past few years we'll be live captioning all talks, and it makes the [captioners](https://www.youtube.com/watch?v=xFnM6vmvWaI) lives *much* easier if you can send in a copy of your slides, or even a word list of unusual words that you might use. Nothing final, feel free to go off script after uploading, it's just a best effort thing. We'll let you know where to send these a few weeks before the conference.
 
    And I think that is it! I'm excited to see this taking shape and excited to see all of your hard work on stage!
 
@@ -251,7 +251,7 @@ Subject:
 05 - Pre conf
 ~~~~~~~~~~~~~~
 
-Slide uload dir:
+Slide upload dir:
    {{cfp_variables['upload']}}
 
 

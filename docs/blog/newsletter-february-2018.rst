@@ -77,7 +77,7 @@ To help people find more opportunities for publishing, Chris Ward (@chrisward on
 that are good to write for.
 
 Not only is this a good resource for any freelance folks out there, but it's also a great opportunity to help build it up as a resource.
-`You can find the list on Github here <https://github.com/ChrisChinchilla/awesome-people-to-write-for>`_.
+`You can find the list on GitHub here <https://github.com/ChrisChinchilla/awesome-people-to-write-for>`_.
 Have a look, give it a fork, and add any publications that you've had good experiences with as a contributor.
 
 *Have a question or want to chat about the list?

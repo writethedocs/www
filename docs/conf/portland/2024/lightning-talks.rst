@@ -40,7 +40,7 @@ Submit your lightning talk in person at the registration/check-in table througho
 
 **Tech check**: 
 
-- Ten minutes before lunch ends on the main stage on Monday and Tuesaday.
+- Ten minutes before lunch ends on the main stage on Monday and Tuesday.
 - Speaking order is confirmed during tech check.
 - Speakers using tech, such as slides, etc, have the opportunity to test it.
 

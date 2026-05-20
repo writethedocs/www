@@ -1472,7 +1472,7 @@ Given the range of socio-economic differences in the countries in the survey res
 Median salary by respondent region - further breakdowns
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Respondent numbers allow some additional breakdowns by US state, Candian province and Australian state, as well as a handful of North American cities.
+Respondent numbers allow some additional breakdowns by US state, Canadian province and Australian state, as well as a handful of North American cities.
 
 .. raw:: html
 
@@ -3146,7 +3146,7 @@ Feelings about pay transparency
 Organization demographics
 =========================
 
-This section concerns employing organizations. Contractors were asked to either answer about the main organization they work for, or a typical/respresentative organization, whichever felt most appropriate to them.
+This section concerns employing organizations. Contractors were asked to either answer about the main organization they work for, or a typical/representative organization, whichever felt most appropriate to them.
 
 Organization size
 -----------------
@@ -3293,7 +3293,7 @@ Respondents who selected software development or software development tools were
 
 The majority of organizations represented in the results - 94.8% - were for-profit businesses or corporations rather than non-profit, community, political, educational or government organizations, or NGOs.
 
-Based on feedback and "other" entries for industry, the final list of industries has been adjusted for the final results. One entirely new industry group has been added - Parks, Recreation, Nature, Wildnerness, Outdoors, Conservation, Ecotourism - and several others have had their definitions expanded.
+Based on feedback and "other" entries for industry, the final list of industries has been adjusted for the final results. One entirely new industry group has been added - Parks, Recreation, Nature, Wilderness, Outdoors, Conservation, Ecotourism - and several others have had their definitions expanded.
 
 69.3% of respondents chose a single industry from the list, and 20% selected two, and 6% selected three different industries.
 
@@ -3369,7 +3369,7 @@ Based on feedback and "other" entries for industry, the final list of industries
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
    | Real Estate                                                                                                                                                                |   2 |  0.1% |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
-   | Parks, Recreation, Nature, Wildnerness, Outdoors, Conservation, Ecotourism                                                                                                 |   1 |  0.1% |
+   | Parks, Recreation, Nature, Wilderness, Outdoors, Conservation, Ecotourism                                                                                                  |   1 |  0.1% |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
 
 
@@ -3672,7 +3672,7 @@ The majority of respondents in 2023 were women - accounting for 59.9% of the tot
 
    <figure>
       <object role="img" aria-label="Respondent gender identity" aria-describedby="figure_respondent-gender-identity_desc" type="image/svg+xml" data="/_images/2023-respondent-gender-identity.svg">
-         <p id="figure_respondent-gender-identity_desc">Donut chart showing gender identity of respodnents.</p>
+         <p id="figure_respondent-gender-identity_desc">Donut chart showing gender identity of respondents.</p>
       </object>
       <figcaption>Figure: Respondent gender identity</figcaption>
    </figure>

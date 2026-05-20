@@ -38,7 +38,7 @@ Great question, here is an overview:
 * After all the projects are announced, you are welcome to check them out!
 
 Stay for as long or short as you want! You can try out as many projects as you feel like. 
-Some folks enjoy sticking at one tablefor the entire event, others like to table hop and 
+Some folks enjoy sticking at one table for the entire event, others like to table hop and 
 get a feel for multiple projects. The choice is yours!
 
 Reminder for our project volunteers, people come and go during Writing Day. You may not accomplish all of your 

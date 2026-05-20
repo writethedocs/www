@@ -71,4 +71,4 @@ Follow the steps below to open the development environment.
 
 1. Open a [supported IDE](https://containers.dev/supporting#editors)
 2. Click the "Open in devcontainer" popup
-3. The development environment starts in an containerized environment
+3. The development environment starts in a containerized environment

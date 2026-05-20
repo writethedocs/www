@@ -16,7 +16,7 @@ Key takeaways
 **How did you end up moving from marketing to software engineering?**
 
     So that kind of came from this community. What actually happened was that I was doing webdev in my spare 
-    time, and a friend of mine that I met on here - Alex Ball - was going for interviews with Gitlab and 
+    time, and a friend of mine that I met on here - Alex Ball - was going for interviews with GitLab and 
     Google, and I said to him kind of jokingly, "Hey, ask the Google guy if he has any junior engineering
     positions open." And he said that they didn't. but his buddy’s company had engineering positions open. 
     So I reached out to them and had a Skype interview. I talked to them about the projects I had built, 
@@ -60,10 +60,10 @@ Key takeaways
     you're not going to believe me. So the portfolio gives you an anchor point for your skills. It gives 
     you a way to say that you did this and here's proof. I think that is a really good starting point. 
     Beyond that, I would say definitely learn a programming language of some kind. Now, that doesn't mean 
-    become a full stack developer. But it does mean know some Javascript, know some Python, know what a 
+    become a full stack developer. But it does mean know some JavaScript, know some Python, know what a 
     REST API might look like. But also be knowledgeable about the programming scene in your area. If you're 
     in Columbus, Ohio and the programming scene is full of Ruby on Rails developers, it doesn't behoove you 
-    to learn Javascript. It behooves you to learn Ruby on Rails, because that's probably what the APIs in 
+    to learn JavaScript. It behooves you to learn Ruby on Rails, because that's probably what the APIs in 
     the area are going to be built in.
 
 **What advice do you have for recent grads looking for opportunities in the job market?**
@@ -71,7 +71,7 @@ Key takeaways
     Focus on the technology, because it's not going to go away. If anything we're going to become more 
     technical as things go on. Having technical sophistication, meaning being able to google your problems 
     and knowing how to solve them, whether that's error messages or setup or installation, is important. I 
-    think this is very much a time now where you can't not be a computer person.
+    think this is very much a time now where you can't *not* be a computer person.
 
 
 Chris goes by ``crispybacon`` on the Write the Docs Slack group. You can find him in the ``#web-development`` and ``#career-advice`` channels.

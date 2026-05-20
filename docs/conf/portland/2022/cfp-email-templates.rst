@@ -122,7 +122,7 @@ Subject:
 
    Hi {name},
 
-   Just wanted to drop you all a quick note covering some logistics. Talks are pre-recorded again this year, we'd love to get those recordings from you before {{cfp.video_by}}. We do have a videographer who can help you record remotely, drop us a line if that is something you're interested in. We're finzalizing details on the live Q&A for each talk.
+   Just wanted to drop you all a quick note covering some logistics. Talks are pre-recorded again this year, we'd love to get those recordings from you before {{cfp.video_by}}. We do have a videographer who can help you record remotely, drop us a line if that is something you're interested in. We're finalizing details on the live Q&A for each talk.
 
    ○  I've added some questions to our [CFP tool (Pretalx)]({{cfp.url}}) about your pronouns, interesting facts, name pronunciation, and Slack username. Please log in at {{cfp.url}} and answer those (although we'll only need them closer to the event).
 
@@ -203,7 +203,7 @@ Subject:
 
    You might find it useful to check out the [Recording guidelines](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/talk-recording-guidelines/) and [speaking tips](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaking-tips/) for virtual conferences.
 
-   And while we're here, 😉 if you don't have a profile picture set in [Pretalx](https://pretalx.com/write-the-docs-portland-2022/login/), now would be a great time to add one, and to fill out the questions on pronouns, name pronuniation and interests for our MC intro.
+   And while we're here, 😉 if you don't have a profile picture set in [Pretalx](https://pretalx.com/write-the-docs-portland-2022/login/), now would be a great time to add one, and to fill out the questions on pronouns, name pronunciation and interests for our MC intro.
 
    As we've done for the past few years we'll be live captioning all talks, and it makes the [captioners](https://www.youtube.com/watch?v=xFnM6vmvWaI) lives *much* easier if you can send in a copy of your slides, or even a word list of unusual words that you might use. Please upload those to the [Talk recording drive]({{cfp_variables['upload']}}) by **{{cfp.slides_by}}**.
 

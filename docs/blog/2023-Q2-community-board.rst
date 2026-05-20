@@ -19,7 +19,7 @@ Between our Q1 meeting and the Q2 meeting, we have spent some time reviewing and
 
 During the meeting we looked at the main areas of the community that had active tasks in the backlog, and agreed to take the information back to our respective teams and consider them for further triage in the upcoming months. 
 
-Another topic of discussion was the the #bipoc Slack channel and BIPOC stories in the newsletter. 
+Another topic of discussion was the #bipoc Slack channel and BIPOC stories in the newsletter. 
 Recently, it has become apparent that the community engagement was lower in those spaces, so in order to prevent burnout of the coordinator the newsletter and Slack team leads suggested to take a breather from actively sourcing content. 
 
 Our community has always voted with its time and energy, and we believe that when the need arises again for content and discussions in those spaces, the community will make sure that we are aware of it and we will be happy to support it. 
