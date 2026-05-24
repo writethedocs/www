@@ -29,9 +29,10 @@ sys.path.append(docs_root)
 ###############################################################################
 # Settings
 
-TITO_EVENT = "write-the-docs-portland-2025"
+TITO_EVENT = "write-the-docs-portland-2026"
 VENUELESS_PUBLIC_URL = "https://writethedocs.venueless.events/"  # include trailing /
-VENUELESS_EVENT_SLUG = "wtd25"
+# Pull this from the websocket path in a browser
+VENUELESS_EVENT_SLUG = "wtd265"
 # If not listed in here, ticket is skipped
 ACTIVITY_NAME_TO_TRAIT = {
     "conference": ["onsite"],
@@ -74,13 +75,16 @@ tickets_response = requests.get(
     headers=headers,
 )
 
-for ticket in tickets_response.json()["tickets"]:
+tito_tickets = tickets_response.json()["tickets"]
+print(f"Found {len(tito_tickets)} tickets.")
+
+for ticket in tito_tickets:
     ticket_slug = ticket["slug"]
     ticket_reference = ticket["reference"]
     venueless_meta = ticket.get("metadata").get("venueless") if ticket.get("metadata") else None
 
     # "release" is the API term for what the UI calls "ticket"
-    traits = TICKET_NAME_TO_TRAIT.get(ticket["release"]["title"].lower(), []).copy()
+    traits = TICKET_NAME_TO_TRAIT.get(ticket["release_title"].lower(), []).copy()
     traits += DEFAULT_TRAITS
     traits.append(ticket_reference)
 
@@ -88,9 +92,9 @@ for ticket in tickets_response.json()["tickets"]:
         activity_name = ticket["activities"][0]["name"].lower()
         traits += ACTIVITY_NAME_TO_TRAIT[activity_name]
     except (IndexError, KeyError):
-        continue
+        pass
 
-    is_staff = ticket["release"]["title"] == "Staff Ticket"
+    is_staff = ticket["release_title"] == "Staff Ticket"
     print(f'Found ticket {ticket["name"]}: {ticket_reference=} {traits=} {venueless_meta=} {is_staff=}')
     if not venueless_meta and is_staff:
         pending_tickets.append((ticket_slug, traits))
