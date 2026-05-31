@@ -1,0 +1,200 @@
+name: Australia
+shortcode: australia
+year: 2026
+city: Melbourne
+local_area: Australia
+area: Australia
+area_adj: Australian
+tz: AEDT
+email: australia@writethedocs.org
+color: gold
+rgb: 253,185,19
+rgb_contrast: 126,77,0 # if the main color has sufficient contrast against white text, set this to the same value as rgb
+hex: fdb913
+hex_contrast: 7e4d00 # if the main color has sufficient contrast against white text, set this to the same value as hex
+time_format: 24h
+
+photos:
+  default:
+    - _static/conf/images/headers/2025/aus/au24-attendees.jpg
+    - _static/conf/images/headers/2025/aus/au24-crowd.jpg
+    - _static/conf/images/headers/2025/aus/au24-team.jpg
+    - _static/conf/images/headers/2025/aus/au24-speakers.jpg
+  index:
+    - _static/conf/images/pics/writing-day.jpg
+    - _static/conf/images/pics/au24-reg.jpg
+
+buttons:
+  top:
+#    - text: Conference announcement
+#      link: /news/welcome
+    # - text: Sponsor us
+      # link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp
+    # - text: See the Schedule
+    #   link: /schedule
+    # - text: See the Speakers
+    #   link: /speakers
+    - text: Buy a Ticket
+      link: /tickets
+    # - text: Attendee Guide
+    #   link: /attendee-guide
+    # - text: Watch the Live Stream
+    #   link: /livestream
+  bottom:
+#    - text: Conference announcement
+#      link: /news/welcome
+    # - text: Sponsor us
+      # link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp
+    - text: Buy a Ticket
+      link: /tickets
+    # - text: See the Schedule
+    #   link: /schedule
+    # - text: See the Talks
+    #   link: /speakers
+    # - text: Read the Guide
+    #   link: /attendee-guide
+    # - text: Watch the Live Stream
+    #   link: /livestream
+
+tickets:
+  corporate:
+    price: $350
+  independent:
+    price: $250
+  student:
+    price: $100
+  virtual_corporate:
+    price: $175
+  virtual_independent:
+    price: $125
+  virtual_student:
+    price: $50
+
+sponsorship:
+  first_draft:
+    price: $1,500
+  second_draft:
+    price: $2,500
+  publisher:
+    price: $5,000
+  patron:
+    price: $8,500
+  keystone:
+    price: $13,500
+
+shirts:
+  url: ""
+  ends: "TBD"
+
+date: # how do we handle these? human readable would be nice.
+  main: "**December 3-4, 2026**"
+  short: Dec 3-4, 2026
+  tickets_live: "July 2026"
+  month: December
+
+# Conference is special for the index to show the combined conference days
+  conference:
+    event: Speaker talks
+    date: December 3-4
+    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience.
+    icon: conference
+
+# summary: The main days of the conference. We will be running one main track, and an Unconference.
+  # These are listed in the schedule
+  day_one:
+    event: Conference Day 1
+    date: December 3
+    summary: Day 1 of the event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
+    dotw: Thursday
+    talk_time: 12:30-18:30
+    unconference_time: 14:00-17:00
+    social_time: 18:30-20:00
+    icon: conference
+  day_two:
+    event: Conference Day 2
+    date: December 4
+    summary: And the conference goes on! We are already starting to miss you. ❤️
+    dotw: Friday
+    talk_time: 12:30-18:00
+    unconference_time: 14:00-17:00
+    icon: conversation
+  total_talk_days: 2
+
+about:
+  attendees: 150
+  summary:
+    "The main presentation track takes place during **December 3-4 (Thursday and Friday) from 12:30pm to 18:30pm AEDT**.
+    During the main event we also run an :doc:`/conf/australia/2026/unconference`."
+
+  social_venue: TBC
+  venue: TBC
+  venue_address: TBC
+  photos: TBC
+  mainroom: "Theatre"
+  unconfroom: "Chat area"
+  projector_ratio: "16:9"
+  job_fair_room: "Sponsor area"
+
+cfp:
+  url: "https://pretalx.com/wtd-australia-2026/cfp"  # Open mid March, approx 12 weeks to submit
+  ends: "Sept 04, 2026"                           # (Mon) 2 weeks, to review. It'll take a little longer to announce
+  notification: "Sept 18, 2026"                   # (Mon) 8 weeks to write and prepare
+  speaker_tickets_by: "November 1 2026"           # (Mon) Approx 3 weeks before
+  video_by: "November 16, 2026"                   # Upload date for recorded talks (remote speakers)
+  slides_by: "Novermber 23, 2026"                 # (Mon) 2-3 weeks before
+  preview: "TBD"      
+
+unconf:
+  url: https://bit.ly/wtd-au-2025
+  date: "Thursday and Friday after the morning tea break"
+
+
+grants:
+  url: ""
+  ends: "October 2, 2026"
+  notification: "October 16, 2026"
+
+volunteer:
+  form_url: ""
+  applications_close: "Sept 1"
+  schedule_signup_close: "Sept 18"
+
+sponsors:
+  keystone:
+  patron:
+  publisher:
+  second:
+    - name: readthedocs
+      link: https://about.readthedocs.com/?ref=writethedocs
+      brand: Read the Docs
+  first:
+  in_kind:
+
+# Things that change over time, listed in order of change
+flaglanding: True
+flaghassponsors: False
+flagcfp: False
+flagticketsonsale: False
+flagsoldout: False
+flagspeakersannounced: False
+flagrunofshow: False
+flaghasschedule: False
+flaghasunconf: False
+flaghasshirts: False
+flagvideos: False
+flaglivestreaming: False
+flagpostconf: False
+flagcancelled: False
+
+# Truthy things that don't change
+flaghashike: False
+flaghasboat: False
+flaghaswritingday: False
+flaghassponsorexpo: False
+flaghasbadgeflair: False
+flaghaslightningtalks: True
+flagisvirtual: True
