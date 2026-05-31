@@ -125,19 +125,14 @@ date: # how do we handle these? human readable would be nice.
   total_talk_days: 2
 
 about:
-  attendees: 150
-  summary:
-    "The main presentation track takes place during **December 3-4 (Thursday and Friday) from 12:30pm to 18:30pm AEDT**.
-    During the main event we also run an :doc:`/conf/australia/2026/unconference`."
-
+  attendees: 200
   social_venue: TBC
-  venue: TBC
-  venue_address: TBC
-  photos: TBC
-  mainroom: "Theatre"
-  unconfroom: "Chat area"
+  venue: Treasury Theatre, Melbourne
+  venue_address: Lower Plaza, 1 Macarthur Stream
+  photos: TBD
+  mainroom: Main stage
+  unconfroom: TBC
   projector_ratio: "16:9"
-  job_fair_room: "Sponsor area"
 
 cfp:
   url: "https://pretalx.com/wtd-australia-2026/cfp"  # Open mid March, approx 12 weeks to submit
