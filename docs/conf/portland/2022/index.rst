@@ -1,10 +1,12 @@
 :template: {{year}}/index.html
 :banner: _static/conf/images/headers/{{ shortcode }}-group.png
+:og:description: Write the Docs {{ name }} {{ year }} is a conference for documentarians and everyone who writes the docs. Join us {{ date.short }} in {{ city }}, {{ local_area }}.
 :og:title: Home - Write the Docs {{ name }} {{ year }}
 
-
-
 :orphan:
+
+.. meta::
+   :description: Write the Docs {{ name }} {{ year }} is a conference for documentarians and everyone who writes the docs. Join us {{ date.short }} in {{ city }}, {{ local_area }}.
 
 .. raw:: html
 

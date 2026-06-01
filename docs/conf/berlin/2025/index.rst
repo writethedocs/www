@@ -1,8 +1,12 @@
 :template: {{year}}/index.html
 :banner: _static/conf/images/headers/portland-2025-small-group.jpg
+:og:description: Write the Docs {{ name }} {{ year }} is a conference for documentarians and everyone who writes the docs. Join us {{ date.short }} in {{ city }}, {{ local_area }}.
 :og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 :orphan:
+
+.. meta::
+   :description: Write the Docs {{ name }} {{ year }} is a conference for documentarians and everyone who writes the docs. Join us {{ date.short }} in {{ city }}, {{ local_area }}.
 
 .. title:: Home | Write the docs {{ name }} {{ year }}
 
