@@ -140,8 +140,8 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
         yaml_file = '_data/' + shortcode + '-' + year_str + '-config.yaml'
     data.update(load_yaml_log_error(page, yaml_file))
 
-    # schema.org/Event structured data for the 2026 conference landing pages.
-    if year == 2026:
+    # schema.org/Event structured data for the conference landing pages (2026 onwards).
+    if year >= 2026:
         data['event_jsonld'] = conference_event_jsonld(data, shortcode, year_str)
 
     if year < 2020 or not data['flagspeakersannounced']:
