@@ -1,12 +1,8 @@
 :template: {{year}}/index.html
 :banner: _static/conf/images/headers/kenya-2025-group.jpg
-:og:description: {{ social_description }}
 :og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 :orphan:
-
-.. meta::
-   :description: {{ social_description }}
 
 .. title:: Home | Write the docs {{ name }} {{ year }}
 

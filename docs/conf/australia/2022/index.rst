@@ -1,11 +1,7 @@
 :template: {{year}}/index.html
 :banner: _static/conf/images/headers/{{ shortcode }}-group.png
-:og:description: {{ social_description }}
 
 :orphan:
-
-.. meta::
-   :description: {{ social_description }}
 
 .. raw:: html
 

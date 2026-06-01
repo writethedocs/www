@@ -1,12 +1,10 @@
 :template: {{year}}/index.html
 :banner: _static/conf/images/headers/{{ shortcode }}-group.png
-:og:description: {{ social_description }}
 :og:title: Home - Write the Docs {{ name }} {{ year }}
 
-:orphan:
 
-.. meta::
-   :description: {{ social_description }}
+
+:orphan:
 
 .. raw:: html
 

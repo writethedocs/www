@@ -1,12 +1,8 @@
 :template: {{year}}/index.html
 :banner: _static/conf/images/headers/{{shortcode}}-{{year}}-group.jpg
-:og:description: {{ social_description }}
 :og:image: _static/conf/images/headers/portland-2024-opengraph.jpg
 
 :orphan:
-
-.. meta::
-   :description: {{ social_description }}
 
 .. title:: Home | Write the docs {{ name }} {{ year }}
 
