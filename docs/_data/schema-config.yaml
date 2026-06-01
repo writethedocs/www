@@ -119,6 +119,8 @@ date-details:
   short: str()
   tickets_live: str()
   month: str()
+  start: str(required=False)  # ISO 8601 start date, e.g. 2026-09-06
+  end: str(required=False)    # ISO 8601 end date, e.g. 2026-09-08
   conference: include('day-details', required=False)
   day_one: include('day-details', required=False)
   day_two: include('day-details', required=False)

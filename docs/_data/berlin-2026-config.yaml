@@ -110,6 +110,8 @@ shirts:
 date: # how do we handle these? human readable would be nice.
   main: "**September 6-8, 2026**"
   short: Sep 6-8, 2026
+  start: "2026-09-06"
+  end: "2026-09-08"
   tickets_live: "April 2026"
   month: September
 
