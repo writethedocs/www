@@ -2,6 +2,10 @@
 template: 2026/index.html
 banner: _static/conf/images/headers/berlin-2026-small-group.jpg
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
+og:description: "Write the Docs {{ name }} {{ year }} is a conference for documentarians and everyone who writes the docs. Join us {{ date.short }} in {{ city }}, {{ local_area }}."
+myst:
+  html_meta:
+    "description": "Write the Docs {{ name }} {{ year }} is a conference for documentarians and everyone who writes the docs. Join us {{ date.short }} in {{ city }}, {{ local_area }}."
 ---
 
 # Home | Write the Docs {{ name }} {{ year }}
