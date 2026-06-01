@@ -96,10 +96,6 @@ def conference_event_jsonld(data, shortcode, year_str):
         '@context': 'https://schema.org',
         '@type': 'Event',
         'name': f"Write the Docs {data['name']} {year_str}",
-        'description': (
-            f"Write the Docs {data['name']} {year_str} is a conference for "
-            "documentarians and everyone who writes the docs."
-        ),
         'startDate': start.isoformat(),
         'endDate': end.isoformat(),
         'eventAttendanceMode': 'https://schema.org/OfflineEventAttendanceMode',
@@ -176,9 +172,9 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
         yaml_file = '_data/' + shortcode + '-' + year_str + '-config.yaml'
     data.update(load_yaml_log_error(page, yaml_file))
 
-    # schema.org/Event structured data for the conference landing page
-    # (only populated for upcoming conferences; see conference_event_jsonld).
-    data['event_jsonld'] = conference_event_jsonld(data, shortcode, year_str)
+    # schema.org/Event structured data for the 2026 conference landing pages.
+    if year == 2026:
+        data['event_jsonld'] = conference_event_jsonld(data, shortcode, year_str)
 
     if year < 2020 or not data['flagspeakersannounced']:
         return data
