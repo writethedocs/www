@@ -1,3 +1,6 @@
+import calendar
+import json
+import os
 import re
 
 import pytz
@@ -7,7 +10,8 @@ from .utils import load_yaml
 
 import logging
 import sys
-from datetime import datetime, time, timedelta
+from datetime import date, datetime, time, timedelta
+from urllib.parse import urlsplit
 
 try:
     from pathlib import PurePath
@@ -38,6 +42,95 @@ TIMEZONE_TRANSLATION_PYTZ = {
     'CEST': 'CET',
     'EDT': 'US/Eastern',
 }
+
+_MONTHS = {}
+for _i in range(1, 13):
+    _MONTHS[calendar.month_name[_i].lower()] = _i
+    _MONTHS[calendar.month_abbr[_i].lower()] = _i
+
+
+def parse_conference_dates(date_short):
+    """
+    Parse a human-readable conference date into (start, end) ``date`` objects.
+
+    Handles the formats used in the config ``date.short`` field, e.g.
+    ``"Sep 6-8, 2026"``, ``"June 7, 2025"`` and ``"Nov 20-21, 2025"``.
+    Assumes a single-month range (true for every current conference).
+    Returns ``(None, None)`` if the value can't be parsed.
+    """
+    if not date_short:
+        return None, None
+    match = re.match(
+        r'\s*([A-Za-z]+)\s+(\d{1,2})(?:\s*-\s*(\d{1,2}))?,\s*(\d{4})\s*$', date_short)
+    if not match:
+        return None, None
+    month = _MONTHS.get(match.group(1).lower())
+    if not month:
+        return None, None
+    year = int(match.group(4))
+    start_day = int(match.group(2))
+    end_day = int(match.group(3)) if match.group(3) else start_day
+    try:
+        return date(year, month, start_day), date(year, month, end_day)
+    except ValueError:
+        return None, None
+
+
+def conference_event_jsonld(data, shortcode, year_str):
+    """
+    Build schema.org/Event JSON-LD for a conference's landing page.
+
+    Only emitted for conferences that haven't finished yet, since search
+    engines only surface event rich results for upcoming events. Returns
+    ``None`` when the dates can't be parsed or the event is already over.
+    """
+    start, end = parse_conference_dates(data.get('date', {}).get('short', ''))
+    if not start or end < date.today():
+        return None
+
+    parts = urlsplit(os.environ.get('READTHEDOCS_CANONICAL_URL', ''))
+    base = f'{parts.scheme}://{parts.netloc}' if parts.netloc else 'https://www.writethedocs.org'
+    conf_url = f'{base}/conf/{shortcode}/{year_str}/'
+
+    event = {
+        '@context': 'https://schema.org',
+        '@type': 'Event',
+        'name': f"Write the Docs {data['name']} {year_str}",
+        'description': (
+            f"Write the Docs {data['name']} {year_str} is a conference for "
+            "documentarians and everyone who writes the docs."
+        ),
+        'startDate': start.isoformat(),
+        'endDate': end.isoformat(),
+        'eventAttendanceMode': 'https://schema.org/OfflineEventAttendanceMode',
+        'eventStatus': 'https://schema.org/EventScheduled',
+        'url': conf_url,
+        'image': f'{base}/_static/conf/images/headers/{shortcode}-{year_str}-opengraph.jpg',
+        'organizer': {
+            '@type': 'Organization',
+            'name': 'Write the Docs',
+            'url': f'{base}/',
+        },
+    }
+
+    about = data.get('about') or {}
+    venue = about.get('venue')
+    if venue and venue.upper() != 'TBC':
+        address = {
+            '@type': 'PostalAddress',
+            'streetAddress': about.get('venue_address'),
+            'addressLocality': data.get('city'),
+            'addressCountry': data.get('local_area'),
+        }
+        event['location'] = {
+            '@type': 'Place',
+            'name': venue,
+            'address': {k: v for k, v in address.items() if v},
+        }
+
+    # Escape "<" so the payload is always safe inside a <script> element.
+    return json.dumps(event).replace('<', '\\u003c')
+
 
 def load_conference_page_context(app, page):
     """
@@ -82,6 +175,10 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
     else:
         yaml_file = '_data/' + shortcode + '-' + year_str + '-config.yaml'
     data.update(load_yaml_log_error(page, yaml_file))
+
+    # schema.org/Event structured data for the conference landing page
+    # (only populated for upcoming conferences; see conference_event_jsonld).
+    data['event_jsonld'] = conference_event_jsonld(data, shortcode, year_str)
 
     if year < 2020 or not data['flagspeakersannounced']:
         return data
