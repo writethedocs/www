@@ -1,12 +1,12 @@
 :template: {{year}}/index.html
 :banner: _static/conf/images/headers/kenya-2025-group.jpg
-:og:description: Write the Docs {{ name }} {{ year }} is a conference for documentarians and everyone who writes the docs. Join us {{ date.short }} in {{ city }}, {{ local_area }}.
+:og:description: {{ social_description }}
 :og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 :orphan:
 
 .. meta::
-   :description: Write the Docs {{ name }} {{ year }} is a conference for documentarians and everyone who writes the docs. Join us {{ date.short }} in {{ city }}, {{ local_area }}.
+   :description: {{ social_description }}
 
 .. title:: Home | Write the docs {{ name }} {{ year }}
 

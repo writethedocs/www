@@ -83,6 +83,15 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
         yaml_file = '_data/' + shortcode + '-' + year_str + '-config.yaml'
     data.update(load_yaml_log_error(page, yaml_file))
 
+    # Single source for the conference home-page social/meta description, so the
+    # same sentence doesn't have to be copy-pasted into each index page's
+    # og:description and meta description. Referenced as {{ social_description }}.
+    data['social_description'] = (
+        f"Write the Docs {data['name']} {year} is a conference for "
+        "documentarians and everyone who writes the docs. "
+        f"Join us {data['date']['short']} in {data['city']}, {data['local_area']}."
+    )
+
     if year < 2020 or not data['flagspeakersannounced']:
         return data
 
