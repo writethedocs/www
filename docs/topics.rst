@@ -240,6 +240,7 @@ Storytelling
 Writing doc sets
 ----------------
 
+- |:newspaper:| `Can docs be too comprehensive? </blog/newsletter-june-2026/#can-docs-be-too-comprehensive>`__
 - |:newspaper:| `Some kind of beautiful </blog/newsletter-may-2026/#some-kind-of-beautiful>`__
 - |:newspaper:| `Locked out: The effect on users from gated product docs </blog/newsletter-may-2025/#locked-out-the-effect-on-users-from-gated-product-docs>`__
 - |:newspaper:| `Public vs. private docs </blog/newsletter-june-2023/#public-vs-private-docs>`__
@@ -580,6 +581,7 @@ DITA
 AI and LLMs
 ~~~~~~~~~~~
 
+- |:newspaper:| `Flagging AI content in documentation </blog/newsletter-june-2026/#flagging-ai-content-in-documentation>`__
 - |:newspaper:| `Docs without dedicated documentarians? </blog/newsletter-april-2026/#docs-without-dedicated-documentarians>`__
 - |:newspaper:| `Should we structure docs for AI agents? </blog/newsletter-march-2026/#should-we-structure-docs-for-ai-agents>`__
 - |:newspaper:| `AI assistants in docs </blog/newsletter-march-2026/#ai-assistants-in-docs>`__
@@ -761,6 +763,7 @@ Style guides
 Working across roles
 --------------------
 
+- |:newspaper:| `Dealing with shadow docs </blog/newsletter-june-2026/#dealing-with-shadow-docs>`__
 - |:newspaper:| `Keeping cool when challenged </blog/newsletter-september-2025/#keeping-cool-when-challenged>`__
 - |:newspaper:| `Behavior in text vs in person in the workplace </blog/newsletter-march-2025/#behavior-in-text-vs-in-person-in-the-workplace>`__
 - |:movie_camera:| `Cultivating a Stakeholder Network for Our Docs: How Building Relationships Improves Our Content <https://www.youtube.com/watch?v=3CiPXvawuow>`__
