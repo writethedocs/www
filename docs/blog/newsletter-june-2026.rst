@@ -69,9 +69,9 @@ See more Write the Docs resources about `writing doc sets </topics/#writing-doc-
 From our sponsor
 ----------------
 
-This month’s newsletter is sponsored by `SPONSOR_NAME <SPONSOR_LINK>`_.
+This month’s newsletter is sponsored by `Document360 <https://document360.com/request-demo/?utm_medium=writethedocs&utm_source=nlsponsorship>`__.
 
-.. image:: /_static/img/sponsors/Document360.png
+.. image:: /_static/img/sponsors/document360.png
   :align: center
   :width: 50%
   :target: https://document360.com/request-demo/?utm_medium=writethedocs&utm_source=nlsponsorship
