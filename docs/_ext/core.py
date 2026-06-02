@@ -140,8 +140,16 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
         yaml_file = '_data/' + shortcode + '-' + year_str + '-config.yaml'
     data.update(load_yaml_log_error(page, yaml_file))
 
-    # schema.org/Event structured data for the conference landing pages (2026 onwards).
     if year >= 2026:
+        # Single source for the conference home-page social/meta description, so
+        # the same sentence doesn't have to be copy-pasted into the index page's
+        # og:description and meta description. Used as {{ social_description }}.
+        data['social_description'] = (
+            f"Write the Docs {data['name']} {year} is a conference for "
+            "documentarians and everyone who writes the docs. "
+            f"Join us {data['date']['short']} in {data['city']}, {data['local_area']}."
+        )
+        # schema.org/Event structured data for the conference landing pages.
         data['event_jsonld'] = conference_event_jsonld(data, shortcode, year_str)
 
     if year < 2020 or not data['flagspeakersannounced']:
