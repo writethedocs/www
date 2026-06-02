@@ -12,6 +12,11 @@ email: str()
 color: str()
 rgb: str()
 rgb_contrast: str()
+# TODO: hex/hex_contrast are unused in templates, content, includes, and
+# extensions. Remove them once the Australia 2026 config (#2699) drops them,
+# so we don't fail validation on that branch.
+hex: str(required=False)
+hex_contrast: str(required=False)
 time_format: enum('24h', '12h')
 titocode: str(required=False)
 cobrand: include('cobrand-details', required=False)
@@ -40,6 +45,10 @@ qa: include('qa-details', required=False)
 hike: include('hike-details', required=False)
 volunteer: include('volunteer-details')
 
+# TODO: the Australia 2026 config (#2699) doesn't yet set these, so they're
+# optional for now to avoid failing that branch. Once it's filled out, consider
+# making them required again: flagscheduleincomplete, flaghasfood,
+# flaghasvisiting, flaghasattendeeguide, flaghasteam.
 flaghassponsors: bool()
 flagcfp: bool()
 flagticketsonsale: bool()
