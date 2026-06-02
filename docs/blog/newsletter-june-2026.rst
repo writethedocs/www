@@ -7,11 +7,11 @@
 Write the Docs Newsletter – June 2026
 #####################################
 
-Salutations, documentarians. I'm writing to you from a trip up to Estonia, where the days are longer than I've experienced in a while. The way the light stretches on makes it seem possible to accomplish more in a single day. It brings a sense of optimism that maybe we can solve more problems, whether it is big, global ones or just finally fixing those outdated articles I've been meaning to get to. I hope you can manage to find time to fix the some problems too.
+Salutations, documentarians. I'm writing to you from a trip up to Estonia, where the days are longer than I've experienced in a while. The way the light stretches on makes it seem possible to accomplish more in a single day. It brings a sense of optimism that maybe we can solve more problems, whether they are big, global ones or just finally fixing those outdated articles I've been meaning to get to. I hope you can manage to find time to fix some problems too.
 
-The year is still long, as well, so we have three larger events coming up. First is `Write the Docs Kenya <https://www.meetup.com/wtd-kenya/events/314376384/>`__ on 8 August, then `Write the Docs Berlin </conf/berlin/2026/>`__ on 6--8 September, and Write the Docs Melbourne on 3--4 December. I hope you can make it to at least one.
+The year will also stretch on for a while more, so we have three larger events coming up. First is `Write the Docs Kenya <https://www.meetup.com/wtd-kenya/events/314376384/>`__ on 8 August, then `Write the Docs Berlin </conf/berlin/2026/>`__ on 6--8 September, and then Write the Docs Melbourne on 3--4 December. I hope you can make it to at least one.
 
-This month we have articles on dealing with people sharing unofficial docs, whether to flag content that had an assist from an LLM, some thoughts about whether docs can ever been too comprehensive, and some ideas on how AI search can be done well. Enjoy!
+This month we have articles on dealing with people sharing unofficial docs, whether to flag content that had an assist from an LLM, some thoughts about whether docs can ever be too comprehensive, and some ideas on how AI search can be done well. Enjoy!
 
 ------------------------
 Dealing with shadow docs
