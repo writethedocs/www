@@ -1,4 +1,4 @@
-   :og:image: https://www.writethedocs.org/_static/logo-opengraph.png
+:og:image: https://www.writethedocs.org/_static/logo-opengraph.png
 
 .. post:: June 02, 2025
   :tags: newsletter
