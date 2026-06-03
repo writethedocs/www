@@ -65,6 +65,23 @@ The core challenge may be delivering the right content to the right persona at t
 
 See more Write the Docs resources about `writing doc sets </topics/#writing-doc-sets>`__.
 
+
+--------------------
+Doing AI search well
+--------------------
+
+Many documentarians are in search of a proficient AI search function. Some have been tasked with incorporating this feature within product help menus or in lieu of a standard search option.
+
+A recent Slack discussion sought out illustrations of how a chatbot-like search could enhance the user experience. When it cites page links as references, AI search may empower users to read and verify the information sources themselves. Someone suggested adding a chatbot to the side of a page as an alternative to replacing traditional search features altogether. Several companies are already implementing this side-by-side framework, serving up AI search as a supplemental conversation tool.
+
+There are various patterns in use with search infrastructure. One company features separate lexical and AI searches that don’t communicate with each other, while another employs a window with lexical search results and generated suggested queries that the user clicks on to invoke AI search. Some documentarians were adamant that AI search should supplement, rather than replace, traditional search experiences. As an example combined offering, Cloudinary won the `2025 Dev Portal Award <https://devportalawards.org/nominees/2025/cloudinary-doc-portal>`__ for best AI-powered developer portal.
+
+Ultimately, documentarians might benefit from adding AI search to a doc set because it responds to natural language queries and returns a full response with context. Users can ask simple or complex questions and receive dynamic answers that reach beyond just a single page or section (such as including information from both user guides and an API reference). AI search may even facilitate open-ended questions that don’t relate to the pages at hand by pulling information from a different location. Users don’t have to rely as much on key word precision or technical jargon to achieve their desired results. 
+
+AI search is a potent tool that can at times respond better to user intent (rather than user action), enrich documentation as a knowledge base, and speed up the search process by bridging connections between topics and ideas.
+
+See more Write the Docs resources about `AI and LLMs <https://www.writethedocs.org/topics/#ai-and-llms>`__.
+
 ----------------
 From our sponsor
 ----------------
