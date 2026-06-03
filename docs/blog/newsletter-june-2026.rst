@@ -21,7 +21,7 @@ A recent `#ai channel <https://writethedocs.slack.com/archives/C1NEAD7D4>`__ dis
 
 Documentarians are primarily concerned with the accuracy, version, supportability, and `governance <https://en.wikipedia.org/wiki/Governance>`__ of these docs. AI-generated documents may become outdated quickly because of a lack of oversight and may contain invalid, hallucinated, or unsupported functionality based on the AI prompts used.
 
-Shadow docs (whether AI-generated or not) often circulate without the documentation team’s knowledge. This can be a governance issue. Also, non-docs teams may create unofficial content when official documentation is incomplete, difficult to use, or insufficiently tailored to specific customer workflows. Some non-docs teams create unofficial docs because they face customer pressure and operational realities. But even with robust official documentation, if someone receives shadow docs, they're unknowingly using something that may be out of date instead of accessing the up-to-date official documentation.
+Shadow docs (whether AI-generated or not) often circulate without the documentation team’s knowledge. This can be a governance issue. Also, non-docs teams may create unofficial content when official documentation is incomplete, difficult to use, or insufficiently tailored to specific customer workflows. Some non-docs teams create unofficial docs because they face customer pressure and operational realities. But even with robust official documentation, if people receive shadow docs, they're unknowingly using something that may be out of date instead of accessing the up-to-date official documentation.
 
 The discussion suggested different strategies for handling the problem of shadow docs.
 
@@ -39,11 +39,11 @@ Flagging AI content in documentation
 
 Should you flag AI-generated content in internal or external docs? It’s tempting to reach for a label, but is such a label actually useful? Members of the WTD community discussed the different angles in Slack this month.
 
-AI has given every department the ability to generate 50 pages of content overnight and drop it in the company intranet. Management of internal documentation often lands on the docs team, officially or not. Tools such as Confluence and SharePoint make labeling easy, so it’s tempting to identify AI-generated content to give a heads-up to the reader. The writer’s impulse is understandable: this content hasn’t been reviewed by a human yet, read with caution.
+AI has given every department the ability to generate many pages of content and drop them in the company intranet. Management of internal documentation often lands on the docs team, officially or not. Tools such as Confluence and SharePoint make labeling easy, so it’s tempting to identify AI-generated content to give a heads-up to the reader. The writer’s impulse is understandable: this content hasn’t been reviewed by a human yet, read with caution.
 
 But an "AI-generated" label might not convey the meaning you intend. Technical readers may already expect AI authorship. And if management has encouraged AI use across the organization, they may read the label as a positive marker of adoption. To differentiate human-reviewed content from AI noise, it may be better to add a "needs review" label or, better still, tighten the publishing workflow itself to require sign-off before content goes live.
 
-With user-facing documentation, the impulse to label human-reviewed AI content is about trust. Writers want to be transparent and disclosure feels like the honest thing to do. Here too, the label may not land as intended.
+With user-facing documentation, the impulse to label human-reviewed AI content is about trust. Writers want to be transparent and disclosure feels like the honest thing to do. Here too, the label may be misinterpreted.
 
 Many readers are skeptical of AI, so labelling human-reviewed AI content may undermine confidence rather than build it. For others, that same label might do the reverse -- one contributor speculated that AI-generated code samples might actually inspire more trust than human-written ones. On the legal side, the question of whether we’re obliged to disclose was raised, though the general view was that human-written content can be just as wrong as AI-generated content. Ultimately, people come to your documentation to solve a problem. The main concern for users is not "How was this created?", but "Is it useful?".
 
@@ -55,11 +55,11 @@ See more Write the Docs resources about `AI and LLMs </topics/#ai-and-llms>`__.
 Can docs be too comprehensive?
 ------------------------------
 
-A recent discussion of the question of whether docs can ever be too comprehensive was sparked by feedback to a documentarian that a particular guide was too comprehensive for most users, since the full document was only necessary for a small percentage of use cases. The central question was how to address this -- whether through a separate "light" version of the guide or some other approach.
+A recent discussion about whether docs can ever be too comprehensive was sparked by feedback to a documentarian that a particular guide was too comprehensive for most users, since the full document was only necessary for a small percentage of use cases. The central question was how to address this -- whether through a separate "light" version of the guide or some other approach.
 
 Several structural solutions emerged as the most practical responses. One such solution was breaking content into smaller, meaningful chunks, including separate pages when practical. Others mentioned using progressive disclosure, where readers are shown the content in a simple version and enabled to drill into detail as needed. Separating content by user role or task (or persona) was also suggested, particularly for audiences with distinct needs, such as admins versus end users.
 
-There was a brief debate about whether documentation can ever truly be "too comprehensive". Some held that gaps are always worse than over-documentation and that the real problem lies in how the content is presented rather than how much there is. Others countered that overloading users prevents them from finding a clear path from where they are to where they want to be –- if they see all the content and feel overwhelmed, they may never get the information they were seeking.
+There was a brief debate about whether documentation can ever truly be "too comprehensive". Some held that gaps are always worse than over-documentation and that the real problem lies in how the content is presented rather than how much there is. Others countered that overloading users prevents them from finding a clear path from where they are to where they want to be -- if they see all the content and feel overwhelmed, they may never get the information they were seeking.
 
 The core challenge may be delivering the right content to the right persona at the right time. This may mean creating a quick-start guide for most users while preserving the full details for those who need it. Think carefully about how to structure and filter your content to best match your audience's needs.
 
