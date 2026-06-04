@@ -184,3 +184,82 @@ Observed during review; mostly absorbed into the items above:
 
 Items 2 and 3 are safe to do now. Item 1 and the other strategic bets benefit
 from a quick check-in with the WTD team before investing.
+
+---
+
+## 7. Appendix: open-issue triage
+
+All 43 open issues, mapped to where they land in this report. This is a
+disposition map, not a commitment — it shows how the existing backlog connects
+to the recommendations above.
+
+### Covered by a tactical item (Tier 1–3)
+
+| Issue | Title | Maps to |
+| --- | --- | --- |
+| #1079 | Fix broken links | T1.1 external link checking |
+| #1334 | Fix links to make link-breakage a CI failure | T1.1 external link checking |
+| #2033 | Home button on 404 pages doesn't work | T1.3 404-page fix |
+| #1026 | Add event metadata | T1.4 schema.org Event JSON-LD |
+| #1152 | Create a contributing.md | T1.6 CONTRIBUTING.md |
+| #2053 | Sponsor inclusion conditional on data | T2.7 automate manual flags |
+| #1680 | Conf link on landing page | T2.7 automate manual flags |
+| #1257 | EU↔US time conversion helper | T2.7 (Jinja helper / data-driven) |
+| #1840 | Improve YAML + validation | T2 (validation) / tech debt |
+| #1332 | Add 2020 videos to Topics page | T2.8 video sorting / superseded by S2.1 |
+| #1509 | Convert guide to Markdown (MyST) | T3 RST→MyST conversion |
+| #1308 | Better include structure for conf pages | T3 template/include refactor |
+| #1917 | Rename the 2021 template | T3 template de-duplication |
+| #2026 | Restructure speakers and sessions | T3 (IA/design decision) |
+| #1062 | Revamp speaker info display | T3 / speaker display |
+| #425  | Minor speaker-template improvements (refs #423) | T3 / speaker display |
+| #1148 | Fix ticket page CSS on mobile | Mobile/a11y CSS (T1.2 family) |
+| #1281 | Bullets extend beyond TOC box on mobile | Mobile/a11y CSS (T1.2 family) |
+
+### Covered by a strategic bet
+
+| Issue | Title | Maps to |
+| --- | --- | --- |
+| #2102 | Different theme for survey results | S2.4 interactive survey |
+| #952  | Tags/labels for pages | S2.2 Guide tagging / discoverability |
+| #1298 | Highlight the content index | S2.2 Guide discoverability |
+| #1085 | New structure for the guide | S2.2 Guide learning paths |
+| #527  | Documentation Guide V2 | S2.2 Guide learning paths |
+| #1767 | WTD community blog | S2.3 canonical community content |
+| #1399 | List of git-learning resources | S2.3 canonical answers + content |
+| #414  | UI text / UX-writing resources | S2.2 Guide content enrichment |
+
+### Content/editorial (AI can draft; humans own the words)
+
+| Issue | Title | Note |
+| --- | --- | --- |
+| #419  | Testimonials in "Convince Your Manager" | Needs real testimonials |
+| #631  | Slack etiquette guidelines | Community norms |
+| #752  | WtD vs STC comparison | Positioning copy |
+| #665  | Template meetups page | Boilerplate copy |
+| #1505 | Release-notes list formatting | Tiny content fix |
+| #1078 | Update Prague Press Kit photos | Needs asset selection |
+| #1093 | Video tech suggestions for meetup guide | Content |
+| #912  | Incorporate meetup feedback | Content |
+
+### Not recommended for autonomous AI work (org / ops / strategy)
+
+| Issue | Title | Why |
+| --- | --- | --- |
+| #1155 | Translations | Ongoing human commitment |
+| #1177 | Meetup swag procedure | Org logistics |
+| #1744 | Review meetup status | Org outreach |
+| #426  | Track meetups with remote-speaker support | Needs data-collection decision |
+| #1519 | Process improvements (Pretalx emails, invites) | Org tooling, not the site |
+| #636  | Change sponsor logo IDs (anti-adblock) | Low/debatable value |
+
+### Already addressed / resolved
+
+| Issue | Title | Status |
+| --- | --- | --- |
+| #1871 | Investigate Plausible analytics | Site already uses privacy-first SimpleAnalytics |
+| #1067 | Fix Meetup.com API | Tracked as `_ext/meetup_events.py` FIXME; tied to T2 tech debt |
+
+**Totals:** 18 covered by tactical items, 8 by strategic bets, 8 content/editorial,
+6 not recommended, 2 resolved/tracked = 42 dispositioned (issue #423 referenced
+by #425 is already closed).
