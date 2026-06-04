@@ -17,6 +17,18 @@ believe they still need writers. Our own community feels it: recent newsletters
 are dominated by questions like *"Does AI mean people don't need the product?"*,
 *"Is my role safe?"*, and *"How do I prove documentation's value?"*
 
+The external evidence (see `EXTERNAL-CONTEXT.md`) says the moment is real but the
+story is opportunity, not decline:
+
+- US tech-writing employment growth has been **revised down to ~1% for 2024–2034
+  (from 7%)**, with BLS attributing the slowdown to AI productivity — **not** job
+  elimination. The role is shifting toward curation, architecture, and quality.
+- AI is now a **primary consumer of documentation**: Gartner projects ~70% of
+  companies running retrieval-augmented bots by 2026. Good docs are the
+  foundation those systems depend on — quality matters *more*, not less.
+- The EU AI Act's **AI-literacy obligation has been law since February 2025**,
+  creating real demand for credible, vendor-neutral AI-and-docs education.
+
 This is both a threat and the clearest opportunity Write the Docs has had in
 years. A global, vendor-neutral community of documentarians is exactly who the
 profession needs right now — and our content is, quite literally, part of what
@@ -78,9 +90,12 @@ and a clear WTD point of view.
 ### Pillar B — Turn our content into lasting infrastructure
 Make the Guide + newsletter + talks a durable, discoverable, **citable** canon —
 including being the source AI systems quote on documentation. This compounds
-brand, mission, and sustainability at once.
+brand, mission, and sustainability at once. (Note: "generative engine
+optimization" rewards exactly the structured, self-contained, fact-dense content
+WTD already produces; the unproven `llms.txt` is *not* the play — clean,
+schema-marked, citable content is. See `EXTERNAL-CONTEXT.md` §3.)
 *Looks like:* a searchable/transcribed talk archive, an automatically maintained
-Topics graph, structured content, and an `llms.txt`-style authority play.
+Topics graph, and structured, citable content.
 
 ### Pillar C — Make the community sustainable
 Reduce volunteer burden through automation, strengthen the funding model, and
@@ -110,7 +125,9 @@ The offsite's real output. Each is a genuine fork, not a foregone conclusion.
    multi-year open question.)
 4. **Funding.** Is sponsorship-plus-tickets sufficient for the ambition we choose,
    or do we diversify (membership, grants, partnerships)? What would it take to
-   fund one part-time coordinator role?
+   fund one part-time coordinator role? *(Evidence: diversified portfolios and
+   tiered membership materially improve community sustainability, and engaged
+   communities raise ~60% more — `EXTERNAL-CONTEXT.md` §5.)*
 5. **Internationalization.** What is our real stance on translation and
    non-English community — invest, enable volunteers, or decline clearly? (Our most
    persistently requested, repeatedly deferred item.)
@@ -167,6 +184,9 @@ The offsite's real output. Each is a genuine fork, not a foregone conclusion.
   backlog, and a triage of all 43 open GitHub issues.
 - `MARKETING-REPORT.md` — conference/community growth, the funnel, the existing
   content engine, and a prioritized marketing backlog.
+- `EXTERNAL-CONTEXT.md` — sourced external evidence (AI & the profession, how docs
+  are consumed, GEO/content authority, event trends, funding models) backing the
+  framing and decisions above.
 
 These map the pillars above to concrete, mostly AI-implementable work, so a
 direction chosen here can move quickly without further scoping.

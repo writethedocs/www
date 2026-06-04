@@ -88,11 +88,15 @@ presentation. It is a reason people visit the site.
 choices benefit from a human.
 
 ### 2.5 Position WTD as the authoritative source for the AI era
-**Why:** WTD's content is exactly what is being ingested into LLMs now. WTD
-could deliberately become the trusted, citable source on documentation
-practices.
-**What:** Clean structured content, an `llms.txt`, schema.org markup, stable
-canonical URLs — so AI answers about documentation trace back to WTD.
+**Why:** WTD's content is exactly what is being ingested into LLMs now, and
+"generative engine optimization" (GEO) — being cited in AI answers — rewards the
+structured, self-contained, fact-dense writing WTD already produces. AI-referred
+traffic reportedly grew ~527% YoY in early 2025 (see `EXTERNAL-CONTEXT.md` §3).
+**What:** Clean structured content, schema.org markup, answer-first
+self-contained passages, and stable canonical URLs — so AI answers about
+documentation trace back to WTD. **Caveat:** do *not* bet on `llms.txt` — no
+major AI crawler uses it as of late 2025 and Google rejected it; treat it as
+optional and watch for a real "AI crawling protocol" to emerge.
 **AI split:** Low-effort, high-strategic-payoff; AI can largely own it.
 
 > Honest caveat: WTD runs on volunteer time. The best bets are ones where AI
