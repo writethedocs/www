@@ -30,6 +30,10 @@ Prepared: 2026-06-04. These are discussion inputs, not approved plans.
 The reports and roadmap map the board's strategic choices to concrete, mostly
 AI-implementable work — so whatever direction is chosen can move quickly.
 
+**Plus, as a worked example:** `DRAFT-ai-and-docs-pov.md` — a strawman position
+statement on AI & documentation that makes Pillar A tangible (clearly marked for
+the community to own, rewrite, or discard).
+
 ---
 
 ## Strategy on a page
