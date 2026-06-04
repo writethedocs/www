@@ -174,3 +174,9 @@ Funding & sustainability:
 Regulation:
 - [EU AI Act Article 4: AI literacy](https://artificialintelligenceact.eu/article/4/)
 - [AI literacy Q&A (European Commission)](https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers)
+
+AI-content policy & editorial models (for the decision memos):
+- [Developing an AI usage policy in your news organization (American Journalism Project)](https://www.theajp.org/news-insights/insights/developing-an-ai-usage-policy-in-your-news-organization/)
+- [Generative AI policies for journals (Elsevier)](https://www.elsevier.com/about/policies-and-standards/generative-ai-policies-for-journals)
+- [freeCodeCamp editorial / "curate a canon" model](https://www.freecodecamp.org/news/how-to-write-for-freecodecamp/)
+- [MDN Web Docs: editorial strategy & community participation (Mozilla)](https://hacks.mozilla.org/2020/10/mdn-web-docs-editorial-strategy-and-community-participation/)

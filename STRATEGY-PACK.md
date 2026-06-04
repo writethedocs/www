@@ -18,10 +18,16 @@ Prepared: 2026-06-04. These are discussion inputs, not approved plans.
 3. **`MARKETING-REPORT.md`** — conference & community growth: the WTD funnel, the
    existing Slack→Newsletter→Topics content engine, and a prioritized marketing
    backlog.
-4. **`IMPROVEMENTS-REPORT.md`** — website/product opportunities, a prioritized
+4. **`DECISIONS-AND-ROADMAP.md`** — a memo for each of the six board decisions
+   (options, trade-offs, a proposed default) plus a phased Now/Next/Later roadmap.
+   Read after the brief if you want to move from discussion toward action.
+5. **`MARKETING-REPORT.md`** — conference & community growth: the WTD funnel, the
+   existing Slack→Newsletter→Topics content engine, and a prioritized marketing
+   backlog.
+6. **`IMPROVEMENTS-REPORT.md`** — website/product opportunities, a prioritized
    tactical backlog, and a triage of all 43 open GitHub issues.
 
-The two reports map the board's strategic choices to concrete, mostly
+The reports and roadmap map the board's strategic choices to concrete, mostly
 AI-implementable work — so whatever direction is chosen can move quickly.
 
 ---
