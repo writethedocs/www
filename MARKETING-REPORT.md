@@ -136,8 +136,9 @@ burden:**
   talks are SEO gold and feed the same repurposing pipeline as the newsletter —
   and auto-tagging finally keeps the Topics graph complete.
 - **Guide as authority/inbound (S2.2, S2.5).** The Guide already ranks; role-based
-  paths plus clean structured content and `llms.txt` make WTD the cited source on
-  documentation — the best long-term brand marketing there is.
+  paths plus clean, structured, citable content (GEO best-practice — not the
+  unproven `llms.txt`) make WTD the source AI answers cite on documentation — the
+  best long-term brand marketing there is.
 - **Unified repurposing pipeline**: one source (talk *or* newsletter article) →
   Topics entry + quote cards + social thread + podcast cross-promo. AI can draft
   the whole chain; editors approve.
