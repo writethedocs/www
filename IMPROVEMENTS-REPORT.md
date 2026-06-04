@@ -7,6 +7,10 @@ feasibly implement.
 Prepared: 2026-06-04. Scope: the `writethedocs/www` repository, its build and
 CI tooling, content structure, and ~230 open/closed GitHub issues.
 
+> Companion document: `MARKETING-REPORT.md` covers conference and community
+> growth (attendance, speaker/sponsor pipelines, content distribution) and
+> cross-references the bets and tiers below.
+
 ---
 
 ## 1. Executive summary
@@ -58,13 +62,23 @@ stale/missing content.
 **AI split:** AI does tagging, cross-linking, gap analysis, and first-draft
 restructuring; a human editor owns the information architecture.
 
-### 2.3 Capture recurring Slack wisdom as canonical answers
-**Why:** The same questions recur forever in an ephemeral medium ("what tool?",
-"how do I learn git?", "convince my manager"). A curated, living FAQ turns that
-into permanent web content — a more tractable version of the long-requested
-community blog (#1767).
-**AI split:** AI clusters recurring questions and drafts answers from existing
-Guide content; humans curate. Needs community buy-in for ongoing curation.
+### 2.3 Amplify the existing Slack → Newsletter → Topics engine
+**Important context:** WTD already does this, manually and well. The **monthly
+newsletter** (94 issues since 2017) distills the best Slack discussions into
+standalone, evergreen articles; each article links into the **Topics page**
+(`topics.rst`, ~930 lines), a hand-curated content graph cross-referencing
+newsletter articles and conference talks by theme. This is a crown-jewel process,
+not a gap.
+**Why act:** The engine runs entirely on manual editorial effort, the Topics
+graph lags (talks aren't all indexed — #1332) and is hard to discover (#1298,
+#952), and 94 issues of evergreen advice are buried in the blog archive.
+**What:** Reduce the manual burden and surface the output — AI-assisted Topics
+tagging/upkeep, on-site "related content," promotion of archive material, and
+repurposing each article into social/newsletter assets (see the marketing
+report). A curated FAQ of recurring questions is a natural by-product and a more
+tractable cut at the community-blog idea (#1767).
+**AI split:** AI does tagging, repurposing, and drafting; editors keep ownership
+of voice and curation.
 
 ### 2.4 Make the salary survey interactive and comparable
 **Why:** Unique data presented as static prose; #2102 already asked for better
