@@ -4,17 +4,18 @@ AI and LLMs in Documentation
 .. meta::
    :description: How documentarians use AI and large language models to draft, maintain, and structure docs — and how to write for readers who now arrive through AI assistants.
 
-AI and large language models (LLMs) are reshaping how documentation is written, maintained, and read.
-Documentarians use these tools to draft and edit content, while readers increasingly reach documentation through AI assistants and chat-based search rather than traditional navigation.
-This raises practical questions about accuracy, review workflows, disclosure, and how to structure content so that both people and machines can use it.
-The resources below collect Write the Docs community discussions on using AI well, keeping a human in the loop, and writing for an audience that now includes LLMs.
+AI and large language models (LLMs) are now part of how documentation gets written and read.
+The recurring view across Write the Docs discussions is that AI is a tool, not a replacement.
+Documentarians use it when it adds value, and keep a human in the loop to review the results.
+Documentation has also become a new audience, because LLMs depend on good, up-to-date docs for accurate answers.
+And much of what makes writing good for humans turns out to be good for LLMs too.
 
 These resources come from our monthly `newsletter </newsletter/>`__ (|:newspaper:|), which summarises discussions in the Write the Docs `Slack </slack/>`__ community, and from `conference </conf/>`__ talks (|:movie_camera:|).
 
 Using AI in your workflow
 -------------------------
 
-How documentarians actually fold AI into drafting, editing, and day-to-day work.
+Where AI adds value in drafting and editing — and why you still need to review and evaluate every response.
 
 - |:newspaper:| `How documentarians use AI (or LLMs) </blog/newsletter-july-2025/#how-documentarians-use-ai-or-llms>`__
 - |:newspaper:| `Accelerating documentation creation with AI </blog/newsletter-april-2024/#accelerating-documentation-creation-with-ai>`__
@@ -24,7 +25,7 @@ How documentarians actually fold AI into drafting, editing, and day-to-day work.
 Writing and structuring docs for AI
 -----------------------------------
 
-Making content that LLMs and AI agents can read, retrieve, and reuse without sacrificing human readability.
+Clarity, structure, and good semantics benefit human and agent readers alike — writing well for humans is the most effective way to make docs usable for everything.
 
 - |:newspaper:| `Optimizing docs for LLMs </blog/newsletter-november-2025/#optimizing-docs-for-llms>`__
 - |:newspaper:| `Should we structure docs for AI agents? </blog/newsletter-march-2026/#should-we-structure-docs-for-ai-agents>`__
@@ -35,7 +36,7 @@ Making content that LLMs and AI agents can read, retrieve, and reuse without sac
 AI search and the reader experience
 ------------------------------------
 
-What changes when readers ask an assistant instead of browsing your docs.
+When readers ask an assistant instead of browsing, docs become a new audience for AI — and remain the source users turn to when AI answers fall short.
 
 - |:newspaper:| `The effect of LLMs on docs use </blog/newsletter-september-2025/#the-effect-of-llms-on-docs-use>`__
 - |:newspaper:| `AI and the need for product knowledge </blog/newsletter-october-2025/#ai-and-the-need-for-product-knowledge>`__
@@ -43,7 +44,7 @@ What changes when readers ask an assistant instead of browsing your docs.
 The role and future of documentation
 -------------------------------------
 
-Bigger-picture debates about disclosure, trust, and what AI means for the craft.
+Bigger-picture debates on disclosure, trust, and value — where the community lands on AI as a useful tool rather than a replacement.
 
 - |:newspaper:| `Flagging AI content in documentation </blog/newsletter-june-2026/#flagging-ai-content-in-documentation>`__
 - |:newspaper:| `Docs without dedicated documentarians? </blog/newsletter-april-2026/#docs-without-dedicated-documentarians>`__
