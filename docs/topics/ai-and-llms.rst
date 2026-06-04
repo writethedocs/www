@@ -1,12 +1,8 @@
-:og:title: AI and LLMs in Documentation
-:og:description: How documentarians use AI and large language models — to draft and maintain docs, and to write for readers who now arrive through AI assistants. Curated Write the Docs community resources.
-
 AI and LLMs in Documentation
 ============================
 
 .. meta::
    :description: How documentarians use AI and large language models to draft, maintain, and structure docs — and how to write for readers who now arrive through AI assistants.
-   :keywords: AI documentation, LLM documentation, AI technical writing, writing for LLMs, AI search, documentation and large language models
 
 AI and large language models (LLMs) are reshaping how documentation is written, maintained, and read.
 Documentarians use these tools to draft and edit content, while readers increasingly reach documentation through AI assistants and chat-based search rather than traditional navigation.
