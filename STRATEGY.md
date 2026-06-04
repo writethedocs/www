@@ -1,6 +1,7 @@
 # Write the Docs — Strategy Brief
 
-Pre-read for the board offsite. A discussion input, not an approved plan.
+Pre-read for the board offsite. A discussion input, not an approved plan. The
+data and prioritized opportunities behind this are in `CONTEXT-AND-OPPORTUNITIES.md`.
 
 ## The situation
 
