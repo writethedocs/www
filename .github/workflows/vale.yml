@@ -37,7 +37,9 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Install docutils for rst2html
-        run: sudo apt-get install -y docutils
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y docutils
 
       - name: ${{ matrix.name }}
         uses: errata-ai/vale-action@reviewdog
