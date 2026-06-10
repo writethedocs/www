@@ -15,7 +15,6 @@ time_format: 24h
 photos:
   default:
     - _static/conf/images/headers/2026/unconference.jpg
-    - _static/conf/images/headers/2026/volunteer.jpg
     - _static/conf/images/headers/2026/writing-day.jpg
     - _static/conf/images/headers/2026/tickets.jpg
   index:
