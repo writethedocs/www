@@ -25,6 +25,10 @@
 
         {{- metatags }}
 
+        {% if event_jsonld and pagename == 'conf/' + shortcode + '/' + year_str + '/index' %}
+        <script type="application/ld+json">{{ event_jsonld | safe }}</script>
+        {% endif %}
+
         <title>
         {% block full_title %}
         {% if title %}{{ title }}{% endif %} - Write the Docs {% if cobrand is defined and cobrand %} + {{ cobrand.brand }} {% endif %}  {{ name }} {{ year }}
