@@ -17,6 +17,12 @@ banner: _static/conf/images/headers/2025/unconference.jpg
 
 # What is an Unconference?
 
+```{raw} html
+{% with in_person=True, virtual=True, note="separate in-person and virtual tracks" %}
+{% include "include/availability-2025.md" %}
+{% endwith %}
+```
+
 The Unconference consists of attendee-driven sessions that provide the opportunity for anyone who is attending the conference to lead, contribute, share ideas, and discuss problems in an organized setting away from the main stage talks. Many attendees consider this one of their favorite aspects of the conference.
 
 **Who can lead an Unconference session?**
