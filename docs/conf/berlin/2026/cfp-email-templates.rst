@@ -36,7 +36,7 @@ Subject:
 
    We think your talk: '{proposal_title}' would be a great fit for the conference. We'd love to have you prepare it for a **30-minute** time slot, with additional questions and answers after that.
 
-   First up, make sure to confirm your speaking slot by doing these **three things** by **Friday 7th February**:
+   First up, make sure to confirm your speaking slot ASAP, by doing these **three things** by **Friday 12th June**:
 
    1. Confirm your **attendance in-person** in {{city}} by clicking the {confirmation_link}
 
