@@ -40,7 +40,7 @@ Find or advertise a job
 Work with other documentarians.
 
 * Read our :doc:`Hiring Guide </hiring-guide/index>` to get started in the industry
-* Read our previous `salary survey </surveys/>`__ information to get a sense of the industry pay
+* Read our latest `salary survey </surveys/>`__ results to get a sense of the industry pay
 
 Learn from our resources
 ------------------------
