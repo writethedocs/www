@@ -13,7 +13,7 @@ The big news today is the speaker lineup! Check out the speakers and their talks
 
 .. raw:: markdown
 
-   ```{button-link} https://ti.to/writethedocs/write-the-docs-portland-2026
+   ```{button-link} https://ti.to/writethedocs/write-the-docs-berlin-2026
    Buy your ticket
    ```
 
