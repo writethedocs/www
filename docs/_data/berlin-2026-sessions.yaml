@@ -1,0 +1,366 @@
+- title: 'Doc Health Metrics: How Two Writers Built a Framework to Prioritize Docs
+    Across Dozens of Products'
+  slug: 
+    doc-health-metrics-how-two-writers-built-a-framework-to-prioritize-docs-across-anastasia-suboch
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2026
+  speakers:
+  - name: Anastasia Suboch
+    slug: anastasia-suboch
+    twitter:
+    website:
+  abstract: "<p>At Booking.com's FinTech division, two technical writers serve dozens
+    of products. We needed a way to identify documentation priorities at scale and
+    communicate the severity of docs issues in terms that product owners would act
+    on. Without data, \"the docs need work\" was always deprioritized.</p>\n<p>So
+    we built a documentation health framework from our experience as technical writers,
+    defining what makes docs healthy, measuring it with AI-powered instrumentation,
+    and presenting findings in ways that actually prompt teams to improve. The framework
+    measures five dimensions (coverage, readability, style compliance, freshness,
+    and discoverability), produces reports with business impact mapping and tailored
+    recommendations, and evolves after each assessment as we learn what works and
+    what doesn't.</p>\n<p>The talk is structured around three pillars, each with practical
+    lessons for anyone trying to make documentation measurable and improvable:</p>\n\
+    <ul>\n<li>Defining metrics and instruments</li>\n<li>Getting input from stakeholders</li>\n\
+    <li>Presenting findings to stakeholders</li>\n</ul>"
+- title: Proving and improving the value of your docs
+  slug: proving-and-improving-the-value-of-your-docs-tal-gluck
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2026
+  speakers:
+  - name: Tal Gluck
+    slug: tal-gluck
+    twitter:
+    website: https://www.stateofdocs.com/
+  abstract: "<p>Most documentation teams believe their work is valuable. Few can prove
+    it - and even fewer are sure they're measuring the right things. During research
+    for the 2025 and 2026 State of Docs reports, this gap between perceived value
+    and demonstrated value was one of the most consistent pain points across teams
+    of every size and maturity level.</p>\n<p>This talk offers some practical ways
+    to start making sense of docs metrics, whether you're tracking nothing yet or
+    you've got data and aren't quite sure what to do with it.</p>\n<p>We'll look at
+    why the metrics that help you make a case to leadership can be different from
+    the metrics that help you improve the actual quality of your docs, and why mixing
+    them up leads to frustration on both fronts. We'll talk about why point-in-time
+    numbers tell you less than you'd hope, and what to look at instead. And we'll
+    look at some newer signals - search queries, AI conversation patterns - that can
+    surface gaps your traffic data will never show you.</p>\n<p>No single system works
+    for everyone, but by the end you'll have a clearer sense of what you can measure
+    based on your actual goals and concrete things you can try.</p>"
+- title: 'Beyond Automation: Human Judgment as the Strategic Core of Business Writing'
+  slug: 
+    beyond-automation-human-judgment-as-the-strategic-core-of-business-writing-kel-raleigh
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2026
+  speakers:
+  - name: Kel Raleigh
+    slug: kel-raleigh
+    twitter:
+    website:
+  abstract: "<p>AI can write. But it can’t decide what matters.</p>\n<p>As AI tools
+    rapidly transform how we produce content, business writing is shifting from a
+    craft of creation to a discipline of judgment. Drafting, summarizing, and even
+    structuring ideas are increasingly automated, but knowing what to say, how to
+    frame it, and why it matters still belongs to humans. This session introduces
+    the Judgment Over Generation Model, a practical way to think about modern writing
+    as a three-layer system: AI-enabled generation, human-AI interpretation, and human-led
+    judgment. While AI accelerates the bottom layers, value and risk live at the top.</p>\n\
+    <p>We’ll explore what “judgment” actually looks like in real-world writing. Drawing
+    on examples from high-stakes environments like proposals and executive communication,
+    this session shows how over-reliance on AI can lead to generic, misaligned, or
+    even misleading content, and how intentional human input turns that same content
+    into something effective.</p>\n<p>Whether you’re a technical writer, content designer,
+    or documentation lead, this session offers a way to rethink your role in an AI-enabled
+    workflow. You’ll leave with a clear framework for where AI helps, where it doesn’t,
+    and how to strengthen the one skill that’s becoming more valuable, not less: judgment.</p>"
+- title: 'Structure after the fact: Bringing content strategy to existing docs for
+    a design system'
+  slug: 
+    structure-after-the-fact-bringing-content-strategy-to-existing-docs-for-a-desig-jen-buley
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2026
+  speakers:
+  - name: Jen Buley
+    slug: jen-buley
+    twitter:
+    website:
+  abstract: "<p>Good information buried in poor structure is still poor documentation.
+    When I joined our design system team as their first and only \"content person,\"\
+    \ the docs were already substantial — hundreds of pages created by knowledgeable,
+    dedicated subject matter experts, but with no one owning the whole. </p>\n<p>The
+    value didn't shine through. Outdated content lurked beside fresh content. Hedging
+    language made best practices sound like mere options. And a jumbled architecture
+    left users wondering where to begin and whether they'd found everything.</p>\n\
+    <p>Everyone had a theory about what to fix first. Engineers wanted me to correct
+    specific pages and fill gaps. Designers wanted outreach and advocacy. Both priorities
+    mattered, but without a sound content strategy and structure, neither would improve
+    the docs experience for our users. And as one content expert to around 60 developers
+    and designers, I knew my efforts had to scale.</p>\n<p>Adding to the challenge,
+    I started without a technical background. But this forced me to see the tangle
+    differently and to ask basic questions about why our docs didn’t work better for
+    users or contributors.</p>\n<p>In this talk, I'll share how to diagnose problems
+    and get buy-in for more strategic efforts, and how to use \"just enough\" content
+    strategy and design (low-effort research, contributor-centric tools, and strategic
+    collaboration) to make content changes with impact. I'll show you how we improved
+    navigation, information value, and how we work, and I'll be honest about what
+    was harder than expected and what I'd do differently.</p>"
+- title: 'Silence Is Not Approval: When Better Docs Create More Feedback'
+  slug: 
+    silence-is-not-approval-when-better-docs-create-more-feedback-uladzislava-lahun
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2026
+  speakers:
+  - name: Uladzislava Lahun
+    slug: uladzislava-lahun
+    twitter:
+    website:
+  abstract: "<p>When our product and user base were smaller, documentation feedback
+    was easy to ignore — or at least easy to handle informally. Developers spoke directly
+    with key users, documentation was often treated as a historical record of features,
+    and the only regular “metric” we had was the last update date.</p>\n<p>Then the
+    product grew. The documentation grew. User expectations grew even faster to soon
+    reach its lowest point. As the documentation coundn’t deliver users stopped taking
+    it seriously (and  stopped giving a sincere feedback)</p>\n<p>As a small documentation
+    team responsible for a large internal knowledge base, we needed more than occasional
+    complaints in Slack, scattered tickets, and second-hand feedback from managers.
+    We needed to understand what users actually needed, prioritize competing requests,
+    and show the impact of documentation work without turning feedback collection
+    into a full-time research project.</p>\n<p>In this talk, I’ll share how we moved
+    from sporadic feedback to a lightweight feedback loop built around annual surveys,
+    shorter tracking surveys, focused interviews, onboarding feedback, and temporary
+    focus groups. I’ll talk about what worked, what did not, and why some of our most
+    useful signals were not higher satisfaction scores, but more specific complaints,
+    higher expectations, and increased user involvement.</p>\n<p>Attendees will leave
+    with a practical model for building a documentation feedback loop in a small team
+    including: </p>\n<ul>\n<li>how to choose between surveys, interviews, focus groups,
+    and support signals; </li>\n<li>how to turn vague complaints into actionable documentation
+    tasks; and </li>\n<li>how to use feedback not only to measure documentation quality,
+    but to build a stronger community around the docs.</li>\n</ul>"
+- title: "Moonshot mindset: A tech writer's guide to thinking big and breaking free
+    from the GDZ"
+  slug: 
+    moonshot-mindset-a-tech-writer-s-guide-to-thinking-big-and-breaking-free-from-t-kate-wilcox
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2026
+  speakers:
+  - name: Kate Wilcox
+    slug: kate-wilcox
+    twitter:
+    website:
+  abstract: "<p>Have you ever felt like you were stuck in a \"good-dog zone” (GDZ)
+    as a tech writer? Stakeholders toss you a content request, and you race to complete
+    it as fast as you can, time after time. It can feel exhilarating, even rewarding.
+    But it can also limit your creativity, stifle career growth, and lead to burnout.</p>\n\
+    <p>One way to break free from the GDZ is to adopt a moonshot mindset. Moonshots
+    are ambitious projects designed to address challenging issues. When you have a
+    moonshot mindset, you’re not satisfied with the status quo and incremental gains.
+    You take a wider, more proactive view, looking for innovative solutions and exponential
+    progress. </p>\n<p>Launching moonshots, however, can be daunting and risky. Success
+    isn’t guaranteed, and you still have to complete those ongoing content requests.
+    Where do you find the time to innovate?</p>\n<p>This talk explains how to develop
+    a moonshot mindset while managing ongoing work and minimizing risk. Using real-world
+    examples, it demonstrates how to pivot from being a reactive service provider
+    to a proactive strategist. And it shows that when tech writers think big, they
+    don’t just document the product, they improve it.</p>"
+- title: 'When words become attacks: prompt injection through a technical writing
+    lens'
+  slug: 
+    when-words-become-attacks-prompt-injection-through-a-technical-writing-lens-oishi-banerjee
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2026
+  speakers:
+  - name: Oishi Banerjee
+    slug: oishi-banerjee
+    twitter:
+    website:
+  abstract: "<p>Every documentation team writes content that flows into AI systems
+    from API examples, error messages, support instructions, and onboarding guides.
+    Most teams optimise for clarity and user understanding. Few consider documentation
+    as a potential attack surface.</p>\n<p>Prompt injection is the practice of embedding
+    instructions in text that cause AI systems to override intended behaviour. Documentation,
+    by nature, is text that AI systems read, process, and act on. What appears harmless
+    to human readers can function as a directive to a model.</p>\n<p>This talk reframes
+    a security concern as a writing craft concern for technical writers. Through three
+    real documentation patterns for instance, an API usage example, an error recovery
+    instruction, and a support script. My intention is to make the audience identify
+    how specific language choices create unintended ambiguity for AI systems. We then
+    apply writing principles, covering instruction separation, context containment,
+    and explicit scope framing to demonstrate how the same content can be rewritten
+    for both human clarity and AI safety.</p>\n<p>The goal is not to transform technical
+    writers into security engineers, but to expand what constitutes as an AI safe
+    documentation. When words are read by machines as much as by humans, my talk proves
+    that writers already possess the skills to contribute to AI safety, governance,
+    and trust.</p>"
+- title: 'Good Enough at Scale: Documentation Infrastructure Under Capacity Constraints'
+  slug: 
+    good-enough-at-scale-documentation-infrastructure-under-capacity-constraints-elena-baskakova
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2026
+  speakers:
+  - name: Elena Baskakova
+    slug: elena-baskakova
+    twitter:
+    website:
+  abstract: "<p>In many companies, product complexity grows faster than documentation
+    capacity. More products, APIs, SDKs, releases, and integrations appear, while
+    dedicated documentation capacity stays flat, grows more slowly, or is reduced.</p>\n\
+    <p>“Perfect documentation everywhere” was never realistic. But when product complexity
+    grows faster than documentation capacity, the trade-offs become sharper: what
+    must be excellent, what can be good enough, and which gaps need to be visible?</p>\n\
+    <p>This talk is about building documentation infrastructure in that situation.
+    I will talk about GitHub workflows, AI-assisted drafting, automated checks, stale-content
+    detection, review gates, migration from fragmented tools, and explicit tracking
+    of documentation coverage gaps.</p>\n<p>The main lesson is that automation does
+    not remove documentation work. It moves part of the work into infrastructure.
+    Every prompt, workflow, check, integration, and AI-assisted process needs ownership
+    and maintenance. If we ignore this, the docs infrastructure becomes another source
+    of debt.</p>\n<p>This is not a talk about replacing technical writers with AI.
+    It is about using AI and automation carefully, while accepting that the realistic
+    goal is often good-enough documentation: critical paths are reliable, gaps are
+    visible, risks are clear, and limited human capacity is used where it matters
+    most.</p>"
+- title: Write inclusive, people-first language about AI
+  slug: write-inclusive-people-first-language-about-ai-alexandra-klepper
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2026
+  speakers:
+  - name: Alexandra Klepper
+    slug: alexandra-klepper
+    twitter:
+    website: alexandrascript.com
+  abstract: "<p>There's a trending inclination towards \"building accessibility for
+    AI,\" promoting accessibility as a need for machines and humans. On its face,
+    it may seem like a win-win: people with disabilities benefit from further investment
+    into building accessible applications. Especially as <a href=\"https://www.mintlify.com/blog/state-of-ai#what-this-means-for-documentation\"\
+    >agents' access to documentation has grown</a> and agents rely on the accessibility
+    tree to understand web pages, it's critical we remember who accessibility is for.</p>\n\
+    <p>As defined by <a href=\"https://www.w3.org/WAI/fundamentals/accessibility-intro/\"\
+    >W3C's Web Accessibility Initiative</a>, <strong>accessibility is a practice for
+    humans</strong>. AI just happens to benefit from this work. At the risk of alienating
+    PMs and engineers who are newly enthusiastic about building accessible software,
+    we must write our content and build our software prioritizing human needs above
+    machine needs. The people <a href=\"https://create.uw.edu/initiatives/ai-and-machine-learning-research/\"\
+    >most likely to be left behind in the shift to AI are people with disabilities</a>.</p>\n\
+    <p>As more companies mandate the usage of AI, both as a feature in their products
+    and a tool employees must use, shifting towards inclusive language can lead to
+    more inclusive work by the individual contributors who are building the final
+    products. Perhaps it also offers an opportunity for a greater narrative shift.</p>\n\
+    <p>In this talk, I share guidelines for writing inclusive content that reflects
+    the purpose of accessibility and the needs of AI.</p>"
+- title: 'Trading in Trust: How Documentation Protects People, Not Just Projects'
+  slug: 
+    trading-in-trust-how-documentation-protects-people-not-just-projects-stephan-rayner
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2026
+  speakers:
+  - name: Stephan Rayner
+    slug: stephan-rayner
+    twitter:
+    website: stephan-rayner.github.io
+  abstract: "<p>Documentation isn't simply a reference artifact, it's trust infrastructure.
+    Its job isn't only to inform, but also to create and preserve the conditions under
+    which people can work together honestly. Without it, power fills the vacuum, and
+    the loudest voice wins.</p>\n<p>This talk tells two stories from opposite ends
+    of the same dynamic: </p>\n<ul>\n<li>As head of data at a toxic and now defunct
+    mobile games company, my junior analysts were regularly pressured into handing
+    over data to stakeholders who then misused it. </li>\n<li>I'm the arrogant Senior
+    Machine Learning Engineer who lost an argument to a well-written expense policy.
+    </li>\n</ul>\n<p>Both stories reveal the same mechanism: good documentation externalizes
+    authority, leveling a playing field decided by power, clout, or seniority, and
+    doing it without so many difficult conversations.</p>\n<p>You'll leave with a
+    practical framework for writing docs that do this work:</p>\n<ul>\n<li>Write for
+    the enforcer, not just the reader: think about who has to hold the line when someone
+    pushes back</li>\n<li>Document the why alongside the what: rules without reasoning
+    invite argument</li>\n<li>Anchor to mission rather than procedure: clear purpose
+    lets people reason from it themselves, rather than needing every edge case spelled
+    out</li>\n<li>Make your limitations visible: a doc that names what it doesn't
+    cover builds more trust than one that oversells</li>\n</ul>"
+- title: 'Writing Less, Owning More: The Shift in Technical Writing'
+  slug: writing-less-owning-more-the-shift-in-technical-writing-whitney-burkes
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2026
+  speakers:
+  - name: Whitney Burkes
+    slug: whitney-burkes
+    twitter:
+    website:
+  abstract: "<p>Documentation teams are increasingly being asked to scale their output
+    using AI tools, but often without established practices to guide them. The use
+    of AI tools looks promising, but often lead to inconsistent documentation, ad-hoc
+    prompt usage, and uneven results across teams.</p>\n<p>This talk shares how our
+    team approached that challenge by focusing on process, not tools. We began treating
+    prompts like a new kind of documentation asset: curated, versioned, and reviewed,
+    much like code. By grounding prompts directly in the codebase and managing them
+    as a shared resource, we created a system capable of generating consistent, usable
+    first drafts at scale and essentially created living documentation.</p>\n<p>Through
+    a practical case study developed at Deutsche Bank, I’ll share how we built a scalable
+    prompt repository, introduced a review workflow, and turned individual experimentation
+    into a repeatable team practice. </p>\n<p>From this talk, you will learn:</p>\n\
+    <ul>\n<li>How to structure and manage a shared prompt repository</li>\n<li>How
+    to introduce lightweight review workflows for generated content</li>\n<li>How
+    to scale documentation practices across teams</li>\n<li>How to maintain quality
+    when documentation is generated at scale</li>\n<li>How the role of technical writers
+    is shifting from writing to shaping and guiding content</li>\n</ul>"
+- title: 'Documenting APIs: new era, same craft'
+  slug: documenting-apis-new-era-same-craft-javier-rubio
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2026
+  speakers:
+  - name: Javier Rubio
+    slug: javier-rubio
+    twitter:
+    website: https://javirubio.net
+  abstract: "<p>With an API, no marketing claim holds up: its quality is measured
+    by the quality of its documentation.</p>\n<p>Documentation is not an afterthought;
+    it's the API's interface to the world. In this talk, we'll look at what makes
+    API documentation actually useful, starting with the essentials:</p>\n<ul>\n<li>The
+    main technical standards and why they matter: OpenAPI, its extensions, and the
+    Arazzo workflow spec.</li>\n<li>How to explain the key conventions that the standards
+    don't cover: authentication, errors, pagination, rate limiting, versioning.</li>\n\
+    <li>Writing guides and tutorials with a product lens, for different user profiles:
+    from someone who just needs a working example to someone who wants to understand
+    the full design.</li>\n<li>The state of the ecosystem for documenting your API
+    and building your developer portal.</li>\n<li>How to build shared ownership in
+    your team and push a culture of treating docs as a living product</li>\n</ul>\n\
+    <p>Finally, we'll take a look at what has changed for API documentarians in the
+    AI age, and what hasn't.</p>\n<p>Useful both for people starting out with API
+    docs and for those who want to professionalise a practice that often stays overlooked.</p>"
+- title: 'Mapping Your Docs-as-Code Repository: Navigating the Architectural Evolution
+    of Repositories'
+  slug: 
+    mapping-your-docs-as-code-repository-navigating-the-architectural-evolution-of-hridyesh-bisht
+  series: Write the Docs Berlin
+  series_slug: berlin
+  year: 2026
+  speakers:
+  - name: Hridyesh Bisht
+    slug: hridyesh-bisht
+    twitter:
+    website: WIP
+  abstract: "<p>Choosing a repository architecture for a modern docs-as-code workspace
+    is rarely an easy decision. As an organisation scales, managing where content
+    lives becomes a balancing act between data security, localisation, and avoiding
+    manual duplication. </p>\n<p>Engineers want documentation embedded directly inside
+    their specific code repositories for autonomy, but writing teams need central
+    oversight to maintain quality. This tension between data security boundaries,
+    multi-repository isolation, and the fundamental need for a uniform customer-facing
+    portal is one of the most painful, hidden infrastructure bottlenecks in documentation
+    architecture.</p>\n<p>This talk focuses on a case study of how a documentation
+    team mapped out, tested, and deployed advanced repository layouts to survive rapid
+    company growth. Inspired by large-scale open-source documentation structures,
+    this session breaks down the real-world benefits, maintenance downsides, and exact
+    technical logic behind four core architecture patterns:</p>\n<ul>\n<li>The Public-Private
+    Mirror</li>\n<li>Multi-Branch Single-Sourcing</li>\n<li>File-System Symlinks</li>\n\
+    <li>Shared Git Subdirectories</li>\n</ul>"
