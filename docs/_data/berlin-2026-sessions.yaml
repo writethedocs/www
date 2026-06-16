@@ -1,6 +1,6 @@
 - title: 'Doc Health Metrics: How Two Writers Built a Framework to Prioritize Docs
     Across Dozens of Products'
-  slug: 
+  slug:
     doc-health-metrics-how-two-writers-built-a-framework-to-prioritize-docs-across-anastasia-suboch
   series: Write the Docs Berlin
   series_slug: berlin
@@ -50,7 +50,7 @@
     for everyone, but by the end you'll have a clearer sense of what you can measure
     based on your actual goals and concrete things you can try.</p>"
 - title: 'Beyond Automation: Human Judgment as the Strategic Core of Business Writing'
-  slug: 
+  slug:
     beyond-automation-human-judgment-as-the-strategic-core-of-business-writing-kel-raleigh
   series: Write the Docs Berlin
   series_slug: berlin
@@ -78,7 +78,7 @@
     and how to strengthen the one skill that’s becoming more valuable, not less: judgment.</p>"
 - title: 'Structure after the fact: Bringing content strategy to existing docs for
     a design system'
-  slug: 
+  slug:
     structure-after-the-fact-bringing-content-strategy-to-existing-docs-for-a-desig-jen-buley
   series: Write the Docs Berlin
   series_slug: berlin
@@ -109,7 +109,7 @@
     navigation, information value, and how we work, and I'll be honest about what
     was harder than expected and what I'd do differently.</p>"
 - title: 'Silence Is Not Approval: When Better Docs Create More Feedback'
-  slug: 
+  slug:
     silence-is-not-approval-when-better-docs-create-more-feedback-uladzislava-lahun
   series: Write the Docs Berlin
   series_slug: berlin
@@ -124,7 +124,7 @@
     with key users, documentation was often treated as a historical record of features,
     and the only regular “metric” we had was the last update date.</p>\n<p>Then the
     product grew. The documentation grew. User expectations grew even faster to soon
-    reach its lowest point. As the documentation coundn’t deliver users stopped taking
+    reach its lowest point. As the documentation couldn’t deliver users stopped taking
     it seriously (and  stopped giving a sincere feedback)</p>\n<p>As a small documentation
     team responsible for a large internal knowledge base, we needed more than occasional
     complaints in Slack, scattered tickets, and second-hand feedback from managers.
@@ -143,7 +143,7 @@
     but to build a stronger community around the docs.</li>\n</ul>"
 - title: "Moonshot mindset: A tech writer's guide to thinking big and breaking free
     from the GDZ"
-  slug: 
+  slug:
     moonshot-mindset-a-tech-writer-s-guide-to-thinking-big-and-breaking-free-from-t-kate-wilcox
   series: Write the Docs Berlin
   series_slug: berlin
@@ -170,7 +170,7 @@
     don’t just document the product, they improve it.</p>"
 - title: 'When words become attacks: prompt injection through a technical writing
     lens'
-  slug: 
+  slug:
     when-words-become-attacks-prompt-injection-through-a-technical-writing-lens-oishi-banerjee
   series: Write the Docs Berlin
   series_slug: berlin
@@ -199,7 +199,7 @@
     that writers already possess the skills to contribute to AI safety, governance,
     and trust.</p>"
 - title: 'Good Enough at Scale: Documentation Infrastructure Under Capacity Constraints'
-  slug: 
+  slug:
     good-enough-at-scale-documentation-infrastructure-under-capacity-constraints-elena-baskakova
   series: Write the Docs Berlin
   series_slug: berlin
@@ -257,7 +257,7 @@
     <p>In this talk, I share guidelines for writing inclusive content that reflects
     the purpose of accessibility and the needs of AI.</p>"
 - title: 'Trading in Trust: How Documentation Protects People, Not Just Projects'
-  slug: 
+  slug:
     trading-in-trust-how-documentation-protects-people-not-just-projects-stephan-rayner
   series: Write the Docs Berlin
   series_slug: berlin
@@ -339,7 +339,7 @@
     docs and for those who want to professionalise a practice that often stays overlooked.</p>"
 - title: 'Mapping Your Docs-as-Code Repository: Navigating the Architectural Evolution
     of Repositories'
-  slug: 
+  slug:
     mapping-your-docs-as-code-repository-navigating-the-architectural-evolution-of-hridyesh-bisht
   series: Write the Docs Berlin
   series_slug: berlin
