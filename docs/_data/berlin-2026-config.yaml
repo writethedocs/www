@@ -174,9 +174,9 @@ writing_day:
   project_deadline: "August 17, 2026"
 
 volunteer:
-  form_url: ""
-  applications_close: "June 22"
-  schedule_signup_close: "August 3"
+  form_url: "https://docs.google.com/forms/d/e/1FAIpQLSf-I6iwVT06gGBd64JHB4XNutbk6CVsVTvAyCnWwQwnhSJnEA/viewform"
+  applications_close: "Jule 23"
+  schedule_signup_close: "August 14"
 
 sponsors:
   keystone:
