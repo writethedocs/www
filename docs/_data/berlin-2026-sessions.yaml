@@ -1,7 +1,6 @@
 - title: 'Doc Health Metrics: How Two Writers Built a Framework to Prioritize Docs
     Across Dozens of Products'
-  slug:
-    doc-health-metrics-how-two-writers-built-a-framework-to-prioritize-docs-across-anastasia-suboch
+  slug: doc-health-metrics-how-two-writers-built-a-framework-to-prioritize-docs-across-anastasia-suboch
   series: Write the Docs Berlin
   series_slug: berlin
   year: 2026
@@ -50,8 +49,7 @@
     for everyone, but by the end you'll have a clearer sense of what you can measure
     based on your actual goals and concrete things you can try.</p>"
 - title: 'Beyond Automation: Human Judgment as the Strategic Core of Business Writing'
-  slug:
-    beyond-automation-human-judgment-as-the-strategic-core-of-business-writing-kel-raleigh
+  slug: beyond-automation-human-judgment-as-the-strategic-core-of-business-writing-kel-raleigh
   series: Write the Docs Berlin
   series_slug: berlin
   year: 2026
@@ -78,8 +76,7 @@
     and how to strengthen the one skill that’s becoming more valuable, not less: judgment.</p>"
 - title: 'Structure after the fact: Bringing content strategy to existing docs for
     a design system'
-  slug:
-    structure-after-the-fact-bringing-content-strategy-to-existing-docs-for-a-desig-jen-buley
+  slug: structure-after-the-fact-bringing-content-strategy-to-existing-docs-for-a-desig-jen-buley
   series: Write the Docs Berlin
   series_slug: berlin
   year: 2026
@@ -109,8 +106,7 @@
     navigation, information value, and how we work, and I'll be honest about what
     was harder than expected and what I'd do differently.</p>"
 - title: 'Silence Is Not Approval: When Better Docs Create More Feedback'
-  slug:
-    silence-is-not-approval-when-better-docs-create-more-feedback-uladzislava-lahun
+  slug: silence-is-not-approval-when-better-docs-create-more-feedback-uladzislava-lahun
   series: Write the Docs Berlin
   series_slug: berlin
   year: 2026
@@ -143,8 +139,7 @@
     but to build a stronger community around the docs.</li>\n</ul>"
 - title: "Moonshot mindset: A tech writer's guide to thinking big and breaking free
     from the GDZ"
-  slug:
-    moonshot-mindset-a-tech-writer-s-guide-to-thinking-big-and-breaking-free-from-t-kate-wilcox
+  slug: moonshot-mindset-a-tech-writer-s-guide-to-thinking-big-and-breaking-free-from-t-kate-wilcox
   series: Write the Docs Berlin
   series_slug: berlin
   year: 2026
@@ -170,8 +165,7 @@
     don’t just document the product, they improve it.</p>"
 - title: 'When words become attacks: prompt injection through a technical writing
     lens'
-  slug:
-    when-words-become-attacks-prompt-injection-through-a-technical-writing-lens-oishi-banerjee
+  slug: when-words-become-attacks-prompt-injection-through-a-technical-writing-lens-oishi-banerjee
   series: Write the Docs Berlin
   series_slug: berlin
   year: 2026
@@ -199,8 +193,7 @@
     that writers already possess the skills to contribute to AI safety, governance,
     and trust.</p>"
 - title: 'Good Enough at Scale: Documentation Infrastructure Under Capacity Constraints'
-  slug:
-    good-enough-at-scale-documentation-infrastructure-under-capacity-constraints-elena-baskakova
+  slug: good-enough-at-scale-documentation-infrastructure-under-capacity-constraints-elena-baskakova
   series: Write the Docs Berlin
   series_slug: berlin
   year: 2026
@@ -257,8 +250,7 @@
     <p>In this talk, I share guidelines for writing inclusive content that reflects
     the purpose of accessibility and the needs of AI.</p>"
 - title: 'Trading in Trust: How Documentation Protects People, Not Just Projects'
-  slug:
-    trading-in-trust-how-documentation-protects-people-not-just-projects-stephan-rayner
+  slug: trading-in-trust-how-documentation-protects-people-not-just-projects-stephan-rayner
   series: Write the Docs Berlin
   series_slug: berlin
   year: 2026
@@ -339,8 +331,7 @@
     docs and for those who want to professionalise a practice that often stays overlooked.</p>"
 - title: 'Mapping Your Docs-as-Code Repository: Navigating the Architectural Evolution
     of Repositories'
-  slug:
-    mapping-your-docs-as-code-repository-navigating-the-architectural-evolution-of-hridyesh-bisht
+  slug: mapping-your-docs-as-code-repository-navigating-the-architectural-evolution-of-hridyesh-bisht
   series: Write the Docs Berlin
   series_slug: berlin
   year: 2026
