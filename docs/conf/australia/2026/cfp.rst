@@ -118,7 +118,6 @@ It can be  helpful to check out topics that might be related to your talk from p
 * `Australia {{year-2}} <https://www.writethedocs.org/conf/australia/{{year-2}}/speakers/>`_
 * `Portland {{year-1}} <https://www.writethedocs.org/conf/portland/{{year-1}}/speakers/>`_
 * `Portland {{year-2}} <https://www.writethedocs.org/conf/portland/{{year-2}}/speakers/>`_
-* `Atlantic {{year-1}} <https://www.writethedocs.org/conf/atlantic/{{year-1}}/speakers/>`_
 
 Not sure about speaking?
 ------------------------
