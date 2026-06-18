@@ -175,20 +175,26 @@ flaghassponsors: False
 flagcfp: False
 flagticketsonsale: False
 flagsoldout: False
+flagscheduleincomplete: False
 flagspeakersannounced: False
 flagrunofshow: False
 flaghasschedule: False
-flaghasunconf: False
 flaghasshirts: False
-flagvideos: False
 flaglivestreaming: False
+flagvideos: False
 flagpostconf: False
-flagcancelled: False
 
 # Truthy things that don't change
+flaghasunconf: False
 flaghashike: False
 flaghasfood: False
-flaghasboat: False
 flaghaswritingday: False
+flaghaslightningtalks: False
 flaghassponsorexpo: False
+flaghasboat: False
+
+# Pages to be linked in January 2026
+flaghasvisiting: False
+flaghasteam: False
+flaghasattendeeguide: False
 flaghasbadgeflair: False
