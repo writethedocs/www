@@ -10,8 +10,6 @@ email: portland@writethedocs.org
 color: gold
 rgb: 253,185,19
 rgb_contrast: 126,77,0 # if the main color has sufficient contrast against white text, set this to the same value as rgb
-hex: fdb913
-hex_contrast: 7e4d00 # if the main color has sufficient contrast against white text, set this to the same value as hex
 time_format: 12h
 
 buttons:
@@ -312,7 +310,6 @@ sponsors:
 photos:
   default:
     - _static/conf/images/headers/2026/unconference.jpg
-    - _static/conf/images/headers/2026/volunteer.jpg
     - _static/conf/images/headers/2026/writing-day.jpg
     - _static/conf/images/headers/2026/tickets.jpg
   index:

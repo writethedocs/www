@@ -2,6 +2,10 @@
 template: 2026/index.html
 banner: _static/conf/images/headers/berlin-2026-small-group.jpg
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
+og:description: "{{ social_description }}"
+myst:
+  html_meta:
+    "description": "{{ social_description }}"
 ---
 
 # Home | Write the Docs {{ name }} {{ year }}

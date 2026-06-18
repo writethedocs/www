@@ -91,6 +91,8 @@ View the full [attendee schedule](/conf/{{shortcode}}/{{year}}/schedule/).
 {% include "conf/portland/speaking-tips-2025.rst" %}
 ```
 
+<!-- TODO
+
 ## Media Kit
 
 Share with your communities that you are speaking at the conference.  
@@ -101,3 +103,5 @@ This includes:
 - Social media copy
 - Event graphic
 - Speaker graphic
+
+-->

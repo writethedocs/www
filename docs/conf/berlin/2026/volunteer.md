@@ -1,7 +1,6 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/headers/2026/volunteer.jpg
 ---
 
 # Volunteer Information
@@ -44,13 +43,9 @@ Each individual must volunteer for two or more 3-4 hour shifts and receives a **
 
 - Assist the Unconference coordinator, help folks sign up to host a session, maintain an updated schedule, direct individuals and groups to their tables, and keep tables looking neat.
 
-### Float
+### Talk Timer
 
-- Provide support where needed. Be a runner. Support staff with catering set up.
-
-### Venue Load Out
-
-- What's more fun than setting things up? Taking them down! Load out conference set up and leave the conference hall better than we found it.
+- Listen to the speakers and hold up signs to help them stay on track with their allotted time.
 
 ## Will travel assistance be provided?
 
