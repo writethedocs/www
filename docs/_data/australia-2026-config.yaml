@@ -187,8 +187,8 @@ flagcancelled: False
 
 # Truthy things that don't change
 flaghashike: False
+flaghasfood: False
 flaghasboat: False
 flaghaswritingday: False
 flaghassponsorexpo: False
 flaghasbadgeflair: False
-flaghaslightningtalks: False
