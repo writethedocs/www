@@ -129,7 +129,7 @@ about:
   attendees: 200
   social_venue: TBC
   venue: Treasury Theatre, Melbourne
-  venue_address: Lower Plaza, 1 Macarthur Stream
+  venue_address: Lower Plaza, 1 Macarthur Street
   photos: TBD
   mainroom: Theatre
   unconfroom: Breakout
@@ -145,7 +145,7 @@ cfp:
   preview: "TBD"
 
 unconf:
-  url: https://bit.ly/wtd-au-20256
+  url: https://bit.ly/wtd-au-2026
   date: "Thursday and Friday after the morning tea break"
 
 
