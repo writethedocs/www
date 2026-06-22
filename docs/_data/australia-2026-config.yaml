@@ -177,7 +177,7 @@ flagcfp: False
 flagticketsonsale: False
 flagsoldout: False
 flagspeakersannounced: False
-flagrunofshow: Fales
+flagrunofshow: False
 flaghasschedule: False
 flaghasunconf: False
 flaghasshirts: False
@@ -185,6 +185,7 @@ flagvideos: False
 flaglivestreaming: False
 flagpostconf: False
 flagcancelled: False
+flaghaslightningtalks: False
 
 # Truthy things that don't change
 flaghashike: False
