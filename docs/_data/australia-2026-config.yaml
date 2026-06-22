@@ -1,4 +1,5 @@
 name: Australia
+
 shortcode: australia
 year: 2026
 city: Melbourne
@@ -130,8 +131,8 @@ about:
   venue: Treasury Theatre, Melbourne
   venue_address: Lower Plaza, 1 Macarthur Stream
   photos: TBD
-  mainroom: Main stage
-  unconfroom: TBC
+  mainroom: Theatre
+  unconfroom: Breakout
   projector_ratio: "16:9"
 
 cfp:
@@ -144,7 +145,7 @@ cfp:
   preview: "TBD"      
 
 unconf:
-  url: https://bit.ly/wtd-au-2025
+  url: https://bit.ly/wtd-au-20256
   date: "Thursday and Friday after the morning tea break"
 
 
@@ -175,26 +176,20 @@ flaghassponsors: False
 flagcfp: False
 flagticketsonsale: False
 flagsoldout: False
-flagscheduleincomplete: False
 flagspeakersannounced: False
-flagrunofshow: False
+flagrunofshow: Fales
 flaghasschedule: False
+flaghasunconf: False
 flaghasshirts: False
-flaglivestreaming: False
 flagvideos: False
+flaglivestreaming: False
 flagpostconf: False
+flagcancelled: False
 
 # Truthy things that don't change
-flaghasunconf: False
 flaghashike: False
 flaghasfood: False
-flaghaswritingday: False
-flaghaslightningtalks: False
-flaghassponsorexpo: False
 flaghasboat: False
-
-# Pages to be linked in January 2026
-flaghasvisiting: False
-flaghasteam: False
-flaghasattendeeguide: False
+flaghaswritingday: False
+flaghassponsorexpo: False
 flaghasbadgeflair: False
