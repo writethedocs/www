@@ -142,7 +142,7 @@ cfp:
   speaker_tickets_by: "November 1 2026"           # (Mon) Approx 3 weeks before
   video_by: "November 16, 2026"                   # Upload date for recorded talks (remote speakers)
   slides_by: "November 23, 2026"                 # (Mon) 2-3 weeks before
-  preview: "TBD"      
+  preview: "TBD"
 
 unconf:
   url: https://bit.ly/wtd-au-20256
@@ -189,7 +189,7 @@ flaghaslightningtalks: False
 
 # Truthy things that don't change
 flaghashike: False
-flaghasfood: False
+flaghasfood: True
 flaghasboat: False
 flaghaswritingday: False
 flaghassponsorexpo: False
