@@ -9,20 +9,20 @@
     slug: anastasia-suboch
     twitter:
     website:
-  abstract: "<p>At Booking.com's FinTech division, two technical writers serve dozens
-    of products. We needed a way to identify documentation priorities at scale and
-    communicate the severity of docs issues in terms that product owners would act
-    on. Without data, \"the docs need work\" was always deprioritized.</p>\n<p>So
-    we built a documentation health framework from our experience as technical writers,
-    defining what makes docs healthy, measuring it with AI-powered instrumentation,
-    and presenting findings in ways that actually prompt teams to improve. The framework
-    measures five dimensions (coverage, readability, style compliance, freshness,
-    and discoverability), produces reports with business impact mapping and tailored
-    recommendations, and evolves after each assessment as we learn what works and
-    what doesn't.</p>\n<p>The talk is structured around three pillars, each with practical
-    lessons for anyone trying to make documentation measurable and improvable:</p>\n\
-    <ul>\n<li>Defining metrics and instruments</li>\n<li>Getting input from stakeholders</li>\n\
-    <li>Presenting findings to stakeholders</li>\n</ul>"
+  abstract: "<p>In our FinTech division, two technical writers serve dozens of products.
+    We needed a way to identify documentation priorities at scale and communicate
+    the severity of docs issues in terms that product owners would act on. Without
+    data, \"the docs need work\" was always deprioritized.</p>\n<p>So we built a documentation
+    health framework from our experience as technical writers, defining what makes
+    docs healthy, measuring it with AI-powered instrumentation, and presenting findings
+    in ways that actually prompt teams to improve. The framework measures five dimensions
+    (coverage, readability, style compliance, freshness, and discoverability), produces
+    reports with business impact mapping and tailored recommendations, and evolves
+    after each assessment as we learn what works and what doesn't.</p>\n<p>The talk
+    is structured around three pillars, each with practical lessons for anyone trying
+    to make documentation measurable and improvable:</p>\n<ul>\n<li>Defining metrics
+    and instruments</li>\n<li>Getting input from stakeholders</li>\n<li>Presenting
+    findings to stakeholders</li>\n</ul>"
 - title: Proving and improving the value of your docs
   slug: proving-and-improving-the-value-of-your-docs-tal-gluck
   series: Write the Docs Berlin
