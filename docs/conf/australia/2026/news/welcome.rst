@@ -1,6 +1,6 @@
 :template: {{year}}/generic.html
 
-.. post:: May 31, 2026
+.. post:: June 21, 2026
    :tags: {{shortcode}}-{{year}}, website, tickets
 
 Announcing Write the Docs Australia {{year}}
@@ -22,7 +22,7 @@ Call for Proposals
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience.
 We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!
 
-We plan to launch our CFP around mid June and have it last until sometime until late August.
+We plan to launch our CFP early July, and have it last until sometime until mid-September.
 Get started coming up with ideas for the conference now.
 
 Tickets
