@@ -10,7 +10,7 @@ G'day and welcome to the official launch of `Write the Docs Australia {{year}} <
 our eighth conference.
 
 We're excited to announce the dates for our next conference:
-**Write the Docs Australia 2026 will be on December 3-4, 2026**.
+**Write the Docs Australia 2026 will be in-person, in Melbourne, on December 3-4, 2026**.
 
 The conference will take place during day time in AEDT_.
 
