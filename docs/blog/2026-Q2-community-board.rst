@@ -32,7 +32,7 @@ Rose Williams proposed updating the "Meetups" page title to "Community Groups", 
 
 **AI-assisted experiments**
 
-Speaking of AI (who isn't these days?), we are looking into leveraging AI tools to accelerate drafting project plans and content enhancements. For example, Rose suggested using AI to create a brief for a project to add YouTube links to website pages to boost SEO and cross-linking. After reviews and sign-offs by humans, these briefs could be made available as virtual Writing Day projects for community members to tackle. 
+We are looking into leveraging AI tools to accelerate drafting project plans and content enhancements. For example, Rose suggested using AI to create a brief for a project to add YouTube links to website pages to boost SEO and cross-linking. After reviews and sign-offs by humans, these briefs could be made available as virtual Writing Day projects for community members to tackle. 
 
 Other possible AI-assisted experiments include a unified branding guide, website content analysis and clean-up tasks, and general content enhancements. As always, human oversight rules the final result, but we are curious to see how these tools could help us streamline work that involves either repetitive small tasks or analyzing large data sets. 
 
@@ -40,7 +40,7 @@ Other possible AI-assisted experiments include a unified branding guide, website
 
 Janine Chan suggested an initiative to codify the personal judgments made during moderation into a written playbook, which could be hosted on our website to increase transparency and trust. This process could involve collecting raw moderation conversation data to build a dataset for AI analysis. 
 
-Since we prioritize the privacy and safety of our members, Janine will discuss this idea with the community to solicit feedback and address any data safety concerns before we proceed.
+Since we prioritize the privacy and safety of our members, Janine will discuss this idea with the moderation team to solicit feedback and address any data safety concerns before we proceed.
 
 As always, the board continues to review the community backlog to determine the most valuable efforts for the community in the short and long term.
 
