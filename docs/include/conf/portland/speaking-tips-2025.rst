@@ -2,6 +2,7 @@ Are you giving a talk at this year's in-person {{city}} Write the Docs? Great! H
 few things that may help you plan for preparing and presenting your talk.
 
 - The more you practice your talk, the more comfortable you'll be when presenting. In addition to practicing by yourself, we strongly recommend you do it in front of at least one other human.
+- If you're worried about making a mistake, practicing what to say if you do will help you be more prepared.
 - If you haven't spoken before, your time will likely be shorter than when you are practicing.
 - Make sure your slides are high contrast.
 - Include where you want people to find you (e.g., LinkedIn, Bluesky) so people can properly attribute your brilliance.
