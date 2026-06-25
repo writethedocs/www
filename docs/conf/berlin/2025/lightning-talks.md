@@ -4,6 +4,12 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 banner: _static/conf/images/headers/2025/lightning-talks.jpg
 ---
 
+```{raw} html
+{% with in_person=True, virtual=True, note="live streamed to virtual attendees" %}
+{% include "include/availability-2025.md" %}
+{% endwith %}
+```
+
 <div style="margin: 2em 0;">
 <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
 <tr>

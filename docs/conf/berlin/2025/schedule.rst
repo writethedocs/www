@@ -4,6 +4,14 @@
 Schedule
 ========
 
+.. raw:: html
+
+   <p class="availability">
+   <span class="availability-badge availability-in-person" title="Available to in-person attendees">📍 In person</span>
+   <span class="availability-badge availability-virtual" title="Available to virtual attendees">💻 Virtual</span>
+   <span class="availability-note">see icons next to each item for availability</span>
+   </p>
+
 Write the Docs is more than a conference.
 Each year we organize a wide range of events so that people can come together, collaborate, and learn from each other in different ways.
 
@@ -33,7 +41,7 @@ All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
 
 {% if flaghasschedule %}
 
-{% with day_schedule=schedule.outing %}
+{% with day_schedule=schedule.outing, day_availability='in_person' %}
 {% include "include/schedule2021.rst" %}
 {% endwith %}
 
@@ -56,7 +64,7 @@ All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
 
 {% if flaghasschedule %}
 
-{% with day_schedule=schedule.writing_day %}
+{% with day_schedule=schedule.writing_day, day_availability='in_person' %}
 {% include "include/schedule2021.rst" %}
 {% endwith %}
 
@@ -71,7 +79,7 @@ All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
 
 {% if flaghasschedule %}
 
-{% with day_schedule=schedule.talks_day1 %}
+{% with day_schedule=schedule.talks_day1, day_availability='both' %}
 {% include "include/schedule2021.rst" %}
 {% endwith %}
 
@@ -92,7 +100,7 @@ All times are in `{{ tz }} <https://time.is/{{ tz }}>`_.
 
 {% if flaghasschedule %}
 
-{% with day_schedule=schedule.talks_day2 %}
+{% with day_schedule=schedule.talks_day2, day_availability='both' %}
 {% include "include/schedule2021.rst" %}
 {% endwith %}
 

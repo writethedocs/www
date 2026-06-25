@@ -273,8 +273,59 @@ body .page-content {
 
             .item-content {
                 max-width: 350px;
+                display: flex;
+                align-items: flex-start;
+                justify-content: space-between;
+                gap: 12px;
+            }
+
+            .item-description {
+                flex: 1;
+            }
+
+            .item-availability {
+                flex-shrink: 0;
+                font-size: 14px;
+                line-height: 1.4;
+                white-space: nowrap;
+                opacity: 0.85;
             }
         }
+    }
+
+    .availability {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        align-items: center;
+        margin: 0 0 20px 0;
+        font-size: 14px;
+    }
+
+    .availability-badge {
+        display: inline-block;
+        padding: 4px 10px;
+        border-radius: 12px;
+        font-weight: $semi-bold;
+        background-color: #E8DDCF;
+        border: 1px solid #CEBEA9;
+        color: #2c2c2c;
+    }
+
+    .availability-in-person {
+        background-color: #e7f7ea;
+        border-color: #2ecc71;
+    }
+
+    .availability-virtual {
+        background-color: #e3eef9;
+        border-color: #6aa3d8;
+    }
+
+    .availability-note {
+        font-style: italic;
+        color: #555;
+        font-size: 13px;
     }
 
     .talk {
