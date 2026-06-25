@@ -29,7 +29,7 @@ All times are in [{{ tz }}](https://time.is/{{ tz | replace(' ', '_') }}).
 {% if flaghasschedule %}
 
 ```{raw} html
-{% with day_schedule=schedule.talks_day1 %}
+{% with day_schedule=schedule.talks_day1, day_availability='virtual' %}
 {% include "include/schedule2026.md" %}
 {% endwith %}
 ```
@@ -60,7 +60,7 @@ You can socialize with other virtual attendees in the various hallway channels.
 {% if flaghasschedule %}
 
 ```{raw} html
-{% with day_schedule=schedule.talks_day2 %}
+{% with day_schedule=schedule.talks_day2, day_availability='virtual' %}
 {% include "include/schedule2026.md" %}
 {% endwith %}
 ```

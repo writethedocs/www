@@ -6,6 +6,12 @@ banner: _static/conf/images/headers/2026/hike.jpg
 
 # Hike
 
+```{raw} html
+{% with in_person=True, virtual=False %}
+{% include "include/availability-2026.md" %}
+{% endwith %}
+```
+
 Every year we have a conference hike that kicks off the **unofficial** beginning of the conference. It has become a fantastic tradition and is a wonderful way to gather the day before the conference begins.
 
 This year, we're offering two options to better accommodate interests:

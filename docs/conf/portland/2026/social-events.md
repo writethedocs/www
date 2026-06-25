@@ -6,6 +6,14 @@ banner: _static/conf/images/headers/2026/social-events.jpg
 
 # Social Events
 
+```{raw} html
+{% with in_person=True, virtual=False %}
+{% include "include/availability-2026.md" %}
+{% endwith %}
+```
+
+Virtual attendees can socialize in the hallway channels on the [Venueless](/conf/{{shortcode}}/{{year}}/virtual/) platform.
+
 Write the Docs is a community conference,
 which means a big part of the experience is meeting and getting to know other documentarians.
 Along with the talks and Unconference sessions,

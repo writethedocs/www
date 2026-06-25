@@ -6,6 +6,12 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 # Schedule
 
+```{raw} html
+{% with in_person=True, virtual=True, note="see icons next to each item for availability" %}
+{% include "include/availability-2026.md" %}
+{% endwith %}
+```
+
 Write the Docs is more than a conference. Each year we organize a wide range of events so that people can come together, collaborate, and learn from each other in different ways.
 
 {% if not flaghasschedule %}
@@ -29,7 +35,7 @@ All times are in [{{ tz }}](https://time.is/{{ tz | replace(' ', '_') }}).
 {% if flaghasschedule %}
 
 ```{raw} html
-{% with day_schedule=schedule.outing %}
+{% with day_schedule=schedule.outing, day_availability='in_person' %}
 {% include "include/schedule2026.md" %}
 {% endwith %}
 ```
@@ -45,7 +51,7 @@ All times are in [{{ tz }}](https://time.is/{{ tz | replace(' ', '_') }}).
 {% if flaghasschedule %}
 
 ```{raw} html
-{% with day_schedule=schedule.writing_day %}
+{% with day_schedule=schedule.writing_day, day_availability='in_person' %}
 {% include "include/schedule2026.md" %}
 {% endwith %}
 ```
@@ -62,7 +68,7 @@ A detailed schedule will be announced soon.
 {% if flaghasschedule %}
 
 ```{raw} html
-{% with day_schedule=schedule.talks_day1 %}
+{% with day_schedule=schedule.talks_day1, day_availability='both' %}
 {% include "include/schedule2026.md" %}
 {% endwith %}
 ```
@@ -79,7 +85,7 @@ A detailed schedule will be announced soon.
 {% if flaghasschedule %}
 
 ```{raw} html
-{% with day_schedule=schedule.talks_day2 %}
+{% with day_schedule=schedule.talks_day2, day_availability='both' %}
 {% include "include/schedule2026.md" %}
 {% endwith %}
 ```
