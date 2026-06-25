@@ -1,3 +1,5 @@
+import json
+import os
 import re
 
 import pytz
@@ -7,7 +9,8 @@ from .utils import load_yaml
 
 import logging
 import sys
-from datetime import datetime, time, timedelta
+from datetime import date, datetime, time, timedelta
+from urllib.parse import urlsplit
 
 try:
     from pathlib import PurePath
@@ -38,6 +41,60 @@ TIMEZONE_TRANSLATION_PYTZ = {
     'CEST': 'CET',
     'EDT': 'US/Eastern',
 }
+
+def conference_event_jsonld(data, shortcode, year_str):
+    """
+    Build schema.org/Event JSON-LD for a conference's landing page.
+
+    Reads the ISO ``date.start``/``date.end`` fields from the config. Only
+    emitted for conferences that haven't finished yet, since search engines
+    only surface event rich results for upcoming events. Returns ``None`` when
+    those dates are missing or the event is already over.
+    """
+    dates = data.get('date') or {}
+    start, end = dates.get('start'), dates.get('end')
+    if not start or not end or date.fromisoformat(end) < date.today():
+        return None
+
+    parts = urlsplit(os.environ.get('READTHEDOCS_CANONICAL_URL', ''))
+    base = f'{parts.scheme}://{parts.netloc}' if parts.netloc else 'https://www.writethedocs.org'
+    conf_url = f'{base}/conf/{shortcode}/{year_str}/'
+
+    event = {
+        '@context': 'https://schema.org',
+        '@type': 'Event',
+        'name': f"Write the Docs {data['name']} {year_str}",
+        'startDate': start,
+        'endDate': end,
+        'eventAttendanceMode': 'https://schema.org/OfflineEventAttendanceMode',
+        'eventStatus': 'https://schema.org/EventScheduled',
+        'url': conf_url,
+        'image': f'{base}/_static/conf/images/headers/{shortcode}-{year_str}-opengraph.jpg',
+        'organizer': {
+            '@type': 'Organization',
+            'name': 'Write the Docs',
+            'url': f'{base}/',
+        },
+    }
+
+    about = data.get('about') or {}
+    venue = about.get('venue')
+    if venue and venue.upper() != 'TBC':
+        address = {
+            '@type': 'PostalAddress',
+            'streetAddress': about.get('venue_address'),
+            'addressLocality': data.get('city'),
+            'addressCountry': data.get('local_area'),
+        }
+        event['location'] = {
+            '@type': 'Place',
+            'name': venue,
+            'address': {k: v for k, v in address.items() if v},
+        }
+
+    # Escape "<" so the payload is always safe inside a <script> element.
+    return json.dumps(event).replace('<', '\\u003c')
+
 
 def load_conference_page_context(app, page):
     """
@@ -83,15 +140,17 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
         yaml_file = '_data/' + shortcode + '-' + year_str + '-config.yaml'
     data.update(load_yaml_log_error(page, yaml_file))
 
-    # Single source for the conference home-page social/meta description (2026
-    # onwards), so the same sentence doesn't have to be copy-pasted into the
-    # index page's og:description and meta description. Used as {{ social_description }}.
     if year >= 2026:
+        # Single source for the conference home-page social/meta description, so
+        # the same sentence doesn't have to be copy-pasted into the index page's
+        # og:description and meta description. Used as {{ social_description }}.
         data['social_description'] = (
             f"Write the Docs {data['name']} {year} is a conference for "
             "documentarians and everyone who writes the docs. "
             f"Join us {data['date']['short']} in {data['city']}, {data['local_area']}."
         )
+        # schema.org/Event structured data for the conference landing pages.
+        data['event_jsonld'] = conference_event_jsonld(data, shortcode, year_str)
 
     if year < 2020 or not data['flagspeakersannounced']:
         return data
