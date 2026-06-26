@@ -130,7 +130,7 @@ Subject:
 
    ○ Please make sure to log in to [Pretalx](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/) and fill out the questions on pronouns, name pronunciation and interests for our emcee intro. We also need your **hoodie size** for a free speaker hoodie!
 
-   ○ Private speaker Slack channel! If you're not on the Slack already, [join the WTD Slack](https://join.slack.com/t/writethedocs/shared_invite/zt-2vbvjxiiv-ZUWUdIuimXQ5Q9q_WDPaQw). Once you're signed up, or if you're already on there, ping me @plaindocs so I can add you to the private speaker channel. It contains many of our past speakers, and myself and other organisers, who will be happy to offer advice or answer questions.
+   ○ Private speaker Slack channel! If you're not on the Slack already, [join the WTD Slack](https://join.slack.com/t/writethedocs/shared_invite/zt-421u49ixy-PbsLhf30KCWgo3heFngQNA). Once you're signed up, or if you're already on there, ping me @plaindocs so I can add you to the private speaker channel. It contains many of our past speakers, and myself and other organisers, who will be happy to offer advice or answer questions.
 
    ○ We're working on a provisional schedule, taking into account all requested time slot preferences, I hope to be able to share that with you in a week or so.
 
@@ -170,7 +170,7 @@ Subject:
 
    Next week I'll send over a provisional schedule, and if having a particular slot would make it easier to attend the Q&A, let me know and I'll see what I can do.
 
-   And while we're here, ;-) if you don't have a profile picture set in [Pretalx](https://pretalx.com/write-the-docs-{{shortcode}}-{{year}}/login/), now would be a great time to add one.
+   And while we're here, ;-) if you don't have a profile picture set in [Pretalx](https://pretalx.com/wtd-{{shortcode}}-{{year}}/login/), now would be a great time to add one.
 
    And I think that is it! I'm excited to see this taking shape and excited to see all of your hard work on the virtual stage!
 

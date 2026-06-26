@@ -13,51 +13,53 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 ## Essential info
 
-**Location**  
+**Location**
 {{ about.venue }}, {{ about.venue_address }}
 
-**Date**  
+**Date**
 {{ date.short }}
 
-**Talk length**  
+**Talk length**
 30 minutes of presentation followed by 5 minutes of moderated Q&A
 
-**Projector specs**  
+**Projector specs**
 1920 x 1200 resolution at 60Hz via HDMI, DisplayPort or VGA
 
-**Adapters**  
+**Adapters**
 USB-C to HDMI adapters are provided, but if you need a specific adapter, let the speaker coordinator know in advance
 
-**Microphones**  
+**Microphones**
 We have both over-ear (preferred) and handheld
 
-**Clicker**  
+**Clicker**
 We will provide a clicker if you'd like to use it with your computer slides (not required)
 
-**Confidence monitor**  
+**Confidence monitor**
 There will be a monitor downstage left that displays what the audience sees on the screen
 
-**What to wear**  
+**What to wear**
 We encourage you to wear clothing that you feel comfortable in. Consider the over-ear microphone when selecting your clothing; make sure there's something for the transmitter to clip onto.
 
 ## Pre-conference Schedule
 
-**{{cfp.ends}}**  
+**{{cfp.ends}}**
 Call for Proposal ends.
 
-**{{cfp.notification}}**  
-We'll let you know whether your proposal was accepted, and ask for some supplementary information about you.  
+**{{cfp.notification}}**
+We'll let you know whether your proposal was accepted, and ask for some supplementary information about you.
 Make sure to confirm your talk as soon as you get the email, and update your pronouns, photo, name pronunciation, bio, and hoodie size in [Pretalx](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/).
 
-**{{cfp.speaker_tickets_by}}**  
-Register your free speaker ticket with dietary preferences (we'll email you a ticket link beforehand).  
+**{{cfp.speaker_tickets_by}}**
+Register your free speaker ticket with dietary preferences (we'll email you a ticket link beforehand).
 Make sure [Pretalx](https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/) has all of your updated info.
 
-**{{cfp.slides_by}}**  
+**{{cfp.slides_by}}**
 Upload a copy of your slides so our human captioners can prepare for your talk. We'll email you an upload link beforehand. They **do not** have to be final, just a working copy is enough.
 
-**{{date.short}}**  
+**{{date.short}}**
 Folks start giving talks on stage!
+
+<!--
 
 ## Conference Schedule
 
@@ -85,6 +87,8 @@ For example, if you speak Tuesday afternoon, your tech will be during the lunch 
 
 View the full [attendee schedule](/conf/{{shortcode}}/{{year}}/schedule/).
 
+-->
+
 ## Speaking Tips
 
 ```{eval-rst}
@@ -95,7 +99,7 @@ View the full [attendee schedule](/conf/{{shortcode}}/{{year}}/schedule/).
 
 ## Media Kit
 
-Share with your communities that you are speaking at the conference.  
+Share with your communities that you are speaking at the conference.
 Download copy and graphics from our [Speaker Media Kit](https://drive.google.com/drive/folders/1hujeKUlasLw3xqnEb0EoUbJ18RANN3e_?usp=sharing).
 
 This includes:
