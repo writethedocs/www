@@ -40,7 +40,7 @@ Hi sponsors! We're excited to have you join us for Write the Docs {{ name }} {{ 
 
 * **{{ date.day_two.dotw | upper }}**: The conference begins with [Writing Day](/conf/{{ shortcode }}/{{ year }}/schedule/) and typically is attended by one third of our attendees. The Welcome Reception takes place in the evening and brings in an additional wave of attendees. **There are no sponsor booths this day**, but sponsors are encouraged to submit and lead a Writing Day project.
 
-* **{{ date.day_three.dotw | upper }}**: Day 1 of Speaker Talks and Unconference. Booth setup for Keystone and Patron sponsors. Attendees arrive promptly when doors open. Sponsor introductions happen after the first coffee break on the main stage for Keystone and Patron sponsors. There are seven speakers, with a short break after each talk, and the Unconference track runs in parallel. An offsite social gathering is held {{ date.day_three.dotw }} evening.
+* **{{ date.day_three.dotw | upper }}**: Day 1 of Speaker Talks and Unconference. Booth setup for Keystone and Patron sponsors. Attendees arrive promptly when doors open. Sponsor introductions happen after the lightning talks on the main stage for Keystone and Patron sponsors. There are seven speakers, with a short break after each talk, and the Unconference track runs in parallel. An offsite social gathering is held {{ date.day_three.dotw }} evening.
 
 * **{{ date.day_four.dotw | upper }}**: Day 2 of Speaker Talks and Unconference. There are six speakers this day, leading to an earlier wrap up so people can travel. Schedule reflects {{ date.day_three.dotw }} with slight adjustments to beginning and end times. All materials must be removed from the venue on the last day of the conference.
 
@@ -90,7 +90,7 @@ If you have a sponsorship booth, you will have time on the main stage to introdu
 
 **Logistics**:
 
-* Sponsor introductions happen at the end of the first coffee break on {{ date.day_three.dotw }}.
+* Sponsor introductions happen after the lightning talks on {{ date.day_three.dotw }}.
 * Keystone sponsors have 60 seconds and Patron sponsors have 30 seconds, to ensure all sponsors have equal time.
 * You will have a slide on the stage with your company logo. Let us know if you'd like a custom slide with additional information (e.g. a QR code and additional info).
 
