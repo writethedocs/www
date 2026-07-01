@@ -190,8 +190,6 @@ about-details:
   attendees: any(int(), str())
   mainroom: str()
   unconfroom: str(required=False)
-  registration_room: str(required=False)
-  catering_room: str(required=False)
   job_fair_room: str(required=False)
   photos: str(required=False)
   projector_ratio: str(required=False)
