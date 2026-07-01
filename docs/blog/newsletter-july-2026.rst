@@ -70,7 +70,7 @@ Others were less able to get time at company meetings and found their tracking b
 
 Another lone documentarian described their success in giving a presentation on documentation at a company all-hands event. By explaining how quality docs support the business and rely on the experience and knowledge of everyone in company, they were able to move a little closer to others seeing docs as something that one person can't do along and that they all can contribute to.
 
-See more Write the Docs resources on `working with other roles </topics/#working-with-other-role>`__.
+See more Write the Docs resources on `working with other roles </topics/#working-with-other-roles>`__.
 
 ------------------------
 Write the Docs resources
