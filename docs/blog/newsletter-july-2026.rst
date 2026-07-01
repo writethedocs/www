@@ -89,6 +89,6 @@ Events coming up
 - 7 Aug, 08:30 EDT (US East Coast Virtual): `Write the Docs East Coast Virtual Meetup <https://www.meetup.com/write-the-docs-east-coast/events/313625243/>`__
 - 8 Aug, 08:00 EAT (Nairobi, Kenya): `Write the Docs Kenya Conference <https://www.meetup.com/wtd-kenya/events/314376384/>`__
 - 8 Aug, 13:00 PDT (San Francisco, USA): `Write the Docs Bay Area Unconference! <https://www.meetup.com/write-the-docs-bay-area/events/315397820/>`__
-- 20 Aug, 18:00 BST (London, United Kingdom): `Write The Docs London Summer Social 2026 <https://www.meetup.com/write-the-docs-london/events/313761542/>`__
+- 20 Aug, 18:00 BST (London, United Kingdom): `Write the Docs London Summer Social 2026 <https://www.meetup.com/write-the-docs-london/events/313761542/>`__
 - 21 Aug, 08:30 EDT (US East Coast Virtual): `Write the Docs East Coast Virtual Meetup <https://www.meetup.com/write-the-docs-east-coast/events/311760894/>`__
 - 4 Sep, 08:30 EDT (US East Coast Virtual): `Write the Docs East Coast Virtual Meetup <https://www.meetup.com/write-the-docs-east-coast/events/313625244/>`__
