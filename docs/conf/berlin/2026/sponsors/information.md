@@ -17,24 +17,24 @@ Hi sponsors! We're excited to have you join us for Write the Docs {{ name }} {{ 
 
 **{{ date.day_two.dotw | upper }}, {{ date.day_two.date | upper }}**:
 
-* 10:00: Doors open
+* 09:00: Doors open
 * 10:00–18:00: Writing Day and check in
 * 17:00–19:00: Welcome reception
 
 **{{ date.day_three.dotw | upper }}, {{ date.day_three.date | upper }}**:
 
 * 08:00: Arrival and booth setup for Keystone/Patron sponsors
-* 08:30: Doors to venue/sponsor booths open
+* 09:00: Doors to venue/sponsor booths open
 * 10:00–17:00: Speaker Talks and Unconference
 * 19:00–21:00: Social event
 
 **{{ date.day_four.dotw | upper }}, {{ date.day_four.date | upper }}**:
 
-* 08:30: Keystone/Patron sponsor arrival
-* 09:00: Doors to venue/sponsor booths open
-* 10:00–17:00: Speaker Talks and Unconference
-* 17:00: Conference ends/load out
-* 18:00: Out of the venue
+* 09:00: Keystone/Patron sponsor arrival
+* 09:30: Doors to venue/sponsor booths open
+* 10:00–16:00: Speaker Talks and Unconference
+* 16:00: Conference ends/load out
+* 17:30: Out of the venue
 
 ## Conference Overview
 
@@ -79,9 +79,9 @@ Sponsor booths are set up in the main hallway on {{ date.day_three.dotw }} and {
 
 #### Booth Logistics
 
-* **Setup:** Sponsor arrival is 08:00 on {{ date.day_three.dotw }}; the venue opens to attendees at 08:30. We recommend arriving on time to be set up for attendee arrival. Check in with the Sponsorship Coordinator for specific setup questions.
+* **Setup:** Sponsor arrival is 08:00 on {{ date.day_three.dotw }}; the venue opens to attendees at 09:00. We recommend arriving on time to be set up for attendee arrival. Check in with the Sponsorship Coordinator for specific setup questions.
 * **Presence:** The most important times to be present at your booth are during the breaks and at the start of the lunch break. This is when attendees are most engaged and you can easily chat with them without other events happening.
-* **Load-out:** You are responsible for loading in and out your entire booth setup. All materials must be out of the venue by 18:00 on {{ date.day_four.dotw }}.
+* **Load-out:** You are responsible for loading in and out your entire booth setup. All materials must be out of the venue by 17:30 on {{ date.day_four.dotw }}.
 * **Tips:** Engage with folks as both a sponsor and attendee. QR codes are a great way to get people to a website quickly — we recommend a service like <https://www.qr-code-generator.com/> to create these.
 
 ### Lightning Talk Sponsor
@@ -128,6 +128,6 @@ You should have received a unique URL with a discount code for your sponsorship 
 * Sponsors are responsible for all sponsorship materials after they arrive at the venue.
 * Sponsors are responsible for mailing all materials after the conference.
 * Please print your return shipping labels prior to coming to the venue to send your materials back.
-* **All materials must be out of the venue by 18:00 on {{ date.day_four.dotw }}.**
+* **All materials must be out of the venue by 17:30 on {{ date.day_four.dotw }}.**
 
 If you have any further questions, reach out to Eric Holscher or <sponsorship@writethedocs.org>.
