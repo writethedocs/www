@@ -15,7 +15,7 @@ Hi sponsors! We're excited to have you join us for Write the Docs {{ name }} {{ 
 
 ## Schedule
 
-Times below are approximate and not fully confirmed until the [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) goes live.
+The [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) will be available around a month before the conference. Times below are approximate and not fully confirmed until it goes live.
 
 **{{ date.day_two.dotw | upper }}, {{ date.day_two.date | upper }}**:
 
@@ -45,8 +45,6 @@ Times below are approximate and not fully confirmed until the [full schedule](/c
 * **{{ date.day_three.dotw | upper }}**: Day 1 of Speaker Talks and Unconference. Keystone and Patron sponsors set up their booths before doors open, and are introduced on the main stage after the lightning talks. There are seven speakers, with a short break after each talk, and the Unconference track runs in parallel. An offsite social gathering follows in the evening.
 
 * **{{ date.day_four.dotw | upper }}**: Day 2 of Speaker Talks and Unconference. There are six speakers this day, leading to an earlier wrap up so people can travel. Schedule reflects {{ date.day_three.dotw }} with slight adjustments to beginning and end times. All materials must be removed from the venue on the last day of the conference.
-
-The [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) will be available around a month before the conference.
 
 ### Venue Layout
 
