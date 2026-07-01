@@ -15,6 +15,8 @@ Hi sponsors! We're excited to have you join us for Write the Docs {{ name }} {{ 
 
 ## Schedule
 
+Times below are approximate and not fully confirmed until the [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) goes live.
+
 **{{ date.day_two.dotw | upper }}, {{ date.day_two.date | upper }}**:
 
 * 09:00: Doors open
