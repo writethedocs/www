@@ -40,7 +40,7 @@ Hi sponsors! We're excited to have you join us for Write the Docs {{ name }} {{ 
 
 * **{{ date.day_two.dotw | upper }}**: The conference begins with [Writing Day](/conf/{{ shortcode }}/{{ year }}/schedule/) and typically is attended by one third of our attendees. The Welcome Reception takes place in the evening and brings in an additional wave of attendees. **There are no sponsor booths this day**, but sponsors are encouraged to submit and lead a Writing Day project.
 
-* **{{ date.day_three.dotw | upper }}**: Day 1 of Speaker Talks and Unconference. Booth setup for Keystone and Patron sponsors. Attendees arrive promptly when doors open. Sponsor introductions happen after the lightning talks on the main stage for Keystone and Patron sponsors. There are seven speakers, with a short break after each talk, and the Unconference track runs in parallel. An offsite social gathering is held {{ date.day_three.dotw }} evening.
+* **{{ date.day_three.dotw | upper }}**: Day 1 of Speaker Talks and Unconference. Keystone and Patron sponsors set up their booths before doors open, and are introduced on the main stage after the lightning talks. There are seven speakers, with a short break after each talk, and the Unconference track runs in parallel. An offsite social gathering follows in the evening.
 
 * **{{ date.day_four.dotw | upper }}**: Day 2 of Speaker Talks and Unconference. There are six speakers this day, leading to an earlier wrap up so people can travel. Schedule reflects {{ date.day_three.dotw }} with slight adjustments to beginning and end times. All materials must be removed from the venue on the last day of the conference.
 
@@ -58,7 +58,7 @@ Each sponsorship includes different opportunities to engage with our attendees. 
 
 ### Sponsor Booths - Keystone and Patron
 
-Sponsor booths are set up in the main hallway on {{ date.day_three.dotw }} and {{ date.day_four.dotw }} outside of the auditorium. Attendees are always looking for great products to use in their day to day workflows, and are curious to learn more about your company.
+Attendees are always looking for great products to use in their day-to-day workflows, and are curious to learn more about your company.
 
 **Location:** Main hallway, outside the auditorium
 **Availability:** {{ date.day_three.dotw }} and {{ date.day_four.dotw }}, full conference hours
@@ -68,7 +68,6 @@ Sponsor booths are set up in the main hallway on {{ date.day_three.dotw }} and {
 - **Keystone:** a 200 × 80 cm (6.5') table with 2 chairs, a monitor, and access to power and Wi‑Fi
 - **Patron:** a 200 × 80 cm (6.5') table with 2 chairs, and access to power and Wi‑Fi
 - Monitor rental available for Patron sponsors for {{ sponsorship.monitor_rental.price }}
-- You must provide your own table linen
 
 #### What the Sponsor Provides
 
@@ -79,20 +78,20 @@ Sponsor booths are set up in the main hallway on {{ date.day_three.dotw }} and {
 
 #### Booth Logistics
 
-* **Setup:** Sponsor arrival is 08:00 on {{ date.day_three.dotw }}; the venue opens to attendees at 09:00. We recommend arriving on time to be set up for attendee arrival. Check in with the Sponsorship Coordinator for specific setup questions.
-* **Presence:** The most important times to be present at your booth are during the breaks and at the start of the lunch break. This is when attendees are most engaged and you can easily chat with them without other events happening.
+* **Setup:** Sponsor arrival is 08:00 on {{ date.day_three.dotw }}; the venue opens to attendees at 09:00. Arrive on time so your booth is ready before then. Check in with the Sponsorship Coordinator for specific setup questions.
+* **Presence:** The most important times to staff your booth are during breaks and at the start of lunch, when attendees are most engaged and free to chat.
 * **Load-out:** You are responsible for loading in and out your entire booth setup. All materials must be out of the venue by 17:30 on {{ date.day_four.dotw }}.
 * **Tips:** Engage with folks as both a sponsor and attendee. QR codes are a great way to get people to a website quickly — we recommend a service like <https://www.qr-code-generator.com/> to create these.
 
 ### Sponsor Introduction
 
-If you have a sponsorship booth, you will have time on the main stage to introduce yourself to attendees. This is a great opportunity to share what your company does and why they should come talk with you at the booth.
+If you have a sponsorship booth, you will have time on the main stage to introduce yourself to attendees — a chance to share what your company does and why they should come talk with you at the booth.
 
 **Logistics**:
 
 * Sponsor introductions happen after the lightning talks on {{ date.day_three.dotw }}.
 * Keystone sponsors have 60 seconds and Patron sponsors have 30 seconds, to ensure all sponsors have equal time.
-* You will have a slide on the stage with your company logo. Let us know if you'd like a custom slide with additional information (e.g. a QR code and additional info).
+* You will have a slide on the stage with your company logo. Let us know if you'd like a custom one with more detail, such as a QR code.
 
 ### Lightning Talk Sponsor
 
@@ -103,7 +102,7 @@ If you are sponsoring a Lightning Talk, you will be given 60 seconds to share ab
 Host a project at Writing Day. This is a place where the community gathers to get actual work done and is a great opportunity to meet with a small group and have extended interaction with attendees.
 
 * View our [Lead a Project](https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/writing-day/#lead-a-project) for more information.
-* [Submit your Writing Day project here.](https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform?usp=dialog) All projects submitted by {{ writing_day.project_deadline }} will be published to our website, which encourages attendees to attend, engage with your product, and contribute to your documentation.
+* [Submit your Writing Day project here.](https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform?usp=dialog) All projects submitted by {{ writing_day.project_deadline }} will be published to our website, which encourages attendees to join your project, engage with your product, and contribute to your documentation.
 
 ### Host an Unconference Session
 
@@ -119,7 +118,7 @@ Host an Unconference session. This is a wonderful opportunity to lead, contribut
 
 ### How do I get the most out of my sponsorship?
 
-Come prepared to engage with our community, and to learn just as much as you teach. Engage with our event as attendees as well as other sponsors. Send technical staff who can chat with people on the interesting things your company is doing, and get value from the vast amount of insight in the room. We do have some decision makers in the room, but soft sells will work better than hard sales in the environment we strive for.
+Come prepared to engage with our community, and to learn just as much as you teach. Take part as attendees as well as sponsors. Send technical staff who can chat with people about the interesting things your company is doing, and get value from the vast amount of insight in the room. We do have some decision makers present, but soft sells will work better than hard sales in the environment we strive for.
 
 ### Who is my primary contact?
 
