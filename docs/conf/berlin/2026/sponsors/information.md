@@ -123,7 +123,7 @@ You should have received a unique URL with a discount code for your sponsorship 
 
 ### How should I send my booth materials?
 
-* Keystone and Patron sponsors are allowed to send 3 boxes at 61 × 46 × 46 cm (24 × 18 × 18 in) in size. Please contact us for the shipping address, as the venue doesn't accept packages directly.
+* Keystone and Patron sponsors are allowed to send 3 boxes at 61 × 46 × 46 cm (24 × 18 × 18 in) in size. Please contact us for the shipping address.
 * Packages must arrive no more than 1 week before the conference.
 * Sponsors are responsible for all sponsorship materials after they arrive at the venue.
 * Sponsors are responsible for mailing all materials after the conference.
