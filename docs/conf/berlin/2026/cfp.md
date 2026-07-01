@@ -6,7 +6,7 @@ banner: _static/conf/images/headers/2026/lightning-talks.jpg
 
 # Call for Proposals
 
-It's that time of year again: We're now accepting talk proposals for our next **in-person** {{ city }} conference, on {{date.main}}. Like last year, we're also accepting a few pre-recorded talks by remote speakers.
+{% if flagcfp %}It's that time of year again: We're now accepting talk proposals for our next **in-person** {{ city }} conference, on {{date.main}}. Like last year, we're also accepting a few pre-recorded talks by remote speakers.{% elif flagspeakersannounced %}The Call for Proposals for our {{ city }} conference, on {{date.main}}, is now closed. Thanks to everyone who submitted a proposal — check out [this year's speakers](/conf/{{shortcode}}/{{year}}/speakers/)!{% else %}We're planning our next **in-person** {{ city }} conference, on {{date.main}}. Like last year, we're also accepting a few pre-recorded talks by remote speakers.{% endif %}
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you! Read on to learn more about the goals of the conference and what we look for in talk proposals.
 
@@ -17,7 +17,7 @@ In the meantime, mark your calendars:
 - **Deadline: {{cfp.ends}} at 11:59 PM {{tz}}**
 - **Acceptance emails: by {{cfp.notification}}**
 
-{% else %} We will announce the CFP dates soon. {% endif %}
+{% elif not flagspeakersannounced %} We will announce the CFP dates soon. {% endif %}
 
 {% if flagcfp %}
 
