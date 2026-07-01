@@ -60,7 +60,7 @@ See more Write the Docs resources about `docs-as-code </topics/#docs-as-code>`__
 Making your workload visible to others
 --------------------------------------
 
-If you work alone on documentation within your organization, you may find it challenging to demonstrate all of the many things you are working on and get requests you may not be able to handle. To get help with this, a question was posed in the `#lone-writer channel <https://writethedocs.slack.com/archives/CAL5Y0NB1>`__ regarding how to make your workload more visible to others.
+If you work alone on documentation within your organization, you may find it challenging to demonstrate all of the many things you are working on and you may get requests you aren't able to handle. To get help with this, a question was posed in the `#lone-writer channel <https://writethedocs.slack.com/archives/CAL5Y0NB1>`__ regarding how to make your workload more visible to others.
 
 When co-workers tag documentarians in various Slack threads without context, it can be difficult to communicate where a request sits within overall prioritization. Several respondents shared their experience applying project management strategies to raise awareness of what they are working on and the stage it is in. One uses weekly company-wide syncs to brief everyone on their work’s status and follows up with posts in relevant Slack channels. For them, this replaced the need for a public project tracking system.
 
@@ -68,7 +68,7 @@ Other people preferred such a system with boards in tools such as Trello or Line
 
 Others were less able to get time at company meetings and found their tracking boards weren't really visited. Someone noted that sharing daily goals, accomplishments, and work that’s in progress can help at times. Another person focused on finding the right Slack channel to celebrate a release, in this way thanking the people who helped and also announcing the change. This can help involve the right stakeholders.
 
-Another lone documentarian described their success in giving a presentation on documentation at a company all-hands event. By explaining how quality docs support the business and rely on the experience and knowledge of everyone in company, they were able to move a little closer to others seeing docs as something that one person can't do along and that they all can contribute to.
+Another lone documentarian described their success in giving a presentation on documentation at a company all-hands event. By explaining how quality docs support the business and rely on the experience and knowledge of everyone in company, they were able to move a little closer to others seeing that one person alone can't do all the docs and that they all can contribute.
 
 See more Write the Docs resources on `working with other roles </topics/#working-with-other-roles>`__.
 
