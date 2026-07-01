@@ -100,6 +100,24 @@ If you need to cancel your ticket because of fear of traveling internationally o
   {% endif %}
 </div>
 
+<div class="ticket">
+  <h2>
+    <strong>Corporate Concierge</strong>: <em>{{tickets.concierge.price}}</em> per ticket
+  </h2>
+  <p>
+    We offer a corporate concierge service if your company is unable to follow our regular ticket sales process through the website.
+    We can offer payment by invoice, process purchase orders, bank transfers, fill in supplier registration forms, and offer other support.
+    Your tickets will be issued after we have received payment. The minimum purchase is three tickets.
+  </p>
+  {% if flagticketsonsale %}
+  <ul>
+    <li>
+      <a href="mailto:{{email}}">Contact us at {{email}} for this service</a>
+    </li>
+  </ul>
+  {% endif %}
+</div>
+
 {% if shirts and flaghasshirts %}
 
 <div class="ticket">
