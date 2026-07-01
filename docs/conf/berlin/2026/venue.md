@@ -28,26 +28,7 @@ bUm Berlin is easily accessible by public transport. The following stops are wit
 - U8: Schönleinstraße
 - U1 and U3: Görlitzer Bahnhof
 
-### From the U-Bahn
-
-The best way to get to the venue is to take the **U8 (Schönleinstraße)** or the **U7/U8 (Hermannplatz)**.
-
-From Schönleinstraße, take Bürknerstraße to the intersection at Hobrechtbrücke, cross the bridge and turn right.
-
-From Hermannplatz, you can cross Sonnenallee, turn right into Weserstraße and then take the second street on the left (Friedelstraße). This also leads to Hobrechtbrücke, which you cross and then turn right onto Paul-Lincke-Ufer.
-
-Note: the subway station closest to bUm (Schönleinstraße) does not have an elevator. The Hermannplatz subway station has elevators.
-
-### Bus
-
-You can take the M29 bus to the Ohlauer Straße stop. From here, follow Ohlauer Straße south and turn left onto Paul-Lincke-Ufer.
-
-### Car
-
-If you would like to arrive by car, there are free public parking spaces on Paul-Lincke-Ufer - although these are often full.
-
 ## Conference Layout
-
 
 ### Registration, Welcome Wagon, and Sponsors
 
@@ -58,6 +39,7 @@ Location: Foyer on ground floor
 Location: Auditorium on ground floor
 
 ### Writing Day, Unconference, and Welcome Reception
+
 Location: bUm Box on first floor
 
 ### Catering and Communal Rooms
