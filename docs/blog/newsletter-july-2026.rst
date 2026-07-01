@@ -7,7 +7,7 @@
 Write the Docs Newsletter – July 2026
 #####################################
 
-Hello again, documentarians. Aaron here with the rest of the newsletter team to deliver insights from the community before talking a month off to refresh ourselves. In my case, it means finding somewhere to cool off for at least a little while.
+Hello again, documentarians. Aaron here with the rest of the newsletter team to deliver insights from the community before taking a month off to refresh ourselves. In my case, it means finding somewhere to cool off for at least a little while.
 
 In community news, the `Australia conference had its official launch </conf/australia/2026/news/welcome/>`__. Tickets and the Call for Proposals both open in July, so start your planning now. And the `Berlin conference announced its speakers </conf/berlin/2026/news/announcing-speakers/>`__ so you have a better idea of what insight to expect. And the `Kenya conference <https://www.meetup.com/wtd-kenya/events/314376384/>`__ is coming up in August if you can make that.
 
@@ -60,7 +60,7 @@ See more Write the Docs resources about `docs-as-code </topics/#docs-as-code>`__
 Making your workload visible to others
 --------------------------------------
 
-If you work alone on documentation within your organization, you may find it challenging to demonstrate all of the many things you are working on and you may get requests you aren't able to handle. To get help with this, a question was posed in the `#lone-writer channel <https://writethedocs.slack.com/archives/CAL5Y0NB1>`__ regarding how to make your workload more visible to others.
+If you work alone on documentation within your organization, you may find it challenging to demonstrate all of the many things you are working on and so you may get requests you aren't able to handle. To get help with this, a question was posed in the `#lone-writer channel <https://writethedocs.slack.com/archives/CAL5Y0NB1>`__ regarding how to make your workload more visible to others.
 
 When co-workers tag documentarians in various Slack threads without context, it can be difficult to communicate where a request sits within overall prioritization. Several respondents shared their experience applying project management strategies to raise awareness of what they are working on and the stage it is in. One uses weekly company-wide syncs to brief everyone on their work’s status and follows up with posts in relevant Slack channels. For them, this replaced the need for a public project tracking system.
 
