@@ -202,7 +202,7 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: True
-flagcfp: False
+flagcfp: True
 flagticketsonsale: True
 flagsoldout: False
 flagscheduleincomplete: True
@@ -225,4 +225,4 @@ flaghassponsorexpo: True
 flaghasboat: False
 flaghasvisiting: False
 flaghasteam: False
-flaghasattendeeguide: True
+flaghasattendeeguide: False
