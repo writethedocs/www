@@ -26,7 +26,6 @@ Hi sponsors! We're excited to have you join us for Write the Docs {{ name }} {{ 
 * 08:00: Arrival and booth setup for Keystone/Patron sponsors
 * 08:30: Doors to venue/sponsor booths open
 * 10:00–17:00: Speaker Talks and Unconference
-* 11:35: Booth sponsor introductions on main stage
 * 19:00–21:00: Social event
 
 **{{ date.day_four.dotw | upper }}, {{ date.day_four.date | upper }}**:
@@ -41,7 +40,7 @@ Hi sponsors! We're excited to have you join us for Write the Docs {{ name }} {{ 
 
 * **{{ date.day_two.dotw | upper }}**: The conference begins with [Writing Day](/conf/{{ shortcode }}/{{ year }}/schedule/) and typically is attended by one third of our attendees. The Welcome Reception takes place in the evening and brings in an additional wave of attendees. **There are no sponsor booths this day**, but sponsors are encouraged to submit and lead a Writing Day project.
 
-* **{{ date.day_three.dotw | upper }}**: Day 1 of Speaker Talks and Unconference. Booth setup for Keystone and Patron sponsors. Attendees arrive promptly when doors open. Sponsor introductions happen after the first coffee break on the main stage for Keystone and Patron sponsors. There are seven speakers, with a short break after each talk, and the Unconference track runs in parallel. An offsite social gathering is held {{ date.day_three.dotw }} evening.
+* **{{ date.day_three.dotw | upper }}**: Day 1 of Speaker Talks and Unconference. Booth setup for Keystone and Patron sponsors. Attendees arrive promptly when doors open. There are seven speakers, with a short break after each talk, and the Unconference track runs in parallel. An offsite social gathering is held {{ date.day_three.dotw }} evening.
 
 * **{{ date.day_four.dotw | upper }}**: Day 2 of Speaker Talks and Unconference. There are six speakers this day, leading to an earlier wrap up so people can travel. Schedule reflects {{ date.day_three.dotw }} with slight adjustments to beginning and end times. All materials must be removed from the venue on the last day of the conference.
 
@@ -55,7 +54,7 @@ Our [Venue page](/conf/{{ shortcode }}/{{ year }}/venue/) has more information a
 
 ## Sponsorship Benefits During the Conference
 
-Each sponsorship includes different opportunities to engage with our attendees. View further information below on specifics to sponsor booths, sponsor introductions, Writing Day, Unconference, and Lightning Talks.
+Each sponsorship includes different opportunities to engage with our attendees. View further information below on specifics to sponsor booths, Writing Day, Unconference, and Lightning Talks.
 
 ### Sponsor Booths - Keystone and Patron
 
@@ -84,16 +83,6 @@ Sponsor booths are set up in the main hallway on {{ date.day_three.dotw }} and {
 * **Presence:** The most important times to be present at your booth are during the breaks and at the start of the lunch break. This is when attendees are most engaged and you can easily chat with them without other events happening.
 * **Load-out:** You are responsible for loading in and out your entire booth setup. All materials must be out of the venue by 18:00 on {{ date.day_four.dotw }}.
 * **Tips:** Engage with folks as both a sponsor and attendee. QR codes are a great way to get people to a website quickly — we recommend a service like <https://www.qr-code-generator.com/> to create these.
-
-### Sponsor Introduction
-
-If you have a sponsorship booth, you will have time on the main stage to introduce yourself to attendees. This is a great opportunity to share what your company does and why they should come talk with you at the booth.
-
-**Logistics**:
-
-* Sponsor introductions happen at the end of the first coffee break on {{ date.day_three.dotw }}.
-* Keystone sponsors have 60 seconds and Patron sponsors have 30 seconds, to ensure all sponsors have equal time.
-* You will have a slide on the stage with your company logo. Let us know if you'd like a custom slide with additional information (e.g. a QR code and additional info).
 
 ### Lightning Talk Sponsor
 
