@@ -9,7 +9,7 @@ Write the Docs Newsletter – July 2026
 
 Hello again, documentarians. Aaron here with the rest of the newsletter team to deliver insights from the community before taking a month off to refresh ourselves. In my case, it means finding somewhere to cool off for at least a little while.
 
-In community news, the `Australia conference had its official launch </conf/australia/2026/news/welcome/>`__. Tickets and the Call for Proposals both open in July, so start your planning now. And the `Berlin conference announced its speakers </conf/berlin/2026/news/announcing-speakers/>`__ so you have a better idea of what insight to expect. And the `Kenya conference <https://www.meetup.com/wtd-kenya/events/314376384/>`__ is coming up in August if you can make that.
+In community news, see what the community board has been up to recently in the `Q2 quarterly update <blog/2026-Q2-community-board/>`__. Looking forward, the `Australia conference had its official launch </conf/australia/2026/news/welcome/>`__. Tickets and the Call for Proposals both open in July, so start your planning now. And the `Berlin conference announced its speakers </conf/berlin/2026/news/announcing-speakers/>`__ so you have a better idea of what insight to expect. And the `Kenya conference <https://www.meetup.com/wtd-kenya/events/314376384/>`__ is coming up in August if you can make that.
 
 This month we have articles on how to go about reusing content, what to consider when consolidating from many sources to docs-as-code, and how to make your workload visible as a lone documentarian. We'll be back with more articles in September, so stay safe until then!
 
