@@ -240,6 +240,7 @@ Storytelling
 Writing doc sets
 ----------------
 
+- |:newspaper:| `Developing a content reuse strategy </blog/newsletter-july-2026/#developing-a-content-reuse-strategy>`__
 - |:newspaper:| `Can docs be too comprehensive? </blog/newsletter-june-2026/#can-docs-be-too-comprehensive>`__
 - |:newspaper:| `Some kind of beautiful </blog/newsletter-may-2026/#some-kind-of-beautiful>`__
 - |:newspaper:| `Locked out: The effect on users from gated product docs </blog/newsletter-may-2025/#locked-out-the-effect-on-users-from-gated-product-docs>`__
@@ -546,6 +547,7 @@ Doc tools
 Docs-as-code
 ~~~~~~~~~~~~
 
+- |:newspaper:| `Migrating from many sources to docs-as-code </blog/newsletter-july-2026/#migrating-from-many-sources-to-docs-as-code>`__
 - |:newspaper:| `Learn docs-as-code </blog/newsletter-april-2025/#learn-docs-as-code>`__
 - |:newspaper:| `Where to keep content for reuse in docs-as-code </blog/newsletter-march-2025/#where-to-keep-content-for-reuse-in-docs-as-code>`__
 - |:newspaper:| `Dealing with images and other assets in docs-as-code </blog/newsletter-november-2024/#dealing-with-images-and-other-assets-in-docs-as-code>`__
@@ -581,6 +583,7 @@ DITA
 AI and LLMs
 ~~~~~~~~~~~
 
+- |:newspaper:| `Exporting Markdown documentation for LLMs </blog/newsletter-july-2026/#exporting-markdown-documentation-for-llms>`__
 - |:newspaper:| `Flagging AI content in documentation </blog/newsletter-june-2026/#flagging-ai-content-in-documentation>`__
 - |:newspaper:| `Docs without dedicated documentarians? </blog/newsletter-april-2026/#docs-without-dedicated-documentarians>`__
 - |:newspaper:| `Should we structure docs for AI agents? </blog/newsletter-march-2026/#should-we-structure-docs-for-ai-agents>`__
@@ -813,6 +816,7 @@ Working with other roles
 
 Including product managers, higher-ups, etc.
 
+- |:newspaper:| `Making your workload visible to others </blog/newsletter-july-2026/#making-your-workload-visible-to-others>`__
 - |:newspaper:| `Documenting features that don’t exist yet </blog/newsletter-december-2025/#documenting-features-that-don-t-exist-yet>`__
 - |:newspaper:| `Encouraging colleagues to search for content </blog/newsletter-october-2025/#encouraging-colleagues-to-search-for-content>`__
 - |:newspaper:| `Help contributors think like users </blog/newsletter-june-2025/#help-contributors-think-like-users>`__
