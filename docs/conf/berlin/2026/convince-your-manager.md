@@ -74,7 +74,7 @@ Remember to change the things in [brackets]!
 *Writing Day Benefits:*
 
 - *Introduce our project and community to a new audience and demographic in our industry*
-- *Get highlighted as a project in the conference blog and announcements (must submit online by April 17, 2026)*
+- *Get highlighted as a project in the conference blog and announcements (must submit online by {{ writing_day.project_deadline }})*
 - *Onboard documentation enthusiasts to increase the likelihood of post-conference contributions*
 - *Strategically tackle documentation tickets and requests*
 - *Update existing documentation
@@ -94,7 +94,7 @@ Peer review new and existing documentation*
 
 When discussing how to pitch Writing Day, a few helpful tips emerged:
 
-- Highlight specific projects from a previous [Writing Day project list.](https://www.writethedocs.org/conf/portland/{{year-1}}/writing-day/#project-list)
+- Highlight specific projects from a previous [Writing Day project list.](https://www.writethedocs.org/conf/portland/{{year}}/writing-day/#project-list)
 - If your community is looking for regular documentation contributions, this is a great place to onboard potential contributors and editors.
 - Attending raises the visibility of your company in the community. 
 - Establishes your team's reputation for caring about their docs.

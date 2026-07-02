@@ -19,7 +19,7 @@ Our goal is to have a balance between first-time and experienced speakers.
 
 ## Schedule and Logistics
 
-**Date: {{date.day_two.dotw}}, {{date.day_two.date}} and {{date.day_three.dotw}}, {{date.day_three.date}} after lunch**
+**Date: {{date.day_three.dotw}}, {{date.day_three.date}} and {{date.day_four.dotw}}, {{date.day_four.date}} after lunch**
 
 Lightning Talks can be submitted through an online form only. 
 

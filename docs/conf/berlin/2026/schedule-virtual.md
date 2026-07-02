@@ -37,7 +37,7 @@ A detailed schedule will be announced soon.
 
 ### Conference Talks
 
-Talks are around 30 minutes, with moderated 10 minute Q&A.
+Talks are around 30 minutes, with moderated 5 minute Q&A.
 
 - **Where**: Venueless virtual platform
 {% if not flaghasschedule %}
@@ -64,7 +64,7 @@ A detailed schedule will be announced soon.
 
 ### Conference Talks
 
-Talks are around 30 minutes, with moderated 10 minute Q&A.
+Talks are around 30 minutes, with moderated 5 minute Q&A.
 
 - **Where**: Venueless virtual platform
 {% if not flaghasschedule %}

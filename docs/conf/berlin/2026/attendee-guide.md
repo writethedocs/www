@@ -124,7 +124,7 @@ The [Unconference](/conf/{{shortcode}}/{{year}}/unconference/) consists of atten
 - Sign up to give a talk at the Registration table. Selections are announced on Monday and Tuesday before the lunch breaks.
 
 ### Sponsor Expo:
-[Sponsor Expo](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/) will include companies sharing products and others hiring. They'll be in the foyer both days.
+[Sponsor Expo](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/) will include companies sharing products and others hiring. They'll be in the foyer on both talk days, Monday and Tuesday.
 
 ### Monday Conference Party:
 This is our main social event of the conference. Drinks and snacks provided by us. It is a time to connect with other attendees outside of the scheduled programming. Come for an hour or stay the entire time!
