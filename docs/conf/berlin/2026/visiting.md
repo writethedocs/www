@@ -113,18 +113,13 @@ The following bus and U-Bahn stops are located within a 15-minute walk from the 
 
 BVG tickets are accepted on all public transport within zones ABC. You can buy physical tickets from machines at BVG stops. To buy digital tickets, use the [BVG mobile app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/ticket-app).
 
-**Selected Fares**
+Tap on tap off is **not** available on public transport in Berlin.
 
-| Ticket type              | Zones | Price in EUR | Validity                                                                                                      |
-| ------------------------ | ----- | ------------ | ------------------------------------------------------------------------------------------------------------- |
-| Single ticket            | AB    | 3.80         | 120 minutes                                                                                                   |
-| Single ticket (set of 4) | AB    | 11.60        | 120 minutes                                                                                                   |
-| Short trip ticket        | AB    | 2.60         | <li>U-Bahn and S-Bahn: 3 stops</li><li>Bus and tram: 6 stops without transfers</li><li>Not valid on RB trains |
-| Day ticket               | AB    | 10.60        | 24 hours                                                                                                      |
+As of July 2026, tickets were approximately EUR 4 for an inner city ticket, EUR 10 for a 24 hour ticket.      |
 
-Please note that to travel to and from BER airport, you'll need an additional extension ticket for zone C. It costs 2.30 EUR and is valid for up to 120 minutes.
+For travel to and from BER airport you need a ticket valid for zones ABC.
 
-You can find the list of all available tickets on the [official BVG website](https://www.bvg.de/en/subscriptions-and-tickets/all-tickets).
+You can find exact ticket prices on the [official BVG website](https://www.bvg.de/en/subscriptions-and-tickets/all-tickets).
 
 ### Bike and Scooter Rentals
 
