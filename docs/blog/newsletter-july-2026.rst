@@ -11,7 +11,7 @@ Hello again, documentarians. Aaron here with the rest of the newsletter team to 
 
 In community news, see what the community board has been up to recently in the `Q2 quarterly update <blog/2026-Q2-community-board/>`__. Looking forward, the `Australia conference had its official launch </conf/australia/2026/news/welcome/>`__. Tickets and the Call for Proposals both open in July, so start your planning now. And the `Berlin conference announced its speakers </conf/berlin/2026/news/announcing-speakers/>`__ so you have a better idea of what insight to expect. And the `Kenya conference <https://www.meetup.com/wtd-kenya/events/314376384/>`__ is coming up in August if you can make that.
 
-This month we have articles on how to go about reusing content, what to consider when consolidating from many sources to docs-as-code, and how to make your workload visible as a lone documentarian. We'll be back with more articles in September, so stay safe until then!
+This month we have articles on how to go about reusing content, what to consider when consolidating from many sources to docs-as-code, how to make your workload visible as a lone documentarian, and how far to go to meet customer requests for their AI needs. We'll be back with more articles in September, so stay safe until then!
 
 -----------------------------------
 Developing a content reuse strategy
@@ -73,6 +73,29 @@ Others were less able to get time at company meetings and found their tracking b
 Another lone documentarian described their success in giving a presentation on documentation at a company all-hands event. By explaining how quality docs support the business and rely on the experience and knowledge of everyone in company, they were able to move a little closer to others seeing that one person alone can't do all the docs and that they all can contribute.
 
 See more Write the Docs resources on `working with other roles </topics/#working-with-other-roles>`__.
+
+-----------------------------------------
+Exporting Markdown documentation for LLMs
+-----------------------------------------
+
+Is it a good idea to provide customers with an offline Markdown export of product documentation? One documentarian was asked to do so to support a customer using it with an offline LLM, and so they turned to the WTD community for guidance. The response was that beyond just how to generate the files, it's important to also consider the practical challenges of maintaining the copies.
+
+Keeping exported documentation up to date is not a trivial task. Large documentation sets can change frequently, making offline copies outdated almost immediately. Depending on the documentation platform, generating clean Markdown may also require additional tooling rather than being a built-in export option.
+
+Copies might create the added responsibility of distributing updated exports. If you offer Markdown files, customers may expect ongoing maintenance. On the other hand, refusing the request doesn't necessarily stop customers from creating their own copies. They might do so by scraping your documentation with results that might be a worse version of what you can offer.
+
+Can AI help? AI isn't the best tool for converting documentation. While AI can help generate scripts or automate parts of the workflow, deterministic tools such as `Pandoc <https://pandoc.org/>`__ or HTML-to-Markdown converters are generally more reliable, faster, and less expensive for large-scale conversions.
+
+Some practical suggestions included:
+
+- Treating Markdown exports as a premium offering with paid updates.
+- Providing a one-time zipped Markdown package and making customers responsible for future updates.
+- Packaging the documentation as a local Model Context Protocol (MCP) server for offline AI use.
+- Preparing documentation for AI consumption by publishing Markdown versions of pages, providing an `llms.txt` file, or offering a "Copy as Markdown" option.
+
+In many ways, the real challenge isn't generating Markdown, it's deciding who owns the ongoing maintenance and choosing a sustainable way to deliver it.
+
+See more Write the Docs resources on `AI and LLMs </topics/#ai-and-llms>`__.
 
 ----------------
 From our sponsor
