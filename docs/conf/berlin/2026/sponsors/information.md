@@ -102,7 +102,7 @@ If you are sponsoring a Lightning Talk, you will be given 60 seconds to share ab
 Host a project at Writing Day. This is a place where the community gathers to get actual work done and is a great opportunity to meet with a small group and have extended interaction with attendees.
 
 * View our [Lead a Project](https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/writing-day/#lead-a-project) for more information.
-* [Submit your Writing Day project here.](https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform?usp=dialog) All projects submitted by {{ writing_day.project_deadline }} will be published to our website, which encourages attendees to join your project, engage with your product, and contribute to your documentation.
+* All projects submitted by {{ writing_day.project_deadline }} will be published to our website, which encourages attendees to join your project, engage with your product, and contribute to your documentation.{% if writing_day.url %} [Submit your Writing Day project here.]({{ writing_day.url }}){% endif %}
 
 ### Host an Unconference Session
 
