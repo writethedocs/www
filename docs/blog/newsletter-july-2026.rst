@@ -101,13 +101,13 @@ See more Write the Docs resources on `AI and LLMs </topics/#ai-and-llms>`__.
 From our sponsor
 ----------------
 
-This month’s newsletter is sponsored by `Beil <https://biel.ai/?utm_source=writethedocs>`__.
+This month’s newsletter is sponsored by `Biel <https://biel.ai/?utm_source=writethedocs>`__.
 
-.. image:: /_static/img/sponsors/beil.png
+.. image:: /_static/img/sponsors/biel.png
   :align: center
   :width: 50%
   :target: https://biel.ai/?utm_source=writethedocs
-  :alt: Beil logo
+  :alt: Biel logo
 
 Your docs already have the answers, but your users just can't find them. 
 
