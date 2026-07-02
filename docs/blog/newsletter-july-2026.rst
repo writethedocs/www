@@ -72,6 +72,28 @@ Another lone documentarian described their success in giving a presentation on d
 
 See more Write the Docs resources on `working with other roles </topics/#working-with-other-roles>`__.
 
+----------------
+From our sponsor
+----------------
+
+This month’s newsletter is sponsored by `Beil <https://biel.ai/?utm_source=writethedocs>`__.
+
+.. image:: /_static/img/sponsors/beil.png
+  :align: center
+  :width: 50%
+  :target: https://biel.ai/?utm_source=writethedocs
+  :alt: Beil logo
+
+Your docs already have the answers, but your users just can't find them. 
+
+Biel.ai adds an "Ask AI" button to your documentation, so users get the actual answer with the source cited instead of ten blue links. Every unanswered question lands in your dashboard, so the team sees what to write next. 
+
+Works with Docusaurus, Sphinx, MkDocs, and 20+ others, plus one-click apps for Slack, Teams, and Discord, and an MCP server so your docs show up inside Claude, Cursor, and Copilot.
+
+`Sign up <https://biel.ai/?utm_source=writethedocs>`__ in June to try Biel.ai for free for 30 days!
+
+*Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
+
 ------------------------
 Write the Docs resources
 ------------------------
