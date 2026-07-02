@@ -9,7 +9,7 @@ Write the Docs Newsletter – July 2026
 
 Hello again, documentarians. Aaron here with the rest of the newsletter team to deliver insights from the community before taking a month off to refresh ourselves. In my case, it means finding somewhere to cool off for at least a little while.
 
-In community news, see what the community board has been up to recently in the `Q2 quarterly update <blog/2026-Q2-community-board/>`__. Looking forward, the `Australia conference had its official launch </conf/australia/2026/news/welcome/>`__. Tickets and the Call for Proposals both open in July, so start your planning now. And the `Berlin conference announced its speakers </conf/berlin/2026/news/announcing-speakers/>`__ so you have a better idea of what insight to expect. And the `Kenya conference <https://www.meetup.com/wtd-kenya/events/314376384/>`__ is coming up in August if you can make that.
+In community news, see what the community board has been up to recently in the `Q2 quarterly update </blog/2026-Q2-community-board/>`__. Looking forward, the `Australia conference had its official launch </conf/australia/2026/news/welcome/>`__. Tickets and the Call for Proposals both open in July, so start your planning now. And the `Berlin conference announced its speakers </conf/berlin/2026/news/announcing-speakers/>`__ so you have a better idea of what insight to expect. And the `Kenya conference <https://www.meetup.com/wtd-kenya/events/314376384/>`__ is coming up in August if you can make that.
 
 This month we have articles on how to go about reusing content, what to consider when consolidating from many sources to docs-as-code, how to make your workload visible as a lone documentarian, and how far to go to meet customer requests for their AI needs. We'll be back with more articles in September, so stay safe until then!
 
@@ -17,7 +17,7 @@ This month we have articles on how to go about reusing content, what to consider
 Developing a content reuse strategy
 -----------------------------------
 
-Content reuse, the practice of using the same content in multiple places, has been an ongoing topic for documentarians. For some, the reused content may be just product names. But many documentarians use boilerplate content (such as admonitions, paragraphs, or standard procedures) that must be consistent throughout documentation locations. Many teams use documentation platforms (such as `Paligo <https://paligo.net/content-reuse/>`__, `Docusaurus <https://docusaurus.io/docs/markdown-features/react#importing-markdown>`__, and `Flare <https://www.madcapsoftware.com/articles/the-elusive-promise-of-content-reuse/>`__) to support content reuse.
+Content reuse, the practice of using the same content in multiple places, has been an ongoing topic for documentarians. For some, the reused content may be just product names. But many documentarians use boilerplate content (such as admonitions, paragraphs, or standard procedures) that must be consistent throughout documentation locations. Many teams use documentation platforms/tools (such as `Paligo <https://paligo.net/content-reuse/>`__, `Docusaurus <https://docusaurus.io/docs/markdown-features/react#importing-markdown>`__, and `Flare <https://www.madcapsoftware.com/articles/the-elusive-promise-of-content-reuse/>`__) to support content reuse.
 
 Successful content reuse requires a clear strategy — not just maximizing reuse. Minimally, writers must evaluate whether a piece of content is likely to require updates in the future. 
 
