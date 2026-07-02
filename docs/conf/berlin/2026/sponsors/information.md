@@ -40,7 +40,7 @@ The [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) will be availabl
 
 ## Conference Overview
 
-* **{{ date.day_two.dotw | upper }}**: The conference begins with [Writing Day](/conf/{{ shortcode }}/{{ year }}/schedule/) and typically is attended by one third of our attendees. The Welcome Reception takes place in the evening and brings in an additional wave of attendees. **There are no sponsor booths this day**, but sponsors are encouraged to submit and lead a Writing Day project.
+* **{{ date.day_two.dotw | upper }}**: The conference begins with [Writing Day](/conf/{{ shortcode }}/{{ year }}/writing-day/) and typically is attended by one third of our attendees. The Welcome Reception takes place in the evening and brings in an additional wave of attendees. **There are no sponsor booths this day**, but sponsors are encouraged to submit and lead a Writing Day project.
 
 * **{{ date.day_three.dotw | upper }}**: Day 1 of Speaker Talks and Unconference. Keystone and Patron sponsors set up their booths before doors open, and are introduced on the main stage after the lightning talks. There are seven speakers, with a short break after each talk, and the Unconference track runs in parallel. An offsite social gathering follows in the evening.
 
