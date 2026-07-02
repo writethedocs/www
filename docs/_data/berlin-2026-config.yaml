@@ -149,10 +149,10 @@ about:
   attendees: 200
   social_venue: TBC
   venue: bUm Berlin
-  venue_address: Paul-Lincke-Ufer 21, 10999 Berlin
+  venue_address: Paul-Lincke-Ufer 21, 10999 Berlin, Germany
   photos: TBD
-  mainroom: Main stage
-  unconfroom: TBC
+  mainroom: Auditorium on ground floor
+  unconfroom: bUm Box on first floor
   projector_ratio: "16:9"
 
 cfp:
