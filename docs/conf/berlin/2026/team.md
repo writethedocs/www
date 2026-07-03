@@ -40,7 +40,7 @@ Eric is one of the co-founders of Write the Docs, and also one of the co-founder
 
 ![](/_static/img/2024/team/katie.jpg)
 
-Katie Janovec is an Event Producer and Project Manager based in Portland, Oregon. She enjoys organizing a variety of events, including conferences, galas, block parties, dance and music events, motorcycle shows, and more. Katie enjoys organizing events as it fosters community connection, growth, and joy. Katie is excited to be a part of her first Berlin conference and fourth Write the Docs conference.
+Katie Janovec is an Event Producer and Project Manager based in Portland, Oregon. She enjoys organizing a variety of events, including conferences, galas, block parties, dance and music events, motorcycle shows, and more. Katie enjoys organizing events as it fosters community connection, growth, and joy. Katie is excited to be back for her second Berlin conference.
 
 ### Andrea Kao (she/her)
 

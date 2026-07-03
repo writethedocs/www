@@ -13,7 +13,7 @@ Writing Day is modeled after the concept of [code sprints](https://en.wikipedia.
 
 Attendees can lead a Writing Day project or join and contribute to someone else's project. Projects can run for a half-day or full-day.
 
-More details are below. No additional sign up is required, and the full schedule will be released in the coming months. Ready to submit a Writing Day project? Click the link below.
+More details are below. No additional sign up is required, and the full schedule will be released in the coming months.{% if writing_day.url %} Ready to submit a Writing Day project? Click the link below.{% endif %}
 
 {% if writing_day.url %}
 <div class="announcement" style="background-color:white;">
@@ -95,6 +95,7 @@ Writing Day is the perfect opportunity to participate and learn about new projec
 ## Project List
 
 If you are planning to contribute, review the project list before the conference.
+Incoming project information, check back here for updates closer to the conference.
 
 ### Examples of projects you might see at the conference
 
@@ -107,11 +108,7 @@ If you are planning to contribute, review the project list before the conference
 - Love letters
 - The Documentarian Manifesto
 
-Find specific examples on the [Portland Writing Day {{year-1}} project list](https://www.writethedocs.org/conf/portland/{{year-1}}/writing-day/#project-list).
-
-## Project list
-
-Incoming project information, check back here for updates closer to the conference.
+Find specific examples on the [Portland Writing Day {{year}} project list](https://www.writethedocs.org/conf/portland/{{year}}/writing-day/#project-list).
 
 ## Contact us
 
