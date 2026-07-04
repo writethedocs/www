@@ -1,3 +1,8 @@
+2026 Conferences
+----------------
+
+- :doc:`Portland 2026 </conf/portland/2026/index>`, May 3-5, **Portland, Oregon**
+
 2025 Conferences
 ----------------
 
