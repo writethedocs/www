@@ -8,8 +8,9 @@
 * sam@writethedocs.org
 * Slack: plaindocs
 
-**Mikey Ariel**
+**Eric Holscher**
 
-* mikey@writethedocs.org
-* Slack: thatdocslady
+* eric@writethedocs.org
+* Phone: 757-705-0532
+* Slack: ericholscher
 

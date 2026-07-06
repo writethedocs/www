@@ -124,7 +124,7 @@ date: # how do we handle these? human readable would be nice.
     summary: Kick off the conference with Writing Day and work with fellow documentarians on a project. Followed by the opening reception.
     icon: writing
     dotw: Sunday
-    writing_day_time: 10:00-18:00
+    writing_day_time: 10:00-17:00
     reception_time: 17:00-19:00
   day_three:
     event: Conference Day 1
@@ -168,7 +168,7 @@ unconf:
 
 writing_day:
   url: ""
-  date: Sunday, September 6, 10:00-18:00 CEST
+  date: Sunday, September 6, 10:00-17:00 CEST
   project_deadline: "August 17, 2026"
 
 volunteer:
@@ -202,7 +202,7 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: True
-flagcfp: True
+flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
 flagscheduleincomplete: True

@@ -1,6 +1,6 @@
 ---
 template: {{year}}/generic.html
-# banner: _static/conf/images/headers/berlin-2026-visiting.jpg
+banner: _static/conf/images/headers/berlin-2026-group-photo.jpg
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
@@ -33,6 +33,7 @@ We're working on the details of the conference, including the venue, schedule, a
 
 - [Atelier Dough](https://www.atelierdough.com/)
 - [La Maison](https://www.lamaison.berlin/en/)
+- [Loz Cafe](https://www.lozberlin.com/)
 - [SPIERS good food Café](https://spiersgoodfood.eatbu.com/?lang=en)
 
 **Lunch and Dinner**
@@ -40,6 +41,7 @@ We're working on the details of the conference, including the venue, schedule, a
 - [Ammazza che Pizza](https://www.ammazza.de/)
 - [Dirty dumplings](https://www.instagram.com/dirtydumplingsberlin/)
 - [Kitten Deli](https://www.instagram.com/kitten.deli/)
+- [Kotti Dang](https://www.kottidang.de/)
 - [lütt](https://luett-berlin.de/)
 
 ### Food near bUm (10-15 minute walk)
@@ -147,8 +149,11 @@ You can find exact ticket prices on the [official BVG website](https://www.bvg.d
 
 - [Berlinische Galerie](https://berlinischegalerie.de/en/)
 - [Deutsches Technikmuseum](https://technikmuseum.berlin/en/)
+- [Gropius Bau](https://www.berlinerfestspiele.de/en/gropius-bau)
 - [Hamburger Bahnhof](https://www.smb.museum/en/museums-institutions/hamburger-bahnhof/home/)
 - [The Jewish Museum Berlin](https://www.jmberlin.de/en)
 - [Museums in Kulturforum](https://www.smb.museum/museen-einrichtungen/kulturforum/home/)
 - [Museum für Naturkunde](https://www.museumfuernaturkunde.berlin/en)
 - [Museumsinsel](https://www.smb.museum/museen-einrichtungen/museumsinsel-berlin/home/)
+- [Ramones Museum](https://www.ramonesmuseum.com/)
+- [Topographie des Terrors](https://www.topographie.de/en/)

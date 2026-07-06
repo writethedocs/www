@@ -8,9 +8,10 @@ template: {{year}}/generic.html
 
 .. include:: ../../../code-of-conduct.rst
    :start-after: conference-include-body
-   :end-before: Berlin Code of Conduct Team
-```
+   :end-before: Portland Code of Conduct Team
 
-```{eval-rst}
-.. include:: /include/conf/coc/na-coc.rst
+Berlin Code of Conduct Team
+---------------------------
+
+.. include:: /include/conf/coc/eu-coc.rst
 ```
