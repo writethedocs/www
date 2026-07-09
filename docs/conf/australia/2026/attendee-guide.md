@@ -3,9 +3,9 @@ template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
-# Attendee Guide
+# Attendee guide
 
-The Attendee Guide provides conference information and gives strategies and tips for new (and experienced) attendees to get plugged in and connect with others! We've gathered info here that will help you navigate the conference like a pro and make you feel more at home.
+The Attendee guide provides conference information and gives strategies and tips for new (and experienced) attendees to get plugged in and connect with others! We've gathered info here that will help you navigate the conference like a pro and make you feel more at home.
 
 ## Where can I ask a question?
 
@@ -22,12 +22,12 @@ Review our [Venue](https://www.writethedocs.org/conf/australia/2024/venue/) page
 
 ## Eating
 
-- Coffee, tea, and water are provided on conference days in the Foyer close to Price Hall.
+- Coffee, tea, and water are provided on conference days in the Foyer.
   - Vegan, vegetarian, gluten-free, and dairy-free options will be offered
   - Ingredients will be listed
   - Please email swapnil@writethedocs.org for other dietary requirements
 - Bring a water bottle to make it easier for you to stay hydrated.
-- There are many food and beverage options within 0.5 kms around the conference venue. Explore Melbourne's amazing food scene on the [Visiting Melbourne](https://www.writethedocs.org/conf/australia/2024/visiting/) page.
+- There are many food and beverage options within 1 kms around the conference venue. Explore Melbourne's amazing food scene on the [Visiting Melbourne](https://www.writethedocs.org/conf/australia/2024/visiting/) page.
 
 ## Dress Code
 
@@ -36,13 +36,13 @@ Review our [Venue](https://www.writethedocs.org/conf/australia/2024/venue/) page
 
 ## Driving and Parking
 
-If you drive to the conference, note that the venue does not have parking on-site. You are able to park in the nearby streets (hourly) or commercial  car parks. The nearest commercial parking is at QV Parking Complex, one block down from our conference venue. Be mindful that the venue is located in an extremely high-pedestrian traffic area, so finding on-street parking close to the venue for long hours may be a challenge.
+If you drive to the conference, note that the venue does not have parking on-site. You are able to park in the nearby streets (hourly) or commercial  car parks. The nearest commercial parking is at Wilson Parking Park Hyatt and Wilson Parking Lansdowne Street, close to our conference venue. Be mindful that the venue is located in an extremely high-pedestrian traffic area, so finding on-street parking close to the venue for long hours may be a challenge.
 
-The conference venue is located within a 5-minute walk of Melbourne Central Train Station, and very close to tram lines that run along La Trobe, Swanston and Elizabeth Streets, so public transport is definitely recommended.
+The conference venue is located within a 5-minute walk of Parliament Train Station, and very close to tram lines that run along Collins, and Bourke Street, so public transport is definitely recommended.
 
 ## Hotels and Transportation
 
-- The conference is located in Melbourne Central Business District (CBD). There are many hotel options within a 5-10 minute drive, some of these are walking distance from the venue. View our [Visiting Melbourne](https://www.writethedocs.org/conf/australia/2024/visiting/#where-to-stay) page for recommended hotels.
+- The conference is located on the eastern border of the Melbourne Central Business District (CBD). There are many hotel options within a 5-10 minute drive, some of these are walking distance from the venue. View our [Visiting Melbourne](https://www.writethedocs.org/conf/australia/2024/visiting/#where-to-stay) page for recommended hotels.
 - Melbourne is an accessible city and there are many transportation options available including buses, trams, rideshare, and taxis. View our [Visiting Melbourne](https://www.writethedocs.org/conf/australia/2024/visiting/#getting-around-melbourne) for information.
 
 ## Accessibility
@@ -82,7 +82,7 @@ If you arrive a day or two earlier, explore the beautiful downtown attractions o
 
 ### Thursday Social Event
 
-This is our main social event of the conference and held outside of the main venue. It is a time to connect with other attendees outside of the scheduled programming. Last year, there was an epic sticker table.
+This is our main social event of the conference and held outside of the main venue. It is a time to connect with other attendees outside of the scheduled programming.
 
 - Come for an hour or stay the entire time!
 
