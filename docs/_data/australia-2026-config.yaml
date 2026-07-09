@@ -67,13 +67,13 @@ tickets:
   independent:
     price: $250
   student:
-    price: $100
+    price: $125
   virtual_corporate:
     price: $175
   virtual_independent:
     price: $125
   virtual_student:
-    price: $50
+    price: $75
 
 sponsorship:
   first_draft:
@@ -137,7 +137,7 @@ about:
 
 cfp:
   url: "https://pretalx.com/wtd-australia-2026/cfp"  # Open mid July, approx 8 weeks to submit
-  ends: "Sept 04, 2026"                           # (Mon) 2 weeks, to review. It'll take a little longer to announce
+  ends: "Sept 11, 2026"                           # (Mon) 2 weeks, to review. It'll take a little longer to announce
   notification: "Sept 18, 2026"                   # (Mon) 8 weeks to write and prepare
   speaker_tickets_by: "November 1 2026"           # (Mon) Approx 3 weeks before
   video_by: "November 16, 2026"                   # Upload date for recorded talks (remote speakers)
