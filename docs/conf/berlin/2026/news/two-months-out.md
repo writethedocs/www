@@ -1,0 +1,69 @@
+---
+template: {{year}}/generic.html
+og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
+---
+
+```{post} July 9, 2026
+:tags: {{shortcode}}-{{year}}, speakers, tickets, visiting, writing-day, sponsors
+```
+
+# Conference is 2 Months Away!
+
+Write the Docs {{ city }} is just two months away, on **{{ date.short }}**. If you have not grabbed your ticket yet, now is a great time. Check out our [speaker lineup](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/), or read on to learn about our Attendee Guide, what to expect on Writing Day, and tips for planning your trip to Berlin.
+
+<div class="announcement" style="background-color:white;">
+    <div class="uk-container">
+    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}">Buy your ticket</a>
+    </div>
+</div>
+
+## Prepare for the conference with the Attendee Guide
+
+Wondering where to ask questions, where to get food, or how to get the most out of Write the Docs? Check out our [Attendee Guide](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/attendee-guide/) for all that info and more.
+
+## Writing Day kicks off the conference
+
+Writing Day is on **{{ date.day_two.dotw }}, {{ date.day_two.date }}** at [bUm](https://www.bum.berlin/), and is included with every in-person ticket. It is a full day for documentarians to work together on real projects, whether that is open-source documentation, community content, or something you bring yourself.
+
+Here is how the day is shaping up:
+
+- **8:30** - Doors open
+- **9:30** - Welcome and overview
+- **10:00** - Project announcements and projects begin
+- **12:30-14:00** - Lunch break
+- **14:00-16:30** - Afternoon sessions
+- **17:00-19:00** - Welcome reception
+
+You can lead a half-day or full-day project, or just show up and join one on the day. If you plan to lead, submit your project by **{{ writing_day.project_deadline }}** so we can share it in a pre-conference blog post and email. See the [Writing Day page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/) for more details.
+
+{% if writing_day.url %}
+<div class="announcement" style="background-color:white;">
+    <div class="uk-container">
+    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ writing_day.url }}">Submit your Writing Day project</a>
+    </div>
+</div>
+{% endif %}
+
+## Planning your trip to Berlin
+
+If you are travelling to Berlin, our [Visiting Berlin](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/) page has tips on getting around, neighbourhoods to consider staying in, and things to do while you are here. The [Venue page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/venue/) has directions to bUm from the nearest U-Bahn stations, including notes on step-free access.
+
+## Join the conversation on Slack
+
+Our [Slack community](https://www.writethedocs.org/slack/) is the best place to connect with other attendees before, during, and after the conference. The `#wtd-conferences` channel is the primary space for conference chatter. If you have not joined yet, note that there is a short signup form before you can create your account.
+
+## Thanks to our sponsors
+
+We are grateful to have the support of the following companies in {{year}}:
+
+```{eval-rst}
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-config.yaml
+   :template: {{year}}/sponsors-simplelist.rst
+```
+
+If your company is interested in sponsoring, you can find all the details in our [sponsorship prospectus](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/).
+
+For the latest updates, follow us on [LinkedIn](https://www.linkedin.com/company/write-the-docs), [Bluesky](https://bsky.app/profile/writethedocs.bsky.social), and [Mastodon](https://fosstodon.org/@writethedocs).
+
+We look forward to seeing you in Berlin in September!

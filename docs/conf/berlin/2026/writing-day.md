@@ -30,14 +30,12 @@ More details are below. No additional sign up is required, and the full schedule
 Writing Day is an all-day event designed for you to join in throughout the day.
 We may make changes to the structure closer to the conference.
 
-- **Morning Session**
-  - Welcome and overview
-  - Project announcements: Leads give a 2 minute summary and projects begin
-- **Lunch Break**
-- **Afternoon Session**
-  - Project announcements: Leads give a 2 minute summary, starting with the afternoon-only projects, and projects reconvene
-
-Exact times will be posted on our [schedule page](/conf/{{shortcode}}/{{year}}/schedule/).
+- **8:30** - Doors open
+- **9:30** - Welcome and overview
+- **10:00** - Project announcements: leads give a 2 minute summary and projects begin
+- **12:30-14:00** - Lunch break
+- **14:00-16:30** - Afternoon sessions: leads give a 2 minute summary, starting with the afternoon-only projects, and projects reconvene
+- **17:00-19:00** - Welcome reception
 
 ## How to Prepare
 

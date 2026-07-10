@@ -19,8 +19,8 @@ The [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) will be availabl
 
 **{{ date.day_two.dotw | upper }}, {{ date.day_two.date | upper }}**:
 
-* 09:00: Doors open
-* 10:00–17:00: Writing Day and check in
+* 08:30: Doors open, check in
+* 09:30–16:30: Writing Day
 * 17:00–19:00: Welcome reception
 
 **{{ date.day_three.dotw | upper }}, {{ date.day_three.date | upper }}**:
