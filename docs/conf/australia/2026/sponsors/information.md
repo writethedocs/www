@@ -59,7 +59,7 @@ Attendees are always looking for great products to use in their day-to-day workf
 
 - **Keystone:** a 200 × 80 cm (6.5') table with 2 chairs, a monitor, and access to power and Wi‑Fi
 - **Patron:** a 200 × 80 cm (6.5') table with 2 chairs, and access to power and Wi‑Fi
-- Monitor rental available for Patron sponsors for {{ sponsorship.monitor_rental.price }}
+- Monitor rental available for Patron sponsors
 
 #### What the sponsor provides
 
