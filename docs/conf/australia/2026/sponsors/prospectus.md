@@ -68,17 +68,18 @@ The **Keystone** sponsorship highlights you as the primary sponsor of the confer
 
 #### Benefits
 
-- {{sponsorship.keystone.tickets}} tickets, with additional available to purchase at a discounted rate of {{sponsorship.extra_ticket.price}}/ticket.
-- Most visible **sponsorship booth** for the entire conference (Thursday & Friday). Monitor included in booth. Booths placed in order of purchase.
-- Sponsorship of a primary Write the Docs conference event (Unconference, Writing Day, or Social Event).
-- **60 second introduction** on the main stage introducing your company.
-- Large logo on print material.
+- Fifteen (15) tickets, with additional available to purchase at a discounted rate of $300/ticket.
+- Sponsorship of a primary Write the Docs conference event (Unconference, Writing Day). Logo on print material.
 - Large logo included in intermission slides and on talk videos.
-- Logo and long description (250 words) on the conference website.
-- Name in all conference email promotion.
-- Dedicated social media post.
-- One email promotion to our conference email list. Includes logo and 2 paragraphs of copy.
+- Logo and long description (500 characters) on the conference website.
+- Logo in conference email promotion.
 - Display promotional “Swag” items on the conference swag table (provided by sponsor).
+- Dedicated social media post on LinkedIn and Twitter.
+- Three (3) featured job postings in our Jobs Slack channel, also promoted in our newsletter subscribers.
+- One email promotion to our conference email list. Includes logo and 2 paragraphs of copy.
+- Slack Sponsorship promotion in Write the Docs Slack channel ahead of the conference.
+
+The **Keystone** package costs AUD **{{sponsorship.keystone.price}}**.
 
 {% endif %}
 
@@ -90,14 +91,16 @@ The **Patron** package is great for a larger company to get in front of our atte
 
 #### Benefits
 
-- {{sponsorship.patron.tickets}} tickets, with additional available to purchase at a discounted rate of {{sponsorship.extra_ticket.price}}/ticket.
-- A **sponsorship booth** for the entire conference (Thursday & Friday). Monitor rental available for {{sponsorship.monitor_rental.price}}.
-- **30 second introduction** on the main stage introducing your company.
-- Dedicated social media post.
+- Ten (10) tickets, with additional available to purchase at a discounted rate of $300/ticket.
 - Logo included in intermission slides and on talk videos.
-- Logo and description (150 words) on the conference website.
-- Name in conference email promotion.
+- Logo and description (250 characters) on the conference website.
+- Logo in conference email promotion.
 - Display promotional “Swag” items on the conference swag table (provided by sponsor).
+- Dedicated social media post on LinkedIn and Twitter.
+- Two (2) featured job postings in our Jobs Slack channel, also promoted in our newsletter subscribers.
+- One email promotion to our conference email list. Includes logo and 2 paragraphs of copy.
+
+The **Patron** package costs AUD **{{sponsorship.patron.price}}**.
 
 ### Publisher
 
@@ -107,12 +110,13 @@ The **Publisher** package is great for a company looking to send some employees 
 
 #### Benefits
 
-- {{sponsorship.publisher.tickets}} tickets, with additional available to purchase at a discounted rate of {{sponsorship.extra_ticket.price}}/ticket.
-- Logo included in intermission slides and on talk videos.
-- Dedicated social media post.
-- Logo and description (100 words) on the conference website.
+- Seven (7) tickets, with additional available to purchase at a discounted rate of $300/ticket.
+- Four (4) featured job postings in our Jobs Slack channel, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
+- Logo on the conference website.
 - Name included in all conference emails to attendees.
-- Display promotional "Swag" items on the conference swag table (provided by sponsor).
+- Display promotional “Swag” items on the conference swag table (provided by sponsor).
+
+The **Publisher** package costs AUD **{{sponsorship.publisher.price}}**.
 
 ### Second Draft
 
@@ -122,12 +126,25 @@ The **Second Draft** package gives you visibility on the conference website and 
 
 #### Benefits
 
-- {{sponsorship.second_draft.tickets}} tickets, with additional available to purchase at a discounted rate of {{sponsorship.extra_ticket.price}}/ticket.
+- Three (3) tickets.
 - Logo on the conference website.
 - Name included in all conference emails to attendees.
 - Display promotional (“Swag”) items on the conference swag table (provided by sponsor).
 
-## Other Sponsorship Opportunities
+The **Second Draft** package costs AUD **{{sponsorship.second_draft.price}}**.
+
+### First Draft
+
+The **First Draft** package is only available to startups (under 15 employees), non-profits, and open source organizations.
+
+- Two (2) tickets.
+- Logo on the conference website.
+- Name included in all conference emails to attendees.
+- Display promotional (“Swag”) items on the conference swag table (provided by sponsor).
+
+The **First Draft** package costs AUD **{{sponsorship.first_draft.price}}**.
+
+## Other Sponsorship opportunities
 
 The following a la carte offerings are available either independently or combined with one of the previous packages to increase visibility at the event.
 
