@@ -13,7 +13,7 @@ Writing Day is modeled after the concept of [code sprints](https://en.wikipedia.
 
 Attendees can lead a Writing Day project or join and contribute to someone else's project. Projects can run for a half-day or full-day.
 
-More details are below. No additional sign up is required, and the full schedule will be released in the coming months.{% if writing_day.url %} Ready to submit a Writing Day project? Click the link below.{% endif %}
+More details are below. No additional sign up is required.{% if writing_day.url %} Ready to submit a Writing Day project? Click the link below.{% endif %}
 
 {% if writing_day.url %}
 <div class="announcement" style="background-color:white;">
