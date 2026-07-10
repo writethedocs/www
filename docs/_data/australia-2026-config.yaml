@@ -171,26 +171,29 @@ sponsors:
   in_kind:
 
 # Things that change over time, listed in order of change
-flaglanding: True
+flaglanding: False
 flaghassponsors: False
-flagcfp: False
-flagticketsonsale: False
+flagcfp: True
+flagticketsonsale: True
 flagsoldout: False
+flagscheduleincomplete: False
 flagspeakersannounced: False
 flagrunofshow: False
 flaghasschedule: False
-flaghasunconf: False
 flaghasshirts: False
-flagvideos: False
 flaglivestreaming: False
+flagvideos: False
 flagpostconf: False
-flagcancelled: False
-flaghaslightningtalks: False
+flaghasbadgeflair: False
 
 # Truthy things that don't change
+flaghasunconf: True
 flaghashike: False
 flaghasfood: True
-flaghasboat: False
 flaghaswritingday: False
+flaghaslightningtalks: True
 flaghassponsorexpo: False
-flaghasbadgeflair: False
+flaghasboat: False
+flaghasvisiting: True
+flaghasteam: False
+flaghasattendeeguide: False
