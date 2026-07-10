@@ -224,5 +224,5 @@ flaghaslightningtalks: True
 flaghassponsorexpo: True
 flaghasboat: False
 flaghasvisiting: True
-flaghasteam: True
+flaghasteam: False
 flaghasattendeeguide: True
