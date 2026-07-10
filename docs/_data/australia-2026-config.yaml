@@ -31,14 +31,14 @@ buttons:
 #      link: /news/welcome
     # - text: Sponsor us
       # link: /sponsors/prospectus
-#    - text: Submit a Talk
-#      link: /cfp
+    - text: Submit a Talk
+      link: /cfp
     # - text: See the Schedule
     #   link: /schedule
     # - text: See the Speakers
     #   link: /speakers
-#    - text: Buy a Ticket
-#      link: /tickets
+    - text: Buy a Ticket
+      link: /tickets
     # - text: Attendee Guide
     #   link: /attendee-guide
     # - text: Watch the Live Stream
@@ -48,8 +48,8 @@ buttons:
 #      link: /news/welcome
     # - text: Sponsor us
       # link: /sponsors/prospectus
-#    - text: Submit a Talk
-#      link: /cfp
+    - text: Submit a Talk
+      link: /cfp
 #    - text: Buy a Ticket
 #      link: /tickets
     # - text: See the Schedule
@@ -148,6 +148,10 @@ unconf:
   url: https://bit.ly/wtd-au-2026
   date: "Thursday and Friday after the morning tea break"
 
+writing_day:
+  url: ""
+  date: 
+  project_deadline: ""
 
 grants:
   url: "https://forms.gle/jUB9T7QSRqnzd9HGA"
