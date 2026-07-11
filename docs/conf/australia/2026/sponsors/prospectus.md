@@ -150,7 +150,7 @@ The following a la carte offerings are available either independently or combine
 
 ### Lightning Talks
 
-**{{sponsorship.lightning_talks.price}}** - **Limit 2**
+**Limit 2**
 
 Sponsor one day of Lightning Talks, where attendees have 5 minutes to share something they are excited about working on. You will have 60 seconds at the start to introduce your company.
 
