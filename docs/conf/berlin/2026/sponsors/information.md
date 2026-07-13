@@ -20,7 +20,7 @@ The [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) will be availabl
 **{{ date.day_two.dotw | upper }}, {{ date.day_two.date | upper }}**:
 
 * 08:30: Doors open, check in
-* 09:30–16:30: Writing Day
+* 09:30–17:00: Writing Day
 * 17:00–19:00: Welcome reception
 
 **{{ date.day_three.dotw | upper }}, {{ date.day_three.date | upper }}**:
@@ -28,7 +28,7 @@ The [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) will be availabl
 * 08:00: Arrival and booth setup for Keystone/Patron sponsors
 * 09:00: Doors to venue/sponsor booths open
 * 10:00–17:00: Speaker Talks and Unconference
-* 19:00–21:00: Social event
+* 19:00–21:00: Monday Night Social
 
 **{{ date.day_four.dotw | upper }}, {{ date.day_four.date | upper }}**:
 

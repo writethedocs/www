@@ -101,7 +101,7 @@ grants:
   notification: "July 20, 2026"
 
 shirts:
-  url: ""
+  url: "https://shirt.writethedocs.org/"
   ends: "TBD"
 
 date: # how do we handle these? human readable would be nice.
@@ -124,7 +124,7 @@ date: # how do we handle these? human readable would be nice.
     summary: Kick off the conference with Writing Day and work with fellow documentarians on a project. Followed by the opening reception.
     icon: writing
     dotw: Sunday
-    writing_day_time: 9:30-16:30
+    writing_day_time: 9:30-17:00
     reception_time: 17:00-19:00
   day_three:
     event: Conference Day 1
@@ -168,7 +168,7 @@ unconf:
 
 writing_day:
   url: ""
-  date: Sunday, September 6, 9:30-16:30 CEST
+  date: Sunday, September 6, 9:30-17:00 CEST
   project_deadline: "August 17, 2026"
 
 volunteer:
@@ -209,7 +209,7 @@ flagscheduleincomplete: True
 flagspeakersannounced: True
 flagrunofshow: True
 flaghasschedule: False
-flaghasshirts: False
+flaghasshirts: True
 flaglivestreaming: False
 flagvideos: False
 flagpostconf: False

@@ -17,15 +17,22 @@ Our conference will be held at [bUm Berlin](https://www.bum.berlin/) (Raum für 
 
 ### By U-Bahn
 
-The closest station is **Schönleinstraße (U8)**. From here, take Bürknerstraße to the intersection at Hobrechtbrücke, cross the bridge and turn right onto Paul-Lincke-Ufer. Note that Schönleinstraße does not have an elevator.
+- U8: Schönleinstraße
+- U1 and U3: Görlitzer Bahnhof
 
-From **Hermannplatz (U7/U8)**, you can cross Sonnenallee, turn right into Weserstraße and then take the second street on the left (Friedelstraße). This also leads to Hobrechtbrücke, which you cross and then turn right onto Paul-Lincke-Ufer. Hermannplatz has elevators, so this is your best option if you need step-free access.
+The best way to get to the venue is to take the **U8 (Schönleinstraße)** or the **U7/U8 (Hermannplatz)**.
 
-**Görlitzer Bahnhof (U1/U3)** is also within walking distance, though this station does not have an elevator either.
+From Schönleinstraße, take Bürknerstraße to the intersection at Hobrechtbrücke, cross the bridge and turn right onto Paul-Lincke-Ufer.
+
+From Hermannplatz, you can cross Sonnenallee, turn right into Weserstraße and then take the second street on the left (Friedelstraße). This also leads to Hobrechtbrücke, which you cross and then turn right onto Paul-Lincke-Ufer.
+
+Note: the subway station closest to bUm (Schönleinstraße) does not have an elevator. The Hermannplatz subway station has elevators, so this is your best option if you need step-free access. Görlitzer Bahnhof does not have an elevator either.
 
 ### By bus
 
-You can take the M29 bus to the Ohlauer Straße stop, then follow Ohlauer Straße south and turn right onto Paul-Lincke-Ufer. The 194 (Pflügerstr.) and M41 (Jahnstr.) lines also stop within a short walk of the venue.
+- Line M29: Ohlauer Str.
+- Line 194: Pflügerstr.
+- Line M41: Jahnstr.
 
 ### By car
 

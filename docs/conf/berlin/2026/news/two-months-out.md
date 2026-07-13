@@ -4,12 +4,12 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
 ```{post} July 9, 2026
-:tags: {{shortcode}}-{{year}}, speakers, tickets, visiting, writing-day, sponsors
+:tags: {{shortcode}}-{{year}}, speakers, tickets, visiting, writing-day, social, shirts, sponsors
 ```
 
 # Conference is 2 Months Away!
 
-Write the Docs {{ city }} is just two months away, on **{{ date.short }}**. If you have not grabbed your ticket yet, now is a great time. Check out our [speaker lineup](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/), or read on to learn about our Attendee Guide, what to expect on Writing Day, and tips for planning your trip to Berlin.
+This year, we've added Writing Day back in. Writing Day is on {{ date.day_two.dotw }}, {{ date.day_two.date }}. Write the Docs {{ city }} is just two months away, on **{{ date.short }}**. If you have not grabbed your ticket yet, now is a great time. Check out our [speaker lineup](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/), or read on to learn about our Attendee Guide, Writing Day, our Welcome Reception, T-shirts, and tips for planning your trip to Berlin.
 
 <div class="announcement" style="background-color:white;">
     <div class="uk-container">
@@ -25,24 +25,36 @@ Wondering where to ask questions, where to get food, or how to get the most out 
 
 Writing Day is on **{{ date.day_two.dotw }}, {{ date.day_two.date }}** at [bUm](https://www.bum.berlin/), and is included with every in-person ticket. It is a full day for documentarians to work together on real projects, whether that is open-source documentation, community content, or something you bring yourself.
 
-Here is how the day is shaping up:
+**{{ date.day_two.dotw }}, {{ date.day_two.date }}, {{ date.day_two.writing_day_time }} {{ tz }}**
 
-- **8:30** - Doors open
-- **9:30** - Welcome and overview
-- **10:00** - Project announcements and projects begin
-- **12:30-14:00** - Lunch break
-- **14:00-16:30** - Afternoon sessions
-- **17:00-19:00** - Welcome reception
+- **Morning Session**
+  - Welcome and overview
+  - Project announcements: Leads give a 2 minute summary and projects begin
+- **Lunch Break**
+- **Afternoon Session**
+  - Project announcements: Leads give a 2 minute summary, starting with the afternoon-only projects, and projects reconvene
 
-You can lead a half-day or full-day project, or just show up and join one on the day. If you plan to lead, submit your project by **{{ writing_day.project_deadline }}** so we can share it in a pre-conference blog post and email. See the [Writing Day page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/) for more details.
+We invite you to lead a half-day or full-day project, or you can show up and join one on the day. If you plan to lead, submit your project by **{{ writing_day.project_deadline }}** and we will share it in a pre-conference blog post and email.
 
 {% if writing_day.url %}
 <div class="announcement" style="background-color:white;">
     <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ writing_day.url }}">Submit your Writing Day project</a>
+    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ writing_day.url }}">Submit Your Writing Day Project</a>
     </div>
 </div>
 {% endif %}
+
+See the [Writing Day page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/) for more details.
+
+## Welcome Reception
+
+New this year, we are hosting our Welcome Reception on {{ date.day_two.dotw }} evening. This is a great chance to get your badge, meet other attendees, and make sure you know your way around the conference venue.
+
+**Where**: {{ about.venue }}
+
+**When**: {{ date.day_two.dotw }}, {{ date.day_two.reception_time }} {{ tz }}
+
+Both alcoholic and non-alcoholic drinks and snacks will be provided.
 
 ## Planning your trip to Berlin
 
@@ -51,6 +63,10 @@ If you are travelling to Berlin, our [Visiting Berlin](https://www.writethedocs.
 ## Join the conversation on Slack
 
 Our [Slack community](https://www.writethedocs.org/slack/) is the best place to connect with other attendees before, during, and after the conference. The `#wtd-conferences` channel is the primary space for conference chatter. If you have not joined yet, note that there is a short signup form before you can create your account.
+
+## T-shirts Are Now Available
+
+The [Write the Docs {{ city }} {{ year }} T-shirt Shop]({{ shirts.url }}) is open! We're doing a mail order shop so people can order the exact shirt they want, if they want one. Shipping is available from the USA or Europe. We recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new garb during the conference.
 
 ## Thanks to our sponsors
 

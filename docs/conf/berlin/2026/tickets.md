@@ -34,7 +34,7 @@ Write the Docs {{ name }} {{ year }} is a hybrid conference, which you can atten
 
 - Entry to all conference events and activities
 - Snacks and drinks on event days (Sunday-Tuesday)
-- Welcome Reception and Social Event with light snacks and drinks
+- Welcome Reception and Monday Night Social with drinks and snacks
 - Wifi throughout the event
 - Meeting lots of fantastic people in a spacious, inviting venue
 
@@ -120,7 +120,7 @@ If you need to cancel your ticket because of fear of traveling internationally o
 
 {% if shirts and flaghasshirts %}
 
-<div class="ticket">
+<div class="ticket" id="official-conference-shirts">
   <h2>
     <strong>Official Conference Shirts</strong>
   </h2>

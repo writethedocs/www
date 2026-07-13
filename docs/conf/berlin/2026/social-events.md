@@ -13,21 +13,23 @@ we will have social events planned to help you connect with other attendees.
 
 ## Welcome Reception
 
-We encourage everyone to drop by on {{date.day_two.dotw}} evening for the Welcome Reception, right after Writing Day.
-This is a great chance to meet other attendees,
+New this year, we are hosting our Welcome Reception on {{date.day_two.dotw}} evening.
+This is a great chance to get your badge, meet other attendees,
 and make sure you know your way around the conference venue.
 
 **Where**: {{about.venue}}
 
-**When**: {{date.day_two.dotw}}, {{date.day_two.reception_time}}
+**When**: {{date.day_two.dotw}}, {{date.day_two.reception_time}} {{tz}}
 
-## {{date.day_three.dotw}} Social
+Both alcoholic and non-alcoholic drinks and snacks will be provided.
+
+## {{date.day_three.dotw}} Night Social
 
 Join us for our {{date.day_three.dotw}} night social event! This is a great chance to meet more of your fellow documentarians
 and chat about the conference in a relaxed atmosphere.
 
 **Where**: {{about.social_venue}}
 
-**When**: {{date.day_three.dotw}}, {{date.day_three.social_time}}
+**When**: {{date.day_three.dotw}}, {{date.day_three.social_time}} {{tz}}
 
-More details of the social events will be announced closer to the conference.
+Both alcoholic and non-alcoholic drinks and snacks will be provided.

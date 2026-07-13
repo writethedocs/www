@@ -18,7 +18,7 @@ More details are below. No additional sign up is required.{% if writing_day.url 
 {% if writing_day.url %}
 <div class="announcement" style="background-color:white;">
     <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ writing_day.url }}">Submit your Writing Day project</a>
+    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ writing_day.url }}">Submit Your Writing Day Project</a>
     </div>
 </div>
 {% endif %}
@@ -32,9 +32,9 @@ We may make changes to the structure closer to the conference.
 
 - **8:30** - Doors open
 - **9:30** - Welcome and overview
-- **10:00** - Project announcements: leads give a 2 minute summary and projects begin
+- **10:00** - Project announcements: Leads give a 2 minute summary and projects begin
 - **12:30-14:00** - Lunch break
-- **14:00-16:30** - Afternoon sessions: leads give a 2 minute summary, starting with the afternoon-only projects, and projects reconvene
+- **14:00-17:00** - Afternoon sessions: Leads give a 2 minute summary, starting with the afternoon-only projects, and projects reconvene
 - **17:00-19:00** - Welcome reception
 
 ## How to Prepare
@@ -55,17 +55,15 @@ Leading a project at Writing Day is a wonderful opportunity to engage with docum
 
 **If you submit your project by {{ writing_day.project_deadline }}, we will share your project in a blog post and email with our attendees before the conference.**
 
-{% if writing_day.url %}[Submit projects]({{ writing_day.url }}){% endif %}
-
-Walk-on projects are always welcome. You are still more than welcome to bring a project the day of and announce it during the actual Writing Day.
-
 {% if writing_day.url %}
 <div class="announcement" style="background-color:white;">
     <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ writing_day.url }}">Submit your Writing Day project</a>
+    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ writing_day.url }}">Submit Your Writing Day Project</a>
     </div>
 </div>
 {% endif %}
+
+Walk-on projects are always welcome. You are still more than welcome to bring a project the day of and announce it during the actual Writing Day.
 
 **Tips to create and lead a new project effectively:**
 
