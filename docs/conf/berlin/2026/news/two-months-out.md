@@ -9,7 +9,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 # Conference is 2 Months Away!
 
-This year, we've added Writing Day back in. Writing Day is on {{ date.day_two.dotw }}, {{ date.day_two.date }}. Write the Docs {{ city }} is just two months away, on **{{ date.short }}**. If you have not grabbed your ticket yet, now is a great time. Check out our [speaker lineup](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/), or read on to learn about our Attendee Guide, Writing Day, our Welcome Reception, T-shirts, and tips for planning your trip to Berlin.
+Write the Docs {{ city }} is just two months away, on **{{ date.short }}**. This year, we've added Writing Day back in, on {{ date.day_two.dotw }}. If you have not grabbed your ticket yet, now is a great time. Check out our [speaker lineup](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/), or read on to learn about our Attendee Guide, Writing Day, our Welcome Reception, T-shirts, and tips for planning your trip to Berlin.
 
 <div class="announcement" style="background-color:white;">
     <div class="uk-container">
