@@ -64,7 +64,7 @@ If you are travelling to Berlin, our [Visiting Berlin](https://www.writethedocs.
 
 Our [Slack community](https://www.writethedocs.org/slack/) is the best place to connect with other attendees before, during, and after the conference. The `#wtd-conferences` channel is the primary space for conference chatter. If you have not joined yet, note that there is a short signup form before you can create your account.
 
-## T-shirts Are Now Available
+## T-shirts are now available
 
 The [Write the Docs {{ city }} {{ year }} T-shirt Shop]({{ shirts.url }}) is open! We're doing a mail order shop so people can order the exact shirt they want, if they want one. Shipping is available from the USA or Europe. We recommend you order your shirt at least 2-3 weeks in advance if you want to sport your new garb during the conference.
 
