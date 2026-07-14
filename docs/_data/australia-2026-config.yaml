@@ -19,7 +19,6 @@ photos:
   default:
     - _static/conf/images/headers/2025/aus/au24-attendees.jpg
     - _static/conf/images/headers/2025/aus/au24-crowd.jpg
-    - _static/conf/images/headers/2025/aus/au24-team.jpg
     - _static/conf/images/headers/2025/aus/au24-speakers.jpg
   index:
     - _static/conf/images/pics/writing-day.jpg
@@ -98,11 +97,11 @@ date: # how do we handle these? human readable would be nice.
   month: December
 
 # Conference is special for the index to show the combined conference days
-  conference:
-    event: Speaker talks
-    date: December 3-4
-    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience.
-    icon: conference
+#  conference:
+#    event: Speaker talks
+#    date: December 3-4
+#    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience.
+#    icon: conference
 
 # summary: The main days of the conference. We will be running one main track, and an Unconference.
   # These are listed in the schedule
