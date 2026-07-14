@@ -98,7 +98,7 @@ date: # how do we handle these? human readable would be nice.
 
 # Conference is special for the index to show the combined conference days
   conference:
-    event: Speaker and lightning talks
+    event: Lightning talks
     date: December 3-4
     summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience.
     icon: conference
@@ -189,11 +189,11 @@ flagpostconf: False
 flaghasbadgeflair: False
 
 # Truthy things that don't change
-flaghasunconf: True
+flaghasunconf: False
 flaghashike: False
 flaghasfood: True
 flaghaswritingday: False
-flaghaslightningtalks: True
+flaghaslightningtalks: False
 flaghassponsorexpo: False
 flaghasboat: False
 flaghasvisiting: True
