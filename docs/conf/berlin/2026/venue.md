@@ -19,6 +19,7 @@ Our conference will be held at [bUm Berlin](https://www.bum.berlin/) (Raum für 
 
 - U8: Schönleinstraße
 - U1 and U3: Görlitzer Bahnhof
+- U7 and U8: Hermannplatz
 
 The best way to get to the venue is to take the **U8 (Schönleinstraße)** or the **U7/U8 (Hermannplatz)**.
 
