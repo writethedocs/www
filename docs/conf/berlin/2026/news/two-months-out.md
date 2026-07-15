@@ -18,10 +18,6 @@ Write the Docs {{ city }} is just two months away, on **{{ date.short }}**. This
 <tr><td height="30"></td></tr></table>
 <!-- / call to action button -->
 
-## Sign up to volunteer
-
-Volunteers help the conference run smoothly and receive a **free ticket** in exchange for two or more 3-4 hour shifts. Volunteer applications close on **{{ volunteer.applications_close }}**. Visit our [Volunteer page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/volunteer/) to learn more and sign up.
-
 ## Prepare for the conference with the Attendee Guide
 
 Wondering where to ask questions, where to get food, or how to get the most out of Write the Docs? Check out our [Attendee Guide](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/attendee-guide/) for all that info and more.
@@ -51,6 +47,10 @@ We invite you to lead a half-day or full-day project, or you can show up and joi
 {% endif %}
 
 See the [Writing Day page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/) for more details.
+
+## Sign up to volunteer
+
+Volunteers help the conference run smoothly and receive a **free ticket** in exchange for two or more 3-4 hour shifts. Volunteer applications close on **{{ volunteer.applications_close }}**. Visit our [Volunteer page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/volunteer/) to learn more and sign up.
 
 ## Welcome Reception
 
