@@ -4,18 +4,23 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
 ```{post} July 9, 2026
-:tags: {{shortcode}}-{{year}}, speakers, tickets, visiting, writing-day, social, shirts, sponsors
+:tags: {{shortcode}}-{{year}}, speakers, tickets, visiting, writing-day, social, shirts, sponsors, volunteer
 ```
 
 # Conference is 2 Months Away!
 
 Write the Docs {{ city }} is just two months away, on **{{ date.short }}**. This year, we've added Writing Day back in, on {{ date.day_two.dotw }}. If you have not grabbed your ticket yet, now is a great time. Check out our [speaker lineup](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/), or read on to learn about our Attendee Guide, Writing Day, our Welcome Reception, T-shirts, and tips for planning your trip to Berlin.
 
-<div class="announcement" style="background-color:white;">
-    <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}">Buy your ticket</a>
-    </div>
-</div>
+<!-- call to action button -->
+<table cellpadding="0" cellspacing="0" width="200" role="presentation" align="center" class="cta">
+<tr><td height="30"></td></tr>
+<tr><td style="background:#FDB913;padding:10px 15px;border-radius:8px;text-align:center"><a href="https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}" target="_blank" style="color:#4A4A4A;text-decoration:none;font-size:15px;font-weight:bold;text-transform:uppercase">Buy your ticket</a></td></tr>
+<tr><td height="30"></td></tr></table>
+<!-- / call to action button -->
+
+## Sign up to volunteer
+
+Volunteers help the conference run smoothly and receive a **free ticket** in exchange for two or more 3-4 hour shifts. Volunteer applications close on **{{ volunteer.applications_close }}**. Visit our [Volunteer page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/volunteer/) to learn more and sign up.
 
 ## Prepare for the conference with the Attendee Guide
 
@@ -37,20 +42,19 @@ Writing Day is on **{{ date.day_two.dotw }}, {{ date.day_two.date }}** at [bUm](
 We invite you to lead a half-day or full-day project, or you can show up and join one on the day. If you plan to lead, submit your project by **{{ writing_day.project_deadline }}** and we will share it in a pre-conference blog post and email.
 
 {% if writing_day.url %}
-<div class="announcement" style="background-color:white;">
-    <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ writing_day.url }}">Submit Your Writing Day Project</a>
-    </div>
-</div>
+<!-- call to action button -->
+<table cellpadding="0" cellspacing="0" width="320" role="presentation" align="center" class="cta">
+<tr><td height="30"></td></tr>
+<tr><td style="background:#FDB913;padding:10px 15px;border-radius:8px;text-align:center"><a href="{{ writing_day.url }}" target="_blank" style="color:#4A4A4A;text-decoration:none;font-size:15px;font-weight:bold;text-transform:uppercase">Submit Your Writing Day Project</a></td></tr>
+<tr><td height="30"></td></tr></table>
+<!-- / call to action button -->
 {% endif %}
 
 See the [Writing Day page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/) for more details.
 
 ## Welcome Reception
 
-New this year, we are hosting our Welcome Reception on {{ date.day_two.dotw }} evening. This is a great chance to get your badge, meet other attendees, and make sure you know your way around the conference venue.
-
-**Where**: {{ about.venue }}
+New this year, we are hosting our Welcome Reception on {{ date.day_two.dotw }} evening. This is a great chance to get your badge and meet other attendees.
 
 **When**: {{ date.day_two.dotw }}, {{ date.day_two.reception_time }} {{ tz }}
 
