@@ -160,7 +160,7 @@ cfp:
   speaker_tickets_by: "August 17, 2026"           # (Mon) Approx 3 weeks before
   video_by: "August 17, 2026"                     # Upload date for recorded talks (remote speakers)
   slides_by: "August 17, 2026"                    # (Mon) 2-3 weeks before
-  preview: "TBD"                                  # Preview URL TODO
+  preview: "https://writethedocs-www--2726.org.readthedocs.build/conf/berlin/2026/schedule/"                                  # Preview URL TODO
 
 unconf:
   url: ""
