@@ -1,0 +1,141 @@
+writing_day:
+  - time: '8:00'
+    duration: '1:00'
+    title: Doors open
+  - duration: '0:30'
+    title: Morning introduction - Introduction to Sprints & Project Introductions
+  - duration: '0:00'
+    title: 'Projects team up and start <a href="../writing-day">writing</a>'
+  - time: '12:00'
+    duration: '1:30'
+    title: Lunch Break
+  - time: '13:45'
+    duration: '0:15'
+    title: Afternoon session - all-day groups reconvene and new group introductions
+  - duration: '0:00'
+    title: 'Projects team up and start writing <a href="../writing-day">writing</a>'
+  - duration: '2:30'
+    title: '<a href="../writing-day/#roundtable-discussions">Roundtable Discussions</a>'
+  - time: '17:00'
+    duration: '0:00'
+    title: End of Writing Day
+
+talks_day1:
+  - time: '08:00'
+    title: Doors and Sponsor Booths open
+  - time: '08:45'
+    title: '<i><a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a></i>'
+  - time: '09:30'
+    duration: '0:25'
+    title: Write the Docs team - Conference introduction
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:00'
+    title: '<b><a href="../unconference">Unconference</a> starts</b>'
+  - duration: '0:30'
+    slug: beyond-automation-human-judgment-as-the-strategic-core-of-business-writing-kel-raleigh
+  - duration: '0:05'
+    title: '✋ 5 min Q&A'
+  - duration: '0:10'
+    title: '10 minute break'
+  - duration: '0:30'
+    slug: proving-and-improving-the-value-of-your-docs-tal-gluck
+  - duration: '0:5'
+    title: '✋ 5 min Q&A'
+  - duration: '0:15'
+    title: '15 minute break'
+  - duration: '0:5'
+    title: '<b><a href="../sponsors">Sponsor intros</a></b>'
+  - duration: '0:30'
+    slug: moonshot-mindset-a-tech-writer-s-guide-to-thinking-big-and-breaking-free-from-t-kate-wilcox
+  - duration: '0:5'
+    title: '✋ 5 min Q&A'
+  - duration: '1:25'
+    title: '<b><a href="../visiting/#food-near-bum-10-15-minute-walk">🍽️ Lunch Break</a></b>'
+  - duration: '0:30'
+    title: '<b><a href="../lightning-talks">Lightning Talks</a></b>'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: write-inclusive-people-first-language-about-ai-alexandra-klepper
+  - duration: '0:05'
+    title: '✋ 5 min Q&A'
+  - duration: '0:10'
+    title: '10 minute break'
+  - duration: '0:30'
+    slug: documenting-apis-new-era-same-craft-javier-rubio
+  - duration: '0:5'
+    title: '✋ 5 min Q&A'
+  - duration: '0:15'
+    title: '15 minute break'
+  - duration: '0:30'
+    slug: mapping-your-docs-as-code-repository-navigating-the-architectural-evolution-of-hridyesh-bisht
+  - duration: '0:05'
+    title: '✋ 5 min Q&A'
+  - duration: '0:10'
+    title: '10 minute break'
+  - duration: '0:30'
+    slug: writing-less-owning-more-the-shift-in-technical-writing-whitney-burkes
+  - duration: '0:5'
+    title: '✋ 5 min Q&A'
+  - duration: '0:10'
+    title: '<b>Group Photo! Right after the Q&A ;-)</b>'
+  - duration: '0:00'
+    title: '<b>Conference day 1 ends</b>'
+  - time: '19:00'
+    title: '<b><a href="../social-events">Monday Social</a> starts</b>'
+  - time: '21:00'
+    title: '<b><a href="../social-events">Monday Social</a> ends</b>'
+
+talks_day2:
+  - time: '8:30'
+    title: Doors and Sponsor Booths open
+    duration: '0:55'
+  - duration: '0:05'
+    title: "Welcome address"
+  - duration: '0:00'
+    title: '<b><a href="../unconference">Unconference</a> starts</b>'
+  - duration: '0:30'
+    slug: structure-after-the-fact-bringing-content-strategy-to-existing-docs-for-a-desig-jen-buley
+  - duration: '0:05'
+    title: '✋ 5 min Q&A'
+  - duration: '0:10'
+    title: '10 minute break'
+  - duration: '0:30'
+    slug: good-enough-at-scale-documentation-infrastructure-under-capacity-constraints-elena-baskakova
+  - duration: '0:5'
+    title: '✋ 5 min Q&A'
+  - duration: '0:15'
+    title: '15 minute break'
+  - duration: '0:30'
+    slug: doc-health-metrics-how-two-writers-built-a-framework-to-prioritize-docs-across-anastasia-suboch
+  - duration: '0:05'
+    title: '✋ 5 min Q&A'
+  - duration: '0:10'
+    title: '10 minute break'
+  - duration: '0:30'
+    slug: silence-is-not-approval-when-better-docs-create-more-feedback-uladzislava-lahun
+  - duration: '0:5'
+    title: '✋ 5 min Q&A'
+  - duration: '1:15'
+    title: '<b><a href="../visiting/#food-near-bum-10-15-minute-walk">🍽️ Lunch Break</a></b>'
+  - duration: '0:30'
+    title: '<b><a href="../lightning-talks">Lightning Talks</a></b>'
+  - duration: '0:05'
+    title: '5 minute break'
+  - duration: '0:30'
+    slug: when-words-become-attacks-prompt-injection-through-a-technical-writing-lens-oishi-banerjee
+  - duration: '0:5'
+    title: '✋ 5 min Q&A'
+  - duration: '0:15'
+    title: '15 minute break'
+  - duration: '0:30'
+    slug: trading-in-trust-how-documentation-protects-people-not-just-projects-stephan-rayner
+  - duration: '0:5'
+    title: '✋ 5 min Q&A'
+  - duration: '0:15'
+    title: Write the Docs team - Conference closing
+  - duration: '0:20'
+    title: '<b>Main stage talks done</b>'
+  - duration: '0:00'
+    title: '<b>Conference ends 😔</b>'
