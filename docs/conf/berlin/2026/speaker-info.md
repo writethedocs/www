@@ -59,7 +59,7 @@ Upload a copy of your slides so our human captioners can prepare for your talk. 
 **{{date.short}}**
 Folks start giving talks on stage!
 
-<!--
+
 
 ## Conference Schedule
 
@@ -69,12 +69,22 @@ There are no speaker-specific requirements this day but we encourage you to join
 
 ### {{ date.day_three.dotw | upper }}
 
+TBD
+
+<!--
+
 - 08:30-09:30: Morning Speaker tech checks at main stage
 - 10:00-13:00: Speaker Talks
 - 13:00-13:30: Afternoon Speaker tech checks at main stage
 - 14:30-17:00: Speaker Talks
 
+-->
+
 ### {{ date.day_four.dotw | upper }}
+
+TBD
+
+<!--
 
 - 08:30-09:30: Morning Speaker tech checks at main stage
 - 10:00-13:00: Speaker Talks
@@ -95,12 +105,10 @@ View the full [attendee schedule](/conf/{{shortcode}}/{{year}}/schedule/).
 {% include "conf/portland/speaking-tips-2025.rst" %}
 ```
 
-<!-- TODO
-
 ## Media Kit
 
 Share with your communities that you are speaking at the conference.
-Download copy and graphics from our [Speaker Media Kit](https://drive.google.com/drive/folders/1hujeKUlasLw3xqnEb0EoUbJ18RANN3e_?usp=sharing).
+Download copy and graphics from our [Speaker Media Kit](https://drive.google.com/drive/folders/1WmisvqKfZTzPFl4trEHgl1upNFo8GjG7?usp=sharing).
 
 This includes:
 
@@ -108,4 +116,3 @@ This includes:
 - Event graphic
 - Speaker graphic
 
--->
