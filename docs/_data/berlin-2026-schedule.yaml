@@ -88,7 +88,7 @@ talks_day1:
     title: '<b><a href="../social-events">Monday Social</a> ends</b>'
 
 talks_day2:
-  - time: '8:30'
+  - time: '9:00'
     title: Doors and Sponsor Booths open
     duration: '0:55'
   - duration: '0:05'
