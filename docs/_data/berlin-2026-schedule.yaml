@@ -6,9 +6,14 @@ writing_day:
     title: Morning introduction - Introduction to Sprints & Project Introductions
   - duration: '0:00'
     title: 'Projects team up and start <a href="../writing-day">writing</a>'
+  - time: '11:50'
+    duration: '0:00'
+    title: '<a href="../attendee-guide/#welcome-wagon-tours">Welcome Wagon</a> conference introduction and venue tour'
   - time: '12:00'
     duration: '1:30'
     title: Lunch Break
+  - duration: '0:00'
+    title: Welcome Wagon conference introduction and venue tour
   - time: '13:45'
     duration: '0:15'
     title: Afternoon session - all-day groups reconvene and new group introductions
