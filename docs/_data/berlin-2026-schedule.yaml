@@ -1,5 +1,5 @@
 writing_day:
-  - time: '8:00'
+  - time: '08:30'
     duration: '1:00'
     title: Doors open
   - duration: '0:30'
@@ -14,7 +14,7 @@ writing_day:
     title: Lunch Break
   - duration: '0:00'
     title: Welcome Wagon conference introduction and venue tour
-  - time: '13:45'
+  - time: '14:00'
     duration: '0:15'
     title: Afternoon session - all-day groups reconvene and new group introductions
   - duration: '0:00'
@@ -24,6 +24,10 @@ writing_day:
   - time: '17:00'
     duration: '0:00'
     title: End of Writing Day
+  - time: '17:00'
+    title: '<b><a href="../social-events/#welcome-reception">Welcome Reception</a> starts</b>'
+  - time: '19:00'
+    title: '<b><a href="../social-events/#welcome-reception">Welcome Reception</a> ends</b>'
 
 talks_day1:
   - time: '08:00'
