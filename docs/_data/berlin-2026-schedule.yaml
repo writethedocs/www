@@ -18,7 +18,7 @@ writing_day:
     duration: '0:15'
     title: Afternoon session - all-day groups reconvene and new group introductions
   - duration: '0:00'
-    title: 'Projects team up and start writing <a href="../writing-day">writing</a>'
+    title: 'Projects team up and continue <a href="../writing-day">writing</a>'
   - duration: '2:30'
     title: '<a href="../writing-day/#roundtable-discussions">Roundtable Discussions</a>'
   - time: '17:00'
@@ -49,15 +49,15 @@ talks_day1:
     title: '10 minute break'
   - duration: '0:30'
     slug: proving-and-improving-the-value-of-your-docs-tal-gluck
-  - duration: '0:5'
+  - duration: '0:05'
     title: '✋ 5 min Q&A'
   - duration: '0:15'
     title: '15 minute break'
-  - duration: '0:5'
+  - duration: '0:05'
     title: '<b><a href="../sponsors">Sponsor intros</a></b>'
   - duration: '0:30'
     slug: moonshot-mindset-a-tech-writer-s-guide-to-thinking-big-and-breaking-free-from-t-kate-wilcox
-  - duration: '0:5'
+  - duration: '0:05'
     title: '✋ 5 min Q&A'
   - duration: '1:25'
     title: '<b><a href="../visiting/#food-near-bum-10-15-minute-walk">🍽️ Lunch Break</a></b>'
@@ -73,7 +73,7 @@ talks_day1:
     title: '10 minute break'
   - duration: '0:30'
     slug: documenting-apis-new-era-same-craft-javier-rubio
-  - duration: '0:5'
+  - duration: '0:05'
     title: '✋ 5 min Q&A'
   - duration: '0:15'
     title: '15 minute break'
@@ -85,7 +85,7 @@ talks_day1:
     title: '10 minute break'
   - duration: '0:30'
     slug: writing-less-owning-more-the-shift-in-technical-writing-whitney-burkes
-  - duration: '0:5'
+  - duration: '0:05'
     title: '✋ 5 min Q&A'
   - duration: '0:10'
     title: '<b>Group Photo! Right after the Q&A ;-)</b>'
@@ -112,7 +112,7 @@ talks_day2:
     title: '10 minute break'
   - duration: '0:30'
     slug: good-enough-at-scale-documentation-infrastructure-under-capacity-constraints-elena-baskakova
-  - duration: '0:5'
+  - duration: '0:05'
     title: '✋ 5 min Q&A'
   - duration: '0:15'
     title: '15 minute break'
@@ -124,7 +124,7 @@ talks_day2:
     title: '10 minute break'
   - duration: '0:30'
     slug: silence-is-not-approval-when-better-docs-create-more-feedback-uladzislava-lahun
-  - duration: '0:5'
+  - duration: '0:05'
     title: '✋ 5 min Q&A'
   - duration: '1:15'
     title: '<b><a href="../visiting/#food-near-bum-10-15-minute-walk">🍽️ Lunch Break</a></b>'
@@ -134,13 +134,13 @@ talks_day2:
     title: '5 minute break'
   - duration: '0:30'
     slug: when-words-become-attacks-prompt-injection-through-a-technical-writing-lens-oishi-banerjee
-  - duration: '0:5'
+  - duration: '0:05'
     title: '✋ 5 min Q&A'
   - duration: '0:15'
     title: '15 minute break'
   - duration: '0:30'
     slug: trading-in-trust-how-documentation-protects-people-not-just-projects-stephan-rayner
-  - duration: '0:5'
+  - duration: '0:05'
     title: '✋ 5 min Q&A'
   - duration: '0:15'
     title: Write the Docs team - Conference closing
