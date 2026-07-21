@@ -4,20 +4,20 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
 ```{post} July 18, 2026
-:tags: {{shortcode}}-{{year}}, speakers, tickets, visiting, sponsors
+:tags: {{shortcode}}-{{year}}, speakers, tickets, visiting, writing-day, social, shirts, sponsors
 ```
 
 # Announcing Our Conference Schedule
 
-The {{city}} conference is less than two months away, and we're busy getting ready behind the scenes.
+Write the Docs {{ city }} is coming up on **{{ date.short }}**, and today we're publishing the [full conference schedule](/conf/{{shortcode}}/{{year}}/schedule/).
 
-You've already seen our list of awesome speakers; now we're announcing our [full conference schedule](/conf/{{shortcode}}/{{year}}/schedule/) so you know when they will be presenting!
+You've already seen our list of awesome speakers; now you can see when they will be presenting, and start planning your time across Writing Day, the main talks, Unconference, and Lightning Talks.
 
 ```{button-link} https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}
 Buy your ticket
 ```
 
-## Speaker Schedule
+## Conference Schedule
 
 The website is updated with the [schedule](/conf/{{shortcode}}/{{year}}/schedule/) for the full conference, including main stage speaker talks, so you can start planning your time (and getting excited!) for the conference.
 
@@ -29,24 +29,26 @@ Interested in listening to the Speaker Talks in real time but unable to attend i
 
 ## Start Preparing For Writing Day
 
-We're bringing writing day back to Berlin!
+We're bringing writing day back to {{ city }}!
 
-[Writing Day](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/) happens on Sunday, the opening day of the conference. It’s a valuable opportunity to bring interested individuals into the same room, sharing their passions and aspirations while collaborating to develop creative solutions to solve a problem or issue.
+[Writing Day](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/) happens on {{ date.day_two.dotw }}, the opening day of the conference. It's a valuable opportunity to bring interested individuals into the same room, sharing their passions and aspirations while collaborating to develop creative solutions to solve a problem or issue.
 
 ![](/_static/conf/images/writing-day.jpg)
 
-- **Writing Day project** (half-day or full-day)
-  - Attendees can lead a project or join and contribute to a project
+**Writing Day project** (half-day or full-day): attendees can lead a project or join and contribute to a project.
 
-Are you interested in leading a Writing Day project? We highly encourage you to [submit your project here]({{writing_day.url}}). As always, you are welcome to show up on Sunday and introduce your project then!
+Are you interested in leading a Writing Day project? We highly encourage you to [submit your project here]({{writing_day.url}}). As always, you are welcome to show up on {{ date.day_two.dotw }} and introduce your project then!
 
 ## Events and Activities
 
 Write the Docs is more than a conference. In addition to Speaker Talks, Writing Day, Unconference, and Lightning Talks, we offer additional activities for our attendees to enjoy, connect, engage in discussions, and meet new people.
 
-* **Monday Conference Party**. On Monday night we'll be hosting a social event off-site at {{ about.social_venue }}. This is a great chance to get to know more folks in the community and have a drink or two on us. Non-alcoholic options and snacks also provided. Event is 7-9 PM.
+* **{{ date.day_two.dotw }} Welcome Reception:** New this year, we are hosting a Welcome Reception at {{ about.venue }} from {{ date.day_two.reception_time }} {{ tz }}. Come pick up your badge, meet other attendees, and get familiar with the venue.
+* **{{ date.day_three.dotw }} Night Social:** On {{ date.day_three.dotw }} evening we're hosting an off-site social event from {{ date.day_three.social_time }} {{ tz }}. This is a great chance to get to know more folks in the community and have a drink or two on us.
 
-## T-shirts Are Now Available
+Drinks and snacks are provided at both events, with non-alcoholic options available.
+
+## T-shirts Are Available
 
 The [Write the Docs {{city}} {{year}} T-shirt Shop]({{ shirts.url }}) is open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want. As in previous years, we're doing a mail order shop so people can order the exact shirt they want, if they want one.
 
@@ -58,7 +60,7 @@ View our [Attendee Guide](https://www.writethedocs.org/conf/{{shortcode}}/{{year
 
 ## Thanks To Our Sponsors
 
-Thanks to our sponsors for supporting the conference this year. A number of them will be tabling on Monday and Tuesday. We hope you get a chance to talk with them while you're here.
+Thanks to our sponsors for supporting the conference this year. A number of them will be tabling on {{ date.day_three.dotw }} and {{ date.day_four.dotw }}. We hope you get a chance to talk with them while you're here.
 
 ```{eval-rst}
 .. datatemplate::
