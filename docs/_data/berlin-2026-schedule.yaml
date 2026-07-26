@@ -116,14 +116,10 @@ talks_day2:
     title: '✋ 5 min Q&A'
   - duration: '0:15'
     title: '15 minute break'
+  - duration: '0:05'
+    title: 'Community meetup highlights'
   - duration: '0:30'
     slug: doc-health-metrics-how-two-writers-built-a-framework-to-prioritize-docs-across-anastasia-suboch
-  - duration: '0:05'
-    title: '✋ 5 min Q&A'
-  - duration: '0:10'
-    title: '10 minute break'
-  - duration: '0:30'
-    slug: silence-is-not-approval-when-better-docs-create-more-feedback-uladzislava-lahun
   - duration: '0:05'
     title: '✋ 5 min Q&A'
   - duration: '1:15'
@@ -132,6 +128,12 @@ talks_day2:
     title: '<b><a href="../lightning-talks">Lightning Talks</a></b>'
   - duration: '0:05'
     title: '5 minute break'
+  - duration: '0:30'
+    slug: silence-is-not-approval-when-better-docs-create-more-feedback-uladzislava-lahun
+  - duration: '0:05'
+    title: '✋ 5 min Q&A'
+  - duration: '0:10'
+    title: '10 minute break'
   - duration: '0:30'
     slug: when-words-become-attacks-prompt-injection-through-a-technical-writing-lens-oishi-banerjee
   - duration: '0:05'
