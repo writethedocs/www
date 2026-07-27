@@ -6,21 +6,18 @@ writing_day:
     title: Morning introduction - Introduction to Sprints & Project Introductions
   - duration: '0:00'
     title: 'Projects team up and start <a href="../writing-day">writing</a>'
-  - time: '11:50'
-    duration: '0:00'
-    title: '<a href="../attendee-guide/#welcome-wagon-tour">Welcome Wagon</a> conference introduction and venue tour'
-  - time: '12:00'
-    duration: '1:30'
+  - time: '12:30'
     title: Lunch Break
-  - duration: '0:00'
-    title: Welcome Wagon conference introduction and venue tour
+  - time: '13:30'
+    title: '<i><a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a></i>'
   - time: '14:00'
     duration: '0:15'
     title: Afternoon session - all-day groups reconvene and new group introductions
   - duration: '0:00'
     title: 'Projects team up and continue <a href="../writing-day">writing</a>'
-  - duration: '2:30'
-    title: '<a href="../writing-day/#roundtable-discussions">Roundtable Discussions</a>'
+  - time: '16:30'
+    duration: '0:00'
+    title: '<a href="../attendee-guide/#welcome-wagon-tour">Welcome Wagon</a> conference introduction and venue tour'
   - time: '17:00'
     duration: '0:00'
     title: End of Writing Day
@@ -122,7 +119,7 @@ talks_day2:
     slug: doc-health-metrics-how-two-writers-built-a-framework-to-prioritize-docs-across-anastasia-suboch
   - duration: '0:05'
     title: '✋ 5 min Q&A'
-  - duration: '1:15'
+  - duration: '1:25'
     title: '<b><a href="../visiting/#food-near-bum-10-15-minute-walk">🍽️ Lunch Break</a></b>'
   - duration: '0:30'
     title: '<b><a href="../lightning-talks">Lightning Talks</a></b>'
