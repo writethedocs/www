@@ -9,7 +9,7 @@ writing_day:
   - time: '12:30'
     title: Lunch Break
   - time: '13:30'
-    title: '<i><a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a></i>'
+    title: '<a href="../attendee-guide/#welcome-wagon-tour">Welcome Wagon</a> conference introduction and venue tour'
   - time: '14:00'
     duration: '0:15'
     title: Afternoon session - all-day groups reconvene and new group introductions
@@ -30,10 +30,10 @@ talks_day1:
   - time: '08:00'
     title: Doors and Sponsor Booths open
   - time: '08:45'
-    title: '<i><a href="../attendee-guide/">Welcome Wagon conference introduction and venue tour</a></i>'
+    title: '<a href="../attendee-guide/#welcome-wagon-tour">Welcome Wagon</a> conference introduction and venue tour'
   - time: '09:30'
     duration: '0:25'
-    title: Write the Docs team - Conference introduction
+    title: Write the Docs team - Conference opening
   - duration: '0:05'
     title: '5 minute break'
   - duration: '0:00'
