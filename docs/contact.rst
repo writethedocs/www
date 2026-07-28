@@ -7,9 +7,9 @@ You can email us at support@writethedocs.org.
 
 Please include any relevant information in your email about how we can help you.
 
-.. warning:: 
-    If you are looking to file a `Code of Conduct <https://www.writethedocs.org/code-of-conduct//#reporting-and-contact-information>`_ issue,
-    please refer there for contact information
+.. warning::
+    If you are looking to file a `Code of Conduct <https://www.writethedocs.org/code-of-conduct/#reporting-and-contact-information>`_ issue,
+    please refer there for contact information.
 
 While you wait
 --------------

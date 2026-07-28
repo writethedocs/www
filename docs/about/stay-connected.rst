@@ -14,7 +14,8 @@ Stay Connected
 Mailing List
 ~~~~~~~~~~~~
 
-We have mailing lists for our Monthly Newsletter, North American Conferences, and European Conferences.
+We have mailing lists for our monthly newsletter,
+as well as announcements for our North American, European, Australian, and Atlantic conferences.
 They are low traffic, and only send occasional community and event updates.
 
 You can sign up on our :doc:`/newsletter` page.
@@ -22,22 +23,23 @@ You can sign up on our :doc:`/newsletter` page.
 Slack
 ~~~~~
 
-You can join us on the :doc:`/slack` for real-time discussion and to keep in touch with folks from the community.
+You can join our :doc:`/slack` for real-time discussion and to keep in touch with folks from the community.
 
-Slack conversations aren't archived, so we recommend either putting substantial items of interest on the forum,
-or moving them there if they develop into something bigger.
+Slack conversations aren't archived,
+so we recommend nominating substantial items of interest for the newsletter,
+or contributing them to our :doc:`/about/learning-resources`.
+The :doc:`/slack` page has more ways to preserve what you've learned.
 
-Learn more about our :doc:`/slack`.
+Job Postings
+~~~~~~~~~~~~
 
-Job Board
-~~~~~~~~~
-
-Write the Docs now has a :doc:`/job-board`.
-This is the place to go if you want to find a documentarian job!
+Jobs are posted in the **#job-posts-only** channel on our :doc:`/slack`.
 
 We also publicise job posts in our newsletter,
-which goes out to over 3,000 recipients.
+which goes out to over {{ newsletter_subs }} recipients.
 So you can also stay in the loop that way!
+
+Our standalone :doc:`/job-board` is currently inactive.
 
 Blog
 ~~~~~
@@ -52,7 +54,7 @@ Come visit and follow us on `Bluesky <https://bsky.app/profile/writethedocs.bsky
 Twitter
 ~~~~~~~
 
-We're pretty active on `Twitter <https://twitter.com/hashtag/writethedocs?f=tweets&vertical=default&lang=en>`_. You can follow the **#writethedocs** hashtag to see community tweets.
+We also have a presence on `Twitter <https://twitter.com/writethedocs>`_. You can follow the **#writethedocs** hashtag to see community tweets.
 
 Write to Us
 ~~~~~~~~~~~

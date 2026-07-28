@@ -17,7 +17,7 @@ Our conferences create a time and a place for the global community of documentar
 .. include:: /include/conf/current.rst
    :start-after: current-conferences-list
 
-To see the whole list of conferences, see :doc:`Conferences </conf/index>` 
+To see the whole list of conferences, check out :doc:`Conferences </conf/index>`.
 
 Meetups
 ~~~~~~~

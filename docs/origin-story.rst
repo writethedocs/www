@@ -97,7 +97,7 @@ as "the Erics").
     coalesce into a community. We are providing the space to allow this
     to happen, both in person and online.
 
-The headline quote above is from a doc, then titled :doc:`/guide/about/vision/`, written
+The headline quote above is from a doc, then titled :doc:`/guide/about/vision`, written
 that night. The Erics almost laughed the idea off at first; no one would
 come, no one would sponsor it. I said "no really, it's not that hard,
 let's see what could happen" and bought another round of beer. So, we
@@ -134,7 +134,7 @@ Where we are now
 
 That was written in 2014.
 Now there are over 600 attendees at Write the Docs :doc:`conferences </conf/index>` every year,
-over 1,500 :doc:`meetup </meetups/index>` members that have joined meetup groups in over 15 cities.
+and thousands of :doc:`meetup </meetups/index>` members that have joined meetup groups in dozens of cities.
 
 The community keeps growing larger and larger,
 and we're happy to welcome everyone into this wonderful group of documentarians.

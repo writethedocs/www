@@ -58,11 +58,11 @@ The craft of writing
 * `Everybody writes, 2nd Edition <https://annhandley.com/everybodywrites/>`_, by Ann Handley
 * `First You Write a Sentence <https://www.penguinrandomhouse.com/books/607260/first-you-write-a-sentence-by-joe-moran/>`_, by Joe Moran
 * `The Gotham Grammarian <https://www.calamaripress.com/Gotham_Grammarian.htm>`_, by Garielle Lutz
-* `It Was the Best of Sentences, It Was the Worst of Sentences <https://www.penguinrandomhouse.com/books/198856/it-was-the-best-of-sentences-it-was-the-worst-of-sentences-by-june-casagrande/>`_ , by June Casagrande - **Read in our book club**
+* `It Was the Best of Sentences, It Was the Worst of Sentences <https://www.penguinrandomhouse.com/books/198856/it-was-the-best-of-sentences-it-was-the-worst-of-sentences-by-june-casagrande/>`_, by June Casagrande - **Read in our book club**
 * `Nicely Said <http://www.nicelysaid.co/>`_, by Nicole Fenton and Kate Kiefer Lee
 * `On Writing <https://stephenking.com/works/nonfiction/on-writing-a-memoir-of-the-craft.html>`_, by Stephen King
 * `On Writing Well <https://www.goodreads.com/book/show/53343.On_Writing_Well>`_, by William Zinsser
-* `Rebel With a Clause <https://www.ellenjovin.com/books>`_, by Ellen Jovich
+* `Rebel With a Clause <https://www.ellenjovin.com/books>`_, by Ellen Jovin
 * `Several Short Sentences About Writing <https://www.penguinrandomhouse.com/books/93789/several-short-sentences-about-writing-by-verlyn-klinkenborg/>`_, by Verlyn Klinkenborg
 * `The Organised Writer <http://organised-writer.com/>`_, by Antony Johnston - **Read in our book club**
 * `Steering the Craft: A 21st-Century Guide to Sailing the Sea of Story <https://www.ursulakleguin.com/steering-the-craft>`_, by Ursula K. Le Guin

@@ -34,8 +34,8 @@ How teams operate and interact
 - **All membership and leadership roles are staffed by enthusiastic opt-in.** We want to prioritize the well-being of our contributors, and we're happy to have you if you're happy to contribute to the community.
 - Each team operates independently except for actions that impact other teams or the community.
 - Each team is responsible for implementing and monitoring community guidelines, including CoC, within their team's area.
-- Teams leads are paid positions and have a seat on the community board, which can propose and vote on internal organizational changes and processes. Team budgets are determined by the team leads and voted on by the community board.
-- CoreOps team members act as backup team leads in a case team lead steps down without a replacement.
+- Team leads are paid positions and have a seat on the community board, which can propose and vote on internal organizational changes and processes. Team budgets are determined by the team leads and voted on by the community board.
+- CoreOps team members act as backup team leads in case a team lead steps down without a replacement.
 - Teams are generally comprised of volunteers. Depending on the scope and time investment of team members, they can step up to be a team lead after an agreed upon duration of service on the team.
 
 Joining and leaving teams
@@ -49,7 +49,7 @@ Joining and leaving teams
       - be an active member of the community for at least one year (online or at events)
       - be approved by the team lead and at least one additional team member from any team
       - satisfy the membership requirements of that team as specified in each team section
-      - have sufficient English communication skills to perform the role in the teams, (English editorial skills are required in all teams that communicate in an official capacity, such as the Newsletter or Social Media team)
+      - have sufficient English communication skills to perform the role in the teams (English editorial skills are required in all teams that communicate in an official capacity, such as the Newsletter or Social Media team)
 
   Team leads
     - Team leads serve for a minimum of one year.

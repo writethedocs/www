@@ -4,7 +4,7 @@ Organizer Guide
 
 Welcome! This guide aims to help anyone who wants to start a local Write the Docs meetup or a regional conference. Our community is growing quickly and we want to provide resources, guidelines, and tips on how to build and maintain events no matter where you are in the world.
 
-All the content in this guide and in the `resources repository <https://github.com/writethedocs/resources>`_ is open source, and we welcome contributions and suggestions! Feel free to communicate and share ideas with your fellow documentarians on `Slack <https://writethedocs.slack.com/>`_ or by creating `issues <https://github.com/writethedocs/www>`_ and `pull requests <https://github.com/writethedocs/www/pulls>`_ in the `GitHub repository <https://github.com/writethedocs/www>`_.
+All the content in this guide and in the `resources repository <https://github.com/writethedocs/resources>`_ is open source, and we welcome contributions and suggestions! Feel free to communicate and share ideas with your fellow documentarians on `Slack </slack/>`_ or by creating `issues <https://github.com/writethedocs/www/issues>`_ and `pull requests <https://github.com/writethedocs/www/pulls>`_ in the `GitHub repository <https://github.com/writethedocs/www>`_.
 
 .. note:: There are a number of topics that aren't written yet.
           That means that you can write them!
@@ -13,7 +13,7 @@ All the content in this guide and in the `resources repository <https://github.c
 
 You should also look at the :doc:`/team` page to see more information about who is currently filling these roles.
 
-If you're interested in helping start or organize a Write the Docs conference, send us email at support@writethedocs.org.
+If you're interested in helping start or organize a Write the Docs conference, send us an email at support@writethedocs.org.
 
 Meetups
 -------

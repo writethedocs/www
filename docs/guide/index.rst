@@ -86,5 +86,5 @@ Write the Docs resources
 
 * `WTD Slack Network <https://www.writethedocs.org/slack/>`__
 * `WTD Newsletters <https://www.writethedocs.org/newsletter/>`__
-* Twitter: http://twitter.com/writethedocs
-* Issues & feature requests: https://github.com/writethedocs/docs/issues
+* Twitter: https://twitter.com/writethedocs
+* Issues & feature requests: https://github.com/writethedocs/www/issues
