@@ -28,7 +28,7 @@ If you want to get involved you can:
 
 .. _signup form: {{ slack_form }}
 .. _this page: https://github.com/writethedocs/www/blob/main/docs/slack.rst
-.. _disable all animations: https://get.slack.help/hc/en-us/articles/228023907-Manage-animated-images-and-emoji
+.. _disable all animations: https://slack.com/help/articles/228023907-Manage-animated-images-and-emoji
 
 Slack History
 -------------

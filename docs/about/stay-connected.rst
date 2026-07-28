@@ -39,22 +39,19 @@ We also publicise job posts in our newsletter,
 which goes out to over {{ newsletter_subs }} recipients.
 So you can also stay in the loop that way!
 
-Our standalone :doc:`/job-board` is currently inactive.
-
 Blog
 ~~~~~
 
 Check out our :doc:`/blog/index` to see updates from the Community. These will also be sent to the :doc:`/newsletter`.
 
-Bluesky
-~~~~~~~
+Social Media
+~~~~~~~~~~~~
 
-Come visit and follow us on `Bluesky <https://bsky.app/profile/writethedocs.bsky.social>`_!
+Follow us for community news and event announcements:
 
-Twitter
-~~~~~~~
-
-We also have a presence on `Twitter <https://twitter.com/writethedocs>`_. You can follow the **#writethedocs** hashtag to see community tweets.
+* `LinkedIn <https://www.linkedin.com/company/write-the-docs>`_ — our primary social media presence
+* `Bluesky <https://bsky.app/profile/writethedocs.bsky.social>`_
+* `Mastodon <https://fosstodon.org/@writethedocs>`_
 
 Write to Us
 ~~~~~~~~~~~

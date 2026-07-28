@@ -99,7 +99,7 @@ This organization controls and handles:
 
 * "Write the Docs" trademark
 * writethedocs.org domain
-* @writethedocs Twitter account
+* @writethedocs social media accounts
 * Bank accounts that hold money for the conferences
 * Contracts for all conferences and operations
 

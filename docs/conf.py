@@ -235,6 +235,8 @@ html_context = {
     'newsletter_subs': '10,000',
     'slack_members': '22,500',
     'website_visits': '20,000',
+    'meetup_cities': '25',
+    'conf_attendees': '600',
     'global_sponsors': global_sponsors,
     'cfp_variables': cfp_variables,
     'slack_join': "https://join.slack.com/t/writethedocs/shared_invite/zt-3uxp60m0w-4Ys1SrX798HMyIXpxyD6EQ",

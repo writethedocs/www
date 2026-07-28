@@ -30,7 +30,6 @@ Content strategy
 ------------------
 
 * `Content Everywhere: Strategy and Structure for Future-Ready Content <https://www.goodreads.com/book/show/17123665-content-everywhere>`_, by Sara Wachter-Boettcher
-* `Content Strategy 101 <https://contentstrategy101.com/>`_, by Scriptorium
 * `The Elements of Content Strategy <http://elements-of-content-strategy.abookapart.com/>`_, by Erin Kissane
 * `Every Page is Page One <https://everypageispageone.com/the-book/>`_, by Mark Baker - **Read in our book club**
 * `Letting Go of the Words <https://www.goodreads.com/book/show/1135441.Letting_Go_of_the_Words>`_, by Janice (Ginny) Redish - **Read in our book club**
@@ -45,16 +44,16 @@ Design and information architecture
 * `Information Architecture: For the Web and Beyond <https://www.goodreads.com/book/show/70132.Information_Architecture_for_the_World_Wide_Web>`_, by Lou Rosenfeld
 * `Information Development: Managing Your Documentation Projects, Portfolio, and People <https://www.goodreads.com/book/show/884914.Information_Development>`_, by JoAnn T. Hackos
 * `Strategic Writing for UX <https://www.oreilly.com/library/view/strategic-writing-for/9781492049388/>`_, by Torrey Podmajersky - **Read in our book club**
-* `Think Like a UX Researcher <https://www.routledge.com/Think-like-a-UX-Researcher-How-to-Observe-Users-Influence-Design-and/Travis-Hodgson/p/book/9781138365292>`_, by David Travis and Philip Hodgson
+* `Think Like a UX Researcher <https://openlibrary.org/works/OL23686363W>`_, by David Travis and Philip Hodgson
 * `Web Style Guide, 4th Ed.: Foundations of User Experience Design <https://webstyleguide.com/index.html>`_, by Patrick J. Lynch, Sarah Horton, and Ethan Marcotte
 
 The craft of writing
 ----------------------
 
 * `About Writing: Seven Essays, Four Letters, & Five Interviews <https://www.weslpress.org/9780819567161/about-writing/>`_, by Samuel R. Delany
-* `Artful Sentences: Syntax as Style <https://www.edwardtufte.com/tufte/books_vt>`_, by Virginia Tufte
+* `Artful Sentences: Syntax as Style <https://www.edwardtufte.com/book/artful-sentences-syntax-as-style/>`_, by Virginia Tufte
 * `Bugs in Writing: A Guide to Debugging Your Prose <https://www.goodreads.com/book/show/601222.Bugs_in_Writing>`_, by Lyn Dupre
-* `Eats, Shoots & Leaves <https://www.lynnetruss.com/books/eats-shoots-leaves/>`_, by Lynne Truss
+* `Eats, Shoots & Leaves <https://lynnetruss.com/books/>`_, by Lynne Truss
 * `Everybody writes, 2nd Edition <https://annhandley.com/everybodywrites/>`_, by Ann Handley
 * `First You Write a Sentence <https://www.penguinrandomhouse.com/books/607260/first-you-write-a-sentence-by-joe-moran/>`_, by Joe Moran
 * `The Gotham Grammarian <https://www.calamaripress.com/Gotham_Grammarian.htm>`_, by Garielle Lutz
@@ -71,7 +70,7 @@ The craft of writing
 * `Uncreative Writing <https://cup.columbia.edu/book/uncreative-writing/9780231149907>`_, by Kenneth Goldsmith
 * `Writing to Learn <https://www.harpercollins.com/products/writing-to-learn-william-zinsser?variant=32115370393634>`_, by William Zinsser
 * `Writing Tools <https://www.littlebrown.com/titles/roy-peter-clark/writing-tools/9780316028400/>`_, by Roy Peter Clark
-* `Writing Without Bullshit <https://withoutbullshit.com/book>`_, by Josh Bernoff
+* `Writing Without Bullshit <https://bernoff.com/books>`_, by Josh Bernoff
 
 General knowledge
 -----------------
@@ -81,6 +80,5 @@ General knowledge
 Other Lists
 ----------------
 
-* `Reading list <https://techwritertoolkit.com/resources/reading-list/>`_ focused on consultants/freelancers.
 * `List with books and links to online resources <https://gitlab.com/CrispyCB/Write-The-Docs-Reading-List/blob/master/Write%20The%20Docs%20Reading%20List.md>`_
 * `List of UX Resources maintained by a WTD-er <https://www.notion.so/UX-Resources-0ce13813853c4dfdb6e0f1b3851b68c7>`_

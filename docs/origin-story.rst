@@ -71,7 +71,7 @@ Perkins <https://twitter.com/lucperkins>`__, `Leslie
 Hawthorn <http://hawthornlandings.org/>`__, `Adron
 Hall <https://twitter.com/adron>`__, `Joe
 Moon <https://twitter.com/joebadmo>`__, `Eric
-Redmond <https://twitter.com/coderoshi>`__. I saw a community that
+Redmond <https://github.com/coderoshi>`__. I saw a community that
 didn't see itself.
 
 Eric Redmond was the first person I'd met with the (self-appointed) job
@@ -80,7 +80,7 @@ title "documentarian".
 Building a Community of Documentarians
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-I have a `habit <http://nodepdx.org/>`__ of
+I have a habit of
 `starting <http://jsconf.cn/>`__
 `conferences <http://conf.writethedocs.org>`__, as well as local
 meetups, and creating terrible inside-joke-esque slang. I really enjoy
@@ -115,7 +115,7 @@ day. Over the next couple months we were contacted by people from a
 variety of disciplines; technical writing industry groups, designers,
 typographers, literate programmers, API driven startups, and more. We
 quickly found a new venue, and sold out a 250 person conference. The
-`experience <https://andrewnhem.com/content-strategy/a-wonderful-time-at-write-the-docs-2013/>`__
+`experience <https://web.archive.org/web/20250215173218/https://andrewnhem.com/content-strategy/a-wonderful-time-at-write-the-docs-2013/>`__
 was amazing. We'd found our people, and they'd found us.
 
 Now, we're ramping up for year two, with conferences both `in
@@ -133,8 +133,8 @@ Where we are now
 ----------------
 
 That was written in 2014.
-Now there are over 600 attendees at Write the Docs :doc:`conferences </conf/index>` every year,
-and thousands of :doc:`meetup </meetups/index>` members that have joined meetup groups in dozens of cities.
+Now there are over {{ conf_attendees }} attendees at Write the Docs :doc:`conferences </conf/index>` every year,
+and thousands of :doc:`meetup </meetups/index>` members that have joined meetup groups in over {{ meetup_cities }} cities.
 
 The community keeps growing larger and larger,
 and we're happy to welcome everyone into this wonderful group of documentarians.

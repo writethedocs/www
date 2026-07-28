@@ -141,7 +141,7 @@ Membership
 Members
 ~~~~~~~
 
-- `Eric Holscher <https://twitter.com/ericholscher>`_ (business owner)
+- `Eric Holscher <https://www.ericholscher.com/>`_ (business owner)
 - `Mikey Ariel <https://twitter.com/thatdocslady>`_ (board chair)
 - `Sasha Romijn <https://twitter.com/mxsash>`_
 - `Samuel Wright <https://twitter.com/plaindocs>`_
@@ -168,7 +168,7 @@ Membership
 Team leads (conference chairs)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- `Eric Holscher <https://twitter.com/ericholscher>`_ (Portland)
+- `Eric Holscher <https://www.ericholscher.com/>`_ (Portland)
 - `Sasha Romijn <https://twitter.com/mxsash>`_ (Atlantic)
 - `Swapnil Ogale <https://twitter.com/swapnilogale>`_ (Australia)
 
@@ -270,7 +270,7 @@ Membership
 
 Members
 ~~~~~~~
-- `Eric Holscher <https://twitter.com/ericholscher>`_ (team lead)
+- `Eric Holscher <https://www.ericholscher.com/>`_ (team lead)
 - You?
 
 
@@ -283,7 +283,7 @@ Responsibilities
 ~~~~~~~~~~~~~~~~
 
   Social Media
-    - Point of contact for the WTD accounts on `Twitter <https://twitter.com/writethedocs>`_, Facebook, and LinkedIn
+    - Point of contact for the WTD accounts on `LinkedIn <https://www.linkedin.com/company/write-the-docs>`_, `Bluesky <https://bsky.app/profile/writethedocs.bsky.social>`_, and `Mastodon <https://fosstodon.org/@writethedocs>`_
     - Manage and develop social media strategy for the community
     - Source updates and publications from other teams and manage scheduled posts
 
@@ -325,7 +325,7 @@ Membership
 Members
 ~~~~~~~
 
-- `Eric Holscher <https://twitter.com/ericholscher>`_ (team lead)
+- `Eric Holscher <https://www.ericholscher.com/>`_ (team lead)
 - `Jennifer Rondeau <https://twitter.com/bradamante>`_
 
 
@@ -335,7 +335,7 @@ Write the Docs Alumni
 These are folks who have helped a lot in the past, but have moved on to other projects.
 We wouldn't be where we are without them, and want to make sure they aren't forgotten.
 
-- `Eric Redmond <https://twitter.com/coderoshi>`_
+- `Eric Redmond <https://github.com/coderoshi>`_
 - `Troy Howard <https://twitter.com/thoward37>`_
 - `Anthony Johnson <https://twitter.com/agjhnsn>`_
 - `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_
