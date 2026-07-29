@@ -33,11 +33,11 @@ We're bringing writing day back to {{ city }}!
 
 [Writing Day](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/) happens on {{ date.day_two.dotw }}, the opening day of the conference. It's a valuable opportunity to bring interested individuals into the same room, sharing their passions and aspirations while collaborating to develop creative solutions to solve a problem or issue.
 
-![](/_static/conf/images/writing-day.jpg)
-
 **Writing Day project** (half-day or full-day): attendees can lead a project or join and contribute to a project.
 
 Are you interested in leading a Writing Day project? We highly encourage you to [submit your project here]({{writing_day.url}}). As always, you are welcome to show up on {{ date.day_two.dotw }} and introduce your project then!
+
+In the afternoon, we're also hosting [Roundtable Discussions](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/#roundtable-discussions): pre-scheduled, facilitated conversations on focused topics like AI in documentation and API docs.
 
 ## Events and Activities
 

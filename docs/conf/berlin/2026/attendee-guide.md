@@ -17,7 +17,7 @@ Join us for an introduction to Write the Docs. We’ll go on a short tour of the
 
 Welcome Wagon Tour is scheduled for:
 
-- Sunday 13:30
+- Sunday 12:00
 - Sunday 16:30
 - Monday 08:45
 
