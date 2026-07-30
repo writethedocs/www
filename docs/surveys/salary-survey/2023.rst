@@ -14,11 +14,11 @@
 
 .. |icon-quote| raw:: html
 
-   <i class="fa-solid fa-comment-quote"></i>
+   <i class="fa-solid fa-quote-left"></i>
 
 .. |icon-newsletter| raw:: html
 
-   <i class="fa-solid fa-mailbox-flag-up"></i>
+   <i class="fa-solid fa-envelope"></i>
 
 .. |25| replace:: :abbr:`25 (25th percentile - one quarter of all salaries were lower than this value)`:sup:`th`
 
