@@ -1,5 +1,6 @@
 ---
 template: {{year}}/generic.html
+banner: _static/conf/images/headers/berlin-2026-group-photo.jpg
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
