@@ -213,6 +213,10 @@ logging.getLogger('sphinx').addFilter(_ParallelReadFilter())
 # Our additions
 
 global_sponsors = yaml.safe_load("""
+- name: readthedocs-wordmark-dark
+  link: https://readthedocs.org
+  brand: Read the Docs
+  comment: Website Hosting
 - name: nytril
   link: https://www.nytril.com?utm_source=wtd
   brand: Nytril
