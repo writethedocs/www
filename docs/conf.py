@@ -212,7 +212,12 @@ logging.getLogger('sphinx').addFilter(_ParallelReadFilter())
 
 # Our additions
 
-global_sponsors = ""
+global_sponsors = yaml.safe_load("""
+- name: nytril
+  link: https://www.nytril.com?utm_source=wtd
+  brand: Nytril
+  comment: Docs as Code
+""")
 
 # Dynamic announcement message
 announcement_message = None
