@@ -4,7 +4,7 @@ banner: _static/conf/images/headers/berlin-2026-group-photo.jpg
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
-```{post} July 18, 2026
+```{post} July 31, 2026
 :tags: {{shortcode}}-{{year}}, speakers, tickets, visiting, writing-day, social, shirts, sponsors
 ```
 
