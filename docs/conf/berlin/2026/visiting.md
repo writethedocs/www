@@ -25,6 +25,12 @@ We're working on the details of the conference, including the venue, schedule, a
 - [Mercure Hotel Berlin Wittenbergplatz](https://all.accor.com/hotel/9147/index.en.shtml)
 - [Park Inn Alexanderplatz](https://www.radissonhotels.com/en-us/hotels/park-inn-berlin-alexanderplatz)
 
+### Budget-friendly Accommodations
+
+- [Space Night Capsule Hotel](https://spacenight.berlin/en/)
+- [St. Christopher's - Mitte](https://www.st-christophers.co.uk/mitte-hostel/)
+- [a&o Hostel Berlin Mitte](https://www.aohostels.com/en/berlin/berlin-mitte/)
+
 ## Food and Beverages
 
 ### Food near bUm (within a 10-minute walk)

@@ -106,6 +106,10 @@ Incoming project information, check back here for updates closer to the conferen
 
 Find specific examples on the [Portland Writing Day {{year}} project list](https://www.writethedocs.org/conf/portland/{{year}}/writing-day/#project-list).
 
+## Roundtable Discussions
+
+Roundtable discussions are pre-scheduled, facilitated conversations held in the afternoon. Topics include AI in documentation and API docs. We are keeping the topics focused this year as an experiment, and if it goes well might expand to a full-day discussion track in the future.
+
 ## Contact us
 
 Email us at {{ email }} with any questions.
