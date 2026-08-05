@@ -8,7 +8,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 :tags: {{shortcode}}-{{year}}, tickets, writing-day, shirts, social, sponsors
 ```
 
-# Only 4 Weeks Until Write the Docs {{ city }}
+# Only 4 weeks until Write the Docs {{ city }}
 
 Write the Docs {{ city }} is officially just under 4 weeks away, on {{ date.main }}! Whether you're a programmer, tech writer, designer, project manager, or developer advocate, we have talks and a community for you.
 
@@ -16,7 +16,7 @@ Write the Docs {{ city }} is officially just under 4 weeks away, on {{ date.main
 Buy your ticket
 ```
 
-## Get Your Tickets
+## Get your tickets
 
 Still need a ticket? Now is a great time to purchase your ticket.
 
@@ -32,17 +32,17 @@ In-person space is limited, so we recommend getting your ticket soon.
 Buy your ticket
 ```
 
-## Writing Day Projects
+## Writing Day projects
 
 The call for Writing Day projects is still open! For best visibility, submit your project by **{{ writing_day.project_deadline }}** so we can share it with our attendees before the conference.
 
-Online project submission is optional, and you're welcome to introduce a project on the day. New this year, we're also running [Roundtable Discussions](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/#roundtable-discussions): facilitated afternoon conversations on focused topics like AI in documentation and API docs. All are welcome!
+Online project submission is optional, and you're welcome to introduce a project on the day. New this year, we're also running [Roundtable Discussions](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/#roundtable-discussions): facilitated afternoon conversations on focused topics, which might include AI in documentation and API docs. All are welcome!
 
 ```{button-link} {{ writing_day.url }}
 Submit your Writing Day project
 ```
 
-## How Do I Participate in the Conference?
+## How do I participate in the conference?
 
 There are a number of ways to engage in the conference. You can contribute to a Writing Day project, listen to Speaker Talks, facilitate an [Unconference](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/unconference/) session, give a [Lightning Talk](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/lightning-talks/), or chat with our Sponsors!
 
@@ -54,7 +54,7 @@ View our [Schedule](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sch
 
 We have two evening events this year. On {{ date.day_two.dotw }} we're hosting a Welcome Reception at {{ about.venue }} from {{ date.day_two.reception_time }} {{ tz }}, right after Writing Day. On {{ date.day_three.dotw }} evening we're hosting an off-site social from {{ date.day_three.social_time }} {{ tz }}. Drinks and snacks are provided at both events, with non-alcoholic options available.
 
-## Planning Your Trip to Berlin
+## Planning your trip to Berlin
 
 If you're travelling in, our [Visiting Berlin](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/) page has tips on getting around and neighbourhoods to consider, and the [Venue page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/venue/) has directions to {{ about.venue }}, including notes on step-free access.
 
@@ -62,7 +62,7 @@ If you're travelling in, our [Visiting Berlin](https://www.writethedocs.org/conf
 
 The [Write the Docs {{ city }} {{ year }} T-shirt Shop]({{ shirts.url }}) is open! We're doing a mail order shop so people can order the exact shirt they want. Shipping is available from the USA or Europe, so we recommend ordering at least 2-3 weeks in advance if you want to wear yours at the conference.
 
-## Join our Slack Community
+## Join our Slack community
 
 Our Slack network is the best way to connect with our community. Visit our [Slack info page](https://www.writethedocs.org/slack/) to join and explore a list of our channels.
 

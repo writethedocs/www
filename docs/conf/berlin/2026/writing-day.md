@@ -108,7 +108,7 @@ Find specific examples on the [Portland Writing Day {{year}} project list](https
 
 ## Roundtable Discussions
 
-Roundtable discussions are pre-scheduled, facilitated conversations held in the afternoon. Topics include AI in documentation and API docs. We are keeping the topics focused this year as an experiment, and if it goes well might expand to a full-day discussion track in the future.
+Roundtable discussions are pre-scheduled, facilitated conversations held in the afternoon. Topics might include AI in documentation and API docs. We are keeping the topics focused this year as an experiment, and if it goes well might expand to a full-day discussion track in the future.
 
 ## Contact us
 
