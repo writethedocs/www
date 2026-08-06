@@ -75,8 +75,8 @@ Each sponsorship includes different opportunities to engage with our attendees. 
 
 Sponsor booths are set up in the main hallway on {{ date.day_three.dotw }} and {{ date.day_four.dotw }} outside of the auditorium.
 
-**Location:** Main hallway, outside the auditorium
-**Availability:** {{ date.day_three.dotw }} and {{ date.day_four.dotw }}, full conference hours
+* **Location:** Main hallway, outside the auditorium
+* **Availability:** {{ date.day_three.dotw }} and {{ date.day_four.dotw }}, full conference hours
 
 #### What Write the Docs Provides
 
