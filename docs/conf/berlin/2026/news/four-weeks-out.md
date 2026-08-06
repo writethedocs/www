@@ -12,10 +12,6 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 Write the Docs {{ city }} is officially just under 4 weeks away, on {{ date.main }}! Whether you're a programmer, tech writer, designer, project manager, or developer advocate, we have talks and a community for you.
 
-```{button-link} https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}
-Buy your ticket
-```
-
 ## Get your tickets
 
 Still need a ticket? Now is a great time to purchase your ticket.
@@ -34,9 +30,9 @@ Buy your ticket
 
 ## Writing Day projects
 
-The call for Writing Day projects is still open! For best visibility, submit your project by **{{ writing_day.project_deadline }}** so we can share it with our attendees before the conference.
+For best visibility, submit your project by **{{ writing_day.project_deadline }}** and we'll include it in our email and on social before the conference. Online project submission is recommended but optional. You're always welcome to introduce a project day of.
 
-Online project submission is optional, and you're welcome to introduce a project on the day. New this year, we're also running [Roundtable Discussions](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/#roundtable-discussions): facilitated afternoon conversations on focused topics, which might include AI in documentation and API docs. All are welcome!
+New this year, we're also running [Roundtable Discussions](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/#roundtable-discussions): pre-scheduled, facilitated afternoon conversations on focused topics, which might include AI in documentation and API docs. All are welcome!
 
 ```{button-link} {{ writing_day.url }}
 Submit your Writing Day project
