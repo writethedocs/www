@@ -52,8 +52,8 @@ Each sponsorship includes different opportunities to engage with our attendees. 
 
 Attendees are always looking for great products to use in their day-to-day workflows, and are curious to learn more about your company.
 
-**Location:** Main hallway, outside the auditorium
-**Availability:** {{ date.day_one.dotw }} and {{ date.day_two.dotw }}, full conference hours
+* **Location:** Main hallway, outside the auditorium
+* **Availability:** {{ date.day_one.dotw }} and {{ date.day_two.dotw }}, full conference hours
 
 #### What Write the Docs provides
 
