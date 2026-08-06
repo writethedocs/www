@@ -8,12 +8,32 @@
 }
 .sponsors .sponsor {
     display: inline-block;
+    vertical-align: middle;
     text-align: center;
     text-decoration: none;
     padding: 10px;
 }
+.sponsors .sponsor-cta {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+    padding: 6px 14px;
+    border: 1px solid #BCC1C3;
+    border-radius: 999px;
+    font-size: 12px;
+    color: #757575;
+    text-decoration: none;
+    transition: color 0.15s, border-color 0.15s;
+}
+.sponsors .sponsor-cta:hover {
+    border-color: #757575;
+    color: #464646;
+    text-decoration: none;
+}
 .sponsors .sponsor img {
-    width: 90px;
+    max-width: 90px;
+    max-height: 18px;
+    width: auto;
     height: auto;
 }
 .sponsors .sponsor-name {
@@ -82,11 +102,6 @@ div.footer,div.footer a {
 
   <div class="sponsors" id="community-sponsors" style="width: 100%;">
   <hr>
-    <a class="sponsor" href="https://readthedocs.org" rel="noopener" target="_blank">
-      <img src="https://read-the-docs-guidelines.readthedocs-hosted.com/_images/logo-wordmark-dark.png" alt="Read the Docs" class="sponsor-image">
-      <div class="sponsor-name">Read the Docs</div>
-      <div class="sponsor-description">Website Hosting</div>
-    </a>
     {% for sponsor in global_sponsors %}
     <a class="sponsor" href="{{ sponsor.link }}" rel="noopener" target="_blank">
       <img src="{{ sponsor.name|sponsor_photo }}" alt="{{ sponsor.brand }}" class="sponsor-image">
@@ -95,9 +110,7 @@ div.footer,div.footer a {
     </a>
     {% endfor %}
 
-    <a class="sponsor" href="{{ pathto('sponsorship/index') }}" rel="noopener" target="_blank">
-      <div class="sponsor-name">Sponsorship Info</div>
-    </a>
+    <a class="sponsor-cta" href="{{ pathto('sponsorship/index') }}">Become a sponsor →</a>
   </div>
 </div>
 

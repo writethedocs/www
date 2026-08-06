@@ -1,0 +1,10 @@
+# Global sponsors shown in the website footer on every page.
+# Logos live in docs/_static/img/sponsors/<name>.<ext>.
+- name: readthedocs-wordmark-dark
+  link: https://about.readthedocs.com
+  brand: Read the Docs
+  comment: Website Hosting
+- name: nytril
+  link: https://www.nytril.com?utm_source=wtd
+  brand: Nytril
+  comment: Docs as Code
