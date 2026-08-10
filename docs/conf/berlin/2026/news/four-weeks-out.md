@@ -4,7 +4,7 @@ banner: _static/conf/images/headers/berlin-2026-group-photo.jpg
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
-```{post} August 4, 2026
+```{post} August 10, 2026
 :tags: {{shortcode}}-{{year}}, tickets, writing-day, shirts, social, sponsors
 ```
 
@@ -16,11 +16,11 @@ Write the Docs {{ city }} is officially just under 4 weeks away, on {{ date.main
 
 Still need a ticket? Now is a great time to purchase your ticket.
 
-| Ticket type           | In person                       | Virtual                                 |
-| :-------------------- | :------------------------------ | :-------------------------------------- |
-| Student or unemployed | {{ tickets.student.price }}     | {{ tickets.virtual_student.price }}     |
-| Independent           | {{ tickets.independent.price }} | {{ tickets.virtual_independent.price }} |
-| Corporate             | {{ tickets.corporate.price }}   | {{ tickets.virtual_corporate.price }}   |
+| Ticket type                         | In person &nbsp; &nbsp;         | Virtual                                 |
+| :---------------------------------- | :------------------------------ | :-------------------------------------- |
+| Student or unemployed &nbsp; &nbsp; | {{ tickets.student.price }}     | {{ tickets.virtual_student.price }}     |
+| Independent                         | {{ tickets.independent.price }} | {{ tickets.virtual_independent.price }} |
+| Corporate                           | {{ tickets.corporate.price }}   | {{ tickets.virtual_corporate.price }}   |
 
 In-person space is limited, so we recommend getting your ticket soon.
 
@@ -48,7 +48,7 @@ View our [Schedule](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sch
 
 ## Welcome Reception and Night Social
 
-We have two evening events this year. On {{ date.day_two.dotw }} we're hosting a Welcome Reception at {{ about.venue }} from {{ date.day_two.reception_time }} {{ tz }}, right after Writing Day. On {{ date.day_three.dotw }} evening we're hosting an off-site social from {{ date.day_three.social_time }} {{ tz }}. Drinks and snacks are provided at both events, with non-alcoholic options available.
+We have two evening events this year. On {{ date.day_two.dotw }} we're hosting a Welcome Reception at {{ about.venue }} from {{ date.day_two.reception_time }} {{ tz }}, right after Writing Day. On {{ date.day_three.dotw }} evening we're hosting an off-site social at Straßenbräu Ausschank 2 from {{ date.day_three.social_time }} {{ tz }}. Drinks and snacks are provided at both events, with non-alcoholic options available.
 
 ## Planning your trip to Berlin
 
