@@ -8,12 +8,12 @@ to date with the documentation world.
 Each community group has its own unique style that varies based on the organizers and the locale it represents.
 
 The most active group platform is Meetup, which supports in-person and virtual events. While not required, the majority
-of our community groups opt to use the Meetup platform. Many groups also create a LinkedIn page/group or other group
-specific social media to share their events.
+of our community groups opt to use the Meetup platform. Many groups also create a LinkedIn page/group or other
+group-specific social media to share their events.
 
 .. note:: Community groups are run by volunteer organizers. The type and frequency of
     events depend on the organizers, their schedule, as well as group engagement.
-    Learn more about organizing 
+    Learn more about organizing in the `Organize a community group`_ section below.
 
 Current meetups
 -----------------------

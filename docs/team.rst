@@ -34,8 +34,8 @@ How teams operate and interact
 - **All membership and leadership roles are staffed by enthusiastic opt-in.** We want to prioritize the well-being of our contributors, and we're happy to have you if you're happy to contribute to the community.
 - Each team operates independently except for actions that impact other teams or the community.
 - Each team is responsible for implementing and monitoring community guidelines, including CoC, within their team's area.
-- Teams leads are paid positions and have a seat on the community board, which can propose and vote on internal organizational changes and processes. Team budgets are determined by the team leads and voted on by the community board.
-- CoreOps team members act as backup team leads in a case team lead steps down without a replacement.
+- Team leads are paid positions and have a seat on the community board, which can propose and vote on internal organizational changes and processes. Team budgets are determined by the team leads and voted on by the community board.
+- CoreOps team members act as backup team leads in case a team lead steps down without a replacement.
 - Teams are generally comprised of volunteers. Depending on the scope and time investment of team members, they can step up to be a team lead after an agreed upon duration of service on the team.
 
 Joining and leaving teams
@@ -49,7 +49,7 @@ Joining and leaving teams
       - be an active member of the community for at least one year (online or at events)
       - be approved by the team lead and at least one additional team member from any team
       - satisfy the membership requirements of that team as specified in each team section
-      - have sufficient English communication skills to perform the role in the teams, (English editorial skills are required in all teams that communicate in an official capacity, such as the Newsletter or Social Media team)
+      - have sufficient English communication skills to perform the role in the teams (English editorial skills are required in all teams that communicate in an official capacity, such as the Newsletter or Social Media team)
 
   Team leads
     - Team leads serve for a minimum of one year.
@@ -141,7 +141,7 @@ Membership
 Members
 ~~~~~~~
 
-- `Eric Holscher <https://twitter.com/ericholscher>`_ (business owner)
+- `Eric Holscher <https://www.ericholscher.com/>`_ (business owner)
 - `Mikey Ariel <https://twitter.com/thatdocslady>`_ (board chair)
 - `Sasha Romijn <https://twitter.com/mxsash>`_
 - `Samuel Wright <https://twitter.com/plaindocs>`_
@@ -168,7 +168,7 @@ Membership
 Team leads (conference chairs)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- `Eric Holscher <https://twitter.com/ericholscher>`_ (Portland)
+- `Eric Holscher <https://www.ericholscher.com/>`_ (Portland)
 - `Sasha Romijn <https://twitter.com/mxsash>`_ (Atlantic)
 - `Swapnil Ogale <https://twitter.com/swapnilogale>`_ (Australia)
 
@@ -270,7 +270,7 @@ Membership
 
 Members
 ~~~~~~~
-- `Eric Holscher <https://twitter.com/ericholscher>`_ (team lead)
+- `Eric Holscher <https://www.ericholscher.com/>`_ (team lead)
 - You?
 
 
@@ -283,7 +283,7 @@ Responsibilities
 ~~~~~~~~~~~~~~~~
 
   Social Media
-    - Point of contact for the WTD accounts on `Twitter <https://twitter.com/writethedocs>`_, Facebook, and LinkedIn
+    - Point of contact for the WTD accounts on `LinkedIn <https://www.linkedin.com/company/write-the-docs>`_, `Bluesky <https://bsky.app/profile/writethedocs.bsky.social>`_, and `Mastodon <https://fosstodon.org/@writethedocs>`_
     - Manage and develop social media strategy for the community
     - Source updates and publications from other teams and manage scheduled posts
 
@@ -325,7 +325,7 @@ Membership
 Members
 ~~~~~~~
 
-- `Eric Holscher <https://twitter.com/ericholscher>`_ (team lead)
+- `Eric Holscher <https://www.ericholscher.com/>`_ (team lead)
 - `Jennifer Rondeau <https://twitter.com/bradamante>`_
 
 
@@ -335,7 +335,7 @@ Write the Docs Alumni
 These are folks who have helped a lot in the past, but have moved on to other projects.
 We wouldn't be where we are without them, and want to make sure they aren't forgotten.
 
-- `Eric Redmond <https://twitter.com/coderoshi>`_
+- `Eric Redmond <https://github.com/coderoshi>`_
 - `Troy Howard <https://twitter.com/thoward37>`_
 - `Anthony Johnson <https://twitter.com/agjhnsn>`_
 - `Kelly O'Brien <https://twitter.com/OBrienEditorial>`_
