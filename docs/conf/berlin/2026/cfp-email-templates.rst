@@ -201,11 +201,11 @@ Subject:
 
    We're about seven weeks out from the conference now, lots of stuff is happening behind the scenes, and I hope you're feeling good about writing and speaking.
 
-   We've got a [provisional schedule]({{cfp.preview}}) up, I've taken note of all of your requests, but I'd *love it* if you could check your time-slot and make sure it works for you. We'll be publishing it **next Monday**, so please request any changes well before that.
+   We've got a [provisional schedule]({{cfp.preview}}) up, I've taken note of all of your requests, but I'd *love it* if you could check your time-slot and make sure it works for you. We'll be publishing it **next week**, so please request any changes ASAP.
 
-   Q&A sessions are audience driven, moderated by the emcee, and asked in a conversation style directly after your talk, expect about 5 minutes.
+   Q&A sessions are audience driven, moderated by the emcee, and asked in a conversation style directly after your talk, expect about 5 minutes (not included in your 30 min talk time).
 
-   You might find it useful to check out the [speaker info](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-info/) and the [what to expect guide](https://www.writethedocs.org/blog/what-to-expect-as-a-speaker/).
+   You might find it useful to check out the [speaker info](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-info/) (freshly updated with media kit) and the [what to expect guide](https://www.writethedocs.org/blog/what-to-expect-as-a-speaker/).
 
    As we've done for the past few years we'll be live captioning all talks, and it makes the [captioners](https://www.youtube.com/watch?v=xFnM6vmvWaI) lives *much* easier if you can send in a copy of your slides, or even a word list of unusual words that you might use. We'll let you know where to send these a few weeks before the conference.
 

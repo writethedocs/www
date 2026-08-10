@@ -6,8 +6,6 @@ import os
 import sys
 import datetime
 
-import yaml
-
 # Only for windows compatibility - Forces default encoding to UTF8, which it may not be on windows
 if os.name == 'nt':
     # monkeypatches sphinxcontrib.datatemplates so it uses utf-8 as the encoding
@@ -64,6 +62,7 @@ from _ext.core import (
     render_rst_with_jinja, override_template_load_context, set_html_context, unset_html_context
 )
 from _ext.filters import add_jinja_filters_to_app
+from _ext.utils import load_yaml
 from _ext.meetups import MeetupListing
 from _ext.atom_absolute import rewrite_atom_feed
 from _ext.button import ButtonLink
@@ -212,7 +211,7 @@ logging.getLogger('sphinx').addFilter(_ParallelReadFilter())
 
 # Our additions
 
-global_sponsors = ""
+global_sponsors = load_yaml('_data/global-sponsors.yaml')
 
 # Dynamic announcement message
 announcement_message = None

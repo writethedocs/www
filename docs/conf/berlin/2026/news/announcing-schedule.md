@@ -1,0 +1,74 @@
+---
+template: {{year}}/generic.html
+banner: _static/conf/images/headers/berlin-2026-group-photo.jpg
+og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
+---
+
+```{post} July 31, 2026
+:tags: {{shortcode}}-{{year}}, speakers, tickets, visiting, writing-day, social, shirts, sponsors
+```
+
+# Announcing Our Conference Schedule
+
+Write the Docs {{ city }} is coming up on **{{ date.short }}**, and today we're publishing the [full conference schedule](/conf/{{shortcode}}/{{year}}/schedule/).
+
+You've already seen our list of awesome speakers; now you can see when they will be presenting, and start planning your time across Writing Day, the main talks, Unconference, and Lightning Talks.
+
+```{button-link} https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}
+Buy your ticket
+```
+
+## Conference Schedule
+
+The website is updated with the [schedule](/conf/{{shortcode}}/{{year}}/schedule/) for the full conference, including main stage speaker talks, so you can start planning your time (and getting excited!) for the conference.
+
+We'll continue to have a moderated Q&A session after each speaker. You'll have a chance to ask our speakers questions after the talk via our wonderful set of moderators. Virtual attendees can ask questions using the same QR code as folks attending locally.
+
+## Virtual Conference Tickets
+
+Interested in listening to the Speaker Talks in real time but unable to attend in person? We are excited to have a [Virtual Ticket option](/conf/{{shortcode}}/{{year}}/virtual/). All in-person tickets also receive access to watch virtually as well.
+
+## Start Preparing For Writing Day
+
+We're bringing writing day back to {{ city }}!
+
+[Writing Day](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/) happens on {{ date.day_two.dotw }}, the opening day of the conference. It's a valuable opportunity to bring interested individuals into the same room, sharing their passions and aspirations while collaborating to develop creative solutions to solve a problem or issue.
+
+**Writing Day project** (half-day or full-day): attendees can lead a project or join and contribute to a project.
+
+Are you interested in leading a Writing Day project? We highly encourage you to [submit your project here]({{writing_day.url}}). As always, you are welcome to show up on {{ date.day_two.dotw }} and introduce your project then!
+
+In the afternoon, we're also hosting [Roundtable Discussions](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/#roundtable-discussions): pre-scheduled, facilitated conversations on focused topics like AI in documentation and API docs.
+
+## Events and Activities
+
+Write the Docs is more than a conference. In addition to Speaker Talks, Writing Day, Unconference, and Lightning Talks, we offer additional activities for our attendees to enjoy, connect, engage in discussions, and meet new people.
+
+* **{{ date.day_two.dotw }} Welcome Reception:** New this year, we are hosting a Welcome Reception at {{ about.venue }} from {{ date.day_two.reception_time }} {{ tz }}. Come pick up your badge, meet other attendees, and get familiar with the venue.
+* **{{ date.day_three.dotw }} Night Social:** On {{ date.day_three.dotw }} evening we're hosting an off-site social event from {{ date.day_three.social_time }} {{ tz }}. This is a great chance to get to know more folks in the community and have a drink or two on us.
+
+Drinks and snacks are provided at both events, with non-alcoholic options available.
+
+## T-shirts Are Available
+
+The [Write the Docs {{city}} {{year}} T-shirt Shop]({{ shirts.url }}) is open! We have loose and fitted options from different fabrics, and you can choose exactly the size and cut you want. As in previous years, we're doing a mail order shop so people can order the exact shirt they want, if they want one.
+
+The campaign will run in batches until {{ shirts.ends }}. Shipping is available from the USA or Europe. We recommend you order your shirt at least 2-3 weeks in advance if you want to sport your fancy new garb during the conference.
+
+## Website Resources
+
+View our [Attendee Guide](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/attendee-guide/) for a comprehensive overview of how to participate in the conference.
+
+## Thanks To Our Sponsors
+
+Thanks to our sponsors for supporting the conference this year. A number of them will be tabling on {{ date.day_three.dotw }} and {{ date.day_four.dotw }}. We hope you get a chance to talk with them while you're here.
+
+```{eval-rst}
+.. datatemplate::
+   :source: /_data/{{shortcode}}-{{year}}-config.yaml
+   :template: {{year}}/sponsors-simplelist.rst
+```
+
+## See You Soon!
+
+Thanks so much for all your support and enthusiasm. We're so excited to be with you all soon!
