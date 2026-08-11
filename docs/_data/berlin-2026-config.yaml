@@ -145,7 +145,7 @@ date: # how do we handle these? human readable would be nice.
 
 about:
   attendees: 200
-  social_venue: TBD
+  social_venue: Straßenbräu Ausschank 2, Görlitzer Str. 52, 10997 Berlin
   venue: bUm Berlin
   venue_address: Paul-Lincke-Ufer 21, 10999 Berlin, Germany
   photos: TBD
@@ -224,5 +224,5 @@ flaghaslightningtalks: True
 flaghassponsorexpo: True
 flaghasboat: False
 flaghasvisiting: True
-flaghasteam: False
+flaghasteam: True
 flaghasattendeeguide: True
