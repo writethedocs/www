@@ -12,21 +12,20 @@ Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel a
 Upcoming Book Club
 ------------------
 
-Our next book club starts Tuesday, November 25, 2025.
+There's no book club scheduled right now.
+Watch the #learn-tech-writing channel on our :doc:`/slack` for the next announcement.
 
-Book: Manny Silva's `Docs as Tests: A Strategy for Resilient Technical Documentation <https://www.amazon.com/dp/0994169361>`_
-
-
-Previous Book club reads
+Previous Book Club reads
 ------------------------
 
+* November 2025: Manny Silva's `Docs as Tests: A Strategy for Resilient Technical Documentation <https://www.amazon.com/dp/0994169361>`_
 * June - July 2024: Elton Stoneman's `Learn Kubernetes in a Month of Lunches <https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches>`_
-* March - May 2024: Alejandra Quetzalli's `Docs-as-Ecosystem <https://www.docsasecosystem.com/>`_
+* March - May 2024: Alejandra Quetzalli's `Docs-as-Ecosystem <https://www.goodreads.com/book/show/133207376-docs-as-ecosystem>`_
 * July - August 2023: Laura Kalbag's `Accessibility for Everyone <https://abookapart.com/products/accessibility-for-everyone>`_
 * February - April 2023: June Casagrande's `It Was the Best of Sentences, It Was the Worst of Sentences <https://www.penguinrandomhouse.com/books/198856/it-was-the-best-of-sentences-it-was-the-worst-of-sentences-by-june-casagrande/>`_
-* September - December 2022: Torrey Podmajersky's `Strategic Writing for UX <https://torreypodmajersky.com/strategic-writing-for-ux/>`_
+* September - December 2022: Torrey Podmajersky's `Strategic Writing for UX <https://www.oreilly.com/library/view/strategic-writing-for/9781492049388/>`_
 * April - June 2022: Rick Umali's `Learn Git in a Month of Lunches <https://www.manning.com/books/learn-git-in-a-month-of-lunches>`_
-* February - March 2022: Jared Batti and others' `Docs for Developers <https://docsfordevelopers.com/>`_
+* February - March 2022: Jared Bhatti and others' `Docs for Developers <https://docsfordevelopers.com/>`_
 * September - November 2021: Antony Johnston's `The Organised Writer <http://organised-writer.com/>`_
 * June - July 2021: Janice Redish's `Letting Go of the Words <https://redish.net/books/letting-go-of-the-words/>`_
 * January - March 2021: Richard Hamilton's `Managing Writers <https://www.amazon.com/gp/product/0982219105>`_
@@ -34,7 +33,7 @@ Previous Book club reads
 * August - September 2020: Steve Krug's `Don't Make Me Think, Revisited (3rd Edition) <https://www.sensible.com/dmmt.html>`_
 * June - July 2020: Abby Covert's `How to Make Sense of Any Mess <http://www.howtomakesenseofanymess.com/>`_
 * March - May 2020: Mark Baker's `Every Page Is Page One <https://everypageispageone.com/the-book/>`_
-* January 2020: Christopher Gale (and the Splunk team)'s `The Product Is Docs <https://www.splunk.com/en_us/blog/splunklife/the-product-is-docs.html>`_
+* January - February 2020: Christopher Gales (and the Splunk team)'s `The Product Is Docs <https://www.splunk.com/en_us/blog/splunklife/the-product-is-docs.html>`_
 
 ..
 

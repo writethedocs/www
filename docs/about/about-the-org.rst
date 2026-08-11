@@ -35,3 +35,8 @@ Code of Conduct
 ~~~~~~~~~~~~~~~
 
 We believe strongly in providing a welcoming and inclusive community. You can read our :doc:`/code-of-conduct` to better understand what we expect in our online and in-person spaces.
+
+Contact Us
+~~~~~~~~~~
+
+Have a question that isn't answered here? Our :doc:`/contact` page lists the best ways to reach us.

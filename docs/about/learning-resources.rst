@@ -33,7 +33,7 @@ All the presentation videos are available on our `YouTube channel <https://www.y
 Podcast
 ~~~~~~~
 
-The :doc:`/podcast` is brought to you by our community members and highlights some of the discussions and stories that happen at our various events and online spaces.
+The :doc:`/podcast`, brought to you by our community members, highlights some of the discussions and stories that happen at our various events and online spaces. It's not currently releasing new episodes, but the full archive is available.
 
 Documentation Guide
 ~~~~~~~~~~~~~~~~~~~
@@ -58,9 +58,9 @@ You can check out the :doc:`/hiring-guide/index` here.
 Surveys
 ~~~~~~~
 
-We sometimes create `surveys </surveys/>`_ that help us understand a bit more about our community.
+We run an annual `salary survey </surveys/>`_ that helps us understand a bit more about our community.
 
-Latest: The `Write the Docs Salary Survey 2022 Results </surveys/salary-survey/2022/>`_ are now in.
+Latest: The `Write the Docs Salary Survey 2025 Results </surveys/salary-survey/2025/>`_ are now in.
 
 Book Club Write-ups
 ~~~~~~~~~~~~~~~~~~~

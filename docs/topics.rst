@@ -36,7 +36,6 @@ Naming and terminology
 - |:newspaper:| `Common words and how to identify them </blog/newsletter-june-2020/#common-words-and-how-to-identify-them>`__
 - |:movie_camera:| `Even Naming This Talk Is Hard <https://www.youtube.com/watch?v=RFfpkrbkvxc>`__
 - |:movie_camera:| `Whatchamacallit: Controlled Vocabularies for Technical Writers <https://www.youtube.com/watch?v=0kg-6YCDg64>`__
--
 
 Specific writing questions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~

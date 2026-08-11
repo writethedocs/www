@@ -27,8 +27,8 @@ If you want to get involved you can:
     in your Slack client.
 
 .. _signup form: {{ slack_form }}
-.. _this page: https://github.com/writethedocs/www/blob/master/docs/slack.rst
-.. _disable all animations: https://get.slack.help/hc/en-us/articles/228023907-Manage-animated-images-and-emoji
+.. _this page: https://github.com/writethedocs/www/blob/main/docs/slack.rst
+.. _disable all animations: https://slack.com/help/articles/228023907-Manage-animated-images-and-emoji
 
 Slack History
 -------------
@@ -38,11 +38,11 @@ That doesn't mean everything gets lost, though.
 Here are a few ways to preserve what you've learned for yourself and others:
 
 - React to a message with ``:suggest-for-newsletter:`` emoji to nominate it for inclusion in our next monthly newsletter.
-  Read the newsletter archives at :doc:`/newsletter/` and subscribe if you want them directly in your inbox!
+  Read the newsletter archives at :doc:`/newsletter` and subscribe if you want them directly in your inbox!
 - Contribute a summary to one of the Write the Docs site's :doc:`/about/learning-resources`.
 - Turn a discussion into a talk proposal for :doc:`an upcoming Write the Docs conference </conf/index>`.
 - `Save a message`__ privately in Slack.
-- Recap what you learned and share it on your own site or social media accounts. Don't forget to tag `#writethedocs`!
+- Recap what you learned and share it on your own site or social media accounts. Don't forget to tag ``#writethedocs``!
 
 .. __: https://slack.com/intl/en-gb/help/articles/360042650274-Save-messages-and-files-
 
@@ -66,7 +66,7 @@ We considered that, and decided not to for the following reasons:
   Because it's a work-related community, a lot of people access the Write the Docs Slack from their work computers alongside their employers' Slack instances.
   They often cannot do the same for other chat platforms.
 - Migrating platforms is not a priority for the capacity of our small moderation team.
-  Our community has a *lot* of people in it - we've got over 20,000 registered members.
+  Our community has a *lot* of people in it - we've got over {{ slack_members }} registered members.
   Moving an active community that large to a different platform requires a lot of attention that we believe is better spent on other tasks to serve the community.
 
 Autoresponders
@@ -96,7 +96,7 @@ We have some helpful Slackbot responses that you can summon in any channel, at a
 
 * ``?tools`` / ``?doctools`` / ``?tooloptions`` / ``?chooseatool``
 
-  - Choosing documentation tools can tough! This provides a list of links you might find helpful when you're considering a new one.
+  - Choosing documentation tools can be tough! This provides a list of links you might find helpful when you're considering a new one.
 
 * ``?coc``
 
@@ -117,7 +117,7 @@ We have some helpful Slackbot responses that you can summon in any channel, at a
 Channel guide
 -------------
 
-The Write the Docs Slack has _lots_ of channels.
+The Write the Docs Slack has *lots* of channels.
 Some channels are widely joined, while others are more specialized.
 Here's an overview of how we use channels on Slack.
 
@@ -140,7 +140,7 @@ Other useful topical channels
 * **#career-advice** - Should you take that job? Am I being paid enough? Ask here!
 * **#learn-tech-writing** - Are you considering a job in documentation, or want to tune up your skills? Chat with experts and other learners here, and consider reading a tech writing-related book with the WTD book club!
 * **#markup-the-docs** - Talk about markup languages. Markdown, rST, Asciidoc, etc.
-* **#documenting-apis** - Talk about REST API's. Swagger, Apiary, API Blueprint, and other API doc tools.
+* **#documenting-apis** - Talk about REST APIs. Swagger, Apiary, API Blueprint, and other API doc tools.
 * **#sphinx** - Talk about the Sphinx documentation generation tool.
 * **#flare** - Talk about the Flare documentation toolkit.
 * **#confluence** - Talk about everyone's favorite Wiki.
@@ -208,7 +208,7 @@ You can help us do this by following these tips:
 - **Say hi.**
   Don't forget to introduce yourself in ``#intros``.
   If you've been away a while, reintroduce yourself.
-  The world is a better place with a flood of hello's.
+  The world is a better place with a flood of hellos.
 - **Use inclusive language.**
   Our community is multicultural, multiracial, multigendered, and generally diverse.
   When posting in channels, avoid using words such as "guys" to address a mixed group; possible alternatives include "folks", "everyone", and "documentarians".
