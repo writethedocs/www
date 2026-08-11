@@ -230,7 +230,7 @@ Subject:
 
    Hi {name},
 
-   We're just under a month away from meeting up in {{city}}! I hope you're feeling relaxed and confident.
+   We're about a month away from meeting up in {{city}}! I hope you're feeling relaxed and confident about your talk.
 
    The [conference schedule](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/) is live! :-)
 
@@ -242,7 +242,7 @@ Subject:
 
    Take a look at our *freshly updated* [speaker info page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speaker-info/) which has everything you need to know about speaking at Write the Docs! Missing something? Let us know!
 
-   We'll be in touch in a couple of weeks for a copy of your slides for our captioners!
+   We'll be in touch in a couple of weeks for a copy of your slides for our captioners! In the meantime, if you do have a preliminary version of your slides, our sketchnote artist, [{{cfp_variables['sketchnote_name']}}]({{cfp_variables['sketchnote_email']}}) would love a look at them early on.
 
    In the meantime, if you have any questions at all about the event, you definitely know how to reach me by now.
 

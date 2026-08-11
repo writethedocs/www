@@ -81,6 +81,8 @@ cfp_variables['upload'] = os.environ.get('WTD_CFP_UPLOAD')
 cfp_variables['ticket'] = os.environ.get('WTD_CFP_SPEAKER_TICKET')
 cfp_variables['feedback_form'] = os.environ.get('WTD_CFP_FEEDBACK_FORM')
 cfp_variables['speaker_gift_form'] = os.environ.get('WTD_CFP_SPEAKER_GIFT_FORM')
+cfp_variables['sketchnote_name'] = os.environ.get('WTD_CFP_SKETCHNOTE_NAME')
+cfp_variables['sketchnote_email'] = os.environ.get('WTD_CFP_SKETCHNOTE_EMAIL')
 
 if all(cfp_variables.values()):
     print('Private CFP environment variables set. ✅')
