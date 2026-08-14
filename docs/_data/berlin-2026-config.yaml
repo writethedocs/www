@@ -159,7 +159,7 @@ cfp:
   notification: "June 15, 2026"                   # (Mon) 8 weeks to write and prepare
   speaker_tickets_by: "August 17, 2026"           # (Mon) Approx 3 weeks before
   video_by: "August 17, 2026"                     # Upload date for recorded talks (remote speakers)
-  slides_by: "August 17, 2026"                    # (Mon) 2-3 weeks before
+  slides_by: "August 24, 2026"                    # (Mon) 2-3 weeks before
   preview: "https://writethedocs-www--2726.org.readthedocs.build/conf/berlin/2026/schedule/"                                  # Preview URL TODO
 
 unconf:
