@@ -109,7 +109,9 @@ myst_all_links_external = True
 
 
 ogp_site_name = "Write the Docs"
-ogp_site_url = "/"
+# Must be an absolute URL: og:image and og:url are built by joining relative
+# paths onto this, and scrapers ignore Open Graph URLs without a domain.
+ogp_site_url = html_baseurl
 ogp_image = 'https://www.writethedocs.org/_static/logo-opengraph.png'
 ogp_use_first_image = True
 ogp_enable_meta_description = True
