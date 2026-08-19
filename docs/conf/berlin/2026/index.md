@@ -1,6 +1,6 @@
 ---
 template: 2026/index.html
-banner: _static/conf/images/headers/berlin-2026-small-group.jpg
+banner: _static/conf/images/headers/berlin-2026-group-photo.jpg
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 og:description: "{{ social_description }}"
 myst:
