@@ -74,11 +74,13 @@ Carolyn gave her first-ever lightning talk at Write the Docs Prague in 2017 and 
 
 Aaron has been helping teams create helpful, clear, and consistent documentation since before his first Write the Docs conference in 2018. He currently edits the monthly Write the Docs newsletter. Outside of documentation, he cofounded an amateur community theater to present Czech plays in English in Brno.
 
-### Dimple Poojary
+### Dimple Poojary (she/her)
 
 #### Writing Day Coordinator
 
 ![](/_static/img/2026/team/dimple.jpg)
+
+Based in Berlin, Dimple is thrilled to serve as a member of Write the Docs Berlin, something she's wanted to do for as long as she's known the community existed. She takes a hands-on approach to documentation, testing products end to end and surfacing bugs and UI improvements as part of her writing process, always starting from the user's perspective to make docs that are easy to find, easy to use, and accessible to everyone. When she's not writing docs, you'll find her gardening, dancing, or biking long distances.
 
 ### Chris Chinchilla (he/him)
 
@@ -124,13 +126,13 @@ Alicia loves to explain complex things in easy-to-understand ways and is passion
 
 Ingrid loves working as an editor, writing coach, and user champion at Red Hat. She blends a UX and Folklore background with editorial expertise and tempers both with the patience learned from 15 years of homeschooling 3 kids. In her down time, you can find her reading, drawing, dabbling with languages, or enjoying Renaissance dance and medieval cooking.
 
-### Pavithra Eswaramoorthy (she/her)
+### Heather Zoppetti (she/her)
 
 #### Virtual platform coordinator
 
-![](/_static/img/2024/team/pavithra.jpg)
+![](/_static/img/2024/team/heather.jpg)
 
-Pavithra works as a developer advocate at Quansight, where she focuses on developer experience and documentation of open source libraries for scientific computing. In her spare time, she enjoys a good book and hot coffee.
+Heather is a Philadelphia-based writer with a rich background in computer science and technical communication. By day, she programs, builds tools for engineers, and crafts clear, user-friendly documentation. By night, she trades keystrokes for knitting needles, cross-stitch, and other forms of needle witchcraft.
 
 ## Get involved
 
