@@ -4,6 +4,12 @@ template: {{year}}/generic.html
 
 # Virtual Attendance
 
+```{raw} html
+{% with in_person=False, virtual=True %}
+{% include "include/availability-2025.md" %}
+{% endwith %}
+```
+
 We're excited to offer a virtual attendance option for Write the Docs {{ city }} {{year}}.
 The virtual component will run on **{{ date.conference.date }}** alongside our in-person conference.
 
