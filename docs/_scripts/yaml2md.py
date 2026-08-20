@@ -3,10 +3,10 @@ from pathlib import Path
 from ruamel.yaml import YAML
 
 
-def yaml_to_markdown(yaml_path: str | Path) -> str:
+def yaml_to_markdown(yaml_path: Path) -> str:
     yaml = YAML()
 
-    with open(yaml_path, "r", encoding="utf-8") as f:
+    with yaml_path.open("r", encoding="utf-8") as f:
         data = yaml.load(f)
 
     sections = []
@@ -41,7 +41,8 @@ def yaml_to_markdown(yaml_path: str | Path) -> str:
 
 
 yaml_path = Path("../_data/mc-info.yaml")
+output_path = Path("mc-info.md")
 
 markdown = yaml_to_markdown(yaml_path)
 
-print(markdown)
+output_path.write_text(markdown + "\n", encoding="utf-8")
