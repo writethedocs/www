@@ -34,6 +34,15 @@ Two of the best ways to take part in the conference are the Unconference and Lig
 - **[Unconference](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/unconference/):** attendee-driven sessions where anyone can lead a discussion, show and tell, or short talk.
 - **[Lightning Talks](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/lightning-talks/):** brief, up-to-five-minute talks on anything you're passionate about. A great format for first-time speakers. Online submissions open Monday, and stay open in person through the last morning break. Need inspiration? Watch [last year's Berlin Lightning Talks](https://www.youtube.com/watch?v=lgBbeUFoSic&list=PLZAeFn6dfHpkP1wAM5OIqAMH4guScopET).
 
+## Register soon
+
+Space is limited, so don't wait to grab your ticket.
+Register by **Sunday, August 30**, and we'll have your name badge printed and ready. After that, you'll write your own at the door.
+
+```{button-link} https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}
+Register for Write the Docs {{ city }}
+```
+
 ## See you soon
 
 Questions? Email us at {{ email }}. See you in {{ date.month }}!
