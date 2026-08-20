@@ -5,6 +5,12 @@ banner: _static/conf/images/headers/2026/writing-day.jpg
 ---
 # What is Writing Day?
 
+```{raw} html
+{% with in_person=True, virtual=False %}
+{% include "include/availability-2026.md" %}
+{% endwith %}
+```
+
 Held on Sunday, Writing Day marks the official start of the conference.
 
 Writing Day is modeled after the concept of [code sprints](https://en.wikipedia.org/wiki/Sprint_%28software_development%29) or hackathons, which are common in open-source (OSS) conferences. Traditionally, this day has centered on collaborative work with attendees bringing a project to lead and/or contributing to someone else's project, typically half-day or full-day sessions.

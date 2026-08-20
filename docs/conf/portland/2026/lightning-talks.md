@@ -6,6 +6,12 @@ banner: _static/conf/images/headers/2026/lightning-talks.jpg
 
 # What is a Lightning Talk?
 
+```{raw} html
+{% with in_person=True, virtual=True, note="live streamed to virtual attendees" %}
+{% include "include/availability-2026.md" %}
+{% endwith %}
+```
+
 A Lightning Talk is a brief presentation, lasting up to five minutes, where you share an idea, concept, or piece of information that you find interesting. These talks can cover technical or non-technical topics - whatever you are passionate about!
 
 Lightning Talks are a fantastic opportunity for first-time speakers. Regardless of your speaking experience, we invite you to submit a talk.

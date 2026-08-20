@@ -5,6 +5,12 @@ banner: _static/conf/images/headers/2026/virtual.jpg
 
 # Virtual Attendance
 
+```{raw} html
+{% with in_person=False, virtual=True %}
+{% include "include/availability-2026.md" %}
+{% endwith %}
+```
+
 We're excited to offer a virtual attendance option for Write the Docs {{name}} {{year}}.
 The virtual component will run on **{{date.conference.date}}** alongside our in-person conference.
 
