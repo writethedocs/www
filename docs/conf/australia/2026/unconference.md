@@ -8,6 +8,8 @@ banner: _static/conf/images/headers/2026/unconference.jpg
 
 The Unconference consists of attendee-driven sessions that provide the opportunity for anyone who is attending the conference to lead, contribute, share ideas, and discuss problems in an organized setting away from the main stage talks. Many attendees consider this one of their favorite aspects of the conference.
 
+The Unconference is a second track: sessions run at the same time as the talks, so throughout the day you can choose whichever you prefer.
+
 **Who can lead an Unconference session?**
 
 Everyone! All attendees are invited to lead a session on a topic. Sessions can be organized around a presentation, group discussion or anything in between.
@@ -22,7 +24,7 @@ Everyone!
 
 - Morning and afternoon sessions
 - Each session is 40 minutes in length
-- Sessions run at the same time as the talks, so the Unconference is a second track: at any point in the day, you can choose a talk or an Unconference session
+- Runs as a second track, alongside the talks
 
 ### Scheduling a Session
 
