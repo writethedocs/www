@@ -33,8 +33,14 @@ We may make changes to the structure closer to the conference.
 - **8:30** - Doors open
 - **9:30** - Welcome and overview
 - **10:00** - Project announcements: Leads give a 2 minute summary and projects begin
+  - **10:00** - Intro to Git ([sign up required](https://www.writethedocs.org/))
+  - **11:00** - First Timer meetup: Meet other people
+  - **11:00** - Resume and portfolio review
 - **12:30-14:00** - Lunch break
 - **14:00-17:00** - Afternoon sessions: Leads give a 2 minute summary, starting with the afternoon-only projects, and projects reconvene
+  - **14:30** - Roundtable discussion
+  - **15:30** - Roundtable discussion
+  - **15:30** - Lightning Talk workshop
 - **17:00-19:00** - Welcome reception
 
 ## How to Prepare
