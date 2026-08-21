@@ -67,6 +67,7 @@ from _ext.filters import add_jinja_filters_to_app
 from _ext.meetups import MeetupListing
 from _ext.atom_absolute import rewrite_atom_feed
 from _ext.button import ButtonLink
+from _ext.structured_data import add_topic_structured_data
 
 exclude_patterns = [
     '_build',
@@ -263,6 +264,9 @@ def setup(app):
 
     app.connect("html-page-context", add_metadata)
     app.connect("html-page-context", fix_canonical_url)
+
+    # Generate schema.org JSON-LD for topic pages from their own content
+    app.connect("html-page-context", add_topic_structured_data)
 
     # Set up our custom jinja filters
     app.connect("builder-inited", add_jinja_filters_to_app)
