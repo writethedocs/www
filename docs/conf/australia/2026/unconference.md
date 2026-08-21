@@ -22,6 +22,7 @@ Everyone!
 
 - Morning and afternoon sessions
 - Each session is 40 minutes in length
+- Sessions run at the same time as the talks, so the Unconference is a second track: at any point in the day, you can choose a talk or an Unconference session
 
 ### Scheduling a Session
 
