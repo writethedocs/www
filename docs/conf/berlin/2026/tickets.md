@@ -92,7 +92,7 @@ If you need to cancel your ticket because of fear of traveling internationally o
     Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
   </p>
   <p>
-    We provide a certificate of attendance on request. Email us at <a href="mailto:{{email}}">{{email}}</a> and we will send you one.
+    We provide a certificate of attendance on request after the conference. Email us at <a href="mailto:{{email}}">{{email}}</a> and we will send you one.
   </p>
   {% if flagticketsonsale %}
   <ul>
