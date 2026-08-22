@@ -1,4 +1,4 @@
-```{post} Aug 21, 2026
+```{post} Aug 25, 2026
 ---
 tags: newsletter
 author: Eric Holscher
@@ -7,7 +7,7 @@ author: Eric Holscher
 
 # Write the Docs Community Update - August 2026
 
-Eric Holscher, co-founder of Write the Docs here,
+Eric Holscher here, co-founder of Write the Docs.
 
 I hope you are enjoying the last bits of summer.
 Every January and August we give the newsletter team a break,
@@ -55,9 +55,9 @@ This year each of our events had some exciting updates:
 * [Berlin](https://www.writethedocs.org/conf/berlin/2026/) is happening again in a couple weeks, and adds a Writing Day for the first time, coming back into a full three-day event like Portland.
 * [Australia](https://www.writethedocs.org/conf/australia/2026/) is back in Melbourne this year as a hybrid event, after taking a year off. Maintaining the health and excitement of the community is something we think about a lot, and it's great to see them back with renewed energy.
 
-Kenya and Australia both grew from local meetups into larger conferences.
+Kenya and Australia both grew from meetups into larger conferences.
 There have also been locally produced conferences in London, Vilnius, and Cincinnati over the years.
-All of these events are chaired by local volunteers,
+All of these events are chaired by volunteers,
 and brought together by a dedicated team of documentarians who want to convene their local community.
 
 A similar story has happened with the Newsletter.
@@ -73,16 +73,10 @@ There have been major changes in the industry in the past few years:
 * The [Society for Technical Communication](https://en.wikipedia.org/wiki/Society_for_Technical_Communication) closed last year, leaving a more formal gap in the industry. Over the years they engaged in advocacy and government relations, produced publications, and other efforts to professionalize the field.
 * The funding environment in the industry has also been quite mixed, with massive AI funding and a downturn in other areas. This has led to hiring and growth for documentarians being rougher, as noted in our [Salary Survey](https://www.writethedocs.org/surveys/).
 
-We are helping the community navigate these changes,
-but there is more that we could be doing.
-Write the Docs could be many things,
-but it requires the energy and passion of the community to make it happen.
-At its best,
-Write the Docs is a platform that connects and supports people to make changes.
-
-If any of these problems are interesting to you,
+All of these problems require energy and passion to improve.
+If you want to help us improve these or other aspects of the industry,
 please [let us know](https://www.writethedocs.org/contact/).
-We'd love to build a working group on government advocacy,
+We'd love to help build a working group on government advocacy,
 add more guide content and tooling around AI,
 or start a larger hiring initiative beyond our Slack channels.
 We're always interested in trying new experiments,
@@ -97,7 +91,7 @@ We have a lot going on in the next 6-12 months:
 * **Portland, May 2-4, 2027**: Save the date, we're back at Revolution Hall.
 * **[Your local meetup](https://www.writethedocs.org/meetups/), year-round**: Find a group near you, or [start one](https://www.writethedocs.org/organizer-guide/meetups/starting/) if there isn't one yet.
 * **[Our Slack network](https://www.writethedocs.org/slack/)**: Join the conversation, ask questions, and share your knowledge.
-* **Start something new**: As I mentioned above, we're interested in new areas around AI, hiring, and advocacy that we can help support the community. [Reach out](https://www.writethedocs.org/contact/) if you want to scheme something!
+* **Start something new**: As I mentioned above, we're interested in new initiatives around AI, hiring, advocacy, and other areas. [Reach out](https://www.writethedocs.org/contact/) if you want to scheme something!
 
 ## Thank you
 
