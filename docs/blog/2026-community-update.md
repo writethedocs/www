@@ -48,7 +48,7 @@ and we are always looking for other avenues to support the community in that way
 
 ## Built by the community
 
-This year each of our events had some exciting updates:
+This year each of our conferences had some exciting updates:
 
 * [Portland](https://www.writethedocs.org/conf/portland/2026/news/thanks-recap/) had almost 600 attendees (400+ in-person and 175+ virtual). We added an Intro to Git workshop, split the Writing Day and Unconference across multiple rooms, and added Sponsor Sessions and an Attendee Lounge.
 * [Kenya](https://wtdkenya.hashnode.dev/write-the-docs-kenya-2026-conference) just happened a couple weeks ago, their third yearly event, and added roundtable discussions along with the main track.
