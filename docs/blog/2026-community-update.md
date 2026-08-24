@@ -82,6 +82,9 @@ or start a larger hiring initiative beyond our Slack channels.
 We're always interested in trying new experiments,
 and it's the perfect time to do more.
 
+We'll be continuing these conversations in person at [Berlin](https://www.writethedocs.org/conf/berlin/2026/) in September,
+so come find us there if you want to dig into any of it.
+
 ## Join us
 
 We have a lot going on in the next 6-12 months:
