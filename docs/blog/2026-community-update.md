@@ -63,7 +63,7 @@ and brought together by a dedicated team of documentarians who want to convene t
 A similar story has happened with the Newsletter.
 Back in [2016](https://www.writethedocs.org/blog/newsletter-september-2016/), someone had the idea of trying to capture the knowledge being lost in our Slack backlog.
 From that initial start, a team of editors and writers has been keeping that running for the past 10 years.
-This [distillation of community thought](https://www.writethedocs.org/blog/archive/tag/newsletter/) is one of the most important artifacts that we have.
+This [distillation of community thought](https://www.writethedocs.org/topics/) is one of the most important artifacts that we have.
 
 ## Better supporting the community
 
@@ -82,8 +82,7 @@ or start a larger hiring initiative beyond our Slack channels.
 We're always interested in trying new experiments,
 and it's the perfect time to do more.
 
-We'll be continuing these conversations in person at [Berlin](https://www.writethedocs.org/conf/berlin/2026/) in September,
-so come find us there if you want to dig into any of it.
+We'll be continuing these conversations in person at [Berlin](https://www.writethedocs.org/conf/berlin/2026/) in September.
 
 ## Join us
 
