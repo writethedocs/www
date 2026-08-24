@@ -106,7 +106,7 @@ the community is what we make it.
 Thanks for keeping it going,
 and looking out for each other.
 
-And now for something completely differnet.. 
+And now for something completely different...
 
 ## From our friends at The Good Docs Project
 
