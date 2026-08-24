@@ -1,4 +1,4 @@
-```{post} Aug 25, 2026
+```{post} Aug 24, 2026
 ---
 tags: newsletter
 author: Eric Holscher
