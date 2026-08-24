@@ -105,3 +105,13 @@ At our events and online,
 the community is what we make it.
 Thanks for keeping it going,
 and looking out for each other.
+
+## From our friends at The Good Docs Project
+
+[The Good Docs Project](https://www.thegooddocsproject.dev/) is a fellow documentation community, and they have a fun event coming up that we wanted to share:
+
+This October, join The Good Docs Project for a first-of-its-kind community event called a **blogathon**, which will bring together writers from around the world to explore the past, present, and future of documentation. This is a bold, new experiment that will be half **hackathon** (a fast sprint to build something, but for writers) and half **unconference** (collaboratively exploring ideas on a specific topic).
+
+In this free 3-hour event, writers from all over the world will meet online to write a blog entry about the future of tech writing. Show up with an idea about something to say, spend some time writing and getting feedback from peers, and leave with a blog post that will get published on The Good Docs Project website for the broader documentation community to engage with. Come write with us!
+
+Get all the details and apply: <https://www.thegooddocsproject.dev/blogathon>
