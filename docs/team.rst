@@ -144,7 +144,7 @@ Members
 - `Eric Holscher <https://www.ericholscher.com/>`_ (business owner)
 - `Mikey Ariel <https://twitter.com/thatdocslady>`_ (board chair)
 - `Sasha Romijn <https://twitter.com/mxsash>`_
-- `Samuel Wright <https://twitter.com/plaindocs>`_
+- `Samuel Wright <https://chaos.social/@plaindocs>`_
 
 
 .. _conference-chairs:
