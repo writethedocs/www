@@ -10,8 +10,8 @@ author: Eric Holscher
 Eric Holscher here, co-founder of Write the Docs.
 
 I hope you are enjoying the last bits of summer.
-Every January and August we give the newsletter team a break,
-and [we](https://www.writethedocs.org/team/#community-board) do a community update that zooms out a bit from the day-to-day.
+Every January and August we give the Newsletter team a break,
+and [the Community Board](https://www.writethedocs.org/team/#community-board) provides an update that zooms out a bit from the day-to-day.
 
 Overall, Write the Docs is doing well.
 Our conferences have been well attended this year,
@@ -23,7 +23,7 @@ However, the industry is in a state of tumult.
 The hype and rash decisions around AI make everything feel tenuous.
 At Write the Docs,
 we're doing what we've always done -- lean into the power of community, and find ways to support each other.
-At conferences, meetups, online; through information sharing and helping to ground each other.
+At conferences, meetups, and online, our goals are to share information and help ground each other.
 
 This post covers how we think about Write the Docs
 and how we can use our strengths to help the community navigate this moment.
@@ -39,7 +39,7 @@ Almost everything else is done by volunteers -- people who want to build communi
 We are thrilled with how far the documentarian ethos has traveled.
 There are [conferences](https://www.writethedocs.org/conf/) on four continents this year,
 and [meetups](https://www.writethedocs.org/meetups/) around the world.
-We are proud of our [Newsletter](https://www.writethedocs.org/newsletter/) and [Slack](https://www.writethedocs.org/slack/) -- the primary touch points for our virtual community.
+We are proud of our [Newsletter](https://www.writethedocs.org/newsletter/) and [Slack](https://www.writethedocs.org/slack/) -- the primary online touch points for the entire community.
 
 Write the Docs is at its best when we convene people,
 and help them share knowledge and build connections.
@@ -63,13 +63,13 @@ and brought together by a dedicated team of documentarians who want to convene t
 A similar story has happened with the Newsletter.
 Back in [2016](https://www.writethedocs.org/blog/newsletter-september-2016/), someone had the idea of trying to capture the knowledge being lost in our Slack backlog.
 From that initial start, a team of editors and writers has been keeping that running for the past 10 years.
-This [distillation of community thought](https://www.writethedocs.org/topics/) is one of the most important artifacts that we have.
+This [distillation of community thought](https://www.writethedocs.org/blog/archive/tag/newsletter/) is one of the most important artifacts that we have.
 
 ## Better supporting the community
 
 There have been major changes in the industry in the past few years:
 
-* AI is changing everything -- from who reads the docs, to how people think about writing them. It has also been a constant flood of new concepts and buzzwords, which makes it hard to know what direction to move.
+* AI is changing how we think about content -- from who reads the docs, to how people think about writing them. It has also been a constant flood of new concepts and buzzwords, which makes it hard to know what direction to move in.
 * The [Society for Technical Communication](https://en.wikipedia.org/wiki/Society_for_Technical_Communication) closed last year, leaving a more formal gap in the industry. Over the years they engaged in advocacy and government relations, produced publications, and other efforts to professionalize the field.
 * The funding environment in the industry has also been quite mixed, with massive AI funding and a downturn in other areas. This has led to hiring and growth for documentarians being rougher, as noted in our [Salary Survey](https://www.writethedocs.org/surveys/).
 
@@ -88,7 +88,7 @@ We have a lot going on in the next 6-12 months:
 
 * **[Berlin](https://www.writethedocs.org/conf/berlin/2026/), September 6-8**: [Grab a ticket](https://www.writethedocs.org/conf/berlin/2026/tickets/), in person or virtual.
 * **[Australia](https://www.writethedocs.org/conf/australia/2026/), December 3-4**: [Submit a talk](https://www.writethedocs.org/conf/australia/2026/cfp/) before the CFP closes on September 11.
-* **Portland, May 2-4, 2027**: Save the date, we're back at Revolution Hall.
+* **Portland, May 2-4, 2027**: Save the date! We're back at Revolution Hall.
 * **[Your local meetup](https://www.writethedocs.org/meetups/), year-round**: Find a group near you, or [start one](https://www.writethedocs.org/organizer-guide/meetups/starting/) if there isn't one yet.
 * **[Our Slack network](https://www.writethedocs.org/slack/)**: Join the conversation, ask questions, and share your knowledge.
 * **Start something new**: As I mentioned above, we're interested in new initiatives around AI, hiring, advocacy, and other areas. [Reach out](https://www.writethedocs.org/contact/) if you want to scheme something!
@@ -103,3 +103,17 @@ At our events and online,
 the community is what we make it.
 Thanks for keeping it going,
 and looking out for each other.
+
+## From our sponsor
+
+This update is sponsored by [The Good Docs Project](https://www.thegooddocsproject.dev/blogathon).
+
+### Introducing The Good Docs Project Blogathon: Be part of the magic
+
+This October, join The Good Docs Project for a first-of-its-kind community event called a **blogathon**, which will bring together writers from around the world to explore the past, present, and future of documentation. This is a bold, new experiment that will be half **hackathon** (a fast sprint to build something, but for writers) and half **unconference** (collaboratively exploring ideas on a specific topic).
+
+In this free 3-hour event, writers from all over the world will meet online to write a blog entry about the future of tech writing. Show up with an idea about something to say, spend some time writing and getting feedback from peers, and leave with a blog post that will get published on The Good Docs Project website for the broader documentation community to engage with. Come write with us!
+
+Get all the details and apply: <https://www.thegooddocsproject.dev/blogathon>
+
+*Interested in sponsoring the newsletter? Take a look at our* [sponsorship prospectus](https://www.writethedocs.org/sponsorship/newsletter/).
