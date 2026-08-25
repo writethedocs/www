@@ -35,7 +35,8 @@ We may make changes to the structure closer to the conference.
 - **8:30** - Doors open
 - **9:30** - Welcome and overview
 - **10:00** - Project announcements: Leads give a 2 minute summary and projects begin
-  - New to Git workshop ([sign up required]({{ writing_day.git_signup_url }})) and Write the Docs Orientation
+  - **10:00** - New to Git workshop ([sign up required]({{ writing_day.git_signup_url }}))
+  - **11:00** - Write the Docs Orientation
 - **12:30-14:00** - Lunch break
 - **14:00-17:00** - Afternoon sessions: Leads give a 2 minute summary, starting with the afternoon-only projects, and projects reconvene
   - Roundtable discussions

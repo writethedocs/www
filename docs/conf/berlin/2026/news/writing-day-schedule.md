@@ -21,7 +21,7 @@ Writing Day is back and kicks off Write the Docs {{ city }} on {{ date.day_two.d
   - **Salary Survey**
   - A pre-scheduled, facilitated **roundtable discussion track**
 
-For the New to Git session, **advance signup is required**. For other sessions, you can show up and attend. As always, you are more than welcome to bring a project the day of and announce it during Writing Day.
+For the New to Git session, **[advance signup is required]({{ writing_day.git_signup_url }})**. For other sessions, you can show up and attend. As always, you are more than welcome to bring a project the day of and announce it during Writing Day.
 
 See the full run of the day on the [Writing Day page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/#writing-day-schedule).
 Writing Day entry requires a conference ticket.

@@ -6,7 +6,9 @@ writing_day:
   - time: '10:00'
     title: 'Project announcements: Leads give a 2 minute summary and projects begin'
   - time: '10:00'
-    title: New to Git workshop and Write the Docs Orientation
+    title: New to Git workshop
+  - time: '11:00'
+    title: Write the Docs Orientation
   - time: '12:00'
     title: '<a href="../attendee-guide/#welcome-wagon-tour">Welcome Wagon</a> conference introduction and venue tour'
   - time: '12:30'
