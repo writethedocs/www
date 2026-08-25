@@ -1,29 +1,24 @@
 writing_day:
   - time: '08:30'
-    duration: '1:00'
     title: Doors open
-  - duration: '0:30'
-    title: Morning introduction - Introduction to Sprints & Project Introductions
-  - duration: '0:00'
-    title: 'Projects team up and start <a href="../writing-day">writing</a>'
+  - time: '09:30'
+    title: Welcome and overview
+  - time: '10:00'
+    title: 'Project announcements: Leads give a 2 minute summary and projects begin'
+  - time: '10:00'
+    title: New to Git workshop and Write the Docs Orientation
   - time: '12:00'
-    duration: '0:00'
     title: '<a href="../attendee-guide/#welcome-wagon-tour">Welcome Wagon</a> conference introduction and venue tour'
-  - time: '12:15'
+  - time: '12:30'
     title: Lunch Break
   - time: '14:00'
-    duration: '0:15'
-    title: Afternoon session - all-day groups reconvene and new group introductions
-  - duration: '0:00'
-    title: 'Projects team up and continue <a href="../writing-day">writing</a>'
-  - time: '14:30'
-    duration: '2:00'
-    title: '<a href="../writing-day/#roundtable-discussions">Roundtable Discussions</a>'
+    title: 'Afternoon sessions: Leads give a 2 minute summary, starting with the afternoon-only projects, and projects reconvene'
+  - title: '<a href="../writing-day/#roundtable-discussions">Roundtable Discussions</a>'
+  - title: Salary Survey
+  - title: Resume writing session and portfolio review
   - time: '16:30'
-    duration: '0:00'
     title: '<a href="../attendee-guide/#welcome-wagon-tour">Welcome Wagon</a> conference introduction and venue tour'
   - time: '17:00'
-    duration: '0:00'
     title: End of Writing Day
   - time: '17:00'
     title: '<b><a href="../social-events/#welcome-reception">Welcome Reception</a> starts</b>'

@@ -9,6 +9,8 @@ Held on Sunday, Writing Day marks the official start of the conference.
 
 Writing Day is modeled after the concept of [code sprints](https://en.wikipedia.org/wiki/Sprint_%28software_development%29) or hackathons, which are common in open-source (OSS) conferences. The goal is to bring together documentarians to collaborate on interesting projects — whether that's open-source documentation, community content, or other documentation-related work.
 
+To create more ways for attendees to take part on Sunday, we are expanding Writing Day to include additional, shorter-format options such as workshops and discussions.
+
 ## How to Participate in Writing Day in 2026
 
 Attendees can lead a Writing Day project or join and contribute to someone else's project. Projects can run for a half-day or full-day.
@@ -33,14 +35,12 @@ We may make changes to the structure closer to the conference.
 - **8:30** - Doors open
 - **9:30** - Welcome and overview
 - **10:00** - Project announcements: Leads give a 2 minute summary and projects begin
-  - **10:00** - Intro to Git ([sign up required](https://www.writethedocs.org/))
-  - **11:00** - First Timer meetup: Meet other people
-  - **11:00** - Resume and portfolio review
+  - New to Git workshop ([sign up required]({{ writing_day.git_signup_url }})) and Write the Docs Orientation
 - **12:30-14:00** - Lunch break
 - **14:00-17:00** - Afternoon sessions: Leads give a 2 minute summary, starting with the afternoon-only projects, and projects reconvene
-  - **14:30** - Roundtable discussion
-  - **15:30** - Roundtable discussion
-  - **15:30** - Lightning Talk workshop
+  - Roundtable discussions
+  - Salary Survey
+  - Resume writing session and portfolio review
 - **17:00-19:00** - Welcome reception
 
 ## How to Prepare

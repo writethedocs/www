@@ -8,23 +8,22 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 :tags: {{shortcode}}-{{year}}, writing-day
 ```
 
-# Your Writing Day schedule, and how to sign up
+# Your Writing Day Schedule
 
-Writing Day kicks off Write the Docs {{ city }} on {{ date.day_two.dotw }}, {{ date.day_two.date }}. Here's what to expect, and how to get involved.
+Writing Day is back and kicks off Write the Docs {{ city }} on {{ date.day_two.dotw }}, {{ date.day_two.date }}. Alongside the Writing Day projects, we're running several sessions throughout the day. Here's what to expect, and how to participate!
 
-## The Writing Day schedule
+- **Writing Day project** (half-day or full-day): attendees can lead a project or join and contribute to a project.
+- **Morning**
+  - **New to Git** ([sign up here]({{ writing_day.git_signup_url }}))
+  - **Write the Docs Orientation** for folks who want tips and tricks for navigating the conference, led by the Welcome Wagon team.
+- **Afternoon**
+  - **Resume writing session and portfolio review**
+  - **Salary Survey**
+  - A pre-scheduled, facilitated **roundtable discussion track**
 
-Alongside the Writing Day projects, we're running several sessions throughout the day:
+For the New to Git session, **advance signup is required**. For other sessions, you can show up and attend. As always, you are more than welcome to bring a project the day of and announce it during Writing Day.
 
-- **Intro to Git** in the morning, if you'd like a gentle start with the tools many projects use.
-- **First Timer meetup** to meet other new people, and a **resume and portfolio review with Janine**.
-- **Roundtable discussions** in the afternoon: pre-scheduled, facilitated conversations on focused topics.
-- **Lightning Talk workshop** in the afternoon, to help you brainstorm and perhaps get a Lightning Talk ready for the main conference days.
-
-For the Intro to Git, **advance signup is required**. For other sessions, you can just attend.
-To pitch your own project, be there at the start of the day.
-
-See the full run of the day, including start times, on the [Writing Day page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/#writing-day-schedule).
+See the full run of the day on the [Writing Day page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/#writing-day-schedule).
 Writing Day entry requires a conference ticket.
 
 ## Unconference and Lightning Talk signups open Monday
