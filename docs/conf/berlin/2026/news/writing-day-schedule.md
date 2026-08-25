@@ -8,7 +8,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 :tags: {{shortcode}}-{{year}}, writing-day
 ```
 
-# Your Writing Day Schedule
+# What's happening on Writing Day, and how to sign up
 
 Writing Day is back and kicks off Write the Docs {{ city }} on {{ date.day_two.dotw }}, {{ date.day_two.date }}. Alongside the Writing Day projects, we're running several sessions throughout the day. Here's what to expect, and how to participate!
 
