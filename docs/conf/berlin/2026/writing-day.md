@@ -41,7 +41,6 @@ We may make changes to the structure closer to the conference.
 - **14:00-17:00** - Afternoon sessions: Leads give a 2 minute summary, starting with the afternoon-only projects, and projects reconvene
   - **14:30** - AI and Docs - Roundtable discussion
   - **15:30** - API docs - Roundtable discussion
-  - Salary Survey
   - Resume writing session and portfolio review
 - **17:00-19:00** - Welcome reception
 
