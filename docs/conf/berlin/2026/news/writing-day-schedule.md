@@ -4,7 +4,7 @@ banner: _static/conf/images/headers/2026/writing-day.jpg
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
-```{post} August 20, 2026
+```{post} August 26, 2026
 :tags: {{shortcode}}-{{year}}, writing-day
 ```
 
