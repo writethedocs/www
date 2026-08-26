@@ -17,7 +17,7 @@ Our third meeting of the year covered a mix of ongoing updates and new initiativ
 **Brand guide and refresh**
    Eric Holscher began investigating a possible brand refresh and a unified design system. The board reviewed a first draft of a new brand guide generated with AI tools using the full collection of historical graphic assets, website files, and design materials. We discussed the importance of retaining historical context internally, but focusing the public-facing guide as well as any possible refresh on current assets.
 
-To maintain visual integrity for local community groups, we also discussed developing a logo generator with strict templates, avoiding excessive customization and extreme disparities between communities. Eric is currently seeking a vendor to collaborate with on this effort.
+   To maintain visual integrity for local community groups, we also discussed developing a logo generator with strict templates, avoiding excessive customization and extreme disparities between communities. Eric is currently seeking a vendor to collaborate with on this effort.
 
 **Community content spotlight project update**
    Our community content spotlight project is picking up speed, with Felicity Brand onboarding to lead the effort. We already got some written materials and initial post drafts, which will be reviewed by Sam Wright, with the goal of launching around or shortly after the Berlin conferenece. 
@@ -31,7 +31,7 @@ To maintain visual integrity for local community groups, we also discussed devel
 **AI usage in team workflows**
    The board evaluated the use of AI tools for internal team operations. While AI is proving useful for project proposals and content analysis, we observed significant resistance to implementing AI for community moderation. 
   
-The board acknowledged concerns regarding data sovereignty, optics, and the potential for AI slop and hallucinations. For now, we are putting plans to implement AI moderation tools in our community channels on hold, and will continue to focus on human moderation.
+   The board acknowledged concerns regarding data sovereignty, optics, and the potential for AI slop and hallucinations. For now, we are putting plans to implement AI moderation tools in our community channels on hold, and will continue to focus on human moderation.
 
 **Social media channel review**
    Looking at our recent engagement data, it appears that LinkedIn is our most active social media platform. We’d like to add the Write the Docs Australia LinkedIn page to our Buffer account, but we're currently capped at four integrated channels. We decided to wait until September to figure out which of our less active channels might need be removed to make room.
