@@ -31,7 +31,7 @@ Writing Day entry requires a conference ticket.
 Two of the best ways to take part in the conference are the Unconference and Lightning Talks, and online signups open on **Monday, August 31**, one week before the conference.
 
 - **[Unconference](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/unconference/):** attendee-driven sessions where anyone can lead a discussion, show and tell, or short talk.
-- **[Lightning Talks](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/lightning-talks/):** brief, up-to-five-minute talks on anything you're passionate about. A great format for first-time speakers. Online submissions open Monday, and stay open in person through the last morning break. Need inspiration? Watch [last year's Berlin Lightning Talks](https://www.youtube.com/playlist?list=PLZAeFn6dfHpkP1wAM5OIqAMH4guScopET).
+- **[Lightning Talks](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/lightning-talks/):** brief, up-to-five-minute talks on anything you're passionate about. A great format for first-time speakers. Online submissions open Monday, and stay open in person through the last morning break. Need inspiration? Watch <a href="https://www.youtube.com/watch?v=lgBbeUFoSic&amp;list=PLZAeFn6dfHpkP1wAM5OIqAMH4guScopET&amp;index=14">last year's Berlin Lightning Talks</a>.
 
 ## Register soon
 
