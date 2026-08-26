@@ -19,7 +19,7 @@ Writing Day is back and kicks off Write the Docs {{ city }} on {{ date.day_two.d
 - **Afternoon**
   - **Resume writing session and portfolio review**
   - **Salary Survey**
-  - A pre-scheduled, facilitated **roundtable discussion track**
+  - A pre-scheduled, facilitated **roundtable discussion track**, with sessions on AI and Docs, and on API docs
 
 For the New to Git session, **[advance signup is required]({{ writing_day.git_signup_url }})**. For other sessions, you can show up and attend. As always, you are more than welcome to bring a project the day of and announce it during Writing Day.
 
