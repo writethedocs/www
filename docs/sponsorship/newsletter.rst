@@ -9,27 +9,13 @@ Sponsorship of the newsletter does two things:
 * It allows you to get your name and message in front of our audience of :doc:`/documentarians`
 * It allows us to cover the cost of producing the newsletter for our community
 
-At a glance
------------
-
-* **Price:** $500 per issue, published monthly
-* **Reach:** Over {{ newsletter_subs }} subscribers, with a 42% open rate
-* **Format:** Your logo, up to 2 paragraphs of copy, and up to 2 links
-
 .. raw:: html
 
    <div class="cta-group">
       <a class="cta-button" href="https://buy.stripe.com/3cs6oMgao9h3eRO8wC">Buy a newsletter sponsorship — $500</a>
-      <a class="cta-button cta-secondary" href="mailto:sponsorship@writethedocs.org?subject=Newsletter%20sponsorship">Email us to book a month</a>
    </div>
 
-You can see our newsletter archives to get a better idea of the content that we produce:
-
-.. raw:: html
-
-   <div class="cta-group">
-      <a class="cta-button cta-secondary" href="/blog/archive/tag/newsletter/">View newsletter archive</a>
-   </div>
+You can browse our `newsletter archive </blog/archive/tag/newsletter/>`__ to get a better idea of the content that we produce.
 
 Audience
 --------
@@ -61,6 +47,14 @@ Schedule
 We publish the newsletter once a month, typically in the first week of the month.
 **We ask that your assets be submitted by the end of the month prior to the newsletter being published.**
 
+Pricing
+-------
+
+The price for our newsletter sponsorship is **$500** per month.
+
+You can pay for the newsletter via our `online payment form <https://buy.stripe.com/3cs6oMgao9h3eRO8wC>`_,
+or we can issue you an invoice.
+
 Examples
 --------
 
@@ -70,18 +64,13 @@ Examples
 .. image:: /_static/img/sponsorship/newsletter-example-2.png
    :width: 45%
 
-How to order
-------------
+Ordering
+--------
 
-The price for our newsletter sponsorship is **$500** per month.
-
-You can pay directly via our `online payment form <https://buy.stripe.com/3cs6oMgao9h3eRO8wC>`_,
-or email us at `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org?subject=Newsletter%20sponsorship>`_ if you'd prefer an invoice,
-want to book a specific month, or have any questions.
+Email us at `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org?subject=Newsletter%20sponsorship>`__ to purchase a Newsletter sponsorship.
 
 .. raw:: html
 
    <div class="cta-group">
       <a class="cta-button" href="https://buy.stripe.com/3cs6oMgao9h3eRO8wC">Buy a newsletter sponsorship — $500</a>
-      <a class="cta-button cta-secondary" href="mailto:sponsorship@writethedocs.org?subject=Newsletter%20sponsorship">Email sponsorship@writethedocs.org</a>
    </div>

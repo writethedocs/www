@@ -3,8 +3,8 @@ Website Sponsorship
 
 You can sponsor the Write the Docs community website in two ways:
 
-* `Sidebar advertising`_ — **$250 per month** — the best way to actively sell something to our community
-* `Footer sponsorship`_ — **$500 per year** — your logo and link on every page of our community site
+* `Sidebar advertising`_ — **$250 per month**
+* `Footer sponsorship`_ — **$500 per year**
 
 .. raw:: html
 
@@ -77,12 +77,11 @@ Cost
 The footer logo sponsorship costs **$500 per year**.
 Sponsorship runs for a calendar year, or 365 days from the date of purchase.
 
-How to order
-------------
+Contact
+-------
 
-Email us at `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org?subject=Website%20sponsorship>`_ and tell us which option you'd like.
-We can send you a payment link or issue an invoice,
-and we're happy to work with you to craft the best sponsorship for your organization.
+If you are interested in sponsorship you can reach us at `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org?subject=Website%20sponsorship>`__.
+We're happy to work with you to craft the best sponsorship for your organization.
 
 .. raw:: html
 
