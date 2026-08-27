@@ -9,6 +9,19 @@ Sponsorship of our Slack network does two things:
 * It allows us to cover the cost of moderating and managing our Slack community
 * It allows you to get your name and message in front of our audience of :doc:`/documentarians`
 
+At a glance
+-----------
+
+* **Price:** $350 per month
+* **Reach:** Over {{ slack_members }} Slack members, via the ``#announcements`` channel that every member joins
+* **Format:** Up to 2 paragraphs of copy with 1 link, posted once a month
+
+.. raw:: html
+
+   <div class="cta-group">
+      <a class="cta-button" href="mailto:sponsorship@writethedocs.org?subject=Slack%20sponsorship">Book a Slack sponsorship — $350</a>
+   </div>
+
 You can join our Slack and read some of the messages to get a feel for the community.
 
 Audience
@@ -43,7 +56,7 @@ Content Guidance
 
 The provided copy must respect our general `Slack
 Rules <https://www.writethedocs.org/slack/>`__ and `Code of
-Conduct <https://www.writethedocs.org/code-of-conduct/>`__. 
+Conduct <https://www.writethedocs.org/code-of-conduct/>`__.
 
 With regards to the *No Sales-Y Content* rule, sponsored posts have an
 exemption to the *No Direct Pitches*, *No links without context*, and
@@ -61,22 +74,16 @@ We currently allow 1 sponsored post per month on our Slack.
 We aim to send these during the first week of the month,
 but can be flexible if we haven't sold our current month.
 
-Pricing
--------
+How to order
+------------
 
 The price for reaching our audience is **$350** per month.
+We can send you a payment link or issue an invoice — whichever works best for your company.
 
-.. 
-	Examples
-	--------
+Email us at `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org?subject=Slack%20sponsorship>`_ with the month you'd like, and we'll confirm availability.
 
-	.. image:: /_static/img/sponsorship/newsletter-example.png
-	   :width: 45%
+.. raw:: html
 
-	.. image:: /_static/img/sponsorship/newsletter-example-2.png
-	   :width: 45%
-
-Contact
--------
-
-Email us at sponsorship@writethedocs.org to purchase a Slack sponsorship.
+   <div class="cta-group">
+      <a class="cta-button" href="mailto:sponsorship@writethedocs.org?subject=Slack%20sponsorship">Book a Slack sponsorship — $350</a>
+   </div>

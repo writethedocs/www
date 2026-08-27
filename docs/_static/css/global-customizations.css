@@ -270,6 +270,58 @@ div.body {
   }
 }
 
+/** Sponsorship CTA buttons **/
+
+.cta-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin: 1.5em 0;
+}
+
+div.body a.cta-button,
+div.body a.cta-button:link,
+div.body a.cta-button:visited {
+    display: inline-block;
+    padding: 12px 28px;
+    background-color: #2ECC71;
+    border: 1px solid #27AE60;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 150%;
+    text-decoration: none;
+}
+
+div.body a.cta-button:hover {
+    background-color: #27AE60;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+div.body a.cta-button.cta-secondary,
+div.body a.cta-button.cta-secondary:link,
+div.body a.cta-button.cta-secondary:visited {
+    background-color: #FFFFFF;
+    border: 1px solid #27AE60;
+    color: #27AE60;
+}
+
+div.body a.cta-button.cta-secondary:hover {
+    background-color: #EAFAF1;
+    color: #1E8449;
+}
+
+table.sponsorship-pricing {
+    width: 100%;
+}
+
+table.sponsorship-pricing td, table.sponsorship-pricing th {
+    padding: 8px 12px;
+}
+
 .announcement-banner {
     background-color: #3399ff;
     color: #fff;

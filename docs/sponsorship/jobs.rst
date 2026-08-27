@@ -1,15 +1,22 @@
 Job Posting Sponsorship
 =======================
 
-We have added a new sponsorship opportunity for companies looking to hire documentarians.
-It's a great way to promote your job to our community,
-which is full of folks that are passionate about software documentation,
+Hiring documentarians? Our community is full of folks that are passionate about software documentation,
 in particular around Docs as Code, API documentation, and developer experience.
+A job posting sponsorship is the best way to promote your open role to them.
 
-This sponsorship includes: 
+At a glance
+-----------
 
-* A job posting in our monthly newsletter jobs section (Over {{ newsletter_subs }} subscribers)
-* A highlighted job posting in our ``#job-posts-only`` Slack channel ({{ slack_members }} members)
+* **Price:** $250 per job posting
+* **Reach:** Our monthly newsletter (over {{ newsletter_subs }} subscribers) and our ``#job-posts-only`` Slack channel ({{ slack_members }} members)
+* **Format:** Company name, job title, location, optional salary, and a link to your posting
+
+.. raw:: html
+
+   <div class="cta-group">
+      <a class="cta-button" href="mailto:sponsorship@writethedocs.org?subject=Job%20posting%20sponsorship">Post your job — $250</a>
+   </div>
 
 Sponsored entry format
 ----------------------
@@ -31,22 +38,22 @@ Schedule
 We publish the newsletter once a month, typically in the first week of the month.
 The Slack post will be made within 1 week of the sponsorship being purchased.
 
-Pricing
--------
-
-The price for our hiring sponsorship is **$250** per job posting.
-
 Examples
 --------
 
 .. image:: /_static/img/sponsorship/job-example.png
    :width: 45%
 
-Ordering
---------
+How to order
+------------
 
-Email us at sponsorship@writethedocs.org to purchase your sponsorship,
-or if you have any questions.
+The price for our hiring sponsorship is **$250** per job posting.
+We can send you a payment link or issue an invoice — whichever works best for your company.
 
+Email us at `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org?subject=Job%20posting%20sponsorship>`_ with your job details, and we'll take it from there.
 
+.. raw:: html
 
+   <div class="cta-group">
+      <a class="cta-button" href="mailto:sponsorship@writethedocs.org?subject=Job%20posting%20sponsorship">Post your job — $250</a>
+   </div>

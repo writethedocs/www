@@ -9,18 +9,26 @@ Sponsorship of the newsletter does two things:
 * It allows you to get your name and message in front of our audience of :doc:`/documentarians`
 * It allows us to cover the cost of producing the newsletter for our community
 
+At a glance
+-----------
+
+* **Price:** $500 per issue, published monthly
+* **Reach:** Over {{ newsletter_subs }} subscribers, with a 42% open rate
+* **Format:** Your logo, up to 2 paragraphs of copy, and up to 2 links
+
+.. raw:: html
+
+   <div class="cta-group">
+      <a class="cta-button" href="https://buy.stripe.com/3cs6oMgao9h3eRO8wC">Buy a newsletter sponsorship — $500</a>
+      <a class="cta-button cta-secondary" href="mailto:sponsorship@writethedocs.org?subject=Newsletter%20sponsorship">Email us to book a month</a>
+   </div>
+
 You can see our newsletter archives to get a better idea of the content that we produce:
 
 .. raw:: html
 
-   <div style="margin: 2em 0;">
-   <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
-   <tr>
-      <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-         <a href="/blog/archive/tag/newsletter/" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">View Newsletter Archive</a>
-      </td>
-   </tr>
-   </table>
+   <div class="cta-group">
+      <a class="cta-button cta-secondary" href="/blog/archive/tag/newsletter/">View newsletter archive</a>
    </div>
 
 Audience
@@ -32,7 +40,7 @@ The current newsletter stats are:
 * Over {{ newsletter_subs }} subscribers
 * 42% open rate
 
-We don't exact demographic data for our newsletter subscribers, but according to the data gathered from our conferences, our audience is made up of:
+We don't have exact demographic data for our newsletter subscribers, but according to the data gathered from our conferences, our audience is made up of:
 
 .. include:: /include/demographics.rst
 
@@ -53,14 +61,6 @@ Schedule
 We publish the newsletter once a month, typically in the first week of the month.
 **We ask that your assets be submitted by the end of the month prior to the newsletter being published.**
 
-Pricing
--------
-
-The price for our newsletter sponsorship is **$500** per month.
-
-You can pay for the newsletter via our `online payment form <https://buy.stripe.com/3cs6oMgao9h3eRO8wC>`_,
-or we can issue you an invoice.
-
 Examples
 --------
 
@@ -70,7 +70,18 @@ Examples
 .. image:: /_static/img/sponsorship/newsletter-example-2.png
    :width: 45%
 
-Ordering
---------
+How to order
+------------
 
-Email us at sponsorship@writethedocs.org to purchase a Newsletter sponsorship.
+The price for our newsletter sponsorship is **$500** per month.
+
+You can pay directly via our `online payment form <https://buy.stripe.com/3cs6oMgao9h3eRO8wC>`_,
+or email us at `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org?subject=Newsletter%20sponsorship>`_ if you'd prefer an invoice,
+want to book a specific month, or have any questions.
+
+.. raw:: html
+
+   <div class="cta-group">
+      <a class="cta-button" href="https://buy.stripe.com/3cs6oMgao9h3eRO8wC">Buy a newsletter sponsorship — $500</a>
+      <a class="cta-button cta-secondary" href="mailto:sponsorship@writethedocs.org?subject=Newsletter%20sponsorship">Email sponsorship@writethedocs.org</a>
+   </div>
