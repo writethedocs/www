@@ -15,11 +15,12 @@ writing_day:
     title: Lunch Break
   - time: '14:00'
     title: 'Afternoon sessions: Leads give a 2 minute summary, starting with the afternoon-only projects, and projects reconvene'
+  - time: '14:00'
+    title: Resume writing session and portfolio review
   - time: '14:30'
     title: 'AI and Docs - <a href="../writing-day/#roundtable-discussions">Roundtable discussion</a>'
   - time: '15:30'
     title: 'API docs - <a href="../writing-day/#roundtable-discussions">Roundtable discussion</a>'
-  - title: Resume writing session and portfolio review
   - time: '16:30'
     title: '<a href="../attendee-guide/#welcome-wagon-tour">Welcome Wagon</a> conference introduction and venue tour'
   - time: '17:00'
