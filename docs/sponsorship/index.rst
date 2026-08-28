@@ -29,7 +29,7 @@ Each conference has its own sponsorship prospectus:
      - Coming soon
 
 **Planning your 2027 budget?**
-`Email us <mailto:sponsorship@writethedocs.org?subject=Portland%202027%20sponsorship>`__ and we'll send you the Portland 2027 prospectus as soon as it's ready.
+Email `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org?subject=Portland%202027%20sponsorship>`__ and we'll send you the Portland 2027 prospectus as soon as it's ready.
 
 Community programs
 ------------------
@@ -67,9 +67,7 @@ we're always interested in working together with organizations in our community 
 We believe we have one of the most skilled and forward-looking communities in the software industry,
 and look forward to working together to keep it sustainable.
 
-You can `reach out to us`_ directly if you have any questions or ideas for sponsorship.
-
-.. _reach out to us: mailto:sponsorship@writethedocs.org
+You can reach out to us directly at `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org>`__ if you have any questions or ideas for sponsorship.
 
 .. raw:: html
 
