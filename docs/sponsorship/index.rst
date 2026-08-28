@@ -2,7 +2,22 @@ Community Sponsorship
 =====================
 
 We support our community in a variety of ways, and you can choose to focus
-your sponsorship on any one of them, at a level that suits you:
+your sponsorship on any one of them, at a level that suits you.
+
+Conferences
+-----------
+
+Our conferences are the best way to get in front of our community in person.
+Each conference has its own sponsorship prospectus:
+
+* Our hybrid :doc:`Berlin 2026 conference </conf/berlin/2026/sponsors/prospectus>` (September 6-8, 2026)
+* Our :doc:`Australia 2026 conference </conf/australia/2026/sponsors/prospectus>` (December 3-4, 2026)
+* **Portland 2027** (May 2-4, 2027) — planning next year's budget? `Email us <mailto:sponsorship@writethedocs.org?subject=Portland%202027%20sponsorship>`__ and we'll send you the prospectus as soon as it's ready.
+
+Community programs
+------------------
+
+Our year-round programs put your name in front of the community every day:
 
 .. list-table::
    :class: sponsorship-pricing
@@ -29,11 +44,6 @@ your sponsorship on any one of them, at a level that suits you:
      - **$500** / year
 
 We accept payment online by card, or we can issue an invoice — whichever works best for your company.
-
-Our conferences each have their own sponsorship prospectus:
-
-* Our hybrid :doc:`Berlin 2026 conference </conf/berlin/2026/sponsors/prospectus>` (September 6-8, 2026)
-* Our :doc:`Australia 2026 conference </conf/australia/2026/sponsors/prospectus>` (December 3-4, 2026)
 
 In addition to these existing programs,
 we're always interested in working together with organizations in our community to build new approaches to sponsorship.

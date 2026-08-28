@@ -299,10 +299,22 @@ div.body a.cta-button:hover {
 
 table.sponsorship-pricing {
     width: 100%;
+    border-collapse: collapse;
 }
 
 table.sponsorship-pricing td, table.sponsorship-pricing th {
-    padding: 8px 12px;
+    border: none;
+    border-bottom: 1px solid #DDD;
+    padding: 10px 12px;
+    text-align: left;
+}
+
+table.sponsorship-pricing thead th {
+    border-bottom: 2px solid #4a4a4a;
+}
+
+table.sponsorship-pricing td:last-child {
+    white-space: nowrap;
 }
 
 .announcement-banner {
