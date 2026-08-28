@@ -24,7 +24,7 @@ Each conference has its own sponsorship prospectus:
    * - :doc:`Australia 2026 </conf/australia/2026/sponsors/prospectus>`
      - December 3-4, 2026 in Melbourne, Australia
      - From **AU$1,500**
-   * - **Portland 2027**
+   * - Portland 2027
      - May 2-4, 2027 in Portland, Oregon
      - Coming soon
 
