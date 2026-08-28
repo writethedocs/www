@@ -96,6 +96,16 @@ Yes, visit Registration to get access.
 
 Thanks to our sponsors for supporting the conference this year. A number of them will be present on Monday and Tuesday. We hope you get a chance to talk with them while you're here.
 
+A message from Mintlify:
+
+> Mintlify is sponsoring Write the Docs Berlin and we can't wait to meet you! We build a docs platform that makes sure your content is agent-ready and gives you top notch tooling without having to maintain it yourself.
+
+> Visit us at the sponsor tables to chat about making your content agent-friendly, empowering more people across your organization to contribute to docs, docs-as-code, or anything else. It's a treat to meet our users and share what we're building.
+
+> See you in Berlin!
+
+Thanks to all our sponsors:
+
 ```{eval-rst}
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-config.yaml
