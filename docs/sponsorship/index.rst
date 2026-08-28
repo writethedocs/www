@@ -10,9 +10,26 @@ Conferences
 Our conferences are the best way to get in front of our community in person.
 Each conference has its own sponsorship prospectus:
 
-* Our hybrid :doc:`Berlin 2026 conference </conf/berlin/2026/sponsors/prospectus>` (September 6-8, 2026)
-* Our :doc:`Australia 2026 conference </conf/australia/2026/sponsors/prospectus>` (December 3-4, 2026)
-* **Portland 2027** (May 2-4, 2027) — planning next year's budget? `Email us <mailto:sponsorship@writethedocs.org?subject=Portland%202027%20sponsorship>`__ and we'll send you the prospectus as soon as it's ready.
+.. list-table::
+   :class: sponsorship-pricing
+   :header-rows: 1
+   :widths: 30 45 25
+
+   * - Conference
+     - When and where
+     - Price
+   * - :doc:`Berlin 2026 </conf/berlin/2026/sponsors/prospectus>` (hybrid)
+     - September 6-8, 2026 in Berlin, Germany
+     - From **€2,250**
+   * - :doc:`Australia 2026 </conf/australia/2026/sponsors/prospectus>`
+     - December 3-4, 2026 in Melbourne, Australia
+     - From **$1,500**
+   * - **Portland 2027**
+     - May 2-4, 2027 in Portland, Oregon
+     - Coming soon
+
+**Planning your 2027 budget?**
+`Email us <mailto:sponsorship@writethedocs.org?subject=Portland%202027%20sponsorship>`__ and we'll send you the Portland 2027 prospectus as soon as it's ready.
 
 Community programs
 ------------------
