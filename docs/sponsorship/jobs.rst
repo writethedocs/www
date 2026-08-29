@@ -14,7 +14,7 @@ This sponsorship includes:
 .. raw:: html
 
    <div class="cta-group">
-      <a class="cta-button" href="mailto:sponsorship@writethedocs.org?subject=Job%20posting%20sponsorship">Post your job — $250</a>
+      <a class="cta-button" href="https://buy.stripe.com/fZe4gE2jyal76liaEM">Post your job — $250</a>
    </div>
 
 Sponsored entry format
@@ -42,6 +42,9 @@ Pricing
 
 The price for our hiring sponsorship is **$250** per job posting.
 
+You can pay via our `online payment form <https://buy.stripe.com/fZe4gE2jyal76liaEM>`_,
+or we can issue you an invoice.
+
 Examples
 --------
 
@@ -57,5 +60,5 @@ or if you have any questions.
 .. raw:: html
 
    <div class="cta-group">
-      <a class="cta-button" href="mailto:sponsorship@writethedocs.org?subject=Job%20posting%20sponsorship">Post your job — $250</a>
+      <a class="cta-button" href="https://buy.stripe.com/fZe4gE2jyal76liaEM">Post your job — $250</a>
    </div>

@@ -12,7 +12,7 @@ Sponsorship of our Slack network does two things:
 .. raw:: html
 
    <div class="cta-group">
-      <a class="cta-button" href="mailto:sponsorship@writethedocs.org?subject=Slack%20sponsorship">Book a Slack sponsorship — $350</a>
+      <a class="cta-button" href="https://buy.stripe.com/aEUcNa6zOdxjeRO5kp">Buy a Slack sponsorship — $350</a>
    </div>
 
 You can join our Slack and read some of the messages to get a feel for the community.
@@ -72,6 +72,9 @@ Pricing
 
 The price for reaching our audience is **$350** per month.
 
+You can pay via our `online payment form <https://buy.stripe.com/aEUcNa6zOdxjeRO5kp>`_,
+or we can issue you an invoice.
+
 Contact
 -------
 
@@ -80,5 +83,5 @@ Email us at `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org?s
 .. raw:: html
 
    <div class="cta-group">
-      <a class="cta-button" href="mailto:sponsorship@writethedocs.org?subject=Slack%20sponsorship">Book a Slack sponsorship — $350</a>
+      <a class="cta-button" href="https://buy.stripe.com/aEUcNa6zOdxjeRO5kp">Buy a Slack sponsorship — $350</a>
    </div>
