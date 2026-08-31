@@ -51,7 +51,7 @@ The board members are team leads for each WTD team, as well as the conference ch
 * Mikey Ariel (CoreOps, brand and design, board chair)
 * Eric Holscher (CoreOps, Portland chair)
 * Samuel Wright (CoreOps, infrastructure)
-* Sasha Romijn (CoreOps, support, Atlantic chair)
+* Sasha Romijn (CoreOps, support, Berlin chair)
 * Rose Williams (meetups)
 * Janine Chan (Slack moderation)
 * Aaron Collier (newsletter)
