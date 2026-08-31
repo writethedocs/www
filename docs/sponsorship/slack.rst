@@ -9,6 +9,12 @@ Sponsorship of our Slack network does two things:
 * It allows us to cover the cost of moderating and managing our Slack community
 * It allows you to get your name and message in front of our audience of :doc:`/documentarians`
 
+.. raw:: html
+
+   <div class="cta-group">
+      <a class="cta-button" href="https://buy.stripe.com/aEUcNa6zOdxjeRO5kp">Buy a Slack sponsorship — $350</a>
+   </div>
+
 You can join our Slack and read some of the messages to get a feel for the community.
 
 Audience
@@ -43,7 +49,7 @@ Content Guidance
 
 The provided copy must respect our general `Slack
 Rules <https://www.writethedocs.org/slack/>`__ and `Code of
-Conduct <https://www.writethedocs.org/code-of-conduct/>`__. 
+Conduct <https://www.writethedocs.org/code-of-conduct/>`__.
 
 With regards to the *No Sales-Y Content* rule, sponsored posts have an
 exemption to the *No Direct Pitches*, *No links without context*, and
@@ -66,17 +72,16 @@ Pricing
 
 The price for reaching our audience is **$350** per month.
 
-.. 
-	Examples
-	--------
-
-	.. image:: /_static/img/sponsorship/newsletter-example.png
-	   :width: 45%
-
-	.. image:: /_static/img/sponsorship/newsletter-example-2.png
-	   :width: 45%
+You can pay via our `online payment form <https://buy.stripe.com/aEUcNa6zOdxjeRO5kp>`_,
+or we can issue you an invoice.
 
 Contact
 -------
 
-Email us at sponsorship@writethedocs.org to purchase a Slack sponsorship.
+Email us at `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org?subject=Slack%20sponsorship>`__ to purchase a Slack sponsorship.
+
+.. raw:: html
+
+   <div class="cta-group">
+      <a class="cta-button" href="https://buy.stripe.com/aEUcNa6zOdxjeRO5kp">Buy a Slack sponsorship — $350</a>
+   </div>

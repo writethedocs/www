@@ -9,19 +9,13 @@ Sponsorship of the newsletter does two things:
 * It allows you to get your name and message in front of our audience of :doc:`/documentarians`
 * It allows us to cover the cost of producing the newsletter for our community
 
-You can see our newsletter archives to get a better idea of the content that we produce:
-
 .. raw:: html
 
-   <div style="margin: 2em 0;">
-   <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
-   <tr>
-      <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-         <a href="/blog/archive/tag/newsletter/" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">View Newsletter Archive</a>
-      </td>
-   </tr>
-   </table>
+   <div class="cta-group">
+      <a class="cta-button" href="https://buy.stripe.com/3cs6oMgao9h3eRO8wC">Buy a newsletter sponsorship — $500</a>
    </div>
+
+You can browse our `newsletter archive </blog/archive/tag/newsletter/>`__ to get a better idea of the content that we produce.
 
 Audience
 --------
@@ -32,7 +26,7 @@ The current newsletter stats are:
 * Over {{ newsletter_subs }} subscribers
 * 42% open rate
 
-We don't exact demographic data for our newsletter subscribers, but according to the data gathered from our conferences, our audience is made up of:
+We don't have exact demographic data for our newsletter subscribers, but according to the data gathered from our conferences, our audience is made up of:
 
 .. include:: /include/demographics.rst
 
@@ -73,4 +67,10 @@ Examples
 Ordering
 --------
 
-Email us at sponsorship@writethedocs.org to purchase a Newsletter sponsorship.
+Email us at `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org?subject=Newsletter%20sponsorship>`__ to purchase a Newsletter sponsorship.
+
+.. raw:: html
+
+   <div class="cta-group">
+      <a class="cta-button" href="https://buy.stripe.com/3cs6oMgao9h3eRO8wC">Buy a newsletter sponsorship — $500</a>
+   </div>

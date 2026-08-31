@@ -270,6 +270,53 @@ div.body {
   }
 }
 
+/** Sponsorship CTA button, using the existing newsletter button colors **/
+
+.cta-group {
+    margin: 1.5em 0;
+}
+
+div.body a.cta-button,
+div.body a.cta-button:link,
+div.body a.cta-button:visited {
+    display: inline-block;
+    padding: 12px 28px;
+    background-color: #2ECC71;
+    border: 1px solid #4a4a4a;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+div.body a.cta-button:hover {
+    filter: brightness(0.95);
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+table.sponsorship-pricing {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table.sponsorship-pricing td, table.sponsorship-pricing th {
+    border: none;
+    border-bottom: 1px solid #DDD;
+    padding: 10px 12px;
+    text-align: left;
+}
+
+table.sponsorship-pricing thead th {
+    border-bottom: 2px solid #4a4a4a;
+}
+
+table.sponsorship-pricing td:last-child {
+    white-space: nowrap;
+}
+
 .announcement-banner {
     background-color: #3399ff;
     color: #fff;

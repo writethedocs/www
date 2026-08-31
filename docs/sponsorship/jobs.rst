@@ -1,15 +1,21 @@
 Job Posting Sponsorship
 =======================
 
-We have added a new sponsorship opportunity for companies looking to hire documentarians.
+We offer a sponsorship for companies looking to hire documentarians.
 It's a great way to promote your job to our community,
 which is full of folks that are passionate about software documentation,
 in particular around Docs as Code, API documentation, and developer experience.
 
-This sponsorship includes: 
+This sponsorship includes:
 
 * A job posting in our monthly newsletter jobs section (Over {{ newsletter_subs }} subscribers)
 * A highlighted job posting in our ``#job-posts-only`` Slack channel ({{ slack_members }} members)
+
+.. raw:: html
+
+   <div class="cta-group">
+      <a class="cta-button" href="https://buy.stripe.com/fZe4gE2jyal76liaEM">Post your job — $250</a>
+   </div>
 
 Sponsored entry format
 ----------------------
@@ -36,6 +42,9 @@ Pricing
 
 The price for our hiring sponsorship is **$250** per job posting.
 
+You can pay via our `online payment form <https://buy.stripe.com/fZe4gE2jyal76liaEM>`_,
+or we can issue you an invoice.
+
 Examples
 --------
 
@@ -45,8 +54,11 @@ Examples
 Ordering
 --------
 
-Email us at sponsorship@writethedocs.org to purchase your sponsorship,
+Email us at `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org?subject=Job%20posting%20sponsorship>`__ to purchase your sponsorship,
 or if you have any questions.
 
+.. raw:: html
 
-
+   <div class="cta-group">
+      <a class="cta-button" href="https://buy.stripe.com/fZe4gE2jyal76liaEM">Post your job — $250</a>
+   </div>
