@@ -118,13 +118,17 @@ Alicia loves to explain complex things in easy-to-understand ways and is passion
 
 #### Welcome Wagon
 
-### Ingrid Towey (she/her)
+### Swapnil Ogale (he/him)
 
 #### Virtual platform coordinator
 
-![](/_static/img/2026/team/ingrid.png)
+![](/_static/img/2026/team/swapnil.png)
 
-Ingrid loves working as an editor, writing coach, and user champion at Red Hat. She blends a UX and Folklore background with editorial expertise and tempers both with the patience learned from 15 years of homeschooling 3 kids. In her down time, you can find her reading, drawing, dabbling with languages, or enjoying Renaissance dance and medieval cooking.
+Swapnil is fortunate enough to live in one of the world's most liveable cities - Melbourne, Australia. When he is not travelling, trying out new food, binging on Seinfeld and Frasier reruns, or collecting books for his library, he works as a technical writer at Amazon Web Services Australia. He initiated Write the Docs in Australia in 2016 and has been happily running the local meetups and the annual conference since then.
+
+### Hillary Nyakundi
+
+#### Virtual platform coordinator
 
 ### Heather Zoppetti (she/her)
 
