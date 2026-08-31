@@ -100,6 +100,22 @@ Writing Day is the perfect opportunity to participate and learn about new projec
 If you are planning to contribute, review the project list before the conference.
 Incoming project information, check back here for updates closer to the conference.
 
+### Draft a German style guide
+
+- **Project organizer**: [Matthias Schrumpf](https://www.linkedin.com/in/matthias-schrumpf-47b344255/), it/they
+- **Project session**: All day
+
+[Pretix](https://github.com/pretix/pretix) is an open source software project that's reinventing ticket presales - one ticket at a time.
+
+Our Writing Day goal is to draft a German-language style guide for the [pretix docs](https://github.com/pretix/pretix-docs). The pretix docs have an English style guide that shows our documentation writing process with all of the small-scale decisions about wording, syntax, punctuation, and formatting. We know its vital to record these decisions so pretix, and our contributors, don't have to make them over and over again. With that, we realized that we need a German version of our style guide to support our German articles.
+
+Interested in contributing?
+
+- This project is best suited for folks with native-like German proficiency
+- Some knowledge of pretix and its [docs](https://github.com/pretix/pretix-docs) is helpful (not required)
+
+See you at Writing Day!
+
 ### Examples of projects you might see at the conference
 
 - Open-source software documentation

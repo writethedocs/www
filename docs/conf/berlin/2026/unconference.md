@@ -35,6 +35,12 @@ Everyone!
 
 Exact times to be posted on our [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page.
 
+{% if unconf.url %}
+```{button-link} {{ unconf.url }}
+See the Unconference sessions or lead a session
+```
+{% endif %}
+
 ## Leading a Session
 
 Sessions take place at tables and focus on small group interaction. There is no stage at an Unconference session.
