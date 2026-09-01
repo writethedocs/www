@@ -106,7 +106,9 @@ The [Unconference](/conf/{{shortcode}}/{{year}}/unconference/) consists of atten
 ### Monday Night Social:
 This is our main social event of the conference. Drinks and snacks provided by us. It is a time to connect with other attendees outside of the scheduled programming. Come for an hour or stay the entire time!
 
-Details TBD.
+**Where**: {{about.social_venue}}
+
+**When**: {{date.day_three.dotw}}, {{date.day_three.social_time}} {{tz}}
 
 ## Did We Miss Anything?
 Is there anything that would make your attendance possible or improve your experience? Please email us at <{{email}}>, and we’ll do what we can to provide it.

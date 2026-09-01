@@ -29,38 +29,38 @@ The website is full of useful information about the conference, venue, and {{ ci
 - **Writing Day:** Join us on {{ date.day_two.dotw }} to collaborate with fellow documentarians on a project. We've already shared the full schedule, and it's all on the [Writing Day page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/). If you'd like to join the **New to Git** workshop, [sign up soon]({{ writing_day.git_signup_url }}), since space is limited. Everything else is drop-in, and you're welcome to bring your own project.
 - **Welcome Reception:** Do not miss our {{ date.day_two.dotw }} evening reception at {{ about.venue }}! Everyone with a conference ticket is welcome, whether or not you join Writing Day. Pick up your badge, meet other attendees, and enjoy drinks and snacks on us.
 - **Speaker Talks:** Take a look at our schedule and pick the talks you want to attend. [View our lineup here](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/#monday-september-7).
-- **Unconference:** Lead or attend a session so you can connect with like-minded folks about topics you care about. We're accepting Monday session sign-ups now. [Learn more about signing up](#monday-unconference-sessions-open).
-- **Lightning Talks:** Do you have an idea, concept, or topic you'd like to share with our community in five minutes? We're now accepting Monday submissions. [Learn more about submitting a talk](#monday-lightning-talk-submissions-open).
-- **Monday Night Social:** Our offsite gathering is an informal way to relax with fellow attendees, and again enjoy some drinks and snacks on us! Held at {{ about.social_venue }}.
+- **Unconference:** Lead or attend a session so you can connect with like-minded folks about topics you care about. We're accepting sign-ups for {{ date.day_three.dotw }} morning sessions now. [Learn more about signing up](#monday-unconference-sessions-open).
+- **Lightning Talks:** Do you have an idea, concept, or topic you'd like to share with our community in five minutes? We're now accepting {{ date.day_three.dotw }} submissions. [Learn more about submitting a talk](#monday-lightning-talk-submissions-open).
+- **{{ date.day_three.dotw }} Night Social:** Our offsite gathering is an informal way to relax with fellow attendees, and again enjoy some drinks and snacks on us! Held at {{ about.social_venue }}.
 - **Virtually:** Want to stream speaker talks and Q&As from the comfort of your own home? [Attend the conference virtually](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/virtual/).
 
 [Tickets are still available](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/), both in person and virtual.
 
-## Monday Unconference Sessions Open
+## {{ date.day_three.dotw }} Unconference Sessions Open
 
-We've already opened up the Monday Unconference sign-ups! Unconferences are amazing ways to foster connection within our community, and we hope this gives more visibility to the earlier Monday slots. [Learn more about the Unconference here](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/unconference/).
+We've already opened up the {{ date.day_three.dotw }} morning Unconference sign-ups! Unconferences are amazing ways to foster connection within our community, and we hope this gives more visibility to the earlier {{ date.day_three.dotw }} slots. [Learn more about the Unconference here](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/unconference/).
 
 {% if unconf.url %}
 ```{button-link} {{ unconf.url }}
-Sign up to Lead a Monday Unconference
+Sign up to Lead a {{ date.day_three.dotw }} Morning Unconference Session
 ```
 {% endif %}
 
 And as always, sign-ups are also welcome during the conference.
 
-## Monday Lightning Talk Submissions Open
+## {{ date.day_three.dotw }} Lightning Talk Submissions Open
 
-We have opened up Monday Lightning Talk submissions. Lightning Talks are a wonderful way to share an idea, concept, or piece of information you find interesting, in an informal five-minute talk. [Learn more about giving a Lightning Talk here.](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/lightning-talks/)
+We have opened up {{ date.day_three.dotw }} Lightning Talk submissions. Lightning Talks are a wonderful way to share an idea, concept, or piece of information you find interesting, in an informal five-minute talk. [Learn more about giving a Lightning Talk here.](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/lightning-talks/)
 
 {% if lightning_talks.signup_url %}
 ```{button-link} {{ lightning_talks.signup_url }}
-Submit your Monday Lightning Talk
+Submit your {{ date.day_three.dotw }} Lightning Talk
 ```
 {% endif %}
 
-Tuesday Lightning Talk sign-ups will open later.
+{{ date.day_four.dotw }} Lightning Talk sign-ups will open later.
 
-## Access to the virtual platform
+## Access to the Virtual Platform
 
 You'll receive your virtual platform access link in a separate email today.
 This will be sent to the email address of each ticket holder.
@@ -80,7 +80,7 @@ We'll be posting announcements in that channel throughout the conference, and we
 
 **Where do I check in?**
 
-Registration opens on {{ date.day_two.dotw }} morning for Writing Day, and again in the morning on Monday and Tuesday, at the entrance of {{ about.venue }}.
+Registration opens on {{ date.day_two.dotw }} morning for Writing Day, and again in the morning on {{ date.day_three.dotw }} and {{ date.day_four.dotw }}, at the entrance of {{ about.venue }}.
 
 **How can I stream talks?**
 
@@ -98,16 +98,21 @@ Yes, we do! Go to Registration and they will check your bags. Space may be limit
 
 Yes, visit Registration to get access.
 
+**Will you publish videos of the talks?**
+
+Yes, all talks are recorded and videos will be published about a week after the conference.
+Writing Day and Unconference sessions are not recorded.
+
 ## Thanks To Our Sponsors
 
-Thanks to our sponsors for supporting the conference this year. A number of them will be present on Monday and Tuesday. We hope you get a chance to talk with them while you're here.
+Thanks to our sponsors for supporting the conference this year. A number of them will be present on {{ date.day_three.dotw }} and {{ date.day_four.dotw }}. We hope you get a chance to talk with them while you're here.
 
 A message from Mintlify:
 
 > Mintlify is sponsoring Write the Docs Berlin and we can't wait to meet you! We build a docs platform that makes sure your content is agent-ready and gives you top notch tooling without having to maintain it yourself.
-
+>
 > Visit us at the sponsor tables to chat about making your content agent-friendly, empowering more people across your organization to contribute to docs, docs-as-code, or anything else. It's a treat to meet our users and share what we're building.
-
+>
 > See you in Berlin!
 
 Thanks to all our sponsors:
