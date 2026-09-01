@@ -31,7 +31,7 @@ Sponsorship is the usual answer. But sponsorship is easier said than done, and f
 
 If you use or rely on OSS, how do you support the maintainers who make it possible? In a postscript to this conversation, Joseph noted he had shipped two releases, launched a new offering (`Vale CMS <https://cms.vale.sh/>`__), and found three sponsors. So there is some hope, but perhaps not yet a completely sustainable model.
 
-See more Write the Docs resources about `documentation testing and quality </topics/#culture and community>`__.
+See more Write the Docs resources about `documentation testing and quality </topics/#culture-and-community>`__.
 
 ---------------------------
 Doing unpaid work for a job
