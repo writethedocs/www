@@ -82,7 +82,7 @@ This conference has virtual and in-person ticket options. All in-person and virt
 
 **Do you cater lunch?**
 
-No, we don't cater a full lunch, but we provide coffee, tea and drinks throughout the day, morning fruit and pastries, and an afternoon dessert. The Cafeteria at {{ about.venue }} will be open during the conference. There are a number of great restaurants within walking distance. View our [Visiting Berlin](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/) page for more ideas.
+No, we don't cater a full lunch, but we provide coffee, tea and drinks throughout the day, morning fruit and pastries, and an afternoon dessert. The Cafeteria at {{ about.venue }} is only open on Tuesday. There are a number of great restaurants within walking distance. View our [Visiting Berlin](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/) page for more ideas.
 
 **Do you have a place to store luggage?**
 

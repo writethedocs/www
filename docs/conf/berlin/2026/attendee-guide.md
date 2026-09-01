@@ -30,7 +30,7 @@ View our [Venue](/conf/{{shortcode}}/{{year}}/venue/) page for details and the l
 
 - Coffee, tea, and light snacks will be provided in the morning and afternoon. 
 - Bring a water bottle to refill.
-- The Cafeteria in the venue will be open during the conference. Exact hours to be released closer to the conference.
+- The Cafeteria in the venue is only open on Tuesday.
 - There are many food and beverage options within a 10-minute walk of the venue. View the [Visiting Berlin](/conf/{{shortcode}}/{{year}}/visiting/) page.
 
 ## Dress Code
