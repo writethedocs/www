@@ -3,7 +3,7 @@ template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
-```{post} August 18, 2026
+```{post} September 1, 2026
 :tags: {{shortcode}}-{{year}}
 ```
 
@@ -27,14 +27,14 @@ The website is full of useful information about the conference, venue, and {{ ci
 ## How to Participate in the Conference
 
 - **Writing Day:** Join us on {{ date.day_two.dotw }} to collaborate with fellow documentarians on a project. We've already shared the full schedule, and it's all on the [Writing Day page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/). If you'd like to join the **New to Git** workshop, [sign up soon]({{ writing_day.git_signup_url }}), since space is limited. Everything else is drop-in, and you're welcome to bring your own project.
-- **Welcome Reception:** Do not miss our {{ date.day_two.dotw }} evening reception at {{ about.venue }}! Pick up your badge, meet other attendees, and enjoy drinks and snacks on us.
+- **Welcome Reception:** Do not miss our {{ date.day_two.dotw }} evening reception at {{ about.venue }}! Everyone with a conference ticket is welcome, whether or not you join Writing Day. Pick up your badge, meet other attendees, and enjoy drinks and snacks on us.
 - **Speaker Talks:** Take a look at our schedule and pick the talks you want to attend. [View our lineup here](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/#monday-september-7).
 - **Unconference:** Lead or attend a session so you can connect with like-minded folks about topics you care about. We're accepting Monday session sign-ups now. [Learn more about signing up](#monday-unconference-sessions-open).
 - **Lightning Talks:** Do you have an idea, concept, or topic you'd like to share with our community in five minutes? We're now accepting Monday submissions. [Learn more about submitting a talk](#monday-lightning-talk-submissions-open).
 - **Monday Night Social:** Our offsite gathering is an informal way to relax with fellow attendees, and again enjoy some drinks and snacks on us! Held at {{ about.social_venue }}.
 - **Virtually:** Want to stream speaker talks and Q&As from the comfort of your own home? [Attend the conference virtually](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/virtual/).
 
-**[TODO: ticket status — e.g. "In-person tickets are sold out. Virtual ticket registrations will close on September 5.".]**
+[Tickets are still available](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/), both in person and virtual.
 
 ## Monday Unconference Sessions Open
 
@@ -82,7 +82,7 @@ This conference has virtual and in-person ticket options. All in-person and virt
 
 **Do you cater lunch?**
 
-No, we don't cater a full lunch, but we provide coffee, tea and drinks throughout the day, morning fruit and pastries, and an afternoon dessert. [TODO: CHECK] The Cafeteria at {{ about.venue }} will be open during the conference. There are a number of great restaurants within walking distance. View our [Visiting Berlin](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/) page for more ideas.
+No, we don't cater a full lunch, but we provide coffee, tea and drinks throughout the day, morning fruit and pastries, and an afternoon dessert. The Cafeteria at {{ about.venue }} will be open during the conference. There are a number of great restaurants within walking distance. View our [Visiting Berlin](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/) page for more ideas.
 
 **Do you have a place to store luggage?**
 
