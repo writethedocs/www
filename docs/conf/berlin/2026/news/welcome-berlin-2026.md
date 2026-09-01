@@ -60,6 +60,12 @@ Submit your Monday Lightning Talk
 
 Tuesday Lightning Talk sign-ups will open later.
 
+## Access to the virtual platform
+
+You'll receive your virtual platform access link in a separate email today.
+This will be sent to the email address of each ticket holder.
+You'll also receive this if you have an in-person ticket, in case you can't or don't want to come into the venue some of the time.
+
 ## Join our Slack Community
 
 ### #wtd-conferences channel
