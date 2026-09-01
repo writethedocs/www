@@ -169,6 +169,9 @@ unconf:
 lightning_talks:
   signup_url: "https://docs.google.com/forms/d/e/1FAIpQLSduOPKqF2wIZM79cGL4ZttjnRXVX2f_tz3YfiR_HhOnhBMLoA/viewform"
 
+qa:
+  event_id: 7dS4HFHyZcnQmCS4kW9c7q
+
 writing_day:
   url: "https://docs.google.com/forms/d/e/1FAIpQLSf5dN0o3HkPMY5UTVzyhO6nq7T07OL6awFHv9fkfX_jdV98iQ/viewform"
   git_signup_url: "https://ti.to/writethedocs/write-the-docs-berlin-2026/with/qyxd-bvuzc"

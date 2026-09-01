@@ -146,6 +146,9 @@ unconf:
   url: https://bit.ly/wtd-au-2026
   date: "Thursday and Friday after the morning tea break"
 
+qa:
+  event_id: pheuiBqUcsduHbivhQgBQV  # TODO: replace with the Australia 2026 Slido event (this is Portland 2025's)
+
 writing_day:
   url: ""
   date: Saturday, December 4, 10:00-17:00 AEDT
