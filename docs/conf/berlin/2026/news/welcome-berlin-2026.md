@@ -9,7 +9,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 # Welcome to Write the Docs {{ city }} {{ year }}!
 
-Our conference kicks off in a few days! We're looking forward to gathering in {{ city }} and online, for a few days of talks, an Unconference, and the return of Writing Day. We hope you're as excited as we are! Below is an overview of the conference, along with a couple of announcements.
+Our conference kicks off in just a few days! We can't wait to gather with you — in {{ city }} and online — for two days of talks, an Unconference, and the return of Writing Day. Below is an overview of the conference, along with a few announcements.
 
 ## Important Links
 
@@ -21,7 +21,7 @@ The website is full of useful information about the conference, venue, and {{ ci
 - [Meet the Team](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/team/)
 - [Code of Conduct](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/code-of-conduct/)
 
-```{figure} /_static/conf/images/pics/portland-unconference.jpg
+```{figure} /_static/conf/images/pics/berlin-2025-opening.jpg
 ```
 
 ## How to Participate in the Conference
@@ -34,7 +34,7 @@ The website is full of useful information about the conference, venue, and {{ ci
 - **{{ date.day_three.dotw }} Night Social:** Our offsite gathering is an informal way to relax with fellow attendees, and again enjoy some drinks and snacks on us! Held at {{ about.social_venue }}.
 - **Virtually:** Want to stream speaker talks and Q&As from the comfort of your own home? [Attend the conference virtually](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/virtual/).
 
-[Tickets are still available](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/), both in person and virtual.
+There are still [a few tickets available](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/). Virtual registration will close on September 6.
 
 ## {{ date.day_three.dotw }} Unconference Sessions Open
 
@@ -80,7 +80,7 @@ We'll be posting announcements in that channel throughout the conference, and we
 
 **Where do I check in?**
 
-Registration opens on {{ date.day_two.dotw }} morning for Writing Day, and again in the morning on {{ date.day_three.dotw }} and {{ date.day_four.dotw }}, at the entrance of {{ about.venue }}.
+Registration opens on {{ date.day_two.dotw }} morning for Writing Day, and is open for the entire conference on {{ date.day_three.dotw }} and {{ date.day_four.dotw }}. It is located at the entrance of {{ about.venue }}.
 
 **How can I stream talks?**
 
@@ -88,11 +88,11 @@ This conference has virtual and in-person ticket options. All in-person and virt
 
 **Do you cater lunch?**
 
-No, we don't cater a full lunch, but we provide coffee, tea and drinks throughout the day, morning fruit and pastries, and an afternoon dessert. The Cafeteria at {{ about.venue }} is only open on Tuesday. There are a number of great restaurants within walking distance. View our [Visiting Berlin](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/) page for more ideas.
+No, we don't cater a full lunch, but we provide coffee, tea and drinks throughout the day, morning fruit and pastries, and an afternoon dessert. **The Cafeteria at {{ about.venue }} is open only on Tuesday.** There are a number of great restaurants within walking distance. View our [Visiting Berlin](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/) page for more ideas.
 
 **Do you have a place to store luggage?**
 
-Yes, we do! Go to Registration and they will check your bags. Space may be limited.
+Yes, we do! Go to Registration and they will check your bags.
 
 **Do you have a Parents Room?**
 
@@ -100,7 +100,7 @@ Yes, visit Registration to get access.
 
 **Will you publish videos of the talks?**
 
-Yes, all talks are recorded and videos will be published about a week after the conference.
+Yes, all talks are recorded and videos will be published within a few weeks after the conference.
 Writing Day and Unconference sessions are not recorded.
 
 ## Thanks To Our Sponsors
