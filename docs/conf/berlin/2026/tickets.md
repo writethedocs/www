@@ -12,6 +12,8 @@ banner: _static/conf/images/headers/2026/tickets.jpg
 
 We're excited to invite you to our {{ year }} conference in {{ city }}.
 
+Virtual ticket sales close on September 6, 2026.
+
 {% if shirts and flaghasshirts %}
 
 Conference shirts are also available. See the [Official Conference Shirts](#official-conference-shirts) section below for details.
