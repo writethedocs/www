@@ -130,6 +130,8 @@ Swapnil is fortunate enough to live in one of the world's most liveable cities -
 
 #### Virtual platform coordinator
 
+![](/_static/img/2026/team/hillary.jpg)
+
 ### Heather Zoppetti (she/her)
 
 #### Virtual platform coordinator
