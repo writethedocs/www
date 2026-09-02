@@ -33,10 +33,12 @@ TITO_EVENT = "write-the-docs-berlin-2026"
 VENUELESS_PUBLIC_URL = "https://writethedocs.venueless.events/"  # include trailing /
 # Pull this from the websocket path in a browser
 VENUELESS_EVENT_SLUG = "wtdberlin26"
-# If not listed in here, ticket is skipped
+# Activity names not listed in here cause a warning. List them with an empty
+# list of traits to acknowledge that they intentionally grant no traits.
 ACTIVITY_NAME_TO_TRAIT = {
-    "conference": ["onsite"],
+    "in-person conference": ["onsite"],
     "virtual conference": ["virtual"],
+    "in-person paid tickets": [],
 }
 # If not listed in here, only gets DEFAULT_TRAITS
 TICKET_NAME_TO_TRAIT = {
@@ -68,14 +70,33 @@ assert hello_response.json()["authenticated"]
 
 pending_tickets = []
 
-# NOTE: in tito UI, this is called an attendee
-tickets_response = requests.get(
-    f"https://api.tito.io/v3/writethedocs/{TITO_EVENT}/tickets",
-    params={"page[size]": 1000, "search[states][]": "complete", "expand": "release,activities"},
-    headers=headers,
-)
+# NOTE: in tito UI, this is called an attendee.
+# The expand parameter is only supported from API version 3.1, which is not the
+# default. Without it, tito silently omits the activities from each ticket.
+tito_tickets = []
+page = 1
+while page:
+    tickets_response = requests.get(
+        f"https://api.tito.io/v3/writethedocs/{TITO_EVENT}/tickets",
+        params={
+            "version": "3.1",
+            "page[number]": page,
+            "page[size]": 100,
+            "search[states][]": "complete",
+            "expand": "release,activities",
+        },
+        headers=headers,
+    )
+    tickets_page = tickets_response.json()
+    if "tickets" not in tickets_page:
+        print(f"Error: unexpected tito response {tickets_response.status_code}: {tickets_response.text}")
+        sys.exit(1)
+    if warning := tickets_page["meta"].get("warning"):
+        print(f"Error: tito API warning: {warning}")
+        sys.exit(1)
+    tito_tickets += tickets_page["tickets"]
+    page = tickets_page["meta"]["next_page"]
 
-tito_tickets = tickets_response.json()["tickets"]
 print(f"Found {len(tito_tickets)} tickets.")
 
 for ticket in tito_tickets:
@@ -84,19 +105,24 @@ for ticket in tito_tickets:
     venueless_meta = ticket.get("metadata").get("venueless") if ticket.get("metadata") else None
 
     # "release" is the API term for what the UI calls "ticket"
-    traits = TICKET_NAME_TO_TRAIT.get(ticket["release_title"].lower(), []).copy()
+    release_title = ticket["release"]["title"]
+    traits = TICKET_NAME_TO_TRAIT.get(release_title.lower(), []).copy()
     traits += DEFAULT_TRAITS
     traits.append(ticket_reference)
 
-    try:
-        activity_name = ticket["activities"][0]["name"].lower()
-        traits += ACTIVITY_NAME_TO_TRAIT[activity_name]
-    except (IndexError, KeyError):
-        pass
+    activity_names = [activity["name"].lower() for activity in ticket.get("activities", [])]
+    if not activity_names:
+        print(f"NOTE: ticket {ticket_reference} has no activities, no onsite/virtual trait set")
+    for activity_name in activity_names:
+        if activity_name in ACTIVITY_NAME_TO_TRAIT:
+            traits += ACTIVITY_NAME_TO_TRAIT[activity_name]
+        else:
+            print(f"NOTE: ticket {ticket_reference} has unknown activity {activity_name!r}, skipping it")
 
-    is_staff = ticket["release_title"] == "Staff Ticket"
-    print(f'Found ticket {ticket["name"]}: {ticket_reference=} {traits=} {venueless_meta=} {is_staff=}')
-    if not venueless_meta and is_staff:
+    # Tickets that are neither onsite nor virtual, e.g. workshop only, get no venueless access
+    is_attending = "onsite" in traits or "virtual" in traits
+    print(f'Found ticket {ticket["name"]}: {ticket_reference=} {traits=} {venueless_meta=} {is_attending=}')
+    if not venueless_meta and is_attending:
         pending_tickets.append((ticket_slug, traits))
 
 VENUELESS_WSS_URL = f"{VENUELESS_PUBLIC_URL.replace('https', 'wss')}ws/world/{VENUELESS_EVENT_SLUG}/"
