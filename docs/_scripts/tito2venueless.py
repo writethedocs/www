@@ -29,10 +29,10 @@ sys.path.append(docs_root)
 ###############################################################################
 # Settings
 
-TITO_EVENT = "write-the-docs-portland-2026"
+TITO_EVENT = "write-the-docs-berlin-2026"
 VENUELESS_PUBLIC_URL = "https://writethedocs.venueless.events/"  # include trailing /
 # Pull this from the websocket path in a browser
-VENUELESS_EVENT_SLUG = "wtd265"
+VENUELESS_EVENT_SLUG = "wtdberlin26"
 # If not listed in here, ticket is skipped
 ACTIVITY_NAME_TO_TRAIT = {
     "conference": ["onsite"],
