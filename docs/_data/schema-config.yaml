@@ -218,6 +218,7 @@ shirts-details:
 
 unconf-details:
   url: str(required=True)
+  virtual_url: str(required=False)
   date: str(required=False)
 
 writing_day-details:

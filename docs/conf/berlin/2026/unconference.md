@@ -23,7 +23,7 @@ Everyone!
 **Date: {{ unconf.date }}**
 
 - Morning and afternoon sessions
-- Each session is 40 minutes in length
+- Each session is 35 minutes in length
 - Runs as a second track, alongside the talks
 
 ### Scheduling a Session
@@ -31,13 +31,29 @@ Everyone!
 - Sign up online one week prior to the conference (Monday morning sessions only).
 - Sign up for all sessions in-person anytime during the conference, Sunday through Tuesday.
 - During the conference, write the title and your name on a sticky note. Select a time slot and table number and place the note on the large schedule.
-- The online schedule will be available to view only during the conference. This will be updated regularly.
+- The [online schedule]({{ unconf.url }}) will be updated regularly during the conference.
 
 Exact times to be posted on our [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page.
 
 {% if unconf.url %}
 ```{button-link} {{ unconf.url }}
 See the Unconference sessions or lead a session
+```
+{% endif %}
+
+## Virtual Sessions
+
+[Virtual attendees](/conf/{{shortcode}}/{{year}}/virtual/) have their own Unconference track on {{ date.day_three.dotw }}, {{ date.day_three.date }} and {{ date.day_four.dotw }}, {{ date.day_four.date }}.
+
+- Runs as a second track, alongside the talks
+- Each session is 35 minutes in length
+- To sign up, type the title of your session and your name in the sign-up sheet
+- To attend, join the room for that session
+- Before your session starts, check that your browser allows access to your camera and microphone
+
+{% if unconf.virtual_url %}
+```{button-link} {{ unconf.virtual_url }}
+See the virtual sessions or lead a session
 ```
 {% endif %}
 
@@ -68,7 +84,7 @@ These ideas were borrowed from Scott Berkun. Read more of his [post on Unconfere
 
 ## Attending a Session
 
-- View the Session Schedule. This will be posted online and in the Unconference room during the conference only.
+- View the [Session Schedule]({{ unconf.url }}). This is also posted in the Unconference room during the conference.
 - Find the table and have a seat. You can also join mid-session!
 - Listen or contribute to the discussion.
 - You're welcome to change sessions mid-slot! Please make sure you leave politely.
