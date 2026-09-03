@@ -13,7 +13,7 @@ Speaking of the community, the `Berlin conference is coming starting on Sunday <
 
 The job market is tough right now, and real-world, accurate salary data is needed more than ever. You can help by filling out the `WTD Documentation Salary Survey for 2026 <https://salary-survey.writethedocs.org/>`__. It's open to anyone working in documentation anywhere in the world - employed, freelance, contract, full-time or part-time, at any level of experience, and even if you're currently between jobs. Everything is anonymous, nothing is shared with any third party, and results are published free for everyone. 
 
-This month marks 10 years since `our first newsletter </blog/newsletter-september-2016/>`__. It's amazing that we've keep going so long. Thanks especially to my precesssors in the editor role, Kelly O'Brien and Beth Aitman, but also everyone else who has contributed over the years, including Hillary Fraley, Jennifer Rondeau, Claire Lundeby, Royce Cook, Heather Zoppetti, Elle Jones, Kyla del Rosario, Alia Michaels, Felicity Brand, Andrew Williams, and Ane Tröger. It takes a team effort to keep this going, but we have no plans to stop yet!
+This month marks 10 years since `our first newsletter </blog/newsletter-september-2016/>`__. It's amazing that we've keep going so long. Thanks especially to my predecesssors in the editor role, Kelly O'Brien and Beth Aitman, but also everyone else who has contributed over the years, including Hillary Fraley, Jennifer Rondeau, Claire Lundeby, Royce Cook, Heather Zoppetti, Elle Jones, Kyla del Rosario, Alia Michaels, Felicity Brand, Andrew Williams, and Ane Tröger. It takes a team effort to keep this going, but we have no plans to stop yet!
 
 That's more than enough for an intro, so let's jump into the insights from the community for this month.
 
@@ -41,7 +41,7 @@ A recent discussion in `#career-advice <https://writethedocs.slack.com/archives/
 
 This particular case involved writing a 1,000+ word article about an actual product launch. Because of the "actual product" focus and the length of the assignment, many cautioned against complying with the assignment and considered this "free work". (This could indicate an employer taking advantage of job candidates in a difficult labor market.)
 
-Several suggested clarifying copyright, publishing, and portfolio rights before submitting the assignment (possibly as a password-protected PDF with printing and copying disabled). Also of concern was any required non-disclosure agreement (NDA), which might be legally binding.
+Several suggested clarifying copyright, publishing, and portfolio rights before submitting the assignment (possibly as a password-protected PDF file with printing and copying disabled). Also of concern was any required non-disclosure agreement (NDA), which might be legally binding.
 
 Because of the current job market, some people made suggestions about "working around" the assignment:
 
