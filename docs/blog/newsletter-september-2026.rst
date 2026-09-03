@@ -59,13 +59,13 @@ See more Write the Docs resources about `getting hired </topics/#getting-hired>`
 AI skills as a documentation practice
 -------------------------------------
 
-Over the summer, documentarians reported on new projects they were building: collections of AI skills, reusable instruction sets that extend what a model can do. Participants noted that the discipline required to build them well looks a lot like the discipline that makes good documentation: Scope carefully. Write for your audience. Offer clear examples. Maintain ruthlessly.
+Some documentarians recently discussed developing collections of AI skills: reusable instruction sets that extend what a model can do. Participants noted that the discipline required to build them well looks a lot like the discipline that makes good documentation: Scope carefully. Write for your audience. Offer clear examples. Maintain ruthlessly.
 
-People reported that comprehensive skills performed worse than more focused ones. The instinct to be thorough, so natural for documentarians, may not always serve skills well. People said that a skill tended to work better when it does one thing well and clearly signals when it applies. Deciding what not to write can be as important as deciding what to include.
+People reported that comprehensive skills performed worse than more focused ones. The instinct to be thorough, so natural for documentarians, may not always serve well with individual skills. People said that a skill tended to work better when it does one thing well and clearly signals when it applies. Deciding what not to write can be as important as deciding what to include.
 
 Soft instructions may not be enough to act as guardrails. For example, some found telling Claude "don't use this skill for Product B" worked when the context was clear, but failed when the context was ambiguous. Some teams found a more reliable approach in the structure around the skill itself: storing skills in project directories so they only load in the right context, using path scoping to restrict availability and explicit permissions to enforce harder boundaries.
 
-As with some docs, examples may be more helpful than instructions. Participants found that a corpus of strong examples can outperform even well-crafted rules. When a skill produces output you're genuinely happy with, capturing that output can be useful. Over time, consider growing your example library, rather than continually expanding their instruction prose.
+As with some docs, examples may be more helpful than instructions. Participants found that a corpus of strong examples can outperform even well-crafted rules. When a skill produces output you're genuinely happy with, capturing that output can be useful. Over time, consider adding to your example library, rather than continually expanding their instruction prose.
 
 Maintenance is the practice nobody talks about enough. Skills can compound, much like documentation. Participants talked about experimenting with regular deletion passes, revisiting skills as the underlying model improved, and tracking whether a skill is actually reducing the amount of correction required during review.
 
