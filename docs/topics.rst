@@ -583,6 +583,7 @@ DITA
 AI and LLMs
 ~~~~~~~~~~~
 
+- |:newspaper:| `AI skills as a documentation practice </blog/newsletter-september-2026/#ai-skills-as-a-documentation-practice>`__
 - |:newspaper:| `Exporting Markdown documentation for LLMs </blog/newsletter-july-2026/#exporting-markdown-documentation-for-llms>`__
 - |:newspaper:| `Flagging AI content in documentation </blog/newsletter-june-2026/#flagging-ai-content-in-documentation>`__
 - |:newspaper:| `Docs without dedicated documentarians? </blog/newsletter-april-2026/#docs-without-dedicated-documentarians>`__
