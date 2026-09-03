@@ -7,13 +7,13 @@
 Write the Docs Newsletter – September 2026
 ##########################################
 
-Hello and hello, fellow documentarians! Aaron and the rest of the newsletter team are back after our short break (summer for some, winter for another) and ready to fill your inbox with insight from the community.
+Hello and hello, fellow documentarians! Aaron and the rest of the newsletter team are back after our short break (summer for some, winter for others) and ready to fill your inbox with insight from the community.
 
-Speaking of the community, the `Berlin conference is coming starting on Sunday </conf/berlin/2026/>`__, so you still have a little time to get a ticket, whether in-person or virtual. Hope to see you there! Later in the year, the `Australia conference is coming back </conf/australia/2026/>`__, so check that out if the time suits you. If you have ideas to share, the `call for proposals </conf/australia/2026/cfp/>`__ is open until next Friday, so get them in soon. And keep up to date with how the community is running with the `community board's latest quarterly update </blog/2026-Q3-community-board/>`__.
+Speaking of the community, the `Berlin conference is starting on Sunday </conf/berlin/2026/>`__, so you still have a little time to get a ticket, whether in-person or virtual (closing Sunday). Hope to see you there! Later in the year, the `Australia conference is returning after a break </conf/australia/2026/>`__, so check that out if the time suits you. If you have ideas to share, the `call for proposals </conf/australia/2026/cfp/>`__ is open until next Friday, so get them in soon. And keep up to date with what's going on in the community with the `community board's latest quarterly update </blog/2026-Q3-community-board/>`__.
 
 The job market is tough right now, and real-world, accurate salary data is needed more than ever. You can help by filling out the `WTD Documentation Salary Survey for 2026 <https://salary-survey.writethedocs.org/>`__. It's open to anyone working in documentation anywhere in the world - employed, freelance, contract, full-time or part-time, at any level of experience, and even if you're currently between jobs. Everything is anonymous, nothing is shared with any third party, and results are published free for everyone. 
 
-This month marks 10 years since `our first newsletter </blog/newsletter-september-2016/>`__. It's amazing that we've keep going so long. Thanks especially to my predecesssors in the editor role, Kelly O'Brien and Beth Aitman, but also everyone else who has contributed over the years, including Hillary Fraley, Jennifer Rondeau, Claire Lundeby, Royce Cook, Heather Zoppetti, Elle Jones, Kyla del Rosario, Alia Michaels, Felicity Brand, Andrew Williams, and Ane Tröger. It takes a team effort to keep this going, but we have no plans to stop yet!
+This month marks 10 years since `our first newsletter </blog/newsletter-september-2016/>`__. It's amazing that we've keep going so long. Thanks especially to my predecesssors in the editor role, Kelly O'Brien and Beth Aitman, but also everyone else who has contributed over the years, including Hillary Fraley, Jennifer Rondeau, Claire Lundeby, Royce Cook, Heather Zoppetti, Elle Jones, Kyla del Rosario, Alia Michaels, Felicity Brand, Andrew Williams, and Ane Tröger. And of course the `CoreOps </team/#core-operations-coreops>`__ and `Slack </team/#slack>`__ teams who keep everything running. It takes a group effort to keep this going, but we have no plans to stop yet!
 
 That's more than enough for an intro, so let's jump into the insights from the community for this month.
 
@@ -51,7 +51,7 @@ Because of the current job market, some people made suggestions about "working a
 - **Secure the right to use the work in a portfolio**: If you decide to complete the assignment for free, let the company know that this is a portfolio piece for gaining employment. (In an interview, there’s no guarantee of employment.)
 - **Treat the assignment as a first paid assignment**: If this is for a contract position, a candidate could propose a reduced rate for this first, trial assignment.
 
-In general, lengthy take-home assignments are problematic when they go from evaluating writing ability to producing content the employer can use. Candidates may decide the risk is worthwhile depending on how valuable the opportunity is to them. Don’t refuse every assignment, but establish boundaries (such as compensation, copyright, and portfolio use) before doing substantial work.
+Lengthy take-home assignments are problematic when they go from evaluating writing ability to producing content the employer can use. Candidates may decide the risk is worthwhile depending on how valuable the opportunity is to them. Don’t refuse every assignment, but establish boundaries (such as compensation, copyright, and portfolio use) before doing substantial work.
 
 See more Write the Docs resources about `getting hired </topics/#getting-hired>`__.
 
