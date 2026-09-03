@@ -169,7 +169,7 @@ Team leads (conference chairs)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - `Eric Holscher <https://www.ericholscher.com/>`_ (Portland)
-- `Sasha Romijn <https://twitter.com/mxsash>`_ (Atlantic)
+- `Sasha Romijn <https://twitter.com/mxsash>`_ (Berlin)
 - `Swapnil Ogale <https://twitter.com/swapnilogale>`_ (Australia)
 
 

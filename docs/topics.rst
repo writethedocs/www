@@ -323,6 +323,7 @@ Hiring
 Getting hired
 ~~~~~~~~~~~~~
 
+- |:newspaper:| `Doing unpaid work for a job </blog/newsletter-september-2026/#doing-unpaid-work-for-a-job>`__
 - |:newspaper:| `Are tool experience requirements a myth? </blog/newsletter-november-2024/#are-tool-experience-requirements-a-myth>`__
 - |:newspaper:| `Handling employment gaps </blog/newsletter-september-2024/#handling-employment-gaps>`__
 - |:newspaper:| `Setting Up for Success as a Neurodivergent Person </blog/newsletter-july-2023/#setting-up-for-success-as-a-neurodivergent-person>`__
@@ -582,6 +583,7 @@ DITA
 AI and LLMs
 ~~~~~~~~~~~
 
+- |:newspaper:| `AI skills as a documentation practice </blog/newsletter-september-2026/#ai-skills-as-a-documentation-practice>`__
 - |:newspaper:| `Exporting Markdown documentation for LLMs </blog/newsletter-july-2026/#exporting-markdown-documentation-for-llms>`__
 - |:newspaper:| `Flagging AI content in documentation </blog/newsletter-june-2026/#flagging-ai-content-in-documentation>`__
 - |:newspaper:| `Docs without dedicated documentarians? </blog/newsletter-april-2026/#docs-without-dedicated-documentarians>`__
@@ -689,6 +691,7 @@ Metrics
 Culture and community
 ---------------------
 
+- |:newspaper:| `How to sustain an OSS tool </blog/newsletter-september-2026/#how-to-sustain-an-oss-tool>`__
 - |:newspaper:| `The benefits of networking </blog/newsletter-july-2024/#the-benefits-of-networking>`__
 - |:movie_camera:| `Dealing with Unpleasant People in Open-Source Projects </blog/newsletter-september-2023/#dealing-with-unpleasant-people-in-open-source-projects>`__
 - |:movie_camera:| `A guide to getting started in open source <https://www.youtube.com/watch?v=3prrgLv4qt4>`__
