@@ -27,6 +27,7 @@ While this section currently focuses on Sphinx, the Write the Docs community use
 - **Docusaurus**: React-based tool by Meta with built-in versioning and i18n
 - **Jekyll**: Ruby-based static site generator, popular for GitHub Pages
 - **Hugo**: Extremely fast Go-based generator for content sites
+- **Sourcey**: Open-source static site generator for combining API references generated from OpenAPI, MCP, Doxygen, Go, or Rust with Markdown guides (`website <https://sourcey.com/>`__)
 
 See the main :doc:`/guide/index` for broader documentation guidance applicable across tools.
 
