@@ -36,7 +36,7 @@ What to consider when contributing
 
 When contributing to the website, keep these guidelines in mind:
 
-- Review the `website style guide </style-guide/>`
+- Review the `website style guide </style-guide/>`__.
 - For file format, see the guides for `reStructuredText (.rst)`_ and `Markdown`_.
 - For changes to the software documentation guide, see the `guide contributing guidelines </guide/contributing/>`__
 
@@ -119,7 +119,9 @@ To suggest changes to the Write the Docs website, follow these steps:
       git push --set-upstream origin BRANCH_NAME
 
     Replace ``BRANCH_NAME`` with the name from Step 8.
-16. In GitHub, open your fork and `create a pull request against the Write the Docs repository <https://help.github.com/en/articles/creating-a-pull-request>`__
+16. In GitHub, open your fork and `create a pull request against the Write the Docs repository <https://help.github.com/en/articles/creating-a-pull-request>`__.
+    The title can be the same as the message in Step 14
+    and the description can optionally include any necessary context for the change.
 
 Get help
 --------
