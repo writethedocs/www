@@ -135,8 +135,8 @@ about:
 
 cfp:
   url: "https://pretalx.com/wtd-australia-2026/cfp"  # Open mid July, approx 8 weeks to submit
-  ends: "Sept 11, 2026"                           # (Mon) 2 weeks, to review. It'll take a little longer to announce
-  notification: "Sept 18, 2026"                   # (Mon) 8 weeks to write and prepare
+  ends: "Sept 18, 2026"                           # (Mon) 2 weeks, to review. It'll take a little longer to announce
+  notification: "Sept 25, 2026"                   # (Mon) 8 weeks to write and prepare
   speaker_tickets_by: "November 1 2026"           # (Mon) Approx 3 weeks before
   video_by: "November 16, 2026"                   # Upload date for recorded talks (remote speakers)
   slides_by: "November 23, 2026"                 # (Mon) 2-3 weeks before
