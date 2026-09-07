@@ -3,8 +3,8 @@
 .. post:: September 7, 2026
    :tags: {{shortcode}}-{{year}}, cfp, tickets
 
-Call for Proposals endxtended
-===========================
+Call for Proposals extended
+============================
 
 Greetings fellow documentarians!
 
