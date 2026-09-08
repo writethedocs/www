@@ -22,6 +22,10 @@ There are several ways to contribute:
 * :ref:`Edit files using Git <edit-in-git>`.
 * To suggest larger changes or new content or note bugs in existing content `submit an issue`_.
 
+Once you have opened a pull request or issue,
+one of the members of Write the Docs will take a look at it and help get it published as appropriate.
+You can tag `writethedocs/core` for a review.
+
 What to contribute
 ------------------
 
