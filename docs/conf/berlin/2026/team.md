@@ -114,9 +114,13 @@ Daniel is a documentation consultant who helps software engineering teams make t
 
 Alicia loves to explain complex things in easy-to-understand ways and is passionate about harnessing the talent and collaborative spirit of others. She is currently Principal Technical Writer at Digi International, Inc., where she works closely (and remotely) with her internationally distributed development teams to document embedded Linux systems. She tends to be a human common denominator, bridging personalities and differences to bring people together.
 
-### Dustin Smith
+### Dustin Smith (he/him)
 
 #### Welcome Wagon
+
+![](/_static/img/2026/team/dustin.jpg)
+
+Dustin is a recovering academic, life-long language nerd, and documentarian who has now turned his focus to Cybersecurity. The Write the Docs community was integral during his move from the Washington, D.C. rat race to the Berlin start-up world in 2018 and he’s excited to give back this year as part of the Organizer Team. This is Dustin’s 4th in-person conference and his 2nd in Berlin. 
 
 ### Swapnil Ogale (he/him)
 
