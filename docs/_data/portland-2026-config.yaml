@@ -110,6 +110,8 @@ shirts:
 date: # how do we handle these? human readable would be nice.
   main: "**May 3-5, 2026**"  # Excludes Saturday hike
   short: May 3-5, 2026
+  start: "2026-05-03"
+  end: "2026-05-05"
   tickets_live: "December 2025"
   month: May
 
