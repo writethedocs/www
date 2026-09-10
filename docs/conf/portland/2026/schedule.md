@@ -6,6 +6,21 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 # Schedule
 
+{% if flaghasschedule %}
+
+```{raw} html
+<nav class="uk-flex uk-flex-wrap uk-flex-center" aria-label="Schedule dates">
+{% if flaghashike or flaghasboat %}
+  <a class="uk-button uk-button-secondary uk-margin-small-right uk-margin-small-bottom" href="#day-one">{{date.day_one.dotw}}, {{date.day_one.date}}</a>
+{% endif %}
+  <a class="uk-button uk-button-secondary uk-margin-small-right uk-margin-small-bottom" href="#day-two">{{date.day_two.dotw}}, {{date.day_two.date}}</a>
+  <a class="uk-button uk-button-secondary uk-margin-small-right uk-margin-small-bottom" href="#day-three">{{date.day_three.dotw}}, {{date.day_three.date}}</a>
+  <a class="uk-button uk-button-secondary uk-margin-small-bottom" href="#day-four">{{date.day_four.dotw}}, {{date.day_four.date}}</a>
+</nav>
+```
+
+{% endif %}
+
 Write the Docs is more than a conference. Each year we organize a wide range of events so that people can come together, collaborate, and learn from each other in different ways.
 
 {% if not flaghasschedule %}
@@ -16,13 +31,9 @@ Write the Docs is more than a conference. Each year we organize a wide range of 
 
 All times are in [{{ tz }}](https://time.is/{{ tz | replace(' ', '_') }}).
 
-```{contents}
-:local:
-:depth: 1
-:backlinks: none
-```
-
 {% if flaghashike or flaghasboat %}
+
+<span id="day-one"></span>
 
 ## {{date.day_one.dotw}}, {{date.day_one.date}}
 
@@ -39,6 +50,8 @@ All times are in [{{ tz }}](https://time.is/{{ tz | replace(' ', '_') }}).
 {% endif %}
 
 <hr>
+
+<span id="day-two"></span>
 
 ## {{date.day_two.dotw}}, {{date.day_two.date}}
 
@@ -57,6 +70,8 @@ A detailed schedule will be announced soon.
 
 <hr>
 
+<span id="day-three"></span>
+
 ## {{date.day_three.dotw}}, {{date.day_three.date}}
 
 {% if flaghasschedule %}
@@ -73,6 +88,8 @@ A detailed schedule will be announced soon.
 {% endif %}
 
 <hr>
+
+<span id="day-four"></span>
 
 ## {{date.day_four.dotw}}, {{date.day_four.date}}
 
