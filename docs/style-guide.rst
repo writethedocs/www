@@ -9,6 +9,10 @@ It's just a start, but everything has to start somewhere :)
    :doc:`Style Guides </guide/writing/style-guides>`
       An overview of style guides with links to example guides.
 
+.. contents::
+    :local:
+    :depth: 3
+
 Technical Formatting
 --------------------
 
@@ -25,7 +29,21 @@ If you are cross-referencing to a different page within our website, use the ``:
 Website content
 ~~~~~~~~~~~~~~~
 
-Our website uses mostly reStructured Text (RST) and Markdown. Generally more people are familiar with Markdown, so some sections might be written with that if we expect a lot of contributions. 
+Our website uses mostly `reStructured Text (RST) </guide/writing/reStructuredText/>`__ and `Markdown </guide/writing/markdown/>`__. Generally more people are familiar with Markdown, so some sections might be written with that if we expect a lot of contributions. 
+
+Website tone
+------------
+
+On the general website, we aim to take a neutral but friendly tone.
+Some of the guides distill wisdom from the community, usually shared first in Slack,
+but we try to present them in a less conversational way.
+
+Among other things, this means you need to take the following into consideration:
+
+- Try to stay impersonal but welcoming.
+- Avoid enforcing personal preferences.
+- Avoid advocacy and plugs for any specific tools. Discussing pros and cons can work in context.
+- Use inclusive language. Our community is multicultural, multiracial, multigendered, and generally diverse.
 
 Content
 -------
@@ -68,12 +86,14 @@ Conferences
 
 At the beginning, there was but one *Write the Docs*.
 After that, we branched out to a *North American* and *European* set of conferences.
-Now, we see that there may one day be more than one conference per continent, so we started naming the events after the city.
+Now, some events are named after the city, others after the country.
 
-So our 2017 conferences are officially called:
+Our 2026 conferences are officially called:
 
-* Write the Docs Portland 2017
-* Write the Docs Prague 2017
+* Write the Docs Australia 2026
+* Write the Docs Berlin 2026
+* Write the Docs Kenya 2026
+* Write the Docs Portland 2026
 
 
 .. container:: good
@@ -81,7 +101,7 @@ So our 2017 conferences are officially called:
     Good::
 
         We have some announcements about Write the Docs Portland.
-        Write the Docs Portland 2017 will be held again this year.
+        Write the Docs Portland 2027 will be held again this year.
 
 
 .. container:: bad
