@@ -169,15 +169,21 @@ sponsors:
   patron:
   publisher:
   second:
-    - name: readthedocs
-      link: https://about.readthedocs.com/?ref=writethedocs
-      brand: Read the Docs
   first:
+    - name: linux-australia
+      link: https://linux.org.au/
+      brand: Linux Australia
+      width: 350px      
   in_kind:
+    - name: rtd
+      link: https://readthedocs.com/
+      brand: Read the Docs
+      width: 250px      
+
 
 # Things that change over time, listed in order of change
 flaglanding: False
-flaghassponsors: False
+flaghassponsors: True
 flagcfp: True
 flagticketsonsale: True
 flagsoldout: False
