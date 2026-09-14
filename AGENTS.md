@@ -82,6 +82,7 @@ Year-specific HTML templates in `docs/_templates/<year>/` (base.html, index.html
 - `filters.py` — Custom Jinja filters (e.g., speaker photo paths)
 - `meetups.py` — `meetup-listing` directive
 - `atom_absolute.py` — Rewrites atom feed URLs to absolute
+- `structured_data.py` — Generates schema.org JSON-LD (CollectionPage, ItemList, BreadcrumbList) for topic pages under `docs/topics/`
 
 ### Styling
 
