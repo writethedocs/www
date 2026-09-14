@@ -130,7 +130,7 @@ flagscheduleincomplete: True
 flaghasshirts: False
 flaglivestreaming: False
 flagvideos: False
-flagpostconf: False
+flagpostconf: True
 flaghasbadgeflair: False
 
 flaghasunconf: False

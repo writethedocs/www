@@ -159,7 +159,7 @@ flaghasunconf: False
 flaghasshirts: False
 flagvideos: False
 flaglivestreaming: False
-flagpostconf: False
+flagpostconf: True
 flagcancelled: True
 
 # Truthy things that don't change
