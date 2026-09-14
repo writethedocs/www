@@ -24,9 +24,13 @@ Each conference has its own sponsorship prospectus:
    * - Portland 2027
      - May 2-4, 2027 in Portland, Oregon
      - Coming soon
+   * - Berlin 2027
+     - Dates to be announced, in Berlin, Germany
+     - Coming soon
 
 **Planning your 2027 budget?**
-Email `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org?subject=Portland%202027%20sponsorship>`__ and we'll send you the Portland 2027 prospectus as soon as it's ready.
+Email `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org?subject=2027%20conference%20sponsorship>`__ and we'll send you the Portland 2027 and Berlin 2027 prospectuses as soon as they're ready.
+In the meantime, the :doc:`Berlin 2026 prospectus </conf/berlin/2026/sponsors/prospectus>` gives a good idea of what to expect from sponsoring our European conference.
 
 Community programs
 ------------------
