@@ -7,6 +7,14 @@ Enjoy!
 
 If you think something is wrongly categorized, please let us know.
 
+.. Per-topic overview pages. Hidden so this page stays the canonical anchor
+   index (newsletters link to /topics/#anchor), while each page below adds an
+   answer-first overview at its own stable URL.
+.. toctree::
+   :hidden:
+
+   /topics/ai-and-llms
+
 .. contents::
    :local:
    :depth: 2
@@ -582,6 +590,9 @@ DITA
 
 AI and LLMs
 ~~~~~~~~~~~
+
+AI and large language models are changing how docs are written, maintained, and read.
+**Full overview:** `AI and LLMs in documentation </topics/ai-and-llms/>`__.
 
 - |:newspaper:| `AI skills as a documentation practice </blog/newsletter-september-2026/#ai-skills-as-a-documentation-practice>`__
 - |:newspaper:| `Exporting Markdown documentation for LLMs </blog/newsletter-july-2026/#exporting-markdown-documentation-for-llms>`__

@@ -18,6 +18,7 @@ Using AI in your workflow
 
 Where AI adds value in drafting and editing — and why you still need to review and evaluate every response.
 
+- |:newspaper:| `AI skills as a documentation practice </blog/newsletter-september-2026/#ai-skills-as-a-documentation-practice>`__ (September 2026)
 - |:newspaper:| `How documentarians use AI (or LLMs) </blog/newsletter-july-2025/#how-documentarians-use-ai-or-llms>`__ (July 2025)
 - |:newspaper:| `Using AI to prove AI shouldn't replace you </blog/newsletter-october-2025/#using-ai-to-prove-ai-shouldnt-replace-you>`__ (October 2025)
 - |:newspaper:| `Accelerating documentation creation with AI </blog/newsletter-april-2024/#accelerating-documentation-creation-with-ai>`__ (April 2024)
