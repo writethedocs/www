@@ -14,6 +14,16 @@ documents. Several tools work best with our favorite descriptive languages:
 * :ref:`apiary-overview`
 * Aglio
 * :doc:`Sphinx </guide/tools/sphinx>`
+* :ref:`sourcey-overview`
+
+.. _sourcey-overview:
+
+Sourcey
+~~~~~~~
+
+`Sourcey <https://sourcey.com/oss>`_ is an open-source generator for projects that need API
+descriptions and language-specific references in one site. It builds static HTML from OpenAPI,
+MCP, Doxygen, godoc, rustdoc, and Markdown, so teams can host the output independently.
 
 .. _apiary-overview:
 
