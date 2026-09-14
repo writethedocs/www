@@ -18,9 +18,6 @@ Each conference has its own sponsorship prospectus:
    * - Conference
      - When and where
      - Price
-   * - :doc:`Berlin 2026 </conf/berlin/2026/sponsors/prospectus>` (hybrid)
-     - September 6-8, 2026 in Berlin, Germany
-     - From **€2,250**
    * - :doc:`Australia 2026 </conf/australia/2026/sponsors/prospectus>`
      - December 3-4, 2026 in Melbourne, Australia
      - From **AU$1,500**
