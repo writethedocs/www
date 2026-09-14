@@ -1,3 +1,5 @@
+import glob
+import os
 import re
 
 import pytz
@@ -39,6 +41,23 @@ TIMEZONE_TRANSLATION_PYTZ = {
     'EDT': 'US/Eastern',
 }
 
+def latest_conference_year(app, shortcode):
+    """
+    Return the most recent year that has a config file for this conference.
+
+    Used to point past-conference pages at the latest edition (e.g. a Portland
+    2025 page links to Portland 2026), so visitors and search engines are led
+    to the current conference instead of an old one.
+    """
+    data_dir = os.path.join(app.srcdir, '_data')
+    years = []
+    for path in glob.glob(os.path.join(data_dir, f'{shortcode}-*-config.yaml')):
+        years.append(int(os.path.basename(path).split('-')[1]))
+    for path in glob.glob(os.path.join(data_dir, f'config-{shortcode}-*.yaml')):
+        years.append(int(os.path.basename(path)[:-5].split('-')[-1]))
+    return max(years) if years else None
+
+
 def load_conference_page_context(app, page):
     """
     Check whether this is a conference page, and if so, have the
@@ -64,6 +83,7 @@ def load_conference_page_context(app, page):
                 return app.config.wtd_cache[cache_key]
             context = load_conference_context_from_yaml(shortcode, year, year_str, page)
             context['year_str'] = year_str
+            context['latest_year'] = latest_conference_year(app, shortcode)
             app.config.wtd_cache[cache_key] = context
             return context
     return {}
