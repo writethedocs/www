@@ -1716,6 +1716,38 @@ body .page-content {
     .seg-5 { background-color: rgba($main-color, 0.25); }
 }
 
+// Activations page: contents list as a compact two-column index
+body .page-content .activations-toc {
+    padding: 18px 22px;
+    margin: 1.5em 0 2em;
+    background-color: #fafaf8;
+    border-left: 4px solid $main-color;
+    border-radius: 4px;
+
+    > p.topic-title {
+        margin: 0 0 10px;
+        font-family: $secondary-font-family;
+        font-size: 1.1em;
+        color: $font-black;
+    }
+    ul {
+        columns: 2;
+        column-gap: 32px;
+        padding: 0;
+        margin: 0;
+        list-style: none;
+    }
+    li {
+        break-inside: avoid;
+        padding: 3px 0;
+    }
+    @media (max-width: 600px) {
+        ul {
+            columns: 1;
+        }
+    }
+}
+
 // Call-to-action buttons inside page content (prospectus, grants, writing day)
 body .page-content .announcement {
     text-align: center;

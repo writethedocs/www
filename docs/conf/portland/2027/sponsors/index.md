@@ -38,7 +38,7 @@ Thanks to these folks for supporting the community.
 
 {% if sponsors_in_kind|trim %}
 
-## In Kind Sponsors
+## In kind sponsors
 
 Write the Docs is also helped out by companies that give their employees time to work on the conference.
 
@@ -48,7 +48,7 @@ Write the Docs is also helped out by companies that give their employees time to
 
 {% if media_sponsors|trim %}
 
-## Media Sponsors
+## Media sponsors
 
 These amazing media professionals have teamed up with us to capture the Write the Docs experience.
 

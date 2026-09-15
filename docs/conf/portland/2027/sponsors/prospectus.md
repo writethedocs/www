@@ -4,7 +4,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 banner: _static/conf/images/headers/2026/prospectus.jpg
 ---
 
-# Sponsorship Prospectus
+# Sponsorship prospectus
 
 ## Introduction
 
@@ -24,11 +24,9 @@ If you're an existing sponsor looking for next steps, check out our [Sponsorship
 
 {% endif %}
 
-## Sponsorship Packages
+## Sponsorship packages
 
 All packages can be customized, so let us know what you need!
-
-### Compare packages
 
 <table class="benefit-matrix">
 <thead>
@@ -239,7 +237,7 @@ The **Supporter** package gives you visibility on the conference website and in 
 
 </details>
 
-## Other Sponsorship Opportunities
+## Other sponsorship opportunities
 
 The following add-ons increase your visibility at the event. Lightning Talks sponsorship requires a Supporter package or higher; Opportunity Grants can be sponsored independently.
 
@@ -293,7 +291,7 @@ Each conference we sell:
 {% for share in about.ticket_mix %}  <li><i class="seg-{{ loop.index }}"></i>{{ share.label }} <b>{{ share.percent }}%</b></li>
 {% endfor %}</ul>
 
-## Why Sponsor
+## Why sponsor
 
 By supporting a Write the Docs event, your company will gain visibility and credibility with front-line documentarians, and valuable insights that will help you get the most out of your own documentation efforts. If you're hiring for docs positions, Write the Docs is also an excellent opportunity to meet top-notch talent.
 
