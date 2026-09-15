@@ -71,7 +71,7 @@ All build commands run from the `docs/` directory using `make` (not raw `sphinx-
 - **Clean build:** `cd docs && make clean && uv run make html`
 - **Compile SCSS:** `sass --style=compressed --no-source-map docs/_static/conf/scss/main-YYYY.scss docs/_static/conf/css/main-YYYY.min.css`
 
-Python 3.12 is required. Dependencies: `uv sync`
+Python 3.12 is required. Dependencies: `uv sync` (add `--group scripts` for the helper scripts in `docs/_scripts/`)
 
 ## CI Checks (GitHub Actions)
 

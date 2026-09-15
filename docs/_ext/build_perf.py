@@ -28,29 +28,42 @@ whole module and the build still works, only slower.
 import os
 
 from docutils import nodes
+from sphinx import addnodes
 from sphinx.environment.adapters import toctree as toctree_adapter
 
 # --- 1. toctree cache ---------------------------------------------------------
 
 _original_entries_from_toctree = toctree_adapter._entries_from_toctree
-_toctree_entries_cache = {}
+_original_toctree_add_classes = toctree_adapter._toctree_add_classes
+
+# A docname that no reference can point at, used to add only the depth
+# classes when a tree is first cached.
+_NO_DOCNAME = object()
 
 
-def _reset_toctree_marks(node):
-    """
-    Undo the per-page changes Sphinx makes while resolving a toctree.
+class _CachedToctree:
+    """A resolved toctree, shared by every page that renders it."""
 
-    ``_toctree_add_classes`` appends ``toctree-l<n>`` and ``current`` classes
-    and sets ``iscurrent`` in place, so the cached tree has to be cleaned
-    before it is reused for the next page.
-    """
-    for subnode in node.findall(nodes.Element):
-        classes = subnode['classes']
-        if classes:
-            subnode['classes'] = [
-                c for c in classes if c != 'current' and not c.startswith('toctree-l')
-            ]
-        subnode.attributes.pop('iscurrent', None)
+    __slots__ = ('entry', 'refs_by_docname', 'marked')
+
+    def __init__(self, entry):
+        self.entry = entry
+        # Every reference in the tree, by the document it points at, so the
+        # "current" markers for a page can be placed without walking the tree.
+        self.refs_by_docname = {}
+        for ref in entry.findall(nodes.reference):
+            self.refs_by_docname.setdefault(ref['refuri'], []).append(ref)
+        # Nodes that carry a "current" class for the page rendered last.
+        self.marked = []
+
+    def unmark(self):
+        for node in self.marked:
+            node['classes'].remove('current')
+        self.marked.clear()
+
+
+_toctree_cache = {}          # cache key -> _CachedToctree
+_cached_entries = {}         # id(entry node) -> _CachedToctree
 
 
 def _cached_entries_from_toctree(
@@ -90,21 +103,56 @@ def _cached_entries_from_toctree(
             toctree_ancestors, included, excluded, toctreenode, parents, subtree,
         )
 
-    entries = _toctree_entries_cache.get(key)
-    if entries is None:
-        entries = _original_entries_from_toctree(
-            env, prune, titles_only, collapse, includehidden, tags,
-            toctree_ancestors, included, excluded, toctreenode, parents, subtree,
-        )
-        _toctree_entries_cache[key] = entries
-    else:
-        for entry in entries:
-            _reset_toctree_marks(entry)
+    cached = _toctree_cache.get(key)
+    if cached is not None:
+        cached.unmark()
+        return [cached.entry]
+
+    entries = _original_entries_from_toctree(
+        env, prune, titles_only, collapse, includehidden, tags,
+        toctree_ancestors, included, excluded, toctreenode, parents, subtree,
+    )
+    if len(entries) != 1:
+        return entries
+    # Sphinx adds the ``toctree-l<n>`` depth classes on every page. They never
+    # change, so add them once here; ``_mark_current`` then only has to add
+    # the page-specific ``current`` markers.
+    root = addnodes.compact_paragraph('', '', *entries)
+    _original_toctree_add_classes(root, 1, _NO_DOCNAME)
+    cached = _toctree_cache[key] = _CachedToctree(entries[0])
+    _cached_entries[id(cached.entry)] = cached
     return entries
 
 
+def _mark_current(node, depth, docname):
+    """
+    Drop-in replacement for ``sphinx.environment.adapters.toctree._toctree_add_classes``.
+
+    For a cached tree, add the ``current`` class to the branch of every
+    reference to *docname*, exactly as Sphinx does, but by lookup instead of
+    a walk over the whole tree. Sphinx also flags the branch with
+    ``iscurrent``; that only matters for ``collapse=True``, which never uses
+    the cache. Anything else falls through to Sphinx.
+    """
+    cached = next(
+        (_cached_entries[id(child)] for child in node.children if id(child) in _cached_entries),
+        None,
+    )
+    if cached is None:
+        return _original_toctree_add_classes(node, depth, docname)
+    for ref in cached.refs_by_docname.get(docname, ()):
+        if ref['anchorname']:
+            continue
+        branch = ref
+        while branch:
+            branch['classes'].append('current')
+            cached.marked.append(branch)
+            branch = branch.parent
+
+
 def _clear_toctree_cache(app):
-    _toctree_entries_cache.clear()
+    _toctree_cache.clear()
+    _cached_entries.clear()
 
 
 # --- 2. doctree slimming ------------------------------------------------------
@@ -200,6 +248,7 @@ def setup(app):
     _main_pid = os.getpid()
 
     toctree_adapter._entries_from_toctree = _cached_entries_from_toctree
+    toctree_adapter._toctree_add_classes = _mark_current
     app.connect('builder-inited', _clear_toctree_cache)
 
     # Priority 100 so this runs before ablog's doctree-read handler copies post

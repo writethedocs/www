@@ -1649,10 +1649,8 @@ version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
     { name = "ablog" },
-    { name = "csvkit" },
     { name = "lxml" },
     { name = "markdown" },
-    { name = "matplotlib" },
     { name = "myst-parser" },
     { name = "pystemmer" },
     { name = "pytz" },
@@ -1664,19 +1662,23 @@ dependencies = [
     { name = "sphinxcontrib-datatemplates" },
     { name = "sphinxemoji" },
     { name = "sphinxext-opengraph" },
+    { name = "yamale" },
+]
+
+[package.dev-dependencies]
+scripts = [
+    { name = "csvkit" },
+    { name = "matplotlib" },
     { name = "urllib3" },
     { name = "werkzeug" },
-    { name = "yamale" },
     { name = "yamllint" },
 ]
 
 [package.metadata]
 requires-dist = [
     { name = "ablog" },
-    { name = "csvkit" },
     { name = "lxml" },
     { name = "markdown" },
-    { name = "matplotlib" },
     { name = "myst-parser" },
     { name = "pystemmer", specifier = ">=3.0.0" },
     { name = "pytz" },
@@ -1688,9 +1690,15 @@ requires-dist = [
     { name = "sphinxcontrib-datatemplates" },
     { name = "sphinxemoji" },
     { name = "sphinxext-opengraph" },
+    { name = "yamale" },
+]
+
+[package.metadata.requires-dev]
+scripts = [
+    { name = "csvkit" },
+    { name = "matplotlib" },
     { name = "urllib3" },
     { name = "werkzeug", specifier = ">=2" },
-    { name = "yamale" },
     { name = "yamllint" },
 ]
 
