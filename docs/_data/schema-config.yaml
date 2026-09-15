@@ -211,6 +211,7 @@ grants-details:
   url: str(required=True)
   ends: str(required=True)
   notification: str(required=True)
+  total: str(required=False)
 
 shirts-details:
   url: str(required=True)
@@ -226,6 +227,7 @@ writing_day-details:
   git_signup_url: str(required=False)
   date: str(required=True)
   project_deadline: str(required=False)
+  sponsor: include('sponsor-detail', required=False)
 
 hike-details:
   date: str(required=True)
@@ -233,6 +235,14 @@ hike-details:
 
 lightning_talks-details:
   signup_url: str(required=True)
+  sponsors: list(include('day-sponsor'), required=False)
+
+# A sponsor of one day of a conference event, such as Lightning Talks.
+day-sponsor:
+  day: str()
+  name: str()
+  link: str()
+  brand: str()
 
 qa-details:
   event_id: str(required=True)

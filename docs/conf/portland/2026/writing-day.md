@@ -51,13 +51,15 @@ Writing Day is an all-day event designed for you to join in throughout the day. 
 
 Exact times will be posted on our [schedule page](/conf/{{shortcode}}/{{year}}/schedule/).
 
+{% if writing_day.sponsor %}
 ### Sponsored by
 
 <p style="text-align: center; margin-top: 1em;">
-<a href="https://www.stainless.com/?utm_source=write_the_docs&utm_medium=conference&utm_campaign=write_the_docs_2026" style="border-bottom: none;"><img src="/_static/img/sponsors/stainless.png" alt="Stainless" style="max-width: 250px;"></a>
+<a href="{{ writing_day.sponsor.link }}" style="border-bottom: none;"><img src="{{ writing_day.sponsor.name|sponsor_photo }}" alt="{{ writing_day.sponsor.brand }}" style="max-width: 250px;"></a>
 </p>
 
-*Writing Day is sponsored by [Stainless](https://www.stainless.com/?utm_source=write_the_docs&utm_medium=conference&utm_campaign=write_the_docs_2026).*
+*Writing Day is sponsored by [{{ writing_day.sponsor.brand }}]({{ writing_day.sponsor.link }}).*
+{% endif %}
 
 ## How to Prepare
 
