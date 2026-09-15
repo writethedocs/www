@@ -86,6 +86,8 @@ Keystone can be customized to fit your goals. Booth sponsors can add activations
 
 The **Patron** package is great for a larger company to get in front of our attendees. It gives you a dedicated booth for the entire length of the conference.
 
+Patron sponsors can also add [activations](/conf/{{shortcode}}/{{year}}/sponsors/activations/) such as a sponsored headshot booth, an attendee lounge, or catering at a social event.
+
 #### Benefits
 
 - {{sponsorship.patron.tickets}} tickets, with additional available to purchase at a discounted rate of {{sponsorship.extra_ticket.price}}/ticket.
