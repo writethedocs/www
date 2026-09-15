@@ -20,7 +20,13 @@ Write the Docs {{ city }} is a **three day conference** held on {{ date.short }}
 
 {% if flagrunofshow %}
 
-If you're an existing sponsor looking for next steps, check out our [Sponsorship Information page](/conf/{{shortcode}}/{{year}}/sponsors/information/).
+<div class="announcement" style="background-color:white;">
+    <div class="uk-container">
+    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="/conf/{{shortcode}}/{{year}}/sponsors/information/">Sponsor information</a>
+    </div>
+</div>
+
+If you're an existing sponsor looking for next steps, check out our Sponsor information page.
 
 {% endif %}
 
@@ -303,7 +309,9 @@ We work hard to keep ticket prices affordable for a broad range of attendees. Yo
 
 ## Inquiries
 
-For more information on getting the most out of your sponsorship, see our [Sponsorship Information page](/conf/{{shortcode}}/{{year}}/sponsors/information/).
+{% if flagrunofshow %}
+For more information on getting the most out of your sponsorship, see our [Sponsor information page](/conf/{{shortcode}}/{{year}}/sponsors/information/).
+{% endif %}
 
 Please direct all inquiries to our sponsorship team at <sponsorship@writethedocs.org>.
 
