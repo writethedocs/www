@@ -117,11 +117,11 @@ The **Publisher** package is for companies that want to engage with attendees wi
 - Name included in all conference emails to attendees.
 - Display promotional "Swag" items on the conference swag table (provided by sponsor).
 
-### Second Draft
+### Supporter
 
 **{{sponsorship.second_draft.price}}**
 
-The **Second Draft** package gives you visibility on the conference website and in communications. It's a great package for a startup or small company.
+The **Supporter** package gives you visibility on the conference website and in communications. It's a great package for a startup or small company.
 
 #### Benefits
 
@@ -132,13 +132,13 @@ The **Second Draft** package gives you visibility on the conference website and 
 
 ## Other Sponsorship Opportunities
 
-The following add-ons increase your visibility at the event. Lightning Talks sponsorship requires a Second Draft package or higher; Opportunity Grants can be sponsored independently.
+The following add-ons increase your visibility at the event. Lightning Talks sponsorship requires a Supporter package or higher; Opportunity Grants can be sponsored independently.
 
 ### Lightning Talks
 
 **{{sponsorship.lightning_talks.price}}** - **Limit 2**
 
-Sponsor one day of Lightning Talks, where attendees have 5 minutes to share something they are excited about working on. You will have 60 seconds at the start to introduce your company. Requires a Second Draft package or higher.
+Sponsor one day of Lightning Talks, where attendees have 5 minutes to share something they are excited about working on. You will have 60 seconds at the start to introduce your company. Requires a Supporter package or higher.
 
 #### Benefits
 

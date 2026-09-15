@@ -78,7 +78,7 @@ tickets:
     price: $50
 
 sponsorship:
-  second_draft:
+  second_draft:  # shown as "Supporter" on the site
     price: $3,500
     tickets: 2
   publisher:
@@ -202,7 +202,7 @@ sponsors:
   keystone: []
   patron: []
   publisher: []
-  second: []
+  second: []  # Supporter
   first: []
   in_kind: []
 

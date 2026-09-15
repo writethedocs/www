@@ -104,7 +104,7 @@ If you are sponsoring a Lightning Talk, you will be given 60 seconds to share ab
 
 ### Sponsor sessions
 
-Publisher, Patron, and Keystone sponsors get a reserved Writing Day project or Unconference session, listed on the published schedule under your company's name. Let us know which you'd like when you confirm your sponsorship, and we'll hold the slot. Second Draft sponsors are welcome to submit a Writing Day project or sign up for a walk-up Unconference session on the day, like any attendee.
+Publisher, Patron, and Keystone sponsors get a reserved Writing Day project or Unconference session, listed on the published schedule under your company's name. Let us know which you'd like when you confirm your sponsorship, and we'll hold the slot. Supporter sponsors are welcome to submit a Writing Day project or sign up for a walk-up Unconference session on the day, like any attendee.
 
 ### Participate in Writing Day
 
