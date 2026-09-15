@@ -166,6 +166,25 @@ about:
   mainroom: Main stage
   unconfroom: Martha's, Library & Astoria room (1st floor)
   projector_ratio: "16:9"
+  # Shown as bars on the sponsorship prospectus
+  audience:
+    - label: Technical Writers
+      percent: 60
+    - label: Developers
+      percent: 10
+    - label: Support Staff
+      percent: 10
+    - label: Managers
+      percent: 10
+    - label: Community Contributors, Enthusiasts & Other Folks
+      percent: 10
+  ticket_mix:
+    - label: Corporate tickets
+      percent: 70
+    - label: Independent tickets
+      percent: 20
+    - label: Student tickets
+      percent: 10
 
 cfp:
   url: "https://pretalx.com/wtd-portland-2027/cfp" # Open mid November, approx 12 weeks to submit
