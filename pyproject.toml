@@ -22,6 +22,8 @@ dependencies = [
     "sphinx-notfound-page",
     "sphinxext-opengraph",
     "matplotlib",
+    # C stemmer that snowballstemmer picks up automatically; speeds up building the search index.
+    "pystemmer>=3.0.0",
 ]
 
 [tool.uv]

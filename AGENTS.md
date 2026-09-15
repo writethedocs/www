@@ -110,6 +110,7 @@ Year-specific HTML templates in `docs/_templates/<year>/` (base.html, index.html
 - `filters.py` — Custom Jinja filters (e.g., speaker photo paths)
 - `meetups.py` — `meetup-listing` directive
 - `atom_absolute.py` — Rewrites atom feed URLs to absolute
+- `build_perf.py` — Build-speed fixes: caches the sidebar toctree, keeps the environment out of pickled doctrees, and makes ablog safe for parallel reading
 
 ### Styling
 
