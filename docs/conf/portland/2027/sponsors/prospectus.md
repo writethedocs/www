@@ -130,13 +130,13 @@ The **Second Draft** package gives you visibility on the conference website and 
 
 ## Other Sponsorship Opportunities
 
-The following a la carte offerings are available either independently or combined with one of the previous packages to increase visibility at the event.
+The following add-ons increase your visibility at the event. Lightning Talks sponsorship requires a Second Draft package or higher; Opportunity Grants can be sponsored independently.
 
 ### Lightning Talks
 
 **{{sponsorship.lightning_talks.price}}** - **Limit 2**
 
-Sponsor one day of Lightning Talks, where attendees have 5 minutes to share something they are excited about working on. You will have 60 seconds at the start to introduce your company.
+Sponsor one day of Lightning Talks, where attendees have 5 minutes to share something they are excited about working on. You will have 60 seconds at the start to introduce your company. Requires a Second Draft package or higher.
 
 #### Benefits
 
