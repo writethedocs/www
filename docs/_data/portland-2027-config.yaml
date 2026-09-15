@@ -1,0 +1,351 @@
+name: Portland
+shortcode: portland
+year: 2026
+city: Portland
+local_area: Oregon
+area: North America # European Australian
+area_adj: North American
+tz: Pacific Time  # PT until March, PST after... :/
+email: portland@writethedocs.org
+color: gold
+rgb: 253,185,19
+rgb_contrast: 126,77,0 # if the main color has sufficient contrast against white text, set this to the same value as rgb
+time_format: 12h
+
+buttons:
+  top:
+    # - text: Date and ticket information
+    #   link: /news/welcome
+    #- text: Sponsor the Conference
+    #  link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #   link: /cfp
+    # - text: Buy a Ticket
+    #   link: /tickets
+    #- text: See the Speakers
+    #  link: /speakers
+    # - text: See the Schedule!
+    #   link: /schedule
+    # - text: Attendee Guide
+    #   link: /attendee-guide
+    # - text: Watch the Live Stream
+    #   link: /livestream
+    # - text: Browse the photos
+    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720333452248
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkMzZFXFye22pKbafhhC3Cp
+    - text: Conference recap
+      link: /news/thanks-recap
+  bottom:
+    # - text: Welcome to our conference
+    #   link: /news/welcome
+    # - text: Sponsor us
+    #   link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #   link: /cfp
+    # - text: Buy a Ticket!
+    #   link: /tickets
+    # - text: See the Schedule
+    #   link: /schedule
+    # - text: See the Talks
+    #   link: /speakers
+    # - text: Read the Guide
+    #   link: /attendee-guide
+    # - text: Watch the Live Stream
+    #   link: /livestream
+    # - text: Browse the photos
+    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720333452248
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkMzZFXFye22pKbafhhC3Cp
+    - text: Conference recap
+      link: /news/thanks-recap
+
+tickets:
+  concierge:
+    price: $750
+  corporate:
+    price: $650
+  independent:
+    price: $350
+  student:
+    price: $100
+  virtual_corporate:
+    price: $175
+  virtual_independent:
+    price: $100
+  virtual_student:
+    price: $50
+
+sponsorship:
+  second_draft:
+    price: $3,000
+    tickets: 2
+  publisher:
+    price: $5,000
+    tickets: 4
+  patron:
+    price: $10,000
+    tickets: 6
+  keystone:
+    price: $15,000
+    tickets: 8
+  lightning_talks:
+    price: $3,500
+  opportunity_grants:
+    price: $2,000
+  extra_ticket:
+    price: $500
+  monitor_rental:
+    price: $500
+
+grants:
+  url: "https://docs.google.com/forms/d/e/1FAIpQLSctdb3MT_MvB1x_o8iKKhp_xik8YXDLVCnnDT_tv2k2LPlrJg/viewform?usp=dialog"
+  ends: 'February 5, 2026'
+  notification: 'February 14, 2026'
+
+shirts:
+  url: https://shirt.writethedocs.org/
+  ends: "May 31, 2026"
+
+date: # how do we handle these? human readable would be nice.
+  main: "**May 3-5, 2026**"  # Excludes Saturday hike
+  short: May 3-5, 2026
+  tickets_live: "December 2025"
+  month: May
+
+  # Conference is special for the index to show the combined conference days
+  conference:
+    event: Speaker Talks
+    date: May 4-5
+    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience.
+    icon: conference
+
+  # These are listed in the schedule
+  day_one:
+    event: Hike
+    date: May 2
+    # summary: We encourage you to go on a hike in your own beautiful home town.
+    summary: If you're in town early, join us for the Hike. Portland has excellent access to the woods right in the city.
+    icon: hike
+    dotw: Saturday
+  day_two:
+    event: Writing Day
+    date: May 3
+    summary: Kick off the conference with Writing Day and work with fellow documentarians on a project. Followed by the opening reception.
+    icon: writing
+    dotw: Sunday
+    writing_day_time: 9 AM-5 PM
+    reception_time: 5-7 PM
+  day_three:
+    event: Conference Day 1
+    date: May 4
+    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
+    dotw: Monday
+    talk_time: 9 AM-5 PM
+    unconference_time: 9:45 AM-5 PM
+    social_time: 7-9 PM
+    icon: conference
+  day_four:
+    event: Conference Day 2
+    date: May 5
+    summary: And the conference goes on! More talks and unconference today!
+    dotw: Tuesday
+    talk_time: 9 AM-4 PM
+    unconference_time: 9:45 AM-4 PM
+    icon: conversation
+  total_talk_days: 2
+
+about:
+  attendees: 400
+  social_venue:  Jupiter NEXT, 900 E Burnside St (2nd floor)
+  venue: Revolution Hall
+  venue_address: 1300 SE Stark St, Portland, Oregon 97214
+  venue_map_url: https://maps.app.goo.gl/Z38CyRjmUukr3eSL6
+  photos: TBD
+  mainroom: Main stage
+  unconfroom: Martha's, Library & Astoria room (1st floor)
+  projector_ratio: "16:9"
+
+cfp:
+  url: "https://pretalx.com/wtd-portland-2026/cfp" # Open mid November, approx 12 weeks to submit
+  ends: "January 19, 2026"                         # (Mon) 1 week, to review. It'll take a little longer to announce
+  notification: "February 2, 2026"                 # (Mon) 8 weeks to write and prepare
+  speaker_tickets_by: April 2, 2026               # (Mon) Approx 3 weeks before
+  video_by: "April 9, 2026"                        # Upload date for recorded talks (remote speakers)
+  slides_by: "April 27, 2026"                      # (Mon) 2 weeks before
+  preview: "https://writethedocs-www--2552.org.readthedocs.build/conf/portland/2026/schedule/"
+
+unconf:
+  url: "https://docs.google.com/spreadsheets/d/1eHLcr2C8om67M9qfYJHKg0MRxdwZYijqvsboeIRX3Fc/edit?gid=1637667081#gid=1637667081"
+  date: "All day, Monday, May 4 and Tuesday, May 5"
+
+lightning_talks:
+  signup_url: "https://docs.google.com/forms/d/e/1FAIpQLSdeeMs_x9_6WPIl_ERai_3_5zkEBD7MrMK835igFY07zN156A/viewform"
+
+qa:
+  event_id: a2qmjbDYGqei5UxQQpy554
+
+writing_day:
+  url: "https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform?usp=header"
+  date: Sunday, May 3, 9 AM - 5 PM
+  project_deadline: "April 22, 2026"
+
+volunteer:
+  form_url: "https://docs.google.com/forms/d/e/1FAIpQLSeJvA3uhXDuFsl_kFYWyTyTIyYs6ItHMPspOVq_iSlIloFo6g/viewform?usp=sharing&ouid=109538527958730243648"
+  applications_close: "February 13"
+  schedule_signup_close: "March 27"
+
+hike:
+  date: Saturday, May 2
+  register_url: "https://ti.to/writethedocs/write-the-docs-portland-2026/with/hike-ticket"
+
+sponsors:
+  keystone:
+    - name: promptless
+      link: https://promptless.ai/?ref=writethedocs
+      brand: Promptless
+      text: |
+        <p>
+        Promptless is the AI agent that helps technical writers stay informed, move faster, and have more impact.
+        </p>
+
+        <p>
+        It ensures that you're never left out of the loop. Promptless follows your product and engineering team's work so you don't have to, reviewing every PR, Jira issue, and product question in Slack, and notifying you before docs go stale.
+        </p>
+
+        <p>
+        It adapts to your workflows, rather than forcing you to change them. Keep your existing docs hosting provider, framework, style guide, or Vale rules. Promptless auto-detects it all, with no migrations needed.
+        </p>
+
+        <p>
+        It drafts well-researched content for your review. Promptless includes citations for every code snippet or workflow that it documents, and will even browse your product and update your screenshots.
+        </p>
+
+        <p>
+        Join the growing number of writers using Promptless to stay ahead.
+        </p>
+    - name: mintlify
+      link: https://mintlify.com/?utm_source=writethedocs&utm_medium=referral
+      brand: Mintlify
+      text: |
+        <p>
+        Mintlify helps you create beautiful documentation that converts users.
+        </p>
+
+        <p>
+        Whether you're documenting APIs, product guides, or internal wikis, we ensure your content looks modern and is easy-to-use, with no lift on engineering. Mintlify also simplifies your entire editing workflow, from AI-driven writing assistance to Git syncing for better collaboration.
+        </p>
+
+        <p>
+        Over 6,000 leaders, such as Anthropic, X, Fidelity, & Zapier, choose Mintlify to uplevel their documentation.
+        </p>
+    - name: readme
+      link: https://readme.com/?ref=writethedocs
+      brand: ReadMe
+      text: <p>ReadMe transforms static API docs into interactive developer hubs. Help developers make their first call faster, quickly troubleshoot issues along the way, and get insights into API usage to focus your team on the highest-impact improvements.</p>
+    - name: stainless
+      link: https://www.stainless.com/?utm_source=write_the_docs&utm_medium=conference&utm_campaign=write_the_docs_2026
+      brand: Stainless
+      text: |
+        <p>
+        Stainless provides a complete toolkit to build best-in-class interfaces for developers and agents.
+        </p>
+
+        <p>
+        Stainless generates robust and idiomatic SDKs, API and narrative docs, command line tools, MCP servers, skills, and more. Together, these tools provide everything you need to deliver both an incredible developer experience (DX) and a great agent experience (AX) that helps AI agents consistently and successfully integrate against your API.
+        </p>
+
+        <p>
+        Companies like Anthropic, Cloudflare, Google, and OpenAI trust Stainless to power developer and agent interfaces for their most critical products. Stainless SDKs for these customers are used in production by millions of developers every day.
+        </p>
+
+        <p>
+        Drawing on decades of experience building APIs at Stripe, Heroku, Twilio, OpenAI, Anthropic, and more, Stainless has condensed those hard-won lessons and best practices into powerful, flexible API development tools. Instead of hiring a full engineering team to build and maintain robust and polished developer and agent interfaces, your team can focus on the business logic that makes your API unique.
+        </p>
+
+  patron:
+    - name: gitbook
+      link: https://www.gitbook.com/?ref=writethedocs
+      brand: GitBook
+      text: |
+        <p>
+        GitBook is the AI-native documentation platform for teams who treat their docs as a product. It's built for the full documentation experience — from keeping content accurate and up-to-date, to making sure users always find what they need.
+        </p>
+
+        <p>
+        AI handles the heavy lifting behind the scenes, so your team spends less time maintaining docs and more time building. And when users land on your documentation, they get direct answers — not a search bar and a list of links to dig through.
+        </p>
+
+        <p>
+        The result is published documentation that stays current, adapts to your audience, and reflects the quality of the product it represents. For technical teams who know that great docs drive adoption, GitBook is the platform built to match that standard.
+        </p>
+    - name: fern
+      link: https://buildwithfern.com/?ref=writethedocs
+      brand: Fern
+      width: 350px
+    - name: mongodb-new
+      link: https://www.mongodb.com/?ref=writethedocs
+      brand: MongoDB
+  publisher:
+    - name: expert-support
+      link: https://expertsupport.com/?ref=writethedocs
+      brand: Expert Support
+    - name: knowledgeowl
+      link: https://www.knowledgeowl.com?ref=writethedocs
+      brand: KnowledgeOwl
+  second:
+    - name: helpdocs
+      link: https://www.helpdocs.io/?utm_source=writethedocs&utm_medium=sponsor&utm_campaign=wtdp26
+      brand: HelpDocs
+    - name: google
+      link: https://opensource.google/?ref=writethedocs
+      brand: Google
+    - name: github-new
+      link: https://github.com/?ref=writethedocs
+      brand: GitHub
+    - name: readthedocs
+      link: https://about.readthedocs.com/?ref=writethedocs
+      brand: Read the Docs
+  first:
+  in_kind:
+
+
+photos:
+  default:
+    - _static/conf/images/headers/2026/unconference.jpg
+    - _static/conf/images/headers/2026/writing-day.jpg
+    - _static/conf/images/headers/2026/tickets.jpg
+  index:
+    - _static/conf/images/pics/writing-day.jpg
+    - _static/conf/images/pics/reg.jpg
+
+
+# Things that change over time, listed in order of change
+flaglanding: False
+flaghassponsors: True
+flagcfp: False
+flagticketsonsale: True
+flagsoldout: False
+flagscheduleincomplete: False
+flagspeakersannounced: True
+flagrunofshow: True
+flaghasschedule: True
+flaghasshirts: True
+flaglivestreaming: True
+flagvideos: False
+flagpostconf: True
+
+# Truthy things that don't change
+flaghasunconf: True
+flaghashike: True
+flaghasfood: True
+flaghaswritingday: True
+flaghaslightningtalks: True
+flaghassponsorexpo: True
+flaghasboat: False
+
+# Pages to be linked in January 2026
+flaghasvisiting: True
+flaghasteam: True
+flaghasattendeeguide: True
+flaghasbadgeflair: False

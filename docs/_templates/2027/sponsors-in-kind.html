@@ -1,0 +1,15 @@
+{% if sponsors.in_kind %}
+<div class="sponsors">
+
+  <div class="community-sponsors">
+    {% for sponsor in sponsors.in_kind %}
+    <div class="uk-width-1-2@s">
+      <a href="{{ sponsor.link }}">
+        <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("150px", true) }};" />
+      </a>
+    </div>
+    {% endfor %}
+  </div><!-- end community sponsors section -->
+</div><!-- end sponsors section -->
+{% endif %}
+
