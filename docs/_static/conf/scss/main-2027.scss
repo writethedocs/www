@@ -1466,6 +1466,124 @@ body .page-banner {
     }
 }
 
+// Sponsorship benefit matrix (prospectus)
+body .page-content table.benefit-matrix {
+    width: 100%;
+    margin: 1em 0 1.5em;
+    border-collapse: separate;
+    border-spacing: 0;
+    table-layout: fixed;
+    font-size: 0.95em;
+    border-radius: 6px;
+    box-shadow: 0 0 0 1px #e4e5e6;
+
+    th, td {
+        padding: 10px 12px;
+        vertical-align: middle;
+        text-align: center;
+        border-bottom: 1px solid #ececea;
+        line-height: 1.35;
+        color: $copy-color;
+    }
+    tbody:last-child tr:last-child th, tbody:last-child tr:last-child td {
+        border-bottom: none;
+    }
+    small {
+        display: block;
+        font-size: 0.85em;
+        font-weight: $semi-bold;
+        color: #7b868c;
+        margin-top: 2px;
+    }
+    a, a:link, a:visited {
+        border-bottom: none;
+    }
+
+    // Package header: name and price in the conference colour
+    thead th {
+        width: 16%;
+        background-color: $main-color;
+        color: $white;
+        font-family: $secondary-font-family;
+        font-weight: $semi-bold;
+        font-size: 1.1em;
+        padding-top: 14px;
+        padding-bottom: 14px;
+    }
+    thead th:first-child {
+        width: 36%;
+        border-top-left-radius: 6px;
+    }
+    thead th:last-child {
+        border-top-right-radius: 6px;
+    }
+    thead th a, thead th a:link, thead th a:visited {
+        color: $white;
+        font-weight: $bold;
+    }
+    thead th a:hover {
+        border-bottom: 1px solid $white;
+    }
+    thead th small {
+        font-family: $base-body-font-family;
+        color: $white;
+        opacity: 0.9;
+    }
+
+    // Group label rows
+    tr.group th {
+        text-align: left;
+        font-size: 0.8em;
+        font-weight: $bold;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: $main-color;
+        background-color: #fdf3f1;
+        padding-top: 8px;
+        padding-bottom: 8px;
+    }
+
+    // Benefit column
+    tbody th[scope="row"] {
+        text-align: left;
+        font-weight: $bold;
+        background-color: #fafaf8;
+    }
+    .yes {
+        color: $main-color;
+        font-size: 1.3em;
+        font-weight: $bold;
+    }
+    .no {
+        color: #c8ccce;
+    }
+
+    // Below tablet width, scroll the table sideways instead of squeezing the columns.
+    @media (max-width: 768px) {
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        table-layout: auto;
+
+        th, td {
+            min-width: 7.5em;
+        }
+        thead th:first-child, tbody th[scope="row"] {
+            min-width: 10em;
+            position: sticky;
+            left: 0;
+            z-index: 1;
+            box-shadow: 1px 0 0 #ececea;
+        }
+        thead th:first-child {
+            background-color: $main-color;
+        }
+        tr.group th {
+            position: static;
+        }
+    }
+}
+
 // MyST Markdown tables
 table {
     .text-left {

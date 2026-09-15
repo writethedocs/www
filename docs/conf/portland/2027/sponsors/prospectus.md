@@ -58,6 +58,137 @@ We work hard to keep ticket prices affordable for a broad range of attendees. Yo
 
 All packages can be customized, so let us know what you need!
 
+### Compare packages
+
+<table class="benefit-matrix">
+<thead>
+  <tr>
+    <th></th>
+    <th scope="col"><a href="#keystone">Keystone</a><small>{{sponsorship.keystone.price}}</small></th>
+    <th scope="col"><a href="#patron">Patron</a><small>{{sponsorship.patron.price}}</small></th>
+    <th scope="col"><a href="#publisher">Publisher</a><small>{{sponsorship.publisher.price}}</small></th>
+    <th scope="col"><a href="#supporter">Supporter</a><small>{{sponsorship.second_draft.price}}</small></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th scope="row">Conference tickets</th>
+    <td>{{sponsorship.keystone.tickets}}</td>
+    <td>{{sponsorship.patron.tickets}}</td>
+    <td>{{sponsorship.publisher.tickets}}</td>
+    <td>{{sponsorship.second_draft.tickets}}</td>
+  </tr>
+  <tr>
+    <th scope="row">Listing on the conference website</th>
+    <td>250 words</td>
+    <td>150 words</td>
+    <td>100 words</td>
+    <td>Logo</td>
+  </tr>
+  <tr>
+    <th scope="row">Name in conference emails</th>
+    <td><span class="yes">✓</span></td>
+    <td><span class="yes">✓</span></td>
+    <td><span class="yes">✓</span></td>
+    <td><span class="yes">✓</span></td>
+  </tr>
+  <tr>
+    <th scope="row">Swag on the conference swag table</th>
+    <td><span class="yes">✓</span></td>
+    <td><span class="yes">✓</span></td>
+    <td><span class="yes">✓</span></td>
+    <td><span class="yes">✓</span></td>
+  </tr>
+  <tr>
+    <th scope="row">Main stage introduction</th>
+    <td>60 seconds</td>
+    <td>30 seconds</td>
+    <td>Thank-you slide</td>
+    <td><span class="no">–</span></td>
+  </tr>
+  <tr>
+    <th scope="row">Reserved Unconference session or Writing Day project</th>
+    <td><span class="yes">✓</span></td>
+    <td><span class="yes">✓</span></td>
+    <td><span class="yes">✓</span></td>
+    <td><span class="no">–</span></td>
+  </tr>
+  <tr>
+    <th scope="row">Logo on intermission slides and talk videos</th>
+    <td><span class="yes">✓</span></td>
+    <td><span class="yes">✓</span></td>
+    <td><span class="yes">✓</span></td>
+    <td><span class="no">–</span></td>
+  </tr>
+  <tr>
+    <th scope="row">Sponsor booth, both conference days</th>
+    <td>Premium booth</td>
+    <td>Booth</td>
+    <td><span class="no">–</span></td>
+    <td><span class="no">–</span></td>
+  </tr>
+  <tr>
+    <th scope="row">Dedicated social media post</th>
+    <td><span class="yes">✓</span></td>
+    <td><span class="yes">✓</span></td>
+    <td><span class="no">–</span></td>
+    <td><span class="no">–</span></td>
+  </tr>
+  <tr>
+    <th scope="row">Sponsorship of a primary conference event</th>
+    <td><span class="yes">✓</span></td>
+    <td><span class="no">–</span></td>
+    <td><span class="no">–</span></td>
+    <td><span class="no">–</span></td>
+  </tr>
+  <tr>
+    <th scope="row">Large logo on print, slides, and videos</th>
+    <td><span class="yes">✓</span></td>
+    <td><span class="no">–</span></td>
+    <td><span class="no">–</span></td>
+    <td><span class="no">–</span></td>
+  </tr>
+  <tr>
+    <th scope="row">Email promotion to our conference list</th>
+    <td><span class="yes">✓</span></td>
+    <td><span class="no">–</span></td>
+    <td><span class="no">–</span></td>
+    <td><span class="no">–</span></td>
+  </tr>
+</tbody>
+<tbody>
+  <tr class="group"><th scope="rowgroup" colspan="5">Add-ons</th></tr>
+  <tr>
+    <th scope="row">Additional tickets<small>{{sponsorship.extra_ticket.price}} each</small></th>
+    <td><span class="yes">✓</span></td>
+    <td><span class="yes">✓</span></td>
+    <td><span class="yes">✓</span></td>
+    <td><span class="yes">✓</span></td>
+  </tr>
+  <tr>
+    <th scope="row"><a href="#lightning-talks">Lightning Talks sponsorship</a><small>{{sponsorship.lightning_talks.price}}, limit 2</small></th>
+    <td><span class="yes">✓</span></td>
+    <td><span class="yes">✓</span></td>
+    <td><span class="yes">✓</span></td>
+    <td><span class="yes">✓</span></td>
+  </tr>
+  <tr>
+    <th scope="row"><a href="#opportunity-grants">Opportunity Grants sponsorship</a><small>{{sponsorship.opportunity_grants.price}}, limit 2</small></th>
+    <td><span class="yes">✓</span></td>
+    <td><span class="yes">✓</span></td>
+    <td><span class="yes">✓</span></td>
+    <td><span class="yes">✓</span></td>
+  </tr>
+  <tr>
+    <th scope="row"><a href="/conf/{{shortcode}}/{{year}}/sponsors/activations/">Activations</a><small>Priced individually</small></th>
+    <td><span class="yes">✓</span></td>
+    <td><span class="yes">✓</span></td>
+    <td><span class="no">–</span></td>
+    <td><span class="no">–</span></td>
+  </tr>
+</tbody>
+</table>
+
 ### Keystone
 
 **{{sponsorship.keystone.price}}** - **Limit 3**
