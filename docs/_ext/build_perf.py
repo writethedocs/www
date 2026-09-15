@@ -23,10 +23,17 @@ whole module and the build still works, only slower.
    to read every document serially. All it keeps on the environment is
    per-document post info, so we supply the merge, keep the environment each
    reader sends back small, and flip the flag.
+
+4. ``datatemplate`` directives parse YAML with libyaml.
+   sphinxcontrib-datatemplates calls ``yaml.safe_load``, which uses PyYAML's
+   pure Python parser even when the C one is installed. Pointing PyYAML's
+   ``SafeLoader`` at the C implementation makes every ``safe_load`` in the
+   build about ten times faster.
 """
 
 import os
 
+import yaml
 from docutils import nodes
 from sphinx import addnodes
 from sphinx.environment.adapters import toctree as toctree_adapter
@@ -246,6 +253,9 @@ def _register_ablog_posts(app, env):
 def setup(app):
     global _main_pid
     _main_pid = os.getpid()
+
+    if getattr(yaml, '__with_libyaml__', False):
+        yaml.SafeLoader = yaml.CSafeLoader
 
     toctree_adapter._entries_from_toctree = _cached_entries_from_toctree
     toctree_adapter._toctree_add_classes = _mark_current
