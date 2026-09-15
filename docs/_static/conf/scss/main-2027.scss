@@ -44,9 +44,11 @@ body h1 {
 }
 
 body .page-content ul {
-    padding-bottom: 1em;
+    // Same bottom margin as paragraphs, so a list is followed by the paragraph gap
+    // whether text or a heading comes next.
+    padding-bottom: 0;
     padding-left: 1em;
-    margin: 0;
+    margin: 0 0 20px;
 
     li {
         color: $copy-color;

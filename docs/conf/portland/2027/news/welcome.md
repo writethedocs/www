@@ -7,7 +7,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 :tags: {{shortcode}}-{{year}}
 ```
 
-# Write the Docs {{ city }} {{ year }}: {{ date.short }}
+# Announcing Write the Docs {{ city }} {{ year }}
 
 Write the Docs {{ city }} {{ year }} will be on **{{ date.short }}** at {{ about.venue }}.
 
