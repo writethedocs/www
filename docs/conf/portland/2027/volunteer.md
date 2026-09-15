@@ -5,25 +5,28 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 # Volunteer Information
 
-Our volunteer sign up form is open. We are looking for volunteers to provide support with a variety of conference roles - registration, Writing Day, Unconference, float, catering, load out, and more.
+Our volunteer sign up form {% if volunteer.form_url %}is open{% else %}will open soon{% endif %}.
+We are looking for volunteers to provide support with a variety of conference roles - registration, Writing Day, Unconference, float, catering, load out, and more.
 
-Completing this form signs you up to volunteer. We will close the form once volunteer capacity is reached. Another form will be sent out once the speaker schedule is released mid-February.
+Completing this form signs you up to volunteer. We will close the form once volunteer capacity is reached. Another form will be sent out once the speaker schedule is released.
 
 Each individual must volunteer for two or more 3-4 hour shifts and receives a **free ticket** to the conference.
 
 ## Apply to Volunteer
 
+{% if volunteer.form_url %}
 <div class="announcement" style="background-color:white;">
     <div class="uk-container">
     <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ volunteer.form_url }}">Sign up to be a volunteer</a>
     </div>
 </div>
+{% endif %}
 
 ![Volunteer](/_static/conf/images/pics/2025/volunteer.jpg)
 
 **Timeline:**
 
-- **Now-{{ volunteer.applications_close }}**: Volunteer applications open
+- **{% if volunteer.form_url %}Now{% else %}Soon{% endif %}-{{ volunteer.applications_close }}**: Volunteer applications open
 - **{{ volunteer.applications_close }}-{{ volunteer.schedule_signup_close }}**: Volunteer schedule sign up open
 - **End of March**: Volunteer schedule emailed
   
@@ -57,6 +60,10 @@ Contact katie@writethedocs.org with any additional questions.
 
 ## Volunteer Sign Up Form
 
+{% if volunteer.form_url %}
 <iframe src="{{ volunteer.form_url }}?embedded=true" width="100%" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 You can also view [the volunteer form]({{ volunteer.form_url }}) in its own page.
+{% else %}
+The volunteer sign up form is not yet open. Check back closer to the conference.
+{% endif %}

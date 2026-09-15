@@ -11,7 +11,7 @@ Writing Day is modeled after the concept of [code sprints](https://en.wikipedia.
 
 To create more ways for attendees to take part on Sunday, we are expanding Writing Day to include additional, shorter-format options such as workshops and discussions.
 
-## How to Participate in Writing Day in 2026
+## How to Participate in Writing Day in {{year}}
 
 Writing Day is available to in-person attendees only. The [virtual conference](/conf/{{shortcode}}/{{year}}/virtual/) component runs **{{date.conference.date}}**.
 
@@ -25,11 +25,13 @@ Writing Day is available to in-person attendees only. The [virtual conference](/
 
 More details about each activity are below. No additional sign up is required, and the full schedule will be released in the coming months. Ready to submit a Writing Day project? Click the link below.
 
+{% if writing_day.url %}
 <div class="announcement" style="background-color:white;">
     <div class="uk-container">
     <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ writing_day.url }}">Submit your Writing Day project</a>
     </div>
 </div>
+{% endif %}
 
 ## Writing Day Schedule
 
@@ -51,13 +53,15 @@ Writing Day is an all-day event designed for you to join in throughout the day. 
 
 Exact times will be posted on our [schedule page](/conf/{{shortcode}}/{{year}}/schedule/).
 
+{% if writing_day.sponsor %}
 ### Sponsored by
 
 <p style="text-align: center; margin-top: 1em;">
-<a href="https://www.stainless.com/?utm_source=write_the_docs&utm_medium=conference&utm_campaign=write_the_docs_2026" style="border-bottom: none;"><img src="/_static/img/sponsors/stainless.png" alt="Stainless" style="max-width: 250px;"></a>
+<a href="{{ writing_day.sponsor.link }}" style="border-bottom: none;"><img src="{{ writing_day.sponsor.name|sponsor_photo }}" alt="{{ writing_day.sponsor.brand }}" style="max-width: 250px;"></a>
 </p>
 
-*Writing Day is sponsored by [Stainless](https://www.stainless.com/?utm_source=write_the_docs&utm_medium=conference&utm_campaign=write_the_docs_2026).*
+*Writing Day is sponsored by [{{ writing_day.sponsor.brand }}]({{ writing_day.sponsor.link }}).*
+{% endif %}
 
 ## How to Prepare
 
@@ -93,15 +97,17 @@ Leading a project at Writing Day is a wonderful opportunity to engage with docum
 
 **If you submit your project by {{ writing_day.project_deadline }}, we will share your project in a blog post and email with our attendees before the conference.**
 
-[Submit projects]({{ writing_day.url }})
+{% if writing_day.url %}[Submit projects]({{ writing_day.url }}){% else %}Project submissions will open closer to the conference.{% endif %}
 
 Walk-on projects are always welcome. You are still more than welcome to bring a project the day of and announce it during the actual Writing Day.
 
+{% if writing_day.url %}
 <div class="announcement" style="background-color:white;">
     <div class="uk-container">
     <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ writing_day.url }}">Submit your Writing Day project</a>
     </div>
 </div>
+{% endif %}
 
 **Tips to create and lead a new project effectively:**
 
@@ -109,7 +115,7 @@ Walk-on projects are always welcome. You are still more than welcome to bring a 
 - **Pre-label tasks and issues:** Create a specific event label and label documentation tasks and issues. This empowers new contributors to find tasks that interest them.
 - **Create a task filter:** This helps contributors find issues more easily and see which issues have been assigned.
 - **Clear onboarding:** Ensure your README, contribution guidelines, or onboarding instructions are accurate and up to date.
-- **Project experts:** We recommend having 1-2 people leading a project. You are welcome to call for virtual reinforcements from your community. If you need additional support onboarding volunteers, the WTD staff team will share this opportunity with the community. View further information in the [Call for Projects form]({{ writing_day.url }}).
+- **Project experts:** We recommend having 1-2 people leading a project. You are welcome to call for virtual reinforcements from your community. If you need additional support onboarding volunteers, the WTD staff team will share this opportunity with the community.{% if writing_day.url %} View further information in the [Call for Projects form]({{ writing_day.url }}).{% endif %}
 - **Flexibility and understanding:** Reminder that attendees may need additional info to be successful in onboarding to your project.
 - **Submit your Writing Day project before the conference:** Projects submitted by **{{ writing_day.project_deadline }}** are featured in our pre-conference blog post and email. Many attendees have shared that their curiosity for specific projects motivated them to attend. Project submissions open in February/March.
 
@@ -130,118 +136,7 @@ Some projects also request project assistants to help answer questions. Serving 
 
 ## Project List
 
-If you are planning to contribute or are interested in assisting with a project, review the project list before the conference. We're still adding projects as they're submitted, so check back here as the conference draws closer.
-
-### Docs as Tests and Doc Detective: Let's Get Your Docs Tested!
-
-* Project organizer: Manny Silva, he/him
-* Project session: All day
-
-[Docs as Tests](https://www.docsastests.com/) and [Doc Detective](https://doc-detective.com/) are back at Writing Day with new ways to get you started testing easier than ever, like AI test bootstrapping and integrations to help fix your docs.
-
-Does your project or product have a UI? APIs? SDKs? We can help you test them and keep your docs accurate.
-
-Docs as Tests is a strategy for keeping docs up-to-date by treating procedures and code snippets as testable claims of product behavior. You have the docs, so let's get testing!
-
-By validating that documentation contents work as written, you can:
-
-- Prevent broken docs
-- Ensure consistent UX between docs and products   
-- Build user trust
-
-We want every writer to be confident in their docs. Come by our table, and we'll help you set up Docs as Tests with whatever tools (like Doc Detective) or strategies (like unit testing code snippets) are appropriate.
-
-Establish a zero-trust relationship between your docs and product, catching bugs in both as you go.
-
-**Assistant opportunities**: Manny's always happy to have some assistants. If you have docs or code testing experience, or if you just want to come by, learn, and help others figure out how to test their docs, reach out to him directly in Write the Docs Slack @Manny Silva or show up at Writing Day and tell him you'd like to help!
-
-### Can AI Find Your Docs? A Community Audit and Pattern Catalog
-
-* Project organizer: Rakesh Pasupuleti, he/him
-* Project session: All day
-
-AI tools--ChatGPT, Perplexity, Gemini, Copilot--are increasingly the first place developers go when they have a question. Before they ever open a search engine or click into your documentation site, they ask an AI. And that AI may or may not know your docs exist.
-
-Most of us have spent real effort writing good documentation. But very few of us have ever asked: can an AI actually find it, read it, and use it to give accurate answers? That's what this project is about.
-
-I've been building an open documentation auditing tool as a side project--one that checks doc sites across four dimensions: whether AI bots can access the content, whether the site is structured for discoverability, whether the content is consumable by a language model, and whether structured data signals are in place. During Writing Day, I want to point it at as many real documentation sites as possible--including yours.
-
-Here's what we'll do: bring your docs site URL, run an AI readiness audit, and review the results together. What patterns show up? What's easy to fix? What surprises us? You'll walk away with a personalized readiness report for your site, a concrete artifact you can take back to your team.
-
-If you want to go deeper into what happens *after* AI finds your docs--whether the content itself is accurate, fresh, and complete--I'll be covering that in my [Tuesday talk](https://www.writethedocs.org/conf/portland/2026/speakers/#speaker-rakesh-pasupuleti-what-i-learned-building-an-ai-documentation-auditor-and-what-it-found-in-500-p-rakesh-pasupuleti).
-
-**Assistant opportunities**: Rakesh is looking for one or two assistants. You'd help participants run AI readiness audits on their doc sites and write up findings — think of it as a second set of hands at the table. You can help in-person or remotely via Slack. If you're comfortable with docs concepts and want to help people discover what AI can (and can't) see in their documentation, reach out to Rakesh directly in Write the Docs Slack @Rakesh Pasupuleti or show up at Writing Day and tell him you'd like to help!
-
-### Open-source documentation observability: Measure less, learn more
-
-* Project organizer: Mano Toth, he/him
-* Project session: All day
-
-[Do11y](https://github.com/axiomhq/do11y) is an open-source documentation observability solution. Unlike traditional analytics tools, which borrow their data model from marketing funnels and optimize for engagement, Do11y aims to answer the question: Do my docs actually work? Do they get people from confusion to competence as quickly as possible?
-
-Do11y collects less data than most analytics tools. It captures behavioral signals (section visibility, code copies, search opens, tab switches) without cookies, PII, or fingerprinting. What it collects is designed to help you answer specific questions about the effectiveness of your documentation that you couldn't answer with conventional marketing-focused analytics.
-
-Join this project to set up Do11y on your own docs site, create a free Axiom account to store your data, run it for the session, and share what you find: write a useful query, a docs improvement, or a post about what the data revealed.
-
-### Ship Your First (or Next) Open Source Docs PR (Sponsor session)
-
-* Project organizer: Isaiah, he/him
-* Project session: All day
-
-"Want to leave Portland with a real contribution to a big name open-source project? Come work through pre-vetted documentation issues from projects that actually need the help. I've coordinated in advance with maintainers from Mautic, Vitess, and Helm (with more pending) to label ""good first issue"" docs tasks: information architecture, confusing instructions, fuzzy contributor guides, missing pages.
-
-I started contributing to open-source 15 years ago and I now run a 19k star project in my free time, but at the beginning, it felt intimidating contributing to a project where I expected everyone would be far more experienced and knowledgeable than me. So even if it'll be your first OSS PR, you'll have someone there to explain things, answer questions, and unblock you if a repo gets weird.
-
-To get the most out of the session, you should already roughly know what a pull request is, have encountered docs-as-code before. Our table can help with getting a documentation site running locally so you can preview your changes. If you are totally new to GitHub, no fear! Go to a New to Git and GitHub session and then join us after.
-
-Bring a laptop, pick an issue, ship a PR.
-
-### Docs Site Constructive Review (Sponsor session)
-
-* Project organizer: Sarah Dugan, she/her
-* Project session: Morning
-
-Most documentation teams know their docs could be better, but it's hard to know where to start. This is a working session where attendees review their own docs site using a structured worksheet inspired by the [State of Docs report](https://www.stateofdocs.com/2026). Each person works through the same criteria: structure, discoverability, AI-readiness, and how well their docs stay in sync with the product. Everyone leaves with a concrete, prioritized list of quick wins and inspiration from the group.
-
-### Using and documenting Syllago: FOSS to help you manage and share AI agent skills, rules, MCP configurations, and more!
-
-* Project organizer: Holden Hewett, he/him
-* Project session: Morning
-
-[Syllago](https://syllago.dev) is a content manager for AI coding tools. It converts content between providers, bundles rules, skills, agents, hooks, and MCP configs into shareable loadouts and installs them in the correct location for each agent (Cursor, Windsurf, Claude Code, Gemini CLI, Amp, Codex, and more). If you manage your company's AI content, such as skills and rules, Syllago can help you centrally manage and share them across your entire company. This eliminates the headache of manually translating the different formats between AI agents or harnesses.
-  
-This session is a hands-on playground for both the tool and its docs. Bring a laptop and an AI coding agent (or two, or five) you already use, and help stress-test Syllago's CLI and TUI in the wild: migrate your Claude Code setup to Gemini CLI, port a Cursor rule set to Windsurf, try the cross-provider conversion paths, and see where things break. On the docs side, you'll help identify gaps in the documentation site, tackle open issues, and explore a question I'm actively working on--how much of a CLI/TUI's docs can be auto-generated from the real codebase, and what's still worth writing by hand? You'll leave with practical exposure to how different agent runtimes and harnesses actually differ under the hood, experience contributing to an open-source project with AI in the loop, and (hopefully) a cleaner docs site for everyone who shows up after you.
-
-**Assistant opportunities**: Holden's looking for one or two assistants. If you've used an AI coding agent (Cursor, Claude Code, Gemini CLI, Windsurf, Codex, Amp, or similar) and are comfortable helping others get a CLI tool running, answering questions about agent-specific quirks, or reviewing docs as people work through them, Holden would love your help. No Syllago experience needed. If you know your way around any of these agents, you're qualified. Reach out to him directly in Write the Docs Slack at @Holden Hewett or show up at Writing Day and tell him you'd like to help!
-
-### Improve how AI sees your docs: Putting the Agent-Friendly Doc Spec (AFDocs) into practice (Sponsor session)
-
-* Project organizer: Frances Liu, she/her
-* Project session: Morning
-
-AI agents are reading your docs now. They’re providing support for your users, helping your customers build with your product, and even making buying decisions. But agents “browse” your docs very differently from humans—they can’t see your sidebar, don’t execute JavaScript, and truncate content aggressively.
-
-AFDocs (Agent-Friendly Docs) is an open-source standard that measures how accessible your docs are to AI. It gives you a scorecard with improvement recommendations, and there’s even [a leaderboard](https://buildwithfern.com/agent-score). For our own docs, we went from scoring in the 70s to scoring a perfect 100 with a little care and effort, and there are always some quick wins available to make your docs more accessible to agents!
-
-In this session, we’ll hear an intro from Dachary Carey (who maintains AFDocs), run AFDocs on your own docs site to see how your docs score, learn about the different types of issues that AFDocs surfaces (23 checks across 7 categories), and fix them in your own docs and watch your score go up!
-
-### Audit Your Docs Metrics (Sponsor session)
-
-* Project organizer: Sarah Dugan, she/her
-* Project session: Afternoon
-
-The [State of Docs report](https://www.stateofdocs.com/2026) found that most teams think their docs are valuable but struggle to show it. This is a working session around what metrics actually matter and how to start tracking them. Each person maps what they're currently measuring, what tools they're using, and where the gaps are. Everyone leaves with one concrete next step they can act on that week.
-
-### Docs as Code: starting from scratch
-
-* Project organizer: Mike Jang, he/him
-* Project session: Afternoon
-
-Anyone beginning a Docs as Code practice needs a place to start. With over 400+ open source options, figuring out where to begin can be overwhelming. This project is here to help! Join Mike Jang as he shares his experience implementing [docsy.dev](http://docsy.dev/) as the first writer at a startup, complete with "live" demos.
-
-If you're searching for a writing job, this is something you can add to your portfolio. With these skills, you can tell a software founder (or anyone who wants to move to "Docs as Code") that you're the person for the job.
-
-Attendees should have some familiarity with command line tools as described in the [Docsy README file](https://github.com/google/docsy).
+Projects for {{year}} will be listed here as they are submitted.
 
 ### Examples of projects you might see at the conference
 

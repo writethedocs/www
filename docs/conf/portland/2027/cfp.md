@@ -6,7 +6,7 @@ banner: _static/conf/images/headers/2026/lightning-talks.jpg
 
 # Call for Proposals
 
-It's that time of year again: We're now accepting talk proposals for our next **in-person** {{ city }} conference, on {{date.main}}. New this year we're also accepting a few pre-recorded talks by remote speakers.
+It's that time of year again: We're now accepting talk proposals for our next **in-person** {{ city }} conference, on {{date.main}}. Like last year, we're also accepting a few pre-recorded talks by remote speakers.
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you! Read on to learn more about the goals of the conference and what we look for in talk proposals.
 
@@ -83,6 +83,12 @@ We prefer talks backed by experience and experimentation to talks about theory, 
 
 We tend to avoid talks about specific tooling, which often turn into marketing pitches or tutorials. We would much rather hear about process, culture, data, people, or the metaphysical side effects of spending your life thinking about docs.
 
+**AI**
+
+We're excited to have great AI related talks on the programme, but will be capping the number of talks that focus on AI, to leave space for other topics. While AI is a subject in our community and therefore also at our conferences, we get a huge number of AI proposals. The challenge with those proposals is that the review team aims to select talks that can provide lasting value, but that is inherently difficult with rapidly developing technology. Additionally, we feel we have a responsibility to balance talking about the potential of AI with the very real ethical and environmental concerns that come with it.
+
+For these reasons, submitting about an AI topic without showing us that you have considered these concerns might reduce your chances of being accepted. Conversely, demonstrating a community-centred attitude can help your chances if you choose to submit a talk about AI.
+
 **New ideas**
 
 This isn't a hard and fast rule, but we're more likely to include talks on topics that have not been covered before than talks that have been touched on in multiple recent conferences.
@@ -100,7 +106,7 @@ Check out topics that might be related to your talk from previous years:
 - [Portland {{year-1}}](https://www.writethedocs.org/conf/portland/{{year-1}}/speakers/)
 - [Berlin {{year-1}}](https://www.writethedocs.org/conf/berlin/{{year-1}}/speakers/)
 - [Portland {{year-2}}](https://www.writethedocs.org/conf/portland/{{year-2}}/speakers/)
-- [Atlantic {{year-2}}](https://www.writethedocs.org/conf/atlantic/{{year-2}}/speakers/)
+- [Berlin {{year-2}}](https://www.writethedocs.org/conf/berlin/{{year-2}}/speakers/)
 
 ## Writing your proposal
 

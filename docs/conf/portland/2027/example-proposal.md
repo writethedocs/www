@@ -25,10 +25,10 @@ Use this section to show the *selection committee* that you understand and empat
 
 Answer the questions:
 
-- `who_portland_2026`
-- `why_portland_2026`
+- `who_portland_2027`
+- `why_portland_2027`
 
-(who_portland_2026)=
+(who_portland_2027)=
 
 ### Who is this talk for?
 
@@ -42,7 +42,7 @@ Our audience goes beyond the technical writing community. Here’s a typical dem
 - Managers (10%)
 - Community Contributors, Enthusiasts & Other Folks (10%)
 
-(why_portland_2026)=
+(why_portland_2027)=
 
 ### Why is this helpful, applicable, important?
 

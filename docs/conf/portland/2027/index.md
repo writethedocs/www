@@ -1,5 +1,5 @@
 ---
-template: 2026/index.html
+template: 2027/index.html
 banner: _static/conf/images/headers/portland-2026-small-group.jpg
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 og:description: "{{ social_description }}"
@@ -20,7 +20,7 @@ myst:
 :date: "%B %d, %Y"
 :format: "{title} - {date}"
 :list-style: none
-:tags: portland-2026
+:tags: portland-2027
 ```
 
 </div>

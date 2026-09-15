@@ -23,10 +23,13 @@ Our goal is to have a balance between first-time and experienced speakers.
 
 See the [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page for exact times.
 
+{% if lightning_talks.sponsors %}
 ### Sponsors
 
-- Monday Lightning Talks are sponsored by [Expert Support](https://expertsupport.com/?ref=writethedocs)
-- Tuesday Lightning Talks are sponsored by [KnowledgeOwl](https://www.knowledgeowl.com?ref=writethedocs)
+{% for sponsor in lightning_talks.sponsors %}
+- {{ sponsor.day }} Lightning Talks are sponsored by [{{ sponsor.brand }}]({{ sponsor.link }})
+{% endfor %}
+{% endif %}
 
 ### Submit a Talk
 
