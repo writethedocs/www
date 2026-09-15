@@ -189,6 +189,12 @@ All packages can be customized, so let us know what you need!
 </tbody>
 </table>
 
+<div class="announcement" style="background-color:white;">
+    <div class="uk-container">
+    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="mailto:sponsorship@writethedocs.org?subject=Sponsoring%20Write%20the%20Docs%20{{city}}%20{{year}}">Email us about sponsoring</a>
+    </div>
+</div>
+
 ### Keystone
 
 **{{sponsorship.keystone.price}}** - **Limit 3**
@@ -293,6 +299,10 @@ Provide additional funding for our Opportunity Grant program, which supports equ
 
 For more information on getting the most out of your sponsorship, see our [Sponsorship Information page](/conf/{{shortcode}}/{{year}}/sponsors/information/).
 
-Please direct all inquiries to our sponsorship team at:
+Please direct all inquiries to our sponsorship team at <sponsorship@writethedocs.org>.
 
-- <sponsorship@writethedocs.org>
+<div class="announcement" style="background-color:white;">
+    <div class="uk-container">
+    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="mailto:sponsorship@writethedocs.org?subject=Sponsoring%20Write%20the%20Docs%20{{city}}%20{{year}}">Email our sponsorship team</a>
+    </div>
+</div>
