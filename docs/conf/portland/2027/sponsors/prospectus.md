@@ -103,13 +103,12 @@ Patron sponsors can also add [activations](/conf/{{shortcode}}/{{year}}/sponsors
 
 **{{sponsorship.publisher.price}}**
 
-The **Publisher** package is for companies that want to engage with attendees without staffing a booth. You get a place in the program, a hiring presence, and visibility across the conference.
+The **Publisher** package is for companies that want to engage with attendees without staffing a booth. You get a place in the program and visibility across the conference.
 
 #### Benefits
 
 - {{sponsorship.publisher.tickets}} tickets, with additional available to purchase at a discounted rate of {{sponsorship.extra_ticket.price}}/ticket.
 - A **reserved Unconference session or Writing Day project**, listed on the published schedule under your company's name. Lead a discussion, run a workshop, or get attendees contributing to your docs.
-- **Two featured job postings** in our Slack jobs channel, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
 - Logo on the sponsor thank-you slide during the main stage sponsor introductions.
 - Logo included in intermission slides and on talk videos.
 - Logo and description (100 words) on the conference website.
