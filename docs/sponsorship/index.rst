@@ -23,7 +23,7 @@ Each conference has its own sponsorship prospectus:
      - From **AU$1,500**
    * - :doc:`Portland 2027 </conf/portland/2027/sponsors/prospectus>`
      - May 2-4, 2027 in Portland, Oregon
-     - From **$3,000**
+     - From **$3,500**
    * - Berlin 2027
      - Dates to be announced, in Berlin, Germany
      - Coming soon

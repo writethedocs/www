@@ -64,6 +64,8 @@ All packages can be customized, so let us know what you need!
 
 The **Keystone** sponsorship highlights you as the primary sponsor of the conference. You get all in-person benefits, and the best placement for all physical spaces.
 
+Keystone can be customized to fit your goals. Add-ons include a sponsored headshot booth, sponsor-led sessions, and catering opportunities such as the welcome reception or a branded coffee break. See our [sponsorship activations](/conf/{{shortcode}}/{{year}}/sponsors/activations/) page for the full list.
+
 #### Benefits
 
 - {{sponsorship.keystone.tickets}} tickets, with additional available to purchase at a discounted rate of {{sponsorship.extra_ticket.price}}/ticket.
@@ -99,11 +101,14 @@ The **Patron** package is great for a larger company to get in front of our atte
 
 **{{sponsorship.publisher.price}}**
 
-The **Publisher** package is great for a company looking to send some employees and have a presence at the event.
+The **Publisher** package is for companies that want to engage with attendees without staffing a booth. You get a place in the program, a hiring presence, and visibility across the conference.
 
 #### Benefits
 
 - {{sponsorship.publisher.tickets}} tickets, with additional available to purchase at a discounted rate of {{sponsorship.extra_ticket.price}}/ticket.
+- A **reserved Unconference session or Writing Day project**, listed on the published schedule under your company's name. Lead a discussion, run a workshop, or get attendees contributing to your docs.
+- **Two featured job postings** in our Slack jobs channel, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
+- Logo on the sponsor thank-you slide during the main stage sponsor introductions.
 - Logo included in intermission slides and on talk videos.
 - Dedicated social media post.
 - Logo and description (100 words) on the conference website.
