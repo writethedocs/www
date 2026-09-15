@@ -65,7 +65,7 @@ This includes:
 
 ## Premium Activations
 
-We offer a range of premium activation opportunities beyond standard sponsorship packages, including beverage activations in Martha's, an attendee lounge, professional headshot booth, co-branded swag, and social event sponsorships. See our [Sponsorship Activations](/conf/{{shortcode}}/{{year}}/sponsors/activations/) page for full specs and logistics.
+Patron and Keystone sponsors can add premium activations to their package, including beverage activations in Martha's, an attendee lounge, professional headshot booth, co-branded swag, and social event sponsorships. See our [Sponsorship Activations](/conf/{{shortcode}}/{{year}}/sponsors/activations/) page for full specs and logistics.
 
 ## Sponsorship Benefits During the Conference
 
@@ -101,6 +101,10 @@ Sponsor booths are set up in the main hallway on {{ date.day_three.dotw }} and {
 ### Lightning Talk Sponsor
 
 If you are sponsoring a Lightning Talk, you will be given 60 seconds to share about your company. This will occur on {{ date.day_three.dotw }} OR {{ date.day_four.dotw }} after lunch. If you want to use a slide for your introduction, let us know. Otherwise, we will create a slide with your logo.
+
+### Sponsor sessions
+
+Publisher, Patron, and Keystone sponsors get a reserved Writing Day project or Unconference session, listed on the published schedule under your company's name. Let us know which you'd like when you confirm your sponsorship, and we'll hold the slot. Second Draft sponsors are welcome to submit a Writing Day project or sign up for a walk-up Unconference session on the day, like any attendee.
 
 ### Participate in Writing Day
 

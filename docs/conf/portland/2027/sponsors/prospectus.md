@@ -60,11 +60,11 @@ All packages can be customized, so let us know what you need!
 
 ### Keystone
 
-**{{sponsorship.keystone.price}}**
+**{{sponsorship.keystone.price}}** - **Limit 3**
 
 The **Keystone** sponsorship highlights you as the primary sponsor of the conference. You get all in-person benefits, and the best placement for all physical spaces.
 
-Keystone can be customized to fit your goals. Add-ons include a sponsored headshot booth, sponsor-led sessions, and catering opportunities such as the welcome reception or a branded coffee break. See our [sponsorship activations](/conf/{{shortcode}}/{{year}}/sponsors/activations/) page for the full list.
+Keystone can be customized to fit your goals. Booth sponsors can add activations such as a sponsored headshot booth, an attendee lounge, and catering opportunities like the welcome reception or a branded coffee break. See our [sponsorship activations](/conf/{{shortcode}}/{{year}}/sponsors/activations/) page for the full list.
 
 #### Benefits
 

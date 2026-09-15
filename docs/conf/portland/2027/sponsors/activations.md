@@ -7,7 +7,7 @@ orphan: true
 
 # Sponsorship Activations
 
-In addition to our [standard sponsorship packages](/conf/{{shortcode}}/{{year}}/sponsors/prospectus/), we offer activation opportunities that give sponsors a more experiential presence at the conference. All activations can be customized — reach out to <sponsorship@writethedocs.org> to discuss.
+Activations give sponsors a more experiential presence at the conference. They're available as add-ons to the Patron and Keystone packages in our [sponsorship prospectus](/conf/{{shortcode}}/{{year}}/sponsors/prospectus/), and are priced individually. All activations can be customized — reach out to <sponsorship@writethedocs.org> to discuss.
 
 ```{contents} Activations
 :local:
