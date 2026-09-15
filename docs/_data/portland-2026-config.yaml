@@ -184,13 +184,9 @@ lightning_talks:
   signup_url: "https://docs.google.com/forms/d/e/1FAIpQLSdeeMs_x9_6WPIl_ERai_3_5zkEBD7MrMK835igFY07zN156A/viewform"
   sponsors:
     - day: Monday
-      name: expert-support
-      link: https://expertsupport.com/?ref=writethedocs
-      brand: Expert Support
+      sponsor: expert-support
     - day: Tuesday
-      name: knowledgeowl
-      link: https://www.knowledgeowl.com?ref=writethedocs
-      brand: KnowledgeOwl
+      sponsor: knowledgeowl
 
 qa:
   event_id: a2qmjbDYGqei5UxQQpy554
@@ -199,10 +195,7 @@ writing_day:
   url: "https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform?usp=header"
   date: Sunday, May 3, 9 AM - 5 PM
   project_deadline: "April 22, 2026"
-  sponsor:
-    name: stainless
-    link: https://www.stainless.com/?utm_source=write_the_docs&utm_medium=conference&utm_campaign=write_the_docs_2026
-    brand: Stainless
+  sponsor: stainless
 
 volunteer:
   form_url: "https://docs.google.com/forms/d/e/1FAIpQLSeJvA3uhXDuFsl_kFYWyTyTIyYs6ItHMPspOVq_iSlIloFo6g/viewform?usp=sharing&ouid=109538527958730243648"

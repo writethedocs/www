@@ -54,13 +54,14 @@ Writing Day is an all-day event designed for you to join in throughout the day. 
 Exact times will be posted on our [schedule page](/conf/{{shortcode}}/{{year}}/schedule/).
 
 {% if writing_day.sponsor %}
+{% set sponsor = sponsors|find_sponsor(writing_day.sponsor) %}
 ### Sponsored by
 
 <p style="text-align: center; margin-top: 1em;">
-<a href="{{ writing_day.sponsor.link }}" style="border-bottom: none;"><img src="{{ writing_day.sponsor.name|sponsor_photo }}" alt="{{ writing_day.sponsor.brand }}" style="max-width: 250px;"></a>
+<a href="{{ sponsor.link }}" style="border-bottom: none;"><img src="{{ sponsor.name|sponsor_photo }}" alt="{{ sponsor.brand }}" style="max-width: 250px;"></a>
 </p>
 
-*Writing Day is sponsored by [{{ writing_day.sponsor.brand }}]({{ writing_day.sponsor.link }}).*
+*Writing Day is sponsored by [{{ sponsor.brand }}]({{ sponsor.link }}).*
 {% endif %}
 
 ## How to Prepare

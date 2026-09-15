@@ -227,7 +227,7 @@ writing_day-details:
   git_signup_url: str(required=False)
   date: str(required=True)
   project_deadline: str(required=False)
-  sponsor: include('sponsor-detail', required=False)
+  sponsor: str(required=False)  # name of an entry in the sponsors block
 
 hike-details:
   date: str(required=True)
@@ -240,9 +240,7 @@ lightning_talks-details:
 # A sponsor of one day of a conference event, such as Lightning Talks.
 day-sponsor:
   day: str()
-  name: str()
-  link: str()
-  brand: str()
+  sponsor: str()  # name of an entry in the sponsors block
 
 qa-details:
   event_id: str(required=True)

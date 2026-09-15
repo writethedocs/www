@@ -26,8 +26,9 @@ See the [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page for exact times.
 {% if lightning_talks.sponsors %}
 ### Sponsors
 
-{% for sponsor in lightning_talks.sponsors %}
-- {{ sponsor.day }} Lightning Talks are sponsored by [{{ sponsor.brand }}]({{ sponsor.link }})
+{% for entry in lightning_talks.sponsors %}
+{% set sponsor = sponsors|find_sponsor(entry.sponsor) %}
+- {{ entry.day }} Lightning Talks are sponsored by [{{ sponsor.brand }}]({{ sponsor.link }})
 {% endfor %}
 {% endif %}
 
