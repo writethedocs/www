@@ -112,7 +112,6 @@ The **Publisher** package is for companies that want to engage with attendees wi
 - **Two featured job postings** in our Slack jobs channel, also promoted in our newsletter ({{ newsletter_subs }} subscribers).
 - Logo on the sponsor thank-you slide during the main stage sponsor introductions.
 - Logo included in intermission slides and on talk videos.
-- Dedicated social media post.
 - Logo and description (100 words) on the conference website.
 - Name included in all conference emails to attendees.
 - Display promotional "Swag" items on the conference swag table (provided by sponsor).
