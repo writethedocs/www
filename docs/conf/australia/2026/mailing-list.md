@@ -125,7 +125,7 @@ Stay connected with the Write the Docs community! Our mailing lists send out mes
              <label for="mce-group[14633]-14633-0">Monthly Community Newsletter</label>
          </li>
          <li>
-             <input type="checkbox" value="2" name="group[14633][2]" id="mce-group[14633]-14633-1" checked>
+             <input type="checkbox" value="2" name="group[14633][2]" id="mce-group[14633]-14633-1">
              <label for="mce-group[14633]-14633-1">North American Conference Announcements</label>
          </li>
          <li>
@@ -133,7 +133,7 @@ Stay connected with the Write the Docs community! Our mailing lists send out mes
              <label for="mce-group[14633]-14633-2">European Conference Announcements</label>
          </li>
          <li>
-             <input type="checkbox" value="8" name="group[14633][8]" id="mce-group[14633]-14633-3">
+             <input type="checkbox" value="8" name="group[14633][8]" id="mce-group[14633]-14633-3" checked>
              <label for="mce-group[14633]-14633-3">Australian Conference Announcements</label>
          </li>
      </ul>
