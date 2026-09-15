@@ -1584,6 +1584,138 @@ body .page-content table.benefit-matrix {
     }
 }
 
+// Prospectus: key facts strip and audience share bars
+body .page-content ul.key-facts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    padding: 0;
+    margin: 1.5em 0 2em;
+    list-style: none;
+    text-align: center;
+
+    li {
+        flex: 1 1 160px;
+        padding: 20px 16px;
+        background-color: #fafaf8;
+        border-top: 3px solid $main-color;
+        border-radius: 0 0 4px 4px;
+    }
+    strong {
+        display: block;
+        font-family: $secondary-font-family;
+        font-weight: $semi-bold;
+        font-size: 2.4em;
+        line-height: 1;
+        color: $main-color;
+    }
+    span {
+        display: block;
+        font-size: 0.9em;
+        font-weight: $bold;
+        color: $copy-color;
+        margin-top: 8px;
+    }
+}
+body .page-content details.package {
+    margin: 0 0 12px;
+    scroll-margin-top: 20px;
+    border: 1px solid #e4e5e6;
+    border-radius: 6px;
+    padding: 0 20px;
+
+    summary {
+        display: flex;
+        align-items: baseline;
+        gap: 14px;
+        padding: 14px 0;
+        cursor: pointer;
+        list-style: none;
+    }
+    summary::-webkit-details-marker {
+        display: none;
+    }
+    summary::before {
+        content: "";
+        flex: none;
+        align-self: center;
+        width: 8px;
+        height: 8px;
+        border-right: 2px solid $main-color;
+        border-bottom: 2px solid $main-color;
+        transform: rotate(-45deg);
+        transition: transform 0.15s;
+    }
+    &[open] summary::before {
+        transform: rotate(45deg);
+    }
+    &[open] summary {
+        border-bottom: 1px solid #ececea;
+    }
+    .name {
+        font-family: $secondary-font-family;
+        font-size: 1.3em;
+        color: $font-black;
+    }
+    .price {
+        font-weight: $bold;
+        color: $copy-color;
+    }
+    .limit {
+        font-size: 0.85em;
+        color: #7b868c;
+    }
+    h4 {
+        margin-top: 1em;
+    }
+    > :last-child {
+        margin-bottom: 20px;
+    }
+}
+body .page-content .share-bar {
+    display: flex;
+    height: 28px;
+    border-radius: 4px;
+    overflow: hidden;
+    margin: 0.5em 0 0.75em;
+
+    .seg {
+        display: block;
+        height: 100%;
+    }
+}
+body .page-content ul.share-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 20px;
+    padding: 0;
+    margin: 0 0 1.5em;
+    list-style: none;
+    font-size: 0.9em;
+
+    li {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+    i {
+        display: inline-block;
+        width: 12px;
+        height: 12px;
+        border-radius: 2px;
+    }
+    b {
+        color: $font-black;
+    }
+}
+body .page-content {
+    .seg-1 { background-color: $main-color; }
+    .seg-2 { background-color: rgba($main-color, 0.75); }
+    .seg-3 { background-color: rgba($main-color, 0.55); }
+    .seg-4 { background-color: rgba($main-color, 0.4); }
+    .seg-5 { background-color: rgba($main-color, 0.25); }
+}
+
 // Call-to-action buttons inside page content (prospectus, grants, writing day)
 body .page-content .announcement {
     text-align: center;
