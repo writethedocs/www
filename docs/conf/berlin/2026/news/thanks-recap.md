@@ -19,7 +19,7 @@ It was wonderful to be back at {{about.venue}} for another year of talks, conver
 
 ## Conference recap
 
-With **205 in-person attendees** and **140 virtual attendees**, we had a great turnout this year. We had the usual mix of talks on the main stage along with Q&A, Lightning Talks, Unconference sessions, and a social event.
+With around **200 in-person and 150 remote attendees**, we had a great turnout this year. We had the usual mix of talks on the main stage along with Q&A, Lightning Talks, Unconference sessions, and a social event.
 
 The biggest change was the return of Writing Day, which opened the conference on Sunday. Alongside the usual projects, we ran a New to Git workshop, a Write the Docs orientation, resume and portfolio reviews, a salary survey session, and pre-scheduled roundtable discussions on AI in documentation and API docs. We were delighted to see how involved so many of our attendees were. The day finished with the opening reception.
 
