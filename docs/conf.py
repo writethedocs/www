@@ -71,6 +71,9 @@ exclude_patterns = [
     'include',
     #'_data',
     'node_modules',
+    # Contributor READMEs are notes for us, not site pages. Without this the
+    # one in _static_html/ gets published at the site root by html_extra_path.
+    '**/README.md',
 ]
 
 # We use these *local* environment variables for private info like free ticket links

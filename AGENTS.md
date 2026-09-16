@@ -100,30 +100,6 @@ YAML schemas for validation: `docs/_data/schema-config.yaml`, `schema-schedule.y
 
 Pre-2020 conferences use a different naming convention (`config-<city>-<year>.yaml`).
 
-### Frozen conferences
-
-Conferences up to and including 2024 are **frozen**: their rendered HTML lives in
-`docs/_static_html/conf/<city>/<year>/` and is served verbatim via `html_extra_path`.
-There are no sources to edit and Sphinx does not rebuild them, so they keep the look
-they had when frozen and do not pick up template, CSS, or footer changes. Their images
-live in `docs/_static_html/_frozen-images/` so Sphinx cannot renumber them out from
-under the pages, and `htmlproofer` skips them in CI.
-
-Link to a frozen conference with a plain URL (`` `Portland 2022 </conf/portland/2022/>`__ ``),
-never `:doc:`, since the pages are no longer Sphinx documents. Their `docs/_data/` YAML
-is kept as the historical record even though the build no longer reads it.
-
-To freeze another year: build the site, copy `_build/html/conf/<city>/<year>/` into
-`docs/_static_html/conf/<city>/<year>/`, copy any `_images/` files those pages use into
-`docs/_static_html/_frozen-images/` and repoint the references, delete the sources from
-`docs/conf/<city>/<year>/`, convert inbound `:doc:` references to plain URLs, widen
-the `--ignore-files` year range in `.github/workflows/ubuntu.yml`, and drop any now-dead
-conference tags from `TAGS` in `docs/_ext/atom_absolute.py`.
-
-Verify with `READTHEDOCS=True` set, not just a plain build. The atom feed rewrite only
-runs on Read the Docs, and it fails the build if it is asked for a feed that no longer
-exists, so a freeze that looks clean locally can still break there.
-
 ### Templates
 
 Year-specific HTML templates in `docs/_templates/<year>/` (base.html, index.html, generic.html, menu-*.html). Pages specify their template via `:template: <year>/generic.html` metadata in RST.
