@@ -7,25 +7,14 @@ from sphinx.util import logging
 
 logger = logging.getLogger(__name__)
 
+# Tags whose feed still exists. Conferences frozen into _static_html no longer
+# produce one; a tag listed here without a feed is a real error.
 TAGS = [
     'newsletter',
-    'portland-2019',
-    'prague-2019',
-    'australia-2019',
     'portland-2020',
     'prague-2020',
-    'australia-2020',
-    'portland-2021',
-    'prague-2021',
-    'australia-2021',
-    'portland-2022',
-    'prague-2022',
-    'australia-2022',
     'portland-2023',
     'atlantic-2023',
-    'portland-2024',
-    'atlantic-2024',
-    'australia-2024',
     'portland-2025',
     'berlin-2025',
     'australia-2025',

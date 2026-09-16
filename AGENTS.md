@@ -116,8 +116,13 @@ is kept as the historical record even though the build no longer reads it.
 To freeze another year: build the site, copy `_build/html/conf/<city>/<year>/` into
 `docs/_static_html/conf/<city>/<year>/`, copy any `_images/` files those pages use into
 `docs/_static_html/_frozen-images/` and repoint the references, delete the sources from
-`docs/conf/<city>/<year>/`, convert inbound `:doc:` references to plain URLs, and widen
-the `--ignore-files` year range in `.github/workflows/ubuntu.yml`.
+`docs/conf/<city>/<year>/`, convert inbound `:doc:` references to plain URLs, widen
+the `--ignore-files` year range in `.github/workflows/ubuntu.yml`, and drop any now-dead
+conference tags from `TAGS` in `docs/_ext/atom_absolute.py`.
+
+Verify with `READTHEDOCS=True` set, not just a plain build. The atom feed rewrite only
+runs on Read the Docs, and it fails the build if it is asked for a feed that no longer
+exists, so a freeze that looks clean locally can still break there.
 
 ### Templates
 
