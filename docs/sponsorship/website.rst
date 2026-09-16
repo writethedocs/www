@@ -1,4 +1,4 @@
-Website Sponsorship
+Website sponsorship
 ===================
 
 You can sponsor the Write the Docs community website in two ways:
@@ -13,17 +13,21 @@ You can sponsor the Write the Docs community website in two ways:
       <a class="cta-button" href="https://buy.stripe.com/8x23co8yddUm6NO7hifEk0a">Buy a footer logo — $500</a>
    </div>
 
-Website Stats
+Website stats
 -------------
 
-Our website currently gets {{ website_visits }}+ visits a month.
+.. raw:: html
+
+   <ul class="key-facts">
+     <li><strong>{{ website_visits }}+</strong><span>visits a month</span></li>
+   </ul>
 
 The best idea of who is visiting our site is the information we have from our conferences.
 Our audience is made up of:
 
 .. include:: /include/demographics.rst
 
-Sidebar Advertising
+Sidebar advertising
 -------------------
 
 This option gives you an ad on the Write the Docs sidebar,

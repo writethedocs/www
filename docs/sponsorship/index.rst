@@ -1,4 +1,4 @@
-Community Sponsorship
+Community sponsorship
 =====================
 
 We support our community in a variety of ways, and you can choose to focus
@@ -9,6 +9,13 @@ Conferences
 
 Our conferences are the best way to get in front of our community in person.
 Each conference has its own sponsorship prospectus:
+
+.. raw:: html
+
+   <ul class="key-facts">
+     <li><strong>{{ conf_attendees }}</strong><span>attendees a year</span></li>
+     <li><strong>3</strong><span>conferences a year</span></li>
+   </ul>
 
 .. list-table::
    :class: sponsorship-pricing
@@ -38,28 +45,42 @@ Community programs
 
 Our year-round programs put your name in front of the community every day:
 
+.. raw:: html
+
+   <ul class="key-facts">
+     <li><strong>{{ slack_members }}</strong><span>Slack members</span></li>
+     <li><strong>{{ newsletter_subs }}</strong><span>newsletter subscribers</span></li>
+     <li><strong>{{ website_visits }}+</strong><span>website visits a month</span></li>
+   </ul>
+
 .. list-table::
    :class: sponsorship-pricing
    :header-rows: 1
-   :widths: 30 45 25
+   :widths: 24 30 30 16
 
    * - Program
      - Who you reach
+     - What you get
      - Price
    * - :doc:`Newsletter sponsorship </sponsorship/newsletter>`
      - Over {{ newsletter_subs }} subscribers, 42% open rate
+     - Logo, 2 paragraphs of copy, 2 links
      - **$500** / month
    * - :doc:`Slack sponsorship </sponsorship/slack>`
      - Over {{ slack_members }} Slack members
+     - 2 paragraphs of copy and a link in ``#announcements``
      - **$350** / month
    * - :doc:`Job posting </sponsorship/jobs>`
      - Newsletter and Slack jobs channel
+     - A newsletter entry and a Slack post
      - **$250** / posting
    * - :doc:`Website sidebar ad </sponsorship/website>`
      - {{ website_visits }}+ website visits a month
+     - 240x180px ad, 100 characters, one link
      - **$250** / month
    * - :doc:`Website footer logo </sponsorship/website>`
      - Every page of our community website
+     - Logo and a link in the footer
      - **$500** / year
 
 We accept payment online by card, or we can issue an invoice — whichever works best for your company.
