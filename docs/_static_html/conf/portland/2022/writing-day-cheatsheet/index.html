@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="author" content="Write the Docs">
+        <meta name="ROBOTS" content="ALL">
+
+        <link rel="apple-touch-icon" sizes="57x57" href="../../../../_static/favicon/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="../../../../_static/favicon/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="../../../../_static/favicon/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="../../../../_static/favicon/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="../../../../_static/favicon/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="../../../../_static/favicon/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="../../../../_static/favicon/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="../../../../_static/favicon/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="../../../../_static/favicon/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="../../../../_static/favicon/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="../../../../_static/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="../../../../_static/favicon/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="../../../../_static/favicon/favicon-16x16.png">
+
+        <link rel="manifest" href="../../../../_static/favicon/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+
+        <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,400,700" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet">
+        <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet">
+        <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.2.0/aos.css" />
+        <link rel="stylesheet" href="../../../../_static/conf/css/main-2022.min.css" type="text/css">
+
+        <!-- things that change -->
+        
+        <meta property="og:site_name" content="Write the Docs  Portland 2022">
+        <meta name="dc.language" content="en">
+        <meta name="geo.placename" content="Portland, North America">
+        <!-- Open Graph protocol -->
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta property="og:title" content="Writing Day Cheat Sheet" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.writethedocs.org/conf/portland/2022/writing-day-cheatsheet/" />
+<meta property="og:site_name" content="Write the Docs" />
+<meta property="og:description" content="What is a writing day?: Our Writing Day is modeled after the concept of “code sprints” or “hackathons”, which are common in open-source conferences. The main goal is to get interesting people in th..." />
+<meta property="og:image" content="https://www.writethedocs.org/_static/logo-opengraph.png" />
+<meta property="og:image:alt" content="Write the Docs" />
+<meta name="description" content="What is a writing day?: Our Writing Day is modeled after the concept of “code sprints” or “hackathons”, which are common in open-source conferences. The main goal is to get interesting people in th..." />
+<meta name="twitter:card" content="summary_large_image" />
+
+        <!-- /Open Graph protocol -->
+        
+
+        <title>
+        
+        Writing Day Cheat Sheet - Write the Docs   Portland 2022
+        
+        </title>
+
+        
+<style>
+.page-content h1 {
+    display: none;
+}
+</style>
+
+
+    </head>
+    <body>
+
+    
+<div class="header">
+        <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar="offset: -18px">
+            <div class="uk-navbar-left">
+                <div class="header-logo uk-visible@s">
+                    <a href="../">
+                        Write<br>
+                        the<br>
+                        Docs<br>
+                        
+                        <em>Portland</em>
+                        <br><em style="top: -16px;">2022</em>
+                    </a>
+                </div>
+            </div>
+            <div class="uk-navbar-right">
+                <button class="uk-navbar-toggle uk-hidden@s"  type="button" uk-navbar-toggle-icon uk-toggle="target: #offcanvas-nav"></button>
+                <div id="offcanvas-nav" uk-offcanvas="overlay: true">
+                    <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+                            <div class="menu-logo">
+                                    Write<br>
+                                    the<br>
+                                    Docs<br>
+                                    
+                                    <em>Portland</em>
+                                    <em style="top: -16px;">2022</em>
+                                </div>
+                              
+                                             <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
+                  <li><a href="../">Home</a></li>
+                  <li><a href="../news/">News</a></li>
+                  <li class="uk-parent">
+                      <a href="../schedule/">Program</a>
+                      <ul class="uk-nav-sub">
+                          
+                          <li><a href="../speakers/">Speakers</a></li>
+                          <li><a href="../schedule/">Schedule</a></li>
+                          <li><a href="../welcome-wagon/">Welcome Wagon</a></li>
+                          <li><a href="../lightning-talks/">Lightning Talks</a></li>
+                          <li><a href="../unconference/">Unconference</a></li>
+                          <li><a href="../job-fair/">Job Fair</a></li>
+                          
+                          <li><a href="../writing-day/">Writing Day</a></li>
+                          
+                          
+                          
+                          
+                      </ul>
+                  </li>
+                  <!--
+                  <li class="uk-parent">
+                      <a href="../visiting/">Visit</a>
+                      <ul class="uk-nav-sub">
+                          <li><a href="../visiting/">Portland</a></li>
+                          <li><a href="../venue/">Venue</a></li>
+                      </ul>
+                  </li>
+                  -->
+
+                  <li class="uk-parent">
+                    <a href="../tickets/">Tickets</a>
+                    <ul class="uk-nav-sub">
+                        
+                        <li><a href="../opportunity-grants/">Opportunity Grants</a></li>
+                        <li><a href="../convince-your-manager/">Convince Your Manager</a></li>
+                    </ul>
+                  </li>
+                  <li><a href="../welcome-wagon/">Guide</a></li>
+                  <li class="uk-parent">
+                      <a href="../about/">About</a>
+                      <ul class="uk-nav-sub">
+                          <li><a href="../about/">Overview</a></li>
+                          <li><a href="../press-kit/">Press Kit</a></li>
+                          <li><a href="../team/">Meet the Team</a></li>
+                          <li><a href="../speaking-tips/">Speaking Tips</a></li>
+                          <li><a href="../../../">Past Events</a></li>
+                          <li><a href="../../../../code-of-conduct/">Code of Conduct</a></li>
+                          <li><a href="../contact/">Contact</a></li>
+                      </ul>
+                  </li>
+                  <li class="uk-parent">
+                      <a href="../sponsors/">Sponsors</a>
+                      <ul class="uk-nav-sub">
+                          <li><a href="../sponsors/">Our Sponsors</a></li>
+                          
+                            <li><a href="../sponsors/prospectus/">Prospectus</a></li>
+                          
+                      </ul>
+                  </li>
+                  
+                </ul>
+                             
+                    </div>
+                </div>
+             
+             
+                <ul class="uk-nav uk-visible@s">
+                        <li><a href="../news/">News</a></li>
+                        <li>
+                          <ul class="uk-navbar-nav">
+                              <li>
+                                  <a href="../schedule/">Program</a>
+                                  <div class="uk-navbar-dropdown">
+                                      <ul class="uk-nav uk-navbar-dropdown-nav">
+                                          
+                                          
+                                          <li><a href="../speakers/">Speakers</a></li>
+                                          
+                                          <li><a href="../schedule/">Schedule</a></li>
+                                          <li><a href="../welcome-wagon/">Welcome Wagon</a></li>
+                                          <li><a href="../lightning-talks/">Lightning Talks</a></li>
+                                          <li><a href="../unconference/">Unconference</a></li>
+                                          <li><a href="../job-fair/">Job Fair</a></li>
+                                          
+                                          <li><a href="../writing-day/">Writing Day</a></li>
+                                          
+                                          
+                                          
+                                          
+                                      </ul>
+                                  </div>
+                              </li>
+                          </ul>
+                        </li><!--- Parent element with it's children -->
+                        <!-- No visiting details this year
+                        <li>
+                          <ul class="uk-navbar-nav">
+                              <li>
+                                  <a href="../visiting/">Visiting</a>
+                                  <div class="uk-navbar-dropdown">
+                                      <ul class="uk-nav uk-navbar-dropdown-nav">
+                                          <li><a href="../visiting/">Portland</a></li>
+                                          <li><a href="../venue/">Venue</a></li>
+                                      </ul>
+                                  </div>
+                              </li>
+                          </ul>
+                        </li> -->
+                        <!--- Parent element with it's children -->
+                        <li><a href="../welcome-wagon/">Guide</a></li>
+                        <li>
+                             <ul class="uk-navbar-nav">
+                                <li>
+                                    <a href="../tickets/">Tickets</a>
+                                    <div class="uk-navbar-dropdown">
+                                        <ul class="uk-nav uk-navbar-dropdown-nav">
+                                            
+                                            <li><a href="../opportunity-grants/">Opportunity Grants</a></li>
+                                            <li><a href="../convince-your-manager/">Convince Your Manager</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li>
+                          <ul class="uk-navbar-nav">
+                              <li>
+                                  <a href="../about/">About</a>
+                                  <div class="uk-navbar-dropdown">
+                                      <ul class="uk-nav uk-navbar-dropdown-nav">
+                                          <li><a href="../about/">Overview</a></li>
+                                          <li><a href="../press-kit/">Press Kit</a></li>
+                                          <li><a href="../team/">Meet the Team</a></li>
+                                          
+                                          <li><a href="../../../">Past Events</a></li>
+                                          <li><a href="../../../../code-of-conduct/">Code of Conduct</a></li>
+                                          <li><a href="../contact/">Contact</a></li>
+
+                                      </ul>
+                                  </div>
+                              </li>
+                          </ul>
+                        </li><!--- Parent element with it's children -->
+
+                        <li>
+                            <ul class="uk-navbar-nav">
+                                <li>
+                                    <a href="../sponsors/">Sponsors</a>
+                                    <div class="uk-navbar-dropdown">
+                                        <ul class="uk-nav uk-navbar-dropdown-nav">
+                                            <li><a href="../sponsors/">Our Sponsors</a></li>
+                                            
+                                              <li><a href="../sponsors/prospectus/">Prospectus</a></li>
+                                            
+                                        </ul>
+                                    </div>
+                                </li>
+                            </ul>
+                          </li><!--- Parent element with it's children -->
+
+                          
+                </ul>
+             
+            </div>
+        </nav>
+
+    </div><!-- end header -->
+    <div class="mobile-post-header uk-hidden@s">
+        <div class="header-logo">
+                <a href="../">
+                    Write<br>
+                    the<br>
+                    Docs<br>
+                    
+                    <em>Portland</em>
+                </a>
+        </div>
+    </div><!-- end post header -->
+
+    
+    <div class="page-banner" style="background-image: url(../../../../_static/conf/images/headers/writing-day.png);">
+    
+        <div class="uk-container">
+            <h1>Writing Day Cheat Sheet</h1>
+        </div>
+    </div>
+    <!-- end page-banner -->
+
+  
+    <div class="page-content" role="main">
+        <div class="uk-container">
+                
+                <section id="writing-day-cheat-sheet">
+<h1>Writing Day Cheat Sheet<a class="headerlink" href="#writing-day-cheat-sheet" title="Link to this heading">¶</a></h1>
+<section id="what-is-a-writing-day">
+<h2>What is a writing day?<a class="headerlink" href="#what-is-a-writing-day" title="Link to this heading">¶</a></h2>
+<p>Our Writing Day is modeled after the concept of “code sprints” or “hackathons”, which are common in open-source conferences.
+The main goal is to get interesting people in the same room and have them work towards shared goals.</p>
+<p>To make the most out of the Writing Day, we recommend that you either come with a project, or be ready and willing to contribute to someone else’s project.</p>
+<p>Here are some examples of projects that you might want to work on:</p>
+<ul class="simple">
+<li><p>Open-source software documentation</p></li>
+<li><p>General documentation writing</p></li>
+<li><p>Best practices manual (for your project or the world)</p></li>
+<li><p>Blog posts</p></li>
+<li><p>Tips and tricks</p></li>
+<li><p>Great works of fiction</p></li>
+<li><p>Love letters</p></li>
+<li><p>The Write the Docs website and guides</p></li>
+</ul>
+<p>This adds up to a room full of smart people sharing your problems, your passion, and your goals.
+Be ready to learn some new things and to teach others what you know.</p>
+<p>Even if you feel that you don’t know that much, or don’t have the right skills or experience, or have never attended an event like Writing Day before, you’ll be surprised how much you can share.</p>
+</section>
+<section id="have-a-project-you-want-to-work-on">
+<h2>Have a project you want to work on?<a class="headerlink" href="#have-a-project-you-want-to-work-on" title="Link to this heading">¶</a></h2>
+<p>During the introduction, we invite people to give a project summary in the Stage chat. The Writing Day coordinator will post a link to the project overviews in the Google sheet.</p>
+<p>As you prepare your project, consider what information and tasks people might need to help you with your idea and why people might want to work with you on it.</p>
+<p>Remember that people will come and go during writing day, and you might not accomplish everything you set out to during the day.
+This is normal for events like these, and many projects continue after writing day.</p>
+</section>
+<section id="want-to-contribute-to-an-existing-project">
+<h2>Want to contribute to an existing project?<a class="headerlink" href="#want-to-contribute-to-an-existing-project" title="Link to this heading">¶</a></h2>
+<p>Please make sure that your internet connection is stable if you want to participate in video/audio conversations.
+We’ll be creating and editing content, so make sure that you have the tools you need to contribute.</p>
+<p>If at any time you get stuck with new concepts and tools, remember you are in a room full of friendly people from diverse backgrounds and experiences.
+Feel free to ask if anyone can help or ask a staff member or volunteer to help you find someone to help.</p>
+</section>
+<section id="cant-find-a-project-you-want-to-contribute-to">
+<h2>Can’t find a project you want to contribute to?<a class="headerlink" href="#cant-find-a-project-you-want-to-contribute-to" title="Link to this heading">¶</a></h2>
+<p>Maybe this means you have a project to add to the Google sheet, it’s never too late.</p>
+<p>If not, check out the <a class="reference internal" href="../writing-day/"><span class="doc">Writing Day</span></a> page, which has some ideas and links to projects you might be interested in.
+And if none of these make you curious, you’re always welcome to work on your own projects as space allows. We’re happy to have you with us today!</p>
+</section>
+</section>
+
+                
+                
+        </div>
+    </div>
+  
+
+
+
+    <div class="footer-head">
+        <div class="uk-container">
+        
+         
+        
+        </div>
+    </div>
+
+    
+    
+    <div class="sponsors-footer">
+        <div class="uk-container">
+        <h2 class="uk-first-column"><a href="/conf/portland/2022/sponsors/">Sponsors</a></h2>
+            <!-- Sponsor include for all 2020+ conferences -->
+
+<div class="sponsors">
+
+  
+
+  
+  <div class="silver-sponsors">
+    
+    <div class="uk-width-1-1 uk-width-1-1@s" id="google">
+      <a href="https://www.google.com">
+        <img src=/_static/img/sponsors/google.png style="max-width: 400px;" />
+      </a>
+    </div>
+      
+    
+  </div>
+  
+
+  
+  <div class="silver-sponsors">
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="stackblitz-svg">
+    
+      <a href="https://stackblitz.com/">
+        <img src=/_static/img/sponsors/stackblitz-svg.svg style="max-width: 300px; min-width: 200px;" />
+      </a>
+    </div>
+      
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="cncf">
+    
+      <a href="https://www.cncf.io/">
+        <img src=/_static/img/sponsors/cncf.png style="max-width: 300px; min-width: 200px;" />
+      </a>
+    </div>
+      
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="mongodb-new">
+    
+      <a href="https://www.mongodb.com/">
+        <img src=/_static/img/sponsors/mongodb-new.png style="max-width: 300px; min-width: 200px;" />
+      </a>
+    </div>
+      
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="twilio">
+    
+      <a href="https://www.twilio.com/">
+        <img src=/_static/img/sponsors/twilio.png style="max-width: 300px; min-width: 200px;" />
+      </a>
+    </div>
+      
+    
+  </div>
+  
+
+  
+  <div class="bronze-sponsors">
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="knowledgeowl">
+    
+      <a href="https://www.knowledgeowl.com">
+        <img src=/_static/img/sponsors/knowledgeowl.png style="width: 250px;" />
+      </a>
+    </div>
+      
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="livelike">
+    
+      <a href="https://livelike.com/">
+        <img src=/_static/img/sponsors/livelike.png style="width: 200px;" />
+      </a>
+    </div>
+      
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="openwebdocs-logo">
+    
+      <a href="https://opencollective.com/open-web-docs">
+        <img src=/_static/img/sponsors/openwebdocs-logo.png style="width: 150px;" />
+      </a>
+    </div>
+      
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="jetbrains">
+    
+      <a href="https://www.jetbrains.com/">
+        <img src=/_static/img/sponsors/jetbrains.png style="width: 200px;" />
+      </a>
+    </div>
+      
+    
+  </div> <!-- end bronze -->
+  
+
+  
+
+</div><!-- end sponsors section -->
+            
+
+
+            <div class="learn-more">
+                <a class="uk-align-right" href="/conf/portland/2022/sponsors/prospectus/">Become a sponsor</a>
+            </div>
+        </div>
+    </div>
+    
+
+    <footer >
+        <div class="footer-padding"></div>
+        <div class="uk-container">
+            <div class="footer-content">
+                <div class="footer-social-section">
+                    <div class="footer-logo">
+                    
+                            Write<br>
+                            the<br>
+                            Docs<br>
+                            
+                            <em>Portland</em>
+                            <br><em style="top: -16px;">2022</em>
+                    
+                    </div>
+
+                    <div class="footer-icon-list">
+                        <a href="https://github.com/writethedocs">
+                            <img src="../../../../_static/conf/images/icons/github-footer-white.svg" alt="GitHub">
+                        </a>
+                        <a href="https://twitter.com/writethedocs">
+                            <img src="../../../../_static/conf/images/icons/twitter-footer-white.svg" alt="Twitter">
+                        </a>
+                        <a href="https://www.flickr.com/photos/writethedocs/">
+                            <img src="../../../../_static/conf/images/icons/flickr-footer-white.svg" alt="Flickr">
+                        </a>
+                        <a href="https://www.writethedocs.org/slack/">
+                            <img src="../../../../_static/conf/images/icons/slack-footer-white.svg" alt="Slack">
+                        </a>
+                    </div><!-- end footer icons list of  links -->
+                </div> <!-- end of footer social section -->
+
+                <ul>
+                    <li>© 2022 Write the Docs</li>
+                    <li>|</li>
+                    <li><a href="/code-of-conduct/">Code of Conduct</a></li>
+                    <li>|</li>
+                    <li><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"></a></li>
+                </ul>
+
+            </div><!-- end of footer content  -->
+            <div class="footer-pics">
+                <div>
+                    <img src="../../../../_static/conf/images/pics/ft-image-01.jpg" alt="" >
+                </div>
+                <div>
+                    <img src="../../../../_static/conf/images/pics/ft-image-02.jpg" alt="" >
+                </div>
+                <div>
+                    <img src="../../../../_static/conf/images/pics/ft-image-04.jpg" alt="" >
+                </div>
+                <div>
+                    <img src="../../../../_static/conf/images/pics/ft-image-03.jpg" alt="" >
+                </div>
+            </div>
+        </div>
+    </footer><!-- end footer -->
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+        <!-- Animate on scroll library -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.2.0/aos.js"></script>
+
+        <!--- Slick Carousel -->
+
+        <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+
+        <script type="text/javascript">
+            AOS.init({
+                duration: 1200
+            });
+        </script>
+
+        <!-- UIkit JS -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.16.22/js/uikit.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.16.22/js/uikit-icons.min.js"></script>
+    </body>
+</html>

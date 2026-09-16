@@ -48,7 +48,7 @@ Primary Roles
   * Find venue; coordinate reservation and payment with conference chair
   * Arrange/order meals.
 
-* **Writing Day coordinator** (details: :doc:`/conf/portland/2019/writing-day`)
+* **Writing Day coordinator** (details: `Writing Day </conf/portland/2019/writing-day/>`__)
 
   * Contact projects about participating
   * Present intro to the Writing Day at beginning
@@ -56,14 +56,14 @@ Primary Roles
   * Make it easier for folks to talk about the event, join projects, etc.
   * Coordinate with volunteers during the event for welcoming, directing, etc.
 
-* **Unconference coordinator** (details: :doc:`/conf/portland/2019/unconference`)
+* **Unconference coordinator** (details: `Unconference </conf/portland/2019/unconference/>`__)
 
   * Set up space
   * Make boards for unconf
   * Post schedule online, and promote the schedule onstage
   * Wrangle volunteers, making sure someone is welcoming folks to the space and orienting.
 
-* **Lightning Talk Coordinator** (details: :doc:`/conf/portland/2019/lightning-talks`)
+* **Lightning Talk Coordinator** (details: `Lightning Talks </conf/portland/2019/lightning-talks/>`__)
 
   * Set up the lightning talk sheet/board
   * Be the point person for lightning talks

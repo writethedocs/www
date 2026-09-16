@@ -6,7 +6,7 @@ Discussion Panel: Tech Comms Today
 In a first for Write the Docs conferences everywhere, we’re thrilled to announce a thought-provoking discussion panel: "Tech Comms Today."
 
 - Date & Time: **Friday, 8th December 2023, 3.05pm - 3.45pm**
-- Location:  :doc:`/conf/australia/2023/venue`
+- Location:  `Our venue: Library at the Dock </conf/australia/2023/venue/>`__
 
 
 A live, interactive session

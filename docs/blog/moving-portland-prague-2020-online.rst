@@ -23,7 +23,7 @@ If you currently have a ticket to Write the Docs Portland, your options are:
 - Convert your existing ticket into a virtual ticket pass, valid for all of our online events until the end of 2021. We plan to move Portland & Prague online this year at least, and offer similar online events next year. Support the Write the Docs organization by helping us cover operating expenses for the next year and a half.
 - Get a full refund of your original ticket amount on **May 15th, 2020**. This option will happen automatically if you don't select either of the previous options.
 
-Please fill in the :doc:`ticket processing form </conf/portland/2020/ticket-choices>` to let us know which option you prefer.
+Please fill in the `ticket processing form </conf/portland/2020/ticket-choices/>`__ to let us know which option you prefer.
 
 We'll be reaching out to all of our sponsors to talk about moving their sponsorship to our online event, and we are excited about offering new sponsorship benefits available thanks to the new format.
 
