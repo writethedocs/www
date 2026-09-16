@@ -270,6 +270,15 @@ div.body {
   }
 }
 
+/** Community accent, used by the sponsorship buttons, figures and bars.
+    Conference pages set their own colour per year from their config; these
+    pages are not tied to a conference, so they use the community green. **/
+
+:root {
+    --wtd-accent-rgb: 46, 204, 113;
+    --wtd-accent: rgb(var(--wtd-accent-rgb));
+}
+
 /** Sponsorship CTA button, using the existing newsletter button colors **/
 
 .cta-group {
@@ -281,7 +290,7 @@ div.body a.cta-button:link,
 div.body a.cta-button:visited {
     display: inline-block;
     padding: 12px 28px;
-    background-color: #2ECC71;
+    background-color: var(--wtd-accent);
     border: 1px solid #4a4a4a;
     border-radius: 5px;
     color: #FFFFFF;
@@ -297,6 +306,85 @@ div.body a.cta-button:hover {
     text-decoration: none;
 }
 
+/** Sponsorship reach figures, shown at the top of the sponsorship pages **/
+
+div.body ul.key-facts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    padding: 0;
+    margin: 1.5em 0 2em;
+    list-style: none;
+    text-align: center;
+}
+
+div.body ul.key-facts li {
+    flex: 1 1 110px;
+    padding: 16px 10px;
+    background-color: #fafaf8;
+    border-top: 3px solid var(--wtd-accent);
+    border-radius: 0 0 4px 4px;
+}
+
+div.body ul.key-facts strong {
+    display: block;
+    font-size: 1.9em;
+    line-height: 1;
+    color: var(--wtd-accent);
+}
+
+div.body ul.key-facts span {
+    display: block;
+    font-size: 0.82em;
+    font-weight: bold;
+    color: #4a4a4a;
+    margin-top: 8px;
+}
+
+/** Audience breakdown, shared by the sponsorship pages via include/demographics.rst **/
+
+div.body .share-bar {
+    display: flex;
+    height: 28px;
+    border-radius: 4px;
+    overflow: hidden;
+    margin: 0.5em 0 0.75em;
+}
+
+div.body .share-bar .seg {
+    display: block;
+    height: 100%;
+}
+
+div.body ul.share-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 20px;
+    padding: 0;
+    margin: 0 0 1.5em;
+    list-style: none;
+    font-size: 0.9em;
+}
+
+div.body ul.share-legend li {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+div.body ul.share-legend i {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
+}
+
+div.body .seg-1 { background-color: rgba(var(--wtd-accent-rgb), 1); }
+div.body .seg-2 { background-color: rgba(var(--wtd-accent-rgb), 0.75); }
+div.body .seg-3 { background-color: rgba(var(--wtd-accent-rgb), 0.55); }
+div.body .seg-4 { background-color: rgba(var(--wtd-accent-rgb), 0.4); }
+div.body .seg-5 { background-color: rgba(var(--wtd-accent-rgb), 0.25); }
+
 table.sponsorship-pricing {
     width: 100%;
     border-collapse: collapse;
@@ -310,7 +398,13 @@ table.sponsorship-pricing td, table.sponsorship-pricing th {
 }
 
 table.sponsorship-pricing thead th {
+    background-color: #F2F2F0;
     border-bottom: 2px solid #4a4a4a;
+    color: #4a4a4a;
+}
+
+table.sponsorship-pricing tbody tr:nth-child(even) td {
+    background-color: #fafaf8;
 }
 
 table.sponsorship-pricing td:last-child {

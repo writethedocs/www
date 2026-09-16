@@ -1,4 +1,4 @@
-Job Posting Sponsorship
+Job posting sponsorship
 =======================
 
 We offer a sponsorship for companies looking to hire documentarians.
