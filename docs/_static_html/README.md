@@ -14,6 +14,12 @@ Two generations live side by side:
 
 Conferences from 2025 onwards are still built from source in `docs/conf/`.
 
+The 2013-2017 sites keep the `na`/`eu`/`au` URLs they were published under.
+Because people guess the modern city-style URL, `conf/{portland,prague,australia}/2015`-`2017`
+hold redirect pages pointing at the real ones. These are client-side redirects
+(`meta refresh` plus a canonical link), not 301s; Read the Docs redirects are
+configured in the project dashboard rather than in this repository.
+
 ## Editing and linking
 
 To change a frozen page, edit the HTML here directly. There is no other copy.
