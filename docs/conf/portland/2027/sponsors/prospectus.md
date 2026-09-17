@@ -12,8 +12,8 @@ Write the Docs {{ city }} is a **three day conference** held on {{ date.short }}
 
 <ul class="key-facts">
   <li><strong>{{ about.attendees }}</strong><span>attendees</span></li>
-  <li><strong>{{ (about.audience[0].percent + about.audience[1].percent) | round | int }}%</strong><span>write or manage documentation</span></li>
-  <li><strong>{{ about.first_time | round | int }}%</strong><span>first-time attendees</span></li>
+  <li><strong>{{ about.documentarians | round | int }}%</strong><span>write or manage documentation</span></li>
+  <li><strong>{{ about.manager_level | round | int }}%</strong><span>in a management role</span></li>
 </ul>
 
 {% if flagrunofshow %}
@@ -284,10 +284,10 @@ Each conference is attended by:
 {% for share in about.audience %}  <li><i class="seg-{{ loop.index }}"></i>{{ share.label }} <b>{{ share.percent }}%</b></li>
 {% endfor %}</ul>
 
-- {{ (about.audience[0].percent + about.audience[1].percent) | round | int }}% of attendees write or manage documentation.
-- Roughly 1 in 5 attendees holds a manager-level role.
-- Half the room is new each year. {{ about.first_time }}% of our Portland 2026 attendees had never been to a Write the Docs conference.
-- Programmers and developer relations roles are 6.6% of attendees. This is a documentation audience, not a developer one.
+- {{ about.documentarians | round | int }}% of attendees write or manage documentation. Programmers and developer relations roles are {{ about.engineering }}% between them, so this is a documentation audience, not a developer one.
+- Roughly 1 in 5 attendees holds a manager-level role: documentation managers, product and project managers, directors and team leads.
+- Half the room is new each year. {{ about.first_time }}% of our Portland 2026 attendees had never been to a Write the Docs conference, so two years of sponsorship reach two largely different audiences.
+- Attendees come to us through our own channels. 20% of them first heard about the conference in our Slack, and 17% each through our newsletter and website.
 - Oregon, Washington and California are 42% of the room, and 13% of attendees travel from outside the US.
 
 Each conference we sell:
@@ -299,17 +299,17 @@ Each conference we sell:
 {% for share in about.ticket_mix %}  <li><i class="seg-{{ loop.index }}"></i>{{ share.label }} <b>{{ share.percent }}%</b></li>
 {% endfor %}</ul>
 
-Role and attendance figures come from the 566 registration survey responses at Write the Docs Portland 2026.
+Role, attendance and discovery figures come from the 566 registration survey responses at Write the Docs Portland 2026.
 
 ## Why sponsor
 
-By supporting a Write the Docs event, your company will gain visibility and credibility with front-line documentarians, and valuable insights that will help you get the most out of your own documentation efforts. If you're hiring for docs positions, Write the Docs is also an excellent opportunity to meet top-notch talent.
+By supporting a Write the Docs event, your company will gain visibility and credibility with front-line documentarians, and valuable insights that will help you get the most out of your own documentation efforts. If you make tools for documentation teams, this is your audience: almost everyone in the room works on documentation every day, and about one in five manages a team.
 
 We work hard to keep ticket prices affordable for a broad range of attendees. Your sponsorship makes it possible for all sorts of documentarians to attend our events, whether they're a freelancer, a student or out of work. Becoming a sponsor demonstrates your commitment to and support of good documentation, and the people who build it.
 
 ## How we work with sponsors
 
-Come prepared to engage with our community, and to learn just as much as you teach. Engage with our event as attendees as well as other sponsors. Send technical staff who can chat with people on the interesting things your company is doing, and get value from the vast amount of insight in the room. We do have some decision makers in the room, but soft sells will work better than hard sales in the environment we strive for.
+Come prepared to engage with our community, and to learn just as much as you teach. Engage with our event as attendees as well as other sponsors. Send technical staff who can chat with people on the interesting things your company is doing, and get value from the vast amount of insight in the room. There are decision makers in the room, but soft sells will work better than hard sales in the environment we strive for.
 
 Sponsor booths are set up in the main hallway, outside the auditorium.
 

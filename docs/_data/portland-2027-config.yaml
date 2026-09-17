@@ -166,8 +166,12 @@ about:
   mainroom: Main stage
   unconfroom: Martha's, Library & Astoria room (1st floor)
   projector_ratio: "16:9"
-  # Shown as bars on the sponsorship prospectus. Role mix and first-timer share
-  # come from the 566 registration survey responses at Portland 2026.
+  # Shown on the sponsorship prospectus, from the 566 registration survey
+  # responses at Portland 2026. The summary shares below are separate cuts of
+  # that survey, so they don't all add up from the role mix.
+  documentarians: 77.6  # writers plus documentation managers
+  manager_level: 21.9  # documentation, product and project managers, directors and leads
+  engineering: 6.6  # programmers plus developer relations
   first_time: 51.5
   audience:
     - label: Writers
