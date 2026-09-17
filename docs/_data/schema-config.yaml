@@ -195,12 +195,13 @@ about-details:
   projector_ratio: str(required=False)
   social_venue: str(required=False)
   audience: list(include('share'), required=False)
+  first_time: num(min=0, max=100, required=False)
   ticket_mix: list(include('share'), required=False)
 
 # A slice of an audience breakdown, shown as a bar on the prospectus.
 share:
   label: str()
-  percent: int(min=0, max=100)
+  percent: num(min=0, max=100)
 
 cfp-details:
   url: str(required=True)

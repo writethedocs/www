@@ -166,18 +166,26 @@ about:
   mainroom: Main stage
   unconfroom: Martha's, Library & Astoria room (1st floor)
   projector_ratio: "16:9"
-  # Shown as bars on the sponsorship prospectus
+  # Shown as bars on the sponsorship prospectus. Role mix and first-timer share
+  # come from the 566 registration survey responses at Portland 2026.
+  first_time: 51.5
   audience:
-    - label: Technical Writers
-      percent: 60
-    - label: Developers
-      percent: 10
-    - label: Support Staff
-      percent: 10
-    - label: Managers
-      percent: 10
-    - label: Community Contributors, Enthusiasts & Other Folks
-      percent: 10
+    - label: Writers
+      percent: 62.8
+    - label: Documentation managers
+      percent: 14.8
+    - label: Programmers
+      percent: 4.9
+    - label: Product and project managers
+      percent: 3.8
+    - label: Developer relations
+      percent: 1.6
+    - label: Teachers and educators
+      percent: 1.6
+    - label: Editors
+      percent: 1.1
+    - label: Everything else
+      percent: 9.3
   ticket_mix:
     - label: Corporate tickets
       percent: 70

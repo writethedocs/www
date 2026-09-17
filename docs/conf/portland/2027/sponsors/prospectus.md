@@ -12,8 +12,8 @@ Write the Docs {{ city }} is a **three day conference** held on {{ date.short }}
 
 <ul class="key-facts">
   <li><strong>{{ about.attendees }}</strong><span>attendees</span></li>
-  <li><strong>{{ about.audience[0].percent }}%</strong><span>{{ about.audience[0].label }}</span></li>
-  <li><strong>{{ about.ticket_mix[0].percent }}%</strong><span>{{ about.ticket_mix[0].label }}</span></li>
+  <li><strong>{{ (about.audience[0].percent + about.audience[1].percent) | round | int }}%</strong><span>write or manage documentation</span></li>
+  <li><strong>{{ about.first_time | round | int }}%</strong><span>first-time attendees</span></li>
 </ul>
 
 {% if flagrunofshow %}
@@ -284,6 +284,12 @@ Each conference is attended by:
 {% for share in about.audience %}  <li><i class="seg-{{ loop.index }}"></i>{{ share.label }} <b>{{ share.percent }}%</b></li>
 {% endfor %}</ul>
 
+- {{ (about.audience[0].percent + about.audience[1].percent) | round | int }}% of attendees write or manage documentation.
+- Roughly 1 in 5 attendees holds a manager-level role.
+- Half the room is new each year. {{ about.first_time }}% of our Portland 2026 attendees had never been to a Write the Docs conference.
+- Programmers and developer relations roles are 6.6% of attendees. This is a documentation audience, not a developer one.
+- Oregon, Washington and California are 42% of the room, and 13% of attendees travel from outside the US.
+
 Each conference we sell:
 
 <div class="share-bar">
@@ -292,6 +298,8 @@ Each conference we sell:
 <ul class="share-legend">
 {% for share in about.ticket_mix %}  <li><i class="seg-{{ loop.index }}"></i>{{ share.label }} <b>{{ share.percent }}%</b></li>
 {% endfor %}</ul>
+
+Role and attendance figures come from the 566 registration survey responses at Write the Docs Portland 2026.
 
 ## Why sponsor
 
