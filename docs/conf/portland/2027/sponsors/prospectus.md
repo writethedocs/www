@@ -169,6 +169,8 @@ All packages can be customized, so let us know what you need!
     </div>
 </div>
 
+### Sponsorship details
+
 <details class="package" id="package-keystone">
 <summary><span class="name">Keystone</span><span class="price">{{sponsorship.keystone.price}}</span><span class="limit">Limit 3</span></summary>
 
@@ -243,10 +245,6 @@ The **Supporter** package gives you visibility on the conference website and in 
 
 </details>
 
-## Other sponsorship opportunities
-
-The following add-ons increase your visibility at the event. Lightning Talks sponsorship requires a Supporter package or higher; Opportunity Grants can be sponsored independently.
-
 <details class="package" id="addon-lightning-talks">
 <summary><span class="name">Lightning Talks</span><span class="price">{{sponsorship.lightning_talks.price}}</span><span class="limit">Limit 2</span></summary>
 
@@ -264,7 +262,7 @@ Sponsor one day of Lightning Talks, where attendees have 5 minutes to share some
 <details class="package" id="addon-opportunity-grants">
 <summary><span class="name">Opportunity Grants</span><span class="price">{{sponsorship.opportunity_grants.price}}</span><span class="limit">Limit 2</span></summary>
 
-Provide additional funding for our Opportunity Grant program, which supports equity and accessibility and provides funding for low-income, marginalized people to attend the conference. These individuals would otherwise not be able to attend.
+Provide additional funding for our Opportunity Grant program, which supports equity and accessibility and provides funding for low-income, marginalized people to attend the conference. These individuals would otherwise not be able to attend. Can be sponsored independently.
 
 <h4>Benefits</h4>
 
