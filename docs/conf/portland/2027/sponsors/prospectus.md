@@ -12,8 +12,8 @@ Write the Docs {{ city }} is a **three day conference** held on {{ date.short }}
 
 <ul class="key-facts">
   <li><strong>{{ about.attendees }}</strong><span>attendees</span></li>
-  <li><strong>{{ about.documentarians | round | int }}%</strong><span>write or manage documentation</span></li>
   <li><strong>{{ about.manager_level | round | int }}%</strong><span>in a management role</span></li>
+  <li><strong>{{ about.first_time | round | int }}%</strong><span>new attendees each year</span></li>
 </ul>
 
 {% if flagrunofshow %}
@@ -284,8 +284,8 @@ Each conference is attended by:
 {% for share in about.audience %}  <li><i class="seg-{{ loop.index }}"></i>{{ share.label }} <b>{{ share.percent }}%</b></li>
 {% endfor %}</ul>
 
-- {{ about.documentarians | round | int }}% of attendees write or manage documentation. Programmers and developer relations roles are {{ about.engineering }}% between them, so this is a documentation audience, not a developer one.
 - Roughly 1 in 5 attendees holds a manager-level role: documentation managers, product and project managers, directors and team leads.
+- {{ about.documentarians | round | int }}% of attendees write or manage documentation. Programmers and developer relations roles are {{ about.engineering }}% between them, so this is a documentation audience, not a developer one.
 - Half the room is new each year. {{ about.first_time }}% of our Portland 2026 attendees had never been to a Write the Docs conference, so two years of sponsorship reach two largely different audiences.
 - Attendees come to us through our own channels. 20% of them first heard about the conference in our Slack, and 17% each through our newsletter and website.
 - Oregon, Washington and California are 42% of the room, and 13% of attendees travel from outside the US.
