@@ -9,19 +9,28 @@ dependencies = [
     "ablog",
     "PyYAML",
     "pytz",
-    "csvkit",
-    "yamllint",
     "sphinxcontrib-datatemplates",
-    "urllib3",
     "yamale",
     "markdown",
     "ruamel.yaml",
     "lxml",
     "sphinxemoji",
-    "Werkzeug>=2",
     "sphinx-notfound-page",
     "sphinxext-opengraph",
+    # C stemmer that snowballstemmer picks up automatically; speeds up building the search index.
+    "pystemmer>=3.0.0",
+]
+
+# Only needed by the helper scripts in docs/_scripts/, not by the site build.
+# Read the Docs runs a plain `uv sync`, which skips this group; install it
+# locally with `uv sync --group scripts`.
+[dependency-groups]
+scripts = [
+    "csvkit",
     "matplotlib",
+    "urllib3",
+    "Werkzeug>=2",
+    "yamllint",
 ]
 
 [tool.uv]
