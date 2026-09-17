@@ -6,8 +6,6 @@ banner: _static/conf/images/headers/2026/prospectus.jpg
 
 # Sponsorship prospectus
 
-## Introduction
-
 Welcome to the Write the Docs {{ city }} {{ year }} sponsorship prospectus. We're excited to work with the organizations in our community to build the best documentation conference in {{ year }}.
 
 Write the Docs {{ city }} is a **three day conference** held on {{ date.short }} focusing on documentation systems, tech writing theory, and information delivery. We expect {{ about.attendees }} attendees at the conference this year.
@@ -301,7 +299,11 @@ By supporting a Write the Docs event, your company will gain visibility and cred
 
 We work hard to keep ticket prices affordable for a broad range of attendees. Your sponsorship makes it possible for all sorts of documentarians to attend our events, whether they're a freelancer, a student or out of work. Becoming a sponsor demonstrates your commitment to and support of good documentation, and the people who build it.
 
-## No attendee information is shared with sponsors
+## How we work with sponsors
+
+Come prepared to engage with our community, and to learn just as much as you teach. Engage with our event as attendees as well as other sponsors. Send technical staff who can chat with people on the interesting things your company is doing, and get value from the vast amount of insight in the room. We do have some decision makers in the room, but soft sells will work better than hard sales in the environment we strive for.
+
+Sponsor booths are set up in the main hallway, outside the auditorium.
 
 **We do not share any attendee information with sponsors.** As part of our sponsorships, we allow sponsors to send messages to attendees, but we do not share any personal information about attendees.
 
