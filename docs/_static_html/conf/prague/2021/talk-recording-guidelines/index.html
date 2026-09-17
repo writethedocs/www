@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <meta name="description" content="A conference for tech writers, documentarians, and all those who write the docs.">
+        
+
+        <meta name="author" content="Write the Docs">
+        <meta name="ROBOTS" content="ALL">
+
+        <!-- Open Graph protocol -->
+        <meta property="og:type" content="conference">
+        <meta property="og:url" content="http://www.writethedocs.org">
+        <meta property="og:image" content="https://www.writethedocs.org/_static/img/stickers/sticker-wtd-colors.png">
+        <!-- /Open Graph protocol -->
+
+        <link rel="apple-touch-icon" sizes="57x57" href="../../../../_static/favicon/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="../../../../_static/favicon/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="../../../../_static/favicon/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="../../../../_static/favicon/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="../../../../_static/favicon/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="../../../../_static/favicon/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="../../../../_static/favicon/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="../../../../_static/favicon/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="../../../../_static/favicon/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="../../../../_static/favicon/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="../../../../_static/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="../../../../_static/favicon/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="../../../../_static/favicon/favicon-16x16.png">
+        <link rel="manifest" href="../../../../_static/favicon/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+
+        <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,400,700" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet">
+        <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet">
+        <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.2.0/aos.css" />
+        <link rel="stylesheet" href="../../../../_static/conf/css/main-2021.min.css" type="text/css">
+
+        <!-- things that change -->
+        
+        <meta property="og:site_name" content="Write the Docs  Prague 2021">
+        <meta name="dc.language" content="en">
+        <meta name="geo.placename" content="Prague, Europe">
+        
+
+        <title>
+        
+        Guidelines for recording talks - Write the Docs   Prague 2021
+        
+        </title>
+
+        
+<style>
+.page-content h1 {
+    display: none;
+}
+</style>
+
+
+    </head>
+    <body>
+
+    
+<div class="header">
+        <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar="offset: -18px">
+            <div class="uk-navbar-left">
+                <div class="header-logo uk-visible@s">
+                    <a href="../">
+                        Write<br>
+                        the<br>
+                        Docs<br>
+                        
+                        <em>Prague</em>
+                        <br><em style="top: -16px;">2021</em>
+                    </a>
+                </div>
+            </div>
+            <div class="uk-navbar-right">
+                <button class="uk-navbar-toggle uk-hidden@s"  type="button" uk-navbar-toggle-icon uk-toggle="target: #offcanvas-nav"></button>
+                <div id="offcanvas-nav" uk-offcanvas="overlay: true">
+                    <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+                            <div class="menu-logo">
+                                    Write<br>
+                                    the<br>
+                                    Docs<br>
+                                    
+                                    <em>Prague</em>
+                                    <em style="top: -16px;">2021</em>
+                                </div>
+                              
+                                             <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
+                  <li><a href="../">Home</a></li>
+                  <li><a href="../news/">News</a></li>
+                  <li class="uk-parent">
+                      <a href="../schedule/">Program</a>
+                      <ul class="uk-nav-sub">
+                          
+                          <li><a href="../speakers/">Speakers</a></li>
+                          <li><a href="../schedule/">Schedule</a></li>
+                          <li><a href="../lightning-talks/">Lightning Talks</a></li>
+                          <li><a href="../unconference/">Unconference</a></li>
+                          <li><a href="../job-fair/">Job Fair</a></li>
+                          
+                          <li><a href="../writing-day/">Writing Day</a></li>
+                          
+                          
+                          
+                          
+                      </ul>
+                  </li>
+                  <!--
+                  <li class="uk-parent">
+                      <a href="../visiting/">Visit</a>
+                      <ul class="uk-nav-sub">
+                          <li><a href="../visiting/">Prague</a></li>
+                          <li><a href="../venue/">Venue</a></li>
+                      </ul>
+                  </li>
+                  -->
+                  <li class="uk-parent">
+                      <a href="../about/">About</a>
+                      <ul class="uk-nav-sub">
+                          <li><a href="../about/">Overview</a></li>
+                          <li><a href="../press-kit/">Press Kit</a></li>
+                          <li><a href="../convince-your-manager/">Convince Your Manager</a></li>
+                          <li><a href="../welcome-wagon/">Welcome Wagon</a></li>
+                          <li><a href="../team/">Meet the Team</a></li>
+                          <li><a href="../speaking-tips/">Speaking Tips</a></li>
+                          <li><a href="../../../">Past Events</a></li>
+                          <li><a href="../../../../code-of-conduct/">Code of Conduct</a></li>
+                          <li><a href="../contact/">Contact</a></li>
+                      </ul>
+                  </li>
+                  <li class="uk-parent">
+                    <a href="../tickets/">Tickets</a>
+                    <ul class="uk-nav-sub">
+                        
+                        <li><a href="../opportunity-grants/">Opportunity Grants</a></li>
+
+                    </ul>
+                  </li>
+                  <li class="uk-parent">
+                      <a href="../sponsors/">Sponsors</a>
+                      <ul class="uk-nav-sub">
+                          <li><a href="../sponsors/">Our Sponsors</a></li>
+                          
+                            <li><a href="../sponsors/prospectus/">Prospectus</a></li>
+                          
+                      </ul>
+                  </li>
+                  
+                </ul>
+                             
+                    </div>
+                </div>
+             
+             
+                <ul class="uk-nav uk-visible@s">
+                        <li><a href="../news/">News</a></li>
+                        <li>
+                          <ul class="uk-navbar-nav">
+                              <li>
+                                  <a href="../schedule/">Program</a>
+                                  <div class="uk-navbar-dropdown">
+                                      <ul class="uk-nav uk-navbar-dropdown-nav">
+                                          
+                                          
+                                          <li><a href="../speakers/">Speakers</a></li>
+                                          
+                                          <li><a href="../schedule/">Schedule</a></li>
+                                          <li><a href="../lightning-talks/">Lightning Talks</a></li>
+                                          <li><a href="../unconference/">Unconference</a></li>
+                                          <li><a href="../job-fair/">Job Fair</a></li>
+                                          
+                                          <li><a href="../writing-day/">Writing Day</a></li>
+                                          
+                                          
+                                          
+                                          
+                                      </ul>
+                                  </div>
+                              </li>
+                          </ul>
+                        </li><!--- Parent element with it's children -->
+                        <!-- No visiting details this year
+                        <li>
+                          <ul class="uk-navbar-nav">
+                              <li>
+                                  <a href="../visiting/">Visiting</a>
+                                  <div class="uk-navbar-dropdown">
+                                      <ul class="uk-nav uk-navbar-dropdown-nav">
+                                          <li><a href="../visiting/">Prague</a></li>
+                                          <li><a href="../venue/">Venue</a></li>
+                                      </ul>
+                                  </div>
+                              </li>
+                          </ul>
+                        </li> -->
+                        <!--- Parent element with it's children -->
+                        <li>
+                          <ul class="uk-navbar-nav">
+                              <li>
+                                  <a href="../about/">About</a>
+                                  <div class="uk-navbar-dropdown">
+                                      <ul class="uk-nav uk-navbar-dropdown-nav">
+                                          <li><a href="../about/">Overview</a></li>
+                                          <li><a href="../press-kit/">Press Kit</a></li>
+                                          <li><a href="../convince-your-manager/">Convince Your Manager</a></li>
+                                          <li><a href="../welcome-wagon/">Welcome Wagon</a></li>
+                                          <li><a href="../team/">Meet the Team</a></li>
+                                          
+                                          <li><a href="../../../">Past Events</a></li>
+                                          <li><a href="../../../../code-of-conduct/">Code of Conduct</a></li>
+                                          <li><a href="../contact/">Contact</a></li>
+
+                                      </ul>
+                                  </div>
+                              </li>
+                          </ul>
+                        </li><!--- Parent element with it's children -->
+                        <li>
+                             <ul class="uk-navbar-nav">
+                                <li>
+                                    <a href="../tickets/">Tickets</a>
+                                    <div class="uk-navbar-dropdown">
+                                        <ul class="uk-nav uk-navbar-dropdown-nav">
+                                            
+                                            <li><a href="../opportunity-grants/">Opportunity Grants</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <ul class="uk-navbar-nav">
+                                <li>
+                                    <a href="../sponsors/">Sponsors</a>
+                                    <div class="uk-navbar-dropdown">
+                                        <ul class="uk-nav uk-navbar-dropdown-nav">
+                                            <li><a href="../sponsors/">Our Sponsors</a></li>
+                                            
+                                              <li><a href="../sponsors/prospectus/">Prospectus</a></li>
+                                            
+                                        </ul>
+                                    </div>
+                                </li>
+                            </ul>
+                          </li><!--- Parent element with it's children -->
+
+                          
+                </ul>
+             
+            </div>
+        </nav>
+
+    </div><!-- end header -->
+    <div class="mobile-post-header uk-hidden@s">
+        <div class="header-logo">
+                <a href="../">
+                    Write<br>
+                    the<br>
+                    Docs<br>
+                    
+                    <em>Prague</em>
+                </a>
+        </div>
+    </div><!-- end post header -->
+
+    
+    <div class="page-banner" style="background-image: url(../../../../_static/conf/images/headers/prague-group.png);">
+    
+        <div class="uk-container">
+            <h1>Guidelines for recording talks</h1>
+        </div>
+    </div>
+    <!-- end page-banner -->
+
+  
+    <div class="page-content" role="main">
+        <div class="uk-container">
+                
+                <section id="guidelines-for-recording-talks">
+<h1>Guidelines for recording talks<a class="headerlink" href="#guidelines-for-recording-talks" title="Link to this heading">¶</a></h1>
+<p>This page lists the requirements and best practices for recording your talk in advance, so that we can maintain consistent quality and streaming stability across all talks.</p>
+<p>Since we are aware that not everyone is experienced or comfortable with recording at home, we’re happy to share some guidelines and recommendations for creating the best talk video possible.</p>
+<p>If you don’t feel comfortable recording at all, you have the option to schedule a “private stream” session with our video producer, where you can present your talk live over video conference, and they will record your camera and slides for later processing. Please email us to request a private stream session.</p>
+<p>All talks are going to be processed and uploaded in advance, so it’s especially critical that you complete your recording on time! Please email us if you have any questions.</p>
+<p>All visual and audio content (including videos, room background, and slides) must adhere to the Write the Docs Code of Conduct.</p>
+<p class="rubric">Video requirements</p>
+<ul class="simple">
+<li><p>Duration: 30min (+- a few minutes is ok)</p></li>
+<li><p>Single video file without edits</p></li>
+<li><p>No effects, filters, or post-processing needed</p></li>
+<li><p>No subtitles needed</p></li>
+<li><p>Resolution: Minimum 720p, ideally 1080p (4K optional but it will be compressed later)</p></li>
+<li><p>Encoding: MOV, MP4 (h.264 or similar)</p></li>
+<li><p>Bitrate: 5-8kbps (default for most HD videos)</p></li>
+<li><p>Webcams or external cameras both work, as long as they adhere to quality guidelines</p></li>
+<li><p>Slides and video resolution must be 16:9 aspect ratio</p></li>
+<li><p>Embedded videos are OK, ideally played from a local drive</p></li>
+</ul>
+<p class="rubric">Audio requirements</p>
+<ul class="simple">
+<li><p>Clean audio track without background noise</p></li>
+<li><p>No cutting required if recording a single file</p></li>
+<li><p>No effects, filters, or post-processing needed</p></li>
+<li><p>Encoding: MP3, FLAC, WAV</p></li>
+<li><p>Quality: Minimum 44.1Hz (default for most formats)</p></li>
+<li><p>Bitrate: Minimum 16kbps (default for most formats)</p></li>
+<li><p>Built-in laptop microphones or external microphones both work</p></li>
+<li><p>Audio can be in a separate file or as a part of the video file, as long as you record them at the same time so that they can be synced later</p></li>
+</ul>
+<p class="rubric">Recommended software</p>
+<p>These recommendations are for software that we know and trust, but you are welcome to use your own software if it provides both camera and slides recording (i.e. Camtasia, BlueJeans, etc). Email us if you’re unsure whether your software qualifies.</p>
+<p>If you choose to stream your talk privately with the video producer, you will be sent specific installation instructions for the software that they will be using to record your talk.</p>
+<p class="rubric">(Preferred) Bart at work recording studio</p>
+<p>Hosted directly by our <a class="reference external" href="https://www.bartatwork.com">videographer Bart at Work</a>, with an integrated demo video.</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.bartatwork.com/recorder.html">Recording studio</a></p></li>
+</ul>
+<p class="rubric">Panopto Record</p>
+<p>Features:</p>
+<ul class="simple">
+<li><p>Free browser app</p></li>
+<li><p>Records camera and slides separately</p></li>
+<li><p>Flexible picture-in-picture</p></li>
+<li><p>No account registration required</p></li>
+</ul>
+<p><strong>How to Record on Panopto:</strong></p>
+<ol class="arabic">
+<li><p>Go to <a class="reference external" href="https://www.panopto.com/record/">Panopto Record</a>.</p></li>
+<li><p>Click on the <strong>gear icon</strong> in the bottom right corner.</p>
+<img alt="../../../../_frozen-images/talk-recording-gear.png" src="../../../../_frozen-images/talk-recording-gear.png" />
+</li>
+<li><p>Under <strong>Recording options</strong>, select the <strong>HD</strong> option, and check the <strong>Enable  5 second countdown</strong> box.</p></li>
+<li><p>Under <strong>Arrangement</strong>, select the <strong>Show as side by side</strong> option.</p></li>
+<li><p>Under <strong>Arrangement</strong>, select the <strong>Show as side by side</strong> option.</p></li>
+<li><p>Under <strong>Background</strong>, select <strong>Off</strong>.</p></li>
+<li><p>Under <strong>Smart Camera</strong>, select <strong>1 person</strong> (unless you have a co-presenter :-p).</p></li>
+<li><p>Click on the gear icon to close it</p></li>
+<li><p>Click the <strong>box with plus symbol</strong> icon in the top left to share your screen.</p>
+<img alt="../../../../_frozen-images/talk-recording-share.png" src="../../../../_frozen-images/talk-recording-share.png" />
+</li>
+<li><p>Select your presentation (which should be in presenter mode already). If you are using Google Slides, it is recommended to select the <strong>Chrome Tab</strong> and then select the tab with your Google Slide deck.</p></li>
+<li><p>Click <strong>Share</strong>.</p></li>
+<li><p>If your video and mic is not on or correctly set, click the <strong>microphone</strong> and <strong>video camera</strong> <strong>icons</strong> and ensure they are correctly set to use the correct device.</p></li>
+<li><p>When you’re ready to record, press the <strong>red record button</strong>. A timer will count down from 5 seconds.</p></li>
+<li><p>Wait 30 seconds or so while the recording is on, and then start presenting your talk (you can navigate away or switch to your presenter notes - this will not be recorded).</p></li>
+<li><p>When your talk is finished, wait 30 seconds or so, then press the <strong>red stop button</strong> to stop recording. This ensures your video has a buffer before and after you talk and the video producer can trim the video more precisely.</p></li>
+<li><p>In the field below your recording, rename your file (the default is set to [Day Month Date Year Time]).</p>
+<img alt="../../../../_frozen-images/talk-recording-rename.png" src="../../../../_frozen-images/talk-recording-rename.png" />
+</li>
+<li><p>Click the <strong>download</strong> button, and a WebM file will begin downloading.</p>
+<img alt="../../../../_frozen-images/talk-recording-download.png" src="../../../../_frozen-images/talk-recording-download.png" />
+</li>
+<li><p><strong>Send the WebM file</strong> to your conference organizers.</p></li>
+</ol>
+<p class="rubric">Other recording tools</p>
+<p>In addition to Panopto, you can use the following tools to record your talks:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.loom.com/">Loom</a></p>
+<ul>
+<li><p>Free desktop app</p></li>
+<li><p>Fixed picture-in-picture</p></li>
+<li><p>Loom watermark (for free accounts)</p></li>
+</ul>
+</li>
+<li><p><a class="reference external" href="https://obsproject.com/">Open Broadcast Software (OBS)</a></p>
+<ul>
+<li><p>Free open-source desktop app</p></li>
+<li><p>Record locally to hard drive</p></li>
+<li><p>Fully configurable (settings and picture-in-picture)</p></li>
+</ul>
+</li>
+</ul>
+<p class="rubric">Tips &amp; tricks</p>
+<ul class="simple">
+<li><p>Since home recordings are more flexible than stage talks, we encourage you to set up your private stage in an area where you feel comfortable.</p></li>
+<li><p>Your background wall can be blank and clean, or fun and exciting! We’d love to see your personality as the backdrop to your talk. Avoid micro-patterns in both background and clothing (tiny checkers, polkadots, stripes)</p></li>
+<li><p>Make sure that you can close the door of the room where you are recording, to reduce background noise as much as possible. No household members allowed!</p></li>
+<li><p>When you prepare your slides, make sure that important content isn’t hidden by the camera picture-in-picture.</p></li>
+<li><p>Make sure that your camera doesn’t cut off the top of your head, and that there’s enough space around your head (but not too much, we don’t want you to be too far away either).</p></li>
+<li><p>Make sure that your microphone captures your voice with clarity:
+- If you’re using a headset microphone, make sure it’s not too close to your mouth so that you won’t end up with poofs and crunchies in the audio.
+-  If you’re using a built-in laptop microphone, make sure you are not too far from the laptop so that your voice is loud enough.</p></li>
+<li><p>Test, test, test your recording before you dive in! We recommend doing a test recording of 2-5 minutes, stopping the recording, and watching it before you record the entire talk. If your test video is not behaving nicely, feel free to share the file with us and we’ll be happy to provide feedback.</p></li>
+<li><p>While you are recording the talk, if you run into a problem with your narration but you don’t want to stop recording, we can edit it later! Take a breath, repeat the last 2-3 sentences, and when you send us the video file please write down time markers of places where edits are needed.</p></li>
+<li><p>Don’t forget to prepare a list of technical terms for the live-captions! This should be submitted along with the video file.</p></li>
+<li><p>If you want additional tips and tricks, check out this great video from our friends at PyCon Australia: <a class="reference external" href="https://youtu.be/C1TBqdULp4E">https://youtu.be/C1TBqdULp4E</a></p></li>
+</ul>
+</section>
+
+              
+        </div>
+    </div>
+  
+
+
+
+    <div class="footer-head">
+        <div class="uk-container">
+        
+         
+        
+        </div>
+    </div>
+
+    
+    
+    <div class="sponsors-footer">
+        <div class="uk-container">
+        <h2 class="uk-first-column"><a href="/conf/prague/2021/sponsors/">Sponsors</a></h2>
+            <!-- Sponsor include for all 2020+ conferences -->
+
+<div class="sponsors">
+
+  
+
+  
+
+  
+  <div class="silver-sponsors">
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="redhat-new">
+    
+      <a href="https://www.redhat.com/en">
+        <img src=/_static/img/sponsors/redhat-new.png style="max-width: 300px;" />
+      </a>
+    </div>
+      
+    
+  </div>
+  
+
+  
+  <div class="bronze-sponsors">
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="peopletext">
+    
+      <a href="https://www.people-text.de/en/home-en.html">
+        <img src=/_static/img/sponsors/peopletext.png style="width: 200px;" />
+      </a>
+    </div>
+      
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="knowledgeowl">
+    
+      <a href="https://www.knowledgeowl.com">
+        <img src=/_static/img/sponsors/knowledgeowl.png style="width: 250px;" />
+      </a>
+    </div>
+      
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="jetbrains">
+    
+      <a href="https://www.jetbrains.com/">
+        <img src=/_static/img/sponsors/jetbrains.png style="width: 200px;" />
+      </a>
+    </div>
+      
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="openwebdocs-new">
+    
+      <a href="https://opencollective.com/open-web-docs">
+        <img src=/_static/img/sponsors/openwebdocs-new.svg style="width: 150px;" />
+      </a>
+    </div>
+      
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="aiven">
+    
+      <a href="https://aiven.io/">
+        <img src=/_static/img/sponsors/aiven.png style="width: 200px;" />
+      </a>
+    </div>
+      
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="mdn">
+    
+      <a href="https://developer.mozilla.org/en-US/">
+        <img src=/_static/img/sponsors/mdn.png style="width: 200px;" />
+      </a>
+    </div>
+      
+    
+  </div> <!-- end bronze -->
+  
+
+  
+
+</div><!-- end sponsors section -->
+            
+<div class="sponsors">
+  <div class="community-sponsors">
+    
+    <div class="uk-width-1-2@s">
+      <a href="http://www.bartatwork.com">
+        <img src=/_static/img/sponsors/bart.png style="max-width: 150px;" />
+      </a>
+    </div>
+    
+    <div class="uk-width-1-2@s">
+      <a href="http://techwriter.pl">
+        <img src=/_static/img/sponsors/techwriter-pl.png style="max-width: 150px;" />
+      </a>
+    </div>
+    
+  </div><!-- end community sponsors section -->
+</div><!-- end sponsors section -->
+
+
+
+            <div class="learn-more">
+                <a class="uk-align-right" href="/conf/prague/2021/sponsors/prospectus/">Become a sponsor</a>
+            </div>
+        </div>
+    </div>
+    
+
+    <footer >
+        <div class="footer-padding"></div>
+        <div class="uk-container">
+            <div class="footer-content">
+                <div class="footer-social-section">
+                    <div class="footer-logo">
+                    
+                            Write<br>
+                            the<br>
+                            Docs<br>
+                            
+                            <em>Prague</em>
+                            <br><em style="top: -16px;">2021</em>
+                    
+                    </div>
+
+                    <div class="footer-icon-list">
+                        <a href="https://github.com/writethedocs">
+                            <img src="../../../../_static/conf/images/icons/github-footer-white.svg" alt="GitHub">
+                        </a>
+                        <a href="https://twitter.com/writethedocs">
+                            <img src="../../../../_static/conf/images/icons/twitter-footer-white.svg" alt="Twitter">
+                        </a>
+                        <a href="https://www.flickr.com/photos/writethedocs/">
+                            <img src="../../../../_static/conf/images/icons/flickr-footer-white.svg" alt="Flickr">
+                        </a>
+                        <a href="https://www.writethedocs.org/slack/">
+                            <img src="../../../../_static/conf/images/icons/slack-footer-white.svg" alt="Slack">
+                        </a>
+                    </div><!-- end footer icons list of  links -->
+                </div> <!-- end of footer social section -->
+
+                <ul>
+                    <li>© 2021 Write the Docs</li>
+                    <li>|</li>
+                    <li><a href="/code-of-conduct/">Code of Conduct</a></li>
+                    <li>|</li>
+                    <li><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"></a></li>
+                </ul>
+
+            </div><!-- end of footer content  -->
+            <div class="footer-pics">
+                <div>
+                    <img src="../../../../_static/conf/images/pics/ft-image-01.jpg" alt="" >
+                </div>
+                <div>
+                    <img src="../../../../_static/conf/images/pics/ft-image-02.jpg" alt="" >
+                </div>
+                <div>
+                    <img src="../../../../_static/conf/images/pics/ft-image-04.jpg" alt="" >
+                </div>
+                <div>
+                    <img src="../../../../_static/conf/images/pics/ft-image-03.jpg" alt="" >
+                </div>
+            </div>
+        </div>
+    </footer><!-- end footer -->
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+        <!-- Animate on scroll library -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.2.0/aos.js"></script>
+
+        <!--- Slick Carousel -->
+
+        <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+
+        <script type="text/javascript">
+            AOS.init({
+                duration: 1200
+            });
+        </script>
+
+        <!-- UIkit JS -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.16.22/js/uikit.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.16.22/js/uikit-icons.min.js"></script>
+    </body>
+</html>

@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="author" content="Write the Docs">
+        <meta name="ROBOTS" content="ALL">
+
+        <link rel="apple-touch-icon" sizes="57x57" href="../../../../_static/favicon/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="../../../../_static/favicon/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="../../../../_static/favicon/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="../../../../_static/favicon/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="../../../../_static/favicon/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="../../../../_static/favicon/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="../../../../_static/favicon/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="../../../../_static/favicon/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="../../../../_static/favicon/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="../../../../_static/favicon/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="../../../../_static/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="../../../../_static/favicon/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="../../../../_static/favicon/favicon-16x16.png">
+
+        <link rel="manifest" href="../../../../_static/favicon/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+
+        <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,400,700" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet">
+        <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css" rel="stylesheet">
+        <link href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.2.0/aos.css" />
+        <link rel="stylesheet" href="../../../../_static/conf/css/main-2022.min.css" type="text/css">
+
+        <!-- things that change -->
+        
+        <meta property="og:site_name" content="Write the Docs  Portland 2022">
+        <meta name="dc.language" content="en">
+        <meta name="geo.placename" content="Portland, North America">
+        <!-- Open Graph protocol -->
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta property="og:title" content="Writing Day" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.writethedocs.org/conf/portland/2022/writing-day/" />
+<meta property="og:site_name" content="Write the Docs" />
+<meta property="og:description" content="Each year we run an event called the Writing Day during the conference. This event is modeled after the concept of sprints, which are common in open-source conferences. The main premise is to get a..." />
+<meta property="og:image" content="https://www.writethedocs.org/_static/logo-opengraph.png" />
+<meta property="og:image:alt" content="Write the Docs" />
+<meta name="description" content="Each year we run an event called the Writing Day during the conference. This event is modeled after the concept of sprints, which are common in open-source conferences. The main premise is to get a..." />
+<meta name="twitter:card" content="summary_large_image" />
+
+        <!-- /Open Graph protocol -->
+        
+
+        <title>
+        
+        Writing Day - Write the Docs   Portland 2022
+        
+        </title>
+
+        
+<style>
+.page-content h1 {
+    display: none;
+}
+</style>
+
+
+    </head>
+    <body>
+
+    
+<div class="header">
+        <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar="offset: -18px">
+            <div class="uk-navbar-left">
+                <div class="header-logo uk-visible@s">
+                    <a href="../">
+                        Write<br>
+                        the<br>
+                        Docs<br>
+                        
+                        <em>Portland</em>
+                        <br><em style="top: -16px;">2022</em>
+                    </a>
+                </div>
+            </div>
+            <div class="uk-navbar-right">
+                <button class="uk-navbar-toggle uk-hidden@s"  type="button" uk-navbar-toggle-icon uk-toggle="target: #offcanvas-nav"></button>
+                <div id="offcanvas-nav" uk-offcanvas="overlay: true">
+                    <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+                            <div class="menu-logo">
+                                    Write<br>
+                                    the<br>
+                                    Docs<br>
+                                    
+                                    <em>Portland</em>
+                                    <em style="top: -16px;">2022</em>
+                                </div>
+                              
+                                             <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
+                  <li><a href="../">Home</a></li>
+                  <li><a href="../news/">News</a></li>
+                  <li class="uk-parent">
+                      <a href="../schedule/">Program</a>
+                      <ul class="uk-nav-sub">
+                          
+                          <li><a href="../speakers/">Speakers</a></li>
+                          <li><a href="../schedule/">Schedule</a></li>
+                          <li><a href="../welcome-wagon/">Welcome Wagon</a></li>
+                          <li><a href="../lightning-talks/">Lightning Talks</a></li>
+                          <li><a href="../unconference/">Unconference</a></li>
+                          <li><a href="../job-fair/">Job Fair</a></li>
+                          
+                          <li><a href="#">Writing Day</a></li>
+                          
+                          
+                          
+                          
+                      </ul>
+                  </li>
+                  <!--
+                  <li class="uk-parent">
+                      <a href="../visiting/">Visit</a>
+                      <ul class="uk-nav-sub">
+                          <li><a href="../visiting/">Portland</a></li>
+                          <li><a href="../venue/">Venue</a></li>
+                      </ul>
+                  </li>
+                  -->
+
+                  <li class="uk-parent">
+                    <a href="../tickets/">Tickets</a>
+                    <ul class="uk-nav-sub">
+                        
+                        <li><a href="../opportunity-grants/">Opportunity Grants</a></li>
+                        <li><a href="../convince-your-manager/">Convince Your Manager</a></li>
+                    </ul>
+                  </li>
+                  <li><a href="../welcome-wagon/">Guide</a></li>
+                  <li class="uk-parent">
+                      <a href="../about/">About</a>
+                      <ul class="uk-nav-sub">
+                          <li><a href="../about/">Overview</a></li>
+                          <li><a href="../press-kit/">Press Kit</a></li>
+                          <li><a href="../team/">Meet the Team</a></li>
+                          <li><a href="../speaking-tips/">Speaking Tips</a></li>
+                          <li><a href="../../../">Past Events</a></li>
+                          <li><a href="../../../../code-of-conduct/">Code of Conduct</a></li>
+                          <li><a href="../contact/">Contact</a></li>
+                      </ul>
+                  </li>
+                  <li class="uk-parent">
+                      <a href="../sponsors/">Sponsors</a>
+                      <ul class="uk-nav-sub">
+                          <li><a href="../sponsors/">Our Sponsors</a></li>
+                          
+                            <li><a href="../sponsors/prospectus/">Prospectus</a></li>
+                          
+                      </ul>
+                  </li>
+                  
+                </ul>
+                             
+                    </div>
+                </div>
+             
+             
+                <ul class="uk-nav uk-visible@s">
+                        <li><a href="../news/">News</a></li>
+                        <li>
+                          <ul class="uk-navbar-nav">
+                              <li>
+                                  <a href="../schedule/">Program</a>
+                                  <div class="uk-navbar-dropdown">
+                                      <ul class="uk-nav uk-navbar-dropdown-nav">
+                                          
+                                          
+                                          <li><a href="../speakers/">Speakers</a></li>
+                                          
+                                          <li><a href="../schedule/">Schedule</a></li>
+                                          <li><a href="../welcome-wagon/">Welcome Wagon</a></li>
+                                          <li><a href="../lightning-talks/">Lightning Talks</a></li>
+                                          <li><a href="../unconference/">Unconference</a></li>
+                                          <li><a href="../job-fair/">Job Fair</a></li>
+                                          
+                                          <li><a href="#">Writing Day</a></li>
+                                          
+                                          
+                                          
+                                          
+                                      </ul>
+                                  </div>
+                              </li>
+                          </ul>
+                        </li><!--- Parent element with it's children -->
+                        <!-- No visiting details this year
+                        <li>
+                          <ul class="uk-navbar-nav">
+                              <li>
+                                  <a href="../visiting/">Visiting</a>
+                                  <div class="uk-navbar-dropdown">
+                                      <ul class="uk-nav uk-navbar-dropdown-nav">
+                                          <li><a href="../visiting/">Portland</a></li>
+                                          <li><a href="../venue/">Venue</a></li>
+                                      </ul>
+                                  </div>
+                              </li>
+                          </ul>
+                        </li> -->
+                        <!--- Parent element with it's children -->
+                        <li><a href="../welcome-wagon/">Guide</a></li>
+                        <li>
+                             <ul class="uk-navbar-nav">
+                                <li>
+                                    <a href="../tickets/">Tickets</a>
+                                    <div class="uk-navbar-dropdown">
+                                        <ul class="uk-nav uk-navbar-dropdown-nav">
+                                            
+                                            <li><a href="../opportunity-grants/">Opportunity Grants</a></li>
+                                            <li><a href="../convince-your-manager/">Convince Your Manager</a></li>
+                                        </ul>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li>
+                          <ul class="uk-navbar-nav">
+                              <li>
+                                  <a href="../about/">About</a>
+                                  <div class="uk-navbar-dropdown">
+                                      <ul class="uk-nav uk-navbar-dropdown-nav">
+                                          <li><a href="../about/">Overview</a></li>
+                                          <li><a href="../press-kit/">Press Kit</a></li>
+                                          <li><a href="../team/">Meet the Team</a></li>
+                                          
+                                          <li><a href="../../../">Past Events</a></li>
+                                          <li><a href="../../../../code-of-conduct/">Code of Conduct</a></li>
+                                          <li><a href="../contact/">Contact</a></li>
+
+                                      </ul>
+                                  </div>
+                              </li>
+                          </ul>
+                        </li><!--- Parent element with it's children -->
+
+                        <li>
+                            <ul class="uk-navbar-nav">
+                                <li>
+                                    <a href="../sponsors/">Sponsors</a>
+                                    <div class="uk-navbar-dropdown">
+                                        <ul class="uk-nav uk-navbar-dropdown-nav">
+                                            <li><a href="../sponsors/">Our Sponsors</a></li>
+                                            
+                                              <li><a href="../sponsors/prospectus/">Prospectus</a></li>
+                                            
+                                        </ul>
+                                    </div>
+                                </li>
+                            </ul>
+                          </li><!--- Parent element with it's children -->
+
+                          
+                </ul>
+             
+            </div>
+        </nav>
+
+    </div><!-- end header -->
+    <div class="mobile-post-header uk-hidden@s">
+        <div class="header-logo">
+                <a href="../">
+                    Write<br>
+                    the<br>
+                    Docs<br>
+                    
+                    <em>Portland</em>
+                </a>
+        </div>
+    </div><!-- end post header -->
+
+    
+    <div class="page-banner" style="background-image: url(../../../../_static/conf/images/headers/writing-day.png);">
+    
+        <div class="uk-container">
+            <h1>Writing Day</h1>
+        </div>
+    </div>
+    <!-- end page-banner -->
+
+  
+    <div class="page-content" role="main">
+        <div class="uk-container">
+                
+                <section id="writing-day">
+<h1>Writing Day<a class="headerlink" href="#writing-day" title="Link to this heading">¶</a></h1>
+<p>Each year we run an event called the Writing Day during the conference. This event is modeled after the concept of <a class="reference external" href="http://en.wikipedia.org/wiki/Sprint_%28software_development%29">sprints</a>, which are common in open-source conferences.
+The main premise is to get a bunch of interesting people in a room together and have them work towards shared goals.</p>
+<p>To make the most out of the Writing Day, we recommend that you either come with a project, or be ready and willing to contribute to someone else’s project.</p>
+<p>Here are some examples of projects that you might want to work on:</p>
+<ul class="simple">
+<li><p>Open source software documentation</p></li>
+<li><p>General documentation writing</p></li>
+<li><p>Best practices manual (For your company, or the world)</p></li>
+<li><p>Blog posts</p></li>
+<li><p>Tips and tricks</p></li>
+<li><p>Great works of fiction</p></li>
+<li><p>Love letters</p></li>
+<li><p>The Documentarian Manifesto</p></li>
+</ul>
+<p>You get the idea.</p>
+<p>All this adds up to a room full of smart people sharing your problems, your passion, and your goals. So be ready to learn some new things and to teach others what you know.</p>
+<p>Even if you <a class="reference external" href="http://en.wikipedia.org/wiki/Impostor_syndrome">feel</a> as though you don’t know that much, we know you have a lot to offer. Come surprise yourself with how much you can share.</p>
+<section id="documenting-a-new-project">
+<h2>Documenting a new project?<a class="headerlink" href="#documenting-a-new-project" title="Link to this heading">¶</a></h2>
+<p>Check out our <a class="reference external" href="https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/">beginners guide</a> to writing documentation.
+This should help you get started, and give you some ideas for how you can contribute to a project that you love.</p>
+</section>
+<section id="logistics">
+<h2>Logistics<a class="headerlink" href="#logistics" title="Link to this heading">¶</a></h2>
+<p>Please bring a computer or some other mechanism with which to create written words.
+We’ll be creating and editing content, so make sure that you have the tools you need to contribute.</p>
+</section>
+<section id="schedule">
+<h2>Schedule<a class="headerlink" href="#schedule" title="Link to this heading">¶</a></h2>
+<ul class="simple">
+<li><p>Date &amp; Time: <strong>Sunday, May 22, 9am-5pm Pacific Time</strong>.</p></li>
+<li><p>Location: <strong>Online conference platform</strong>.</p></li>
+</ul>
+</section>
+<section id="your-project-here">
+<h2>Your Project Here<a class="headerlink" href="#your-project-here" title="Link to this heading">¶</a></h2>
+<p>Add your project via a <a class="reference external" href="https://github.com/writethedocs/www/blob/main/docs/conf/portland/2022/writing-day.rst">PR on GitHub</a> or <a class="reference external" href="mailto:portland&#37;&#52;&#48;writethedocs&#46;org">mailing us</a>! You can always reach out to us if you have any questions or concerns before signing up.</p>
+<section id="open-web-docs">
+<h3>Open Web Docs<a class="headerlink" href="#open-web-docs" title="Link to this heading">¶</a></h3>
+<p><a class="reference external" href="https://openwebdocs.org">Open Web Docs</a> was created to ensure the long-term health of web platform documentation independent of any single vendor or organization. It’s supported by various organizations and individuals, and employs technical writers who create and maintain open documentation for the web platform. At the moment we’re focused on maintaining and improving <a class="reference external" href="https://developer.mozilla.org/">MDN Web Docs</a>.</p>
+<p>At the Writing Day we’ll be working on MDN Web Docs and we’d love you to join us. Here are some of the projects we’ll be working on:</p>
+<ul class="simple">
+<li><p>Content bug fixes: we’ll bring a list of issues that are suitable for first-time contributors to MDN.</p></li>
+<li><p>Adding missing sidebars: we have a number of pages (30-100) in the Web API reference with no sidebar or with the wrong sidebar. To fix this we need to add the right macro call at the start of the page.</p></li>
+<li><p>Writing some API overview pages: on MDN we have pages that provide an overview of a particular API. At a minimum, these need to list all the objects that make up the API and link to them.</p></li>
+<li><p>Updating JavaScript code samples: many of our code samples use JavaScript features that are now considered outdated. We’d love to go through these and update them to use the modern style.</p></li>
+</ul>
+<p>The MDN content is maintained in Markdown in a GitHub repository: <a class="reference external" href="https://github.com/mdn/content">https://github.com/mdn/content</a>, and updates are made as GitHub pull requests, so to get started, you’ll need a GitHub account.</p>
+<p>However, we’ll start with a session for complete beginners about how to write a pull request for a GitHub repository.</p>
+<p>We’ll be available to help you understand exactly what’s needed for all these tasks and to help work through any problems. We’re also really interested in understanding where people have problems contributing to MDN and how we can make it easier. So if you do join us for Writing Day, please tell us about it - what worked and what didn’t, what was easy and what wasn’t - so we can improve the experience for contributors.</p>
+</section>
+<section id="solidjs">
+<h3>SolidJS<a class="headerlink" href="#solidjs" title="Link to this heading">¶</a></h3>
+<p><a class="reference external" href="https://www.solidjs.com/">Solid</a> is an open-source front-end framework for building web apps. We’ve been getting more use and attention than ever, so we formed a docs team to rework and rewrite our documentation to be as beginner-friendly and usable as possible.</p>
+<p>Solid is the perfect project to get involved in if you’re interested in open-source, web development, or just want to see what outside-the-box documentation ideas we have in store!</p>
+<p>We’re excited to meet you. Here’s what we’re up to and how you can help:</p>
+<ul class="simple">
+<li><p>We have an existing docs site, and a <a class="reference external" href="https://docs.solidjs.com/">new one</a> we’ve just started. Our goal is to restructure and rewrite the content that’s on our existing docs site, which consists of a set of <a class="reference external" href="https://www.solidjs.com/guides/getting-started/">guides</a>, an <a class="reference external" href="https://www.solidjs.com/tutorial/introduction_basics">interactive tutorial</a>, and an <a class="reference external" href="https://www.solidjs.com/docs/latest/api">API reference page.</a> We were thinking of following the Diataxis model for the new site, but we’d love your feedback on structuring our documentation.</p></li>
+<li><p>We have a <a class="reference external" href="https://docs.solidjs.com/guides/getting-started-with-solid/welcome/">new, beginner-focused tutorial!</a> The idea is for anyone with JavaScript experience to be able to use this tutorial to learn Solid. We’d love feedback on this, which you can leave with us or on our <a class="reference external" href="https://github.com/solidjs/solid-docs-next/issues">Issues</a> page on GitHub.</p></li>
+<li><p>If you see something on our <a class="reference external" href="https://docs.solidjs.com/guides/getting-started-with-solid/welcome/">new docs site</a> that you want to change and you’re familiar with GitHub, feel free to directly make a PR by clicking the Edit button at the bottom of a page.</p></li>
+<li><p>We’re looking for contributors! Whether you have no experience with web development or already use the framework, we’d love for you to join our open-source docs team and help make the <a class="reference external" href="https://2021.stateofjs.com/en-US/libraries/front-end-frameworks/">#1 satisfaction-rated framework</a> even more satisfying!</p></li>
+</ul>
+</section>
+<section id="the-good-docs-project">
+<h3>The Good Docs Project<a class="headerlink" href="#the-good-docs-project" title="Link to this heading">¶</a></h3>
+<p>The <a class="reference external" href="https://thegooddocsproject.dev/">Good Docs Project</a> educates and empowers people to create high-quality documentation by providing them with resources, best practices, and tools to enhance their documentation in open source and beyond.
+We have a fun, supportive, and encouraging community where we geek out about tech writing. First and foremost, we create documentation templates with supporting guides. We also engage in many other initiatives around docs advocacy, docs education and docs tooling.</p>
+<p>During writing day, we’d love to introduce you to a range of aspects to our project:</p>
+<ul class="simple">
+<li><p><strong>Kickoff: introduction to The Good Docs Project (9:00 - 9:50 PT)</strong> - Get to know us! Join us to hear a general overview of our community.</p></li>
+<li><p><strong>Identifying content types for templates (10:00 - 10:50 PT)</strong> - Creating templates is one of our main projects. By participating in our template brainstorming workshop, we can identify what templates we should try to provide to our users and help us build a roadmap for our future template work.</p></li>
+<li><p><strong>Docs advocacy and education (11:00 - 11:50 PT)</strong> - We publish deep thought theory, best practices and ideas about documentation within our blog. Come help us brainstorm future topics, and maybe bullet out what should be covered.</p></li>
+<li><p><strong>The Chronologue (1:00 - 1:50 PT)</strong> - We’re creating our own fake project that can be used to generate documentation examples. Come help us build both the world and the documentation for The Chronologue tool, a fictional telescope that can view astronomical events at any moment in time.</p></li>
+<li><p><strong>The Good Docs Project Q&amp;A (2:15 - 2:50 PT)</strong> - Come ask us anything about what it’s really like contributing to The Good Docs Project.</p></li>
+<li><p><strong>Business case for docs (3:00 PT - 3:50 PT)</strong> - We want the perfect pitch to invent in docs. This is an early stage project. Come help us in the brainstorming and researching phase of the project.</p></li>
+<li><p><strong>API reference template review ( 4:00 - 4:50 PT)</strong> - Our API Reference Template is draft complete. Join this session to assist us in reviewing and polishing an almost complete template.</p></li>
+</ul>
+</section>
+<section id="write-the-docs">
+<h3>Write the Docs<a class="headerlink" href="#write-the-docs" title="Link to this heading">¶</a></h3>
+<p>Write the Docs is looking for volunteers to help us update some of our
+existing content. The particular volunteers for this table are focusing on
+the Meetup content, including adding information on the Quorum meetups.</p>
+<p>The issues are great starting points:</p>
+<ul>
+<li><p><a class="reference external" href="https://github.com/writethedocs/www/issues/1732">Update the “Starting a Meetup” page</a></p></li>
+<li><p><a class="reference external" href="https://github.com/writethedocs/www/issues/1730">Migrate WTD Quorum README to the Write the Docs website</a></p></li>
+<li><p><a class="reference external" href="https://github.com/writethedocs/www/issues/1734">Update the Meetups and Covid page CDC urls</a></p></li>
+<li><p><a class="reference external" href="https://github.com/writethedocs/www/issues/1731">Adapt the Quorum virtual event guide for general meetup use</a>, pages include:</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>Organizing a Quorum Meetup</p></li>
+<li><p>Meetup roles</p></li>
+<li><p>Zoom coordinator guide</p></li>
+<li><p>Emcee JavaScript</p></li>
+<li><p>Running a tech check</p></li>
+<li><p><a class="reference external" href="https://github.com/writethedocs/www/issues/426">How can presenters get in touch with organizers</a> (older ticket that applies to this topic)</p></li>
+</ul>
+</div></blockquote>
+</li>
+<li><p><a class="reference external" href="https://github.com/writethedocs/www/issues/912">Add Meetup event attendance guidance</a></p></li>
+<li><p><a class="reference external" href="https://github.com/writethedocs/www/issues/1093">Add video guidance and posting options</a></p></li>
+<li><p><a class="reference external" href="https://github.com/writethedocs/www/issues/1735">Update Meetup FAQ page</a></p></li>
+</ul>
+<p>There are other existing issues that folks can choose to work on outside of
+meetup content:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://github.com/writethedocs/www/issues/1509">Convert guide to Markdown</a></p></li>
+<li><p><a class="reference external" href="https://github.com/writethedocs/www/issues/1152">Create a contributing guide Write the Docs github</a></p></li>
+<li><p><cite>Format change suggestion for Release Notes section &lt;https://github.com/writethedocs/www/issues/1505&gt;</cite></p></li>
+</ul>
+</section>
+</section>
+<section id="during-the-conference">
+<h2>During the conference<a class="headerlink" href="#during-the-conference" title="Link to this heading">¶</a></h2>
+<p>Check out the <a class="reference internal" href="../writing-day-cheatsheet/"><span class="doc">Writing Day Cheat Sheet</span></a> for a quick reference that you can use during the conference to make the most out of Writing Day.</p>
+</section>
+</section>
+
+                
+                
+        </div>
+    </div>
+  
+
+
+
+    <div class="footer-head">
+        <div class="uk-container">
+        
+         
+        
+        </div>
+    </div>
+
+    
+    
+    <div class="sponsors-footer">
+        <div class="uk-container">
+        <h2 class="uk-first-column"><a href="/conf/portland/2022/sponsors/">Sponsors</a></h2>
+            <!-- Sponsor include for all 2020+ conferences -->
+
+<div class="sponsors">
+
+  
+
+  
+  <div class="silver-sponsors">
+    
+    <div class="uk-width-1-1 uk-width-1-1@s" id="google">
+      <a href="https://www.google.com">
+        <img src=/_static/img/sponsors/google.png style="max-width: 400px;" />
+      </a>
+    </div>
+      
+    
+  </div>
+  
+
+  
+  <div class="silver-sponsors">
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="stackblitz-svg">
+    
+      <a href="https://stackblitz.com/">
+        <img src=/_static/img/sponsors/stackblitz-svg.svg style="max-width: 300px; min-width: 200px;" />
+      </a>
+    </div>
+      
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="cncf">
+    
+      <a href="https://www.cncf.io/">
+        <img src=/_static/img/sponsors/cncf.png style="max-width: 300px; min-width: 200px;" />
+      </a>
+    </div>
+      
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="mongodb-new">
+    
+      <a href="https://www.mongodb.com/">
+        <img src=/_static/img/sponsors/mongodb-new.png style="max-width: 300px; min-width: 200px;" />
+      </a>
+    </div>
+      
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="twilio">
+    
+      <a href="https://www.twilio.com/">
+        <img src=/_static/img/sponsors/twilio.png style="max-width: 300px; min-width: 200px;" />
+      </a>
+    </div>
+      
+    
+  </div>
+  
+
+  
+  <div class="bronze-sponsors">
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="knowledgeowl">
+    
+      <a href="https://www.knowledgeowl.com">
+        <img src=/_static/img/sponsors/knowledgeowl.png style="width: 250px;" />
+      </a>
+    </div>
+      
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="livelike">
+    
+      <a href="https://livelike.com/">
+        <img src=/_static/img/sponsors/livelike.png style="width: 200px;" />
+      </a>
+    </div>
+      
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="openwebdocs-logo">
+    
+      <a href="https://opencollective.com/open-web-docs">
+        <img src=/_static/img/sponsors/openwebdocs-logo.png style="width: 150px;" />
+      </a>
+    </div>
+      
+    
+    
+    <div class="uk-width-1-1 uk-width-1-2@s" id="jetbrains">
+    
+      <a href="https://www.jetbrains.com/">
+        <img src=/_static/img/sponsors/jetbrains.png style="width: 200px;" />
+      </a>
+    </div>
+      
+    
+  </div> <!-- end bronze -->
+  
+
+  
+
+</div><!-- end sponsors section -->
+            
+
+
+            <div class="learn-more">
+                <a class="uk-align-right" href="/conf/portland/2022/sponsors/prospectus/">Become a sponsor</a>
+            </div>
+        </div>
+    </div>
+    
+
+    <footer >
+        <div class="footer-padding"></div>
+        <div class="uk-container">
+            <div class="footer-content">
+                <div class="footer-social-section">
+                    <div class="footer-logo">
+                    
+                            Write<br>
+                            the<br>
+                            Docs<br>
+                            
+                            <em>Portland</em>
+                            <br><em style="top: -16px;">2022</em>
+                    
+                    </div>
+
+                    <div class="footer-icon-list">
+                        <a href="https://github.com/writethedocs">
+                            <img src="../../../../_static/conf/images/icons/github-footer-white.svg" alt="GitHub">
+                        </a>
+                        <a href="https://twitter.com/writethedocs">
+                            <img src="../../../../_static/conf/images/icons/twitter-footer-white.svg" alt="Twitter">
+                        </a>
+                        <a href="https://www.flickr.com/photos/writethedocs/">
+                            <img src="../../../../_static/conf/images/icons/flickr-footer-white.svg" alt="Flickr">
+                        </a>
+                        <a href="https://www.writethedocs.org/slack/">
+                            <img src="../../../../_static/conf/images/icons/slack-footer-white.svg" alt="Slack">
+                        </a>
+                    </div><!-- end footer icons list of  links -->
+                </div> <!-- end of footer social section -->
+
+                <ul>
+                    <li>© 2022 Write the Docs</li>
+                    <li>|</li>
+                    <li><a href="/code-of-conduct/">Code of Conduct</a></li>
+                    <li>|</li>
+                    <li><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"></a></li>
+                </ul>
+
+            </div><!-- end of footer content  -->
+            <div class="footer-pics">
+                <div>
+                    <img src="../../../../_static/conf/images/pics/ft-image-01.jpg" alt="" >
+                </div>
+                <div>
+                    <img src="../../../../_static/conf/images/pics/ft-image-02.jpg" alt="" >
+                </div>
+                <div>
+                    <img src="../../../../_static/conf/images/pics/ft-image-04.jpg" alt="" >
+                </div>
+                <div>
+                    <img src="../../../../_static/conf/images/pics/ft-image-03.jpg" alt="" >
+                </div>
+            </div>
+        </div>
+    </footer><!-- end footer -->
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+        <!-- Animate on scroll library -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.2.0/aos.js"></script>
+
+        <!--- Slick Carousel -->
+
+        <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+
+        <script type="text/javascript">
+            AOS.init({
+                duration: 1200
+            });
+        </script>
+
+        <!-- UIkit JS -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.16.22/js/uikit.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.16.22/js/uikit-icons.min.js"></script>
+    </body>
+</html>

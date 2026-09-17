@@ -68,8 +68,10 @@ jobs:
         ruby-version: '3.4'
         bundler-cache: true
 
+    # Conferences up to 2024 are frozen HTML in _static_html, not rebuilt from
+    # source, so their internal links are not checked.
     # TODO: Look into why we need to ignore archive/tag/index
     - name: Check links
       if: success()
       run:  |
-          bundle exec htmlproofer --checks "Links,Images,Scripts,OpenGraph" --ignore-files "/404/,/2013/,/2014/,/2015/,/2016/,/2017/,/search\/index.html/,/archive\/tag\/index/" --allow-hash-href=true --enforce-https=false --ignore-missing-alt=true --disable-external=true --swap-urls "https\://www.writethedocs.org:,http\://www.writethedocs.org:" docs/_build/html
+          bundle exec htmlproofer --checks "Links,Images,Scripts,OpenGraph" --ignore-files "/404/,/2013/,/2014/,/2015/,/2016/,/2017/,/conf\/[a-z]+\/20(1[89]|2[0-4])\//,/search\/index.html/,/archive\/tag\/index/" --allow-hash-href=true --enforce-https=false --ignore-missing-alt=true --disable-external=true --swap-urls "https\://www.writethedocs.org:,http\://www.writethedocs.org:" docs/_build/html

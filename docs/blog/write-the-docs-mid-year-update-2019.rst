@@ -13,7 +13,7 @@ We're sending out a (somewhat belated :D) update to let you know about a few thi
 
 We're looking forward to seeing everyone in `Prague <http://www.writethedocs.org/conf/prague/2019/>`_ in a few days.
 If you aren't able to make it,
-check out the our experimental :doc:`livestream </conf/prague/2019/livestream>` of the event and join us in `#live-streaming` channel on Slack.
+check out the our experimental `livestream </conf/prague/2019/livestream/>`__ of the event and join us in `#live-streaming` channel on Slack.
 
 We're also getting excited about our upcoming `Australia <http://www.writethedocs.org/conf/australia/2019/>`_ conference in Sydney on November 14-15.
 The speaker list will be announced soon and the conference is coming up in a couple months,
