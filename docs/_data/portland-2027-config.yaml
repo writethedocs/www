@@ -1,0 +1,248 @@
+name: Portland
+shortcode: portland
+year: 2027
+city: Portland
+local_area: Oregon
+area: North America # European Australian
+area_adj: North American
+tz: Pacific Time  # PT until March, PST after... :/
+email: portland@writethedocs.org
+color: coral
+rgb: 234,104,82
+rgb_contrast: 117,17,0 # if the main color has sufficient contrast against white text, set this to the same value as rgb
+time_format: 12h
+
+buttons:
+  top:
+    - text: Date and ticket information
+      link: /news/welcome
+    - text: Sponsor the Conference
+      link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #   link: /cfp
+    # - text: Buy a Ticket
+    #   link: /tickets
+    # - text: See the Speakers
+    #   link: /speakers
+    # - text: See the Schedule!
+    #   link: /schedule
+    # - text: Attendee Guide
+    #   link: /attendee-guide
+    # - text: Watch the Live Stream
+    #   link: /livestream
+    # - text: Browse the photos
+    #   link_absolute: TBD
+    # - text: Watch the videos!
+    #   link_absolute: TBD
+    # - text: Conference recap
+    #   link: /news/thanks-recap
+  bottom:
+    - text: Welcome to our conference
+      link: /news/welcome
+    - text: Sponsor us
+      link: /sponsors/prospectus
+    # - text: Submit a Talk
+    #   link: /cfp
+    # - text: Buy a Ticket!
+    #   link: /tickets
+    # - text: See the Schedule
+    #   link: /schedule
+    # - text: See the Talks
+    #   link: /speakers
+    # - text: Read the Guide
+    #   link: /attendee-guide
+    # - text: Watch the Live Stream
+    #   link: /livestream
+    # - text: Browse the photos
+    #   link_absolute: TBD
+    # - text: Watch the videos!
+    #   link_absolute: TBD
+    # - text: Conference recap
+    #   link: /news/thanks-recap
+
+# Ticket prices carried over from 2026 until the 2027 prices are confirmed.
+tickets:
+  concierge:
+    price: $750
+  corporate:
+    price: $650
+  independent:
+    price: $350
+  student:
+    price: $100
+  virtual_corporate:
+    price: $175
+  virtual_independent:
+    price: $100
+  virtual_student:
+    price: $50
+
+sponsorship:
+  second_draft:  # shown as "Supporter" on the site
+    price: $3,500
+    tickets: 2
+  publisher:
+    price: $6,000
+    tickets: 4
+  patron:
+    price: $12,000
+    tickets: 6
+  keystone:
+    price: $20,000
+    tickets: 8
+  lightning_talks:
+    price: $3,500
+  opportunity_grants:
+    price: $2,000
+  extra_ticket:
+    price: $500
+  monitor_rental:
+    price: $500
+
+# Provisional dates below mirror the 2026 timeline shifted to the 2027 conference dates.
+grants:
+  url: ""
+  ends: 'February 4, 2027'
+  notification: 'February 13, 2027'
+
+shirts:
+  url: https://shirt.writethedocs.org/
+  ends: "May 31, 2027"
+
+date: # how do we handle these? human readable would be nice.
+  main: "**May 2-4, 2027**"  # Excludes Saturday hike
+  short: May 2-4, 2027
+  tickets_live: "December 2026"
+  month: May
+
+  # Conference is special for the index to show the combined conference days
+  conference:
+    event: Speaker Talks
+    date: May 3-4
+    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience.
+    icon: conference
+
+  # These are listed in the schedule
+  day_one:
+    event: Hike
+    date: May 1
+    summary: If you're in town early, join us for the Hike. Portland has excellent access to the woods right in the city.
+    icon: hike
+    dotw: Saturday
+  day_two:
+    event: Writing Day
+    date: May 2
+    summary: Kick off the conference with Writing Day and work with fellow documentarians on a project. Followed by the opening reception.
+    icon: writing
+    dotw: Sunday
+    writing_day_time: 9 AM-5 PM
+    reception_time: 5-7 PM
+  day_three:
+    event: Conference Day 1
+    date: May 3
+    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
+    dotw: Monday
+    talk_time: 9 AM-5 PM
+    unconference_time: 9:45 AM-5 PM
+    social_time: 7-9 PM
+    icon: conference
+  day_four:
+    event: Conference Day 2
+    date: May 4
+    summary: And the conference goes on! More talks and unconference today!
+    dotw: Tuesday
+    talk_time: 9 AM-4 PM
+    unconference_time: 9:45 AM-4 PM
+    icon: conversation
+  total_talk_days: 2
+
+about:
+  attendees: 400
+  social_venue: TBD
+  venue: Revolution Hall
+  venue_address: 1300 SE Stark St, Portland, Oregon 97214
+  venue_map_url: https://maps.app.goo.gl/Z38CyRjmUukr3eSL6
+  photos: TBD
+  mainroom: Main stage
+  unconfroom: Martha's, Library & Astoria room (1st floor)
+  projector_ratio: "16:9"
+
+cfp:
+  url: "https://pretalx.com/wtd-portland-2027/cfp" # Open mid November, approx 12 weeks to submit
+  ends: "January 18, 2027"                         # (Mon) 1 week, to review. It'll take a little longer to announce
+  notification: "February 1, 2027"                 # (Mon) 8 weeks to write and prepare
+  speaker_tickets_by: April 1, 2027                # Approx 3 weeks before
+  video_by: "April 8, 2027"                        # Upload date for recorded talks (remote speakers)
+  slides_by: "April 26, 2027"                      # (Mon) 1 week before
+
+unconf:
+  url: ""
+  date: "All day, Monday, May 3 and Tuesday, May 4"
+
+lightning_talks:
+  signup_url: ""
+
+qa:
+  event_id: ""
+
+writing_day:
+  url: ""
+  date: Sunday, May 2, 9 AM - 5 PM
+  project_deadline: "April 21, 2027"
+
+volunteer:
+  applications_close: "February 12"
+  schedule_signup_close: "March 26"
+
+hike:
+  date: Saturday, May 1
+  register_url: "https://ti.to/writethedocs/write-the-docs-portland-2027/with/hike-ticket"
+
+sponsors:
+  keystone: []
+  patron: []
+  publisher: []
+  second: []  # Supporter
+  first: []
+  in_kind: []
+
+
+photos:
+  default:
+    - _static/conf/images/headers/2026/unconference.jpg
+    - _static/conf/images/headers/2026/writing-day.jpg
+    - _static/conf/images/headers/2026/tickets.jpg
+  index:
+    - _static/conf/images/pics/writing-day.jpg
+    - _static/conf/images/pics/reg.jpg
+
+
+# Things that change over time, listed in order of change
+flaglanding: True
+flaghassponsors: False
+flagcfp: False
+flagticketsonsale: False
+flagsoldout: False
+flagscheduleincomplete: True
+flagspeakersannounced: False
+flagrunofshow: False
+flaghasschedule: False
+flaghasshirts: False
+flaglivestreaming: False
+flagvideos: False
+flagpostconf: False
+
+# Truthy things that don't change
+flaghasunconf: True
+flaghashike: True
+flaghasfood: True
+flaghaswritingday: True
+flaghaslightningtalks: True
+flaghassponsorexpo: True
+flaghasboat: False
+
+# Pages to be linked once refreshed for 2027
+flaghasvisiting: False
+flaghasteam: False
+flaghasattendeeguide: False
+flaghasbadgeflair: False

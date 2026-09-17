@@ -205,7 +205,7 @@
 						<polygon id="path-1_2_" class="st1" points="0,140 174,140 174,0 0,0 						"/>
 					</g>
 				</mask>
-				<path id="Fill-82" class="st9" d="M65.5,128.5h70v-98h-70V128.5z M64,130h73V29H64V130z"/>
+				<path id="Fill-82" class="st9" fill-rule="evenodd" d="M65.5,128.5h70v-98h-70V128.5z M64,130h73V29H64V130z"/>
 				<defs>
 					<filter id="Adobe_OpacityMaskFilter_2_" filterUnits="userSpaceOnUse" x="77" y="33" width="1" height="94">
 						<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>

@@ -21,15 +21,16 @@ Each conference has its own sponsorship prospectus:
    * - :doc:`Australia 2026 </conf/australia/2026/sponsors/prospectus>`
      - December 3-4, 2026 in Melbourne, Australia
      - From **AU$1,500**
-   * - Portland 2027
+   * - :doc:`Portland 2027 </conf/portland/2027/sponsors/prospectus>`
      - May 2-4, 2027 in Portland, Oregon
-     - Coming soon
+     - From **$3,500**
    * - Berlin 2027
      - Dates to be announced, in Berlin, Germany
      - Coming soon
 
 **Planning your 2027 budget?**
-Email `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org?subject=2027%20conference%20sponsorship>`__ and we'll send you the Portland 2027 and Berlin 2027 prospectuses as soon as they're ready.
+The :doc:`Portland 2027 prospectus </conf/portland/2027/sponsors/prospectus>` is ready now.
+Email `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org?subject=2027%20conference%20sponsorship>`__ and we'll send you the Berlin 2027 prospectus as soon as it's ready.
 In the meantime, the :doc:`Berlin 2026 prospectus </conf/berlin/2026/sponsors/prospectus>` gives a good idea of what to expect from sponsoring our European conference.
 
 Community programs
