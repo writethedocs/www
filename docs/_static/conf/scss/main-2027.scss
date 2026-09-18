@@ -1466,6 +1466,308 @@ body .page-banner {
     }
 }
 
+// Sponsorship benefit matrix (prospectus)
+body .page-content table.benefit-matrix {
+    width: 100%;
+    margin: 1em 0 1.5em;
+    border-collapse: separate;
+    border-spacing: 0;
+    table-layout: fixed;
+    font-size: 0.95em;
+    border-radius: 6px;
+    box-shadow: 0 0 0 1px #e4e5e6;
+
+    th, td {
+        padding: 10px 12px;
+        vertical-align: middle;
+        text-align: center;
+        border-bottom: 1px solid #ececea;
+        line-height: 1.35;
+        color: $copy-color;
+    }
+    tbody:last-child tr:last-child th, tbody:last-child tr:last-child td {
+        border-bottom: none;
+    }
+    small {
+        display: block;
+        font-size: 0.85em;
+        font-weight: $semi-bold;
+        color: #7b868c;
+        margin-top: 2px;
+    }
+    a, a:link, a:visited {
+        border-bottom: none;
+    }
+
+    // Package header: name and price in the conference colour
+    thead th {
+        width: 16%;
+        background-color: $main-color;
+        color: $white;
+        font-family: $secondary-font-family;
+        font-weight: $semi-bold;
+        font-size: 1.1em;
+        padding-top: 14px;
+        padding-bottom: 14px;
+    }
+    thead th:first-child {
+        width: 36%;
+        border-top-left-radius: 6px;
+    }
+    thead th:last-child {
+        border-top-right-radius: 6px;
+    }
+    thead th a, thead th a:link, thead th a:visited {
+        color: $white;
+        font-weight: $bold;
+    }
+    thead th a:hover {
+        border-bottom: 1px solid $white;
+    }
+    thead th small {
+        font-family: $base-body-font-family;
+        color: $white;
+        opacity: 0.9;
+    }
+
+    // Group label rows
+    tr.group th {
+        text-align: left;
+        font-size: 0.8em;
+        font-weight: $bold;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: $main-color;
+        background-color: #fdf3f1;
+        padding-top: 8px;
+        padding-bottom: 8px;
+    }
+
+    // Benefit column
+    tbody th[scope="row"] {
+        text-align: left;
+        font-weight: $bold;
+        background-color: #fafaf8;
+    }
+    .yes {
+        color: $main-color;
+        font-size: 1.3em;
+        font-weight: $bold;
+    }
+    .no {
+        color: #c8ccce;
+    }
+
+    // Below tablet width, scroll the table sideways instead of squeezing the columns.
+    @media (max-width: 768px) {
+        display: block;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        table-layout: auto;
+
+        th, td {
+            min-width: 7.5em;
+        }
+        thead th:first-child, tbody th[scope="row"] {
+            min-width: 10em;
+            position: sticky;
+            left: 0;
+            z-index: 1;
+            box-shadow: 1px 0 0 #ececea;
+        }
+        thead th:first-child {
+            background-color: $main-color;
+        }
+        tr.group th {
+            position: static;
+        }
+    }
+}
+
+// Prospectus: key facts strip and audience share bars
+body .page-content ul.key-facts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    padding: 0;
+    margin: 1.5em 0 2em;
+    list-style: none;
+    text-align: center;
+
+    li {
+        flex: 1 1 160px;
+        padding: 20px 16px;
+        background-color: #fafaf8;
+        border-top: 3px solid $main-color;
+        border-radius: 0 0 4px 4px;
+    }
+    strong {
+        display: block;
+        font-family: $secondary-font-family;
+        font-weight: $semi-bold;
+        font-size: 2.4em;
+        line-height: 1;
+        color: $main-color;
+    }
+    span {
+        display: block;
+        font-size: 0.9em;
+        font-weight: $bold;
+        color: $copy-color;
+        margin-top: 8px;
+    }
+}
+body .page-content details.package {
+    margin: 0 0 12px;
+    scroll-margin-top: 20px;
+    border: 1px solid #e4e5e6;
+    border-radius: 6px;
+    padding: 0 20px;
+
+    summary {
+        display: flex;
+        align-items: baseline;
+        gap: 14px;
+        padding: 14px 0;
+        cursor: pointer;
+        list-style: none;
+    }
+    summary::-webkit-details-marker {
+        display: none;
+    }
+    summary::before {
+        content: "";
+        flex: none;
+        align-self: center;
+        width: 8px;
+        height: 8px;
+        border-right: 2px solid $main-color;
+        border-bottom: 2px solid $main-color;
+        transform: rotate(-45deg);
+        transition: transform 0.15s;
+    }
+    &[open] summary::before {
+        transform: rotate(45deg);
+    }
+    &[open] summary {
+        border-bottom: 1px solid #ececea;
+    }
+    .name {
+        font-family: $secondary-font-family;
+        font-size: 1.3em;
+        color: $font-black;
+    }
+    .price {
+        font-weight: $bold;
+        color: $copy-color;
+    }
+    .limit {
+        font-size: 0.85em;
+        color: #7b868c;
+    }
+    h4 {
+        margin-top: 1em;
+    }
+    > :last-child {
+        margin-bottom: 20px;
+    }
+}
+body .page-content .share-bar {
+    display: flex;
+    height: 28px;
+    border-radius: 4px;
+    overflow: hidden;
+    margin: 0.5em 0 0.75em;
+
+    .seg {
+        display: block;
+        height: 100%;
+    }
+}
+body .page-content ul.share-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 20px;
+    padding: 0;
+    margin: 0 0 1.5em;
+    list-style: none;
+    font-size: 0.9em;
+
+    li {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+    i {
+        display: inline-block;
+        width: 12px;
+        height: 12px;
+        border-radius: 2px;
+    }
+    b {
+        color: $font-black;
+    }
+}
+body .page-content {
+    .seg-1 { background-color: $main-color; }
+    .seg-2 { background-color: rgba($main-color, 0.8); }
+    .seg-3 { background-color: rgba($main-color, 0.65); }
+    .seg-4 { background-color: rgba($main-color, 0.55); }
+    .seg-5 { background-color: rgba($main-color, 0.45); }
+}
+
+// Activations page: contents list as a compact two-column index
+body .page-content .activations-toc {
+    padding: 18px 22px;
+    margin: 1.5em 0 2em;
+    background-color: #fafaf8;
+    border-left: 4px solid $main-color;
+    border-radius: 4px;
+
+    > p.topic-title {
+        margin: 0 0 10px;
+        font-family: $secondary-font-family;
+        font-size: 1.1em;
+        color: $font-black;
+    }
+    ul {
+        columns: 2;
+        column-gap: 32px;
+        padding: 0;
+        margin: 0;
+        list-style: none;
+    }
+    li {
+        break-inside: avoid;
+        padding: 3px 0;
+    }
+    @media (max-width: 600px) {
+        ul {
+            columns: 1;
+        }
+    }
+}
+
+// Call-to-action buttons inside page content (prospectus, grants, writing day)
+body .page-content .announcement {
+    text-align: center;
+
+    .uk-container {
+        display: flex;
+        justify-content: center;
+    }
+    a.uk-button-announcement, a.uk-button-announcement:link, a.uk-button-announcement:visited {
+        color: $white;
+        font-weight: $bold;
+        border-bottom: none;
+    }
+    a.uk-button-announcement:hover {
+        color: $white;
+        border-bottom: none;
+        opacity: 0.9;
+    }
+}
+
 // MyST Markdown tables
 table {
     .text-left {
