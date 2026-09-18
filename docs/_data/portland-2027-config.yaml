@@ -169,21 +169,21 @@ about:
   # Shown on the sponsorship prospectus, from the 566 registration survey
   # responses at Portland 2026. The summary shares below are separate cuts of
   # that survey, so they don't all add up from the role mix.
-  documentarians: 78.7  # writers, editors and documentation managers
-  manager_level: 21.9  # documentation, product and project managers, directors and leads
-  engineering: 6.6  # programmers plus developer relations
-  first_time: 51.5
+  documentarians: 79  # writers, editors and documentation managers
+  manager_level: 22  # documentation, product and project managers, directors and leads
+  engineering: 7  # programmers plus developer relations
+  first_time: 52
   audience:
     - label: Writers and editors
-      percent: 63.9
+      percent: 64
     - label: Documentation managers
-      percent: 14.8
+      percent: 15
     - label: Programmers and developer relations
-      percent: 6.6
+      percent: 7
     - label: Product and project managers
-      percent: 3.8
+      percent: 4
     - label: Everything else
-      percent: 10.9
+      percent: 10  # carries the rounding, so the bar adds up to 100
   ticket_mix:
     - label: Corporate tickets
       percent: 70
