@@ -30,7 +30,7 @@ The current Slack stats are:
      <li><strong>100+</strong><span>channels</span></li>
    </ul>
 
-The best idea of who is visiting our site is the information we have from our conferences.
+The best idea of who is in our Slack is the information we have from our conferences.
 Our audience is made up of:
 
 .. include:: /include/demographics.rst

@@ -30,7 +30,7 @@ The current newsletter stats are:
      <li><strong>42%</strong><span>open rate</span></li>
    </ul>
 
-We don't have exact demographic data for our newsletter subscribers, but according to the data gathered from our conferences, our audience is made up of:
+We don't have exact demographic data for our newsletter subscribers, but our conference audience is made up of:
 
 .. include:: /include/demographics.rst
 

@@ -15,6 +15,7 @@ Each conference has its own sponsorship prospectus:
    <ul class="key-facts">
      <li><strong>{{ conf_attendees }}</strong><span>attendees a year</span></li>
      <li><strong>3</strong><span>conferences a year</span></li>
+     <li><strong>22%</strong><span>in a management role</span></li>
    </ul>
 
 .. list-table::
