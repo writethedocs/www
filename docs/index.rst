@@ -80,13 +80,7 @@ Site Content
 
    *
    conf/*
-   conf/portland/*/*
-   conf/portland/*/*/*
-   conf/australia/*/*
-   conf/australia/*/*/*
-   conf/kenya/*/*
-   conf/kenya/*/*/*
-   conf/cfp/*
+   conf/*/*
+   conf/*/*/*
+   conf/*/*/*/*
    book-club/*/*
-   conf/berlin/*/*
-   conf/berlin/*/*/*

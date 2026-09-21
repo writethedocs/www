@@ -75,8 +75,10 @@ exclude_patterns = [
     'include',
     #'_data',
     'node_modules',
-    # Contributor READMEs are notes for us, not site pages. Without this the
-    # one in _static_html/ gets published at the site root by html_extra_path.
+    # Notes for us, not a site page. This has to stay a '**/' pattern: it has
+    # to match both '_static_html/README.md' when Sphinx looks for source
+    # files and './README.md' when html_extra_path copies the tree, or the
+    # README gets parsed as a page and published at the site root.
     '**/README.md',
 ]
 
@@ -269,16 +271,14 @@ def setup(app):
     # reading in parallel, so the same URL can point at a different picture
     # after an unrelated rebuild. Keep basenames unique and that never happens.
     def check_image_names_are_unique(app, env):
-        renamed = sorted(
-            (source, unique)
-            for source, (_docnames, unique) in env.images.items()
-            if unique != os.path.basename(source)
-        )
-        for source, unique in renamed:
+        for source, (_docnames, unique) in sorted(env.images.items()):
+            if unique == os.path.basename(source):
+                continue
             logger.warning(
-                'image %s was published as _images/%s because another image '
-                'shares its filename; rename one of them so the published name '
-                'is stable between builds',
+                'image %s is published as _images/%s because another image '
+                'has the same filename. Which one gets renamed depends on the '
+                'order pages are read, so the URL can change between builds. '
+                'Give one of them a different filename.',
                 source, unique, type='image', subtype='duplicate_name',
             )
 
