@@ -173,7 +173,7 @@ sponsors:
     - name: linux-australia
       link: https://linux.org.au/
       brand: Linux Australia
-      width: 450px      
+      width: 350px      
   in_kind:
     - name: rtd
       link: https://readthedocs.com/
@@ -184,7 +184,7 @@ sponsors:
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: True
-flagcfp: True
+flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
 flagscheduleincomplete: False
