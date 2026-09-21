@@ -21,7 +21,7 @@ Each individual who volunteers for two or more 3-4 hour shifts receives a **free
 
 **[Sign up today! View the Volunteer Application form for more information.](https://forms.gle/1bm2T7HtU3pbWJqM9)**
 
-![Volunteer photo](/_static/img/2024/volunteer.jpg)
+![Volunteer photo](/_static/img/2024/volunteer-2024.jpg)
 
 ## FAQs
 

@@ -22,30 +22,42 @@ whole module and the build still works, only slower.
    ablog declares ``parallel_read_safe = False``, and that alone forces Sphinx
    to read every document serially. All it keeps on the environment is
    per-document post info, so we supply the merge, keep the environment each
-   reader sends back small, and flip the flag.
+   reader sends back small, and flip the flag. Written against ablog 0.11.13;
+   re-check it when ablog is upgraded.
 
-4. ``datatemplate`` directives parse YAML with libyaml.
-   sphinxcontrib-datatemplates calls ``yaml.safe_load``, which uses PyYAML's
-   pure Python parser even when the C one is installed. Pointing PyYAML's
-   ``SafeLoader`` at the C implementation makes every ``safe_load`` in the
-   build about ten times faster.
+4. YAML is parsed with libyaml.
+   PyYAML only uses its C parser when asked, and ``yaml.safe_load`` looks up
+   ``yaml.SafeLoader`` at call time, so pointing that name at the C loader
+   speeds up every ``safe_load`` in the build, ours and datatemplates' alike.
+   This is deliberately process-wide.
+
+Fix 1 patches two private Sphinx functions, so it is installed defensively:
+if the Sphinx being built against does not look like the one this was written
+for, the patch is skipped and the build is merely slower.
 """
 
 import os
 
+import sphinx
 import yaml
 from docutils import nodes
-from sphinx import addnodes
 from sphinx.environment.adapters import toctree as toctree_adapter
+from sphinx.util import logging
+
+logger = logging.getLogger(__name__)
+
+# The Sphinx major versions whose toctree internals this module was written
+# against and tested with.
+_SUPPORTED_SPHINX_MAJOR = (8,)
 
 # --- 1. toctree cache ---------------------------------------------------------
 
-_original_entries_from_toctree = toctree_adapter._entries_from_toctree
-_original_toctree_add_classes = toctree_adapter._toctree_add_classes
+_original_entries_from_toctree = None
+_original_toctree_add_classes = None
 
-# A docname that no reference can point at, used to add only the depth
-# classes when a tree is first cached.
-_NO_DOCNAME = object()
+# Set on a cached entry node so _mark_current can recognise it. Node copies do
+# not carry arbitrary attributes, so this cannot leak into a rendered page.
+_CACHE_ATTR = 'wtd_cached_toctree'
 
 
 class _CachedToctree:
@@ -59,7 +71,8 @@ class _CachedToctree:
         # "current" markers for a page can be placed without walking the tree.
         self.refs_by_docname = {}
         for ref in entry.findall(nodes.reference):
-            self.refs_by_docname.setdefault(ref['refuri'], []).append(ref)
+            if not ref['anchorname']:
+                self.refs_by_docname.setdefault(ref['refuri'], []).append(ref)
         # Nodes that carry a "current" class for the page rendered last.
         self.marked = []
 
@@ -69,8 +82,7 @@ class _CachedToctree:
         self.marked.clear()
 
 
-_toctree_cache = {}          # cache key -> _CachedToctree
-_cached_entries = {}         # id(entry node) -> _CachedToctree
+_toctree_cache = {}    # cache key -> _CachedToctree
 
 
 def _cached_entries_from_toctree(
@@ -84,11 +96,15 @@ def _cached_entries_from_toctree(
     the result depends on which page is being rendered, and nested calls are
     already covered by caching their top-level caller.
     """
-    if subtree or collapse:
-        return _original_entries_from_toctree(
-            env, prune, titles_only, collapse, includehidden, tags,
-            toctree_ancestors, included, excluded, toctreenode, parents, subtree,
-        )
+    args = (
+        env, prune, titles_only, collapse, includehidden, tags,
+        toctree_ancestors, included, excluded, toctreenode, parents, subtree,
+    )
+    # Only the toctrees declared in the root document are resolved repeatedly,
+    # once per page for the sidebar. A toctree in a page body is resolved for
+    # that page alone, so caching it would only cost memory.
+    if subtree or collapse or toctreenode.get('parent') != env.config.root_doc:
+        return _original_entries_from_toctree(*args)
 
     # The only page-specific input is the set of ancestors that override
     # ``tocdepth``; everything else in the resolved tree is the same for
@@ -97,37 +113,27 @@ def _cached_entries_from_toctree(
         ancestor for ancestor in toctree_ancestors
         if env.metadata.get(ancestor, {}).get('tocdepth', 0) > 0
     )
-    try:
-        key = (
-            toctreenode.get('parent'),
-            tuple(toctreenode['entries']),
-            prune, titles_only, includehidden, tocdepth_ancestors,
-        )
-        hash(key)
-    except TypeError:
-        return _original_entries_from_toctree(
-            env, prune, titles_only, collapse, includehidden, tags,
-            toctree_ancestors, included, excluded, toctreenode, parents, subtree,
-        )
+    key = (
+        toctreenode.get('parent'),
+        tuple(toctreenode['entries']),
+        prune, titles_only, includehidden, tocdepth_ancestors,
+    )
 
     cached = _toctree_cache.get(key)
     if cached is not None:
         cached.unmark()
         return [cached.entry]
 
-    entries = _original_entries_from_toctree(
-        env, prune, titles_only, collapse, includehidden, tags,
-        toctree_ancestors, included, excluded, toctreenode, parents, subtree,
-    )
-    if len(entries) != 1:
-        return entries
+    entries = _original_entries_from_toctree(*args)
+
     # Sphinx adds the ``toctree-l<n>`` depth classes on every page. They never
-    # change, so add them once here; ``_mark_current`` then only has to add
-    # the page-specific ``current`` markers.
-    root = addnodes.compact_paragraph('', '', *entries)
-    _original_toctree_add_classes(root, 1, _NO_DOCNAME)
-    cached = _toctree_cache[key] = _CachedToctree(entries[0])
-    _cached_entries[id(cached.entry)] = cached
+    # change, so add them once here; _mark_current then only has to add the
+    # page-specific ``current`` markers. Depth 2 on the bullet list is what
+    # Sphinx's own depth 1 on the wrapping paragraph works out to.
+    _original_toctree_add_classes(entries[0], 2, None)
+    cached = _CachedToctree(entries[0])
+    setattr(cached.entry, _CACHE_ATTR, cached)
+    _toctree_cache[key] = cached
     return entries
 
 
@@ -140,26 +146,57 @@ def _mark_current(node, depth, docname):
     a walk over the whole tree. Sphinx also flags the branch with
     ``iscurrent``; that only matters for ``collapse=True``, which never uses
     the cache. Anything else falls through to Sphinx.
+
+    Marking mutates the shared cached tree in place. That is safe because
+    ``_resolve_toctree`` deep-copies the tree immediately after this returns,
+    and ``unmark`` runs before the tree is handed out again.
     """
-    cached = next(
-        (_cached_entries[id(child)] for child in node.children if id(child) in _cached_entries),
-        None,
-    )
-    if cached is None:
-        return _original_toctree_add_classes(node, depth, docname)
-    for ref in cached.refs_by_docname.get(docname, ()):
-        if ref['anchorname']:
-            continue
-        branch = ref
-        while branch:
-            branch['classes'].append('current')
-            cached.marked.append(branch)
-            branch = branch.parent
+    # Sphinx only ever passes a whole resolved toctree at depth 1; deeper
+    # calls are its own recursion, which reaches this name through the patch.
+    if depth == 1:
+        for child in node.children:
+            cached = getattr(child, _CACHE_ATTR, None)
+            if cached is not None:
+                for ref in cached.refs_by_docname.get(docname, ()):
+                    branch = ref
+                    while branch:
+                        branch['classes'].append('current')
+                        cached.marked.append(branch)
+                        branch = branch.parent
+                return
+    _original_toctree_add_classes(node, depth, docname)
 
 
 def _clear_toctree_cache(app):
     _toctree_cache.clear()
-    _cached_entries.clear()
+
+
+def _install_toctree_cache():
+    """Patch Sphinx's toctree resolution, or leave it alone and say why."""
+    global _original_entries_from_toctree, _original_toctree_add_classes
+
+    original_entries = getattr(toctree_adapter, '_entries_from_toctree', None)
+    original_classes = getattr(toctree_adapter, '_toctree_add_classes', None)
+    if sphinx.version_info[0] not in _SUPPORTED_SPHINX_MAJOR or None in (
+        original_entries, original_classes
+    ):
+        # Deliberately not a warning: the build is correct either way, and
+        # -W would turn a Sphinx upgrade into a failed build rather than a
+        # slow one, which is the opposite of the point.
+        logger.info(
+            'build_perf: not caching the sidebar toctree, because Sphinx %s '
+            'is not a version this was written against. The build is correct '
+            'but slower. Re-check _ext/build_perf.py against the new toctree '
+            'internals.',
+            sphinx.__display_version__,
+        )
+        return False
+
+    _original_entries_from_toctree = original_entries
+    _original_toctree_add_classes = original_classes
+    toctree_adapter._entries_from_toctree = _cached_entries_from_toctree
+    toctree_adapter._toctree_add_classes = _mark_current
+    return True
 
 
 # --- 2. doctree slimming ------------------------------------------------------
@@ -179,8 +216,10 @@ def _reattach_nested_documents(app, doctree):
 
 # --- 3. ablog parallel reading ------------------------------------------------
 
-_main_pid = None
-_worker_posts_dropped = False
+# The process that owns the posts currently on the environment. A forked
+# reader inherits the parent's posts along with this value, notices the
+# mismatch, and starts from empty.
+_posts_owner_pid = None
 
 
 def _drop_inherited_ablog_posts(app, doctree):
@@ -193,11 +232,10 @@ def _drop_inherited_ablog_posts(app, doctree):
     so the inherited ones just make each environment transfer bigger and
     slower to unpickle. Runs once per worker, before ablog stores anything.
     """
-    global _worker_posts_dropped
-    if _worker_posts_dropped or os.getpid() == _main_pid:
-        return
-    _worker_posts_dropped = True
-    if hasattr(app.env, 'ablog_posts'):
+    global _posts_owner_pid
+    pid = os.getpid()
+    if pid != _posts_owner_pid:
+        _posts_owner_pid = pid
         app.env.ablog_posts = {}
 
 
@@ -251,15 +289,14 @@ def _register_ablog_posts(app, env):
 
 
 def setup(app):
-    global _main_pid
-    _main_pid = os.getpid()
+    global _posts_owner_pid
+    _posts_owner_pid = os.getpid()
 
     if getattr(yaml, '__with_libyaml__', False):
         yaml.SafeLoader = yaml.CSafeLoader
 
-    toctree_adapter._entries_from_toctree = _cached_entries_from_toctree
-    toctree_adapter._toctree_add_classes = _mark_current
-    app.connect('builder-inited', _clear_toctree_cache)
+    if _install_toctree_cache():
+        app.connect('builder-inited', _clear_toctree_cache)
 
     # Priority 100 so this runs before ablog's doctree-read handler copies post
     # sections into the environment. Copies made before the fix would still

@@ -80,21 +80,7 @@ Site Content
 
    *
    conf/*
-   conf/atlantic/*/*
-   conf/atlantic/*/*/*
-   conf/portland/*/*
-   conf/portland/*/*/*
-   conf/prague/*/*
-   conf/prague/*/*/*
-   conf/cincinnati/*/*
-   conf/cincinnati/*/*/*
-   conf/australia/*/*
-   conf/australia/*/*/*
-   conf/vilnius/*/*
-   conf/vilnius/*/*/*
-   conf/kenya/*/*
-   conf/kenya/*/*/*
-   conf/cfp/*
+   conf/*/*
+   conf/*/*/*
+   conf/*/*/*/*
    book-club/*/*
-   conf/berlin/*/*
-   conf/berlin/*/*/*

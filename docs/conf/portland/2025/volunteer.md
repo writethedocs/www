@@ -20,7 +20,7 @@ Each individual must volunteer two assigned 3-4   for two or more 3-4 hour shift
     </div>
 </div>
 
-![Volunteer](/_static/conf/images/pics/2025/volunteer.jpg)
+![Volunteer](/_static/conf/images/pics/2025/volunteer-2025.jpg)
 
 **Timeline:**
 
