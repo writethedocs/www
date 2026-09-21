@@ -80,7 +80,7 @@
 				<g id="Clip-81">
 				</g>
 				<polygon id="Fill-80" class="st1" points="65,129 137,129 137,30 65,30 				"/>
-				<path id="Fill-82" class="st2" d="M65.5,128.5h70v-98h-70V128.5z M64,130h73V29H64V130z"/>
+				<path id="Fill-82" class="st2" fill-rule="evenodd" d="M65.5,128.5h70v-98h-70V128.5z M64,130h73V29H64V130z"/>
 				<polygon id="Fill-83" class="st3" points="77,127 78,127 78,33 77,33 				"/>
 				<polygon id="Fill-84" class="st3" points="67,39.5 133,39.5 133,39 67,39 				"/>
 				<polygon id="Fill-85" class="st3" points="67,42.4 133,42.4 133,41.9 67,41.9 				"/>

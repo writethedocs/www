@@ -50,7 +50,7 @@ The application form will ask for an estimate of your costs.
 
 ## Grant Amounts
 
-The total amount of grant funds to be distributed is based upon sponsors and number of tickets sold. We will not know the full amount until we near the deadline. For 2026, we have $3,500 total to distribute for grant funds. There is no limit on the amount you request, but please consider this amount when making your request. We rarely fund only one individual and aim to use our budget for two or more people. We do not award partial grants.
+The total amount of grant funds to be distributed is based upon sponsors and number of tickets sold. We will not know the full amount until we near the deadline. {% if grants.total %}For {{ year }}, we have {{ grants.total }} total to distribute for grant funds.{% else %}We'll announce the {{ year }} total closer to the deadline.{% endif %} There is no limit on the amount you request, but please consider this amount when making your request. We rarely fund only one individual and aim to use our budget for two or more people. We do not award partial grants.
 
 ## Are you part of a marginalized or underrepresented group in tech?
 

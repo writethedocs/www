@@ -194,6 +194,17 @@ about-details:
   photos: str(required=False)
   projector_ratio: str(required=False)
   social_venue: str(required=False)
+  audience: list(include('share'), required=False)
+  documentarians: num(min=0, max=100, required=False)
+  manager_level: num(min=0, max=100, required=False)
+  engineering: num(min=0, max=100, required=False)
+  first_time: num(min=0, max=100, required=False)
+  ticket_mix: list(include('share'), required=False)
+
+# A slice of an audience breakdown, shown as a bar on the prospectus.
+share:
+  label: str()
+  percent: num(min=0, max=100)
 
 cfp-details:
   url: str(required=True)
@@ -211,6 +222,7 @@ grants-details:
   url: str(required=True)
   ends: str(required=True)
   notification: str(required=True)
+  total: str(required=False)
 
 shirts-details:
   url: str(required=True)
@@ -226,6 +238,7 @@ writing_day-details:
   git_signup_url: str(required=False)
   date: str(required=True)
   project_deadline: str(required=False)
+  sponsor: str(required=False)  # name of an entry in the sponsors block
 
 hike-details:
   date: str(required=True)
@@ -233,6 +246,12 @@ hike-details:
 
 lightning_talks-details:
   signup_url: str(required=True)
+  sponsors: list(include('day-sponsor'), required=False)
+
+# A sponsor of one day of a conference event, such as Lightning Talks.
+day-sponsor:
+  day: str()
+  sponsor: str()  # name of an entry in the sponsors block
 
 qa-details:
   event_id: str(required=True)
