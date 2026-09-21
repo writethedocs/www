@@ -14,7 +14,7 @@ The primary goal is to bring interested individuals into the same room, sharing 
 
 If you have a project, we encourage you to submit it before the conference! This is a great way to build momentum and get other attendees excited to participate in your project. We’ll open project submissions in March. As usual, day-of projects are always welcome too - you'll have the option to sign up onsite and announce it during Writing Day.
 
-![Writing Day](/_static/conf/images/pics/2025/writing-day.jpg)
+![Writing Day](/_static/conf/images/pics/2025/writing-day-2025.jpg)
 
 ## How to participate in Writing Day
 

@@ -23,7 +23,7 @@ Each individual must volunteer for two or more 3-4 hour shifts and receives a **
 </div>
 {% endif %}
 
-![Volunteer](/_static/conf/images/pics/2025/volunteer.jpg)
+![Volunteer](/_static/conf/images/pics/2025/volunteer-2025.jpg)
 
 **Timeline:**
 

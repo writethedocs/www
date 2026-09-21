@@ -5,6 +5,10 @@ import os
 import sys
 import datetime
 
+from sphinx.util import logging
+
+logger = logging.getLogger(__name__)
+
 # Only for windows compatibility - Forces default encoding to UTF8, which it may not be on windows
 if os.name == 'nt':
     # monkeypatches sphinxcontrib.datatemplates so it uses utf-8 as the encoding
@@ -259,8 +263,28 @@ def setup(app):
             else:
                 context['pageurl'] = pageurl[:-5] + '/'  # strip .html, add /
 
+    # Sphinx names each collected image after its bare filename, and appends a
+    # number when two source files want the same name. Which one gets the
+    # number depends on the order documents are read, which is not fixed when
+    # reading in parallel, so the same URL can point at a different picture
+    # after an unrelated rebuild. Keep basenames unique and that never happens.
+    def check_image_names_are_unique(app, env):
+        renamed = sorted(
+            (source, unique)
+            for source, (_docnames, unique) in env.images.items()
+            if unique != os.path.basename(source)
+        )
+        for source, unique in renamed:
+            logger.warning(
+                'image %s was published as _images/%s because another image '
+                'shares its filename; rename one of them so the published name '
+                'is stable between builds',
+                source, unique, type='image', subtype='duplicate_name',
+            )
+
     app.connect("html-page-context", add_metadata)
     app.connect("html-page-context", fix_canonical_url)
+    app.connect("env-updated", check_image_names_are_unique)
 
     # Set up our custom jinja filters
     app.connect("builder-inited", add_jinja_filters_to_app)
