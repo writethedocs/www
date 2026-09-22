@@ -59,25 +59,25 @@ More from Write the Docs
 We're glad you stopped by!
 We hope you'll join us either online or in-person for an event soon.
 
-Site Content
-------------
+.. The sidebar nav is built from ``extra_nav_links`` in conf.py, so this only
+   needs to register the pages, not render a second copy of it on the page.
 
 .. toctree::
+   :hidden:
    :glob:
    :maxdepth: 1
-   :includehidden:
 
-   Conferences <conf/index>
-   Slack <slack>
-   Meetups <meetups/index>
-   Newsletter <newsletter>
-   Content by topic <topics>
-   Blog <blog/index>
-   Documentation guide <guide/index>
-   Salary surveys <surveys/index>
-   Hiring guide <hiring-guide/index>
-   Book club <book-club/index>
-   Sponsorship <sponsorship/index>
+   conf/index
+   slack
+   meetups/index
+   newsletter
+   topics
+   blog/index
+   guide/index
+   surveys/index
+   hiring-guide/index
+   book-club/index
+   sponsorship/index
    about/*
 
 .. toctree::

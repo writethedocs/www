@@ -159,6 +159,19 @@ html_theme = 'alabaster'
 html_theme_options = {
     'logo': 'sticker-wtd-colors.png',
     'sidebar_includehidden': False,
+    # The sidebar nav: the handful of places worth reaching from any page.
+    # Everything else is on the front page and in the site map. The front page
+    # toctree can't serve double duty here: it either renders a second copy of
+    # this list on the page, or, if hidden, drops out of the sidebar entirely.
+    'extra_nav_links': {
+        'Conferences': '/conf/',
+        'Slack': '/slack/',
+        'Meetups': '/meetups/',
+        'Newsletter': '/newsletter/',
+        'Content by topic': '/topics/',
+        'Blog': '/blog/',
+        'Documentation guide': '/guide/',
+    },
     'github_user': 'writethedocs',
     'github_repo': 'www',
     'github_banner': False,
