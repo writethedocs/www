@@ -1,25 +1,21 @@
 Slack
 =====
 
-.. tip:: Due to an increase in spammers, we now have a short `signup form`_ that you must fill out to join our Slack network.
-
-Thanks for your interest in our Slack network.
-We have over {{ slack_members }} people who have joined,
-and you can be one of them.
-
 Our Slack network has lots of people hanging out and chatting about documentation.
 It's the best way to connect with our community,
 and to stay in touch with folks you've met at our conferences and meetups.
+We have over {{ slack_members }} people who have joined,
+and you can be one of them.
 
-Our most active Slack channels are listed below. 
-This should help you get connected to people with similar interests.
-Please also read the Slack guidelines carefully, and remember that our
-:doc:`/code-of-conduct` also applies to our Slack.
+.. raw:: html
 
-If you want to get involved you can:
+   <div class="cta-group">
+      <a class="cta-button" href="{{ slack_form }}">Join our Slack network</a>
+   </div>
 
-* Fill out our `signup form`_ to join our network.
-* Feel free to send a Pull Request to update `this page`_, if you want to include other channels you enjoy.
+Due to an increase in spammers, joining takes a short `signup form`_.
+Our :doc:`/code-of-conduct` applies to our Slack, so please read the guidelines
+below carefully before you post.
 
 .. note::
     Our Slack includes animated emoji, and other animations are sometimes posted.
@@ -30,7 +26,7 @@ If you want to get involved you can:
 .. _this page: https://github.com/writethedocs/www/blob/main/docs/slack.rst
 .. _disable all animations: https://slack.com/help/articles/228023907-Manage-animated-images-and-emoji
 
-Slack History
+Slack history
 -------------
 
 We don't pay for our Slack, which means that the community only has access to messages from the last 90 days.
@@ -120,6 +116,7 @@ Channel guide
 The Write the Docs Slack has *lots* of channels.
 Some channels are widely joined, while others are more specialized.
 Here's an overview of how we use channels on Slack.
+If you want to include other channels you enjoy, send a Pull Request to update `this page`_.
 
 Default channels
 ~~~~~~~~~~~~~~~~
@@ -341,7 +338,7 @@ Here are some channels specifically for wholesome self-promotion:
 
 Posts in those channels not meeting the posting rules may result in :ref:`moderation action <moderation-action>`, such as a warning or deletion.
 
-Reporting Issues
+Reporting issues
 ~~~~~~~~~~~~~~~~
 
 If you see a message in a public channel that needs moderator attention, you can react to it with the ``:attn-mods:`` or ``:spam:`` reacji.
