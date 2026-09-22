@@ -423,3 +423,47 @@ div.body ul.home-more li {
         columns: 1;
     }
 }
+
+/** Topic index: the twelve top-level topics, as a grid you can take in at
+    once. The full depth used to run to two screens of nested bullets. **/
+
+div.body .topic-nav {
+    border: none;
+    background: none;
+    margin: 1.5em 0 2em;
+    padding: 0;
+}
+
+div.body .topic-nav > p.topic-title {
+    font-size: 17px;
+    margin-bottom: 12px;
+}
+
+div.body .topic-nav > ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+div.body .topic-nav > ul li {
+    list-style: none;
+    margin: 0;
+}
+
+div.body .topic-nav > ul li a {
+    display: block;
+    padding: 10px 14px;
+    border: 1px solid #E2E2DC;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+
+div.body .topic-nav > ul li a:hover {
+    border-color: #2ECC71;
+    background-color: #FAFCFA;
+    text-decoration: none;
+}

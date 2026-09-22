@@ -8,10 +8,11 @@ Enjoy!
 
 If you think something is wrongly categorized, please `let us know </contact/>`__.
 
-.. contents::
+.. contents:: Jump to a topic
    :local:
-   :depth: 2
+   :depth: 1
    :backlinks: none
+   :class: topic-nav
 
 Writing words
 -------------
