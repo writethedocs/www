@@ -15,45 +15,45 @@ their users to be a member of our community. This can be programmers,
 tech writers, developer advocates, customer support, marketers, and anyone else who wants
 people to have great experiences with software.
 
-Attend a conference
--------------------
+Upcoming conferences
+--------------------
 
-We have upcoming conferences around the world:
+.. container:: home-next
 
-.. include:: /include/conf/current.rst
-   :start-after: current-conferences-list
+   .. include:: /include/conf/current.rst
+      :start-after: current-conferences-list
 
 See all :doc:`our conferences </conf/index>` from past years.
 
-Connect with the community
---------------------------
+Get involved
+------------
 
-Get more information on how to meet the community, get involved, stay in touch.
+.. raw:: html
 
-* Join our :doc:`Slack network </slack>` with thousands of other documentarians
-* Join a :doc:`local or online meetup </meetups/index>` to dive deeper into the community
-* Learn more about our :doc:`sponsorship options <sponsorship/index>` for your company
+   <ul class="home-doors">
+     <li><strong><a href="/slack/">Join our Slack network</a></strong>
+         <p>Over {{ slack_members }} people hanging out and chatting about documentation.</p></li>
+     <li><strong><a href="/guide/">Read the documentation guide</a></strong>
+         <p>The collective wisdom of our community on writing software documentation.</p></li>
+     <li><strong><a href="/meetups/">Join a local meetup</a></strong>
+         <p>Local and virtual groups in over {{ meetup_cities }} cities.</p></li>
+   </ul>
 
-Find or advertise a job
------------------------
-
-Work with other documentarians.
-
-* Read our :doc:`Hiring Guide </hiring-guide/index>` to get started in the industry
-* Read our latest `salary survey </surveys/>`__ results to get a sense of industry pay
-* Fill out the `salary survey for 2026 <https://salary-survey.writethedocs.org/>`_
-
-Learn from our resources
+More from Write the Docs
 ------------------------
 
-We have an ever-increasing set of articles, links, and resources. Watch our talks on YouTube:
+.. rst-class:: home-more
 
 * Watch past conference talks on our `YouTube channel <https://www.youtube.com/c/WritetheDocs>`_
 * Subscribe to our :doc:`newsletter and conference </newsletter>` mailing lists
-* Browse our :doc:`topic index </topics>`
 * Read the latest in our :doc:`blog </blog/index>`
-* Learn about :doc:`Write the Docs <about/about-the-org>`
+* Browse our :doc:`topic index </topics>`
+* Read our latest `salary survey </surveys/>`__ results
+* Read our :doc:`Hiring Guide </hiring-guide/index>` to get started in the industry
+* Join our :doc:`book club </book-club/index>`
 * See all :doc:`learning resources </about/learning-resources>`
+* Learn about :doc:`our organization <about/about-the-org>`
+* Look into :doc:`sponsorship options <sponsorship/index>` for your company
 
 We're glad you stopped by!
 We hope you'll join us either online or in-person for an event soon.

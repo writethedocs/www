@@ -337,3 +337,69 @@ table.sponsorship-pricing td:last-child {
     color: #fff;
     text-decoration: underline;
 }
+/** Front page: the handful of things we want people to click, and the rest **/
+
+.home-next {
+    background-color: #F7F7F4;
+    border-left: 4px solid #2ECC71;
+    border-radius: 3px;
+    padding: 16px 24px 4px;
+    margin: 1em 0 1.5em;
+}
+
+.home-next ul {
+    margin: 0 0 12px;
+}
+
+.home-doors {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+    gap: 16px;
+    margin: 1.5em 0;
+    padding: 0;
+    list-style: none;
+}
+
+.home-doors li {
+    list-style: none;
+    margin: 0;
+    padding: 16px 18px;
+    background-color: #FAFAF8;
+    border: 1px solid #E2E2DC;
+    border-top: 3px solid #2ECC71;
+    border-radius: 4px;
+}
+
+/* Four doors sit better as a square than as a row of three and an orphan. */
+.home-doors.home-doors-four {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.home-doors strong {
+    display: block;
+    font-size: 17px;
+    margin-bottom: 6px;
+}
+
+.home-doors p {
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.45;
+}
+
+div.body ul.home-more {
+    columns: 2;
+    column-gap: 36px;
+    padding-left: 1.2em;
+}
+
+div.body ul.home-more li {
+    break-inside: avoid;
+    margin-bottom: 4px;
+}
+
+@media screen and (max-width: 700px) {
+    div.body ul.home-more {
+        columns: 1;
+    }
+}
