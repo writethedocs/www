@@ -33,8 +33,8 @@ Get involved
    <ul class="home-doors">
      <li><strong><a href="/slack/">Join our Slack network</a></strong>
          <p>Over {{ slack_members }} people hanging out and chatting about documentation.</p></li>
-     <li><strong><a href="/guide/">Read the documentation guide</a></strong>
-         <p>The collective wisdom of our community on writing software documentation.</p></li>
+     <li><strong><a href="/topics/">Browse talks by topic</a></strong>
+         <p>Conference talks and newsletter writing, sorted by what they're about.</p></li>
      <li><strong><a href="/meetups/">Join a local meetup</a></strong>
          <p>Local and virtual groups in over {{ meetup_cities }} cities.</p></li>
    </ul>
@@ -47,7 +47,7 @@ More from Write the Docs
 * Watch past conference talks on our `YouTube channel <https://www.youtube.com/c/WritetheDocs>`_
 * Subscribe to our :doc:`newsletter and conference </newsletter>` mailing lists
 * Read the latest in our :doc:`blog </blog/index>`
-* Browse our :doc:`topic index </topics>`
+* Read our :doc:`software documentation guide </guide/index>`
 * Read our latest `salary survey </surveys/>`__ results
 * Read our :doc:`Hiring Guide </hiring-guide/index>` to get started in the industry
 * Join our :doc:`book club </book-club/index>`
