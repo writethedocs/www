@@ -41,6 +41,12 @@ The :doc:`Portland 2027 prospectus </conf/portland/2027/sponsors/prospectus>` is
 Email `sponsorship@writethedocs.org <mailto:sponsorship@writethedocs.org?subject=2027%20conference%20sponsorship>`__ and we'll send you the Berlin 2027 prospectus as soon as it's ready.
 In the meantime, the :doc:`Berlin 2026 prospectus </conf/berlin/2026/sponsors/prospectus>` gives a good idea of what to expect from sponsoring our European conference.
 
+.. raw:: html
+
+   <div class="cta-group">
+      <a class="cta-button" href="mailto:sponsorship@writethedocs.org?subject=2027%20conference%20sponsorship">Email our sponsorship team</a>
+   </div>
+
 Community programs
 ------------------
 
@@ -113,12 +119,6 @@ Over the years, we have grown to a community that includes:
 * An extensive documentation guide.
 
 We also run other activities, such as our annual salary survey, and are currently exploring even more ways to support the community and help our community stay connected.
-
-.. raw:: html
-
-   <div class="cta-group">
-      <a class="cta-button" href="mailto:sponsorship@writethedocs.org?subject=Sponsoring%20Write%20the%20Docs">Become a sponsor</a>
-   </div>
 
 .. toctree::
    :hidden:
