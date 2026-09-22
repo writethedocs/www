@@ -33,8 +33,8 @@ Get involved
    <ul class="home-doors">
      <li><strong><a href="/slack/">Join our Slack network</a></strong>
          <p>Over {{ slack_members }} people hanging out and chatting about documentation.</p></li>
-     <li><strong><a href="/topics/">Browse talks by topic</a></strong>
-         <p>Conference talks and newsletter writing, sorted by what they're about.</p></li>
+     <li><strong><a href="/topics/">Browse by topic</a></strong>
+         <p>Over 700 talks and newsletter articles, on everything from API docs to getting hired.</p></li>
      <li><strong><a href="/meetups/">Join a local meetup</a></strong>
          <p>Local and virtual groups in over {{ meetup_cities }} cities.</p></li>
    </ul>
