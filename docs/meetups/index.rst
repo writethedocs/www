@@ -2,62 +2,58 @@ Local and virtual community groups
 ==================================
 
 Local and virtual community groups encourage Write the Docs enthusiasts to participate and connect with other
-documentarians outside of the conferences. These groups are a great way to network and stay up 
+documentarians outside of the conferences. These groups are a great way to network and stay up
 to date with the documentation world.
+Each has its own style, which varies based on the organizers and the locale it represents.
 
-Each community group has its own unique style that varies based on the organizers and the locale it represents.
-
-The most active group platform is Meetup, which supports in-person and virtual events. While not required, the majority
-of our community groups opt to use the Meetup platform. Many groups also create a LinkedIn page/group or other
-group-specific social media to share their events.
-
-.. note:: Community groups are run by volunteer organizers. The type and frequency of
-    events depend on the organizers, their schedule, as well as group engagement.
-    Learn more about organizing in the `Organize a community group`_ section below.
+Groups are run by volunteer organizers, so the type and frequency of events varies.
+Most use the Meetup platform, and many also have a LinkedIn page or other social media
+to share their events.
+Learn more in the `Organize a community group`_ section below.
 
 Current meetups
------------------------
+---------------
 
 Anyone is welcome to join a local or virtual Write the Docs community group. You're encouraged to attend
 events that work for your schedule and time zone.
 
 North America
--------------
+~~~~~~~~~~~~~
 
 .. meetup-listing::
     :region: North America
 
 
 South America
--------------
+~~~~~~~~~~~~~
 
 .. meetup-listing::
     :region: South America
 
 
 Europe
-------
+~~~~~~
 
 .. meetup-listing::
     :region: Europe
 
 
 Oceania
--------
+~~~~~~~
 
 .. meetup-listing::
     :region: Oceania
 
 
 Asia
-----
+~~~~
 
 .. meetup-listing::
     :region: Asia
 
 
 Africa
-------
+~~~~~~
 
 .. meetup-listing::
     :region: Africa
