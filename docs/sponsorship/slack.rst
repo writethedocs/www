@@ -1,4 +1,4 @@
-Slack Network Sponsorship
+Slack network sponsorship
 =========================
 
 Write the Docs is a community focused on all things related to software documentation.
@@ -23,10 +23,14 @@ Audience
 Our audience is made up of technical writers and decision makers in the software documentation industry.
 The current Slack stats are:
 
-* Over {{ slack_members }} users
-* 100+ channels
+.. raw:: html
 
-The best idea of who is visiting our site is the information we have from our conferences.
+   <ul class="key-facts">
+     <li><strong>{{ slack_members }}</strong><span>users</span></li>
+     <li><strong>100+</strong><span>channels</span></li>
+   </ul>
+
+The best idea of who is in our Slack is the information we have from our conferences.
 Our audience is made up of:
 
 .. include:: /include/demographics.rst
@@ -44,7 +48,7 @@ The current format is:
 * Up to 2 paragraphs of copy
 * Up to 1 link in that copy - we generally recommend inline links, so that some of your text is linked, and the links will be expanded in Slack.
 
-Content Guidance
+Content guidance
 ----------------
 
 The provided copy must respect our general `Slack

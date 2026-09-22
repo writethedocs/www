@@ -1,4 +1,4 @@
-Newsletter Sponsorship
+Newsletter sponsorship
 ======================
 
 Write the Docs is a global community focused on anything related to software documentation.
@@ -23,10 +23,14 @@ Audience
 Our audience is made up of technical writers and decision makers in the software documentation industry.
 The current newsletter stats are:
 
-* Over {{ newsletter_subs }} subscribers
-* 42% open rate
+.. raw:: html
 
-We don't have exact demographic data for our newsletter subscribers, but according to the data gathered from our conferences, our audience is made up of:
+   <ul class="key-facts">
+     <li><strong>{{ newsletter_subs }}</strong><span>subscribers</span></li>
+     <li><strong>42%</strong><span>open rate</span></li>
+   </ul>
+
+We don't have exact demographic data for our newsletter subscribers, but our conference audience is made up of:
 
 .. include:: /include/demographics.rst
 
