@@ -33,10 +33,10 @@ Get involved
    <ul class="home-doors">
      <li><strong><a href="/slack/">Join our Slack network</a></strong>
          <p>Over {{ slack_members }} people hanging out and chatting about documentation.</p></li>
+     <li><strong><a href="/newsletter/">Read the newsletter</a></strong>
+         <p>A monthly roundup of what our community is talking about, for over {{ newsletter_subs }} subscribers.</p></li>
      <li><strong><a href="/topics/">Browse by topic</a></strong>
          <p>Over 700 talks and newsletter articles, on everything from API docs to getting hired.</p></li>
-     <li><strong><a href="/meetups/">Join a local meetup</a></strong>
-         <p>Local and virtual groups in over {{ meetup_cities }} cities.</p></li>
    </ul>
 
 More from Write the Docs
@@ -44,8 +44,9 @@ More from Write the Docs
 
 .. rst-class:: home-more
 
+* Join a :doc:`local or online meetup </meetups/index>` in over {{ meetup_cities }} cities
 * Watch past conference talks on our `YouTube channel <https://www.youtube.com/c/WritetheDocs>`_
-* Subscribe to our :doc:`newsletter and conference </newsletter>` mailing lists
+* Subscribe to our :doc:`conference announcement </newsletter>` mailing lists
 * Read the latest in our :doc:`blog </blog/index>`
 * Read our :doc:`software documentation guide </guide/index>`
 * Read our latest `salary survey </surveys/>`__ results
