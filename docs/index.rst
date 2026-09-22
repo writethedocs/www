@@ -67,11 +67,17 @@ Site Content
    :maxdepth: 1
    :includehidden:
 
-   surveys/index
-   guide/index
-   book-club/index
+   Conferences <conf/index>
+   Slack <slack>
+   Meetups <meetups/index>
+   Newsletter <newsletter>
+   Content by topic <topics>
+   Blog <blog/index>
+   Documentation guide <guide/index>
+   Salary surveys <surveys/index>
    Hiring guide <hiring-guide/index>
-   about/stay-connected
+   Book club <book-club/index>
+   Sponsorship <sponsorship/index>
    about/*
 
 .. toctree::
