@@ -112,3 +112,7 @@ Testing API docs
 
 When specifying an API in a descriptive language, you don't have to manually
 validate your documents. Tools like Dredd can test your documentation against the live API.
+
+.. seealso::
+
+   Browse talks and newsletter articles about :ref:`API documentation <topic-api-docs>` in our content archive.

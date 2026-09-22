@@ -52,3 +52,7 @@ Documentation as a part of the product
 --------------------------------------
 Some of the issues need to be addressed on an organisational level. 
 We won't be able to change the fact that it's the product that rakes in the money, not the docs. However, the user experience is strongly tied to whether or not your users can reach their goals with the product or not. Documentation has a valuable role to play from that angle. The Definition of Done can include meaningful documentation, enshrining your contribution to a positive user experience from the get go. 
+
+.. seealso::
+
+   Browse talks and newsletter articles about :ref:`career growth <topic-career-growth>` in our content archive.

@@ -323,3 +323,7 @@ Resources
 * `AsciiDoc Cheatsheet <https://powerman.name/doc/asciidoc>`_
 * `Asciidoctor <https://asciidoctor.org>`_
 * `AsciiDoctor Syntax Quick Reference <https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/>`_
+
+.. seealso::
+
+   Browse talks and newsletter articles about :ref:`documentation tools <topic-doc-tools>` in our content archive.

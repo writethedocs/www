@@ -25,3 +25,7 @@ and docs are always delayed until the end.
 
 To show the value of documentation to your boss and get a blueprint for 
 implementing a documentation solution at your company, see :doc:`writing/mindshare`.
+
+.. seealso::
+
+   Browse talks and newsletter articles about :ref:`helping engineers to write <topic-helping-engineers-to-write>` in our content archive.

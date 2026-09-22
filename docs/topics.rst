@@ -13,6 +13,8 @@ If you think something is wrongly categorized, please let us know.
    :depth: 2
    :backlinks: none
 
+.. _topic-writing-words:
+
 Writing words
 -------------
 
@@ -150,6 +152,8 @@ Task-based writing
 - |:movie_camera:| `Start with the tasks, not the endpoints <https://www.youtube.com/watch?v=R8yjmtIWEKQ>`__
 - |:movie_camera:| `Let’s Tell a Story: Scenario-Based Documentation <https://www.youtube.com/watch?v=3hneCmLYWjc>`__
 - |:movie_camera:| `User-Story Driven Docs <https://www.youtube.com/watch?v=MRnZFVCirQM>`__
+
+.. _topic-api-docs:
 
 API docs
 ~~~~~~~~
@@ -311,6 +315,8 @@ Jobs and careers
 - |:newspaper:| `Salary survey </blog/newsletter-april-2020/#salary-survey-speculations>`__
 - |:newspaper:| `For those who might consider freelancing </blog/newsletter-july-2019/#for-those-who-might-consider-freelancing>`__
 
+.. _topic-hiring:
+
 Hiring
 ~~~~~~~
 
@@ -324,6 +330,8 @@ Hiring
 - |:movie_camera:| `Starting from Scratch: Finding and Hiring Junior Writers <https://www.youtube.com/watch?v=GiHZY8P4kpA>`__
 - |:movie_camera:| `Interviewing and hiring technical writers: the Siberian way <https://www.youtube.com/watch?v=tcjLbCLcPTo>`__
 - |:newspaper:| `Hiring for technical background </blog/newsletter-december-2016/#hiring-for-technical-background>`__
+
+.. _topic-getting-hired:
 
 Getting hired
 ~~~~~~~~~~~~~
@@ -362,6 +370,8 @@ Related roles
 - |:movie_camera:| `Operations Technical Writing for Data Centers <https://www.youtube.com/watch?v=4AwmQmWK7Ys>`__
 - |:movie_camera:| `Beyond Software - Learning from Other Technical Writers <https://www.youtube.com/watch?v=pfLw8WmQ3nM>`__
 - |:movie_camera:| `Oops, I Became an Engineer <https://www.youtube.com/watch?v=b_Bo0sHEc7A>`__
+
+.. _topic-career-growth:
 
 Career growth
 ~~~~~~~~~~~~~
@@ -433,6 +443,8 @@ Learning...
 Design and UX
 -------------
 
+.. _topic-accessibility-and-inclusivity:
+
 Accessibility and inclusivity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -478,6 +490,8 @@ Design
 - |:movie_camera:| `We Are All Abbott and Costello <https://www.youtube.com/watch?v=1yhyxuu_oWw>`__
 - |:movie_camera:| `Designing Information for Growth <https://www.youtube.com/watch?v=-y4itLMwX8g>`__
 - |:movie_camera:| `advanced web typography <https://www.youtube.com/watch?v=pQ1vx8DlLag&index=3&list=PLZAeFn6dfHpnHBLE4qEUwg1LjhDZEvC2A>`__
+
+.. _topic-ux-writing:
 
 UX writing
 ~~~~~~~~~~
@@ -527,6 +541,8 @@ User needs
 - |:movie_camera:| `Documentation with Human Connection <https://www.youtube.com/watch?v=K5eqNcjNvgU>`__
 - |:movie_camera:| `User-Story Driven Docs <https://www.youtube.com/watch?v=MRnZFVCirQM>`__
 
+.. _topic-doc-tools:
+
 Doc tools
 ---------
 
@@ -559,6 +575,8 @@ Doc tools
 - |:movie_camera:| `Writing multi-language documentation using Sphinx <https://www.youtube.com/watch?v=53iJTYLji0I&index=4&list=PLZAeFn6dfHpnHBLE4qEUwg1LjhDZEvC2A>`__
 - |:movie_camera:| `Designing MkDocs <https://www.youtube.com/watch?v=aOtnoBphzJ4&list=PLZAeFn6dfHpnHBLE4qEUwg1LjhDZEvC2A&index=10>`__
 - |:movie_camera:| `Going from Publican to Read the Docs <https://www.youtube.com/watch?v=UHsIhWI4hgE&index=12&list=PLZAeFn6dfHpnHBLE4qEUwg1LjhDZEvC2A>`__
+
+.. _topic-docs-as-code:
 
 Docs-as-code
 ~~~~~~~~~~~~
@@ -620,6 +638,8 @@ AI and LLMs
 - |:newspaper:| `Documenting AI </blog/newsletter-march-2023/#documenting-ai>`__
 - |:newspaper:| `Will AI take over documentation? </blog/newsletter-february-2023/#will-ai-take-over-documentation>`__
 
+.. _topic-automation:
+
 Automation
 ~~~~~~~~~~
 
@@ -642,6 +662,8 @@ Git
 - |:newspaper:| `To git or not to git docs as code </blog/newsletter-august-2020/#to-git-or-not-to-git-docs-as-code>`__
 - |:newspaper:| `Learning material recommendations - fundamentals of tech writing, content strategy, API docs, Git </blog/newsletter-march-2020/#learning-material-recommendations>`__
 - |:newspaper:| `Learning Git </blog/newsletter-april-2017/#starter-kit-for-command-line-git>`__
+
+.. _topic-search:
 
 Search
 ~~~~~~~
@@ -718,6 +740,8 @@ Culture and community
 - |:movie_camera:| `5 things I learned from my first open source contribution <https://www.youtube.com/watch?v=T1-AnEfUR4M>`__
 - |:movie_camera:| `A Year in the Life of The Better Docs Project <https://www.youtube.com/watch?v=P3NL-Mms4-M>`__
 - |:movie_camera:| `Technical writing as public service: working on open source in government <https://www.youtube.com/watch?v=oAxPs_e8oPk>`__
+
+.. _topic-building-docs-culture:
 
 Building docs culture
 ~~~~~~~~~~~~~~~~~~~~~
@@ -814,6 +838,8 @@ Including review, editing, and teaching.
 - |:movie_camera:| `You have already succeeded: Design critique guidelines make feedback easier <https://www.youtube.com/watch?v=E_GyqG3Gd38>`__
 - |:movie_camera:| `How GitHub uses GitHub to document GitHub <https://www.youtube.com/watch?v=s46m8H4BrrE>`__
 
+.. _topic-customer-support:
+
 Customer support
 ~~~~~~~~~~~~~~~~
 
@@ -823,6 +849,8 @@ Customer support
 - |:movie_camera:| `Only Interesting Conversations: The symbiotic relationship between docs and support <https://www.youtube.com/watch?v=qXrX6hZO6V0>`__
 - |:movie_camera:| `Documentarians and Support: Work Better Together <https://www.youtube.com/watch?v=qBpwoQftxcA>`__
 - |:movie_camera:| `Two Great Teams that Work Better Together: Bridging the Gap Between Documentation and Customer Support <https://www.youtube.com/watch?v=HIvehEUKDfk>`__
+
+.. _topic-helping-engineers-to-write:
 
 Helping engineers to write
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -907,6 +935,8 @@ Agile and workflows
 - |:movie_camera:| `Postulating The Backlog Laxative <https://www.youtube.com/watch?v=MD-RwSw-NGA>`__
 - |:movie_camera:| `Judas Priest Ate My Scrum Master <https://www.youtube.com/watch?v=35AzPlwAhNg>`__
 - |:movie_camera:| `Your Personal Tech-Writing Agile Manifesto (or: Scrum is not a 4-character word) <https://www.youtube.com/watch?v=yooC1DL2bnA&list=PLZAeFn6dfHpnHBLE4qEUwg1LjhDZEvC2A&index=18>`__
+
+.. _topic-continuous-delivery:
 
 Continuous delivery
 ~~~~~~~~~~~~~~~~~~~

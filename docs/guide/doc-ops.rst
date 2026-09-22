@@ -77,3 +77,7 @@ If you're interested in DocOps, join the conversation in the Write the Docs Slac
 .. _CA Technologies: https://www.k15t.com/blog/2014/12/webinar-how-ca-technologies-broke-the-rules-the-docops-approach-to-agile-technical-content
 .. _Chris Noonan: https://www.youtube.com/watch?v=2HjeYNs2z7o
 .. _Doc Tool Hub: https://doctoolhub.com/collection/docops/ 
+
+.. seealso::
+
+   Browse talks and newsletter articles about :ref:`automation <topic-automation>` and :ref:`continuous delivery <topic-continuous-delivery>` in our content archive.

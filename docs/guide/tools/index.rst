@@ -37,3 +37,7 @@ Testing and quality
    :maxdepth: 2
 
    testing
+
+.. seealso::
+
+   Browse talks and newsletter articles about :ref:`documentation tools <topic-doc-tools>` in our content archive.

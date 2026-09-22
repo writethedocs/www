@@ -104,3 +104,7 @@ The approach has been presented at several other conferences or just video casts
 * Greach, Madrid, Spain: Ralf D. Müller: `Docs as code: arc42, AsciiDoc, Gradle & Co combined <https://www.youtube.com/watch?v=GkXpe-tZtNg>`_
 * JavaMagazin: Gernot Starke, Ralf D. Müller: `Hitchhiker’s Guide to Docs as Code <https://jaxenter.de/tag/hhgdc>`_ (German)
 * FrOSCon, Sankt Augustin, Germany: Christoph Stoettner: `Documentation with any Editor <https://media.ccc.de/v/froscon2018-2192-documentation_with_any_editor>`_
+
+.. seealso::
+
+   Browse talks and newsletter articles about :ref:`docs as code <topic-docs-as-code>` in our content archive.

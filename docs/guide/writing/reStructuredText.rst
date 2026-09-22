@@ -90,3 +90,7 @@ Resources
 * `A ReStructuredText Primer <http://docutils.sourceforge.net/docs/user/rst/quickstart.html>`_
 * `reStructuredText Primer <http://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>`_
 * `Cheatsheet <https://github.com/ralsina/rst-cheatsheet>`_
+
+.. seealso::
+
+   Browse talks and newsletter articles about :ref:`documentation tools <topic-doc-tools>` in our content archive.

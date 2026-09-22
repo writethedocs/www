@@ -59,3 +59,7 @@ Make it long-term
 ~~~~~~~~~~~~~~~~~
 
 Something like a good documentation system also needs pretty constant care and feeding, reorganizing, and other maintained work. If you view this project as getting the tools in place, without a long term commitment, it will fail just like your last system.
+
+.. seealso::
+
+   Browse talks and newsletter articles about :ref:`building docs culture <topic-building-docs-culture>` in our content archive.

@@ -60,3 +60,7 @@ Resources
 `W3Schools tutorial on XML <https://www.w3schools.com/xml/default.asp>`_
 
 `Using XML by A List Apart <https://alistapart.com/article/usingxml/#comments>`_
+
+.. seealso::
+
+   Browse talks and newsletter articles about :ref:`documentation tools <topic-doc-tools>` in our content archive.
