@@ -72,3 +72,7 @@ Considerations and "gotchas"
 - Import or export requirements (to or from other tools or sites, for example?).
   Your content may need to be made available to third party clients or other software consumers that repackage it for their uses.
   Likewise, you may consume content from other sources, such as code examples from an engineering repository.
+
+.. seealso::
+
+   Browse talks and newsletter articles about :ref:`documentation tools <topics:Doc tools>` in our content archive.

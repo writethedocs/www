@@ -98,10 +98,13 @@ extensions = [
     'notfound.extension',
     'sphinxemoji.sphinxemoji',
     'myst_parser',
+    'sphinx.ext.autosectionlabel',
     'sphinxext.opengraph',
     # Local build-speed fixes; must come after ablog, which it patches.
     '_ext.build_perf',
 ]
+
+autosectionlabel_prefix_document = True
 
 myst_heading_anchors = 4
 # Treat markdown links as plain URLs. Without this, myst tries to resolve
@@ -201,7 +204,7 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
-suppress_warnings = ['image.nonlocal_uri', 'myst.header']
+suppress_warnings = ['image.nonlocal_uri', 'myst.header', 'autosectionlabel.*']
 
 # Our additions
 

@@ -237,3 +237,7 @@ or ``README.rst`` to use reStructuredText.
 	-------
 
 	The project is licensed under the BSD license.
+
+.. seealso::
+
+   Browse talks and newsletter articles about :ref:`writing documentation <topics:Writing words>` in our content archive.

@@ -40,3 +40,7 @@ And for general writing style, see [style guides](https://www.writethedocs.org/g
 - *[Moving beyond empathy: a11y in documentation](https://www.youtube.com/watch?v=PS8ywGg0x-U)*
 - *[A11y-Friendly Documentation](https://www.youtube.com/watch?v=SLUJG625Si0)* from Write the Docs Prague 2018
 - *[Inclusive Tech Docs - TechComm Meets Accessibility](https://www.youtube.com/watch?v=RcjpBNIKlf8)* from Write the Docs EU 2015
+
+```{seealso}
+Browse talks and newsletter articles about {ref}`accessibility and inclusivity <topics:Accessibility and inclusivity>` in our content archive.
+```

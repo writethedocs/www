@@ -2,6 +2,7 @@ Content Archive by Topic
 ========================
 
 This page links to the topics that have been covered by `conference </conf/>`__ talks or in the `newsletter </newsletter/>`__.
+Where our :doc:`documentation guide </guide/index>` covers a topic, it's linked at the top of that section.
 They're in no particular order, and some topics are repeated if they fit into more than one category.
 Enjoy!
 
@@ -15,6 +16,8 @@ If you think something is wrongly categorized, please let us know.
 Writing words
 -------------
 
+- |:book:| Guide: :doc:`How to write software documentation </guide/writing/beginners-guide-to-docs>`
+- |:book:| Guide: :doc:`Documentation principles </guide/writing/docs-principles>`
 - |:newspaper:| `Getting past tech writer's block </blog/newsletter-may-2023/#getting-past-tech-writer-s-block>`__
 - |:movie_camera:| `Don't Say Simply <https://www.youtube.com/watch?v=gsT2BBWBVmM>`__
 - |:movie_camera:| `Aw Snap! The Docs, They Are A-Changin’ (with apologies to Bob Dylan) <https://www.youtube.com/watch?v=DYgw6xcpDmE>`__
@@ -151,6 +154,7 @@ Task-based writing
 API docs
 ~~~~~~~~
 
+- |:book:| Guide: :doc:`API documentation tools </guide/api/api-documentation-tools>`
 - |:newspaper:| `Improving your API documentation skills </blog/newsletter-september-2025/#improving-your-api-documentation-skills>`__
 - |:newspaper:| `Should APIs be documented with code? </blog/newsletter-october-2024/#should-apis-be-documented-with-code>`__
 - |:newspaper:| `API design with docs in mind </blog/newsletter-september-2024/#api-design-with-docs-in-mind>`__
@@ -310,6 +314,7 @@ Jobs and careers
 Hiring
 ~~~~~~~
 
+- |:book:| Guide: :doc:`Guide to hiring and getting hired </hiring-guide/index>`
 - |:newspaper:| `Questions To Ask as an Interviewer </blog/newsletter-april-2024/#questions-to-ask-as-an-interviewer>`__
 - |:movie_camera:| `Fostering Technical Writing in Developing Nations <https://www.youtube.com/watch?v=DpYFUeeL3KY>`__
 - |:newspaper:| `Using writing tests when hiring </blog/newsletter-august-2019/#using-writing-tests-when-hiring>`__
@@ -323,6 +328,7 @@ Hiring
 Getting hired
 ~~~~~~~~~~~~~
 
+- |:book:| Guide: :doc:`Guide to hiring and getting hired </hiring-guide/index>`
 - |:newspaper:| `Doing unpaid work for a job </blog/newsletter-september-2026/#doing-unpaid-work-for-a-job>`__
 - |:newspaper:| `Are tool experience requirements a myth? </blog/newsletter-november-2024/#are-tool-experience-requirements-a-myth>`__
 - |:newspaper:| `Handling employment gaps </blog/newsletter-september-2024/#handling-employment-gaps>`__
@@ -360,6 +366,7 @@ Related roles
 Career growth
 ~~~~~~~~~~~~~
 
+- |:book:| Guide: :doc:`Conquering imposter syndrome </guide/imposter>`
 - |:newspaper:| `Defining a full-stack documentarian </blog/newsletter-february-2026/#defining-a-full-stack-documentarian>`__
 - |:newspaper:| `Leveling up as a solo documentarian </blog/newsletter-april-2025/#leveling-up-as-a-solo-documentarian>`__
 - |:newspaper:| `The highs and lows of writing alone </blog/newsletter-february-2025/#the-highs-and-lows-of-writing-alone>`__
@@ -429,6 +436,8 @@ Design and UX
 Accessibility and inclusivity
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- |:book:| Guide: :doc:`Accessibility guidelines </guide/writing/accessibility>`
+- |:book:| Guide: :doc:`Reducing bias in your writing </guide/writing/reducing-bias>`
 - |:newspaper:| `Style guidance for alt text </blog/newsletter-february-2026/#style-guidance-for-alt-text>`__
 - |:movie_camera:| `ADHD and its impact on the Creative Process for Writers <https://www.youtube.com/watch?v=YLyfhTzADAA>`__
 - |:movie_camera:| `Writing Documentation with Neurodivergent Open Source Contributors In Mind <https://www.youtube.com/watch?v=TV-bawUDibc>`__
@@ -473,6 +482,7 @@ Design
 UX writing
 ~~~~~~~~~~
 
+- |:book:| Guide: :doc:`UX writing </guide/ux-writing>`
 - |:newspaper:| `Edge cases and when (and where!) to document them </blog/newsletter-june-2022/#edge-cases-and-when-and-where-to-document-them>`__
 - |:movie_camera:| `Invisible influence — the documentation behind UX copy <https://www.youtube.com/watch?v=efmtoJ6Q-0Q>`__
 - |:movie_camera:| `Little words, big ideas: How to write microcopy that works <https://www.youtube.com/watch?v=RBStYOBgeB4>`__
@@ -520,6 +530,12 @@ User needs
 Doc tools
 ---------
 
+- |:book:| Guide: :doc:`Choosing tools for documentation </guide/choosing-tools>`
+- |:book:| Guide: :doc:`Tools for documentation writing </guide/tools/index>`
+- |:book:| Guide: :doc:`Markdown </guide/writing/markdown>`
+- |:book:| Guide: :doc:`reStructuredText </guide/writing/reStructuredText>`
+- |:book:| Guide: :doc:`AsciiDoc </guide/writing/asciidoc>`
+- |:book:| Guide: :doc:`XML </guide/writing/xml>`
 - |:newspaper:| `To buy or build in the age of AI </blog/newsletter-april-2026/#to-buy-or-build-in-the-age-of-ai>`__
 - |:newspaper:| `Choosing a CCMS or a static site generator </blog/newsletter-june-2023/#choosing-a-ccms-or-a-static-site-generator>`__
 - |:movie_camera:| `Two years of Markdoc: what we’ve learned about balancing developer and author experience <https://www.youtube.com/watch?v=Js8ZK-eiwAg>`__
@@ -547,6 +563,7 @@ Doc tools
 Docs-as-code
 ~~~~~~~~~~~~
 
+- |:book:| Guide: :doc:`Docs as Code </guide/docs-as-code>`
 - |:newspaper:| `Migrating from many sources to docs-as-code </blog/newsletter-july-2026/#migrating-from-many-sources-to-docs-as-code>`__
 - |:newspaper:| `Learn docs-as-code </blog/newsletter-april-2025/#learn-docs-as-code>`__
 - |:newspaper:| `Where to keep content for reuse in docs-as-code </blog/newsletter-march-2025/#where-to-keep-content-for-reuse-in-docs-as-code>`__
@@ -606,6 +623,8 @@ AI and LLMs
 Automation
 ~~~~~~~~~~
 
+- |:book:| Guide: :doc:`DocOps </guide/doc-ops>`
+- |:book:| Guide: :doc:`Testing your documentation </guide/tools/testing>`
 - |:newspaper:| `Link-checking tools </blog/newsletter-may-2022/#link-checking-tools>`__
 - |:movie_camera:| `Unit Test the Docs: Why You Should Test Your Code Examples <https://www.youtube.com/watch?v=yCqteMY3L-g>`__
 - |:movie_camera:| `Beyond spell checking - what else can we check automatically? <https://www.youtube.com/watch?v=8NukYx5ggCM>`__
@@ -627,6 +646,7 @@ Git
 Search
 ~~~~~~~
 
+- |:book:| Guide: :doc:`Search engine optimization (SEO) for documentation </guide/seo>`
 - |:newspaper:| `SEO for docs: How much and how? </blog/newsletter-april-2025/#seo-for-docs-how-much-and-how>`__
 - |:movie_camera:| `The Search for Search <https://www.youtube.com/watch?v=yMN_XWHEAy4>`__
 - |:movie_camera:| `Making documentation discoverable in search engines <https://www.youtube.com/watch?v=729Fs7JJFAQ>`__
@@ -702,6 +722,7 @@ Culture and community
 Building docs culture
 ~~~~~~~~~~~~~~~~~~~~~
 
+- |:book:| Guide: :doc:`Building documentation mindshare in a company </guide/writing/mindshare>`
 - |:newspaper:| `Motivating Contributions to Internal Docs </blog/newsletter-september-2023/#motivating-contributions-to-internal-docs>`__
 - |:newspaper:| `The importance of docs... in 30 minutes </blog/newsletter-may-2023/#the-importance-of-docs-in-30-minutes>`__
 - |:movie_camera:| `Adventures in setting up a knowledge system for a research group <https://www.youtube.com/watch?v=5tv4bOPpI7M>`__
@@ -796,6 +817,7 @@ Including review, editing, and teaching.
 Customer support
 ~~~~~~~~~~~~~~~~
 
+- |:book:| Guide: :doc:`Producing documentation inside a Support team </guide/writing/support-team>`
 - |:newspaper:| `Supporting documentation, documenting support </blog/newsletter-february-2020/#supporting-documentation-documenting-support>`__
 - |:movie_camera:| `Power up your support team to create better documentation <https://www.youtube.com/watch?v=8QrsSsSqddc&index=3&list=PLy70RNJ7dYrJ1wANiqa7ObwUnoJjouQjt>`__
 - |:movie_camera:| `Only Interesting Conversations: The symbiotic relationship between docs and support <https://www.youtube.com/watch?v=qXrX6hZO6V0>`__
@@ -805,6 +827,7 @@ Customer support
 Helping engineers to write
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- |:book:| Guide: :doc:`Documentation best practices for developers </guide/starting>`
 - |:newspaper:| `Tactics for motivating docs contributions </blog/newsletter-october-2022/#tactics-for-motivating-docs-contributions>`__
 - |:newspaper:| `The engineer and the writer can be friends: tales of collaboration </blog/newsletter-july-2020/#the-engineer-and-the-writer-can-be-friends-tales-of-collaboration>`__
 - |:movie_camera:| `Teaching geeks to fish: tales of a contagious documentarian <https://www.youtube.com/watch?v=3IlcJYKdP1g>`__
@@ -888,6 +911,7 @@ Agile and workflows
 Continuous delivery
 ~~~~~~~~~~~~~~~~~~~
 
+- |:book:| Guide: :doc:`DocOps </guide/doc-ops>`
 - |:newspaper:| `Agile delivery and continuous releases </blog/newsletter-february-2019/#agile-delivery-and-continuous-releases>`__
 - |:movie_camera:| `Delivering High-Velocity Docs that Keep Pace with Rapid Release Cycles <https://www.youtube.com/watch?v=dHdBsNxtKeI>`__
 - |:movie_camera:| `Continuous Annoyment: Bringing More Zen to a Hectic Writing Environment <https://www.youtube.com/watch?v=y8yhjVYXa20>`__

@@ -61,3 +61,7 @@ Tools
 - `Google Search Console <https://search.google.com/search-console/about>`__
 - `Ahrefs Site Audit Tool <https://ahrefs.com/site-audit>`__
 - `Keywords Everywhere <https://keywordseverywhere.com/>`__ web browser extension
+
+.. seealso::
+
+   Browse talks and newsletter articles about :ref:`search <topics:Search>` in our content archive.
