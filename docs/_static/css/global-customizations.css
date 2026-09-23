@@ -508,3 +508,47 @@ div.body #mc_embed_signup input[type="submit"] {
 div.body #mc_embed_signup input[type="submit"]:hover {
     filter: brightness(0.95);
 }
+
+/** A page's own sections as a grid you can take in at once, for long pages
+    where a nested contents list runs past the first screen. **/
+
+div.body .page-nav {
+    border: none;
+    background: none;
+    margin: 1.5em 0 2em;
+    padding: 0;
+}
+
+div.body .page-nav > p.topic-title {
+    font-size: 17px;
+    margin-bottom: 12px;
+}
+
+div.body .page-nav > ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+div.body .page-nav > ul li {
+    list-style: none;
+    margin: 0;
+}
+
+div.body .page-nav > ul li a {
+    display: block;
+    padding: 10px 14px;
+    border: 1px solid #E2E2DC;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+
+div.body .page-nav > ul li a:hover {
+    border-color: #2ECC71;
+    background-color: #FAFCFA;
+    text-decoration: none;
+}

@@ -17,14 +17,15 @@ Due to an increase in spammers, joining takes a short `signup form`_.
 Our :doc:`/code-of-conduct` applies to our Slack, so please read the guidelines
 below carefully before you post.
 
-.. note::
-    Our Slack includes animated emoji, and other animations are sometimes posted.
-    If you think these may be unpleasant for you, you can `disable all animations`_
-    in your Slack client.
-
 .. _signup form: {{ slack_form }}
 .. _this page: https://github.com/writethedocs/www/blob/main/docs/slack.rst
 .. _disable all animations: https://slack.com/help/articles/228023907-Manage-animated-images-and-emoji
+
+.. contents:: What's on this page
+   :local:
+   :depth: 1
+   :backlinks: none
+   :class: page-nav
 
 Slack history
 -------------
@@ -50,8 +51,8 @@ Here are a few ways to preserve what you've learned for yourself and others:
    Even if we had such resources, upgrading Slack is not a priority
    and many people feel a freedom in knowing that their words will disappear shortly.
 
-Other chat platforms (such as Discord)
---------------------------------------
+Other chat platforms
+--------------------
 
 Write the Docs does not have an official presence on Discord or other chat platforms.
 
@@ -195,6 +196,11 @@ People who are new to our community in particular should be assisted and welcome
 
 Our :doc:`/code-of-conduct` applies to all spaces associated with Write the Docs, which includes our Slack.
 In addition, we have several Slack-specific guidelines:
+
+.. note::
+    Our Slack includes animated emoji, and other animations are sometimes posted.
+    If you think these may be unpleasant for you, you can `disable all animations`_
+    in your Slack client.
 
 Social tips
 ~~~~~~~~~~~
