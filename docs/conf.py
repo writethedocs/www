@@ -236,8 +236,20 @@ elif datetime.date(2026, 6, 2) <= datetime.date.today() <= datetime.date(2026, 9
 elif datetime.date(2026, 9, 6) <= datetime.date.today() <= datetime.date(2026, 9, 9):
     announcement_message = "Berlin 2026: Sep 6-8. <a href='/conf/berlin/2026/'>View the conference site</a>."
 
+# The salary survey, which is open for submissions for part of the year.
+# Update these when the next survey opens; the front page swaps between
+# asking people to take it and pointing at the published results.
+_salary_survey_closes = datetime.date(2027, 1, 31)
+salary_survey = {
+    'year': 2026,
+    'url': 'https://salary-survey.writethedocs.org/',
+    'open': datetime.date.today() <= _salary_survey_closes,
+    'closes': f'{_salary_survey_closes.day} {_salary_survey_closes:%B %Y}',
+}
+
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
+    'salary_survey': salary_survey,
     'newsletter_subs': '10,000',
     'slack_members': '22,500',
     'website_visits': '20,000',
