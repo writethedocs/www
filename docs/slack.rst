@@ -27,47 +27,88 @@ below carefully before you post.
    :backlinks: none
    :class: page-nav
 
-Slack history
--------------
+Using the Slack
+---------------
 
-We don't pay for our Slack, which means that the community only has access to messages from the last 90 days.
-That doesn't mean everything gets lost, though.
-Here are a few ways to preserve what you've learned for yourself and others:
+Channel guide
+~~~~~~~~~~~~~
 
-- React to a message with ``:suggest-for-newsletter:`` emoji to nominate it for inclusion in our next monthly newsletter.
-  Read the newsletter archives at :doc:`/newsletter` and subscribe if you want them directly in your inbox!
-- Contribute a summary to one of the Write the Docs site's :doc:`/about/learning-resources`.
-- Turn a discussion into a talk proposal for :doc:`an upcoming Write the Docs conference </conf/index>`.
-- `Save a message`__ privately in Slack.
-- Recap what you learned and share it on your own site or social media accounts. Don't forget to tag ``#writethedocs``!
+The Write the Docs Slack has *lots* of channels.
+Some channels are widely joined, while others are more specialized.
+Here's an overview of how we use channels on Slack.
+If you want to include other channels you enjoy, send a Pull Request to update `this page`_.
 
-.. __: https://slack.com/intl/en-gb/help/articles/360042650274-Save-messages-and-files-
+Default channels
+++++++++++++++++
 
-.. admonition:: Why we don't pay for Slack
-   :class: note
+Everyone who joins the Slack will be added to these channels:
 
-   The Write the Docs Slack community is free to access and we aim to keep it that way.
-   A Slack subscription is prohibitively expensive—over $10,000 per month—for a community as large as ours.
-   Even if we had such resources, upgrading Slack is not a priority
-   and many people feel a freedom in knowing that their words will disappear shortly.
+* **#intros** - Introduce yourself! Let people know you're here, and why you care about docs :)
+* **#announcements** - Community-wide announcements from the Write the Docs organizers.
+* **#general** - The main channel for documentation-related conversation and questions.
+* **#job-posts-only** - Posting jobs. (Talk about your job search in **#work-wanted** and **#career-advice**.)
+* **#wtd-conferences** - Questions and discussion for :doc:`/conf/index`. (Talk about other conferences in **#community-events**.)
+* **#meetups** - Questions and discussion for Write the Docs :doc:`/meetups/index`. (Talk about other meetups in **#community-events**.)
+* **#watercooler** - Off-topic chat. Get to know folks' other interests that aren't around documentation :)
 
-Other chat platforms
---------------------
+Other useful topical channels
++++++++++++++++++++++++++++++
 
-Write the Docs does not have an official presence on Discord or other chat platforms.
+* **#career-advice** - Should you take that job? Am I being paid enough? Ask here!
+* **#learn-tech-writing** - Are you considering a job in documentation, or want to tune up your skills? Chat with experts and other learners here, and consider reading a tech writing-related book with the WTD book club!
+* **#markup-the-docs** - Talk about markup languages. Markdown, rST, Asciidoc, etc.
+* **#documenting-apis** - Talk about REST APIs. Swagger, Apiary, API Blueprint, and other API doc tools.
+* **#sphinx** - Talk about the Sphinx documentation generation tool.
+* **#flare** - Talk about the Flare documentation toolkit.
+* **#confluence** - Talk about everyone's favorite Wiki.
+* **#community-showcase** - Announce your projects here! Blog posts, docs, code, products—whatever you make that you're excited to share!
+* **#community-help-wanted** - Got an open-source project that needs docs contributors? Looking for open-source communities who will mentor you while you contribute to their docs? This channel is for you! Only for volunteer/unpaid work with open-source projects; companies and paid job postings should continue to use #job-posts-only. 
+* **#wtd-weps** - Ask questions about the Write the Docs Enhancement Proposal (WEP) system and brainstorm on pre-proposal ideas to help improve our community processes and governance.
 
-People sometimes ask about moving the community to a different tool, like Discord, so we can access more chat history or benefit from fewer chat accounts to manage.
-We considered that, and decided not to for the following reasons:
+Channels that serve specific communities & their allies
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-- Many workplaces restrict access to social media sites including Discord.
-  Because it's a work-related community, a lot of people access the Write the Docs Slack from their work computers alongside their employers' Slack instances.
-  They often cannot do the same for other chat platforms.
-- Migrating platforms is not a priority for the capacity of our small moderation team.
-  Our community has a *lot* of people in it - we've got over {{ slack_members }} registered members.
-  Moving an active community that large to a different platform requires a lot of attention that we believe is better spent on other tasks to serve the community.
+Allies are welcome as guests in these channels. Please be considerate.
+
+* **#bipoc** - Social and discussion space for Write the Docs' :doc:`/bipoc` community.
+* **#lgbtq** - Social and discussion space for LGBTQ+ people in the WTD community.
+
+Location-based channels
++++++++++++++++++++++++
+
+We have too many location-based channels to list.
+Chances are we have a large group of folks in your area,
+so join up and chat with them.
+They're a great way to get in touch with your local meetup organizer and community.
+
+Creating channels
++++++++++++++++++
+
+If you didn't see a channel that matches your interests, make sure to browse the complete channel list in Slack.
+
+If you still can't find a suitable channel, you can propose a new channel.
+We use this process to help channels succeed at creating discussion and introducing documentarians to others who share their interests.
+To propose a channel:
+
+#. Find two other people to cosponsor your channel idea.
+   Ask in related channels to find people who share your interest.
+#. Together, come up with a channel name and write a channel description.
+#. Post in **#meta** requesting a channel.
+   Be sure to share your proposed channel name, description, and to tag your cosponsors.
+#. Start thinking about how to seed the new channel with discussion, with an open-ended question, a link to discuss, or a hot take.
+
+The Write the Docs moderation team will review your proposal to make sure the new channel will remain active and won't duplicate or create confusion with another channel.
+Whenever possible, the moderators work with channel sponsors on improvements to the proposal.
+
+If your proposal is approved, then you and your cosponsors must:
+
+#. Seed discussion in the new channel.
+   A starter discussion helps others learn whether the channel is relevant to them and increases the number of documentarians who join the channel.
+#. Make an announcement in **#general** and channels related to the new channel's topic.
+   For example, if there's a new channel for underwater basket weaving, then make an announcement like "Join us in #underwater-basket-weaving to discuss techniques, materials, and what to store in all these baskets."
 
 Autoresponders
---------------
+~~~~~~~~~~~~~~
 
 We have some helpful Slackbot responses that you can summon in any channel, at any time.
 
@@ -110,83 +151,6 @@ We have some helpful Slackbot responses that you can summon in any channel, at a
 * ``?discord``
 
   - Returns the answer for one of our most common follow-up questions: why we don't move to a different tool like Discord.
-
-Channel guide
--------------
-
-The Write the Docs Slack has *lots* of channels.
-Some channels are widely joined, while others are more specialized.
-Here's an overview of how we use channels on Slack.
-If you want to include other channels you enjoy, send a Pull Request to update `this page`_.
-
-Default channels
-~~~~~~~~~~~~~~~~
-
-Everyone who joins the Slack will be added to these channels:
-
-* **#intros** - Introduce yourself! Let people know you're here, and why you care about docs :)
-* **#announcements** - Community-wide announcements from the Write the Docs organizers.
-* **#general** - The main channel for documentation-related conversation and questions.
-* **#job-posts-only** - Posting jobs. (Talk about your job search in **#work-wanted** and **#career-advice**.)
-* **#wtd-conferences** - Questions and discussion for :doc:`/conf/index`. (Talk about other conferences in **#community-events**.)
-* **#meetups** - Questions and discussion for Write the Docs :doc:`/meetups/index`. (Talk about other meetups in **#community-events**.)
-* **#watercooler** - Off-topic chat. Get to know folks' other interests that aren't around documentation :)
-
-Other useful topical channels
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* **#career-advice** - Should you take that job? Am I being paid enough? Ask here!
-* **#learn-tech-writing** - Are you considering a job in documentation, or want to tune up your skills? Chat with experts and other learners here, and consider reading a tech writing-related book with the WTD book club!
-* **#markup-the-docs** - Talk about markup languages. Markdown, rST, Asciidoc, etc.
-* **#documenting-apis** - Talk about REST APIs. Swagger, Apiary, API Blueprint, and other API doc tools.
-* **#sphinx** - Talk about the Sphinx documentation generation tool.
-* **#flare** - Talk about the Flare documentation toolkit.
-* **#confluence** - Talk about everyone's favorite Wiki.
-* **#community-showcase** - Announce your projects here! Blog posts, docs, code, products—whatever you make that you're excited to share!
-* **#community-help-wanted** - Got an open-source project that needs docs contributors? Looking for open-source communities who will mentor you while you contribute to their docs? This channel is for you! Only for volunteer/unpaid work with open-source projects; companies and paid job postings should continue to use #job-posts-only. 
-* **#wtd-weps** - Ask questions about the Write the Docs Enhancement Proposal (WEP) system and brainstorm on pre-proposal ideas to help improve our community processes and governance.
-
-Channels that serve specific communities & their allies
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Allies are welcome as guests in these channels. Please be considerate.
-
-* **#bipoc** - Social and discussion space for Write the Docs' :doc:`/bipoc` community.
-* **#lgbtq** - Social and discussion space for LGBTQ+ people in the WTD community.
-
-Location-based channels
-~~~~~~~~~~~~~~~~~~~~~~~
-
-We have too many location-based channels to list.
-Chances are we have a large group of folks in your area,
-so join up and chat with them.
-They're a great way to get in touch with your local meetup organizer and community.
-
-Creating channels
-~~~~~~~~~~~~~~~~~
-
-If you didn't see a channel that matches your interests, make sure to browse the complete channel list in Slack.
-
-If you still can't find a suitable channel, you can propose a new channel.
-We use this process to help channels succeed at creating discussion and introducing documentarians to others who share their interests.
-To propose a channel:
-
-#. Find two other people to cosponsor your channel idea.
-   Ask in related channels to find people who share your interest.
-#. Together, come up with a channel name and write a channel description.
-#. Post in **#meta** requesting a channel.
-   Be sure to share your proposed channel name, description, and to tag your cosponsors.
-#. Start thinking about how to seed the new channel with discussion, with an open-ended question, a link to discuss, or a hot take.
-
-The Write the Docs moderation team will review your proposal to make sure the new channel will remain active and won't duplicate or create confusion with another channel.
-Whenever possible, the moderators work with channel sponsors on improvements to the proposal.
-
-If your proposal is approved, then you and your cosponsors must:
-
-#. Seed discussion in the new channel.
-   A starter discussion helps others learn whether the channel is relevant to them and increases the number of documentarians who join the channel.
-#. Make an announcement in **#general** and channels related to the new channel's topic.
-   For example, if there's a new channel for underwater basket weaving, then make an announcement like "Join us in #underwater-basket-weaving to discuss techniques, materials, and what to store in all these baskets."
 
 Guidelines
 ----------
@@ -379,3 +343,45 @@ Credit
 
 This concept is inspired by the `Recurse Center's Social Rules <https://www.recurse.com/manual#sub-sec-social-rules>`_.
 Thanks for the inspiration!
+
+How our Slack works
+-------------------
+
+Slack history
+~~~~~~~~~~~~~
+
+We don't pay for our Slack, which means that the community only has access to messages from the last 90 days.
+That doesn't mean everything gets lost, though.
+Here are a few ways to preserve what you've learned for yourself and others:
+
+- React to a message with ``:suggest-for-newsletter:`` emoji to nominate it for inclusion in our next monthly newsletter.
+  Read the newsletter archives at :doc:`/newsletter` and subscribe if you want them directly in your inbox!
+- Contribute a summary to one of the Write the Docs site's :doc:`/about/learning-resources`.
+- Turn a discussion into a talk proposal for :doc:`an upcoming Write the Docs conference </conf/index>`.
+- `Save a message`__ privately in Slack.
+- Recap what you learned and share it on your own site or social media accounts. Don't forget to tag ``#writethedocs``!
+
+.. __: https://slack.com/intl/en-gb/help/articles/360042650274-Save-messages-and-files-
+
+.. admonition:: Why we don't pay for Slack
+   :class: note
+
+   The Write the Docs Slack community is free to access and we aim to keep it that way.
+   A Slack subscription is prohibitively expensive—over $10,000 per month—for a community as large as ours.
+   Even if we had such resources, upgrading Slack is not a priority
+   and many people feel a freedom in knowing that their words will disappear shortly.
+
+Other chat platforms
+~~~~~~~~~~~~~~~~~~~~
+
+Write the Docs does not have an official presence on Discord or other chat platforms.
+
+People sometimes ask about moving the community to a different tool, like Discord, so we can access more chat history or benefit from fewer chat accounts to manage.
+We considered that, and decided not to for the following reasons:
+
+- Many workplaces restrict access to social media sites including Discord.
+  Because it's a work-related community, a lot of people access the Write the Docs Slack from their work computers alongside their employers' Slack instances.
+  They often cannot do the same for other chat platforms.
+- Migrating platforms is not a priority for the capacity of our small moderation team.
+  Our community has a *lot* of people in it - we've got over {{ slack_members }} registered members.
+  Moving an active community that large to a different platform requires a lot of attention that we believe is better spent on other tasks to serve the community.
