@@ -42,5 +42,5 @@ And for general writing style, see [style guides](https://www.writethedocs.org/g
 - *[Inclusive Tech Docs - TechComm Meets Accessibility](https://www.youtube.com/watch?v=RcjpBNIKlf8)* from Write the Docs EU 2015
 
 ```{seealso}
-Browse talks and newsletter articles about {ref}`accessibility and inclusivity <topic-accessibility-and-inclusivity>` in our content archive.
+Browse talks and newsletter articles about {ref}`accessibility and inclusivity <topics:Accessibility and inclusivity>` in our content archive.
 ```

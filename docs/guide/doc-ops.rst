@@ -80,4 +80,4 @@ If you're interested in DocOps, join the conversation in the Write the Docs Slac
 
 .. seealso::
 
-   Browse talks and newsletter articles about :ref:`automation <topic-automation>` and :ref:`continuous delivery <topic-continuous-delivery>` in our content archive.
+   Browse talks and newsletter articles about :ref:`automation <topics:Automation>` and :ref:`continuous delivery <topics:Continuous delivery>` in our content archive.

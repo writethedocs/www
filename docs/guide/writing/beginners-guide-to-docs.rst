@@ -240,4 +240,4 @@ or ``README.rst`` to use reStructuredText.
 
 .. seealso::
 
-   Browse talks and newsletter articles about :ref:`writing documentation <topic-writing-words>` in our content archive.
+   Browse talks and newsletter articles about :ref:`writing documentation <topics:Writing words>` in our content archive.

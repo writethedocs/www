@@ -158,5 +158,5 @@ You can also "cheat", adding HTML-formatted text when markdown seems too limited
 - [Markdown Syntax](https://www.markdownlang.com/basic/overview.html)
 
 ```{seealso}
-Browse talks and newsletter articles about {ref}`documentation tools <topic-doc-tools>` in our content archive.
+Browse talks and newsletter articles about {ref}`documentation tools <topics:Doc tools>` in our content archive.
 ```

@@ -75,4 +75,4 @@ Considerations and "gotchas"
 
 .. seealso::
 
-   Browse talks and newsletter articles about :ref:`documentation tools <topic-doc-tools>` in our content archive.
+   Browse talks and newsletter articles about :ref:`documentation tools <topics:Doc tools>` in our content archive.

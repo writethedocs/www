@@ -64,4 +64,4 @@ Tools
 
 .. seealso::
 
-   Browse talks and newsletter articles about :ref:`search <topic-search>` in our content archive.
+   Browse talks and newsletter articles about :ref:`search <topics:Search>` in our content archive.

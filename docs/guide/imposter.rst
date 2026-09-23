@@ -55,4 +55,4 @@ We won't be able to change the fact that it's the product that rakes in the mone
 
 .. seealso::
 
-   Browse talks and newsletter articles about :ref:`career growth <topic-career-growth>` in our content archive.
+   Browse talks and newsletter articles about :ref:`career growth <topics:Career growth>` in our content archive.

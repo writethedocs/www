@@ -41,5 +41,5 @@ Relevant talks from Write the Docs:
 - [The Story Shack - name generators](https://thestoryshack.com/tools/)
 
 ```{seealso}
-Browse talks and newsletter articles about {ref}`accessibility and inclusivity <topic-accessibility-and-inclusivity>` in our content archive.
+Browse talks and newsletter articles about {ref}`accessibility and inclusivity <topics:Accessibility and inclusivity>` in our content archive.
 ```

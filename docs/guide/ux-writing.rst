@@ -45,4 +45,4 @@ Online courses
 
 .. seealso::
 
-   Browse talks and newsletter articles about :ref:`UX writing <topic-ux-writing>` in our content archive.
+   Browse talks and newsletter articles about :ref:`UX writing <topics:UX writing>` in our content archive.

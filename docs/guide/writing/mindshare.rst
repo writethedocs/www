@@ -62,4 +62,4 @@ Something like a good documentation system also needs pretty constant care and f
 
 .. seealso::
 
-   Browse talks and newsletter articles about :ref:`building docs culture <topic-building-docs-culture>` in our content archive.
+   Browse talks and newsletter articles about :ref:`building docs culture <topics:Building docs culture>` in our content archive.

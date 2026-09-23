@@ -79,4 +79,4 @@ Even though being in a unique role within a team may feel awkward to you at firs
 
 .. seealso::
 
-   Browse talks and newsletter articles about :ref:`customer support <topic-customer-support>` in our content archive.
+   Browse talks and newsletter articles about :ref:`customer support <topics:Customer support>` in our content archive.

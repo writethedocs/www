@@ -115,4 +115,4 @@ validate your documents. Tools like Dredd can test your documentation against th
 
 .. seealso::
 
-   Browse talks and newsletter articles about :ref:`API documentation <topic-api-docs>` in our content archive.
+   Browse talks and newsletter articles about :ref:`API documentation <topics:API docs>` in our content archive.

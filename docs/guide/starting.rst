@@ -28,4 +28,4 @@ implementing a documentation solution at your company, see :doc:`writing/mindsha
 
 .. seealso::
 
-   Browse talks and newsletter articles about :ref:`helping engineers to write <topic-helping-engineers-to-write>` in our content archive.
+   Browse talks and newsletter articles about :ref:`helping engineers to write <topics:Helping engineers to write>` in our content archive.

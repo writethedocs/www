@@ -73,4 +73,4 @@ The templates are provided as Google Docs. View Google's `help center <https://s
 
 .. seealso::
 
-   Browse talks and newsletter articles about :ref:`hiring <topic-hiring>` and :ref:`getting hired <topic-getting-hired>` in our content archive.
+   Browse talks and newsletter articles about :ref:`hiring <topics:Hiring>` and :ref:`getting hired <topics:Getting hired>` in our content archive.
