@@ -6,9 +6,11 @@ documentarians outside of the conferences. These groups are a great way to netwo
 to date with the documentation world.
 Each has its own style, which varies based on the organizers and the locale it represents.
 
-Groups are run by volunteer organizers, so the type and frequency of events varies.
-Most use the Meetup platform, and many also have a LinkedIn page or other social media
-to share their events.
+Groups are run by volunteer organizers, so the type and frequency of events depends on
+the organizers, their schedule and group engagement.
+Most groups use the Meetup platform, which supports in-person and virtual events, though
+it isn't required.
+Many also have a LinkedIn page or other social media to share their events.
 Learn more in the `Organize a community group`_ section below.
 
 Current meetups
