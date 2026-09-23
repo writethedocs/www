@@ -1,8 +1,15 @@
-Newsletter & Mailing lists
-==========================
+Newsletter
+==========
 
 Write the Docs publishes a monthly newsletter, sharing interesting information
 and ideas that have been shared in our Slack network.
+Over {{ newsletter_subs }} people get it in their inbox.
+
+.. raw:: html
+
+   <div class="cta-group">
+      <a class="cta-button" href="#sign-up">Subscribe to the newsletter</a>
+   </div>
 
 Latest newsletters
 ------------------
@@ -14,12 +21,14 @@ Latest newsletters
    :list-style: circle
 
 `View all past newsletters </blog/archive/tag/newsletter/>`__
+or browse the :doc:`content index </topics>`, which sorts every newsletter
+article and conference talk by what it's about.
 
 Sign up
 -------
 
-Use this form to sign up for our newsletter (and announcements for our conferences
-too, if you like):
+Pick the monthly newsletter, announcements for the conferences you care about,
+or both:
 
 
 .. raw :: html
@@ -83,16 +92,17 @@ too, if you like):
 Sponsorship
 -----------
 
-If you'd like to be featured in an edition of the newsletter as a sponsor, take a look
-at the :doc:`sponsor the newsletter </sponsorship/newsletter>` page.
+Reach over {{ newsletter_subs }} documentarians with a logo, two paragraphs of
+copy and two links in an edition of the newsletter.
 
-Explore past topics
--------------------
+.. raw:: html
 
-If you're looking for a specific topic, try the `content index </topics/>`__, which includes videos of conference talks as well.
+   <div class="cta-group">
+      <a class="cta-button" href="/sponsorship/newsletter/">Sponsor the newsletter</a>
+   </div>
 
 Get in touch
 ------------
 
-If you have any questions or want to contribute to the newsletter, go ahead and email us at `newsletter@writethedocs.org
-<mailto:newsletter@writethedocs.org>`_.
+If you have any questions or want to contribute to the newsletter, email us at
+`newsletter@writethedocs.org <mailto:newsletter@writethedocs.org>`_.

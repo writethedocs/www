@@ -431,3 +431,124 @@ table.sponsorship-pricing td:last-child {
     color: #fff;
     text-decoration: underline;
 }
+/** The Mailchimp signup form where it appears in a page body, on the
+    newsletter page. Scoped to div.body so the narrow sidebar copy, which has
+    its own layout, is left alone. **/
+
+div.body #mc_embed_signup {
+    max-width: 560px;
+    margin: 1.5em 0;
+    padding: 20px 24px;
+    border: 1px solid #E2E2DC;
+    border-radius: 6px;
+    background: #FAFAF8;
+}
+
+div.body #mc_embed_signup label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+div.body #mc_embed_signup input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+div.body #mc_embed_signup .input-group {
+    margin-top: 20px;
+}
+
+div.body #mc_embed_signup .input-group ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0;
+}
+
+div.body #mc_embed_signup .input-group li {
+    display: flex;
+    align-items: center;
+    margin: 0 0 10px;
+    padding-left: 0;
+}
+
+div.body #mc_embed_signup .input-group li::marker {
+    content: none;
+}
+
+div.body #mc_embed_signup .input-group label {
+    margin: 0;
+    font-weight: normal;
+}
+
+div.body #mc_embed_signup input[type="checkbox"] {
+    margin-right: 12px;
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+}
+
+div.body #mc_embed_signup input[type="submit"] {
+    margin-top: 16px;
+    padding: 12px 28px;
+    background-color: #2ECC71;
+    border: 1px solid #4a4a4a;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+div.body #mc_embed_signup input[type="submit"]:hover {
+    filter: brightness(0.95);
+}
+
+/** A page's own sections as a grid you can take in at once, for long pages
+    where a nested contents list runs past the first screen. **/
+
+div.body .page-nav {
+    border: none;
+    background: none;
+    margin: 1.5em 0 2em;
+    padding: 0;
+}
+
+div.body .page-nav > p.topic-title {
+    font-size: 17px;
+    margin-bottom: 12px;
+}
+
+div.body .page-nav > ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+div.body .page-nav > ul li {
+    list-style: none;
+    margin: 0;
+}
+
+div.body .page-nav > ul li a {
+    display: block;
+    padding: 10px 14px;
+    border: 1px solid #E2E2DC;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+
+div.body .page-nav > ul li a:hover {
+    border-color: #2ECC71;
+    background-color: #FAFCFA;
+    text-decoration: none;
+}
