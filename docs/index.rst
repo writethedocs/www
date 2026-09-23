@@ -49,7 +49,7 @@ More from Write the Docs
 * Subscribe to our :doc:`conference announcement </newsletter>` mailing lists
 * Read the latest in our :doc:`blog </blog/index>`
 * Read our :doc:`software documentation guide </guide/index>`
-* Read our latest `salary survey </surveys/>`__ results
+* Read our latest `salary survey </surveys/>`__ results, or `fill out the 2026 survey <https://salary-survey.writethedocs.org/>`__
 * Read our :doc:`Hiring Guide </hiring-guide/index>` to get started in the industry
 * Join our :doc:`book club </book-club/index>`
 * See all :doc:`learning resources </about/learning-resources>`
