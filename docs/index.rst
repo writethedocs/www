@@ -37,6 +37,13 @@ Get involved
          <p>A monthly roundup of what our community is talking about, for over {{ newsletter_subs }} subscribers.</p></li>
      <li><strong><a href="/topics/">Browse by topic</a></strong>
          <p>Over 700 talks and newsletter articles, on everything from API docs to getting hired.</p></li>
+     <li><strong><a href="/meetups/">Find a local meetup</a></strong>
+         <p>Local and virtual groups in over {{ meetup_cities }} cities, run by volunteers.</p></li>
+     <li><strong><a href="/surveys/">See the salary survey</a></strong>
+         <p>Anonymous pay data for documentation roles, published free every year.
+            The <a href="https://salary-survey.writethedocs.org/">2026 survey is open</a>.</p></li>
+     <li><strong><a href="/sponsorship/">Sponsor Write the Docs</a></strong>
+         <p>Reach documentarians through our conferences, newsletter, Slack and website.</p></li>
    </ul>
 
 More from Write the Docs
@@ -44,17 +51,14 @@ More from Write the Docs
 
 .. rst-class:: home-more
 
-* Join a :doc:`local or online meetup </meetups/index>` in over {{ meetup_cities }} cities
 * Watch past conference talks on our `YouTube channel <https://www.youtube.com/c/WritetheDocs>`_
 * Subscribe to our :doc:`conference announcement </newsletter>` mailing lists
 * Read the latest in our :doc:`blog </blog/index>`
 * Read our :doc:`software documentation guide </guide/index>`
-* Read our latest `salary survey </surveys/>`__ results, or `fill out the 2026 survey <https://salary-survey.writethedocs.org/>`__
 * Read our :doc:`Hiring Guide </hiring-guide/index>` to get started in the industry
 * Join our :doc:`book club </book-club/index>`
 * See all :doc:`learning resources </about/learning-resources>`
 * Learn about :doc:`our organization <about/about-the-org>`
-* Look into :doc:`sponsorship options <sponsorship/index>` for your company
 
 We're glad you stopped by!
 We hope you'll join us either online or in-person for an event soon.
