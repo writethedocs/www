@@ -5,7 +5,7 @@ banner: _static/conf/images/headers/berlin-2026-group-photo.jpg
 ---
 
 ```{eval-rst}
-.. post:: September 15, 2026
+.. post:: September 23, 2026
    :tags: {{shortcode}}-{{year}}
 ```
 
