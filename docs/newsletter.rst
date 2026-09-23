@@ -92,8 +92,14 @@ or both:
 Sponsorship
 -----------
 
-If you'd like to be featured in an edition of the newsletter as a sponsor, take a look
-at the :doc:`sponsor the newsletter </sponsorship/newsletter>` page.
+Reach over {{ newsletter_subs }} documentarians with a logo, two paragraphs of
+copy and two links in an edition of the newsletter.
+
+.. raw:: html
+
+   <div class="cta-group">
+      <a class="cta-button" href="/sponsorship/newsletter/">Sponsor the newsletter</a>
+   </div>
 
 Get in touch
 ------------
