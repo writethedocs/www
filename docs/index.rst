@@ -15,62 +15,73 @@ their users to be a member of our community. This can be programmers,
 tech writers, developer advocates, customer support, marketers, and anyone else who wants
 people to have great experiences with software.
 
-Attend a conference
--------------------
+Upcoming conferences
+--------------------
 
-We have upcoming conferences around the world:
+.. container:: home-next
 
-.. include:: /include/conf/current.rst
-   :start-after: current-conferences-list
+   .. include:: /include/conf/current.rst
+      :start-after: current-conferences-list
 
 See all :doc:`our conferences </conf/index>` from past years.
 
-Connect with the community
---------------------------
+Get involved
+------------
 
-Get more information on how to meet the community, get involved, stay in touch.
+.. raw:: html
 
-* Join our :doc:`Slack network </slack>` with thousands of other documentarians
-* Join a :doc:`local or online meetup </meetups/index>` to dive deeper into the community
-* Learn more about our :doc:`sponsorship options <sponsorship/index>` for your company
+   <ul class="home-doors">
+     <li><strong><a href="/slack/">Join our Slack network</a></strong>
+         <p>Over {{ slack_members }} people hanging out and chatting about documentation.</p></li>
+     <li><strong><a href="/newsletter/">Read the newsletter</a></strong>
+         <p>A monthly roundup of what our community is talking about, for over {{ newsletter_subs }} subscribers.</p></li>
+     <li><strong><a href="/topics/">Browse by topic</a></strong>
+         <p>Over 700 talks and newsletter articles, on everything from API docs to getting hired.</p></li>
+     <li><strong><a href="/meetups/">Find a local meetup</a></strong>
+         <p>Local and virtual groups in over {{ meetup_cities }} cities, run by volunteers.</p></li>
+     <li><strong><a href="/surveys/">See the salary survey</a></strong>
+         <p>Anonymous pay data for documentation roles, published free every year.
+            The <a href="https://salary-survey.writethedocs.org/">2026 survey is open</a>.</p></li>
+     <li><strong><a href="/sponsorship/">Sponsor Write the Docs</a></strong>
+         <p>Reach documentarians through our conferences, newsletter, Slack and website.</p></li>
+   </ul>
 
-Find or advertise a job
------------------------
-
-Work with other documentarians.
-
-* Read our :doc:`Hiring Guide </hiring-guide/index>` to get started in the industry
-* Read our latest `salary survey </surveys/>`__ results to get a sense of industry pay
-* Fill out the `salary survey for 2026 <https://salary-survey.writethedocs.org/>`_
-
-Learn from our resources
+More from Write the Docs
 ------------------------
 
-We have an ever-increasing set of articles, links, and resources. Watch our talks on YouTube:
+.. rst-class:: home-more
 
 * Watch past conference talks on our `YouTube channel <https://www.youtube.com/c/WritetheDocs>`_
-* Subscribe to our :doc:`newsletter and conference </newsletter>` mailing lists
-* Browse our :doc:`topic index </topics>`
+* Subscribe to our :doc:`conference announcement </newsletter>` mailing lists
 * Read the latest in our :doc:`blog </blog/index>`
-* Learn about :doc:`Write the Docs <about/about-the-org>`
+* Read our :doc:`software documentation guide </guide/index>`
+* Read our :doc:`Hiring Guide </hiring-guide/index>` to get started in the industry
+* Join our :doc:`book club </book-club/index>`
 * See all :doc:`learning resources </about/learning-resources>`
+* Learn about :doc:`our organization <about/about-the-org>`
 
 We're glad you stopped by!
 We hope you'll join us either online or in-person for an event soon.
 
-Site Content
-------------
+.. The sidebar nav is built from ``extra_nav_links`` in conf.py, so this only
+   needs to register the pages, not render a second copy of it on the page.
 
 .. toctree::
+   :hidden:
    :glob:
    :maxdepth: 1
-   :includehidden:
 
-   surveys/index
+   conf/index
+   slack
+   meetups/index
+   newsletter
+   topics
+   blog/index
    guide/index
+   surveys/index
+   hiring-guide/index
    book-club/index
-   Hiring guide <hiring-guide/index>
-   about/stay-connected
+   sponsorship/index
    about/*
 
 .. toctree::

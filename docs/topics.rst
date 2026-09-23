@@ -1,16 +1,18 @@
-Content Archive by Topic
-========================
+Content by topic
+================
 
-This page links to the topics that have been covered by `conference </conf/>`__ talks or in the `newsletter </newsletter/>`__.
-They're in no particular order, and some topics are repeated if they fit into more than one category.
+Over 700 `conference </conf/>`__ talks and `newsletter </newsletter/>`__ articles from our community,
+sorted by what they're about.
+Some pieces show up under more than one topic.
 Enjoy!
 
-If you think something is wrongly categorized, please let us know.
+If you think something is wrongly categorized, please `let us know </contact/>`__.
 
-.. contents::
+.. contents:: Jump to a topic
    :local:
-   :depth: 2
+   :depth: 1
    :backlinks: none
+   :class: topic-nav
 
 Writing words
 -------------

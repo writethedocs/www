@@ -431,3 +431,133 @@ table.sponsorship-pricing td:last-child {
     color: #fff;
     text-decoration: underline;
 }
+/** Front page: the handful of things we want people to click, and the rest **/
+
+/* The upcoming conferences. Dates are the point, so they get the one accent
+   on the page and read as a standalone list rather than as bulleted prose. */
+.home-next {
+    background-color: #F7F7F4;
+    border-left: 4px solid #2ECC71;
+    border-radius: 3px;
+    padding: 18px 24px;
+    margin: 1em 0 1.5em;
+}
+
+div.body .home-next ul {
+    margin: 0;
+    padding-left: 0;
+    list-style: none;
+}
+
+div.body .home-next li {
+    margin: 0 0 8px;
+    font-size: 17px;
+}
+
+div.body .home-next li:last-child {
+    margin-bottom: 0;
+}
+
+/* The three places we most want people to end up. Quiet boxes: the link does
+   the work, and the accent only shows on hover. */
+.home-doors {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+    gap: 16px;
+    margin: 1.5em 0;
+    padding: 0;
+    list-style: none;
+}
+
+.home-doors li {
+    list-style: none;
+    margin: 0;
+    padding: 16px 18px;
+    border: 1px solid #E2E2DC;
+    border-radius: 4px;
+    transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+
+.home-doors li:hover {
+    border-color: #2ECC71;
+    background-color: #FAFCFA;
+}
+
+.home-doors strong {
+    display: block;
+    font-size: 17px;
+    margin-bottom: 6px;
+}
+
+div.body .home-doors strong a {
+    border-bottom: none;
+    text-decoration: none;
+}
+
+.home-doors p {
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.45;
+    color: #4a4a4a;
+}
+
+div.body ul.home-more {
+    columns: 2;
+    column-gap: 36px;
+    padding-left: 1.2em;
+}
+
+div.body ul.home-more li {
+    break-inside: avoid;
+    margin-bottom: 4px;
+}
+
+@media screen and (max-width: 700px) {
+    div.body ul.home-more {
+        columns: 1;
+    }
+}
+
+/** Topic index: the twelve top-level topics, as a grid you can take in at
+    once. The full depth used to run to two screens of nested bullets. **/
+
+div.body .topic-nav {
+    border: none;
+    background: none;
+    margin: 1.5em 0 2em;
+    padding: 0;
+}
+
+div.body .topic-nav > p.topic-title {
+    font-size: 17px;
+    margin-bottom: 12px;
+}
+
+div.body .topic-nav > ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+div.body .topic-nav > ul li {
+    list-style: none;
+    margin: 0;
+}
+
+div.body .topic-nav > ul li a {
+    display: block;
+    padding: 10px 14px;
+    border: 1px solid #E2E2DC;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+
+div.body .topic-nav > ul li a:hover {
+    border-color: #2ECC71;
+    background-color: #FAFCFA;
+    text-decoration: none;
+}
