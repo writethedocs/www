@@ -89,11 +89,14 @@ or both:
     </div>
     <!--End mc_embed_signup-->
 
+Sponsorship
+-----------
+
+If you'd like to be featured in an edition of the newsletter as a sponsor, take a look
+at the :doc:`sponsor the newsletter </sponsorship/newsletter>` page.
+
 Get in touch
 ------------
 
 If you have any questions or want to contribute to the newsletter, email us at
 `newsletter@writethedocs.org <mailto:newsletter@writethedocs.org>`_.
-
-To be featured in an edition as a sponsor, take a look at the
-:doc:`sponsor the newsletter </sponsorship/newsletter>` page.
