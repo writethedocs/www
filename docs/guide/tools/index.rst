@@ -21,14 +21,15 @@ See the following pages for Sphinx guidance:
 Other documentation tools
 -------------------------
 
-While this section currently focuses on Sphinx, the Write the Docs community uses many documentation tools depending on project needs:
+The Write the Docs community uses a wide range of tools beyond Sphinx. See the
+:doc:`docs-as-code-tools-matrix` for a filterable comparison of 27 tools — static site
+generators, hosted platforms, API doc tools, AI writing assistants, and more — with
+columns for cost, markup language, versioning, security, AI features, and more.
 
-- **MkDocs**: Markdown-focused static site generator with live preview
-- **Docusaurus**: React-based tool by Meta with built-in versioning and i18n
-- **Jekyll**: Ruby-based static site generator, popular for GitHub Pages
-- **Hugo**: Extremely fast Go-based generator for content sites
+.. toctree::
+   :maxdepth: 1
 
-See the main :doc:`/guide/index` for broader documentation guidance applicable across tools.
+   docs-as-code-tools-matrix
 
 Testing and quality
 -------------------
