@@ -108,3 +108,16 @@ A clean and professional documentation theme for Sphinx. Modern design with ligh
 
 .. image:: /_static/img/clarity-theme.png
   :width: 80%
+
+Lumina
+------
+
+Lumina is a responsive theme with dark mode, instant search, and a collapsible mobile sidebar.
+It uses self-hosted fonts and is available on PyPI.
+
+* `Live demo and documentation <https://r4sky0.github.io/sphinx-lumina-theme/>`__
+* `Source code <https://github.com/r4sky0/sphinx-lumina-theme>`__
+
+.. image:: /_static/img/lumina.png
+  :width: 80%
+  :alt: Lumina documentation home page in light mode
