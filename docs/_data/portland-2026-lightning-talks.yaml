@@ -1,0 +1,75 @@
+series: Write the Docs Portland
+year: 2026
+conf_url: https://www.writethedocs.org/conf/portland/2026/
+coordinator:
+  name: Rose Williams
+  pronouns: she/her
+  role: Lightning Talks Wrangler
+
+days:
+  - name: Monday Lightning Talks
+    date: 2026-05-04
+    youtubeId: PPJIkprhfg4
+    sponsor:
+      name: Expert Support
+      url: https://expertsupport.com/?ref=writethedocs
+    talks:
+      - title: Career scheming and dreaming
+        subtitle: Job search prioritization matrix
+        speaker:
+          name: Liz Argall
+          pronouns: she/her
+      - title: Play for all
+        subtitle: Rethinking toy adaptation docs
+        speaker:
+          name: Jordan Cheung
+          pronouns: she/they
+      - title: Ponies, horses, frogs and toads
+        speaker:
+          name: Liz
+          pronouns: she/they
+      - title: Using Google Translate language chains to heal bad Final Fantasy translations
+        speaker:
+          name: Mat Bradley-Tschirgi
+          pronouns: he/him
+      - title: The therapist is in
+        speaker:
+          name: Liz Kellebrew-Davies
+          pronouns: she/her
+      - title: '"No one could do it like you"'
+        subtitle: Mentoring that hurts
+        speaker:
+          name: Ingrid Towey
+          pronouns: she/her
+
+  - name: Tuesday Lightning Talks
+    date: 2026-05-05
+    youtubeId: bdhJBH5FE3c
+    sponsor:
+      name: KnowledgeOwl
+      url: https://www.knowledgeowl.com?ref=writethedocs
+    talks:
+      - title: What a dead Frenchman's horse taught me about your users
+        speaker:
+          name: Seonaid Welch
+          pronouns: she/her
+      - title: Supports and scaffolds for executive assistance
+        speaker:
+          name: Jo Richards
+          pronouns: they/she
+      - title: The tech writer is dead; Long live the tech writer
+        speaker:
+          name: Janet Houck
+          pronouns: she/her
+      - title: The "what" and "how" of music metadata
+        speaker:
+          name: Sarah Moir
+          pronouns: she/her
+      - title: Theater techniques for tech writing
+        speaker:
+          name: Natalie Spadolini
+          pronouns: she/her
+      - title: Using Claude Code to build a style guide enforcement tool
+        speaker:
+          name: Sarah Day
+          pronouns: she/her
