@@ -161,13 +161,17 @@ grants:
 
 volunteer:
   form_url: ""
-  applications_close: "Sept 1"
-  schedule_signup_close: "Sept 18"
+  applications_close: "Oct 15"
+  schedule_signup_close: "Nov 15"
 
 sponsors:
   keystone:
   patron:
   publisher:
+    - name: atlassian
+      link: https://www.atlassian.com/
+      brand: Atlassian
+      width: 750px
   second:
   first:
     - name: linux-australia
