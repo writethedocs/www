@@ -1,0 +1,330 @@
+- title: Protecting docs taste at scale
+  slug: protecting-docs-taste-at-scale-fabrizio-ferri-benedetti
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2026
+  speakers:
+  - name: Fabrizio Ferri-Benedetti
+    slug: fabrizio-ferri-benedetti
+    twitter:
+    website: https://passo.uno
+  abstract: "<p>Writing and other intellectual endeavours are undergoing the same
+    process that turned artisanal cooking into industrial food processing. We can
+    now <em>can</em> words as if it was food, but truly organic, human-composed writing
+    is still the best one.  Our profession is thus splitting in two halves: One feeds
+    machines with reliable knowledge, rules, constraints, and context. The other help
+    people form mental models, make decisions, understand complexity, and find meaning.</p>\n\
+    <p>Between the two sits a role that may become more important than either writing
+    or automation alone: quality control. Somebody needs to tend to the qualities
+    that the docs cannery can easily flatten and decide when scaled content is good
+    enough, when it needs intervention, and when a piece of writing should never have
+    gone through the cannery at all. It's a matter of protecting and distilling taste,
+    so as to ensure that content is more edible than a gas-station sandwich.</p>\n\
+    <p>In this talk, I’ll propose a model for technical writing built around those
+    two responsibilities: feed the machines, then guide the humans. I’ll argue that
+    our most valuable work increasingly lies in protecting the qualities that make
+    docs useful and sometimes beautiful, even when much of its production becomes
+    automated. Finally, I’ll look at what quality control for industrialized writing
+    might actually mean in practice.</p>"
+- title: Ten thousand votes, no side taken
+  slug: ten-thousand-votes-no-side-taken-ben-fairless
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2026
+  speakers:
+  - name: Ben Fairless
+    slug: ben-fairless
+    twitter:
+    website:
+  abstract: "<p><a href=\"https://www.theyvoteforyou.org.au\">They Vote for You</a>
+    turns every formal vote in the Australian Parliament into a page a person can
+    read in under a minute: what was voted on, what the result means, and how their
+    own MP or senator voted. It now covers more than 10,000 divisions. Every summary
+    has to be plain enough for someone who has never heard the words \"third reading\"\
+    , accurate enough to survive a check against Hansard, and neutral enough that
+    people who disagree about the vote itself can both trust the description of it.</p>\n\
+    <p>That last requirement is the interesting one. Our readers include people actively
+    looking for a slant, because on a contested vote somebody always is. So neutrality
+    stopped being a value we hold and became a specification we write to: a fixed
+    title format that leaves no room for adjectives, summaries that explain the mechanism
+    of a vote rather than the merit of it, a rule that every claim links to its source,
+    and a published list of what the site cannot tell you.</p>\n<p>I run the <a href=\"\
+    https://www.oaf.org.au\">OpenAustralia Foundation</a>, the small non-partisan
+    charity behind They Vote for You, Right to Know and Planning Alerts, and spent
+    eleven years as a volunteer before it became my job. Earlier this year an MP's
+    office wrote to tell me their attendance figure was wrong. It was not, and I could
+    show them the division, the time and the Hansard page. A fortnight later they
+    came back: Parliament had corrected its record, could we? They had fixed one official
+    database. We read the other one. Changing a single word on our site meant getting
+    two arms of Parliament to agree with each other first.</p>\n<p>This talk is about
+    writing contested content at volume, and how the same practices apply to release
+    notes, incident reports, comparison pœages and anything else your readers might
+    not want to believe.</p>"
+- title: Built to be Left Behind...
+  slug: built-to-be-left-behind-eeshaan-sawant
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2026
+  speakers:
+  - name: Eeshaan Sawant
+    slug: eeshaan-sawant
+    twitter: x.com/eeshaantech
+    website:
+  abstract: "<p>I was contracted for three months to <a href=\"https://mentorship.lfx.linuxfoundation.org/project/cd5b3190-26c8-4b71-8ebc-4b83677bd30e\"\
+    >migrate a whole documentation set</a> between versions. Before you scroll down,
+    this not another \"how to migrate your docs\" talk. This is something else. </p>\n\
+    <p>When my three-month contract ended, I walked away from docs I'd just rebuilt
+    from scratch, and it kept running fine without me. That was the goal.</p>\n<p>Docs
+    need to be kept tending. That is the beauty of documentation. But if you have
+    ever been a contract writer, an open source maintainer, or perhaps someone who
+    is leaving their documentation job, <strong>YOU</strong> cannot always be the
+    one tending it, and so, how do you handoff the documentation you created (with
+    unlimited efforts and endless hits on the keyboard), so that it doesn't start
+    to rot the moment you are gone?</p>\n<p>This talk is about the strangest goal
+    a writer can have: <strong>making yourself unnecessary</strong>. Using my own
+    migration of an open-source project's docs as a case study, I will show you how
+    I created documentation that outlived me; the guidelines I designed, the standards
+    I created and the onboarding paradigms I set that kept the documentation going,
+    as the next wave of writers came by.</p>"
+- title: What AI agents get wrong when writing docs
+  slug: what-ai-agents-get-wrong-when-writing-docs-frances-liu
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2026
+  speakers:
+  - name: Frances Liu
+    slug: frances-liu
+    twitter: '@robobobots'
+    website:
+  abstract: "<p>Writers tell us they have a hard time assessing the quality of doc
+    changes proposed by AI agents. We built a benchmark with technical writers. Docs
+    maintainers at Helm, PostHog, and Mautic chose the tasks from their own repos
+    and wrote criteria we graded the agents against. Writers from across this community
+    read the paper before we published it. The bar in these results is one you could
+    apply in your own review queue.</p>\n<p>We ran frontier coding agents (Claude
+    Code, Codex, and OpenCode with open models) on 292 real documentation tasks. The
+    drafts came back polished and coherent, but their failures happened before drafting:
+    deciding whether a change needed docs at all, working out who the docs were for,
+    choosing which page the change belonged in, and answering what the reader needed
+    to do rather than describing what the feature does.</p>\n<p>We'll go through which
+    agents hold up on which kinds of task, what context raises their odds of success,
+    and how to review their output so the quiet failures don't reach your readers.
+    You'll leave with a checklist for deciding what to hand to an agent, and what
+    to check when it hands work back</p>"
+- title: Continuous docs, continuous governance
+  slug: continuous-docs-continuous-governance-selva
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2026
+  speakers:
+  - name: Selva
+    slug: selva
+    twitter:
+    website:
+  abstract: "<p>Most of us treat content governance as a mundane activity. We block
+    out a day each quarter, audit a sample of articles, fix what looks broken, and
+    move on. That model made sense when docs changed slowly. It does not survive in
+    AI-era which has high product velocity.</p>\n<p>I work on a software product where
+    we ship changes every week. The docs change almost every day. And our docs are
+    no longer read only by humans. Support search, retrieval pipelines, and AI agents
+    now pull from the same knowledge base. So a stale or ambiguous article does not
+    just confuse a reader. It can send an AI agent down the wrong path, or surface
+    something that should never have been published.</p>\n<p>In this talk I argue
+    that governance has to become continuous, the same way delivery became continuous.
+    I will share how my team moved from quarterly audits to a governance loop that
+    runs alongside every docs update. That loop checks for staleness, conflicting
+    information, wrong access, and leaked PII or secrets. It records provenance for
+    each change, so we know why an article was updated, on what evidence, and by whom.
+    And it measures its own impact, so governance stops being an act of faith and
+    becomes something we can defend with numbers.</p>\n<p>Takeaways:</p>\n<ol>\n<li>Practical
+    model for shifting governance from batch cleanup to a continuous practice</li>\n\
+    <li>Simple way to capture provenance for docs changes without drowning your team
+    in process</li>\n<li>Metrics that show governance is working, for both human and
+    machine readers</li>\n</ol>"
+- title: 'The LMS as a Build Target: Shifting the Source of Truth to a Publishing
+    Pipeline'
+  slug: 
+    the-lms-as-a-build-target-shifting-the-source-of-truth-to-a-publishing-pipeline-tristan-bunn
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2026
+  speakers:
+  - name: Tristan Bunn
+    slug: tristan-bunn
+    twitter:
+    website: https://portfolio.tabreturn.com
+  abstract: <p>A learning management system is a good place to <em>deliver</em> 
+    a course but often a poor place to <em>author</em> one. This talk presents a
+    lightweight, static-site-generator-inspired workflow that produces LMS-ready
+    HTML pages, PDF assessment briefs, and Common Cartridge packages from a 
+    plain-text repository of Markdown and other source files. Drawing on its use
+    across several university offerings, I'll discuss it's conception, 
+    motivations, and planning. Leading from that, what worked, what broke, and 
+    how treating the LMS as a deployment target improved version control, 
+    metadata management, citations, maintenance, and reuse. More importantly, 
+    the approach returned ownership to domain experts, reduced update times from
+    weeks to minutes, and enabled AI-assisted review of structured course 
+    content.</p>
+- title: '11,000 changes and growing: how content design architected release comms
+    at scale'
+  slug: 
+    11-000-changes-and-growing-how-content-design-architected-release-comms-at-scal-julian-fleetwood
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2026
+  speakers:
+  - name: Julian Fleetwood
+    slug: julian-fleetwood
+    twitter:
+    website:
+  abstract: "<p>Atlassian ships thousands of product changes a year, with that figure
+    increasing steadily as our release cadence increases. Accommodating that scale
+    requires a system that can handle the full complexity of multiple products, processes,
+    teams and tools.</p>\n<p>This is the story of two content designers thrown together
+    to solve the “simple” task of getting folks to write better release notes… and
+    ending up as system architects shipping a solution that delivered cost savings
+    while still managing to preserve craft quality.</p>\n<p>We'll share how we managed
+    to make impactful change with minimal engineering support, and what we learned
+    about the limits of writing and AI when faced with the messy reality of how people,
+    processes, and tools actually work.</p>\n<p>In this talk we’ll share what worked
+    (and didn’t) as we rebuilt our end-to-end release note pipeline:\n- Why release
+    notes are a trust signal, not just a documentation task, and how reducing clarification
+    loops is a better success metric than speed.\n- How taxonomy and structured metadata
+    have become load-bearing infrastructure, and ways to future-proof your system.\n\
+    - Why higher-quality structured context and inputs beat better prompts, and how
+    to design a pipeline for scale.\n- How AI evaluation can be a diagnostic tool
+    for whole system health, not just prompt improvement.</p>\n<p>This talk will give
+    anyone working on content at scale a framework for auditing their release comms
+    system, and a clearer sense of where the writing problem ends and system problem
+    begins.</p>"
+- title: Building SKILLs to help automate internal authoring workflows
+  slug: 
+    building-skills-to-help-automate-internal-authoring-workflows-tom-johnson
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2026
+  speakers:
+  - name: Tom Johnson
+    slug: tom-johnson
+    twitter:
+    website:
+  abstract: "<p>Skills are the new programming language for AI tools. If you do similar
+    tasks repeatedly, like write release notes, publish specifications docs, publish
+    weekly reports, apply style edits, and so on, you can build a skill for the agent
+    to perform this task in a more automated way. The better your skill-making chops,
+    the more powerful your automation can be. </p>\n<p>But how do you build skills
+    that reflect messy processes and complex workflows — without spending more time
+    developing the skill than the docs themselves? In this presentation, </p>\n<p>I'll
+    cover best practices for skill design, including skill and subskill structure,
+    self-improving workflows, workflows involving multiple subagents.</p>"
+- title: Acronyms, humour and navigating the unclear path
+  slug: acronyms-humour-and-navigating-the-unclear-path-yvonne-perkins
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2026
+  speakers:
+  - name: Yvonne Perkins
+    slug: yvonne-perkins
+    twitter:
+    website:
+  abstract: "<p>What should a technical writer do when facing the opportunity to deliver
+    a presentation about acronyms on a Friday afternoon to an audience who can choose
+    to attend… or not? I will share some of my experience about how to gain an audience
+    and give a presentation on a topic that many people regard as incredibly boring.
+    Through humour and creativity, an effective learning environment can be established
+    where people are more open to considering any topic. </p>\n<p>Working through
+    this problem also reveals deeper questions about the rapidly evolving role of
+    technical writers today. I will reflect on our profession in this turbulent era,
+    and question whether our profession should still be considered primarily a writing
+    profession. I will also consider the personal and professional qualities that
+    we can draw on to help us to navigate the unclear path before us.</p>\n<p>Come
+    prepared to laugh, think and challenge your views about the technical writing
+    profession.</p>"
+- title: 'AI Way or the Highway: What remains when everyone can write the docs?'
+  slug: 
+    ai-way-or-the-highway-what-remains-when-everyone-can-write-the-docs-claire-mahoney
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2026
+  speakers:
+  - name: Claire Mahoney
+    slug: claire-mahoney
+    twitter:
+    website:
+  abstract: "<p>Six months ago, I was a technical writer. Today, I spend much of my
+    time supervising agents that research, write, restructure and optimise documentation
+    using source code and other product information. I've connected AI to our repositories,
+    taught it how to investigate and write, and built workflows that make documentation
+    useful to both humans and agents. The tools have changed quickly. The job description
+    is still catching up.</p>\n<p>Now anyone in the company can raise a documentation
+    PR. Agents use our docs and MCP interfaces to take actions in customers' products,
+    while support teams use agents to solve customer problems. The audience has changed,
+    the production process has changed, and my role has shifted upstream into strategy
+    and downstream into review. There is considerably more documentation being produced
+    and demanded, which is even more work, but less fun work.</p>\n<p>The writing
+    is more distributed, but the responsibility isn't.</p>\n<p>This talk explores
+    what remains when AI takes on more of the production work: judgement, context,
+    quality, strategy, and knowing when something is wrong or unfinished. But it isn't
+    a reassuring story about writers becoming AI supervisors. More output can mean
+    more review, more accountability, and less time for the strategic work that matters.
+    The promise of automation is that it frees us to do higher-value work. The reality
+    is that someone still has to find the time.</p>\n<p>Drawing on examples from my
+    own workflows, I'll examine the possibilities, the exhaustion, and the ethical
+    contradictions of working deeply with AI. I'll ask what a sustainable future for
+    documentation might require, and whether we've thought enough about the work we're
+    creating while we farewell the work we're eliminating.</p>"
+- title: Help! I accidentally built a publishing platform!
+  slug: help-i-accidentally-built-a-publishing-platform-lana-brindley-she-her
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2026
+  speakers:
+  - name: Lana Brindley (she/her)
+    slug: lana-brindley-she-her
+    twitter:
+    website:
+  abstract: "<p>Well, that wasn't supposed to happen.</p>\n<p>At the start of 2026,
+    I had what seemed like a relatively straightforward problem: our documentation
+    process revolved around PDFs, InDesign, OneDrive folders, and a whole lot of manual
+    work. I wanted version control. I wanted better reviews. I wanted to stop copying
+    document folders every time a new release rolled around.</p>\n<p>So I started
+    building a docs-as-code workflow. Simple, right? Except documentation toolchains
+    have a habit of leading you somewhere you don't expect and,  before long I realised
+    I wasn't really building a publishing workflow any more. I was building a publishing
+    platform.</p>\n<p>This talk is the story of that journey: the technical mistakes,
+    the architecture decisions, the scope creep that somehow turned out to be useful,
+    and what happens when a simple effort to modernise documentation gradually turns
+    into a completely different way of thinking about content.</p>"
+- title: "What your search bar knows that your surveys don't: building a docs roadmap
+    from search data"
+  slug: 
+    what-your-search-bar-knows-that-your-surveys-don-t-building-a-docs-roadmap-from-janeera-d-a
+  series: Write the Docs Australia
+  series_slug: australia
+  year: 2026
+  speakers:
+  - name: Janeera D A
+    slug: janeera-d-a
+    twitter: '@myflawsmywings'
+    website: https://janeera-da.github.io/Professional-Portfolio/
+  abstract: "<p>For a long time, I decided what to write next the way most of us do:
+    from the loudest ticket, the newest feature, the documentation feedback, or a
+    gut feeling about what \"should\" be documented. Then I started actually reading
+    our search data, both the plain keyword searches and the questions people typed
+    into our AI assistant, and realized our users had been telling us exactly what
+    they needed all along, in their own words, thousands of times a month. We just
+    hadn't been listening.</p>\n<p>Search is the most honest feedback channel a docs
+    team has. Nobody performs for a search box. The queries that return nothing, the
+    ones people rephrase three times, the questions the AI couldn't answer. Each is
+    a small, unfiltered signal of intent. Read in aggregate, they don't just tell
+    you which articles to write. They reveal who your readers actually are. I've been
+    able to reconstruct distinct user personas purely from search behavior and let
+    those personas reshape not just what we document but how.</p>\n<p>This talk is
+    about turning that raw search exhaust into a real documentation roadmap, how to
+    read it, how to separate a genuine gap from noise, and how to prioritize writing
+    against evidence instead of instinct.</p>\n<p><strong>Takeaways</strong></p>\n\
+    <ul>\n<li>How to mine keyword and AI search data for documentation gaps and intent</li>\n\
+    <li>A method for turning messy queries into a prioritized, defensible writing
+    roadmap</li>\n<li>How to reverse-engineer user personas from search behavior</li>\n\
+    <li>Why \"no results\" and rephrased searches are your highest-value signals</li>\n\
+    </ul>"
