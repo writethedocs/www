@@ -192,7 +192,7 @@ flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
 flagscheduleincomplete: False
-flagspeakersannounced: False
+flagspeakersannounced: True
 flagrunofshow: False
 flaghasschedule: False
 flaghasshirts: False
