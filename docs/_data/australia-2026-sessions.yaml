@@ -181,7 +181,7 @@
     increasing steadily as our release cadence increases. Accommodating that scale
     requires a system that can handle the full complexity of multiple products, processes,
     teams and tools.</p>\n<p>This is the story of two content designers thrown together
-    to solve the "simple" task of getting folks to write better release notes… and
+    to solve the \"simple\" task of getting folks to write better release notes… and
     ending up as system architects shipping a solution that delivered cost savings
     while still managing to preserve craft quality.</p>\n<p>We'll share how we managed
     to make impactful change with minimal engineering support, and what we learned
@@ -289,7 +289,7 @@
     work. I wanted version control. I wanted better reviews. I wanted to stop copying
     document folders every time a new release rolled around.</p>\n<p>So I started
     building a docs-as-code workflow. Simple, right? Except documentation toolchains
-    have a habit of leading you somewhere you don't expect and,  before long I realised
+    have a habit of leading you somewhere you don't expect and, before long I realised
     I wasn't really building a publishing workflow any more. I was building a publishing
     platform.</p>\n<p>This talk is the story of that journey: the technical mistakes,
     the architecture decisions, the scope creep that somehow turned out to be useful,
