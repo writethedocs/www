@@ -20,11 +20,11 @@
     enough, when it needs intervention, and when a piece of writing should never have
     gone through the cannery at all. It's a matter of protecting and distilling taste,
     so as to ensure that content is more edible than a gas-station sandwich.</p>\n\
-    <p>In this talk, I'll propose a model for technical writing built around those
-    two responsibilities: feed the machines, then guide the humans. I'll argue that
+    <p>In this talk, I’ll propose a model for technical writing built around those
+    two responsibilities: feed the machines, then guide the humans. I’ll argue that
     our most valuable work increasingly lies in protecting the qualities that make
     docs useful and sometimes beautiful, even when much of its production becomes
-    automated. Finally, I'll look at what quality control for industrialized writing
+    automated. Finally, I’ll look at what quality control for industrialized writing
     might actually mean in practice.</p>"
 - title: Ten thousand votes, no side taken
   slug: ten-thousand-votes-no-side-taken-ben-fairless
@@ -186,8 +186,8 @@
     while still managing to preserve craft quality.</p>\n<p>We'll share how we managed
     to make impactful change with minimal engineering support, and what we learned
     about the limits of writing and AI when faced with the messy reality of how people,
-    processes, and tools actually work.</p>\n<p>In this talk we'll share what worked
-    (and didn't) as we rebuilt our end-to-end release note pipeline:\n- Why release
+    processes, and tools actually work.</p>\n<p>In this talk we’ll share what worked
+    (and didn’t) as we rebuilt our end-to-end release note pipeline:\n- Why release
     notes are a trust signal, not just a documentation task, and how reducing clarification
     loops is a better success metric than speed.\n- How taxonomy and structured metadata
     have become load-bearing infrastructure, and ways to future-proof your system.\n\
