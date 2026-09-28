@@ -21,7 +21,7 @@
     gone through the cannery at all. It's a matter of protecting and distilling taste,
     so as to ensure that content is more edible than a gas-station sandwich.</p>\n\
     <p>In this talk, I'll propose a model for technical writing built around those
-    two responsibilities: feed the machines, then guide the humans. I�ll argue that
+    two responsibilities: feed the machines, then guide the humans. I'll argue that
     our most valuable work increasingly lies in protecting the qualities that make
     docs useful and sometimes beautiful, even when much of its production becomes
     automated. Finally, I'll look at what quality control for industrialized writing
@@ -58,7 +58,7 @@
     database. We read the other one. Changing a single word on our site meant getting
     two arms of Parliament to agree with each other first.</p>\n<p>This talk is about
     writing contested content at volume, and how the same practices apply to release
-    notes, incident reports, comparison p�ages and anything else your readers might
+    notes, incident reports, comparison pages and anything else your readers might
     not want to believe.</p>"
 - title: Built to be Left Behind...
   slug: built-to-be-left-behind-eeshaan-sawant

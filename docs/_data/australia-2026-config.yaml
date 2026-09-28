@@ -191,7 +191,7 @@ flaghassponsors: True
 flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
-flagscheduleincomplete: False
+flagscheduleincomplete: True
 flagspeakersannounced: True
 flagrunofshow: False
 flaghasschedule: False
