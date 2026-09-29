@@ -71,9 +71,9 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
         <div class="ctas-block">
 
          {% if buttons is defined and buttons.top %}
-         {% for callout in buttons.top %}
-           <div style="margin: 0 12px 12px 0;">{{ button_link(callout.link_absolute or pathto('conf/' + shortcode + '/' + year_str + callout.link), callout.text, year, wrap=False, new_tab=False, contrast=True) }}</div>
-         {% endfor %}
+         <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:inherit; align-items:center;">{% for callout in buttons.top %}
+           {{ button_link(callout.link_absolute or pathto('conf/' + shortcode + '/' + year_str + callout.link), callout.text, year, wrap=False, new_tab=False, contrast=True) }}
+         {% endfor %}</div>
          {% endif %}
 
         </div>

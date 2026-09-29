@@ -63,43 +63,45 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
         </p>
 
         <div class="ctas-block">
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:inherit; align-items:center;">
          {% if flagticketsonsale %}
 
-         <div style="margin: 0 12px 12px 0;">{{ button_link(pathto('conf/' + shortcode + '/2018/tickets'), "Buy a Ticket!", year, wrap=False, new_tab=False, contrast=True) }}</div>
+         {{ button_link(pathto('conf/' + shortcode + '/2018/tickets'), "Buy a Ticket!", year, wrap=False, new_tab=False, contrast=True) }}
 
          {% endif %}
 
          {% if flagcfp %}
 
-         <div style="margin: 0 12px 12px 0;">{{ button_link(pathto('conf/' + shortcode + '/2018/cfp'), "Submit a Talk", year, wrap=False, new_tab=False, contrast=True) }}</div>
+         {{ button_link(pathto('conf/' + shortcode + '/2018/cfp'), "Submit a Talk", year, wrap=False, new_tab=False, contrast=True) }}
 
          {% endif %}
 
          {% if flagspeakersannounced and not flagvideos %}
 
-         <div style="margin: 0 12px 12px 0;">{{ button_link(pathto('conf/' + shortcode + '/2018/speakers'), "See the talks!", year, wrap=False, new_tab=False, contrast=True) }}</div>
+         {{ button_link(pathto('conf/' + shortcode + '/2018/speakers'), "See the talks!", year, wrap=False, new_tab=False, contrast=True) }}
 
          {% endif %}
 
         {% if flagwelcomewagon %}
 
-        <div style="margin: 0 12px 12px 0;">{{ button_link(pathto('conf/' + shortcode + '/' + year|string + '/welcome-wagon'), "Prepare with the Welcome Wagon", year, wrap=False, new_tab=False, contrast=True) }}</div>
+        {{ button_link(pathto('conf/' + shortcode + '/' + year|string + '/welcome-wagon'), "Prepare with the Welcome Wagon", year, wrap=False, new_tab=False, contrast=True) }}
 
         {% endif %}
 
          {% if flaglivestreaming %}
-         <div style="margin: 0 12px 12px 0;">{{ button_link(pathto('conf/' + shortcode + '/2018/livestream'), "Live Stream!", year, wrap=False, new_tab=False, contrast=True) }}</div>
+         {{ button_link(pathto('conf/' + shortcode + '/2018/livestream'), "Live Stream!", year, wrap=False, new_tab=False, contrast=True) }}
 
          {% endif %}
 
 
          {% if flagvideos %}
 
-         <div style="margin: 0 12px 12px 0;">{{ button_link(about.photos, "Browse the photos!", year, wrap=False, new_tab=False, contrast=True) }}</div>
+         {{ button_link(about.photos, "Browse the photos!", year, wrap=False, new_tab=False, contrast=True) }}
 
-         <div style="margin: 0 12px 12px 0;">{{ button_link(pathto('videos/' + shortcode + '/2018'), "Watch the videos!", year, wrap=False, new_tab=False, contrast=True) }}</div>
+         {{ button_link(pathto('videos/' + shortcode + '/2018'), "Watch the videos!", year, wrap=False, new_tab=False, contrast=True) }}
 
          {% endif %}
+        </div>
 
         </div>
       </div>

@@ -53,15 +53,17 @@ def render_button(url, text, year=None, wrap=True, new_tab=True, contrast=False)
     else:
         background, text_color = colors["background"], colors["text"]
     target = ' target="_blank"' if new_tab else ""
-    button = f"""<table border="0" cellpadding="0" cellspacing="0" style="background-color:{background}; border-radius:5px; margin:auto;">
-<tr>
-<td align="center" valign="middle" style="color:{text_color}; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-<a href="{html.escape(url, quote=True)}"{target} style="color:{text_color}; text-decoration:none; text-transform:uppercase; border-bottom: none;">{html.escape(text)}</a>
-</td>
-</tr>
-</table>"""
+    button = (
+        f'<a href="{html.escape(url, quote=True)}"{target} '
+        f'style="display:inline-flex; align-items:center; justify-content:center; '
+        f"background-color:{background}; color:{text_color}; "
+        "font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; "
+        "line-height:1.2; min-height:38px; padding:5px 30px; box-sizing:border-box; "
+        "margin:0; border-radius:6px; text-align:center; "
+        f'text-decoration:none; text-transform:uppercase; border-bottom:none;">{html.escape(text)}</a>'
+    )
     if wrap:
-        return f'<div style="margin: 2em 0;">\n{button}\n</div>'
+        return f'<div style="margin: 2em 0; text-align:center;">{button}</div>'
     return button
 
 
