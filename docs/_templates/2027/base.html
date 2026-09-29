@@ -57,7 +57,7 @@
             {% block footerhead %}
              {% if buttons is defined and buttons.bottom %}
                  {% for callout in buttons.bottom %}
-                   <a class="uk-button uk-button-secondary uk-text-center" href="{% if callout.link_absolute %}{{ callout.link_absolute }}{% else %}{{ pathto('conf/' + shortcode + '/' + year_str + callout.link ) }}{% endif %}">{{ callout.text }}</a>
+                   <div style="margin: 0 12px 12px 0;">{{ button_link(callout.link_absolute or pathto('conf/' + shortcode + '/' + year_str + callout.link), callout.text, year, wrap=False, new_tab=False, contrast=True) }}</div>
                  {% endfor %}
              {% endif %}
             {% endblock %}

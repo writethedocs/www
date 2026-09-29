@@ -65,39 +65,39 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
         <div class="ctas-block">
          {% if flagticketsonsale %}
 
-         <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/2018/tickets') }}">Buy a Ticket!</a>
+         <div style="margin: 0 12px 12px 0;">{{ button_link(pathto('conf/' + shortcode + '/2018/tickets'), "Buy a Ticket!", year, wrap=False, new_tab=False, contrast=True) }}</div>
 
          {% endif %}
 
          {% if flagcfp %}
 
-         <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/2018/cfp') }}">Submit a Talk</a>
+         <div style="margin: 0 12px 12px 0;">{{ button_link(pathto('conf/' + shortcode + '/2018/cfp'), "Submit a Talk", year, wrap=False, new_tab=False, contrast=True) }}</div>
 
          {% endif %}
 
          {% if flagspeakersannounced and not flagvideos %}
 
-         <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/2018/speakers') }}">See the talks!</a>
+         <div style="margin: 0 12px 12px 0;">{{ button_link(pathto('conf/' + shortcode + '/2018/speakers'), "See the talks!", year, wrap=False, new_tab=False, contrast=True) }}</div>
 
          {% endif %}
 
         {% if flagwelcomewagon %}
 
-        <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/' + year|string + '/welcome-wagon') }}">Prepare with the Welcome Wagon</a>
+        <div style="margin: 0 12px 12px 0;">{{ button_link(pathto('conf/' + shortcode + '/' + year|string + '/welcome-wagon'), "Prepare with the Welcome Wagon", year, wrap=False, new_tab=False, contrast=True) }}</div>
 
         {% endif %}
 
          {% if flaglivestreaming %}
-         <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/2018/livestream') }}">Live Stream!</a>
+         <div style="margin: 0 12px 12px 0;">{{ button_link(pathto('conf/' + shortcode + '/2018/livestream'), "Live Stream!", year, wrap=False, new_tab=False, contrast=True) }}</div>
 
          {% endif %}
 
 
          {% if flagvideos %}
 
-         <a class="uk-button uk-button-secondary uk-text-center" href="{{ about.photos }}">Browse the photos!</a>
+         <div style="margin: 0 12px 12px 0;">{{ button_link(about.photos, "Browse the photos!", year, wrap=False, new_tab=False, contrast=True) }}</div>
 
-         <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('videos/' + shortcode + '/2018') }}">Watch the videos!</a>
+         <div style="margin: 0 12px 12px 0;">{{ button_link(pathto('videos/' + shortcode + '/2018'), "Watch the videos!", year, wrap=False, new_tab=False, contrast=True) }}</div>
 
          {% endif %}
 
@@ -122,7 +122,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
   <div class="announcement">
     <div class="uk-container">
       <p style="vertical-align: middle;">Want to receive conference and community updates?</p>
-      <a class="uk-button uk-button-announcement" href="{{ pathto('/newsletter') }}">Join our Mailing List</a>
+      {{ button_link(pathto('/newsletter'), "Join our Mailing List", year, wrap=False, new_tab=False) }}
     </div>
   </div><!--- end announcement -->
 

@@ -66,7 +66,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
 
          {% if buttons is defined %} 
          {% for callout in buttons.top %}
-           <a class="uk-button uk-button-secondary uk-text-center" href="{% if callout.link_absolute %}{{ callout.link_absolute }}{% else %}{{ pathto('conf/' + shortcode + '/' + year|string + callout.link ) }}{% endif %}">{{ callout.text }}</a>
+           <div style="margin: 0 12px 12px 0;">{{ button_link(callout.link_absolute or pathto('conf/' + shortcode + '/' + year|string + callout.link), callout.text, year, wrap=False, new_tab=False, contrast=True) }}</div>
          {% endfor %}
          {% endif %}
 
@@ -91,9 +91,7 @@ Home - Write the Docs {{ name }} {%- if cobrand is defined and cobrand %} + {{ c
   <div class="announcement">
     <div class="uk-container">
       <p style="vertical-align: middle;">Want to receive conference and community updates?</p>
-      <a class="uk-button uk-button-announcement" href="{{ pathto('conf/' + shortcode + '/' + year|string + '/mailing-list' ) }}">
-        Join our Mailing List
-      </a>
+      {{ button_link(pathto('conf/' + shortcode + '/' + year|string + '/mailing-list'), 'Join our Mailing List', year, wrap=False, new_tab=False) }}
     </div>
   </div><!--- end announcement -->
 
