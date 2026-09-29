@@ -26,7 +26,7 @@ Still need a ticket? Now is a great time to purchase your ticket at one of our v
 We do expect in-person tickets to sell out some time before the conference.
 
 ```{button-link} https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/
-:color: "#2ecc71"
+:year: {{ year }}
 Buy your ticket
 ```
 
@@ -40,7 +40,7 @@ Our [#wtd-conferences](https://writethedocs.slack.com/archives/C1AKFQATH) channe
 **Reminder**: There is a two-step process to join Slack. You need to complete a short signup form before you can create your account.
 
 ```{button-link} https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform
-:color: "#2ecc71"
+:year: {{ year }}
 Join Slack today
 ```
 

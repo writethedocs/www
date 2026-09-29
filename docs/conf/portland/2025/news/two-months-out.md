@@ -12,7 +12,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 Write the Docs Portland is just two months away, and we have some exciting updates to share. If you haven’t grabbed your ticket yet, now is the perfect time. Check out all the latest details below.
 
 ```{button-link} https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/
-:color: "#2ecc71"
+:year: {{ year }}
 Buy your ticket
 ```
 
@@ -43,7 +43,7 @@ Head to our [Tickets page](https://www.writethedocs.org/conf/portland/2025/ticke
 Our Writing Day Call for Projects is open. If you're interested in leading a project, we *highly* encourage you to submit your project ahead of time. This is a great way to build momentum and prepare attendees to show up ready to contribute to your project. 
 
 ```{button-link} https://docs.google.com/forms/d/e/1FAIpQLSeHMZ1uXTfnT0HMm-KfsgxYV1w3tmS7bMPtBx4H9cktJpSrdg/viewform?usp=dialog
-:color: "#2ecc71"
+:year: {{ year }}
 Submit your project
 ```
 

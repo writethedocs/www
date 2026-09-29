@@ -1,34 +1,38 @@
-import re
-
 from docutils import nodes
 from docutils.parsers import rst
 
-# Brand color of the current conference year. Older years pass ``:color:``.
-DEFAULT_COLOR = "#fdb913"
+# Brand color of each conference year, matching $main-color in
+# docs/_static/conf/scss/main-<year>.scss.
+YEAR_COLORS = {
+    2018: "#3dd94a",
+    2019: "#ea7852",
+    2020: "#3498db",
+    2021: "#fdb913",
+    2022: "#2ecc71",
+    2023: "#ea7852",
+    2024: "#4ac1e0",
+    2025: "#2ecc71",
+    2026: "#fdb913",
+    2027: "#ea6852",
+}
 
-HEX_COLOR_RE = re.compile(r"^#?(?:[0-9a-fA-F]{3}|[0-9a-fA-F]{6})$")
 
-
-def hex_color(argument):
-    """Validate a ``#rgb`` or ``#rrggbb`` option value.
-
-    In Markdown the value must be quoted (``:color: "#fdb913"``), because
-    MyST reads directive options as YAML and an unquoted ``#`` starts a
-    comment.
-    """
-    value = (argument or "").strip()
-    if not HEX_COLOR_RE.match(value):
+def conference_year(argument):
+    """Validate a ``:year:`` option value against the known brand colors."""
+    try:
+        year = int(str(argument).strip())
+    except ValueError:
+        raise ValueError(f"expected a conference year, got {argument!r}")
+    if year not in YEAR_COLORS:
         raise ValueError(
-            f'expected a hex color like "#fdb913" (quote it in Markdown), got {value!r}'
+            f"no brand color for {year}; add it to YEAR_COLORS in _ext/button.py"
         )
-    return "#" + value.lstrip("#").lower()
+    return year
 
 
 def contrasting_text_color(background):
     """Return black or white, whichever reads better on ``background``."""
     hex_digits = background.lstrip("#")
-    if len(hex_digits) == 3:
-        hex_digits = "".join(digit * 2 for digit in hex_digits)
     red, green, blue = (int(hex_digits[i : i + 2], 16) / 255 for i in (0, 2, 4))
 
     def linear(channel):
@@ -46,34 +50,33 @@ class ButtonLink(rst.Directive):
     Usage in myst markdown::
 
         ```{button-link} https://example.com
-        :color: "#2ecc71"
+        :year: {{ year }}
         Button text
         ```
 
     Usage in RST::
 
         .. button-link:: https://example.com
-           :color: #2ecc71
+           :year: {{ year }}
 
            Button text
 
-    ``:color:`` sets the button background and defaults to the current
-    year's brand color. The text is black or white, whichever contrasts
-    better, unless ``:text-color:`` overrides it.
+    ``:year:`` picks the conference year's brand color from ``YEAR_COLORS``
+    and defaults to the newest year. Conference pages have ``year`` in
+    their Jinja context, so ``{{ year }}`` always matches the page.
+    The text is black or white, whichever contrasts better.
     """
 
     required_arguments = 1  # URL
     has_content = True
-    option_spec = {
-        "color": hex_color,
-        "text-color": hex_color,
-    }
+    option_spec = {"year": conference_year}
 
     def run(self):
         url = self.arguments[0]
         text = "\n".join(self.content).strip()
-        background = self.options.get("color", DEFAULT_COLOR)
-        text_color = self.options.get("text-color") or contrasting_text_color(background)
+        year = self.options.get("year", max(YEAR_COLORS))
+        background = YEAR_COLORS[year]
+        text_color = contrasting_text_color(background)
         html = f"""<div style="margin: 2em 0;">
 <table border="0" cellpadding="0" cellspacing="0" style="background-color:{background}; border-radius:5px; margin:auto;">
 <tr>

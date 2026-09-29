@@ -18,7 +18,7 @@ This is the final reminder to submit your talk proposals by the end of today, **
 We're excited to read your talk ideas and select our 2025 speakers!
 
 ```{button-link} https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/
-:color: "#2ecc71"
+:year: {{ year }}
 Submit your proposal
 ```
 
@@ -46,7 +46,7 @@ We're grateful that the Jupiter Hotel and KEX Portland are offering discounts fo
 - 0.8 miles to the venue
 
 ```{button-link} https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/
-:color: "#2ecc71"
+:year: {{ year }}
 Buy your ticket
 ```
 

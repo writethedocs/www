@@ -15,7 +15,7 @@ We will be hiking in the amazing [Forest Park](https://forestparkconservancy.org
 It’s rained on us in the past, but we have faith it will be beautiful this year! We will hopefully see Mount Hood at the top :)
 
 ```{button-link} https://ti.to/writethedocs/write-the-docs-portland-2025/with/k-pi4-g8s80
-:color: "#2ecc71"
+:year: {{ year }}
 Sign up for the hike with a free ticket
 ```
 

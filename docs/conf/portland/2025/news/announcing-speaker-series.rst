@@ -21,6 +21,6 @@ These discussions, hosted by `Joe Meersman <https://www.linkedin.com/in/meersman
 Register for your free ticket so you can tune in to all three sessions! We'll email you a Zoom link after you register.
 
 .. button-link:: https://ti.to/writethedocs/write-the-docs-portland-2025/with/free-livestream
-   :color: #2ecc71
+   :year: {{ year }}
 
    Get your free ticket

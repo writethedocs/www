@@ -5,7 +5,7 @@ banner: _static/conf/images/headers/2025/lightning-talks.jpg
 ---
 
 ```{button-link} {{ lightning_talks.signup_url }}
-:color: "#2ecc71"
+:year: {{ year }}
 Submit a Lightning Talk
 ```
 

@@ -13,7 +13,7 @@ The Unconference consists of attendee-driven sessions that provide the opportuni
 Everyone! All attendees are invited to lead a session on a topic. Sessions can be organized around a presentation, group discussion or anything in between.
 
 ```{button-link} https://docs.google.com/spreadsheets/d/1Yyo2V5Xzwz7KhF4xkEmGNFNHld7TEUG7VfitMzM_Ohc/edit?usp=sharing
-:color: "#2ecc71"
+:year: {{ year }}
 Sign up to Lead an Unconference Session
 ```
 

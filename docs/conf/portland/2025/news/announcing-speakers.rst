@@ -12,7 +12,7 @@ Our {{year}} {{city}} conference is three months away, and we can't wait to see 
 The big news today—our speaker lineup is here! Check out the list of speakers and their talks below, and get ready for another year in Portland.
 
 .. button-link:: https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/
-   :color: #2ecc71
+   :year: {{ year }}
 
    Buy your ticket
 

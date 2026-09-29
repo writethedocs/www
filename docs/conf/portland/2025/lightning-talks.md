@@ -11,7 +11,7 @@ A Lightning Talk is a brief presentation, lasting up to five minutes, where you 
 Lightning Talks are a fantastic opportunity for first-time speakers. Regardless of your speaking experience, we invite you to submit a talk.
 
 ```{button-link} https://docs.google.com/forms/d/e/1FAIpQLSc9Op0AImTVbHoX4yi_AViNpCvE_Id-E_Q2-y3THQ7NxXW5MA/viewform?usp=sharing
-:color: "#2ecc71"
+:year: {{ year }}
 Submit a Lightning Talk
 ```
 

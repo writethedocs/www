@@ -12,7 +12,7 @@ Our first {{city}} {{year}} conference less than three months away, and we can't
 The big news today is the speaker lineup! Check out the speakers and their talks below:
 
 .. button-link:: https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/
-   :color: #2ecc71
+   :year: {{ year }}
 
    Buy your ticket
 

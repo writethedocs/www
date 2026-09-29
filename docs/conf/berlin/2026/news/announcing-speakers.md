@@ -14,12 +14,14 @@ Our second {{city}} conference is less than three months away, and we're excited
 The big news today is the speaker lineup! Check out the speakers and their talks below:
 
 ```{button-link} https://ti.to/writethedocs/write-the-docs-berlin-2026
+:year: {{ year }}
 Buy your ticket
 ```
 
 -----
 
 ```{button-link} https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/
+:year: {{ year }}
 Buy your ticket
 ```
 

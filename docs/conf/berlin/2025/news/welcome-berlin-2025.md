@@ -43,7 +43,7 @@ In-person tickets are sold out. Virtual ticket registrations will **close on Oct
 We're opening up the Monday Unconference sign-ups today! We're doing this because Unconferences are amazing ways to foster connection within our community, and we hope this gives more visibility to the earlier Monday slots. [Learn more about the Unconference here](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/unconference/).
 
 ```{button-link} {{unconf.url}}
-:color: "#2ecc71"
+:year: {{ year }}
 Sign up to Lead a Monday Unconference
 ```
 
@@ -61,7 +61,7 @@ We have opened up Monday Lightning Talk submissions. Lightning Talks are a wonde
 
 
 ```{button-link} {{lightning_talks.signup_url}}
-:color: "#2ecc71"
+:year: {{ year }}
 Submit your Monday Lightning Talk
 ```
 

@@ -5,7 +5,7 @@ banner: _static/conf/images/headers/2025/unconference.jpg
 ---
 
 ```{button-link} {{unconf.url}}
-:color: "#2ecc71"
+:year: {{ year }}
 See the Unconference schedule
 ```
 
