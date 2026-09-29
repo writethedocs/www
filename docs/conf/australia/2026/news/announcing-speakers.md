@@ -31,14 +31,10 @@ If you haven't gotten your ticket yet, now's the time to begin the process to at
 We do expect the conference to sell out a few days before the event.
 Please ensure to arrange your travel only after buying a conference ticket.
 
-<div style="margin: 2em 0;">
-<table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
-<tr>
-   <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-      <a href="https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Buy your ticket</a>
-   </td>
-</tr>
-</table>
+<div class="announcement" style="background-color:white;">
+    <div class="uk-container">
+    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/">Buy your ticket</a>
+    </div>
 </div>
 
 If you need additional information, we have a few resources to help you:
