@@ -17,15 +17,10 @@ This is the final reminder to submit your talk proposals by the end of today, **
 
 We're excited to read your talk ideas and select our 2025 speakers!
 
-<div style="margin: 2em 0;">
-<table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
-  <tr>
-    <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-      <a href="https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Submit your proposal</a>
-    </td>
-  </tr>
-</table>
-</div>
+```{button-link} https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/
+:color: "#2ecc71"
+Submit your proposal
+```
 
 ### Our Visiting Portland Page is Live!
 
@@ -50,15 +45,10 @@ We're grateful that the Jupiter Hotel and KEX Portland are offering discounts fo
 - Historic building near shops and restaurants
 - 0.8 miles to the venue
 
-<div style="margin: 2em 0;">
-<table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
-  <tr>
-    <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-      <a href="https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Buy your ticket</a>
-    </td>
-  </tr>
-</table>
-</div>
+```{button-link} https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/
+:color: "#2ecc71"
+Buy your ticket
+```
 
 ### Thanks to Our Sponsors
 

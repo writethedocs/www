@@ -4,15 +4,10 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 banner: _static/conf/images/headers/2025/lightning-talks.jpg
 ---
 
-<div style="margin: 2em 0;">
-<table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
-<tr>
-  <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-     <a href="{{ lightning_talks.signup_url }}" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Submit a Lightning Talk</a>
-  </td>
-</tr>
-</table>
-</div>
+```{button-link} {{ lightning_talks.signup_url }}
+:color: "#2ecc71"
+Submit a Lightning Talk
+```
 
 # What is a Lightning Talk?
 
