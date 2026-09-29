@@ -69,7 +69,7 @@
         <div class="uk-container">
         {% block footerhead %}
          {% if buttons is defined and buttons.bottom %}
-             <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:inherit; align-items:center;">{% for callout in buttons.bottom %}
+             <div style="display:flex; flex-direction:inherit; flex-wrap:nowrap; gap:12px; justify-content:inherit; align-items:stretch;">{% for callout in buttons.bottom %}
                {{ button_link(callout.link_absolute or pathto('conf/' + shortcode + '/' + year_str + callout.link), callout.text, year, wrap=False, new_tab=False, contrast=True) }}
              {% endfor %}</div>
          {% endif %}
