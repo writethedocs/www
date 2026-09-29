@@ -31,16 +31,30 @@ def conference_year(argument):
 
 
 def contrasting_text_color(background):
-    """Return black or white, whichever reads better on ``background``."""
+    """Return black or white, whichever reads better on ``background``.
+
+    This follows the WCAG contrast formula: work out how bright the
+    background is on a 0 (black) to 1 (white) scale, then pick the text
+    color with the bigger brightness gap.
+    """
+    # "#fdb913" -> red=0xfd, green=0xb9, blue=0x13, each scaled to 0..1.
     hex_digits = background.lstrip("#")
     red, green, blue = (int(hex_digits[i : i + 2], 16) / 255 for i in (0, 2, 4))
 
     def linear(channel):
+        # Hex colors are gamma-encoded (sRGB): the number is not proportional
+        # to the amount of light, so undo that before mixing the channels.
         if channel <= 0.03928:
             return channel / 12.92
         return ((channel + 0.055) / 1.055) ** 2.4
 
+    # Relative luminance. The weights reflect how sensitive the eye is to
+    # each channel: green looks much brighter than the same amount of blue.
     luminance = 0.2126 * linear(red) + 0.7152 * linear(green) + 0.0722 * linear(blue)
+
+    # WCAG contrast is (lighter + 0.05) / (darker + 0.05). Black text wins
+    # once the background is brighter than about 0.179, which is where the
+    # contrast against black overtakes the contrast against white.
     return "#000000" if luminance > 0.179 else "#ffffff"
 
 
