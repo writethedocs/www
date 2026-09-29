@@ -31,11 +31,9 @@ If you haven't gotten your ticket yet, now's the time to begin the process to at
 We do expect the conference to sell out a few days before the event.
 Please ensure to arrange your travel only after buying a conference ticket.
 
-<div class="announcement" style="background-color:white;">
-    <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/">Buy your ticket</a>
-    </div>
-</div>
+```{button-link} https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/
+Buy your ticket
+```
 
 If you need additional information, we have a few resources to help you:
 
