@@ -12,6 +12,18 @@ Requirements to be included on this list:
 * Installable as a Python module
 * Maintained and documented
 
+Furo theme
+----------
+
+Our first recommendation for new projects.
+Originally built for the pip documentation, this mobile friendly theme is minimal but customizable and has carefully
+designed navigation features (sidebar, inter-page links).
+
+* https://github.com/pradyunsg/furo
+
+.. image:: /_static/img/furo.png
+  :width: 80%
+
 Read the Docs theme
 -------------------
 
@@ -36,17 +48,6 @@ It's great for text content where you just want to make the words front and cent
 
 .. image:: /_static/img/paramiko.png
    :width: 80%
-
-Furo theme
-----------
-
-Originally built for the pip documentation, this mobile friendly theme is minimal but customizable and has carefully
-designed navigation features (sidebar, inter-page links).
-
-* https://github.com/pradyunsg/furo
-
-.. image:: /_static/img/furo.png
-  :width: 80%
 
 PyData Sphinx theme
 -------------------
