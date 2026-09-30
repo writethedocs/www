@@ -16,8 +16,8 @@ and is a common practice in the software development world.
 
 We recommend checking out the following tools to get started:
 
-* `GitHub Actions <https://docs.github.com/en/actions>`_ (built into GitHub, free for public repositories)
-* `GitLab CI/CD <https://docs.gitlab.com/ci/>`_ (built into GitLab)
+* `Travis CI <https://www.travis-ci.com/>`_
+* `AppVeyor <https://www.appveyor.com/>`_ (Windows support, free for open source)
 
 Build errors
 ------------
@@ -68,8 +68,6 @@ HTMLProofer
 
 `HTMLProofer <https://github.com/gjtorikian/html-proofer>`_ checks links in
 HTML, as well as images, titles and tag validity.
-It works with the output of any static site generator, including Jekyll.
-This site uses it in CI.
 
 Style guide checking and linting
 ----------------------------------
@@ -89,32 +87,48 @@ Vale
 
 Vale is a syntax-aware linter for prose built for speed and extensibility.
 
-* `Vale website <https://vale.sh/>`_
-* `Vale documentation <https://vale.sh/docs/>`_
+https://github.com/errata-ai/vale
 
-Vale doesn't ship with any styles.
-Instead, you add ready-made packages from the `Vale Package Hub <https://vale.sh/explorer>`_,
-including implementations of the Microsoft Writing Style Guide, the Google Developer Documentation Style Guide,
-Proselint, Write-good, and Joblint.
+You can use the following styles with Vale, although as of v2.0.0, Vale no longer includes these styles by default:
 
-To get started, follow the `installation instructions <https://vale.sh/docs/install>`_ for your platform.
+* `Proselint <https://github.com/amperser/proselint>`_
+* `Write-good <https://github.com/btford/write-good>`_
+* `Joblint <https://github.com/rowanmanning/joblint>`_
 
-Then add a ``.vale.ini`` configuration file. For some examples, see:
+You can also use an implementation of both the Microsoft Writing Style Guide and the Google Developer Documentation Style Guide with Vale. You can find these styles in the following repository: https://github.com/errata-ai/styles.
+
+To configure Vale, follow the instructions in the README. If needed, install
+the *vale* binary as an executable in your $PATH, so you can run *vale* directly
+from the command line. For example, on UNIX/Linux systems, you can copy vale
+to the /usr/local/bin directory.
+
+After installing Vale, run the following commands to check for proper installation:
+
+$ `vale`
+
+$ `vale dc`
+
+If you see empty JSON in the output to the second command, you've successfully
+installed Vale.
+
+Now to configure Vale, you'll need a .vale or a .vale.ini configuration file. For some
+examples, see
 
 * https://github.com/writethedocs/www/blob/main/vale/vale.ini
 * https://github.com/cockroachdb/docs/blob/master/.vale.ini
 * https://github.com/linode/docs/blob/develop/.vale.ini
 
-The configuration file can live anywhere, but the root of your repository
-is usually the most convenient place, since Vale finds it automatically.
+While it's possible to install the Vale configuration file in different locations,
+it may be most convenient to install it in the root directory of your target
+repository, as shown in the noted examples.
 
-Once configured, run ``vale sync`` to download the packages listed in your configuration,
-and ``vale ls-config`` to confirm Vale picked up your settings.
+Once configured for your repository, you should be able to navigate to your
+repository path, and then run `vale dc` to confirm your configuration.
 
 You can then apply Vale as a grammar linter directly to your source files, with
-a command like::
+a command like:
 
-    vale /path/to/someText.md
+$ `vale /path/to/someText.md`
 
 Hint: Vale even works with XML files, such as those in DocBook and DITA, as long
 as you've included `*.xml` in the Vale configuration file.

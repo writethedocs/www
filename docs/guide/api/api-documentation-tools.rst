@@ -5,8 +5,8 @@ API documentation tools
 Specialized descriptive languages help when writing API documentation.
 Some of our favorite descriptive languages include:
 
-* `OpenAPI <https://www.openapis.org/>`_ (formerly Swagger), the most widely used
 * :ref:`blueprint`
+* Swagger
 
 When specifying a descriptive language for your API, you'll also need tools to create engaging
 documents. Several tools work best with our favorite descriptive languages:
@@ -25,7 +25,7 @@ Hosting Apiary docs
 -------------------
 
 Apiary provides a service for creating and hosting API documentation described in the :ref:`blueprint`
-or OpenAPI format. Once the API description is complete, Apiary generates interactive documentation in a
+or Swagger format. Once the API description is complete, Apiary generates interactive documentation in a
 three column layout. Example requests and responses are shown for every endpoint in multiple
 programming languages. It also enables the user to make requests to your live API.
 
@@ -109,4 +109,4 @@ Testing API docs
 ~~~~~~~~~~~~~~~~
 
 When specifying an API in a descriptive language, you don't have to manually
-validate your documents. Tools like `Schemathesis <https://schemathesis.readthedocs.io/>`_ can test your OpenAPI description against the live API.
+validate your documents. Tools like Dredd can test your documentation against the live API.
