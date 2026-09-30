@@ -1,8 +1,11 @@
 Newsletter & Mailing lists
 ==========================
 
-Write the Docs publishes a monthly newsletter, sharing interesting information
-and ideas that have been shared in our Slack network.
+
+Write the Docs publishes a monthly newsletter, fetauring ideas and discussions that
+have been shared in our Slack network. We also publish a :doc:`quarterly showcase <showcase>`,
+spotlighting content written by the community. You can sign up to receive
+announcements about our conferences and the salary survey, too.
 
 Latest newsletters
 ------------------
@@ -18,8 +21,7 @@ Latest newsletters
 Sign up
 -------
 
-Use this form to sign up for our newsletter (and announcements for our conferences
-too, if you like):
+Use this form to sign up for updates from our community:
 
 
 .. raw :: html
@@ -65,6 +67,10 @@ too, if you like):
    <li>
       <input type="checkbox" name="group[14633][32]" id="mce-group[14633]-14633-5" value="">
       <label for="mce-group[14633]-14633-5">Salary Survey Announcements</label>
+   </li>
+   <li>
+      <input type="checkbox" name="group[14633][64]" id="mce-group[14633]-14633-6" value="">
+      <label for="mce-group[14633]-14633-6">Quarterly Community Showcase</label>
    </li>
     </ul>
         <span id="mce-group[14633]-HELPERTEXT" class="helper_text"></span>
