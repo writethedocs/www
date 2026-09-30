@@ -44,6 +44,17 @@ The nitty-gritty about creating our hand-crafted newsletter.
    newsletter/editorial-guidelines
    newsletter/newsletter-process
 
+Showcase
+--------
+
+Information about curating the quarterly Community Showcase.
+
+.. toctree::
+   :maxdepth: 2
+
+   showcase/editorial-guidelines
+   showcase/showcase-process
+
 Conferences
 -----------
 
@@ -90,7 +101,7 @@ Information about contributing interview content for the community.
    :maxdepth: 2
 
    community-spotlight-interviewing-guide
-    
+
 Salary Surveys
 --------------
 
