@@ -16,7 +16,7 @@ Submissions come in via the Showcase form, landing in a shared spreadsheet. Keep
 Review and rate submissions (1-2 weeks before shipping)
 *******************************************************
 
-Each submission is read and rated independently by the editor and a second reviewer, against the :doc:`editorial guidelines </editorial-guidelines/>`.
+Each submission is read and rated independently by the editor and a second reviewer, against the :doc:`editorial guidelines <editorial-guidelines>`.
 
 Score each submission on a 1 to 5 grading scale:
 
