@@ -38,13 +38,14 @@ Installing Sphinx
 
 The first step to getting going is installing `Sphinx`_.
 Sphinx is a Python project, so it can be installed like any other Python library.
-Create a virtual environment for your project and install Sphinx into it::
+Several Operating Systems (Mac OS X, Major Versions of Linux/BSD) have Python pre-installed,
+so you should just have to run::
 
-    python -m venv .venv
-    source .venv/bin/activate
-    pip install sphinx
+    sudo pip install Sphinx
 
-For other platforms and package managers, see the `Sphinx install page`_.
+Instructions for installing Python and Sphinx on Windows can be found at the `Sphinx install page`_.
+
+.. note:: Advanced users can install this in a virtualenv if they wish.
 
 
 Getting started
