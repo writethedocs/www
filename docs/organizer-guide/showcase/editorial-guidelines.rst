@@ -8,7 +8,7 @@ Not everything submitted gets featured, and that's the point. Of course, the `#c
 In the Showcase, we don't republish the full text. We link out to each featured piece and give a short write-up explaining why it's worth reading.
 
 What we're looking for
-**************
+**********************
 
 * **Relevance.** Content must be related to the practice of writing, creating, maintaining, or building documentation; or related to the discipline of technical writing. It shouldn't be primarily a product marketing piece. If the main point is "buy this" or "use this tool," it's not a fit, regardless of how well-written it is.
 
