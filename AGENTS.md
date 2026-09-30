@@ -71,7 +71,7 @@ All build commands run from the `docs/` directory using `make` (not raw `sphinx-
 - **Clean build:** `cd docs && make clean && uv run make html`
 - **Compile SCSS:** `sass --style=compressed --no-source-map docs/_static/conf/scss/main-YYYY.scss docs/_static/conf/css/main-YYYY.min.css`
 
-Python 3.12 is required. Dependencies: `uv sync`
+Python 3.12 is required. Dependencies: `uv sync` (add `--group scripts` for the helper scripts in `docs/_scripts/`)
 
 ## CI Checks (GitHub Actions)
 
@@ -110,6 +110,7 @@ Year-specific HTML templates in `docs/_templates/<year>/` (base.html, index.html
 - `filters.py` — Custom Jinja filters (e.g., speaker photo paths)
 - `meetups.py` — `meetup-listing` directive
 - `atom_absolute.py` — Rewrites atom feed URLs to absolute
+- `build_perf.py` — Build-speed fixes: caches the sidebar toctree, keeps the environment out of pickled doctrees, and makes ablog safe for parallel reading
 
 ### Styling
 

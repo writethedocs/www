@@ -13,6 +13,11 @@ def slugify(slug):
     slug = re.sub(r'[^a-z0-9]+', '-', slug).strip('-')
     slug = re.sub(r'[-]+', '-', slug)
     return slug
+# The C loader parses the same YAML about ten times faster than the pure
+# Python one, and the build reads the conference data files hundreds of times.
+_YAML_LOADER = getattr(yaml, 'CSafeLoader', yaml.SafeLoader)
+
+
 def load_yaml(path):
     with io.open(path, encoding='utf-8') as fp:
-        return yaml.safe_load(fp)
+        return yaml.load(fp, Loader=_YAML_LOADER)

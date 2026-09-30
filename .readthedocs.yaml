@@ -7,7 +7,8 @@ build:
   jobs:
     build:
       html:
-        - cd docs && uv run python -m sphinx -T -W -b dirhtml -j auto . $READTHEDOCS_OUTPUT/html
+        # Keep doctrees out of the output directory so they aren't uploaded with the site.
+        - cd docs && uv run python -m sphinx -T -W -b dirhtml -j auto -d _build/doctrees . $READTHEDOCS_OUTPUT/html
 
 python:
   install:

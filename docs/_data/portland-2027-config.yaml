@@ -166,6 +166,31 @@ about:
   mainroom: Main stage
   unconfroom: Martha's, Library & Astoria room (1st floor)
   projector_ratio: "16:9"
+  # Shown on the sponsorship prospectus, from the 566 registration survey
+  # responses at Portland 2026. The summary shares below are separate cuts of
+  # that survey, so they don't all add up from the role mix.
+  documentarians: 79  # writers, editors and documentation managers
+  manager_level: 22  # documentation, product and project managers, directors and leads
+  engineering: 7  # programmers plus developer relations
+  first_time: 52
+  audience:
+    - label: Writers and editors
+      percent: 64
+    - label: Documentation managers
+      percent: 15
+    - label: Programmers and developer relations
+      percent: 7
+    - label: Product and project managers
+      percent: 4
+    - label: Everything else
+      percent: 10  # carries the rounding, so the bar adds up to 100
+  ticket_mix:
+    - label: Corporate tickets
+      percent: 70
+    - label: Independent tickets
+      percent: 20
+    - label: Student tickets
+      percent: 10
 
 cfp:
   url: "https://pretalx.com/wtd-portland-2027/cfp" # Open mid November, approx 12 weeks to submit

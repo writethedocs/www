@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 #
 
-import logging
 import os
 import sys
 import datetime
@@ -100,6 +99,8 @@ extensions = [
     'sphinxemoji.sphinxemoji',
     'myst_parser',
     'sphinxext.opengraph',
+    # Local build-speed fixes; must come after ablog, which it patches.
+    '_ext.build_perf',
 ]
 
 myst_heading_anchors = 4
@@ -159,6 +160,19 @@ html_theme = 'alabaster'
 html_theme_options = {
     'logo': 'sticker-wtd-colors.png',
     'sidebar_includehidden': False,
+    # The sidebar nav: the handful of places worth reaching from any page.
+    # Everything else is on the front page and in the site map. The front page
+    # toctree can't serve double duty here: it either renders a second copy of
+    # this list on the page, or, if hidden, drops out of the sidebar entirely.
+    'extra_nav_links': {
+        'Conferences': '/conf/',
+        'Slack': '/slack/',
+        'Meetups': '/meetups/',
+        'Newsletter': '/newsletter/',
+        'Content by topic': '/topics/',
+        'Blog': '/blog/',
+        'Documentation guide': '/guide/',
+    },
     'github_user': 'writethedocs',
     'github_repo': 'www',
     'github_banner': False,
@@ -202,17 +216,6 @@ texinfo_documents = [
 
 suppress_warnings = ['image.nonlocal_uri', 'myst.header']
 
-# Suppress warnings from -j auto when ablog isn't parallel-read-safe.
-# Sphinx still parallelizes writing; only reading falls back to serial.
-class _ParallelReadFilter(logging.Filter):
-    def filter(self, record):
-        msg = record.getMessage()
-        if 'is not safe for parallel reading' in msg or msg == 'doing serial read':
-            return False
-        return True
-
-logging.getLogger('sphinx').addFilter(_ParallelReadFilter())
-
 # Our additions
 
 global_sponsors = load_yaml('_data/global-sponsors.yaml')
@@ -239,8 +242,20 @@ elif datetime.date(2026, 9, 19) <= datetime.date.today() <= datetime.date(2026, 
 elif datetime.date(2026, 12, 3) <= datetime.date.today() <= datetime.date(2026, 12, 4):
     announcement_message = "Australia 2026: Dec 3-4. <a href='/conf/australia/2026/'>View the conference site</a>."
 
+# The salary survey, which is open for submissions for part of the year.
+# Update these when the next survey opens; the front page swaps between
+# asking people to take it and pointing at the published results.
+_salary_survey_closes = datetime.date(2027, 1, 31)
+salary_survey = {
+    'year': 2026,
+    'url': 'https://salary-survey.writethedocs.org/',
+    'open': datetime.date.today() <= _salary_survey_closes,
+    'closes': f'{_salary_survey_closes.day} {_salary_survey_closes:%B %Y}',
+}
+
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
+    'salary_survey': salary_survey,
     'newsletter_subs': '10,000',
     'slack_members': '22,500',
     'website_visits': '20,000',

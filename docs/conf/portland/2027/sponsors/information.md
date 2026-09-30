@@ -4,7 +4,7 @@ og:image: _static/conf/images/headers/{{ shortcode }}-{{year}}-opengraph.jpg
 banner: _static/conf/images/headers/2026/sponsors.jpg
 ---
 
-# Sponsor Information
+# Sponsor information
 
 Hi sponsors! We're excited to have you join us for Write the Docs {{ name }} {{ year }}. Below is a conference overview, schedule, and detailed information regarding your participation.
 
@@ -38,7 +38,7 @@ Hi sponsors! We're excited to have you join us for Write the Docs {{ name }} {{ 
 * 4:25pm: Conference ends/load out
 * 6:00pm: Out of venue 
 
-## Conference Overview
+## Conference overview
 
 * **{{ date.day_two.dotw | upper }}**: The conference begins with [Writing Day](/conf/{{ shortcode }}/{{ year }}/schedule/) and typically is attended by one third of our attendees. The Welcome Reception takes place in the evening and brings in an additional wave of attendees. **There are no sponsor booths this day**, but sponsors are encouraged to submit and lead a Writing Day project.
 
@@ -48,11 +48,11 @@ Hi sponsors! We're excited to have you join us for Write the Docs {{ name }} {{ 
 
 The [full schedule](/conf/{{ shortcode }}/{{ year }}/schedule/) will be available here.
 
-### Venue Layout
+### Venue layout
 
 Our [Venue page](/conf/{{ shortcode }}/{{ year }}/venue/) has more information about the venue, including the location of the sponsor booths, speaker talks, and other conference spaces.
 
-## Media Kit
+## Media kit
 
 Download copy and graphics from our [Media Kit](https://drive.google.com/drive/folders/1eirqARWw8dvLgGwQDv_LN7N-b55xLRv5?usp=sharing).
 
@@ -63,42 +63,42 @@ This includes:
 * Event graphic
 * Sponsor graphic
 
-## Premium Activations
+## Premium activations
 
 Patron and Keystone sponsors can add premium activations to their package, including beverage activations in Martha's, an attendee lounge, professional headshot booth, co-branded swag, and social event sponsorships. See our [Sponsorship Activations](/conf/{{shortcode}}/{{year}}/sponsors/activations/) page for full specs and logistics.
 
-## Sponsorship Benefits During the Conference
+## Sponsorship benefits during the conference
 
 Each sponsorship includes different opportunities to engage with our attendees. View further information below on specifics to sponsor booths, Writing Day, Unconference, and Lightning Talks. 
 
-### Sponsor Booths - Keystone and Patron
+### Sponsor booths: Keystone and Patron
 
 Sponsor booths are set up in the main hallway on {{ date.day_three.dotw }} and {{ date.day_four.dotw }} outside of the auditorium.
 
 * **Location:** Main hallway, outside the auditorium
 * **Availability:** {{ date.day_three.dotw }} and {{ date.day_four.dotw }}, full conference hours
 
-#### What Write the Docs Provides
+#### What Write the Docs provides
 
 - **Keystone:** 8-foot table with 2 chairs, monitor, power and wifi access
 - **Patron:** 6-foot table with 2 chairs, power and wifi access
 - Monitor rental available for Patron sponsors for an additional fee
 
-#### What the Sponsor Provides
+#### What the sponsor provides
 
 - Table linen
 - Laptop, tablets, or monitor to display your product
 - Banner (must fit behind your table)
 - Swag for attendees (stickers are the most popular item)
 
-#### Booth Logistics
+#### Booth logistics
 
 * **Setup:** Arrive at 7:00am {{ date.day_three.dotw }}. The venue opens to attendees at 8:00am. Load-in instructions will be sent closer to the conference.
 * **Presence:** Be at your booth during breaks and at the start of lunch.
 * **Load-out:** You are responsible for loading in and out your entire booth setup. All materials must be out of the venue by 5:30pm {{ date.day_four.dotw }}.
 * **Tips:** Engage with folks as both a sponsor and attendee. QR codes are a great way to get people to a website quickly.
 
-### Lightning Talk Sponsor
+### Lightning Talk sponsor
 
 If you are sponsoring a Lightning Talk, you will be given 60 seconds to share about your company. This will occur on {{ date.day_three.dotw }} OR {{ date.day_four.dotw }} after lunch. If you want to use a slide for your introduction, let us know. Otherwise, we will create a slide with your logo.
 
@@ -113,7 +113,7 @@ Host a project at Writing Day. This is a place where the community gathers to ge
 * View our [Lead a Project](https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/writing-day/#lead-a-project) for more information.
 * [Submit your Writing Day project here.](https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform?usp=dialog) All projects submitted by {{ writing_day.project_deadline }} will be published to our website, which encourages attendees to attend, engage with your product, and contribute to your documentation.
 
-### Host an Unconference Session
+### Host an Unconference session
 
 Host an Unconference session. This is a wonderful opportunity to lead, contribute, share ideas, and discuss problems in an organized setting with small groups of people.
 
@@ -123,7 +123,7 @@ Host an Unconference session. This is a wonderful opportunity to lead, contribut
 * Let us know in advance if you plan to run an unconference session so we can confirm a suitable timeslot for you.
 * View more on how to Lead a Session on our [Unconference](/conf/{{ shortcode }}/{{ year }}/unconference/) page.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### How do I get the most out of my sponsorship?
 

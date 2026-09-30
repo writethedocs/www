@@ -21,6 +21,7 @@ For conferences, see [the conference site documentation](https://www.writethedoc
 1. Install [uv](https://docs.astral.sh/uv/getting-started/installation/) (Python package manager).
 
 2. In the repository root directory (`www` by default), run `uv sync` to install Python 3.12 and all dependencies.
+   The helper scripts in `docs/_scripts/` need extra packages; run `uv sync --group scripts` to install those too.
 
 ### Previewing the docs locally
 

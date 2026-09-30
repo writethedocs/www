@@ -79,6 +79,9 @@
     <ul class="uk-nav-sub">
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsors/prospectus') }}">Prospectus</a></li>
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsors') }}">Our Sponsors</a></li>
+            {% if flagrunofshow %}
+            <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/sponsors/information') }}">Sponsor Information</a></li>
+            {% endif %}
     </ul>
   </li>
 

@@ -16,7 +16,7 @@ and is a common practice in the software development world.
 
 We recommend checking out the following tools to get started:
 
-* `Travis CI <https://travis-ci.org>`_ (GitHub only, free for open source)
+* `Travis CI <https://www.travis-ci.com/>`_
 * `AppVeyor <https://www.appveyor.com/>`_ (Windows support, free for open source)
 
 Build errors
@@ -34,7 +34,7 @@ If your build tool has a *picky* mode that flags warnings that *might* be
 problematic as well as errors, it might make sense to switch it on, but you'll
 want to make sure that your documentation is in good shape before you do.
 
-* Sphinx has `nitpicky mode <https://www.sphinx-doc.org/en/stable/config.html#confval-nitpicky>`_.
+* Sphinx has `nitpicky mode <https://www.sphinx-doc.org/en/master/usage/configuration.html#confval-nitpicky>`_.
 * Jekyll has `strict mode <https://jekyllrb.com/docs/configuration/#liquid-options>`_.
 
 Link testing
@@ -54,7 +54,7 @@ These are the tools we know with proper link checking:
 Sphinx
 ~~~~~~
 
-Sphinx ships with a ``linkcheck`` `builder <https://www.sphinx-doc.org/en/stable/builders.html>`_ as a default.
+Sphinx ships with a ``linkcheck`` `builder <https://www.sphinx-doc.org/en/master/usage/builders/index.html>`_ as a default.
 You can run it with a simple::
 
     make linkcheck
@@ -62,13 +62,6 @@ You can run it with a simple::
 Its output looks something like this:
 
 .. image:: /_static/img/guide/sphinx-linkcheck.png
-
-Jekyll
-~~~~~~
-
-Jekyll has a few plugins that support link checking:
-
-* https://github.com/endymion/link-checker
 
 HTMLProofer
 ~~~~~~~~~~~
@@ -121,7 +114,7 @@ installed Vale.
 Now to configure Vale, you'll need a .vale or a .vale.ini configuration file. For some
 examples, see
 
-* https://github.com/writethedocs/www/blob/master/.vale.ini
+* https://github.com/writethedocs/www/blob/main/vale/vale.ini
 * https://github.com/cockroachdb/docs/blob/master/.vale.ini
 * https://github.com/linode/docs/blob/develop/.vale.ini
 
