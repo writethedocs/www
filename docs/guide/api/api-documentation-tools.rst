@@ -12,7 +12,6 @@ When specifying a descriptive language for your API, you'll also need tools to c
 documents. Several tools work best with our favorite descriptive languages:
 
 * :ref:`apiary-overview`
-* Aglio
 * :doc:`Sphinx </guide/tools/sphinx>`
 
 .. _apiary-overview:
@@ -104,8 +103,7 @@ The structure for an ``.apib`` file is::
 Building API Blueprint docs
 ---------------------------
 
-The two most popular tools for generating documents from API Blueprints are :ref:`Apiary <apiary-building-docs>` and
-`Aglio <https://github.com/danielgtaylor/aglio>`_.
+The most popular tool for generating documents from API Blueprints is :ref:`Apiary <apiary-building-docs>`.
 
 Testing API docs
 ~~~~~~~~~~~~~~~~
