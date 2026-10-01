@@ -64,7 +64,7 @@ from _ext.filters import add_jinja_filters_to_app
 from _ext.utils import load_yaml
 from _ext.meetups import MeetupListing
 from _ext.atom_absolute import rewrite_atom_feed
-from _ext.button import ButtonLink
+from _ext.button import ButtonLink, add_jinja_globals_to_app
 
 exclude_patterns = [
     '_build',
@@ -286,6 +286,7 @@ def setup(app):
 
     # Set up our custom jinja filters
     app.connect("builder-inited", add_jinja_filters_to_app)
+    app.connect("builder-inited", add_jinja_globals_to_app)
 
     # Transform RST with Jinja, using proper context
     app.connect("source-read", render_rst_with_jinja)

@@ -37,6 +37,7 @@ Exact times to be posted on our [Schedule](/conf/{{shortcode}}/{{year}}/schedule
 
 {% if unconf.url %}
 ```{button-link} {{ unconf.url }}
+:year: {{ year }}
 See the Unconference sessions or lead a session
 ```
 {% endif %}
@@ -53,6 +54,7 @@ See the Unconference sessions or lead a session
 
 {% if unconf.virtual_url %}
 ```{button-link} {{ unconf.virtual_url }}
+:year: {{ year }}
 See the virtual sessions or lead a session
 ```
 {% endif %}

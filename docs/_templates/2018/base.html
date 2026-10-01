@@ -68,40 +68,41 @@
     <div class="footer-head">
         <div class="uk-container">
         {% block footerhead %}
+<div style="display:flex; flex-direction:inherit; flex-wrap:nowrap; gap:12px; justify-content:inherit; align-items:stretch;">
                 {% if flagticketsonsale or flagcfp or flagspeakersannounced and not flagvideos %}
                 <h3>Join us now!</h3>
                 {% endif %}
 
                 {% if flagticketsonsale %}
 
-                <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/' + shortcode + '/2018/tickets') }}">Buy a Ticket!</a>
+                {{ button_link(pathto('conf/' + shortcode + '/2018/tickets'), "Buy a Ticket!", year, wrap=False, new_tab=False, contrast=True) }}
 
                 {% endif %}
 
                 {% if flagcfp %}
 
-                <a class="uk-button uk-button-secondary uk-text-center" href="{{ pathto('conf/' + shortcode + '/2018/cfp') }}">Submit a
-                Talk</a>
+                {{ button_link(pathto('conf/' + shortcode + '/2018/cfp'), "Submit a Talk", year, wrap=False, new_tab=False, contrast=True) }}
 
                 {% endif %}
 
                 {% if flagspeakersannounced and not flagvideos %}
 
-                <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/' + shortcode + '/2018/speakers') }}">See the talks!</a>
+                {{ button_link(pathto('conf/' + shortcode + '/2018/speakers'), "See the talks!", year, wrap=False, new_tab=False, contrast=True) }}
 
                 {% endif %}
 
                 {% if flagwelcomewagon %}
 
-                <a class="uk-button uk-button-default uk-text-center" href="{{ pathto('conf/' + shortcode + '/' + year|string + '/welcome-wagon') }}">Prepare with the Welcome Wagon</a>
+                {{ button_link(pathto('conf/' + shortcode + '/' + year|string + '/welcome-wagon'), "Prepare with the Welcome Wagon", year, wrap=False, new_tab=False, contrast=True) }}
 
                 {% endif %}
 
                 {% if flagvideos %}
 
-                <a class="uk-button uk-button-default uk-text-center" href="https://www.writethedocs.org/slack">Join the WTD Slack!</a>
+                {{ button_link('https://www.writethedocs.org/slack', "Join the WTD Slack!", year, wrap=False, new_tab=False, contrast=True) }}
 
                 {% endif %}
+        </div>
 
 
         {% endblock %}

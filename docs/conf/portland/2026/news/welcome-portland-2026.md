@@ -40,6 +40,7 @@ The website is full of wonderful information about the conference, venue, and Po
 We're opening up the Monday Unconference sign-ups today! We're doing this because Unconferences are amazing ways to foster connection within our community, and we hope this gives more visibility to the earlier Monday slots. [Learn more about the Unconference here](https://www.writethedocs.org/conf/portland/{{year}}/unconference/).
 
 ```{button-link} {{ unconf.url }}
+:year: {{ year }}
 Sign up to Lead a Monday Unconference
 ```
 
@@ -50,6 +51,7 @@ And as always, sign-ups are welcome during the conference.
 We're also opening up Monday Lightning Talk submissions. Lightning Talks are a wonderful way to share an idea, concept, or piece of information you find interesting, in an informal five-minute talk. Similar to above, we hope that by opening up Lightning Talks early, this provides more time to ideate and to submit your talk before the conference. [Learn more about giving a Lightning Talk here.](https://www.writethedocs.org/conf/portland/{{year}}/lightning-talks/)
 
 ```{button-link} {{ lightning_talks.signup_url }}
+:year: {{ year }}
 Submit your Monday Lightning Talk
 ```
 
