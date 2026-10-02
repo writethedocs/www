@@ -64,7 +64,7 @@ from _ext.filters import add_jinja_filters_to_app
 from _ext.utils import load_yaml
 from _ext.meetups import MeetupListing
 from _ext.atom_absolute import rewrite_atom_feed
-from _ext.button import ButtonLink
+from _ext.button import ButtonLink, add_jinja_globals_to_app
 
 exclude_patterns = [
     '_build',
@@ -163,6 +163,19 @@ html_theme = 'alabaster'
 html_theme_options = {
     'logo': 'sticker-wtd-colors.png',
     'sidebar_includehidden': False,
+    # The sidebar nav: the handful of places worth reaching from any page.
+    # Everything else is on the front page and in the site map. The front page
+    # toctree can't serve double duty here: it either renders a second copy of
+    # this list on the page, or, if hidden, drops out of the sidebar entirely.
+    'extra_nav_links': {
+        'Conferences': '/conf/',
+        'Slack': '/slack/',
+        'Meetups': '/meetups/',
+        'Newsletter': '/newsletter/',
+        'Content by topic': '/topics/',
+        'Blog': '/blog/',
+        'Documentation guide': '/guide/',
+    },
     'github_user': 'writethedocs',
     'github_repo': 'www',
     'github_banner': False,
@@ -226,8 +239,20 @@ elif datetime.date(2026, 6, 2) <= datetime.date.today() <= datetime.date(2026, 9
 elif datetime.date(2026, 9, 6) <= datetime.date.today() <= datetime.date(2026, 9, 9):
     announcement_message = "Berlin 2026: Sep 6-8. <a href='/conf/berlin/2026/'>View the conference site</a>."
 
+# The salary survey, which is open for submissions for part of the year.
+# Update these when the next survey opens; the front page swaps between
+# asking people to take it and pointing at the published results.
+_salary_survey_closes = datetime.date(2027, 1, 31)
+salary_survey = {
+    'year': 2026,
+    'url': 'https://salary-survey.writethedocs.org/',
+    'open': datetime.date.today() <= _salary_survey_closes,
+    'closes': f'{_salary_survey_closes.day} {_salary_survey_closes:%B %Y}',
+}
+
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
+    'salary_survey': salary_survey,
     'newsletter_subs': '10,000',
     'slack_members': '22,500',
     'website_visits': '20,000',
@@ -264,6 +289,7 @@ def setup(app):
 
     # Set up our custom jinja filters
     app.connect("builder-inited", add_jinja_filters_to_app)
+    app.connect("builder-inited", add_jinja_globals_to_app)
 
     # Transform RST with Jinja, using proper context
     app.connect("source-read", render_rst_with_jinja)
