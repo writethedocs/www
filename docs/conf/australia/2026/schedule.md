@@ -48,7 +48,11 @@ Is this your first time at Write the Docs? Join us for an informal Introduction 
 
 {% if flaghasschedule %}
 
-{% with day_schedule=schedule.talks_day1 %} {% include "include/schedule2021.rst" %} {% endwith %}
+```{raw} html
+{% with day_schedule=schedule.talks_day1 %}
+{% include "include/schedule2026.md" %}
+{% endwith %}
+```
 
 {% else %}  
 A detailed schedule will be announced soon.
@@ -87,7 +91,11 @@ Snacks and drinks (non-alcoholic & alcoholic) will be provided.
 
 {% if flaghasschedule %}
 
-{% with day_schedule=schedule.talks_day2 %} {% include "include/schedule2021.rst" %} {% endwith %}
+```{raw} html
+{% with day_schedule=schedule.talks_day2 %}
+{% include "include/schedule2026.md" %}
+{% endwith %}
+```
 
 {% else %}  
 A detailed schedule will be announced soon.
