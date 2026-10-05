@@ -28,12 +28,12 @@ buttons:
   top:
 #    - text: Conference announcement
 #      link: /news/welcome
-     - text: Sponsor us
-       link: /sponsors/prospectus
+    # - text: Sponsor us
+    #   link: /sponsors/prospectus
     # - text: Submit a Talk
     #  link: /cfp
-    # - text: See the Schedule
-    #   link: /schedule
+     - text: See the Schedule
+       link: /schedule
     # - text: See the Speakers
     #   link: /speakers
      - text: Buy a Ticket
@@ -194,7 +194,7 @@ flagsoldout: False
 flagscheduleincomplete: True
 flagspeakersannounced: True
 flagrunofshow: False
-flaghasschedule: False
+flaghasschedule: True
 flaghasshirts: False
 flaglivestreaming: False
 flagvideos: False
