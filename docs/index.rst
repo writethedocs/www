@@ -39,10 +39,13 @@ Get involved
          <p>Over 700 talks and newsletter articles, on everything from API docs to getting hired.</p></li>
      <li><strong><a href="/meetups/">Find a local meetup</a></strong>
          <p>Local and virtual groups in over {{ meetup_cities }} cities, run by volunteers.</p></li>
-     <li><strong><a href="/surveys/">See the salary survey</a></strong>
-         <p>Anonymous pay data for documentation roles, published free every year.
-            The <a href="https://salary-survey.writethedocs.org/">2026 survey is open</a>.</p></li>
-     <li><strong><a href="/sponsorship/">Sponsor Write the Docs</a></strong>
+{% if salary_survey.open %}     <li><strong><a href="{{ salary_survey.url }}">Take the salary survey</a></strong>
+         <p>Anonymous pay data for documentation roles. The {{ salary_survey.year }} survey
+            closes {{ salary_survey.closes }}, and <a href="/surveys/">past results</a> are free to read.</p></li>
+{% else %}     <li><strong><a href="/surveys/">See the salary survey</a></strong>
+         <p>Anonymous pay data for documentation roles, published free every year.</p></li>
+{% endif %}
+     <li><strong><a href="/sponsorship/">Become a sponsor</a></strong>
          <p>Reach documentarians through our conferences, newsletter, Slack and website.</p></li>
    </ul>
 

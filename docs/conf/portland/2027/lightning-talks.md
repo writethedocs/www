@@ -41,6 +41,7 @@ Submissions open:
 
 {% if lightning_talks.signup_url %}
 ```{button-link} {{ lightning_talks.signup_url }}
+:year: {{ year }}
 Submit a Lightning Talk
 ```
 {% endif %}

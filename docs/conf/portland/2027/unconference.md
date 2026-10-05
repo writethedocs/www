@@ -31,6 +31,7 @@ See the [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page for exact times.
 
 {% if unconf.url %}
 ```{button-link} {{ unconf.url }}
+:year: {{ year }}
 View the Unconference Schedule
 ```
 {% endif %}

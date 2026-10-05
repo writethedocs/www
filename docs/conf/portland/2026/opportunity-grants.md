@@ -21,11 +21,10 @@ We prioritize applications based on the overall impact that granting an applicat
 Grant applicants, like all other participants in the Write the Docs community, are required to follow the [Code of Conduct](/conf/{{shortcode}}/{{year}}/code-of-conduct/).
 
 {% if grants.url %}
-<div class="announcement" style="background-color:white;">
-    <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ grants.url }}">Apply for an Opportunity Grant</a>
-    </div>
-</div>
+```{button-link} {{ grants.url }}
+:year: {{ year }}
+Apply for an Opportunity Grant
+```
 {% endif %}
 
 ## Schedule

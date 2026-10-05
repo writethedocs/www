@@ -23,11 +23,10 @@ In the meantime, mark your calendars:
 
 Ready to submit your talk? You can do that here:
 
- <div class="announcement" style="background-color:white;">
-     <div class="uk-container">
-     <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}" target="_blank">Submit your proposal</a>
-     </div>
- </div>
+```{button-link} {{ cfp.url }}
+:year: {{ year }}
+Submit your proposal
+```
 
 {% endif %}
 
@@ -178,11 +177,10 @@ Take a look at our [Example proposal](../example-proposal/), with additional gui
 
 Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx account, unless you already have one from a previous conference.
 
- <div class="announcement" style="background-color:white;">
-     <div class="uk-container">
-     <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}" target="_blank">Submit your proposal</a>
-     </div>
- </div>
+```{button-link} {{ cfp.url }}
+:year: {{ year }}
+Submit your proposal
+```
 
 You'll be able to edit your proposal up until the submission deadline. Please be considerate of our reviewers when making changes to talks you've already submitted.
 

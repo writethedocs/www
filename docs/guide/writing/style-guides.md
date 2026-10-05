@@ -20,7 +20,7 @@ You can certainly create a style guide of your own. For the sake of simplicity, 
 ### How-to articles for writing a style guide
 
 - [Creative Blog — Create a website style guide](http://www.creativebloq.com/design/create-website-style-guide-6123030)
-- [Gather Content — Developing a Content style guide](http://blog.gathercontent.com/tone-of-voice-guide)
+- [Bynder — Developing a tone of voice guide](https://www.bynder.com/en/blog/a-simple-tool-to-guide-tone-of-voice/)
 - [HubSpot — How to Create a Writing style guide Built for the Web](http://blog.hubspot.com/blog/tabid/6307/bid/31247/The-Simple-Template-for-a-Thorough-Content-Style-Guide.aspx)
 - [Meet Content — Editorial Style for the Web](http://meetcontent.com/blog/elements-of-editorial-style-for-the-web/)
 - [Techwhirl – Developing a Style Guide for Technical Publications](http://techwhirl.com/developing-a-departmental-style-guide/)
@@ -35,36 +35,33 @@ Style guides have been around for as long as people have been publishing in any 
 Additional books on writing:
 
 - [The Sense of Style](https://stevenpinker.com/publications/sense-style-thinking-persons-guide-writing-21st-century)
-- [Stylish Academic Writing](https://www.hup.harvard.edu/catalog.php?isbn=9780674064485)
+- [Stylish Academic Writing](https://www.hup.harvard.edu/books/9780674064485)
 
 ## Sample writing guides
 
 Classics for software documentation include:
 
 - [Apple Style Guide](https://help.apple.com/applestyleguide/)
-- [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
+- [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/)
 
 ### More enterprise software style guides
 
 - [Google developer documentation](https://developers.google.com/style)
 - [The Red Hat Style Guide](https://redhat-documentation.github.io/supplementary-style-guide/)
 - [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm)
-- [Rackspace](https://docs.rackspace.com/docs/style-guide/)
 - [Mailchimp](https://styleguide.mailchimp.com/)
-- [Quickbooks](https://designsystem.quickbooks.com/content/)
 - [Intuit](https://contentdesign.intuit.com/)
 - [Adobe](https://spectrum.adobe.com/page/grammar-and-mechanics/)
 
 ### Style guides from government and education
 
-- [18F Content Guide](https://content-guide.18f.gov)
-- [Writing for gov.uk](https://www.gov.uk/guidance/content-design/writing-for-gov-uk)
+- [Writing for gov.uk](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/)
 - [Princeton Editorial Style Guide](https://communications.princeton.edu/guides-tools/princeton-editorial-style-guide)
-- [Federal Plain Language Style Guide](https://www.plainlanguage.gov/guidelines/)
+- [Federal Plain Language Guidelines](https://digital.gov/guides/plain-language)
 
 ### Style guides from open source projects
 
-- [Open SUSE Style Guide](https://documentation.suse.com/style/current/single-html/docu_styleguide/)
+- [SUSE Documentation Style Guide](https://documentation.suse.com/style/current/)
 - [gnome Style Guide](https://developer.gnome.org/documentation/guidelines/devel-docs.html)
 - [Write the Docs Official Website Style Guide](/guide/writing/style-guides)
 
@@ -105,7 +102,6 @@ A command-line interface (CLI) processes commands to a computer program in the f
 - [Conventions for writing Linux man pages -- die.net](https://linux.die.net/man/7/man-pages)
 - [Documenting command-line syntax -- Google developer documentation style guide](https://developers.google.com/style/code-syntax)
 - [CLI Docs to Improve DevX video series](https://www.youtube.com/playlist?list=PLQiULOUzZJ5hKZGdbC939GKBTLOtPaAyq)
-- [gnome Documentation Style Guide](https://developer.gnome.org/gdp-style-guide/2.32/gdp-style-guide.html)
 
 Relevant talk from Write the Docs:
 
@@ -197,32 +193,28 @@ Release Notes Style Guide Resources:
 - [5 excellent product release note examples and how to write your own -- Appcues](https://www.appcues.com/blog/release-notes-examples)
 - [How to make release notes count -- Opensource](https://opensource.com/article/17/3/how-to-improve-release-notes)
 - [How to Write Release Notes Your Users Will Actually Read -- ProductPlan](https://www.productplan.com/learn/release-notes-best-practices/)
-- [Release notes guidelines -- Rackspace](https://docs.rackspace.com/docs/style-guide/release-notes-guidelines/)
-- [Release notes and changelogs -- Unity Docs Style Guide](https://unity-docs.gitbook.io/style-guide/style/release-notes)
 - [The Importance of Writing Release Notes -- Testlodge](https://blog.testlodge.com/importance-of-writing-release-notes/)
-- [Transforming Your Release Notes into Product Announcements -- Parlor](https://www.parlor.io/blog/transforming-your-release-notes-into-product-announcements/)
 - [The art of writing great release notes -- UX Collective](https://uxdesign.cc/the-art-of-writing-great-release-notes-6607e22efae1)
 - [The art of writing Release Notes A guide, examples & template -- Slite](https://slite.com/learn/release-notes)
-- [The best and the worst app release notes that will inspire you -- announcekit](https://announcekit.app/blog/the-best-and-the-worst-app-release-notes-that-will-inspire-you)
 
 Examples of great release notes:
 
-- [DataStax DSE](https://docs.datastax.com/en/dse/6.8/dse-admin/datastax_enterprise/releaseNotes/releaseNotes.html)
+- [DataStax DSE](https://docs.datastax.com/en/dse/6.8/release-notes/release-notes/dse-68-release-notes.html)
 - [Digital Ocean](https://docs.digitalocean.com/release-notes/)
-- [Firefox](https://www.mozilla.org/en-US/firefox/releases/)
+- [Firefox](https://www.firefox.com/en-US/releases/)
 - [Google Ad Manager](https://support.google.com/admanager/answer/10290437)
 - [Jira](https://confluence.atlassian.com/adminjiraserver/upgrade-matrix-966063322.html)
-- [MadCap Flare 2021](https://kb.madcapsoftware.com/Content/Flare/General/GEN1066F_-_Flare_2021_Release_Notes.htm)
 - [Slack](https://slack.com/release-notes/mac)
 - [teamwork.](https://www.teamwork.com/roadmap)
-- [Unreal Engine](https://docs.unrealengine.com/en-US/WhatsNew/Builds/index.html)
 
 What to avoid:
 
 <!-- vale off -->
 
 - [App Release Notes Are Getting Stupid -- TechCrunch](https://techcrunch.com/2015/09/04/app-release-notes-are-getting-stupid/)
-- [Release Notes: 13 Mistakes to Avoid When Writing Bugs and Enhancements -- klariti.com](https://www.klariti.com/technical-writing/2015/05/08/release-notes-mistakes-to-avoid/) Related talks:
+
+Related talks:
+
 - *[Learning to love release notes](https://www.youtube.com/watch?v=L3yAD319DiU)* from Write the Docs Prague 2018
 - [Rethinking Release Notes](https://www.youtube.com/watch?v=SWduFnDPjYg) at Write the Docs Australia 2019
 
@@ -243,7 +235,7 @@ Here are a few tips on what makes a good error message:
 
 Related resources:
 
-- [Error Message Guidelines -- Microsoft](https://docs.microsoft.com/en-us/windows/win32/debug/error-message-guidelines)
+- [Error Message Guidelines -- Microsoft](https://learn.microsoft.com/en-us/windows/win32/debug/error-message-guidelines)
 - [Error Message Guidelines –- NN Group](https://www.nngroup.com/articles/error-message-guidelines/)
 - [How to Write Good Error Messages -– UX Planet](https://uxplanet.org/how-to-write-good-error-messages-858e4551cd4)
 - [How to write better error messages –- opensource.com](https://opensource.com/article/17/8/write-effective-error-messages)
