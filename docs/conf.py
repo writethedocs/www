@@ -235,6 +235,12 @@ elif datetime.date(2026, 6, 2) <= datetime.date.today() <= datetime.date(2026, 9
     announcement_message = "Berlin 2026 tickets are on sale! <a href='/conf/berlin/2026/tickets/'>Get your ticket</a>."
 elif datetime.date(2026, 9, 6) <= datetime.date.today() <= datetime.date(2026, 9, 9):
     announcement_message = "Berlin 2026: Sep 6-8. <a href='/conf/berlin/2026/'>View the conference site</a>."
+elif datetime.date(2026, 9, 10) <= datetime.date.today() <= datetime.date(2026, 9, 18):
+    announcement_message = "Australia 2026 CFP is open! <a href='/conf/australia/2026/cfp/'>Submit your talk</a>."
+elif datetime.date(2026, 9, 19) <= datetime.date.today() <= datetime.date(2026, 12, 2):
+    announcement_message = "Australia 2026 tickets are on sale! <a href='/conf/australia/2026/tickets/'>Get your ticket</a>."
+elif datetime.date(2026, 12, 3) <= datetime.date.today() <= datetime.date(2026, 12, 4):
+    announcement_message = "Australia 2026: Dec 3-4. <a href='/conf/australia/2026/'>View the conference site</a>."
 
 # The salary survey, which is open for submissions for part of the year.
 # Update these when the next survey opens; the front page swaps between
