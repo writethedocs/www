@@ -126,12 +126,34 @@ date-details:
   short: str()
   tickets_live: str()
   month: str()
-  conference: include('day-details')
+  # 2026 and earlier. Derived from the talk days when days is set.
+  conference: include('day-details', required=False)
+  # 2027 and newer: the conference days in order, each with a kind.
+  days: list(include('conference-day'), required=False)
+  # 2026 and earlier: positional days. Which day holds talks differs per conference.
   day_one: include('day-details', required=False)
   day_two: include('day-details', required=False)
   day_three: include('day-details', required=False)
   day_four: include('day-details', required=False)
   total_talk_days: int(min=0, required=False)
+
+conference-day:
+  # A calendar date, e.g. 2027-05-03. The weekday and display date come from it.
+  date: day()
+  kind: enum('outing', 'writing_day', 'talks')
+  summary: str(required=False)
+  # Title and icon on the index page; default per kind.
+  event: str(required=False)
+  icon: str(required=False)
+  # Key in the schedule YAML to render for this day. Defaults to the kind,
+  # or talks_day1, talks_day2, ... for talk days.
+  schedule: str(required=False)
+  # Times shown on pages until the full schedule is published.
+  hours: str(required=False)
+  reception: str(required=False)
+  unconference: str(required=False)
+  social: str(required=False)
+  job_fair: str(required=False)
 
 day-details:
   event: str(required=False)

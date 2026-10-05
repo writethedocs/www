@@ -6,8 +6,9 @@ from yaml import YAMLError
 from .utils import load_yaml
 
 import logging
+import os
 import sys
-from datetime import datetime, time, timedelta
+from datetime import date as datetime_date, datetime, time, timedelta
 
 try:
     from pathlib import PurePath
@@ -38,6 +39,109 @@ TIMEZONE_TRANSLATION_PYTZ = {
     'CEST': 'CET',
     'EDT': 'US/Eastern',
 }
+
+# Kinds of conference days a config can list under ``date.days``, with the
+# default title and icon for each on the conference index page.
+DAY_KINDS = {
+    'outing': {'event': 'Outing', 'icon': 'hike'},
+    'writing_day': {'event': 'Writing Day', 'icon': 'writing'},
+    'talks': {'event': 'Conference Day %d', 'icon': 'conference'},
+}
+
+CONFERENCE_SUMMARY = ('The main days of the conference. Listen to a diverse panel '
+                      'of speakers share their insights and experience.')
+
+ICON_DIR = '_static/conf/images/icons'
+
+
+def format_day(day):
+    """Format a date as e.g. ``May 3``."""
+    return '%s %d' % (day.strftime('%B'), day.day)
+
+
+def format_day_range(first, last):
+    """Format a date range as e.g. ``May 3-4`` or ``April 30-May 1``."""
+    if first == last:
+        return format_day(first)
+    if first.month == last.month:
+        return '%s-%d' % (format_day(first), last.day)
+    return '%s-%s' % (format_day(first), format_day(last))
+
+
+def expand_conference_days(data, page):
+    """
+    Fill in everything pages need about the days listed under ``date.days``.
+
+    A day in the config is a ``date`` and a ``kind`` (``outing``,
+    ``writing_day`` or ``talks``), plus a ``summary`` and whatever times the
+    pages show. From those this derives, on each day:
+
+    * ``dotw`` (``Monday``) and a display ``date`` (``May 3``); the date
+      itself moves to ``day``.
+    * ``event`` and ``icon`` defaults for the kind.
+    * ``schedule``: the key rendered from the schedule YAML (``outing``,
+      ``writing_day``, ``talks_day1``, ...).
+
+    It also exposes the days by role, so pages don't need to know which
+    position a day has in a given conference: ``date.outing``,
+    ``date.writing_day``, ``date.talk_days`` and ``date.total_talk_days``,
+    and builds ``date.conference``, the combined talk days card on the
+    index page.
+
+    Configs without ``days`` (2026 and earlier) are left untouched.
+    """
+    date = data.get('date')
+    if not isinstance(date, dict) or not date.get('days'):
+        return
+    days = date['days']
+
+    talk_days = []
+    for number, day in enumerate(days, start=1):
+        kind = day.get('kind')
+        if kind not in DAY_KINDS:
+            raise Exception(
+                'ERROR: day %d in date.days for %s has kind %r, expected one of %s' %
+                (number, page, kind, ', '.join(sorted(DAY_KINDS))))
+        if not isinstance(day.get('date'), datetime_date):
+            raise Exception(
+                'ERROR: day %d in date.days for %s needs a date like 2027-05-03, got %r' %
+                (number, page, day.get('date')))
+        day['day'] = day['date']
+        day['date'] = format_day(day['day'])
+        day['dotw'] = day['day'].strftime('%A')
+        day['number'] = number
+        day.setdefault('icon', DAY_KINDS[kind]['icon'])
+        if kind == 'talks':
+            talk_days.append(day)
+            day.setdefault('event', DAY_KINDS[kind]['event'] % len(talk_days))
+            day.setdefault('schedule', 'talks_day%d' % len(talk_days))
+        else:
+            if kind in date:
+                raise Exception(
+                    'ERROR: date.days for %s lists more than one %s day' % (page, kind))
+            day.setdefault('event', DAY_KINDS[kind]['event'])
+            day.setdefault('schedule', kind)
+            date[kind] = day
+    date['talk_days'] = talk_days
+    date['total_talk_days'] = len(talk_days)
+    if talk_days and 'conference' not in date:
+        date['conference'] = {
+            'event': 'Speaker Talks',
+            'date': format_day_range(talk_days[0]['day'], talk_days[-1]['day']),
+            'summary': CONFERENCE_SUMMARY,
+            'icon': 'conference',
+        }
+
+    color = data.get('color')
+    for day in days + [date.get('conference') or {}]:
+        icon = day.get('icon')
+        if icon and color:
+            icon_file = os.path.join(ICON_DIR, '%s-%s.svg' % (icon, color))
+            if not os.path.exists(icon_file):
+                raise Exception(
+                    'ERROR: icon %r is not available in color %r for %s (expected %s)' %
+                    (icon, color, page, icon_file))
+
 
 def load_conference_page_context(app, page):
     """
@@ -82,6 +186,7 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
     else:
         yaml_file = '_data/' + shortcode + '-' + year_str + '-config.yaml'
     data.update(load_yaml_log_error(page, yaml_file))
+    expand_conference_days(data, page)
 
     # Single source for the conference home-page social/meta description (2026
     # onwards), so the same sentence doesn't have to be copy-pasted into the
@@ -108,14 +213,21 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
 
     # Do some additional contextual validation that can't be done by a YAML schema validator.
     # This aims to produce clear warnings rather than unexplained empty schedule output.
-    if data['flaghaswritingday'] and 'writing_day' not in schedule and shortcode != 'australia':
-        raise Exception('ERROR Missing key "writing_day" while reading schedule from %s' %
-                        schedule_yaml_file)
-    for day in range(1, data['date']['total_talk_days'] + 1):
-        key = 'talks_day' + str(day)
-        if key not in schedule:
-            raise Exception('ERROR Missing key "%s" while reading schedule from %s' %
-                            (key, schedule_yaml_file))
+    if data['date'].get('days'):
+        # Every day listed in the config must have a schedule to render.
+        for day in data['date']['days']:
+            if day['schedule'] not in schedule:
+                raise Exception('ERROR Missing key "%s" for %s, %s while reading schedule from %s' %
+                                (day['schedule'], day.get('dotw'), day.get('date'), schedule_yaml_file))
+    else:
+        if data['flaghaswritingday'] and 'writing_day' not in schedule and shortcode != 'australia':
+            raise Exception('ERROR Missing key "writing_day" while reading schedule from %s' %
+                            schedule_yaml_file)
+        for day in range(1, data['date']['total_talk_days'] + 1):
+            key = 'talks_day' + str(day)
+            if key not in schedule:
+                raise Exception('ERROR Missing key "%s" while reading schedule from %s' %
+                                (key, schedule_yaml_file))
 
     # The schedule contains a time and a slug or title for each session.
     # Slugs reference the speakers/talk info (abstract, name, etc.), and that
