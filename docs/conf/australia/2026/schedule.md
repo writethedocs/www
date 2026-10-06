@@ -38,6 +38,7 @@ Is this your first time at Write the Docs? Join us for an informal Introduction 
 </p>
 
 - Conference talks are held in {{about.venue}}
+- Networking events is held in {{about.venue}}, {{about.unconfroom}}
 
 {% if flaghasfood %}
 
@@ -80,7 +81,7 @@ Snacks and drinks (non-alcoholic & alcoholic) will be provided.
 </p>
 
 - Conference talks are held in {{about.venue}}
-- Unconference is held in {{about.venue}}, {{about.unconfroom}}
+- Networking events is held in {{about.venue}}, {{about.unconfroom}}
 
 {% if flaghasfood %}
 
