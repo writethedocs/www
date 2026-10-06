@@ -9,7 +9,7 @@ Write the Docs Newsletter – October 2026
 
 Hi, everybody! Aaron and the rest of the newsletter team are back to bring you a roundup of interesting conversations from the Write the Docs community.
 
-If you'd like to take part in fascinating conversations, the Australia conference just `announced its schedule </conf/australia/2026/news/announcing-speakers/>`__. So get your tickets (in-person or virtual) for your chance to discuss these and many other topics with fellow documentarians. For a taste of similar talks (but not the lovely hallway/Unconference conversations), see the `recap from the Berlin conference <conf/berlin/2026/news/thanks-recap/>`__, including the talk videos.
+If you'd like to take part in fascinating conversations, the Australia conference just `announced its schedule </conf/australia/2026/news/announcing-speakers/>`__. So get your tickets (in-person or virtual) for your chance to discuss these and many other topics with fellow documentarians. For a taste of similar talks (but not the lovely hallway/Unconference conversations), see the `recap from the Berlin conference </conf/berlin/2026/news/thanks-recap/>`__, including the talk videos.
 
 The Berlin conference was a great chance to meet people and spread ideas, including about the value of the `annual salary survey <https://salary-survey.writethedocs.org/>`__. We had a surge in responses from Europe during the conference and we'd love to keep the momentum going because more data helps everyone. If you haven't yet, fill it out today.
 
