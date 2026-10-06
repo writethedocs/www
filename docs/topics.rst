@@ -44,6 +44,7 @@ Specific writing questions
 
 One word vs another, using abbreviations, etc.
 
+- |:newspaper:| `When “new” is old </blog/newsletter-october-2026/#when-new-is-old>`__
 - |:newspaper:| `To recommend or not… that is the question </blog/newsletter-may-2026/#to-recommend-or-not-that-is-the-question>`__
 - |:newspaper:| `Emoji in documentation: :yes-please: or :yuk:? </blog/newsletter-november-2024/#emoji-in-documentation-yes-please-or-yuk>`__
 - |:newspaper:| `Hyperlink Text </blog/newsletter-october-2023/#hyperlink-text>`__
@@ -585,6 +586,7 @@ DITA
 AI and LLMs
 ~~~~~~~~~~~
 
+- |:newspaper:| `What you may lose by depending on AI </blog/newsletter-october-2026/#what-you-may-lose-by-depending-on-ai>`__
 - |:newspaper:| `AI skills as a documentation practice </blog/newsletter-september-2026/#ai-skills-as-a-documentation-practice>`__
 - |:newspaper:| `Exporting Markdown documentation for LLMs </blog/newsletter-july-2026/#exporting-markdown-documentation-for-llms>`__
 - |:newspaper:| `Flagging AI content in documentation </blog/newsletter-june-2026/#flagging-ai-content-in-documentation>`__
@@ -820,6 +822,7 @@ Working with other roles
 
 Including product managers, higher-ups, etc.
 
+- |:newspaper:| `Getting others involved in docs </blog/newsletter-october-2026/#getting-others-involved-in-docs>`__
 - |:newspaper:| `Making your workload visible to others </blog/newsletter-july-2026/#making-your-workload-visible-to-others>`__
 - |:newspaper:| `Documenting features that don’t exist yet </blog/newsletter-december-2025/#documenting-features-that-don-t-exist-yet>`__
 - |:newspaper:| `Encouraging colleagues to search for content </blog/newsletter-october-2025/#encouraging-colleagues-to-search-for-content>`__
