@@ -1,6 +1,6 @@
 ---
 template: {{year}}/generic.html
-banner: _static/conf/images/headers/2026/schedule.jpg
+banner: _static/conf/images/headers/2025/aus/au24-attendees.jpg
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
