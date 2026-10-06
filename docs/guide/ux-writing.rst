@@ -43,5 +43,6 @@ Online courses
 * `http://uxwritinghub.com/ <http://uxwritinghub.com/>`_ offers both a paid online course as well as a free foundations course.
 * `https://dailyuxwriting.com/ <https://dailyuxwriting.com/>`_ sends you short UX writing challenges for 14 days
 
+.. seealso::
 
-
+   Browse talks and newsletter articles about :ref:`UX writing <topics:UX writing>` in our content archive.

@@ -76,3 +76,7 @@ When a member of your team assigns you a doc issue, give them partial ownership 
 
 Even though being in a unique role within a team may feel awkward to you at first, the more you keep at it and work with your team, the more the benefits of the relationship will begin to shine. Eventually you will get to a point where the distinction between support and technical writer do not matter, because you are a team working as one.  
   
+
+.. seealso::
+
+   Browse talks and newsletter articles about :ref:`customer support <topics:Customer support>` in our content archive.
