@@ -22,7 +22,7 @@ All times are in [{{ tz }}](https://time.is/{{ tz }}).
 :backlinks: none
 ```
 
-### Welcome Wagon Introduction
+### Welcome Wagon introduction
 
 Is this your first time at Write the Docs? Join us for an informal Introduction to Write the Docs, to the Welcome Wagon, and to other first-time conference attendees. We'll pass on some information about the conference specifically for first-timers and give everyone a chance to meet someone new.
 
@@ -38,7 +38,6 @@ Is this your first time at Write the Docs? Join us for an informal Introduction 
 </p>
 
 - Conference talks are held in {{about.venue}}
-- Unconference is held in {{about.venue}}, {{about.unconfroom}}
 
 {% if flaghasfood %}
 

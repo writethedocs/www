@@ -85,6 +85,8 @@ talks_day2:
     title: '🍽️ Lunch Break (60 mins)'
   - duration: '0:20'
     title: Lightning talks (20 mins)
+  - duration: '0:05'
+    title: '5 minute break'
   - duration: '0:30'
     slug: docs-that-keep-going-eeshaan-sawant
   - duration: '0:10'
@@ -97,7 +99,7 @@ talks_day2:
     slug: acronyms-humour-and-navigating-the-unclear-path-yvonne-perkins
   - duration: '0:10'
     title: '✋ 10 min Q&A'  
-  - duration: '0:15'
+  - duration: '0:20'
     title: Write the Docs team - Conference closing
   - duration: '0:00'
     title: '<b>Conference ends 😔</b>'
