@@ -28,14 +28,14 @@ buttons:
   top:
 #    - text: Conference announcement
 #      link: /news/welcome
-     - text: Sponsor us
-       link: /sponsors/prospectus
+    # - text: Sponsor us
+    #   link: /sponsors/prospectus
     # - text: Submit a Talk
     #  link: /cfp
     # - text: See the Schedule
-    #   link: /schedule
-    # - text: See the Speakers
-    #   link: /speakers
+    #  link: /schedule
+     - text: See the Speakers
+       link: /speakers
      - text: Buy a Ticket
        link: /tickets
     # - text: Attendee Guide
@@ -111,12 +111,12 @@ date: # how do we handle these? human readable would be nice.
     dotw: Thursday
     talk_time: 09:30-16:30
     unconference_time: 13:00-15:00
-    social_time: 17:30-19:30
+    social_time: 17:00-19:00
     icon: conference
   day_two:
     event: Day 2
     date: December 4
-    summary: More talks, lightning talks, and tales from the trenches! We are already starting to miss you. ❤️
+    summary: More talks, lightning talks, and opportunities to network! We are already starting to miss you. ❤️
     dotw: Friday
     talk_time: 09:30-16:00
     unconference_time: 13:00-15:00
@@ -125,7 +125,7 @@ date: # how do we handle these? human readable would be nice.
 
 about:
   attendees: 200
-  social_venue: TBC
+  social_venue: Springrock Public Bar, Level 1/87 Bourke St, Melbourne
   venue: Treasury Theatre, Melbourne
   venue_address: Lower Plaza, 1 Macarthur Street
   photos: TBD
@@ -194,7 +194,7 @@ flagsoldout: False
 flagscheduleincomplete: True
 flagspeakersannounced: True
 flagrunofshow: False
-flaghasschedule: False
+flaghasschedule: True
 flaghasshirts: False
 flaglivestreaming: False
 flagvideos: False
