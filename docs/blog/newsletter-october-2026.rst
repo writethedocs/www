@@ -13,7 +13,7 @@ If you'd like to take part in fascinating conversations, the Australia conferenc
 
 The Berlin conference was a great chance to meet people and spread ideas, including about the value of the `annual salary survey <https://salary-survey.writethedocs.org/>`__. We had a surge in responses from Europe during the conference and we'd love to keep the momentum going because more data helps everyone. If you haven't yet, fill it out today.
 
-This month's newsletter brings articles on getting others involved in your docs, what to do about breaking changes when old versions will still exist, and how AI dependency may be harmful (a topic which truly coincidentally fits with our sponsor this month). Enjoy!
+This month's newsletter brings articles on getting others involved in your docs, what to do about breaking changes when old versions will still exist, how to deal with a fear of being left behind by rapid change, and how AI dependency may be harmful (a topic which truly coincidentally fits with our sponsor this month). Enjoy!
 
 -------------------------------
 Getting others involved in docs
@@ -52,6 +52,25 @@ If you do opt for labels that will expire, such as “legacy”, ask how hard th
 Docs outlive their writers and often pass through many hands. One member found a note in a current doc set saying a feature can “no longer” process files from “previous” releases. The oldest PDF of that doc set, from 1998, carried the same disclaimer. That's 28 years of “no longer”. Is there a “new” in your docs that's older than it looks?
 
 See more Write the Docs resources about `specific writing questions </topics/#specific-writing-questions>`__.
+
+-----------------------------------
+Dealing with FOMO from rapid change
+-----------------------------------
+
+The community recently discussed the fear of missing out (FOMO) or being left behind by the rate of change with today’s technologies. Participants noted that it’s difficult to determine what current tools are worth following because they deliver consistent value to customers and which ones only exist around unproven potential. One documentarian observed that agent-like concepts and technology date back to the 1960s, thereby illustrating the fleeting nature of in-demand tooling.
+
+People shared an accessibility challenge with the latest AI tools in the face of abrupt layoffs and experiencing stagnant conditions at companies that reject change. Just knowing AI or LLMs may not be enough for career advancement. Participants highlighted the value of being able to organize and consolidate information and write strong documentation.
+
+However, people also noted the limits of relying on traditional writing practices. Some have found Claude and Gemini to be component producers of documentation, meeting notes, and other complex tasks. Embracing the strengths of newer tools can increase how much you can get done and expand your scope of knowledge/expertise. But it can be a lot to keep up with all the latest tools.
+
+The discussion suggested some strategies for overcoming FOMO from rapid change:
+
+- **A curiosity-based approach**: Exploring the latest tools and approaches helps cultivate a level of understanding to be prepared to adapt if or when change (such as a newAI model) is pushed down to the documentarian as the way forward. Documentation teams can experiment with different features to determine what is worth adding to their tool set.
+• **A learning model**: Incorporating forward momentum in using the learning resources available can help you stay open to change. Feeling overwhelmed is often accompanied by a learning moment.
+
+Participants agreed that it’s useful to step outside your perspective and ask what others around you are doing, which can lend inspiration and support as we all navigate the seas of change.
+
+See more Write the Docs resources about `learning <https://www.writethedocs.org/topics/#learning>`__.
 
 ------------------------------------
 What you may lose by depending on AI

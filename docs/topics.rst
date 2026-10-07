@@ -413,6 +413,7 @@ Including onboarding new writers
 Learning...
 ~~~~~~~~~~~
 
+- |:newspaper:| `Dealing with FOMO from rapid change </blog/newsletter-october-2026/#dealing-with-fomo-from-rapid-change>`__
 - |:newspaper:| `Technical skills for documentarians </blog/newsletter-july-2024/#technical-skills-for-documentarians>`__
 - |:movie_camera:| `The Art of Asking Questions <https://www.youtube.com/watch?v=v6mWnQ0KwHI>`__
 - |:newspaper:| `What we’re learning in #learn-tech-writing </blog/newsletter-october-2020/#what-we-re-learning-in-learn-tech-writing>`__
