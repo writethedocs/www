@@ -256,8 +256,8 @@ salary_survey = {
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
     'salary_survey': salary_survey,
-    'newsletter_subs': '10,000',
-    'slack_members': '22,500',
+    'newsletter_subs': '12,000',
+    'slack_members': '27,000',
     'website_visits': '20,000',
     'meetup_cities': '25',
     'conf_attendees': '600',
