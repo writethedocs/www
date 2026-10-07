@@ -37,9 +37,9 @@ See more Write the Docs resources about `working with other roles </topics/#work
 When “new” is old
 -----------------
 
-A lone writer recently asked the community how to keep docs evergreen through a breaking backend change, particularly while both backends are still in use. Their manager had suggested adding wording like “with the new version of X”.
+A lone writer recently asked the community how to keep docs evergreen through a breaking product change when some customers will keep using the old version and some will use the new one, without the difference being visible to customers. Their manager had suggested adding wording like "with the new version of X".
 
-Most respondents agreed that time words such as “new” and “now” are best avoided in general documentation because they go stale, with release notes and “what’s new” pages as the lone the exceptions. Phrases such as “the new version” assume readers know which version is new and can cause confusion if they don't follow your release announcements.
+Most respondents agreed that time words such as “new” and “now” are best avoided in general documentation because they go stale, with release notes and “what’s new” pages as the lone exceptions. Phrases such as “the new version” assume readers know which version is new and can cause confusion if they don't follow your release announcements.
 
 Instead, documentarians favored naming the change. If the release has a name, use it. If it doesn't, use a stand-in that points to the release the way a name would:
 
