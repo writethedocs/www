@@ -66,7 +66,7 @@ However, people also noted the limits of relying on traditional writing practice
 The discussion suggested some strategies for overcoming FOMO from rapid change:
 
 - **A curiosity-based approach**: Exploring the latest tools and approaches helps cultivate a level of understanding to be prepared to adapt if or when change (such as a newAI model) is pushed down to the documentarian as the way forward. Documentation teams can experiment with different features to determine what is worth adding to their tool set.
-• **A learning model**: Incorporating forward momentum in using the learning resources available can help you stay open to change. Feeling overwhelmed is often accompanied by a learning moment.
+- **A learning model**: Incorporating forward momentum in using the learning resources available can help you stay open to change. Feeling overwhelmed is often accompanied by a learning moment.
 
 Participants agreed that it’s useful to step outside your perspective and ask what others around you are doing, which can lend inspiration and support as we all navigate the seas of change.
 
