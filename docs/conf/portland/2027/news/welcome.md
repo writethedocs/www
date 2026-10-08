@@ -42,4 +42,4 @@ Want to connect with other documentarians in real-time? Join our [Slack](/slack/
 
 ## See you in {{ city }}
 
-We hope you will join us in {{ city }} for the 15th (!!) annual Write the Docs conference. Whether as a speaker, attendee, or sponsor, you can bet it will be another delightful year. In the meantime, mark your calendars and start getting excited!
+We hope you will join us in {{ city }} for the 15th (!!) annual Write the Docs Portland conference. Whether as a speaker, attendee, or sponsor, you can bet it will be another delightful year. In the meantime, mark your calendars and start getting excited!
