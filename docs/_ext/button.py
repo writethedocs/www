@@ -1,4 +1,5 @@
 import html
+from pathlib import PurePath
 
 from docutils import nodes
 from docutils.parsers import rst
@@ -33,6 +34,22 @@ def conference_year(argument):
             f"no brand color for {year}; add it to YEAR_COLORS in _ext/button.py"
         )
     return year
+
+
+def docname_year(docname):
+    """Return the conference year of a ``conf/<city>/<year>/...`` page.
+
+    Mirrors ``load_conference_page_context`` in ``core.py``. Returns
+    ``None`` for pages outside a conference year or without brand colors.
+    """
+    parts = PurePath(docname).parts
+    if len(parts) < 3 or parts[0] != "conf":
+        return None
+    try:
+        year = int(parts[2])
+    except ValueError:
+        return None
+    return year if year in YEAR_COLORS else None
 
 
 def render_button(url, text, year=None, wrap=True, new_tab=True, contrast=False):
@@ -80,20 +97,18 @@ class ButtonLink(rst.Directive):
     Usage in myst markdown::
 
         ```{button-link} https://example.com
-        :year: {{ year }}
         Button text
         ```
 
     Usage in RST::
 
         .. button-link:: https://example.com
-           :year: {{ year }}
 
            Button text
 
-    ``:year:`` picks the conference year's colors from ``YEAR_COLORS``
-    and defaults to the newest year. Conference pages have ``year`` in
-    their Jinja context, so ``{{ year }}`` always matches the page.
+    ``:year:`` picks the conference year's colors from ``YEAR_COLORS``.
+    Without it, the year comes from the page's ``conf/<city>/<year>/``
+    path, falling back to the newest year on other pages.
     """
 
     required_arguments = 1  # URL
@@ -103,5 +118,8 @@ class ButtonLink(rst.Directive):
     def run(self):
         url = self.arguments[0]
         text = "\n".join(self.content).strip()
-        rendered = render_button(url, text, self.options.get("year"))
+        year = self.options.get("year")
+        if year is None:
+            year = docname_year(self.state.document.settings.env.docname)
+        rendered = render_button(url, text, year)
         return [nodes.raw("", rendered, format="html")]
