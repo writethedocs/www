@@ -9,15 +9,15 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 # Save the Date: Write the Docs {{ city }} {{ year }}
 
-Greetings [documentarians](https://www.writethedocs.org/documentarians/),
+Greetings [documentarians](/documentarians/),
 
-**Write the Docs {{ city }} {{ year }} will be held {{ date.short }}** at {{ about.venue }}. We hope you're getting excited -- we certainly are! It's shaping up to be another wonderful year full of great conversations and interesting talks.
+**Write the Docs {{ city }} {{ year }} will be held {{ date.short }}**, back at {{ about.venue }}. We hope you're getting excited -- we certainly are! It's going to be another wonderful year full of great conversations and interesting talks.
 
 ## Call for Proposals
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've been writing documentation for decades or you've just started this year, we want to hear from you!
 
-**Our CFP opens in {{ cfp.opens }}.** In the meantime, start thinking about what you'd like to talk about, or take a look at [previous years' talks](https://www.writethedocs.org/conf/{{ shortcode }}/{{ year - 1 }}/speakers/) for inspiration. If there's something you'd really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good.
+**Our CFP opens in {{ cfp.opens }}.** In the meantime, start thinking about what you'd like to talk about, or take a look at [previous years' talks](/conf/{{ shortcode }}/{{ year - 1 }}/speakers/) for inspiration. If there's something you'd really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good.
 
 ## Tickets
 
@@ -27,7 +27,7 @@ We keep ticket prices low so the conference is accessible to the widest range of
 
 ## Sponsorship
 
-Our [sponsorship prospectus](https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/sponsors/prospectus/) is available now. Sponsoring is a great way to support the community and connect with documentarians.
+Our [sponsorship prospectus](/conf/{{ shortcode }}/{{ year }}/sponsors/prospectus/) is available now. Sponsoring is a great way to support the community and connect with documentarians.
 
 We've updated the prospectus quite a bit this year,
 making the plans easier to compare,
@@ -36,9 +36,9 @@ Please do reach out if your company would be a good fit and we can work together
 
 ## Stay Updated
 
-Want to find out what's happening with the conference, or enjoy our monthly global community newsletter? Sign up to one or more of our [mailing lists](https://www.writethedocs.org/newsletter/). Your information will never be shared with anyone, and you can unsubscribe at any time. If you got this via email, you're already subscribed :)
+Want to find out what's happening with the conference, or enjoy our monthly community newsletter? Sign up to one or more of our [mailing lists](/conf/{{ shortcode }}/{{ year }}/mailing-list/). Your information will never be shared with anyone, and you can unsubscribe at any time. If you got this via email, you're already subscribed :)
 
-Want to connect with other documentarians in real-time? Join our [Slack](https://www.writethedocs.org/slack/), and get excited with other attendees in the `#wtd-conferences` channel.
+Want to connect with other documentarians in real-time? Join our [Slack](/slack/), and get excited with other attendees in the `#wtd-conferences` channel.
 
 ## See you in {{ city }}
 
