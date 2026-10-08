@@ -9,7 +9,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 # Save the Date: Write the Docs {{ city }} {{ year }}
 
-Greetings, [documentarians](https://www.writethedocs.org/documentarians/)!
+Greetings [documentarians](https://www.writethedocs.org/documentarians/),
 
 **Write the Docs {{ city }} {{ year }} will be held {{ date.short }}** at {{ about.venue }}. We hope you're getting excited -- we certainly are! It's shaping up to be another wonderful year full of great conversations and interesting talks.
 
