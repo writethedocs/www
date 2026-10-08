@@ -9,21 +9,21 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 # Save the Date: Write the Docs {{ city }} {{ year }}
 
-**Write the Docs {{ city }} {{ year }} will be on {{ date.short }}**. Mark your calendar!
+Greetings, [documentarians](https://www.writethedocs.org/documentarians/)!
 
-We'll be back at {{ about.venue }} for another year, full of great talks, networking, and community building.
+**Write the Docs {{ city }} {{ year }} will be held {{ date.short }}** at {{ about.venue }}. We hope you're getting excited -- we certainly are! It's shaping up to be another wonderful year full of great conversations and interesting talks.
 
 ## Call for Proposals
 
-Write the Docs invites people from all across our community to come up on stage to share their insights and experience. **Our CFP opens in {{ cfp.opens }}**, and now is a great time to start thinking about topics to present!
+Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've been writing documentation for decades or you've just started this year, we want to hear from you!
 
-You can always look at our [previous years' talks](https://www.writethedocs.org/conf/{{ shortcode }}/{{ year - 1 }}/speakers/) for inspiration.
+**Our CFP opens in {{ cfp.opens }}.** In the meantime, start thinking about what you'd like to talk about, or take a look at [previous years' talks](https://www.writethedocs.org/conf/{{ shortcode }}/{{ year - 1 }}/speakers/) for inspiration. If there's something you'd really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good.
 
 ## Tickets
 
-Tickets will go on sale in {{ date.tickets_live }}. Prices will be announced when they go on sale, but will be similar to last year.
+Tickets will officially go on sale in {{ date.tickets_live }}. As with previous years, we have tiered pricing to make it fair for everyone, and prices will be similar to last year.
 
-We will also be running our Opportunity Grants program again this year for those who need financial assistance to attend. We also have many opportunities for volunteers who want to help make the conference happen and get a free ticket that way. Note that you are not required to do volunteer tasks at the conference to be able to apply for an Opportunity Grant.
+We keep ticket prices low so the conference is accessible to the widest range of people possible. We will also be running our Opportunity Grants program again this year for those who need financial assistance to attend. We also have many opportunities for volunteers who want to help make the conference happen and get a free ticket that way. Note that you are not required to do volunteer tasks at the conference to be able to apply for an Opportunity Grant.
 
 ## Sponsorship
 
@@ -34,7 +34,7 @@ making the plans easier to compare,
 and adding some more information from the attendee survey last year.
 Please do reach out if your company would be a good fit and we can work together to create a good experience for both your organization and our attendees.
 
-## Keep in touch
+## Stay Updated
 
 Want to find out what's happening with the conference, or enjoy our monthly global community newsletter? Sign up to one or more of our [mailing lists](https://www.writethedocs.org/newsletter/). Your information will never be shared with anyone, and you can unsubscribe at any time. If you got this via email, you're already subscribed :)
 
@@ -42,4 +42,4 @@ Want to connect with other documentarians in real-time? Join our [Slack](https:/
 
 ## See you in {{ city }}
 
-We hope you will join us in {{ city }} for another gathering. Whether as a speaker, attendee, or sponsor, it should be another delightful year.
+We hope you will join us in {{ city }} for the 15th (!!) annual Write the Docs conference. Whether as a speaker, attendee, or sponsor, you can bet it will be another delightful year. In the meantime, mark your calendars and start getting excited!
