@@ -208,6 +208,7 @@ share:
 
 cfp-details:
   url: str(required=True)
+  opens: str(required=False)
   ends: str(required=True)
   notification: str(required=True)
   confirm_by: str(required=False)

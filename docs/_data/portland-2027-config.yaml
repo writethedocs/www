@@ -5,7 +5,7 @@ city: Portland
 local_area: Oregon
 area: North America # European Australian
 area_adj: North American
-tz: Pacific Time  # PT until March, PST after... :/
+tz: Pacific Time  # PST until March, PDT after... :/
 email: portland@writethedocs.org
 color: coral
 rgb: 234,104,82
@@ -193,11 +193,12 @@ about:
       percent: 10
 
 cfp:
-  url: "https://pretalx.com/wtd-portland-2027/cfp" # Open mid November, approx 12 weeks to submit
-  ends: "January 18, 2027"                         # (Mon) 1 week, to review. It'll take a little longer to announce
-  notification: "February 1, 2027"                 # (Mon) 8 weeks to write and prepare
-  speaker_tickets_by: April 1, 2027                # Approx 3 weeks before
-  video_by: "April 8, 2027"                        # Upload date for recorded talks (remote speakers)
+  url: "https://pretalx.com/wtd-portland-2027/cfp" # Approx 9 weeks to submit
+  opens: "November 2026"                           # Mid November
+  ends: "January 18, 2027"                         # (Mon) 2 weeks to review
+  notification: "February 1, 2027"                 # (Mon) 13 weeks to write and prepare
+  speaker_tickets_by: April 1, 2027                # (Thu) Approx 4 weeks before
+  video_by: "April 8, 2027"                        # (Thu) Upload date for recorded talks (remote speakers)
   slides_by: "April 26, 2027"                      # (Mon) 1 week before
 
 unconf:
