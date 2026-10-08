@@ -197,8 +197,8 @@ cfp:
   opens: "November 2026"                           # Mid November
   ends: "January 18, 2027"                         # (Mon) 2 weeks to review
   notification: "February 1, 2027"                 # (Mon) 13 weeks to write and prepare
-  speaker_tickets_by: April 1, 2027                # (Thu) Approx 4 weeks before
-  video_by: "April 8, 2027"                        # (Thu) Upload date for recorded talks (remote speakers)
+  speaker_tickets_by: April 5, 2027                # (Mon) Approx 4 weeks before
+  video_by: "April 5, 2027"                        # (Mon) Upload date for recorded talks (remote speakers)
   slides_by: "April 26, 2027"                      # (Mon) 1 week before
 
 unconf:
