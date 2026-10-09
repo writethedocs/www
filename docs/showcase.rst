@@ -36,7 +36,7 @@ Use the `Nomination form <https://forms.gle/JNEX2fC47tiXh8my9>`__ to suggest som
 Past editions
 -------------
 
-`View all past Showcases </blog/archive/tag/showcase/>`__
+`View all past Showcases </blog/archive/tag/newsletter/>`__
 
 Get in touch
 ------------

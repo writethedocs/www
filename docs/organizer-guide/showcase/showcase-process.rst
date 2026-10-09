@@ -5,7 +5,7 @@ Once a quarter, we put out the :doc:`Write the Docs Showcase </showcase/>` — a
 
 This doc explains how to run a Showcase edition from open call to publication.
 
-`Handy link to the archives </blog/archive/tag/showcase/>`__.
+`Handy link to the archives </blog/archive/tag/newsletter/>`__.
 
 Collect submissions (throughout the quarter)
 ********************************************
@@ -90,7 +90,7 @@ Use the outline template::
    ------------------
 
    [OUTRO] If you've written something about the practice of documentation in the last three months — or want to nominate someone else's work — submissions for the next edition are :doc:`open now </showcase>`.
-   The Showcase publishes quarterly. `View past editions </blog/archive/tag/showcase/>`__, and subscribe at :doc:`/newsletter` to get the next one in your inbox.
+   The Showcase publishes quarterly. `View past editions </blog/archive/tag/newsletter/>`__, and subscribe at :doc:`/newsletter` to get the next one in your inbox.
    — The Write the Docs Showcase team
 
 
