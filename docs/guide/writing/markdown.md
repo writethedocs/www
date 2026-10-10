@@ -153,5 +153,6 @@ You can also "cheat", adding HTML-formatted text when markdown seems too limited
 - [The fundamental guide for using Markdown](https://daringfireball.net/projects/markdown/)
 - [GitHub's basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Stackedit - an online Markdown editor](https://stackedit.io/)
+- [Marble - an online Markdown editor with inline preview and collaborative editing](https://marble.md/)
 - [Markdown Tutorial - an interactive introduction to Markdown](https://www.markdowntutorial.com/)
 - [Markdown Syntax](https://www.markdownlang.com/basic/overview.html)
