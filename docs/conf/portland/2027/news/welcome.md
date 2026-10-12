@@ -17,13 +17,15 @@ Greetings [documentarians](/documentarians/),
 
 Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've been writing documentation for decades or you've just started this year, we want to hear from you!
 
-**Our CFP opens in {{ cfp.opens }}.** In the meantime, start thinking about what you'd like to talk about, or take a look at [previous years' talks](/conf/{{ shortcode }}/{{ year - 1 }}/speakers/) for inspiration. If there's something you'd really like to see a talk on this year, submit a proposal on it, or refer someone else who would be good.
+**Our CFP opens in {{ cfp.opens }}.** In the meantime, start thinking about what you'd like to talk about, or take a look at [previous years' talks](/conf/{{ shortcode }}/{{ year - 1 }}/speakers/) for inspiration. If there's something you'd really like to see a talk on this year, submit a proposal on it, or encourage a documentarian you know to share their area of expertise.
 
 ## Tickets
 
-Tickets will officially go on sale in {{ date.tickets_live }}. As with previous years, we have tiered pricing to make it fair for everyone, and prices will be similar to last year.
+Tickets will officially go on sale in {{ date.tickets_live }}. As with previous years, we have tiered pricing, and prices will be similar to last year.
 
-We keep ticket prices low so the conference is accessible to the widest range of people possible. We will also be running our Opportunity Grants program again this year for those who need financial assistance to attend. We also have many opportunities for volunteers who want to help make the conference happen and get a free ticket that way. Note that you are not required to do volunteer tasks at the conference to be able to apply for an Opportunity Grant.
+We keep ticket prices low so the conference is accessible to the widest range of people possible. As always, we also offer options to get free or reduced tickets:
+- We have many opportunities for volunteers who want to help make the conference happen and get a free ticket for their time.
+- We will be running our Opportunity Grants program again for those who need financial assistance to attend. Note that you are not required to do volunteer tasks at the conference to be able to apply for an Opportunity Grant.
 
 ## Sponsorship
 
@@ -42,4 +44,4 @@ Want to connect with other documentarians in real-time? Join our [Slack](/slack/
 
 ## See you in {{ city }}
 
-We hope you will join us in {{ city }} for the 15th (!!) annual Write the Docs Portland conference. Whether as a speaker, attendee, or sponsor, you can bet it will be another delightful year. In the meantime, mark your calendars and start getting excited!
+We hope you will join us in {{ city }} for the 15th (!!) annual Write the Docs {{ city }} conference. Whether as a speaker, attendee, or sponsor, you can bet it will be another delightful year. In the meantime, mark your calendars and start getting excited!
