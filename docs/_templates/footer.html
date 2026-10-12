@@ -1,109 +1,91 @@
 <style>
+/* Footer. Styles live here rather than in global-customizations.css because
+   the survey layout includes this file without loading that stylesheet. */
+div.footer, div.footer a {
+  color: #757575;
+}
+div.footer .footer-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.5rem 1.5rem;
+  text-align: left;
+}
+div.footer ul.footer-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+div.footer p.footer-contribute {
+  margin: 0.5rem 0 1rem;
+  text-align: left;
+}
+div.footer .footer-contribute a,
+div.footer .footer-nav a {
+  text-decoration: underline;
+}
 
 /* Sponsors */
 .sponsors {
-    float: left;
-    margin-top: 12px;
-    text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem 1rem;
+  margin: 1rem 0;
+  text-align: center;
 }
 .sponsors .sponsor {
-    display: inline-block;
-    vertical-align: middle;
-    text-align: center;
-    text-decoration: none;
-    padding: 10px;
-}
-.sponsors .sponsor-cta {
-    display: inline-block;
-    vertical-align: middle;
-    margin-left: 10px;
-    padding: 6px 14px;
-    border: 1px solid #BCC1C3;
-    border-radius: 999px;
-    font-size: 12px;
-    color: #757575;
-    text-decoration: none;
-    transition: color 0.15s, border-color 0.15s;
-}
-.sponsors .sponsor-cta:hover {
-    border-color: #757575;
-    color: #464646;
-    text-decoration: none;
+  display: inline-block;
+  padding: 0.5rem;
+  text-decoration: none;
 }
 .sponsors .sponsor img {
-    max-width: 90px;
-    max-height: 18px;
-    width: auto;
-    height: auto;
+  max-width: 90px;
+  max-height: 18px;
+  width: auto;
+  height: auto;
 }
 .sponsors .sponsor-name {
-    font-size: 12px;
+  font-size: 12px;
+  line-height: 1.4;
 }
 .sponsors .sponsor-description {
-    font-size: 10px;
-    color: #BCC1C3;
+  font-size: 10px;
+  line-height: 1.4;
+  color: #BCC1C3;
 }
-.sponsors .sponsor-name, .sponsors .sponsor-description {
-    text-align: center;
-    line-height: 1.4;
+.sponsors .sponsor-cta {
+  padding: 6px 14px;
+  border: 1px solid #BCC1C3;
+  border-radius: 999px;
+  font-size: 12px;
+  text-decoration: none;
+  transition: color 0.15s, border-color 0.15s;
 }
-
-/* Links in footer */
-.footer-links {
-  display: flex;
-  justify-content: space-between;
-  gap: 1rem;
-}
-#social-footer {
-  line-height: 1.5rem;
-}
-div.footer,div.footer a {
-  color: #757575;
+.sponsors .sponsor-cta:hover {
+  border-color: #757575;
+  color: #464646;
+  text-decoration: none;
 }
 </style>
 <div class="footer">
-      {% if "guide/" in pagename  %}
-      <hr>
-      <div class="container">
-        <h2>
-          Missing something?
-        </h2>
-        <p>
-          You can always contribute to our guide on <a href="https://github.com/writethedocs/www/tree/main/docs/guide">GitHub</a>.
-        </p>
-      </div>
-      {% endif %}
-      <div class="container footer-links">
-        <div style="flex-basis: 20rem; text-align: left;">
-          <span>© Write the Docs</span>
-          <span>
-            &nbsp;<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0; vertical-align: middle;" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
-          </span>
-        </div>
-        <div id="social-footer">
-          <span><a href="/contact/"><i class="iconf-email"></i>Contact Us</a></span> |
-          <span><a href="/site-map"><i class="iconf-github-circled-alt2"></i>Site map</a></span> |
-          <span><a href="/contribute/"><i class="iconf-github-circled-alt2"></i>Contribute</a></span> |
-          <span><a href="https://github.com/writethedocs"><i class="iconf-github-circled-alt2"></i>GitHub</a></span> |
-          <span>
-                <a href="https://www.linkedin.com/company/write-the-docs">
-                  LinkedIn
-                </a>
-          </span> |
-          <span><a href="https://bsky.app/profile/writethedocs.bsky.social">Bluesky</a></span> |
-          <span><a rel="me" href="https://fosstodon.org/@writethedocs">Mastodon</a></span> |
-          <span><a href="{{ pathto('code-of-conduct') }}">Code&nbsp;of&nbsp;Conduct</a></span>
-        </div>
-      </div>
-
-    {% if theme_github_banner|lower != 'false' %}
-    <a href="https://github.com/{{ theme_github_user }}/{{ theme_github_repo }}" class="github">
-        <img style="position: absolute; top: 0; right: 0; border: 0;" src="{{ pathto('_static/' ~ theme_github_banner, 1) if theme_github_banner|lower != 'true' else '/_static/img/fork-ribbon.svg' }}" alt="Fork me on GitHub"  class="github"/>
-    </a>
-    {% endif %}
-
-  <div class="sponsors" id="community-sponsors" style="width: 100%;">
   <hr>
+  <p class="footer-contribute">
+    Spotted a mistake or something missing? This website is open source:
+    {% if page_source_suffix %}
+    <a href="https://github.com/writethedocs/www/edit/main/docs/{{ pagename }}{{ page_source_suffix }}">edit this page on GitHub</a>
+    {% else %}
+    <a href="https://github.com/writethedocs/www">edit it on GitHub</a>
+    {% endif %}
+    or <a href="{{ pathto('contribute') }}">learn how to contribute</a>.
+  </p>
+
+  <div class="sponsors" id="community-sponsors">
     {% for sponsor in global_sponsors %}
     <a class="sponsor" href="{{ sponsor.link }}" rel="noopener" target="_blank">
       <img src="{{ sponsor.name|sponsor_photo }}" alt="{{ sponsor.brand }}" class="sponsor-image">
@@ -111,8 +93,20 @@ div.footer,div.footer a {
       <div class="sponsor-description">{{ sponsor.comment }}</div>
     </a>
     {% endfor %}
-
     <a class="sponsor-cta" href="{{ pathto('sponsorship/index') }}">Become a sponsor →</a>
+  </div>
+
+  <div class="footer-row">
+    <span>© Write the Docs · <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></span>
+    <ul class="footer-nav">
+      <li><a href="{{ pathto('contact') }}">Contact</a></li>
+      <li><a href="{{ pathto('code-of-conduct') }}">Code of Conduct</a></li>
+      <li><a href="{{ pathto('site-map') }}">Site map</a></li>
+      <li><a href="https://github.com/writethedocs">GitHub</a></li>
+      <li><a href="https://www.linkedin.com/company/write-the-docs">LinkedIn</a></li>
+      <li><a href="https://bsky.app/profile/writethedocs.bsky.social">Bluesky</a></li>
+      <li><a rel="me" href="https://fosstodon.org/@writethedocs">Mastodon</a></li>
+    </ul>
   </div>
 </div>
 
