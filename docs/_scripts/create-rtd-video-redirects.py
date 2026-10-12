@@ -52,6 +52,7 @@ KNOWN_PLAYLISTS = {
     ("portland", 2023): "PLZAeFn6dfHpneQPsDWa4OmEpgW4pNiaZ2",
     ("portland", 2024): "PLZAeFn6dfHpm4FboYSTD1Bs8Yp8k_JvAL",
     ("portland", 2025): "PLZAeFn6dfHplMbtJtidqFFtL7rt3ASNSR",
+    ("portland", 2026): "PLZAeFn6dfHpkMzZFXFye22pKbafhhC3Cp",
     ("prague", 2017): "PLZAeFn6dfHplBYPCwJt6ItkMDt7JSgUiL",
     ("prague", 2018): "PLZAeFn6dfHplRZcYDQjST22bAVeeWML4d",
     ("prague", 2019): "PLZAeFn6dfHpkpYchP1iFnQnc7i-2xJd0I",
