@@ -169,15 +169,19 @@ sponsors:
   patron:
   publisher:
     - name: atlassian
-      link: https://www.atlassian.com/
       brand: Atlassian
-      width: 750px
+      link: https://www.atlassian.com/
+      width: 600px
+    - name: fastmail-new
+      brand: Fastmail
+      link: https://www.fastmail.com/
+      width: 600px
   second:
   first:
     - name: linux-australia
       link: https://linux.org.au/
       brand: Linux Australia
-      width: 350px      
+      width: 400px      
   in_kind:
     - name: rtd
       link: https://readthedocs.com/
