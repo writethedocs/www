@@ -171,9 +171,11 @@ sponsors:
     - name: atlassian
       brand: Atlassian
       link: https://www.atlassian.com/
+      width: 600px
     - name: fastmail-new
       brand: Fastmail
       link: https://www.fastmail.com/
+      width: 600px
   second:
   first:
     - name: linux-australia
