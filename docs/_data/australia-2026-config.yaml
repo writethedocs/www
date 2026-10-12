@@ -169,13 +169,11 @@ sponsors:
   patron:
   publisher:
     - name: atlassian
-      link: https://www.atlassian.com/
       brand: Atlassian
-      width: 750px
+      link: https://www.atlassian.com/
     - name: fastmail
-      link: https://www.fastmail.com/
       brand: Fastmail
-      width: 750px  
+      link: https://www.fastmail.com/
   second:
   first:
     - name: linux-australia
