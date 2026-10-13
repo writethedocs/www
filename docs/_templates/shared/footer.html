@@ -1,9 +1,9 @@
 {#-
   The dark site footer, shared by the community pages and the conference
-  pages (conference/base.html). On a conference page the wordmark carries the
-  conference name and year, and the copyright carries the year.
+  pages. conference/base.html sets conference_footer, which adds the
+  conference name and year to the wordmark and the year to the copyright.
 -#}
-{%- set conference_footer = shortcode is defined and year_str is defined %}
+{%- set conference_footer = conference_footer is defined and conference_footer %}
 <footer{% if cobrand is defined %} style="height: 500px;"{% endif %}>
     {%- if conference_footer %}
     <div class="footer-padding"></div>

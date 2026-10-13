@@ -14,7 +14,7 @@
       <h1>A global community of people who care about documentation</h1>
       <p>Meet other documentarians at our conferences and local meetups, talk shop in Slack, and read our monthly newsletter.</p>
       <div class="community-hero__buttons">
-        {{ button_link(pathto(community.nav_button.link.strip('/')), community.nav_button.text, wrap=False, new_tab=False, contrast=True) }}
+        {{ button_link(community.nav_button.link, community.nav_button.text, wrap=False, new_tab=False, contrast=True) }}
         {{ button_link(pathto('conf/index'), 'Find a conference', wrap=False, new_tab=False, contrast=True) }}
       </div>
     </div>

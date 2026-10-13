@@ -8,9 +8,14 @@ document.querySelectorAll('.community-search-open').forEach((button) => {
 
 function openMenuSearch() {
   if (typeof UIkit === 'undefined') return;
+  const menu = UIkit.offcanvas('#community-menu');
   const input = document.getElementById('community-search-menu');
-  UIkit.util.once(document.getElementById('community-menu'), 'shown', () => input.focus());
-  UIkit.offcanvas('#community-menu').show();
+  if (menu.isToggled()) {
+    input.focus();
+  } else {
+    UIkit.util.once(menu.$el, 'shown', () => input.focus());
+    menu.show();
+  }
 }
 
 // Press "/" to search, as on most docs sites. Opens the search box over the

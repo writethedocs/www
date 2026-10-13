@@ -14,10 +14,14 @@ import re
 import zlib
 
 from sphinx.errors import ConfigError
+from sphinx.util import logging
 
+from .button import docname_year
 from .utils import load_yaml
 
 DATA_FILE = '_data/community.yaml'
+
+logger = logging.getLogger(__name__)
 
 
 def load_community_data(srcdir='.'):
@@ -117,7 +121,11 @@ def page_nav(community, pagename):
 def add_page_context(app, pagename, templatename, context, doctree):
     """Add ``community_banner`` and ``community_nav`` to every page's context."""
     community = context['community']
-    context['community_banner'] = page_banner(community, pagename, context.get('meta'))
+    banner = page_banner(community, pagename, context.get('meta'))
+    # Conference pages have their own templates and don't show this banner.
+    if docname_year(pagename) is None and not os.path.exists(os.path.join(app.srcdir, banner)):
+        logger.warning('banner photo %s does not exist', banner, location=pagename)
+    context['community_banner'] = banner
     context['community_nav'] = page_nav(community, pagename)
 
 

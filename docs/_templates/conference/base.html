@@ -78,7 +78,7 @@
         </div>
         {% endif %}
 
-        {% include "shared/footer.html" %}
+        {% with conference_footer = true %}{% include "shared/footer.html" %}{% endwith %}
     {% endblock footer %}
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
