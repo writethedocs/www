@@ -245,7 +245,7 @@ div.body {
   min-width: inherit;
 }
 
-/** Community accent, used by the sponsorship buttons, figures and bars.
+/** Community accent, used by the sponsorship figures and share bars.
     Conference pages set their own colour per year from their config; these
     pages are not tied to a conference, so they use the community green. **/
 

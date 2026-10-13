@@ -26,6 +26,8 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700|Bree+Serif&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ pathto('_static/conf/css/main-community.min.css', 1) }}" type="text/css">
+  {#- The banner is a CSS background, which browsers only find after the CSS. #}
+  <link rel="preload" as="image" fetchpriority="high" href="{{ pathto(community_banner, 1) }}">
 {%- endblock %}
 
 {%- block body_tag %}<body class="community">{% endblock %}
@@ -102,8 +104,8 @@
   {% include "community/sponsors.html" %}
   {% include "shared/footer.html" %}
 
+  {#- uikit.min.js includes the few icons these pages use (search, menu, close). #}
   <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.16.22/js/uikit.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.16.22/js/uikit-icons.min.js"></script>
   <script src="{{ pathto('_static/js/community.js', 1) }}"></script>
 
   <!-- 100% privacy-first analytics -->

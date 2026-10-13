@@ -20,25 +20,9 @@ $community-mono: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono
 $community-shadow: 0 10px 30px rgba(19, 37, 48, 0.12);
 $community-focus-glow: 0 0 0 3px rgba($footer-color, 0.2);
 
-@mixin community-visually-hidden {
-    position: absolute !important;
-    width: 1px;
-    height: 1px;
-    padding: 0;
-    margin: -1px;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    white-space: nowrap;
-    border: 0;
-}
-
-.community-visually-hidden {
-    @include community-visually-hidden;
-}
-
 // A centred column, like .uk-container but wider. The conference styles pin
 // every .uk-container to 780px, which suits a conference but not the guides.
-.community-container {
+@mixin community-column {
     box-sizing: border-box;
     max-width: $community-width;
     margin-left: auto;
@@ -50,6 +34,73 @@ $community-focus-glow: 0 0 0 3px rgba($footer-color, 0.2);
         padding-left: 24px;
         padding-right: 24px;
     }
+}
+
+// The dark button: mailing list signup, search page, and Mailchimp's form.
+@mixin community-button {
+    border: 0;
+    border-radius: 8px;
+    background: $community-ink;
+    color: $white;
+    font-family: $base-body-font-family;
+    font-size: 15px;
+    font-weight: $bold;
+    text-transform: uppercase;
+    cursor: pointer;
+
+    &:hover,
+    &:focus {
+        background: $footer-color;
+        color: $white;
+    }
+}
+
+// Text inputs: the search boxes and the mailing list signup.
+@mixin community-input($border: 2px solid $community-ink) {
+    box-sizing: border-box;
+    height: 48px;
+    padding: 0 16px;
+    border: $border;
+    border-radius: 8px;
+    background: $white;
+    color: $community-ink;
+    font-family: $base-body-font-family;
+    font-size: 17px;
+
+    &::placeholder {
+        color: $community-muted;
+    }
+
+    &:focus {
+        border-color: $community-accent-text;
+        outline: none;
+        box-shadow: $community-focus-glow;
+    }
+}
+
+// Small uppercase labels: admonition and "Contents" titles.
+@mixin community-label {
+    color: $community-ink;
+    font-size: 14px;
+    font-weight: $bold;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+.community-visually-hidden {
+    position: absolute !important;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
+.community-container {
+    @include community-column;
 }
 
 body.community {
@@ -72,11 +123,6 @@ body.community {
         input:focus-visible {
             outline-color: $white;
         }
-    }
-
-    // The conference footer opens with a strip of the brand colour.
-    footer .footer-padding {
-        display: none;
     }
 }
 
@@ -275,23 +321,11 @@ body.community {
 // transparent when focused and inside the slide-in menu.
 .community-search {
     .uk-search-input {
-        height: 48px;
-        padding-left: 16px;
+        @include community-input;
         padding-right: 48px;
-        border: 2px solid $community-ink;
-        border-radius: 8px;
-        background: $white;
-        color: $community-ink;
-        font-size: 17px;
         box-shadow: $community-shadow;
 
-        &::placeholder {
-            color: $community-muted;
-        }
-
         &:focus {
-            border-color: $community-accent-text;
-            outline: none;
             box-shadow: $community-focus-glow, $community-shadow;
         }
     }
@@ -363,14 +397,20 @@ body.community {
 
     .community-nav-button {
         margin-top: 20px;
-        border-color: $white;
-        color: $white;
+    }
+}
 
-        &:hover,
-        &:focus {
-            background: $white;
-            color: $community-ink;
-        }
+// The menu button on dark backgrounds: the slide-in menu and the hero.
+.community-menu .community-nav-button,
+.community-hero .community-nav-button,
+.community-hero .community-nav-button:visited {
+    border-color: $white;
+    color: $white;
+
+    &:hover,
+    &:focus {
+        background: $white;
+        color: $community-ink;
     }
 }
 
@@ -823,12 +863,8 @@ body.community {
     }
 
     p.admonition-title {
+        @include community-label;
         margin: 0 0 6px;
-        color: $community-ink;
-        font-size: 14px;
-        font-weight: $bold;
-        letter-spacing: 0.05em;
-        text-transform: uppercase;
 
         &::after {
             content: none;
@@ -856,12 +892,8 @@ body.community {
     }
 
     p.topic-title {
+        @include community-label;
         margin: 0 0 8px;
-        color: $community-ink;
-        font-size: 14px;
-        font-weight: $bold;
-        letter-spacing: 0.05em;
-        text-transform: uppercase;
     }
 
     aside.sidebar {
@@ -913,20 +945,10 @@ body.community {
 
     // Mailchimp's embedded form on the newsletter page.
     #mc_embed_signup .button {
+        @include community-button;
         height: auto;
         padding: 10px 24px;
-        border-radius: 6px;
-        background: $community-ink;
-        color: $white;
-        font-family: $base-body-font-family;
-        font-size: 15px;
-        font-weight: $bold;
         line-height: 1.4;
-        text-transform: uppercase;
-
-        &:hover {
-            background: $footer-color;
-        }
     }
 
     // Blog post lists (ablog's postlist directive).
@@ -938,10 +960,6 @@ body.community {
             margin: 0;
             padding: 12px 0;
             border-bottom: 1px solid $community-line;
-
-            &::marker {
-                content: none;
-            }
         }
 
         p {
@@ -961,39 +979,14 @@ body.community {
         margin: 0 0 32px;
 
         input[name="q"] {
+            @include community-input;
             flex: 1 1 260px;
-            box-sizing: border-box;
-            font-family: $base-body-font-family;
-            height: 48px;
-            padding: 0 16px;
-            border: 2px solid $community-ink;
-            border-radius: 8px;
-            color: $community-ink;
-            font-size: 17px;
-
-            &:focus {
-                border-color: $community-accent-text;
-                outline: none;
-                box-shadow: $community-focus-glow;
-            }
         }
 
         input[type="submit"] {
+            @include community-button;
             height: 48px;
             padding: 0 24px;
-            border: 0;
-            border-radius: 8px;
-            background: $community-ink;
-            color: $white;
-            font-family: $base-body-font-family;
-            font-size: 15px;
-            font-weight: $bold;
-            text-transform: uppercase;
-            cursor: pointer;
-
-            &:hover {
-                background: $footer-color;
-            }
         }
 
         #search-progress {
@@ -1022,10 +1015,6 @@ body.community {
                 padding: 16px 0;
                 border-bottom: 1px solid $community-line;
                 background-image: none;
-
-                &::marker {
-                    content: none;
-                }
 
                 > a {
                     font-size: 18px;
@@ -1075,42 +1064,15 @@ body.community {
     }
 
     .uk-input {
+        @include community-input(1px solid #c9cdd0);
         flex: 1 1 220px;
-        height: 48px;
-        padding: 0 16px;
-        border: 1px solid #c9cdd0;
-        border-radius: 6px;
-        background: $white;
-        color: $community-ink;
-        font-size: 17px;
-
-        &::placeholder {
-            color: $community-muted;
-        }
-
-        &:focus {
-            border-color: $community-ink;
-            outline: none;
-            box-shadow: $community-focus-glow;
-        }
     }
 
     .uk-button {
+        @include community-button;
         height: 48px;
         padding: 0 28px;
-        border: 0;
-        border-radius: 6px;
-        background: $community-ink;
-        color: $white;
-        font-size: 15px;
         line-height: 48px;
-        text-transform: uppercase;
-
-        &:hover,
-        &:focus {
-            background: $footer-color;
-            color: $white;
-        }
     }
 
     a {
@@ -1215,18 +1177,6 @@ body.community {
     .community-logo {
         visibility: hidden;
     }
-
-    .community-nav-button,
-    .community-nav-button:visited {
-        border-color: $white;
-        color: $white;
-
-        &:hover,
-        &:focus {
-            background: $white;
-            color: $community-ink;
-        }
-    }
 }
 
 .community-hero__content {
@@ -1302,17 +1252,7 @@ body.community {
 
     > .body > section > :not(section),
     .home-section > * {
-        box-sizing: border-box;
-        max-width: $community-width;
-        margin-left: auto;
-        margin-right: auto;
-        padding-left: 16px;
-        padding-right: 16px;
-
-        @media (min-width: 640px) {
-            padding-left: 24px;
-            padding-right: 24px;
-        }
+        @include community-column;
     }
 
     p,
@@ -1364,7 +1304,7 @@ p.home-section__more {
     }
 }
 
-// Upcoming conference cards: each in its own conference's colour.
+// Upcoming conference cards, with each conference's logo.
 ul.home-conferences {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(min(100%, 420px), 1fr));
@@ -1392,7 +1332,6 @@ ul.home-conferences {
         background: $white;
         box-shadow: 0 2px 8px rgba(19, 37, 48, 0.06);
         color: $copy-color;
-        text-decoration: none;
         transition: box-shadow 0.15s, transform 0.15s;
 
         &:hover {

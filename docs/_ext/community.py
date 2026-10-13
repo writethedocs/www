@@ -21,11 +21,25 @@ DATA_FILE = '_data/community.yaml'
 
 
 def load_community_data(srcdir='.'):
-    """Load ``_data/community.yaml`` and expand the upcoming conferences."""
+    """
+    Load ``_data/community.yaml``, expanding the upcoming conferences and the
+    menu entry that lists them.
+    """
     data = load_yaml(os.path.join(srcdir, DATA_FILE))
     data['upcoming_conferences'] = [
         upcoming_conference(slug, srcdir) for slug in data['upcoming_conferences']
     ]
+    for item in data['nav']:
+        children = []
+        for child in item.get('children', []):
+            if child.get('upcoming_conferences'):
+                children.extend(
+                    {'text': conf['title'], 'link': conf['url']}
+                    for conf in data['upcoming_conferences']
+                )
+            else:
+                children.append(child)
+        item['children'] = children
     return data
 
 
@@ -86,34 +100,23 @@ def link_matches(link, pagename):
     """Whether a site-relative menu link (``/guide/``) covers this page."""
     if not link.startswith('/'):
         return False
-    path = pagename.removesuffix('/index') if pagename.endswith('/index') else pagename
-    return f'/{path}/'.startswith(link)
+    return f"/{pagename.removesuffix('/index')}/".startswith(link)
 
 
 def page_nav(community, pagename):
     """The header menu, with the item that covers this page marked current."""
-    nav = []
-    for item in community['nav']:
-        children = []
-        for child in item.get('children', []):
-            if child.get('upcoming_conferences'):
-                children.extend(
-                    {'text': conf['title'], 'link': conf['url']}
-                    for conf in community['upcoming_conferences']
-                )
-            else:
-                children.append(dict(child))
-        current = link_matches(item['link'], pagename) or any(
-            link_matches(child['link'], pagename) for child in children)
-        nav.append({**item, 'children': children, 'current': current})
-    return nav
+    return [
+        {**item, 'current': any(
+            link_matches(link, pagename)
+            for link in [item['link'], *(child['link'] for child in item['children'])]
+        )}
+        for item in community['nav']
+    ]
 
 
 def add_page_context(app, pagename, templatename, context, doctree):
     """Add ``community_banner`` and ``community_nav`` to every page's context."""
-    community = context.get('community')
-    if not community:
-        return
+    community = context['community']
     context['community_banner'] = page_banner(community, pagename, context.get('meta'))
     context['community_nav'] = page_nav(community, pagename)
 

@@ -5,7 +5,9 @@
 -#}
 {%- set conference_footer = shortcode is defined and year_str is defined %}
 <footer{% if cobrand is defined %} style="height: 500px;"{% endif %}>
+    {%- if conference_footer %}
     <div class="footer-padding"></div>
+    {%- endif %}
     <div class="uk-container">
         <div class="footer-content">
             <div class="footer-social-section">
@@ -21,19 +23,19 @@
 
                 <div class="footer-icon-list">
                     <a href="https://github.com/writethedocs">
-                        <img src="{{ pathto('_static/conf/images/icons/github-footer-white.svg', 1) }}" alt="GitHub">
+                        <img src="{{ pathto('_static/conf/images/icons/github-footer-white.svg', 1) }}" alt="GitHub" loading="lazy">
                     </a>
                     <a href="https://www.linkedin.com/company/write-the-docs">
-                        <img style="height: 25px; border-radius: 5px;" src="{{ pathto('_static/conf/images/icons/linkedin.png', 1) }}" alt="LinkedIn">
+                        <img src="{{ pathto('_static/conf/images/icons/linkedin-footer-white.svg', 1) }}" alt="LinkedIn" loading="lazy">
                     </a>
                     <a rel="me" href="https://fosstodon.org/@writethedocs">
-                        <img src="{{ pathto('_static/conf/images/icons/mastodon-footer-white.svg', 1) }}" alt="Mastodon">
+                        <img src="{{ pathto('_static/conf/images/icons/mastodon-footer-white.svg', 1) }}" alt="Mastodon" loading="lazy">
                     </a>
                     <a href="https://www.flickr.com/photos/writethedocs/">
-                        <img src="{{ pathto('_static/conf/images/icons/flickr-footer-white.svg', 1) }}" alt="Flickr">
+                        <img src="{{ pathto('_static/conf/images/icons/flickr-footer-white.svg', 1) }}" alt="Flickr" loading="lazy">
                     </a>
                     <a href="{{ pathto('slack') }}">
-                        <img src="{{ pathto('_static/conf/images/icons/slack-footer-white.svg', 1) }}" alt="Slack">
+                        <img src="{{ pathto('_static/conf/images/icons/slack-footer-white.svg', 1) }}" alt="Slack" loading="lazy">
                     </a>
                 </div>
             </div>

@@ -117,7 +117,7 @@ Conference pages specify their template via `:template: {{year}}/generic.html` (
 - `filters.py` — Custom Jinja filters (e.g., speaker photo paths)
 - `meetups.py` — `meetup-listing` directive
 - `atom_absolute.py` — Rewrites atom feed URLs to absolute
-- `build_perf.py` — Build-speed fixes: caches template toctrees, keeps the environment out of pickled doctrees, and makes ablog safe for parallel reading
+- `build_perf.py` — Build-speed fixes: keeps the environment out of pickled doctrees, makes ablog safe for parallel reading, and parses YAML with libyaml
 - `community.py` — Loads `_data/community.yaml` and gives each community page its banner photo and current menu item
 
 ### Styling

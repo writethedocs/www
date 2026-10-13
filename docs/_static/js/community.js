@@ -29,8 +29,7 @@ document.addEventListener('keydown', (event) => {
   if (pageInput) {
     pageInput.focus();
   } else if (drop && drop.parentElement.offsetParent !== null) {
-    UIkit.drop(drop).show();
-    drop.querySelector('input').focus();
+    UIkit.drop(drop).show();  // focuses the box: it has autofocus
   } else {
     openMenuSearch();
   }

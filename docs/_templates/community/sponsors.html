@@ -6,7 +6,7 @@
       {%- for sponsor in global_sponsors %}
       <li>
         <a href="{{ sponsor.link }}" rel="noopener" target="_blank">
-          <img src="{{ sponsor.name|sponsor_photo }}" alt="{{ sponsor.brand }}">
+          <img src="{{ sponsor.name|sponsor_photo }}" alt="{{ sponsor.brand }}" loading="lazy">
           <span>{{ sponsor.comment }}</span>
         </a>
       </li>
