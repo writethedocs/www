@@ -5,11 +5,13 @@ Profiling a full build showed that the parts of Sphinx we lean on were
 doing a lot of repeated work. Each fix below is self-contained; delete the
 whole module and the build still works, only slower.
 
-1. ``toctree()`` in the sidebar is resolved once, not once per page.
-   ``_templates/navigation.html`` calls ``toctree(collapse=False)``. Sphinx
-   resolves the *entire* site toctree (thousands of nodes) for every page
-   and only then prunes it to the top level. With ``collapse=False`` the
-   resolved tree is identical for every page, so we cache it per process.
+1. ``toctree()`` in a template is resolved once, not once per page.
+   A template that calls ``toctree(collapse=False)`` makes Sphinx resolve the
+   *entire* site toctree (thousands of nodes) for every page and only then
+   prune it to the top level. With ``collapse=False`` the resolved tree is
+   identical for every page, so we cache it per process. The old sidebar
+   called it on every page; the current layout doesn't call it at all, so
+   this only pays off if a template starts calling it again.
 
 2. Doctrees no longer embed the whole build environment.
    MyST's ``eval-rst`` blocks parse into a temporary document whose settings

@@ -65,6 +65,7 @@ from _ext.utils import load_yaml
 from _ext.meetups import MeetupListing
 from _ext.atom_absolute import rewrite_atom_feed
 from _ext.button import ButtonLink, add_jinja_globals_to_app
+from _ext.community import load_community_data
 
 exclude_patterns = [
     '_build',
@@ -101,6 +102,8 @@ extensions = [
     'sphinxext.opengraph',
     # Local build-speed fixes; must come after ablog, which it patches.
     '_ext.build_perf',
+    # Header menu and banner photos for the community pages.
+    '_ext.community',
 ]
 
 myst_heading_anchors = 4
@@ -156,44 +159,23 @@ html_search_language = 'en'
 pygments_style = 'sphinx'
 primary_domain = None
 
-html_theme = 'alabaster'
+# The community pages use the conference design rather than a Sphinx theme:
+# _templates/layout.html builds on the bare "basic" theme. Conference pages
+# pick their own templates from _templates/<year>/.
+html_theme = 'basic'
 html_theme_options = {
-    'logo': 'sticker-wtd-colors.png',
-    'sidebar_includehidden': False,
-    # The sidebar nav: the handful of places worth reaching from any page.
-    # Everything else is on the front page and in the site map. The front page
-    # toctree can't serve double duty here: it either renders a second copy of
-    # this list on the page, or, if hidden, drops out of the sidebar entirely.
-    'extra_nav_links': {
-        'Conferences': '/conf/',
-        'Slack': '/slack/',
-        'Meetups': '/meetups/',
-        'Newsletter': '/newsletter/',
-        'Content by topic': '/topics/',
-        'Blog': '/blog/',
-        'Documentation guide': '/guide/',
-    },
-    'github_user': 'writethedocs',
-    'github_repo': 'www',
-    'github_banner': False,
-    'github_button': False,
+    'nosidebar': True,
+    # basic.css caps the page body at 800px; the layout sets its own widths.
+    'body_min_width': 0,
+    'body_max_width': 'none',
+    # _static/js/community.js handles "/" instead.
+    'enable_search_shortcuts': False,
 }
 
 html_favicon = '_static/favicon/favicon-96x96.png'
 html_title = 'Write the Docs'
 html_static_path = ['_static']
 html_copy_source = False
-html_sidebars = {
-    '**': [
-        'about.html',
-        'ablog/postcard.html',
-        'info.html',
-        'searchbox.html',
-        'navigation.html',
-        # 'relations.html',
-    ]
-}
-
 # Output formats
 
 htmlhelp_basename = 'WritetheDocsdoc'
@@ -266,6 +248,7 @@ html_context = {
     'slack_join': "https://join.slack.com/t/writethedocs/shared_invite/zt-3uxp60m0w-4Ys1SrX798HMyIXpxyD6EQ",
     'slack_form': "https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform?usp=sf_link",
     'announcement_message': announcement_message,
+    'community': load_community_data(),
 }
 
 notfound_no_urls_prefix = True

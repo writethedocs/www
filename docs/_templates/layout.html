@@ -1,39 +1,112 @@
+{#-
+  Layout for the community pages: everything outside conf/<city>/<year>/.
+
+  The community pages share the conference design, so the two halves of the
+  site look like one site. The styles come from the conference SCSS
+  (_static/conf/scss/_conference.scss), compiled in the community green with
+  the community additions in _community.scss into main-community.min.css.
+
+  From top to bottom:
+
+  - community/navbar.html: header menu and search, from _data/community.yaml
+  - a photo banner with the page title (banners in _data/community.yaml)
+  - the page, with the page's sections alongside on wide screens
+  - community/signup.html: mailing list signup
+  - community/sponsors.html: the sponsors of the whole site
+  - shared/footer.html: the footer, shared with the conference pages
+
+  The front page uses community/index.html, which swaps the banner for a hero.
+-#}
 {%- extends "!layout.html" %}
+{%- from "community/navbar.html" import navbar, offcanvas with context %}
 
-{%- block document %}
+{%- block extrahead %}
+  {{ super() }}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700|Bree+Serif&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ pathto('_static/conf/css/main-community.min.css', 1) }}" type="text/css">
+{%- endblock %}
 
+{%- block body_tag %}<body class="community">{% endblock %}
+
+{%- block header %}
+  <a class="community-skip-link" href="#main-content">Skip to content</a>
   {%- if announcement_message %}
-  <div class="announcement-banner-wrapper">
-    <div class="announcement-banner">
-      <p>{{ announcement_message | safe }}</p>
-    </div>
+  <div class="community-announcement" role="region" aria-label="Announcement">
+    <p>{{ announcement_message | safe }}</p>
   </div>
   {%- endif %}
+  {%- block community_header %}
+  <header class="community-header">
+    {{ navbar() }}
+  </header>
+  <div class="community-banner" style="background-image: url('{{ pathto(community_banner, 1) }}')">
+    <div class="community-container">
+      <h1>{{ title }}</h1>
+    </div>
+  </div>
+  {%- endblock %}
+  {{ offcanvas() }}
+{%- endblock %}
 
-  <div class="documentwrapper">
-  {%- if render_sidebar %}
-    <div class="bodywrapper">
-  {%- endif %}
-      <div class="body" role="main">
-          {% block breadcrumbs %}
-          <div class="breadcrumbs">
-            {# Don't show breadcrumbs on root page #}
-            {% if master_doc != pagename %}
-              <a href="{{ pathto(master_doc) }}">{{ _('Home') }}</a> &raquo;
-                {% for doc in parents %}
-                  <a href="{{ doc.link|e }}">{{ doc.title }}</a> &raquo;
-                {% endfor %}
-            {% endif %}
-          </div>
-        {% endblock %}
-        {% block body %} {% endblock %}
+{#- No "next / previous / index" bars. #}
+{%- block relbar1 %}{% endblock %}
+{%- block relbar2 %}{% endblock %}
+
+{%- block content %}
+<main id="main-content" class="community-page">
+  <div class="community-container">
+    {%- if parents %}
+    <nav class="community-breadcrumbs" aria-label="Breadcrumb">
+      <a href="{{ pathto(master_doc) }}">Home</a>
+      {%- for doc in parents %}
+      <span aria-hidden="true">/</span> <a href="{{ doc.link|e }}">{{ doc.title }}</a>
+      {%- endfor %}
+    </nav>
+    {%- endif %}
+    <div class="community-columns">
+      <div class="body community-body">
+        {%- if ablog is defined and pagename in ablog %}
+        {%- set post = ablog[pagename] %}
+        <p class="community-post-meta">
+          {%- if post.date %}
+          <time datetime="{{ post.date.strftime('%Y-%m-%d') }}">{{ post.date.strftime(ablog.post_date_format) }}</time>
+          {%- endif %}
+          {%- if post.author %}
+          <span>by {% for author in post.author %}<a href="{{ pathto(author.docname) }}">{{ author }}</a>{{ ', ' if not loop.last }}{% endfor %}</span>
+          {%- endif %}
+          {%- if post.tags %}
+          <span>in {% for tag in post.tags %}<a href="{{ pathto(tag.docname) }}">{{ tag }}</a>{{ ', ' if not loop.last }}{% endfor %}</span>
+          {%- endif %}
+        </p>
+        {%- endif %}
+        {% block body %}{% endblock %}
       </div>
-  {%- if render_sidebar %}
+      <aside class="community-rail">
+        {%- if display_toc %}
+        <nav class="community-toc" aria-labelledby="community-toc-title">
+          <h2 id="community-toc-title">On this page</h2>
+          {{ toc }}
+        </nav>
+        {%- endif %}
+        <div id="ethical-ad-placement"></div>
+      </aside>
     </div>
-  {%- endif %}
   </div>
+</main>
 {%- endblock %}
 
 {%- block footer %}
-  {% include "footer.html" %}
+  {% include "community/signup.html" %}
+  {% include "community/sponsors.html" %}
+  {% include "shared/footer.html" %}
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.16.22/js/uikit.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.16.22/js/uikit-icons.min.js"></script>
+  <script src="{{ pathto('_static/js/community.js', 1) }}"></script>
+
+  <!-- 100% privacy-first analytics -->
+  <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+  <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
 {%- endblock %}

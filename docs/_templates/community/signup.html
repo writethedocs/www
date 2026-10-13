@@ -1,0 +1,21 @@
+{#- Mailing list signup, in the brand-colour band the conference pages use
+    for their calls to action. It subscribes to the monthly newsletter; the
+    newsletter page has the form for the conference lists too. -#}
+<section class="community-signup" aria-labelledby="community-signup-title">
+  <div class="community-container">
+    <div class="community-signup__text">
+      <h2 id="community-signup-title">Join our mailing list</h2>
+      <p>Get a monthly roundup of what the community is talking about, with over {{ newsletter_subs }} other readers.</p>
+    </div>
+    <form class="community-signup__form" action="https://writethedocs.us6.list-manage.com/subscribe/post?u=94377ea46d8b176a11a325d03&amp;id=dcf0ed349b&amp;f_id=00d2c2e1f0" method="post" target="_blank">
+      <label class="community-visually-hidden" for="community-signup-email">Email address</label>
+      <input id="community-signup-email" class="uk-input" type="email" name="EMAIL" placeholder="Email address" autocomplete="email" required>
+      {#- The "Monthly Community Newsletter" interest group. #}
+      <input type="hidden" name="group[14633][1]" value="1">
+      {#- Bot trap from Mailchimp's embed code: people never fill it in. #}
+      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_94377ea46d8b176a11a325d03_dcf0ed349b" tabindex="-1" value=""></div>
+      <button class="uk-button" type="submit">Subscribe</button>
+    </form>
+    <p class="community-signup__more">Want conference news too? <a href="{{ pathto('newsletter') }}">Choose your lists</a>.</p>
+  </div>
+</section>

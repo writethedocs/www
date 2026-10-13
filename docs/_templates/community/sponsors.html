@@ -1,0 +1,19 @@
+{#- The sponsors of the whole site, from _data/global-sponsors.yaml. -#}
+<section id="community-sponsors" class="community-sponsors" aria-labelledby="community-sponsors-title">
+  <div class="community-container">
+    <h2 id="community-sponsors-title">Supported by</h2>
+    <ul class="community-sponsors__list">
+      {%- for sponsor in global_sponsors %}
+      <li>
+        <a href="{{ sponsor.link }}" rel="noopener" target="_blank">
+          <img src="{{ sponsor.name|sponsor_photo }}" alt="{{ sponsor.brand }}">
+          <span>{{ sponsor.comment }}</span>
+        </a>
+      </li>
+      {%- endfor %}
+    </ul>
+    <div class="learn-more">
+      <a href="{{ pathto('sponsorship/index') }}">Become a sponsor</a>
+    </div>
+  </div>
+</section>

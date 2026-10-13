@@ -69,7 +69,7 @@ All build commands run from the `docs/` directory using `make` (not raw `sphinx-
 - **Build site:** `cd docs && uv run make html`
 - **Live preview:** `cd docs && uv run make livehtml` (serves at http://127.0.0.1:8888)
 - **Clean build:** `cd docs && make clean && uv run make html`
-- **Compile SCSS:** `sass --style=compressed --no-source-map docs/_static/conf/scss/main-YYYY.scss docs/_static/conf/css/main-YYYY.min.css`
+- **Compile SCSS:** `sass --style=compressed --no-source-map docs/_static/conf/scss/main-YYYY.scss docs/_static/conf/css/main-YYYY.min.css` (or `main-community` for the community pages)
 
 Python 3.12 is required. Dependencies: `uv sync` (add `--group scripts` for the helper scripts in `docs/_scripts/`)
 
@@ -102,7 +102,14 @@ Pre-2020 conferences use a different naming convention (`config-<city>-<year>.ya
 
 ### Templates
 
-Year-specific HTML templates in `docs/_templates/<year>/` (base.html, index.html, generic.html, menu-*.html). Pages specify their template via `:template: <year>/generic.html` metadata in RST.
+The community pages (everything outside `conf/<city>/<year>/`) use the conference design, so both halves of the site look like one site:
+
+- `docs/_templates/layout.html` — community page layout: header menu, photo banner with the page title, content with an "On this page" column, mailing list band, sponsors, footer. The front page uses `community/index.html`, which adds a hero.
+- `docs/_templates/community/` — the community header menu, front page, mailing list band and sponsors.
+- `docs/_data/community.yaml` — the community header menu, the banner photo for each section, and the list of upcoming conferences (used on the front page, the conferences page and in the menu).
+- `docs/_templates/shared/footer.html` — the footer used by both the community and conference pages.
+
+Conference pages specify their template via `:template: {{year}}/generic.html` (or `index.html`) metadata. From 2026 on, the templates live once in `docs/_templates/conference/`, and `docs/_templates/<year>/` holds only that year's menus (`menu-desktop.html`, `menu-mobile.html`) plus one-line files that point at `conference/`. To start a new year, copy the previous year's folder and update its menus. Earlier years keep their own full copies.
 
 ### Custom Sphinx Extensions (`docs/_ext/`)
 
@@ -110,11 +117,14 @@ Year-specific HTML templates in `docs/_templates/<year>/` (base.html, index.html
 - `filters.py` — Custom Jinja filters (e.g., speaker photo paths)
 - `meetups.py` — `meetup-listing` directive
 - `atom_absolute.py` — Rewrites atom feed URLs to absolute
-- `build_perf.py` — Build-speed fixes: caches the sidebar toctree, keeps the environment out of pickled doctrees, and makes ablog safe for parallel reading
+- `build_perf.py` — Build-speed fixes: caches template toctrees, keeps the environment out of pickled doctrees, and makes ablog safe for parallel reading
+- `community.py` — Loads `_data/community.yaml` and gives each community page its banner photo and current menu item
 
 ### Styling
 
 Per-year SCSS files at `docs/_static/conf/scss/main-<year>.scss` compile to `docs/_static/conf/css/main-<year>.min.css`. Uses UIKit CSS framework (via CDN). Both SCSS source and compiled CSS must be committed.
+
+From 2027 on, the conference design lives in `_conference.scss`, and a year's file only sets `$main-color` and imports it. `main-community.scss` builds the community pages from the same design in the community green, plus `_community.scss`. A change to `_conference.scss` affects every year that imports it and the community pages, so recompile all of them. `main-2026.scss` and earlier keep their own full copies.
 
 ### Blog/News
 

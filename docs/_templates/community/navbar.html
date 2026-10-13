@@ -1,0 +1,88 @@
+{#-
+  Header menu for the community pages. The items come from
+  _data/community.yaml by way of _ext/community.py, which marks the item
+  that covers the current page.
+
+  navbar() is the bar itself; on small screens its items move into
+  offcanvas(), a menu that slides in from the side. search_form() submits to
+  the Sphinx search page: on wide screens it opens over the menu items when
+  you press the search button or "/", and on small screens it sits at the top
+  of the slide-in menu.
+-#}
+
+{%- macro search_form(input_id, autofocus=False) -%}
+<form class="uk-search uk-width-1-1 community-search" action="{{ pathto('search') }}" method="get" role="search">
+  <span class="uk-search-icon-flip" uk-search-icon></span>
+  <input id="{{ input_id }}" class="uk-search-input" type="search" name="q"
+         placeholder="Search Write the Docs" aria-label="Search Write the Docs"
+         autocomplete="off"{% if autofocus %} autofocus{% endif %}>
+</form>
+{%- endmacro %}
+
+{%- macro navbar() -%}
+<nav class="uk-navbar-container uk-navbar-transparent community-navbar" aria-label="Main">
+  <div class="community-container">
+    <div uk-navbar="delay-hide: 250; offset: 4">
+      <div class="uk-navbar-left">
+        <a class="uk-navbar-item uk-logo community-logo" href="{{ pathto(master_doc) }}" aria-label="Write the Docs home">Write<br>the<br>Docs</a>
+      </div>
+      <div class="uk-navbar-right">
+        <ul class="uk-navbar-nav uk-visible@m">
+          {%- for item in community_nav %}
+          <li{% if item.current %} class="uk-active"{% endif %}>
+            <a href="{{ item.link }}"{% if item.children %} class="community-has-menu"{% endif %}>{{ item.text }}</a>
+            {%- if item.children %}
+            <div class="uk-navbar-dropdown">
+              <ul class="uk-nav uk-navbar-dropdown-nav">
+                {%- for child in item.children %}
+                <li><a href="{{ child.link }}">{{ child.text }}</a></li>
+                {%- endfor %}
+              </ul>
+            </div>
+            {%- endif %}
+          </li>
+          {%- endfor %}
+        </ul>
+        <div class="uk-navbar-item uk-visible@m">
+          <a class="uk-button community-nav-button" href="{{ community.nav_button.link }}">{{ community.nav_button.text }}</a>
+        </div>
+        <div class="community-search-toggle uk-visible@m">
+          <button class="uk-navbar-toggle" type="button" uk-search-icon aria-label="Search" title="Search (/)"></button>
+          <div class="uk-drop community-search-drop" uk-drop="mode: click; pos: left-center; offset: 0">
+            {{ search_form('community-search', autofocus=True) }}
+          </div>
+        </div>
+        <button class="uk-navbar-toggle uk-hidden@m community-search-open" type="button" uk-search-icon
+                aria-label="Search" aria-controls="community-menu"></button>
+        <button class="uk-navbar-toggle uk-hidden@m" type="button" uk-navbar-toggle-icon
+                uk-toggle="target: #community-menu" aria-label="Menu" aria-controls="community-menu"></button>
+      </div>
+    </div>
+  </div>
+</nav>
+{%- endmacro %}
+
+{%- macro offcanvas() -%}
+<div id="community-menu" class="community-menu" uk-offcanvas="overlay: true; flip: true">
+  <div class="uk-offcanvas-bar">
+    <button class="uk-offcanvas-close" type="button" uk-close aria-label="Close menu"></button>
+    <a class="community-menu__logo" href="{{ pathto(master_doc) }}">Write the Docs</a>
+    {{ search_form('community-search-menu') }}
+    <ul class="uk-nav uk-nav-default">
+      {%- for item in community_nav %}
+      <li class="{% if item.current %}uk-active{% endif %}{% if item.children %} uk-parent{% endif %}">
+        <a href="{{ item.link }}">{{ item.text }}</a>
+        {%- if item.children %}
+        <ul class="uk-nav-sub">
+          {%- for child in item.children %}
+          <li><a href="{{ child.link }}">{{ child.text }}</a></li>
+          {%- endfor %}
+        </ul>
+        {%- endif %}
+      </li>
+      {%- endfor %}
+    </ul>
+    <a class="uk-button community-nav-button" href="{{ community.nav_button.link }}">{{ community.nav_button.text }}</a>
+  </div>
+</div>
+{%- endmacro %}

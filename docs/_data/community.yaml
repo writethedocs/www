@@ -1,0 +1,107 @@
+# Data for the community pages, which is everything outside
+# conf/<city>/<year>/. Conference pages have their own menus in
+# docs/_templates/<year>/.
+
+# Conferences listed on the front page, the conferences page, the events
+# page, and in the header menu, soonest first. Each is the <shortcode>-<year>
+# of a conference config file in this directory.
+upcoming_conferences:
+  - australia-2026
+  - portland-2027
+
+# The header menu. A link opens its own page; its children open in a
+# dropdown. `upcoming_conferences: true` lists the conferences above.
+nav:
+  - text: Conferences
+    link: /conf/
+    children:
+      - upcoming_conferences: true
+      - text: All conferences
+        link: /conf/
+      - text: Talk videos
+        link: https://www.youtube.com/c/WritetheDocs
+  - text: Community
+    link: /about/stay-connected/
+    children:
+      - text: Slack
+        link: /slack/
+      - text: Meetups
+        link: /meetups/
+      - text: Newsletter
+        link: /newsletter/
+      - text: Book club
+        link: /book-club/
+      - text: Code of Conduct
+        link: /code-of-conduct/
+  - text: Learn
+    link: /guide/
+    children:
+      - text: Documentation guide
+        link: /guide/
+      - text: Hiring guide
+        link: /hiring-guide/
+      - text: Content by topic
+        link: /topics/
+      - text: Salary survey
+        link: /surveys/
+      - text: Learning resources
+        link: /about/learning-resources/
+  - text: Blog
+    link: /blog/
+  - text: About
+    link: /about/about-the-org/
+    children:
+      - text: About us
+        link: /about/about-the-org/
+      - text: Team
+        link: /team/
+      - text: Sponsor us
+        link: /sponsorship/
+      - text: Contribute
+        link: /contribute/
+      - text: Contact
+        link: /contact/
+
+# The button at the end of the header menu.
+nav_button:
+  text: Join Slack
+  link: /slack/
+
+# Photos behind the page title. A page can pick its own with a `banner`
+# field: `:banner: _static/...` in reStructuredText, or `banner: _static/...`
+# in Markdown front matter.
+banners:
+  # The front page.
+  home: _static/conf/images/headers/portland-2025-group.jpg
+  # By the first folder of the page path, or the page name for top-level
+  # pages.
+  sections:
+    about: _static/conf/images/headers/2026/team.jpg
+    about-us: _static/conf/images/headers/2026/team.jpg
+    blog: _static/conf/images/headers/2026/news.jpg
+    book-club: _static/conf/images/headers/2025/writing-day.jpg
+    code-of-conduct: _static/conf/images/headers/2026/attendee-guide.jpg
+    code-of-conduct-response: _static/conf/images/headers/2026/attendee-guide.jpg
+    code-of-conduct-shortform-meetups: _static/conf/images/headers/2026/attendee-guide.jpg
+    conf: _static/conf/images/headers/2026/speakers.jpg
+    contact: _static/conf/images/headers/2026/registration.jpg
+    contribute: _static/conf/images/headers/2026/writing-day.jpg
+    documentarians: _static/conf/images/headers/2026/schedule.jpg
+    guide: _static/conf/images/headers/2026/writing-day.jpg
+    hiring-guide: _static/conf/images/headers/2026/convince-your-manager.jpg
+    meetups: _static/conf/images/headers/2026/social-events.jpg
+    newsletter: _static/conf/images/headers/2026/news.jpg
+    organizer-guide: _static/conf/images/headers/2025/volunteer.jpg
+    slack: _static/conf/images/headers/2025/unconference.jpg
+    sponsorship: _static/conf/images/headers/2026/sponsors.jpg
+    surveys: _static/conf/images/headers/2026/virtual.jpg
+    team: _static/conf/images/headers/2026/team.jpg
+    topics: _static/conf/images/headers/2025/lightning-talks.jpg
+    videos: _static/conf/images/headers/2026/lightning-talks.jpg
+  # Every other page gets one of these, picked by its name so it doesn't
+  # change between builds.
+  default:
+    - _static/conf/images/headers/2026/schedule.jpg
+    - _static/conf/images/headers/2026/unconference.jpg
+    - _static/conf/images/headers/2026/social-events.jpg
+    - _static/conf/images/headers/2025/writing-day.jpg

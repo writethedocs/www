@@ -1,0 +1,31 @@
+{#-
+  The front page: a hero in place of the photo banner, like the conference
+  front pages, and the page content at full width so docs/index.rst can lay
+  out its own sections (see the home-section rules in _community.scss).
+-#}
+{%- extends "layout.html" %}
+
+{%- block community_header %}
+<header class="community-hero" style="background-image: linear-gradient(rgba(19, 37, 48, 0.8), rgba(19, 37, 48, 0.68)), url('{{ pathto(community_banner, 1) }}')">
+  {{ navbar() }}
+  <div class="community-container community-hero__content">
+    <p class="community-hero__logo" aria-hidden="true">Write<br>the<br>Docs</p>
+    <div class="community-hero__text">
+      <h1>A global community of people who care about documentation</h1>
+      <p>Meet other documentarians at our conferences and local meetups, talk shop in Slack, and read our monthly newsletter.</p>
+      <div class="community-hero__buttons">
+        {{ button_link(pathto(community.nav_button.link.strip('/')), community.nav_button.text, wrap=False, new_tab=False, contrast=True) }}
+        {{ button_link(pathto('conf/index'), 'Find a conference', wrap=False, new_tab=False, contrast=True) }}
+      </div>
+    </div>
+  </div>
+</header>
+{%- endblock %}
+
+{%- block content %}
+<main id="main-content" class="community-home">
+  <div class="body">
+    {% block body %}{{ body }}{% endblock %}
+  </div>
+</main>
+{%- endblock %}
