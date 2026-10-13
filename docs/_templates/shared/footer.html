@@ -1,0 +1,62 @@
+{#-
+  The dark site footer, shared by the community pages and the conference
+  pages (conference/base.html). On a conference page the wordmark carries the
+  conference name and year, and the copyright carries the year.
+-#}
+{%- set conference_footer = shortcode is defined and year_str is defined %}
+<footer{% if cobrand is defined %} style="height: 500px;"{% endif %}>
+    <div class="footer-padding"></div>
+    <div class="uk-container">
+        <div class="footer-content">
+            <div class="footer-social-section">
+                <div class="footer-logo">
+                    Write<br>
+                    the<br>
+                    Docs
+                    {%- if conference_footer %}<br>
+                    <em>{{ name }}</em>
+                    <br><em style="top: -24px;">{{ year }}</em>
+                    {%- endif %}
+                </div>
+
+                <div class="footer-icon-list">
+                    <a href="https://github.com/writethedocs">
+                        <img src="{{ pathto('_static/conf/images/icons/github-footer-white.svg', 1) }}" alt="GitHub">
+                    </a>
+                    <a href="https://www.linkedin.com/company/write-the-docs">
+                        <img style="height: 25px; border-radius: 5px;" src="{{ pathto('_static/conf/images/icons/linkedin.png', 1) }}" alt="LinkedIn">
+                    </a>
+                    <a rel="me" href="https://fosstodon.org/@writethedocs">
+                        <img src="{{ pathto('_static/conf/images/icons/mastodon-footer-white.svg', 1) }}" alt="Mastodon">
+                    </a>
+                    <a href="https://www.flickr.com/photos/writethedocs/">
+                        <img src="{{ pathto('_static/conf/images/icons/flickr-footer-white.svg', 1) }}" alt="Flickr">
+                    </a>
+                    <a href="{{ pathto('slack') }}">
+                        <img src="{{ pathto('_static/conf/images/icons/slack-footer-white.svg', 1) }}" alt="Slack">
+                    </a>
+                </div>
+            </div>
+
+            <ul>
+                <li style="color: #BCC1C3;">© {% if conference_footer %}{{ year }} {% endif %}Write the Docs</li>
+                <li>|</li>
+                <li><a href="{{ pathto('contact') }}">Contact</a></li>
+                <li>|</li>
+                <li><a href="{{ pathto('code-of-conduct') }}">Code of Conduct</a></li>
+                <li>|</li>
+                <li><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="Creative Commons Attribution-NonCommercial-ShareAlike 4.0">License</a></li>
+            </ul>
+
+            {#- Inline colours: main-2026.min.css predates this line and is frozen. #}
+            <p class="footer-edit" style="color: #BCC1C3; font-size: 14px; margin-top: 16px;">
+                Spotted a mistake? This website is open source:
+                {% if page_source_suffix -%}
+                <a style="color: #fff; text-decoration: underline;" href="https://github.com/writethedocs/www/edit/main/docs/{{ pagename }}{{ page_source_suffix }}">edit this page on GitHub</a>.
+                {%- else -%}
+                <a style="color: #fff; text-decoration: underline;" href="https://github.com/writethedocs/www">edit it on GitHub</a>.
+                {%- endif %}
+            </p>
+        </div>
+    </div>
+</footer>
