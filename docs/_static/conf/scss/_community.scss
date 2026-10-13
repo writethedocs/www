@@ -1459,7 +1459,8 @@ ul.home-conferences {
     }
 }
 
-// The "Get involved" tiles, with the conference illustrations.
+// The "Get involved" tiles. The icons are Font Awesome SVGs in
+// _templates/community/icons/.
 ul.home-tiles {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr));
@@ -1483,11 +1484,21 @@ ul.home-tiles {
         }
     }
 
-    img {
-        display: block;
-        width: auto;
+    .home-tiles__icon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 48px;
         height: 48px;
-        margin-bottom: 14px;
+        margin-bottom: 16px;
+        border-radius: 50%;
+        background: $community-tint;
+        color: $footer-color;
+
+        svg {
+            width: 22px;
+            height: 22px;
+        }
     }
 
     h3 {

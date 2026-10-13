@@ -55,27 +55,27 @@ Get involved
 
    <ul class="home-tiles">
      <li>
-       <img src="/_static/conf/images/icons/conversation-green.svg" alt="">
+       <span class="home-tiles__icon">{% include "community/icons/slack.svg" %}</span>
        <h3><a href="/slack/">Join our Slack</a></h3>
        <p>Over {{ slack_members }} people hanging out and chatting about documentation.</p>
      </li>
      <li>
-       <img src="/_static/conf/images/icons/hike-green.svg" alt="">
+       <span class="home-tiles__icon">{% include "community/icons/meetups.svg" %}</span>
        <h3><a href="/meetups/">Find a local meetup</a></h3>
        <p>Local and virtual groups in over {{ meetup_cities }} cities, run by volunteers.</p>
      </li>
      <li>
-       <img src="/_static/conf/images/icons/writing-green.svg" alt="">
+       <span class="home-tiles__icon">{% include "community/icons/newsletter.svg" %}</span>
        <h3><a href="/newsletter/">Read the newsletter</a></h3>
        <p>A monthly roundup of what our community is talking about, for over {{ newsletter_subs }} subscribers.</p>
      </li>
      <li>
-       <img src="/_static/conf/images/icons/conference-green.svg" alt="">
+       <span class="home-tiles__icon">{% include "community/icons/topics.svg" %}</span>
        <h3><a href="/topics/">Browse by topic</a></h3>
        <p>Over 700 talks and newsletter articles, on everything from API docs to getting hired.</p>
      </li>
      <li>
-       <img src="/_static/conf/images/icons/lightning-green.svg" alt="">
+       <span class="home-tiles__icon">{% include "community/icons/survey.svg" %}</span>
    {%- if salary_survey.open %}
        <h3><a href="{{ salary_survey.url }}">Take the salary survey</a></h3>
        <p>Anonymous pay data for documentation roles. The {{ salary_survey.year }} survey
@@ -86,7 +86,7 @@ Get involved
    {%- endif %}
      </li>
      <li>
-       <img src="/_static/conf/images/icons/sponsor-expo-green.svg" alt="">
+       <span class="home-tiles__icon">{% include "community/icons/sponsor.svg" %}</span>
        <h3><a href="/sponsorship/">Become a sponsor</a></h3>
        <p>Reach documentarians through our conferences, newsletter, Slack and website.</p>
      </li>
