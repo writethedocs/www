@@ -108,6 +108,34 @@ section > h1 {
 
   {% endif %}
 
+  {% if flaglanding %}
+
+  <div class="key-dates" id="key-dates">
+    <div class="uk-container">
+      <h2>Key dates</h2>
+      <ol class="key-dates-list">
+        <li>
+          <span class="key-date">Available now</span>
+          <a href="{{ pathto('conf/' + shortcode + '/' + year_str + '/sponsors/prospectus') }}">Sponsorship prospectus</a>
+        </li>
+        <li>
+          <span class="key-date">{{ cfp.opens }}</span>
+          Call for proposals opens
+        </li>
+        <li>
+          <span class="key-date">{{ date.tickets_live }}</span>
+          Tickets go on sale
+        </li>
+        <li>
+          <span class="key-date">{{ date.short }}</span>
+          Conference in {{ city }}
+        </li>
+      </ol>
+    </div>
+  </div><!-- end key dates -->
+
+  {% endif %}
+
   <div class="about" id="about">
     <div class="uk-container">
 
