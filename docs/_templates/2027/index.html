@@ -108,7 +108,8 @@ section > h1 {
 
   {% endif %}
 
-  {% if flaglanding %}
+  {# Show the timeline until the month talks are announced. #}
+  {% if cfp.notification|before_month %}
 
   <div class="key-dates" id="key-dates">
     <div class="uk-container">
