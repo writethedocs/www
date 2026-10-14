@@ -64,7 +64,7 @@ What is Write the Docs?
 
    .. raw:: html
 
-      <img src="/_static/conf/images/headers/2026/writing-day.jpg" alt="Attendees working together at Writing Day" loading="lazy">
+      <img src="/_static/conf/images/photos/writing-day-table-55246793808.jpg" alt="Attendees writing together at Writing Day" loading="lazy">
 
 .. rst-class:: home-section home-section--muted
 
