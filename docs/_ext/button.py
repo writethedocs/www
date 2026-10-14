@@ -22,6 +22,10 @@ YEAR_COLORS = {
     2027: {"background": "#ea6852", "text": BLACK},
 }
 
+# Pages outside a conference year use the community green, the accent used
+# across the rest of the community site.
+COMMUNITY_COLORS = {"background": "#2ecc71", "text": BLACK}
+
 
 def conference_year(argument):
     """Validate a ``:year:`` option value against the known brand colors."""
@@ -62,9 +66,9 @@ def render_button(url, text, year=None, wrap=True, new_tab=True, contrast=False)
     ``contrast`` renders white on black instead, for buttons that sit on a
     brand-colored background such as the hero and footer bands.
     """
-    colors = YEAR_COLORS[
-        conference_year(year) if year is not None else max(YEAR_COLORS)
-    ]
+    colors = (
+        YEAR_COLORS[conference_year(year)] if year is not None else COMMUNITY_COLORS
+    )
     if contrast:
         background, text_color = WHITE, BLACK
     else:
@@ -109,7 +113,7 @@ class ButtonLink(rst.Directive):
 
     ``:year:`` picks the conference year's colors from ``YEAR_COLORS``.
     Without it, the year comes from the page's ``conf/<city>/<year>/``
-    path, falling back to the newest year on other pages.
+    path. Pages outside a conference year use the community green.
     """
 
     required_arguments = 1  # URL
