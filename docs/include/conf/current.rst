@@ -1,4 +1,6 @@
 Current Conferences
 -------------------
 
-{% include "conf/current-list.rst" %}
+.. raw:: html
+
+   {% filter indent(3) %}{% include "community/conference-cards.html" %}{% endfilter %}

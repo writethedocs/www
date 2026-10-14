@@ -12,7 +12,8 @@
   - a photo banner with the page title: the page's `banner` field, or a
     default from _data/community.yaml
   - the page, with the page's sections alongside on wide screens
-  - community/signup.html: mailing list signup
+  - community/signup.html: mailing list signup (not on the newsletter page,
+    which has the full form)
   - community/sponsors.html: the sponsors of the whole site
   - shared/footer.html: the footer, shared with the conference pages
 
@@ -110,7 +111,9 @@
 {%- endblock %}
 
 {%- block footer %}
+  {%- if pagename != 'newsletter' %}
   {% include "community/signup.html" %}
+  {%- endif %}
   {% include "community/sponsors.html" %}
   {% include "shared/footer.html" %}
 

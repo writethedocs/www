@@ -1,6 +1,6 @@
 ---
 template: {{year}}/generic.html
-banner: _static/conf/images/headers/2026/portland.jpg
+banner: _static/conf/images/portland-2027/venue.jpg
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 

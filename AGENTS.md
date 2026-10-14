@@ -105,7 +105,7 @@ Pre-2020 conferences use a different naming convention (`config-<city>-<year>.ya
 The community pages (everything outside `conf/<city>/<year>/`) use the conference design, so both halves of the site look like one site:
 
 - `docs/_templates/layout.html` — community page layout: header menu, photo banner with the page title, content with an "On this page" column, mailing list band, sponsors, footer. The front page uses `community/index.html`, which adds a hero.
-- `docs/_templates/community/` — the community header menu, front page, mailing list band and sponsors.
+- `docs/_templates/community/` — the community header menu, front page, conference cards (front page and conferences page), blog and newsletter pages, mailing list band and sponsors.
 - `docs/_data/community.yaml` — the community header menu, the default banner photos, the front page's hero and "Get involved" tiles, and the list of upcoming conferences (used on the front page, the conferences page and in the menu). Front page text can use placeholders like `{slack_members}`, filled in from `html_context` in `conf.py`.
 - `docs/_templates/shared/footer.html` — the footer used by both the community and conference pages.
 

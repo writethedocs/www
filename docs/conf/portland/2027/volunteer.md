@@ -1,6 +1,6 @@
 ---
 template: {{year}}/generic.html
-banner: _static/conf/images/headers/2025/volunteer.jpg
+banner: _static/conf/images/portland-2027/volunteer.jpg
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
@@ -22,7 +22,7 @@ Sign up to be a volunteer
 ```
 {% endif %}
 
-![Volunteer](/_static/conf/images/pics/2025/volunteer.jpg)
+![Volunteer](/_static/conf/images/portland-2027/volunteer-inline.jpg)
 
 **Timeline:**
 

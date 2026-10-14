@@ -1,0 +1,28 @@
+{#-
+  The newsletter page, docs/newsletter.rst. The page's text marks where the
+  latest issues go with <!-- newsletter-issues -->; _ext/community.py
+  (newsletter_issues) finds them. The mailing list band at the bottom of
+  other pages is left out here, since this page has the full form.
+-#}
+{%- extends "layout.html" %}
+
+{%- block body %}
+{%- set issues -%}
+<ul class="newsletter-issues">
+  {%- for issue in newsletter_issues %}
+  <li>
+    <a href="{{ pathto(issue.post.docname) }}">
+      <time datetime="{{ issue.post.date.strftime('%Y-%m-%d') }}">{{ issue.post.date.strftime('%B %Y') }}</time>
+      <ul>
+        {%- for topic in issue.topics[:4] %}
+        <li>{{ topic }}</li>
+        {%- endfor %}
+      </ul>
+      <span class="newsletter-issues__cta">Read the issue</span>
+    </a>
+  </li>
+  {%- endfor %}
+</ul>
+{%- endset %}
+{{ body | replace('<!-- newsletter-issues -->', issues) }}
+{%- endblock %}

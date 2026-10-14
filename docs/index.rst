@@ -22,27 +22,7 @@ Upcoming conferences
 
 .. raw:: html
 
-   <ul class="home-conferences">
-   {%- for conf in community.upcoming_conferences %}
-     <li>
-       <a href="{{ conf.url }}">
-         <span class="home-conference__logo">
-         {%- if conf.logo %}
-           <img src="/{{ conf.logo }}" alt="" loading="lazy">
-         {%- else %}
-           <span aria-hidden="true">Write<br>the<br>Docs<br>{{ conf.name }}<br>{{ conf.year }}</span>
-         {%- endif %}
-         </span>
-         <span class="home-conference__text">
-           <strong>{{ conf.title }}</strong>
-           <span>{{ conf.dates }}</span>
-           <span>{{ conf.location }}</span>
-           <span class="home-conference__cta">Visit the conference site</span>
-         </span>
-       </a>
-     </li>
-   {%- endfor %}
-   </ul>
+   {% filter indent(3) %}{% include "community/conference-cards.html" %}{% endfilter %}
 
 .. rst-class:: home-section__more
 

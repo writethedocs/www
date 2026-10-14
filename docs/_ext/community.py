@@ -216,10 +216,38 @@ def blog_listing(blog, community, srcdir='.'):
     }
 
 
+# Sections in every newsletter issue, left out of the list of its topics.
+NEWSLETTER_REGULARS = {
+    'events coming up', 'featured job posts', 'from our sponsor', 'write the docs resources',
+}
+
+
+def newsletter_issues(blog, env, count=3):
+    """
+    The latest newsletter issues for the newsletter page, each with the
+    topics it covers: its section titles, less the regular ones.
+    """
+    issues = []
+    for post in blog.posts:  # newest first
+        if not (post.published and post.docname.startswith('blog/newsletter-')):
+            continue
+        toc = env.tocs[post.docname]
+        sections = toc[0][1] if len(toc) and len(toc[0]) > 1 else []
+        topics = [item[0].astext() for item in sections]
+        issues.append({
+            'post': post,
+            'topics': [t for t in topics if t.strip().lower() not in NEWSLETTER_REGULARS],
+        })
+        if len(issues) == count:
+            break
+    return issues
+
+
 def add_page_context(app, pagename, templatename, context, doctree):
     """
-    Add ``page_banner`` and ``community_nav`` to every page's context, and
-    ``blog_listing`` to the blog page's.
+    Add ``page_banner`` and ``community_nav`` to every page's context,
+    ``blog_listing`` to the blog page's, and ``newsletter_issues`` to the
+    newsletter page's.
 
     Conference pages pick their default banners from ``photos.default`` in
     their config, which core.py adds to the context; community pages from
@@ -238,6 +266,8 @@ def add_page_context(app, pagename, templatename, context, doctree):
         logger.warning('banner photo %s does not exist', banner, location=pagename)
     if pagename == 'blog/index':
         context['blog_listing'] = blog_listing(context['ablog'], community, app.srcdir)
+    if pagename == 'newsletter':
+        context['newsletter_issues'] = newsletter_issues(context['ablog'], app.env)
 
 
 def setup(app):

@@ -83,8 +83,8 @@ home:
     buttons:
       - text: Join Slack
         link: /slack/
-      - text: Find a conference
-        link: /conf/
+      - text: Get the newsletter
+        link: /newsletter/
 
   # The "Get involved" tiles. `icon` names a file in
   # docs/_templates/community/icons/. `when` shows a tile only while the
