@@ -1,5 +1,5 @@
 :template: community/index.html
-:banner: _static/conf/images/headers/portland-2025-group.jpg
+:banner: _static/conf/images/photos/audience-berlin-55523762940.jpg
 
 .. meta::
    :description: A series of events for technical writers,
