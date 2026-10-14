@@ -106,7 +106,7 @@ The community pages (everything outside `conf/<city>/<year>/`) use the conferenc
 
 - `docs/_templates/layout.html` — community page layout: header menu, photo banner with the page title, content with an "On this page" column, mailing list band, sponsors, footer. The front page uses `community/index.html`, which adds a hero.
 - `docs/_templates/community/` — the community header menu, front page, mailing list band and sponsors.
-- `docs/_data/community.yaml` — the community header menu, the banner photo for each section, and the list of upcoming conferences (used on the front page, the conferences page and in the menu).
+- `docs/_data/community.yaml` — the community header menu, the banner photo for each section, the front page's hero and "Get involved" tiles, and the list of upcoming conferences (used on the front page, the conferences page and in the menu). Front page text can use placeholders like `{slack_members}`, filled in from `html_context` in `conf.py`.
 - `docs/_templates/shared/footer.html` — the footer used by both the community and conference pages.
 
 Conference pages specify their template via `:template: {{year}}/generic.html` (or `index.html`) metadata. From 2026 on, the templates live once in `docs/_templates/conference/`, and `docs/_templates/<year>/` holds only that year's menus (`menu-desktop.html`, `menu-mobile.html`) plus one-line files that point at `conference/`. To start a new year, copy the previous year's folder and update its menus. Earlier years keep their own full copies.
@@ -118,7 +118,7 @@ Conference pages specify their template via `:template: {{year}}/generic.html` (
 - `meetups.py` — `meetup-listing` directive
 - `atom_absolute.py` — Rewrites atom feed URLs to absolute
 - `build_perf.py` — Build-speed fixes: keeps the environment out of pickled doctrees, makes ablog safe for parallel reading, and parses YAML with libyaml
-- `community.py` — Loads `_data/community.yaml` and gives each community page its banner photo and current menu item
+- `community.py` — Loads `_data/community.yaml`, fills in the front page placeholders, and gives each community page its banner photo and current menu item
 
 ### Styling
 

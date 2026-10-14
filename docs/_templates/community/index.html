@@ -1,7 +1,8 @@
 {#-
   The front page: a hero in place of the photo banner, like the conference
   front pages, and the page content at full width so docs/index.rst can lay
-  out its own sections (see the home-section rules in _community.scss).
+  out its own sections (see the home-section rules in _community.scss). The
+  hero's text and buttons come from `home` in _data/community.yaml.
 -#}
 {%- extends "layout.html" %}
 
@@ -11,11 +12,12 @@
   <div class="community-container community-hero__content">
     <p class="community-hero__logo" aria-hidden="true">Write<br>the<br>Docs</p>
     <div class="community-hero__text">
-      <h1>A global community of people who care about documentation</h1>
-      <p>Meet other documentarians at our conferences and local meetups, talk shop in Slack, and read our monthly newsletter.</p>
+      <h1>{{ community.home.hero.title }}</h1>
+      <p>{{ community.home.hero.text }}</p>
       <div class="community-hero__buttons">
-        {{ button_link(community.nav_button.link, community.nav_button.text, wrap=False, new_tab=False, contrast=True) }}
-        {{ button_link(pathto('conf/index'), 'Find a conference', wrap=False, new_tab=False, contrast=True) }}
+        {%- for button in community.home.hero.buttons %}
+        {{ button_link(button.link, button.text, wrap=False, new_tab=False, contrast=True) }}
+        {%- endfor %}
       </div>
     </div>
   </div>

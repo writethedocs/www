@@ -67,6 +67,66 @@ nav_button:
   text: Join Slack
   link: /slack/
 
+# The front page. Its prose sections ("What is Write the Docs?" and the
+# links at the end) stay in docs/index.rst.
+#
+# In any text or link here, {slack_members}, {newsletter_subs},
+# {meetup_cities} and {salary_survey[...]} are filled in from html_context
+# in docs/conf.py, so the numbers live in one place.
+home:
+  hero:
+    title: A global community of people who care about documentation
+    text: >-
+      Meet other documentarians at our conferences and local meetups, talk
+      shop in Slack, and read our monthly newsletter.
+    # Like `buttons` in a conference config.
+    buttons:
+      - text: Join Slack
+        link: /slack/
+      - text: Find a conference
+        link: /conf/
+
+  # The "Get involved" tiles. `icon` names a file in
+  # docs/_templates/community/icons/. `when` shows a tile only while the
+  # salary survey is open (salary_survey_open) or closed
+  # (salary_survey_closed); its dates are in docs/conf.py.
+  tiles:
+    - title: Join our Slack
+      link: /slack/
+      icon: slack
+      text: Over {slack_members} people hanging out and chatting about documentation.
+    - title: Find a local meetup
+      link: /meetups/
+      icon: meetups
+      text: Local and virtual groups in over {meetup_cities} cities, run by volunteers.
+    - title: Read the newsletter
+      link: /newsletter/
+      icon: newsletter
+      text: >-
+        A monthly roundup of what our community is talking about, for over
+        {newsletter_subs} subscribers.
+    - title: Browse by topic
+      link: /topics/
+      icon: topics
+      text: Over 700 talks and newsletter articles, on everything from API docs to getting hired.
+    - title: Take the salary survey
+      link: "{salary_survey[url]}"
+      icon: survey
+      when: salary_survey_open
+      text: >-
+        Anonymous pay data for documentation roles. The {salary_survey[year]}
+        survey closes {salary_survey[closes]}, and <a href="/surveys/">past
+        results</a> are free to read.
+    - title: See the salary survey
+      link: /surveys/
+      icon: survey
+      when: salary_survey_closed
+      text: Anonymous pay data for documentation roles, published free every year.
+    - title: Become a sponsor
+      link: /sponsorship/
+      icon: sponsor
+      text: Reach documentarians through our conferences, newsletter, Slack and website.
+
 # Photos behind the page title. A page can pick its own with a `banner`
 # field: `:banner: _static/...` in reStructuredText, or `banner: _static/...`
 # in Markdown front matter.

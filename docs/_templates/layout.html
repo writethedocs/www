@@ -86,13 +86,15 @@
         {% block body %}{% endblock %}
       </div>
       <aside class="community-rail">
+        {#- The ad goes first: the "On this page" list below it is sticky, and
+            would slide over anything after it as the page scrolls. #}
+        <div id="ethical-ad-placement"></div>
         {%- if display_toc %}
         <nav class="community-toc" aria-labelledby="community-toc-title">
           <h2 id="community-toc-title">On this page</h2>
           {{ toc }}
         </nav>
         {%- endif %}
-        <div id="ethical-ad-placement"></div>
       </aside>
     </div>
   </div>

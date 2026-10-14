@@ -510,6 +510,39 @@ body.community {
     }
 }
 
+// More room between the footer's wordmark and the links below it. On wide
+// screens the conference styles nudge the wordmark down past its own box,
+// so the gap has to cover that too.
+footer .footer-content > ul {
+    margin-top: 24px;
+
+    @media (min-width: 640px) {
+        margin-top: 44px;
+    }
+
+    // On phones the links wrap, so drop the "|" separators for spacing.
+    @media (max-width: 639px) {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 6px 20px;
+        padding: 0;
+
+        > li {
+            padding: 0;
+        }
+
+        > li:nth-child(even) {
+            display: none;
+        }
+    }
+}
+
+// Space between the ad, when there is one, and the "On this page" list.
+#ethical-ad-placement:not(:empty) {
+    margin-bottom: 32px;
+}
+
 .community-toc {
     display: none;
 

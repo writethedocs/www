@@ -248,8 +248,9 @@ html_context = {
     'slack_join': "https://join.slack.com/t/writethedocs/shared_invite/zt-3uxp60m0w-4Ys1SrX798HMyIXpxyD6EQ",
     'slack_form': "https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform?usp=sf_link",
     'announcement_message': announcement_message,
-    'community': load_community_data(),
 }
+# After html_context, which fills in the placeholders in the front page text.
+html_context['community'] = load_community_data(html_context)
 
 notfound_no_urls_prefix = True
 

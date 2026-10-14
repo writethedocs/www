@@ -3,10 +3,10 @@ Template context for the community pages: everything outside
 ``conf/<city>/<year>/``.
 
 The community pages use the conference design (see ``_templates/layout.html``).
-Their header menu, banner photos, and list of upcoming conferences live in
-``_data/community.yaml``. This module loads that file once, checks that the
-photos it names exist, and works out per page which banner to show and which
-menu item is current.
+Their header menu, banner photos, front page hero and tiles, and list of
+upcoming conferences live in ``_data/community.yaml``. This module loads that
+file once, checks that the photos and icons it names exist, and works out per
+page which banner to show and which menu item is current.
 """
 
 import os
@@ -24,12 +24,16 @@ DATA_FILE = '_data/community.yaml'
 logger = logging.getLogger(__name__)
 
 
-def load_community_data(srcdir='.'):
+def load_community_data(context, srcdir='.'):
     """
-    Load ``_data/community.yaml``, expanding the upcoming conferences and the
-    menu entry that lists them.
+    Load ``_data/community.yaml``, expanding the upcoming conferences, the
+    menu entry that lists them, and the front page.
+
+    ``context`` is ``html_context`` from conf.py, which fills in placeholders
+    like ``{slack_members}`` in the front page's text and links.
     """
     data = load_yaml(os.path.join(srcdir, DATA_FILE))
+    data['home'] = front_page(data['home'], context, srcdir)
     data['upcoming_conferences'] = [
         upcoming_conference(slug, srcdir) for slug in data['upcoming_conferences']
     ]
@@ -45,6 +49,40 @@ def load_community_data(srcdir='.'):
                 children.append(child)
         item['children'] = children
     return data
+
+
+def front_page(home, context, srcdir='.'):
+    """
+    Fill in the placeholders in the front page's hero and tiles, and keep the
+    tiles whose ``when`` holds.
+    """
+    survey_open = context['salary_survey']['open']
+    conditions = {'salary_survey_open': survey_open, 'salary_survey_closed': not survey_open}
+
+    def fill(item, where):
+        filled = {}
+        for key, value in item.items():
+            try:
+                filled[key] = value.format_map(context) if isinstance(value, str) else value
+            except (KeyError, IndexError) as error:
+                raise ConfigError(f'{DATA_FILE}: unknown placeholder {error} in {where}') from None
+        return filled
+
+    hero = fill(home['hero'], 'home.hero')
+    hero['buttons'] = [fill(button, 'home.hero.buttons') for button in home['hero']['buttons']]
+    tiles = []
+    for tile in home['tiles']:
+        where = f'the {tile["title"]!r} tile'
+        when = tile.get('when')
+        if when is not None and when not in conditions:
+            raise ConfigError(
+                f'{DATA_FILE}: {where} has when: {when!r}; use one of {sorted(conditions)}')
+        icon = os.path.join(srcdir, '_templates', 'community', 'icons', f'{tile["icon"]}.svg')
+        if not os.path.exists(icon):
+            raise ConfigError(f'{DATA_FILE}: {where} names an icon that does not exist: {icon}')
+        if when is None or conditions[when]:
+            tiles.append(fill(tile, where))
+    return {'hero': hero, 'tiles': tiles}
 
 
 def upcoming_conference(slug, srcdir='.'):
