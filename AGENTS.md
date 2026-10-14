@@ -76,12 +76,12 @@ Python 3.12 is required. Dependencies: `uv sync` (add `--group scripts` for the 
 ## CI Checks (GitHub Actions)
 
 All run on push/PR to `main`:
-- **Ubuntu Build** (`ubuntu.yml`): Sphinx build + htmlproofer link checking (internal links only, with `--swap-urls` to treat `writethedocs.org` URLs as local)
+- **Ubuntu Build** (`ubuntu.yml`): photo size check (`docs/_scripts/check_photo_sizes.py`: each file in `_static/conf/images/photos/` under 200 KB), Sphinx build + htmlproofer link checking (internal links only, with `--swap-urls` to treat `writethedocs.org` URLs as local)
 - **Validate YAML** (`validate_yaml.yml`): Runs `docs/_scripts/validate-yaml.sh` with yamale schema validation
 - **Spellcheck** (`spellcheck.yml`): codespell with ignore list at `codespell/ignore.txt`
 - **Vale** (`vale.yml`): Prose linting with configs at `vale/vale.ini`, `vale/guide.ini`, `vale/news.ini`
 
-Pre-commit hooks validate YAML files in `docs/_data/` (yamllint, check-yaml, trailing whitespace, schema validation with yamale).
+Pre-commit hooks validate YAML files in `docs/_data/` (yamllint, check-yaml, trailing whitespace, schema validation with yamale), and check photo sizes.
 
 ## Architecture
 
