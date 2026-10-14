@@ -4,6 +4,12 @@ Newsletter & Mailing lists
 Write the Docs publishes a monthly newsletter, sharing interesting information
 and ideas that have been shared in our Slack network.
 
+.. raw:: html
+
+   <div class="cta-group">
+      <a class="cta-button" href="#sign-up">Subscribe</a>
+   </div>
+
 Latest newsletters
 ------------------
 
@@ -14,6 +20,8 @@ Latest newsletters
    :list-style: circle
 
 `View all past newsletters </blog/archive/tag/newsletter/>`__
+
+If you're looking for a specific topic, try the `content index </topics/>`__, which includes videos of conference talks as well.
 
 Sign up
 -------
@@ -86,10 +94,11 @@ Sponsorship
 If you'd like to be featured in an edition of the newsletter as a sponsor, take a look
 at the :doc:`sponsor the newsletter </sponsorship/newsletter>` page.
 
-Explore past topics
--------------------
+.. raw:: html
 
-If you're looking for a specific topic, try the `content index </topics/>`__, which includes videos of conference talks as well.
+   <div class="cta-group">
+      <a class="cta-button" href="/sponsorship/newsletter/">Sponsor the newsletter</a>
+   </div>
 
 Get in touch
 ------------
