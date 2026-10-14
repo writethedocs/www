@@ -4,21 +4,15 @@
  Book Club
 ===========
 
-Join us on the Write the Docs :doc:`/slack` in the #learn-tech-writing channel as we read a tech writing adjacent book together.
+From 2020 to 2025, members of the #learn-tech-writing channel on the Write the Docs :doc:`/slack` read books about tech writing together. The book club has finished; here is everything it read.
 
 .. contents::
    :local:
    :depth: 1
    :backlinks: none
 
-Upcoming Book Club
-------------------
-
-There's no book club scheduled right now.
-Watch the #learn-tech-writing channel on our :doc:`/slack` for the next announcement.
-
-Previous Book Club reads
-------------------------
+Books we read
+-------------
 
 * November 2025: Manny Silva's `Docs as Tests: A Strategy for Resilient Technical Documentation <https://www.amazon.com/dp/0994169361>`_
 * June - July 2024: Elton Stoneman's `Learn Kubernetes in a Month of Lunches <https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches>`_

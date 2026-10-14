@@ -1,63 +1,63 @@
 {#-
   The dark site footer, shared by the community pages and the conference
-  pages. conference/base.html sets conference_footer, which adds the
-  conference name and year to the wordmark and the year to the copyright.
+  pages (conference/base.html sets conference_footer). Its styles are in
+  _static/conf/scss/site-footer.scss, loaded by both, so that it lines up
+  with each page's content: the wide community column, or the narrower
+  conference one.
 -#}
-<footer>
+<footer class="site-footer{% if conference_footer %} site-footer--conference{% endif %}">
     {%- if conference_footer %}
     <div class="footer-padding"></div>
     {%- endif %}
-    <div class="uk-container">
-        <div class="footer-content">
-            <div class="footer-social-section">
-                <div class="footer-logo">
-                    Write<br>
-                    the<br>
-                    Docs
-                    {%- if conference_footer %}<br>
-                    <em>{{ name }}</em>
-                    <br><em style="top: -24px;">{{ year }}</em>
-                    {%- endif %}
-                </div>
-
-                <div class="footer-icon-list">
-                    <a href="https://github.com/writethedocs">
-                        <img src="{{ pathto('_static/conf/images/icons/github-footer-white.svg', 1) }}" alt="GitHub" loading="lazy">
-                    </a>
-                    <a href="https://www.linkedin.com/company/write-the-docs">
-                        <img src="{{ pathto('_static/conf/images/icons/linkedin-footer-white.svg', 1) }}" alt="LinkedIn" loading="lazy">
-                    </a>
-                    <a rel="me" href="https://fosstodon.org/@writethedocs">
-                        <img src="{{ pathto('_static/conf/images/icons/mastodon-footer-white.svg', 1) }}" alt="Mastodon" loading="lazy">
-                    </a>
-                    <a href="https://www.flickr.com/photos/writethedocs/">
-                        <img src="{{ pathto('_static/conf/images/icons/flickr-footer-white.svg', 1) }}" alt="Flickr" loading="lazy">
-                    </a>
-                    <a href="{{ pathto('slack') }}">
-                        <img src="{{ pathto('_static/conf/images/icons/slack-footer-white.svg', 1) }}" alt="Slack" loading="lazy">
-                    </a>
-                </div>
+    <div class="site-footer__inner">
+        <div class="site-footer__main">
+            <div class="site-footer__brand">
+                <a href="/"><img src="{{ pathto('_static/sticker-wtd-colors.png', 1) }}" alt="Write the Docs home" width="88" height="88" loading="lazy"></a>
+                <p>
+                    {%- if conference_footer -%}
+                    Write the Docs {{ name }} {{ year }} is a conference by Write the Docs, a global community of people who care about documentation.
+                    {%- else -%}
+                    A global community of people who care about documentation.
+                    {%- endif -%}
+                </p>
             </div>
 
-            <ul>
-                <li style="color: #BCC1C3;">© {% if conference_footer %}{{ year }} {% endif %}Write the Docs</li>
-                <li>|</li>
-                <li><a href="{{ pathto('contact') }}">Contact</a></li>
-                <li>|</li>
-                <li><a href="{{ pathto('code-of-conduct') }}">Code of Conduct</a></li>
-                <li>|</li>
-                <li><a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="Creative Commons Attribution-NonCommercial-ShareAlike 4.0">License</a></li>
-            </ul>
+            <div class="site-footer__callout">
+                <h2>Stay in touch</h2>
+                <p>Talk shop with over {{ slack_members }} documentarians in Slack, and read our monthly newsletter.</p>
+                <p class="site-footer__buttons">
+                    <a href="{{ pathto('slack') }}">Join Slack</a>
+                    <a href="{{ pathto('newsletter') }}">Get the newsletter</a>
+                </p>
+            </div>
 
-            {#- Inline colours: main-2026.min.css predates this line and is frozen. #}
-            <p class="footer-edit" style="color: #BCC1C3; font-size: 14px; margin-top: 16px;">
-                Spotted a mistake? This website is open source:
+            <nav class="site-footer__links" aria-label="Footer">
+                <ul>
+                    <li><a href="{{ pathto('about/about-the-org') }}">About us</a></li>
+                    <li><a href="{{ pathto('conf/index') }}">Conferences</a></li>
+                    <li><a href="{{ pathto('sponsorship/index') }}">Sponsor us</a></li>
+                    <li><a href="{{ pathto('code-of-conduct') }}">Code of Conduct</a></li>
+                    <li><a href="{{ pathto('contact') }}">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+
+        <div class="site-footer__bottom">
+            <p>
+                © {% if conference_footer %}{{ year }} {% endif %}Write the Docs ·
+                <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="Creative Commons Attribution-NonCommercial-ShareAlike 4.0">License</a> ·
+                Spotted a mistake?
                 {% if page_source_suffix -%}
-                <a style="color: #fff; text-decoration: underline;" href="https://github.com/writethedocs/www/edit/main/docs/{{ pagename }}{{ page_source_suffix }}">edit this page on GitHub</a>.
+                <a href="https://github.com/writethedocs/www/edit/main/docs/{{ pagename }}{{ page_source_suffix }}">Edit this page on GitHub</a>
                 {%- else -%}
-                <a style="color: #fff; text-decoration: underline;" href="https://github.com/writethedocs/www">edit it on GitHub</a>.
+                <a href="https://github.com/writethedocs/www">Edit it on GitHub</a>
                 {%- endif %}
             </p>
+            <ul class="site-footer__social">
+                <li><a href="https://github.com/writethedocs"><img src="{{ pathto('_static/conf/images/icons/github-footer-white.svg', 1) }}" alt="GitHub" width="24" height="24" loading="lazy"></a></li>
+                <li><a href="https://www.linkedin.com/company/write-the-docs"><img src="{{ pathto('_static/conf/images/icons/linkedin-footer-white.svg', 1) }}" alt="LinkedIn" width="24" height="24" loading="lazy"></a></li>
+                <li><a href="https://www.flickr.com/photos/writethedocs/"><img src="{{ pathto('_static/conf/images/icons/flickr-footer-white.svg', 1) }}" alt="Flickr" width="24" height="24" loading="lazy"></a></li>
+            </ul>
         </div>
     </div>
 </footer>

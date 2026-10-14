@@ -11,6 +11,11 @@ upcoming_conferences:
 
 # The header menu. A link opens its own page; its children open in a
 # dropdown. `upcoming_conferences: true` lists the conferences above.
+#
+# List what's ongoing and has a team behind it, roughly in order of how much
+# people read it: the guides draw over half of the site's visits. When a
+# program ends, like the book club, take it out of the menu and say so on
+# its page.
 nav:
   - text: Conferences
     link: /conf/
@@ -20,19 +25,6 @@ nav:
         link: /conf/
       - text: Talk videos
         link: https://www.youtube.com/c/WritetheDocs
-  - text: Community
-    link: /about/stay-connected/
-    children:
-      - text: Slack
-        link: /slack/
-      - text: Meetups
-        link: /meetups/
-      - text: Newsletter
-        link: /newsletter/
-      - text: Book club
-        link: /book-club/
-      - text: Code of Conduct
-        link: /code-of-conduct/
   - text: Learn
     link: /guide/
     children:
@@ -46,6 +38,17 @@ nav:
         link: /surveys/
       - text: Learning resources
         link: /about/learning-resources/
+  - text: Community
+    link: /about/stay-connected/
+    children:
+      - text: Slack
+        link: /slack/
+      - text: Meetups
+        link: /meetups/
+      - text: Newsletter
+        link: /newsletter/
+      - text: Code of Conduct
+        link: /code-of-conduct/
   - text: Blog
     link: /blog/
   - text: About

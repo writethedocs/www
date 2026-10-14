@@ -87,6 +87,40 @@ $community-focus-glow: 0 0 0 3px rgba($footer-color, 0.2);
     text-transform: uppercase;
 }
 
+// On screens wider than the photos (1600px), keep the photo at its own width
+// and fade its sides into the slate, as the Portland 2026 banners do, instead
+// of stretching it until it blurs. The element's photo is its last
+// background layer.
+@mixin community-photo-fade($layers: 1) {
+    @media (min-width: 1601px) {
+        position: relative;
+        background-repeat: no-repeat;
+        @if $layers == 2 {
+            background-size: 100% 100%, 1600px auto;
+        } @else {
+            background-size: 1600px auto;
+        }
+
+        &::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 50%;
+            width: 1600px;
+            transform: translateX(-50%);
+            background: linear-gradient(to right, $footer-color, rgba($footer-color, 0) 240px,
+                rgba($footer-color, 0) 1360px, $footer-color);
+            pointer-events: none;
+        }
+
+        > * {
+            position: relative;
+            z-index: 1;
+        }
+    }
+}
+
 // A list of cards that wraps to fit, each at least $min wide.
 @mixin community-card-grid($min, $gap: 20px) {
     display: grid;
@@ -213,16 +247,15 @@ body.community {
         flex-wrap: nowrap;
     }
 
-    .community-logo,
-    .community-logo:hover {
+    // The Write the Docs stamp, which is the logo on every community page.
+    .community-logo {
         min-height: 84px;
         padding: 0;
-        color: $community-ink;
-        font-family: $secondary-font-family;
-        font-size: 19px;
-        line-height: 0.92;
-        text-align: right;
-        text-transform: uppercase;
+
+        img {
+            width: 60px;
+            height: 60px;
+        }
     }
 
     .uk-navbar-nav > li > a {
@@ -380,13 +413,14 @@ body.community {
     }
 
     .community-menu__logo {
-        display: block;
+        display: inline-block;
         margin: 0 0 20px;
-        color: $white;
-        font-family: $secondary-font-family;
-        font-size: 22px;
-        text-transform: uppercase;
-        text-decoration: none;
+
+        img {
+            display: block;
+            width: 56px;
+            height: 56px;
+        }
     }
 
     .community-search {
@@ -458,6 +492,7 @@ body.community {
     background-color: $footer-color;
     background-position: center 40%;
     background-size: cover;
+    @include community-photo-fade;
 
     .community-container {
         width: 100%;
@@ -538,34 +573,6 @@ body.community {
 
     @media (min-width: 1200px) {
         margin-top: 0;
-    }
-}
-
-// More room between the footer's wordmark and the links below it. On wide
-// screens the conference styles nudge the wordmark down past its own box,
-// so the gap has to cover that too.
-footer .footer-content > ul {
-    margin-top: 24px;
-
-    @media (min-width: 640px) {
-        margin-top: 44px;
-    }
-
-    // On phones the links wrap, so drop the "|" separators for spacing.
-    @media (max-width: 639px) {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 6px 20px;
-        padding: 0;
-
-        > li {
-            padding: 0;
-        }
-
-        > li:nth-child(even) {
-            display: none;
-        }
     }
 }
 
@@ -1214,8 +1221,11 @@ footer .footer-content > ul {
 // ---------------------------------------------------------------------------
 
 .community-hero {
+    background-color: $footer-color;
     background-position: center 30%;
     background-size: cover;
+    // Two layers: the dark tint over the photo.
+    @include community-photo-fade($layers: 2);
 
     .community-navbar {
         border-bottom: 1px solid rgba(255, 255, 255, 0.25);
@@ -1255,16 +1265,11 @@ footer .footer-content > ul {
 
 .community-hero__logo {
     justify-self: center;
-    margin: 0;
-    color: $white;
-    font-family: $secondary-font-family;
-    font-size: 48px;
-    line-height: 0.9;
-    text-align: right;
-    text-transform: uppercase;
+    width: 140px;
+    height: auto;
 
     @media (min-width: 960px) {
-        font-size: 76px;
+        width: 200px;
     }
 }
 
@@ -1709,4 +1714,38 @@ ul.newsletter-issues {
 
 .newsletter-issues__cta {
     @include community-label;
+}
+
+// The most read pages, at the top of the documentation guide
+// (docs/guide/index.rst).
+ul.guide-cards {
+    @include community-card-grid(220px, 16px);
+    margin-bottom: 32px;
+
+    a,
+    a:hover {
+        text-decoration: none;
+    }
+
+    a {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        height: 100%;
+        box-sizing: border-box;
+        padding: 18px 20px;
+        @include community-card($lift: true);
+        color: $copy-color;
+    }
+
+    strong {
+        color: $community-ink;
+        font-size: 18px;
+        line-height: 1.3;
+    }
+
+    span {
+        font-size: 15px;
+        line-height: 1.5;
+    }
 }

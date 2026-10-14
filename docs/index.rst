@@ -78,7 +78,6 @@ More from Write the Docs
 * Read the latest in our :doc:`blog </blog/index>`
 * Read our :doc:`software documentation guide </guide/index>`
 * Read our :doc:`Hiring Guide </hiring-guide/index>` to get started in the industry
-* Join our :doc:`book club </book-club/index>`
 * See all :doc:`learning resources </about/learning-resources>`
 * Learn about :doc:`our organization <about/about-the-org>`
 

@@ -65,9 +65,7 @@ Latest: The `Write the Docs Salary Survey 2025 Results </surveys/salary-survey/2
 Book Club Write-ups
 ~~~~~~~~~~~~~~~~~~~
 
-The #learn-tech-writing channel in the Write the Docs :doc:`/slack` hosts a book club. This section contains summaries of discussions.
-
-You can check out the :doc:`/book-club/index` here.
+From 2020 to 2025, the #learn-tech-writing channel in the Write the Docs :doc:`/slack` ran a book club. See :doc:`what we read and the discussion summaries </book-club/index>`.
 
 Reading List
 ~~~~~~~~~~~~
