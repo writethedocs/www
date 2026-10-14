@@ -1544,3 +1544,97 @@ ul.home-links {
         color: $main-color;
     }
 }
+
+// The blog page: _templates/community/blog.html.
+ul.blog-posts {
+    margin: 0 0 8px;
+    padding: 0;
+    list-style: none;
+
+    li {
+        display: grid;
+        grid-template-columns: 4.5em minmax(0, 1fr);
+        column-gap: 16px;
+        margin: 0;
+        padding: 8px 0;
+        border-bottom: 1px solid $community-line;
+        line-height: 1.5;
+    }
+
+    time {
+        color: $community-muted;
+        font-size: 15px;
+        font-variant-numeric: tabular-nums;
+        white-space: nowrap;
+    }
+}
+
+ul.blog-conferences {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 320px), 1fr));
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    > li {
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        padding: 20px 24px;
+        border: 1px solid $community-line;
+        border-radius: 10px;
+        background: $white;
+    }
+
+    h3 {
+        margin: 0 0 8px;
+        font-size: 19px;
+        line-height: 1.3;
+    }
+
+    // Dates with the year go above each title.
+    ul.blog-posts li {
+        display: block;
+        font-size: 16px;
+
+        time {
+            display: block;
+            font-size: 14px;
+        }
+
+        &:last-child {
+            border-bottom: 0;
+        }
+    }
+}
+
+.blog-conferences__more {
+    margin-top: auto;
+    font-size: 15px;
+    font-weight: $bold;
+}
+
+ul.blog-earlier {
+    columns: 2 260px;
+    column-gap: 40px;
+    padding-left: 20px;
+
+    li {
+        margin: 0 0 6px;
+        break-inside: avoid;
+    }
+}
+
+// The Read the Docs search window (see _static/js/community.js), in the
+// site's font and colours. The addon reads these custom properties.
+:root {
+    --readthedocs-search-font-family: #{$base-body-font-family};
+    --readthedocs-search-color: #{$copy-color};
+    --readthedocs-search-link-color: #{$community-link};
+    --readthedocs-search-result-heading-color: #{$community-ink};
+    --readthedocs-search-result-highlight-color: #{$community-accent-text};
+    --readthedocs-search-result-section-highlight-color: #{$community-accent-text};
+    --readthedocs-search-result-icon-color: #{$community-muted};
+    --readthedocs-search-backdrop-color: #{rgba($footer-color, 0.6)};
+}

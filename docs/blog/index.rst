@@ -1,8 +1,8 @@
-Blog Posts
-----------
+:template: community/blog.html
 
-.. postlist:: 300
-   :date: %B %d, %Y
-   :format: {title} - {date}
-   :list-style: circle
+Blog
+====
 
+Our monthly newsletter, updates from the community board, and our yearly
+reports. Each conference posts its announcements on its own news page, and
+the latest are below.

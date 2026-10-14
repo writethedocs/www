@@ -26,6 +26,8 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700|Bree+Serif&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ pathto('_static/conf/css/main-community.min.css', 1) }}" type="text/css">
+  {#- Lets community.js read the Read the Docs addons' settings (search). #}
+  <meta name="readthedocs-addons-api-version" content="1">
   {#- The banner is a CSS background, which browsers only find after the CSS. #}
   <link rel="preload" as="image" fetchpriority="high" href="{{ pathto(community_banner, 1) }}">
 {%- endblock %}
@@ -57,7 +59,7 @@
 {%- block relbar2 %}{% endblock %}
 
 {%- block content %}
-<main id="main-content" class="community-page">
+<div class="community-page">
   <div class="community-container">
     {%- if parents %}
     <nav class="community-breadcrumbs" aria-label="Breadcrumb">
@@ -68,7 +70,10 @@
     </nav>
     {%- endif %}
     <div class="community-columns">
-      <div class="body community-body">
+      {#- role="main", as on the conference pages, marks the content for Read
+          the Docs: its search indexes it, and its visual diff on pull request
+          previews compares it. #}
+      <div id="main-content" class="body community-body" role="main">
         {%- if ablog is defined and pagename in ablog %}
         {%- set post = ablog[pagename] %}
         <p class="community-post-meta">
@@ -89,16 +94,18 @@
         {#- The ad goes first: the "On this page" list below it is sticky, and
             would slide over anything after it as the page scrolls. #}
         <div id="ethical-ad-placement"></div>
+        {%- block rail_toc %}
         {%- if display_toc %}
         <nav class="community-toc" aria-labelledby="community-toc-title">
           <h2 id="community-toc-title">On this page</h2>
           {{ toc }}
         </nav>
         {%- endif %}
+        {%- endblock %}
       </aside>
     </div>
   </div>
-</main>
+</div>
 {%- endblock %}
 
 {%- block footer %}

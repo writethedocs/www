@@ -118,7 +118,7 @@ Conference pages specify their template via `:template: {{year}}/generic.html` (
 - `meetups.py` — `meetup-listing` directive
 - `atom_absolute.py` — Rewrites atom feed URLs to absolute
 - `build_perf.py` — Build-speed fixes: keeps the environment out of pickled doctrees, makes ablog safe for parallel reading, and parses YAML with libyaml
-- `community.py` — Loads `_data/community.yaml`, fills in the front page placeholders, and gives each community page its banner photo and current menu item
+- `community.py` — Loads `_data/community.yaml`, fills in the front page placeholders, gives each community page its banner photo and current menu item, and splits the posts for the blog page
 
 ### Styling
 
@@ -129,6 +129,16 @@ From 2027 on, the conference design lives in `_conference.scss`, and a year's fi
 ### Blog/News
 
 Uses the `ablog` extension. News posts go in `docs/conf/<city>/<year>/news/` with `.. post::` directive and `:tags: <city>-<year>` for filtering via `.. postlist::` on conference index pages.
+
+The blog page (`docs/blog/index.rst`, template `community/blog.html`) lists the community's own posts by year. Conference news gets its own listing, grouped by that `<city>-<year>` tag: the upcoming conferences in `_data/community.yaml` first, then links to earlier ones.
+
+### Read the Docs addons
+
+The site is hosted on Read the Docs, which adds its addons to every page. The community pages work with three of them:
+
+- **Search:** when the search addon is on, `_static/js/community.js` opens its search window from the header search, and leaves the "/" shortcut to it. Local builds fall back to the Sphinx search page. Search ranking and excluded pages are in `.readthedocs.yaml`.
+- **Ads:** EthicalAds fills `#ethical-ad-placement` in `layout.html`.
+- **Content root:** the page body has `role="main"`, which Read the Docs search indexes and its visual diff on pull request previews compares.
 
 ## Key Conventions
 

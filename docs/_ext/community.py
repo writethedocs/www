@@ -12,6 +12,7 @@ page which banner to show and which menu item is current.
 import os
 import re
 import zlib
+from collections import defaultdict
 
 from sphinx.errors import ConfigError
 from sphinx.util import logging
@@ -105,6 +106,8 @@ def upcoming_conference(slug, srcdir='.'):
         'name': config['name'],
         'year': year,
         'title': f"{config['name']} {year}",
+        # The tag on the conference's news posts.
+        'tag': f'{shortcode}-{year}',
         'docname': f'conf/{shortcode}/{year}/index',
         'url': f'/conf/{shortcode}/{year}/',
         'dates': dates,
@@ -156,6 +159,64 @@ def page_nav(community, pagename):
     ]
 
 
+def conference_news(tag, srcdir='.'):
+    """
+    The conference a ``<shortcode>-<year>`` tag names, with its public name and
+    news page, or None if there is no such conference.
+    """
+    match = re.fullmatch(r'([a-z]+)-(\d{4})', tag)
+    if not match:
+        return None
+    shortcode, year = match.groups()
+    for name in (f'{shortcode}-{year}-config.yaml', f'config-{shortcode}-{year}.yaml'):
+        config_file = os.path.join(srcdir, '_data', name)
+        if os.path.exists(config_file):
+            break
+    else:
+        return None
+    news = f'conf/{shortcode}/{year}/news/index'
+    if not any(os.path.exists(os.path.join(srcdir, news + ext)) for ext in ('.rst', '.md')):
+        news = f'conf/{shortcode}/{year}/index'
+    return {
+        'title': f"Write the Docs {load_yaml(config_file)['name']} {year}",
+        'docname': news,
+        'posts': [],
+    }
+
+
+def blog_listing(blog, community, srcdir='.'):
+    """
+    Split the blog's posts for the blog page.
+
+    The community's own posts are the ones outside ``conf/``, by year.
+    Conference news is grouped by the conference's ``<shortcode>-<year>`` tag,
+    the same tag its news page lists: first the upcoming conferences in
+    community.yaml, then the rest, latest news first.
+    """
+    years = defaultdict(list)
+    conferences = {}
+    for post in blog.posts:  # newest first
+        if not post.published:
+            continue
+        if not post.docname.startswith('conf/'):
+            years[post.date.year].append(post)
+        for tag in map(str, post.tags):
+            if tag not in conferences:
+                conferences[tag] = conference_news(tag, srcdir)
+            if conferences[tag]:
+                conferences[tag]['posts'].append(post)
+
+    upcoming = [
+        conferences.pop(conference['tag'], None) or conference_news(conference['tag'], srcdir)
+        for conference in community['upcoming_conferences']
+    ]
+    return {
+        'years': sorted(years.items(), reverse=True),
+        'upcoming_conferences': upcoming,
+        'earlier_conferences': [c for c in conferences.values() if c],
+    }
+
+
 def add_page_context(app, pagename, templatename, context, doctree):
     """Add ``community_banner`` and ``community_nav`` to every page's context."""
     community = context['community']
@@ -165,6 +226,8 @@ def add_page_context(app, pagename, templatename, context, doctree):
         logger.warning('banner photo %s does not exist', banner, location=pagename)
     context['community_banner'] = banner
     context['community_nav'] = page_nav(community, pagename)
+    if pagename == 'blog/index':
+        context['blog_listing'] = blog_listing(context['ablog'], community, app.srcdir)
 
 
 def setup(app):
