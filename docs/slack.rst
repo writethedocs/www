@@ -1,118 +1,34 @@
 Slack
 =====
 
-.. tip:: Due to an increase in spammers, we now have a short `signup form`_ that you must fill out to join our Slack network.
-
-Thanks for your interest in our Slack network.
-We have over {{ slack_members }} people who have joined,
-and you can be one of them.
-
 Our Slack network has lots of people hanging out and chatting about documentation.
 It's the best way to connect with our community,
 and to stay in touch with folks you've met at our conferences and meetups.
+We have over {{ slack_members }} people who have joined,
+and you can be one of them.
 
-Our most active Slack channels are listed below. 
+.. raw:: html
+
+   <div class="cta-group">
+      <a class="cta-button" href="{{ slack_form }}">Join our Slack network</a>
+   </div>
+
+Due to an increase in spammers, we now have a short `signup form`_ that you must fill out to join our Slack network.
+
+Our most active Slack channels are listed below.
 This should help you get connected to people with similar interests.
 Please also read the Slack guidelines carefully, and remember that our
 :doc:`/code-of-conduct` also applies to our Slack.
-
-If you want to get involved you can:
-
-* Fill out our `signup form`_ to join our network.
-* Feel free to send a Pull Request to update `this page`_, if you want to include other channels you enjoy.
-
-.. note::
-    Our Slack includes animated emoji, and other animations are sometimes posted.
-    If you think these may be unpleasant for you, you can `disable all animations`_
-    in your Slack client.
 
 .. _signup form: {{ slack_form }}
 .. _this page: https://github.com/writethedocs/www/blob/main/docs/slack.rst
 .. _disable all animations: https://slack.com/help/articles/228023907-Manage-animated-images-and-emoji
 
-Slack History
--------------
-
-We don't pay for our Slack, which means that the community only has access to messages from the last 90 days.
-That doesn't mean everything gets lost, though.
-Here are a few ways to preserve what you've learned for yourself and others:
-
-- React to a message with ``:suggest-for-newsletter:`` emoji to nominate it for inclusion in our next monthly newsletter.
-  Read the newsletter archives at :doc:`/newsletter` and subscribe if you want them directly in your inbox!
-- Contribute a summary to one of the Write the Docs site's :doc:`/about/learning-resources`.
-- Turn a discussion into a talk proposal for :doc:`an upcoming Write the Docs conference </conf/index>`.
-- `Save a message`__ privately in Slack.
-- Recap what you learned and share it on your own site or social media accounts. Don't forget to tag ``#writethedocs``!
-
-.. __: https://slack.com/intl/en-gb/help/articles/360042650274-Save-messages-and-files-
-
-.. admonition:: Why we don't pay for Slack
-   :class: note
-
-   The Write the Docs Slack community is free to access and we aim to keep it that way.
-   A Slack subscription is prohibitively expensive—over $10,000 per month—for a community as large as ours.
-   Even if we had such resources, upgrading Slack is not a priority
-   and many people feel a freedom in knowing that their words will disappear shortly.
-
-Other chat platforms (such as Discord)
---------------------------------------
-
-Write the Docs does not have an official presence on Discord or other chat platforms.
-
-People sometimes ask about moving the community to a different tool, like Discord, so we can access more chat history or benefit from fewer chat accounts to manage.
-We considered that, and decided not to for the following reasons:
-
-- Many workplaces restrict access to social media sites including Discord.
-  Because it's a work-related community, a lot of people access the Write the Docs Slack from their work computers alongside their employers' Slack instances.
-  They often cannot do the same for other chat platforms.
-- Migrating platforms is not a priority for the capacity of our small moderation team.
-  Our community has a *lot* of people in it - we've got over {{ slack_members }} registered members.
-  Moving an active community that large to a different platform requires a lot of attention that we believe is better spent on other tasks to serve the community.
-
-Autoresponders
---------------
-
-We have some helpful Slackbot responses that you can summon in any channel, at any time.
-
-* ``?autoresponders`` / ``?slackbot``
-
-  - Get a list of these Slackbot response triggers.
-
-* ``?invite`` / ``?join``
-
-  - Get a link you can send to a friend to invite them to the Write the Docs Slack. (You can also invite people directly from Slack by clicking **Write the Docs** > **Invite people to Write the Docs**.)
-
-* ``?conferences`` / ``?conference``
-
-  - Get information on past and future Write the Docs :doc:`/conf/index`.
-
-* ``?jobseeking`` / ``?hiring`` / ``?interview`` / ``?interviewing``
-
-  - Get information on both hiring and getting hired, including a link to the :doc:`/hiring-guide/index`.
-
-* ``?getstarted`` / ``?resources`` / ``?learn``
-
-  - We're always excited to help new people into working on documentation! This is for you if you want some resources on how to get started, including a link to some of our favorite :doc:`/about/learning-resources`.
-
-* ``?tools`` / ``?doctools`` / ``?tooloptions`` / ``?chooseatool``
-
-  - Choosing documentation tools can be tough! This provides a list of links you might find helpful when you're considering a new one.
-
-* ``?coc``
-
-  - "COC" is short for the :doc:`/code-of-conduct`. This is an easy way to get a link to it, and to summon a member of the :ref:`moderation team <moderation-team>` if you need one.
-
-* ``?mods`` / ``?moderators`` / ``?modsquad``
-
-  - Returns the members of the :ref:`moderation team <moderation-team>` if you need to ping someone directly for help.
-
-* ``?history``
-
-  - Returns the answer for one of our most frequently asked questions: why you can't access the full chat history in the Write the Docs Slack.
-
-* ``?discord``
-
-  - Returns the answer for one of our most common follow-up questions: why we don't move to a different tool like Discord.
+.. contents::
+   :local:
+   :depth: 1
+   :backlinks: none
+   :class: topic-nav
 
 Channel guide
 -------------
@@ -120,6 +36,7 @@ Channel guide
 The Write the Docs Slack has *lots* of channels.
 Some channels are widely joined, while others are more specialized.
 Here's an overview of how we use channels on Slack.
+Feel free to send a Pull Request to update `this page`_, if you want to include other channels you enjoy.
 
 Default channels
 ~~~~~~~~~~~~~~~~
@@ -190,6 +107,51 @@ If your proposal is approved, then you and your cosponsors must:
 #. Make an announcement in **#general** and channels related to the new channel's topic.
    For example, if there's a new channel for underwater basket weaving, then make an announcement like "Join us in #underwater-basket-weaving to discuss techniques, materials, and what to store in all these baskets."
 
+Autoresponders
+~~~~~~~~~~~~~~
+
+We have some helpful Slackbot responses that you can summon in any channel, at any time.
+
+* ``?autoresponders`` / ``?slackbot``
+
+  - Get a list of these Slackbot response triggers.
+
+* ``?invite`` / ``?join``
+
+  - Get a link you can send to a friend to invite them to the Write the Docs Slack. (You can also invite people directly from Slack by clicking **Write the Docs** > **Invite people to Write the Docs**.)
+
+* ``?conferences`` / ``?conference``
+
+  - Get information on past and future Write the Docs :doc:`/conf/index`.
+
+* ``?jobseeking`` / ``?hiring`` / ``?interview`` / ``?interviewing``
+
+  - Get information on both hiring and getting hired, including a link to the :doc:`/hiring-guide/index`.
+
+* ``?getstarted`` / ``?resources`` / ``?learn``
+
+  - We're always excited to help new people into working on documentation! This is for you if you want some resources on how to get started, including a link to some of our favorite :doc:`/about/learning-resources`.
+
+* ``?tools`` / ``?doctools`` / ``?tooloptions`` / ``?chooseatool``
+
+  - Choosing documentation tools can be tough! This provides a list of links you might find helpful when you're considering a new one.
+
+* ``?coc``
+
+  - "COC" is short for the :doc:`/code-of-conduct`. This is an easy way to get a link to it, and to summon a member of the :ref:`moderation team <moderation-team>` if you need one.
+
+* ``?mods`` / ``?moderators`` / ``?modsquad``
+
+  - Returns the members of the :ref:`moderation team <moderation-team>` if you need to ping someone directly for help.
+
+* ``?history``
+
+  - Returns the answer for one of our most frequently asked questions: why you can't access the full chat history in the Write the Docs Slack.
+
+* ``?discord``
+
+  - Returns the answer for one of our most common follow-up questions: why we don't move to a different tool like Discord.
+
 Guidelines
 ----------
 
@@ -198,6 +160,11 @@ People who are new to our community in particular should be assisted and welcome
 
 Our :doc:`/code-of-conduct` applies to all spaces associated with Write the Docs, which includes our Slack.
 In addition, we have several Slack-specific guidelines:
+
+.. note::
+    Our Slack includes animated emoji, and other animations are sometimes posted.
+    If you think these may be unpleasant for you, you can `disable all animations`_
+    in your Slack client.
 
 Social tips
 ~~~~~~~~~~~
@@ -341,7 +308,7 @@ Here are some channels specifically for wholesome self-promotion:
 
 Posts in those channels not meeting the posting rules may result in :ref:`moderation action <moderation-action>`, such as a warning or deletion.
 
-Reporting Issues
+Reporting issues
 ~~~~~~~~~~~~~~~~
 
 If you see a message in a public channel that needs moderator attention, you can react to it with the ``:attn-mods:`` or ``:spam:`` reacji.
@@ -376,3 +343,42 @@ Credit
 
 This concept is inspired by the `Recurse Center's Social Rules <https://www.recurse.com/manual#sub-sec-social-rules>`_.
 Thanks for the inspiration!
+
+Slack history
+-------------
+
+We don't pay for our Slack, which means that the community only has access to messages from the last 90 days.
+That doesn't mean everything gets lost, though.
+Here are a few ways to preserve what you've learned for yourself and others:
+
+- React to a message with ``:suggest-for-newsletter:`` emoji to nominate it for inclusion in our next monthly newsletter.
+  Read the newsletter archives at :doc:`/newsletter` and subscribe if you want them directly in your inbox!
+- Contribute a summary to one of the Write the Docs site's :doc:`/about/learning-resources`.
+- Turn a discussion into a talk proposal for :doc:`an upcoming Write the Docs conference </conf/index>`.
+- `Save a message`__ privately in Slack.
+- Recap what you learned and share it on your own site or social media accounts. Don't forget to tag ``#writethedocs``!
+
+.. __: https://slack.com/intl/en-gb/help/articles/360042650274-Save-messages-and-files-
+
+.. admonition:: Why we don't pay for Slack
+   :class: note
+
+   The Write the Docs Slack community is free to access and we aim to keep it that way.
+   A Slack subscription is prohibitively expensive—over $10,000 per month—for a community as large as ours.
+   Even if we had such resources, upgrading Slack is not a priority
+   and many people feel a freedom in knowing that their words will disappear shortly.
+
+Other chat platforms (such as Discord)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Write the Docs does not have an official presence on Discord or other chat platforms.
+
+People sometimes ask about moving the community to a different tool, like Discord, so we can access more chat history or benefit from fewer chat accounts to manage.
+We considered that, and decided not to for the following reasons:
+
+- Many workplaces restrict access to social media sites including Discord.
+  Because it's a work-related community, a lot of people access the Write the Docs Slack from their work computers alongside their employers' Slack instances.
+  They often cannot do the same for other chat platforms.
+- Migrating platforms is not a priority for the capacity of our small moderation team.
+  Our community has a *lot* of people in it - we've got over {{ slack_members }} registered members.
+  Moving an active community that large to a different platform requires a lot of attention that we believe is better spent on other tasks to serve the community.
