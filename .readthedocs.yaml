@@ -39,4 +39,5 @@ search:
     - 404/index.html
     # The blog's tag and archive pages, which repeat the posts.
     - blog/archive/*
+    # Sphinx's index page, which only lists other pages.
     - genindex/index.html

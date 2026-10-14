@@ -15,9 +15,9 @@ Choose what you'd like to hear about. You can unsubscribe from any email.
 
 .. raw:: html
 
-   <form class="newsletter-signup" action="https://writethedocs.us6.list-manage.com/subscribe/post?u=94377ea46d8b176a11a325d03&amp;id=dcf0ed349b&amp;f_id=00d2c2e1f0" method="post" target="_blank">
+   <form class="newsletter-signup" action="{{ community.mailing_list.action|e }}" method="post" target="_blank">
      <label for="newsletter-email">Email address</label>
-     <div class="newsletter-signup__row">
+     <div class="community-signup__form">
        <input id="newsletter-email" class="uk-input" type="email" name="EMAIL" autocomplete="email" required>
        <button class="uk-button" type="submit">Subscribe</button>
      </div>
@@ -31,7 +31,7 @@ Choose what you'd like to hear about. You can unsubscribe from any email.
        <label><input type="checkbox" name="group[14633][32]" value=""> Salary survey announcements</label>
      </fieldset>
      <!-- Bot trap from Mailchimp's embed code: people never fill it in. -->
-     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_94377ea46d8b176a11a325d03_dcf0ed349b" tabindex="-1" value=""></div>
+     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="{{ community.mailing_list.bot_field }}" tabindex="-1" value=""></div>
    </form>
 
 Latest issues

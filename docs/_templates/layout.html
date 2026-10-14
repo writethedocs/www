@@ -12,8 +12,7 @@
   - a photo banner with the page title: the page's `banner` field, or a
     default from _data/community.yaml
   - the page, with the page's sections alongside on wide screens
-  - community/signup.html: mailing list signup (not on the newsletter page,
-    which has the full form)
+  - community/signup.html: mailing list signup
   - community/sponsors.html: the sponsors of the whole site
   - shared/footer.html: the footer, shared with the conference pages
 
@@ -111,15 +110,13 @@
 {%- endblock %}
 
 {%- block footer %}
-  {%- if pagename != 'newsletter' %}
-  {% include "community/signup.html" %}
-  {%- endif %}
+  {%- block signup %}{% include "community/signup.html" %}{% endblock %}
   {% include "community/sponsors.html" %}
   {% include "shared/footer.html" %}
 
   {#- uikit.min.js includes the few icons these pages use (search, menu, close). #}
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.16.22/js/uikit.min.js"></script>
-  <script src="{{ pathto('_static/js/community.js', 1) }}"></script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.16.22/js/uikit.min.js"></script>
+  <script defer src="{{ pathto('_static/js/community.js', 1) }}"></script>
 
   <!-- 100% privacy-first analytics -->
   <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>

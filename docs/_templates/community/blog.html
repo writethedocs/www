@@ -1,6 +1,6 @@
 {#-
   The blog page, docs/blog/index.rst. Its text comes first, then the posts,
-  split by _ext/community.py (blog_listing): news from the upcoming
+  split by blog_listing() in _ext/community.py: news from the upcoming
   conferences in _data/community.yaml; the community's own posts, by year;
   and links to the news of earlier conferences.
 -#}
@@ -13,12 +13,13 @@
 {%- endmacro %}
 
 {%- block body %}
+{%- set listing = blog_listing() %}
 {{ body }}
 
 <section aria-labelledby="conference-news">
   <h2 id="conference-news">Conference news</h2>
   <ul class="blog-conferences">
-    {%- for conference in blog_listing.upcoming_conferences %}
+    {%- for conference in listing.upcoming_conferences %}
     <li>
       <h3><a href="{{ pathto(conference.docname) }}">{{ conference.title }}</a></h3>
       {%- if not conference.posts %}
@@ -37,7 +38,7 @@
   </ul>
 </section>
 
-{%- for year, posts in blog_listing.years %}
+{%- for year, posts in listing.years %}
 <section aria-labelledby="blog-{{ year }}">
   <h2 id="blog-{{ year }}">{{ year }}</h2>
   <ul class="blog-posts">
@@ -48,11 +49,11 @@
 </section>
 {%- endfor %}
 
-{%- if blog_listing.earlier_conferences %}
+{%- if listing.earlier_conferences %}
 <section aria-labelledby="earlier-conference-news">
   <h2 id="earlier-conference-news">Earlier conference news</h2>
   <ul class="blog-earlier">
-    {%- for conference in blog_listing.earlier_conferences %}
+    {%- for conference in listing.earlier_conferences %}
     <li><a href="{{ pathto(conference.docname) }}">{{ conference.title }}</a> ({{ conference.posts|length }})</li>
     {%- endfor %}
   </ul>
@@ -61,14 +62,15 @@
 {%- endblock %}
 
 {%- block rail_toc %}
+{%- set listing = blog_listing() %}
 <nav class="community-toc" aria-labelledby="community-toc-title">
   <h2 id="community-toc-title">On this page</h2>
   <ul><li><ul>
     <li><a href="#conference-news">Conference news</a></li>
-    {%- for year, posts in blog_listing.years %}
+    {%- for year, posts in listing.years %}
     <li><a href="#blog-{{ year }}">{{ year }}</a></li>
     {%- endfor %}
-    {%- if blog_listing.earlier_conferences %}
+    {%- if listing.earlier_conferences %}
     <li><a href="#earlier-conference-news">Earlier conference news</a></li>
     {%- endif %}
   </ul></li></ul>

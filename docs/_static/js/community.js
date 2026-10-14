@@ -9,13 +9,16 @@
 // On small screens the search box is at the top of the slide-in menu, so the
 // header's search button opens the menu with the search box focused.
 
-let readTheDocsSearch = null;
+const menu = document.getElementById('community-menu');
 const menuInput = document.getElementById('community-search-menu');
+const drop = document.querySelector('.community-search-drop');
+let readTheDocsSearch = null;  // the addon's search settings, once it's loaded
 
 function useReadTheDocsAddons(data) {
   if (!data.addons?.search?.enabled) return;
   readTheDocsSearch = { hotkey: Boolean(data.addons.hotkeys?.search?.enabled) };
-  if (menuInput) menuInput.readOnly = true;
+  // Read-only, so phones don't bring up a keyboard for a box you can't type in.
+  menuInput.readOnly = true;
 }
 
 // The addons announce their settings once they've loaded, and keep them for
@@ -27,83 +30,61 @@ if (window.ReadTheDocsEventData) {
   useReadTheDocsAddons(window.ReadTheDocsEventData.data());
 }
 
-function showReadTheDocsSearch() {
-  document.dispatchEvent(new CustomEvent('readthedocs-search-show'));
+// Open search the best way this page can: the Read the Docs search window;
+// on the search page, its own box; on wide screens, the box over the header
+// menu; on small ones, the slide-in menu with its search box focused.
+function showSearch() {
+  if (readTheDocsSearch) {
+    document.dispatchEvent(new CustomEvent('readthedocs-search-show'));
+    return;
+  }
+  if (typeof UIkit === 'undefined') return;  // the menus need UIkit
+  const pageInput = document.querySelector('#search-documentation ~ form input[name="q"]');
+  if (pageInput) {
+    pageInput.focus();
+  } else if (drop.parentElement.offsetParent !== null) {
+    UIkit.drop(drop).show();  // focuses the box: it has autofocus
+  } else if (UIkit.offcanvas(menu).isToggled()) {
+    menuInput.focus();
+  } else {
+    UIkit.util.once(menu, 'shown', () => menuInput.focus());
+    UIkit.offcanvas(menu).show();
+  }
 }
 
-// Wide screens: the search button opens the search box over the menu items,
-// unless the Read the Docs search is on. Listening in the capture phase runs
-// this before the box's own click handling, so it can stop it.
-document.querySelectorAll('.community-search-toggle').forEach((toggle) => {
-  toggle.addEventListener('click', (event) => {
-    if (!readTheDocsSearch) return;
-    event.preventDefault();
-    event.stopPropagation();
-    showReadTheDocsSearch();
-  }, true);
-});
+// Wide screens: the search button opens the box over the menu items by
+// itself, through UIkit. When the Read the Docs search is on, this runs
+// first (in the capture phase) and opens that instead.
+document.querySelector('.community-search-toggle').addEventListener('click', (event) => {
+  if (!readTheDocsSearch) return;
+  event.preventDefault();
+  event.stopPropagation();
+  showSearch();
+}, true);
 
-document.querySelectorAll('.community-search-open').forEach((button) => {
-  button.addEventListener('click', openMenuSearch);
-});
+// Small screens: the search button next to the menu button.
+document.querySelector('.community-search-open').addEventListener('click', showSearch);
 
-// The menu's search box opens the Read the Docs search too. It's read-only
-// then, so phones don't bring up a keyboard for a box you can't type in.
-function openSearchFromMenu(event) {
+// The menu's search box opens the Read the Docs search too. The menu closes
+// first: while it's open it keeps focus inside itself, and the search window
+// would fight it for focus.
+function searchFromMenu(event) {
   if (!readTheDocsSearch) return;
   if (event.type === 'keydown' && event.key !== 'Enter' && event.key.length !== 1) return;
   event.preventDefault();
-  if (typeof UIkit === 'undefined') {
-    showReadTheDocsSearch();
-    return;
-  }
-  // Close the menu first: while it's open it keeps focus inside itself, and
-  // the search window would fight it for focus.
-  const menu = UIkit.offcanvas('#community-menu');
-  UIkit.util.once(menu.$el, 'hidden', showReadTheDocsSearch);
-  menu.hide();
+  UIkit.util.once(menu, 'hidden', showSearch);
+  UIkit.offcanvas(menu).hide();
 }
-if (menuInput) {
-  menuInput.addEventListener('click', openSearchFromMenu);
-  menuInput.addEventListener('keydown', openSearchFromMenu);
-}
+menuInput.addEventListener('click', searchFromMenu);
+menuInput.addEventListener('keydown', searchFromMenu);
 
-function openMenuSearch() {
-  if (readTheDocsSearch) {
-    showReadTheDocsSearch();
-    return;
-  }
-  if (typeof UIkit === 'undefined') return;
-  const menu = UIkit.offcanvas('#community-menu');
-  if (menu.isToggled()) {
-    menuInput.focus();
-  } else {
-    UIkit.util.once(menu.$el, 'shown', () => menuInput.focus());
-    menu.show();
-  }
-}
-
-// Press "/" to search, as on most docs sites. Opens the search box over the
-// header menu on wide screens, or the slide-in menu on small ones. On the
-// search page it focuses the page's own search box. Sphinx's built-in "/"
-// shortcut is turned off in conf.py, because it can't open either of those.
+// Press "/" to search, as on most docs sites. Sphinx's built-in "/" shortcut
+// is turned off in conf.py, because it can't open any of these.
 document.addEventListener('keydown', (event) => {
   if (event.key !== '/' || event.ctrlKey || event.metaKey || event.altKey) return;
   const target = event.target;
   if (target.isContentEditable || ['INPUT', 'TEXTAREA', 'SELECT'].includes(target.tagName)) return;
   if (readTheDocsSearch?.hotkey) return;  // the addon handles it
-  if (typeof UIkit === 'undefined' && !readTheDocsSearch) return;
-
   event.preventDefault();
-  const pageInput = document.querySelector('#search-documentation ~ form input[name="q"]');
-  const drop = document.querySelector('.community-search-drop');
-  if (readTheDocsSearch) {
-    showReadTheDocsSearch();
-  } else if (pageInput) {
-    pageInput.focus();
-  } else if (drop && drop.parentElement.offsetParent !== null) {
-    UIkit.drop(drop).show();  // focuses the box: it has autofocus
-  } else {
-    openMenuSearch();
-  }
+  showSearch();
 });

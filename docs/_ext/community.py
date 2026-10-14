@@ -14,12 +14,12 @@ import os
 import re
 import zlib
 from collections import defaultdict
+from functools import partial
 
 from sphinx.errors import ConfigError
 from sphinx.util import logging
 
-from .button import docname_year
-from .utils import load_yaml
+from .utils import conference_config_path, load_yaml
 
 DATA_FILE = '_data/community.yaml'
 
@@ -37,7 +37,7 @@ def load_community_data(context, srcdir='.'):
     data = load_yaml(os.path.join(srcdir, DATA_FILE))
     data['home'] = front_page(data['home'], context, srcdir)
     data['upcoming_conferences'] = [
-        upcoming_conference(slug, srcdir) for slug in data['upcoming_conferences']
+        upcoming_conference(tag, srcdir) for tag in data['upcoming_conferences']
     ]
     for item in data['nav']:
         children = []
@@ -87,31 +87,48 @@ def front_page(home, context, srcdir='.'):
     return {'hero': hero, 'tiles': tiles}
 
 
-def upcoming_conference(slug, srcdir='.'):
+def conference_summary(shortcode, year, srcdir='.'):
     """
-    Summarize a conference for the front page and conference lists, from
-    ``_data/<slug>-config.yaml``.
+    A conference's public name and pages, from its config file, or None if
+    there is no such conference.
     """
-    config_file = os.path.join(srcdir, '_data', f'{slug}-config.yaml')
+    config_file = os.path.join(srcdir, conference_config_path(shortcode, year))
     if not os.path.exists(config_file):
-        raise ConfigError(
-            f'{DATA_FILE} lists the upcoming conference {slug!r}, '
-            f'but there is no {config_file}')
+        return None
     config = load_yaml(config_file)
-    year = config['year']
-    shortcode = config['shortcode']
-    # "**December 3-4, 2026**" -> "December 3-4"
-    dates = re.sub(r',\s*\d{4}$', '', config['date']['main'].replace('*', '').strip())
-    logo = f'_static/conf/images/logos/{shortcode}{year}.png'
+    root = f'conf/{shortcode}/{year}'
+    news = f'{root}/news/index'
+    if not any(os.path.exists(os.path.join(srcdir, news + ext)) for ext in ('.rst', '.md')):
+        news = f'{root}/index'
     return {
-        'name': config['name'],
-        'year': year,
-        'title': f"{config['name']} {year}",
+        'config': config,
+        'title': f"Write the Docs {config['name']} {year}",
         # The tag on the conference's news posts.
         'tag': f'{shortcode}-{year}',
-        'docname': f'conf/{shortcode}/{year}/index',
-        'url': f'/conf/{shortcode}/{year}/',
-        'dates': dates,
+        'docname': f'{root}/index',
+        'url': f'/{root}/',
+        'news_docname': news,
+    }
+
+
+def upcoming_conference(tag, srcdir='.'):
+    """
+    Summarize a conference for the front page and conference lists, from its
+    ``<shortcode>-<year>`` in community.yaml.
+    """
+    shortcode, year = tag.rsplit('-', 1)
+    conference = conference_summary(shortcode, year, srcdir)
+    if conference is None:
+        raise ConfigError(
+            f'{DATA_FILE} lists the upcoming conference {tag!r}, '
+            f'but there is no {conference_config_path(shortcode, year)}')
+    config = conference.pop('config')
+    logo = f'_static/conf/images/logos/{shortcode}{year}.png'
+    return {
+        **conference,
+        'name': config['name'],
+        'year': config['year'],
+        'dates': config['date']['short'],
         'location': f"{config['city']}, {config['local_area']}",
         # The logo shown on the front page, if the conference has one yet.
         'logo': logo if os.path.exists(os.path.join(srcdir, logo)) else None,
@@ -158,31 +175,6 @@ def page_nav(community, pagename):
     ]
 
 
-def conference_news(tag, srcdir='.'):
-    """
-    The conference a ``<shortcode>-<year>`` tag names, with its public name and
-    news page, or None if there is no such conference.
-    """
-    match = re.fullmatch(r'([a-z]+)-(\d{4})', tag)
-    if not match:
-        return None
-    shortcode, year = match.groups()
-    for name in (f'{shortcode}-{year}-config.yaml', f'config-{shortcode}-{year}.yaml'):
-        config_file = os.path.join(srcdir, '_data', name)
-        if os.path.exists(config_file):
-            break
-    else:
-        return None
-    news = f'conf/{shortcode}/{year}/news/index'
-    if not any(os.path.exists(os.path.join(srcdir, news + ext)) for ext in ('.rst', '.md')):
-        news = f'conf/{shortcode}/{year}/index'
-    return {
-        'title': f"Write the Docs {load_yaml(config_file)['name']} {year}",
-        'docname': news,
-        'posts': [],
-    }
-
-
 def blog_listing(blog, community, srcdir='.'):
     """
     Split the blog's posts for the blog page.
@@ -201,18 +193,22 @@ def blog_listing(blog, community, srcdir='.'):
             years[post.date.year].append(post)
         for tag in map(str, post.tags):
             if tag not in conferences:
-                conferences[tag] = conference_news(tag, srcdir)
+                match = re.fullmatch(r'([a-z]+)-(\d{4})', tag)
+                conferences[tag] = match and conference_summary(*match.groups(), srcdir)
             if conferences[tag]:
-                conferences[tag]['posts'].append(post)
+                conferences[tag].setdefault('posts', []).append(post)
+
+    def listing(conference, posts):
+        return {'title': conference['title'], 'docname': conference['news_docname'], 'posts': posts}
 
     upcoming = [
-        conferences.pop(conference['tag'], None) or conference_news(conference['tag'], srcdir)
-        for conference in community['upcoming_conferences']
+        listing(c, (conferences.pop(c['tag'], None) or {}).get('posts', []))
+        for c in community['upcoming_conferences']
     ]
     return {
         'years': sorted(years.items(), reverse=True),
         'upcoming_conferences': upcoming,
-        'earlier_conferences': [c for c in conferences.values() if c],
+        'earlier_conferences': [listing(c, c['posts']) for c in conferences.values() if c],
     }
 
 
@@ -245,9 +241,8 @@ def newsletter_issues(blog, env, count=3):
 
 def add_page_context(app, pagename, templatename, context, doctree):
     """
-    Add ``page_banner`` and ``community_nav`` to every page's context,
-    ``blog_listing`` to the blog page's, and ``newsletter_issues`` to the
-    newsletter page's.
+    Add ``page_banner`` and ``community_nav`` to every page's context, and the
+    functions the blog and newsletter templates call for their posts.
 
     Conference pages pick their default banners from ``photos.default`` in
     their config, which core.py adds to the context; community pages from
@@ -257,17 +252,14 @@ def add_page_context(app, pagename, templatename, context, doctree):
     photos = context.get('photos') or {}
     defaults = photos.get('default') or community['photos']['default']
     banner = page_banner(pagename, context.get('meta'), defaults)
+    if not os.path.exists(os.path.join(app.srcdir, banner)):
+        logger.warning('banner photo %s does not exist', banner, location=pagename)
     context['page_banner'] = banner
     context['community_nav'] = page_nav(community, pagename)
-    # Not conference pages before 2026: some name photos that were never
-    # added (australia-group.png, kenya-group.png).
-    year = docname_year(pagename)
-    if (year is None or year >= 2026) and not os.path.exists(os.path.join(app.srcdir, banner)):
-        logger.warning('banner photo %s does not exist', banner, location=pagename)
-    if pagename == 'blog/index':
-        context['blog_listing'] = blog_listing(context['ablog'], community, app.srcdir)
-    if pagename == 'newsletter':
-        context['newsletter_issues'] = newsletter_issues(context['ablog'], app.env)
+    # Called by community/blog.html and community/newsletter.html, once the
+    # posts of every page are known.
+    context['blog_listing'] = partial(blog_listing, context['ablog'], community, app.srcdir)
+    context['newsletter_issues'] = partial(newsletter_issues, context['ablog'], app.env)
 
 
 def setup(app):

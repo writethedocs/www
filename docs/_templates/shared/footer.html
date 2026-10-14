@@ -3,8 +3,7 @@
   pages. conference/base.html sets conference_footer, which adds the
   conference name and year to the wordmark and the year to the copyright.
 -#}
-{%- set conference_footer = conference_footer is defined and conference_footer %}
-<footer{% if cobrand is defined %} style="height: 500px;"{% endif %}>
+<footer>
     {%- if conference_footer %}
     <div class="footer-padding"></div>
     {%- endif %}

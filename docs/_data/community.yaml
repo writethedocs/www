@@ -67,6 +67,13 @@ nav_button:
   text: Join Slack
   link: /slack/
 
+# The Mailchimp list that the mailing list forms subscribe to: the band at the
+# bottom of each community page, and the newsletter page. `bot_field` is a
+# hidden field from Mailchimp's embed code that people never fill in.
+mailing_list:
+  action: https://writethedocs.us6.list-manage.com/subscribe/post?u=94377ea46d8b176a11a325d03&id=dcf0ed349b&f_id=00d2c2e1f0
+  bot_field: b_94377ea46d8b176a11a325d03_dcf0ed349b
+
 # The front page. Its prose sections ("What is Write the Docs?" and the
 # links at the end) stay in docs/index.rst.
 #
