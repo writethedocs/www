@@ -87,8 +87,9 @@ home:
   hero:
     title: A global community of people who care about documentation
     text: >-
-      Meet other documentarians at our conferences and local meetups, talk
-      shop in Slack, and read our monthly newsletter.
+      Learn from over {slack_members} documentarians, whatever your job title.
+      Ask questions in Slack, swap ideas at meetups and conferences, and help
+      us build the most welcoming community on the internet.
     # Like `buttons` in a conference config.
     buttons:
       - text: Join Slack

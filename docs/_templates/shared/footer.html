@@ -1,25 +1,66 @@
 {#-
   The dark site footer, shared by the community pages and the conference
-  pages (conference/base.html sets conference_footer). Its styles are in
-  _static/conf/scss/site-footer.scss, loaded by both, so that it lines up
-  with each page's content: the wide community column, or the narrower
-  conference one.
+  pages from 2026 on (conference/base.html sets conference_footer). Both
+  share a layout, styled by _static/conf/scss/site-footer.scss, that lines
+  up with the page's content: the wide community column or the narrower
+  conference one. What goes in it follows each footer's job:
+
+  - Community pages: join the community, through Slack and the newsletter.
+  - Conference pages: say which event this is and link its reference pages,
+    then lead to the community that runs it. The event's current asks
+    (tickets, sponsoring, videos once it's over) are already right above,
+    in the config's bottom buttons and the sponsors band, so they aren't
+    repeated here. Conference sites stay up for years, so nothing in it
+    assumes the event is still ahead.
 -#}
+{%- macro conf_link(page) -%}
+{{ pathto('conf/' ~ shortcode ~ '/' ~ year_str ~ '/' ~ page) }}
+{%- endmacro %}
 <footer class="site-footer{% if conference_footer %} site-footer--conference{% endif %}">
     {%- if conference_footer %}
     <div class="footer-padding"></div>
     {%- endif %}
     <div class="site-footer__inner">
         <div class="site-footer__main">
-            <div class="site-footer__brand">
-                <a href="/"><img src="{{ pathto('_static/sticker-wtd-colors.png', 1) }}" alt="Write the Docs home" width="88" height="88" loading="lazy"></a>
+            {%- if conference_footer %}
+            <div class="site-footer__brand site-footer__event">
+                <h2><a href="{{ conf_link('') }}">Write the Docs {{ name }} {{ year }}</a></h2>
+                <p>{{ date.short }}</p>
                 <p>
-                    {%- if conference_footer -%}
-                    Write the Docs {{ name }} {{ year }} is a conference by Write the Docs, a global community of people who care about documentation.
-                    {%- else -%}
-                    A global community of people who care about documentation.
-                    {%- endif -%}
+                    {%- if about is defined and about.venue and about.venue != 'TBD' %}
+                    {{ about.venue }}{% if city not in about.venue %}, {{ city }}{% endif %}<br>
+                    {%- elif city != local_area %}
+                    {{ city }}<br>
+                    {%- endif %}
+                    {{ local_area }}
                 </p>
+            </div>
+
+            <div class="site-footer__callout">
+                <img class="site-footer__stamp" src="{{ pathto('_static/sticker-wtd-colors.png', 1) }}" alt="" width="64" height="64" loading="lazy">
+                <h2>Part of Write the Docs</h2>
+                <p>A global community of people who care about documentation. Between conferences, talk shop with over {{ slack_members }} documentarians in Slack.</p>
+                <p class="site-footer__buttons">
+                    <a href="{{ pathto('slack') }}">Join Slack</a>
+                    <a href="{{ pathto('conf/index') }}">All conferences</a>
+                </p>
+            </div>
+
+            <nav class="site-footer__links" aria-label="Conference">
+                <ul>
+                    {%- if flaghasschedule %}
+                    <li><a href="{{ conf_link('schedule') }}">Schedule</a></li>
+                    {%- endif %}
+                    <li><a href="{{ conf_link('venue') }}">Venue</a></li>
+                    <li><a href="{{ conf_link('code-of-conduct') }}">Code of Conduct</a></li>
+                    <li><a href="{{ conf_link('mailing-list') }}">Mailing list</a></li>
+                    <li><a href="{{ conf_link('contact') }}">Contact</a></li>
+                </ul>
+            </nav>
+            {%- else %}
+            <div class="site-footer__brand">
+                <a href="/"><img class="site-footer__stamp" src="{{ pathto('_static/sticker-wtd-colors.png', 1) }}" alt="Write the Docs home" width="88" height="88" loading="lazy"></a>
+                <p>A global community of people who care about documentation.</p>
             </div>
 
             <div class="site-footer__callout">
@@ -40,6 +81,7 @@
                     <li><a href="{{ pathto('contact') }}">Contact</a></li>
                 </ul>
             </nav>
+            {%- endif %}
         </div>
 
         <div class="site-footer__bottom">
