@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/portland-2027/lightning-talks.jpg
+banner: _static/conf/images/photos/lightning-talk-boxes-53654610256.jpg
 ---
 
 # What is a Lightning Talk?
@@ -64,7 +64,7 @@ The coordinator, with staff support, selects the speakers. The speakers are anno
 - There is a countdown timer for each presentation. Speakers receive a signal when they have one minute remaining.
 - The coordinator stops speakers after five minutes.
 
-![Lightning Talks](/_static/conf/images/portland-2027/lightning-talks-inline.jpg)
+![Lightning Talks](/_static/conf/images/photos/talk-stage-wide-55259802220.jpg)
 
 ## Planning Your Lightning Talk
 

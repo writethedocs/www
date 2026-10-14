@@ -133,24 +133,17 @@ home:
 # Pages without one get one of these (`photos.default`, as in a conference's
 # config), picked by the page name so it doesn't change between builds.
 #
-# The photos in _static/conf/images/headers/community/ come from our Flickr
-# albums, cropped to 1800x600. Each one's Flickr page is
-# https://www.flickr.com/photos/writethedocs/<id>/:
-#
-#   blog 55511482445            hiring 55266138806
-#   book-club 55511482585       meetups 55248833655
-#   code-of-conduct 55246081956 newsletter 55246762140
-#   conferences 55523762940     organizer-guide 55511291168
-#   contact 55266533010         slack 54498815794
-#   contribute 55511482495      sponsors 55246237486
-#   documentarians 55264515839  surveys 55528225883
-#   guide 55246829464           team 55266368424
+# Photos for banners and pages live once in _static/conf/images/photos/, so
+# any page can reuse one. They come from our Flickr albums, and each file
+# name ends in its Flickr photo ID: the photo's page is
+# https://www.flickr.com/photos/writethedocs/<id>/. Banners are cropped to
+# 1600x533 and photos in the text to 800x533.
 #
 # Choose photos without QR codes, and where you can, without faces in
 # focus: signs, swag, boards, and the backs of the audience.
 photos:
   default:
-    - _static/conf/images/headers/community/default-audience.jpg  # 55527105337
-    - _static/conf/images/headers/community/default-auditorium.jpg  # 55248225117
-    - _static/conf/images/headers/community/default-lounge.jpg  # 55250832089
-    - _static/conf/images/headers/community/default-stickers.jpg  # 55246412281
+    - _static/conf/images/photos/audience-rows-berlin-55527105337.jpg
+    - _static/conf/images/photos/auditorium-55248225117.jpg
+    - _static/conf/images/photos/attendee-lounge-55250832089.jpg
+    - _static/conf/images/photos/stickers-and-notebooks-55246412281.jpg

@@ -1,4 +1,4 @@
-:banner: _static/conf/images/headers/community/organizer-guide.jpg
+:banner: _static/conf/images/photos/empty-chairs-berlin-55511291168.jpg
 
 ===============
 Organizer Guide

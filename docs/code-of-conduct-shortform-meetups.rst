@@ -1,4 +1,4 @@
-:banner: _static/conf/images/headers/community/code-of-conduct.jpg
+:banner: _static/conf/images/photos/welcome-sign-55246081956.jpg
 
 Code of Conduct (Meetups)
 =========================

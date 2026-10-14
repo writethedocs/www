@@ -1,4 +1,4 @@
-:banner: _static/conf/images/headers/community/contribute.jpg
+:banner: _static/conf/images/photos/writing-day-schedule-berlin-55511482495.jpg
 
 Contribute to the Write the Docs Website
 ========================================

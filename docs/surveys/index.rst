@@ -1,4 +1,4 @@
-:banner: _static/conf/images/headers/community/surveys.jpg
+:banner: _static/conf/images/photos/audience-closeup-berlin-55528225883.jpg
 
 Salary Surveys
 ==============

@@ -1,4 +1,4 @@
-:banner: _static/conf/images/headers/community/documentarians.jpg
+:banner: _static/conf/images/photos/group-2026-55264515839.jpg
 
 Documentarians
 ==============

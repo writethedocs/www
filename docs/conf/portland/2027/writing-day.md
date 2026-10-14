@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/portland-2027/writing-day.jpg
+banner: _static/conf/images/photos/writing-day-laptops-55246770841.jpg
 ---
 # What is Writing Day?
 

@@ -1,4 +1,4 @@
-:banner: _static/conf/images/headers/community/team.jpg
+:banner: _static/conf/images/photos/team-2026-55266368424.jpg
 
 Guiding Principles and Governance
 =================================

@@ -1,4 +1,4 @@
-:banner: _static/conf/images/headers/community/hiring.jpg
+:banner: _static/conf/images/photos/unconference-board-55266138806.jpg
 
 =================================
 Guide to Hiring and Getting Hired

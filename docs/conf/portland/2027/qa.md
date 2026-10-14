@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/portland-2027/qa.jpg
+banner: _static/conf/images/photos/qa-stage-55257753938.jpg
 ---
 
 # Speaker Q&A

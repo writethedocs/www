@@ -1,4 +1,4 @@
-:banner: _static/conf/images/headers/community/contact.jpg
+:banner: _static/conf/images/photos/venue-signs-55266533010.jpg
 
 Contact Us
 ==========

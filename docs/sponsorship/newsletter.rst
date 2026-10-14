@@ -1,4 +1,4 @@
-:banner: _static/conf/images/headers/community/sponsors.jpg
+:banner: _static/conf/images/photos/tote-bags-55246237486.jpg
 
 Newsletter sponsorship
 ======================

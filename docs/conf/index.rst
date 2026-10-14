@@ -1,4 +1,4 @@
-:banner: _static/conf/images/headers/community/conferences.jpg
+:banner: _static/conf/images/photos/audience-berlin-55523762940.jpg
 
 Conferences
 ===========

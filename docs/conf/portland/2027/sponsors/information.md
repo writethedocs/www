@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{ shortcode }}-{{year}}-opengraph.jpg
-banner: _static/conf/images/portland-2027/sponsors.jpg
+banner: _static/conf/images/photos/sponsor-area-55315792369.jpg
 ---
 
 # Sponsor information

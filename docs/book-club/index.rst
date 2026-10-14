@@ -1,4 +1,4 @@
-:banner: _static/conf/images/headers/community/book-club.jpg
+:banner: _static/conf/images/photos/wintergarden-berlin-55511482585.jpg
 
 ===========
  Book Club

@@ -111,7 +111,7 @@ The community pages (everything outside `conf/<city>/<year>/`) use the conferenc
 
 Conference pages specify their template via `:template: {{year}}/generic.html` (or `index.html`) metadata. From 2026 on, the templates live once in `docs/_templates/conference/`, and `docs/_templates/<year>/` holds only one-line files that point at `conference/`. To start a new year, copy the previous year's folder. The header menu is `conference/navbar.html`: one list, rendered as both the desktop bar and the phone menu, with items turned on by config flags. Earlier years keep their own full copies.
 
-Every page picks its banner photo with a `banner` field (`:banner:` at the top of a reStructuredText page, `banner:` in Markdown front matter). Pages without one get a default from `photos.default`: in a conference's config (2026 on; earlier years' templates pick at random), or in `community.yaml`. Photos from the [Write the Docs Flickr](https://www.flickr.com/photos/writethedocs/) work well; avoid ones with QR codes.
+Every page picks its banner photo with a `banner` field (`:banner:` at the top of a reStructuredText page, `banner:` in Markdown front matter). Pages without one get a default from `photos.default`: in a conference's config (2026 on; earlier years' templates pick at random), or in `community.yaml`. Photos for banners and pages live once in `docs/_static/conf/images/photos/`, so pages share them; each file name ends in its [Write the Docs Flickr](https://www.flickr.com/photos/writethedocs/) photo ID. Keep them small (banners 1600x533, photos in text 800x533), and avoid ones with QR codes or close-ups of speakers.
 
 ### Custom Sphinx Extensions (`docs/_ext/`)
 

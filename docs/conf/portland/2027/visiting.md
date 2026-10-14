@@ -12,7 +12,7 @@ Welcome to Portland, the largest city in the state of Oregon with a population o
 
 ## Where to Stay
 
-![Hotel Lucia King Bed](/_static/conf/images/portland-2027/hotel-lucia-king-bed.jpg)
+![Hotel Lucia King Bed](/_static/conf/images/photos/hotel-lucia-king-bed.jpg)
 
 The venue is located in the historic Buckman neighborhood. It is surrounded by a mixture of vintage and modern housing. There are many neighborhood options on VRBO and Airbnb.
 
@@ -49,7 +49,7 @@ There are wonderful hotels located within two miles of the venue. Many of these 
 
 ## Food and Beverages
 
-![Photo of people on the venue roof deck](/_static/conf/images/portland-2027/roof-deck-inline.jpg)
+![Photo of people on the venue roof deck](/_static/conf/images/photos/roof-deck-chat-55245881952.jpg)
 
 Snacks and beverages are included in the conference with your ticket.
 

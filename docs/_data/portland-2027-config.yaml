@@ -233,18 +233,17 @@ sponsors:
   in_kind: []
 
 
-# The photos in _static/conf/images/portland-2027/ are from Write the Docs
-# Portland 2026 at Revolution Hall, this year's venue:
-# https://www.flickr.com/photos/writethedocs/albums/72177720333452248
+# Photos are from Write the Docs Portland 2026 at Revolution Hall, this
+# year's venue, in _static/conf/images/photos/ (see _data/community.yaml).
 photos:
   default:
-    - _static/conf/images/portland-2027/unconference.jpg
-    - _static/conf/images/portland-2027/writing-day.jpg
-    - _static/conf/images/portland-2027/tickets.jpg
+    - _static/conf/images/photos/unconference-circle-55273867859.jpg
+    - _static/conf/images/photos/writing-day-laptops-55246770841.jpg
+    - _static/conf/images/photos/auditorium-day-1-55249270408.jpg
   # Beside the quotes, then beside "What is Write the Docs?".
   index:
-    - _static/conf/images/portland-2027/front-reception.jpg
-    - _static/conf/images/portland-2027/front-writing-day.jpg
+    - _static/conf/images/photos/reception-booth-55248669969.jpg
+    - _static/conf/images/photos/writing-day-table-55246793808.jpg
 
 
 # Things that change over time, listed in order of change

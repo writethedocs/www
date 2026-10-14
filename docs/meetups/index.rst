@@ -1,4 +1,4 @@
-:banner: _static/conf/images/headers/community/meetups.jpg
+:banner: _static/conf/images/photos/reception-patio-55248833655.jpg
 
 Local and virtual community groups
 ==================================

@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/portland-2027/social-events.jpg
+banner: _static/conf/images/photos/roof-deck-55246787066.jpg
 ---
 
 # Social Events

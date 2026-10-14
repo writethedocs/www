@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/portland-2027/health.jpg
+banner: _static/conf/images/photos/attendee-lounge-55250832089.jpg
 ---
 
 # Health and Safety Policy 

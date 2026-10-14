@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/portland-2027/unconference.jpg
+banner: _static/conf/images/photos/unconference-circle-55273867859.jpg
 ---
 
 # What is an Unconference?

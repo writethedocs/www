@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/portland-2027/speakers.jpg
+banner: _static/conf/images/photos/talk-stage-chart-55259717770.jpg
 ---
 
 # Call for Proposals

@@ -1,4 +1,4 @@
-:banner: _static/conf/images/headers/community/guide.jpg
+:banner: _static/conf/images/photos/writing-day-board-55246829464.jpg
 
 Software documentation guide
 ============================
