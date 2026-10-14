@@ -4,11 +4,9 @@ Newsletter & Mailing lists
 Write the Docs publishes a monthly newsletter, sharing interesting information
 and ideas that have been shared in our Slack network.
 
-.. raw:: html
+.. button-link:: #sign-up
 
-   <div class="cta-group">
-      <a class="cta-button" href="#sign-up">Subscribe</a>
-   </div>
+   Subscribe
 
 Latest newsletters
 ------------------
@@ -82,7 +80,7 @@ too, if you like):
         <div class="response" id="mce-success-response" style="display:none"></div>
       </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
         <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_94377ea46d8b176a11a325d03_dcf0ed349b" tabindex="-1" value=""></div>
-        <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+        <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe"></div>
         </div>
     </form>
     </div>
@@ -94,11 +92,9 @@ Sponsorship
 If you'd like to be featured in an edition of the newsletter as a sponsor, take a look
 at the :doc:`sponsor the newsletter </sponsorship/newsletter>` page.
 
-.. raw:: html
+.. button-link:: /sponsorship/newsletter/
 
-   <div class="cta-group">
-      <a class="cta-button" href="/sponsorship/newsletter/">Sponsor the newsletter</a>
-   </div>
+   Sponsor the newsletter
 
 Get in touch
 ------------

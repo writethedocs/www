@@ -564,7 +564,23 @@ div.body .topic-nav > ul li a:hover {
 
 /** The Mailchimp signup form where it appears in a page body, on the
     newsletter page. Scoped to div.body so the narrow sidebar copy, which has
-    its own layout, is left alone. **/
+    its own layout, is left alone. The page also loads Mailchimp's own
+    stylesheet after this one, so the rules below override its fixed sizes. **/
+
+div.body #mc_embed_signup form {
+    margin: 0;
+    padding: 0;
+}
+
+div.body #mc_embed_signup .mc-field-group {
+    width: 100%;
+    min-height: 0;
+    padding-bottom: 0;
+}
+
+div.body #mc_embed_signup .helper_text:empty {
+    display: none;
+}
 
 div.body #mc_embed_signup {
     max-width: 560px;
@@ -623,19 +639,24 @@ div.body #mc_embed_signup input[type="checkbox"] {
     flex-shrink: 0;
 }
 
+/* Matches the button-link directive (render_button in _ext/button.py), which
+   can't be used here because this is the form's submit input. */
 div.body #mc_embed_signup input[type="submit"] {
-    margin-top: 16px;
-    padding: 12px 28px;
-    background-color: #2ECC71;
-    border: 1px solid #4a4a4a;
-    border-radius: 5px;
-    color: #FFFFFF;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 38px;
+    margin: 16px 0 0;
+    padding: 5px 30px;
+    box-sizing: border-box;
+    background-color: #ea6852;
+    border: none;
+    border-radius: 6px;
+    color: #000000;
     font-family: Helvetica, Arial, sans-serif;
     font-size: 16px;
     font-weight: bold;
+    line-height: 1.2;
+    text-transform: uppercase;
     cursor: pointer;
-}
-
-div.body #mc_embed_signup input[type="submit"]:hover {
-    filter: brightness(0.95);
 }

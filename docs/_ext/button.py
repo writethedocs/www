@@ -69,7 +69,8 @@ def render_button(url, text, year=None, wrap=True, new_tab=True, contrast=False)
         background, text_color = WHITE, BLACK
     else:
         background, text_color = colors["background"], colors["text"]
-    target = ' target="_blank"' if new_tab else ""
+    # A link to a spot on the same page never wants a new tab.
+    target = ' target="_blank"' if new_tab and not url.startswith("#") else ""
     button = (
         f'<a href="{html.escape(url, quote=True)}"{target} '
         f'style="display:inline-flex; align-items:center; justify-content:center; '
