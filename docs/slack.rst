@@ -11,6 +11,8 @@ and you can be one of them.
 
    Join our Slack network
 
+.. rst-class:: button-note
+
 Due to an increase in spammers, we now have a short `signup form`_ that you must fill out to join our Slack network.
 
 Our most active Slack channels are listed below.
