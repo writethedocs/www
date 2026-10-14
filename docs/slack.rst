@@ -7,11 +7,9 @@ and to stay in touch with folks you've met at our conferences and meetups.
 We have over {{ slack_members }} people who have joined,
 and you can be one of them.
 
-.. raw:: html
+.. button-link:: {{ slack_form }}
 
-   <div class="cta-group">
-      <a class="cta-button" href="{{ slack_form }}">Join our Slack network</a>
-   </div>
+   Join our Slack network
 
 Due to an increase in spammers, we now have a short `signup form`_ that you must fill out to join our Slack network.
 
