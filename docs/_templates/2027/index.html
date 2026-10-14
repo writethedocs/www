@@ -127,6 +127,11 @@ section > h1 {
           Tickets go on sale
         </li>
         <li>
+          {# Talks are announced shortly after speakers hear back, so show the month. #}
+          <span class="key-date">{{ cfp.notification.split(' ')[0] }} {{ year }}</span>
+          Talks announced
+        </li>
+        <li>
           <span class="key-date">{{ date.short }}</span>
           Conference in {{ city }}
         </li>

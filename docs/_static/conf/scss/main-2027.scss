@@ -572,7 +572,8 @@ body .page-content {
         li {
             flex: 1;
             z-index: 0;
-            padding: 30px 8px 0;
+            padding: 30px 4px 0;
+            font-size: 16px;
             text-align: center;
 
             &::before {
