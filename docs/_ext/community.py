@@ -3,10 +3,11 @@ Template context for the community pages: everything outside
 ``conf/<city>/<year>/``.
 
 The community pages use the conference design (see ``_templates/layout.html``).
-Their header menu, banner photos, front page hero and tiles, and list of
-upcoming conferences live in ``_data/community.yaml``. This module loads that
-file once, checks that the photos and icons it names exist, and works out per
-page which banner to show and which menu item is current.
+Their header menu, default banner photos, front page hero and tiles, and
+list of upcoming conferences live in ``_data/community.yaml``. This module
+loads that file once, checks that the photos and icons it names exist, and
+works out per page which banner to show (for conference pages too) and which
+menu item is current.
 """
 
 import os
@@ -117,28 +118,26 @@ def upcoming_conference(slug, srcdir='.'):
     }
 
 
-def check_banners(app):
-    """Fail the build early if a banner in community.yaml doesn't exist."""
-    banners = app.config.html_context['community']['banners']
-    paths = [banners['home'], *banners['sections'].values(), *banners['default']]
-    missing = sorted({p for p in paths if not os.path.exists(os.path.join(app.srcdir, p))})
+def check_default_banners(app):
+    """Fail the build early if a default banner in community.yaml doesn't exist."""
+    paths = app.config.html_context['community']['photos']['default']
+    missing = sorted(p for p in paths if not os.path.exists(os.path.join(app.srcdir, p)))
     if missing:
         raise ConfigError(f'{DATA_FILE} names banner photos that do not exist: {missing}')
 
 
-def page_banner(community, pagename, meta):
-    """The photo behind a page's title."""
+def page_banner(pagename, meta, defaults):
+    """
+    The photo behind a page's title: the page's own ``banner`` field, or one
+    of ``defaults``, picked by the page name so it doesn't change between
+    builds.
+    """
     if meta and meta.get('banner'):
         return meta['banner']
-    banners = community['banners']
-    if pagename == 'index':
-        return banners['home']
-    section = pagename.split('/')[0]
-    if section in banners['sections']:
-        return banners['sections'][section]
+    if isinstance(defaults, str):
+        return defaults
     # crc32 rather than hash(), which changes between Python processes.
-    default = banners['default']
-    return default[zlib.crc32(pagename.encode()) % len(default)]
+    return defaults[zlib.crc32(pagename.encode()) % len(defaults)]
 
 
 def link_matches(link, pagename):
@@ -218,19 +217,31 @@ def blog_listing(blog, community, srcdir='.'):
 
 
 def add_page_context(app, pagename, templatename, context, doctree):
-    """Add ``community_banner`` and ``community_nav`` to every page's context."""
+    """
+    Add ``page_banner`` and ``community_nav`` to every page's context, and
+    ``blog_listing`` to the blog page's.
+
+    Conference pages pick their default banners from ``photos.default`` in
+    their config, which core.py adds to the context; community pages from
+    ``photos.default`` in community.yaml.
+    """
     community = context['community']
-    banner = page_banner(community, pagename, context.get('meta'))
-    # Conference pages have their own templates and don't show this banner.
-    if docname_year(pagename) is None and not os.path.exists(os.path.join(app.srcdir, banner)):
-        logger.warning('banner photo %s does not exist', banner, location=pagename)
-    context['community_banner'] = banner
+    photos = context.get('photos') or {}
+    defaults = photos.get('default') or community['photos']['default']
+    banner = page_banner(pagename, context.get('meta'), defaults)
+    context['page_banner'] = banner
     context['community_nav'] = page_nav(community, pagename)
+    # Not conference pages before 2026: some name photos that were never
+    # added (australia-group.png, kenya-group.png).
+    year = docname_year(pagename)
+    if (year is None or year >= 2026) and not os.path.exists(os.path.join(app.srcdir, banner)):
+        logger.warning('banner photo %s does not exist', banner, location=pagename)
     if pagename == 'blog/index':
         context['blog_listing'] = blog_listing(context['ablog'], community, app.srcdir)
 
 
 def setup(app):
-    app.connect('builder-inited', check_banners)
-    app.connect('html-page-context', add_page_context)
+    app.connect('builder-inited', check_default_banners)
+    # After core.py's handler, which adds a conference's config to the context.
+    app.connect('html-page-context', add_page_context, priority=600)
     return {'parallel_read_safe': True, 'parallel_write_safe': True}

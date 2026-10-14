@@ -238,9 +238,11 @@ photos:
     - _static/conf/images/headers/2026/unconference.jpg
     - _static/conf/images/headers/2026/writing-day.jpg
     - _static/conf/images/headers/2026/tickets.jpg
+  # From the Portland 2026 Flickr album: 55248669969 (beside the quotes) and
+  # 55246793808 (beside "What is Write the Docs?").
   index:
-    - _static/conf/images/pics/writing-day.jpg
-    - _static/conf/images/pics/reg.jpg
+    - _static/conf/images/pics/portland-2026-reception.jpg
+    - _static/conf/images/pics/portland-2026-writing-day.jpg
 
 
 # Things that change over time, listed in order of change

@@ -1,3 +1,5 @@
+:banner: _static/conf/images/headers/community/contribute.jpg
+
 Contribute to the Write the Docs Website
 ========================================
 

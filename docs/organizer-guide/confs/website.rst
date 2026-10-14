@@ -33,9 +33,9 @@ The important locations of files are:
 * ``_templates/<year>/`` and ``_templates/include/`` contain HTML or RST
   templates used to render the conference pages. This includes the
   website design, navigation and snippets used in schedule rendering.
-  From 2026 on, the design lives in ``_templates/conference/``, and the
-  ``_templates/<year>/`` folder holds that year's menus. To start a new year,
-  copy the previous year's folder and update the menus.
+  From 2026 on, the design and the header menu live in
+  ``_templates/conference/``. To start a new year, copy the previous year's
+  ``_templates/<year>/`` folder.
 * ``_data/community.yaml`` lists the upcoming conferences shown on the front
   page and the conferences page. Add a conference there once its site is up.
 

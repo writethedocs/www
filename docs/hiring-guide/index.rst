@@ -1,3 +1,5 @@
+:banner: _static/conf/images/headers/community/hiring.jpg
+
 =================================
 Guide to Hiring and Getting Hired
 =================================

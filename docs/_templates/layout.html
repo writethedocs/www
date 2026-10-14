@@ -9,7 +9,8 @@
   From top to bottom:
 
   - community/navbar.html: header menu and search, from _data/community.yaml
-  - a photo banner with the page title (banners in _data/community.yaml)
+  - a photo banner with the page title: the page's `banner` field, or a
+    default from _data/community.yaml
   - the page, with the page's sections alongside on wide screens
   - community/signup.html: mailing list signup
   - community/sponsors.html: the sponsors of the whole site
@@ -29,7 +30,7 @@
   {#- Lets community.js read the Read the Docs addons' settings (search). #}
   <meta name="readthedocs-addons-api-version" content="1">
   {#- The banner is a CSS background, which browsers only find after the CSS. #}
-  <link rel="preload" as="image" fetchpriority="high" href="{{ pathto(community_banner, 1) }}">
+  <link rel="preload" as="image" fetchpriority="high" href="{{ pathto(page_banner, 1) }}">
 {%- endblock %}
 
 {%- block body_tag %}<body class="community">{% endblock %}
@@ -45,7 +46,7 @@
   <header class="community-header">
     {{ navbar() }}
   </header>
-  <div class="community-banner" style="background-image: url('{{ pathto(community_banner, 1) }}')">
+  <div class="community-banner" style="background-image: url('{{ pathto(page_banner, 1) }}')">
     <div class="community-container">
       <h1>{{ title }}</h1>
     </div>

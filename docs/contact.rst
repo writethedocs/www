@@ -1,3 +1,5 @@
+:banner: _static/conf/images/headers/community/contact.jpg
+
 Contact Us
 ==========
 

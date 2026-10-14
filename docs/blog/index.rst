@@ -1,4 +1,5 @@
 :template: community/blog.html
+:banner: _static/conf/images/headers/community/blog.jpg
 
 Blog
 ====

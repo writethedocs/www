@@ -1,4 +1,5 @@
 {% extends "conference/base.html" %}
+{% from "conference/navbar.html" import navbar_items, offcanvas_items with context %}
 
 {% block full_title %}
 Home - Write the Docs {{ name }} {{ year }}
@@ -15,7 +16,7 @@ section > h1 {
 {% endblock %}
 
 {% block container %}
-<div class="hero" style="background: linear-gradient(rgba({{ rgb }}, 1), rgba({{ rgb }}, 0.8), rgba({{ rgb_contrast }}, 0.8)), url({{ pathto(meta['banner'], 1) }}), no-repeat;background-position: bottom;background-size: cover;">
+<div class="hero" style="background: linear-gradient(rgba({{ rgb }}, 1), rgba({{ rgb }}, 0.8), rgba({{ rgb_contrast }}, 0.8)), url({{ pathto(page_banner, 1) }}), no-repeat;background-position: bottom;background-size: cover;">
     <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar="offset: -18">
       <div class="uk-navbar-right">
         <button class="uk-navbar-toggle uk-hidden@s"  type="button" uk-navbar-toggle-icon uk-toggle="target: #offcanvas-nav"></button>
@@ -29,12 +30,12 @@ section > h1 {
                             <em style="top: -20px;">{{ year }}</em>
                         </div>
                     {% if not flaglanding %}
-                     {% include year_str + "/menu-mobile.html" %}
+                     {{ offcanvas_items() }}
                      {% endif %}
             </div>
         </div>
        {% if not flaglanding %}
-       {% include year_str + "/menu-desktop.html" %}
+       {{ navbar_items() }}
        {% endif %}
       </div>
     </nav>

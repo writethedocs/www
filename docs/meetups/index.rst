@@ -1,3 +1,5 @@
+:banner: _static/conf/images/headers/community/meetups.jpg
+
 Local and virtual community groups
 ==================================
 

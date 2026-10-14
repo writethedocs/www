@@ -1,4 +1,5 @@
 :template: community/index.html
+:banner: _static/conf/images/headers/portland-2025-group.jpg
 
 .. meta::
    :description: A series of events for technical writers,

@@ -1,6 +1,6 @@
 # Data for the community pages, which is everything outside
-# conf/<city>/<year>/. Conference pages have their own menus in
-# docs/_templates/<year>/.
+# conf/<city>/<year>/. Conference pages have their own menu in
+# docs/_templates/conference/navbar.html.
 
 # Conferences listed on the front page, the conferences page, the events
 # page, and in the header menu, soonest first. Each is the <shortcode>-<year>
@@ -127,41 +127,30 @@ home:
       icon: sponsor
       text: Reach documentarians through our conferences, newsletter, Slack and website.
 
-# Photos behind the page title. A page can pick its own with a `banner`
-# field: `:banner: _static/...` in reStructuredText, or `banner: _static/...`
-# in Markdown front matter.
-banners:
-  # The front page.
-  home: _static/conf/images/headers/portland-2025-group.jpg
-  # By the first folder of the page path, or the page name for top-level
-  # pages.
-  sections:
-    about: _static/conf/images/headers/2026/team.jpg
-    about-us: _static/conf/images/headers/2026/team.jpg
-    blog: _static/conf/images/headers/2026/news.jpg
-    book-club: _static/conf/images/headers/2025/writing-day.jpg
-    code-of-conduct: _static/conf/images/headers/2026/attendee-guide.jpg
-    code-of-conduct-response: _static/conf/images/headers/2026/attendee-guide.jpg
-    code-of-conduct-shortform-meetups: _static/conf/images/headers/2026/attendee-guide.jpg
-    conf: _static/conf/images/headers/2026/speakers.jpg
-    contact: _static/conf/images/headers/2026/registration.jpg
-    contribute: _static/conf/images/headers/2026/writing-day.jpg
-    documentarians: _static/conf/images/headers/2026/schedule.jpg
-    guide: _static/conf/images/headers/2026/writing-day.jpg
-    hiring-guide: _static/conf/images/headers/2026/convince-your-manager.jpg
-    meetups: _static/conf/images/headers/2026/social-events.jpg
-    newsletter: _static/conf/images/headers/2026/news.jpg
-    organizer-guide: _static/conf/images/headers/2025/volunteer.jpg
-    slack: _static/conf/images/headers/2025/unconference.jpg
-    sponsorship: _static/conf/images/headers/2026/sponsors.jpg
-    surveys: _static/conf/images/headers/2026/virtual.jpg
-    team: _static/conf/images/headers/2026/team.jpg
-    topics: _static/conf/images/headers/2025/lightning-talks.jpg
-    videos: _static/conf/images/headers/2026/lightning-talks.jpg
-  # Every other page gets one of these, picked by its name so it doesn't
-  # change between builds.
+# Photos behind the page title. As on the conference pages, each page picks
+# its own with a `banner` field: `:banner: _static/...` at the top of a
+# reStructuredText page, or `banner: _static/...` in Markdown front matter.
+# Pages without one get one of these (`photos.default`, as in a conference's
+# config), picked by the page name so it doesn't change between builds.
+#
+# The photos in _static/conf/images/headers/community/ come from our Flickr
+# albums, cropped to 1800x600. Each one's Flickr page is
+# https://www.flickr.com/photos/writethedocs/<id>/:
+#
+#   blog 55511482445            hiring 55266138806
+#   book-club 55511482585       meetups 55248833655
+#   code-of-conduct 55246081956 newsletter 55246762140
+#   conferences 55523762940     organizer-guide 55511291168
+#   contact 55266533010         slack 54498815794
+#   contribute 55511482495      sponsors 55246237486
+#   documentarians 55264515839  surveys 55528225883
+#   guide 55246829464           team 55266368424
+#
+# Choose photos without QR codes, and where you can, without faces in
+# focus: signs, swag, boards, and the backs of the audience.
+photos:
   default:
-    - _static/conf/images/headers/2026/schedule.jpg
-    - _static/conf/images/headers/2026/unconference.jpg
-    - _static/conf/images/headers/2026/social-events.jpg
-    - _static/conf/images/headers/2025/writing-day.jpg
+    - _static/conf/images/headers/community/default-audience.jpg  # 55527105337
+    - _static/conf/images/headers/community/default-auditorium.jpg  # 55248225117
+    - _static/conf/images/headers/community/default-lounge.jpg  # 55250832089
+    - _static/conf/images/headers/community/default-stickers.jpg  # 55246412281

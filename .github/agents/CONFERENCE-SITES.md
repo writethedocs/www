@@ -30,8 +30,6 @@ docs/
 │   │   ├── base.html              # Base template
 │   │   ├── index.html             # Home page template
 │   │   ├── generic.html           # Generic page template
-│   │   ├── menu-desktop.html      # Desktop navigation
-│   │   ├── menu-mobile.html       # Mobile navigation
 │   │   ├── speakers.rst           # Speakers list template
 │   │   └── sponsors.html          # Sponsors template
 │   └── include/                    # Reusable template components
@@ -168,17 +166,17 @@ docs/conf/[city]/[year]/
 
 #### Template Hierarchy
 From 2026 on, the templates below live once in `_templates/conference/`. Each
-`_templates/[year]/` folder holds that year's menus (`menu-desktop.html`,
-`menu-mobile.html`) and one-line files with the names content refers to
-(`generic.html`, `index.html`, `speakers.rst`, `sponsors.html`, and so on)
-that point at `conference/`. To start a new year, copy the previous year's
-folder and update its menus. The footer is `_templates/shared/footer.html`,
-shared with the community pages.
+`_templates/[year]/` folder holds one-line files with the names content
+refers to (`generic.html`, `index.html`, `speakers.rst`, `sponsors.html`, and
+so on) that point at `conference/`. To start a new year, copy the previous
+year's folder. The header menu is `_templates/conference/navbar.html`: one list,
+rendered as both the desktop bar and the phone menu, with items turned on by
+config flags. The footer is `_templates/shared/footer.html`, shared with the
+community pages.
 
 1. **Base Template** (`_templates/conference/base.html`):
    - HTML structure, head, scripts
    - Loads year-specific CSS: `main-[year].min.css`
-   - Includes navigation menus
    - Footer structure
 
 2. **Index Template** (`_templates/conference/index.html`):

@@ -1,3 +1,5 @@
+:banner: _static/conf/images/headers/community/book-club.jpg
+
 ===========
  Book Club
 ===========

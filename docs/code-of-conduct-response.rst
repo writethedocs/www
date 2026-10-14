@@ -1,3 +1,5 @@
+:banner: _static/conf/images/headers/community/code-of-conduct.jpg
+
 
 Code of Conduct Response Guide
 ==============================
