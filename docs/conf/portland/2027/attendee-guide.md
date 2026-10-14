@@ -13,6 +13,15 @@ Go to our **Registration** table! There will always be a member of our Welcome W
 
 Whether you have a question about the schedule, where to eat, or how to connect with other attendees, they are your go-to for conference questions. If they don’t know the answer, they’ll find someone who does!
 
+## Registration and Check-in
+
+Pick up your badge at the **Registration** table:
+
+- **Sunday** - 1st floor Box Office, near the main entrance
+- **Monday and Tuesday** - 2nd floor, outside the main auditorium
+
+Bringing luggage? Registration will check your bags for you.
+
 ## Welcome Wagon Tours
 
 Join us for an introduction to Write the Docs. We’ll go on a short tour of the venue and review information about the conference. While tours are designed to give first-time attendees all the information they need to feel comfortable at the conference, returning attendees often find them helpful as well. This gives everyone a chance to meet someone new. Bring any questions you may have!
@@ -111,6 +120,7 @@ Service Animals are welcome at our conference venue.
 
 ### Speaker Talks:
 - Listen! Take notes of remarkable and thoughtful ideas.
+- Ask a question! Each talk is followed by a moderated Q&A. Send in your question using the QR code, and our moderators will put it to the speaker. Virtual attendees use the same QR code.
 - After a talk, use something you heard as a conversation starter with your colleagues or even the speakers during a break.
 
 ### Writing Day:
