@@ -6,8 +6,10 @@
 -#}
 {%- extends "layout.html" %}
 
-{%- macro post_date(post, format) -%}
-<time datetime="{{ post.date.strftime('%Y-%m-%d') }}">{{ post.date.strftime(format) }}</time>
+{#- "Oct 7", or "Oct 7, 2026" with the year. Not strftime's %-d, which
+    Windows doesn't support. #}
+{%- macro post_date(post, with_year=False) -%}
+<time datetime="{{ post.date.strftime('%Y-%m-%d') }}">{{ post.date.strftime('%b') }} {{ post.date.day }}{% if with_year %}, {{ post.date.year }}{% endif %}</time>
 {%- endmacro %}
 
 {%- block body %}
@@ -24,7 +26,7 @@
       {%- endif %}
       <ul class="blog-posts">
         {%- for post in conference.posts[:3] %}
-        <li>{{ post_date(post, '%b %-d, %Y') }} <a href="{{ pathto(post.docname) }}">{{ post.title }}</a></li>
+        <li>{{ post_date(post, with_year=True) }} <a href="{{ pathto(post.docname) }}">{{ post.title }}</a></li>
         {%- endfor %}
       </ul>
       {%- if conference.posts|length > 3 %}
@@ -40,7 +42,7 @@
   <h2 id="blog-{{ year }}">{{ year }}</h2>
   <ul class="blog-posts">
     {%- for post in posts %}
-    <li>{{ post_date(post, '%b %-d') }} <a href="{{ pathto(post.docname) }}">{{ post.title }}</a></li>
+    <li>{{ post_date(post) }} <a href="{{ pathto(post.docname) }}">{{ post.title }}</a></li>
     {%- endfor %}
   </ul>
 </section>
