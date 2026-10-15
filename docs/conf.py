@@ -268,7 +268,7 @@ html_context = {
     'announcement_message': announcement_message,
 }
 
-notfound_no_urls_prefix = True
+notfound_urls_prefix = '/'
 
 
 def setup(app):
@@ -287,8 +287,24 @@ def setup(app):
             else:
                 context['pageurl'] = pageurl[:-5] + '/'  # strip .html, add /
 
+    # sphinx-notfound-page links the front page as "#" on the 404 page,
+    # because the dirhtml builder's URL for it is empty, so the logo and the
+    # Home link went nowhere. Point them at the site root instead. This runs
+    # after the extension swaps in its own pathto (priority 400).
+    def fix_404_home_links(app, pagename, templatename, context, doctree):
+        if pagename != app.config.notfound_pagename:
+            return
+        notfound_pathto = context['pathto']
+
+        def pathto(*args, **kwargs):
+            uri = notfound_pathto(*args, **kwargs)
+            return '/' if uri == '#' else uri
+
+        context['pathto'] = pathto
+
     app.connect("html-page-context", add_metadata)
     app.connect("html-page-context", fix_canonical_url)
+    app.connect("html-page-context", fix_404_home_links, priority=600)
 
     # Set up our custom jinja filters
     app.connect("builder-inited", add_jinja_filters_to_app)
