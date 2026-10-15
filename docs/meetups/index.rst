@@ -18,48 +18,48 @@ group-specific social media to share their events.
     Learn more about organizing in the `Organize a community group`_ section below.
 
 Current meetups
------------------------
+---------------
 
 Anyone is welcome to join a local or virtual Write the Docs community group. You're encouraged to attend
 events that work for your schedule and time zone.
 
 North America
--------------
+~~~~~~~~~~~~~
 
 .. meetup-listing::
     :region: North America
 
 
 South America
--------------
+~~~~~~~~~~~~~
 
 .. meetup-listing::
     :region: South America
 
 
 Europe
-------
+~~~~~~
 
 .. meetup-listing::
     :region: Europe
 
 
 Oceania
--------
+~~~~~~~
 
 .. meetup-listing::
     :region: Oceania
 
 
 Asia
-----
+~~~~
 
 .. meetup-listing::
     :region: Asia
 
 
 Africa
-------
+~~~~~~
 
 .. meetup-listing::
     :region: Africa
