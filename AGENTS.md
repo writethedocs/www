@@ -126,7 +126,7 @@ Every page picks its banner photo with a `banner` field (`:banner:` at the top o
 
 Per-year SCSS files at `docs/_static/conf/scss/main-<year>.scss` compile to `docs/_static/conf/css/main-<year>.min.css`. Uses UIKit CSS framework (via CDN). Both SCSS source and compiled CSS must be committed.
 
-From 2027 on, the conference design lives in `_conference.scss`, and a year's file only sets `$main-color` and imports it. `main-community.scss` builds the community pages from the same design in the community green, plus `_community.scss`. A change to `_conference.scss` affects every year that imports it and the community pages, so recompile all of them. `main-2026.scss` and earlier keep their own full copies.
+From 2027 on, the conference design lives in `_conference.scss`, and a year's file only sets `$main-color` and imports it. `main-community.scss` builds the community pages from the same design in navy, plus `_community.scss`; colour on those pages comes from the photos and each conference's own colours. A change to `_conference.scss` affects every year that imports it and the community pages, so recompile all of them. `main-2026.scss` and earlier keep their own full copies.
 
 ### Blog/News
 

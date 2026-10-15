@@ -1,7 +1,7 @@
 // Community pages: everything outside conf/<city>/<year>/.
 //
 // Builds on the conference design in _conference.scss, which
-// main-community.scss imports first with the community green as $main-color.
+// main-community.scss imports first with navy as $main-color.
 // Only main-community.scss imports this file, so nothing here reaches the
 // conference pages. The templates are _templates/layout.html,
 // _templates/community/*.html, and _templates/shared/footer.html.
@@ -14,8 +14,6 @@ $community-muted: #5f6368;
 $community-line: #e4e5e6;
 $community-tint: #f7f7f4;
 $community-link: $header-color;
-// The brand green is too light for text on white; this one reads at 5.4:1.
-$community-accent-text: #157a3f;
 $community-mono: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
 $community-shadow: 0 10px 30px rgba(19, 37, 48, 0.12);
 $community-focus-glow: 0 0 0 3px rgba($footer-color, 0.2);
@@ -72,7 +70,7 @@ $community-focus-glow: 0 0 0 3px rgba($footer-color, 0.2);
     }
 
     &:focus {
-        border-color: $community-accent-text;
+        border-color: $main-color;
         outline: none;
         box-shadow: $community-focus-glow;
     }
@@ -175,7 +173,7 @@ body.community {
     a:focus-visible,
     button:focus-visible,
     input:focus-visible {
-        outline: 3px solid $community-accent-text;
+        outline: 3px solid $main-color;
         outline-offset: 2px;
     }
 
@@ -343,7 +341,7 @@ body.community {
         cursor: pointer;
 
         &:hover {
-            color: $community-accent-text;
+            color: $main-color;
         }
     }
 }
@@ -749,7 +747,7 @@ body.community {
 
         &:hover,
         &:focus {
-            color: $community-accent-text;
+            color: $main-color;
             visibility: visible;
         }
     }
@@ -1627,8 +1625,8 @@ ul.blog-earlier {
     --readthedocs-search-color: #{$copy-color};
     --readthedocs-search-link-color: #{$community-link};
     --readthedocs-search-result-heading-color: #{$community-ink};
-    --readthedocs-search-result-highlight-color: #{$community-accent-text};
-    --readthedocs-search-result-section-highlight-color: #{$community-accent-text};
+    --readthedocs-search-result-highlight-color: #{$main-color};
+    --readthedocs-search-result-section-highlight-color: #{$main-color};
     --readthedocs-search-result-icon-color: #{$community-muted};
     --readthedocs-search-backdrop-color: #{rgba($footer-color, 0.6)};
 }
@@ -1669,7 +1667,7 @@ ul.blog-earlier {
         width: 18px;
         height: 18px;
         margin: 0;
-        accent-color: $community-accent-text;
+        accent-color: $main-color;
     }
 }
 
