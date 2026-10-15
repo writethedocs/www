@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/headers/2026/attendee-guide.jpg
+banner: _static/conf/images/photos/venue-signs-55266533010.jpg
 ---
 
 # Attendee Guide
@@ -94,7 +94,7 @@ We have a dedicated parents room that is available as needed. Please check in wi
 
 Service Animals are welcome at our conference venue.
 
-![Writing Day photo](/_static/conf/images/pics/2025/writing-day-3.jpg)
+![Writing Day photo](/_static/conf/images/photos/writing-day-table-55246793808.jpg)
 
 ## Tips to Have a Great Conference
 

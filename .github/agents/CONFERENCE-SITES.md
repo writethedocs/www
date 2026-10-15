@@ -30,8 +30,6 @@ docs/
 │   │   ├── base.html              # Base template
 │   │   ├── index.html             # Home page template
 │   │   ├── generic.html           # Generic page template
-│   │   ├── menu-desktop.html      # Desktop navigation
-│   │   ├── menu-mobile.html       # Mobile navigation
 │   │   ├── speakers.rst           # Speakers list template
 │   │   └── sponsors.html          # Sponsors template
 │   └── include/                    # Reusable template components
@@ -167,13 +165,21 @@ docs/conf/[city]/[year]/
 ### 2. Templates and Theming
 
 #### Template Hierarchy
-1. **Base Template** (`_templates/[year]/base.html`):
+From 2026 on, the templates below live once in `_templates/conference/`. Each
+`_templates/[year]/` folder holds one-line files with the names content
+refers to (`generic.html`, `index.html`, `speakers.rst`, `sponsors.html`, and
+so on) that point at `conference/`. To start a new year, copy the previous
+year's folder. The header menu is `_templates/conference/navbar.html`: one list,
+rendered as both the desktop bar and the phone menu, with items turned on by
+config flags. The footer is `_templates/shared/footer.html`, shared with the
+community pages.
+
+1. **Base Template** (`_templates/conference/base.html`):
    - HTML structure, head, scripts
    - Loads year-specific CSS: `main-[year].min.css`
-   - Includes navigation menus
    - Footer structure
 
-2. **Index Template** (`_templates/[year]/index.html`):
+2. **Index Template** (`_templates/conference/index.html`):
    - Extends base template
    - Hero section with logo and CTA buttons
    - About section
@@ -181,7 +187,7 @@ docs/conf/[city]/[year]/
    - News block (rendered from RST)
    - Sponsors section
 
-3. **Generic Template** (`_templates/[year]/generic.html`):
+3. **Generic Template** (`_templates/conference/generic.html`):
    - Used for standard content pages
    - Page banner with title
    - Content area
@@ -209,6 +215,19 @@ From Sphinx:
 Each year has its own SCSS file that compiles to minified CSS:
 - Source: `docs/_static/conf/scss/main-[year].scss`
 - Compiled: `docs/_static/conf/css/main-[year].min.css`
+
+From 2027 on, the styles live in `_conference.scss` and a year's file only
+sets its brand colour:
+
+```scss
+$main-color: #EA6852;
+@import "conference";
+```
+
+The community pages compile the same design from `main-community.scss`. A
+change to `_conference.scss` reaches every year that imports it and the
+community pages, so recompile all of them. 2026 and earlier keep their own
+full copies, as shown below.
 
 **SCSS Structure:**
 ```scss

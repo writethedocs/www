@@ -1,4 +1,6 @@
-Guiding Principles and Governance
+:banner: _static/conf/images/photos/team-2026-55266368424.jpg
+
+Guiding principles and governance
 =================================
 
 Write the Docs is a global community of people who care about documentation.
@@ -6,11 +8,6 @@ There is also a legal entity that exists to build and support the global communi
 The company's primary role is to manage the community's legal and business assets.
 
 This document describes the guiding principles that drive us as an organization, our governance model, and what all this means for our community members.
-
-.. contents:: Contents
-   :local:
-   :backlinks: none
-   :depth: 1
 
 Guiding Principles
 ------------------
