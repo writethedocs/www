@@ -268,7 +268,7 @@ html_context = {
     'announcement_message': announcement_message,
 }
 
-notfound_no_urls_prefix = True
+notfound_urls_prefix = '/'
 
 
 def setup(app):
