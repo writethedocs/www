@@ -139,7 +139,7 @@ def load_pretalx_resource(url, http_headers):
 
 if __name__ == '__main__':
     year='2026'
-    place="Berlin"
+    place="Australia"
     convert_to_yaml(
         year,
         series='Write the Docs '+place,

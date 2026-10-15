@@ -32,6 +32,6 @@ Resources and community
 The Sphinx community continues to create learning resources to address the steep learning curve:
 
 - `Sphinx Tutorial <https://www.sphinx-doc.org/en/master/tutorial/>`_ - Official tutorial for newcomers
-- `Read the Docs Getting Started <https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html>`_ - Step-by-step guide
+- `Read the Docs Getting Started <https://docs.readthedocs.com/platform/stable/intro/sphinx.html>`_ - Step-by-step guide
 
 Join the #sphinx channel on the Write the Docs Slack to connect with other Sphinx users and get help.

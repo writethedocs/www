@@ -6,7 +6,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 # Volunteer Information
 
 Our volunteer sign up form {% if volunteer.form_url %}is open{% else %}will open soon{% endif %}.
-We are looking for volunteers to provide support with a variety of conference roles - registration, Writing Day, Unconference, float, catering, load out, and more.
+We are looking for volunteers to provide support with a variety of conference roles - registration, Writing Day, float, catering, load out, and more.
 
 Completing this form signs you up to volunteer. We will close the form once volunteer capacity is reached. Another form will be sent out once the speaker schedule is released.
 
@@ -15,11 +15,10 @@ Each individual must volunteer for two or more 3-4 hour shifts and receives a **
 ## Apply to Volunteer
 
 {% if volunteer.form_url %}
-<div class="announcement" style="background-color:white;">
-    <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ volunteer.form_url }}">Sign up to be a volunteer</a>
-    </div>
-</div>
+```{button-link} {{ volunteer.form_url }}
+:year: {{ year }}
+Sign up to be a volunteer
+```
 {% endif %}
 
 ![Volunteer](/_static/conf/images/pics/2025/volunteer.jpg)
@@ -47,7 +46,7 @@ Each individual must volunteer for two or more 3-4 hour shifts and receives a **
 
 Unfortunately, we cannot offer travel assistance to volunteers. We encourage you to apply for the Opportunity Grant. [View grant application here!](https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/) 
 
-Contact katie@writethedocs.org with any additional questions.
+Contact swapnil@writethedocs.org with any additional questions.
 
 ## Volunteer Sign Up Form
 

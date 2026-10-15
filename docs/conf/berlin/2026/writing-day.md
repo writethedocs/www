@@ -18,11 +18,10 @@ Attendees can lead a Writing Day project or join and contribute to someone else'
 More details are below. No additional sign up is required.{% if writing_day.url %} Ready to submit a Writing Day project? Click the link below.{% endif %}
 
 {% if writing_day.url %}
-<div class="announcement" style="background-color:white;">
-    <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ writing_day.url }}">Submit Your Writing Day Project</a>
-    </div>
-</div>
+```{button-link} {{ writing_day.url }}
+:year: {{ year }}
+Submit Your Writing Day Project
+```
 {% endif %}
 
 ## Writing Day Schedule
@@ -64,11 +63,10 @@ Leading a project at Writing Day is a wonderful opportunity to engage with docum
 **If you submit your project by {{ writing_day.project_deadline }}, we will share your project in a blog post and email with our attendees before the conference.**
 
 {% if writing_day.url %}
-<div class="announcement" style="background-color:white;">
-    <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ writing_day.url }}">Submit Your Writing Day Project</a>
-    </div>
-</div>
+```{button-link} {{ writing_day.url }}
+:year: {{ year }}
+Submit Your Writing Day Project
+```
 {% endif %}
 
 Walk-on projects are always welcome. You are still more than welcome to bring a project the day of and announce it during the actual Writing Day.

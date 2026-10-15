@@ -18,11 +18,10 @@ Write the Docs {{ city }} is a **three day conference** held on {{ date.short }}
 
 {% if flagrunofshow %}
 
-<div class="announcement" style="background-color:white;">
-    <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="/conf/{{shortcode}}/{{year}}/sponsors/information/">Sponsor information</a>
-    </div>
-</div>
+```{button-link} /conf/{{shortcode}}/{{year}}/sponsors/information/
+:year: {{ year }}
+Sponsor information
+```
 
 If you're an existing sponsor looking for next steps, check out our Sponsor information page.
 
@@ -161,11 +160,10 @@ All packages can be customized, so let us know what you need!
 </tbody>
 </table>
 
-<div class="announcement" style="background-color:white;">
-    <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="mailto:sponsorship@writethedocs.org?subject=Sponsoring%20Write%20the%20Docs%20{{city}}%20{{year}}">Email us about sponsoring</a>
-    </div>
-</div>
+```{button-link} mailto:sponsorship@writethedocs.org?subject=Sponsoring%20Write%20the%20Docs%20{{city}}%20{{year}}
+:year: {{ year }}
+Email us about sponsoring
+```
 
 ### Sponsorship details
 
@@ -323,11 +321,10 @@ For more information on getting the most out of your sponsorship, see our [Spons
 
 Please direct all inquiries to our sponsorship team at <sponsorship@writethedocs.org>.
 
-<div class="announcement" style="background-color:white;">
-    <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="mailto:sponsorship@writethedocs.org?subject=Sponsoring%20Write%20the%20Docs%20{{city}}%20{{year}}">Email our sponsorship team</a>
-    </div>
-</div>
+```{button-link} mailto:sponsorship@writethedocs.org?subject=Sponsoring%20Write%20the%20Docs%20{{city}}%20{{year}}
+:year: {{ year }}
+Email our sponsorship team
+```
 
 ```{raw} html
 <script>

@@ -14,6 +14,7 @@ The {{city}} conference is just over six weeks away, and we're busy getting read
 You've already seen our list of awesome speakers; now we're announcing our [full conference schedule](/conf/portland/{{year}}/schedule/) so you know when they will be presenting!
 
 ```{button-link} https://ti.to/writethedocs/write-the-docs-portland-2026
+:year: {{ year }}
 Buy your ticket
 ```
 

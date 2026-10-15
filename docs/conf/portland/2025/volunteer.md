@@ -14,11 +14,10 @@ Each individual must volunteer two assigned 3-4   for two or more 3-4 hour shift
 
 ## Apply to Volunteer
 
-<div class="announcement" style="background-color:white;">
-    <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="https://docs.google.com/forms/d/e/1FAIpQLSeO5JMVVn1F2NN6keihd0qrLRnytaCMyBAefBjWGW_sz0Iwwg/viewform?usp=sf_link">Sign up to be a volunteer</a>
-    </div>
-</div>
+```{button-link} https://docs.google.com/forms/d/e/1FAIpQLSeO5JMVVn1F2NN6keihd0qrLRnytaCMyBAefBjWGW_sz0Iwwg/viewform?usp=sf_link
+:year: {{ year }}
+Sign up to be a volunteer
+```
 
 ![Volunteer](/_static/conf/images/pics/2025/volunteer.jpg)
 

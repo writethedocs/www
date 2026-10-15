@@ -15,6 +15,7 @@ Write the Docs {{ city }} is coming up on **{{ date.short }}**, and today we're 
 You've already seen our list of awesome speakers; now you can see when they will be presenting, and start planning your time across Writing Day, the main talks, Unconference, and Lightning Talks.
 
 ```{button-link} https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}
+:year: {{ year }}
 Buy your ticket
 ```
 

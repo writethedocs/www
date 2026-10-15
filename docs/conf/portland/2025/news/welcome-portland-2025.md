@@ -39,15 +39,10 @@ The website is full of wonderful information about the conference, venue, and Po
 
 We're opening up the Monday Unconference sign-ups today! We're doing this because Unconferences are amazing ways to foster connection within our community, and we hope this gives more visibility to the earlier Monday slots. [Learn more about the Unconference here](https://www.writethedocs.org/conf/portland/2025/unconference/).
 
-<div style="margin: 2em 0;">
-<table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
-<tr>
-  <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-     <a href="https://docs.google.com/spreadsheets/d/1Yyo2V5Xzwz7KhF4xkEmGNFNHld7TEUG7VfitMzM_Ohc/edit?usp=sharing" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Sign up to Lead a Monday Unconference</a>
-  </td>
-</tr>
-</table>
-</div>
+```{button-link} https://docs.google.com/spreadsheets/d/1Yyo2V5Xzwz7KhF4xkEmGNFNHld7TEUG7VfitMzM_Ohc/edit?usp=sharing
+:year: {{ year }}
+Sign up to Lead a Monday Unconference
+```
 
 For those who are new to Unconferences or nervous about what makes a "good" topic, we have a vast range of topics and vibes every year. If you need some inspiration, consider any of these:
 
@@ -61,15 +56,10 @@ And as always, sign-ups are welcome during the conference.
 
 We're also opening up Monday Lightning Talk submissions. Lightning Talks are a wonderful way to share an idea, concept, or piece of information you find interesting, in an informal five-minute talk. Similar to above, we hope that by opening up Lightning Talks early, this provides more time to ideate and to submit your talk before the conference. [Learn more about giving a Lightning Talk here.](https://www.writethedocs.org/conf/portland/2025/lightning-talks/)
 
-<div style="margin: 2em 0;">
-<table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
-<tr>
-  <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-     <a href="https://docs.google.com/forms/d/e/1FAIpQLSc9Op0AImTVbHoX4yi_AViNpCvE_Id-E_Q2-y3THQ7NxXW5MA/viewform?usp=sharing" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Submit your Monday Lightning Talk</a>
-  </td>
-</tr>
-</table>
-</div>
+```{button-link} https://docs.google.com/forms/d/e/1FAIpQLSc9Op0AImTVbHoX4yi_AViNpCvE_Id-E_Q2-y3THQ7NxXW5MA/viewform?usp=sharing
+:year: {{ year }}
+Submit your Monday Lightning Talk
+```
 
 ```{figure} /_static/conf/images/headers/portland-2024-all-speakers.jpg
 ```

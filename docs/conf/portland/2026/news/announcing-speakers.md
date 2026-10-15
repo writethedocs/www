@@ -14,6 +14,7 @@ Our {{year}} {{city}} conference is under three months away, and we can't wait t
 The big news today is that our speaker lineup is here! Check out the list of speakers and their talks below, and get ready for another year in Portland.
 
 ```{button-link} https://ti.to/writethedocs/write-the-docs-portland-2026
+:year: {{ year }}
 Buy your ticket
 ```
 
