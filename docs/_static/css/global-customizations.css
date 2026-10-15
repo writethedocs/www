@@ -561,3 +561,103 @@ div.body .topic-nav > ul li a:hover {
     background-color: #FAFCFA;
     text-decoration: none;
 }
+
+/** The Mailchimp signup form where it appears in a page body, on the
+    newsletter page. Scoped to div.body so the narrow sidebar copy, which has
+    its own layout, is left alone. The page also loads Mailchimp's own
+    stylesheet after this one, so the rules below override its fixed sizes. **/
+
+div.body #mc_embed_signup form {
+    margin: 0;
+    padding: 0;
+}
+
+div.body #mc_embed_signup .mc-field-group {
+    width: 100%;
+    min-height: 0;
+    padding-bottom: 0;
+}
+
+div.body #mc_embed_signup .helper_text:empty {
+    display: none;
+}
+
+div.body #mc_embed_signup {
+    max-width: 560px;
+    margin: 1.5em 0;
+    padding: 20px 24px;
+    border: 1px solid #E2E2DC;
+    border-radius: 6px;
+    background: #FAFAF8;
+}
+
+div.body #mc_embed_signup label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+div.body #mc_embed_signup input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+div.body #mc_embed_signup .input-group {
+    margin-top: 20px;
+}
+
+div.body #mc_embed_signup .input-group ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0;
+}
+
+div.body #mc_embed_signup .input-group li {
+    display: flex;
+    align-items: center;
+    margin: 0 0 10px;
+    padding-left: 0;
+}
+
+div.body #mc_embed_signup .input-group li::marker {
+    content: none;
+}
+
+div.body #mc_embed_signup .input-group label {
+    margin: 0;
+    font-weight: normal;
+}
+
+div.body #mc_embed_signup input[type="checkbox"] {
+    margin-right: 12px;
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+}
+
+/* Matches the button-link directive on community pages (render_button and
+   COMMUNITY_COLORS in _ext/button.py), which can't be used here because this
+   is the form's submit input. */
+div.body #mc_embed_signup input[type="submit"] {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 38px;
+    margin: 16px 0 0;
+    padding: 5px 30px;
+    box-sizing: border-box;
+    background-color: #2ecc71;
+    border: none;
+    border-radius: 6px;
+    color: #000000;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.2;
+    text-transform: uppercase;
+    cursor: pointer;
+}
