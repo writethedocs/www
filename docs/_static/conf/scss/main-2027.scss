@@ -495,6 +495,117 @@ body .page-content {
 
 }
 
+.key-dates {
+    padding: 40px 0;
+
+    h2 {
+        text-align: center;
+        margin-bottom: 32px;
+    }
+
+    // Stacked on small screens: a vertical line with a dot per date.
+    .key-dates-list {
+        list-style: none;
+        margin: 0 auto;
+        padding: 0;
+        max-width: 360px;
+
+        li {
+            position: relative;
+            padding: 0 0 24px 32px;
+            color: $copy-color;
+            font-size: 18px;
+
+            &::before {
+                content: "";
+                position: absolute;
+                left: 0;
+                top: 4px;
+                width: 14px;
+                height: 14px;
+                border-radius: 50%;
+                background-color: $main-color;
+            }
+
+            &::after {
+                content: "";
+                position: absolute;
+                left: 6px;
+                top: 18px;
+                bottom: 0;
+                width: 2px;
+                background-color: rgba($main-color, 0.35);
+            }
+
+            &:last-child {
+                padding-bottom: 0;
+
+                &::after {
+                    display: none;
+                }
+            }
+        }
+
+        a {
+            color: $font-black;
+            text-decoration: underline;
+            text-decoration-color: $main-color;
+        }
+    }
+
+    .key-date {
+        display: block;
+        color: $font-black;
+        font-size: 14px;
+        font-weight: $bold;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+    }
+}
+
+// Side by side on wider screens: a horizontal line through the dots.
+@media (min-width: 640px) {
+    .key-dates .key-dates-list {
+        display: flex;
+        max-width: none;
+
+        li {
+            flex: 1;
+            z-index: 0;
+            padding: 30px 4px 0;
+            font-size: 16px;
+            text-align: center;
+
+            &::before {
+                left: 50%;
+                top: 0;
+                margin-left: -7px;
+            }
+
+            &::after,
+            &:last-child::after {
+                display: block;
+                left: 0;
+                right: 0;
+                top: 6px;
+                bottom: auto;
+                width: auto;
+                height: 2px;
+                z-index: -1;
+            }
+
+            // Run the line from the first dot to the last, not edge to edge.
+            &:first-child::after {
+                left: 50%;
+            }
+
+            &:last-child::after {
+                right: 50%;
+            }
+        }
+    }
+}
+
 .schedule-overview {
     background-color: #f7f7f7;
     text-align: center;
