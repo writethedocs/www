@@ -76,6 +76,11 @@ section > h1 {
     </div>
   </div><!-- end hero -->
 
+  {#- role="main", as on the other conference pages, marks the page's content
+      for Read the Docs search and the visual diff on pull request previews.
+      The hero above holds the menu, so it stays out. #}
+  <div role="main">
+
   {% if flagcancelled %}
 
   <div class="announcement">
@@ -279,5 +284,6 @@ section > h1 {
       {{ body }}
     {% endblock body %}
   {% endif %}
+  </div>
 
 {% endblock container %}
