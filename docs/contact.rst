@@ -22,10 +22,7 @@ Stay in touch
 Follow us
 ---------
 
-* `LinkedIn <https://www.linkedin.com/company/write-the-docs>`_, `Bluesky <https://bsky.app/profile/writethedocs.bsky.social>`_ and `Mastodon <https://fosstodon.org/@writethedocs>`_: news and announcements.
-* `YouTube <https://www.youtube.com/c/WritetheDocs>`_: talks from every conference.
-* `Flickr <https://www.flickr.com/photos/writethedocs/albums>`_: photos from every conference.
-* `GitHub <https://github.com/writethedocs>`_: the source for this website. Suggest a change to any page.
+{% include "social-accounts.rst" %}
 
 While you wait
 --------------

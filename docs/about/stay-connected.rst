@@ -7,20 +7,12 @@ Stay Connected
    :maxdepth: 2
    :hidden:
 
-   /newsletter
    /slack
+   /meetups/index
+   /newsletter
+   /code-of-conduct
    /bipoc
    /job-board
-   /blog/index
-
-Mailing List
-~~~~~~~~~~~~
-
-We have mailing lists for our monthly newsletter,
-as well as announcements for our North American, European, Australian, and Atlantic conferences.
-They are low traffic, and only send occasional community and event updates.
-
-You can sign up on our :doc:`/newsletter` page.
 
 Slack
 ~~~~~
@@ -32,6 +24,29 @@ so we recommend nominating substantial items of interest for the newsletter,
 or contributing them to our :doc:`/about/learning-resources`.
 The :doc:`/slack` page has more ways to preserve what you've learned.
 
+Our **#bipoc** channel is a space for :doc:`/bipoc` to support one another.
+
+Meetups
+~~~~~~~
+
+We have meetups in multiple cities every month. To find a meetup near you, take a look at the :doc:`/meetups/index` page.
+
+If you want to start a new meetup, our :doc:`/organizer-guide/meetups/starting` page has the information that you need.
+
+Newsletter and Mailing Lists
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We have mailing lists for our monthly newsletter,
+as well as announcements for our North American, European, Australian, and Atlantic conferences.
+They are low traffic, and only send occasional community and event updates.
+
+You can sign up on our :doc:`/newsletter` page.
+
+Code of Conduct
+~~~~~~~~~~~~~~~
+
+We believe strongly in providing a welcoming and inclusive community. You can read our :doc:`/code-of-conduct` to better understand what we expect in our online and in-person spaces.
+
 Job Postings
 ~~~~~~~~~~~~
 
@@ -41,22 +56,15 @@ We also publicise job posts in our newsletter,
 which goes out to over {{ newsletter_subs }} recipients.
 So you can also stay in the loop that way!
 
-Blog
-~~~~~
-
-Check out our :doc:`/blog/index` to see updates from the Community. These will also be sent to the :doc:`/newsletter`.
-
 Social Media
 ~~~~~~~~~~~~
 
 Follow us for community news and event announcements:
 
-* `LinkedIn <https://www.linkedin.com/company/write-the-docs>`_ — our primary social media presence
-* `Bluesky <https://bsky.app/profile/writethedocs.bsky.social>`_
-* `Mastodon <https://fosstodon.org/@writethedocs>`_
+{% include "social-accounts.rst" %}
 
 Write to Us
 ~~~~~~~~~~~
 
 Have any questions, concerns, or comments about our work?
-Feel free to reach out at support@writethedocs.org.
+Our :doc:`/contact` page lists the best ways to reach us.

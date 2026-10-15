@@ -164,12 +164,28 @@ def link_matches(link, pagename):
     return f"/{pagename.removesuffix('/index')}/".startswith(link)
 
 
-def page_nav(community, pagename):
-    """The header menu, with the item that covers this page marked current."""
+def toctree_ancestors(relations, pagename):
+    """The pages above this one in the toctree, nearest first."""
+    ancestors = []
+    parent = relations.get(pagename, [None])[0]
+    while parent and parent not in ancestors:
+        ancestors.append(parent)
+        parent = relations.get(parent, [None])[0]
+    return ancestors
+
+
+def page_nav(community, pagename, ancestors=()):
+    """
+    The header menu, with the item that covers this page marked current: the
+    item whose links cover the page, or a page above it in the toctree, such
+    as its section's page.
+    """
+    pages = [pagename, *ancestors]
     return [
         {**item, 'current': any(
-            link_matches(link, pagename)
+            link_matches(link, page)
             for link in [item['link'], *(child['link'] for child in item['children'])]
+            for page in pages
         )}
         for item in community['nav']
     ]
@@ -268,7 +284,8 @@ def add_page_context(app, pagename, templatename, context, doctree):
     if not os.path.exists(os.path.join(app.srcdir, banner)):
         logger.warning('banner photo %s does not exist', banner, location=pagename)
     context['page_banner'] = banner
-    context['community_nav'] = page_nav(community, pagename)
+    ancestors = toctree_ancestors(getattr(app.builder, 'relations', {}), pagename)
+    context['community_nav'] = page_nav(community, pagename, ancestors)
     # Called by community/blog.html and community/newsletter.html, once the
     # posts of every page are known.
     context['blog_listing'] = partial(blog_listing, context['ablog'], community, app.srcdir)

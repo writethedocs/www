@@ -16,7 +16,7 @@ Most read
 
 .. raw:: html
 
-   <ul class="guide-cards">
+   <ul class="link-cards">
      <li><a href="docs-as-code/">
        <strong>Docs as code</strong>
        <span>Write and publish your docs with the same tools as your code: issue trackers, version control, plain text files, code review and automated tests.</span>

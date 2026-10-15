@@ -1749,9 +1749,10 @@ ul.newsletter-archive {
     font-variant-numeric: tabular-nums;
 }
 
-// The most read pages, at the top of the documentation guide
-// (docs/guide/index.rst).
-ul.guide-cards {
+// Cards that link to pages, each with a title and a line about it: the
+// documentation guide's most read pages (docs/guide/index.rst) and the
+// learning resources (docs/about/learning-resources.rst).
+ul.link-cards {
     @include community-card-grid(220px, 16px);
     margin-bottom: 32px;
 

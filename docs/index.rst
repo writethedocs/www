@@ -59,8 +59,8 @@ What is Write the Docs?
       to be a member of our community. This can be programmers, tech writers, developer advocates,
       customer support, marketers, and anyone else who wants people to have great experiences with software.
 
-      Since starting in Portland, Oregon in 2013, we've run conferences around the world,
-      and :doc:`volunteers </about/about-the-org>` keep everything going.
+      Since starting in Portland, Oregon in 2013, we've run conferences around the world.
+      Meet the :doc:`team </team>` that keeps everything going.
 
    .. raw:: html
 
@@ -81,26 +81,21 @@ More from Write the Docs
 * See all :doc:`learning resources </about/learning-resources>`
 * Learn about :doc:`our organization <about/about-the-org>`
 
-.. The header menu comes from _data/community.yaml, so these toctrees only
-   register the pages; they don't render anything.
+.. The first toctree lists the site's sections, in the header menu's order.
+   Each section's page lists its own pages in a toctree, which gives every
+   page its breadcrumbs and its current item in the header menu. The menu
+   itself comes from _data/community.yaml. The second toctree registers
+   every other page. Neither renders anything.
 
 .. toctree::
    :hidden:
-   :glob:
    :maxdepth: 1
 
    conf/index
-   slack
-   meetups/index
-   newsletter
-   topics
+   about/learning-resources
+   about/stay-connected
    blog/index
-   guide/index
-   surveys/index
-   hiring-guide/index
-   book-club/index
-   sponsorship/index
-   about/*
+   about/about-the-org
 
 .. toctree::
    :hidden:

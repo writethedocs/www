@@ -11,7 +11,9 @@ About Our Organization
    /team
    /origin-story
    /documentarians
-   /code-of-conduct
+   /sponsorship/index
+   /contribute
+   /style-guide
    /contact
 
 
@@ -32,11 +34,16 @@ Origin Story
 
 If you're new to the community and have interest in our history, check out the :doc:`/origin-story`. You can also read about how we came to call ourselves :doc:`/documentarians`.
 
+Sponsorship
+~~~~~~~~~~~
 
-Code of Conduct
-~~~~~~~~~~~~~~~
+Find ways to connect with our community on the :doc:`/sponsorship/index` pages of our site.
+Pick a sponsorship level and perks that suit you. We would love your help in supporting our community.
 
-We believe strongly in providing a welcoming and inclusive community. You can read our :doc:`/code-of-conduct` to better understand what we expect in our online and in-person spaces.
+Contribute
+~~~~~~~~~~
+
+This website is written by the community. To fix a mistake or add to a guide, see :doc:`/contribute`, and our :doc:`/style-guide` for how we write.
 
 Contact Us
 ~~~~~~~~~~

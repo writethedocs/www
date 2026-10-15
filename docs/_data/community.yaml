@@ -2,15 +2,18 @@
 # conf/<city>/<year>/. Conference pages have their own menu in
 # docs/_templates/conference/navbar.html.
 
-# Conferences listed on the front page, the conferences page, the events
-# page, and in the header menu, soonest first. Each is the <shortcode>-<year>
+# Conferences listed on the front page, the conferences page and in the
+# header menu, soonest first. Each is the <shortcode>-<year>
 # of a conference config file in this directory.
 upcoming_conferences:
   - australia-2026
   - portland-2027
 
-# The header menu. A link opens its own page; its children open in a
-# dropdown. `upcoming_conferences: true` lists the conferences above.
+# The header menu. Each item links to its section's page, which lists all of
+# the section's pages; the sections and their pages are the toctrees in
+# docs/index.rst and in each section's page. Hover or focus an item to open
+# its dropdown, which lists the section's most read pages, not the section
+# page itself. `upcoming_conferences: true` lists the conferences above.
 #
 # List what's ongoing and has a team behind it, roughly in order of how much
 # people read it: the guides draw over half of the site's visits. When a
@@ -21,12 +24,10 @@ nav:
     link: /conf/
     children:
       - upcoming_conferences: true
-      - text: All conferences
-        link: /conf/
       - text: Talk videos
         link: https://www.youtube.com/c/WritetheDocs
   - text: Learn
-    link: /guide/
+    link: /about/learning-resources/
     children:
       - text: Documentation guide
         link: /guide/
@@ -36,8 +37,6 @@ nav:
         link: /topics/
       - text: Salary survey
         link: /surveys/
-      - text: Learning resources
-        link: /about/learning-resources/
   - text: Community
     link: /about/stay-connected/
     children:
@@ -54,8 +53,6 @@ nav:
   - text: About
     link: /about/about-the-org/
     children:
-      - text: About us
-        link: /about/about-the-org/
       - text: Team
         link: /team/
       - text: Sponsor us

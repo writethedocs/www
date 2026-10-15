@@ -7,7 +7,8 @@ Site map
    :titlesonly:
    :includehidden:
 
-   about/events-activities
+   conf/index
    about/learning-resources
    about/stay-connected
+   blog/index
    about/about-the-org
