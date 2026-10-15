@@ -103,3 +103,7 @@ The approach has been presented at several other conferences or just video casts
 * I'd rather be writing: Tom Johnson: `Docs as code tools and workflows presentation <https://www.youtube.com/watch?v=Z3e_38WS-2Q>`_
 * Greach, Madrid, Spain: Ralf D. Müller: `Docs as code: arc42, AsciiDoc, Gradle & Co combined <https://www.youtube.com/watch?v=GkXpe-tZtNg>`_
 * FrOSCon, Sankt Augustin, Germany: Christoph Stoettner: `Documentation with any Editor <https://media.ccc.de/v/froscon2018-2192-documentation_with_any_editor>`_
+
+.. seealso::
+
+   Browse talks and newsletter articles about :ref:`docs as code <topics:Docs-as-code>` in our content archive.
