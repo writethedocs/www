@@ -1,5 +1,5 @@
 :template: community/newsletter.html
-:banner: _static/conf/images/photos/pens-55246762140.jpg
+:banner: _static/conf/images/photos/notebooks-53653663881.jpg
 
 Newsletter & Mailing lists
 ==========================
