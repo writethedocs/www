@@ -38,7 +38,7 @@ Newsletter and Mailing Lists
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 We have mailing lists for our monthly newsletter,
-as well as announcements for our North American, European, Australian, and Atlantic conferences.
+as well as announcements for our conferences in North America, Europe and Australia.
 They are low traffic, and only send occasional community and event updates.
 
 You can sign up on our :doc:`/newsletter` page.

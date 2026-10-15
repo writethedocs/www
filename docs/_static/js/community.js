@@ -1,4 +1,4 @@
-// Community pages: search from the header.
+// Community pages: search from the header, and the newsletter signup.
 //
 // On Read the Docs, the search addon searches the whole site as you type, in
 // a window over the page. When it's on, the header's search buttons and the
@@ -77,6 +77,16 @@ function searchFromMenu(event) {
 }
 menuInput.addEventListener('click', searchFromMenu);
 menuInput.addEventListener('keydown', searchFromMenu);
+
+// Newsletter page: tick the conference announcements nearest to you, going
+// by your timezone. Each checkbox lists the timezone prefixes it covers in
+// data-timezones. You can untick it before you subscribe.
+const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
+for (const box of document.querySelectorAll('input[data-timezones]')) {
+  if (box.dataset.timezones.split(' ').some((zone) => timezone.startsWith(zone))) {
+    box.checked = true;
+  }
+}
 
 // Press "/" to search, as on most docs sites. Sphinx's built-in "/" shortcut
 // is turned off in conf.py, because it can't open any of these.

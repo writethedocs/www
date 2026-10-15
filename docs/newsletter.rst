@@ -24,10 +24,9 @@ Choose what you'd like to hear about. You can unsubscribe from any email.
      <fieldset>
        <legend>Send me</legend>
        <label><input type="checkbox" name="group[14633][1]" value="1" checked> The monthly community newsletter</label>
-       <label><input type="checkbox" name="group[14633][2]" value="2"> North American conference announcements</label>
-       <label><input type="checkbox" name="group[14633][4]" value="4"> European conference announcements</label>
-       <label><input type="checkbox" name="group[14633][8]" value="8"> Australian conference announcements</label>
-       <label><input type="checkbox" name="group[14633][16]" value="16"> Atlantic conference announcements</label>
+       <label><input type="checkbox" name="group[14633][2]" value="2" data-timezones="America/ US/ Canada/ Pacific/Honolulu"> North American conference announcements</label>
+       <label><input type="checkbox" name="group[14633][4]" value="4" data-timezones="Europe/ Africa/ Atlantic/"> European conference announcements</label>
+       <label><input type="checkbox" name="group[14633][8]" value="8" data-timezones="Australia/ Pacific/Auckland Pacific/Chatham"> Australian conference announcements</label>
        <label><input type="checkbox" name="group[14633][32]" value=""> Salary survey announcements</label>
      </fieldset>
      <!-- Bot trap from Mailchimp's embed code: people never fill it in. -->
