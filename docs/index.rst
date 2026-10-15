@@ -94,7 +94,6 @@ More from Write the Docs
    conf/index
    about/learning-resources
    about/stay-connected
-   blog/index
    about/about-the-org
 
 .. toctree::

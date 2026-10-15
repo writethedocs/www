@@ -10,6 +10,7 @@ Stay Connected
    /slack
    /meetups/index
    /newsletter
+   /blog/index
    /code-of-conduct
    /bipoc
    /job-board
@@ -41,6 +42,11 @@ as well as announcements for our North American, European, Australian, and Atlan
 They are low traffic, and only send occasional community and event updates.
 
 You can sign up on our :doc:`/newsletter` page.
+
+Blog
+~~~~
+
+Our :doc:`/blog/index` has every issue of the newsletter, news from our conferences, and updates from the community board.
 
 Code of Conduct
 ~~~~~~~~~~~~~~~

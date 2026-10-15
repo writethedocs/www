@@ -1546,22 +1546,25 @@ ul.home-links {
 }
 
 // The blog page: _templates/community/blog.html.
+// The date sits in the left margin, so each title stays an inline link
+// and its underline runs under the words, not across the column.
 ul.blog-posts {
     margin: 0 0 8px;
     padding: 0;
     list-style: none;
 
     li {
-        display: grid;
-        grid-template-columns: 4.5em minmax(0, 1fr);
-        column-gap: 16px;
+        position: relative;
         margin: 0;
-        padding: 8px 0;
+        padding: 8px 0 8px calc(4.5em + 16px);
         border-bottom: 1px solid $community-line;
         line-height: 1.5;
     }
 
     time {
+        position: absolute;
+        top: 9px;
+        left: 0;
         color: $community-muted;
         font-size: 15px;
         font-variant-numeric: tabular-nums;
@@ -1587,10 +1590,11 @@ ul.blog-conferences {
 
     // Dates with the year go above each title.
     ul.blog-posts li {
-        display: block;
+        padding-left: 0;
         font-size: 16px;
 
         time {
+            position: static;
             display: block;
             font-size: 14px;
         }
@@ -1602,6 +1606,7 @@ ul.blog-conferences {
 }
 
 .blog-conferences__more {
+    align-self: flex-start;
     margin-top: auto;
     font-size: 15px;
     font-weight: $bold;

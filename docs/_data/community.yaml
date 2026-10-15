@@ -46,10 +46,10 @@ nav:
         link: /meetups/
       - text: Newsletter
         link: /newsletter/
+      - text: Blog
+        link: /blog/
       - text: Code of Conduct
         link: /code-of-conduct/
-  - text: Blog
-    link: /blog/
   - text: About
     link: /about/about-the-org/
     children:
