@@ -4,6 +4,5 @@
 Blog
 ====
 
-Our monthly newsletter, updates from the community board, and our yearly
-reports. Each conference posts its announcements on its own news page, and
-the latest are below.
+News from Write the Docs: the monthly newsletter, conference announcements,
+and updates from the community board.

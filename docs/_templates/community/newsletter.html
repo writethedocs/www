@@ -1,30 +1,29 @@
 {#-
   The newsletter page, docs/newsletter.rst. The page's text marks where the
-  latest issues go with <!-- newsletter-issues -->; newsletter_issues() in
-  _ext/community.py finds them. The mailing list band at the bottom of other
-  pages is left out here, since this page has the full form.
+  latest issues go with <!-- newsletter-issues -->, and the list of every
+  issue, by year, with <!-- newsletter-archive -->. The mailing list band at
+  the bottom of other pages is left out here, since this page has the full
+  form.
 -#}
 {%- extends "layout.html" %}
 
 {%- block body %}
-{%- set issues -%}
-<ul class="newsletter-issues">
-  {%- for issue in newsletter_issues() %}
+{%- set issues %}{% include "community/newsletter-issues.html" %}{% endset %}
+{%- set archive -%}
+<ul class="newsletter-archive">
+  {%- for year, posts in blog_listing().newsletter %}
   <li>
-    <a href="{{ pathto(issue.post.docname) }}">
-      <time datetime="{{ issue.post.date.strftime('%Y-%m-%d') }}">{{ issue.post.date.strftime('%B %Y') }}</time>
-      <ul>
-        {%- for topic in issue.topics[:4] %}
-        <li>{{ topic }}</li>
-        {%- endfor %}
-      </ul>
-      <span class="newsletter-issues__cta">Read the issue</span>
-    </a>
+    <span class="newsletter-archive__year">{{ year }}</span>
+    <ul>
+      {%- for post in posts|reverse %}
+      <li><a href="{{ pathto(post.docname) }}" aria-label="{{ post.date.strftime('%B %Y') }}">{{ post.date.strftime('%b') }}</a></li>
+      {%- endfor %}
+    </ul>
   </li>
   {%- endfor %}
 </ul>
 {%- endset %}
-{{ body | replace('<!-- newsletter-issues -->', issues) }}
+{{ body | replace('<!-- newsletter-issues -->', issues) | replace('<!-- newsletter-archive -->', archive) }}
 {%- endblock %}
 
 {%- block signup %}{% endblock %}

@@ -1,8 +1,13 @@
 {#-
   The blog page, docs/blog/index.rst. Its text comes first, then the posts,
-  split by blog_listing() in _ext/community.py: news from the upcoming
-  conferences in _data/community.yaml; the community's own posts, by year;
-  and links to the news of earlier conferences.
+  split by blog_listing() in _ext/community.py into the kinds that each have
+  their own home:
+
+  - the newsletter's latest issues; the newsletter page lists them all
+  - news from the upcoming conferences in _data/community.yaml; each
+    conference's news page lists its own
+  - the blog's own updates, by year
+  - links to the news of earlier conferences
 -#}
 {%- extends "layout.html" %}
 
@@ -15,6 +20,12 @@
 {%- block body %}
 {%- set listing = blog_listing() %}
 {{ body }}
+
+<section aria-labelledby="newsletter">
+  <h2 id="newsletter">Newsletter</h2>
+  {% include "community/newsletter-issues.html" %}
+  <p><a href="{{ pathto('newsletter') }}#past-issues">All issues</a> · <a href="{{ pathto('newsletter') }}">Subscribe</a></p>
+</section>
 
 <section aria-labelledby="conference-news">
   <h2 id="conference-news">Conference news</h2>
@@ -38,16 +49,17 @@
   </ul>
 </section>
 
-{%- for year, posts in listing.years %}
-<section aria-labelledby="blog-{{ year }}">
-  <h2 id="blog-{{ year }}">{{ year }}</h2>
+<section aria-labelledby="updates">
+  <h2 id="updates">Updates</h2>
+  {%- for year, posts in listing.updates %}
+  <h3 id="updates-{{ year }}">{{ year }}</h3>
   <ul class="blog-posts">
     {%- for post in posts %}
     <li>{{ post_date(post) }} <a href="{{ pathto(post.docname) }}">{{ post.title }}</a></li>
     {%- endfor %}
   </ul>
+  {%- endfor %}
 </section>
-{%- endfor %}
 
 {%- if listing.earlier_conferences %}
 <section aria-labelledby="earlier-conference-news">
@@ -66,10 +78,9 @@
 <nav class="community-toc" aria-labelledby="community-toc-title">
   <h2 id="community-toc-title">On this page</h2>
   <ul><li><ul>
+    <li><a href="#newsletter">Newsletter</a></li>
     <li><a href="#conference-news">Conference news</a></li>
-    {%- for year, posts in listing.years %}
-    <li><a href="#blog-{{ year }}">{{ year }}</a></li>
-    {%- endfor %}
+    <li><a href="#updates">Updates</a></li>
     {%- if listing.earlier_conferences %}
     <li><a href="#earlier-conference-news">Earlier conference news</a></li>
     {%- endif %}

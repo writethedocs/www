@@ -88,8 +88,7 @@ home:
     title: A global community of people who care about documentation
     text: >-
       Learn from over {slack_members} documentarians, whatever your job title.
-      Ask questions in Slack, swap ideas at meetups and conferences, and help
-      us build the most welcoming community on the internet.
+      Ask questions in Slack, and swap ideas at meetups and conferences.
     # Like `buttons` in a conference config.
     buttons:
       - text: Join Slack

@@ -41,9 +41,15 @@ Latest issues
 
    <!-- newsletter-issues -->
 
-`Read all past newsletters </blog/archive/tag/newsletter/>`__, or find a
-subject in the :doc:`content by topic </topics>`, which includes conference
-talk videos too.
+Past issues
+-----------
+
+.. raw:: html
+
+   <!-- newsletter-archive -->
+
+Looking for a subject? The :doc:`content by topic </topics>` gathers
+newsletter articles and conference talks.
 
 Sponsor the newsletter
 ----------------------

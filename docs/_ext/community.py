@@ -175,22 +175,33 @@ def page_nav(community, pagename):
     ]
 
 
+# Newsletter issues are named blog/newsletter-<month>-<year>.
+NEWSLETTER_ISSUE = re.compile(r'blog/newsletter-[a-z]+-\d{4}')
+
+
 def blog_listing(blog, community, srcdir='.'):
     """
-    Split the blog's posts for the blog page.
+    Split the blog's posts into its three kinds:
 
-    The community's own posts are the ones outside ``conf/``, by year.
-    Conference news is grouped by the conference's ``<shortcode>-<year>`` tag,
-    the same tag its news page lists: first the upcoming conferences in
-    community.yaml, then the rest, latest news first.
+    - ``newsletter``: the newsletter's issues, by year. The newsletter page
+      lists them all.
+    - ``upcoming_conferences`` and ``earlier_conferences``: conference news,
+      grouped by the conference's ``<shortcode>-<year>`` tag, the same tag
+      its news page lists. The upcoming conferences in community.yaml come
+      first, then the rest, latest news first.
+    - ``updates``: the rest of the posts outside ``conf/``, by year, such as
+      community board updates and yearly reports. The blog page lists them.
     """
-    years = defaultdict(list)
+    newsletter = defaultdict(list)
+    updates = defaultdict(list)
     conferences = {}
     for post in blog.posts:  # newest first
         if not post.published:
             continue
-        if not post.docname.startswith('conf/'):
-            years[post.date.year].append(post)
+        if NEWSLETTER_ISSUE.fullmatch(post.docname):
+            newsletter[post.date.year].append(post)
+        elif not post.docname.startswith('conf/'):
+            updates[post.date.year].append(post)
         for tag in map(str, post.tags):
             if tag not in conferences:
                 match = re.fullmatch(r'([a-z]+)-(\d{4})', tag)
@@ -206,7 +217,8 @@ def blog_listing(blog, community, srcdir='.'):
         for c in community['upcoming_conferences']
     ]
     return {
-        'years': sorted(years.items(), reverse=True),
+        'newsletter': sorted(newsletter.items(), reverse=True),
+        'updates': sorted(updates.items(), reverse=True),
         'upcoming_conferences': upcoming,
         'earlier_conferences': [listing(c, c['posts']) for c in conferences.values() if c],
     }
@@ -220,12 +232,13 @@ NEWSLETTER_REGULARS = {
 
 def newsletter_issues(blog, env, count=3):
     """
-    The latest newsletter issues for the newsletter page, each with the
-    topics it covers: its section titles, less the regular ones.
+    The latest newsletter issues, for the cards on the newsletter and blog
+    pages, each with the topics it covers: its section titles, less the
+    regular ones.
     """
     issues = []
     for post in blog.posts:  # newest first
-        if not (post.published and post.docname.startswith('blog/newsletter-')):
+        if not (post.published and NEWSLETTER_ISSUE.fullmatch(post.docname)):
             continue
         toc = env.tocs[post.docname]
         sections = toc[0][1] if len(toc) and len(toc[0]) > 1 else []

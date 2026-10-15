@@ -1716,6 +1716,41 @@ ul.newsletter-issues {
     @include community-label;
 }
 
+// Every issue, by year: the year, then its months.
+ul.newsletter-archive {
+    margin: 0 0 24px;
+    padding: 0;
+    list-style: none;
+
+    > li {
+        display: grid;
+        grid-template-columns: 3.5em minmax(0, 1fr);
+        column-gap: 16px;
+        margin: 0;
+        padding: 10px 0;
+        border-bottom: 1px solid $community-line;
+    }
+
+    ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 4px 16px;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+
+        li {
+            margin: 0;
+        }
+    }
+}
+
+.newsletter-archive__year {
+    color: $community-ink;
+    font-weight: $bold;
+    font-variant-numeric: tabular-nums;
+}
+
 // The most read pages, at the top of the documentation guide
 // (docs/guide/index.rst).
 ul.guide-cards {
