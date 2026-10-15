@@ -179,7 +179,6 @@ html_theme_options = {
     'github_button': False,
 }
 
-html_favicon = '_static/favicon/favicon-96x96.png'
 html_title = 'Write the Docs'
 html_static_path = ['_static']
 html_copy_source = False

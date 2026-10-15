@@ -1,5 +1,10 @@
 {%- extends "!layout.html" %}
 
+{%- block extrahead %}
+  {{ super() }}
+  {% include "favicon.html" %}
+{%- endblock %}
+
 {%- block document %}
 
   {%- if announcement_message %}
