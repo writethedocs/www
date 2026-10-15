@@ -159,27 +159,19 @@ section > h1 {
     <div class="uk-container" uk-grid>
       <h2>Schedule Overview</h2>
 
-      {# In a four day conference day_one is a hike/social, day_two is writing day. #}
-      {# In a three day conference (no day_one) day_two is writing day shown here. #}
-      {% if date.day_one is defined %}
+      {# One card per day that isn't a talk day, then one card for the talk days
+         combined. A conference with nothing but talk days shows each of them. #}
+      {% set other_days = date.days | rejectattr('kind', 'equalto', 'talks') | list %}
+      {% for day in (other_days if other_days else date.talk_days) %}
       <div class="schedule-item uk-width-1-3@s">
-        <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/' + date.day_one.icon + '-' + color +  '.svg', 1) }}" alt="">
-        <h3>{{ date.day_one.event }} </h3>
-        <em>{{ date.day_one.date }} </em>
-        <p>{{ date.day_one.summary }} </p>
+        <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/' + day.icon + '-' + color +  '.svg', 1) }}" alt="">
+        <h3>{{ day.event }} </h3>
+        <em>{{ day.date }} </em>
+        <p>{{ day.summary }} </p>
       </div>
-      {% endif %}
+      {% endfor %}
 
-      {% if date.day_two is defined %}
-      <div class="schedule-item uk-width-1-3@s">
-        <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/' + date.day_two.icon + '-' + color +  '.svg', 1) }}" alt="">
-        <h3>{{ date.day_two.event }} </h3>
-        <em>{{ date.day_two.date }} </em>
-        <p>{{ date.day_two.summary }} </p>
-      </div>
-      {% endif %}
-
-      {% if date.conference is defined %}
+      {% if other_days and date.conference is defined %}
       <div class="schedule-item uk-width-1-3@s">
         <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/' + date.conference.icon + '-' + color +  '.svg', 1) }}" alt="" >
         <h3>{{ date.conference.event }} </h3>
@@ -191,7 +183,7 @@ section > h1 {
 
     {% if flaghasunconf %}
 
-    <div class="schedule-item uk-width-1-{{ 1 + date.total_talk_days }}@s">
+    <div class="schedule-item uk-width-1-3@s">
       <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/conversation' + '-' + color +  '.svg', 1) }}" alt="" >
       <h3>Unconference</h3>
       <em>{{ date.conference.date }}</em>
@@ -203,7 +195,7 @@ section > h1 {
 
     {% if flaghaslightningtalks %}
 
-    <div class="schedule-item uk-width-1-{{ 1 + date.total_talk_days }}@s">
+    <div class="schedule-item uk-width-1-3@s">
       <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/lightning' + '-' + color +  '.svg', 1) }}"" alt="" >
       <h3>Lightning Talks</h3>
       <em>{{ date.conference.date }} </em>
@@ -215,7 +207,7 @@ section > h1 {
 
     {% if flaghassponsorexpo %}
 
-    <div class="schedule-item uk-width-1-{{ 1 + date.total_talk_days }}@s">
+    <div class="schedule-item uk-width-1-3@s">
       <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/sponsor-expo' + '-' + color +  '.svg', 1) }}"" alt="" >
       <h3>Sponsor Expo</h3>
       <em>{{ date.conference.date }}</em>

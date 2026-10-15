@@ -115,46 +115,31 @@ date: # how do we handle these? human readable would be nice.
   tickets_live: "December 2026"
   month: May
 
-  # Conference is special for the index to show the combined conference days
-  conference:
-    event: Speaker Talks
-    date: May 3-4
-    summary: The main days of the conference. Listen to a diverse panel of speakers share their insights and experience.
-    icon: conference
-
-  # These are listed in the schedule
-  day_one:
-    event: Hike
-    date: May 1
-    summary: If you're in town early, join us for the Hike. Portland has excellent access to the woods right in the city.
-    icon: hike
-    dotw: Saturday
-  day_two:
-    event: Writing Day
-    date: May 2
-    summary: Kick off the conference with Writing Day and work with fellow documentarians on a project. Followed by the opening reception.
-    icon: writing
-    dotw: Sunday
-    writing_day_time: 9 AM-5 PM
-    reception_time: 5-7 PM
-  day_three:
-    event: Conference Day 1
-    date: May 3
-    summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
-    dotw: Monday
-    talk_time: 9 AM-5 PM
-    unconference_time: 9:45 AM-5 PM
-    social_time: 7-9 PM
-    icon: conference
-  day_four:
-    event: Conference Day 2
-    date: May 4
-    summary: And the conference goes on! More talks and unconference today!
-    dotw: Tuesday
-    talk_time: 9 AM-4 PM
-    unconference_time: 9:45 AM-4 PM
-    icon: conversation
-  total_talk_days: 2
+  # The conference days in order. The weekday, display date, title, icon and
+  # schedule key are derived from the date and kind, so only the summary and
+  # the times shown before the full schedule is published are written here.
+  days:
+    - date: 2027-05-01
+      kind: outing
+      event: Hike
+      summary: If you're in town early, join us for the Hike. Portland has excellent access to the woods right in the city.
+    - date: 2027-05-02
+      kind: writing_day
+      summary: Kick off the conference with Writing Day and work with fellow documentarians on a project. Followed by the opening reception.
+      hours: 9 AM-5 PM
+      reception: 5-7 PM
+    - date: 2027-05-03
+      kind: talks
+      summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
+      hours: 9 AM-5 PM
+      unconference: 9:45 AM-5 PM
+      social: 7-9 PM
+    - date: 2027-05-04
+      kind: talks
+      summary: And the conference goes on! More talks and unconference today!
+      hours: 9 AM-4 PM
+      unconference: 9:45 AM-4 PM
+      icon: conversation
 
 about:
   attendees: 400

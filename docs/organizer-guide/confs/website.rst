@@ -171,18 +171,38 @@ The items in the general conference config file are:
     * ``tickets_live``: a human readable date to indicate the month when tickets go on sale,
       e.g. ``January 2020``.
     * ``month``: the month in which the conference is held, e.g. ``May``.
-    * ``total_talk_days``: the number of days that have talks, e.g. ``2``.
-      Used to automatically read the schedule.
-    * ``day_one``, ``day_two``, etc. These are actually events, not days. Each "day" has:
-        * ``event``: the name of the event, like ``Hike``, ``Writing Day`` or
-          ``Main Conference``.
-        * ``date``: the short human readable date, e.g. ``May 2`` or
-          ``May 4-5``.
+    * ``days``: the conference days, in order. Each day is a calendar
+      ``date`` (``2027-05-03``) and a ``kind``: ``outing`` (a hike or boat
+      ride), ``writing_day`` or ``talks``. Talk days render ``talks_day1``,
+      ``talks_day2`` and so on from the schedule YAML; the others render the
+      key named after their kind. Optional keys:
+
         * ``summary``: a human readable summary of the event that day.
-        * ``icon``: the icon used for this event, e.g. ``hike`` or
-          ``conference``.
-        * ``dotw``: the day(s) of the week for this event, e.g. ``Saturday``
-          or ``Monday/Tuesday``.
+        * ``event``: the title shown on the index page. Defaults to
+          ``Writing Day``, ``Conference Day 1`` and so on; an outing needs
+          one, like ``Hike``.
+        * ``icon``: the icon shown on the index page, e.g. ``hike``,
+          ``writing``, ``conference`` or ``conversation``. Defaults per kind.
+          The file ``_static/conf/images/icons/<icon>-<color>.svg`` must
+          exist for the conference ``color``.
+        * ``schedule``: the schedule YAML key to render, if not the default.
+        * Times shown before the full schedule is published, as needed:
+          ``hours``, ``unconference``, ``social``, ``reception`` and
+          ``job_fair``.
+
+      The site derives the weekday (``dotw``), the display date (``May 3``)
+      and the combined ``conference`` entry for the index page from the
+      list. Pages refer to days by role rather than by position, so the same
+      page works for every conference: ``date.outing``, ``date.writing_day``
+      and ``date.talk_days[0]``, ``date.talk_days[1]`` and so on. For
+      example, ``date.talk_days[0].dotw`` is the weekday of the first talk
+      day. The schedule and virtual schedule pages include
+      ``include/schedule-days.md`` and ``include/schedule-days-virtual.md``,
+      which render every day from this list.
+
+      Conferences up to 2026 used positional ``day_one`` to ``day_four``
+      keys, a hand-written ``conference`` entry and ``total_talk_days``
+      instead.
 * ``about``: general conference background. Contains:
     * ``attendees``: the number of attendees.
     * ``summary``: a summary text for the conference.
