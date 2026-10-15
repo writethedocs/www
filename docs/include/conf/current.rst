@@ -1,4 +1,4 @@
-Current Conferences
+Current conferences
 -------------------
 
 .. raw:: html

@@ -1,6 +1,7 @@
+:og:description: Guides, talks and articles from the Write the Docs community, all free to read.
 :banner: _static/conf/images/photos/talk-stage-wide-55259802220.jpg
 
-Learning Resources
+Learning resources
 ==================
 
 .. toctree::
@@ -20,6 +21,9 @@ Guides, talks and articles from the Write the Docs community, all free to read.
 
 .. raw:: html
 
+   <div class="cta-group">
+     <a class="cta-button" href="/newsletter/">Get the newsletter</a>
+   </div>
    <ul class="link-cards">
      <li><a href="/guide/">
        <strong>Documentation guide</strong>

@@ -6,11 +6,6 @@
 
 From 2020 to 2025, members of the #learn-tech-writing channel on the Write the Docs :doc:`/slack` read books about tech writing together. The book club has finished; here is everything it read.
 
-.. contents::
-   :local:
-   :depth: 1
-   :backlinks: none
-
 Books we read
 -------------
 

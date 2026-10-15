@@ -9,11 +9,6 @@ If you're interested in helping out, get in touch with someone on the team you'r
 
 .. note:: The folks with (team lead) next to their names are the best folks to talk to about how to join their team.
 
-.. contents:: Contents & Teams
-   :local:
-   :backlinks: none
-   :depth: 2
-
 Terminology
 -----------
 

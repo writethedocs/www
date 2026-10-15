@@ -1,6 +1,6 @@
 :banner: _static/conf/images/photos/venue-signs-55266533010.jpg
 
-Contact Us
+Contact us
 ==========
 
 If you have any questions or concerns about Write the Docs,

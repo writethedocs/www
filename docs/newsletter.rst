@@ -1,8 +1,8 @@
 :template: community/newsletter.html
 :banner: _static/conf/images/photos/notebooks-53653663881.jpg
 
-Newsletter & Mailing lists
-==========================
+Newsletter and mailing lists
+============================
 
 Once a month, our newsletter team rounds up the best conversations from the
 Write the Docs Slack: questions, debates, and tips from documentarians around

@@ -1,10 +1,11 @@
 :template: community/index.html
+:og:description: Write the Docs is a global community of people who care about documentation. Join over {{ slack_members }} documentarians in Slack, at meetups, and at our conferences around the world.
 :banner: _static/conf/images/photos/audience-berlin-55523762940.jpg
 
 .. meta::
-   :description: A series of events for technical writers,
-                 documentarians,
-                 and all those who write the docs.
+   :description: Write the Docs is a global community of people who care about
+                 documentation. Join over {{ slack_members }} documentarians in Slack,
+                 at meetups, and at our conferences around the world.
    :author: Write the Docs
    :geo.placename: Worldwide
 
@@ -12,8 +13,8 @@
    below is a full-width band (see the home-* rules in _community.scss). The
    hero and the "Get involved" tiles come from `home` in _data/community.yaml.
 
-Welcome to our community!
-=========================
+A global community of people who care about documentation
+==========================================================
 
 .. rst-class:: home-section
 

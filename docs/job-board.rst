@@ -1,6 +1,6 @@
 :banner: _static/conf/images/photos/unconference-board-55266138806.jpg
 
-Job Board
+Job board
 =========
 
 The job board is currently inactive. We're pursuing other avenues of communication that are

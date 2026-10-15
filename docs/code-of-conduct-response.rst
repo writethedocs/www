@@ -4,11 +4,6 @@
 Code of Conduct Response Guide
 ==============================
 
-.. contents::
-   :local:
-   :depth: 2
-   :backlinks: none
-
 This document aims to help organizers and moderators of Write the Docs spaces to handle reports of :doc:`code-of-conduct` reports.
 This includes conferences, online spaces and meetups.
 
