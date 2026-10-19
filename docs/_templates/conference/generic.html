@@ -1,0 +1,68 @@
+{% extends "conference/base.html" %}
+{% from "conference/navbar.html" import navbar_items, offcanvas_items with context %}
+
+{% block head_link %}
+<style>
+.page-content h1 {
+    display: none;
+}
+</style>
+{% endblock %}
+
+{% block container %}
+<div class="header">
+        <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar="offset: -18px">
+            <div class="uk-navbar-left">
+                <div class="header-logo uk-visible@s">
+                    <a href="{{ pathto('conf/' + shortcode + '/' + year_str) }}">
+                        <img src="{{ pathto(  '_static/conf/images/logos/' + shortcode + year_str + '.png', 1  ) }}" width="130" alt="Write the Docs {{ name }} {{ year }}">
+                    </a>
+                </div>
+            </div>
+            <div class="uk-navbar-right">
+                <button class="uk-navbar-toggle uk-hidden@s"  type="button" uk-navbar-toggle-icon uk-toggle="target: #offcanvas-nav"></button>
+                <div id="offcanvas-nav" uk-offcanvas="overlay: true">
+                    <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+                            <div class="menu-logo">
+                                    <img src="{{ pathto(  '_static/conf/images/logos/' + shortcode + year_str + '-dark.png', 1  ) }}" width="130">
+                                </div>
+                              {% if not flaglanding %}
+                             {{ offcanvas_items() }}
+                             {% endif %}
+                    </div>
+                </div>
+             {% if not flaglanding %}
+             {{ navbar_items() }}
+             {% endif %}
+            </div>
+        </nav>
+
+    </div><!-- end header -->
+    <div class="mobile-post-header uk-hidden@s">
+        <div class="header-logo">
+                <a href="{{ pathto('conf/' + shortcode + '/' + year_str) }}">
+                    <img src="{{ pathto(  '_static/conf/images/logos/' + shortcode + year_str + '.png', 1  ) }}" width="150">
+                </a>
+        </div>
+    </div><!-- end post header -->
+
+    {#- page_banner is the page's own banner, or one of photos.default (_ext/community.py). #}
+    <div class="page-banner" style="background-image:url('{{ pathto(page_banner, 1) }}')">
+        <div class="uk-container">
+            <h1 style="background-color: rgba(1, 1, 1, 0.6); padding: 10px 20px; border-radius: 8px; display: inline-block;">{% block pagename %}{{ title }}{% endblock %}</h1>
+        </div>
+    </div>
+    <!-- end page-banner -->
+
+  {% if body %}
+    <div class="page-content" role="main">
+        <div class="uk-container">
+                {% block body %}
+                {{ body }}
+                {% endblock body %}
+                {# {% include "postcard.html" %} #}
+        </div>
+    </div>
+  {% endif %}
+
+{% endblock container %}

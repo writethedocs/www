@@ -1,4 +1,6 @@
-Contribute to the Write the Docs Website
+:banner: _static/conf/images/photos/writing-day-schedule-berlin-55511482495.jpg
+
+Contribute to the Write the Docs website
 ========================================
 
 Welcome! The Write the Docs website covers many areas of software documentation
@@ -7,10 +9,6 @@ If you find something that seems like it could be improved,
 see how to contribute to making it better.
 
 If you're interested in contributing to the code behind the website, see the `README for the repo <https://github.com/writethedocs/www/blob/main/README.md>`__.
-
-.. contents::
-    :local:
-    :depth: 3
 
 How to contribute
 -----------------

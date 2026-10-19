@@ -1,4 +1,4 @@
-Style Guide
+Style guide
 ===========
 
 This :doc:`style guide </guide/writing/style-guides>` specifies how we write on the Write the Docs websites.
@@ -8,10 +8,6 @@ It's just a start, but everything has to start somewhere :)
 
    :doc:`Style Guides </guide/writing/style-guides>`
       An overview of style guides with links to example guides.
-
-.. contents::
-    :local:
-    :depth: 3
 
 Technical Formatting
 --------------------

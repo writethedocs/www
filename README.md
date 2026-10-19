@@ -41,11 +41,13 @@ Styling is maintained in `docs/_static/conf/css/` as SASS. Convert SASS to minif
 npm install -g sass
 ```
 
- and then running (using a 2022 example):
+ and then running (using a 2027 example):
 
 ```
-sass --style=compressed docs/_static/conf/scss/main-2022.scss docs/_static/conf/css/main-2022.min.css
+sass --style=compressed --no-source-map docs/_static/conf/scss/main-2027.scss docs/_static/conf/css/main-2027.min.css
 ```
+
+From 2027 on, the conference styles live in `_conference.scss`, which the community pages also use through `main-community.scss`. After changing it, recompile `main-community.scss` and every year that imports it.
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/writethedocs/www.svg)](https://greenkeeper.io/)
 

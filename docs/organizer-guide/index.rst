@@ -1,5 +1,7 @@
+:banner: _static/conf/images/photos/empty-chairs-berlin-55511291168.jpg
+
 ===============
-Organizer Guide
+Organizer guide
 ===============
 
 Welcome! This guide aims to help anyone who wants to start a local Write the Docs meetup or a regional conference. Our community is growing quickly and we want to provide resources, guidelines, and tips on how to build and maintain events no matter where you are in the world.

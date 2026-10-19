@@ -1,6 +1,6 @@
 ---
 template: {{year}}/generic.html
-banner: _static/conf/images/headers/2026/virtual.jpg
+banner: _static/conf/images/photos/talk-stage-podium-55257879930.jpg
 ---
 
 # Virtual Attendance

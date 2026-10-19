@@ -1,12 +1,11 @@
+:banner: _static/conf/images/photos/unconference-board-55266138806.jpg
+
 =================================
-Guide to Hiring and Getting Hired
+Guide to hiring and getting hired
 =================================
 
 Welcome! This guide aims to help those looking to hire documentarians find the perfect candidate, and to help job-seeking documentarians find the perfect position.
 Its content focuses on tricky points in the process of hiring a documentarian.
-
-.. contents:: Table of Contents
-    :depth: 3
 
 
 Community Spotlight
