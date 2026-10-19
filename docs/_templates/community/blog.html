@@ -73,17 +73,14 @@
 {%- endif %}
 {%- endblock %}
 
-{%- block rail_toc %}
+{%- block page_toc %}
 {%- set listing = blog_listing() %}
-<nav class="community-toc" aria-labelledby="community-toc-title">
-  <h2 id="community-toc-title">On this page</h2>
-  <ul><li><ul>
-    <li><a href="#newsletter">Newsletter</a></li>
-    <li><a href="#conference-news">Conference news</a></li>
-    <li><a href="#updates">Updates</a></li>
-    {%- if listing.earlier_conferences %}
-    <li><a href="#earlier-conference-news">Earlier conference news</a></li>
-    {%- endif %}
-  </ul></li></ul>
-</nav>
+<ul><li><ul>
+  <li><a href="#newsletter">Newsletter</a></li>
+  <li><a href="#conference-news">Conference news</a></li>
+  <li><a href="#updates">Updates</a></li>
+  {%- if listing.earlier_conferences %}
+  <li><a href="#earlier-conference-news">Earlier conference news</a></li>
+  {%- endif %}
+</ul></li></ul>
 {%- endblock %}

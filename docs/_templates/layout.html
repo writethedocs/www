@@ -28,6 +28,15 @@
   <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700|Bree+Serif&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ pathto('_static/conf/css/main-community.min.css', 1) }}" type="text/css">
   <link rel="stylesheet" href="{{ pathto('_static/conf/css/site-footer.min.css', 1) }}" type="text/css">
+  {#- The blog's Atom feed, for feed readers given a page's address. ablog
+      sets feed_path; its own page.html added this link, which the basic
+      theme's templates don't. #}
+  {%- if feed_path %}
+  <link rel="alternate" type="application/atom+xml" href="{{ pathto(feed_path, 1) }}/atom.xml" title="{{ feed_title|e }}">
+  {%- endif %}
+  {#- Verifies the site on our Mastodon profile; the footer no longer links
+      to Mastodon. #}
+  <link rel="me" href="https://fosstodon.org/@writethedocs">
   {#- Lets community.js read the Read the Docs addons' settings (search). #}
   <meta name="readthedocs-addons-api-version" content="1">
   {#- The banner is a CSS background, which browsers only find after the CSS. #}
@@ -61,6 +70,7 @@
 {%- block relbar2 %}{% endblock %}
 
 {%- block content %}
+{%- set page_toc = self.page_toc()|trim %}
 <div class="community-page">
   <div class="community-container">
     {%- if parents %}
@@ -72,6 +82,14 @@
     </nav>
     {%- endif %}
     <div class="community-columns">
+      {%- if page_toc %}
+      {#- Below 1200px the "On this page" column is hidden, so the same list
+          sits above the content instead, folded away until you open it. #}
+      <details class="community-toc-compact">
+        <summary>On this page</summary>
+        <nav class="community-toc-list" aria-label="On this page">{{ page_toc }}</nav>
+      </details>
+      {%- endif %}
       {#- role="main", as on the conference pages, marks the content for Read
           the Docs: its search indexes it, and its visual diff on pull request
           previews compares it. #}
@@ -96,14 +114,12 @@
         {#- The ad goes first: the "On this page" list below it is sticky, and
             would slide over anything after it as the page scrolls. #}
         <div id="ethical-ad-placement"></div>
-        {%- block rail_toc %}
-        {%- if display_toc %}
-        <nav class="community-toc" aria-labelledby="community-toc-title">
+        {%- if page_toc %}
+        <nav class="community-toc community-toc-list" aria-labelledby="community-toc-title">
           <h2 id="community-toc-title">On this page</h2>
-          {{ toc }}
+          {{ page_toc }}
         </nav>
         {%- endif %}
-        {%- endblock %}
       </aside>
     </div>
   </div>
@@ -123,3 +139,9 @@
   <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
   <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
 {%- endblock %}
+
+{#- The page's sections, for the "On this page" column and the folded list
+    above the content on smaller screens. Pages can list their own, as the
+    blog page does. The parent layout never renders this block itself; the
+    content block above calls it. #}
+{%- block page_toc %}{% if display_toc %}{{ toc }}{% endif %}{% endblock %}
