@@ -17,6 +17,9 @@
       {% if flaghaslightningtalks %}
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/lightning-talks') }}">Lightning Talks</a></li>
       {% endif %}
+      {% if shortcode == "australia" %}
+      <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/fishbowl') }}">Fishbowl Session</a></li>
+      {% endif %}
       {% if flaghasunconf %}
       <li><a href="{{ pathto('conf/'+shortcode+'/'+year_str+'/unconference') }}">Unconference</a></li>
       {% endif %}
