@@ -1,4 +1,4 @@
-Origin Story
+Origin story
 ============
 
 Write the Docs was founded by Troy Howard, Eric Redmond, and Eric Holscher in 2013.

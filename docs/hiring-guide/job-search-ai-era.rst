@@ -13,10 +13,6 @@ This guide was distilled from community discussions in the `#career-advice` chan
 profile that reflects your real strengths, positions you for the roles available today, and
 makes you impossible to overlook in an AI-driven hiring landscape.
 
-.. contents:: In this guide
-   :local:
-   :depth: 2
-
 -----
 
 First, the honest reality

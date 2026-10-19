@@ -1,5 +1,7 @@
-Relevant Books
-==============
+:banner: _static/conf/images/photos/wintergarden-berlin-55511482585.jpg
+
+Reading list
+============
 
 A live list of books on technical writing and related topics, like content strategy and information architecture.
 

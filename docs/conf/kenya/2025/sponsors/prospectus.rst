@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/conf/images/headers/{{ shortcode }}-group.png
+:banner: _static/conf/images/headers/kenya-2025-group.jpg
 
 Sponsorship Prospectus
 #######################
