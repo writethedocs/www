@@ -3,11 +3,9 @@
 Slack
 =====
 
-Our Slack network has lots of people hanging out and chatting about documentation.
-It's the best way to connect with our community,
+Our Slack community has over {{ slack_members }} people hanging out and chatting about documentation.
+It's the best way to connect with other documentarians,
 and to stay in touch with folks you've met at our conferences and meetups.
-We have over {{ slack_members }} people who have joined,
-and you can be one of them.
 
 .. button-link:: {{ slack_form }}
 
