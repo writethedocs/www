@@ -224,6 +224,10 @@ elif datetime.date(2026, 9, 19) <= datetime.date.today() <= datetime.date(2026, 
 elif datetime.date(2026, 12, 3) <= datetime.date.today() <= datetime.date(2026, 12, 4):
     announcement_message = "Australia 2026: Dec 3-4. <a href='/conf/australia/2026/'>View the conference site</a>."
 
+# The new website launch, which takes over from the conference banner for a few weeks.
+if datetime.date(2026, 10, 19) <= datetime.date.today() <= datetime.date(2026, 11, 15):
+    announcement_message = "Welcome to the new Write the Docs website! <a href='/blog/new-website/'>See what's new</a>."
+
 # The salary survey, which is open for submissions for part of the year.
 # Update these when the next survey opens; the front page swaps between
 # asking people to take it and pointing at the published results.
