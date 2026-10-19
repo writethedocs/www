@@ -18,7 +18,7 @@ a platform that combines video streaming with chat and networking features.
 Virtual attendance includes:
 
 * Live streamed talks from the main stage
-* Ability to participate in Q&A with speakers
+* Moderated Q&A after each talk, using the same QR code as in-person attendees
 * Real-time chat with other virtual attendees
 * Virtual networking spaces
 * An online Unconference track
