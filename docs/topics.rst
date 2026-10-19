@@ -1,3 +1,5 @@
+:banner: _static/conf/images/headers/2025/lightning-talks.jpg
+
 Content by topic
 ================
 

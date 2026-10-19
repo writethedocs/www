@@ -1,8 +1,8 @@
-Blog Posts
-----------
+:template: community/blog.html
+:banner: _static/conf/images/photos/stickers-berlin-55511482445.jpg
 
-.. postlist:: 300
-   :date: %B %d, %Y
-   :format: {title} - {date}
-   :list-style: circle
+Blog
+====
 
+News from Write the Docs: the monthly newsletter, conference announcements,
+and updates from the community board.
