@@ -1,3 +1,5 @@
+:banner: _static/conf/images/photos/reception-crowd-54498815794.jpg
+
 Slack
 =====
 

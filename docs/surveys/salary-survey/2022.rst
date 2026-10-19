@@ -6,11 +6,6 @@
 Write the Docs Salary Survey 2022 Results
 *****************************************
 
-.. contents::
-   :local:
-   :depth: 2
-   :backlinks: none
-
 Introduction
 ============ 
 

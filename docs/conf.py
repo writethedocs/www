@@ -65,6 +65,7 @@ from _ext.utils import load_yaml
 from _ext.meetups import MeetupListing
 from _ext.atom_absolute import rewrite_atom_feed
 from _ext.button import ButtonLink, add_jinja_globals_to_app
+from _ext.community import load_community_data
 
 exclude_patterns = [
     '_build',
@@ -101,6 +102,8 @@ extensions = [
     'sphinxext.opengraph',
     # Local build-speed fixes; must come after ablog, which it patches.
     '_ext.build_perf',
+    # Header menu and banner photos for the community pages.
+    '_ext.community',
 ]
 
 myst_heading_anchors = 4
@@ -156,44 +159,23 @@ html_search_language = 'en'
 pygments_style = 'sphinx'
 primary_domain = None
 
-html_theme = 'alabaster'
+# The community pages use the conference design rather than a Sphinx theme:
+# _templates/layout.html builds on the bare "basic" theme. Conference pages
+# pick their own templates from _templates/<year>/.
+html_theme = 'basic'
 html_theme_options = {
-    'logo': 'sticker-wtd-colors.png',
-    'sidebar_includehidden': False,
-    # The sidebar nav: the handful of places worth reaching from any page.
-    # Everything else is on the front page and in the site map. The front page
-    # toctree can't serve double duty here: it either renders a second copy of
-    # this list on the page, or, if hidden, drops out of the sidebar entirely.
-    'extra_nav_links': {
-        'Conferences': '/conf/',
-        'Slack': '/slack/',
-        'Meetups': '/meetups/',
-        'Newsletter': '/newsletter/',
-        'Content by topic': '/topics/',
-        'Blog': '/blog/',
-        'Documentation guide': '/guide/',
-    },
-    'github_user': 'writethedocs',
-    'github_repo': 'www',
-    'github_banner': False,
-    'github_button': False,
+    'nosidebar': True,
+    # basic.css caps the page body at 800px; the layout sets its own widths.
+    'body_min_width': 0,
+    'body_max_width': 'none',
+    # _static/js/community.js handles "/" instead.
+    'enable_search_shortcuts': False,
 }
 
 html_favicon = '_static/favicon/favicon-96x96.png'
 html_title = 'Write the Docs'
 html_static_path = ['_static']
 html_copy_source = False
-html_sidebars = {
-    '**': [
-        'about.html',
-        'ablog/postcard.html',
-        'info.html',
-        'searchbox.html',
-        'navigation.html',
-        # 'relations.html',
-    ]
-}
-
 # Output formats
 
 htmlhelp_basename = 'WritetheDocsdoc'
@@ -267,8 +249,10 @@ html_context = {
     'slack_form': "https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform?usp=sf_link",
     'announcement_message': announcement_message,
 }
+# After html_context, which fills in the placeholders in the front page text.
+html_context['community'] = load_community_data(html_context)
 
-notfound_no_urls_prefix = True
+notfound_urls_prefix = '/'
 
 
 def setup(app):
@@ -287,8 +271,24 @@ def setup(app):
             else:
                 context['pageurl'] = pageurl[:-5] + '/'  # strip .html, add /
 
+    # sphinx-notfound-page links the front page as "#" on the 404 page,
+    # because the dirhtml builder's URL for it is empty, so the logo and the
+    # Home link went nowhere. Point them at the site root instead. This runs
+    # after the extension swaps in its own pathto (priority 400).
+    def fix_404_home_links(app, pagename, templatename, context, doctree):
+        if pagename != app.config.notfound_pagename:
+            return
+        notfound_pathto = context['pathto']
+
+        def pathto(*args, **kwargs):
+            uri = notfound_pathto(*args, **kwargs)
+            return '/' if uri == '#' else uri
+
+        context['pathto'] = pathto
+
     app.connect("html-page-context", add_metadata)
     app.connect("html-page-context", fix_canonical_url)
+    app.connect("html-page-context", fix_404_home_links, priority=600)
 
     # Set up our custom jinja filters
     app.connect("builder-inited", add_jinja_filters_to_app)

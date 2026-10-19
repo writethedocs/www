@@ -23,3 +23,21 @@ sphinx:
 
 # No PDF
 formats: []
+
+# The search window (the Read the Docs search addon). Patterns match the
+# built HTML files, like conf/portland/2019/index.html.
+search:
+  ranking:
+    # Conferences before 2020 keep their pages for old links, but shouldn't
+    # outrank the current site.
+    conf/*/201?/*: -3
+  ignore:
+    # Read the Docs' defaults.
+    - search.html
+    - search/index.html
+    - 404.html
+    - 404/index.html
+    # The blog's tag and archive pages, which repeat the posts.
+    - blog/archive/*
+    # Sphinx's index page, which only lists other pages.
+    - genindex/index.html
