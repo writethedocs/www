@@ -1,5 +1,5 @@
-Current conferences
--------------------
+Upcoming conferences
+--------------------
 
 .. raw:: html
 

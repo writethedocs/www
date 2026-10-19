@@ -143,5 +143,6 @@
 {#- The page's sections, for the "On this page" column and the folded list
     above the content on smaller screens. Pages can list their own, as the
     blog page does. The parent layout never renders this block itself; the
-    content block above calls it. #}
-{%- block page_toc %}{% if display_toc %}{{ toc }}{% endif %}{% endblock %}
+    content block above calls it. The first link in `toc` is the page itself,
+    so a page needs two more, two sections, for the list to help. #}
+{%- block page_toc %}{% if display_toc and toc.count('<a ') > 2 %}{{ toc }}{% endif %}{% endblock %}

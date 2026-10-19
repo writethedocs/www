@@ -713,9 +713,11 @@ body.community {
     // Long URLs in the text wrap instead of widening the page on phones.
     overflow-wrap: break-word;
 
-    // The page title is in the banner.
+    // The page title is in the banner. The older salary survey reports wrap
+    // their whole page, title included, in .survey-results.
     > h1:first-child,
-    > section:first-of-type > h1:first-of-type {
+    > section:first-of-type > h1:first-of-type,
+    > .survey-results:first-child > section:first-of-type > h1:first-of-type {
         display: none;
     }
 

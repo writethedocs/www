@@ -8,11 +8,6 @@ Write the Docs Salary Survey 2020 Results
 =========================================
 
 
-.. contents::
-   :local:
-   :depth: 2
-   :backlinks: none
-
 
 .. _h.rkx3h8wib5m0:
 
