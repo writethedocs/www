@@ -172,7 +172,6 @@ html_theme_options = {
     'enable_search_shortcuts': False,
 }
 
-html_favicon = '_static/favicon/favicon-96x96.png'
 html_title = 'Write the Docs'
 html_static_path = ['_static']
 html_copy_source = False
