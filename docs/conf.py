@@ -2,6 +2,7 @@
 #
 
 import os
+import re
 import sys
 import datetime
 
@@ -116,9 +117,13 @@ ogp_site_name = "Write the Docs"
 # Must be an absolute URL: og:image and og:url are built by joining relative
 # paths onto this, and scrapers ignore Open Graph URLs without a domain.
 ogp_site_url = html_baseurl
-ogp_image = 'https://www.writethedocs.org/_static/logo-opengraph.png'
-ogp_use_first_image = True
 ogp_enable_meta_description = True
+# Cards for pages without an og:image. ogp_image or ogp_use_first_image would turn them off.
+ogp_social_cards = {
+    'image': '_static/sticker-wtd-colors.png',
+    'image_mini': '_static/sticker-wtd-colors.png',
+    'line_color': '#132530',
+}
 # Inspired by https://github.com/executablebooks/MyST-Parser/pull/404/
 ogp_custom_meta_tags = [
     '<meta name="twitter:card" content="summary_large_image" />',
@@ -255,6 +260,15 @@ notfound_urls_prefix = '/'
 
 
 def setup(app):
+    # Leave the description off the preview cards: the platform shows it under
+    # the image anyway. sphinxext-opengraph's 'description': False does nothing.
+    import sphinxext.opengraph._social_cards as social_cards
+    render_social_card = social_cards.render_social_card
+
+    def render_without_description(path, site_title, page_title, description, siteurl, plt_objects):
+        return render_social_card(path, site_title, page_title, '', siteurl, plt_objects)
+
+    social_cards.render_social_card = render_without_description
 
     # add any metadata from the template into the page context
     def add_metadata(app, pagename, templatename, context, doctree):
@@ -285,7 +299,15 @@ def setup(app):
 
         context['pathto'] = pathto
 
+    # These templates write their own preview tags and never render sphinxext-opengraph's.
+    def skip_opengraph_for_legacy_templates(app, pagename, templatename, context, doctree):
+        legacy_conference = re.match(r'conf/[^/]+/(2018|2019|2020|2021)/', pagename)
+        survey = (context.get('meta') or {}).get('template', '').startswith('survey/')
+        if legacy_conference or survey:
+            context['meta'] = dict(context.get('meta') or {}, ogp_disable=True)
+
     app.connect("html-page-context", add_metadata)
+    app.connect("html-page-context", skip_opengraph_for_legacy_templates, priority=400)  # before sphinxext-opengraph
     app.connect("html-page-context", fix_canonical_url)
     app.connect("html-page-context", fix_404_home_links, priority=600)
 
