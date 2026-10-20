@@ -101,6 +101,8 @@ extensions = [
     'sphinxemoji.sphinxemoji',
     'myst_parser',
     'sphinxext.opengraph',
+    # Trims and shrinks its preview cards.
+    '_ext.social_cards',
     # Local build-speed fixes; must come after ablog, which it patches.
     '_ext.build_perf',
     # Header menu and banner photos for the community pages.
@@ -118,7 +120,8 @@ ogp_site_name = "Write the Docs"
 # paths onto this, and scrapers ignore Open Graph URLs without a domain.
 ogp_site_url = html_baseurl
 ogp_enable_meta_description = True
-# Cards for pages without an og:image. ogp_image or ogp_use_first_image would turn them off.
+# Cards for pages without an og:image (see _ext/social_cards.py). ogp_image or
+# ogp_use_first_image would turn them off.
 ogp_social_cards = {
     'image': '_static/sticker-wtd-colors.png',
     'image_mini': '_static/sticker-wtd-colors.png',
@@ -260,15 +263,6 @@ notfound_urls_prefix = '/'
 
 
 def setup(app):
-    # Leave the description off the preview cards: the platform shows it under
-    # the image anyway. sphinxext-opengraph's 'description': False does nothing.
-    import sphinxext.opengraph._social_cards as social_cards
-    render_social_card = social_cards.render_social_card
-
-    def render_without_description(path, site_title, page_title, description, siteurl, plt_objects):
-        return render_social_card(path, site_title, page_title, '', siteurl, plt_objects)
-
-    social_cards.render_social_card = render_without_description
 
     # add any metadata from the template into the page context
     def add_metadata(app, pagename, templatename, context, doctree):

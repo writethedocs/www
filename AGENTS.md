@@ -121,6 +121,7 @@ Every page picks its banner photo with a `banner` field (`:banner:` at the top o
 - `meetups.py` — `meetup-listing` directive
 - `atom_absolute.py` — Rewrites atom feed URLs to absolute
 - `build_perf.py` — Build-speed fixes: keeps the environment out of pickled doctrees, makes ablog safe for parallel reading, and parses YAML with libyaml
+- `social_cards.py` — Link preview cards for pages without an image: drops the description from sphinxext-opengraph's cards and shrinks them after the build
 - `community.py` — Loads `_data/community.yaml`, fills in the front page placeholders, picks each page's banner photo (conference pages too) and current menu item, and splits the posts for the blog page
 
 ### Styling
