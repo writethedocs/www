@@ -41,6 +41,7 @@
   <meta name="readthedocs-addons-api-version" content="1">
   {#- The banner is a CSS background, which browsers only find after the CSS. #}
   <link rel="preload" as="image" fetchpriority="high" href="{{ pathto(page_banner, 1) }}">
+  {% include "favicon.html" %}
 {%- endblock %}
 
 {%- block body_tag %}<body class="community">{% endblock %}
