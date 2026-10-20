@@ -1,98 +1,67 @@
-Newsletter & Mailing lists
-==========================
+:template: community/newsletter.html
+:banner: _static/conf/images/photos/notebooks-53653663881.jpg
 
-Write the Docs publishes a monthly newsletter, sharing interesting information
-and ideas that have been shared in our Slack network.
+Newsletter and mailing lists
+============================
 
-Latest newsletters
-------------------
-
-.. postlist:: 3
-   :tags: newsletter
-   :date: %B %d, %Y
-   :format: {title} - {date}
-   :list-style: circle
-
-`View all past newsletters </blog/archive/tag/newsletter/>`__
+Once a month, our newsletter team rounds up the best conversations from the
+Write the Docs Slack: questions, debates, and tips from documentarians around
+the world. Over {{ newsletter_subs }} people read it.
 
 Sign up
 -------
 
-Use this form to sign up for our newsletter (and announcements for our conferences
-too, if you like):
+Choose what you'd like to hear about. You can unsubscribe from any email.
 
+.. raw:: html
 
-.. raw :: html
+   <form class="newsletter-signup" action="{{ community.mailing_list.action|e }}" method="post" target="_blank">
+     <label for="newsletter-email">Email address</label>
+     <div class="community-signup__form">
+       <input id="newsletter-email" class="uk-input" type="email" name="EMAIL" autocomplete="email" required>
+       <button class="uk-button" type="submit">Subscribe</button>
+     </div>
+     <fieldset>
+       <legend>Send me</legend>
+       <label><input type="checkbox" name="group[14633][1]" value="1" checked> The monthly community newsletter</label>
+       <label><input type="checkbox" name="group[14633][2]" value="2" data-timezones="America/ US/ Canada/ Pacific/Honolulu"> North American conference announcements</label>
+       <label><input type="checkbox" name="group[14633][4]" value="4" data-timezones="Europe/ Africa/ Atlantic/"> European conference announcements</label>
+       <label><input type="checkbox" name="group[14633][8]" value="8" data-timezones="Australia/ Pacific/Auckland Pacific/Chatham"> Australian conference announcements</label>
+       <label><input type="checkbox" name="group[14633][32]" value=""> Salary survey announcements</label>
+     </fieldset>
+     <!-- Bot trap from Mailchimp's embed code: people never fill it in. -->
+     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="{{ community.mailing_list.bot_field }}" tabindex="-1" value=""></div>
+   </form>
 
-    <!-- Begin Mailchimp Signup Form -->
-    <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
-    <style type="text/css">
-      #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;}
-      /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-        We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-    </style>
-    <div id="mc_embed_signup">
-        <form action="https://writethedocs.us6.list-manage.com/subscribe/post?u=94377ea46d8b176a11a325d03&amp;id=dcf0ed349b&amp;f_id=00d2c2e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-            <div id="mc_embed_signup_scroll">
-    <div class="mc-field-group">
-      <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-    </label>
-      <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
-      <span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
-    </div>
-    <div class="mc-field-group input-group">
-        <strong>What types of updates would you like? </strong>
-        <ul><li>
-        <input type="checkbox" value="1" name="group[14633][1]" id="mce-group[14633]-14633-0" checked>
-        <label for="mce-group[14633]-14633-0">Monthly Community Newsletter</label>
-    </li>
-    <li>
-        <input type="checkbox" value="2" name="group[14633][2]" id="mce-group[14633]-14633-1">
-        <label for="mce-group[14633]-14633-1">North American Conference Announcements</label>
-    </li>
-    <li>
-        <input type="checkbox" value="4" name="group[14633][4]" id="mce-group[14633]-14633-2">
-        <label for="mce-group[14633]-14633-2">European Conference Announcements</label>
-    </li>
-    <li>
-        <input type="checkbox" value="8" name="group[14633][8]" id="mce-group[14633]-14633-3">
-        <label for="mce-group[14633]-14633-3">Australian Conference Announcements</label>
-    </li>
-    <li>
-        <input type="checkbox" value="16" name="group[14633][16]" id="mce-group[14633]-14633-4">
-        <label for="mce-group[14633]-14633-4">Atlantic Conference Announcements</label>
-    </li>
-   <li>
-      <input type="checkbox" name="group[14633][32]" id="mce-group[14633]-14633-5" value="">
-      <label for="mce-group[14633]-14633-5">Salary Survey Announcements</label>
-   </li>
-    </ul>
-        <span id="mce-group[14633]-HELPERTEXT" class="helper_text"></span>
-    </div>
-      <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-      </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_94377ea46d8b176a11a325d03_dcf0ed349b" tabindex="-1" value=""></div>
-        <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-        </div>
-    </form>
-    </div>
-    <!--End mc_embed_signup-->
+Latest issues
+-------------
 
-Sponsorship
+.. raw:: html
+
+   <!-- newsletter-issues -->
+
+Past issues
 -----------
 
-If you'd like to be featured in an edition of the newsletter as a sponsor, take a look
-at the :doc:`sponsor the newsletter </sponsorship/newsletter>` page.
+.. raw:: html
 
-Explore past topics
--------------------
+   <!-- newsletter-archive -->
 
-If you're looking for a specific topic, try the `content index </topics/>`__, which includes videos of conference talks as well.
+Looking for a subject? The :doc:`content by topic </topics>` gathers
+newsletter articles and conference talks.
+
+Sponsor the newsletter
+----------------------
+
+To reach our readers as a sponsor of an issue, see
+:doc:`sponsor the newsletter </sponsorship/newsletter>`.
+
+.. button-link:: /sponsorship/newsletter/
+
+   Sponsor the newsletter
 
 Get in touch
 ------------
 
-If you have any questions or want to contribute to the newsletter, go ahead and email us at `newsletter@writethedocs.org
-<mailto:newsletter@writethedocs.org>`_.
+Questions, or want to help write the newsletter? Email us at
+`newsletter@writethedocs.org <mailto:newsletter@writethedocs.org>`_.

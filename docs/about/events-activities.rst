@@ -1,21 +1,18 @@
+:orphan:
+
+.. Kept so its old URL keeps working. It's in no toctree or menu, and nothing
+   links to it: conferences, meetups and sponsorship each have their own
+   section now.
+
 Events and Activities
 =====================
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-
-   /conf/index
-   /meetups/index
-   /sponsorship/index
 
 Conferences
 ~~~~~~~~~~~
 
 Our conferences create a time and a place for the global community of documentarians to share information, discuss ideas, and work together to improve the art and science of documentation.
 
-.. include:: /include/conf/current.rst
-   :start-after: current-conferences-list
+{% include "conf/current-list.rst" %}
 
 To see the whole list of conferences, check out :doc:`Conferences </conf/index>`.
 

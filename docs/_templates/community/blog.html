@@ -1,0 +1,86 @@
+{#-
+  The blog page, docs/blog/index.rst. Its text comes first, then the posts,
+  split by blog_listing() in _ext/community.py into the kinds that each have
+  their own home:
+
+  - the newsletter's latest issues; the newsletter page lists them all
+  - news from the upcoming conferences in _data/community.yaml; each
+    conference's news page lists its own
+  - the blog's own updates, by year
+  - links to the news of earlier conferences
+-#}
+{%- extends "layout.html" %}
+
+{#- "Oct 7", or "Oct 7, 2026" with the year. Not strftime's %-d, which
+    Windows doesn't support. #}
+{%- macro post_date(post, with_year=False) -%}
+<time datetime="{{ post.date.strftime('%Y-%m-%d') }}">{{ post.date.strftime('%b') }} {{ post.date.day }}{% if with_year %}, {{ post.date.year }}{% endif %}</time>
+{%- endmacro %}
+
+{%- block body %}
+{%- set listing = blog_listing() %}
+{{ body }}
+
+<section aria-labelledby="newsletter">
+  <h2 id="newsletter">Newsletter</h2>
+  {% include "community/newsletter-issues.html" %}
+  <p><a href="{{ pathto('newsletter') }}#past-issues">All issues</a> · <a href="{{ pathto('newsletter') }}">Subscribe</a></p>
+</section>
+
+<section aria-labelledby="conference-news">
+  <h2 id="conference-news">Conference news</h2>
+  <ul class="blog-conferences">
+    {%- for conference in listing.upcoming_conferences %}
+    <li>
+      <h3><a href="{{ pathto(conference.docname) }}">{{ conference.title }}</a></h3>
+      {%- if not conference.posts %}
+      <p>No news yet.</p>
+      {%- endif %}
+      <ul class="blog-posts">
+        {%- for post in conference.posts[:3] %}
+        <li>{{ post_date(post, with_year=True) }} <a href="{{ pathto(post.docname) }}">{{ post.title }}</a></li>
+        {%- endfor %}
+      </ul>
+      {%- if conference.posts|length > 3 %}
+      <a class="blog-conferences__more" href="{{ pathto(conference.docname) }}">All {{ conference.posts|length }} posts</a>
+      {%- endif %}
+    </li>
+    {%- endfor %}
+  </ul>
+</section>
+
+<section aria-labelledby="updates">
+  <h2 id="updates">Updates</h2>
+  {%- for year, posts in listing.updates %}
+  <h3 id="updates-{{ year }}">{{ year }}</h3>
+  <ul class="blog-posts">
+    {%- for post in posts %}
+    <li>{{ post_date(post) }} <a href="{{ pathto(post.docname) }}">{{ post.title }}</a></li>
+    {%- endfor %}
+  </ul>
+  {%- endfor %}
+</section>
+
+{%- if listing.earlier_conferences %}
+<section aria-labelledby="earlier-conference-news">
+  <h2 id="earlier-conference-news">Earlier conference news</h2>
+  <ul class="blog-earlier">
+    {%- for conference in listing.earlier_conferences %}
+    <li><a href="{{ pathto(conference.docname) }}">{{ conference.title }}</a> ({{ conference.posts|length }})</li>
+    {%- endfor %}
+  </ul>
+</section>
+{%- endif %}
+{%- endblock %}
+
+{%- block page_toc %}
+{%- set listing = blog_listing() %}
+<ul><li><ul>
+  <li><a href="#newsletter">Newsletter</a></li>
+  <li><a href="#conference-news">Conference news</a></li>
+  <li><a href="#updates">Updates</a></li>
+  {%- if listing.earlier_conferences %}
+  <li><a href="#earlier-conference-news">Earlier conference news</a></li>
+  {%- endif %}
+</ul></li></ul>
+{%- endblock %}

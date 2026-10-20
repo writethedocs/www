@@ -35,6 +35,10 @@ jobs:
     - name: Install dependencies
       run: uv sync --frozen
 
+    - name: Check photo sizes
+      run: |
+        python3 docs/_scripts/check_photo_sizes.py
+
     - name: Build
       run: |
         cd docs

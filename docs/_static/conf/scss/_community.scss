@@ -1,0 +1,1837 @@
+// Community pages: everything outside conf/<city>/<year>/.
+//
+// Builds on the conference design in _conference.scss, which
+// main-community.scss imports first with navy as $main-color.
+// Only main-community.scss imports this file, so nothing here reaches the
+// conference pages. The templates are _templates/layout.html,
+// _templates/community/*.html, and _templates/shared/footer.html.
+
+$community-width: 1140px;
+$community-text-width: 740px;
+$community-rail-width: 232px;
+$community-ink: $black;
+$community-muted: #5f6368;
+$community-line: #e4e5e6;
+$community-tint: #f7f7f4;
+$community-link: $header-color;
+$community-mono: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+$community-shadow: 0 10px 30px rgba(19, 37, 48, 0.12);
+$community-focus-glow: 0 0 0 3px rgba($footer-color, 0.2);
+
+// A centred column, like .uk-container but wider. The conference styles pin
+// every .uk-container to 780px, which suits a conference but not the guides.
+@mixin community-column {
+    box-sizing: border-box;
+    max-width: $community-width;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+
+    @media (min-width: 640px) {
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+}
+
+// The dark button: mailing list signup, search page, and Mailchimp's form.
+@mixin community-button {
+    border: 0;
+    border-radius: 8px;
+    background: $community-ink;
+    color: $white;
+    font-family: $base-body-font-family;
+    font-size: 15px;
+    font-weight: $bold;
+    text-transform: uppercase;
+    cursor: pointer;
+
+    &:hover,
+    &:focus {
+        background: $footer-color;
+        color: $white;
+    }
+}
+
+// Text inputs: the search boxes and the mailing list signup.
+@mixin community-input($border: 2px solid $community-ink) {
+    box-sizing: border-box;
+    height: 48px;
+    padding: 0 16px;
+    border: $border;
+    border-radius: 8px;
+    background: $white;
+    color: $community-ink;
+    font-family: $base-body-font-family;
+    font-size: 17px;
+
+    &::placeholder {
+        color: $community-muted;
+    }
+
+    &:focus {
+        border-color: $main-color;
+        outline: none;
+        box-shadow: $community-focus-glow;
+    }
+}
+
+// Small uppercase labels: admonition and "Contents" titles.
+@mixin community-label {
+    color: $community-ink;
+    font-size: 14px;
+    font-weight: $bold;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+// On screens wider than the photos (1600px), keep the photo at its own width
+// and fade its sides into the slate, as the Portland 2026 banners do, instead
+// of stretching it until it blurs. The element's photo is its last
+// background layer.
+@mixin community-photo-fade($layers: 1) {
+    @media (min-width: 1601px) {
+        position: relative;
+        background-repeat: no-repeat;
+        @if $layers == 2 {
+            background-size: 100% 100%, 1600px auto;
+        } @else {
+            background-size: 1600px auto;
+        }
+
+        &::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 50%;
+            width: 1600px;
+            transform: translateX(-50%);
+            background: linear-gradient(to right, $footer-color, rgba($footer-color, 0) 240px,
+                rgba($footer-color, 0) 1360px, $footer-color);
+            pointer-events: none;
+        }
+
+        > * {
+            position: relative;
+            z-index: 1;
+        }
+    }
+}
+
+// A list of cards that wraps to fit, each at least $min wide.
+@mixin community-card-grid($min, $gap: 20px) {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, $min), 1fr));
+    gap: $gap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    > li {
+        margin: 0;
+    }
+}
+
+// A white card. With $lift, it rises a little on hover: for cards that are
+// links as a whole.
+@mixin community-card($lift: false) {
+    border: 1px solid $community-line;
+    border-radius: 10px;
+    background: $white;
+
+    @if $lift {
+        transition: box-shadow 0.15s, transform 0.15s;
+
+        &:hover {
+            box-shadow: $community-shadow;
+            transform: translateY(-2px);
+        }
+    }
+}
+
+.community-visually-hidden {
+    position: absolute !important;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
+.community-container {
+    @include community-column;
+}
+
+body.community {
+    background: $white;
+    color: $copy-color;
+
+    a:focus-visible,
+    button:focus-visible,
+    input:focus-visible {
+        outline: 3px solid $main-color;
+        outline-offset: 2px;
+    }
+
+    // White outlines on the dark hero, footer and menu.
+    .community-hero,
+    footer,
+    .community-menu {
+        a:focus-visible,
+        button:focus-visible,
+        input:focus-visible {
+            outline-color: $white;
+        }
+    }
+}
+
+.community-skip-link {
+    position: absolute;
+    top: -100px;
+    left: 16px;
+    z-index: 1100;
+    padding: 8px 16px;
+    border-radius: 6px;
+    background: $community-ink;
+    color: $white;
+    font-weight: $bold;
+
+    &:focus {
+        top: 12px;
+        color: $white;
+        text-decoration: none;
+    }
+}
+
+// The announcement bar, in the footer's dark slate.
+.community-announcement {
+    padding: 12px 16px;
+    background: $footer-color;
+    text-align: center;
+
+    p {
+        margin: 0;
+        color: $white;
+        font-size: 16px;
+    }
+
+    a {
+        color: $white;
+        font-weight: $bold;
+        text-decoration: underline;
+
+        &:hover {
+            color: $community-tint;
+        }
+    }
+}
+
+// ---------------------------------------------------------------------------
+// Header menu (community/navbar.html)
+// ---------------------------------------------------------------------------
+
+.community-header {
+    background: $white;
+    border-bottom: 1px solid $community-line;
+}
+
+.community-navbar {
+    .uk-navbar-left,
+    .uk-navbar-right {
+        flex-wrap: nowrap;
+    }
+
+    // The Write the Docs stamp, which is the logo on every community page.
+    .community-logo {
+        min-height: 84px;
+        padding: 0;
+
+        img {
+            width: 60px;
+            height: 60px;
+        }
+    }
+
+    .uk-navbar-nav > li > a {
+        position: relative;
+        min-height: 84px;
+        padding: 0 13px;
+        color: $community-ink;
+        font-family: $base-body-font-family;
+        font-size: 15px;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+
+        // The underline that marks the hovered and current items.
+        &::after {
+            content: "";
+            position: absolute;
+            left: 13px;
+            right: 13px;
+            bottom: 24px;
+            height: 2px;
+            background: $main-color;
+            transform: scaleX(0);
+            transition: transform 0.15s ease-out;
+        }
+
+        &:hover::after,
+        &:focus-visible::after,
+        &[aria-expanded="true"]::after {
+            transform: scaleX(1);
+        }
+    }
+
+    .uk-navbar-nav > li.uk-active > a::after {
+        transform: scaleX(1);
+    }
+
+    // A chevron on the items that open a menu.
+    .uk-navbar-nav > li > a.community-has-menu {
+        padding-right: 27px;
+
+        &::after {
+            right: 27px;
+        }
+
+        &::before {
+            content: "";
+            position: absolute;
+            top: 50%;
+            right: 12px;
+            width: 6px;
+            height: 6px;
+            border-right: 2px solid currentColor;
+            border-bottom: 2px solid currentColor;
+            transform: translateY(-75%) rotate(45deg);
+        }
+    }
+
+    .uk-navbar-dropdown {
+        width: 240px;
+        padding: 10px 0;
+        border-top: 3px solid $main-color;
+        border-radius: 0 0 8px 8px;
+        box-shadow: $community-shadow;
+    }
+
+    .uk-navbar-dropdown-nav > li > a {
+        padding: 8px 20px;
+        color: $copy-color;
+        font-size: 15px;
+        text-transform: none;
+    }
+
+    .uk-navbar-dropdown-nav > li > a:hover,
+    .uk-navbar-dropdown-nav > li > a:focus {
+        background: $community-tint;
+        color: $community-ink;
+    }
+
+    .uk-navbar-toggle {
+        min-height: 84px;
+        padding: 0 10px;
+        border: 0;
+        background: none;
+        color: $community-ink;
+        cursor: pointer;
+
+        &:hover {
+            color: $main-color;
+        }
+    }
+}
+
+.community-nav-button,
+.community-nav-button:visited {
+    padding: 0 18px;
+    border: 2px solid $community-ink;
+    border-radius: 6px;
+    background: transparent;
+    color: $community-ink;
+    font-size: 14px;
+    font-weight: $bold;
+    line-height: 36px;
+    text-transform: uppercase;
+    white-space: nowrap;
+
+    &:hover,
+    &:focus {
+        background: $community-ink;
+        color: $white;
+        text-decoration: none;
+    }
+}
+
+// Search: a button in the menu opens the box over the menu items.
+.community-search-toggle {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.community-search-drop {
+    width: min(560px, 62vw);
+    padding: 0;
+}
+
+// Plain .uk-search rather than .uk-search-default, whose rules make the box
+// transparent when focused and inside the slide-in menu.
+.community-search {
+    .uk-search-input {
+        @include community-input;
+        padding-right: 48px;
+        box-shadow: $community-shadow;
+
+        &:focus {
+            box-shadow: $community-focus-glow, $community-shadow;
+        }
+    }
+
+    .uk-search-icon {
+        width: 48px;
+        color: $community-ink;
+    }
+}
+
+// The menu that slides in on small screens.
+.community-menu .uk-offcanvas-bar {
+    width: 300px;
+    padding: 24px;
+    background: $footer-color;
+
+    .uk-offcanvas-close {
+        top: 20px;
+        right: 16px;
+        color: $white;
+    }
+
+    .community-menu__logo {
+        display: inline-block;
+        margin: 0 0 20px;
+
+        img {
+            display: block;
+            width: 56px;
+            height: 56px;
+        }
+    }
+
+    .community-search {
+        margin-bottom: 16px;
+
+        .uk-search-input {
+            height: 44px;
+            border: 0;
+            box-shadow: none;
+        }
+    }
+
+    .uk-nav-default > li > a {
+        padding: 8px 0;
+        color: $white;
+        font-size: 16px;
+        font-weight: $bold;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+    }
+
+    // The current section: white like the rest, underlined so it stands
+    // out without relying on colour.
+    .uk-nav-default > li.uk-active > a {
+        color: $white;
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+        text-underline-offset: 6px;
+    }
+
+    a:focus-visible {
+        outline: 2px solid $white;
+        outline-offset: 2px;
+    }
+
+    .uk-nav-sub {
+        padding: 0 0 8px 14px;
+
+        a {
+            padding: 4px 0;
+            color: #c9d1d6;
+            font-size: 16px;
+
+            &:hover {
+                color: $white;
+            }
+        }
+    }
+
+    .community-nav-button {
+        margin-top: 20px;
+    }
+}
+
+// The menu button on dark backgrounds: the slide-in menu and the hero.
+.community-menu .community-nav-button,
+.community-hero .community-nav-button,
+.community-hero .community-nav-button:visited {
+    border-color: $white;
+    color: $white;
+
+    &:hover,
+    &:focus {
+        background: $white;
+        color: $community-ink;
+    }
+}
+
+// ---------------------------------------------------------------------------
+// Photo banner with the page title, like the conference pages
+// ---------------------------------------------------------------------------
+
+.community-banner {
+    display: flex;
+    align-items: flex-end;
+    box-sizing: border-box;
+    min-height: 190px;
+    padding: 24px 0;
+    background-color: $footer-color;
+    background-position: center 40%;
+    background-size: cover;
+    @include community-photo-fade;
+
+    .community-container {
+        width: 100%;
+    }
+
+    h1 {
+        display: inline-block;
+        max-width: 100%;
+        box-sizing: border-box;
+        margin: 0;
+        padding: 8px 16px;
+        border-radius: 8px;
+        background: rgba(1, 1, 1, 0.62);
+        color: $white;
+        font-family: $secondary-font-family;
+        font-size: 28px;
+        font-weight: normal;
+        line-height: 1.2;
+    }
+
+    @media (min-width: 960px) {
+        min-height: 300px;
+        padding-bottom: 36px;
+
+        h1 {
+            padding: 10px 20px;
+            font-size: 44px;
+        }
+    }
+}
+
+// ---------------------------------------------------------------------------
+// Page body, with the page's sections alongside on wide screens
+// ---------------------------------------------------------------------------
+
+.community-page {
+    padding: 24px 0 64px;
+
+    @media (min-width: 960px) {
+        padding-top: 32px;
+    }
+}
+
+.community-breadcrumbs {
+    margin-bottom: 20px;
+    color: $community-muted;
+    font-size: 14px;
+
+    a {
+        color: $community-muted;
+        text-decoration: none;
+
+        &:hover {
+            color: $community-ink;
+            text-decoration: underline;
+        }
+    }
+
+    span {
+        margin: 0 4px;
+        color: #a9aeb2;
+    }
+}
+
+.community-columns {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    column-gap: 64px;
+
+    @media (min-width: 1200px) {
+        grid-template-columns: minmax(0, $community-text-width) $community-rail-width;
+        justify-content: space-between;
+    }
+}
+
+.community-rail {
+    margin-top: 40px;
+
+    @media (min-width: 1200px) {
+        margin-top: 0;
+    }
+}
+
+// Space between the ad, when there is one, and the "On this page" list.
+#ethical-ad-placement:not(:empty) {
+    margin-bottom: 32px;
+}
+
+// The page's sections: the "On this page" column on wide screens, and the
+// folded list above the content on smaller ones (_templates/layout.html).
+.community-toc-list {
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+
+    // The first entry is the page title, which is already in the banner.
+    > ul > li > a {
+        display: none;
+    }
+
+    > ul > li > ul {
+        border-left: 2px solid $community-line;
+    }
+
+    ul ul ul {
+        padding-left: 12px;
+    }
+
+    li {
+        margin: 0;
+        color: inherit;
+        font-size: 14px;
+        line-height: 1.4;
+    }
+
+    a {
+        display: block;
+        margin-left: -2px;
+        padding: 5px 0 5px 14px;
+        border-left: 2px solid transparent;
+        color: $community-muted;
+        text-decoration: none;
+
+        &:hover,
+        &:focus-visible {
+            border-left-color: $main-color;
+            color: $community-ink;
+        }
+    }
+}
+
+@mixin community-toc-label {
+    color: $community-muted;
+    font-family: $base-body-font-family;
+    font-size: 13px;
+    font-weight: $bold;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.community-toc {
+    display: none;
+
+    @media (min-width: 1200px) {
+        display: block;
+        position: sticky;
+        top: 24px;
+        max-height: calc(100vh - 48px);
+        overflow-y: auto;
+        margin-bottom: 32px;
+    }
+
+    h2 {
+        margin: 6px 0 10px;
+        @include community-toc-label;
+        text-align: left;
+    }
+}
+
+.community-toc-compact {
+    margin: 0 0 24px;
+    border: 1px solid $community-line;
+    border-radius: 8px;
+    background: $community-tint;
+
+    @media (min-width: 1200px) {
+        display: none;
+    }
+
+    summary {
+        padding: 12px 16px;
+        @include community-toc-label;
+        cursor: pointer;
+
+        &:focus-visible {
+            outline: 3px solid $main-color;
+            outline-offset: 2px;
+        }
+    }
+
+    nav {
+        padding: 0 16px 12px;
+    }
+}
+
+.community-post-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px 16px;
+    margin: 0 0 24px;
+    color: $community-muted;
+    font-size: 15px;
+
+    a {
+        color: $community-link;
+    }
+}
+
+// Typography for page content: reStructuredText and Markdown rendered by
+// Sphinx. Sphinx's basic.css loads first; these replace its look, and the
+// conference rules for p, li, em and h2 that would otherwise apply.
+.community-body {
+    max-width: $community-text-width;
+    min-width: 0;
+    color: $copy-color;
+    font-size: 17px;
+    line-height: 1.7;
+    // Long URLs in the text wrap instead of widening the page on phones.
+    overflow-wrap: break-word;
+
+    // The page title is in the banner. The older salary survey reports wrap
+    // their whole page, title included, in .survey-results.
+    > h1:first-child,
+    > section:first-of-type > h1:first-of-type,
+    > .survey-results:first-child > section:first-of-type > h1:first-of-type {
+        display: none;
+    }
+
+    p,
+    li,
+    dd,
+    dt,
+    td,
+    th {
+        color: $copy-color;
+        font-size: inherit;
+    }
+
+    p {
+        margin: 0 0 20px;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        width: auto;
+        color: $community-ink;
+        font-family: $base-body-font-family;
+        font-weight: $bold;
+        line-height: 1.25;
+        text-align: left;
+    }
+
+    h1 {
+        margin: 56px 0 20px;
+        font-size: 32px;
+    }
+
+    h2 {
+        margin: 48px 0 16px;
+        font-size: 28px;
+    }
+
+    h3 {
+        margin: 36px 0 12px;
+        font-size: 22px;
+    }
+
+    h4 {
+        margin: 28px 0 10px;
+        font-size: 18px;
+    }
+
+    h5,
+    h6 {
+        margin: 24px 0 8px;
+        font-size: 16px;
+    }
+
+    a {
+        border-bottom: 1px dashed $community-link;
+        color: $community-link;
+        text-decoration: none;
+
+        &:hover {
+            border-bottom: 1px solid $main-color;
+            color: $community-ink;
+        }
+    }
+
+    a.headerlink {
+        margin-left: 6px;
+        border: 0;
+        color: #a9aeb2;
+        font-weight: normal;
+
+        &:hover,
+        &:focus {
+            color: $main-color;
+            visibility: visible;
+        }
+    }
+
+    a.image-reference,
+    a:has(> img) {
+        border-bottom: 0;
+    }
+
+    a.toc-backref,
+    a.toc-backref:hover {
+        border-bottom: 0;
+        color: inherit;
+    }
+
+    // The style guide's "Good:" and "Bad:" examples (global-customizations.css).
+    .good,
+    .bad {
+        margin: 0 0 16px;
+        padding: 8px 14px 2px;
+        border-radius: 6px;
+
+        p {
+            margin-bottom: 8px;
+        }
+    }
+
+    em {
+        color: inherit;
+        font-style: italic;
+        font-weight: inherit;
+    }
+
+    strong {
+        color: $community-ink;
+        font-weight: $bold;
+    }
+
+    ul,
+    ol {
+        margin: 0 0 20px;
+        padding-left: 1.5em;
+    }
+
+    li {
+        margin: 4px 0;
+    }
+
+    ul li::marker {
+        color: $main-color;
+    }
+
+    li > p {
+        margin: 0 0 8px;
+    }
+
+    ul.simple > li > p,
+    ol.simple > li > p {
+        margin: 0;
+    }
+
+    li > ul,
+    li > ol {
+        margin: 4px 0 8px;
+    }
+
+    dl {
+        margin: 0 0 20px;
+    }
+
+    dt {
+        color: $community-ink;
+        font-weight: $bold;
+    }
+
+    dd {
+        margin: 2px 0 12px 1.5em;
+    }
+
+    hr {
+        margin: 40px 0;
+        border: 0;
+        border-top: 1px solid $community-line;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    iframe {
+        max-width: 100%;
+    }
+
+    figure {
+        margin: 0 0 24px;
+    }
+
+    figcaption,
+    .caption {
+        margin-top: 8px;
+        color: $community-muted;
+        font-size: 15px;
+    }
+
+    blockquote {
+        margin: 0 0 24px;
+        padding: 2px 0 2px 20px;
+        border-left: 4px solid $main-color;
+        color: $copy-color;
+        font-size: inherit;
+        font-style: normal;
+        line-height: inherit;
+
+        > :last-child {
+            margin-bottom: 0;
+        }
+    }
+
+    // Inline code and code blocks. UIkit's pink inline code doesn't suit prose.
+    code,
+    kbd {
+        font-family: $community-mono;
+    }
+
+    :not(pre) > code {
+        padding: 0.1em 0.35em;
+        border-radius: 4px;
+        background: #eef1ee;
+        color: #1d2a2f;
+        font-size: 0.86em;
+        white-space: normal;
+        overflow-wrap: anywhere;
+    }
+
+    pre,
+    div.highlight pre {
+        margin: 0 0 24px;
+        padding: 16px 20px;
+        overflow-x: auto;
+        border: 1px solid $community-line;
+        border-radius: 8px;
+        background: #f8f9f8;
+        color: #1d2a2f;
+        font-family: $community-mono;
+        font-size: 14px;
+        line-height: 1.55;
+    }
+
+    div.highlight {
+        margin: 0 0 24px;
+        background: transparent;
+
+        pre {
+            margin: 0;
+        }
+    }
+
+    // Notes, tips and warnings.
+    div.admonition {
+        margin: 0 0 24px;
+        padding: 16px 20px;
+        border-left: 3px solid $main-color;
+        border-radius: 0 8px 8px 0;
+        background: $community-tint;
+
+        > :last-child {
+            margin-bottom: 0;
+        }
+
+        &.warning,
+        &.caution,
+        &.attention,
+        &.important {
+            border-left-color: #e0a526;
+        }
+
+        &.danger,
+        &.error {
+            border-left-color: #c94a4a;
+        }
+    }
+
+    p.admonition-title {
+        @include community-label;
+        margin: 0 0 6px;
+
+        &::after {
+            content: none;
+        }
+    }
+
+    // "Contents" boxes and other topics.
+    nav.contents,
+    aside.topic,
+    div.topic {
+        margin: 0 0 28px;
+        padding: 16px 20px;
+        border: 0;
+        border-radius: 8px;
+        background: $community-tint;
+
+        ul {
+            margin: 0;
+        }
+
+        li {
+            margin: 2px 0;
+            font-size: 16px;
+        }
+    }
+
+    p.topic-title {
+        @include community-label;
+        margin: 0 0 8px;
+    }
+
+    aside.sidebar {
+        margin: 0 0 20px 24px;
+        padding: 16px 20px;
+        border: 0;
+        border-radius: 8px;
+        background: $community-tint;
+        font-size: 15px;
+    }
+
+    table.docutils {
+        display: block;
+        max-width: 100%;
+        margin: 0 0 24px;
+        overflow-x: auto;
+        border: 0;
+        border-collapse: collapse;
+        font-size: 15px;
+        line-height: 1.5;
+
+        th,
+        td {
+            padding: 10px 12px;
+            border: 0;
+            border-bottom: 1px solid $community-line;
+            text-align: left;
+            vertical-align: top;
+        }
+
+        thead th {
+            border-bottom: 2px solid $community-line;
+            background: $community-tint;
+            color: $community-ink;
+        }
+
+        p {
+            margin: 0;
+        }
+
+        p + p {
+            margin-top: 8px;
+        }
+    }
+
+    aside.footnote-list {
+        font-size: 15px;
+    }
+
+    // Blog post lists (ablog's postlist directive).
+    ul.postlist {
+        padding-left: 0;
+        list-style: none;
+
+        > li {
+            margin: 0;
+            padding: 12px 0;
+            border-bottom: 1px solid $community-line;
+        }
+
+        p {
+            margin: 0;
+        }
+    }
+
+    // The search page (Sphinx's search.html).
+    #search-documentation ~ p {
+        color: $community-muted;
+    }
+
+    #search-documentation ~ form {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin: 0 0 32px;
+
+        input[name="q"] {
+            @include community-input;
+            flex: 1 1 260px;
+        }
+
+        input[type="submit"] {
+            @include community-button;
+            height: 48px;
+            padding: 0 24px;
+        }
+
+        #search-progress {
+            align-self: center;
+            color: $community-muted;
+        }
+    }
+
+    #search-results {
+        h2 {
+            margin-top: 0;
+            font-size: 22px;
+        }
+
+        .search-summary {
+            color: $community-muted;
+        }
+
+        ul.search {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+
+            li {
+                margin: 0;
+                padding: 16px 0;
+                border-bottom: 1px solid $community-line;
+                background-image: none;
+
+                > a {
+                    font-size: 18px;
+                    font-weight: $bold;
+                }
+            }
+
+            p.context {
+                margin: 6px 0 0;
+                color: $community-muted;
+                font-size: 15px;
+            }
+        }
+    }
+}
+
+// ---------------------------------------------------------------------------
+// Mailing list band and sponsors
+// ---------------------------------------------------------------------------
+
+.community-signup {
+    padding: 48px 0;
+    border-top: 1px solid $community-line;
+    background: $community-tint;
+
+    .community-container {
+        display: grid;
+        gap: 16px 48px;
+        align-items: center;
+
+        @media (min-width: 960px) {
+            grid-template-columns: minmax(0, 1fr) minmax(0, 460px);
+        }
+    }
+
+    h2 {
+        margin: 0 0 6px;
+        color: $community-ink;
+        font-size: 28px;
+        text-align: left;
+    }
+
+    p {
+        margin: 0;
+        color: $community-ink;
+        font-size: 17px;
+    }
+
+    a {
+        color: $community-ink;
+        text-decoration: underline;
+    }
+}
+
+// An email box and Subscribe button, in the band and on the newsletter page.
+.community-signup__form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+
+    .uk-input {
+        @include community-input(1px solid #c9cdd0);
+        flex: 1 1 220px;
+    }
+
+    .uk-button {
+        @include community-button;
+        height: 48px;
+        padding: 0 28px;
+        line-height: 48px;
+    }
+}
+
+.community-signup__more {
+    font-size: 15px;
+
+    @media (min-width: 960px) {
+        grid-column: 1 / -1;
+    }
+}
+
+.community-sponsors {
+    padding: 44px 0 40px;
+    border-top: 1px solid $community-line;
+    background: $white;
+
+    h2 {
+        margin: 0 0 24px;
+        color: $community-muted;
+        font-size: 14px;
+        letter-spacing: 0.08em;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    .learn-more {
+        margin-top: 24px;
+        padding: 0;
+        text-align: center;
+    }
+}
+
+.community-sponsors__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 24px 56px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    li {
+        margin: 0;
+    }
+
+    a {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 8px;
+        color: $community-muted;
+        font-size: 14px;
+        text-decoration: none;
+
+        &:hover span {
+            color: $community-ink;
+        }
+    }
+
+    img {
+        width: auto;
+        max-width: 200px;
+        height: auto;
+        max-height: 44px;
+    }
+}
+
+// ---------------------------------------------------------------------------
+// Front page (community/index.html and docs/index.rst)
+// ---------------------------------------------------------------------------
+
+.community-hero {
+    background-color: $footer-color;
+    background-position: center 30%;
+    background-size: cover;
+    // Two layers: the dark tint over the photo.
+    @include community-photo-fade($layers: 2);
+
+    .community-navbar {
+        border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+
+        .uk-navbar-nav > li > a,
+        .uk-navbar-toggle {
+            color: $white;
+        }
+
+        .uk-navbar-nav > li > a::after {
+            background: $white;
+        }
+    }
+
+    // The hero has the big wordmark.
+    .community-logo {
+        visibility: hidden;
+    }
+}
+
+.community-hero__content {
+    display: grid;
+    gap: 24px 56px;
+    align-items: center;
+    padding-top: 32px;
+    padding-bottom: 56px;
+    text-align: center;
+
+    @media (min-width: 960px) {
+        grid-template-columns: auto minmax(0, 600px);
+        justify-content: center;
+        padding-top: 56px;
+        padding-bottom: 88px;
+        text-align: left;
+    }
+}
+
+.community-hero__logo {
+    justify-self: center;
+    width: 140px;
+    height: auto;
+
+    @media (min-width: 960px) {
+        width: 200px;
+    }
+}
+
+.community-hero__text {
+    h1 {
+        margin: 0 0 16px;
+        color: $white;
+        font-family: $base-body-font-family;
+        font-size: 28px;
+        font-weight: $bold;
+        line-height: 1.2;
+
+        @media (min-width: 960px) {
+            font-size: 38px;
+        }
+    }
+
+    p {
+        margin: 0 0 28px;
+        color: #e6eaec;
+        font-size: 18px;
+    }
+}
+
+.community-hero__buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+
+    @media (min-width: 960px) {
+        justify-content: flex-start;
+    }
+}
+
+// docs/index.rst lays out its own sections; these keep them to the page
+// column while their backgrounds run the full width.
+.community-home {
+    > .body > section > h1:first-child {
+        display: none;
+    }
+
+    > .body > section > :not(section),
+    .home-section > * {
+        @include community-column;
+    }
+
+    p,
+    li {
+        font-size: 17px;
+    }
+
+    // Underlined, so links in text don't rely on colour alone.
+    a {
+        color: $community-link;
+        text-decoration: underline;
+        text-decoration-color: rgba($community-link, 0.45);
+        text-underline-offset: 3px;
+
+        &:hover {
+            color: $community-ink;
+            text-decoration-color: $main-color;
+        }
+    }
+}
+
+.home-section {
+    padding: 56px 0;
+
+    > h2 {
+        margin-top: 0;
+        margin-bottom: 32px;
+        color: $community-ink;
+        font-size: 32px;
+        text-align: center;
+    }
+}
+
+.home-section--muted {
+    background: $community-tint;
+}
+
+p.home-section__more {
+    margin-top: 28px;
+    text-align: center;
+
+    a {
+        color: $community-ink;
+        font-weight: $bold;
+        text-decoration: underline;
+        text-decoration-color: $main-color;
+        text-decoration-thickness: 2px;
+        text-underline-offset: 4px;
+    }
+}
+
+// Upcoming conference cards, with each conference's logo, on the front page
+// and the conferences page (_templates/community/conference-cards.html).
+ul.conference-cards {
+    @include community-card-grid(420px, 24px);
+
+    a,
+    a:hover {
+        text-decoration: none;
+    }
+
+    a {
+        display: grid;
+        grid-template-rows: 120px auto;
+        height: 100%;
+        overflow: hidden;
+        @include community-card($lift: true);
+        box-shadow: 0 2px 8px rgba(19, 37, 48, 0.06);
+        color: $copy-color;
+
+        @media (min-width: 640px) {
+            grid-template-columns: 190px minmax(0, 1fr);
+            grid-template-rows: none;
+        }
+    }
+}
+
+.conference-card__logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-right: 1px solid $community-line;
+    background: $community-tint;
+    color: $community-ink;
+    font-family: $secondary-font-family;
+    font-size: 20px;
+    line-height: 0.95;
+    text-align: right;
+    text-transform: uppercase;
+
+    img {
+        width: 100%;
+        max-width: 170px;
+        height: auto;
+    }
+
+    @media (max-width: 639px) {
+        border-right: 0;
+        border-bottom: 1px solid $community-line;
+    }
+}
+
+.conference-card__text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2px;
+    padding: 20px 24px;
+
+    strong {
+        color: $community-ink;
+        font-size: 24px;
+        line-height: 1.2;
+    }
+
+    span {
+        font-size: 17px;
+    }
+
+    .conference-card__cta {
+        @include community-label;
+        margin-top: 12px;
+    }
+}
+
+// The "Get involved" tiles. The icons are Font Awesome SVGs in
+// _templates/community/icons/.
+ul.home-tiles {
+    @include community-card-grid(300px);
+
+    li {
+        position: relative;
+        padding: 24px;
+        @include community-card;
+        transition: border-color 0.15s, box-shadow 0.15s;
+
+        &:hover {
+            border-color: $main-color;
+            box-shadow: $community-shadow;
+        }
+    }
+
+    .home-tiles__icon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 48px;
+        height: 48px;
+        margin-bottom: 16px;
+        border-radius: 50%;
+        background: $community-tint;
+        color: $footer-color;
+
+        svg {
+            width: 22px;
+            height: 22px;
+        }
+    }
+
+    h3 {
+        margin: 0 0 6px;
+        font-size: 20px;
+        text-align: left;
+
+        a,
+        a:hover {
+            color: $community-ink;
+            text-decoration: none;
+
+            // The whole tile is the link.
+            &::after {
+                content: "";
+                position: absolute;
+                inset: 0;
+            }
+        }
+    }
+
+    p {
+        margin: 0;
+        font-size: 16px;
+    }
+
+    // Links in the description sit above the tile link.
+    p a {
+        position: relative;
+        z-index: 1;
+    }
+}
+
+// Text beside a photo.
+.home-split {
+    display: grid;
+    gap: 32px 56px;
+    align-items: center;
+
+    @media (min-width: 960px) {
+        grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    }
+
+    p {
+        margin: 0 0 20px;
+        font-size: 18px;
+    }
+
+    img {
+        display: block;
+        width: 100%;
+        aspect-ratio: 3 / 2;
+        border-radius: 10px;
+        object-fit: cover;
+        box-shadow: $community-shadow;
+    }
+}
+
+ul.home-links {
+    columns: 2 300px;
+    column-gap: 48px;
+    margin-top: 0;
+    padding-left: 40px;
+
+    li {
+        margin: 0 0 8px;
+        break-inside: avoid;
+    }
+
+    li::marker {
+        color: $main-color;
+    }
+}
+
+// The blog page: _templates/community/blog.html.
+// The date sits in the left margin, so each title stays an inline link
+// and its underline runs under the words, not across the column.
+ul.blog-posts {
+    margin: 0 0 8px;
+    padding: 0;
+    list-style: none;
+
+    li {
+        position: relative;
+        margin: 0;
+        padding: 8px 0 8px calc(4.5em + 16px);
+        border-bottom: 1px solid $community-line;
+        line-height: 1.5;
+    }
+
+    time {
+        position: absolute;
+        top: 9px;
+        left: 0;
+        color: $community-muted;
+        font-size: 15px;
+        font-variant-numeric: tabular-nums;
+        white-space: nowrap;
+    }
+}
+
+ul.blog-conferences {
+    @include community-card-grid(320px);
+
+    > li {
+        display: flex;
+        flex-direction: column;
+        padding: 20px 24px;
+        @include community-card;
+    }
+
+    h3 {
+        margin: 0 0 8px;
+        font-size: 19px;
+        line-height: 1.3;
+    }
+
+    // Dates with the year go above each title.
+    ul.blog-posts li {
+        padding-left: 0;
+        font-size: 16px;
+
+        time {
+            position: static;
+            display: block;
+            font-size: 14px;
+        }
+
+        &:last-child {
+            border-bottom: 0;
+        }
+    }
+}
+
+.blog-conferences__more {
+    align-self: flex-start;
+    margin-top: auto;
+    font-size: 15px;
+    font-weight: $bold;
+}
+
+ul.blog-earlier {
+    columns: 2 260px;
+    column-gap: 40px;
+    padding-left: 20px;
+
+    li {
+        margin: 0 0 6px;
+        break-inside: avoid;
+    }
+}
+
+// The Read the Docs search window (see _static/js/community.js), in the
+// site's font and colours. The addon reads these custom properties.
+:root {
+    --readthedocs-search-font-family: #{$base-body-font-family};
+    --readthedocs-search-color: #{$copy-color};
+    --readthedocs-search-link-color: #{$community-link};
+    --readthedocs-search-result-heading-color: #{$community-ink};
+    --readthedocs-search-result-highlight-color: #{$main-color};
+    --readthedocs-search-result-section-highlight-color: #{$main-color};
+    --readthedocs-search-result-icon-color: #{$community-muted};
+    --readthedocs-search-backdrop-color: #{rgba($footer-color, 0.6)};
+}
+
+// The newsletter page: _templates/community/newsletter.html and the signup
+// form in docs/newsletter.rst.
+.newsletter-signup {
+    max-width: 560px;
+    margin: 0 0 32px;
+    padding: 24px;
+    border: 1px solid $community-line;
+    border-radius: 10px;
+    background: $community-tint;
+
+    > label,
+    legend {
+        @include community-label;
+        display: block;
+        margin-bottom: 8px;
+    }
+
+    fieldset {
+        margin: 20px 0 0;
+        padding: 0;
+        border: 0;
+    }
+
+    fieldset label {
+        display: flex;
+        gap: 10px;
+        align-items: center;
+        padding: 3px 0;
+        font-size: 16px;
+        cursor: pointer;
+    }
+
+    input[type="checkbox"] {
+        width: 18px;
+        height: 18px;
+        margin: 0;
+        accent-color: $main-color;
+    }
+}
+
+ul.newsletter-issues {
+    @include community-card-grid(210px, 16px);
+    margin-bottom: 20px;
+
+    a,
+    a:hover {
+        text-decoration: none;
+    }
+
+    a {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        box-sizing: border-box;
+        padding: 20px;
+        @include community-card($lift: true);
+        color: $copy-color;
+    }
+
+    time {
+        color: $community-ink;
+        font-family: $secondary-font-family;
+        font-size: 22px;
+        line-height: 1.2;
+    }
+
+    ul {
+        flex: 1;
+        margin: 12px 0 16px;
+        padding-left: 18px;
+
+        li {
+            margin: 0 0 6px;
+            font-size: 15px;
+            line-height: 1.4;
+        }
+    }
+}
+
+.newsletter-issues__cta {
+    @include community-label;
+}
+
+// Every issue, by year: the year, then its months.
+ul.newsletter-archive {
+    margin: 0 0 24px;
+    padding: 0;
+    list-style: none;
+
+    > li {
+        display: grid;
+        grid-template-columns: 3.5em minmax(0, 1fr);
+        column-gap: 16px;
+        margin: 0;
+        padding: 10px 0;
+        border-bottom: 1px solid $community-line;
+    }
+
+    ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 4px 16px;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+
+        li {
+            margin: 0;
+        }
+    }
+}
+
+.newsletter-archive__year {
+    color: $community-ink;
+    font-weight: $bold;
+    font-variant-numeric: tabular-nums;
+}
+
+// Cards that link to pages, each with a title and a line about it: the
+// documentation guide's most read pages (docs/guide/index.rst) and the
+// learning resources (docs/about/learning-resources.rst).
+ul.link-cards {
+    @include community-card-grid(220px, 16px);
+    margin-bottom: 32px;
+
+    a,
+    a:hover {
+        text-decoration: none;
+    }
+
+    a {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        height: 100%;
+        box-sizing: border-box;
+        padding: 18px 20px;
+        @include community-card($lift: true);
+        color: $copy-color;
+    }
+
+    strong {
+        color: $community-ink;
+        font-size: 18px;
+        line-height: 1.3;
+    }
+
+    span {
+        font-size: 15px;
+        line-height: 1.5;
+    }
+}

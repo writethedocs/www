@@ -1,0 +1,29 @@
+{#-
+  The newsletter page, docs/newsletter.rst. The page's text marks where the
+  latest issues go with <!-- newsletter-issues -->, and the list of every
+  issue, by year, with <!-- newsletter-archive -->. The mailing list band at
+  the bottom of other pages is left out here, since this page has the full
+  form.
+-#}
+{%- extends "layout.html" %}
+
+{%- block body %}
+{%- set issues %}{% include "community/newsletter-issues.html" %}{% endset %}
+{%- set archive -%}
+<ul class="newsletter-archive">
+  {%- for year, posts in blog_listing().newsletter %}
+  <li>
+    <span class="newsletter-archive__year">{{ year }}</span>
+    <ul>
+      {%- for post in posts|reverse %}
+      <li><a href="{{ pathto(post.docname) }}" aria-label="{{ post.date.strftime('%B %Y') }}">{{ post.date.strftime('%b') }}</a></li>
+      {%- endfor %}
+    </ul>
+  </li>
+  {%- endfor %}
+</ul>
+{%- endset %}
+{{ body | replace('<!-- newsletter-issues -->', issues) | replace('<!-- newsletter-archive -->', archive) }}
+{%- endblock %}
+
+{%- block signup %}{% endblock %}

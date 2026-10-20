@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/headers/2026/attendee-guide.jpg
+banner: _static/conf/images/photos/venue-signs-55266533010.jpg
 ---
 
 # Attendee Guide
@@ -12,6 +12,15 @@ The Attendee Guide provides conference information and gives strategies and tips
 Go to our **Registration** table! There will always be a member of our Welcome Wagon Team stationed here and available during all conference hours. 
 
 Whether you have a question about the schedule, where to eat, or how to connect with other attendees, they are your go-to for conference questions. If they don’t know the answer, they’ll find someone who does!
+
+## Registration and Check-in
+
+Pick up your badge at the **Registration** table:
+
+- **Sunday** - 1st floor Box Office, near the main entrance
+- **Monday and Tuesday** - 2nd floor, outside the main auditorium
+
+Bringing luggage? Registration will check your bags for you.
 
 ## Welcome Wagon Tours
 
@@ -94,7 +103,7 @@ We have a dedicated parents room that is available as needed. Please check in wi
 
 Service Animals are welcome at our conference venue.
 
-![Writing Day photo](/_static/conf/images/pics/2025/writing-day-3.jpg)
+![Writing Day photo](/_static/conf/images/photos/writing-day-table-55246793808.jpg)
 
 ## Tips to Have a Great Conference
 
@@ -111,6 +120,7 @@ Service Animals are welcome at our conference venue.
 
 ### Speaker Talks:
 - Listen! Take notes of remarkable and thoughtful ideas.
+- Ask a question! Each talk is followed by a moderated Q&A. Send in your question using the QR code, and our moderators will put it to the speaker. Virtual attendees use the same QR code.
 - After a talk, use something you heard as a conversation starter with your colleagues or even the speakers during a break.
 
 ### Writing Day:
