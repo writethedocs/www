@@ -48,7 +48,7 @@ sys.path.append(os.getcwd())  # noqa
 # https://about.readthedocs.com/blog/2024/07/addons-by-default/
 
 # Define the canonical URL if you are using a custom domain on Read the Docs
-html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "https://www.writethedocs.org")
+html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "https://www.writethedocs.org/")
 
 # Tell Jinja2 templates the build is running on Read the Docs
 if os.environ.get("READTHEDOCS", "") == "True":
@@ -100,6 +100,7 @@ extensions = [
     'sphinxemoji.sphinxemoji',
     'myst_parser',
     'sphinxext.opengraph',
+    'sphinx_sitemap',
     # Local build-speed fixes; must come after ablog, which it patches.
     '_ext.build_perf',
     # Header menu and banner photos for the community pages.
@@ -122,6 +123,18 @@ ogp_enable_meta_description = True
 # Inspired by https://github.com/executablebooks/MyST-Parser/pull/404/
 ogp_custom_meta_tags = [
     '<meta name="twitter:card" content="summary_large_image" />',
+]
+
+# Sitemap for search engines, written to sitemap.xml at the root of the site.
+# Read the Docs serves it in place of its own generated one. The site has no
+# language or version in its URLs, so the scheme is the page path alone.
+sitemap_url_scheme = "{link}"
+sitemap_excludes = [
+    "search/",
+    "genindex/",
+    "404/",
+    # ablog's tag, author and year listings; the posts themselves are listed.
+    "blog/archive/*",
 ]
 
 blog_baseurl = 'https://www.writethedocs.org/'
