@@ -1411,6 +1411,27 @@ p.home-section__more {
     }
 }
 
+// A short note at the top of the front page, such as the welcome to the
+// new website: smaller than the sections below it.
+.home-welcome {
+    padding: 40px 0;
+    background: $community-tint;
+    text-align: center;
+
+    > h2 {
+        margin-bottom: 12px;
+        font-size: 26px;
+    }
+
+    a {
+        color: $community-ink;
+        font-weight: $bold;
+        text-decoration-color: $main-color;
+        text-decoration-thickness: 2px;
+        white-space: nowrap;
+    }
+}
+
 // Upcoming conference cards, with each conference's logo, on the front page
 // and the conferences page (_templates/community/conference-cards.html).
 ul.conference-cards {
