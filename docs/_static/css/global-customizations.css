@@ -282,6 +282,17 @@ div.body a.cta-button:hover {
     text-decoration: none;
 }
 
+/** A short note under a button-link, read as a caption to it rather than as
+    its own paragraph. button-link centers itself with a 2em margin, so the
+    note is centered too and pulled up toward it. **/
+
+div.body p.button-note {
+    margin-top: -1.25em;
+    text-align: center;
+    font-size: 14px;
+    color: #6b6b6b;
+}
+
 /** Sponsorship reach figures, shown at the top of the sponsorship pages **/
 
 div.body ul.key-facts {

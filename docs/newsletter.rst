@@ -56,6 +56,10 @@ Sponsor the newsletter
 To reach our readers as a sponsor of an issue, see
 :doc:`sponsor the newsletter </sponsorship/newsletter>`.
 
+.. button-link:: /sponsorship/newsletter/
+
+   Sponsor the newsletter
+
 Get in touch
 ------------
 
