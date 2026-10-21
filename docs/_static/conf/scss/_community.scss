@@ -1393,11 +1393,11 @@ body.community {
     }
 }
 
-.home-section--muted {
+.home-section-muted {
     background: $community-tint;
 }
 
-p.home-section__more {
+p.home-section-more {
     margin-top: 28px;
     text-align: center;
 
@@ -1408,6 +1408,22 @@ p.home-section__more {
         text-decoration-color: $main-color;
         text-decoration-thickness: 2px;
         text-underline-offset: 4px;
+    }
+}
+
+// A short note at the top of the front page, such as the welcome to the
+// new website: smaller than the sections below it.
+.home-welcome {
+    padding: 40px 0;
+    text-align: center;
+
+    > h2 {
+        margin-bottom: 12px;
+        font-size: 26px;
+    }
+
+    p {
+        margin-bottom: 0;
     }
 }
 

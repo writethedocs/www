@@ -234,6 +234,10 @@ salary_survey = {
     'closes': f'{_salary_survey_closes.day} {_salary_survey_closes:%B %Y}',
 }
 
+# The welcome to the new website on the front page, shown for about two months
+# after it launched. Take it out of docs/index.rst once it has ended.
+new_website_welcome = datetime.date.today() <= datetime.date(2026, 12, 21)
+
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
     'salary_survey': salary_survey,
@@ -247,6 +251,7 @@ html_context = {
     'slack_join': "https://join.slack.com/t/writethedocs/shared_invite/zt-3uxp60m0w-4Ys1SrX798HMyIXpxyD6EQ",
     'slack_form': "https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform?usp=sf_link",
     'announcement_message': announcement_message,
+    'new_website_welcome': new_website_welcome,
 }
 # After html_context, which fills in the placeholders in the front page text.
 html_context['community'] = load_community_data(html_context)
