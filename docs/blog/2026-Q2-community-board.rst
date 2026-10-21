@@ -1,5 +1,5 @@
 .. post:: Jun 22, 2026
-   :tags: community board, news, report
+   :tags: community-board, news, report
    :author: Mikey Ariel
 
 Write the Docs Community Board Quarterly Update Q2-2026

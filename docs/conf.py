@@ -147,6 +147,8 @@ blog_authors = {
 }
 blog_default_author = 'Team'
 blog_feed_archives = True
+# Archive pages list titles rather than whole posts, which builds faster.
+blog_archive_titles = True
 blog_feed_fulltext = True
 # Only show 1 blog so we don't overload Mailchimp
 blog_feed_length = 1
