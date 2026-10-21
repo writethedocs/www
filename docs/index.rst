@@ -16,8 +16,9 @@
 A global community of people who care about documentation
 ==========================================================
 
-.. A welcome to the new website. Take it out once it's no longer new.
+.. A welcome to the new website, until `new_website_welcome` in conf.py ends.
 
+{% if new_website_welcome %}
 .. rst-class:: home-section home-section-muted home-welcome
 
 Welcome to the new website
@@ -25,6 +26,7 @@ Welcome to the new website
 
 Our community pages now share the design of our conference sites,
 with a simpler menu and a photo from our events on every page.
+{% endif %}
 
 .. rst-class:: home-section
 
