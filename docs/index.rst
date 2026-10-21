@@ -26,10 +26,6 @@ Welcome to the new website
 Our community pages now share the design of our conference sites,
 with a simpler menu and a photo from our events on every page.
 
-.. rst-class:: home-section-more
-
-:doc:`See what's new </blog/new-website>`
-
 .. rst-class:: home-section
 
 Upcoming conferences
