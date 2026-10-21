@@ -18,13 +18,16 @@ A global community of people who care about documentation
 
 .. A welcome to the new website. Take it out once it's no longer new.
 
-.. rst-class:: home-section home-welcome
+.. rst-class:: home-section home-section-muted home-welcome
 
 Welcome to the new website
 --------------------------
 
 Our community pages now share the design of our conference sites,
 with a simpler menu and a photo from our events on every page.
+
+.. rst-class:: home-section-more
+
 :doc:`See what's new </blog/new-website>`
 
 .. rst-class:: home-section
@@ -36,11 +39,11 @@ Upcoming conferences
 
    {% filter indent(3) %}{% include "community/conference-cards.html" %}{% endfilter %}
 
-.. rst-class:: home-section__more
+.. rst-class:: home-section-more
 
 See :doc:`all our conferences </conf/index>`, past and present.
 
-.. rst-class:: home-section home-section--muted
+.. rst-class:: home-section home-section-muted
 
 Get involved
 ------------
@@ -78,7 +81,7 @@ What is Write the Docs?
 
       <img src="/_static/conf/images/photos/writing-day-table-55246793808.jpg" alt="Attendees writing together at Writing Day" loading="lazy">
 
-.. rst-class:: home-section home-section--muted
+.. rst-class:: home-section home-section-muted
 
 More from Write the Docs
 ------------------------
