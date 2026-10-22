@@ -1275,6 +1275,12 @@ body.community {
     .community-navbar {
         border-bottom: 1px solid rgba(255, 255, 255, 0.25);
 
+        // Keep the menu's dropdowns above the hero text, which the photo
+        // fade also lifts on wide screens.
+        @media (min-width: 1601px) {
+            z-index: 2;
+        }
+
         .uk-navbar-nav > li > a,
         .uk-navbar-toggle {
             color: $white;
