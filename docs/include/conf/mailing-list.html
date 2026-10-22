@@ -1,12 +1,11 @@
 {#
   Mailchimp signup form for conference mailing-list pages.
 
-  Event announcements go out by region, grouped by time zone rather than by
-  conference, so any event, in person or online, has a list. Each region
-  lists the conference config "area" values it covers, and the form
-  pre-checks the monthly newsletter and the regions for the page's
-  conference. Atlantic was online in Central European and US Eastern time,
-  so it covers two.
+  Conference announcements go out by region, grouped by time zone, so any
+  conference, in person or online, has a list. Each region lists the
+  conference config "area" values it covers, and the form pre-checks the
+  monthly newsletter and the regions for the page's conference. Atlantic was
+  online in Central European and US Eastern time, so it covers two.
   Pull it into a page with:
 
       {% include "conf/mailing-list.html" %}

@@ -48,7 +48,7 @@ sys.path.append(os.getcwd())  # noqa
 # https://about.readthedocs.com/blog/2024/07/addons-by-default/
 
 # Define the canonical URL if you are using a custom domain on Read the Docs
-html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "https://www.writethedocs.org")
+html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "https://www.writethedocs.org/")
 
 # Tell Jinja2 templates the build is running on Read the Docs
 if os.environ.get("READTHEDOCS", "") == "True":
@@ -100,6 +100,7 @@ extensions = [
     'sphinxemoji.sphinxemoji',
     'myst_parser',
     'sphinxext.opengraph',
+    'sphinx_sitemap',
     # Local build-speed fixes; must come after ablog, which it patches.
     '_ext.build_perf',
     # Header menu and banner photos for the community pages.
@@ -122,6 +123,18 @@ ogp_enable_meta_description = True
 # Inspired by https://github.com/executablebooks/MyST-Parser/pull/404/
 ogp_custom_meta_tags = [
     '<meta name="twitter:card" content="summary_large_image" />',
+]
+
+# Sitemap for search engines, written to sitemap.xml at the root of the site.
+# Read the Docs serves it in place of its own generated one. The site has no
+# language or version in its URLs, so the scheme is the page path alone.
+sitemap_url_scheme = "{link}"
+sitemap_excludes = [
+    "search/",
+    "genindex/",
+    "404/",
+    # ablog's tag, author and year listings; the posts themselves are listed.
+    "blog/archive/*",
 ]
 
 blog_baseurl = 'https://www.writethedocs.org/'
@@ -234,6 +247,10 @@ salary_survey = {
     'closes': f'{_salary_survey_closes.day} {_salary_survey_closes:%B %Y}',
 }
 
+# The welcome to the new website on the front page, shown for about two months
+# after it launched. Take it out of docs/index.rst once it has ended.
+new_website_welcome = datetime.date.today() <= datetime.date(2026, 12, 21)
+
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
     'salary_survey': salary_survey,
@@ -247,6 +264,7 @@ html_context = {
     'slack_join': "https://join.slack.com/t/writethedocs/shared_invite/zt-3uxp60m0w-4Ys1SrX798HMyIXpxyD6EQ",
     'slack_form': "https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform?usp=sf_link",
     'announcement_message': announcement_message,
+    'new_website_welcome': new_website_welcome,
 }
 # After html_context, which fills in the placeholders in the front page text.
 html_context['community'] = load_community_data(html_context)
