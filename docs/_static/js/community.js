@@ -78,7 +78,7 @@ function searchFromMenu(event) {
 menuInput.addEventListener('click', searchFromMenu);
 menuInput.addEventListener('keydown', searchFromMenu);
 
-// Newsletter page: tick the event announcements for your region, going by
+// Newsletter page: tick the conference announcements for your region, going by
 // your timezone. Each checkbox lists the timezone prefixes it covers in
 // data-timezones. You can untick it before you subscribe.
 const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone || '';
