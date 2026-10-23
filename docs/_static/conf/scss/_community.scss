@@ -1576,11 +1576,17 @@ ul.home-tiles {
     }
 }
 
-ul.home-links {
+// The bullets hang in the column's side padding, so the list keeps it
+// and adds its own indent.
+.community-home ul.home-links {
     columns: 2 300px;
     column-gap: 48px;
     margin-top: 0;
     padding-left: 40px;
+
+    @media (min-width: 640px) {
+        padding-left: 48px;
+    }
 
     li {
         margin: 0 0 8px;
