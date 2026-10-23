@@ -105,9 +105,12 @@ extensions = [
     '_ext.build_perf',
     # Header menu and banner photos for the community pages.
     '_ext.community',
+    # Fixes for Markdown pages: '&' in links, classes on sections.
+    '_ext.markdown',
 ]
 
 myst_heading_anchors = 4
+myst_enable_extensions = ['attrs_block', 'deflist']
 # Treat markdown links as plain URLs. Without this, myst tries to resolve
 # relative links like `../foo/#anchor` as cross-references and mangles them.
 myst_all_links_external = True
@@ -248,7 +251,7 @@ salary_survey = {
 }
 
 # The welcome to the new website on the front page, shown for about two months
-# after it launched. Take it out of docs/index.rst once it has ended.
+# after it launched. Take it out of docs/index.md once it has ended.
 new_website_welcome = datetime.date.today() <= datetime.date(2026, 12, 21)
 
 html_context = {
