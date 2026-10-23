@@ -279,7 +279,7 @@ Brand and design
 - [Eric Holscher](https://www.ericholscher.com/) (team lead)
 - [Jennifer Rondeau](https://twitter.com/bradamante)
 
-### Write the Docs Alumni
+## Write the Docs Alumni
 
 These are folks who have helped a lot in the past, but have moved on to other projects. We wouldn't be where we are without them, and want to make sure they aren't forgotten.
 

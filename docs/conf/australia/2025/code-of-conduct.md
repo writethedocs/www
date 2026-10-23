@@ -6,5 +6,5 @@ template: {{year}}/generic.html
 
 ```{include} ../../../code-of-conduct.md
 :start-after: conference-include-body
-:end-before: "### Australia Code of Conduct Team"
+:end-before: "## Australia Code of Conduct Team"
 ```

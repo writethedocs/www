@@ -16,11 +16,11 @@ Files and folder names should be lowercase. Names with multiple words should be 
 
 ### Links
 
-If you are cross-referencing to a different page within our website, use the `:doc:` directive and not a hyperlink.
+To link to another page on our website, use its path, like `[Slack](/slack/)` in Markdown. In reStructuredText, use the `:doc:` role.
 
 ### Website content
 
-Our website uses mostly [reStructured Text (RST)](/guide/writing/reStructuredText/) and [Markdown](/guide/writing/markdown/). Generally more people are familiar with Markdown, so some sections might be written with that if we expect a lot of contributions. 
+Write new pages in [Markdown](/guide/writing/markdown/), which more people know. Older pages, such as the guides, are still in [reStructuredText (RST)](/guide/writing/reStructuredText/).
 
 ## Website tone
 

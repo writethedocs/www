@@ -6,8 +6,10 @@ template: {{year}}/generic.html
 
 ```{include} ../../../code-of-conduct.md
 :start-after: conference-include-body
-:end-before: "### Portland Code of Conduct Team"
+:end-before: "## Portland Code of Conduct Team"
 ```
+
+## Portland Code of Conduct Team
 
 ```{eval-rst}
 .. include:: /include/conf/coc/na-coc.rst

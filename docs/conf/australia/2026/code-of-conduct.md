@@ -6,10 +6,10 @@ template: {{year}}/generic.html
 
 ```{include} ../../../code-of-conduct.md
 :start-after: conference-include-body
-:end-before: "### Australia Code of Conduct Team"
+:end-before: "## Australia Code of Conduct Team"
 ```
 
-### Australia Code of Conduct Team
+## Australia Code of Conduct Team
 
 ```{eval-rst}
 .. include:: /include/conf/coc/au-coc.rst
