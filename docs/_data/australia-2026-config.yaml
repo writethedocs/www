@@ -181,6 +181,7 @@ sponsors:
     - name: helpdocs
       link: https://www.helpdocs.io/write-the-docs
       brand: HelpDocs
+      width: 400px 
     - name: linux-australia
       link: https://linux.org.au/
       brand: Linux Australia
