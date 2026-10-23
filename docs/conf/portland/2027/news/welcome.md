@@ -36,6 +36,11 @@ making the plans easier to compare,
 and adding some more information from the attendee survey last year.
 Please do reach out if your company would be a good fit and we can work together to create a good experience for both your organization and our attendees.
 
+```{button-link} /conf/{{ shortcode }}/{{ year }}/sponsors/prospectus/
+:year: {{ year }}
+View the sponsorship prospectus
+```
+
 ## Stay Updated
 
 Want to find out what's happening with the conference, or enjoy our monthly community newsletter? Sign up to one or more of our [mailing lists](/conf/{{ shortcode }}/{{ year }}/mailing-list/). Your information will never be shared with anyone, and you can unsubscribe at any time. If you got this via email, you're already subscribed :)

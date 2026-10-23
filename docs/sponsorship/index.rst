@@ -1,3 +1,5 @@
+:banner: _static/conf/images/photos/tote-bags-55246237486.jpg
+
 Community sponsorship
 =====================
 

@@ -1,4 +1,5 @@
 :orphan:
+:banner: _static/conf/images/headers/2026/lightning-talks.jpg
 
 Video Archive
 =============

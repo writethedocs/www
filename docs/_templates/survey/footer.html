@@ -1,0 +1,113 @@
+<style>
+/* Footer. Styles live here rather than in global-customizations.css because
+   the survey layout includes this file without loading that stylesheet. */
+div.footer, div.footer a {
+  color: #757575;
+}
+div.footer .footer-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.5rem 1.5rem;
+  text-align: left;
+}
+div.footer ul.footer-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+div.footer p.footer-contribute {
+  margin: 0.5rem 0 1rem;
+  text-align: left;
+}
+div.footer .footer-contribute a,
+div.footer .footer-nav a {
+  text-decoration: underline;
+}
+
+/* Sponsors */
+.sponsors {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem 1rem;
+  margin: 1rem 0;
+  text-align: center;
+}
+.sponsors .sponsor {
+  display: inline-block;
+  padding: 0.5rem;
+  text-decoration: none;
+}
+.sponsors .sponsor img {
+  max-width: 90px;
+  max-height: 18px;
+  width: auto;
+  height: auto;
+}
+.sponsors .sponsor-name {
+  font-size: 12px;
+  line-height: 1.4;
+}
+.sponsors .sponsor-description {
+  font-size: 10px;
+  line-height: 1.4;
+  color: #BCC1C3;
+}
+.sponsors .sponsor-cta {
+  padding: 6px 14px;
+  border: 1px solid #BCC1C3;
+  border-radius: 999px;
+  font-size: 12px;
+  text-decoration: none;
+  transition: color 0.15s, border-color 0.15s;
+}
+.sponsors .sponsor-cta:hover {
+  border-color: #757575;
+  color: #464646;
+  text-decoration: none;
+}
+</style>
+<div class="footer">
+  <hr>
+  <p class="footer-contribute">
+    Spotted a mistake or something missing? This website is open source:
+    {% if page_source_suffix %}
+    <a href="https://github.com/writethedocs/www/edit/main/docs/{{ pagename }}{{ page_source_suffix }}">edit this page on GitHub</a>
+    {% else %}
+    <a href="https://github.com/writethedocs/www">edit it on GitHub</a>
+    {% endif %}
+    or <a href="{{ pathto('contribute') }}">learn how to contribute</a>.
+  </p>
+
+  <div class="sponsors" id="community-sponsors">
+    {% for sponsor in global_sponsors %}
+    <a class="sponsor" href="{{ sponsor.link }}" rel="noopener" target="_blank">
+      <img src="{{ sponsor.name|sponsor_photo }}" alt="{{ sponsor.brand }}" class="sponsor-image">
+      <div class="sponsor-name">{{ sponsor.brand }}</div>
+      <div class="sponsor-description">{{ sponsor.comment }}</div>
+    </a>
+    {% endfor %}
+    <a class="sponsor-cta" href="{{ pathto('sponsorship/index') }}">Become a sponsor →</a>
+  </div>
+
+  <div class="footer-row">
+    <span>© Write the Docs · <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></span>
+    <ul class="footer-nav">
+      <li><a href="{{ pathto('contact') }}">Contact</a></li>
+      <li><a href="{{ pathto('code-of-conduct') }}">Code of Conduct</a></li>
+      <li><a href="https://github.com/writethedocs">GitHub</a></li>
+      <li><a href="https://www.linkedin.com/company/write-the-docs">LinkedIn</a></li>
+      <li><a rel="me" href="https://fosstodon.org/@writethedocs">Mastodon</a></li>
+    </ul>
+  </div>
+</div>
+
+<!-- 100% privacy-first analytics -->
+<script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+<noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>

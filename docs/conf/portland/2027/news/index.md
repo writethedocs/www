@@ -1,6 +1,6 @@
 ---
 template: {{year}}/generic.html
-banner: _static/conf/images/headers/2026/news.jpg
+banner: _static/conf/images/photos/day-2-screen-55251182719.jpg
 ---
 
 # News

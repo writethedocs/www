@@ -1,3 +1,5 @@
+:banner: _static/conf/images/photos/welcome-sign-55246081956.jpg
+
 Code of Conduct
 ===============
 

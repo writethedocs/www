@@ -1,3 +1,5 @@
+:banner: _static/conf/images/photos/team-2026-55266368424.jpg
+
 Team
 ====
 
@@ -6,11 +8,6 @@ The different facets of the Write the Docs community are kept running smoothly b
 If you're interested in helping out, get in touch with someone on the team you're curious about. Messaging folks on the Write the Docs :doc:`slack` is probably the best way to get in touch with folks.
 
 .. note:: The folks with (team lead) next to their names are the best folks to talk to about how to join their team.
-
-.. contents:: Contents & Teams
-   :local:
-   :backlinks: none
-   :depth: 2
 
 Terminology
 -----------

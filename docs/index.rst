@@ -1,91 +1,113 @@
+:template: community/index.html
+:og:description: Write the Docs is a global community of people who care about documentation. Join over {{ slack_members }} documentarians in Slack, at meetups, and at our conferences around the world.
+:banner: _static/conf/images/photos/audience-berlin-55523762940.jpg
+
 .. meta::
-   :description: A series of events for technical writers,
-                 documentarians,
-                 and all those who write the docs.
+   :description: Write the Docs is a global community of people who care about
+                 documentation. Join over {{ slack_members }} documentarians in Slack,
+                 at meetups, and at our conferences around the world.
    :author: Write the Docs
    :geo.placename: Worldwide
 
-Welcome to our community!
-=========================
+.. The front page. community/index.html adds the hero at the top; each section
+   below is a full-width band (see the home-* rules in _community.scss). The
+   hero and the "Get involved" tiles come from `home` in _data/community.yaml.
 
-**Write the Docs** is a global community of people who care about documentation.
+A global community of people who care about documentation
+==========================================================
 
-We consider everyone who cares about communication, documentation, and
-their users to be a member of our community. This can be programmers,
-tech writers, developer advocates, customer support, marketers, and anyone else who wants
-people to have great experiences with software.
+.. A welcome to the new website, until `new_website_welcome` in conf.py ends.
+
+{% if new_website_welcome %}
+.. rst-class:: home-section home-section-muted home-welcome
+
+Welcome to the new website
+--------------------------
+
+Our community pages now share the design of our conference sites,
+with a simpler menu and a photo from our events on every page.
+{% endif %}
+
+.. rst-class:: home-section
 
 Upcoming conferences
 --------------------
 
-.. container:: home-next
+.. raw:: html
 
-   .. include:: /include/conf/current.rst
-      :start-after: current-conferences-list
+   {% filter indent(3) %}{% include "community/conference-cards.html" %}{% endfilter %}
 
-See all :doc:`our conferences </conf/index>` from past years.
+.. rst-class:: home-section-more
+
+See :doc:`all our conferences </conf/index>`, past and present.
+
+.. rst-class:: home-section home-section-muted
 
 Get involved
 ------------
 
 .. raw:: html
 
-   <ul class="home-doors">
-     <li><strong><a href="/slack/">Join our Slack network</a></strong>
-         <p>Over {{ slack_members }} people hanging out and chatting about documentation.</p></li>
-     <li><strong><a href="/newsletter/">Read the newsletter</a></strong>
-         <p>A monthly roundup of what our community is talking about, for over {{ newsletter_subs }} subscribers.</p></li>
-     <li><strong><a href="/topics/">Browse by topic</a></strong>
-         <p>Over 700 talks and newsletter articles, on everything from API docs to getting hired.</p></li>
-     <li><strong><a href="/meetups/">Find a local meetup</a></strong>
-         <p>Local and virtual groups in over {{ meetup_cities }} cities, run by volunteers.</p></li>
-{% if salary_survey.open %}     <li><strong><a href="{{ salary_survey.url }}">Take the salary survey</a></strong>
-         <p>Anonymous pay data for documentation roles. The {{ salary_survey.year }} survey
-            closes {{ salary_survey.closes }}, and <a href="/surveys/">past results</a> are free to read.</p></li>
-{% else %}     <li><strong><a href="/surveys/">See the salary survey</a></strong>
-         <p>Anonymous pay data for documentation roles, published free every year.</p></li>
-{% endif %}
-     <li><strong><a href="/sponsorship/">Become a sponsor</a></strong>
-         <p>Reach documentarians through our conferences, newsletter, Slack and website.</p></li>
+   <ul class="home-tiles">
+   {%- for tile in community.home.tiles %}
+     <li>
+       <span class="home-tiles__icon">{% include "community/icons/" ~ tile.icon ~ ".svg" %}</span>
+       <h3><a href="{{ tile.link }}">{{ tile.title }}</a></h3>
+       <p>{{ tile.text }}</p>
+     </li>
+   {%- endfor %}
    </ul>
+
+.. rst-class:: home-section
+
+What is Write the Docs?
+-----------------------
+
+.. container:: home-split
+
+   .. container::
+
+      Write the Docs is a global community of people who care about documentation.
+      We consider everyone who cares about communication, documentation, and their users
+      to be a member of our community. This can be programmers, tech writers, developer advocates,
+      customer support, marketers, and anyone else who wants people to have great experiences with software.
+
+      Since starting in Portland, Oregon in 2013, we've run conferences around the world.
+      Meet the :doc:`team </team>` that keeps everything going.
+
+   .. raw:: html
+
+      <img src="/_static/conf/images/photos/writing-day-table-55246793808.jpg" alt="Attendees writing together at Writing Day" loading="lazy">
+
+.. rst-class:: home-section home-section-muted
 
 More from Write the Docs
 ------------------------
 
-.. rst-class:: home-more
+.. rst-class:: home-links
 
 * Watch past conference talks on our `YouTube channel <https://www.youtube.com/c/WritetheDocs>`_
 * Subscribe to our :doc:`conference announcement </newsletter>` mailing lists
 * Read the latest in our :doc:`blog </blog/index>`
 * Read our :doc:`software documentation guide </guide/index>`
 * Read our :doc:`Hiring Guide </hiring-guide/index>` to get started in the industry
-* Join our :doc:`book club </book-club/index>`
 * See all :doc:`learning resources </about/learning-resources>`
 * Learn about :doc:`our organization <about/about-the-org>`
 
-We're glad you stopped by!
-We hope you'll join us either online or in-person for an event soon.
-
-.. The sidebar nav is built from ``extra_nav_links`` in conf.py, so this only
-   needs to register the pages, not render a second copy of it on the page.
+.. The first toctree lists the site's sections, in the header menu's order.
+   Each section's page lists its own pages in a toctree, which gives every
+   page its breadcrumbs and its current item in the header menu. The menu
+   itself comes from _data/community.yaml. The second toctree registers
+   every other page. Neither renders anything.
 
 .. toctree::
    :hidden:
-   :glob:
    :maxdepth: 1
 
    conf/index
-   slack
-   meetups/index
-   newsletter
-   topics
-   blog/index
-   guide/index
-   surveys/index
-   hiring-guide/index
-   book-club/index
-   sponsorship/index
-   about/*
+   about/learning-resources
+   about/stay-connected
+   about/about-the-org
 
 .. toctree::
    :hidden:
