@@ -26,6 +26,8 @@ Jared has been a Technical Writer for about 17 years now. When he’s not helpin
 
 ### Felicity Brand (she/her)
 
+![](/_static/img/2026/team/felicity-brand.png)
+
 #### Fishbowl Coordinator
 
 Felicity has been working as a technical communicator for 18 years. Based in Melbourne, Australia, she loves working in open source because it lets her work with writers and non-writers all over the world. Felicity is a keen knitter, crocheter and loves anything to do with yarn.
@@ -39,7 +41,9 @@ She spends far too much time sitting in front of a laptop, but sometimes manages
 
 ### Shiham Jamaldeen (he/him)
 
-#### Welcome Wagon
+![](/_static/img/2026/team/shiham-jamaldeen.jpeg)
+
+#### Registrations
 
 Shiham is an experienced documentarian and budding full-stack web developer who recently joined the Write the Docs Australia crew. He enjoys travel, especially reading flight reviews and learning about aviation. He dreams of one-day writing flight manuals for Boeing or Airbus. He is based in Adelaide, Australia.
 
