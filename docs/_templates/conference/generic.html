@@ -46,8 +46,10 @@
         </div>
     </div><!-- end post header -->
 
-    {#- page_banner is the page's own banner, or one of photos.default (_ext/community.py). #}
-    <div class="page-banner" style="background-image:url('{{ pathto(page_banner, 1) }}')">
+    {#- page_banner is the page's own banner, or one of photos.default (_ext/community.py).
+        The photo sits under a navy tint, as on the community pages, so the
+        title area reads calmer. #}
+    <div class="page-banner" style="background-image: linear-gradient(rgba(19, 37, 48, 0.5), rgba(19, 37, 48, 0.6)), url('{{ pathto(page_banner, 1) }}')">
         <div class="uk-container">
             <h1 style="background-color: rgba(1, 1, 1, 0.6); padding: 10px 20px; border-radius: 8px; display: inline-block;">{% block pagename %}{{ title }}{% endblock %}</h1>
         </div>

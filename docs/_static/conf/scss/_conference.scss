@@ -1573,7 +1573,8 @@ body .page-banner {
 
 @media (min-width: 1280px) {
     body .page-banner {
-        background-size: 1180px;
+        // Two layers: the tint over the photo (_templates/conference/generic.html).
+        background-size: 100% 100%, 1180px;
     }
     body .page-banner::before {
         content: "";
