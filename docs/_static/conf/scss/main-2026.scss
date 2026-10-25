@@ -1349,6 +1349,11 @@ body .uk-navbar-dropdown-nav>li>a:focus, body .uk-navbar-dropdown-nav>li>a:hover
     color: $main-color !important;
 }
 
+// Links that the rules above don't style, like the ones in the "What is
+// Write the Docs?" section, in the slate of the page content's links
+// rather than UIKit's blue, which is too light on white (3.6:1).
+$global-link-color: $header-color;
+
 // 2. Import default variables and available mixins.
 @import "variables-theme.scss";
 @import "mixins-theme.scss";

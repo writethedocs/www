@@ -7,7 +7,7 @@
     {% for sponsor in sponsors.keystone %}
     <div class="uk-width-1-1 uk-width-1-1@s" id="{{ sponsor.name }}">
       <a href="{{ sponsor.link }}">
-        <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("500px", true) }};" />
+        <img src="{{ sponsor.name|sponsor_photo }}" alt="{{ sponsor.brand }}" style="max-width: {{ sponsor.width|default("500px", true) }};" />
       </a>
     </div>
       {% if include_text and sponsor.text %}
@@ -27,7 +27,7 @@
     {% for sponsor in sponsors.patron %}
     <div class="uk-width-1-1 uk-width-1-1@s" id="{{ sponsor.name }}">
       <a href="{{ sponsor.link }}">
-        <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("400px", true) }};" />
+        <img src="{{ sponsor.name|sponsor_photo }}" alt="{{ sponsor.brand }}" style="max-width: {{ sponsor.width|default("400px", true) }};" />
       </a>
     </div>
       {% if include_text and sponsor.text %}
@@ -49,7 +49,7 @@
     <div class="uk-width-1-1 uk-width-1-1@s" id="{{ sponsor.name }}">
     {% endif %}
       <a href="{{ sponsor.link }}">
-        <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("300px", true) }}; min-width: {{ sponsor.min_width|default("200px", true) }};" />
+        <img src="{{ sponsor.name|sponsor_photo }}" alt="{{ sponsor.brand }}" style="max-width: {{ sponsor.width|default("300px", true) }}; min-width: {{ sponsor.min_width|default("200px", true) }};" />
       </a>
     </div>
       {% if include_text and sponsor.text %}
@@ -71,7 +71,7 @@
     <div class="uk-width-1-1 uk-width-1-2@s" id="{{ sponsor.name }}">
     {% endif %}
       <a href="{{ sponsor.link }}">
-        <img src={{ sponsor.name|sponsor_photo }} style="width: {{ sponsor.width|default("200px", true) }};" />
+        <img src="{{ sponsor.name|sponsor_photo }}" alt="{{ sponsor.brand }}" style="width: {{ sponsor.width|default("200px", true) }};" />
       </a>
     </div>
       {% if include_text and sponsor.text %}
@@ -88,7 +88,7 @@
     {% for sponsor in sponsors.first %}
     <div class="uk-width-1-1 uk-width-1-2@s">
       <a href="{{ sponsor.link }}">
-        <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("150px", true) }};" />
+        <img src="{{ sponsor.name|sponsor_photo }}" alt="{{ sponsor.brand }}" style="max-width: {{ sponsor.width|default("150px", true) }};" />
       </a>
     </div>
     {% endfor %}
