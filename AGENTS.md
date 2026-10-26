@@ -106,7 +106,7 @@ The community pages (everything outside `conf/<city>/<year>/`) use the conferenc
 
 - `docs/_templates/layout.html` — community page layout: header menu, photo banner with the page title, content with an "On this page" column, mailing list band, sponsors, footer. The front page uses `community/index.html`, which adds a hero.
 - `docs/_templates/community/` — the community header menu, front page, conference cards (front page and conferences page), blog and newsletter pages, mailing list band and sponsors.
-- **Sections:** the site has four sections, the header menu's items: Conferences (`conf/index`), Learn (`about/learning-resources`), Community (`about/stay-connected`, which includes the blog) and About (`about/about-the-org`). The first toctree in `docs/index.rst` lists them, and each section's page lists its own pages in a toctree. That toctree gives every page its breadcrumbs and its current item in the menu, so add a new community page to its section's toctree and a card for it on that page. Each section's page has the same layout: an intro line, one main call to action (`cta-group`), and a card per page (`link-cards`). Menu items link to their section's page; the dropdowns list the most read pages.
+- **Sections:** the site has four sections, the header menu's items: Conferences (`conf/index`), Learn (`about/learning-resources`), Community (`about/stay-connected`, which includes the blog) and About (`about/about-the-org`). The first toctree in `docs/index.md` lists them, and each section's page lists its own pages in a toctree. That toctree gives every page its breadcrumbs and its current item in the menu, so add a new community page to its section's toctree and a card for it on that page. Each section's page has the same layout: an intro line, one main call to action (`cta-group`), and a card per page (`link-cards`). Menu items link to their section's page; the dropdowns list the most read pages.
 - `docs/_data/community.yaml` — the community header menu, the default banner photos, the front page's hero and "Get involved" tiles, and the list of upcoming conferences (used on the front page, the conferences page and in the menu). Front page text can use placeholders like `{slack_members}`, filled in from `html_context` in `conf.py`.
 - `docs/_templates/shared/footer.html` — the footer used by both the community and conference pages (2026 on), styled by `site-footer.scss`. On community pages it asks you to join Slack and the newsletter. On conference pages it names the event and links its reference pages, then leads to the community; the event's current asks stay in the config's `buttons.bottom` just above it, and it must still read right after the event is over. The Write the Docs stamp (`_static/sticker-wtd-colors.png`) is the site's logo in the community header and in this footer; each conference keeps its own logo in its header.
 
@@ -121,6 +121,7 @@ Every page picks its banner photo with a `banner` field (`:banner:` at the top o
 - `meetups.py` — `meetup-listing` directive
 - `atom_absolute.py` — Rewrites atom feed URLs to absolute
 - `build_perf.py` — Build-speed fixes: keeps the environment out of pickled doctrees, makes ablog safe for parallel reading, and parses YAML with libyaml
+- `markdown.py` — Fixes for Markdown pages: stops `&` in link URLs being escaped twice, and moves `{.class}` classes from a heading to its section
 - `community.py` — Loads `_data/community.yaml`, fills in the front page placeholders, picks each page's banner photo (conference pages too) and current menu item, and splits the posts for the blog page
 
 ### Styling
@@ -133,7 +134,7 @@ From 2027 on, the conference design lives in `_conference.scss`, and a year's fi
 
 Uses the `ablog` extension. News posts go in `docs/conf/<city>/<year>/news/` with `.. post::` directive and `:tags: <city>-<year>` for filtering via `.. postlist::` on conference index pages.
 
-The blog's posts come in three kinds, each listed in full in one place. Newsletter issues (`blog/newsletter-<month>-<year>`) are listed by year on the newsletter page (`community/newsletter.html`). Conference news is listed on each conference's news page, by its `<city>-<year>` tag. The rest, such as community board updates, are listed by year on the blog page (`docs/blog/index.rst`, template `community/blog.html`), which also shows the latest newsletter issues and the news of the upcoming conferences in `_data/community.yaml`.
+The blog's posts come in three kinds, each listed in full in one place. Newsletter issues (`blog/newsletter-<month>-<year>`) are listed by year on the newsletter page (`community/newsletter.html`). Conference news is listed on each conference's news page, by its `<city>-<year>` tag. The rest, such as community board updates, are listed by year on the blog page (`docs/blog/index.md`, template `community/blog.html`), which also shows the latest newsletter issues and the news of the upcoming conferences in `_data/community.yaml`.
 
 ### Read the Docs addons
 
@@ -146,6 +147,7 @@ The site is hosted on Read the Docs, which adds its addons to every page. The co
 ## Key Conventions
 
 - Content files support both `.rst` and `.md` (via myst-parser)
+- Write new pages in Markdown. Link to other pages by URL path (`[Slack](/slack/)`): `myst_all_links_external` is on, so `{doc}` targets and `.md` paths aren't resolved. Use MyST's `deflist` for definition lists, a `{.class}` line before a heading or block to class it (as `.. rst-class::` does), and `{eval-rst}` only for what Markdown can't express, such as the `meetup-listing` directive
 - Conference pages use `:orphan:` directive (not in a toctree)
 - Feature flags in config YAML control what sections display (e.g., `flagtickets`, `flagcfp`, `flaghasschedule`)
 - Conference talk videos are hosted on the [Write the Docs YouTube channel](https://www.youtube.com/c/WritetheDocs)
