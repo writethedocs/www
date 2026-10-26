@@ -48,6 +48,17 @@ newsletter/editorial-guidelines
 newsletter/newsletter-process
 ```
 
+## Showcase
+
+Information about curating the quarterly Community Showcase.
+
+```{toctree}
+:maxdepth: 2
+
+showcase/editorial-guidelines
+showcase/showcase-process
+```
+
 ## Conferences
 
 Information about our regional Write the Docs conferences.
