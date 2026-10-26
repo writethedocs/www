@@ -232,7 +232,10 @@ sponsors:
       text: <p>ReadMe transforms static API docs into interactive developer hubs. Help developers make their first call faster, quickly troubleshoot issues along the way, and get insights into API usage to focus your team on the highest-impact improvements.</p>
   patron: []
   publisher: []
-  second: []  # Supporter
+  second:  # Supporter
+    - name: buttondown
+      link: https://buttondown.com/?ref=writethedocs
+      brand: Buttondown
   first: []
   in_kind: []
 
