@@ -225,7 +225,11 @@ hike:
   register_url: "https://ti.to/writethedocs/write-the-docs-portland-2027/with/hike-ticket"
 
 sponsors:
-  keystone: []
+  keystone:
+    - name: readme
+      link: https://readme.com/?ref=writethedocs
+      brand: ReadMe
+      text: <p>ReadMe transforms static API docs into interactive developer hubs. Help developers make their first call faster, quickly troubleshoot issues along the way, and get insights into API usage to focus your team on the highest-impact improvements.</p>
   patron: []
   publisher: []
   second: []  # Supporter
@@ -248,7 +252,7 @@ photos:
 
 # Things that change over time, listed in order of change
 flaglanding: True
-flaghassponsors: False
+flaghassponsors: True
 flagcfp: False
 flagticketsonsale: False
 flagsoldout: False
