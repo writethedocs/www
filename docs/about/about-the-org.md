@@ -1,6 +1,6 @@
 ---
 og:description: Who we are, how we work, and how you can help Write the Docs.
-banner: _static/conf/images/photos/team-2026-55266368424.jpg
+banner: _static/conf/images/photos/auditorium-day-1-55249270408.jpg
 ---
 
 # About Write the Docs

@@ -191,14 +191,15 @@
     to make impactful change with minimal engineering support, and what we learned
     about the limits of writing and AI when faced with the messy reality of how people,
     processes, and tools actually work.</p>\n<p>In this talk we'll share what worked
-    (and didn't) as we rebuilt our end-to-end release note pipeline:\n- Why release
+    (and didn't) as we rebuilt our end-to-end release note pipeline:
+    <ul>\n<li>Why release
     notes are a trust signal, not just a documentation task, and how reducing clarification
-    loops is a better success metric than speed.\n- How taxonomy and structured metadata
-    have become load-bearing infrastructure, and ways to future-proof your system.\n\
-    - Why higher-quality structured context and inputs beat better prompts, and how
-    to design a pipeline for scale.\n- How AI evaluation can be a diagnostic tool
-    for whole system health, not just prompt improvement.</p>\n<p>This talk will give
-    anyone working on content at scale a framework for auditing their release comms
+    loops is a better success metric than speed.</li>\n<li> How taxonomy and structured metadata
+    have become load-bearing infrastructure, and ways to future-proof your system.</li>\n\
+    <li>Why higher-quality structured context and inputs beat better prompts, and how
+    to design a pipeline for scale.</li>\n<li>How AI evaluation can be a diagnostic tool
+    for whole system health, not just prompt improvement.</li></ul>
+    </p>\n<p>This talk will give anyone working on content at scale a framework for auditing their release comms
     system, and a clearer sense of where the writing problem ends and system problem
     begins.</p>"
 - title: Building SKILLs to help automate internal authoring workflows
