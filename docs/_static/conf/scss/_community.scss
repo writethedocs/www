@@ -1262,7 +1262,7 @@ body.community {
 }
 
 // ---------------------------------------------------------------------------
-// Front page (community/index.html and docs/index.rst)
+// Front page (community/index.html and docs/index.md)
 // ---------------------------------------------------------------------------
 
 .community-hero {
@@ -1274,6 +1274,12 @@ body.community {
 
     .community-navbar {
         border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+
+        // Keep the menu's dropdowns above the hero text, which the photo
+        // fade also lifts on wide screens.
+        @media (min-width: 1601px) {
+            z-index: 2;
+        }
 
         .uk-navbar-nav > li > a,
         .uk-navbar-toggle {
@@ -1350,7 +1356,7 @@ body.community {
     }
 }
 
-// docs/index.rst lays out its own sections; these keep them to the page
+// docs/index.md lays out its own sections; these keep them to the page
 // column while their backgrounds run the full width.
 .community-home {
     > .body > section > h1:first-child {
@@ -1592,11 +1598,17 @@ ul.home-tiles {
     }
 }
 
-ul.home-links {
+// The bullets hang in the column's side padding, so the list keeps it
+// and adds its own indent.
+.community-home ul.home-links {
     columns: 2 300px;
     column-gap: 48px;
     margin-top: 0;
     padding-left: 40px;
+
+    @media (min-width: 640px) {
+        padding-left: 48px;
+    }
 
     li {
         margin: 0 0 8px;
@@ -1700,7 +1712,7 @@ ul.blog-earlier {
 }
 
 // The newsletter page: _templates/community/newsletter.html and the signup
-// form in docs/newsletter.rst.
+// form in docs/newsletter.md.
 .newsletter-signup {
     max-width: 560px;
     margin: 0 0 32px;
@@ -1818,8 +1830,8 @@ ul.newsletter-archive {
 }
 
 // Cards that link to pages, each with a title and a line about it: the
-// documentation guide's most read pages (docs/guide/index.rst) and the
-// learning resources (docs/about/learning-resources.rst).
+// documentation guide's most read pages (docs/guide/index.md) and the
+// learning resources (docs/about/learning-resources.md).
 ul.link-cards {
     @include community-card-grid(220px, 16px);
     margin-bottom: 32px;

@@ -11,7 +11,7 @@ upcoming_conferences:
 
 # The header menu. Each item links to its section's page, which lists all of
 # the section's pages; the sections and their pages are the toctrees in
-# docs/index.rst and in each section's page. Hover or focus an item to open
+# docs/index.md and in each section's page. Hover or focus an item to open
 # its dropdown, which lists the section's most read pages, not the section
 # page itself. `upcoming_conferences: true` lists the conferences above.
 #
@@ -75,7 +75,7 @@ mailing_list:
   bot_field: b_94377ea46d8b176a11a325d03_dcf0ed349b
 
 # The front page. Its prose sections ("What is Write the Docs?" and the
-# links at the end) stay in docs/index.rst.
+# links at the end) stay in docs/index.md.
 #
 # In any text or link here, {slack_members}, {newsletter_subs},
 # {meetup_cities} and {salary_survey[...]} are filled in from html_context
