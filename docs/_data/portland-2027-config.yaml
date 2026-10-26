@@ -5,7 +5,7 @@ city: Portland
 local_area: Oregon
 area: North America # European Australian
 area_adj: North American
-tz: Pacific Time  # PT until March, PST after... :/
+tz: Pacific Time  # PST until March, PDT after... :/
 email: portland@writethedocs.org
 color: coral
 rgb: 234,104,82
@@ -193,11 +193,12 @@ about:
       percent: 10
 
 cfp:
-  url: "https://pretalx.com/wtd-portland-2027/cfp" # Open mid November, approx 12 weeks to submit
-  ends: "January 18, 2027"                         # (Mon) 1 week, to review. It'll take a little longer to announce
-  notification: "February 1, 2027"                 # (Mon) 8 weeks to write and prepare
-  speaker_tickets_by: April 1, 2027                # Approx 3 weeks before
-  video_by: "April 8, 2027"                        # Upload date for recorded talks (remote speakers)
+  url: "https://pretalx.com/wtd-portland-2027/cfp" # Approx 9 weeks to submit
+  opens: "November 2026"                           # Mid November
+  ends: "January 18, 2027"                         # (Mon) 2 weeks to review
+  notification: "February 1, 2027"                 # (Mon) 13 weeks to write and prepare
+  speaker_tickets_by: April 5, 2027                # (Mon) Approx 4 weeks before
+  video_by: "April 5, 2027"                        # (Mon) Upload date for recorded talks (remote speakers)
   slides_by: "April 26, 2027"                      # (Mon) 1 week before
 
 unconf:
@@ -232,14 +233,17 @@ sponsors:
   in_kind: []
 
 
+# Photos are from Write the Docs Portland 2026 at Revolution Hall, this
+# year's venue, in _static/conf/images/photos/ (see _data/community.yaml).
 photos:
   default:
-    - _static/conf/images/headers/2026/unconference.jpg
-    - _static/conf/images/headers/2026/writing-day.jpg
-    - _static/conf/images/headers/2026/tickets.jpg
+    - _static/conf/images/photos/unconference-circle-55273867859.jpg
+    - _static/conf/images/photos/writing-day-laptops-55246770841.jpg
+    - _static/conf/images/photos/auditorium-day-1-55249270408.jpg
+  # Beside the quotes, then beside "What is Write the Docs?".
   index:
-    - _static/conf/images/pics/writing-day.jpg
-    - _static/conf/images/pics/reg.jpg
+    - _static/conf/images/photos/reception-booth-55248669969.jpg
+    - _static/conf/images/photos/writing-day-table-55246793808.jpg
 
 
 # Things that change over time, listed in order of change

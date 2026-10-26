@@ -1,3 +1,4 @@
+import datetime
 import os
 
 
@@ -38,6 +39,17 @@ def find_sponsor(sponsors, name):
     raise ValueError(f'No sponsor named {name!r} in the sponsors block')
 
 
+def before_month(date_str):
+    """
+    Return True if the build date falls before the month of ``date_str``
+    (for example "February 1, 2027"), so pages can hide content once that
+    month starts. Only takes effect when the site is rebuilt.
+    """
+    date = datetime.datetime.strptime(date_str, '%B %d, %Y').date()
+    today = datetime.date.today()
+    return (today.year, today.month) < (date.year, date.month)
+
+
 def add_jinja_filters_to_app(app):
     if app.builder.format != 'html':
         return
@@ -48,3 +60,4 @@ def add_jinja_filters_to_app(app):
     app.builder.templates.environment.filters['speaker_photo'] = speaker_photo
     app.builder.templates.environment.filters['sponsor_photo'] = sponsor_photo
     app.builder.templates.environment.filters['find_sponsor'] = find_sponsor
+    app.builder.templates.environment.filters['before_month'] = before_month

@@ -1,0 +1,156 @@
+# Data for the community pages, which is everything outside
+# conf/<city>/<year>/. Conference pages have their own menu in
+# docs/_templates/conference/navbar.html.
+
+# Conferences listed on the front page, the conferences page and in the
+# header menu, soonest first. Each is the <shortcode>-<year>
+# of a conference config file in this directory.
+upcoming_conferences:
+  - australia-2026
+  - portland-2027
+
+# The header menu. Each item links to its section's page, which lists all of
+# the section's pages; the sections and their pages are the toctrees in
+# docs/index.md and in each section's page. Hover or focus an item to open
+# its dropdown, which lists the section's most read pages, not the section
+# page itself. `upcoming_conferences: true` lists the conferences above.
+#
+# List what's ongoing and has a team behind it, roughly in order of how much
+# people read it: the guides draw over half of the site's visits. When a
+# program ends, like the book club, take it out of the menu and say so on
+# its page.
+nav:
+  - text: Conferences
+    link: /conf/
+    children:
+      - upcoming_conferences: true
+      - text: Talk videos
+        link: https://www.youtube.com/c/WritetheDocs
+  - text: Learn
+    link: /about/learning-resources/
+    children:
+      - text: Documentation guide
+        link: /guide/
+      - text: Hiring guide
+        link: /hiring-guide/
+      - text: Content by topic
+        link: /topics/
+      - text: Salary survey
+        link: /surveys/
+  - text: Community
+    link: /about/stay-connected/
+    children:
+      - text: Slack
+        link: /slack/
+      - text: Meetups
+        link: /meetups/
+      - text: Newsletter
+        link: /newsletter/
+      - text: Blog
+        link: /blog/
+      - text: Code of Conduct
+        link: /code-of-conduct/
+  - text: About
+    link: /about/about-the-org/
+    children:
+      - text: Team
+        link: /team/
+      - text: Sponsor us
+        link: /sponsorship/
+      - text: Contribute
+        link: /contribute/
+      - text: Contact
+        link: /contact/
+
+# The button at the end of the header menu.
+nav_button:
+  text: Join Slack
+  link: /slack/
+
+# The Mailchimp list that the mailing list forms subscribe to: the band at the
+# bottom of each community page, and the newsletter page. `bot_field` is a
+# hidden field from Mailchimp's embed code that people never fill in.
+mailing_list:
+  action: https://writethedocs.us6.list-manage.com/subscribe/post?u=94377ea46d8b176a11a325d03&id=dcf0ed349b&f_id=00d2c2e1f0
+  bot_field: b_94377ea46d8b176a11a325d03_dcf0ed349b
+
+# The front page. Its prose sections ("What is Write the Docs?" and the
+# links at the end) stay in docs/index.md.
+#
+# In any text or link here, {slack_members}, {newsletter_subs},
+# {meetup_cities} and {salary_survey[...]} are filled in from html_context
+# in docs/conf.py, so the numbers live in one place.
+home:
+  hero:
+    title: A global community of people who care about documentation
+    text: >-
+      Learn from over {slack_members} documentarians, whatever your job title.
+      Ask questions in Slack, and swap ideas at meetups and conferences.
+    # Like `buttons` in a conference config.
+    buttons:
+      - text: Join Slack
+        link: /slack/
+      - text: Get the newsletter
+        link: /newsletter/
+
+  # The "Get involved" tiles. `icon` names a file in
+  # docs/_templates/community/icons/. `when` shows a tile only while the
+  # salary survey is open (salary_survey_open) or closed
+  # (salary_survey_closed); its dates are in docs/conf.py.
+  tiles:
+    - title: Join our Slack
+      link: /slack/
+      icon: slack
+      text: Over {slack_members} people hanging out and chatting about documentation.
+    - title: Find a local meetup
+      link: /meetups/
+      icon: meetups
+      text: Local and virtual groups in over {meetup_cities} cities, run by volunteers.
+    - title: Read the newsletter
+      link: /newsletter/
+      icon: newsletter
+      text: >-
+        A monthly roundup of what our community is talking about, for over
+        {newsletter_subs} subscribers.
+    - title: Browse by topic
+      link: /topics/
+      icon: topics
+      text: Over 700 talks and newsletter articles, on everything from API docs to getting hired.
+    - title: Take the salary survey
+      link: "{salary_survey[url]}"
+      icon: survey
+      when: salary_survey_open
+      text: >-
+        Anonymous pay data for documentation roles. The {salary_survey[year]}
+        survey closes {salary_survey[closes]}, and <a href="/surveys/">past
+        results</a> are free to read.
+    - title: See the salary survey
+      link: /surveys/
+      icon: survey
+      when: salary_survey_closed
+      text: Anonymous pay data for documentation roles, published free every year.
+    - title: Become a sponsor
+      link: /sponsorship/
+      icon: sponsor
+      text: Reach documentarians through our conferences, newsletter, Slack and website.
+
+# Photos behind the page title. As on the conference pages, each page picks
+# its own with a `banner` field: `:banner: _static/...` at the top of a
+# reStructuredText page, or `banner: _static/...` in Markdown front matter.
+# Pages without one get one of these (`photos.default`, as in a conference's
+# config), picked by the page name so it doesn't change between builds.
+#
+# Photos for banners and pages live once in _static/conf/images/photos/, so
+# any page can reuse one. They come from our Flickr albums, and each file
+# name ends in its Flickr photo ID: the photo's page is
+# https://www.flickr.com/photos/writethedocs/<id>/. Banners are cropped to
+# 1600x533 and photos in the text to 800x533.
+#
+# Choose photos without QR codes, and where you can, without faces in
+# focus: signs, swag, boards, and the backs of the audience.
+photos:
+  default:
+    - _static/conf/images/photos/audience-rows-berlin-55527105337.jpg
+    - _static/conf/images/photos/auditorium-55248225117.jpg
+    - _static/conf/images/photos/attendee-lounge-55250832089.jpg
+    - _static/conf/images/photos/stickers-and-notebooks-55246412281.jpg

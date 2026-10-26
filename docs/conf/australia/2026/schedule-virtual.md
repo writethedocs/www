@@ -22,13 +22,17 @@ All times are in [{{ tz }}](https://time.is/{{ tz }}).
 
 <hr>
 
-## {{date.day_three.dotw}}, {{date.day_three.date}}
+## {{date.day_one.dotw}}, {{date.day_one.date}}
 
-{{ date.day_three.summary }}
+{{ date.day_one.summary }}
 
 {% if flaghasschedule %}
 
-{% with day_schedule=schedule.talks_day1 %} {% include "include/schedule2021.rst" %} {% endwith %}
+```{raw} html
+{% with day_schedule=schedule.talks_day1 %}
+{% include "include/schedule2026.md" %}
+{% endwith %}
+```
 
 {% else %}  
 A detailed schedule will be announced soon.
@@ -41,7 +45,7 @@ Talks are around 30 minutes, with moderated 10 minute Q&A.
 
 - **Where**: Venueless virtual platform
 {% if not flaghasschedule %}
-- **When**: **{{ date.day_three.talk_time }} {{ tz }}**
+- **When**: **{{ date.day_one.talk_time }} {{ tz }}**
 {% endif %}
 - **Details**: [Speakers and talks](/conf/{{shortcode}}/{{year}}/speakers/)
 
@@ -49,13 +53,17 @@ Talks are around 30 minutes, with moderated 10 minute Q&A.
 
 You can socialize with other virtual attendees in the various hallway channels.
 
-## {{date.day_four.dotw}}, {{date.day_four.date}}
+## {{date.day_two.dotw}}, {{date.day_two.date}}
 
-{{ date.day_four.summary }}
+{{ date.day_two.summary }}
 
 {% if flaghasschedule %}
 
-{% with day_schedule=schedule.talks_day2 %} {% include "include/schedule2021.rst" %} {% endwith %}
+```{raw} html
+{% with day_schedule=schedule.talks_day2 %}
+{% include "include/schedule2026.md" %}
+{% endwith %}
+```
 
 {% else %}  
 A detailed schedule will be announced soon.
@@ -68,7 +76,7 @@ Talks are around 30 minutes, with moderated 10 minute Q&A.
 
 - **Where**: Venueless virtual platform
 {% if not flaghasschedule %}
-- **When**: **{{ date.day_four.talk_time }} {{ tz }}**
+- **When**: **{{ date.day_two.talk_time }} {{ tz }}**
 {% endif %}
 - **Details**: [Speakers and talks](/conf/{{shortcode}}/{{year}}/speakers/)
 

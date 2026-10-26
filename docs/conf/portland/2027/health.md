@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/headers/2026/registration.jpg
+banner: _static/conf/images/photos/attendee-lounge-55250832089.jpg
 ---
 
 # Health and Safety Policy 

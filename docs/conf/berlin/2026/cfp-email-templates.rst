@@ -302,11 +302,11 @@ Subject:
 
    It is a wrap! Thank you one last time for your hard work, insight and creativity. You were amazing!
 
-   ○ Videos of all talks are published on [YouTube](https://www.youtube.com/playlist?list=PLZAeFn6dfHplMbtJtidqFFtL7rt3ASNSR).
+   ○ Videos of all talks are published on [YouTube](https://www.youtube.com/playlist?list=PLd_PJO5sePEI).
 
-   ○ Photos are being uploaded to [Flickr](https://www.flickr.com/photos/writethedocs/albums/72177720325861452/), more photos of the rest of the event will follow soon.
+   ○ Photos are being uploaded to [Flickr](https://www.flickr.com/photos/writethedocs/albums/72177720335472747/), more photos of the rest of the event will follow soon.
 
-   ○ Sketchnotes are up, also on [Flickr](https://www.flickr.com/photos/writethedocs/albums/72177720325990264).
+   ○ Sketchnotes of the talks have posted to social media, and also on [Flickr](https://www.flickr.com/photos/writethedocs/albums/72177720335675665).
 
    We'd love to know how you found the whole process, from A to Z so we can improve next time. To that end we've got an anonymous (keep in mind that there aren't many speakers) feedback form for you here:
 
@@ -327,7 +327,6 @@ Populate the CFP environment variables to see the email templates.::
    export WTD_CFP_UPLOAD='TODO'
    export WTD_CFP_SPEAKER_TICKET='TODO'
    export WTD_CFP_FEEDBACK_FORM='TODO'
-   export WTD_CFP_SPEAKER_GIFT_FORM='TODO'
 
 .. note:: Do this *inside* your `venv` if you're using one. For example in `venv/bin/activate`
 

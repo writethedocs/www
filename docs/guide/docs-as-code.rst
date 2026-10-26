@@ -1,4 +1,4 @@
-Docs as Code
+Docs as code
 ============
 
 :author: `Eric Holscher <http://ericholscher.com/>`_ & the Write the Docs community
