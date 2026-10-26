@@ -236,6 +236,9 @@ sponsors:
     - name: buttondown
       link: https://buttondown.com/?ref=writethedocs
       brand: Buttondown
+    - name: readthedocs
+      link: https://about.readthedocs.com/?ref=writethedocs
+      brand: Read the Docs
   first: []
   in_kind: []
 
