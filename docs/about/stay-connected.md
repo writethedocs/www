@@ -12,6 +12,7 @@ banner: _static/conf/images/photos/reception-patio-55248833655.jpg
 /slack
 /meetups/index
 /newsletter
+/showcase
 /blog/index
 /code-of-conduct
 /bipoc
@@ -35,6 +36,10 @@ Talk shop with other documentarians all year round: in Slack, at a meetup near y
   <li><a href="/newsletter/">
     <strong>Newsletter</strong>
     <span>The best conversations from Slack once a month, plus announcements from our conferences.</span>
+  </a></li>
+  <li><a href="/showcase/">
+    <strong>Community showcase</strong>
+    <span>Writing from the community, picked by our editors every quarter. Nominate your own or someone else's.</span>
   </a></li>
   <li><a href="/blog/">
     <strong>Blog</strong>
