@@ -805,16 +805,26 @@ body .uk-offcanvas-slide a.uk-button-ghost {
     flex-direction: column;
     justify-content: center;
 
-    img {
-        width: 90%;
-        max-width: 264px;
-        height: auto;
+    // Each logo gets a box of one height per tier, as wide as its column up
+    // to the template's inline width cap, and object-fit centers the logo in
+    // it. So logos share a centerline whatever their shape or padding, and
+    // the box shrinks with the column on phones.
+    a {
         display: block;
-        margin-left: auto;
-        margin-right: auto;
-        padding-bottom: 20px;
-        margin: 15px;
+        width: 100%;
     }
+
+    img {
+        width: 100%;
+        object-fit: contain;
+        display: block;
+        margin: 15px auto;
+    }
+
+    .gold-sponsors img { height: 110px; }
+    .silver-sponsors img { height: 80px; }
+    .bronze-sponsors img { height: 55px; }
+    .community-sponsors img { height: 40px; }
 
     .gold-sponsors, .silver-sponsors, .bronze-sponsors, .community-sponsors, .sponsor {
             a {
@@ -828,6 +838,7 @@ body .uk-offcanvas-slide a.uk-button-ghost {
         & > * {
             display: flex;
             justify-content: center;
+            align-items: center;
         }
     }
 
@@ -1252,12 +1263,8 @@ footer {
             &> * {
                 display: flex;
                 justify-content: center;
+                align-items: center;
             }
-        }
-
-        .sponsor div img {
-            width: 80%;
-            height: auto;
         }
     }
 
