@@ -500,7 +500,8 @@ body.community {
     background-color: $footer-color;
     background-position: center 40%;
     background-size: cover;
-    @include community-photo-fade;
+    // Two layers: the navy tint over the photo (_templates/layout.html).
+    @include community-photo-fade($layers: 2);
 
     .community-container {
         width: 100%;

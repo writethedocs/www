@@ -54,14 +54,19 @@
   </div>
   {%- endif %}
   {%- block community_header %}
-  <header class="community-header">
-    {{ navbar() }}
-  </header>
-  <div class="community-banner" style="background-image: url('{{ pathto(page_banner, 1) }}')">
-    <div class="community-container">
-      <h1>{{ title }}</h1>
+  {#- One header landmark for the menu and the banner. The banner photo
+      sits under a navy tint, a lighter version of the front page hero's, so
+      busy photos stay calm behind the page title. #}
+  <header>
+    <div class="community-header">
+      {{ navbar() }}
     </div>
-  </div>
+    <div class="community-banner" style="background-image: linear-gradient(rgba(19, 37, 48, 0.5), rgba(19, 37, 48, 0.6)), url('{{ pathto(page_banner, 1) }}')">
+      <div class="community-container">
+        <h1>{{ title }}</h1>
+      </div>
+    </div>
+  </header>
   {%- endblock %}
   {{ offcanvas() }}
 {%- endblock %}
