@@ -1263,7 +1263,7 @@ body.community {
 }
 
 // ---------------------------------------------------------------------------
-// Front page (community/index.html and docs/index.rst)
+// Front page (community/index.html and docs/index.md)
 // ---------------------------------------------------------------------------
 
 .community-hero {
@@ -1357,7 +1357,7 @@ body.community {
     }
 }
 
-// docs/index.rst lays out its own sections; these keep them to the page
+// docs/index.md lays out its own sections; these keep them to the page
 // column while their backgrounds run the full width.
 .community-home {
     > .body > section > h1:first-child {
@@ -1713,7 +1713,7 @@ ul.blog-earlier {
 }
 
 // The newsletter page: _templates/community/newsletter.html and the signup
-// form in docs/newsletter.rst.
+// form in docs/newsletter.md.
 .newsletter-signup {
     max-width: 560px;
     margin: 0 0 32px;
@@ -1831,8 +1831,8 @@ ul.newsletter-archive {
 }
 
 // Cards that link to pages, each with a title and a line about it: the
-// documentation guide's most read pages (docs/guide/index.rst) and the
-// learning resources (docs/about/learning-resources.rst).
+// documentation guide's most read pages (docs/guide/index.md) and the
+// learning resources (docs/about/learning-resources.md).
 ul.link-cards {
     @include community-card-grid(220px, 16px);
     margin-bottom: 32px;
