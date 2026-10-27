@@ -575,11 +575,21 @@ body .page-content {
         text-transform: uppercase;
         letter-spacing: 0.04em;
     }
+
+    // Stacked at every width, for a timeline inside a page's text column.
+    &.is-stacked {
+        padding: 8px 0 24px;
+
+        .key-dates-list {
+            margin: 0;
+            max-width: none;
+        }
+    }
 }
 
 // Side by side on wider screens: a horizontal line through the dots.
 @media (min-width: 640px) {
-    .key-dates .key-dates-list {
+    .key-dates:not(.is-stacked) .key-dates-list {
         display: flex;
         max-width: none;
 
