@@ -11,11 +11,11 @@ Write the Docs is a community that looks after its people. We want everyone to f
 
 ## Masks are welcome
 
-Wearing a mask is completely fine here. Wear one all day or for some sessions. You don't need to explain it to anyone. Masks are not required.
+Wearing a mask is completely fine here. Wear one all day or for some sessions. You don't need to explain it to anyone. Masks are not mandatory.
 
 ## If you're unwell
 
-Please stay home if you have COVID-19, the flu, or any cold or flu-like symptoms. This year's conference is hybrid, so you can join online instead.
+Please stay home if you have COVID-19, the flu, or any cold or flu-like symptoms. This year's conference is hybrid, so you can also join online using your ticket.
 
 ## Onsite
 
