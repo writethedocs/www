@@ -469,6 +469,13 @@ body .page-content {
         text-align: center;
     }
 
+    // Plain links in the text, like "current conferences" in the banner
+    // shown after a conference: white and underlined on the black.
+    p a:not(.uk-button-announcement) {
+        color: $white;
+        text-decoration: underline;
+    }
+
     a.uk-button-announcement {
         background-color: $main-color;
         color: $font-black;
