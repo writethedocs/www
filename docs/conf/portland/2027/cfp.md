@@ -160,34 +160,34 @@ All Speakers must read, understand, and agree to our [Code of Conduct](/code-of-
 <div class="key-dates">
   <ol class="key-dates-list">
     <li>
-      <span class="key-date">{{ cfp.ends }}</span>
+      <span class="key-date">{{ cfp.ends|replace(', ' ~ year, '') }}</span>
       Proposals due by 11:59 PM {{ tz }}
     </li>
     <li>
-      <span class="key-date">{{ cfp.notification }}</span>
+      <span class="key-date">{{ cfp.notification|replace(', ' ~ year, '') }}</span>
       Speakers hear back
     </li>
     {%- if cfp.speaker_tickets_by == cfp.video_by %}
     <li>
-      <span class="key-date">{{ cfp.speaker_tickets_by }}</span>
+      <span class="key-date">{{ cfp.speaker_tickets_by|replace(', ' ~ year, '') }}</span>
       Speaker tickets and pre-recorded talks due
     </li>
     {%- else %}
     <li>
-      <span class="key-date">{{ cfp.speaker_tickets_by }}</span>
+      <span class="key-date">{{ cfp.speaker_tickets_by|replace(', ' ~ year, '') }}</span>
       Speaker tickets due
     </li>
     <li>
-      <span class="key-date">{{ cfp.video_by }}</span>
+      <span class="key-date">{{ cfp.video_by|replace(', ' ~ year, '') }}</span>
       Pre-recorded talks due
     </li>
     {%- endif %}
     <li>
-      <span class="key-date">{{ cfp.slides_by }}</span>
+      <span class="key-date">{{ cfp.slides_by|replace(', ' ~ year, '') }}</span>
       Slides due for our captioners
     </li>
     <li>
-      <span class="key-date">{{ date.conference.date }}, {{ year }}</span>
+      <span class="key-date">{{ date.conference.date }}</span>
       Talks on stage in {{ city }}
     </li>
   </ol>
