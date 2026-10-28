@@ -9,8 +9,8 @@ Once a month, our newsletter team rounds up the best conversations from the
 Write the Docs Slack: questions, debates, and tips from documentarians around
 the world. Over {{ newsletter_subs }} people read it.
 
-Every quarter, we also publish a [community showcase](/showcase/) of writing
-from the community.
+Every quarter, we also publish [Write the Docs Picks](/picks/), a selection of
+writing from the community, picked by our editors.
 
 ## Sign up
 
@@ -29,7 +29,7 @@ Choose what you'd like to hear about. You can unsubscribe from any email.
     <label><input type="checkbox" name="group[14633][4]" value="4" data-timezones="Europe/ Africa/ Atlantic/"> Conference announcements for Europe, Africa and the Middle East</label>
     <label><input type="checkbox" name="group[14633][8]" value="8" data-timezones="Australia/ Pacific/Auckland Pacific/Chatham"> Conference announcements for Asia and the Pacific</label>
     <label><input type="checkbox" name="group[14633][32]" value=""> Salary survey announcements</label>
-    <label><input type="checkbox" name="group[14633][64]" value=""> The quarterly community showcase</label>
+    <label><input type="checkbox" name="group[14633][64]" value=""> Quarterly Write the Docs Picks</label>
   </fieldset>
   <!-- Bot trap from Mailchimp's embed code: people never fill it in. -->
   <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="{{ community.mailing_list.bot_field }}" tabindex="-1" value=""></div>

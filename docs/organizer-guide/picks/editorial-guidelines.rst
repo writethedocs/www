@@ -1,11 +1,12 @@
-*****************************
-Showcase editorial guidelines
-*****************************
+**************************
+Picks editorial guidelines
+**************************
 
-The Showcase is a quarterly, editor-picked selection of content submitted by the Write the Docs community, so people don't have to dig for quality articles across multiple channels or scroll endlessly through their newsfeed.
+Write the Docs Picks is a quarterly, editor-picked selection of content submitted by the Write the Docs community, so people don't have to dig for quality articles across multiple channels or scroll endlessly through their newsfeed.
+
 Not everything submitted gets featured, and that's the point. Of course, the `#community-showcase <https://writethedocs.slack.com/archives/CLMSZGGK1>`__ Slack channel remains open to anyone, anytime. You are always welcome to post there as well.
 
-In the Showcase, we don't republish the full text. We link out to each featured piece and give a short write-up explaining why it's worth reading.
+In Picks, we don't republish the full text. We link out to each featured piece and give a short write-up explaining why it's worth reading.
 
 What we're looking for
 **********************
@@ -39,19 +40,19 @@ If you're not sure whether your work is "good enough," that's probably not a rea
 Content written for an employer
 *******************************
 
-Content written as part of someone's job (a company blog post, for instance) is eligible, but personal, independently-written content is prioritised. This is about keeping the Showcase's vibe one of individual community members sharing their own work and thinking, rather than becoming another company-blog distribution channel.
+Content written as part of someone's job (a company blog post, for instance) is eligible, but personal, independently-written content is prioritised. This is about keeping Picks feeling like individual community members sharing their own work and thinking, rather than becoming another company-blog distribution channel.
 
 What we accept, for now
 ***********************
 
-For the first editions of the Showcase, we're only accepting **written content** like articles and blog posts. We may expand this to podcasts, videos, and projects, but each of those brings its own evaluation effort, so we're starting narrow and may widen scope once the process is running smoothly.
+For the first editions of Picks, we're only accepting **written content** like articles and blog posts. We may expand this to podcasts, videos, and projects, but each of those brings its own evaluation effort, so we're starting narrow and may widen scope once the process is running smoothly.
 
-How often the same person can appear
-************************************
+How often the same author is picked
+***********************************
 
-To keep the Showcase reflecting a range of voices rather than a few favourites, we cap how often the same content creator appears: **twice per calendar year**, maximum.
+To keep Picks reflecting a range of voices rather than a few favourites, we cap how often the same author appears: **twice per calendar year**, maximum.
 
 A note on endorsement
 *********************
 
-Being featured in the Showcase means our editorial team read it and thought it was worth sharing. It isn't a sponsorship, and Write the Docs isn't vouching for every claim or opinion in a piece.
+Being featured in Write the Docs Picks means our editorial team read the article and thought it was worth sharing. It isn't a sponsorship, and Write the Docs isn't vouching for every claim or opinion in a piece.

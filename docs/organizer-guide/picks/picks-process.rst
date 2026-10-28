@@ -1,16 +1,17 @@
-Write the Docs showcase process
-###############################
+Write the Docs Picks process
+############################
 
-Once a quarter, we put out the :doc:`Write the Docs Showcase </showcase/>` — a spotlight on written content from across the community. Unlike the :doc:`monthly newsletter </newsletter>`, which rounds up Slack conversations, the Showcase features content that community members have nominated themselves or on behalf of others, via our :doc:`submission process </showcase/>`.
+Once a quarter, we put out :doc:`Write the Docs Picks </picks/>` — a spotlight on written content from across the community. Unlike the :doc:`monthly newsletter </newsletter>`, which rounds up Slack conversations, picks are hand-picked articles that community members have nominated themselves or on behalf of others, via our :doc:`submission process </picks/>`.
 
-This doc explains how to run a Showcase edition from open call to publication.
+This doc explains how to run a Picks edition from open call to publication.
 
-`Handy link to the archives </blog/archive/tag/newsletter/>`__.
+.. TODO: add back in Q2 2027 when the picks tag exists
+   `Handy link to the archives </blog/archive/tag/newsletter/>`__.
 
 Collect submissions (throughout the quarter)
 ********************************************
 
-Submissions come in via the Showcase form, landing in a shared spreadsheet. Keep an eye on it throughout the quarter rather than leaving it all to the final week. Use the same spreadsheet and just filter the view to the last three months.
+Submissions come in via the Picks form, landing in a shared spreadsheet. Keep an eye on it throughout the quarter rather than leaving it all to the final week. Use the same spreadsheet and just filter the view to the last three months.
 
 
 Review and rate submissions (1-2 weeks before shipping)
@@ -44,22 +45,22 @@ Write up the selections (1 week before shipping)
 For each selected submission, write a brief editorial note on why it made the cut: what's good about it, what it's useful for, why it's worth a reader's time. This is different from the monthly newsletter's neutral, just-the-facts tone. The editorial voice here is part of the value, since it's evidence someone actually read and judged the submission rather than just listing it.
 
 Assemble & review (2-3 days before shipping)
-**********************************************
+********************************************
 
-Draft the showcase. Include the selected submissions along with their editorinal note, a brief intro and a call for submissions to the next edition.
+Draft the edition. Include the selected submissions along with their editorinal note, a brief intro and a call for submissions to the next edition.
 
 Use the outline template::
 
    :og:image: https://www.writethedocs.org/_static/logo-opengraph.png
 
    .. post:: [DATE]
-      :tags: showcase
+      :tags: picks
 
-   ###############################################
-   Write the Docs Community Showcase – SEASON YEAR
-   ###############################################
+   ##################################
+   Write the Docs Picks – SEASON YEAR
+   ##################################
 
-   [INTRO] Welcome to the latest edition of the Write the Docs Community Showcase — a quarterly, editor-picked selection of writing from across the community. Everything here was submitted by community members and read by our editorial team before making the cut.
+   [INTRO] Welcome to the latest edition of the Write the Docs Picks — a quarterly, editor-picked selection of writing from across the community. Everything here was submitted by community members and read by our editorial team before making the cut.
 
    ------------------
    [TITLE OF PIECE 1]
@@ -89,21 +90,21 @@ Use the outline template::
    Submit to the next edition
    ------------------
 
-   [OUTRO] If you've written something about the practice of documentation in the last three months — or want to nominate someone else's work — submissions for the next edition are :doc:`open now </showcase>`.
-   The Showcase publishes quarterly. `View past editions </blog/archive/tag/newsletter/>`__, and subscribe at :doc:`/newsletter` to get the next one in your inbox.
-   — The Write the Docs Showcase team
+   [OUTRO] If you've written something about the practice of documentation in the last three months — or want to nominate someone else's work — submissions for the next edition are :doc:`open now </picks>`.
+   We publish picks quarterly. Subscribe at :doc:`/picks` to get the next one in your inbox.
+   — The Write the Docs Community Picks team
 
 
-When the content for the showcase is all in place, upload the file to a new branch on GitHub in ``www/docs/blog``. Create a pull request and share in the #showcase channel for review.
+When the content is all in place, upload the file to a new branch on GitHub in ``www/docs/blog``. Create a pull request and share in the #team-picks channel for review.
 
 Allow 1-2 days for folks to review and leave comments. (Not *everyone* has to review it, but 2-3 sets of extra eyeballs is ideal.)
 
 Resolve all comments, and then when you're ready to send it...
 
-Ship the showcase (0 days before shipping)
+Ship the picks (0 days before shipping)
 ******************************************
 
-It's the same mechanism as the newsletter: merging the PR takes the post live, and Mailchimp sends it out to subscribers of the Showcase list once the post is tagged correctly.
+It's the same mechanism as the newsletter: merging the PR takes the post live, and Mailchimp sends it out to subscribers once the post is tagged correctly.
 
 We don't notify submitters individually, successful or not. People find out by checking when the edition goes live.
 

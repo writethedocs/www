@@ -48,15 +48,15 @@ newsletter/editorial-guidelines
 newsletter/newsletter-process
 ```
 
-## Showcase
+## Picks
 
-Information about curating the quarterly Community Showcase.
+Information about curating Write the Docs Picks.
 
 ```{toctree}
 :maxdepth: 2
 
-showcase/editorial-guidelines
-showcase/showcase-process
+picks/editorial-guidelines
+picks/picks-process
 ```
 
 ## Conferences

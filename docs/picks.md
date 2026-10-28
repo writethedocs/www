@@ -1,6 +1,6 @@
-# Community showcase
+# Community picks
 
-The Write the Docs community produces a lot of great writing, and our Showcase is a way to help it find the audience it deserves.
+The Write the Docs community produces a lot of great writing, and this is our  way of helping it find the audience it deserves.
 
 Every quarter, we feature articles submitted by members of the Write the Docs community, surfaced for an audience of over {{ slack_members }} documentarians in our [Slack network](/slack/).
 
@@ -17,20 +17,24 @@ It should be:
 * **Not an ad** — if it's mainly a pitch for a product, it's not a fit
 * **Yours, or someone else's** — nominate your own work, or someone you think deserves the spotlight
 
-See the full [editorial guidelines](/organizer-guide/showcase/editorial-guidelines/) for the complete rules, including how we handle employer-written content.
+See the full [editorial guidelines](/organizer-guide/picks/editorial-guidelines/) for the complete rules, including how we handle employer-written content.
 
 Not every submission gets featured. We read everything and pick what we think is most worth sharing.
 
 ## Submit something
 
-Use the [Nomination form](https://forms.gle/JNEX2fC47tiXh8my9) to suggest something for us to showcase.
+Use the form to suggest something for us to showcase.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdtf5l6Sh5w1eZUKJqP6TiIvVE7SvzVgXLWgS1gXxmzzOVrVw/viewform?embedded=true" width="650" height="1999" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
+<!-- Add back in Q2 2027 when we have created the picks tag. Replace the newsletter tag in the link here with the picks tag.
+
 ## Past editions
 
-[View all past Showcases](/blog/archive/tag/newsletter/)
+[View all past Picks](/blog/archive/tag/newsletter/)
+
+-->
 
 ## Get in touch
 
-If you have any questions, go ahead and email us at [showcase@writethedocs.org](mailto:showcase@writethedocs.org)
+If you have any questions, go ahead and email us at [picks@writethedocs.org](mailto:picks@writethedocs.org)
