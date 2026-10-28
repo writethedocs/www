@@ -157,7 +157,7 @@ All Speakers must read, understand, and agree to our [Code of Conduct](/code-of-
 
 ## Timeline overview
 
-<div class="key-dates is-stacked">
+<div class="key-dates">
   <ol class="key-dates-list">
     <li>
       <span class="key-date">{{ cfp.ends }}</span>

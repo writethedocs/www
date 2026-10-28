@@ -259,7 +259,7 @@ photos:
 # Things that change over time, listed in order of change
 flaglanding: True
 flaghassponsors: True
-flagcfp: False
+flagcfp: True
 flagticketsonsale: False
 flagsoldout: False
 flagscheduleincomplete: True
