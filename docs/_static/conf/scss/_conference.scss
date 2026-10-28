@@ -1937,6 +1937,13 @@ table {
             border-left-color: $main-color;
             color: $black;
         }
+
+        // The section you're reading, marked by UIkit's scrollspy-nav.
+        &.is-current {
+            border-left-color: $main-color;
+            color: $black;
+            font-weight: $bold;
+        }
     }
 }
 
@@ -2025,7 +2032,8 @@ body .page-content .page-toc-list {
         color: $muted-color;
 
         &:hover,
-        &:focus-visible {
+        &:focus-visible,
+        &.is-current {
             color: $black;
         }
     }
