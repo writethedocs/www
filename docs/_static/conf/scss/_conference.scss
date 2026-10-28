@@ -1913,8 +1913,14 @@ table {
         border-left: 2px solid $line-color;
     }
 
-    ul ul ul {
-        padding-left: 12px;
+    // Indent sub-sections' text, not their list, so every highlight bar sits
+    // on the same line as the rest.
+    ul ul ul a {
+        padding-left: 26px;
+    }
+
+    ul ul ul ul a {
+        padding-left: 38px;
     }
 
     li {
@@ -2001,6 +2007,14 @@ table {
     }
 }
 
+// Glide to a section when you follow a link to it, such as from the "On this
+// page" list, unless you've asked your system to reduce motion.
+@media (prefers-reduced-motion: no-preference) {
+    html {
+        scroll-behavior: smooth;
+    }
+}
+
 // Conference pages (conference/generic.html): on wide screens the content
 // container widens so the "On this page" column fits beside the text.
 @media (min-width: 1200px) {
@@ -2021,10 +2035,6 @@ body .page-content .page-toc-list {
     ul {
         margin: 0;
         padding: 0;
-    }
-
-    ul ul ul {
-        padding-left: 12px;
     }
 
     a:not(.headerlink) {
