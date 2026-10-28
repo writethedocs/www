@@ -7,22 +7,22 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 **This policy is up to date as of July 2026.**
 
-## Onsite Health and Safety Measures
+Write the Docs is a community that looks after its people. We want everyone to feel welcome at the conference, including immunocompromised attendees and anyone at higher risk from illness.
 
-Please expect the following measures to be in place at the event:
+## Masks are welcome
 
-- Plentiful hand sanitation stations and personal hand sanitizer onsite and available for participants
-- Masks available at registration, while supplies last
+Wearing a mask is completely fine here. Wear one all day or for some sessions. You don't need to explain it to anyone. Masks are not mandatory.
 
-## Mask Policy
+## If you're unwell
 
-Masks are optional. We are not currently requiring that masks be worn in the venue. 
+Please stay home if you have COVID-19, the flu, or any cold or flu-like symptoms. This year's conference is hybrid, so you can also join online using your ticket.
 
-## No vaccination or testing requirement
+## Onsite
 
-We will not be requiring any specific COVID-related health measures to attend the event.
+We'll have hand sanitiser available at the venue. We will follow all venue and Victorian Government health guidelines.
 
-We will be following all mandated venue and state guidelines. **This list, and all protocols, are subject to change if the COVID-19 situation changes. Changes to this policy will only add requirements, and will not remove requirements.**
+There is no vaccination or testing requirement to attend. According to the `current public health guidelines issued by the Victorian Government <https://www.coronavirus.vic.gov.au/information-travellers>`__, there is no vaccination, quarantine, permit, or testing requirement to enter Victoria.
 
-According to the `current public health guidelines issued by the Victorian Government <https://www.coronavirus.vic.gov.au/information-travellers>`__, there is no vaccination, quarantine, permit, or testing requirement to enter Victoria.
+## Questions or access needs
 
+If something would help you attend comfortably, email australia@writethedocs.org. We'll do what we can.
