@@ -157,23 +157,43 @@ All Speakers must read, understand, and agree to our [Code of Conduct](/code-of-
 
 ## Timeline overview
 
-**{{cfp.ends}}**  
-Call for Proposal ends
+<div class="key-dates">
+  <ol class="key-dates-list">
+    <li>
+      <span class="key-date">{{ cfp.ends|replace(', ' ~ year, '') }}</span>
+      Proposals due by 11:59 PM {{ tz }}
+    </li>
+    <li>
+      <span class="key-date">{{ cfp.notification|replace(', ' ~ year, '') }}</span>
+      Speakers hear back
+    </li>
+    {%- if cfp.speaker_tickets_by == cfp.video_by %}
+    <li>
+      <span class="key-date">{{ cfp.speaker_tickets_by|replace(', ' ~ year, '') }}</span>
+      Speaker tickets and pre-recorded talks due
+    </li>
+    {%- else %}
+    <li>
+      <span class="key-date">{{ cfp.speaker_tickets_by|replace(', ' ~ year, '') }}</span>
+      Speaker tickets due
+    </li>
+    <li>
+      <span class="key-date">{{ cfp.video_by|replace(', ' ~ year, '') }}</span>
+      Pre-recorded talks due
+    </li>
+    {%- endif %}
+    <li>
+      <span class="key-date">{{ cfp.slides_by|replace(', ' ~ year, '') }}</span>
+      Slides due for our captioners
+    </li>
+    <li>
+      <span class="key-date">{{ date.conference.date }}</span>
+      Talks on stage in {{ city }}
+    </li>
+  </ol>
+</div>
 
-**{{cfp.notification}}**  
-We'll let you know whether your proposal was accepted, and ask for some supplementary information about you. Make sure to confirm your talk as soon as you get the email.
-
-**{{cfp.speaker_tickets_by}}**  
-Register for speaker ticket (with dietary preferences, hoodie size, etc.)
-
-**{{cfp.video_by}}**  
-Upload date for recorded talks (remote speakers)
-
-**{{cfp.slides_by}}**  
-We'll ask for a copy of your slides so our human captioners can prepare for your talk
-
-**{{date.short}}**  
-Folks start giving talks on stage!
+If your talk is accepted, confirm it as soon as you get the email.
 
 ## Example proposal
 
