@@ -469,6 +469,13 @@ body .page-content {
         text-align: center;
     }
 
+    // Plain links in the text, like "current conferences" in the banner
+    // shown after a conference: white and underlined on the black.
+    p a:not(.uk-button-announcement) {
+        color: $white;
+        text-decoration: underline;
+    }
+
     a.uk-button-announcement {
         background-color: $main-color;
         color: $font-black;
@@ -798,16 +805,26 @@ body .uk-offcanvas-slide a.uk-button-ghost {
     flex-direction: column;
     justify-content: center;
 
-    img {
-        width: 90%;
-        max-width: 264px;
-        height: auto;
+    // Each logo gets a box of one height per tier, as wide as its column up
+    // to the template's inline width cap, and object-fit centers the logo in
+    // it. So logos share a centerline whatever their shape or padding, and
+    // the box shrinks with the column on phones.
+    a {
         display: block;
-        margin-left: auto;
-        margin-right: auto;
-        padding-bottom: 20px;
-        margin: 15px;
+        width: 100%;
     }
+
+    img {
+        width: 100%;
+        object-fit: contain;
+        display: block;
+        margin: 15px auto;
+    }
+
+    .gold-sponsors img { height: 110px; }
+    .silver-sponsors img { height: 80px; }
+    .bronze-sponsors img { height: 55px; }
+    .community-sponsors img { height: 40px; }
 
     .gold-sponsors, .silver-sponsors, .bronze-sponsors, .community-sponsors, .sponsor {
             a {
@@ -821,6 +838,7 @@ body .uk-offcanvas-slide a.uk-button-ghost {
         & > * {
             display: flex;
             justify-content: center;
+            align-items: center;
         }
     }
 
@@ -1245,12 +1263,8 @@ footer {
             &> * {
                 display: flex;
                 justify-content: center;
+                align-items: center;
             }
-        }
-
-        .sponsor div img {
-            width: 80%;
-            height: auto;
         }
     }
 
@@ -1469,6 +1483,11 @@ body .uk-navbar-dropdown-nav>li>a:focus, body .uk-navbar-dropdown-nav>li>a:hover
     color: $main-color !important;
 }
 
+// Links that the rules above don't style, like the ones in the "What is
+// Write the Docs?" section, in the slate of the page content's links
+// rather than UIKit's blue, which is too light on white (3.6:1).
+$global-link-color: $header-color;
+
 // 2. Import default variables and available mixins.
 @import "variables-theme.scss";
 @import "mixins-theme.scss";
@@ -1568,7 +1587,8 @@ body .page-banner {
 
 @media (min-width: 1280px) {
     body .page-banner {
-        background-size: 1180px;
+        // Two layers: the tint over the photo (_templates/conference/generic.html).
+        background-size: 100% 100%, 1180px;
     }
     body .page-banner::before {
         content: "";
