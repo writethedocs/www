@@ -57,11 +57,35 @@
     <!-- end page-banner -->
 
   {% if body %}
-    <div class="page-content" role="main">
+    {#- The page's sections, as on the community pages: a column beside the
+        content on wide screens, folded above it on smaller ones. The first
+        link in `toc` is the page itself, so a page needs two sections for
+        the list to help. Only 2027 on: earlier years load their own CSS,
+        which has no styles for it. #}
+    {%- set page_toc = toc if year|int >= 2027 and display_toc and toc.count('<a ') > 2 else '' %}
+    <div class="page-content{% if page_toc %} has-page-toc{% endif %}" role="main">
         <div class="uk-container">
+            {%- if page_toc %}
+            <details class="page-toc-compact">
+                <summary>On this page</summary>
+                <nav class="page-toc-list" aria-label="On this page">{{ page_toc }}</nav>
+            </details>
+            <div class="page-columns">
+                <div class="page-body">
+            {%- endif %}
                 {% block body %}
                 {{ body }}
                 {% endblock body %}
+            {%- if page_toc %}
+                </div>
+                <aside>
+                    <nav class="page-toc page-toc-list" aria-labelledby="page-toc-title" uk-scrollspy-nav="cls: is-current; offset: 80">
+                        <h2 id="page-toc-title">On this page</h2>
+                        {{ page_toc }}
+                    </nav>
+                </aside>
+            </div>
+            {%- endif %}
                 {# {% include "postcard.html" %} #}
         </div>
     </div>

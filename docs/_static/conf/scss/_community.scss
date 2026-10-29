@@ -10,9 +10,9 @@ $community-width: 1140px;
 $community-text-width: 740px;
 $community-rail-width: 232px;
 $community-ink: $black;
-$community-muted: #5f6368;
-$community-line: #e4e5e6;
-$community-tint: #f7f7f4;
+$community-muted: $muted-color;
+$community-line: $line-color;
+$community-tint: $tint-color;
 $community-link: $header-color;
 $community-mono: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
 $community-shadow: 0 10px 30px rgba(19, 37, 48, 0.12);
@@ -588,105 +588,6 @@ body.community {
 // Space between the ad, when there is one, and the "On this page" list.
 #ethical-ad-placement:not(:empty) {
     margin-bottom: 32px;
-}
-
-// The page's sections: the "On this page" column on wide screens, and the
-// folded list above the content on smaller ones (_templates/layout.html).
-.community-toc-list {
-    ul {
-        margin: 0;
-        padding: 0;
-        list-style: none;
-    }
-
-    // The first entry is the page title, which is already in the banner.
-    > ul > li > a {
-        display: none;
-    }
-
-    > ul > li > ul {
-        border-left: 2px solid $community-line;
-    }
-
-    ul ul ul {
-        padding-left: 12px;
-    }
-
-    li {
-        margin: 0;
-        color: inherit;
-        font-size: 14px;
-        line-height: 1.4;
-    }
-
-    a {
-        display: block;
-        margin-left: -2px;
-        padding: 5px 0 5px 14px;
-        border-left: 2px solid transparent;
-        color: $community-muted;
-        text-decoration: none;
-
-        &:hover,
-        &:focus-visible {
-            border-left-color: $main-color;
-            color: $community-ink;
-        }
-    }
-}
-
-@mixin community-toc-label {
-    color: $community-muted;
-    font-family: $base-body-font-family;
-    font-size: 13px;
-    font-weight: $bold;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-}
-
-.community-toc {
-    display: none;
-
-    @media (min-width: 1200px) {
-        display: block;
-        position: sticky;
-        top: 24px;
-        max-height: calc(100vh - 48px);
-        overflow-y: auto;
-        margin-bottom: 32px;
-    }
-
-    h2 {
-        margin: 6px 0 10px;
-        @include community-toc-label;
-        text-align: left;
-    }
-}
-
-.community-toc-compact {
-    margin: 0 0 24px;
-    border: 1px solid $community-line;
-    border-radius: 8px;
-    background: $community-tint;
-
-    @media (min-width: 1200px) {
-        display: none;
-    }
-
-    summary {
-        padding: 12px 16px;
-        @include community-toc-label;
-        cursor: pointer;
-
-        &:focus-visible {
-            outline: 3px solid $main-color;
-            outline-offset: 2px;
-        }
-    }
-
-    nav {
-        padding: 0 16px 12px;
-    }
 }
 
 .community-post-meta {

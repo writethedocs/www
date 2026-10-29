@@ -16,12 +16,6 @@ Write the Docs is more than a conference. Each year we organize a wide range of 
 
 All times are in [{{ tz }}](https://time.is/{{ tz | replace(' ', '_') }}).
 
-```{contents}
-:local:
-:depth: 1
-:backlinks: none
-```
-
 {% if flaghashike or flaghasboat %}
 
 ## {{date.day_one.dotw}}, {{date.day_one.date}}
