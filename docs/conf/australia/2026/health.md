@@ -21,7 +21,7 @@ Please stay home if you have COVID-19, the flu, or any cold or flu-like symptoms
 
 We'll have hand sanitiser available at the venue. We will follow all venue and Victorian Government health guidelines.
 
-There is no vaccination or testing requirement to attend. According to the `current public health guidelines issued by the Victorian Government <https://www.coronavirus.vic.gov.au/information-travellers>`__, there is no vaccination, quarantine, permit, or testing requirement to enter Victoria.
+There is no vaccination or testing requirement to attend. According to the [current public health guidelines](https://www.coronavirus.vic.gov.au/information-travellers) issued by the Victorian Government, there is no vaccination, quarantine, permit, or testing requirement to enter Victoria.
 
 ## Questions or access needs
 
