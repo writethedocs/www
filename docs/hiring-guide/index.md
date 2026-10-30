@@ -67,3 +67,7 @@ freelancing/workflow
 freelancing/find-work
 freelancing/get-paid
 ```
+
+```{seealso}
+Browse talks and newsletter articles about {ref}`hiring <topics:Hiring>` and {ref}`getting hired <topics:Getting hired>` in our content archive.
+```
