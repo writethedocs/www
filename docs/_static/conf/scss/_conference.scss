@@ -28,6 +28,11 @@ $white: #FFF;
 $black: #000;
 $font-black: #000;
 
+// Muted text, rules and tinted panels, shared with the community pages.
+$muted-color: #5f6368;
+$line-color: #e4e5e6;
+$tint-color: #f7f7f4;
+
 
 /** Picture Mixins ***/
 
@@ -1854,38 +1859,6 @@ body .page-content {
     .seg-5 { background-color: rgba($main-color, 0.45); }
 }
 
-// Activations page: contents list as a compact two-column index
-body .page-content .activations-toc {
-    padding: 18px 22px;
-    margin: 1.5em 0 2em;
-    background-color: #fafaf8;
-    border-left: 4px solid $main-color;
-    border-radius: 4px;
-
-    > p.topic-title {
-        margin: 0 0 10px;
-        font-family: $secondary-font-family;
-        font-size: 1.1em;
-        color: $font-black;
-    }
-    ul {
-        columns: 2;
-        column-gap: 32px;
-        padding: 0;
-        margin: 0;
-        list-style: none;
-    }
-    li {
-        break-inside: avoid;
-        padding: 3px 0;
-    }
-    @media (max-width: 600px) {
-        ul {
-            columns: 1;
-        }
-    }
-}
-
 // Call-to-action buttons inside page content (prospectus, grants, writing day)
 body .page-content .announcement {
     text-align: center;
@@ -1919,4 +1892,166 @@ table {
     .text-right {
         text-align: right;
     }
+}
+
+// The page's sections: the "On this page" column on wide screens, and the
+// folded list above the content on smaller ones, on community pages
+// (_templates/layout.html) and conference pages (conference/generic.html).
+.page-toc-list {
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+
+    // The first entry is the page title, which is already in the banner.
+    > ul > li > a {
+        display: none;
+    }
+
+    > ul > li > ul {
+        border-left: 2px solid $line-color;
+    }
+
+    // Indent sub-sections' text, not their list, so every highlight bar sits
+    // on the same line as the rest.
+    ul ul ul a {
+        padding-left: 26px;
+    }
+
+    ul ul ul ul a {
+        padding-left: 38px;
+    }
+
+    li {
+        margin: 0;
+        color: inherit;
+        font-size: 14px;
+        line-height: 1.4;
+    }
+
+    a {
+        display: block;
+        margin-left: -2px;
+        padding: 5px 0 5px 14px;
+        border-left: 2px solid transparent;
+        color: $muted-color;
+        text-decoration: none;
+
+        &:hover,
+        &:focus-visible {
+            border-left-color: $main-color;
+            color: $black;
+        }
+
+        // The section you're reading, marked by UIkit's scrollspy-nav.
+        &.is-current {
+            border-left-color: $main-color;
+            color: $black;
+            font-weight: $bold;
+        }
+    }
+}
+
+@mixin page-toc-label {
+    color: $muted-color;
+    font-family: $base-body-font-family;
+    font-size: 13px;
+    font-weight: $bold;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.page-toc {
+    display: none;
+
+    @media (min-width: 1200px) {
+        display: block;
+        position: sticky;
+        top: 24px;
+        max-height: calc(100vh - 48px);
+        overflow-y: auto;
+        margin-bottom: 32px;
+    }
+
+    h2 {
+        margin: 6px 0 10px;
+        @include page-toc-label;
+        text-align: left;
+    }
+}
+
+.page-toc-compact {
+    margin: 0 0 24px;
+    border: 1px solid $line-color;
+    border-radius: 8px;
+    background: $tint-color;
+
+    @media (min-width: 1200px) {
+        display: none;
+    }
+
+    summary {
+        padding: 12px 16px;
+        @include page-toc-label;
+        cursor: pointer;
+
+        &:focus-visible {
+            outline: 3px solid $main-color;
+            outline-offset: 2px;
+        }
+    }
+
+    nav {
+        padding: 0 16px 12px;
+    }
+}
+
+// Glide to a section when you follow a link to it, such as from the "On this
+// page" list, unless you've asked your system to reduce motion.
+@media (prefers-reduced-motion: no-preference) {
+    html {
+        scroll-behavior: smooth;
+    }
+}
+
+// Conference pages (conference/generic.html): on wide screens the content
+// container widens so the "On this page" column fits beside the text.
+@media (min-width: 1200px) {
+    body .page-content.has-page-toc .uk-container {
+        max-width: 1080px !important;
+    }
+
+    .page-columns {
+        display: grid;
+        grid-template-columns: minmax(0, 720px) 232px;
+        column-gap: 64px;
+        justify-content: space-between;
+    }
+}
+
+// Keep the page's link, list and heading styles off the list.
+body .page-content .page-toc-list {
+    ul {
+        margin: 0;
+        padding: 0;
+    }
+
+    a:not(.headerlink) {
+        border-bottom: none;
+        color: $muted-color;
+
+        &:hover,
+        &:focus-visible,
+        &.is-current {
+            color: $black;
+        }
+    }
+}
+
+body .page-content .page-toc h2 {
+    width: auto;
+    margin: 6px 0 10px;
+    @include page-toc-label;
+    text-align: left;
 }
