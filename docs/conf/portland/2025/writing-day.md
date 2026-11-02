@@ -35,11 +35,10 @@ If you have a project, we encourage you to submit it before the conference! This
 
 Find specific examples on the [Portland Writing Day 2023 project list](https://www.writethedocs.org/conf/portland/2023/writing-day/#project-listing).
 
-<div class="announcement" style="background-color:white;">
-    <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="https://forms.gle/aCsZqb6peUUtxHJ49">Submit your Writing Day project</a>
-    </div>
-</div>
+```{button-link} https://forms.gle/aCsZqb6peUUtxHJ49
+:year: {{ year }}
+Submit your Writing Day project
+```
 
 ## Schedule
 
@@ -73,11 +72,10 @@ Come with the following tools:
 
 Leading a project at Writing Day is a wonderful opportunity to engage with documentarians from a variety of backgrounds, experience, and expertise. Their collective wealth of experience can upgrade your documentation and create a more inclusive project. This empowers all of us to work together to create opportunities for each other and bigger, better communities.
 
-<div class="announcement" style="background-color:white;">
-    <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="https://forms.gle/aCsZqb6peUUtxHJ49">Submit your Writing Day project</a>
-    </div>
-</div>
+```{button-link} https://forms.gle/aCsZqb6peUUtxHJ49
+:year: {{ year }}
+Submit your Writing Day project
+```
 
 **Tips to create and lead a new project effectively:**
 

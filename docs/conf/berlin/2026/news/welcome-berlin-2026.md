@@ -42,6 +42,7 @@ We've already opened up the {{ date.day_three.dotw }} morning Unconference sign-
 
 {% if unconf.url %}
 ```{button-link} {{ unconf.url }}
+:year: {{ year }}
 Sign up to Lead a {{ date.day_three.dotw }} Morning Unconference Session
 ```
 {% endif %}
@@ -54,6 +55,7 @@ We have opened up {{ date.day_three.dotw }} Lightning Talk submissions. Lightnin
 
 {% if lightning_talks.signup_url %}
 ```{button-link} {{ lightning_talks.signup_url }}
+:year: {{ year }}
 Submit your {{ date.day_three.dotw }} Lightning Talk
 ```
 {% endif %}

@@ -25,15 +25,10 @@ Still need a ticket? Now is a great time to purchase your ticket at one of our v
    
 We do expect in-person tickets to sell out some time before the conference.
 
-   <div style="margin: 2em 0;">
-   <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
-   <tr>
-      <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-         <a href="https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Buy your ticket</a>
-      </td>
-   </tr>
-   </table>
-   </div>
+```{button-link} https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/
+:year: {{ year }}
+Buy your ticket
+```
 
 ## Join our Slack Community
 
@@ -44,15 +39,10 @@ Our [#wtd-conferences](https://writethedocs.slack.com/archives/C1AKFQATH) channe
 
 **Reminder**: There is a two-step process to join Slack. You need to complete a short signup form before you can create your account.
 
-   <div style="margin: 2em 0;">
-   <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
-   <tr>
-      <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-         <a href="https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Join Slack today</a>
-      </td>
-   </tr>
-   </table>
-   </div>
+```{button-link} https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform
+:year: {{ year }}
+Join Slack today
+```
 
 ## How Do I Participate in the Conference? 
 

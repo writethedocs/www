@@ -1,0 +1,11 @@
+// Write the Docs community pages: everything outside conf/<city>/<year>/.
+// The conference design in navy, plus the community layout. The accent is
+// the footer's navy rather than a brand colour, so the colour on these pages
+// comes from the photos and from each conference's own colours.
+// Compile with:
+//
+//     sass --style=compressed --no-source-map docs/_static/conf/scss/main-community.scss docs/_static/conf/css/main-community.min.css
+$main-color: #132530;
+
+@import "conference";
+@import "community";

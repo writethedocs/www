@@ -1,6 +1,6 @@
 ---
 template: {{year}}/generic.html
-banner: _static/conf/images/headers/2026/writing-day.jpg
+banner: _static/conf/images/photos/writing-day-schedule-berlin-55511482495.jpg
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
@@ -39,6 +39,7 @@ Space is limited, so don't wait to grab your ticket.
 Register by **Sunday, August 30**, and we'll have your name badge printed and ready. After that, you'll write your own at the door.
 
 ```{button-link} https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}
+:year: {{ year }}
 Register for Write the Docs {{ city }}
 ```
 

@@ -25,6 +25,7 @@ Still need a ticket? Now is a great time to purchase your ticket.
 In-person space is limited, so we recommend getting your ticket soon.
 
 ```{button-link} https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}
+:year: {{ year }}
 Buy your ticket
 ```
 
@@ -35,6 +36,7 @@ For best visibility, submit your project by **{{ writing_day.project_deadline }}
 New this year, we're also running [Roundtable Discussions](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/#roundtable-discussions): pre-scheduled, facilitated afternoon conversations on focused topics, which might include AI in documentation and API docs. All are welcome!
 
 ```{button-link} {{ writing_day.url }}
+:year: {{ year }}
 Submit your Writing Day project
 ```
 
@@ -69,6 +71,7 @@ The [#wtd-conferences](https://writethedocs.slack.com/archives/C1AKFQATH) channe
 To join our Slack, you need to complete a short signup form before you can create your account.
 
 ```{button-link} https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform
+:year: {{ year }}
 Join the Write the Docs Slack
 ```
 

@@ -30,6 +30,7 @@ Lightning Talks can be submitted through an online form only.
 
 {% if lightning_talks.signup_url %}
 ```{button-link} {{ lightning_talks.signup_url }}
+:year: {{ year }}
 Submit a Lightning Talk
 ```
 {% endif %}

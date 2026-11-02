@@ -32,7 +32,7 @@ Review the search engine documentation guides:
 
 - Google's `Search Central <https://developers.google.com/search/docs>`__
 - Google's `How Search Works <https://www.google.com/search/howsearchworks/how-search-works/ranking-results/>`_ guide
-- Bing's `Webmaster Guidelines <https://www.bing.com/webmasters/help/webmasters-guidelines-30fba23a>`__
+- Bing's `Webmaster Guidelines <https://www.bing.com/webmasters/help/webmaster-guidelines-30fba23a>`__
 
 WTD resources on SEO
 ~~~~~~~~~~~~~~~~~~~~

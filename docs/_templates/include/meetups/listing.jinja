@@ -1,4 +1,5 @@
 .. raw:: html
+
     <dl class="meetup-listing">
         {% for meetup in meetups %}
         <dt class="meetup-listing-detail">
@@ -12,7 +13,7 @@
         </dt>
         {% if meetup.has_meta %}
         <dd>
-          <dl class="meetup-listing-meta">
+          <div class="meetup-listing-meta">
             {# Meetup.com link, shown only when the group has a separate website #}
             {% if meetup.get('website') and meetup.get('meetup') %}
               <div>
@@ -52,7 +53,7 @@
               </div>
             {% endif %}
 
-          </dl>
+          </div>
         </dd>
         {% endif %}
         {% endfor %}
