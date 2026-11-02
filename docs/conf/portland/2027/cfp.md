@@ -184,10 +184,6 @@ Both in-person and pre-recorded talks are 30 minutes long, followed by a few min
 
 All Speakers must read, understand, and agree to our [Code of Conduct](/code-of-conduct/). All talks and slides must follow our Code of Conduct. If you are unsure about any aspect of this, please ask us for clarification.
 
-## Example proposal
-
-Take a look at our [Example proposal](../example-proposal/), with additional guidance on the proposal format.
-
 ## Submit your proposal
 
 Submit your proposal on [Pretalx]({{ cfp.url }}). You'll need to sign up for a Pretalx account, unless you already have one from a previous conference.
