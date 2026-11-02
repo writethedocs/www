@@ -91,9 +91,9 @@
       {%- if page_toc %}
       {#- Below 1200px the "On this page" column is hidden, so the same list
           sits above the content instead, folded away until you open it. #}
-      <details class="community-toc-compact">
+      <details class="page-toc-compact">
         <summary>On this page</summary>
-        <nav class="community-toc-list" aria-label="On this page">{{ page_toc }}</nav>
+        <nav class="page-toc-list" aria-label="On this page">{{ page_toc }}</nav>
       </details>
       {%- endif %}
       {#- role="main", as on the conference pages, marks the content for Read
@@ -121,8 +121,8 @@
             would slide over anything after it as the page scrolls. #}
         <div id="ethical-ad-placement"></div>
         {%- if page_toc %}
-        <nav class="community-toc community-toc-list" aria-labelledby="community-toc-title">
-          <h2 id="community-toc-title">On this page</h2>
+        <nav class="page-toc page-toc-list" aria-labelledby="page-toc-title" uk-scrollspy-nav="cls: is-current; offset: 80">
+          <h2 id="page-toc-title">On this page</h2>
           {{ page_toc }}
         </nav>
         {%- endif %}

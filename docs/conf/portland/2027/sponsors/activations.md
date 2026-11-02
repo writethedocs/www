@@ -9,13 +9,6 @@ orphan: true
 
 Activations give sponsors a more experiential presence at the conference. They're available as add-ons to the Patron and Keystone packages in our [sponsorship prospectus](/conf/{{shortcode}}/{{year}}/sponsors/prospectus/), and are priced individually. All activations can be customized — reach out to <sponsorship@writethedocs.org> to discuss.
 
-```{contents} On this page
-:local:
-:depth: 1
-:backlinks: none
-:class: activations-toc
-```
-
 ---
 
 ## Writing Day sponsorship
