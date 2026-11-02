@@ -12,10 +12,45 @@ Every year, Write the Docs invites people from all across our community to come 
 
 {% if flagcfp %}
 
-In the meantime, mark your calendars:
+Mark your calendars:
 
-- **Deadline: {{cfp.ends}} at 11:59 PM {{tz}}**
-- **Acceptance emails: by {{cfp.notification}}**
+<div class="key-dates">
+  <ol class="key-dates-list">
+    <li>
+      <span class="key-date">{{ cfp.ends|replace(', ' ~ year, '') }}</span>
+      Proposals due by 11:59 PM {{ tz }}
+    </li>
+    <li>
+      <span class="key-date">{{ cfp.notification|replace(', ' ~ year, '') }}</span>
+      Speakers hear back
+    </li>
+    {%- if cfp.speaker_tickets_by == cfp.video_by %}
+    <li>
+      <span class="key-date">{{ cfp.speaker_tickets_by|replace(', ' ~ year, '') }}</span>
+      Speaker tickets and pre-recorded talks due
+    </li>
+    {%- else %}
+    <li>
+      <span class="key-date">{{ cfp.speaker_tickets_by|replace(', ' ~ year, '') }}</span>
+      Speaker tickets due
+    </li>
+    <li>
+      <span class="key-date">{{ cfp.video_by|replace(', ' ~ year, '') }}</span>
+      Pre-recorded talks due
+    </li>
+    {%- endif %}
+    <li>
+      <span class="key-date">{{ cfp.slides_by|replace(', ' ~ year, '') }}</span>
+      Slides due for our captioners
+    </li>
+    <li>
+      <span class="key-date">{{ date.conference.date }}</span>
+      Talks on stage in {{ city }}
+    </li>
+  </ol>
+</div>
+
+If your talk is accepted, confirm it as soon as you get the email.
 
 {% else %} We will announce the CFP dates soon. {% endif %}
 
@@ -148,46 +183,6 @@ We're showing a few pre-recorded talks with live Q&A from remote speakers for ou
 Both in-person and pre-recorded talks are 30 minutes long, followed by a few minutes of moderated Q&A immediately after the presentation.
 
 All Speakers must read, understand, and agree to our [Code of Conduct](/code-of-conduct/). All talks and slides must follow our Code of Conduct. If you are unsure about any aspect of this, please ask us for clarification.
-
-## Timeline overview
-
-<div class="key-dates">
-  <ol class="key-dates-list">
-    <li>
-      <span class="key-date">{{ cfp.ends|replace(', ' ~ year, '') }}</span>
-      Proposals due by 11:59 PM {{ tz }}
-    </li>
-    <li>
-      <span class="key-date">{{ cfp.notification|replace(', ' ~ year, '') }}</span>
-      Speakers hear back
-    </li>
-    {%- if cfp.speaker_tickets_by == cfp.video_by %}
-    <li>
-      <span class="key-date">{{ cfp.speaker_tickets_by|replace(', ' ~ year, '') }}</span>
-      Speaker tickets and pre-recorded talks due
-    </li>
-    {%- else %}
-    <li>
-      <span class="key-date">{{ cfp.speaker_tickets_by|replace(', ' ~ year, '') }}</span>
-      Speaker tickets due
-    </li>
-    <li>
-      <span class="key-date">{{ cfp.video_by|replace(', ' ~ year, '') }}</span>
-      Pre-recorded talks due
-    </li>
-    {%- endif %}
-    <li>
-      <span class="key-date">{{ cfp.slides_by|replace(', ' ~ year, '') }}</span>
-      Slides due for our captioners
-    </li>
-    <li>
-      <span class="key-date">{{ date.conference.date }}</span>
-      Talks on stage in {{ city }}
-    </li>
-  </ol>
-</div>
-
-If your talk is accepted, confirm it as soon as you get the email.
 
 ## Example proposal
 
