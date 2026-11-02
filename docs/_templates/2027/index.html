@@ -15,7 +15,11 @@
         </li>
         <li>
           <span class="key-date">{{ cfp.opens }}</span>
+          {% if flagcfp -%}
+          <a href="{{ pathto('conf/' + shortcode + '/' + year_str + '/cfp') }}">Call for proposals open</a>
+          {%- else -%}
           Call for proposals opens
+          {%- endif %}
         </li>
         <li>
           <span class="key-date">{{ date.tickets_live }}</span>

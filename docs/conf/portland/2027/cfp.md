@@ -186,11 +186,11 @@ All Speakers must read, understand, and agree to our [Code of Conduct](/code-of-
 
 ## Example proposal
 
-Take a look at our [Example proposal](../example-proposal/), with additional guidance on the proposal format:
+Take a look at our [Example proposal](../example-proposal/), with additional guidance on the proposal format.
 
 ## Submit your proposal
 
-Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx account, unless you already have one from a previous conference.
+Submit your proposal on [Pretalx]({{ cfp.url }}). You'll need to sign up for a Pretalx account, unless you already have one from a previous conference.
 
 ```{button-link} {{ cfp.url }}
 :year: {{ year }}
