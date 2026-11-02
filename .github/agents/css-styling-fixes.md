@@ -36,6 +36,7 @@ For the Portland 2026 conference page, the fix was applied to `docs/_static/conf
 #### Steps to Apply Fix
 
 1. **Identify the SCSS file**: Conference pages use year-specific SCSS files located in `docs/_static/conf/scss/`:
+   - `_conference.scss` for 2027 and later, shared with the community pages (`main-community.scss`)
    - `main-2026.scss` for 2026 conferences
    - `main-2025.scss` for 2025 conferences
    - etc.

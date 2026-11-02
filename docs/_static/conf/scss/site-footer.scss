@@ -1,0 +1,213 @@
+// The site footer, _templates/shared/footer.html, on the community pages and
+// the conference pages from 2026 on. It has its own stylesheet because the
+// 2026 conference styles are a frozen copy; class names start with
+// site-footer so the older footer rules in those styles don't apply.
+//
+// Compile: sass --style=compressed --no-source-map
+//   docs/_static/conf/scss/site-footer.scss docs/_static/conf/css/site-footer.min.css
+
+$footer-color: #132530;
+$footer-muted: #bcc1c3;
+$footer-line: rgba(255, 255, 255, 0.16);
+
+.site-footer {
+    color: $footer-muted;
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+    text-align: left;
+
+    a,
+    a:link,
+    a:visited {
+        color: #fff;
+        text-decoration: none;
+    }
+
+    a:hover,
+    a:focus {
+        color: #fff;
+        text-decoration: underline;
+    }
+
+    p {
+        margin: 0;
+        color: inherit;
+        font-size: inherit;
+    }
+
+    ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+
+    li {
+        margin: 0;
+        padding: 0;
+        font-size: inherit;
+    }
+}
+
+// Lined up with the page's content: the community column is up to 1140px
+// wide with 16-24px of padding; the conference one is 780px wide, inside
+// UIkit's container padding.
+.site-footer__inner {
+    box-sizing: border-box;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 56px 16px 32px;
+
+    @media (min-width: 640px) {
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+}
+
+.site-footer--conference .site-footer__inner {
+    box-sizing: content-box;
+    max-width: 780px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+    @media (min-width: 640px) {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    @media (min-width: 960px) {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+}
+
+.site-footer__main {
+    display: grid;
+    gap: 40px;
+    padding-bottom: 40px;
+
+    @media (min-width: 760px) {
+        grid-template-columns: minmax(0, 1fr) minmax(0, 1.3fr) auto;
+        gap: 48px;
+    }
+}
+
+.site-footer__brand {
+    img {
+        display: block;
+        margin-bottom: 16px;
+    }
+
+    // The Write the Docs stamp, on the community pages.
+    .site-footer__stamp {
+        width: 88px;
+        height: 88px;
+    }
+
+    p {
+        max-width: 280px;
+    }
+}
+
+// On the conference pages: the event's name, dates and venue.
+.site-footer .site-footer__event {
+    h2 {
+        margin: 0 0 12px;
+        font-family: "Nunito Sans", sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 1.3;
+        text-align: left;
+    }
+
+    p + p {
+        margin-top: 8px;
+    }
+}
+
+.site-footer__callout {
+    // The stamp, on the conference pages, above "Part of Write the Docs".
+    .site-footer__stamp {
+        display: block;
+        width: 64px;
+        height: 64px;
+        margin-bottom: 12px;
+    }
+
+    h2 {
+        margin: 0 0 8px;
+        color: #fff;
+        font-family: "Nunito Sans", sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 1.3;
+        text-align: left;
+    }
+}
+
+.site-footer .site-footer__buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 16px;
+
+    a {
+        display: inline-block;
+        padding: 10px 18px;
+        border: 2px solid #fff;
+        border-radius: 8px;
+        font-size: 14px;
+        font-weight: 700;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+
+        &:hover,
+        &:focus {
+            background: #fff;
+            color: $footer-color;
+            text-decoration: none;
+        }
+    }
+}
+
+.site-footer__links li + li {
+    margin-top: 8px;
+}
+
+.site-footer__bottom {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px 32px;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 24px;
+    border-top: 1px solid $footer-line;
+    font-size: 14px;
+
+    a,
+    a:link,
+    a:visited {
+        text-decoration: underline;
+    }
+}
+
+.site-footer .site-footer__social {
+    display: flex;
+    gap: 18px;
+
+    a {
+        display: block;
+        opacity: 0.85;
+
+        &:hover,
+        &:focus {
+            opacity: 1;
+        }
+    }
+
+    img {
+        display: block;
+        width: 24px;
+        height: 24px;
+    }
+}

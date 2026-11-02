@@ -69,19 +69,19 @@ All build commands run from the `docs/` directory using `make` (not raw `sphinx-
 - **Build site:** `cd docs && uv run make html`
 - **Live preview:** `cd docs && uv run make livehtml` (serves at http://127.0.0.1:8888)
 - **Clean build:** `cd docs && make clean && uv run make html`
-- **Compile SCSS:** `sass --style=compressed --no-source-map docs/_static/conf/scss/main-YYYY.scss docs/_static/conf/css/main-YYYY.min.css`
+- **Compile SCSS:** `sass --style=compressed --no-source-map docs/_static/conf/scss/main-YYYY.scss docs/_static/conf/css/main-YYYY.min.css` (or `main-community` for the community pages, or `site-footer` for the shared footer)
 
 Python 3.12 is required. Dependencies: `uv sync` (add `--group scripts` for the helper scripts in `docs/_scripts/`)
 
 ## CI Checks (GitHub Actions)
 
 All run on push/PR to `main`:
-- **Ubuntu Build** (`ubuntu.yml`): Sphinx build + htmlproofer link checking (internal links only, with `--swap-urls` to treat `writethedocs.org` URLs as local)
+- **Ubuntu Build** (`ubuntu.yml`): photo size check (`docs/_scripts/check_photo_sizes.py`: each file in `_static/conf/images/photos/` under 200 KB), Sphinx build + htmlproofer link checking (internal links only, with `--swap-urls` to treat `writethedocs.org` URLs as local)
 - **Validate YAML** (`validate_yaml.yml`): Runs `docs/_scripts/validate-yaml.sh` with yamale schema validation
 - **Spellcheck** (`spellcheck.yml`): codespell with ignore list at `codespell/ignore.txt`
 - **Vale** (`vale.yml`): Prose linting with configs at `vale/vale.ini`, `vale/guide.ini`, `vale/news.ini`
 
-Pre-commit hooks validate YAML files in `docs/_data/` (yamllint, check-yaml, trailing whitespace, schema validation with yamale).
+Pre-commit hooks validate YAML files in `docs/_data/` (yamllint, check-yaml, trailing whitespace, schema validation with yamale), and check photo sizes.
 
 ## Architecture
 
@@ -102,7 +102,17 @@ Pre-2020 conferences use a different naming convention (`config-<city>-<year>.ya
 
 ### Templates
 
-Year-specific HTML templates in `docs/_templates/<year>/` (base.html, index.html, generic.html, menu-*.html). Pages specify their template via `:template: <year>/generic.html` metadata in RST.
+The community pages (everything outside `conf/<city>/<year>/`) use the conference design, so both halves of the site look like one site:
+
+- `docs/_templates/layout.html` — community page layout: header menu, photo banner with the page title, content with an "On this page" column, mailing list band, sponsors, footer. The front page uses `community/index.html`, which adds a hero.
+- `docs/_templates/community/` — the community header menu, front page, conference cards (front page and conferences page), blog and newsletter pages, mailing list band and sponsors.
+- **Sections:** the site has four sections, the header menu's items: Conferences (`conf/index`), Learn (`about/learning-resources`), Community (`about/stay-connected`, which includes the blog) and About (`about/about-the-org`). The first toctree in `docs/index.md` lists them, and each section's page lists its own pages in a toctree. That toctree gives every page its breadcrumbs and its current item in the menu, so add a new community page to its section's toctree and a card for it on that page. Each section's page has the same layout: an intro line, one main call to action (`cta-group`), and a card per page (`link-cards`). Menu items link to their section's page; the dropdowns list the most read pages.
+- `docs/_data/community.yaml` — the community header menu, the default banner photos, the front page's hero and "Get involved" tiles, and the list of upcoming conferences (used on the front page, the conferences page and in the menu). Front page text can use placeholders like `{slack_members}`, filled in from `html_context` in `conf.py`.
+- `docs/_templates/shared/footer.html` — the footer used by both the community and conference pages (2026 on), styled by `site-footer.scss`. On community pages it asks you to join Slack and the newsletter. On conference pages it names the event and links its reference pages, then leads to the community; the event's current asks stay in the config's `buttons.bottom` just above it, and it must still read right after the event is over. The Write the Docs stamp (`_static/sticker-wtd-colors.png`) is the site's logo in the community header and in this footer; each conference keeps its own logo in its header.
+
+Conference pages specify their template via `:template: {{year}}/generic.html` (or `index.html`) metadata. From 2026 on, the templates live once in `docs/_templates/conference/`, and `docs/_templates/<year>/` holds only one-line files that point at `conference/`. To start a new year, copy the previous year's folder. The header menu is `conference/navbar.html`: one list, rendered as both the desktop bar and the phone menu, with items turned on by config flags. Earlier years keep their own full copies.
+
+Every page picks its banner photo with a `banner` field (`:banner:` at the top of a reStructuredText page, `banner:` in Markdown front matter). Pages without one get a default from `photos.default`: in a conference's config (2026 on; earlier years' templates pick at random), or in `community.yaml`. Photos for banners and pages live once in `docs/_static/conf/images/photos/`, so pages share them; each file name ends in its [Write the Docs Flickr](https://www.flickr.com/photos/writethedocs/) photo ID. Keep them small (banners 1600x533, photos in text 800x533), and avoid ones with QR codes or close-ups of speakers.
 
 ### Custom Sphinx Extensions (`docs/_ext/`)
 
@@ -110,19 +120,34 @@ Year-specific HTML templates in `docs/_templates/<year>/` (base.html, index.html
 - `filters.py` — Custom Jinja filters (e.g., speaker photo paths)
 - `meetups.py` — `meetup-listing` directive
 - `atom_absolute.py` — Rewrites atom feed URLs to absolute
-- `build_perf.py` — Build-speed fixes: caches the sidebar toctree, keeps the environment out of pickled doctrees, and makes ablog safe for parallel reading
+- `build_perf.py` — Build-speed fixes: keeps the environment out of pickled doctrees, makes ablog safe for parallel reading, and parses YAML with libyaml
+- `markdown.py` — Fixes for Markdown pages: stops `&` in link URLs being escaped twice, and moves `{.class}` classes from a heading to its section
+- `community.py` — Loads `_data/community.yaml`, fills in the front page placeholders, picks each page's banner photo (conference pages too) and current menu item, and splits the posts for the blog page
 
 ### Styling
 
 Per-year SCSS files at `docs/_static/conf/scss/main-<year>.scss` compile to `docs/_static/conf/css/main-<year>.min.css`. Uses UIKit CSS framework (via CDN). Both SCSS source and compiled CSS must be committed.
 
+From 2027 on, the conference design lives in `_conference.scss`, and a year's file only sets `$main-color` and imports it. `main-community.scss` builds the community pages from the same design in navy, plus `_community.scss`; colour on those pages comes from the photos and each conference's own colours. A change to `_conference.scss` affects every year that imports it and the community pages, so recompile all of them. `main-2026.scss` and earlier keep their own full copies.
+
 ### Blog/News
 
 Uses the `ablog` extension. News posts go in `docs/conf/<city>/<year>/news/` with `.. post::` directive and `:tags: <city>-<year>` for filtering via `.. postlist::` on conference index pages.
 
+The blog's posts come in three kinds, each listed in full in one place. Newsletter issues (`blog/newsletter-<month>-<year>`) are listed by year on the newsletter page (`community/newsletter.html`). Conference news is listed on each conference's news page, by its `<city>-<year>` tag. The rest, such as community board updates, are listed by year on the blog page (`docs/blog/index.md`, template `community/blog.html`), which also shows the latest newsletter issues and the news of the upcoming conferences in `_data/community.yaml`.
+
+### Read the Docs addons
+
+The site is hosted on Read the Docs, which adds its addons to every page. The community pages work with three of them:
+
+- **Search:** when the search addon is on, `_static/js/community.js` opens its search window from the header search, and leaves the "/" shortcut to it. Local builds fall back to the Sphinx search page. Search ranking and excluded pages are in `.readthedocs.yaml`.
+- **Ads:** EthicalAds fills `#ethical-ad-placement` in `layout.html`.
+- **Content root:** the page body has `role="main"`, which Read the Docs search indexes and its visual diff on pull request previews compares.
+
 ## Key Conventions
 
 - Content files support both `.rst` and `.md` (via myst-parser)
+- Write new pages in Markdown. Link to other pages by URL path (`[Slack](/slack/)`): `myst_all_links_external` is on, so `{doc}` targets and `.md` paths aren't resolved. Use MyST's `deflist` for definition lists, a `{.class}` line before a heading or block to class it (as `.. rst-class::` does), and `{eval-rst}` only for what Markdown can't express, such as the `meetup-listing` directive
 - Conference pages use `:orphan:` directive (not in a toctree)
 - Feature flags in config YAML control what sections display (e.g., `flagtickets`, `flagcfp`, `flaghasschedule`)
 - Conference talk videos are hosted on the [Write the Docs YouTube channel](https://www.youtube.com/c/WritetheDocs)

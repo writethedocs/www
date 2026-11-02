@@ -19,6 +19,7 @@ dependencies = [
     "sphinxext-opengraph",
     # C stemmer that snowballstemmer picks up automatically; speeds up building the search index.
     "pystemmer>=3.0.0",
+    "sphinx-sitemap>=2.9.0",
 ]
 
 # Only needed by the helper scripts in docs/_scripts/, not by the site build.

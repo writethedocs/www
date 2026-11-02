@@ -33,6 +33,11 @@ The important locations of files are:
 * ``_templates/<year>/`` and ``_templates/include/`` contain HTML or RST
   templates used to render the conference pages. This includes the
   website design, navigation and snippets used in schedule rendering.
+  From 2026 on, the design and the header menu live in
+  ``_templates/conference/``. To start a new year, copy the previous year's
+  ``_templates/<year>/`` folder.
+* ``_data/community.yaml`` lists the upcoming conferences shown on the front
+  page and the conferences page. Add a conference there once its site is up.
 
 The YAML files are validated by the `validate-yaml.sh` script, using
 the schemas in ``_data/schema-*``.
@@ -202,7 +207,7 @@ The items in the general conference config file are:
 
       Conferences up to 2026 used positional ``day_one`` to ``day_four``
       keys, a hand-written ``conference`` entry and ``total_talk_days``
-      instead.
+      instead; from 2027 on, ``days`` is required.
 * ``about``: general conference background. Contains:
     * ``attendees``: the number of attendees.
     * ``summary``: a summary text for the conference.
@@ -282,8 +287,8 @@ to be quite similar.
 For conferences with a writing day, you must add a ``writing_day`` key. Then,
 a schedule for each main conference day, in the form of ``talks-day1``,
 ``talks-day2``,
-and more if needed. The number of days must match ``date.total_talk_days``
-from the general config file.
+and more if needed. There must be one for each ``talks`` day in ``date.days``
+(``date.total_talk_days`` in configs up to 2026).
 
 Each item must have either a ``title`` or a ``slug``.
 A title is used for free text schedule items, like "Snack Break". A slug is

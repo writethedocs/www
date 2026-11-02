@@ -1,6 +1,6 @@
 ---
 template: {{year}}/generic.html
-banner: _static/conf/images/headers/2026/virtual.jpg
+banner: _static/conf/images/photos/talk-stage-podium-55257879930.jpg
 ---
 
 # Virtual Attendance
@@ -18,7 +18,7 @@ a platform that combines video streaming with chat and networking features.
 Virtual attendance includes:
 
 * Live streamed talks from the main stage
-* Ability to participate in Q&A with speakers
+* Moderated Q&A after each talk, using the same QR code as in-person attendees
 * Real-time chat with other virtual attendees
 * Virtual networking spaces
 * An online Unconference track

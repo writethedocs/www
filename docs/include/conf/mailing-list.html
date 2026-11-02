@@ -1,8 +1,11 @@
 {#
   Mailchimp signup form for conference mailing-list pages.
 
-  Pre-checks the monthly newsletter and the conference announcements for the
-  conference's region, using the "area" value from the conference config YAML.
+  Conference announcements go out by region, grouped by time zone, so any
+  conference, in person or online, has a list. Each region lists the
+  conference config "area" values it covers, and the form pre-checks the
+  monthly newsletter and the regions for the page's conference. Atlantic was
+  online in Central European and US Eastern time, so it covers two.
   Pull it into a page with:
 
       {% include "conf/mailing-list.html" %}
@@ -10,11 +13,10 @@
   Keep the form free of blank lines so Markdown treats it as one HTML block.
 #}
 {% set mailing_list_groups = [
-    {'id': 1, 'label': 'Monthly Community Newsletter', 'area': None},
-    {'id': 2, 'label': 'North American Conference Announcements', 'area': 'North America'},
-    {'id': 4, 'label': 'European Conference Announcements', 'area': 'Europe'},
-    {'id': 8, 'label': 'Australian Conference Announcements', 'area': 'Australia'},
-    {'id': 16, 'label': 'Atlantic Conference Announcements', 'area': 'Atlantic'},
+    {'id': 1, 'label': 'Monthly Community Newsletter', 'areas': None},
+    {'id': 2, 'label': 'Conference announcements for the Americas', 'areas': ['North America', 'Atlantic']},
+    {'id': 4, 'label': 'Conference announcements for Europe, Africa and the Middle East', 'areas': ['Europe', 'Africa', 'Atlantic']},
+    {'id': 8, 'label': 'Conference announcements for Asia and the Pacific', 'areas': ['Australia']},
 ] %}
 <!-- Begin Mailchimp Signup Form -->
 <style type="text/css">
@@ -129,7 +131,7 @@
         <ul>
 {%- for group in mailing_list_groups %}
             <li>
-                <input type="checkbox" value="{{ group.id }}" name="group[14633][{{ group.id }}]" id="mce-group[14633]-14633-{{ loop.index0 }}"{% if group.area is none or group.area == area %} checked{% endif %}>
+                <input type="checkbox" value="{{ group.id }}" name="group[14633][{{ group.id }}]" id="mce-group[14633]-14633-{{ loop.index0 }}"{% if group.areas is none or (area is defined and area in group.areas) %} checked{% endif %}>
                 <label for="mce-group[14633]-14633-{{ loop.index0 }}">{{ group.label }}</label>
             </li>
 {%- endfor %}

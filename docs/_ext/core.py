@@ -3,7 +3,7 @@ import re
 import pytz
 from jinja2 import TemplateError
 from yaml import YAMLError
-from .utils import load_yaml
+from .utils import conference_config_path, load_yaml
 
 import logging
 import os
@@ -53,6 +53,9 @@ CONFERENCE_SUMMARY = ('The main days of the conference. Listen to a diverse pane
 
 ICON_DIR = '_static/conf/images/icons'
 
+# The pre-2027 way of describing conference days, replaced by ``date.days``.
+LEGACY_DAY_KEYS = ('day_one', 'day_two', 'day_three', 'day_four', 'total_talk_days')
+
 
 def format_day(day):
     """Format a date as e.g. ``May 3``."""
@@ -68,7 +71,7 @@ def format_day_range(first, last):
     return '%s-%s' % (format_day(first), format_day(last))
 
 
-def expand_conference_days(data, page):
+def expand_conference_days(data, page, year):
     """
     Fill in everything pages need about the days listed under ``date.days``.
 
@@ -88,14 +91,26 @@ def expand_conference_days(data, page):
     and builds ``date.conference``, the combined talk days card on the
     index page.
 
-    Configs without ``days`` (2026 and earlier) are left untouched.
+    Configs without ``days`` (2026 and earlier) are left untouched; from 2027
+    on ``days`` is required.
     """
     date = data.get('date')
     if not isinstance(date, dict) or not date.get('days'):
+        if year >= 2027:
+            raise Exception(
+                'ERROR: %s needs date.days in its config; day_one..day_four and '
+                'total_talk_days are only for 2026 and earlier. See '
+                'organizer-guide/confs/website.rst' % page)
         return
     days = date['days']
+    old_keys = [key for key in LEGACY_DAY_KEYS if key in date]
+    if old_keys:
+        raise Exception(
+            'ERROR: %s mixes date.days with %s; drop the old keys' %
+            (page, ', '.join(old_keys)))
 
     talk_days = []
+    previous = None
     for number, day in enumerate(days, start=1):
         kind = day.get('kind')
         if kind not in DAY_KINDS:
@@ -106,10 +121,14 @@ def expand_conference_days(data, page):
             raise Exception(
                 'ERROR: day %d in date.days for %s needs a date like 2027-05-03, got %r' %
                 (number, page, day.get('date')))
+        if previous is not None and day['date'] <= previous:
+            raise Exception(
+                'ERROR: day %d in date.days for %s (%s) is not after the day before it' %
+                (number, page, day['date']))
+        previous = day['date']
         day['day'] = day['date']
         day['date'] = format_day(day['day'])
         day['dotw'] = day['day'].strftime('%A')
-        day['number'] = number
         day.setdefault('icon', DAY_KINDS[kind]['icon'])
         if kind == 'talks':
             talk_days.append(day)
@@ -181,12 +200,8 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
     the schedule is also loaded, enriched with context from the speakers data.
     """
     data = {}
-    if year < 2020:
-        yaml_file = '_data/config-' + shortcode + '-' + year_str + '.yaml'
-    else:
-        yaml_file = '_data/' + shortcode + '-' + year_str + '-config.yaml'
-    data.update(load_yaml_log_error(page, yaml_file))
-    expand_conference_days(data, page)
+    data.update(load_yaml_log_error(page, conference_config_path(shortcode, year)))
+    expand_conference_days(data, page, year)
 
     # Single source for the conference home-page social/meta description (2026
     # onwards), so the same sentence doesn't have to be copy-pasted into the

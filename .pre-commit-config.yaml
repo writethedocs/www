@@ -37,3 +37,8 @@ repos:
         language: system
         files: ^docs/_data/.*-sessions\.(yml|yaml)$
         exclude: ^docs/_data/schema-sessions\.yaml$
+      - id: photo-sizes
+        name: Check that photos are under 200 KB
+        entry: python3 docs/_scripts/check_photo_sizes.py
+        language: system
+        files: ^docs/_static/conf/images/photos/

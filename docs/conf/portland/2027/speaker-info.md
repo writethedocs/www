@@ -1,16 +1,11 @@
 ---
 template: {{year}}/generic.html
-banner: _static/conf/images/headers/2026/lightning-talks.jpg
+banner: _static/conf/images/photos/talk-stage-chart-55259717770.jpg
 orphan:
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
 # Speaker Info
-
-```{contents}
-:local:
-:depth: 1
-```
 
 ## Essential info
 

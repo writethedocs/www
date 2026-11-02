@@ -1,4 +1,5 @@
 import html
+from pathlib import PurePath
 
 from docutils import nodes
 from docutils.parsers import rst
@@ -21,6 +22,10 @@ YEAR_COLORS = {
     2027: {"background": "#ea6852", "text": BLACK},
 }
 
+# Pages outside a conference year use the community green, the accent used
+# across the rest of the community site.
+COMMUNITY_COLORS = {"background": "#2ecc71", "text": BLACK}
+
 
 def conference_year(argument):
     """Validate a ``:year:`` option value against the known brand colors."""
@@ -35,6 +40,22 @@ def conference_year(argument):
     return year
 
 
+def docname_year(docname):
+    """Return the conference year of a ``conf/<city>/<year>/...`` page.
+
+    Mirrors ``load_conference_page_context`` in ``core.py``. Returns
+    ``None`` for pages outside a conference year or without brand colors.
+    """
+    parts = PurePath(docname).parts
+    if len(parts) < 3 or parts[0] != "conf":
+        return None
+    try:
+        year = int(parts[2])
+    except ValueError:
+        return None
+    return year if year in YEAR_COLORS else None
+
+
 def render_button(url, text, year=None, wrap=True, new_tab=True, contrast=False):
     """Render a call-to-action button in the given conference year's colors.
 
@@ -45,14 +66,15 @@ def render_button(url, text, year=None, wrap=True, new_tab=True, contrast=False)
     ``contrast`` renders white on black instead, for buttons that sit on a
     brand-colored background such as the hero and footer bands.
     """
-    colors = YEAR_COLORS[
-        conference_year(year) if year is not None else max(YEAR_COLORS)
-    ]
+    colors = (
+        YEAR_COLORS[conference_year(year)] if year is not None else COMMUNITY_COLORS
+    )
     if contrast:
         background, text_color = WHITE, BLACK
     else:
         background, text_color = colors["background"], colors["text"]
-    target = ' target="_blank"' if new_tab else ""
+    # A link to a spot on the same page never wants a new tab.
+    target = ' target="_blank"' if new_tab and not url.startswith("#") else ""
     button = (
         f'<a href="{html.escape(url, quote=True)}"{target} '
         f'style="display:inline-flex; align-items:center; justify-content:center; '
@@ -80,20 +102,18 @@ class ButtonLink(rst.Directive):
     Usage in myst markdown::
 
         ```{button-link} https://example.com
-        :year: {{ year }}
         Button text
         ```
 
     Usage in RST::
 
         .. button-link:: https://example.com
-           :year: {{ year }}
 
            Button text
 
-    ``:year:`` picks the conference year's colors from ``YEAR_COLORS``
-    and defaults to the newest year. Conference pages have ``year`` in
-    their Jinja context, so ``{{ year }}`` always matches the page.
+    ``:year:`` picks the conference year's colors from ``YEAR_COLORS``.
+    Without it, the year comes from the page's ``conf/<city>/<year>/``
+    path. Pages outside a conference year use the community green.
     """
 
     required_arguments = 1  # URL
@@ -103,5 +123,8 @@ class ButtonLink(rst.Directive):
     def run(self):
         url = self.arguments[0]
         text = "\n".join(self.content).strip()
-        rendered = render_button(url, text, self.options.get("year"))
+        year = self.options.get("year")
+        if year is None:
+            year = docname_year(self.state.document.settings.env.docname)
+        rendered = render_button(url, text, year)
         return [nodes.raw("", rendered, format="html")]

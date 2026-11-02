@@ -15,7 +15,7 @@ time_format: 24h
 photos:
   default:
     - _static/conf/images/headers/2026/unconference.jpg
-    - _static/conf/images/headers/2026/writing-day.jpg
+    - _static/conf/images/photos/writing-day-laptops-55246770841.jpg
     - _static/conf/images/headers/2026/tickets.jpg
   index:
     - _static/conf/images/pics/writing-day.jpg

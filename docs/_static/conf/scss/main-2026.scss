@@ -460,6 +460,13 @@ body .page-content {
         text-align: center;
     }
 
+    // Plain links in the text, like "current conferences" in the banner
+    // shown after a conference: white and underlined on the black.
+    p a:not(.uk-button-announcement) {
+        color: $white;
+        text-decoration: underline;
+    }
+
     a.uk-button-announcement {
         background-color: $main-color;
         color: $font-black;
@@ -1349,6 +1356,11 @@ body .uk-navbar-dropdown-nav>li>a:focus, body .uk-navbar-dropdown-nav>li>a:hover
     color: $main-color !important;
 }
 
+// Links that the rules above don't style, like the ones in the "What is
+// Write the Docs?" section, in the slate of the page content's links
+// rather than UIKit's blue, which is too light on white (3.6:1).
+$global-link-color: $header-color;
+
 // 2. Import default variables and available mixins.
 @import "variables-theme.scss";
 @import "mixins-theme.scss";
@@ -1448,7 +1460,8 @@ body .page-banner {
 
 @media (min-width: 1280px) {
     body .page-banner {
-        background-size: 1180px;
+        // Two layers: the tint over the photo (_templates/conference/generic.html).
+        background-size: 100% 100%, 1180px;
     }
     body .page-banner::before {
         content: "";
