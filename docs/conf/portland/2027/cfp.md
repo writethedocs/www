@@ -22,17 +22,23 @@ Mark your calendars:
     </li>
     <li>
       <span class="key-date">{{ cfp.notification|replace(', ' ~ year, '') }}</span>
-      Speakers hear back
+      Speakers notified
     </li>
+    {%- if cfp.schedule_announced %}
+    <li>
+      <span class="key-date">{{ cfp.schedule_announced|replace(', ' ~ year, '') }}</span>
+      Schedule announced
+    </li>
+    {%- endif %}
     {%- if cfp.speaker_tickets_by == cfp.video_by %}
     <li>
       <span class="key-date">{{ cfp.speaker_tickets_by|replace(', ' ~ year, '') }}</span>
-      Speaker tickets and pre-recorded talks due
+      Pre-recorded talks due
     </li>
     {%- else %}
     <li>
       <span class="key-date">{{ cfp.speaker_tickets_by|replace(', ' ~ year, '') }}</span>
-      Speaker tickets due
+      Additional speaker info due
     </li>
     <li>
       <span class="key-date">{{ cfp.video_by|replace(', ' ~ year, '') }}</span>
@@ -45,7 +51,7 @@ Mark your calendars:
     </li>
     <li>
       <span class="key-date">{{ date.conference.date }}</span>
-      Talks on stage in {{ city }}
+      Speaker talks
     </li>
   </ol>
 </div>
@@ -175,12 +181,10 @@ If you already have a ticket, we will of course refund it - just drop us an emai
 
 ## Speaker logistics
 
-We're showing a few pre-recorded talks with live Q&A from remote speakers for our conference on **{{date.short}}**.
+Both in-person and pre-recorded talks are 30 minutes long, followed by a few minutes of moderated Q&A immediately after the presentation.
 
 - We'll accept a **maximum of two** pre-recorded talks, which will need to be uploaded around one month before the conference. Because there are only two slots, submitting a remote proposal does reduce the likelihood of your talk being accepted.
 - All other talks will be delivered **in-person, on-stage, live in {{city}}**.
-
-Both in-person and pre-recorded talks are 30 minutes long, followed by a few minutes of moderated Q&A immediately after the presentation.
 
 All Speakers must read, understand, and agree to our [Code of Conduct](/code-of-conduct/). All talks and slides must follow our Code of Conduct. If you are unsure about any aspect of this, please ask us for clarification.
 
