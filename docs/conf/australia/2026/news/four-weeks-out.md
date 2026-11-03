@@ -53,9 +53,9 @@ The [Write the Docs {{ city }} {{ year }} T-shirt Shop]({{ shirts.url }}) is ope
 
 Our Slack network is the best way to connect with our community. Visit our [Slack info page](https://www.writethedocs.org/slack/) to join and explore a list of our channels.
 
-### #wtd-conferences channel
+### #australia-oceania channel
 
-The [#wtd-conferences](https://writethedocs.slack.com/archives/C1AKFQATH) channel is the primary space for conference communication. We *highly* recommend that you join the discussion before the conference!
+The [#australia-oceania](https://writethedocs.slack.com/archives/C09UGF22W) channel is the primary space for conference communication. We *highly* recommend that you join the discussion before the conference!
 
 To join our Slack, you need to complete a short signup form before you can create your account.
 

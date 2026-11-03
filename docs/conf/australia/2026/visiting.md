@@ -18,7 +18,7 @@ Melbourne has many direct rail, bus, or flight connections from most cities in A
 
 International flights arrive direct to [Melbourne Airport](https://www.melbourneairport.com.au/) from many global hubs across Asia Pacific and US regions.
 
-From Melbourne Airport, it’s a 25-30 minute shuttle bus ride to the centre of Melbourne. You can also catch a taxi, Uber or DiDi.
+From Melbourne Airport, it's a 25-30 minute shuttle bus ride to the centre of Melbourne. You can also catch a taxi, Uber or DiDi.
 Read more about the [transport options](https://www.melbourneairport.com.au/getting-to-from-the-airport) to and from Melbourne airport.
 
 **Flights**
@@ -44,7 +44,7 @@ To find out more about travelling to Melbourne on buses, see
 
 Melbourne has a network of trains, trams, and buses to help you get around the city. Head to the [PTV website](https://www.ptv.vic.gov.au/) to plan your trip.
 [Myki](https://www.ptv.vic.gov.au/tickets/myki) is the ticketing system used to pay for all public transport in Melbourne, and within the state of Victoria, unless otherwise specified.
-You’ll need to tap on and off to pay your fare. You can buy Myki cards at most train, tram stops and newsagents.
+You'll need to tap on and off to pay your fare. You can buy Myki cards at most train, tram stops and newsagents.
 
 **Taxi, Shebah, Uber, DiDi**
 
@@ -65,8 +65,8 @@ The closest train station is Parliament Station (a 5 min walk to the conference 
 
 **Tram**
 Trams in the CBD are free (you do not need to tap on or off) for travelling.
-For more information, refer to the `free tram zone <https://www.ptv.vic.gov.au/assets/PTV-default-site/Maps-and-Timetables-PDFs/Maps/Network-maps/Free-Tram-Zone-Map-Map-2021.pdf>`_.
-For inspiration on visiting Melbourne landmarks by tram, check out this article on `Lonely Planet <https://www.lonelyplanet.com/articles/melbourne-by-tram>`_.
+For more information, refer to the [free tram zone](https://www.ptv.vic.gov.au/assets/PTV-default-site/Maps-and-Timetables-PDFs/Maps/Network-maps/Free-Tram-Zone-Map-Map-2021.pdf).
+For inspiration on visiting Melbourne landmarks by tram, check out this article on [Lonely Planet, Melbourne by tram](https://www.lonelyplanet.com/articles/melbourne-by-tram).
 
 ### Where to stay
 
