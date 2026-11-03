@@ -16,7 +16,7 @@ Write the Docs Australia is officially just under 4 weeks away, on {{ date.main 
 
 We will be closing ticket sales **Saturday, 21st November**, so if you've been on the fence, now is the time to buy one!
 
-| Ticket type                         | In person &nbsp; &nbsp;         | Virtual                                 |
+| Ticket type                         | In person (AUD) &nbsp; &nbsp;   | Virtual (AUD)                           |
 | :---------------------------------- | :------------------------------ | :-------------------------------------- |
 | Student or unemployed &nbsp; &nbsp; | {{ tickets.student.price }}     | {{ tickets.virtual_student.price }}     |
 | Independent                         | {{ tickets.independent.price }} | {{ tickets.virtual_independent.price }} |

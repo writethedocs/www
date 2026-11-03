@@ -53,7 +53,7 @@ We are committed to hosting a conference that is accessible to everyone. Visit o
 
 ## How do I participate in the conference?
 
-### Speaker Talks
+### Speaker talks
 
 - Listen! Take notes of remarkable and thoughtful ideas.
 - After a talk, use something you heard as a conversation starter with your colleagues or even the speakers during a break.
@@ -61,12 +61,12 @@ We are committed to hosting a conference that is accessible to everyone. Visit o
 
 ### Fishbowl session
 
-The [Fishwbowl](https://www.writethedocs.org/conf/australia/2026/fishbowl/) encourages attendees to lead, contribute, share ideas, and discuss ideas.
+The [Fishbowl](https://www.writethedocs.org/conf/australia/2026/fishbowl/) encourages attendees to lead, contribute, share ideas, and discuss ideas.
 
 - Bring your opinions and be ready to defend them.
 - Sit back and soak in the collective wisdowm.
 
-### Lightning Talks
+### Lightning talks
 
 [Lightning Talks](https://www.writethedocs.org/conf/australia/2024/lightning-talks/) are short talks, up to 5 minutes, where you share an idea, concept, or a bit of information that you find interesting.
 
@@ -76,7 +76,7 @@ The [Fishwbowl](https://www.writethedocs.org/conf/australia/2026/fishbowl/) enco
 
 If you arrive a day or two earlier, explore the beautiful downtown attractions or join fellow documentarians for a walk and some fresh air!
 
-### Thursday Social Event
+### Thursday social event
 
 This is our main social event of the conference and held outside of the main venue. It is a time to connect with other attendees outside of the scheduled programming.
 
@@ -86,7 +86,6 @@ This is our main social event of the conference and held outside of the main ven
 
 - Before the conference, join the Write the Docs [Slack](https://www.writethedocs.org/slack/), and follow Write the Docs on [LinkedIn](https://www.linkedin.com/company/18284823/admin/feed/posts/) and [X, formerly known as Twitter](https://twitter.com/writethedocs).
 - Talk with people - attendees, volunteers, staff, and speakers. Don't forget to use Eric Holscher's [Pac-Man Rule](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/) to leave room for others to join! The most important part of this conference (and any conference) is the people you meet. Set a goal for yourself to meet a few new people.
-- Review the speaker schedule and choose which talks you want to attend the most. Spread out your time between talks, unconference sessions, networking, and breaks.
-- Starting Thursday morning, check the Unconference schedule to discover if there are any sessions you are interested in attending. New sessions are added all the time, so check back periodically.
+- Review the speaker schedule and choose which talks you want to attend the most. Spread out your time between talks, lightning talks, networking, and breaks.
 - Give yourself and your brain a break! Conferences are exhilarating, but can also be exhausting. Grab a quiet spot in the Function Area or take a quick walk in the nearby Treasury gardens.
 - Eat and drink! There will be tea or coffee available but there are many restaurants close by.
