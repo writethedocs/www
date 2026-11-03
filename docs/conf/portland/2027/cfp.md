@@ -17,7 +17,9 @@ Every year, Write the Docs invites people from all across our community to come 
 Submit your proposal
 ```
 
-Mark your calendars:
+## Key dates
+
+What happens between submitting your proposal and taking the stage:
 
 <div class="key-dates">
   <ol class="key-dates-list">
@@ -133,7 +135,7 @@ Make sure you read this entire page before putting your proposal together, and p
 - **Tooling** – We're pretty serious about preferring talks about people, process or principles than talks about tooling. If you are submitting a proposal about tooling, tell us what makes this one special.
 - **Example proposal** – Check out our [example proposal](../example-proposal/) so you know what we expect to see in each field.
 
-### Unsure about speaking?
+### Getting help
 
 Don't worry too much about whether we will accept your talk proposal. We encourage you to submit it anyway! You may be unsure if your topic is a good fit, whether you have enough speaking experience, or if someone else might give a better talk on your topic, but that does not mean you don't have valuable and awesome insights to share.
 
@@ -143,13 +145,13 @@ If you need a hand preparing or honing your talk proposal, there are lots of goo
 - **Meetup brainstorming** – For some in-person workshopping, check in on your [local meetup group](https://www.writethedocs.org/meetups/) and see if they have a talk brainstorming session on their calendar. If they don't... ask if they're planning one!
 - **Slack hivemind** – You can also hit up the hivemind directly on the Write the Docs Slack, any time of day! (If you're not registered yet, you can at <https://www.writethedocs.org/slack/>.)
 
+## After you submit
+
 ### Selection process
 
 We have a small panel of proposal reviewers. We ensure that the diversity in the panel reflects who we aim to have as speakers. Proposals are rated on a scale of five, after which we meet and discuss the top-rated submissions in detail. To actively promote diversity, we choose not to review talks anonymously, allowing us to intentionally balance various perspectives and backgrounds.
 
 {% if flagcfp %}
-
-## Speaking at the conference
 
 ### Speaker benefits
 
