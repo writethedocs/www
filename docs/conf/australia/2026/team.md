@@ -39,7 +39,7 @@ Felicity has been working as a technical communicator for 18 years. Based in Mel
 
 ![](/_static/img/2026/team/jennifer-appleby.png)
 
-#### Unconfererence coordinator
+#### Lightning talks coordinator
 
 Jennifer has spent most of her working life somewhere in the world of technology, writing documentation along the way. She's been part of the Write the Docs Australia organising team for several years and loves being involved in a community that brings people together to share ideas and make documentation better. When she finally closes her laptop, she can usually be found exploring Melbourne's galleries, markets and musicals or *starting* another craft project!
 
