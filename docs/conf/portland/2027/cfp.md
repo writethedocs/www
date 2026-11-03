@@ -8,9 +8,11 @@ banner: _static/conf/images/photos/talk-stage-chart-55259717770.jpg
 
 It's that time of year again: We're now accepting talk proposals for our next **in-person** {{ city }} conference, on {{date.main}}. Like last year, we're also accepting a few pre-recorded talks by remote speakers.
 
-Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you! Read on to learn more about the goals of the conference and what we look for in talk proposals{% if flagcfp %}, or submit yours now:{% else %}.{% endif %}
+Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you! Read on to learn more about the goals of the conference and what we look for in talk proposals.
 
 {% if flagcfp %}
+
+Ready to submit your talk? You can do that here:
 
 ```{button-link} {{ cfp.url }}
 :year: {{ year }}
@@ -19,7 +21,7 @@ Submit your proposal
 
 ## Key dates
 
-What happens between submitting your proposal and taking the stage:
+Mark your calendars:
 
 <div class="key-dates">
   <ol class="key-dates-list">
@@ -111,13 +113,6 @@ For these reasons, submitting about an AI topic without showing us that you have
 
 This isn't a hard and fast rule, but we're more likely to include talks on topics that have not been covered before than talks that have been touched on in multiple recent conferences.
 
-Check out topics that might be related to your talk from previous years:
-
-- [Portland {{year-1}}](https://www.writethedocs.org/conf/portland/{{year-1}}/speakers/)
-- [Berlin {{year-1}}](https://www.writethedocs.org/conf/berlin/{{year-1}}/speakers/)
-- [Portland {{year-2}}](https://www.writethedocs.org/conf/portland/{{year-2}}/speakers/)
-- [Berlin {{year-2}}](https://www.writethedocs.org/conf/berlin/{{year-2}}/speakers/)
-
 ### Benefit to the community
 
 How does your talk help improve the quality of documentation everywhere? Are you trying a new approach? Are you solving a known problem? Have you done the research into how folks have tried to solve your issue before?
@@ -125,6 +120,13 @@ How does your talk help improve the quality of documentation everywhere? Are you
 ### Audience awareness
 
 When crafting talk proposals, remember that you're going to be speaking to a mix of levels of expertise, skill sets, and professions. Your talk doesn't have to be relevant to everyone, but it should be relevant to most people and shouldn't make too many assumptions about what people already know. If you are making assumptions about what your audience knows, state them up front explicitly.
+
+Check out topics that might be related to your talk from previous years:
+
+- [Portland {{year-1}}](https://www.writethedocs.org/conf/portland/{{year-1}}/speakers/)
+- [Berlin {{year-1}}](https://www.writethedocs.org/conf/berlin/{{year-1}}/speakers/)
+- [Portland {{year-2}}](https://www.writethedocs.org/conf/portland/{{year-2}}/speakers/)
+- [Berlin {{year-2}}](https://www.writethedocs.org/conf/berlin/{{year-2}}/speakers/)
 
 ## Writing your proposal
 
@@ -135,7 +137,7 @@ Make sure you read this entire page before putting your proposal together, and p
 - **Tooling** – We're pretty serious about preferring talks about people, process or principles than talks about tooling. If you are submitting a proposal about tooling, tell us what makes this one special.
 - **Example proposal** – Check out our [example proposal](../example-proposal/) so you know what we expect to see in each field.
 
-### Getting help
+### Unsure about speaking?
 
 Don't worry too much about whether we will accept your talk proposal. We encourage you to submit it anyway! You may be unsure if your topic is a good fit, whether you have enough speaking experience, or if someone else might give a better talk on your topic, but that does not mean you don't have valuable and awesome insights to share.
 
@@ -145,23 +147,21 @@ If you need a hand preparing or honing your talk proposal, there are lots of goo
 - **Meetup brainstorming** – For some in-person workshopping, check in on your [local meetup group](https://www.writethedocs.org/meetups/) and see if they have a talk brainstorming session on their calendar. If they don't... ask if they're planning one!
 - **Slack hivemind** – You can also hit up the hivemind directly on the Write the Docs Slack, any time of day! (If you're not registered yet, you can at <https://www.writethedocs.org/slack/>.)
 
-## After you submit
-
-### Selection process
+## Selection process
 
 We have a small panel of proposal reviewers. We ensure that the diversity in the panel reflects who we aim to have as speakers. Proposals are rated on a scale of five, after which we meet and discuss the top-rated submissions in detail. To actively promote diversity, we choose not to review talks anonymously, allowing us to intentionally balance various perspectives and backgrounds.
 
 {% if flagcfp %}
 
-### Speaker benefits
+## Speaker benefits
 
 - Opportunity to share your views and perspectives with the community!
-- Waived attendance fee. If you already have a ticket, we'll refund it: just email us at [{{email}}](mailto:{{email}}).
+- Waived attendance fee. If you already have a ticket, we will of course refund it - just drop us an email at [{{email}}](mailto:{{email}}).
 - Supplemental financial support for travel, accommodations, or other costs. If speaking incurs any costs that are difficult for you to cover, [contact us](mailto:{{email}}) and we'll do our best to help out.
 
-### Speaker logistics
+## Speaker logistics
 
-All talks are 30 minutes long. In-person talks are followed by a few minutes of moderated Q&A; pre-recorded talks don't have a live Q&A.
+Both in-person and pre-recorded talks are 30 minutes long, and in-person talks are followed by a few minutes of moderated Q&A immediately after the presentation.
 
 - We'll accept a **maximum of two** pre-recorded talks, which will need to be uploaded around one month before the conference. Because there are only two slots, submitting a remote proposal does reduce the likelihood of your talk being accepted.
 - All other talks will be delivered **in-person, on-stage, live in {{city}}**.
@@ -170,7 +170,7 @@ All Speakers must read, understand, and agree to our [Code of Conduct](/code-of-
 
 ## Submit your proposal
 
-Submit your proposal on [Pretalx]({{ cfp.url }}). You'll need to sign up for a Pretalx account, unless you already have one from a previous conference.
+Submit your proposal at [{{ cfp.url }}]({{ cfp.url }}). You'll need to sign up for a Pretalx account, unless you already have one from a previous conference.
 
 ```{button-link} {{ cfp.url }}
 :year: {{ year }}

@@ -166,7 +166,6 @@ Subject:
 
    * We'll be using [Hopin](https://hopin.to/) for the event, over the coming weeks we'll get you account details so you can update head-shots and taglines on there.
    * We'll be live captioning as usual, and if you can get copies of your slides to make the captioners work easier that would be delightful. We need those a week or so before the event, so no rush.
-   * Pre-recorded talks don't have a live Q&A, so there's nothing you need to join on the day.
 
    Next week I'll send over a provisional schedule.
 
