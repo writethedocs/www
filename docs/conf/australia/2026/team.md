@@ -20,9 +20,12 @@ Swapnil has been tech writing since 2006, and initiated Write the Docs in Austra
 
 ### Jared Morgan (he/him)
 
+![](/_static/img/2026/team/jared-morgan.jpeg)
+
 #### Emcee/Host
 
-Jared has been a Technical Writer for about 17 years now. When he’s not helping organisations plan and deliver documentation as a product, he co-hosts the Write the Docs and BlahCade Pinball Podcasts, and restores pinball machines to their former glory.
+Jared has been in the business of user assistance for two decades. His role as a Documentation Platform Engineer helps remove time and complexity barriers for engineers so they can Write the Docs themselves!
+Jared is into cosplay, owning and operating pinball machines, and is the co-host of the BlahCade Pinball Podcast.
 
 ### Felicity Brand (she/her)
 
@@ -34,10 +37,11 @@ Felicity has been working as a technical communicator for 18 years. Based in Mel
 
 ### Jennifer Appleby (she/her)
 
+![](/_static/img/2026/team/jennifer-appleby.png)
+
 #### Unconfererence coordinator
 
-Jennifer has spent most of her working life as an IT geek in different forms. While she has been writing technical docs for most of those years, she has only been claiming the title for the last ten focusing on enterprise software.
-She spends far too much time sitting in front of a laptop, but sometimes manages to get out of the house to take in Melbourne’s galleries, markets and musicals.
+Jennifer has spent most of her working life somewhere in the world of technology, writing documentation along the way. She's been part of the Write the Docs Australia organising team for several years and loves being involved in a community that brings people together to share ideas and make documentation better. When she finally closes her laptop, she can usually be found exploring Melbourne's galleries, markets and musicals or *starting* another craft project!
 
 ### Shiham Jamaldeen (he/him)
 
