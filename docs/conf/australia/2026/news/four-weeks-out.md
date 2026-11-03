@@ -4,7 +4,7 @@ banner: _static/conf/images/headers/WTDHeader.png
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
-```{post} November 4, 2026
+```{post} November 3, 2026
 :tags: {{shortcode}}-{{year}}, tickets, social, sponsors
 ```
 
