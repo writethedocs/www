@@ -8,11 +8,16 @@ banner: _static/conf/images/photos/talk-stage-chart-55259717770.jpg
 
 It's that time of year again: We're now accepting talk proposals for our next **in-person** {{ city }} conference, on {{date.main}}. Like last year, we're also accepting a few pre-recorded talks by remote speakers.
 
-Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you! Read on to learn more about the goals of the conference and what we look for in talk proposals.
+Every year, Write the Docs invites people from all across our community to come up on stage to share their insights and experience. Whether you've worked on documentation for decades or you've just started this year, we want to hear from you! Read on to learn more about the goals of the conference and what we look for in talk proposals{% if flagcfp %}, or submit yours now:{% else %}.{% endif %}
 
 {% if flagcfp %}
 
-## Key dates
+```{button-link} {{ cfp.url }}
+:year: {{ year }}
+Submit your proposal
+```
+
+Mark your calendars:
 
 <div class="key-dates">
   <ol class="key-dates-list">
@@ -58,17 +63,6 @@ Every year, Write the Docs invites people from all across our community to come 
 
 {% else %} We will announce the CFP dates soon. {% endif %}
 
-{% if flagcfp %}
-
-Ready to submit your talk? You can do that here:
-
-```{button-link} {{ cfp.url }}
-:year: {{ year }}
-Submit your proposal
-```
-
-{% endif %}
-
 ## Conference goals
 
 Write the Docs conferences are our opportunity to get together to explore and celebrate the craft of documentation in a positive, inclusive environment. **Our goal is to give documentarians a chance to connect and learn from each other.**
@@ -79,47 +73,47 @@ Between the talks on stage, the discussions in the Unconference, the collaborati
 
 The short description here is "if you care about documentation and have something to say about it, we want you to speak"! That said, there are some more helpful and concrete pointers below.
 
-**Diverse group of speakers**
+### Diverse group of speakers
 
 We welcome first-time speakers, industry experts, and everyone in between. We especially welcome talks from underrepresented groups within the tech community. We want to hear a variety of viewpoints, so we limit speakers to two talks in any four year period at each location.
 
-**Number of speakers**
+### Number of speakers
 
 We prefer talks *presented* by one *single speaker*. If you're planning to submit with a co-speaker, please let us know why, and take note that it will affect the chances of your talk being selected. You are of course welcome to write the talk with other people, if only one person is presenting.
 
-**Mix of roles and perspectives**
+### Mix of roles and perspectives
 
 Talks from the scientific community, fiction writers, system administrators, and support staff – as well as technical writers and software developers – all are valuable to our attendees.
 
 ## What we’re looking for
 
-**Broad topics**
+### Broad topics
 
 The focus of Write the Docs is software documentation, and we actively seek talks that address a wide range of related subjects, at various levels of expertise. Documentation perspectives from other fields are welcome, as are topics from adjacent fields!
 
-**Practicality and positivity**
+### Practicality and positivity
 
 We prefer talks backed by experience and experimentation to talks about theory, and we definitely don't like talks that bad-mouth technologies or approaches. Don't tell us why you hate something – tell us how you overcame the problems it was causing.
 
-**Process over tooling**
+### Process over tooling
 
 We tend to avoid talks about specific tooling, which often turn into marketing pitches or tutorials. We would much rather hear about process, culture, data, people, or the metaphysical side effects of spending your life thinking about docs.
 
-**AI**
+### AI
 
 We're excited to have great AI related talks on the programme, but will be capping the number of talks that focus on AI, to leave space for other topics. While AI is a subject in our community and therefore also at our conferences, we get a huge number of AI proposals. The challenge with those proposals is that the review team aims to select talks that can provide lasting value, but that is inherently difficult with rapidly developing technology. Additionally, we feel we have a responsibility to balance talking about the potential of AI with the very real ethical and environmental concerns that come with it.
 
 For these reasons, submitting about an AI topic without showing us that you have considered these concerns might reduce your chances of being accepted. Conversely, demonstrating a community-centred attitude can help your chances if you choose to submit a talk about AI.
 
-**New ideas**
+### New ideas
 
 This isn't a hard and fast rule, but we're more likely to include talks on topics that have not been covered before than talks that have been touched on in multiple recent conferences.
 
-**Benefit to the community**
+### Benefit to the community
 
 How does your talk help improve the quality of documentation everywhere? Are you trying a new approach? Are you solving a known problem? Have you done the research into how folks have tried to solve your issue before?
 
-**Audience awareness**
+### Audience awareness
 
 When crafting talk proposals, remember that you're going to be speaking to a mix of levels of expertise, skill sets, and professions. Your talk doesn't have to be relevant to everyone, but it should be relevant to most people and shouldn't make too many assumptions about what people already know. If you are making assumptions about what your audience knows, state them up front explicitly.
 
