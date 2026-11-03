@@ -12,7 +12,7 @@ Every year, Write the Docs invites people from all across our community to come 
 
 {% if flagcfp %}
 
-Mark your calendars:
+## Key dates
 
 <div class="key-dates">
   <ol class="key-dates-list">
@@ -56,8 +56,6 @@ Mark your calendars:
   </ol>
 </div>
 
-If your talk is accepted, confirm it as soon as you get the email.
-
 {% else %} We will announce the CFP dates soon. {% endif %}
 
 {% if flagcfp %}
@@ -73,31 +71,21 @@ Submit your proposal
 
 ## Conference goals
 
-Write the Docs conferences are our opportunity to get together to explore and celebrate the craft of documentation in a positive, inclusive environment.
+Write the Docs conferences are our opportunity to get together to explore and celebrate the craft of documentation in a positive, inclusive environment. **Our goal is to give documentarians a chance to connect and learn from each other.**
 
-**Our goal is to give documentarians a chance to connect and learn from each other.**
-
-Between the talks on stage, the discussions in the Unconference, the collaboration on Writing Day and other conversations, 100% of the content for our conferences comes from our community! Your perspective on what makes good docs is what this conference is all about.
-
-You'll have the chance to compare notes on what's happening in the industry, dig into questions of convention and good practice, and generally nerd out about all the things we love about documentation.
+Between the talks on stage, the discussions in the Unconference, the collaboration on Writing Day and other conversations, 100% of the content for our conferences comes from our community! Your perspective on what makes good docs is what this conference is all about. You'll have the chance to compare notes on what's happening in the industry, dig into questions of convention and good practice, and generally nerd out about all the things we love about documentation.
 
 ## Who we're looking for
 
-The short description here is "if you care about documentation and have something to say about it, we want you to speak"!
-
-That said, there are some more helpful and concrete pointers below.
+The short description here is "if you care about documentation and have something to say about it, we want you to speak"! That said, there are some more helpful and concrete pointers below.
 
 **Diverse group of speakers**
 
-We welcome first-time speakers, industry experts, and everyone in between. We especially welcome talks from underrepresented groups within the tech community.
-
-We want to hear a variety of viewpoints, so we limit speakers to two talks in any four year period at each location.
+We welcome first-time speakers, industry experts, and everyone in between. We especially welcome talks from underrepresented groups within the tech community. We want to hear a variety of viewpoints, so we limit speakers to two talks in any four year period at each location.
 
 **Number of speakers**
 
-We prefer talks *presented* by one *single speaker*. If you're planning to submit with a co-speaker, please let us know why, and take note that it will affect the chances of your talk being selected.
-
-You are of course welcome to write the talk with other people, if only one person is presenting.
+We prefer talks *presented* by one *single speaker*. If you're planning to submit with a co-speaker, please let us know why, and take note that it will affect the chances of your talk being selected. You are of course welcome to write the talk with other people, if only one person is presenting.
 
 **Mix of roles and perspectives**
 
@@ -163,21 +151,15 @@ If you need a hand preparing or honing your talk proposal, there are lots of goo
 
 ## Selection process
 
-We have a small panel of proposal reviewers. We ensure that the diversity in the panel reflects who we aim to have as speakers.
-
-Proposals are rated on a scale of five, after which we meet and discuss the top-rated submissions in detail.
-
-To actively promote diversity, we choose not to review talks anonymously, allowing us to intentionally balance various perspectives and backgrounds.
+We have a small panel of proposal reviewers. We ensure that the diversity in the panel reflects who we aim to have as speakers. Proposals are rated on a scale of five, after which we meet and discuss the top-rated submissions in detail. To actively promote diversity, we choose not to review talks anonymously, allowing us to intentionally balance various perspectives and backgrounds.
 
 {% if flagcfp %}
 
 ## Speaker benefits
 
 - Opportunity to share your views and perspectives with the community!
-- Waived attendance fee.
+- Waived attendance fee. If you already have a ticket, we'll refund it: just email us at [{{email}}](mailto:{{email}}).
 - Supplemental financial support for travel, accommodations, or other costs. If speaking incurs any costs that are difficult for you to cover, [contact us](mailto:{{email}}) and we'll do our best to help out.
-
-If you already have a ticket, we will of course refund it - just drop us an email at [{{email}}](mailto:{{email}}).
 
 ## Speaker logistics
 
