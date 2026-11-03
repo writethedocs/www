@@ -181,7 +181,7 @@ If you already have a ticket, we will of course refund it - just drop us an emai
 
 ## Speaker logistics
 
-Both in-person and pre-recorded talks are 30 minutes long, followed by a few minutes of moderated Q&A immediately after the presentation.
+All talks are 30 minutes long. In-person talks are followed by a few minutes of moderated Q&A; pre-recorded talks don't have a live Q&A.
 
 - We'll accept a **maximum of two** pre-recorded talks, which will need to be uploaded around one month before the conference. Because there are only two slots, submitting a remote proposal does reduce the likelihood of your talk being accepted.
 - All other talks will be delivered **in-person, on-stage, live in {{city}}**.
