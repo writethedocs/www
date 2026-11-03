@@ -45,10 +45,6 @@ This is an event just for conference attendees, held on *Thursday evening from 5
 
 If you're travelling in, our [Visiting Melbourne](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/visiting/) page has tips on getting around and neighbourhoods to consider, and the [Venue page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/venue/) has directions to {{ about.venue }}.
 
-## T-shirts
-
-The [Write the Docs {{ city }} {{ year }} T-shirt Shop]({{ shirts.url }}) is open! We're doing a mail order shop so people can order the exact shirt they want. Shipping is available from the USA or Europe, so we recommend ordering at least 2-3 weeks in advance if you want to wear yours at the conference.
-
 ## Join our Slack community
 
 Our Slack network is the best way to connect with our community. Visit our [Slack info page](https://www.writethedocs.org/slack/) to join and explore a list of our channels.
