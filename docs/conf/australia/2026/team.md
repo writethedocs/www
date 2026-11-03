@@ -20,7 +20,7 @@ Swapnil has been tech writing since 2006, and initiated Write the Docs in Austra
 
 ### Jared Morgan (he/him)
 
-![](/_static/img/2026/team/jared-morgan.jpeg)
+![](/_static/img/2026/team/jared-morgan.jpg)
 
 #### Emcee/Host
 
