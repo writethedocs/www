@@ -34,7 +34,7 @@ Submit your Writing Day project
 
 ## Writing Day Schedule
 
-**{{date.day_two.dotw}}, {{date.day_two.date}}, {{date.day_two.writing_day_time}} {{tz}}**
+**{{date.writing_day.dotw}}, {{date.writing_day.date}}, {{date.writing_day.hours}} {{tz}}**
 
 Writing Day is an all-day event designed for you to join in throughout the day. Whether you want to contribute to a half-day project, join an hour-long roundtable discussion, or attend a GitHub workshop, there is an option for you.
 
