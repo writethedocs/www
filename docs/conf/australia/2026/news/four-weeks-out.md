@@ -31,7 +31,7 @@ Buy your ticket
 
 ## How do I participate in the conference?
 
-There are a number of ways to engage in the conference. You can listen to Speaker Talks, participate in the [Fishbowl](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/fishbowl/) session, give a [Lightning Talk](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/lightning-talks/), or chat with our Sponsors!
+There are a number of ways to engage in the conference. You can listen to [Speaker talks](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/schedule/), participate in the [Fishbowl](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/fishbowl/) session, give a [Lightning Talk](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/lightning-talks/), or chat with our Sponsors!
 
 View our [Attendee Guide](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/attendee-guide/) for strategies and tips on how to get plugged in and connect with others!
 
