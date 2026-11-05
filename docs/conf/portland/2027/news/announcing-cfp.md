@@ -8,7 +8,7 @@ og:image: _static/conf/images/headers/portland-2024-speakers.jpg
 :tags: {{shortcode}}-{{year}}, website, cfp, tickets
 ```
 
-# Announcing the Call for Proposals and Sponsorship Prospectus
+# Announcing the Call for Proposals
 
 We're happy to announce our Portland [Call for Proposals](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/)!
 
@@ -37,7 +37,7 @@ Submit your talk
 
 The Call for Proposals will be open until **11:59 PM {{cfp.ends}} PST**, so harness that new year energy! Or get it in before the end of year break, if you're less of a last minute person. 😄
 
-## Sponsorship Updates
+## Sponsorship prospectus
 
 Our [sponsorship prospectus](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/) is updated for {{ year }}, with various improvements based on sponsor feedback.
 
