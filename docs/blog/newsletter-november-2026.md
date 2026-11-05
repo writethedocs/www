@@ -1,7 +1,10 @@
+---
+og:image: _static/logo-opengraph.png
+---
+
 ```{post} November 5, 2026
 ---
 tags: newsletter
-og:image: https://www.writethedocs.org/_static/logo-opengraph.png
 author: Aaron Collier
 ---
 ```
