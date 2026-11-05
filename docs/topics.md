@@ -93,6 +93,7 @@ One word vs another, using abbreviations, etc.
 
 ### Screenshots
 
+- 📰 [To include screenshots or not](/blog/newsletter-november-2026/#to-include-screenshots-or-not)
 - 📰 [Create a screenshot style guide](/blog/newsletter-november-2025/#create-a-screenshot-style-guide)
 - 📰 [Automating screenshot capture or translation](/blog/newsletter-june-2025/#automating-screenshot-capture-or-translation)
 - 📰 [When to create screenshots](/blog/newsletter-december-2022/#when-to-create-screenshots)
@@ -183,6 +184,7 @@ Including videos and diagrams.
 
 Including how-tos, reference docs, tutorials, and books.
 
+- 📰 [Building skills for SDK docs](/blog/newsletter-november-2026/#building-skills-for-sdk-docs)
 - 📰 [Scaling beta docs without the headache](/blog/newsletter-september-2025/#scaling-beta-docs-without-the-headache)
 - 📰 [Tips for improving code documentation](/blog/newsletter-february-2025/#tips-for-improving-code-documentation)
 - 📰 [Documenting YAML Files](/blog/newsletter-july-2023/#documenting-yaml-files)
@@ -327,6 +329,7 @@ Including how-tos, reference docs, tutorials, and books.
 
 ### Related roles
 
+- 📰 [Do writing skills help you code better?](/blog/newsletter-november-2026/#do-writing-skills-help-you-code-better)
 - 📰 [Life After Documenting](/blog/newsletter-december-2023/#life-after-documenting)
 - 🎥 [Is Tech Writer a Tester, and Vice Versa, Is Tester a Tech Writer?](https://www.youtube.com/watch?v=TG7vKolsqb4)
 - 📰 [A tale of two careers](/blog/newsletter-august-2020/#a-tale-of-two-careers)
