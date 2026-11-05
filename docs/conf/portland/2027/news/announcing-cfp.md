@@ -28,9 +28,14 @@ We're looking for talk proposals to be delivered in-person, on-stage in {{ city 
 
 Like last year, we're also accepting a limited number of pre-recorded talks from remote speakers, so if you can't make it to {{city}} on {{ date.short }} you can still submit your proposal. Due to logistical challenges we've decided not to have Q&A for remote talks.
 
-You can read our full [Call for Proposals](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/), and [submit your talk](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/) on the website.
+Read our full [Call for Proposals](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/) before submitting:
 
-The Call for Proposals will be open until **11:59 PM {{cfp.ends}} PST**, so harness that new year energy! Or get it in before the end of year break, if you're less of a last minute person.
+```{button-link} https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/
+:year: {{ year }}
+Submit your talk
+```
+
+The Call for Proposals will be open until **11:59 PM {{cfp.ends}} PST**, so harness that new year energy! Or get it in before the end of year break, if you're less of a last minute person. 😄
 
 ## Sponsorship Updates
 
