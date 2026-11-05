@@ -70,7 +70,7 @@ Most documentarians try to minimize the number of screenshots used. Many suggest
 
 The goal is *not* to maximize the number of screenshots, but to provide the right visual support at the right time for users to accomplish their tasks. Documentarians mention removing many screenshots from existing documentation and never getting negative feedback. 
 
-See more Write the Docs resources about [screenshots](topics/#screenshots).
+See more Write the Docs resources about [screenshots](/topics/#screenshots).
 
 ## Do writing skills help you code better?
 
@@ -82,7 +82,7 @@ People noted that the practice of writing itself encourages a clarity of thought
 
 Respondents agreed that documentarians and engineers have a common ground: both know how to translate between human and machine and how to elucidate the vague and opaque into something easy to understand. Historically, the first programmers were writers and mathematicians, which showcases the common roots these professions share.
 
-See more Write the Docs resources about [related roles](topics/#related-roles).
+See more Write the Docs resources about [related roles](/topics/#related-roles).
 
 ## Events coming up
 
