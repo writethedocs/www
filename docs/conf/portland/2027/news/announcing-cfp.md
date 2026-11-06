@@ -59,7 +59,3 @@ Want to connect with other documentarians before the conference? Join our [Slack
 ## Thanks
 
 We hope you will join us in {{ city }} for the 15th annual Write the Docs conference. Whether as a speaker or attendee, you can bet it will be another delightful year.
-
-Looking forward to seeing y'all in {{ city }}!
-
-The Write the Docs Team
