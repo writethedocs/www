@@ -1,0 +1,27 @@
+# Rebuild the site once a day so date-based content turns over without a
+# commit: the key dates on the conference pages, deadlines that drop off
+# after their day, and the post-conference switch (date.ends in a config).
+# Needs a Read the Docs API token in the READTHEDOCS_TOKEN repository secret;
+# without it the job does nothing.
+name: Daily rebuild
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger a Read the Docs build of latest
+        env:
+          READTHEDOCS_TOKEN: ${{ secrets.READTHEDOCS_TOKEN }}
+        run: |
+          if [ -z "$READTHEDOCS_TOKEN" ]; then
+            echo "READTHEDOCS_TOKEN is not set; skipping."
+            exit 0
+          fi
+          curl --fail --silent --show-error -X POST \
+            -H "Authorization: Token $READTHEDOCS_TOKEN" \
+            https://readthedocs.org/api/v3/projects/writethedocs-www/versions/latest/builds/
