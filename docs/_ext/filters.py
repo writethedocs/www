@@ -50,6 +50,16 @@ def before_month(date_str):
     return (today.year, today.month) < (date.year, date.month)
 
 
+def before_day(date_str):
+    """
+    Return True if the build date falls before ``date_str`` (for example
+    "April 21, 2027"), so pages can hide a deadline once it has passed.
+    Only takes effect when the site is rebuilt.
+    """
+    date = datetime.datetime.strptime(date_str, '%B %d, %Y').date()
+    return datetime.date.today() < date
+
+
 def add_jinja_filters_to_app(app):
     if app.builder.format != 'html':
         return
@@ -61,3 +71,4 @@ def add_jinja_filters_to_app(app):
     app.builder.templates.environment.filters['sponsor_photo'] = sponsor_photo
     app.builder.templates.environment.filters['find_sponsor'] = find_sponsor
     app.builder.templates.environment.filters['before_month'] = before_month
+    app.builder.templates.environment.filters['before_day'] = before_day

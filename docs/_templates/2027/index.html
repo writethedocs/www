@@ -2,34 +2,66 @@
 {% extends "conference/index.html" %}
 
 {% block key_dates %}
-  {# Show the timeline until the month talks are announced. #}
-  {% if cfp.notification|before_month %}
+  {# What attendees and speakers can do next, and when. Each item drops
+     off once it has passed, or links its page once that is live. #}
+  {% if not flagpostconf %}
+  {% set conf_url = 'conf/' + shortcode + '/' + year_str + '/' %}
 
   <div class="key-dates" id="key-dates">
     <div class="uk-container">
       <h2>Key dates</h2>
       <ol class="key-dates-list">
+        {% if flagcfp %}
         <li>
-          <span class="key-date">Available now</span>
-          <a href="{{ pathto('conf/' + shortcode + '/' + year_str + '/sponsors/prospectus') }}">Sponsorship prospectus</a>
+          <span class="key-date">{{ cfp.ends }}</span>
+          <a href="{{ pathto(conf_url + 'cfp') }}">Talk proposals</a> due
         </li>
+        {% elif cfp.ends|before_month %}
         <li>
           <span class="key-date">{{ cfp.opens }}</span>
-          {% if flagcfp -%}
-          <a href="{{ pathto('conf/' + shortcode + '/' + year_str + '/cfp') }}">Call for proposals open</a>
-          {%- else -%}
           Call for proposals opens
-          {%- endif %}
         </li>
+        {% endif %}
+        {% if flagticketsonsale %}
+        <li>
+          <span class="key-date">On sale now</span>
+          <a href="{{ pathto(conf_url + 'tickets') }}">Tickets and Opportunity Grants</a>
+        </li>
+        {% else %}
         <li>
           <span class="key-date">{{ date.tickets_live }}</span>
-          Tickets go on sale
+          Tickets and Opportunity Grants on sale
         </li>
+        {% endif %}
+        {% if flagspeakersannounced %}
+        <li>
+          <span class="key-date">Announced</span>
+          <a href="{{ pathto(conf_url + 'speakers') }}">See the talks</a>
+        </li>
+        {% else %}
         <li>
           {# Talks are announced shortly after speakers hear back, so show the month. #}
           <span class="key-date">{{ cfp.notification.split(' ')[0] }} {{ year }}</span>
           Talks announced
         </li>
+        {% endif %}
+        {% if flaghasschedule %}
+        <li>
+          <span class="key-date">Announced</span>
+          <a href="{{ pathto(conf_url + 'schedule') }}">See the schedule</a>
+        </li>
+        {% elif cfp.schedule_announced %}
+        <li>
+          <span class="key-date">{{ cfp.schedule_announced }}</span>
+          Schedule announced and <a href="{{ pathto(conf_url + 'writing-day') }}">call for Writing Day projects</a>
+        </li>
+        {% endif %}
+        {% if flaghaswritingday and writing_day.project_deadline|before_day %}
+        <li>
+          <span class="key-date">{{ writing_day.project_deadline }}</span>
+          <a href="{{ pathto(conf_url + 'writing-day') }}">Writing Day projects</a> due
+        </li>
+        {% endif %}
         <li>
           <span class="key-date">{{ date.short }}</span>
           Conference in {{ city }}
