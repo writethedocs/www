@@ -40,9 +40,9 @@ The Call for Proposals will be open until **11:59 PM {{cfp.ends}} PST**, so harn
 
 ## Key dates
 
-- **January 18**: Call for Proposals ends.
-- **February 1**: We'll let you know whether your proposal was accepted, and ask for some supplementary information about you.
-- **{{ date.conference.date }}**: Folks start giving talks on stage.
+- **{{ cfp.ends }}**: Call for Proposals ends.
+- **{{ cfp.notification }}**: We'll let you know whether your proposal was accepted, and ask for some supplementary information about you.
+- **{{ date.short }}**: Folks start giving talks on stage.
 
 ## Speaker benefits
 
