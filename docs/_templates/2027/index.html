@@ -11,17 +11,6 @@
     <div class="uk-container">
       <h2>Key dates</h2>
       <ol class="key-dates-list">
-        {% if flagcfp %}
-        <li>
-          <span class="key-date">{{ cfp.ends }}</span>
-          <a href="{{ pathto(conf_url + 'cfp') }}">Talk proposals</a> due
-        </li>
-        {% elif cfp.ends|before_month %}
-        <li>
-          <span class="key-date">{{ cfp.opens }}</span>
-          Call for proposals opens
-        </li>
-        {% endif %}
         {% if flagticketsonsale %}
         <li>
           <span class="key-date">On sale now</span>
@@ -31,6 +20,17 @@
         <li>
           <span class="key-date">{{ date.tickets_live }}</span>
           Tickets and Opportunity Grants on sale
+        </li>
+        {% endif %}
+        {% if flagcfp %}
+        <li>
+          <span class="key-date">{{ cfp.ends }}</span>
+          <a href="{{ pathto(conf_url + 'cfp') }}">Talk proposals</a> due
+        </li>
+        {% elif cfp.ends|before_month %}
+        <li>
+          <span class="key-date">{{ cfp.opens }}</span>
+          Call for proposals opens
         </li>
         {% endif %}
         {% if flagspeakersannounced %}
