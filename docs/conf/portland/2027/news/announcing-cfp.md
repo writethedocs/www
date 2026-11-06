@@ -42,6 +42,7 @@ The Call for Proposals will be open until **11:59 PM {{cfp.ends}} PST**, so harn
 
 - **{{ cfp.ends }}**: Call for Proposals ends.
 - **{{ cfp.notification }}**: We'll let you know whether your proposal was accepted, and ask for some supplementary information about you.
+- **{{ cfp.schedule_announced }}**: Schedule with speaking times announced.
 - **{{ date.short }}**: Folks start giving talks on stage.
 
 ## Speaker benefits
