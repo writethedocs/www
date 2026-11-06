@@ -23,7 +23,7 @@ If there's something you'd really like to see a talk on this year, submit a prop
 
 We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you.
 
-We're looking for talk proposals to be delivered in-person, on-stage in {{ city }}, on {{ date.short|replace(', ' ~ year, '') }}.
+We're looking for talk proposals to be delivered in-person, on-stage in {{ city }}, on {{ date.short }}.
 
 Like last year, we're also accepting a limited number of pre-recorded talks from remote speakers, so if you can't make it to {{city}} on {{ date.short|replace(', ' ~ year, '') }} you can still submit your proposal. Due to logistical challenges we've decided not to have Q&A for remote talks.
 
@@ -40,8 +40,8 @@ The Call for Proposals will be open until **11:59 PM {{cfp.ends}} PST**, so harn
 
 ## Key dates
 
-- **{{ cfp.ends }}**: Call for Proposals ends.
-- **{{ cfp.notification }}**: We'll let you know whether your proposal was accepted, and ask for some supplementary information about you.
+- **{{ cfp.ends|replace(', ' ~ year, '') }}**: Call for Proposals ends.
+- **{{ cfp.notification|replace(', ' ~ year, '') }}**: We'll let you know whether your proposal was accepted, and ask for some supplementary information about you.
 - **{{ date.conference.date }}**: Folks start giving talks on stage.
 
 ## Speaker benefits
