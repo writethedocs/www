@@ -155,3 +155,7 @@ You can also "cheat", adding HTML-formatted text when markdown seems too limited
 - [Stackedit - an online Markdown editor](https://stackedit.io/)
 - [Markdown Tutorial - an interactive introduction to Markdown](https://www.markdowntutorial.com/)
 - [Markdown Syntax](https://www.markdownlang.com/basic/overview.html)
+
+```{seealso}
+Browse talks and newsletter articles about {ref}`documentation tools <topics:Doc tools>` in our content archive.
+```

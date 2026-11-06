@@ -118,3 +118,7 @@ a command like::
 
 Hint: Vale even works with XML files, such as those in DocBook and DITA, as long
 as you've included `*.xml` in the Vale configuration file.
+
+.. seealso::
+
+   Browse talks and newsletter articles about :ref:`automation <topics:Automation>` in our content archive.

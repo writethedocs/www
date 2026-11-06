@@ -110,3 +110,7 @@ Testing API docs
 
 When specifying an API in a descriptive language, you don't have to manually
 validate your documents. Tools like `Schemathesis <https://schemathesis.readthedocs.io/>`_ can test your OpenAPI description against the live API.
+
+.. seealso::
+
+   Browse talks and newsletter articles about :ref:`API documentation <topics:API docs>` in our content archive.
