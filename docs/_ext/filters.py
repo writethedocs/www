@@ -1,5 +1,6 @@
 import datetime
 import os
+import re
 
 
 def media_photo(_file, _type):
@@ -60,6 +61,15 @@ def before_day(date_str):
     return datetime.date.today() < date
 
 
+def without_year(date_str):
+    """
+    Drop the year from a date like "January 18, 2027", "May 2-4, 2027" or
+    "December 2026", for a timeline that runs within one conference cycle
+    and says the year once.
+    """
+    return re.sub(r',?\s*\d{4}$', '', date_str)
+
+
 def add_jinja_filters_to_app(app):
     if app.builder.format != 'html':
         return
@@ -72,3 +82,4 @@ def add_jinja_filters_to_app(app):
     app.builder.templates.environment.filters['find_sponsor'] = find_sponsor
     app.builder.templates.environment.filters['before_month'] = before_month
     app.builder.templates.environment.filters['before_day'] = before_day
+    app.builder.templates.environment.filters['without_year'] = without_year
