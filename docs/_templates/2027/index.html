@@ -53,13 +53,13 @@
         {% elif cfp.schedule_announced %}
         <li>
           <span class="key-date">{{ cfp.schedule_announced }}</span>
-          Schedule announced and <a href="{{ pathto(conf_url + 'writing-day') }}">call for Writing Day projects</a>
+          Schedule announced and call for Writing Day projects
         </li>
         {% endif %}
         {% if flaghaswritingday and writing_day.project_deadline|before_day %}
         <li>
           <span class="key-date">{{ writing_day.project_deadline }}</span>
-          <a href="{{ pathto(conf_url + 'writing-day') }}">Writing Day projects</a> due
+          <a href="{{ pathto(conf_url + 'writing-day') }}">Writing Day projects due</a>
         </li>
         {% endif %}
         <li>
