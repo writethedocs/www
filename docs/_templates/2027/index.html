@@ -46,17 +46,6 @@
           Schedule announced
         </li>
         {% endif %}
-        {% if flaghaswritingday and writing_day.project_deadline|before_day %}
-        <li>
-          <span class="key-date">{{ writing_day.project_deadline|without_year }}</span>
-          {# The call opens with the schedule. #}
-          {% if flaghasschedule -%}
-          <a href="{{ pathto(conf_url + 'writing-day') }}">Call for Writing Day projects closes</a>
-          {%- else -%}
-          Call for Writing Day projects closes
-          {%- endif %}
-        </li>
-        {% endif %}
         <li>
           <span class="key-date">{{ date.short|without_year }}</span>
           Conference in {{ city }}
