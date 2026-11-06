@@ -50,6 +50,8 @@ The Call for Proposals will be open until **11:59 PM {{cfp.ends}} PST**, so harn
 - Waived attendance fee.
 - Supplemental financial support for travel, accommodations, or other costs.
 
+We have an ever-growing pool of previous Write the Docs speakers, many of whom are happy to be a second pair of eyes on talk proposals. If you're interested in working with a past speaker, let us know.
+
 ## Stay Updated
 
 Want to find out what's happening with the conference, or enjoy our monthly global community newsletter? Sign up to one or more of our [mailing lists](http://eepurl.com/cdWqc5). Your information will never be shared with any third parties, and you can unsubscribe at any time.
