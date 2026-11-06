@@ -25,7 +25,7 @@ We're looking for ideas and use-cases from all disciplines and roles, so whether
 
 We're looking for talk proposals to be delivered in-person, on-stage in {{ city }}, on {{ date.short }}.
 
-Like last year, we're also accepting a limited number of pre-recorded talks from remote speakers, so if you can't make it to {{city}} on {{ date.short|replace(', ' ~ year, '') }} you can still submit your proposal. Due to logistical challenges we've decided not to have Q&A for remote talks.
+Like last year, we're also accepting a limited number of pre-recorded talks from remote speakers, so if you can't make it to {{city}} on {{ date.short }} you can still submit your proposal. Due to logistical challenges we've decided not to have Q&A for remote talks.
 
 We encourage you to read the call carefully, to improve your chances of being accepted. In particular, see our notes about AI-centered proposals, and check out our [example proposal](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/example-proposal/) so you know what we expect to see in each field.
 
@@ -40,8 +40,8 @@ The Call for Proposals will be open until **11:59 PM {{cfp.ends}} PST**, so harn
 
 ## Key dates
 
-- **{{ cfp.ends|replace(', ' ~ year, '') }}**: Call for Proposals ends.
-- **{{ cfp.notification|replace(', ' ~ year, '') }}**: We'll let you know whether your proposal was accepted, and ask for some supplementary information about you.
+- **January 18**: Call for Proposals ends.
+- **February 1**: We'll let you know whether your proposal was accepted, and ask for some supplementary information about you.
 - **{{ date.conference.date }}**: Folks start giving talks on stage.
 
 ## Speaker benefits
