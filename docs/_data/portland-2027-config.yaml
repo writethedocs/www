@@ -16,10 +16,10 @@ buttons:
   top:
     - text: Date and ticket information
       link: /news/welcome
-    - text: Sponsor the Conference
-      link: /sponsors/prospectus
-    # - text: Submit a Talk
-    #   link: /cfp
+    # - text: Sponsor the Conference
+    #  link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp
     # - text: Buy a Ticket
     #   link: /tickets
     # - text: See the Speakers
@@ -37,12 +37,12 @@ buttons:
     # - text: Conference recap
     #   link: /news/thanks-recap
   bottom:
-    - text: Welcome to our conference
-      link: /news/welcome
+    # - text: Welcome to our conference
+    #   link: /news/welcome
     - text: Sponsor us
       link: /sponsors/prospectus
-    # - text: Submit a Talk
-    #   link: /cfp
+    - text: Submit a Talk
+      link: /cfp
     # - text: Buy a Ticket!
     #   link: /tickets
     # - text: See the Schedule
