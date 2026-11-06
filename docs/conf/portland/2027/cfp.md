@@ -26,36 +26,36 @@ Mark your calendars:
 <div class="key-dates">
   <ol class="key-dates-list">
     <li>
-      <span class="key-date">{{ cfp.ends|replace(', ' ~ year, '') }}</span>
+      <span class="key-date">{{ cfp.ends|without_year }}</span>
       Proposals due by 11:59 PM {{ tz }}
     </li>
     <li>
-      <span class="key-date">{{ cfp.notification|replace(', ' ~ year, '') }}</span>
+      <span class="key-date">{{ cfp.notification|without_year }}</span>
       Speakers notified
     </li>
     {%- if cfp.schedule_announced %}
     <li>
-      <span class="key-date">{{ cfp.schedule_announced|replace(', ' ~ year, '') }}</span>
+      <span class="key-date">{{ cfp.schedule_announced|without_year }}</span>
       Schedule announced
     </li>
     {%- endif %}
     {%- if cfp.speaker_tickets_by == cfp.video_by %}
     <li>
-      <span class="key-date">{{ cfp.speaker_tickets_by|replace(', ' ~ year, '') }}</span>
+      <span class="key-date">{{ cfp.speaker_tickets_by|without_year }}</span>
       Pre-recorded talks due
     </li>
     {%- else %}
     <li>
-      <span class="key-date">{{ cfp.speaker_tickets_by|replace(', ' ~ year, '') }}</span>
+      <span class="key-date">{{ cfp.speaker_tickets_by|without_year }}</span>
       Additional speaker info due
     </li>
     <li>
-      <span class="key-date">{{ cfp.video_by|replace(', ' ~ year, '') }}</span>
+      <span class="key-date">{{ cfp.video_by|without_year }}</span>
       Pre-recorded talks due
     </li>
     {%- endif %}
     <li>
-      <span class="key-date">{{ cfp.slides_by|replace(', ' ~ year, '') }}</span>
+      <span class="key-date">{{ cfp.slides_by|without_year }}</span>
       Slides due for our captioners
     </li>
     <li>
