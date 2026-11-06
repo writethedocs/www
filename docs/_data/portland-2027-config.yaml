@@ -12,53 +12,11 @@ rgb: 234,104,82
 rgb_contrast: 117,17,0 # if the main color has sufficient contrast against white text, set this to the same value as rgb
 time_format: 12h
 
-buttons:
-  top:
-    - text: Date and ticket information
-      link: /news/welcome
-    # - text: Sponsor the Conference
-    #  link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
-    # - text: Buy a Ticket
-    #   link: /tickets
-    # - text: See the Speakers
-    #   link: /speakers
-    # - text: See the Schedule!
-    #   link: /schedule
-    # - text: Attendee Guide
-    #   link: /attendee-guide
-    # - text: Watch the Live Stream
-    #   link: /livestream
-    # - text: Browse the photos
-    #   link_absolute: TBD
-    # - text: Watch the videos!
-    #   link_absolute: TBD
-    # - text: Conference recap
-    #   link: /news/thanks-recap
-  bottom:
-    # - text: Welcome to our conference
-    #   link: /news/welcome
-    - text: Sponsor us
-      link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
-    # - text: Buy a Ticket!
-    #   link: /tickets
-    # - text: See the Schedule
-    #   link: /schedule
-    # - text: See the Talks
-    #   link: /speakers
-    # - text: Read the Guide
-    #   link: /attendee-guide
-    # - text: Watch the Live Stream
-    #   link: /livestream
-    # - text: Browse the photos
-    #   link_absolute: TBD
-    # - text: Watch the videos!
-    #   link_absolute: TBD
-    # - text: Conference recap
-    #   link: /news/thanks-recap
+# The hero and footer buttons are picked from the flags below
+# (_templates/conference/buttons.html). After the conference they link the
+# videos and photos set here.
+videos:
+  playlist: ""  # YouTube playlist, once the videos are up
 
 # Ticket prices carried over from 2026 until the 2027 prices are confirmed.
 tickets:
@@ -114,6 +72,7 @@ date: # how do we handle these? human readable would be nice.
   short: May 2-4, 2027
   tickets_live: "December 2026"
   month: May
+  ends: 2027-05-04  # Last day; the site switches to post-conference the day after
 
   # Conference is special for the index to show the combined conference days
   conference:
@@ -247,6 +206,7 @@ sponsors:
 # Photos are from Write the Docs Portland 2026 at Revolution Hall, this
 # year's venue, in _static/conf/images/photos/ (see _data/community.yaml).
 photos:
+  album: ""  # Flickr album, once the photos are up
   default:
     - _static/conf/images/photos/unconference-circle-55273867859.jpg
     - _static/conf/images/photos/writing-day-laptops-55246770841.jpg
@@ -270,7 +230,7 @@ flaghasschedule: False
 flaghasshirts: False
 flaglivestreaming: False
 flagvideos: False
-flagpostconf: False
+# flagpostconf is set from date.ends at build time; set it here to override.
 
 # Truthy things that don't change
 flaghasunconf: True
