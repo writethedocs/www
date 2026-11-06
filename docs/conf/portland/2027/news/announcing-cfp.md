@@ -1,32 +1,33 @@
 ---
 template: {{year}}/generic.html
-banner: _static/conf/images/headers/portland-2024-speakers.jpg
-og:image: _static/conf/images/headers/portland-2024-speakers.jpg
+og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
 ```{post} Nov 5, 2026
-:tags: {{shortcode}}-{{year}}, website, cfp, tickets
+:tags: {{shortcode}}-{{year}}, website, cfp
 ```
 
 # Announcing the Call for Proposals
 
-We're happy to announce our Portland [Call for Proposals](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/)!
+We hope you're getting excited for [Write the Docs {{ city }} {{ year }}](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/) – we certainly are! It's shaping up to be another wonderful year full of great conversations and interesting talks.
 
-Our updated [sponsorship prospectus](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/) is already out. The full conference website and tickets will be live soon.
+Today we are announcing our [Call for Proposals](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/). Our [sponsorship prospectus](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/) is already out, and ticket sales and the Opportunity Grant program open in {{ date.tickets_live }}.
 
-Read on for more details about getting involved this year.
+Read on for more details about speaking this year.
 
 ## Call for Proposals
 
 Speaking at Write the Docs is a fantastic way to share your ideas with our welcoming community of documentarians.
 
-If there's something you'd really like to see a talk on this year, submit a proposal, or send the submission link to someone else you would like to hear from!
+If there's something you'd really like to see a talk on this year, submit a proposal, or send the submission link to someone else you would like to hear from.
 
-We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you!
+We're looking for ideas and use-cases from all disciplines and roles, so whether you're a technical writer, developer, UX designer, community manager, or support professional who cares about content and communication, we want to hear from you.
 
-We're looking for talk proposals to be delivered in-person, on-stage in {{ city }}, on {{ date.short }}.
+We're looking for talk proposals to be delivered in-person, on-stage in {{ city }}, on {{ date.short|replace(', ' ~ year, '') }}.
 
-Like last year, we're also accepting a limited number of pre-recorded talks from remote speakers, so if you can't make it to {{city}} on {{ date.short }} you can still submit your proposal. Due to logistical challenges we've decided not to have Q&A for remote talks.
+Like last year, we're also accepting a limited number of pre-recorded talks from remote speakers, so if you can't make it to {{city}} on {{ date.short|replace(', ' ~ year, '') }} you can still submit your proposal. Due to logistical challenges we've decided not to have Q&A for remote talks.
+
+We encourage you to read the call carefully, to improve your chances of being accepted. In particular, see our notes about AI-centered proposals, and check out our [example proposal](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/example-proposal/) so you know what we expect to see in each field.
 
 Read our full [Call for Proposals](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/cfp/) before submitting:
 
@@ -37,29 +38,19 @@ Submit your talk
 
 The Call for Proposals will be open until **11:59 PM {{cfp.ends}} PST**, so harness that new year energy! Or get it in before the end of year break, if you're less of a last minute person. 😄
 
-## Sponsorship prospectus
+## Key dates
 
-Our [sponsorship prospectus](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/) is updated for {{ year }}, with various improvements based on sponsor feedback.
+- **{{ cfp.ends }}**: Call for Proposals ends.
+- **{{ cfp.notification }}**: We'll let you know whether your proposal was accepted, and ask for some supplementary information about you.
+- **{{ date.conference.date }}**: Folks start giving talks on stage.
 
-Our sponsors are the folks building the tools and platforms that we use every day, and they help make Write the Docs conferences possible. If that sounds like your company, please consider joining us this year!
+## Speaker benefits
 
-## Tickets
+- Opportunity to share your views and perspectives with the community.
+- Waived attendance fee.
+- Supplemental financial support for travel, accommodations, or other costs. If speaking incurs any costs that are difficult for you to cover, [contact us](mailto:{{email}}) and we'll do our best to help out.
 
-Tickets will go on sale in {{ date.tickets_live }}, at the same prices as last year.
-
-In-person ticket:
-
-- **Student/Unemployed**: *{{tickets.student.price}}*
-- **Independent**: *{{tickets.independent.price}}*
-- **Corporate**: *{{tickets.corporate.price}}*
-
-Virtual tickets:
-
-- **Student/Unemployed Virtual**: *{{tickets.virtual_student.price}}*
-- **Independent Virtual**: *{{tickets.virtual_independent.price}}*
-- **Corporate Virtual**: *{{tickets.virtual_corporate.price}}*
-
-As always, we try to keep ticket prices low so that the event is accessible to the widest range of people. If you can't afford the tickets and still wish to attend, we will launch our grants program at the same time as tickets.
+We have an ever-growing pool of previous Write the Docs speakers, many of whom are happy to be a second pair of eyes on talk proposals. If you're interested in working with a past speaker, let us know at [{{ email }}](mailto:{{ email }}).
 
 ## Stay Updated
 
@@ -69,4 +60,8 @@ Want to connect with other documentarians before the conference? Join our [Slack
 
 ## Thanks
 
-We hope you will join us in person for yet another Write the Docs conference. We're going to make it a great event for attendees, speakers, and sponors!
+We hope you will join us in {{ city }} for the 15th annual Write the Docs conference. Whether as a speaker or attendee, you can bet it will be another delightful year.
+
+Looking forward to seeing y'all in {{ city }}!
+
+The Write the Docs Team
