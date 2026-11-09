@@ -130,7 +130,7 @@ about:
   venue_address: Lower Plaza, 1 Macarthur Street
   photos: TBD
   mainroom: Theatre
-  unconfroom: Breakout
+  unconfroom: Function Area
   projector_ratio: "16:9"
 
 cfp:
@@ -219,4 +219,4 @@ flaghassponsorexpo: False
 flaghasboat: False
 flaghasvisiting: True
 flaghasteam: True
-flaghasattendeeguide: False
+flaghasattendeeguide: True
