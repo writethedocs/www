@@ -7,12 +7,15 @@ banner: _static/conf/images/headers/berlin-2026-group-photo.jpg
 
 Updates from the team. More here as it happens!
 
-Want to receive conference and community updates?
-[Join our mailing list](/conf/{{ shortcode }}/{{ year }}/mailing-list/).
-
 ```{postlist} 100
 :date: "%A, %B %d, %Y"
 :format: "{date}{title}"
 :list-style: none
 :tags: "{{ shortcode }}-{{ year }}"
 ```
+
+## Join our mailing list
+
+Stay connected with the Write the Docs community! Our mailing lists send out messages 1-2 times a month, and your email won't be shared or used for any other purpose.
+
+{% include "conf/mailing-list.html" %}
