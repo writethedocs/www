@@ -2,7 +2,7 @@
 og:image: _static/logo-opengraph.png
 ---
 
-```{post} November 5, 2026
+```{post} November 9, 2026
 ---
 tags: newsletter
 author: Aaron Collier
