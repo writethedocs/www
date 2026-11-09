@@ -269,7 +269,8 @@ def newsletter_issues(blog, env, count=3):
 
 
 # Sections that end most conference news posts, left out of their topics.
-NEWS_REGULARS = {'stay updated', 'conclusion'}
+NEWS_REGULARS = {'stay updated', 'conclusion', 'thanks'}
+NEWS_REGULAR_PREFIXES = ('see you',)
 
 
 def latest_posts(blog, env, tag, count=3):
@@ -287,7 +288,11 @@ def latest_posts(blog, env, tag, count=3):
         topics = [item[0].astext() for item in sections]
         posts.append({
             'post': post,
-            'topics': [t for t in topics if t.strip().lower() not in NEWS_REGULARS],
+            'topics': [
+                t for t in topics
+                if t.strip().lower() not in NEWS_REGULARS
+                and not t.strip().lower().startswith(NEWS_REGULAR_PREFIXES)
+            ],
         })
         if len(posts) == count:
             break
