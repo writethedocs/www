@@ -7,6 +7,9 @@ banner: _static/conf/images/headers/berlin-2026-group-photo.jpg
 
 Updates from the team. More here as it happens!
 
+Want to receive conference and community updates?
+[Join our mailing list](/conf/{{ shortcode }}/{{ year }}/mailing-list/).
+
 ```{postlist} 100
 :date: "%A, %B %d, %Y"
 :format: "{title} - {date}"

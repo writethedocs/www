@@ -7,3 +7,6 @@ template: {{year}}/generic.html
 Stay connected with the Write the Docs community! Our mailing lists send out messages 1-2 times a month, and your email won't be shared or used for any other purpose.
 
 {% include "conf/mailing-list.html" %}
+
+Want to find out what's happening with the conference? Catch up on the
+[news](/conf/{{ shortcode }}/{{ year }}/news/) from the team.

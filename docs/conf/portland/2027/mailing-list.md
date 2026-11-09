@@ -8,3 +8,6 @@ Stay connected with the Write the Docs community! Our mailing lists send out mes
 
 {% include "conf/mailing-list.html" %}
 <hr>
+
+Want to find out what's happening with the conference? Catch up on the
+[news](/conf/{{ shortcode }}/{{ year }}/news/) from the team.
