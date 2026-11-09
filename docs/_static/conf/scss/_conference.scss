@@ -75,6 +75,46 @@ body .page-content ul {
 
 }
 
+// News pages: ablog's post list, laid out like the blog page's post lists:
+// the date in small muted text above a bold title, with a rule between
+// posts. The list's format is "{date}{title}", so each item's paragraph
+// holds the date as text and the title as its link.
+body .page-content ul.postlist {
+    padding-left: 0;
+    margin: 0 0 20px;
+    list-style: none;
+
+    > li {
+        margin: 0;
+        padding: 12px 0;
+        border-bottom: 1px solid $line-color;
+    }
+
+    p {
+        display: block;
+        margin: 0;
+    }
+
+    .ablog-post-title {
+        color: $muted-color;
+        font-size: 15px;
+
+        a, a:visited, a:link {
+            display: block;
+            border-bottom: 0;
+            color: $black;
+            font-size: 19px;
+            font-weight: $bold;
+            line-height: 1.3;
+        }
+
+        a:hover {
+            border-bottom: 0;
+            color: $main-color;
+        }
+    }
+}
+
 body h2, body .page-content h2 {
     color: $black;
     font-weight: $bold;

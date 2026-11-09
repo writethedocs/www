@@ -12,7 +12,7 @@ Want to receive conference and community updates?
 
 ```{postlist} 100
 :date: "%A, %B %d, %Y"
-:format: "{title} - {date}"
+:format: "{date}{title}"
 :list-style: none
 :tags: "{{ shortcode }}-{{ year }}"
 ```
