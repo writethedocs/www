@@ -12,15 +12,6 @@ Every year, Write the Docs invites people from all across our community to come 
 
 {% if flagcfp %}
 
-In the meantime, mark your calendars:
-
-- **Deadline: {{cfp.ends}} at 11:59 PM {{tz}}**
-- **Acceptance emails: by {{cfp.notification}}**
-
-{% else %} We will announce the CFP dates soon. {% endif %}
-
-{% if flagcfp %}
-
 Ready to submit your talk? You can do that here:
 
 ```{button-link} {{ cfp.url }}
@@ -28,69 +19,105 @@ Ready to submit your talk? You can do that here:
 Submit your proposal
 ```
 
-{% endif %}
+## Key dates
+
+Mark your calendars:
+
+<div class="key-dates">
+  <ol class="key-dates-list">
+    <li>
+      <span class="key-date">{{ cfp.ends|without_year }}</span>
+      Proposals due by 11:59 PM {{ tz }}
+    </li>
+    <li>
+      <span class="key-date">{{ cfp.notification|without_year }}</span>
+      Speakers notified
+    </li>
+    {%- if cfp.schedule_announced %}
+    <li>
+      <span class="key-date">{{ cfp.schedule_announced|without_year }}</span>
+      Schedule announced
+    </li>
+    {%- endif %}
+    {%- if cfp.speaker_tickets_by == cfp.video_by %}
+    <li>
+      <span class="key-date">{{ cfp.speaker_tickets_by|without_year }}</span>
+      Pre-recorded talks due
+    </li>
+    {%- else %}
+    <li>
+      <span class="key-date">{{ cfp.speaker_tickets_by|without_year }}</span>
+      Additional speaker info due
+    </li>
+    <li>
+      <span class="key-date">{{ cfp.video_by|without_year }}</span>
+      Pre-recorded talks due
+    </li>
+    {%- endif %}
+    <li>
+      <span class="key-date">{{ cfp.slides_by|without_year }}</span>
+      Slides due for our captioners
+    </li>
+    <li>
+      <span class="key-date">{{ date.conference.date }}</span>
+      Speaker talks
+    </li>
+  </ol>
+</div>
+
+{% else %} We will announce the CFP dates soon. {% endif %}
 
 ## Conference goals
 
-Write the Docs conferences are our opportunity to get together to explore and celebrate the craft of documentation in a positive, inclusive environment.
+Write the Docs conferences are our opportunity to get together to explore and celebrate the craft of documentation in a positive, inclusive environment. **Our goal is to give documentarians a chance to connect and learn from each other.**
 
-**Our goal is to give documentarians a chance to connect and learn from each other.**
-
-Between the talks on stage, the discussions in the Unconference, the collaboration on Writing Day and other conversations, 100% of the content for our conferences comes from our community! Your perspective on what makes good docs is what this conference is all about.
-
-You'll have the chance to compare notes on what's happening in the industry, dig into questions of convention and good practice, and generally nerd out about all the things we love about documentation.
+Between the talks on stage, the discussions in the Unconference, the collaboration on Writing Day and other conversations, 100% of the content for our conferences comes from our community! Your perspective on what makes good docs is what this conference is all about. You'll have the chance to compare notes on what's happening in the industry, dig into questions of convention and good practice, and generally nerd out about all the things we love about documentation.
 
 ## Who we're looking for
 
-The short description here is "if you care about documentation and have something to say about it, we want you to speak"!
+The short description here is "if you care about documentation and have something to say about it, we want you to speak"! That said, there are some more helpful and concrete pointers below.
 
-That said, there are some more helpful and concrete pointers below.
+### Diverse group of speakers
 
-**Diverse group of speakers**
+We welcome first-time speakers, industry experts, and everyone in between. We especially welcome talks from underrepresented groups within the tech community. We want to hear a variety of viewpoints, so we limit speakers to two talks in any four year period at each location.
 
-We welcome first-time speakers, industry experts, and everyone in between. We especially welcome talks from underrepresented groups within the tech community.
+### Number of speakers
 
-We want to hear a variety of viewpoints, so we limit speakers to two talks in any four year period at each location.
+We prefer talks *presented* by one *single speaker*. If you're planning to submit with a co-speaker, please let us know why, and take note that it will affect the chances of your talk being selected. You are of course welcome to write the talk with other people, if only one person is presenting.
 
-**Number of speakers**
-
-We prefer talks *presented* by one *single speaker*. If you're planning to submit with a co-speaker, please let us know why, and take note that it will affect the chances of your talk being selected.
-
-You are of course welcome to write the talk with other people, if only one person is presenting.
-
-**Mix of roles and perspectives**
+### Mix of roles and perspectives
 
 Talks from the scientific community, fiction writers, system administrators, and support staff – as well as technical writers and software developers – all are valuable to our attendees.
 
 ## What we’re looking for
 
-**Broad topics**
+### Broad topics
 
 The focus of Write the Docs is software documentation, and we actively seek talks that address a wide range of related subjects, at various levels of expertise. Documentation perspectives from other fields are welcome, as are topics from adjacent fields!
 
-**Practicality and positivity**
+### Practicality and positivity
 
 We prefer talks backed by experience and experimentation to talks about theory, and we definitely don't like talks that bad-mouth technologies or approaches. Don't tell us why you hate something – tell us how you overcame the problems it was causing.
 
-**Process over tooling**
+### Process over tooling
 
 We tend to avoid talks about specific tooling, which often turn into marketing pitches or tutorials. We would much rather hear about process, culture, data, people, or the metaphysical side effects of spending your life thinking about docs.
 
-**AI**
+### AI
 
 We're excited to have great AI related talks on the programme, but will be capping the number of talks that focus on AI, to leave space for other topics. While AI is a subject in our community and therefore also at our conferences, we get a huge number of AI proposals. The challenge with those proposals is that the review team aims to select talks that can provide lasting value, but that is inherently difficult with rapidly developing technology. Additionally, we feel we have a responsibility to balance talking about the potential of AI with the very real ethical and environmental concerns that come with it.
 
 For these reasons, submitting about an AI topic without showing us that you have considered these concerns might reduce your chances of being accepted. Conversely, demonstrating a community-centred attitude can help your chances if you choose to submit a talk about AI.
 
-**New ideas**
+### New ideas
 
 This isn't a hard and fast rule, but we're more likely to include talks on topics that have not been covered before than talks that have been touched on in multiple recent conferences.
 
-**Benefit to the community**
+### Benefit to the community
 
 How does your talk help improve the quality of documentation everywhere? Are you trying a new approach? Are you solving a known problem? Have you done the research into how folks have tried to solve your issue before?
 
-**Audience awareness**
+### Audience awareness
 
 When crafting talk proposals, remember that you're going to be speaking to a mix of levels of expertise, skill sets, and professions. Your talk doesn't have to be relevant to everyone, but it should be relevant to most people and shouldn't make too many assumptions about what people already know. If you are making assumptions about what your audience knows, state them up front explicitly.
 
@@ -110,7 +137,7 @@ Make sure you read this entire page before putting your proposal together, and p
 - **Tooling** – We're pretty serious about preferring talks about people, process or principles than talks about tooling. If you are submitting a proposal about tooling, tell us what makes this one special.
 - **Example proposal** – Check out our [example proposal](../example-proposal/) so you know what we expect to see in each field.
 
-## Unsure about speaking?
+### Unsure about speaking?
 
 Don't worry too much about whether we will accept your talk proposal. We encourage you to submit it anyway! You may be unsure if your topic is a good fit, whether you have enough speaking experience, or if someone else might give a better talk on your topic, but that does not mean you don't have valuable and awesome insights to share.
 
@@ -122,60 +149,28 @@ If you need a hand preparing or honing your talk proposal, there are lots of goo
 
 ## Selection process
 
-We have a small panel of proposal reviewers. We ensure that the diversity in the panel reflects who we aim to have as speakers.
-
-Proposals are rated on a scale of five, after which we meet and discuss the top-rated submissions in detail.
-
-To actively promote diversity, we choose not to review talks anonymously, allowing us to intentionally balance various perspectives and backgrounds.
+We have a small panel of proposal reviewers. We ensure that the diversity in the panel reflects who we aim to have as speakers. Proposals are rated on a scale of five, after which we meet and discuss the top-rated submissions in detail. To actively promote diversity, we choose not to review talks anonymously, allowing us to intentionally balance various perspectives and backgrounds.
 
 {% if flagcfp %}
 
 ## Speaker benefits
 
 - Opportunity to share your views and perspectives with the community!
-- Waived attendance fee.
+- Waived attendance fee. If you already have a ticket, we will of course refund it - just drop us an email at [{{email}}](mailto:{{email}}).
 - Supplemental financial support for travel, accommodations, or other costs. If speaking incurs any costs that are difficult for you to cover, [contact us](mailto:{{email}}) and we'll do our best to help out.
-
-If you already have a ticket, we will of course refund it - just drop us an email at [{{email}}](mailto:{{email}}).
 
 ## Speaker logistics
 
-We're showing a few pre-recorded talks with live Q&A from remote speakers for our conference on **{{date.short}}**.
+Both in-person and pre-recorded talks are 30 minutes long, and in-person talks are followed by a few minutes of moderated Q&A immediately after the presentation.
 
 - We'll accept a **maximum of two** pre-recorded talks, which will need to be uploaded around one month before the conference. Because there are only two slots, submitting a remote proposal does reduce the likelihood of your talk being accepted.
 - All other talks will be delivered **in-person, on-stage, live in {{city}}**.
 
-Both in-person and pre-recorded talks are 30 minutes long, followed by a few minutes of moderated Q&A immediately after the presentation.
-
 All Speakers must read, understand, and agree to our [Code of Conduct](/code-of-conduct/). All talks and slides must follow our Code of Conduct. If you are unsure about any aspect of this, please ask us for clarification.
-
-## Timeline overview
-
-**{{cfp.ends}}**  
-Call for Proposal ends
-
-**{{cfp.notification}}**  
-We'll let you know whether your proposal was accepted, and ask for some supplementary information about you. Make sure to confirm your talk as soon as you get the email.
-
-**{{cfp.speaker_tickets_by}}**  
-Register for speaker ticket (with dietary preferences, hoodie size, etc.)
-
-**{{cfp.video_by}}**  
-Upload date for recorded talks (remote speakers)
-
-**{{cfp.slides_by}}**  
-We'll ask for a copy of your slides so our human captioners can prepare for your talk
-
-**{{date.short}}**  
-Folks start giving talks on stage!
-
-## Example proposal
-
-Take a look at our [Example proposal](../example-proposal/), with additional guidance on the proposal format:
 
 ## Submit your proposal
 
-Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx account, unless you already have one from a previous conference.
+Submit your proposal at [{{ cfp.url }}]({{ cfp.url }}). You'll need to sign up for a Pretalx account, unless you already have one from a previous conference.
 
 ```{button-link} {{ cfp.url }}
 :year: {{ year }}
