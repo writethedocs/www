@@ -134,7 +134,7 @@ sorted_upcoming_events = sorted(upcoming_events, key=lambda upcoming_event: upco
 # Turn into newsletter format
 upcoming_event_links = []
 for upcoming_event in sorted_upcoming_events:
-    upcoming_event_links.append(f"- {upcoming_event['date'].strftime('%-d %b, %H:%M')} {upcoming_event['date'].astimezone(tz=tz.gettz(upcoming_event['timezone'])).tzname()} ({upcoming_event['location']}): `{upcoming_event['title']} <{upcoming_event['url']}>`__")
+    upcoming_event_links.append(f"- {upcoming_event['date'].strftime('%-d %b, %H:%M')} {upcoming_event['date'].astimezone(tz=tz.gettz(upcoming_event['timezone'])).tzname()} ({upcoming_event['location']}): [{upcoming_event['title']}]({upcoming_event['url']})")
 
 print('\n'.join(upcoming_event_links))
 
