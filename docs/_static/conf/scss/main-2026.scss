@@ -101,6 +101,72 @@ body .page-content ul.postlist {
     }
 }
 
+// The latest posts at the top of a news page, as cards like the newsletter
+// page's: the date, the title, the post's section titles, and a label.
+body .page-content ul.news-latest {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 210px), 1fr));
+    gap: 16px;
+    margin: 0 0 32px;
+    padding: 0;
+    list-style: none;
+
+    > li {
+        margin: 0;
+    }
+
+    a, a:visited, a:link {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        box-sizing: border-box;
+        padding: 20px;
+        border: 1px solid #e4e5e6;
+        border-radius: 10px;
+        background: $white;
+        color: $copy-color;
+        transition: box-shadow 0.15s, transform 0.15s;
+    }
+
+    a:hover {
+        border-bottom: 1px solid #e4e5e6;
+        box-shadow: 0 10px 30px rgba(19, 37, 48, 0.12);
+        transform: translateY(-2px);
+    }
+
+    time {
+        color: #5f6368;
+        font-size: 15px;
+    }
+
+    strong {
+        margin-top: 4px;
+        color: $black;
+        font-size: 20px;
+        line-height: 1.3;
+    }
+
+    ul {
+        flex: 1;
+        margin: 12px 0 16px;
+        padding-left: 18px;
+
+        li {
+            margin: 0 0 6px;
+            font-size: 15px;
+            line-height: 1.4;
+        }
+    }
+}
+
+.news-latest__cta {
+    color: $black;
+    font-size: 14px;
+    font-weight: $bold;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
 body h2, body .page-content h2 {
     color: $black;
     font-weight: $bold;

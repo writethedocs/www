@@ -1,0 +1,31 @@
+{#-
+  A conference's news page (conf/<city>/<year>/news/index.md), like the
+  newsletter page: the latest posts as cards, then the page's own text, which
+  holds the mailing list form and the list of every post. The page marks
+  where the cards go with <!-- news-latest -->. latest_posts() in
+  _ext/community.py finds the posts by the conference's tag, with the
+  topics each covers: its section titles.
+-#}
+{%- extends "conference/generic.html" %}
+
+{%- block body %}
+{%- set latest %}
+<ul class="news-latest">
+  {%- for item in latest_posts(shortcode ~ '-' ~ year_str) %}
+  <li>
+    <a href="{{ pathto(item.post.docname) }}">
+      <time datetime="{{ item.post.date.strftime('%Y-%m-%d') }}">{{ item.post.date.strftime('%B') }} {{ item.post.date.day }}, {{ item.post.date.year }}</time>
+      <strong>{{ item.post }}</strong>
+      <ul>
+        {%- for topic in item.topics[:4] %}
+        <li>{{ topic }}</li>
+        {%- endfor %}
+      </ul>
+      <span class="news-latest__cta">Read the post</span>
+    </a>
+  </li>
+  {%- endfor %}
+</ul>
+{%- endset %}
+{{ body | replace('<!-- news-latest -->', latest) }}
+{%- endblock %}

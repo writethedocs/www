@@ -268,10 +268,37 @@ def newsletter_issues(blog, env, count=3):
     return issues
 
 
+# Sections that end most conference news posts, left out of their topics.
+NEWS_REGULARS = {'stay updated', 'conclusion'}
+
+
+def latest_posts(blog, env, tag, count=3):
+    """
+    The latest posts with a tag, for the cards at the top of a conference's
+    news page, each with the topics it covers: its section titles, less the
+    regular ones.
+    """
+    posts = []
+    for post in blog.posts:  # newest first
+        if not (post.published and tag in map(str, post.tags)):
+            continue
+        toc = env.tocs[post.docname]
+        sections = toc[0][1] if len(toc) and len(toc[0]) > 1 else []
+        topics = [item[0].astext() for item in sections]
+        posts.append({
+            'post': post,
+            'topics': [t for t in topics if t.strip().lower() not in NEWS_REGULARS],
+        })
+        if len(posts) == count:
+            break
+    return posts
+
+
 def add_page_context(app, pagename, templatename, context, doctree):
     """
     Add ``page_banner`` and ``community_nav`` to every page's context, and the
-    functions the blog and newsletter templates call for their posts.
+    functions the blog, newsletter and conference news templates call for
+    their posts.
 
     Conference pages pick their default banners from ``photos.default`` in
     their config, which core.py adds to the context; community pages from
@@ -286,10 +313,11 @@ def add_page_context(app, pagename, templatename, context, doctree):
     context['page_banner'] = banner
     ancestors = toctree_ancestors(getattr(app.builder, 'relations', {}), pagename)
     context['community_nav'] = page_nav(community, pagename, ancestors)
-    # Called by community/blog.html and community/newsletter.html, once the
-    # posts of every page are known.
+    # Called by community/blog.html, community/newsletter.html and
+    # conference/news.html, once the posts of every page are known.
     context['blog_listing'] = partial(blog_listing, context['ablog'], community, app.srcdir)
     context['newsletter_issues'] = partial(newsletter_issues, context['ablog'], app.env)
+    context['latest_posts'] = partial(latest_posts, context['ablog'], app.env)
 
 
 def setup(app):
