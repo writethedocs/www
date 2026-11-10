@@ -283,7 +283,10 @@ section > h1 {
 
   {% if body %}
     {% block body %}
-      {{ body }}
+      {#- The page's "Updates from the team" block marks where the latest
+          posts' cards go with <!-- news-latest -->, as the news page does. #}
+      {%- set latest %}{% include "conference/news-latest.html" %}{% endset %}
+      {{ body | replace('<!-- news-latest -->', latest) }}
     {% endblock body %}
   {% endif %}
   </div>

@@ -101,9 +101,11 @@ body .page-content ul.postlist {
     }
 }
 
-// The latest posts at the top of a news page, as cards like the newsletter
+// A conference's latest posts, at the top of its news page and in the
+// front page's "Updates from the team" band, as cards like the newsletter
 // page's: the date, the title, the post's section titles, and a label.
-body .page-content ul.news-latest {
+body .page-content ul.news-latest,
+.news-block ul.news-latest {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(min(100%, 210px), 1fr));
     gap: 16px;
@@ -165,6 +167,13 @@ body .page-content ul.news-latest {
     font-weight: $bold;
     letter-spacing: 0.05em;
     text-transform: uppercase;
+}
+
+// The link to the news page under the front page's cards.
+.news-block__more {
+    margin: 0;
+    font-size: 15px;
+    font-weight: $bold;
 }
 
 body h2, body .page-content h2 {
@@ -731,11 +740,6 @@ body .uk-offcanvas-slide a.uk-button-ghost {
 
     .uk-container {
         padding: 48px 24px;
-
-        // Remove paragraph margins in news list items to fix double-spacing
-        .postlist .ablog-post p {
-            margin: 0;
-        }
 
         a:hover {
             text-decoration: none;

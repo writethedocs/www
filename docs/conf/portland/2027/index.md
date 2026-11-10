@@ -13,17 +13,10 @@ myst:
 <div class="news-block">
 <div class="uk-container">
 <h2>Updates from the team</h2>
-<section>
-<div class="content">
 
-```{postlist} 10
-:date: "%B %d, %Y"
-:format: "{title} - {date}"
-:list-style: none
-:tags: portland-2027
-```
+<!-- news-latest -->
 
-</div>
-</section>
+<p class="news-block__more"><a href="/conf/{{ shortcode }}/{{ year }}/news/">All news</a></p>
+
 </div>
 </div><!--- end news block -->
