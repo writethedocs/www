@@ -38,11 +38,11 @@ Join the waiting list
 
 {% else %}
 
-Tickets are not on sale yet. They will be available in {{ date.tickets_live }}, for our {{ year }} conference in {{ city }} on {{ date.main }}. Join our mailing list to hear when they go on sale:
+**Tickets are not on sale yet.** They will be available in {{ date.tickets_live }}, for our {{ year }} conference in {{ city }} on {{ date.main }}.
 
 ```{button-link} /conf/{{shortcode}}/{{year}}/mailing-list/
 :year: {{ year }}
-Join the mailing list
+Hear about tickets on the mailing list
 ```
 
 {% endif %}
