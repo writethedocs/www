@@ -1,4 +1,5 @@
 {% extends "conference/base.html" %}
+{% from "conference/buttons.html" import conference_buttons with context %}
 {% from year_str ~ "/navbar.html" import navbar_items, offcanvas_items with context %}
 
 {% block full_title %}
@@ -65,11 +66,7 @@ section > h1 {
 
         <div class="ctas-block">
 
-         {% if buttons is defined and buttons.top %}
-         <div style="display:flex; flex-direction:inherit; flex-wrap:nowrap; gap:12px; justify-content:inherit; align-items:stretch;">{% for callout in buttons.top %}
-           {{ button_link(callout.link_absolute or pathto('conf/' + shortcode + '/' + year_str + callout.link), callout.text, year, wrap=False, new_tab=False, contrast=True) }}
-         {% endfor %}</div>
-         {% endif %}
+         {{ conference_buttons('top') }}
 
         </div>
       </div>

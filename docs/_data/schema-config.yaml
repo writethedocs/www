@@ -23,7 +23,8 @@ cobrand: include('cobrand-details', required=False)
 
 photos: include('photo-default')
 
-buttons: include('buttons')
+buttons: include('buttons', required=False)
+videos: include('videos-details', required=False)
 
 tickets: include('ticket-details')
 
@@ -64,7 +65,7 @@ flaghascommunityday: bool(required=False)
 flagwelcomewagon: bool(required=False)
 flaglivestreaming: bool()
 flagvideos: bool()
-flagpostconf: bool()
+flagpostconf: bool(required=False)  # From 2027 on, set from date.ends when left out
 flagcancelled: bool(required=False)
 flagisvirtual: bool(required=False)
 
@@ -89,6 +90,10 @@ flaghasteam: bool(required=False)
 photo-default:
   default: any(str, list)
   index: any(str, list, required=False)
+  album: str(required=False)
+
+videos-details:
+  playlist: str(required=False)
 
 cobrand-details:
   brand: str()
@@ -130,6 +135,7 @@ date-details:
   short: str()
   tickets_live: str()
   month: str()
+  ends: day(required=False)
   conference: include('day-details')
   day_one: include('day-details', required=False)
   day_two: include('day-details', required=False)
