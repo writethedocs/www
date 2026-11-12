@@ -1,0 +1,47 @@
+<div class="ticket">
+  <h2>
+    <strong>Virtual Student/Unemployed</strong>: <em>{{tickets.virtual_student.price}}</em>
+  </h2>
+  <p>
+    Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
+  </p>
+  {% if flagticketsonsale %}
+  <ul>
+    <li>
+      <a href="https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}">Buy Virtual Student or Unemployed Ticket</a>
+    </li>
+  </ul>
+  {% endif %}
+</div>
+
+<div class="ticket">
+  <h2>
+    <strong>Virtual Independent</strong>: <em>{{tickets.virtual_independent.price}}</em>
+  </h2>
+  <p>
+    Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with fewer than 10 employees.
+  </p>
+  {% if flagticketsonsale %}
+  <ul>
+    <li>
+      <a href="https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}">Buy Virtual Independent Ticket</a>
+    </li>
+  </ul>
+  {% endif %}
+</div>
+
+<div class="ticket">
+  <h2>
+    <strong>Virtual Corporate</strong>: <em>{{tickets.virtual_corporate.price}}</em>
+  </h2>
+  <p>
+    Purchase this ticket if a company is paying for your attendance.
+  </p>
+  {% if flagticketsonsale %}
+  <ul>
+    <li>
+      <a href="https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}">Buy Virtual Corporate Ticket</a>
+    </li>
+  </ul>
+  {% endif %}
+</div>
