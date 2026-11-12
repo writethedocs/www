@@ -19,7 +19,7 @@ Our goal is to have a balance between first-time and experienced speakers.
 
 ## Schedule
 
-**Date: {{date.day_three.dotw}}, {{date.day_three.date}} and {{date.day_four.dotw}}, {{date.day_four.date}} after lunch**
+**Date: {{date.talk_days[0].dotw}}, {{date.talk_days[0].date}} and {{date.talk_days[1].dotw}}, {{date.talk_days[1].date}} after lunch**
 
 See the [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page for exact times.
 

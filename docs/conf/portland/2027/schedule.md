@@ -16,71 +16,12 @@ Write the Docs is more than a conference. Each year we organize a wide range of 
 
 All times are in [{{ tz }}](https://time.is/{{ tz | replace(' ', '_') }}).
 
-{% if flaghashike or flaghasboat %}
-
-## {{date.day_one.dotw}}, {{date.day_one.date}}
-
-{% if flaghasschedule %}
-
-```{raw} html
-{% with day_schedule=schedule.outing %}
-{% include "include/schedule2026.md" %}
-{% endwith %}
+```{contents}
+:local:
+:depth: 1
+:backlinks: none
 ```
 
-{% endif %}
-
-{% endif %}
-
-<hr>
-
-## {{date.day_two.dotw}}, {{date.day_two.date}}
-
-{% if flaghasschedule %}
-
-```{raw} html
-{% with day_schedule=schedule.writing_day %}
-{% include "include/schedule2026.md" %}
-{% endwith %}
-```
-
-{% else %}  
-A detailed schedule will be announced soon.
-
-{% endif %}
-
-<hr>
-
-## {{date.day_three.dotw}}, {{date.day_three.date}}
-
-{% if flaghasschedule %}
-
-```{raw} html
-{% with day_schedule=schedule.talks_day1 %}
-{% include "include/schedule2026.md" %}
-{% endwith %}
-```
-
-{% else %}  
-A detailed schedule will be announced soon.
-
-{% endif %}
-
-<hr>
-
-## {{date.day_four.dotw}}, {{date.day_four.date}}
-
-{% if flaghasschedule %}
-
-```{raw} html
-{% with day_schedule=schedule.talks_day2 %}
-{% include "include/schedule2026.md" %}
-{% endwith %}
-```
-
-{% else %}  
-A detailed schedule will be announced soon.
-
-{% endif %}
+{% include "include/schedule-days.md" %}
 
 {% endif %}

@@ -164,8 +164,23 @@ section > h1 {
     <div class="uk-container" uk-grid>
       <h2>Schedule Overview</h2>
 
+      {% if date.days is defined %}
+      {# 2027 onwards: one card per day that isn't a talk day, then one card for
+         the talk days combined. A conference with nothing but talk days shows
+         each of them instead. #}
+      {% set other_days = date.days | rejectattr('kind', 'equalto', 'talks') | list %}
+      {% for day in (other_days if other_days else date.talk_days) %}
+      <div class="schedule-item uk-width-1-3@s">
+        <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/' + day.icon + '-' + color +  '.svg', 1) }}" alt="">
+        <h3>{{ day.event }} </h3>
+        <em>{{ day.date }} </em>
+        <p>{{ day.summary }} </p>
+      </div>
+      {% endfor %}
+      {% else %}
       {# In a four day conference day_one is a hike/social, day_two is writing day. #}
       {# In a three day conference (no day_one) day_two is writing day shown here. #}
+      {% set other_days = true %}
       {% if date.day_one is defined %}
       <div class="schedule-item uk-width-1-3@s">
         <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/' + date.day_one.icon + '-' + color +  '.svg', 1) }}" alt="">
@@ -183,9 +198,10 @@ section > h1 {
         <p>{{ date.day_two.summary }} </p>
       </div>
       {% endif %}
+      {% endif %}
 
-{% block schedule_conference %}
-      {% if date.conference is defined %}
+{% block schedule_conference scoped %}
+      {% if other_days and date.conference is defined %}
       <div class="schedule-item uk-width-1-3@s">
         <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/' + date.conference.icon + '-' + color +  '.svg', 1) }}" alt="" >
         <h3>{{ date.conference.event }} </h3>
