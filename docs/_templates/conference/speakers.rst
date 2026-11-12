@@ -13,7 +13,7 @@
       {% for speaker in talk.speakers %}
 
       <div class="speaker-info">
-        <img src="{{ speaker.slug|speaker_photo }}" class="speaker-picture" style="height: 6em; width: auto">
+        <img src="{{ speaker.slug|speaker_photo }}" class="speaker-picture" alt="" style="height: 6em; width: auto">
         <div class="speaker-contact-info" style="display: flex; align-items: center; justify-content: flex-end;">
             <h2 class="speaker-name" style="font-size: 24px; text-align: right;">{{ speaker.name }}</h2>
         </div>

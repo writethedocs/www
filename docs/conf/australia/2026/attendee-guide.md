@@ -18,7 +18,7 @@ The Welcome Wagon Team is available to make your conference experience better! S
 
 ## Conference Layout
 
-Review our [Venue](https://www.writethedocs.org/conf/australia/2024/venue/) page for details on the accessibility and layout of conference spaces.
+Review our [Venue](https://www.writethedocs.org/conf/australia/2026/venue/) page for details on the accessibility and layout of conference spaces.
 
 ## Eating
 
@@ -27,7 +27,7 @@ Review our [Venue](https://www.writethedocs.org/conf/australia/2024/venue/) page
   - Ingredients will be listed
   - Please email swapnil@writethedocs.org for other dietary requirements
 - Bring a water bottle to make it easier for you to stay hydrated.
-- There are many food and beverage options within 1 kms around the conference venue. Explore Melbourne's amazing food scene on the [Visiting Melbourne](https://www.writethedocs.org/conf/australia/2024/visiting/) page.
+- There are many food and beverage options within 1 kms around the conference venue. Explore Melbourne's amazing food scene on the [Visiting Melbourne](https://www.writethedocs.org/conf/australia/2026/visiting/) page.
 
 ## Dress Code
 
@@ -36,7 +36,7 @@ Review our [Venue](https://www.writethedocs.org/conf/australia/2024/venue/) page
 
 ## Driving and Parking
 
-If you drive to the conference, note that the venue does not have parking on-site. You are able to park in the nearby streets (hourly) or commercial  car parks. The nearest commercial parking is at Wilson Parking Park Hyatt and Wilson Parking Lansdowne Street, close to our conference venue. Be mindful that the venue is located in an extremely high-pedestrian traffic area, so finding on-street parking close to the venue for long hours may be a challenge.
+If you drive to the conference, note that the venue does not have parking on-site. You are able to park in the nearby streets (hourly) or use commercial car parks. The nearest commercial parking is at Wilson Parking Park Hyatt and Wilson Parking Lansdowne Street, close to our conference venue. Be mindful that the venue is located in an extremely high-pedestrian traffic area, so finding on-street parking close to the venue for long hours may be a challenge.
 
 The conference venue is located within a 5-minute walk of Parliament Train Station, and very close to tram lines that run along Collins, and Bourke Street, so public transport is definitely recommended.
 
@@ -47,40 +47,36 @@ The conference venue is located within a 5-minute walk of Parliament Train Stati
 
 ## Accessibility
 
-We are committed to hosting a conference that is accessible to everyone. Visit our [Accessibility section](https://www.writethedocs.org/conf/australia/2024/venue/) on the Venue page for more information.
+We are committed to hosting a conference that is accessible to everyone. Visit our [Accessibility section](https://www.writethedocs.org/conf/australia/2026/venue/) on the Venue page for more information.
 
 ![Group of people talking](/_static/img/2024/attendee-guide.jpg)
 
 ## How do I participate in the conference?
 
-### Speaker Talks
+### Speaker talks
 
 - Listen! Take notes of remarkable and thoughtful ideas.
 - After a talk, use something you heard as a conversation starter with your colleagues or even the speakers during a break.
 - Tweet about a talk when it's complete with the hashtag #writethedocs.
 
-### Unconference
+### Fishbowl session
 
-The [Unconference](https://www.writethedocs.org/conf/australia/2024/unconference/) consists attendee-driven sessions that provide the opportunity for anyone to lead, contribute, share ideas, and discuss ideas.
+The [Fishbowl](https://www.writethedocs.org/conf/australia/2026/fishbowl/) encourages attendees to lead, contribute, share ideas, and discuss ideas.
 
-- Join and attend an unconference session.
-- Sign up to lead a session.
+- Bring your opinions and be ready to defend them.
+- Sit back and soak in the collective wisdowm.
 
-### Lightning Talks
+### Lightning talks
 
 [Lightning Talks](https://www.writethedocs.org/conf/australia/2024/lightning-talks/) are short talks, up to 5 minutes, where you share an idea, concept, or a bit of information that you find interesting.
 
 - Sign up to give a talk! Sign up at the registration table.
 
-### Tales from the Trenches
-
-[Tales from the trenches](https://www.writethedocs.org/conf/australia/2024/tales/) is a slightly different concept we are trialing out this year, where we invite you to share your unique experiences and offer fresh perspectives on three broad topics to help spark ideas.
-
 ### Self-organised outing
 
 If you arrive a day or two earlier, explore the beautiful downtown attractions or join fellow documentarians for a walk and some fresh air!
 
-### Thursday Social Event
+### Thursday social event
 
 This is our main social event of the conference and held outside of the main venue. It is a time to connect with other attendees outside of the scheduled programming.
 
@@ -90,7 +86,6 @@ This is our main social event of the conference and held outside of the main ven
 
 - Before the conference, join the Write the Docs [Slack](https://www.writethedocs.org/slack/), and follow Write the Docs on [LinkedIn](https://www.linkedin.com/company/18284823/admin/feed/posts/) and [X, formerly known as Twitter](https://twitter.com/writethedocs).
 - Talk with people - attendees, volunteers, staff, and speakers. Don't forget to use Eric Holscher's [Pac-Man Rule](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/) to leave room for others to join! The most important part of this conference (and any conference) is the people you meet. Set a goal for yourself to meet a few new people.
-- Review the speaker schedule and choose which talks you want to attend the most. Spread out your time between talks, unconference sessions, networking, and breaks.
-- Starting Thursday morning, check the Unconference schedule to discover if there are any sessions you are interested in attending. New sessions are added all the time, so check back periodically.
-- Give yourself and your brain a break! Conferences are exhilarating, but can also be exhausting. Grab a quiet spot in the Foyer/Price Hall or take a quick walk.
+- Review the speaker schedule and choose which talks you want to attend the most. Spread out your time between talks, lightning talks, networking, and breaks.
+- Give yourself and your brain a break! Conferences are exhilarating, but can also be exhausting. Grab a quiet spot in the Function Area or take a quick walk in the nearby Treasury gardens.
 - Eat and drink! There will be tea or coffee available but there are many restaurants close by.

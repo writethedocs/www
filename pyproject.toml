@@ -27,6 +27,7 @@ dependencies = [
 # locally with `uv sync --group scripts`.
 [dependency-groups]
 scripts = [
+    "beautifulsoup4>=4.14.3",
     "csvkit",
     "matplotlib",
     "urllib3",
