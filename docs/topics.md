@@ -2,7 +2,7 @@
 banner: _static/conf/images/headers/2025/lightning-talks.jpg
 ---
 
-# Content by topic
+# Topic index
 
 Over 700 [conference](/conf/) talks and [newsletter](/newsletter/) articles from our community,
 sorted by what they're about.
