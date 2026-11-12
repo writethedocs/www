@@ -204,10 +204,16 @@ cfp:
 
 unconf:
   url: ""
+  sponsor: ""  # name of an entry in the sponsors block
   date: "All day, Monday, May 3 and Tuesday, May 4"
 
 lightning_talks:
   signup_url: ""
+
+# Each is the name of an entry in the sponsors block, shown on the social events page.
+social_events:
+  reception_sponsor: ""
+  social_sponsor: ""
 
 qa:
   event_id: ""
@@ -296,14 +302,13 @@ flagvideos: False
 flagpostconf: False
 
 # Truthy things that don't change
-flaghasunconf: False
+flaghasunconf: True
 flaghashike: True
 flaghasfood: True
 flaghascommunityday: True
 flaghaslightningtalks: True
 flaghassponsorexpo: True
 flaghasboat: False
-flaghassocialevents: False
 
 # Pages to be linked once refreshed for 2027
 flaghasvisiting: False

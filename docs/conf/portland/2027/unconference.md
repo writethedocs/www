@@ -36,35 +36,23 @@ View the Unconference Schedule
 ```
 {% endif %}
 
+{% if unconf.sponsor %}
+{% set sponsor = sponsors|find_sponsor(unconf.sponsor) %}
 ### Sponsored by
 
 <p style="text-align: center; margin-top: 1em;">
-<a href="https://readme.com/?ref=writethedocs" style="border-bottom: none;"><img src="/_static/img/sponsors/readme.png" alt="ReadMe" style="max-width: 250px;"></a>
+<a href="{{ sponsor.link }}" style="border-bottom: none;"><img src="{{ sponsor.name|sponsor_photo }}" alt="{{ sponsor.brand }}" style="max-width: 250px;"></a>
 </p>
 
-*The Unconference is sponsored by [ReadMe](https://readme.com/?ref=writethedocs).*
+*The Unconference is sponsored by [{{ sponsor.brand }}]({{ sponsor.link }}).*
+{% endif %}
 
 ## Virtual Unconference
 
 [Virtual Attendees](/conf/{{shortcode}}/{{year}}/virtual/) can join in a virtual unconference session! 
 From the Venueless platform, look for the **Virtual unconference** channel and take a look at the sign-up sheet for the slots or sessions of the day. 
 
-## Sponsor Sessions in Martha's
-
-Stop by Martha's each morning from 10:00 AM to 12:00 PM for **free handcrafted espresso on Monday ☕** and **free handcrafted matcha on Tuesday 🍵**, plus sponsor-led discussions.
-
-- **Monday ☕ — free espresso:** Sponsor Session hosted by **[Promptless](https://promptless.ai/?ref=writethedocs)**
-  - 10:00 AM — Context Engineering for Agents with Manny Silva
-  - 10:45 AM — Docs as Code: Starting from Scratch with Mike Jang
-  - 11:30 AM — Docs Observability: Measure Less, Learn More with Mano Toth
-- **Tuesday 🍵 — free matcha:** Sponsor Session hosted by **[Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral)**
-  - 10:00 AM — Working Session: Evaluate current documentation + map out improvements
-  - 10:40 AM — Open Discussion: Workflows with agents
-  - 11:20 AM — Casual Conversation: Joyful task we never want to automate
-
-Martha's will be open to attendee sessions in the afternoon, along with the Library and Astoria rooms.
-
-### Scheduling a Session
+## Scheduling a Session
 
 - [Sign up online]({{ unconf.url }}) one week prior to the conference (Monday morning sessions only).
 - Sign up for all sessions in-person anytime during the conference, Sunday through Tuesday.

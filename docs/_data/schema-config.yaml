@@ -46,6 +46,7 @@ community_day: include('writing_day-details', required=False)
 lightning_talks: include('lightning_talks-details', required=False)
 qa: include('qa-details', required=False)
 hike: include('hike-details', required=False)
+social_events: include('social_events-details', required=False)
 volunteer: include('volunteer-details')
 
 # TODO: the Australia 2026 config (#2699) doesn't yet set these, so they're
@@ -77,7 +78,6 @@ flaghaslightningtalks: bool()
 flagrunofshow: bool()
 flaghashike: bool()
 flaghasboat: bool()
-flaghassocialevents: bool(required=False)  # 2027 on; the menu shows the page while it is set
 flaglanding: bool()
 flaghasbadgeflair: bool()
 flaghasfood: bool(required=False)
@@ -242,6 +242,12 @@ unconf-details:
   url: str(required=True)
   virtual_url: str(required=False)
   date: str(required=False)
+  sponsor: str(required=False)  # name of an entry in the sponsors block
+
+# Sponsors of the social events, each the name of an entry in the sponsors block.
+social_events-details:
+  reception_sponsor: str(required=False)
+  social_sponsor: str(required=False)
 
 writing_day-details:
   url: str(required=False)
