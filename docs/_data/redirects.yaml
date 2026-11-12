@@ -1,0 +1,12 @@
+# Redirects for pages that moved or were removed, synced to Read the Docs by
+# docs/_scripts/sync_rtd_redirects.py. Paths are site paths; `to` can also be
+# a full URL. Add an entry here whenever a page is deleted or renamed.
+---
+- from: /organizer-guide/meetups/starting/
+  to: /meetups/wtd-community-organizing/
+- from: /organizer-guide/meetups/faq-meetups/
+  to: /meetups/wtd-community-organizing/
+- from: /organizer-guide/meetups/sustainable-meetups/
+  to: /meetups/wtd-community-organizing/
+- from: /organizer-guide/meetups/covid-19-meetups/
+  to: /meetups/wtd-community-organizing/
