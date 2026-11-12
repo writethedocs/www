@@ -16,7 +16,7 @@ myst:
 
 <!-- news-latest -->
 
-<p class="news-block__more"><a href="/conf/{{ shortcode }}/{{ year }}/news/">All news</a></p>
+<p class="news-block__more"><a href="/conf/{{ shortcode }}/{{ year }}/news/">All news from the team</a></p>
 
 </div>
 </div><!--- end news block -->

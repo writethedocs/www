@@ -169,11 +169,24 @@ body .page-content ul.news-latest,
     text-transform: uppercase;
 }
 
-// The link to the news page under the front page's cards.
+// The link to the news page under the front page's cards, with an arrow
+// that moves on hover.
 .news-block__more {
-    margin: 0;
-    font-size: 15px;
+    margin: 8px 0 0;
+    text-align: center;
+    font-size: 17px;
     font-weight: $bold;
+
+    a::after {
+        content: "\2192";
+        display: inline-block;
+        margin-left: 6px;
+        transition: transform 0.15s;
+    }
+
+    a:hover::after {
+        transform: translateX(4px);
+    }
 }
 
 body h2, body .page-content h2 {
