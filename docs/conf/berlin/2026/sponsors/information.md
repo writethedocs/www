@@ -110,7 +110,7 @@ Host an Unconference session. This is a wonderful opportunity to lead, contribut
 
 **Logistics**:
 
-* Sessions are 40 minutes in length on {{ date.day_three.dotw }} and {{ date.day_four.dotw }}.
+* Sessions are 35 minutes in length on {{ date.day_three.dotw }} and {{ date.day_four.dotw }}.
 * Let us know in advance if you plan to run an unconference session so we can confirm a suitable timeslot for you.
 * View more on how to Lead a Session on our [Unconference](/conf/{{ shortcode }}/{{ year }}/unconference/) page.
 

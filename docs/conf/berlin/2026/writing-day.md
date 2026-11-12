@@ -1,13 +1,15 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/headers/2026/writing-day.jpg
+banner: _static/conf/images/photos/writing-day-schedule-berlin-55511482495.jpg
 ---
 # What is Writing Day?
 
 Held on Sunday, Writing Day marks the official start of the conference.
 
 Writing Day is modeled after the concept of [code sprints](https://en.wikipedia.org/wiki/Sprint_%28software_development%29) or hackathons, which are common in open-source (OSS) conferences. The goal is to bring together documentarians to collaborate on interesting projects — whether that's open-source documentation, community content, or other documentation-related work.
+
+To create more ways for attendees to take part on Sunday, we are expanding Writing Day to include additional, shorter-format options such as workshops and discussions.
 
 ## How to Participate in Writing Day in 2026
 
@@ -16,11 +18,10 @@ Attendees can lead a Writing Day project or join and contribute to someone else'
 More details are below. No additional sign up is required.{% if writing_day.url %} Ready to submit a Writing Day project? Click the link below.{% endif %}
 
 {% if writing_day.url %}
-<div class="announcement" style="background-color:white;">
-    <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ writing_day.url }}">Submit Your Writing Day Project</a>
-    </div>
-</div>
+```{button-link} {{ writing_day.url }}
+:year: {{ year }}
+Submit Your Writing Day Project
+```
 {% endif %}
 
 ## Writing Day Schedule
@@ -33,8 +34,14 @@ We may make changes to the structure closer to the conference.
 - **8:30** - Doors open
 - **9:30** - Welcome and overview
 - **10:00** - Project announcements: Leads give a 2 minute summary and projects begin
+  - **10:00** - New to Git workshop ([sign up required]({{ writing_day.git_signup_url }}))
+  - **11:00** - Write the Docs Orientation
 - **12:30-14:00** - Lunch break
 - **14:00-17:00** - Afternoon sessions: Leads give a 2 minute summary, starting with the afternoon-only projects, and projects reconvene
+  - **14:00** - Resume writing session and portfolio review
+  - **14:30** - AI and Docs - Roundtable discussion
+  - **15:00** - Salary Survey
+  - **15:30** - API docs - Roundtable discussion
 - **17:00-19:00** - Welcome reception
 
 ## How to Prepare
@@ -56,11 +63,10 @@ Leading a project at Writing Day is a wonderful opportunity to engage with docum
 **If you submit your project by {{ writing_day.project_deadline }}, we will share your project in a blog post and email with our attendees before the conference.**
 
 {% if writing_day.url %}
-<div class="announcement" style="background-color:white;">
-    <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ writing_day.url }}">Submit Your Writing Day Project</a>
-    </div>
-</div>
+```{button-link} {{ writing_day.url }}
+:year: {{ year }}
+Submit Your Writing Day Project
+```
 {% endif %}
 
 Walk-on projects are always welcome. You are still more than welcome to bring a project the day of and announce it during the actual Writing Day.
@@ -93,6 +99,22 @@ Writing Day is the perfect opportunity to participate and learn about new projec
 If you are planning to contribute, review the project list before the conference.
 Incoming project information, check back here for updates closer to the conference.
 
+### Draft a German style guide
+
+- **Project organizer**: [Matthias Schrumpf](https://www.linkedin.com/in/matthias-schrumpf-47b344255/), it/they
+- **Project session**: All day
+
+[Pretix](https://github.com/pretix/pretix) is an open source software project that's reinventing ticket presales - one ticket at a time.
+
+Our Writing Day goal is to draft a German-language style guide for the [pretix docs](https://github.com/pretix/pretix-docs). The pretix docs have an English style guide that shows our documentation writing process with all of the small-scale decisions about wording, syntax, punctuation, and formatting. We know its vital to record these decisions so pretix, and our contributors, don't have to make them over and over again. With that, we realized that we need a German version of our style guide to support our German articles.
+
+Interested in contributing?
+
+- This project is best suited for folks with native-like German proficiency
+- Some knowledge of pretix and its [docs](https://github.com/pretix/pretix-docs) is helpful (not required)
+
+See you at Writing Day!
+
 ### Examples of projects you might see at the conference
 
 - Open-source software documentation
@@ -108,7 +130,7 @@ Find specific examples on the [Portland Writing Day {{year}} project list](https
 
 ## Roundtable Discussions
 
-Roundtable discussions are pre-scheduled, facilitated conversations held in the afternoon. Topics might include AI in documentation and API docs. We are keeping the topics focused this year as an experiment, and if it goes well might expand to a full-day discussion track in the future.
+Roundtable discussions are pre-scheduled, facilitated conversations held in the afternoon. This year's topics are AI in documentation and API docs. We are keeping the topics focused this year as an experiment, and if it goes well might expand to a full-day discussion track in the future.
 
 ## Contact us
 

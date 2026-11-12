@@ -1,5 +1,5 @@
 :template: {{year}}/generic.html
-:banner: _static/conf/images/headers/{{shortcode}}-{{year}}-group.jpg
+:banner: _static/conf/images/headers/atlantic-group.png
 :og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 Sponsorship Prospectus

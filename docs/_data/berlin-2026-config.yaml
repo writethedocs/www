@@ -15,7 +15,7 @@ time_format: 24h
 photos:
   default:
     - _static/conf/images/headers/2026/unconference.jpg
-    - _static/conf/images/headers/2026/writing-day.jpg
+    - _static/conf/images/photos/writing-day-laptops-55246770841.jpg
     - _static/conf/images/headers/2026/tickets.jpg
   index:
     - _static/conf/images/pics/writing-day.jpg
@@ -29,25 +29,33 @@ buttons:
       # link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
-    - text: See the Schedule
-      link: /schedule
+    # - text: See the Schedule
+    #   link: /schedule
+    # - text: Speaker Q&A
+    #   link: /qa
     # - text: See the Speakers
     #  link: /speakers
-    - text: Buy a Ticket
-      link: /tickets
+    # - text: Buy a Ticket
+    #   link: /tickets
     # - text: Attendee Guide
     #   link: /attendee-guide
     # - text: Watch the Live Stream
     #   link: /livestream
+    - text: Browse the photos
+      link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720335472747/
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLd_PJO5sePEI
+    - text: Conference recap
+      link: /news/thanks-recap
   bottom:
 #    - text: Conference announcement
 #      link: /news/welcome
-    - text: Sponsor us
-      link: /sponsors/prospectus
+    # - text: Sponsor us
+    #   link: /sponsors/prospectus
     #- text: Submit a Talk
     #  link: /cfp
-    - text: Buy a Ticket
-      link: /tickets
+    # - text: Buy a Ticket
+    #   link: /tickets
     # - text: See the Schedule
     #   link: /schedule
     # - text: See the Talks
@@ -56,6 +64,12 @@ buttons:
     #   link: /attendee-guide
     # - text: Watch the Live Stream
     #   link: /livestream
+    - text: Browse the photos
+      link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720335472747/
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLd_PJO5sePEI
+    - text: Conference recap
+      link: /news/thanks-recap
 
 tickets:
   concierge:
@@ -102,7 +116,7 @@ grants:
 
 shirts:
   url: "https://shirt.writethedocs.org/"
-  ends: "TBD"
+  ends: "September 30, 2026"
 
 date: # how do we handle these? human readable would be nice.
   main: "**September 6-8, 2026**"
@@ -148,7 +162,7 @@ about:
   social_venue: Straßenbräu Ausschank 2, Görlitzer Str. 52, 10997 Berlin
   venue: bUm Berlin
   venue_address: Paul-Lincke-Ufer 21, 10999 Berlin, Germany
-  photos: TBD
+  photos: https://www.flickr.com/photos/writethedocs/albums/72177720335472747/
   mainroom: Auditorium on ground floor
   unconfroom: bUm Box on first floor
   projector_ratio: "16:9"
@@ -159,15 +173,23 @@ cfp:
   notification: "June 15, 2026"                   # (Mon) 8 weeks to write and prepare
   speaker_tickets_by: "August 17, 2026"           # (Mon) Approx 3 weeks before
   video_by: "August 17, 2026"                     # Upload date for recorded talks (remote speakers)
-  slides_by: "August 17, 2026"                    # (Mon) 2-3 weeks before
+  slides_by: "August 24, 2026"                    # (Mon) 2-3 weeks before
   preview: "https://writethedocs-www--2726.org.readthedocs.build/conf/berlin/2026/schedule/"                                  # Preview URL TODO
 
 unconf:
-  url: ""
+  url: "https://docs.google.com/spreadsheets/d/1g300ZMOfZ0SRrg37v0MvYTVRy2W1Lcs8rlQ7unnWOZM/edit?usp=sharing"
+  virtual_url: "https://docs.google.com/spreadsheets/d/1U6Ve505zbxOGGbMvsUwRIdXmOUUj3V9tID6nmZy44uA/edit?usp=sharing"
   date: "All day, Monday, September 7 and Tuesday, September 8"
+
+lightning_talks:
+  signup_url: "https://docs.google.com/forms/d/e/1FAIpQLSduOPKqF2wIZM79cGL4ZttjnRXVX2f_tz3YfiR_HhOnhBMLoA/viewform"
+
+qa:
+  event_id: 7dS4HFHyZcnQmCS4kW9c7q
 
 writing_day:
   url: "https://docs.google.com/forms/d/e/1FAIpQLSf5dN0o3HkPMY5UTVzyhO6nq7T07OL6awFHv9fkfX_jdV98iQ/viewform"
+  git_signup_url: "https://ti.to/writethedocs/write-the-docs-berlin-2026/with/qyxd-bvuzc"
   date: Sunday, September 6, 9:30-17:00 CEST
   project_deadline: "August 17, 2026"
 
@@ -211,8 +233,8 @@ flagrunofshow: True
 flaghasschedule: True
 flaghasshirts: True
 flaglivestreaming: False
-flagvideos: False
-flagpostconf: False
+flagvideos: True
+flagpostconf: True
 flaghasbadgeflair: False
 
 # Truthy things that don't change

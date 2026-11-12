@@ -11,12 +11,10 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 Write the Docs {{ city }} is just two months away, on **{{ date.short }}**. This year, we've added Writing Day back in, on {{ date.day_two.dotw }}. If you have not grabbed your ticket yet, now is a great time. Check out our [speaker lineup](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/speakers/), or read on to learn about our Attendee Guide, Writing Day, our Welcome Reception, T-shirts, and tips for planning your trip to Berlin.
 
-<!-- call to action button -->
-<table cellpadding="0" cellspacing="0" width="200" role="presentation" align="center" class="cta">
-<tr><td height="30"></td></tr>
-<tr><td style="background:#FDB913;padding:10px 15px;border-radius:8px;text-align:center"><a href="https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}" target="_blank" style="color:#4A4A4A;text-decoration:none;font-size:15px;font-weight:bold;text-transform:uppercase">Buy your ticket</a></td></tr>
-<tr><td height="30"></td></tr></table>
-<!-- / call to action button -->
+```{button-link} https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}
+:year: {{ year }}
+Buy your ticket
+```
 
 ## Prepare for the conference with the Attendee Guide
 
@@ -38,12 +36,10 @@ Writing Day is on **{{ date.day_two.dotw }}, {{ date.day_two.date }}** at [bUm](
 We invite you to lead a half-day or full-day project, or you can show up and join one on the day. If you plan to lead, submit your project by **{{ writing_day.project_deadline }}** and we will share it in a pre-conference blog post and email.
 
 {% if writing_day.url %}
-<!-- call to action button -->
-<table cellpadding="0" cellspacing="0" width="320" role="presentation" align="center" class="cta">
-<tr><td height="30"></td></tr>
-<tr><td style="background:#FDB913;padding:10px 15px;border-radius:8px;text-align:center"><a href="{{ writing_day.url }}" target="_blank" style="color:#4A4A4A;text-decoration:none;font-size:15px;font-weight:bold;text-transform:uppercase">Submit Your Writing Day Project</a></td></tr>
-<tr><td height="30"></td></tr></table>
-<!-- / call to action button -->
+```{button-link} {{ writing_day.url }}
+:year: {{ year }}
+Submit Your Writing Day Project
+```
 {% endif %}
 
 See the [Writing Day page](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/writing-day/) for more details.

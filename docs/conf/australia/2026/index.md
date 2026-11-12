@@ -1,6 +1,6 @@
 ---
 template: 2026/index-australia.html
-banner: _static/conf/images/headers/berlin-2026-small-group.jpg
+banner: _static/conf/images/headers/wtd-australia-group.jpg
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 og:description: "{{ social_description }}"
 myst:

@@ -12,6 +12,8 @@ banner: _static/conf/images/headers/2026/tickets.jpg
 
 We're excited to invite you to our {{ year }} conference in {{ city }}.
 
+Virtual ticket sales close on September 6, 2026.
+
 {% if shirts and flaghasshirts %}
 
 Conference shirts are also available. See the [Official Conference Shirts](#official-conference-shirts) section below for details.
@@ -90,6 +92,9 @@ If you need to cancel your ticket because of fear of traveling internationally o
   </h2>
   <p>
     Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
+  </p>
+  <p>
+    We provide a certificate of attendance on request after the conference. Email us at <a href="mailto:{{email}}">{{email}}</a> and we will send you one.
   </p>
   {% if flagticketsonsale %}
   <ul>

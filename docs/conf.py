@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 #
 
-import logging
 import os
 import sys
 import datetime
@@ -49,7 +48,7 @@ sys.path.append(os.getcwd())  # noqa
 # https://about.readthedocs.com/blog/2024/07/addons-by-default/
 
 # Define the canonical URL if you are using a custom domain on Read the Docs
-html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "https://www.writethedocs.org")
+html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "https://www.writethedocs.org/")
 
 # Tell Jinja2 templates the build is running on Read the Docs
 if os.environ.get("READTHEDOCS", "") == "True":
@@ -65,7 +64,8 @@ from _ext.filters import add_jinja_filters_to_app
 from _ext.utils import load_yaml
 from _ext.meetups import MeetupListing
 from _ext.atom_absolute import rewrite_atom_feed
-from _ext.button import ButtonLink
+from _ext.button import ButtonLink, add_jinja_globals_to_app
+from _ext.community import load_community_data
 
 exclude_patterns = [
     '_build',
@@ -100,22 +100,44 @@ extensions = [
     'sphinxemoji.sphinxemoji',
     'myst_parser',
     'sphinxext.opengraph',
+    'sphinx_sitemap',
+    # Local build-speed fixes; must come after ablog, which it patches.
+    '_ext.build_perf',
+    # Header menu and banner photos for the community pages.
+    '_ext.community',
+    # Fixes for Markdown pages: '&' in links, classes on sections.
+    '_ext.markdown',
 ]
 
 myst_heading_anchors = 4
+myst_enable_extensions = ['attrs_block', 'deflist']
 # Treat markdown links as plain URLs. Without this, myst tries to resolve
 # relative links like `../foo/#anchor` as cross-references and mangles them.
 myst_all_links_external = True
 
 
 ogp_site_name = "Write the Docs"
-ogp_site_url = "/"
+# Must be an absolute URL: og:image and og:url are built by joining relative
+# paths onto this, and scrapers ignore Open Graph URLs without a domain.
+ogp_site_url = html_baseurl
 ogp_image = 'https://www.writethedocs.org/_static/logo-opengraph.png'
 ogp_use_first_image = True
 ogp_enable_meta_description = True
 # Inspired by https://github.com/executablebooks/MyST-Parser/pull/404/
 ogp_custom_meta_tags = [
     '<meta name="twitter:card" content="summary_large_image" />',
+]
+
+# Sitemap for search engines, written to sitemap.xml at the root of the site.
+# Read the Docs serves it in place of its own generated one. The site has no
+# language or version in its URLs, so the scheme is the page path alone.
+sitemap_url_scheme = "{link}"
+sitemap_excludes = [
+    "search/",
+    "genindex/",
+    "404/",
+    # ablog's tag, author and year listings; the posts themselves are listed.
+    "blog/archive/*",
 ]
 
 blog_baseurl = 'https://www.writethedocs.org/'
@@ -128,6 +150,8 @@ blog_authors = {
 }
 blog_default_author = 'Team'
 blog_feed_archives = True
+# Archive pages list titles rather than whole posts, which builds faster.
+blog_archive_titles = True
 blog_feed_fulltext = True
 # Only show 1 blog so we don't overload Mailchimp
 blog_feed_length = 1
@@ -153,31 +177,22 @@ html_search_language = 'en'
 pygments_style = 'sphinx'
 primary_domain = None
 
-html_theme = 'alabaster'
+# The community pages use the conference design rather than a Sphinx theme:
+# _templates/layout.html builds on the bare "basic" theme. Conference pages
+# pick their own templates from _templates/<year>/.
+html_theme = 'basic'
 html_theme_options = {
-    'logo': 'sticker-wtd-colors.png',
-    'sidebar_includehidden': False,
-    'github_user': 'writethedocs',
-    'github_repo': 'www',
-    'github_banner': False,
-    'github_button': False,
+    'nosidebar': True,
+    # basic.css caps the page body at 800px; the layout sets its own widths.
+    'body_min_width': 0,
+    'body_max_width': 'none',
+    # _static/js/community.js handles "/" instead.
+    'enable_search_shortcuts': False,
 }
 
-html_favicon = '_static/favicon/favicon-96x96.png'
 html_title = 'Write the Docs'
 html_static_path = ['_static']
 html_copy_source = False
-html_sidebars = {
-    '**': [
-        'about.html',
-        'ablog/postcard.html',
-        'info.html',
-        'searchbox.html',
-        'navigation.html',
-        # 'relations.html',
-    ]
-}
-
 # Output formats
 
 htmlhelp_basename = 'WritetheDocsdoc'
@@ -200,17 +215,6 @@ texinfo_documents = [
 
 suppress_warnings = ['image.nonlocal_uri', 'myst.header']
 
-# Suppress warnings from -j auto when ablog isn't parallel-read-safe.
-# Sphinx still parallelizes writing; only reading falls back to serial.
-class _ParallelReadFilter(logging.Filter):
-    def filter(self, record):
-        msg = record.getMessage()
-        if 'is not safe for parallel reading' in msg or msg == 'doing serial read':
-            return False
-        return True
-
-logging.getLogger('sphinx').addFilter(_ParallelReadFilter())
-
 # Our additions
 
 global_sponsors = load_yaml('_data/global-sponsors.yaml')
@@ -230,11 +234,33 @@ elif datetime.date(2026, 6, 2) <= datetime.date.today() <= datetime.date(2026, 9
     announcement_message = "Berlin 2026 tickets are on sale! <a href='/conf/berlin/2026/tickets/'>Get your ticket</a>."
 elif datetime.date(2026, 9, 6) <= datetime.date.today() <= datetime.date(2026, 9, 9):
     announcement_message = "Berlin 2026: Sep 6-8. <a href='/conf/berlin/2026/'>View the conference site</a>."
+elif datetime.date(2026, 9, 10) <= datetime.date.today() <= datetime.date(2026, 9, 18):
+    announcement_message = "Australia 2026 CFP is open! <a href='/conf/australia/2026/cfp/'>Submit your talk</a>."
+elif datetime.date(2026, 9, 19) <= datetime.date.today() <= datetime.date(2026, 12, 2):
+    announcement_message = "Australia 2026 tickets are on sale! <a href='/conf/australia/2026/tickets/'>Get your ticket</a>."
+elif datetime.date(2026, 12, 3) <= datetime.date.today() <= datetime.date(2026, 12, 4):
+    announcement_message = "Australia 2026: Dec 3-4. <a href='/conf/australia/2026/'>View the conference site</a>."
+
+# The salary survey, which is open for submissions for part of the year.
+# Update these when the next survey opens; the front page swaps between
+# asking people to take it and pointing at the published results.
+_salary_survey_closes = datetime.date(2027, 1, 31)
+salary_survey = {
+    'year': 2026,
+    'url': 'https://salary-survey.writethedocs.org/',
+    'open': datetime.date.today() <= _salary_survey_closes,
+    'closes': f'{_salary_survey_closes.day} {_salary_survey_closes:%B %Y}',
+}
+
+# The welcome to the new website on the front page, shown for about two months
+# after it launched. Take it out of docs/index.md once it has ended.
+new_website_welcome = datetime.date.today() <= datetime.date(2026, 12, 21)
 
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
-    'newsletter_subs': '10,000',
-    'slack_members': '22,500',
+    'salary_survey': salary_survey,
+    'newsletter_subs': '12,000',
+    'slack_members': '27,000',
     'website_visits': '20,000',
     'meetup_cities': '25',
     'conf_attendees': '600',
@@ -243,9 +269,12 @@ html_context = {
     'slack_join': "https://join.slack.com/t/writethedocs/shared_invite/zt-3uxp60m0w-4Ys1SrX798HMyIXpxyD6EQ",
     'slack_form': "https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform?usp=sf_link",
     'announcement_message': announcement_message,
+    'new_website_welcome': new_website_welcome,
 }
+# After html_context, which fills in the placeholders in the front page text.
+html_context['community'] = load_community_data(html_context)
 
-notfound_no_urls_prefix = True
+notfound_urls_prefix = '/'
 
 
 def setup(app):
@@ -264,11 +293,28 @@ def setup(app):
             else:
                 context['pageurl'] = pageurl[:-5] + '/'  # strip .html, add /
 
+    # sphinx-notfound-page links the front page as "#" on the 404 page,
+    # because the dirhtml builder's URL for it is empty, so the logo and the
+    # Home link went nowhere. Point them at the site root instead. This runs
+    # after the extension swaps in its own pathto (priority 400).
+    def fix_404_home_links(app, pagename, templatename, context, doctree):
+        if pagename != app.config.notfound_pagename:
+            return
+        notfound_pathto = context['pathto']
+
+        def pathto(*args, **kwargs):
+            uri = notfound_pathto(*args, **kwargs)
+            return '/' if uri == '#' else uri
+
+        context['pathto'] = pathto
+
     app.connect("html-page-context", add_metadata)
     app.connect("html-page-context", fix_canonical_url)
+    app.connect("html-page-context", fix_404_home_links, priority=600)
 
     # Set up our custom jinja filters
     app.connect("builder-inited", add_jinja_filters_to_app)
+    app.connect("builder-inited", add_jinja_globals_to_app)
 
     # Transform RST with Jinja, using proper context
     app.connect("source-read", render_rst_with_jinja)

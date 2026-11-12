@@ -69,35 +69,25 @@ There are no speaker-specific requirements this day but we encourage you to join
 
 ### {{ date.day_three.dotw | upper }}
 
-TBD
+- 09:00-09:30: Morning Speaker tech checks at main stage
+- 10:00-12:05: Speaker Talks
+- 12:10-12:40: Afternoon Speaker tech checks at main stage
+- 14:15-17:05: Speaker Talks
+- 17:20-17:25: Speaker photo for all speakers
 
-<!--
-
-- 08:30-09:30: Morning Speaker tech checks at main stage
-- 10:00-13:00: Speaker Talks
-- 13:00-13:30: Afternoon Speaker tech checks at main stage
-- 14:30-17:00: Speaker Talks
-
--->
 
 ### {{ date.day_four.dotw | upper }}
 
-TBD
-
-<!--
-
-- 08:30-09:30: Morning Speaker tech checks at main stage
-- 10:00-13:00: Speaker Talks
-- 13:00-13:30: Afternoon Speaker tech checks at main stage
-- 14:30-17:00: Afternoon Speaker Talks
+- 09:00-09:30: Morning Speaker tech checks at main stage
+- 10:00-12:05: Speaker Talks
+- 12:10-12:50: Afternoon Speaker tech checks at main stage
+- 14:15-16:30: Afternoon Speaker Talks
 
 Your speaker tech check will be directly before the morning or afternoon session you are speaking at. Meet in front of the main stage. Bring the laptop you'll be using to present and your technical questions!
 
-For example, if you speak Tuesday afternoon, your tech will be during the lunch hour on Tuesday. We'll send a calendar invite with your exact tech time. You're also welcome to attend an earlier tech check (for example, on Monday), if you'd prefer to get it out of the way.
+For example, if you speak Tuesday afternoon, your tech will be during the lunch hour on Tuesday. We'll send a calendar invite with your exact tech check time. You're also welcome to attend an earlier tech check (for example, on Monday), if you'd prefer to get it out of the way.
 
 View the full [attendee schedule](/conf/{{shortcode}}/{{year}}/schedule/).
-
--->
 
 ## Speaking Tips
 

@@ -30,7 +30,7 @@ View our [Venue](/conf/{{shortcode}}/{{year}}/venue/) page for details and the l
 
 - Coffee, tea, and light snacks will be provided in the morning and afternoon. 
 - Bring a water bottle to refill.
-- The Cafeteria in the venue will be open during the conference. Exact hours to be released closer to the conference.
+- The Cafeteria in the venue is only open on Tuesday.
 - There are many food and beverage options within a 10-minute walk of the venue. View the [Visiting Berlin](/conf/{{shortcode}}/{{year}}/visiting/) page.
 
 ## Dress Code
@@ -106,7 +106,9 @@ The [Unconference](/conf/{{shortcode}}/{{year}}/unconference/) consists of atten
 ### Monday Night Social:
 This is our main social event of the conference. Drinks and snacks provided by us. It is a time to connect with other attendees outside of the scheduled programming. Come for an hour or stay the entire time!
 
-Details TBD.
+**Where**: {{about.social_venue}}
+
+**When**: {{date.day_three.dotw}}, {{date.day_three.social_time}} {{tz}}
 
 ## Did We Miss Anything?
 Is there anything that would make your attendance possible or improve your experience? Please email us at <{{email}}>, and we’ll do what we can to provide it.

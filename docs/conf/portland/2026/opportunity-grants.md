@@ -21,11 +21,10 @@ We prioritize applications based on the overall impact that granting an applicat
 Grant applicants, like all other participants in the Write the Docs community, are required to follow the [Code of Conduct](/conf/{{shortcode}}/{{year}}/code-of-conduct/).
 
 {% if grants.url %}
-<div class="announcement" style="background-color:white;">
-    <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ grants.url }}">Apply for an Opportunity Grant</a>
-    </div>
-</div>
+```{button-link} {{ grants.url }}
+:year: {{ year }}
+Apply for an Opportunity Grant
+```
 {% endif %}
 
 ## Schedule
@@ -50,7 +49,7 @@ The application form will ask for an estimate of your costs.
 
 ## Grant Amounts
 
-The total amount of grant funds to be distributed is based upon sponsors and number of tickets sold. We will not know the full amount until we near the deadline. For 2026, we have $3,500 total to distribute for grant funds. There is no limit on the amount you request, but please consider this amount when making your request. We rarely fund only one individual and aim to use our budget for two or more people. We do not award partial grants.
+The total amount of grant funds to be distributed is based upon sponsors and number of tickets sold. We will not know the full amount until we near the deadline. {% if grants.total %}For {{ year }}, we have {{ grants.total }} total to distribute for grant funds.{% else %}We'll announce the {{ year }} total closer to the deadline.{% endif %} There is no limit on the amount you request, but please consider this amount when making your request. We rarely fund only one individual and aim to use our budget for two or more people. We do not award partial grants.
 
 ## Are you part of a marginalized or underrepresented group in tech?
 

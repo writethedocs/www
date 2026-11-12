@@ -74,11 +74,13 @@ Carolyn gave her first-ever lightning talk at Write the Docs Prague in 2017 and 
 
 Aaron has been helping teams create helpful, clear, and consistent documentation since before his first Write the Docs conference in 2018. He currently edits the monthly Write the Docs newsletter. Outside of documentation, he cofounded an amateur community theater to present Czech plays in English in Brno.
 
-### Dimple Poojary
+### Dimple Poojary (she/her)
 
 #### Writing Day Coordinator
 
 ![](/_static/img/2026/team/dimple.jpg)
+
+Based in Berlin, Dimple is thrilled to serve as a member of Write the Docs Berlin, something she's wanted to do for as long as she's known the community existed. She takes a hands-on approach to documentation, testing products end to end and surfacing bugs and UI improvements as part of her writing process, always starting from the user's perspective to make docs that are easy to find, easy to use, and accessible to everyone. When she's not writing docs, you'll find her gardening, dancing, or biking long distances.
 
 ### Chris Chinchilla (he/him)
 
@@ -112,25 +114,35 @@ Daniel is a documentation consultant who helps software engineering teams make t
 
 Alicia loves to explain complex things in easy-to-understand ways and is passionate about harnessing the talent and collaborative spirit of others. She is currently Principal Technical Writer at Digi International, Inc., where she works closely (and remotely) with her internationally distributed development teams to document embedded Linux systems. She tends to be a human common denominator, bridging personalities and differences to bring people together.
 
-### Dustin Smith
+### Dustin Smith (he/him)
 
 #### Welcome Wagon
 
-### Ingrid Towey (she/her)
+![](/_static/img/2026/team/dustin.jpg)
+
+Dustin is a recovering academic, life-long language nerd, and documentarian who has now turned his focus to Cybersecurity. The Write the Docs community was integral during his move from the Washington, D.C. rat race to the Berlin start-up world in 2018 and he’s excited to give back this year as part of the Organizer Team. This is Dustin’s 4th in-person conference and his 2nd in Berlin. 
+
+### Swapnil Ogale (he/him)
 
 #### Virtual platform coordinator
 
-![](/_static/img/2026/team/ingrid.png)
+![](/_static/img/2026/team/swapnil.png)
 
-Ingrid loves working as an editor, writing coach, and user champion at Red Hat. She blends a UX and Folklore background with editorial expertise and tempers both with the patience learned from 15 years of homeschooling 3 kids. In her down time, you can find her reading, drawing, dabbling with languages, or enjoying Renaissance dance and medieval cooking.
+Swapnil is fortunate enough to live in one of the world's most liveable cities - Melbourne, Australia. When he is not travelling, trying out new food, binging on Seinfeld and Frasier reruns, or collecting books for his library, he works as a technical writer at Amazon Web Services Australia. He initiated Write the Docs in Australia in 2016 and has been happily running the local meetups and the annual conference since then.
 
-### Pavithra Eswaramoorthy (she/her)
+### Hillary Nyakundi
 
 #### Virtual platform coordinator
 
-![](/_static/img/2024/team/pavithra.jpg)
+![](/_static/img/2026/team/hillary.jpg)
 
-Pavithra works as a developer advocate at Quansight, where she focuses on developer experience and documentation of open source libraries for scientific computing. In her spare time, she enjoys a good book and hot coffee.
+### Heather Zoppetti (she/her)
+
+#### Virtual platform coordinator
+
+![](/_static/img/2024/team/heather.jpg)
+
+Heather is a Philadelphia-based writer with a rich background in computer science and technical communication. By day, she programs, builds tools for engineers, and crafts clear, user-friendly documentation. By night, she trades keystrokes for knitting needles, cross-stitch, and other forms of needle witchcraft.
 
 ## Get involved
 
