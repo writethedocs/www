@@ -14,30 +14,32 @@ Do you need help justifying why your manager should send you to Write the Docs? 
 
 Remember to change the things in [brackets]!
 
-*FROM: [your name]*
+```text
+FROM: [your name]
 
-*TO: [your employer or manager’s name]*
+TO: [your employer or manager’s name]
 
-*SUBJECT: Professional Development: Documentation Community Conference*
+SUBJECT: Professional Development: Documentation Community Conference
 
-*I’d like to attend Write the Docs {{ city }} from {{ date.short }}. This three-day event explores the art and science of documentation, and covers a diverse range of topics related to documentation in the software industry.*
+I’d like to attend Write the Docs {{ city }} from {{ date.short }}. This three-day event explores the art and science of documentation, and covers a diverse range of topics related to documentation in the software industry.
 
-*Write the Docs conferences bring together everyone who writes the docs – Tech Writers, Developers, Developer Relations, Customer Support – making the events an ideal networking opportunity. Each conference successfully combines a number of different event formats to deliver engaging, practical, and timely content.*
+Write the Docs conferences bring together everyone who writes the docs – Tech Writers, Developers, Developer Relations, Customer Support – making the events an ideal networking opportunity. Each conference successfully combines a number of different event formats to deliver engaging, practical, and timely content.
 
-*There is a single track of talks, a parallel unconference event, and a community day with documentation projects, workshops and discussions. The [sessions from last year](https://www.writethedocs.org/conf/{{shortcode}}/{{year-1}}/speakers/) will give you a good idea of the kinds of topics covered, many of which are relevant to my work.*
+There is a single track of talks, a parallel unconference event, and a community day with documentation projects, workshops and discussions. The sessions from last year (https://www.writethedocs.org/conf/{{shortcode}}/{{year-1}}/speakers/) will give you a good idea of the kinds of topics covered, many of which are relevant to my work.
 
-*Costs:*
+Costs:
 
-- *[Conference ticket](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/) - {{tickets.corporate.price}}*
+- Conference ticket (https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/) - {{tickets.corporate.price}}
 
-*Benefits:*
+Benefits:
 
-- *Discovering solutions to problems I’m facing at work*
-- *Exposure to the latest ideas, techniques, and tools for software docs*
-- *Opportunity to learn from the best doc teams in the industry*
-- *Building professional connections with other documentarians*
+- Discovering solutions to problems I’m facing at work
+- Exposure to the latest ideas, techniques, and tools for software docs
+- Opportunity to learn from the best doc teams in the industry
+- Building professional connections with other documentarians
 
-*Thanks in advance, [your name]*
+Thanks in advance, [your name]
+```
 
 ### Corporate Resources
 
@@ -63,38 +65,40 @@ The minimum purchase is three tickets{% if flagticketsonsale or flagsoldout %}, 
 
 Remember to change the things in [brackets]!
 
-*FROM: [your name]*
+```text
+FROM: [your name]
 
-*TO: [your employer or community lead's name]*
+TO: [your employer or community lead's name]
 
-*SUBJECT: Docs hackathon: Documentation Community Conference*
+SUBJECT: Docs hackathon: Documentation Community Conference
 
-*I’d like to attend Write the Docs {{ city }} from {{ date.short }}. This three-day event explores the art and science of documentation, and covers a diverse range of topics related to documentation in the software industry. I am particularly interested in leading a project at Community Day. I believe this event can positively impact our project and community.*
+I’d like to attend Write the Docs {{ city }} from {{ date.short }}. This three-day event explores the art and science of documentation, and covers a diverse range of topics related to documentation in the software industry. I am particularly interested in leading a project at Community Day. I believe this event can positively impact our project and community.
 
-*Community Day is modeled after the concept of “code sprints” or “hackathons”, which are common in open-source conferences. The primary goal is to bring interesting individuals into the same room and have them work towards a shared goal; in this case the goal is creating or improving documentation or other related projects.*
+Community Day is modeled after the concept of “code sprints” or “hackathons”, which are common in open-source conferences. The primary goal is to bring interesting individuals into the same room and have them work towards a shared goal; in this case the goal is creating or improving documentation or other related projects.
 
-*Costs:*
+Costs:
 
-- *[Conference ticket](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/) - {{tickets.corporate.price}}*
+- Conference ticket (https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/) - {{tickets.corporate.price}}
 
-*Community Day Benefits:*
+Community Day Benefits:
 
-- *Introduce our project and community to a new audience and demographic in our industry*
-- *Get highlighted as a project in the conference blog and announcements (must submit online by {{ community_day.project_deadline }})*
-- *Onboard documentation enthusiasts to increase the likelihood of post-conference contributions*
-- *Strategically tackle documentation tickets and requests*
-- *Update existing documentation*
-- *Peer review new and existing documentation*
+- Introduce our project and community to a new audience and demographic in our industry
+- Get highlighted as a project in the conference blog and announcements (must submit online by {{ community_day.project_deadline }})
+- Onboard documentation enthusiasts to increase the likelihood of post-conference contributions
+- Strategically tackle documentation tickets and requests
+- Update existing documentation
+- Peer review new and existing documentation
 
-*Conference Benefits:*
+Conference Benefits:
 
-- *Exposure to the latest ideas, techniques, and tools for software docs*
-- *Opportunity to learn from the best doc teams in the industry*
-- *Building professional connections with other documentarians*
+- Exposure to the latest ideas, techniques, and tools for software docs
+- Opportunity to learn from the best doc teams in the industry
+- Building professional connections with other documentarians
 
-*Bringing our project to Community Day benefits us as a community. It gives us the opportunity to improve our documentation and create a more inclusive project.*
+Bringing our project to Community Day benefits us as a community. It gives us the opportunity to improve our documentation and create a more inclusive project.
 
-*Thanks in advance, [your name]*
+Thanks in advance, [your name]
+```
 
 ### Community Day Resources
 
