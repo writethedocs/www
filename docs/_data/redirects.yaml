@@ -50,6 +50,10 @@
   from_url: /conf/portland/2023/hike
   to_url: /conf/portland/2023/outing/
 
+- type: exact
+  from_url: /conf/portland/2027/writing-day
+  to_url: /conf/portland/2027/community-day/
+
 # Short links.
 - type: exact
   from_url: /speaker-invite
