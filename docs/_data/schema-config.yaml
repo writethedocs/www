@@ -233,6 +233,7 @@ cfp-details:
   opens: str(required=False)
   ends: str(required=True)
   notification: str(required=True)
+  schedule_announced: str(required=False)
   confirm_by: str(required=False)
   video_by: str(required=False)
   slides_by: str(required=False)

@@ -16,10 +16,10 @@ buttons:
   top:
     - text: Date and ticket information
       link: /news/welcome
-    - text: Sponsor the Conference
-      link: /sponsors/prospectus
-    # - text: Submit a Talk
-    #   link: /cfp
+    # - text: Sponsor the Conference
+    #  link: /sponsors/prospectus
+    - text: Submit a Talk
+      link: /cfp
     # - text: Buy a Ticket
     #   link: /tickets
     # - text: See the Speakers
@@ -37,12 +37,12 @@ buttons:
     # - text: Conference recap
     #   link: /news/thanks-recap
   bottom:
-    - text: Welcome to our conference
-      link: /news/welcome
+    # - text: Welcome to our conference
+    #   link: /news/welcome
     - text: Sponsor us
       link: /sponsors/prospectus
-    # - text: Submit a Talk
-    #   link: /cfp
+    - text: Submit a Talk
+      link: /cfp
     # - text: Buy a Ticket!
     #   link: /tickets
     # - text: See the Schedule
@@ -182,6 +182,7 @@ cfp:
   opens: "November 2026"                           # Mid November
   ends: "January 18, 2027"                         # (Mon) 2 weeks to review
   notification: "February 1, 2027"                 # (Mon) 13 weeks to write and prepare
+  schedule_announced: "March 2027"                 # about 4.5 weeks after notification, for confirmations
   speaker_tickets_by: April 5, 2027                # (Mon) Approx 4 weeks before
   video_by: "April 5, 2027"                        # (Mon) Upload date for recorded talks (remote speakers)
   slides_by: "April 26, 2027"                      # (Mon) 1 week before
@@ -215,6 +216,29 @@ sponsors:
       link: https://readme.com/?ref=writethedocs
       brand: ReadMe
       text: <p>ReadMe transforms static API docs into interactive developer hubs. Help developers make their first call faster, quickly troubleshoot issues along the way, and get insights into API usage to focus your team on the highest-impact improvements.</p>
+    - name: promptless
+      link: https://promptless.ai/?ref=writethedocs
+      brand: Promptless
+      text: |
+        <p>
+        Promptless is the AI agent that helps technical writers stay informed, move faster, and have more impact.
+        </p>
+
+        <p>
+        It ensures that you're never left out of the loop. Promptless follows your product and engineering team's work so you don't have to, reviewing every PR, Jira issue, and product question in Slack, and notifying you before docs go stale.
+        </p>
+
+        <p>
+        It adapts to your workflows, rather than forcing you to change them. Keep your existing docs hosting provider, framework, style guide, or Vale rules. Promptless auto-detects it all, with no migrations needed.
+        </p>
+
+        <p>
+        It drafts well-researched content for your review. Promptless includes citations for every code snippet or workflow that it documents, and will even browse your product and update your screenshots.
+        </p>
+
+        <p>
+        Join the growing number of writers using Promptless to stay ahead.
+        </p>
   patron: []
   publisher: []
   second:  # Supporter
@@ -224,6 +248,7 @@ sponsors:
     - name: readthedocs
       link: https://about.readthedocs.com/?ref=writethedocs
       brand: Read the Docs
+      text: "Read the Docs simplifies software documentation by building, versioning, and hosting of your docs, automatically. Treating documentation like code keeps your team in the same tools, and your documentation up to date."
   first: []
   in_kind: []
 
@@ -244,7 +269,7 @@ photos:
 # Things that change over time, listed in order of change
 flaglanding: True
 flaghassponsors: True
-flagcfp: False
+flagcfp: True
 flagticketsonsale: False
 flagsoldout: False
 flagscheduleincomplete: True
