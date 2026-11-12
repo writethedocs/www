@@ -34,11 +34,6 @@ Review the search engine documentation guides:
 - Google's `How Search Works <https://www.google.com/search/howsearchworks/how-search-works/ranking-results/>`_ guide
 - Bing's `Webmaster Guidelines <https://www.bing.com/webmasters/help/webmaster-guidelines-30fba23a>`__
 
-WTD resources on SEO
-~~~~~~~~~~~~~~~~~~~~
-
-Look at the :doc:`topic archive </topics>` for the section on search.
-
 Books
 ~~~~~
 
@@ -61,3 +56,7 @@ Tools
 - `Google Search Console <https://search.google.com/search-console/about>`__
 - `Ahrefs Site Audit Tool <https://ahrefs.com/site-audit>`__
 - `Keywords Everywhere <https://keywordseverywhere.com/>`__ web browser extension
+
+.. seealso::
+
+   Browse talks and newsletter articles about :ref:`search <topics:Search>` in our topic index.

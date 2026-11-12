@@ -34,7 +34,7 @@ Guides, talks and articles from the Write the Docs community, all free to read.
     <span>Find your next job as a documentarian, or hire one.</span>
   </a></li>
   <li><a href="/topics/">
-    <strong>Content by topic</strong>
+    <strong>Topic index</strong>
     <span>Every conference talk and newsletter article, organized by topic.</span>
   </a></li>
   <li><a href="/surveys/">
