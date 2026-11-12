@@ -155,5 +155,6 @@ The site is hosted on Read the Docs, which adds its addons to every page. The co
 - Content files support both `.rst` and `.md` (via myst-parser)
 - Write new pages in Markdown. Link to other pages by URL path (`[Slack](/slack/)`): `myst_all_links_external` is on, so `{doc}` targets and `.md` paths aren't resolved. Use MyST's `deflist` for definition lists, a `{.class}` line before a heading or block to class it (as `.. rst-class::` does), and `{eval-rst}` only for what Markdown can't express, such as the `meetup-listing` directive
 - Conference pages use `:orphan:` directive (not in a toctree)
+- When a page is removed or renamed, add a redirect for its old path to `docs/_data/redirects.yaml`. The file's header has the `readthedocs-cli` command that syncs it to Read the Docs; the sync deletes redirects that aren't in the file
 - Feature flags in config YAML control what sections display (e.g., `flagtickets`, `flagcfp`, `flaghasschedule`)
 - Conference talk videos are hosted on the [Write the Docs YouTube channel](https://www.youtube.com/c/WritetheDocs)
