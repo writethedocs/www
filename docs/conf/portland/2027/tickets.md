@@ -8,9 +8,12 @@ banner: _static/conf/images/photos/auditorium-day-1-55249270408.jpg
 
 {% if flagticketsonsale %}
 
-**Tickets are on sale now!**
+Tickets are on sale now! We're excited to invite you to our {{ year }} conference in {{ city }}, on {{ date.main }}.
 
-We're excited to invite you to our {{ year }} conference in {{ city }}.
+```{button-link} https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}
+:year: {{ year }}
+Buy your ticket
+```
 
 {% if shirts and flaghasshirts %}
 
@@ -20,11 +23,16 @@ Conference shirts are also available. See the [Official Conference Shirts](#offi
 
 {% elif flagsoldout %}
 
-**Tickets are sold out!**
+Tickets are sold out! Thank you to everyone who is joining us for our {{ year }} conference in {{ city }}, on {{ date.main }}.
 
 {% else %}
 
-**Tickets are not on sale yet.** They will be available in {{ date.tickets_live }}.
+Tickets are not on sale yet. They will be available in {{ date.tickets_live }}, for our {{ year }} conference in {{ city }} on {{ date.main }}. Join our mailing list to hear when they go on sale:
+
+```{button-link} /conf/{{shortcode}}/{{year}}/mailing-list/
+:year: {{ year }}
+Join the mailing list
+```
 
 {% endif %}
 
