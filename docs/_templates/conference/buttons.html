@@ -1,0 +1,36 @@
+{#- The two buttons in the hero and in the band above the footer: the most
+    useful things to do right now, picked from the config's flags. Before
+    and during the conference the asks are ranked tickets, talks, schedule,
+    speakers, attendee guide, sponsoring, then the welcome post; after it
+    (flagpostconf) they are the videos, the recap and the photos. A config
+    with a `buttons` block keeps its own lists (2026 and earlier). -#}
+{%- macro conference_buttons(place) -%}
+  {%- set conf = 'conf/' + shortcode + '/' + year_str -%}
+  {%- if buttons is defined and buttons[place] -%}
+    {%- set picks = buttons[place] -%}
+  {%- else -%}
+    {%- if flagpostconf -%}
+      {%- set candidates = [
+        {'text': 'Watch the videos', 'link_absolute': videos.playlist if videos is defined else '', 'show': videos is defined and videos.playlist},
+        {'text': 'Conference recap', 'link': '/news/thanks-recap', 'show': true},
+        {'text': 'Browse the photos', 'link_absolute': photos.album if photos.album is defined else '', 'show': photos.album is defined and photos.album},
+      ] -%}
+    {%- else -%}
+      {%- set candidates = [
+        {'text': 'Buy a Ticket', 'link': '/tickets', 'show': flagticketsonsale and not flagsoldout},
+        {'text': 'Submit a Talk', 'link': '/cfp', 'show': flagcfp},
+        {'text': 'See the Schedule', 'link': '/schedule', 'show': flaghasschedule},
+        {'text': 'See the Speakers', 'link': '/speakers', 'show': flagspeakersannounced},
+        {'text': 'Attendee Guide', 'link': '/attendee-guide', 'show': flaghasattendeeguide},
+        {'text': 'Sponsor the Conference', 'link': '/sponsors/prospectus', 'show': flaghassponsors},
+        {'text': 'Date and ticket information', 'link': '/news/welcome', 'show': true},
+      ] -%}
+    {%- endif -%}
+    {%- set picks = (candidates|selectattr('show')|list)[:2] -%}
+  {%- endif -%}
+  <div style="display:flex; flex-direction:inherit; flex-wrap:nowrap; gap:12px; justify-content:inherit; align-items:stretch;">
+  {%- for callout in picks %}
+    {{ button_link(callout.link_absolute or pathto(conf + callout.link), callout.text, year, wrap=False, new_tab=False, contrast=True) }}
+  {%- endfor %}
+  </div>
+{%- endmacro -%}
