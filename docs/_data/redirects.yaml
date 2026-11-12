@@ -24,6 +24,23 @@
   from_url: /organizer-guide/meetups/covid-19-meetups
   to_url: /meetups/wtd-community-organizing/
 
+# Conference mailing list pages folded into each conference's news page.
+- type: exact
+  from_url: /conf/australia/2026/mailing-list
+  to_url: /conf/australia/2026/news/
+
+- type: exact
+  from_url: /conf/berlin/2026/mailing-list
+  to_url: /conf/berlin/2026/news/
+
+- type: exact
+  from_url: /conf/portland/2026/mailing-list
+  to_url: /conf/portland/2026/news/
+
+- type: exact
+  from_url: /conf/portland/2027/mailing-list
+  to_url: /conf/portland/2027/news/
+
 # Renamed pages.
 - type: page
   from_url: /guide/docs-like-code
