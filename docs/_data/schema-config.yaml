@@ -116,6 +116,8 @@ ticket-details:
   virtual_independent: include('price-type', required=False)
   virtual_corporate: include('price-type', required=False)
   button: str(required=False)
+  # Tito waiting list URL, shown on the tickets page once tickets are sold out.
+  waiting_list: str(required=False)
 
 price-type:
   price: str()

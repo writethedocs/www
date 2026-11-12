@@ -25,6 +25,17 @@ Conference shirts are also available. See the [Official Conference Shirts](#offi
 
 Tickets are sold out! Thank you to everyone who is joining us for our {{ year }} conference in {{ city }}, on {{ date.main }}.
 
+{% if tickets.waiting_list %}
+
+If someone cancels, we release their ticket to the waiting list:
+
+```{button-link} {{ tickets.waiting_list }}
+:year: {{ year }}
+Join the waiting list
+```
+
+{% endif %}
+
 {% else %}
 
 Tickets are not on sale yet. They will be available in {{ date.tickets_live }}, for our {{ year }} conference in {{ city }} on {{ date.main }}. Join our mailing list to hear when they go on sale:
@@ -36,8 +47,6 @@ Join the mailing list
 
 {% endif %}
 
-## Ticket Information
-
 Write the Docs {{ name }} {{ year }} is a hybrid conference, which you can attend in person or virtually. Each in-person ticket includes:
 
 - Entry to all conference events and activities
@@ -45,6 +54,12 @@ Write the Docs {{ name }} {{ year }} is a hybrid conference, which you can atten
 - Welcome Reception and Social Event with light snacks and drinks
 - Wifi throughout the event
 - Meeting lots of fantastic people in a spacious, inviting venue
+
+Virtual tickets include:
+
+- Watching all talks and Q&A sessions on the main stage live
+- Submitting live Q&A questions for speakers
+- A virtual hallway track and chat to network with other remote attendees
 
 Learn more about the [virtual attendance experience](/conf/{{shortcode}}/{{year}}/virtual/).
 
@@ -90,6 +105,7 @@ All attendees, in person or virtual, are required to abide by our [Code of Condu
   </h2>
   <p>
     Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
+    If your company needs to pay by invoice or purchase order, see <a href="/conf/{{shortcode}}/{{year}}/convince-your-manager/#paying-by-invoice-or-purchase-order">how to buy tickets as a company</a>.
   </p>
   <p>
     We provide a certificate of attendance on request after the conference. Email us at <a href="mailto:{{email}}">{{email}}</a> and we will send you one.
@@ -121,24 +137,6 @@ All attendees, in person or virtual, are required to abide by our [Code of Condu
   {% endif %}
 </div>
 
-<div class="ticket">
-  <h2>
-    <strong>Corporate Concierge</strong>{% if flagticketsonsale or flagsoldout %}: <em>{{tickets.concierge.price}}</em> per ticket{% endif %}
-  </h2>
-  <p>
-    We offer a corporate concierge service if your company is unable to follow our regular ticket sales process through the website.
-    We can offer payment by invoice, process purchase orders, bank transfers, fill in supplier registration forms, and offer other support.
-    Your tickets will be issued after we have received payment. The minimum purchase is three tickets.
-  </p>
-  {% if flagticketsonsale %}
-  <ul>
-    <li>
-      <a href="mailto:{{email}}">Contact us at {{email}} for this service</a>
-    </li>
-  </ul>
-  {% endif %}
-</div>
-
 {% if shirts and flaghasshirts %}
 
 <div class="ticket" id="official-conference-shirts">
@@ -162,4 +160,6 @@ Refunds are offered with a 10% processing fee, up to 2 weeks before the conferen
 This includes changing your in-person ticket to virtual, where we will refund the price difference,
 minus the processing fee.
 
-If you need to cancel your ticket because of fear of traveling internationally to the United States or getting COVID-19 prior to the conference, we will offer a 100% refund.
+If you need to cancel your ticket for health or visa reasons, we will offer a 100% refund.
+
+You can also transfer your ticket to someone else at any time. Email us at [{{email}}](mailto:{{email}}) with their name and email address.

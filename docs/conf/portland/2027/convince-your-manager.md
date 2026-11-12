@@ -49,6 +49,12 @@ When discussing how to pitch the conference, a few generally helpful tips emerge
 - Establishes your team's reputation for caring about their docs.
 - Share info about previous conferences. View the [main page overview](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/) explaining Write the Docs, history, and schedule overview.
 
+### Paying by invoice or purchase order
+
+We offer a corporate concierge service if your company is unable to follow our regular ticket sales process through the website. We can offer payment by invoice, process purchase orders, bank transfers, fill in supplier registration forms, and offer other support. Your tickets will be issued after we have received payment.
+
+The minimum purchase is three tickets{% if flagticketsonsale or flagsoldout %}, at {{tickets.concierge.price}} per ticket{% endif %}. Contact us at [{{email}}](mailto:{{email}}) for this service.
+
 ## Sample Email #2
 
 ### Convince your manager or community to participate in Community Day
