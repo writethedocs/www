@@ -1,0 +1,13 @@
+{#-
+  A conference's news page (conf/<city>/<year>/news/index.md), like the
+  newsletter page: the latest posts as cards, then the page's own text, which
+  holds the mailing list form and the list of every post. The page marks
+  where the cards go with <!-- news-latest -->; conference/news-latest.html
+  renders them.
+-#}
+{%- extends "conference/generic.html" %}
+
+{%- block body %}
+{%- set latest %}{% include "conference/news-latest.html" %}{% endset %}
+{{ body | replace('<!-- news-latest -->', latest) }}
+{%- endblock %}
