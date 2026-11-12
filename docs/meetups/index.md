@@ -79,18 +79,14 @@ You can find a list of paused, inactive, and archived groups there.
 ## Organize a community group
 
 All of our community groups are locally or virtually organized by volunteers. If you are interested in starting a new community group
-or volunteering with an existing group, here is how you can reach out:
+or volunteering with an existing group, read our [community organizing guide](/meetups/wtd-community-organizing/), then reach out:
 
 * [Start a new Meetup group](https://forms.gle/Jx9CniuwEcLrEYPJ7)
 * [Volunteer for an existing Meetup group](https://forms.gle/DG8FagKdNgAFtEb47)
 
-We have documentation available to support potential and existing organizers:
-
 ```{toctree}
 :maxdepth: 1
 
+wtd-community-organizing
 announcements
-../organizer-guide/meetups/starting
-../organizer-guide/meetups/faq-meetups
-../organizer-guide/meetups/sustainable-meetups
 ```

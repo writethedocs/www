@@ -147,9 +147,7 @@ Our goal is to update the content infrastructure, consolidate resources, and add
 Agenda:
 
 - Strategize to create a better content infrastructure for Meetup related pages.
-- Update the `Starting a Meetup <https://www.writethedocs.org/organizer-guide/meetups/starting/>`__ page
-- Update the `Make your Meetups more sustainable <https://www.writethedocs.org/organizer-guide/meetups/sustainable-meetups/>`__ page
-- Review the `Meetup FAQ <https://www.writethedocs.org/organizer-guide/meetups/faq-meetups/>`__
+- Update the Starting a Meetup, Make your Meetups more sustainable and Meetup FAQ pages (since merged into the `community organizing guide <https://www.writethedocs.org/meetups/wtd-community-organizing/>`__)
 
 I recommend contributing to this project using the built in `GitHub web-based editor <https://docs.github.com/en/codespaces/the-githubdev-web-based-editor>`__. Mostly because I am not a Git or GitHub expert.
 

@@ -89,7 +89,7 @@ meetups in cities across the country, and if you don’t see your city
 listed consider `starting`_ a meetup!
 
 .. _build the meetup community: http://www.writethedocs.org/meetups/
-.. _starting: http://www.writethedocs.org/organizer-guide/meetups/starting/
+.. _starting: https://www.writethedocs.org/meetups/wtd-community-organizing/
 
 Code of Conduct transparency report
 -----------------------------------

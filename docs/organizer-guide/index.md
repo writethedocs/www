@@ -22,14 +22,11 @@ If you're interested in helping start or organize a Write the Docs conference, s
 ## Meetups
 
 Information about the global Write the Docs [Local and virtual community groups](/meetups/).
+Start with the [community organizing guide](/meetups/wtd-community-organizing/), which covers becoming an organizer, running events, and the Meetup group FAQ.
 
 ```{toctree}
 :maxdepth: 2
 
-meetups/covid-19-meetups
-meetups/starting
-meetups/faq-meetups
-meetups/sustainable-meetups
 meetups/livestreaming-meetups
 meetups/quorum
 meetups/quorum/vm-organize-quorum-meetup
