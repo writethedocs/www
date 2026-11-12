@@ -236,6 +236,8 @@ unconf-details:
   date: str(required=False)
 
 writing_day-details:
+  name: str(required=False)  # menu label, default "Writing Day"
+  page: str(required=False)  # page in the menu, default writing-day
   url: str(required=False)
   git_signup_url: str(required=False)
   date: str(required=True)

@@ -103,7 +103,7 @@ We have a dedicated parents room that is available as needed. Please check in wi
 
 Service Animals are welcome at our conference venue.
 
-![Writing Day photo](/_static/conf/images/photos/writing-day-table-55246793808.jpg)
+![Community Day photo](/_static/conf/images/photos/writing-day-table-55246793808.jpg)
 
 ## Tips to Have a Great Conference
 
@@ -123,11 +123,11 @@ Service Animals are welcome at our conference venue.
 - Ask a question! Each talk is followed by a moderated Q&A. Send in your question using the QR code, and our moderators will put it to the speaker. Virtual attendees use the same QR code.
 - After a talk, use something you heard as a conversation starter with your colleagues or even the speakers during a break.
 
-### Writing Day:
+### Community Day:
 
-[Writing Day](/conf/{{shortcode}}/{{year}}/writing-day/) is the official start of the conference. To create more ways for attendees to participate, we are expanding Writing Day to include additional workshops and discussions.
+[Community Day](/conf/{{shortcode}}/{{year}}/community-day/) is the official start of the conference. Community Day is what we used to call Writing Day. Alongside the documentation projects, it includes workshops and discussions.
 
-- Writing Day project (half-day or full-day projects)
+- Community Day project (half-day or full-day projects)
   - Attendees can lead a project or join and contribute to a project
 - New to Git and GitHub workshops
 - Resume writing session or portfolio review

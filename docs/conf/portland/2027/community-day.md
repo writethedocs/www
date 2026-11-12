@@ -3,40 +3,40 @@ template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 banner: _static/conf/images/photos/writing-day-laptops-55246770841.jpg
 ---
-# What is Writing Day?
+# What is Community Day?
 
-Held on Sunday, Writing Day marks the official start of the conference.
+Held on Sunday, Community Day marks the official start of the conference.
 
-Writing Day is modeled after the concept of [code sprints](https://en.wikipedia.org/wiki/Sprint_%28software_development%29) or hackathons, which are common in open-source (OSS) conferences. Traditionally, this day has centered on collaborative work with attendees bringing a project to lead and/or contributing to someone else's project, typically half-day or full-day sessions.
+Community Day is what we used to call Writing Day. The day started as a [code sprint](https://en.wikipedia.org/wiki/Sprint_%28software_development%29) for documentation, with attendees bringing a project to lead and/or contributing to someone else's project in half-day or full-day sessions. Those projects are still at the heart of the day.
 
-To create more ways for attendees to take part on Sunday, we are expanding Writing Day to include additional, shorter-format options such as workshops and discussions.
+To create more ways for attendees to take part on Sunday, the day also includes shorter-format options such as workshops and discussions, and you can sign up for Unconference sessions from Sunday on.
 
-## How to Participate in Writing Day in {{year}}
+## How to Participate in Community Day in {{year}}
 
-Writing Day is available to in-person attendees only. The [virtual conference](/conf/{{shortcode}}/{{year}}/virtual/) component runs **{{date.conference.date}}**.
+Community Day is available to in-person attendees only. The [virtual conference](/conf/{{shortcode}}/{{year}}/virtual/) component runs **{{date.conference.date}}**.
 
 ### Choose from the Following Opportunities:
 
-- **Writing Day project** (half-day or full-day)
+- **Community Day project** (half-day or full-day)
   - Attendees can lead a project or join and contribute to a project
 - **New to Git and GitHub workshops**
 - **Resume writing session or portfolio review**
 - **A pre-scheduled, roundtable discussion track**
 
-More details about each activity are below. No additional sign up is required, and the full schedule will be released in the coming months. Ready to submit a Writing Day project? Click the link below.
+More details about each activity are below. No additional sign up is required, and the full schedule will be released in the coming months. Ready to submit a Community Day project? Click the link below.
 
 {% if writing_day.url %}
 ```{button-link} {{ writing_day.url }}
 :year: {{ year }}
-Submit your Writing Day project
+Submit your Community Day project
 ```
 {% endif %}
 
-## Writing Day Schedule
+## Community Day Schedule
 
 **{{date.day_two.dotw}}, {{date.day_two.date}}, {{date.day_two.writing_day_time}} {{tz}}**
 
-Writing Day is an all-day event designed for you to join in throughout the day. Whether you want to contribute to a half-day project, join an hour-long roundtable discussion, or attend a GitHub workshop, there is an option for you.
+Community Day is an all-day event designed for you to join in throughout the day. Whether you want to contribute to a half-day project, join an hour-long roundtable discussion, or attend a GitHub workshop, there is an option for you.
 
 - **Morning Session**
   - Welcome and overview
@@ -60,7 +60,7 @@ Exact times will be posted on our [schedule page](/conf/{{shortcode}}/{{year}}/s
 <a href="{{ sponsor.link }}" style="border-bottom: none;"><img src="{{ sponsor.name|sponsor_photo }}" alt="{{ sponsor.brand }}" style="max-width: 250px;"></a>
 </p>
 
-*Writing Day is sponsored by [{{ sponsor.brand }}]({{ sponsor.link }}).*
+*Community Day is sponsored by [{{ sponsor.brand }}]({{ sponsor.link }}).*
 {% endif %}
 
 ## How to Prepare
@@ -73,11 +73,11 @@ Exact times will be posted on our [schedule page](/conf/{{shortcode}}/{{year}}/s
 
 ## How to Participate in a GitHub Workshop, Resume Writing, and Roundtable Discussion
 
-This is a new offering designed to create more ways for attendees to participate in Writing Day beyond traditional documentation projects. Whether you want to build technical skills, get feedback on your resume, or join a facilitated discussion, these shorter-format sessions offer something for everyone.
+These sessions create more ways for attendees to participate in Community Day beyond the documentation projects. Whether you want to build technical skills, get feedback on your resume, or join a facilitated discussion, these shorter-format sessions offer something for everyone.
 
 ### GitHub Workshops
 
-GitHub workshops are beginner-friendly sessions held in the morning and afternoon, lasting around an hour. Each session begins with a presentation walkthrough covering how to sign up for a GitHub account and a hands-on example, followed by 1-on-1 support from volunteer TAs. It will get you ready to contribute to the Writing Day projects or to take back your new skills to your own projects.
+GitHub workshops are beginner-friendly sessions held in the morning and afternoon, lasting around an hour. Each session begins with a presentation walkthrough covering how to sign up for a GitHub account and a hands-on example, followed by 1-on-1 support from volunteer TAs. It will get you ready to contribute to the projects or to take back your new skills to your own projects.
 
 ### Resume Writing and Portfolio Review
 
@@ -87,11 +87,11 @@ Bring your resume or portfolio for feedback from fellow documentarians. This ses
 
 Roundtable discussions are pre-scheduled, facilitated conversations held in the afternoon. Topics include AI in documentation and API docs. We are keeping the topics focused this year as an experiment, and if it goes well might expand to a full-day discussion track in the future. 
 
-## How to Participate in a Writing Day Project
+## How to Participate in a Community Day Project
 
 ### Lead a Project
 
-Leading a project at Writing Day is a wonderful opportunity to engage with documentarians from a variety of backgrounds, experience, and expertise. Their collective wealth of experience can help you upgrade your project documentation and create a more inclusive project. This empowers all of us to work together to create opportunities for each other and bigger, better communities.
+Leading a project at Community Day is a wonderful opportunity to engage with documentarians from a variety of backgrounds, experience, and expertise. Their collective wealth of experience can help you upgrade your project documentation and create a more inclusive project. This empowers all of us to work together to create opportunities for each other and bigger, better communities.
 
 #### Submit
 
@@ -99,12 +99,12 @@ Leading a project at Writing Day is a wonderful opportunity to engage with docum
 
 {% if writing_day.url %}[Submit projects]({{ writing_day.url }}){% else %}Project submissions will open closer to the conference.{% endif %}
 
-Walk-on projects are always welcome. You are still more than welcome to bring a project the day of and announce it during the actual Writing Day.
+Walk-on projects are always welcome. You are still more than welcome to bring a project the day of and announce it during the actual Community Day.
 
 {% if writing_day.url %}
 ```{button-link} {{ writing_day.url }}
 :year: {{ year }}
-Submit your Writing Day project
+Submit your Community Day project
 ```
 {% endif %}
 
@@ -116,19 +116,19 @@ Submit your Writing Day project
 - **Clear onboarding:** Ensure your README, contribution guidelines, or onboarding instructions are accurate and up to date.
 - **Project experts:** We recommend having 1-2 people leading a project. You are welcome to call for virtual reinforcements from your community. If you need additional support onboarding volunteers, the WTD staff team will share this opportunity with the community.{% if writing_day.url %} View further information in the [Call for Projects form]({{ writing_day.url }}).{% endif %}
 - **Flexibility and understanding:** Reminder that attendees may need additional info to be successful in onboarding to your project.
-- **Submit your Writing Day project before the conference:** Projects submitted by **{{ writing_day.project_deadline }}** are featured in our pre-conference blog post and email. Many attendees have shared that their curiosity for specific projects motivated them to attend. Project submissions open in February/March.
+- **Submit your Community Day project before the conference:** Projects submitted by **{{ writing_day.project_deadline }}** are featured in our pre-conference blog post and email. Many attendees have shared that their curiosity for specific projects motivated them to attend. Project submissions open in February/March.
 
-These are suggestions and not requirements. It is perfectly valid to show up to Writing Day the day of, tell us about your project, and ask for volunteers. It has been done before and it will be done again.
+These are suggestions and not requirements. It is perfectly valid to show up to Community Day the day of, tell us about your project, and ask for volunteers. It has been done before and it will be done again.
 
 ### Contribute to a Project
 
-Writing Day is the perfect opportunity to participate and learn about new projects and technologies. You are welcome to stay with one project all day or project hop.
+Community Day is the perfect opportunity to participate and learn about new projects and technologies. You are welcome to stay with one project all day or project hop.
 
 Some projects also request project assistants to help answer questions. Serving as a project assistant can be a great way to get more exposure to the project's topic or processes and give you some experience of what running a project is like.
 
 **Tips to contribute to a project:**
 
-- **Regardless of your experience level, you are welcome here.** We are excited to have you. Even if you feel you lack the right skills, experiences, or have never attended an event like Writing Day before, you will be surprised at how much you can contribute.
+- **Regardless of your experience level, you are welcome here.** We are excited to have you. Even if you feel you lack the right skills, experiences, or have never attended an event like Community Day before, you will be surprised at how much you can contribute.
 - **Explore our guide to writing documentation.** Our [beginner's guide](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) is designed to help you get started and spark ideas for how you can contribute to a project.
 - **Ask questions.** If you encounter challenges with new concepts and tools, you are in a room surrounded by friendly people from diverse backgrounds and experiences. You can always ask the Welcome Wagon or Registration staff and volunteers. We will help you connect with the right person.
 - **View the project list.** Check out the projects that have been submitted in advance. This will be shared in April. Reminder that some projects are submitted day of.

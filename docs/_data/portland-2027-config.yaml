@@ -130,9 +130,9 @@ date: # how do we handle these? human readable would be nice.
     icon: hike
     dotw: Saturday
   day_two:
-    event: Writing Day
+    event: Community Day
     date: May 2
-    summary: Kick off the conference with Writing Day and work with fellow documentarians on a project. Followed by the opening reception.
+    summary: Kick off the conference with Community Day. Work with fellow documentarians on a project, join a workshop or a discussion. Followed by the opening reception.
     icon: writing
     dotw: Sunday
     writing_day_time: 9 AM-5 PM
@@ -213,6 +213,9 @@ qa:
   event_id: ""
 
 writing_day:
+  # The day's name and page in the header menu. Without these it is "Writing Day" at writing-day/.
+  name: Community Day
+  page: community-day
   url: ""
   date: Sunday, May 2, 9 AM - 5 PM
   project_deadline: "April 21, 2027"

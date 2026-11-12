@@ -18,7 +18,7 @@ Hi sponsors! We're excited to have you join us for Write the Docs {{ name }} {{ 
 **{{ date.day_two.dotw | upper }}, {{ date.day_two.date | upper }}**:
 
 * 8:00am: Doors open
-* 9:00am-5:00pm: Writing Day and check in
+* 9:00am-5:00pm: Community Day and check in
 * 5:00-7:00pm: Welcome reception
 
 **{{ date.day_three.dotw | upper }}, {{ date.day_three.date | upper }}**:
@@ -40,7 +40,7 @@ Hi sponsors! We're excited to have you join us for Write the Docs {{ name }} {{ 
 
 ## Conference overview
 
-* **{{ date.day_two.dotw | upper }}**: The conference begins with [Writing Day](/conf/{{ shortcode }}/{{ year }}/schedule/) and typically is attended by one third of our attendees. The Welcome Reception takes place in the evening and brings in an additional wave of attendees. **There are no sponsor booths this day**, but sponsors are encouraged to submit and lead a Writing Day project.
+* **{{ date.day_two.dotw | upper }}**: The conference begins with [Community Day](/conf/{{ shortcode }}/{{ year }}/schedule/) and typically is attended by one third of our attendees. The Welcome Reception takes place in the evening and brings in an additional wave of attendees. **There are no sponsor booths this day**, but sponsors are encouraged to submit and lead a Community Day project.
 
 * **{{ date.day_three.dotw | upper }}**: Day 1 of Speaker Talks and Unconference. Booth setup for Keystone and Patron sponsors. Attendees arrive promptly when doors open, and the remaining two thirds of attendees check in that morning. Sponsor introductions are on the main stage for Keystone and Patron sponsors. The day features seven speaker talks with short breaks between each session, and the Unconference track runs in parallel. An offsite social gathering is held {{ date.day_three.dotw }} evening.
 
@@ -69,7 +69,7 @@ Patron and Keystone sponsors can add premium activations to their package, inclu
 
 ## Sponsorship benefits during the conference
 
-Each sponsorship includes different opportunities to engage with our attendees. View further information below on specifics to sponsor booths, Writing Day, Unconference, and Lightning Talks. 
+Each sponsorship includes different opportunities to engage with our attendees. View further information below on specifics to sponsor booths, Community Day, Unconference, and Lightning Talks. 
 
 ### Sponsor booths: Keystone and Patron
 
@@ -104,14 +104,14 @@ If you are sponsoring a Lightning Talk, you will be given 60 seconds to share ab
 
 ### Sponsor sessions
 
-Publisher, Patron, and Keystone sponsors get a reserved Writing Day project or Unconference session, listed on the published schedule under your company's name. Let us know which you'd like when you confirm your sponsorship, and we'll hold the slot. Supporter sponsors are welcome to submit a Writing Day project or sign up for a walk-up Unconference session on the day, like any attendee.
+Publisher, Patron, and Keystone sponsors get a reserved Community Day project or Unconference session, listed on the published schedule under your company's name. Let us know which you'd like when you confirm your sponsorship, and we'll hold the slot. Supporter sponsors are welcome to submit a Community Day project or sign up for a walk-up Unconference session on the day, like any attendee.
 
-### Participate in Writing Day
+### Participate in Community Day
 
-Host a project at Writing Day. This is a place where the community gathers to get actual work done and is a great opportunity to meet with a small group and have extended interaction with attendees. 
+Host a project at Community Day. This is a place where the community gathers to get actual work done and is a great opportunity to meet with a small group and have extended interaction with attendees. 
 
-* View our [Lead a Project](https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/writing-day/#lead-a-project) for more information.
-* [Submit your Writing Day project here.](https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform?usp=dialog) All projects submitted by {{ writing_day.project_deadline }} will be published to our website, which encourages attendees to attend, engage with your product, and contribute to your documentation.
+* View our [Lead a Project](https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/community-day/#lead-a-project) for more information.
+* [Submit your Community Day project here.](https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform?usp=dialog) All projects submitted by {{ writing_day.project_deadline }} will be published to our website, which encourages attendees to attend, engage with your product, and contribute to your documentation.
 
 ### Host an Unconference session
 
