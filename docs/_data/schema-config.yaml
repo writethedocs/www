@@ -267,6 +267,6 @@ qa-details:
 
 volunteer-details:
   form_url: str(required=False)
-  applications_open: str(required=False)
+  opens: str(required=False)
   applications_close: str(required=False)
   schedule_signup_close: str(required=False)

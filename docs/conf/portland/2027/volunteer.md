@@ -28,9 +28,9 @@ Sign up to be a volunteer
 
 <div class="key-dates">
   <ol class="key-dates-list">
-    {%- if volunteer.applications_open and not volunteer.form_url %}
+    {%- if volunteer.opens and not volunteer.form_url %}
     <li>
-      <span class="key-date">{{ volunteer.applications_open }}</span>
+      <span class="key-date">{{ volunteer.opens|without_year }}</span>
       Volunteer applications open
     </li>
     {%- endif %}
