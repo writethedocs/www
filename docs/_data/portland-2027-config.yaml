@@ -231,6 +231,29 @@ sponsors:
       link: https://readme.com/?ref=writethedocs
       brand: ReadMe
       text: <p>ReadMe transforms static API docs into interactive developer hubs. Help developers make their first call faster, quickly troubleshoot issues along the way, and get insights into API usage to focus your team on the highest-impact improvements.</p>
+    - name: promptless
+      link: https://promptless.ai/?ref=writethedocs
+      brand: Promptless
+      text: |
+        <p>
+        Promptless is the AI agent that helps technical writers stay informed, move faster, and have more impact.
+        </p>
+
+        <p>
+        It ensures that you're never left out of the loop. Promptless follows your product and engineering team's work so you don't have to, reviewing every PR, Jira issue, and product question in Slack, and notifying you before docs go stale.
+        </p>
+
+        <p>
+        It adapts to your workflows, rather than forcing you to change them. Keep your existing docs hosting provider, framework, style guide, or Vale rules. Promptless auto-detects it all, with no migrations needed.
+        </p>
+
+        <p>
+        It drafts well-researched content for your review. Promptless includes citations for every code snippet or workflow that it documents, and will even browse your product and update your screenshots.
+        </p>
+
+        <p>
+        Join the growing number of writers using Promptless to stay ahead.
+        </p>
   patron: []
   publisher: []
   second:  # Supporter
