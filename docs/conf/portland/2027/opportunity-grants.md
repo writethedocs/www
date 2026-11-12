@@ -6,7 +6,37 @@ banner: _static/conf/images/photos/group-2026-55264515839.jpg
 
 # Opportunity Grants
 
-The Grant program for Write the Docs {{ city }} {{ year }} supports people who would otherwise not be able to attend the conference by covering ticket and/or attendance costs. 
+The Grant program for Write the Docs {{ city }} {{ year }} supports people who would otherwise not be able to attend the conference by covering ticket and/or attendance costs.
+If you need support in paying for your ticket, travel or other costs, you can apply to our Opportunity Grant program.
+
+All grants include a free conference ticket, and we can also help with typical costs such as travel and accommodation.
+Applications are open to anyone who wants to attend Write the Docs, regardless of your experience level or background.
+If you're unsure, please apply.
+
+## Key dates
+
+<div class="key-dates">
+  <ol class="key-dates-list">
+    {%- if grants.opens and not grants.url %}
+    <li>
+      <span class="key-date">{{ grants.opens|without_year }}</span>
+      Grant applications open
+    </li>
+    {%- endif %}
+    <li>
+      <span class="key-date">{{ grants.ends|without_year }}</span>
+      Grant applications due
+    </li>
+    <li>
+      <span class="key-date">{{ grants.notification|without_year }}</span>
+      Grant recipients notified
+    </li>
+    <li>
+      <span class="key-date">{{ date.short|without_year }}</span>
+      Conference in {{ city }}
+    </li>
+  </ol>
+</div>
 
 ## Eligibility
 
@@ -26,11 +56,6 @@ Grant applicants, like all other participants in the Write the Docs community, a
 Apply for an Opportunity Grant
 ```
 {% endif %}
-
-## Schedule
-
-- **{% if grants.url %}Now{% else %}Soon{% endif %} - {{ grants.ends }}:** Grant applications open
-- **{{ grants.notification }}:** Grant recipients notified
 
 ## What is Covered
 

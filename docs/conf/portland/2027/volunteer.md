@@ -13,6 +13,35 @@ Completing this form signs you up to volunteer. We will close the form once volu
 
 Each individual must volunteer for two or more 3-4 hour shifts and receives a **free ticket** to the conference.
 
+## Key dates
+
+<div class="key-dates">
+  <ol class="key-dates-list">
+    {%- if volunteer.opens and not volunteer.form_url %}
+    <li>
+      <span class="key-date">{{ volunteer.opens|without_year }}</span>
+      Volunteer applications open
+    </li>
+    {%- endif %}
+    <li>
+      <span class="key-date">{{ volunteer.applications_close }}</span>
+      Volunteer applications close
+    </li>
+    <li>
+      <span class="key-date">{{ volunteer.schedule_signup_close }}</span>
+      Volunteer schedule sign up closes
+    </li>
+    <li>
+      <span class="key-date">End of March</span>
+      Volunteer schedule emailed
+    </li>
+    <li>
+      <span class="key-date">{{ date.short|without_year }}</span>
+      Conference in {{ city }}
+    </li>
+  </ol>
+</div>
+
 ## Apply to Volunteer
 
 {% if volunteer.form_url %}
@@ -22,14 +51,6 @@ Sign up to be a volunteer
 ```
 {% endif %}
 
-![Volunteer](/_static/conf/images/photos/volunteer-triangle-55273959934.jpg)
-
-**Timeline:**
-
-- **{% if volunteer.form_url %}Now{% else %}Soon{% endif %}-{{ volunteer.applications_close }}**: Volunteer applications open
-- **{{ volunteer.applications_close }}-{{ volunteer.schedule_signup_close }}**: Volunteer schedule sign up open
-- **End of March**: Volunteer schedule emailed
-  
 ## Volunteer Roles
 
 ### Writing Day
