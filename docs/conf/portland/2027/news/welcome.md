@@ -43,7 +43,7 @@ View the sponsorship prospectus
 
 ## Stay Updated
 
-Want to find out what's happening with the conference, or enjoy our monthly community newsletter? Sign up to one or more of our [mailing lists](/conf/{{ shortcode }}/{{ year }}/mailing-list/). Your information will never be shared with anyone, and you can unsubscribe at any time. If you got this via email, you're already subscribed :)
+Want to find out what's happening with the conference, or enjoy our monthly community newsletter? Sign up to one or more of our [mailing lists](/conf/{{ shortcode }}/{{ year }}/news/#join-our-mailing-list). Your information will never be shared with anyone, and you can unsubscribe at any time. If you got this via email, you're already subscribed :)
 
 Want to connect with other documentarians in real-time? Join our [Slack](/slack/), and get excited with other attendees in the `#wtd-conferences` channel.
 

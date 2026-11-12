@@ -166,9 +166,8 @@ Subject:
 
    * We'll be using [Hopin](https://hopin.to/) for the event, over the coming weeks we'll get you account details so you can update head-shots and taglines on there.
    * We'll be live captioning as usual, and if you can get copies of your slides to make the captioners work easier that would be delightful. We need those a week or so before the event, so no rush.
-   * In a change from our in person event, we'll be hosting moderated Q&A in a separate Hopin room, directly after each talk.
 
-   Next week I'll send over a provisional schedule, and if having a particular slot would make it easier to attend the Q&A, let me know and I'll see what I can do.
+   Next week I'll send over a provisional schedule.
 
    And while we're here, ;-) if you don't have a profile picture set in [Pretalx](https://pretalx.com/wtd-{{shortcode}}-{{year}}/login/), now would be a great time to add one.
 
@@ -201,7 +200,7 @@ Subject:
 
    We're about seven weeks out from the conference now, lots of stuff is happening behind the scenes, and I hope you're feeling good about writing and speaking.
 
-   We've got a [provisional schedule]({{cfp.preview}}) up, I've taken note of all of your requests, but I'd *love it* if you could check your time-slot and make sure it works for you. We'll be publishing it **March 23**, so please request any changes well before that.
+   We've got a [provisional schedule]({{cfp.preview}}) up, I've taken note of all of your requests, but I'd *love it* if you could check your time-slot and make sure it works for you. We'll be publishing it **{{ cfp.schedule_announced }}**, so please request any changes well before that.
 
    We're keeping the Q&A sessions in our live event. Questions submitted by the audience are moderated by the emcee, and asked in a conversation style directly after your talk, we'll keep that pretty short.
 

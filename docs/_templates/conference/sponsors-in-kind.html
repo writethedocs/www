@@ -5,7 +5,7 @@
     {% for sponsor in sponsors.in_kind %}
     <div class="uk-width-1-2@s">
       <a href="{{ sponsor.link }}">
-        <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("150px", true) }};" />
+        <img src="{{ sponsor.name|sponsor_photo }}" alt="{{ sponsor.brand }}" style="max-width: {{ sponsor.width|default("150px", true) }};" />
       </a>
     </div>
     {% endfor %}
