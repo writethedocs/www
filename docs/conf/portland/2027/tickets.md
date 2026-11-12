@@ -107,9 +107,6 @@ All attendees, in person or virtual, are required to abide by our [Code of Condu
     Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
     If your company needs to pay by invoice or purchase order, see <a href="/conf/{{shortcode}}/{{year}}/convince-your-manager/#paying-by-invoice-or-purchase-order">how to buy tickets as a company</a>.
   </p>
-  <p>
-    We provide a certificate of attendance on request after the conference. Email us at <a href="mailto:{{email}}">{{email}}</a> and we will send you one.
-  </p>
   {% if flagticketsonsale %}
   <ul>
     <li>
@@ -162,4 +159,20 @@ minus the processing fee.
 
 If you need to cancel your ticket for health or visa reasons, we will offer a 100% refund.
 
-You can also transfer your ticket to someone else at any time. Email us at [{{email}}](mailto:{{email}}) with their name and email address.
+## Frequently Asked Questions
+
+### Can I transfer my ticket to someone else?
+
+Yes, at any time. Email us at [{{email}}](mailto:{{email}}) with their name and email address.
+
+### Can my company pay by invoice or purchase order?
+
+Yes. See [paying by invoice or purchase order](/conf/{{shortcode}}/{{year}}/convince-your-manager/#paying-by-invoice-or-purchase-order) on the Convince Your Manager page.
+
+### Can I get a certificate of attendance?
+
+We provide a certificate of attendance on request after the conference. Email us at [{{email}}](mailto:{{email}}) and we will send you one.
+
+### Do I need a visa to attend?
+
+{{ city }} is in the United States, so you may need a visa or an ESTA depending on where you are travelling from. Check the [U.S. Department of State website](https://travel.state.gov/content/travel/en/us-visas.html) for what applies to you, and apply early. If you need an invitation letter for your application, email us at [{{email}}](mailto:{{email}}) after buying your ticket. If your visa is refused, we refund your ticket in full.
