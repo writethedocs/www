@@ -59,7 +59,7 @@ Folks start giving talks on stage!
 
 ### {{ date.day_two.dotw | upper }}
 
-There are no speaker-specific requirements this day but we encourage you to join us for Writing Day and our Welcome Reception.
+There are no speaker-specific requirements this day but we encourage you to join us for Community Day and our Welcome Reception.
 
 ### {{ date.day_three.dotw | upper }}
 

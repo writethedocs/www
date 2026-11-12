@@ -1,6 +1,6 @@
 {% extends "conference/base.html" %}
 {% from "conference/buttons.html" import conference_buttons with context %}
-{% from "conference/navbar.html" import navbar_items, offcanvas_items with context %}
+{% from year_str ~ "/navbar.html" import navbar_items, offcanvas_items with context %}
 
 {% block full_title %}
 Home - Write the Docs {{ name }} {{ year }}

@@ -20,7 +20,7 @@ Please expect the following measures to be in place at the event:
 
 ## Air Filtration
 
-The Writing Day/Unconference spaces will have three air purifiers running throughout the conference, thanks to [Portland Clean Air Committee](https://pcac.carrd.co/). 
+The Community Day/Unconference spaces will have three air purifiers running throughout the conference, thanks to [Portland Clean Air Committee](https://pcac.carrd.co/). 
 
 ## Mask Policy
 

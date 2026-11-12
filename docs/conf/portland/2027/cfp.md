@@ -71,7 +71,7 @@ Mark your calendars:
 
 Write the Docs conferences are our opportunity to get together to explore and celebrate the craft of documentation in a positive, inclusive environment. **Our goal is to give documentarians a chance to connect and learn from each other.**
 
-Between the talks on stage, the discussions in the Unconference, the collaboration on Writing Day and other conversations, 100% of the content for our conferences comes from our community! Your perspective on what makes good docs is what this conference is all about. You'll have the chance to compare notes on what's happening in the industry, dig into questions of convention and good practice, and generally nerd out about all the things we love about documentation.
+Between the talks on stage, the discussions in the Unconference, the collaboration on Community Day and other conversations, 100% of the content for our conferences comes from our community! Your perspective on what makes good docs is what this conference is all about. You'll have the chance to compare notes on what's happening in the industry, dig into questions of convention and good practice, and generally nerd out about all the things we love about documentation.
 
 ## Who we're looking for
 

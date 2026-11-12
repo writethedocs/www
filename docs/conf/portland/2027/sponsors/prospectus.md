@@ -78,7 +78,7 @@ All packages can be customized, so let us know what you need!
     <td><span class="no">–</span></td>
   </tr>
   <tr>
-    <th scope="row">Reserved Unconference session or Writing Day project</th>
+    <th scope="row">Reserved Unconference session or Community Day project</th>
     <td><span class="yes">✓</span></td>
     <td><span class="yes">✓</span></td>
     <td><span class="yes">✓</span></td>
@@ -178,7 +178,7 @@ Keystone can be customized to fit your goals. Booth sponsors can add activations
 
 - {{sponsorship.keystone.tickets}} tickets, with additional available to purchase at a discounted rate of {{sponsorship.extra_ticket.price}}/ticket.
 - Most visible **sponsorship booth** for the entire conference (Monday & Tuesday). Monitor included in booth. Booths placed in order of purchase.
-- Sponsorship of a primary Write the Docs conference event (Unconference, Writing Day, or Social Event).
+- Sponsorship of a primary Write the Docs conference event (Unconference, Community Day, or Social Event).
 - **60 second introduction** on the main stage introducing your company.
 - Large logo on print material.
 - Large logo included in intermission slides and on talk videos.
@@ -218,7 +218,7 @@ The **Publisher** package is for companies that want to engage with attendees wi
 <h4>Benefits</h4>
 
 - {{sponsorship.publisher.tickets}} tickets, with additional available to purchase at a discounted rate of {{sponsorship.extra_ticket.price}}/ticket.
-- A **reserved Unconference session or Writing Day project**, listed on the published schedule under your company's name. Lead a discussion, run a workshop, or get attendees contributing to your docs.
+- A **reserved Unconference session or Community Day project**, listed on the published schedule under your company's name. Lead a discussion, run a workshop, or get attendees contributing to your docs.
 - Logo on the sponsor thank-you slide during the main stage sponsor introductions.
 - Logo included in intermission slides and on talk videos.
 - Logo and description (100 words) on the conference website.
