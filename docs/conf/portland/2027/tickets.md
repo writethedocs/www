@@ -40,7 +40,7 @@ Join the waiting list
 
 **Tickets are not on sale yet.** They will be available in {{ date.tickets_live }}, for our {{ year }} conference in {{ city }} on {{ date.main }}.
 
-```{button-link} /conf/{{shortcode}}/{{year}}/mailing-list/
+```{button-link} /conf/{{shortcode}}/{{year}}/news/#join-our-mailing-list
 :year: {{ year }}
 Hear about tickets on the mailing list
 ```
