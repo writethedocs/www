@@ -77,6 +77,7 @@ flaghaslightningtalks: bool()
 flagrunofshow: bool()
 flaghashike: bool()
 flaghasboat: bool()
+flaghassocialevents: bool(required=False)  # 2027 on; the menu shows the page while it is set
 flaglanding: bool()
 flaghasbadgeflair: bool()
 flaghasfood: bool(required=False)

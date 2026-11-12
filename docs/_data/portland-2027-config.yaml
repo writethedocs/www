@@ -281,7 +281,7 @@ photos:
 
 
 # Things that change over time, listed in order of change
-flaglanding: True
+flaglanding: False
 flaghassponsors: True
 flagcfp: True
 flagticketsonsale: False
@@ -296,13 +296,14 @@ flagvideos: False
 flagpostconf: False
 
 # Truthy things that don't change
-flaghasunconf: True
+flaghasunconf: False
 flaghashike: True
 flaghasfood: True
 flaghascommunityday: True
 flaghaslightningtalks: True
 flaghassponsorexpo: True
 flaghasboat: False
+flaghassocialevents: False
 
 # Pages to be linked once refreshed for 2027
 flaghasvisiting: False
