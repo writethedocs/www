@@ -75,6 +75,125 @@ body .page-content ul {
 
 }
 
+// News pages: ablog's post list, laid out like the blog page's post lists:
+// the date in small muted text above a bold title, with a rule between
+// posts. The list's format is "{date}{title}", so each item's paragraph
+// holds the date as text and the title as its link.
+body .page-content ul.postlist {
+    padding-left: 0;
+    margin: 0 0 20px;
+    list-style: none;
+
+    > li {
+        margin: 0;
+        padding: 12px 0;
+        border-bottom: 1px solid $line-color;
+    }
+
+    p {
+        display: block;
+        margin: 0;
+    }
+
+    .ablog-post-title {
+        color: $muted-color;
+        font-size: 15px;
+
+        a, a:visited, a:link {
+            display: block;
+            border-bottom: 0;
+            color: $black;
+            font-size: 19px;
+            font-weight: $bold;
+            line-height: 1.3;
+        }
+
+        a:hover {
+            border-bottom: 0;
+            color: $main-color;
+        }
+    }
+}
+
+// A conference's latest posts, at the top of its news page and in the
+// front page's "Updates from the team" band, as cards like the newsletter
+// page's: the date, the title and the post's section titles.
+body .page-content ul.news-latest,
+.news-block ul.news-latest {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 210px), 1fr));
+    gap: 16px;
+    margin: 0 0 32px;
+    padding: 0;
+    list-style: none;
+
+    > li {
+        margin: 0;
+    }
+
+    a, a:visited, a:link {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        box-sizing: border-box;
+        padding: 20px;
+        border: 1px solid $line-color;
+        border-radius: 10px;
+        background: $white;
+        color: $copy-color;
+        transition: box-shadow 0.15s, transform 0.15s;
+    }
+
+    a:hover {
+        border-bottom: 1px solid $line-color;
+        box-shadow: 0 10px 30px rgba(19, 37, 48, 0.12);
+        transform: translateY(-2px);
+    }
+
+    time {
+        color: $muted-color;
+        font-size: 15px;
+    }
+
+    strong {
+        margin-top: 4px;
+        color: $black;
+        font-size: 20px;
+        line-height: 1.3;
+    }
+
+    ul {
+        margin: 12px 0 0;
+        padding-left: 18px;
+
+        li {
+            margin: 0 0 6px;
+            font-size: 15px;
+            line-height: 1.4;
+        }
+    }
+}
+
+// The link to the news page under the front page's cards, with an arrow
+// that moves on hover.
+.news-block__more {
+    margin: 8px 0 0;
+    text-align: center;
+    font-size: 17px;
+    font-weight: $bold;
+
+    a::after {
+        content: "\2192";
+        display: inline-block;
+        margin-left: 6px;
+        transition: transform 0.15s;
+    }
+
+    a:hover::after {
+        transform: translateX(4px);
+    }
+}
+
 body h2, body .page-content h2 {
     color: $black;
     font-weight: $bold;
@@ -776,11 +895,6 @@ body .uk-offcanvas-slide a.uk-button-ghost {
 
     .uk-container {
         padding: 48px 24px;
-
-        // Remove paragraph margins in news list items to fix double-spacing
-        .postlist .ablog-post p {
-            margin: 0;
-        }
 
         a:hover {
             text-decoration: none;
