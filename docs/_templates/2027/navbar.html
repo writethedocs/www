@@ -27,7 +27,7 @@
     {'text': 'Social Events', 'page': 'social-events'},
     {'text': 'Speaker Q&A', 'page': 'qa', 'show': flaglivestreaming},
   ]},
-  {'text': 'Tickets', 'page': 'tickets', 'children': [
+  {'text': 'Tickets', 'page': 'tickets', 'show': flagticketsonsale or flagsoldout, 'children': [
     {'text': 'Tickets', 'page': 'tickets'},
     {'text': 'Virtual Attendance', 'page': 'virtual'},
     {'text': 'Opportunity Grants', 'page': 'opportunity-grants'},
