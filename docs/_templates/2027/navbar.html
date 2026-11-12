@@ -5,8 +5,9 @@
   `menu` lists it once; navbar_items() renders it in the bar across the top, and offcanvas_items() in the slide-in menu on small
   screens.
 
-  An item with `show` appears only when that's true, usually a flag from the
-  conference's config. `page` is relative to the conference, so "cfp" is
+  An item, or a whole dropdown, with `show` appears only when that's true,
+  usually a flag from the conference's config. Tickets and the logistics pages
+  join the menu once tickets go on sale. `page` is relative to the conference, so "cfp" is
   conf/<city>/<year>/cfp.
 
   Import it with the page's context, which holds the conference's config:
@@ -26,18 +27,18 @@
     {'text': 'Social Events', 'page': 'social-events'},
     {'text': 'Speaker Q&A', 'page': 'qa', 'show': flaglivestreaming},
   ]},
-  {'text': 'Tickets', 'page': 'tickets', 'children': [
+  {'text': 'Tickets', 'page': 'tickets', 'show': flagticketsonsale, 'children': [
     {'text': 'Tickets', 'page': 'tickets'},
     {'text': 'Virtual Attendance', 'page': 'virtual'},
     {'text': 'Opportunity Grants', 'page': 'opportunity-grants'},
     {'text': 'Convince Your Manager', 'page': 'convince-your-manager'},
   ]},
   {'text': 'About', 'page': 'about', 'children': [
-    {'text': 'Venue', 'page': 'venue'},
+    {'text': 'Venue', 'page': 'venue', 'show': flaghasattendeeguide},
     {'text': 'Visiting ' ~ city, 'page': 'visiting', 'show': flaghasvisiting and not flagisvirtual},
     {'text': 'Attendee Guide', 'page': 'attendee-guide', 'show': flaghasattendeeguide and not flagisvirtual},
     {'text': 'Volunteer Info', 'page': 'volunteer', 'show': not flagisvirtual},
-    {'text': 'Health and Safety Policy', 'page': 'health', 'show': not flagisvirtual},
+    {'text': 'Health and Safety Policy', 'page': 'health', 'show': flaghasattendeeguide and not flagisvirtual},
     {'text': 'Code of Conduct', 'page': 'code-of-conduct'},
     {'text': 'Meet the Team', 'page': 'team', 'show': flaghasteam},
     {'text': 'Contact us', 'page': 'contact'},
@@ -64,7 +65,7 @@
 
 {%- macro navbar_items() -%}
 <ul class="uk-nav uk-visible@s">
-  {%- for item in menu %}
+  {%- for item in menu if item.get('show', True) %}
   <li>
     <ul class="uk-navbar-nav">
       <li>
@@ -88,7 +89,7 @@
 
 {%- macro offcanvas_items() -%}
 <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
-  {%- for item in menu %}
+  {%- for item in menu if item.get('show', True) %}
   <li class="uk-parent">
     <a href="{{ link(item.page) }}">{{ item.text }}</a>
     {%- if item.children %}
