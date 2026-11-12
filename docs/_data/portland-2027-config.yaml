@@ -260,7 +260,6 @@ sponsors:
     - name: buttondown
       link: https://buttondown.com/?ref=writethedocs
       brand: Buttondown
-      text: "Buttondown is a simple tool for writing and sending email newsletters. It supports Markdown, has a full API, is GDPR-compliant, and doesn't collect data about you or your subscribers by default."
     - name: readthedocs
       link: https://about.readthedocs.com/?ref=writethedocs
       brand: Read the Docs
