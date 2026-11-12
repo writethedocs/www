@@ -15,45 +15,22 @@ Whether you have a question about the schedule, where to eat, or how to connect 
 ## Welcome Wagon Tour
 Join us for an introduction to Write the Docs. We’ll go on a short tour of the venue and review information about the conference. The tour is designed to give attendees the information they need to feel comfortable at the conference. This also gives everyone a chance to meet someone new. Bring any questions you may have.
 
-Welcome Wagon Tour is scheduled for: 
+Welcome Wagon Tour is scheduled for:
 
-- TBD
+- Sunday 12:00
+- Sunday 16:30
+- Monday 08:45
 
 ## Conference Layout
 
-### Registration, Welcome Wagon, and Sponsors
-
-Location: Foyer on ground floor
-
-### Speaker Talks
-
-Location: Auditorium on ground floor
-
-### Unconference
-
-Location: bUm Box on first floor
-
-### Catering 
-
-Location: Wintergarten in basement floor
-
-### Communal Rooms
-
-Location: Awareness room, Prayer room, room for Presence and Movement are in the basement floor
-
-### Parents Room
-
-Location: Basement floor
-*ask registration staff for key
-
-View our [Venue](/conf/{{shortcode}}/{{year}}/venue/) page for details on how to get to bUm.
+View our [Venue](/conf/{{shortcode}}/{{year}}/venue/) page for details and the layout of spaces during the conference.
 
 
 ## Food and Drinks
 
 - Coffee, tea, and light snacks will be provided in the morning and afternoon. 
 - Bring a water bottle to refill.
-- The Cafeteria in the venue is open from 10:00-16:00 where you can purchase food and drink. We are confirming whether it is open on Sunday. 
+- The Cafeteria in the venue is only open on Tuesday.
 - There are many food and beverage options within a 10-minute walk of the venue. View the [Visiting Berlin](/conf/{{shortcode}}/{{year}}/visiting/) page.
 
 ## Dress Code
@@ -124,12 +101,14 @@ The [Unconference](/conf/{{shortcode}}/{{year}}/unconference/) consists of atten
 - Sign up to give a talk at the Registration table. Selections are announced on Monday and Tuesday before the lunch breaks.
 
 ### Sponsor Expo:
-[Sponsor Expo](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/) will include companies sharing products and others hiring. They'll be in the foyer both days.
+[Sponsor Expo](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/) will include companies sharing products and others hiring. They'll be in the foyer on both talk days, Monday and Tuesday.
 
-### Monday Conference Party:
+### Monday Night Social:
 This is our main social event of the conference. Drinks and snacks provided by us. It is a time to connect with other attendees outside of the scheduled programming. Come for an hour or stay the entire time!
 
-Details TBD.
+**Where**: {{about.social_venue}}
+
+**When**: {{date.day_three.dotw}}, {{date.day_three.social_time}} {{tz}}
 
 ## Did We Miss Anything?
 Is there anything that would make your attendance possible or improve your experience? Please email us at <{{email}}>, and we’ll do what we can to provide it.

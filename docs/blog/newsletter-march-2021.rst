@@ -12,7 +12,7 @@ Spring is here and the year is racing on, and can you believe it's getting close
 
 And if Portland isn't soon enough for you, the West Coast Quorum meetup is holding its first virtual event this month! The event is about "The Product is Docs: A Look Inside" and will be held on Thursday 18th March at 19:00 Pacific Time. If you're interested, `sign up to attend <https://www.meetup.com/virtual-write-the-docs-west-coast-quorum/events/276616460/>`__.
 
-This month we've seen a quite a number of style guide and "how do I write this" discussions, so we're trying something new: a newsletter on a theme! We hope you enjoy it :)
+This month we've seen quite a number of style guide and "how do I write this" discussions, so we're trying something new: a newsletter on a theme! We hope you enjoy it :)
 
 ------------------------------------
 A best practice by any other name...
@@ -38,7 +38,7 @@ And etcetera and et cetera. And so forth ...
 
 Are documentarians for or against latinisms like etc? A recent question on this produced a remarkable consensus - the newsletter team are so used to the answer "it depends"! 
 
-So: don't use "etc" was the fairly unaninmous response: it's just too likely that readers will not know what it means. However, there was much less of a consensus on what to replace it with. Some, in the spirit of the widely recognized ban on latinisms, simply translated it into English, most commonly into "and so on." Others recommended writing around the term, typically in the form "such as <example_1> or <example_2>" to replace "<example_1>, <example_2>, etc."
+So: don't use "etc" was the fairly unanimous response: it's just too likely that readers will not know what it means. However, there was much less of a consensus on what to replace it with. Some, in the spirit of the widely recognized ban on latinisms, simply translated it into English, most commonly into "and so on." Others recommended writing around the term, typically in the form "such as <example_1> or <example_2>" to replace "<example_1>, <example_2>, etc."
 
 Most agreed it's not worth making special effort to edit for only this offense. As some said, "it's in the backlog's backlog's backlog ..." So while nobody seems to like "etc", most acknowledged they let such things go more often than not, unless thez can see that these terms have become real stumbling blocks for users.
 

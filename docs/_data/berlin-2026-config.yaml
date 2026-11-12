@@ -10,15 +10,12 @@ email: berlin@writethedocs.org
 color: gold
 rgb: 253,185,19
 rgb_contrast: 126,77,0 # if the main color has sufficient contrast against white text, set this to the same value as rgb
-hex: fdb913
-hex_contrast: 7e4d00 # if the main color has sufficient contrast against white text, set this to the same value as hex
 time_format: 24h
 
 photos:
   default:
     - _static/conf/images/headers/2026/unconference.jpg
-    - _static/conf/images/headers/2026/volunteer.jpg
-    - _static/conf/images/headers/2026/writing-day.jpg
+    - _static/conf/images/photos/writing-day-laptops-55246770841.jpg
     - _static/conf/images/headers/2026/tickets.jpg
   index:
     - _static/conf/images/pics/writing-day.jpg
@@ -30,27 +27,35 @@ buttons:
 #      link: /news/welcome
     # - text: Sponsor us
       # link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
+    #- text: Submit a Talk
+    #  link: /cfp
     # - text: See the Schedule
     #   link: /schedule
+    # - text: Speaker Q&A
+    #   link: /qa
     # - text: See the Speakers
-    #   link: /speakers
-    - text: Buy a Ticket
-      link: /tickets
+    #  link: /speakers
+    # - text: Buy a Ticket
+    #   link: /tickets
     # - text: Attendee Guide
     #   link: /attendee-guide
     # - text: Watch the Live Stream
     #   link: /livestream
+    - text: Browse the photos
+      link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720335472747/
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLd_PJO5sePEI
+    - text: Conference recap
+      link: /news/thanks-recap
   bottom:
 #    - text: Conference announcement
 #      link: /news/welcome
     # - text: Sponsor us
-      # link: /sponsors/prospectus
-    - text: Submit a Talk
-      link: /cfp
-    - text: Buy a Ticket
-      link: /tickets
+    #   link: /sponsors/prospectus
+    #- text: Submit a Talk
+    #  link: /cfp
+    # - text: Buy a Ticket
+    #   link: /tickets
     # - text: See the Schedule
     #   link: /schedule
     # - text: See the Talks
@@ -59,6 +64,12 @@ buttons:
     #   link: /attendee-guide
     # - text: Watch the Live Stream
     #   link: /livestream
+    - text: Browse the photos
+      link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720335472747/
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLd_PJO5sePEI
+    - text: Conference recap
+      link: /news/thanks-recap
 
 tickets:
   concierge:
@@ -104,8 +115,8 @@ grants:
   notification: "July 20, 2026"
 
 shirts:
-  url: ""
-  ends: "TBD"
+  url: "https://shirt.writethedocs.org/"
+  ends: "September 30, 2026"
 
 date: # how do we handle these? human readable would be nice.
   main: "**September 6-8, 2026**"
@@ -127,7 +138,7 @@ date: # how do we handle these? human readable would be nice.
     summary: Kick off the conference with Writing Day and work with fellow documentarians on a project. Followed by the opening reception.
     icon: writing
     dotw: Sunday
-    writing_day_time: 10:00-18:00
+    writing_day_time: 9:30-17:00
     reception_time: 17:00-19:00
   day_three:
     event: Conference Day 1
@@ -135,7 +146,6 @@ date: # how do we handle these? human readable would be nice.
     summary: This is the main event! Hear from lots of interesting folks about all things documentation. We will have talks all day, and unconference sessions running in parallel.
     dotw: Monday
     talk_time: 10:00-17:00
-    unconference_time: 10:45-17:00
     social_time: 19:00-21:00
     icon: conference
   day_four:
@@ -144,18 +154,17 @@ date: # how do we handle these? human readable would be nice.
     summary: And the conference goes on! More talks and unconference today!
     dotw: Tuesday
     talk_time: 10:00-17:00
-    unconference_time: 13:00-17:00
     icon: conversation
   total_talk_days: 2
 
 about:
   attendees: 200
-  social_venue: TBC
+  social_venue: Straßenbräu Ausschank 2, Görlitzer Str. 52, 10997 Berlin
   venue: bUm Berlin
-  venue_address: Paul-Lincke-Ufer 21, 10999 Berlin
-  photos: TBD
-  mainroom: Main stage
-  unconfroom: TBC
+  venue_address: Paul-Lincke-Ufer 21, 10999 Berlin, Germany
+  photos: https://www.flickr.com/photos/writethedocs/albums/72177720335472747/
+  mainroom: Auditorium on ground floor
+  unconfroom: bUm Box on first floor
   projector_ratio: "16:9"
 
 cfp:
@@ -164,22 +173,30 @@ cfp:
   notification: "June 15, 2026"                   # (Mon) 8 weeks to write and prepare
   speaker_tickets_by: "August 17, 2026"           # (Mon) Approx 3 weeks before
   video_by: "August 17, 2026"                     # Upload date for recorded talks (remote speakers)
-  slides_by: "August 17, 2026"                    # (Mon) 2-3 weeks before
-  preview: "TBD"                                  # Preview URL TODO
+  slides_by: "August 24, 2026"                    # (Mon) 2-3 weeks before
+  preview: "https://writethedocs-www--2726.org.readthedocs.build/conf/berlin/2026/schedule/"                                  # Preview URL TODO
 
 unconf:
-  url: ""
+  url: "https://docs.google.com/spreadsheets/d/1g300ZMOfZ0SRrg37v0MvYTVRy2W1Lcs8rlQ7unnWOZM/edit?usp=sharing"
+  virtual_url: "https://docs.google.com/spreadsheets/d/1U6Ve505zbxOGGbMvsUwRIdXmOUUj3V9tID6nmZy44uA/edit?usp=sharing"
   date: "All day, Monday, September 7 and Tuesday, September 8"
 
+lightning_talks:
+  signup_url: "https://docs.google.com/forms/d/e/1FAIpQLSduOPKqF2wIZM79cGL4ZttjnRXVX2f_tz3YfiR_HhOnhBMLoA/viewform"
+
+qa:
+  event_id: 7dS4HFHyZcnQmCS4kW9c7q
+
 writing_day:
-  url: ""
-  date: Sunday, September 6, 10:00-18:00 CEST
+  url: "https://docs.google.com/forms/d/e/1FAIpQLSf5dN0o3HkPMY5UTVzyhO6nq7T07OL6awFHv9fkfX_jdV98iQ/viewform"
+  git_signup_url: "https://ti.to/writethedocs/write-the-docs-berlin-2026/with/qyxd-bvuzc"
+  date: Sunday, September 6, 9:30-17:00 CEST
   project_deadline: "August 17, 2026"
 
 volunteer:
-  form_url: ""
-  applications_close: "June 22"
-  schedule_signup_close: "August 3"
+  form_url: "https://docs.google.com/forms/d/e/1FAIpQLSf-I6iwVT06gGBd64JHB4XNutbk6CVsVTvAyCnWwQwnhSJnEA/viewform"
+  applications_close: "July 23"
+  schedule_signup_close: "August 7"
 
 sponsors:
   keystone:
@@ -201,27 +218,23 @@ sponsors:
     - name: knowledgeowl
       brand: KnowledgeOwl
       link: https://www.knowledgeowl.com?ref=writethedocs
-      width: 250px
   first:
   in_kind:
-    - name: readthedocs
-      link: https://about.readthedocs.com/?ref=writethedocs
-      brand: Read the Docs
 
 # Things that change over time, listed in order of change
 flaglanding: False
 flaghassponsors: True
-flagcfp: True
+flagcfp: False
 flagticketsonsale: True
 flagsoldout: False
 flagscheduleincomplete: True
-flagspeakersannounced: False
-flagrunofshow: False
-flaghasschedule: False
-flaghasshirts: False
+flagspeakersannounced: True
+flagrunofshow: True
+flaghasschedule: True
+flaghasshirts: True
 flaglivestreaming: False
-flagvideos: False
-flagpostconf: False
+flagvideos: True
+flagpostconf: True
 flaghasbadgeflair: False
 
 # Truthy things that don't change
@@ -232,6 +245,6 @@ flaghaswritingday: True
 flaghaslightningtalks: True
 flaghassponsorexpo: True
 flaghasboat: False
-flaghasvisiting: False
-flaghasteam: False
-flaghasattendeeguide: False
+flaghasvisiting: True
+flaghasteam: True
+flaghasattendeeguide: True

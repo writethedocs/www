@@ -12,6 +12,8 @@ banner: _static/conf/images/headers/2026/tickets.jpg
 
 We're excited to invite you to our {{ year }} conference in {{ city }}.
 
+Virtual ticket sales close on September 6, 2026.
+
 {% if shirts and flaghasshirts %}
 
 Conference shirts are also available. See the [Official Conference Shirts](#official-conference-shirts) section below for details.
@@ -34,7 +36,7 @@ Write the Docs {{ name }} {{ year }} is a hybrid conference, which you can atten
 
 - Entry to all conference events and activities
 - Snacks and drinks on event days (Sunday-Tuesday)
-- Welcome Reception and Social Event with light snacks and drinks
+- Welcome Reception and Monday Night Social with drinks and snacks
 - Wifi throughout the event
 - Meeting lots of fantastic people in a spacious, inviting venue
 
@@ -91,6 +93,9 @@ If you need to cancel your ticket because of fear of traveling internationally o
   <p>
     Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
   </p>
+  <p>
+    We provide a certificate of attendance on request after the conference. Email us at <a href="mailto:{{email}}">{{email}}</a> and we will send you one.
+  </p>
   {% if flagticketsonsale %}
   <ul>
     <li>
@@ -100,9 +105,27 @@ If you need to cancel your ticket because of fear of traveling internationally o
   {% endif %}
 </div>
 
+<div class="ticket">
+  <h2>
+    <strong>Corporate Concierge</strong>: <em>{{tickets.concierge.price}}</em> per ticket
+  </h2>
+  <p>
+    We offer a corporate concierge service if your company is unable to follow our regular ticket sales process through the website.
+    We can offer payment by invoice, process purchase orders, bank transfers, fill in supplier registration forms, and offer other support.
+    Your tickets will be issued after we have received payment. The minimum purchase is three tickets.
+  </p>
+  {% if flagticketsonsale %}
+  <ul>
+    <li>
+      <a href="mailto:{{email}}">Contact us at {{email}} for this service</a>
+    </li>
+  </ul>
+  {% endif %}
+</div>
+
 {% if shirts and flaghasshirts %}
 
-<div class="ticket">
+<div class="ticket" id="official-conference-shirts">
   <h2>
     <strong>Official Conference Shirts</strong>
   </h2>

@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/headers/2026/writing-day.jpg
+banner: _static/conf/images/photos/writing-day-board-55246829464.jpg
 ---
 # What is Writing Day?
 
@@ -13,7 +13,7 @@ To create more ways for attendees to take part on Sunday, we are expanding Writi
 
 ## How to Participate in Writing Day in 2026
 
-Writing Day is available to in-person attendees only. The [virtual confereence](/conf/{{shortcode}}/{{year}}/virtual/) component runs **{{date.conference.date}}**.
+Writing Day is available to in-person attendees only. The [virtual conference](/conf/{{shortcode}}/{{year}}/virtual/) component runs **{{date.conference.date}}**.
 
 ### Choose from the Following Opportunities:
 
@@ -25,11 +25,10 @@ Writing Day is available to in-person attendees only. The [virtual confereence](
 
 More details about each activity are below. No additional sign up is required, and the full schedule will be released in the coming months. Ready to submit a Writing Day project? Click the link below.
 
-<div class="announcement" style="background-color:white;">
-    <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ writing_day.url }}">Submit your Writing Day project</a>
-    </div>
-</div>
+```{button-link} {{ writing_day.url }}
+:year: {{ year }}
+Submit your Writing Day project
+```
 
 ## Writing Day Schedule
 
@@ -51,13 +50,16 @@ Writing Day is an all-day event designed for you to join in throughout the day. 
 
 Exact times will be posted on our [schedule page](/conf/{{shortcode}}/{{year}}/schedule/).
 
+{% if writing_day.sponsor %}
+{% set sponsor = sponsors|find_sponsor(writing_day.sponsor) %}
 ### Sponsored by
 
 <p style="text-align: center; margin-top: 1em;">
-<a href="https://www.stainless.com/?utm_source=write_the_docs&utm_medium=conference&utm_campaign=write_the_docs_2026" style="border-bottom: none;"><img src="/_static/img/sponsors/stainless.png" alt="Stainless" style="max-width: 250px;"></a>
+<a href="{{ sponsor.link }}" style="border-bottom: none;"><img src="{{ sponsor.name|sponsor_photo }}" alt="{{ sponsor.brand }}" style="max-width: 250px;"></a>
 </p>
 
-*Writing Day is sponsored by [Stainless](https://www.stainless.com/?utm_source=write_the_docs&utm_medium=conference&utm_campaign=write_the_docs_2026).*
+*Writing Day is sponsored by [{{ sponsor.brand }}]({{ sponsor.link }}).*
+{% endif %}
 
 ## How to Prepare
 
@@ -97,11 +99,10 @@ Leading a project at Writing Day is a wonderful opportunity to engage with docum
 
 Walk-on projects are always welcome. You are still more than welcome to bring a project the day of and announce it during the actual Writing Day.
 
-<div class="announcement" style="background-color:white;">
-    <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ writing_day.url }}">Submit your Writing Day project</a>
-    </div>
-</div>
+```{button-link} {{ writing_day.url }}
+:year: {{ year }}
+Submit your Writing Day project
+```
 
 **Tips to create and lead a new project effectively:**
 
@@ -219,7 +220,7 @@ This session is a hands-on playground for both the tool and its docs. Bring a la
 * Project organizer: Frances Liu, she/her
 * Project session: Morning
 
-AI agents are reading your docs now. They’re providing support for your users, helping your customers build with your product, and even making buying decisions. But agents “browse” your docs very differently from humans—they can’t see your sidebar, don’t execute Javascript, and truncate content aggressively.
+AI agents are reading your docs now. They’re providing support for your users, helping your customers build with your product, and even making buying decisions. But agents “browse” your docs very differently from humans—they can’t see your sidebar, don’t execute JavaScript, and truncate content aggressively.
 
 AFDocs (Agent-Friendly Docs) is an open-source standard that measures how accessible your docs are to AI. It gives you a scorecard with improvement recommendations, and there’s even [a leaderboard](https://buildwithfern.com/agent-score). For our own docs, we went from scoring in the 70s to scoring a perfect 100 with a little care and effort, and there are always some quick wins available to make your docs more accessible to agents!
 

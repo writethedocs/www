@@ -30,7 +30,7 @@ What we’re looking for
 **Mix of topics and perspectives**
 
 The focus of Write the Docs is software documentation, but we actively seek talks that address a wide range of related subjects,
-at various levels of expertise. Documentation perspectives from other fields are welcome! Talks from the scientific community, fiction writers, system administrators, and support staff – in addition to technical writers and software developers – are all valuable to our attendees.
+at various levels of expertise. Documentation perspectives from other fields are welcome! Talks from the scientific community, fiction writers, system administrators, and support staff – in addition to technical writers and software developers – are all valuable to our attendees.
 
 **Diverse group of speakers**
 
@@ -62,8 +62,8 @@ Need help?
 
 If you need a hand preparing your talk proposal, there are lots of good places to start:
 
-* **Community mentorship** – We have an ever-growing pool of previous Write the Docs speakers, many of whom are happy to be a second pair of eyes on talk proposals. If you're interested in working with a past speaker, let us know!
-* **Meetup brainstorming** – For some in-person workshopping, check in on your `local meetup group <https://www.writethedocs.org/meetups/>`_ and see if they have a talk brainstorming session on their calendar. If they don't... ask if they're planning one!
+* **Community mentorship** – We have an ever-growing pool of previous Write the Docs speakers, many of whom are happy to be a second pair of eyes on talk proposals. If you're interested in working with a past speaker, let us know!
+* **Meetup brainstorming** – For some in-person workshopping, check in on your `local meetup group <https://www.writethedocs.org/meetups/>`_ and see if they have a talk brainstorming session on their calendar. If they don't... ask if they're planning one!
 * **Slack hivemind** – You can also hit up the hivemind directly on the Write the Docs Slack, any time of day! (If you're not registered yet, you can at `https://www.writethedocs.org/slack/ <https://www.writethedocs.org/slack/>`_.)
 
 Presentation format

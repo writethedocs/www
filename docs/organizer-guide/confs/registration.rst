@@ -93,7 +93,7 @@ Important notes:
 * If an attendee is in the attendee list, but does not have a badge,
   they likely registered too late or changed the registration.
   They can take a blank badge to write their name on it.
-* If an attendee is not in the attendee list, they can not register,
+* If an attendee is not in the attendee list, they cannot register,
   **even if they do have a badge**. An organiser will have to be involved.
   The exception to this is when they say they are taking someone else's place,
   and that person is on the list. In that case, cross off that person, write

@@ -57,7 +57,7 @@ Love them - because they make it easier for readers to find things in the UI? Lo
 Screen capture tool recommendations:
 
 *   `Snagit from Techsmith <https://www.techsmith.com/screen-capture.html>`__ (Paid)
-*   `Skitch from Evernote <https://evernote.com/products/skitch>`__ (Free, MacOS & iOS only)
+*   `Skitch from Evernote <https://evernote.com/products/skitch>`__ (Free, macOS & iOS only)
 *   `Greenshot <https://getgreenshot.org/>`__ (Free, OSS)
 *   `Screenpresso <https://www.screenpresso.com/>`__ (Free)
 *   `LightShot <https://app.prntscr.com/en/index.html>`__ (Free)

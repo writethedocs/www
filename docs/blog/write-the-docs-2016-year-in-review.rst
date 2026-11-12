@@ -47,7 +47,7 @@ The :doc:`newsletter </newsletter>` has been the second initiative that has real
 We had a few conversations about how to archive Slack in a good way,
 and the idea of sending summary updates each month was an inventive way to handle this.
 I think it has been full of value each month,
-and is a wonderful way to keep tabs on the the community if you can't keep up with Slack.
+and is a wonderful way to keep tabs on the community if you can't keep up with Slack.
 
 Meetups
 =======

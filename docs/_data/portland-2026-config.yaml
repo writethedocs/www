@@ -10,8 +10,6 @@ email: portland@writethedocs.org
 color: gold
 rgb: 253,185,19
 rgb_contrast: 126,77,0 # if the main color has sufficient contrast against white text, set this to the same value as rgb
-hex: fdb913
-hex_contrast: 7e4d00 # if the main color has sufficient contrast against white text, set this to the same value as hex
 time_format: 12h
 
 buttons:
@@ -32,10 +30,12 @@ buttons:
     #   link: /attendee-guide
     # - text: Watch the Live Stream
     #   link: /livestream
-    # - text: Watch the videos!
-    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHplMbtJtidqFFtL7rt3ASNSR
-    # - text: Conference recap
-    #   link: /news/thanks-recap
+    # - text: Browse the photos
+    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720333452248
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkMzZFXFye22pKbafhhC3Cp
+    - text: Conference recap
+      link: /news/thanks-recap
   bottom:
     # - text: Welcome to our conference
     #   link: /news/welcome
@@ -53,12 +53,12 @@ buttons:
     #   link: /attendee-guide
     # - text: Watch the Live Stream
     #   link: /livestream
-    - text: Browse the photos
-      link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720333452248
-    # - text: Watch the videos!
-    #   link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHplMbtJtidqFFtL7rt3ASNSR
-    # - text: Conference recap
-    #   link: /news/thanks-recap
+    # - text: Browse the photos
+    #   link_absolute: https://www.flickr.com/photos/writethedocs/albums/72177720333452248
+    - text: Watch the videos!
+      link_absolute: https://www.youtube.com/playlist?list=PLZAeFn6dfHpkMzZFXFye22pKbafhhC3Cp
+    - text: Conference recap
+      link: /news/thanks-recap
 
 tickets:
   concierge:
@@ -102,6 +102,7 @@ grants:
   url: "https://docs.google.com/forms/d/e/1FAIpQLSctdb3MT_MvB1x_o8iKKhp_xik8YXDLVCnnDT_tv2k2LPlrJg/viewform?usp=dialog"
   ends: 'February 5, 2026'
   notification: 'February 14, 2026'
+  total: "$3,500"
 
 shirts:
   url: https://shirt.writethedocs.org/
@@ -181,11 +182,20 @@ unconf:
 
 lightning_talks:
   signup_url: "https://docs.google.com/forms/d/e/1FAIpQLSdeeMs_x9_6WPIl_ERai_3_5zkEBD7MrMK835igFY07zN156A/viewform"
+  sponsors:
+    - day: Monday
+      sponsor: expert-support
+    - day: Tuesday
+      sponsor: knowledgeowl
+
+qa:
+  event_id: a2qmjbDYGqei5UxQQpy554
 
 writing_day:
   url: "https://docs.google.com/forms/d/e/1FAIpQLSfr5-2yJOFVjYLA2jaik8nP17nxm3fKDX6GA64SAyC14uKr1Q/viewform?usp=header"
   date: Sunday, May 3, 9 AM - 5 PM
   project_deadline: "April 22, 2026"
+  sponsor: stainless
 
 volunteer:
   form_url: "https://docs.google.com/forms/d/e/1FAIpQLSeJvA3uhXDuFsl_kFYWyTyTIyYs6ItHMPspOVq_iSlIloFo6g/viewform?usp=sharing&ouid=109538527958730243648"
@@ -310,8 +320,7 @@ sponsors:
 photos:
   default:
     - _static/conf/images/headers/2026/unconference.jpg
-    - _static/conf/images/headers/2026/volunteer.jpg
-    - _static/conf/images/headers/2026/writing-day.jpg
+    - _static/conf/images/photos/writing-day-laptops-55246770841.jpg
     - _static/conf/images/headers/2026/tickets.jpg
   index:
     - _static/conf/images/pics/writing-day.jpg

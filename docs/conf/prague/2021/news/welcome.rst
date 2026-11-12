@@ -39,7 +39,7 @@ As with the previous years, we have tiered pricing to make it fair for everyone.
 
 As always, we keep ticket prices low so that it is accessible to the widest range of people possible.
 However, if you can't afford these prices and still wish to attend,
-we will bringing our Opportunity Grants program back again this year.
+we will be bringing our Opportunity Grants program back again this year.
 
 Sponsorship
 -----------

@@ -7,7 +7,7 @@
 Write the Docs Newsletter – July 2025
 #####################################
 
-Ahoy, documentatarians! As the weather here heats up, I'm seeing more warnings for people to protect themselves from the heat. I hope wherever you are, you're taking measures to protect yourselves, whether that's to stay cool, stay warm, or just keep a clear head.
+Ahoy, documentarians! As the weather here heats up, I'm seeing more warnings for people to protect themselves from the heat. I hope wherever you are, you're taking measures to protect yourselves, whether that's to stay cool, stay warm, or just keep a clear head.
 
 In community news, we have Calls for Proposals and ticket sales open for two (2!) more conferences this year: `Berlin </conf/berlin/2025/news/announcing-cfp-tickets/>`__ and `Australia </conf/australia/2025/news/announcing-cfp-tickets/>`__. Check them both out and see which works best for you. They both have virtual options (Australia is only virtual), so consider attending however you can or even submitting an interesting idea.
 

@@ -9,14 +9,14 @@ Announcing speakers
 Hello, documentarians! Today we're happy to announce the full list of talks and speakers for the 2021 Prague virtual conference. 
 
 Every year talk selection gets more and more difficult as we get a larger, stronger batch of submissions.
-Thank you so much to everyone who took the time to send us a pitch – we literally wouldn't have an event without you!
+Thank you so much to everyone who took the time to send us a pitch – we literally wouldn't have an event without you!
 
 Full speaker line-up
 --------------------
 
 Every year, we look to bring a wide range of voices to the Write the Docs stage. Because being a documentarian can mean different things to different people, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure.
 
-We're really excited about the presentations we've got this year – we hope you are too!
+We're really excited about the presentations we've got this year – we hope you are too!
 
 .. datatemplate::
    :source: /_data/{{shortcode}}-{{year}}-sessions.yaml

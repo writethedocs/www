@@ -11,7 +11,7 @@ Greetings, fellow documentarians! I hope you are all having adventures at least 
 
 In sad news, the Australia conference has been `cancelled for this year </conf/australia/2025/news/cancel-announcement/>`__. There is a meetup planned for later this month, so come together to feel the joy of in-person connection while you can this year. And stay tuned for reenergized activity next year.
 
-Write the Docs Berlin 2025 is still happening in October. Speakers were just announced so have a look at the `list of talks </conf/berlin/2025/speakers/>`__, get excited, and then `grab your ticket </conf/berlin/2025/tickets/>`__ to join us there. I for one am having a hard time deciding which talk I'm most excited about, though it's probably the chance to see so many friendly faces in one place again.
+Write the Docs Berlin 2025 is still happening in October. Speakers were just announced so have a look at the `list of talks </conf/berlin/2025/speakers/>`__, get excited, and then `grab your ticket </conf/berlin/2025/tickets/>`__ to join us there. I, for one, am having a hard time deciding which talk I'm most excited about, though it's probably the chance to see so many friendly faces in one place again.
 
 This month's newsletter brings articles on staying polite when it's difficult, learning API docs and coding, implementing docs for beta features, and how LLMs have affected people's use of docs. Enjoy!
 

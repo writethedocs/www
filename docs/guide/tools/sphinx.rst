@@ -38,14 +38,13 @@ Installing Sphinx
 
 The first step to getting going is installing `Sphinx`_.
 Sphinx is a Python project, so it can be installed like any other Python library.
-Several Operating Systems (Mac OS X, Major Versions of Linux/BSD) have Python pre-installed,
-so you should just have to run::
+Create a virtual environment for your project and install Sphinx into it::
 
-    sudo pip install Sphinx
+    python -m venv .venv
+    source .venv/bin/activate
+    pip install sphinx
 
-Instructions for installing Python and Sphinx on Windows can be found at the `Sphinx install page`_.
-
-.. note:: Advanced users can install this in a virtualenv if they wish.
+For other platforms and package managers, see the `Sphinx install page`_.
 
 
 Getting started
@@ -146,9 +145,6 @@ The main parts you will need at first are:
 * **Sections**
 * **Directives**
 
-.. note:: You can live-preview RST on the web: http://rst.ninjs.org/
-          . Note that it won't understand Sphinx-specific markup though.
-
 Feel free to play around with RST a bit to make sure that you understand how
 it works.
 
@@ -156,14 +152,13 @@ it works.
     If it is acting weirdly, make sure you indent lines that are part of the
     same content similarly.
 
-.. _Sphinx: http://sphinx-doc.org/
-.. _headings: http://sphinx.pocoo.org/rest.html#sections
-.. _Sphinx Getting Started guide: http://www.sphinx-doc.org/en/master/usage/quickstart.html
-.. _reStructuredText Primer:  http://sphinx.pocoo.org/rest.html#rst-primer
-.. _Sphinx install page: http://sphinx-doc.org/install.html
-.. _table of contents: http://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#table-of-contents
-.. _toctree directives: http://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#table-of-contents
-.. _directives: http://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#
+.. _Sphinx: https://www.sphinx-doc.org/
+.. _Sphinx Getting Started guide: https://www.sphinx-doc.org/en/master/usage/quickstart.html
+.. _reStructuredText Primer: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
+.. _Sphinx install page: https://www.sphinx-doc.org/en/master/usage/installation.html
+.. _table of contents: https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#table-of-contents
+.. _toctree directives: https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#table-of-contents
+.. _directives: https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#
 
 
 Building docs

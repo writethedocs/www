@@ -35,6 +35,10 @@ jobs:
     - name: Install dependencies
       run: uv sync --frozen
 
+    - name: Check photo sizes
+      run: |
+        python3 docs/_scripts/check_photo_sizes.py
+
     - name: Build
       run: |
         cd docs
@@ -44,6 +48,10 @@ jobs:
     - name: Check for unparsed markup
       run: |
         python3 docs/_scripts/check_unparsed_markup.py docs/_build/html
+
+    - name: Check front-matter image references
+      run: |
+        python3 docs/_scripts/lint_frontmatter_images.py docs
 
     # Upload performance is awful on the many small files our build generates,
     # so it's compressed locally before uploading.
@@ -68,4 +76,4 @@ jobs:
     - name: Check links
       if: success()
       run:  |
-          bundle exec htmlproofer --ignore-files "/404/,/2013/,/2014/,/2015/,/2016/,/2017/,/search\/index.html/,/archive\/tag\/index/" --allow-hash-href=true --enforce-https=false --ignore-missing-alt=true --disable-external=true --swap-urls "https\://www.writethedocs.org:,http\://www.writethedocs.org:" docs/_build/html
+          bundle exec htmlproofer --checks "Links,Images,Scripts,OpenGraph" --ignore-files "/404/,/2013/,/2014/,/2015/,/2016/,/2017/,/search\/index.html/,/archive\/tag\/index/" --allow-hash-href=true --enforce-https=false --ignore-missing-alt=true --disable-external=true --swap-urls "https\://www.writethedocs.org:,http\://www.writethedocs.org:" docs/_build/html

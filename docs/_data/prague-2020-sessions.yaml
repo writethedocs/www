@@ -189,7 +189,7 @@
 
     <p>Feeling inspired, hungry, or both? Let''s head to the content kitchen and create
     something spectacular.</p>'
-- title: Organizing a Confluence hoard, or, does this page spark joy?
+- title: Organizing a Confluence hoard, or, does this page spark joy?
   slug: organizing-a-confluence-hoard-or-does-this-page-spark-joy-abigail-sutherland
   series: Write the Docs Prague
   series_slug: prague
@@ -206,13 +206,13 @@
     what else would you call us?</p>
 
 
-    <p>True, you can''t just blame the current team. The average page was 3 1/2 years
-    old, and the oldest almost a teenager. A quarter of the pages had last been updated
+    <p>True, you can''t just blame the current team. The average page was 3 1/2 years
+    old, and the oldest almost a teenager. A quarter of the pages had last been updated
     by people no longer with the company, and nearly a third of them hadn''t even
     been looked at for more than a year.</p>
 
 
-    <p>But even if we''d inherited the problem, it was ours now. Or, more precisely,
+    <p>But even if we''d inherited the problem, it was ours now. Or, more precisely,
     <em>mine</em>.
 
     <p>What we needed was a Confluence space that&mdash;unlike the current installation&mdash;was:
@@ -225,7 +225,7 @@
 
     <li>Populated with relevant content</li></ul></p>
 
-    <p>Like Mari Kondo, the popular organization consultant, I''ve been bringing order
+    <p>Like Mari Kondo, the popular organization consultant, I''ve been bringing order
     to our informational hoarding house since autumn. In this talk, I''ll discuss
     the information architecture thinking behind every step of the process. Not just
     what I did, but why, what user needs I was serving, and how. I''ll discuss the
@@ -580,7 +580,7 @@
   abstract: '<p>A great while ago, when the world was full of wonders, technical writers
     just described the systems that we were documenting. Sometimes, we got adventurous
     and  wrote laundry lists of procedures. These early practices led to the phrase
-    RTFM (Read the F____ Manual), because NO ONE ever didl, even if the answer was
+    RTFM (Read the F____ Manual), because NO ONE ever did, even if the answer was
     there. We didn’t think much about what our customers wanted or the user stories
     that they live by. </p>
 

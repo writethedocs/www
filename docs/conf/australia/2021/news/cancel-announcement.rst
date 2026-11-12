@@ -17,7 +17,7 @@ Here's what we will do instead.
 Super meetup
 ------------
 
-In place of a full 2-day conference, we will select 4 talks (from the CFP process, pending confirmation from the speakers) and invite these documentarians to present their talks at a super 2-hour meetup (date **TBA**). 
+In place of a full 2-day conference, we will select 4 talks (from the CFP process, pending confirmation from the speakers) and invite these documentarians to present their talks at a super 2-hour meetup (date **TBA**).
 We value the time and effort our documentarians put in to submit talk proposals and wanted to use this time to share their experience and knowledge.
 
 * This meetup event will be a free and open event without prior registration, so you can join in from anywhere. We will try and keep this in a timezone convenient for both our WTD Australia and India communities.

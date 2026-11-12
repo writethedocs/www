@@ -230,7 +230,7 @@ Our goal for this year's Writing Day is to update the wiki and create more inclu
 To help align our project for Writing Day we have the following personas:
 
 - Advanced contributors - regular contributors who use VSCode or similar text editors
-- Beginner contributors - new or occasional contributeors who make small changes inline
+- Beginner contributors - new or occasional contributors who make small changes inline
 - Core team contributors - core team members, founding team members, and Codeberg administrators
 
 With your help, here's what we want to accomplish during Writing Day:

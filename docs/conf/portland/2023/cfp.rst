@@ -30,13 +30,10 @@ We will announce the CFP soon.
 Ready to submit your talk?
 You can do that here:
 
-.. raw:: html
+.. button-link:: {{ cfp.url }}
+   :year: {{ year }}
 
-    <div class="announcement" style="background-color:white;">
-        <div class="uk-container">
-        <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}" target="_blank">Submit your proposal</a>
-        </div>
-    </div>
+   Submit your proposal
 
 {% endif %}
 
@@ -130,8 +127,8 @@ Don't worry too much about whether we will accept your talk proposal, just submi
 
 If you need a hand preparing or honing your talk proposal, there are lots of good places to start:
 
-* **Community mentorship** – We have an ever-growing pool of previous Write the Docs speakers, many of whom are happy to be a second pair of eyes on talk proposals. If you're interested in working with a past speaker, let us know at {{ shortcode }}@writethedocs.org!
-* **Meetup brainstorming** – For some in-person workshopping, check in on your `local meetup group <https://www.writethedocs.org/meetups/>`_ and see if they have a talk brainstorming session on their calendar. If they don't... ask if they're planning one!
+* **Community mentorship** – We have an ever-growing pool of previous Write the Docs speakers, many of whom are happy to be a second pair of eyes on talk proposals. If you're interested in working with a past speaker, let us know at {{ shortcode }}@writethedocs.org!
+* **Meetup brainstorming** – For some in-person workshopping, check in on your `local meetup group <https://www.writethedocs.org/meetups/>`_ and see if they have a talk brainstorming session on their calendar. If they don't... ask if they're planning one!
 * **Slack hivemind** – You can also hit up the hivemind directly on the Write the Docs Slack, any time of day! (If you're not registered yet, you can at `https://www.writethedocs.org/slack/ <https://www.writethedocs.org/slack/>`_.)
 * **Twitter hivemind** – If Twitter is more your speed, `#writethedocs <https://twitter.com/hashtag/writethedocs>`__ will get you there.
 
@@ -183,13 +180,10 @@ Submit your proposal
 
 Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx account, unless you already have one from a previous conference.
 
-.. raw:: html
+.. button-link:: {{ cfp.url }}
+   :year: {{ year }}
 
-    <div class="announcement" style="background-color:white;">
-        <div class="uk-container">
-        <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}" target="_blank">Submit your proposal</a>
-        </div>
-    </div>
+   Submit your proposal
 
 {% endif %}
 

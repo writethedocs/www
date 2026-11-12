@@ -14,11 +14,11 @@
 
 .. |icon-quote| raw:: html
 
-   <i class="fa-solid fa-comment-quote"></i>
+   <i class="fa-solid fa-quote-left"></i>
 
 .. |icon-newsletter| raw:: html
 
-   <i class="fa-solid fa-mailbox-flag-up"></i>
+   <i class="fa-solid fa-envelope"></i>
 
 .. |25| replace:: :abbr:`25 (25th percentile - one quarter of all salaries were lower than this value)`:sup:`th`
 
@@ -90,32 +90,7 @@ In a hurry? Jump straight to `Median salary`_ or `Median hourly rate`_.
 
    .. raw:: html
 
-      <div id="mc_embed_shell">
-         <div id="mc_embed_signup">
-            <form action="https://writethedocs.us6.list-manage.com/subscribe/post?u=94377ea46d8b176a11a325d03&amp;id=dcf0ed349b&amp;f_id=005135e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-               <div id="mc_embed_signup_scroll">
-                  <div class="mc-field-group">
-                     <label for="mce-EMAIL"><span>Email Address </span><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value="" placeholder="Email address">
-                  </div>
-                  <div class="mc-field-group input-group">What types of updates would you like?
-                     <ul>
-                        <li><input type="checkbox" name="group[14633][32]" id="mce-group[14633]-14633-5" value="" checked><label for="mce-group[14633]-14633-5"><strong>Salary Survey Announcements</strong></label></li>
-                        <li><input type="checkbox" name="group[14633][1]" id="mce-group[14633]-14633-0" value=""><label for="mce-group[14633]-14633-0">Monthly Community Newsletter</label></li>
-                        <li><input type="checkbox" name="group[14633][2]" id="mce-group[14633]-14633-1" value=""><label for="mce-group[14633]-14633-1">North American Conference Announcements</label></li>
-                        <li><input type="checkbox" name="group[14633][4]" id="mce-group[14633]-14633-2" value=""><label for="mce-group[14633]-14633-2">European Conference Announcements</label></li><li><input type="checkbox" name="group[14633][8]" id="mce-group[14633]-14633-3" value=""><label for="mce-group[14633]-14633-3">Australian Conference Announcements</label></li>
-                        <li><input type="checkbox" name="group[14633][16]" id="mce-group[14633]-14633-4" value=""><label for="mce-group[14633]-14633-4">Atlantic Conference Announcements</label></li>
-
-                     </ul>
-                  </div>
-                  <div id="mce-responses" class="clear">
-                     <div class="response" id="mce-error-response" style="display: none;"></div><div class="response" id="mce-success-response" style="display: none;"></div>
-                  </div>
-                  <div aria-hidden="true" style="position: absolute; left: -5000px;"><input type="text" name="b_94377ea46d8b176a11a325d03_dcf0ed349b" tabindex="-1" value=""></div>
-                  <div class="clear"><input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe"></div>
-               </div>
-            </form>
-         </div>
-         <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='TICKETLINK';ftypes[1]='url';fnames[2]='COMPANY';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
+{% filter indent(6, first=True) %}{% include "surveys/signup.html" %}{% endfilter %}
 
 .. container:: note
 
@@ -1472,7 +1447,7 @@ Given the range of socio-economic differences in the countries in the survey res
 Median salary by respondent region - further breakdowns
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Respondent numbers allow some additional breakdowns by US state, Candian province and Australian state, as well as a handful of North American cities.
+Respondent numbers allow some additional breakdowns by US state, Canadian province and Australian state, as well as a handful of North American cities.
 
 .. raw:: html
 
@@ -3146,7 +3121,7 @@ Feelings about pay transparency
 Organization demographics
 =========================
 
-This section concerns employing organizations. Contractors were asked to either answer about the main organization they work for, or a typical/respresentative organization, whichever felt most appropriate to them.
+This section concerns employing organizations. Contractors were asked to either answer about the main organization they work for, or a typical/representative organization, whichever felt most appropriate to them.
 
 Organization size
 -----------------
@@ -3293,7 +3268,7 @@ Respondents who selected software development or software development tools were
 
 The majority of organizations represented in the results - 94.8% - were for-profit businesses or corporations rather than non-profit, community, political, educational or government organizations, or NGOs.
 
-Based on feedback and "other" entries for industry, the final list of industries has been adjusted for the final results. One entirely new industry group has been added - Parks, Recreation, Nature, Wildnerness, Outdoors, Conservation, Ecotourism - and several others have had their definitions expanded.
+Based on feedback and "other" entries for industry, the final list of industries has been adjusted for the final results. One entirely new industry group has been added - Parks, Recreation, Nature, Wilderness, Outdoors, Conservation, Ecotourism - and several others have had their definitions expanded.
 
 69.3% of respondents chose a single industry from the list, and 20% selected two, and 6% selected three different industries.
 
@@ -3369,7 +3344,7 @@ Based on feedback and "other" entries for industry, the final list of industries
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
    | Real Estate                                                                                                                                                                |   2 |  0.1% |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
-   | Parks, Recreation, Nature, Wildnerness, Outdoors, Conservation, Ecotourism                                                                                                 |   1 |  0.1% |
+   | Parks, Recreation, Nature, Wilderness, Outdoors, Conservation, Ecotourism                                                                                                  |   1 |  0.1% |
    +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----+-------+
 
 
@@ -3672,7 +3647,7 @@ The majority of respondents in 2023 were women - accounting for 59.9% of the tot
 
    <figure>
       <object role="img" aria-label="Respondent gender identity" aria-describedby="figure_respondent-gender-identity_desc" type="image/svg+xml" data="/_images/2023-respondent-gender-identity.svg">
-         <p id="figure_respondent-gender-identity_desc">Donut chart showing gender identity of respodnents.</p>
+         <p id="figure_respondent-gender-identity_desc">Donut chart showing gender identity of respondents.</p>
       </object>
       <figcaption>Figure: Respondent gender identity</figcaption>
    </figure>

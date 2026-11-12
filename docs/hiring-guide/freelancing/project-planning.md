@@ -39,4 +39,4 @@ This page covers both planning when considering a new client or project, such as
 
 ## Template
 
-Tom Johnson's [project plan template](https://idratherbewriting.com/blog/documentation-project-plan-template/), available as a Google Doc [here](https://docs.google.com/document/d/1ADOyIAdPfOtvNKbKhxCAnypSuIRYRH24fv8QM4xhztY/edit?usp=sharing).
+Tom Johnson's [project plan template](https://idratherbewriting.com/blog/documentation-project-plan-template/), available as a [Google Doc](https://docs.google.com/document/d/1ADOyIAdPfOtvNKbKhxCAnypSuIRYRH24fv8QM4xhztY/edit?usp=sharing).

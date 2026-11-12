@@ -61,7 +61,7 @@ When considering what to include in the other half, the interviewer should consi
 Preparing the draft for a pull request
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Before committing the draft publicly and submitting the pull request to the WTD repo, the draft should be sent its respective interviewee so that they may clarify answers or remove any personal information. Once the interviewee has accepted the draft as being appropriate for publishing, the document can be committed publicly to your own personal fork of the main WTD website repo. Each interview should go in it's own branch.
+Before committing the draft publicly and submitting the pull request to the WTD repo, the draft should be sent its respective interviewee so that they may clarify answers or remove any personal information. Once the interviewee has accepted the draft as being appropriate for publishing, the document can be committed publicly to your own personal fork of the main WTD website repo. Each interview should go in its own branch.
 
 Formatting and other extra considerations
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

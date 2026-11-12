@@ -33,6 +33,11 @@ The important locations of files are:
 * ``_templates/<year>/`` and ``_templates/include/`` contain HTML or RST
   templates used to render the conference pages. This includes the
   website design, navigation and snippets used in schedule rendering.
+  From 2026 on, the design and the header menu live in
+  ``_templates/conference/``. To start a new year, copy the previous year's
+  ``_templates/<year>/`` folder.
+* ``_data/community.yaml`` lists the upcoming conferences shown on the front
+  page and the conferences page. Add a conference there once its site is up.
 
 The YAML files are validated by the `validate-yaml.sh` script, using
 the schemas in ``_data/schema-*``.
@@ -121,7 +126,7 @@ The items in the general conference config file are:
            link: /cfp
 
 * ``tickets``: the conference ticket prices. The keys, i.e. the names of the
-  various sponsorship packages, are fixed and can not be changed per conference.
+  various sponsorship packages, are fixed and cannot be changed per conference.
   Example::
 
     tickets:

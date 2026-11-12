@@ -30,13 +30,10 @@ We will announce the CFP soon.
 Ready to submit your talk?
 You can do that here:
 
-.. raw:: html
+.. button-link:: {{ cfp.url }}
+   :year: {{ year }}
 
-    <div class="announcement" style="background-color:white;">
-        <div class="uk-container">
-        <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}">Submit your proposal</a>
-        </div>
-    </div>
+   Submit your proposal
 
 Conference goals
 ----------------
@@ -66,7 +63,7 @@ If you're a WTD conference organizer, please only submit talks to conferences yo
 
 **Mix of roles and perspectives**
 
-Talks from the scientific community, fiction writers, system administrators, and support staff – in addition to technical writers and software developers – are all valuable to our attendees.
+Talks from the scientific community, fiction writers, system administrators, and support staff – in addition to technical writers and software developers – are all valuable to our attendees.
 
 **Diverse audience**
 
@@ -125,12 +122,12 @@ Don't worry too much about whether we will accept your talk proposal, just submi
 
 If you need a hand preparing or honing your talk proposal, there are lots of good places to start:
 
-* **Community mentorship** – We have an ever-growing pool of previous Write the Docs speakers, many of whom are happy to be a second pair of eyes on talk proposals. If you're interested in working with a past speaker, let us know at {{ shortcode }}@writethedocs.org!
-* **Meetup brainstorming** – For some in-person workshopping, check in on your `local meetup group <https://www.writethedocs.org/meetups/>`_ and see if they have a talk brainstorming session on their calendar. If they don't... ask if they're planning one!
+* **Community mentorship** – We have an ever-growing pool of previous Write the Docs speakers, many of whom are happy to be a second pair of eyes on talk proposals. If you're interested in working with a past speaker, let us know at {{ shortcode }}@writethedocs.org!
+* **Meetup brainstorming** – For some in-person workshopping, check in on your `local meetup group <https://www.writethedocs.org/meetups/>`_ and see if they have a talk brainstorming session on their calendar. If they don't... ask if they're planning one!
 * **Slack hivemind** – You can also hit up the hivemind directly on the Write the Docs Slack, any time of day! (If you're not registered yet, you can at `https://www.writethedocs.org/slack/ <https://www.writethedocs.org/slack/>`_.)
 * **Twitter hivemind** – If Twitter is more your speed, `#writethedocs <https://twitter.com/hashtag/writethedocs>`__ will get you there.
 
-ecause the talks are pre-recorded, you can submit your proposal even if you can't attend in person! We will use our virtual conference platform to allow folks to attend from home globally, and we hope that this will make our CFP accessible to more documentarians. We will also provide resources and support for recording your talk.
+Because the talks are pre-recorded, you can submit your proposal even if you can't attend in person! We will use our virtual conference platform to allow folks to attend from home globally, and we hope that this will make our CFP accessible to more documentarians. We will also provide resources and support for recording your talk.
 
 Selection process
 ------------------
@@ -176,12 +173,9 @@ Submit your proposal
 
 Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx account, unless you already have one from a previous conference.
 
-.. raw:: html
+.. button-link:: {{ cfp.url }}
+   :year: {{ year }}
 
-    <div class="announcement" style="background-color:white;">
-        <div class="uk-container">
-        <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}">Submit your proposal</a>
-        </div>
-    </div>
+   Submit your proposal
 
 {% endif %}

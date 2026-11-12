@@ -17,7 +17,7 @@ We have done our internal testing of the platform and we're getting everything r
 Tickets will sell out tomorrow
 ------------------------------
 
-We wanted to let you know that we expect tickets to sell out on **Octover 14th at 20:00 CEST**.
+We wanted to let you know that we expect tickets to sell out on **October 14th at 20:00 CEST**.
 We've increased the capacity for this years even from previous years, but we still want to make sure the event keeps its manageable size and feel.
 If you were hoping to come to this years event, we recommend that you `get your tickets soon <https://www.writethedocs.org/conf/prague/2020/tickets/>`_.
 

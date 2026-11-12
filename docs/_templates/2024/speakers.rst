@@ -16,7 +16,7 @@
         <div class="speaker-contact-info">
             <h2 class="speaker-name">{{ speaker.name }}</h2>
             <!--
-            <ul class="speaker-social-contant">
+            <ul class="speaker-social-contact">
                 <li>
                     <a href="#">
                         <img src="../../../../_static/conf/images/icons/twitter-brown.svg" class="twitter">

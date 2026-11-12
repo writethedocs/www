@@ -12,7 +12,7 @@ make you feel more at home, and help you to manage the constant flow of informat
 
 .. image:: /_static/conf/images/pics/welcome-wagon.jpg
 
-Dururing the conference, we'll connect you with people - both veterans and other first-timers.
+During the conference, we'll connect you with people - both veterans and other first-timers.
 And we'll give you strategies and tips so you can make the most of the conference.
 
 The `FAQs <#faq>`_ should have answers to most of your questions, but let us know if there is anything you'd like to know that isn't there. You can ask us questions in the :doc:`#wtd-conferences channel on Slack </slack>`.

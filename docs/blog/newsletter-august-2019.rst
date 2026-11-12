@@ -9,7 +9,7 @@ Hello everyone! It's Beth and the team here, with another packed newsletter issu
 
 A quick correction first: last month we said that the Australia conference is in Melbourne, when it is in fact in **Sydney**. Really sorry about that. If you'd like to speak in **Sydney**, the `CFP </conf/australia/2019/cfp/>`__ is still open: you have until 9th August to submit.
 
-In the other hemisphere, the `Prague speaker speaker schedule is up </conf/prague/2019/schedule/>`__, and `tickets are almost sold out </conf/prague/2019/news/events-activities/>`__. Once they're gone, they're gone, so if you'd like to come, buy your tickets ASAP!
+In the other hemisphere, the `Prague speaker schedule is up </conf/prague/2019/schedule/>`__, and `tickets are almost sold out </conf/prague/2019/news/events-activities/>`__. Once they're gone, they're gone, so if you'd like to come, buy your tickets ASAP!
 
 One last thing - we're delighted to have some new recruits to the newsletter team, which means we now have an extra story about what the community has been talking about on Slack! Enjoy :) The newsletter team takes September off, so we'll be back in your inboxes come October.
 

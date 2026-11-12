@@ -66,7 +66,7 @@ Attend a session
 
 {% endif %}
 
-* At the time your chosen sessions start, join the session in Hopin that correspsond to the table number of the session. Sessions are limited to 20 participants, but you can check out a session without joining it too.
+* At the time your chosen sessions start, join the session in Hopin that correspond to the table number of the session. Sessions are limited to 20 participants, but you can check out a session without joining it too.
 
 * It's fine to join a session, decide it's not right for you, bow out politely, and join another session.
 

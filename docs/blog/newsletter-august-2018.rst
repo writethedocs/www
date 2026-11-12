@@ -82,7 +82,7 @@ Featured job postings
 Upcoming community events
 -------------------------
 
-August 22 – Boise, Idaho, USA – `Lightning Talks from the Confab Conference <https://www.meetup.com/Write-the-Docs-Boise/events/253170161/>`_
+August 22 – Boise, Idaho, USA – `Lightning Talks from the Confab Conference <https://www.meetup.com/Write-the-Docs-Boise/events/253170161/>`_
 
 August 22 – Moscow, Russia – `документация и управление знаниями <https://www.meetup.com/Write-the-Docs-Moscow/events/253748999/>`_
 
@@ -94,7 +94,7 @@ August 28 – Brisbane, Australia – `From Writing to Product and Back Again <h
 
 September 7 – Bangalore, India – `First Meetup: Meet & Greet <https://www.meetup.com/Write-the-Docs-India/events/253159769/>`_
 
-September 11 – Portland, Oregon, USA – `Joint meetup with the Portland Accessibility and User Experience group <https://www.meetup.com/Write-The-Docs-PDX/events/253790717/>`_
+September 11 – Portland, Oregon, USA – `Joint meetup with the Portland Accessibility and User Experience group <https://www.meetup.com/Write-The-Docs-PDX/events/253790717/>`_
 
 September 11 – Ottawa, Ontario, Canada – `Monthly meetup at Shopify <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/253846497/>`_
 

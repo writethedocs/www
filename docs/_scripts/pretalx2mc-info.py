@@ -119,8 +119,8 @@ def load_pretalx_resource(url, http_headers):
 if __name__ == '__main__':
     convert_to_yaml(
         year='2026',
-        series='Write the Docs Portland',
-        series_slug='portland',
+        series='Write the Docs Berlin',
+        series_slug='berlin',
         yaml_output='../_data/mc-info.yaml',
-        pretalx_slug='wtd-portland-2026'
+        pretalx_slug='wtd-berlin-2026'
     )

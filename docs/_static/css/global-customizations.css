@@ -8,157 +8,7 @@
     border-color: red;
 }
 
-div.conferences-videos-list {
-    margin-top: 42px;
-}
-
-#newsletter-mailing-lists h2 {
-    margin-top: 10px;
-}
-
-div.conferences-videos-list h2 {
-  margin-bottom: 40px;
-  margin-top: 12px;
-}
-
-div.conferences-videos-list a, div.conferences-videos-list a:active,
-div.conferences-videos-list a:hover, div.conferences-videos-list a:link,
-div.conferences-videos-list a:visited {
-    color: #3E4349;
-    text-decoration: none;
-}
-
-@media (max-width: 600px) {
-  div.conferences-videos-list {
-    margin-top: 14px;
-  }
-
-  div.conferences-videos-list h2 {
-    font-size: 140%;
-    margin-bottom: 28px;
-  }
-}
-
-
-.meetup-detail .meetup-video-container {
-  margin-top: 56px;
-}
-
-.meetup-list h2 {
-  font-family: 'goudy old style', 'minion pro', 'bell mt', Georgia, 'Hiragino Mincho Pro', serif;
-}
-
-.meetup-container, .meetup-video-container {
-  max-width: 660px;
-  margin-right: auto;
-  margin-left: auto;
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.meetup-container .meetup, .meetup-video-container .video {
-  flex: 0 0 100%;
-}
-
-@media (min-width: 420px) and (max-width: 768px){
-  .meetup-container, .meetup-video-container {
-    margin: -1em 0 1em -1em;
-
-  }
-
-  .meetup-container .meetup, .meetup-video-container .video {
-    padding: 1em 0 0 1em;
-    flex: 0 0 calc((100% - 20px * 2) / 2);
-
-  }
-}
-
-@media (min-width: 768px) {
-
-  .meetup-container, .meetup-video-container {
-    margin: -1em 0 1em -1em;
-
-  }
-
-  .meetup-container .meetup, .meetup-video-container .video {
-    padding: 1em 0 0 1em;
-    flex: 0 0 calc((100% - 20px * 3) / 3);
-
-  }
-}
-
-.meetup-container a, .meetup-container a:active,
-.meetup-container a:hover, .meetup-container a:link,
-.meetup-container a:visited, .video a, .video a:active,
-.video a:hover, .video a:link, .video a:visited {
-  color: #3E4349;
-  text-decoration: none;
-}
-
-
-.meetup-detail .breadcrumps, ul.social-media, ul.video-info {
-  display: flex;
-  margin-left: 0;
-
-}
-
-.meetup-detail .breadcrumps li , ul.social-media li,
-ul.video-info li {
-  padding-right: 6px;
-  list-style-type: none;
-}
-
-ul.video-info li {
-    padding-right: 16px;
-}
-
-ul.social-media {
-    padding: 0;
-}
-
-ul.social-media li {
-    padding: 0 8px;
-}
-
-ul.video-info {
-  flex-wrap: wrap;
-}
-
-.meetup-detail .breadcrumps li a {
-  color: #3E4349;
-  padding-right: 8px;
-  font-family: Garamond, Georgia, serif;
-}
-
-.meetup-detail  H1 {
-  font-family: Garamond, Georgia, serif;
-}
-
-.meetup-detail .video i {
-  font-style: normal;
-  font-weight: bold;
-}
-
-
-div.about-container {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 22px;
-}
-
-.meetup-detail .about-container h1{
-  margin-bottom: 0px;
-}
-
-.social-media-icon {
-  font-size: 24px;
-}
-
-.social-media {
-  padding-right: 20px;
-}
-
-/** Embeded Responsive youtube video **/
+/** Embedded Responsive youtube video **/
 .embed-container {
   position: relative;
   padding-bottom: 56.25%;
@@ -178,15 +28,6 @@ div.about-container {
 
 /** Utility color: #000;lasses **/
 
-.flex-center {
-  align-items: center;
-  justify-content: center;
-}
-
-.bold {
-  font-weight: 800;
-}
-
 .image {
   background-position: 50% 50%;
   background-size: cover;
@@ -194,34 +35,9 @@ div.about-container {
   background-color: #d7d7d7;
 }
 
-.image-category {
-  /** max-width: 538px;
-  min-width: 240px;**/
-  height: 175.047px;
-  width: 340px;
-}
-
-.image-grid-element {
-  height: 133.328px;
-  width: 200px;
-}
-
 /** Speaker Section **/
 div.talk section {
   display: flex;
-}
-
-div.speaker-sidebar {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  padding-right: 20px;
-}
-
-img.speaker-pic {
-  max-width: 90px;
-  height: auto;
 }
 
 @media (max-width: 420px) {
@@ -229,10 +45,6 @@ img.speaker-pic {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-  }
-
-  div.speaker-sidebar {
-    padding-top: 20px;
   }
 
   div.talk h3.speaker-name {
@@ -248,45 +60,199 @@ div.body {
   min-width: inherit;
 }
 
-@media screen and (max-width: 875px) {
-  div.sphinxsidebar {
-    width: calc(100% + 20px);
-  }
+/** Community accent, used by the sponsorship figures and share bars.
+    Conference pages set their own colour per year from their config; these
+    pages are not tied to a conference, so they use the community navy, as
+    main-community.scss does. **/
+
+:root {
+    --wtd-accent-rgb: 19, 37, 48;
+    --wtd-accent: rgb(var(--wtd-accent-rgb));
 }
 
-@media screen and (max-width: 1000px) {
-  div.footer {
-    display: inherit;
-    padding-top: 20px;
-    width: 100%;
-  }
+/** Sponsorship CTA button, matching the other buttons on the community pages **/
+
+.cta-group {
+    margin: 1.5em 0;
 }
 
-@media (min-width: 875px) and (max-width: 1000px) {
-  div.footer {
-    width: calc(100% - 40px);
-    margin-left: 20px;
-    margin-right: 20px;
-  }
-}
-
-.announcement-banner {
-    background-color: #3399ff;
-    color: #fff;
-    text-align: center;
+div.body a.cta-button,
+div.body a.cta-button:link,
+div.body a.cta-button:visited {
+    display: inline-block;
+    padding: 12px 28px;
+    background-color: #000;
+    border: 1px solid #000;
+    border-radius: 6px;
+    color: #FFFFFF;
+    font-family: inherit;
+    font-size: 16px;
     font-weight: bold;
+    text-decoration: none;
+}
+
+div.body a.cta-button:hover {
+    background-color: #132530;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+/** A short note under a button-link, read as a caption to it rather than as
+    its own paragraph. button-link centers itself with a 2em margin, so the
+    note is centered too and pulled up toward it. **/
+
+div.body p.button-note {
+    margin-top: -1.25em;
+    text-align: center;
+    font-size: 14px;
+    color: #6b6b6b;
+}
+
+/** Sponsorship reach figures, shown at the top of the sponsorship pages **/
+
+div.body ul.key-facts {
     display: flex;
-    justify-content: center;
+    flex-wrap: wrap;
+    gap: 16px;
+    padding: 0;
+    margin: 1.5em 0 2em;
+    list-style: none;
+    text-align: center;
+}
+
+div.body ul.key-facts li {
+    flex: 1 1 110px;
+    padding: 16px 10px;
+    background-color: #fafaf8;
+    border-top: 3px solid var(--wtd-accent);
+    border-radius: 0 0 4px 4px;
+}
+
+div.body ul.key-facts strong {
+    display: block;
+    font-size: 1.9em;
+    line-height: 1;
+    color: #000;
+}
+
+div.body ul.key-facts span {
+    display: block;
+    font-size: 0.82em;
+    font-weight: bold;
+    color: #4a4a4a;
+    margin-top: 8px;
+}
+
+/** Audience breakdown, shared by the sponsorship pages via include/demographics.rst **/
+
+div.body .share-bar {
+    display: flex;
+    height: 28px;
+    border-radius: 4px;
+    overflow: hidden;
+    margin: 0.5em 0 0.75em;
+}
+
+div.body .share-bar .seg {
+    display: block;
+    height: 100%;
+}
+
+div.body ul.share-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 20px;
+    padding: 0;
+    margin: 0 0 1.5em;
+    list-style: none;
+    font-size: 0.9em;
+}
+
+div.body ul.share-legend li {
+    display: flex;
     align-items: center;
+    gap: 8px;
 }
 
-.announcement-banner-wrapper {
-    padding: 0 0 12px 0;
-    max-width: 100%;
-    margin: 0 auto;
+div.body ul.share-legend i {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
 }
 
-.announcement-banner a {
-    color: #fff;
-    text-decoration: underline;
+div.body .seg-1 { background-color: rgba(var(--wtd-accent-rgb), 1); }
+div.body .seg-2 { background-color: rgba(var(--wtd-accent-rgb), 0.75); }
+div.body .seg-3 { background-color: rgba(var(--wtd-accent-rgb), 0.55); }
+div.body .seg-4 { background-color: rgba(var(--wtd-accent-rgb), 0.4); }
+div.body .seg-5 { background-color: rgba(var(--wtd-accent-rgb), 0.25); }
+
+table.sponsorship-pricing {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table.sponsorship-pricing td, table.sponsorship-pricing th {
+    border: none;
+    border-bottom: 1px solid #DDD;
+    padding: 10px 12px;
+    text-align: left;
+}
+
+table.sponsorship-pricing thead th {
+    background-color: #F2F2F0;
+    border-bottom: 2px solid #4a4a4a;
+    color: #4a4a4a;
+}
+
+table.sponsorship-pricing tbody tr:nth-child(even) td {
+    background-color: #fafaf8;
+}
+
+table.sponsorship-pricing td:last-child {
+    white-space: nowrap;
+}
+
+/** Topic index: the twelve top-level topics, as a grid you can take in at
+    once. The full depth used to run to two screens of nested bullets. **/
+
+div.body .topic-nav {
+    border: none;
+    background: none;
+    margin: 1.5em 0 2em;
+    padding: 0;
+}
+
+div.body .topic-nav > p.topic-title {
+    font-size: 17px;
+    margin-bottom: 12px;
+}
+
+div.body .topic-nav > ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+div.body .topic-nav > ul li {
+    list-style: none;
+    margin: 0;
+}
+
+div.body .topic-nav > ul li a {
+    display: block;
+    padding: 10px 14px;
+    border: 1px solid #E2E2DC;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+
+div.body .topic-nav > ul li a:hover {
+    border-color: #2ECC71;
+    background-color: #FAFCFA;
+    text-decoration: none;
 }

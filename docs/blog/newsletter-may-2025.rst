@@ -21,7 +21,7 @@ Minimum internal documentation
 
 Capturing and sharing knowledge that resides primarily in the minds of engineers is challenging and scales poorly. If engineering discussions and decisions aren't documented, downstream teams will struggle to extract these insights later in the software development process. One idea is to define a minimum set of internal documentation that product teams should create during software iterations.
 
-Consider developing some guidance for the contents of internal documentation. Engineers often focus on details, so encourage them to think about new features at a higher level. Provide a template to help engineers document essential information easliy. Some have experimented with using structured data files (such as YAML) to create manageable specifications for various interfaces and facilitate engineering contributions to internal documentation.
+Consider developing some guidance for the contents of internal documentation. Engineers often focus on details, so encourage them to think about new features at a higher level. Provide a template to help engineers document essential information easily. Some have experimented with using structured data files (such as YAML) to create manageable specifications for various interfaces and facilitate engineering contributions to internal documentation.
 
 Another approach is to require certain minimum information in the tickets for public-facing docs, which would serve as a loose kind of internal documentation. You could require docs tickets to include context and descriptions, clear acceptance criteria, links to pull requests and associated development tickets, and links to resources such as user stories, product requirements documents, code with comments, meeting notes, and product demos.  
 
@@ -69,7 +69,7 @@ Where do documentarians "fit" into an organization?
 
 Except for startups, most companies have established organizations. Documentarians' role in relation to the company’s products may determine their department. This is often the department that most closely aligns with what they're expected to document (type of content and audience).
 
-Once you start working for a company, you may not have the option to move around unless you are a lone writer or part of a small team. Being in the "wrong" department can affect a your success. (Are you managed as a writer with relevant success metrics?) Who you would report to is something to discuss in an interview before joining. (What’s the chain of command for this role? Would my direct manager have experience working with writers? Could I work with people in other departments?) 
+Once you start working for a company, you may not have the option to move around unless you are a lone writer or part of a small team. Being in the "wrong" department can affect your success. (Are you managed as a writer with relevant success metrics?) Who you would report to is something to discuss in an interview before joining. (What’s the chain of command for this role? Would my direct manager have experience working with writers? Could I work with people in other departments?) 
 
 In general, documentarians find themselves in one of two departments:
 
@@ -86,7 +86,7 @@ Filtering out AI in hiring tests
 
 When hiring someone to take on a documentation (or other) role, you may have some sort of writing or editing assignment to get a sense of the candidate's skills (though you should never use candidate work in your actual docs without paying the creator). While many people have used such tests for years, some have worried that AI tools make it impossible to tell if candidates can actually write or edit.
 
-People generally agreed that such tests don't get at the things that make documentarians good at their jobs. But they can be useful in filtering out fraudulant applications. So how to structure them to still work?
+People generally agreed that such tests don't get at the things that make documentarians good at their jobs. But they can be useful in filtering out fraudulent applications. So how to structure them to still work?
 
 Some advice focused on asking people to explain why they did certain things in the assignment at an interview. One suggestion was to ask candidates to specifically use an AI tool and talk about how and why they did. These ideas are great for in-depth understanding, but require more time and are less useful as an initial filter.
 
@@ -94,7 +94,7 @@ Others suggested not to base tests on existing technology – there's too much a
 
 There was some discussion of live-writing exercises, where candidates write in front of you, but some worried it was a specific circumstance unlikely to be repeated at work and might not capture the same skills.
 
-Some suggested being trickier and having the assignment include hidden text with specific instructions to LLMs, such as to include somethng irrelevant in the response. If the content is there in the submission, at the least you know the candidate didn't check before submitting.
+Some suggested being trickier and having the assignment include hidden text with specific instructions to LLMs, such as to include something irrelevant in the response. If the content is there in the submission, at the least you know the candidate didn't check before submitting.
 
 The general consensus seemed to be that there isn't one approach that would work in all circumstances. Determine what skills are most necessary for the job you're hiring for and focus your efforts there. Almost all of your candidates will use LLMs in some way.
 

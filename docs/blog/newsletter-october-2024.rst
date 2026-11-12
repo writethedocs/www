@@ -13,7 +13,7 @@ Our most recent conference was the Atlantic 2024 conference. If you missed it, o
 
 In other community news, the 2024 WTD Documentation Salary Survey -- our 6th annual survey -- will be open for submissions very soon! We're implementing a couple of frequently requested usability improvements and are still ironing out a few issues, but keep an eye on the `survey website <https://salary-survey.writethedocs.org/>`__ and follow Write the Docs on Twitter and LinkedIn, where it will be announced as soon as it's ready.
 
-Relatedly, the Write the Docs job board has been replaced. In its place, we have a `new sponsorship opportunity </sponsorship/jobs/>`__ for for companies looking to hire documentarians. We're still hoping to provide useful information about job openings, just closer to where our community is.
+Relatedly, the Write the Docs job board has been replaced. In its place, we have a `new sponsorship opportunity </sponsorship/jobs/>`__ for companies looking to hire documentarians. We're still hoping to provide useful information about job openings, just closer to where our community is.
 
 In the newsletter this month, we have articles on dealing with feedback in large volumes, how to handle freelance work, standards for using callouts, and whether to keep docs in code. Hope you'll find something for you!
 

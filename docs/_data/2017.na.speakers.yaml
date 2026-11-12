@@ -11,7 +11,7 @@
         <p><em>Learn how to Git</em> with Matt Desmond, who is a technical writer-turned-trainer
         for
 
-        GitHub. Take part in hands-on keyboard exercises that will removes the guesswork
+        GitHub. Take part in hands-on keyboard exercises that will remove the guesswork
 
         out of managing your development process using Git.</p>
 
@@ -1033,7 +1033,7 @@
     youtubeId: R8yjmtIWEKQ
 -   abstract: '<p>This talk is about the verifiability crisis in science, politics,
 
-        and technology, and how methods developed to address verifiablity in statistical
+        and technology, and how methods developed to address verifiability in statistical
 
         publishing can be adapted to other areas such as technical writing.</p><ul>
 
@@ -1056,18 +1056,18 @@
         </ul><p>Academic, public-policy, and business decisions are sometimes made
         after
 
-        accepting published (mis)information at face value. The costs can beconsiderable.</p>
+        accepting published (mis)information at face value. The costs can be considerable.</p>
 
         <p>The information often arrives in the form of an electronic document, such
         as
 
         a web page or PDF file. To verify the information, someone has to "fact check"
 
-        it.  But what if the document could, in some sense, "speakfor itself" and
+        it.  But what if the document could, in some sense, "speak for itself" and
 
         demonstrate the veracity of what it is saying?</p><p>In response to the verifiability
 
-        crisis in science, statisticians havedeveloped technology to create "intelligent
+        crisis in science, statisticians have developed technology to create "intelligent
 
         documents" that not onlyreport the results of a statistical analysis, but
 

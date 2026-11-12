@@ -156,7 +156,7 @@ Speakers
 * Invite different speakers to each Meetup. Repeat speakers are OK if it's been over a year.
 * Invite speakers from different backgrounds and don't limit talks to writing.
 
-  For example, you might want to invite someone who codes or leads a community in Python, Javascript, or
+  For example, you might want to invite someone who codes or leads a community in Python, JavaScript, or
   Ruby, and ask them to share a project or approach to documentation specific to their domain. Or, invite an architect,
   editor, designer, user experience professional, or support representative to talk about their approach to documentation
   projects and problems.
@@ -175,7 +175,7 @@ Topics
 The following are examples of topics that have worked well for other meetups:
 
 * API docs -- Approaches, tools, and best practices in API documentation.
-* Contributing to OSS -- Getting started with Github and open source projects.
+* Contributing to OSS -- Getting started with GitHub and open source projects.
 * Easy entry to OSS -- Finding good beginner projects to contribute to.
 * Navigating career path -- Understanding different sectors of tech writing and creating a long term plan.
 * Hackathon -- creating docs “The lone writers guide.”

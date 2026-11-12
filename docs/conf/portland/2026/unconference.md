@@ -8,6 +8,8 @@ banner: _static/conf/images/headers/2026/unconference.jpg
 
 The Unconference consists of attendee-driven sessions that provide the opportunity for anyone who is attending the conference to lead, contribute, share ideas, and discuss problems in an organized setting away from the main stage talks. Many attendees consider this one of their favorite aspects of the conference.
 
+The Unconference is a second track: sessions run at the same time as the talks, so throughout the day you can choose whichever you prefer.
+
 **Who can lead an Unconference session?**
 
 Everyone! All attendees are invited to lead a session on a topic. Sessions can be organized around a presentation, group discussion or anything in between.
@@ -22,12 +24,14 @@ Everyone!
 
 - Each session is 35 minutes in length
 - Sessions will be scheduled in 4-6 time slots, with multiple sessions happening at the same time
+- Runs as a second track, alongside the talks
 - Hosted in {{ about.unconfroom }}
 
 See the [Schedule](/conf/{{shortcode}}/{{year}}/schedule) page for exact times.
 
 {% if unconf.url %}
 ```{button-link} {{ unconf.url }}
+:year: {{ year }}
 View the Unconference Schedule
 ```
 {% endif %}
@@ -71,7 +75,7 @@ Martha's will be open to attendee sessions in the afternoon, along with the Libr
 
 In-person sessions take place at tables and focus on small group interaction. There is no stage at an Unconference session.
 
-[Virtual confereence](/conf/{{shortcode}}/{{year}}/virtual/) attendees have a dedicated **Virtual Unconference** channel in the Venueless app.
+[Virtual conference](/conf/{{shortcode}}/{{year}}/virtual/) attendees have a dedicated **Virtual Unconference** channel in the Venueless app.
 
 Unconference sessions are not recorded or streamed. 
 

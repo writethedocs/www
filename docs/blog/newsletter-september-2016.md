@@ -69,7 +69,7 @@ For more on documentation style guides, this blog post from [I Heart Technical W
 
 ## Looking for more Write the Docs?
 
-We hope you enjoyed our first installment of Write the Docs hot topics! Keep an eye here every month for more. But just in case this wasn't not enough docs love for you:
+We hope you enjoyed our first installment of Write the Docs hot topics! Keep an eye here every month for more. But just in case this wasn't enough docs love for you:
 
 * We feel ya.
 * Scope out [our upcoming conferences](https://www.writethedocs.org/conf/)! ([The next one](https://www.writethedocs.org/conf/eu/2016/), in Prague, is coming up in a few weeks!)

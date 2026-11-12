@@ -73,25 +73,25 @@ Featured job postings
 Upcoming community events
 -------------------------
 
-*New meetup* March 14 – Herzliya, Israel – `Kickoff meeting <https://www.meetup.com/Write-The-Docs-Herzliya/events/248189800/>`_
+*New meetup* March 14 – Herzliya, Israel – `Kickoff meeting <https://www.meetup.com/Write-The-Docs-Herzliya/events/248189800/>`_
 
 March 14 – Leeds, UK – `SEO Optimisation for a New Jekyll Install <https://www.meetup.com/Write-the-Docs-Leeds-Bradford/events/247184981/>`_
 
 *New meetup* March 14 – Köln, Germany – `First meetup <https://www.meetup.com/WTD-Rhineland/events/248194015/>`_
 
-March 15 – San Fransisco (East Bay), California, USA – `Hands-On Demo: How Do I Get into Open Source Projects? <https://www.meetup.com/Write-the-Docs-SF/events/248482881/>`_
+March 15 – San Fransisco (East Bay), California, USA – `Hands-On Demo: How Do I Get into Open Source Projects? <https://www.meetup.com/Write-the-Docs-SF/events/248482881/>`_
 
 March 18 – Novosibirsk, Siberia, Russia – `Confluence: От первых шагов до основного инструмента разработки документации <https://www.meetup.com/Write-the-Docs-Siberia/events/248458984/>`_
 
-March 19 – Amsterdam, Netherlands – `March Meetup <https://www.meetup.com/Write-The-Docs-Amsterdam/events/248478377/>`_
+March 19 – Amsterdam, Netherlands – `March Meetup <https://www.meetup.com/Write-The-Docs-Amsterdam/events/248478377/>`_
 
 March 19 – Berlin, Germany – `Mixing things up: Playing with form in technical writing <https://www.meetup.com/Write-The-Docs-Berlin/events/248465625/>`_
 
-March 20 – Fredericton, New Brunswick, Canada – March Lunch Meetup
+March 20 – Fredericton, New Brunswick, Canada – March Lunch Meetup
 
 March 21 – Perth, Western Australia – `Moving from Word to the Web | Contributing to open source docs <https://www.meetup.com/Write-the-Docs-Australia/events/246830725/>`_
 
-March 22 – Boise, Idaho, USA – `First meetup of 2018 <https://www.meetup.com/Write-the-Docs-Boise/events/246900941/>`_
+March 22 – Boise, Idaho, USA – `First meetup of 2018 <https://www.meetup.com/Write-the-Docs-Boise/events/246900941/>`_
 
 March 27 – Boston, Massachusetts, USA – `Moving Docs to Sphinx <https://www.meetup.com/Write-the-Docs-BOS/events/247849315/>`_
 

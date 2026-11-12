@@ -29,11 +29,11 @@ The formatted text will look like this:
 
 Adding images is like adding links. Just add an exclamation mark at the beginning of the line:
 
-`![alt text](https://pbs.twimg.com/profile_images/556169790587281409/AwkaVrhP_400x400.png).`
+`![Write the Docs logo](https://www.writethedocs.org/_static/logo-opengraph.png)`
 
 The image will look like this:
 
-![alt text](https://pbs.twimg.com/profile_images/556169790587281409/AwkaVrhP_400x400.png).
+![Write the Docs logo](https://www.writethedocs.org/_static/logo-opengraph.png)
 
 ### How to produce lists?
 
@@ -63,7 +63,7 @@ To add a numbered or ordered list of items:
     will start from scratch.
         1. If you want to insert an indented numbered list within an existing indented numbered one,
         just press the tab key again.
-            - If need be, you can also add an indented unordered list within an indented numbered one, an vice versa,
+            - If need be, you can also add an indented unordered list within an indented numbered one, and vice versa,
             by pressing a tab key and typing a dash.
 ```
 
@@ -75,7 +75,7 @@ The formatted text will look like this:
     1. If you press a tab key or type four spaces, you will get an indented list and the numbering will start from scratch.
         1. If you want to insert an indented numbered list within an existing indented numbered one,
         just press the tab key again.
-            - If need be, you can also add an indented unordered list within an indented numbered one, an vice versa,
+            - If need be, you can also add an indented unordered list within an indented numbered one, and vice versa,
             by pressing a tab key and typing a dash.
 
 ### Headers
@@ -151,7 +151,7 @@ You can also "cheat", adding HTML-formatted text when markdown seems too limited
 ### Resources
 
 - [The fundamental guide for using Markdown](https://daringfireball.net/projects/markdown/)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-- [Atom - a flexible editor that you can use for formatting Markdown texts](https://atom.io/)
-- [Stackedit - an online Markdown editor](https://stackedit.io/editor)
-- [Codecademy course on Markdown](https://www.codecademy.com/courses/web-intermediate-en-Bw3bg/0/1)
+- [GitHub's basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Stackedit - an online Markdown editor](https://stackedit.io/)
+- [Markdown Tutorial - an interactive introduction to Markdown](https://www.markdowntutorial.com/)
+- [Markdown Syntax](https://www.markdownlang.com/basic/overview.html)

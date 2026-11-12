@@ -2,6 +2,8 @@
 
 This is the code that powers [www.writethedocs.org](http://www.writethedocs.org). It contains information about the Write the Docs group, as well as information about writing documentation.
 
+To contribute to the text of the website, see the [contributing guide](http://www.writethedocs.org/contribute/).
+
 To contribute to the Write the Docs website, it's helpful to familiarize yourself with the [Sphinx site generator](https://www.sphinx-doc.org/) and [reStructuredText markup syntax](https://www.sphinx-doc.org/en/stable/rest.html).
 
 ### Code Architecture
@@ -19,6 +21,7 @@ For conferences, see [the conference site documentation](https://www.writethedoc
 1. Install [uv](https://docs.astral.sh/uv/getting-started/installation/) (Python package manager).
 
 2. In the repository root directory (`www` by default), run `uv sync` to install Python 3.12 and all dependencies.
+   The helper scripts in `docs/_scripts/` need extra packages; run `uv sync --group scripts` to install those too.
 
 ### Previewing the docs locally
 
@@ -38,11 +41,13 @@ Styling is maintained in `docs/_static/conf/css/` as SASS. Convert SASS to minif
 npm install -g sass
 ```
 
- and then running (using a 2022 example):
+ and then running (using a 2027 example):
 
 ```
-sass --style=compressed docs/_static/conf/scss/main-2022.scss docs/_static/conf/css/main-2022.min.css
+sass --style=compressed --no-source-map docs/_static/conf/scss/main-2027.scss docs/_static/conf/css/main-2027.min.css
 ```
+
+From 2027 on, the conference styles live in `_conference.scss`, which the community pages also use through `main-community.scss`. After changing it, recompile `main-community.scss` and every year that imports it.
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/writethedocs/www.svg)](https://greenkeeper.io/)
 
@@ -71,4 +76,4 @@ Follow the steps below to open the development environment.
 
 1. Open a [supported IDE](https://containers.dev/supporting#editors)
 2. Click the "Open in devcontainer" popup
-3. The development environment starts in an containerized environment
+3. The development environment starts in a containerized environment

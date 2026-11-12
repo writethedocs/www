@@ -55,7 +55,7 @@ Once again, we're grateful to the companies and organizations that `sponsor <htt
 * `Google <https://www.google.com/>`_
 * `Microsoft Cloud Developer Advocates <https://developer.microsoft.com/en-us/advocates/index.html>`_
 * `Mozilla <https://developer.mozilla.org/en-US/>`_
-* `Redhat <https://www.redhat.com/en>`_
+* `Red Hat <https://www.redhat.com/en>`_
 * `New Relic <https://newrelic.com/>`_
 * `Twilio <https://www.twilio.com/>`_
 * `Kayako <https://www.kayako.com/>`_

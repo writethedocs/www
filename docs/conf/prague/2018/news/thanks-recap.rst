@@ -66,4 +66,4 @@ Thanks again
 ============
 
 We're so grateful to our speakers, sponsors, volunteers, and attendees for making this conference possible.
-Whether you were able to join us this time or not, we hope to see you back in Prague next year – or even sooner at one of our other events!
+Whether you were able to join us this time or not, we hope to see you back in Prague next year – or even sooner at one of our other events!

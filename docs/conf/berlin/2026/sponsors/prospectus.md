@@ -70,7 +70,7 @@ The **Keystone** sponsorship highlights you as the primary sponsor of the confer
 
 - {{sponsorship.keystone.tickets}} tickets, with additional available to purchase at a discounted rate of {{sponsorship.extra_ticket.price}}/ticket.
 - Most visible **sponsorship booth** for the entire conference (Monday & Tuesday). Monitor included in booth. Booths placed in order of purchase.
-- Sponsorship of a primary Write the Docs conference event (Unconference, Writing Day, or Social Event).
+- Sponsorship of a primary Write the Docs conference event (Unconference, Writing Day, or Monday Night Social).
 - **60 second introduction** on the main stage introducing your company.
 - Large logo on print material.
 - Large logo included in intermission slides and on talk videos.

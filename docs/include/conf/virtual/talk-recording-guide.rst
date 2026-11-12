@@ -102,7 +102,7 @@ Features:
 
 .. rubric:: Other recording tools
 
-In addition to Panotpo, you can use the following tools to record your talks:
+In addition to Panopto, you can use the following tools to record your talks:
 
 - `Loom <https://www.loom.com/>`_
 
@@ -132,7 +132,7 @@ In addition to Panotpo, you can use the following tools to record your talks:
   - If you're using a headset microphone, make sure it's not too close to your mouth so that you won't end up with poofs and crunchies in the audio.
   -  If you're using a built-in laptop microphone, make sure you are not too far from the laptop so that your voice is loud enough.
 
-- Test test test your recording before you dive in! We recommend doing a test recording of 2-5 minutes, stopping the recording, and watching it before you record the entire talk. If your test video is not behaving nicely, feel free to share the file with us and we'll be happy to provide feedback.
+- Test, test, test your recording before you dive in! We recommend doing a test recording of 2-5 minutes, stopping the recording, and watching it before you record the entire talk. If your test video is not behaving nicely, feel free to share the file with us and we'll be happy to provide feedback.
 
 - While you are recording the talk, if you run into a problem with your narration but you don't want to stop recording, we can edit it later! Take a breath, repeat the last 2-3 sentences, and when you send us the video file please write down time markers of places where edits are needed.
 

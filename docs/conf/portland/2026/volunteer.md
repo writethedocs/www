@@ -1,7 +1,6 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/headers/2026/volunteer.jpg
 ---
 
 # Volunteer Information
@@ -14,11 +13,10 @@ Each individual must volunteer for two or more 3-4 hour shifts and receives a **
 
 ## Apply to Volunteer
 
-<div class="announcement" style="background-color:white;">
-    <div class="uk-container">
-    <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ volunteer.form_url }}">Sign up to be a volunteer</a>
-    </div>
-</div>
+```{button-link} {{ volunteer.form_url }}
+:year: {{ year }}
+Sign up to be a volunteer
+```
 
 ![Volunteer](/_static/conf/images/pics/2025/volunteer.jpg)
 

@@ -139,5 +139,5 @@ Thanks so much to the following companies for supporting the Portland conference
 
 We're so grateful to our sponsors, speakers, volunteers, and attendees
 for making this conference possible. Whether you were able to come out
-this time or not, we hope to see you again next year – or
+this time or not, we hope to see you again next year – or
 even sooner at one of our other events!

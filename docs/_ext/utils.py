@@ -13,6 +13,22 @@ def slugify(slug):
     slug = re.sub(r'[^a-z0-9]+', '-', slug).strip('-')
     slug = re.sub(r'[-]+', '-', slug)
     return slug
+# The C loader parses the same YAML about ten times faster than the pure
+# Python one, and the build reads the conference data files hundreds of times.
+_YAML_LOADER = getattr(yaml, 'CSafeLoader', yaml.SafeLoader)
+
+
 def load_yaml(path):
     with io.open(path, encoding='utf-8') as fp:
-        return yaml.safe_load(fp)
+        return yaml.load(fp, Loader=_YAML_LOADER)
+
+
+def conference_config_path(shortcode, year):
+    """
+    The path of a conference's config file, relative to docs/:
+    ``_data/<shortcode>-<year>-config.yaml``, or before 2020
+    ``_data/config-<shortcode>-<year>.yaml``.
+    """
+    if int(year) < 2020:
+        return f'_data/config-{shortcode}-{year}.yaml'
+    return f'_data/{shortcode}-{year}-config.yaml'

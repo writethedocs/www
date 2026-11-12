@@ -102,11 +102,11 @@ June 14 – Salt Lake City, UT, USA – `Writing the Docs for Multiple Projects 
 
 June 19 – Austin, TX, USA – `Panel Discussion: Navigating Career Paths <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/249817330/>`_
 
-June 21 – Boise, ID, USA – `Write the Docs Conference Rundown <https://www.meetup.com/Write-the-Docs-Boise/events/249633985/>`_
+June 21 – Boise, ID, USA – `Write the Docs Conference Rundown <https://www.meetup.com/Write-the-Docs-Boise/events/249633985/>`_
 
 June 26 – Ottawa, ON, Canada – `Auditing documentation | Developing Shopify's API docs style guide <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/250880001/>`_
 
-June 26 – San Francisco, CA, USA – `The Developer Experience for APIs <https://www.meetup.com/Write-the-Docs-SF/events/251444527/>`_
+June 26 – San Francisco, CA, USA – `The Developer Experience for APIs <https://www.meetup.com/Write-the-Docs-SF/events/251444527/>`_
 
 June 27 – Brisbane, Australia – `Facebook, Dynamite, Uber, Bombs, and Tech Writers: A quick historical excursion through ethics and documentation <https://www.meetup.com/Write-the-Docs-Australia/events/250630480/>`_
 

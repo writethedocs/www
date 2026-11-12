@@ -144,7 +144,7 @@ about:
 
 cfp:
   url: https://pretalx.com/write-the-docs-prague-2021/cfp
-  ends: "June 30, 2021"           # 2 weeks to review and get confirmnations
+  ends: "June 30, 2021"           # 2 weeks to review and get confirmations
   notification: "July 16, 2021"   # leaves 6 weeks to write and record
   video_by: "September 3, 2021"   # 4 weeks before the conf
 

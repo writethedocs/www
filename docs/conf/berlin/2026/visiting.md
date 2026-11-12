@@ -1,6 +1,6 @@
 ---
 template: {{year}}/generic.html
-# banner: _static/conf/images/headers/berlin-2026-visiting.jpg
+banner: _static/conf/images/headers/berlin-2026-group-photo.jpg
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
@@ -25,6 +25,12 @@ We're working on the details of the conference, including the venue, schedule, a
 - [Mercure Hotel Berlin Wittenbergplatz](https://all.accor.com/hotel/9147/index.en.shtml)
 - [Park Inn Alexanderplatz](https://www.radissonhotels.com/en-us/hotels/park-inn-berlin-alexanderplatz)
 
+### Budget-friendly Accommodations
+
+- [Space Night Capsule Hotel](https://spacenight.berlin/en/)
+- [St. Christopher's - Mitte](https://www.st-christophers.co.uk/mitte-hostel/)
+- [a&o Hostel Berlin Mitte](https://www.aohostels.com/en/berlin/berlin-mitte/)
+
 ## Food and Beverages
 
 ### Food near bUm (within a 10-minute walk)
@@ -33,6 +39,7 @@ We're working on the details of the conference, including the venue, schedule, a
 
 - [Atelier Dough](https://www.atelierdough.com/)
 - [La Maison](https://www.lamaison.berlin/en/)
+- [Loz Cafe](https://www.lozberlin.com/)
 - [SPIERS good food Café](https://spiersgoodfood.eatbu.com/?lang=en)
 
 **Lunch and Dinner**
@@ -40,6 +47,7 @@ We're working on the details of the conference, including the venue, schedule, a
 - [Ammazza che Pizza](https://www.ammazza.de/)
 - [Dirty dumplings](https://www.instagram.com/dirtydumplingsberlin/)
 - [Kitten Deli](https://www.instagram.com/kitten.deli/)
+- [Kotti Dang](https://www.kottidang.de/)
 - [lütt](https://luett-berlin.de/)
 
 ### Food near bUm (10-15 minute walk)
@@ -113,18 +121,13 @@ The following bus and U-Bahn stops are located within a 15-minute walk from the 
 
 BVG tickets are accepted on all public transport within zones ABC. You can buy physical tickets from machines at BVG stops. To buy digital tickets, use the [BVG mobile app](https://www.bvg.de/en/subscriptions-and-tickets/all-apps/ticket-app).
 
-**Selected Fares**
+Tap on tap off is **not** available on public transport in Berlin.
 
-| Ticket type              | Zones | Price in EUR | Validity                                                                                                      |
-| ------------------------ | ----- | ------------ | ------------------------------------------------------------------------------------------------------------- |
-| Single ticket            | AB    | 3.80         | 120 minutes                                                                                                   |
-| Single ticket (set of 4) | AB    | 11.60        | 120 minutes                                                                                                   |
-| Short trip ticket        | AB    | 2.60         | <li>U-Bahn and S-Bahn: 3 stops</li><li>Bus and tram: 6 stops without transfers</li><li>Not valid on RB trains |
-| Day ticket               | AB    | 10.60        | 24 hours                                                                                                      |
+As of July 2026, tickets were approximately EUR 4 for an inner city ticket, EUR 10 for a 24 hour ticket.      |
 
-Please note that to travel to and from BER airport, you'll need an additional extension ticket for zone C. It costs 2.30 EUR and is valid for up to 120 minutes.
+For travel to and from BER airport you need a ticket valid for zones ABC.
 
-You can find the list of all available tickets on the [official BVG website](https://www.bvg.de/en/subscriptions-and-tickets/all-tickets).
+You can find exact ticket prices on the [official BVG website](https://www.bvg.de/en/subscriptions-and-tickets/all-tickets).
 
 ### Bike and Scooter Rentals
 
@@ -152,8 +155,11 @@ You can find the list of all available tickets on the [official BVG website](htt
 
 - [Berlinische Galerie](https://berlinischegalerie.de/en/)
 - [Deutsches Technikmuseum](https://technikmuseum.berlin/en/)
+- [Gropius Bau](https://www.berlinerfestspiele.de/en/gropius-bau)
 - [Hamburger Bahnhof](https://www.smb.museum/en/museums-institutions/hamburger-bahnhof/home/)
 - [The Jewish Museum Berlin](https://www.jmberlin.de/en)
 - [Museums in Kulturforum](https://www.smb.museum/museen-einrichtungen/kulturforum/home/)
 - [Museum für Naturkunde](https://www.museumfuernaturkunde.berlin/en)
 - [Museumsinsel](https://www.smb.museum/museen-einrichtungen/museumsinsel-berlin/home/)
+- [Ramones Museum](https://www.ramonesmuseum.com/)
+- [Topographie des Terrors](https://www.topographie.de/en/)

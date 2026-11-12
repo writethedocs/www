@@ -9,7 +9,7 @@ Facts
 
 -  Your talk will be 30 minutes long.
    Your talk should cover the entire slot, or close to it. 
--  There will be a live Q&A, around 10 minutess long, that starts when your recording ends. 
+-  There will be a live Q&A, around 10 minutes long, that starts when your recording ends. 
    It will be held in a different Hopin room than the main talk. The MC will moderate audience questions for you.
 -  The more you practice your talk, the more comfortable you'll be when recording it.
    In addition to practicing by yourself, we strongly recommend you
@@ -50,7 +50,7 @@ Good resources on this include:
 - `The Responsible Communication Style Guide <https://rcstyleguide.com/>`__
 - `GDS design principles <https://www.gov.uk/guidance/government-design-principles#this-is-for-everyone>`__
 
-Also, we know there's a ton of nuance and complexity here – 
+Also, we know there's a ton of nuance and complexity here –
 just do your best to be aware of and sensitive about your language choices!
 
 Slide display details

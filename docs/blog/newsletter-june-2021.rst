@@ -10,7 +10,7 @@ Hi everybody! It's Beth here, writing to you from my gloriously sunny balcony (t
 
 The big thing I want to shout about this month is the `Prague Call for Proposals </conf/prague/2021/cfp/>`__. If you were even sort-of entertaining the thought of submitting a talk idea, take this as your sign to go for it! My favourite thing about giving a conference talk is the conversations the talk starts. It's awesome for helping you find people who care about the same things as you; so if there's something you'd really like to see a talk about this year, I really encourage you to submit your idea. And if you'd like a bit of help working on your proposal idea, the EMEA WTD meetup is hosting a `proposal workshop and discussion on 10th June <https://www.meetup.com/Write-The-Docs-Berlin/events/277872402/>`__ - check it out.
 
-On to the stories from Slack! This month we've been talking about prioritization, the challenges of having busy colleagues, and much much more.
+On to the stories from Slack! This month we've been talking about prioritization, the challenges of having busy colleagues, and much, much, more.
 
 -----------------------------------------------------------
 Priorities: Document new features or improve existing docs?

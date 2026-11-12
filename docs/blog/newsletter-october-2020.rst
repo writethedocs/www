@@ -82,7 +82,7 @@ This month’s newsletter is sponsored by Microsoft:
           <td width="75%">
               <p>
 
-              Want the simplicity of a source code editor with powerful developer tooling?  Try the lightning-fast, lightweight, massively customizable editor that is taking the world by storm.  Did we mention it’s free and supports MacOS, Linux, and Windows?  To learn more and grab your copy, head here: <a href="https://code.visualstudio.com/docs/editor/whyvscode">https://code.visualstudio.com/docs/editor/whyvscode</a>.
+              Want the simplicity of a source code editor with powerful developer tooling?  Try the lightning-fast, lightweight, massively customizable editor that is taking the world by storm.  Did we mention it’s free and supports macOS, Linux, and Windows?  To learn more and grab your copy, head here: <a href="https://code.visualstudio.com/docs/editor/whyvscode">https://code.visualstudio.com/docs/editor/whyvscode</a>.
               </p>
           </td>
           <td width="25%">

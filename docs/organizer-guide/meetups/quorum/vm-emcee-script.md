@@ -17,7 +17,7 @@ During social networking time:
   if they'll be ready in advance).
 - Do a tech check of the slides if needed.
 - Find out whether the speaker prefers questions throughout or at the end.
-- Check with other organizers whetheer there are any announcements.
+- Check with other organizers whether there are any announcements.
 
 
 ## Before the presentation

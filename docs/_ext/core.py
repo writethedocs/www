@@ -3,7 +3,7 @@ import re
 import pytz
 from jinja2 import TemplateError
 from yaml import YAMLError
-from .utils import load_yaml
+from .utils import conference_config_path, load_yaml
 
 import logging
 import sys
@@ -77,11 +77,17 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
     the schedule is also loaded, enriched with context from the speakers data.
     """
     data = {}
-    if year < 2020:
-        yaml_file = '_data/config-' + shortcode + '-' + year_str + '.yaml'
-    else:
-        yaml_file = '_data/' + shortcode + '-' + year_str + '-config.yaml'
-    data.update(load_yaml_log_error(page, yaml_file))
+    data.update(load_yaml_log_error(page, conference_config_path(shortcode, year)))
+
+    # Single source for the conference home-page social/meta description (2026
+    # onwards), so the same sentence doesn't have to be copy-pasted into the
+    # index page's og:description and meta description. Used as {{ social_description }}.
+    if year >= 2026:
+        data['social_description'] = (
+            f"Write the Docs {data['name']} {year} is a conference for "
+            "documentarians and everyone who writes the docs. "
+            f"Join us {data['date']['short']} in {data['city']}, {data['local_area']}."
+        )
 
     if year < 2020 or not data['flagspeakersannounced']:
         return data

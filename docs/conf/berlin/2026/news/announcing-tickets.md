@@ -23,7 +23,7 @@ Included with the in-person ticket:
 
 - Entry to all conference events and activities, including Writing Day
 - Snacks and drinks on conference days (Monday and Tuesday)
-- Social Event with light snacks and drinks
+- Monday Night Social with drinks and snacks
 - Wifi throughout the event
 - Meeting lots of fantastic people in a spacious, inviting venue.
 

@@ -14,11 +14,11 @@
 
 .. |icon-quote| raw:: html
 
-   <i class="fa-solid fa-comment-quote"></i>
+   <i class="fa-solid fa-quote-left"></i>
 
 .. |icon-newsletter| raw:: html
 
-   <i class="fa-solid fa-mailbox-flag-up"></i>
+   <i class="fa-solid fa-envelope"></i>
 
 
 .. |25| replace:: :abbr:`25 (25th percentile - one quarter of all salaries were lower than this value)`:sup:`th`
@@ -128,32 +128,7 @@ This sixth incarnation of the Write the Docs Salary Survey drew **779 responses 
 
    .. raw:: html
 
-      <div id="mc_embed_shell">
-         <div id="mc_embed_signup">
-            <form action="https://writethedocs.us6.list-manage.com/subscribe/post?u=94377ea46d8b176a11a325d03&amp;id=dcf0ed349b&amp;f_id=005135e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-               <div id="mc_embed_signup_scroll">
-                  <div class="mc-field-group">
-                     <label for="mce-EMAIL"><span>Email Address </span><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value="" placeholder="Email address">
-                  </div>
-                  <div class="mc-field-group input-group">What types of updates would you like?
-                     <ul>
-                        <li><input type="checkbox" name="group[14633][32]" id="mce-group[14633]-14633-5" value="" checked><label for="mce-group[14633]-14633-5"><strong>Salary Survey Announcements</strong></label></li>
-                        <li><input type="checkbox" name="group[14633][1]" id="mce-group[14633]-14633-0" value=""><label for="mce-group[14633]-14633-0">Monthly Community Newsletter</label></li>
-                        <li><input type="checkbox" name="group[14633][2]" id="mce-group[14633]-14633-1" value=""><label for="mce-group[14633]-14633-1">North American Conference Announcements</label></li>
-                        <li><input type="checkbox" name="group[14633][4]" id="mce-group[14633]-14633-2" value=""><label for="mce-group[14633]-14633-2">European Conference Announcements</label></li><li><input type="checkbox" name="group[14633][8]" id="mce-group[14633]-14633-3" value=""><label for="mce-group[14633]-14633-3">Australian Conference Announcements</label></li>
-                        <li><input type="checkbox" name="group[14633][16]" id="mce-group[14633]-14633-4" value=""><label for="mce-group[14633]-14633-4">Atlantic Conference Announcements</label></li>
-
-                     </ul>
-                  </div>
-                  <div id="mce-responses" class="clear">
-                     <div class="response" id="mce-error-response" style="display: none;"></div><div class="response" id="mce-success-response" style="display: none;"></div>
-                  </div>
-                  <div aria-hidden="true" style="position: absolute; left: -5000px;"><input type="text" name="b_94377ea46d8b176a11a325d03_dcf0ed349b" tabindex="-1" value=""></div>
-                  <div class="clear"><input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe"></div>
-               </div>
-            </form>
-         </div>
-         <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='TICKETLINK';ftypes[1]='url';fnames[2]='COMPANY';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
+{% filter indent(6, first=True) %}{% include "surveys/signup.html" %}{% endfilter %}
 
 Feedback
 --------
@@ -1522,8 +1497,8 @@ Around half of all employees (51.4%) and half of all contractors (50% exactly) r
 .. raw:: html
 
    <figure>
-      <object role="img" aria-label="Earnings security confidence - contractors" aria-describedby="figure_earnings-security-confdence-contractors_desc" type="image/svg+xml" data="/_images/2024-earnings-security-confidence-contractors.svg">
-         <p id="figure_earnings-security-confdence-contractors_desc">Graphic showing earnings security confidence of contractors - less confident, around the same, more confident - as compared to the previous year.</p>
+      <object role="img" aria-label="Earnings security confidence - contractors" aria-describedby="figure_earnings-security-confidence-contractors_desc" type="image/svg+xml" data="/_images/2024-earnings-security-confidence-contractors.svg">
+         <p id="figure_earnings-security-confidence-contractors_desc">Graphic showing earnings security confidence of contractors - less confident, around the same, more confident - as compared to the previous year.</p>
       </object>
       <figcaption>Figure: Earnings security confidence - contractors</figcaption>
    </figure>
@@ -1936,7 +1911,7 @@ Those affected by a full time RTO mandate felt predominantly negative - 73.9% re
 
    <figure>
       <object role="img" aria-label="Attitudes towards RTO - respondents affected by full RTO" aria-describedby="figure_rto-attitude-affected-by-full_desc" type="image/svg+xml" data="/_images/2024-rto-attitude-affected-by-full.svg">
-         <p id="figure_rto-attitude-affected-by-full_desc">Donut chart showing attitudes towards RTO by those respondents affeted by full RTO mandates.</p>
+         <p id="figure_rto-attitude-affected-by-full_desc">Donut chart showing attitudes towards RTO by those respondents affected by full RTO mandates.</p>
       </object>
       <figcaption>Figure: Attitude towards RTO - respondents affected by full RTO</figcaption>
    </figure>
@@ -2154,7 +2129,7 @@ Given the range of socio-economic differences in the countries in the survey res
 
    .. rubric:: Privacy and salary information
 
-   The following countries - all of which had fewer than 10 respondents in 2024 - are excluded from the median salaries breakdown for privary reasons:
+   The following countries - all of which had fewer than 10 respondents in 2024 - are excluded from the median salaries breakdown for privacy reasons:
 
    - North America: Puerto Rico, Mexico
    - Europe: Austria, Bulgaria, Croatia, Czechia, Denmark, Estonia, Finland, Georgia, Greece, Hungary, Ireland, Italy, Lithuania, Malta, Netherlands, Norway, Poland, Portugal, Romania, Russia, Serbia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine
@@ -2200,7 +2175,7 @@ Given the range of socio-economic differences in the countries in the survey res
    | - Israel (24)           | --          |      $94,064 | --           |
    +-------------------------+-------------+--------------+--------------+
 
-Respondent numbers allow some additional breakdowns by US state, Candian province and Australian state, as well as a handful of major cities.
+Respondent numbers allow some additional breakdowns by US state, Canadian province and Australian state, as well as a handful of major cities.
 
 .. raw:: html
 
@@ -3734,7 +3709,7 @@ Organization type and industry
    - Manufacturing, Engineering, Precision Engineering, Hardware, Semiconductor
    - Media, Radio, TV, Journalism
    - Non-profit, Community
-   - Parks, Recreation, Nature, Wildnerness, Outdoors, Conservation, Ecotourism
+   - Parks, Recreation, Nature, Wilderness, Outdoors, Conservation, Ecotourism
    - Retail, Consumer Products, Fashion
    - Real Estate
    - Science, Research
@@ -3899,7 +3874,7 @@ Pay transparency
 Pay transparency policy and legal requirements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-47.6% of respondants - the majority - reported that their organization had no pay transparency policy. The next largest group, at 27.9%, were unsure if there was a policy or not. The final 24.5% were fairly evenly split between partial disclosure (9.5%), disclosure forbidden (8.3%), and full disclosure (6.7%).
+47.6% of respondents - the majority - reported that their organization had no pay transparency policy. The next largest group, at 27.9%, were unsure if there was a policy or not. The final 24.5% were fairly evenly split between partial disclosure (9.5%), disclosure forbidden (8.3%), and full disclosure (6.7%).
 
 The proportions of organizations in each category has not changed significantly over the three years we have asked this question.
 

@@ -64,9 +64,9 @@ Home - Write the Docs {{ name }} {{ year }}
         <div class="ctas-block">
 
          {% if buttons is defined and buttons.top %}
-         {% for callout in buttons.top %}
-           <a class="uk-button uk-button-secondary uk-text-center" href="{% if callout.link_absolute %}{{ callout.link_absolute }}{% else %}{{ pathto('conf/' + shortcode + '/' + year_str + callout.link ) }}{% endif %}">{{ callout.text }}</a>
-         {% endfor %}
+         <div style="display:flex; flex-direction:inherit; flex-wrap:nowrap; gap:12px; justify-content:inherit; align-items:stretch;">{% for callout in buttons.top %}
+           {{ button_link(callout.link_absolute or pathto('conf/' + shortcode + '/' + year_str + callout.link), callout.text, year, wrap=False, new_tab=False, contrast=True) }}
+         {% endfor %}</div>
          {% endif %}
 
         </div>
@@ -101,9 +101,7 @@ Home - Write the Docs {{ name }} {{ year }}
   <div class="announcement">
     <div class="uk-container">
       <p style="vertical-align: middle;">Want to receive conference and community updates?</p>
-      <a class="uk-button uk-button-announcement" href="{{ pathto('conf/' + shortcode + '/' + year_str + '/mailing-list' ) }}">
-        Join our Mailing List
-      </a>
+      {{ button_link(pathto('conf/' + shortcode + '/' + year_str + '/mailing-list'), 'Join our Mailing List', year, wrap=False, new_tab=False) }}
     </div>
   </div><!--- end announcement -->
 
