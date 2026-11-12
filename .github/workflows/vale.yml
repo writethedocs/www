@@ -54,4 +54,10 @@ jobs:
           fail_on_error: true
           filter_mode: file
           version: 3.4.2
+          # The action still defaults to reviewdog 0.21.0, which gives up when
+          # GitHub answers its check run update with a 404 moments after the
+          # run was created. That failed the job at random even with no
+          # findings and left the "vale" check in progress. 0.21.3 retries
+          # that update. Drop this once the action's default is 0.21.3 or
+          # later: https://github.com/reviewdog/reviewdog/pull/2865
           reviewdog_version: 0.21.3
