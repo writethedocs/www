@@ -7,7 +7,7 @@ from .utils import conference_config_path, load_yaml
 
 import logging
 import sys
-from datetime import datetime, time, timedelta
+from datetime import date, datetime, time, timedelta
 
 try:
     from pathlib import PurePath
@@ -88,6 +88,12 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
             "documentarians and everyone who writes the docs. "
             f"Join us {data['date']['short']} in {data['city']}, {data['local_area']}."
         )
+
+    # The site is "after the conference" from the day after its last day,
+    # unless the config says otherwise. Only takes effect when the site is
+    # rebuilt.
+    if 'flagpostconf' not in data and 'ends' in data['date']:
+        data['flagpostconf'] = date.today() > data['date']['ends']
 
     if year < 2020 or not data['flagspeakersannounced']:
         return data
