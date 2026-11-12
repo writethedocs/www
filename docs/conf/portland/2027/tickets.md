@@ -156,24 +156,6 @@ All attendees, in person or virtual, are required to abide by our [Code of Condu
 </div>
 {% endif %}
 
-<div class="ticket">
-  <h2>
-    <strong>Opportunity Grants</strong>
-  </h2>
-  <p>
-    If you need support in paying for your ticket, travel or other costs, you can apply to our Opportunity Grant program.
-  </p>
-  {% if grants and grants.ends and grants.url %}
-  <p>
-    You can apply until <strong>{{ grants.ends }}, 11:59 PM {{ tz }}</strong> on <a href="https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/">our website</a>.
-  </p>
-  {% else %}
-  <p>
-    Grant applications will open soon.
-  </p>
-  {% endif %}
-</div>
-
 ## Refund Policy
 
 Refunds are offered with a 10% processing fee, up to 2 weeks before the conference.
