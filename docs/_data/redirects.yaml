@@ -1,12 +1,48 @@
-# Redirects for pages that moved or were removed, synced to Read the Docs by
-# docs/_scripts/sync_rtd_redirects.py. Paths are site paths; `to` can also be
-# a full URL. Add an entry here whenever a page is deleted or renamed.
+# Redirects for www.writethedocs.org, the single source of truth. Read the Docs serves them.
+# Sync this file to the project with readthedocs-cli, from the repo root:
+#
+#   uvx --from readthedocs-cli==5 rtd projects writethedocs-www redirects sync -f docs/_data/redirects.yaml --dry-run
+#
+# The sync deletes any redirect on Read the Docs that isn't in this file, so add redirects here,
+# never in the dashboard. Write `from_url` without a trailing slash, which is how Read the Docs
+# stores it. The sync only reads the three fields below: a redirect it creates is a 302.
 ---
-- from: /organizer-guide/meetups/starting/
-  to: /meetups/wtd-community-organizing/
-- from: /organizer-guide/meetups/faq-meetups/
-  to: /meetups/wtd-community-organizing/
-- from: /organizer-guide/meetups/sustainable-meetups/
-  to: /meetups/wtd-community-organizing/
-- from: /organizer-guide/meetups/covid-19-meetups/
-  to: /meetups/wtd-community-organizing/
+# Meetup organizer pages folded into the community organizing guide.
+- type: exact
+  from_url: /organizer-guide/meetups/starting
+  to_url: /meetups/wtd-community-organizing/
+
+- type: exact
+  from_url: /organizer-guide/meetups/faq-meetups
+  to_url: /meetups/wtd-community-organizing/
+
+- type: exact
+  from_url: /organizer-guide/meetups/sustainable-meetups
+  to_url: /meetups/wtd-community-organizing/
+
+- type: exact
+  from_url: /organizer-guide/meetups/covid-19-meetups
+  to_url: /meetups/wtd-community-organizing/
+
+# Renamed pages.
+- type: page
+  from_url: /guide/docs-like-code
+  to_url: /guide/docs-as-code/
+
+- type: exact
+  from_url: /conf/portland/2023/hike
+  to_url: /conf/portland/2023/outing/
+
+# Short links.
+- type: exact
+  from_url: /speaker-invite
+  to_url: https://www.writethedocs.org/conf/prague/2021/talk-recording-guidelines/
+
+- type: exact
+  from_url: /pdx-qa
+  to_url: https://www.writethedocs.org/conf/portland/2023/qa/
+
+# Forwards old .html URLs to their clean versions.
+- type: html_to_clean_url
+  from_url: /
+  to_url: /
