@@ -23,10 +23,10 @@ def load_meetups():
     for yaml_file in glob.glob(os.path.join(PATH, '../_data/meetups/*.yaml')):
         print('Loading meetup YAML: %s' % yaml_file)
         meetup = load_yaml(yaml_file)
-        if 'website' not in meetup:
+        if 'meetup' not in meetup:
             pprint(meetup)
-            raise Exception('Meetup needs a website')
-        meetup_urls.append(meetup['website'])
+            raise Exception('Meetup needs a meetup key')
+        meetup_urls.append('https://www.meetup.com/%s/events/' % meetup['meetup'])
     return meetup_urls
 
 # Expects $MEETUP_API_KEY to de defined as an environment variable

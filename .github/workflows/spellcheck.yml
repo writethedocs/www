@@ -8,10 +8,11 @@ on:
 
   workflow_dispatch:
 
-env:
-  BUILD_VIDEOS: true
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
 
-jobs:    
+jobs:
   spellcheck:
     runs-on: ubuntu-latest
     steps:

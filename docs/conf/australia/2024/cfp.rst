@@ -29,13 +29,10 @@ We will announce the CFP soon.
 Ready to submit your talk?
 You can do that here:
 
-.. raw:: html
+.. button-link:: {{ cfp.url }}
+   :year: {{ year }}
 
-    <div class="announcement" style="background-color:white;">
-        <div class="uk-container">
-        <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}">Submit your proposal</a>
-        </div>
-    </div>
+   Submit your proposal
 
 {% endif %}
 
@@ -67,7 +64,7 @@ If you're a WTD conference organizer, please only submit talks to conferences yo
 
 **Mix of roles and perspectives**
 
-Talks from the scientific community, fiction writers, system administrators, and support staff – in addition to technical writers and software developers – are all valuable to our attendees.
+Talks from the scientific community, fiction writers, system administrators, and support staff – in addition to technical writers and software developers – are all valuable to our attendees.
 
 **Diverse audience**
 
@@ -117,7 +114,7 @@ It can be  helpful to check out topics that might be related to your talk from p
 * `Australia {{year-1}} <https://www.writethedocs.org/conf/australia/{{year-1}}/speakers/>`_
 * `Australia {{year-3}} <https://www.writethedocs.org/conf/australia/{{year-3}}/speakers/>`_
 * `Portland {{year-1}} <https://www.writethedocs.org/conf/portland/{{year-1}}/speakers/>`_
-* `Prague {{year-1}} <https://www.writethedocs.org/conf/prague/{{year-1}}/speakers/>`_
+* `Atlantic {{year-1}} <https://www.writethedocs.org/conf/atlantic/{{year-1}}/speakers/>`_
 * `Portland {{year-2}} <https://www.writethedocs.org/conf/portland/{{year-2}}/speakers/>`_
 * `Prague {{year-2}} <https://www.writethedocs.org/conf/prague/{{year-2}}/speakers/>`_
 
@@ -180,12 +177,9 @@ Submit your proposal
 
 Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx account, unless you already have one from a previous conference.
 
-.. raw:: html
+.. button-link:: {{ cfp.url }}
+   :year: {{ year }}
 
-    <div class="announcement" style="background-color:white;">
-        <div class="uk-container">
-        <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}">Submit your proposal</a>
-        </div>
-    </div>
+   Submit your proposal
 
 {% endif %}

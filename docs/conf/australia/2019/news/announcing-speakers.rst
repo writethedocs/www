@@ -6,7 +6,7 @@
 Announcing speakers and talks
 =============================
 
-G'dday fellow documentarians in Australia and beyond!
+G'day fellow documentarians in Australia and beyond!
 
 We’re happy to write to you with the latest news about our upcoming Australian conference, there’s lots to share and with the conference just over two months away, we hope you’re all getting excited!
 
@@ -18,7 +18,7 @@ We also have some info about ticket purchasing (now’s the time!), call for vol
 Full speaker line-up
 --------------------
 
-Every year, we look to bring a wide range of voices to the Write the Docs stage. Because the role of "documentarian" looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure. We're really excited about the presentations we've got this year – we hope you are too!
+Every year, we look to bring a wide range of voices to the Write the Docs stage. Because the role of "documentarian" looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure. We're really excited about the presentations we've got this year – we hope you are too!
 
 .. datatemplate::
    :source: /_data/{{year}}.{{shortcode}}.speakers.yaml

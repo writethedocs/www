@@ -29,13 +29,10 @@ We will announce the CFP soon.
 Ready to submit your talk?
 You can do that here:
 
-.. raw:: html
+.. button-link:: {{ cfp.url }}
+   :year: {{ year }}
 
-    <div class="announcement" style="background-color:white;">
-        <div class="uk-container">
-        <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}">Submit your proposal</a>
-        </div>
-    </div>
+   Submit your proposal
 
 {% endif %}
 
@@ -67,7 +64,7 @@ If you're a WTD conference organizer, please only submit talks to conferences yo
 
 **Mix of roles and perspectives**
 
-Talks from the scientific community, fiction writers, system administrators, and support staff – in addition to technical writers and software developers – are all valuable to our attendees.
+Talks from the scientific community, fiction writers, system administrators, and support staff – in addition to technical writers and software developers – are all valuable to our attendees.
 
 **Diverse audience**
 
@@ -115,11 +112,10 @@ If you are making those assumptions about what your audience knows, it helps eve
 It can be  helpful to check out topics that might be related to your talk from previous years as well:
 
 * `Australia {{year-1}} <https://www.writethedocs.org/conf/australia/{{year-1}}/speakers/>`_
-* `Australia {{year-3}} <https://www.writethedocs.org/conf/australia/{{year-3}}/speakers/>`_
+* `Australia {{year-2}} <https://www.writethedocs.org/conf/australia/{{year-2}}/speakers/>`_
 * `Portland {{year-1}} <https://www.writethedocs.org/conf/portland/{{year-1}}/speakers/>`_
-* `Prague {{year-1}} <https://www.writethedocs.org/conf/prague/{{year-1}}/speakers/>`_
 * `Portland {{year-2}} <https://www.writethedocs.org/conf/portland/{{year-2}}/speakers/>`_
-* `Prague {{year-2}} <https://www.writethedocs.org/conf/prague/{{year-2}}/speakers/>`_
+* `Atlantic {{year-1}} <https://www.writethedocs.org/conf/atlantic/{{year-1}}/speakers/>`_
 
 Not sure about speaking?
 ------------------------
@@ -144,12 +140,12 @@ We actively balance for diversity in as many ways as we can, which means that we
 Presentation format
 -------------------
 
-Presentations will be scheduled in 30-minute blocks, delivered **in-person, on-stage, live**.
+Presentations will be scheduled in 30-minute blocks. As the conference is virtual, all talks will be pre-recorded. We will offer resources and support for making your talk recording. After your talk, there will be a live Q&A session. You can opt out of the Q&A if you do not feel comfortable, but please let us know well in advance.
 
 Speaker benefits & logistics
 ----------------------------
 
-If you are selected to speak at Write the Docs, we will waive your attendance fee.
+If you are selected to speak at Write the Docs, we will waive your attendance fee. As the conference is virtual, there are no travel costs.
 If speaking incurs any costs that are difficult for you to cover, please `let us know <mailto:{{email}}>`_ and we'll do our best to help out.
 
 If you already have a ticket, we will of course refund it - just drop us an email at `{{email}} <mailto:{{email}}>`_.
@@ -157,7 +153,7 @@ If you already have a ticket, we will of course refund it - just drop us an emai
 {% if flagcfp %}
 **You’ll hear from us with our proposal decisions by the end of {{cfp.notification}}.**
 
-**You'll be delivering your talk live, in-person in Melbourne, Australia**.
+All talks will be shown prerecorded, and we'll be asking for a **completed video from you by {{cfp.video_by}}**. We have a host of options to support you in making this happen, including the possibility of a live recording call with our videographer. During the conference we'll ask you to participate in a moderated Q&A video session after your talk recording is shown.
 
 {% endif %}
 
@@ -180,12 +176,9 @@ Submit your proposal
 
 Submit your proposal at {{cfp.url}}. You'll need to sign up for a Pretalx account, unless you already have one from a previous conference.
 
-.. raw:: html
+.. button-link:: {{ cfp.url }}
+   :year: {{ year }}
 
-    <div class="announcement" style="background-color:white;">
-        <div class="uk-container">
-        <a style="border-bottom: none; font-size: .875rem;" class="uk-button uk-button-announcement uk-text-center" href="{{ cfp.url }}">Submit your proposal</a>
-        </div>
-    </div>
+   Submit your proposal
 
 {% endif %}

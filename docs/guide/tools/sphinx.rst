@@ -38,14 +38,13 @@ Installing Sphinx
 
 The first step to getting going is installing `Sphinx`_.
 Sphinx is a Python project, so it can be installed like any other Python library.
-Several Operating Systems (Mac OS X, Major Versions of Linux/BSD) have Python pre-installed,
-so you should just have to run::
+Create a virtual environment for your project and install Sphinx into it::
 
-    sudo pip install Sphinx
+    python -m venv .venv
+    source .venv/bin/activate
+    pip install sphinx
 
-Instructions for installing Python and Sphinx on Windows can be found at the `Sphinx install page`_.
-
-.. note:: Advanced users can install this in a virtualenv if they wish.
+For other platforms and package managers, see the `Sphinx install page`_.
 
 
 Getting started
@@ -146,9 +145,6 @@ The main parts you will need at first are:
 * **Sections**
 * **Directives**
 
-.. note:: You can live-preview RST on the web: http://rst.ninjs.org/
-          . Note that it won't understand Sphinx-specific markup though.
-
 Feel free to play around with RST a bit to make sure that you understand how
 it works.
 
@@ -156,14 +152,13 @@ it works.
     If it is acting weirdly, make sure you indent lines that are part of the
     same content similarly.
 
-.. _Sphinx: http://sphinx-doc.org/
-.. _headings: http://sphinx.pocoo.org/rest.html#sections
-.. _Sphinx Getting Started guide: http://www.sphinx-doc.org/en/master/usage/quickstart.html
-.. _reStructuredText Primer:  http://sphinx.pocoo.org/rest.html#rst-primer
-.. _Sphinx install page: http://sphinx-doc.org/install.html
-.. _table of contents: http://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#table-of-contents
-.. _toctree directives: http://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#table-of-contents
-.. _directives: http://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#
+.. _Sphinx: https://www.sphinx-doc.org/
+.. _Sphinx Getting Started guide: https://www.sphinx-doc.org/en/master/usage/quickstart.html
+.. _reStructuredText Primer: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
+.. _Sphinx install page: https://www.sphinx-doc.org/en/master/usage/installation.html
+.. _table of contents: https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#table-of-contents
+.. _toctree directives: https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#table-of-contents
+.. _directives: https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#
 
 
 Building docs
@@ -181,4 +176,28 @@ At the end, it should say something about the documents being ready in
 You can now open them in your browser by typing::
 
     open _build/html/index.html
+
+Markdown support
+----------------
+
+While Sphinx primarily uses reStructuredText, it can also work with Markdown files using the MyST Parser. MyST (Markedly Structured Text) extends CommonMark Markdown with features needed for technical documentation while maintaining compatibility with Sphinx's ecosystem.
+
+To use Markdown in your Sphinx project, install myst-parser and configure it in ``conf.py``. You can mix ``.rst`` and ``.md`` files in the same project.
+
+* `MyST Parser documentation <https://myst-parser.readthedocs.io/>`_
+
+Key features and extensions
+----------------------------
+
+Sphinx includes powerful features for technical documentation:
+
+**Intersphinx**: Cross-reference documentation from other Sphinx projects without duplicating content. Particularly valuable for projects with multiple interconnected documentation sites.
+
+* `Intersphinx documentation <https://www.sphinx-doc.org/en/master/usage/extensions/intersphinx.html>`_
+
+**Domains**: Built-in support for documenting Python, C, C++, JavaScript, and reStructuredText code with specialized directives and roles. Extensions available for other languages.
+
+**Extensions ecosystem**: Large collection of extensions for specialized needs (autodoc, viewcode, todo, napoleon, and many more).
+
+* `Extensions documentation <https://www.sphinx-doc.org/en/master/usage/extensions/index.html>`_
 

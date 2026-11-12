@@ -87,8 +87,8 @@ How do I take part in the Writing Day?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 -  `Writing Day <https://www.writethedocs.org/conf/portland/2023/writing-day/>`_ takes place in the conference venue on Sunday, the day before the conference starts. You can show up any time between 9am and 5pm. There are lots of ways to contribute, and here are the most common:
--  `Sign up to host a project <https://www.writethedocs.org/conf/portland/2023/writing-day/#your-project-here>`_ before or during Writing Day. Be sure to include how to reach out to you. Here's the `2022 Writing Day Project list that you can use as a guide <http://www.writethedocs.org/conf/portland/2022/writing-day/>`_.
--  Help someone else with their writing project. `Check out the list <https://www.writethedocs.org/conf/portland/2023/writing-day/#your-project-here>`_ and connect with the project organizer, before or during Writing Day.
+-  `Sign up to host a project <https://www.writethedocs.org/conf/portland/2023/writing-day/#project-listing>`_ before or during Writing Day. Be sure to include how to reach out to you. Here's the `2022 Writing Day Project list that you can use as a guide <http://www.writethedocs.org/conf/portland/2022/writing-day/>`_.
+-  Help someone else with their writing project. `Check out the list <https://www.writethedocs.org/conf/portland/2023/writing-day/#project-listing>`_ and connect with the project organizer, before or during Writing Day.
 
 
 How do I take part in the unconference?

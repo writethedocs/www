@@ -35,7 +35,7 @@ For information about readability, see `The Measurement of Readability <https://
 Accelerating Documentation Creation with AI
 -------------------------------------------
 
-Documentarians weighing whether to use AI tools in their workflows have many concerns to address, such as content quality, data security, and ethical implications. In many fields, accuracy and reliability are paramount and can't be sacrified for speed.
+Documentarians weighing whether to use AI tools in their workflows have many concerns to address, such as content quality, data security, and ethical implications. In many fields, accuracy and reliability are paramount and can't be sacrificed for speed.
 
 These topics were relevant to a recent thread in the `#ai channel <https://writethedocs.slack.com/archives/C1NEAD7D4>`__. The question was whether, as some `public commenters have claimed <https://twitter.com/samjulien/status/1765866411404976282>`__, AI can already speed up the creation of product documentation.
 

@@ -4,7 +4,6 @@ import glob
 from docutils import nodes
 from docutils.parsers import rst
 from docutils.statemachine import ViewList
-from sphinx.errors import ExtensionError
 from sphinx.util.nodes import nested_parse_with_titles
 
 from _ext.utils import load_yaml
@@ -41,13 +40,9 @@ def load_meetups_by_region():
         # Conditionally show the meetup meta data block
         meetup['has_meta'] = any([(key in meetup) for key in [
             'organizers',
-            'website',
+            'links',
             'twitter',
         ]])
-        if 'meetup' not in meetup:
-            raise ExtensionError('Meetup missing `meetup` key: file={0}'.format(
-                yaml_file
-            ))
         result[meetup['region']].append(meetup)
     for _, meetups in list(result.items()):
         meetups.sort(key=lambda m: m.get('city', m['country']))

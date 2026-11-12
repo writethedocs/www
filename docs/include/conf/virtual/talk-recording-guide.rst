@@ -8,8 +8,7 @@ All talks are going to be processed and uploaded in advance, so it's especially 
 
 All visual and audio content (including videos, room background, and slides) must adhere to the Write the Docs Code of Conduct.
 
-Video requirements
-------------------
+.. rubric:: Video requirements
 
 - Duration: 30min (+- a few minutes is ok)
 - Single video file without edits
@@ -22,8 +21,7 @@ Video requirements
 - Slides and video resolution must be 16:9 aspect ratio
 - Embedded videos are OK, ideally played from a local drive
 
-Audio requirements
-------------------
+.. rubric:: Audio requirements
 
 -  Clean audio track without background noise
 -  No cutting required if recording a single file
@@ -34,23 +32,20 @@ Audio requirements
 -  Built-in laptop microphones or external microphones both work
 -  Audio can be in a separate file or as a part of the video file, as long as you record them at the same time so that they can be synced later
 
-Recommended software
---------------------
+.. rubric:: Recommended software
 
 These recommendations are for software that we know and trust, but you are welcome to use your own software if it provides both camera and slides recording (i.e. Camtasia, BlueJeans, etc). Email us if you're unsure whether your software qualifies.
 
 If you choose to stream your talk privately with the video producer, you will be sent specific installation instructions for the software that they will be using to record your talk.
 
-(Preferred) Bart at work recording studio
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: (Preferred) Bart at work recording studio
 
 Hosted directly by our `videographer Bart at Work <https://www.bartatwork.com>`__, with an integrated demo video.
 
 * `Recording studio <https://www.bartatwork.com/recorder.html>`__
 
 
-Panopto Record
-~~~~~~~~~~~~~~~
+.. rubric:: Panopto Record
 
 Features:
 
@@ -105,10 +100,9 @@ Features:
 
 #. **Send the WebM file** to your conference organizers.
 
-Other recording tools
-~~~~~~~~~~~~~~~~~~~~~
+.. rubric:: Other recording tools
 
-In addition to Panotpo, you can use the following tools to record your talks:
+In addition to Panopto, you can use the following tools to record your talks:
 
 - `Loom <https://www.loom.com/>`_
 
@@ -122,8 +116,7 @@ In addition to Panotpo, you can use the following tools to record your talks:
   - Record locally to hard drive
   - Fully configurable (settings and picture-in-picture)
 
-Tips & tricks
--------------
+.. rubric:: Tips & tricks
 
 - Since home recordings are more flexible than stage talks, we encourage you to set up your private stage in an area where you feel comfortable.
 
@@ -139,7 +132,7 @@ Tips & tricks
   - If you're using a headset microphone, make sure it's not too close to your mouth so that you won't end up with poofs and crunchies in the audio.
   -  If you're using a built-in laptop microphone, make sure you are not too far from the laptop so that your voice is loud enough.
 
-- Test test test your recording before you dive in! We recommend doing a test recording of 2-5 minutes, stopping the recording, and watching it before you record the entire talk. If your test video is not behaving nicely, feel free to share the file with us and we'll be happy to provide feedback.
+- Test, test, test your recording before you dive in! We recommend doing a test recording of 2-5 minutes, stopping the recording, and watching it before you record the entire talk. If your test video is not behaving nicely, feel free to share the file with us and we'll be happy to provide feedback.
 
 - While you are recording the talk, if you run into a problem with your narration but you don't want to stop recording, we can edit it later! Take a breath, repeat the last 2-3 sentences, and when you send us the video file please write down time markers of places where edits are needed.
 

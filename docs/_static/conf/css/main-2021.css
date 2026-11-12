@@ -614,36 +614,36 @@ footer {
         border: 1px solid #f1f1f1; }
 
 /** AOS animations for pictures **/
-[data-aos="pictrue-03"] {
+[data-aos="picture-03"] {
   -webkit-transform: rotate(0) translate(1px, 1px);
           transform: rotate(0) translate(1px, 1px);
   -webkit-transition-property: -webkit-transform;
   transition-property: -webkit-transform;
   transition-property: transform;
   transition-property: transform, -webkit-transform; }
-  [data-aos="pictrue-03"].aos-animate {
+  [data-aos="picture-03"].aos-animate {
     -webkit-transform: rotate(-21deg) translate(117px, 71px);
     transform: rotate(-21deg) translate(117px, 71px); }
 
-[data-aos="pictrue-02"] {
+[data-aos="picture-02"] {
   -webkit-transform: rotate(0) translate(1px, 1px);
           transform: rotate(0) translate(1px, 1px);
   -webkit-transition-property: -webkit-transform;
   transition-property: -webkit-transform;
   transition-property: transform;
   transition-property: transform, -webkit-transform; }
-  [data-aos="pictrue-02"].aos-animate {
+  [data-aos="picture-02"].aos-animate {
     -webkit-transform: rotate(21deg) translate(162px, 48px);
     transform: rotate(21deg) translate(162px, 48px); }
 
-[data-aos="pictrue-01"] {
+[data-aos="picture-01"] {
   -webkit-transform: rotate(0) translate(1px, 1px);
           transform: rotate(0) translate(1px, 1px);
   -webkit-transition-property: -webkit-transform;
   transition-property: -webkit-transform;
   transition-property: transform;
   transition-property: transform, -webkit-transform; }
-  [data-aos="pictrue-01"].aos-animate {
+  [data-aos="picture-01"].aos-animate {
     -webkit-transform: rotate(-22deg) translate(97px, 32px);
     transform: rotate(-9deg) translate(79px, -170px); }
 
@@ -2697,7 +2697,7 @@ select.uk-form-width-xsmall {
  * 1. Position and resize the form control to always cover its container
  * 2. Required for Firefox for positioning to the left
  * 3. Required for Webkit to make `height` work
- * 4. Hide controle and show cursor
+ * 4. Hide control and show cursor
  * 5. Needed for the cursor
  * 6. Clip height caused by 5. Needed for Webkit only
  */
@@ -3057,7 +3057,7 @@ select.uk-form-width-xsmall {
 /* Group
  ========================================================================== */
 /*
- * 1. Using `flex` instead of `inline-block` to prevent whitespace betweent child elements
+ * 1. Using `flex` instead of `inline-block` to prevent whitespace between child elements
  * 2. Behave like button
  * 3. Create position context
  */
@@ -3203,7 +3203,7 @@ select.uk-form-width-xsmall {
 /* Overlap modifier
  ========================================================================== */
 /*
- * Reserved modifier to make a section overlap another section with an border image
+ * Reserved modifier to make a section overlap another section with a border image
  * Implemented by the theme
  */
 /* ========================================================================
@@ -8461,7 +8461,7 @@ td.uk-text-break {
 [class*='uk-float-'] {
   max-width: 100%; }
 
-/* Overfow
+/* Overflow
  ========================================================================== */
 .uk-overflow-hidden {
   overflow: hidden; }
@@ -9617,7 +9617,7 @@ td.uk-text-break {
  ========================================================================== */
 /*
  * Using multiple selectors to exclude `uk-transition-toggle`
- * Note: Transitions don't work with `uk-postion-center-*` classes because they also use `transform`
+ * Note: Transitions don't work with `uk-position-center-*` classes because they also use `transform`
  *       Just put the transition in an extra `div`
  */
 .uk-transition-fade,

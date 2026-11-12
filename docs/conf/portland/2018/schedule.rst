@@ -58,7 +58,7 @@ Monday, May 7
 Unconference
 ~~~~~~~~~~~~
 
-Have in depth discussions about a large number of topics.
+Have in-depth discussions about a large number of topics.
 This is scheduled on the day of, so feel free to suggest your own session!
 
 * **Where**: Lola's room, Crystal Ballroom

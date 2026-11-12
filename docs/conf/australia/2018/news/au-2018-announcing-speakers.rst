@@ -9,14 +9,14 @@ Announcing speakers and talks
 G'day folks!
 
 We're excited to announce that we've finalised our list of speakers and talks for the event!
-The selection process was tough as we had a strong batch of submissions. Thank you so much to everyone who took the time to send us a pitch – we literally wouldn't have an event without you!
+The selection process was tough as we had a strong batch of submissions. Thank you so much to everyone who took the time to send us a pitch – we literally wouldn't have an event without you!
 
 We also have some info about ticket purchasing (now's the time!), trip planning (Melbourne beckons!), opportunities to volunteer and of course our generous sponsors (want to `join them <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/sponsors/prospectus/>`_?). Read on for more details!
 
 Speakers and talks
 -------------------
 
-This year, we hope to bring a wide range of voices to the Write the Docs stage. Because the role of "documentarian" looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure. We're really excited about the presentations we've got this year – we hope you are too!
+This year, we hope to bring a wide range of voices to the Write the Docs stage. Because the role of "documentarian" looks so different to each of us, we aim for a line-up that spans a good mix of practical, philosophical, and technical topics – with the odd whimsical one thrown in for good measure. We're really excited about the presentations we've got this year – we hope you are too!
 
 .. datatemplate::
    :source: /_data/{{year}}.{{shortcode}}.speakers.yaml

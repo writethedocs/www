@@ -1,0 +1,39 @@
+[project]
+name = "writethedocs-www"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "Sphinx>=8.1,<9",
+    "sphinx-autobuild",
+    "myst-parser",
+    "ablog",
+    "PyYAML",
+    "pytz",
+    "sphinxcontrib-datatemplates",
+    "yamale",
+    "markdown",
+    "ruamel.yaml",
+    "lxml",
+    "sphinxemoji",
+    "sphinx-notfound-page",
+    "sphinxext-opengraph",
+    # C stemmer that snowballstemmer picks up automatically; speeds up building the search index.
+    "pystemmer>=3.0.0",
+    "sphinx-sitemap>=2.9.0",
+]
+
+# Only needed by the helper scripts in docs/_scripts/, not by the site build.
+# Read the Docs runs a plain `uv sync`, which skips this group; install it
+# locally with `uv sync --group scripts`.
+[dependency-groups]
+scripts = [
+    "beautifulsoup4>=4.14.3",
+    "csvkit",
+    "matplotlib",
+    "urllib3",
+    "Werkzeug>=2",
+    "yamllint",
+]
+
+[tool.uv]
+exclude-newer = "2026-04-18T00:00:00Z"

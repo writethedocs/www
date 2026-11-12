@@ -36,10 +36,11 @@ Pre-conference Schedule
 
 **{{cfp.notification}}**
     We'll let you know whether your proposal was accepted, and ask for some supplementary information about you.
-    Make sure to confirm your talk as soon as you get the email, and update your pronouns, photo, name pronunciation, and bio in Pretalx.
+    Make sure to confirm your talk as soon as you get the email, and update your pronouns, photo, name pronunciation, and bio in `Pretalx <https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/>`__.
 
 **{{cfp.speaker_tickets_by}}**
-    Register your free speaker ticket with dietary preferences (we'll drop you a ticket link beforehand).
+    Register your free speaker ticket with dietary preferences (we'll email you a ticket link beforehand).
+    Make sure `Pretalx <https://pretalx.com/wtd-{{shortcode}}-{{year}}/me/>`__ has all of your info, including hoodie size for a free speaker hoodie.
 
 **{{cfp.slides_by}}**
     Upload a copy of your slides so our human captioners can prepare for your talk. We'll email you an upload link beforehand.
@@ -52,7 +53,7 @@ Conference Schedule
 
 Your speaker tech check will be directly before the morning or afternoon session you are speaking at, bring the laptop you'll be using to present.
 
-For example if you speak at 10:00am on Tuesday, your tech will be at 8:00am on Tuesday. Meet in front of the main stage.
+For example if you speak at 10:00am on Tuesday, your tech will be at 7:45am on Tuesday. Meet in front of the main stage.
 
 View the full `attendee schedule <https://www.writethedocs.org/conf/portland/2025/schedule/>`__.
 
@@ -74,7 +75,7 @@ TUESDAY
 
 - 7:45am-8:10am: Morning Speaker tech checks at main stage
 - 8:30-11:25pm: Speaker Talks
-- 11:35-12:25pm: Afternoon Speaker tech checkss at main stage
+- 11:35-12:25pm: Afternoon Speaker tech checks at main stage
 - 2:00-3:50pm: Afternoon Speaker Talks
 
 Speaking Tips

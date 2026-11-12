@@ -6,7 +6,7 @@ Convince Your Organization
 Convince Your Manager
 ---------------------
 
-Do you need help justifying why your employer should send you to Write the Docs? Don't worry – you're not alone.
+Do you need help justifying why your employer should send you to Write the Docs? Don't worry – you're not alone.
 Based on the experiences of some of our previous attendees, we've put together a sample email and list of resources below.
 Feel free to adapt and share with your manager to show them the many benefits of attending!
 

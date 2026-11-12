@@ -27,7 +27,7 @@ Get involved with Writing Day!
 ------------------------------
 
 Ready to get involved?! `Submit your project <https://forms.gle/KPo1ZPuRHqf7UZy37>`_ and we'll 
-add it to our `Writing Day project list <https://www.writethedocs.org/conf/atlantic/{{year}}/writing-day/#your-project-here>`__.
+add it to our `Writing Day project list <https://www.writethedocs.org/conf/atlantic/{{year}}/writing-day/#project-list>`__.
 
 Need help convincing your OSS project community or corporate benefactors on the benefits of attending Writing Day? See `Make a case for Writing Day <https://www.writethedocs.org/conf/atlantic/{{year}}/writing-day-project-faq/#make-a-case-for-writing-day>`_.
 

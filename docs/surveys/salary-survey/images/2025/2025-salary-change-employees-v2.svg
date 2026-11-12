@@ -1,0 +1,183 @@
+<svg viewBox="0 0 660 275" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+
+        #2025-salary-change-employees-v2 .legend-item {
+          cursor: pointer;
+        }
+
+        #2025-salary-change-employees-v2 .legend-item rect.legend-item-container,
+        #2025-salary-change-employees-v2 .legend-item text.legend-label,
+        #2025-salary-change-employees-v2 .slice,
+        #2025-salary-change-employees-v2 .value-labels-inner {
+          transition: opacity 220ms ease-in-out, stroke-width 220ms ease-in-out, fill-opacity 220ms ease-in-out, stroke 220ms ease-in-out, font-size 220ms ease-in-out;
+        }
+
+        #2025-salary-change-employees-v2 .value-labels-inner.hover-only {
+          opacity: 0;
+        }
+      ]]>
+    </style>
+    <filter id="label-bg" x="-15%" y="-40%" width="130%" height="180%">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="3" result="expanded"/>
+      <feGaussianBlur in="expanded" stdDeviation="5" result="blurred"/>
+      <feComponentTransfer in="blurred" result="rounded">
+        <feFuncA type="linear" slope="20" intercept="-5"/>
+      </feComponentTransfer>
+      <feFlood flood-color="white" flood-opacity="0.8" result="color"/>
+      <feComposite in="color" in2="rounded" operator="in" result="bg"/>
+      <feMerge>
+        <feMergeNode in="bg"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g id="2025-salary-change-employees-v2">
+    <g class="chart-header">
+      <g class="chart-title">
+        <text x="20" y="35" class="title-text">Salary change</text>
+        <text x="20" y="55" class="subtitle-text">Employee respondents (709)</text>
+      </g>
+
+      <g class="legend scale-three-trend">
+        <g class="legend-row">
+          <g class="legend-item" data-series="negative" tabindex="0">
+            <rect class="legend-item-container" x="400" y="20" width="72"/>
+            <circle class="negative" cx="413" cy="31"/>
+            <text class="legend-label" x="421" y="35">Decrease</text>
+          </g>
+
+          <g class="legend-item" data-series="neutral" tabindex="0">
+            <rect class="legend-item-container" x="482" y="20" width="79"/>
+            <circle class="neutral" cx="495" cy="31"/>
+            <text class="legend-label" x="503" y="35">No change</text>
+          </g>
+
+          <g class="legend-item" data-series="positive" tabindex="0">
+            <rect class="legend-item-container" x="571" y="20" width="69"/>
+            <circle class="positive" cx="584" cy="31"/>
+            <text class="legend-label" x="592" y="35">Increase</text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <g class="chart-area donut-chart scale-three-trend" transform="translate(0 33) translate(330 222) scale(1.2) translate(-330 -222)">
+      <path class="slice negative" d="M180 222 A150 150 0 0 1 181.24 202.78 L270.49 214.31 A60 60 0 0 0 270 222 Z"/>
+      <path class="slice neutral" d="M181.24 202.78 A150 150 0 0 1 236.70 104.55 L292.68 175.02 A60 60 0 0 0 270.49 214.31 Z"/>
+      <path class="slice positive" d="M236.70 104.55 A150 150 0 0 1 480 222 L390 222 A60 60 0 0 0 292.68 175.02 Z"/>
+
+      <text class="value-labels-inner hover-only" data-series="negative" text-anchor="middle"><tspan x="221" y="211">4.1%</tspan></text>
+      <text class="value-labels-inner" data-series="positive" text-anchor="middle"><tspan x="376" y="127">71.4%</tspan></text>
+      <text class="value-labels-inner" data-series="neutral" text-anchor="middle"><tspan x="239" y="170">24.5%</tspan></text>
+    </g>
+  </g>
+
+  <script type="application/ecmascript"><![CDATA[
+    (function () {
+      var root = document.getElementById('2025-salary-change-employees-v2');
+      if (!root) {
+        return;
+      }
+
+      var legendItems = root.querySelectorAll('.legend-item[data-series]');
+      var slices = root.querySelectorAll('.slice');
+      var labels = root.querySelectorAll('.value-labels-inner[data-series]');
+
+      function clearActiveSeries() {
+        legendItems.forEach(function (item) {
+          item.style.removeProperty('opacity');
+          var container = item.querySelector('rect.legend-item-container');
+          if (container) {
+            container.style.removeProperty('stroke');
+          }
+        });
+
+        slices.forEach(function (slice) {
+          slice.style.removeProperty('opacity');
+          slice.style.removeProperty('fill-opacity');
+          slice.style.removeProperty('stroke-width');
+        });
+
+        labels.forEach(function (label) {
+          var isHoverOnly = label.classList.contains('hover-only');
+          label.style.opacity = isHoverOnly ? '0' : '';
+          label.style.removeProperty('font-size');
+          label.style.removeProperty('font-weight');
+        });
+      }
+
+      function setActiveSeries(series) {
+        legendItems.forEach(function (item) {
+          var isActive = item.getAttribute('data-series') === series;
+          item.style.opacity = isActive ? '1' : '0.4';
+
+          var container = item.querySelector('rect.legend-item-container');
+          if (container) {
+            container.style.stroke = isActive ? 'var(--color-text-dark)' : '';
+          }
+        });
+
+        slices.forEach(function (slice) {
+          var isActive = slice.classList.contains(series);
+          slice.style.opacity = isActive ? '1' : '0.4';
+          slice.style.fillOpacity = isActive ? '1' : '0.4';
+          slice.style.strokeWidth = isActive ? '3' : '';
+        });
+
+        labels.forEach(function (label) {
+          var isActive = label.getAttribute('data-series') === series;
+          var isHoverOnly = label.classList.contains('hover-only');
+          label.style.opacity = isActive ? '1' : (isHoverOnly ? '0' : '0.4');
+          label.style.fillOpacity = isActive ? '1' : '';
+          label.style.fontSize = isActive ? '14px' : '';
+          label.style.fontWeight = isActive ? '700' : '';
+        });
+      }
+
+      legendItems.forEach(function (item) {
+        var series = item.getAttribute('data-series');
+
+        item.addEventListener('mouseenter', function () {
+          setActiveSeries(series);
+        });
+
+        item.addEventListener('mouseleave', clearActiveSeries);
+
+        item.addEventListener('focus', function () {
+          setActiveSeries(series);
+        });
+
+        item.addEventListener('blur', clearActiveSeries);
+      });
+
+      slices.forEach(function (slice) {
+        var series = null;
+
+        legendItems.forEach(function (item) {
+          var itemSeries = item.getAttribute('data-series');
+          if (!series && slice.classList.contains(itemSeries)) {
+            series = itemSeries;
+          }
+        });
+
+        if (!series) {
+          return;
+        }
+
+        slice.addEventListener('mouseenter', function () {
+          setActiveSeries(series);
+        });
+
+        slice.addEventListener('mouseleave', clearActiveSeries);
+      });
+
+      clearActiveSeries();
+    }());
+  ]]></script>
+
+</svg>

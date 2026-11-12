@@ -14,7 +14,7 @@ Free guides:
 
 - [Atlassian Design System - Inclusive Writing](https://atlassian.design/content/inclusive-writing)
 - [Google's Developer Style Guide on Inclusive Documentation](https://developers.google.com/style/inclusive-documentation)
-- [Microsoft Style Guide on Bias-Free Communication](https://docs.microsoft.com/en-us/style-guide/bias-free-communication)
+- [Microsoft Style Guide on Bias-Free Communication](https://learn.microsoft.com/en-us/style-guide/bias-free-communication)
 - [American Psychological Association (APA)'s Guide on Bias-Free Language](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/)
 - [Writing inclusive documentation, from WordPress](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/)
 
@@ -31,7 +31,7 @@ Paid resources:
 
 Relevant talks from Write the Docs:
 
-- [What They Don’t Tell You About Creating New Style Guides](https://www.writethedocs.org/videos/portland/2018/what-they-don-t-tell-you-about-creating-new-style-guides-thursday-bram/)
+- *[What They Don’t Tell You About Creating New Style Guides](https://www.youtube.com/watch?v=O1ZnCA-hZxQ)*
 
 ## Providing inclusive example names
 

@@ -11,7 +11,10 @@ The {{city}} conference is just over six weeks away, and we're busy getting read
 
 You've already seen our list of awesome speakers; now we're announcing our :doc:`full conference schedule </conf/portland/{{year}}/schedule/>` so you know when they will be presenting!
 
-{{ tickets.button }}
+.. button-link:: https://ti.to/writethedocs/write-the-docs-portland-2025/
+   :year: {{ year }}
+
+   Get your ticket
 
 Speaker Schedule
 ----------------
@@ -63,7 +66,7 @@ The campaign will run in batches until May 31st. Shipping is available from the 
 Website Resources
 -----------------
 
-View our `Attendee Guide <https://www.writethedocs.org/conf/{{city}}/{{year}}/attendee-guide/>`_ for a comprehensive overview of how to participate in the conference.
+View our `Attendee Guide <https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/attendee-guide/>`_ for a comprehensive overview of how to participate in the conference.
 
 Thanks To Our Sponsors
 ----------------------

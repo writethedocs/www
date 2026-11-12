@@ -6,7 +6,7 @@
 Write the Docs Newsletter – February 2018
 #########################################
 
-Hi everybody! Kelly O. here – back in the saddle after getting through the whole *OMG, it's a different year now* transition.
+Hi everybody! Kelly O. here – back in the saddle after getting through the whole *OMG, it's a different year now* transition.
 I'm excited to report that we have a TON of stuff happening in the community.
 I guess we're starting this new year off strong!
 
@@ -23,9 +23,9 @@ you might be interested in our new `Convince Your Manager <https://www.writethed
 We've knocked together an example email and some resources that you can use to make your case.
 
 And finally, in non-conference news, we're thrilled to announce that the **Write the Docs Job Board** will be launching next week.
-One of the benefits of the WTD community has always been its ability to connect documentarians with employers
+One of the benefits of the WTD community has always been its ability to connect documentarians with employers
 who understand the value of good docs. The job board will be a destination for making those connections.
-Keep an eye on Slack, Twitter, the forum, your email, etc. – we'll let you know as soon as it goes live.
+Keep an eye on Slack, Twitter, the forum, your email, etc. – we'll let you know as soon as it goes live.
 
 Whew! Told you there's a lot going on! But now, let's have a look at a few of the conversations that have been happening
 in `Slackland <https://www.writethedocs.org/slack/>`_ over the new year.
@@ -77,7 +77,7 @@ To help people find more opportunities for publishing, Chris Ward (@chrisward on
 that are good to write for.
 
 Not only is this a good resource for any freelance folks out there, but it's also a great opportunity to help build it up as a resource.
-`You can find the list on Github here <https://github.com/ChrisChinchilla/awesome-people-to-write-for>`_.
+`You can find the list on GitHub here <https://github.com/ChrisChinchilla/awesome-people-to-write-for>`_.
 Have a look, give it a fork, and add any publications that you've had good experiences with as a contributor.
 
 *Have a question or want to chat about the list?

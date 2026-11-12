@@ -1,0 +1,19 @@
+{#-
+  Cards for the latest newsletter issues, on the newsletter and blog pages.
+  newsletter_issues() in _ext/community.py finds them and their topics.
+-#}
+<ul class="newsletter-issues">
+  {%- for issue in newsletter_issues() %}
+  <li>
+    <a href="{{ pathto(issue.post.docname) }}">
+      <time datetime="{{ issue.post.date.strftime('%Y-%m-%d') }}">{{ issue.post.date.strftime('%B %Y') }}</time>
+      <ul>
+        {%- for topic in issue.topics[:4] %}
+        <li>{{ topic }}</li>
+        {%- endfor %}
+      </ul>
+      <span class="newsletter-issues__cta">Read the issue</span>
+    </a>
+  </li>
+  {%- endfor %}
+</ul>

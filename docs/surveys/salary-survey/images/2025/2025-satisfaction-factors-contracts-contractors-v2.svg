@@ -1,0 +1,328 @@
+<svg viewBox="0 0 660 523" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+      ]]>
+    </style>
+    <filter id="label-bg" x="-15%" y="-40%" width="130%" height="180%">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="3" result="expanded"/>
+      <feGaussianBlur in="expanded" stdDeviation="5" result="blurred"/>
+      <feComponentTransfer in="blurred" result="rounded">
+        <feFuncA type="linear" slope="20" intercept="-5"/>
+      </feComponentTransfer>
+      <feFlood flood-color="white" flood-opacity="0.8" result="color"/>
+      <feComposite in="color" in2="rounded" operator="in" result="bg"/>
+      <feMerge>
+        <feMergeNode in="bg"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g id="2025-satisfaction-factors-contracts-contractors-v2">
+    <g class="chart-header">
+      <g class="chart-title">
+        <text x="20" y="35" class="title-text">Satisfaction factors: contracts and projects</text>
+        <text x="20" y="55" class="subtitle-text">Contractor respondents (80)</text>
+      </g>
+
+      <g class="legend scale-statement-bars">
+        <g class="legend-row">
+          <g class="legend-item">
+            <rect class="legend-item-container" x="426" y="20" width="70"/>
+            <circle class="disagree" cx="439" cy="31"/>
+            <text class="legend-label" x="447" y="35">Disagree</text>
+          </g>
+          <g class="legend-item">
+            <rect class="legend-item-container" x="506" y="20" width="65"/>
+            <circle class="neutral" cx="519" cy="31"/>
+            <text class="legend-label" x="527" y="35">Neutral</text>
+          </g>
+          <g class="legend-item">
+            <rect class="legend-item-container" x="581" y="20" width="59"/>
+            <circle class="agree" cx="594" cy="31"/>
+            <text class="legend-label" x="602" y="35">Agree</text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <g class="chart-area bar-chart-horizontal scale-statement-bars" transform="translate(0 33)">
+<g class="row-0">
+        <text font-size="12" fill="#252521"><tspan x="173" y="107">My hours are reasonable</tspan></text>
+        <rect x="314" y="82" width="4" height="38" rx="5" class="disagree"/>
+        <rect x="320" y="82" width="20" height="38" rx="5" class="neutral"/>
+        <rect x="342" y="82" width="298" height="38" rx="5" class="agree"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="473" y="105">92.5%</tspan></text>
+      </g>
+
+      <g class="row-1">
+        <text font-size="12" fill="#252521"><tspan x="141" y="157">I have flexibility in my hours</tspan></text>
+        <rect x="298" y="132" width="20" height="38" rx="5" class="disagree"/>
+        <rect x="320" y="132" width="20" height="38" rx="5" class="neutral"/>
+        <rect x="342" y="132" width="282" height="38" rx="5" class="agree"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="465" y="155">87.5%</tspan></text>
+      </g>
+
+      <g class="row-2">
+        <text font-size="12" fill="#252521"><tspan x="110" y="207">My responsibilities are reasonable</tspan></text>
+        <rect x="300" y="182" width="16" height="38" rx="5" class="disagree"/>
+        <rect x="318" y="182" width="24" height="38" rx="5" class="neutral"/>
+        <rect x="344" y="182" width="282" height="38" rx="5" class="agree"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="467" y="205">87.5%</tspan></text>
+      </g>
+
+      <g class="row-3">
+        <text font-size="12" fill="#252521"><tspan x="133" y="257">My workload is manageable</tspan></text>
+        <rect x="288" y="232" width="20" height="38" rx="5" class="disagree"/>
+        <rect x="310" y="232" width="40" height="38" rx="5" class="neutral"/>
+        <rect x="352" y="232" width="261" height="38" rx="5" class="agree"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="315" y="255">12.5%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="464" y="255">81.2%</tspan></text>
+      </g>
+
+      <g class="row-4">
+        <text font-size="12" fill="#252521"><tspan x="15" y="300">I have opportunities for</tspan><tspan x="19" y="313">career advancement</tspan></text>
+        <rect x="148" y="282" width="130" height="38" rx="5" class="disagree"/>
+        <rect x="280" y="282" width="101" height="38" rx="5" class="neutral"/>
+        <rect x="383" y="282" width="91" height="38" rx="5" class="agree"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="195" y="305">40.3%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="312" y="305">31.3%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="410" y="305">28.4%</tspan></text>
+      </g>
+
+      <g class="row-5">
+        <text font-size="12" fill="#252521"><tspan x="70" y="350">I have opportunities for</tspan><tspan x="63" y="363">professional development</tspan></text>
+        <rect x="205" y="332" width="93" height="38" rx="5" class="disagree"/>
+        <rect x="300" y="332" width="61" height="38" rx="5" class="neutral"/>
+        <rect x="363" y="332" width="168" height="38" rx="5" class="agree"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="233" y="355">29.0%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="315" y="355">18.8%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="429" y="355">52.2%</tspan></text>
+      </g>
+
+      <g class="row-6">
+        <text font-size="12" fill="#252521"><tspan x="131" y="400">My work is sufficiently</tspan><tspan x="121" y="413">interesting / challenging</tspan></text>
+        <rect x="256" y="382" width="52" height="38" rx="5" class="disagree"/>
+        <rect x="310" y="382" width="40" height="38" rx="5" class="neutral"/>
+        <rect x="352" y="382" width="229" height="38" rx="5" class="agree"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="267" y="405">16.2%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="315" y="405">12.5%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="448" y="405">71.2%</tspan></text>
+      </g>
+
+      <g class="row-7">
+        <text font-size="12" fill="#252521"><tspan x="55" y="450">I&#x2019;m satisfied with the</tspan><tspan x="47" y="463">systems and toolsets I use</tspan></text>
+        <rect x="197" y="432" width="89" height="38" rx="5" class="disagree"/>
+        <rect x="288" y="432" width="84" height="38" rx="5" class="neutral"/>
+        <rect x="374" y="432" width="149" height="38" rx="5" class="agree"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="226" y="455">27.5%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="312" y="455">26.2%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="430" y="455">46.2%</tspan></text>
+      </g>
+    </g>
+  </g>
+
+  <script type="application/ecmascript"><![CDATA[
+    (function () {
+      var root = document.querySelector('svg > g[id], g[id]');
+      if (!root) {
+        return;
+      }
+
+      var ignoredClasses = {
+        'legend-item-container': true,
+        'legend-label': true,
+        'legend-item': true,
+        'legend-row': true,
+        'slice': true,
+        'track': true,
+        'tracks': true,
+        'bars': true,
+        'data-series': true,
+        'series-lines': true,
+        'chart-area': true,
+        'chart-header': true,
+        'chart-title': true,
+        'axis-labels': true,
+        'gridlines': true,
+        'value-labels-inner': true,
+        'value-labels-outer': true,
+        'chart-color-1': true,
+        'chart-color-2': true,
+        'chart-color-3': true,
+        'chart-color-4': true,
+        'chart-color-5': true,
+        'chart-color-6': true
+      };
+
+      function firstSeriesClass(element) {
+        if (!element || !element.classList) {
+          return null;
+        }
+
+        for (var i = 0; i < element.classList.length; i += 1) {
+          var className = element.classList[i];
+          if (!ignoredClasses[className]) {
+            return className;
+          }
+        }
+
+        return null;
+      }
+
+      function legendSeries(item) {
+        var swatch = item.querySelector('circle[class], rect[class]:not(.legend-item-container), line[class], polyline[class], path[class], ellipse[class], polygon[class]');
+        return firstSeriesClass(swatch);
+      }
+
+      var legendItems = Array.prototype.slice.call(root.querySelectorAll('.legend-item')).filter(function (item) {
+        return !!legendSeries(item);
+      });
+
+      if (legendItems.length === 0) {
+        return;
+      }
+
+      var seriesNames = [];
+      legendItems.forEach(function (item) {
+        var series = legendSeries(item);
+        item.setAttribute('data-series', series);
+        if (!item.hasAttribute('tabindex')) {
+          item.setAttribute('tabindex', '0');
+        }
+        item.style.cursor = 'pointer';
+
+        var container = item.querySelector('rect.legend-item-container');
+        if (container) {
+          container.style.transition = 'opacity 220ms ease-in-out, stroke 220ms ease-in-out, stroke-width 220ms ease-in-out';
+        }
+
+        var label = item.querySelector('text.legend-label');
+        if (label) {
+          label.style.transition = 'opacity 220ms ease-in-out';
+        }
+
+        if (seriesNames.indexOf(series) === -1) {
+          seriesNames.push(series);
+        }
+      });
+
+      var elementsBySeries = {};
+      seriesNames.forEach(function (series) {
+        elementsBySeries[series] = [];
+      });
+
+      Array.prototype.forEach.call(root.querySelectorAll('*'), function (element) {
+        if (element.closest('.legend')) {
+          return;
+        }
+
+        var series = null;
+        if (element.hasAttribute && element.hasAttribute('data-series')) {
+          var dataSeries = element.getAttribute('data-series');
+          if (seriesNames.indexOf(dataSeries) !== -1) {
+            series = dataSeries;
+          }
+        }
+
+        if (!series) {
+          series = firstSeriesClass(element);
+        }
+
+        if (!series) {
+          var ancestor = element.parentElement;
+          while (ancestor && ancestor !== root && !series) {
+            if (ancestor.hasAttribute && ancestor.hasAttribute('data-series')) {
+              var ancestorDataSeries = ancestor.getAttribute('data-series');
+              if (seriesNames.indexOf(ancestorDataSeries) !== -1) {
+                series = ancestorDataSeries;
+                break;
+              }
+            }
+
+            var ancestorSeries = firstSeriesClass(ancestor);
+            if (ancestorSeries && seriesNames.indexOf(ancestorSeries) !== -1) {
+              series = ancestorSeries;
+              break;
+            }
+
+            ancestor = ancestor.parentElement;
+          }
+        }
+
+        if (!series || seriesNames.indexOf(series) === -1) {
+          return;
+        }
+
+        elementsBySeries[series].push(element);
+        element.style.transition = 'opacity 220ms ease-in-out, fill-opacity 220ms ease-in-out, stroke-opacity 220ms ease-in-out';
+      });
+
+      function clearActiveSeries() {
+        legendItems.forEach(function (item) {
+          item.style.removeProperty('opacity');
+          var container = item.querySelector('rect.legend-item-container');
+          if (container) {
+            container.style.removeProperty('stroke');
+            container.style.removeProperty('stroke-width');
+          }
+        });
+
+        seriesNames.forEach(function (series) {
+          elementsBySeries[series].forEach(function (element) {
+            element.style.removeProperty('opacity');
+          });
+        });
+      }
+
+      function setActiveSeries(series) {
+        var isSingleSeries = seriesNames.length === 1;
+
+        legendItems.forEach(function (item) {
+          var isActive = item.getAttribute('data-series') === series;
+          item.style.opacity = isActive ? '1' : '0.4';
+
+          var container = item.querySelector('rect.legend-item-container');
+          if (container) {
+            container.style.stroke = isActive ? 'var(--color-text-dark)' : '';
+            container.style.strokeWidth = isActive ? '1.5' : '';
+          }
+        });
+
+        seriesNames.forEach(function (name) {
+          var isActive = name === series;
+          elementsBySeries[name].forEach(function (element) {
+            if (isSingleSeries) {
+              element.style.fillOpacity = isActive ? '1' : '0.25';
+              element.style.strokeOpacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('opacity');
+            } else {
+              element.style.opacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('fill-opacity');
+              element.style.removeProperty('stroke-opacity');
+            }
+          });
+        });
+      }
+
+      legendItems.forEach(function (item) {
+        var series = item.getAttribute('data-series');
+
+        item.addEventListener('mouseenter', function () {
+          setActiveSeries(series);
+        });
+
+        item.addEventListener('mouseleave', clearActiveSeries);
+
+        item.addEventListener('focus', function () {
+          setActiveSeries(series);
+        });
+
+        item.addEventListener('blur', clearActiveSeries);
+      });
+    }());
+  ]]></script>
+</svg>

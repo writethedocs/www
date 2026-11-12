@@ -1,0 +1,15 @@
+# Write the Docs CODEOWNERS
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Portland conference
+docs/conf/portland/news/ @ericholscher @janine-c
+docs/conf/portland/ @ericholscher 
+
+# Berlin conference
+docs/conf/berlin/ @mxsasha @plaindocs
+
+# Australia conference
+docs/conf/australia/ @swapnilogale @ericholscher
+
+# Newsletter
+docs/blog/newsletter-* @CollierCZ 

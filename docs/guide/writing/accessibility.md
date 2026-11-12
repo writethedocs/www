@@ -10,18 +10,18 @@ And for general writing style, see [style guides](https://www.writethedocs.org/g
 
 ## Good introductions to accessibility
 
-- [MDN Web Docs introduction to accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
+- [MDN Web Docs introduction to accessibility](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Accessibility/What_is_accessibility)
 - [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone)
 - [Collection of resources for doc accessibility](http://ideaspring.ca//resources#h.p_X6ux0ojiyLwG)
-- [Introductory edX class from W3C, free](https://www.w3.org/WAI/fundamentals/foundations-course/)
+- [Introductory edX class from W3C, free](https://www.w3.org/WAI/courses/foundations-course/)
 
 ## More resources
 
 - [Web accessibility training and courses from Deque](https://dequeuniversity.com/)
 - [Web accessibility class from Google, free on Udacity](https://www.udacity.com/course/web-accessibility--ud891)
-- [Game UX guidelines from the BBC](https://www.bbc.co.uk/gel/guidelines/how-to-design-accessible-games)
+- [Game UX guidelines from the BBC](https://www.bbc.co.uk/gel/features/how-to-design-accessible-games)
 - [Mobile UX guidelines from the BBC](https://www.bbc.co.uk/accessibility/forproducts/guides/mobile/)
-- [Pan-European project on providing education on accessible design](https://moocap.gpii.eu/?page_id=839)
+- [Pan-European project on providing education on accessible design](https://moocap.gpii.de/?page_id=839)
 - Web-a11y Slack (you'll need to google and find someone to DM, or please submit a PR to the WTD website repo if there's a better way to join)
 
 ## Exhaustive resources for web accessibility
@@ -33,10 +33,10 @@ And for general writing style, see [style guides](https://www.writethedocs.org/g
 - [MailChimp's writing style guide](https://styleguide.mailchimp.com/writing-for-accessibility/)
 - [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
 - [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) by bitsofcode
-- [Microsoft Style Guide Accessibility Terms](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)
+- [Microsoft Style Guide Accessibility Terms](https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms)
 
 ## Relevant talks from Write the Docs:
 
-- [Moving beyond empathy: a11y in documentation](https://www.writethedocs.org/videos/portland/2020/moving-beyond-empathy-a11y-in-documentation-alexandra-white/)
-- [A11y-Friendly Documentation](https://www.writethedocs.org/videos/prague/2018/a11y-friendly-documentation-carolyn-stransky/) at Write the Docs Prague 2018
-- [Inclusive Tech Docs - TechComm Meets Accessibility](http://www.writethedocs.org/videos/eu/2015/inclusive-tech-docs-techcomm-meets-accessibility-rmatic/) at Write the Docs EU 2015
+- *[Moving beyond empathy: a11y in documentation](https://www.youtube.com/watch?v=PS8ywGg0x-U)*
+- *[A11y-Friendly Documentation](https://www.youtube.com/watch?v=SLUJG625Si0)* from Write the Docs Prague 2018
+- *[Inclusive Tech Docs - TechComm Meets Accessibility](https://www.youtube.com/watch?v=RcjpBNIKlf8)* from Write the Docs EU 2015

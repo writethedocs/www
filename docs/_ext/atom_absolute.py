@@ -1,9 +1,7 @@
-from __future__ import unicode_literals
-
 import os.path
+from urllib.parse import urljoin
 
 from lxml import etree, html
-from six.moves.urllib.parse import urljoin
 from sphinx.util import logging
 
 
@@ -29,6 +27,12 @@ TAGS = [
     'atlantic-2024',
     'australia-2024',
     'portland-2025',
+    'berlin-2025',
+    'australia-2025',
+    'portland-2026',
+    'berlin-2026',
+    'australia-2026',
+    'portland-2027',
 ]
 
 

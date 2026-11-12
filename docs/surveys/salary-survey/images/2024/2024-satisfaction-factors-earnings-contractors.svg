@@ -1,0 +1,61 @@
+<svg viewBox="0 55 660 208" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2024-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+	<g id="2024-satisfaction-factors-earnings-contractors">
+
+		<g class="title">
+			<text font-size="14"><tspan x="40" y="33">Satisfaction factors: earnings</tspan></text>
+			<text font-size="12" class="subtitle"><tspan x="40" y="49">Contractors</tspan></text>
+		</g>
+
+    <g class="bar-chart-horizontal">
+
+      <g class="legend">
+        <path d="M228 230C228 231.591 228.632 233.117 229.757 234.243C230.883 235.368 232.409 236 234 236C235.591 236 237.117 235.368 238.243 234.243C239.368 233.117 240 231.591 240 230C240 228.409 239.368 226.883 238.243 225.757C237.117 224.632 235.591 224 234 224C232.409 224 230.883 224.632 229.757 225.757C228.632 226.883 228 228.409 228 230Z" fill="#E4774E"/>
+        <path d="M312.764 230C312.764 231.591 313.396 233.117 314.522 234.243C315.647 235.368 317.173 236 318.764 236C320.355 236 321.882 235.368 323.007 234.243C324.132 233.117 324.764 231.591 324.764 230C324.764 228.409 324.132 226.883 323.007 225.757C321.882 224.632 320.355 224 318.764 224C317.173 224 315.647 224.632 314.522 225.757C313.396 226.883 312.764 228.409 312.764 230Z" fill="#E9C168"/>
+        <path d="M390.413 230C390.413 231.591 391.045 233.117 392.17 234.243C393.295 235.368 394.821 236 396.413 236C398.004 236 399.53 235.368 400.655 234.243C401.78 233.117 402.413 231.591 402.413 230C402.413 228.409 401.78 226.883 400.655 225.757C399.53 224.632 398.004 224 396.413 224C394.821 224 393.295 224.632 392.17 225.757C391.045 226.883 390.413 228.409 390.413 230Z" fill="#82A555"/>
+        <text font-size="10"><tspan x="244" y="233">Negative</tspan></text>
+        <text font-size="10"><tspan x="328" y="233">Neutral</tspan></text>
+        <text font-size="10"><tspan x="406" y="233">Agree</tspan></text>
+      </g>
+      <g class="inflation">
+        <text font-size="10"><tspan x="64" y="98">My rates keep pace with</tspan><tspan x="71" y="109">inflation/cost-of-living</tspan></text>
+        <path d="M277 88H183C180.239 88 178 90.2386 178 93V110C178 112.761 180.239 115 183 115H277C279.761 115 282 112.761 282 110V93C282 90.2386 279.761 88 277 88Z" fill="#E4774E"/>
+        <path d="M368 88H289C286.239 88 284 90.2386 284 93V110C284 112.761 286.239 115 289 115H368C370.761 115 373 112.761 373 110V93C373 90.2386 370.761 88 368 88Z" fill="#E9C168"/>
+        <path d="M493 88H380C377.239 88 375 90.2386 375 93V110C375 112.761 377.239 115 380 115H493C495.761 115 498 112.761 498 110V93C498 90.2386 495.761 88 493 88Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="219" y="106">32%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="316" y="106">28%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="424" y="106">38%</tspan></text>
+      </g>
+      <g class="expectations">
+        <text font-size="10"><tspan x="152" y="137">My rates match the</tspan><tspan x="122" y="148">expectations of my clients</tspan></text>
+        <path d="M277 127H249C246.239 127 244 129.239 244 132V149C244 151.761 246.239 154 249 154H277C279.761 154 282 151.761 282 149V132C282 129.239 279.761 127 277 127Z" fill="#E4774E"/>
+        <path d="M364 127H289C286.239 127 284 129.239 284 132V149C284 151.761 286.239 154 289 154H364C366.761 154 369 151.761 369 149V132C369 129.239 366.761 127 364 127Z" fill="#E9C168"/>
+        <path d="M541 127H376C373.239 127 371 129.239 371 132V149C371 151.761 373.239 154 376 154H541C543.761 154 546 151.761 546 149V132C546 129.239 543.761 127 541 127Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="252" y="145">12%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="314" y="145">27%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="446" y="145">54%</tspan></text>
+      </g>
+      <g class="overhead">
+        <text font-size="10"><tspan x="106" y="176">I am comfortable managing</tspan><tspan x="117" y="187">the contracting overhead</tspan></text>
+        <path d="M290 166H241C238.239 166 236 168.239 236 171V188C236 190.761 238.239 193 241 193H290C292.761 193 295 190.761 295 188V171C295 168.239 292.761 166 290 166Z" fill="#E4774E"/>
+        <path d="M356 166H302C299.239 166 297 168.239 297 171V188C297 190.761 299.239 193 302 193H356C358.761 193 361 190.761 361 188V171C361 168.239 358.761 166 356 166Z" fill="#E9C168"/>
+        <path d="M523 166H368C365.239 166 363 168.239 363 171V188C363 190.761 365.239 193 368 193H523C525.761 193 528 190.761 528 188V171C528 168.239 525.761 166 523 166Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="254" y="184">18%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="316" y="184">20%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="433" y="184">51%</tspan></text>
+      </g>
+			
+		</g>
+
+	</g>
+
+</svg>

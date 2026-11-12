@@ -1,0 +1,53 @@
+<svg viewBox="0 0 660 355" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+      ]]>
+    </style>
+
+  </defs>
+
+  <g id="unique-chart-identifier"><!-- keep 20px padding around the outer container -->
+
+    <g class="chart-header">
+
+      <g class="chart-title">
+        <text x="20" y="35" class="title-text">Chart Title</text>
+        <text x="20" y="55" class="subtitle-text">Chart Subtitle</text>
+      </g>
+
+      <g class="legend"><!-- right-align rows inside a 400px block; use 10px gaps and balance wrapped rows manually -->
+        <g class="legend-row">
+          <g class="legend-item">
+            <rect class="legend-item-container" x="330" y="20" width="79"/>
+            <circle class="chart-color-1" cx="343" cy="31"/>
+            <text class="legend-label" x="351" y="35">Employees</text>
+          </g>
+
+          <g class="legend-item">
+            <rect class="legend-item-container" x="419" y="20" width="83"/>
+            <circle class="chart-color-2" cx="432" cy="31" />
+            <text class="legend-label" x="440" y="35">Contractors</text>
+          </g>
+
+          <g class="legend-item">
+            <rect class="legend-item-container" x="512" y="20" width="128"/>
+            <circle class="chart-color-3" cx="525" cy="31" />
+            <text class="legend-label" x="533" y="35">Employee-contractors</text>
+          </g>
+        </g>
+      </g>
+
+    </g>
+
+    <g class="chart-area"><!-- add class for type of chart: .donut-chart, .half-donut-chart, .bar-chart-horizontal, .bar-chart-vertical -->
+      <rect x="20" y="115" width="620" height="220"/><!-- keep a 60px gap below the header before the chart body begins; height can grow as needed -->
+      <!-- Chart content goes here -->
+    </g>
+
+  </g>
+
+</svg>

@@ -71,6 +71,7 @@ yaml_files = [f for f in os.listdir(yaml_directory) if f.endswith(".yaml")]
 
 # Get the meetup locations and urls for each meetup YAML file
 meetup_links = []
+non_meetup_websites = []
 for yaml_file in yaml_files:
     with open(os.path.join(yaml_directory, yaml_file), "r") as f:
         data = yaml.safe_load(f)
@@ -85,12 +86,12 @@ for yaml_file in yaml_files:
         # If no city, just use the country
         except KeyError:
             location = f"{data['country']}"
-        url_to_check = ''
-        if data['website'].startswith("https://www.meetup.com"):
-            url_to_check = data['website']
-        else:
+
+        if "meetup" in data:
             url_to_check = f"https://www.meetup.com/{data['meetup']}/events"
-        meetup_links.append({"location": location, "url": url_to_check})
+            meetup_links.append({"location": location, "url": url_to_check})
+        else:
+            non_meetup_websites.append({"location": location, "url": data["website"]})
 
 # Run the URL checks asynchronously
 results = asyncio.run(check_urls(meetup_links))
@@ -119,6 +120,10 @@ for result in results:
             # Otherwise, try other format
             else:
                 event_date = datetime.strptime(event['date'].rsplit(' ',1)[0], '%a, %b %d, %Y, %I:%M %p')
+        # Don't include past events if they slipped in somehow
+        if (event_date < current_datetime):
+            continue
+        # Only include events in the near enough future
         if (event_date - current_datetime).days <= days_within:
             event['date'] = event_date
             upcoming_events.append(event)
@@ -129,6 +134,11 @@ sorted_upcoming_events = sorted(upcoming_events, key=lambda upcoming_event: upco
 # Turn into newsletter format
 upcoming_event_links = []
 for upcoming_event in sorted_upcoming_events:
-    upcoming_event_links.append(f"- {upcoming_event['date'].strftime('%-d %b, %H:%M')} {upcoming_event['date'].astimezone(tz=tz.gettz(upcoming_event['timezone'])).tzname()} ({upcoming_event['location']}): `{upcoming_event['title']} <{upcoming_event['url']}>`__")
+    upcoming_event_links.append(f"- {upcoming_event['date'].strftime('%-d %b, %H:%M')} {upcoming_event['date'].astimezone(tz=tz.gettz(upcoming_event['timezone'])).tzname()} ({upcoming_event['location']}): [{upcoming_event['title']}]({upcoming_event['url']})")
 
 print('\n'.join(upcoming_event_links))
+
+if len(non_meetup_websites) > 0:
+    print("""\nAlso check the following websites:""")
+    for website in non_meetup_websites:
+        print(f"""\n{website["location"]}: {website["url"]}""")

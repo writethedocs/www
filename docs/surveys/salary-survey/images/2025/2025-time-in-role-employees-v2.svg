@@ -1,0 +1,263 @@
+<svg viewBox="0 0 660 355" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+        #2025-time-in-role-employees-v2 .bar-value-label,
+        #2025-time-in-role-employees-v2 .bar-value-label * {
+          font-size: 10px;
+          font-weight: 600;
+          pointer-events: none;
+        }
+        #2025-time-in-role-employees-v2 .bar-value-label {
+          transition: opacity 220ms ease-in-out, font-size 220ms ease-in-out, fill-opacity 220ms ease-in-out;
+        }
+        #2025-time-in-role-employees-v2 .bar-value-label.hover-only {
+          opacity: 0;
+        }
+        #2025-time-in-role-employees-v2 .bar-value-label.outside,
+        #2025-time-in-role-employees-v2 .bar-value-label.outside * {
+          fill: var(--color-text-dark);
+          font-size: 10px;
+          font-weight: 600;
+        }
+      ]]>
+    </style>
+    <filter id="label-bg" x="-15%" y="-40%" width="130%" height="180%">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="3" result="expanded"/>
+      <feGaussianBlur in="expanded" stdDeviation="5" result="blurred"/>
+      <feComponentTransfer in="blurred" result="rounded">
+        <feFuncA type="linear" slope="20" intercept="-5"/>
+      </feComponentTransfer>
+      <feFlood flood-color="white" flood-opacity="0.8" result="color"/>
+      <feComposite in="color" in2="rounded" operator="in" result="bg"/>
+      <feMerge>
+        <feMergeNode in="bg"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g id="2025-time-in-role-employees-v2" data-color-count="1">
+    <g class="chart-header">
+      <g class="chart-title">
+        <text x="20" y="35" class="title-text">Time in current role</text>
+        <text x="20" y="55" class="subtitle-text">Employee respondents (709)</text>
+      </g>
+
+      <g class="legend scale-single-series">
+        <g class="legend-row">
+          <g class="legend-item">
+            <rect class="legend-item-container" x="561" y="20" width="79"/>
+            <circle class="series-a chart-color-1" cx="574" cy="31"/>
+            <text class="legend-label" x="582" y="35">Employees</text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <g class="chart-area bar-chart-vertical scale-single-series">
+      <g class="y-axis">
+        <g class="gridlines">
+          <path d="M20 314.9H640"/>
+          <path d="M20 270.5H640"/>
+          <path d="M20 226.1H640"/>
+          <path d="M20 180.8H640"/>
+          <path d="M20 136.4H640"/>
+          <path d="M20 91.1H640"/>
+        </g>
+
+        <g class="axis-labels">
+          <text font-size="10"><tspan x="25" y="317.9">0%</tspan></text>
+          <text font-size="10"><tspan x="20" y="273.5">10%</tspan></text>
+          <text font-size="10"><tspan x="20" y="229.1">20%</tspan></text>
+          <text font-size="10"><tspan x="20" y="183.8">30%</tspan></text>
+          <text font-size="10"><tspan x="20" y="139.4">40%</tspan></text>
+          <text font-size="10"><tspan x="20" y="94.1">50%</tspan></text>
+        </g>
+      </g>
+
+      <g class="data-series">
+        <g class="a">
+          <g class="axis-labels">
+            <text font-size="10" data-bar-key="time-0-1"><tspan x="89.9" y="332.8">0-1 year</tspan></text>
+            <text font-size="10" data-bar-key="time-1-2"><tspan x="202.9" y="332.8">1-2 years</tspan></text>
+            <text font-size="10" data-bar-key="time-2-5"><tspan x="315.9" y="332.8">2-5 years</tspan></text>
+            <text font-size="10" data-bar-key="time-5-10"><tspan x="428.9" y="332.8">5-10 years</tspan></text>
+            <text font-size="10" data-bar-key="time-10-plus"><tspan x="544.9" y="332.8">10+ years</tspan></text>
+          </g>
+
+          <g class="bars chart-color-1 series-a">
+            <rect x="62.0" y="223.0" width="105.0" height="92.5" rx="2" data-bar-key="time-0-1"/>
+            <rect x="175.0" y="245.4" width="105.0" height="70.1" rx="2" data-bar-key="time-1-2"/>
+            <rect x="288.0" y="136.3" width="105.0" height="179.2" rx="2" data-bar-key="time-2-5"/>
+            <rect x="401.0" y="237.6" width="105.0" height="77.9" rx="2" data-bar-key="time-5-10"/>
+            <rect x="514.0" y="286.9" width="105.0" height="28.6" rx="2" data-bar-key="time-10-plus"/>
+          </g>
+
+          <g class="value-labels">
+            <text class="value-labels-inner bar-value-label inside" text-anchor="middle" data-bar-key="time-0-1" filter="url(#label-bg)"><tspan x="115" y="248">20.6%</tspan></text>
+            <text class="value-labels-inner bar-value-label inside" text-anchor="middle" data-bar-key="time-1-2" filter="url(#label-bg)"><tspan x="228" y="270">15.7%</tspan></text>
+            <text class="value-labels-inner bar-value-label inside" text-anchor="middle" data-bar-key="time-2-5" filter="url(#label-bg)"><tspan x="341" y="161">40.1%</tspan></text>
+            <text class="value-labels-inner bar-value-label inside" text-anchor="middle" data-bar-key="time-5-10" filter="url(#label-bg)"><tspan x="454" y="263">17.3%</tspan></text>
+            <text class="value-labels-outer bar-value-label outside hover-only" text-anchor="middle" data-bar-key="time-10-plus"><tspan x="567" y="278">6.3%</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <script type="application/ecmascript"><![CDATA[
+    (function () {
+      var root = document.querySelector('svg > g[id], g[id]');
+      if (!root) {
+        return;
+      }
+
+      var legendItem = root.querySelector('.legend-item');
+      var legendContainer = legendItem ? legendItem.querySelector('rect.legend-item-container') : null;
+      var legendLabel = legendItem ? legendItem.querySelector('text.legend-label') : null;
+      var bars = Array.prototype.slice.call(root.querySelectorAll('.bars rect[data-bar-key]'));
+      var axisLabels = Array.prototype.slice.call(root.querySelectorAll('.data-series > .a > .axis-labels text[data-bar-key]'));
+      var valueLabels = Array.prototype.slice.call(root.querySelectorAll('.bar-value-label[data-bar-key]'));
+
+      if (!legendItem || bars.length === 0 || axisLabels.length === 0 || valueLabels.length === 0) {
+        return;
+      }
+
+      if (!legendItem.hasAttribute('tabindex')) {
+        legendItem.setAttribute('tabindex', '0');
+      }
+      legendItem.style.cursor = 'pointer';
+
+      if (legendContainer) {
+        legendContainer.style.transition = 'opacity 220ms ease-in-out, stroke 220ms ease-in-out, stroke-width 220ms ease-in-out';
+      }
+
+      if (legendLabel) {
+        legendLabel.style.transition = 'opacity 220ms ease-in-out';
+      }
+
+      function setLabelTypography(label, size, weight) {
+        label.style.fontSize = size;
+        label.style.fontWeight = weight;
+        Array.prototype.forEach.call(label.querySelectorAll('tspan'), function (span) {
+          span.style.fontSize = size;
+          span.style.fontWeight = weight;
+        });
+      }
+
+      bars.forEach(function (bar) {
+        bar.style.cursor = 'pointer';
+        bar.style.transition = 'fill-opacity 220ms ease-in-out, opacity 220ms ease-in-out';
+      });
+
+      axisLabels.forEach(function (label) {
+        label.style.cursor = 'pointer';
+        label.style.transition = 'opacity 220ms ease-in-out';
+      });
+
+      valueLabels.forEach(function (label) {
+        if (!label.style.transition) {
+          label.style.transition = 'opacity 220ms ease-in-out, font-size 220ms ease-in-out, fill-opacity 220ms ease-in-out';
+        }
+      });
+
+      var activeMode = null;
+      var activeBarKey = null;
+
+      function renderState() {
+        var isSeriesActive = activeMode === 'series';
+
+        if (legendContainer) {
+          legendContainer.style.stroke = isSeriesActive ? 'var(--color-text-dark)' : '';
+          legendContainer.style.strokeWidth = isSeriesActive ? '1.5' : '';
+        }
+
+        bars.forEach(function (bar) {
+          var isBarActive = activeMode === 'bar' && bar.getAttribute('data-bar-key') === activeBarKey;
+          if (isSeriesActive || isBarActive) {
+            bar.style.fillOpacity = '1';
+          } else {
+            bar.style.removeProperty('fill-opacity');
+          }
+        });
+
+        valueLabels.forEach(function (label) {
+          var isHoverOnly = label.classList.contains('hover-only');
+          var isLabelActive = isSeriesActive || (activeMode === 'bar' && label.getAttribute('data-bar-key') === activeBarKey);
+
+          if (isLabelActive) {
+            label.style.opacity = '1';
+            setLabelTypography(label, '14px', '700');
+            label.style.fillOpacity = '1';
+          } else {
+            label.style.opacity = isHoverOnly ? '0' : '';
+            setLabelTypography(label, '10px', '600');
+            label.style.removeProperty('fill-opacity');
+          }
+        });
+      }
+
+      function activateSeries() {
+        activeMode = 'series';
+        activeBarKey = null;
+        renderState();
+      }
+
+      function clearSeries() {
+        if (activeMode === 'series') {
+          activeMode = null;
+          activeBarKey = null;
+          renderState();
+        }
+      }
+
+      function activateBar(barKey) {
+        activeMode = 'bar';
+        activeBarKey = barKey;
+        renderState();
+      }
+
+      function clearBar(barKey) {
+        if (activeMode === 'bar' && activeBarKey === barKey) {
+          activeMode = null;
+          activeBarKey = null;
+          renderState();
+        }
+      }
+
+      legendItem.addEventListener('mouseenter', activateSeries);
+      legendItem.addEventListener('mouseleave', clearSeries);
+      legendItem.addEventListener('focus', activateSeries);
+      legendItem.addEventListener('blur', clearSeries);
+
+      bars.forEach(function (bar) {
+        var barKey = bar.getAttribute('data-bar-key');
+
+        bar.addEventListener('mouseenter', function () {
+          activateBar(barKey);
+        });
+
+        bar.addEventListener('mouseleave', function () {
+          clearBar(barKey);
+        });
+      });
+
+      axisLabels.forEach(function (label) {
+        var barKey = label.getAttribute('data-bar-key');
+
+        label.addEventListener('mouseenter', function () {
+          activateBar(barKey);
+        });
+
+        label.addEventListener('mouseleave', function () {
+          clearBar(barKey);
+        });
+      });
+
+      renderState();
+    }());
+  ]]></script>
+</svg>

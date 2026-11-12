@@ -3,7 +3,7 @@
     \ One thing endures: the writer's goal of communicating to understanding. It\u2019\
     \ s not as easy as it sounds. Because we are all Abbott and Costello.</p>"
   event: Write the Docs NA 2015
-  path: conf/na/2015/videos/keynote-we-are-all-abbott-and-costello-maria-riefer-johnston
+  path: https://www.youtube.com/watch?v=1yhyxuu_oWw
   series: Write the Docs NA
   series_slug: na
   slug: keynote-we-are-all-abbott-and-costello-maria-riefer-johnston
@@ -22,7 +22,7 @@
     to ease improvement and federation to ease sharing, we have once again uncovered
     a simpler and more powerful internet.</p>
   event: Write the Docs NA 2015
-  path: conf/na/2015/videos/keynote-the-federated-wiki-ward-cunningham
+  path: https://www.youtube.com/watch?v=3nB8ml6UowE
   series: Write the Docs NA
   series_slug: na
   slug: keynote-the-federated-wiki-ward-cunningham
@@ -50,7 +50,7 @@
     clear writing across not just your documentation, but your headlines and error
     messages in your API.</p>
   event: Write the Docs NA 2015
-  path: conf/na/2015/videos/how-to-write-documentation-for-people-that-don-t-read-kburke
+  path: https://www.youtube.com/watch?v=sQP_hUNCrcE
   series: Write the Docs NA
   series_slug: na
   slug: how-to-write-documentation-for-people-that-don-t-read-kburke
@@ -76,7 +76,7 @@
     \ fellow writers, and senior leadership, making us fall in love again with our\
     \ roles as documentarians.</p>"
   event: Write the Docs NA 2015
-  path: conf/na/2015/videos/documentation-disrupted-how-two-technical-writers-changed-google-engineering-culture-built-a-team-made-powerful-friends-and-got-their-mojo-back-rmacnamara
+  path: https://www.youtube.com/watch?v=EnB8GtPuauw
   series: Write the Docs NA
   series_slug: na
   slug: documentation-disrupted-how-two-technical-writers-changed-google-engineering-culture-built-a-team-made-powerful-friends-and-got-their-mojo-back-rmacnamara
@@ -103,7 +103,7 @@
     \ By recognizing that fact, and opening up space in your work life for creativity,\
     \ you can have an even bigger impact and a more fulfilling career.</p>"
   event: Write the Docs NA 2015
-  path: conf/na/2015/videos/elevating-the-hedgehog-creativity-in-tech-writing-tfranko
+  path: https://www.youtube.com/watch?v=jwN2aAq4wGw
   series: Write the Docs NA
   series_slug: na
   slug: elevating-the-hedgehog-creativity-in-tech-writing-tfranko
@@ -140,7 +140,7 @@
     \ to achieve this, as well as things we\u2019re still working on. I\u2019ll leave\
     \ space for discussion so we can all share ideas and successes.</p>"
   event: Write the Docs NA 2015
-  path: conf/na/2015/videos/entry-points-and-guide-posts-helping-new-contributors-find-their-way-jswisher
+  path: https://www.youtube.com/watch?v=VG-uvJDBTdM
   series: Write the Docs NA
   series_slug: na
   slug: entry-points-and-guide-posts-helping-new-contributors-find-their-way-jswisher
@@ -168,7 +168,7 @@
     \ building what we want to have in the end.</p><p> Continuous improvement can\
     \ have a victory condition, if we build it.</p>"
   event: Write the Docs NA 2015
-  path: conf/na/2015/videos/success-is-more-than-not-failing-hwaterhouse
+  path: https://www.youtube.com/watch?v=mkyeF2YSRl8
   series: Write the Docs NA
   series_slug: na
   slug: success-is-more-than-not-failing-hwaterhouse
@@ -190,7 +190,7 @@
     \ curve as much as possible for these readers, and it can do that by being much\
     \ more intimate about its relationship with them.</p>"
   event: Write the Docs NA 2015
-  path: conf/na/2015/videos/a-developers-approach-to-documentation-from-passive-to-dynamic-gkoberger
+  path: https://www.youtube.com/watch?v=5lw8RFy3YNA
   series: Write the Docs NA
   series_slug: na
   slug: a-developers-approach-to-documentation-from-passive-to-dynamic-gkoberger
@@ -216,7 +216,7 @@
     content through CI and automated tests</li> <li>How we incorporate feedback from
     our users</li></ul>
   event: Write the Docs NA 2015
-  path: conf/na/2015/videos/how-github-uses-github-to-document-github-gtorikian
+  path: https://www.youtube.com/watch?v=s46m8H4BrrE
   series: Write the Docs NA
   series_slug: na
   slug: how-github-uses-github-to-document-github-gtorikian
@@ -250,7 +250,7 @@
     \ who is witnessing this documentation culture change, one conversation at a time.\
     \ Wearing many hats can be exhilarating and rewarding.</p>"
   event: Write the Docs NA 2015
-  path: conf/na/2015/videos/what-can-brownfield-do-for-you-mnishiyama
+  path: https://www.youtube.com/watch?v=3X8xyfkRmO4
   series: Write the Docs NA
   series_slug: na
   slug: what-can-brownfield-do-for-you-mnishiyama
@@ -279,7 +279,7 @@
     \ pilot programs. We\u2019ve clarified our documentation and added test cases\
     \ numerous times based on customer pain points.</p>"
   event: Write the Docs NA 2015
-  path: conf/na/2015/videos/writer-meet-tester-jbleyle-alouie-arthur-louie
+  path: https://www.youtube.com/watch?v=W5Un3r-vG_I
   series: Write the Docs NA
   series_slug: na
   slug: writer-meet-tester-jbleyle-alouie-arthur-louie
@@ -300,7 +300,7 @@
     \ only 3 reasons I use words in user interfaces, how I find the right words, and\
     \ how I increase engagement by respecting people\u2019 intent.</p>"
   event: Write the Docs NA 2015
-  path: conf/na/2015/videos/keep-em-playing-tpodmajersky
+  path: https://www.youtube.com/watch?v=AMRfkcmyc40
   series: Write the Docs NA
   series_slug: na
   slug: keep-em-playing-tpodmajersky
@@ -337,7 +337,7 @@
     \ like PeopleSoft, Oracle, and Intuit. He's currently a writer for Splunk, a leader\
     \ in the machine data analytics sector.</p>"
   event: Write the Docs NA 2015
-  path: conf/na/2015/videos/let-s-tell-a-story-scenario-based-documentation-mness
+  path: https://www.youtube.com/watch?v=3hneCmLYWjc
   series: Write the Docs NA
   series_slug: na
   slug: let-s-tell-a-story-scenario-based-documentation-mness
@@ -367,7 +367,7 @@
     how to make your stakeholders happier as your documentation base grows with the
     organization.</li></ul>
   event: Write the Docs NA 2015
-  path: conf/na/2015/videos/designing-information-for-growth-mdevoto
+  path: https://www.youtube.com/watch?v=-y4itLMwX8g
   series: Write the Docs NA
   series_slug: na
   slug: designing-information-for-growth-mdevoto
@@ -407,7 +407,7 @@
     \ the writing process is itself a powerful tool to root out hidden assumptions\
     \ and errors in thinking.</p>"
   event: Write the Docs NA 2015
-  path: conf/na/2015/videos/a-brief-history-of-math-writing-symbol-structure-and-proof-ehoffmann-aroman-alfonso-roman
+  path: https://www.youtube.com/watch?v=3PbkglMkzS0
   series: Write the Docs NA
   series_slug: na
   slug: a-brief-history-of-math-writing-symbol-structure-and-proof-ehoffmann-aroman-alfonso-roman
@@ -445,7 +445,7 @@
     \ in tandem with code deployment are among the experiments we\u2019re attempting\
     \ to get better at this new world.</li></ul>"
   event: Write the Docs NA 2015
-  path: conf/na/2015/videos/tech-writing-in-a-continuous-deployment-world-cburwinkle
+  path: https://www.youtube.com/watch?v=Bsod_z9OKQY
   series: Write the Docs NA
   series_slug: na
   slug: tech-writing-in-a-continuous-deployment-world-cburwinkle
@@ -473,7 +473,7 @@
     \ a lot of hard work. But the people you'll meet and the contacts that you'll\
     \ make can reward you and your company in other ways.</i></p>"
   event: Write the Docs NA 2015
-  path: conf/na/2015/videos/start-your-own-write-the-docs-meetup-group-mjang
+  path: https://www.youtube.com/watch?v=ZwQ8Kd48d0w
   series: Write the Docs NA
   series_slug: na
   slug: start-your-own-write-the-docs-meetup-group-mjang
@@ -510,7 +510,7 @@
     \ ever with the development teams. Now our users get twice the cake: better features\
     \ and better docs!</li></ul>"
   event: Write the Docs NA 2015
-  path: conf/na/2015/videos/user-story-driven-docs-jfernandes
+  path: https://www.youtube.com/watch?v=MRnZFVCirQM
   series: Write the Docs NA
   series_slug: na
   slug: user-story-driven-docs-jfernandes
@@ -539,7 +539,7 @@
     \ failures, and how each of the seven (and a half) rules has taught us what it\
     \ means to write Fastly.</p>"
   event: Write the Docs NA 2015
-  path: conf/na/2015/videos/the-making-of-writing-black-belts-how-martial-arts-philosophy-forged-an-ad-hoc-writing-team-that-writes-great-docs-gwalli
+  path: https://www.youtube.com/watch?v=4PP2xBsMWKw
   series: Write the Docs NA
   series_slug: na
   slug: the-making-of-writing-black-belts-how-martial-arts-philosophy-forged-an-ad-hoc-writing-team-that-writes-great-docs-gwalli

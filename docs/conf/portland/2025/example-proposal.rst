@@ -16,9 +16,22 @@ Include a list of takeaways that our audience can learn from your talk, such as:
 
 - Lessons the audience can apply in their own work
 - Ideas the audience should research further
-- Spoilers that provide details about the talk
 
-Avoid walls of text. We recommend that you limit your abstract to a maximum of 300 words.
+Avoid walls of text. The ideal length for an abstract is between 100 and 300 words.
+
+Detailed Spoilers
+-----------------
+
+Use this section to share specifics about the content of your talk that will give us a better sense of its depth. These spoilers are for the *selection committee* only and won’t be shared publicly, but will help us ensure your session is a good fit.
+
+In this section, please include:
+
+- Specific examples, case studies, or methodologies that will be covered in your talk.
+- In-depth explanations of technical processes or workflows.
+- Key takeaways that will be explored in detail, including any particular challenges or outcomes you’ll be addressing.
+- Anything else that will give us a better understanding of the content you’ll be presenting.
+
+We’d love to see how your talk will deliver real value to our audience. The more specific you can be about your content here, the better we’ll be able to assess whether it will resonate with our attendees.
 
 Who and Why
 -----------

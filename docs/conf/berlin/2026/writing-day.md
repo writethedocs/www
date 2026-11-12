@@ -1,0 +1,138 @@
+---
+template: {{year}}/generic.html
+og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
+banner: _static/conf/images/photos/writing-day-schedule-berlin-55511482495.jpg
+---
+# What is Writing Day?
+
+Held on Sunday, Writing Day marks the official start of the conference.
+
+Writing Day is modeled after the concept of [code sprints](https://en.wikipedia.org/wiki/Sprint_%28software_development%29) or hackathons, which are common in open-source (OSS) conferences. The goal is to bring together documentarians to collaborate on interesting projects — whether that's open-source documentation, community content, or other documentation-related work.
+
+To create more ways for attendees to take part on Sunday, we are expanding Writing Day to include additional, shorter-format options such as workshops and discussions.
+
+## How to Participate in Writing Day in 2026
+
+Attendees can lead a Writing Day project or join and contribute to someone else's project. Projects can run for a half-day or full-day.
+
+More details are below. No additional sign up is required.{% if writing_day.url %} Ready to submit a Writing Day project? Click the link below.{% endif %}
+
+{% if writing_day.url %}
+```{button-link} {{ writing_day.url }}
+:year: {{ year }}
+Submit Your Writing Day Project
+```
+{% endif %}
+
+## Writing Day Schedule
+
+**{{date.day_two.dotw}}, {{date.day_two.date}}, {{date.day_two.writing_day_time}} {{tz}}**
+
+Writing Day is an all-day event designed for you to join in throughout the day.
+We may make changes to the structure closer to the conference.
+
+- **8:30** - Doors open
+- **9:30** - Welcome and overview
+- **10:00** - Project announcements: Leads give a 2 minute summary and projects begin
+  - **10:00** - New to Git workshop ([sign up required]({{ writing_day.git_signup_url }}))
+  - **11:00** - Write the Docs Orientation
+- **12:30-14:00** - Lunch break
+- **14:00-17:00** - Afternoon sessions: Leads give a 2 minute summary, starting with the afternoon-only projects, and projects reconvene
+  - **14:00** - Resume writing session and portfolio review
+  - **14:30** - AI and Docs - Roundtable discussion
+  - **15:00** - Salary Survey
+  - **15:30** - API docs - Roundtable discussion
+- **17:00-19:00** - Welcome reception
+
+## How to Prepare
+
+**Come prepared with the following tools:**
+
+- Laptop, tablet, or other device
+- [GitHub](https://github.com/) account (or an account on another git-based platform)
+- Text editor of your choice for coding or content creation
+
+## How to Participate in a Writing Day Project
+
+### Lead a Project
+
+Leading a project at Writing Day is a wonderful opportunity to engage with documentarians from a variety of backgrounds, experience, and expertise. Their collective wealth of experience can help you upgrade your project documentation and create a more inclusive project. This empowers all of us to work together to create opportunities for each other and bigger, better communities.
+
+#### Submit
+
+**If you submit your project by {{ writing_day.project_deadline }}, we will share your project in a blog post and email with our attendees before the conference.**
+
+{% if writing_day.url %}
+```{button-link} {{ writing_day.url }}
+:year: {{ year }}
+Submit Your Writing Day Project
+```
+{% endif %}
+
+Walk-on projects are always welcome. You are still more than welcome to bring a project the day of and announce it during the actual Writing Day.
+
+**Tips to create and lead a new project effectively:**
+
+- **Provide a project overview with a specific focus or goals:** Your project overview is a 2 minute pitch that describes your project and clearly defines a focus area or goal.
+- **Pre-label tasks and issues:** Create a specific event label and label documentation tasks and issues. This empowers new contributors to find tasks that interest them.
+- **Create a task filter:** This helps contributors find issues more easily and see which issues have been assigned.
+- **Clear onboarding:** Ensure your README, contribution guidelines, or onboarding instructions are accurate and up to date.
+- **Project experts:** We recommend having 1-2 people leading a project. You are welcome to call for virtual reinforcements from your community. If you need additional support onboarding volunteers, the WTD staff team will share this opportunity with the community. {% if writing_day.url %}View further information in the [Call for Projects form]({{ writing_day.url }}).{% endif %}
+- **Flexibility and understanding:** Reminder that attendees may need additional info to be successful in onboarding to your project.
+- **Submit your Writing Day project before the conference:** Projects submitted before the conference are featured in our pre-conference blog post and email. Many attendees have shared that their curiosity for specific projects motivated them to attend. Submissions are open now, so submit yours by {{ writing_day.project_deadline }}.
+
+These are suggestions and not requirements. It is perfectly valid to show up to Writing Day the day of, tell us about your project, and ask for volunteers. It has been done before and it will be done again.
+
+### Contribute to a Project
+
+Writing Day is the perfect opportunity to participate and learn about new projects and technologies. You are welcome to stay with one project all day, or project hop.
+
+**Tips to contribute to a project:**
+
+- **Regardless of your experience level, you are welcome here.** We are excited to have you. Even if you feel you lack the right skills, experiences, or have never attended an event like Writing Day before, you will be surprised at how much you can contribute.
+- **Explore our guide to writing documentation.** Our [beginner's guide](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/) is designed to help you get started and spark ideas for how you can contribute to a project.
+- **Ask questions.** If you encounter challenges with new concepts and tools, you are in a room surrounded by friendly people from diverse backgrounds and experiences. You can always ask the Welcome Wagon or Registration staff and volunteers. We will help you connect with the right person.
+- **View the project list.** Check out the projects that have been submitted in advance. Reminder that some projects are submitted day of.
+
+## Project List
+
+If you are planning to contribute, review the project list before the conference.
+Incoming project information, check back here for updates closer to the conference.
+
+### Draft a German style guide
+
+- **Project organizer**: [Matthias Schrumpf](https://www.linkedin.com/in/matthias-schrumpf-47b344255/), it/they
+- **Project session**: All day
+
+[Pretix](https://github.com/pretix/pretix) is an open source software project that's reinventing ticket presales - one ticket at a time.
+
+Our Writing Day goal is to draft a German-language style guide for the [pretix docs](https://github.com/pretix/pretix-docs). The pretix docs have an English style guide that shows our documentation writing process with all of the small-scale decisions about wording, syntax, punctuation, and formatting. We know its vital to record these decisions so pretix, and our contributors, don't have to make them over and over again. With that, we realized that we need a German version of our style guide to support our German articles.
+
+Interested in contributing?
+
+- This project is best suited for folks with native-like German proficiency
+- Some knowledge of pretix and its [docs](https://github.com/pretix/pretix-docs) is helpful (not required)
+
+See you at Writing Day!
+
+### Examples of projects you might see at the conference
+
+- Open-source software documentation
+- General documentation writing
+- Best practices manual (for your company, or the world)
+- Blog posts
+- Tips and tricks
+- Great works of fiction
+- Love letters
+- The Documentarian Manifesto
+
+Find specific examples on the [Portland Writing Day {{year}} project list](https://www.writethedocs.org/conf/portland/{{year}}/writing-day/#project-list).
+
+## Roundtable Discussions
+
+Roundtable discussions are pre-scheduled, facilitated conversations held in the afternoon. This year's topics are AI in documentation and API docs. We are keeping the topics focused this year as an experiment, and if it goes well might expand to a full-day discussion track in the future.
+
+## Contact us
+
+Email us at {{ email }} with any questions.
+

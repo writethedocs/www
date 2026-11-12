@@ -1,6 +1,5 @@
 region: North America
-country: US East Coast Virtual (Formerly Boston/New England)
-website: https://www.meetup.com/write-the-docs-east-coast/events/
+country: US East Coast Virtual
 meetup: Write-The-Docs-East-Coast
 organizers:
   - name: Lisa Gay
@@ -13,7 +12,5 @@ organizers:
     link: https://www.linkedin.com/in/kanemartin/
   - name: Randi Stebbins
     link: https://www.linkedin.com/in/randiwstebbins/
-  - name: Aimee Ukasick
-  - name: Cynthia Peter
   - name: Rose Williams (founder, former organizer)
     link: https://www.linkedin.com/in/williamsrose/

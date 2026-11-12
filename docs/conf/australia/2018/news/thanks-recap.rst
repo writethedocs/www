@@ -91,4 +91,4 @@ Thanks again
 ============
 
 We're so grateful to our speakers, sponsors, volunteers, and attendees for making this conference possible.
-We hope to see you back next year – or even sooner at one of our other local events!
+We hope to see you back next year – or even sooner at one of our other local events!

@@ -1,0 +1,49 @@
+<svg viewBox="0 55 660 238" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+	<defs>
+	
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2024-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+  <g id="2024-job-search-confidence-employees">
+
+    <g class="title">
+      <text font-size="14"><tspan x="40" y="33">Job search confidence</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Employees</tspan></text>
+    </g>
+
+    <g class="donut-chart">
+
+      <path d="M180 269.061C179.993 251.315 183.135 233.708 189.28 217.059L273.712 248.224C271.254 254.883 269.997 261.926 270 269.024L180 269.061Z" fill="#C2255C" stroke="white" stroke-width="2"/>
+      <path d="M189.332 216.919C196.843 196.631 208.654 178.208 223.955 162.913C239.255 147.619 257.683 135.815 277.973 128.312L309.189 212.725C301.073 215.726 293.702 220.448 287.582 226.565C281.462 232.683 276.737 240.052 273.733 248.167L189.332 216.919Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+      <path d="M278.114 128.26C309.747 116.598 344.386 115.932 376.443 126.371L348.577 211.948C335.755 207.773 321.899 208.039 309.246 212.704L278.114 128.26Z" fill="#E9C168" stroke="white" stroke-width="2"/>
+      <path d="M376.586 126.418C399.027 133.75 419.421 146.276 436.108 162.976C452.795 179.677 465.305 200.08 472.619 222.528L387.048 250.411C384.122 241.432 379.118 233.271 372.443 226.59C365.768 219.91 357.611 214.9 348.634 211.967L376.586 126.418Z" fill="#82A555" stroke="white" stroke-width="2"/>
+      <path d="M472.666 222.67C477.51 237.585 479.984 253.168 480 268.85L390 268.94C389.994 262.667 389.004 256.434 387.066 250.468L472.666 222.67Z" fill="#087F5B" stroke="white" stroke-width="2"/>
+
+      <text font-size="10"><tspan x="521" y="249">Very confident</tspan></text>
+      <text font-size="10"><tspan x="486" y="162">Confident</tspan></text>
+      <text font-size="10"><tspan x="113" y="160">Not confident</tspan></text>
+      <text font-size="10"><tspan x="53" y="249">Not confident at all</tspan></text>
+      <text font-size="10"><tspan x="327" y="81">Neutral</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="312" y="161">21.3%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="395" y="199">30%</tspan></text>
+      <text font-size="14" class="value-labels-inner reverse"><tspan x="430" y="257">10%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="235" y="198">27.5%</tspan></text>
+      <text font-size="14" class="value-labels-inner reverse"><tspan x="200" y="257">11.3%</tspan></text>
+
+      <path d="M515.908 247C510.908 247 484.988 249.04 482.994 249.197L481 249.354" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M480.532 160C475.532 160 450.804 168.034 448.902 168.652L447 169.271" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M323 88C318 88 318 114 318 116V118" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M180 160C185 160 209.727 168.034 211.63 168.652L213.532 169.271" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M144 247C149 247 174.92 249.04 176.914 249.197L178.908 249.354" stroke="#252521" stroke-dasharray="1 3"/>
+
+    </g>
+
+  </g>
+
+</svg>

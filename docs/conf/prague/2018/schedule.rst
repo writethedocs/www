@@ -89,7 +89,7 @@ Monday, September 10
    :backlinks: none
 
 This is the main event! Hear from lots of interesting folks about all things documentation.
-We will have talks all day on the main stage, and a unconference session running in parallel in the afternoon.
+We will have talks all day on the main stage, and an unconference session running in parallel in the afternoon.
 
 *Breakfast and lunch will be provided, as well as snacks and drinks all day.*
 

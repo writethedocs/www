@@ -1,0 +1,43 @@
+
+
+ 
+<svg viewBox="0 55 660 215" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+	<defs>
+	
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2024-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+  <g id="2024-earnings-security-confidence-contractors">
+
+    <g class="title">
+      <text font-size="14"><tspan x="40" y="33">Earnings security confidence</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Contractors</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="111" y="49"> - as compared to the same time last year</tspan></text>
+    </g>
+
+    <g class="donut-chart">
+
+      <path d="M181 249.061C180.99 225.173 186.686 201.629 197.612 180.387C208.539 159.145 224.381 140.819 243.82 126.936L296.128 200.174C288.352 205.728 282.016 213.058 277.645 221.555C273.274 230.052 270.996 239.469 271 249.024L181 249.061Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+      <path d="M243.942 126.849C276.322 103.772 316.539 94.4947 355.756 101.057C394.972 107.619 429.979 129.483 453.082 161.845L379.833 214.138C370.591 201.193 356.589 192.448 340.902 189.823C325.216 187.198 309.129 190.909 296.177 200.14L243.942 126.849Z" fill="#E9C168" stroke="white" stroke-width="2"/>
+      <path d="M453.169 161.967C471.242 187.336 480.969 217.702 481 248.85L391 248.94C390.987 236.481 387.097 224.334 379.867 214.187L453.169 161.967Z" fill="#82A555" stroke="white" stroke-width="2"/>
+      <text font-size="14" class="value-labels-inner"><tspan x="417" y="226">19.7%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="335" y="149">50%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="216" y="209">30.3%</tspan></text>
+      <text font-size="10"><tspan x="415" y="81">Around the same</tspan></text>
+      <text font-size="10"><tspan x="93" y="177">Less confident</tspan></text>
+      <text font-size="10"><tspan x="517" y="200">More confident</tspan></text>
+      <path d="M402.634 81C397.634 81 382.351 102.034 381.176 103.652L380 105.271" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M163 174C168 174 192.727 182.034 194.63 182.652L196.532 183.271" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M507.532 200C502.532 200 477.804 208.034 475.902 208.652L474 209.271" stroke="#252521" stroke-dasharray="1 3"/>
+
+    </g>
+
+  </g>
+
+</svg>

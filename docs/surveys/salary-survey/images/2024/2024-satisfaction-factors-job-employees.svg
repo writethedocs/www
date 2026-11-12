@@ -1,0 +1,99 @@
+<svg viewBox="0 55 660 403" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2024-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+	<g id="2024-satisfaction-factors-job-employees">
+
+		<g class="title">
+			<text font-size="14"><tspan x="40" y="33">Satisfaction factors: overall job</tspan></text>
+			<text font-size="12" class="subtitle"><tspan x="40" y="49">Employees</tspan></text>
+		</g>
+
+		<g class="bar-chart-horizontal">
+
+			<g class="legend">
+        <path d="M205 425C205 426.591 205.632 428.117 206.757 429.243C207.883 430.368 209.409 431 211 431C212.591 431 214.117 430.368 215.243 429.243C216.368 428.117 217 426.591 217 425C217 423.409 216.368 421.883 215.243 420.757C214.117 419.632 212.591 419 211 419C209.409 419 207.883 419.632 206.757 420.757C205.632 421.883 205 423.409 205 425Z" fill="#E4774E"/>
+        <path d="M288.652 425C288.652 426.591 289.284 428.117 290.409 429.243C291.534 430.368 293.06 431 294.652 431C296.243 431 297.769 430.368 298.894 429.243C300.019 428.117 300.652 426.591 300.652 425C300.652 423.409 300.019 421.883 298.894 420.757C297.769 419.632 296.243 419 294.652 419C293.06 419 291.534 419.632 290.409 420.757C289.284 421.883 288.652 423.409 288.652 425Z" fill="#E9C168"/>
+        <path d="M366.3 425C366.3 426.591 366.932 428.117 368.057 429.243C369.183 430.368 370.709 431 372.3 431C373.891 431 375.417 430.368 376.543 429.243C377.668 428.117 378.3 426.591 378.3 425C378.3 423.409 377.668 421.883 376.543 420.757C375.417 419.632 373.891 419 372.3 419C370.709 419 369.183 419.632 368.057 420.757C366.932 421.883 366.3 423.409 366.3 425Z" fill="#82A555"/>
+        <text font-size="10"><tspan x="221" y="429">Disagree</tspan></text>
+        <text font-size="10"><tspan x="304" y="429">Neutral</tspan></text>
+        <text font-size="10"><tspan x="382" y="429">Agree</tspan></text>
+      </g>
+      <g class="toolset">
+        <text font-size="10"><tspan x="106" y="373">I&#x2019;m satisfied with the &#10;</tspan><tspan x="86" y="384">systems and toolsets I use</tspan></text>
+        <path d="M265 361H216C213.239 361 211 363.239 211 366V383C211 385.761 213.239 388 216 388H265C267.761 388 270 385.761 270 383V366C270 363.239 267.761 361 265 361Z" fill="#E4774E"/>
+        <path d="M332 361H277C274.239 361 272 363.239 272 366V383C272 385.761 274.239 388 277 388H332C334.761 388 337 385.761 337 383V366C337 363.239 334.761 361 332 361Z" fill="#E9C168"/>
+        <path d="M529 361H344C341.239 361 339 363.239 339 366V383C339 385.761 341.239 388 344 388H529C531.761 388 534 385.761 534 383V366C534 363.239 531.761 361 529 361Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="225" y="379">18.4%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="287" y="379">20.7%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="419" y="379">60.9%</tspan></text>
+      </g>
+      <g class="challenging">
+        <text font-size="10"><tspan x="136" y="334">My work is sufficiently&#10;</tspan><tspan x="130" y="345">interesting/challenging</tspan></text>
+        <path d="M271 322H250C247.239 322 245 324.239 245 327V344C245 346.761 247.239 349 250 349H271C273.761 349 276 346.761 276 344V327C276 324.239 273.761 322 271 322Z" fill="#E4774E"/>
+        <path d="M326 322H283C280.239 322 278 324.239 278 327V344C278 346.761 280.239 349 283 349H326C328.761 349 331 346.761 331 344V327C331 324.239 328.761 322 326 322Z" fill="#E9C168"/>
+        <path d="M563 322H338C335.239 322 333 324.239 333 327V344C333 346.761 335.239 349 338 349H563C565.761 349 568 346.761 568 344V327C568 324.239 565.761 322 563 322Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="287" y="340">17.0%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="433" y="340">73.3%</tspan></text>
+      </g>
+      <g class="professional">
+        <text font-size="10"><tspan x="101" y="295">I have opportunities for &#10;</tspan><tspan x="94" y="306">professional development</tspan></text>
+        <path d="M266 283H223C220.239 283 218 285.239 218 288V305C218 307.761 220.239 310 223 310H266C268.761 310 271 307.761 271 305V288C271 285.239 268.761 283 266 283Z" fill="#E4774E"/>
+        <path d="M333 283H278C275.239 283 273 285.239 273 288V305C273 307.761 275.239 310 278 310H333C335.761 310 338 307.761 338 305V288C338 285.239 335.761 283 333 283Z" fill="#E9C168"/>
+        <path d="M536 283H345C342.239 283 340 285.239 340 288V305C340 307.761 342.239 310 345 310H536C538.761 310 541 307.761 541 305V288C541 285.239 538.761 283 536 283Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="229" y="301">16.4%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="288" y="301">20.6%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="423" y="301">63%</tspan></text>
+      </g>
+      <g class="career">
+        <text font-size="10"><tspan x="68" y="256">I have opportunities &#10;</tspan><tspan x="53" y="267">for career advancement</tspan></text>
+        <path d="M255 244H175C172.239 244 170 246.239 170 249V266C170 268.761 172.239 271 175 271H255C257.761 271 260 268.761 260 266V249C260 246.239 257.761 244 255 244Z" fill="#E4774E"/>
+        <path d="M345 244H267C264.239 244 262 246.239 262 249V266C262 268.761 264.239 271 267 271H345C347.761 271 350 268.761 350 266V249C350 246.239 347.761 244 345 244Z" fill="#E9C168"/>
+        <path d="M488 244H357C354.239 244 352 246.239 352 249V266C352 268.761 354.239 271 357 271H488C490.761 271 493 268.761 493 266V249C493 246.239 490.761 244 488 244Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="199" y="262">27.9%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="289" y="262">27.9%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="405" y="262">44.2%</tspan></text>
+      </g>
+      <g class="workload">
+        <text font-size="10"><tspan x="97" y="221">My workload is manageable</tspan></text>
+        <path d="M273 205H237C234.239 205 232 207.239 232 210V227C232 229.761 234.239 232 237 232H273C275.761 232 278 229.761 278 227V210C278 207.239 275.761 205 273 205Z" fill="#E4774E"/>
+        <path d="M325 205H285C282.239 205 280 207.239 280 210V227C280 229.761 282.239 232 285 232H325C327.761 232 330 229.761 330 227V210C330 207.239 327.761 205 325 205Z" fill="#E9C168"/>
+        <path d="M550 205H337C334.239 205 332 207.239 332 210V227C332 229.761 334.239 232 337 232H550C552.761 232 555 229.761 555 227V210C555 207.239 552.761 205 550 205Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="239" y="223">14.2%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="288" y="223">16.2%</tspan></text>
+        <text font-size="12" class="value-labels-inner"><tspan x="426" y="223">69.6%</tspan></text>
+      </g>
+      <g class="responsibilities">
+        <text font-size="10"><tspan x="94" y="182">My responsibilities are reasonable</tspan></text>
+        <path d="M281 166H261C258.239 166 256 168.239 256 171V188C256 190.761 258.239 193 261 193H281C283.761 193 286 190.761 286 188V171C286 168.239 283.761 166 281 166Z" fill="#E4774E"/>
+        <path d="M319 166H293C290.239 166 288 168.239 288 171V188C288 190.761 290.239 193 293 193H319C321.761 193 324 190.761 324 188V171C324 168.239 321.761 166 319 166Z" fill="#E9C168"/>
+        <path d="M574 166H331C328.239 166 326 168.239 326 171V188C326 190.761 328.239 193 331 193H574C576.761 193 579 190.761 579 188V171C579 168.239 576.761 166 574 166Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="435" y="184">79.1%</tspan></text>
+      </g>
+      <g class="flexibility">
+        <text font-size="10"><tspan x="150" y="144">I have flexibility in my hours</tspan></text>
+        <path d="M292 127H290C287.239 127 285 129.239 285 132V149C285 151.761 287.239 154 290 154H292C294.761 154 297 151.761 297 149V132C297 129.239 294.761 127 292 127Z" fill="#E4774E"/>
+        <path d="M307 127H304C301.239 127 299 129.239 299 132V149C299 151.761 301.239 154 304 154H307C309.761 154 312 151.761 312 149V132C312 129.239 309.761 127 307 127Z" fill="#E9C168"/>
+        <path d="M603 127H319C316.239 127 314 129.239 314 132V149C314 151.761 316.239 154 319 154H603C605.761 154 608 151.761 608 149V132C608 129.239 605.761 127 603 127Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="444" y="145">91.7%</tspan></text>
+      </g>
+      <g class="hours">
+        <text font-size="10"><tspan x="158" y="105">My hours are reasonable</tspan></text>
+        <path d="M288 88H283C280.239 88 278 90.2386 278 93V110C278 112.761 280.239 115 283 115H288C290.761 115 293 112.761 293 110V93C293 90.2386 290.761 88 288 88Z" fill="#E4774E"/>
+        <path d="M311 88H300C297.239 88 295 90.2386 295 93V110C295 112.761 297.239 115 300 115H311C313.761 115 316 112.761 316 110V93C316 90.2386 313.761 88 311 88Z" fill="#E9C168"/>
+        <path d="M596 88H323C320.239 88 318 90.2386 318 93V110C318 112.761 320.239 115 323 115H596C598.761 115 601 112.761 601 110V93C601 90.2386 598.761 88 596 88Z" fill="#82A555"/>
+        <text font-size="12" class="value-labels-inner"><tspan x="442" y="106">88%</tspan></text>
+      </g>
+
+		</g>
+
+	</g>
+
+</svg>

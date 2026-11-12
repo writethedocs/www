@@ -1,0 +1,669 @@
+@font-face {
+    font-family: 'Domine';
+    src: url('/_static/survey/fonts/Domine-Regular.ttf') format('truetype');
+    font-weight: 400; /* Regular */ 
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Domine';
+    src: url('/_static/survey/fonts/Domine-Medium.ttf') format('truetype');
+    font-weight: 500; /* Medium */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Domine';
+    src: url('/_static/survey/fonts/Domine-SemiBold.ttf') format('truetype');
+    font-weight: 600; /* SemiBold */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Domine';
+    src: url('/_static/survey/fonts/Domine-Bold.ttf') format('truetype');
+    font-weight: 700; /* Bold */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Asap';
+    src: url('/_static/survey/fonts/Asap-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Asap';
+    src: url('/_static/survey/fonts/Asap-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Asap';
+    src: url('/_static/survey/fonts/Asap-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Asap';
+    src: url('/_static/survey/fonts/Asap-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Asap';
+    src: url('/_static/survey/fonts/Asap-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Asap';
+    src: url('/_static/survey/fonts/Asap-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Asap';
+    src: url('/_static/survey/fonts/Asap-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+:root {
+
+  --font: "Asap", sans-serif;
+  --font-title: "Domine", serif;
+  --transition: all 0.3s ease-in-out;
+
+  --color-text-dark: #50514F;
+  --color-text-light: #999999;
+  --color-text-contrast: #FFFFFF;
+
+  --color-legend-bg: #FFFFFF;
+
+  --color-grid: #F2F4F6;
+  --color-border: #D8DCDE;
+  --color-donut-stroke: #FFFFFF;
+
+  --color-chart-1: #4565ff;
+  --color-chart-2: #0095ff;
+  --color-chart-3: #00aec6;
+  --color-chart-4: #00bc60;
+  --color-chart-5: #85bc00; 
+  --color-chart-6: #ffa600;
+
+  --color-chart-1-of-1: #4565ff;
+
+  --color-chart-1-of-2: #4565ff;
+  --color-chart-2-of-2: #ffa600;
+
+  --color-chart-1-of-3: #4565ff;
+  --color-chart-2-of-3: #00bc60;
+  --color-chart-3-of-3: #ffa600;
+
+  --color-chart-1-of-4: #4565ff;
+  --color-chart-2-of-4: #00aec6;  
+  --color-chart-3-of-4: #00bc60;
+  --color-chart-4-of-4: #ffa600;  
+
+  --color-chart-1-of-5: #4565ff;
+  --color-chart-2-of-5: #0095ff;
+  --color-chart-3-of-5: #00aec6;
+  --color-chart-4-of-5: #00bc60;
+  --color-chart-5-of-5: #ffa600;
+
+  --color-chart-1-of-6: #4565ff;
+  --color-chart-2-of-6: #0095ff;
+  --color-chart-3-of-6: #00aec6;
+  --color-chart-4-of-6: #00bc60;
+  --color-chart-5-of-6: #85bc00;
+  --color-chart-6-of-6: #ffa600;
+
+  --color-salary-range-band: #D6DEFF;
+  --color-salary-range-median: var(--color-chart-1-of-1);
+  --color-salary-state-bar: var(--color-chart-1-of-1);
+  --color-salary-state-median: var(--color-chart-6-of-6);
+  --color-gender-gap-men: var(--color-chart-1-of-2);
+  --color-gender-gap-women: var(--color-chart-2-of-2);
+  --color-salary-line-worldwide: var(--color-chart-1-of-3);
+  --color-salary-line-north-america: var(--color-chart-2-of-3);
+  --color-salary-line-europe: var(--color-chart-3-of-3);
+
+
+
+
+  --color-satisfaction-very-unsatisfied: #C2255C;
+  --color-satisfaction-unsatisfied: #E4774E;
+  --color-satisfaction-neutral: #E9C168;
+  --color-satisfaction-satisfied: #82A555;
+  --color-satisfaction-very-satisfied: #087F5B;
+
+	--color-more: #97BB50;
+	--color-same: #CDC899;
+	--color-less: #F09100;
+
+	--color-very-confident: #008dcf;
+	--color-confident: #00b7e1;
+	--color-neutral: #00dfe1;
+	--color-not-confident: #00b281;
+	--color-not-confident-at-all: #048000;
+
+  /* phasing these out */
+  --color-series-a: #00AEFF;
+  --color-series-b: #FFA600;
+  --color-blue-dark: #1A4A8C;
+  --color-blue-light: #7EA4FF;
+  --color-blue-range: #A8C8E8;
+  --color-orange-dark: #E4774E;
+  --color-orange-light: #FFD080;
+  --color-red: #C94040;
+  --color-grey: #BBBBBB;
+
+}
+
+/* general text */
+text {
+	font-family: var(--font);
+	fill: var(--color-text-dark);
+	&.reverse {
+		fill: var(--color-text-contrast);
+	}
+}
+
+.chart-header {
+
+  .chart-title {
+    text {
+      fill: var(--color-text-dark);
+      &.title-text {
+        font-family: var(--font-title);
+        font-weight: 700;
+        font-size: 16px;
+      }
+      &.subtitle-text {
+        fill: var(--color-text-light);
+        font-family: var(--font-title);
+        font-weight: 500;
+        font-size: 14px;
+      }
+    }
+  } /* end .chart-title */
+
+  .legend {
+    .legend-item {
+      rect.legend-item-container {
+        rx: 11;
+        height: 22px;
+        fill: var(--color-legend-bg);
+        stroke: var(--color-border);
+        stroke-width: 1;
+      }
+      circle {
+        r: 3;
+      }
+      text.legend-label {
+        fill: var(--color-text-dark);
+        font-size: 10px;
+        font-weight: 400;
+      }
+    }
+  } /* end .legend */
+
+} /* end .chart-header */
+
+.footnote {
+  fill: var(--color-text-light);
+  font-family: var(--font);
+  font-size: 10px;
+  font-weight: 400;
+}
+
+
+.title { /* phasing out in favor of visible chart header */
+        display: none;
+        fill: var(--color-text-dark);
+	font-family: var(--font);
+	font-weight: 500;
+	.subtitle {
+		fill: var(--color-text-light);
+		font-weight: 400;
+	}
+}
+
+.donut-chart, .bar-chart-horizontal {
+
+  rect {
+    rx: 2;
+  }
+
+  text.value-labels-inner {
+    font-size: 10px;
+    font-weight: 600;
+    filter: url(#label-bg);
+  }
+
+  .value-labels-inner, .value-labels-inner * {
+    pointer-events: none;
+  }
+
+}
+
+.line-chart {
+
+  .gridlines {
+    stroke: var(--color-grid);
+    stroke-width: 1;
+  }
+
+  .axis-labels {
+    fill: var(--color-text-dark);
+    font-family: var(--font);
+    font-weight: 400;
+  }
+
+  .y-axis {
+    .axis-labels {
+      fill: var(--color-text-light);
+    }
+  }
+
+}
+
+.donut-chart {
+
+  .slice {
+    stroke: var(--color-donut-stroke);
+    stroke-width: 2;
+  }
+
+}
+
+/* color scales */
+.scale-satisfaction {
+  .very-unsatisfied { fill: var(--color-satisfaction-very-unsatisfied); }
+  .unsatisfied { fill: var(--color-satisfaction-unsatisfied); }
+  .neutral { fill: var(--color-satisfaction-neutral); }
+  .satisfied { fill: var(--color-satisfaction-satisfied); }
+  .very-satisfied { fill: var(--color-satisfaction-very-satisfied); }
+}
+
+.scale-search-confidence {
+  .not-at-all { fill: var(--color-satisfaction-very-unsatisfied); }
+  .not-confident { fill: var(--color-satisfaction-unsatisfied); }
+  .neutral { fill: var(--color-satisfaction-neutral); }
+  .confident { fill: var(--color-satisfaction-satisfied); }
+  .very-confident { fill: var(--color-satisfaction-very-satisfied); }
+}
+
+.scale-three-trend {
+  .negative { fill: var(--color-satisfaction-unsatisfied); }
+  .neutral { fill: var(--color-satisfaction-neutral); }
+  .positive { fill: var(--color-satisfaction-satisfied); }
+}
+
+.scale-preferred-term {
+  .contractor { fill: var(--color-chart-1); }
+  .self-employed { fill: var(--color-chart-2); }
+  .freelancer { fill: var(--color-chart-3); }
+  .other { fill: var(--color-chart-4); }
+}
+
+.scale-client-config {
+  .single { fill: var(--color-chart-1); }
+  .multiple { fill: var(--color-chart-2); }
+  .both { fill: var(--color-chart-3); }
+  .not-specified { fill: var(--color-chart-4); }
+}
+
+.scale-contract-length {
+  .short-only { fill: var(--color-chart-1); }
+  .medium-only { fill: var(--color-chart-2); }
+  .long-only { fill: var(--color-chart-3); }
+  .mixed { fill: var(--color-chart-4); }
+  .not-specified { fill: var(--color-chart-5); }
+}
+
+.scale-products-services {
+  .product { fill: var(--color-chart-1); }
+  .service { fill: var(--color-chart-2); }
+  .both { fill: var(--color-chart-3); }
+  .neither { fill: var(--color-chart-4); }
+}
+
+.scale-job-search-status {
+  .open-offers { fill: var(--color-chart-1); }
+  .not-open { fill: var(--color-chart-2); }
+  .actively-looking { fill: var(--color-chart-3); }
+  .not-looking-yet { fill: var(--color-chart-4); }
+  .open-to-contract, .open-to-permanent { fill: var(--color-chart-5); }
+  .contracting-while-looking { fill: var(--color-chart-6); }
+}
+
+.scale-feedback-likert {
+  .strongly-disagree { fill: var(--color-satisfaction-very-unsatisfied);}
+  .disagree { fill: var(--color-satisfaction-unsatisfied);}
+  .neutral { fill: var(--color-satisfaction-neutral);}
+  .agree { fill: var(--color-satisfaction-satisfied);}
+  .strongly-agree { fill: var(--color-satisfaction-very-satisfied);}
+}
+
+.scale-gender-identity {
+  .man { fill: var(--color-chart-1-of-4); }
+  .woman { fill: var(--color-chart-2-of-4); }
+  .non-binary { fill: var(--color-chart-3-of-4); }
+  .not-specified { fill: var(--color-chart-4-of-4); }
+}
+
+.scale-single-series {
+  .series-a { fill: var(--color-chart-1); }
+}
+
+.scale-education-level {
+  .single { fill: var(--color-chart-1-of-2); }
+  .multiple { fill: var(--color-chart-2-of-2); }
+}
+
+[data-color-count="1"] {
+  --color-chart-slot-1: var(--color-chart-1-of-1);
+}
+
+[data-color-count="2"] {
+  --color-chart-slot-1: var(--color-chart-1-of-2);
+  --color-chart-slot-2: var(--color-chart-2-of-2);
+}
+
+[data-color-count="3"] {
+  --color-chart-slot-1: var(--color-chart-1-of-3);
+  --color-chart-slot-2: var(--color-chart-2-of-3);
+  --color-chart-slot-3: var(--color-chart-3-of-3);
+}
+
+[data-color-count="4"] {
+  --color-chart-slot-1: var(--color-chart-1-of-4);
+  --color-chart-slot-2: var(--color-chart-2-of-4);
+  --color-chart-slot-3: var(--color-chart-3-of-4);
+  --color-chart-slot-4: var(--color-chart-4-of-4);
+}
+
+[data-color-count="5"] {
+  --color-chart-slot-1: var(--color-chart-1-of-5);
+  --color-chart-slot-2: var(--color-chart-2-of-5);
+  --color-chart-slot-3: var(--color-chart-3-of-5);
+  --color-chart-slot-4: var(--color-chart-4-of-5);
+  --color-chart-slot-5: var(--color-chart-5-of-5);
+}
+
+[data-color-count="6"] {
+  --color-chart-slot-1: var(--color-chart-1-of-6);
+  --color-chart-slot-2: var(--color-chart-2-of-6);
+  --color-chart-slot-3: var(--color-chart-3-of-6);
+  --color-chart-slot-4: var(--color-chart-4-of-6);
+  --color-chart-slot-5: var(--color-chart-5-of-6);
+  --color-chart-slot-6: var(--color-chart-6-of-6);
+}
+
+.chart-color-1 { fill: var(--color-chart-slot-1); }
+.chart-color-2 { fill: var(--color-chart-slot-2); }
+.chart-color-3 { fill: var(--color-chart-slot-3); }
+.chart-color-4 { fill: var(--color-chart-slot-4); }
+.chart-color-5 { fill: var(--color-chart-slot-5); }
+.chart-color-6 { fill: var(--color-chart-slot-6); }
+
+.scale-employment-history {
+  .employees { fill: var(--color-chart-1-of-3); }
+  .contractors { fill: var(--color-chart-2-of-3); }
+  .employee-contractors { fill: var(--color-chart-3-of-3); }
+}
+
+.scale-statement-bars {
+  .disagree { fill: var(--color-satisfaction-unsatisfied); }
+  .neutral { fill: var(--color-satisfaction-neutral); }
+  .agree { fill: var(--color-satisfaction-satisfied); }
+  .dont-know { fill: var(--color-blue-range); }
+}
+
+.scale-salary-lines {
+
+  line.worldwide,
+  path.worldwide,
+  polyline.worldwide {
+    fill: none;
+    stroke: var(--color-salary-line-worldwide);
+  }
+
+  circle.worldwide {
+    fill: var(--color-salary-line-worldwide);
+  }
+
+  line.north-america,
+  path.north-america,
+  polyline.north-america {
+    fill: none;
+    stroke: var(--color-salary-line-north-america);
+  }
+
+  circle.north-america {
+    fill: var(--color-salary-line-north-america);
+  }
+
+  line.europe,
+  path.europe,
+  polyline.europe {
+    fill: none;
+    stroke: var(--color-salary-line-europe);
+  }
+
+  circle.europe {
+    fill: var(--color-salary-line-europe);
+  }
+
+}
+
+.scale-salary-range {
+
+  .percentile-range {
+    fill: var(--color-salary-range-band);
+  }
+
+  line.median {
+    stroke: var(--color-salary-range-median);
+  }
+
+  circle.median-only {
+    fill: var(--color-salary-range-median);
+  }
+
+}
+
+.scale-salary-state {
+
+  .state-bar {
+    fill: var(--color-salary-state-bar);
+  }
+
+  line.median {
+    stroke: var(--color-salary-state-median);
+    stroke-dasharray: 6 3;
+  }
+
+  text.median {
+    fill: var(--color-salary-state-median);
+  }
+
+}
+
+.scale-gender-gap {
+
+  circle.women {
+    fill: var(--color-gender-gap-women);
+  }
+
+  circle.men {
+    fill: var(--color-gender-gap-men);
+  }
+
+  line.gap {
+    stroke: var(--color-border);
+    stroke-width: 1.5;
+  }
+
+  text.gap {
+    fill: var(--color-text-light);
+    font-size: 10px;
+    font-weight: 700;
+  }
+
+  text.median-value {
+    fill: var(--color-text-dark);
+    font-size: 10px;
+    font-weight: 400;
+  }
+
+}
+
+.donut-chart path {
+transition: var(--transition);
+fill-opacity: 1;
+}
+
+.donut-chart path:hover {
+fill-opacity: 0.8;
+}
+
+
+.bar-chart-vertical {
+
+	.gridlines {
+		stroke: var(--color-grid);
+		stroke-width: 1;
+	}
+
+	.axis-labels {
+		fill: var(--color-text-dark);
+		font-family: var(--font);
+		font-weight: 400;
+	}
+
+	.y-axis {
+		.axis-labels {
+			fill: var(--color-text-light);
+		}
+	}
+
+	.value-labels, .value-labels-outer, .value-labels-outer text, .value-labels-inner, .value-labels-inner text, .labels text {
+		fill: var(--color-text-dark);
+		font-family: var(--font);
+		font-weight: 400;
+	}
+
+	.labels .figure {
+		font-weight: 700;
+	}
+
+.donut-chart .value-labels-inner, .donut-chart .value-labels-inner text, .donut-chart .value-labels-inner tspan {
+fill: #FFF;
+}
+
+.bar-chart-horizontal .value-labels-inner,
+.bar-chart-horizontal .value-labels-inner text,
+.bar-chart-horizontal .value-labels-inner tspan,
+.bar-chart-horizontal text.value-labels-inner {
+fill: var(--color-text-dark);
+font-family: var(--font);
+font-size: 10px;
+font-weight: 600;
+}
+
+.bars {
+fill: var(--color-series-a);
+fill-opacity: 0.8;
+}
+
+.bars.chart-color-1 { fill: var(--color-chart-slot-1); }
+.bars.chart-color-2 { fill: var(--color-chart-slot-2); }
+.bars.chart-color-3 { fill: var(--color-chart-slot-3); }
+.bars.chart-color-4 { fill: var(--color-chart-slot-4); }
+.bars.chart-color-5 { fill: var(--color-chart-slot-5); }
+.bars.chart-color-6 { fill: var(--color-chart-slot-6); }
+
+.bars path,
+.bars rect {
+transition: var(--transition);
+	}
+
+	.bars path:hover,
+	.bars rect:hover {
+		fill-opacity: 1;
+	}
+
+}
+
+.line-chart {
+
+  .gridlines {
+    stroke: var(--color-grid);
+    stroke-width: 1;
+  }
+
+  .axis-labels {
+    fill: var(--color-text-dark);
+    font-family: var(--font);
+    font-weight: 400;
+  }
+
+  .y-axis {
+    .axis-labels {
+      fill: var(--color-text-light);
+    }
+  }
+
+}
+.bar-chart-horizontal {
+
+   .value-labels-inner {
+            fill: var(--color-text-dark);
+            font-family: var(--font);
+            font-size: 10px;
+            font-weight: 600;
+    }
+
+   .value-labels-inner text,
+   .value-labels-inner tspan {
+            fill: var(--color-text-dark);
+            font-size: 10px;
+            font-weight: 600;
+    }
+
+   rect.disagree,
+   rect.neutral,
+   rect.agree,
+   rect.dont-know {
+            transition: var(--transition);
+    }
+
+   rect.disagree:hover,
+   rect.neutral:hover,
+   rect.agree:hover,
+   rect.dont-know:hover {
+            fill-opacity: 0.8;
+    }
+
+   .track {
+            fill: var(--color-grid);
+    }
+
+   .value-labels-outer {
+            fill: var(--color-text-dark);
+            font-family: var(--font);
+            font-size: 10px;
+            font-weight: 700;
+    }
+
+}

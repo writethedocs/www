@@ -1,8 +1,9 @@
 region: Asia
 country: India
 city: Bangalore
-website: https://www.meetup.com/write-the-docs-india/events/
 meetup: Write-the-Docs-India
 organizers:
+   - name: Hari
+     link: https://www.meetup.com/members/476499879/
    - name: Rajakavitha Kodhandapani
      link: https://www.meetup.com/Write-the-Docs-India/members/11352773/

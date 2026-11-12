@@ -155,7 +155,7 @@
     the meaning of existing terminologies and the mental models they represent. </p>\n<p>What
     are the practical ways we can support the creation of new mental models to aid
     understanding?</p>\n</li>\n<li>\n<p>Fast and Slow Thinking - \nKahnemann - how
-    do we apply Kahnemann’s principles to Technical Writing \n We know people don’t
+    do we apply Kahneman’s principles to Technical Writing \n We know people don’t
     want to think, we know they prefer heuristics that are often biased to process
     information. Yet as Technical writers, we have to convey complex information that
     may require this less preferred deep thinking. </p>\n<p>What are the practical
@@ -164,64 +164,6 @@
     aren’t getting written, you’re overwhelmed and a new release is coming out. \nWhy
     culture matters and what it is? What is culture clash? \n How do we discover cultural
     indicators and work with them to promote an effective docs-first culture?</p>\n</li>\n</ol>"
-- title: Hitchhiker's Guide to Documentation Tools and Processes
-  slug: hitchhiker-s-guide-to-documentation-tools-and-processes-lukas-reu-ner
-  series: Write the Docs Prague
-  series_slug: prague
-  year: 2021
-  youtubeId: p8-ZLqYtD5o
-  sketchnoteLink: https://www.flickr.com/photos/writethedocs/51631909467/in/album-72157720128594755/
-  sketchnoteImage: https://live.staticflickr.com/65535/51631909467_85cea25836_b_d.jpg
-  speakers:
-  - name: Lukas Reußner
-    slug: lukas-reu-ner
-    twitter: '@lukasreussner'
-    website:
-  abstract: '<p>No matter if you are on earth or any other planet, it''s very likely
-    that one day some Vogon will approach you and ask you the ultimate question: Which
-    tool and process should we use for our documentation? And the worst thing about
-    it: the Vogon could be yourself.</p>
-
-    <p>Fortunately, there''s a simple answer to that question: DON''T PANIC!</p>
-
-    <p>The “small” rest of the answer will be part of this talk. It will guide you
-    through the maze of finding the right documentation tool(s) and the right documentation
-    process(s).</p>
-
-    <p>When it comes to documentation tools, you''ll find a million out there. At
-    least that''s what I encountered several times when I had to decide which tool
-    had to be used in a new documentation project. In this talk, we won''t dive into
-    the nitty-gritty of specific tools. We will focus on overarching categories, such
-    as:</p>
-
-    <ul>
-
-    <li>wikis</li>
-
-    <li>authoring systems</li>
-
-    <li>word processors</li>
-
-    <li>markup code toolchains</li>
-
-    <li>media editing tools</li>
-
-    </ul>
-
-    <p>We''ll then map those tool categories with the following types of use:</p>
-
-    <ul>
-
-    <li>user groups (contributors, consumers, and operators)</li>
-
-    <li>content tasks (creating, editing, reviewing, and styling)</li>
-
-    <li>output environments (findability, discoverability, and accessibility)</li>
-
-    </ul>
-
-    <p>And last but not least, we''ll have a look at different documentation processes
-    and how they fit to our defined tool categories and types of use.</p>'
 - title: How to write a book for (and with) an open source community
   slug: how-to-write-a-book-for-and-with-an-open-source-community-felicity-brand
   series: Write the Docs Prague
@@ -333,7 +275,7 @@
     <p>A little more than a year and a half ago the research group I''m working in
     asked me to take up "knowledge management". One of the key things that had to
     be addressed was that much of the documentation that we made ended up in somewhere
-    in one of our many storage spaces. We had no standardization on what was sored
+    in one of our many storage spaces. We had no standardization on what was stored
     where, and some of the locations were only visible to part of our group members.
     Our core business is to develop and share knowledge, so something had to be done!</p>
 
@@ -345,7 +287,7 @@
     but never made were indeed those that no one was interested in.</p>
 
     <p>In the process of standardizing and recreating our knowledge products, we had
-    a lot of hurdles to take, such as getting consesus what we actually need to document,
+    a lot of hurdles to take, such as getting consensus what we actually need to document,
     getting some kind of "definition of done" and determining the locations of file
     storage and how to get the right internal and external people the right access.
     In this presentation I can share the process we went through, and give our current

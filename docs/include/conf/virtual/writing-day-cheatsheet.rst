@@ -25,7 +25,7 @@ Even if you feel that you don’t know that much, or don’t have the right skil
 Have a project you want to work on?
 -----------------------------------
 
-During the introduction, we invite people to give a project summary in the Stage chat. The Writing Day coorindator will post a link to the project overviews in the Google sheet.
+During the introduction, we invite people to give a project summary in the Stage chat. The Writing Day coordinator will post a link to the project overviews in the Google sheet.
 
 As you prepare your project, consider what information and tasks people might need to help you with your idea and why people might want to work with you on it.
 

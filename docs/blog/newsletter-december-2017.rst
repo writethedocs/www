@@ -9,7 +9,7 @@ Write the Docs Newsletter – December 2017
 Hi everybody! Kelly O. here, with our last issue of 2017! It's been a gigantic year for the Write the Docs community. Just in the last month, our members have gotten up to some amazing stuff, including:
 
 * A very successful first Australian event! To catch up on how it went, `watch the videos <https://www.youtube.com/channel/UCPhWNEFb53x6PjnpRIYf1yg/videos>`_ or `read all about it <https://ffeathers.wordpress.com/2017/11/25/doc-sprint-at-write-the-docs-day-australia/>`_.
-* A lively and informative third API the Docs event in Amsterdam – `check out the recaps! <https://pronovix.com/api-docs-amsterdam-2017>`_.
+* A lively and informative third API the Docs event in Amsterdam – `check out the recaps! <https://pronovix.com/api-docs-amsterdam-2017>`_.
 * And two new podcast episodes, `one focused on the Mozilla Developer Network's Web Docs Project <http://bit.ly/wtdpodcastepisode11>`_ and `the other featuring an interview with WTD organizers Eric Holscher and Mikey Ariel as guests  <http://podcast.writethedocs.org/2017/12/13/founding-principles-of-write-the-docs/>`_!
 
 Not only are we ending the year on a high note, but we also have a TON of great stuff coming up in 2018 as well!

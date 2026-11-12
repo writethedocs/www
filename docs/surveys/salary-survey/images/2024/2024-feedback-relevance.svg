@@ -1,0 +1,42 @@
+<svg viewBox="0 55 660 194" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+	<defs>
+	
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2024-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+  <g id="2024-feedback-relevance">
+
+    <g class="title">
+      <text font-size="14"><tspan x="40" y="33">Survey feedback</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Questions are relevant</tspan></text>
+    </g>
+
+    <g class="donut-chart">
+
+      <path d="M180 226.061C180 225.461 180.003 224.861 180.01 224.261L270.004 225.304C270.001 225.544 270 225.784 270 226.024L180 226.061Z" fill="#C2255C" stroke="white" stroke-width="2"/>
+      <path d="M180.012 224.111C180.063 220.061 180.278 216.014 180.656 211.982L270.263 220.393C270.111 222.006 270.025 223.624 270.005 225.244L180.012 224.111Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+      <path d="M180.671 211.832C181.346 204.711 182.53 197.648 184.214 190.695L271.686 211.878C271.012 214.659 270.538 217.484 270.268 220.333L180.671 211.832Z" fill="#E9C168" stroke="white" stroke-width="2"/>
+      <path d="M184.249 190.55C190.784 163.684 204.617 139.147 224.22 119.649C243.824 100.15 268.435 86.4499 295.336 80.0603L316.134 167.624C305.374 170.18 295.529 175.66 287.688 183.459C279.847 191.259 274.313 201.073 271.7 211.82L184.249 190.55Z" fill="#82A555" stroke="white" stroke-width="2"/>
+      <path d="M295.482 80.0258C317.495 74.8202 340.401 74.6609 362.485 79.5598C384.569 84.4587 405.259 94.2889 423.006 108.315C440.754 122.341 455.099 140.199 464.969 160.553C474.839 180.907 479.977 203.229 480 225.85L390 225.94C389.991 216.892 387.935 207.963 383.988 199.821C380.04 191.679 374.301 184.536 367.202 178.926C360.103 173.316 351.828 169.383 342.994 167.424C334.16 165.464 324.998 165.528 316.193 167.61L295.482 80.0258Z" fill="#087F5B" stroke="white" stroke-width="2"/>
+      <path d="M470.579 106C465.579 106 443.411 119.585 441.705 120.63L440 121.675" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M185 110C190 110 212.169 123.585 213.874 124.63L215.579 125.675" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M147 210C152 210 176.727 218.034 178.63 218.652L180.532 219.271" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M148.761 184.821C153.717 185.483 177.163 196.721 178.967 197.586L180.77 198.45" stroke="#252521" stroke-dasharray="1 3"/>
+      <text font-size="10"><tspan x="475" y="108">Strongly agree</tspan></text>
+      <text font-size="10"><tspan x="156" y="111">Agree</tspan></text>
+      <text font-size="10"><tspan x="83" y="188">Neutral (2.7%)</tspan></text>
+      <text font-size="10"><tspan x="56" y="204">Disagree / strongly&#10;</tspan><tspan x="74" y="215">disagree (0.6%)</tspan></text>
+      <text font-size="14" class="value-labels-inner reverse"><tspan x="384" y="139">58.5%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="231" y="145">38.1%</tspan></text>
+
+    </g>
+
+  </g>
+
+</svg>

@@ -84,7 +84,7 @@ Regardless, clearly state what your project does and why.
 
 Fabric_ does a great job of this.
 
-.. _Fabric: http://docs.fabfile.org/
+.. _Fabric: https://docs.fabfile.org/
 
 Provide a small code example
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -93,7 +93,7 @@ Show a common example use case for your project.
 
 Requests_ is a great example.
 
-.. _Requests: https://requests.kennethreitz.org/en/master/
+.. _Requests: https://requests.readthedocs.io/
 
 Link to your code and issue tracker
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -103,7 +103,7 @@ so make your code easy to contribute.
 
 The `Python Guide`_ does a good job of this.
 
-.. _Python Guide: http://docs.python-guide.org/en/latest/index.html
+.. _Python Guide: https://docs.python-guide.org/
 
 Tell people how to get support
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -130,7 +130,7 @@ Once people decide to use your code, they need to install and run it. Keep your 
 
 `Read the Docs`_ does a good job with this.
 
-.. _Read the Docs: http://read-the-docs.readthedocs.org/en/latest/install.html
+.. _Read the Docs: https://docs.readthedocs.com/dev/latest/install.html
 
 State your project's license
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -164,8 +164,8 @@ A basic markup example
 	Resources
 	---------
 
-	* Online documentation: http://docs.writethedocs.org/
-	* Conference: http://conf.writethedocs.org/
+	* Website: https://www.writethedocs.org/
+	* Conferences: https://www.writethedocs.org/conf/
 
 This will render a nice HTML header and a list with automatically hyperlinked URLs.
 It's easy to write and still makes sense as plain text.

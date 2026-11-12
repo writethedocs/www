@@ -90,7 +90,7 @@ There are many options for hosting your content depending on how you write it.
   There is a reason it is so widely used.
   If you are familiar with Wordpress or want to become familiar with it, this is a good way to build those skills.
   Similar tools like `Squarespace <https://www.squarespace.com/>`_ or `Wix <https://wix.com>`_ are just as valid for hosting your samples.
-- A static site generator hosted on Github Pages, Netlify, or your own cloud storage.
+- A static site generator hosted on GitHub Pages, Netlify, or your own cloud storage.
   SSGs make it easy to convert mark up text into a static web site.
   Many documentation teams use SSGs to publish their docs.
   Use creating your portfolio to learn docs-as-code publishing steps and tools like markdown, Hugo, Mkdocs, Git, and so many more.
@@ -141,4 +141,4 @@ Other resources
 ~~~~~~~~~~~~~~~
 
 - The :doc:`topic index </topics>` has a Getting Hired heading with links to several previous Write the Docs newsletter articles about portfolios.
-- Community member Kyle Rollins wrote up a `guide for getting started with a portfolio website using Github and Netlify <https://basic-portfolio-docs.netlify.app/>`_.
+- Community member Kyle Rollins wrote up a `guide for getting started with a portfolio website using GitHub and Netlify <https://basic-portfolio-docs.netlify.app/>`_.

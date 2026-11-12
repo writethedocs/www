@@ -103,11 +103,11 @@ May 17 – Berkeley, CA, USA – `Hack-a-thon: Working with Managers When You're
 
 May 21 – Leeds, UK – `Social and discussion meetup <https://www.meetup.com/Write-the-Docs-Yorkshire/events/249578837/>`_
 
-May 22 – Budapest, Hungary – `Github: Why it will change the world of technical communication <https://www.meetup.com/Budapest-Technical-content-creators/events/249115186/>`_
+May 22 – Budapest, Hungary – `GitHub: Why it will change the world of technical communication <https://www.meetup.com/Budapest-Technical-content-creators/events/249115186/>`_
 
 May 24 – Los Angeles, CA, USA – `Documenting APIs, the Symantec way! <https://www.meetup.com/Write-the-Docs-LA/events/249946913/>`_
 
-May 28 – Amsterdam, Netherlands – `May meetup <https://www.meetup.com/Write-The-Docs-Amsterdam/events/249028095/>`_
+May 28 – Amsterdam, Netherlands – `May meetup <https://www.meetup.com/Write-The-Docs-Amsterdam/events/249028095/>`_
 
 May 31 – Brussels, Belgium – `Process first! <https://www.meetup.com/Write-The-Docs-Brussels/events/250299512/>`_
 

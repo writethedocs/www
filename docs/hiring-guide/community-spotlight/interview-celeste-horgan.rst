@@ -49,7 +49,7 @@ Key takeaways
     work with are native speakers. So when you're having a conversation about ensuring that a sentence communicates the essence of
     what was implemented technically, you are quite literally both speaking the same language. If you as a writer decided to reword
     something using simpler words, maybe using present tense, your subject matter expert or developer that you're working with knows
-    enough English to say, "No, that's not what I meant at all." So it's a a high level conversation. 
+    enough English to say, "No, that's not what I meant at all." So it's a high level conversation. 
     
     Commercetools is a very diverse company. For most of the people that I work with English is not their first language. It might
     not be their second language. It's sometimes their third, fourth, or fifth language; because that's how Europe works. So when I

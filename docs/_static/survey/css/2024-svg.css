@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wdth,wght@75..125,100..900&display=swap');
+
+:root {
+	--color-text-dark: #50514F;
+	--color-text-light: #999999;
+	--color-text-contrast: #FFFFFF;
+	--color-grid: #F2F4F6;
+	--color-series-a: #00AEFF;
+	--color-series-b: #FFA600;
+	--font: "Asap", sans-serif;
+	--transition: all 0.3s ease-in-out;
+
+	--color-more: #97BB50;
+	--color-same: #CDC899;
+	--color-less: #F09100;
+
+	--color-very-confident: #008dcf;
+	--color-confident: #00b7e1;
+	--color-neutral: #00dfe1;
+	--color-not-confident: #00b281;
+	--color-not-confident-at-all: #048000;
+}
+
+text {
+	font-family: 'asap',sans-serif;
+	fill: var(--color-text-dark);
+	&.reverse {
+		fill: var(--color-text-contrast);
+	}
+}
+
+.title {
+	display: none;
+	fill: var(--color-text-dark);
+	font-family: var(--font);
+	font-weight: 500;
+	.subtitle {
+		fill: var(--color-text-light);
+		font-weight: 400;
+	}
+}
+
+.donut-chart {
+
+	text.value-labels-inner {
+		font-weight: 700;
+	}
+
+}
+
+
+.bar-chart-vertical {
+
+	.gridlines {
+		stroke: var(--color-grid);
+		stroke-width: 1;
+	}
+	
+	.axis-labels {
+		fill: var(--color-text-dark);
+		font-family: var(--font);
+		font-weight: 400;
+	}
+	
+	.y-axis {
+		.axis-labels {
+			fill: var(--color-text-light);
+		}
+	}
+
+	.value-labels, .value-labels-outer, .value-labels-outer text, .value-labels-inner, .value-labels-inner text, .labels text {
+		fill: var(--color-text-dark);
+		font-family: var(--font);
+		font-weight: 400;
+	}   
+	
+	.labels .figure {
+		font-weight: 700;
+	}
+	
+	.value-labels-inner, .value-labels-inner text {
+		fill: #FFF;
+	}
+	
+	.bars {
+		fill: var(--color-series-a);
+		fill-opacity: 0.8;
+	}
+	
+	.bars path {
+		transition: var(--transition);
+	}
+	
+	.bars path:hover {
+		fill-opacity: 1;
+	}
+
+}
+
+.bar-chart-horizontal {
+
+	.value-labels-inner {
+		fill: var(--color-text-dark);
+		font-family: var(--font);
+		font-weight: 700;
+	}   
+
+}

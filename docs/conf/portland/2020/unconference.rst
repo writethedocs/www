@@ -54,7 +54,7 @@ Attend a session
 
 * Starting Monday morning, check the `Unconference sign-up sheet <https://docs.google.com/spreadsheets/d/1HPAXim5gkPmwhANJwngWcg1d09KHqOj3vILn5Tc5V9A/edit#gid=1493675134>`__ to see whether there are any sessions you want to join. New sessions are added all the time, so check back periodically.
 
-* At the time your chosen sessions start, join the session in Hopin that correspsond to the table number of the session. Sessions are limited to 20 participants, but you can check out a session without joining it too.
+* At the time your chosen sessions start, join the session in Hopin that correspond to the table number of the session. Sessions are limited to 20 participants, but you can check out a session without joining it too.
 
 * It's fine to join a session, decide it's not right for you, bow out politely, and join another session.
 

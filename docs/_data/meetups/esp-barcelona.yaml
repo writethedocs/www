@@ -1,8 +1,13 @@
 region: Europe
 country: Spain
 city: Barcelona
-website: https://www.meetup.com/write-the-docs-barcelona/events/
 meetup: Write-the-Docs-Barcelona
 organizers:
+  - name: Mary-Jane Smyth
+    link: https://www.meetup.com/members/183419833/
+  - name: Ian C
+    link: https://www.meetup.com/members/305578139/
+  - name: Dani Del Carmen
+    link: https://www.meetup.com/members/220283146/
   - name: Fabrizio Ferri-Benedetti
     link: https://www.meetup.com/Write-the-Docs-Barcelona/members/87132972/profile

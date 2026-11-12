@@ -64,9 +64,9 @@ Home - Write the Docs {{ name }} {{ year }}
         <div class="ctas-block">
 
          {% if buttons is defined and buttons.top %}
-         {% for callout in buttons.top %}
-           <a class="uk-button uk-button-secondary uk-text-center" href="{% if callout.link_absolute %}{{ callout.link_absolute }}{% else %}{{ pathto('conf/' + shortcode + '/' + year_str + callout.link ) }}{% endif %}">{{ callout.text }}</a>
-         {% endfor %}
+         <div style="display:flex; flex-direction:inherit; flex-wrap:nowrap; gap:12px; justify-content:inherit; align-items:stretch;">{% for callout in buttons.top %}
+           {{ button_link(callout.link_absolute or pathto('conf/' + shortcode + '/' + year_str + callout.link), callout.text, year, wrap=False, new_tab=False, contrast=True) }}
+         {% endfor %}</div>
          {% endif %}
 
         </div>
@@ -101,9 +101,7 @@ Home - Write the Docs {{ name }} {{ year }}
   <div class="announcement">
     <div class="uk-container">
       <p style="vertical-align: middle;">Want to receive conference and community updates?</p>
-      <a class="uk-button uk-button-announcement" href="{{ pathto('conf/' + shortcode + '/' + year_str + '/mailing-list' ) }}">
-        Join our Mailing List
-      </a>
+      {{ button_link(pathto('conf/' + shortcode + '/' + year_str + '/mailing-list'), 'Join our Mailing List', year, wrap=False, new_tab=False) }}
     </div>
   </div><!--- end announcement -->
 
@@ -119,7 +117,7 @@ Home - Write the Docs {{ name }} {{ year }}
       about documentation: Programmers, Tech Writers,
       Customer Support, Designers, Project Managers,
       Developer Advocates, and anyone else who wants people
-      to have a great experience with software. 
+      to have a great experience with software.
       </p>
       <p>
       Created in 2013 in Portland, Oregon, WTD has hosted
@@ -191,7 +189,7 @@ Home - Write the Docs {{ name }} {{ year }}
     <div class="schedule-item uk-width-1-{{ 1 + date.total_talk_days }}@s">
       <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/conversation' + '-' + color +  '.svg', 1) }}" alt="" >
       <h3>Unconference</h3>
-      <em>{{ date.conference.date }}</em> 
+      <em>{{ date.conference.date }}</em>
       <p>Share ideas, solve problems and participate in discussions. Anyone can suggest, lead and attend an Unconference.</p>
     </div>
 
@@ -210,18 +208,18 @@ Home - Write the Docs {{ name }} {{ year }}
     {% endif %}
 
 
-    {% if flaghasjobfair %}
+    {% if flaghassponsorexpo %}
 
     <div class="schedule-item uk-width-1-{{ 1 + date.total_talk_days }}@s">
       <img style="height: 150px;" src="{{ pathto('_static/conf/images/icons/sponsor-expo' + '-' + color +  '.svg', 1) }}"" alt="" >
       <h3>Sponsor Expo</h3>
       <em>{{ date.conference.date }}</em>
-      <p>Engage with our sponsors, discuss job opportunities and interact with new products.</p>  
+      <p>Engage with our sponsors, discuss job opportunities and interact with new products.</p>
     </div>
 
     {% endif %}
 
-      {% if flagspeakersannounced %}
+      {% if flagshasschedule %}
 
       <div class="learn-more">
         <a class="uk-align-right" href="{{ pathto('conf/' + shortcode + '/' + year_str + '/schedule') }}">See the full schedule</a>

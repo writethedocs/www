@@ -11,15 +11,10 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 
 Write the Docs Portland is just two months away, and we have some exciting updates to share. If you haven’t grabbed your ticket yet, now is the perfect time. Check out all the latest details below.
 
-   <p style="margin: 2em 0;">
-   <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
-   <tr>
-      <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-         <a href="https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Buy your ticket</a>
-      </td>
-   </tr>
-   </table>
-   </p>
+```{button-link} https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/
+:year: {{ year }}
+Buy your ticket
+```
 
 ### Pre-Conference Speaker Discussions 
 
@@ -31,7 +26,7 @@ These will take place on March 18, 24, and April 1 at 12pm PST. More information
 
 ### Virtual Conference Tickets
 
-We are looking at how we handle in-person and virtual conferences going forward, and are planning to test out a virtual ticket for Portland this year. As part of this, we're looking at perhaps bringing an hybrid conference back in Europe, but haven't firmed up any details there.
+We are looking at how we handle in-person and virtual conferences going forward, and are planning to test out a virtual ticket for Portland this year. As part of this, we're looking at perhaps bringing a hybrid conference back in Europe, but haven't firmed up any details there.
 
 The virtual ticket option includes:
 
@@ -47,15 +42,10 @@ Head to our [Tickets page](https://www.writethedocs.org/conf/portland/2025/ticke
 
 Our Writing Day Call for Projects is open. If you're interested in leading a project, we *highly* encourage you to submit your project ahead of time. This is a great way to build momentum and prepare attendees to show up ready to contribute to your project. 
 
-   <p style="margin: 2em 0;">
-   <table border="0" cellpadding="0" cellspacing="0" style="background-color:#2ECC71; border:1px solid #4a4a4a; border-radius:5px;">
-   <tr>
-      <td align="center" valign="middle" style="color:#FFFFFF; font-family:Helvetica, Arial, sans-serif; font-size:16px; font-weight:bold; letter-spacing:-.5px; line-height:150%; padding-top:15px; padding-right:30px; padding-bottom:15px; padding-left:30px;">
-         <a href="https://docs.google.com/forms/d/e/1FAIpQLSeHMZ1uXTfnT0HMm-KfsgxYV1w3tmS7bMPtBx4H9cktJpSrdg/viewform?usp=dialog" target="_blank" style="color:#FFFFFF; text-decoration:none; border-bottom: none;">Submit your project</a>
-      </td>
-   </tr>
-   </table>
-   </p>
+```{button-link} https://docs.google.com/forms/d/e/1FAIpQLSeHMZ1uXTfnT0HMm-KfsgxYV1w3tmS7bMPtBx4H9cktJpSrdg/viewform?usp=dialog
+:year: {{ year }}
+Submit your project
+```
 
 All projects submitted by April 23, 2025 will be included on our website. 
 

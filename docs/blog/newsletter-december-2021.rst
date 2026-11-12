@@ -71,7 +71,7 @@ A short read: Over at Tech Crunch, `Why DEI programs are failing <https://techcr
 
 A longer read: A little old, but still relevant, last year’s `McKinsey and Company's 2020 report on Diversity and Inclusion <https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters>`__ concludes that companies investing in DE&I are more profitable than those that are not. You can download the full report at the end of the summary.
 
-For a longer time investment: Check out `Diversity Inc Best Practices' Webinar Recap: Let's talk Microagressions <https://www.diversityincbestpractices.com/webinar-recap-lets-talk-microaggressions/>`__. In this webinar, the panelists define microaggressions, discuss when they first encountered them, how to respond to them, and what their companies are doing to combat them.
+For a longer time investment: Check out `Diversity Inc Best Practices' Webinar Recap: Let's talk Microaggressions <https://www.diversityincbestpractices.com/webinar-recap-lets-talk-microaggressions/>`__. In this webinar, the panelists define microaggressions, discuss when they first encountered them, how to respond to them, and what their companies are doing to combat them.
 
 -----------------
 From our sponsors

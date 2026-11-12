@@ -1,0 +1,33 @@
+{#-
+  The front page: a hero in place of the photo banner, like the conference
+  front pages, and the page content at full width so docs/index.md can lay
+  out its own sections (see the home-section rules in _community.scss). The
+  hero's text and buttons come from `home` in _data/community.yaml.
+-#}
+{%- extends "layout.html" %}
+
+{%- block community_header %}
+<header class="community-hero" style="background-image: linear-gradient(rgba(19, 37, 48, 0.8), rgba(19, 37, 48, 0.68)), url('{{ pathto(page_banner, 1) }}')">
+  {{ navbar() }}
+  <div class="community-container community-hero__content">
+    <img class="community-hero__logo" src="/_static/sticker-wtd-colors.png" alt="" width="200" height="200">
+    <div class="community-hero__text">
+      <h1>{{ community.home.hero.title }}</h1>
+      <p>{{ community.home.hero.text }}</p>
+      <div class="community-hero__buttons">
+        {%- for button in community.home.hero.buttons %}
+        {{ button_link(button.link, button.text, wrap=False, new_tab=False, contrast=True) }}
+        {%- endfor %}
+      </div>
+    </div>
+  </div>
+</header>
+{%- endblock %}
+
+{%- block content %}
+<div class="community-home">
+  <div id="main-content" class="body" role="main">
+    {% block body %}{{ body }}{% endblock %}
+  </div>
+</div>
+{%- endblock %}

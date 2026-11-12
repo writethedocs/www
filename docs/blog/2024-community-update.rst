@@ -50,7 +50,7 @@ Documentation Salary Survey
 
 Our annual salary survey gathers data about salaries for people working in documentation and related fields around the world. We heard from someone at our Portland conference that they were able to use this data to get a raise of 25%!
 
-Our 2024 survey will open in early September, and we would love to have your input on the questions. There is a `Salary survey Github repo <https://github.com/writethedocs/salary-survey>`_ where you can see the proposed questions for this year, and contribute your thoughts on what should be included.
+Our 2024 survey will open in early September, and we would love to have your input on the questions. There is a `Salary survey GitHub repo <https://github.com/writethedocs/salary-survey>`_ where you can see the proposed questions for this year, and contribute your thoughts on what should be included.
 
 `Results of the 2023 salary survey <https://www.writethedocs.org/surveys/salary-survey/2023/>`__ are available on our website.
 

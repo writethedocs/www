@@ -41,7 +41,7 @@ Our pre-conference `Writing Day <https://www.writethedocs.org/conf/{{shortcode}}
 
 If you have a project or are part of a community that you think would benefit from a writing sprint, start brainstorming now about what you might want to focus on.
 If you'd like us to include your project on the Writing Day page `submit your project <https://forms.gle/KPo1ZPuRHqf7UZy37>`_ and we'll
-add it to our `Writing Day project list <https://www.writethedocs.org/conf/atlantic/{{year}}/writing-day/#your-project-here>`__.
+add it to our `Writing Day project list <https://www.writethedocs.org/conf/atlantic/{{year}}/writing-day/#project-list>`__.
 You can also just show up on Sunday ready to introduce your project, but getting it on the website in advance can increase interest.
 
 

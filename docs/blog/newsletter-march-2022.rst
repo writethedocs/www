@@ -44,7 +44,7 @@ The contrarian view: reasons to use "utilize"
 
 It's a technical writing commonplace to prefer shorter, simpler words. As George Orwell put it, `"Never use a long word where a short one will do" <https://en.wikipedia.org/wiki/Politics_and_the_English_Language>`__. On this basis, "utilize" is a common target for replacement.
 
-But is there ever a time when you *should* use "utilize", instead of replacing it with a less pretentious substitute? Of course there is.
+But is there ever a time when you *should* use "utilize", instead of replacing it with a less pretentious substitute? Of course, there is.
 
 One reason for using the word is to avoid semantic satiation in a sentence - when "use" is too close to other words like user, end-users, or the phrase "use process A". Another example when utilize might be the best choice is if precision is warranted — such as when describing something’s capacity, or the quantity of a resource being used. An example of this would be: "When CPU utilization exceeds 75%, use a load balancer". Here, utilization — as in the practical or effective use of something — makes sense because it fits the sentence’s professional and technical context.
  

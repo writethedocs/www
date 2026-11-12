@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="World map showing 755 respondents across 48 countries, dots sized by respondent count.">
+  <rect width="1200" height="630" fill="#ffffff"/>
+  <text x="600.0" y="42" font-family="Georgia, serif" font-size="28" fill="#1a1a1a" font-weight="700" text-anchor="middle">755 documentarians from 48 countries</text>
+  <text x="600.0" y="70" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#555555" text-anchor="middle">Each dot is a country. Dot size shows the number of respondents.</text>
+  <rect x="50" y="110" width="1100" height="400" fill="#F5F7F8" stroke="#E0E4E8" stroke-width="1"/>
+  <g stroke="#E0E4E8" stroke-width="0.6" stroke-dasharray="2,3">
+    <line x1="50.0" y1="110" x2="50.0" y2="510"/>
+    <line x1="144.3" y1="110" x2="144.3" y2="510"/>
+    <line x1="238.6" y1="110" x2="238.6" y2="510"/>
+    <line x1="332.9" y1="110" x2="332.9" y2="510"/>
+    <line x1="427.1" y1="110" x2="427.1" y2="510"/>
+    <line x1="521.4" y1="110" x2="521.4" y2="510"/>
+    <line x1="615.7" y1="110" x2="615.7" y2="510"/>
+    <line x1="710.0" y1="110" x2="710.0" y2="510"/>
+    <line x1="804.3" y1="110" x2="804.3" y2="510"/>
+    <line x1="898.6" y1="110" x2="898.6" y2="510"/>
+    <line x1="992.9" y1="110" x2="992.9" y2="510"/>
+    <line x1="1087.1" y1="110" x2="1087.1" y2="510"/>
+    <line x1="50" y1="510.0" x2="1150" y2="510.0"/>
+    <line x1="50" y1="417.7" x2="1150" y2="417.7"/>
+    <line x1="50" y1="325.4" x2="1150" y2="325.4"/>
+    <line x1="50" y1="233.1" x2="1150" y2="233.1"/>
+    <line x1="50" y1="140.8" x2="1150" y2="140.8"/>
+  </g>
+  <line x1="50" y1="340.8" x2="1150" y2="340.8" stroke="#C8CDD2" stroke-width="0.8"/>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#C8CDD2" font-weight="700" letter-spacing="3" text-anchor="middle">
+    <text x="113" y="285">PACIFIC</text>
+    <text x="490" y="310">ATLANTIC</text>
+    <text x="820" y="433">INDIAN OCEAN</text>
+  </g>
+  <g>
+    <circle cx="262.1" cy="268.2" r="4.0" fill="#1A4A8C" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="639.9" cy="205.7" r="4.0" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="632.1" cy="202.0" r="4.0" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="720.7" cy="210.6" r="4.0" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="610.1" cy="196.8" r="4.0" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="694.9" cy="221.1" r="4.0" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="911.8" cy="230.3" r="4.0" fill="#E4774E" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="942.3" cy="343.2" r="4.0" fill="#E4774E" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="802.1" cy="247.2" r="4.0" fill="#E4774E" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="985.9" cy="230.3" r="4.0" fill="#E4774E" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="384.4" cy="458.9" r="4.0" fill="#C9933D" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="350.8" cy="326.6" r="4.0" fill="#C9933D" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="611.6" cy="312.8" r="4.0" fill="#B85C5C" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="630.2" cy="194.6" r="4.0" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="664.4" cy="209.4" r="4.0" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="689.3" cy="232.8" r="4.0" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="614.1" cy="167.5" r="4.0" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="623.9" cy="211.8" r="4.0" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="611.0" cy="154.6" r="4.0" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="910.5" cy="336.8" r="4.0" fill="#E4774E" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="838.2" cy="316.5" r="4.0" fill="#E4774E" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="924.7" cy="297.4" r="4.0" fill="#E4774E" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="656.3" cy="434.9" r="4.0" fill="#B85C5C" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="598.4" cy="185.4" r="4.0" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="645.6" cy="195.5" r="4.0" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="650.3" cy="205.4" r="4.0" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="682.3" cy="191.8" r="4.0" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="1018.9" cy="229.4" r="4.0" fill="#E4774E" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="665.1" cy="150.3" r="4.0" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="642.7" cy="155.8" r="4.0" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="1134.0" cy="466.6" r="4.0" fill="#5EA1B8" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="558.5" cy="219.5" r="4.2" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="633.0" cy="187.5" r="4.7" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="662.9" cy="160.5" r="4.7" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="644.3" cy="181.1" r="5.0" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="572.7" cy="216.2" r="5.0" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="694.0" cy="245.4" r="5.0" fill="#8E5DA8" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="600.9" cy="180.5" r="5.4" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="559.1" cy="176.5" r="5.7" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="661.6" cy="199.5" r="6.6" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="591.2" cy="197.4" r="7.6" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="421.2" cy="384.5" r="7.8" fill="#C9933D" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="1004.8" cy="418.6" r="9.9" fill="#5EA1B8" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="832.3" cy="277.4" r="10.4" fill="#E4774E" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="617.3" cy="183.2" r="12.3" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="576.7" cy="174.0" r="12.6" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="250.2" cy="168.2" r="13.7" fill="#1A4A8C" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+    <circle cx="274.4" cy="218.3" r="38.0" fill="#1A4A8C" fill-opacity="0.78" stroke="#ffffff" stroke-width="1.2"/>
+  </g>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1a1a1a" font-weight="700">
+    <text x="274.4" y="268.3" text-anchor="middle">United States <tspan fill="#666" font-weight="400">400</tspan></text>
+    <text x="250.2" y="123.2" text-anchor="middle">Canada <tspan fill="#666" font-weight="400">52</tspan></text>
+    <text x="526.7" y="169.0" text-anchor="end">United Kingdom <tspan fill="#666" font-weight="400">44</tspan></text>
+    <text x="667.3" y="158.2" text-anchor="start">Germany <tspan fill="#666" font-weight="400">42</tspan></text>
+    <text x="857.3" y="282.4" text-anchor="start">India <tspan fill="#666" font-weight="400">30</tspan></text>
+    <text x="1043.9" y="229.4" text-anchor="start">Japan <tspan fill="#666" font-weight="400">3</tspan></text>
+    <text x="1004.8" y="468.6" text-anchor="middle">Australia <tspan fill="#666" font-weight="400">27</tspan></text>
+    <text x="391.2" y="384.5" text-anchor="end">Brazil <tspan fill="#666" font-weight="400">17</tspan></text>
+  </g>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#1a1a1a">
+    <text x="50" y="540" font-weight="700" font-size="13" fill="#555" letter-spacing="1.2">RESPONDENTS PER COUNTRY</text>
+    <circle cx="60" cy="565" r="4.0" fill="#999999" fill-opacity="0.55" stroke="#ffffff" stroke-width="1"/><text x="60" y="597" text-anchor="middle" font-size="12" fill="#555">1</text>
+    <circle cx="110" cy="565" r="4.2" fill="#999999" fill-opacity="0.55" stroke="#ffffff" stroke-width="1"/><text x="110" y="597" text-anchor="middle" font-size="12" fill="#555">5</text>
+    <circle cx="170" cy="565" r="13.4" fill="#999999" fill-opacity="0.55" stroke="#ffffff" stroke-width="1"/><text x="170" y="597" text-anchor="middle" font-size="12" fill="#555">50</text>
+    <circle cx="240" cy="565" r="38.0" fill="#999999" fill-opacity="0.55" stroke="#ffffff" stroke-width="1"/><text x="240" y="597" text-anchor="middle" font-size="12" fill="#555">400</text>
+    <text x="370" y="540" font-weight="700" font-size="13" fill="#555" letter-spacing="1.2">REGION</text>
+    <circle cx="378" cy="565" r="6" fill="#1A4A8C" fill-opacity="0.78" stroke="#ffffff" stroke-width="1"/><text x="392" y="569" font-size="13">North America</text>
+    <circle cx="558" cy="565" r="6" fill="#82A555" fill-opacity="0.78" stroke="#ffffff" stroke-width="1"/><text x="572" y="569" font-size="13">Europe</text>
+    <circle cx="688" cy="565" r="6" fill="#E4774E" fill-opacity="0.78" stroke="#ffffff" stroke-width="1"/><text x="702" y="569" font-size="13">Asia</text>
+    <circle cx="778" cy="565" r="6" fill="#5EA1B8" fill-opacity="0.78" stroke="#ffffff" stroke-width="1"/><text x="792" y="569" font-size="13">Oceania</text>
+    <circle cx="378" cy="595" r="6" fill="#C9933D" fill-opacity="0.78" stroke="#ffffff" stroke-width="1"/><text x="392" y="599" font-size="13">South America</text>
+    <circle cx="558" cy="595" r="6" fill="#8E5DA8" fill-opacity="0.78" stroke="#ffffff" stroke-width="1"/><text x="572" y="599" font-size="13">Middle East</text>
+    <circle cx="688" cy="595" r="6" fill="#B85C5C" fill-opacity="0.78" stroke="#ffffff" stroke-width="1"/><text x="702" y="599" font-size="13">Africa</text>
+  </g>
+</svg>

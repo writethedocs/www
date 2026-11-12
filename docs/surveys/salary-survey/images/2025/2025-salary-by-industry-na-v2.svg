@@ -1,0 +1,357 @@
+<svg viewBox="0 0 660 470" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+        .range-row rect,
+        .range-row line,
+        .point-row circle {
+          transition: opacity 0.15s ease;
+        }
+        .range-row rect,
+        .range-row line {
+          opacity: 0.8;
+        }
+        .point-row circle {
+          opacity: 0.5;
+        }
+        .range-row:hover rect,
+        .range-row:hover line,
+        .point-row:hover circle {
+          opacity: 1;
+        }
+      ]]>
+    </style>
+  </defs>
+
+  <g id="2025-salary-by-industry-na-v2" class="scale-salary-range">
+    <g class="chart-header">
+      <g class="chart-title">
+        <text x="20" y="35" class="title-text"><tspan x="20" y="35">Salary (USD)</tspan><tspan x="20" y="53">by industry — North America</tspan></text>
+        <text x="20" y="76" class="subtitle-text"><tspan x="20" y="76">Bars show 25th–75th percentile range,</tspan><tspan x="20" y="92">markers show median</tspan></text>
+      </g>
+
+      <g class="legend">
+        <g class="legend-row">
+          <g class="legend-item">
+            <rect class="legend-item-container" x="310" y="20" width="134"/>
+            <rect class="percentile-range" x="323" y="27" width="16" height="8" rx="1"/>
+            <text class="legend-label" x="344" y="35">25th–75th percentile</text>
+          </g>
+          <g class="legend-item">
+            <rect class="legend-item-container" x="454" y="20" width="65"/>
+            <line class="median" x1="467" y1="28" x2="467" y2="36" stroke-width="3"/>
+            <text class="legend-label" x="475" y="35">Median</text>
+          </g>
+          <g class="legend-item">
+            <rect class="legend-item-container" x="529" y="20" width="111"/>
+            <circle class="median-only" cx="542" cy="31" r="4"/>
+            <text class="legend-label" x="550" y="35">Median only (&lt;30)</text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <g class="chart-area bar-chart-horizontal scale-salary-range" transform="translate(0 70)">
+      <g class="grid" stroke="#E8E8E8" stroke-width="1">
+        <line x1="224.0" y1="66" x2="224.0" y2="348"/>
+        <line x1="320.0" y1="66" x2="320.0" y2="348"/>
+        <line x1="416.0" y1="66" x2="416.0" y2="348"/>
+        <line x1="512.0" y1="66" x2="512.0" y2="348"/>
+      </g>
+
+      <g class="labels" font-size="10" text-anchor="end">
+        <text><tspan x="120" y="80">Advertising</tspan></text>
+        <text><tspan x="120" y="108">Data/analytics</tspan></text>
+        <text><tspan x="120" y="136">Security</tspan></text>
+        <text><tspan x="120" y="164">Telecoms</tspan></text>
+        <text><tspan x="120" y="192">Software</tspan></text>
+        <text><tspan x="120" y="220">Business services</tspan></text>
+        <text><tspan x="120" y="248">Finance</tspan></text>
+        <text><tspan x="120" y="276">Manufacturing</tspan></text>
+        <text><tspan x="120" y="304">Government</tspan></text>
+        <text><tspan x="120" y="332">Healthcare</tspan></text>
+      </g>
+
+      <g class="tracks">
+        <rect class="track" x="128" y="66" width="480" height="20"/>
+        <rect class="track" x="128" y="94" width="480" height="20"/>
+        <rect class="track" x="128" y="122" width="480" height="20"/>
+        <rect class="track" x="128" y="150" width="480" height="20"/>
+        <rect class="track" x="128" y="178" width="480" height="20"/>
+        <rect class="track" x="128" y="206" width="480" height="20"/>
+        <rect class="track" x="128" y="234" width="480" height="20"/>
+        <rect class="track" x="128" y="262" width="480" height="20"/>
+        <rect class="track" x="128" y="290" width="480" height="20"/>
+        <rect class="track" x="128" y="318" width="480" height="20"/>
+      </g>
+
+      <g class="ranges">
+        <g class="range-row">
+          <rect x="381.1" y="66" width="226.9" height="20" class="percentile-range" rx="2"/>
+          <line x1="505.6" y1="63" x2="505.6" y2="89" class="median" stroke-width="3"/>
+        </g>
+        <g class="range-row">
+          <rect x="388.2" y="94" width="219.8" height="20" class="percentile-range" rx="2"/>
+          <line x1="504.1" y1="91" x2="504.1" y2="117" class="median" stroke-width="3"/>
+        </g>
+        <g class="range-row">
+          <rect x="396.1" y="122" width="142.9" height="20" class="percentile-range" rx="2"/>
+          <line x1="463.5" y1="119" x2="463.5" y2="145" class="median" stroke-width="3"/>
+        </g>
+        <g class="range-row">
+          <rect x="352.3" y="150" width="208.3" height="20" class="percentile-range" rx="2"/>
+          <line x1="462.3" y1="147" x2="462.3" y2="173" class="median" stroke-width="3"/>
+        </g>
+        <g class="range-row">
+          <rect x="343.3" y="178" width="192.4" height="20" class="percentile-range" rx="2"/>
+          <line x1="435.0" y1="175" x2="435.0" y2="201" class="median" stroke-width="3"/>
+        </g>
+        <g class="range-row">
+          <rect x="320.0" y="234" width="168.1" height="20" class="percentile-range" rx="2"/>
+          <line x1="378.3" y1="231" x2="378.3" y2="257" class="median" stroke-width="3"/>
+        </g>
+        <g class="range-row">
+          <rect x="319.5" y="262" width="108.5" height="20" class="percentile-range" rx="2"/>
+          <line x1="349.5" y1="259" x2="349.5" y2="285" class="median" stroke-width="3"/>
+        </g>
+        <g class="range-row">
+          <rect x="300.7" y="318" width="100.3" height="20" class="percentile-range" rx="2"/>
+          <line x1="342.8" y1="315" x2="342.8" y2="341" class="median" stroke-width="3"/>
+        </g>
+      </g>
+
+      <g class="median-points">
+        <g class="point-row"><circle cx="397.4" cy="216" r="5" class="median-only"/></g>
+        <g class="point-row"><circle cx="347.1" cy="300" r="5" class="median-only"/></g>
+      </g>
+
+      <g class="value-labels-outer" text-anchor="end">
+        <text><tspan x="640" y="80">$158K</tspan></text>
+        <text><tspan x="640" y="108">$157K</tspan></text>
+        <text><tspan x="640" y="136">$140K</tspan></text>
+        <text><tspan x="640" y="164">$140K</tspan></text>
+        <text><tspan x="640" y="192">$128K</tspan></text>
+        <text><tspan x="640" y="220">$112K</tspan></text>
+        <text><tspan x="640" y="248">$105K</tspan></text>
+        <text><tspan x="640" y="276">$93K</tspan></text>
+        <text><tspan x="640" y="304">$92K</tspan></text>
+        <text><tspan x="640" y="332">$90K</tspan></text>
+      </g>
+
+      <g class="x-axis" text-anchor="middle">
+        <line x1="128" y1="358" x2="608" y2="358" stroke="#F0F0F0" stroke-width="1"/>
+        <g class="axis-labels">
+          <text font-size="10"><tspan x="128" y="378">$0</tspan></text>
+          <text font-size="10"><tspan x="224.0" y="378">$40K</tspan></text>
+          <text font-size="10"><tspan x="320.0" y="378">$80K</tspan></text>
+          <text font-size="10"><tspan x="416.0" y="378">$120K</tspan></text>
+          <text font-size="10"><tspan x="512.0" y="378">$160K</tspan></text>
+          <text font-size="10"><tspan x="608.0" y="378">$200K</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <script type="application/ecmascript"><![CDATA[
+    (function () {
+      var root = document.querySelector('svg > g[id], g[id]');
+      if (!root) {
+        return;
+      }
+
+      var ignoredClasses = {
+        'legend-item-container': true,
+        'legend-label': true,
+        'legend-item': true,
+        'legend-row': true,
+        'slice': true,
+        'track': true,
+        'tracks': true,
+        'bars': true,
+        'data-series': true,
+        'series-lines': true,
+        'chart-area': true,
+        'chart-header': true,
+        'chart-title': true,
+        'axis-labels': true,
+        'gridlines': true,
+        'value-labels-inner': true,
+        'value-labels-outer': true,
+        'chart-color-1': true,
+        'chart-color-2': true,
+        'chart-color-3': true,
+        'chart-color-4': true,
+        'chart-color-5': true,
+        'chart-color-6': true
+      };
+
+      function firstSeriesClass(element) {
+        if (!element || !element.classList) {
+          return null;
+        }
+
+        for (var i = 0; i < element.classList.length; i += 1) {
+          var className = element.classList[i];
+          if (!ignoredClasses[className]) {
+            return className;
+          }
+        }
+
+        return null;
+      }
+
+      function legendSeries(item) {
+        var swatch = item.querySelector('circle[class], rect[class]:not(.legend-item-container), line[class], polyline[class], path[class], ellipse[class], polygon[class]');
+        return firstSeriesClass(swatch);
+      }
+
+      var legendItems = Array.prototype.slice.call(root.querySelectorAll('.legend-item')).filter(function (item) {
+        return !!legendSeries(item);
+      });
+
+      if (legendItems.length === 0) {
+        return;
+      }
+
+      var seriesNames = [];
+      legendItems.forEach(function (item) {
+        var series = legendSeries(item);
+        item.setAttribute('data-series', series);
+        if (!item.hasAttribute('tabindex')) {
+          item.setAttribute('tabindex', '0');
+        }
+        item.style.cursor = 'pointer';
+
+        var container = item.querySelector('rect.legend-item-container');
+        if (container) {
+          container.style.transition = 'opacity 220ms ease-in-out, stroke 220ms ease-in-out, stroke-width 220ms ease-in-out';
+        }
+
+        var label = item.querySelector('text.legend-label');
+        if (label) {
+          label.style.transition = 'opacity 220ms ease-in-out';
+        }
+
+        if (seriesNames.indexOf(series) === -1) {
+          seriesNames.push(series);
+        }
+      });
+
+      var elementsBySeries = {};
+      seriesNames.forEach(function (series) {
+        elementsBySeries[series] = [];
+      });
+
+      Array.prototype.forEach.call(root.querySelectorAll('*'), function (element) {
+        if (element.closest('.legend')) {
+          return;
+        }
+
+        var series = null;
+        if (element.hasAttribute && element.hasAttribute('data-series')) {
+          var dataSeries = element.getAttribute('data-series');
+          if (seriesNames.indexOf(dataSeries) !== -1) {
+            series = dataSeries;
+          }
+        }
+
+        if (!series) {
+          series = firstSeriesClass(element);
+        }
+
+        if (!series) {
+          var ancestor = element.parentElement;
+          while (ancestor && ancestor !== root && !series) {
+            if (ancestor.hasAttribute && ancestor.hasAttribute('data-series')) {
+              var ancestorDataSeries = ancestor.getAttribute('data-series');
+              if (seriesNames.indexOf(ancestorDataSeries) !== -1) {
+                series = ancestorDataSeries;
+                break;
+              }
+            }
+
+            var ancestorSeries = firstSeriesClass(ancestor);
+            if (ancestorSeries && seriesNames.indexOf(ancestorSeries) !== -1) {
+              series = ancestorSeries;
+              break;
+            }
+
+            ancestor = ancestor.parentElement;
+          }
+        }
+
+        if (!series || seriesNames.indexOf(series) === -1) {
+          return;
+        }
+
+        elementsBySeries[series].push(element);
+        element.style.transition = 'opacity 220ms ease-in-out, fill-opacity 220ms ease-in-out, stroke-opacity 220ms ease-in-out';
+      });
+
+      function clearActiveSeries() {
+        legendItems.forEach(function (item) {
+          item.style.removeProperty('opacity');
+          var container = item.querySelector('rect.legend-item-container');
+          if (container) {
+            container.style.removeProperty('stroke');
+            container.style.removeProperty('stroke-width');
+          }
+        });
+
+        seriesNames.forEach(function (series) {
+          elementsBySeries[series].forEach(function (element) {
+            element.style.removeProperty('opacity');
+          });
+        });
+      }
+
+      function setActiveSeries(series) {
+        var isSingleSeries = seriesNames.length === 1;
+
+        legendItems.forEach(function (item) {
+          var isActive = item.getAttribute('data-series') === series;
+          item.style.opacity = isActive ? '1' : '0.4';
+
+          var container = item.querySelector('rect.legend-item-container');
+          if (container) {
+            container.style.stroke = isActive ? 'var(--color-text-dark)' : '';
+            container.style.strokeWidth = isActive ? '1.5' : '';
+          }
+        });
+
+        seriesNames.forEach(function (name) {
+          var isActive = name === series;
+          elementsBySeries[name].forEach(function (element) {
+            if (isSingleSeries) {
+              element.style.fillOpacity = isActive ? '1' : '0.25';
+              element.style.strokeOpacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('opacity');
+            } else {
+              element.style.opacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('fill-opacity');
+              element.style.removeProperty('stroke-opacity');
+            }
+          });
+        });
+      }
+
+      legendItems.forEach(function (item) {
+        var series = item.getAttribute('data-series');
+
+        item.addEventListener('mouseenter', function () {
+          setActiveSeries(series);
+        });
+
+        item.addEventListener('mouseleave', clearActiveSeries);
+
+        item.addEventListener('focus', function () {
+          setActiveSeries(series);
+        });
+
+        item.addEventListener('blur', clearActiveSeries);
+      });
+    }());
+  ]]></script>
+</svg>

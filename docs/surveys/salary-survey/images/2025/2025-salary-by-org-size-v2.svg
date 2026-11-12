@@ -1,0 +1,298 @@
+<svg viewBox="0 0 660 383" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+      ]]>
+    </style>
+  </defs>
+
+  <g id="2025-salary-by-org-size-v2" class="scale-salary-lines">
+    <g class="chart-header">
+      <g class="chart-title">
+        <text class="title-text"><tspan x="20" y="35">Median salary (USD) by</tspan><tspan x="20" y="53">organization size</tspan></text>
+        <text class="subtitle-text"><tspan x="20" y="76">Employees — worldwide, North America,</tspan><tspan x="20" y="92">and Europe</tspan></text>
+      </g>
+
+      <g class="legend scale-salary-lines">
+        <g class="legend-row">
+          <g class="legend-item">
+            <rect class="legend-item-container" x="348" y="20" width="91"/>
+            <line class="worldwide" x1="360" y1="31" x2="376" y2="31" stroke-width="2.5" stroke-linecap="round"/>
+            <circle class="worldwide" cx="368" cy="31" r="4"/>
+            <text class="legend-label" x="384" y="35">Worldwide</text>
+          </g>
+          <g class="legend-item">
+            <rect class="legend-item-container" x="449" y="20" width="109"/>
+            <line class="north-america" x1="461" y1="31" x2="477" y2="31" stroke-width="2.5" stroke-linecap="round"/>
+            <circle class="north-america" cx="469" cy="31" r="4"/>
+            <text class="legend-label" x="485" y="35">North America</text>
+          </g>
+          <g class="legend-item">
+            <rect class="legend-item-container" x="566" y="20" width="74"/>
+            <line class="europe" x1="578" y1="31" x2="594" y2="31" stroke-width="2.5" stroke-linecap="round"/>
+            <circle class="europe" cx="586" cy="31" r="4"/>
+            <text class="legend-label" x="602" y="35">Europe</text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <g class="chart-area line-chart scale-salary-lines" transform="translate(0 28)">
+      <g class="y-axis">
+        <g class="gridlines">
+          <line x1="60" y1="109.0" x2="620" y2="109.0"/>
+          <line x1="60" y1="135.8" x2="620" y2="135.8"/>
+          <line x1="60" y1="162.7" x2="620" y2="162.7"/>
+          <line x1="60" y1="189.6" x2="620" y2="189.6"/>
+          <line x1="60" y1="216.5" x2="620" y2="216.5"/>
+          <line x1="60" y1="243.4" x2="620" y2="243.4"/>
+          <line x1="60" y1="270.2" x2="620" y2="270.2"/>
+        </g>
+
+        <g class="axis-labels">
+          <text font-size="10" text-anchor="end"><tspan x="55" y="273">$40K</tspan></text>
+          <text font-size="10" text-anchor="end"><tspan x="55" y="246">$60K</tspan></text>
+          <text font-size="10" text-anchor="end"><tspan x="55" y="220">$80K</tspan></text>
+          <text font-size="10" text-anchor="end"><tspan x="55" y="193">$100K</tspan></text>
+          <text font-size="10" text-anchor="end"><tspan x="55" y="166">$120K</tspan></text>
+          <text font-size="10" text-anchor="end"><tspan x="55" y="139">$140K</tspan></text>
+          <text font-size="10" text-anchor="end"><tspan x="55" y="112">$160K</tspan></text>
+        </g>
+      </g>
+
+      <g class="series-lines">
+        <polyline points="80,215.1 210,215.7 340,196.3 470,161.4 600,150.1" class="worldwide" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+        <circle cx="80" cy="215.1" r="4" class="worldwide"/>
+        <circle cx="210" cy="215.7" r="4" class="worldwide"/>
+        <circle cx="340" cy="196.3" r="4" class="worldwide"/>
+        <circle cx="470" cy="161.4" r="4" class="worldwide"/>
+        <circle cx="600" cy="150.1" r="4" class="worldwide"/>
+
+        <polyline points="80,162.7 210,173.5 340,183.6 470,134.3 600,129.2" class="north-america" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+        <circle cx="80" cy="162.7" r="4" class="north-america"/>
+        <circle cx="210" cy="173.5" r="4" class="north-america"/>
+        <circle cx="340" cy="183.6" r="4" class="north-america"/>
+        <circle cx="470" cy="134.3" r="4" class="north-america"/>
+        <circle cx="600" cy="129.2" r="4" class="north-america"/>
+
+        <polyline points="80,238.2 210,240.5 340,226.2 470,202.5" class="europe" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+        <circle cx="80" cy="238.2" r="4" class="europe"/>
+        <circle cx="210" cy="240.5" r="4" class="europe"/>
+        <circle cx="340" cy="226.2" r="4" class="europe"/>
+        <circle cx="470" cy="202.5" r="4" class="europe"/>
+      </g>
+
+      <g class="x-axis" text-anchor="middle">
+        <line x1="60" y1="305" x2="620" y2="305" stroke="#F0F0F0" stroke-width="1"/>
+        <g class="axis-labels">
+          <text font-size="10"><tspan x="80" y="325">1–100</tspan></text>
+          <text font-size="10"><tspan x="210" y="325">101–1,000</tspan></text>
+          <text font-size="10"><tspan x="340" y="325">1,001–10,000</tspan></text>
+          <text font-size="10"><tspan x="470" y="325">10,001–100,000</tspan></text>
+          <text font-size="10"><tspan x="600" y="325">100,000+</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <script type="application/ecmascript"><![CDATA[
+    (function () {
+      var root = document.querySelector('svg > g[id], g[id]');
+      if (!root) {
+        return;
+      }
+
+      var ignoredClasses = {
+        'legend-item-container': true,
+        'legend-label': true,
+        'legend-item': true,
+        'legend-row': true,
+        'slice': true,
+        'track': true,
+        'tracks': true,
+        'bars': true,
+        'data-series': true,
+        'series-lines': true,
+        'chart-area': true,
+        'chart-header': true,
+        'chart-title': true,
+        'axis-labels': true,
+        'gridlines': true,
+        'value-labels-inner': true,
+        'value-labels-outer': true,
+        'chart-color-1': true,
+        'chart-color-2': true,
+        'chart-color-3': true,
+        'chart-color-4': true,
+        'chart-color-5': true,
+        'chart-color-6': true
+      };
+
+      function firstSeriesClass(element) {
+        if (!element || !element.classList) {
+          return null;
+        }
+
+        for (var i = 0; i < element.classList.length; i += 1) {
+          var className = element.classList[i];
+          if (!ignoredClasses[className]) {
+            return className;
+          }
+        }
+
+        return null;
+      }
+
+      function legendSeries(item) {
+        var swatch = item.querySelector('circle[class], rect[class]:not(.legend-item-container), line[class], polyline[class], path[class], ellipse[class], polygon[class]');
+        return firstSeriesClass(swatch);
+      }
+
+      var legendItems = Array.prototype.slice.call(root.querySelectorAll('.legend-item')).filter(function (item) {
+        return !!legendSeries(item);
+      });
+
+      if (legendItems.length === 0) {
+        return;
+      }
+
+      var seriesNames = [];
+      legendItems.forEach(function (item) {
+        var series = legendSeries(item);
+        item.setAttribute('data-series', series);
+        if (!item.hasAttribute('tabindex')) {
+          item.setAttribute('tabindex', '0');
+        }
+        item.style.cursor = 'pointer';
+
+        var container = item.querySelector('rect.legend-item-container');
+        if (container) {
+          container.style.transition = 'opacity 220ms ease-in-out, stroke 220ms ease-in-out, stroke-width 220ms ease-in-out';
+        }
+
+        var label = item.querySelector('text.legend-label');
+        if (label) {
+          label.style.transition = 'opacity 220ms ease-in-out';
+        }
+
+        if (seriesNames.indexOf(series) === -1) {
+          seriesNames.push(series);
+        }
+      });
+
+      var elementsBySeries = {};
+      seriesNames.forEach(function (series) {
+        elementsBySeries[series] = [];
+      });
+
+      Array.prototype.forEach.call(root.querySelectorAll('*'), function (element) {
+        if (element.closest('.legend')) {
+          return;
+        }
+
+        var series = null;
+        if (element.hasAttribute && element.hasAttribute('data-series')) {
+          var dataSeries = element.getAttribute('data-series');
+          if (seriesNames.indexOf(dataSeries) !== -1) {
+            series = dataSeries;
+          }
+        }
+
+        if (!series) {
+          series = firstSeriesClass(element);
+        }
+
+        if (!series) {
+          var ancestor = element.parentElement;
+          while (ancestor && ancestor !== root && !series) {
+            if (ancestor.hasAttribute && ancestor.hasAttribute('data-series')) {
+              var ancestorDataSeries = ancestor.getAttribute('data-series');
+              if (seriesNames.indexOf(ancestorDataSeries) !== -1) {
+                series = ancestorDataSeries;
+                break;
+              }
+            }
+
+            var ancestorSeries = firstSeriesClass(ancestor);
+            if (ancestorSeries && seriesNames.indexOf(ancestorSeries) !== -1) {
+              series = ancestorSeries;
+              break;
+            }
+
+            ancestor = ancestor.parentElement;
+          }
+        }
+
+        if (!series || seriesNames.indexOf(series) === -1) {
+          return;
+        }
+
+        elementsBySeries[series].push(element);
+        element.style.transition = 'opacity 220ms ease-in-out, fill-opacity 220ms ease-in-out, stroke-opacity 220ms ease-in-out';
+      });
+
+      function clearActiveSeries() {
+        legendItems.forEach(function (item) {
+          item.style.removeProperty('opacity');
+          var container = item.querySelector('rect.legend-item-container');
+          if (container) {
+            container.style.removeProperty('stroke');
+            container.style.removeProperty('stroke-width');
+          }
+        });
+
+        seriesNames.forEach(function (series) {
+          elementsBySeries[series].forEach(function (element) {
+            element.style.removeProperty('opacity');
+          });
+        });
+      }
+
+      function setActiveSeries(series) {
+        var isSingleSeries = seriesNames.length === 1;
+
+        legendItems.forEach(function (item) {
+          var isActive = item.getAttribute('data-series') === series;
+          item.style.opacity = isActive ? '1' : '0.4';
+
+          var container = item.querySelector('rect.legend-item-container');
+          if (container) {
+            container.style.stroke = isActive ? 'var(--color-text-dark)' : '';
+            container.style.strokeWidth = isActive ? '1.5' : '';
+          }
+        });
+
+        seriesNames.forEach(function (name) {
+          var isActive = name === series;
+          elementsBySeries[name].forEach(function (element) {
+            if (isSingleSeries) {
+              element.style.fillOpacity = isActive ? '1' : '0.25';
+              element.style.strokeOpacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('opacity');
+            } else {
+              element.style.opacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('fill-opacity');
+              element.style.removeProperty('stroke-opacity');
+            }
+          });
+        });
+      }
+
+      legendItems.forEach(function (item) {
+        var series = item.getAttribute('data-series');
+
+        item.addEventListener('mouseenter', function () {
+          setActiveSeries(series);
+        });
+
+        item.addEventListener('mouseleave', clearActiveSeries);
+
+        item.addEventListener('focus', function () {
+          setActiveSeries(series);
+        });
+
+        item.addEventListener('blur', clearActiveSeries);
+      });
+    }());
+  ]]></script>
+</svg>

@@ -71,7 +71,7 @@ Show us your workflows!
 
 Speaking of docs-as-code, and task management for that matter, there was another great discussion this month about how to map docs-as-code to software development workflows, with special reference to agile.
 
-Most of the conversation revolved around how to map pull requests in Github to issue tracking in tools such as Jira. Several folks who track issues with Jira start with basic issue scoring based on estimated effort (or t-shirt sizing as some people call it), and then assign tickets on a per-sprint cycle. A couple of teams mentioned using a Fibonacci sequence to determine story points for relative effort (for more information, see `Atlassian's article on story points and agile estimation <https://www.atlassian.com/agile/project-management/estimation/>`_).
+Most of the conversation revolved around how to map pull requests in GitHub to issue tracking in tools such as Jira. Several folks who track issues with Jira start with basic issue scoring based on estimated effort (or t-shirt sizing as some people call it), and then assign tickets on a per-sprint cycle. A couple of teams mentioned using a Fibonacci sequence to determine story points for relative effort (for more information, see `Atlassian's article on story points and agile estimation <https://www.atlassian.com/agile/project-management/estimation/>`_).
 
 When a PR is started, Jira tickets then move through specified phases (in one case, "In Progress", "Tech Review", "Editorial Review", "Revision", "Ready to Release", "Published") that map to the phases of PR review.
 
@@ -106,7 +106,7 @@ Featured job postings
 Upcoming community events
 -------------------------
 
-October 09 – Ottawa, Alberta, Canada – `Structured Writing with Mark Baker <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyxnbmb/>`_
+October 09 – Ottawa, Alberta, Canada – `Structured Writing with Mark Baker <https://www.meetup.com/Write-The-Docs-YOW-Ottawa/events/xtcbgqyxnbmb/>`_
 
 October 14 – Moscow, Russia – `Second Meetup <https://www.meetup.com/Write-the-Docs-Moscow/events/255163318/>`_
 
@@ -120,7 +120,7 @@ October 16 – Portland, Oregon, USA – `Joint Meetup with PSU & Support Driven
 
 October 17 – Bradford, West Yorkshire, UK – `Hacktoberfest! Join us in a basement in Bradford! <https://www.meetup.com/Write-the-Docs-North/events/254988997/>`_
 
-October 24 – Austin, Texas, USA – `Engineering/Developer-focused Content: Stories and Tools for Practitioners <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/255188139/>`_
+October 24 – Austin, Texas, USA – `Engineering/Developer-focused Content: Stories and Tools for Practitioners <https://www.meetup.com/WriteTheDocs-ATX-Meetup/events/255188139/>`_
 
 October 25 – Remote (Australia time) – `Remote: Teaching engineers about content strategy <https://www.meetup.com/Write-the-Docs-Australia/events/253769102/>`_
 

@@ -1,19 +1,43 @@
 version: 2
 
 build:
-  os: ubuntu-22.04
+  os: ubuntu-24.04
   tools:
-    python: "3.9"
-
+    python: "3.12"
+  jobs:
+    build:
+      html:
+        # Keep doctrees out of the output directory so they aren't uploaded with the site.
+        - cd docs && uv run python -m sphinx -T -W -b dirhtml -j auto -d _build/doctrees . $READTHEDOCS_OUTPUT/html
 
 python:
   install:
-    - requirements: requirements.txt
+    - method: uv
+      command: sync
 
 # No .html on files
 sphinx:
   builder: dirhtml
   configuration: docs/conf.py
+  fail_on_warning: true
 
 # No PDF
 formats: []
+
+# The search window (the Read the Docs search addon). Patterns match the
+# built HTML files, like conf/portland/2019/index.html.
+search:
+  ranking:
+    # Conferences before 2020 keep their pages for old links, but shouldn't
+    # outrank the current site.
+    conf/*/201?/*: -3
+  ignore:
+    # Read the Docs' defaults.
+    - search.html
+    - search/index.html
+    - 404.html
+    - 404/index.html
+    # The blog's tag and archive pages, which repeat the posts.
+    - blog/archive/*
+    # Sphinx's index page, which only lists other pages.
+    - genindex/index.html

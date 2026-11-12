@@ -10,7 +10,7 @@ Discuss this with each new client. Make sure you know how to get information you
 
 #### Example
 "I will provide weekly progress updates by email."  
-"The client uses JIRA. I will track docs work in JIRA, so they can view my progress there."
+"The client uses Jira. I will track docs work in Jira, so they can view my progress there."
 
 ### How will I gather the information I need?
 
@@ -18,7 +18,7 @@ Consider the following means of gathering info:
 
 * Attend sprint reviews
 * Interview SMEs (subject matter experts)
-* Access internal documentation and development artifacts (such as JIRA tickets)
+* Access internal documentation and development artifacts (such as Jira tickets)
 * Request product demos
 
 ### How will I stay up to date on new product features?

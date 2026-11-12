@@ -40,7 +40,7 @@ Many of us work in interfaces that are riddled with unlabeled buttons, putting u
 The overall feeling was that including images was better than relying on (often questionable) descriptions, but with a couple of important caveats:
 
 * Make sure you get your font and icon sizes working together so the inline images don't disrupt your line height. If you need to get some dev help to work a little stylesheet magic, do it. It's worth it. *NOTE: It was this common problem that initially sparked the unlabeled button discussion.*
-* Be aware that the downside to including icon images is maintainablity – one change to the UI usually means dozens+ changes to the docs, which can be hard to sort out.
+* Be aware that the downside to including icon images is maintainability – one change to the UI usually means dozens+ changes to the docs, which can be hard to sort out.
 * Alt text for your icon images is not optional. Not only is it critical for keeping your docs accessible, but it also helps with the maintenance problem. If your icons have consistent alt text, you at least have a search term to use when updates need to be made.
 
 One other point surfaced during the discussion – font icons. While they neatly bypass the line-height problem, you might have to work a little harder at making them accessible (since you can't just drop in alt text) and they have their own maintenance challenges, over the long-term.
@@ -79,8 +79,8 @@ Make sure you `get your tickets soon <https://www.writethedocs.org/conf/eu/2017/
 Upcoming Meetups
 ----------------
 
-* **Today!** July 11 – Portland, OR, USA – `History of the New Relic Documentation Site, Part One <https://www.meetup.com/Write-The-Docs-PDX/events/240771894/>`_
-* July 12 – Cambridge, UK – `Finding the right work to do: Lessons learnt from a year at a startup <https://www.meetup.com/Write-The-Docs-Cambridge/events/240634929/>`_
+* **Today!** July 11 – Portland, OR, USA – `History of the New Relic Documentation Site, Part One <https://www.meetup.com/Write-The-Docs-PDX/events/240771894/>`_
+* July 12 – Cambridge, UK – `Finding the right work to do: Lessons learnt from a year at a startup <https://www.meetup.com/Write-The-Docs-Cambridge/events/240634929/>`_
 * July 19 – Broomfield, CO – `Building navigation for your doc site: 5 best practices <https://www.meetup.com/Write-the-Docs-Boulder-Denver/events/241431528/>`_
 
 Thanks to all our wonderful organizers who are putting these events together!

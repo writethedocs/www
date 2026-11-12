@@ -105,7 +105,7 @@ Talks are around 30 minutes. Most speakers will have a live, moderated Q&A sessi
   A detailed schedule will be announced soon.
 {% endif %}
 
-{% if flaghasjobfair %}
+{% if flaghassponsorexpo %}
 
 Job Fair
 ~~~~~~~~

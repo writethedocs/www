@@ -1,0 +1,105 @@
+{#-
+  The conference header menu, for 2026 on, like community/navbar.html for
+  the community pages. `menu` lists it once; navbar_items() renders it in the
+  bar across the top, and offcanvas_items() in the slide-in menu on small
+  screens.
+
+  An item with `show` appears only when that's true, usually a flag from the
+  conference's config. `page` is relative to the conference, so "cfp" is
+  conf/<city>/<year>/cfp.
+
+  Import it with the page's context, which holds the conference's config:
+  {% from "conference/navbar.html" import navbar_items, offcanvas_items with context %}
+-#}
+
+{%- set menu = [
+  {'text': 'Program', 'page': 'schedule', 'children': [
+    {'text': 'Schedule', 'page': 'schedule', 'show': flaghasschedule},
+    {'text': 'Speakers', 'page': 'speakers', 'show': flagspeakersannounced},
+    {'text': 'Call for Proposals', 'page': 'cfp', 'show': flagcfp},
+    {'text': 'Writing Day', 'page': 'writing-day', 'show': flaghaswritingday},
+    {'text': 'Lightning Talks', 'page': 'lightning-talks', 'show': flaghaslightningtalks},
+    {'text': 'Fishbowl Session', 'page': 'fishbowl', 'show': shortcode == 'australia' and year_str == '2026'},
+    {'text': 'Unconference', 'page': 'unconference', 'show': flaghasunconf},
+    {'text': 'Hike', 'page': 'hike', 'show': flaghashike},
+    {'text': 'Boat Ride', 'page': 'boat', 'show': flaghasboat},
+    {'text': 'Social Events', 'page': 'social-events'},
+    {'text': 'Speaker Q&A', 'page': 'qa', 'show': flaglivestreaming},
+  ]},
+  {'text': 'Tickets', 'page': 'tickets', 'children': [
+    {'text': 'Tickets', 'page': 'tickets'},
+    {'text': 'Virtual Attendance', 'page': 'virtual'},
+    {'text': 'Opportunity Grants', 'page': 'opportunity-grants'},
+    {'text': 'Convince Your Manager', 'page': 'convince-your-manager'},
+  ]},
+  {'text': 'About', 'page': 'about', 'children': [
+    {'text': 'Venue', 'page': 'venue'},
+    {'text': 'Visiting ' ~ city, 'page': 'visiting', 'show': flaghasvisiting and not flagisvirtual},
+    {'text': 'Attendee Guide', 'page': 'attendee-guide', 'show': flaghasattendeeguide and not flagisvirtual},
+    {'text': 'Volunteer Info', 'page': 'volunteer', 'show': not flagisvirtual},
+    {'text': 'Health and Safety Policy', 'page': 'health', 'show': not flagisvirtual},
+    {'text': 'Code of Conduct', 'page': 'code-of-conduct'},
+    {'text': 'Meet the Team', 'page': 'team', 'show': flaghasteam},
+    {'text': 'Contact us', 'page': 'contact'},
+    {'text': 'Badge Flair Contest', 'page': 'badge-flair', 'show': flaghasbadgeflair},
+  ]},
+  {'text': 'Sponsors', 'page': 'sponsors', 'children': [
+    {'text': 'Prospectus', 'page': 'sponsors/prospectus'},
+    {'text': 'Our Sponsors', 'page': 'sponsors'},
+    {'text': 'Sponsor Information', 'page': 'sponsors/information', 'show': flagrunofshow},
+  ]},
+  {'text': 'News', 'page': 'news'},
+] %}
+
+{%- macro link(page) -%}
+{{ pathto('conf/' ~ shortcode ~ '/' ~ year_str ~ '/' ~ page) }}
+{%- endmacro %}
+
+{#- The "Speak" button at the end, while the call for proposals is open. #}
+{%- macro speak_button() -%}
+{%- if flagcfp %}
+  <li><a href="{{ link('cfp') }}" class="uk-button uk-button-ghost uk-text-uppercase">Speak</a></li>
+{%- endif %}
+{%- endmacro %}
+
+{%- macro navbar_items() -%}
+<ul class="uk-nav uk-visible@s">
+  {%- for item in menu %}
+  <li>
+    <ul class="uk-navbar-nav">
+      <li>
+        <a href="{{ link(item.page) }}">{{ item.text }}</a>
+        {%- if item.children %}
+        <div class="uk-navbar-dropdown">
+          <ul class="uk-nav uk-navbar-dropdown-nav">
+            {%- for child in item.children if child.get('show', True) %}
+            <li><a href="{{ link(child.page) }}">{{ child.text }}</a></li>
+            {%- endfor %}
+          </ul>
+        </div>
+        {%- endif %}
+      </li>
+    </ul>
+  </li>
+  {%- endfor %}
+  {{ speak_button() }}
+</ul>
+{%- endmacro %}
+
+{%- macro offcanvas_items() -%}
+<ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
+  {%- for item in menu %}
+  <li class="uk-parent">
+    <a href="{{ link(item.page) }}">{{ item.text }}</a>
+    {%- if item.children %}
+    <ul class="uk-nav-sub">
+      {%- for child in item.children if child.get('show', True) %}
+      <li><a href="{{ link(child.page) }}">{{ child.text }}</a></li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+  </li>
+  {%- endfor %}
+  {{ speak_button() }}
+</ul>
+{%- endmacro %}

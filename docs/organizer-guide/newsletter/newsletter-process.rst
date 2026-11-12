@@ -1,7 +1,7 @@
 Write the Docs newsletter
 #########################
 
-At the beginning of every month, we put out an `email newsletter </newsletter/>`__ to the community - around {{newsletter_subs}} readers. It's built around a handful of stories that we capture and write-up from the Slack team; also includes an overview of what the org team is working on, a calendar listing of upcoming community events, and featured jobs from the jobs board.
+At the beginning of every month, we put out an [email newsletter](/newsletter/) to the community - around {{newsletter_subs}} readers. It's built around a handful of stories that we capture and write-up from the Slack team; also includes an overview of what the org team is working on, a calendar listing of upcoming community events, and featured jobs from the jobs board.
 
 This doc explains how to put the newsletter out each month. We take two breaks a year when we don't publish - we don't put out a newsletter in January or August.
 
@@ -29,10 +29,9 @@ A week before the planned ship date, the editor should:
 
 1. Go through the conversations they've captured.
 2. Select 4 or 5 conversations they think would make a good edition.
-3. Copy all of the conversations into a new Google doc, to share with the writers. (`Example <https://docs.google.com/document/d/1XUuoIDWWvgIvgjZLtkaDwOHk_ERVsCDxqEq8eUqNB6U/edit>`__.)
-4. In the #newsletter channel on Slack, @mention their writers and ask them to pick a story for the month.
+3. In the #newsletter channel on Slack, @mention their writers and ask them to pick a story for the month.
 
-   Link to the new Google doc, and set a deadline to have drafts back, 2-3 days before shipping.
+   Link to each of the conversations and set a deadline to have drafts back, 2-3 days before shipping.
 
 Picking the stories
 -------------------
@@ -50,14 +49,15 @@ Assemble & review the newsletter (2-3 days before shipping)
 
 Once all the story drafts have come in, it's time to assemble, based on the outline template::
 
-   :og:image: https://www.writethedocs.org/_static/logo-opengraph.png
+   ```{post} November 5, 2026
+   ---
+   tags: newsletter
+   og:image: https://www.writethedocs.org/_static/logo-opengraph.png
+   author: Aaron Collier
+   ---
+   ```
 
-   .. post:: January 01, 2025
-      :tags: newsletter
-
-   #########################################
-   Write the Docs Newsletter – MONTH YEAR
-   #########################################
+   # Write the Docs Newsletter – MONTH YEAR
 
    Intro line.
 
@@ -67,74 +67,58 @@ Once all the story drafts have come in, it's time to assemble, based on the outl
 
    Segue into articles.
 
-   ------------------
-   TITLE OF ARTICLE 1
-   ------------------
+   ## TITLE OF ARTICLE 1
 
    CONTENT.
 
-   See more Write the Docs resources about `{TOPIC_NAME} </topics/#TOPIC_LINK>`__.
+   See more Write the Docs resources about [{TOPIC_NAME}](/topics/#TOPIC_LINK).
 
-   ------------------
-   TITLE OF ARTICLE 2
-   ------------------
+   ## TITLE OF ARTICLE 2
 
    CONTENT.
 
-   See more Write the Docs resources about `{TOPIC_NAME} </topics/#TOPIC_LINK>`__.
+   See more Write the Docs resources about [{TOPIC_NAME}](/topics/#TOPIC_LINK).
 
-   ------------------
-   TITLE OF ARTICLE 3
-   ------------------
+   ## TITLE OF ARTICLE 3
 
    CONTENT.
 
-   See more Write the Docs resources about `{TOPIC_NAME} </topics/#TOPIC_LINK>`__.
+   See more Write the Docs resources about [{TOPIC_NAME}](/topics/#TOPIC_LINK).
 
-   ------------------
-   TITLE OF ARTICLE 4
-   ------------------
+   ## TITLE OF ARTICLE 4
 
    CONTENT.
 
-   See more Write the Docs resources about `{TOPIC_NAME} </topics/#TOPIC_LINK>`__.
+   See more Write the Docs resources about [{TOPIC_NAME}](/topics/#TOPIC_LINK).
 
-   ----------------
-   From our sponsor
-   ----------------
+   ## From our sponsor
 
-   This month’s newsletter is sponsored by `SPONSOR NAME <SPONSOR LINK>`_.
+   This month’s newsletter is sponsored by [SPONSOR_NAME](SPONSOR_LINK).
 
-   .. image:: /_static/img/sponsors/SPONSOR.png
-     :align: center
-     :width: 50%
-     :target: SPONSOR LINK
-     :alt: SPONSOR NAME logo
+   ```{image} /_static/img/sponsors/SPONSOR_NAME.png
+   :align: center
+   :width: 50%
+   :target: SPONSOR_LINK
+   :alt: SPONSOR_NAME logo
+   ```
 
-   SPONSOR COPY
+   SPONSOR_COPY
 
-   *Interested in sponsoring the newsletter? Take a look at our* `sponsorship prospectus </sponsorship/newsletter/>`__.
+   *Interested in sponsoring the newsletter? Take a look at our* [sponsorship prospectus](/sponsorship/newsletter/).
 
+   ## Featured job posts
 
-   ------------------
-   Featured job posts
-   ------------------
+   [JOB TITLE](JOB LINK), COMPANY - *LOCATION*
 
-   `JOB TITLE <JOB LINK>`__, COMPANY - *LOCATION*
+   *Interested in promoting your open position? See our* [job posting sponsorship](/sponsorship/jobs/) *for more details.*
 
-   *Interested in promoting your open position? See our* `job posting sponsorship </sponsorship/jobs/>`__ *for more details.*
- 
-   ------------------------
-   Write the Docs resources
-   ------------------------
+   ## Write the Docs resources
 
-   Write the Docs offers lots of valuable resources related to documentation. See all of the Write the Docs `learning resources </about/learning-resources/>`__. To discuss any of these ideas or others related to documentation, join the conversation in the `Write the Docs Slack community </slack/>`__ in one of the many `channels </slack/#channel-guide>`__.
+   Write the Docs offers lots of valuable resources related to documentation. See all of the Write the Docs [learning resources](/about/learning-resources/). To discuss any of these ideas or others related to documentation, join the conversation in the [Write the Docs Slack community](/slack/) in one of the many [channels](/slack/#channel-guide).
 
-   ----------------
-   Events coming up
-   ----------------
+   ## Events coming up
 
-   - 00 MONTH, TIME ZONE (location) - `TITLE <https://www.meetup.com/LINK>`__
+   - 00 MONTH, TIME ZONE (location) - [TITLE](https://www.meetup.com/LINK)
 
 
 

@@ -33,7 +33,7 @@ You will want members from all of the teams in your organization to be invited t
 Build a taxonomy
 ----------------
 
-A big problem with a lot of documentation systems is that they have been organized organically, AKA have no organization. If you build out a structure for people to start, and keep it consistent across projects, it will make everyones lives easier.
+A big problem with a lot of documentation systems is that they have been organized organically, AKA have no organization. If you build out a structure for people to start, and keep it consistent across projects, it will make everyone's lives easier.
 
 .. note:: You need to have an answer to the "Where do I put it?" question.
 

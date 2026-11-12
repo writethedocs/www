@@ -5,14 +5,14 @@
   {% if sponsors.keystone %}
   <div class="gold-sponsors">
     {% for sponsor in sponsors.keystone %}
-    <div class="uk-width-1-1@s" id="{{ sponsor.name }}">
+    <div class="uk-width-1-1 uk-width-1-1@s" id="{{ sponsor.name }}">
       <a href="{{ sponsor.link }}">
         <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("500px", true) }};" />
       </a>
     </div>
       {% if include_text and sponsor.text %}
       <div >
-      <span class="sponsor-text" style="display: block;">
+      <span class="supporter-info" style="display: block;">
         {{ sponsor.text }}
       </p>
       </div>
@@ -24,13 +24,13 @@
   {% if sponsors.patron %}
   <div class="silver-sponsors">
     {% for sponsor in sponsors.patron %}
-    <div class="uk-width-1-1@s" id="{{ sponsor.name }}">
+    <div class="uk-width-1-1 uk-width-1-1@s" id="{{ sponsor.name }}">
       <a href="{{ sponsor.link }}">
         <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("400px", true) }};" />
       </a>
     </div>
       {% if include_text and sponsor.text %}
-      <span class="sponsor-text" style="display: block;">
+      <span class="supporter-info" style="display: block;">
 
         {{ sponsor.text }}
       </span>
@@ -43,16 +43,16 @@
   <div class="silver-sponsors">
     {% for sponsor in sponsors.publisher %}
     {% if include_text %}
-    <div class="uk-width-1-1@s" id="{{ sponsor.name }}">
+    <div class="uk-width-1-1 uk-width-1-1@s" id="{{ sponsor.name }}">
       {% else %}
-    <div class="uk-width-1-2@s" id="{{ sponsor.name }}">
+    <div class="uk-width-1-1 uk-width-1-2@s" id="{{ sponsor.name }}">
     {% endif %}
       <a href="{{ sponsor.link }}">
         <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("300px", true) }}; min-width: {{ sponsor.min_width|default("200px", true) }};" />
       </a>
     </div>
       {% if include_text and sponsor.text %}
-      <span class="sponsor-text" style="display: block;">
+      <span class="supporter-info" style="display: block;">
 
         {{ sponsor.text }}
       </span>
@@ -65,16 +65,16 @@
   <div class="bronze-sponsors">
     {% for sponsor in sponsors.second %}
     {% if include_text %}
-    <div class="uk-width-1-1@s" id="{{ sponsor.name }}">
+    <div class="uk-width-1-1 uk-width-1-1@s" id="{{ sponsor.name }}">
       {% else %}
-    <div class="uk-width-1-2@s" id="{{ sponsor.name }}">
+    <div class="uk-width-1-1 uk-width-1-2@s" id="{{ sponsor.name }}">
     {% endif %}
       <a href="{{ sponsor.link }}">
         <img src={{ sponsor.name|sponsor_photo }} style="width: {{ sponsor.width|default("200px", true) }};" />
       </a>
     </div>
       {% if include_text and sponsor.text %}
-      <span class="sponsor-text" style="display: block;">
+      <span class="supporter-info" style="display: block;">
         {{ sponsor.text }}
       </span>
       {% endif %}
@@ -85,7 +85,7 @@
   {% if sponsors.first %}
   <div class="community-sponsors">
     {% for sponsor in sponsors.first %}
-    <div class="uk-width-1-2@s">
+    <div class="uk-width-1-1 uk-width-1-2@s">
       <a href="{{ sponsor.link }}">
         <img src={{ sponsor.name|sponsor_photo }} style="max-width: {{ sponsor.width|default("150px", true) }};" />
       </a>

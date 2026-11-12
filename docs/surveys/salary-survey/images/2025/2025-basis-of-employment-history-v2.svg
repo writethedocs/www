@@ -1,0 +1,369 @@
+<svg viewBox="0 0 660 355" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+        #2025-basis-of-employment-history-v2 .bar-value-label,
+        #2025-basis-of-employment-history-v2 .bar-value-label * {
+          font-size: 10px !important;
+          font-weight: 600 !important;
+        }
+        #2025-basis-of-employment-history-v2 .bar-value-label {
+          pointer-events: auto;
+          transition: opacity 220ms ease-in-out, font-size 220ms ease-in-out, fill-opacity 220ms ease-in-out;
+        }
+        #2025-basis-of-employment-history-v2 .bar-value-label * {
+          pointer-events: none;
+        }
+        #2025-basis-of-employment-history-v2 .bar-value-label.hover-only {
+          opacity: 0 !important;
+        }
+        #2025-basis-of-employment-history-v2 .bar-value-label.outside,
+        #2025-basis-of-employment-history-v2 .bar-value-label.outside * {
+          fill: var(--color-text-dark);
+          font-size: 10px !important;
+          font-weight: 600 !important;
+        }
+      ]]>
+    </style>
+    <filter id="label-bg" x="-15%" y="-40%" width="130%" height="180%">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="3" result="expanded"/>
+      <feGaussianBlur in="expanded" stdDeviation="5" result="blurred"/>
+      <feComponentTransfer in="blurred" result="rounded">
+        <feFuncA type="linear" slope="20" intercept="-5"/>
+      </feComponentTransfer>
+      <feFlood flood-color="white" flood-opacity="0.8" result="color"/>
+      <feComposite in="color" in2="rounded" operator="in" result="bg"/>
+      <feMerge>
+        <feMergeNode in="bg"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="clip-col0"><rect x="62.0" y="176.7" width="65.8" height="138.8" rx="2"/></clipPath>
+    <clipPath id="clip-col1"><rect x="146.7" y="154.5" width="65.8" height="161.0" rx="2"/></clipPath>
+    <clipPath id="clip-col2"><rect x="231.4" y="123.7" width="65.8" height="191.8" rx="2"/></clipPath>
+    <clipPath id="clip-col3"><rect x="316.1" y="210.5" width="65.8" height="105.0" rx="2"/></clipPath>
+    <clipPath id="clip-col4"><rect x="400.8" y="112.1" width="65.8" height="203.4" rx="2"/></clipPath>
+    <clipPath id="clip-col5"><rect x="485.5" y="159.5" width="65.8" height="156.0" rx="2"/></clipPath>
+    <clipPath id="clip-col6"><rect x="570.2" y="164.5" width="65.8" height="151.0" rx="2"/></clipPath>
+  </defs>
+
+  <g id="2025-basis-of-employment-history-v2">
+    <g class="chart-header">
+      <g class="chart-title">
+        <text x="20" y="35" class="title-text">Basis of employment</text>
+        <text x="20" y="55" class="subtitle-text">Respondents by survey year (2019-2025)</text>
+      </g>
+
+      <g class="legend scale-employment-history">
+        <g class="legend-row">
+          <g class="legend-item">
+            <rect class="legend-item-container" x="330" y="20" width="79"/>
+            <circle class="employees" cx="343" cy="31"/>
+            <text class="legend-label" x="351" y="35">Employees</text>
+          </g>
+
+          <g class="legend-item">
+            <rect class="legend-item-container" x="419" y="20" width="83"/>
+            <circle class="contractors" cx="432" cy="31"/>
+            <text class="legend-label" x="440" y="35">Contractors</text>
+          </g>
+
+          <g class="legend-item">
+            <rect class="legend-item-container" x="512" y="20" width="128"/>
+            <circle class="employee-contractors" cx="525" cy="31"/>
+            <text class="legend-label" x="533" y="35">Employee-contractors</text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <g class="chart-area bar-chart-vertical scale-employment-history">
+      <g class="y-axis">
+        <g class="gridlines">
+          <path d="M20 315.5H640" stroke="#F0F0F0"/>
+          <path d="M20 265.5H640" stroke="#F0F0F0"/>
+          <path d="M20 215.5H640" stroke="#F0F0F0"/>
+          <path d="M20 165.5H640" stroke="#F0F0F0"/>
+          <path d="M20 115.5H640" stroke="#F0F0F0"/>
+        </g>
+        <g class="axis-labels">
+          <text font-size="10"><tspan x="25" y="318.0">0</tspan></text>
+          <text font-size="10"><tspan x="20" y="268.0">250</tspan></text>
+          <text font-size="10"><tspan x="20" y="218.0">500</tspan></text>
+          <text font-size="10"><tspan x="20" y="168.0">750</tspan></text>
+          <text font-size="10"><tspan x="20" y="118.0">1,000</tspan></text>
+        </g>
+      </g>
+
+      <g class="data-series">
+        <g class="a">
+          <g class="axis-labels">
+            <text font-size="10" text-anchor="middle"><tspan x="94.9" y="334.0">2019</tspan></text>
+            <text font-size="10" text-anchor="middle"><tspan x="179.6" y="334.0">2020</tspan></text>
+            <text font-size="10" text-anchor="middle"><tspan x="264.3" y="334.0">2021</tspan></text>
+            <text font-size="10" text-anchor="middle"><tspan x="349.0" y="334.0">2022</tspan></text>
+            <text font-size="10" text-anchor="middle"><tspan x="433.7" y="334.0">2023</tspan></text>
+            <text font-size="10" text-anchor="middle"><tspan x="518.4" y="334.0">2024</tspan></text>
+            <text font-size="10" text-anchor="middle"><tspan x="603.1" y="334.0">2025</tspan></text>
+          </g>
+          <g class="bars">
+            <g clip-path="url(#clip-col0)">
+              <path class="employees" d="M127.8 187.1H62.0V315.5H127.8V187.1Z" data-series="employees" data-bar-key="2019-employees"/>
+              <path class="contractors" d="M127.8 176.7H62.0V185.1H127.8V176.7Z" data-series="contractors" data-bar-key="2019-contractors"/>
+            </g>
+            <g clip-path="url(#clip-col1)">
+              <path class="employees" d="M212.5 167.9H146.7V315.5H212.5V167.9Z" data-series="employees" data-bar-key="2020-employees"/>
+              <path class="contractors" d="M212.5 154.5H146.7V165.9H212.5V154.5Z" data-series="contractors" data-bar-key="2020-contractors"/>
+            </g>
+            <g clip-path="url(#clip-col2)">
+              <path class="employees" d="M297.2 140.1H231.4V315.5H297.2V140.1Z" data-series="employees" data-bar-key="2021-employees"/>
+              <path class="contractors" d="M297.2 123.7H231.4V138.1H297.2V123.7Z" data-series="contractors" data-bar-key="2021-contractors"/>
+            </g>
+            <g clip-path="url(#clip-col3)">
+              <path class="employees" d="M381.9 219.3H316.1V315.5H381.9V219.3Z" data-series="employees" data-bar-key="2022-employees"/>
+              <path class="contractors" d="M381.9 210.5H316.1V217.3H381.9V210.5Z" data-series="contractors" data-bar-key="2022-contractors"/>
+            </g>
+            <g clip-path="url(#clip-col4)">
+              <path class="employees" d="M466.6 129.9H400.8V315.5H466.6V129.9Z" data-series="employees" data-bar-key="2023-employees"/>
+              <path class="contractors" d="M466.6 112.1H400.8V127.9H466.6V112.1Z" data-series="contractors" data-bar-key="2023-contractors"/>
+            </g>
+            <g clip-path="url(#clip-col5)">
+              <path class="employees" d="M551.3 180.3H485.5V315.5H551.3V180.3Z" data-series="employees" data-bar-key="2024-employees"/>
+              <path class="contractors" d="M551.3 167.1H485.5V178.3H551.3V167.1Z" data-series="contractors" data-bar-key="2024-contractors"/>
+              <path class="employee-contractors" d="M551.3 159.5H485.5V165.1H551.3V159.5Z" data-series="employee-contractors" data-bar-key="2024-employee-contractors"/>
+            </g>
+            <g clip-path="url(#clip-col6)">
+              <path class="employees" d="M636.0 182.5H570.2V315.5H636.0V182.5Z" data-series="employees" data-bar-key="2025-employees"/>
+              <path class="contractors" d="M636.0 173.3H570.2V180.5H636.0V173.3Z" data-series="contractors" data-bar-key="2025-contractors"/>
+              <path class="employee-contractors" d="M636.0 164.5H570.2V171.3H636.0V164.5Z" data-series="employee-contractors" data-bar-key="2025-employee-contractors"/>
+            </g>
+          </g>
+          <g class="value-labels">
+            <text class="employees value-labels-inner bar-value-label inside" text-anchor="middle" data-series="employees" data-bar-key="2019-employees" filter="url(#label-bg)"><tspan x="94.9" y="212">93.9%</tspan></text>
+            <text class="employees value-labels-inner bar-value-label inside" text-anchor="middle" data-series="employees" data-bar-key="2020-employees" filter="url(#label-bg)"><tspan x="179.6" y="193">92.9%</tspan></text>
+            <text class="employees value-labels-inner bar-value-label inside" text-anchor="middle" data-series="employees" data-bar-key="2021-employees" filter="url(#label-bg)"><tspan x="264.3" y="166">92.5%</tspan></text>
+            <text class="employees value-labels-inner bar-value-label inside" text-anchor="middle" data-series="employees" data-bar-key="2022-employees" filter="url(#label-bg)"><tspan x="349.0" y="245">93.5%</tspan></text>
+            <text class="employees value-labels-inner bar-value-label inside" text-anchor="middle" data-series="employees" data-bar-key="2023-employees" filter="url(#label-bg)"><tspan x="433.7" y="156">92.2%</tspan></text>
+            <text class="employees value-labels-inner bar-value-label inside" text-anchor="middle" data-series="employees" data-bar-key="2024-employees" filter="url(#label-bg)"><tspan x="518.4" y="206">87.9%</tspan></text>
+            <text class="employees value-labels-inner bar-value-label inside" text-anchor="middle" data-series="employees" data-bar-key="2025-employees" filter="url(#label-bg)"><tspan x="603.1" y="208">89.4%</tspan></text>
+
+            <text class="contractors value-labels-outer bar-value-label outside hover-only" text-anchor="middle" data-series="contractors" data-bar-key="2019-contractors"><tspan x="94.9" y="169">6.1%</tspan></text>
+            <text class="contractors value-labels-outer bar-value-label outside hover-only" text-anchor="middle" data-series="contractors" data-bar-key="2020-contractors"><tspan x="179.6" y="147">7.1%</tspan></text>
+            <text class="contractors value-labels-outer bar-value-label outside hover-only" text-anchor="middle" data-series="contractors" data-bar-key="2021-contractors"><tspan x="264.3" y="116">7.5%</tspan></text>
+            <text class="contractors value-labels-outer bar-value-label outside hover-only" text-anchor="middle" data-series="contractors" data-bar-key="2022-contractors"><tspan x="349.0" y="203">6.5%</tspan></text>
+            <text class="contractors value-labels-outer bar-value-label outside hover-only" text-anchor="middle" data-series="contractors" data-bar-key="2023-contractors"><tspan x="433.7" y="104">7.8%</tspan></text>
+            <text class="contractors value-labels-outer bar-value-label outside hover-only" text-anchor="middle" data-series="contractors" data-bar-key="2024-contractors"><tspan x="518.4" y="152">8.5%</tspan></text>
+            <text class="contractors value-labels-outer bar-value-label outside hover-only" text-anchor="middle" data-series="contractors" data-bar-key="2025-contractors"><tspan x="603.1" y="157">6.1%</tspan></text>
+            <text class="employee-contractors value-labels-outer bar-value-label outside hover-only" text-anchor="middle" data-series="employee-contractors" data-bar-key="2024-employee-contractors"><tspan x="518.4" y="144">3.6%</tspan></text>
+            <text class="employee-contractors value-labels-outer bar-value-label outside hover-only" text-anchor="middle" data-series="employee-contractors" data-bar-key="2025-employee-contractors"><tspan x="603.1" y="149">4.5%</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+  </g>
+
+  <script type="application/ecmascript"><![CDATA[
+    (function () {
+      var root = document.querySelector('svg > g[id], g[id]');
+      if (!root) {
+        return;
+      }
+
+      var legendItems = Array.prototype.slice.call(root.querySelectorAll('.legend-item'));
+      var segments = Array.prototype.slice.call(root.querySelectorAll('.bars path[data-bar-key]'));
+      var valueLabels = Array.prototype.slice.call(root.querySelectorAll('.bar-value-label[data-bar-key]'));
+
+      if (legendItems.length === 0 || segments.length === 0 || valueLabels.length === 0) {
+        return;
+      }
+
+      function legendSeries(item) {
+        var swatch = item.querySelector('circle[class]');
+        return swatch ? swatch.getAttribute('class') : null;
+      }
+
+      function setLabelTypography(label, size, weight) {
+        label.style.fontSize = size;
+        label.style.fontWeight = weight;
+        Array.prototype.forEach.call(label.querySelectorAll('tspan'), function (span) {
+          span.style.fontSize = size;
+          span.style.fontWeight = weight;
+        });
+      }
+
+      legendItems.forEach(function (item) {
+        var series = legendSeries(item);
+        if (!series) {
+          return;
+        }
+
+        item.setAttribute('data-series', series);
+        if (!item.hasAttribute('tabindex')) {
+          item.setAttribute('tabindex', '0');
+        }
+        item.style.cursor = 'pointer';
+
+        var container = item.querySelector('rect.legend-item-container');
+        if (container) {
+          container.style.transition = 'opacity 220ms ease-in-out, stroke 220ms ease-in-out, stroke-width 220ms ease-in-out';
+        }
+
+        var label = item.querySelector('text.legend-label');
+        if (label) {
+          label.style.transition = 'opacity 220ms ease-in-out';
+        }
+      });
+
+      segments.forEach(function (segment) {
+        segment.style.cursor = 'pointer';
+        segment.style.transition = 'opacity 220ms ease-in-out, fill-opacity 220ms ease-in-out, stroke-opacity 220ms ease-in-out';
+      });
+
+      valueLabels.forEach(function (label) {
+        if (!label.style.transition) {
+          label.style.transition = 'opacity 220ms ease-in-out, font-size 220ms ease-in-out, fill-opacity 220ms ease-in-out';
+        }
+      });
+
+      var activeMode = null;
+      var activeSeries = null;
+      var activeBarKey = null;
+      var clearTimer = null;
+
+      function cancelPendingClear() {
+        if (clearTimer !== null) {
+          window.clearTimeout(clearTimer);
+          clearTimer = null;
+        }
+      }
+
+      function scheduleClearActiveState() {
+        cancelPendingClear();
+        clearTimer = window.setTimeout(function () {
+          activeMode = null;
+          activeSeries = null;
+          activeBarKey = null;
+          renderState();
+        }, 50);
+      }
+
+      function renderState() {
+        legendItems.forEach(function (item) {
+          var isSeriesActive = activeMode === 'series' && item.getAttribute('data-series') === activeSeries;
+          var container = item.querySelector('rect.legend-item-container');
+
+          item.style.opacity = activeMode === null ? '1' : (isSeriesActive ? '1' : '0.4');
+          if (container) {
+            container.style.stroke = isSeriesActive ? 'var(--color-text-dark)' : '';
+            container.style.strokeWidth = isSeriesActive ? '1.5' : '';
+          }
+        });
+
+        segments.forEach(function (segment) {
+          var segmentSeries = segment.getAttribute('data-series');
+          var segmentKey = segment.getAttribute('data-bar-key');
+          var isSeriesActive = activeMode === 'series' && segmentSeries === activeSeries;
+          var isSegmentActive = activeMode === 'segment' && segmentKey === activeBarKey;
+
+          segment.style.opacity = (activeMode === null || isSeriesActive || isSegmentActive) ? '1' : '0.25';
+        });
+
+        valueLabels.forEach(function (label) {
+          var isHoverOnly = label.classList.contains('hover-only');
+          var labelSeries = label.getAttribute('data-series');
+          var labelKey = label.getAttribute('data-bar-key');
+          var isSeriesActive = activeMode === 'series' && labelSeries === activeSeries;
+          var isLabelActive = activeMode === 'segment' && labelKey === activeBarKey;
+
+          if (activeMode === null) {
+            label.style.opacity = isHoverOnly ? '0' : '1';
+            label.style.removeProperty('fill-opacity');
+            setLabelTypography(label, '10px', '600');
+          } else if (isSeriesActive || isLabelActive) {
+            label.style.opacity = '1';
+            label.style.fillOpacity = '1';
+            setLabelTypography(label, '14px', '700');
+          } else {
+            label.style.opacity = isHoverOnly ? '0' : '0.25';
+            label.style.removeProperty('fill-opacity');
+            setLabelTypography(label, '10px', '600');
+          }
+        });
+      }
+
+      function activateSeries(series) {
+        cancelPendingClear();
+        activeMode = 'series';
+        activeSeries = series;
+        activeBarKey = null;
+        renderState();
+      }
+
+      function activateSegment(barKey) {
+        cancelPendingClear();
+        activeMode = 'segment';
+        activeSeries = null;
+        activeBarKey = barKey;
+        renderState();
+      }
+
+      function clearActiveState() {
+        cancelPendingClear();
+        activeMode = null;
+        activeSeries = null;
+        activeBarKey = null;
+        renderState();
+      }
+
+      legendItems.forEach(function (item) {
+        var series = item.getAttribute('data-series');
+        if (!series) {
+          return;
+        }
+
+        item.addEventListener('mouseenter', function () {
+          activateSeries(series);
+        });
+        item.addEventListener('mouseleave', scheduleClearActiveState);
+        item.addEventListener('focus', function () {
+          activateSeries(series);
+        });
+        item.addEventListener('blur', clearActiveState);
+      });
+
+      segments.forEach(function (segment) {
+        var barKey = segment.getAttribute('data-bar-key');
+        if (!segment.hasAttribute('tabindex')) {
+          segment.setAttribute('tabindex', '0');
+        }
+
+        segment.addEventListener('mouseenter', function () {
+          activateSegment(barKey);
+        });
+        segment.addEventListener('mouseleave', scheduleClearActiveState);
+        segment.addEventListener('focus', function () {
+          activateSegment(barKey);
+        });
+        segment.addEventListener('blur', clearActiveState);
+      });
+
+      valueLabels.forEach(function (label) {
+        var barKey = label.getAttribute('data-bar-key');
+        if (!barKey) {
+          return;
+        }
+
+        label.style.cursor = 'pointer';
+        label.addEventListener('mouseenter', function () {
+          activateSegment(barKey);
+        });
+        label.addEventListener('mouseleave', scheduleClearActiveState);
+      });
+
+      clearActiveState();
+    }());
+  ]]></script>
+</svg>

@@ -1,6 +1,6 @@
 # Core values and first thoughts
 
-Your core values are guiding principles for you and your business. They help focus your [business plan](business-plan.md), and inform your [business identity](business-identity.md). The questions on this page help you identify your core values and goals.
+Your core values are guiding principles for you and your business. They help focus your [business plan](../business-plan/), and inform your [business identity](../business-identity/). The questions on this page help you identify your core values and goals.
 
 ## Consider
 

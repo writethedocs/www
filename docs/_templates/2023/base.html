@@ -13,9 +13,7 @@
         <meta name="author" content="Write the Docs">
         <meta name="ROBOTS" content="ALL">
 
-        <link rel="manifest" href="{{ pathto('_static/favicon/manifest.json', 1) }}">
-        <meta name="msapplication-TileColor" content="#ffffff">
-        <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+        {% include "favicon.html" %}
 
         <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,400,700" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet">
@@ -42,6 +40,17 @@
     </head>
     <body>
 
+    {% if flagpostconf %}
+    <!-- Conference Over Banner -->
+    <div class="announcement" style="padding: 15px; text-align: center;">
+        <p>
+            <strong>The {{ name }} {{ year }} conference is now over.</strong><br>
+            See our list of <a href="/conf/">current conferences</a> to join us at a future event.
+        </p>
+    </div>
+    <!-- End of Conference Over Banner -->
+    {% endif %}
+
     {% block container %}
     {% endblock %}
 
@@ -49,9 +58,9 @@
         <div class="uk-container">
         {% block footerhead %}
          {% if buttons is defined and buttons.bottom %}
-             {% for callout in buttons.bottom %}
-               <a class="uk-button uk-button-secondary uk-text-center" href="{% if callout.link_absolute %}{{ callout.link_absolute }}{% else %}{{ pathto('conf/' + shortcode + '/' + year_str + callout.link ) }}{% endif %}">{{ callout.text }}</a>
-             {% endfor %}
+             <div style="display:flex; flex-direction:inherit; flex-wrap:nowrap; gap:12px; justify-content:inherit; align-items:stretch;">{% for callout in buttons.bottom %}
+               {{ button_link(callout.link_absolute or pathto('conf/' + shortcode + '/' + year_str + callout.link), callout.text, year, wrap=False, new_tab=False, contrast=True) }}
+             {% endfor %}</div>
          {% endif %}
         {% endblock %}
         </div>

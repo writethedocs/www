@@ -5,9 +5,6 @@ import os
 import sys
 import datetime
 
-import yaml
-import ablog
-
 # Only for windows compatibility - Forces default encoding to UTF8, which it may not be on windows
 if os.name == 'nt':
     # monkeypatches sphinxcontrib.datatemplates so it uses utf-8 as the encoding
@@ -51,7 +48,7 @@ sys.path.append(os.getcwd())  # noqa
 # https://about.readthedocs.com/blog/2024/07/addons-by-default/
 
 # Define the canonical URL if you are using a custom domain on Read the Docs
-html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "https://www.writethedocs.org")
+html_baseurl = os.environ.get("READTHEDOCS_CANONICAL_URL", "https://www.writethedocs.org/")
 
 # Tell Jinja2 templates the build is running on Read the Docs
 if os.environ.get("READTHEDOCS", "") == "True":
@@ -64,16 +61,17 @@ from _ext.core import (
     render_rst_with_jinja, override_template_load_context, set_html_context, unset_html_context
 )
 from _ext.filters import add_jinja_filters_to_app
+from _ext.utils import load_yaml
 from _ext.meetups import MeetupListing
 from _ext.atom_absolute import rewrite_atom_feed
-from _ext import videos
+from _ext.button import ButtonLink, add_jinja_globals_to_app
+from _ext.community import load_community_data
 
 exclude_patterns = [
     '_build',
     'include',
     #'_data',
     'node_modules',
-    'videos/prague/2018/tackling-technical-debt-in-the-docs-louise-fahey.rst',
 ]
 
 # We use these *local* environment variables for private info like free ticket links
@@ -81,9 +79,10 @@ exclude_patterns = [
 cfp_variables = {}
 cfp_variables['upload'] = os.environ.get('WTD_CFP_UPLOAD')
 cfp_variables['ticket'] = os.environ.get('WTD_CFP_SPEAKER_TICKET')
-cfp_variables['calendly'] = os.environ.get('WTD_CFP_CALENDLY')
 cfp_variables['feedback_form'] = os.environ.get('WTD_CFP_FEEDBACK_FORM')
 cfp_variables['speaker_gift_form'] = os.environ.get('WTD_CFP_SPEAKER_GIFT_FORM')
+cfp_variables['sketchnote_name'] = os.environ.get('WTD_CFP_SKETCHNOTE_NAME')
+cfp_variables['sketchnote_email'] = os.environ.get('WTD_CFP_SKETCHNOTE_EMAIL')
 
 if all(cfp_variables.values()):
     print('Private CFP environment variables set. ✅')
@@ -91,16 +90,8 @@ if all(cfp_variables.values()):
 else:
     print('Private CFP environment variables not set, not building CFP email templates.')
 
-# Only build the videos on production, to speed up dev
 on_rtd = str(os.environ.get('READTHEDOCS')).lower() == 'true'
-build_videos = str(os.environ.get('BUILD_VIDEOS')).lower() == 'true'
-if not on_rtd and not build_videos:
-    print('EXCLUDING VIDEO PATHS. Video links will not work.')
-    exclude_patterns.append('videos')
-    REWRITE_FEED = False
-else:
-    print('BUILDING VIDEOS. All video links should work.')
-    REWRITE_FEED = True
+REWRITE_FEED = on_rtd
 
 extensions = [
     'ablog',
@@ -109,19 +100,44 @@ extensions = [
     'sphinxemoji.sphinxemoji',
     'myst_parser',
     'sphinxext.opengraph',
+    'sphinx_sitemap',
+    # Local build-speed fixes; must come after ablog, which it patches.
+    '_ext.build_perf',
+    # Header menu and banner photos for the community pages.
+    '_ext.community',
+    # Fixes for Markdown pages: '&' in links, classes on sections.
+    '_ext.markdown',
 ]
 
 myst_heading_anchors = 4
+myst_enable_extensions = ['attrs_block', 'deflist']
+# Treat markdown links as plain URLs. Without this, myst tries to resolve
+# relative links like `../foo/#anchor` as cross-references and mangles them.
+myst_all_links_external = True
 
 
 ogp_site_name = "Write the Docs"
-ogp_site_url = "/"
+# Must be an absolute URL: og:image and og:url are built by joining relative
+# paths onto this, and scrapers ignore Open Graph URLs without a domain.
+ogp_site_url = html_baseurl
 ogp_image = 'https://www.writethedocs.org/_static/logo-opengraph.png'
 ogp_use_first_image = True
 ogp_enable_meta_description = True
 # Inspired by https://github.com/executablebooks/MyST-Parser/pull/404/
 ogp_custom_meta_tags = [
     '<meta name="twitter:card" content="summary_large_image" />',
+]
+
+# Sitemap for search engines, written to sitemap.xml at the root of the site.
+# Read the Docs serves it in place of its own generated one. The site has no
+# language or version in its URLs, so the scheme is the page path alone.
+sitemap_url_scheme = "{link}"
+sitemap_excludes = [
+    "search/",
+    "genindex/",
+    "404/",
+    # ablog's tag, author and year listings; the posts themselves are listed.
+    "blog/archive/*",
 ]
 
 blog_baseurl = 'https://www.writethedocs.org/'
@@ -134,6 +150,8 @@ blog_authors = {
 }
 blog_default_author = 'Team'
 blog_feed_archives = True
+# Archive pages list titles rather than whole posts, which builds faster.
+blog_archive_titles = True
 blog_feed_fulltext = True
 # Only show 1 blog so we don't overload Mailchimp
 blog_feed_length = 1
@@ -143,7 +161,7 @@ blog_locations = {
 blog_default_location = None
 fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'
 
-templates_path = ['_templates', 'include', ablog.get_html_templates_path()]
+templates_path = ['_templates', 'include']
 html_extra_path = ['_static_html']
 source_suffix = ['.rst', '.md']
 
@@ -159,31 +177,22 @@ html_search_language = 'en'
 pygments_style = 'sphinx'
 primary_domain = None
 
-html_theme = 'alabaster'
+# The community pages use the conference design rather than a Sphinx theme:
+# _templates/layout.html builds on the bare "basic" theme. Conference pages
+# pick their own templates from _templates/<year>/.
+html_theme = 'basic'
 html_theme_options = {
-    'logo': 'sticker-wtd-colors.png',
-    'sidebar_includehidden': False,
-    'github_user': 'writethedocs',
-    'github_repo': 'www',
-    'github_banner': False,
-    'github_button': False,
+    'nosidebar': True,
+    # basic.css caps the page body at 800px; the layout sets its own widths.
+    'body_min_width': 0,
+    'body_max_width': 'none',
+    # _static/js/community.js handles "/" instead.
+    'enable_search_shortcuts': False,
 }
 
-html_favicon = '_static/favicon/favicon-96x96.png'
 html_title = 'Write the Docs'
 html_static_path = ['_static']
 html_copy_source = False
-html_sidebars = {
-    '**': [
-        'about.html',
-        'postcard.html',
-        'info.html',
-        'searchbox.html',
-        'navigation.html',
-        # 'relations.html',
-    ]
-}
-
 # Output formats
 
 htmlhelp_basename = 'WritetheDocsdoc'
@@ -208,41 +217,104 @@ suppress_warnings = ['image.nonlocal_uri', 'myst.header']
 
 # Our additions
 
-global_sponsors = yaml.safe_load("""
-- name: gitbook
-  link: https://www.gitbook.com/?utm_campaign=launch&utm_medium=display&utm_source=write_the_docs&utm_content=ad
-  brand: GitBook
-  comment: Community sponsor
-""")
+global_sponsors = load_yaml('_data/global-sponsors.yaml')
 
 # Dynamic announcement message
 announcement_message = None
 
-if datetime.date(2025, 2, 1) <= datetime.date.today() <= datetime.date(2025, 5, 4):
-    announcement_message = "Portland 2025 speakers announced. <a href='/conf/portland/2025/'>Buy your ticket now</a>"
+if datetime.date.today() <= datetime.date(2026, 1, 19):
+    announcement_message = "Portland 2026 CFP is open! <a href='/conf/portland/2026/cfp/'>Submit your talk</a>."
+elif datetime.date(2026, 1, 20) <= datetime.date.today() <= datetime.date(2026, 5, 1):
+    announcement_message = "Portland 2026 tickets are on sale! <a href='/conf/portland/2026/tickets/'>Get your ticket</a>."
+elif datetime.date(2026, 5, 2) <= datetime.date.today() <= datetime.date(2026, 5, 5):
+    announcement_message = "Portland 2026: May 3-5. <a href='/conf/portland/2026/'>View the conference site</a>."
+elif datetime.date(2026, 5, 6) <= datetime.date.today() <= datetime.date(2026, 6, 1):
+    announcement_message = "Berlin 2026 CFP is open! <a href='/conf/berlin/2026/cfp/'>Submit your talk</a>."
+elif datetime.date(2026, 6, 2) <= datetime.date.today() <= datetime.date(2026, 9, 5):
+    announcement_message = "Berlin 2026 tickets are on sale! <a href='/conf/berlin/2026/tickets/'>Get your ticket</a>."
+elif datetime.date(2026, 9, 6) <= datetime.date.today() <= datetime.date(2026, 9, 9):
+    announcement_message = "Berlin 2026: Sep 6-8. <a href='/conf/berlin/2026/'>View the conference site</a>."
+elif datetime.date(2026, 9, 10) <= datetime.date.today() <= datetime.date(2026, 9, 18):
+    announcement_message = "Australia 2026 CFP is open! <a href='/conf/australia/2026/cfp/'>Submit your talk</a>."
+elif datetime.date(2026, 9, 19) <= datetime.date.today() <= datetime.date(2026, 12, 2):
+    announcement_message = "Australia 2026 tickets are on sale! <a href='/conf/australia/2026/tickets/'>Get your ticket</a>."
+elif datetime.date(2026, 12, 3) <= datetime.date.today() <= datetime.date(2026, 12, 4):
+    announcement_message = "Australia 2026: Dec 3-4. <a href='/conf/australia/2026/'>View the conference site</a>."
+
+# The salary survey, which is open for submissions for part of the year.
+# Update these when the next survey opens; the front page swaps between
+# asking people to take it and pointing at the published results.
+_salary_survey_closes = datetime.date(2027, 1, 31)
+salary_survey = {
+    'year': 2026,
+    'url': 'https://salary-survey.writethedocs.org/',
+    'open': datetime.date.today() <= _salary_survey_closes,
+    'closes': f'{_salary_survey_closes.day} {_salary_survey_closes:%B %Y}',
+}
+
+# The welcome to the new website on the front page, shown for about two months
+# after it launched. Take it out of docs/index.md once it has ended.
+new_website_welcome = datetime.date.today() <= datetime.date(2026, 12, 21)
 
 html_context = {
     'conf_py_root': os.path.dirname(os.path.abspath(__file__)),
-    'newsletter_subs': '10,000',
-    'slack_members': '22,500',
+    'salary_survey': salary_survey,
+    'newsletter_subs': '12,000',
+    'slack_members': '27,000',
     'website_visits': '20,000',
+    'meetup_cities': '25',
+    'conf_attendees': '600',
     'global_sponsors': global_sponsors,
     'cfp_variables': cfp_variables,
-    'slack_join': "https://join.slack.com/t/writethedocs/shared_invite/zt-2le6owut0-0WqJ3z5dtQyrIerk97YNlw",
+    'slack_join': "https://join.slack.com/t/writethedocs/shared_invite/zt-3uxp60m0w-4Ys1SrX798HMyIXpxyD6EQ",
     'slack_form': "https://docs.google.com/forms/d/e/1FAIpQLSdq4DWRphVt1qVqH8NsjNnS0Szu_NljjZRUvyYqR7mdc00zKQ/viewform?usp=sf_link",
     'announcement_message': announcement_message,
+    'new_website_welcome': new_website_welcome,
 }
+# After html_context, which fills in the placeholders in the front page text.
+html_context['community'] = load_community_data(html_context)
 
-if build_videos:
-
-    html_context.update(videos.main())
-
-notfound_no_urls_prefix = True
+notfound_urls_prefix = '/'
 
 
 def setup(app):
+
+    # add any metadata from the template into the page context
+    def add_metadata(app, pagename, templatename, context, doctree):
+        metadata = app.env.metadata.get(pagename, {})
+        context.update(metadata)
+
+    # Fix canonical URLs for the dirhtml builder (Sphinx 5.x generates .html suffixed URLs)
+    def fix_canonical_url(app, pagename, templatename, context, doctree):
+        pageurl = context.get('pageurl')
+        if pageurl and pageurl.endswith('.html'):
+            if pageurl.endswith('/index.html'):
+                context['pageurl'] = pageurl[:-10]  # strip /index.html, keep trailing /
+            else:
+                context['pageurl'] = pageurl[:-5] + '/'  # strip .html, add /
+
+    # sphinx-notfound-page links the front page as "#" on the 404 page,
+    # because the dirhtml builder's URL for it is empty, so the logo and the
+    # Home link went nowhere. Point them at the site root instead. This runs
+    # after the extension swaps in its own pathto (priority 400).
+    def fix_404_home_links(app, pagename, templatename, context, doctree):
+        if pagename != app.config.notfound_pagename:
+            return
+        notfound_pathto = context['pathto']
+
+        def pathto(*args, **kwargs):
+            uri = notfound_pathto(*args, **kwargs)
+            return '/' if uri == '#' else uri
+
+        context['pathto'] = pathto
+
+    app.connect("html-page-context", add_metadata)
+    app.connect("html-page-context", fix_canonical_url)
+    app.connect("html-page-context", fix_404_home_links, priority=600)
+
     # Set up our custom jinja filters
     app.connect("builder-inited", add_jinja_filters_to_app)
+    app.connect("builder-inited", add_jinja_globals_to_app)
 
     # Transform RST with Jinja, using proper context
     app.connect("source-read", render_rst_with_jinja)
@@ -254,11 +326,11 @@ def setup(app):
     # Render HTML templates with proper HTML context
     app.connect('html-page-context', override_template_load_context)
 
-    if on_rtd or build_videos or REWRITE_FEED:
+    if on_rtd or REWRITE_FEED:
         app.connect('build-finished', rewrite_atom_feed)
 
     app.add_directive('meetup-listing', MeetupListing)
-    app.add_directive('datatemplate-video', videos.DataTemplateVideo)
+    app.add_directive('button-link', ButtonLink)
     app.add_css_file('css/global-customizations.css')
     app.add_css_file('css/survey.css')
 

@@ -51,7 +51,7 @@ Tickets will officially go on sale in **July {{ year }}**.
 We will announce ticket prices soon, so that you can start planning your budget.
 
 As always, we keep ticket prices low so that it is accessible to the widest range of people possible.
-However, if you can't afford these prices and still wish to attend, we will bringing our Opportunity Grants program back again this year.
+However, if you can't afford these prices and still wish to attend, we will be bringing our Opportunity Grants program back again this year.
 
 Sponsorship
 -----------
@@ -60,7 +60,7 @@ We are planning to do similar sponsorship levels again this year as last year.
 In addition to the regular sponsorship levels, we have additional ways to sponsor our online events.
 See our `sponsorship prospectus <https://www.writethedocs.org/conf/australia/2024/sponsors/prospectus/>`_ for all the options.
 
-We're always open to customisations on our sponsorships, so freel free to reach out with ideas or questions at australia@writethedocs.org.
+We're always open to customisations on our sponsorships, so feel free to reach out with ideas or questions at australia@writethedocs.org.
 
 Stay Updated
 ------------

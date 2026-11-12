@@ -5,6 +5,16 @@
 Tickets
 =======
 
+.. class:: ticket
+
+**Looking for tickets for Write the Docs Berlin?**
+--------------------------------------------------
+
+A newsletter for the Berlin 2025 conference accidentally included a link to
+this page.
+You can `order your Berlin conference tickets here </conf/berlin/2025/tickets>`_.
+
+{# commented out as interfered with banner
 {% if flagticketsonsale %}
 
 **Tickets are on sale now!**
@@ -26,6 +36,7 @@ Conference shirts are also available. See the `Official Conference Shirts`_ sect
 **Tickets will be available in {{ date.tickets_live }}.**
 
 {% endif %}
+#}
 
 Ticket Information
 ------------------

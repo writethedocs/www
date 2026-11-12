@@ -18,7 +18,7 @@ The talks were just announced for the Prague conference, and the `Australia & In
 
 We also had our second virtual Portland conference in April this year.
 It was another success with almost 700 people attending from all over the world.
-The `videos <https://www.writethedocs.org/videos/portland/2021/>`_ from the conference are now available online.
+The videos from the conference are now available on our `YouTube channel <https://www.youtube.com/c/WritetheDocs>`_.
 
 Write the Docs Enhancement Proposals (WEPs)
 -------------------------------------------

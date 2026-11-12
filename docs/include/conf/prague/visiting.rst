@@ -10,7 +10,7 @@ Flights
 ~~~~~~~
 
 Prague's `Vaclav Havel airport <http://www.prg.aero/en/>`__ provides many direct and low-cost flights with airlines such as Czech Airlines, Ryanair, Wizz Air, Air Berlin, Norwegian... You get the idea.
-To get from the airport to the city center, you can either take a the Airport Express bus (average journey time 25 minutes, cost ~60czk) or a taxi (average journey time 15-20 minutes depending on traffic, cost ~500czk).
+To get from the airport to the city center, you can either take the Airport Express bus (average journey time 25 minutes, cost ~60czk) or a taxi (average journey time 15-20 minutes depending on traffic, cost ~500czk).
 
 Trains
 ~~~~~~

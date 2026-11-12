@@ -1,0 +1,375 @@
+<svg viewBox="0 0 660 440" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2025-svg.css);
+      ]]>
+    </style>
+    <filter id="label-bg" x="-15%" y="-40%" width="130%" height="180%">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="3" result="expanded"/>
+      <feGaussianBlur in="expanded" stdDeviation="5" result="blurred"/>
+      <feComponentTransfer in="blurred" result="rounded">
+        <feFuncA type="linear" slope="20" intercept="-5"/>
+      </feComponentTransfer>
+      <feFlood flood-color="white" flood-opacity="0.8" result="color"/>
+      <feComposite in="color" in2="rounded" operator="in" result="bg"/>
+      <feMerge>
+        <feMergeNode in="bg"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g id="2025-job-search-ec-employee-v2" data-color-count="5">
+    <g class="chart-header">
+      <g class="chart-title">
+        <text x="20" y="35" class="title-text">Job search status</text>
+        <text x="20" y="53" class="title-text">— as employee</text>
+        <text x="20" y="75" class="subtitle-text">Employee-contractor respondents (34)</text>
+      </g>
+
+      <g class="legend scale-job-search-status">
+        <g class="legend-row">
+          <g class="legend-item">
+            <rect class="legend-item-container" x="317" y="20" width="149"/>
+            <circle class="open-offers chart-color-1" cx="330" cy="31"/>
+            <text class="legend-label" x="338" y="35">Not looking, open to offers</text>
+          </g>
+          <g class="legend-item">
+            <rect class="legend-item-container" x="476" y="20" width="164"/>
+            <circle class="not-open chart-color-2" cx="489" cy="31"/>
+            <text class="legend-label" x="497" y="35">Not looking, not open to offers</text>
+          </g>
+        </g>
+        <g class="legend-row">
+          <g class="legend-item">
+            <rect class="legend-item-container" x="349" y="52" width="179"/>
+            <circle class="open-to-contract chart-color-3" cx="362" cy="63"/>
+            <text class="legend-label" x="370" y="67">Actively looking, open to contract</text>
+          </g>
+          <g class="legend-item">
+            <rect class="legend-item-container" x="538" y="52" width="102"/>
+            <circle class="actively-looking chart-color-4" cx="551" cy="63"/>
+            <text class="legend-label" x="559" y="67">Actively looking</text>
+          </g>
+        </g>
+        <g class="legend-row">
+          <g class="legend-item">
+            <rect class="legend-item-container" x="452" y="84" width="188"/>
+            <circle class="not-looking-yet chart-color-5" cx="465" cy="95"/>
+            <text class="legend-label" x="473" y="99">Not looking, expect to within a year</text>
+          </g>
+        </g>
+      </g>
+    </g>
+
+    <g class="chart-area donut-chart scale-job-search-status" transform="translate(110 24)">
+      <path class="slice open-offers chart-color-1" d="M 220,90 A 150 150 0 0 1 321.1,350.9 L 260.4,284.3 A 60 60 0 0 0 220,180 Z"/>
+      <path class="slice not-open chart-color-2" d="M 321.1,350.9 A 150 150 0 0 1 75.7,281 L 162.3,256.4 A 60 60 0 0 0 260.4,284.3 Z"/>
+      <path class="slice open-to-contract chart-color-3" d="M 75.7,281 A 150 150 0 0 1 100.3,149.6 L 172.1,203.8 A 60 60 0 0 0 162.3,256.4 Z"/>
+      <path class="slice actively-looking chart-color-4" d="M 100.3,149.6 A 150 150 0 0 1 165.8,100.1 L 198.3,184.1 A 60 60 0 0 0 172.1,203.8 Z"/>
+      <path class="slice not-looking-yet chart-color-5" d="M 165.8,100.1 A 150 150 0 0 1 220,90 L 220,180 A 60 60 0 0 0 198.3,184.1 Z"/>
+
+      <text text-anchor="middle" class="value-labels-inner"><tspan x="318" y="206">38.2%</tspan></text>
+      <text text-anchor="middle" class="value-labels-inner"><tspan x="191" y="345">32.4%</tspan></text>
+      <text text-anchor="middle" class="value-labels-inner"><tspan x="117" y="225">14.7%</tspan></text>
+      <text text-anchor="middle" class="value-labels-inner"><tspan x="156" y="163">8.8%</tspan></text>
+      <text text-anchor="middle" class="value-labels-inner"><tspan x="203" y="141">5.9%</tspan></text>
+    </g>
+  </g>
+
+  <script type="application/ecmascript"><![CDATA[
+    (function () {
+      var root = document.querySelector('svg > g[id], g[id]');
+      if (!root) {
+        return;
+      }
+
+      var ignoredClasses = {
+        'legend-item-container': true,
+        'legend-label': true,
+        'legend-item': true,
+        'legend-row': true,
+        'slice': true,
+        'track': true,
+        'tracks': true,
+        'bars': true,
+        'data-series': true,
+        'series-lines': true,
+        'chart-area': true,
+        'chart-header': true,
+        'chart-title': true,
+        'axis-labels': true,
+        'gridlines': true,
+        'value-labels-inner': true,
+        'value-labels-outer': true,
+        'chart-color-1': true,
+        'chart-color-2': true,
+        'chart-color-3': true,
+        'chart-color-4': true,
+        'chart-color-5': true,
+        'chart-color-6': true
+      };
+
+      function firstSeriesClass(element) {
+        if (!element || !element.classList) {
+          return null;
+        }
+
+        for (var i = 0; i < element.classList.length; i += 1) {
+          var className = element.classList[i];
+          if (!ignoredClasses[className]) {
+            return className;
+          }
+        }
+
+        return null;
+      }
+
+      function legendSeries(item) {
+        var swatch = item.querySelector('circle[class], rect[class]:not(.legend-item-container), line[class], polyline[class], path[class], ellipse[class], polygon[class]');
+        return firstSeriesClass(swatch);
+      }
+
+      var slices = root.querySelectorAll('.slice');
+      var labels = root.querySelectorAll('.value-labels-inner');
+      var legendItems = Array.prototype.slice.call(root.querySelectorAll('.legend-item')).filter(function (item) {
+        return !!legendSeries(item);
+      });
+
+      if (legendItems.length === 0) {
+        return;
+      }
+
+      var seriesNames = [];
+      legendItems.forEach(function (item) {
+        var series = legendSeries(item);
+        item.setAttribute('data-series', series);
+        if (!item.hasAttribute('tabindex')) {
+          item.setAttribute('tabindex', '0');
+        }
+        item.style.cursor = 'pointer';
+
+        var container = item.querySelector('rect.legend-item-container');
+        if (container) {
+          container.style.transition = 'opacity 220ms ease-in-out, stroke 220ms ease-in-out, stroke-width 220ms ease-in-out';
+        }
+
+        var label = item.querySelector('text.legend-label');
+        if (label) {
+          label.style.transition = 'opacity 220ms ease-in-out';
+        }
+
+        if (seriesNames.indexOf(series) === -1) {
+          seriesNames.push(series);
+        }
+      });
+
+      function assignLabelSeries() {
+        Array.prototype.forEach.call(labels, function (label) {
+          if ((label.getAttribute && label.getAttribute('data-series')) || label.closest('.legend')) {
+            return;
+          }
+
+          var labelBox = label.getBBox();
+          var labelX = labelBox.x + (labelBox.width / 2);
+          var labelY = labelBox.y + (labelBox.height / 2);
+          var nearestSeries = null;
+          var nearestDistance = Infinity;
+
+          slices.forEach(function (slice) {
+            var sliceSeries = firstSeriesClass(slice);
+            if (!sliceSeries || seriesNames.indexOf(sliceSeries) === -1) {
+              return;
+            }
+
+            var sliceBox = slice.getBBox();
+            var sliceX = sliceBox.x + (sliceBox.width / 2);
+            var sliceY = sliceBox.y + (sliceBox.height / 2);
+            var dx = labelX - sliceX;
+            var dy = labelY - sliceY;
+            var distance = (dx * dx) + (dy * dy);
+
+            if (distance < nearestDistance) {
+              nearestDistance = distance;
+              nearestSeries = sliceSeries;
+            }
+          });
+
+          if (nearestSeries) {
+            label.setAttribute('data-series', nearestSeries);
+            label.style.transition = 'opacity 220ms ease-in-out, font-size 220ms ease-in-out, fill-opacity 220ms ease-in-out';
+          }
+        });
+      }
+
+      assignLabelSeries();
+
+      Array.prototype.forEach.call(labels, function (label) {
+        if (!label.style.transition) {
+          label.style.transition = 'opacity 220ms ease-in-out, font-size 220ms ease-in-out, fill-opacity 220ms ease-in-out';
+        }
+      });
+
+      var elementsBySeries = {};
+      seriesNames.forEach(function (series) {
+        elementsBySeries[series] = [];
+      });
+
+      Array.prototype.forEach.call(root.querySelectorAll('*'), function (element) {
+        if (element.closest('.legend')) {
+          return;
+        }
+
+        var series = null;
+        if (element.hasAttribute && element.hasAttribute('data-series')) {
+          var dataSeries = element.getAttribute('data-series');
+          if (seriesNames.indexOf(dataSeries) !== -1) {
+            series = dataSeries;
+          }
+        }
+
+        if (!series) {
+          series = firstSeriesClass(element);
+        }
+
+        if (!series) {
+          var ancestor = element.parentElement;
+          while (ancestor && ancestor !== root && !series) {
+            if (ancestor.hasAttribute && ancestor.hasAttribute('data-series')) {
+              var ancestorDataSeries = ancestor.getAttribute('data-series');
+              if (seriesNames.indexOf(ancestorDataSeries) !== -1) {
+                series = ancestorDataSeries;
+                break;
+              }
+            }
+
+            var ancestorSeries = firstSeriesClass(ancestor);
+            if (ancestorSeries && seriesNames.indexOf(ancestorSeries) !== -1) {
+              series = ancestorSeries;
+              break;
+            }
+
+            ancestor = ancestor.parentElement;
+          }
+        }
+
+        if (!series || seriesNames.indexOf(series) === -1) {
+          return;
+        }
+
+        elementsBySeries[series].push(element);
+        element.style.transition = 'opacity 220ms ease-in-out, fill-opacity 220ms ease-in-out, stroke-opacity 220ms ease-in-out';
+      });
+
+      function clearActiveSeries() {
+        legendItems.forEach(function (item) {
+          item.style.removeProperty('opacity');
+          var container = item.querySelector('rect.legend-item-container');
+          if (container) {
+            container.style.removeProperty('stroke');
+            container.style.removeProperty('stroke-width');
+          }
+        });
+
+        seriesNames.forEach(function (series) {
+          elementsBySeries[series].forEach(function (element) {
+            element.style.removeProperty('opacity');
+          });
+        });
+
+        labels.forEach(function (label) {
+          var isHoverOnly = label.classList.contains('hover-only');
+          label.style.opacity = isHoverOnly ? '0' : '';
+          label.style.removeProperty('font-size');
+          label.style.removeProperty('font-weight');
+          label.style.removeProperty('fill-opacity');
+        });
+      }
+
+      function setActiveSeries(series) {
+        var isSingleSeries = seriesNames.length === 1;
+
+        legendItems.forEach(function (item) {
+          var isActive = item.getAttribute('data-series') === series;
+          item.style.opacity = isActive ? '1' : '0.4';
+
+          var container = item.querySelector('rect.legend-item-container');
+          if (container) {
+            container.style.stroke = isActive ? 'var(--color-text-dark)' : '';
+            container.style.strokeWidth = isActive ? '1.5' : '';
+          }
+        });
+
+        seriesNames.forEach(function (name) {
+          var isActive = name === series;
+          elementsBySeries[name].forEach(function (element) {
+            if (isSingleSeries) {
+              element.style.fillOpacity = isActive ? '1' : '0.25';
+              element.style.strokeOpacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('opacity');
+            } else {
+              element.style.opacity = isActive ? '1' : '0.25';
+              element.style.removeProperty('fill-opacity');
+              element.style.removeProperty('stroke-opacity');
+            }
+          });
+        });
+
+        labels.forEach(function (label) {
+          var isActive = label.getAttribute && label.getAttribute('data-series') === series;
+          if (isActive) {
+            label.style.opacity = '1';
+            label.style.fontSize = '14px';
+            label.style.fontWeight = '700';
+            label.style.fillOpacity = '1';
+          } else {
+            var isHoverOnly = label.classList.contains('hover-only');
+            label.style.opacity = isHoverOnly ? '0' : '';
+            label.style.removeProperty('font-size');
+            label.style.removeProperty('font-weight');
+            label.style.removeProperty('fill-opacity');
+          }
+        });
+      }
+
+      legendItems.forEach(function (item) {
+        var series = item.getAttribute('data-series');
+
+        item.addEventListener('mouseenter', function () {
+          setActiveSeries(series);
+        });
+
+        item.addEventListener('mouseleave', clearActiveSeries);
+
+        item.addEventListener('focus', function () {
+          setActiveSeries(series);
+        });
+
+        item.addEventListener('blur', clearActiveSeries);
+      });
+
+      slices.forEach(function (slice) {
+        var series = null;
+
+        legendItems.forEach(function (item) {
+          var itemSeries = item.getAttribute('data-series');
+          if (!series && slice.classList.contains(itemSeries)) {
+            series = itemSeries;
+          }
+        });
+
+        if (!series) {
+          return;
+        }
+
+        slice.addEventListener('mouseenter', function () {
+          setActiveSeries(series);
+        });
+
+        slice.addEventListener('mouseleave', clearActiveSeries);
+      });
+    }());
+  ]]></script>
+</svg>

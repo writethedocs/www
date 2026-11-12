@@ -1,0 +1,94 @@
+{% extends "conference/base.html" %}
+{% from "conference/navbar.html" import navbar_items, offcanvas_items with context %}
+
+{% block head_link %}
+<style>
+.page-content h1 {
+    display: none;
+}
+</style>
+{% endblock %}
+
+{% block container %}
+<div class="header">
+        <nav class="uk-navbar-container uk-container uk-navbar-transparent" uk-navbar="offset: -18px">
+            <div class="uk-navbar-left">
+                <div class="header-logo uk-visible@s">
+                    <a href="{{ pathto('conf/' + shortcode + '/' + year_str) }}">
+                        <img src="{{ pathto(  '_static/conf/images/logos/' + shortcode + year_str + '.png', 1  ) }}" width="130" alt="Write the Docs {{ name }} {{ year }}">
+                    </a>
+                </div>
+            </div>
+            <div class="uk-navbar-right">
+                <button class="uk-navbar-toggle uk-hidden@s"  type="button" uk-navbar-toggle-icon uk-toggle="target: #offcanvas-nav"></button>
+                <div id="offcanvas-nav" uk-offcanvas="overlay: true">
+                    <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+                            <div class="menu-logo">
+                                    <img src="{{ pathto(  '_static/conf/images/logos/' + shortcode + year_str + '-dark.png', 1  ) }}" width="130" alt="">
+                                </div>
+                              {% if not flaglanding %}
+                             {{ offcanvas_items() }}
+                             {% endif %}
+                    </div>
+                </div>
+             {% if not flaglanding %}
+             {{ navbar_items() }}
+             {% endif %}
+            </div>
+        </nav>
+
+    </div><!-- end header -->
+    <div class="mobile-post-header uk-hidden@s">
+        <div class="header-logo">
+                <a href="{{ pathto('conf/' + shortcode + '/' + year_str) }}">
+                    <img src="{{ pathto(  '_static/conf/images/logos/' + shortcode + year_str + '.png', 1  ) }}" width="150" alt="Write the Docs {{ name }} {{ year_str }}">
+                </a>
+        </div>
+    </div><!-- end post header -->
+
+    {#- page_banner is the page's own banner, or one of photos.default (_ext/community.py).
+        The photo sits under a navy tint, as on the community pages, so the
+        title area reads calmer. #}
+    <div class="page-banner" style="background-image: linear-gradient(rgba(19, 37, 48, 0.5), rgba(19, 37, 48, 0.6)), url('{{ pathto(page_banner, 1) }}')">
+        <div class="uk-container">
+            <h1 style="background-color: rgba(1, 1, 1, 0.6); padding: 10px 20px; border-radius: 8px; display: inline-block;">{% block pagename %}{{ title }}{% endblock %}</h1>
+        </div>
+    </div>
+    <!-- end page-banner -->
+
+  {% if body %}
+    {#- The page's sections, as on the community pages: a column beside the
+        content on wide screens, folded above it on smaller ones. The first
+        link in `toc` is the page itself, so a page needs two sections for
+        the list to help. Only 2027 on: earlier years load their own CSS,
+        which has no styles for it. #}
+    {%- set page_toc = toc if year|int >= 2027 and display_toc and toc.count('<a ') > 2 else '' %}
+    <div class="page-content{% if page_toc %} has-page-toc{% endif %}" role="main">
+        <div class="uk-container">
+            {%- if page_toc %}
+            <details class="page-toc-compact">
+                <summary>On this page</summary>
+                <nav class="page-toc-list" aria-label="On this page">{{ page_toc }}</nav>
+            </details>
+            <div class="page-columns">
+                <div class="page-body">
+            {%- endif %}
+                {% block body %}
+                {{ body }}
+                {% endblock body %}
+            {%- if page_toc %}
+                </div>
+                <aside>
+                    <nav class="page-toc page-toc-list" aria-labelledby="page-toc-title" uk-scrollspy-nav="cls: is-current; offset: 80">
+                        <h2 id="page-toc-title">On this page</h2>
+                        {{ page_toc }}
+                    </nav>
+                </aside>
+            </div>
+            {%- endif %}
+                {# {% include "postcard.html" %} #}
+        </div>
+    </div>
+  {% endif %}
+
+{% endblock container %}

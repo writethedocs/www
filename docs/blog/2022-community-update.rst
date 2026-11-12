@@ -51,7 +51,7 @@ allowing them to catch up on past conversations a bit more easily.
 We know some people wish we could pay for Slack,
 but we address `Slack history limitations <https://www.writethedocs.org/slack/#slack-history>`_ on our website.
 
-We also wanted to take the time to show appreciation to Janine Chan and all our `Slack moderation team <https://www.writethedocs.org/team/#slack-moderation>`_.
+We also wanted to take the time to show appreciation to Janine Chan and all our `Slack moderation team <https://www.writethedocs.org/team/#moderation-team>`_.
 We are overjoyed at the helpful community that we've been able to curate on our Slack network,
 and they play a huge role in that.
 If you aren't on our Slack,

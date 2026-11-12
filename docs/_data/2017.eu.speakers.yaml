@@ -30,7 +30,7 @@
         <li><p>How can documentarians and developers work together to name things
         better?</p></li>"
     event: Write the Docs EU 2017
-    path: conf/eu/2017/videos/even-naming-this-talk-is-hard-ruthie-bendor
+    path: https://www.youtube.com/watch?v=JuI6NUbEzDw
     series: Write the Docs EU
     series_slug: eu
     slug: even-naming-this-talk-is-hard-ruthie-bendor
@@ -72,7 +72,7 @@
         \ build demand within the company for further \u201Cgetting started\u201D\
         \ content</p></li>\n</ul>"
     event: Write the Docs EU 2017
-    path: conf/eu/2017/videos/you-never-get-a-second-chance-to-make-a-first-impression-writing-great-getting-started-documentation-tim-rogers
+    path: https://www.youtube.com/watch?v=wqC88GNujWQ
     series: Write the Docs EU
     series_slug: eu
     slug: you-never-get-a-second-chance-to-make-a-first-impression-writing-great-getting-started-documentation-tim-rogers
@@ -96,7 +96,7 @@
         \ documentation, and why I think that GraphQL is a boon for technical writers,\
         \ developers, and end users.</p>"
     event: Write the Docs EU 2017
-    path: conf/eu/2017/videos/finally-trustworthy-and-sensible-api-documentation-with-graphql-garen-torikian
+    path: https://www.youtube.com/watch?v=aJk99MSVj0Y
     series: Write the Docs EU
     series_slug: eu
     slug: finally-trustworthy-and-sensible-api-documentation-with-graphql-garen-torikian
@@ -135,7 +135,7 @@
         \ or wondering how better docs can help your OSS efforts succeed, you might\
         \ find some help here.</p>"
     event: Write the Docs EU 2017
-    path: conf/eu/2017/videos/telling-a-great-story-on-github-lauri-apple
+    path: https://www.youtube.com/watch?v=9fq3-U9PKAA
     series: Write the Docs EU
     series_slug: eu
     slug: telling-a-great-story-on-github-lauri-apple
@@ -174,7 +174,7 @@
         \ and poorly-understood aspects of documentation that will make your software\
         \ projects and teams more successful.</p>"
     event: Write the Docs EU 2017
-    path: conf/eu/2017/videos/the-four-kinds-of-documentation-and-why-you-need-to-understand-what-they-are-daniele-procida
+    path: https://www.youtube.com/watch?v=p0PPtdRHG6M
     series: Write the Docs EU
     series_slug: eu
     slug: the-four-kinds-of-documentation-and-why-you-need-to-understand-what-they-are-daniele-procida
@@ -203,7 +203,7 @@
         about the words we use with our coworkers. Let''s talk about how we can all
         make diversity a daily practice at work, not just a hiring problem.</p>'
     event: Write the Docs EU 2017
-    path: conf/eu/2017/videos/sticks-stones-microaggressions-inclusive-language-at-work-cory-williamson-cardneau
+    path: https://www.youtube.com/watch?v=lXXuQQ9xtPc
     series: Write the Docs EU
     series_slug: eu
     slug: sticks-stones-microaggressions-inclusive-language-at-work-cory-williamson-cardneau
@@ -312,7 +312,7 @@
         \ contractions, and even emojis? \n\u2022   What are the implications of this\
         \ evolution on localization? </p>"
     event: Write the Docs EU 2017
-    path: conf/eu/2017/videos/aw-snap-the-docs-they-are-a-changin-with-apologies-to-bob-dylan-kate-wilcox
+    path: https://www.youtube.com/watch?v=DYgw6xcpDmE
     series: Write the Docs EU
     series_slug: eu
     slug: aw-snap-the-docs-they-are-a-changin-with-apologies-to-bob-dylan-kate-wilcox
@@ -341,7 +341,7 @@
         \ essays, documentation \u2014 that we can transform in physical books, e-books,\
         \ interactive web pages etc.</p>"
     event: Write the Docs EU 2017
-    path: conf/eu/2017/videos/writing-a-book-in-2017-thomas-parisot
+    path: https://www.youtube.com/watch?v=p2eAXLR3OOk
     series: Write the Docs EU
     series_slug: eu
     slides: https://oncletom.io/talks/2017/writethedocs/
@@ -366,7 +366,7 @@
         of your docs depends on things you are never told. This talk is about reading
         your stakeholders and deducing the ultimate requirements.</p>
     event: Write the Docs EU 2017
-    path: conf/eu/2017/videos/requirements-that-you-didn-t-know-were-there-lesia-zasadna
+    path: https://www.youtube.com/watch?v=3oklMXaGA3Y
     slides: https://www.slideshare.net/LesiaZasadna/requirements-that-you-didnt-know-were-there-write-the-docs-europe-2017
     series: Write the Docs EU
     series_slug: eu
@@ -417,7 +417,7 @@
         <p>In summary, our work typically appears on one of the most dynamic platforms
         (the web) that has ever existed, let''s all do more with it!</p>'
     event: Write the Docs EU 2017
-    path: conf/eu/2017/videos/documentation-beyond-words-chris-ward
+    path: https://www.youtube.com/watch?v=lTYvWjS1nHw
     series: Write the Docs EU
     series_slug: eu
     slug: documentation-beyond-words-chris-ward
@@ -446,7 +446,7 @@
         \ and hear more about my main takeaways regarding documentation in general\
         \ and the experiences with my team in particular. </p>"
     event: Write the Docs EU 2017
-    path: conf/eu/2017/videos/an-alien-looking-from-the-outside-in-main-takeaways-after-one-year-in-documentation-meike-chabowski
+    path: https://www.youtube.com/watch?v=y4UyU4XIn5c
     series: Write the Docs EU
     series_slug: eu
     slug: an-alien-looking-from-the-outside-in-main-takeaways-after-one-year-in-documentation-meike-chabowski
@@ -477,7 +477,7 @@
         \ announcement to your service\u2019s last day, you\u2019ll learn how to say\
         \ goodbye in a way that\u2019s good for you and your soon-to-be-former users.</p>"
     event: Write the Docs EU 2017
-    path: conf/eu/2017/videos/deprecate-and-destroy-documenting-your-software-s-last-days-daniel-d-beck
+    path: https://www.youtube.com/watch?v=XWNw3TgbGLg
     series: Write the Docs EU
     series_slug: eu
     slides: https://ddbeck.com/wtdeu2017/
@@ -509,7 +509,7 @@
     title: 'Tech Writers Without Borders: Making the world a better place, one (numbered) step at a time'
     slides: https://speakerdeck.com/sculshaw/making-the-world-a-better-place-one-numbered-step-at-a-time
     event: Write the Docs EU 2017
-    path: conf/eu/2017/videos/tech-writers-without-borders-making-the-world-a-better-place-one-numbered-step-at-a-time-stuart-culshaw
+    path: https://www.youtube.com/watch?v=MgS1WuOcK4o
     series: Write the Docs EU
     series_slug: eu
     slug: tech-writers-without-borders-making-the-world-a-better-place-one-numbered-step-at-a-time-stuart-culshaw
@@ -577,7 +577,7 @@
         and wants to know how documentation can help newcomers and more experienced
         users use your code and to encourage them to engage in the community.</p>'
     event: Write the Docs EU 2017
-    path: conf/eu/2017/videos/hi-my-name-is-readme-raphael-pierzina
+    path: https://www.youtube.com/watch?v=0z0jquYos90
     series: Write the Docs EU
     series_slug: eu
     slides: https://speakerdeck.com/hackebrot/hi-my-name-is-readme-writethedocs-2017
@@ -622,7 +622,7 @@
 
         </ul>'
     event: Write the Docs EU 2017
-    path: conf/eu/2017/videos/a-content-manager-s-guide-to-crowdsourcing-the-docs-becky-todd
+    path: https://www.youtube.com/watch?v=BnWmPulCNhA
     series: Write the Docs EU
     series_slug: eu
     slides: https://www.slideshare.net/BeckyTodd3/content-managers-guide-to-crowdsourcing-the-docs
@@ -652,7 +652,7 @@
         \ that you can implement design critique guidelines into your own review process\
         \ to make feedback painless.</p>"
     event: Write the Docs EU 2017
-    path: conf/eu/2017/videos/you-have-already-succeeded-design-critique-guidelines-make-feedback-easier-2-0-christy-lutz
+    path: https://www.youtube.com/watch?v=DOuRgFP4NMQ
     series: Write the Docs EU
     series_slug: eu
     slides: http://canncrochet.com/filter/articles/Presentations-1

@@ -30,7 +30,7 @@ Check TripAdvisor to find other hotels and accommodations in the Cincinnati area
 How to get around
 -----------------
 
-Cincinnati is a small, walkable city with public transportation options available. Over-the-Rhine is about 1 mile north of the downtown area, which is bordered to the south by the Ohio River. We encourage you to connect with other documnentarians and explore during your stay.
+Cincinnati is a small, walkable city with public transportation options available. Over-the-Rhine is about 1 mile north of the downtown area, which is bordered to the south by the Ohio River. We encourage you to connect with other documentarians and explore during your stay.
 
 Streetcars and Buses
 ~~~~~~~~~~~~~~~~~~~~

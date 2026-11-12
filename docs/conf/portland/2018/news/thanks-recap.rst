@@ -40,9 +40,8 @@ see our awesome community gather out in the physical world.
 Videos and photos and write-ups
 ===============================
 
-Videos of all the talks are now available `in our video
-archive <https://www.writethedocs.org/videos/portland/2018/>`__. Thanks 
-to `Backpedal <https://backpedal.tv/>`__ for doing such a great job with these. 
+Videos of all the talks are now available on `our YouTube playlist <https://www.youtube.com/playlist?list=PLZAeFn6dfHplUgfLOLEuHHAm1HdrIyaZ7>`__. Thanks
+to `Backpedal <https://backpedal.tv/>`__ for doing such a great job with these.
 If you gave a lightning talk, we're working to get
 them on our site, but you can see them on 
 `YouTube <https://www.youtube.com/playlist?list=PLZAeFn6dfHplUgfLOLEuHHAm1HdrIyaZ7>`__ 
@@ -96,5 +95,5 @@ Thanks again
 
 We're so grateful to our sponsors, speakers, volunteers, and attendees
 for making this conference possible. Whether you were able to come out
-this time or not, we hope to see you back in Portland next year – or
+this time or not, we hope to see you back in Portland next year – or
 even sooner at one of our other events!

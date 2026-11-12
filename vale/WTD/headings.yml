@@ -17,6 +17,7 @@ exceptions:
   - Git
   - Guzzle
   - HTMLProofer
+  - PyData
   - Read the Docs
   - README
   - SEO

@@ -1,0 +1,46 @@
+<svg viewBox="0 55 660 215" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+	<defs>
+	
+    <style type="text/css">
+      <![CDATA[
+        @import url(/_static/survey/css/2024-svg.css);
+      ]]>
+    </style>
+    
+  </defs>
+
+  <g id="2024-rto-attitude-affected-by-full">
+
+    <g class="title">
+      <text font-size="14"><tspan x="40" y="33">Attitude towards RTO mandates</tspan></text>
+      <text font-size="12" class="subtitle"><tspan x="40" y="49">Affected by full RTO</tspan></text>
+    </g>
+
+    <g class="donut-chart">
+
+      <path d="M473.579 128C468.579 128 446.411 141.585 444.705 142.63L443 143.675" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M503.262 179.329C498.375 180.388 473.476 187.873 471.561 188.449L469.646 189.025" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M180 247.061C179.985 209.038 194.41 172.427 220.358 144.634C246.307 116.841 281.842 99.9401 319.777 97.3488L325.911 187.14C310.737 188.176 296.523 194.937 286.143 206.054C275.764 217.171 269.994 231.815 270 247.024L180 247.061Z" fill="#C2255C" stroke="white" stroke-width="2"/>
+      <path d="M319.927 97.3386C340.427 95.9588 360.993 98.8055 380.348 105.702C399.702 112.599 417.434 123.398 432.443 137.431L370.977 203.172C364.974 197.559 357.881 193.239 350.139 190.481C342.397 187.722 334.171 186.584 325.971 187.135L319.927 97.3386Z" fill="#E4774E" stroke="white" stroke-width="2"/>
+      <path d="M432.552 137.533C437.48 142.15 442.091 147.094 446.352 152.332L376.541 209.133C374.836 207.037 372.992 205.06 371.021 203.213L432.552 137.533Z" fill="#E9C168" stroke="white" stroke-width="2"/>
+      <path d="M446.447 152.448C463.763 173.774 474.89 199.446 478.615 226.663L389.446 238.865C387.956 227.978 383.505 217.71 376.579 209.179L446.447 152.448Z" fill="#82A555" stroke="white" stroke-width="2"/>
+      <path d="M478.635 226.811C479.537 233.453 479.993 240.147 480 246.85L390 246.94C389.997 244.259 389.815 241.581 389.454 238.925L478.635 226.811Z" fill="#087F5B" stroke="white" stroke-width="2"/>
+      <path d="M517.907 234C512.907 234 486.988 236.04 484.994 236.197L483 236.354" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M408.634 79C403.634 79 388.351 100.034 387.176 101.652L386 103.271" stroke="#252521" stroke-dasharray="1 3"/>
+      <path d="M169 152C174 152 198.727 160.034 200.63 160.652L202.532 161.271" stroke="#252521" stroke-dasharray="1 3"/>
+
+      
+      <text font-size="14" class="value-labels-inner"><tspan x="353" y="137.8">26.1%</tspan></text>
+      <text font-size="14" class="value-labels-inner"><tspan x="420" y="207.8">17.4%</tspan></text>
+      <text font-size="14" class="value-labels-inner reverse"><tspan x="227" y="182.8">47.8%</tspan></text>
+      <text font-size="10"><tspan x="478" y="130.11">Neutral (4.3%)</tspan></text>
+      <text font-size="10"><tspan x="522" y="235.11">Very positive (4.3%)</tspan></text>
+      <text font-size="10"><tspan x="413" y="81.11">Negative</tspan></text>
+      <text font-size="10"><tspan x="103" y="153.11">Very negative</tspan></text>
+      <text font-size="10"><tspan x="507" y="181.11">Positive</tspan></text>
+    </g>
+
+  </g>
+
+</svg>

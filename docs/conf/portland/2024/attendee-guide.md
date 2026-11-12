@@ -38,7 +38,7 @@ Review our [Venue](https://www.writethedocs.org/conf/portland/2024/venue/) page 
     -   Ingredients will be listed
     -   Please email katie@writethedocs.org for other dietary requirements
 -   Bring a water bottle to make it easier for you to stay hydrated.
--   There are many food and beverage options within .5 mile around the conference venue. Explore Portland's amazing food scene on the [Portland](https://www.writethedocs.org/conf/portland/2024/visiting/#eating) page.
+-   There are many food and beverage options within .5 mile around the conference venue. Explore Portland's amazing food scene on the [Portland](https://www.writethedocs.org/conf/portland/2024/visiting/#food-and-beverages) page.
 -   The Welcome Wagon team will organize lunch and dinner meetups for folks interested in eating with others. Visit the WW table during conference days to sign up.
 
 ## Dress Code

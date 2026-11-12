@@ -1,4 +1,3 @@
-from __future__ import print_function
 from users.models import *
 from grants.models import *
 from django.utils.text import slugify
