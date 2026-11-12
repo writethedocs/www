@@ -46,6 +46,12 @@ the schemas in ``_data/schema-*``.
 Typical conference workflow
 ---------------------------
 
+The conference site changes as the conference goes through its stages. Most
+of those changes are a flag in the general config file: the flags switch
+pages on in the header menu, pick the buttons on the front page, and decide
+which key dates the front page still shows. The lists below say what to do at
+each stage, and what the site does in response.
+
 * Create the initial conference website by copying the files from
   ``conf/<shortcode>/<year>/`` from the previous conference
   (chronologically, not the previous conference in the same location).
@@ -54,29 +60,72 @@ Typical conference workflow
 * In the initial conference website, set ``flaglanding``,
   to publish a simple landing page with the conference dates.
 * Once decided, enter further details of the conference in the general config
-  file, like sponsorship and ticket prices. Switch off ``flaglanding``.
+  file, like sponsorship and ticket prices, and the dates under ``cfp`` and
+  ``date``. Switch off ``flaglanding``.
   Review all conferences pages and activities first, to make sure they are
-  correct, or TBA if not yet known.
-* As soon as tickets go on sale, switch on ``flagticketsonsale``.
+  correct, or TBA if not yet known. The front page now shows the key dates
+  that are still to come: tickets on sale, call for proposals closing, talks
+  and schedule announced, and the conference itself. Each one drops off the
+  timeline once it has passed, so the dates need no further changes.
+* When the sponsorship prospectus is ready, switch on ``flaghassponsors``.
+  The front page offers "Sponsor the Conference".
 * When the CFP opens, add the CFP details in the general conference config
-  file, under ``cfp``.switch on ``flagcfp``. Once the CFP has closed,
-  switch it off.
+  file, under ``cfp``, and switch on ``flagcfp``. This adds the Call for
+  Proposals page to the menu, "Submit a Talk" to the front page buttons, and
+  the closing date to the key dates. Once the CFP has closed, switch it off.
+* As soon as tickets go on sale, switch on ``flagticketsonsale``. "Buy a
+  Ticket" becomes the first button, and the tickets line leaves the key dates.
 * When speakers have been selected, add their sessions to the
   ``_data/<shortcode>-<year>-sessions.yaml`` file.
-  Then, switch on ``flagspeakersannounced``.
+  Then, switch on ``flagspeakersannounced`` for the Speakers page and button.
 * When the schedule is ready, add it to the ``_data/<shortcode>-<year>-schedule.yaml``
-  file and switch in ``flaghasschedule``.
+  file and switch on ``flaghasschedule`` for the Schedule page and button.
+* When the attendee guide is written, switch on ``flaghasattendeeguide``.
 * At some point the conference sells out. Switch off ``flagticketsonsale``, and
-  switch on ``flagsoldout``.
-* A week or so before the conference, if live streaming is available, switch on
-  ``flaglivestreaming``. Switch it off after the conference ends.
-* After the conference ends, switch on ``flagpostconf``.
-* When videos have been published on the Write the Docs website,
-  switch on ``flagvideos``.
+  switch on ``flagsoldout``. The ticket button goes away.
+* The day after ``date.ends``, the site switches to post-conference mode on
+  its own: the key dates disappear and the buttons change to the recap, the
+  videos and the photos. Set ``flagpostconf`` in the config only to override
+  this, for example to keep the site in conference mode for a few days.
+* When the photos are up, add the album URL to ``photos.album``. When the
+  videos have been published on the Write the Docs YouTube channel, add the
+  playlist URL to ``videos.playlist`` and switch on ``flagvideos``.
 
-Each time the state is updated, check the top/bottom buttons to ensure they
-are still appropriate. For example, once tickets have sold out, remove the
-"buy a ticket" button.
+The site is rebuilt when a change is pushed, so a date-based change like the
+switch to post-conference mode shows up at the next build.
+
+Front page buttons
+~~~~~~~~~~~~~~~~~~
+
+The two buttons in the front page hero, and the two in the band above the
+footer, are picked from the flags, so they follow the workflow above without
+further edits. The template (``_templates/conference/buttons.html``) keeps two
+ranked lists of candidate buttons, each shown only while its flag is on, and
+shows the top two that apply.
+
+Before and during the conference, in order:
+
+1. Buy a Ticket (``flagticketsonsale`` on and ``flagsoldout`` off)
+2. Submit a Talk (``flagcfp``)
+3. See the Schedule (``flaghasschedule``)
+4. See the Speakers (``flagspeakersannounced``)
+5. Attendee Guide (``flaghasattendeeguide``)
+6. Sponsor the Conference (``flaghassponsors``)
+7. Date and ticket information (the welcome post; always available)
+
+After the conference (``flagpostconf``), in order:
+
+1. Watch the videos (``videos.playlist`` set)
+2. Conference recap (the thanks post; always available)
+3. Browse the photos (``photos.album`` set)
+
+So a site with the CFP open and tickets not yet on sale shows "Submit a
+Talk" and "Sponsor the Conference"; once tickets go on sale it shows "Buy a
+Ticket" and "Submit a Talk"; and once the speakers are announced and the CFP
+is closed, "Buy a Ticket" and "See the Speakers".
+
+To choose the buttons by hand instead, add a ``buttons`` block to the config
+(see below). Conferences up to 2026 do this.
 
 
 General conference config file
@@ -106,12 +155,15 @@ The items in the general conference config file are:
 * ``email``: general contact email for the conference.
 * ``color``: the accent color for conference branding, e.g. ``blue`` for 2020.
 * ``photos.default``: the default header image.
-* ``buttons.top`` and ``buttons.bottom``: the buttons highlighted on the top
-  and bottom of the conference pages. Each button has two keys: ``text`` for
+* ``photos.album``: the URL of the Flickr album with the conference photos,
+  once they are up. Used for the "Browse the photos" button.
+* ``buttons.top`` and ``buttons.bottom``: optional from 2027 on. Without
+  them, the buttons on the top and bottom of the conference pages are picked
+  from the flags, as described under `Front page buttons`_. With them, the
+  lists are used as they are. Each button has two keys: ``text`` for
   the button text and ``link`` or ``link_absolute`` for a site-relative or
-  an absolute link for the button. These tend to change as the conference
-  goes through different stages, e.g. a button to submit a talk or watch the
-  live stream. Top and bottom are often identical. Example::
+  an absolute link for the button. Top and bottom are often identical.
+  Example::
 
     buttons:
       top:
@@ -125,6 +177,8 @@ The items in the general conference config file are:
          - text: Submit a Talk
            link: /cfp
 
+* ``videos.playlist``: the URL of the YouTube playlist with the conference
+  videos, once they are up. Used for the "Watch the videos" button.
 * ``tickets``: the conference ticket prices. The keys, i.e. the names of the
   various sponsorship packages, are fixed and cannot be changed per conference.
   Example::
@@ -173,6 +227,8 @@ The items in the general conference config file are:
     * ``main``: the human readable conference dates and location,
       e.g. ``"**May 3-5, 2020, in Portland, Oregon**"``.
     * ``short``: the short human readable dates, e.g. ``May 3-5, 2020``.
+    * ``ends``: the last day of the conference as a date, e.g. ``2027-05-04``.
+      The site switches to post-conference mode the day after.
     * ``tickets_live``: a human readable date to indicate the month when tickets go on sale,
       e.g. ``January 2020``.
     * ``month``: the month in which the conference is held, e.g. ``May``.
@@ -221,8 +277,12 @@ The items in the general conference config file are:
     * ``url``: the URL to a google form with the CFP.
     * ``ends``: a human readable date of when the CFP ends,
       e.g. ``31 January, 2020``.
+    * ``opens``: a human readable month in which the CFP opens, e.g.
+      ``November 2026``. Shown in the key dates until the CFP is open.
     * ``notification``: a human readable date of when accepted speakers
       will be notified.
+    * ``schedule_announced``: a human readable date or month for the schedule
+      announcement, e.g. ``March 2027``.
 
 The file also includes a few true/false flags. Some of these don't change
 as the conference is being planned. These are:
@@ -244,8 +304,10 @@ Others will change over time:
 * ``flaghasschedule``: is the schedule ready?
   This flag requires the``_data/<shortcode>-<year>-schedule.yaml``
   file to exist, which contains the schedule.
-* ``flaglivestreaming``: is a live stream currently running or available soon?
-* ``flagpostconf``: has the conference ended?
+* ``flaghassponsors``: is the sponsorship prospectus ready?
+* ``flaghasattendeeguide``: is the attendee guide written?
+* ``flagpostconf``: has the conference ended? From 2027 on this is set from
+  ``date.ends`` at build time; set it in the config only to override that.
 * ``flagvideos``: are the conference videos published?
 
 
