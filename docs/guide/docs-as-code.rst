@@ -106,4 +106,4 @@ The approach has been presented at several other conferences or just video casts
 
 .. seealso::
 
-   Browse talks and newsletter articles about :ref:`docs as code <topics:Docs-as-code>` in our content archive.
+   Browse talks and newsletter articles about :ref:`docs as code <topics:Docs-as-code>` in our topic index.

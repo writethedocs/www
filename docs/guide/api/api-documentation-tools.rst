@@ -113,4 +113,4 @@ validate your documents. Tools like `Schemathesis <https://schemathesis.readthed
 
 .. seealso::
 
-   Browse talks and newsletter articles about :ref:`API documentation <topics:API docs>` in our content archive.
+   Browse talks and newsletter articles about :ref:`API documentation <topics:API docs>` in our topic index.

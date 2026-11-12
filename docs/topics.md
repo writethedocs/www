@@ -728,6 +728,7 @@ Gathering it and acting on it.
 
 ### Style guides
 
+- 📖 Guide: [Style Guides](/guide/writing/style-guides/)
 - 📰 [De-personalizing examples](/blog/newsletter-march-2026/#de-personalizing-examples)
 - 📰 [Style guidance for alt text](/blog/newsletter-february-2026/#style-guidance-for-alt-text)
 - 📰 [Create a screenshot style guide](/blog/newsletter-november-2025/#create-a-screenshot-style-guide)
