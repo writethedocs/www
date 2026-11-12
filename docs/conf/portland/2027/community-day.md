@@ -25,8 +25,8 @@ Community Day is available to in-person attendees only. The [virtual conference]
 
 More details about each activity are below. No additional sign up is required, and the full schedule will be released in the coming months. Ready to submit a Community Day project? Click the link below.
 
-{% if writing_day.url %}
-```{button-link} {{ writing_day.url }}
+{% if community_day.url %}
+```{button-link} {{ community_day.url }}
 :year: {{ year }}
 Submit your Community Day project
 ```
@@ -34,7 +34,7 @@ Submit your Community Day project
 
 ## Community Day Schedule
 
-**{{date.day_two.dotw}}, {{date.day_two.date}}, {{date.day_two.writing_day_time}} {{tz}}**
+**{{date.day_two.dotw}}, {{date.day_two.date}}, {{date.day_two.community_day_time}} {{tz}}**
 
 Community Day is an all-day event designed for you to join in throughout the day. Whether you want to contribute to a half-day project, join an hour-long roundtable discussion, or attend a GitHub workshop, there is an option for you.
 
@@ -52,8 +52,8 @@ Community Day is an all-day event designed for you to join in throughout the day
 
 Exact times will be posted on our [schedule page](/conf/{{shortcode}}/{{year}}/schedule/).
 
-{% if writing_day.sponsor %}
-{% set sponsor = sponsors|find_sponsor(writing_day.sponsor) %}
+{% if community_day.sponsor %}
+{% set sponsor = sponsors|find_sponsor(community_day.sponsor) %}
 ### Sponsored by
 
 <p style="text-align: center; margin-top: 1em;">
@@ -95,14 +95,14 @@ Leading a project at Community Day is a wonderful opportunity to engage with doc
 
 #### Submit
 
-**If you submit your project by {{ writing_day.project_deadline }}, we will share your project in a blog post and email with our attendees before the conference.**
+**If you submit your project by {{ community_day.project_deadline }}, we will share your project in a blog post and email with our attendees before the conference.**
 
-{% if writing_day.url %}[Submit projects]({{ writing_day.url }}){% else %}Project submissions will open closer to the conference.{% endif %}
+{% if community_day.url %}[Submit projects]({{ community_day.url }}){% else %}Project submissions will open closer to the conference.{% endif %}
 
 Walk-on projects are always welcome. You are still more than welcome to bring a project the day of and announce it during the actual Community Day.
 
-{% if writing_day.url %}
-```{button-link} {{ writing_day.url }}
+{% if community_day.url %}
+```{button-link} {{ community_day.url }}
 :year: {{ year }}
 Submit your Community Day project
 ```
@@ -114,9 +114,9 @@ Submit your Community Day project
 - **Pre-label tasks and issues:** Create a specific event label and label documentation tasks and issues. This empowers new contributors to find tasks that interest them.
 - **Create a task filter:** This helps contributors find issues more easily and see which issues have been assigned.
 - **Clear onboarding:** Ensure your README, contribution guidelines, or onboarding instructions are accurate and up to date.
-- **Project experts:** We recommend having 1-2 people leading a project. You are welcome to call for virtual reinforcements from your community. If you need additional support onboarding volunteers, the WTD staff team will share this opportunity with the community.{% if writing_day.url %} View further information in the [Call for Projects form]({{ writing_day.url }}).{% endif %}
+- **Project experts:** We recommend having 1-2 people leading a project. You are welcome to call for virtual reinforcements from your community. If you need additional support onboarding volunteers, the WTD staff team will share this opportunity with the community.{% if community_day.url %} View further information in the [Call for Projects form]({{ community_day.url }}).{% endif %}
 - **Flexibility and understanding:** Reminder that attendees may need additional info to be successful in onboarding to your project.
-- **Submit your Community Day project before the conference:** Projects submitted by **{{ writing_day.project_deadline }}** are featured in our pre-conference blog post and email. Many attendees have shared that their curiosity for specific projects motivated them to attend. Project submissions open in February/March.
+- **Submit your Community Day project before the conference:** Projects submitted by **{{ community_day.project_deadline }}** are featured in our pre-conference blog post and email. Many attendees have shared that their curiosity for specific projects motivated them to attend. Project submissions open in February/March.
 
 These are suggestions and not requirements. It is perfectly valid to show up to Community Day the day of, tell us about your project, and ask for volunteers. It has been done before and it will be done again.
 
@@ -151,7 +151,7 @@ We always accept day-of project submissions, too, so you may see projects like a
 - Love letters
 - The Documentarian Manifesto
 
-Find specific examples on the [Portland Writing Day {{year-1}} project list](https://www.writethedocs.org/conf/portland/{{year-1}}/writing-day/#project-list).
+Find specific examples on the [Portland {{year-1}} project list](https://www.writethedocs.org/conf/portland/{{year-1}}/writing-day/#project-list).
 
 ## Contact us
 

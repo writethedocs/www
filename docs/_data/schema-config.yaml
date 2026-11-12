@@ -39,7 +39,10 @@ cfp: include('cfp-details')
 grants: include('grants-details')
 shirts: include('shirts-details')
 unconf: include('unconf-details')
+# Writing Day until 2026; Community Day from 2027, in writethedocs/www as in the
+# event. A config uses one or the other, with the matching flag.
 writing_day: include('writing_day-details', required=False)
+community_day: include('writing_day-details', required=False)
 lightning_talks: include('lightning_talks-details', required=False)
 qa: include('qa-details', required=False)
 hike: include('hike-details', required=False)
@@ -56,7 +59,8 @@ flagsoldout: bool()
 flagspeakersannounced: bool()
 flaghasschedule: bool()
 flagscheduleincomplete: bool(required=False)
-flaghaswritingday: bool()
+flaghaswritingday: bool(required=False)
+flaghascommunityday: bool(required=False)
 flagwelcomewagon: bool(required=False)
 flaglivestreaming: bool()
 flagvideos: bool()
@@ -140,6 +144,7 @@ day-details:
   icon: str(required=False)
   dotw: str(required=False)
   writing_day_time: str(required=False)
+  community_day_time: str(required=False)
   talk_time: str(required=False)
   unconference_time: str(required=False)
   reception_time: str(required=False)
@@ -155,6 +160,7 @@ sponsorship-details:
   job_fair: include('price2', required=False)
   lanyard: include('price2', required=False)
   writing_day: include('price2', required=False)
+  community_day: include('price2', required=False)
   lightning_talks: include('price2', required=False)
   opportunity_grants: include('price2', required=False)
   extra_ticket: include('price2', required=False)
@@ -172,6 +178,7 @@ sponsors-details:
   job_fair: list(include('sponsor-detail'), required=False)
   lanyard: list(include('sponsor-detail'), required=False)
   writing_day: list(include('sponsor-detail'), required=False)
+  community_day: list(include('sponsor-detail'), required=False)
   in_kind: list(include('sponsor-detail'), required=False)
 
 sponsor-detail:
@@ -236,8 +243,6 @@ unconf-details:
   date: str(required=False)
 
 writing_day-details:
-  name: str(required=False)  # menu label, default "Writing Day"
-  page: str(required=False)  # page in the menu, default writing-day
   url: str(required=False)
   git_signup_url: str(required=False)
   date: str(required=True)

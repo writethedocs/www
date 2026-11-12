@@ -39,7 +39,7 @@ All times are in [{{ tz }}](https://time.is/{{ tz | replace(' ', '_') }}).
 {% if flaghasschedule %}
 
 ```{raw} html
-{% with day_schedule=schedule.writing_day %}
+{% with day_schedule=schedule.community_day %}
 {% include "include/schedule2026.md" %}
 {% endwith %}
 ```

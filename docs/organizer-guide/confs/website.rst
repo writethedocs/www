@@ -264,7 +264,8 @@ If you're writing a new conference schedule, it may be easier to start from
 a copy of the schedule file of the same conference as last year, as they tend
 to be quite similar.
 
-For conferences with a writing day, you must add a ``writing_day`` key. Then,
+For conferences with a writing day, you must add a ``writing_day`` key
+(``community_day`` from 2027, when the day is called Community Day). Then,
 a schedule for each main conference day, in the form of ``talks-day1``,
 ``talks-day2``,
 and more if needed. The number of days must match ``date.total_talk_days``

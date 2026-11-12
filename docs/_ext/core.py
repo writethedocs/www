@@ -104,9 +104,13 @@ def load_conference_context_from_yaml(shortcode, year, year_str, page):
 
     # Do some additional contextual validation that can't be done by a YAML schema validator.
     # This aims to produce clear warnings rather than unexplained empty schedule output.
-    if data['flaghaswritingday'] and 'writing_day' not in schedule and shortcode != 'australia':
-        raise Exception('ERROR Missing key "writing_day" while reading schedule from %s' %
-                        schedule_yaml_file)
+    # Writing Day until 2026, Community Day from 2027: the flag and the
+    # schedule key use the same name.
+    for day in ('writing_day', 'community_day'):
+        flag = 'flaghas' + day.replace('_', '')
+        if data.get(flag) and day not in schedule and shortcode != 'australia':
+            raise Exception('ERROR Missing key "%s" while reading schedule from %s' %
+                            (day, schedule_yaml_file))
     for day in range(1, data['date']['total_talk_days'] + 1):
         key = 'talks_day' + str(day)
         if key not in schedule:

@@ -1,7 +1,8 @@
 {#-
-  The conference header menu, for 2026 on, like community/navbar.html for
-  the community pages. `menu` lists it once; navbar_items() renders it in the
-  bar across the top, and offcanvas_items() in the slide-in menu on small
+  The 2026 conference header menu, like community/navbar.html for the community
+  pages. Each year has its own copy, because the menu names the year's events;
+  the shared conference/ templates import the one for the page's year.
+  `menu` lists it once; navbar_items() renders it in the bar across the top, and offcanvas_items() in the slide-in menu on small
   screens.
 
   An item with `show` appears only when that's true, usually a flag from the
@@ -9,7 +10,7 @@
   conf/<city>/<year>/cfp.
 
   Import it with the page's context, which holds the conference's config:
-  {% from "conference/navbar.html" import navbar_items, offcanvas_items with context %}
+  {% from year_str ~ "/navbar.html" import navbar_items, offcanvas_items with context %}
 -#}
 
 {%- set menu = [
@@ -17,7 +18,7 @@
     {'text': 'Schedule', 'page': 'schedule', 'show': flaghasschedule},
     {'text': 'Speakers', 'page': 'speakers', 'show': flagspeakersannounced},
     {'text': 'Call for Proposals', 'page': 'cfp', 'show': flagcfp},
-    {'text': writing_day.name|default('Writing Day'), 'page': writing_day.page|default('writing-day'), 'show': flaghaswritingday},
+    {'text': 'Writing Day', 'page': 'writing-day', 'show': flaghaswritingday},
     {'text': 'Lightning Talks', 'page': 'lightning-talks', 'show': flaghaslightningtalks},
     {'text': 'Fishbowl Session', 'page': 'fishbowl', 'show': shortcode == 'australia' and year_str == '2026'},
     {'text': 'Unconference', 'page': 'unconference', 'show': flaghasunconf},

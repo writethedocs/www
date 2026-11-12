@@ -135,7 +135,7 @@ date: # how do we handle these? human readable would be nice.
     summary: Kick off the conference with Community Day. Work with fellow documentarians on a project, join a workshop or a discussion. Followed by the opening reception.
     icon: writing
     dotw: Sunday
-    writing_day_time: 9 AM-5 PM
+    community_day_time: 9 AM-5 PM
     reception_time: 5-7 PM
   day_three:
     event: Conference Day 1
@@ -212,10 +212,7 @@ lightning_talks:
 qa:
   event_id: ""
 
-writing_day:
-  # The day's name and page in the header menu. Without these it is "Writing Day" at writing-day/.
-  name: Community Day
-  page: community-day
+community_day:
   url: ""
   date: Sunday, May 2, 9 AM - 5 PM
   project_deadline: "April 21, 2027"
@@ -302,7 +299,7 @@ flagpostconf: False
 flaghasunconf: True
 flaghashike: True
 flaghasfood: True
-flaghaswritingday: True
+flaghascommunityday: True
 flaghaslightningtalks: True
 flaghassponsorexpo: True
 flaghasboat: False

@@ -125,7 +125,7 @@ Service Animals are welcome at our conference venue.
 
 ### Community Day:
 
-[Community Day](/conf/{{shortcode}}/{{year}}/community-day/) is the official start of the conference. Community Day is what we used to call Writing Day. Alongside the documentation projects, it includes workshops and discussions.
+[Community Day](/conf/{{shortcode}}/{{year}}/community-day/) is the official start of the conference. Alongside the documentation projects, it includes workshops and discussions.
 
 - Community Day project (half-day or full-day projects)
   - Attendees can lead a project or join and contribute to a project
