@@ -108,7 +108,7 @@ section > h1 {
   <div class="announcement">
     <div class="uk-container">
       <p style="vertical-align: middle;">Want to receive conference and community updates?</p>
-      {{ button_link(pathto('conf/' + shortcode + '/' + year_str + '/mailing-list'), 'Join our Mailing List', year, wrap=False, new_tab=False) }}
+      {{ button_link(pathto('conf/' + shortcode + '/' + year_str + '/news') + '#join-our-mailing-list', 'Join our Mailing List', year, wrap=False, new_tab=False) }}
     </div>
   </div><!--- end announcement -->
 
@@ -284,7 +284,10 @@ section > h1 {
 
   {% if body %}
     {% block body %}
-      {{ body }}
+      {#- The page's "Updates from the team" block marks where the latest
+          posts' cards go with <!-- news-latest -->, as the news page does. #}
+      {%- set latest %}{% include "conference/news-latest.html" %}{% endset %}
+      {{ body | replace('<!-- news-latest -->', latest) }}
     {% endblock body %}
   {% endif %}
   </div>
