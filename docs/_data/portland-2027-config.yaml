@@ -60,6 +60,7 @@ sponsorship:
 # Provisional dates below mirror the 2026 timeline shifted to the 2027 conference dates.
 grants:
   url: ""
+  opens: 'December 11, 2026'
   ends: 'February 4, 2027'
   notification: 'February 13, 2027'
 
@@ -177,6 +178,7 @@ writing_day:
   project_deadline: "April 21, 2027"
 
 volunteer:
+  applications_open: "December 11"
   applications_close: "February 12"
   schedule_signup_close: "March 26"
 

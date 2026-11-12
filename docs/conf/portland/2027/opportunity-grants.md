@@ -31,6 +31,12 @@ Apply for an Opportunity Grant
 
 <div class="key-dates">
   <ol class="key-dates-list">
+    {%- if grants.opens and not grants.url %}
+    <li>
+      <span class="key-date">{{ grants.opens|without_year }}</span>
+      Grant applications open
+    </li>
+    {%- endif %}
     <li>
       <span class="key-date">{{ grants.ends|without_year }}</span>
       Grant applications due

@@ -228,6 +228,7 @@ cfp-details:
 
 grants-details:
   url: str(required=True)
+  opens: str(required=False)
   ends: str(required=True)
   notification: str(required=True)
   total: str(required=False)
@@ -266,5 +267,6 @@ qa-details:
 
 volunteer-details:
   form_url: str(required=False)
+  applications_open: str(required=False)
   applications_close: str(required=False)
   schedule_signup_close: str(required=False)
