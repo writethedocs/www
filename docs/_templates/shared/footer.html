@@ -53,7 +53,8 @@
                     {%- endif %}
                     <li><a href="{{ conf_link('venue') }}">Venue</a></li>
                     <li><a href="{{ conf_link('code-of-conduct') }}">Code of Conduct</a></li>
-                    <li><a href="{{ conf_link('mailing-list') }}">Mailing list</a></li>
+                    {#- On the news page itself, pathto() gives "#", so only the anchor is kept. #}
+                    <li><a href="{{ conf_link('news')|replace('#', '') }}#join-our-mailing-list">Mailing list</a></li>
                     <li><a href="{{ conf_link('contact') }}">Contact</a></li>
                 </ul>
             </nav>
