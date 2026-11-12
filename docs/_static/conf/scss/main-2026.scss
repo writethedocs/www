@@ -103,7 +103,7 @@ body .page-content ul.postlist {
 
 // A conference's latest posts, at the top of its news page and in the
 // front page's "Updates from the team" band, as cards like the newsletter
-// page's: the date, the title, the post's section titles, and a label.
+// page's: the date, the title and the post's section titles.
 body .page-content ul.news-latest,
 .news-block ul.news-latest {
     display: grid;
@@ -149,8 +149,7 @@ body .page-content ul.news-latest,
     }
 
     ul {
-        flex: 1;
-        margin: 12px 0 16px;
+        margin: 12px 0 0;
         padding-left: 18px;
 
         li {
@@ -159,12 +158,6 @@ body .page-content ul.news-latest,
             line-height: 1.4;
         }
     }
-}
-
-.news-latest__cta {
-    color: $black;
-    font-size: 15px;
-    font-weight: $bold;
 }
 
 // The link to the news page under the front page's cards, with an arrow
