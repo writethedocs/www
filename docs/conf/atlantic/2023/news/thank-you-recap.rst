@@ -84,7 +84,7 @@ We hope you continue to `build your local or online communities`_ and keep in to
 We have a number of meetups in cities across the country, and if you don’t see your city listed consider `starting`_ a meetup!
 
 .. _build your local or online communities: http://www.writethedocs.org/meetups/
-.. _starting: https://www.writethedocs.org/meetups/wtd-community-organizing/
+.. _starting: http://www.writethedocs.org/organizer-guide/meetups/starting/
 
 Code of Conduct transparency report
 -----------------------------------

@@ -120,7 +120,7 @@ We hope you continue to `build the meetup community in Australia`_ and keep in t
 meetups in cities across the country, and if you don’t see your city listed consider `starting`_ a meetup!
 
 .. _build the meetup community in Australia: https://www.meetup.com/write-the-docs-australia/
-.. _starting: https://www.writethedocs.org/meetups/wtd-community-organizing/
+.. _starting: http://www.writethedocs.org/organizer-guide/meetups/starting/
 
 Thanks again
 ============

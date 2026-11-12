@@ -91,7 +91,7 @@ We have a lot going on in the next 6-12 months:
 * **[Berlin](https://www.writethedocs.org/conf/berlin/2026/), September 6-8**: [Grab a ticket](https://www.writethedocs.org/conf/berlin/2026/tickets/), in person or virtual.
 * **[Australia](https://www.writethedocs.org/conf/australia/2026/), December 3-4**: [Submit a talk](https://www.writethedocs.org/conf/australia/2026/cfp/) before the CFP closes on September 11.
 * **Portland, May 2-4, 2027**: Save the date! We're back at Revolution Hall.
-* **[Your local meetup](https://www.writethedocs.org/meetups/), year-round**: Find a group near you, or [start one](https://www.writethedocs.org/meetups/wtd-community-organizing/) if there isn't one yet.
+* **[Your local meetup](https://www.writethedocs.org/meetups/), year-round**: Find a group near you, or [start one](https://www.writethedocs.org/organizer-guide/meetups/starting/) if there isn't one yet.
 * **[Our Slack network](https://www.writethedocs.org/slack/)**: Join the conversation, ask questions, and share your knowledge.
 * **Start something new**: As I mentioned above, we're interested in new initiatives around AI, hiring, advocacy, and other areas. [Reach out](https://www.writethedocs.org/contact/) if you want to scheme something!
 
