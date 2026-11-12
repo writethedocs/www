@@ -6,8 +6,8 @@
   screens.
 
   An item, or a whole dropdown, with `show` appears only when that's true,
-  usually a flag from the conference's config. Tickets and the logistics pages
-  join the menu once tickets go on sale. `page` is relative to the conference, so "cfp" is
+  usually a flag from the conference's config. The logistics pages join the
+  menu with the attendee guide. `page` is relative to the conference, so "cfp" is
   conf/<city>/<year>/cfp.
 
   Import it with the page's context, which holds the conference's config:
@@ -27,7 +27,7 @@
     {'text': 'Social Events', 'page': 'social-events'},
     {'text': 'Speaker Q&A', 'page': 'qa', 'show': flaglivestreaming},
   ]},
-  {'text': 'Tickets', 'page': 'tickets', 'show': flagticketsonsale, 'children': [
+  {'text': 'Tickets', 'page': 'tickets', 'children': [
     {'text': 'Tickets', 'page': 'tickets'},
     {'text': 'Virtual Attendance', 'page': 'virtual'},
     {'text': 'Opportunity Grants', 'page': 'opportunity-grants'},

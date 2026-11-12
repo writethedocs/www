@@ -24,7 +24,7 @@ Conference shirts are also available. See the [Official Conference Shirts](#offi
 
 {% else %}
 
-**Tickets will be available in {{ date.tickets_live }}.**
+**Tickets are not on sale yet.** They will be available in {{ date.tickets_live }}.
 
 {% endif %}
 
@@ -54,7 +54,7 @@ If you need to cancel your ticket because of fear of traveling internationally t
 
 <div class="ticket">
   <h2>
-    <strong>Student/Unemployed</strong>: <em>{{tickets.student.price}}</em> in-person / <em>{{tickets.virtual_student.price}}</em> virtual
+    <strong>Student/Unemployed</strong>{% if flagticketsonsale or flagsoldout %}: <em>{{tickets.student.price}}</em> in-person / <em>{{tickets.virtual_student.price}}</em> virtual{% endif %}
   </h2>
   <p>
     Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
@@ -70,7 +70,7 @@ If you need to cancel your ticket because of fear of traveling internationally t
 
 <div class="ticket">
   <h2>
-    <strong>Independent</strong>: <em>{{tickets.independent.price}}</em> in-person / <em>{{tickets.virtual_independent.price}}</em> virtual
+    <strong>Independent</strong>{% if flagticketsonsale or flagsoldout %}: <em>{{tickets.independent.price}}</em> in-person / <em>{{tickets.virtual_independent.price}}</em> virtual{% endif %}
   </h2>
   <p>
     Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with fewer than 10 employees.
@@ -86,7 +86,7 @@ If you need to cancel your ticket because of fear of traveling internationally t
 
 <div class="ticket">
   <h2>
-    <strong>Corporate</strong>: <em>{{tickets.corporate.price}}</em> in-person / <em>{{tickets.virtual_corporate.price}}</em> virtual
+    <strong>Corporate</strong>{% if flagticketsonsale or flagsoldout %}: <em>{{tickets.corporate.price}}</em> in-person / <em>{{tickets.virtual_corporate.price}}</em> virtual{% endif %}
   </h2>
   <p>
     Purchase this ticket if a company is paying for your attendance. Companies interested in sponsorship can also receive tickets to the conference with a sponsorship package.
@@ -105,7 +105,7 @@ If you need to cancel your ticket because of fear of traveling internationally t
 
 <div class="ticket">
   <h2>
-    <strong>Corporate Concierge</strong>: <em>{{tickets.concierge.price}}</em> per ticket
+    <strong>Corporate Concierge</strong>{% if flagticketsonsale or flagsoldout %}: <em>{{tickets.concierge.price}}</em> per ticket{% endif %}
   </h2>
   <p>
     We offer a corporate concierge service if your company is unable to follow our regular ticket sales process through the website.
