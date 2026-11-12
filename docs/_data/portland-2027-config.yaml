@@ -163,10 +163,16 @@ cfp:
 
 unconf:
   url: ""
+  sponsor: ""  # name of an entry in the sponsors block
   date: "All day, Monday, May 3 and Tuesday, May 4"
 
 lightning_talks:
   signup_url: ""
+
+# Each is the name of an entry in the sponsors block, shown on the social events page.
+social_events:
+  reception_sponsor: ""
+  social_sponsor: ""
 
 qa:
   event_id: ""
@@ -242,7 +248,7 @@ photos:
 
 
 # Things that change over time, listed in order of change
-flaglanding: True
+flaglanding: False
 flaghassponsors: True
 flagcfp: True
 flagticketsonsale: False

@@ -47,6 +47,7 @@ community_day: include('writing_day-details', required=False)
 lightning_talks: include('lightning_talks-details', required=False)
 qa: include('qa-details', required=False)
 hike: include('hike-details', required=False)
+social_events: include('social_events-details', required=False)
 volunteer: include('volunteer-details')
 
 # TODO: the Australia 2026 config (#2699) doesn't yet set these, so they're
@@ -120,6 +121,8 @@ ticket-details:
   virtual_independent: include('price-type', required=False)
   virtual_corporate: include('price-type', required=False)
   button: str(required=False)
+  # Tito waiting list URL, shown on the tickets page once tickets are sold out.
+  waiting_list: str(required=False)
 
 price-type:
   price: str()
@@ -247,6 +250,12 @@ unconf-details:
   url: str(required=True)
   virtual_url: str(required=False)
   date: str(required=False)
+  sponsor: str(required=False)  # name of an entry in the sponsors block
+
+# Sponsors of the social events, each the name of an entry in the sponsors block.
+social_events-details:
+  reception_sponsor: str(required=False)
+  social_sponsor: str(required=False)
 
 writing_day-details:
   url: str(required=False)
