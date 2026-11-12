@@ -24,12 +24,29 @@ Sign up to be a volunteer
 
 ![Volunteer](/_static/conf/images/photos/volunteer-triangle-55273959934.jpg)
 
-**Timeline:**
+## Key dates
 
-- **{% if volunteer.form_url %}Now{% else %}Soon{% endif %}-{{ volunteer.applications_close }}**: Volunteer applications open
-- **{{ volunteer.applications_close }}-{{ volunteer.schedule_signup_close }}**: Volunteer schedule sign up open
-- **End of March**: Volunteer schedule emailed
-  
+<div class="key-dates">
+  <ol class="key-dates-list">
+    <li>
+      <span class="key-date">{{ volunteer.applications_close }}</span>
+      Volunteer applications close
+    </li>
+    <li>
+      <span class="key-date">{{ volunteer.schedule_signup_close }}</span>
+      Volunteer schedule sign up closes
+    </li>
+    <li>
+      <span class="key-date">End of March</span>
+      Volunteer schedule emailed
+    </li>
+    <li>
+      <span class="key-date">{{ date.short|without_year }}</span>
+      Conference in {{ city }}
+    </li>
+  </ol>
+</div>
+
 ## Volunteer Roles
 
 ### Writing Day

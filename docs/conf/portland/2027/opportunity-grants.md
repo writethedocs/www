@@ -27,10 +27,24 @@ Apply for an Opportunity Grant
 ```
 {% endif %}
 
-## Schedule
+## Key dates
 
-- **{% if grants.url %}Now{% else %}Soon{% endif %} - {{ grants.ends }}:** Grant applications open
-- **{{ grants.notification }}:** Grant recipients notified
+<div class="key-dates">
+  <ol class="key-dates-list">
+    <li>
+      <span class="key-date">{{ grants.ends|without_year }}</span>
+      Grant applications due
+    </li>
+    <li>
+      <span class="key-date">{{ grants.notification|without_year }}</span>
+      Grant recipients notified
+    </li>
+    <li>
+      <span class="key-date">{{ date.short|without_year }}</span>
+      Conference in {{ city }}
+    </li>
+  </ol>
+</div>
 
 ## What is Covered
 
