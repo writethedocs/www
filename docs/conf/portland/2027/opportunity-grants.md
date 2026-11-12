@@ -8,25 +8,6 @@ banner: _static/conf/images/photos/group-2026-55264515839.jpg
 
 The Grant program for Write the Docs {{ city }} {{ year }} supports people who would otherwise not be able to attend the conference by covering ticket and/or attendance costs. 
 
-## Eligibility
-
-Applications are open to anyone who wants to attend Write the Docs. We encourage anyone to apply who would otherwise have difficulty attending.
-
-You are welcome to apply regardless of your experience level, background, or reason making it difficult for you to cover the cost.
-
-You are welcome to apply, even if you have received a grant before from our conferences or any others.
-
-We prioritize applications based on the overall impact that granting an application will have on the applicant, the Write the Docs community, and the applicant’s wider community and country. However, there are no requirements for you to meet. In other words, if you’re unsure, please apply.
-
-Grant applicants, like all other participants in the Write the Docs community, are required to follow the [Code of Conduct](/conf/{{shortcode}}/{{year}}/code-of-conduct/).
-
-{% if grants.url %}
-```{button-link} {{ grants.url }}
-:year: {{ year }}
-Apply for an Opportunity Grant
-```
-{% endif %}
-
 ## Key dates
 
 <div class="key-dates">
@@ -51,6 +32,25 @@ Apply for an Opportunity Grant
     </li>
   </ol>
 </div>
+
+## Eligibility
+
+Applications are open to anyone who wants to attend Write the Docs. We encourage anyone to apply who would otherwise have difficulty attending.
+
+You are welcome to apply regardless of your experience level, background, or reason making it difficult for you to cover the cost.
+
+You are welcome to apply, even if you have received a grant before from our conferences or any others.
+
+We prioritize applications based on the overall impact that granting an application will have on the applicant, the Write the Docs community, and the applicant’s wider community and country. However, there are no requirements for you to meet. In other words, if you’re unsure, please apply.
+
+Grant applicants, like all other participants in the Write the Docs community, are required to follow the [Code of Conduct](/conf/{{shortcode}}/{{year}}/code-of-conduct/).
+
+{% if grants.url %}
+```{button-link} {{ grants.url }}
+:year: {{ year }}
+Apply for an Opportunity Grant
+```
+{% endif %}
 
 ## What is Covered
 

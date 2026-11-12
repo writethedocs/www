@@ -13,17 +13,6 @@ Completing this form signs you up to volunteer. We will close the form once volu
 
 Each individual must volunteer for two or more 3-4 hour shifts and receives a **free ticket** to the conference.
 
-## Apply to Volunteer
-
-{% if volunteer.form_url %}
-```{button-link} {{ volunteer.form_url }}
-:year: {{ year }}
-Sign up to be a volunteer
-```
-{% endif %}
-
-![Volunteer](/_static/conf/images/photos/volunteer-triangle-55273959934.jpg)
-
 ## Key dates
 
 <div class="key-dates">
@@ -52,6 +41,15 @@ Sign up to be a volunteer
     </li>
   </ol>
 </div>
+
+## Apply to Volunteer
+
+{% if volunteer.form_url %}
+```{button-link} {{ volunteer.form_url }}
+:year: {{ year }}
+Sign up to be a volunteer
+```
+{% endif %}
 
 ## Volunteer Roles
 
