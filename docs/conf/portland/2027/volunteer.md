@@ -42,9 +42,9 @@ Each individual must volunteer for two or more 3-4 hour shifts and receives a **
   </ol>
 </div>
 
+{% if volunteer.form_url %}
 ## Apply to Volunteer
 
-{% if volunteer.form_url %}
 ```{button-link} {{ volunteer.form_url }}
 :year: {{ year }}
 Sign up to be a volunteer
@@ -53,31 +53,26 @@ Sign up to be a volunteer
 
 ## Volunteer Roles
 
-### Writing Day
+Writing Day
+: Assist the Writing Day coordinator, direct attendees to specific tables, and support writing day project leads with logistical questions.
 
-- Assist the Writing Day coordinator, direct attendees to specific tables, and support writing day project leads with logistical questions.
+Registration
+: Check in attendees, provide general information inquiries, answer venue questions, and field other requests or direct individuals to the correct staff member who can provide support.
 
-### Registration
+Unconference
+: Assist the Unconference coordinator, help folks sign up to host a session, maintain an updated schedule, direct individuals and groups to their tables, and keep tables looking neat.
 
-- Check in attendees, provide general information inquiries, answer venue questions, and field other requests or direct individuals to the correct staff member who can provide support.
+Float
+: Provide support where needed. Be a runner. Support staff with catering set up.
 
-### Unconference
-
-- Assist the Unconference coordinator, help folks sign up to host a session, maintain an updated schedule, direct individuals and groups to their tables, and keep tables looking neat.
-
-### Float
-
-- Provide support where needed. Be a runner. Support staff with catering set up.
-
-### Venue Load Out
-
-- What's more fun than setting things up? Taking them down! Load out conference set up and leave the conference hall better than we found it.
+Venue Load Out
+: What's more fun than setting things up? Taking them down! Load out conference set up and leave the conference hall better than we found it.
 
 ## Will travel assistance be provided?
 
 Unfortunately, we cannot offer travel assistance to volunteers. We encourage you to apply for the Opportunity Grant. [View grant application here!](https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/) 
 
-Contact katie@writethedocs.org with any additional questions.
+Contact <katie@writethedocs.org> with any additional questions.
 
 ## Volunteer Sign Up Form
 
