@@ -13,50 +13,66 @@ Completing this form signs you up to volunteer. We will close the form once volu
 
 Each individual must volunteer for two or more 3-4 hour shifts and receives a **free ticket** to the conference.
 
-## Apply to Volunteer
+## Key dates
+
+<div class="key-dates">
+  <ol class="key-dates-list">
+    {%- if volunteer.opens and not volunteer.form_url %}
+    <li>
+      <span class="key-date">{{ volunteer.opens|without_year }}</span>
+      Volunteer applications open
+    </li>
+    {%- endif %}
+    <li>
+      <span class="key-date">{{ volunteer.applications_close }}</span>
+      Volunteer applications close
+    </li>
+    <li>
+      <span class="key-date">{{ volunteer.schedule_signup_close }}</span>
+      Volunteer schedule sign up closes
+    </li>
+    <li>
+      <span class="key-date">End of March</span>
+      Volunteer schedule emailed
+    </li>
+    <li>
+      <span class="key-date">{{ date.short|without_year }}</span>
+      Conference in {{ city }}
+    </li>
+  </ol>
+</div>
 
 {% if volunteer.form_url %}
+## Apply to Volunteer
+
 ```{button-link} {{ volunteer.form_url }}
 :year: {{ year }}
 Sign up to be a volunteer
 ```
 {% endif %}
 
-![Volunteer](/_static/conf/images/photos/volunteer-triangle-55273959934.jpg)
-
-**Timeline:**
-
-- **{% if volunteer.form_url %}Now{% else %}Soon{% endif %}-{{ volunteer.applications_close }}**: Volunteer applications open
-- **{{ volunteer.applications_close }}-{{ volunteer.schedule_signup_close }}**: Volunteer schedule sign up open
-- **End of March**: Volunteer schedule emailed
-  
 ## Volunteer Roles
 
-### Community Day
+Community Day
+: Assist the Community Day coordinator, direct attendees to specific tables, and support project leads with logistical questions.
 
-- Assist the Community Day coordinator, direct attendees to specific tables, and support project leads with logistical questions.
+Registration
+: Check in attendees, provide general information inquiries, answer venue questions, and field other requests or direct individuals to the correct staff member who can provide support.
 
-### Registration
+Unconference
+: Assist the Unconference coordinator, help folks sign up to host a session, maintain an updated schedule, direct individuals and groups to their tables, and keep tables looking neat.
 
-- Check in attendees, provide general information inquiries, answer venue questions, and field other requests or direct individuals to the correct staff member who can provide support.
+Float
+: Provide support where needed. Be a runner. Support staff with catering set up.
 
-### Unconference
-
-- Assist the Unconference coordinator, help folks sign up to host a session, maintain an updated schedule, direct individuals and groups to their tables, and keep tables looking neat.
-
-### Float
-
-- Provide support where needed. Be a runner. Support staff with catering set up.
-
-### Venue Load Out
-
-- What's more fun than setting things up? Taking them down! Load out conference set up and leave the conference hall better than we found it.
+Venue Load Out
+: What's more fun than setting things up? Taking them down! Load out conference set up and leave the conference hall better than we found it.
 
 ## Will travel assistance be provided?
 
 Unfortunately, we cannot offer travel assistance to volunteers. We encourage you to apply for the Opportunity Grant. [View grant application here!](https://www.writethedocs.org/conf/{{ shortcode }}/{{ year }}/opportunity-grants/) 
 
-Contact katie@writethedocs.org with any additional questions.
+Contact <katie@writethedocs.org> with any additional questions.
 
 ## Volunteer Sign Up Form
 
