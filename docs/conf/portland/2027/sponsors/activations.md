@@ -11,9 +11,9 @@ Activations give sponsors a more experiential presence at the conference. They'r
 
 ---
 
-## Writing Day sponsorship
+## Community Day sponsorship
 
-Sponsor branding at Writing Day, the opening day of the conference where attendees collaborate on documentation projects. Writing Day draws about one third of total conference attendance.
+Sponsor branding at Community Day, the opening day of the conference where attendees collaborate on documentation projects. Community Day draws about one third of total conference attendance.
 
 - **Time:** 9:00 AM – 5:00 PM, Sunday
 - **Location:** Conference venue
@@ -21,8 +21,8 @@ Sponsor branding at Writing Day, the opening day of the conference where attende
 ### What Write the Docs provides
 
 - Entrance signage with sponsor logo
-- Sponsor logo on Writing Day program materials
-- Acknowledgment during Writing Day opening remarks
+- Sponsor logo on Community Day program materials
+- Acknowledgment during Community Day opening remarks
 - Table for sponsor collateral
 
 ### What the sponsor provides

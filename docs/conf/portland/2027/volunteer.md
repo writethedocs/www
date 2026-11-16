@@ -7,7 +7,7 @@ og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 # Volunteer Information
 
 Our volunteer sign up form {% if volunteer.form_url %}is open{% else %}will open soon{% endif %}.
-We are looking for volunteers to provide support with a variety of conference roles - registration, Writing Day, Unconference, float, catering, load out, and more.
+We are looking for volunteers to provide support with a variety of conference roles - registration, Community Day, Unconference, float, catering, load out, and more.
 
 Completing this form signs you up to volunteer. We will close the form once volunteer capacity is reached. Another form will be sent out once the speaker schedule is released.
 
@@ -53,8 +53,8 @@ Sign up to be a volunteer
 
 ## Volunteer Roles
 
-Writing Day
-: Assist the Writing Day coordinator, direct attendees to specific tables, and support writing day project leads with logistical questions.
+Community Day
+: Assist the Community Day coordinator, direct attendees to specific tables, and support project leads with logistical questions.
 
 Registration
 : Check in attendees, provide general information inquiries, answer venue questions, and field other requests or direct individuals to the correct staff member who can provide support.

@@ -164,7 +164,7 @@ Mo is a Technical Writer for Oregon Health & Science University's Information Te
 
 ### Daryl White (he/him)
 
-#### Writing Day Coordinator
+#### Community Day Coordinator
 
 ![](/_static/img/2026/team/daryl.jpg)
 
@@ -172,7 +172,7 @@ Daryl White is a senior technical writer with MinIO, working remotely out of the
 
 ### Kate Mueller (she/her)
 
-#### Writing Day Coordinator
+#### Community Day Coordinator
 
 ![](/_static/img/2026/team/kate.png)
 
