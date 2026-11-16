@@ -9,21 +9,11 @@ Held on Sunday, Community Day marks the official start of the conference.
 
 Community Day is what we used to call Writing Day. The day started as a [code sprint](https://en.wikipedia.org/wiki/Sprint_%28software_development%29) for documentation, with attendees bringing a project to lead and/or contributing to someone else's project in half-day or full-day sessions. Those projects are still at the heart of the day.
 
-To create more ways for attendees to take part on Sunday, the day also includes shorter-format options such as workshops and discussions, and you can sign up for Unconference sessions from Sunday on.
-
 ## How to Participate in Community Day in {{year}}
 
 Community Day is available to in-person attendees only. The [virtual conference](/conf/{{shortcode}}/{{year}}/virtual/) component runs **{{date.conference.date}}**.
 
-### Choose from the Following Opportunities:
-
-- **Community Day project** (half-day or full-day)
-  - Attendees can lead a project or join and contribute to a project
-- **New to Git and GitHub workshops**
-- **Resume writing session or portfolio review**
-- **A pre-scheduled, roundtable discussion track**
-
-More details about each activity are below. No additional sign up is required, and the full schedule will be released in the coming months. Ready to submit a Community Day project? Click the link below.
+Attendees can lead a project or join and contribute to a project, for a half day or the full day. No additional sign up is required. Ready to submit a Community Day project? Click the link below.
 
 {% if community_day.url %}
 ```{button-link} {{ community_day.url }}
@@ -35,20 +25,6 @@ Submit your Community Day project
 ## Community Day Schedule
 
 **{{date.day_two.dotw}}, {{date.day_two.date}}, {{date.day_two.community_day_time}} {{tz}}**
-
-Community Day is an all-day event designed for you to join in throughout the day. Whether you want to contribute to a half-day project, join an hour-long roundtable discussion, or attend a GitHub workshop, there is an option for you.
-
-- **Morning Session**
-  - Welcome and overview
-  - Project announcements: Leads give a 2 minute summary and projects begin
-  - GitHub workshops
-  - Resume writing and portfolio review session
-- **Lunch Break**
-- **Afternoon Session**
-  - Project announcements: Leads give a 2 minute summary, starting with the afternoon-only projects, and projects reconvene
-  - GitHub workshop
-  - Resume writing and portfolio review session
-  - Roundtable discussion track
 
 Exact times will be posted on our [schedule page](/conf/{{shortcode}}/{{year}}/schedule/).
 
@@ -70,22 +46,6 @@ Exact times will be posted on our [schedule page](/conf/{{shortcode}}/{{year}}/s
 - Laptop, tablet, or other device
 - [GitHub](https://github.com/) account (or an account on another git-based platform)
 - Text editor of your choice for coding or content creation
-
-## How to Participate in a GitHub Workshop, Resume Writing, and Roundtable Discussion
-
-These sessions create more ways for attendees to participate in Community Day beyond the documentation projects. Whether you want to build technical skills, get feedback on your resume, or join a facilitated discussion, these shorter-format sessions offer something for everyone.
-
-### GitHub Workshops
-
-GitHub workshops are beginner-friendly sessions held in the morning and afternoon, lasting around an hour. Each session begins with a presentation walkthrough covering how to sign up for a GitHub account and a hands-on example, followed by 1-on-1 support from volunteer TAs. It will get you ready to contribute to the projects or to take back your new skills to your own projects.
-
-### Resume Writing and Portfolio Review
-
-Bring your resume or portfolio for feedback from fellow documentarians. This session offers a space to get constructive input and tips to help you stand out in your job search or career progression.
-
-### Roundtable Discussions
-
-Roundtable discussions are pre-scheduled, facilitated conversations held in the afternoon.
 
 ## How to Participate in a Community Day Project
 
