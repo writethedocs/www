@@ -161,7 +161,7 @@ This is our main social event of the conference. Drinks and snacks provided by u
 It is a time to connect with other attendees outside of the scheduled programming.  Come for an hour or stay the entire time!
 
 **Time:** 
-7-9 PM
+{{ date.day_three.social_time }}
 
 **Location:**
 {{ about.social_venue }}

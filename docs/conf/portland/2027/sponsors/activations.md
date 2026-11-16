@@ -15,7 +15,7 @@ Activations give sponsors a more experiential presence at the conference. They'r
 
 Sponsor branding at Community Day, the opening day of the conference where attendees collaborate on documentation projects. Community Day draws about one third of total conference attendance.
 
-- **Time:** 9:00 AM – 5:00 PM, Sunday
+- **Time:** {{ date.day_two.community_day_time }}, {{ date.day_two.dotw }}
 - **Location:** Conference venue
 
 ### What Write the Docs provides
@@ -54,7 +54,7 @@ Sponsor branding for the Unconference track, which runs in parallel with speaker
 
 Sponsor branding at the Sunday pre-conference Welcome Reception. Can be combined with a [branded food and dessert station](#branded-food-and-dessert-station) for additional presence and signage.
 
-- **Time:** 5:00–7:00 PM, Sunday
+- **Time:** {{ date.day_two.reception_time }}, {{ date.day_two.dotw }}
 - **Location:** Conference venue
 
 ### What Write the Docs provides
@@ -72,7 +72,7 @@ Sponsor branding at the Sunday pre-conference Welcome Reception. Can be combined
 
 Sponsor branding at the Monday evening party, including branded bar menu and entrance signage. Can be combined with a [branded food and dessert station](#branded-food-and-dessert-station) for additional presence and signage.
 
-- **Time:** 7:00–9:00 PM, Monday
+- **Time:** {{ date.day_three.social_time }}, {{ date.day_three.dotw }}
 - **Location:** {{ about.social_venue }}
 
 ### What Write the Docs provides
