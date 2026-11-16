@@ -27,11 +27,11 @@ Bus transit stops are located near the venue. All transit in Portland announce m
 - {{ date.day_two.date }}: 1st floor near Martha's Cafe
 - {{ date.conference.date }}: 2nd floor
 
-### Writing Day, Unconference, and Welcome Reception
+### Community Day, Unconference, and Welcome Reception
 
 **Location:** 1st Floor: Library/Astoria Room, Martha's, and Sunset Room
 
-- Writing Day projects and Unconference sessions: Library/Astoria Room
+- Community Day projects and Unconference sessions: Library/Astoria Room
 - GitHub workshops: Sunset Room
 - Roundtable discussions, resume/portfolio review, and sponsor activations: Martha's
 
