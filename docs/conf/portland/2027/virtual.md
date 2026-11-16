@@ -7,35 +7,31 @@ banner: _static/conf/images/photos/talk-stage-podium-55257879930.jpg
 
 We're excited to offer a virtual attendance option for Write the Docs {{name}} {{year}}.
 The virtual component will run on **{{date.conference.date}}** alongside our in-person conference.
+If you can't join us in person, you can still participate and connect from wherever you are.
 
-## Platform
+## What's included
 
-We'll be hosting the virtual conference on [Venueless](https://venueless.org), 
-a platform that combines video streaming with chat and networking features.
+- **Talks:** Watch all talks and Q&A sessions on the main stage live, in {{tz}}.
+- **Q&A:** Each talk is followed by a moderated Q&A. Send in your question using the QR code, and our moderators will put it to the speaker. Virtual attendees use the same QR code.
+- **Hallway track:** A virtual hallway track and chat so you can network with other remote attendees.
+- **Unconference:** A dedicated Virtual unconference channel, with a sign-up sheet for the slots or sessions of the day. Read more about the [Unconference](/conf/{{shortcode}}/{{year}}/unconference/).
+- **Videos:** Conference talk videos are available 2-3 weeks after the event on the [Write the Docs YouTube channel](https://www.youtube.com/c/WritetheDocs).
 
-## What's Included
+## The platform
 
-Virtual attendance includes:
+We'll be hosting the virtual conference on [Venueless](https://venueless.org).
+You get one login link. The talks play on the main stage, the chat is always on the right-hand side of any page, and the schedule is on the **Reception** page.
+Under **Sessions** you'll find the hallway sessions, where you can join with your own audio and video, or chat only.
 
-* Live streamed talks from the main stage
-* Moderated Q&A after each talk, using the same QR code as in-person attendees
-* Real-time chat with other virtual attendees
-* Virtual networking spaces
-* An online Unconference track
-* Conference talk videos available 2-3 weeks after the event
+You'll receive an email titled **Virtual platform access for Write the Docs** one week before the conference, and again on the day of the conference, with your unique login link, a quick start guide for the platform, and information about testing your setup.
 
-## Schedule
+## Tickets
 
-The virtual event follows the main conference schedule on **{{date.conference.date}}**. All sessions are streamed in {{tz}}.
+All in-person tickets include access to the virtual platform too.
+See the [tickets page](/conf/{{shortcode}}/{{year}}/tickets/) for in-person tickets and the refund policy.
 
-See the full [conference schedule](/conf/{{shortcode}}/{{year}}/schedule/) for complete details about specific talks and events.
+{% if not flagticketsonsale %}
+**Tickets will be available in {{ date.tickets_live }}.**
+{% endif %}
 
-## Getting Started
-
-You'll receive an email titled **Virtual platform access for Write the Docs** one week before the conference, and again on the day of the conference, with:
-
-* Your unique login link for Venueless
-* A quick start guide for the platform
-* Information about testing your setup
-
-Virtual tickets are available on our [tickets page](/conf/{{shortcode}}/{{year}}/tickets/).
+{% include "include/virtual-tickets.html" %}
