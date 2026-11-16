@@ -48,6 +48,11 @@ body .page-content ul {
     padding-left: 1em;
     margin: 0;
 
+    // A nested list sits inside its item, so no gap after it.
+    ul, ol {
+        padding-bottom: 0;
+    }
+
     li {
         color: $copy-color;
 
