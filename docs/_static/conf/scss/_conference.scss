@@ -332,6 +332,8 @@ body .page-content {
         margin-top: 36px;
         border-radius: 3px;
         margin-top: 20px;
+        // Same gap as a paragraph, so a heading after the last box isn't flush.
+        margin-bottom: 20px;
 
         a.headerlink, a.headerlink:visited {
             padding-left: 10px;
