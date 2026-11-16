@@ -73,7 +73,7 @@ Sponsor branding at the Sunday pre-conference Welcome Reception. Can be combined
 Sponsor branding at the Monday evening party, including branded bar menu and entrance signage. Can be combined with a [branded food and dessert station](#branded-food-and-dessert-station) for additional presence and signage.
 
 - **Time:** 7:00–9:00 PM, Monday
-- **Location:** Jupiter NEXT (900 E Burnside St, 2nd floor)
+- **Location:** {{ about.social_venue }}
 
 ### What Write the Docs provides
 

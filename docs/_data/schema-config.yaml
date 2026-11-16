@@ -48,6 +48,7 @@ lightning_talks: include('lightning_talks-details', required=False)
 qa: include('qa-details', required=False)
 hike: include('hike-details', required=False)
 social_events: include('social_events-details', required=False)
+attendee_guide: include('attendee_guide-details', required=False)
 volunteer: include('volunteer-details')
 
 # TODO: the Australia 2026 config (#2699) doesn't yet set these, so they're
@@ -256,6 +257,11 @@ unconf-details:
 social_events-details:
   reception_sponsor: str(required=False)
   social_sponsor: str(required=False)
+
+# Sponsors named on the attendee guide, each the name of an entry in the sponsors block.
+attendee_guide-details:
+  lounge_sponsor: str(required=False)
+  headshots_sponsor: str(required=False)
 
 writing_day-details:
   url: str(required=False)
