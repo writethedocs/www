@@ -2128,6 +2128,16 @@ table {
     }
 }
 
+// The tickets page's opening line, so whether tickets are on sale stands out.
+body .page-content p.ticket-status {
+    margin: 0 0 20px;
+    padding: 16px 20px;
+    border-left: 4px solid $main-color;
+    border-radius: 3px;
+    background: $tint-color;
+    font-size: 1.15em;
+}
+
 .page-toc-compact {
     margin: 0 0 24px;
     border: 1px solid $line-color;
