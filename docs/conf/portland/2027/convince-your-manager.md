@@ -29,7 +29,7 @@ There is a single track of talks, a parallel unconference event, and a community
 
 Costs:
 
-- Conference ticket (https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/) - {{tickets.corporate.price}}
+- Conference ticket (https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/){% if flagticketsonsale or flagsoldout %} - {{tickets.corporate.price}}{% endif %}
 - Virtual ticket (https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/virtual/), if travel isn't possible - {{tickets.virtual_corporate.price}}
 
 Benefits:
@@ -79,7 +79,7 @@ Community Day is modeled after the concept of “code sprints” or “hackathon
 
 Costs:
 
-- Conference ticket (https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/) - {{tickets.corporate.price}}
+- Conference ticket (https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/){% if flagticketsonsale or flagsoldout %} - {{tickets.corporate.price}}{% endif %}
 - Virtual ticket (https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/virtual/), if travel isn't possible - {{tickets.virtual_corporate.price}}
 
 Community Day Benefits:
