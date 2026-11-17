@@ -26,7 +26,8 @@ photos: include('photo-default')
 buttons: include('buttons', required=False)
 videos: include('videos-details', required=False)
 
-tickets: include('ticket-details')
+# Ticket prices; add them when tickets go on sale.
+tickets: include('ticket-details', required=False)
 
 sponsorship: include('sponsorship-details')
 
