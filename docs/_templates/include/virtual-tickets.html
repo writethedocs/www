@@ -1,6 +1,6 @@
 <div class="ticket">
   <h2>
-    <strong>Virtual Student/Unemployed</strong>: <em>{{tickets.virtual_student.price}}</em>
+    <strong>Virtual Student/Unemployed</strong>{% if flagticketsonsale or flagsoldout %}: <em>{{tickets.virtual_student.price}}</em>{% endif %}
   </h2>
   <p>
     Purchase this ticket if you are currently enrolled as a student, or don't currently have a source of income.
@@ -16,7 +16,7 @@
 
 <div class="ticket">
   <h2>
-    <strong>Virtual Independent</strong>: <em>{{tickets.virtual_independent.price}}</em>
+    <strong>Virtual Independent</strong>{% if flagticketsonsale or flagsoldout %}: <em>{{tickets.virtual_independent.price}}</em>{% endif %}
   </h2>
   <p>
     Purchase this ticket if you are paying for yourself, or if you work at a non-profit, a government, or a company with fewer than 10 employees.
@@ -32,7 +32,7 @@
 
 <div class="ticket">
   <h2>
-    <strong>Virtual Corporate</strong>: <em>{{tickets.virtual_corporate.price}}</em>
+    <strong>Virtual Corporate</strong>{% if flagticketsonsale or flagsoldout %}: <em>{{tickets.virtual_corporate.price}}</em>{% endif %}
   </h2>
   <p>
     Purchase this ticket if a company is paying for your attendance.
