@@ -18,23 +18,6 @@ time_format: 12h
 videos:
   playlist: ""  # YouTube playlist, once the videos are up
 
-# Ticket prices carried over from 2026 until the 2027 prices are confirmed.
-tickets:
-  concierge:
-    price: $750
-  corporate:
-    price: $650
-  independent:
-    price: $350
-  student:
-    price: $100
-  virtual_corporate:
-    price: $175
-  virtual_independent:
-    price: $100
-  virtual_student:
-    price: $50
-
 sponsorship:
   second_draft:  # shown as "Supporter" on the site
     price: $3,500
