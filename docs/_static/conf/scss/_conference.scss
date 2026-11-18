@@ -304,6 +304,8 @@ body .page-banner {
 
 body .page-content {
     padding-top: 36px;
+    // Long URLs in the text wrap instead of widening the page on phones.
+    overflow-wrap: break-word;
 
     a:not(.headerlink), a:active:not(.headerlink), a:visited:not(.headerlink), a:link:not(.headerlink) {
         border-bottom: 1px dashed $header-color;
@@ -2136,15 +2138,39 @@ table {
         display: none;
     }
 
+    // A chevron shows the box opens, as on the sponsorship packages.
     summary {
+        display: flex;
+        align-items: center;
+        gap: 12px;
         padding: 12px 16px;
         @include page-toc-label;
         cursor: pointer;
+        list-style: none;
+
+        &::-webkit-details-marker {
+            display: none;
+        }
+
+        &::before {
+            content: "";
+            flex: none;
+            width: 7px;
+            height: 7px;
+            border-right: 2px solid $main-color;
+            border-bottom: 2px solid $main-color;
+            transform: rotate(-45deg);
+            transition: transform 0.15s;
+        }
 
         &:focus-visible {
             outline: 3px solid $main-color;
             outline-offset: 2px;
         }
+    }
+
+    &[open] summary::before {
+        transform: rotate(45deg);
     }
 
     nav {

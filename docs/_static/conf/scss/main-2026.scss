@@ -290,6 +290,8 @@ body .page-banner {
 
 body .page-content {
     padding-top: 36px;
+    // Long URLs in the text wrap instead of widening the page on phones.
+    overflow-wrap: break-word;
 
     a:not(.headerlink), a:active:not(.headerlink), a:visited:not(.headerlink), a:link:not(.headerlink) {
         border-bottom: 1px dashed $header-color;
