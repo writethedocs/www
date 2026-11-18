@@ -29,6 +29,7 @@ Remember to change the things in [brackets]!
 *Costs:*
 
 - *[Conference ticket](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/) - {{tickets.corporate.price}}*
+- *[Virtual ticket](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/virtual/), if travel isn't possible{% if flagticketsonsale or flagsoldout %} - {{tickets.virtual_corporate.price}}{% endif %}*
 
 *Benefits:*
 
@@ -70,6 +71,7 @@ Remember to change the things in [brackets]!
 *Costs:*
 
 - *[Conference ticket](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/tickets/) - {{tickets.corporate.price}}*
+- *[Virtual ticket](https://www.writethedocs.org/conf/{{shortcode}}/{{year}}/virtual/), if travel isn't possible{% if flagticketsonsale or flagsoldout %} - {{tickets.virtual_corporate.price}}{% endif %}*
 
 *Community Day Benefits:*
 
