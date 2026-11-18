@@ -25,12 +25,9 @@
             {%- if conference_footer %}
             <div class="site-footer__callout">
                 <img class="site-footer__stamp" src="{{ pathto('_static/sticker-wtd-colors.png', 1) }}" alt="" width="64" height="64" loading="lazy">
-                <h2>Part of Write the Docs</h2>
-                <p>A global community of people who care about documentation. Between conferences, talk shop with over {{ slack_members }} documentarians in Slack.</p>
-                <p class="site-footer__buttons">
-                    <a href="{{ pathto('slack') }}">Join Slack</a>
-                    <a href="{{ pathto('conf/index') }}">All conferences</a>
-                </p>
+                <h2>Part of <a href="/">Write the Docs</a></h2>
+                <p>A global community of people who care about documentation.</p>
+                <p class="site-footer__more"><a href="{{ pathto('conf/index') }}">All conferences</a></p>
             </div>
 
             {#- The event and its reference pages, together in one column. #}
@@ -46,12 +43,11 @@
                 </p>
                 <nav class="site-footer__links" aria-label="Conference">
                     <ul>
-                        {#- The header menu's sections, then the two pages every page links. #}
+                        {#- Sponsoring is left out: the sponsors band is right above. #}
                         <li><a href="{{ conf_link('tickets') }}">Tickets</a></li>
                         {%- if flaghasschedule %}
                         <li><a href="{{ conf_link('schedule') }}">Schedule</a></li>
                         {%- endif %}
-                        <li><a href="{{ conf_link('sponsors') }}">Sponsors</a></li>
                         <li><a href="{{ conf_link('news') }}">News</a></li>
                         <li><a href="{{ conf_link('code-of-conduct') }}">Code of Conduct</a></li>
                         <li><a href="{{ conf_link('contact') }}">Contact</a></li>
@@ -94,6 +90,7 @@
                 {%- endif %}
             </p>
             <ul class="site-footer__social">
+                <li><a href="{{ pathto('slack') }}"><img src="{{ pathto('_static/conf/images/icons/slack-footer-white.svg', 1) }}" alt="Slack" width="24" height="24" loading="lazy"></a></li>
                 <li><a href="https://github.com/writethedocs"><img src="{{ pathto('_static/conf/images/icons/github-footer-white.svg', 1) }}" alt="GitHub" width="24" height="24" loading="lazy"></a></li>
                 <li><a href="https://www.linkedin.com/company/write-the-docs"><img src="{{ pathto('_static/conf/images/icons/linkedin-footer-white.svg', 1) }}" alt="LinkedIn" width="24" height="24" loading="lazy"></a></li>
                 <li><a href="https://www.flickr.com/photos/writethedocs/"><img src="{{ pathto('_static/conf/images/icons/flickr-footer-white.svg', 1) }}" alt="Flickr" width="24" height="24" loading="lazy"></a></li>
