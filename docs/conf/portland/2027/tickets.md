@@ -8,6 +8,7 @@ banner: _static/conf/images/photos/auditorium-day-1-55249270408.jpg
 
 {% if flagticketsonsale %}
 
+{.ticket-status}
 Tickets are on sale now! We're excited to invite you to our {{ year }} conference in {{ city }}, on {{ date.main }}.
 
 ```{button-link} https://ti.to/writethedocs/write-the-docs-{{shortcode}}-{{year}}
@@ -23,6 +24,7 @@ Conference shirts are also available. See the [Official Conference Shirts](#offi
 
 {% elif flagsoldout %}
 
+{.ticket-status}
 Tickets are sold out! Thank you to everyone who is joining us for our {{ year }} conference in {{ city }}, on {{ date.main }}.
 
 {% if tickets.waiting_list %}
@@ -38,6 +40,7 @@ Join the waiting list
 
 {% else %}
 
+{.ticket-status}
 **Tickets are not on sale yet.** They will be available in {{ date.tickets_live }}, for our {{ year }} conference in {{ city }} on {{ date.main }}.
 
 ```{button-link} /conf/{{shortcode}}/{{year}}/news/#join-our-mailing-list
@@ -47,13 +50,16 @@ Hear about tickets on the mailing list
 
 {% endif %}
 
-Write the Docs {{ name }} {{ year }} is a hybrid conference, which you can attend in person or virtually. Each in-person ticket includes:
+Write the Docs {{ name }} {{ year }} is a hybrid conference, which you can attend in person or virtually.
+
+Each in-person ticket includes:
 
 - Entry to all conference events and activities
 - Snacks and drinks on event days (Sunday-Tuesday)
 - Welcome Reception and Social Event with light snacks and drinks
 - Wifi throughout the event
 - Meeting lots of fantastic people in a spacious, inviting venue
+- Access to the virtual platform
 
 Virtual tickets include:
 
