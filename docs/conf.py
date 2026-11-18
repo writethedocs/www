@@ -110,7 +110,11 @@ extensions = [
 ]
 
 myst_heading_anchors = 4
-myst_enable_extensions = ['attrs_block', 'deflist']
+# linkify turns a bare email address or URL in Markdown into a link, as
+# reStructuredText already does. Fuzzy links are off so that plain domain
+# names in text, like writethedocs.org, stay text.
+myst_enable_extensions = ['attrs_block', 'deflist', 'linkify']
+myst_linkify_fuzzy_links = False
 # Treat markdown links as plain URLs. Without this, myst tries to resolve
 # relative links like `../foo/#anchor` as cross-references and mangles them.
 myst_all_links_external = True
