@@ -763,6 +763,21 @@ body.community {
         margin: 4px 0 8px;
     }
 
+    // reStructuredText turns an item followed by a nested list with no blank
+    // line between them into a definition list. Show it as a plain item.
+    li > dl {
+        margin: 0;
+    }
+
+    li > dl > dt {
+        color: inherit;
+        font-weight: inherit;
+    }
+
+    li > dl > dd {
+        margin-left: 0;
+    }
+
     dl {
         margin: 0 0 20px;
     }
