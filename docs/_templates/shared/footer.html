@@ -6,8 +6,8 @@
   conference one. What goes in it follows each footer's job:
 
   - Community pages: join the community, through Slack and the newsletter.
-  - Conference pages: say which event this is and link its reference pages,
-    then lead to the community that runs it. The event's current asks
+  - Conference pages: lead to the community that runs the event, and say
+    which event this is and link its reference pages, together on the right. The event's current asks
     (tickets, sponsoring, videos once it's over) are already right above,
     in the config's bottom buttons and the sponsors band, so they aren't
     repeated here. Conference sites stay up for years, so nothing in it
@@ -23,19 +23,6 @@
     <div class="site-footer__inner">
         <div class="site-footer__main">
             {%- if conference_footer %}
-            <div class="site-footer__brand site-footer__event">
-                <h2><a href="{{ conf_link('') }}">Write the Docs {{ name }} {{ year }}</a></h2>
-                <p>{{ date.short }}</p>
-                <p>
-                    {%- if about is defined and about.venue and about.venue != 'TBD' %}
-                    {{ about.venue }}{% if city not in about.venue %}, {{ city }}{% endif %}<br>
-                    {%- elif city != local_area %}
-                    {{ city }}<br>
-                    {%- endif %}
-                    {{ local_area }}
-                </p>
-            </div>
-
             <div class="site-footer__callout">
                 <img class="site-footer__stamp" src="{{ pathto('_static/sticker-wtd-colors.png', 1) }}" alt="" width="64" height="64" loading="lazy">
                 <h2>Part of Write the Docs</h2>
@@ -46,18 +33,31 @@
                 </p>
             </div>
 
-            <nav class="site-footer__links" aria-label="Conference">
-                <ul>
-                    {%- if flaghasschedule %}
-                    <li><a href="{{ conf_link('schedule') }}">Schedule</a></li>
+            {#- The event and its reference pages, together in one column. #}
+            <div class="site-footer__event">
+                <h2><a href="{{ conf_link('') }}">Write the Docs {{ name }} {{ year }}</a></h2>
+                {#- One line: the dates, then the venue, which links to its page. #}
+                <p>
+                    {{ date.short }}
+                    {%- if about is defined and about.venue and about.venue != 'TBD' %} ·
+                    <a href="{{ conf_link('venue') }}">{{ about.venue }}</a>
+                    {%- elif city != name %} · {{ city }}
                     {%- endif %}
-                    <li><a href="{{ conf_link('venue') }}">Venue</a></li>
-                    <li><a href="{{ conf_link('code-of-conduct') }}">Code of Conduct</a></li>
-                    {#- On the news page itself, pathto() gives "#", so only the anchor is kept. #}
-                    <li><a href="{{ conf_link('news')|replace('#', '') }}#join-our-mailing-list">Mailing list</a></li>
-                    <li><a href="{{ conf_link('contact') }}">Contact</a></li>
-                </ul>
-            </nav>
+                </p>
+                <nav class="site-footer__links" aria-label="Conference">
+                    <ul>
+                        {#- The header menu's sections, then the two pages every page links. #}
+                        <li><a href="{{ conf_link('tickets') }}">Tickets</a></li>
+                        {%- if flaghasschedule %}
+                        <li><a href="{{ conf_link('schedule') }}">Schedule</a></li>
+                        {%- endif %}
+                        <li><a href="{{ conf_link('sponsors') }}">Sponsors</a></li>
+                        <li><a href="{{ conf_link('news') }}">News</a></li>
+                        <li><a href="{{ conf_link('code-of-conduct') }}">Code of Conduct</a></li>
+                        <li><a href="{{ conf_link('contact') }}">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
             {%- else %}
             <div class="site-footer__brand">
                 <a href="/"><img class="site-footer__stamp" src="{{ pathto('_static/sticker-wtd-colors.png', 1) }}" alt="Write the Docs home" width="88" height="88" loading="lazy"></a>
@@ -88,12 +88,9 @@
         <div class="site-footer__bottom">
             <p>
                 © {% if conference_footer %}{{ year }} {% endif %}Write the Docs ·
-                <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International">CC BY-NC-SA 4.0</a> ·
-                Spotted a mistake?
-                {% if page_source_suffix -%}
-                <a href="https://github.com/writethedocs/www/edit/main/docs/{{ pagename }}{{ page_source_suffix }}">Edit this page on GitHub</a>
-                {%- else -%}
-                <a href="https://github.com/writethedocs/www">Edit it on GitHub</a>
+                <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International">CC BY-NC-SA 4.0</a>
+                {%- if page_source_suffix %} ·
+                <a href="https://github.com/writethedocs/www/edit/main/docs/{{ pagename }}{{ page_source_suffix }}">Edit this page</a>
                 {%- endif %}
             </p>
             <ul class="site-footer__social">

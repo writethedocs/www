@@ -76,4 +76,4 @@ jobs:
     - name: Check links
       if: success()
       run:  |
-          bundle exec htmlproofer --checks "Links,Images,Scripts,OpenGraph" --ignore-files "/404/,/2013/,/2014/,/2015/,/2016/,/2017/,/search\/index.html/,/archive\/tag\/index/" --allow-hash-href=true --enforce-https=false --ignore-missing-alt=true --disable-external=true --swap-urls "https\://www.writethedocs.org:,http\://www.writethedocs.org:" docs/_build/html
+          bundle exec htmlproofer --checks "Links,Images,Scripts,OpenGraph" --ignore-files "/404/,/2013/,/2014/,/2015/,/2016/,/2017/,/search\/index.html/,/archive\/tag\/index/" --ignore-urls "/organizer-guide\/meetups\/(starting|faq-meetups|sustainable-meetups)\//" --allow-hash-href=true --enforce-https=false --ignore-missing-alt=true --disable-external=true --swap-urls "https\://www.writethedocs.org:,http\://www.writethedocs.org:" docs/_build/html

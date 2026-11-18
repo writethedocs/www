@@ -20,7 +20,7 @@ To see the whole list of conferences, check out [Conferences](/conf/).
 
 We have meetups in multiple cities every month. To find a meetup near you, take a look at the [Local and virtual community groups](/meetups/) page.
 
-If you want to start a new meetup, our [Starting a Meetup](/organizer-guide/meetups/starting/) page has the information that you need.
+If you want to start a new meetup, our [community organizing guide](/meetups/wtd-community-organizing/) has the information that you need.
 
 ## Sponsorship
 

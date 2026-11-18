@@ -19,7 +19,7 @@ Requirements
 
 .. note:: These are for people running community-run conferences.
           If you are starting a meetup,
-          follow our :doc:`/organizer-guide/meetups/starting` guide.
+          follow our :doc:`/meetups/wtd-community-organizing` guide.
 
 In order to be listed as a community-run conference,
 we require a few things.
