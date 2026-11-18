@@ -37,6 +37,7 @@ Write the Docs {{ name }} {{ year }} is a hybrid conference, which you can atten
 - Social Event with light snacks and drinks
 - Wifi throughout the event
 - Meeting lots of fantastic people in a spacious, inviting venue
+- Access to the virtual platform
 
 Virtual tickets include:
 
@@ -44,7 +45,7 @@ Virtual tickets include:
 - Submitting live Q&A questions for speakers
 - A virtual hallway track and chat so you can network with other remote attendees
 
-All in-person tickets include access to the virtual platform too. Learn more about the [virtual attendance experience](/conf/{{shortcode}}/{{year}}/virtual/).
+Learn more about the [virtual attendance experience](/conf/{{shortcode}}/{{year}}/virtual/).
 
 All attendees, in person or virtual, are required to abide by our [Code of Conduct](https://www.writethedocs.org/code-of-conduct/).
 
