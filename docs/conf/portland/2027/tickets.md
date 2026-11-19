@@ -67,6 +67,12 @@ Virtual tickets include:
 - Submitting live Q&A questions for speakers
 - A virtual hallway track and chat to network with other remote attendees
 
+Virtual tickets include:
+
+- Watching all talks and Q&A sessions on the main stage live
+- Submitting live Q&A questions for speakers
+- A virtual hallway track and chat so you can network with other remote attendees
+
 Learn more about the [virtual attendance experience](/conf/{{shortcode}}/{{year}}/virtual/).
 
 All attendees, in person or virtual, are required to abide by our [Code of Conduct](https://www.writethedocs.org/code-of-conduct/).
