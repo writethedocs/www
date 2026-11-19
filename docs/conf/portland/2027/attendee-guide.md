@@ -46,21 +46,22 @@ We will provide a venue map onsite.
 
 Take a break in the Attendee Lounge, a quiet wellness and recharging space with comfortable seating, charging stations, light snacks, and noise-canceling headphones on loan. Open throughout Monday and Tuesday.
 
-*The Attendee Lounge is sponsored by [Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral).*
+{% if attendee_guide.lounge_sponsor %}{% set sponsor = sponsors|find_sponsor(attendee_guide.lounge_sponsor) %}
+*The Attendee Lounge is sponsored by [{{ sponsor.brand }}]({{ sponsor.link }}).*
+{% endif %}
 
 ## Professional Headshots
 
 Free professional headshots are available for all attendees at the headshot booth. Come grab a new photo for your LinkedIn or professional profile! A professional photographer will be onsite — no appointment needed, just stop by. Check the [schedule](/conf/{{shortcode}}/{{year}}/schedule/) for times.
 
-*The headshot booth is sponsored by [Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral).*
+{% if attendee_guide.headshots_sponsor %}{% set sponsor = sponsors|find_sponsor(attendee_guide.headshots_sponsor) %}
+*The headshot booth is sponsored by [{{ sponsor.brand }}]({{ sponsor.link }}).*
+{% endif %}
 
 ## Food and Drinks
 
 - Snacks, coffee, tea, and water are included with your ticket. Vegan, vegetarian, gluten-free, and dairy-free options will be offered. 
 - Bring a water bottle as there are refill stations located around the venue.
-- Two food carts will be on site for Monday and Tuesday lunches from 11:30 AM-2:00 PM:
-  - Let's Roll
-  - Nacho's House
 - There are many food and beverage options within 0.5 miles (0.8 km) around the conference venue. Explore {{city}}’s amazing food scene on the [Visiting {{city}} page](/conf/{{shortcode}}/{{year}}/visiting/).
   
 ## Dress Code
@@ -160,7 +161,7 @@ This is our main social event of the conference. Drinks and snacks provided by u
 It is a time to connect with other attendees outside of the scheduled programming.  Come for an hour or stay the entire time!
 
 **Time:** 
-7-9 PM
+{{ date.day_three.social_time }}
 
 **Location:**
 {{ about.social_venue }}

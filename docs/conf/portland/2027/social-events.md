@@ -18,15 +18,20 @@ This is a great chance to meet other attendees,
 and make sure you know your way around the conference venue.
 
 **Where**: {{about.venue}}, {{about.unconfroom}} and Show Bar  
-**When**: 5-7 PM
+**When**: {{ date.day_two.reception_time }}
 
 *Both alcoholic and non-alcoholic drinks and snacks will be provided.*
 
-<p style="text-align: center; margin-top: 1.5em;">
-<a href="https://mintlify.com/?utm_source=writethedocs&utm_medium=referral" style="border-bottom: none;"><img src="/_static/img/sponsors/mintlify.png" alt="Mintlify" style="max-width: 250px;"></a>
+{% if social_events.reception_sponsor %}
+{% set sponsor = sponsors|find_sponsor(social_events.reception_sponsor) %}
+### Sponsored by
+
+<p style="text-align: center; margin-top: 1em;">
+<a href="{{ sponsor.link }}" style="border-bottom: none;"><img src="{{ sponsor.name|sponsor_photo }}" alt="{{ sponsor.brand }}" style="max-width: 250px;"></a>
 </p>
 
-*The Sunday Reception is sponsored by [Mintlify](https://mintlify.com/?utm_source=writethedocs&utm_medium=referral).*
+*The Sunday Reception is sponsored by [{{ sponsor.brand }}]({{ sponsor.link }}).*
+{% endif %}
 
 ## Monday Night Social
 
@@ -34,12 +39,17 @@ Join us for our Monday night social event! This is a great chance to meet more o
 and chat about the conference in a relaxed atmosphere.
 
 **Where**: {{about.social_venue}}  
-**When**: 7-9 PM
+**When**: {{ date.day_three.social_time }}
 
 *Both alcoholic and non-alcoholic drinks and snacks will be provided.*
 
-<p style="text-align: center; margin-top: 1.5em;">
-<a href="https://promptless.ai/?ref=writethedocs" style="border-bottom: none;"><img src="/_static/img/sponsors/promptless.png" alt="Promptless" style="max-width: 250px;"></a>
+{% if social_events.social_sponsor %}
+{% set sponsor = sponsors|find_sponsor(social_events.social_sponsor) %}
+### Sponsored by
+
+<p style="text-align: center; margin-top: 1em;">
+<a href="{{ sponsor.link }}" style="border-bottom: none;"><img src="{{ sponsor.name|sponsor_photo }}" alt="{{ sponsor.brand }}" style="max-width: 250px;"></a>
 </p>
 
-*The Monday Night Social is sponsored by [Promptless](https://promptless.ai/?ref=writethedocs).*
+*The Monday Night Social is sponsored by [{{ sponsor.brand }}]({{ sponsor.link }}).*
+{% endif %}

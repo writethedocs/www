@@ -22,26 +22,22 @@ There are wonderful hotels located within two miles of the venue. Many of these 
 
 [Jupiter Hotel](https://www.jupiterhotel.com/)
 
-- **15% Off Discount Code: THEDOCS**
 - Offers two hotel options
   - NEXT has newer rooms
   - The Original, boutique hotel, has more street noise
 - [Hey Love](https://www.heylovepdx.com/) restaurant/bar in the lobby (won Best U.S. Hotel Bar 2023)
-- We're having our Monday evening social here
 - 0.6 miles to the venue
 
-[Hotel Lucia](https://be.synxis.com/?adult=1&arrive=2026-04-30&chain=22402&child=0&currency=USD&depart=2026-05-07&group=GRWRDO&hotel=49677&level=hotel&locale=en-US&productcurrency=USD&rooms=1&src=24C)
+[Hotel Lucia](https://www.hotellucia.com/)
 
 - Downtown boutique hotel
-- $139 + 13% tax
 - Close to Powell's bookstore and the Pearl District
 - Nightly beer hour from 5-6pm
 - 1.8 miles to the venue
 
-[Sentinel Hotel](https://be.synxis.com/?adult=1&arrive=2026-04-30&chain=21123&child=0&currency=USD&depart=2026-05-07&group=1529821&hotel=76781&level=hotel&locale=en-US&productcurrency=USD&rooms=1)
+[Sentinel Hotel](https://www.sentinelhotel.com/)
 
 - Luxury downtown boutique hotel
-- $159 + 16% tax
 - featuring [Fortune](https://www.fortune.bar/) bar and lounge with plant-based food
 - Close to Powell's bookstore and the Pearl District
 - Nightly wine hour from 5-6pm
@@ -54,13 +50,6 @@ There are wonderful hotels located within two miles of the venue. Many of these 
 Snacks and beverages are included in the conference with your ticket.
 
 Lunch and dinners are on your own and an opportunity to connect with attendees. For those with specific dietary needs, Portland has inclusive and accommodating options.
-
-### Food Carts at Revolution Hall
-
-**Lunch only (Monday and Tuesday 11:30am-2pm)**
-
-- Let's Roll
-- Nacho's House
 
 ### Food and Drinks near Revolution Hall (within a 10-minute walk)
 

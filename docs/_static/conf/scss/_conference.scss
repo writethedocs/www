@@ -238,9 +238,21 @@ body em {
     }
 }
 
+// The outlined "Speak" button in the header: text and outline in one colour,
+// filled with it on hover. White on the front page hero, the conference
+// colour on the sub pages.
+@mixin ghost-button($color, $hover-text) {
+    color: $color;
+    border: 2px solid $color;
+
+    &:hover {
+        color: $hover-text;
+        background-color: $color;
+    }
+}
+
 body .uk-button.uk-button-ghost {
     background: transparent;
-    border: 1px solid $white;
     border-radius: 6px;
     padding-left: 30px;
     padding-right: 30px;
@@ -339,6 +351,8 @@ body .page-content {
         margin-top: 36px;
         border-radius: 3px;
         margin-top: 20px;
+        // Same gap as a paragraph, so a heading after the last box isn't flush.
+        margin-bottom: 20px;
 
         a.headerlink, a.headerlink:visited {
             padding-left: 10px;
@@ -525,6 +539,10 @@ body .page-content {
         a {
             color: $font-black;
         }
+    }
+
+    .uk-navbar-right > .uk-nav > li > a.uk-button-ghost {
+        @include ghost-button($white, $main-color);
     }
 
     .uk-navbar-toggle {
@@ -1214,19 +1232,12 @@ footer {
             }
 
             & > a.uk-button-ghost {
+                @include ghost-button($main-color, $white);
                 height: 38px;
-                color: $main-color;
                 width: 116px;
-                border: 2px solid $main-color;
-                border-radius: 6px;
                 display: flex;
                 justify-content: center;
                 align-items: center;
-
-                &:hover {
-                    color: $white;
-                    background-color: $main-color;
-                }
             }
 
             .uk-nav.uk-navbar-dropdown-nav li {
@@ -2126,6 +2137,16 @@ table {
         @include page-toc-label;
         text-align: left;
     }
+}
+
+// The tickets page's opening line, so whether tickets are on sale stands out.
+body .page-content p.ticket-status {
+    margin: 0 0 20px;
+    padding: 16px 20px;
+    border-left: 4px solid $main-color;
+    border-radius: 3px;
+    background: $tint-color;
+    font-size: 1.15em;
 }
 
 .page-toc-compact {
