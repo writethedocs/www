@@ -45,6 +45,17 @@ newsletter/editorial-guidelines
 newsletter/newsletter-process
 ```
 
+## Picks
+
+Information about curating Write the Docs Picks.
+
+```{toctree}
+:maxdepth: 2
+
+picks/editorial-guidelines
+picks/picks-process
+```
+
 ## Conferences
 
 Information about our regional Write the Docs conferences.
