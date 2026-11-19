@@ -27,6 +27,7 @@
     <p>I''ll anchor these concepts in real docs-as-code scenarios. By the end, you''ll
     have concrete techniques you can use today to reduce friction and anxiety in your
     documentation workflows, especially when juggling multiple changes at once.</p>'
+  youtubeId: FiGT3XYICSE
 - title: 'Documentation Thinking Beyond the Docs: Lessons from Decision-Facing Technical
     Writing'
   slug: documentation-thinking-beyond-the-docs-lessons-from-decision-facing-technical-w-mary-elise-dedicke
@@ -61,6 +62,7 @@
     Rather than focusing on grants themselves, the talk centers on transferable documentation
     principles that proved most effective beyond traditional manuals and reference
     pages.</p>'
+  youtubeId: Uof8UE5jfhU
 - title: Writing the Docs when the Protocol is the Product
   slug: writing-the-docs-when-the-protocol-is-the-product-alex-garnett
   series: Write the Docs Portland
@@ -94,6 +96,7 @@
     docs into a single point of entry. You’ll see how we’ve designed interfaces to
     our Lexicons that make them look less like an intimidating API reference, and
     more like an app catalog. And you’ll get to post about it!</p>'
+  youtubeId: pf3HlCK1g84
 - title: What the Data Shows When Docs Meet LLMs (and Why I'm Excited for the Future)
   slug: what-the-data-shows-when-docs-meet-llms-and-why-i-m-excited-for-the-future-ethan-palm
   series: Write the Docs Portland
@@ -133,6 +136,7 @@
     <li>Why I''m excited about the future of our profession</li>
 
     </ul>'
+  youtubeId: qn6y6kYcsoE
 - title: 'Pillars That Hold: Structuring Documentation Around User Progress'
   slug: pillars-that-hold-structuring-documentation-around-user-progress-annie-zempel
   series: Write the Docs Portland
@@ -176,6 +180,7 @@
     <p>You’ll leave with a practical approach you can adapt to structure documentation
     around stages of progress, especially when you’re working with inherited content
     and users who are still upskilling.</p>'
+  youtubeId: RzeZQTl8FkE
 - title: What I Learned Building an AI Documentation Auditor (And What It Found in
     500+ Pages of Docs)
   slug: what-i-learned-building-an-ai-documentation-auditor-and-what-it-found-in-500-p-rakesh-pasupuleti
@@ -220,6 +225,7 @@
     <p>What you''ll take away: a checklist of common documentation debt patterns,
     practical criteria for evaluating AI-assisted tools, and a prioritization framework
     for when you have too many issues and not enough time.</p>'
+  youtubeId: gYAbSQ8Gmmc
 - title: '"Chat, Are We Cooked?" Help in the Moment: Designing Policy Documentation
     for High-Stakes, Real-Time Decisions'
   slug: chat-are-we-cooked-help-in-the-moment-designing-policy-documentation-for-hi-darlene-chanimaya-postma
@@ -251,6 +257,7 @@
     documentation requires a completely different approach. This talk shares how Twitch
     is redesigning our Community Guidelines supporting documentation to function as
     real-time decision support, while remaining mindful of risks and other factors.</p>'
+  youtubeId: Ys9I4E_I_bo
 - title: 'Drops of Jupyter: An Exploration of the Notebook Ecosystem'
   slug: drops-of-jupyter-an-exploration-of-the-notebook-ecosystem-adam-michael-wood
   series: Write the Docs Portland
@@ -277,6 +284,7 @@
     or literate programming for software development. So yes, it''s a talk about tools.
     But it''s really a talk about different ways we use computation and prose together
     for different purposes.</p>'
+  youtubeId: zhoQjvCdTXg
 - title: "[Remote talk] You Don't Need More New Contributors — You Need Onboarding That Actually
     Works"
   slug: you-don-t-need-more-new-contributors-you-need-onboarding-that-actually-works-busayo-ojo
@@ -307,6 +315,7 @@
     <p>If you''ve ever wondered why people aren''t contributing to your docs even
     though they said they would, or if you want to make it easier for newcomers to
     actually get started, this talk might help.</p>'
+  youtubeId: 9hF9j7Qjuvw
 - title: 'The Invisible Work: What It Takes to Be the First (and Only) Tech Writer
     on the Team'
   slug: the-invisible-work-what-it-takes-to-be-the-first-and-only-tech-writer-on-the-alina-desiatnikova
@@ -349,6 +358,7 @@
     the documentation function alone</li>
 
     </ul>'
+  youtubeId: a4zWz_yL3FY
 - title: The Most Human Documentation
   slug: the-most-human-documentation-christian-miles
   series: Write the Docs Portland
@@ -387,6 +397,7 @@
     of technical ideas</li>
 
     </ul>'
+  youtubeId: jKMQ68tsWT8
 - title: 'How We Deprecated 500+ Articles: Cleaning Up Documentation at Scale'
   slug: how-we-deprecated-500-articles-cleaning-up-documentation-at-scale-aileen-mary
   series: Write the Docs Portland
@@ -430,6 +441,7 @@
     <li>The measurable impact on bot accuracy and why quality beat quantity</li>
 
     </ul>'
+  youtubeId: TvPPldKtx5Q
 - title: 'How to Win Docs and Influence Robots: Improving Robot Accuracy Through Better
     Docs'
   slug: how-to-win-docs-and-influence-robots-improving-robot-accuracy-through-better-do-sarah-lin
@@ -478,3 +490,4 @@
 
     <p>This talk will help you understand the difference between content designed
     solely for human consumption and content suited for both human and AI consumption.</p>'
+  youtubeId: VDqm10xUAtA
