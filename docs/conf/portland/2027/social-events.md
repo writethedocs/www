@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/photos/roof-deck-55246787066.jpg
+banner: _static/conf/images/photos/reception-table-55248577768.jpg
 ---
 
 # Social Events

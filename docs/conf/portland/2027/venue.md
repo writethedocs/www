@@ -1,6 +1,6 @@
 ---
 template: {{year}}/generic.html
-banner: _static/conf/images/photos/welcome-sign-55246081956.jpg
+banner: _static/conf/images/photos/auditorium-55248225117.jpg
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 

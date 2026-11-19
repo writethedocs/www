@@ -100,6 +100,7 @@ date: # how do we handle these? human readable would be nice.
   total_talk_days: 2
 
 about:
+  summary: Write the Docs is a 3-day conference in Portland, Oregon. The program includes a Community Day with collaborative documentation projects, two days of speaker talks, Lightning Talks, and an attendee-led Unconference. It also features a Sponsor Expo, a pre-conference Hike, and social events.
   attendees: 400
   social_venue: TBD
   venue: Revolution Hall
