@@ -39,7 +39,7 @@ Choose what you'd like to hear about. You can unsubscribe from any email.
 
 <!-- newsletter-archive -->
 
-Looking for a subject? The [content by topic](/topics/) gathers
+Looking for a subject? The [topic index](/topics/) gathers
 newsletter articles and conference talks.
 
 ## Sponsor the newsletter
