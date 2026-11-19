@@ -45,14 +45,14 @@ Join the waiting list
 
 ```{button-link} /conf/{{shortcode}}/{{year}}/news/#join-our-mailing-list
 :year: {{ year }}
-Hear about tickets on the mailing list
+Join our mailing list for ticket updates
 ```
 
 {% endif %}
 
 Write the Docs {{ name }} {{ year }} is a hybrid conference, which you can attend in person or virtually.
 
-Each in-person ticket includes:
+**In-person tickets include:**
 
 - Entry to all conference events and activities
 - Snacks and drinks on event days (Sunday-Tuesday)
@@ -61,21 +61,20 @@ Each in-person ticket includes:
 - Meeting lots of fantastic people in a spacious, inviting venue
 - Access to the virtual platform
 
-Virtual tickets include:
+**Virtual tickets include:**
 
 - Watching all talks and Q&A sessions on the main stage live
 - Submitting live Q&A questions for speakers
 - A virtual hallway track and chat so you can network with other remote attendees
-
-Virtual tickets include:
-
-- Watching all talks and Q&A sessions on the main stage live
-- Submitting live Q&A questions for speakers
-- A virtual hallway track and chat so you can network with other remote attendees
+- A virtual Unconference track
 
 Learn more about the [virtual attendance experience](/conf/{{shortcode}}/{{year}}/virtual/).
 
 All attendees, in person or virtual, are required to abide by our [Code of Conduct](https://www.writethedocs.org/code-of-conduct/).
+
+{% if not flagticketsonsale and not flagsoldout %}
+**Tickets will be available in {{ date.tickets_live }}.**
+{% endif %}
 
 ## Ticket Types
 

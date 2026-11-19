@@ -1349,15 +1349,22 @@ footer {
 
     .about .uk-container {
         display: flex;
+        align-items: center;
+        gap: 32px;
         max-width: 640px;
 
         .about-content {
+            flex: 1 1 auto;
             max-width: 520px;
         }
 
-        .picture-set{
+        .picture-set {
+            flex: 0 0 45%;
             overflow: hidden;
-            min-width: 320px;
+
+            img {
+                width: 100%;
+            }
         }
     }
 
@@ -2212,6 +2219,16 @@ body .page-content p.ticket-status {
 @media (min-width: 1200px) {
     body .page-content.has-page-toc .uk-container {
         max-width: 1080px !important;
+    }
+
+    // The home page's "What is Write the Docs?" and testimonial blocks widen
+    // the same way, so the photo beside the text gets the extra room.
+    .about .uk-container {
+        max-width: 1080px !important;
+
+        .picture-set {
+            flex: 1 1 auto;
+        }
     }
 
     .page-columns {

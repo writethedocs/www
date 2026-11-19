@@ -7,7 +7,9 @@
 
   An item, or a whole dropdown, with `show` appears only when that's true,
   usually a flag from the conference's config. The logistics pages join the
-  menu with the attendee guide. `page` is relative to the conference, so "cfp" is
+  menu with the attendee guide, the program with the speakers or schedule,
+  the grants and volunteer pages with their forms, and Convince Your Manager
+  with the ticket sale. `page` is relative to the conference, so "cfp" is
   conf/<city>/<year>/cfp.
 
   Import it with the page's context, which holds the conference's config:
@@ -15,13 +17,13 @@
 -#}
 
 {%- set menu = [
-  {'text': 'Program', 'page': 'schedule', 'children': [
+  {'text': 'Program', 'page': 'schedule', 'show': flagspeakersannounced or flaghasschedule, 'children': [
     {'text': 'Schedule', 'page': 'schedule', 'show': flaghasschedule},
     {'text': 'Speakers', 'page': 'speakers', 'show': flagspeakersannounced},
     {'text': 'Call for Proposals', 'page': 'cfp', 'show': flagcfp},
     {'text': 'Community Day', 'page': 'community-day', 'show': flaghascommunityday},
-    {'text': 'Lightning Talks', 'page': 'lightning-talks', 'show': flaghaslightningtalks},
     {'text': 'Unconference', 'page': 'unconference', 'show': flaghasunconf},
+    {'text': 'Lightning Talks', 'page': 'lightning-talks', 'show': flaghaslightningtalks},
     {'text': 'Hike', 'page': 'hike', 'show': flaghashike},
     {'text': 'Boat Ride', 'page': 'boat', 'show': flaghasboat},
     {'text': 'Social Events', 'page': 'social-events'},
@@ -30,14 +32,15 @@
   {'text': 'Tickets', 'page': 'tickets', 'children': [
     {'text': 'Tickets', 'page': 'tickets'},
     {'text': 'Virtual Attendance', 'page': 'virtual'},
-    {'text': 'Opportunity Grants', 'page': 'opportunity-grants'},
-    {'text': 'Convince Your Manager', 'page': 'convince-your-manager'},
+    {'text': 'Opportunity Grants', 'page': 'opportunity-grants', 'show': grants.url},
+    {'text': 'Convince Your Manager', 'page': 'convince-your-manager', 'show': flagticketsonsale},
   ]},
   {'text': 'About', 'page': 'about', 'children': [
+    {'text': 'What is Write the Docs?', 'page': 'index', 'anchor': 'about'},
     {'text': 'Venue', 'page': 'venue'},
     {'text': 'Visiting ' ~ city, 'page': 'visiting', 'show': flaghasvisiting and not flagisvirtual},
     {'text': 'Attendee Guide', 'page': 'attendee-guide', 'show': flaghasattendeeguide and not flagisvirtual},
-    {'text': 'Volunteer Info', 'page': 'volunteer', 'show': not flagisvirtual},
+    {'text': 'Volunteer Info', 'page': 'volunteer', 'show': volunteer.get('form_url') and not flagisvirtual},
     {'text': 'Health and Safety Policy', 'page': 'health', 'show': flaghasattendeeguide and not flagisvirtual},
     {'text': 'Code of Conduct', 'page': 'code-of-conduct'},
     {'text': 'Meet the Team', 'page': 'team', 'show': flaghasteam},
@@ -52,8 +55,10 @@
   {'text': 'News', 'page': 'news'},
 ] %}
 
-{%- macro link(page) -%}
-{{ pathto('conf/' ~ shortcode ~ '/' ~ year_str ~ '/' ~ page) }}
+{%- macro link(page, anchor=None) -%}
+{%- set url = pathto('conf/' ~ shortcode ~ '/' ~ year_str ~ '/' ~ page) -%}
+{#- pathto() gives "#" for the current page, which an anchor replaces. -#}
+{%- if anchor %}{{ '' if url == '#' else url }}#{{ anchor }}{% else %}{{ url }}{% endif %}
 {%- endmacro %}
 
 {#- The "Speak" button at the end, while the call for proposals is open. #}
@@ -74,7 +79,7 @@
         <div class="uk-navbar-dropdown">
           <ul class="uk-nav uk-navbar-dropdown-nav">
             {%- for child in item.children if child.get('show', True) %}
-            <li><a href="{{ link(child.page) }}">{{ child.text }}</a></li>
+            <li><a href="{{ link(child.page, child.get('anchor')) }}">{{ child.text }}</a></li>
             {%- endfor %}
           </ul>
         </div>
@@ -95,7 +100,7 @@
     {%- if item.children %}
     <ul class="uk-nav-sub">
       {%- for child in item.children if child.get('show', True) %}
-      <li><a href="{{ link(child.page) }}">{{ child.text }}</a></li>
+      <li><a href="{{ link(child.page, child.get('anchor')) }}">{{ child.text }}</a></li>
       {%- endfor %}
     </ul>
     {%- endif %}

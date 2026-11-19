@@ -1,6 +1,6 @@
 ---
 template: {{year}}/generic.html
-banner: _static/conf/images/photos/welcome-wagon-55274115480.jpg
+banner: _static/conf/images/photos/volunteers-thumbs-up-55265229232.jpg
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
