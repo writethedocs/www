@@ -3,13 +3,13 @@ template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
-```{post} November 30, 2026
+```{post} November 27, 2026
 :tags: {{shortcode}}-{{year}}
 ```
 
 # Welcome to Write the Docs Australia {{ year }}
 
-We have officially arrived at conference week! We can't wait to gather with you in Melbourne and online, for two days of talks, lightning talks, and a brand new experiment we call Fishbowl.
+We are just a week away from our conference! We can't wait to gather with you in Melbourne and online, for two days of talks, lightning talks, and a brand new experiment we call Fishbowl.
 
  We hope you are as excited as we are! We still [have tickets available](https://www.writethedocs.org/conf/australia/2026/tickets/) if you are able to join us. Virtual registration will close on Dec 1.
 
@@ -91,7 +91,7 @@ Yes, all talks are recorded and videos will be published within a few weeks afte
 
 **Where should I go if I need a quiet space?**
 
-The Treasury Gardens are a 2 min walk from the Treasury Theatre, and can provide some great outdoor space to get some fresh air or some quiet.
+The Treasury Gardens are a 2 min walk from the Treasury Theatre, and can provide some great outdoor space to get some fresh air or some quiet time.
 
 ## Thanks to our sponsors
 
