@@ -2,7 +2,7 @@
 template: {{year}}/generic.html
 ---
 
-# {{city|title}} {{year}} Code of Conduct
+# Code of Conduct
 
 ```{include} ../../../code-of-conduct.md
 :start-after: conference-include-body
