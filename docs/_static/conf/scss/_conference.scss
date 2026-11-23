@@ -238,6 +238,20 @@ body em {
     }
 }
 
+// A link in running text: dashed underline, solid in the event colour on hover.
+@mixin text-link {
+    a:not(.headerlink), a:active:not(.headerlink), a:visited:not(.headerlink), a:link:not(.headerlink) {
+        border-bottom: 1px dashed $header-color;
+        color: $header-color;
+        text-decoration: none;
+    }
+
+    a:hover:not(.headerlink) {
+        border-bottom: 1px solid $main-color;
+        text-decoration: none;
+    }
+}
+
 // The outlined "Speak" button in the header: text and outline in one colour,
 // filled with it on hover. White on the front page hero, the conference
 // colour on the sub pages.
@@ -319,16 +333,7 @@ body .page-content {
     // Long URLs in the text wrap instead of widening the page on phones.
     overflow-wrap: break-word;
 
-    a:not(.headerlink), a:active:not(.headerlink), a:visited:not(.headerlink), a:link:not(.headerlink) {
-        border-bottom: 1px dashed $header-color;
-        color: $header-color;
-        text-decoration: none;
-    }
-
-    a:hover:not(.headerlink) {
-        border-bottom: 1px solid $main-color;
-        text-decoration: none;
-    }
+    @include text-link;
 
     a.headerlink {
         color: #fff;
@@ -656,6 +661,11 @@ body .page-content {
         text-align: left;
     }
 
+    // The blocks sit outside .page-content, so the text links need the
+    // same treatment or they read as plain copy.
+    .about-content {
+        @include text-link;
+    }
 }
 
 .key-dates {
