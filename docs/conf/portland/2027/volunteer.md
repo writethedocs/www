@@ -1,6 +1,5 @@
 ---
 template: {{year}}/generic.html
-banner: _static/conf/images/photos/volunteers-thumbs-up-55265229232.jpg
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
@@ -12,6 +11,8 @@ We are looking for volunteers to provide support with a variety of conference ro
 Completing this form signs you up to volunteer. We will close the form once volunteer capacity is reached. Another form will be sent out once the speaker schedule is released.
 
 Each individual must volunteer for two or more 3-4 hour shifts and receives a **free ticket** to the conference.
+
+![Volunteers at the registration desk](/_static/conf/images/photos/registration-desk-55266531275.jpg)
 
 ## Key dates
 
