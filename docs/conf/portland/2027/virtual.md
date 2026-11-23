@@ -14,7 +14,7 @@ If you can't join us in person, you can still participate and connect from where
 - **Talks:** Watch all talks and Q&A sessions on the main stage live, in {{tz}}.
 - **Q&A:** Each talk is followed by a moderated Q&A. Send in your question using the QR code, and our moderators will put it to the speaker. Virtual attendees use the same QR code.
 - **Hallway track:** A virtual hallway track and chat so you can network with other remote attendees.
-- **Unconference:** A dedicated virtual Unconference channel, with a sign-up sheet for the slots or sessions of the day. Read more about the [Unconference](/conf/{{shortcode}}/{{year}}/unconference/).
+- **Unconference:** A dedicated virtual Unconference track, with a sign-up sheet for the slots or sessions of the day. Read more about the [Unconference](/conf/{{shortcode}}/{{year}}/unconference/).
 - **Videos:** Conference talk videos are available 2-3 weeks after the event on the [Write the Docs YouTube channel](https://www.youtube.com/c/WritetheDocs).
 
 ## The platform
@@ -25,13 +25,4 @@ Under **Sessions** you'll find the hallway sessions, where you can join with you
 
 You'll receive an email titled **Virtual platform access for Write the Docs** one week before the conference, and again on the day of the conference, with your unique login link, a quick start guide for the platform, and information about testing your setup.
 
-## Tickets
-
-All in-person tickets include access to the virtual platform too.
-See the [tickets page](/conf/{{shortcode}}/{{year}}/tickets/) for in-person tickets and the refund policy.
-
-{% if not flagticketsonsale %}
-**Tickets will be available in {{ date.tickets_live }}.**
-{% endif %}
-
-{% include "include/virtual-tickets.html" %}
+View the [tickets page](/conf/{{shortcode}}/{{year}}/tickets/) to purchase your virtual ticket.{% if not flagticketsonsale and not flagsoldout %} Tickets will be available in {{ date.tickets_live }}.{% endif %}

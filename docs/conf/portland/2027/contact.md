@@ -1,5 +1,6 @@
 ---
 template: {{year}}/generic.html
+banner: _static/conf/images/photos/welcome-wagon-55274115480.jpg
 ---
 
 # Contact Us
