@@ -146,6 +146,10 @@ unconf:
   url: https://bit.ly/wtd-au-2026
   date: "Thursday and Friday after the morning tea break"
 
+lightning_talks:
+  signup_url: "https://forms.gle/6ekEHM9KuFMjgQaE7"
+
+
 qa:
   event_id: pheuiBqUcsduHbivhQgBQV  # TODO: replace with the Australia 2026 Slido event (this is Portland 2025's)
 
