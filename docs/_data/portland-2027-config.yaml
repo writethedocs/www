@@ -18,23 +18,6 @@ time_format: 12h
 videos:
   playlist: ""  # YouTube playlist, once the videos are up
 
-# Ticket prices carried over from 2026 until the 2027 prices are confirmed.
-tickets:
-  concierge:
-    price: $750
-  corporate:
-    price: $650
-  independent:
-    price: $350
-  student:
-    price: $100
-  virtual_corporate:
-    price: $175
-  virtual_independent:
-    price: $100
-  virtual_student:
-    price: $50
-
 sponsorship:
   second_draft:  # shown as "Supporter" on the site
     price: $3,500
@@ -117,6 +100,7 @@ date: # how do we handle these? human readable would be nice.
   total_talk_days: 2
 
 about:
+  summary: Write the Docs Portland 2027 is a 3-day conference in Portland, Oregon. The program includes a Community Day with collaborative documentation projects, two days of speaker talks, lightning talks, and an attendee-led unconference. It also features a sponsor expo, a pre-conference hike, and social events.
   attendees: 400
   social_venue: TBD
   venue: Revolution Hall
@@ -164,10 +148,21 @@ cfp:
 
 unconf:
   url: ""
+  sponsor: ""  # name of an entry in the sponsors block
   date: "All day, Monday, May 3 and Tuesday, May 4"
 
 lightning_talks:
   signup_url: ""
+
+# Each is the name of an entry in the sponsors block, shown on the social events page.
+social_events:
+  reception_sponsor: ""
+  social_sponsor: ""
+
+# Each is the name of an entry in the sponsors block, shown on the attendee guide.
+attendee_guide:
+  lounge_sponsor: ""
+  headshots_sponsor: ""
 
 qa:
   event_id: ""
@@ -244,7 +239,7 @@ photos:
 
 
 # Things that change over time, listed in order of change
-flaglanding: True
+flaglanding: False
 flaghassponsors: True
 flagcfp: True
 flagticketsonsale: False

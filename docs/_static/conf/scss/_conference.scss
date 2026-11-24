@@ -238,9 +238,35 @@ body em {
     }
 }
 
+// A link in running text: dashed underline, solid in the event colour on hover.
+@mixin text-link {
+    a:not(.headerlink), a:active:not(.headerlink), a:visited:not(.headerlink), a:link:not(.headerlink) {
+        border-bottom: 1px dashed $header-color;
+        color: $header-color;
+        text-decoration: none;
+    }
+
+    a:hover:not(.headerlink) {
+        border-bottom: 1px solid $main-color;
+        text-decoration: none;
+    }
+}
+
+// The outlined "Speak" button in the header: text and outline in one colour,
+// filled with it on hover. White on the front page hero, the conference
+// colour on the sub pages.
+@mixin ghost-button($color, $hover-text) {
+    color: $color;
+    border: 2px solid $color;
+
+    &:hover {
+        color: $hover-text;
+        background-color: $color;
+    }
+}
+
 body .uk-button.uk-button-ghost {
     background: transparent;
-    border: 1px solid $white;
     border-radius: 6px;
     padding-left: 30px;
     padding-right: 30px;
@@ -307,16 +333,7 @@ body .page-content {
     // Long URLs in the text wrap instead of widening the page on phones.
     overflow-wrap: break-word;
 
-    a:not(.headerlink), a:active:not(.headerlink), a:visited:not(.headerlink), a:link:not(.headerlink) {
-        border-bottom: 1px dashed $header-color;
-        color: $header-color;
-        text-decoration: none;
-    }
-
-    a:hover:not(.headerlink) {
-        border-bottom: 1px solid $main-color;
-        text-decoration: none;
-    }
+    @include text-link;
 
     a.headerlink {
         color: #fff;
@@ -339,6 +356,8 @@ body .page-content {
         margin-top: 36px;
         border-radius: 3px;
         margin-top: 20px;
+        // Same gap as a paragraph, so a heading after the last box isn't flush.
+        margin-bottom: 20px;
 
         a.headerlink, a.headerlink:visited {
             padding-left: 10px;
@@ -527,6 +546,10 @@ body .page-content {
         }
     }
 
+    .uk-navbar-right > .uk-nav > li > a.uk-button-ghost {
+        @include ghost-button($white, $main-color);
+    }
+
     .uk-navbar-toggle {
         color: $font-black;
     }
@@ -638,6 +661,11 @@ body .page-content {
         text-align: left;
     }
 
+    // The blocks sit outside .page-content, so the text links need the
+    // same treatment or they read as plain copy.
+    .about-content {
+        @include text-link;
+    }
 }
 
 .key-dates {
@@ -1214,19 +1242,12 @@ footer {
             }
 
             & > a.uk-button-ghost {
+                @include ghost-button($main-color, $white);
                 height: 38px;
-                color: $main-color;
                 width: 116px;
-                border: 2px solid $main-color;
-                border-radius: 6px;
                 display: flex;
                 justify-content: center;
                 align-items: center;
-
-                &:hover {
-                    color: $white;
-                    background-color: $main-color;
-                }
             }
 
             .uk-nav.uk-navbar-dropdown-nav li {
@@ -1338,15 +1359,22 @@ footer {
 
     .about .uk-container {
         display: flex;
+        align-items: center;
+        gap: 32px;
         max-width: 640px;
 
         .about-content {
+            flex: 1 1 auto;
             max-width: 520px;
         }
 
-        .picture-set{
+        .picture-set {
+            flex: 0 0 45%;
             overflow: hidden;
-            min-width: 320px;
+
+            img {
+                width: 100%;
+            }
         }
     }
 
@@ -2128,6 +2156,16 @@ table {
     }
 }
 
+// The tickets page's opening line, so whether tickets are on sale stands out.
+body .page-content p.ticket-status {
+    margin: 0 0 20px;
+    padding: 16px 20px;
+    border-left: 4px solid $main-color;
+    border-radius: 3px;
+    background: $tint-color;
+    font-size: 1.15em;
+}
+
 .page-toc-compact {
     margin: 0 0 24px;
     border: 1px solid $line-color;
@@ -2191,6 +2229,16 @@ table {
 @media (min-width: 1200px) {
     body .page-content.has-page-toc .uk-container {
         max-width: 1080px !important;
+    }
+
+    // The home page's "What is Write the Docs?" and testimonial blocks widen
+    // the same way, so the photo beside the text gets the extra room.
+    .about .uk-container {
+        max-width: 1080px !important;
+
+        .picture-set {
+            flex: 1 1 auto;
+        }
     }
 
     .page-columns {

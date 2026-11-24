@@ -240,3 +240,7 @@ Related resources:
 - [How to Write Good Error Messages -– UX Planet](https://uxplanet.org/how-to-write-good-error-messages-858e4551cd4)
 - [How to write better error messages –- opensource.com](https://opensource.com/article/17/8/write-effective-error-messages)
 - [How to write better error messages for databases -- PostgreSQL](https://www.postgresql.org/docs/current/error-style-guide.html)
+
+```{seealso}
+Browse talks and newsletter articles about {ref}`style guides <topics:Style guides>` in our topic index.
+```
