@@ -3,7 +3,7 @@ template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
 ---
 
-```{post} November 27, 2026
+```{post} November 25, 2026
 :tags: {{shortcode}}-{{year}}
 ```
 
