@@ -87,6 +87,29 @@ Sponsor branding at the Monday evening party, including branded bar menu and ent
 
 ---
 
+## Sponsor-hosted dinner
+
+A dinner for attendees that the sponsor hosts at a restaurant of their choice, on an evening around the conference. Write the Docs lists the dinner alongside the official social events and helps spread the word, and the sponsor invites attendees. Dinners run outside the conference program, so they don't overlap with talks.
+
+- **Time:** Any evening from Saturday to Tuesday. On Monday, the evening social runs 7:00–9:00 PM, so plan the dinner before or after it
+- **Location:** A restaurant or venue near the conference, booked by the sponsor
+- **Available to:** Keystone and Patron sponsors (packages with a booth)
+
+### What Write the Docs provides
+
+- Listing on the [social events](/conf/{{shortcode}}/{{year}}/social-events/) page and the conference schedule, with the sponsor's RSVP link
+- Mention in a pre-conference email to attendees and in the conference Slack channel
+- Sign at the registration table with the dinner details
+
+### What the sponsor provides
+
+- Venue, food and drink, and staff to host the evening
+- RSVP form and guest list. Write the Docs doesn't share attendee information, so invitations go out through the listing, your booth, and your own network
+- Dinner details (venue, time, capacity) 4 weeks before the event for program inclusion
+- Dinner follows the conference [code of conduct](/conf/{{shortcode}}/{{year}}/code-of-conduct/)
+
+---
+
 ## Branded food and dessert station
 
 An optional add-on for social event sponsorships. A branded food or dessert station (e.g., ice cream booth) at the Sunday Welcome Reception or Monday Evening Social, with dedicated signage featuring the sponsor logo.
