@@ -1,7 +1,7 @@
 ---
 template: {{year}}/generic.html
 og:image: _static/conf/images/headers/{{shortcode}}-{{year}}-opengraph.jpg
-banner: _static/conf/images/photos/sponsor-area-55315792369.jpg
+banner: _static/conf/images/photos/sponsor-table-55273591166.jpg
 ---
 
 {%- macro conf_sponsors() -%}

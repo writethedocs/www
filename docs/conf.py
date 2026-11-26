@@ -99,6 +99,7 @@ extensions = [
     'notfound.extension',
     'sphinxemoji.sphinxemoji',
     'myst_parser',
+    'sphinx.ext.autosectionlabel',
     'sphinxext.opengraph',
     'sphinx_sitemap',
     # Local build-speed fixes; must come after ablog, which it patches.
@@ -108,6 +109,8 @@ extensions = [
     # Fixes for Markdown pages: '&' in links, classes on sections.
     '_ext.markdown',
 ]
+
+autosectionlabel_prefix_document = True
 
 myst_heading_anchors = 4
 # linkify turns a bare email address or URL in Markdown into a link, as
@@ -217,7 +220,7 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
-suppress_warnings = ['image.nonlocal_uri', 'myst.header']
+suppress_warnings = ['image.nonlocal_uri', 'myst.header', 'autosectionlabel.*']
 
 # Our additions
 
